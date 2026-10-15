@@ -1,14 +1,10 @@
 # Deployable Cover
 
-> **N5.3 change (September 2026):** Deployable Cover is **AUTOMATIC EQUIPMENT** with the Traits **Deployable, Disposable (2), Indiscriminate, Perimeter**. Placement is completely inside the user's ZoC.
-
-AUTOMATIC EQUIPMENT
-
-Deployable, Disposable (2), Indiscriminate, Perimeter.
+Equipment
 
 A portable defense system designed to place a Scenery Element on the battlefield to provide cover.
 
-- When the player declares the Place Deployable Common Skill, the Trooper places the Deployable Cover Scenery Element on the game table, completely inside their ZoC.
+- When the player declares the Place Deployable Common Skill, the Trooper places the Deployable Cover Scenery Element on the game table.
 
 - The Deployable Cover Scenery Element has a Silhouette Attribute of 3.
 
@@ -34,7 +30,7 @@ A portable defense system designed to place a Scenery Element on the battlefield
 
 A Trooper claiming Partial Cover from Deployable Cover (Vitroferro) applies a maximum MOD of +6 to his Saving Roll, even if he is in Partial Cover from another piece of scenery. Also, he cannot apply the -3 BS MOD to the enemy Attacker’s BS Attack Roll. All this only applies if the Attacker cannot get a full view of the Trooper’s Silhouette past the Deployable Cover. In either case, if the Trooper is the target of an Attack, the player may choose to have the Trooper benefit from Cover or apply the Deployable Cover.
 
-As the Deployable Cover is a Scenery Element, it does not hinder the movement of Allied or Enemy Troopers who are taller than its Silhouette Template.
+As the Deployable Cover is a Scenery Element, it does not hinder the movement of [[Allied] or Enemy Troopers who are taller than its Silhouette Template.
 
 ## Deployable Cover FAQs
 
@@ -43,41 +39,62 @@ Q: Can anything be placed on or end a move on Deployable Cover?
 A: No.
 
 **[UNOFFICIAL COMMENT]**
-• N5.3 traits: **Deployable, Disposable (2), Indiscriminate, Perimeter**.  
+• It is a Deployable piece of Equipment.  
 • It occupies physical space on the table and blocks LoF like scenery of its silhouette size.  
-• It provides Cover according to the Deployable Cover variant and the normal LoF/Cover requirements.  
+• It provides Cover to any Trooper that fulfills the standard Cover requirements (being in contact with or partially behind it, per LoF and silhouette rules).  
 
 • **Silhouette & Placement**  
-  Being a Deployable, its silhouette determines whether it fits in the chosen deployment spot and how it affects LoF. Under N5.3, placement is completely inside the user's ZoC and the Perimeter Trait is part of the Equipment profile.
+  Being a Deployable, its silhouette determines:
+  - Whether it fits in the chosen deployment spot.  
+  - How much of a Trooper it can obscure from enemy LoF.  
+  - Whether it can be climbed over or jumped onto.
 
 **[UNOFFICIAL COMMENT — Tactical Uses]**
 
 • **Anchor a firing lane**  
-  Place it on corners to create useful cover geometry.
+  Place it on corners to create a safe “peeking” angle that allows your Trooper to win FTF rolls by limiting enemy retaliation.
 
 • **Objective Protection**  
-  Setting up Deployable Cover near objectives can create safer positions for Specialists.
+  Setting up Deployable Cover next to consoles or tech-coffins can create safe positions for button-pushers.
 
 • **Reshaping Terrain**  
-  It can modify table geometry mid-game and create new cover/LoF interactions.
+  One of the strongest uses: modifying the table geometry mid-game. Useful for:
+  - Blocking potential template paths  
+  - Creating partial walls for Fireteam coherency  
+  - Breaking doorways or long firelanes
+
+• **Survivability Boost**  
+  A Trooper with Mimetism or high ARM SR values becomes significantly harder to remove when benefiting from guaranteed Cover supplied by a deployable.
 
 ---
 
 **[UNOFFICIAL COMMENT — Comparison to Similar Equipment]**
 
 **Deployable Cover vs. Sapper / Foxhole**  
-- **Sapper:** Grants a state/positioning package to the Trooper under its own rules.  
-- **Deployable Cover:** Creates an external Scenery Element that persists independently once placed.
+- **Sapper:** Grants a *state* to the Trooper, creating their own Cover position.  
+- **Cover Equipment:** Creates an *external element* on the table.  
+- **Pros (Cover):** Can be used by multiple Troopers; persists if the owner moves away.  
+- **Pros (Sapper):** Instant defensive bonus without spending orders.  
+- **Cons (Sapper):** Fixed to one Trooper; cancels under movement.
 
 **[UNOFFICIAL COMMENT — Pros and Cons Summary]**
 
 **Pros**  
-• Creates cover independent of pre-existing terrain.  
+• Provides guaranteed Cover independent of terrain.  
 • Reshapes LoF and firelanes.  
-• Disposable (2) gives two uses before reloading, where applicable.  
+• Helps defensively in midfield missions.  
+• Multi-trooper utility across an entire game.
 
 **Cons**  
-• Requires legal placement and can be removed by Deactivator.  
-• Can be bypassed by movement or alternate firing angles.  
-• Placement can also obstruct your own plans if used poorly.
+• Does not prevent templates from hitting behind it.  
+• May require careful placement to avoid hindering your own movement.  
+• Offers no offensive capabilities.  
+• Can be bypassed by Climbing+, Super-Jump, or high-angle fire.
+
+**[UNOFFICIAL COMMENT — Example Uses]**
+
+• Create a “half-corner” allowing a sniper to expose only a tiny part of their silhouette.  
+• Place Cover next to objectives to give safe WIP rolls under enemy fire.  
+• Build a small barricade in deployment to hide key support units (Doctor, Hacker).  
+• Protect retreat paths from template sweeps.
 

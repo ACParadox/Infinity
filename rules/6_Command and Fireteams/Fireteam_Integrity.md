@@ -1,9 +1,5 @@
 # Fireteam Integrity
 
-> **N5.3 change (September 2026):** If the **Fireteam Leader becomes the Controller of a Peripheral**, the Fireteam is cancelled. If another Fireteam member becomes the Controller of a Peripheral, that Trooper leaves the Fireteam.
->
-> **N5 FAQ v0.1 clarification (September 2026):** Losing a Trooper that was required to create a Fireteam does **not** by itself cancel it; the Fireteam Chart's `Min` requirement is checked when creating the Fireteam. FT Master can override this. A Fireteam also **keeps its original Type** when members are lost—a Haris reduced to two members is still a Haris, not a Duo.
-
 Fireteams Module
 
 In the Active and Reactive Turns, a Fireteam is automatically cancelled in the following situations:
@@ -16,8 +12,6 @@ In the Active and Reactive Turns, a Fireteam is automatically cancelled in the f
 
 - The Fireteam Leader declares an ARO different from the Fireteam's ARO.
 
-- **The Fireteam Leader becomes the Controller of a Peripheral.**
-
 - The Fireteam is reduced to one member.
 
 - A Retreat! situation occurs.
@@ -27,8 +21,6 @@ In the Active and Reactive Turns, a Fireteam is automatically cancelled in the f
 - In the Active or Reactive Turn, the player voluntarily chooses to cancel the Fireteam. This requires no additional expenditure of Orders or Command Tokens. The player must indicate so before the Order is spent by any of the players.
 
 In the Active Turn and Reactive Turn, a Trooper automatically stops being part of a Fireteam in the following cases:
-
-- **The Trooper becomes the Controller of a Peripheral.**
 
 - The Trooper enters or is in Isolated State or any Null State.
 
@@ -56,12 +48,6 @@ In any of the above cases, the Trooper stops being part of the Fireteam the mome
 
 - When one or more members leave the Fireteam, the player must recalculate the number of members to check if a Fireteam Cancellation occurs, or to determine the bonuses available to the members during that Order if there are still enough members for there to be a Fireteam.
 
-## N5 FAQ v0.1 — Fireteam persistence
-
-- The `Min` column in a Fireteam Chart applies when **creating** the Fireteam. Losing a member who was needed to satisfy that minimum does not automatically cancel the Fireteam afterward.
-- FT Master has its own cancellation rule and can override the general rule above.
-- A Fireteam does not change Type as its membership drops. A Haris remains a Haris; a Core remains a Core; a Duo remains a Duo until cancelled or re-created under another valid Type.
-
 ## Fireteam Integrity - Number 2
 
 - The Fireteam Leader of that Fireteam enters Isolated State or any Null State
@@ -78,18 +64,45 @@ Troopers who left a Fireteam can automatically rejoin it if they are in Coherenc
 
 
 **[UNOFFICIAL COMMENT]**
-## Integrity reminders
-
-- Fireteam membership and bonuses are recalculated when members leave or rejoin according to the Fireteam rules.
-- Coherency is checked against the Fireteam Leader, not by chaining member-to-member distances.
-- Do not assume that every restrictive State removes a Trooper from a Fireteam: use the explicit Fireteam Integrity cancellation/leaving list. In particular, N5.3 specifically adds becoming a **Peripheral Controller** to that list.
-- Losing a required formation member after creation does not retroactively invalidate the Fireteam's creation; FAQ v0.1 confirms the `Min` value is a creation requirement.
-- Losing members does not morph the team into another Type. If you need a different Type, create that Fireteam under the normal creation rules.
+Fireteam Integrity is not a binary “on/off” state checked only when casualties occur. It is a continuous condition that is re-evaluated multiple times during an Order. Players often miss that Integrity can be lost temporarily mid-Order and immediately affect which troopers are activated and which bonuses apply.
 
 **[UNOFFICIAL COMMENT]**
-## Tactical implications
+A Fireteam can begin an Order intact, lose Integrity after the first Short Skill, and finish the Order with fewer members than expected. This frequently happens when movement stretches the team, when a member is Immobilized, or when a trooper is forced out of Coherency by terrain or Guts movement.
 
-- A model becoming a Peripheral Controller can intentionally or unintentionally break the link structure under N5.3; account for this before activating abilities that establish Controller status.
-- Removing a particular “required” profile is no longer enough by itself to cancel a team once it has legally formed, unless a specific rule such as FT Master says otherwise.
-- Because the team retains its Type, limits on how many Fireteams of each Type you may have continue to use that original Type even after casualties.
+**[UNOFFICIAL COMMENT]**
+Integrity is tied to Coherency with the Team Leader, not to mutual distances between all members. A trooper may appear “close enough” to other members but still be out of Integrity if it is outside the Team Leader’s Zone of Control. This is a common visual trap on dense tables.
+
+**[UNOFFICIAL COMMENT]**
+When Integrity is broken during the Active Turn, troopers that are out of Coherency immediately stop being part of the Fireteam for that Order and are not activated. They do not get retroactive movement or skill effects, even if the break happens after declaring the first Short Skill.
+
+**[UNOFFICIAL COMMENT]**
+Fireteam bonuses are recalculated the moment Integrity changes. This means Burst, Special Dice, Sixth Sense access, or other Fireteam-derived effects may be lost before rolls are made. Players sometimes incorrectly “lock in” bonuses at declaration instead of resolution.
+
+**[UNOFFICIAL COMMENT]**
+Integrity loss does not cancel the Order itself. The Order continues, but only with the troopers that remain in Coherency. This is especially important for mixed Fireteams where losing a cheap member can drop the team below a bonus threshold mid-Order.
+
+**[UNOFFICIAL COMMENT]**
+Unconscious troopers break Integrity because they are no longer valid members for Coherency purposes, but they still physically occupy space on the table. This can cause unexpected chain reactions where one casualty forces others out of ZoC due to movement constraints.
+
+**[UNOFFICIAL COMMENT]**
+Isolated, Immobilized, or otherwise restricted troopers often create hidden Integrity failures. Even if they remain within ZoC, states that prevent movement can make it impossible to re-establish Integrity on subsequent Orders, effectively “shearing off” that model from the Fireteam.
+
+**[UNOFFICIAL COMMENT]**
+Integrity checks at the end of the Order matter just as much as those at the start. A Fireteam that ends an Order broken will begin the next Order already degraded, even if the movement during the Order seemed acceptable at first glance.
+
+**[UNOFFICIAL COMMENT]**
+In the Reactive Turn, Fireteam Integrity still matters. If an enemy action causes forced movement, Guts Rolls, or state changes that break Coherency, affected members immediately stop benefiting from Fireteam bonuses for their AROs.
+
+**[UNOFFICIAL COMMENT]**
+Players often forget that voluntary movement choices can be strategically worse than enemy fire. Overextending a Team Leader to gain LoF can silently strip bonuses from trailing members before dice are rolled.
+
+**[UNOFFICIAL COMMENT]**
+Strategic use: Deliberately allowing a low-value trooper to fall out of Integrity can be acceptable if it preserves bonuses for the core attackers. Not every Fireteam must remain at maximum size to function effectively.
+
+**[UNOFFICIAL COMMENT]**
+Strategic use: Opponents can attack Fireteam Integrity indirectly by forcing awkward movement, exploiting verticality, or applying states rather than simply killing members. Causing a single trooper to fail Coherency can be as effective as scoring a Wound.
+
+**[UNOFFICIAL COMMENT]**
+Tactical reminder: Always pre-measure mentally before declaring movement with a Fireteam. If exact ZoC distances are unclear, assume the worst-case outcome and plan the Order so that losing one member does not invalidate the intended action.
+
 

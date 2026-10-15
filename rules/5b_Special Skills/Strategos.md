@@ -1,7 +1,5 @@
 # Strategos
 
-> **N5.3 change (September 2026):** **Strategos L2** was aligned with L1. L2 includes the two-reserve-Trooper deployment benefit and conversion of Special Lieutenant Orders into Regular Orders, in addition to its free Combat Group transfer during the Tactical Phase.
-
 Special Skills
  AUTOMATIC SKILL
 Optional 
@@ -44,28 +42,37 @@ This Special Skill identifies professional strategists, individuals with superio
 ## COMPARISON WITH SIMILAR ORDER-MODIFYING SKILLS
 
 ### Strategos L1 vs L2
-- N5.3 explicitly gives L2 the L1 reserve and Lieutenant-order benefits; L2 additionally allows the player to move a Trooper to a different Combat Group without expending a Command Token. 
-This can be very useful if the main Combat Group has been reduced and the secondary Group can transfer a Trooper to it (or vice-versa).
+- All the same, except Strategos L2 allows the player to move a Trooper to a different Combat Group without expending a Command Token. 
+This can be very useful if the main Combat Group has been reduced, the secondary Group can transfer to it (or vice-versa).
 
 ### Strategos vs. NCO
-- **Strategos:** Converts Special Lieutenant Orders into Regular Orders in the Lieutenant's Combat Group.  
-- **NCO:** Uses the Lieutenant Order through the NCO rules.
+- **Strategos:** Converts Lt Order into a Regular Order usable by anyone.  
+- **NCO:** Converts Lt Order into a Tactical Order usable only by the NCO.
 
 **Strategos Pros:**  
-- More flexible Regular Order economy in the Lieutenant's group.  
-- Does not force a specific NCO to spend the order.  
+- More flexible.  
+- Does not force a specific unit forward.  
+- Better for large Fireteams or toolbox lists.
 
 **Strategos Cons:**  
-- Requires the Strategos user to be the Lieutenant.  
-- Can reduce the value of bringing NCO specifically to exploit Lieutenant Orders.
+- Reveals which Combat Group the Lieutenant belongs to.  
+- Makes NCO redundant.
+
+**NCO Pros:**  
+- Keeps opponent uncertain about which Combat Group the Lieutenant is in.  
+- Useful when Lieutenant is a Hidden Deployment or backline piece.  
+
+**NCO Cons:**  
+- Order is restricted to a specific Trooper.  
+- Requires exposing the NCO to spend it.
 
 ---
 ## TACTICAL NOTES
 
 ### When Strategos Is Most Effective
-- Armies that value reserve advantage, flexible Lieutenant-order conversion, and—at L2—free Combat Group restructuring.
+- Armies that lack good NCO options or where NCO platforms are fragile.
 
 ### Common Strategos Plays
-- Use the two-model reserve to protect or counter-deploy key pieces.
-- Use the L2 transfer to repair order-group structure after casualties without spending a Command Token.
+- Maintain order-economy tempo without telegraphing the Lieutenant’s movement.
+
 

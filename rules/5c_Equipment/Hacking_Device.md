@@ -1,14 +1,10 @@
 # Hacking Device
 
-> **N5.3 change (September 2026):** All Hacking Devices are **AUTOMATIC EQUIPMENT**.
->
-> **N5 FAQ v0.1 clarification (September 2026):** If a Trooper's Hacking Device provides Firewall, that Firewall applies to any Comms Attack against the Trooper while the Device is active. It stops applying while the Device is disabled, for example by Isolated or any Null State.
-
 Quantronic Combat (Hacking)
 
 Hacker | Firewall | Hacking Area | Repeater | Deployable Repeater | Hacking Programs Chart | Hacking Device
 
-AUTOMATIC EQUIPMENT
+Equipment
 
 Hacking Devices are the tools used during cybercombat. Multipurpose and versatile, these devices can be useful as support elements or to perform powerful cyberattacks, depending on the Device.
 
@@ -64,12 +60,6 @@ Hacking Devices and Hacking Programs have the following characteristics:
 
 Both Hackers and Hacking Devices may benefit from Upgrades. Check all the rules on Hacking.
 
-## FAQ v0.1
-
-Q: If a Trooper's Hacking Device has a Firewall, when do the Firewall MODs apply?
-
-A: The Firewall MODs apply to any Comms Attack made against the Trooper, unless their Hacking Device has been disabled, for example by being in Isolated State or any Null State.
-
 
 # Hacking Device – Interaction Notes and Unofficial Commentary
 
@@ -82,56 +72,96 @@ Because all Hacker programs work through the user's Hacking Area, any Repeater o
 Thus Hackers naturally become **area-denial tools**, forcing enemy Hackable units to navigate conservatively.
 
 ### 2. Using Repeaters offensively and defensively
-Repeaters allow your Hacker to attack through them; however, using an **enemy** Repeater can impose Firewall MODs under the Repeater rules.  
-This usually makes attacks less reliable unless the odds remain favorable.
+Repeaters allow your Hacker to attack through them; however, using an **enemy** Repeater imposes Firewall MODs.  
+This usually makes attacks (Carbonite, Oblivion) less reliable unless boosted by Targeted or by numerical Burst advantages.
 
 ### 3. ARO utility
-Because Hacker programs operate without LoF, they can provide strong ARO pressure through the Hacking Area. Check each Hacking Program's valid Targets and Requirements before declaration.
+Because Hacker programs operate without LoF, they excel in ARO:
+- **Spotlight** can be declared in ARO against any Model-form target, even non-Hackable ones.
+- **Carbonite** or **Oblivion** threaten HI/REM/TAG movement through Repeater networks.
+- **Total Control** threatens TAGs specifically and can be declared in ARO.
+
+This passive pressure is one of the strongest features of the Hacker profile.
 
 ### 4. Hacker vs. Hackable and Non-Hackable units
-Different Hacking Programs have different Target requirements. Spotlight is broadly useful, while programs such as Carbonite, Oblivion, and Total Control depend on the target meeting their own requirements.
+- **Carbonite**, **Oblivion**, **Total Control**: only vs. Hackable units (HI/REM/TAG/VH).  
+- **Spotlight**: universal—affects ANY Trooper in Model form.  
+Thus Spotlight gives the Hacker relevance in every matchup and every mission.
 
 ### 5. Targeted State synergy
-Spotlight can enable follow-up attacks and mission interactions that care about Targeted State.
+Spotlight → Guided Missiles remains a good tactical interactions in the system.  
+Because the Hacker version of Spotlight is identical to other Devices’, the Hacker gains excellent offensive synergy without needing specialized equipment.
 
 ### 6. Interaction with Firewalls / Tinbots
-Firewalls impose their listed WIP penalty on the attacker and give the protected Trooper +3 to Saving Rolls against Comms Attacks. Only one Firewall applies.
+Firewalls impose:
+- −3 WIP to the attacker
+- +3 to the defender’s Saving Rolls
+
+This dramatically reduces the reliability of Oblivion and Carbonite.  
+Firewalls are the main counter to Hacking Device aggression.
 
 ## Pros and Cons (Unofficial)
 
 ### Pros
-- Versatile cyber-control toolkit.
-- Strong area control when paired with Repeaters.
-- Can support Targeted/Guided strategies.
+- **Versatile toolkit**: IMM, Isolated, Possession, Targeted—covers nearly every form of cyber disruption.
+- **Strong ARO presence** with Spotlight, Carbonite, and Oblivion.
+- **Effective area control** when paired with Repeaters.
+- **Relevant in every matchup** because Spotlight works on non-Hackables.
+- **Synergizes with Guided Fire** and long-range indirect strategies.
 
 ### Cons
-- Vulnerable to enemy anti-Hacker tools.
-- Firewall-heavy positions can reduce attack reliability.
-- Effectiveness depends heavily on Repeater/Hacking Area positioning and program target restrictions.
+- **No direct protection** (no Cybermask or Firewall creation like HD+ or EVO).  
+- **Vulnerable to Killer Hackers**; Trinity hits hard.  
+- **Firewall-heavy metas reduce reliability** of Oblivion/Carbonite.
+- **TAG control (Total Control)** is high impact but low Burst, and Firewalls hinder it further.
+- Often weaker in “hacker duels” than a KHD.
+
 
 ## Comparison Notes (Unofficial)
 
 ### Hacking Device vs. Hacking Device Plus
-HD+ adds tools such as Cybermask and White Noise in addition to the standard control programs.
+**Hacker Advantages**
+- Cheaper points cost in most armies.
+- Simpler role: disruption + Spotlight.
+
+**HD+ Advantages**
+- Gains **Cybermask** (self-defense + movement tool).  
+- Gains **White Noise** (hard counter to MSV).  
+- Stronger flexibility and survival.
 
 ### Hacking Device vs. Killer Hacking Device
-A standard Hacking Device has broader control/support programs; a KHD is focused around Trinity and Cybermask.
+**Hacker Advantages**
+- Broader target set (HI/REM/TAG/any model via Spotlight).  
+- Controls board space, supports Guided play.
+- Better mission utility.
+
+**KHacker Advantages**
+- Strong at killing enemy Hackers.
+- Cheaper and more order-efficient for anti-hacker roles.  
 
 ### Hacking Device vs. EVO Device
-A standard Hacking Device is focused on direct hacking/control, while EVO provides supportware such as Assisted Fire, Enhanced Reaction, Fairy Dust, and Controlled Jump.
+**Hacker Advantages**
+- Much stronger in direct cyber combat.
+- Provides more disruption: IMM, Isolation, Targeted.
+
+**EVO Advantages**
+- Table-wide buffs: Fairy Dust, Assisted Fire, Controlled Jump.  
+- Useful in link teams, REM-heavy lists, or TAG support.
 
 ---
 
 ## Tactical Examples (Unofficial)
 
-- Build Repeater coverage so enemy Hackable units must account for hacking AROs.
-- Use Spotlight to support Targeted-based attacks and objectives.
-- Layer a standard Hacker with a KHD when you want both control and anti-Hacker capability.
+- **Repeater Net Trap**: Place a Repeater near mid-table. As enemy HI move through, declare Carbonite in ARO; force them to choose between Reset (low odds) or taking IMM-B risk.
+- **Total Control Ambush**: Hold your Hacker in reserve behind terrain; allow an enemy TAG to advance into your Repeater confluence, then declare Total Control in ARO.
+- **Spotlight Pressure**: In missions requiring Classifieds, Spotlight quietly earns points while also threatening Guided follow-up.
+- **Defensive Layering**: Pair an Hacker with a KHD—Hacker applies control effects while the KHacker protects the network.
 
 ---
 
 ## When to Take a Standard Hacking Device (Unofficial)
-- Your list uses Repeaters or Guided/Targeted support.
-- You want broad hacking control rather than purely anti-Hacker offense.
-- The mission or matchup rewards IMM/Isolated/Targeted effects.
+- Your list uses **Guided Missiles**, **Repeaters**, or **disruption-based control**.
+- You need reliable Spotlight for objectives.
+- The mission favors IMM/Isolated states (e.g., area denial, slowing high-value targets).
+- Your meta uses many TAGs, REMs or HI.
 

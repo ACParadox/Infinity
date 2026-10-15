@@ -1,14 +1,12 @@
 # Minelayer
 
-> **N5.3 change (September 2026):** Minelayer now checks enemy presence against the deployable's **Trigger Area**, and for **Perimeter Weapons or pieces of Equipment with the Perimeter Trait**, against their **Zone of Control**. This closes the Deployable Repeater/Minelayer exploit.
-
 Special Skills
  DEPLOYMENT SKILL
 Optional 
 
 The user of this Special Skill can secure his point of deployment by placing a Mine, or other Deployable Weapon or piece of Equipment he carries, nearby to prevent enemy Troopers from approaching.
 
-- There can be no enemy Troopers or Camouflage Markers inside the Trigger Area of the Deployable Weapon or piece of Equipment when it is deployed, or inside the Zone of Control for Perimeter Weapons or pieces of Equipment with the Perimeter Trait.
+- There can be no enemy Troopers or Camouflage Markers inside the Trigger Area of the Deployable Weapon or piece of Equipment when it is deployed, or inside the Zone of Control for Perimeter Weapons.
 
 - The deployment of the Deployable Weapon or piece of Equipment must follow the Deployment general conditions and must always be within the area in which the Minelayer Trooper is allowed to Deploy.
 
@@ -40,7 +38,7 @@ A: Yes, but your opponent must look away so that you can check the ZoC/Coherency
 # (Infinity N5)
 
 **[UNOFFICIAL COMMENT]**
-Minelayer allows a Trooper to deploy one or more Deployable Weapons or Equipment inside their Zone of Control during the Deployment Phase, following all normal deployment conditions.
+Minelayer allows a Trooper to deploy one or more Deployable Weapons or Equipment (usually Mines) inside their Zone of Control during the Deployment Phase, following all normal deployment conditions.
 
 This commentary expands on interactions, edge cases, tactics, comparisons, and pros/cons.
 
@@ -49,22 +47,23 @@ This commentary expands on interactions, edge cases, tactics, comparisons, and p
 **[UNOFFICIAL COMMENT]**
 Minelayer interacts with several core rules during Deployment:
 
-- **Trigger Area / Perimeter restrictions — N5.3**  
-  There can be **no enemy Trooper and no Camouflage Marker** inside the Trigger Area of the Deployable when it is deployed. For Perimeter Weapons or Equipment with the Perimeter Trait, apply the restriction to the deployable's Zone of Control. This applies to Deployable Repeaters and prevents using Minelayer to project a Perimeter/Repeater into an already occupied enemy area.
+- **Trigger Area Restrictions**  
+  Deployables with Trigger Areas (Mines, Koalas, etc.) cannot be placed if an enemy Trooper or Camouflage Marker is inside the Trigger Area.  
+  However, they *can* be placed if there is a **non-Camouflaged enemy** inside the Trigger Area even when a Camouflage Marker is also present.
 
 - **Zone of Control Checks Are Private Information**  
   During Deployment, you must check ZoC privately. Opponent must look away.
 
 - **Superior Deployment Skills Interaction**  
-  If the Minelayer uses a Skill with the *Superior Deployment* label that requires a roll, failure removes the deployed Mine/Deployable.
+  If the Minelayer uses a Skill with the *Superior Deployment* label that requires a roll failure removes the deployed Mine/Deployable.
 
-  Also, the deployable must stay within the zone where the Minelayer Trooper can be deployed.
+  Also, the deployable must stay within the zone where the minelayer trooper can be deployed (and not a further 8" outside the zone).
 
 - **Disposable Trait Interaction**  
-  A Deployable placed via Minelayer counts against the item's Disposable total.
+  A Deployable placed via Minelayer counts against the item’s Disposable total.
 
 - **Holoecho / Decoy Restrictions**  
-  Holoecho and Decoy rules do not duplicate a separately deployed Minelayer weapon/equipment unless a specific rule says otherwise.
+  Mines placed with Minelayer cannot be duplicated by Holoecho or Decoy states.
 
 ---
 
@@ -72,16 +71,16 @@ Minelayer interacts with several core rules during Deployment:
 
 **[UNOFFICIAL COMMENT]**
 - **Corridor Denial at Deployment**  
-  Minelayer lets you shape early-game approach routes.
+  Minelayer lets you shape early game approach routes. Mines placed 8" ahead often block common infiltration lanes.
 
 - **Supporting Camo Troops**  
-  A Minelayer profile with Camouflage can create ambiguity between the Trooper and nearby deployables.
+  A Minelayer profile with Camouflage can deploy a decoy line of defense that forces Discover or risk.
 
 - **Screening Against AD Troops**  
-  Deployables can constrain useful landing/entry routes when legally positioned.
+  Mines placed behind your Deployment Zone block easy landing zones for Parachutist/Combat Jump troops.
 
 - **Bluffing and Area Control**  
-  Multiple Minelayers can create ambiguity and force cautious movement.
+  Multiple Minelayers can create ambiguity. Opponents often waste Orders Discovering or maneuvering cautiously around nothing.
 
 ---
 
@@ -90,13 +89,16 @@ Minelayer interacts with several core rules during Deployment:
 **[UNOFFICIAL COMMENT]**
 
 - **Q: Can I place the mine on top of a building?**  
-  A: Yes, if the placement follows the Deployable's own placement rules, is within the Minelayer's ZoC, and satisfies all deployment restrictions.
+  A: Yes, as long as it is legal terrain, within ZoC, and follows general placement rules.
 
 - **Q: Does the mine need Line of Fire to the Minelayer?**  
-  A: No, unless the Deployable's own rules impose an additional requirement.
+  A: No. Only must be within ZoC unless the Deployable has additional restrictions.
+
+- **Q: Can I put a mine in a place the Trooper could not physically stand?**  
+  A: Yes, Mines ignore silhouette physicality checks unless a specific Deployable has pathing requirements.
 
 - **Q: Can Minelayer deploy multiple types of Deployables?**  
-  A: The Unit Profile and the number in brackets after Minelayer determine what can be deployed and how many; the bracketed number is not “one of each type.”
+  A: Only those the unit profile lists, with the number in brackets determining how many can be placed, minelayer [1] allow 1 weapon to be deployed, not one of each type.
 
 ---
 
@@ -104,8 +106,8 @@ Minelayer interacts with several core rules during Deployment:
 
 ### Minelayer vs. Deployables placed via *Place Deployable*
 **[UNOFFICIAL COMMENT]**
-- Minelayer placement occurs during Deployment without spending an Order.
-- Place Deployable is used during play and costs an activation.
+- Minelayer placement occurs **only during Deployment**, without Order cost.
+- Place Deployable requires **Short Skill during your Active Turn**.
 
 **Pros (Minelayer):**
 - Immediate board presence.
@@ -113,8 +115,8 @@ Minelayer interacts with several core rules during Deployment:
 - Zones are active starting Turn 1.
 
 **Cons:**
-- Must obey deployment-area and N5.3 Trigger Area/Perimeter restrictions.
-- Initial placement is fixed once deployment measurement/roll rules lock it in.
+- Must obey deployment-area restrictions.
+- Cannot adjust mines later without spending Orders.
 
 ---
 
@@ -123,12 +125,21 @@ Minelayer interacts with several core rules during Deployment:
 
 **Minelayer**  
 - Free placement at Deployment.  
-- Limited to ZoC and deployment restrictions.  
-- No attack Roll for the placement itself, apart from interactions with Superior Deployment where applicable.
+- Limited to ZoC.  
+- No chance of failure (unless tied to a Superior Deployment Roll).
 
 **Mine Dispenser**  
-- Requires Orders and the weapon's normal use rules.  
-- Projects Mines during the game rather than only at Deployment.
+- Requires Orders, BS Roll, and range bands.  
+- Allows placing mines far beyond ZoC.  
+- May place mines mid-game for adaptive control.
+
+**Pros (Minelayer):**  
+- Guaranteed early control.  
+- No Order or Roll cost.
+
+**Pros (Mine Dispenser):**  
+- Long-range mine projection.  
+- Mid-game geometry control.
 
 ---
 ## PROS AND CONS OF MINELAYER
@@ -136,28 +147,40 @@ Minelayer interacts with several core rules during Deployment:
 **Pros**
 - Immediate tempo advantage.  
 - Strong deterrence against enemy advancement.  
-- Protects key pieces and routes.  
+- Protects key pieces (Snipers, Lt, Hackers).  
 - Forces suboptimal enemy movement early.  
+- Creates psychological pressure during Deployment.
 
 **Cons**
-- Placement is constrained by the N5.3 enemy-presence restriction.  
-- Disposable counts are consumed before Turn 1.  
-- Bad initial placement can be difficult to recover from.
+- Mines can be bypassed by cautious or vertical movement.  
+- Sensor, MSV, and high-WIP troops mitigate its impact.  
+- Placement locked after Deployment; mistakes persist all game.  
+- Disposable counts are burned before Turn 1.
 
 ---
 
 ## ADVANCED TACTICS
 
 **[UNOFFICIAL COMMENT]**
-- Layer Minelayer defenses with Repeaters, Hackers, direct-template weapons, and ARO pieces, while respecting the N5.3 deployment restriction for each deployable.
+
+- **“Fake Firelane” Deployment**  
+  Place a mine on one side and position a Camo Token opposite. Opponent must decide which is the real threat.
+
+- **Anti-Smoke Trap**  
+  Place a Mine around corners where enemies expect to throw Smoke; the template can still cover them when they cross.
+
+- **Layered Defense**  
+  Combine Minelayer with Repeater nets and Hackers: enemy must Dodge a mine, only to enter an ARO hacking zone.
 
 ---
 
 ## COMMON MISTAKES TO AVOID
 
 **[UNOFFICIAL COMMENT]**
-- Forgetting the N5.3 Trigger Area / Perimeter enemy-presence check.  
-- Forgetting deployment-area restrictions.  
+- Placing mines too close to your own troops and blocking your own movement.  
+- Forgetting that mines cannot be placed inside the enemy Deployment Zone.  
 - Forgetting Disposable count reduction.  
-- Revealing private deployment information by measuring improperly.  
+- Revealing ZoC placement by measuring too early in Deployment.  
+- Leaving mines where Super-Jump or Climbing+ units easily circumvent them.
+
 
