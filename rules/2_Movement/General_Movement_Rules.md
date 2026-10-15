@@ -1,5 +1,7 @@
 # General Movement Rules
 
+> **N5.3 change (September 2026):** The Prone-state movement rule now applies when performing a **Skill or ARO with the Movement Label**, with **Jump and Berserk** as the exceptions. This supersedes the older “Short Skill / except Jump” wording.
+
 Movement Module
 
 - When moving Troopers around the battlefield, players must measure the complete route (including, for example, any detour to avoid obstacles) and must always use the same part of the base for their measurements.
@@ -22,7 +24,7 @@ Movement Module
 
 - In order to pass between an Enemy Trooper and an obstacle without entering Silhouette contact, the space in between must be wider than your Trooper's base.
 
-- When performing a Short Skill or ARO with the Movement Label (except for Jump ) (See FAQs.), or when moving after failing a Guts Roll, a Trooper may enter or leave Prone State at either the start of their Movement or the end of their Movement, at no cost. However, if they move in Prone State, this will reduce the distance they can move.
+- When performing a Skill or ARO with the Movement Label (except for Jump and Berserk), or when moving after failing a Guts Roll, a Trooper may enter or leave Prone State at either the start of their Movement or the end of their Movement, at no cost. However, if they move in Prone State, this will reduce the distance they can move.
 
 - Independently of the type of movement performed (Move, Jump, Climb, etc.), the movement cannot, in any way, cause the Trooper to fall. If the Trooper cannot reach a new location with their Move, Jump, Climb... they do not perform the movement and they perform an Idle instead.
 
@@ -150,11 +152,11 @@ Tactical note: Always measure the true path length, not just table projection, e
 **[UNOFFICIAL COMMENT]**
 ## Prone declaration timing
 
-Prone can only be entered or cancelled at the end of a movement, not mid-route.
+Under the N5.3 General Movement rule, Prone may be entered or cancelled at the **start or end** of a qualifying Movement-labelled Skill/ARO (except Jump and Berserk), not mid-route.
 
 This means:
-- You cannot move, go Prone, then continue moving.
-- Ending Prone can expose LoF only after movement is complete.
+- You cannot move, change Prone state mid-route, then continue moving.
+- Whether the Trooper moves while Prone affects the movement distance as normal.
 
 Tactical use: Ending Prone is often safer than starting upright, especially when moving into midfield under ARO pressure.
 
