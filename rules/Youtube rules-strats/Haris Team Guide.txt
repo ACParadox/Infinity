@@ -1,0 +1,469 @@
+hello everybody and welcome back to the
+channel today we're taking a look at
+hares teams in infinity and 5 and doing
+a bit of a deep dive on a particular
+aspect of hares teams I find interesting
+and like to think about when I'm
+building a hares team or list at large
+so first things first uh this episode's
+been largely inspired by the recent loss
+of Lieutenant podcast episode on fire
+teams in general this little hares Team
+guide it's going to be fairly focused
+it's not going to cover everything so I
+highly suggest checking this episode out
+it's a really good one not just for
+hares teams but also for Duos and cores
+as well they did a fantastic job on it
+I'm going to try to leave a link in the
+description if YouTube lets me um but
+otherwise yeah let's get to the
+video so what is a hares team hares
+teams are made up of exactly three units
+no more no less they're usually used for
+false Force multiplication with the
+special die and to get some more
+efficient movement out of your units and
+with the changes in N5 most armies and I
+think every Army in the game has access
+to at least one hares team so it's
+pretty
+important now hares teams have a general
+pattern to them most Ares teams are made
+up of a shooter a specialist and some
+spice the three s's you've always got a
+shooter and a specialist uh who are
+fairly
+self-explanatory but the Spy slot is
+kind of a bit more
+spicy they could be a cc specialist
+someone good with vision control someone
+with a tinbot or another kind of
+specialized equipment like disco Ballers
+which could also count as vision control
+pictures mind layers that sort of
+thing so let's look at a couple of
+typical hares teams with this framework
+in mind over on the left here we have a
+corgador fire team with our shooter slot
+taken by the
+heavy machine gun he's got a bs13 heavy
+machine gun he's got two wounds and he's
+got quite decent armor so he's the
+shooter he's front of the team he's
+taking the longer range
+gunfights next up we've got the
+specialist who in this case is jazz
+who's a whip 14 hacker she has a little
+bit of overlap in the spice Department
+having some specialized equipment being
+pitchers but she plays the role of the
+specialist last up we have the spice Who
+is the mobile rata tinbot with multi
+rifle he not only fits in really well
+with the shooter but the spice he puts
+in being that tinbot really amplifies
+what the Specialists can do and really
+supports the team in quite a spicy way
+on the other side we've got Sima we have
+a varer as our shooter with a heavy
+rocket launcher he's got a bs13 heavy
+rocket launcher albo minus 6 but he is
+also a specialist he's a whip 134 for
+Observer and overlaps a bit with that
+specialist
+category then for our primary specialist
+we've got a Vargo Ford Observer with
+rifle uh heavy flamer and then a disco
+bowler and here this Vargo is also
+slightly overlapping the spice category
+with some specialized equipment but
+nonetheless this vargar is our primary
+specialist then last up in the spice
+category we've got our CC monster Shona
+who can really carve things up in close
+combat and also has two wish wounds with
+one wound no winding cap meaning she
+gives the team a bit of resilience so
+this is what typical hares teams look
+like a shooter who can take those long
+range gunfights a specialist who's good
+at pressing the buttons and then spice
+an X Factor in the link team that gives
+them a little bit extra without the
+spice you're usually just looking at a
+Duo and while we can see that some units
+overlap with each other what we get to
+see is that they all fit into a distinct
+category even though they share you know
+some roles some equipment that sort of
+thing there are also some non-typical
+hares team examples like on the left
+here is what I call a Lynch pin fire
+team where you have one key unit that's
+doing quite a bit and then two units
+that really just boost its capability
+but don't really do much for the team on
+their own or have a distinct role other
+than a booster in this example we've got
+deferen
+who's a shooter as well as a specialist
+and is really doing everything offensive
+or most things offensive or Mission
+related in that team then you've got two
+boosters you've got two tonic Knights
+one of them has a tin bot which is going
+to give deferen that minus three
+firewall but they're also going to give
+deferen an extra die being together
+additionally they're both two wounded
+modals with good close combat
+capabilities who can either be
+positioned ahead of deferen so someone
+will have to go through them to get to
+him or can be the tip of the spear if
+the team pushes up enough to get into a
+very close- range
+confrontation the next type of fire team
+I've got is a tunguska haris which I
+call a lamb fire team so the first model
+you've got there is the Lamb the
+sacrificial lamb uh where the team is
+really set up as a duo with something
+else tacked on the side with the
+understanding that that unit's probably
+going to die or is going to be quote
+unquote used and then what's left as a
+Duo is going to happily move out so
+we've got pereus and a stemp on Perseus
+is the shooter and the spice uh the
+stempler is the specialist just within
+their own Duo and there a Duo I'd I'd
+run quite a bit in tongus anyway but
+then you attack on Miranda with
+Marksmanship U MIM minus 6 with an
+emitter who's a really great AO piece or
+first turn shooter to lock up some heavy
+infantry but she is very squishy she
+loses a dice roll she dies that's it but
+the duo that's present here in Perseus
+and the stempler get to give her a
+special die and get really good utility
+out of Miranda before she eventually
+drops where then the fire team can
+efficiently move out with the
+understanding that that's the game plan
+so those are two non-typical hares team
+examples
+now the last fire team really emphasizes
+the core of this video which is how will
+the cookie crumble I think when you're
+building a hares team the most important
+thing is to understand what everyone
+contributes to that fire team but more
+importantly what's going to happen to
+that fire team as it falls apart
+Infinity really is a game where you need
+to plan for things going wrong it's fine
+enough to have a list that does well
+when you're ahead but when you're behind
+or When Something's Happened that's when
+your list really needs to
+perform now as we saw in the previous
+example links pure hares teams are
+relatively uncommon that's because three
+models that share a name or even share a
+keyword sometimes don't have a diverse
+enough skill set to justify cost or
+Justify overlapping roles where you're
+usually ending up with two units who
+have Purity and one who's just sort of
+hanging off to the side so we can see
+here in the example with the varer team
+both farger are giving us a bit of
+Purity but Shona is
+not the best hares teams are the ones
+that are going to be able to function
+effectively no matter what member goes
+down but that's not always the way the
+cookie
+crumbles so what you need to do is you
+need to understand what the best
+outcomes are what models you can afford
+to lose and pilot it in a way that if
+something goes wrong you've got a
+crumple Zone that you can afford to take
+so
+how's this cookie going to crumble the
+first thing I want to look at is I want
+to look at every member in this team and
+I want to see the outcomes if one of the
+members dies so in the first example
+here we've got a varer heavy rocket
+launcher and the varer fto who are our
+shooter and our specialist but shaa has
+died the outcome of this is that the
+team maintains fire team bonuses and
+have most of its offensive capabilities
+the only they're really lacking is that
+close combat threat they can still
+likely achieve their main purpose as a
+fire team and get the secondary
+objectives like pressing button stun
+this overall is a very good outcome if
+we were to lose one
+model the next one we have is if the
+vargar heavy rocket launcher dies where
+all that's left over is the vargar
+specialist and Sh of corano now this
+team does lose its bonuses but they're
+still able to effectively operate moving
+up the board capturing objectives and
+even getting a close combat underway if
+they can be successful enough this is
+because the varer still has access to
+its specialist skills and has a disco
+baller that can cover for the team super
+jumping up the table even though we've
+lost the capability of longrange
+Firepower we're still able to have a
+quite a good game plan and get quite
+good outcomes despite the loss of the
+vargar heavy rocket launcher so this is
+a fine
+outcome now the last one we have here is
+if that vargar specialist goes down if
+this happens the team loses its fire
+team bonuses they'll struggle to advance
+under enemy fire because the vargar hrl
+won't be on great dice just being burst
+two and neither of them have access to
+visibility control which will mean
+they're going to struggle to get to
+buttons or take any other kind of
+offensive action this is a very bad
+outcome so now we can see a very clear
+tiered
+system where if shaa goes down that's
+actually completely fine if the heavy
+rocket launcher goes down okay we change
+gears a little bit but we're still very
+likely to get some kind of outcome in
+the game and then if that specialist
+varer dies we're in a lot of
+trouble so what does this mean it means
+we've identified that the varer is varer
+Disco baller is probably the most
+important in the team the worst outcomes
+happen when that varer
+dies also we can see that Shona is
+probably the least important member of
+that team if a unit dies and it's Shona
+that leads to the best outcomes if you
+know say we have to have a model
+disappear we would likely choose Shona
+as a results from the best outcome for
+who's left in the
+team so we've identified who's most
+important who's least important and then
+we've got a troop in the middle so what
+you can do now is is pilot that hares
+team and pilot that list so that you've
+got a crumple Zone that leads you to
+those good
+outcomes here we have on the left kind
+of a mock layering of how you might set
+yourself up defensively where the first
+unit you want your opponent to hit is
+Shona she's able to template or shoot
+anyone who comes around on her she has
+the potential to dodge into close combat
+and it's very risky to close combat
+herself so she's quite a good filter
+ideally you could end up in a situation
+where Shona and the other model trades
+and that's perfectly fine Shona's been
+your crumple Zone from what you've got
+left you have a good
+outcome now let's say they make it past
+Shona and hit the next farger the next
+farer has a light shotgun and a flash
+pulse where he's likely going to be able
+to put up a pretty decent face to face
+if something has gotten past Shona
+hopefully if it's a two- wound model
+that's gone past Shona Shona would have
+managed to do a wound and now you can
+try fairly well to protect
+yourself now if that second vargar dies
+and it goes to the varer specialist and
+that specialist dies oh well these
+things happen but if we set up our
+positioning this way a fair amount of
+the time we should have an outcome where
+only Shona dies or only shaa and the
+vargar heavy rocket launcher die leaving
+our fast specialist with vision
+control the key to this is identifying
+the key unit in the link
+and creating a tier for least important
+most important and the middle this way
+you can set yourself a really good
+crumpled
+zone so we're going to play a bit of a
+game now on the screen we've got three
+of our other fire teams we've had a look
+at in this episode I want you to pause
+the video go down to the comments and
+tell me who's the key member in each of
+these fire teams and why I'll wait just
+a sec
+all right let's take a look so first up
+in the middle fire team it's fairly
+obvious it's deferen the fire team type
+is sort of a lynchpin fire team where
+defers is the Lynch pin you can afford
+to lose either of the chonic knights and
+keep deferen at quite a high operating
+capacity deferen is also just quite a
+good solo piece as well where that
+previous varer team if you lose shaa and
+the hrl varer the last varer can still
+get things done but is heavily defanged
+where in this case with the military
+orders fire team you lose both chons
+deferen can still get quite a bit done
+on his own in this case the chonic
+Knight with the tinbot is your middle
+most valuable where the regular Chon
+without any timot he's going to be your
+least valuable there we can see a very
+clear
+hierarchy the same's also true for the
+Tusa fire team where it's very obvious
+that Miranda is not the key member the
+whole design of that fire
+is with the understanding that Miranda
+will die and then what's left as a Duo
+can go out and do its
+thing between Perseus and the stempler
+I'd say pereus takes the edge as the key
+member filling two roles as both the
+shooter and the spice but this could be
+dependent on the mission maybe you
+really need that specialist that the
+simpler brings and if you layer Percy
+before the stemler it is more like
+likely that Percy could stem and attack
+back run than the stempler but I think
+Percy is overall the more important unit
+out of the
+two then last up in this corgador fire
+team it's a little bit different because
+I think you can make the argument for a
+lot of units in that team the heavy
+machine gun could be considered the key
+unit because if Jazz dies you still got
+a good Duo and if the other mobile Bata
+dies you still got a heavy machine gun
+who doesn't which is a weapon that
+doesn't necessarily need that special
+die and you've got Jazz who can get a
+mission done you could also argue it's
+the tinbot mobile rata as it gives Jazz
+that really nice tinbot and it forms
+that pure duo with the mobile brigata
+but really I think it's Jazz for a
+couple reasons the first one is the
+mobile rata are both better at taking
+attacks than jazz is and can trade
+fairly well with boarding pistols
+additionally while the heavy machine gun
+is a good gun piece if both of the units
+die jazz is still able to cyber mask and
+move up the table and get a mission done
+or just hang out in the deployment Zone
+and do some hacking the key member can
+also be the one who will be most
+effective when the rest of the fire team
+is wiped
+out in that case it's not going to be
+that timot minus 6 mobile brigata it's
+not going to really do anything on its
+own you might get a couple points there
+with the heavy machine gun mob rata but
+I think jazz is the most important there
+and in The Wider context of your list in
+a codor list jazz is likely to be more
+important and this brings us to another
+Point who the key member is is going to
+change depending on the list depending
+on the faction and even depending on the
+mission when we look back towards
+Perseus and the stempler like I
+mentioned before this hares team's key
+member can change from mission to
+Mission in Annihilation it's absolutely
+Perseus but maybe in something like
+Supremacy see if you really need a
+button pressed or something like highly
+classified where you need that forward
+Observer or sensor to get something done
+then that stempler is going to be the
+key member of that
+team so let's look at the key takeaways
+you need to be sure to build for failure
+if the team can't handle failure it
+might not be a good fire team the second
+thing is to identify the key units in
+the team this allows you the pilot to
+Pilot
+and now let's take a look at some key
+takeaways you want to be sure to build
+for failure if the team can't handle
+failure it might not be a good fire team
+you need to identify the key units in
+the team which allows you to Pilot the
+list so that if you are going to lose a
+unit or if there's an attack run
+incoming you've got a good crumple Zone
+where you can engineer a more ideal out
+ideal outcome for the
+team you want to add ask how good are
+the other units at defending the key
+unit we're looking at things like
+templates close combat weapons shotguns
+mine laying even turrets you want to ask
+yourself if an attack run comes and I've
+got this crumple Zone who's also best
+equipped to handle that oncoming attack
+so you want to take these mental steps
+when you're building a hares team what
+are the outcomes for each individual
+member dying like we did with the Vargo
+team what outcomes best match the team's
+primary
+function what other outcomes still allow
+for the team to fulfill a secondary
+function or change gears
+effectively and the last thing I'll
+mention Is this different units will be
+weak to different things let's say you
+were running a fire team of AET paty
+Garrett and anise in vanilla Pano really
+paty Garrett is the key member of that
+team and she's quite weak to hacking so
+sure if you've got a key member who's
+particularly weak to hacking maybe put a
+hacker near or firewall or if your key
+member is weak to templates set up
+something where you can intercept before
+that be mindful of what the key member
+specific weaknesses
+are and on that note thank you very much
+for watching and please leave your
+general thoughts down below again for a
+deeper look at hares teams and fire
+teams in general go check out that loss
+of Lieutenant episode and we'll catch
+you again very soon soon bye-bye

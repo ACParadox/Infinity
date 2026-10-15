@@ -1,0 +1,130 @@
+
+Intro
+Hi Guys its ryan and today’s video is on 4  beginner tactics and tips for playing infinity.  
+This video is a bit more focused on once you have  learned to play the game and you want to know what  
+to focus on next to just get a bit better at  the game. I'll talk about what the tactic is,  
+when best to use it and why I recommend it,  usually that it helps you learn the game better.  
+Before we begin, remember to like and subscribe  for more. It really helps me out. Now lets begin. 
+Slicing The Pie
+First tactic is slicing the pie and  learning to peek. Why well it comes  
+up alot and it's a great example of a  rules understanding and applying that. 
+So what is slicing the pie and peaking? Well in  short it's moving from being in total cover to  
+just coming out enough to see exactly what you  want you to see and nothing more and taking a  
+shot. With a cooperative opponent, which should  be most of the time, this means you can usually  
+find the right angle to get what you want. The tactic here is not you gotta slice every  
+pie and peek every corner but more understanding  when you gotta do it and why you gotta do it.  
+So when do you want to do it. Simply when  you don't want to take 2 fights at once,  
+that's a trick for when you start saying “yeah  this will work”. You’ll know when this as you  
+would have two aro pieces looking at one spot  where you need to remove them one by one. Since  
+LOF is open information you can find a line or  angle where you can only take one fight unless  
+the models are vertically stacked. Now obviously  you don’t just slide out constantly visible  
+and take each fight. If you're worried about  running out of orders, or hidden ARO pieces you  
+may want to slide out, then slide in to prevent  retaliation in the reactive turn. Avoiding those  
+shots you didn’t need to take is always nice. I mentioned teaching rules and well what rules  
+do they teach. It's a simple but important one.  Everything in infinity happens all at once and  
+when you declare move + action that action, be it  a hack, or importantly a BS attack that happens  
+at any single point in your movement. Now  all the burst needs to happen at that one  
+point but it means you move back and forth and  take the shot inbetween. This is also useful  
+to know if you're making an attack in the open,  which is not always advisable, as you can pick  
+the best spot in your movement to maybe get a  better range band. However, and this is key,  
+it goes both ways so your opponent can also pick  at what point they shoot you so they can't get a  
+pretty advantageous shot. These two points don't  need to be the same point so keep this in mind. 
+So as you can see this can be an important  one to know as you play the game. It’s one  
+you’re very likely to learn from just playing  the game but know the rules and getting the  
+reps in will help you understand the  finer points of moving and shooting. 
+Movement
+From one movement tip to the next but this  one is far simpler and I've talked about  
+it before and it's worth knowing. So it's  doing fun movement tracks like dodge move,  
+cautious move, and climbing and jumping  and how to get the most out of them. 
+So what do I mean by all this? Well let's start  from the first one. Dodge movement, what’s special  
+about that, well this is where knowing the OES  comes in. So you declare dodge at the given time,  
+then you roll, contesting or normal roll, and  then you move/apply the effects of the roll in  
+the resolution phase. The main benefit of this  is that it does not provoke any aros since there  
+is no space in which your opponent can declare  one. This can set up nice long skill combos like  
+berserk, triangulated fire or doing some kind of  stage dive hacking attempt which is really nice. 
+Second one is cautious move, which has a nice  wiki page to explain it but the long and short  
+of it is if you start out of LOF, you can long  skill move your first move value and you provoke  
+no AROs assuming you end outside the line  of fire. This can be used to cross gaps,  
+and combined with smoke and stealth can be a  really nice way to get around tricky situations  
+that maybe only camo or guns would have resolved. Next up is knowing that jumping and climbing while  
+being a long skill without super jump and  climbing + can still be useful. Sometimes  
+you just have to get up a container and the  order cost is secondary. Fortunately it’s  
+not as inefficient as before as now you get your  silhouette for free since you can measure from any  
+point in your silhouette so going up something  1.5 times your size should be a lot easier now. 
+So just remember there is more to movement  than running between cover and shooting on  
+the way. Think about the table and if there  is a better angle you can take and if you can  
+get there. If that answer is yes, or yes  with very few buts then might be consider  
+doing that rather than the direct approach. Forking is the next tactic and I'm looking  
+Forking
+forward to the auto generated subtitles on this  one. So what is forking, forking is when you  
+create only bad decisions for your opponent when  making an active turn play. You may have heard  
+of a similar phrase called create dilemmas not  problems. A problem can be solved, a dilemma can  
+not. Your opponent is not going to like getting  forked, ha, since there is not an easy answer. 
+I'll give an example to put this explanation  to the end. Let’s say I have a warband with  
+some CC skills, an SMG and a chain rifle, like  a varangian, and I charge it into b2b contact  
+in that first move. Now in ARO my opponent is  present with 3 aro options. Shoot me as I run  
+into melee to contest the SMG burst or CC attack,  dodge to avoid my templates or CC me back for when  
+I attempt to melee him or shoot him.whatever they  choose is not advantageous unless they are pretty  
+stack as my opponent could declare dodge, that  would be the safest but usually is not a great  
+role as its burst 1 on usually no more than 13s,  but then i would just CC them on 23, maybe i  
+have MA and then their dodge is worse or i shot  them with an SMG so that's 3 dice vs 1 which is  
+not great odds either. My opponent could shoot me  which is effective but I could contest that with  
+3 dice vs 1 or use CC which is very likely to win  and even impose negative mods from MA or CC-3. I  
+could if I'm feeling spicy just template them and  eat the potential wound on my end cause he could  
+wiff the shot or I make the save, I have 2 chances  to succeed he has the arm save to not fail and eat  
+a wound. I would also now be in melee which is  where I want to be. This is also true with melee,  
+i can just eat the wound and template him. What I've done here is taken a unit that has  
+multiple tools and found the best situation to  put them in. I’ve offered my opponent nothing  
+great but still they have choices, which is also  a positive in terms of game designs. This is the  
+philosophy behind forking. Warbands, but anything  with a shotgun or a template and burst weapon can  
+do it fairly well. Some of the best forkers in the  game are varangians, half of SP, the seraph tag,  
+and the Stigmata in nomads with its hacking  rather than BS attacks. It's a basic tactic  
+that you should know that sometimes your best  play is to be aggressive and to realise that  
+in the active turn you need to be the one making  decisions to win. If your opponent has to make a  
+decision it's the ones you want them to make. Keep  this in mind with skirmishers and other pieces in  
+camo which can offer similar choices with delay  dodge and discover. You can really react depending  
+on what they do to your benefit. Keep in mind your  opponents ARO options and you can slowly use that  
+to turn it in your favour. So always keep forking  in mind, and the dirty version out of your mind. 
+Hidden Deployment
+Effective use of HD is something that’s really  key in getting the most out of those units and  
+some of the most feared units in the game are  HD users. Cutters, notificers, anthermatics and  
+nadhirs are all feared for a reason. Why well it’s  because while in HD they’re basically immune to  
+everything except BTV and being sensored. Even  then its largely up to you to reveal them which  
+can make devastating AROs, lethal attack runs or  sneak skirmisher actions. These three are pretty  
+self explanatory but they have a good amount of  though that goes into them, let's start with AROs. 
+So HD aros are always fun, or not very fun if you  get gated by them. So how do you get the most out  
+of your HD AROs? Well step one uses a template  weapon, ML noticifer, flammensphere Nadhir and  
+swiss miss are the famous ones that just work  because you can catch things that are bunched  
+up unexpectedly. Which can and will be devastating  as there are only a few fireteams that won't mind  
+dodging this such as tuts but they don't want to  risk it. Templates aren’t required but it helps. 
+So a good gun is nice but placement is the real  key thing to know. So what is a good placement?  
+Well that's a video in of itself but there  are 2 big ones. Watching a good lane that is  
+not already covered. This is more obvious and  a good player may be able to out your pieces  
+and approach more cautiously as a result could  nullify the effect. HD hacker can also cause  
+your opponent to pause for thought as every  repeater is just that little bit more spicier. 
+The other place to put them is along the same line  as another ARO piece so that when something nasty  
+enough comes along you can just kill it dead.  E.g. a nasty tag, it can go from wanting to  
+gun fight one ARO piece to then suddenly having  to fight a HD AP weapon as well. Not something  
+they particularly want to do as now they either  need to tank a shot, not impossible but not fun,  
+or split burst which drastically reduces  the chances of what they wanted to do. 
+I have had this used against me and i believe  i was shooting an eplison with my seraph and  
+then got surprised by a lynx plasma rifle and it  didn't really do much to my seraph fortunately,  
+arm 10 in cover is great, but it was a bit of a  teeth clencher and it knocked out my bulleteer.  
+Had to then methodically take not great fights  to clear it out which I did but I was not a fan  
+of this. Think I dumped all my burst into the  link and soaked the sniper. Not fun so yeah keep  
+this in mind. If it had been a ML then that  would have been most of my list' teeth gone. 
+So why are HD good at attack runs, well they’re  not inherently good at them from the HD but more  
+the skills around it. Mostly min-6 and surprise  attack. So HD will keep you safe either hoping  
+to go straight into camo or coming straight out  swing with a potential -9 to your opponents shots  
+coming back or 3 if they’re smart and dodges. This  can make things like a cutter or anthermatic just  
+geek things on its first activation. HD models  with MSR or ML can start out similar to ARO  
+pieces but come out of camo and shoot something  down. This one can require some forethought to  
+do amazingly but alternatively you can come out  of camo and move around before blowing safety.  
+Here HD is delaying the big whammy until you're  fairly happy then using the safety to come out  
+swinging and start the snowballing in your favour. Finally is sneakily stealing objectives. It's  
+simple, it's basic and it works, and it is exactly  what you think it is. I have won games with trins  
+sitting on their backside till turn 3 and doing  the objective and either having gone second so  
+they can’t aro me out of the play, or i have done  enough damage that if they are going second they  
+can’t dig the blitters out. Basic but basic works. So that was my video on basic tactics and plays  
+that you should know. Was this helpful  or not let me know in the comments below.  
+Remember to like and subscribe for  more. Thank you so much for watching.

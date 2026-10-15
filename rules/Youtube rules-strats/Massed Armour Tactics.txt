@@ -1,0 +1,314 @@
+A primer on massed armour operations:
+
+The most popular list philosophy currently in infinity is that orders dominate over tough survivable units and small lists are at a disadvantage compared to order and camo spam.
+
+I disagree, I think modern infinity very much has a place for a lower order list, which focuses on massing HI and TAGs to crush and grind the opponent under an iron fist.
+
+So allow me to use this article to do my best to teach you how to get the most out of this style of gameplay.
+
+Firstly I should address what I mean by “massed armour” I mean a list that runs an average of at least 5 HI units or 2 TAGs. Though I believe the ideas illustrated here will also cover anything from the 3 guard NCA lists through to the obscenity that is a 7 HI MO list, as well as covering a mix of TAGs and multiple HI (such s a Jotum 2 ORCs and a Hospitaller doctor) In terms of points expenditure, I think you want to be putting half to a two 3rds of your total points into heavily armed and armoured units, with the rest going into supporting those units to qualify as a “massed armour” list.
+
+For the sake of this primer we are going to look at the following template lists.
+
+2 HI support Weapons (ORCs with HMG, Tuetons with Spitfire)
+2 HI specialists (Father Knight hackers and Hospitaller Doctors being preferable)
+1 HI with a Trick/CQB weaponry (Montessa LGL, Sepulcher ect/Boarding shotguns, Chain rifles, ect)
+5 LI/MI/REM support units (machinist, doctors, hackers, Lt’s ect)
+
+OR
+
+1 Main Battle TAG (See TAG primer)
+1 Light TAG
+1 Engineer
+1 EVO Hacker
+6 support units.
+
+The logic fallacies:
+Now that we have defined what exactly a “massed Armour” list is, albeit loosely, I want to address the 2 most common arguments often brought up when the idea of running massed armour is suggested in the community.
+
+
+“Crits Kill”
+
+Crits kill, and eventually crits will happen. That is just the nature of infinity, dealing with crits and the way they affect dice rolls is just part of the game.
+
+However people often argue that the existence of the crit mechanic makes expensive tough units useless in the face of massed expendable units. I would imagine that you find it no surprise that I disagree with this assertion, in particular where massed armour is concerned.
+
+Take for example the above lists, in those lists there are multiple models that are a significant threat to the opponent. Even if one of those units dies to a pair of highly unlikely crits the list as a whole contains other models which are dangerous and has only lost a fraction of its effective threat.
+
+In spam lists however cheap orders are typically used to feed 2 or 3 mediocre or good units. If those key units take a crit and die the list is often neutered with no more effective threats on the board.
+
+The second aspect of crits kill that needs to be addressed is the number of crits required to drop a HI or TAG. Picture a situation where a model is overlooking an objective on suppression fire. The opponent needs to get to that objective. If the defensive model is a MI or a LI or a REM, then a single critical on the attacking models parts will be enough to render that defense pointless, if that model is a HI or a TAG however it can take the wound caused by the crit and still maintain its roll as a defensive piece that is blocking the opponent from scoring.
+
+“Order starvation”.
+
+We all know what this means, in particular the fear that a 10 order list just does not have enough orders in modern infinity to complete all the objectives required.
+
+This problem is often perceived to be exacerbated by the perception that, like lists that focus more on orders and quantity over quality, by the end of the game attrition will have whittled down the order pool such that there is very little left in the last turn.
+
+But, in my experience, massed armour lists do not suffer the same order attrition that more generic lists do. Often these lists go into the final turn of the game with 7-9 orders when played right as so many of their orders come on units that are tough enough to stay alive for 3 turns.
+
+Over the course of a 3 turn game this means that if we compare the lists to the more traditional 14 order list and assume that the 14 order list looses roughly 4 orders a turn, (14 turn1, 10 turn2, 6turn 3) that the massed armour list has a comparable number of orders over the course of the game (10 turn1, 9 turn 2, 7-8 turn3).
+
+Furthermore, going into the final turn with 10 orders to push tough specialists into either solid defensive positions or gaps in the opponents line can make for a significant swing in the point score.
+The second aspect of order starvation is the belief that by having so many threat units a player will end up not having sufficient orders to effectively accomplish the specific role of each unit.
+
+While that may be a danger if you desire to Rambo each of your units, effective use and positioning of massed armour units should mean that you have a greater coverage of the board with effective threats and are therefore are more likely to have a model in a position where it is able to spend less orders moving in order to be in a position where it is able to accomplish its specific roll.
+This greater board coverage also means that it is more likely that you will be able to position each assault unit in its preferred effective range band in comparison to enemy models with less order expenditure.
+
+
+Putting it on the table and into action:
+
+So that’s the basics of why I think a massed armour list is viable in the game. But how do we go about using it?
+
+Well for starters, the individual models in the list operate like any highly survivable and dangerous units in infinity, you want to identify the key threats to your heavy units that the opponent has and eliminate them as early as possible before moving up into the mid field and setting up defensively to sap the opponent of orders and models in the reactive turn, thus preventing them from being able to score their own points.
+
+The difference afforded by massing these armoured units is the layered defense and board control that it is possible to establish.
+By having 2 or more central defensive units that can cover each other’s vulnerabilities you can leave an opponent with no good options in terms of dealing with your threatening units in their active turn. Furthermore the ability to damage the opponent significantly in his own turn is a powerful tool.
+
+By achieving dominance of the board through superior firepower and defense you can force your opponent to not only expend numerous orders moving into position such that he can effectively engage your defense piecemeal so as not to be obliterated.
+
+Even better, once he has done this he still has to contend with a tough dangerous unit that likely stands a good chance of killing his own offensive piece. An opponent using a more traditional infinity list with 3 or so moderate assault pieces is going to be risking losing a significantly greater portion of his offensive capabilities every time he engages your tough units, than you are.
+
+Finally, in terms of ITS, by having tough and dangerous scoring units you are able to diminish the threat that your opponent will simply assassinate your scoring potential while also improving order efficiency as every order spent moving a specialist onto an objective is also an order spent putting an tough dangerous piece into either an offensive or defensive position.
+
+
+The pro’s and Con’s of HI and TAGs
+
+Alright, so it has come to my attention that people would like a rundown of the basic principles of why I think any HI or TAGs are effective on the table before I get into a discussion of the specifics of using multiples on the table.
+
+Please let me begin by saying that if you are interested in TAGs you can find the appropriate information for their use in the stickied thread at the top of the page, as such this paragraph will briefly attempt to address the concerns raised regarding the use of HI in general.
+
+For starters lets look at the advantages of HI.
+
+Firstly, they are almost as effectively immune to small arms fire as a TAG, and they are as effectively immune to single wound AROs as a TAG. An ARO that only has the capacity to deal a single wound cannot ever stop a full health HI from moving where it wants, it is effectively irrelevant to the HI unit for that order.
+
+This allows HI to ignore large swathes of the opponents army as trivial in its own active turn, allowing it to eliminate those models that are the largest threats to it before being place defensively in such a way to kill the rest of the opponents models in its reactive turn.
+
+On the same token, HI are able to act as a “bad luck sponge”, to use a phrase mentioned in this thread. Their stats allow them to soak up a bad set of roles without being driven off the table entirely which is very powerful, this is most obvious in the crit effect (which will only ever happen 5 times in every 100 rolls) furthermore, for the other 95 rolls the HI will dominate over the weaker units.
+
+Another point noted was that the stats on a HI are less effective than the skills on a LI/MI, well rejoice, Most HI in Panoceania and other factions have their own set of special skills. About the only PanO HI that does not have a unique skill is the ORC, but they are basically gun platforms so that is hardly an issue.
+
+Speaking of gun platforms, something often overlooks is the fact that BS once you hit 14 is a very nice state. A BS14 HI is approximately as effective against models with Camo or mimetism as a BS11/12 LI/MI with MSV, and significantly more effective against any target that is not able to utilize that skill.
+
+The other thing a Massed armour force offers is both efficiency of order expenditure and consolidation of force.
+
+Take the Hospitaler Doctor with Multi rifle as an example, every order spent moving that unit up the field towards an enemy is also an order spent moving a high WIP specialist towards the objectives, a supporting doctor towards your other assault troops and an extremely effective area denial weapon into a position from which it can prevent the opponent scoring himself.
+
+An army without these types of units probably has to spend 3 times as many orders moving the various pieces of its force around the table. To move just 8 inches towards an objective that an opponent has a piece defending take a LI/MI force 3 orders, one to move an attack piece into position and fire, then 2 to move the specialist up and cap a button. A scoring HI can do that in 2 orders as it can engage effectively in combat on its own.
+
+The downsides of HI to counter this are an increased vulnerability to EM weaponry, which is not only vary rare and not spammed in infinity, but typically comes on low burst or disposable weaponry meaning that it cannot be effective over a prolonged duration of the game and when set up against appropriately is unlikely to be effective at all before the model carrying it is either dead or out of ammunition.
+
+As to the increased vulnerability to hacking, that is a double edged sword for the opponent as HI Hackers some of the best in the game, in Panoceania alone the Father Knight, Swiss Guard and De Fersen are good options. Furthermore with the proper support or deployment the effectiveness of hacking can be severely limited, so much so as to make using orders on it pointless.
+
+
+
+Finally,
+
+I want to illustrate something here, namely just how devastating HI in suppression fire can be during the reactive turn.
+
+Here is the dice calculator for an alguacile (a middle of the road LI model which shares a statline similar to many more spammable options in the game) and what its odds of facing down an ORC with multi-rilfe (again a generic HI option) are.
+
+
+Active Player
+18.36% Alguaciles inflicts 1 or more wounds on Orc Troops (1 W)
+1.80% Alguaciles inflicts 2 or more wounds on Orc Troops (Unconscious)
+0.07% Alguaciles inflicts 3 or more wounds on Orc Troops (Dead)
+
+Failures
+40.64% Neither player succeeds
+
+Reactive Player
+41.00% Orc Troops inflicts 2 or more wounds on Alguaciles (Dead)
+
+That ORC is doing that much damage in its reactive turn, if you can leave your opponent with only models like that to try and deal with your HI and TAGs with, you are well ahead in the game.
+
+
+
+Examples of Massed Armour Operations: Economy of force, Spending Orders.
+
+I want to start out the examples by illustrating what I feel is one of the defining elements of a massed armour force, namely the economic application of that force.
+
+A loss of the time the idea of running 2 TAGs or multiple HI is dismissed with the claim that a player will be left with too many models that they wish to spend orders on and not enough orders to do anything with them, effectively “wasting” the points and opportunity spent taking multiple threatening units.
+
+Here I aim to show two ways in which having multiple threatening HI units on the table can be used to your advantage by consolidating your offensive force in a few major threats which are distributed over the board you are able to maximize the efficient use of each threat.
+
+
+
+In this first example the Panoceania players opponent is setting up during the game and has placed his models on the flanks of the deployment zone. In doing this he has also been smart, deploying his units in such a way that they are tucked slightly back from the corners of the buildings they are behind. This means that while the units in question will be able to engage a model moving up close before it draws parallel with their position they also cannot readily be engaged by the opponents models directly opposite them on the table.
+
+However, the Panoceania player is running a list that focuses on massed offensive power and has taken a pair of heavy offensive units. By taking two such units he is readily able to deploy one on either flank, ensuring that with a single move order each he is able to threaten and eliminate his opponent’s models. If the Panoceania player had been running a single heavy offensive unit it would have taken many more orders moving into position to engage each enemy target, even if they Panoceania unit had begun in a central position. As such, by running 2 offensive units we see how the Panoceania player is spending fewer orders in total to eliminate each enemy piece.
+
+
+
+[​IMG]
+
+
+
+Examples of Massed Armour Operations: Economy of force, Optimizing Range Bands.
+
+In this example we will look at how having multiple threat units on the table allows you to pick and choose the optimal platform for dealing with a particular satiation.
+
+In this game our Panoceania player has found himself in a bit of a situation. The opponent has manages to pin down some of his threat units. On the left side of the table the Panoceania player has a HI tucked behind a building, on the other side of the building, within ZOC his opponent has hidden a hacker to shut down any HI trying to move in the area. In the middle of the table the Panoceania player has a knight armed with Multi rifle, this would readily be able to deal with the hacker by shooting it from outside its ZOC, unfortunately the opponent has also placed one of his own offensive pieces near a building corner and on suppression fire, meaning that the multi rifle armed knight will have a significant fight on his hands trying to kill this model before even getting a chance to fight the hacker. However on the far right the Panoceania player has an offensive unit such as an ORC HMG outside of the suppression fires likely 24 and therefore, due to his saturation of the table with multiple HI, has all the pieces he needs to eliminate the opponent’s models at minimal order expenditure and risk to his own units.
+
+
+
+Firstly the Panoceania player moves up the flanking HMG, the suppression model gets an ARO, but will be forced to break his suppression fire if he wants to engage effectively with either a dodge or single shot. After the HMG has dealt with the suppression fire the multi rifle armed knight is able to move up and engage the hacker from outside its ZOC therefore eliminating the risk of suffering a hacking attack back.
+
+In this situation, not only has the Panoceania player effectively dealt with 2 threats to his own units with minimal risk and order expenditure, he has also moved 2 assault pieces up field into positions from which they can advance again and then drop into suppression fire, essentially then forcing the situation he was just in back on the opponent by adopting the same positions.
+
+
+
+[​IMG]
+
+
+
+[​IMG]
+
+
+
+
+Controlling the Board:
+
+In this example we will look at how having massed armour can effectively allow you to control the board and force your opponent to waste orders achieving little or nothing in their own turn.
+
+Firstly, I want to make a point on the number of dice rolled in a game of infinity. Often times its said that a large order list has an advantage over small order lists because the small order list rolls less dice and therefore crits less often, but this really isn’t accurate. See, most high threat units have the ability to be placed in suppression fire, which when they are placed properly means that the opponent has to fight them to advance up the board. Couple this with the fact that most weaponry in the game is B3, and a properly played massed armour list is throwing the same number of dice back at a large order pool list as it is receiving, and its doing this in its reactive turn where it isn’t spending orders. Couple this with the fact that once placed on suppression fire, most face to face rolls will have a significant likelihood of neither the active nor reactive player harming each other, and a decent chance of the high threat unit will kill the active unit. All of this combined allows massed armour lists to go toe to toe with armies that run significantly more orders.
+
+In order to do this properly and effectively it is important for the massed armour player to position his troops in order to maximize their effectiveness in suppression fire. Therefore places where they are able to obtain cover without being engaged from beyond 24 are the most desirable, preferably with a clear LOF from any potential approaching hackers.
+
+Because the massed armour player is running multiple threat units it is possible for them to cover move of the field with effective AROs and overlapping LOF, covering his troops from flanking attacks and ensuring that in the event some of his troops do go down or are forced to abandon their positions, there are other threat units able to provide effective ARO and continue to hinder the opponents order expenditure.
+
+Let’s build on the table example detailed above. In the picture available below we see that the table has been expanded to include all of the terrain and a few enemy positions. We have also added the extra HI that we would expect to see in a massed armour list.
+
+The Panoceania player has conducted the first few orders the same as he would have in our previous example, eliminating the advanced enemy positions and putting both a specialist HI and an assault piece HI into a position from which they can advance. There is another assault piece HI on the left flank and a specialist in the midfield, finally there is a barebones HI (potential LT) behind the Hospitaller doctor.
+
+The Panoceania player is now in a good position to leverage his advantage in the opening moves of the game. He advances his two assault pieces into positions midway up the field from which they are controlling the middle of the board without being exposed to long range fire from the enemy’s deployment zone. After spending the orders to advance the assault pieces, clearing out enemy AROs through superior firepower as he advances, the Panoceania player then brings his dangerous midrange specialists to bear. These are positioned so that they can control the objective in the middle of the board through overlapping firelanes, forcing the opponent to spend a lot of orders dealing with both the HI if he wants to try and push the objective at this stage of the game. Of note is the protection afforded to the Hospitaller doctor by the ORC HMG which has been advanced on the right flank, any enemy units attempting to engage the Hospitaller from outside suppression range must first deal with the ORC HMG inside suppression range.
+
+The Panoceania player can then declare a coordinated order putting all 4 advanced HI into suppression fire. The ORC multi-rifle however is operating as a deployment zone guard at this stage and therefore does not need to be in the suppressive fire state. He is there to act as a final line of defense to prevent in case the enemy manages to push through one of the HI to attempt to kill the Panoceania order pool. This is only half the list and the Panoceania players support elements should be positioned such that they are able to engage any AD troops attempting to deploy behind the HI line.
+
+[​IMG]
+
+
+
+[​IMG]
+
+
+
+In his next active turn the Panoceania player has numerous options available to him. Firstly, if the opponent has managed to force a hole into his HI line, the Panoceania player has the ORC Multi-rifle able to advance as a reserve and plug the gap.
+
+Or if the Panoceania player is convinced that the opponent now has no AD troops he could advance the assault piece down the left hand flank, placing it in a position where it cuts the opponents line of advance off entirely.
+
+He also has 2 specialists able to advance onto the objective, cap it, and then advance over the objective to give himself the strategic depth required to solidify his hold on the object. The choice between the Hospitaller Doctor with multi-rifle and De Fersen should be based upon which enemy targets are required to be engaged, with the Hospitaller being the piece that advances if the engagement range is short. In this instance however De Fersen advances up field past the objective and into a position from which the opponent must engage him to advance further up the field.
+
+To support De Fersen the assault piece on the right hand flank advances to its next defensive position from which it is able to engage the opponents models in active turn first. Depending on the orders available and objectives required the Panoceania player could spend orders on his forward HI to advance further and kill the opponent’s models in their own deployment zone before withdrawing to the better defensive positions shown here.
+
+The Panoceania player now has left 1 or 2 of his HI in their suppressive fire state in active turn as he has not needed to move them yet. As such a coordinated suppressive fire order can now include the ORC Multi-rifle, adding yet another layer of depth to the Panoceania defensive line.
+
+[​IMG]
+
+The final turn for the Panoceania player can be spent consolidating his hold on the board or hunting down the opponents remaining orders to strip them of the ability to put any options into motion in their active turn.
+
+
+
+
+
+
+That is all well and good for advancing massed HI models, but how would a similar outcome be achieved through the use of multiple TAGs?
+
+In the following picture we see that the Panoceania player has a MBT and a light TAG instead of the massed HI.
+[​IMG]
+
+Firstly the Panoceania player can deal with his opponents advanced models much the same way that he would with his HI, pushing the light tag up the right flank to kill the enemy on suppression fire then advancing round the right side of the small building with the MBT to engage the opponent tucked into the left side of the map.
+
+After this has been achieve both TAGs are in a position to swing left across the board engaging and eliminating enemy pieces as they advance. Because the TAGs are more resilient that individual HI, the Panoceania player can be more aggressive with them in the first turn, advancing the MBT up to cut the line of advance earlier than the HI, and positioning the light TAG such that it and the MBT are providing mutual defense from flanking opponents or Hackers advancing on them from out of LOF.
+
+Note that while it appears that the MBT is exposed to AD on the left, the Panoceania player can advance one of his support units up to a position from which they can protect the TAGs rear from an AD drop.
+
+[​IMG]
+
+
+
+
+Real life example 1: Dual TAGs.
+
+
+
+So, as promised I have been running my Massed Armour lists again, I took the double TAGs out for a spin last night in a game of Frontline, which, perhaps surprisingly is rarely a mission I actually win, usually because I tend to prefer to go first I think.
+
+The two TAGs I ran were the Jotum and the Seraph and below I have detailed how I was able to use these two monsters in conjunction to ensure that I was able to use each of them effectively with minimum order expenditure.
+
+[​IMG]
+
+So what we have here is a snap shot of the table layout, it roughly corresponds to the bottom right quarter of the table where I deployed (I made my opponent deploy first and they therefore chose to go first). The dark blue are 1 story buildings the yellow are the second story sections and the black are doors. The light blue is scatter terrain and the narrow dark blue sections are bridges.
+
+
+
+[​IMG]
+
+
+
+Here we have a snapshot of the position of my TAGs at the start of my first turn. You will note that I have deployed the 2 TAGs such that they are able to guard my flanks, but they are positioned such that a 1st turn player is unloikely to have the orders to attack them more than one or twice with a model if they decide to Rambo very strongly. It should be noted that my support and order generators are scattered through my deployment zone and in particular are concentrated between the two TAGs.
+
+So the situation is such that my Jotum has taken 2 wounds (enemy Montessa spitfire tried to fight him and took an EXP round to the face after 3 orders.)
+
+My opponent has pushed up with a montessa LGL, bulleteer spitfire a Naga FO and a camo token which I assume is a Naga hacker. I make this assumption about the camo token as it is the worst case scenario for me.
+
+[​IMG]
+
+
+So how do I get out of this situation?
+
+Well with my first order I activate the seraph and move round the building while pushing the auxbot up towards the camo token, my opponent elects not to ARO and I put 2 discover rolls into his camo token with a single order thanks to the Seraphs Auxbot, revealing it to indeed be a Naga with assault hacking device. This is a justification of my choice not to use the Jotum to attack the bulleteer at this stage, as that would bring him into hacking range, Illustrating how the 2 TAGs has allowed me to nullify the singular threat the Naga AHD poses to my TAGs.
+
+[​IMG]
+
+Logically the Next order involves the Seraph and Auxbot lighting up the naga who elects to dodge. It dies in a hail of lead and fire.
+
+[​IMG]
+
+Next order I decide to start dealing with the other in close threats, jumping up and across with the Seraph to gain LOF to the Naga FO and moving forwards and back with the Auxbot to get into HFT range of the bulleteer.
+
+The Seraph elected to shoot at the naga at -6 (camo and cover) and put a wound on it, forcing it dogged/inconcious and allowing me to ignore it from then on.
+
+At the same time the bulleteer took the HFT hit and had its ODD burnt off, leaving it fair game for the Jotum.
+
+[​IMG]
+
+With the bulleteers ODD dealt with I elect to move the Jotum up for 2 reasons, firstly it is a bigger gun than the seraphs spitfire, secondly it is placing my Jotum in a position where I want it to be at the end of the turn so that it can control the approach to my units.
+
+Jotum blows the bulleteer to pieces.
+
+[​IMG]
+
+
+
+With my last order I elect to move the seraph rather than place the Jotum in suppression, I did this as I had eliminated most of my opponents serious threats to the Jotum (Baring a guarda multi rifle) and I expected the jotum to just get attacked form outside 24 by my opponent to force me to break suppression, wasting the order. My opponent also had a Regular hacker in a link team in the midfield that could have potentially aproached the Jotum from outside its LOF or while only taking 1 ARO, and this would have been very dangerous for the Jotum.
+
+So I moved the seraph up to support the Jotum and prevent my opponents regular hacker from approaching the Jotum from the side blinded by the building, at the same time my Seraphs LOF is cutting my deployment zone in half and limiting access to my order generators without engaging it.
+
+
+
+[​IMG]
+
+
+
+In my opponents second turn he pushes his Guarda Multi rifle far down my right flank (I miss jusdged the Jotum slightly and should probably have had it slightly further forwards.
+
+But it takes my opponent a lot of orders to stay out of LOF of my TAGs by taking the long route. He managed to kill 4 of my order generators in an Auxila FO, Machinist, Evo Hacker and Minesweaper. Unfortunately for him he does not have the orders to gain cover or fight the Seraph effectively, therefore he elects to drop into suppression fire.
+
+[​IMG]
+
+In my second turn I activate the Jotum to attack my opponent from out of 24 rather than try to fight him with the seraph. Jotum kills the Guarda.
+
+
+
+[​IMG]
+
+Finally the Jotum and Seraph position themselves to cover the opponents remaining units and drop into suppression fire. My opponent then was unable to deal with my TAGs in his final turn allowing them to walk to a victory casually in frontline.
+
+
+
+If this had been an objective mission I would have probably been a bit more reckless with the TAGs but as they were my key “scoring” pieces this game it was better to play more conservatively until I needed them later in the game.
+
+
+
+Hopefully this example illustrates the multiplication of force achieved by having 2 TAGs on the table at the same time. 

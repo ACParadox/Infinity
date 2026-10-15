@@ -1,0 +1,591 @@
+Hello and welcome to an N5 faction focus for Yuching. In this video, we'll be talking about how Yuching play, what are their strengths, weaknesses, and faction
+identity before jumping into Infinity Army to go through many of the profiles that showcase the faction. First,
+however, I want to do a quick retrospective on Yuching because as much as any faction, they have a history that dates back multiple editions and how
+they've changed over that time I think is very interesting in terms of thinking and recognizing about how they play now.
+Yuching are a faction that I've enjoyed across multiple editions, N3, N4, and N5, but I enjoyed them in particular in
+N3, lapsed with them slightly in N4, and have really enjoyed coming back to them in N5. Now, Yuching thematically have
+always been kind of meant to play a certain way. They're very consistently designed as a contrast to Panosania.
+They have certain tools that Panosania lacks. Things like smoke, more access to close combat specialists, a little more access to camouflage and hacking. But
+obviously without the plus one ballistic skill that tends to exemplify many of Panosania's strongest profiles. If you compare like for like across Euching and
+Panosania, you'll see that Panosania will usually have higher ballistic skill even on otherwise quite comparable elements. Where Yuching are set apart
+thematically, apart from that slightly higher versatility in exchange for slightly worse gunfighting, is a really strong thematic focus on heavy infantry.
+Where many of Panosania's flagship pieces are tactical armored gears, the same number or more Yuching flagship
+pieces are heavy infantry. Yuching tags exist and they're fine and you will use them from list to list. But it is the
+depth, breadth, and power of many different heavy infantry that is kind of meant to be Yuching's wheelhouse and
+what makes Yuching different and special. And while we will get to how this is performed in N5 in N3, that's
+not how they worked. Despite the designer's best intentions, what made me like Yuching in N3 was their absolutely colossal ability to spam cheap crap.
+things like many Shaolin monks, many Kongshi, every cheap piece you could get your hand on to actually have kind of a powerful aggressive lowend that yes
+could support support certain powerful high-end flagship heavy infantry pieces,
+but it was really the width that a Yuching army could build while still having lots of lieutenant orders, chain of command, command and control pieces,
+NCO, etc. That was what exemplified Yuching in N3. They worked really really well because you could play them so wide
+with a couple of pieces that were very good at spending those orders. And so they didn't really play into the fantasy of being the heavy infantry faction.
+Yes, you would take heavy infantry and they would be good. They would be part of your offensive measure. But when you scrolled down through a Yuching Army
+list and scrolled down and scrolled down and kept scrolling down because by god this thing is three combat groups, it was that width that you noticed. and
+what really defined how they played more than anything else. Now, I personally really liked that, but it was obviously not what the designers intended and it
+was also obviously what the designers not what the designers intended for the game. And so, when we fast forward into N4 and the 15 trooper limit slams down
+and eliminates that kind of list that left Yuching in kind of an interesting spot because yes, there were balance
+changes to the game. Many heavy infantry were made a little bit more attractive for their cost. So were tags. In fact,
+tags, especially in N4, benefited from the balance changes proportionally speaking. But those changes weren't
+sufficient. And especially the changes to many heavy infantry between N3 and N4 weren't sufficient to make a Uing heavy
+infantry ccentric list actually work particularly well. They still weren't cheap enough to take on mass. So you
+still needed to bulk your list out with things like Kong Xi, but you didn't have the numbers available anymore with the 15 trooper limit to really maximize how
+you would play with Kongi and Kongi had to be taken in certain numbers and then Shaolin monks. And so Yuching lists in N4 felt very constrained. They were
+still, due to the expense of heavy infantry, mostly tied to a Kuangi and Shaolin monk package, which would usually account for six or seven troops
+in a list, sometimes less, depending on how the list was being built, but then that would account for almost half of the list's available troop slots. Add in
+your necessary lieutenant options and a few other support pieces, and you lists became quite stratified and not
+particularly comfortable or enjoyable to play. I moved away from the faction in N4 because the trooper limit hamstrung
+how I had played them previously, but the changes, the balance changes didn't really allow the identity that the game developers were looking for to emerge.
+They were still a fine faction. Yuching in N4 was perfectly serviceable. I've played games with it, but they didn't quite spark joy the way N3 did. And now
+we've had N5. And in N5, we have again seen a raft of balance changes. cheaper troops across N4 to N5 have mostly been
+left unchanged. Maybe some small changes. Kongi, technically speaking,
+have received a small nerf. They've lost dogged, but they're still a very cheap source of orders. But much much more important is how the top end of the game
+has been adjusted. Because just as in N3 to N4, heavy infantry and tags, but especially tags, got made much more
+attractive. In N4 to N5, the same balance pass has happened, but this time it's been heavy infantry almost across
+the board that have been once again addressed and looked at and tested by the developers and the play test teams and made more and more efficient for the
+points costs to the point where in N5 the low end and the top end of Infinity
+all tend to be about as efficient point for point as each other, which is a marketked change relative to every
+previous edition. And this has had a huge impact on Yuching. In addition to there have been a couple of profiles,
+just a couple of profiles that have been added that have had a significant impact as well. The change to heavy infantry in particular, the fact that almost all of
+Yuching's heavy infantry, like across the board, are now kind of just appealing on their own merits, rather
+than their previous state, which was to be, yes, appealing as the spearhead of a force, but still so expensive that you needed to cut corners and take cheap
+pieces, etc., everywhere else in the list. Now, you still can't afford an entire army of flagship pieces, but you
+can build a Yuching army that has a mix of premium flagship heavy infantry and
+support and specialist heavy infantry and then a few support elements that are single wound infantry like light infantry, medium infantry, which means
+that for the first time kind of in Infinity's history, the way that you organically list building
+matches up with the design intention for Yuching. And that design intention is cool. Like Yuching being the heavy infantry faction, that's an identity that is easy to grasp and pretty neat.
+And it only in N5 has that actually been a thing. Like invincible army lists just work now because the points for all of the different pieces kind of function.
+And that has translated into vanilla yuching. And so with the acknowledgement that if you were an N3 or even an N4
+Yuching player, the faction will have changed underneath you entirely. Again,
+I would say that they are in one of the best places of all vanilla/ generic factions in the game at the moment. They are internally thematically cohesive.
+They've got a very wide range of appealing options and the fantasy of the faction works. So what is that? What is
+the fantasy of Uchain? What is the defining traits and strengths in particular of this faction? And obviously, yes, the first and most
+important is just a really, really good selection of heavy infantry. But in particular, what they have is, and I mentioned these terms before, a really
+nice mix of what I would call flagship heavy infantry. That's the big, expensive, cool, powerful ones. You see,
+Panosania has flagship tags. Things like the cutter and the yumm and the tickbang. Yuching has its equivalents in heavy infantry. The hacktau, the maang,
+the yan ho, the hate, the sujan, etc.
+Like there's a deep list of these and because most of them come in at like plus or minus 50 points, you can
+actually fit typically speaking a couple of them, sometimes even three of these kind of pieces in a list. That's super cool. But it's not where the heavy
+infantry stop because again the the price discounts the heavy infantry have attracted across the board in N5 mean
+that support specialist heavy infantry are available in Yuching and actually work. You will usually round out your
+force with a variety of pieces that cost less than sometimes you'll see some that are about 30 points, but many of them will cost less than 30 points and will
+be like affordable and can be taken again in small to medium numbers to complement the flagship heavy infantry pieces, which means that vanillaing is a
+faction that runs lots of heavy infantry and they run it well and it works. And this has a bunch of knock-on effects
+because you have all of these pieces that are heavy infantry. Now, there are strengths and weaknesses, but the strengths are notable. You just have all of these extra wounds in this faction.
+If you take the same kind of list idea and you construct it out of maybe elite medium infantry and light infantry, you just have five fewer wounds in an army.
+If you have an army that has 15, 16, 17 wounds, there's actually not a lot of failure tolerance there. Inuching you
+will have 20 or 21 or 22 wounds effectively speaking when you account for things like no wound capacitation etc in a lot of lists which means that
+you just have that much deeper of a crumple zone on many pieces and that durability is really big. It's a really
+significant particularly when like most of these pieces will have armor three or four or five, right? It's not tag armor.
+There is very like very rarely will you have a piece in Yuching that is as resilient as a Panosian flagship tag.
+But because you're taking heavy infantry and because your assets are spread out over often like five or six or seven heavy infantry pieces in a list
+depending on how you're playing. Maybe it's a little less. Sometimes it's well very rarely it's more but it can be about that number. You just have all of those extra wounds and decent armor on
+most of those wounds and that lets you absorb failure and keep on fighting. It lets you push attacks that otherwise you couldn't do with a heavy infant with a a
+single wound infantry and just generally push on through adverse circumstances that you can't do with a mix of very
+very elite pieces and lighter elements like a panosian for example would be built and that is super cool. Now obviously it comes with downsides as
+well because your army is just hackable as [ __ ] and that is the price of paying all of these heavy infantry right your
+army is very very vulnerable to hacking counter measures you have to treat enemy repeater areas with respect but that
+leads to its own game within a game and you have tools because of the versatility of yuching because that hasn't faded over additions you still
+have that versatility and so you have tools to deal with the fact that the most significant downside of your list is that everything that is important is
+hackable. You've got your own like to supplement the heavy infantry and support the heavy infantry, you tend to have good non-hackable, expendable
+assault/infiltration pieces, just the kind of stuff you need to kill a deployed midfield repeater or a massar,
+for example. It's also a faction that has emerged as a surprisingly good infowar faction. All things considered,
+Yuching I would put at somewhere in the top third of the game in terms of ability to just drop an infowar package
+into lists. There are no high watermark hackers. There are no, again, to reuse a phrase, flagship hackers like you'll see
+in ALF and combined army. None of those real bully pieces, but you can fit plenty of serviceable hackers and some network projection. basically just a
+good solid hacking package that can put out pictures, mess with the enemy, KHD enemy hackers, just fight the hacking game without putting a really
+significant impost on the rest of your list because many of these pieces will be things like heavy infantry. The hideout, for example, even if it weren't
+a KHD, would be a serviceable close assault heavy infantry and specialist that you can staple into a duo. And so when you combine those with pretty good
+camouflage elements and pretty good skirmish, expendable, irregular,
+impetuous, push forward and disarm enemy defenses pieces, you get a game that has to be played kind of in cycles. You have
+13 minutes
+to first deal with all of the things threaten your heavy infantry. Then you need to maximize the effect of your heavy infantry. But it is cohesive and it works and it plays really, really
+nicely. And on top of that, I mentioned duos just now, and that's something I think that was actually really good about Yuching in N4, and something that they've retained really nicely in N5.
+Now, this is, and we're going to come back again to that Panosiani comparison.
+This is something that Panosenia outperforms them in. Vanilla Panosia is one of the best factions in the game at getting just sweet as hell vanilla fire
+teams. Things like the bolt fire team in Duo or Harice, like there are a bunch of Panosian fire teams. You can get Jonavar, Helots, Paty, like there are
+all of these little cool options in generic Panosania that get fire team bonuses. We don't really have that in
+Yuching. There is one relatively viable fire team that can get a special die from a duo bonus. And that's usually a
+Zuyong invincible Harice with two Zuyongs and then one other piece to do something. Maybe like a pitcher for example. But what we have that we had in
+N4, we got in N4 and was really cool and has remained in N5 is utility duos. Two
+person fire teams that don't get a special die from being a two-person team, but do get the synergy of putting two dudes together who will fight well
+and cover each other's weaknesses and just be efficient moving around the field. Something like a Moang who has NCO and is durable and is a decent
+long-range gunfighter if you can get past the fact that he's packing a Red Fury and has a disco baller can perform very well by just stapling another troop
+to him like a H Highal who has really good close assault with the extra burst shotgun and has a pitcher and is a hacker and is a specialist. Those two
+don't give each other duo bonuses, but just activating them both with the same order can pay really big dividends in
+terms of play rather than just mechanical advantage. And there are quite a lot of those options in generic Uching. There could be more. Corus belly
+15 minutes
+if you're listening this. Basically, all of the generic factions in the game really could stand to have a little more flexibility in their fire teams. But in
+terms of the watermark of every other generic faction, Yuching have probably the second best link team setups, second
+only to generic panosia. And finally, in terms of just talking through different strengths and factional identity elements for vanilla Euching, in
+addition to everything else I've discussed, they have retained the what they got at the end of N3 and persisted through N4, which is just good command
+and control, just good use of NCO and extra lieutenant order pieces. A generic U-ching list should almost always be having more orders than it has troopers,
+whether it's through tactical awareness or NCO or both. You just have a nice order pool coming from a combination of your lieutenants, NCOs's and tackaware.
+And that is just nice to have. Now, what you don't have is a really broad list of lieutenant selections. Very, very often
+the willpower of the Yuching lieutenant at the lieutenant role will pretty much tell your opponent exactly who it is that they're playing against. Will power 14, that's a Daoying. Will power 17,
+that's Sunsu. Will power 13, 90% chance that there will be a pair of line infantry, one of whom can be the lieutenant deployed somewhere. Like,
+it's usually just something like that.
+It's pretty face up. Even if face up in this case often means a camouflage mimitism minus three marker in the deployment zone that is very difficult
+to pick out because it's a camouflage dowy. But it is at least fairly predictable in terms of the lieutenant
+choices are good, but they're not expansive. They're not expansive in the way, for example, that the heavy infantry that we have access to are expansive. Now, I've al already
+mentioned, and this is very obvious once you play Yuching for any length of time.
+Hackability is a thing. You have to play around it. It is a constraint on the faction's power. Now, Yuching are by no means the only faction that have this constraint. You can build, for example,
+plenty of Panosian lists that are just like, "Wow, really wish this all wasn't completely hackable." But because you're playing Yuching, you have the tools
+available at list construction very very accessibly to to solve that problem.
+Right? If you run into a situation as Yuching where you are pinned back by a hacking network and have no way to
+progress, very likely there is a failure on your part at list construction because the tools to address that,
+provided you spend the time and the resources do all exist in faction. And then finally, in terms of limitation, Yuching is not really a tag faction.
+It's not that any of the tags are actively bad. In fact, I would go as far as to say that they're all they're all pretty much fine. I have used the Long Wang, right? swung that bad boy around
+and it performs totally okay. The Guija is totally okay. The blue wolf is totally okay, but that's kind of it.
+They're all just totally okay. And they push you towards a list archetype that is more reminiscent of an N4 list. And I
+think for most circumstances, they don't really outperform or out compete heavy infantry in the same role. You can play them. They are viable. They are not bad.
+But notwithstanding the long wang I have sitting on my painting table right now,
+they're not what we are playing the faction for. And so with that, let's jump into Infinity Army. Now, usually
+the first things I go through in an army breakdown for a faction focus is your like core line infantry staple link team
+setup. But this is vanilla Euching, so we don't give a [ __ ] about that.
+Instead, we're going to start where not every but many lists will start, which is the beginning of our most common command and control package, which is the Dowying operative control unit.
+Euching's got really nice access to NCOs's. And so to make the maximum use of your NCO skill, you need lieutenant orders, preferably lieutenant orders
+plural. And so, not all, but plenty of lists. And if you are new to the faction, my recommendation is you start with a 28 point lieutenant plus1 order
+hacker Dying. Now this boy does a bunch of stuff. Firstly, 28 points is not cheap just to be an order caddy, but he
+does give you two extra orders over and above the 15 trooper limit, which gets us just to begin with 17 orders in many list the moment we include an NCO.
+Secondly, very serviceable hacker just by himself. willpower 14 with surprise attack and two orders for him to spend
+himself. Extremely reasonable. Uh you do have to be careful if you're doing that.
+Always be very careful revealing the Dowing. If your opponent has access to killer hackers, they will know that this guy is your lieutenant. Like 100%
+guaranteed. And so revealing him in reactive is a death sentence if your opponent has the slightest means of going after him. So, be very careful
+about revealing him in React if you aren't certain of his safety, which means that he's usually not the sole hacking package you have access to. He's
+just an extra hacker that you have that can round out a list. Often, if I'm going to use this guy as an active turn hacker, I will just reserve a lieutenant
+order that I will use to go back into camouflage at the end of the turn. And then that's the third thing that he does. He's a camouflage lieutenant.
+That's just nice. That's a luxury that is really nice to have. Particularly camouflage markers that are all the way back in the deployment zone can be very
+very difficult to push after with like anything. Any turn one attack against the Daoying is often just a little bit
+more difficult. There is always at bare minimum that failure state of the discover role which means that if you're even a little bit canny with the
+Daoying, you can often just very comfortably write out an entire game without any risk of loss of lieutenant.
+What is also pretty common is that again because this model has multiple lieutenant orders and can spend itself.
+This is a model that becomes quite serviceably a like turn three specialist/do stuff model. It does need to be moved forward to do that, right?
+You will need to at some point break cover and actually cross over into the midfield. Even if you do that on turn three with your LT orders, but if you do that when you get there, you're a
+ballistic skill 12 boarding shotgun with camouflage and a hacker, which means you're a specialist who gets relevant specialist bonuses. Just a good
+well-rounded piece. 28 points is a touch expensive, but it is well worth it,
+particularly given there's not that much competition. And that makes, at least for me, the daing the starting point of
+probably about 70% of my lists. And with very good reason. All right, cool.
+That's the last medium infantry we're going to talk about for a little while because now it's time to talk about all of the things that use those lieutenant orders and all of the things that spend orders in a faction generally. It's time
+to talk about heavy infantry. And we have we have a bunch to get through. And I'm going to start with the flagship heavy infantry because any given Yuching list will want multiple of these.
+Usually two, sometimes three if you can fit them. It depends how cheap or expensive you want to be. And at the very top of the dog pile, we have the
+hack tower special unit. Now, I will be honest, little bit rich for my blood. I like to have a bit more in terms of like
+varied. I like to have more multiple high threat elements, but not withstanding the fact that I am a cheap skin flint when it comes to paying for
+22 minutes
+anything in Infinity. You get what you pay for for these guys. Uh 58 to 60 points and all of these profiles are
+serviceable and dangerous. The heavy machine gun is the most common because it is an NCO and is a very dangerous HMG
+gunfighter. It's just a HMG. It's just damage five. It will have a hard time dislodging a heavy tag, for example. But I am not personally seeing a huge amount
+of heavy tags right now. I am seeing other kinds of lists. I'm seeing more varied hybrid linked arrow, bit of close assault, bit of hacking, a vehicle here
+or there, etc. Right? Like lists I'm seeing in N5 tend to be more varied with more dispersed assets. And because of
+that, HMG is totally fine, particularly if it's a HMG that will win gunfights aggressively and land multiple shots.
+It's an NCO, which means that it's very good at spending those Dowy orders. It can reveal from hidden deployment, take a surprise attack gunfight with big mitism, good ballistic skill. It's just
+a good bully piece. But the other hack tower are all totally viable as well. The hacker is one of the few like this.
+It's the biggest bully hacker that you have in Yuching. If you really want to absolutely go ham on aggro dangerous
+hacking elements, it's a whip 14 BTS6 hidden deployment fairy dustable etc.
+piece. And if you compare it to something like say an Usura, it is a much much more dangerous gunfighter because it's got a plus damage mimatism 6 multi rifle on a 62 movement profile.
+One of the things that sets it apart from its Panosian equivalent, the Swiss Guard is the Swiss Guard is slow as [ __ ] whereas it the hack tower is 6'2
+more than makes up for the fact that the Swiss Guard has higher ballistic skill.
+Definitely the hacker is a rarer pick of the hacktau because there are pieces that compete with it very aly if we compare it to a zena for example. The
+zena hacker is a really nice piece and is cheaper much cheaper than the hacktau. It doesn't do anything that's like the hacktaw hacker does not do
+things that are as unique but a very viable piece if that's what you're reaching for. Finally the missile launcher. Now the missile launcher was a piece that I had a local who
+24 minutes
+experimented with it for some time and it's just it's just a nightmare. It's a horrific nightmare to play against because it's out there somewhere and then it reveals and it's like, "Hey,
+what if a noctifer had four more points of armor, two more points of ballistic skill, an extra wound like just just it's a nightmare to deal with and to
+dislodge it. Sometimes you just can't once it reveals sometimes you just have to accept the fact that it is where it is and you can't push past it because it's got mimitism 6, etc." Now, one of
+the things that this this local found was that in a pinch, they were actually able to use the hectar missile launcher as an active turnpiece. Back in previous
+editions, it was just one shot, but between your ballistic 14 and surprise and mimatism, you could often make that
+shot count in active turn. And that was back when the missile launcher had just one burst. Now, it has two. And that
+makes this actually just totally viable as an active turnpace. You can, yes,
+it's only burst two, but it's ballistic skill 14. He has surprise attack,
+momentum six, and you only need to connect once. That is an eminently viable active turn piece. Not necessarily one that you reach for in
+the first instance, but given that you are primarily bringing it as a reactive ambush predator, like one of the best in the entire game, the fact that it can
+turn on a dime and just take those shots inactive if it needs to, is really,
+really interesting and something to look at. Now again probably I am not personally reaching for the hacktau in a ton of lists. It's expensive. There are
+cheaper options but if you are looking for flagship infantry heavy infantry in
+yuching the hacktau is the tallest of the lot. Very effective very powerful very strong piece and it's just the beginning of many heavy infantry that we
+have to talk about. And the next up in terms of flagship heavy heavy infantry is the hack tower we have at home which is the mang troop. Now, unlike the
+hacktail, there is really just one profile that I recommend here, and that is the NCO Red Fury Flamin Spear Disco baller. There is a thing that needs to
+be mentioned about the Moang that is a point against it that you have to accommodate if you are going to be playing the Moang, and that is that it
+has a Red Fury as its gun, which is damage 7. It is very, very damage seven.
+And the thing about damage seven is it doesn't matter what you're shooting at,
+you can just putter out and not do any damage in that particular order. It is the nature of the beast and it is the price you pay for everything else that
+this profile has which is for for only 44 points right that is a full 15 points cheaper than say the hacktal which
+admittedly outperforms it significantly but for for 2/3 the price or thereab no hang on for 3/4 the price you get a lot
+of durability no wounding capacitation on an arma 5 BTS6 matism 3 piece is exceptional it's also linkable And it is
+a fantastic piece to have be the active order spending gunfightingish piece in a duo with something like a h highal for
+example. On top of that it has a disco baller. Now this is a piece of equipment that arrived in N5 and has generally
+been met with a uh cool I guess eclipse that's nice. But the effect that disco balls have is variable based on
+different factions. And in yuching they are a very significant change. Not only is in vanillaing it usually possible to get one or two decent quality disco
+balls into a list, but for a very long time historically alling had was regular smoke. And regular smoke is very nice to
+have, but it does not stop MSVs. And sometimes you just want to ignore the like black air neuroinetics linked with four fuselers. Just I just don't want to
+deal with that. I don't want to deal with that. I don't want to fight it. I want to go and fight other things. And you cannot do that with smoke. You can do that with Eclipse. and having a clip
+that is so easy to place because it is double shot ballistic skill 13 with forgiving rangebands that is just a
+hugely valuable piece of equipment. Not every single game but in the games when you need it is just salvation. And so
+that particularly that 44 point NCO red fury flamman spear disco ball moang is just you put the da ying in the list and
+then you want an NCO. And in terms of NCOs's that are most well-rounded,
+provided you have a solution for the fact that the mowing is a bit of a punched down piece. It does not want to be fighting heavily armed, heavily armored, heavy infantry or tags, right?
+It's got a pop gun relative to what you need to deal with something like a Mowang for example. You account for that in your list construction. and the cost
+and the durability and the NCO and the linkability of the MOANG make it one of my favorite hi in Yuching. And so, okay,
+cool. We've taken a Mang for example.
+Well, it's only got a red fury. We better take a big gun to dislodge enemy enemy heavily armored staff. And here we have the Yan Ho, invincible fire support
+heavy regiment. Now, there are a few pieces that you can fit in kind of this role. If you're taking a missile launcher hack tower, for example, you probably don't need a piece like the
+29 minutes
+Yano. The missile launcher hack tower will cover off on anti-tag duties in 90%
+of cases. But the Yanho, a bit like the Moang, is just a very pure piece. 47 points. Typically speaking, that is the piece that I will take is the hyper
+rapid cannon because there are no mods on the Yan Ho. It has warhorse, so it's immune to blist attack minus three. It has immunity armor, so it's very good at
+just taking fights. It's not going to get like ripped by randomly losing a face to face roll to an enemy missile or back. For example, a rocket launcher
+that hits the Yanfo will not do to the Yano what it does to my tickbang and burn it all the way to dead in one go.
+The Yanfro is consistent and puts a lot of bullets with armor piercing downrange
+into whomsoever you might need. The Yanfro is the gun equivalent of to whom it may concern. And there is nothing
+that does not need to at least respect five dice on 14's immunity arm warhorse with HRMC levels of forgiving range
+bands. Now the Yanho is not an every list kind of piece. I personally like it at least in part because I think the Yanho HRMC is one of the coolest models
+Infinity has ever produced, but it is just one example of how you might bring fire support elements with just that
+armor piercing for insurance. Your mileage may vary on how much you think you need anti-tag firepower, for example, in the game. What your locals
+are playing and what you expect to see at a tournament should inform your ability to handle the Yanquo. If, for example, you anticipate the dreaded
+Maximus meta emerging, then obviously the HRMC and armor piercing begins to become less important than just shots down range. But the point is, make the
+call on whether or not you think you need a piece like this, test, etc. But if you're looking for a good cheap gun to complement something like a Moang or
+even a hacktau, a Yanfro is a very pure expression of big gun go and fits well in many lists as a result. He does have
+competition though and the most significant competition he has is the Heate unit. Now the Heate is missing things that the Yan Ho has. It does it does have warhorse which is really cool.
+It does not have immunity armor and any of the profiles that you might choose to take have lower burst. Right. The Yanho has a HRMC. It has longer range at the longer range bands and it has burst 5.
+Aheet only has an AP HMG, but it does have tactical awareness and is cheaper.
+I think seven points cheaper than the Yano HRMC. And seven points is like seven points buys you an awful lot of upgrades elsewhere. Particularly when
+you account for the fact that tactical awareness is just one more order in a list. Like there is a very strong argument in many lists for taking if you
+don't take the Yan Ho or another equivalent gun armorpiercing firepower is very aly serviced by the Heay. I also
+have a fair bit of respect even unlin for the heavy rocket launcher plus one burst exits only 36 points and it brings
+guided into like a scuffed guided but only kind of scuffed guided into a list. Okay. No, it's not firing a missile.
+It's firing a single hit rocket. It is firing it. However, on 20s, if you take guided, and the point isn't that, oh my god, this is a really great guided
+piece. The point is that if you wanted any other guided in the list, you would pay a whole separate 1 and a half SWC
+and six uh 16 points. And while yes, the Sunbeay Yakong is a better guided missile bot than the Heay, it's a whole separate perlex purpose-built piece.
+Whereas the heyday you are taking because it is a 36 point armory BTS6 warhorse tactical awareness burst three
+assault rocket launcher assault pistol assault heavy infantry and oh hey I get guided randomly for free. Now my
+personal take is that if you've got the four points upgrade to the AP HMG guided fire is just a nice to have in N5. It is
+not critical but what will often be quite important is the ability to dislodge enemy armor. And an AP HMG is
+just a good reliable solid. It's blister skill 14 which is really nice. It has no mods. Firing just raw BS14 three dice is
+something that in white banner you can link it get link bonuses. No worries.
+Very comfortable with rocket launcher there. In vanilla youing lean towards the AP HMG more just because in the
+absence of any modifiers you just need burst to win face to face rolls and so the heate will reli more reliably win face to face rolls. I would not usually
+take both a Heay and a Yanho, but I think there is a very strong argument for at least one of them. And the Heay has tackleware and is cheaper, which means that if it's the one you choose,
+absolutely nothing wrong with that. Next up, in terms of flagship heavy infantry,
+it isn't a big gunpiece, but I would not be forgiven if I didn't mention the Sujan immediate reaction unit, immediate action unit, sorry. Now, at this point
+in Infinity's history, I don't think this thing really needs much of an introduction. I will say very clearly in N5 for me the heavy shotgun plus one
+burst is the superior profile. Not only is it cheaper, but if you need to take long range shots across your opponent's bowels, maybe you get into your
+opponent's deployment zone and you have envelard fire, cool, you've got a thunderbolt as well. Excellent. The light flamethrower plus one burst is also a really big deal in terms of forking arrows. But most of the time,
+what you'll be doing is just walking up and going, "Hey, three dice on 20s.
+Let's go." And that's just fearsome as hell. It's also hugely durable. I have explained this in previous videos, but just in case you are new to Infinity, no
+wound incapacitation is a very powerful skill. It gets more powerful when combined with remote presence. No wound incap triggers the turn that you go into
+unconscious. Okay, cool. That's quite good. Allows you to ignore the unconscious state. A sujan has two levels of unconscious thanks to remote
+presence. Now this doesn't mean that you get multiple extra free wounds from no wound incapacitation. But what it does mean is some of the time if you are knocked into unconscious but you take
+two wounds as part of being knocked to unconscious right you go from unconscious one to unconscious two and that happens in the same order you can still activate no wound incapacitation
+right you are conscious and then you take two wounds and go to unconscious one then unconscious two in the same order no problem activate no wounding
+cap and so not all of the time but some of the time against like really high damage crits or continuous attacks that you can't save through the combination
+of no winning cap and remote presence insurance just adds an extra level of cushion. It's not even half an extra wound. It is just bad luck insurance. It
+is bad luck insurance in the way that extra wounds sometimes are, but it is insurance against the very worst bad luck. Crit by a missile launcher, no
+problem. The sujan's probably okay or functioning at least, and that's a really big deal. I would also note that at time of recording, the stealth
+operations it seasonal rule is in effect. And you know how I mentioned that your entire faction is hackable as hell? That's no different for the sujan.
+Want to know what's really, really good?
+Stealth on a sujan. Just walk through enemy repeater networks. In fact, I would go as far as to say that it is specifically the threat of every single
+Eugene player in the game being able to give a sujan stealth every single game.
+36 minutes
+That is currently one of the pieces most responsible for the fact that just take six sense hackers. You just you just need six sense hackers if you're running a hacking network because if you don't,
+the sujun will just walk through them.
+is a very powerful flagship piece is one of the things that exemplifies yuching.
+Not necessarily a model that you put in every single list, but you are never wrong for putting a sujan in a list. It
+is a fantastic piece. Now, in my opinion, those ones that we've covered are what I would call the flagship heavy
+infantry. Those are the big powerful dangerous cool pieces that are the top end of what can do with heavy infantry.
+It is by no means all of the hi we will talk about, but in terms of the big scary lads and ladets, those are the ones I personally reach for. We're going
+to just rapid fire through a few others that fall into this category, but which I personally think fall a little bit behind. The first of those, and it's close here, is the Cien Warrior,
+specifically the heavy machine gun.
+37 minutes
+There have been a bunch of attempts made at like, oh, can we use any of the other CN warriors? No, don't. Don't. Just don't. Don't try and make multi marksman
+rifles work on 51 point pieces. Don't try and make multi rifles work on 48 point pieces. It is not worth the time
+and pain of banging away with a burst three damage 7 weapon, even if it has armor piercing. But the HMG is a pretty
+big deal. Smoke shooting is pretty good in N5 because six sense is rarer and that makes any good MSV2 piece,
+particularly in a faction that's got nice and fairly good access to impetuous smoke grenades in the form of Shaolin monks. There's just a good solid synergy
+here. Now, I I personally don't find myself reaching toward the can warrior hugely often. It is just expensive enough that I could get a tougher piece
+in its place, right? A few more points like it's not that much more and I would have myself a Yanho. Not just a Yanho,
+sorry. No, a few more points and I would have myself a hacktau. The same number of points thereabouts. In fact, a little bit cheaper and I would have a Yanho and
+quite a few points cheaper and I'd have a hair tie. So, the point with the Sen Warrior is that smoke shooting is very cool. But there are the martial arts and
+the dodge and etc. That is just making the Sen Warrior a little more expensive relative to its performance than perhaps a few other pieces. It's out competed
+very very slightly. But again, meta pick if you are playing in a faction or metagame environment community. If
+you're playing in a situation where you know what, no, smoke shooting is really good here. I've played against John Hawkwood in a twoerson fuselier team for the last three games and I'm sick of it.
+The sin warrior is a very good counter to that. Now, just to jump few a few more of those kind of flagship pieces,
+uh the Darth Tactical section is a favorite of many older players.
+Personally for me, I think it's trying to be a few too many things at once, but an AP Spitfire is an AP Spitfire, and the hacking profile wouldn't be particularly bad either if only the damn
+thing wasn't so many points. The main thing with Doway is that they are very,
+very expensive, and Zena exist and are awesome. So, I am not leaning toward them, but if you're an older player who has fondness for them and has the muscle memory for making them work, they've only gotten better in this edition.
+Bishia is a bit of another example. Very capable of functioning as a dangerous mobile solo operative, and she's an NCO.
+good in close combat, not great, but like good enough to punch down into anyone, very mobile, not exactly a gunfighter, and therein I think is the
+biggest issue for her. She's paying for an MSV1 and all this mobility. And all she's really got is a multi- rifle to back it up. And 41 points for a model
+you don't really want to be taking gunfights with is a little bit of a weakness in my opinion. But if you like the model and she's performed well, the
+mobility is phenomenal. She's very zippy. Be aware of the like Naruto run trick, which is that you can super jump
+eight inches and then you can declare dodge with the second short skill and she will dodge on 18s and move 4 in on the dodge, which means that in total she
+can move at 12 in every order and that is fast. That is like old money fast.
+That's how old super jump at the beginning of this edition used to work.
+It's quick. 12 in is a long way on the trot. In terms of straight line movement, there is not very much in the game that is faster than that. And so
+she is very good at getting around quickly and that is always a skill that you can potentially maximize. Finally,
+just to mention them, Shangji invincibles. Don't like them. Too expensive. No good at gunfighting.
+However, there are a bunch of irreressible diehard Shangji fans out there. And so here you go. If you're the person who likes Shangji, you're wrong,
+but I'm mentioning them. They do have one specific niche in N5 in Yuching and that is that if you somehow just have
+way too many points free because you build your list in a weird and bad way, Shangji do have access to duo bonuses.
+You can't harice them, but you can duo a pair of Shangi and get a sort of build your own AP heavy machine gun that is
+ballistic skill 13 with burst four and a special die. That is not as good as many of the other options that you have for
+cheaper, but hey, they do both have tactical awareness, so you can spend a whole bunch of extra orders not being particularly effective. Now, from here,
+we get into the like support specialist interesting heavy infantry. Uh, and we're going to start with one of my personal favorites, the H Highal. Now,
+these infantry in this this category,
+right? Like these support specialist heavy infantry, they're not our flagship pieces. They don't move up the field bullying their way around. They are more
+specialized in their application, but they are all also universally just generally pretty cool. Like all of the pieces that we're going to mention in
+this category, and there are a bunch of them, are just kind of sweet and interesting. And as mentioned at the beginning, they're all heavy infantry,
+which means they all one way or the other have an effective extra wound.
+That's just cool. That just adds to that durability that Yuching has where another faction would be spending the points on a piece like this to get just
+some single infant single wound infantry dude in Yuching Hideout special support group armor 3 BTS3 shock immune no
+capacitation and that 22 point profile especially is an absolute banger. Burst three boarding shotguns are sweet as hell. They are very dangerous coming
+around corners. Ballistic skill 13 really makes the most of that. 22 points in zero WC and it's a blissical 13 pitcher and a killer hacker to boot it.
+One of the best ways to spend 22 points in the game and it is just the start of Yuching's hacking package. I mentioned I really like a fire team of a mowing and
+a hideout and yeah, the hideout closes in and gets kills. It throws out pitches. It does specialist stuff. It does killer hacking. Just a really great
+piece. And again, 22 points in any other faction would buy you something like a blade who is an engineer with tactical awareness and also a single wound pleb.
+Not so the hideout. Super cool piece.
+Now, I do recommend the KHD most of the time. There are other profiles here that are cool. Like the chain of command is cool. The engineer is cool, but we're
+not just not taking them particularly often because we get one hideout in a list. This is vanilla. We do not have high availability. We're not playing white company or invincibles. you get
+43 minutes
+one hideout and it should usually be the KHD. Next up and the cool best friend of the Hidal, we have the Dockery Cyber Team. Uh these guys are just like
+multiples of the Hideal pitcher, durable hacker, blah blah blah. Little more focused in some respects. So they are a nomad incapacitation troop. However,
+they have structure and remote presence.
+Remember what I said about how the Sujan works. Just adds a little bit of an extra layer of durability some of the time against the worst failure states.
+Now, there are a bunch of profiles here that we can look at, but most of the time the one that we will be interested in, not universally, but most of the
+time is the 22point profile. A killer hacking device with spotlight is just conceptually really cool and it's a
+pitcher. Bliss skill 12, not 13, but skill 12 is fine and otherwise just clocks in at the same price as the hideout. It can do a little bit of door
+kicking itself with a multi- pistol plus one burst. It is reasonably durable.
+It's faster at 62 move and it has higher willpower. BTS 6 is actually a pretty big deal if you're going multiple rounds against an enemy hacker. Often,
+44 minutes
+particularly if you're trying to fight an enemy KHD through a picture of yours and they get lucky once or twice, that BTS6 really helps against Trinity when you stack it with a firewall mod. All of
+these profiles could potentially be played. The Mark 12 with the marksmanship rule is a particularly spicy option, but since it gives up the
+pitcher, and pitchers are very useful and important, my general inclination is to lean toward the profile with the pitcher, but you can in a pinch absolutely take the Mark 12
+marksmanship, and it's firing off three dice on 15s, which is not terrible as far as gunfighting goes. Up next, we have the Lucing Jump Infantry. Now, this
+is a piece that I considered to be a little bit of a meme in prior editions.
+Not bad, not exactly, but like a little bit of a meme. Hackable close assault elements are always just a little bit trickier to use than you might like.
+There were too many cases I saw where yes, Alooing managed to land, but he couldn't make use of the explosion. In fact, you probably still don't often want to make use of the explosion that
+often because there was a hacking area and it would get hacked or would have to get zoned out or etc. and it was very expensive. Well, it's no longer very
+expensive. That is just cheap relative to what you are like what you are getting compared to what you are paying.
+All of those loosening profiles are particularly attractive. And the way super jump with jet propulsion works this edition, I have no complaints with
+anything I am seeing here. Being able to move 8 in with perfect threedimensional maneuverability on the first short skill of an order and then do something that
+slaps. And all of the profiles have some capacity to deliver on that. Whether it is the just the boarding shotgun profile, it's ballistic ballistic 13
+with a boarding shotgun. It is only 24 points. You can just throw it at the enemy and attack attack attack attack until it's dead because it's a no infestation armor 3 BTS3. You can also
+very strongly consider the hacking device. The hacking device I would say is probably if in doubt and you have the SWC, it is the profile that I would reach for more often than any others.
+And that's because it can still fight, right? It's a boarding shotgun, ballistic skill 13, jet propulsion, etc.
+46 minutes
+But also a hacker with the firewall.
+Firewall minus 6 is a big deal in terms of potentially having to brave a repeater network once or twice. And
+landing a hacker in the enemy deployment zone can be just hugely annoying. Like the plays that you can make where it's like, well, I didn't have a picture
+angle that I liked, so I just put the hacker where I needed it to be and it possessed the tag. Stuff like that.
+That's really cool. It's also a specialist profile and it is the only specialist profile that you have access to on the Lucing that will have reliable access to specialist bonuses. Only being
+willpower 13. the 30 point multi- rifle specialist operative with Dcharges,
+right? I don't like what we're getting in that package enough to consider that preferable over the hacker. And this like the nice thing, right, the really
+nice thing about hacker heavy infantry is that you're hackable anyway. So,
+okay, cool. We'll just add Trinity to the mix. Like, it doesn't matter that much. And so, there is an efficiency of points there where being a hacker comes
+with virtually no downsides and a bunch of upsides. So the 30 point profile, the 24 point profile I like a lot. The
+Spitfire I don't mind. It is purely offensive. It is purely like an aggressive piece and I am not sure personally that I have those S SWC spare
+terribly often, but it is an option regardless. Very good piece. It is not like a flagship HI in the sense of it doesn't blow its way up the field, but
+it can absolutely break open games. Is a very cool and very worthwhile piece this edition. Next up, even more expensive.
+Right. We're still straying back into kind of expensive pieces here, but like 34 points at the absolute maximum for a Zenaia armored reconnaissance regiment
+that is still significantly discounted relative to previous editions. And finally puts this profile at a point where yeah, I'll pay that. I'll pay that
+and it will be totally fine. There are a few profiles here that are good, but we're going to call out two in particular. The first is the hacker. The
+Zena hacker is just it is expensive. 34 points and half an S SWC is pricey, but you get a wonderfully well-rounded
+48 minutes
+hacker as a result. Not only does it have infiltration and mimatism and camouflage and clamming plus and no wounding cap and armor 3 and BTS6 and a
+boarding shotgun and Dcharges for doing classifides and the boarding shotgun fights. Okay, it's only ballistic skill 12, but surprise andism don't hurt. But
+as a hacker, willpower 13 is not the highest, but hacking devices with Trinity are just really wonderfully
+well-rounded. The fact that it's BTS6 as well, willpower 13 will let you down from another time, and it is one of the things that you will find as a weakness.
+It's one of the reasons why I consider Euching hacking to be in the top third of the game, but not like the top five factions, for example. It's just good.
+It is good hacking, and the Zena is a really good part of that. She is durable. She's hard to counter hack. She can fight hacking jewels herself and
+she's a specialist and climbing plus and she can gunfight just very very cool.
+The only Zena I think that really sort of compares to her. I'm not super keen for example on any of the submachine gun profile. The submachine gun is a crap
+gun this edition. So we could look at the 30 point boarding shotgun forward observer but at that point we may as well just pay the extra three points for four points rather for the super cool
+hacking profile. The one submachine gun that I am somewhat interested in is the mine layer because it is mine layer 2
+and that's just a really really good skill. Yes, they are only shock mines,
+but two shock mines put on the infiltration line as part of deployment is just a really nice thing to have. Not critical, not essential, but we have
+enough of a mix of camouflage markers in this edition that just having one like two extra mines means that we're often going to have three mines as part of our
+deployment. Three mines and some zappers and some hacking in the midfield. Cool.
+Just really good. You can absolutely take two Zena in a list. That is getting a little expensive, right? that's starting to displace other pieces,
+compete with flagship pieces for cost because that the 32 point zenture is within spitting distance of a for example right we have to start making
+choices at that juncture but another one of those heavy infantry that in previous editions were just too expensive now
+very competitive for the cost very very good now two more pieces to mention in this kind of like not flagship but
+interesting heavy infantry and these are not special lists, but they are specialized. And the first is the
+Huarang core. Now, the Huarang has some limited link options. You can only put one of them. You can put them in a
+Harice or Duo. It is the Euching Fire teams 2 setup, which means that most of the time the only real thing that you
+might link this with is a Docker cyber combat team. But the 20 point profile I
+like a lot. In addition to being a dangerous close combatant, right,
+martial arts 3, super nice, CC22 is good, but it has a PS5 explosive CCW,
+which means that if it connects, it connects, which means it is a good close combat model that does not have no cover
+to start the game. And it has a light shotgun, a panzer house, and a disco baller. And that the that is the sort of the important thing here is that the
+huarang is our second source of eclipse smoke after the mowing. And depending on how you play, depending on sort of like what it is that you preference in the
+game, having access to that second source of eclipse can be really, really good. It also randomly has a deactivator. Now, you don't necessarily
+want to be running this guy into zone of control of repeaters to turn them off,
+right? I feel like it's not difficult to understand why that might not be the best outcome, but you can you can do that. or mines that have been discovered
+can be turned off. Uh if we were still playing against some turrets rather than zero turrets, the deactivator would be very good there as well. And if Corvvis
+belly ever go back to turrets and do something that kind of unfucks them because right now I have not seen one since the change, right? If we see a
+situation where turrets are taken even in small quantities, again, having access to a deactivator and a clip smoke is just cool. Just a random solution to that that I don't have to worry about.
+And finally, on top of all of that, on top of uh he's got combat instinct,
+which means he ignores stealth and has Albo. Now, Albo is not a skill that I go out of my way for. Oh, imunocritical as well. Um Albdo is not a skill that I go
+out of my way looking for, but to have it on a model that can take cover and can come around a corner and gunfight again. Nice. Not what I'm taking the
+Hang for, but good close combat, durable close combat, quick stealth, and eclipse. These are all good things. The
+huang is a sometimes food. Not in every list, but taking one linked with a dockabai perfectly serviceable. Finally,
+we have the line infantry zuyong invincible terra cotta soldiers. Now, we can't like oversell these guys. They are
+just ballistic skill 13. Like they they have challenges for the same reason that the Shangji have challenges, which is that there is just a limit to what can
+be accomplished with ballistic skill 13 with no modifiers. However, unlike the Shangji, the Zong Invincibles can be
+formed up in a Harice and you can have three, more importantly two. You can have two Zuyong Invincibles in a Harice
+team, which means that if you want to give a pitcher burst bonuses, the only or special die bonuses, the only way to
+do that in Yuching is to take a Harice of two Zuyongs and a dockabe. And for that reason, it would have been remiss
+of me not to mention them. Now, the loadouts that you can take here, you can go cheap, you can go expensive. You got access to ample tactical aware. 33
+points for tactical awareness. HMG is kind of okay. Bliss 13 is not fantastic.
+The boarding shotgun emitter profile is pretty cool. The tactical awareness firewall can be nice if you're linking it with the docker. None of these,
+frankly, are colossal standout pieces.
+Very ballistic skill 13, right? Nothing here that I'm leaping for joy over, but especially the boarding shotgun emitter is only 22 points. That plus one other
+piece can get a little expensive. But if we are particularly interested in giving burst bonuses or fire team bonuses,
+special die to a docker, that's not the worst way to get it. In fact, it's the only way to get it and therefore by definition it is both the worst and the best. You know what I'm talking about.
+It is something that you should consider. I am not going to use it myself a ton, but I have played against it. I played against a local who was
+like, "Yeah, no, actually I want the special die. I want to be able to do that hacking more reliably. I am not rolling just one dice on trolls like a pleb." And he made very serviceable use
+of the Zeong team. And so for that reason, and of course I got crit by an emitter. That's a thing that will happen when you put a linked emitter in lists.
+Occasionally the emitter will crit and then you will go, "All right, cool down a speedball. I'm going to spend two orders. I'm going to move up and I'm going to unfuck the situation. I'm going
+to do it again." And that is just solid value. So, not again a sometimes piece much like the hang, but something that
+you can consider in some lists depending on what the circumstance requires and how much you value special die on things
+like pitches. Okay, that's 15 heavy infantry. Let's talk about literally anything else. And we're going to talk now about the the cheap side of Yuchen,
+the cheap offense and defense package.
+And it actually does not really include Kungshi, though we will cover them briefly. Uh, Shaolin monks are where we're going to start before we move on to some camouflage stuff. Six and five
+point profiles are the ones that you want. Take the DACCW if you can get it.
+Downgrade to the shock CCW if you absolutely must have one point spent somewhere else. Shaolin monks are just a very good piece at turning wound or
+orders orders into value. They are just like in N4 the only war band that has stealth which means that if you cover for them they stealth into close combat
+and then they kill things and they are very goody in close combat. Martial Arts 3, CC23, DCCW. These are just dangerous.
+Now, you can AVA for these things. Usually, two is plenty in every list.
+Uh, if you want to take two, you can duo them. Duoing them is a little bit awkward because you need to spend regular orders moving them forward, but you will give them the duo bonus on
+throwing smoke grenades, which is pretty nice. And they are very nasty in close combat, especially if you move them in in pairs. If you're going to do that,
+usually the best way to do it is to spend a regular order and like move the first one in. Um, get into close combat,
+make a CC attack. If that doesn't kill the target, spend an irregular order on the second Shaolin, which breaks out of the fire team, meaning the first one does not activate, meaning the first one
+doesn't get a rooted against, stealth into CC, and then take a plus one dive,
+plus one special die, CC26 close combat attack, and demolish your opponent. It's very dangerous. It's very clean. You don't usually need two Shaolin monks
+into CC to get kills. It is very possible to run them on far sides of the table, split up, etc., but just just a good pace. Good for all of the reasons
+that they were good in the previous edition. And the fact that their value has persisted is just a really nice thing. Next up, same as it ever was.
+Liberttos Freedom Fighters. Yes,
+significantly nerfed in this edition compared to previously. Doesn't matter.
+It's still a eight point mine layer with a shotgun. Or if you want to save the SWC, it's an eight point dude with a chain cult and camouflage and forward
+deployment. It is just a very solid defensive piece. Not so good on the offense if you take the light shotgun anymore. Fine, right? But it doesn't
+have the template fork. But in Yuching in particular, the Labbertos slots into a package of troopers that forms just a
+really nice defensive setup. Now, you can add any elite skirmishes or whatever. You could add a Zen, you could mine layer into this, but we're going to
+start with a Labbertos freedom fighter with a mine layer. And then to that,
+we're going to add two troops. And these are the new Goudan troopers.
+Specifically, we are interested in the camouflage for deployment. Generally speaking, the zapper, you can go either way. If you got the spare point, heavy flamethrower is fine. But for me
+personally, the zapper is the go-to because if there is some absolute monster coming towards your deployment zone, usually one of the like the most
+important thing to do, whether it's a bear or a tag or a Sujan with stealth or Norca, right? He's been recently nerfed,
+but nevertheless, any of those pieces,
+58 minutes
+you just want to stop the damn things cold so that you can deal with them later so that the damage doesn't materialize. And for that, Zapper is a really good choice. It's also cheaper.
+Cool. They're good enough for me. Two of these alongside a labberto and then literally any other camouflage markers.
+Gives you a really nice mix in the midfield of Mimatism Zero and Mimismus 3. And at that point, it's actually a little bit trickier to tell. Well, okay.
+Could this could be a labberto. This could be a good. This one's a bit further back, but so is this one. It is just a level of insulation that you're paying particularly for the labbertos and the two good cheerleader prices for,
+right? 12 points per trooper. That is barely any more than a regular line infantry. And what you get is a piece
+that could in a pinch save your game by dropping a zapper template on something that comes around a corner. Just generally speaking, take at least one,
+usually two. Put them in positions where they are picketing your deployment zone against the most dangerous attacks your opponent might make. Do not regret it. If they never do anything, no problem.
+They were 12 points in zones in certain missions that are just generating regular orders. And when the time comes, they can absolutely bail you out. Now,
+optionally, and just to move over a few pieces, you could choose to add to that mix a beast hunter. The the Yuching Beast Hunter is one of my favorites, but
+it is very expensive, so your mileage may vary. There are other pieces that we might reach to before that. And also the Longa and Guilang. Now Longya I feel are
+much diminished in this edition. There are so many good quality gunfighters that every experience I have had with Longa this edition so far has just been
+someone walking into the open against them and being like go ahead reveal what are you going to do your bliss skill 11.
+I'm a tickbang. And so kind of for that reason, I feel like Longya just don't seem to have the terror that they have anymore because there are so many pieces
+that are just like, yeah, no, if you reveal, I'll just kill you and move on with my life. I don't care that I'm not in cover. You're not dangerous. Your ballistics kill 11. And so the long I am
+taking much less, particularly given that the Grudan exists. But you can mix them in. You can weave them in. And I have seen okay results from longar that
+1 hour
+try and thread the needle between actually being an ambush piece which you must have marksmanship if you want to do that. But you can give them so give them
+1 hour, markmanship. Personally for my money I feel like the changes to heavy shotguns and generally to the changes to the game have left the yong longa behind a little
+1 hour, bit but they are still a piece that you can occasionally take. Also worth noting as part of the general camage camo package is you can take guang
+1 hour, skirmishes. They are just cheap enough that the Zena doesn't totally outclass them. And while there is no individual
+1 hour, profile that I particularly like, I will call out the mine layer, which has both a deployable repeater and shock mines as a relatively versatile piece. Expensive,
+1 hour, probably too expensive, but if you want a midfield repeater at the start of the game, there is no other way to get it in this faction. You pay through the nose for it, but sometimes that is a
+1 hour, capability that you are willing to pay through the nose for. Now, just to jump through a few more pieces before we get to an army list and close out the video,
+1 hour, I should mention Kongi. Now, I am trying to actually not use Kongi at all in like any of my vanilla Yuching lists. I don't
+think they're necessary. I think they are a nice addition where they can fire team and provide fire team bonus smoke grenades in Imperial Service, but they don't do that in. And what they do do,
+we very thankfully don't need anymore.
+What what we used to take Kangshi for is that all of the heavy infantry and everything was still really expensive even in N4 and so you needed really cheap orders and so you would take a
+celestial guard and then to abregate the cost of the celestial guard we would take multiple kungshi and then before you knew it half of your list would be spoken for you had no spot no no slots
+left such is not the case in N5 but there are still lists occasionally where hey you know what I actually want to
+take just really like multiple really elite heavy infantry I want like three 50 to 60 point heavy infantry. Stuff it.
+We're doing that. And if you decide to do that, Kangshi are where you might look to bulk out your order pool. They are not fantastic. They are random
+impetuous dudes without dogood or anything like that that run forward,
+1 hour, 2 minutes
+fire their pistols, fire their chain rifles, whatever. But six points for an order if you take two or three or even four of them. And the celestial guard
+does at least have the smoke grenade launcher for all that he is firing on 11s. Good luck with that. Generally speaking, you do not need these guys in
+most vanilla ching lists, but they are still an option if you want to build a particularly topheavy list with a bunch of really premium pieces. You have the
+option, it's no longer required, but you have the option to do that thanks to Kong. Next up on the far end of the I want many orders and don't want to pay
+many and willing to pay many points for it end of the spectrum is Sununzu. Now,
+this guy was basically not on the menu at all until the ISS rework. And I think it was then that finally a lieutenant plus one order profile arrived. Now he's
+still very expensive, but considering him on his own merits, there are some situations where he's kind of cool.
+Firstly, he is a strategent plus one order, which means by himself he adds three orders to a combat group and he has counter intelligence, which means on
+1 hour, 3 minutes
+the first turn, he is effectively producing for one trooper four orders.
+That's that's pretty cool. Now 53 points is is many points. That is a large number of points and many lists cannot
+easily accommodate that. In addition, I made a point of mentioning how we have access to really cool NCOs in this faction. And while you can technically
+make use of Sununu and NCOs's in the same list, right? Because strateg is an optional rule. You can always retain those lieutenant orders as lieutenant
+orders to allow the NCO to spend them if they're in different combat groups is is what you're doing there. Basically,
+you're getting that flexibility. It is not a combination I would hugely actively pursue. And so if you're taking Sunsu, you want to be taking pieces that
+maybe don't have NCO as much, but which do make use of the many, many, many orders that he helps you generate.
+Finally, and this is definitely worth noting, the man is tough as guts. He is so difficult to kill. He has two wounds
+and no wound inquacitation and immunity enhanced, which means that he just he just takes forever to bring down. And
+since he has a Vulcan shotgun and a pulsar and randomly a whip 17 flash pulse, there are just situations where it's like, you know what, it's turn three. It's time to break the decoys and run forward into like a panic room zone,
+right? There are panic room is a scenario that's coming up in a certain Australian tournament that's happening in a little bit. And if we want to just hard slam, just like windmill slam an
+almost unkillable piece into the panic room on like maybe turn two or turn three of the game, no problem. Is very
+possible. Like you have to you have to move him all the way there. He's 6'2. He's not slow, but he's not fast either.
+He moves 8 in per order like most other troops. But it is very possible that if you just end up windmill slamming him,
+say you're going first and it's turn three, you just slam him into the panic room. A lot of lists at that point in the game might just not be able to kill him. Like there just might not be enough
+gas in the tank left to push through effectively three wounds immunity enhanced armor for BTS6. And so while it
+is going to be rare, right, there are going to be situations in some scenarios where to quote a local and god help me
+for this one, this looks like a job for te. So everybody sit comfortably cuz all you need is immunity armor 4 and fighter
+3. Finally, just to mention, [ __ ] just to mention a couple of like light infantry, medium infantry pieces that
+are worth considering. We have the Imperial Agents from ISS, Xanying and Feeasant Rank. Now, of the two, the Xanyang is kind of preferred for me. Uh
+it is linkable in a duo. So, you can put it in any kind of a duo with things like a Moang, for example. You can even theoretically link it with a sujan that
+might be running up the field. Uh but the the piece just like in ISS, the only piece that we are interested in here is the hacker. We're interested in the hacker with zero pain. And the reason
+why we're interested with the hacker in zero pain is that it is BTS BS12 with a pitcher and six cents. And I was just
+mentioning earlier in the video about how the existence of the stealth sujan makes and like other pieces, right? Because stealth is readily available.
+Having a six sense hacker is just a really big deal. He's a little expensive. Like the fact that he is more expensive than a hidal for example, it does begin to tell. But if you want a
+six sense hacker, this is how to get it in the faction. And since you get a picture at the same time, just a good support element and well worth taking.
+Finally, worth noting is the Imperial Agent pheasant rank. Also doable. Now,
+there are kind of a variety of options that you might consider here. I don't hate the hackers. I don't hate the mind layer. It is still a specialist because chain of command is present on all of
+these guys and it is doable. So the pheasant rank I think is a bit more of a niche pick, but there might just be situations where you're like, you know
+what, I just in this matchup against this opponent with this trooper, I just want chain of command. And since you want chain of command, getting a duoable strategic deployment, boarding shotgun,
+emitter, mad trap, mine layer profile for 23 points, for example, not the worst deal in the world. Definitely one of the most niche picks in the faction,
+but just something to consider. Now,
+there are a few things that I haven't mentioned that I should just just to acknowledge the existence, for example,
+of the Hundon ambush unit. It's pretty cool. Major Luna, she's kind of cool.
+Ninjas, they're okay. Like, there are a bunch of things that we have not covered. But that I think wraps up enough of covering the faction because we are already an hour and 7 minutes
+into this video that I think you have a feel at this point for what is really cool about Euching and the fact that I
+covered literally 16 now with Sunsu. 16 heavy infantry as part of going through the army list. I think we can very
+safely say that yep you know what Kovus belly you have finally hit the design brief for this faction. Yuching is the heavy infantry faction and they are very
+good at being the heavy infantry faction. Now, to round the video out, we've got a sample UI list on screen.
+Now, this is a Yuching list that uses many of the pieces that I have talked about and also fits in a small remote package, mostly just because I wanted an
+excuse to use the Lucing. And while one of the nice things about the Lucing is actually that you don't necessarily need
+an EVO hacker for it to land because it lands on 14s just natively, and 17s is a nice number. And since you're taking an EVO hacker and there are some missions
+that like an EVO hacker, getting something of a remote package into further justify is just kind of nice to have. And so this is a mixed remote package/g good quality heavy infantry/
+other stuff. From the top we have a duo Mang NCO. Talked about its virtues. Yep.
+Cool. Duoed with a hideout KHD. One of my favorite duos in Yuching. There are many good ones, but this one is one of my favorites. We then have, and I have
+tragically been forced to downgrade my beloved Yanho HRMC into a Heate AP heavy machine gun. In this case, I just needed
+the points and it was necessary. So, the Hate is doing most of the heavy lifting in case we run into any kind of enemy
+heavy armor. We then have a pair of Shaolin monks. I would really like one of these to be a DACCW. Both of them are
+shock CCWs, which relegates their usefulness a little bit against certain targets or means they require more orders. Don't love that. Could not find a way to cut the points, but it is just
+something to bear in mind if you're tankering with the list. They can either be duoed or run separate. Either is fine. We then have the Lucing Hacker ready to go forth and deal terrible,
+terrible damage to our opponents. A Pangalong Evo hacker to provide both potentially assisted jump for the Lucing, but also um marksmanship for any
+of our combat remotes. We then have two Gudan and de Labbertos. Again, covered on why these things are good. They're part of our defensive package, but we are expanding the defensive package in
+this list a little bit in this list with a total reaction bot. So, in combat group two, we can see a Dockery just running solo. Again, I've mentioned I
+really like uh running him duoed with a Huarang. No points in this list. The Huarang got cut in order to fit the Lucing, but if you wound various things
+back, that's something that you could fit in. We then have the Dune Lieutenant plus one order. Arouchi MSV2. Can't afford a Cien Warrior in this list, but we can afford a Cien Warrior at home,
+particularly since we have access to supportware from the EVO hacker and a Husong Yaong thunderbolt plus one burst,
+total reaction bot, a mech engineer, and a Yao. So, decent little remote package,
+which also gives us a little bit of ability to unscrew our heavy infantry if they get bricked by enemy hacking. Good gunfighting, ample specialists, pretty
+serviceable hacking with four hackers in the list, a mix of regular hackers and killer hackers. just good, solid,
+well-rounded. I would be very comfortable running this in just about any scenario, just about any circumstance is a good place to start with if you're so inclined. There are
+other ways to go as well. The remote package in its entirety is actually very cutable. If you wanted to trim all of those pieces out of the list and start
+fitting in other things like a Zenta would be a wonderful addition to this list in order to help particularly a Zenta mine layer would help conceal the presence of the Lucing, for example.
+There are lots of different ways that you could take this and it's very easy to explore alterations to this list. So,
+that wraps up this video. Just as a reminder and quick plug, if you'd like to support the channel, you can do so via the buy me a coffee link in the video description for one-off donations.
+Also, if you subscribe via buy me a coffee, it just did a notify me button,
+I think somewhere, you will get an email every time I publish a video along with a quick description of what the video is about. So, if you're interested in that
+and would like to receive emails from me about the videos I publish, you can do so via buy me a coffee. Otherwise, of course, anyone who is a channel member on YouTube is very greatly appreciated.
+I take requests from both donors via buy me a coffee and channel solders on YouTube when considering what to make in terms of future videos. As always, of
+course, we'll be back next week with something in the vein of battle report,
+faction focus, number of other pieces of possible content. We'll be back next week with more Infinity videos. As always, I hope very much that you've
+enjoyed this and I'll see you next

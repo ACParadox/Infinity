@@ -1,0 +1,638 @@
+Hello and welcome to an Infinity the game battle report for the jurisdictional command of Bakunin. In this video, we'll be talking about who Bakunin is, how do they play, what are
+their strengths, weaknesses, and general faction identity before jumping into Infinity Army as usual to go through a lot of the profiles that showcase how
+that identity works in play. Now, before we begin, big thanks to a couple of channel supporters who have made requests for this as a video topic,
+including Isaac Tomat and Lindseay Stusy. very high likelihood that I've mispronounced one or both of those names, but thank you both for the
+requests for jurisdictional command of Bakunin as a faction focus. Just as a quick reminder, if you'd like to support the channel, you can do so via the buy me a coffee link in the video
+description below or by becoming a channel member on YouTube. Now, Bakunin are a faction that received a rework in
+kind of mid to late N4 that they benefited hugely from. To this day, you will still hear Bakunin style rework used
+kind of as a synonym for a really good rework of the faction that overhauls it in a significant way that ultimately
+produces a well-rounded and feature sectoral. And those bones have translated very well into the new addition. Like every faction though,
+there have been both the effect of rebalances of profiles. Some things maybe that didn't work super well in N4 have been bumped up a little bit. A few
+things that have been overperforming may have been toned down, but also they're a faction that's been heavily affected by the underlying mechanical changes to the
+game. Both in the broad sense of just kind of how the meta works at time of recording in late 2025, but also how
+things like fire teams and frenzy work in N5. Bikunan were a faction that have historically always traded very heavily
+on the points discount of Frenzy on models, making for some very efficient,
+in particular, heavy infantry. That's kind of less the case now, as Frenzy has been removed from one or two key pieces
+in the faction, but they are still a faction with a lot of access to frenzied discounted heavy infantry, but who now have to account for that frenzy rather
+than just ignoring it thanks to link team mechanics. And it's in that first thing that we kind of see what is the beginning of the identity for Bakunin in
+N5. And I would posit that that identity kind of apppropo of the faction is of
+lots of interesting internal tensions and contradictions which is very apppropo for Bakunin and their theme and
+how they're built as a society. And so in the spirit of that, rather than doing what I would usually do, which is list a bunch of strengths and then a bunch of
+limitations and try and tie that together, we are going to go through a bunch of important and powerful things that Bakunin has, but then for each of
+those talk about how there is kind of a mirroring contradiction that you have to manage if you are playing the faction.
+And so the first of those is that Bakunin is a faction with fantastic frenzy discounted troops, but you have to
+manage that frenzy and there are some interesting tools to do so up to and including taking flash pulse arrows in order to avoid triggering frenzy. But
+while it is still a very powerful attribute of a faction, it's no longer a free ride. We see it in link teams as well. The things that you can link and
+the fire teams that you can perform like can form in Bakunin are tremendously cool and they're supplemented by really solid unlin pieces as well. However,
+good lord in this faction are we gagging for more fire team slots. I don't think there is any faction in the entire game
+that wants to be able to put together three or even four like three or four person teams like Morat aggression force sort of can and which can't. Bikunan are strongly limited to one fire team core,
+one fire team hares. And without a lot of appealing duos, we really have to choose in our list constructions how we make the absolute most use that we can
+out of the sharply limited two three or more person fire teams. There are just loads of really compelling options in
+this space and you have to just pick two and that is difficult but you get to pick two usually incredible fire teams.
+This is also a faction that should just never ever struggle to hit 15 troops.
+There are tons of excellent pieces at the very cheap baseline from 9point regular order generating moderators to
+six point more. Bikunan can absolutely swim in cheap troops to hit that 15 order mark. However, there are also a
+lot of really compelling 20, 30, 40, and tag level price point things that you can't all fit in a list, especially with
+some of the more premier like medium infantry that you do kind of really want. Bakunin never quite feels like it
+runs away into invincible army territory even when the bones of the faction the very cheap and cheerful elements should
+on paper feel like they could let us escape into a like multiple very powerful hi situation are also a faction
+with what I would call overall good but not great gunfighting. There is a lot of mimatism 6 or at least mimatism 3 in this faction. You also have very easy,
+some of the cheapest access to white noise in the entire game. And if you really stretch for it, you can even do smoke shooting on a mimitism
+armor-piercing platform. But also, good lord, this is a faction that is mostly constrained to ballistic skill 12 and 13. And so that can mean that while
+Bikunin can be very hard to grapple with because they have particularly like mimisism six heavy infantry, mimatism six primary gunfighters, mimism three
+arro pieces and gunfighting pieces, when you are playing as Bakunin and go to take a swing, you will regularly find that what you're rolling for are most of the
+time 13s before any visibility mods on your opponent's part. And so you have an army that gunfights well, but sometimes
+takes like one more order than you would like compared to something like a Panosian player. A Panosian player running things like Hetkari, Apex gunfighter can expect to win face to
+face roles in one go. Bacon can expect to win gunfights, but maybe take one more order to do it. Up next, as a nomad faction, Bakunin are a hacking faction.
+They are a good hacking faction, but there's internal tension and contradiction here as well. Bakunin has probably the best network projection in
+the entire game. If not in terms of actual high watermark pieces, then at least in terms of just a glut of
+topnotch options. I I genuinely don't think there's any faction in the game that has as many different choices for
+getting a hacking network forward than Bakunin does. And most of them are good or at least viable options. But in terms of the hackers that Bakunin has access to,
+they're good. But there's nothing that's quite matching the efficiency, for example, of a Tonguska interventor. And in particular, what you will find is
+that the killer hacking presence in Bikonan absolutely present. There are multiple killer hackers that you can choose from, but none of them are really
+Apex Predator pieces. Probably the best is going to be the custodia, and she is going to be significantly outperformed
+by any of the real Apex killer hackers in the game. and especially outperformed by something like an interventor KHD.
+She can do the job, but she's willpower 14 with no special modifiers and not particularly high BTS. She's just good
+enough, particularly when stacked with a firewall bonus, which places Bakunin very much as kind of an upper middle power in terms of the hacking game. They
+can punch down very well. If they want to establish that network, they're very,
+very good at that. Then capitalizing on that, they have to hope that they're not playing into and opposing apex predator
+that can neutralize their hackers or especially fight off their killer hackers. Bikunan are also a faction
+where you will just find yourself accidentally having close combat like good close combat on multiple models in
+every single list. I am pretty sure it is just about impossible to build a bun and list that doesn't have multiple
+things that can really slap in close combat. But it's all that kind of like punchdown close combat. We're talking
+things that are sitting about 22cc martial arts one or two. There are very few martial arts 3 and nothing higher.
+And only a very small number of pieces that want to go into a fight with an enemy apex close combatant. The uber fall commando does exist and she is your
+best piece for that. But even she fights those kind of close combats in an unfair way. Trading out pupnicks for a kill on
+an enemy CC expert rather than trying to fight that enemy CC expert herself in N5. In N4 she could absolutely do that
+in N5. She's still very good in close combat but much more fair. And so what we end up with when we sort of look back on all of those combined strengths and
+limitations in Bakunin is a faction where the breadth is significant. Not for no reason is the Bakunin style rework talking
+about getting a sectoral that is feature complete and broad and has lots of things going on. But in N5 it is also a
+faction where every list forces interesting and necessary compromises.
+You never have that situation where you absolutely get absolutely get to have your cake and eat it too across like multiple axes of the game. You're always
+making small but necessary compromises that nevertheless produce lists that are very very solid. I would say that kind
+of on their release at the apex of their power back in N4, there was a pretty good argument that Bakunin were kind of like almost a borderline S tier faction.
+At the moment in N5, I would say they aren't that, but they are an extremely firm, solid A tier faction. There is
+almost nothing that you can't do with Bunin if you really set your mind to it.
+They have access to every kind of troop that you might want in the game. They can play at a variety of different ranges and different styles, but there
+is never a Bakunin list that you will build that you can't look at and go,
+"Man, with like 50 points and one more fire team, I would be broken as hell."
+Overall that means well firstly that they are a balanced success despite being very powerful and very interesting but it they are very powerful and very
+interesting. They're a compelling faction. They're feature complete. You can easily play them as a standalone faction without necessarily having to
+expand into nomads or they can act as a springboard into the broader nomad faction if you're so inclined. And with that firm recommendation in hand, let's
+jump into Infinity Army and go through just a lot of different profiles because there is a lot to talk about. Now, we're
+going to start as usual with our fire teams and as usual with our Lion infantry fire team. But before we dive into moderators, we really do need to
+talk about how fire teams work in Bakunin and how Bakunin fire teams are excellent,
+but also one of the limitations the faction has to handle. Thanks to how fire team bonuses work in N5, smaller
+fire teams that still get at least that minimum level of bonus from having two of the same troop types have emerged as a very appealing configuration.
+Sometimes scaling up when it's worthwhile, but that like three person fire team or twoerson fire team that gets full bonuses are amongst the most
+popular configurations at least that I've observed in this edition. And one of the benefits and limitations to Bacon
+is that they have a lot of different configurations, especially at that three troopers, two of whom are configuring to
+give you fire team bonuses level, but they don't have firstly many really appealing duos, and they also only have
+one fire team core and one fire team Harice. On top of that, there are some particularly interesting options that
+are configured only to work in a fire team Harice. No option to do the like hares or duo. You are locked into the
+hares slot in particular. And that means that Bakunin has to be very judicious when they're figuring out how to set up their
+fire teams in any given list construction. And that has an effect on moderators because moderators are in
+theory fantastic list foder. Two of them for 18 points gives you two regular orders, two dudes with combi rifles,
+only ballistic skill 10 obviously, but also two dudes who are linkable and who could form the basis of a fairly cheap fire team, perhaps with an attached gun
+of some description. And that's absolutely the case. But when we get to one of the lists that we or the list that we will showcase at the end of this video, we will notice an absence of
+moderator fire teams, even though that's very appealing. And that's ultimately going to come down to the fact that you just have to make choices. And sometimes
+there's going to be things that will be higher impact that will zone a moderator out of being a link team option. Now,
+they're still excellent to have access to, but as we talk through the moderators themselves and all of the things that can join them, and it is such a long list of things that you can
+join them, keep in mind that we will also be weighing all of those fire team configurations against other equally competitive things that form from the
+basis of Riot Girl, Reverend and Observant, and even Morlock or Taskmaster fire teams that might edge these guys out of being in your list as
+a fire team setup. Nevertheless, there are a bunch of useful options in moderators for Bakundan themselves. The most common really are going to be the
+lump, the lieutenant with combi rifle because it is a very cheap willpower 13 lieutenant and therefore the 9-point regular combi moderator because it is an
+extremely cheap regular order who is a lieutenant decoy. Things to note about the moderator's attributes is that they're very low ballistic skill and
+they're very low armor, but BTS3 has some merits on some profiles and they're surprisingly difficult to kill in close
+combat. CC-18 and a Paris CCCW will occasionally come up and on those occasions it will be when some close
+combat expert runs mistakenly into CC with a moderator at which point they are informed sir this is a Wendy's put in a headlock and left in the par state while help arrives from somewhere else. Now,
+moderators aren't true close combat experts, but they are just good enough at CC, particularly with that paraccw,
+that on those opponents when your opponent does get into close combat with them, they're left wondering, ah, do I really keep spending orders here? Now,
+there are some gunfighting profiles, but we probably don't want to take many or any of them. Like, don't take that Spitfire, for example. As cheap as it is, it's ballistic skill 10. You
+probably also want to avoid the pitcher for the same reason. But if we are actually running a moderator fire team,
+you could consider it. 10 points is very cheap for a linkable pitcher. Finally,
+the paramedic is a cheap specialist and the hacker is also a cheap specialist.
+14 points puts it at about as cheap as you can reasonably pay for a hacker in this game. And this is where we see the attributes that moderators have really
+does nothing bad for the hacker. In practice, that hacker is a 14point whip 13 BTS3 hacker. And those are the only attributes you really care about for a
+model like that. very cheap, very efficient hacker could very easily just slap one of those in a list for a little bit more network capitalization in a
+list that's making lots of use of Mucunan's various network projection options. Now, if we're running moderators as a fire team, what we're
+going to be looking for are two models at least that count as moderators. And much of the time that will just be the moderators themselves, but also spare a thought towards Bakunin clock makers.
+These guys are linkable and most importantly, in addition to being one of the best engineers in the game, they count as moderators for fire team composition bonuses, which means you can
+very easily have a fire team that consists of one moderator of any sort.
+Could be a 9-point generic, could be a hacker, one clock maker with whatever it is that you would like, but usually you'll pick the cheapest profile because armed turrets are a little bit naff
+right now. And then wild card in one of the two combat remotes that can join that team. The Vostto is obviously the better gunfighter. We extolled its
+virtues in the Tunguska video, but just to recap, it has a reasonably large gun.
+It costs no S SWC. It's 35 points, and it has numericism minus 6. And since it's a remote presence tag, putting it
+in a fire team with an engineer is really good. And that's something that Bakunin can do that Tonguska can't.
+Tunguska might be taking an engineer for other reasons, but in Bakunin, we can just staple the engineer directly to the combat remote. And because they're in
+the same fire team, the Vostto can run out of repair reach of the clock maker,
+but you just have a great linked combat remote and one of the best engineers in the game. The other option in addition to the Vostto, just the same as in
+Tongaskka, is the Cyclone Sputnik. That cyclone being single wound is a little bit of a downside, but since it's remote presence and we will have an engineer right there in the fire team with it,
+that's not really the end of the world.
+And being a one SWC gun in particular in a faction that has lots of ways to spend its SWC is kind of nice. Now, I'm not
+reaching for the Cyclone as much in Bakunin as I am in say Tonguska because many of those other ways to spend SWC
+are really quite good gunfighters. And one thing I really don't need in Bakunin is even more fantastic ways to fire
+17 minutes
+pitches out into the midfield. But particularly in an infowar dominance list, nothing wrong with a cyclone at all. And it's really not that expensive
+at 28 points. You get what is ultimately a very well-rounded fire team by taking a moderator hacker, a clockmaker
+engineer, and a cyclone sputnick that's not particularly expensive. It has multiple different ways to be useful.
+And it self-reonstites, making it one of those ideal kind of like combat group two fire teams and the kind of fire teams that I would put in lots of lists
+if not for the fact that oh god, please just give me one more Harris team in Bakunin. Now, there are a few other things that we just should just mention as being able to join moderator fire teams.
+One is Wolf Gang Wolf, who is notable because he counts as a moderator, which means that you could theoretically do some interesting things that maybe even
+involve just having Wolf and one moderator, like make a team of three and then have Wolf and one moderator run into the midfield. Again, would be very
+appealing if there were more fire team choices, like in terms of number of fire teams that you could take. But ultimately, I do think in Bikunan, Wolf is edged out a little bit by more
+competitive options, rendering him a little bit of a vanity pick. There will always be people for whom he's just their boy, but he's definitely in that,
+oh, hear me out, vanity pick category of units. Casino security rounders can also join fire teams in Bakunin if you have a
+couple of moderators or moderator equivalents to join them. And while a marksmanship MSV1 linked multi marksman rifle or Red Fury is a little bit
+appealing, ultimately we are still kind of talking about a unit that needs to occupy a fire team slot in a faction for which those fire team slots are very
+congested. But one option that we might consider just joining a fire team of a couple perhaps of very cheap moderators,
+maybe just your lieutenant and their decoy, you might consider the more expensive 25point orphan of the observants. Now, orphans are a unit that
+we'll actually have to come back to a couple of different times because they can join many different fire teams. But in a fire team core with a couple of moderators, we should give at least a
+19 minutes
+little bit of thought to the multi marksman. This profile is the only MSV2 in the entire faction. And while
+ballistic skill 12 is not fantastic, 25 points is a very reasonable price point, particularly given that it's mimatism 3.
+This is the kind of piece that you can just dedicate a Morlock or perhaps a Zelen creger to throwing smoke and stacking a minus 9 modifier onto things
+like enemy total reaction bots firing back at you. Now, ultimately, this is not a piece that I, for example, will reach for in the list we're showing off
+at the end of this video, but in some Bakunin list, this is something that you could consider if you were particularly interested in smoke shooting. Now, given
+how much neatism 6 and white noise we have access to in Bikunan, I'm not quite as hard on shooting through smoke as I
+am in some other factions. But if you want to do that, well, we have it on a neatism 3 model and that model is linkable if ballistic skill 12. Now,
+from the moderator fire team, trying to move at a good clip here because there are a lot of units to go through because this is a very broad faction. We get to what used to be the oldest and biggest
+staple of Bakunin and who now take slightly of a backseat, the riot girls.
+Now, riot girls can form core Harice and duo fire teams and are probably the only
+fire team duo outside of the occasional tag fire team that we can actually really make good use of in this faction.
+And that just immediately puts them in something of a niche just because of how rare it is to find a good third fire team or fourth fire team in some cases,
+but a good extra fire team in this faction that is struggling so mightily under the restriction of just one Harice and just one core. You can do actually a
+very good fire team core out of the riot girls. I would say core because then that frees up the hares slot. There's one very appealing model in particular
+that was really nice to link with riot girls but who doesn't contribute to link bonuses but the riot girls themselves look they're just solid on their merits.
+This is probably the regiment that most felt the frenzy rule changes in N5 both positive and negative. Frenzy now
+obviously when it triggers gives you impetuous and limited cover rather than no cover which is much better like to have limited rather than no cover. But on the other hand you no longer get to
+suppress frenzy while you're in a fire team. And that was the bread and butter of Riot Girls. What that means is that we have to be kind of a bit more judicious with how we use pieces like this. But despite that rules change,
+these are all still quite appealing profiles. Riot Girls have 62 movement,
+which is fantastic. They dodge very well. They have ballistic skill 13 and an MSV1, which is good enough as far as gunfighting goes. And they have the
+really nice blist skill attack SR minus one, which means all of these weapons down to the humble boarding pistols that they are all carrying, meaning they all
+have template attacks have just that bit of extra damage to capitalize on any successful gunfights. Now, there's basically no faction, no profile here
+rather, that I couldn't see myself using in some list. The niche of the specialist operative is that you can duo it and have link bonuses, although there
+22 minutes
+are some other things that we might choose to do that with instead, but an emitter is a really good weapon. The Spitfire and missile launcher are both viable weapons in different cases.
+Spitfire is probably my preferred go-to because it is damage five. And the missile launcher sometimes you do just really want an MSV arrow piece, but
+because once she does a point of damage to something at the end of the round,
+she'll trigger frenzy. She's a bit more single use than I would necessarily like. She's kind of easy to deal with after she triggers frenzy, but she is
+easily the most robust MSV ARO piece we have access to in the faction, so worth considering for that reason. The multi-
+rifle and disco baller has a multi rifle and disco ball and the boarding shotgun with tinbot is an excellent choice if we are running a threeperson team with uhu.
+Now the big problem with uhu is that she doesn't count as a riot girl and there are a couple of other things that do
+that open up duo options. If you want to link Uhahu to a point where she and the other members in the fire team get special die bonuses, you have to be at
+least a threeperson team, which means we're back to impinging on that rough limit that Bakunin has on how many teams they can field. That's the only
+downside. Everything else about her is just ridiculously efficient. Mostly because she just isn't paying for a gun
+outside of the assault pistol. Uhu is a no wound incapacitation hacking device plus shock immune willpower 14 BTS3
+hacker with a pitcher and dechargers for half an SWC and 19 points. That's just obscenely cheap for that package. She's
+one of the best value hackers in the entire game. It's not close and you should take her in lists even if you aren't linking her. It's just that
+linking her is really nice cuz then you get a linked picture. Now, Ballistic Skill 11 is not the end of the world.
+She can take shots if she needs to. Even if you're just not using the picture with her and just being like, "Yeah, I paid 19 points for an incredible hacker." Oh, what's like other factions?
+They pay 13 points, 14 points for very efficient hacking in the form of things like a celestial guard. I'll pay five
+more and get so many upgrades. She's really, really, really good. She's especially good because white noise combines really nicely with dimmitism 6,
+meaning that you just always get to slap negative modifiers on your opponent. And god help your opponent if they're a marksmanship trooper because then you get the best of all worlds. But she's
+also notable for being linkable with the riot girls. It's just that if you want to get the full benefit from there, you have to start doing things like taking a
+third member. Now, that could very easily be a riot girl Spitfire, a riot girl tinbot minus 6 and uh that is a hell of a fire team. There are also a
+couple of other options as well, and these come in the form of our surprisingly elite specialists, Avisa and Fiddler. Now, I'll keep Avisiana on
+screen. Fiddler, you should know who she is. She's in a bunch of different factions. Avisa and Fiddler both count as riot girls in a riot girls fire team.
+Both of these troops are fast enough to easily keep up with riot girls as they're moving across the field. In fact, Fiddler is faster. And both of
+them are high value specialists. Fiddler is an engineer with Dcharges. Avisena is an excellent doctor and so a fire team
+that is definitely worth considering in a lot of Bakunin lists is just for example something like a riot gospire and a one
+of the rare examples of a non-tag fire team duo that you can actually run in this faction and while Bakunin is
+absolutely not struggling at all for cool independent models this is kind of an addition of fire team duo and this is one of the few good fire team duos that
+you can run in Bakunin Now, it is obviously a little bit pricey because Avisiana is not cheap and riot girls,
+although they're good value, aren't necessarily cheap either, but it's a burst five gun. It's a very high willpower specialist. It's good force reconstitution. And Avisiana herself is
+actually surprisingly durable under certain circumstances because she has no wound capacitation and immunity armor.
+And if she's caught in a facetof face role, she'll often be responding with a willpower 15 flash pulse. Now from the moderator and riot girl fire teams, we
+are back in core and hares territory only with the reverend and observance fire teams. Now these look like they're
+very similar and there's a fair bit of overlap, but there are actually a few pieces that are limited to just one or the other that significantly affects how
+each of these is configured in the reverends fire team. Starting with some models that are unique to that. We'll begin with Reverend Moira. Now,
+Infinity, just as a game, at least for as long as I have been playing, which is three editions now, is a game where medium infantry aren't very good.
+Reverend Moiraas buck that trend. They don't buck it by a ton, but they're just good enough that one, sometimes two in a list has some value. They are expensive.
+They are as expensive as many multi-wound models, and they have just one wound. But noting that limitation,
+what you do get is a fair amount for the cost. Now, ballistic skill 12 isn't fantastic, but mimatism minus 6 goes an awfully long way in turning,
+particularly the higher burst Moira into very serviceable gunfighters, particularly at the head of fire teams.
+And thanks to how many really cool things can join a reverend fire team,
+it's actually not going to be terribly uncommon if you have a Moira as a gunfighter to get up to ballistics till 13 from the four person fire team bonus.
+Mimatism 6 as noted is excellent. Six sense is really quite good as well. And NCO is an especially nice skill. Now you
+can there's like one or two choices for active lieutenants in Bakunin, but moderator lieutenants remain very appealing and given that a lot of the
+active lieutenants want to join a fire team anyway, having just one NCO is really valuable. It's effectively a free order in Bakunin. And so I kind of rate
+Reverend Moira just for that. I prefer to take the gunfighting profiles, heavy machine gun and or multi sniper. I think if you're paying that much for this kind
+of a profile with nummitism 6, you may as well be using them to gunfight. But you will occasionally see particularly the discounted specialist operative
+lieutenant profile in lists to fill out links sometimes as well. For me though,
+it's the big guns here that see the most use. But don't forget that all of these have zappers, and a zapper is a short-range EM template weapon, which can be really, really valuable.
+Ultimately, this is a unit I have to be very careful not to oversell because they're single wound, but subject to that limitation, they have some good
+applications. Next up, in terms of troops that are limited to the Reverends fire team, we have the Reverend healer.
+She's an expensive doctor, but she's mimatism 6 and she has an emitter. It's usually that 29 point profile that
+you'll be taking. I would not really be aiming for the multi rifle, although it wouldn't be the worst thing in the world. What we're really looking to do here is have a ballistic skill 12 linked
+Mim 6 emitter who is also a doctor at that point. Actually, this isn't a terrible package. We add her in with a fire team core consisting of other
+models. She'll often be getting up to bless skill 13 and three dice with that E meta while you have neg
+tags in an uncomfortable spot. That's just kind of good to have. On top of that, since she's going to be linked with models that are mostly shock
+immune, having access to a good doctor is nice. And she's a plus one burst mediate, meaning she's going to be going up to three dice if she's linked in a
+faction that has tons of things like Morlocks, who are kind of easy to recover with a mediit downrange. So,
+just a fairly useful piece, but with a very significant price tag. Even the cheapest one is 29 points. And it's
+pieces like Moiraas and Reverent Healers where we see how the strain on Bun and points can emerge even when we have such
+good cheap models like moderators and Morlocks. Now the final trooper that is unique to the Reverends fire team and can't join an observance fire team are
+reverend custodiers and these are probably the best hackers in faction.
+Now, that is absolutely not to say that these are bad hackers. But what we do have here just a little bit is the curse
+of the multi-roll model. If we compare these to interventors from Tunguska,
+there is just a huge delta in how much they cost versus how good they are at hacking. Interventors are vastly more efficient. But of course, they are. They
+aren't paying for anything other than hacking ability. The reverend custodians by comparison well they have ballistic skill 12 pitchers and armor 3 and
+ballistic skill 12 and shock immunity and mimis minus 6. Now that mimick sometimes if it's a hacker is just never
+going to come up. Very occasionally however it will. Ultimately, when we're thinking about Reverend Custodius, what we want to do is just put the cross
+faction comparison aside because it's not actually particularly meaningful here and think about how do they fit into the broader context of the faction.
+And ultimately, especially the killer hacker, but also to an extent the lieutenant, the hacking device plus or
+any of the hacking device profiles do possess that wonderful combination of linkability, decent ballistic skill, a pitcher, and a hacker all in one piece.
+Certainly, I would take these over Drews, for example, if we're going to do cross faction comparisons the other way.
+And Drews hackers aren't even considered particularly bad given what it is that they do. The main thing to be aware of is that we're going to be pretty limited
+in this faction in terms of especially how many good killer hackers we have access to. While there are ample profiles in total that have access to hacking devices and killer hackers,
+there's really nothing that's high watermark or apex predator. Pretty much as good as it's going to get is the Reverend Custodia. Willpower 14 BTS3
+firing through a pitcher that she's fired off herself is as good as killer hacking gets in Bakunin. And while it's absolutely not bad, it's not high
+watermark in the game. But if we want to win a hacking jewel, we kind of need that capability in there. And so I do, if you can find the fire team slot,
+sometimes even if you can't, strongly recommend at least the KHD. However, it would also be absolutely possible to build bacon lists that get all of their
+network projection elsewhere and then just do things like roll up with zero KHDs under a market state, hoping that willpower 13, BTS0, and surprise is
+enough to do it. Now, continuing the list of models that can be in a reverence fire team, but which can also join an observance fire team. Reverend
+cenites. Now, these things, they're they're really really good. If you have a longtime Bakunin opponent, particularly
+one who's been playing since the N4 rework, you will have to have developed tools to deal with these things, whether they be play or mechanical, cuz it's
+just rare to see a bun and list that doesn't at least try and use these things. They are as balanced as they have ever been in N5 because frenzy does finally matter. But the total package,
+especially on the cheapest chain rifle and flash pulse profile, is just hot damn. So, what have we got here? 62 movement. Outstanding, particularly on a
+close combat model. And this is a close combat model because it is CC-22 with martial arts 3 and a decent DAC CCW actually making this one of the better
+close combatants in the faction and certainly good enough to go into and win faceto-face roles against any non-expert close combat model. We've also got a
+plus one burst chain pipe rifle and a plus one burst heavy pistol, meaning that this thing can close assault at ballistic skill range like that 8 in
+range very comfortably. And it's a multi-wound heavy infantry trooper with mibotism six for 20 points. That is just
+an insane deal. And what is nominally balancing it is frenzy. In previous edition, frenzy basically didn't exist
+on these things. Now it does, but and we see something quite interesting here.
+It's got a flash pulse, which means that if you need to, you can always just arrow with the flash pulse knowing that you therefore won't inflict any damage
+and therefore can't trigger frenzy. you might actually not mind too much because the cenbite is the kind of piece where if it does trigger frenzy, it's probably going to result in the center bite running forward and killing something.
+So even that's not too bad. Now we do still see the heavy rocket launcher used as an ARO piece because the center bite
+counts as a reverend. It's quite easy to get it into a four or even five person fire team at which point it's one dice plus one special dice in ARO ballistic
+skill 13 matism six. The only downside is yes, you're going to proc frenzy doing that at some point, but it was only 26 points. It still only got
+limited cover, which is not the end of the world. It still has limit minus 6.
+You can absolutely still use these things as HRLs. They are AVA3. You will not always take a full three of them in a list because as cheap as they are,
+there are still demands on your points cost, but you really could do worse than just taking these guys and slapping them into a list and running them almost as kind of solo war bands in some capacity.
+just incredible value. One of the greatest tragedies of Bakunin, or perhaps I should say one of the things that keeps the faction remotely balanced, is
+the fact that Reverends Fire teams can only form hares and core teams. They can't form duos, which is why we don't
+have teams of one cenomite and one something else tearing across the table being absolute menaces. Now, other pieces that share the observance and
+reverend fire team are mother healer Agatha Wabara. She was incredible in N4.
+She is merely quite good in N5 compared to a reverend healer. She doesn't have an emitter. She's a little more expensive, but she is faster. She is
+better in close combat. She has actual martial arts. And she has the doctor two wound skill. That's the main reason you would take her. Like, yes, she's better
+in close combat. She can slap someone if she really needs to, but she's single wound. I'm not rearing to run her into CC with something, particularly if a template weapon where she comes into her own. If she if she is around anything,
+it is a two- wound model that is likely to go down because Dr. Two Wounds in that case has an awful lot of value.
+Ultimately though, something of a niche piece, even if she plays quite nicely in either of the two fire teams, she can
+join just because look, 31 points for an armor 3 BTS 6, yes, but single wound model has to really justify itself.
+She's a little bit more of a vanity pick as good as she was in prior editions.
+You can absolutely make her work. She will be backbreaking on that turn that she brings a cenite back on full health,
+but she's not guaranteed to have that happen and she is more than 10% of your entire army. Finally, Cassandra Kusanagi
+sharing both reverend and observance fire teams editors. Although she counts as a reverend, she doesn't count as an observance model, but you might
+genuinely actually consider just not running her in a fire team. That's actually an option as good as she is in either fire team because Kusanagi is one
+of those pieces that we really can call a fire team in a can. She is all in one profile for actually a very reasonable
+points package. Durable thanks to no wound incapacitation and shock immunity with decent armor and decent DTS. She's basically as durable as many heavy
+infantry and a fantastic gunfighter because she's one I think she's one of only two ballistic skill 14 models in the entire faction and the other one is
+37 minutes
+a tag and that ballistic skill really matters because she's packing either a burst for multi rifle or more commonly
+an AP Spitfire and she has mimatism 6 ballistic skill 14 burst 4 mim 6 is just apex gunfighting territory that's really
+really good and you can if you want to get her up to burst five or 4 plus one.
+And on top of all of that, she's a specialist operative, which means that she's just doing everything that you might feasibly need done by herself. The
+only thing she doesn't have is the ability to throw smoke, and there's plenty of things in this faction that can do that for her. Now, she is only
+44, so she's not incredibly zippy, which does hold her back from just being taken as a solo pace. The advantage of having
+her in a fire team is just the order efficiency of the fire team itself,
+right? moving forward, making multiple models that might have multiple things to do. If you have a custodia that wants to move and fire a pitcher, then as part
+of that, you also get movement on Kusanagi, and that's the kind of thing that gets her into range to leverage that Spitfire, for example. As much as she doesn't need to be in a gunfighting
+team to succeed, she benefits from that order efficiency. But just overall, 35 points for what you get in this package,
+you can very reasonably salivate at. And while she doesn't appear directly in the the list that we'll show off at the end
+of this video, there is a very easy switch that you could make to include her, which we'll talk about when we get to the fire the link team at the end of
+list at the end of the video. Now, from the reverend fire team into the observance fire team, or perhaps we should more accurately call it the
+penitant observant fire team. As mentioned, this fire team can include Mother Agassa and a Kusanagi. It can even include a Moira if you want. It can
+include cenabites. It is limited to heres only and it has a couple of things that are unique. One of them is the observer, the orphan which we mentioned
+previously, but the other the real thing is the penitent observant. And just what a glow up these things got between
+additions. I do not remember their N4 profile, but I remember it being on the cusp of glory. In N5, it's glorious.
+Now, if we compare it directly to Kusanagi, in some respects, even the most attractive profile, which is that bottom profile there, is worse. It's got
+one less ballistic skill. It has imitism 3 rather than mimatism 6. It is two more points. And it's a heavy infantry. Even
+though it has ECM hacker, which is fantastic, it can be hacked and Kusanagi can't. However,
+it has ballistic skill attack continuous damage on an AP Spitfire and its AP heavy pistol. In addition, it's a
+warhorse and it is the only warhorse in the entire faction. And it's a proper heavy infantry armory BTS3 and two wounds, which means if you have a doctor
+around, and there are some good doctors in this faction, you might be able to reconstitute it when you couldn't reconstitute Kushanagi. And really, it is the ballistic skill attack,
+continuous damage, AP Spitfire that is terrifying about this thing. That's a weapon that threatens to one round anything that it fights. And burst 4
+ballistic skill 13 matism with the ability to link is just good enough to land enough shots in any given gunfight.
+That that threat's pretty real shot on shot on shot. These are just really cool. I don't think they are unfair. 37
+points for the AP Spitfire is ultimately it's a very appealing, but it's a reasonable cost, but there is like no
+list in the entire game that sees one of these things across the table and is able to discount it. It is a threat to everything. It is very dangerous. It is
+very cool. It will still occasionally just make that ballistic skill 13 gunfighting roll where you roll a one, a two, a three, an 18, and a 20. That's a
+thing that happens, but it is at least less susceptible that it is like rocket launcher is trying to do the same thing and I have a lot of time for it. In fact, it's the penitent observant that
+is a significant part of why the hares slot in bacon is so congested cuz if you want to link these, you have to use the hares team because they can't be in a duo and they can't be in a core. Now,
+we've talked about most of the things that can link with a penitant but just to mention the observants again. Orphans of the observants can be part of a
+penitant fire team and they count as observance models which the penitant also does which means you can have a penitant and an orphan and then any
+third trooper and that 13point orphan is a very cheap way to get the fire team bonus for your cenabite. If the penitant
+could duo we would see any of the specialist profiles slapped onto it all the time which is probably why we can't
+see the penitant duo. Now 40 something minutes in and we're still talking about fire teams. We are getting to one of the
+last fire teams that is nevertheless appealing in Bakunin and that is the taskmasters fire team. Now this team has some limitations. The main one being
+that there is no real way to get a specialist into it. But what we have in the form of task masters are
+surprisingly compelling heavy infantry with the fire team master skill. And it's that fire team master that means that even though theoretically we can
+form a duo here, this guy really wants to be a heres team if he can. And the fire team that you will usually be
+taking there is a taskmaster and two more turning both of those six point more into regular troopers and giving
+the entire fire team plus one special die because you have two more in the team. That is really compelling. Even at the most expensive, that's probably only
+setting you back about 52 points for three models, which is well below the average that you want to be spending per trooper. That will give you some free
+points still to play around if you think about 20 points being the average cost for a trooper in a game of Infinity. And what you get for that is a fairly
+durable linked heavy infantry that is a mine layer and good at close combat. And all of the benefit that you get from
+those Morlock groups, which can be burst five assault pistols. I mean, we'll get to the Morlocks. are a fantastic war band. If you are anything like me, fire
+team master is just one of the most like compelling skills in N5. It makes me steeple my fingers and go m excellent because there's just this like sense of
+getting free value from turning cheap fantastic irregular warb bands into cheap fantastic linked regular war
+bands. Particularly given that at any point you need to, you can still impetuous those models forward and go on a regular warb band attack run and they'll be regular for that order if
+that's relevant as well. Even if in this case, yes, the actual price point is paying almost 40 points to enter, taking
+the fire team master in the form of the taskmaster. Now, prior to relative to the previous edition, a couple of things are kind of worth noting here. And the biggest one is that although the
+taskmaster ultimately is still a ballistic skill 13, armor 5, BTS6, heavy infantry with no special modifiers, mine layer is still a fantastic skill,
+especially on the crazy koala. And the taskmaster is actually just fine in close combat. Now, CC-22, stealth, and martial arts 1 isn't something that you
+want to spend in sending to anything resembling an elite enemy close combatant, but if you find yourself needing to smoke out and tie down an
+44 minutes
+enemy tag, the Taskmaster is totally fine for that. It's also good enough as a gun platform. I do pretty strongly
+recommend not taking the heavy rocket launcher profile here. I know, I know it is the cheapest. I too hear the siren
+song of the 34 point big gun, but burst two plus one special die is just it's just not enough. It's not enough to
+consistently win faceto face rolls. You need on a model that is only blist 13 with no modifiers, even a model that is bliss 13 with some modifiers, just you
+need slightly more burst than just 2 plus one or three. This isn't even the last time I'm going to mention that in this video and we won't go on a screed
+about goods cuz I covered them in the Tonguska video. But just save yourself the pain here and take any of the burst four weapons. Frankly, any of them are
+viable. Although I would make the pretty strong case that the strategic deployment model, like five points for strategic deployment, that skill is just way too expensive. Even with more locks, yes, conceptually cool,
+there's too much you can do with five points to make that worthwhile. But the Red Fury is a 1SWC gun and the crazy koala it gets along with the tinbot. All
+of those are useful things. And the HMG is of course the HMG. You might even fiddle around with taking a lieutenant perhaps with one moderator as a decoy.
+Your opponent is pretty likely to think the moderator is your LT and might expend resources going after it, leaving the taskmaster itself alive. That's a thing you could do in some scenarios,
+although you need to get use out of the taskmaster. So there's no chain of command in this faction. Play that one with care. Still a taskmaster and two
+Morlocks is pretty fantastic value and a major contributor to why the Harry slot and core slot are so congested in Bakunin. Now, since we're talking about
+them, the Morlock group, easily one of the OG war bands and still one of the best warb bands in the game. Point for point, the only thing I think that
+realistically competes with them is a Shaolin monk. Shaolin monks are better in close combat and have stealth, which is a really big deal on a model that
+wants to get into CC. The Morlock group by comparison is a bit worse in close combat. The CC23 and martial arts level
+two is just fine. That will absolutely let you go after enemy non-experts. The Shaolin by comparison can actually take the fight to things that are
+surprisingly dangerous. But what you get with the Morlock instead is two things.
+The first is meta chemistry, which you there's no roll, so you're stuck with whatever you roll. But if you have two or three Morlocks in a list, one of them
+is going to high roll something that's fantastic. And there are some really good results in the meta chemistry table these days. More consistent and probably more important are the two profiles
+we're most likely to take here. The first is and the most common is the assault pistol profile. Now it only has an APCCW. This makes it worse in CC, but
+I cannot overstate the value of just randomly slapping a burst 4 weapon onto your six point ballistic skill 11 warb
+band. Many many have been the games where I have impetuous a morlock forward and it's fired at something 14 in away
+with burst 4 like a flash pulse remote and just gotten the kill in the impetuous activation at that kind of a distance. Assault pistols are just good
+weapons and moologs are ballistic skill 11 which means they can actually make use of them. your odds of winning a gunfight or scoring a crit with a such a
+cheap model even at mediocre ranges like the cost benefit is like oh well I might lose the mlock or hear me out what if I
+was to dual wound to something important and significant and then carry on. It also gives you a really good fork with the chain rifle although kind of to note a single template chain rifle is just
+damage seven. There will be plenty of occasions where it will fail to do something but yeah as a default cannot recommend the assault pistol profile
+enough. really think of it primarily as an assault pistol piece that is also packing close combat and smoke and a chain rifle and etc. The other thing
+that you will take occasionally is the Cobra pistol. Don't really care about that. EMCCW. This model still has all of the rest of the kit and EMCCWs are
+really good close combat weapons. This one is the one that I would take most often as a one of in the Taskmaster fire team because the Taskmaster will be
+doing most of the gunfighting. You don't need a MOO with assault pistol in that team. But having a CCW that will just mess up a tag or an enemy hi or
+something like that is high value. In either case, we're talking about a six-point troop. Six points is fantastic for what you're getting. I really like
+warlocks linked or unlin. Take them in this faction. Now, just to segue briefly, since we're talking about war bands, there are a lot of war bands in Bakunin. Not all of them are worth taking.
+We'll kind of skip past most of the zelengers. I kind of recommend an extreme Zelen cre specifically if you're
+planning on doing smoke shooting with an orphan, but that is such an extreme niece case that most of the time we won't be taking Morlocks. Morlocks are just out competed by sorry Zelen Creger.
+Don't take Zelancers. They are outco competed by Morlocks. Morlocks are just better war bands, more well-rounded. A little bit of an exception is Den
+McConnelly, mostly because he bears a lot more resemblance to a Morlock than a Zelen Kriger. Uh he has meta chemistry with Roll. He has a fantastic sort of
+stat line. He is only single wound, but with reroll, there's a very good chance of getting a resiliency skill for him.
+And he's really quite good in close combat with naturalb born warrior CC23 martial arts one, a good CCW and a chain rifle for plus one burst and a heavy
+pistol plus one burst. That's kind of what makes the difference in addition to being 62 move and regular. Denma isn't a list that you need it in every you don't
+need Denma in every list because there are so many other options. But he's a model whose worst possible use case is that he's 12 points for a regular order
+or game. And best possible use case is that he does something insane in close combat or trading out chain rifle and heavy pistol. Just generally a good
+piece although I will use him less in Bakunin than I would for example in Tonguska. Now a war band that I do absolutely recommend but to be used with care is the Bakunin Uberfell Commando.
+We couldn't do this video without talking about her. She is a signature piece. And look, frankly, everything that I've said about her in any previous
+video, including the N4 Bakunin faction focus, all kind of still applies. What is worth noting is that firstly, her eclipse grenades no longer get a B.
+Like, compared to N4, her eclipse bonus have lost a positive range band, which means she's throwing on 13s, which is a little bit awkward, but I feel like we're all kind of used to that now.
+Viral weapons are worse. Her close combat is worse. Still good, but worse.
+But all of that is kind of not hugely relevant because she still does the thing she did in every prior edition,
+which is take three pupnicks and then send those pupnicks into close combat and after your opponent has declared an arro, pick a pupnick who is not the
+subject of a facetoface roll to make an attack. And that simple interaction means that most of the time if you start with three pupnicks, you will just
+inflict six saves at damage seven onto your opponent, which for anything short of a tag is usually very threatening because your opponent just doesn't get
+to arrow against the model. They don't know which model will be attacking. You run three upnix into close combat, your opponent stabs one, one of the other one stabs them. The roll is not face to
+face, and because they're CC19, you will usually hit all three attacks. That simple interaction means that the sufficient investment of orders in the
+Chimera enables her to kill almost any model in the game with the caveat being a sufficient investment of orders. Even
+at 64, she does still have to cross the table. And she's very, very single wound. Especially in your opponent's
+active turn, you have to keep her safe because she's armor one. Like, yes, she has immunity enhanced. It doesn't matter. She's armor one with no cover.
+any model up to and including random things with pistols are a threat to her in their active turn. In her active turn, however, she is an apex predator.
+Now, despite all of that, I don't recommend windmill slamming her into every list. She's a piece that you have to learn how to use. You have to learn
+how those interactions work. You have to learn how to make the best use out of Pupnicks in your opponent's active turn because Pupnex can be very annoying to kill and are onepoint models. And you
+have to learn how to move her in ways that get smoke down for her, support her, get her into close combat, get the Pubnix into close combat, all in ways that don't drain your entire order pool.
+You can absolutely have turns with her where she gets a fantastic kill and it cost eight orders and that's all that she does. Managing your timing with her,
+your execution with her, the tempo of how she plays, and her vulnerability,
+all of that is very important. She's a high skill cap piece, which means that if you're just starting Bakunin, don't take her just yet. Once you have some
+games under your belt, take her. Play her a few times. If she doesn't perform, stick with her. If she overperforms,
+moderate your expectations. Eventually,
+you will get her down. You will know what she's capable of, how she does,
+what she does, and when. And she will become at that point kind of a staple piece, but there's a learning curve to get there. newer players get to her in
+time. But for any experienced players who have had ample use with her, you will understand why I'm rating her as highly as I do. Now, jumping from our skirmishes to our midfield troops,
+Mikhail Bakunin
+Mikhail Alexandrovich Bakunin was a Russian revolutionary anarchist and political philosopher. He is among the most influential figures of anarchism and a major figure in the revolutionary socialist, social anarchist, and collectivist anarchist traditions. Bakunin's prestige as a revolutionary also made him one of the most famous ideologues in Europe, gaining substantial influence among radicals throughout Russia and Europe.
+53 minutes
+Bakunin is no slouch here either,
+although there's a fair bit of kind of just like decent discount stuff, and nothing exemplifies that more than the zero. One of just the cheapest and most
+well-rounded sets of midfield profiles in the game. But ultimately, Ballistic Skill 11, manage your expectations. Yes,
+matism 3, that's fantastic. Surprise attack is nice, but a ballistic skill 11 combi rifle or boarding shotgun can let anyone down. These are not expensive
+profiles. Bear that in mind. Mine layer definitely a standout profile because power mines are a huge shock to someone
+ironically relative to a shock mine when they go off and your opponent didn't expect it. Many is going to be the case where your opponent face checks a
+minefield with something like a shock immune bike trooper or a tag expecting to see shock mines and all of a sudden boom paramine. That model stays where it
+is until you recover it. That's a huge deal. So very strongly rate the zero mine layer as a surprise you up
+model. Also rate particularly the killer hacker. 22 points for a midspeield specialist at willpower 13. Nothing wrong with that. And we're kind of
+struggling for killer hackers in Bakunin. One with surprise attack is about as good as it gets next to the custodia. Custodia is better in absolute
+terms. Sometimes there's no substitute for one more negative modifier.
+Particularly don't use the zero to face check enemy repeater networks. But if you get a firewall pitcher down and you have that modifier in addition to surprise, the zero is not a bad choice.
+The forward observer, despite being only two points cheaper, will see some use in some scenarios, particularly things like the new provisioning scenario just because forward observer is a specialist
+bonus in that scenario. Now, there's a lot more to cover here, so we have to do this quickly. Brand Castro, really like him. Definitely not what he was in
+previous editions, but he was coked out of his brain in previous editions. Big thing to note, this is a very single wound character. You may remember him
+having, didn't he used to have no wounded cap? Yes, it was disgusting.
+these days. Single wound, still jumpy as hell, still a fantastic infiltrator,
+still a specialist, and the EM grenade profile is extremely trolley. You could absolutely have games where you forward infiltrate him over to just outside your
+opponent's deployment zone and then lob off four or five EM grenades with specfire hitting on 10. That sounds hilarious. Everyone player should
+probably do that at least once. But 27 points and you do have to make the roll to get forward with the infiltration.
+And this is a guy who will absolutely go down screaming the first time he's exposed to a chain rifle in ARO.
+Definitely a niche piece, but a very fun piece, particularly since 62 move and super jump in addition to everything else gives him a huge amount of
+mobility. Fun, but a sometimes unit. A bit more bread and butter are our initiated observants, which are
+parachutists or infiltrators. These are among the only parachuters/drop troops in Bakunin. It is something that Bakunin is missing a little bit. The only other
+profile that has these is the Meteor Zond, but good news, the Meteor Zond is excellent in this edition. But the most common profile that we will see here are
+the infiltrators, in particular, the Mine layer infiltrator. Now, this model has very short-range guns. Usually, it'll be using its breaker pistols.
+Sometimes it's submachine gun against a high BTS opponent, but ballistic skill 12 puts it above the zero a little bit,
+and it's got surprisingly good armor and BTS for a midfield model like this.
+Still obviously has mimatism. It's just one use camouflage, but it does still have mine layer. But really what we're getting here is it is only 18 points and
+it's a mine layer with a deployable repeater. Now to an extent, yes, this is a Masai Moran that we have at home, but it's a Maras Masai that we have at home.
+Very few other factions have access to anything that mine layers or prepares a repeater in the midfield. That is a hugely rare capability and our hacking
+in Bunin is just good enough to take advantage of it. Many will be the cases where you can do things like combine
+laid paramines and a deployable repeater as part of a midfield defense. Like you can build an imminently capable midfield
+for really relatively two points by layering one or two of these one or two mine layer zeros and for less than the
+average of 20 points per model. Like you can still bank a little bit towards other more expensive things. Everything is regular. All of the actual troops themselves just kind of like hang out
+ready to be interesting or annoying. and you have a layered deployable defense in the midfield for ultimately a fairly
+reasonable price. Not something that you will see in every list because you don't necessarily always want or you can't always necessarily always find the
+points or the space. This is still a very broad faction where we are trying to find lots of different things that we might want to include. Not every
+scenario calls for infiltrating deployable defenses. And ultimately,
+since we have very good pitchers and some other pieces that do network projection as well, we don't necessarily always need the initiated observant, but
+it is worth remembering that Bakunin as a faction has the capability to build actually a shockingly capable midfield
+crumple zone consisting mostly of deployables and layering hacking area and mines that can be very powerful.
+58 minutes
+buried in mind as an option. Now,
+technically probably not a midfield model, but one that I'm grouping in this category is Robin Hook, Outlaw AI. She only has four deployment four, but you
+just know that she's getting forward over the course of the game because that's her job. Ultimately, what you see there is a huge amount of text that
+boils down to surprisingly durable, can do a little bit of gunfighting if she absolutely has to, but mostly she is a hyper mobile repeater with stealth. Now,
+20 points is a lot to pay for that,
+particularly given we have things like 19 and 24 point linked pitches in this faction, but not withstanding the
+competition, she's a very cool piece and a very fun piece. And there is something to be said for I am not going to have to make this role. I just need to spend the
+orders to move her into range, at which point she will stealth quietly into zone of control, and then I will do the hacking that I need. She is not a pitcher. She is a model that can go prone. She is durable. She can survive.
+She get onto a rooftop. She can go places that I couldn't necessarily land a picture because of line of sight. And while I absolutely wouldn't want to pay
+any more points for her than 20, like she's right at the limit of how much I think you can pay for a piece like this,
+she is extremely unique in her ability to get places and be a repeater in those
+places. Now, I think the cherry on top and something if they were ever going to adjust a piece like Robin Hook would be to do something like just give her
+specialist operative because she's going into the midfield anyway. But in terms of models that go very nicely in the second combat group, she's one of them.
+Special call out in terms of weapons she has to her drop bears, especially on a 62 move troop. That is a really nice piece of equipment. She is able to move
+aggressively forward. She's got super jump, so she can move 9 in per jump. you can find the angles or parabas for her as a second short skill in each of
+those. Lay down a drop bear and just end up in a place where in say two orders she can move 18 in forward. That's a
+really really long way. Lay down a couple of drop bears and just end up in an interesting and annoying position. It is pretty likely that she's going to run
+1 hour, beyond the ability of your baggage models to reload her, but you could even feasibly run her as a group two model,
+1 hour, able to very easily choose between getting forward and being a repeater or staying a little bit closer to your deployment zone, but laying down some
+1 hour, drop bears with spare group two orders prior to making a more committed run. Now, finally, in the midfield category,
+1 hour, and easily the most niche of these pieces, we have Prowers. And technically the Prowler killer hacker is the best killer hacker in the faction compared to
+1 hour, a reverend custodia. It has the same willpower, it has more BTS, and it has surprise. It's also 30 points, and 30 points is very expensive. Now, despite
+1 hour, that, I have absolutely had games against me in prior editions just blown open by things like the Prowless Spitfire, appearing in a location that I didn't expect, moving aggressively,
+1 hour, hitting my deployment zone, getting Envel Fire, stuff like that. And I cannot help but admit that I have a soft spot for the idea of a hidden deployment
+model with disco balls. I can't remotely tell you what the game state is where that model blows the game open and wins,
+but I am sure that it exists. But these guys a little bit like pieces like Brand Castro just kind of a vanity pick. Take
+them only occasionally. Be judicious with them. Consider not using hidden deployment some of the time since otherwise they are indistinguishable
+from zeros. But ultimately, there are enough different skills that aren't quite doing enough different things.
+These guys are expensive, right? 15 1.5 SWC and 36 points is the same kind of points that we could be spending on a
+model like a penitent observant or Cass Cassandra Kusanagi. And as much as camouflage is cool and hidden deployment is cool, that is a really really hard
+comparison to make when we're looking at things like the Prowers. Now, from here, we jump to our tactical armored gears,
+of which Bakunin has two, and both are great. The lizard squadron is the second best tag with a repeater in the game.
+And that's actually totally fine because the best tag with a repeater in the game is the recently updated iguana. And that
+thing is cracked. Now, the repeater by comparison is much more sensible, but is still really good. A repeater on a tag
+is fantastic. There are so many things that a tag does that just having an extremely durable repeater, even if it's
+just to have it in place so that you can put white noise down whenever you need to take a face to face role against an enemy model with marksmanship or an MSV.
+It's just valuable. And on top of that,
+we're getting a platform that is very efficient otherwise. These models still have tactical awareness. It is a full main battle tag kind of kit. Armor 8,
+BTS 6, three structure, ballistic skill 14, multi-HMG. And if all of that wasn't enough, 65 points is very affordable and
+we get an EM grenade launcher. Now, you can choose between an EM grenade launcher and a heavy flamethrower. I kind of recommend the EM grenade
+launcher in Bakunin, especially if you're paying for a tag. You'll have proportionally more things at the low end. A lizard squadron list is one that's likely to include more Morlocks,
+things like Den McConnell. So, you really don't need close-in defense as much. and ballistic skill 14 electromagnetic specfire can just
+randomly win games if your opponent null deploys and you go oh well I guess I need to spend orders somehow the only thing that is better than stuff like a
+mine dispenser which the iguana has is a high ballistic skill specfire platform it's not always going to do things
+sometimes it will just fail to hit anything cuz it's blister skill 14 minus 6 is going to be rolling to hit on eights but it can also just randomly win
+the game and I will take that over a heavy flamethrower that is sensible and consistent. Nope. I'll take the high roll and the ability to punish null
+deployments. Now, a bit less sensible and a bit more interesting and wild is the stigmata of the observance. My
+thoughts on this kind of thing have matured a little bit, I think, since prior editions. There's a lot to recommend about the stigmata. It's a
+remote presence tag. It's a tag that's a hacker. It's a tag that's a hacker. It's a tag that's a hacker. and it's ECM and
+it can feasibly even be given a firewall with fairy dust if you want. That's that's really quite interesting. It's a
+three- wound armor 6 BTS6 hacker with ECM and it has tactical awareness and it can even duo if it wants. You can duo
+two stigmatons which is more compelling than you might think. Now a pretty common duo is to duo it with an orphan
+of the observance. There is a 21point engineer with a repeater that just combines very nicely with the stigmata,
+but you can duo two stigmatas together.
+And that's probably not actually a bad idea if you intend to take active turn fights with this thing. I mentioned when we were talking about the taskmaster
+that you have to be very careful about putting your gunfighting eggs in three dice ballistic skill 13 baskets and the
+stigmata doesn't even have modifiers to help it. What this means is that it really shouldn't be your primary
+gunfighting platform. It is very easy to accidentally build a bacon and list whose gunfighting pieces are things like
+one or two stigmatas, a go pod, and say a taskmaster or cenabite heavy rocket launcher. And at that point, you've got four HRLs as your primary gunfighters.
+And maybe if you've taken two stigmata,
+you have actual burst worth a damn. But three dice on 13s is just highly variable at best and very failureprone
+at worst. What that means is that the stigmata, especially a stigmata that isn't duoed with another stigmata,
+should be thought of more as a secondary gunfighter or a gunfighter opportunity.
+Where the stigmata excels and it is costed suitably to do this is when it's just one of those models that you go this is my opponent's problem. when you
+do something like put it on ARO and sure it's only bliss skill 13 burst one if it isn't in a duo with another stigmata but
+1 hour, 6 minutes
+it's durable and it's very likely to survive to guts back into a position so your opponent has to move something up to deal with it and dealing with an
+armor six tag still takes time in exactly the same way it's not a hacker that you want to spend active turn hacking on terribly much just will power
+13 it doesn't have trinity or anything like that but if you've put a repeater network out there for example with an initiate of the observer servants. Your
+opponent is not going to be able to just trivially move forward in KHD this thing. You can bring a stigmata down by dropping a pitcher on its head and then
+triniting it all the way to death. But you better allocate an entire turn to doing that because it's got ECM hacker for as long as it's conscious. And you
+need to do five wounds to this thing because yes, the first three wounds will knock it unconscious, but it has remote presence and you better bet that there's
+going to be an engineer or at least a speedball in the wings to bring this thing down. on. And so what that means is the stigmata is just a fantastic this
+is my opponent's problems piece. You can do nothing but spend its tactical awareness order repositioning from turn to turn and it still represents a really
+annoying element that your opponent is regularly going to have to deal with because of the threat it poses just as a reactive or a potential kind of element.
+Now, if you do go active with it, burst three, ballistic skill 13 is quite failureprone as far as ballistic skill
+attacks go, but it's 64 move with tactical awareness. And for attacks of opportunity, right, and for large shots against models out of cover, moving up
+the side of a board, just firing at something that your opponent didn't think you could fire at or who have been forced to expose, that's totally fine.
+It's just not going to win a gunfight against an enemy primary gunfighter with anything nearly like enough regularity.
+If you keep in mind that at often for like the first turn or two, its main job is just to be a huge pain for your opponent, that is where it will do the
+most work. And at 56 points, that's totally fine. Now, we haven't covered everything, but we are well past the hour mark. Just to mention a few more
+things. Cider observance. Little bit of a meme piece for much of the game's existence. And look, frankly, it's still
+very difficult to spend this many points on a model that can't fight in active,
+but they're the kind of piece that's worth playing just occasionally. Rare is the miniature in N5 even that can just win faceto-face roles in reactive turn.
+And something like the Cineita HMG is one of those pieces. You can just win fa face to face rolls in reactive. tags can
+spool up on this guy and not expect to have a favored gunfight. Now, I would say probably any of these profiles except the multi sniper are things that
+you could feasibly use in different situations. I lean toward the HMG because the primary goal of a reactive piece like this is to just make sure
+your opponent does not win face to face rolls. Even if the multi sniper has a higher ceiling on what it can roll, just lots of dice with a HMG goes the
+furthest in guaranteeing that you win the face to face roll or don't lose the face to face roll. And every time you go as far as not losing the face to face
+1 hour, 9 minutes
+roll, you waste an order from your opponent. Is this a good regiment?
+It's just 28 points for the more expensive profiles. That's quite a lot,
+especially for a model that can't really fight in active turn. Isn't always guaranteed to have a good deployment spot. beat inconsistent, can just lose
+the first face to face roll and die, but still a piece that I think is at least worth people experimenting with. And it would be remiss of me not to at least
+call it out as interesting because there's nothing else in the game that is BS13 Matism 3 and four dice in ARO. And
+finally, because they are cool and I love them, Zoe and Piwell. Ultimately, I kind of think these two are more of a vanilla element than a Bakunin element.
+And Pywell is a little bit weird this edition in terms of how applicable he is. But even setting all of that aside,
+the fact that they don't really have link teams that they want to join cuz they don't really fit into a moderator link or anything the moderator link is doing. Zoe is a model that does one of
+those very rare things which is compellingly combine two different roles into one trooper. She's a willpower 15
+engineer and she's a really quite good hacker. Whip 15 BTS3. She's a regular hacking device, but she has zero pain.
+Which means that if you are doing anything that warrants having an engineer, and you aren't taking one of the existing options, things like an
+orphan to duo with a stigmata or a clock maker to fire team Harice or core rather with moderators and a cyclone or a
+vostto, and you still do need an engineer. She gives you really a very good hacker and an engineer for 23
+points. That's very compelling. In Bikunan, there are only so many actual use cases because there are those other two engineers that slot more neatly into things we might want an engineer for.
+But there is nothing wrong with the classic total reaction bot, helperbot,
+and hacker engineer. And Zoe is a hacker and an engineer combining two useful roles into one trooper. Now, Piell, as noted, is a little bit weird.
+Theoretically 19 points for a forward observer remote and all of the forward observer remote things plus the matism 6
+and ETM hacker is kind of interesting but this is bunin which means it's a faction with templons which means it has an 18point tactical awareness templond
+and all of the things that I want a forward observer remote to do in N5 useful things things that involve sensors and deactivators well firstly
+they don't require mutism 6 and secondly piwell doesn't have a deactivator And thirdly, the Stemplazond is one point cheaper and has tactical awareness. So
+I'm I'm leaning towards Pywell FTO considerably less this edition. Pywell sync is theoretically very cool, but
+also kind of just not necessary. He can only be taken with the 26 point Zoey.
+And I'd much rather just take the 23 point boarding shotgun Zoey since her only job is going to be to sit on a rooftop somewhere near attack near a
+total reaction remote making hacking attacks and arrows and doing engineering stuff. So, Pywell, little bit less relevant. Zoey, particularly the
+cheapest 23 point, Zoey combines two battlefield roles into one model and is really cool. Now, wrapping the video up as we always do with a sample and list.
+This is one where we're actually going to show off two basic variants of the same general concept. The idea here
+began with penitants are really, really cool, but do we actually have to link them? Wait, what is their availability?
+It's three. Well, I can't afford three,
+but I could take two. What does a punan list that just slams two penitants unlin in and expects them to do things look
+like? And it turns out that you can still fit quite a lot in. Now, although this list began with two penitants,
+question mark question mark question mark profit. We'll talk about also probably a more sensible change that you could make specifically with the
+inclusion of Kusanagi. But the first version of the list starts with a penitant. In both cases, these are both
+going to be the 20 the 37 point profiles. Uh which means that we've got the AP Spitfire with continuous damage, terrifying, dangerous, warhorse, mim 3,
+etc. There is one in each combat group and this is a 96 split cuz I do genuinely expect the second combat group
+to need all of those orders, but you could always move things around if you needed. We then have a Chimera. Again,
+if you are a newer player, consider cutting the Chimera for just something that's a bit more sensible and easy to use. Something like an 18point mine layer or observant, something like that.
+That could be a better use of this slot if you don't think you're confident using the chimera. But observance, so bacon players should learn to use it eventually. And it is a very powerful
+piece. We then have the taskmaster with more team. Now, for SWC reasons, I'm running the red fury taskmaster. To note, it could become a lieutenant. The
+Red Fury Taskmaster is a legal lieutenant profile. And while I would alternative, I would like to take the HMG if I had the option since I have so many other Spitfire rangeband weapons,
+there just wasn't the S SWC in this case. And there are compensations for taking the lower power gun. Crazy Koalas are a much more like much more
+attractive deployable. And the the 10bot firewall is nice to have. And since he's linked with two more locks, he will be moving up the field anyway. He is linked
+with two more locks. One of them is the assault pistol profile. One of them is the EMCW cuz I don't really think we need two assault pistols in the link team. The EM is better close combat
+payoff, but pick whichever ones you like the most. We then have a salute to deactivate a baggage bot. There's a lot of things in this list that we can potentially reload. Uhu. Now, she's not
+linked here. She is pleasant present because she is a 19 point hacking device. Plus, I am willing to fire off pictures with her if I think I need to,
+but much of the time she'll be in a more passive position, particularly doing things like throwing up white noise or providing hacking arrows. We then have
+two moderators, one lieutenant and one regular. One change you could consider making to this list if you were feeling spicy is to turn the taskmaster into
+your LT and just cut one of these moderators for something cheaper. Cut the lieutenant, leave the decoy that will look a lot like a lieutenant and
+maybe cause your opponent to go after it. However, since this taskmaster is a red fury profile, it's going to be moving forward. You can't really be passive with it successfully that often.
+Probably easier just to have the classic moderator LT and decoy. In group two, we then have our fire team core. This is a reverend fire team with four troopers.
+All of them count as reverend, so they'll be getting plus one ballistic skill. We have a Moira multi sniper.
+Now, one of the changes we will consider is to cut the multi sniper for a HMG by finding a couple of points. We'll show that off just after this. But in this case, the multi sniper is for two
+reasons. The first is since this ballistic skill 13 because of the link team size, I'm a little more willing to wear the lower burst. Although I don't
+love it, but it has very long range bands. Some scenarios like that these days, and it is more threatening to models where the DA or AP ammunition matters. We then have a center bite
+because they're fantastic. I could very reasonably consider seeing using the NCO order on the Moira. move this team around a little bit and then at some
+1 hour, 16 minutes
+point just fling the center off. That will cost one point of ballistic skill off of the Moira since it's bringing the team from four to three. But don't be afraid to go on a kill run with this
+model. We have a reverend healer. It's got an E meta, a very good medic. It's a doctor. I like pieces like this in group
+two if they have enough regular orders because it can move around doing like force reconstitution at 8 to 16 in with
+the burst three medicate or burst 2 plus one, but you get the idea. But this is also a model that you could consider cutting. 29 points could be easily
+replaced with another cenabite or another reverend custodia and still have four points of fire team bonus getting
+the Moira up to ballistic skill 13. This would be something to test mileage may vary. I wanted a more well-rounded team since this is a showcase list. We then
+have Reverend Custodia. This is the only KHD in the list. It is however a linked ballistic skill 13 pitcher and a serviceable KHD. It is definitely
+possible for this list to lose the hacking war. However, it isn't running an aggressively large number of heavy infantry. Well, I mean, it kind of is
+actually, but some of them have stealth and some of them have ECM. You just have to deal with that. This is more what I would call just enough hacking. One
+really good hacking device plus one serviceable killer hacker, your own network projection that will keep your foot in the door of the hacking game without committing heavily to it. We then have another Morlock in group two.
+Much of the time, this is going to be one of only two troopers that is irregular for most of the game. The other is the Chimera because these two Morlocks are in a fire team. This Moko
+is mostly there to run around and throw smoke and have its irregular order converted, but there will absolutely be turns where you want to just go on a run
+and an impetuous activation plus six orders usually is just enough to get something done with an assault pistol Mlock. While I'm mentioning order count,
+something to note is although this is the more constrained order group, this is Everan Moa, which means it has an NCO, which means that if this fire team needs it, it has seven orders to spend.
+So, it can move forward and it can be aggressive or it can adopt a more passive posture just doing things like taking long range shots and firing off
+uh mediit shots with the healer and firing off pitches with the custodia and then reloading those with the salute.
+Finally, we have our second penitant as mentioned. And so in total, this is a list with multiple dangerous nimmitism
+gunfighters and white noise and lots of close combat and some mines and lots of armor 5 heavy infantry and lots of warb
+bands and a fairly reasonable order pool. In particular, a pretty reasonable regular order pool with only two irregular models for much of the game.
+Now, it does have a couple of downsides.
+Uh the biggest one is that there are not many specialists. Uhu is a specialist.
+the reverend healer and the custodial specialists. That isn't going to cut it in every game. In addition, as much as penitants are kind of terrifying, it's
+pretty likely that two of them are a little bit of a meme. As a result, a change that we could probably should very strongly consider is this version.
+Now, the only changes that we have made is that we've lost one of the penitants.
+We've changed the Reverend Moira out from a sniper to a heavy machine gun, more reliable for active turn shooting.
+And we've added Cassandra Kusanagi. She is ballistic skill 14 rather than 13.
+She's non-hackable. She limit six. She's a specialist operative. She does realistically round the list out a little bit better than the penitant did.
+It's also, if I'm being very honest,
+much much more likely that any given Bakunin player owns one penitant and a Kusanagi than they are to own two
+penitants. Given that you can only get the penitent as part of a box set, it seems pretty likely to be that this version, in addition to including an extra specialist, being a bit more
+well-rounded, will be much easier on most players collections. Now,
+unsurprisingly, given the breadth of Bunin, this has been a fairly long video, so we will wrap up there. Big thanks again to both Isaac and Lindsay for the request for this faction topic.
+Hope very much that you've enjoyed it.

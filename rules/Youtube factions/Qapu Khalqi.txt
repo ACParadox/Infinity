@@ -1,0 +1,1023 @@
+Hello and welcome to an Infinity the game faction focus for Quapuki the Corsair of the gate. In this video we'll be talking about who QK are, how they play, what are their strengths,
+weaknesses and faction identity before jumping into Infinity Army to go through many of the profiles that showcase the sectoral. Now QK have kind of come into
+N5 as a faction whose time has almost come. They were historically a faction that kind of languished a little bit in
+the optimistically B minus C plus kind of region and I am certainly on record in previous editions saying that they
+weren't really for me but which benefited a lot from many of the changes that happened in N5. Some of these were
+rules changes or general balance changes. For example, the fact that every combat jump trooper also picked up jet propulsion has been hugely
+beneficial to Yan, which are a core element of QK as a faction. But they also benefited a lot just from general stat changes and balance changes,
+changes to different profiles and really significantly from the adoption of even just one particular unit from foreign
+company when it got dissolved and spread out across other factions in the form of Lashmi who introduced a hacking device
+plus into a faction that otherwise liked it. And that change to capability alone was almost enough to go, hm, okay, there
+is definitely something to QK now in terms of being well-rounded with lots of different options and lots of different
+unit types and the link teams that have always been part of Q's makeup, right?
+The original Harice team faction. What they were lacking from the beginning of N5 was a real selling point or keypiece
+unit. And that's something that has just recently changed with the iguana rework.
+Now, we will talk about the iguana when we get into Infinity Army, but in short,
+it's really good. It's a really, really good and unique tag. And while there is no way that you can say any 66 point
+model is a true autoincclude because in any given list just because there will always be scenarios and situations where you might not be able to fit that in order to accomplish different
+objectives. It is really really cool and it does find its way into many QK lists
+and it will be in the QK list that we showcase at the end of this video. And with the change to the iguana profile,
+Quapu Kraki now has a selling point regiment. Hey, do you want to play the iguana? Well, to do that, you have to play one of these two factions, Khidor
+or Q. And so now Q is in that wonderful position where it has a hook. It has a
+selling point piece in the form of the iguana, but then there is so much more to build out in terms of a broad and well-rounded faction with a surprisingly wide suite of different capabilities.
+And so where is QK now at time of recording in N5? Well, it's a very good generalist faction. It has a hugely
+flexible fire team configuration setup where it can make multiple small fire teams with that really idealized gun and specialist and something kind of setup.
+and it can fit tons of stuff into a list because most of the models that you have access to in Qk that are particularly
+attractive are a bit like the iguana where yes, they're kind of below the top of the curve in terms of many of their attributes, but they are efficient. And
+because they are efficient, they're just a little bit cheaper than you might expect because there's some compromise they make in the profile. Maybe they're bad at dodging. Maybe their armor is a
+bit lower than you might expect. Maybe their ballistic skill is a little lower than you expect, but they aren't paying extra points, so they're a little cheaper, so you can afford more. And
+that gives you a really wide range of what you can fit, not just in the faction at large, but in a specific list. And to kind of showcase this a
+little bit, I sat down when thinking about this video and just wrote out the things that were cool about RQ list that
+I wanted to show off. And that list of things about that list that's cool is really long. Like just just to rattle
+off a number of virtues. This list is fast, dangerous, and has a resilient tag. This list can do deployable spam.
+Or it has a ballistic skill 14 m dispenser and a linked picture and baggage to reload both. It's a 15 order list plus NCO and attackware, letting it
+get to 17 orders regularly, which is a really, really healthy order count. It's got three pretty decent quality guns of
+different types, including a linked Azrael, which is an absolute cannon that anything in the game should be scared of. It's got a really complete
+deployment zone repeater net coverage for defensive purposes. It's got three hackers with a really good hacking mix of killer hacking and regular hacking,
+including that really important one hacker with combat instinct just to get past stealth and force your opponent to do reset arrows. It's got smoke and
+white noise and the ability to put gunfire through each of those to take advantage of different kinds of visibility modifier shooting. It's got multiple warb bands. It's got a
+willpower 17 doctor. It's got a willpower 14 infiltrating camouflage specialist. It's got a shell game to hide the lieutenant. And it's got multiple small efficient fire teams with a gun and a specialist in every team.
+Holy that's a really really good list. And you can fit all of that in 300 points in Qk. Now, there are
+compromises, right? I'm selling it there, but the faction and the list are not without limitations. But if you like
+that really broad base, multiple fire teams, multiple capabilities kind of list, QK can do that. And that is
+powerful in this edition. Now, let's talk about some of the limitations that Quapuki face as a faction. As I
+mentioned, they're not the top of the curve in too many places. Quite a few models are going to have like one less in a stat somewhere than might be ideal.
+Maybe it's just one less ballistic skill like Jambazan or ballistic skill 12. Maybe it's a few points less of BTS.
+Almost all of your hackers in Copu Kraki are going to be BTS 3 or even BTS0. Only Lashi is a BTS6 hacker. There is
+virtually no like 62 move in this faction. Janiseries are fantastic, but they're 44. Azrael are 44. So you're not
+moving really really efficiently around the board. So all of the like showcase stats that you might see on truly elite
+pieces in other factions, we're not getting those in Q, but we're more than making up for that with efficiency. It's also a faction with a very limited kind
+of like N3 legacy midfield. You've got Alhawa and now Sama. And there are real limits to those pieces. I I like them,
+right? I like Alhawa and I like Sama,
+but the midfield that we can build with Quapuki is just not in the same realm as factions that can do it genuinely well.
+Particularly in terms of mind layers,
+right? I like Ha forward observers and Ha hackers. It makes good use of their willpower 14, but the mind layer profiles on HA are bloated with weapons
+7 minutes
+in particular that you maybe don't want to take full advantage of with a ballistic skill 11 gunfighting trooper.
+It's also a faction that doesn't really have any outstanding defensive elements.
+Now, you've got access to total reaction bots and willpower 14 engineers, and that's totally fine, but we aren't building a minefield that I'm in love
+with. Frankly, my favorite mine layer in the faction is LashMe, and that's a cyber mine in your deployment zone. And one of the compromises that you make
+when you focus on those like Haresice style of teams is that often your active gun gets pressed into service as a reactive weapon of desperation. Now,
+something like an Azrael in a fire team is still a weapon that your opponent absolutely has to respect taking a hit
+from, but it's not a dedicated defensive piece. It's not a neuroinetics black air or something like that. You are often
+having to use weapons that you would prefer be active turn firepower pieces as reactive pieces to slow your opponent down and contest their movement through
+the midfield. And that comes at a little bit of a cost. It's also a faction,
+particularly a faction modeled on the Barbarie Corsair with possibly the worst close combat in the game. Now, that is
+something that it is totally okay to sacrifice. Close combat attacks in Infinity are not something that you need to win the game, but there are a bunch
+of dudes with swords in Quapuki, and you would be forgiven for thinking that this is a faction that wants to get into close combat. And in fact, if you go
+into army and you filter by martial arts, you'll find that you can't because there's nothing with martial arts in the
+entire faction. There is some CC-22 stuff in the form of Yan with no modifiers. You might occasionally get a
+Corsan into close combat in hopes of doing something, but the best close combatant in the entire faction is Scarface, and we aren't taking him
+particularly much. So, it's just kind of a thing to be aware of that the most you will use close combat for most of the time in Capioca is running into close
+combat with a Yan and taking a CC attack if they dodge. And even then, there's a fairly good chance you might just fire
+your heavy pistol instead. Finally, this is still a faction as much as the balance changes have benefited them in
+the shift from N4 to N5 that has a bunch of what I might call historic dead weight profiles. Now, I want to caveat
+that with this is my perspective as a bit of a faction tourist. I play everything in Infinity. There is no
+faction that I would just never play for any reason. And even though I've played half a dozen Capui games in the leadup
+to doing this video, I haven't done what what you might call like really deep learning and trying out every single
+available profile. If you are the kind of person, if you're watching this and you are a longtime QK fat player,
+there's a really good chance that you actually are the kind of person who has put the yards in and can tell me those occasions when you know what, actually,
+in this specific circumstance, odelisks are good. And in this specific circumstance, Kaplan tactical are good.
+But my appraisal as a bit of a faction tourist is that there is still a little bit of a chunk in this faction of stuff that you just don't really need to
+bother with and which are a distraction from the cool and interesting things.
+That includes Kaplan, that includes Ottoisks. Frankly, it includes most of the Corsand profiles, for example. And that's just something to be aware of
+when you're approaching the faction from new or if you are someone who thinks that QK might be interested and you're about to start getting into them.
+perhaps because this video is selling them a little bit. Just be aware that there is a chunk of the faction that maybe you will want to get to later on
+because to start with there really isn't that much of a place for models like odelisks in your list. Now, happily there is still plenty of other
+incredible stuff and we'll be going through a lot of it as we dive through army as we go through in depth this
+well-rounded wide capability spectrum hacklam faction. Now, as usual, we're going to start with fire teams, and that
+is very apppropo in Kapuki because it is absolutely an interesting fire team faction, but we're going to skip past the traditional light infantry, which in
+Q would be Gulam. I like Gulam a not a lot, but QK is not a Gulam faction.
+There is nothing particularly compelling about the Gulam fire teams in particular. There's no real way to get an impressive gun into Gulam fire teams
+in Qk. And so for that reason and others, they're basically just out competed thoroughly by other much more interesting options. And those
+interesting options start with totally unsurprisingly the Havsa unit. Now Havsa in terms of their general profiles,
+they're okay. There is a few here that we would call out. 20 points for a hollow mask chain of command is by no means the worst thing in the world. The
+lieutenant is a hollow mask lieutenant with willpower 14 which has got plenty of space and which you will often take in Qk. The fact that you can have a
+12 minutes
+silhouette 2 linkable hollow mask lieutenant who really does not give away his presence terribly much at all is really nice and one of the selling
+points of the faction. You should probably be taking the Havsa LT kind of as the default a lot of the time in Kopuki. And I'm also a personal enjoyer
+of the forward observer just because it's randomly another deployable repeater. And while I've gotten quite a lot of use out of this guy in vanilla
+hacklam, he's got some play in capukali as well. Now all of that, okay, cool.
+These individual profiles, you might even occasionally take any of the SWC ones because this is still a ballistic skill 12 unit. It's armor 2. It's not
+the worst stat line in the world. And a surprise heavy rocket launcher assault pistol, for example, could have some play in some games. But the real thing
+about Havsa, the really important thing about Havsa is how they fit into Quapu Khalki fire teams because you can have
+four of these guys as wild cards and they count as all of Gulams, Odelisk,
+Sekbans, and Janiseries, which means that every single fire team you run in Kapukali can easily have at bare minimum
+the bonus for having two of the same troop type in a fire team. And just to do a quick rules explanation because this feels like something that does get
+asked quite a lot. The name of a fire team, for example, Quapu Kali fire team or Drews Bayam security fire team does
+not determine what you have to be counting in terms of troops of the same type. You just count the troop with the
+highest number of troops of that type and that sets your fire team bonuses.
+Which means a lot of the time in Quapukali we will have a fire team that
+consists of for example an Azrael which counts as nothing and say Leila Sharif who counts as a Gulam and a Havsa unit
+who also counts as a Gulam. That's therefore a fire team that is considered to have two Gulm in it. Even though you
+can't have Gulam infantry in a Kapuki fire team, and this isn't a Gulam fire team, it is still a fire team with two
+of the same troop type in it. And that tremendous flexibility, particularly when combined with other wild cards, is
+how you just build fire teams on a dime in this faction. The Havsa unit is one of the core building blocks and they are not particularly expensive and they do
+some interesting things with hollow mask and they conceal your lieutenant and the optimal number in most fire teams actually is one but it's one alongside
+any of the other really cool fire teams wild cards that exist. And so as we go through all of the different fire teams
+that you can build in Qk, bear in mind that almost all of them will work based on one really cool model with a gun, one cool wild card or wild card equivalent,
+and then one Havsa who rounds the Link team out with a relatively cheap model with a rifle and a light shotgun and a little bit of surprise, not surprise in
+the surprise attack sands, but just wildcard shell games in the form of hollow mask and gets you that hugely flexible composition with low
+opportunity cost thanks to how QK fire teams are structured. So that's the Havsa, but there are a bunch of wild cards that we have to talk through
+before we even get to the kind of like core building blocks or big gun pieces.
+And so the second of these wild cards that we want to think about QK fire teams in the context of is Lashmi,
+hacker of fortune. Now she's a wild card. She can join any fire team and she counts as an odelisk. Havsa also count
+as odelisks. We can sort of see how this is coming together now. and she's really really solid. There are technically more
+efficient hacking device pluses in the game, but like not many and not by much.
+Uhu I would potentially take over LashMe if given a choice, but I am very happy with her. She's willpower 14 and BTS 6.
+Excellent. She's linkable. Excellent.
+She's even got mimatism, which is weirdly difficult. Makes just like a weirdly interesting little upgrade. But more importantly, she has a pitcher and
+she's linkable. Fantastic. And she has mine layer and cyber mines. Fantastic little bit of deployment zone defense.
+At 24 points, she gives you in device plus stuff. The most important of which is white noise. In addition to just
+being a well-rounded willpower 14 hacker who takes care of your network projection thanks to being a linked pitcher. She is in, I think, probably
+all of my QK lists because I can staple her to any big gun alongside something like a Havsa lieutenant and have a
+backfield support fire team that's handling my network projection and doing a little bit of light hacking and just generally being really high utility. I
+like her a lot and she's one of the really big changes for QK in N5 because the addition of white noise means that
+you can do smoke shooting in inverted commas against models with marksmanship and MSV and do actual smoke shooting through smoke against models without
+17 minutes
+those things. And that gives you just good gunfighting all things considered.
+You should always be able to put your opponent on some kind of a negative modifier and control visibility and move around the board. And those are just
+highly valuable things to have. Do not skip out on Lashme. Now, the next wild card to talk about for similar reasons is Husam Operative Leila Sharif. Now,
+I've spoken about her virtues on other videos. She's a killer hacker with Carbonite and Combat Instinct, which
+means she's a really good addition to any hacking network because she can do things like add a second or a third hacker that does killer hacking duties,
+but also has an ARO against other hackable stuff. And because she's got combat instinct, she negates enemy stealth, which means that your hacking network is live, even, for example,
+against a Sujan who's been given stealth thanks to the most recent its seasonal rule stealth operations. And that's just an extremely valuable force
+contribution. Now, at 22 points and only BTS3, even with her firewall, which is really nice, she's not a true high watermark hacker, particularly given her
+cost, but she can do an absolute ton of classified. And she counts as a ghoul when she joins a fire team. And Havsa
+also count as ghoul arms, which means if you want to, you can have any fire team rounded out by Leila, Sharief, and a Havsa and whatever other one piece you
+would like. That's really cool. But she is also an element that I'm actually quite willing to just take by herself.
+Maybe do her with an iguana or something because of the effect she has on force multiplying your network which you are
+projecting with a combination of models with repeaters and the linked pitcher from Lashme. The next wild card to
+mention is a burkut. You can have two of these in any given fire team and they count as seban. Remember havses also
+count as seban. Although you may occasionally find that burkwood are just okay enough to take as an element by themselves. Now I have not been
+including them a huge amount in N5 in Qk at least. I've tried them a little bit in hackers and that's mostly because we
+are getting a little pricey here. These are heavy infantry. They are costed appropriately. They are only ballistic skill 12 but I am always here for a
+boarding shotgun plus one burst particularly when we add link bonuses to it. And these guys are native specialists. thanks to being engineers and just have a whole grabag of
+additional skills. You could actually consider taking say a bird and a seban and a big gun in a link team, skipping
+the havsa entirely and having just some really premier close assault with things like the boarding shotgun profile. But 28 points on the boarding shotgun plus
+one burst is getting up into that points cost where we begin to have to cut other things from a list. And so the cost here is just a tiny little bit high.
+Tolerable in some cases. They will find their way into lists, but if you're going to be paying for a burkot, you need to really have a plan to move that
+fire team forward and take advantage of their close assault potential. You can't just use these guys as 26 point corner guards. And because they're 44 and they
+will usually be in a link that is comprised entirely of 44 troops. You need to have a very specific plan for how you're moving that fire team around.
+It can't just be a movement of opportunity because that will result in a position in many games where you're wasting the points you spend on the
+Brook and they're just a little bit too expensive for that. Still a unit to bear in mind and a wild card that can combine with many other wild cards to good
+effect. Now, not technically a wild card, but they may as well be because they appear in every fire team that we
+are going to be talking about are seban naval special unit. Now, these guys are a very slightly bloated profile. They're
+paying for armor 3 and BTS3 despite being on a one wound model. They have the dreaded 360 visor. They're paying for terrain zerog. There are a fair few
+guns on them that you maybe don't really want to be trying and taking advantage of with a ballistic skill third. Well,
+skill 13 is not terrible, but they're single wound troops with no visibility modifiers. You don't really want to be gunfighting with these guys. And so,
+frankly, quite a lot of these profiles we can just sort of dispense with and not think too much about. We are not here for the Second Spitfire. We're not
+even really here for the SECN heavy rocket launcher despite the fact that it's 19 points. What we are here for primarily is the seban doctor or even
+just the 19point boarding shotgun seban because if you do have to close assault a linked boarding shotgun and a burst two chain cult is one of the ways to do
+it. But more importantly they are cheap and useful additions to a fire team.
+They count obviously as seban and havsa and burkuts both also count as seban and they are NCOs. In quapui you will very often be taking a non-active lieutenant.
+It'll be something like a habsa pretending to be something else sitting in a fire team somewhere safely without any real plans to contribute much to the
+game at any point apart from having a usefully concealed identity. And that means that the first NCO that you put in any given list is a free extra order.
+and 19 or 23 points for that. That's extremely worthwhile as part of a fire team composition. And so despite the
+fact that yeah, seban profiles are a little bit bloated, the first seban in a list is high value. And if we're going
+to be taking one anyway, well, a willpower 17 doctor is really useful. So let's avail ourselves of that. It's an
+expense I'm kind of willing to bear because the sum total of the benefits that it gives you is well worth the points cost. Some reforest
+reconstitution, particularly if you're doing things like teaming it with an Azrael and a Havsa, is really worthwhile because an Azrael is going to want a little bit of help some of the time
+brute forcing his way through face tof face roles and it adds a specialist to a list. There's a link rather there's just a whole bunch of reasons why one seban really good addition to any given list.
+Now, there are some other wild cards that you can theoretically add to QK lists, but they aren't wild cards that
+23 minutes
+add a troop type. For example, Rouani doesn't count as anything. The Corsan doesn't count as anything. So, it's the Havsa, the Burkut, Leila, Lashmi, and
+kind of the Sakban. Those are our polyvalent building blocks. We're going to combine those with some kind of a
+cool gun. And in terms of cool guns, we start with the special deterrence group,
+Azrael. Now, these form the basis of a Quapu Calky fire team along with some other different options. And what what a
+gun. My goodness. Limitations. Just to note, ballistic skill 13. No visual modifiers, no immunity to any modifiers,
+just ballistic skill 13. However, ballista skill attack SR minus one,
+ballista skill attack, continuous damage, and your choice of a burst three back or an AP heavy machine gun. This is
+a cannon to kill god and even a yumm has to be scared of being born down on by one of these things. I have tested both
+of these profiles and I've got a little bit of time for each. The ballistic skill attack plus one burst Azrael if you can afford the extra points. I do
+kind of like because that plus one burst doesn't apply just to the flareback. It also applies to the chain rifle and AP heavy pistol, which means that you can
+push this guy up the board and use him as a close assault piece because if he rounds the corner, your opponent is staring down either burst to BS attack,
+SR minus one, B attack continuous damage chain rifle or all of those same modifiers and the link team special die on the AP heavy pistol. At short range,
+that AP heavy pistol on the fairback Azrael is rolling three dice and one special dice and is damage five armor piercing continuous, which again is a
+piece that can kill a yumm at short range. There are not many guns like that in the game. However, having gone back and forth between the two, I do think
+the default I am more likely to take is the AP heavy machine gun. There are two reasons why. Uh the first is that it is four points cheaper. That's actually
+25 minutes
+quite a lot of points. that adds up over the course of a game. And because it's continuous damage and damage four, I'm still comfortable using that as an ARO
+piece if I need to. Anything that is scared of the flareback does still also need to be scared of taking one hit and
+failing multiple saves against the AP HMG. The other reason is that burst is still burst, right? Burst five is still
+more than burst 4. And because the Azrael is rolling at ballistic skill 13 with really no modifiers apart from
+maybe shooting through white noise against a marksmanship or visor trooper,
+even with diminishing returns from extra dice once you get past a certain number,
+I'm still more comfortable having the burst five or burst 4 plus 1 than the burst 3+ 1 on the fairback. Just anecdotally, having played with both
+profiles, I am running Kapuki as an efficiency ccentric army. The four extra points can go a very long way in terms
+of making upgrades to certain things and it's got just that marginally higher chance of winning a face-to-face roll in active turn. Both are still very good
+pieces though. Even with the addition of the iguana to Qk, you still want linked firepower pieces that are threatening to
+theoretically anything. And when the Azrael connects, it's just a power fantasy in terms of the damage that it can do. Now on the other end of the
+spectrum, but also part of a Quapuki fire team, we have a Jan Bazan. Now these guys come with the really
+significant caveat that they are ballistic skill 12. Even the heavy machine gun firing four dice plus one special die. It is very easy to have
+ballistic skill 12 let you down or take a little bit longer to secure a kill than you would like. But smoke shooting
+is still really good in N5. And these are the things that you have access to if you want to do smoke shooting. And it is very easy to have a fire team that
+consists for example group two jambazan heavy machine gun lash me and a habsa that gets you the special type bonus from fire team size because the team has
+two oddisks in it. And provided you are shooting through smoke at a target that doesn't really like shooting back. Spray and prey will get you some connections
+with that heavy machine gun. And having done that, there are a few things about the Jambazan that are still cool and interesting. Shock immunity and
+regeneration on 13s is actually really kind of neat and forces your opponent if they put one wound in the Jambazan to try and find a way to put a second wound
+in because you do know that they will come back 2/3 of the time otherwise. And armor three is just enough to occasionally spang return fire from
+something like a thunderbolt that gets lucky and crits. And finally, warhorse is a very relevant skill. There's quite a few models in the game that might be
+trying to apply a negative modifier to you in reactive with ballistic skill attack minus three in the hopes of dropping even smoke shooting ballistic
+skill down. So for example, something like a Hetkari shooter. You smoke shoot a Hetkari shooter and it will usually return fire because it's got ballistic
+skill attack minus three. But the Jan Bazan comfortably ignores that. And between warhorse and multisual visor level two, the only skills that can
+impact a negative modifier on the jambazan are albo and equivalent. That's really solid. It means that the ballistic skill 12 is almost always
+going to be ballistic school 12 and not further negatively modified. It also just randomly makes the jambazan one of
+only a few models in a game that are just good killers extraordinaire. And I like that. I like being able to completely merk a good because getting
+completely annihilated in one volley should be the natural fate of all goods as a punishment to nomad players for
+taking a relatively expensive piece that can't claim cover. Now ultimately we will discard the bulk of Janazan profiles. We're not here for the hacker.
+We're not here for the doctor. This is copalki. We will get our fire team bonuses from other pieces. But the AP sniper rifle and the heavy machine gun
+are both potentially viable options. And while I think in absolute terms it's a fair appraisal of Jambazan to say that this is not especially efficient
+profile. We have such efficient main firepower pieces that don't have things like visors that to complement them we
+want something that has say an MSV2. And so even though it is a slightly inefficient piece, the Jan Bazan's role
+in the army as the only MSV2 shooter that we have nevertheless makes it highly valuable. It's the kind of unit
+that wouldn't get a lookin in many other factions. Any faction, for example, that had access to things like an intruder HMG would choose to take that instead.
+But we work with the tools that we've got and in Qk that's the Jambazan. And so it's well worth taking for that reason. Now jumping from Quapukali fire
+teams to Janiseri fire teams, we have Janiseries. These guys picked up ballistic skill attack minus three in the N4 to N5 transition. And that
+collectively makes them just some really premium heavy infantry. Not quite no frrills, but close enough. There is very
+little about these guys that isn't purely focused on, hey, this is a good gunfighting model. They're a little bit on the expensive side, but not
+untenably. And what we get for the package is proper ballistic skill 14 in a fire team. Excellent. Fist 14,
+willpower 14, both of which we could probably dispense with, but nice to have. Armor four and BTS6 and proper two wounds. Excellent. This is a full heavy
+infantry chassis. And it's got blistic skill attack minus three. And all profiles have a heavy pistol. And there are a variety of viable profiles here.
+Now, my personal preference is to take just one janiser with a big gun. For me,
+most of the time that means the heavy machine gun also randomly has a pulsar.
+That's really nice. Takes the heavy machine gun and just spools up burst five on 14s with BS attack minus three.
+But if you are looking for a dedicated ARO piece in this faction, you can really give some consideration to that missile launcher. It can be very
+difficult and annoying to try and suppress the Janisary missile. It's putting this stack minus three. It is relatively durable. It's also a
+religious troop. Now, that has pros and cons, but it will stand and keep shooting if you wanted to. You just need to find a way to recover it, which is
+usually going to mean a seban who can join Janisary fire teams. And if you combine that with a Havsa, you have multiple different sources of two types
+of the same trooper. But that is a setup that I prefer with the heavy machine gun because the sackband gives you NCO,
+which you are going to use repositioning a heavy machine gun for active turn firepower. You are not quite as likely to use the Sakaban's NCO order
+repositioning a purely defensive missile launcher generary, but it is still well worth considering that the missile launcher exists. This is also a fire
+team that can be a core. So there is nothing stopping you from taking, for example, a Janisary HMG, a Janisary
+missile launcher, two Havsa, and a SEban. That counts as having four of the same troop types because the Havsa count as enoseries which gets you to ballistic
+skill 15 and gives you an NCO order, a very dangerous dedicated ARO piece, a dangerous dedicated active piece. Like
+that's just solid. Now moving that around, five person fire team. Little bit tricky, especially given that they are 44. The whole fire team is 44 and
+that is the closest thing have to a significant malice apart from the fact that none of them have cubes. But we're plus 17 doctors. You'll be fine. And so
+these guys kind of are our premium modifier heavy infantry gunfighters and very good to have. Also just kind of a
+call out for the janiser lieutenant with AP rifle, light shotgun, and firewall.
+Now this is not an always trooper. Most of the time you'll just take a havsa as your lieutenant, but every now and again there will be some kind of a mission or
+a scenario or some sort of pressure that makes you want to just have access to a lieutenant who can either fight or go
+active or do something like that. Maybe it's biotech, maybe it's a custom scenario like hammer of dawn which is being played at Burn City Brawl in
+Australia in Melbourne later in this year. And if you decide that you need a lieutenant who can fight and remember we have 20 point chain of command havses in
+this faction then the tinbot janisary lieutenant is your best choice in faction for that. So don't forget that
+exists even if most of the time we'll be taking one big gun janisary and then a variety of support elements to fill out
+the fire team. Now just as a final note we aren't covering every possible fire team. We are not going to be covering Kaplan for example, but for the sake of
+completeness, I will mention Drew's shock teams, which you will mostly run just as a network extension duo. I think
+these guys have primarily been obsoleted by Lashmate. She isn't quite as good at firing pictures as they are, but she's good enough and she joins fire team so
+much more easily. But you can run a Jew Drews duo of just a pair of hackers, 23 point killer hackers for example. And
+34 minutes
+while they are not outstanding killer hackers, they have X visor and a ballistic skill 12 and pitches and are linked. They don't quite cross over into
+the threshold of truly efficient because you do need to take two Drews and that's 46 points for a pair of willpower 13
+hackers. But if you absolutely want to just spam repeaters out everywhere,
+these guys can fire off four shots in a round before reloading passively off of a baggage bot at the end of turn. And with the special die, X-fisers, and
+ballistic skill 12, they're pretty likely to hit three out of those four every given turn. Again, I think they are mostly obsoleted by Lashme, but they
+are something to consider, and some people will have a soft spot for them.
+And now, finally, Link team's kind of done with. Let's talk about the iguana. Boy howdy, what a glow up. Now, frankly,
+it's not really making a comparison before and after because we are concerned in this video with QK as they are now. And as they are now, the 64
+35 minutes
+point iguana is one of the selling points of the faction. Now, the iguana is a proper main battle tag. tactical
+awareness, 64 movement, ballistic skill 14, only an AP heavy machine gun, not a multi-heavy machine gun, but it more than makes up with that by having
+secondary armaments in the form of a plus one burst heavy flamethrower and a mine dispenser. You've got plenty of access to baggage and incentive to add
+it into a list if you have a linked pitcher in Qk. So, you will often be able to use that mine dispenser to create layered equipment only defenses
+by throwing out pitches and mines and just creating these little pockets of hell that are impossible for your opponent to get through at no cost. Now,
+all of that kind of by itself would be reasonably attractive, but it doesn't stop there. This is a model that has ECM
+hacker, excellent, and is just packing a repeater. It's packing a repeater on both of its forms, which makes it an extremely durable repeater and a
+repeater that is going to move around the board with a lot of mobility because it's six for move and tactical awareness. If you need to move forward
+and hold a position, the iguana can do that exceptionally by itself by moving up, laying some mines, being a repeater,
+and then having a heavy flamethrower and a gun that can go into suppressive fire.
+and it doubles down on that ability to hold position by being the only good model with an escape system in the
+entire game. Now, normally only armor 6 BTS6 that is low for any battle tag of
+this size, but it's transmutation. You get the first three wounds as the full
+tag form. And then once you've taken three wounds in that order, the escape system triggers puts down an eclipse
+zone and replaces the tag with the operator, which is basically just all of the same things as the tag. At that
+point, the way the structure/vitality system works, it effectively turns into a one wound, no wound incapacitation,
+37 minutes
+HI, which means that you have effectively about five wounds to play with on the iguana, which is more than any other model in the entire game. Even
+the Gorgos in Toha does not have quite that level of resilience, although its armor is a little higher. And you keep the CM hacker and you keep the repeater,
+your ballistic skill is only reduced to 13. Your first movement value is still six, making you the only 62 heavy infantry, I think, in the faction. No,
+there's also mobile briata, but they can't link and we don't care. Your close assault actually in some respects gets better because you don't have heavy flamethrowers, but you have a plus one
+burst light flamethrower and you have a plus one burst AP heavy pistol, which means that you can now fork that attack by going, do you want to dodge? If so,
+I'll hit you with this heavy pistol. and you still keep tactical awareness and you're still a repeater, which means that the heavy infantry is doing enough
+of the work of the tag that this is basically a five wound model. And that's that's just really really cool. Now,
+there are absolutely things that can pull an iguana all the way to dead in one turn. Inside Quapuki, we have something like the Azro, which is
+actually capable theoretically of doing enough wounds to put something like an iguana down. Perhaps over the course of two firefights, do two wounds and then do three. That's very possible for a
+piece like an Azrael. Also, if it gets got in close combat, nothing was really going to save it. The fact that the eclipse zone pops is not really going to
+do anything for it. It's just going to make it easier to kill in CC. But with those very limited limitations, the fact that this is the most durable repeater
+in the game on a solid fighting platform that is mobile and contributes to your defenses and keeps going and going and
+going and holds a position is just collectively one of the selling points of Qk. I have used this guy multiple times. Totally unsurprisingly, he is the reason why I finally been like, "Yes,
+now is the time for me to play Kapuki."
+And even in games where I have just pissed about and played him terribly, he has absolutely performed. There is a flaw under the iguana that is higher
+than many models in the game. Now, 64 points. You expect that to an extent, just a joy to play. Now, for my money,
+if you're getting into QK, I actually would say the iguana shouldn't be your first purchase because I think the model looks a little bit like dog water. But
+happily, the Scarface miniature is incredible with the resculpt. You can just buy him and use him as every silhouette for silhouette 7 tag you
+might use. And you might even occasionally use him as Scarface. Now,
+since we're talking about tags, I guess we should talk about all of them, or at least some of them. There are, however, four tags you can choose from in Copui.
+We have access to, in addition to the iguana, Scarface, and the Shakush, and the Trip Hammer. You can do some very janky and amusing lists that play
+multiple tags mostly as a or exclusively as a meme. They are things to bear in mind and Scarface is a piece that I have an affection for, even if frankly he is
+outco competed by the iguana in this faction. Still, just bear in mind, he is technically the best close combat model that we have. And there's nothing
+40 minutes
+particularly wrong with him, apart from the fact that he's just not as cool as an iguana. I will also just very briefly mention both the Shakush and the Trip
+Hammer as tags that can duo and get duo bonuses. I don't think there are many lists where you realistically would try
+and do this. As much as a build your own pseudo HRMC is kind of fun given the points differential between an iguana and a shakush is just not that high at
+six points for the HMG version of the shakush versus the iguana. You're just going to take the iguana most of the time. That puts pieces like scarface and
+the shakush more as a hm I'm going to play more than one tag. And at that point actually I could genuinely see a
+Scarface and iguana list just flexing on the tags in Quapukali. But most of the time it's going to be the iguana is the
+model that we are playing. And all of these extra tags are at best also rans.
+Now that's our fire team units. That's our tags talked about. Let's now talk about all of the interesting independent elements that don't form part of fire
+41 minutes
+teams or our tags in Kapukaki of which there are plenty. And we're going to start with the Yan. These guys have been part of the core identity of QK kind of
+forever and their fortunes have waxed and waned significantly over time. In N5
+they are in a good spot. Now most of the time these are just kind of like utility warb bands. They have fizz 14 and smoke
+grenades. That can often be all that they are present for. They throw some smoke down to get you up the field or to allow your jumpers to shoot through
+smoke. That might be all they do and you paid six points for that and that is totally fine. They do have a little bit of performance spike potential though
+mostly off the back of okay they can combat jump. Most of the time you probably don't want to combat jump or parachute these guys. I have tried it.
+More experienced QK players will have an eye for when that is the right play.
+I've even had some good results occasionally, but in practice, what I have found is that I mostly want to treat these guys as regular war bands
+42 minutes
+with little spikes of mobility thanks to super jump jet propulsion. This makes them effectively 64 warb band pieces because they have perfect maneuverability with jet propulsion.
+They just get the extra move from declaring super jump and that lets them go places and do things that other war bands sometimes can't. Now, where they
+struggle is capitalizing on that. They are CC-22 but with no martial arts or special CC skills. They have a chain rifle and a heavy pistol. Usually, it's
+the heavy pistol profile that you will take, the cheapest one, but that does sometimes put them in a position where their lethality just leaves a little bit to be desired, but they're six points.
+They're six points and there's a limit to how much you can expect. And thanks to booty, they sometimes just randomly roll up four armor or a HMG or on a very
+good day, grenades, and then you have a Fizz 14 grenade trooper that is super jumping forward into a position. In fact, the best performing Yan that I
+have personally had was one that rolled up grenades and killed a Cahoo duo, a motorized bounty hunter, and a Fagazi
+drone bot just lobbing grenades over different walls. So, you have a very variable performance profile with these guys, but just at minimum, chain rifle,
+six points, super jump, propulsion, and smoke grenades. Very happy with that.
+You should usually have a couple of these in any given QK list. They are cheap. They will do effective things.
+Just bear in mind that if you really absolutely need to kill something, these guys are at best going to be okay in close combat and at best going to be
+okay at forcing trades with chain rifles. And they are more of a utility and mobility piece than a real killer.
+Next up, a model that you will actually want to use usually parachutist very occasionally combat jump is bashy bazooks. Now, bashies were a profile
+that kind of occupied a firm position in the jank tank for most of Infinity's life cycle that they've been around
+because hollow projector and hollow mask just do be that way. What has changed for them in N5 is that they've gotten
+combat jump, but they've retained parachutist and those are not skills that are badly overcosted anymore. And this has allowed a bunch of changes to
+the general profile, just the addition of weapons that make them a competent attack piece. There are a number of
+pieces here that you could theoretically consider. My personal favorite is the contender plus one burst, boarding pistol plus one burst. What you have
+here are a few things. Firstly, that is a three dice contender that can just walk on in something back arc and fire off three shots with T2 rounds and just
+randomly score a kill thanks to even on heavy infantry thanks to those T2 shots. If it has to get up close,
+notwithstanding the range bands of the contender, you can just transfer your fighting over to the boarding pistol,
+which can be used either as a burst three attack at close range or a burst template. Now, Atlas is skill 11 that isn't setting the world on fire, but if
+you are taking really advantageous attacks thanks to being a parachutist or a drop troop, you will have situations
+where your low ballistics doesn't matter because the trade that you are threatening with a two template boarding pistol template attack is just really,
+really good. These guys are one of those pieces where the look, they are absolutely going to be games where your opponent is able to just stop them from
+turning up or trade them out for a deployment zone template piece or something like that. But they are so cheap at like 14 to 16 points. That's
+the same price that some other factions might pay for an entire warb band model that the flaw for their performance is that they make a reasonable trade and
+die. And the ceiling for their performance is that with relatively few orders, they kill something that's much more expensive than they are. And I have
+a lot of time for that. The only thing that would make Bashy Bazooks absolutely perfect and which they don't have is that despite being a combat jump model,
+they don't have super jump jet propulsion. But given how much else they've got going on, I can't really be too mad about that. Also, don't forget
+that they have armor 2, which if they're in cover randomly will save their life against stuff like combi rifle return fire. And if you get the opportunity,
+absolutely do use the hollow mask hollow projector, hollow projector in particular, to sweep out and clear enemy mines. Now, these guys are not a profile
+you should put in every single list because mostly for scenario reasons, sometimes you just won't have space. You'll need to be doing other things,
+especially in very demanding scenarios like stuff like evacuation, for example.
+You are often just going to need every single order spent doing the scenario or fighting your opponent. that having say a parachutes off the board for a couple
+of turns and then coming in to do a trade doesn't fit well into the rhythm of play for that scenario. But despite that, look, a lot of the time bashy
+bazooks, they just offer such a high roll potential. Their performance spikes can be so good and their performance flaw is totally reasonable for a 14point
+model. I like them a lot and do not sleep on them in this edition. Not a model for every single list, but a model for many. Next up and in a pretty
+similar vein, we have Corsan Corsair of the gate. Now that's a lot of profile. I want you to ignore all of them except
+for the very last one. Corsan don't link particularly easily in Qk. The FTO's are technically wild cards, but they are one of and nothing else counts as a Corsan.
+So basically all of this is not particularly relevant. You might get some mileage potentially out of the cheap drop air profile, but I'm not
+really here for that. What I am here for is a parachutist deployment zone. That's a really, really powerful skill. Now,
+Corsan capitalize on it. Okay, there are more powerful deployment zone parachuters in the game. Absolutely,
+there are more powerful, but there aren't any that cost 21 points. In fact,
+in terms of models that do that kind of thing, either parachutist deployment zone or impersonation, which are sort of
+comparable skills, the Corsan is the cheapest in the entire game. The only thing that is comparable is a graph operator and it's carrying an S SWC
+cost. The Corsan is not. And the Corsan is theoretically availability three.
+Probably don't take three of those, but you can absolutely run lists that have a pair of deployment zone parachutist Coransands that just attack attack off
+the back of like the first one exploits gaps the second one makes. And they're not terrible at making those gaps.
+They're not fantastic, right? There are limitations here, but they've got ballistic skill attack minus three and boarding shotguns. They've also got CC
+attack minus 3 and CC 21, which is probably not something I want to use terribly much, but you could do
+something like run them into close combat to tie an enemy model up and then leave them there. That's a way to neutralize an ARO that you could genuinely consider. Most of the time
+you'll want to be trying to find people out of cover using a combination of 62 move parachuters deployment zone and climbing plus and take two dice on 17's
+boarding shotgun attacks against someone ideally that is dodging on a negative six because of the zone of control penalty and attack minus three and just
+trying to do damage and make a mess. Now where these guys will falter is just against a really prepared opponent that is able to stop them walking on at all
+or just have templates in place to trade out for them. 21 points is not like a bashi bazook at 14, right? Abashi bazook
+can take that trade and be reasonably comfortable that they have sold their lives in a worthwhile sense. 21 points for a course is a little bit more
+difficult to be comfortable in that, but the high watermark of performance for any parachuters deployment zone is it won me the game. And so they're well worth considering for that reason.
+Finally, we get to our midfield infiltration elements of which there are two in Q. The first and the most common
+is the Alhawa unit. Now, there are some advantages and disadvantages to these guys that position them as an okay
+midfielder. But having at least an okay midfielder in numbers is still a nice thing to have. It's just worth being aware that when we start talking about
+the Hwa, this is where the limitations of QK begin to expose themselves. Now, I like these profiles, but they've got kind of a ceiling to their performance.
+Ballistic skill 11 is just not going to do terribly much. It's very easy for that to let you down and so don't really think about these guys as assault
+elements, but they are midfield specialist and there are lots of scenarios where having midfield specialists is good. I personally
+particularly like well frankly either of the hacking profiles, but the killer hacker is often one I will take most because I have Lashmi and Leila Sharif
+to do my regular kinds of hacking. And while they are BTS0, which is a little bit frightening to go after an enemy hacker with, they are willpower 14. They
+have surprise attack. They have hacking killer hacking devices that is plenty fine for attacking through a pitcher that Lashmi has laid and securing a
+kill. They've also got dechargers and cyber mines, both of which actually are kind of nice to have. Cyber mines are
+very serviceable in this edition if you need to just secure a location. I've used these guys in scenarios like Bpong,
+for example, to crawl forward to an objective, lay a mine on the way. Just make them a little bit more annoying to dislodge than they might otherwise be.
+And there will power 14 specialists.
+There is absolutely nothing at all wrong with that. And Dcharges can even occasionally do a classified or might even be able to lay a Dcharge on the occasional immobilized enemy unit.
+Mostly though, 22 points, willpower 14 midfield specialist who contributes to your hacking game. That is totally fine.
+where these guys sort of begin to fall down a little bit. Is I would love to have access to a pre-laid minefield and the mine layer profiles are a little bit
+bloated. 21 points is not the end of the world. Neither is 22, but you are paying for things you're not going to use
+terribly much. Ballistic skill 11 grenade launchers, I mean on a jackal, that's excellent. On a 21point Alhawa,
+less so. The shock marksman rifle kind of the same deal. You will occasionally get kills your opponent did not expect by having a model on a rooftop stand up and back shoot something. Cool. Yep,
+fair enough. But 22 points for a model that is mostly going to be a random order generator and a mine layer is just
+it's less efficient than many of the very efficient things QK otherwise has access to. Still, we don't have that much choice in Q when it comes to
+midfield. And so for that reason, any of the specialist Hawa profiles, be it the 19 point cheap as chips forward observer, the 22point killer hacker,
+right? Any of these might see play because willpower 14 midfield specialists is just a highly valuable role to have filled in an army. Now,
+we're going to go through two more pieces, kind of vanity picks, but worth considering. One of them is freelance operator Samsa. This guy is in a really
+weird grab bag of factions, but he's being mentioned here because he is your only piece apart from Alawir with infiltration, and sometimes that will be
+relevant. He is technically an infiltrating specialist. He does not have camouflage. He's got decoy instead,
+which can leave him a little bit exposed, but he's a ballistic skill 13 matism 3 plasma rifle. By this point in the channel's life cycle, I feel like I
+should not need to extol the virtues of plasma. It is the most joyous ammunition to use in the game. And Samsa, he has a
+significant tendency to do something really cool and then die. And especially if you're going second and you need a
+midfield specialist, the ha is just a much more consistent option. But plasma and 62 move super jump is extremely
+cool. So samsa is a model that you should bear in mind as a ah I've got 26 points left in this list. What can I
+spend that on? Ah, that's the exact kind of case where sama is a model that since you have already filled all of your other bases, right, since you've covered
+everything that you need to, if you can then squeeze Sam in, and you will sometimes be able to, that's when he's a really cool piece to include. Finally,
+more expensive and more of a build around, but a piece I want to cover in at least one of these videos is Fiddler,
+Arista's extoy maker. Now, this weird kind of thing happened in N5 where we had a period at the beginning of the
+edition where climbing plus was kind of just bad and didn't work particularly well. And between that and the fact that
+Vulcan shotguns no longer had template modes, a lot of people just sort of wrote Fiddler off as bad. And then
+Corvis Belly fixed Climbing Plus and now it works really nicely again. And no one's really come back to reevaluating pieces like her. Now, yes, it is still
+absolutely true that Vulcan shotguns don't have template modes anymore.
+However, do you want to know what kills things really effectively? Just running Vulcan shotguns at them and having multiple models making rolls against them so that they can't face to face all
+of them except by dodging and you just kill them with armor-piercing continuous damage shots. Anyway, now 43 points for the full kit of Fiddler is expensive,
+but we were just talking about how the iguana is an awesome model at 64 points in part because it's bringing five effective wounds to the table. Now,
+there is a very big armor difference,
+but Fiddler is effectively four wounds for 43 points. That's not a bad ROI and she's dangerous and you absolutely can
+still have situations where she rounds the corner and just absolutely mercfing and the jackpots. Now, you need to be a little bit careful there because yes,
+your opponent will usually try and zero out her because if she dies, the jackpots go down, but she can put seven dice into an enemy between her burst
+three contender and each of the Jackbots's burst two Vulcan shotguns.
+And there's basically like one thing in the entire game that can come close to matching or exceeding that, and that is
+drummers in Panosania. And do you want to know what's more vulnerable to a face-to-face role against the controller than Fiddler? It's single wound
+drummers. Fiddler at least has no wound incapacitation and critical immunity,
+which makes her very difficult to put down with just a random combi rifle coming back at her or even something like an armor piercing round from an AP HMG. She's very good thanks to critical
+immunity at surviving one facetof face roll and that lets her at relatively low risk put seven dice into the enemy. And
+again, we're talking things in this faction that are a threat even to yms.
+She's also a specialist because she's an engineer. Because she's an engineer, you can start doing things like putting a total reaction board into the list. And
+finally, thanks to being 6'4 move and climbing plus, she's highly mobile in a way that especially your link teams in this faction aren't because we got lots
+of 44 models in our fire teams. Often the only things that we are really efficiently attacking with in Qk are
+either Yan or the tag. And so if you can find the points for her, having Fiddler as a rapid offensive unit fills a gap
+that otherwise there aren't necessarily things that easily do that inside Q. Now ultimately 43 points is a lot of points.
+It can be difficult to find that in this faction without making some significant cuts. Often it'll mean downgrading or displacing perhaps one of your fire
+teams, which you may not want to do. But just keep an eye on her as an element for inclusion because probably more in
+Qk than in just about any of the factions she can otherwise join. That ability to move quickly with mobility into the midfield and absolutely slam
+something lets you make plays that you can't easily do otherwise in Qk. And
+with that, let's jump into our showcased list for QK to round out the episode.
+Now, this version of the list is a very slight change to one that has featured previously on the channel in a game of Quapuki versus Kestrel Colonial Force in
+Bong. and it's basically just making some light tweaks in order to fit in a Bashy Bazook, which I wanted to include and which has performed well in the
+games that I've used it in. That does come with the cost of having probably a few more irregulars than I would like,
+which really strains command tokens in this list. You will often consider, for example, not using Speedball because you will be converting Yan orders a lot. And
+if you want to have a cleaner regular count, all you need to do is cut the Bashy Bazook and a Yan. Those points can
+easily be spent on cheap regular orders like a shakush pilot which will benefit the iguana. Another fuse remote that'll let you get the Azrael back up to aback
+and you'll have at that point a really clean regular order count. But I am a bashy convert in N5. So the bashy is in.
+Just be aware that that's a limitation on the list. So what we have here is starting completely unsurprisingly with an iguana. It is really good. I would
+not be doing you justice if I didn't put an iguana in a showcase list because it's a showcase case piece for the faction. It can in this list duo with
+Leila Sharif. Don't feel like that's mandatory, but if this is a mission that you're playing it in where you have to get specialists up towards midfield
+buttons, for example, we've got a number of options to do that, but one of the ways is to use the Iguana's tactical awareness order as it's laying some mines to get Leila forward. much of the
+rest of the time you can easily just leave her in the back of the deployment zone where she serves as a six sense effective hacker denying stealth etc for all of the reasons we've spoken about.
+We've then got a threeperson Kapuki fire team consisting of an Azrael, a SEband doctor and a Havsa. In this version of the list, after a little bit of testing,
+I have found that I prefer for this configuration the Azreel AP HMG. It's been a little bit more consistent. It mostly takes long-range gunfights
+because our close assault needs are being born by the Yan, the Bashi Bazook,
+etc. And it combines nicely as you would expect with the SEband Doctor and the Havsa. Just to note, if you need to if you need to have the SEband somewhere
+else for some reason, you absolutely can. You can have Lea Sharif join that team instead. And then it's Azrael,
+Leila Sharif, and a Havsa. That's a two-person team because of the Gulams,
+the Havsa and Leila Sharif still giving you the bonuses to the Azrael. And if you need to free up points elsewhere,
+that's one of the ways you can free up like 23 points in this list. I like the Sakman, but this team doesn't need to move around terribly much. So, you can
+dispense with the NCO order, and 23 points gets you things like, for example, a Alhawa in the midfield. We've got one H though, it's a Ha KHD. It
+forms part of our hacking network. I think the ideal like minimum good quality investment in hacking in N5 is two models that can do Trinity and two
+1 hour, models that can do regular hacking. And with Leila, Sharief, Aawa, and Lashmi,
+1 hour, who we'll see in group two, you've got all of those covered. We've then got one Fuse. Now, there will be three deployment zone repeaters in this list cuz we have the Aiguana, one Fenuse, and
+1 hour, one Camille. That's enough to give you basically total deployment zone coverage. But if we do things like Cut the Bash, Bazook, and Ayan, we will
+1 hour, usually get another deployment zone repeater in, which is kind of nice just for defenses. You will note that there's nothing like any total reaction bots in
+1 hour, this list. The defense is kind of thin against a really dedicated attack by a heavy enemy. We're hoping to stop them with a combination of things like
+1 hour, sacrificial yan and hacking at close range. You have to keep your hackers alive through enemy counter measures.
+1 hour, For that reason, use depth to defend them. Keep them in positions where they can't easily have a pitcher dropped on their head cuz our defenses here are
+1 hour, limited and occasionally a bit sacrificial. We've then got two Yan and a Bashi bazook. Three irregulars is a lot in this combat group. That's why I'm
+1 hour, 1 minute
+talking about one of the ways you can change this is to get more regulars in.
+But I love me war bands and I love me bashy and they've done good work in game so far. Combat group two, we've got a fire team that consists of a Jan Bazan,
+Lashmi, and Ahavsa. Now, if you can find points in this list, one of the things you could genuinely consider doing is cutting the Jan Bazan. I like it and it
+does do smoke shooting and we have lots of smoke in this list. But a really nice piece to change it with just for consistency, not being bound to
+ballistic skill 12 and a bit more robustness. It's not terribly much more expensive to get a Janisary into that position instead. You need to find seven
+points, which is going to require doing things maybe trimming the midfield back a little bit, perhaps cutting the sack band. That's a way to do it. And that gets you a proper big gun ballistic
+skill 14, five dice, ballistic skill attack minus three, which is its own negative modifier and is extremely serviceable for doing things like downing enemy TR bots just as a
+consideration instead of the Janvazan. I like smoke shooting, but you can absolutely change it with competing pieces if you can find the points in
+this list. We then have Lashmi and a Havsa. That Havsa is our lieutenant, but either of the two Havs could be your LT if you want to change things up if your opponents get used to your lists. And
+because Lashmi and Aavsa are both wild cards who count as odelisks, anything that they join gets that fire team bonus. Finally, we have another Yan
+taking us up to the maximum AVA of three in Qk. Remember again, you can easily cut down to two Yans and still be fine.
+And a Camille. You do absolutely want baggage in lists like this because Lash Me and the iguana both benefit a lot from being able to reload. Some of the
+games I've had with QK where it's been just a bit more difficult than I'd like to attack into a really well-defended opponent, I have gotten through them by
+just making a hellscape in the midfield of mines and repeaters, which has force my opponent to unpack and expend resources, dealing with stuff that is
+ultimately replaceable and free, which has finally allowed openings for me to grapple with them. Things like Kestrel,
+for example, in N5 just defend tremendously well off the back of cheap,
+effective jackal mine layers and good quality gunfighters everywhere. And I've found some success in really just forcing them to come forward and grapple
+with all of your before they can get to the squishy center. And so baggage is just really useful in having endless supplies of that to
+throw out. It's not the early N4 era of turret spam, but it is still very good and it fits QK really well. Overall,
+this list is the kind of list I was talking about when I was rattling off all of the things you can fit in a QK list in N5. Multiple big guns, good quality hacking, network projection,
+tons of deployables, loads of warband pieces, a decent quality midfield specialist, a parachutist, a main battle tag. Like there's so much that's going
+on in here that even if you lose one or two pieces, you've still got loads of capability to fall back on and there's basically no mission up to and including
+biotech for that I would say this couldn't do. I think it's a good showcase of some of the awesome stuff that can do, the flexibility and the
+breadth of options QK have in this edition and I hope it's given you a little bit of incentive to give them a look. Now that wraps up this video
+
+Second video:
+----
+Hello everybody and welcome back to the channel. Today we're taking a look at Kapocali, a Hakaslam sectoral who plays very different to its other brothers
+within faction. Where a lot of the other Hakaslam sectorals really focus on a camo game, some kind of shell game,
+hidden deployment, Capaci's trickery goes in a very different direction and in a very fun direction where you're focusing more on smaller uh more
+efficient link teams that can put up some pretty significant firepower. You got some pretty unique tools in the faction like white noise and drop troops
+like Yan and Bashy bazooks that make you able to engage with your opponent in much more varied ways with much more
+varied vectors than a traditional Hakislam army can do. They're very different but very very fun and I think
+they're a faction that draws a lot of people in based on just how exhilarating it can be to play Capocaly.
+Now, before we jump in, be sure to also check out Rob's recent Capocaly faction focus uh for some deeper and likely
+better thoughts on the sectoral, but be sure to finish this one off first uh and then go and eat your vegetables by
+watching Rob's video. It's just linked down in the description.
+So, what defines Capaci? Kappa has very efficient and flexible fire teams. Uh in
+a kind of modern meta where duos are very very important. Kappcalky's whole fire team chart is really based around
+duos and making very effective duos. One of their key units the Hapsa has I think
+about four keywords which means it as a unit interacts very well with the fire teams at large. Capocali also gets two
+hares teams, which while not necessarily as impactful as it was in N4, is still a really nice thing to have and can lead
+to really unique builds and combinations of models. They've got quite a high standard of gunfighting for Hakislam,
+not only being a being in being able to make those shots initially, but also in terms of AP and actually trying to melt
+something to the ground. This is really exemplified in units like Janiseries where the faction can make very very
+cheap fire teams involving Janiseries where other factions are spending much more to do so. And that's a bit of a
+pattern throughout Capocaly as well where you're paying generally a slightly lower cost to get an outcome than a lot
+of other factions would do. But then for gunfighting, you've also got very good aggressive MSV2 as well as some good anti-armour pieces as well.
+While you've got these really nice guns,
+you've also got these different vectors for engaging your opponent with a lot of parachutist and quite a good guided strategy as well if you want to include
+that. Capocali also has the potential to put a large amount of mines and deployables out in the field as well,
+which makes them a pretty fun army just to be able to shoot whatever you want out there, be able to engage how your opponent how you want. And in some ways
+they're a bit similar to Corriodor in the way they can kind of rock paper scissors and choose how they want to do that engagement. They do have a few
+drawbacks though. They've generally got quite a poor close assault game. They've really only got Yan in terms of and um
+uh Roers in terms of CC units who aren't particularly good. Uh and then past that you're really relying on some other
+parachutist to do some damage up close or heavy infantry with shotguns. So you don't really have those good units who
+can run into an objective room or run into a deployment zone and really go crazy with a sword or anything like that. They're also generally quite a
+slow sectoral. Uh you've got very little in the ways of super jump or in movement that's not just 44. So you really need
+to be focusing down on those quicker pieces if you have very mobility based tournaments or mobility based missions
+that you're aiming to conquer with Capocaly.
+In terms of defining units, Laxmi has been a recent pickup for Capualkki and brings a hacking device plus with pictures, which means that Capualkki now
+has white noise, which is a very special tool for Capocaly that the other hacklam sectorals don't gain access to. And that
+means that Kapoki can kind of get an edge up in those gunfights against particular units. You've also got
+Jambaans as mentioned before who carry that MSV2 and through smoke are able to really get quite good odds on units that
+again other units in the other Hakaslam sectorals may not be able to do. Yan are pretty key to the strategy uh as they're
+your war bands and also drop troops as well. You can take up to three of them in Capaci and I have taken all three
+before to quite good effect, but they're a key unit in that they serve multiple roles within the faction uh and are also just very fun to use. And then speaking
+of fun to use, sort of the poster boy of Capaci is the Azrael with his continuous plus one continuous damage across all of his weapons, whether it's the AP HMG,
+the foyer, the chain rifle, the AP heavy pistol. He's known to be a very deadly unit so long as he can connect and we'll explore him a bit more a bit later.
+So some notable changes from N4 to N5.
+The duo bonus has greatly aided the way Capaci can build lists with one exception and we'll talk about that one exception when we get uh in the sectoral
+review proper. Uh but essentially the way Capaci is set up in the fire team chart, they can very easily jam two units together and get a very flexible,
+powerful and efficient fire team with not many slots or points really used. So the whole duo meta very much has aided
+Capualkki in the way you can set up its lists. And really, if you want to,
+6 minutes
+excluding maybe your Yan, you can have a QK list where every unit is reasonably linked and is doing quite well being in
+said link. The addition of Laxmy, as I mentioned, it's revolutionized the faction. Having that white noise is a great step. And then everything getting
+cheaper has sort of had a disproportionately beneficial effect on Capukali because everything being that just a little bit cheaper means you can
+fit in more duos, more hares teams and really kind of get the maximum out of that efficiency. The reduction of sixth
+sense is also very beneficial to Capocali where their smoke shooting is a lot more reliable and white noise shooting can be very rarely resisted.
+But your active guided play is a little bit worse than it otherwise would be and some of your pitchers are worse than they were in N4 as well. Uh and it is
+important to note though that pitchers do have a better rangeband and you do have access to Xis or pitchers. Moving on to the structure of a cup of
+calculus. Usually you're going to have an aotment for your irregulars and off the table troops. Two is quite safe. Uh
+three is sort of pushing it a little bit. Uh, and four is hard, but genuinely very doable. In Capaci, you're usually
+picking between Yan, who are your AVA3 warb bands. Uh, and you'll quite often be taking at least two of those. I'd
+consider two of them sort of the minimum in a list. bashy bazooks who have a number of very good aggressive profiles
+and who sort of shore up your close assault deficit uh and have a ton of utility with hollow mask and hollow echo
+that we'll talk a bit more about later as well. And then finally, coar sands do have a deployment zone DZ profile which
+if nothing else can put your opponent on edge. And usually you can run I'd say about up to four of these collected
+profiles. I think five is probably pushing it too far, but I think I have seen a gapy list uh that has run many
+many many irregular and off the table orders and has done quite well for itself. Uh and you know this is to say
+these drop ships sort of have a compounding effect on each other because they're all so cheap. I mean the corsand's the most expensive at 21
+points. They're also cheap that each one you send through, it's going to get easier and easier as each drop troop before it kind of makes more and more
+way for the next one. In terms of your link teams, you're usually going to have a Jazan duo for MSV shooting where you
+can usually take a sniper and a heavy machine gun, uh, which will do you quite well both on active and reactive. You can also just take a hassa and any model
+that it shares a keyword with whether that be a janisary and you can slap a Ford observer halfser on there. Uh
+whether it be uh an odis or lax me you can slap a hser on there. Sect bond slap a halfser on there. It doesn't matter.
+Then hares teams. They're usually being built to provide a special die to a pitcher or buffing up a gun that doesn't have a keyword. A good example of this
+might be the Azrael who while being a very good gun doesn't have the keyword just to make a quick doer happen or with
+the Drews where you don't necessarily want to take two of them. In terms of your cores, you're not really running cores in Capaci. You can run a gulam
+core in a pinch uh if you very much just want you know the bits of utility you get from there but I'd say it's outside
+of maybe uh the hacker or the plus one command token lieutenant you're not really looking at ghoul arms but you can still
+build some nice ree teams off of that base where we've got some keywords again and then the the kind of the more interesting thing for me is that
+janisary cores aren't really out of reach where your hses do have those keywords you can be taking a missile launcher, a heavy machine gun, then a
+couple halves, uh, and some kind of hacker, and that'll be a really nice core and a very strong core shooting at BS15. And then you've got some solo
+pieces as well, uh, with units like Sam and Fiddler who are really your only fast specialists in the factions. And
+then also your suite of tags who are very well supported and fit very well into Capaci.
+So without any further ado, let's take a look at Infinity Army. All right, and here we are in Infinity Army 7 with the
+Capocal Key fire teams chart. As you can see, we've got unlimited duos, two Heres teams, and a core. Your first fire team
+here will be the Gulam fire team, which while you may initially think this is one of your primary fire teams in Caprical, really it's not, but it's
+still something that's nice to have. You need a Gulam and you can include uh Aquacils
+uh Odelis Seekbon and then any wild cards as well. I very rarely use this to actually build a core, but I do
+sometimes if I want a plus one command token Gulam for example, but there are some nice wild cards that can go into
+here uh to cut quickly down to the wild cards. You've got Hapsa who counts as Gulam. Lea Sharif counts as a Gulam. So
+you can very easily get you know say a gulan doctor lea sharief and then something else on top of that that's not a bad hares at all but the real money is
+down here in the capaci fire teams uh where they can be a duo a hares or a core so you need any of an odeliskban
+jamb bazan or azrael to form this fire team uh and there you can see the odelisk and the seban share the capacely
+tag uh there's no one else sharing those tags in this list down here. But again, if we go down to the wild cards, Hes count as
+Odelisk, seban, and janiseries. You've also got Burkut who count as seban and Laxmi who counts as an odisk. So really,
+when you look at this Capaci fire teams, you can really do quite a lot with it.
+Now, the most popular ways I like to do this is get an Azrael, get uh Laxi, who
+counts as an Odique, and then a Hapsa who counts as an Odique, and that's a very nice little Harice team. You can just slap two John Bazons together in a
+duo, which I quite like to do. You could take say a secbond doctor with a Burkut light rocket launcher uh for a very
+resilient uh little duo that can go around and have a bit of fun. But there's really quite a lot you can do with these teams. You've also got the
+Rafi remote who can plot around with the team and that's pretty fun. Uh but
+really mixing and mashing these units here with some of those wild cards.
+That's really where Capaci sort of comes into its own and is very special. Then we've got the Zulu fire teams, uh, which
+are essentially your armored fire teams that require a shakush, triphammer,
+iguana, scarface, specifically load out alpha or cordelia to form. And then a rafi, these units can join on that, too.
+Usually, you're just using this to either strap a specialist to an iguana uh or do something funky with
+tags if you want to. I mean, you can strap two trip hammers together to make a pure duo there. That's something that's a bit of fun in Drew that you can bring to here as well. Then you've got
+the Janiser's fire team, which is essentially how you get your linked guns with the Janisary. Uh, as you saw before, the Hapsa has the Janisary tank,
+so it can join onto a Janisary to make get that duo bonus up and running. So,
+you could really do something like Janisary, uh, Hapsa, uh, Ford Observer,
+and then Wild Bill. And that's a very good and very functional arise team.
+You've got the Drews teams next and they're the ones who really suffered uh with the changes kind of from N4 to N5
+or essentially to get a duo bonus onto a Drews. You either need to take two Drews, which you don't necessarily want to do. You have to take arsen, which you
+also don't necessarily want to do, or then you take a Hapsa and a Burkut,
+which while fine, is quite expensive uh just to get a picture on that Drews. Uh but it's it's not necessarily bad. It's
+just it doesn't feel fantastic. Then Kaplan, they're another sort of weird little unit, but again, with how good
+your uh wild cards are, you can usually make something work there.
+And going on to the wild cards, Hapses and Burkuts are the main ones, but Laxby and Lea Sharief are really there where
+you can kind of glue them onto anything to start building your network. And then Corsand and Rahooni. I'm not finding myself using them as much, but we'll get to that as we go.
+All right, so first up, the humble Gulam. Again, you're not really that interested in Gulam in Capukali. you're
+really only interested uh for say the doctor potentially the hacker and then
+if you're really wanting that plus one command token lieutenant the NCO grenade launcher which is a favorite in other sectorals doesn't really have as much of
+a place in Capaci or Yans give you quite good smoke and if you are wanting that true grenade launcher you've got a
+better unit for that and if you just want an NCO you've got a better unit for that as well so the Gulam grenade launcher not really as used and
+neither are Gulams as a whole and you've got a little weird thing here with the Corriodor Aguasils. This is very much a legacy holdover. You should never take a
+Criador Aguasil. You have no reason to ever take a Corriodor agil.
+The next up we've got Odelisks. These guys are one of your link soup models and are more of a defensive piece. Uh
+really you're looking at them for a plus one burst flash pulse uh with some you know pretty nice weapons in terms of
+16 minutes
+pulsars for a template. If something runs into CC with them they're I mean that that's kind of bringing it down to a coin flip and they're sort of tough
+but really they're not doing an incredible amount for you. Uh, in terms of what profiles I'd look to take if you
+just really want to play an Odique, I like the flash pulse just because of the whip 14. It's quite a good little defensive piece with that shock immune,
+no ending cap, sixth sense, and combat instinct. I'm also a fan of the contender as well. I'm not really into spending swick on a Spitfire, though
+Kapoelki is not a swick intensive faction. I'm much more looking at the contender here just because again
+Odelisk's not exactly uh not exactly the bees knees.
+Then we get to the halfsa unit and this is the start of what makes capocali really quite good and where you should
+consider them more as your kind of base line troop.
+So looking at the HSA, you've got a few profiles here with the standouts in the wars really being that chain of command,
+the FO and the lieutenant. The lieutenant is going to be your lieutenant most of the time. You don't really have sort of aggressive
+lieutenants who you'd rather take. And usually it's easier to fit these guys in in terms of slot compression and efficiency over a Gulant lieutenant.
+You'll occasionally take the chain of command just if you're a little bit worried about your halfs lieutenant or if you did want to take one of the other
+lieutenants like rland if you were crazy or something. And then the forward observer is just a very cheap profile to
+whack on the back of a link team that otherwise maybe wouldn't have any kind of specialist. So that's quite nice.
+Uh the Spitfire I'm not so big on. Uh,
+but the heavy rocket launcher honestly is is pretty decent. Uh, especially if you sort of go if you do want to build out a Gulam core. Having a heavy rocket
+launcher, pump it up to BS13. Maybe you disguise it as a uh Gulam missile launcher. Your opponent thinks they've
+gotten under you, then no, you surprise them with the HRL. That's something you can do. And because I didn't make it clear, the big thing here is hollow
+mask. So this is where your trickery really comes from in capaci cuz when you deploy anything you deploy that's S2
+could be a HASSA. So you can present uh quite scary units. One that I like to present quite a lot is a mobile regata
+hacker who's really just a Hapsa linked in other units like Laxmi or Leila and that's really going to disincentivize
+someone from trying to throw a picture down and enter your network. Uh otherwise you can, you know, make them look like much scarier guns or
+reconstitutive specialists. That means your opponent might look at it and go,
+"H, they've got a doctor there. They've got an engineer there. I don't want to put in all that work." Uh, and then of course you can disguise arrows and guns
+19 minutes
+as well. Uh, it's also good to note with the Ford observer just, you know, whip 14 burst to flash pulse pretty nice on a
+hollow mask. uh if you do kind of bluff out a longer range that someone tries to sneak under, it's probably a little more
+risky, but there's lots you can do with the hses.
+So, next up, the Corsand. These guys are pretty unique as some of your only quote unquote fast units with move 62, as well
+as really being your only unit that you maybe feel okay going into CC with. You don't have any bonus dice. You don't
+have any martial arts. just have CC attack minus three, which is marginally better than what the Yan swinging. Uh,
+and you've only got a you've only got a shock CC weapon. Um, but what you do have instead is you've got plus one
+burst chain rifles as a quite nice profile. The drop bears profile is quite nice as well. And I'm never going to say no to grenades, you know me. Uh, so
+those are three decent profiles. And really, if you've got a little duo uh that you expect to move up the board,
+you can just chuck a coran on the end of that and kind of have that be the point of the spear to go around corners or just be a pain to whatever comes across you. The BS attack minus three is nice.
+But then outside of the FTO options, the real star of the show is the Corsan parachutist deployment zone with boarding shotgun who suddenly makes that
+BS attack minus three. Uh very, very dangerous.
+in the face of being shot in the back or out of line of sight uh or just being able to walk into ARO pieces. So, this
+is really where the Corsan more shines is in the parachutist deployment zone.
+And it's not something you take every game. I think in a lot of ways bashy bazooks are better than corons, but even
+just that threat of having that Corson is going to put mental load on your opponent. it's going to make them want to turn around those uh some of those
+pieces in their DZ. And if they're not prepared for it, well then sometimes it might just be there. So the Corsson,
+it's a nice little piece. It's not as sort of popular or faction defining as you might think just by looking at it,
+but it definitely has its place in Capocaly.
+Next up, the engineers. Um you will take them. uh you can run two TR bots in Capaci which is a very nice plugandplay
+sort of defensive setup that's quite easy to put together and also to maintain as well. Uh important to note with these engineers, they don't have
+deactivators uh which I found to be a little disappointing uh in games I've played with them and it's really not worth taking their
+turret being a rifle and not a combi rifle. You can get caught in bad ranges. really not really not great.
+All right, the sword pilot of Allah.
+Just a pretty standard tagcom unit. Uh you can take it if you're taking Scarface or a more aggressive tag.
+Otherwise, I sort of wouldn't bother and they're not really bringing anything fun or extra to the table like say the gator pilot or the salamander pilot from Nomads.
+Then we get to Laxmi and she's she's a very big deal. So she's hacking device plus uh upgrade fairy dust which is
+which is actually quite nice and whip 14 mim 3 which can lead to some annoying shootouts and then mine layer with cyber
+mines and cyber mines are a really really great mine to be putting out there unlike unlike an EM mine that kind of doesn't do anything against warhorse.
+A cyber mine hits everything and also it's a reset against a cyber mine and not a dodge. So you can set up some
+quite nasty forks or end up having someone go in taking a cyber mine hit who was expecting to be able to dodge
+quite well out of a mine. So of course her main role is just to be setting up white noise as well as being a whip 14
+hacker. And she's got a couple of pretty nice kind of profiles she can throw white noise over. And you can usually slap her in a fire team that contains
+that gun you want to put the white noise on. So if you've got an Azrael or a Janisary, you can always slap Laxmi on the back of that. She can provide fairy
+dust to those units and then also provide them white noise in for the active turn as well. So she's really great. She synergizes really well with a
+lot of what QK wants to do. And I think honestly she is one of the staples in a list. I think every list should probably have Laxmi.
+Next up, Wild Bill. Bit of an unfortunate character. Uh marksmanship with BS13 will never not be good. A
+contender is quite good. Same with I mean honestly a plus one damage rifle and multi- pistols. Uh but he just
+doesn't really fit in an incredible amount. You can only take him in Janisary and Kaplan teams. Um and you
+know while he can fit decently in a Janisary team, you're never really going to take him in Kaplan team because you don't have a cheap way to get a bonus on to kind of round out a Harice team. Um,
+but he's he's he's good. He just he's just a very awkward fit. But yeah, I could I could see him in a Hares if you
+take, you know, Janisary, HMG, Wild Bill, Rifle, or Contender, and then a Hapsa just Ford observer to get a specialist in there. Um, but yeah, yeah,
+he's okay.
+Now, another really big part of your hacking network is Leila Sharief. uh really because of that combat instinct means that she can see through stealth.
+So in most capocaly lists, if you're planning to be in the hacking game at all, you probably want to take both
+Laxmi and Leila. Uh and then if you take another killer hacker or another regular hacker, you've suddenly got a very
+robust hacking network just off the back of these three hackers.
+So having a killer hacking device with carbonite means that with that combat instinct, she can threaten a mobility kill on a heavy infantry or tank, even
+if they have stealth, which is especially important in a season with stealth ops. Having just a spare EM mine
+and a BS12 shock marksman can make some things happen on turn three. I've I've really surprised myself in how often
+I've sort of gone, okay, it's turn three. I just need something to die here. The main gun in the link has gone down. Okay, let's send in Ila. And she's
+managed to get a result. So, Leila also one of I think the kind of higher picks in the faction. I would I say autotank
+along with Laxmi. Not quite, but maybe I don't know. Maybe I would. I think I think she is that same caliber with
+Laxmi, especially being so efficient on slots and skills there. I think Yeah.
+potentially most of your list should be taking Leila as well as Laxmi. Uh and then Rahooni, the super doctor.
+Uh he is a bit awkward. He's a bit of an awkward pit in Capaci just where he doesn't provide a any kind of bonus, but
+if you're taking something like Janiseries,
+uh you can stick him in there as a very good doctor because Janiseries don't have that cube. Um he's quite likely to get them back up. Uh, and he's he's a
+nice little piece. He's a piece you'll also put in sort of more utility harasses where no one's getting a bonus,
+but you've got a lot of good stuff going on in there, but I would say probably not taken as highly as he may be in
+other factions, but still quite good where he fits in.
+All right, next up, Fiddler. Uh, who is weirdly important for Capocaly for a couple reasons, uh, and those reasons
+differ based on her profiles. So the super jump profile it's quite important just on the basis of Capocaly not having
+a fast specialist. So aside from Fiddler and Sama. So suddenly if you go from having everyone just being 44 as you've
+been seeing a lot of to suddenly have a unit who's moving 84 who can who's quite a good specialist suddenly that's a big
+game changer. uh fiddler. She's also pretty decent at handling herself with a contender plus one burst as well. Uh and
+also not bad in CC. So fast specialist with some close assault capability is
+something that Kapukali really really appreciates. But if you want to go more into that uh close assault capacity,
+that's when you come down to the climbing plus plus profiles with jackbots who really with that Vulcan shotgun and explosive
+kind of really hit one of your better options in terms of trying to affect some kind of close assault aside from
+Bashy Bazooks, who we'll talk about in a second. So Fiddler, she she varies depending on what faction she's in. And
+I think Capocali is one of the factions she's a higher pick in than in others.
+If you were to say take, you know, Rama doesn't really necessarily want or need Fiddler. Uh but Capocali really really does.
+Next up, the Bashies. So the Bashies are hollow mask and hollow projector uh parachutists. uh not combat drums. So,
+they don't have the super jump either,
+which is a bit of a shame, but what they do bring is essentially a big bucket of murder. Uh I've played I've played a lot
+with kind of the various different kinds of bashy bazooks. Uh but they're sort of one of the ways you get a close assault is with a bashy bazook. Uh they're also
+really good for doing things like clearing minefields as well uh with that hollow projector uh which is which is really really nice and having that
+surprise attack neg 3 just on that first shot uh can make all the difference. So I really I really prefer the two essentially just murder profiles which
+29 minutes
+is the uh T2 boarding shotgun and AP boarding pistols with a plus one burst.
+So this boarding pistol is absolutely brutal. What it is is it's 37 AP templates. Uh so that's likely to give anyone a bit of a run for their money.
+The boarding shotgun's extremely deadly as well having that T2 ammo. And that's pretty similar to the plus one burst contender where usually you're shooting
+someone in the back with a batchy. Uh so I I usually I go more for the T2 boarding shotgun. Uh just cuz I like to
+be in there and getting that close assault off. Also having AP on the boarding pistols is incredible. Now,
+there's nothing wrong with any of the specialist profiles. Uh, I quite like the EMIN profile and the breaker rifle profile. I just think for the role I take them in, which is really close,
+aggressive assault, which QK lacks, I'm really looking at these two. But the Bashies wasn't really sure how they'd perform kind of at the start uh of N5,
+30 minutes
+but they've been they've been monstrous.
+You you can check out my recent tournament report uh to see how the Bashies did. I took Abashi in every single round of that five round event and they were fantastic.
+Next up, war corores. You're not really going to take them much in Q. Uh you have Yan, you have Bashy Bazooks. You
+can't really afford to be wasting a regular slots on a war core and everything's sort of cheap enough to where you really shouldn't need a war
+core either. We'll move on quickly to the Drew shock teams. Now in any other faction, these guys would be absolutely
+fantastic on the back of X Visor pictures. Now with Laxmi picking up pictures and
+Drew's actually being somewhat below par in terms of hacking in Capocaly where we've got whip 14 killer hackers with
+inbuilt firewalls or some with surprise attack. Drews sort of aren't nearly as
+good as they used to be. uh partially just on how annoying it is to get a link bonus on them. So the killer hacker
+device, the killer hacking device with the picture, that's really the one you want to be looking at. Uh and your options are either to pick up aren't
+as terrible as he used to be, but still probably not ideal. Maybe you look at one of the grenade launcher profiles as
+that's still something interesting and a different sort of attack vector and way.
+Kapli can do that. Uh, an interesting thing maybe,
+you know, you could spotlight a unit and then specfire it. That's sort of a weird off-g guided strategy if you don't want to bring a guided bot. But then there's
+also just the shock marksman rifle who's really not awful. Uh, it's sort of a sort of a lastm minute kind of turn
+three unit to push with. App kind of a a minus one burst spitfire if you would.
+Uh it's really really not awful. Uh but again, my preference is to get a Burkut light rocket launcher and a Hapsa to
+kind of be able to move up the board and get those Xisor pictures down with the killer hacking device. But compared to other factions that do have Drews,
+Capocaly isn't necessarily as high on them as you might think. And that's mainly to do with Laxmi being much more linkable and having pitchers as well.
+But Drew's still quite good.
+Next up, the Jambazans. Uh, now these units are really quite nice uh despite their BS12 due to having that MSV level
+two and Warhorse is a really nice defensive skill these days as well where a lot of BS attack neg 3 is around on
+some of the more popular units in the game at the moment. Then being shock immune with regen and arm three also means that sometimes they can kind of go
+up and down. I had a game where my opponent knocked down a jambazan three times and he was able to get back up three times with that regen. So here I'm
+really interested in the AP sniper rifle and the heavy machine gun. And I usually just run these guys as a duo. Just have
+that AP sniper rifle up in ARO and then the heavy machine gun for the active turn as well. There are a few other
+profiles of note though and having a a pure hares team of jambazans is nice because it means they're discover
+shooting camo markers really really well. So having a warhorse hacker it is a bit expensive but it's nice to have.
+It's also a good thing to pretend to be with a heapsa as well. Uh you've also got the uh doctor who's blleh I mean
+you've got regen you can take a bit of doctor elsewhere. Uh, the Red Fury is okay again if you're low on swick, but you sort of shouldn't be. And that's the
+same with the shock marksman. But really, I'm running the HMG as an active gun. The AP sniper as an arrow piece.
+They're in a pure duo. And you can slap something on the end of that if you want to. You know, you can slap Laxmi on the end just to give uh special D to the
+pitcher or you can slap a halfer on the end uh to kind of bluff a warhorse hacker. There's a lot you can do there.
+So, next up is the SEC bon. Uh, and they're they're very simple in a sense.
+They're BS13 with NCO, and that's sort of what they're known for. Uh, the most popular profiles I'd say is the doctor with the boarding shotgun, the Spitfire,
+and then the heavy rocket launcher. Uh,
+but I think these guys I think these guys are slightly overshadowed. Uh, but they do link
+pretty nicely. And I'd say really I'm just looking at the boarding shotgun. Uh doctor plus three who's sort of just
+similarly as good as Rahooni but gives NCO and gives a keyword links a little bit better. Uh the heavy rocket launcher
+and Spitfire are fine. But if you're looking for a cheap either of those, I'd really be looking into a different unit.
+But the NCO is quite nice. Uh as in Capocali, you're usually not using the LT order.
+So, next up, Security Chief Arsen. Uh an unfortunate unit uh in the sense of, you know, no winding cap, but no shock
+immune. Uh but he's he's sort of he's got a niche with the disco baller, which is something you otherwise don't have.
+Um not that you necessarily need it because you've got smoke and white noise. So, I generally avoid Arsen. He's
+not unplayable by any means. Um, and he's he's a unit I considered uh in the most recent tournament I went to just
+because there was a custom mission that wanted you to have an LT who could run around a bit, but ultimately security
+chief Oslan not really a unit you're going to go to for a normal mission or normal mission setup.
+On the other hand, uh, freelance operator Sam is another really, really important piece to Capukali. Again, just
+on the back of being 6'2 with super jump, which means he's quite fast. Uh,
+he's also quite deadly as well. A plasma rifle with Mim 3 and surprise attack on the first shot. It's really quite good.
+Plasma is a very brutal uh a very brutal ammo type, and him starting halfway up the board is a big positive as well. So
+Samar, he's a unit I'd I'd be taking quite highly. He's not an auto pick. Sometimes you just don't need the speed,
+but he's one I'd be looking at quite often when building lists. Whether you need a killer or a specialist, he does
+both quite well. And he's really the only unit in the faction who starts up the board who is also capable of taking some heads as well.
+And now speaking of units I would preference if you're wanting cheap swick weapons. This is sort of where the Kaplans fit in over the SEC bonds.
+Though the SEbon does have BS13, I'd really be preferencing the uh the Kaplins as they do of that MIM minus 3. And
+really here I'm liking the heavy rocket launcher and the Spitfire uh just purely on their price point. If you're wanting a good gun in Capualkki,
+those really kind of start at about the 30 point mark where you're getting into your heavy infantry, where you're getting into units like Janiseries,
+Azraels, Burkuts. They're where your very good guns are at. And the SEbon,
+it's okay. It's fine just being BS13 no mods, but I really do prefer having the BS12.
+Uh, now the heavy rocket launcher light shotgun, it's only 20 points. It's a very flexible piece that you can either
+use on ARO if you think you need that extra gunup or you can use an active where we've seen sort of multisspectral
+visors go down a bit in popularity uh as as as I may have discussed in previous
+videos. Um, but look, the Spitfire is also quite good just as a weapon to push with because outside of say Fiddler with
+her contenders or SAMA, you don't necessarily have units that want to get into those mid-ranges ranges and move up
+the board and you can sort of build QK lists that sort of never want to leave their DZ and that can present its own
+challenges, but the Kaplan is a unit who very much is happy to get out there and move. So, the Kaplan is a bit of a niche
+unit, but that's where I think it fits in as a cheap gun over the SEbon. Uh, so
+yeah, look, I I don't mind the Kaplan at all. I used to have a pretty down opinion of them, but after putting them on the table a couple times and putting
+them in lists and kind of how they fit into list building, they sort of make a lot of sense as sort of a place to be in
+the faction. Often I'll be making a hares team where I just take my Kaplan of choice uh and then two units who
+share a keyword in the wild card section whether that be you know Leila and Hapsa or Laxmi and a halfsa or anything along those lines they fit in pretty decent.
+So now we get to our hi and our hi is really where kind of that kind of higher standard of gunfighting in capacely can
+be seen. So, we start with the Janisary uh who's got BS attack and egg three and just 14s across the board in terms of
+stats. BS14, Fizz 14, whip 14, and two wounds. He's a very nice little guy to run around and cause some havoc with.
+Uh, and really, he's got two profiles I'm drawn to, which are the heavy machine gun, who's just a great active primary gun. I mean, if you if you just
+read the stats of the Janisary, he looks like a pano unit. He just shoots that good. And then also the missile launcher. Now the missile launcher not
+just as an ARO piece, but can also be used uh in an active capacity in a pinch as well. He's got enough stats to pull
+it off and enough kind of tankiness behind him that if it goes wrong, he probably won't suffer too badly. And you
+can also make bigger teams of Janiseries because of those halfs keywords as well.
+So you can take something like Janiseri missile launcher, Janiseri HMG, two Hapses and say Laxmi and that's a very robust and very deadly fire team.
+Next up in terms of main guns, you've then got the Azrael uh who is an absolute manmeter uh held
+back by just being BS13 no mods. You've got the AP heavy machine gun who is I'd say the preferential unit if you're just
+wanting an active gun. Essentially with the Azrael, you really just need one shot to land and then be able to burn out from there. And having an extra two
+burst over the foyer if you're linked up uh is really valuable. Um, but you can
+also link up the foyer buckach and then that's a burst for foyer as the Azrael has BS attack plus one burst on that
+profile which also means a burst potentially for heavy pistol and a true burst to uh chain rifle that's very
+deadly. So uh and really I I take the foyer buckach quite a lot. Uh if I'm also wanting kind of an off arrow piece
+he really excels at that. Five armor is really quite hefty. And again, if you can land one of those foyer box shots,
+you're likely to melt to the ground whatever you've hit, which is really,
+really nice. So, the Azrael a very nice and a pretty a pretty key unit as your main sort of armor busting weapon. Uh,
+the Azrael's very much a go-to in that respect. So, the Azrael and the Janiseries, there really are two main guns outside of getting into your tanks,
+but you do have some other heavy infantry that are more in sort of a support section. The first one of these is the Burkut, who's a Mim 3 noending
+cap engineer. Uh, and I really do like the light rocket launcher, plus one damage. As we discussed, Capacely
+doesn't necessarily have a huge amount of pieces that want to push up into the board, but one really nice little duo that I'm a big fan of is a Burkut light
+rocket launcher in a pure duo with a seban doctor. The Burkut can keep taking fights. If something goes bad, he can
+get patched up. And having that submachine gun is very nice as well because it means he can just sort of come around the corner on something and
+spray something down with four SMG shots.
+Uh there are some kind of other profiles that are good as well. Uh quite like the boarding shotgun plus one burst and
+panzer fast is quite nice as is the SMG and plus one burst heavy flamethrower.
+But those are you are spending almost 30 points per unit on those which I don't quite think is worth it. So really if
+you're taking the Burkut I really really like the light rocket launcher but not necessarily many of the others. They're still good profiles to disguise Hapsa as
+uh quite a lot as well because Hafsa and Burkood both have the seban keyword.
+They can give bonuses together, but the non light rocket launchers are just a
+bit expensive. Engineer is a really nice skill though. You can sort of deploy one near one of your TR bots if you're going
+second and sort of pick up that TR bot on your way out. It's a nice little incidental thing to have. Uh, and you can also kind of, you know, put one in a
+team with a rafik or in a team with one of your tags. That's where you might look at kind of the more close to solid ones if you're gluing one of these to a
+tag. But otherwise, I do really like the heavier the light rocket launcher. The last up, the mobile riata. Um, so these
+guys, they don't link. Uh, is the big shame. And you're not really wanting any of these profiles really except for the
+Tinbot Neg6 hacker uh who's a very nice thing for the apps to disguise as and occasionally just to put in a link in a
+list. I think if you're wanting to run a guided strategy, uh, well regarded Timbot hacker is not a bad idea just on
+the basis of having a very resilient hacker to ensure that your opponent can't essentially scalpel you out of your own strategy just by killing your squishy one wound no armor hackers. So,
+if you're running kind of a more dedicated guided plan, which Capacely can absolutely do with pitchers from
+Laxmi and uh Drews, uh the Mo Rea are a really great pick there.
+So, getting into your tags, first up, we have the iguana squadron, who is uh yeah, he's he's easily your best tag
+in Capaci, and I think Capaci is really his natural home in Criador. The swick spend is just too much for a model who
+can also take some arrow duties. But the iguana here is really quite nice. It's a tag that's very very hard to hack. Uh
+and you can also put fairy dust on it with lax me as well cuz she is that upgrade. So certainly you can have a tag that's neg six to hack and has a
+repeater on it as well. Now, this is uh structure 4 with no ending camp, but is
+an escape system tag, meaning the pilot pops out after the iguana takes three wounds. Uh but the pilot does carry over
+any wounds and any states taken. And there has been a time where the my iguana has been hit by some weapons and
+has just gone all the way down to straight to dead. And in that instance, the operator doesn't pop out either. So,
+it's an AP heavy machine gun with BS14.
+So, it's your other really nice anti-armour gun next to the Azrael. It's got a heavy flamethrower plus one burst,
+which is quite nice. But then the main draw is the shock mines. Now, the shock mines are a great little piece. One thing that tags can struggle with is if
+your opponent's null deployed and they're just sort of there's group two, there's the tag, it has all the orders,
+you can sort of just not really have too much to do with it. But with the Iguana Squadron's mine dispensers, you can just be shooting mines all over the place
+defensively or offensively. You can shoot out some mines before you round a corner to have them go off and really not be kind.
+Uh the iguana operator uh has specialist operative, but it's important to note that you cannot choose to eject the
+pilot like you did in N4. So, the iguana really has no specialist capacity until it's taken a certain amount of damage.
+Uh, and I have played a couple games where I've tried to suicide the iguana so it takes wounds and becomes a specialist. But really, when you're
+looking at the iguana in this way, he's one of the better tags to put in a duo of some kind just so you can have that
+specialist go with you. I really like taking Leila Sharief uh who can use that uh repeater as can lax me to put that
+white noise straight through it and kind of throw out pictures in the midfield though I'd probably rather her be back with a special dice somewhere or a
+burkood who can just escort it as an engineer and also do that bit of close assault. Uh the iguana it's it's quite a good tag.
+Then the Shakush, who is unfortunately just in a bit of an awkward position of the heavy machine gun sort of just being
+the continuous HMG very much being overshadowed by the Azrael who has an AP continuous heavy machine gun. So, it's
+not one you're going to see very much at all. Uh the AP Spitfire is interesting.
+Uh but if you want to take an AP Spitfire on a tag, that's really more where Scarface comes in. Uh, now
+Scarface brings along Cordelia, who's a nice little engineer. Uh, and taking taking Cordelia used to be kind of a
+liability because she didn't have a turret option when turrets could be reloaded, but now that they can't be reloaded, she actually quite a nice
+little piece. Uh, comes with Mim, a combi rifle, and a boarding pistol. So,
+if she gets attacked, she can actually do something about it. And Scarface can just stomp around and be merry. So, the main thing with Scarface is he's only
+BS13, but he sort of makes up for it with a bit of close assault capacity. In terms of what profiles I like, I like
+all of them. Honestly, I've done extensive testing with all of them. They all have their place. The Mach 12 and heavy rocket launcher has a very kind of
+holistic assault unit who can stab someone from, you know, 32 in up to 0 in. Scarface can do something about it.
+49 minutes
+The AP HMG I would say is somewhat overshadowed by the Azrael again. Uh but it's still a fun little piece to rock
+around with. But really the AP HMG is more for factions like Drews and Aari who don't have that ranged AP. But then
+if you're thinking of taking the Shikush for the AP Spitfire, I'd much rather be taking Scarface who's got a plus one
+burst AP Spitfire and kind of all of this up here. Uh if you're taking Scarface, I'd really look at taking the
+pilot uh just to give Scarface a dodge of a 14 cuz he does actually really appreciate that dodge. Uh otherwise,
+he's got berserk plus three, which is really nice. Uh you're you're not berserking into any CC specialists, but a 10-in berserk on a 25 with a plus
+fourC weapon, it's quite nice. And of course, him being able to [ __ ] out his little turtle mech to kind of go do uh
+objectives up field where he's running anyway is quite a nice capability.
+Then trip hammers. Um I mean they sort of got a place kind of like they're doing Drews where you can
+just take the AP Spitfires or the heavy shotguns and just run them into people.
+I think usually I would rather take Scarface. Uh, but you can also pure duo uh the trip hammers as well, which is
+which is somewhat funny. Um, but really again, I'd be looking more to Scarface for their role.
+Uh, Rafik remotes, you can link you can link only the Red Fury. Uh, a sensor is something is actually quite nice in
+Capocaly or you don't necessarily want to walk into a cam field like other uh armies can. But yeah, there are it's got a it's got a better home elsewhere,
+mainly in Rama, I think. Uh cuz here it's not really doing it.
+Now, one special thing is you get two shabib remotes in Capaci as I mentioned.
+And I think, as I said before, taking two Shabbotes and some kind of engineer uh makes a very easy plug-and-play arrow
+setup with a Jamba Bazison sniper uh and can really be more of a hassle than your opponent anticipates as
+they're a unit who is very unlikely just to get blown off the board and you can sort of just pick them up after they go down and you're pretty happy with that.
+Uh the HMG you actually do sometimes take in Capaci just because you have the
+leftover swick and it's again you don't mind putting marksmanship on a HMG remote in Capaci but it's sort of kind
+of a background sort of strategy. You're mainly taking these two Thunderbolts and an engineer and you're feeling really good about it.
+Uh yeah, guided remote. You can do a very good guided in Capaci. You've got the pictures, you've got the whip.
+You'll have a great time.
+Three fuse remotes is really nice. You don't really tend to need them as much in N5 as you maybe did in N4 where stuff
+is sort of cheap enough now to where you don't really feel the need to take three all the time. But you absolutely can if you're going very heavy on heavy
+infantry. The fuses can be really nice uh as repeaters and orders as well.
+Helper bot's a helper bot. And this I I would call this a baggage faction. Uh you've got the iguana who's got the
+mines. You've got Laxmi and Drews who've got the pitchers. And yeah, they they really don't mind having baggage around
+at all. An EVO hacker is very nice uh just to help out your Yan, which we'll talk about in a second, your drop troops. Uh, but it's not something
+you'll take every time. Uh, but the the baggage is always quite nice. Then the Alhawa. These guys are really quite good
+as a very cheap uh little piece. Mostly I'm looking at the killer hacking device just being whip 14 with surprise attack with Trinity being a very good hacker.
+And also having cyber mines and a boarding shotgun kind of offsets that BS11 a little bit. Uh, the mine layers are the mine layers are funny,
+especially the grenade launcher. I remember a slow grow, I took I think three Alawa mine layers and just coordinated grenade launchers and that was pretty fun. But otherwise, yeah,
+look, you're really looking at the killer hacking device. You can take the regular hacker and the FO as well. And the Yeah, I don't know. The the the mind
+layers are kind of funny. I don't think they're necessarily as good as they used to be, but you can absolutely take them.
+They're a good unit to put on suppressors somewhere if you really need that defensive equity. Then Yan, the heroes of the faction. Uh,
+I really like taking the heavy pistol one personally, but that is very much personal taste. You may prefer the DACC weapon, but these guys are absolutely
+vital to your game plan. I'd say you're probably taking at least two of these in every capucculist and potentially the
+full three. I have run the full three before where you can start two on the ground and one in the air and that's a pretty nice combination. But usually you
+are starting these guys in your DZ just to help you provide smoke. Sort of similar to how they function in JSA Oan.
+If you've played Oban or played against Oan, that'll give you a pretty good idea of how the Yan sort of behave in
+Capuccal lists. Uh you really do want to stay away from these two profiles. tells me the boarding shotgun's blleh, but you're never wanted to take this rifle.
+These two profiles are really the ones you're going to want to take. And then the last unit in our list, the Zback
+Arrow unit, an Albido 6 BS12 Spitfire smoke grenade launcher, who you will
+never take. Albido just isn't as universal a modifier as something like Mimatism or BS Attack 3. and you have
+white noise. So, you really you really don't need to take the Zback. Uh it does kind of pop into the operator,
+which ironically makes it better at shooting cuz suddenly it can take cover.
+But yeah, again, unless you're having a bit of unless you're just having a bit of a [ __ ] around, I really wouldn't be looking at the Zback.
+So, let's now take a look at a couple of example lists for Capocali. on the left here, uh, one that's sensible, and on the right, one that's slightly less
+sensible, but still a lot of fun. So, on the left here, this is kind of a very generic Capualki list of a mix of units I generally really like to take. So,
+first up, we've got the Bashy Bazook with that T2 boarding shotgun and uh, AP boarding pistols. Really nice units. Uh
+it's done quite a lot for me and uh you can take a look at the tournament report uh posted uh a few weeks ago to have a
+look at some of the work it's done for me there. But it really shores up that close assault. You've got those triple AP templates and having that hollow mask
+and hollow echo uh can really lead to some lines of play that you wouldn't otherwise get with other drop troops.
+Next up, we've got our Harice team of Azrael, AP HMG, Hafsa, Lieutenant, and Laxme. Where in this link, I'll usually
+be masking the Hapsa as a mobile regata tinbot hacker. But if you're coming up against someone who maybe knows Capaci a
+little bit better, you could put in a Janisary with a Timbot or even an Odelisk, something like that. Uh, and
+this team really, they can handle sort of shorter AROS, a bit closer to your DZ, not a main ARO piece because it's not the foyer on the Azrael, but they're your main sort of active turn killers,
+longrange killers with the Azrael.
+Having Laxmi in the team means that you can slap White Noise directly on the Azrael before it stands up or takes a corner against an MSV or marksman unit.
+And altogether, it's a pretty effective little harist team.
+Next up, Sama. Again, just a monster. uh your fast specialist and fast killer as well. He's really really great. And then
+you've got two Yans. I like putting one in each group just so that if you need smoke, you can get it from either group no matter what position you're in. Maybe
+you're shooting with your Jambaans in group one and need those extra orders to be shooting, so you throw it in group the smoke from group one. Or maybe you
+know your Azrael is doing a lot so you want to get smoke from your group two.
+So Yan's both really good. Again, my preference is the six-point heavy pistol, but to each their own. Then we've got a another Harist team of a
+Burkut SMG light rocket launcher, a Drews killer hacker with those beautiful Xisor pictures, and a Hassa. This is one
+of the cheaper and more effective ways to get a special Dion Drews. The Burkut's quite a good gun who's more than happy to push up into the midfield,
+which is something you'd lack uh and can take a hit himself. With the submachine gun and light rocket launcher, he can pretty effectively engage things like skirmishers in the midfield as well.
+Having that burst for submachine gun or light rocket launcher if they're just that little bit further out. Uh, usually in this team you can disguise the Hapsa
+as either a second Drews hacker is a nice way to do it or potentially an engineer or a second Burkut is a good
+way to go as well. But I usually like to set it up as either a second Burkut or a second Drews killer hacker where let's
+say your main killer hacker there goes up gets line throws a pitcher down. You say, "Yep, I'm going to try and killer hacker hack you." your opponent goes,
+"Okay, well, I'll just try and blast the brain of the other Drews hacker." You go, "Okay, beautiful. Your actions failed. I'm getting a free not facetof
+face killer hack here." So, that's a nice little maneuver you can pull there.
+Uh, and then group two, you've got the jumpazon duo where we've stuck Leila Sharif onto the end. And you can see now
+we've got our core with the Azrael, just a three-man team. We've got our second Harice team with the Burkut and now a third Harris team with the Jamba. Uh so
+that's where that extra hares team even though it's very duo focused in this current meta is quite nice. So got those two jambasans. We're going to be
+sticking that AP sniper up on Ara and then have that HMG for the active turn.
+And Leila is just there as a specialist to move up with the HMG in the event that you just need someone to make a
+move there. Lea's also nice as kind of a secondary hacker where group one you've got a regular hacker and a killer hacker. Then group two, you've got that
+sort of combined hacker where you can again be very efficient with where you're spending your orders. We've got a baggage bot there just to be reloading
+the Drews and Laxmi. We've got a guided uh bot because this list can do a guided strategy quite well. And then just a Yan
+to round it out. So in this in this list, we've got a lot of vectors of attack. We've got the Bashy Bazook, we've got Samsa, we've got the Azrael,
+the Jambazan, we've got the Burkut to move at the midfield, and we've got the missilebot as well. So, no matter where your opponent is or how they set up
+1 hour, their defenses, you're going to have a way in with this list. And for me, that's what Capaci is really all about.
+1 hour, Similar to Corriodor, is having all those great attack vectors.
+1 hour, So, let's flip over to our second list here, uh, which is, as I said, uh, less reasonable. Uh, it is a double tag list
+1 hour, with Scarface and the iguana. So, one thing I think Capaci is quite good at is supporting tags. So, let's take a look
+1 hour, at what I've cooked up here. So, we've got Scarface and Cordelia. And we've given Scarface load out Gamma with the plus one burst AP Spitfire and Panzer
+1 hour, Fast and Cordelia we've taken with a Nazmat. So, they're not going to be in a duo. This is so that Cordelia can drop
+1 hour, its little bot. And even if you did want them to be in a duo, you'd need to take a different Scarface. One thing you could do if the iguana and Scarface were
+1 hour, in the same group is you could duo Cordelia with an iguana, which is interesting. But here, she's going to be playing more of a backfield support role. So, we've given her a nasmat.
+We've got a Shabib remote that Cordelia will be hanging out next to while that little bot runs around helping the tanks. Then we've got a hares team of a
+John Bazison sniper, a halfsa lieutenant and laxmi. And the jamb bazan can be used as an active and reactive or just active piece depending on your matchup.
+Uh if you take a look at the albido uh and MSV video uh from earlier, you'll be able to get a better idea of when to
+stick him up and when not to. Then we've got uh a group one and a group two sixpoint Yan who are going to start on the ground. But that seven point Yan
+we're going to start up in the air to combat drop or parachute a stin during the game. Then we've got a Shakush pilot uh just because Scarface as a as a very
+much a forward assaulting tag really does appreciate that plus three to his dodge. Then group two we've got the iguana for a heavy heavy fire support in a pure duo.
+Sorry.
+Then in group two, we've got that iguana in a duo with Leila Sharief where the iguana itself isn't natively a hack uh a
+specialist and you have to wait for that little pilot to pop out where here the iguana can drag around Leila to press
+buttons and also to use the iguana's repeater as well which is quite interesting. Uh then we've got the Camille two for new spots just to round
+out orders and that yan from earlier. So those are two capaculus uh one to get you started and one just to have a bit of fun with.
+So let's look at a buying guide. If you want to get into capaci, what should you be buying? Well, the best box for this
+uh is the new reinforcements alpha box with capacely that comes with a lot of units uh that are really quite good to
+use and also to mass scans. There is an old Capukki starter box, but that comes with a lot of Hapsa, who ironically,
+1 hour, 3 minutes
+while they're in a lot of lists, they're not on the table very often. So, the reinforcements alpha box is a great place to start. Next up, I'd be grabbing
+two or three Yan blisters. You're running two Yans most of the time,
+sometimes three. So, those are definitely your next buy. After that,
+I'd be picking up a box of Jambaan. They can be a little bit hard to find.
+Alternatively, if you can't find any boxes of Jamba out there, find another uh Hakislam medium infantry you like the
+look of and they'll do just fine. There are some pretty cool profiles with the Jamba aside from the sniper and the HMG.
+The Red Fury, Shock Marksman, and Hacker are all relatively usable in my opinion.
+Next up, there's a standalone blister for the Azrael, who's a really good pickup as well, just to put that extra bit of ump and firepower in your list.
+And then finally, the reinforcements beta box comes with Leila Sharif, comes with Rahooni and a Hakee, who you can
+proxy as a Bashy Bazook. It's the Hakee is a really, really nice sculpt. So, I hope you all enjoyed. Please leave a like, comment, and subscribe if you did,
+and I'll catch you guys in the next one. Bye-bye.
+

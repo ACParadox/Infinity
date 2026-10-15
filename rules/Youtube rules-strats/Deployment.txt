@@ -1,0 +1,340 @@
+
+introduction
+hello and welcome to episode 2 of infinity 101 this is a web series covering Infinity the game broken down
+to its basic level designed for beginner players looking to move to an intermediate level it may also be of
+interest to intermediate and advanced players just interested in hearing about Infinity broken down in a very basic way
+maybe recovering some Concepts that you're familiar with but I haven't heard expressed in that way in this episode
+we'll be talking about deployment deployment in a very real sense is Infinity's turn zero although we
+classically think of infinity as a three turn game those are three active and reactive turns all of that is predicated on how
+you have deployed how you have set up your troops so in a very real sense deployment is your turn zero and it is
+very important to get right and there are many things about it that are easy to go wrong just out the gate here
+something to note is that this episode is going to be paired with episode 3 which will be talking about defense and
+arrows I'm going to avoid talking about specifically how to do things like set
+up your defenses set up your arrows layer defenses stuff like that in this episode this episode is going to be much
+more basic it's going to talk about how to assess threats before deploying the importance of deploying to defend and
+then just basic good practices when placing your models things like not
+setting up template baits who to use as your reserve troop how to generally position during deployment once we've
+established all of that episode 3 will cover the specifics of actually building a defensive Network during deployment so
+if employment is turn 0 of infinity then step 0 of deployment is information
+Step zero: assessing threats and opportunities
+gathering Infinity is a game with very clear rules around what you are allowed to know these are the public and private
+information rules and during deployment is when you will have the least information but often when that
+information will be most important for those who are new to the game private information is information that your
+opponent is not required to disclose to you and that includes for example everything that they haven't deployed if
+you are going to be deploying first during a game you are going in with an almost but not total information vacuum
+if you're deploying second you'll have been able to see almost but not all of your opponent's list before they deploy
+before you deploy rather this information is what you can use to inform your deployment you are looking
+for threats that you'll be facing opportunities that you can exploit and so information gathering is the critical
+Step Zero that you'll sort of need to continue you and repeat over the course of your deployment and throughout the
+game you are looking to always assess what it is that you know and what you can infer and before and after your opponent's
+deployed opponent deploys you want to think about what information you have that can confirm what threats you'll be
+facing what's still to come what opportunities exist that you can exploit to an extent this requires some general
+game knowledge basically you may need to just run into a threat a few times and potentially lose a game to it or
+struggle against it in order to get a feel for any given opposing Force I can tell you that has a sin for days and
+speculo killers are threatening and scary Troopers but you really need to play into them once or twice to really
+get a feel for how the game changes when your opponent has a model that can literally deploy in your deployment Zone
+but the situation is not hopeless even if you are deploying first in a game and
+you have almost no information there will be questions that you can ask that will give you some hints about what is
+coming and if you are deploying second you will be deploying into a relative
+surplus of information you'll have seen most of your opponent's stuff just not their Reserve drop you'll know a number
+of things that will help you figure out what it is you need to respond to and how to deploy
+so let's move on to actually some specifics here what are some actual questions you can ask in particular
+during the deployment stage that are covered by public information so your opponent must answer and which can help
+you figure out how to deploy so here are four basic questions that I will often
+ask during deployment one of the most obvious ones and one which your opponent actually just has to tell you as part of Lieutenant's role is
+what is your opponent's Lieutenant's willpower when you make that willpower role The Willpower of the lieutenant is
+public information and although it's not always the case different Lieutenant willpower can indicate something
+significant so I've got three examples there different answers from different factions that can tell you something
+based on the lieutenable power score so whip 13 if your opponent is playing svelohima means they have a yotum
+lieutenant that's the only with 13 Lieutenant that I'm aware of in spelerheimer or certainly it's a very popular one and if you're playing
+against fellowheimer you might say every fellowheimer player takes it Yota but that's not true some of them take for
+Kahu and so knowing that there is going to be a yoga coming even before you've
+deployed any models is interesting information similarly and kind of more relevant if you're playing against
+combined Army and they tell you daily lieutenants whips the Lieutenant's willpower is 17 you will be playing
+against an avatar and a game against an Avatar is going to be different to a game against the combined Army player
+running for example a willpower 16 Lieutenant which means another aspect of the EI but maybe a turrented with heavy
+machine gun or maybe anathematic similarly if you are playing against a morat player and your opponent tells you
+they have it with 13 lutenant it means they are bad because they haven't taken konak so the game will be easy these are
+all things that are interesting and useful for you to know another question is and a really important one is how
+many models and markers can you see now this is something that you can just count and if you can just count it you
+may as well ask your opponent about it what can I see on the table ask them to help you with it can I see 14 Troopers
+just deployed raw okay cool that's interesting can I see more than that if
+your opponent tells you that you can see for example 10 Troopers and six models under marker State that's
+16 things which is more than the maximum number of 15 which means that there are going to probably be multiple mine
+layers because they still have a reserve drop you would expect to see 14 in a vacuum so 16 means there's probably
+going to be two mines so can you figure out you can't ask your opponent this but can you figure out where the mines are
+they'll be non-prone rheumatism three camouflage markers does the number of Troopers that your opponent has deployed
+confirm or deny the possibility of hidden deployment or airborne troops if your opponent says yep I have no markers
+and I've deployed 13 Troopers with one Reserve number of reserves is public information then that means it's very
+likely not certain but very likely that there will be an Airborne Trooper so to use the morat example again your
+opponent has said I have a whip 14 Lieutenant cool that means they're a good player who has chosen Karnak as their Lieutenant then they say I've
+deployed 12 troops with two reserves okay so that's an alarm Bell two
+reserves is standard Corner gives them strategios but two reserves plus the 12 they've deployed is only going to be 14
+troops and morats have no hidden deployment and also morats are very if
+they find it very easy to fill up to 15 combat 15 Troopers which means there's probably going to be an airport
+deployment Trooper More arts have got two Airborne deployment Troopers and of them one of them the rasiat has
+parachutist deployment Zone we can't ask our opponent do you have a rasiat but we
+can be aware of the threat because of how many models they've deployed and because we now know that there is a
+possibility that an angry monkey with a Spitfire for example and a close combat weapon will walk on potentially our
+table Edge we can do things like defend our table Edge against the parachutist deployment Zone because we ask that
+question a similar question is what combat groups are the models and Mark because in this is also public
+information it's public information at the point the model deploys and there are a few things that we can get there
+one of them is any mine layer deploying a mine the camouflage marker that is
+concealing their mind belongs to the same combat group as them so you can use this information to help tease out maybe
+where minds are but the more important thing is just it will help you gauge what is going to be most threatening on
+the first turn if your opponent has a 10-5 split and they maybe they have a
+piece that you are afraid of but it is in their second combat Groove and only has five orders you can be a little more
+sure that you can be less afraid of that piece because it won't have 10 or 11 orders to spend
+also if your opponent is deploying first in your deploying second and they deploy nine models in one combat group and five
+models in another again not certain but that kind of indicates that maybe whatever is coming down as their Reserve
+drop will be slotting into the group with nine troops in one hole therefore
+is going to be a high threat one final question to ask and this is technically private information is how many swc can
+you see now this is private information the points cost in swc of Troopers is private but to just draw a line here the
+swc of any individual Trooper is private because it changes based on their on
+whether they are a lieutenant for example so in koreador an algebra CLA Lieutenant costs one swc and a regular
+algor CLA costs zero so if your opponent deploys to alcohol you cannot ask what
+is that agua CLS swc cost what is that Aqua CLS swc cost because that information is private but just having a
+conversation with your opponent about where the guns are and in a regular army if I was to open up Army what would the
+swc cost if those guns generally be is usually within the remit of
+um collaborative permissible play and the main thing you're looking to ask here is basically to see there your
+opponent has a reserve drop is the reserve drop going to have a big gun if you play against a bakunan player for
+example and they deploy two Riot girl missile launchers and some repeaters in the Midfield and a couple of hackers
+then that's a lot of swc it's probably enough swc that whatever is their
+Reserve drop doesn't cost much swc which means that you can deploy knowing that
+it's not going to be for example a lizard tag coming down to sweep all of your arrows you can change your
+deployment based on the knowledge that either they can or there cannot be a really big gun coming down as your
+opponent's Reserve so for example in the star model list that I recently played I think it was almost a zero very close to
+a zero swc I think it would have been a one swc list before the Zeta deployed
+and so I was playing well under the 6swc limit but my opponents could look at that deployment and go okay I can see a
+few guns but there's zero swc guns there is no way that you don't have something massive coming as your as your reserve
+now the reason why swc is usually the thing to ask about is that points asking
+about how many points you can see gets far too far too deep into small number math swc is easily known information
+it's generally something that you can quickly confirm by looking at Army and so it's just courteous to ask your opponent instead rather than waste time
+by loading up Army and sort of like trying to figure out their list that's generally considered kind of bad play much better is you just talk to your
+opponent swc is very easy small number math trying to figure out points costs
+usually is something that I wouldn't go into because it's just a bit too much fapping around it's a bit too much detail to be asking to it for by
+something that is clearly covered by public information and private information so in short what you're looking to do
+here consistently throughout your deployment before your opponent deploys after your opponent deploys and then
+before the game begins you to gather whatever information you can to allow yourself to accurately assess threats
+risks and opportunities so you can engage with them in enough in an informed way and that includes deploying
+in an informed way so with Step Zero out of the way let's move on to actually
+placing some models so my basic principle for deploying in Infinity is
+Deploying to defend (playing to attack)
+to deploy defensively I can spend orders to move Troopers to attack but once a
+model is deployed their position is kind of set and it's very difficult to extricate our model from an exposed or
+aggressive position it's very easy to leave a defensive position and go on the offensive but if your opponent pins you
+down and in the open it's very difficult to get that model back to safety so a basic principle is deploy models
+defensively this also has the benefit of even if you are going first if you set up your defense and arrows during the
+deployment phase you don't have to then spend orders to do that later in the game
+also more generally Infinity is a game where you spend orders on individual Troopers which means that not every
+Trooper will typically activate during a game although it's pretty rare for example the way that I build lists I
+will often have games where every Trooper can do something in any individual game there will be Troopers
+who don't ever do anything so you want to deploy them in a position where you're comfortable with them spending
+the entire game if needed now I'm talking about deploying defensively here and setting up to defend as part of your
+deployment again there will be a separate episode of this series on the specifics of how to set up your Aros
+what a good defense and good sort of defensive posture looks like I'm just making the point here that when you are
+deploying even if you are going first set your troops up with defense in mind so you have a stable position to advance
+from and you are not in danger of being caught out if your opponent does something that is you know unexpected or
+spectacular or aggressive that you couldn't see coming so let's talk about some basic good practices for actually
+Good practices for deployment
+placing your models on the table the first one and one that will not be a surprise for people is that if you don't
+want a model to be shot put it in a position where it can't be seen this is basically the number one rule for
+Troopers that that do not expect to or don't want to take an arrow now I'm of the opinion that any model can be an
+arrow model if it needs to and we will talk about how to use even basic Troopers as Arrow pieces in the next
+episode but as a basic rule of thumb if you don't want a trooper to be shot put
+it somewhere that it can't be seen my next piece of advice and we'll be dealing with this from some visual examples is if in doubt to pull your
+models prone it's kind of difficult to explain why this is the right thing to do but I will try to do so on this line
+that covers it but just over a long experiences I have found as a general rule of thumb if a model is not an
+arrowps deploy it prone next don't make a template bait this
+will make sense when I show the picture of it but this is an incredibly common nuclear mistake and I really want you if you're a beginner player I strongly
+encourage you to actually think about this at deployment literally from game one think about how your troops might be
+vulnerable to templates and don't set up in a way where multiple troops can be hit and then finally and this is a little
+more advanced deploy your Troopers if they are Arrow pieces and even just generally deploy them so they can take
+guts moves I'll talk about this on the slide for this piece but guts moves are one of your most powerful Tools in
+Infinity they are a way that you can move even in your reactive turn and you want to take advantage of that
+so these are basic practices for putting your models on the table the best way to explain each of them in
+detail really is going to be with visual examples so example one if in doubt deploy prone
+If in doubt, deploy prone
+here we have an example where we have the tech Bay in the bottom of the screen there and that piece has been deployed
+in what its controller thinks is total cover it is behind a barricade that is taller than it is so it's not in any
+danger right it's it's totally behind something what I have found is if you are deploying a piece in a way that you
+don't want it to be shot and you're trying to put it in total cover just also deploy it prone Infinity tables are
+big and complicated and it can be very difficult to get a read on the entire table at a glance easily and so just
+compress the size of your models if you've missed a line of fire um and you just didn't see it and your
+opponent did or something ends up in an unexpected place a model that is prone
+is just that much more likely to be out of line of fire than a model that is occupying its full silhouette size so in
+this example here a combined army tag has made it all the way to the tech-based deployment Zone and it's high
+enough on that building to be able to see the tech Bay over the obstacle if the tech Bay had deployed prone it would
+be safe but it didn't so it's now in danger and probably going to be shot in the back of the head by that overdrawn
+submachine gun so basic rule of thumb if your piece is not an arrow piece and it
+does not need to be standing just deploy it prone basic good practice our next
+Don't make template bait
+visual example and again probably our most common new player mistake that I've ever saying is don't make template bait
+so on the left we have basically in both of these pictures sorry we have a a link of goulomb infantry and hackerslam on
+the left we have them deployed in a way that I have seen so many players deploy links over the course of playing this
+game and that is to just put them all in the same place because they're a link right they have to move together and
+they're all just up against that wall yeah they're watching different angles right we've got the Golem HMG on the left that's watching the left side of
+the building we have the gulam rifle light shotgun on the right watching the right side of the building the doctor is in the middle of the link so she can
+help you know patch things up if need be and what happens if one of them gets spot lit and a missile cleans the entire
+link up or some model with a light shotgun or a flamethrower comes around one of those corners in the first image the entire link team
+or huge portions of it can be trivially hit by a single template and there is no
+easier way to lose a game on like your first reactive turn than to give your
+opponent an opportunity to clean up four pieces out the gate the image on the left is just a
+catastrophic failure waiting to happen so I am I am begging you if you were new at the game for the love of God don't
+set your your pieces up your links up this way and if you're a tournament organizer for the love of God Don't Make
+terrain that incentivizes or forces players to do this this is why complexity in terrain and in deployment
+zones is so important because you have to enable players to set up in the way
+that I've shown on the right picture so in picture 2 on the right we have the exact same link all of the pieces are
+still inside zone of control of each other so any model could be the link leader there but they are set up in a
+way where any individual template cannot hit or more than one model of the link it doesn't matter where you place a
+flamethrower or a guided missile there it is probably not going to hit more than one Trooper which means that an
+attack with a piece like a libertos for example your opponent might still go for it but it is it's they're less likely to
+push aggressively because they can't get the same returns and if they do attack it's going to be
+much easier to triage it's going to be much easier to control the casualties that you take because you'll be able to
+take you know a face-to-face role face-to-face role with your first trooper and like slow them down or deal
+with it basically so just avoid giving your opponent easy catastrophic damage
+that they can inflict on you on the first turn do not make a template bait spread your troops out so that it is not
+possible for your opponent to hit multiple models with the same piece this will make guided missile attacks less likely against you this will make
+assaults with warbands less likely against you this will make it easier for you to go into your first turn with the
+maximum possible number of resources still intact so our third and final visual example of
+Deploy to guts
+basic principles for how to put your models down is to deploy in positions where you can take advantage of the guts
+Rule now this is going to be less likely to be applicable for troops that are just hiding right if you've just buried
+your Lieutenant in the deepest hole that you can find in your deployment Zone then if they get seen in the first place
+they're probably not going to have anywhere to go to and that's okay that's the thing that happens but for troops that are occupying maybe
+an arrow role or a pseudo-aro role or which are just kind of big generally it
+is incredibly important to take advantage of the guts rule so what is guts if you're not familiar with it you
+should be at this point but um guts is the rule that says if you're if your model it has a state inflicted
+on it or takes an armor or BTS role and survives presumably then they are they
+make a willpower role and if they succeed they hold their position if they fail they make a guts rule what's
+important is that unless you are religious you can always choose to fail and often you will do so because
+choosing to fail guts or failing guts means that your Trooper moves up to two
+inches to improve their cover including seeking total cover if possible which is
+to say improving their cover or breaking line of fire to the enemy and doing that
+means that your Trooper has a chance of surviving two inches isn't a ton of movement but it's a little bit of
+reactive movement that you can take in the reactive turn which is hugely valuable so in this example once again bad
+picture on the left good picture on the right in both cases the guija is in cover and watching kind of similar angles but in
+the first picture it is standing behind that barricade if it takes fire there is probably nowhere that it can guts to to
+break line of fire to the opponent because it's the entire top half of its silhouette is visible over that sign so
+if you have deployed your Guida here and you think it's like relatively safe but maybe it's watching a few long angles
+that maybe you know you want to just cover with a big gun and your opponent moves up and Avatar you know a hyperbole
+in a cannon some kind of huge anti-tank gun that you hadn't sort of foreseen you have a tag you have a good chance of
+it surviving at least one face-to-face role but not a good chance of it surviving an entire turn of Firepower
+coming its way in the position on the left there is nowhere for it to go if it
+takes fire it's going to just keep taking fire because it can't go prone because it's a tag until it dies and if
+it dies you are down presumably your biggest weapon by comparison the image on the right it has a slightly more
+restricted field of view although it will still be able to watch models approaching from the right but the important thing is that its deployment
+there allows it to guts back behind the building so imagine that it is taking fire from underneath the stairs the same
+big gun has been drawn up your opponent has movement maneuvered it into position and is beginning to fire at you you
+return fire you lose a face-to-face roll you take a hit maybe you make your save maybe you don't but your tag doesn't die
+it's got three structure it's a tag and so now you make your guts roll and if you want to if you're like nope I've had
+enough of this I want my Guida to survive you elect to fail the guts roll and you move up to two inches to the
+right to break line of fire and so by deploying in this way the same
+firing position the opponent might have occupied now they can move their piece up and they can shoot you but all they
+accomplish by shooting you is having spent those orders taking the face-to-face draw maybe doing a wound or whatever but that's it I don't kill your
+piece so by deploying in a position where your arrow piece can guts then you
+can preserve that element despite costing your opponent the orders that it took to bring the bring the gun forward
+to fire at them and yes this is getting into the defense and arrow thing a lot but it involves placing models so I wanted to cover it a
+corollary to this and not pictured is even for pieces that you don't expect to
+be able to survive uh to to make a guts roll instead of deploying them in positions
+where they can go unconscious in a recoverable position so if you had a total reaction bot for example on the
+rooftop of that building that the guija is standing behind there are ramparts and those ramparts are about half an
+inch tall if you deployed a total reaction bot up there it has remote presence which means
+it has two unconscious States if it takes a wound or two wounds and goes unconscious but doesn't die it will fall
+prone and because it's Fallen prone it's now going to be thoroughly covered behind the rampart which means that if
+you have an engineer sitting kind of close to it they can crawl over and fix it and then present the arrow piece once
+again going into your second turn your opponent may have cost you a couple of orders but your defenses are back online
+so the the sort of similar version of deploy two guts for pieces that you
+don't expect to survive is deploy in places where you can go unconscious but be recoverable the main difference is
+that for a piece like the guija you want to look for lateral movement that will get you to safety and for a piece like
+maybe a heavy infantry that's in a link team but with an arrow gun or a total reaction bot you want to look for places
+that you can fall prone safely either because you fail your guts or because you've gone unconscious and you want to
+recover them so your opponent you want to prevent your proponent from shooting the unconscious body of the total reaction bot to put it down so that you
+can't recover it so with our visual examples out of the way let's talk about ostensibly the last part of deployment
+Who to reserve drop
+which is who you use as your reserve drop in Infinity you will always have usually at least one Reserve piece and
+there are a couple of rules that can give you access to more Reserve pieces potentially up to three Troopers if you
+have a strategic strategist lieutenant and are going first and have spent a command token for an extra Reserve drop
+Reserve dropping pieces is very powerful because you can deploy them in a position of Maximum information if
+you've reserved something that is strong just for example you are then letting yourself deploy it in an environment
+where you have more information about your opponent's deployment if you're going first you'll have seen most of
+their Arrow pieces and if you're going second you'll have seen their entire Army by the time you come to deploy your
+reserve pace so with this in mind who should you choose to be your reserve job and
+unfortunately the answer is it will it depends it will change from game to game but some basic ideas if you're going
+first I would usually suggest reserving either your biggest unlinked gun or
+something like a rapid offensive unit something whose Position will depend very heavily on where your opponent has
+deployed so for example if you have a tag deploying that as your reserve drop Will mean you can place it in a position
+where it can most efficiently move to engage and suppress your opponent's Arrow pieces if you have a hassas in for
+day or a speculo killer deploying it as your reserve will let you deploy it once
+you know where a vulnerable Target that your opponent has you might might want to go against is so for example if your
+opponent is playing Nomads and you've decided that you want to kill their hackers or their missile bot with your
+hasses in for day they are unlikely to reserve all of those pieces so if you put your for day as your reserve drop
+you can go after something vulnerable but basically whatever your most important or most information dependent
+offensive piece is is a good piece to deploy as your reserve drop you can also
+deploy things like warbands like you know bikers and stuff as your reserve drops but because they are usually
+cheaper and you can have multiple of them usually I would not use those as Reserve drops unless it was a really
+high quality Reserve Drop Like zulekia Narrows over in hack Islam for example she's only 12 points but she can exploit
+an opening so I might use her as a reserve drop more likely though I'm using something like a has to send for day or an Azrael
+or an acawira or you know something with a big gun if you're going second then
+your your change you have to change your reserves to something that will help you survive something defensive and there
+are basically two good choices here the first choice is an interference piece so something like a libertas mine layer for
+example I find to be a good Reserve drop although a tag as an arrow piece for example can also be a good Reserve drop
+usually I wouldn't reserve a linked Arrow piece because the link is going to Telegraph where it deploys but there can
+be exceptions but something like a total reaction bot for example you are probably going to Telegraph where it's going by deploying an engineer or a
+helper bot nearby so you may as well just deploy it as a non-reserve pace something that is more independent but
+which you can deploy in a way that will interfere with your opponent's plans is a good call the reason why I mentioned a
+tag is that it's an a it can be used as an arrow piece but it's very likely to survive being engaged so it makes a good
+interference piece but ideal pieces are things like libertos mine layers or other mine layers Massimo Brands and
+Nomads or peacemakers in panochialia the other option is if you have a piece
+you're going second and you have something that is essential that your opponent doesn't destroy like a vulnerable lieutenant and you suspect
+they have a means of going after that piece just to make it your reserved wrong I just spoke about playing as
+hackerslam and deploying hasses in for days against my opponent's pieces so let's just have an example
+let's say that I'm playing Nomads and I've told my opponent I have a whip 15 Lieutenant so they know I have an
+interventor lieutenant and I haven't and I'm okay cool I've only got one interventor in my list I can't conceal
+its identity by having like two possible targets and my opponent doesn't deploy you know
+it has to sin for day during their deployment I can infer from that there is a chance that my opponent has a hassis in for day
+as their Reserve drop and so I want to preserve my interventor
+because if it dies I'll begin my first term loss of lieutenant therefore although I could reserve something like
+a libertas to interfere with the for day when it deploys if I deploy my interventor during regular deployment
+the fide is going to deploy like a fraction of a millimeter from my
+interventor and is going to try and kill it on the first order of the game so instead I just reserve the interventor
+yes there are other targets that the interventor can go after I'm going to kind of hope I don't have puppet bots in this case because Puppet Master is real
+vulnerable but the interventor has to live so it is going to be my Reserve drop because it is an essential piece
+that I can't allow my opponent to deploy this becomes even more important in scenarios like for example decapitation
+where there are many points on the line for killing lieutenants stuff like that so whether this is something that you
+need to pursue is something that you'll be informed by by the information you gather kind of at Step Zero and again a
+degree of mental knowledge may be required you may have to play against speculo killers and graph operators and
+you know janstar Etc a couple of times to understand whether or not they're actually a threat to you but if you have
+a key piece that you're like no it's actually really important that this piece survives and I think my opponent can kill it if you make it your reserve
+drop you maximize its chances of survival so just as a final note and something that I want to talk about
+A quick discussion on 'null deployment' ahead of episode 3
+before we get to the next episode is just a quick note about null deployment
+because it is how I will often see beginner players who are progressing to intermediate deploy and hear people talk
+about it online what is null deployment so null deployment is the maximal
+application of the principle of if you don't want to get shot don't get seen it means deploying your entirely Army as
+totally as possible out of line of sight and it's a very tempting approach for
+newer players because you've deployed your Panasonic and army with your fusilia missile launcher on Aro and your
+opponent shot it to death in one order and you're like well why did I even take that piece my total reaction bot died in
+one order why did I even take that piece why am I putting pieces in Aro if
+they're just going to die why don't I just hide everything and that's not
+necessarily an invalid approach and we will talk more about what the right way
+to defend and how to layer and choose and select your defenses is the point I just want to make is to bear
+in mind that null deploying can be very useful but it is not always the right
+tactic there are certain lists that can exploit it really efficiently if your opponent has just you know good warbands
+rapid offensive pieces that can't be stopped by your hacking Network bear pods for example
+um guided missiles can exploit a null deployment because you can't if you are deploying in a completely null fashion
+you can't present arrows that will stop your opponent from projecting their Network toward you we'll get into that
+in the defensive episode but basically a well-rounded list will have multiple
+defensive options which can include null deploying if you think it's necessary but what you want ideally to have a
+variety of pieces from long range Firepower to hacking to yeah hiding like a rat in a hole if that's what an eBay
+we will talk about this more in the next episode but I just wanted one last slide
+on this just because a lot of what I've talked about is things like deploy prone if you have to you know if you can
+don't get seen if you don't want to get shot and I feel like null deployment is The Logical maximal extension of that
+and that you don't necessarily always want to go that far you will find that you usually have to present some defense
+to your opponent and we'll talk about how to do that next episode but just be aware this is something that you can do but it is not necessarily The Logical
+inclusion of the information I've presented to you today so that concludes the episode I am
+vaguely hoping to get these out at about a once a week basis until I feel feel the series is approximately complete but
+it may be once every two weeks we'll just have to see um as always if you enjoyed this please you know consider sharing give the video
+a like Etc um and let me know what you found interesting and ask questions I'll do my best to answer and questions that I'm
+asked in the comments section actually tend to help inform future content for videos so they're super useful for me as
+always I hope you enjoyed this and I'll see you next time

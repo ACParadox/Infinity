@@ -1,0 +1,37 @@
+# Ammunition Summary Chart
+
+| Ammunition | Saving Roll Attribute | No. Save Rolls | Critical No. Save Rolls | Special Effect |
+
+| --- | --- | --- | --- | --- |
+
+| N | ARM/BTS* | 1 | 2 |  |
+
+| AP | ARM/BTS* | 1 | 2 | Halves the target’s ARM or BTS |
+
+| DA | ARM/BTS* | 2 | 3 |  |
+
+| E/M | BTS | 2 | 3 | Halves the target’s BTS, State: Isolated, State: IMM-B against HI, REM, TAG, or VH |
+
+| ECLIPSE | - | - | - | Blocks LoF, Non-Lethal, Reflective |
+
+| EXP | ARM/BTS* | 3 | 4 |  |
+
+| PARA | PH-6 | 1 | 2 | State: IMM-A |
+
+| SHOCK | ARM/BTS* | 1 | 2 | Cancels Unconscious |
+
+| SMOKE | - | - | - | Blocks LoF, Non-Lethal |
+
+| STUN | ARM/BTS* | 1 | 2 | Non-Lethal, State: Stunned |
+
+| T2 | ARM/BTS* | 1 | 2** | Inflicts 2 Wounds |
+
+NOTE: * The Attribute for the Saving Roll can be either ARM or BTS depending on the Weapon. NOTE: ** The additional Saving Roll for T2 Ammunition works differently, see T2 Ammunition.
+
+### Critical Exceptions
+
+Continuous Damage Trait
+
+T2 Ammunition
+
+- Critical hits with T2 Ammunition cause the target to make an additional Saving Roll. Failing this additional Saving Roll inflicts only 1 additional Wound on the target. It is important to indicate, before performing the Saving Rolls, which die corresponds to the Saving Roll from the hit and which die to the additional Saving Roll from the Critical effect.

@@ -1,0 +1,132 @@
+Infinity N5: PanOceania – Not-so-Initial Impressions
+
+OK, first thing’s first, introductions are in order: Pan-Oceania is what happens when a near-future USA, Russia, France, UK and Germany get together and agree to collectively bankrupt themselves as the greatest practical joke in history (To note: the real world scoreboard says we’re about 3/5 of the way there already). So, whenever there’s a geo-political power vacuum opening up, of course you’re going to see South America, India, (South, East and South-East) Asia, Australia and for some reason…The Scandinavians*…join forces and become an economic hyperpower. Seems reasonable. Pan-Oceania (PanO for short) is the closest thing to a ‘generic good guys wearing blue’ faction that seems to permeate popular culture. Pro Tip: They aren’t nearly as good as they’d have you believe. PanO, as a faction, are generally the straight-forward, no tricks (update: These days it’s probably: Fewer tricks) faction that wins games by shooting the opponent off the table and then worrying about the scoreboard later.
+
+We’re going to discuss each of PanO’s sectorials first and then round up with the vanilla/generic army list at the end. So, without further ado…
+Kestrel Colonial Force
+
+We here at Goonhammer HQ workshopped nicknames for Kestrel Colonial Force and after 16 gruelling hours of arguments the vote was that Kestrel, the PanO sectorial based on a desert planet, would be known as SandO. However, I’m going to just straight up ignore that and lean into the common typo of KFC. So, anytime I’ve written ‘KFC’ just assume that I’m being incredibly funny on purpose [Ed: No, it’s not] and not making an oblique reference to a certain Colonel with 11 Secret Herbs and Spices. Or, maybe I am? Do you even know what Helot tastes like?
+Play Style and Faction Identity
+Kestrel Colonial Force (photo courtesy of Corvus Belli)
+
+I don’t know how to describe Kestrel playstyle and identity except as ‘PanO Goodstuff’. You’ll struggle to wander through the army list without tripping over a good profile. If we had to drill down further, I’d note that Kestrel doesn’t have the absolute peak of firepower (ie. BS 15 HRMC TAGs) but it still has some absolutely solid firepower (and the Hetkari, which is an A+ shooter all by itself). Your infowar capability is probably mostly there to give you the breathing room you need to win the shooting war, it’s an enabler function rather than a core function of the faction.
+Fireteams
+
+Pretty standard layout here, 1 Fireteam Core, 1 Haris, unlimited Duos. Wildcards are fine, good balance of specialists, mid-tier shooters and toolbox units.
+Fennec Fireteams: Core or Haris
+
+Being an LI Fireteam, it’s no surprise that we can’t have a Duo here, which is a shame, as having a two Fennec combo of a HMG and Paramedic for the +1 dice shooting is incredibly efficient. Understandably, we can’t do this because unlimited Duos would be exploited and the game would become degenerate very quickly. As it stands, just plug in an additional Fennec and make a Haris or Core. Which is fine, nobody ever complained about paying 10 points for a BS 12 Combi-rifle that generates an order.
+Kestrel Fireteams: Duo
+
+This fireteam seems useful but potentially expensive if you’re trying to get a Burst bonus onto an Active piece. I feel like the trick would be to attach a Wildcard specialist to your choice of shooter: Griffin HMG or Hetkari and go wild (Bipandra might be an option, because she can also heal the active piece if they lose too many F2F rolls).
+Armoured Fireteams: Duo
+
+I’m pretty open-minded and do my best to avoid constricting my thinking to ‘What’s good in N4’ but I don’t think it’s a struggle to suggest that Double-TAG fireteams aren’t going to be terribly popular or efficient. Prove me wrong, children. Prove me wrong. Honestly, what you might see here is a TAG dragging a wildcard specialist around, most likely the Pathfinder which can keep up with it (while also delivering a Repeater into the mid-field). Maybe you’ll drop in a Bulleteer to give you a sacrificial attack piece? The choice is yours. It’s fine. Basically, if you’re going to take a Tikbalang or Squalos on their own merits as a solo piece, you may as well duct-tape a Pathfinder to it.
+Colcorp Fireteams: Haris or Duo
+
+FT Master on 6 point Jackals is one helluva drug. Haris or Duo, you’ve got cheap Regular orders that can pull double-duty as ARO pieces. If you have points and Combat Group slots left over I can think of worse things to do than fill them with ColCorp Duos. These seem very solid, and I’m leaning towards the Multi Marksman Rifle on the Magistrate personally.
+Notable Units
+
+Just to help you navigate your way through your first Kestrel Fried Chicken combo-meal, here’s our top pick for units to watch out for as you play your first games in N5:
+
+Hetkari Shooters: Hoo boy. This heckin’ chonker is an Apex Predator. I think that while if you did the maths on how often BS 14 with Marksmanship and BS Attack -3 actually wins Firefights you might be mildly and pleasantly surprised, I’m still going to lean into the MULTI Red Fury because I am addicted to rolling as many dice as possible. At least with an AP-ammo type you can convert F2F wins into damage against harder targets, so the Multi-Fury (much easier to say than the full name) remains a very viable weapon. Regardless of loadout, you’re still spending about 1/6th of your total points for a single 6-2 S2 model that starts in your DZ and has no mobility skills. A poor deployment here could see you handicapped for the rest of your game, where larger models (ie. TAGs) or those with movement skills are more likely to get the LOF they need to recover from an unlucky deployment choice. So, Hetkari Shooter: They’re great, amazing even, when they start rolling F2F but it’s your job to make that happen.
+
+Redeye Close Air Support Squad: Noting above that the Hektari might struggle to line up some good fights, the Redeye is a hyper-mobile platform that won’t struggle to start a fight in a bar on a Friday night. Whether it can win those fights is another question. As a side note, check out that Dodge -3 and consider the damage you might be able to do by Spec Firing that Grenade Launcher. Vehicles appear to sit in the design space between TAGs and HI: they’re mobile, have some resilience (ie. decent Arm and multiple STR), and good but not amazing F2F capabilities (BS 13 here, Mimetism -6…but also No Cover), you also have to pay elite HI/budget-TAG prices for them.
+
+Fireflies: These are a very multi-role unit which binds some important KCF Fireteams together. They can be great support for TAGs when taken as engineers, they allow NCO Orders to be spent moving a team, and they provide the only turret Minelayer currently in the game. Really the envy of other factions’ Fireteam MI.
+
+Magistrates (and Jackals): The former give PanO a really top-class command structure, with Counterintelligence and Strategos for an unbelievably cheap price. While natural Lts, we can also support them as Chain of Command for one of the Sectorial’s superb active Lt options, e.g. the Tikbalang with +1 Lt Order. Their other utility is making Jackals Regular Order generators via Fireteam Master, which is just an insane value.
+
+Father Lucien Sforza: A late addition to the team, Sforza is an odd addition to the roster. He suffers from the curse of having enough skills and capability to be expensive but not enough capability to be a reliable threat to the sorts of pieces you might want him to be facing off against. If you really desperately need a 0 SWC weapon that can shoot out to HMG rangebands, I guess you can give Sforza a call. Alternatively, if you absolutely must have a bounty-hunting priest with a glue-gun in your list, he’s your man.
+
+Rating: S
+
+If KFC has any weaknesses as a faction I am yet to encounter them. Maybe infowar but it’s pretty hard to suggest that a faction with access to Peacemakers and Marker-state Hackers has weak Hacking.
+Sample List
+
+To help you write your first KFC lists, we’ve provided a delicious free sample! Disclaimer: Goonhammer advises that the free sample list contains none of the 11 secret herbs and spices, almost no actual chicken (or Kestrel) meat, and has no nutritional value whatsoever. Any victories achieved while using this list are not intended and entirely coincidental. If your LDL cholesterol levels stay above 160 mg/dl for longer than 3 hours after a game please see your Doctor.
+
+Army list: Finger Lickin’ Good
+
+
+
+This isn’t an optimised KFC list by any stretch of the imagination but you’ve got a whole heap of defence in depth to ensure that you survive your opponent’s alpha strike. A lot of these pieces can also turn around and prosecute an attack run as needed, so you’ll always have options to take a chunk out of your opponent even if they get to swing first.
+Svalarheima Winter Force
+Play Style and Faction Identity
+
+Svalarheima is PanO with highly mobile Close Combat elements. It’s insane how many pieces you can get that have Super-Jump and a CC score above 20. It’s Three, which isn’t a lot but it’s weird it’s happening in PanO. Also, Valkyrie. Svalarheima are, generally, a very honest faction. You don’t get a huge amount of fog of war on deployment as your opponent will look at your list and have a pretty good idea of what you’re bringing to the game. That said, SWF did finally learn how to use camouflage: They finally have multiple units with a marker state and even a few Minelayers to help mix it up but your opponents probably won’t be surprised twice in any one game by your list.
+Credit: Robert “TheChirurgeon” Jones
+Fireteams
+Fusilier Fireteam
+
+Pretty simple and generic. Take some Fusiliers, maybe splice in a gun (Oktavia, Karhu or a Wildcard), call it done. Drop in a Hacker if you want the cheapest possible way to leverage the area denial of Peace Makers.
+Nisses Fireteam
+
+My default build here would be a Nisse HMG or Sniper backed up by a Machinist WinterFor. Get that sweet +1SD for your big gun, drag a specialist around with you. Seems solid. You’re a braver person than I if you go for a Nisse Haris or full Core.
+WinterFor Alpha Fireteam
+
+Building up a fireteam that needs to start with an ORC or Varg is going to be an expensive proposition. I personally woldn’t do much more than a pure Duo. I’d be very tempted to roll in Valkyrie as her unique melee capabilities and survivability makes her an excellent Trading-Up piece. This is also notable as the Super-Jump team, for Vargar with or without Shona Carano. Bouncing 6-6 around the table is a lot of fun.
+WinterFor Beta Fireteam
+
+Another potentially expensive Duo/Haris but at least you can either do Double-Hospitaller (Doc and HMG is the first order optimal pick) or ‘Any shooter’ tailed by an Infirmarer. Seems perfectly fine. The Boyg is very expensive but represents an excellent MSV-breaking piece (and SWF loves a cheeky bit of Mimetism, so having someone to chew on your natural predators feels like a solid play.), so having them tailed by a specialist (native member or wildcard) while they sweep the ramparts is a perfectly reasonable choice.
+Bulleteers Duo
+
+Does exactly what it says on the box. You can maybe strap a Karhu Engineer to the back of a Bulleteer but that feels like the Tail is Wagging the Dog. That said, at 19 points with the option to repair, a Bulleteer HSG is going to trade up if it can get into the 0-8” rangeband.
+Notable Units
+
+Let’s not beat around the bush…
+
+Jotum: It’s an ARM 10, BTS 9 monstrosity. If it’s in cover, a combi-rifle cannot hurt it. Jotum is like Chuck Norris. It doesn’t sleep, it lies awake at night and waits. A Taigha Creature Berserked into the Jotum once and after three agonising rounds, the Taigha Creature died.
+
+Vargar and Boyg: I’m putting both of these into the same category as they are both Albedo -6 units. SWF loves a bit of Mimetism, so these guys are great insurance against MSV ruining your day.
+
+Liang Kai: Liang Kai is the warband most warbands wish they were. Playing PanO, you’ve got the long-range game sorted, so Liang Kai is the man you send in to mop up once your opponent has flinched and ducked into cover. To a lesser extent, Shona Carano and Valkyrie can do the same but start with Liang Kai and work from there.
+
+Team Deus Vult: Despite being categorically not Military Orders, apparently SWF does get representation from the religious side of PanO. Hawkins is a great little piece that does everything, the Knight of Justice is great for the price (and the Hacker, at BTS 9 is amazing), while the regular Hospitallers are a little slow (foot slogging out of your DZ at 4-4), they’re well priced for their ability to win fights
+
+Rating: B+
+
+Svalarheima seems pretty good. They’ve got PanO guns, great close-quarters pieces, a sprinkling of Knights and the Jotum. What else could you want?
+Sample List
+
+Just to help you start off with writing Svalarheima lists, we’ve provided a sample list below. This list contains some elements of the faction that we think you’d do well to explore and experiment with at the start of the N5 edition cycle. Disclaimer: Goonhammer advises that the following list is for demonstration purposes only. Any victories achieved while using these lists are not intended and entirely coincidental. If your hypothermia persists for longer than 3 hours after a game please drink a nice warm cup of hot cocoa (and then see a doctor).
+
+
+So much close quarters combat. If your Nisse sniper and Karhu Feurbach and get your opponent to duck, your Murder Squad will be able to leap across the table and do horrible, nasty things to them.
+Generic PanO
+
+We’ve decided to put the parent-faction, Generic PanO at the bottom of the list instead of first because we’re going to be talking about a few profiles that were already going to be covered in their respective Sectorials. So, rather than duplicate words or endlessly say ‘see below’, we’re just going to hope you’ve read the previous sections above and know what we’re on about. First of all, I just need to call out Corvus Belli for what they did to my boy, Varuna. In memory of my glorious beach-party faction I will henceforth be referring to vanilla PanO as Varunilla, because that’s where all the Varuna refugees ended up (Cutters, Crocmen, Zulu Cobras, etc etc). I will force this meme so hard.
+
+Play Style and Faction Identity
+
+It’s PanO, they’re schtick has been having high-water mark shooters for the longest time. They’ve still got that. They’ve got the Hektari, the Crux Knight, as well as the Cutter. However, they’ve been given a few more tricks in this edition and if you fail to adapt to your new toolbox you’re going to get outflanked, stabbed and hacked before you can get your shots off.
+Notable Units
+
+Blade-Ops: Fireteam Glue, Blade Ops are great at plugging a Tactical Aware specialist into any Duo led by a shooter you want to run in vanilla. Does your TAG want a pocket Engineer for repairs? Done. Even if your attack piece falls over your Blade remains a BS-13 operative with Mimetism and an unceasing appetite for violence.
+
+Bolts: With Neo-Capitaline Army deprecated the noble Bolts have been orphaned and then folded into vanilla PanO. Which is great for vanilla PanO, mind you. Being BS 13 platforms with Warhorse and Marksmanship, they’re surprisingly well priced and that’s before you consider that a Bolt Hacker is BTS 6 and functionally immune to Oblivion. You need to have a good reason to drop a Bolt into your lists but they’ve got some cute tech going, so it’s rarely hard to justify the choice. Have at it.
+
+Crux Knight: PanO doesn’t get amazing fireteam options in vanilla (Except for the Heloans, trust me, all will be explained) but who needs them when you have a knight that brings their own fireteam bonus with them? I’m just sayin’, Crux Knight bought the N5: Season Pass and they’re going to make it your problem. Great shooter, baked in Specialist, just enough melee to keep your opponents honest and then a cheeky dash of Albedo tech, just because. So good.
+
+Cutter: For when you absolutely must shoot BS 15 bullets at people while inflicting a Mimetism -6 modifier on them before scuttling away and hiding under a Camo Marker. The Cutter remains a top tier TAG in both firepower and survivability. Only available in Vanilla PanO. Think about it.
+
+Swiss Guard: For when you want to pay half the price of a Cutter for slightly more than half the performance of a Cutter. Or a 2W Noctifer, whatever floats your boat. I don’t rate them terribly highly based on their deployment options and speed but you’re still getting Apex Predator levels of firepower for a reasonable price. Worth noting as a capability unique to vanilla PanO but not an auto-take either.
+
+Joan of Arc: The Joan and the Irregulars list is still an option in N5, even if you can’t lean hard into it (which makes for a better list, honestly.). She’s still a 2.5W CC monster that shoots quite. Also, she’s got a new AP-Spitfire. Brilliant.
+
+Fireteams
+
+So, Heloans [portmanteau: Helot plus Joan]. We had to come to this eventually. Joan and two Helots. It’s a thing. It’s a real, danged good thing. You could do the same thing with Patsy but if you take Joan you’ve just turned those Helots Regular and life gets good when you have Regular Helots in Fireteams.
+
+    Genghis Cohen: while Joan and Helots is very impressive, I think deploying Regular Helots in the best possible defensive positions is at least as good. What I was most struck by is the potential of teaming Joan up with 2 Blade-Ops for an active team with 3 Tactical Orders.
+
+PanO also retains some terrific Duo options for TAGs, not pure Duos so much as utility models and engineers supporting their Remote Presence war machines – although you can make a pure Squalo Duo if you feel like it! It would also be remiss not to mention the efficiency of Karhu or Bolt pure Duos. Those are teams that deliver an apex shooter and a very handy specialist in one neat package.
+
+Rating: A
+
+Vanilla PanO brings top-tier shooting in a game that features a disturbing amount of shooting and, with their tweaks coming into N5, a wide and deep enough toolbox that the solution to every problem doesn’t have to be Gun or More Gun (Apologies and thanks to the humble readers that noticed the missing rating for Varunilla, we thank you for your service).
+
+Yes, technically it’s only got 14 troopers but between the Tactical Awareness Orders and plethora of Specialists and Attack Pieces, this list is a blast to play. If you really need those 15 troopers, cut the ORC in half, King Solomon-styles.
+Conclusion
+
+Well, that’s PanO and its three sectorials for you. CB has made the right move here and expanded PanO’s toolbox, giving veterans more options and playstyles to engage with while ensuring that newer PanO players still get a taste of overwhelming firepower, just as God intended. We’ll release individual faction reviews for Varunilla and the three sectorials in the future but, for the time being, we hope this is enough to get your engine started. Get out there and do a Hyper-Capitalism to your foes, if you can’t buy their loyalty with your superior PanO economy, blow them into submission with your superior PanO firepower.

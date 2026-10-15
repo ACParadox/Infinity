@@ -1,0 +1,47 @@
+
+Infinity Academy – Reading Weapon Profiles
+2025-02-16
+WiseKensai
+
+Written by WiseKensai in the N4 era.
+
+It’s not only troops that have profiles – weapons do too! In this article we’re going to have a look at some typical weapons and explain weapon profiles so that you know how to read them. 
+
+Here’s a collection of weapon profiles:
+
+Just like troops, weapons have profiles with different fields:
+Name
+
+The name of the weapon. Some weapons can be used in different modes. For example, pistols like the Breaker Pistol can be used either as a shooting attack (‘Burst Mode’) or as a close combat weapon (‘CC Mode). Weapons that have multiple modes will have multiple entries under the same name.
+Range
+
+Weapon ranges are broken up into 8 inch segments. You can see that there are different colors for the weapons shown above, with the colors corresponding to a modifier to the Ballistic Skill stat, which is used when firing the weapon. 
+
+A Breaker Pistol in “Burst Mode” grants a +3 BS bonus when your target is within 8”, but between 8” and 16” it grants no bonus. At longer ranges, i.e. from 16” to 24”, the use of a pistol is more difficult and that is represented by a -6 penalty to shooting. A black bar with no value indicates that a shot is impossible at that range, so for ranges > 24”, the Breaker Pistol will automatically miss!
+
+Each weapon has its own range-bands, and therefore will be better or worse than other examples at various ranges.
+Dam
+
+This represents the DAMage value of the weapon. A model that suffers a hit from a weapon will have to make a saving roll, to see if they lose a wound or shrug off the attack. To pass a saving roll the target must exceed the weapon’s DAM value on a d20. So, the higher the damage value, the more difficult the roll is. For example, if you’re hit by a DAM 13 weapon then you’ll need to roll a 14 or higher.
+
+Cover reduces the weapon’s DAM value by 3, and the DAM value is also reduced by the target’s ARM value. 
+
+So, for example, if you are hit with a Combi Rifle with DAM 13, you would ordinarily have to roll a 14 or more to exceed the weapon’s damage and pass your saving roll. However, if your unit had ARM 1 then the DAM value would be reduced by 1, and therefore you would need to roll a 13 or higher to avoid taking a wound. 
+
+If your unit had ARM1 and cover then the DAM value would be reduced by 4 (down to a total of 9), and therefore you would need a 10 or more on the roll.
+
+A failed roll results in the affected troop losing wounds or structure. 
+B
+
+The Burst value of a weapon. This represents the number of dice you are allowed to roll when attacking with the weapon. Higher burst value – more dice rolled – more chances to hit. 
+
+In general, the burst value of weapons fired in your reactive turn is always 1, so you ignore the burst value in the reactive turn. There are some rules that provide exceptions to this, which we will discuss later.
+Ammo
+
+In the future, there are many types of advanced and exotic munitions! Some ammunition types are so deadly they force multiple saving rolls! Have a look at the Ammo Chart for a complete list of all the different types and their effects.
+S Roll
+
+The Saving Roll or Saving Attribute for the weapon. If the weapon attacks a target’s armor, they must use their ARM attribute to save against the weapon. If the weapon attacks a target’s BioTechnological Shield, they must use their BTS attribute to save against the weapon. Some weapons attack BOTH attributes, like the dreaded Plasma Rifle, and the target must make a save against BOTH attributes to avoid taking damage!
+Traits
+
+This is the “catchall” component of weapons. This field in the weapons table is used to describe special cases for weapons. Some weapons may have an area of effect instead of targeting a specific model, like flamethrowers or chain rifles, and will generate a “Direct Template” attack of a particular shape. Instead of rolling an attack for these weapons, you can place a standardized template on the table and anything within the template is affected! Have a look at the rules for a complete listing and explanation of all the various weapon traits. One thing worth mentioning is the “Suppressive Fire” trait. A trooper must have a weapon with this trait to make use of the Suppressive Fire skill. Make sure you check!

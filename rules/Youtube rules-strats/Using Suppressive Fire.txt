@@ -1,0 +1,276 @@
+
+Intro
+Suppressive fire. It's a skill. It's a
+trait. It's also a state.
+But what's it for? Let's talk about it.
+Welcome to the Infinity Institute from
+the Dice Gods. My name is Hydra and
+today we are going to be talking about
+suppressive fire in all its epic glory.
+It's one of those things that's a long
+skill in the book in N5 and it sort of
+makes a lot of sense, but what's it
+actually for? How does it actually work
+and what should you use it for and what
+shouldn't use it for and how can you
+deal with it and all that kind of stuff.
+We'll get into that. Thank you as ever
+to our channel members and patrons
+including Shan Coburn, Old Man Rogers,
+Chaos Disordia, Rick Wolf, Chris Ston,
+Caz, and Robin. Thank you all for being
+the highest tier of fan for this
+channel. I really appreciate it. Keeps
+me doing what I'm doing. But also, thank
+you to all the other ones who are sort
+of supporting this channel financially.
+It means a massive amount. But enough
+from this. Let's talk about suppressive
+Suppressive Fire
+fire. So, suppressive fire, what's it
+all about?
+Suppressive fire is a long skill which
+places a trooper in the suppressive fire
+state. And when in the suppressive fire
+state, a trooper may fire a weapon with
+the suppressive fire trait in arrow with
+a modified profile.
+It's one of those things where wherever
+belly have made this
+um skill is actually quite simple. in
+the rule book this compounded mess of
+stuff. It's actually quite simple, don't
+worry. In your active phase, because
+it's not available in the arrow, you
+spend a full order. If you spend that
+full order, a trooper enters the
+suppressive fire state. That is then
+what they're doing. In order to enter
+that state, they must have a weapon with
+a trait that is suppressive fire. So, if
+you look at the the uh profile of a
+weapon, it will in one of the boxes on
+the end have suppressive fire. If you
+can do this, the trooper has
+suppressifier and you spend that order.
+They've got into that state. They may
+then in ARRO fire that weapon with a
+modifier profile. What does that
+modified profile look like? Well, I'm
+glad you asked.
+It changes the burst of the weapon to
+three in ARO. So rather than throwing
+the one dice that you normally would,
+you are now throwing three. This is
+quite handy. The weapons range is
+modified to 24 in. That's the maximum
+range that weapon can now shoot. Doesn't
+matter what can normally shoot. Using a
+heavy machine gun, for example, that's
+good all the way across the board. Not
+in suppressed fire mode. Suppressive
+fire mode, 24 in is all you've got. The
+weapons range bands modified as well. So
+from 0 to 16 in there is plus 0 to your
+uh BS and 16 to 24 is at minus three. So
+this weapon or this this modified
+profile in ARO reduces the range and it
+reduces your efficiency with that weapon
+effectively. If you'd normally be at
+plus three at 18 in, you're now at minus
+three. Them's the rules because you're
+holding you're holding the trigger down
+and you're going nuts. That's that's
+all.
+All other weapon attributes remain the
+same. So that includes your ammo type,
+that includes your potential survival,
+uh the the type of saves that's made.
+All of that stuff remains exactly the
+same. So that's not a problem.
+Crucially, enemy troopers who are within
+24 in
+um and are attacked by a trooper in the
+suppressive fire state gain minus three
+to their facetoface roles. So, if you
+come around the corner and you're
+suddenly faced with this complete idiot
+with his finger on the tree going burp
+at you, if you dodge, minus three. If
+you shoot back, minus three. If you
+close combat, I guess minus three as
+well. So if they're in the specifier
+state and you interact with them and
+you're within 24 in, then you get the
+minus three. So that is all it does.
+Long skill into that condition with that
+weapon plus uh sorry burst three max
+range 24 in that profile. That's it.
+That that that's what you're doing. The
+minus three. Sorry. So that is
+suppressive fire in a nutshell.
+Weapon Families
+Which weapons have it at the moment? The
+weapon families note families that have
+it. So most of the variants of these,
+some multivariants won't um uh like
+explosive. So if you have a a
+multi-heavy machine gun with explosive
+ammunition, you can't put that into
+suppressive. It would be hilarious. I
+grant you that would be freaking funny
+to stick a explosive
+HMG and you can't do that. That's not
+one of the options. So these families
+are mostly all suppressive. So, the HMG
+heavy machine gun, marksman rifle, which
+is hilarious. The Red Fury, so which is
+kind of the disappointing Spitfire
+rifle, which is the disappointing combi
+rifle, which can also do it. Spitfire,
+submachine gun, hyperapid, magnetic
+cannon,
+which never gets old, and the Mark 12.
+Those families of weapons can go into
+suppressive fire because they have the
+suppressive fire trait. you'll find it
+on the very right hand side of um the
+the weapon profiles in most instances.
+So, and in all of those, you're golden.
+When to Lose Suppressive Fire
+When do you lose suppressive fire? You
+lose it if you declare an order. So, if
+you're in that state and you declare
+anything else, the state is gone. You're
+no longer in suppressive fire. You
+declare an ARO other than BS attack
+using the suppressive fire profile. So
+what does that mean? That means if you
+declare dodge in ARO, then you lose that
+state. It also means that if you, for
+example, have a heavy machine gun that
+you're in expressive fire, an enemy pops
+out of range, and you've got a Panza
+Foust and you fire that Panzaf because
+the HMG is out of range, you then lose
+the suppressive fire state. You use the
+panzer, which is not a suppressive fire
+weapon, cancelled.
+Uh you use a weapon without the fire
+trait. There you go. Even more so. Um,
+if you have a guts roll that has failed,
+so if you've taken a hit, um, you want
+to stay in place, you fail and you have
+to get back into cover, you lose
+suppressive fire.
+If your trooper with suppressive fire
+enters engaged, isolated, or retreat, or
+any null or immobilized state, so if
+they're unconscious, they're not doing
+suppressive fire. Who'd have thought?
+Very strange. Um, or any other state
+which specifically cancels suppressive
+fire. Got to love these terminologies
+because these are the the catch by
+Corvis. We forgot to do that. Put it in
+the notes of that particular thing, that
+situation that cancels the spread so
+far. Fine. Um, if you enter loss of
+lieutenant, apparently losing the
+governor is quite an emotional
+experience if you're just sort of
+spraying and praying. You you give up on
+that and just have a moment of
+ponderance for your lost commander. But
+yeah, loss of lieutenant, cancel fire.
+And if your trooper joins a fire team,
+so no doing stupid stuff like joining
+somebody into a fire team while they're
+in suppressive fire, then giving them a
+special die and the extra plus one beer.
+None of that. No, I see you. No, not one
+of the options. So, those are the the
+situations in which you you cancel it.
+It's pretty much if you do anything
+other than Dhaka with the um suppressive
+fire or if things start going wrong,
+that cancels your suppressive fire
+pretty much.
+Whats it for
+So, what's it for?
+It's a very versatile thing. Um, mostly
+what we're talking about is pro
+projection of force for board control.
+That's primarily what you're looking at.
+You can control the route the enemies to
+take. So, if you have a couple of guys
+down the main corridors of a a board and
+they're in suppressive fire and there's
+another corridor, your enemy will be
+more to take the one where they're not
+going to get shot at. for protecting
+protecting objectives. If you have a
+supply box, stick it around that. Always
+useful. Boosting defenses. If the enemy
+needs to get into your half and you've
+got some mines down and you've got your
+hacking network out,
+sure, why not stick stick out some uh
+some suppressive fire and slow down the
+advance even more. They can also be used
+from for blocking AD and camo units from
+being effective. So if you see that
+there is a camo unit on top of a
+building and you think okay that's going
+to be a sniper or something like that
+getting within 24 in sticking a unit on
+suppressive fire looking up at that guy
+if you are going to pop out and you are
+going to take the shot I'm going to
+shoot back at you you're going to get
+the minus three blah blah blah blah just
+disincentivizes that and also if you can
+see a situation where you think right
+this opponent is likely to be running AD
+able deployment I can deploy myself in a
+way that will make that less effective
+or just stop it stop their ability to do
+it.
+Important things to note, a coordinated
+order may be used to place up to four
+troopers in suppressive fire.
+So, command token, regular order, four
+guys from the same combat group, but
+suppressive fire. Comedy ensues. Um,
+it's a very efficient way of doing this
+stuff. Um, you may also spend a command
+token at the start of the game um to put
+somebody in expressive fire state as
+well, which is kind of cool. uh can be
+really really useful if you feel the
+need to absolutely lock down a
+particular line and your opponent didn't
+spot that that's what you're up to. It
+can be a thing you can do. So that's
+primarily
+what you can do with suppressive fire.
+We're now going to dive into suppressive
+fire tactics and a little bit more of a
+deep dive. That's for the members. So
+YouTube, see you in a minute. And there
+we have it. That is your introductive
+guide. introductive introductory guide
+to suppressive fire for Infinity N5. If
+you have any questions, do put them in
+the comments below and let us know your
+thoughts on this series and what else
+you'd like to know. And as ever, do
+please like, share, subscribe, put the
+word out there to the community because
+everyone needs to know how to do this.
+It's not just for you. But thank you as
+ever so much for watching. I hope you
+enjoyed it. If you do have questions to
+say, stick them below. But we will see
+you all again soon. Thanks for watching
+and goodbye.

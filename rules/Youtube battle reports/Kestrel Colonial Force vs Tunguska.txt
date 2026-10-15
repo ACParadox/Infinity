@@ -1,0 +1,492 @@
+hello and welcome to an Infinity the game battle report today we're playing castal Colonial Force versus the jurisdictional command of tunguska and
+the scenario is supremacy now today's battle report comes in response to requests from two different Channel
+supporters the first is from tanako Skyla who just requested a Kestrel battle report and possibly a faction
+focus in future yes I think that is something that I will do obviously it's going to be something that's of interest to people because it is a new faction
+tanako Skyla kind of notes that where do you start with krol it's a very deep faction and I agree we'll be talking
+about that a little bit when we get to looking at the list that we're going to be playing today now the list that we're playing today comes directly from a
+second Channel supporter Tristan at Tristan Ludovic Ludovic I'm not going to try and pronounce your last name I would
+butcher it um but Tristan actually has just submitted this list that we'll be playing today wholesale to be played as
+part of their request now in this instance we are going to do that but just as a note for people who would like to see different things featured on the
+channel I will not usually accept wholesale to play in battle reports and
+the reason for that is that I enjoy writing lists that's part of what I like about infinity and so writing a list but
+with a constraint play with uragon tractor mules play as close as you can to veruna in vanilla panania anything
+that's like a restriction that's fine cuz I can work with that I can be creative I can write a list to play but
+if you just send me a list to Play I Won't necessarily know as well as you do how you'd like it to function I haven't
+had the same experience of creation it it's not as fun for me in short so in in this particular case Tristan we are
+going to be playing your list but just for channel supporters in future as much as I really really appreciate anyone who supports the channel and anyone who
+makes requests for battle reports I will not usually play a list that is submitted wholesale now the list that
+we're playing today is on screen now chist just titled this generalist castal Colonial force and I agree it's quite a
+good generalist list there are some things in it that I wouldn't necessarily use myself for example I'm not a huge
+Beast Hunter enjoyer although some of the things that separ at a beast hunter from a yamabushi for example would come
+into play in this game but this is a generalist kestral list with a little
+bit of an probably a significant emphasis on being able to play infowar and that infowar I think is what was set
+it apart from other generalist lists and is where we'll kind of just start by talking about hey how should I build for
+Kestrel one of the things about krol Colonial force is that it is a impressively deep faction you basically
+cannot throw a dart blindfolded in krol without hitting a really good profile
+and what that means is that although I don't think there are any individual profiles in Kestrel that are busted I
+think basically all of the good profiles either have some kind of a vulnerability that makes up for how powerful they are
+or are just adequately costed so for example The Tick bang which I've played a number of games against the tick bang
+plus one Lieutenant order tick bang of monessa and that thing is that thing is a terrifying monster but it is also your
+Lieutenant which incentivizes you to pay for some train of command it's very expensive it doesn't have armor piercing rounds like there are things that keep
+it in check and reasonable even though it's very powerful but lots of chrol is like that and because the faction is so
+deep there can be this kind of like where the heck do I start take which is what we saw from um tanaco Skyla and my
+response to that is krol is deep enough that you should probably always be trying to specialize now I personally
+tend to drift toward one list I kind of like in any given faction I'm actually not much of a specialist because I'm a
+butterfly I I bounce between every faction in the game just about and when you're doing that it kind of befits you
+to have one one list that is good and is about as good as you can make it for that faction because I don't necessarily
+have the time or mental space to specialize in every of the factions that I play so I have one really good dashad
+list I have one really good hack Islam list Etc and I play lots of factions but I don't play them necessarily deeply I
+don't think krol accommodates that Kestrel you want to specialize run multiple different lists practice with
+multiple different lists and you you guide your specialization based on scenario or table or opponent
+like whatever pick something if you're going into an event and the uh the scenario list is not particularly
+hostile for example if I was playing krol at canc con which is coming up in January the scenario list in cancor is
+relatively manageable I think you could write two lists for cancor each of which could do all of the missions so instead
+each of those two lists could specialize for different table types or different opponents types one thing that you might
+do for example is have one list that has a black Air fire team option multi sniper and one list that doesn't because
+the black Air is a quite polarizing piece when it's good it's incredible but
+when your opponent has white noise it's 33 points of V borderline dead weight because that thing will go down like an
+absolute sack of bricks if it gets shot through what it sees as smoke and so having a list that flexes a black Air in
+one but not the other you can make the call like when you step into a game you're like ah I'm playing against
+combined Army I'm playing against tunguska they're going to have white noise it's very very likely therefore
+I'll take the list do have the black Air that's one way you could do it you could also build lists for different tables if you play in an area that has very
+variable tables you could play say you could build one list for example that's like Yep this table is a parking lot I'm
+going to play my list for parking lot tables or you could be like oh this table is a borderline rat Warren I'm going to play my list with lots of
+things that can do close assault a list with peacemakers and mul abushi and hacking something like that but
+basically however you want to build Castrol the broad array of profiles you have access to has so much consistent
+quality that pick a thing pick a thing you want the list to be good at and start with that as an idea and then you
+build back toward kind of General capability but that is how I would approach the faction actually figure out
+what you want a list pairing for example to do and then specialize your list to
+accomplish different things based on the constraints that it's operating under so that's a very kind of like General High
+Level approach let's have a look at the list that we are playing today as noted it is an intentionally generalist kestal
+list which for battle reports is fine but with a bit of a hacking skew so what we have here is a first combat group
+that consists of three separate link teams the first link team is a three-person fenic fuselier hares black
+Air fenic hacker and a fenic lieutenant now in this particular case I'll actually have the fenic lieutenant out
+of that link in a threers four-person core I'll just leave the lieutenant behind but you can there's two deco
+there's a decoy and a regular lieutenant in this list you can run them in either we then have a krux knight fto with
+strategic deployment another fenic hacker another fic parame par fenic paramedic and then a generic fenic in
+this particular case I'll actually swop the generic fenic and the fenic lieutenant because I don't I know my opponent will have guided missiles and I
+think it would be a bit particularly the location where I put the uh model that is going to be linked with the black Air
+looked a lot like a place you would put a lieutenant so I've just spped them around in this particular game but basically we are playing real hard on
+the Strategic deployment krux 9 fto one of the things this list is doing is it has a lot of Mind layers and it has a
+lot of hackers we've already seen two there's another one coming up which means that we are just shedding S swc
+into things that are not guns that is fine but in panania you've only got so much visibility control Etc but the krux
+Knight is basically a heavy machine gun with it cost zeros WC and has a bunch of
+other stuff it is an expensive profile but it is is really cool ALB minus 6
+good martial arts a very high damage multi Marksman rifle native plus one special die which means they be in a row
+it can be a three dice model which is just super cool he's very very good at throwing drop bears uh if you want to
+with this krux Knight you just you can throw like it's it's basically it's impossible to fail if you want to Yeet a drop bear a really long way because you
+have so many special die helping you hit multi pistol for short Range close combat is a specialist 50 points is 50
+points but very very cool profile we have another fck fck hacker I really
+like fck hackers they are just whip 12 but having a fast Panda Especial and a 16 point profile is awesome paramedic
+yep the krux N has high FS than another fenic then we have a Duo that I quite like but which you could also change we
+have a griffin with heavy machine gun now this is a piece that I have not been particularly big on because it's just an
+orc troop with an msv but in this case it's in a krol fire team so it counts as
+krol and the Firefly that it's joined with counts as contr as well so this is a really nice clean Duo the Firefly adds
+another hacker fairly good quality one that can do a bunch of classified in this case the Firefly is an NCO I
+wouldn't change it out but if you had another NCO in the list even if it's just another Firefly in another team you
+would consider exchanging this for bip pandra who has tactical awareness and is a very good doctor she potentially
+synergizes a little bit better with the Griffin directly the Firefly in this case just expands the hacking Network
+really well and since we're playing Supremacy is going to be a good specialist for that mission we then have a fagi drumbot just as the last order in
+this all links all the time group in combat group two we have our Midfield and a drop troop Peacemaker mind layer
+love this profile it is expensive but super sweet a Banshee killer hacker drop troop so this is the only khd in the
+list I am actually coming around to the idea this is one of the things I looked at at shinden Bhai and I like there's
+just no good khds in this list but actually the drop troop khd is fine and I literally might just run shinden Bai
+khds as ground troops with super jump um but in this case we have the bansi uh parachutist combat jump super jump with
+jet propulsion just a submachine gun just a submachine gun is kind of rough but it's fine and it's a k HD a beast
+hunter this is the pananian variant with heavy flamethrower plus one burst I noted I am not not a massive Beast
+Hunter enjoyer but it's got super jump that's a good skill that would come up in this game uh we then have one of my
+favorite profiles in krol the 11o half swc Jackal boarding shotgun boarding
+pistol em g l launcher infiltration M layer sweet profile for 11 points and then a mule bot now what is this list
+not doing well it's not spending its points particularly nicely five and a half s WC and 298 points is extremely
+cursed but I didn't want to change it just for this battle report and to spend those points you would have to adjust
+things sort of like a little bit more significantly now what would I like in this list I would like possibly one more
+backup gun you are relying kind of heavily like you can with that neurokinetic back black Air you can use
+it in active turn you don't particularly want to but it is an option particularly if you have good range bands Etc it's still going to be firing one dice plus
+one special dice um the krux Knight is a very good gun the Griffin is a very solid gun but you're kind of falling
+short after that you don't have much more in the way of Firepower and muscular pieces after that point if
+you're not going to take any more muscular pieces then you do want other pieces that can do like dangerous close
+assault work and so another option for this list would be to trim down those fire teams right you don't necessarily
+need four people in the Crux Knight team if you were to cut for example the paramedic or even a hacker I don't think
+you need as many hackers as this list has you could start doing things like fit in yamabushi and yamabushi are very
+very good they give you more dangerous close assault and so while there are things that I would do in tailoring this list in the spirit of the request in
+this particular occasions I've made no amendments and I think this is a very serviceable list very serviceable list
+for generalist play so that is our initial discussion about krol my base
+and kind of kind of not necessarily super helpful but somewhere to start if you're doing list construction right
+think about a thing you want the list to accomplish whether it is a scenario or to beat a certain opponent or a certain
+faction or a certain table and walk backwards from there um move backwards from that specialization toward a degree
+of generalization that you're happy with let's jump into and take a look at what we'll be playing against today
+jurisdictional command of tunguska so this is the tunguska list we're playing against this is against one of my regular opponents Aaron Aaron who has
+jumped back into infinity and N5 Aaron and I have been playing a bunch I've not done battle reports of nearly any every
+game that we've played um but he's Keen for N5 and he's basically just playing
+everything in the faction until both the faction and N5 the rest is brushed off I really like this list but full
+disclosure that is a very very uh Barack Obama awarding himself a Nobel prize.
+jpg kind of vibe because I wrote this list um Aaron and I had a game earlier this week where he was trying out pereus
+in a securitate link don't do that by the way we learned the hard way that sucks Perseus is awesome turns out that
+stapling him to a bunch of dudes that can't super jump is not very good Perseus incredible uh slowing him down
+by by putting him with securitate no that do not do that he's just way too dangerous I have never felt more
+comfortable playing against Perseus than I did in that particular game after that game we got to talking and I basically
+just rattled off a bunch of things because I I mentioned hey I think in this particular list total reaction Bots
+are very helpful in buying you time but if you're taking a total reaction bot you do need an engineer Aaron responded
+I do not like taking the clock maker it's very very expensive I think it's only a sometimes food what other Engineers do we have we've got Fiddler
+is fidler any good in N5 people have been saying she's kind of bad I don't know I actually think she's pretty good I think a lot of the there are things
+about her that changed and that made were made worse but the core effect that
+she has which is that she just Forks you with like multiple shotgun attacks at
+close range with very very dangerous shotgun attacks is still present and actually in some respects more powerful
+she's probably still pretty good what can we do with the list and I rattled off a bunch of units and then I put them
+in a list and it turned out that they all fit and so that that is this list uh so what we're playing against here is
+just an absolute Gremlin swarm of Tonga robots with just enough Firepower and
+just enough hacking to be able to carry through on the traditional Nomad things so in combat group one we have Fiddler
+with two jackpots and two Z Bots we have a puppet master with two puppet Bots one forward Observer one plus attack shock
+we have an interventor Lieutenant hacking device plus and an interventor killer hacker a walk a Creer borack
+Perseus in a duo with a stlas on that is a pure Duo it's the nnic team I probably mispronounced that at pure Duo so they
+get fire team bonuses a transactor z and a vertigo Z and then in group two we have a reaction z a transactor z then
+mccon then MCC Connelly a zeelen creger and a salamandra pilot the salamander pilot I would note is a particularly
+it's a a piece I've particularly enjoyed putting in list because I do think that when you're running a list like this you want like
+this is only just barely enough hacking uh in particular it's very possible for that interventor Lieutenant to not be in
+a position where it can safely AO maybe at Cyber mask or just 15 whip is very
+very good but it still won't always succeed if you can multiple hackers for AR is very very nice now in this case we
+have just the one regular hacking device but we at least have two killer hacking devices and that can go a really really
+long way and we have two killer hacking devices despite the fact that we have put all of this stuff into this list
+because the salamander pilot khd is 10 points for a killer hacker cool yes that's that's literally less expensive
+than the generic order mukes in this faction and I get a serviceable killer hacker where do I sign thank you very
+much so I like this list a lot but of course I do I freaking wrote it uh it
+also has I think 21 Troopers uh so so take that stick that up your 15 15
+Trooper limit and smoke it this is the kind of thing that you can do with Nomads this is probably my favorite uh
+favorite tunguska list that I have seen in this Edition so far but again of course it is I wrote it uh so that's
+what we're playing and what we're playing against as noted the scenario is supremacy let's jump in and see how it
+went so this is our table setup for Supremacy playing in kind of like Forest Outpost um built up against the edges of
+a forest if you look at the to on the top of the table here you will see some trees but these are actually just marking the table Edge uh so the forest
+ends there are just some Alleyways around the buildings that are on the topmost part of the screen right now but
+otherwise that's sort of where the table ends um Aaron has won the role with the wh 15 Lieutenant not particularly
+surprising he has won the role and elected to set up second on the table Edge that he is on and I do consider
+just going second um but I know that he's going to have a puppet master or at least it's very very likely right
+pretending that I don't know what in is in his list exactly I know it's likely that he'll have a puppet master which means he has Canter intelligence I know
+he's likely to have guided missiles and be able to do some reasonably good offensive firstand things I don't really
+want to give tongus first turn so I elect to go first so I'm going first and I'm deploying on the right side of the
+table now in terms of deployment uh we have our four person but it will very soon be a three-person team in the
+bottom right corner of the screen here we are making use of strategic deployment from the father Knight but it is really not doing very much of
+anything it's saving us all of perhaps half an order and I find this is often the case I do not like strategic
+deployment as a rule I find that it very rarely does much of anything and it's a very expensive rule four points for
+strategic deployment could seriously buy you a bunch of stuff in a list like you shave that and then a little bit of
+something else and all of a sudden you're turning things like flash pulse Bots into borderline like yamabushi level pieces so in this particular case
+it's getting as half of an order potentially don't know if it meaningfully had an effect on the game and particularly defensively where you
+often want to take use of depth I find that is often the case as well so maybe this is something would change back the list if I was to play it again but in
+this case we have it so we're making use of it the father Knight and team are positioned here they are ready to move up fairly aggressively around this
+helicopter there are a couple of paths that I could take if I wanted to attack Aaron's deployment Zone and because I'm
+going first I also want them to press buttons on the first turn Supremacy is a scenario where if you are going first it
+can be quite easy to fall behind on scoring as your opponent just Maneuvers
+to get those points from securing more zones and so I find if you can an attack run that also presses buttons can be
+very very valuable uh we then just have just a smattering of remotes The Peacemaker is hanging out here behind this building the flash pulse bot is
+behind this bridge the mubot can't be seen but it is behind this building in the top right the team that will
+eventually compris the black Air is in the back of my deployment Zone but the black Air is my Reserve drop and I'll explain that very important in a second
+we then have the Griffin and the uh Firefly in their Duo just hanging out here now the Firefly is not up against
+cover or anything but because I will always be spending the NCO order on them I always have at least one order to move them out so
+they're positioned a little bit aggressively we then have a smattering of Mines throughout the Midfield one
+mine is behind the the helicopter here thanks to the uh the grenade launcher
+mine layer Jackal positioned just behind this building in the Midfield now this positioning along with one other
+camouflage marker is also quite important so we have in just about but not quite the middle of the table we
+have the Jackal M layer here now in it's projecting a 24 in uh 24in Range band
+with its grenade launcher probably something like that or thereabouts so into quite a lot of Aaron's deployment
+Zone but not all of it what I'm specifically doing is I'm trying to
+Corral important pieces of his back into this corner especially which is why the
+why the Jackal is just a little bit further in this direction toward the bottom side of the table as you can see
+in this picture I want to kind of push Aaron to put something there because a
+camouflage marker that is deployed over here behind this building is going to be the Beast Hunter and the Beast Hunter
+has a nice clean line over these rooftops thanks to super jump in this particular case Aaron obliges his
+interventor deploys behind this crate but he defends it very very heavily uh the war correspondent is on these stairs
+with a nice sort of like Crossfield line of fire it's not watching my deployment Zone but it's watching many of the approaches uh per and his Templar on are
+hanging out down here as well the khd interventor is a little bit further back the missile bot is on the back table
+Edge now Aaron can only see 13 Troopers that he knows are real on my deployment Zone and because the black Air
+parachutist exists he's got things like the missile bot here which is watching the entirety of his deployment Zone
+along with some other pieces the cza borak is hanging out behind this truck here doing kind of similar things it's
+actually positioned a little bit aggressively so it has a line not quite just about up across this bridge again not looking to my deployment Zone
+initially you want to set your arrow up if you can doing things like those Crossfire positions not watching your
+opponent's DZ but watching where your opponent has to move through to attack you this is kind of 101 level stuff I've
+covered on the channel before but if you're new cuz there are some new people watching this channel the reason why is
+if you deploy something watching the deployment zone right if you deploy a gun watching your opponent's DZ then
+they can shoot it on the first order of the game which means that whatever happens result to that face to face rooll it will be resolved in one order
+any risk that they bear will materialize very very early in their turn if if you win the face to face role right the
+thing that happens for them that is bad happens immediately which means that they can respond to it immediately with
+all of the orders that they have they can reorient their attacks they can bring in a doctor whatever if you watch
+into the Midfield the positions that they have to move through to get to you you still serve a defensive purpose but
+they have spent by the time any risk that they bear materializes they've spent one or two or three orders moving
+which means that the portion of their pool that they have to spend to reorient and recover from whatever damage they've
+sustained happens that much later in the turn which means it's much more damaging to their plans and so as a result we can
+see my deployment is going to be the same watching the angles of approach toward your deployment Zone not watching
+the enemy deployment Zone and we've got a bunch of things in this deployment that are doing that the puppets are both watching the long Cross Lanes so the
+puppets are deployed on ground level and behind this this crate here watching basically everywhere that they would need to the C of borak is deployed back
+here the missile Bots deployed back here we have in this position behind this and around this around this building a
+little bit more of a close in defense there is a repeater hanging out here then McConnell is inside the building
+and eventually fidler will deploy down there as well but in terms of repeaters good repeater coverage in this deployment as well so we've got the
+first repeater behind this building the second repeater sort of forward behind this High ground and then the third repeater pursu repeater this
+collectively basically covers just about Aaron's entire deployment Zone which presents a very you need three repeaters usually to do that presents a very very
+effective hacking defense finally Aaron's Reserve drop is going to be Fiddler and she's oh the total reaction bot can't miss that total reaction bot
+is in on on this building watching not necessarily all of my deployment Zone but again kind of the same deal right
+it's got a little bit of a high ground visibility but not that much but mostly it is again watching the approaches and
+importantly it's got a nice line down sort of this direction and this direction not necessarily bracketing my
+DZ directly now fdd's going to come down as the reserve she's going to deploy her jackpots she's going to deploy in and
+around this building here but she will have her two puppet pots positioned all over the place to be able to provide support for stuff now as mentioned I've
+deployed obviously my black Air already at this point my black Air neurokinetics is my Reserve drop and that was a very
+very important pick in this particular game the reason why is Aaron's Lieutenant rolled for willpower 15 that
+means Aaron has a interventor lieutenant that means he has white noise and that means that if I put the black Air in the
+wrong place it is going to be just meat for the Sharks because just about any gun in Aaron's entire list including
+even just the Thunderbolt is a threat to the black Air if it is shooting through White Noise the Creer borak especially I
+want to know where that thing is before I deploy the black Air once the creaser goes down I'm able to assess all the
+different lines and possible positions it's on ground level it's going to be moving maybe through one of these two different Alleyways up the board okay
+cool I need as much distance as possible so the black Air goes slamming up against the back of the table Edge on
+that crate with as much distance as it could possibly can between it and any different threats that gives it the best
+chance of surviving the game and in fact it would survive the game but while it limits it it limits how much impact the
+black Air is going to have because I I can't just bracket Aaron into his DZ with it I have to deploy it like that
+because if I just deploy it watching his deployment Zone if I have that option and there are a couple of positions for
+example on this crate here I could potentially had quite good line of sight into Aaron's deployment zone or about half of it it just dies in two orders to
+the CER borack and I don't want that to happen so I'm much much more conservative with it now as noted I am
+going first and we have positioned this Crux team in fact we positioned a few different things to make some fairly dangerous attacks Aaron first is going
+to strip orders from our order group now he has some good information to work with here in his sec in my second combat
+group he can see two regular orders a bunch of camouflage markers and two irregular orders and deduction based on
+and what he knows about the faction will tell him that one of those irregular orders must be a beast Hunter and the
+others the other camouflage markers are just mines that means there's a beast Hunter and the um spec fire Jackal and
+so he actually elects to strip both regular orders from the second combat group that means that even though he has
+put this interventor right where I wanted it in order to potentially attack it even on the first turn with the Beast
+Hunter he has identified the threat from the Beast Hunter and just comfortably neutralized it and in fact just about
+neutralize that entire combat Group by stripping those orders which is cool well played his interventor will be safe
+this particular turn I do have all of the orders that I might want in the first combat group though effectively 11
+orders and I will be spending all of those on a fairly solid first turn now the action I have enough orders in that
+group to basically split action across two different flanks along the top flank as the picture is being presented the
+Griffin and the Firefly are just going to move out and they're just going to have some face Toof face rolls eventually what they will succeed in
+doing over the course of a couple of different f is that they will wound a puppet they will actually do this after something else happens so that's a very
+safe engagement you'll see why in a moment but the main thing they do is they put the Thunderbolt total reaction bot down the Griffin gets wounded in the
+process of doing that which is a little bit unlucky he's got good ballistic skill and a lot of dice and good armor but he does take a wound but he does
+eventually put the total reaction bot down and then they just sort of hang out in this space here and here relatively
+safe the Griffin Goes prone the um the firly is behind a crate it's sort of comfortably protected good enough for
+just a few orders that leaves the remaining orders in this combat group to move up and around this way but before
+we do that we may as well just spend the Irregulars that we've got in combat group two and so the first of those we
+spend moving the Beast Hunter forward using super jump it boing boings forward just to there's a nice safe position
+like between a crate and a staircase underneath this overpass here it's just going to go there that's going to be a
+real pain firstly it'll go into Aaron's side of the table and secondly it' be a real pain for him to deal with but mostly it just means that he has to put
+models in that zone otherwise I will score it sweet cool good use of an irregular the other use of an irregular that we're going to use is to Showcase
+one of the things that I really really like about these Jackal infiltrators and that is that they are a infiltrating
+irregular mine layer okay cool well they give us 11 points for a mine they have a template themselves you couldn't really
+ask for a lot more for 11 points like these things are probably better than dami in many respects and that's a hell of a bar to clear but they are still an
+irregular and you want to be able to do things with your irregular troops if you
+can yes you could just spend the entire game converting those a regular orders regular but you won't always have that
+many command tokens I have speed bowed this game for example and so especially if you're taking multiple Irregulars
+having Irregulars that can be good uses of their own irregular order is just fantastic and so in this case we have an
+em LGL we're just going to spec fire it it's basically free and so we do and so
+we specy as pet master and we crit and we isolate and immobilize him and turn both puppets off that's a pretty good
+use of 11 points good work Jackal so basically first that is actually I think the first face to face R of the game
+that all happens before the Griffin does anything um that's a that's a fine use of 11 points z z we have just turned off
+both puppets and stripped a regular order out of Aaron's combat group on his first turn good work Jackal anyway so
+Jackal does stuff Griffin D stuff and then the krux Knight and team go and they're basically going to sweep up and
+around here like this and along the the way they will take gunfights that they can krux knight leading the charge the
+entire way now the krux Knight is going to comfortably take out the flash pulse remote that is hanging out behind this
+building here Den MCC Connelly will actually Dodge forward and around to try and stop him krux Knight Will engage and
+kill Den MCC Connelly although I will take a wound as part of that movement but I still get the kill we press both
+of these buttons as part of this movement and then end up with the team basically in this kind of like Nook position here there's a mine protecting
+them the the Crux Knight is very very dangerous in Aro he's got high ballistic skill good armor good BTS and because
+he's natively plus one special die the Crux Knight is firing Three Special die in Arro which is just like really really
+hard to punch through not a lot of pieces can comfortably deal with a Crux Knight in any capacity if they're trying
+to just engage him with BS attacks very cool now we don't have any like nice and clean and easy um drop bears that we can
+throw there's nothing that really leaves out but we do have one spare order left at the end of the turn if we didn't have strategic deployment we might have had
+to have used that order to uh move forward as it is we put a repeater down in the building here using the fast
+Panda that the hacker has so that's nice that is going to actually make life a little bit annoying if for example Aaron
+gets his puppets back online which he will do but basically this is a solid first turn I have moved I have pressed
+two buttons I have moved troops up into every quadrant which if nothing else is
+going to make it difficult for Aaron to push all the way through to my quadrants because he has things in the way that he will have to deal with I've scored three
+kills which is not bad for a the three kills effectively four so I have knocked
+three things unconscious or killed them and I have rended a third isolated which is as far as turn one attacks go is
+pretty damn solid uh it is about what you would aim to accomplish much of the time I think as part of a good turn one
+attack and in this case we've also positioned for scenario and pressed two buttons so solid first turn Aaron will
+respond with a solid first turn of his own and his solid first turn is going to be very very very fidler Centric so the
+first half of his turn is just her spending a whole bunch of orders uh she's going to be moving out and around
+this way along with her jackpots and around here she's got a safe line to do so cuz the black Air quite quiet SE down
+there and along the way she's going to be activating her helper Bots now first there does need to be some white noise
+placed down over the total reaction bot because the black Air isn't actually ex the black Air firstly can see the TR bot
+the downed TR bot but secondly it could see the Gap that the h would have to follow to get to it so interventor
+Lieutenant order White Noise Boop uh as part of Fiddler's movement the helper bot moves up and repairs the total
+reaction bot she continues to move up and around and along the way the second helper bot will swing by the down flush
+post bot over here and will recover it that's pretty good and then finally she will launch her assault on the father n
+now she doesn't do this herself she is a better gun fighter than she used to be with a effectively burst three Contender
+but you she's still too import the if you put her up against the father Knight and she dies you lose everything about
+her all of the peripherals Etc everything so instead the father Knight is already wounded by the way I called
+down speedball I called down two switch on which I felt was pretty relevant against Nomads actually would not matter at all this game the Griffin got one and
+the father L got the other uh the father Knight who was wounded from then in his engagement with then Connelly is hanging
+out behind this crate uh and two puppet Bots just two jackpot sorry just come up this way and around uh and engage him at
+Point Blank Range with their shotguns and he's pretty good but he can't take four shotgun bursts split from between
+two different things so what I do in attempt to minimize the damage he engages one of them he actually breaks out of the link cuz he's still plus one
+special die he engages one of them and the hacker attempts to Oblivion the other none of it none of it works the
+krux Knight is fighting a shotgun at close range just using his pistol uh he loses the face to face roll there the
+hacker whiffs but will succeed in a subsequent order um but the father Knight goes all the way down burning to
+Vulcan shotguns the helper Bots then continue up and around and over and Fiddler gets involved at this point
+right it's safe to do so now that the father Knight is down so she and the two other helper Bots two other jackbots
+fork in and around and Engage The Hacker that is hanging out behind here with the father Knight and although I am able to
+actually win a face to face roll and Oblivion one of the jackpots it goes down in he goes down absolutely
+screaming he can't fight all of them and so he dies uh at that point fidler has one order left and she pulls back and
+with that one order this helpbot that was hanging out here comes up and over and succeeds in turning the Puppet
+Master back on so that alone is a hell of a first turn but that's just orders
+from combat group one uh the Puppet Master also spends their irregular just to move some puppets around uh in combat
+group two there are still a few orders which we use to have the uh the total reaction bot move up and around this way
+and over this space here it's avoiding the black Air as it does so thanks to that white noise and because Aaron knows
+that the camouflage marker that I moved into his part of the table spent an regular order has to be a beast hunter the most expensive that a beast hunter
+can be is 17 points very very helpfully the total reaction bot is I think 19 points so it's exactly enough to
+outweigh the help of the um the Beast Hunter and it moves up and around here and it actually gets a kill on the I had
+to deploy kind of awkwardly this table was a little bit hostile to peacemakers and I really wanted mines all over the
+place um so it eventually engages and destroys the ox bot but the ox spot lays down some mines as part of that it's
+fine that's a fine exchange I am comfortable under normal circumstances with my opponent spending four orders to
+kill an oxb during which time I get Del lay a mine but it is worth noting as a kill and the Thunderbolt gets up and around to here hiding otherwise from the
+black Air so at the end of the first round I still have two buttons pressed
+but I do not score more zones than Aaron we each score one and whereas I began my offensive putting three models
+unconscious and one model isolated Aaron has recovered two of those three models
+and removed the isolation and killed a 50 point krux Knight and a 16-point
+fenic hacker so that is quite a reversal and a really good Showcase in especially
+if you can do efficient Force reconstitution right because FID is moving up to attack anyway all she has
+to do is give up a short skill here and there in order to recover these pieces that were down this was very clean very
+efficient force reconstitution and basically by the end of this round all of a sudden I am technically still ahead
+on score but damn the attrition lead is kind of just disappearing so going into
+my second turn we can see Fiddler has ended up uh she's hanging out on these stairs we have the bot that was isolated
+it will be back later on because of course she is an engineer and the other bot guarding Fiddler so far only buttons
+pressed our mine and I do have tons of mines in the Midfield but we're kind of running out of troops to do stuff with
+still we are playing panania the first thing we have to do is take some gunfights so the Griffin that is wounded
+from its last fight with the with the uh with the Thunderbolt total reaction bot just takes that fight again and it gets
+crit again uh but in this particular case I Spang both armor rolls Thunderbolts are not hugely dangerous I am armor four and a couple of face to
+face rolls later we put it down excellent good work with the small number of orders we have left in the
+same combat group we are also going to have the Firefly uh crawl its way down these stairs and walk just across the
+halfway line so that it can do net undermine it will then cycle back and press this button it's doing all of this
+while that it's it's moving to these positions while the Griffin having Face to Face rolls and then it will come back to get back into this Zone after it
+presses the button so in terms of collective work of this combat group we only put one Trooper down we put the
+total reaction bot down and it's probably too far away now for a helpot to be easily recovered but we do put it
+down again and we accomplish both a classified and press a third button so that puts us with three buttons pressed
+and the classify done which means that if we can keep the score even remotely even we're not in a terrible place it's
+not how I like to place the versy ideally I would be I would much rather just step on my opponent as hard as
+possible on the first turn if I'm going first and ride that to Victory but Aaron's list has 6 billion different
+Gremlin robots in it and it's just not easy to attack it with this kind of a pananian list so we have to play God
+forbid a fair game of Infinity but we will try and be a little bit unfair here we have just cleared the way the Beast
+Hunter is now going to do its thing it will move and then super jump and it will make the run super jump again there
+is an attempt to discover it which fails and then it activates again and bounce forward and bounce forward over onto
+this onto this crate here it does get discovered as part of that movement but it makes it all the way there safely and
+then I stop and I around for like 2 minutes trying to make sure that there is a parabolic Arc that gets it down
+into combat with the interventor because parabas are not easy to eyeball what a
+fun addition to the game having to guess parabolic movement as opposed to super jump in N4 which just work kind of
+cleanly let's divide that into two separate rules I'm not a huge fan of super jump versus Je compulsion and the
+entire idea of parabis but whatever they're in the game now we engage with them as good faith as we can and I decide that yeah there's there's
+probably a line there's probably a parabola that gets me there it might be a slightly curved one but you going
+argue about that in the comments it still technically fits the definition of a parabola even if it is not really
+meaningfully different from movement that I would otherwise make using the super jump jet propulsion rule so we par
+parabolically jump down into close combat with the interventor and basically everything shoots except the
+interventor who Dodges which is a very good Aro choice now at this point I have to make a call I'm not going to survive
+to make one more order I'm being shot at by linked Perseus a linked total a linked robot with a comb rifle a missile
+launcher a Creer borak and a puppet and a flash pulse flash pulse walk that Beast Hunter is dead as hell option one
+flamethrower the interventor it's attempting to declare a Dodge which means that it's got a better than 50%
+chance of surviving option two stab the interventor the terrible downside of that is that
+Beast Hunters kind of suck in close combat they're just cc21 they don't have anything particularly special going for
+them they're just not very good close combatants despite the fact that they kind of look like they're meant to be cc21 is a little bit of a trap I have an
+okay Chance of killing the interventor if I make a cc attack and this is one of the things actually that differentiates
+a beast hunter from for example a shinden Bai kin killer even though I'm not necessarily even a particularly big
+fan of Kyan Killers any more than I am of of Beast Hunters in a casee like this
+the fact that the kyjen Killer is native Burst 2 in close combat means that that fork that it's presenting actually is
+scary and dangerous because the burst two in close combat gives it a very good chance of putting the interventor down
+the Beast Hunter with just plus one dice with just one dice rather I am not hugely willing to risk a kind of anemic
+CC flamethrower Fork so I just put bur two flamethrowers into persus and burn him to death bersus is terrifying and if
+that's what I get from this attack run putting him down is totally toally fine as is predicted the uh the Beast Hunter
+takes something like four saves in this face to face rooll actually only goes unconscious um but yeah gets put down by
+a combination of missiles and guns and Etc still as far as it goes and given
+that the attrition deficit is like the attrition is not going my way that is not at all a bad second turn although if
+Aaron did not go into his fact that Aaron is going to be going into his second turn with like more orders than I
+would like because he bought all of that stuff back makes this somewhat of a bitter pill to swallow um I I feel like
+the game right now is very very even as Aaron heads into his final turn rather than not final turn Aaron heads into his
+second turn rather than necessarily good now in terms of making good on his second turn this is the turn that Aaron
+wants to make a play to attempt to actually get not a scenario lead because I have many points based on the fact
+that I pressed all the buttons but get those two points for scoring more zones and the way that he wants to do that is
+particularly it's to it's by dealing with the troops that I have shoved into this quadrant over here and then scoring
+this quadrant over here Fiddler is well positioned to do the to do the latter he needs to deal with the for and he should
+have enough resources to do it now the soul for the defenses I have in place on the bottom flank of the bottom side of
+the screen quite easy F's going to move around and recover that isolated jackbot and then the Jack bot's going to come
+around cop the mine and just annihilate this poor fusilia paramedic I have other pieces in this Zone but that's that's
+comfortably enough in this particular case uh fidler will end up hanging out behind this crate and she's 20 something
+points that's enough to secure this Zone along the top flank for want of a better
+word Aaron has to deal with the Griffin trooper and the Firefly hacker both of
+those are dealable with uh the stempler Z is going to first move up and deal with the Griffin I have left it prone on
+this bridge so that it is in the Aaron Zone kind of difficult to deal with but
+that bridge is not necessarily a particularly safe space I could have pulled it back further although I didn't really have the orders to do so it was
+gunfighting just about up until the very end but in those couple of orders I spent particularly moving and pressing
+buttons with the uh the Firefly I could have moved it back um in any case it is on the bridge it's a little bit exposed
+and so the templon is going to move up and engage it this is a three dice to two but we are both on 14s and I'm
+wounded from my engagement with the Thunderbolt so the Griffin goes down and in fact this could have been made easier by just changing the order of operations
+because the second thing that Aaron does is move the interventor killer hacker up and around takes a couple of orders it does have a path up through this space
+that it can just barely follow if it squeezes around this crate doesn't bring it into the black Air line of sight and it pops a fast Panda up here which then
+let's it it's got two orders I think left to spend at this point and it trinities it takes two orders but it
+trinities the absolute hell out of the Firefly now you just Chang the order operations and you've dropped the uh the
+special die off of the Griffin which makes the face the face r with the simpler on even more reliable that's a nice clean removal of those two pieces
+that leaves just a couple of orders free in the second combat group for Aaron to move the khd salamander pilot up and
+around and it will just move up press this button and then hunker down behind the helicopter over here which all in
+all is a solid turn and what it does mean is at the end of this turn although I still have the top right Zone Aaron
+has bombed enough points into the top left Zone to score those and I the bottom the bottom left zone is still
+aand as well which means that at the end of this turn Aaron scores two points for securing
+more zones I am still in the lead at this point but I'm in the lead because
+of mission objectives I've accomplished that Aaron can also accomplish so heading into the final turn it's time to
+get Scrappy and we are just going to see if we can't establish a position that maybe keeps things as equal as possible
+on the bottom My Left Flank couple of things are going to happen here uh because we we have very limited
+resources the first is that the Banshee is going to walk on behind the helicopter along this table Edge that
+has it outside Fiddler or anything else's line of sight it can do so relatively safely it's then going to
+super jump up and around in order to see Fiddler it's going to put three shots into her back with the submachine gun
+but although I crit she is crit immune I do one hit which she passes the save uh
+but then from there I will knock in behind this helicopter blade and khd down the salamander pilot that's
+basically all that I have the orders to do I've used all of my command tokens at this point I think I have one irregular
+order left that I can spend we'll get to that in a moment uh but we do have in our first combat group some regular
+orders left and the fuselier fck fuselier lieutenant is going to shine uh he's going to come out and around this way and then down here actually sorry no
+he comes uh up and around this way engages and destroys the jackbot jumps
+down here and then comes around the around the crate to catch Fiddler out of cover while I am in cover thanks to the
+crate and I think it takes like three face Toof face rolls uh but I I put her
+down with the faithful old Combi uh which means that at the end of this turn I've got the uh 23 point I think killer
+hacker in the bottom left Zone and the 10-point fuselier plus the 11o Jackal in
+the top in the bottom right Zone we also as mentioned have that irregular order on the Jackal so we may as well spend it
+again which we do by once again spe firing the puppet master and once again
+rendering him isolated turning off both PIR both puppets which means that that that 11o Jackal has 100% like made his
+made his contribution to this particular game uh absolute MVP Champion little piece and that's why I like the 11o
+Jackal I got absolutely lucky with them this game but just isolating a key piece
+like that twice in a row wouldn't have worked if I tried for a really longrange bomb for example against the intervent lieutenant but if if I had two Jackal I
+would have had one potentially in range so yeah that was just super awesome however as we head into Aaron's third
+turn he's got a pretty clean line of play in order to win the game right now
+I am on Five Points at the end of the first round we each scored one for zones I've pressed three buttons and I've done my classified Aaron has done his
+classified it was to recover something using an engineer or a doctor he's pressed one button he scored three
+points from Zone control one in round one and two in round two which means that he is on Five Points as well which
+means that all he needs to do to win is press any console and then just score the same number of zones as I have and
+that is probably doable uh even though look I've got the the biggest challenge
+is the fact that I have the Banshee hanging out in his side of the table behind this this um helicopter but the
+thing about the Banshee is that it's a killer hacker and the thing about killer hackers is that tunguska is very very
+good at solving them and so the combat back group two STL on uh sorry transor on that got picked up by Fiddler at the
+end of the first turn just moves out and around to here nothing can respond to it uh because the Banshee is a khd it
+doesn't have any hacking programs that would like turn off the repeater for example so it just walks cleanly into zone of control of the banshee and then
+the interventor begins to interventor killer hacker begins to move forward now there is always the chance that I quit
+this face Toof face roll and I do I quit the face to face roll against the interventor however Trinity is not that
+high damage and the interventor is BTS behind the firewall which means that that crit is just like oh what do what
+do you need to save on 18s you need to save on 18s is that what it is huh did
+you roll a 19 or a 20 on either of those dice you didn't damn guess we're going again
+hey h and so it takes I think it actually takes three orders in the end that that Banshee manages to win two
+face to- face rolls against an interventor but it is just not breaking through BTS 9 and five W penalties and
+on the third roll I whiff the roll finally needing tens and the interventor just annihilates the Banshee at last
+order of the game then the interventor I mean there were more Stu that Aaron could have spent but the last meaningful order the interventor just presses that
+button two dice on 18s uh we do a quick check and it is technically possible for
+Aaron to score three zones this turn and therefore get even more points but doing
+so would require the interventor walking basically just move moving with the last order to here and in doing so it would
+potentially trigger three mines and a shotgun shot and a full Arrow from the black Air and we decide that at least
+for the purposes of narrative no matter how much from someone from tunguska escrow screaming over the Comm to the
+tunguska that this would improve their bottom line if it just makes this movement the interventor would probably decline to make that move so Aaron at
+the end of this game gets over the line the final score we're going to each score one point at the end of this round
+um but that will put the score seven points to six so a very narrow but a a narrow but like a win to tunguska and in
+a tournament this is a is a round that would get Aaron I want to say four tournament points and me two so very
+high-scoring game lots of action lots of violence we got to see Fiddler absolutely strut her stuff which was
+very very cool I think rumors of her demise are greatly exaggerated we did run into plenty of situations where her
+trying to move with cling plus was a little bit awkward but at the end of the day those jackpots will still just
+absolutely mess you up and she's an engineer in a faction that really really likes Engineers so not every faction
+that can take Fiddler or necessarily wanted to take Fiddler but in tunguska if you can fit her compared to the cost
+of a clock maker pretty manageable so that concludes this battle Report with a naron guso win uh big thanks as always
+to the channel supporters who make videos like this possible if you'd like to support the channel you can do so either by becoming a channel member on
+YouTube or via the buy me a coffee Link in the video description below in terms of future content this is likely to be
+the video for this week coming out a little bit early but I may also get a video out on the weekend we'll see and
+then the weekend after that is Canon also very much we'll see so there may be a Breakin content uh not this week this
+is this week's video but possibly next week we will see the Saturday long weekend is cancor and it's going to be a
+very very big weekend I will be catching up with a bunch of mates from Interstate there are going to be Infinity games played I'm very very much looking
+forward to it but finding time around that to do a video is a little bit of a maybe however as always very much hope
+that you've enjoyed this F battle reports and faction focuses and I'm looking to do a Infinity N5 one in a bit
+months in all of that content is potentially coming up in future hope you'll stick around for it hope very
+much you enjoyed this and I'll see you next time

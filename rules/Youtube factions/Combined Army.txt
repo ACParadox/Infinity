@@ -1,0 +1,368 @@
+
+Intro
+Hello everybody and welcome back to the channel. Today we're debuting a new series of videos called Breaking the Bat
+where we take a look at how you can take on some of the most challenging armies to face in Advanian 5. And we're opening
+up with maybe the biggest boogeyman in the edition, vanilla combined army.
+Before we get started, big thanks to Jordan of the Lost Lieutenant podcast and local legend Dion for their valuable
+insights in making this episode. They're both vanilla combined players and having their experience to draw on and their
+opinions really helped put this video together. So, what makes vanilla combined army so hard to fight? Vanilla
+What Makes Vanilla Combined Army Hard
+combined presents a unique set of skills that add a lot of mental load to the game. These are things like mammonica or
+sepsider, other unique pieces of equipment or even unique combinations of equipment that you might not be familiar
+with. As well as everything else vanilla combined presents, these unique skills and interactions can really put a lot of
+mental load on your capacity to make good decisions. They've got a very high build variety in the periphery of their
+list. We're going to take a look at the general structure of a vanilla combined army a bit later, but while the core of
+their lists tend to say tend to stay the same, they can present a number of different threats kind of in the more
+interchangeable parts that really affect what they can do to you and the strategies you might need to implement
+to stop that from happening. They've got a very high snowball potential and this is mainly through skills like
+Proththeian where their units can get stronger and stronger and stronger and really run away with the game unless you
+can nip them in the bud early. They've also got units who absolutely excel in their role. Whether it's absolutely
+brutal hackers, CC units, or gunfighters that you yourself are very unlikely to
+outdo in that category or take on a direct confrontation on their playing field. This means instead of being able
+to return fire in your active turn, you're usually having to get more creative than just giving to them what
+they gave to you. They've got a very strong hacking game in a current meta where hacking is extremely strong where
+a lot of missions have hacker bonuses and where heavy infantry is getting more and more common as their points have
+dropped drastically. Having a really strong hacking game has become quite important and vanilla combined has one
+of the best. They've also got very durable, high impact gunfighters and
+units like the Kranted and Surirats who have a lot of wounds, have a lot of
+armor, and have a lot of punishment they can dish out. They've also got a very strong reconstitution potential with
+units like Dr. Worm who can easily put their army back together if pieces start
+to fall off. Finally, there's a lot of very scary hidden information. If
+there's a troop missing in deployment, it could be a number of things which you'll have to look out for. And any
+combined army reserve drop is also likely to be quite terrifying. So, what do vanilla combined
+What Does Vanilla Combined Army Do
+have the ability to do to you? A vanilla combined list wants to disassemble your defenses with vision control, warb
+bands, and scalpels. Then, ideally, they want to scalp out your hackers and/or
+lieutenants. And once they've scalped out those hackers, they're in a very advantageous position where they can
+kind of get more free and rampant about taking control of the board. And if they're able to scalp your LT, that's
+another point in the game where they can really pull ahead and start snowballing. They want to outdo your units in the
+same roles. They want to be frying your hackers with their hackers. They want to be shooting down your guns with their
+guns. and they want to push those advantage states to their absolute limits. In the late stages of the game,
+they want to start reassembling their defensive matrix to close out that game, picking up those TR bots or picking up
+wounds on Atuser to lock out games once some of your resources have been expended and they've been able to put
+those resources back together in a way that can screen you out from doing anything useful. They also want to take
+objectives as necessary or in the late stages of the game once they've got a very strong
+What Vanilla Combined Army Dont Want You to Do
+grip. So, what does Vanilla Combined Army not want you to do to them? Vanilla
+Combined are very afraid of their hackers being scalpled before they can effectively protect themselves. Vanilla
+combined sort of has a pattern of units that start the game in a very weak or
+vulnerable position, but can quickly protect themselves through marker states, extra wounds, firewalls,
+positioning, that sort of thing. So, they're afraid of having their hackers killed before they able to get into
+cyber mask, get into a very defensive position, get extra wounds. So, if you can jump on those hackers early, that's
+quite effective. They're also very worried about their defenses being rendered irreparable. If you put down a
+vanilla combined TRbot, for example, if you have the opportunity to, it's always
+worth the extra order just to get that corpse off the board, especially if they have a slave drone or a doctor worm
+nearby. This means that when that when you fully dislodge that piece, they
+don't have that potential for reassembly, and it permanently strips something from their grid, which can
+really hurt a vanilla combined list. You can kill any of their big three units,
+which we'll talk a bit more about later, but most vanilla combined armies have one to three E units that their whole
+list is really resting on. If you can kill one of those, that really sets a combined player back. They can also be
+pinned under very extreme ranges. Manila combined have good gunfighters, but
+those gunfighters don't tend to be able to shoot effectively over 32 in. They
+have a couple of exceptions, but for the most part, if you can get a really nice long fire lane and set something up
+there watching with a visor and a non-visor, that can really punish a vanilla combined player. They're also
+very afraid of losing their vision control. This links in a bit with some previous points where they can't shoot
+over certain ranges and vision control includes things like white noise from their hackers or smoke from their war
+bands like the datarazzi. If you can start taking out those pieces and make them unable to really effectively
+advance, that's another great way to styy a combined army player.
+If you can callull the order generators around any of those big three units kind of take that four from under them that's
+a very good way to get under them as well. And then also heavy ar they're heavy armor that they can't crack.
+Vanilla combined does have good guns and has a few good weapons and ways around around armor but it's not as easy in
+some other factions and multi-wound high armor arrow pieces can really prove to
+be a bit of a struggle. So let's look at a structure of a vanilla combined list. And you can sort
+Vanilla Combined Army Structure
+of think of it as an onion with a core at the center and then layers going out
+from that core. So what's at the core? The core of an of a vanilla combined
+list usually has one to three 50 plus point models that are the key to the
+success of the list. These are units like Norius or Samaritans, corrantids,
+avatars, anaphics. the kind of repeat big lynch pin pieces you tend to see in
+villa combined armies. Now, the reason this is set up kind of as it is with
+this layered list structure is because you have this core and then the rest of the list is really built around
+supporting this core of the one to three big three models around that. In the next layer,
+you've got the periphery, which is the hackers protecting the hackable pieces and extending the range of those apex
+hackers. You've got the scalpels who are taking out units and problem pieces that
+those core units can't handle. You've got defensive units stopping an offensive advance from reaching these
+big core units, button pressers to close out missions, and war bands to cover
+those ranges. Then you've got the final layer which is the junk which is sort of your
+cheerleaders. You know can include war bands here too. Some support units like EVO hackers and Dr. Worm, that kind of
+thing. But the big exploitation you can see in this structure of a list is that if you can peel off any layer, the list
+is going to fall apart. whether this is taking out the core of those one to three units, making that big support
+structure pointless, or whether you're stripping away part of that support structure to really hamper what the core
+of that list can do. So, let's take a look at some common core units and see what they're
+Corranted
+about. One of the most popular this edition is the corranted. The corranted
+comes in two flavors, a hacker or a heavy machine gun with
+MSV3. Uh, no matter what profile you pick, it's always got ECM hacker minus 6, BTS6, and two and a half wounds, and
+carries a hefty ballistic skill 14, and whip 16. So, hacking this thing is very
+difficult. It's quite a good shot, and it's quite resilient. The role the
+cronid plays in a list is either as an apex hacker or gunfighter and as a
+durable cornerstone the rest of the list can fall back on. It's also got very high synergy with vision control. The
+MSV3 heavy machine gun can shoot through smoke provided by Darazzi. And the
+hacker, who doesn't have the MSV3, can put down its own white noise to shoot through with an Xisor BS14 plasma rifle
+that can reach out quite a lot further than you might think. The weaknesses of the corranted
+is that it's very defensively vulnerable if mispositioned. It's usually only
+responding back with one die unless it's suppressive. And it also gets CCD very
+easily if it overexposes itself. It can also be impacted by advanced hacking
+programs. These are things like Trinity AP or Trinity Neg 3 or even some of the
+stronger Oblivion plus one bursts, say from a Dava or Danovis. But otherwise,
+if you've got, you know, average or middling hacking, that's not a good way to take this guy on. So, generally with the corranted,
+he'll be hanging out somewhere on the back line with his heavy machine gun or be moving up with that uh plasma rifle
+hacker. So, if you can get him in a position where you've got an opening for a close combat unit or a high armor
+cracking gun like a foyer, that's a great way to deal with the corranted.
+Norcius
+Next up, you've got Norcius and more generally the Samaritans. Their general role are as
+high mobility hackers and CC specialists, most having EM or Vorpole
+weapons, which are monofilament. They've got Proththeian stealth and Norcius specifically has immunity arm
+which means that he's not going to be taking extra saves from missiles or anything like that and can generally
+make very high impact plays without having to worry about his own health. The role in the list is to alpha strike
+key units or a volume of exposed units. the volume of exposed units more leans
+towards the Proththeian where Norius can run into close combat with something
+even if there's a number of units with lines of sight on him, kill that unit, gain one to three wounds, and then take
+a number of hits and keep on trucking. Or he can go for those really key units
+like the hackers that can threaten him. for some of the key units like defensive
+units, guns looking up or lieutenants. And after he powers up, after he gets those wounds under his belt, he become
+he can become nearly unstoppable and a force you just at some point have to ignore and accept as a
+presence. Now, Norius has recently lost uh his marker state, which is really
+impactful, and he's extremely vulnerable without those extra wounds. without the
+extra wounds. Norius is just BTS3 with no winding cap and can easily be trinied
+or if mispositioned, which very unlikely early game can be shot at. But if you've
+got first turn and you have a way to project your network, going after Norius is a really good idea before he can
+power up, get those extra wounds positioned well. He can also be counter hacked through repeaters where if he's
+trying to move up into your lines, if you can have a flashbot watching a close angle to where he can't stealth past
+your repeaters, that can be really annoying if he has a great volume of hacking incoming and he can have his
+time wasted by smartly putting down arrows. Norius is a unit who really
+needs the support of the rest of the list and that periphery element to make the most out of his orders and out of
+his movement potential. So if you can shut that down with very smart uses of
+arrows, which we'll have an example of later, Norius can really be stymied in that
+Sheshkin
+way. Next up, we've got Sheshkin, who's a very highly mobile gunfighter and CC
+specialist. Like Norcius, she's also got Proththeian where she can eat up and
+power up with those wounds, stealth, and a nano screen, which means she's very
+hard to misposition and can be very hard to punish. Sheshkin's role in the list
+is as a primary gunfighter, usually with a BS14 uh PS5 Red Fury. She's once she
+gets into the midfield, she can really rule the roost in that area with her perfect range bands for there uh and you
+know being really great in that close combat role going on suppressive as well. It can there's a number of ways to
+position Sheshkin where she can just be incredibly dangerous to attempt to engage once she gets going and once she
+gets properly positioned in the midfield and she's also got massive alpha strike potential. I you know I can name a
+number of times a shkin has made it into my deployment zone picked up a few wounds and then the game's just over
+from there. Now one of the big weaknesses of shkin is of course she can't engage over those 24 in. And
+that's where that tip earlier about locking down, trying to get very long range bands sort of comes in where you
+can waste units times. You can waste the time of the periphery units and she can again be vulnerable without those extra
+wounds even if she has that nano screen. And look, if she really does get
+mispositioned and sometimes opponents can feel safer having that nano screen
+and get, you know, a bit of bit of bit of hubris working against them. A high burst weapon into sheshkin can punish
+her if mispositioned, but she is one of the harder units to punish and exploit
+if played properly. Next up, the anthematic. Uh, a
+Anthematic
+very really potent model uh, and one that really puts the fear of God into me personally. Very potent surprise attack
+hacking with hidden deployment with a marker state. a really hard unit to pin
+down and one we might see a bit of a resurgence for now that Norius has lost his marker state on top of some just
+fantastic hacking with that surprise attack and marker state. Still rocking a Mim 6 plasma rifle which can do some
+damage up close and having stealth as a hacker is really really potent. Its role
+in the list, similar to Norcius or the Kranted, is to provide that apex hacking
+to the list, but more focuses on being very hard to interact with. A well-played aniththematic can almost be
+impossible uh for an opponent to get a beat on or even have a chance at
+attacking. And with that plasma rifle, he can really clean up a midfield late game and capture those objectives.
+Its weaknesses really are close combat units with a good willpower. This might be something like Shaolin monks or lean
+Kai who might be able to put a discover on the anathematic if they can move up well enough. Or a sensor is another
+really great way to attack the corranted. Sorry, not the cored, the anithmatic. But if you do see an
+anithmatic across the table, this is one of those units where the best strategy to deal with an anithmatic is to deal
+with the periphery and the junk around it. Even though it's a really hard unit to
+interact with, by wiping out the list around it, you can usually starve it of orders, especially if you can pay
+attention to what's in what group and really target things there. Then Achilles, a relatively new
+Achilles
+addition to the roster. He's a complete package alpha striker, three wounds, mim
+3, nano screen, and stealth, and is really just there to kick ass.
+He's I wouldn't say he's as strong as some of the other units, so he's got some more glaring weaknesses. He can really get shot to pieces after frenzy
+hits. Uh he's got a relatively low arm at only arm free, and he's very
+hackable. He will usually be starting a bit of the ways up the field. Doesn't really have any hacking defense, a
+marker state, or anything like that. So, that covers the main set of core units.
+Stealth
+They really rely on stealth for freedom of movement. Just taking a look at some general exploitable patterns. They're
+relying on that stealth. So, keeping eyes on them is very important. A lot of
+them are very fragile in the first turn. This is looking specifically at those Proththeian models and models who don't
+start in a marker state but are able to get into a marker state once the game starts. They're mostly hackable. Uh, I
+think with the exception of Sheshkin, all of those core units really suffer if you can get a really highquality hacker
+on them. Or even in the case of Achilles, just a hacker on them can really ruin their day. And they all seem
+to struggle if engaged at a long range with the exception of the corranted, but
+even then, it doesn't want to go above 32 in. they can really have their time wasted or be boxed in by some smart and
+overlapping arrows and can all struggle against an ablade of defense or maybe you're setting up, you know, mine
+layers, a lot of camouflage units, that sort of thing. So, we're talking a lot about
+Smart Arrows
+smart arrows and let's dive a bit deeper into that. So, we need to consider what
+is a smart arrow and what are what are the units we're trying to get that smart arrow on. So, who are the units we're
+trying to keep smart arrows on? Where are they likely to strike from? What vision control do they have and to
+where? And can I hold a tight but impactful line? So, if you've got someone like a
+Norius, they are a unit who is very fast but doesn't have a way to cover
+themselves or their advance. They're likely to strike in a very dense area
+where they can move to a position, get some wounds, and then be able to move out without getting too many lines on
+them. What vision control might Norius have depends entirely on the units around him. So pay attention to who's
+around, where the repeaters are, where the smoke throwing data are, and can you hold a tight but impactful line in a
+place you think he wants to go? Can I have eyes on them as they
+cross my repeaters? what positions will make these elements the hardest to dig out. So, you're
+really focusing on being very narrow with where you're looking and very defensive with those arrows. And where
+can my non-lethal arrows shine? One thing that all of these units hates is a
+flash pulse or an emitter or a mad trap. They shut down all of these models.
+Example
+So, let's take a look at how we can put some of these thoughts about arrows in practice. So, here's a game uh from my
+recent video uh where I was playing against Dion's combined army with my white company where my opponent had
+deployed first and then I had the opportunity to set up a defense against that. So, going into this, I was
+thinking about overlapping primary and secondary lines with different styles of vision control. So over here we can see
+Norius is deployed and already when the game started my opponent said he wanted
+to go first. I made sure to pick the side for him that was more open where I
+can get more lines down where you can see my line is a lot more dense which means I can block off things. For
+example, this flash pole spot here is safe from say the corranted because this
+big building is larger than this building. And he's holding two very nice height lines here and here. So with
+Norius, we've pinned him in with a lot of lines at extreme ranges. And you can see I've put the primary lines here in
+black and the secondary lines here in red. So, I've got Norius up here, but
+he's got a Darazzi, which means he's going to have smoke, and he's also got some repeaters nearby him, which means
+he's going to have that white noise. So, to combat that, I've got a non MSV arrow
+piece with a line straight down to here, as I know Norius wants to press this button. And I've got an MSV arrow piece
+looking down this way, where he's likely to want to roll out maybe in this way.
+and then if he wants to come challenge this core is likely to come to this position or to try and go around. So now
+that we've set up those two big primary lines over 32 in to try and pin in
+Norcius, let's have a look at some of the secondary lines I've set up. We can
+see I've got a waror looking out this way trying to catch him if he comes around this corner instead of this way.
+As well as a TRbot covering that same lane. And you can see where I've put these lines out. A lot of them are
+crossing over, which is what we really want for two reasons. The first is to put more pressure if he attempts to move
+through some of these X's. And you can see a lot of these X's are points where he's getting closer to my deployment
+zone. While there's maybe only one or two lines going out to here or to here, as he's getting closer, we're making
+sure to put three lines here, three lines around here to make it very difficult for Norcius to make a full run
+on us. So, we've got some flash pulses looking out to cross lines and cover those lines
+and some shorter lines just in case he gets very very close. And in the case of
+the flashbot also to have eyes on him to break his stealth. Then on this side, we can see
+we've got the corranted over here as the next piece. And really with the cronid,
+we're looking to present him with a minimal amount of units he can take shots at uh without
+overextending. So while the kronid could make his way all the way down to, I
+don't know, say this position to try and take on the MSV arrow or even the non
+MSV arrow. That would leave him vulner vulnerable to these two CC units that
+I've deployed down here. If the kronid moves all the way out, ends himself here
+after killing these two units, then it's likely that he's there without having much time to retreat, especially if I
+pip orders off of the corranted group. So to that extent, you want to be aware
+of who's likely to make the biggest move here. In this specific deployment, I think Norius is less likely to be able
+to get out of here and get to my DZ for a big alpha strike, which is really what you're afraid of. If Norcius moves up
+here, presses a button, and that's it. Really, that's okay. He's a 50 plus point unit. If that's all he does in the
+turn, I'm very happy about that. So, what I'm really more scared of is this corranted. So, if I pip some orders off
+the group the corranted in, hoping, you know, he comes out, takes a gunfight here, maybe takes one or two orders.
+Same thing with the waror. Spend, spend, spend again, come around. you know,
+already that's maybe, you know, five or six orders, leaving him not much to do in terms of retreating where we can then
+capitalize on him on these close combat threats. A savvy opponent is also not going to move into that position where
+they know they can be taken out by a Leon Kai or a Shona Corano. So, we can encourage them to
+overextend by really kind of sweeping our main pieces over this way and present them a punishment for
+overextending. So, this is two examples of ways to hem in those units that don't necessarily
+want to move up uh or sorry, who need to go all the way like Norcius or a
+corranted hacker or an anathematic and then a way to deal with these other units like a sheshkin like a corranted
+HMG. So, now let's take a look at some common units and counters to the peripheral elements you can expect to
+Units Counters
+see in a vanilla combined list. First up, we've got the pitcher hackers. And we can see in the middle here, we've
+got Young Bit, the Dart Talk, and Pandora. And what do these units do?
+They're all about extending vanilla combined hacking network and providing secondary hacking if one of their big
+three is a hacker or primary hacking to a list if one of the big three isn't a
+hacker. The role on the list is to land those pitchers mainly to scalpel out
+enemy hackers with killer hacking devices. As we noted, a lot of those core units have a weakness or a
+vulnerability to that hacking. They also want to use those pictures to lock down
+our deployment zone and lock down objectives against hackable targets like heavy infantry or other hackers who may
+want to advance into the midfield or to objectives. Now, a key a key thing to note with all
+these units are they're all very squishy. Not only to, you know, guns in close combat, but they'll all die to
+even a run-of-the-mill killer hacking device. They generally have an average whip, but low
+BTS. So, if you can extend your network to them, or even if there's only, you
+know, one or two hackers in the list going through their repeater, that's another way to get at them. So there's a
+lot of pressure on the combined army player to land those pitchers and then take out the target quickly before a
+counterattack can come through that vector due to the generally low ballistic skill and lack of link
+bonuses. Pitcher hackers can also be pretty unreliable in landing pitchers
+and order intensive. A dart is slinging one on a 12. Bit and kiss are slinging two on 11s. These are fine if you've,
+you know, got the time and the baggage, but that's not something you necessarily want to do. And we've seen in the
+previous examples, a lot of setting up against vanilla combined is just setting up to waste their
+time. They're very, very capable armies, but if you can waste enough of their time, they can't do any of that great
+capability they have. Next up, the scalpels. These are units like speculos, like grief
+Scalpels
+operators and razats. So what do they do? They deploy in the opponent's deployment zone or very close to it and
+have the tools to kill effectively in close quarters combat. The role they have in the list is to eliminate
+lieutenants or key defensive elements. Maybe you've got a Thunderbolt to Yarbot giving them problem or a John Hawkwood
+uh setting up. And if they're going second, they also present a big order sync to dig out or have that lingering
+threat be there outside the deployment zone. Now, these units can be locked out
+by good deployment deployment. That's thinking about where are your units looking? What are they vulnerable to?
+What kind of lines have different units gone? And these units are usually only one wound with very little or no
+defensive tech. Now, every vanilla combined list is also going to have some defensive
+Defensive Units
+units that provide lethal threats to your own army's advancement and waste your time into getting into those core
+units or wiping out enough of that junk or periphery around the list to really
+make a dent in the list capability. The role in the list is to provide a really consistent pressure on
+the opponent where a lot of the defensive units can extend their defensive capabilities and be picked up
+if they get knocked down. and they once they get picked up again, they're up to maintain that pressure.
+Now, vanilla combined defensive pieces do have a key weakness in that they're
+relatively solvable. A TR bots uh with that mimatism can very easily be shot down by
+an MSV arrow piece over, you know, a certain length or through smoke. Same
+with Tucer, though he's been, you know, a pretty potent unit uh that I've personally played against. Chucking down
+some white noise, getting a good gun on him is a relatively easy way to solve
+juicer. Also, if you can manage to fully blow off these defensive units, that's a
+big blow to a list that otherwise really wants to reconstitute those pieces. Then you've got the button
+Button Pressers
+pressers. They provide a means uh to complete objectives and they're there to
+capture buttons, press buttons, or counter capture objectives and defend
+them once they've been captured. They're usually very squishy and will die once revealed. Uh but if you know they're
+there or if you know they're coming, you can try and scalpel them prematurely before they can get those buttons
+pressed. And that puts pressure on other elements of the list to start advancing and start capturing those objectives.
+Peripheral Elements
+So, let's look at how in that previous game we talked about, I put pressure on the peripheral elements of my opponent's
+lists. So, here we can see we've got Bit up at the corner as a pitcher hacker and
+we've got a couple of defensive elements here that we need to take care of. So,
+how can we deny their purpose and what they want to do while exploiting their weaknesses? So, let's look at the
+defensive units first. We can solve these with a mix of white noise and smoke shooting where the hideout MSV has
+smoke support from a Vangian and can take that on pretty consistently and using a big weapon with a big save and
+lots of saves to try and permanently wipe them off the table. Then in terms
+of Chucer, we have white noise from one of our hackers and he can come up over
+this way, get a line on Chucer and knock him out with some white noise shooting. and that's their defensive elements
+taken down. Next, let's talk about the pitcher hackers. So, in this case, I've
+set up where my opponent is going first, and I've made sure to put my picture
+hacker in a hard-to-reach location way at the back of the board over here. Uh,
+the real two big lines this unit is going to have is to put a picture down this way or down this way by standing up
+here. But where I've put it, it's going to be very hard to get a pitcher line on it where if I can do some moving, get to
+this position, chuck a pitcher down, and counter hack them, that's going to be really effective. So, if you can
+position in a way where it's very hard for your hacker to get a pitcher landed on them, but you can threaten quite a
+good counter pitcher if you had a bit of movement potential, that's a great way to deal with that periphery element of a
+list. So, let's take a look now at the junk. First up, you've got the war bands, uh,
+War Bands
+who very much just punch good and throw smoke. They enable a lot of the aggressive vision control exploitation
+of the rest of the list and are the first point of contact if you want to run into a combined army player's
+deployment zone or if someone's running into your deployment zone. Now, a lot of warbench, they're very similar. The
+weakness is always that they're dead if they're caught out of position, but mine army players are usually very good at
+positioning and using their warb bands. Nonetheless, getting some early kills on their smokethrowers can really set them
+Cheerleaders
+back. Then the cheerleaders, they're just there to provide orders and provide repeaters. And like with the warb band,
+they're dead out of position and can't defend themselves. What's unique about vanilla combined army is you're likely
+to see quite a lot of cheerleaders usually taking up at least four slots,
+sometimes more. And if you can take out those orders who again can have trouble defending themselves, you can put
+yourself in a really good position. Maybe this is with a fast DC specialist like Leang Kai, or maybe it's with a
+drop troop like a Hellcat or a Tiger Soldier who can land straight there and start making shots.
+Conclusion
+So, let's put it all together. To beat vanilla combined, you need to destroy a
+layer of vanilla combined list building, which is either the core layer, the periphery layer, or the junk layer. The
+core is the most impactful layer to remove, but can be the hardest, where the units usually have a great amount of
+capability and can defend themselves, especially well with the help of the units around them. The periphery in some
+ways is the easiest to peel off with the right tools, but it's very dependent on you having those tools. If they have a
+juicer up, but you don't have white noise or albido, you just might not have the tools to remove that periphery. Same
+with good hackers or pitchers. If you don't have a way to extend your network to their hackers and take them out that
+way, you might not have the tools to peel off that periphery. Then lastly, junk is really fantastic as
+a layer to peel off, but is usually very hard to reach and sometimes harder to reach than the core of the list. So,
+let's talk about some of the tools to bring if you're expecting to come up against vanilla combined. You want
+ranged weapons who are resilient, which means multiple wounds or high armor, which combined army can sometimes
+struggle with. have rangebands over 32 in, which we've explored a bit earlier in this video, and have a mix of visors
+and non- visors who can exploit the different different types of vision control that a combined army list has to
+it. You really do want to bring some unhackable close assault to at least threaten some runs on core units or
+peripheral elements and network projection or scalpel units who can really bring those tools to take out one
+of these layers. Also, just as a general piece of advice, a sensor is also a very
+useful piece of equipment to bring, but it's a bit boutique. Not every list can fit it, but it's one to keep in
+mind. Alternative tools are viable coordinated orders to crack hard targets, and this might be more
+appealing to Ariadnes or Hakislams who can use these coordinated orders to take
+down a very hardcore unit or even some periphery elements. and a blade of
+defense screen to stop a snowballing alpha strike. If you can waste enough time, and maybe we're looking at units
+like peacemakers and moonreakers who can really stop that snowball from starting
+by just wasting time and making it difficult to approach. And you really need to bring a strong plan once the
+opposing players list has been revealed. One of the scariest parts about vanilla combined is that you can never be
+exactly sure what's coming at you. But once their list has been revealed to you, if you can think back to this
+video, think back to the specific counters, and match up the tools you have, you've got a recipe for
+success. So, thank you all for watching, and I hope you guys will enjoy this new series. Please tell me about some other
+armies you'd like me to see make videos on, how to crack, or if you've had some very hard matchups recently. I'd be keen
+to hear about those, too. Now, thank you so much for watching. Uh, please check out another video on the channel. Leave
+a like, comment, subscribe, all the YouTube things, and we'll catch you in the next one. Bye-bye.

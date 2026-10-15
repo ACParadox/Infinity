@@ -1,0 +1,97 @@
+JSA strategy question to avoid the kamikaze charge
+
+Game Strategies for the JSA Faction and its Sub-Factions Shidenbutai and Oban in Infinity the Game
+https://www.reddit.com/r/InfinityTheGame/comments/1ii5nt4/jsa_strategy_question/
+
+
+#### Introduction
+
+The JSA (Japanese Sectorial Army) faction in Corvus Belli's Infinity game is known for its versatility and unique abilities, particularly in close combat (CC). However, it's crucial not to rely solely on CC as your first line of attack, as CC is just one tool among many. Here's a detailed guide to playing strategies for the JSA and its subfactions Shidenbutai and Oban.
+
+
+#### Using ranged attacks (BS)
+
+- BS Attack Effectiveness: Every army, including the JSA, must use ranged attacks (BS) effectively. This is often the surest way to solve problems on the battlefield. The JSA has several solid units for shooting, such as Karakuri, Ruishi MSV2, and heavy infantry units (Hatamoto, Domaru, Daiyokai). Prioritize ARO pieces that can block your assault and opposing strategic pieces.
+
+- Multispectral visors: Bring along one or two multispectral visors to improve the targeting accuracy of your shots and obtain additional tactical possibilities such as being able to shoot through smoke where the enemy can't, especially against units using mimetism.
+
+
+#### Movement and Cover
+
+- Prudent Movement: Use the Prudent Movement rule coupled with Stealth to move from one cover to another without risking being killed. This minimizes enemy AROs (Automatic Reaction Orders).
+
+- Smoke, Discoball and Eclipse: Units such as Shikamis and those equipped with Discoball can use smoke and eclipse to move unseen. This makes it possible to get close to the enemy, to move towards a shelter or an advantageous firing position, or to cut off opposing lines of fire to move other troops forward.
+You'll need to plan how you're going to place these occulting elements, and therefore how many orders you'll need to place them.
+:point_right: Tip article: Infinity Tactics: Start Smoking https://www.goonhammer.com/infinity-tactics-start-smoking/
+
+- Camouflage and Hidden Movement: Hidden deployment and camouflage can be a good way to get close to an opponent. Remember that most units have camouflage + stealth, so your opponent can't make an ARO if he doesn't have line of sight on you. Try to get behind him, or close the distance with smoke/eclipse/discoball, then force him into close combat that way.
+
+
+#### Specific units and tactics
+
+- Yojimbo: Use Yojimbo to throw smoke for free with his impetuous order. To do this effectively, plan to place him intelligently so that he can place them in a row. These smoke can cover the movements of other units as well as himself.
+
+- Samurai fireteams: in Vanilla or Oban, Tanko Missile Launcher fireteams and a Domaru Spitfire are effective in eliminating AROs from a distance, thanks to their bonus firepower, while retaining good CC capacity.
+Another similar fireteam idea, the Tanko option discoballer has been very successful with the Mushashi duo, Musashi can also go into a Domaru duo or haris. Having 2-3 samurai duos running around the table supported by discoballs and Yojimbo's smoke is quite fun.
+
+- Ryuken: Ryuken units offer excellent potential for slowing down opponents with mimetism -6 and lethal support in hacking or guided missiles.
+
+- Hatamotos, Kyojin and Tanukis: In Shindenbutai, Hatamotos are excellent snipers, while Tanukis with their hacking and Pitchers, and Kyojin with their flamethrowers add an extra dimension to your strategy.
+
+- Karakuri: this is a fairly versatile BS attack piece, rather solid and annoying, especially with an engineer nearby to relieve it.
+
+- Rui shi msv2: For when your enemy uses mimetism. You can also use an Evo hacker to give it precision, making it really hostile on the active turn. Remotes are generally pretty cheap at JSA.
+
+- Access to CrazyKoala: These autonomous weapons are very effective and are available in many places, as are the inexpensive Keisotsu and TAG O-Yoroi.
+
+- Shikami: The Shikami has become an absolute must-have not only for its Eclipses, but also for its offensive capacity and its ability to move, enhanced by numerous skills such as Super Jump, Climbing Plus and Stealth.
+
+- Keisotsu: The new Keisotsu are really good. A Core fireteam consisting solely of a hacker, a thunderbolt and a Kempeitai Chain of Command can successfully eliminate a troublesome piece, take an objective, make a classified objective and launch crazy koala even if the rest of the assault list has fallen. They're not incredible, but they're surprisingly competent for their price range.
+
+
+#### Close Combat Strategies (CC)
+
+- Fear Projection: JSA's CC capability is more of a deterrent threat than a primary assault strategy. It is used to punish enemy troops who get too close, which can make opponents fearful of staying too close to charge.
+
+- Using Stealth: Use the Stealth skill coupled with smoke to move without causing ARO and eliminate enemy pieces, especially if you're not visible at the start and end of your move, this allows you to move even in front of the enemy (as long as you're outside the Zone of Control).
+
+- Assassinate ARO Pieces: Use ninjas to assassinate or immobilize troublesome ARO pieces, then shoot the rest. Once you've controlled the middle of the table, you can start using CC. Opposing weapons are generally at their weakest during an ARO ( for example, a combi rifle is 3 bursts on an active turn, while an ARO reaction is 1 burst).
+
+
+#### Shidenbutai sub-faction
+
+- Hatamotos, Kyojin and Tanukis: In Shindenbutai, Hatamotos are excellent snipers, while Tanukis hackers and Kyojin with their flamethrowers add an extra dimension to your strategy.
+
+
+#### Sub-Faction Oban
+
+- Focused on assault: Oban is highly concentrated in ranges under 24 inches, and often struggles to lead ranged battles outside this zone. Unfortunately, her mid-table deployment options are pretty crappy (Ryuken which can't be deployed as camouflage markers, and hidden but expensive deployment ninjas and Oniwaban).
+
+- Saito Togan and Kitsune: Saito Togan is a cheaper option for infiltrating with smoke just outside enemy deployment, while Kitsune is better for killing units in an alpha strike through smoke.
+
+- Heavy Infantry Fireteam: A 5-man fireteam with at least one Tanko Missile Launcher and a Domaru Spitfire can eliminate key ARO pieces at range and pose a threat at medium and short range, and for eliminating ARO pieces. If you don't make Core, you can also use Haris. In addition, HIs are quite fast with their 6-2 MOV.
+
+- Daiyokai HMG: The Daiyokai with HMG option is useful for a slightly longer range than the other profiles.
+
+- Shikami and Karakuri: These units are very versatile and have been upgraded to be more useful.
+
+- O-Yoroi Kidobutai: A solid TAG that gives you a really good long-range weapon to serve as a Long-Range ORA.
+
+
+#### Global strategies
+
+- Infiltration and Alpha Strike: Use a camouflaged killer like Shinobu Kitsune or an Oniwaban to hit the enemy's biggest unit on turn 1 (such as the opposing HI Alpha strike and/or the Lieutenant). This forces the enemy to mined the corridors to their TAG or HI, thus wasting time and precious orders defending themselves.
+
+- Objective capture: Use smoke or eclipses to cover objectives and take them with specialist ninja troops. It's pretty silly, but you'll trade any effective firefight for an objective capture.
+
+- Basic maneuvers: Master basic unit maneuvers and the smoke/eclipse/discoball screen to put yourself in an awkward position for the opponent and allow you to attack effectively. You can also pose corner threats to force opponents to make a choice between passing through and risking an attack or going elsewhere.
+You can also use the speed of motorcycles, which you can link in Duo to move quickly around the table (like the KHD version for assassinating opposing hackers or taking objectives, coupled with the Spitfire profile).
+Or the range offered by Super-Jump and similar skills.
+This extended range of movement can help avoid AROs who can't be everywhere.
+
+- Hacking vulnerability: Be aware of hacking vulnerability in the reactive turn phase. Use Ninja KHDs to capture objectives and put a Reset on enemy hackers.
+
+
+#### Conclusion
+
+The JSA is a subtle faction that requires a good understanding of movement and cover tactics. By making effective use of smoke, stealth units and fireteams, you can control the battlefield and punish enemy mistakes. The Shidenbutai and Oban sub-factions offer unique options that can be exploited to maximize your gameplay potential. 

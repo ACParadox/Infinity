@@ -1,0 +1,155 @@
+PanOceania - Kestrel Colonial Force
+
+Fennec: great line troops, best in game, best utility
+hmg, rockets, not good
+likely active attacks done by others in Fireteam
+thunderbolt + shock mine is awesome
+hacker + E/Mitter, Fast panda for network projection, awesome (even more than one),
+Fwd observer, sensor + disco baller, is awesome
+Paramedic (or use Pandra) + medkit
+
+BCA Magistrate
+primary choice for lieutenant (top 5 lieut in game)
+counterintelligence
+strategos L1. combi rifle, nano pulser
+Can link with Jackals to convert irregular order to reg
+
+Blink Team: fantastic, as standalone unit
+Hvy rocket, with XVisor, wild parrot and assault pistol
+hvy rocket ignore cover, so similar to +3 BS
+ignore other profiles
+Not auto pick
+
+Drummers + Drumbot: maybe good? Bof. Maybe super vulnerable for price/glass cannon
+can be buff with evo hacker if 2 drummers
+Drumbot_1 multi hvy machine gun is best fighter
+Drumbot_2 if enough SWC
+Drumbot_5 good objective runners, since they both roll for objective, and cheap
+Won't lose the order if bot dies, and is main fighter
+Not super survivable for price
+
+Trauma docs: don't link with anything, not worth it
+
+Machinist: don't link with anything, not much value, better engineer in faction
+Kinda have to heal TAG (and AP turrets)
+Also some use because of deactivator and D-charges
+Palbots are also a significant bonus here allowing you to increase the board presence of your AVA1 machinist
+
+Tech-Bees: deactivator (good to activate discoballer), Gizmokit, spec. op., TAGCom: buff TAGs, super cheap, good piece
+Ok for TAG
+Even if no TAG, 3rd flash pulse, cheap order, check being deployment zone
+Good instead of Warcor if you have points
+
+JSA/PanO Eng guy as proxy
+
+Jackals: irregulars, cheap, good
+FTO link with magistrate (2 jackals) a must, at worst, dui
+Light rocket launcher good, Booty
+Infiltrator with minelayer is OP, best defense in game
+
+Emily Handelman: not great, better chain of command elsewhere, no link
+
+Knauf: not linkable, not great
+
+Bipandra: doctor, medkit +1B, tactical awareness, not super great, bit expensive
+Bipandra inside of the link is an okay specialist
+Some say best doctor in game
+Tac awareness+doctor reroll
+Fennec or kestrel FT:
+Ex: Fennec, Bip and crux
+Griffin+Bip duo is often the only duo needed
+
+Indigo Richard Quinn: OK, normal Fennec probably better for quality/price
+
+Dr Priya Harper: FTO, tac aware, +1 SWC, expensive but good for the SWC
+Banshees:
+killer hacker great (cybermask works while super-jump)
+Great for objectives becomes of super-jump
+hacker good too
+
+Fireflies: great for duo
+can duo
+Hvy Rocket at 1.5 SWC is great + another utility piece
+Chain of command is great, cheap and no SWC
+Engineer is nice, esp with dummers or to reactivate discoballers or duo with TAG
+Minelayer has armed turret, this one is good
+Paramedic is fine
+Hacker is decent
+Armed turret is now not great, cant be reloaded
+
+Black AIR: fantastic package
+All profiles are decent
+Good in Fennec Fireteam
+Neurocinetics good, could even be solo if Fennec team is full
+One of the best ARO piece in an FT, but its is sometimes piece because the Griffin Feuerbach exists
+
+Father Lucien: no link, expensive
+
+Optimate Agent: no great, expensive, crap
+
+Hetkari: fantastic statline: enemy has -3 BS, Hetkari ignore cover, expensive but worth it
+Maybe best gunfighter in the game
+Multi red fury is good/safer pick
+Lieutenant could be used as solo piece, decent if paired with chain-of-command
+Good to have speedball or healer
+Impure duo with Pathfinder drone prob best FT in game
+
+Griffin: super good, one of the best HI for cost in game
+Fennec keyword (ex. 4 fennec and a Griffin), also kestrel keyword
+Hvy machine gun, nice active turn wpn
+Feuerbach, pulzar, nice well rounded
+
+Crux Father-Knights:  fantastic, but expensive
+Good at many things, CC is secondary but you’re not paying a lot for it
+Wildcard for linking
+FTO, multi marksman, drop bear is well rounded
+strat deployment may be worth it
+Crux and 2 fennecs is a good team
+
+Tikabalangs + Crabbot: very good
+lieut+1 is a must, with chain-of-command (group 2 TAG)
+There are good NCOs to use those 4 orders with
+
+Squalos+ Crabbot:
+Good, reliable, cheap for quality, can duo
+
+Maximus: Can be good
+
+Pathfinder dronbots: good piece, esp. with TAG, Kestrel team
+sensor, tac awareness, wildcard, deactivator for discoball
+Perfectly serviceable
+
+Sierra dronbots: thunderbolt, OK, ARO with Total Reaction, 3 Str + engineer makes it last
+
+Clipper dronbot: not linkable, lame
+
+Fugazi dronbot: good as repeaters, flash pulse ok, cheap, with two + hacker your deployment zone can be covered for hacking
+
+Bulleteer armbots: good, repeaters, but not great link options
+
+Peacemaker armbots + auxbots: very good
+Peacemaker with aux with minelayer is good
+Can put aux bot at 8 inch, then mine at another 8 inch
+Repeater good with hacking
+Might not want if not enough hacker on your list (3 needed)
+
+Mulebot: baggage, useful for panzerfaust, turret, discoballer
+Evo hacker can be good. esp. with baggage
+
+Scarecrow: really good, cheap for hidden deployment
+Killer hacker esp with surprise attack through repeater
+Fwd obs is good too
+Good for infil spec
+Jackal a better minelayer
+
+Dart: not great
+
+Beasthunter free guild: irregular solid, fantastic
+
+Yamabushi: regular, camo profile, panzerfaust is good
+good deploy zone def
+
+Redeye Close Air Support Vehicule: weapon choices not great, better SWC spend elsewhere
+
+Warcor: good for 3 pts
+aerocam will help defend your deployment zone being a 360 visor

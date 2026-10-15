@@ -1,0 +1,470 @@
+In today's video, we will look at three
+tactics that every Infinity player
+should know.
+Welcome to the Ice Gods. My name is
+Hydra and today we are going to look at
+three of the most standardish
+tactics for Infinity that you will need
+to understand and be able to use and
+counter if you want to play Infinity in
+five.
+This video is the first of a series
+where we cover some of the other
+concepts and ideas that will help make
+you understand and be able to play the
+game much better and also read your
+opponent more. So certain key elements
+that when they go down the table, you
+can look at it and go, "Okay, so what
+I'm facing is probably a version of this
+tactic and this ability. We will look at
+the basics, the component parts, the
+factions which use or can use the
+particular tactics we talk about and
+some of the key things you need to be
+aware of. Then for members and patreons,
+there'll also be a brief guide of how to
+deploy it and how to counter those
+particular tactics if you see them on
+the table.
+Speaking of those guys, as ever, thank
+you to the Patreons and members for
+making this possible. Your support keeps
+me going. Special thanks goes out to Sha
+Cole Burn and Old Man Rogers, Chaos,
+Discordia, Renick, Wolf, Chris Sexton,
+and Caz, if I could speak. Thank you
+guys so much for the support uh that you
+continue to give to the channel and to
+me. Um, and to all the other Patreons
+members. You guys are really helping me
+make this all happen. So, cheers. But
+with all of that stuff done and out the
+way, let's get into it. Let's go. So,
+tricks and tactics, the basics. That's
+right. These are kind of some of the
+tactics that have been around for a
+while. Some of them are just about
+applying the rules in a specific way.
+Um, and yeah, let's let's let's dive in.
+And we'll start with probably one of the
+oldest tactics and most lamented and
+screamed at uh
+combinations of units in the game. the
+guided missile trick, also known as the
+Nomad missile trick. Um, dear God, why
+is that still in the game? Please, no,
+no. Please make it stop. Although this
+has been
+arguably tapped with the nerf bat in N5,
+it is still a potent tactic. Let's look
+at what it involves.
+Essentially, in your list, you need to
+combine hackers or forward observers
+with a guided weapon unit to ruin the
+enemy's day. How this works, the enemy
+trooper passes or is in the zone of
+control of a hacker with spotlight or
+the line of fire of a ford observer.
+Using either the spotlight um hacking
+program or the Ford observer skill, your
+trooper gives the enemy the targeted
+state with a whip check. So, you do a
+whip check and you put this state on
+them. Now, yes, they can reset or they
+can there's things they can do to
+counter it, but the basic theory is you
+get targeted on them.
+In the active phase with a full order,
+you use the guided weapon to perform a
+BS attack without line of fire up to
+five times in a turn.
+You apply range mods as usual and plus
+three to your um BS for the targeted
+state. You ignore mods for mimters and
+partial cover and visibility zones. They
+counted for nothing when it comes to the
+guided missile trick. If failable, the
+attack uses the circular impact template
+for the weapon and your burst is always
+one.
+That's the mechanism.
+What does that actually mean? It means
+that you put the targeted state on
+something, it continues to run across
+the board and in your turn up to five
+times you can spend orders on your
+guided weapon and it can just nuke that
+target from orbit. You can just hit it.
+Now, in a lot of instances, especially
+with things like missile launchers who
+have incredibly good ranges that can
+cover most of the board, you are
+potentially going to be hitting on 18s
+for that single shot. Yes, there's
+things you can do about it. We can talk
+about that in a second, but you are
+going to be landing that template on the
+board
+on an 18 or less. And if your enemy is
+unlucky, if they make poor decisions,
+you're potentially going to be hitting
+multiple troopers with that template.
+Now, they're going to have some options
+of things they can do, but they're not
+really good options. The guided missile
+trick just feels mucky. So, let's dive
+into it a little bit further. First of
+all, who's good at this? Nomads,
+especially Tangaska and Corodor. They
+have hackers and they have a hacking
+network which enables them to spotlight
+light up targets across the board.
+Corodor has also got the Morans which
+are infiltrating forward observers. They
+start the game up the board. They can
+have repeaters in them as well. The
+Moran is basically built to make this
+happen. Yuching is great at this,
+especially including White Banner. They
+have some good options for getting those
+um targeted states out there. Chaz Vasti
+is a surprising one actually. The the um
+trooper you see on the right there is a
+Nox trooper with a sniper rifle. He is
+one of the few instances in the game
+with a guided sniper.
+So if you can get targeted on an enemy
+trooper, that little bundle of chuckles
+and happiness can fire his sniper rifle
+up in the air. The round will
+majestically spiral across the board and
+slap the enemy right in the head. It is
+not friendly. It is funny. And this is
+only available in the Shazvasti
+sectoral. You can't have this in generic
+combined army, but it is just an
+unexpected unpleasant thing that can be
+achieved with Shazvasti. You rarely see
+that, but any force with hackers and
+ford observers which can be deployed up
+the board and with guided weapons can
+make good use of this. Um,
+we talk about um, white banner as well.
+Just talking about toing for a second,
+they have the height which has a I think
+it's a guided rocket launcher where it's
+just not fun. It's it's just not
+pleasant. You don't want to be slapped
+with a a a rocket launcher at the best
+of times when you can't see the guy
+that's fire. No, you don't want that.
+It's not nice. So, notes. What can you
+do about the guided weapon attack? You
+can respond to a guided weapon attack
+with dodge or reset. Now, because the
+dodge would be out of line of fire,
+unless something's gone horrendously
+wrong, the the guided weapon should not
+be in your your field of view. You're
+going to be at minus three. If you
+reset, they'll also be at minus three
+due to the targeted state, which gives
+um minus three to reset rolls.
+However, if a reset roll wins the face
+to face roll against the guided attack,
+not only does the um attack fail, but
+the guided state is canled.
+So, most cases, you're going to be doing
+the reset because it just it it stops
+any further rubbish coming in at you
+essentially. Um and that is a basic
+overview of the guided missile trick.
+Now members and patronons, let's go a
+little bit deeper, right? Smoking and
+fragging invisible bullets hurt the
+most. They really do. So what you do is
+you pair a trooper with MSV2 or MSV3 who
+has a big gun on a high burst and a
+trooper with smoke grenades to create a
+bad choices death machine. So what does
+this do? You deploy the MSV trooper and
+the smoke trooper with an 8 in of each
+other. or you can go further if the
+smoke is in a smoke grenade launcher.
+But the 8 in is so that you're in good
+range bands of tossing the smoke
+grenade.
+In your active phase, you spend an order
+to put a smoke template on the MSV
+trooper
+and then you target enemies with that
+MSV trooper from within the smoke. The
+smoke creates a zero visibility zone
+which the MSV 2 or MSV3 ignores. This
+the smoke is not there as far as MSV 2
+or MSV3 is concerned.
+you then
+only can be um aroed to by the person
+that you're targeting, the trooper
+you're targeting, and enemy MSV2 or MSV
+troopers. They're the only ones that can
+respond to any attack that you make with
+the MSV trooper from within that smoke.
+Targets without MSV 2 or three suffer a
+minus six in addition to other mods
+because you're shooting from a zero vis
+zero visibility zone. They get minus six
+to respond. This is hilarious.
+If done right, if you're shooting from
+cover with the MSV trooper and they have
+mimisism, for example, the target may
+find that if they want to attack in
+response, they are doing that at minus
+12.
+or they're going to be potentially
+dodging at minus 9 if you have a guy
+that's in camouflage state.
+This is not good. This is kind of I put
+smoke on this guy. He stands up. He
+starts picking people off.
+It's hilarious. It's horrible. And it's
+not actually that
+order intensive because normally because
+we're using a high burst trooper, high
+burst MSV trooper, you're going to want
+to be shooting with them anyway.
+Spending that extra order just to plon a
+bit of smoke on top of them just makes
+them that much more survivable, that
+much more deadly. It means that the
+enemy troopers are so unlikely to be
+able to return fire. They're going to be
+dodging and they're going be dodging at
+the minus 6 because they're being
+targeted by an attack from a zero
+visibility zone. This is hilarious.
+There is nothing about this is not
+hilarious. But let's dive deeper. Let's
+go further into this. So, smoking frag.
+Who is good at this? Well, nomads,
+especially corrior, rock at this. Um, on
+the right here, we have the intruder
+with HMG. Now, if you've not come across
+an intruder before,
+they're in the sort of mid to upper 30s.
+Now he is a BS13
+camouflage mimmitism minus3 MSV2 death
+machine. Even without the smoke trick,
+he is absolutely horrific. But if you
+pair him with a 10point Jaguar who has
+smoke grenades, we can start stacking
+things horrifically in the enemy's
+disadvantage. So technically if he's
+shooting from a zero viz zone so smoke
+he's minus six he's mimisism minus
+another three if he's in cover that's
+minus another three and technically he's
+coming out of camo he's gives you
+surprise shot as well so that would be
+minus 15. Now infinity stacks up to
+minus 12. So
+there is very little
+in the game that is going to sensibly be
+able to respond to something that is
+giving them a minus 12 to shoot or
+attack. They're just not. You're going
+to be dodging. But if you're dodging in
+response to an attack from a zero viz
+zone with something that's coming from
+surprise shot, that's minus nine. There
+are not many things in Infinity N5 that
+will have a good day if they're dodging
+at minus 9. It's not fun. It is
+hilarious. This is a trick that has been
+around at least since N2 from my memory.
+And we love it. The the Intruder is the
+absolute master of it. You can get it in
+the sniper version, but I always prefer
+the HMG because you just have that much
+more potency. And for members who saw
+that I used an Intruder in a recent um
+in my recent list that we reviewed for
+members only there. We talked about the
+fact the Intruder and the Jaguar was in
+there. They were side by side, but I
+used I actually ended up using the
+Intruder without the Jaguar because he's
+just so good on his. It's just a great
+bit of kit. So, who else gets it? We get
+it with Yuching. Um, every faction apart
+from invincible army, Hakislam and
+Capuki can make good use of this. Morat
+specifically with the Yaoats and
+Datarazzi can do a lot of a lot of
+damage with this. ALF steel falanks, we
+have Meridans,
+they have smoke. Pop it on top of
+something with MSV2, away you go. L12
+and Star Mada do a great job. And the
+brand new um Shindibai Sectoral, we have
+the Tanuki team. They have MSV2 and then
+you have options for getting smoke in
+there too. So this is a fairly
+straightforward trick. It's just stack
+the negative modifiers, take all the
+benefits, profit. So no no notes, no
+complexity.
+Finally, this is kind of a brief
+introduction on how to use airborne
+deployed troopers, but a very specific
+way. So death from above. Bringing a
+heavily armed airborne deployed trooper
+early in the game to get off an alpha
+strike. No, we don't do elf strikes in.
+Yeah, we do. Yeah, we do. It's just got
+to be with a degree of care because this
+game is violence. How does it work? You
+include an airborne deployed trooper in
+your list, ideally with a high burst
+weapon. In fact, I would say for this
+particular role, exclusively with a high
+burst weapon. You want a Spitfire. You
+want a heavy machine gun. You want
+something that's going to put
+bullets down field. Basically, that's
+what we're looking to do.
+You get bonus points if you have a
+deployment zone airborne deployed
+option. Some of them you'll find some
+airborne deployed troopers have the
+ability to deploy into the enemy's
+deployment zone. This is good early in
+the game. Notice it didn't say at the
+start. Bring in the unit to strike at
+the enemy's order pool and disrupt their
+plan. It's especially good for missions
+which require players to grab and move
+something like supplies. If they've got
+a crab, grab a box and bring it back in
+their deployment zone. Having somebody
+turn up and killing everything that's
+holding boxes is hilarious because I'm
+winning the game. I'm not winning the
+game. Everybody's dead. This is a real
+inconvenience and is a lot of fun. Now,
+the guy on the right there, the the
+tiger soldier from Uching, is one of the
+best units for this. Not, in my opinion,
+the best, mostly because I'm an player,
+but one of the best to to do this with.
+He's absolute beast, absolute monster,
+and we love him.
+So, who can take it? Nomads, Corriodor,
+they have they have the the Hellcat that
+can drop in. I think AP Spitfire,
+Yuching, Invincible Army has options.
+White Banner has options. Ariadna, yay,
+make an appearance on this list.
+Finally, uh Power Commandos are
+phenomenal for this. Cosmoplot has them
+too. So, that's awesome. Hackislam, the
+assassins, Rama, they have options to
+achieve this. Alf the OSS on the right
+there is the Geruda. He, in my opinion,
+is the best at this. Um, I didn't say
+the best airborne deployment before you
+started tapping it into the comments. I
+believe he's best at this specific death
+from above tactic.
+He's pretty cheap. Pretty cheap. Not
+very cheap. He carries a Spitfire. You
+want to deploy down the board, you're
+not going to be too far away from your
+target. So that 8 to 24 in good range,
+really, really potent. He's muted as a
+minus three and he moves 64. BS12, not
+to be sniffed at. It's not awful. It's
+not great, but it does the job. But it
+is that 64 movement with the limiters of
+minus three that makes this guy
+incredibly deadly. Because if he gets on
+the board at the edge of your deployment
+zone and then goes woof into your
+deployment zone, there are going to be
+bits everywhere. Um, his record for me,
+I think, was seven kills in one turn. He
+just went absolutely berserk and there
+were pieces everywhere. Loved him for
+it.
+combined army, morats, onyx. Um they all
+have access to the rasiat um and also to
+the the fractor. Those are good at this
+job. Fourstar ma um and panel inventory
+orders. It's a bit of an exception. Bear
+with me. But you do have combat jump um
+boarding shotgun plus one with knight of
+Santiago.
+They're potent. They are potent and they
+can do some work. The normally I would
+want a higher burst, but the reason that
+these guys are specifically included in
+this list is because they are just so
+absolutely violent
+because they have um four armor, they've
+got two viter, they've got a 360 visor,
+they are just death incarnate and if it
+gets into your back field, it's it's
+going to break hearts and faces. There's
+no two ways about it. And this is a
+don't forget this is a BS14 unit.
+Knight of Santiago BS14.
+So if that gets with a boarding shotgun
+with plus one burst, so it's burst three
+into your deployment zone and starts
+targeting your cheerleaders who are out
+of cover, it's hitting you on a 20.
+No, no, thank you. Love it. Got to be
+done. So notes, timing is everything.
+You don't have to bring it in at the
+start. You don't have to bring it in
+straight away. Bring it in when the time
+is right. Pick your targets. Don't just
+go berserk and shoot everything. Pick
+your targets. Take your time.
+Try to have the airborne deployment
+trooper alive at the end of your active
+phase. This is very, very distracting to
+your opponent and absolute genius. But
+the objective here is to use this
+trooper like a cruise missile.
+It is disposable. Do not expend too much
+energy trying to resurrect it or fix it
+or keep it alive. Don't spend too many
+orders on making it too hard to deal
+with. It is disposable. It is there to
+distract your opponent. It is there to
+hurt your opponent. If it does that and
+it dies, cool. It did what it was
+supposed to do. And there we go. There
+are three of the most common basic
+traditional standard tactics for
+Infinity N5. There will be more of these
+uh particular tactics coming. We have
+lots of thoughts coming up for things
+like suppressive fire and camo spam and
+skirmishes and well, you'll see. But if
+there's a specific tactic or a specific
+idea that you would like discussed in
+these future videos, do whack it in the
+comments below and we will take those
+into consideration. If you as ever have
+questions or thoughts on this, also
+whack those in the comments below. They
+are always welcome and always
+appreciated. But aside from that, thank
+you all so much for watching. Do please
+like, share, and subscribe. Put it out
+to your community. Get their thoughts,
+too. Thank you so much for watching and
+we will see you soon. Goodbye.

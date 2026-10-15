@@ -1,0 +1,326 @@
+
+Intro
+hello and welcome to an Infinity the game Tactics video in this video we'll be talking about risk management in
+Infinity what it is how it works and why it really is Central to Infinity as a
+game a lot of the content here will be very applicable to other games as well but it is especially applicable to Infinity
+which I'll contend is a risk management game front and center
+this is a different format to my usual videos it is basically going to be a PowerPoint presentation which to my mind
+is really the best way to present this and is how it's historically been presented to me a lot of the content
+here will be familiar to anyone who's ever received formal risk management training either in a business government or military context but we are going to
+be taking all of that stuff and using it to talk about Infinity
+so what are we going to be talking about we're going to talk about what risk and opportunity actually are how to
+understand evaluate manage and engage with risks I'm going to give you some practical tools and examples that will
+help you think about it and then some key takeaways the basic goal here is to give you a tool set and a bunch of
+information that will help you make better decisions when you are playing the game and also potentially understand
+a little more deeply about what is actually going on when you are moving your little toy soldiers around the
+battlefield first though we should really talk about why risk in Infinity is so significant
+WHY RISK IN INFINITY HITS DIFFERENT
+why Infinity is a risk management game basically all war games will ask you to engage with Randomness and take risks
+pretty much all games use dice or card draw or some kind of similar variance mechanic that adds texture and an
+obstacle the players have to contend with and introduces uncertainty into the equation
+for most games though the consequence of failure as a result of uncertainty is usually just something doesn't happen
+for example in Conquest if I have my unit of legionnaires attack an enemy and
+I just roll very badly the outcome of that is that I just don't do much damage there is no negative effect on me that
+happens as a result of that failure however the core mechanic of infinity is what is called a face-to-face role for
+those who are watching this who haven't played Infinity what that means is in Infinity Whenever two models are rolling
+Dice and affecting one another the role is opposed there is going to be a winner of that role and that is not necessarily
+the player whose turn it is if I have a fusilier firing a Combi rifle down an Alleyway and someone else their opponent
+is firing a pistol back each of them will be rolling dice having a gun fight effectively and the person who succeeds
+whether it is the active or reactive player is going to inflict the head upon their opponent and potentially injure
+them what this means is that in Infinity the consequences of failure of a risk
+materializing are much more significant you don't just have non-effect as a possible outcome you also have the
+possibility that in your turn as a result of decisions you have made your models can be wounded suffer negative
+effects or even die this means that every nice role that you make just about is a risk for you and
+your opportunity for your opponent and vice versa the face-to-face role is the reason why Infinity is a risk management
+game and also a fantastic game generally it is a truly unique mechanic at least
+in war games and I'm not sure if corvus belly knew what they were creating when they came up with it all of those years ago but is one of the reasons why
+Infinity has endured as one of my favorite games so we've established that Infinity is a
+WHAT RISK IS AND WHY IT MATTERS
+risky game it is a lethal game about managing risk what is risk and why does
+it matter this is where we're going to get technical risk is for our purposes the effect of
+uncertainty on your objectives potential negative effects of uncertainty are
+called risk potential positive effects are called opportunity but in the context of this discussion you can
+generally assume that when I'm talking about one I'm talking about the other how uncertainty affects your objectives
+as we move on through this discussion I want you to remember that definition but I also want you to think very clearly
+about what in particular your objectives are in the context of a game we'll discuss this further as we move on
+but remember that the objective of the game is to win the goal of the game is to have fun but the objective is to win
+and that is not necessarily the same as your objective being to kill an
+individual fusilier as part of a face-to-face role everything you do every decision that you commit to should
+be in pursuit of your overall objective which is victory in the game
+while we're discussing this I should also note this is all of this that I've discussed so far is why I consider
+Infinity not to be a resource management game yes it is a game where you have
+resources you have your up to 15 troops the orders that they will generate each turn and you will spend them the reason
+why Infinity is a risk management game is that your decision making heuristic for spending all of your resources and
+the metric by which the quality of those decisions is judged is risk management
+sorry how do we evaluate and engage with risks in Infinity how essentially do we
+HOW WE EVALUATE AND ENGAGE WITH RISK
+play the game through the context of this concept we measure a risk by talking about its
+magnitude how big is the risk but the magnitude of a risk is a function of two
+things it is a function of the likelihood of a risk occurring and the severity if the risk is realized if that
+doesn't make a ton of sense don't worry we will have worked examples and the next slide will go into a bunch more
+detail so we will talk about this so risk is the effect of uncertainty on your objectives risk is measured in
+terms of magnitude which is a function of likelihood and severity your objective is to win the game and in
+Infinity you cannot win the game without engaging in Risk you can't win infinity or indeed any war
+game generally just by being passive you have to move on to the field you have to try and accomplish things you have to
+create opportunities in order to accomplish your goals and attempting to create opportunity is going to also mean
+creating risk this does mean as a general useful piece of information if you think you are
+behind you can take more risks in order to create more opportunities as long as
+you are a good judge of the risks you are taking and the opportunities that you create you will almost always have a
+path back into the game in Infinity that past path might be narrow it might be slim there might be a tiny window or
+Victory but as long as you are willing to take risks you can continue to create opportunities and thereby achieve
+victory so this is the part of the presentation that's going to be really familiar to
+people who have done this kind of training in a formal business context this is what we would call a risk Matrix
+you don't have to Commit This to Memory but this is a way of visualizing how
+risks are a function of likelihood and severity on the left we have right likelihood and
+along the top we have severity you classify a risk based on How likely it
+is to occur and how severe the consequences are you might have a risk that is unlikely or remote to occur and
+it's your judgment the context will change exactly what that means in Infinity I might say a remote risk is
+one with less than a 0.5 percent chance of occurring an unlikely risk is one with a two to five percent chance of
+occurring for example and almost certain risk is one with a 80 to 100 chance of
+occurring and then severity is how severe are the consequences if that risk
+materializes and insignificant risk is your model makes a guts roll and goes
+prone a minor risk or a moderate risk might be a multi-wound model takes a
+wound catastrophic risk is a key piece that is part of your game plan takes multiple
+wounds dies and you are now missing a key functionality that is necessary for you to prosecute your plans remember
+risk is the effect of uncertainty on your objectives your objective is not
+necessarily have my tag live or have my tag kill a thing your objective is score
+objective points but you are often going to need to accomplish smaller goals within a game in order to pursue that
+ultimate objective of securing more objective points than your opponent what I'm really trying to communicate
+here with this visualization is that you need to not think just about
+How likely was it for something to happen or how bad was it that something happened by both it's really common for
+players to think only about one or the other and therefore misjudge the risk
+that they were assuming if you walked your mimitism -6 tag around the corner
+in order to find an enemy missile launcher and it double crit you and killed you and you complain about that
+yes you took a risk that was unlikely but the consequences of failure were
+also catastrophic so if you took that risk it had better have been worth the
+risk it had the opportunity that you were attempting to create needed to be commensurate with the risk that you were
+taking if you were just taking that face-to-face role because you're a panasonian player and wanted to take
+face-to-face roles you probably made a mistake if you were taking that face-to-face role because you were
+attempting to suppress an enemy Arrow piece that would that was otherwise interfering with your ability to move
+pieces into the Midfield and secure objective necessary to win the game then the fact that the catastrophic failure
+materialized did not necessarily represent a failure in decision making you may have done the right thing but a bad thing happened
+what you do from there is then going to be further risk management you may have to take more risks to get ahead you may
+have to expose yourself to more uncertainty but you will forever be behind if you
+take risks that are bad either because you have misjudged the likelihood or misjudged the severity or not taking
+risks that are commensurate with the opportunities you needed to create in a very tldr Sense Green risks okay
+red risks bad but there really is a lot more to it than that because you are trying to win a game this is a tool for
+visualizing exactly what the risks you're running are and you then have to make the decisions about whether or not
+you will accept those risks and we'll get into that all right so let's do a worked example what does this mean
+WORKED EXAMPLE - EVALUATING A RISK
+what you're seeing on screen here is a face-to-face role calculation using the infinity N4 dice calculator which was
+created by ghost Lords what it is calculating here is a burst five gamma Trooper heavy machine gun fighting a
+linked fusilier missile launcher now this is super often just where the
+conversation starts and ends something I see very good players never like do all the time is to present a picture like
+this and say I was really unlucky or I was really lucky the dice calculator breaks down
+possibilities but it doesn't evaluate risk risk is the effect of uncertainty
+on objectives and kill the fusilia is not an objective if you were taking this face-to-face
+role with your gamma Trooper then it had to have been for a reason as we just discussed and whether or not this was a
+good decision is going to be very commensurate with how important that reason was for your battle plan you're
+accomplishing your overall objectives even if you succeeded we can still say was this a good or bad decision from a
+risk contact by evaluating the risk against the opportunities that you created
+but let's break down the analysis as we can see here every face-to-face
+role actually creates multiple risks and opportunities because there are multiple outcomes there are degrees of success in
+Infinity we can see that there's a 49.11 chance that the gamma puts the fusion layer unconscious unconscious is not
+dead it's recoverable maybe there's a paramedic nearby and a 24.53 chance that
+the gamma kills the fuselier there's a 35.61 chance that neither player succeeds at all that could be
+because one person wins but the other person makes all of their saves or the face-to-face rolls tie
+that is the non-effect that we were talking about at the beginning of the video and then there is a 15.28 chance
+that the fusilier inflicts at least one wound a 6.76 chance that the fusilia inflicts
+two wounds putting the gamma into no winning capacitation and a 2.96 chance that the fuselier kills the gamma
+Trooper all the way to dead so if I'm the o12 player in this example I can kind of say all right there's a 15
+chance of a moderate negative outcome me losing a wound a 6.26 chance of pretty
+severe negative outcome the gamma going into no wounding capacitation which means that future fights will be riskier
+and a 2.96 chance of a catastrophic outcome the gamma Trooper dying now if
+whether or not that is actually a catastrophic outcome is going to depend on the game state if it's early in the
+game you are probably going to need that gamma Trooper for subsequent turns so yeah taking this face-to-face role and
+having the gamma Trooper die may be catastrophic if it's the you know last face-to-face
+role of a second or third turn and all you're trying to do is just spend an order and a trooper that isn't going to
+have a material effect on the game going forward then actually maybe that consequence is totally tolerable
+to give a very simple example spending a lieutenant order to stand your fusually Lieutenant up and fight a
+total reaction bought at 32 inches has an extremely low chance of success and
+an extremely high chance of having your Lieutenant be knocked unconscious but whether that is a catastrophic or
+negligible outcome will actually hugely depend on the game state if it is the first order of turn one that is a
+terrible idea the risk is deep in the red it is highly likely to materialize
+and catastrophic if it happens but if it is the last order spending the lieutenant order of your third turn and
+there aren't Lieutenant kills on the table then go nuts it might accomplish something it the cost is negligible the
+risk is negligible the closest thing to an actual risk in many scenarios there is that your
+Lieutenant might die depriving you of 10 victory points which is the third tiebreaker in some tournament placements
+this really shows how in some cases like decisions will always be contextual and you want to evaluate your risks in the
+contexts of how they affect your objectives early in-game attacking refusalem
+Lieutenant terrible late in game actually potentially a very good idea so
+MANAGING RISK
+we've evaluated a risk how then do we manage a risk when we manage risks we
+talk about firstly reducing or mitigating them reducing a risk is to
+lower the likelihood of the risk I.E reduce the chance that the negative outcome will occur and to mitigate a
+risk is to lower the severity of the risk I.E reduce the consequence if it does materialize to give a very simple
+example let's say my opponent has a total reaction bar in a high place and I make the decision that my game will be
+considerably easier to execute if I if I knock it unconscious or kill it I can reduce the risk by increasing my odds in
+the face-to-face role by shooting through smoke with an msv Trooper or using a mimatism trooper or getting
+inside its Range band so that it's dice its modifiers are worse those reduce the
+risk right they reduce the likelihood you mitigate the risk by taking actions that will reduce the severity if the
+total reaction bot does win the face-to-face role for example it crits you you miss the risk by having tougher
+pieces pieces with multiple wounds or pieces which can be recovered for example with a doctor or an engineer or
+even in single-use equipment like symbiomates or just using pieces that aren't disposable if you have a armbot
+peacemaker and you eat an Oxbow into a total reaction bot and the oxbot dies
+you are not hugely materially behind because the consequence of losing an
+oxbot is low you mitigate the risk by using a piece you can afford to risk
+once we have either reduced or mitigated a risk we then have to basically make the decision about how bad does it still
+look I've done what I can I've figured out that I can move inside good range of
+the enemy total reaction bot get inside 16 inches and engage it with the limiters and Pace it's going to be
+firing on fives rather than 11s this is our residual risk right residual risk is
+the risk that is left over the magnitude of the risk that is left over after you've done your best to reduce or
+mitigate it you can then either accept the residual risk or actually decide
+that's not worthwhile and avoid the risk take some other course of action it's really important to note here that
+just doing nothing is our choice but you have to think about that in the prism of
+what are your objectives and is doing nothing actually a bigger risk than doing something sure if I take the fight
+with the Enemy total reaction bot there is a chance that will crit my Pace render unconscious and the game will be more difficult but if I do nothing if I
+just avoid engaging the total reaction bot what will the outcome be there will be a 100 chance that for the remainder
+of the game you will have to continue to avoid and play around the total reaction bot which will make all of the rest of
+your game more difficult potentially accepting or avoiding the risk is always going to be a decision but you have to
+not just be risk-averse you have to choose to engage with risk and create
+opportunities for yourself one of the easiest mistakes for new players is to just be scared by the possibility of
+risk and do nothing don't do that you have to wear and manage some risk but if
+you're good at it you'll be good at the game as a minor note here this is cribbing notes from corporate risk
+management training in businesses risks can also be transferred transferring a risk is to hand the risk over to another
+party usually one who can better be able to Bear it like an insurance company or someone better placed to manage it in a
+commercial relationship in Infinity that doesn't really apply there's just you there's you and your decisions you can't
+really give the risk to anyone else sorry so that's how you assess and engage with
+WHEN RISK MANAGEMENT GOES WRONG
+risk but what happens when you stuff it up because this is this is the part of
+the video where we talk about the mistakes that we are all going to make mistakes in Infinity are often in fact
+very often mistakes of risk management there are some up on screen there and if
+these are familiar to you don't worry they are deeply familiar to me as well tunnel visioning and forgetting your
+objective is a hugely common risk management mistake it's very easy to make a decision that
+is initially correct and decide all right I'm going to have my tag move up and engage the enemy Arrow piece because
+engaging the enemy Arrow piece will help me open up the Midfield and move into it and getting pieces into the Midfield
+will help me accomplish my objective of scoring points in the supremacy scenario you move up you take the face-to-face
+roll you get crit you take a wound you take the face-to-face roll it fails you take the face-to-face roll it fails and
+you Tunnel Vision on accomplishing the goal of killing the enemy Arrow piece
+but forget your objective you may have needed some of those orders that you were spending to actually accomplish the
+thing that you'd deem necessary to complete your objective you can end up in a situation where the tag isn't one
+of those pieces that moves into the supremacy zones and therefore it doesn't score you points and therefore you fail
+your objective even if after the sixth or seventh order you put that fusilier missile launcher down you have failed to
+assess what your actual objective was because you tunneled visioned on the sub goal that you had set yourself the
+decision to a fight the fuselier the first time may have been totally correct the decision to fight it the fourth
+fifth and sixth time may have been failures of risk management it's also super common to stuff up your risk
+management by just incorrectly assessing a risk all the time how many times have you done this right where you play a
+game and you think man wow did I make a mistake there and you go back and you look at the face-to-face role and what
+you had thought was like a 90 chance of success was a 50 chance of success or a
+two percent chance of critical failure was actually a four or a five percent chance of critical failure this happens
+incredibly often and is one of the things that is really useful to learn over time and actually go back and see
+like hey during the game I kind of made the call that this was a pretty good
+face-to-face role but actually it was kind of crap this is also something that
+just humans generally will hugely tend to do it's really common especially in Infinity for people to significantly
+overestimate How likely they were to succeed at something an example that has stuck in my mind for a very long time
+was playing a game with TOA this was in M3 playing a game with tohar against Achilles and achilles YOLO to my
+deployment Zone and he fired his Spitfire against a link to McCall in cover now what happened was I whiffed
+both of my dice rolls he hit all four and I've passed all four of my armor rolls meaning there was a null outcome I
+survived but my opponent got super salty about that how lucky was I to have passed all
+four of my dice rolls or for my armor rolls how how reasonable how was it how is it reasonable that I just made four
+saved against the Spitfire but if you actually examine that face-to-face role and you look at the
+likelihood of Achilles having a null effect it was surprisingly high that
+McCall was in a Triad it was in cover Not only was its armor okay because it was in cover but it was firing two dice
+on 16s with its Eclipse Smoke Two Two face-to-face roll against Achilles it
+was actually very likely that Achilles didn't succeed but my opponent in that
+game really struggled just to get their head around the fact that they had committed to a face-to-face role that
+had a relatively low likelihood of getting them what they wanted and once that smoke was down now the only way for
+Achilles to engage them a call was to move out of the smoke into flamethrower but not into melee range and he didn't
+really want to have melee fight with him a call either and that was bad for him basically another common mistake is to
+assess only the opportunity or the risk but not both this I think we've sort of seen over the
+course of this video where you can think about what is it that I am trying to accomplish what is the opportunity here you have to think you have to consider
+and what will happen if I fail what will happen if things go wrong it's equally a
+bad idea to focus only on the risk if you if you get it into your head that if you move your tag around a corner and
+fight the league to use the layer missile launcher if the only thing you're thinking about is the fact that you could get double crit then you can
+very easily succumb to excessive risk aversion and risk aversion is crippling
+in Infinity you can't not play the game and if you desperately try to avoid
+every risk to your forces then you are just going to put yourself in a position where you never have any opportunities
+you have to move forward you have to engage with the game you have to take risks the critical thing is taking risks
+that are well considered and managed and just consistently making those good decisions I've got a note down the bottom there that I also want to really
+drive home which is that it's just not going to be possible for you to perfectly assess every risk that you
+make during a game you can't pull out that the little Matrix and try and figure out how what the magnitude of
+that individual risk is for every face-to-face role every face-to-face troll contains multiple risks multiple
+threats to your objectives multiple possible benefits and the number of dice you will roll over the course of a game
+of infinity is significant but after a game is the ideal time to reflect on what went well and what went wrong go
+back once a game is finished and you've got time to decompress and look at the risks that you took and how you manage
+them did you make good decisions did you make bad decisions with the good decisions rewarded with the bad
+decisions punished if a risk materialized and something went wrong it
+is still very possible that the decision you made was a good one and recognizing that is also important were you just
+unlucky or did you take a bad decision did you expose yourself to a
+catastrophic risk when you didn't need to this is the best way to cement your experience and learn from your mistakes
+and if you have time to sit down and think after a game debrief with your opponent hey you know was that was that
+bad was that good what do you think happened there that is an exceptional way to cement your experience and learn
+from your mistakes risk is also a really good way to tell us why some units are powerful all of
+WHY UNITS ARE POWERFUL IN TERMS OF RISK
+this stuff that I've just been talking about I've talked about tags and fuse layers and TR Bots a lot but there are tons of things that in Infinity that are
+really strong because of how they interact with risk as a concept I'm going to kind of just read from the
+slide here but there are a ton of these almost every unit can be conceptualized in some way in terms of how it lets you
+engage with risk direct templates are powerful offensively and defensively because they maximize your opportunity
+by making risk and opportunity not mutually exclusive they sidestep the face-to-face role and let you just get
+the chance to have the thing you want even if you also suffer the failure guided missiles are powerful because
+they are huge risk mitigations there are very few consequences for failure
+of a guided missile strike that are catastrophic you expend material and you
+expend orders but it's very rare that you actually expose your key pieces to huge amounts of danger which is why
+guided missiles are strong yes there is there are still risks without a missiles in fact many of the risks associated
+with a guided missile attack have high likelihoods it is kind of likely that you will just fail to Spotlight at
+single dice right High likelihood of failure maybe that's a moderate but the consequences of failure are negligible
+you've spent one order you'll just do it again guided results are powerful because they
+interact hugely in a way that mitigates risk smoke is powerful because it gives you a
+means of avoiding a risk if needed a lot of what I've talked about here so far kind of assumes that you're going to
+have to engage with your opponent and they will have to engage with you but if you have ways of controlling visibility
+you have a huge tool at your disposal that lets you avoid risk smoke also does
+things like let you mitigate or reduce risk that total reaction bot in the example
+where we want to engage it and one of the ways we can reduce our risk is to get inside its Range band what's the way
+to do that smoke smoke is and just visibility tools generally camouflage incredible Tools in Infinity
+symbiomates and just being tough is good because it reduces both the severity and likelihood of risk symbiomates in this
+context are especially powerful because they let you decide where you are going
+to have risk reduction deployed they're also relatively cheap it's expensive to
+have a piece as tough as a tag but it's pretty cheap to have a piece as tough as a tag as tohar for one failure they're
+also really good because they only go off in circumstances where risk has materialized paying for resilience only
+in that moment when a risk actually materializes that is incredibly efficient
+tags are good because they have remote especially ones with remote presence are good for the same reasons as symbiomets
+except all the time also they have big numbers and gobert but a tag with remote presence especially is a piece where the
+catastrophic risk right of your tank going unconscious is significantly mitigated because it's easy relatively
+speaking to repair a remote presence tag to recover from that critical failure which means the risk is mitigated which
+means the actual residual risk for attack a remote presence tag is lower
+cheap Irregulars and peripherals are powerful because they are disposable they it's just not ever going to be a
+catastrophic risk if a peripheral dies if a delami dies you can therefore take bigger risks with them use them more
+freely and it will still be a good decision impersonators are powerful because they
+are high opportunity right they create strong opportunities that other pieces can't and also they require relatively
+few orders to attack which means the risk to your resources is low and then of course linked missile launchers in
+Aro are powerful total reaction bots in Arrow are powerful because they expose your opponent to risk and missile
+launches in particular expose your opponent to catastrophic risk in that example we had with the
+gamma Trooper not many pieces would actually have even a two point something percent chance of killing the gamma all
+the way to dead continuous damage heavy rocket launcher might and a link missile launcher might now if this list seems
+long to you I assure you it's actually deeply non-exhaustive because Infinity is a game about risk almost every piece
+that you think like if you have a piece that you think is good and you've had good results with it could actually be
+really worth your time to stop and think through this lens about why is the piece
+good maybe it's good because it creates opportunities maybe it's good because it is excellent at avoiding or mitigating
+or reducing risk but there will almost always be a reason in this context why a
+good piece is good in turn that can help you with things like list construction if you are struggling with something in
+Infinity some particular problem that your opponent presents or the mission presents it's worth your time to stop
+and think what is the app actual threat to my objective what is the risk and
+what are some ways that that might be mitigated am I worried about tags all
+right well why am I worried about Tags I'm worried about tags because they can
+be very difficult to bypass they can be tough they can be durable and that durability allows my opponent to present
+them as an arrow or Firepower piece which allows them control over the board which can leave me locked out of the
+ability to accomplish my objectives how do I get around that do I get around that using smoke how do I mitigate my
+risk of fighting a tag how do I reduce my risk of fighting a tag when do I accept or avoid fighting attack
+so we've hit half an hour that's probably enough for now just going to summarize some key
+KEY TAKEAWAYS
+takeaways then we'll close this one out remember that Infinity is a game that is about risk risk is the effect of
+uncertainty on your objectives and your objective is to win the game not kill
+your opponent most of the time when you are trying to think about how bad a risk
+is you think about it in terms of the likelihood of the risk materializing and the severity if it does risks can be
+anything from remote or unlikely up to almost certain and severity can range from insignificant to catastrophic
+you must engage with risk you can't win the game without engaging effectively with risk because with risk comes
+opportunities if you are behind it's therefore worth your time to take more
+risks in order to create more opportunities if you play conservatively while you are behind
+you are only going to stay behind as a corollary if you are ahead it is worth
+considering whether the risks you are taking will sabotage the game state if you are ahead be more conservative if
+you are behind be more aggressive and take more risks and finally hey if you liked this video
+let me know if you've got anything that you found interesting ask any questions and consider sharing this this isn't
+something that I would normally ask but as an Australian I have culturally ingrained tall poppy syndrome which just
+psychologically prevents me from promoting my own stuff but I don't mind if other people do it if this you think
+was interesting and might be interesting to other people feel free to send it to them or share that would help me out and
+kind of like spread this which I think would be interesting and cool but I I just can't do it myself
+as always I hope you enjoyed this if you've got questions let me know and otherwise I will see you next time

@@ -1,0 +1,382 @@
+
+Infinity the Academy – Intro to Hacking
+2025-02-16
+WiseKensai
+
+Written by Blessed Be in the N4 era.
+
+Welcome to the wild world of quantronic warfare! Sci-fi space magic!
+What Is Hacking?
+
+The easiest way to think about hacking in Infinity is to imagine that it’s a magic system. Hacking is an additional part of combat that lets you do more stuff. The stuff that it lets you do includes making your own troops more powerful, protecting your troops, and killing or disabling enemy troops.
+Why Should I Care About Hacking?
+
+There are two main reasons that you should care about hacking:
+
+    It’s a powerful set of rules.
+    It allows you to approach problems in unique ways.
+
+In terms of power, hacking allows you to deal with opposing units in efficient and remarkable ways. Whilst bullets might bounce harmlessly off a TAG, hacking programs have a really good chance of getting through much more quickly. And whilst hacking programs can’t kill a TAG, they can, for example, render the TAG either isolated or possessed. An isolated unit cannot have any orders spent on it except its own, so an isolated TAG is far less dangerous. A possessed unit counts as yours for control purposes – so you can enjoy turning your opponent’s guns against them!
+
+In terms of having a unique approach, hacking does not require line of fire. This is absolutely crucial to understand. Hacking is one of a small handful of skills that allows you to attack enemies without being seen. This allows a hacker on a rooftop to attack a nearby TAG without the TAG being able to do anything except reset (reset is like declaring a dodge but it opposes hacking attacks). If you’re playing a faction or list that has slightly lower conventional firepower, the addition of hackers might allow you to go toe-to-toe with your opponent’s big guns, without you exposing yourself to risk, because you can stay hidden whilst you hack!
+So How Does Hacking Work?
+
+The mechanics of hacking are actually reasonably simple once you break them down. Hacking works as follows:
+
+    To hack a target you need some kind of hacking device.
+    There are four kinds of hacking devices: hacking device, hacking device plus, killer hacking device, evo hacking device.
+    What you can do with your hacking device depends on which device you have:
+
+	Offensive	Defensive	Buffs
+Hacking Device	X	–	–
+Hacking Device Plus	X	X	–
+Killer Hacking Device 	X *	X	–
+Evo Hacking Device	–	–	X
+
+* Killer hacking devices possess the only program that can kill a target outright
+
+    You can use your hacking device to hack targets that are within your hacking area. 
+    Your hacking area is the zone of control around you (an 8” bubble around the troop), and the zone of control of any repeaters you own (so an 8” bubble around them too).
+    If your hacker is physically within the zone of control of an enemy repeater then all enemy hackers on the table are within your hacking area.
+    When making a roll as part of a hacking program you use the hacker’s WIP attribute.
+    You can oppose hacking attacks with face-to-face rolls by declaring a shot (if you can see the hacker), a hacking attack of your own, or a reset.
+    You can ‘dodge’ enemy hacking attacks by declaring the reset skill, which uses your WIP. The value of using reset is that you can declare it even if you cannot see the enemy hacker. 
+
+When hacking an enemy the following procedure is followed:
+
+    You declare your first short skill (move / idle / etc.).
+    If the enemy wants to oppose the incoming hacking attack with a face-to-face roll then they need to declare a reset, a hacking attack, or a BS attack.
+    You declare your second short skill (picking the hacking program you want to use).
+    You check that you’re within hacking range and that the hacking attack is a legal declaration.
+    You calculate modifiers (some hacking attacks give you a modifier to your WIP roll, but most do not. Some others may modify the opponent’s WIP attribute too). 
+    You roll off. All hacking related skills (reset, and hacking attacks) use the WIP attribute for the roll. 
+    Any successful hits apply effects. Most hacking attacks require the opponent to roll saves using their troop’s BTS attribute, but the spotlight attack causes an automatic effect, without saves being allowed. Some hacking programs have exotic ammunition which halves the enemy’s BTS value, or forces two saves per successful hit.
+
+Hacking Devices and Hacking Programs
+
+Let’s go into more detail about hacking devices. It’s important to have a clear understanding of the utility that each device brings before you make your list-building choices.
+
+The list of hacking devices and programs is available here. We’re not going to exhaustively cover everything because all the information is available there on the wiki. You can also check out Captain Spud’s fabulous tool here:
+Captain Spud’s Hacking Helper
+
+The generic hacking device is the most common you’ll see. It’s reasonably cheap in points, makes the wielder a specialist troop for mission scoring, and offers a lot of utility. 
+Hacking Device
+
+It offers four offensive programs:
+
+    Spotlight can be used against any troop. It targets enemies, which means that you benefit from a +3 bonus when shooting or hacking them. 
+    Total Control can only be used against TAGs. It possesses them, which essentially allows you to control them. 
+    Oblivion can be used against REMs, TAGs, HIs, and hackers. It isolates targets, so that they cannot have orders spent on them (except their own order). 
+    Carbonite can be used against REMs, TAGs, HIs, and hackers. It immobilizes targets, so they cannot declare any skill except a reset, (which results in them cancelling the immobilisation if it succeeds).
+
+None of these programs can kill their target.
+
+There are three main reasons to use a hacking device: 
+
+    The spotlight program allows you to target enemy troopers. The targeted state gives you +3 to your BS when you shoot that enemy, or +3 to your WIP when you hack that enemy. It’s great for ‘powering up’ your troops, particularly those with lower BS values.
+    Targeted enemies can be shot by guided attacks without line of fire. Therefore a common combo is a number of hackers accompanied by a remote with a guided missile launcher. The hackers target the enemy and the guided missile launcher lights ‘em up. 
+    The hacking device offers a variety of good options against heavier targets. You can build a nicely varied list by including a few hacking devices and a few AP weapons. This will allow you to approach enemy armour from multiple angles.
+
+Hacking Device Plus
+
+The hacking device plus is an extremely rare piece of equipment found only in Nomads, Combined Army, O12, and Aleph. Even in those factions it’s only available on one or two choices. It’s quite expensive, but offers a huge amount of utility. Again, the user counts as a specialist for mission scoring.
+
+It offers six programs. Four are the same as the generic hacking device. The two additions are White Noise and Cybermask: 
+
+    White Noise allows you to place a white noise zone entirely within your hacking area. Troops with MSV cannot see through a white noise zone. So it’s basically a smoke grenade that solely affects MSV troops. 
+    Cybermask allows the hacker to turn itself into an impersonation marker (and therefore the hacker cannot be the target of attacks). 
+
+Like the normal hacking device it cannot kill its targets.
+
+The two extra programs just so happen to be the two key reasons to want a hacking device plus over a standard hacking device:
+
+    White noise is incredibly powerful in certain situations because it uniquely frustrates opposing pieces with MSV. You could use this to more easily remove an opposing ARO piece that has MSV, or you could combine the white noise zone with a smoke grenade to form an area that no troop can see through.
+    Cybermask is also a very useful program. A defensive troop can use it to hide, because once they’re a marker they cannot be shot until they’re discovered. This could be used with a lieutenant that has a hacking device plus and wants to hide. Alternatively, an offensive troop could use it to become a marker so that it can safely cross firelanes covered by enemy ARO pieces without being shot. 
+
+Killer Hacking Device
+
+The killer hacking device is a very common device that you will see in many lists. It’s the cheapest of all the hacking devices. The killer hacking device trades away almost all of the hacking device’s utility in exchange for the ability to kill enemy hackers and the ability to turn the wielder into a marker. Usual rules about being a specialist apply.
+
+It offers two programs: Trinity and Cybermask. 
+
+    Cybermask has already been discussed – it allows you to become an impersonation marker. 
+    Trinity is a program that can only be used against enemy hackers. It does actual damage to the target, and therefore is the only program that is lethal. Trinity gives you a +3WIP bonus for the roll, and has a burst of three, which means that it’s very effective in face-to-face rolls. 
+
+There are three reasons to want a killer hacking device:
+
+    Killer hackers are incredibly cheap, SWC-less, specialists.
+    The usual advantages of cybermask apply. It’s a great ability both defensively and offensively. 
+    A good killer hacker can use the Trinity program to dominate the hacking game, and terrorise enemy hackers. 
+
+EVO Hacking Device
+
+EVO hacking devices are available across almost all of the factions, but only on one or two troops per faction. The evo hacking device has programs that buff troops. Usual rules about being a specialist apply. 
+
+It has four programs: 
+
+    Controlled Jump affects units with combat jump. It gives your units a +3 bonus to their combat jump roll, and enemy troops a -3 penalty. It has a global range and so can be declared as an ARO in response to an enemy troop using combat jump anywhere on the table. 
+    Assisted Fire can be used on a friendly REM. It grants them marksmanship (marksmanship means the REM ignores cover penalties when declaring BS attacks). 
+    Enhanced Reaction can be used on a friendly REM. It grants them a burst of two when they ARO. 
+    Fairy Dust allows you to choose a troop type (HI, REM, or TAG). The chosen units all benefit from firewall mods against comms attacks (which are basically hacking attacks and jammers). The firewall mod is -3 to the enemy’s WIP, and -3 to the damage of the attack, so it’s like being in cover against hacking.
+
+All of these skills last until canceled.
+
+An EVO hacker can only sustain one buff at a time, but the player can declare a new buff and cancel the old one, by spending an order on the EVOhacker and following the normal procedure.
+
+The buff ends if the EVO hacker goes into the unconscious or dead state. 
+
+In cases where a player possesses multiple EVO hackers, it is worth remembering that any single troop can only benefit from one single EVO hacking program at a time. No stacking assisted fire and fairy dust on a single remote.  
+
+There are three main reasons to want an EVOhacking device:
+
+    A remote heavy list might want to use assisted fire to dramatically improve their shooting abilities. Units like Dakinis in Aleph, or Bulleteers in PanO are extremely scary when they have marksmanship.
+    A list that makes use of combat jump troops may want an evo hacker to improve their chances of landing successfully. 
+    A list that wants to use a TAG or REM as its primary attack piece could benefit from the fairy dust program in order to protect that unit from enemy hacking attacks. 
+
+Maximizing Your Hacking Potential
+
+There are two considerations when it comes to maximizing your hacking potential: you want to increase your hacking area, and choose good quality hackers.
+Increasing Your Hacking Area
+
+Your hacking area is the 8” radius around yourself (your zone of control) and any repeaters you own. If you’re within the zone of control of an enemy repeater, then your hacking area includes any enemy hackers on the table. 
+Demonstration of a hacking area (map designed by Cabaray).
+
+Naturally a lone hacker has a reasonably limited hacking area. Your zone of control is somewhat extensive, but easy enough to avoid if your opponent is willing to spend a few orders moving carefully. The clear solution to this problem is to add more hackers or repeaters so that you can cover a larger area. For each that you add, you have the possibility of doubling, tripling, quadrupling etc., your original hacking area.
+
+But which do you choose? More hackers or more repeaters? There are pros and cons to both!
+Repeaters
+
+Repeaters are available as built-in equipment on certain units, or in other circumstances as Deployable Repeaters that can be placed on the table. Think of them as WiFi access points.
+
+There are also separate pieces of equipment called Pitchers, and Fast Pandas, which are more flexible repeaters: 
+
+    Pitchers are repeaters that can be shot, and therefore they essentially allow the user to place a repeater at long-range.
+    Fast Pandas are repeaters that can be deployed within your zone of control (up to 8” away), without line of sight. Imagine them as repeaters that are either thrown, or remote-controlled (except that once they’re deployed they cannot be moved again). 
+
+There are three huge advantages to using repeaters:
+
+    Deployed repeaters allow the wielder to move away once they’re placed. So you don’t need to have a troop sit in the same spot to occupy the space. 
+    Deployed repeaters are not actually troops, so they’re a reasonably risk free option (beware though – enemy hackers can attack your hackers through your repeaters – so they’re not completely risk free!). They’re certainly far less risky than having to leave an actual troop somewhere dangerous.
+    All of your hackers can hack through your repeaters, so they can really concentrate your power. If an enemy model moves through the zone of control of one of your repeaters, you can hack them with every hacker you control. Conversely, if an enemy model moves through the zone of control of one of your hackers, only that single hacker can hack them. 
+
+Taking more hackers is advantageous too:
+
+    Having more hackers means that you can use co-ordinated orders to put out multiple hacking attacks on a single target simultaneously. As mentioned above, it also enables you to get multiple hacking AROs if an enemy walks through the zone of control of a repeater you own.
+    It protects your hacking infrastructure. Running a single hacker with repeaters means that if that hacker dies then your system collapses. Taking multiple hackers protects against this by providing you with a level of redundancy.
+    Hackers are specialists so they’re useful for mission objectives.
+
+In reality the best hacking lists will usually have more than one hacker, in conjunction with a good source of repeaters. 
+Picking Good Quality Hackers
+
+In the same vein as gunfighters, hackers come with large discrepancies in quality. Some are very poor, and others are fantastic. 
+
+There are 6 factors to look for in a hacker:
+
+    WIP: Does the hacker have a good WIP attribute?
+        13 is passable, 14 is good, 15 is excellent.
+    BTS: Does the hacker have a good BTS score?
+        0 is obviously bad, 3 is not fantastic but it’s better than nothing, 6 is notable because it means the hacker has a decent chance of shrugging off a damage 14 trinity attack, and 9 is exceptional.
+    Does the hacker itself, or the faction you’re playing, have a way to increase its hacking area?
+        Does it carry any pitchers, repeaters, fast pandas? 
+        Can any other troop in the faction carry pitchers / repeaters / fast pandas?
+    Does the hacker have the Veteran skill?
+        The veteran skill makes the user immune to the isolation state. This is important because one of the best hacking attacks (Oblivion) isolates units. If you’re immune to this then the opponent cannot use it against you, although they still can declare Oblivion to generate a face to face roll.
+    Does the hacker have a way to travel the board safely?
+        Does the hacker have camouflage or another marker state? 
+        Does it have forward deployment or infiltration, allowing it to start near to where it needs to be?
+        Does it have stealth, allowing it to move quietly through the hacking areas of enemy hackers without provoking AROs? 
+        Any other skills that will let it get into the midboard and move around safely?
+    What other tools does the hacker bring to the table, pun intended?
+        Is the hacker also a good gunfighter?
+        Does the hacker have multiple skills like also being an engineer?
+        Is the hacker linkable in a sectorial?
+
+Let’s have a look at some examples!
+Budget Hacker: Fusilier
+
+A sub-par WIP score of 12, and no special skills makes the Fusilier a budget hacker. Sometimes though, quantity makes up for quality. Several Fusilier hackers threatening ARO though a repeater can really give an enemy pause. Fusiliers are also useful as a backup hacker due to its low cost, but really a single Fusilier Hacker is not to be relied on as a primary choice.
+Good Hacker: Mukhtar
+
+The Mukhtar brings a respectable WIP attribute of 14, a solid BTS value of 6, and forward deployment. The WIP score helps it win face-to-face rolls when it hacks. If it suffers a hit then BTS6 gives the troop a good chance of shrugging off the attack. Lastly, forward deployment completes the package by helping the Mukhtar quickly reach the more relevant parts of the board. The Mukhtar isn’t the best hacker in the game, but it provides a lot of attractive features in addition to just being a hacker, unlike the Fusilier.
+Amazing Hacker: Anathematic
+
+The Anathematic is stacked. It has a truly absurd WIP score of 16, combined with a good BTS value of 6. It has camouflage so it can safely reach the midboard. It also has stealth which means it can move through enemy repeaters without provoking hacking AROs (remember stealth lets a troop move through the zone of control of enemies without provoking AROs). As if that isn’t enough, the anathematic boasts a special upgrade to its hacking device: Trinity +1B. This means it has Trinity as an additional program, and rolls four dice when it declares it, instead of the usual three. Who doesn’t want to BRAIN HMG things? It’s safe to say that the anathematic is a truly terrifying hacker. 
+
+The most competent hacking lists will usually have two hackers that are at least good quality. Lists that dabble in hacking might have one poor hacker, and one mediocre hacker.
+Positioning Your Hackers And Repeaters
+
+Hackers do not require line of fire to hack. Therefore hackers can often be very strong when placed inside buildings or on top of rooftops. From a reasonably sheltered position, a hacker can throw out hacking attacks without being targeted by conventional weapons.
+Here is an example map (designed by Cfulghu)
+
+Notice the availability of rooftop space in the middle segment of the board: there’s the grey/orange building occupying the far left side, and a larger grey/orange building occupying the far right. Both offer reasonable amounts of cover, and a commanding position on the battlefield. These are exactly the kind of areas that hackers might be interested in.  
+
+Let’s say that a Haqqislam player wants to stop a PanO player from crossing the board with a TAG. Where could the Haqqislam player place their hacker? (In the following pictures the Jotum was painted by Jim Breitung, and the Tuareg by Trox).
+
+In this example, a Tuareg hacker is placed on a rooftop on the far left of the board. This position is chosen because it renders the Tuareg very safe. It’s prone and in an elevated position, so it’ll be tricky for ordinary troops to target. 
+
+The white circle surrounding the Tuareg is its hacking area (its zone of control – 8” on all sides). You can see that from its elevated position the Tuareg is reasonably safe from harm and blocks off the entire left flank for the enemy TAG (a Jotum). Unfortunately for the Haqqislam player, the Jotum can take the right flank in order to avoid the hacker (shown with the red arrow). 
+
+What if the Haqqislam player placed a repeater on the far right side?
+
+Notice the small green marker near the top right corner of the screen. This is a repeater. It extends the Tuareg’s hacking area to include its own zone of control. Now the Haqqislam player controls the left flank with the Tuareg, and the right flank with the repeater. And of course the Tuareg and the repeater are safe on their rooftops, so they’re extremely hard to target. 
+
+As a result of the Haqqislam player’s positioning, the poor Jotum has almost nowhere that it can safely go. Virtually its only angle of attack is to carefully walk straight forwards and take cover behind the central, black building. Another alternative is for it to take the extreme left flank, by moving towards the red/black vehicle. Of course by doing this, the Jotum becomes very easy to avoid because it’s not controlling a lot of space. In some ways we could say the Haqqislam player has ‘zoned the opponent out’, which means that they’ve controlled the middle zone so thoroughly that the PanO player might struggle to push forwards. 
+
+This is the total area covered by the Tuareg and the repeater, for illustrative purposes:
+
+You can see that because a unit’s hacking area is 8” on all sides, it actually covers 16” across (diameter). Therefore the Tuareg with its repeater is covering a whopping 32” of the board’s width.
+
+We can actually do a bit of maths to work out the total area a single hacker covers, and how much of the board this is, as a percentage (maths for those interested!):
+
+The total area of a board is 48” x 48” = 2304” squared. The total area covered by a hacker is a circle with a diameter of 16” (their zone of control on either side), in addition to their base size (which is usually 25mm, or 0.984”). As an area, this = 227” squared. Therefore a single hacker covers approximately 9.9% of the entire board. Add additional repeater(s) into the mix and you can cover double or triple that value. Most importantly however, if an Infinity board is 48” across, and a hacker covers at least a 16” diameter (depending on base size), then a hacker with two repeaters can theoretically cover the entire width of a board!
+
+In terms of positioning, this demonstrates the importance of spacing. Hackers and repeaters have the ability to control extremely large areas of the board when placed correctly. So don’t bunch them up! As the pictures above illustrate, a hacker on one flank, and a repeater on the other can cover almost the entire width of the board. This is particularly true when terrain is factored in, as there are often areas that enemy units cannot access, so they’re forced to come towards your hacking area. 
+
+By occupying safe, sheltered positions on either flank of a board, and covering almost the entire width of the board with their hacking area, a group of hackers, or a hacker/repeater combo, can project significant threat to enemy units – most notably TAGs, HIs, and REMs. To protect these assets, you may want to place skirmishers or notable ARO pieces covering accessways to your hackers. 
+What About Hacking Through Enemy Repeaters?
+
+Sometimes you’ll be lucky and an opponent will place a repeater that you can exploit yourself. If you have a competent hacker, it can be a fine idea to hack through an enemy repeater, however it comes with a few challenges:
+
+    You can only hack through an enemy repeater if your hacker is physically present within its zone of control.
+    Hacking through an enemy repeater means that you’re in the hacking area for all of their hackers. Therefore, the enemy will be able to declare AROs with all of them.
+    When hacking through an enemy repeater, your target gains a firewall modifier. That’s -3WIP to you, and -3 damage to the program. It’s like they’re in cover, but for hacking attacks.
+
+In some situations this is absolutely fine. If you have a hacker with a high WIP score, and the enemy only has one or two mediocre hackers (low WIP, low BTS) then you can absolutely get away with doing this. However if the opponent has good hackers or many budget hackers, then it’s really, really dangerous. Trinity is the program with the highest burst, and even then it’s only burst 3, so if the opponent has two hackers then the best you can do is split your burst into two dice and one die. You’ll be at -3WIP for all of the attacks, and Trinity’s lacklustre damage of 14 will be further reduced to 11. If your opponent has two hackers with WIP14 and BTS6, for example, do you really want to risk it? It’s not usually the best idea!
+Choosing The Right Hacking Program
+
+There are four hacking programs capable of stopping enemies: Total Control, Carbonite, Oblivion, and Trinity. Which you should choose depends largely on the target, and what you want to achieve. 
+
+A lot of the time you’ll be limited by the hacking device you have. Hacking devices and hacking devices plus have the first three, whereas only killer hackers have the last. However, in a situation where you theoretically have multiple options, what then? Let’s break down the four options:
+
+    Total Control – Only usable against TAGs. Damage 16. Burst one. Two saves per successful hit. Inflicts possession.
+    Oblivion – Usable against TAGs, REMs, HIs, and hackers. Damage 16. Burst two. Successful hits half the target’s BTS value when it comes to making saves. Inflicts isolation.
+    Carbonite – Usable against TAGs, REMs, HIs, and hackers. Damage 13. Burst two. Two saves per successful hit. Inflicts Immobilization. 
+    Trinity – Usable against hackers. Damage 14. Burst three. Inflicts wounds, so can kill targets. Grants +3 WIP bonus when used.
+
+The first thing to notice is that two of these options have quite low damage stats. Trinity at damage 14, and Carbonite at damage 13. This is interesting because whilst it might be tempting to go for a trinity attack against an enemy hacker, the low damage can be a problem. Using Trinity against an enemy hacker with BTS9 means they’ll be saving on 6+, and even with BTS6 they only need 9+. This is really worth remembering because whilst Trinity is great at winning face-to-face rolls (high burst, bonus to WIP attribute), it is not good at pushing through damage against enemy hackers with decent BTS scores. In these cases you might find oblivion more useful. Whilst oblivion might not kill the target, it does isolate them, and the isolated state shuts down hacking devices, so an isolated hacker isn’t a hacking threat anymore!
+
+Against enemy heavy infantry or TAGs, the same goes for Carbonite. Completely immobilising heavy armour sounds amazing, but with a damage value of 13, Carbonite can struggle. As we pointed out above, a lot of targets might be walking around with BTS6 or BTS9, and in these circumstances Carbonite is going to struggle to push through any actual damage. So as a general point to remember – if the enemy has a high BTS value, it might be worth avoiding Carbonite and Trinity.
+
+This leaves Oblivion and Total Control. Both of these programs boast high damage values of 16, and Oblivion even has AP ammunition, so it’s fantastic at cutting through targets with high BTS scores. Oblivion is probably the best all-rounder hacking attack. Its burst of two isn’t great, but it’s better than Total Control’s burst of one. In the active turn Oblivion can be a solid choice against targets that are likely to resist a Carbonite or Trinity attack. The downside of Oblivion is that an isolated target can still act – so they can still ARO and have orders spent on them. In the active turn an isolated target only gets its own order, so Oblivion does severely hinder a greedy, active-turn piece. 
+
+Total Control is the most situationally strong program, but also quite tricky to use. With its burst of one, it’s not that potent in the active turn. However, any success does force two saves, and if the opposing TAG fails they’re possessed, which means you control them. Due to its low burst but high power, Total Control is a really strong ARO declaration. Even if you don’t hit, enemy TAGs don’t want to waste time declaring reset, so it’s a win-win for you. In the active turn total control isn’t usually a very effective main plan because of how unreliable the single burst is. However, in a tricky situation with few other options, declaring total control in the active turn can completely turn a game, with a bit of luck. 
+
+So, how do we break this down simply?
+
+    Does the enemy have a BTS value of 9?
+        If yes then consider high damage programs such as Oblivion or Total Control. Due to their burst values, Oblivion is better in the active turn, and Total Control in the reactive turn. Remember though, Total Control can only be declared against TAGs. 
+    Does the enemy have a BTS value of 6?
+        If yes then consider Trinity, Total Control, and Oblivion. Trinity only works against hackers, and as above, Total Control against TAGs. Again, due to burst values, Oblivion and Trinity are better in the active turn, and Total Control in the reactive. Declaring Trinity against a BTS6 target can be frustrating due to the low damage value, so plan to spend a few orders on it.
+    Does the enemy have a BTS value of 0 or 3?
+        Any program can be used. Weigh up whether you want to isolate, kill, or immobilize the target!
+
+What about Spotlight?
+
+Spotlight is burst one, and is the only program that can target any unit. It doesn’t harm the enemy conventionally, it just makes them enter the targeted state, which means all your attacks against them get a +3 mod to the attribute used for the attack. It also gives the target -3WIP for their reset rolls.
+
+There are three reasons to consider spotlight:
+
+    You can’t use any other program.
+    You want to physically kill the target, and Spotlight will make them easier to hit.
+    You want to stack multiple negative modifiers to the target’s WIP, so they have a difficult time resetting against further hacking attacks. 
+
+One incredibly useful trick with Spotlight comes from the fact that you can declare it as an ARO against any enemy troop within your hacking area, and it causes a face-to-face roll to occur. 
+
+A hacker’s WIP is most likely higher than their PH or BS attributes, and therefore Spotlight is an amazing ARO to declare if you want to maximise your chance of winning the face-to-face roll. Remember – even if the enemy troop is already targeted, it doesn’t matter, you can still declare Spotlight.
+
+Imagine an enemy troop sneaking up behind one of your units and shooting them in the back. A non-hacker would get a dodge with a -3 penalty, if the enemy unit is within their zone of control. A hacker, on the other hand, would be able to declare Spotlight with a flat WIP roll. That could be the difference between aiming for a 7 on the die, versus a 14!
+
+Even in less extreme situations it can be advantageous to declare Spotlight. A line infantry might have a choice between a BS11 rifle shot or a WIP13 Spotlight as their ARO. If your goal is to waste the opponent’s orders then the WIP13 Spotlight is a really good choice.  
+
+As a preview of what’s to come: Spotlight, midfield repeater coverage, and access to Guided weaponry can really make for an oppressive midfield presence. Remember how we talked about the JOTUM wanting to avoid hacking areas due to infiltration and repeaters? Now everything does, because if they get hit with Spotlight, Guided missiles can rain from the skies! If you want to see this in action, check out these two battle reports!
+When to Hack?
+
+When should you consider hacking? Should you spend orders in the active turn? If you do pursue it then how many orders should you spend? Or is it worth getting a repeater into position and then waiting for your opponent to activate within your hacking area on their turn?
+
+Addressing when to hack is a complicated subject because answers to these questions really depend a lot on board state. Context is everything. Who is involved in the potential hack? What are their relevant attributes like WIP and BTS? Do you have the orders to spare? Is there something better you could be doing with your orders? What programs are relevant?
+
+As you get more comfortable with the mechanics of hacking and develop a feeling for how effective it is in your chosen faction and the matches you play, you’ll find a rhythm that works for you. However, here are some good guiding questions to ask yourself before you decide to hack:
+
+    Is it more efficient than shooting?
+        Hacking is very strong, especially Trinity from Killer Hackers. Space Magic is also awesome, but sometimes the humble bullet might be a better solution. Do you really need to Oblivion that heavy infantry? Can you just shoot it instead? 
+        Does the enemy have a vastly higher BTS than ARM? If they do then hacking is probably far less efficient than shooting.
+    What do I sacrifice when taking this hacking attack?
+        Often taking a hacking attack will involve moving closer to the enemy or breaking your marker state. It’s common to sacrifice safety in favour of offensive potential when you hack.
+        Generally speaking, it’s not a good idea to break marker state in the reactive turn to get a hack off, unless the situation is really favourable to you. Marker state is a very important protective tool and it’s important to preserve it for as long as you can. You might consider breaking camouflage if:
+            Your opponent is out of orders and has just blundered a TAG into the hacking area of your infiltrator.
+            Your opponent spends an entire order within the hacking area of one of your hackers, so you get an uncontested attack. 
+    How does this contribute to my gameplan?
+        Okay, you brought the missile remote, and you want to drop missiles on things. It’s a super fun strategy! But is it actually helpful? It might not be worth throwing 2-3 orders into Spotlight and then 1-2 more orders throwing missiles at something when the mission doesn’t even reward you for those kills. Could you have done something more relevant?
+        Is the enemy I’m hacking actually stopping me from carrying out my gameplan? Or can one of my specialists score objective points without me having to worry about hacking my opponent’s heavy infantry? 
+
+    Do I need to do this in the active turn?
+        Playing swapsies with the enemy TAG by possessing it is undoubtedly very fun, but remember that Total Control is Burst 1. In many ways it’s just as strong in the reactive turn as it is in the active turn. Furthermore, if you hack the TAG in your turn, and you spend a few orders doing so, you then have fewer orders to stomp your stolen robot around. Then your opponent can just get it back when their turn starts, by using a command token.
+        Many hacking programs have low burst values, and high damage. They make very good ARO declarations. It is therefore not always necessary to pursue hacking proactively – it can sometimes do a lot of work reactively. 
+    Have I done enough?
+        You don’t need to Oblivion and Carbonite your opponent in your turn. An enemy unit that can only have one order spent on it per turn (due to being isolated), might not need to be immobilized as well. One crippling state is probably enough – remember you’re just trying to stall them out!
+
+Dealing with Hackers
+
+Phew, all this talk of hackers! It’s enough to get a remote sweating. Never fear though, the last point to cover is how to play around enemy hackers.
+
+There are four main options: avoid them, throw non-hackable units at them, use troops with stealth, or use troops with a marker state. 
+Don’t! – Avoid Them
+
+Avoiding enemy hackers seems like obvious advice but there are a few intricacies to consider. Not only do you need to remain far away from the hackers themselves, but you also need to avoid any repeaters or pitchers. Be aware that not all hacking is limited in reach; pitchers have decent range and can be a real surprise if you haven’t planned around them. 
+
+One really useful way to allow your troops to avoid hackers is to aggressively remove enemy repeaters. They can be shot, and doing so is often a good idea because it will help your hackable units successfully avoid the enemy hacking net. 
+
+In your active turn you can move through unavoidable hacking networks with the cautious movement skill.
+Use Non-Hackable Troops
+
+If your list is relying on hackable units to do the heavy lifting, it’s really important to include a few selections that are not hackable, and can aggressively push and kill enemies. These troops can act as a forward force that clears the way for your TAG / HIs / REMs. Non-hackable troops can still be targeted by spotlight hacking attacks (because that can be used against any troop), but that’s far better than being hit by an Oblivion.
+
+Camouflaged skirmishers, that start near the middle of the board, are perfect for an anti-hacker role. These troops can maneuver safely using their camouflage state, in order to reach enemy hackers or repeaters without attracting dangerous AROs. They won’t have to spend many orders doing so because they deployed further up the field. Skirmishers usually stack mimetism modifiers onto the enemy, so they can win a shoot-out with a squishy hacker.In case they are targeted by spotlight, they can re-enter the camouflage state, which doesn’t get rid of the targeted debuff but it does mean they can’t be shot in the first place. 
+Use Troops With Stealth / Camouflage 
+
+Even if your troop is hackable, it can still avoid enemy hackers by using stealth, camouflage, or some other marker state. Stealth allows you to move through enemies’ zones of control, without provoking dangerous AROs. The camouflage state renders you completely untargetable, so long as you remain in marker form. In fact, all of the marker states such as impersonation, camouflage, and holoecho are excellent defensive skills.
+
+You’d be surprised how many units have the ability to walk through hacking networks without provoking any AROs, due to one of these skills. 
+
+A few examples include:
+
+    All of the knights in PanO have stealth, and so does the Swiss Guard. 
+    Hac Tao, Daofei, and the Mowang have stealth and/or camouflage.
+    The Asawira and Ayyar have stealth. The Ayyar also has a marker state in holoprojector.
+    Taskmasters have stealth.
+    The Anathematics have stealth and camouflage.
+    Achilles, Ajax, Hector, and Patroclus all have stealth.
+    Neema and the Kiel-Saan have stealth.
+
+The big losers here are TAGs. As you can see, a very large number of heavy infantry are packing some combination of high BTS, stealth, or camouflage, which renders them at least somewhat resistant to hacking. On the other hand, most TAGs have only their BTS value as a defence. 
+
+The message to remember here is that there are actually a large number of hackable targets you can include in lists that have good ways of avoiding being hacked. 
+Hacking Q&A
+
+Can I ARO through friendly repeaters?
+
+Yes. You can ARO without line of fire to your enemy if you have a special skill or piece of equipment that allows you to do so. Hacking devices are a piece of equipment that allows this.
+
+Can I ARO through enemy repeaters?
+
+Yes. But only against enemy hackers, and only if your hacker is physically within the zone of control of that repeater. 
+
+Does an enemy model having stealth mean that I can’t hack it when it walks near to my hacker or repeater?
+
+Yes. Hacking normally allows you to declare hacking attacks against models in your own zone of control, or the zone of control of a repeater, but stealth cancels this. To be explicit – stealth stops you declaring AROs against a model when they move within your zone of control. 
+
+Does my hacker possessing sixth sense allow them to hack enemy models that have stealth, if they move through my hacking area?
+
+Yes. Models with sixth sense cancel stealth on enemies. This means if a model with stealth walks next to your hacker with sixth sense, you can hack them. In fact, if they walk next to one of your repeaters then your hacker can hack them too!
+
+If a model has -3 to their reset rolls from being targeted, and an additional -9 to their reset rolls due to being isolated, do these stack?
+
+Yes. They do stack. So a hacker that inflicts isolation and targeted on an enemy makes it impossible for them to reset if they’re only WIP12.
+
+Does a single reset roll cancel targeted, immobilisation, and isolation?
+
+Yes. But remember that all of those states incur penalties to your reset roll, and they do stack. The maximum modifier you can ever suffer is -12, so in this situation you’ll have a WIP-12 roll to pass. This means that whilst you theoretically can cancel all of these states simultaneously, it’s virtually impossible to pass that roll.
+
+What happens to a possessed TAG at the end of the game?
+
+Possession counts as a null state (similar to unconscious or dead) at the end of the game. This is incredibly useful for missions that count how many points of enemy models you have killed, or for missions that require you to keep troops alive in certain zones. 

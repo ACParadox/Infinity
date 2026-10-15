@@ -1,0 +1,54 @@
+
+Infinity the Academy – Dice Rolls and Attributes
+2025-02-16
+WiseKensai
+
+Written by WiseKensai in the N4 era.
+
+In the article looking at unit profiles we explored attributes and what they do. In this article we’re going to discuss how attributes are used, and the various kinds of dice rolls in the game.
+
+By the end of the article you should have a clear idea of how attributes relate to game actions, and how those actions are resolved with dice rolls. 
+
+Let’s start by reminding ourselves what a troop profile looks like, including its attributes: 
+
+As a recap, the attributes are the 10 values running along the grey bar in the middle of the profile. And, as discussed in the profiles section, each attribute tells you something about the unit itself or its performance. 
+Rolling Dice
+
+In Infinity you’ll often be asked to roll a twenty sided die (d20) and compare it to these attribute values, in order to see if an action is a success or failure. 
+
+If the number you roll is equal to your attribute value or lower then you pass. If the number you roll is higher than your attribute value then you fail. This is really the core mechanic of the game. 
+
+There are two consequences of this:
+
+1. Higher attributes are better: If an attribute value is 20 then you can never fail because you’ll always roll less than or equal to it on a 20 sided die.
+
+A unit with BS15 will hit more shots than a unit with BS11.
+
+2. High rolls are often bad: A high roll on the die (e.g. 20) often means the result will be above your attribute value and therefore a failure. 
+
+Rolling 10 and 12 on your dice will probably be better than rolling 18 and 19.
+
+Tip: While it’s important to know which attribute to roll against, the actual value of the attribute is not important for your first few games. Since most of the attributes are so close to one another, e.g. BS 11 versus BS 12. It’s often more efficient to just roll the dice and only check the attribute if it looks like it would matter.
+
+For example, if you roll a 10 or lower, it won’t matter whether your BS is 11 or 12 – that’s a success either way. If you roll a 20, that’s going to be a failure. Of course, your effective BS will change based on modifiers, but the point of your first few games is to get the mechanics down, not to memorize the various stat-lines of your troopers. Roll first and look it up if it matters. You’ll pick up the details as you get more games in.
+Normal and Face-to-Face Rolls
+
+There are two types of rolls in Infinity; normal and face-to-face.
+
+The core Infinity rules have a great discussion about how rolling works, so instead of repeating that we’ll just link them here:
+InfinityTheWiki – Rolls
+Attribute Scores Over 20
+
+If your attribute exceeds 20 then it has an effect on your dice results. In these cases you add the amount by which your attribute exceeds 20 to the number you roll. For example, if your CC value is 23, you add 3 to the roll. This means if you rolled a 4 it would count as a 7.
+
+Furthermore, any modified result of 20 or more becomes a critical hit. For example, if you have an attribute value of 23 then rolls of 17, 18, 19, and 20 are criticals, because each of those values equal or exceed 20 when you’ve added 3. While this seems like a technicality, the bonus to the roll can make dramatic and counter-intuitive changes to the odds on the statistics. This often skews things in favor of the troop with a bonus very strongly, so be aware of that.
+InfinityTheWiki – Scores Above 20
+Attribute Scores below 1
+
+If your modified attribute score is below 1 then you automatically fail that action. This might happen if a troop has a low BS value, and takes many penalties to its shooting. As an example, let’s take a troop with a BS value of 11. Let’s see how that BS value of 11 could end up below 1:
+
+    Shooting an enemy in a bad range-band for your weapon: -3
+    Enemy has powerful camouflage: -6
+    Enemy is in cover : -3 
+
+The total here is -12, bringing that troop’s BS value to -1. This would make any shot impossible.

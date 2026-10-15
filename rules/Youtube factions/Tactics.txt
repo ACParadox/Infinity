@@ -1,0 +1,57 @@
+Powerful unit types:
+
+Cheap irregulars: cost effective
+Main battle warbands
+Main battle TAGs
+Hacking and missle alpha strikes
+Impersonators, infiltrators+
+
+
+
+Lieutenant:
+
+Concession lieutenant: chosen for ease of use/cost (like line troops easy to decoy/link bonus)
+Synergizers: provide synergies with other units (ex. +1 order with NCO, link options)
+Brawlers: uses their LT order for offensive (ex: Hetkari, TAGs, big hackers)
+Commander: gives extra skills (strategos, counterintelligence)
+WIP used for initiative roll
+Chain of command really useful -> makes brawler lieut better if chain of command unit is cheap
+Keep in mind what can be decoyed, Commander likely not decoyed
+
+
+
+Slicing the pie: Fire angle are open info, move just enough to see one enemy, shoot, and can slide back in
+Advanced movements:
+Dodge move cannot trigger ARO (no space to declare ARO as the move of the dodge is done later). Activation of dodge, yes.
+Cautious move: move to avoid ARO
+Climb, jump: don't forget
+Forking: only create bad situations for opponent:
+Charge a unit at an opponent: he can decide to dodge (but he's not great), shoot, CC, or hack, THEN you choose what you're doing (CC or shoot, etc)
+Same for a hidden unit, the opponent can only Delay, Dodge or Discover and you react based on that
+Good Hidden Deployment:
+AROs: template wpn, good multi-sniper, overwatch empty lane or stacking another ARO piece
+Active action fighter: not great, but camo, surprise, Min-6
+Sneaker skirmishers: stay in camo until you need to push a button
+Fireteam:
+Defense
+ARO: +1 SD in ARO is great: usually haris: with one MI Visor/MSV or HI missile launcher and two line pieces
+ARO: Level 4 is the real target (like 4 core an a good aro). Kestrel does this great with a black air aro and griffin to punish but stay pure
+Core FT: can hide lieut with 4 chumps
+Paramedic is good in there too with the +SD
+Level 5 improves hackers and non-visor ARO
+Offense:
+Better with Duo or Haris, as more is hard to move around
+Joint activation double or triple amount of orders to move
+Order efficiency:
+Fireteam master: irregular becomes regular
+Fireteam techniques:
+quitting the team for positioning
+diff mov values is tricky
+2 cheap chumps + good shooter
+Be cautious of who leader is: prone medic or LT is great of defensive team, hack should not be leader
+Tinbots usually firewall are shared among fireteams, hackers too
+
+ 
+
+
+

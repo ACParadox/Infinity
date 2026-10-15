@@ -1,0 +1,451 @@
+Hello everybody and welcome back to the channel. Today we're continuing our Breaking the Bad series where we show
+you how to take on and beat some of the most feared factions in Infinity. Today we're looking at Kestrel Colonial Force
+uh which has been lorded as one of the more powerful sectorals coming into N5
+uh debuting uh in N5. These guys topped off Canon uh in January this year,
+Australia's major satellite. And we've seen a lot of success uh from Kestrel Colonial Force all around the world. Uh
+this is a pretty highly requested one in terms of you guys wanting to know how to take on a sectoral. So let's take a look
+at what Kestrel can do. So what makes Kestrel Colonial Force KCF
+so hard to fight? KCF presents a very strong Penosian standard of gunfighting.
+You've got large resilient multi-wound models uh with high ballistic stats with
+very devastating weapons uh that also tend to have either some kind of
+modifier or drop your opponent's modifiers. You've got a quality of support
+structure and toolbox pieces that Pano usually isn't privy to. These are mainly
+in the form of things like your uh Fenix who come with vision control who come
+with network extension uh and then other units like Fireflies who give you a lot of tools that Pano
+doesn't usually have. So you've got a marrying of that Panosian very strong gunfighting with a really big support
+structure that other sectorals and Pano in general isn't necessarily used to
+having. As we mentioned in the high standard of gunfighting, you've also got very resilient key units. Most of your
+gunfighters, as we said, are multi- wound, high armor, and can take a bit of a beating, which means that they're
+units that can be depended upon, relied upon, and even are a little bit bad luck resistant where even if they do go into
+a favorite gunfight, some things bad, sometimes bad things just do happen. But a Kestrel unit can take that and roll
+with the punches. They've got a very hard to punish order pool. A lot of their units are sort of gated behind
+those key units where it's usually pretty hard to break through uh and kick
+down a lot of those smaller little orders. A lot of their support pieces
+tend to be kind of near those large assault pieces uh and are protected by the rest of the list. Kestrel's got very
+strong hidden information elephants elements. We're going to go really deep uh into that a bit later in this video,
+but what you need to know for now is that when you see gaps in a Kestrel list, you need to be worried and you
+need to be aware because those are very strong gaps. They've got a surprisingly high build variety. Not that you
+necessarily know it from a lot of the common lists you'd see going around, but there's actually quite a lot going on in
+Kestrel that's quite viable that you can build a list around. So you can never be too sure what you're going to see or
+what configuration you're going to see in it when you're taking on Kestrel. They've got very high order efficiency
+with link teams, but mostly with a lot of extra orders. You've got a lot of
+very easily linkable tackaware in the faction. Strategos uh on the magistrates
+as well and NCO means that the order pool is never really hurting and it also sort of counterbalances the hidden
+elements a little bit. But when everything's on the table, uh it's quite dangerous. Uh and they've got a very
+close a very good close assault that complements the PO game plan.
+So what does Kestrel have the ability to do to you? A Kestrel wants to outgun
+anything you have standing with a rock paper scissors style of engagement. Kestrel has access to quite good visors,
+quite good mimatism, and also very heavy albido. So, if they have an ARO piece
+that they want to take down, they're usually able to grab a tool that best matches up against that piece and take
+it on that way. They want to use close assault or hidden hackers to shut out the hacking game. One thing Kestrel is a
+bit weak to is being hacked, but with hidden units uh being your killer
+hackers and quite good camouflage close assault, they'll try to scalple those out early to give them free reign at the
+table. Then they want to move into the midfield with resilient guns and start taking more and more of the table as
+their territory. This matches up pretty well where a lot of Kestrel guns also are more limited in range than you'd
+necessarily expect. And they want to make a defensive foothold to then command the table from that midfield
+position. After they've taken that midfield position, they might look at using deployables like turrets, uh, like
+fast pandas, like mines to really make that a very safe place that's hard to
+break into. They want to use highquality linked doctors and engineers to counterbalance their lack of redundancy
+where they're pretty swick hungry. And they want to take objectives as necessary or in the late stages of the
+game. So, what does Kestrel not want you to do to them? Kestrel are afraid of their
+gunfighters being mismatched against opposing units. We talked before how they have a pretty good tool belt of
+what they want to use against arrow pieces, but if you've got a way of setting things up to where they don't
+get to make that choice or making that choice is very inefficient, you can get a leg up that way. They don't like their
+linked hackers being scalpled out and their heavy infantry exposed to infowar. So, if you can get down some strong
+network projection or hacking assaults early, that can be very scary for the Kestrel player. They don't like being
+pushed out of or failing to breach the midfield where some of their best guns excel in that spit in that Spitfire
+range band. If they can get pushed back out of that midfield, that's likely to pre be a pretty devastating loss. Or if
+they can fail to breach in the first place, that can buy you quite a bit of time. They don't like having their
+vision control being killed or made inefficient. And made inefficient uh is very key here when we talk about
+mounting a successful defense against Kestrel. Sure, you can try and scalpel
+out those disco ballers if you have the first turn, but if you don't, you need to know how to defend how to make that
+inefficient for them to use. They really don't like their hidden elements being effectively read. And it can actually be
+somewhat easy to read their hidden elements once you get your head around the potential that Kestrel has going on.
+And they really don't like running out of time to execute a holistic assaults due to reliance on vision control,
+medium-ranged gun, and mid-speed close assault units. That mean even if they have the orders, they just might not
+have the speed to do it. So here's the structure of the average
+Kestrel list. Starting at the bottom here, we've got the command structure. And this usually ends up being
+magistrate teams and sometimes uh fenic fuseliers. These guys are here mainly as
+order batteries or providing link bonuses to other units and they're
+usually protected by some pretty easy chain of command. So even though they might be easy to initially identify, it
+can be a very hard task to actually punish the Kestrel command structure
+where they have multiple easy ways to get quite good chain of command.
+Building on top of that command structure, you start to see the strike pieces. You have these solo strike
+pieces like the squalos, but then you have the solo pieces that rely on links
+or wider support structures to really get going. And these are things like the griffin or the krux knight. You can see
+below the griffin and the krux knight, we have support elements uh who directly support the strike pieces and are
+usually linked with them as well. They also double in their role as button pressers where these strike pieces tend
+to want to move up and advance on the field. So you've got your command structure, you've got your damage
+dealing units, and then you've got these two other smaller categories that sit on top of your command structure adjacent
+to these strike pieces and support pieces. First, you've got close assault
+who dig their heels in after opponent's arrows are effectively disabled and are
+really closers in a sense. The other thing they do is help control the midfield where they can get in close and
+wipe out some units stopping them from moving up or go in and dodge some mines.
+Lots of things that close assault can do. Then there's the hidden elements which contains a lot mostly offensive
+hackers and button pressers but also the blink team who's a very dangerous exception as a key defensive and
+offensive unit. So let's take a look at some common units and counters. Starting with the
+strike units. First up we've got the Griffin uh who's
+a pretty ubiquitous piece. He's got a BS14 HNG or Foyabuk with MSV1. And very
+importantly, he pure links with Fenic and Kestrel units. This means this guy's
+usually got some kind of high quality link bonus, whether it's a lightweight
+Kestrel duo or that big heavy Fenic core that's going to get him up to BS14 with
+six sense. Very dangerous. He's also got that very nice armor 4 and two vitality.
+really at the cusp of what you consider quite a good level of resilience. His
+role in the list is really as a flexible offensive or defensive gun. And this is why you see the foyer as the more
+popular weapon because it seamlessly transitions from that defensive wall to
+offensive tool. Uh, it's a very durable linked cornerstone for the list to kind
+of build itself around being, you know, usually BS-15, MSU16 sense. It's a very
+dangerous unit for your opponent to try and engage with on their active turn. So, it ends up being a very reliable
+unit that you can sort of build the link around, build your deployment around, having trust that the Griffin will
+prevail, and it gives access to longer ranged weapons. It's not something you necessarily realize first looking at the
+Kestrel list, but when you start getting in and building lists, Kestrel sort of leans a bit in the military orders
+direction where it has some very high specialization in its Spitfire rangebands where its longer rangeband
+guns like foil box and heavy machine guns are actually a bit harder to come by than you'd first think. Now, though
+the Griffin is really fantastic, it's got a few weaknesses. The first being if it has to drag up its big support
+structure to the midfield, that support structure becomes very vulnerable. If
+you can set up your deployment in a way, and we'll speak about this a bit later, to bait the Griffin into having to move
+up the field, it sort of exposes its underbelly when it does that.
+It can also be offensively outranged uh by a sniper rifle uh or the like where
+the Griffin, it has those zero range bands which are really good. Uh but it can still be outranged by something like
+a sniper rifle and it's hackable. It's heavy infantry. It is BTS6, but you only
+need to hit it with a uh isolation to suddenly dumpster all of its stats if
+it's in that linked position. And the carbonite still mighty handy.
+Next up is the Krux Knight, uh, who is very different to the Griffin, uh, but
+still one of the more common assault units you see, uh, also played a part, uh, in Hector's winning lists for Canon
+2025. Uh, it's an albido 6 BS-14 gunfighter uh, that comes with an innate
+plus one special die. This means that they're both more accurate on offense, but also really annoying to dig out
+defensively as well. and they've got pretty functional CC. It doesn't want to run into other CC specialists, but can
+punch down quite handily. Its role in the list is really as a holistic assault unit who's able to
+engage all the way from 24 in out to right in someone's uh base contact. It
+punishes MSV AROS with that albido neg 6 and really controls the midfield once it
+lands there where if it's linked in ARO, it's slinging back three dice. Sure,
+only one hurts, but if you're taking the multi marksson rifle, which your opponent should be, it's slinging back
+two past five saves with a double-action round. Now, its weakness is that it's
+very much limited by its range. The multi marksman rifle having that neg three band after 24 is very punishing
+for him to try and take longer fights. So, he won't. He's also hackable and he
+also limits other strike pieces in the sense that he usually does need a
+support structure to go with him uh in the case of maybe a Firefly engineer and
+he takes quite a bit of equity out of the list uh being almost 50 points. So
+he limits what else the list can do but he himself is quite strong.
+Next up is the Hetkari shooter. uh the Krux Knight's sort of more shooty cousin. Uh he brings BS14 like the Krux
+Knight, but brings both BS attack neg 3 and marksmanship. Uh generally the way
+Infinity Math works, you would rather your chance to hit be higher than your
+opponent chance to hit be lower. So, if you're just taking the
+uh Hetkari shooter against, you know, an MSV unit, uh the Hetkari is potentially
+more likely to get those wounds down, uh but has that higher general applicability across anything your
+opponent's going to put up. Aside from albido, which is still sort of an
+uncommon skill uh when it comes to defensive units, its role in the list is
+that it maths almost anything to death. Uh with the shooting numbers it has,
+there's almost nothing that can really stand up to it defensively once the headcar is in a good range and is able
+to pull that trigger. Uh even though he's just got a uh you know PS7 Red Fury, it's still an AP Red Fury. And
+with just how good the math is on the Hetkari, with enough time, it can hose down anything. It's also a very nice
+unit to just chuck on suppressive in the midfield as well. BS attack neg 3 uh
+married up with that uh suppression neg3 means that it can be a very hard
+roadblock to get behind. And if it's got a list supporting behind it to make sure
+it doesn't get close combed or smoked down, then it can be a very hard roadblock.
+But weaknesses, again, we mentioned it's the Krux Knight's uh cousin. It is limited by its range uh using the Red
+Fury, which has the same limitations as the multim marksman rifle. Once again, it's very hackable. And PS7 sometimes
+just isn't enough. Again, uh we may have spoken about it uh previously, but when
+you're PS7, uh if your opponent's in cover, they're always going to have at least a 50/50 chance to save as their
+floor. And that just gets worse with armor. So PS7, it can sometimes just be a little unreliable, but with how good
+the math is on the Hetkari, sometimes you'll just go.
+Next up, we've got two units kind of in a very similar category in the Squalo Mach 2 and the Tick Balang. They're both
+uh tanks. They're both BS15 heavy machine guns uh with six armor and three
+vitality and both have orders out the wazu. The tick balang if you take the
+lieutenant order profile uh has plus one lieutenant order meaning it brings its
+own order it brings its tackaware and it brings two lieutenant orders for four orders that you can just use on the tick
+which is fantastic then the squalo is in a similar situation where it has tackaware and has a very strong NCO
+profile so you're either getting three or four orders out of these guys here
+which makes them very maneuverable especially on that S6 base. So, these guys are really long range bullies and
+order efficient problem solvers who can execute what they need to as part of their role, then leave the rest of your
+list with quite a lot of orders to get what needs to get done done. They're also quite good at holding quarters uh
+in missions where that matters and provide a lot of durability to a list.
+Not that Kestrel isn't already durable, but this is sort of that next step up. Now, their weaknesses, they require a
+considerable support structure. You're looking at investing more heavily into things like engineers and uh maybe
+hackers and the like. Uh they're vulnerable to AP. Armor 6 going down to
+armor 3 with AP is a pretty big drop. So, you need to be aware of that as a
+Kestrel player and as a weakness going into Kestrel. And that once again,
+they're hackable. Last up, we've got the Red Eye, who's a very interesting unit in that it's got
+that uh 112 super jump jet propulsion movement, which means they're moving an
+incredible amount of space per activation. They've got BS13 and Mim 6,
+though they do have no cover, and they've got the aerial rule, uh, which is a bit of a blessing and a curse, as
+we'll discuss later. So, the Red Eye is really a rapid assault unit that wants
+to win gunfights by putting those heavy mods on your opponent. Uh, and it's
+different to the other strike pieces in that it's sort of doubles up as a close assault unit where the red eye can run
+in with that Spitfire and mow down an opponent's back line or as an opportunistic sweeper who can run into
+the midfield and clean up skirmishers, smaller pieces, uh, longer range units
+out of position. But in terms of weaknesses, as we said, aerial is a blessing and a curse, though it makes
+you immune uh to close combat. It also means that if your opponent hacks and bricks you, there's no way to get rid of
+that. Your engineers can't get into base contact with you, sorry, silhouette contact with you. And same with
+speedball. No one can get into silhouette contact with you. So, if the red eye gets bricked, the best it can do
+is try and get lucky on its reset rolls. But it's a very tough position for the red eye to be in. And that's linking in
+with that. Again, it's hackable and also gets uh bodied pretty hard by MSV.
+Again, this guy's got no cover. So, even MSV1 docked this guy down to being a fair fight. And MSV2, uh, it's not a
+situation the Red Eye wants to be in. So, let's look at some exploitable patterns in these strike units. Most of
+the strike units are very hackable, though they do have uh BTS6. They don't
+have firewalls. They don't have ECM. Uh, and a lot of them do have kind of a
+lower willpower stat. A few of them are very limited by their range. Uh, where
+like we said with the Griffin, a unique opportunity with the Griffin is that it does have those longer range guns which
+can be a little bit more rare. All of these units want to exploit specific matchups. If you look at something like
+the Krux, it it really wants to exploit uh the opponent having MSV units. The
+Griffin wants to exploit mimatism. And if there's something with Albido, that's
+say hunting the Griffin having something uh with heavy matism like the uh red eye
+to run in on that, it's very useful as well. And they can also be very
+uncomfortable in their ending positions if you manage to kind of get them into the midfield where some of them want to
+be anyway. They've got some kind of strengths and weaknesses in that position where you can exploit the
+weaknesses of being in that position where maybe you have very close uh strong close combat or maybe you have
+some vision control nearby where you can totally block the unit out. Even though
+a lot of them want to end in that midfield, the midfield is a relatively unsafe place for a lot of them. They can
+all have their time wasted or be boxed in by very smart arrows, being aware of the matchups they want to have. And they
+can also all struggle against a blade of defenses where they're not great at dodging. They don't want to wade through
+a repeater net. So, there's some interesting ways to take your defense against those units.
+So, let's talk about what are these smart arrow against these uh core strike units. You need to consider who is the
+unit that you're up against. What are their matchups to your units? What are the positive matchups they're trying to
+get on you? Where's their vision control? If they can't get a positive matchup on you, where's the vision
+control sitting? And where are things likely to go? And can you hold a tight but impactful line that's really going
+to hamper a unit's ability to move efficiently or really going to make it hard for your opponent to maneuver that
+good matchup into that fire line? Can I put midfield elements in their midfield
+where they want to be? Are there any viable long lines I can take to really
+put the range pressure on with something like a missile launcher or a sniper rifle? and where can I position my
+repeaters or network projection if I have any to have a really big impact.
+So, let's take a look at an example uh from a few videos ago where I was
+playing my white company against a friend's uh Kestrel. Here we can see
+we've got three main strike pieces where we have the Griffin, the Redeye, and the
+Krux Knight where we've got a really nice smattering of that Kestrel toolbox
+where they can take those different uh matchups that are going to benefit them.
+So over on my side of the field, we have three main defensive units here with a
+Thunderbolt TRbot. Award, who's quite a good non MSV
+sniper, and then a Hideout, who's a very good MSV sniper. Now, looking at where
+my opponents got his units, let's have a look at how I set up my units.
+So, first up, the easiest to solve here was the red eye kind of stuck behind this building. Using both my MSV and non
+MSV arrow row, we can see I've put lines down on either side of that building.
+So, whichever way the redeye ducks, it's going to be in a bit of trouble.
+This means that we're leveraging both our long range to pin it in and also our
+visors that we have as well. Now, I'm aware that my opponent's Griffin with
+all of his Fenix is over quite close and could disco ball, but if that's a disco ball my opponent has to use early,
+that's really handy. And it's also going to block off a path of advance for the Krux Knight as well. So, I'm pretty
+happy about that. Next up, let's talk about that Griffin. And you can see we've got a couple of
+lines going towards the Griffin. The first one is a very long ARO from the
+MSV multi sniper looking down at that corner. Meaning that if my opponent's
+Griffin pops out, it's going to be on zeros. It's going to be three on 12 against my two on 13. Uh, which is it's
+not a face to face roll that's going to spark much joy for the Kestrel player. And again, I'm trying to bait it into
+using a disco baller and start using up that equipment. Now, while disco ballers
+are really good, they're also limited. So, if my opponent can use those disco
+balls up early in the game, that's something I'm pretty happy about. The second line I've got on the Griffin,
+which you might not think about, is actually that uh kind of left line from the Thunderbolt TRBOT. The Thunderbolt
+CRA is just drawing a line to the top of those stairs, uh, which are a lot bigger than they look in the photo, where I'm
+baiting the Griffin to walk out into the midfield, bring all of his little Fenix
+with him to try and chase down that Thunderbolt TRbot. By doing that, the
+Griffin's going to potentially end itself in an uncomfortable position and also expose its underbelly of its big
+supporting fuselier link. Now that leads us to the crux knight as
+well where you can see we've got a lot of lines uh looking kind of in this little platform on the right hand side
+and also doubling up a line uh where that other yellow line is holding down
+both an advance from the crux knight if it comes around the corner and the red eye. Now you have to think about where's
+this crux knight likely to go. Sure, it can come around the corner there and maybe try and take a gunfight, not
+necessarily in its favor, but it's actually much more likely to go down that flank and then come up on that
+platform. So, I've put some overlapping lines there to make it uncomfortable and also tried to pin it with that long
+range uh with the Thunderbolt TRbot. And if my opponent wants to get rid of that
+Thunderbolt TRbot, I've presented the only way to do that as to move that
+Griffin up and expose the Griffin's underbelly by hiding it sort of behind that building just in front of it.
+So, I hope in this way you can see how you can counter deploy a lot of uh Kestrel's very heavy strike units and
+see how we're baiting the Griffin to the midfield, how we're outranging the Griffin, putting pressure on its support
+units to use their equipment, how we're hemming in that red eye, and how we're thinking smartly about where that Krux
+Knight is actually likely to strike from and put some arrows there that can outrange it or again put pressure on the
+support network. And again, it's all about making it inefficient. You don't have to have a
+quote unquote successful defense. In this game, uh, for instance, the Griffin
+did come up, did shoot the TRbot, uh, and the Krux Knight was able to move up and do some damage, but the important
+part is we made it inefficient. He wasn't able to do everything he wanted
+to do, and that's what you're aiming for. not total, you know, gun victory,
+which is unlikely against Pano. You just want to waste enough of their time so that you can execute your full game plan
+and leave them somewhere exposed. So, let's look now at the hidden
+elements, which are another very confusing part of the game plan for Kestrel that a lot of players can
+struggle with. First up, we've got what I think is maybe the most common one here, and that's the Banshee. So, the
+Banshee, uh, it's a combat drop parachutist unit, uh, who's got MSV1 and
+jet propulsion, uh, and who either has, uh, an SMG and double pulsar, or
+sometimes a light shotgun. But what this does is that it provides a really nice fork. It's also got a couple of very
+common options in the killer hacking device which is the most common and also the a wild parrot uh which is an EM
+deployable perimeter mine. Now the Banshee is wrong in the list is as close
+assault or an infowar scalpel. Uh a lot of people don't necessarily think of the
+Banshee as close assault but it's actually got quite a lot of potential uh to drop down and make some moves. uh and
+has got kind of a double use case uh in that role as well. Now, in terms of an infowar scalpel, it's got a lot of
+options uh after it cyber masks and approaches uh some kind of hacker. If it
+rocks up uh and, you know, let's say reveals itself before moving in, your
+opponent doesn't know if they're going to be hacked, if they're going to be shot, or if they're going to be templated. Uh and puts that unit in a
+really difficult position. The wild parrot option uh is also somewhat comparable to the killer hacking device
+where it can also isolate and take those uh hacking units effectively out of the
+game. It's also a very fast button presser if used more towards the late
+game uh as a move 64 hacker and it's really there to exploit openings
+wherever they turn up. Whether it's openings in the opponent's deployment zone, openings in the midfield, or
+openings in objectives, the Banshee is there to expose those. Now, the Banshee can still be blocked out by holding uh
+you know, common parachutist lines, keeping an eye on those uh on the sides of the board because it doesn't have a
+great fizz that you necessarily want to be combat dropping on. Uh it's if you
+also put some durable models between the Banshee and its targets, that and templates can really give it trouble and
+prevent it from just bum rushing into your deployment zone and getting what it wants.
+In a similar vein, we've got the scarecrow, uh who kind of has a serviceable offensive package, but is
+really there for that surprise attack killer hacking device. It's on the list as really just a brain blast through
+zone of control or your network. So, you have to be very careful about where
+you're setting up repeaters, how well insulated your network actually is. Uh, and also just as a very common, very
+efficient infiltrating button presser and as a skirmisher hunter.
+Now, once the scarecrow is exposed, it's very vulnerable and it does require some
+setup to get the most use out of it. The advantage this one has over the Banshee is that it starts on the board and
+starts in the position you want it to be in. Uh if you're going, you know, first
+and going to press a button anyway, maybe you just leave it out of hidden deployment to get the extra order, you
+got a bit more flexibility, blah blah blah blah. You can also ground deploy the Banshee, which is pretty interesting
+tech. Uh but that's probably a bit more advanced than you need to know uh for just learning how to shoot these guys in
+the head. But they do require a bit of setup. They're a bit more expensive than the Banshee as well. Though there's no
+sort of direct counterplay, you can I guess feel rest assured there's a bit of list equity and a bit of thought that's
+gone into the scarecrow and once it's exposed, it's pretty exposed.
+Then last up uh is the Blink. Uh it's a hidden PS5 heavy rocket launcher uh with
+Mim 6 and a BS13 X visor, meaning it's sort of a Panosian noctifer uh where it
+can suddenly appear, burn off a link team, uh and really cause some catastrophic losses. So, it can splash,
+you know, a big group of units or even just some key pieces uh and really unexpectedly lock down a firing lane
+that your opponent expected to have free reign over. It's also no slouch in the
+active turn as well. Uh BS13, you know, two dice is a bit fragile, but
+you're likely going to be hitting your opponent with a neg 9 modifier to start with. uh where you've got that mim and
+that surprise attack and if they're out of their good range you could be hitting them with a neg 12 as well including
+that cover. Now in terms of weaknesses low dice is always fragile and out of
+all the hidden elements the blink team is the easiest one to identify as it's
+very heavily telegraphed by its swick. Now, when your opponent's kind of going
+through their deployment to you, if you notice there is a slot or two missing, uh, give your opponent's list a quick
+swick count. And if there's 1.5 swick missing, you know there's probably a
+blink somewhere and you can plan accordingly. So, what are the exploitable patterns in
+the hidden units? Most hidden units can be identified where the slots and swick
+are easily counted. We just mentioned the Swick a second ago, but Kestrel also
+has no way to obfuscate its slots. It doesn't have camo mine layers. Uh what
+mine layers it does have, you can see if they spent mines. Uh and really there's
+no way to obuscate the troop count of a Kestrel list. Uh most hidden units also drain the
+opponent's order pool until that opportunistic gap opens. They're all
+maybe with the exception of the scarecrow kind of very reactive and opportunistic pieces where if you can
+keep a very tight ship, your opponent might not have those gaps and start draining their order pool and potential
+as the game goes on. All of these units also die to a light breeze. None of them want to get hit by a template. None of
+them want to be, I don't know, run to CC with. And they can be played around once identified. And again, they're very
+reactive. They're not proactive. and they're somewhat limited in their role. Not that they can't have big
+ramifications for your list once they're revealed. So, let's take a bit of a look
+now at a deployment diagram for how I set up my deployment considering these hidden elements. So, first thing I did
+when I deployed is I counted my opponent's swick uh and saw, okay,
+there's not a blink here. After that's done, I can really focus on the Banshee
+and the Scarecrow because I did notice there was a gap in the list. So, you can
+see with my arrow pieces, I am holding some lines uh down the angles where a
+Banshee will be forced to land if it's just doing its parachute. If they want to do their combat drop, that's risky
+for them. You can set up your deployment as such. And then looking at the
+scarecrow, you usually want to keep an eye on where's an objective going to be that they're likely to try and come down
+on. Now, in this case, we're playing a game of highly classified, and one of them was to capture the HVT. So, I
+figured, okay, this scarecrow is likely to be somewhere near my HVT. So, let's
+put a couple of overlapping lines in that direction. So, as you can see, just by kind of
+taking a few of these little principles, putting them in place, suddenly our opponent's hidden units become a lot
+harder for them to use. All right, now let's take a look at some of these support structures I've been
+talking a lot about. The first one is the Fenic fuseliers, who bring quite a
+lot to the table. They bring vision control in the form of disco ballers. They bring both hacking and network
+extension with the fast pandas and they also bring backup gunfighting with the
+thunderbolt plus one burst and the emitter on the hacker as well is another great weapon. So these units allow your
+strike pieces to move efficiently and also allow button pressing uh and to
+reach out with that hacking. They're very effective secondary shooters both in an offensive role with the
+Thunderbolt and in a defensive role with the emitter that provide that kind of core link team a lot of flexibility in
+what they can do over the game. Now, as a line infantry uh core team, they
+spiral pretty hard once they start taking losses. Uh you know, going from a four to a three is a pretty big deal.
+Uh, and then kind of going from there, they very heavily drop off. They can run
+out of equipment pretty quickly if they're lured out of the deployment zone. As I showed with that Griffin
+earlier, if my opponent uses both their disco ballers, moves to the midfield, they can't get those reloaded. If they
+use that fast panda, that's the only one they have. So, they can become pretty quickly exhausted equipment wise. And at
+the end of the day, they are just line troops. They are just BS12, one armor, one wound. Uh, nothing that a good bit
+of gunning or stabbing can't solve. Next up is the more maybe more
+interesting uh, Fireflies who bring a big spread of support profiles from chain of command, engineers, hackers,
+paramedics. There's quite a lot that the Fireflies can cover. They also bring some pretty unique skills to those links
+where linked chain of command in a more forward link and linked engineers, linked mind layers are all very
+interesting. And they also bring NCO which if you know about the Kestrel support structure might seem like a bit
+of a weird choice uh where you're taking a magistrate with strateg.
+But if you spread these two between their groups, uh you get very flexible with where those extra orders can go. So
+these guys usually directly support strike pieces in links, usually bringing along a hacker, an engineer, or both.
+And they can use that NCO to maximize group efficiency. As I mentioned a second ago, the very effective secondary
+shooters in the right matchup, the heavy rocket launchers and panzer fouse on the albido 6 units uh can sometimes really
+open up a place for the fireflies to shine, but they are on the expensive side due to bloat. They've got a few
+skills that you know you don't necessarily need on there. They've got fairly limited link options just in the
+Castro team and they're again one wound medium infantry.
+So these guys, if we go back to our diagram from before, we can think about
+these Fenics, you know, largely being with that Griffin team where we spoke a
+little bit before about trying to get that Griffin to move up the field, try to get all of those little Fenics to use
+up all of their equipment. uh and then kind of expose that underbelly. And in this case also, there was a Firefly
+engineer following around the uh Krux Knight. Uh now, if you wanted to, you
+could maybe make some kind of dive in on that Firefly before then hacking the Krux Knight where it's been made
+vulnerable also by a process of just having to move up the field. And again with, you know, limited link options and
+kind of the way the links work, that's just a little utility duo. Uh, no one's getting a bonus style from that little
+link, but it's only linked engineer, so you take what you get. So there's lots of interesting ways to tackle those
+problems. Now, let's look at the command structure
+largely based around the magistrate's team. So the magistrates have fire team master for the jackals uh and also have
+strategos and counter intelligence. All of which comes together as a really kind
+of cheap order generation battery. Uh and there alternatively they can also provide chain of command but you know
+maintain that fire team master. So the role on the list is to be an order battery that can offset hidden elements
+or really just pump a group to the max and also provide redundancy in the lieutenant slot. The weaknesses is
+they've kind of got a very obvious initial identification. Uh if you have
+taken a magistrate as your LT, it's going to be very obvious and they're very slot inensive. If you're taking a
+magistrate hares team and then a magistrate chain of command duo, you've
+used up five slots of your 15 slots, that's a third of your list just on your
+command structure. That can be very slot intensive. So the other side to that
+coin is the fenic fuseliers who provide that link bonus to a core you're likely
+to already be taking and they also make very easy decoys. So these guys really
+facilitate slot compression in the list because you haven't just reduced you
+know say the two or three slots used on the magistrate team. Uh you've also
+reduced the slots that you were going to take in that uh fenic fuselier core anyway. So you could be saving yourself
+a huge amount of list equity. They also lean in a direction the list already wants to go. your opponent's likely
+already taking uh a Kestrel Link, but their weaknesses, of course, is that they either keep your attack pieces
+rooted uh or they expose themsel as they move out. Uh and there is an opportunity
+cost with the Fenix where they do have quite a good amount of equipment as well. So, just taking the basic one can
+feel sort of meh when you've got so many good options available. Now, let's talk very briefly about close
+assault because I don't think close assault needs a huge amount of focus. What you do need to know is that close assault, what it really is, is it
+represents a defensive failure for your list. If the Kestrel player is able to get all of your heads down, dismantle
+all of your defenses, then the close assault can move in and really start to dismantle you, and at that point, you've
+probably lost the game. So close assault is something to be aware of, but it's much more important that you're aware of
+these other factors in keeping your head up, using smart air rolls, holding the
+right lines so you don't get close assaulted. Now, let's put it all together. To beat
+Kestrel, you want to understand their hit pieces and put them in a bad matchup. You want to demystify their
+hidden elements and have a good understanding of what they're trying to do. You want to defensively pin units
+under long range bands and try to lure them into the midfield to expose that
+support structure. And you want to get hacking before their killer hacking devices can hit the table. The tools you
+want to bring are ranged weapons over 32 in like sniper rifles or missile launchers, units who can rapidly engage
+in the midfield once you've been able to lure those units and support structures out and network projection or EM weapons
+to really make light of the fact of just how hackable all of the main strike pieces in Kestrel are. Alternative tools
+are very strong close assault who can move in if you don't have network projection or EM weapons. A strong
+midfield presence to zone or push them out of that midfield can be very
+frustrating. And in a blade of defense to stop that sort of defensive endgame
+of them dismantling all of your I guess defensive equity.
+And then uh because you've all been asking for it so much, we've got some quick lists uh to have a look at both
+for Kestrel players and for people looking at taking on a Kestrel player. So on the right here, we've got what
+I'll call the original formula, which is a very stock standard Kestrel list uh where a lot of these structures will
+sort of carry across uh multiple uh lists. First up, uh, you've got the
+Fuselier core with the Griffin, the Fenic triangulated fire mine layer as the backup offensive gun, the Fenic
+forward observer as the vision control, and the Fenic hacker who covers your hacking and defensive backup
+gunfighting. You've got the Blink team with X Visor who's providing that uh
+defensive surprise and little offensive spice. a duo of fireflies using the
+heavy rocket launcher with that albido 6 and a chain of command acting as a specialist and backup for your uh
+deployment. And again, you can see I've got the lieutenant in a different pool
+than the fireflies uh to get a bit of flexibility with that lieutenant order. Then we've got the Banshee killer hacker
+who can scalple out enemy hackers and affect a close assault really well. a
+war core just as a little cheap dad. Then group two, we've got a Krux Knight
+in a Hares team getting a duo bonus uh where we're bringing more hacking, more extension, more vision control, and then
+just the brutality that is the Krux Knight. Last, uh we've got our duo of a
+jackal and a magistrate lieutenant uh who's putting that order group up to
+seven regulars. and finally a Yamabushi as a nice little cherry on top close
+assault. So the structures you're seeing here where you're seeing a fenic core, a
+couple of hidden elements uh to surprise defensively and attack into hackers uh
+kind of mixed in with different kind of matchup units is what you can expect to
+see in your average Kestrel list. But then we've also got kind of another style of list which is the tag list on
+the left here. Here we've got a uh full kestrel benic core. We've got a missile
+launcher, triangulated fire, thunderbolt, hacker, ford observer, paramedic. All giving the same benefits
+as that initial uh griffin link uh just with a bit less weight to it. And this is a link you might see in something
+like uh highly classified where you need lots of kinds of specialists. We've got a Banshee, this time with the Wild
+Parrot, uh, who can still do the same kind of close assault using those EM templates, as well as a Banshee, killer
+hacker. Uh, then we've got a nice little duo, uh, and duos like this, you know,
+they're really nice. Uh, we can see the Griffin in a very different context here. Uh, where we have a, uh, Griffin,
+Foyabach, and Bipandra, uh, a doctor with tactical awareness. This griffin can still maintain uh a really good
+defensive presence where your opponent's going to have to do three wounds to it in a single order to totally knock it
+out and it also performs really well in an offensive role where Bipantra can help move it up, can pick it up. Lots
+going on with that duo. Then group two, we've got another duo of the Squall Mach 2 uh and a Pathfinder Dronbon. Uh I took
+the nonco version uh just for a bit of fun as a bit of a test. These are both very quick lists. Uh I'm sure you could
+optimize them in a much better way. Uh where the squallow is bringing uh two
+orders as is the Pathfinder drum bot and then we've just kept the magistrate LT
+uh providing that squall a lot of orders. Rounding it out, we've of course got the magistrate with the two jackals
+and then an infiltration mine layer jackal who's a really nice little defensive piece. So any burgeoning
+Castro players uh you know give these links uh lists a crack. Let me know how it goes. Tell me how you can optimize
+these ones. And anyone who's scared of going into Kestrel, look at these as a decent case study of what you might
+expect to see. So, thank you very much for watching again everyone. Please tell me uh other
+videos you'd like in the future, and we'll be seeing you in the next one. Bye-bye now.

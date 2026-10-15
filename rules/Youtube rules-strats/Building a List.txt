@@ -1,0 +1,66 @@
+
+Infinity the Academy – Building a List
+2025-02-16
+WiseKensai
+
+Written by WiseKensai in the N4 era.
+
+In this article we’re going to cover the absolute basics of list-building. In further articles we’ll elaborate on the more in-depth facets of list-building.
+
+For this article, you may want to have Infinity Army open.
+Infinity Army
+
+There are two essential things to remember about list-building:
+
+    Lists are limited by points and SWC costs
+    Lists must include a lieutenant option
+
+We’re not going to discuss the lieutenant requirement here because it’s self-explanatory. You need to include a single lieutenant. That’s that.
+
+Let’s move onto points and SWC first. For a refresher on how to read profiles, look here:
+
+Each troop you select will have a cost (C) and a Support Weapons Cost (SWC). 
+
+Cost is a measure of how well equipped and powerful a troop is. Better equipped troops, with more powerful abilities cost more points.
+
+Note: this does not mean cheap troops are bad, in fact they’re incredibly important – I’m talking here about in-game power rather than the idea of how “good” or “bad” the troop is.
+
+SWC or Support Weapons Cost is a measure of how potent a troops weapon is, or how rare the troop is. The more powerful the weapon, the more SWC it costs. Likewise, the more unusual the troop in a particular army, the higher the SWC cost. This cost is literally there to stop people choosing machine-guns on every troop, or taking really strange choices like a poorly equipped, basic infantry lieutenant in a faction that prides itself on fielding well-equipped troops.
+
+A full game of Infinity usually features lists that are 300 points. However games at 200, and 400 points are also (more rarely) seen. 
+
+In Code One, points costs are divided by 10, so 30 points would be a full size game. 
+
+However for learning purposes we would highly recommend starting with lower points values. This would be something like 100 to 150 points for the main game and 10 to 15 for Code One.
+
+As for SWC costs, you’re allowed to spend 1SWC per 50 points. So a full size game of 300 points gives an allowance of 6SWC. Whereas a small 100 point game grants 2. Similarly in Code One it would be 6 for 30 point games, or 2 for 10 point games.
+
+As for what to include in your list and why, that is a very involved and complicated subject. A good answer to that question always starts with “well, it depends!” It can depend on the mission, the faction matchup, your playstyle, the playstyle of your opponnent, the geometry of the table, and so on. We’ll continue to expand on this in other articles, but in the interest of getting you off the ground quickly, here’s the question you should be asking about your list:
+Can my list solve problems?
+
+What do we mean by that? Well, each mission poses a problem to you and your list. Let’s look at an example Code One mission, Firefight. Firefight asks you to solve the following problems and rewards you with some number of objective points (which are how you win!):
+
+    Have surviving specialists than your opponent (2 points)
+    Kill more specialists than your opponent  (1 points)
+    Kill more LTs than your opponent (3 points)
+    Kill more army points than your opponent (4 points)
+
+So, to continue to simplify, the problem the mission asks you to solve is “keep your models alive, kill your opponent’s.” Your opponent will ask you to solve problems too! They might put a particularly difficult to kill model on the table for you to deal with, or be very aggressive with their  models and force you to react in a way you’re not prepared to.
+
+There are far too many problems to list and conclusively solve in all possible ways in this article, but the big takeaway for you is to start thinking about problem solving in the context of list building.
+
+    What if I have to kill a high armor unit? Do I have the tools to do that?
+    What if I have to interact with an objective? Did I bring the right type of specialist for that? Do any specialist types get bonuses to interact with an objective?
+
+Sometimes missions will have very specific requirements of your list, like Looting and Sabotaging. In that mission, you are asked to solve the problem of destroying an objective in close combat using weapons with the anti-material trait. To make matters more difficult, that objective is right at the edge of your opponent’s deployment zone! You also have to defend a similar objective, so you have to answer several questions simultaneously:
+
+    Did I bring anything with anti-material close combat weapons to solve the problem of destroying the objective?
+    What if my opponent kills all my models that have close combat anti-material weapons? Do I have enough backup models?
+    How am I going to solve the problem of defending my console?
+    How am I going to deliver my close combat models to my opponent’s objective to destroy it, especially through a presumably tough defense?
+
+You can start to see how list building in context is very important, and how you’ll be asked to tackle lots of interlocking problems. Everyone problem solves in different ways, and it’s important to remember that you don’t always have to solve each problem the most efficient or direct way. 
+
+For example, it’s generally true that close combat weapons with the anti-material trait are good at attacking models with high armor values–but it’s still hard to attack a model in close combat. So, if you’re playing Looting and Sabotaging and your opponent asks you to solve the problem of destroying a heavily armored model, well, you have an answer! It’s perhaps not the most efficient way of doing it, but you can solve that problem with careful expenditure of resources.
+
+As you learn your army and develop your playstyle, you’ll find your own ways of answering multiple questions with one solution. Every game of Infinity is different, every player is different. There are common list archetypes, but don’t let anyone tell you your list is wrong. If it works for you, great! Maybe your great list idea will become common!

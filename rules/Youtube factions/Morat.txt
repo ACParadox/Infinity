@@ -1,0 +1,39 @@
+Morat:
+---
+Excel in direct combat, but still standard tools/tech
+Don't have to worry about command structure or isolation
+Easy to collect (action pack)
+Lot of religious and warhorse skills
+mostly immune to loss of lieut,
+immune to retreat
+Immune to Isolation state (mostly E/M attacks, lot of hacker stuff, jammers)
+Immune to BS -3 attack skill (great, also combines with visors)
+Morat BS not great
+Morat Vanguard (line)
+standard
+BS-3, HMG ok
+Dartok (2) (must)
+FTO: linked pitcher, hacker-Trinity-1
+Suryat (HI, ok)
+MSV1 or TacAware HMG good
+Yaogat (2) (MI, good, msv2, other units have smoke)
+Rindak (HI, good)
+FTO paramedic +1B medikit, sensor, lots of utility
+Treitak Anyat (rindak better, but ok because smoke in FT)
+Kyosot (ok, BS +1 SD, Mim -3, AP ammo)
+Rodok (2) (MI, run as haris: 2 kodok + krakot)
+thunderbolt +1B
+hacker, w trinity
+Krakot (1) (LI, great, close assault piece, Berserk +3, metachem reroll)
+Kornat Gazarot (MI, solid lieut, +1 order strategos, linkable, solid)
+Sogarat (1) (HI, minis can't be found, only Morat Discoball)
+Daturazi (1) (WB, one of best warband in game, berserk, smoke)
+Oznat (1) (WB, FT Master Hungries for cheap regular orders)
+Gaki (2) (CC, explode, reg order, or can be used irr against mines, 4 points)
+Preta (chain rifle, 7 pts)
+Rasyat (really good, parachut dep zone, eclipse grenade)
+Taryot (weird, parachut, combat jump explosion, suicide attacker)
+Raicho (TAG, Sogarat likely better)
+Bultrak (TAG, sucks)
+T-Drone (1)
+Ikadron (1)

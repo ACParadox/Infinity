@@ -1,0 +1,505 @@
+Hello and welcome to an Infinity the Game battle report. Today we're playing the Tarter Army Corps against Kestrel's
+Colonial Force. And the scenario is the new IT scenario provisioning. Now provisioning is a bit of a weird one.
+Not because the scenario itself is strange. It is in almost every respect basically just a very mildly dalled up
+version of supplies, hence the name. Provisioning is weird because it is the first attempt by Infinity to use what we
+might call radial deployments where each player has a 24 inch radius deployment
+zone from their table corner playing diagonally across the table. And that
+does some very interesting things to both rangebands you expect to play, deployment zones you use, and how the
+game unfolds, which we'll talk about over the course of this battle report. But for now, let's jump into the lists.
+Now, the Tartery Army Corps are a faction that kind of leapt out to me when I first saw the rules for
+provisioning for a couple of different reasons. One of them is that there is nothing like the forward observer bonus
+in a scenario to get Ariadman juices flowing, but there are a bunch of other things that happen when you play the
+game across a radial deployment style setup that makes a bunch of the units
+that we have access to in Tartar Army Corps particularly interesting. And to start with, you will see this list is a
+total meme in almost every other context, by the way. But in the case of provisioning, I think there are some interesting things that have legs here.
+And the first of those is quad scouts. Now, scouts are kind of expensive by the
+standards of midfield mimters and skirmishers. And that's mostly because of the armorament that they are packing.
+Scouts have Ohcks, which have possibly the most forgiving range bands of any weapon in the game. It's a burst 2 T2
+ammunition weapon, damage six, which has a good range band from 8 to 32 and
+basically a zero range band outside of that. And that is not really a rangeband
+that under normal circumstances, it's hugely useful on infiltrating pieces. infiltrating models kind of by
+definition will usually be much closer to the enemy. But in a radial deployment setup, you are actually potentially a
+very long way away from some of the fights you might be taking even with units that are in the midfield. And as a
+result, those hotnick rangebands can and in this game we'll see will be really really relevant. There are all sorts of
+weird and different attack angles that come up when you have such a wide midfield. Right? corner to corner. A 48x
+48 table has something like a 69 in nice uh diagonal that creates extremely wide
+attack angles both across the table and then in angling toward your opponent's
+deployment zone. And so I kind of knew snap pick I wanted to take as many scouts as possible. And especially the
+mine layer scouts would be very relevant because only with infiltration, not with forward deployment. Only with
+infiltration can you do things like get mines in place covering the furthest most supply boxes in this scenario. And
+so as a result, the goal with these scouts is to cover the outside boxes, have specialists potentially in place to
+to grab and run back with the outside boxes, and to just take long shots across any of the angles that present
+themselves with those extremely flexible rangeband oene necks. We then have a
+single mandino. I'm going to need some engineers in this list, which will make sense when we get to the absolute meme trailer park that is the group two of
+this list. But we have one of two Amandasinos, the other in group two. And then a fourperson link. Now, this link
+is very marginally scuffed, but I only have so many points due to other decisions that have been made in this list. We have Colonel Veronin. I am a
+big Veronin fan, but we did get partway through creating this list, and I made some decisions about whether I wanted to keep or cut him. I think you could cut
+him for a line Kazak Lanc Kazak lieutenant very easily, which would free up points if you wanted to spend those
+points on other things. But in this case, we took Veronin, and I had a particular use for his strateg. We have
+a cheap conductor just to be in the link. It can do whatever. It's still adding link bonuses, but it is present at its deployment zone defense. A line
+kazak forward observer and a front multispectral visor level one with AP sniper rifle. Now that sniper rifle is
+present again well firstly because it's the only gun I could afford that could join the link. But secondly, this is going to be a game where there is
+potential to take very long range gunfights because we're playing across
+the diagonals of the table, not straight up and down. that changes the maximum range bands you can fight with to
+actually be beyond even the good range of a sniper rifle in some cases. Again,
+the maximum range firefight you can take on an Infinity table is just under 69 in. And while the closest points between
+the two deployment zones are actually almost as close as they would be in a 16-in deployment zone scenario, the
+possibility for very long weapons means giving yourself access to things like sniper rifles is going to be important.
+And so we have a linked front of Vic multisspectral visor AP sniper rifle. As long as Veronin is also in the link,
+we'll get the plus one special die. But this link is not intended to do much. It's mostly just a piece a firepower
+piece that will operate within the deployment zone. Another thing kind of to note about radial deployment zones is
+that you have less deployment zone space. It's not the same as something like a biotech style 8 in deployment
+zone. Those feel really difficult to play in. Not because you have less space, but because you have less depth.
+In a radial deployment with 24 inches, you actually have a fair amount of depth. It's just that the space contracts and contracts, and so the
+total real estate you have to put models in is going to be relatively limited. And so things like infiltration and for
+deployment will be very useful just for freeing up that space. So you can make maximum use of the defensive depth that
+you have. This also makes skills like for example sapper particularly useful.
+And this leads us into probably the most significant meme portion of this list
+which is basically everything that's happening in combat group 2. Now sensible things first. A couple of
+stlocks. One forward observer and one mind layer. Now as mentioned you don't want to go ham on forward deployment 8
+in this kind of deployment situation because it's only going to give you access to a certain amount of the space
+in the infiltration kind of area. True infiltration is much more useful in this scenario because only true infiltration
+will get you all the way out toward the furthest most supply boxes from your deployment zone, but some for deployment
+is totally fine. And so we have two stray locks, one mine layer, one forward observer. The mine layer, if I had been
+going first, would definitely be attempting to do a smash and grab. Sorry, the forward observer, if I'd been going first, would be attempting to do a
+smash and grab on the near supply box. In this case, he's going to have to do something else because spoiler alert, I
+won't win the lieutenant role. But the mine layer will do a stellar job kind of holding down that central area. Now, I
+did originally intend to have three Strlocks in this list, but I had a sure feet of spare SWC. And I went looking
+for things that I could take for 17 points. And I stumbled across what is not necessarily a fantastic pick, but
+which would end up being absolutely pivotal this game. A tractal courier.
+Now, someone did actually send me a video quite recently from some Eastern European lad with very big opinions
+about how to construct lists in infinity. And while I admit I haven't gotten around to watching it yet, my
+understanding kind of just getting the gist from how people have spoken about it is that apparently it's rule number one to always include guided in lists.
+Now, that is not something I personally agree with for two reasons. Firstly, I think guided just has very very
+diminishing returns in N5. I think it is far too riskprone to ever be something
+like your first order of attack. It is extremely easy over the course of like a three or five round event if you are
+trying to make guided work to just toilet bowl entire turns mostly because of how reset works as a face to face
+roll now. But there have been a bunch of small changes to guided that have led up to that in terms of the effect it's had
+in N5. I just don't think guided needs to be in lists much at all anymore. But
+kind of more than that, the idea of strict rules for list construction, any
+kind of absolute statement is just not a great idea. It's very foolish to deal in
+absolutes or axioms. It is always better from time to time to reapproach things from first principles to be flexible in
+your thinking to be able to learn new lessons when they are provided to you and even just to try new and novel
+things from time to time which in this case means that we have slammed guided fire into an Ariadnan list. Now that is
+actually something I have spoken about in previous videos and how you can kind of make guided work in Ariatna if you
+are also taking a bunch of forward observers. But I also wanted it because one deployment zone mine layers in this
+scenario where you have a part of your deployment zone you are trying to protect right the safe area that you are
+delivering supplies back to one deployment zone mine layer actually is kind of useful there and so is a total
+reaction bot and as much as the track the mule courier is like kind of a meme it's doing all of those things it also
+has quite forgiving rangebands right it has very long zero range bands and I'm
+taking two engineers is to repair other things in this list. So I may as well
+just double down on the remote presence repairable elements. And yes, the other things that we are taking engineers to
+repair are a pair of vistals. Now whether the visl is a good piece or not
+is like a bit mixed in terms of it's definitely it's a neurokinetics piece and neurokinetics pieces are always
+almost by definition purely defensive. It's very difficult to take offensive attacks with them. although I will this
+game on one occasion and locking points into purely defensive pieces does very
+much limit your flexibility. But if ever there was a scenario in which the Vistl
+is really really well suited, it's in exactly this scenario for two reasons.
+The first reason is that provisioning is a sniper rangeband scenario. And having
+defensive sniper rifles just far exceeds any other kind of defensive weapon because you will have such a long plus
+three range band that you can use sapper to deploy really far back, make maximal use of it even more than you would in a
+regular deployment scenario. The other reason is that sapper is inherently very
+valuable in weird deployment zone scenarios. generally not because you are
+guaranteed to have a bad deployment zone, but because it is absolutely a
+risk. The simple fact of the matter is that we as players are going to have almost zero practice setting up tables
+for radial deployment zones. So, we will be just kind of inherently likely to whoopsie make a bad deployment zone. But
+even beyond that, this is something that we see with scenarios like Powerpack where if you are if you're a TO and you
+are running an event and players come in and they set up their tables, people just default to setting up deployment
+zones that facilitate serviceable deployment zones for standard 12in deep table deployments. And so inevitably
+when people talk about their experiences with scenarios like power pack and I
+expect it to be exactly the same scenarios like provisioning you will get
+a small selection of games that are absolute horror stories because just not
+really thinking about it people who set the tables up didn't put any relevant terrain in those parts of the table that
+you all of a sudden find yourself constrained to deploying within biotech for is often kind of a bad experience
+for some people for the same reason where you just have people not putting enough terrain in the back 8 in of the
+deployment zone and so it just being an absolute nightmare to try and deploy your army and I expect absolutely the
+same thing right to happen in people's experiences particularly the first time people play provisioning in a scenario
+like a tournament environment and for a selection of people that will probably be at
+interplanetario it is really really easy to just accidentally as a to screw up
+terrain for a scenario like this. And so having a pair of total reaction or sorry
+neuroinetic defensive pieces with sapper is just insurance against the worst
+happening in that respect. This list generally actually only has to deploy safely a very small number of models
+because so much of the list is being thrown out with for deployment and infiltration and then two of the other
+most important pieces have sapper. I can be relatively flexible with my selection of deployment zone because of all of
+these concessions I am making. Now, do I think this is a good list? Generally, [ __ ] no. This list has a single active
+turn gun that isn't an hot neck. This list is tailored exclusively for the
+scenario that I'm about to play with it, but it is tailored exclusively for the scenario I'm about to play with it. And
+I think if we see more scenarios with forward deployment, sorry, with forward observer specialist bonuses and even
+potentially if we see more scenarios making use of radial deployments, these things are kind of good for Ariadna. I
+don't know if they will herald the end of Ariatner's short winter in N5, but
+with a bit of inventiveness from Ariaden players, they certainly won't hurt. So that's my uh artillery park meme of a
+list. Let's jump into the Kestrel Colonial Force list I will be playing against. Now, this list was kind of
+designed on very similar principles to mine, which is being played by someone who is not by default a Kestrel Colonial
+Force player, but who looked at this scenario and went, "Hm, snipers could be good." And in that vein, we have a
+double multi sniper rifle list, including the dreaded Black Air FTO. Now, first up, we have just a very solid
+and serviceable Harris team. We have the Griffin HMG by Prager with tactical awareness and a Firefly engineer and
+deactivator. I really like this as a team. I like that you can leave the Firefly behind if you need to and it
+keeps duo bonuses. And the Griffin obviously my opponent did not know that he was going to be playing against Ariadna, but the Griffin is an MSV1
+ballistic skill 14 gunfighter and very very good in the matchup and generally this is just a nice team and by Pandra
+as a doctor gives you some extra resiliency in terms of doing things like making sure the Griffin stays active. We
+then have a fivep person fuselier team, two regular combat rifle fanex, one of whom is the lieutenant, one paramedic,
+one forward observer with disco baller, which is going to be a really big addition to the list in this particular
+game, and the black air fto. Now, the black air FTO is a piece that I find
+very feast or famine. He is actually a dangerous enough gunfighter to sometimes
+be able to take active turn fights, even with neuroinetics. But most of the time you are kind of set having him be purely
+reactive. And for all the same reasons as neurocinetics on a visual can be a
+like a little bit of an issue in terms of the limitations it imposes on your list. So much air is being occupied by
+the black air FTO in this list. Right? Five troopers in this list and all of
+the points that they cost including the cost of the black air itself are functionally dedicated to a defensive
+role. That's going to sharply limit your offensive potential. But the payoff is
+that you have the black air fto and much in the same way as a Vistl is a really
+good use of like a use of points and the troop slot because of what it does in this scenario. Yeah, by god the black
+air is incredible in this specific scenario because those multi sniper rangebands can be reliably obtained and
+exploited. On top of that, I'm playing Ariada. I have zero access to Eclipse smoke, so that thing is going to be a
+goddamn nightmare. We then have a fagazi dronbot and Dr. Harper. Now, at this point, I feel like it's a compulsory
+part of service in the Kestrel Colonial Force that at some point, every Kestrel player has to at least try Dr. Harper
+out and come to the conclusion that she's not worth 35 points. Now, she would actually do some very cool stuff
+this game, and she will give the extra SWC that will enable a 6 and a half SWC
+list, but Jesus, 35 points is so very, very expensive. I don't personally
+recommend her unless you are trying to do something funny and a little bit of a meme. She is an enabler for that.
+Probably avoid her in tournament lists, but this game is a oneshot trying out a new scenario. And so, hey, the hell with
+it. Let's see how she does. Then in combat group two, we have now. Now, NAF is another piece that in general I would
+not expect to see in Kestrel Colonial Force. There are just other pieces, especially that you could spend the SWC
+on, but also the points. It's not too many more points to turn Nof into a Griffin. And even a Griffin Fearback is
+likely to get better performance than he does. Except again, this is a sniper mission and he's a plus one burst native
+MSV1 mimatism multi sniper. You are going to be able to get the rangebands for him. And so I think this is probably
+a very rare case of NAF actually being justified and he would cause me no end
+of pain. Now the rest of this group is basically just a defensive package. We have a warhor, we have scarecrow mine
+layer, we have a sierra johnbot, and we have a jackal. All of these are really solid in this scenario. Just a couple of
+mine layers helps you either zone out or set up defenses around any of the
+objectives in this scenario. Infiltration in particular is really useful because it lets you reach the really far supply boxes. And like I just
+have endless amounts of time for that 11 point jackal. It's just always going to be cool and useful. This is just a solid
+defensive combat group well suited to the requirements of this scenario. And if it needs to spend some orders, it can
+spend a few orders on now taking long-range gunshots. It can spend a few orders with the scarecrow, maybe taking
+some face to face rolls or going and attacking things. And if all else fails, it can spend some orders on the jackal
+spec firing. So I think this is a list that is also quite highly adapted to this particular scenario. And while I
+definitely think that look, cut Priya Harper, turn the HMG Sierra into a Thunderbolt to save the SWC and you have
+a ton of points to play with to do other stuff. But otherwise, this is a list that is extremely well suited to
+provisioning. Let's see how it did. Now, here we have our table. Willpower 12, Lieutenant versus Willpower 14. But I
+tragically lose the role. I would very much have liked to have gone first, but second is fine. We have certain
+defensive pieces and I have elected to set up second in the top table quarter up here. My opponent is therefore
+deploying in the bottom table corner and his deployment zone is going to be something like this. Now, as noted,
+that's a fair amount of depth to play with, but not actually a terribly large amount of space. It's approximately
+commensurate to an 8 in deployment zone in terms just of sheer real estate, but it does have depth to play with. So, for
+example, if you're playing this scenario and you would deploy a model all the way back here, for example, it would be
+mostly very safe against direct attacks because there is just so much distance your opponent would have to cover to
+reach this model that it is probably quite safe from any kind of conventional attack. However, one of the things that
+you do have to be careful of in scenarios like this is that your opponent can deploy infiltrators all the
+way out here and here, which then can have straight line runs toward the
+flanks of your deployment zone. And so, you really do have to think about your defenses as facing in all directions.
+Now, my opponent in this case is reasonably well covered because he has a black air facing basically straight forward, which means that it's also
+covering all of the flanks. Uh, and I am not sure I'm ever going to be able to kill that thing in a direct gunfight.
+And so in terms of deployment, we have the uh the little fire, sorry, the fuselia fire team is hanging out on and
+behind this building. The black air is in a dominant position watching an awful lot of the table. Now, we are playing
+these trees as solid, but it still has a pretty mean cross table line there and a
+pretty mean cross table line up here, which means that it is covering two, but not all two of the three objectives, not
+all of them, happily. Uh, and again, it's going to be just very dominant in ARO. The war correspondent is on picket
+duty back here, watching up this direction. And I will note that although it's not quite visible in this picture, there's a bunch of like scatter back
+here that is keeping the fuseliers hanging out behind this building in good safe positions. This is a difficult position to attack. On top of the
+rooftop, uh, we have the total reaction HMG up here, and we have the two specialist fuseliers, the disco ball and
+the paramedic. The Fagazi dronebot is hanging out behind these behind these trees watching across the table this
+way. You have quite long range bands, zero range bands on a flash pulse. Sorry, not zero, but you have quite long range bands on a flash pulse. The
+negative three goes for a long way. And so it's doing good work as a pickup piece there. N is on this rooftop up
+here. And then the threeperson Harice is in this triangle here with Bipandra, the Firefly, and then the the HMG Griffin
+quite forward deployed. This is a good position for it because it's got the capacity to move out in either of these
+directions and that gives it the best possible chance at being able to take a 32-in rangeband fight. Uh, for example,
+any of these three barricades, any model standing directly behind them would have been within 32 in. So, the Griffin is
+making full use of the forward positioning that can be enabled by the 24-in radial deployment. Apart from
+that, the jackal is on this rooftop with his mine down behind these trees. And the scarecrow's mine is deployed here,
+covering this objective. The scarecrow himself is just hanging out nearby. Dr. Harper will end up being forward
+deployed somewhere down here, ready to run on this objective. And that's the entirety of my opponent's deployment. Uh
+we can see his safe area here, the same way my safe area is here. Both just kind of this was really the only realistic
+place that we could put something. Uh, in my case, I've actually got quite a congested deployment zone, so I wanted the relatively further forward position
+on my safe zone. In my opponent's case, this is just close to all three of the supply boxes and so easy to drop
+supplies back off into. Now, for my part, I have two reserve drops. Both of my reserve drops will be the Vestral
+units and so everything else is deploying during the regular deployment point. Now, the intention had been
+originally to have each of the three forward observer infiltrating or forward deploying specialists deployed in
+position to go after one of the buttons and then ideally bring them back towards my deployment zone. I didn't win first
+turn and so we had to adopt a reactive and defensive posture instead. And so we have kind of waited one flank. What we
+have in terms of the forward positioned elements is the Strellock mine layer is hanging out in this area with a decoy,
+the Strellock himself, and then the mine here. Now, the mine had to be positioned very carefully. I could not position it
+to detonate on my opponent's mine here, but I am able to cover basically the entirety of this uh this objective
+without risking detonation onto this mine. That would have been illegal under the mine layer rules, but I do have a shock mine that is set up to mess with
+anyone who comes after this objective. We then have the first of two mine
+layers, mine layer scouts. The scout itself is here. The mine is up here behind this building. And it's looking
+to do a couple of things. The first thing is that the Ohneck mine, uh, the hot neck itself threatens all of this
+space here. So, anything that is coming through this direction or possibly even going onto this objective is at risk
+from the hot neck. And then the EM mine itself, of course, is protecting the objective. back here. We have also put
+the second forward of the forward observer Sherlock uh down behind this big helicopter here ready to run out and
+grab the objective because I deemed that objective to be safest. It would be most difficult for my opponent to get and
+because I basically needed to put a bunch of other stuff uh over here in this position. And so over in this
+corner we have the other three scouts. So we have the mine layer scout and its
+mine covering this objective. And then we have both forward observers kind of up and around here on top of the rooftop
+and behind. And so there we can see here they are making full use of infiltration to go a really long way away from most
+of the concentration of my opponent's forces ready to project threat down any of these lines. And it was the scouts I
+had to put in these positions just because for deployment 8 wasn't going to get either of my strlocks there. The
+strlocks are contain constrained to positions relatively close to my deployment zone. The scouts go all the way out on the wings. Otherwise, in
+terms of inside my deployment behind this building here on on the second level of this building, we have the tractor mule courier. Its mind is
+deployed down here, watching my safe zone, and the courier itself is watching basically up this angle using its total
+reaction powers to cover this objective. Uh, the sniper team and Veronin are all
+going to be hanging out way in the rear with the gear. Uh although I do have the sniper watching a kind of long angle where he's only going to be exposed to
+he he won't be exposed to NL. Nalof can't see him from there even if it leans out. The griffin would be able to see if it moved all the way up and
+around but only at a bad rangeband. My opponent then drops down Pria Harper as
+his reserve and I drop down my two couriers. Now I definitely make so my two vistals. Now I definitely make a
+mistake here. Having thought about it and having played the game out, I should absolutely have used the visls to just
+bracket the hell out of the black air. It can potentially fight in active turn
+one visl. It's got mimmitism and an MSD MSV. And so the fact that it's really only rolling one dice and one special
+die, it can just win enough facetof face rolls put enough da rounds into the two wound vistral to put it down. But if I'm
+watching the black air with two vistals, it's done. It just cannot fight that. Right? you you put one dice and one
+special dice into a single Vistl and the other one gets unopposed shots on nines and two dice on nines with an extra
+damage AP sniper rifle is just not something that you're willing to risk particularly given that you probably
+have to take that fight a couple of times to actually reliably put even the first of two vistls down and so while I
+was quite conservative with the visls this game I should not have been I should have had one like up on this
+rooftop one a bit further out and around just pinning this [ __ ] down
+because as long as the black air is pinned down, doing anything with the rest of the fuselier fire team would be
+difficult. And that's going to be really important because despite all of the reactive firepower that I have, my
+opponent has disco. And that is basically going to be the tail of the tape for the first round. Uh because the
+black air is not in any way suppressed, my opponent is going to be able to move the disco fuselier around and place two
+disco balls to enable relatively clean maneuver. The first one is going to be shot to cover this area down here, which
+is going to mean that this vistral that is watching up this line here will no longer have line of sight. The second
+one is going to be shot uh approximately down here to mean the same thing from this visl. And that is going to enable
+Dr. Harper to move up and around. succeed her role to grab this box, she
+will actually trigger the EM mine, but she just tanks two hits. Now, that's not actually hugely unlikely. She needs
+something like twelves to pass those because she has a nano screen. And nano screens do actually they're fully effective against template weapons. And
+so, she needs to roll something like 12elves to actually pass that. She just tanks the two 12elves, is not isolated,
+and then proceeds on her merry way back to this space here into her safe zone where she will drop prone. She won't
+actually drop the objective off. You don't strictly speaking need to. but she will do that with a tactical awareness
+order in a subsequent turn. Now, that's a really clean line of play for my opponent and it would not been it would
+still have been possible, but it would have been much more difficult to enact if I had been pinning down the black air
+with the two vistals. My opponent would have had to have broken the link team and then reformed it with just the fuselers spending a command token and
+then if he wanted a linked black air, he would have needed to reform it again in a subsequent turn or order at the end of
+the turn. Basically, that would have been an impost of two command tokens just to pull the same trick, which is an
+awful lot. Like, that would stress your command token pool down to just a single command token, which could have big
+knock-on effects for the rest of the game. As it was though, I didn't have my opponent pinned down. Uh, I had made a
+mistake in my deployment. I was not sufficiently aggressive. And so, this was just a really clean line of play. And with one supply box and plenty of
+orders to spare with one supply box completely controlled under his control in his safe zone, I was now going to be
+kind of up against it in terms of trying to accomplish anything for the rest of the game. I would have to race against
+that score. The pressure would be on me to disrupt the status quo. And this is kind of a difficult scenario to do that
+in. Now, my opponent has plenty of orders left. And so, he's going to take some different moves. The first thing he'd like to do ideally is to come after
+this supply box because if he can secure that supply box, he's in fantastic shape, right? If he has two supply boxes
+back in his safe area, the game is not necessarily as good as one, but it is certainly difficult for me. And so, the
+first thing to do is to try and solve the ongoing arros the panosian way. No problem. Out comes the Griffin and takes
+a look at this Vistl over here. Now, I mentioned that the Griffin was well deployed. It would have line of sight.
+So it would have line of sight and good range to any of the things behind these barricades here. However, because of
+sappa, this fistl is actually about an inch beyond the furthest most barricade, which puts it at about 32 1/2 in from
+the griffin. There is a subsequent face to face roll. And although the Griffin's MSV does serve it well against sapper,
+the poor range band does not. He takes a hit and subsequently takes a wound from the extra damage AP sniper rifle that
+the Vistl is packing. Now, that isn't the end of the world, but with that rangeband revealed, he's absolutely not
+going to take that face to face roll again. And so, this link team begins to move out and around this way. However,
+because this is probably a mine, it's pretty clearly telegraphed. My opponent decides that he first needs to just deal
+with this mine before he tries to run by Pandra in there. And that's sensible. And so, out the scarecrow comes from hiding, walks in this direction, and
+dodges. Yep, because it's a mine. The mine detonates. It's a real mine, not an EM mine. The scarecrow dodges and
+succeeds the dodge. However, then something happens we need to make a ruling on because the mine's template
+clips and destroys the disco ball. Now, it is not 100% clear from the rules of
+the disco ball whether or not the smoke stays in place until the end of the turn
+if the disco itself is destroyed. It's very very difficult to destroy the disco baller in reactive because it's in the
+middle of an eclipse zone. But a mind detonating is one of the ways to do it. We go through the rules, we read, and my
+observation is that all of the wording around disco balls refers to the disco ball itself deactivating at end of
+round, causing the zone to disappear. And so it seems based on my wording that the zero visibility zone generated by
+the disco ball is connected to the disco ball itself. And the destruction or deactivation of the disco ball causes
+the zone to go away. And so the way that we play it is not the same as we would
+say a zero visibility zone caused by a smoke grenade which just expires naturally in the states phase. The disco
+ball being destroyed by the mine causes the zero visibility zone itself to
+disappear. And that basically ends the turn for my opponent because the scarecrow is in the open. It can't move.
+It's been pinned down by this vistl and it will be shot. And any kind of a clean run over the remainder of this turn on
+this area is not going to happen. My opponent is not willing to expose the Griffin to further facetof face rolls
+from uh another Vistl. The range bands that he would have from this position here is probably fine. That's probably
+totally okay for the Griffin, but it's down to a single wound now. And there just it's just too much of a risk and
+not really worth it. So, my opponent basically does what we might call some housekeeping things, right? Like the uh
+the jackal places a mind behind it because my opponent is aware of the fact that something could come up onto this
+rooftop and shoot him in the back. So the jackal just gets a mine to protect itself. Other pieces move around, get
+back into position, and my opponent basically hunkers down in the knowledge that he's gotten one objective, gotten
+back, and is in actually just a fine scenario position, and we'll have full bottle of orders to play out all of his
+subsequent turns. This is just a good, solid, clean first turn. One objective secured, and it's now on me to try and
+solve the game state. And solving the game state as it happens is going to be a bit of a bastard because I am dealing
+with cross-hatching AROS from Nal and the Black Air Sniper and the Griffin.
+All of which have MSVs against my entire army of Mimmitism 3 and most of which have extremely favorable range bands. So
+my decision like after looking at all the different angles etc. I do not under any second want to fight the Black Air. The only thing in my list that has even
+a like a chance in hell is the front of even that frankly is not good. But the
+front of can take a fight against now. And if I can deal with now, certain options open up. So the Kazak fire team
+moves out. They come up to a doorway in this building prone up onto the roof. And after two orders of maneuver, I get
+into a position where the front of sniper can stand up here. Engage now. And he takes a three dice on 12. versus
+one dice on 13's fight against now and gets shot and dies. Now that's that's a
+little unlucky, but it can absolutely happen. And that's that's my only active
+turn gun. H little bit of an issue with the list. Now I am planning on making
+plenty of face to face rolls with Ohex. That's part of the point of this list. I have theoretically four other active
+turn guns if I can just get them into good positions, but I don't really want them to fight NAF. Ideally not. Still,
+we'll give it at least one crack. And the scout that is in this corner up here just pulls back behind the building. He
+is in some kind of scary line of sight. He's in line of sight of the Griffin up
+here and of Nalf and of Bipandra. Now he moves and Bipandra declares discover.
+The uh the Griffin holds and now holds. And because the Griffin is like I'm just
+going to try and push my luck a little bit here. I think this is objectively a mistake, but I actually reveal because a free shot is a free shot and will take
+out by Pandra and impose some significantations on my opponent. And so I shoot by Pandra and I shoot now to
+impose surprise. Now what happens is the Griffin swings and miss. Fantastic. Uh by Pandra survives the hit and guts
+behind cover and now crits me which puts this scout down. Now I probably shouldn't have taken that face to face
+roll with the scout. As it turns out, this is terrible range. In any case, the scout only has good range out to 32.
+He's in zero rangeband. Now is in cover and limitism. Now has an MSV1. This was just a bad face to face roll with
+surprise. I had a shot. No, now just rolled a 10 and crit me. I am now down
+two significant pieces. My opponent has taken no casualties and is sitting on a box. And I genuinely sit there being
+like, I think I've lost the game at this point. And I go into the tank for a good
+like 5 minutes. My opponent actually says, "Oh, hey, you know, if you're going to do a battle report on this, do you want to just like wind that back or say one of those is inconclusive?" But
+like I'm I'm like, "No, let me look for it." And the only thing I can think to do is to spool up the career and take
+some Specfire shots. But I've got speculative fire in the list. And you play your outs. And two orders of
+Specfire later, Nalf is dead. The Urugun has reasonably forgiving range bands.
+Uh, and so it just puts those shots over onto Nal's head from downrange. Uh, and on the second shot, it crits and kills
+him. And with NF dead, I now have considerably more flexibility to take engagements in this space. And so, the
+second of three scouts that I have hanging out down here, the one that's this direction, uh, the first thing that he does is he peaks just half an inch
+this way and then moves forward. Uh, takes a fight against the war correspondent and kills it. Then it peaks out and around to see the griffin,
+takes the fight against the griffin and kills it. And those are T2 rounds, by the way. So, he is all the way dead. Uh,
+and then it comes around a little further to see the scarecrow and kills it. And so, a turn that literally was me
+being like, I think I'm dead. Like, unless I can kill now, I think I have lost the game. Oh, well, Speckfire it
+is. And Speckfire bailed me the hell out. And that's the thing, right? You play you play your outs. And so, a game
+like I am still losing, right? In the strictest sense. I have lost some important resources on my first turn and
+my opponent is up on scenario and I had killed nothing. But now actually I have
+killed multiple of the most important pieces and now all of my opponent's
+active turn guns apart from a Sierra total reaction bot are dead. So this
+game flipped on a dime from a position where I was like, do I just lose? No. Well, let's roll some specfire. And that
+specfire absolutely bailed me out. Now, would I have been in a better position if the front of it had just won his damn
+face to face roll and killed Nof? Yes, absolutely. That didn't happen. That's a thing that doesn't happen when you're
+playing with single wounded troops sometimes. We went for the chip in a chair play. We we were rewarded. Uh I
+had I think four orders to make that attack. Yep, I'll take it. And so play proceeded. Otherwise, the only thing
+that happened was that I had the Strellock uh mine layer here just peek out to lay another mine. I had the
+feeling that would be important. Uh, and then a pass turn back to my opponent. And so my opponent here is definitely
+under pressure, but still in a winning position if they can keep the game under
+control. They still have very, very strong, near insurmountable defensive
+pieces. And they have one box and I have none. So the goal for them here this turn is just going to be to secure a
+second one of those boxes because that will put them in a very strong position. Now, they have no baggage in this list.
+So they nominally can't place any more disco except speedball. Uh they call down a speed ball with overkill which
+enables a troop to reload. Now it does fail the landing but it will just come in off the table edge here which will enable the fuselier forward observer to
+just pop back down over the building. Pick it up, pop back up onto the building, reload himself, and then place
+down. It takes two wards. Actually misses the first one because he does have to long bomb it. Uh but place down
+a disco here. And it needs to be fairly aggressively positioned because it has
+to enable uh like block line of sight from multiple different pieces cuz I have two different viscerals. One of
+them is watching up this direction. One of them is watching up this direction. Nevertheless, that is sufficient. And so
+then it's Priya and the Firefly who come up and around. And after a fair bit of
+finangling, basically what needs to happen is that they need to sort of like come around this direction. Uh, the
+Firefly actually picks up a jump pack from the second disco ball and he has to maneuver up it and around this way. He
+actually takes shots from I think both or like he takes shots from the first Vistl while Bipandra comes around this
+way because what needs to happen is that the Firefly needs to detonate the mine that I've placed here but not by
+approaching from this direction. Because if Bipandra and the Firefly both approach from this direction and the
+Firefly moves forward first and detonates the mine, what is going to happen? The mine template is going to
+once again take out the disco ball. And so instead, the firefly comes all like
+he circumnavigates up and around here, grabs the jetpack, and then zooms around this direction so that the mine
+detonates this way, doesn't blow up the precious, precious smoke. He dies, but that enables Bipandra to come around
+here, just hug the edge of the smoke, pick up the objective, and then run back and around. So that there are now two
+under Kestrel Colonial Force command. Uh two different objectives sitting in this zone. Bipandra and Priya are both going
+to be sitting here with two objectives with basically everything now resting on the black air to keep me thoroughly at
+arms length. Now I have a few things to accomplish this turn. One of which is I need to do some of the damn scenario.
+And so the like critical thing this turn is that the forward observer Trello hanging out back here makes his way
+around, grabs this objective and then makes his way back. Two dice on 16s, no problem. And he will end up sitting
+comfortably behind this aircraft ready to run around this direction in a subsequent turn. In fact, no, I tell a
+lie. He actually made that run previous turn. I did have one box that was under my control, just not in my not in my deployment zone. So, sorry. He spends
+the orders this turn running all the way around here so that next turn someone can jump over and get it into the supply
+into the safe zone. So, that's what happens. So, we have one box under our control. At the end of this turn, it's
+going to be basically hanging out back here. I can't run in this direction because there is a black air and I will die. But, we get all the way down and
+around to here, ready to run into the zone safely cuz we can cross this line
+here without being seen by the black air. So, we can get at least one box in our zone at the end of the round. end of
+the game rather. The rest of this turn involves the one remaining camouflage
+scout up here being an absolute psycho. He takes the door down and begins
+walking in this direction. Comes up and around this way and proceeds to kill
+everything. He takes a fight with Bipandra and kills her. He takes a fight with Priya and kills her. T2 rounds,
+remember, so no wounding cap is useless. The total reaction bot succeeds a dodge to come out and try and pin him down.
+takes a shot with the silence pistol at good range and kills it. Then proceeds up and along here to engage one of these
+fuseliers, hoping it's lieutenant. Silence pistol at short range and kills it. And at this point, two different
+possible futures can occur. One in which my opponent actually does suggest and allow a takeback and one in which it
+doesn't. The problem is in one of these two futures, I proceed along to get line
+of sight to the other fuselier and I kill it as well. This is the future that does not actually happen for purposes of
+this battle report because killing that fuselier is the difference between my opponent having something like 79 and 69
+points going into their third round. This is a scenario that ends in retreat. And so one hypothetical timeline
+involves a single scout kicking my opponent's ass so badly that he goes into retreat and immediately ends the
+game with a major victory. In the other alternate timeline, I do some quick
+retreat math prior to making the utterly terminal run into my opponent's lieutenant and instead recognizing the
+purpose of this battle report that doing so will put my opponent into retreat, pull back and re camouflage. Now, that
+is a violent [ __ ] turn for my opponent, but he still has two boxes in the safe zone. They don't have to have
+models in base contact with them. As long as they are in the safe zone, they are under his control. And so the remainder of like his entire final turn
+here, something like five orders, involves using the sensor on the forward observer, sensor, disco ball, fenck,
+fuselier to ferret out and annihilate this this uh scout that is hanging out
+back here and then fling fuselers around into as aggressively forward positioned
+positions as he can in order to just hold just hold for the remainder of the game. Because if the game ends with him
+having two boxes in this zone and me only having one in mine, he is going to win. And so in this position here, we
+can see uh the black air is still in position watching the entire table. Basically, we have the two Fenuk
+fuseliers who have jumped down and taken up these forward positions. And then that's basically it. That's just about the entirety of my opponent's opponent's
+entire force at this point. He nominally actually is in retreat at this stage due to casualties sustained during his turn,
+but that's neither here nor there and not important. retreats on the check at the beginning of the turn. So, we proceed through my last round of play.
+And this last turn is going to require some really extreme like ED level order
+like planning because this is really really challenging to try and figure out. I have sustained losses myself. I
+do not have infinite resources to spend and the depth of this scenario is going to be a challenge. Now, I can't really
+there's there is a scout still hanging out back here. This is the one that killed the griffin and the scarecrow. It
+can't really move because right now it is securing the HVT. Aaron's HVT, that's my opponent for this game, is hanging
+out back here and nothing else is in position to secure that. And my plan to try and win this game is just to get one
+supply box out of this zone and score my classified by the securing the HVT. But
+getting even one box out of this zone is going to be very challenging. However, we have a plan and it is it is just
+barely going to work. So after about like five or six minutes of cooking this out, I move the forward observer stre
+into the first combat group. From there, uh, we impetuous forward the Mandino
+that is back here. She'll impetuous forward to here. The Strellock will then activate and double move forward to be
+just in front of the Mandino. The Mandino will then spend her irregular order, move past the Strelock, pick up
+the box, and she will end up holding the box inside the safe area. Cool. I now have at the cost of just one impetuous
+and one irregular and one regular. I have a box in the safe area. Excellent.
+Next, the Strellock is going to reamage, move up and around here, and then start making this run. Now, this is a Strelock
+forward observer. My opponent is aware of the fact that it can potentially move
+all the way up to here, jump over and back and grab a box, and even if it dies, it can carry the box out of the
+out of his safe area with that play. And so the black air at long range declares
+discover. And so I respond with some Ariatin tactics and declare forward observer. One of the forward observer
+rolls hits which means it's guided missile time, baby. Up spools the Urugan, lands a shot directly on the
+black air's head and kills it. Now was that a likely face to face roll? Wasn't terrible. The black air is
+not that high willpower. It was something like one dice 14s to one dice nines. But you play your outs. And once
+again, the courier tractor mule has saved the game for me. With the black air down, I then I basically do like a
+quick order count and it's going to be incredibly dicey. So what we do is we use our own speed pole and we call down
+a jetpack and it lands. And so the Strellock walks over the jetpack, picks it up, and only by dent of the jetpack
+is it able to make a 6-in move over and back. Picking up this picking up this objective. It gets shot by both of the
+fuseliers and it dies, but it succeeds picking up the objective. The objective is placed in base contact with it and
+then at resolution of the order, it dies, dropping the objective outside of anyone's control. And that means that at
+the end of the game, I have one box in my safe area. My opponent has one box in
+his safe area. One is uncontrolled in no man's land. And I have secured the HVT.
+That puts the final score at an incredibly anemic three points to two.
+But a win is a win. God, I had to absolutely scrape for it, especially
+after that first turn where I just lost two models in the first face to face rolls. But we got there. Now, do I think
+this is a good scenario? Actually, yes, with the really big caveat that I don't
+think it is going to be wellreceived by many people the first time they play it. It is pretty much an axiom at this stage
+that war gamers hate only two things. Change and the way things are. And this this scenario because of how it plays is
+going to feel alien and uncomfortable to basically everyone the first time they
+approach it. And that is going to upset their expectations and make them feel bad. And you will absolutely have cases
+where people play on it on tables that are not well set up for the game and then just get terrible experiences from
+deployment zones. And so my general expectation is to see a tremendous amount of complaining about this
+scenario, especially like the first few times people play it. But I do think
+it's really cool and interesting. There are things that happen with radial deployment that make the game very
+different in terms of opportunities that arise, right? The game is absolutely full of like shrouded snipers, for
+example, which are just profiles that you would never pick, but you actually kind of might in this case. Another
+thing that was really interesting is that because this halfway line is so long, right, because it's 69 in, no, I
+will not stop making a reference as to that specific distance, you actually have a huge amount of real estate to
+make use specifically with infiltrators. And there's also a really material difference between true infiltration and
+just forward deployment cuz like just forward deployment does it has a lot of luxury. You can still forward deploy like in this position. You can do
+forward deploy here really easily. You can get to within like one inch of the halfway line. You can almost I think you can just about forward deploy in contact
+with the with the objective marker because the objective marker itself occupies space. I could forward deploy
+behind this helicopter for example. But only true infiltration can make use of the absolute extremes of the table edge.
+But it can make use of the absolute extremes of the table edge. And so infiltration is really valuable. It has
+a forward observer specialist bonus, which is something that we just haven't otherwise seen in official it scenarios.
+But by god is it a boon for Ariadna especially, which is one of the only factions to have reliable access to
+forward observers. Like those are it primary specialists in the midfield. other factions tend to make use of
+forward like for deploying or infiltrating hackers because those serve other uses. And even the deployment
+zones themselves, the main 24-in deployment zones I find really interesting because as I mentioned, your
+actual physical real estate is relatively limited, but you have tremendous depth, right? You have
+strictly speaking a 24-in deep deployment zone, which means that things
+that are as far back as possible, provided they aren't exposed to
+envel. You can actually just put yourself out of range of enemy missile launchers. You can be absolutely safe
+from guided fire if you make maximal use of the distance and the depth that you
+have. And so that's really interesting. And all of this stuff is really, really cool. provided and it comes with the
+really big caveat that firstly we as players learn how to play the scenario and secondly we as players and as
+tournament organizers build tables that are fun to play for the scenario. That's
+my genuine concern for interplanetario. I genuinely suspect that we will get reports back from interplanetario of
+just mildly haphazardly put together tables not as a sledge of corvvis belly just because that's the kind of thing
+that invariably happens in big events. It's very hard to really carefully curate tables when you have what like 50
+or 100 or whatever players. It's very hard to carefully curate all of those tables. And this is a scenario that
+demands careful curation of the table for both players to have a good time. And I think if we as a community and
+then Corvis running into planetario can overcome those specific caveats, this is
+the first time I have ever seen something like a radial deployment work in a way that was not a hot mess. I
+actually really enjoyed this. I thought it was really cool. We both played lists that were at least a little bit
+different. And I kind of want to play this scenario again. I do think in a
+weird way, despite the fact that it isn't an exclusion zone, right? There's there's no special prohibitions in this
+list, it is a list that a scenario that you want to kind of build for a little bit, but it was pretty cool and pretty
+interesting and I would be keen to play it again. Now, for now, that wraps up this video. It's going to be coming out
+quite soon. Normally I aim for one video a week, but we'll put out two this week just because I think Strike While the
+Iron is hot. This is a new scenario and I thought people would be interested in my experiences with it. That means we
+are going to aim for another Infinity video next weekend which I hope you'll stick around for and see. Otherwise, as
+always, hope very much that you've enjoyed this. If you want to support the channel, you can do so via the buy me a coffee link in the video description
+below or by becoming a channel member on YouTube. Otherwise, hope very much that you enjoyed this and I'll see you next

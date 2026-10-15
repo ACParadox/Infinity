@@ -1,0 +1,227 @@
+
+Infinity Academy – Reading Profiles
+2025-02-16
+WiseKensai
+
+Written by Blessed Be in the N4 era.
+
+In this article we’re going to be discussing troop profiles. By the end of this piece the goal is for you to be able to roughly evaluate what a troop does based on its profile. We’ll be discussing weapon profiles in a separate article. 
+
+If you want to follow the core Infinity rules for troop profiles, you can find them here:
+InfinityTheWiki – Unit Profiles
+
+This article is going to mainly consist of the information from that page, but will contain a few extensions to help you learn more about the game.
+
+Let’s start by presenting an example troop profile to work from:
+
+This troop profile is for the Panoceanian Auxilia. It’s a light infantry that comes with its own robot that it pilots, which is called an Auxbot. This is why you can see two different blocks of attributes.  
+Auxilia team and their Auxbots
+
+We’re going to start by discussing the top half of the profile.
+
+For the Auxilia we’re focusing on this:
+
+For the Auxbot it is this: 
+
+We’re going to work through this entire block of statistics and explain what everything means. We’ll start by looking at the top left, working across to the top right, and then the bottom left to bottom right.
+ISC 
+
+This stands for International Standard Code, and it just functions as an official name for the unit within the Infinity game world.
+
+(Honestly: not important; literally just a name that almost always matches the main, given name. It is useful as a sorting field to make sure things appear in alphabetical order when you’re building your army list though.).
+Troop Classification
+
+You can see this in the top right of the image. For the Auxilia it says ‘Garrison Troops’. There are 10 classifications. They give you an indication of the role the troop has on the battlefield. As with the types, you do not need to learn these, but you do need to know they exist.
+
+Some mission objectives require that your troop be a certain type to be eligible to achieve the objective. The only troop types that matter are bolded below. Make sure you include 1-2 of these classifications of troops in your list if you want to guarantee that you have coverage for objectives that require certain troop classifications.
+
+The classifications are:
+
+    Garrison Troops
+    Line Troops
+    Specially Trained Troops
+    Veteran Troops – There is a “Veteran” skill, which is NOT granted by being a “Veteran Troop.” Yes. It is confusing.
+    Elite Troops
+    Headquarters Troops
+    Mechanized Troops
+    Support Troops
+    Mercenary Troops
+    Character
+
+Troop Type
+
+We can see the abbreviation LI for the Auxilia and REM for the Auxbot. This stands for Light Infantry and Remote. These are troop types. There are eight overarching troop types in infinity. It is not essential to learn all of these types. For the most part, their purpose is to give you a rough idea of the kind of statistics the troop might have. 
+
+(Honestly: Infinity profiles are so varied that the broad troop type designations are not adequate indicators of what a troop really does.)
+
+Like Troop Classifications, Troop Types are prerequisites for certain objectives, so you’ll want to check for this if it becomes relevant in a game. In some very specific cases, a model’s Troop Type can change in the middle of a game, so make sure that you always check the Troop Type if you have objectives that reference the type.
+
+The eight types are:
+LI – Light Infantry
+Alguaciles Light Infantry
+
+These are lighter troops, that usually lack specialized gear and have low durability. Expect low armour values and one wound.
+MI – Medium Infantry
+Yadu Medium Infantry
+
+These are moderate troops that usually pack some special gear. Expect medium armour values but only one wound.
+HI – Heavy Infantry
+Yan Huo Heavy Infantry
+
+These are heavy troops, that usually boast higher armour values and two wounds. They usually have access to specialist gear.
+REM – Remote
+Meteor Zond Remote
+
+Remotes are robots. This is an incredibly broad category. Some do very little and are flimsy, others are literal killing machines that can take some punches and keep going.
+TAG – Tactical Armoured Gear
+O-Yoroi TAG and TAG Pilot
+
+These are huge armoured walkers with the best weapons and armour. The final word in Infinity’s military technology.
+WB – Warband
+Hippolyta, Amazon Officer
+
+Warbands tend to be very cheap troops that aim to disrupt enemy plans. Expect very rudimentary gear and attributes. They generally come with smoke and above average close combat skills.
+SK – Skirmisher
+Spektr
+
+Skirmishers are usually light infantry with camouflage technology, which makes them hard to hit. 
+Peripherals (Symbol: ) 
+Tomcat and Zondcat Peripheral
+
+Peripherals have a special symbol, which you can see on the left of the Auxbot profile. Peripherals are best thought of as mobile equipment. They’re usually remotes which follow another troop around and provide some kind of support function.
+Cube
+
+A cube means the troop possesses a data backup of their personality and experiences. Possession of a cube means that the troop is easier to heal. 
+
+For more information, see the wiki page on cubes. But note that this is not particularly essential information for a new player. There are other ways to interact with cubes, but they’re so omnipresent that it shouldn’t affect your decision making process.
+Order Type
+
+Denoted by the following symbols:
+
+In a game of Infinity the number of moves we can make with our troops in a turn is equal to the number of orders we have. 
+
+Orders are regular (green) or irregular (yellow). 
+
+Regular orders can be spent on any troop. Therefore if you had 10 regular orders you could spend five on one unit, three on another, and two on a third etc.
+
+Orders are really the main ‘currency’ of the game and are vitally important. Most people try to build lists which contain at least 10 regular orders.
+
+Irregular orders can only be spent on the troop that generated them. They can be thought of as greedy orders, because they’re not shared among all the troops like regular orders are.
+
+As you can see from the profile above, the Auxilia generates a regular order. The Warcor generates an irregular order.
+Hackable
+
+Denoted by the following symbol:
+
+A troop with this symbol is hackable and therefore can be targeted by enemy hacking attacks. 
+
+Hacking will be covered in a future article, but for now it’s worth remembering this:
+
+Heavy Infantry, TAGs, and Remotes are usually vulnerable to hacking, and this gives your opponent a different way of attacking them. 
+Attributes
+
+Attributes are the real meat of a profile. They’re the block of numbers running along the middle of the image, as you can see above. 
+
+Attributes are values which describe the capabilities of the unit, and other important pieces of information.
+
+There are 10 attributes, and they’re all essential to understand. If you take one thing from this article, it should be what these attributes represent:
+MOV
+
+Quite simply how far the troop can move. Two values are given because a troop can move twice per activation. The first value is the distance moved during the first movement, and the second value is the distance moved during the second. Distances are measured in inches. If you see very high numbers such as 10-10 then you’re probably looking at the values in centimeters.
+
+The vast majority of troops move 4-4, 6-4 is quick, and 8-6 is the fastest in the game
+CC
+
+The troop’s capabilities in close combat. This is used for melee attacks.
+
+Values around 15 to 17 are average, 20 is the point at which a troop starts to become proficient, and 22+ is truly excellent.
+BS
+
+The troop’s ballistic skill. This is used for ranged attacks. 
+
+Values around 10 to 11 are average, 12 to 13 is the point at which something is considered moderate to good, and 14 to 15 is top tier.
+PH
+
+The troop’s physical prowess. This is used for the damage that melee weapons do, and dodging attacks.
+
+Values around 10 or 11 are poor to average, 12 is good, and 13+ is excellent.
+WIP
+
+Willpower. How effective the unit is at completing mission objectives, discovering enemy camouflage markers, and hacking.
+
+12 is usually considered poor, 13 is average, 14 is good, and 15+ is fantastic.
+ARM
+
+Armour. This is a measure of how good the unit is at taking a hit with a conventional weapon and avoiding harm. 
+
+ARM0 or 1 is the standard for light infantry, and indicates that the unit is poor at shrugging off hits. ARM2 to 3 is the realm of medium to heavy infantry and represents a moderate chance to avoid damage from less lethal weapons. ARM4 to 5 indicates that the unit has heavy armour and has a decent chance of ignoring damage from even quite powerful weapons. Finally, TAGs (the big walker-robots) have ARM values of 6 to 10, which render them extremely resistant to weak weapons, and reasonably able to tank hits from larger guns. 
+BTS
+
+BioTechnological Shield. This statistic represents the unit’s ability to avoid damage from less conventional weapons such as hacking attacks.
+
+BTS0 represents a poor chance to ignore these hits. 3 is passable, but not fantastic. 6 is notably good. And 9 is phenomenal. 
+W / STR
+
+Most units have Wounds, but remotes and TAGs have STRucture. This is simply the number of hits the unit can take before it dies.
+
+1 is the almost universal value that you’ll see on virtually every troop. 2 is reserved for heavy infantry. 3 is mostly seen on TAGs, and one or two very tough heavy infantry. 
+
+Doctors can heal Wounds, Engineers can repair STRucture. Be sure to check whether your unit has W or STR because you may be surprised!
+
+Tip: Because the default number is 1, Infinity is an incredibly lethal game and troops will die surprisingly quickly.
+S
+
+Silhouette value.
+
+Infinity uses a standardised silhouette system to determine how big troops are for line-of-sight purposes. Official rules for silhouettes are here. The troop’s silhouette size determines the size of its base and its overall volume in-game.
+
+This part of the profile isn’t a rating system – it’s just a marker of size. 1 is a tiny unit, typically a remote; 2 is the standard size of a human; 3 and 4 are short and squat models such as motorcycles or remotes; 5 indicates a big and bulky heavy infantry; and 6, 7, and 8 are reserved for huge TAGs or things like Ariadnan werewolves.
+AVA
+
+Availability. Also not a rating system. This attribute tells you how many troops of that type you can include in your list.
+
+Total means you may include however many you wish, whilst 1 indicates that you can only field a single model. 
+
+If a profile has an AVA of 0 it means that you cannot add that profile to your list; it comes attached to something else. For example, the Auxbot in the above example comes with the Auxilia and cannot be taken alone. 
+
+We’ll cover rolling dice and how this corresponds to Attribute scores in a separate article.
+Equipment and Skills
+
+Most special skills and pieces of equipment are listed below the main attributes. You can see this on the Auxbot, with its special skills ‘Courage’ etc., which I have provided above. The Auxilia has no special skills. 
+
+We will not be going into detail about special skills because there’s far too many to cover here. The important thing to remember is that these are supplemental abilities troops have that make them more powerful. They might have abilities which make them harder to hit, move silently, or do more damage with their weapons.
+
+The infinity wiki contains information about all of them, so if you’re curious you can easily look up the details for any skill. This applies to weapons and equipment too. Simply click on the relevant skill in the army builder and you’ll be taken to the appropriate wiki page!
+Infinity Wiki
+
+Some special skills and pieces of equipment are unique to specific troop profiles. You can see this in the example below with the Auxilia that has ‘Forward Observer’ written next to its name. This indicates that it has the forward observer skill, whilst the others don’t. Likewise, one of the Auxilia profiles can be a Lieutenant, whilst the others can’t. 
+Weapons, and Extra Equipment
+
+Most troops have multiple weapon loadouts. You can see from the image above that the Auxilia has three different loadout choices. As highlighted in the Equipment and Skills section above, one difference between each profile is that they possess different skills. The middle Auxilia profile is a Forward Observer, whilst the other two are not. 
+
+However, another difference is often the weapons and equipment they have available. For example, the middle Auxilia possesses a Flash Pulse and Deployable Repeater, whereas the other two versions do not. 
+
+All Auxilia also possess a Combi Rifle, an Auxbot (the little remote that follows it around and has its own attribute scores), a Pistol, and a CC weapon.
+
+Weapon statistics will be covered in the next article.
+
+For now it’s important to bear in mind that armaments are given in the middle of the troop’s profile, and each troop can have access to multiple different loadouts. 
+Cost
+
+Cost is the last, but arguably most important aspect of any profile. It is measured in two ways: SWC (Special Weapons Cost)  and C (points). 
+
+Most Infinity games are played at 300 points. This means that if you want to fit 10 regular orders into your list then your average troop cost should be around 30, which is a good guideline to bear in mind when you look at a profile. 
+
+Costs, as a very general guideline, can broadly be thought of in the following way:
+0-15 points
+
+Cheap troops that lack the best skills and equipment. Usually an individual might include a couple of these troops just to provide regular orders, which other units can use, or to provide some light resistance to the enemy.
+20-35 points
+
+Moderately expensive troops that might have access to one or two specialised pieces of gear. Most lists will run a good number of these kinds of troops to form the main bulk of the force.
+40-55 points
+
+This is the realm where troops begin to feel quite expensive. At this cost the unit is usually offering two or three powerful features. It might have a good weapon and high armour, for example. Or it might be good in close combat, and at shooting. Most lists run one or two of these units. 
+60+ points
+
+Units at this price bracket are usually absolutely exceptional in one or two ways and feature at least decent attributes across the board. They could have multiple wounds, high armour, and a good gun. Or they might be a very talented hacker that’s also hard to hit. Most lists will only run one of these troops, if they take any. Some lists can squeeze in two, but they tend to then have to take lots and lots of very cheap troops in order to have a good number of orders.

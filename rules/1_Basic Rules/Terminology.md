@@ -1,0 +1,86 @@
+# Terminology
+
+Game States and Glossary
+
+This set of rules features a collection of terms which refer to very specific game element that help to clarify the extent of the rules.
+
+## Contents
+
+- 1 Attributes
+
+- 2 Deployable Equipment
+
+- 3 Deployable Weapon
+
+- 4 Marker
+
+- 5 Model
+
+- 6 Peripheral
+
+- 7 Scenery Element
+
+- 8 State Token
+
+- 9 Target
+
+- 10 Token
+
+- 11 Trooper
+
+- 12 Unit Profile
+
+- 13 Victory Points
+
+### Attributes
+
+Attributes are a series of numeric values that describe a Trooper's or game element's basic capabilities. In game terms, these are used to make Rolls and calculate the success or failure of attempted actions.
+
+### Deployable Equipment
+
+Game element with Attributes, which belongs to the Army List of any of the players and is capable of performing a Special Skill or Trait. This element may also be designated as a target and receive Attacks.
+
+### Deployable Weapon
+
+Game element with Attributes that may belong to the Army List of a player and is capable of performing and receiving Attacks.
+
+### Marker
+
+Game element with Attributes represented on the table with a Marker as specified by a Special Skill, Weapon or Equipment.
+
+### Model
+
+Game element with Attributes represented on the table by a miniature.
+
+### Peripheral
+
+Special category of Trooper that is unable to contribute or spend Orders by itself and, therefore, takes no space in the Army List. It is activated when its Controller, the Trooper on which it depends, spends an Order, replicating their actions. The Cost of a Peripheral is shown in its own Troop Profile but is also added to its Controller's Cost.
+
+### Scenery Element
+
+Game element that recreates the scenarios and serves as a prop on the game table. On certain occasions, they may have Attributes or become a valid target.
+
+### State Token
+
+Game element that indicates the effect of a rule, Skill, or State, as a reminder for the player.
+
+### Target
+
+Game element capable of being targeted by Attacks and effects from Skills or Equipment.
+
+### Token
+
+Game element that represents a piece of Deployable Equipment or a Deployable Weapon.
+
+### Trooper
+
+Game element with Attributes which belongs to the Army List of any player, able to contribute and spend Orders, as well as declaring and receiving Attacks.
+
+### Unit Profile
+
+Represents the set of Troopers that form each Unit in Infinity. Indicates the numerical values that determine each Trooper's Attributes. The Unit Profile also indicates the Characteristics, Special Skills, Equipment, and Armor of each Trooper.
+
+### Victory Points
+
+The combined Cost of the player's Troopers who are in a non- Null state.
+

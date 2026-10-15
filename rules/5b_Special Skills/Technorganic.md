@@ -1,0 +1,21 @@
+# Technorganic
+
+Special Skills
+ AUTOMATIC SKILL
+Optional 
+
+This Special Skill indicates the possession of hybrid self-repairing equipment that can be treated by both combat medics and field engineers.
+
+- The Trooper is in Unconscious State.
+
+- The Unconscious State of the Trooper can be cancelled by using either the Doctor or Engineer Skill, or the MediKit or GizmoKit pieces of Equipment, regardless of whether they have the VITA or STR Attribute.
+
+- This Special Skill remains active even when its owner is in a Null State.
+
+A Trooper with a STR Attribute of 2 and the Technorganic Skill has received two Wounds and is in Unconscious State.
+
+If a Trooper with the Doctor Special Skill reaches Silhouette contact, they could use Doctor to cancel the target's Unconscious State and remove one of the target's Wounds, even though their target lacks the VITA Attribute.
+
+If the Trooper reaching Silhouette contact has the Engineer Special Skill instead of Doctor, they could use Engineer to remove one of the target's Wounds and cancel their Unconscious State, and in a subsequent Order remove the remaining Wound, as is usual for targets with the STR Attribute.
+
+If the Trooper in Unconscious State has a VITA Attribute of 2 instead of the STR Attribute, receives a successful hit from a GizmoKit and passes the corresponding roll, they remove a Wound and therefore cancel their Unconscious State. However, a new successful hit from a GizmoKit―succeeding the corresponding roll―would have no effect, as the Trooper lacks the STR Attribute, and Technorganic requires the Trooper to be in Unconscious State.

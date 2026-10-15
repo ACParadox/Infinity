@@ -1,0 +1,228 @@
+
+Infinity the Academy – List Building for a Mission
+2025-02-16
+WiseKensai
+
+Written by WiseKensai in the N4 era.
+
+By the end of this article, we hope to have taken you through the thought processes one might use to build a list for a mission, with the intent of playing at a reasonably competitive level at a game night or tournament. When we say thought processes, we mean the kind of questions and design decisions you might make to evaluate a mission and craft a list to meet its requirements.
+
+However, we also want to be clear about what this article is not:
+
+    A Collection of Netlists – We find lists in isolation a little, well, useless. Reading a list without any further context doesn’t answer any of the important questions:
+        How is each part of the list used? 
+        Which matchups was the list designed for? 
+        What kind of tables was it designed for? 
+        Which missions is it supposed to achieve? 
+
+These questions and their answers should be well understood when evaluating a list, and therefore a list on its own is of limited use. 
+
+    Recommendations for Profiles – Your valuation of various profiles and equipment/weapon loadouts will differ from ours. You might even use the same unit in a vastly different way to us, so we’re going to refrain from recommending specific profiles. We might use some as examples though.
+    Dictated Strategies for Missions – Your preferred strategy for a mission might differ from ours, so dictating, “you should do this” is not helpful. We will give example strategies for the sake of discussion.
+
+Breaking Down Mission Scoring
+
+The first question to answer when looking at a mission is not “what profiles should I take” or even “what faction should I play?” The question you should be asking is “what defines success?” or “how do I win?”. In Infinity terms, this translates to “how do I score maximum Objective Points while denying my opponent Objective Points?”. 
+
+Let’s take a step back here. In the Infinity Tournament System (ITS) Season 13, you can score a maximum of 10 Objective Points for each mission. Objective points are essentially a measure of how well you did in the mission. They’re awarded for meeting certain requirements such as killing opposing troops or interacting with scenery elements. You want to maximise them for yourself, and minimise them for your opponent. 
+
+If you’re playing in a tournament, success is also measured by Tournament Points, of which you can score a maximum of five. Here’s the breakdown of Tournament Points:
+
+To get to five Tournament Points, you want to:
+
+    Have more Objective Points than your opponent at the end of the mission. 
+    Have a total of at least five Objective Points. 
+
+If things have gone very wrong for you, and you’re looking at a tie or a loss, there are still ways to score up to three Tournament Points in the event of a tie, or two in the event of a loss.
+
+In all cases, win, tie, or loss, scoring the maximum possible Objective Points will score you the maximum possible Tournament Points for your situation. So, let’s look at how Objective Points are earned. We can loosely classify mission objectives into a few archetypes:
+
+    Push Buttons – You need to get particular troopers to an objective to activate or otherwise interact with it, usually by passing some sort of WIP roll. This is colloquially referred to as “pushing the button” or “touching the butt(on)”. Some missions give specialist-specific bonuses when trying to press buttons.
+    Killing Something – You might have to go after a particular enemy unit, high value target (HVT), or some sort of enemy-defended objective that you have to destroy.
+    Defending Something – If your opponent is trying to kill something, and that gets them points, you should try to deny them those points by defending it. Your opponent might also need to push a button, so you should try to prevent them from doing that. beOften you’ll need to guard an area, a troop, or an objective.
+    Being Somewhere – Some missions require you to have troopers in a particular area to score points. In other missions you need to avoid a specific area (e.g. Biotechvore and Panic Room). Missions like those have dangerous areas that will kill your troopers if you’re not careful!
+    Classifieds – Classified objectives come from a deck of cards and generally are a mix of the above objective types we’ve already discussed. You’ll often see one or two classifieds added to missions.
+
+To sum up, we know that:
+
+    We need to complete mission objectives to score Objective Points. 
+    Mission objectives usually consist of pushing buttons, killing things, defending things, or being in certain areas of the board. 
+    The more Objective Points we get, the better we do. 
+    In the case of a tournament we’ll also be awarded Tournament Points, based on our performance. (Performance means how many Objective Points we have and whether we have more, the same, or less Objective Points than our opponent). 
+
+That’s all of the background information about scoring. Now let’s look at a specific mission example:
+Supremacy
+
+Supremacy has an average level of complexity, and is therefore a good first example. Let’s look at the battlefield (screen shot from ITS 13 PDF):
+
+This picture shows three table setups. Each represents a different table size, according to the points level of the game. 150 P means 150 points, 200 P / 250 P means 200 / 250 points, etc. 
+
+We can see that there are four quadrants on the battlefield, outside of each player’s deployment zone. Each quadrant has a single Console in the middle, represented by a green circle. The mission’s objectives are the following (also from the ITS 13 PDF):
+
+Succeeding at Supremacy requires exactly that – map supremacy. In order to score highly, you have to do most of the objective types we discussed earlier:
+
+    Push Buttons – You have to WIP roll as many consoles as you can (max of 3).
+    Be Somewhere – You want to have more points worth of models in more quadrants than your opponent.
+    Defend Something – You want to defend quadrants as well as consoles, to prevent your opponent from scoring points.
+    Classified – There’s even a classified objective to think about!
+
+On top of these objectives, you’ll almost certainly be killing some of your opponent’s models, but you don’t explicitly get points for that. The reason for this is because it helps you secure quadrants and keep your opponent out. 
+The Road To Victory
+
+So how do you win at Supremacy? Well, there are two major ways of getting points:
+
+    Hacking consoles
+    Securing Quadrants
+
+Yes, there is a third objective ﹘ the classified objective ﹘but it only offers up one point. Typically you’ll get that point by Securing the HVT. (Having one of your troops within 8” of the opponent’s HVT). You can probably ignore the classified objective in this mission reasonably safely, as it will likely be a tiebreaker point and there are some mutually exclusive points on the table. More on that in a second.
+
+Let’s start with the first objective: hacking the consoles. There are four consoles, and you get points for hacking up to three of them. You and your opponent can both do this, even to the same three consoles, and both of you will get the points. This means you can’t deny your opponent the ability to get these points (at least in ITS13), but you can make it more difficult for them by defending the consoles or killing their specialists.
+
+In contrast, the scoring for the second objective, having more quadrants, is mutually exclusive! If you hold more quadrants than your opponent then they lose the ability to score two points and you gain two points! Which can be thought of as a four point swing (two more for you, two less for them)! So if you want to get the most efficiency out of your actions in the game, you should be trying to have more quadrants, as that gains you points and denies your opponent points.
+
+Okay, that sounds good. How do we do that? Well, the definition of “dominating a quadrant” is having more points worth of models/tokens in that quadrant than your opponent at the end of a round. You can put points in a quadrant either by starting there in deployment, or moving a model/marker in by spending orders. This brings us onto the next section: picking a strategy.
+Picking a Strategy
+
+How we go about achieving victory is often as important as the victory itself. We play these games because they allow us to express ourselves on the table and watch a narrative unfold that we helped create. It’s often more impactful to play with familiar units that you’ve mastered over units that are “numerically best”. A well played model with weaker stats will win more games than a poorly played model with stronger stats. And an “inefficient” choice you’ve practiced with for hundreds of games will probably take you further than an “efficient” choice you’ve never played before.
+
+Going back to Supremacy, if we take a very reductionist view, the tactical problem of the mission can be summarized as follows, in priority order.
+
+    Efficiently move points into quadrants to dominate them by out-pointing the opponent through positioning, direct application of force, or area denial.
+    Efficiently hack the consoles while preventing your opponent from doing the same.
+    Efficiently achieve your classified objective.
+
+The key word here is “efficiently.” Infinity is a game of resource management, so you’ll want to carefully shepherd your usage of orders and models to make sure that you’re achieving the mission objectives quickly. There are lots of ways to approach this, of course: 
+Infiltrating Skirmishers
+
+If a model has the Infiltration, Impersonation, or the Forward Deployment skill, it can start the game outside its own deployment zone. This means it could be in a quadrant from the beginning, ready to score points! Now of course, these skills aren’t free, but guess what, that’s a good thing! You want to have more points in quadrants, so having expensive models starting in them from the beginning is a great strategy!
+
+Of course, that’s not the only thing you want to do. You’re trying to win the tournament, which means maximizing Tournament Points (TP), which means maximizing Objective Points (OP). Even though hacking the consoles isn’t a mutually exclusive source of points between you and your opponent, you still want to do that to maximize your score. 
+
+Well, we can think about upgrading our infiltrating/forward deploying/impersonating models to be specialists! This means our models will be able to hack the consoles, in order to score more OP, and upgrading them to specialists will cost points, which in turn means that we’ll have more expensive models in the quadrants from turn one. This could be a great synergy!
+
+However, expensive units that start the game in the middle of the table present a vulnerability in your list! If you take a small number of very expensive models with forward-deployment skills, you can certainly dominate a quadrant, but if you lose a model to enemy fire, it will be much harder to replace. 
+
+In other words, points density is both good and bad – you can efficiently move points into a quadrant, but your opponent can just as easily remove points from a quadrant. Furthermore the closer you start to your opponent, the closer you are to danger. So whilst you’re saving orders on movement because your troops start further forward, your opponent is saving orders on moving towards them too! 
+
+On balance, specialists with infiltration, forward-deployment, or impersonation can be very strong in Supremacy, but your opponent can exploit your reliance on them to damage your strategy. If you want a strategy that places troops in the scoring zones from turn one then this is a good option, but it’s not without its problems. 
+TAGs and Heavy Infantry
+
+Another potential strategy is to lean into lots of big, destructive, expensive models such as heavy infantry or TAGs. The upside of these powerful troops is they usually cost lots of points. This is great in Supremacy because it means you can potentially take a quadrant away from your opponent just by moving one model into it. The downsides of these troops are they usually start in your deployment zone, so you will need to spend orders moving them up, and they do present big targets to your opponent. 
+
+These models usually pack some awesome weapons too. So not only could you get a high-points-value model into a zone, but you could also blast away your opponent at the same time, which obviously means they’ll have fewer points in quadrants! That’s an amazing two-for-one deal. 
+
+The other advantage of playing aggressively with these units is they could be effective reactive pieces as well. Some kind of resilient TAG in suppressive fire is going to be seriously difficult for your opponent to remove or move past. It might therefore discourage your opponent from walking troops into the zone in the first place, thus handing you a convincing win.  
+
+However, as we discussed above, running a small number of very expensive models is both a good and bad strategy. Whilst it makes it easier for you to quickly take over quadrants, it also makes it easier for your opponent to quickly take quadrants away from you (by killing your one expensive model). Another weakness of these heavier and more expensive units is that they tend to be hackable. 
+
+Vulnerability to hacking renders them more susceptible to your opponent’s zone control defences such as repeaters and hackers. A unit that’s vulnerable to hacking stands a chance of being isolated or immobilized on top of just dying to normal weaponry, so it opens up another angle of attack for your opponent to exploit. 
+
+If you want a strategy that centers around heavy usage of big, expensive models then this is a good option. It’s a very order efficient choice because a single expensive model could flip a zone from your opponent’s control to your own control. But heavy infantry and TAGs are often hackable, and your opponent could exploit this to stop you in your tracks. Again, a viable strategy, but not flawless.
+Airborne Deployment and Hidden Deployment
+
+A third possibility is to rely on troops that don’t start the game deployed on the table in a conventional way. Airborne Deployment and Hidden Deployment are two features that allow you to do this. Airborne Deployment is a label applied to skills that allow the troop to land on the board during later turns. Hidden Deployment is a skill that allows the user to suddenly pop up and appear as a troop or marker during the game, without the opponent having any idea they were on the board beforehand. 
+
+Why would we want this? Well both skills offer surprise and protection. Surprise is useful because it enables us to suddenly snatch away a zone from our opponent and make it ours. We might do this by using a troop with the Parachutist skill, and landing them in a zone that our opponent thought they had safely secured. Protection is great because it allows our scoring troops to be safe until we really need them. Our opponent cannot kill a Hidden Deployed or Airborne Deployed troop until they appear on the field! 
+
+Another critical advantage of Airborne or Hidden troops is they offer a lot of flexibility in strategy and timing. For example, if your opponent pushes very hard into a certain quadrant on the second turn, you could choose to have your Airborne troop appear in a different quadrant to quickly secure it. Obviously normal troops can do this too – but they might need to dodge AROs on the way over. An Airborne troop can just land straight there! 
+
+Conversely, if a Hidden Deployment troop is in a quadrant surrounded by enemies you might choose to stay hidden to avoid being shot. This is great because it gives you loads of choice about when you reveal your troop, and what you do once you’re on the board. When it comes to strategy you could choose to play your Hidden or Airborne troops very passively or actively. By passively we mean appearing in a quadrant and merely sitting there as a source of points in order to secure that objective. Active use might include appearing behind enemies and shooting them in the back, in order to take them out of quadrants, which is a really powerful play!
+
+However there is one critical issue with this strategy. Troops that are not on the board do not generate orders! This is a massive downside because it means that the longer you keep those troops hidden, the more orders you lose. If you choose three troops that are either Airborne or have Hidden Deployment and you don’t deploy them until the third turn then you’d lose two turns worth of orders for each of them – that’s six orders total. 
+
+The consequence of this is that the rest of your list might be a bit less efficient because you lack orders. Another issue is that if your opponent sees you are low on orders at the beginning of the game, they might suspect that you’ve taken Airborne or Hidden troops. They could then start covering your likely angles of attack – which removes one of the biggest advantages of the strategy! 
+
+If you want to play with troops that offer both surprise and flexibility in timing then both Airborne and Hidden Deployment can do this for you. In Supremacy the idea is to suddenly appear and take quadrants away from your opponent at the last minute. However be aware, that as with all the other strategies there are downsides. Both Hidden Deployment and Airborne Deployment cost you orders until the troop appears on the table, and your strategy could be pre-empted by your opponent rendering it far less effective.
+Final Thoughts: Supremacy
+
+In the context of winning Supremacy the mission, we think the “best” list is the one which you feel the most confident in your ability to solve the tactical puzzle. For some it may be a list that goes heavy on Camouflage and Infiltration, which allows your whole army to start outside the deployment zone. For others, it may be a fireteam heavy list in which nearly everything starts in the deployment zone but is able to move forward and kill anything in their way. This allows them to dominate quadrants by removing models, which also removes opposition to their button pushing efforts. 
+
+Others will opt for Hidden Deployment or Airborne Deployment troopers, hiding points off the table until the last possible moment in order to deny their opponent the opportunity to strike back. This is risky in a round-by-round scoring mission, but certainly possible. The bottom line here is that there are many paths to victory, but you can reduce any mission to a set of key puzzles to solve. If your list can solve those puzzles in a way that you like and are comfortable with then you’re more likely to actually be able to do it under stress in a tournament.
+
+It’s at this point that we should show example Supremacy lists, and explain not just why things are in it, but also how we pilot them. While writing this, we went back and forth on whether or not we should do that, because one of the core points is that our lists might not make sense to you. Lists are specific to not just the person playing them, but their usual tables, typical matchups, and favored rivals. 
+
+The way we solve the Supremacy puzzle may involve unit profiles you don’t like or that don’t fit your playstyle. We think that’s really what keeps us all playing this game years later – it’s one of the most expressive wargames we’ve ever played. You can play it the way you want to and be just as successful doing it as someone with whom you disagree on almost everything in terms of unit evaluation and playstyle.
+
+So let us compromise here. Here’s a link to every game of Supremacy WiseKensai has played, from 2015 onwards.
+Supremacy Battle Reports
+
+The battle reports (generally) have not only the list, but also a discussion of the list, and a play-by-play of how things happened on the table. We think that seeing the entirety of the context of a list is the only real way to fully understand it, short of playing it yourself.
+Unmasking
+
+We spent quite a long time exploring Supremacy, so let’s go through Unmasking more quickly. All of the following information is taken from the ITS13 mission pack. First of all the table layout:
+
+Here we have our three different table layouts for 150 points, 200 / 250 points, and 300 / 400 points. The most important thing to notice is the Exclusion Zone, represented by the red area. An Exclusion Zone is very simple – nothing with Forward Deployment / Impersonation / Infiltration / Airborne Deployment can deploy there. This essentially means that troops with those skills lose some value in this mission. They don’t become useless because, as you might have noticed, there is a small strip of the board in-between the deployment zones and the Exclusion Zone that troops can deploy in. Nevertheless, some flexibility is lost. We can also see there are three consoles in this mission, represented by green dots. 
+
+In terms of mission objectives we have:
+
+The objectives for Unmasking sound very complicated, so let’s reframe them in an easier to understand way: 
+
+    During the deployment step both you and your opponent place three neutral High Value Targets (for six in total). For each player two of these models are Decoys, and one is the Designated Target. These models don’t do anything and you can’t spend orders on them. They only ARO if they’re shot at. That’s it. They’re basically just civilians. 
+    During the mission you need to use specialist troops to press buttons on the consoles (using a WIP roll). Once you have done this you can Reveal one of the opponent’s neutral models. What this means is you select one and ask your opponent, “Is that a decoy or the real target?” to which your opponent has to answer. After you have done this you can then go and kill that model regardless of whether it is a target or a decoy, but you score significantly more points if it is the real Designated Target. 
+
+We can break this down to:
+
+    Push buttons: you need specialists to interact with the three consoles.
+    Kill something: you need to kill the opponent’s decoys and target.
+    Defend something: you need to keep your own decoys and target alive.
+
+The Road To Victory
+
+Points in Unmasking are awarded for the following objectives, in order of importance:
+
+    Killing enemy targets (6 points if you kill all of them, and more than your opponent)
+    Keeping your targets alive (2 points)
+    Activating consoles (2 points)
+
+Killing enemy targets is the most impactful thing we can do in this mission for two reasons. Firstly, it awards us a huge number of points for doing so. In fact, six whole objective points are available for killing all the decoys, killing more decoys, and killing the correct target. Secondly, it denies our opponent two points if their Designated Target is not alive at the end. That’s an eight point differential! However, denying your opponent two points isn’t necessarily enough to win the mission on its own, so there’s more to be done!
+
+Keeping your own targets alive is the second most essential objective. The reason that we did not place this objective in the top spot is because it does not award too many objective points. In fact, you only score two points if your Designated Target is alive at the end. It’s not nothing, but it’s not a lot either. So why is it so important? Simply because it denies your opponent a very large number of points. In the last paragraph we wrote about how you get six points for killing all the targets, and killing more than your opponent. Well, we have the power to take those points away from our opponent by keeping our own targets safe! So this is a crucial objective to consider.
+
+Finally we have pressing buttons. Pressing buttons is important to the mission because we can only kill targets once we have revealed them through interacting with a console. But aside from that aspect we do not score too many points for completing this action, and we cannot deny our opponent too many points by stopping them from doing this either. We might want to consider prioritising this objective because if our opponent cannot press the buttons then they cannot reveal our targets and therefore they are not allowed to kill our targets. But this is tricky to do because remember Unmasking has an Exclusion Zone so we cannot deploy near to the consoles. 
+
+All in all we probably want to be killing enemy targets and protecting our own. So let’s have a think about how we might choose to do that. 
+Picking A Strategy
+
+So we want to press buttons in order to identify enemy targets and then kill those targets. And we also want to protect our own. That’s all the mission entails. The question comes down to how we can do that efficiently. Efficiency here means doing all of these actions with as few orders as possible, and the highest chance of success possible. Let’s have a look at some strategic possibilities:
+Camouflage and Impersonation
+
+Skills that grant marker states such as Camouflage and Impersonation are extremely powerful in a variety of missions. The key advantage given by being in a marker state is that the opponent cannot declare attacks against a marker – they need to Discover it first, with a WIP roll. This gives troops with Camouflage some leeway to move around the board safely, before they can be targeted. In a mission like Unmasking this is absolutely perfect. 
+
+We know that we need to pass through a dangerous Exclusion Zone in order to reach the opponent’s targets and we can bet that we’re going to have to face some ARO pieces on the way. Marker states such as Camouflage or Impersonation allow us to walk safely past, without being shot. Phew. 
+
+Another advantage of marker state troops is that they give your opponent difficult decisions when it comes to declaring AROs, and in some situations troops in a marker state can get unopposed shots. If you’re not sure how marker states such as Camouflage work then you can check out this article here. The short-version is that when your opponent declares an ARO against a marker they can Dodge, Discover, or Delay. 
+
+Delay allows the opponent to shoot your marker if it reveals itself (perhaps by shooting), but the Delay leads to nothing if your marker does not reveal. This gives you, the user or the Camouflage marker, a lot of power. If the opponent declares a Discover then you can take some shots that are unopposed! If your opponent declares a Delay then you might want to keep on walking, safe in the knowledge that they lose the ARO if you don’t reveal. In this way you can really exploit your opponent’s defensive setup with a marker troop. 
+
+There’s a downside to markers, as with any strategy. Camouflage and Impersonation cost a lot of points, and these skills are most often found on squishy, defensively poor troops. It’s very common for a Camouflage or Impersonation troop to be around 20 to 30 troops and only offer 1ARM and 1 wound. That’s not a lot of defensive potential for the points you’re paying! Now of course the marker state is fantastic defence in itself. But if you are revealed then you could be in very big trouble! Watch out for this because a Camouflage heavy strategy will not stand up to a determined assault.
+
+If you want to know more, you can always look at our article on Camouflage:
+Hacking, Mines, and Other Deployables
+
+What about defending our own targets? Well we have the obvious option of setting up ARO pieces as normal. That’s straightforward. But another option we have is to use zone control abilities such as mines or hacking. These are great defensive abilities because they allow us to protect areas of the board without putting our troops into Line of Fire. Mines are disposable assets that can threaten an area, but are completely expendable. 
+
+You won’t lose an order if they die. Similarly hackers can threaten enemy targets without needing to see them. So they could hide safely behind a wall whilst still protecting a target. We refer to hacking and mines as zone control because they don’t cover large areas of the board – they’re localised effects. However, despite this downside they’re well-loved by many players because they allow you to threaten your opponent without much risk to your own force. Perfect for protecting your HVTs!
+
+However there are downsides to the use of deployable weapons and hacking too. In the case of deployables, they’re always single use, which means that a lucky opponent might be able to avoid the initial threat and then walk on past, unscathed. In the case of hacking, we need to be mindful that many troops just can’t be hacked. So it doesn’t even work in many situations! Therefore, whilst deployables and hacking are very safe ways to protect areas of the board, they’re also very limited in terms of what they can achieve against certain enemies. 
+
+For more info on Hacking, you can check out our article on that too!
+Final Thoughts: Unmasking
+
+Unmasking is a mission that’s about moving around the board, killing your opponent’s targets, and protecting your own. This leaves tremendous scope for you to figure out a strategy that works for you because it’s a very broad mission. The two strategies we mentioned here (using marker states to safely traverse the board, and using hackers or deployables to protect your targets) might be perfect for you. Or you may decide that they’re not your style and you’re going to go for something else. 
+
+Perhaps Airborne Deployment to sneakily land near the opponent’s target, once you’ve revealed it? Maybe a TAG to stroll in guns blazing? Aggression is very open ended in Infinity – there are lots of ways to maneuver around – or through – your opponent. The same goes for defensive threats too. You may want to put up very traditional reactive threats such as snipers. Or you may want to be more subtle with deployable equipment. 
+
+One final note on the Exclusion Zone. Nothing can deploy in there, so should skew your evaluation of particular units. Perhaps high-movement options like troops mounted on motorcycles or even the humble Messenger bots (FO bots) may be appealing!
+
+As with the last mission we explored, here is a link to all of WiseKensai’s battle reports that feature Unmasking.
+Unmasking Battle Reports
+
+Hopefully these complete rundowns of lists and strategy can provide more information.
+Conclusion
+
+The most critical aspects of building a list for a mission are:
+
+    Reading the objectives
+    Understanding what it takes to achieve the objectives (do I need to kill things, defend things, use specialists to press buttons, or secure a zone?) 
+    Deciding how you want to achieve the objectives
+    Searching the army builder for troops that have skills which fit your playstyle

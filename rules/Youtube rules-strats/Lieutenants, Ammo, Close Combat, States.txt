@@ -1,0 +1,497 @@
+So, it's time to shoot, stab, get bossed around, and generally get ourselves into a state. Let's learn some more infinity.
+Welcome to learn to play Infinity N5 from the Infinity Institute from the Dice God Squads. My name is Hydra and
+today we are filling in some gaps. It's going to be time to look at different weaponry, ammunition, lieutenants. one
+of the cornerstones of any good force, close combat and some of the states that
+you can get yourself in. This is kind of filling in some of the gaps of bits that we've missed in previous videos through
+design really so that you didn't get too massively overwhelmed and um swamped in stuff, but hopefully by this point you
+should be playing the game well. You should have a good idea of the core mechanics and the processes involved. So, it's really time to start filling in
+those gaps and giving you even more toys to chuck at each other across the board. Before we do that, thank you as ever to
+channel members and patreons, including Shan Coburn, Elan Rogers, Chaos Discordia, Rick Rolf, Chris Ston, Riker
+Sex, which is how I'm saying your name, and Cass, the incredibly helpful individual who helped me with the polite
+nudge to sort out the Discord channel. That's right. Em's got a Discord channel as well. Aren't they lucky? If you want
+to support what we're doing here and all the stuff that is yet to come from the Infinity Institute, then please do consider signing up. Less than a cup of
+coffee helps a lot and this video will be longer for members. But with all that
+said, let's get into what you're really here for, which is all the good stuff that helps you do more damage to the
+enemy. Let's get into it. Okay, then folks, let's fill in those gaps. We are
+going to look at a lot today. So, as ever, snacks, drinks, get comfy. Here we go. We have got weapons, ammunition,
+templates, equipment. We're not going to do all the equipment. We're going to cherrypick some of that, hence common
+equipment. Close combat, martial arts, other CC skills, which is very important. Different types of order
+because they're not all the same. Uh, lieutenants. I'm British, English is lieutenant. Sorry, American friends. Um,
+and states, which again, we're going to do some of, not all of because there are loads. Um, and I don't want to be here
+all year to an extent. We're going to cover off some of the most important ones for things like equipment and
+states. The rest are in the rule book. And to be honest with you, when we've covered a few more bits and pieces with
+this video and with the next, you should feel comfortable and confident enough to read those, make sense of them, and be
+able to apply them yourself. But we shall see. And as ever, questions in the comments if not.
+So, weapons, there is more to life than just combi rifles. You may not believe it, but it is true.
+So, we've got all the things you'd expect in a war game. Shotguns, sniper rifles,
+missile launchers, rocket launchers, rail guns. It's all here. It's
+fantastic. And they are some some of these weapons are variations on a theme. So, if we look at a Spitfire and look at
+a Red Fury side by side, they have the same range bands. They have the same burst. They have a different potential
+for survival. Technically, the Red Fury hits softer. Um, but the Red Fury does have an ammunition type. So,
+some weapons you'll look at and you'll think, "Oh, hang on. This is this weapon but with this." And it's one
+of the joys of Infinity. When you have learned your weapons for a faction,
+those weapons will be the same in other factions. And you'll find common denominators as well, common themes like
+the Spitfire and the Red Fury here. It does mean that the more experience you get, the easier the game becomes because
+if you've seen one missile launcher, you've seen them. If you've seen one rocket launcher, you've seen seen a panzaf is a panzer fou.
+These things are standardized, which makes the game that a little bit more accessible and a little bit easier to learn. There are
+key different types of weapons. However, they include standard which you've been using combies, shotguns, and HMGs and
+Spitfires. Close combat weapons, technical weapons, and thrown deployable weapons. Predominantly, your main
+differences there are your range bands, your burst, your damage, and your ammo. It's kind of the differentiator between
+those things. Although technical is a bit of a weird and wonderful one, and we will get to that in a second.
+So standard weapons as you expect shotguns, sniper rifles, missile
+launchers, pistols, combies, all this kind of thing. They can f fire different types of
+ammunition. So you will find even some like we just
+spoke about a second ago, a red fury is a Spitfire, a weaker Spitfire but with shock ammunition.
+Some offer a multi option which gives them different types of ammo that you can choose from when you fire that
+weapon. So when you're declaring your BS attack, you put in I want to use this ammo type. So for example, um you might
+find that it has AP, which is armor piercing, which is good for taking down heavily armored targets, and shock. So
+you can choose to use shock, which ignores the unconscious state. It takes things straight to dead so they can't be
+doctorred back to life. or you crack the armor open. When you take that shot, you
+choose which one you use, and it's it gives the the weapon a bit more flexibility, a bit more utility than it
+would otherwise have. And there are disposable weapons, things like the aforementioned Panzer Foust, which when
+you have fired it twice, it goes in the bin. So, standard weapons covers most of
+what you'll see in the game, aside from close combat weapons, which is all the unpleasantness of stabby stabby pokey
+pokey up close. Um there are ammunition types in here. So there are again armor piercing and there are things that just
+glue you in place and all this kind of stuff. Then we have technical weapons.
+These tend to put you in a particular state. So we spoke about the isolated
+state previously which is where your trooper is knocked out of their combat group, put into a combat group on their own. They can't use other people's
+orders. They can't use um other people can't use their order. There's all kinds of unpleasantness to isolated
+There are weapons or jammers which put you into that state. They don't take a wound off. They don't do any damage to
+you other than knocking you clean out of your combat group. So there are technical weapons in this uh
+electromagnetic weapons um adhesive weapons that glue you to the floor, stun weapons, all this kind of stuff. Then we
+have thrown deployable weapons. So that's mines which you've seen before. It's also to an extent repeaters. They
+are not technically a weapon but they do do the deployable. Then we have crazy
+koalas and stuff like that. So, let's look a little bit closer at those because they're a little bit there's a
+little bit of variety in there. Throwing weapons, grenades, and drop bears, which is a thrown mine. They come
+in a variety of different flavors. And you complete the BS attack using the PH stat. So, you use your physique to throw
+a grenade. Not rocket science, but important to note. there tends to be
+much shorter range, a normal grenade, a normal thrown grenade, than a combi
+rifle or even a grenade launcher, which is an option inside the game. And if you're actually just tossing a grenade, you're throwing it out there. PH stat
+mines and deployables, they are deployed with the place deployable common skill.
+This is another skill that you can use and you place them in baseto- base contact with your trooper. Mines go down
+as a camo marker with a minus three mod. So a effectively minus three mimatism to
+discover them. And the these are one of the options.
+Mines are one of the options that is limited. So you tend to get three mines on a trooper. If you're doing a
+deployable, it's often two, I think, from memory. How often I use deployable
+repeaters, but you place them down in base to base. There's no role needed. Um, hopefully
+your troops are bright enough to play something at their own feet, not tread on it and make it live. The game assumes
+they are. If, however, you're putting down a weapon like a mine in the zone
+control of an enemy camo marker, you have to complete what's called an intuitive attack, which is a a modified
+whip check. So, you can't just go see like an enemy camo marker and go and box
+it in with mines. That's not one of the options. You have to make an intuitive attack which is a long skill. It's negative modifiers and it's all
+unpleasant. But if there's nothing that you can see inside of your zone of control, you can just throw out mines
+like they go out of fashion. Just put them anywhere you want. Perimeter weapons. These are deployed
+again with the place deployable common skill, but they go into the zone of control of the deploying trooper. Now
+that includes turrets, I think still it shouldn't, but it does. Um,
+but crazy qualities is the big one. So, you'll find these little bundles of fluff and happiness on things like
+Morans, um, the Ouro tag, and they you you spend the skill and this little guy
+runs out 8 in and he sits there. Great thing about this guy is
+if anyone enters his zone of control, he doesn't have to see them. He just charges at them and explodes.
+crazy koalas of filth. They're absolutely horrific and I love them for it. So, primitive weapons, you can drop
+them in your zone of control and it makes it a lot more if you're putting a mine down, you need to do it in base to
+base. If you want to put it somewhere that's slightly in harm's way, you run the risk of getting shot in the face with the privilege of putting your mind
+down. With a primitive weapon, you can hang back that little bit further and go and up they go up field and get the job
+done. So, there are a few um perimeter weapons like that in the game. I think um mad traps is another one, but that's
+a glue version of the crazy koala. Um stuff like that. And there's a parrot as well. Wild parrot, but I can't I think
+that's em. I never use them. It's an O12 thing and I haven't I haven't played O12 in a long time. So, but there are a few
+options that do that. Let's talk about ammo types because
+there are many and it's it's a bit weird. It's one of the few weird things in M5. There are certain things that are clearly ammunition which are no longer
+ammunition but definitely feel like ammunition but they're not ammunition anymore. Actually, one thing that we talk about
+in here is for example flamethrowers. Um they used to be burning or flame
+ammunition. I can't remember what it was. And that used to have effects but that's no longer a thing.
+It's still setting fire to somebody still does the same thing but it's not an ammo type. So, occasionally you'll
+find these features of Infinity that you look at and think, really? Okay, good.
+So, ammo types, what are they? Uh, different weapons do different things. They're there to do different jobs, and
+therefore they have different ammo. There are presently, and you can't see the massive quotation marks that I'm
+making here, 12 different ammo types in the game. There are more, but we're saying there's 12. Some weapons have a
+choice of ammunition, as we talked about. So, the multi-weapons, you can fire this or you can fire that. Some
+even have a combination. So, the missile launcher you see at the bottom of the screen there, um, I'm
+going to get told there a rocket launcher later. I know that. You know that. Moving on. A missile launcher can
+fire explosive ammunition or it can fire explosive plus armor-piercing ammunition. So, you can do combined
+ammunition types. Um, other weapons have an attribute, as I say, which feels like an ammo type, but
+isn't technically classified as such. Most ammo crits cause an additional save
+with the same features as the normal ammo. So, with armor piercing, as we're going to discuss in a second, that
+halves the armor of the weapon that you shoot, sorry, the trooper that you shoot. So, if they've got armor six, it
+hves it down to three. If you crit, they have to make another save at that half
+armor. The exception to this is T2. Because a normal hit from T2 causes two
+wounds. So you just fail one save and you lose two wounds, which is horrific. A crit
+you have to split out from any saves that they make and that extra crit will
+only do one wound if they fail the save. It's one of the nuances, one of the weird exceptions. So ammo types, we
+start at the top with normal, which if you fail the save, you get one save per per hit. With normal elimination, it
+targets against your arm and you lose one biter or structure for every failed save. Breaker, same, but targets BTS.
+This one's really useful because you'll find that certain heavy infantry have great armor, but rubbish BTS. So, you can use breaker to crack open those
+less technically secured and reinforced units. Armor piercing AP. It halves whatever
+your your um weapon is is damaging. So if you had um certain hacking attacks
+for example have AP ammunition so they will have the BTS
+so the biotechnical shield of the target making it less likely to make the save. So something with six armor hit by armor
+piercing would only get three armor when making a save. Again, one save per and
+one vital or structure lost per double action DA causes two saves for
+each hit and the loss of one vital or structure per failure.
+So this is quite useful. You'll sometimes find this in multi-weapons like snipers and stuff like that. You
+mostly use this in ARO because you get only one shot of the of the double
+action, but if you land it, they're making two saves. they're more likely to fail. Eclipse ammunition is not
+something you fire at someone. You fire it at the ground and it makes a big round template of infinite height which blocks line of fire, including for MSV,
+which you'll see why that's important in a minute. Creates a zero visibility zone. EM electromagnetic, you make two saves
+per hit. Half their BTS. So, this is targeting that BTS side of things. And
+if the target fails their save, they enter the isolated state. Also, if they're a tag, a heavy infantry, a
+remote, or a vehicle, they get the immobilized B state. We'll talk about immobilized in a second. Explosive or
+exp causes three saves per hit. And for each of those saves that you fail, you
+lose a wound or structure. So, explosive coupled with armor piercing is a fantastic way to take down heavy
+infantry and tags purely because volume of saves. The more saves you make something with heavy armor make, the
+more likely it is to fail. It's that old that old chestnut. Paralysis or power ammunition is
+non-lethal. Um, if you're hit with it, you make a physique minus 6. So, your
+own physique minus 6 check. If you fail, you enter the immobilized a state. So, you're kind of stuck to the spot. Shock
+ammunition. this stuff. If your target only has one viter, so it
+only has one v that it can take and it fails a saving throw, it goes straight
+to dead. Now, normally what happens is if you have one viter and you you you fail a save, you become unconscious. And
+when you're in the unconscious state, you can be revived by a doctor, by uh a
+paramedic. Some people have regeneration. Unless you're immune to shock ammunition, which some people are,
+shock will ignore that unconscious state will take you straight to dead. You're out of the game. So, it's a really good
+way of doing that sort of confirmed kill type thing. Smoke ammunition like Eclipse is something that doesn't target
+anyone or anything. You fire it in the ground and you make a nice big round template of smoke that's infinite height. The thing about smoke is if you
+have MSV, you can to an extent or in fact completely see through it. So like
+with camouflage, MSV versus smoke is deadly. And there's some really fun tricks actually with using smoke in
+combination with MSV troopers to do some of damage to the enemy. So smoke is kind of the the baby nontechnical version.
+Eclipse is the blocks line of fire for absolutely everything. There was no option. It's done.
+Stun ammunition. It puts you into the stun state. Talk about that one in a second, too. And then we have TT
+ammunition. This fun stuff. Every save that you fail takes off two viter. So,
+if you only have one viter in the first place, it will take you straight to dead. But if you're say a tag with three
+structure points and you fail a save against a T2 shot, then you lose two of
+those structure instantly. It's just not pleasant. You'll find T2 predominantly
+in Ariadna. uh is that's where the material that it's made from. I want to say Tessium, but I'm probably wrong on
+that front. Anyway, T2, got to love it. Those are the core ammo types that we
+deal with in Infinity. So, let's talk about zero visibility
+zones. In fact, let's take a look at zero vis. So, what is a zero visibility zone? It's
+an area which impacts visibility and so line of fire usually caused by smoke or
+of some type. There are other causes of visibility zones, however, and there are other
+types of visibility zone. We're going to talk about zero visibility for the time being because that's the most important thing. Troopers may not draw a line of
+fire through that zone. So, if you're trying to get your your troopers up the board and your enemy's built this wall
+of ARO pieces, you chuck a big punch of smoke in front of it, nothing they can
+do. They can't shoot you. However, if you're on the other side of a big lump of smoke, zero visibility
+zone technically, and you are the target of a BS attack either into, from, or
+through a zero vid zone, then any response except dodge gets a minus six mod. So, if somebody dackes you from
+inside of smoke because they have multisspectral visor, for example, and you shoot back, you get minus six plus
+any other mods that normally apply. So if they're camouflaged or if they're in cover or anything like that, they can stack negative mods against you up to a
+maximum of minus 12. With smoke, this mod is modified by MSV.
+You start getting up to MSV 2. It ignores this minus 6 mod completely.
+With Eclipse, this minus 6 mod is not modified even by MSV. It just it just
+nopes. You can't see through it. End of template weapons. Kaboom. Um, we either
+we have two types of template weapons in the game. You may have seen the circular and the the um teardrop shaped ones.
+Direct weapons, the teardrop shaped ones. There's two different sizes of those. And impact templates, the round
+ones. Common examples of direct is your flamethrower and the zapper. And common
+examples of impact is your missile launcher and your rocket launcher. Direct templates. You place the template
+in base to base with the attacking trooper. Any enemy touched note not covered touched by the template at any
+point in the order are hit and this can be avoided by a successful dodge. So let's go back to the touched at any
+point. So if you are active phase and you're moving a fire team, let's say across an alleyway, the entrance to an
+alleyway, they start out of line of fire, they end out of line of fire, but at the end of the alleyway, unfortunately, there is a guy with a
+flamethrower. And as you move across, he flames. If all, let's say, five members
+of your fire team move across that gap, they will all five be hit by that flamethrower. That is what templates do. Is not
+pleasant. He's not fun. It is funny if you're using them. However, a dodge, a simple dodge will avoid it.
+So, very, very potent, very, very useful. Um, but as soon as somebody makes a dodge on a one, you don't care.
+It's all done. They can make a dodge at any point. It's it's just done. So that can be the downside of direct template
+weapons. Impact template weapons are fired like a normal weapon. So you have your you pick your target that is your
+point of impact and you place your round template on that individual. Anything
+under that template is hit. So if there are other people of his side around him, they're all
+taking it. They're all taking it to the face. Basically, he'll be the main target. But all arrows are
+independently face to face with the attacker. Let's talk about what that means.
+So we're going to do um a couple of impact template examples. The first one's for everyone. The second one's for members. So let's run through this. We
+have an active phase just vast not to fire. It's doing a BS attack against a fuselier. It's using missile launcher on
+blast mode. So if you see here, we have blast mode at the top which has explosive ammunition and hit mode at the
+bottom which has armor piercing and explosive. The blast mode has circular impact
+template circular as a trait while the hit mode doesn't. So if you're firing at
+a group of guys, then you're going to use the blast mode and put that circular template down. If you're firing at a
+heavily armored trooper, then you are going to use the hit mode because that
+has got armor piercings. It's going to have the armor of your target and do the explosive three saves.
+So, we're going to use the blast mode which gives us the impact template, but we don't get the AP.
+The template as it goes down on the table doesn't just cover the fuse loot we're targeting. There's two others underneath it as well. The noctifier
+will roll one dice for the BS attack due to a burst of one and all of the
+fuselers will dodge one dice each and they are independently
+individually compared to that noctifier's role. This means that if the fuselier who is the main target succeeds
+in dodging, then because they're independent roles,
+if the noctifier is successful in its attack, even if the main target gets out of the
+way, the other two may still be hit. That is still a possibility, right? And we're back with equipment.
+Even more stuff for your stuff covered, guys. There are many, many, many, many, many,
+many, many, many, many, many different toys in Infinity, and I'd recommend you
+go off and check them all out because there's so much stuff. Don't check them all out at once. Check them out as and
+when you need them. Otherwise, you're just going to make your head hurt, and you don't want to do that. So, visors,
+we've seen MSV already. Biometric is a type of MSV, except it sees through
+impersonation, which is an ability we've not talked about. X visors improve rangebands. Um, a 360 visor lets you see
+360 degrees. That'll be important in a minute. Protection. Nano screens gives you effective cover. Deployable cover
+let you deploy a piece of cover. Um, ECM is a anti-hacking protection. Alto
+makes you harder to be seen by multisspectral visor troopers. And firewall also protects you from hacking.
+You get sneaky equipment like holo masks which let you describe disguise yourself as someone else. Hollow projector which
+lets you put down copies of yourself on the board. Then your opponent has to guess which one's the real one and shoot that and if it's not it just disappears.
+And then Bang Bong makes you a little bit sneakier at dodging out of the way of attacks.
+You get hacking kit like repeaters, deployable repeaters and fast pandas which are
+these are perimeter weapons. Fast pandas. You put them down, they run out 8 in and then they become a hacking area
+extenders. We talked about repeaters in the previous video. Fast panda is a great example of one.
+Two key bits of kit I want to talk about. The gizmo kit and the medic kit. Gizmo kit. It is a shootable
+weapon. Well, shootable bit of equipment or it can be used in baseto- base contact with a friendly unit who has
+structure and has lost a or has gained a wound. Actually, not lost a wound technically.
+If you hit the target, it makes a pH test. If that's passed, it removes a
+wound or the unconscious state. If you fail the pH test, it gains another wound. So, if it goes well, they stand
+up and everything's hecky dicky diggity brilliant. Awesome. Everyone's happy. If they fail that pH test, then they can
+potentially get even worse. You may even kill them. Medicit is exactly the same as a gizmo
+kit, but it applies to troopers with viter, not with structure. And it can only be used if the person you're you're
+treating is unconscious. You can't give troopers back. They have two viter to
+start with and they've taken two they've taken two wounds. You can't heal them back up to having
+two viter. They can only be taken out of the unconscious state. If you do the medi kit, they fail the pH
+test, they go to the dead state. They're they're out of the game. So, it is a
+gamble using a medic kit. It's much more reliable using a doctor. But in a pinch
+and if you don't have the points and if there happens to be a paramedic stood there and you want to stand that guy back up, give it a give it a crack. You
+never know. Stranger things have been known to happen. And to be honest with you, medi kits are still a lot more um
+effective at healing people than some doctors in pano. Just saying.
+Line of fire. We've not talked about this before because it's one of those things that when you're learning the
+game, it's not worth worrying about. Most troopers can only see in the front
+180° arc. So an arrow, they can only respond in that arc.
+If attacked outside of that arc and outside of zone of control, they may only respond if they survive. If
+somebody shoots you in the back, you can only turn around if you don't die.
+Now, when you're moving or when you mark a state, you count as having a 360° arc, which is fine.
+This rule is why infinity bases have the little um plastic arrows on them and a
+line. So the line is for your 12:00 effectively and then the three and the nine are the arrows on the side. A lot
+of players, myself included, will color the fire arc to remind yourself to keep
+an eye on that. So on the right here we have the spectre. That is a front arc.
+The light gray is the direction he's looking. The black is where he can't see. So it is important to have that.
+It's important to use that in the game because certain skills and abilities like 360 visor are only useful because
+everyone else only gets 180. Let's get down to the choppy choppy people.
+Close combat. When two enemies are in select contact, they can poke each other. CC attack is a short skill and a
+you may have used it already. Burst is as standard one inactive and reactive. You only get one die to do this. Combat
+with multiple friendlies. If you and a and a bunch of friends are ganging up on an enemy, then you get plus one burst
+per friendly. Not everybody joins in. You activate one trooper and the other
+troopers cheer him on so much that he gets extra punches in. Basically, that's how it works.
+As you need to be in silhouette contact, the size of the target's base limits the number of troopers who can fit around it. You can get four troopers around a
+25 mm base and six troopers around a 40 mm base or larger.
+So that means that you can get six friends stand around a tag who's on a 55 mm base
+and try and beat it to death. Only one person will do the beating. The
+other p people will lend moral support and for each of them they'll give a burst bonus. So that means if you do get
+those six around a 55 mm base for example, you'll get burst six close
+combat. The theory sound I've seen four done.
+I've seen four done on a semi-regular basis. I've never seen six. I've never
+wanted something dead enough that I'd use six, but it's an option. So allowing
+yourself to be ganged up on by multiple um enemies in close combat, bad idea.
+Ganging up on multiple on a single enemy in close combat potentially good idea.
+CC is pretty much shooting, but you have to be in silhouette contact. So, you
+don't get range modifiers or anything like that for for CC cuz there's there's no range pretty much apart from one
+instance which we'll talk about in a second. Um there's no range involved. It is just I'm stood next to you, I stab
+you once, you stab me once, we find out what happens. It's done using the CC stat and then your weapons, potential
+survival, all this kind of stuff is as standard, but there are many buffs for CC.
+Let's talk about success values for close combat. You will see that many troopers have a base CC stat above 20.
+Many CC abilities give buffs to CC. So, when you have a CC stat that is 25 or 26
+or 27 and you're rolling a d20, so your your options are between one and 20,
+you're always hitting. What happens? The amount over 20 that the success
+value includes wraps crits around to the start of the roll. So, a CC attack with a success value of
+25 would succeed on any roll. any any roll you put there is going to be a success, but you will crit on a one,
+two, three, four, five, and 20. So 20 is always a crit, but then you add it onto
+the bottom. So if it was 27, it'd be 1 2 3 4 5 6 7 and 20.
+This balances out untrained CC troopers getting a lucky shot and things like that. So
+it's good. It's unpleasant. It's fun.
+We're going to look at a success value uh example now with members, right? Let's look at martial arts, which makes
+what we just talked about even worse. They represent your special training and
+they buff your CC output abilities. Five levels.
+Level one gives a minus three mods to your enemy CC. Level two gives you plus three, then minus one. Three is you plus
+three, then minus three, and you get a special die. four
+you plus three then minus three you plus one burst and five you get all of it. So you get plus three they get minus three
+you get a special die and you get plus one burst. So with a level five martial
+artist you will be throwing three dice getting rid of one and then potentially
+inflicting those two wounds. That's that's a distinct possibility
+again for the members. Let's look at the martial arts example. Right. All right, let's have a look at other close combat
+skills which are available to you. We have berserk. This is a long skill. You
+have to be able to see your target in line of fire and then you get to move both of your movement values. So, if
+you've got 64 movement, you get to move 10 in and then smack him with a CC attack.
+However, because you can't pre-measure, if you declare berserk and then you
+measure it and you can't reach it, then you idle and have to stand there looking a bit awkward with somebody who's in line of fire and was just about to get
+smacked in the face and is probably not happy with you. Yeah. But this berserk skill is just a
+fantastic way of going z across the board and just smacking somebody with, you know, a close combat specialist.
+This can be a fantastic way just to delete somebody off the board. The fact you have to have line of fire first does make it a bit more complicated, but
+still awkward. Awesome. Even guard. Certain units have this ability and this
+enables you to complete a CC attack on a target with line of fire and zone of control. This effectively gives you a 8
+in reach CC attack. Your enemy can still CC back because this tends to be
+completed by units who have like a robotic dog with them that they send down to do the attacking. So you are
+still vulnerable to to counter punch, but if you have a very good CC specialist
+and you can start attacking at 8 in, outstanding.
+Got to love it. Natural warrior ignores all negative mods in a face to face role made in CC.
+So if you are coming up against somebody with martial arts who's starting to hand out those minus three mods to to CC, you
+you don't care. You're a naturalb born warrior, baby. Proththeon. You will pretty much only
+see this in Chazvasti, but it's worth talking about because it's filthy. Each each successful wound inflicted in CC.
+The trooper with the Proththeon skill either removes a wound or increases their vital stat by one.
+Yeah, I'm looking at you, Caliban. Um I think um Sheskin has it as well. So you
+run up to somebody, you bite them in the face, and you gain a w you gain a viter. You gain an extra wound that you can
+lose. And you can do this up to twice. So with Sheskin, she can get up to Viter
+three. Now Sheskin is an absolute tank. She's a beast. She doesn't need this in any way, shape, or form. But if your
+opponent is dumb enough to let skin get up close and personal and start managing on people, hello.
+Now, the great thing about this is that you can do a CC attack on somebody who
+is unconscious. So they're lying on the floor. They're not dead yet. They can't do anything. Uh ka grass. Couprass.
+Couprass isn't it? I know people say kudigrass and it's not. It's krass. My my good friend um really corrected me on
+this many times and every every time the CM I kind of want to ask again but I never do. But um you can just basically
+curb stop them to finish them off. But with Prothon you can use that opportunity to go nom and gain yourself
+that extra viter. It's not friendly. It is big. It is clever. It is also fun
+because there's nothing worse than not only shooting your opponent's enemy uh troopers, sorry, and dropping them, but
+then eating them for dinner afterwards. I don't know why you wouldn't. Glorious.
+So, let's look at orders. There are so many flavors of order. We have regular.
+These are the ones you've been using so much. So, throughout all of your experience,
+you can share them amongst troopers in the combat group. Irregular. These are generated by a trooper and are only
+usable by that trooper and they're not shared with the combat group in any way, shape or form. So irregular.
+Yeah, it's it's my order. I'm doing what I want with it. There are certain really cheap troopers who have this because
+they're really really cheap. So there's no way they're contributing a regular order. So irregular can have its
+benefits. It can have certain uses. And we talked in the last video about using
+command tokens to convert irregular order into regular orders. You can take
+a trooper who has an irregular order, spend a command token, turn his irregular order regular, and add that to
+your combat group. So you can convert them, but you'll burn through those command tokens as we spoke about before.
+Then we have your special of tenant order. It's always called a special lieutenant order unless you're actually
+playing in which case it's just your lieutenant order. But anyway, these are generated by your lieutenant and they are not added to the order pool and they
+are only usable by the lieutenant. Yesesh, that's not entirely true. We'll cover that one in a second.
+So now we get to the impetuous phase, the eager beavers. These are your slathering lunatics.
+This is a special phase that happens after the order count at the start of your turn. Troopers with the impetuous
+special skill may activate without spending an order and they can then effectively do an orders worth of stuff.
+They're completely nuts, way too enthusiastic. They can go charging off down the board. So you can do a move CC
+attack, a can move BS attack, a move dodge, move plus idle, move plus move jump, climb berserk skill with airborne
+deployment label, all those skills that specifically say they can be used during the impetuous phase. These is a great
+way of zooming yourself down the board. But this is a may. So if your trooper
+has impetuous as a special skill, they may activate during the impetuous phase.
+They don't have to. Typically impetuous comes with some
+other disadvantages like you don't get cover, stuff like that.
+So, you may not just want to send these guys charging down the field because they can't just go where you want. You don't
+have full control. They're a little bit bonkers. So, impetuous phase activations need to
+be used with care because all moves must be the full movement value of the trooper. You can't if you if you've got
+a a first move value of six, you can't go four and not go around the corner because they're going to shoot me. You
+got to go the full six. And in this order, you must either move towards the enemy attempting to get into
+silhouette contact with them. Move towards the enemy deployment zone or
+idle if you can't get close to the enemy deployment zone. So if you're sat in the enemy deployment zone, you can then idle. So first you have to try and get
+close to an enemy. If you can't do that, then you have to move towards the enemy deployment zone or you have to idle.
+So you're very limited in what you can do. And I tend to see a lot of players will use their impetuous phase in turn
+one and then very rarely thereafter unless they have something that they can do very very safely. It's kind of it's a
+nice burst. It's nice it's a nice burst of energy to move yourself forward. But it's also comes with risk because you can't just go I'm going to go over here
+and cover. They're nuts. They're going to go where they want to. So I impetuous phase is a lot of fun.
+Right. Lieutenants the bossy bullet magnets. how we love these lads.
+What are they? They are the leader of your force. Their main use in game is the initiative roller for the start of
+the game. That's that's the main point at which you're going to use them. They generate their own special order or
+orders and they're a big risk. Why are there a risk? Well, if your lieutenant
+is dead, unconscious or isolated at the start of your turn, you enter the loss of lieutenant state.
+All of your orders, all of your beautiful regular orders throughout your entire army, your entire force become
+irregular. As we saw a minute ago, irregular orders can only be spent on the trooper who generated them.
+This is not good. You have a turn where you can only move and shoot one guy
+once. And if you have like a a fire team
+and they become irregular and you spend any of those orders, then that fire team
+breaks. The fire team stops being there. Also not good. So what happens? You
+nominate a new lieutenant in secret and at the start of your next turn, everybody's back to regular orders,
+assuming you didn't lose your lieutenant in the next turn. You can lose your lieutenant again. As soon as you've
+nominated them, if they die, you're in loss of the start of your next turn. Loss of the tenant can at the wrong
+moment cost you the game. You have a plan, you have your mission,
+you have these things you need to do and suddenly everybody can only do one thing. This is potentially catastrophic
+for even the best late plans. So looking after being mindful of your
+lieutenant is important. Now there are also skills around your lieutenant. Chain of command is the
+first one. This automatically the unit trooper with chain of command automatically takes over as lieutenant
+if loss of lieutenant occurs. So we can shrug off loss of lieutenant. This is
+really really useful. They remain the lieutenant for the rest of the game. Even if you stand your lieutenant back up,
+they remain the left tenant. And in most missions, chain of command troopers are
+specialists, which is kind of cool. NCO. This trooper may use the special
+lieutenant order on itself as if it were a regular order. This is really, really, really, really
+cool because you don't want people to know who lieutenant is because they're going to they're going to assassinate it. This is decisional good. So
+lieutenant and NCO trooper do not need to be in the same combat group. The NCO trooper can just go, "Ho, I'm going to
+take that lieutenant order, turn it into regular order, and use it on myself." And if they're in the fire team, as long as they're the fire team leader, you can
+spend, you'll have set an order on an NCO in a fire team to activate the fire team. So, it's effectively a bonus
+regular order for your whole force right there.
+Right. Streoss one and two. Streos one, it changes LT orders to
+regular orders, which is really, really powerful. It's like NCO but for your whole force. As long as your lieutenant,
+who will be the one with strategos, is alive, your lieutenant orders become regular. And during deployment, cover
+this in the next video, but normally you deploy all of your force apart from one. Your enemy deploys all of their force
+apart from one. You put your last trooper down, they put their last trooper down. With Studio level one, you
+can hold back two troopers in deployment, which is kind of nice cuz, you know, enemy doesn't get to find out
+what's coming their way until the very last moment. Strategic level two does exactly what
+level one does and the player may move troopers between combat groups without
+spending a command token. This is incredibly powerful. We talked before about the fact that your combat groups,
+as I run it frequently, I have my main combat group that does the work and then
+we have the secondary combat group who is there to move people across from into the primary combat group as people in
+the primary combat group die. because I always want to have as close to 10 orders in my primary combat group as possible. But having only four command
+tokens limits the number of times I can do that. Strategio level two takes that out of the equation. You can just move
+your troops around willy-nilly. No problems whatsoever. Start of your turn. I'm going to move these five guys from
+here over there. No problems. Now, let's talk about types of lieutenant. We have the victim. The
+victim is cheap, weak, and easily squished. They will normally spend the entire game hiding behind a box on a
+building on its belly out the way. Please don't shoot me. Dear God, dear God, no. Leave me alone.
+That is what your victim is. They are cheap, so you can ignore them. And their whole purpose is to not let you get into
+loss of lieutenant. Then we have the tank. The tank is a big gun with a bad attitude. And you get some units like a
+Marut in in ALF who has that strategic level two that we just spoke about, but
+only if she is your lieutenant. So it's a real heavyhitting unit and
+also your lieutenant, which is the biggest bullet magnet ever. If you have any sense, if you're running
+a tank lieutenant, you will normally have a chain of command on his belly on top of a building out of the way
+somewhere so that when your lieutenant invariably goes pop after a brilliant bout of violence and destruction,
+you're not the loss of lieutenant utility. These bring useful features and options
+and buffs and support features and stuff like that to the game. They are there to amplify what's going on with your list.
+They are very very useful guys. Then we have the sneak. He hides or disguises itself so it doesn't die. They tend to
+be very squishy. They tend to die quite easily if the enemy can even find it, which if it's disguised as something
+else, then I'm going to do. Now, it's worth saying much as these are very defined types. There is a lot of
+overlap. And we're going to Yeah, there is a lot of overlap. You'll find that some tanks also have great utility. Some
+sneaks also have great utility. There are there are different uh
+different combinations, but those are the four main types. Getting to know which one you're happiest with and how
+to use it is really really important to not ending up in loss of lieutenant. Also getting the maximum value out of
+the points you invest in your troopers
+channel members, patreons, I have some examples for you of those different types. Let's have a look at our different flavors of lieutenant and
+states. There are 23 states in Infinity N5. A
+lot of them are bad news, some of them are not. Some can be fixed, others cannot. We're not going to do all of
+them. I'm going to give you some a flavor of the type of things you'll see in states and an idea of what they mean. And hopefully that will give you the
+ability to go and look up and read more states for yourself. So, the good news, we have the normal state, which is
+everything is fine and carry on. Normally, your normal troopers are normally normal. That is when nothing's
+happened. They do not have a wound. They do not have an unconscious. They are fine.
+Suppressive fire is also a state. So a trooper with a weapons or even a weapon
+with the suppressive fire skill can spend a whole order to go into this
+state. So they have to have the suppressive fire trait on the weapon. So it's the weapon that has the suppressive
+fire trait. You spend a whole order and you go into this state. And instead of
+using your normal profile in ARO, you use the profile you see on screen here.
+So zero range modifier from 0 to 16 and minus three from 16 to 24. Potential to
+survival remains the same as the weapon. Uh the saving roll attribute remains the same and the number of saving rolls
+remains the same as your weapon, but your burst is now three. So you're throwing three dice in ARO.
+There are a lot of weapons that can go on suppressive fire. If you are in a position where you have a area that you
+need to lock down, sticking troopers on suppressive fire is a great way forward. Because in addition to all of this,
+enemies shooting at a trooper with suppressive fire get a minus three modifier because you guys just go nuts
+and ripping off so much fire. So, they're getting three dice back. They get minus three to hit. you should
+be in cover if you're setting this particular shin on again up. So you're potentially at minus 6.
+Expressive fire is a great way to ex sort of exert board control uh if you
+have the orders or you can do a coordinated order and put multiple guys in expressive fire at once. Just bear
+that one in mind. The bad news unloaded state weapons with
+disposable trait can run out of ammo. Uh this is what happens when they do. So that is things like uh mines, that is
+things like pitchers which fire out repeaters, that is things like panzer. They can run out of ammunition. If they
+do, they become unloaded. If you can then get in zone of control of a baggage, a trooper with baggage, then
+you can reload your weapon. Do you want to? I'll leave that up to you.
+Stunned. When you are stunned, you cannot declare attacks. So this was like the stun amition we talked about before.
+All roles apart from saving roles get a minus three mod and it can be canceled by a doctor or engineer depending on
+whether you have viter or structure on your on the trooper that's impacted. So if you've got a tag with structure then an engineer needs to fix it. If you've
+got a normal trooper with viter then a doctor needs to fix it or it will cancel at the end of the states phase sorry the
+start of your states phase at the end of your turn. So your trooper gets blinded effectively. They get stunned at the end
+of your turn. They will stop being stunned. So it's not permanent. It's not that that scary. It's just unpleasant.
+And it's a good way if somebody is attacking you and you have something with like a flash pulse. It's a particular piece of equipment that Ford
+observers have frequently. You can just stun them and stop them from being able to to do the shooty shooty anymore.
+Now we got the dire news. We've got unconscious. When a trooper takes wounds up to the vital STR value, they enter
+the unconscious state. The trooper becomes prone. They don't generate orders, they are out of the game for all
+intents and purposes. When it comes to the end of the game, anything that is unconscious is counted as a casualty.
+So, they're done. But you can cancel that that unconscious state by using a
+doctor or engineer for the vital or STR stat depending on what you're doing. So, doctor cancel will heal up a vital stat
+and engineer will heal up a stretch step. immobilized A. You cannot declare any
+other skill than dodge when you are immobilized A and your dodge is completed at minus 6 mod.
+So effectively you're glued to the floor. That's the the common thing that this is done with adhesive launches and
+stuff like that. It's just literally glue you to the floor and you've got to extract yourself from the mess of pudding and that they glued you down
+with. You can also get an engineer to cancel the state. So, we get into
+base to base with the person that's glued to the floor. Complete a whip check, unglue them, and away you go. Or you can complete that dodge at minus
+six. This is painful. It's very painful.
+Immobilize B is more electronic, so you can't declare any other skill than reset. Reset is completed at minus
+three, and it can be cancelceled by an engineer or by completing that reset at minus three.
+Immobilize really messes you up because if you're in immobilize B and you're locked in your armor and somebody shoots
+you, reset is not a counter to that. So, they're getting the free shots on you. You just got to try and clear that issue
+and hopefully you don't die in the process. So, mobilized A and mobilized B. Not fun.
+The worst news, the dead state. When a trooper is unconscious and receives one more wound, they become dead. They are
+removed from the board. they are they're dead.
+It's kind of it. Um then we have the retreat state. When you have less than 25% of your army left
+on the board, you count as a loss of lieutenant and your troops can basically only run away. Um troops will move to
+their deployment zone, then run off the edge. Basically, they will leave the party. Some missions don't use this
+rule, and some special skills like wars and courage ignore it. Um, and you can spend command tokens to cancel it on a
+trooper. But again, command tokens are not that common. They are quite rare. So, are you ever going to have enough to
+keep your troops on the board? Probably not.
+So, that is everything that we've learned in episode 9. We we've gone through all of that good stuff. There was quite a lot.
+There are areas as we talked about of states um and gear that we haven't
+talked about, but you should now be equipped to go and research yourself that in the book. If you have questions,
+ping them across. Members, hit me up in the Discord. If you have specific questions and queries, we'll run through
+them. We'll get those answered for you. But predominantly, that is the core of everything learned.
+From here, we're going to do starting a game, deployment, infiltration, and deployment skills. having a vision for
+your turn. That is the next video. After that video, we are on to hints and tips
+and then we're on to what's next. And that's the end of this series. So, we're nearly there, guys. Hang in. Nearly
+done. Do not forget like, share, subscribe. Thank you so much. Hope you enjoyed this. Any questions in the comments below and I will see you all
+again soon. Thanks a lot and goodbye.

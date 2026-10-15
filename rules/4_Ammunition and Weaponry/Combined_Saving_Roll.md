@@ -1,0 +1,9 @@
+# Combined Saving Roll
+
+Some weapons in Infinity may require a Saving Roll against different Attributes.
+
+These weapons will indicate the different combined Attributes with the plus sign ( ARM + BTS for example).
+
+When a Critical is obtained with a weapon with a Combined Saving Roll, the target must make an additional Saving Roll against the ARM Attribute.
+
+A hit from a Plasma Carbine forces its target to make two Saving Rolls, one against the ARM Attribute and the other against the BTS Attribute. A Critical from the Plasma Carbine forces its target to make an additional Saving Roll against the ARM Attribute. Therefore, the target will perform two Saving Rolls against the ARM Attribute and one against the BTS Attribute.

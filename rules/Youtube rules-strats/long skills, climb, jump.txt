@@ -1,0 +1,369 @@
+If you're going to learn Infinity N5, I guess we better get a move
+on. Welcome to learn to play Infinity N5 from the Infinity Institute from the Dice Gods. My name is Hydra and today in
+our fourth mission, we are going to look at the different skills and abilities that your troopers have to move around the battlefield. That will include
+adding in some unique concepts like airborne deployment as well as long skills which are really going to sort of
+increase the breadth of options that you have inside of the game. As ever, thank
+you to our members and patronons, especially Shan Cobburn, Chaos Discordia, Rick Wolf, and Old Man Rogers
+for making this happen. The members that we have on the channel um will have
+access to the various downloads that we have for this series available soon. So,
+if you do want to make the most of this, then do consider becoming a member, joining up to the channel and yeah,
+you'll get access to a wealth of goodies to help you learn the system. But for
+now, that's enough from me. Let's go over to me and talk you through the next steps of learning in five. Mission three
+Overview
+was a bit of a beast, so we're going to take it a little bit easier this time. That said, it's a long list, but it's not, despite how it looks, as
+complicated as the previous lot. So, we are going to talk about long skills and specifically cautious movement, which is
+something that we've talked about before, but we're going to get into that with a little bit more detail. We're also going to look at zone of control, which is a key concept inside of
+Infinity and essential to understanding cautious movement. Then, we're going to cover the climb and jump
+skills. Before we move on to new special skills, climbing plus super jump, which
+sound very familiar to climb and jump, don't they? Then, we're going to look at special skill bonuses, which we have also talked about a little bit before,
+but expand on that some more. Look at airborne deployment specificly combat jumper parachutist and then
+discuss open and closed lists. Looks like a lot. Nowhere near as scary as it was before. This is mainly adding
+additional strings to your bow, additional things that you can do with your troopers when you play the game.
+So, let's get into it. As before, we are going to be looking at the small table
+you've been running on before. It's going to be absolutely fine. Now, you're going to need to be up to about 14 um
+miniatures at this point and seven aside for this to really work because you need a range of different options in there.
+You need some additional orders. So, if you are just running the start here box
+for um Infinity Essentials, you will need to get the Army box on top of that. Um if you're running Pano and JSA Pan
+and JSA versions of Essentials, so you will need to get those as before. Take measures 14 minutes blah blah blah as I
+say. and we're up to about 90 minutes of play time um for those additional miniatures and the additional options
+you've got in play. So, let's get into it. Expanded
+Expanded profiles
+profiles. We're still cutting down the weaponry options and the range of options. You still want to use the most
+basic version of everything. Just the weapon on the left, just a CC weapon in there. But now, you
+can have the multisspectralizer that we had in the previous mission. You can have camo, you can have mimatism, but we're going to be adding in combat jump,
+parachutist, super jump, and another skill called climbing plus, and yes, the jet propulsion version of super jump.
+More will be revealed on that shortly. So, new
+Long skills
+skills. First of all, we're going to talk about long skills. So, as the name implies, a long skill is a skill which
+takes a whole order to complete it. It it uses everything. Whereas normally you can do a basic
+short skill and a thing, a long skill takes the whole order to complete. So you declare it at the start in place of
+the basic short skill and ask for arrows and then you kind of move on to the resolution step. There's no second set
+of arrows, second skills to do in there. Now uh good examples of these are
+cautious movement which we discussed climb and jump and also returning into the camo state. This is what we did last
+time. If you remember, being outside of line of fire of the enemy, spend a full order to convert a camouflage
+unit to the camouflage state, the the marker state. So, that was your first
+example of a long skill. We're going to add some more in there today. First, we have cautious movement. Now, this allows
+a trooper to move its first morb value. And as long as it starts and ends
+outside of the zone of control and line of fire of enemy troopers, then there's no
+arrows. This is the whole sneaking past the enemy so they can't see us type thing. So again, as long as you're
+outside of zone control, as long as you you start and end outside of line of fire, you do not attract arrows.
+This can't be used by tags, vehicles, remotes, rims, and troopers on motorcycles. It also can't be used by
+troopers with the aerial skills and in a targeted state. So, the targeted state,
+we'll come to that in a later video. We're going to discuss the different variants, tags, vehicles, and remotes up
+top in a second. But, as you know, you can't pre-measure
+an infinity. So, you declare what you're going to do, and then you measure and see how far you're going to go. So with
+cautious movement, it's especially important because if you start outside
+of line of fire and then you complete your cautious move skill, but you don't have you get your
+distances wrong and you end up and you're still in line of fire. You have completed your order. You can't declare
+any more skills there, but the enemy can arro. So the cautious move is really
+important to gauge that you will start and end outside of line of fire. Otherwise, you can get yourself in a lot
+of trouble, basically. So, be mindful of that. If you don't succeed in ending up
+outside of line of fire, you will attract arrows as normal. This can hurt.
+It is not a good thing. So, what is a zone of control? A zone of control is an 8 in
+Zone of control
+cylinder, which is 8 in high, 8 in down, and 8 in across. As you see in the picture on the right there, it's
+literally a cylinder that goes around your your miniature. Enemies activating or entering the zone of control can be
+reacted to. Not all skills can be used to ARO in zone of control and some get
+mods. What does that mean? First of all, what is zone of control conceptually? Think of it as hearing, as sensors, as
+some way of having a situational awareness around your trooper. If a big dirty robot comes
+stomping into that, you will have a chance of it's over there. and doing something about
+that. As ever with Infinity, there are exceptions. So, troopers with a stealth special skill, which commonly comes with
+camo. Um, they can go through a zone of control without being arrowed to. You
+can't arrow to a stealth unit when it's in your zone of control. If you can draw a line of fire, you can arrow to to it as usual. But if you can't actually see
+it, then yeah, common uses of the zone of control
+are hacking. There are some weapons that use zone of control and there are some equipment that uses zone of
+control. Um, we will come to those, we'll discuss that kind of thing when we discuss the armory in in a later video,
+but zone of control is a key concept and it's really really important to get your head around. So, you need to start being
+aware of this this cylinder that follows every trooper around the board. Now, we mentioned that certain
+vehicles and tags and stuff like that can't do cautious movement. Here we have two profiles
+um for panicia. We have the redeye closed esport squad and squalls. Now on the
+left above the um green order marker symbol you have VH and tag. VH means
+vehicle. Tag means tag which is tactical armor gear. Those guys cannot do cautious
+movement. If we go on to the next page, we at the top have a REM. Says REM on the left. that can't do cautious
+movement. Now the Montessa, light Montessa at the bottom there, he's only
+hi. Heavy infantry can do hi heavy infantry can do cautious movement. But
+if you look at his equipment under his stat line, he has motorcycle and motorcycle cannot cautious
+movement. There are plenty of things inside the game which can and cannot be
+done by certain classes of trooper. When you see the stat profiles like
+this, it will say on the left what classification they are for the most part. So you'll be able to tell straight
+away. So those are the ones that predominantly apply to the rules and and restrict or allow certain types of of
+skill or ability or all this kind of stuff. So knowing your profile types,
+getting a feel of your profile types is kind of important. Let's look at the long skill
+Climbing
+climb. It lets a trooper move its first movement value plus 2 in up a vertical
+surface. That's right. When you do a climb skill, you climb
+something. I don't know where they get these ideas. So, mob first mob value
+plus two. So, if you're looking at normal fuselier who has a 44 movement, then it would move six up a wall. If you
+have some heavy infantry that are like 6'2, then you're up to eight inches of movement. It's always that first value
+that you add the the positive modifier to. What limitations are there? The
+trooper must be in base to base contact with the vertical surface it wishes to climb when it declares the climbing
+skill. That means that you can't be an inch away and sort of smoosh up to
+the wall and then climb. you have to then do a move and then another order to climb it
+because climbing is a long skill. It uses a full order on its own. So just be mindful of that when you're positioning
+to start your climb. Make sure you are fully in base to base contact so you can get whoop up the wall. You don't have to
+burn orders just making it that last half inch to get there. In order to when you working on
+your climb, you can stop on the wall. Um, but the area of the wall must be the size, at least the size of your base for
+them to hang there. When you are climbing, you can only do more climbing.
+You can't do anything else. So, if your guy is dangling off the wall three stories up, he can't start ging away at
+people. He has to complete that climb and get to a nice flat surface, have a bit of a breather for 5 seconds before
+he can unleash hell. does also mean that he they may not arro
+when you're in the middle of a climb and understandably there's no cover when you're stuck to the outside of a wall.
+Kind of makes sense to do that measurement. So you have that um first move plus 2
+in you measure up from the base edge. So you don't measure from the top of your trooper, you measure from the edge of
+your base up the wall. That gives you your distance. So there's no gaining that extra sort of like with the the
+model on the right here is Bixie. You couldn't measure from the top of her head and go six inches up. You'd have to
+measure from the very edge of her black base there and then take it up. So that is an important
+distinction. I'd encourage with these particular examples for you to check out the examples they have in the
+book. Um the rule book does do a good job of explaining how these kind of skills work. But that's the theory.
+That's the core things you need to know to be honest with you. Next we have jump. And amazingly
+jumping is is is jumping. It lets the trooper move its first mor value plus 2
+in horizontally, vertically, diagonally or tracing a parabola. Now you means you must land on
+a horizontal space that fits the troopers base completely. Um if you can't do that, you can't do the jump.
+Even if you declare it, it just gets canceled. So they don't your troopers won't launch themselves into fresh air and and die. So it enables you to jump
+over things. So if if something is with infinity, you can vault over something if it's smaller than your trooper. We
+talked about silhouettes before. They have a certain size. Come up to a piece of wall and it's smaller than your silhouette, you can just vault over it.
+But if you can't, if it's if it's slightly taller, you may want to jump over it and you can draw a parabolic shape, a sort of curve over the top. And
+as long as you can clear that obstacle in those six ines, you're fine. You can make that jump. But again, a long skill.
+So it's a whole order to do it. When you jump, there's no cover. Who'd have thought? And when you do the
+jump, it is a jump. So it's a straight parabola. You can't sort of go out a little bit and then do a 90° turn in the
+air and land somewhere else. You have to go A to B. It has to be a nice straight line to to be valid. Believe it or not
+Climbing plus
+though, that's how those rules work. They're pretty straightforward and simple. Again, if you want more clarification, check out the rule book,
+but they are pretty straightforward in their core concepts of how they fit together.
+However, we get some new special skills based on them, and they are the same but better. So, we have climbing plus, which
+is climbing but better. It turns the climb skill into a basic short skill.
+So, it's not a long skill. It doesn't take the full order anymore. you still get your first move value plus 2 in
+that's still there. Um, and you can start to climb at any point in the move. So, if you are that one in away from the
+wall, you don't have to move up to it, burn the rest of your order, set a new order, and then climb up. You can just
+walk seamlessly up the wall, which is kind of funky. As I say, it lets you the trooper move on a vertical surface if
+it's horizontal. And if move is used as the second short skill, then it's a normal second move value. you don't get
+the the plus two inch even though you are climbing on a wall. You wouldn't get the extra bonus for climbing plus. It's
+only for the first movement skill that you do on the wall that you get that plus 2 in. Crucially, when you're using
+climbing plus, you can declare other skills. So, you can do BS attack and dodge and all this kind of stuff when
+you are climbing plusing, which is pretty freaking awesome. You may also
+arro as usual, but you still don't get cover. So, climbing plus is very much
+the way more useful, you're going to do it a lot more frequently version of
+climb. Um, in fact, if you have a climbing plus trooper and you need to get somewhere quickly, there is wisdom
+if you stood next to a wall of doing climbing plus along the wall to get the bonus 2 in of movement. That's kind of a
+legit tactic. Uh, just bear in mind it does mean you don't get cover blah blah blah blah blah. Climbing plus very, very
+useful. something that if you have it on trooper you'll probably use quite a lot. Speaking of things that if you have on trooper you'll use quite a lot. Super
+jump. This makes you extra bouncy. Um it turns jump into a basic short skill. So
+again you can launch yourself into the air and do something else which is pretty funky. You may also keep jump as
+a long skill but you will get the move value plus 4 in as opposed to plus two.
+You can do one extra long boing across the across the map if you have a certain
+place you need to reach or a certain ledge or whatever. That's perfectly fine. But yeah, turning jump into a
+basic short skill phenomenally helpful. What does it do? You can declare other
+skills like be attack when you're jumping. That's right. You can launch yourself into the air and shoot when
+you're at the top of it. Now, when you have something like a heavy infantry with a 6 in move for its first mob value
+plus the 2 in that will let you launch yourself 4 in into the air and 4 in down
+and get that your 8 in. So, you can just jump up in the air. Why would you do that? You'll get line of fire and at the
+top of that jump because this all happens simultaneously. Don't forget or just happen simultaneously. You can do
+the jump up in the air and back down again and fire when you're at the top of the jump.
+It's the guy, the guy on the right there, that's that is a hollow man with a uh with a missile launcher. That is
+something I have done many times with him. Bounce up into the air, fire a single missile at somebody who was fairly certain they were safe. They
+weren't from the hollow. So jump can only be used once per order. You can't gummy bear your way
+across the board. For those that don't know what a gummy bear is, you can't just go bounce bounce bounce. And you can declare other skills
+like BS attack when climbing when doing this. I'd already Yeah. Yeah. Copy paste is a
+problem. Apologies. Um, but there's still no cover available for this. So, yeah, understandably launching
+yourself into the air. Unless you carry a table with you, you're not going to have cover. There are some troopers that have super jump and have climbing. Plus,
+one of the miniatures we saw earlier, Bixie, actually has that, and that does let you bounce
+through the air and then land on a vertical surface, which is horrific. the the sort
+of abilities and the the way in which the mobility that that gives Bixie is
+phenomenal. Um she's a Yuching unit. Very very cool just for the incredible
+flexibility and agility that she brings to the board. So yeah. Anyway, but yes, you can get super jump and climbing plus
+together and it's just horrible. So special skill
+bonuses. Some troopers do get positive mods in their profiles. We talked about this before.
+Some troopers will get that to jump or super jump which will add to the total
+distance possible. So the seraf tag here for military orders. Horrible beast. Um
+run predominantly in our local meta by a guy that's nicknamed the machine because of the way he approaches the game and
+it's horrible. No one likes seeing on the board apart from him. So if we look at the stat sheet, we have
+a number of modifiers on here based on different skills. So we have BS attack SR minus
+one. Now we discussed before that when there is a positive modifier, it applies to you. If you if you have these
+abilities, the positive modifiers apply to you. The negative modifiers apply to your enemy.
+This means that SR minus one gives the enemy saving roll minus one dodge plus
+two in however means that the serif gets plus 2 in to its dodge when it succeeds. Now if we look in the bottom right we
+have super jump 3 in. That means that when a serif jumps
+it adds 3 in to its first movement value. It first movement value is 6 in.
+That means that when a Saraf super jumps, it jumps 9 in. Yeah, it's not nice. It's not
+friendly. This thing just launches itself up into the sky and starts letting off rounds like it's going out of Christmas. Isn't it's going out of
+Christmas going out of favor. It's It's not a pleasant bit of kit, but that is
+the kind of thing you're looking for. If you see super jump or jump with brackets in a figure, that replaces the normal 2
+in that you would modify your jump or or yeah, your jump with or your super jump
+with. Um yeah, so very very useful. Makes
+everything a lot more um rapid to get across the board. You know, Saraf can get off some devastating
+alpha strikes potentially um or just put itself in an inconvenient position cuz it can do that single 9in jump and then
+still shoot. Yeah, we also have super jump jet
+propulsion which the seraf actually has. If you look at the bottom next to the super jump mod, you have super jump jet
+propulsion. What that means is that it's a buff to super jump. Everything is the
+same but unlike super jump or jump you can change direction mid jump. So
+whereas normally you have to chase that you have to trace that parabola or that line from point A to point B and it has
+to be a straight line super jump with Jet Propulsion can launch out of the side of the building take a shot and
+then land back down where they started without a problem. They can just go sideways out of the building and fly
+back again which is just cool. Um, again, assuming you're not on the receiving end of it, but there's quite a
+few units these days coming with it. If you there's a skill, a a rule called speed ball that lets you
+cool down a buff. One of the buffs you can get is jet propulsion. You can give a trooper jet propulsion. So, you will
+see this potentially quite a lot. And it is kind of useful the ability to fly around a
+corner or jump up like say jump sideways out of a building and land back again just to get the shot the perfect angle
+that you need. It's really useful to be able to do that that mobility that tactical flexibility. Very very
+Airborne deployment
+cool. So airborne deployment those those special skills and the skills we've just
+talked about they are the core of movement that you'll use inside of Infinity. Uh there's very little else
+that you really need to do. You know, you've already got move. You've got dodge. Uh you've got idle. Now you've
+got jump and you have climb. Climbing plus and super jump. These are the sort
+of primary main things that you'll do uh when it comes to movement. Airborne deployment or AD as
+the name implies is a deployment ability. Now, we will do deployment in detail in another video, but here we're
+going to talk about these skills because they tie into movement. They tie into flexibility. And you'll also find that quite a few um airborne deployed
+troopers because they have jetpacks will have super jump and jet propulsion, all this kind of stuff. So, they kind of tie
+in together. They're kind of something you'll see on a regular basis. So, what is
+it? Airborne deployment allows a trooper to arrive from space or off the board. Basically, they drop in, get dropped in
+by helicopter, from dropped in from orbit, whatever. They go doink. Where you can do it depends on the flavor.
+Depends on the flavor of of um airborne deployment that you have. How does it
+work? Again, it depends on the type, but in general, the trooper doesn't start on the board. When they arrive, it's in the
+players's active phase. So, you can't sort of drop somebody in from space in your opponent's turn. You have to do it
+in your turn. Sure. The notes are actually the most important thing. Airborne troopers
+do not add their order to the order pool. So until they're on the board,
+they generate no orders. When they arrive, when they drop in from space, they use their order to
+complete that to arrive basically. The next turn after they've
+arrived, their order goes into the pool as usual. So you will generate at the start of the turn, you will generate
+that order. It will go into your pool and you'll use it. Airborne troopers, airborne deployed
+troopers do not appear on the open list. Cover open and close lists in a
+minute. And they do not benefit from cover when arriving. Again, shouldn't be a shock, but the most important takeaway
+there is that if your airborne trooper is off the board, he doesn't generate an order. And when he arrives, he uses his
+his order to do so. Cool. Fair enough. We're all good so far. Trooper off the board, drops in for
+space. Boom. Fantastic. Let's look at the different flavors. Combat jump.
+Suddenly violence. This is a long skill to deploy a trooper. The trooper is off the board.
+They have to have the special skill combat jump and then they can do this.
+How does it work? They may arrive on any surface that's big enough for their base
+and accessible. Now, what I mean by accessible is you can't airborne deploy from space and land in the middle of a
+sealed room. There has to be a way for them reasonably to land there. Mostly you're going to do it on
+top of buildings. You're going to do it on the street, whatever. But have to be able to fit the base. Has
+to be accessible. You will roll one die, do a PH check. If successful, the
+trooper arrives where it's planned. If not, the trooper is placed in a players's in the player's deployment
+zone against a board edge. So basically, they can come screaming in from orbit and land
+perfectly, but if you fail that role, then they end up in your deployment zone against a board edge, which is kind of
+sucky because you've paid points for them to drop in and and and they don't. When they arrive, they may be a roaded
+because you've spent an order, you've activated them, this is a long skill, their appearance, they may be short. It
+is what it is. There are troopers like the cusca who's pictured
+on the right here that have combat jump explosion. When it arrives, assuming it
+arrives in the place that you intended it to, you put down a circular template. Anything under that circular template has a very, very bad day cuz a dirty
+great bug just dropped from orbit onto their head. Combat jump is a really great
+ability um and one that I rarely use. We'll talk about or we'll see why in a
+second. But being able to in that clutch moment
+bring in a trooper with a special skill to do a specific thing to complete a mission or just get a big gun in just
+the perfect place is really really important. Um if we go back a page, this
+guy on the right here is the Garuda. Um it's airborne deployment for
+LF. I have deployed one of those as the first order of the first turn and
+maruded my way through the backfield of my opponent taking out seven or eight miniatures in the first turn on its
+own. Airborne deployment can be phenomenal. So it is something that you
+should guard against which is relatively easy to do. We are going to do somebody asked today whether we're going to do
+tactics and stuff like that videos. We will be doing tactical videos. They will be the beginner's guide to infinity
+tactics that will be coming. But there are ways of defending yourself against airborne deployment, which is
+surprisingly simple and and incredibly effective. So, but yeah, having
+something appear and then rolling up through your back field, never pleasant, especially if it's a scooter and explodes when it does it as you know.
+No, no, no, no, no. Combined players, you didn't need it. No.
+Anyway, I prefer parachutist. You do a fly, you do a walk, you do a shoot. So, this is
+again a long skill to deploy the trooper. Effectively, imagine this as they parachute into an area outside of
+the combat zone, stomp their way in, and appear at an inconvenient point. So, it
+allows a trooper to arrive in the active phase in contact with any board edge outside the enemy deployment zone. So
+you literally go and here's Dave and there's Dave with his big gun in the inconvenient position that the enemy
+doesn't want. You may not deploy prone or in contact with an enemy token marker or
+objective. It's the same actually with with um comma jump we s we saw before and again it may be a road. This is the
+version of airborne deployment that I use personally. Why? Because I don't need to roll a dieice. I don't have that
+chance. And although a lot of combat jumpers are PH12 or PH14, so they've got
+60 or 70% chance of success, I tend to deploy them in a moment where I need them. I tend to deploy them in a in a
+situation where it's necessary to have them on the board. So it's very very rare, vanishingly rare that I use combat
+jump. I will mostly use parachutist and take that reliable um that reliable appearance.
+There is such a thing as parachutist deployment zone which enables a parachutist to deploy in the enemy's
+deployment zone. Good examples of this are Kot Kowalsski from the Nomad um
+factions, specifically Corodor. The ability to walk a dude in from your
+enemy's backline and then let rip should not be sort of underestimated
+from the impact it will have on your enemy and how devastating that can
+be. So when you're deploying always make sure you have somebody looking at the back line just in case an inconvenient
+person turns up because there are a few units in the game with parachutist deployment zone. There are a few units
+that will appear and they're not necessarily that expensive, but they are necessarily that bloody inconvenient. So, just be careful out there cuz kids.
+There's people dropping from orbit all over the place. It's not good.
+Lists
+So, I don't want lists. We're now at a point where we can
+start talking about lists. We have open and close lists. It's one for you, one for me.
+For each game, you should have two lists. An open list and a closed list. An open list is something you give to
+your enemy for their reference. It tells them everything that they can know. Now,
+crucially, that includes the full stat sheets, equipment, load out, everything of the troopers that they're permitted
+to know about. Permitted to know about is important. The reason this is useful is in game, they then don't have to ask
+you any questions. they can look at your your open list and go, "Oh, okay. This
+guy's got this much armor. This guy has this weapon. This guy has this ability. Right, cool. I know what I'm looking
+at." Crucially, however, your open list will not include camouflage units,
+airborne deployments, hidden troopers, impersonators, all these kind of unique
+units in the game. They will not be on the list. Your opponent will not know they're coming other than the fact that
+potentially he'll know there's a big gap in the points or that this combat group is in full, whatever. He will not know
+they're arriving until they're there. He also will not know who your lieutenant
+is. We've not done lieutenants yet, but every force you put together, every list
+you put together will have a lieutenant. Has to have a lieutenant that leads it. If you lose your lieutenant, you're in a
+lot of trouble. You're in a massive amount of trouble for one turn. So, it is hidden information. Your opponent is
+not allowed to know who your lieutenant is. You'll normally also have a closed
+list, which I would, as a rule, recommend you have
+printed. This contains everything. It can contain all of your weapons, all of
+your hacking abilities, all of all of your troopers, including your hidden and your camouflage and your airborne. And it can contain all of the loadouts, all
+the skills, all in one place. Really, really useful. When we talked about camouflage markers
+in the previous video, there is one logical problem. If you have multiple camouflage markers, let's say you have
+five troopers that go into camo, how do you know which is which? They normally have numbers on. Well, how do you know
+which number belongs to which trooper? It's really easy just to write the number next to the profile of the
+trooper that the camouflage marker belongs to. So, that's why I always do a printed version. Um, but you don't have
+to. So, closed list is for you. Open list is for the enemy. And the open list
+just doesn't contain the fun stuff. They get to find it out as you see fit during the course of the game. Here's an
+example of a closed list. We have here a five trooper
+um chazvasti list. We have a no lieutenant in top left, a sphinx, which if you have a look at that, it's got um
+camouflage in the second thing in its skill list. Then we have a a um cabinet
+soldier, which has combat jump. Then we have a calabad on the right there, which also has camouflage. And then we have a
+specular killer, which has impersonation, which for the time being, think about that as a type of
+camouflage. So we have a lieutenant camo airborne
+deployed camo effective camo. So what this is your closed list. This is what
+you used to play. What does an open list look like? But this list, the copy you give to your opponent looks like
+this. That's right. The only thing they see is that here is a NOx
+trooper. That's it. They don't know it's lieutenant because that's closed information. nothing else is revealed to
+them. Everything else is secret. It's horrible to be on the receiving end of. You can actually make
+blank um open list. They're also known as courtesy lists because they are a courtesy. You can make a blank courtesy
+list, which is I mean if you want to demoralize your opponent, go hey, you
+have no idea what's coming. Literally no idea. Um how bad can it get? I have
+written lists previously for um Tartery who are the the Russian force for
+Ariadna. I have written lists for that particular sectoral which had 21 camo
+markers in them during deployment. You're limited to 15
+miniatures in this game, 15 troopers, but it's possible to get 21 camo markers down. And the great thing was there were
+also three bikes and another couple of other dudes in there as well. It was just one of those I'm going to put down everything on the board and they're all
+coming markers and you don't know what they are and then you get a sheet of paper with four troopers on it and
+that's it. It's just I mean it's hilarious but it's not fun. So yes, open
+and close lists. Thankfully the official army builder if you tell it to print off a
+courtesy list it will do everything. You you don't need to remember who you include in your list and who you don't.
+But if your opponent ever says well is that your opponent? The answer is always I'm not allowed to tell you that or I'm not going to tell you that cuz I'm not
+an idiot. And so we come to what to run. As
+What to run
+I said in the last video, we're now getting to a point where
+you need more than just the um essential start here box. So that's going to be
+covered in a minute. For both sand trap pan and sand trap JSA, you're going to use all your miniatures. Uh that will
+give you some airborne deployment. It will give you some climbing plus. It will give you all this kind of good stuff. So, use all of the miniatures,
+all seven of them. You're into the game. Let's go. As I say, with essentials pano, um, and essentials JSA, you want
+the get started box and the army pack, which will give you 10 miniatures aside. For the pano, lose the orcs, the sorry,
+the orc standard one, the the multi rifle, the locust, and the chutonic knight. Take those out, use the rest as
+they come. the essentials JSA use all the apart from the RON, the onwaban and
+the kaisotu missile launcher. Um why not the kotsu missile
+launcher because it's low burst and it's my missile launchers are a skill to use in my opinion. So give yourself some
+make your life a little bit easier. Use the higher burst stuff. For the essentials nomad's box, that 10
+miniature box, use all miniatures apart from both Morlocks and Sinita. And for the essentials you
+ching, use all the miniatures less the three Zu Yong. Use everything else apart from those. And that should see you
+about right. And it will give you a degree of flavor. Not everything unfortunately that you're seeing in here. For example, the Yuching
+definitely have um airborne deployment. The Nomad Essentials Box doesn't. and
+the pano sand trap does. The JSA sand trap doesn't. So, summon and some. But
+if you play with a friend who has these units in their army, you'll get a feel. You'll get a feel of how it
+works and how that that plays out. Absolutely. So, these these lists
+will be available as a download for uh channel members and
+patrons. So, that that's everything you need to know on on the movement. That's all I wanted to do today. So, it's a lot
+a lot lighter than previous ones. We've learned all of these wonderful
+abilities. Congratulations. Outstanding work. So, what's next? Try out the different
+movement skills. It's going to give you a lot more flexibility on the board. It's going to give you a lot more tactical options. Infinity boards tend
+to have multiple heights on them, multiple different levels, stairs, ramp parts, all kinds of stuff to to
+navigate. And this will start letting you do that. If you can
+drop in from space with airborne deployment, it's cool. It's fun. It's horrible to be on the receiving end of,
+but the sooner you do it, the sooner you'll get used to dealing with it and countering it because it is
+counterable. Our next mission brings hacking, command tokens, and how to use command tokens to the game. So, there's
+going to be all kinds of fun stuff in there. Join us for that one coming soon. In the meantime, please do like, share, and subscribe. And if you haven't
+already, sign up to become a member either here or on Patreon because that helps me do more quicker. Thank you very
+much for watching and I will see you all again soon. Goodbye.

@@ -1,0 +1,539 @@
+
+Introduction
+We've seen many of you write that you want to list. Right. Right. Right. So,
+we thought, right, it's only right that we write a script to help you write.
+Right. Right. Right. So, let's get right into it.
+Welcome to learn to play Infinity N5 from the Infinity Institute from the Dice Gods. My name is Hydra. Today we're
+doing a little bit of a break from what we planned because when I was writing the next set of uh videos and scripts, I
+realized that there was a slight problem. we kind of needed to cover some details about missions, how they work,
+and the basics, very foundational stuff of list writing in order for what we're going to cover next to make any sort of
+meaty sense. That means that today's video is going to include all of
+that doesn't mean we're going to cover some ideas that we're going to hit later. So, you've not seen them yet. Things like coordinated orders and fire
+teams and this kind of thing, not seen them yet. They're coming later, but if we do this bit first when they arrive,
+makes so much more sense. Trust me, it really will. Um, so yes, that's what
+we're doing today. And why are we doing it? Well, thanks to the generous help and support of our patrons of members.
+The community is growing really well at the moment. So, I really appreciate that, guys. Special love goes out to Shan Cobburn, to Rogers, to Chelsea
+Discordia, and to Rudy Wolf for being the higher tier supporters for the dice gods at the moment.
+If you do sign up to that, you will get access to some unique resources that
+will help make this series even better. But crucially, today's video, you'll end up with a longer version because there
+was something I wanted to talk about. We talk about the way to plan to complete missions, i.e. plan to write a
+list. And there's one that I wanted to cover, which is biotech 4. arguably one of the nastiest and most
+unpleasant missions that are in the current version of the game. So members
+will have a plan structure of how to list right for that particular mission.
+If you are struggling with biotech 4 and you do want to see that then do please consider subscribing. It is less than
+the cost of a cup of coffee. It helps us do all of this and do more. So you get
+more and everyone's more and more more more. It's fantastic. So yes, and members, as I say, you you get the
+longer version of the video. So make sure you've clicked on the thumbnail that is all with member stuff on it and
+member member or if you're on Patreon, you're all good. Anyway, but with all of that said, let's get into it. So who's
+Theory
+ready for war? None of you, but you will be in a minute. So, in this episode 7,
+we are going to be looking at uh getting to the game, the basics of this writing,
+what are missions, how are you scoring, what is a specialist, very important question, what's a classified mission,
+what is mission static, although that's a very me way of thinking about that particular stuff, but hopefully it'll make sense to you in a minute. Anatomy
+of list, what do you need, what does the plan look like, why you shouldn't listen to me, and list principles, and then
+some examples. examples littered throughout this uh this
+set. Let's start with getting into the game where we make the decisions. Before you start your arrange
+your game, you need to choose the number of points per player and what missions to play. For infinity, the standard
+points are 300, but it scales from 150 to 400 absolutely fine. There are missions in the main rule book towards
+the back which you can use and play. So that's available in the PDF which is a free download from the site. And we get
+new, what I mean is sometimes rehashed, sometimes the same as last year, but the occasional new mission every year as
+part of the Infinity Tournament system. This is the free competitive um play
+system that Corvis Belly put out there. You can download the IT mission pack from the Infinity website. Again, links
+below. So, those are two official sources for missions. And then you have
+players and to like myself who put out homebrew missions as
+List Writing basics
+well. So this writing basics, you will always need more points. This is universally true. You can spend up to
+the points limit, so 300 and up to the support weapons cost SWC limit. There's
+one SWC per 50 points of game. So in a 300 point game, you will have six SWC to
+spend. Here we have two profiles for the Kogan Ninja. We have a standard one and
+the the one at the bottom has mine layer attached to it which is a skill. Um as
+you can see the top one is 0 SWC and 27 points and the bottom one is.5 SWC and
+28 points. So there is a subtle difference that mine layer adds a point and.5 SWC.
+So S SWC sport weapons cost is used for big guns, tricks, and gear. It's you're
+paying for the fancy stuff. It's moderating and keeping the game a little bit more sane as well. So you can't just
+spam all of the heavy machine guns known to the world and drop mines all over the place and have hackers for days. You
+have to actually moderate that with some other general troopers as well. Now all
+lists must also include a lieutenant and only some units have a lieutenant option. So only some troopers have that
+profile available to them. But crucially, you should always write your list with the mission in mind because
+you can only win if you complete the mission. So it's all well and good if you put together this wonderful, fluffy,
+amazing list of awesomeness. If he's unable to complete the mission, the best you're going to get is a draw. If the
+other guy also completely messes it up, the best you're going to achieve is a
+draw. So missions are king. This is a mission focused game. So, let's talk about missions.
+Introducing Missions
+Missions include the play and deployment area, point scoring, any classified missions. So, those are randomized
+missions you draw at the start of a game. And any HVTs, any high value targets. High value targets are mostly
+troopers that stuff happens to um that your opponent does stuff to. As a general rule in the classified missions,
+you can draw cards. Those cards will often contain HVT missions. So during your deployment,
+you'll put down a munchkin outside of your deployment zone, and that munchkin will be your HVT that your opponent will
+try and do stuff to do. So you want to kind of keep it special. HVTs are something that we'll talk about in more
+detail when we do missions in more detail later, do Tactica later, but they
+exist. They are a thing. Don't worry about them for now. Missions also include special rules, environmental
+conditions, game length, and any exceptions, any weird and wonderful things that are added into the mission
+to make them work. So that can be special skills, that can be things that don't apply, rules that are ignored,
+like retreat or something like that. Missions can include certain things that
+change the way the game works and it's very cool. Scoring missions, so your points
+How to win
+make winners. The basics are that official missions are scored out of 10 objective points. Objective points are
+for doing a thing. Some of them are scored at the end of the turn, end of the round. Some are scored at the end of
+the game. Knowing which is which is really important because if you are supposed to score at the end of each
+round and you think, "Haha, I am in control at the end of the game. I have done the thing." Well, no, you haven't.
+You were supposed to score another two times. You only did it once. This is bad news. Knowing not just how but when you
+score. Fundamental skill. How to score is defined by the mission. Some are killing, some are
+grabbing things, some are pressing things, some are doing things to HVTs. As I said, understanding who can do
+them. Specialists, for example, is crucial to success. Certain types of
+mission can only be completed by certain types of troop. And you need to be clear about that before you start writing your
+list because a good friend of mine came to a
+game where we needed multiple specialists and he bought two. So in my
+first turn, I assassinated both of his specialists and he was then unable to score. It was just then a matter of how
+much I was going to win by. I think we called it somewhere in the start of the
+second turn, second round. It was clear it was done. It was it was over. It was a matter of how bad it was going to be. And that's not fun for anyone. But
+having that understanding of who can do the job, who can get the points, really really
+important. So let's look at a mission. Here's my good friend Supremacy. And
+Example (Supremacy)
+starting from the left, we have your mission objective. So that's where you score points. Forces and deployment.
+This tells you the size of table and the size of deployment zone that you will use based on the number of points that
+are in the game. We then have our special rules. So this is where any of the weird and wonderful stuff happens. And then moving to the
+right, we have end of missions. So this is how long the game takes. Whether there are any things that are not
+applied, any sort of game ending situations or statuses that don't apply to this game, that will be in that
+area. Then we have this lovely picture of the table itself and the sizes and
+all this kind of stuff. So let's look at scoring for a second.
+There are two split types of objective. We have a classified at the bottom and
+main objectives at the top. So our main objectives at the end of each game round dominate more quadrants of the
+adversary. So if we go back a second, look at that map on the bottom right. We have four quadrants. You dominate them
+by having more army points in those quadrants. So, if you're running a
+300point game, you want to control those quadrants by putting your
+troopers in those quadrants. And at the end of the game round, whoever has the
+most troopers or the most points in a quadrant dominates it. So, if you've got
+three, you if you've got more points than three quadrants, you will have dominated that round and you'll get two
+objective points. If we then if we had the same amount then
+it's only one objective points provided you have at least one quadrant and at the end of the game you
+have to hack the consoles. So we're going to look again on that map on the bottom right we have these green dots.
+Those are consoles. So you have to hack those consoles and you get a point. You get an
+objective point for every console that you hack up to a maximum of three. So let's just do the math on this one for a
+bit. At the end of each game round, dominate more quadrants, two objective points.
+Now, we'll cover this again a little bit more in a minute, but the mission game end of mission on the bottom right
+there, it says this third game round. So, there's three turns in this game. Three rounds in this game. So, you can
+score up to six for dominating quadrants. Two points per round, three rounds, two objective points each, six
+objective points. You can then get a objective point each for hacking consoles up to a maximum of three. So
+there's nine objective points and then we get a single point for a classified
+objective taking us to 10. So as I said every mission is scored out of 10 for
+infinity at this point. This is crucial understanding
+this understanding how missions what their objectives are and how they're scored. There is nothing more important.
+There really is nothing more important. And how do you actually
+control a console? Well, that is with this short skill hack console that I've just handily put an error towards. In
+order to do that, it says under requirements, only specialist troopers can declare this skill. So, what's a
+specialist trooper? Well, glad you asked. They are specific units that have specific
+Specialists
+profiles that give them specific things that make them a specialist. Some are
+listed. Some of these are listed in special skills. Some are in their loadout listings. And some missions give
+special bonuses to certain types of specialist. That's right. You can have a special specialist. What could you want
+in life? So, who are the specialists? We get hackers, doctors, paramedics, engineers, for observers, chain of
+command, specialist operatives, and anyone else that the mission or the classified mission
+defines. So, those are your specialists. You will normally
+contain or build some of those into all of the lists that you run just as a matter of course because they're so
+useful. I mean they're useful in game anyway, but they are often the only way you can do a thing and score a point in
+the mission. So they are fundamentally important. So who are specialists for
+supremacy? Well, if we look at the specialist troop section, it says that hackers, doctors, engineers, forward observers, paramedics, and troopers with
+the chain of command or specialist operative special skill are specialist troopers. So, anyone that we just listed
+a minute ago, if you have those in here, they are specialist troopers and they can do the hack console thing, which can
+then get you scoring at the end of the game for having hacked a console. It's therefore quite important
+that you have those specialist troops in there, but we'll talk about why in a sec. So the last point we mentioned was
+Classified Missions
+classified deck, a classified mission. They come as part of the operations deck which you can see on the right there.
+They this is the third operations or classified deck that we have been on in
+12 years that I've been playing the game. So they do tend to hang around for
+a while. They are worth buying. They are important to buy if you're going to play tournaments or missions to any great
+extent. Each pack contains three different decks, but the classified
+deck, which is the one we're going to deal with today, contains 20 cards. Those 20 cards will define what
+you have to do and who can do it. So, some, for example, require you to put a Dcharge on a building. Others require
+you to look at an enemy HVT with somebody with multisspectral visor with MSV. Some will require you to do
+something else to somebody else with a heavy infantry. There's all kinds of stuff that they they are they contain.
+So the card contains everything you need to know. The mission defines how many
+you get. So as we saw with Supremacy, there is one. And how do you actually get these? You draw at the start of the
+game before you've done anything else. You shuffle your deck, you draw two cards, and you keep one. And you repeat
+that as many times as you need. So if your mission has three classifides for you to do, you'll draw two, keep one,
+draw another two, keep one, draw another two, and keep one. Obviously, you keep the card which is most advantageous and
+easiest to complete for you. These then remain secret from the enemy until scored pretty
+much. So it is a sneaky sneaky what's he trying to do, etc., etc. type thing in
+in the game, which is kind of fun and adds a definite to your day.
+As I say, supremacy, you need one worth one objective point.
+Mission static
+Fantastic. Now, mission static missions contain a lot of stuff and they are
+flavor. They can be administrative based. They can be board conditions. They can be turrets. They can be all kinds of weird and wonderful things that
+appear in the game. They are a distraction. You are there to complete the objectives that we
+were looking at previously. And these things tend to get in the damn way of it. It's inconvenient in the extreme,
+but that's what they're there for. It's flavor. I get it. They're a pain in the butt frequently. So, what do you care
+about with these? What they do? When they come into effect, if or how you can cancel them, and how or if you can plan
+around them. Sometimes you can't, sometimes you can't. for our good friend
+um Supremacy. Here the mission static is inve I've lit up in yellow. So in the
+top left we have tactical support options. There's zero. Some missions will have one or
+more tactical support options. This is administration at the start of the game that will give you free stuff for a
+trooper. It's it's admin. To be honest with you, I'm not a huge fan of it. I
+think it's a bit of fafy. I think it's a little bit of a pain in the butt and it just makes the whole bit before you
+start deploying longer which I'm not a fan of. On the right we have the quaz
+creature. Now this is a marker that you put down outside of your enemy's zone of outside the enemy's um deployment zone
+and if they get within 8 in of it get within zone of control it attacks them.
+It goes into close combat and norms them. It's a pain but it can be shot and
+killed. That's a thing you can do to it if you're a heartless monster. But it it's it's useful because
+you can you can stop your opponent coming a specific route and all this kind of thing. It is unpleasant. It is
+nasty. But it's it's static. It's it's a speed bump to get in the way of you
+doing the things that you need to do. So let's talk about the anatomy of a
+List writing basics
+list for a minute. A list includes points, uh, sport weapons, cross that we've talked about
+before, and combat groups. Combat groups are really important. As we talked about before, you can have a maximum of 15
+troopers in your list, and those are split down into these combat groups with
+a maximum of 10 troopers per group. Orders may only be shared between troopers in the same group. There are
+exceptions to this, but as a general rule, this is true. So when you start the game, you will
+write your list and you will have combat group one and combat group two and the guys will be organized
+between them. It's important to get this right. Some people will go 10 and five if
+you're running 15 miniatures. Some go 10 and five. Some will go eight and seven. It depends the composition. It depends
+the structure. It depends the plan that you have for your list as to how they need to be split about. In the actual
+game, you'll use something called command tokens to move troopers between groups at the start of your
+turn. Why would you do that? One of my common tricks is to have a pretty tough
+primary combat group and then have a secondary combat group with pretty cheap
+cheerleaders, guys that generate orders. So, as I lose troopers out of my primary
+combat group, I can move guys from the secondary in to keep the full 10 orders
+in that group because they can't be shared. It's important, you know, as you lose people out of a combat group, that combat group becomes less
+efficient. Command tokens are generated at the start of the game and you get
+four. So, you're not moving many people. And if you don't if you do do that, if you move people around with command
+tokens, then you can't use command tokens for other things. And the other things you can use them for are really useful. So there is an art to combat
+groups and when to and when not to move people around. This is a list. This is
+the meat grinder. Hello meat grinder. Um you'll see here that we have group one
+at the top in blue and group two at the bottom in red.
+Group one has 10 orders in it. Has 10 troopers in it, so it's full. And group
+two has three, so it could had have more, but I don't have the points. But that's what the groups look like inside
+of the army builder. Um, you can add
+additional groups by hitting the new group button on the left hand side above
+name, above main section. You'll see a new group icon. you can tab that add a new group yourself if you want to do the
+sort of 87 split. Otherwise, when you get to having 10 troopers in one combat
+group, it will add another one for you automatically for anyone that you add after that. So, combat groups are cool.
+They're an important thing to be aware of and can really make or break your day because if you've got six in one and
+seven in another and there's a specialist about back to complete the mission, but he runs out of orders in his combat group, he can't do anything
+more. he just stops. He runs out of juice. So, balancing and structuring your your combat groups is a life skill
+and something that you'll pick up and battle with and argue with forever. You're
+What matters in a list?
+welcome. So, what matters in list writing? First of all, let's think about what a list is. A list is like an
+engine. The parts work together to do something. That something is a plan. The plan comes from the mission.
+So, one thing you see a lot is people talking about the most what is the most powerful? What is the most powerful
+trooper? Well, if you're considering troopers in isolation, then your list won't be that potent. It won't be that
+strong because what you need to be considering is how that trooper fits into everything else inside of your list
+to complete a mission. Yes, there are some units that are overtly more potent,
+more pokey than other ones, but that doesn't matter if the job that you need to do doesn't include what they do well.
+So, think of your list as a whole, not as individuals. What matters, you have to
+have a lieutenant. I recommend you take high burst weapons, especially when you are starting out. So, that is heavy
+machine guns and Spitfires. They throw four dice when they shoot. Why is that important? Because if your dice let you
+down, throwing more dice is better. It will help. It will mitigate bad luck and
+it will mit mitigate to an extent poor tactical choices as well. So you also need to take people who can do the
+mission and toolkit options. That is troopers who can do multiple things. If they can complete a mission, shoot
+people in the face and do board control at the same time, fantastic. You also need to take
+cheerleaders. So, those are your light infantry whose only wish is to survive the entire mission by staying behind a
+box and not dying. Cheerleaders are purely there to generate orders for the heavier units inside of your
+list. Not to say they're pointless, not to say they're useless. They can still do some work, but I tend to view it as if my
+cheerleaders are doing work, something's probably gone wrong at that point. So, you need a plan. As I say,
+Planning your game
+it's a crucial part of writing a list. You need a plan. So, you need to think before you shoot. A plan is an idea of
+how you'll win the game. It's as simple as that. I am stood here. In 3 hours, when the game is complete and
+everything's tidied up and I'm on my way home, I will have won by X. But a plan also informs what goes in
+the list, how you deploy, and what you do turn one. A lot of players struggle with the
+coming to the table, where does everything go. If you have a plan, if you know how your mission needs to run,
+it is a lot easier to deploy because you have a concept straight away. But planning is hard. Plans do not
+survive contact with enemy. They also do not survive contact with your dice or your enemy's dice. But they will help you win. a plan
+will absolutely make this game easier and will make it easier to get a
+win or the very least you'll be able to evaluate afterwards what did I plan how
+did that plan go what went wrong so it's a good it's a good exercise either way let's do plan one for
+Plan 1 (Supremacy)
+supremacy so we discussed our mission objectives are at the end of the game round to dominate quadrants which we do
+by having more army points in there. We also need to have hacked consoles and
+each player has a classified as well. So, we're going to have a classified which is going to be a random thing. We have no real say over
+that. The game takes place over three rounds. So, we have
+to survive three rounds. It's as simple as that. We also see that we have bonuses.
+So the baggage bot, troopers with baggage, which is certain remotes and other
+troopers, provided they are alive and still moving, they provide an extra 20
+victory points for dominating a zone of operations, which is really cool because
+it means you have these little guys that tend to be quite quick, that tend to be quite
+capable, who can just run across a border into one of the other quadrants of supremacy and take that because You
+just tip the balance. Just that extra 20 points makes all the difference. Backage B's also quite cheap as well. So, it's a
+really nice little buff that you get in there. Capturing the consoles, which is the other really, really important
+thing. We have to use this short skill. That short skill requires specialists. So, we need to make sure we have
+specialists in our list. This is a fundamental thing. And we know who our specialists are. They are the hackers, doctors, hackers, hackers, hackers,
+doctors, engineers, Ford observers, paralytics, and chain of command and specialist operative troopers. Those are
+the only ones that can do this hacking console. If you don't bring those, you ain't getting those
+points. You also get to that a hacker bonus. So, if you are using hackers, they get plus three to their whip check.
+Now, as you know, doing a check is a normal role most of the time. Um, for
+this type of mission it would be you would do a normal roll against a console with your whip. So if it's whip
+13, 65% of the time you'll pass. You're going to roll one dice. Guarantee you're going to fail at least the first time.
+But if you use a hacker, they get plus three. So that 13 becomes 16 or less to
+push the button to to hack the console. So you have an 80% chance of success straight away. This is more better. This
+is good. So, this mission does lend itself to hackers. It does suggest that
+hackers are a good thing to bring because getting those consoles is easier straight away with a
+hacker. So, let's look at our priorities. Our primary objective, we need to control more quadrants at the
+end of game rounds for 60%. You get two points per round for a total of six. 60%
+of the total points you can get are tied up in controlling those at the end of your game round.
+Your secondary objectives is have activated all three consoles by the end of the game. That's 30% of your
+total. Now, the great thing is you only have to have activated them. You don't have to keep hold of them. So, if you go
+and activate a console and enemy comes along and activates the same one, you still activated that console. You still
+get that point, which is great. But that's 30%. So you need to get that done and then you get a classified card for
+10% which is not particularly exciting. However, that primary
+objective, it's fundamentally important to note that you score at the end of the
+game round. That means that to get your maximum points this game needs to go a
+full three rounds. If you go absolutely ham and blast your
+opponent off the board turn two, you have removed your ability to score 20%
+of this mission. You've just taken it away from yourself. You were too violent. You need
+to make sure your opponent lasts, that they stay in the game, that they're on the board, they don't run away, they
+don't retreat. So, there's a balance to be struck. You need to make sure he doesn't
+ruin your plans without ruining his day too much.
+Okay, so let's have a look at our tactical options for supremacy. Play style is normally defined by the faction
+that you take and there are normally always different ways of playing a
+faction. There are some that lend them most factions lend themselves to a specific route. You play
+chazvasti camouflage. Camouflage is the order of the day, but you can play it differently. You don't have to play it
+purely camouflage. So your play style will be influenced by those things very
+heavily and how you want to do it. So what different tactical options have we got for running supremacy? You have the
+early strike. You hit hard, you hit fast, and you dominate the enemy. You go first. Your list needs to be tough or
+sneaky because you will take that second in a round. Because you go first, your
+opponent will get to go second. And going second, they'll get to counter punch. They'll get to hurt you. You need
+to be able to survive that. And you can either do that by being sneaky or by being tough as nails
+effectively. If you like doing killing and you don't like thinking, then early strike is definitely a route forward.
+You can call it alpha strike if you want. It's kind of the same thing. The other option is to go for control and
+respond, which is to project board control. You need to go second. So, this is all about deploying early and using
+deployment shenanigans to get your troopers up the field and make it difficult for your opponent to progress
+to just give them bad choices. There's camo markers here. There's hackers over there that you need a much more balanced
+list, but control and respond is probably the more flexible route and the
+more forgiving route for doing supremacy. Early strike has a lot of things that can go wrong with it um very
+quickly. So, we're going to we're going to focus on control and respond for our
+planning. So, the key ideas for control and respond, you want to control the board. You want to make it hard for the
+enemy to move. The army itself that you have should have some mobile elements that can move into different quadrants
+because you're going to go second. So, what that means is your opponent will have their turn and they will place their troopers in the quadrants and
+dominate those quadrants as they see fit. So, let's say they take three. You'll be able to look at those three
+quadrants and say, "Right, I know he's got 60 pointsish in
+there, and he's got 20 pointsish in there, and 15 pointsish in there. Cool.
+I'm going to move my troopers to counter the less dominated areas and take those from him and leave him where where his
+force is is focused in that other quadrant. I'll leave him there. I'll take these two and take the points from
+him." So to do the control part of this mission, you need forward deployment,
+you need camouflage, you need hacking networks, you need mines. We haven't done these things yet, apart from
+camouflage, but these are all area denial board control elements that will
+stop your opponent from being able to function properly. A camouflage marker is well, what is it? Who knows? Until it
+reveals itself, you have no way of finding out. There are other units as well like uh total reaction units which
+can fire full burst in arrow. These are also good for this kind of thing. Just generally making it hard for your
+opponent to place their troopers where they want them to be and just generally being inconvenient and slowing them
+down. You think it's response. So that's the go second to move units late in the
+round to as I say take those quadrants as you need them. You can also focus down points heavy units. So if your
+opponent brings a tag, brings a nice fat, heavy tag to the board, you can maybe spend a couple of orders focusing
+that down, taking that out, and really removing those points from the board so he can't use those to score a quadrant.
+Equally, units with baggage, like this little ikadron that you can see on the right there, those
+guys, they are so useful with their 20 bonus points for controlling a quadrant.
+If you get if you get a sort of a bead on one of them, drop it. It's it's it's
+too tempting a target, too useful. So that's the overview of the
+Plan 2 (Biotechvore)
+plan. Now we're going to move into the plan two for biotech. This unfortunately is for our unfortunately this is for
+channel members and patrons only. So uh guys watching for free on YouTube. I'll see you in a second. But patrons and
+members, let's rock and roll into the monster that is biotechful. Right, everyone's back in
+Don’t listen to me!
+the room now. Thank you all for joining. Um, here's an important note for all of
+this, and this this kind of should go without saying for most things in life, but advice is not law.
+You shouldn't take to heart forums, social media, YouTubers, including me,
+veterans, your mate Tony, you Tony, your nan, she makes great tea, she does
+wonderful cake, she knows jack about infinity. What you should do is take
+advice as input, not answers. All of those things that I mentioned above,
+including me, can give you ideas. They can't tell you everything you need to know. They can't tell you the definitive
+truth. You should experiment. You should be unpredictable. You should try things you want to. Anyone that tells you that
+this is the single best unit in Infinity, this is the solving of Infinity, I'm sorry. I
+disagree. It all depends. It's too variable. There are different missions.
+There are different opponents. There are different There's too many variables.
+You can't be that definitive. It's why we don't do tier lists on the dice gods
+because I can tell you in my local meta. I can tell you in my local area. I can tell you from my play style, from my
+feelings, from my thoughts, from my looking at that list. I can tell you what I think. Doesn't make it fact. It's a
+guideline. So, with all the stuff you're going to read out there about lists and best and
+worst, all the rest of it, take it as advice. see how it applies to how you actually play and how you want to do.
+Don't take it as fact. That
+General list principles
+said, list writing, general ideas, principles for list writing. Write a list to a mission. Have a balance
+between armor, tricks, and orders. You want a bit of ideally a bit of all of them. That's the that's the sweet spot.
+Some factions again like Shazasti don't necessarily let youish, but have a balance between bey
+sticks and tricks and people that give you orders. Have some redundancy. You don't just want, like I said earlier,
+two specialists in there. You don't just want one machine gun. Have a range of options. If you're playing certain
+missions, you're going to need close-range weapons. Other ones, you're going to need long range weapons. And sometimes you're going to find yourself
+in a situation where you're sure that you needed short range, but you actually need long range. So make sure you have a range of different weaponry options,
+weapon types, multisspectral visor, camouflage, all this kind of stuff. Have
+a range of choices in your list. Find the way that works best as well for the way that you like to play. Crucially,
+don't overthink it. We haven't talked about the sentence
+yet to any great extent. That is coming in a future video. But as a rule, there are three different types. There is
+Heidi, useful, and punchy. Heidi is I'm hiding in the back of the field, and I don't wish to
+die. They they are very squishy. They are very um they're victims basically.
+So, you will spend the entire game hiding them behind a box, probably on top of a building, out the way, flat on their tummy, not dying. That's their
+whole purpose. useful are lieutenants that either have
+a specialist skill or have an ability that lets them buff other units.
+Um there is a unit called Dowying inside of um invincible army that generates
+multiple orders that can be used by other specific troopers. She's a really useful lieutenant. Um she's also
+camouflaged. She's a really useful lieutenant. And then we have Punchy, which as the
+name implies are guys that like to do violence. These guys will need to have somebody behind them with chain of
+command so that when they die, you're not completely stuffed. But there are punchy lieutenants. Tag lieutenants are
+another example of a punchy lieutenant. You're going to have to use them. They're going to have to do some violence. So yeah, there are your three
+key types of lieutenant. To start off with, I'd recommend that you run high lieutenants. just just keep them out the
+way, keep them alive, and and don't die, basically would be what I'd suggest for that one to start off
+with. So, we're actually going to do a list around plan one for
+supremacy. We're going to use this plan here, and we are going to write ourselves a list. And that list is going
+to be with Corodor, 300 points, 6SWC. Let's hand over to me with the
+army builder and look at how we put together a list based on that plan.
+Let's go. Let's put our list together. Now, as I say, we're going to be using Corriodor. What I've actually got here
+Let’s write a list!
+is the official Army Builder. Um, I've knocked out the background image and stuff that you'll see if you use this
+because I find it a little bit easier to see what's going on in that case. So, let's start by selecting the
+jurisdictional command of Corodor. This bit of the video will also add as a
+slight um introduction to the army builder if you've not played with it before. So on the top right here we have
+uh the army that we're playing, the points that we're using, the SWC that we've got and the points that we've got so far. So that's on the top right
+there. Underneath there is where our list will appear. Now what we're going to start with is by looking at our
+lieutenant options. Let's get that done. So, uh, skills from memory and we can
+select from here if we're looking for a specific skill or equipment or weapon or things like that. So, I'm just going to hit lieutenant. So, we have three
+options inside of corrug for lieutenant. The agile lieutenant here is a 10.5 SWC
+LT. So, you pay a tax for taking this guy. Why? Because it's so damn cheap and it's not what Corodor do. So you can do
+it, but it will cost you an S SWC. So we're going to ignore him. Next we have
+the mobile BA. Now this is a heavy infantry with five armor, two
+viter, 360 visor, immunity to shock, uh jump three in cuz you know, mobile. Um
+but only a multi- rifle or boarding shotgun for his weapon. Now, that means that we have a a kind of a powerful
+LT with limited offensive capability. If he had a heavy machine gun or something like that, he could be a real sort of he
+can do some damage. But in this current shape, this current load out, he's not that
+fantastic. If you look at the Wildcat, however, this is a whip 13 MSV1
+uh with flamethrower, combi rifle, and Dcharges. For 21 points, he is a bit
+expensive, or she is a bit expensive technically in this situation, but she can do a lot. Um, she
+is quite able to defend herself. When it comes to completing classified objectives, the Wildcat is one of the
+best units in the game for the range of things it can do. So having a wildcat lieutenant is also a backup for
+completing your classified. So we're gonna we're going to drop her in. Expensive as she may be, we're going to drop her in. Now we want to project a
+degree of board control, and that we can do with infiltrators. So things that can deploy on the midline. I know we've not
+done deployment yet, but that's the essence of what infiltration does. It lets you deploy up to the midline for
+free. And things with deployable weapons. So that's things like mines or crazy
+koalas. If they're also a specialist, that would be amazing. Let me introduce you to the Moran. The Moran is also a
+filthy piece of equipment like the Wildcat. What we're going to run is a copy rifle and a boarding shotgun. Now,
+these have repeaters, which as we'll see in our next module, you can hack through. So this extends our hacking network. Anything within zone of control
+and can be hacked. They deploy on midline or up to the midline. So they're
+right up the field. So even though we're going second, our hacking network is going to be on midline at the start of
+the game. They also have crazy koalas. Now these are a type of
+mine which you can deploy within 8 in of your moran and then if anything gets
+within 8 in of that crazy koala that you put down, it will run at the person that got close to it and explode. They are
+horrific. So from the perspective of board control, a pair of brands is very
+hard to beat. On top of that, they're also forward observers. So they are specialists in their own right. So if
+you have a mission that requires a specialist or you need to forward observe something, the Moran can do it.
+It it can do the whole shooting match, which is kind of bonkers.
+Next up, I'm going to go back to the Wildcats because they are quite potent units for doing violence and they're
+quite sort of in the midpoint of being expensive. I'm going to get myself a
+Spitfire. I'm going to get myself an engineer and a killer hacker. So, that is three wild cats together. The
+Spitfire is the light machine gun, as you know. So, that's got the high burst output that does putting bullets down field
+basically. That's what he does. Um, he also has the multisspectrivisor level one, which you can see on the equipment on the left here, which means that he
+can hunt camo relatively competently. The engineer is another
+specialist. He's got a light flamethrower and decharges. Now, light flamethrower because we're going to be running quads, quad control. Um, having
+something with a template that you can put down because the enem is going to need to potentially get close to you is nice. So, this puts down a little
+teardrop template every time you use it, which is not pleasant to get close to. Dcharges are really potent for
+completing certain classified missions and there are certain situations where you would stick it to an enemy and blow them up. Less so now than used to, but
+it is one of the options. Um, so he's he's a good one to have. Likewise, the
+Wildcat kill a hacker. Another light flamethrower, another set of Dcharges. Fantastic. But the Wildcat can
+kill other hackers. Now, we get a bonus in this game mode
+for doing the um the consoles with hackers. So, this World
+Wildcat when it boots the the antenna to take it, it's going to be rolling 16s,
+not the 13 that you see here, cuz we're going to get plus three. It can also kill other hackers.
+So, if it stays close to that um console that it's just taken and another hacker
+gets close to the console to try and steal it, you can attack it and kill it potentially. And if that wasn't good
+enough, the repeaters that the man have on their back, the killer hacker can use to hack other people. That includes an
+ARO. So, if somebody walks close to one of these Morans, our Wildcat can go haha and attack them. This is a good
+thing. Another thing we've not done yet is that these wild cats are in a fire team. So
+when you spend a single order, again, this is the next module, but when you spend a single order, all three of those wild cats will move together. So in your
+active phase, it's really order efficient to move these guys around the board, and you're potentially getting what, 75 points that you can reposition
+with the single order, which when you're trying to control those quads in the second um activation is quite potent.
+Next up, we are going to stick some more hackers in because we've got this hacking network that we've built up. Um,
+and I want to make better use of it. So, where are we? Jazz and Billy. So,
+Jazz is a character and she has a little robot, Billy. And 25 points, they both
+generate an order. So, you actually got two orders for that 25 points. Billy is another repeater, so to
+extend your hacking network, he can do that. He also has mines that he can put down and he's got something called flash pulse which lets you blind the enemy.
+Jazz is the epitome of sit on the back field and not move. That's kind of her
+thing. She's got a submachine gun, so she's close range with that. She's got a pitcher which lets her fire out
+repeaters. That's right. She can extend her own hacking network which is quite dirty but she has hacking device plus
+which is one of the better options of hacking device with trinity which is the
+um hacking program which lets you attack enemy hackers. So she is an anti-hacker hacker. She is also a standard hacker
+with all of the tricks who can use the repeater network that the mans have. So
+that's extender out that can use Billy to hack um and that can fire out her own repeaters with the picture. So we've
+getting this really big hacking network that we're putting down on the table which is just not pleasant to play against to be honest with you. But
+that's kind of the idea. Um okay, who's going to go now next? We
+are going to add into the mix one of my personal favorites, Colossa Kowalsski.
+Now, Colott is an engineer, as we can see on her special skills, and she's a parachutist deployment zone. So, she can
+walk into the back field of the enemy with her light flame throw, with her adhesive launcher, which glues things
+down, with her breaker combo rifle, with her Dcharges, and start going and doing some violence, which with BS13, she's
+quite potent at doing. But crucially, if you need to um clutch
+a a quadrant, she can walk into that quadrant on the board edge and add her 29 points instantly to that quadrant
+just by appearing. Also, if you need to do an engineer ability on an HVT that's
+hard to get to, you can just walk Carlotta close to that HVT and then with her climbing plus, she can run across
+the field and get it done. She is a beast. Um, she rarely fails to make her points back. And with the whip 14 that
+she's got, when it comes to doing missions, she's incredibly potent, incredibly
+capable. Next on the list, I think it's time we put some guns in here. And if you look, we're at nine for our combat
+group one. So, this is going to be the last thing we add into combat group one. Now, can we find him? One of my personal
+favorites, an old friend who never fails to do some work. There we go. an intruder with a heavy
+machine gun. The intruder is one of my favorite
+units in the game. That doesn't mean to say it's one of the best, but it definitely means it's one of one of my favorites. So BS13, three arm, but only
+one viter. So he's only got one wound, but multispectral visor level two. So he is a camo hunter extraordinaire. With
+that whip 14, he's very good at doing it. He also has camouflage and mimism minus
+three with his heavy machine gun. So what we have is a heavy machine gun that
+deploys at the edge of your deployment zone in camo state with MSV2. So any
+other cam markers that appear, you can just frag them quite happily with the mimiters of minus three. So you keep him in cover and he's minus six to
+hit with the ability to go back into that camouflage state. He's a beast. He
+he does work all the time and I'm I've never sort of seen intruders whiff. They
+you know they might they might miss the odd shot but as a rule they just put down so much violence. Um I have a lot
+of love for intruders and would highly recommend that you take them. So now we are into
+the end of this list. We've got the last we've got five possible troopers that we can add to this. Who shall we add first?
+I'm actually going to add a jaguar with a chain rifle.
+The smoke grenades gives you the ability to move around the field if you want it. And the chain rifle is a big template
+weapon. A 10point regular order is not to be sniffed at. However, that's kind of not what this guy's for. What I use
+this guy for is sitting next to the intruder and dropping smoke on the intruder. Although we've not done smoke
+yet, what this means is because the intruder has MSV2, he can see through
+smoke. Other people cannot see through smoke. So you pop your smoke template on top of
+your intruder and then your intruder targets somebody who doesn't have
+MSV. Now the intruder has mimis a minus three. So that whoever shoots back is at
+minus three. The intruder should be in cover. There's another minus three. So you're now at minus 6. And because
+you're shooting out of a low visibility zone, if the opponent chooses to shoot back and they don't have MSV, then they
+are subject to a minus6 modifier. So that means that they will be shooting back at your intruder at minus
+12. Yeah. It also means that only people who are shot at by the intruder can ARO
+to him unless they have a unless they have um MSV. So your intruder can sit as a
+little turret in a pile of smoke just fragging people across the board who are at minus 12 to shoot
+back. I mean I mean what's not to love? Even if they're in good range, they're at minus 9. And the intruder, he ignores
+your your mimitism. You might be in cover. So with the 32 in range on the
+heavy machine gun, there's a good chance he's going to be at plus three range, minus three if you're in cover. So, he's going to be hitting with four dice on
+13s, and you're going to be shooting back at minus 9 at best. This makes me happy. It is a great
+trick. The the the Jaguar and Intruder for that cheap order, for the cheap smoke, and if needs be, a late game
+chain rifle, big big teardrop template um air effect weapon, not to be sniffed
+at. Where are we going to go next? We are going to add in something that I'm
+sure you saw coming because we've talked about it quite a few times. I'm going to add in a salute. Now, Salute has baggage
+moves 44. This is literally that 20 point buff. So, I can add two of these in for
+eight points each, but when they're in the quadrant, they count as 28 points a
+piece, which is great. On top of that, they also have repeaters. So, the
+fact that they have repeaters means that if anything gets within their zone of control, then Jazz and the World Cater
+hacker can all hack whatever gets within that zone of control. They are a great
+little hacking network extending option plus that baggage option really makes them quite potent at doing their job.
+Now, into the last of things, we're going to add um one more specialist to
+do some good work. We are going to add the tomcat doctor for 22 points. Where
+are you again? A light flamethrower that walks on the board. A specialist who can
+come and do a job. If you need to do something to an HVT, he's great. If you need to suddenly stand up one of your troopers, he's great. If you need to put
+22 points into a quadrant late game, he's great. They're just amazing because they are climbing plus because they're
+parachuters. They are incredibly capable. Plus, your opponent will expect one airborne deployment with Kolkowski.
+But with the second being in group two and that being a maximum of five orders um because of the 15 trooper cab, they
+won't see the Tomcat coming until it's suddenly in their face. So, we have 30
+points on 1.5 SWC. What to do with that? There is, in my opinion, only one thing
+to do because this is also an auto include for me because I just love them. I think they're great. It's the Evader.
+The evader engineer with AP
+Spitfire. Oh, sorry. No, the
+AP. It is the Evader with AP Spitfire and D charges. This is a
+BS13 armorpiercing Spitfire, so it can deal serious damage to anything with
+armor. He's armor three. He's got climbing plus. He's got no wind incapacitation. He's going to do some
+serious work. Um, he always does. He doesn't tend to die. That BS13 makes him
+a really good shot. He's got specialist operatives, so you can do certain missions with him, too. He's a very capable unit. And for 29 points and 1.5
+SWC, that three armor, that two viter, that AP Spitfire, I don't know why you
+wouldn't. Not two viter viter plus no wound incapacitation. No wound incapacitation effectively gives you a
+second wound. Again, something for a future video. So, that puts us at the
+six SWC and the 299 points. So, this is the full list. We have the void control on there.
+We have the efficiency with the the fire team of wild cats. We have the airborne drop troopers who can who can drop in
+and do stuff. We have the intruder, the evader, and the wildcat Spitfire who can all put down large volumes of fire as
+necessary. The AP Spitfire is fantastic for dealing with armor. But then we also have this large hacking network that can
+deal with armor. All in all, this is a very capable list which for our specific
+mission, it's it's this is going to do a great job. This is going to do an absolutely fantastic job, I have to say.
+Um supremacy with this, you've got redundancy in there. If one of your heavy shooters dies, you've got more
+heavy shooters. If you one of your specialist dies, you've got more specialist. whenever your hackers dies, you've got more hackers. You have a huge
+range of options of things to do here. And it's it's a very capable list. So, that is how I would write a list to
+fulfill a plan. That is how I'd create a plan. And that's how I'd read a mission going backwards in time. I hope that
+makes sense. If you have questions, drop them in the comments below. But apart from that, of course, do like, share,
+and subscribe because that helps the channel grow. But for now, thank you so much for watching. We hope you found
+this useful and look forward to more from the Infinity Institute coming very soon.

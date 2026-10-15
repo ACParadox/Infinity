@@ -1,0 +1,416 @@
+
+Introduction
+So, as we come to the end of the series, we're going to talk about the start of the game. Clearly,
+welcome to learn to play Infinity N5 from the Infinity Institute from the Dice Gods. My name is Hydra and today,
+as I say, we are going to be talking about the start of your game. that very important bit where you do a shedload of
+admin and the shed load of dice rolling and bits and pieces and then you start playing.
+There's a lot of ground to cover. We're going to talk about skills. We're going to talk some theory about deployment and for members actually there's quite a
+detailed in-depth bit about the theory of deployment and some core ideas. There
+will be a video later from the Infinity Institute where we talk in more detail about deployment, deployment tactics and
+the different styles of deployment that you can do. But here we're going to cover some of the basics. So if you want
+to get in on that redhot action, then do become a channel member or a Patreon. It
+costs less than a fancy coffee and I think we're better than a fancy coffee.
+then you get access to more video and some downloads on some other bits and
+pieces that we've got coming up. Plus, you get to have a nice chat with me and use Discord to ask questions and clarify
+bits and pieces that maybe you didn't get in the videos. So do consider signing up as the mighty Shaun Cole Burn
+and Old Man Rogers, Kelsey, Scolia, Ric Wolf, Chris Sexton, Riker 6, and Cass
+have done along with all the other guys that have also signed up and girls who have signed up as members to the
+channel. What you're doing has made this series possible and has supported me greatly and I really really appreciate
+it. So yeah, if you want more of this, get on that. But for now, let's actually get into the details of the start of a
+game of Infinity N5. Right, episode 10. We're finally here, starting a game. We've covered the everything else you
+Overview
+need to learn. So, let's talk about actually starting a game. And in this video, we are going to be covering the
+game start process, classified objectives, initiative roles, high value targets, command tokens, and when to use
+them. I don't mean in the game like you should reform a fire team now. I mean, kind of like when do you spend the
+command token to do the thing before the game starts? Cuz there are a lot of things that you can do, including speed
+balls. We're going to talk about those. We're going to talk about the tactical support uh options. It's a thing that
+came in with it 16. We're going to have a look at that and what that means in a little bit of um little bit of an
+overview rather than detail. Uh we're going to talk about deployment if you go first, deployment if you go second, and
+we're going to talk about deployment skills um for
+non-members, it's going to be more of a sort of overview of deployment, but um for channel members and patrons, we're
+going to go into some detail on that. So, let's not kick around. Let's get into this with
+Game Start
+game start process. It begins. So, this is the game start process. And if it
+looks daunting and intimidating, yeah, it can feel that way. This, like
+so much else in Infinity, is a 1 2 3 4 5. and you get into the process of doing but but but but
+there are things that have to be done at a specific point because to do them out of that process would screw up what's
+happening in the game and could change things. So this is kind of an important one to do and you need to learn the ABCs
+of this. Yeah, it it comes with practice. The
+more you do it, the easier it gets. So, the general overview of the general process. You see, we're talking in
+generals because certain other things do change it. I'm not going to talk about those, but certain missions, for example, require you to draw more
+classifides and things like that. But, as a general rule, a end mission, A standard mission, you will walk up to
+the table, stare lovingly at your opponent, and draw your classified missions. We've
+talked about classifies before. They're done with the tactical deck, so we're going to go into that in detail in a
+second. But you will draw them pretty much your first thing. You notice you haven't ruled for initiative. You haven't
+actually made any decisions about who's going first, who's going where, what, why, or how. That's not relevant at this
+point because you need to know what you're trying to achieve because that can impact
+which side you take or whether you choose to go first or second. It can have that impact. You then draw your tactical support buff because that's
+what tactical support does in IT-16. It gives you a buff. If you don't remember it, Infinity Tournament system,
+yeah, system. Um, every year we get a new season. We're currently on season 16
+and that brought with it tactical support. We will talk about that in a second. Check the board.
+That's an important one and something that a lot of people don't do. Have a look at the board before you've made any
+decisions about what's happening or anything like that. Make sure you're happy with the board. This is also the
+point where if you if you have multiple lists like you would in the tournament, you'll normally have two lists at a tournament. You choose your your your
+list you're going to run at this point. Next, you roll for initiative. Then the player one places their HVT. We're going
+to talk about HVT in a minute. And all of their miniatures apart from one. Then player two does the same. Then player
+one puts their remaining mini and fire team markers down. Player two places their remaining mini and fire team
+markers down. Player one, so the person that deployed first may then spend a command token to use speed balls in the
+game. Player two may then spend a command token to use speed balls in the game. And the player who is going first,
+not necessarily player one, starts their tactical phase. So you counter support your orders and all that good stuff. And
+the other player who is now reactive may at that point spend a command token to
+remove two orders from a group as we've spoken about before or may spend a
+command token to to only allow the active player to spend
+a single command token in their first turn or they can spend a command token to set up suppressive fire on one
+miniature in their list. So this is the points at which everything happens.
+There's often some confusion, especially with the whole when do I spend my command token to because normally,
+bluntly, you're going to spend a command token to remove two orders from your opponent. That is normally what you're going to do. When do I do that? You do
+that just as they start their turn. As they're counting up their orders, you're going I'll have two of those. Thank you very much.
+That is the general process of starting a game of infinity.
+It looks long-winded. It looks because there there's other admin that's mixed within this. We haven't talked about
+camo tokens and stuff like that. Not really going to touch with that too heavily, but this this whole thing
+takes some time. There is some stuff to chew through. And we're going to talk about the timings and how long this
+should take. So getting this down as a process of like 1 2 3 4 1 2 3 4 is really really important as with so much
+else in Infinity. Hopefully you're seeing the benefits of of being able to do an order without thinking and do a BS
+attack without thinking. Hopefully that's starting to come on stream for you now. Um but yeah, this is another
+process that you need to get your head around and need to get between your ears quite comfortably.
+Classified Objectives
+Classified objectives. So the first thing to do is draw the classified objectives, the sneaky stuff. What are
+they? They are 20 cards which form part of the tactical deck. Each contains a mission, how to achieve it, and who can
+do it. Because some missions can only be done by a hacker. Some can only be done by a guy with MSV. Some can only done by
+a veteran on a Wednesday when it last rained in Genoa. I don't know that you
+read the card, it tells you what to do. They tend to be specialist heavy. So
+they tend to be focused on specialists, but there are some in there that are completely unrelated to specialists. So
+how many do you need? That is defined by the mission. So here we have this is an excerpt from the IT um PDF. Classified
+each player has one classified objective, one worth one objective point. How do you draw them? You shuffle
+only the blue classified objective cards from the tactical deck. You draw two, read them, choose one, and discard the
+other. You repeat that until you've got enough cards. So if if you had two classifies to do, you would draw two
+cards, keep one, draw two cards, keep one, and that would give you your two
+cards to run. If you draw two cards that you want to start off with, tough. You
+still have to discard one, put it off to one side, and then draw a fresh two. You can't just go, "Oh, these two are great.
+I'll keep them." You have to choose one. There are certain circumstances where
+it's possible to have duplicate classified objectives. And that is specifically uh with missions like
+highly classified because you will use your classified deck and your play will use their classified deck to draw
+missions that you both play and then you'll draw a separate classified for yourself. And if you happen to draw a
+card that has already been drawn, you may not have duplicates. You can't have two. You have to have something unique.
+So if there's ever a circumstance where you have a duplicate card, you're redrawing it. That's it all about it.
+But drawing classifiers is actually really really simple. You just get the deck, you shuffle it, you draw two, you keep one, you draw two, you keep one
+until you you've got enough. It's really, really straightforward. Tactical sport. More stuff. Brand new
+Tactical Support
+for OTS 16. Let's go. What are they? They're an extra buff assigned at random. They include rerolls, free
+equipment, extra weapons, all this kind of stuff. The number and availability of tactical support options is assigned by
+the mission. So here we see acquisition gives you one tactical support options apparently. Some of them have multiple,
+some of them have zero. You'll find them at the in the IT PDF link below and
+yeah, it'll tell you how many you get. How to draw them. You take the tactical objectives from the tactical deck. So
+the same deck that came with the classified objectives is in there. There's multiple different colored
+cards. I think they're green from memory. You remove King of the Hills, Central Commands, the Domination, and
+Domination. Shuffle the deck and draw one card per tactical support option mission and then
+look up the symbol on the card in the IT PDF table. Give the result to a trooper who isn't remle
+or appears on the table in market state and make a note of who has what. So, this is things like you can give you can
+get a uh a gizmo kit which lets you engineer things. You get a symbol on your card, you match
+that to this table. The table tells you what you get. You get a gizmo kit and you say, "Right, that dude over there now has a gizmo kit."
+I'm not a huge fan of tactical support if I'm honest. It It's admin for the sake of admin because you then need to
+track who has what. And if they are if they're equipment that has certain
+number of uses, you then have to track who's used what, blah blah blah. It's just a pain in the butt. If if you get
+one free reroll, you just remember that guy has a free r. It's just hassle. Um
+I'm not a fan because it just adds more time to the start of the game. It's more faffing. So it's there and it's if you
+play tournament it you will in if you play in tournaments you try anyway play in tournaments you will uh you you'll be
+using these but as a as a rule um slightly wellemed by them. They're me at
+best. Moving on. Check the board. Take a look around.
+Check the Board
+This is very very important. This is about knowing the battlefield. This is about
+getting understanding of what's on the table before you start. So what are you looking for? You're looking for long bi
+lanes that go from the edge of the board to the edge of the board. You need to ensure there are places that are good for sniper rifles and others that are
+good for close-range templates. You need to make sure that AD troopers can come in on the board edge or have somewhere
+to land. You need to look at the deployment zone and check that there's, you know, a massacre in the back field isn't an
+auto, you know, auto conclusion. You need to make sure that the battlefield is
+balanced for all who are going to be playing on it. That it is nice and simple. Now, this is a friendly game
+that's nice and simple. If it's a tournament, you can only really do this in the first round. But take a moment
+just to make sure that nothing's unbalanced, nothing's stupid. Why do you do it now? because you're
+about to play your game on the table. It should be your canvas. It should be a backdrop to the drama that's going to
+unfold. It shouldn't be a third player. It shouldn't define who wins. I have
+seen tables that punish certain types of army. Um I went to a tournament once and
+was using uh parachute troopers who walk in from the board edge and there was a 2-in gap down both edges of the board. I
+wasn't walking in anywhere. So, I walked my troopers and they were getting shot. instantly. That was completely useless.
+In addition to that, the board was incredibly high on one side and had a lot of cover, had an overhang, so my
+opponent was running hackers, so he could stick them on top of this building that had the overhang, walk them across
+the overhang, and just hack anything underneath him. I lost badly in that game. I I couldn't
+bring my troopers on that I needed to. Anything that moved up the board got hacked. If I tried to get on top of the
+space because of the way the board was set up, it was impossible to climb up uh without getting seen and shot. It was a
+massacre. It was brief and it was violent. But it was the second round of the tournaments. There was nothing to be done. I mean, don't get me wrong, the
+table was beautiful. Absolutely stunning table to play on. Hot trash. So,
+you are going to play your game. make sure that the g the the table doesn't get in the way of you having a fair game
+and you're doing it before you know who goes where because then it's unbiased. You're not going to be like, well, I
+mean that's a really massive fire lane here. You know, I'm kind of over here and I've got sniper rifles. That's no
+problem for me. You want to avoid any questions of impropriy of of anything like that. So
+check before and if you're not happy, let the TO or let the TO know say look I
+just this just isn't right to me. This here I'm not happy with her. And an ATO
+worth their salt will be like yeah okay no fair one I can see what you mean or argue it through with you and be like yes there is a huge fire lane down here
+but that's because this side of the wall is incredibly dense and good for templates. So you've got balance.
+always ask. There is nothing worse as a to and I've had it that you get to the end of the
+tournament and somebody comes up say, "Yeah, but I played on this table and it was it was rubbish." Well, why am I hearing about that now?
+Why am I hear about it now when I can't do anything about it? You've had a bad gaming experience. It's been rubbish from your perspective. If I'd have
+known, I could have done something. So, everyone's there to have fun.
+Everyone should be enjoying themselves. So, always ask a question. Always check your battlefield. Always make sure you've had a look at the board before
+you start the game. Okay,
+Initiative Roll
+the initiative roll. Let's go. It begins. So, the initiative roll. My LT
+is better than your LT. We all know it's true. It's a face to face roll against your left turns whip stat. You get your
+whip stat, they get their whip stat. You roll equal to or under. Whoever wins wins the initiative.
+If you get the same result or two failures, then you roll. simple as standard as you'd expect. Um, in this
+case, your LT's width is open information, but who the LT is remains closed. So, what that means is
+you both have your dice in hand ready to make your initiative roll. You're happy with the table. You've done your classified objectives. You've done all
+the other bits and pieces you need to get done. And you have in your sweaty little puddle
+and figure out who's going to choose turn order, etc.
+You then say the whip of my lieutenant is X 13 12 because you played Pano or 15
+because you play a decent faction like Nomads. You let your opponent know what the whip is. You don't let them know who it is,
+but you let them know what it is. They do the same. And then you roll your dice
+because then there is no issue or question about what you're aiming for and who succeeded and who failed. As
+ever with a face tof face roll, do it nice and clearly in front of your opponent, make sure they've seen and acknowledged what you got before you
+pick your dice up. It's just good manners. And this is a very important role. So do that. Whoever wins, whoever
+gets the highest value closest to their whip stat, but equal to or under chooses
+to either take initiative or deployment. So initiative player chooses who takes first player turn per round and that
+order remains the same for the whole game. So who is active player first or you can choose deployment. In that
+circumstance the player chooses who deploys first and on which side of the board.
+So you either get to go first normally or
+to deploy to to make your opponent deploy first and on the bad side of the table because there should always be an
+asymmetric setup of a board. There should always be a bad side deployment. Let's talk about the big bad
+Deployment
+boy deployment. Getting boots on the ground. What's the process? The player chosen to
+deploy first deploys their HVT then all of their minis by one. The player chosen
+to deploy second deploys their HVT. Then all enemies bar one. First player places their last mini. Second player places
+their last mini. And it's time to start the game. So
+everything HVT everything one. Second player HVT everything one. Final money
+for player one. Final money for player two. Throw dice. Spend orders. Have cake.
+So where do you get to deploy? The mission and points level defines the deployment zone for each player because
+points level defines the size of the board. So here we have our friend supremacy. On the left we have 150
+points which is 24 in x 32 in. You play that on 2250 is 32x 48 and 350 and 400
+points is on a full 48 in x 48 in board.
+So if you look at the bottom of the page, we have 150 points, we have an 8 in deep
+deployment zone. When we get up to 200 points and 300 points, they are both 12 in deep. For a 300 point game, they are
+the full 48 in wide. But obviously because 2250 points is only 32 in wide,
+you got 32 in points. So knowing how many points you are playing
+on will define the area you get to deploy in your deployment zone there.
+Checking that being clear on that is really really important. Getting yourself set up and and ready to roll in
+that before you hit the table is good. If you know that you have 12 ines to deploy in, you can hit the table, do
+your admin, roll your initiative, get to your side of the board and go, "Right, cool. This is my deployment zone. Now I'm going to go. It also means that when
+you're looking at the table trying to decide which one to choose, if you know roughly how big 12 in is, say you're
+doing a 300 point game, how deep 12 in is, you look at the table and say, "Okay, I'm going to be deploying in this
+band here with these buildings and this is a good deployment zone." You'd be
+amazed how often you look at it and you think, "Oh, that's cool." But it turns out that a building is 15 inches away from the board edge. So it's not
+actually an important zone. You can't actually use it. So getting the ability to judge that 12 in distance is
+important. It's a skill you will pick up and it's very very useful. So that's how we define our deployment zone. It is
+done by the mission. But as standard 300 point game 12 in deep by 48 in wide is
+standard pretty much. Although we are seeing some half sort of circle
+quarter sphere deployments coming in. All very exciting for the time being.
+Standard deployment tips. These are our general deployment tips.
+Deployments. Your deployment should be informed by your plan and the mission, but mostly by your plan. You read the
+mission. You created the plan. With the plan, you created a list. With the list, you came to the table.
+With that plan, with that list, it should be fairly clear to you who needs to go where. But give yourself
+flexibility in deployment. Don't put something where it only has one route out of the position position it's in. If
+you have a heavy hitter that's in a sort of corner of the table, a sensible
+opponent will put something covering the only route that that has out because you
+you're going to use it. It's a heavy hitter. It's your big tag or your heavy infantry or your fire team. It's coming
+out of the corner and I know which way it's coming. So, I will shoot it for you when you take it that way. some plats.
+As a general rule, don't give too much away in how you deploy. So, if there are three boxes down the middle that you
+need to catch, you need to control at the end of the game, don't stick all of your army on the the left flank up to
+the middle because that tells you that it tells your opponent you you're going down the left. Okay, cool. I'll catch
+the one on your right for you. That's no problem. That's pretty easy. I can do that really simply. And then just focus
+all of my killing stuff on slaughtering your army because they're all going to be concentrated on left. This is not
+ideal. Come to the table prepared. If you're using camo, know which numbered marker
+is who and have it written down or in fact can know which number marker is who.
+Having yourself planned out because with camo markers when you're running multiple you need a numbering system so
+you know which one belongs to who. You need to have that written down. You have that on your list. Have that done before you come to the table. There's no reason
+that you shouldn't prep that before you come to the table. And then it's just that much easier because then you can put your five camera markers out in
+front of you. One, two, three, four, five. Cool. Five is Bob, three is Steve, two is Jack, and then you can put them
+on the the places around the board. As a guide, in a two-hour tournament,
+you will get an hour's worth of play. To get through three rounds of Infinity and
+your deployment, you should have all of your admin and all of your deployment completed within 15 minutes. So that is
+from arriving excited and giddy to the table to starting the first turn. Both
+players should take a maximum of 15 minutes. So you need to do all of this in 15
+minutes. You'll need to practice to get to this this sort of timing.
+For me, as you're going to see later, some of you will say later, I can do all of this in the admin in less than five
+minutes. Why does that matter? Because in a competitive game, less time deploying is more time playing. It's
+more time spending orders, more time, more breathing space to make tactical decisions. If I can gain 10 minutes back
+of an hour by being quick in deployment and only taking five of the 15 minutes that I could take,
+then I have more time to actually spend orders and consider my tactical position and my options. What do I mean by 15
+minutes of an hour? When you start the game, your first
+round, you're going to have the most miniatures. So, you're going to need the most time for that. By turn two, you're going to end up with less miniatures.
+So, you're going to need less time. And turn three, to be honest with you, there's people with holes in blood and guts everywhere. So, you're going to
+need the less time for that. an hour roughly just as a sort of guide for
+yourself at a tournament. Your hour of your turn, 15 minutes to deploy, 20
+minutes for your first turn, 15 minutes for your second turn, 10 minutes for your last turn. That breaks down to an
+hour. If your opponent does that, that's an hour each. That's two hour. That's a 2hour tournament round.
+So 15 minutes to deploy, 20 minutes first round, 15 minutes second round, 10
+minutes for your final round. It's roughly the way that you can do it.
+A big note, over many years, I've noticed that the people that find deploying hard,
+it's usually because they don't have a clear plan when they wrote their list. If you know what everything needs to do
+in your list because you wrote a plan to complete the mission, then
+it's it's really easy. It's really clear what you need to do on the table because this guy's doing this job and this guy's
+doing this job and this guy's doing this job. So, you can just get yourself set up really quickly. You can speed up your deployment therefore by planning your
+game when you write your list. mentioned this before, but having a plan makes so
+everything so much easier from from writing a list to deploying through to your first turn through to to winning
+the game. Having an idea of how that looks, having an idea of how that's going to play and what each PE in your
+your list is going to do makes all of this that much easier.
+HVTs
+High value targets. We have friends on the board, people. Let's give them a cuddle. the HVT. Each player may have
+HVTs based on IT missions. Most IT missions have HVTs, high value targets.
+Not all of them do. And describing them as mission mcguffin is 100% correct.
+They are non-competents who have things happen to them. So, we talked before
+about uh the classified deck using specialists. Things that you will do to your enemy's HBT include getting a
+doctor up to it and doctoring it. Doesn't do anything, but you're taking a sample. Um, you can close combat them to
+death. You can scan them with MSV. You can scan them with hackers. You can spotlight them. All kinds of stuff you
+end up doing to these poor HVTs. They're just out for a walk and you just lighten them up like it's Christmas. But that is
+what an HVT do. It is a mcguffin upon which you will act.
+The mission decides if and how many HVT each player has. There are missions
+where you have multiple HVTs. A lot of HVTs, more HBTs than you'll be reasonably comfortable with. Seems every
+year or so CB loves to bring out a mission where you have more HVTs. I think we have one of them you have four each or something stupid. It's just like
+ah fine. And they're mostly used as the safe classified objectives. Placing an
+HVT in deployment is the first mini on the table. You just start your deployment. First thing to go down is
+your HVT. You place it at least 4 in outside of your deployment zone. It can't be in a building. It can't be on
+top of a building. Now, you know that the only thing that's going to happen to that HVT is that your opponent is going
+to try and score points by doing stuff to it.
+So, it should be in the most good awful hard to get to, difficult, but not on inside or on top of a building place to
+get to. ideally or possibly even with some of your troopers covering it. Make him work
+for it. Make him spend orders to get there. That is what you need to do your HVT is just make it difficult. Ideally,
+in fact, so that your opponent just gives up and doesn't even bother trying to get your HVT. That is the dream. That's what we're aiming for.
+Speedballs
+Speedballs. This is new for N5. What are they? So, as we've spoken about
+before, you can spend a command token at the end of deployment to get two speed balls in a game. You will pick the
+contents of one and roll for the other. How do they arrive? During your active phase, without spending an order, just
+between orders, you can place two 55 mm markers on the table. You roll for each
+as a combat jump with PH14. So, 14 or lower, they land where they're supposed to. They fail, they end up in your
+deployment zone in base contact with the board edge. You will roll for each of those markers independently. Place them
+on the table. Roll a dice 14 or less. It stays less than 14 back in your deployment zone. They may not however be
+deployed in contact with models, markers, tokens or scenario objectives. So what is a speed ball? It is flying
+free stuff. What's in the box? One of six things. Vitac, auto repairs,
+switch on, jetack, overkill, or nano shield. So
+when it comes time to putting these on the deck, you will pick one of these six for one of the markers and then you will
+roll on this table for the other one. What do they do? Vit pack and auto repair, they cancel the they cancel the
+unconscious states of viter or STR troopers. The vitac cancels unconscious
+for a viter trooper and auto repair cancels unconscious for an SDR trooper.
+It's a heal. Basically, just a heal. Uh, crucially, you can't use it on yourself.
+You have to get somebody else to come along and use it on you. [Music]
+Switch on cancels immobilized A, immobilized B, isolated and stunned states. So, if somebody's taking a
+distinct dislike to one of your troopers, glued it to the floor, isolated it, and stunned it, you can use
+the switch on speedball just to cancel all of that in one fell swoop. It's kind of great.
+Jetpack gives an S2 trooper the super jump jet propulsion skill which we spoke about before which essentially lets them
+launch themselves into the air and fly around corners. It's cool kind of also.
+Yeah. Uh then we have overkill which either cancels the unloaded state. So if you have a weapon that has a few uses
+you can use this speed ball to reload them or it gives the saving roll minus
+one for one order. So it effectively increases or sorry decreases the PS of
+an attack by one for one order. I don't think you'd ever use that to be honest
+with you. Overkill I'm not sure I'd ever have fighter pack auto repairs switch
+on. Absolutely. Jetack. Okay. Overkill if you roll it. And nano shield as
+opposed to nano shield. Not spelling when we wrote this. Nano shield. It gives a trooper plus two arm for saving
+rolls on one order. So, if you know you're about to walk into an absolute poop storm, you could
+put a nano shield on one of your troopers and walk around the corner and be like, "Nah." Um, that's only for one
+order, like overkill. Fine. Um, Vitac, auto repairs, and switch on
+are very much it's all gone horribly wrong. Save me moves. Jetack overkill and shield are more gimmicky for me. I
+mean, cats unloaded state with overkill could be fun. Um, the speed balls are single use and non transansferable. So,
+somebody needs to walk over them, make it base to base, and then they pick them up, they then have them. They can use
+them on someone else, but that trooper then has them. So, that trooper then dies.
+Deployment skills. Kill them quicker. We have many deployment skills. So, what
+we're going to talk about these these skills is very much in brief, okay? We're not going to go in detail because
+there's a lot of especially some of the ones we're going to deal with in a minute. They're quite detailed.
+So, read them up in the rule book, but this is an overview of what they do. For deployment, the trooper may deploy
+beyond the limits of their deployment zone. So, normally you have to stay in your deployment zone. This lets them go beyond. They may deploy the distance in
+inches included with the skill on their profile. So here is a heckler. Only his special skills. He has forward
+deployment plus 4 in. So if you had a 12-in deployment zone, the heckler can
+deploy within 16 in of the longboard edge.
+That that's it. That's what it does. Simple as that. Strategic deployment. Um if a trooper with strategic deployment
+is part of a fire team, the other members of that fire team all get forward deployment plus 4 in as do they.
+So your entire fire team can start further up the board, which is kind of cool. It's just kind of a nice thing. So
+we're if you have missions where you're trying to capture things in the middle or beyond, this is a good way of just
+saving orders. You know, 4 in is 4 in. It's getting you further. It's one short skill of movement for most troopers.
+Simple as that. Now we have hidden options. Hidden deployment. You can deploy in the hidden
+deployment state. During deployments, you get your opponent to look the other way. Then they say make a note. I tend
+to to recommend placing the miniature where you want it to be and take a picture of the trooper in the place of
+where it will be. So then you you get your opponent to look and take the
+venture away and get your opponent to look back. It's nice nicely documented. That's where it is. There's no discussions. Hidden troopers do not add
+their order to the order pool until the turn after they appear. The trooper is only revealed if it activates with an
+order arrow or is detected using equipment such as sensor. So there is an ability equip called sensor which
+everything in zone of control has to be revealed including hidden deployment troopers.
+If revealed in your active phase then they use their own order to activate. So they don't generate an order at the
+start of the turn. But if you go right this guy is going to pop out of hidden deployment and start moving he then gets
+his order that he would have got the start of the game. Sorry, at the start of the turn to start that movement.
+Hidden deployment is great. It is horrible. There are certain units um like tags like the Sphinx for Shvasti
+which have hidden deployment. So you have these hoofing great things that just are not on the board until suddenly
+there are. Um then we have infiltration.
+Next we have infiltration which is actually on the next page. So infiltration during deployment without a
+role a trooper with the skill may be deployed anywhere in the player's half of the board. So you can put a trooper
+with infiltration anywhere in your half of the board as you wish. Right up to
+that midline, no problems whatsoever. Not over it, up to it. They may also
+deploy over the midline, but outside the enemy's deployment zone by succeeding in a fizz minus three roll. So you can take
+yourself right down the board as well. If you're feeling brave, you got brave pants on, you can start moving yourself
+right up to the enemy deployment zone. If it's failed, the trooper is placed in
+the players deployment zone in contact with the board edge. So if you fail that PH minus 3 vol, you write down the
+field. And the great thing is some units have infiltration and hidden deployment. So not only
+not only do you not put them down on the on the board, but you do not put them down on the board and they're right in
+the enemy's face potentially. Before you ask, yes, you can do an infiltration roll with a trooper with
+hidden deployment. And if you fail that role, then the trooper out of marker
+state is completely reveals. It's not a hidden hidden deployment anymore. It's right back on your your deployment zone.
+Uh board edge, just a miniature. So, it's risky. If you want to do an infiltration with a hidden void trooper,
+when it pays off, it's glorious cuz it's like not only do you not know it's there, but it's right in your face.
+When it goes wrong, it's it's a real pain in the butt. How would you do that kind of thing with a hidden deployment
+trooper and needing to make a roll, you would look at your opponent and say, "I am going to make a dice roll now for
+something." And then you roll it and you tell them if it's passed or failed.
+Not fun being on the other side of the board be like, "Why are you rolling? Oh god, you're rolling dice. Something's happening. Oh no."
+But hilarious. So infiltration is a really great way of getting further down the board, getting into the opponent's
+face. If you got missions to complete on the midline, infiltration is invaluable. Mine layer. During deployment, a troop
+with the skill may deploy a deployable weapon or equipment in their zone of control. So if you have a trooper with
+mine, they can place that mine inside of 8 in of themselves. Equipment or weapons deployed in this
+way must be placed in the same area that the trooper may deploy in. So if you have an infiltrator that can go up to
+the midline, you're not you're not feeling brave. You're not going to try and roll to go over the midline. They
+can go up to the midline. The mine or whatever piece of equipment
+you place using mine legs, it's not just mines. has to be within 8 in, but also up to
+the midline, not over it. They can't use their zone of control to catapult a mine
+further into the enemy's um side of the board. That can't be done.
+So, yeah, infiltration mine lay pin deployment for deployment. Uh yeah, very
+exciting stuff. Good choice has to be said. So now you can move up the board
+during deployment, put equipment down during deployment because as I said, it's not just mines. There are repeaters
+so you can build your hacking network, stuff like that uh before you start before you begin the game.
+Command Skills
+But it is worth reading a little bit more on those because there are certain caveats of when you can and can't place
+mines and stuff like that. Command skills, counter the counter. So
+this is a set of skills that are often on left tenants but not always and they have an impact at the start of the game.
+They often have an impact throughout the course of the game but there's bigger impact at the start. So again
+don't just do this read up the full thing in the book. So she goes level
+one. This only applies if the person with it is your lieutenant. You can hold back two troopers during deployment.
+Now, your opponent doesn't know which troopers you're holding back. It doesn't know how many you're holding back,
+although you have to tell them which is one of the really weird things. So you hold back two troops. You tell them to
+hold back two troops. They don't know what it is, which is hilarious, especially if you're going first and
+they made you deploy first because it's kind of like one of your main advantages slightly
+slightly by the fact that I am keeping two guys off board. Studios also means
+that lieutenant order is replaced with a regular order in the LT's combat group. So rather than having an LT order that
+can only be used by your LT or an NCO, you just get an extra regular order,
+which is really, really nice. Strateg level two is exactly the same as level one, but during the technical
+phase, you can move a trooper between combat groups without spending a command token. This is really, really nice. If
+you are like me and you run the ablative wounds second combat group. So as people
+start dying in the first combat group, you move them from you to move people from combat group two to combat a group
+one to keep it at 10 orders. Having the ability to do that without needing to spend a command token is really freaking
+useful and we do appreciate it greatly. Then we have counter intel, counter intelligence. This only applies if
+you're going first. If the enemy spends a command token to remove two orders from a combat group,
+they only remove one. Counter intel negates half of the impact of that,
+which is kind of cool. So, normally they remove two regular orders and you go, nope. You only remove one. So, I got counter intel. This will not make you
+popular. If they are using command tokens to limit how many command tokens
+that you can spend in your first turn again, so they suddenly leave you with all your orders like, "Nope, you can only use one command token in your first
+turn. Counter Intel says, "Nope, you can use two command tokens in your first turn."
+Very rarely come across that because I've very rarely seen people limit the number of command tokens that a player
+going first can use. Mostly they just take the orders away. So, but counter intel is a nice one to have. Um, it does
+sort of dent the the happiness of removing two regular orders from a from
+a pool if you can only move one. So, it's a nice one to have.
+Outro
+deployment tactics. On this one, we are going to dive into very heavily
+member territory and patreons. So, people on on previewing too much
+tabletop tactics. Sorry about that. People on YouTube, I will see you in a second. And now we are all back
+together. So, yeah, there you go. We have covered all of these vast array of different things in this uh video. If
+you have any questions, put them in the comments below. um or anything you'd like clarification on. As I say, members
+have got a lot more detail and stuff on this one. So, do consider signing up because this one's possibly one of the
+best videos done for members with detail and stuff. So, do consider signing up
+and joining in with that. But with all that covered, what's next? Hints, tips. Uh then it's going to get
+difficult. We can start going into tactica and detailed stuff. But um this
+is technically I think the second to last video for learn to play Infinity
+and five. If you've enjoyed it, please do like, share, and subscribe. Get out there. Um help spread the good word of
+Infinity. Um and thank you so much for watching and we will see you on the next
+and I think final video for learning Infinity N5 from the Infinity Academy.
+Thanks so much for watching and goodbye.

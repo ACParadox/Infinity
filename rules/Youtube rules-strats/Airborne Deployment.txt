@@ -1,0 +1,458 @@
+Welcome to the Infinity Institute from
+the Dice Squads. My name is Hydra and
+today we are going to be talking about
+airborne troopers. The brave souls who
+launch themselves from orbit to wreak
+havoc on the enemy lines in M5.
+Before we do, thanks as ever to all our
+supporters, channel members, patreons,
+all of you good guys. With your help,
+these videos become a reality. And I've
+gone through and sorted out all the
+people I need to say thank you to. And
+there's a lot.
+So, at the top of tiers now, all of a
+sudden, we have Chris Stanton, Mr.
+Chesha, Jim Calhoun, we have uh Mike
+Rowan, we have Robert Foster, we have
+Shan Co, David B, uh David Dirks, Jean
+Dean, Lindsay Stussy, we have Morgi, we
+have Sam, we have Stranger Tractor,
+Tomy, Colin, Auxilla, Robin Vanmium,
+Renick, Wolf, Cass, Kel Scordia, and Joe
+Rogers. And then a whole load of other
+ones underneath.
+And it's amazing. Thank you so much.
+It's helping immensely for me to get
+more and more stuff out. So, it really,
+really does help. So, thank you all so
+much. If you haven't already, please
+consider do joining because these videos
+are longer. So, this one as well,
+there's a whole chunk at the end with a
+whole load of really useful information
+that only members get, only Patreons
+get. So, if you want that, if you want
+the whole thing, airborne deployment is
+a thing for you, you should be watching
+the Yeah. the members version, not the
+basic version. And it costs less than
+coffee. So, anyway, enough of that.
+Thank you all for supporting me. Let's
+get into why you're actually here, which
+is airborne deployment. Today we are
+going to look at what AD troopers are,
+what types there are, general play
+style, pros and cons, list writing
+around AD, the general sort of concept.
+For members, we're then going to look at
+more general tactics for actually
+playing AD, um how to actually run them,
+what's useful and what's not. Some
+example of lists, so how you can
+structure a list around airborne
+deployment. Now, unlike previous videos
+where we've actually done, here is a
+list which is good for X
+This is more general broad strokes of if
+you want to achieve this type of effect,
+this is how your list can look. Then
+when to use them and when not to use
+them and then crucially how to counter
+AD, what you can do to stop AD having
+any fun whatsoever. Let's get into it.
+So what are AD troopers? Well, there are
+two main types based on the skills that
+they have that enable them to actually
+do airborne deployment. You have a
+parachutist and you have a combat
+jumper. So a parachutist.
+They don't start on the board or they
+don't have to start on the board. And
+it's it's crucial to note that both
+parachutist and combat jump are
+optional. You don't have to use them,
+but you do pay points for them. You you
+do sort of pay a chunk. So it's worth
+having a damn good reason if you're not
+going to use them. But parachuter starts
+off the board and when you want to bring
+them on, they can deploy from a table
+ledge outside of the deployment zone as
+a rule. and they just move on. They're
+based fully onto the to that table side
+when you bring them on. There's no roll.
+You just use their own order. They don't
+generate an order into your pool until
+they're on the board. So, they just walk
+onto a board edge and then you activate
+them like normal. Some have parachuters
+deployment zone which lets them deploy
+into the deployment zone, but most
+don't. And it's kind of this is the
+cheaper version of airborne deployment.
+It's it's kind of cool with combat jump
+as well. parachutes in combat jump. As I
+just sort of alluded to there, they
+don't generate an order. Troopers with
+those skills off the board don't
+generate an order.
+So, you don't have that resource to
+spend. So, it is one of those things of
+if you take in a combat jump or if
+you're going to take a parachutist,
+every turn they're not on the board is a
+turn that you are an order down, which
+is a disadvantage, but we'll talk about
+more that in a minute. Combat jumpers,
+by comparison to parachutist, the combat
+jump is the more advanced version of the
+skill. They can arrive anywhere on the
+board that the base of the trooper fits.
+So, a horizontal surface. You got to
+stick them on a wall. So, if you have a
+roof, you can place your trooper on
+there. You make a a fizz roll, PH roll,
+and if you succeed, they land where you
+place them. If you fail, crucially, they
+end up in your deployment zone in baseto
+base with the board edge effectively.
+So, if they don't land, it does kind of
+suck. And um yeah, so it is combat jump
+is one of those things. If you if you're
+combat jumping on a really high value,
+it's it's a it's a no-brainer. It's kind
+of like this is going to be great. It'll
+be fine. And then you roll a 20 and
+you're like come on. But when it gets
+off, which is a lot of the time it is
+genius. And there are things we can do
+to help our combat jumpers to get where
+they need to be. So those are our two
+types, parachuters and combat jumpers.
+What can you use AD for? Well, the first
+and foremost obvious thing is as a an
+alpha strike. You make a trooper with a
+big gun appear somewhere and you go
+bird. That that's that's the whole
+that's the stickick. That's the whole
+thing.
+There are certain units which are really
+really good at this uh inside of the
+game and there are other ones which are
+less good at this inside of the game.
+But it is never nice to have a big gun
+appear in your in your sort of back
+flank
+when you weren't expecting it. It's not
+a pleasant experience at all. The next
+thing they're great at is specialist
+delivery. Quite a few
+airborne deployed troopers are
+specialists. Having the ability to if
+you're trying to capture boxes in the
+middle or do something to the enemy HVT,
+have the ability to just have the guy go
+donk next to it with combat jump or walk
+on from a board edge really close to it.
+It saves you orders. It's harder for
+your opponent to defend against because
+you can bring them on anywhere on that
+board edge or anywhere where you can fit
+the base. It is a really great way of
+getting specialists safely onto the
+field. It's also great for order
+assassination. This is kind of alpha
+strike but less specialist because you
+don't need with an alpha strike you
+really need a high burst value big gun
+for order pool assassination. You can
+take a cheaper option with a combi or
+even with a boarding shotgun. And
+essentially what you do is you land just
+outside or just inside the enemy
+deployment zone and then you go and hunt
+your leaders.
+It is an unpleasant thing to do and it
+is a very legitimate tactic to win you
+the game. Taking away the enemy's orders
+takes away their options. It takes away
+their choices and and that can be
+devastating. So
+there is that. The next thing you can
+use airborne deployment for is
+distraction. If the enemy is winding up
+to a big charge, a big hit on your right
+flank, just drop an airborne deployment
+trooper on their left flank in the back
+quarter and sort of threaten put
+pressure on that side by having
+something with a gun, potentially a
+specialist that's just in a place where
+they kind of can't leave it, but they
+don't want to go after it. It it's not
+worth it, but it kind of have to. You
+can really unfocus an opponent. you can
+off balance them by having an airborne
+deployment trooper in a place that looks
+like it's dangerous even if it isn't.
+So, you know, there's often this feel
+that
+for a trooper to be valuable, especially
+with like as a hit piece or whatever
+like that, you have to get
+um you have to shoot and kill something
+equal to the points of that trooper to
+for it to have been successful. I would
+argue that yes, if you kill something to
+the same value as your airborne deployed
+trooper, he has earned his point his
+points back straight away. But if you
+take out five orders because the enemy
+had to divert this guy over and that guy
+over to try and deal with the airborne
+deployed trooper, that in itself is
+incredibly valuable as well. And the
+last thing you can use airborne deput is
+hail Marys. That last ditch, it's all
+gone horribly wrong, but if I boop the
+boop, then I dup the doop and I win the
+points.
+There have been several games where I
+have been on the receiving end of an
+enemy who held on to a very very
+surprising airborne deployed trooper
+till the very last turn and it walked on
+and
+won the game.
+The right trooper at the right place at
+the right time is devastating and will
+absolutely win you games. So they are
+very cool. Bear that one in mind.
+So, let's talk about the pros and the
+cons, the good and the bad of these
+particular guys. The good shock and all.
+When an airborne deployed trooper lands
+on the board or you get ready to do it
+to your opponent, you will see that oh
+god moment. Here it comes. What is it?
+Oh, just I don't want it. I don't like
+it.
+This is a good thing. This is a good
+thing having a a unit that you place
+down the board, especially because many
+of these are sort of late teens to mid30
+of points.
+It's incredibly useful. They're often
+highly mobile when they're actually on
+the board. A lot of them will have super
+jump jet propulsion, so they can fly
+around all over the place. Some of them
+will have climbing plus or all these
+kind of skills. They just have the
+ability to also be ultra mobile when
+they arrive on the board. So, if you
+have got them going off and doing
+missions and stuff like that, they're
+very capable of getting to those
+hardto-reach out of the way objectives,
+you also have that ability to sort of
+redeploy and move it around as you need
+to.
+I said a minute ago, they are prime for
+clutching the wind. They are that last
+moment, okay, right, I need to do the
+thing. Who can I do it with? Ah, I can
+do it with this guy cuz he's not even on
+the board yet. They're also very, very
+distracting.
+um having an airborne deployed trooper
+land in your back field, especially if
+it does an alpha strike on you. It goes
+after your um goes after your your order
+pool. A lot of opponents will be
+incredibly distracted by that and they
+will completely drop their plan in favor
+of killing that thing. Do they need to?
+There's a debate to be had there, but it
+depends how you do it, how how well
+you're doing, but it will throw your
+opponent off their game. So it will also
+give you flexibility of deployment
+because you have this ace in your up
+your sleeve that you can bring on when
+and where you want to. You can be a
+little bit more kind of flowy with with
+your with your deployment. You have
+something that sort of if it sort of
+fails here, if this flank doesn't quite
+go the way that I want, you got
+something that can back up that flank.
+You've got this mobile reserve that can
+come on and back up a failing flank.
+Also having that flexibility of when and
+where you place it, needless to say,
+completely invaluable.
+On the bad side, you're going to spend a
+lot of points for an airbor deployed
+trooper and you will start the game
+without an order. If you don't, if you
+don't sort of just place on the board,
+which some arguably should go on the
+board at the start of the game, we're
+not getting into that today, but there
+are some that should. You're not going
+to get an order for it. If it's doing
+its job, you are an order down at the
+start of the game. If your opponent then
+slaps you by taking away another set of
+orders with a command token because
+you're going first, you can find
+yourself getting sort of order starved
+quite quickly.
+You can also find that because it
+operates alone. It can get cut off. And
+if you're in a position where your last
+big gun is on an airborne deployed
+trooper, you do not want it surrounded
+by enemies in the sort of your reactive
+phase. So there can be a risk in
+sticking something that can be quite an
+expensive trooper on its own by
+necessity because that's where you get
+the best value of it just to get it shot
+up or just to get it sort of isolated
+and left out of the way.
+Bad placement is a dead airborne
+deployment. There is a skill to knowing
+the where and the when of deployment for
+airborne deployment is it's not which
+ties into easy to get wrong.
+these two things. It's so incredibly
+important where you place it. It's so
+incredibly important how you place it
+and then how you subsequently use it.
+A good enemy will by dent of the way
+they play the game limit the options for
+an airborne deployed trooper to come
+down. And if they do come down in
+slightly the wrong place, you'll get
+punished for it. Now, what I didn't
+mention before is when you spend that
+order to bring it onto the board, you're
+spending an order. So, you are going to
+generate AROS just by landing. If you
+just drop from orbit, land on top of a
+building or you parachuted in from an
+edge, you've spent an order, so you are
+generating an ARO. So just turning up,
+you can get your face shot off.
+This is why the when and the where of
+deployment for airborne deployed
+troopers is incredibly key.
+So general tips and tricks for adding
+airborne deployment to your lists. Don't
+spam AD. There is the temptation. Some
+armies talked about one of the recent
+faction focus corrior. They can have an
+obscene volume of airborne deployed
+troopers.
+Every airborne deployed trooper you
+bring is an order that you don't have at
+the start of the game.
+That's that's it. It's
+simple as that. You you are you are
+going to be limiting your tactical
+options by taking AD until they're on
+the board. Have a backup plan. If your
+only specialist of a certain type is an
+airborne deployed trooper and the
+airborne deployed trooper gets
+blindsided by a hidden deployed trooper
+or you miss something and and ended up
+landing on a mine. I've seen that done
+as well or this kind of thing. Just have
+something that can fail over an airborne
+deploy trooper is a riskreward equation.
+And if you're going to use it to get its
+points back, you're going to use it
+aggressively. you're going to use it in
+high risk situations and that needless
+to say can lead to a high mortality rate
+with your airborne deployed troopers. So
+have a backup plan. Also have a plan to
+support them. If your airborne deployed
+trooper is doing well, what can you do
+to help them? Can you
+before they come on the board actually,
+can you clear out arrow pieces? Can you
+target things that going to be good at
+ruining their day? Is there a way you
+can increase the success of that
+airborne deployed trooper before it
+lands on the table? Next, give them
+orders. Yes, they are going to generate
+their own order, but when they're down
+on the table, if you if you bring them
+in on the the enemy deployment zone and
+they're in a combat group with two other
+troopers, so they have three orders to
+spend in total, they're not going to get
+much done. If you have a mission for
+your airborne deployed trooper, make
+sure you feed it with orders. making
+sure it has options to go and do what it
+needs to do. And next will consider
+getting an EVO hacker. An EVO hacker,
+there's there's pretty much one per
+army. Um I think that's pretty much I
+think is one per army. An EVO hacker is
+a remote hacker and they come with um
+something called control jump and
+control jump gives plus three to all PH
+rolls, fizz rolls for combat jump. So,
+if you've got combat jumpers and you
+want to get them accurately down,
+spending an order to switch on um
+control jump is incredibly useful. It
+also gives minus three to the enemy as
+well. So, if they've got combat jump
+troopers, then it's going to ruin their
+day as well. But most importantly, from
+your perspective, if you have a trooper
+that is landing on a 12 or 13, suddenly
+they're rolling a 15 or a 16, you've got
+an increased chance, and it's worth it.
+It is worth it if you absolutely need to
+get that guy in the right place.
+Right, this next session is for channel
+members. So, uh, folks on the free side
+of YouTube, I will see you all in a
+minute. But members, step this way and
+let's go deeper into airborne troopers.
+And that's it. That is the basic primer
+for airborne deployed troopers. That is
+everything you kind of need to know to
+get going. A lot of the stuff from here
+is kind of taking the troopers on the
+board and trying them or facing an enemy
+that does use
+airborne deployed troopers and seeing
+how different tactics and different
+deployment styles can deal with them.
+But
+do please like, share, and subscribe
+this get the good word of the dice gods
+out there. As I say, if you haven't
+already, please consider join joining
+our memberships or our patreons. And if
+you have a story of AD, either a massive
+story of victory or a terrible story of
+woe, please whack it in the comments
+below. We will laugh, cry, and raise a
+glass to your victors or your your lost
+troopers accordingly. But thank you so
+much for joining me and spending your
+time with me. I hope this was useful,
+and I will see you all again soon.
+Goodbye.

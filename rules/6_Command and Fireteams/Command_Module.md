@@ -1,0 +1,11 @@
+# Command Module
+
+## Main Sections: Command Tokens | Coordinated Orders
+
+Command Module
+
+This module gathers all those rules that, even though they are not entirely required in order to play infinity, complement the game by providing a more strategic, futuristic, and simulative component.
+
+The game mechanics of this module are based on the basic mechanics of infinity. Therefore, the difficulty level is no greater than that of the basic rules. However, they are presented in a separate chapter to gradually introduce players to the infinity rules in a specific sequence to make the game easier to learn.
+
+Nevertheless, once players have tried these rules on the game table, they will realize how essential they are in order to fully enjoy a good game of infinity.

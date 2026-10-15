@@ -1,0 +1,969 @@
+
+Intro
+Welcome to the Infinity Institute from the Dice Gods. My name is Hydra and today we're going to be looking at one
+of the new shiny pretty little sectoral armies for JSA for Infinity M5. Before
+we do, a quick note to say thank you to Patreons and channel members, including
+but definitely not limited to Sean Cobburn, Old Man, Rogers, Chaos, Discordia, Ring Wolf, Chris Sexton,
+Cass, and Robin Vanium, plus the mighty Mr. Chessia at Archangel Level, and
+Michael Rowan, who has just joined as a brand new shiny Nephilim over on Patreon. If you have not, do please
+consider joining. Not only do you help make these videos possible, but you get more of these videos. I think in the
+past month or so, there's something about like two or three hours of extra content that Oh god, there's that word again. Content that um members and
+patrons have got and all levels of members and patreons are appreciated. The uh the smallest levels are about as
+much as a cup of coffee and really genuinely do help me and motivate me to do more of this. So, please consider
+doing that. But enough of that. Shinden Bhutai.
+It arrived to thunderous applauseish surprise with Sand Trap at the launch of
+N5 just about a year ago. And since then has been getting a consistent wave of releases and new toys. But what are they
+like? What are they for? How do they work? We are going to look into that. We're going to do a nice deep dive.
+First of all, we're going to start off with an overview of what they do well, what they do badly, a general place play style discussion. Then we're going to do
+a sort of law overview. Nothing too deep, just to give you a little bit of flavor about who we're talking about and what they do. Next up, a unit deep dive
+where we're going to look over every single unit in this sectoral. Talk about
+standout core units fire teams. Then we're going to move on to some example list. We've got a kill list and
+objective list for you. Then a bit of for our members and patreons only list writing 101 tactics and tricks plus a
+buying guide and also an example list of what you can make if you buy what we suggest.
+Let's get into it with the overview of Shinden Boutai then.
+Overview
+So what are they good at? Shinden Mutai forms nice small fire teams. They create
+these very useful, flexible, diverse fire teams
+which may not necessarily stack all the bonuses together but form a very useful
+little bundle of death and violence which is good. They're also a thoroughly N5 Force. So, you are going to see all
+of the tips and tricks and toys and and new bits that came in with M5 in this force, which is really cool. There's no
+legacy or very few legacy profiles that built into this army. So, you do have
+all of the shiny goodness. They've got good concealment options, and by that I mean we have Eclipse smoke in here. We
+we also have normal smoke. So, we have the ability to make progress up the board by stopping the enemy from seeing
+us. Then we have the fact that they're maneuverable because you're going to see climbing plus and you're going to see super jump and all this kind of stuff
+scattered liberally throughout this this force. So, not only do we stop the enemy from seeing us, but we can engage them
+from positions which are inconvenient. They're very strong on CC. They're Japanese successionist army, of course
+they are. Uh stabbing things in the face is definitely a core tactic of this army, uh whether you like it or not. And
+you're going to see lots of troops running around with swords and poke bits to to to sort of facilitate that one.
+There are some unique weapons and structures inside this. And by that I mean you got things like plasma weapons that make an appearance inside this
+sectoral which is welcome and interesting. And there's some very useful profiles. There are some some
+profiles in here which are just right on the cusp of autoincclude almost. Why
+wouldn't you take it? More of that in a bit. So what's not so great about
+shindutai? They are not newbie friendly. This is an army that requires a depth of
+knowledge and understanding about the rules and how to put it together which some other armies don't. Some other
+armies are incredibly forgiving because big guy with big gun do big violence is
+relatively simple for everyone to understand. They also have incredibly poor light
+infantry. So we will cover that when we go into the unit deep dive in a minute. But the the Senku troopers for Shinden
+Bhutai are as bland and tedious as they possibly can be and have very little utility
+beyond being an order generating monkey. In fact, your remotes, your standard
+sort of um repeater flash pulse bots are a lot more
+useful than an average senu trooper from a lot of perspectives. But the strong fire teams are also
+mixed. And as I mentioned, there's very few high-end bonuses. And in fact, the almost need to get small fire teams
+together means that you're not going to hit those four, five trooper fire teams that often. So, you're going to miss out
+on those top end bonuses. Does that matter? To an extent, it kind of does. Um, as we will talk about as we go
+through the profiles, there are very few, in fact, I can't think of any
+profiles in this army that above BS13. That plus one BS taking them to BS14,
+it's only a 5% difference, but it does make a difference. It does help. So, the fact that you aren't really incentivized
+to get these big fire teams together is interesting. You can have a restricted order pool
+with Shind Mutai because some of the really cool units in here are irregular. So they only generate orders for themselves. That does mean that your
+main pool with those in starts dwindling because you can have fewer regular orders. And there is a very unique N5
+problem. Something that I call and and and units. And those are units which have good close combat and they're a
+specialist and they've got a big gun and they can do some gunfighting and they can they are unfocused. They are a lot
+of stuff all shoopped together into one poor very confused slightly dazed individual. Why is that a problem?
+Because you pay for all of that. All of those particular skills, equipment, and all this kind of stuff, they have costs
+associated with them. And so the price goes up. So what might be an incredibly useful gunfighter if it was just a
+gunfighter is suddenly incredibly expensive because it's not just a gunfighter, it's also a
+close combat specialist with X Visor. And if you know the the the faction, you
+as soon as I say that, you know kind of who I'm talking about. Units that with a few less skills and a few less points
+would actually be better. We also have limits on specialists here. There there are specialists throughout
+this sectoral, but as with BS, whip is also limited here.
+Most, in fact, I think pretty much all of the specialists in this army are whip 13. Now, I know there's Pano players out
+there that are going, "What? That's great. Our guys are herpey durapon whip 12 on a good day." Yes, that's because
+Pano does missions by rolling their face across the keyboard and hoping that something turns green.
+Most other armies will have some decent whip 14, whip 15 specialists that they
+can call on and they can use. Again, yes, only a five or 10% difference.
+But if like me, you have a real point shot for rolling 15s, a specialist whose whip 13 is a vexacious problem that you
+will never overcome, especially not with dice. And we are limited in gunfighters. And what I mean by that is there there
+are a few and they are good gunfighters in this particular army but there are
+lots of troopers who do that and and the and and and units cost more. So while
+the gunfighters are great in this sectoral, they sometimes are sort of overloaded with points and unnecessary
+bits and pieces which they would be better without. So their play style at the heart of any
+Playstyle
+Shindmutai list will be a group of fire teams made up from units which complement and support each other in the
+game. Tactical flexibility and utility are central to getting the most from them. This is a sector rule for players
+who like to get up close then unleash hell. With a wealth of close combat and shorter range troopers, the midfield is
+a good place for this force to play. And we'll cover that a little bit in a minute. Actually, when you look at things like the tags, you do have a tag
+with an HMG, but you also have a tag with a multi- Spitfire. Now, a multi- Spitfire is unpleasant in many, many
+ways. So, having that multi-pitfire on what is a very flexible and mobile
+platform in the form of the the Mechazoid tag enables you to do
+more things that fit with what that tag is designed to do. The HMG is kind of
+almost disadvantageous to that particular chassis. So, the midfield is kind of where you want to be positioning
+yourself and getting in the enemy's face. You can do long-range engagements. There are some units inside of this
+force which are phenomenal at long range, but for the most part, you're getting in the enemy's face and you're making them regret the fact they got up
+this morning. That is the Shindom Mutai way. That said, they're not without capable long-range fire support units
+and solo hit pieces. There are some beautiful solo hit pieces in here. Some of which offers unique features and
+skill combinations, though that can make them expensive as I've said before. So, you're going to
+see a range of different things here, but your list should lean towards that
+closer range stuff that I want to get close to you and poke you with my sword. I want to get close to you and shoot you
+with this, that, and the other. There there are that kind of sort of general leaning to
+a lot of the units. um and leaning into that, taking that on board um and and
+sort of owning that really can make you more successful within Boutai. So let's
+get into this. Let's have a look at the law.
+Lore
+The history of the greater independent Japan is a long and painful one. The
+story of the modern nation begins when the Japanese nation was annexed by Yuching. Though done via treaty, the
+implications of refusal were clear. Sign or suffer.
+But still, for generations, the Japanese then suffered. At first, they were accepted, but as their desire to keep
+their own identity was noted, then regarded as suspicious, they were forced to live as secondclass citizens. So a
+need to retain tradition turned to resentment then rebellion culminating in the uprising.
+The events leading up to the uprising are many and varied but the final straw was undoubtedly the incident at the
+Baying Orbital Consulate. In essence, a retaliatory strike on a Nomad torpedo
+ship docked at the station was ordered. Even though the Yuching command knew it
+would kill many Yuching troopers. But as these troopers were Japanese, it wasn't
+viewed as an issue and the strike was carried out. When news of this broke, the Japanese
+citizens had had enough. The fact that the high command was willing to sacrifice their troopers as if they were
+nothing, killing their people, simply could not stand. Soon, mass
+protests broke out in the streets across Yuching, focused around the centers of power and government. But even as the
+Imperial Service crushed the rebellion, the damage was already done. A secret plan long in the making was enacted.
+The Japanese would be free. With support from Panosania and the
+nomad nations, the Japanese rose and rose again. Though the retribution of
+the state nation forces was massive and devastating, the Japanese did not relent. Knowing
+that they would need to take a legal route, the Japanese leadership worked hard and fast seeking official
+recognition which would legally establish them as a state. When recognition was finally achieved,
+the toll was heavy. But the Japanese were free with their own nation.
+Though it wasn't a total victory, some Japanese states were not given independence and remain under the boot
+of Yuching to this day. However, now free, the nation of greater
+independent Japan is establishing its place in the human sphere. As a culture
+rooted in Japanese tradition using the pillars of the emperor and the machido or the way of the samurai, the warrior
+code is a cornerstone of this new society. Around these ancient ideas, the
+Japanese secessionist army or JSA was established. A twist of fate would give greater
+independent Japan luck. Whilst on a training mission, the attack ship
+Thunderchild, a training ship managed by Panosania but crewed by JSA recruits,
+received a message. The Thunderchild's Panosian captain, was told to cross the Abraasis wormhole and head towards the
+newly discovered planet. Told to make all haste, he had no time to set the JSA
+crew down anywhere safe. So once on the planet and with orders from JSA high command, the Japanese crew
+mutinied, taking the ship for themselves and claiming the planet for greater independent Japan.
+Needless to say, Panosani were none too happy with this betrayal. But still, the Japanese pressed ahead, colonizing the
+planet Shinju as their own, whilst other nations came, including Panosania.
+Unfortunately, the JSA were unable to conquer the whole planet, leaving them vulnerable as these interlopers
+established their own colonies on the planet. This coupled with the discovery of ruins
+and technology from an ancient race on Shinju led to the creation of the Shinden Bhai, an elite force which
+combines the ancient samurai traditions with futuristic cutting technology,
+enforcing the emperor's will across Shinju and keeping their enemies under
+close watch.
+So let's take a look at who's actually part of Shinden Mutai. And so logically,
+Unit Deep Dive: Light Infantry
+as you'd expect in such circumstances, we will start with light infantry and
+Adah Swanson. Yeah. So the first thing we look at is Adah Swanson. She is somebody that
+appears all over the place to be honest with you. She's a mercenary from memory um and does pretty much anything that
+will earn her a buck um in in um fluff
+terms. Uh she's in fact she has vast as well which is an interesting one. So 44 move CC1 19 BS12 fizz 11 whip 13 one arm
+three BTS one biter. She has booty so you get a random bit of goodness to use
+there. We've got courage for deployment plus 4 in martial arts level two mimters minus three shazvasti and stealth. So
+she is a she has bastio core. She can forward deploy. She might get something really really good. She has mine layer
+and decoy one. So in that circumstances we're placing down a viral mine um and a
+decoy down on the board. So you're placing down three things when she deploys with
+the submachine gun with plus one burst and a viral mine and a viral pistol. 24 points and.5 SWC. And then it's just a
+standard mine layer with viral miners. standard submachine gun for zero SWC and
+21 points. Um, Adah's cool. I really don't think she
+has much of a place in this army. I think there are way way way way many better places that you can spend those
+24 points or those 21 points. So saying Eureka Oda. So this young lady has
+recently dropped with the new DOS box. Um, I think that was June or July this
+year. July this year she dropped. Beautiful miniature. Lovely miniature and a classic uh character for the game
+as well, which is always nice to see. Now, Euro is four full move CC-15 BS12
+is 11 whip 13. That's that whip 13. We're going to have to get used to one arm, three BTS, and one fighter. She has
+a deactivator, gizmo kit, courage, dodge plus three, so she's dodging on 14s, which is not to be sniffed at. Dodge
+plus one in, so she's dodging three inches, which is not to be sniffed at. She's an engineer, mimism of minus
+three, also useful, and mine layer. This is kind of nice because she's got smoke
+shock mines everywhere, which is kind of useful. We then have two linkable versions which can go with Senu. We'll
+come to fire teams later, but she can join a Senku fire team. Um, and she's also wild card. Combi rifle emitter
+decharges shock mines for 25 points. Combi rifle panzer decharges shock mines for 23 points. I like that load out. I
+like sticking a panzer fast in that type of unit. I think it's really really handy. Um or you've got the forward
+deployment plus 8 in with combo rifle and emitter decharge and shock mine.
+I think Eureka Oda there are cheaper engineers inside of this sectoral, but I
+think that she is a great combination of the mimmitism, the mine layer, getting
+that extra mine down on the board. There's a lot of airborne deployed first
+strike tactics you can get in this game at the moment. So having somebody who's deploying in your own deployment zone
+and slapping down a mine is not necessarily an awful thing. That is not necessarily a terrible thing by the
+stretch of the imagination. The fact she dodges on a 14 is quite nice. The engineer deactivated gizmo
+kit. She has a lot of utility and as an engineer um and having decharges she can
+do missions as well which is kind of funky. So yeah, I think for 20 odd points she's quite worth having um
+especially with the Panza Fou if you're going to be taking someone with baggage to reload her. I think that comedy can
+ensue in those circumstances. Right, the Metsuki officer.
+So this is pretty much as thoroughbred left tenant as you're ever going to see
+in in many ways. So most of his stat line you can ignore to be honest with
+you because the only time you're going to use it is if something has gone horrendously wrong. So we have the four movement CC21.
+Hopefully you'll never be stabbing anyone. Hopefully no one nobody trying to stab you would kind of be more accurate. Um
+then the BS12 is okay. PH12 is okay. Whip 13 is not awful. In fact, for this
+sectoral look, it's pretty much standard for a left tenant. One arm, three BTS, one biter. He's got a hollow projector,
+so you don't put down one, you put down three. There are three medits that go down on the board, which is kind of
+cool. Makes it harder for you to for your enemy just to snipe off your left tenant. BS stat plus one burst is nice.
+Counter intelligence is good because it limits your ability, your opponent's ability to strip your orders if you go
+first. courage, immunity to shock, martial arts level two, stealth and surprise attack.
+This little bundle of fluff and happiness is designed to hide at the back and survive.
+That's all he's there to do. That's all he really is able to do. But that doesn't stop him being useful.
+We have the first profile is with uh Strateggo's level one, which means that
+you can hold back two units during deployment and your left tenant order becomes regular and joins the combat group that he's in. It has a nanop
+pulser, a flash pulse, heavy pistol, and a shock CCW for 22 points. Or you can lose the studios and gain an extra
+lieutenant order. Your mileage may vary. I think there's a very specific circumstance when you take
+the NCO option for this sectoral that you would take the plus one order, but
+the strateg I think is more flexible. Having a lifet converted to a regular order and added to your pool is way more
+more flexible. And for 22 points with that counter intel and the hollow projector, 22 points is kind of an
+insurance price. This is what you're paying for peace of mind that you're not going to die horribly. You're not going to end up in loss of turn at the end of
+turn one. So that is not a bad thing and I think it's a very very cool little unit actually.
+Next up, we have the Monstrucker, our second engineer in this sectoral
+for four moves, CC16, BS11, Fizz 12, whip 13, arm one, zero BTS, and one
+viter with the activator, gizmo kit, climbing plus, which is nice, and an engineer.
+However, in the loadout and the points is where this one comes alive. Boarding shotgun, adhesive launcher, EM grenades
+is a standard loadout for 15 points or an SMG chain rifle with drop bears. SMG,
+chain rifle, drop bears, and armed turret with AP rifle, which is tasty for
+15 points, or a 360 visor, rifle, light shotgun, arite canone, so a glue missile, and decharges for 16 points.
+The disadvantage of the one struck is that it is irregular. And this is not the last time we're going to see
+irregular options, but having a fastish moving with that climbing plus
+specialist with the SMG, with the chamber rifle, with the drop bears, with the armed turret, firing out an arm
+turret is nice. Uh, an AP rifle is good as well. If you want to watch your back field, if you want to just control the
+midboard and close space, AP rifle is not something that the enemy
+wants to come across at all, especially when it has no value uh to destroying it. It's it's not a pointed piece.
+So, yeah, I think I think the monster is a very cool unit. I
+see the benefit of them, but I am always wary of irregular orders, and a regular
+order can only be spent on that trooper. And that starts limiting the tactical
+options for the rest of your list where most of your stuff is. So while it is
+always there's pretty much always something a Monro can do whether it's shoot something, fire out a drop bear,
+put down an armed turret, use it gizmo, deactivate something, there's always something it's going to be able to do.
+I'm not always convinced that the monstrucker will be where you would spend that order if you had the choice.
+So whether you take this or you spend more points and get Euro Oda
+is entirely up to you. I prefer Euro, but I do see the point and I definitely get the point of the Monroker. It is I
+see the attraction, but that irregular order gives me pause. Speaking of things that are useless,
+which the Monstrucker isn't, give you the same key.
+Yeah, this one's odd. uh brand new light infantry. Um we have the kaisotu for JSA
+normally and the senu are the brand new shiny ones in the corner with these beautiful miniatures you see at the bottom of the screen there. And they are
+a big bag of meh. They really are. Um I think this is the
+only place that they actually appear in the game so far which is kind of a good thing. So
+four four moving CC 15 BS11 F 10 whip 12.
+So really what we're saying is these belong in pano. Zero arm three BTS and one viter with a special skill of
+courage. Um nine points for a com rifle, 17 points and one SWC for a heavy
+machine gun. The only ones for me that are really
+interesting here are the combi rifle uh Ford observer comb rifle paramedic and
+just an ordinary combi rifle. A couple of cheap specialists and the actual combi rifle version. But these are whip
+12. They are 5% worse than anything else you're going to find pretty much in this game or in this list. Sorry, as a
+specialist. And the lieutenant is a whip 12
+zero armor, one vital lieutenant for.5 SWC and nine points.
+It's rare that I take that. Um I tend to use Senku as padding out of a list. So
+I've got, you know, 10 points in one combat, sorry, 10 orders in one combat group and three in another. And I've got
+18 points left. Senku Senku up to the 15. Thank you very much. Thank you very much. In fact,
+sorry. Not remotely sorry. Should be more sorry than I am. Any just a big bag of me and I use them for
+padding and I think you should too because they don't do anything else that's unique or interesting. It's kind
+of fun because you have the when you look at what the Kaisu have been upgraded to, I think one of them's got a
+thunderbolt and BS attack minus three on it. It's this just horrific. And I think
+this the um the hacker on on the kaisotu has got a
+fast panda as well and they've just got all this kind of stuff and you go cool. Senku is going to be a me. Why is that?
+It's just bland. There's nothing really to recommend it. So I've already spent too long talking about them. Use them to
+pat out your list and get extra orders in there. But for God's sake, don't expect them to do anything special other than die horribly because that's pretty
+much all they're capable of. Now we have a uh tagcom pilot basically.
+Um so if you haven't seen these before they are cheap cheerleaders. I mean this is 12 points so it's very very far from
+being anything like expensive. And what they do is they primarily provide a buff
+to the tags in your list. So this guy adds plus three to the fizz and plus one
+to the gizmo kit u pH for your tags. So that would take a
+um a mechazoid normally dodging on 11 will now dodge on 14s and normally gizmo hit
+on 11 will now gizmo hit on 12. So for 12 points, you get an order and if
+you're running tag or tag, then you buff instantly and make them much more
+survivable. Being able to dodge out of the way of something unpleasant on a 14 is much better than an 11 by 15%. It's
+it's worth it. So no miniature for this one yet, but I hope we're going to get them soon because honestly, I find these
+tag support pilots, if I'm running a tag, incredibly compelling. And even if I'm not running a tag, they are a cheap
+regular order. So yeah, then we have the basically the support
+pack. So again, even here they're whip 13. We have doctor and engineer. Um the
+doctor combi rifle medkit CC14. I mean this is basically the same
+pretty much the same stat line. In fact, slightly better stat line than the Zenu. CC-15 BS11 Fizz 10 wit 13 arm one. So
+better than the Senu there. The doctor 14 points for a combi rifle. You can
+take an engineer with deactivator with combi rifle and decharges for 14 points. Um you can take the engineer same load
+out but with deployable cover for 15 points or with a combi rifle turret for 17 points.
+Honestly, these Dogsetsu are cool enough miniatures, but there are way, way, way,
+way, way more interesting ways of getting engineers and paramedics and such into your list. Yes, the doctor
+gets to roll uh with a command token. I get all that. I do. I hear you. But I
+think there are more interesting places to spend 14 points than this. The main reason I will buy a support pack at some
+point is for the support WS, the uh the helper bots. That's that's it.
+Much as these guys are great, I just I'm not going to use them. There's there's better stuff to use. So then we have
+warores. Um cheap as chips and irregular. So we're
+back to irregular again. Um so if you have got your monstrucker and you put your warhor in there and you have a 10
+trooper combat group, then 20% of it is now irregular. This is not ideal.
+However, a war core is three points of stay the heck out of my deployment zone or a blinder 44 movement CC11 BS9
+F 11 whip 13 which is where it matters with that flash pulse arm zero BTS zero
+one journalist one stick it in a tower behind cover flash pulse people that's
+that's the whole gig really with these guys um I prefer the 365 over the 6
+cents because then you can see them coming and go kachink and just ruin their day for three points. Would I do
+that? I rarely do, but it's an option. And if you if you like your cheap um
+deployment zone covering flashy ladies, you can have them in this list, too.
+Medium Infantry
+Onto the medium infantry, Jizarai. Now, this is
+an and and and unit and and and I wish it wasn't, but it is. So
+medium infantry 62 movement. Okay. So it moves like a heavy infantry. CC23. So we
+go choppy choppy. BTS 12, Fizz 13, whip 13, arm three,
+which is kind of excessive close combat, but sure. Uh BTS3,
+there isn't a hacker profile. So, and this isn't heavy infantry, but sure.
+climbing plus, combat instinct, courage, dodge plus three, dodge plus two in immunity shock, martial arts three,
+mimism minus three, and stealth. Then you only have light shotguns for
+the most part, emitter, thunderbolt, and the submachine gun. Everybody either rocking a DA or in one instance an EMCC
+weapon with potential survival 5. So why are these an and and unit? because
+they are a CC-23 close combat unit. That's great. They go choppy choppy. I
+get that. The climbing plus, okay, I can get that. The arm three, I don't think you pay points for that. I don't think
+it's really necessary. The combat instinct, don't think it's really necessary. The bonuses to dodge, sure.
+Again, that that is sort of in keeping. Uh martial arts, of course, is definitely going to be immunity to
+shock. They're one wound units that are
+designed if they're close combat units to go charging off into the distance, go choppy choppy on someone, you're not
+going to heal them. That's just not a thing you're going to do. So being immune to shock is irrelevant. It it
+doesn't help. Martial arts level three mimitis minus three. I mean, yeah, you can argue it gets you there,
+but if you're doing your job properly and let's say you have a a army that's full of disco ballers and smoke and or
+he has the capability of being suddenly that mimicism is of no value and oh look that is possible inside this army. Then
+we have stealth which is useful. So kind of a good half of the the things
+here and the the arm stat and the BTS stat I don't see as useful. I really
+don't for a CC specialist, but you pay points for it. So, I think
+if the jizarai was around the mid- teens, 15 16 points and you lost those
+skills, this would be a really really handy unit. I would quite like it. You
+know, if the if 21 points were 15 points up to say 20 points for the light shotgun thunderbolt, that would be a
+really really handy unit. That would work really well. as it is. I love the miniature. I think
+they're great. I think because I think we've got three different sculpts for them now. Um I think they look phen
+phenomenal. But yeah, that frequently you'll see later
+I've got them in a couple of lists or I've got them at least in one list and putting them in the list it's like it's
+just a bit more than I want to pay. It's ju it's just a bit more than I want to pay and I'd rather be careful with them
+and not need pneumaticism and armor 3 than have it and pay for it.
+That's just where I'm at to be honest with you. You know, even like the fizz fizz 13 natively and then plus three for
+the dodge the dodgy on 16s. I don't know. Take that away. Drop the
+po down and I just won't get shot. That would be my preference in that circumstance. But here we are.
+I love these guys more than I should, but not as much as they're over overcosted and overspected. And and and
+way too much and and and Raiden. Oh, I love the Raiden.
+It's a really great little one-trick pony. Um that does great things
+and is kind of fine. That's that's the problem I have with the Raiden. It's kind of fine and I think there are
+better things in this army by far. So let's look at him. The Raiden fourful
+movement CC16 BS13. There's that BS13 again. Fizz 11. Okay. Whip 13 arm three.
+See here it makes sense. We'll talk about why in a second. BTS3. Fine. X visor. So we get increased range on our
+weapons. We lose that. The first minus three becomes a zero and minus 6 becomes minus three. Courage. Okay. That's good
+if we're like I don't know a turret just to sit on top of a building and frag things. Hidden deployment. really useful
+if we're designed to sit on top of a building and throw things. Immunity to shock. Sure. Mim minus three. Again, top
+of building really useful. Mine layer. Sure. Okay. And surprise attack minus
+three with either a heavy rocket launcher in shock mines or a missile launcher in shock mines.
+The mines and the mine layer is a bit annoying because you pay points
+for PSWC and I don't think they needed it, but they've got it. This is the world we live in. Um they like the
+jizarai are just a little bit like take that down and they become a little bit more palatable and therefore a little bit more logical to include.
+Having a hidden deployment x visor heavy rocket or missile launcher
+with surprise attack minus 3. The mimit is a minus three. The arm three is a
+really interesting proposition. They are a really interesting unit
+and I think that as a ambush unit used periodically, not used with every game,
+but used periodically, these could be deadly. But that 25 and 33 points, the 1.5 and the 2S SWC,
+it's just a bit more than I feel their utility in the game is going to get because the look, these do not have
+camouflage. They are not going back into hidden deployment. They're not going back into a marker state. when they are
+out, they've lost that surprise attack. They've lost the ability to to like
+become hardhead. They just become, you know, a victim for MSV3.
+So, I think they're very cool, but again, I think they could do with a couple of less skills and bring their
+price down a little bit and therefore they would be much easier to include. At
+the moment, they're a little bit too heavy, a little bit too heavy on the points for me. Um, and I I played a game
+against a good friend of mine, Morred. Um, I seem to to recall I killed two of
+his without breaking a sweat. They didn't really cause many issues. Had they been able to recho and stuff like,
+they'd have been more intimidating, but yeah, that's them. That's the Raiden, the the
+Raiden Suai. Wonderful. Wonderful.
+Shiryuku. Shiryuki. Shiryuki. The pronunciations on this are going to be terrible. I can say it in my head. Can't
+pronounce fi. Ladies and gentlemen, I give you another and and and unit. Um, but unlike the
+jizarai for me, this is an and and unit which never gets out of being that's
+interesting. No. Full for movement CC23 BS12 fizz 12 whip 13 two arm 3 BTS1
+viter hollow mask. So it can appear as anything. Okay. And an X visor.
+Sure. So we only have one profile here with the multi rifle. So we increase the range beyond that 16 in of of
+usefulness, which is good when you are air quotes only BS12
+BS shock. Now, that's kind of redundant to an
+extent because the multi rifle has shock and AP as its
+primary as its primary high burst uh versions. So, if you're using AP, you're
+probably shooting something that has multiple wounds in most cases. So, the shock won't be useful in ARO. You're
+shooting DA DAP. I mean, sure, but
+again, this is points and yeah, not really that helpful. Um, dodge plus
+2 in, sure, immunity shock, martial arts level four, cuz of course it is. No
+wound incapacitation and religious troop with stealth
+hollow mask Xisor BS tag shock the dodge plus 2 in the immunity the
+martial arts no capac there are a lot of pricey skills here
+on a BS12 unit it kind of feels like it wants to be a gunfighter with that X
+visor and with the BS attack shock. It kind of
+feels like it wants to lean that way. But then we have martial arts level four, which is not a cheap skill. It gives you all the toys,
+but not really on a platform to make best use of it. Um, so yeah, multi rifle
+pulse pistol, viral CC weapon with PS5 at 30 points. She's too expensive and
+she's not specific enough in what she does for me. She's not a gunfighter. She
+kind of is a close combat monster. But you're relying not on a camo state.
+You're not relying on a mimmitism to get you there. You're relying on no wound incapacitation and two arm.
+Um, put your brave pants on if you're going to do that with her.
+She can join fire teams and that's a thing. Um, she could I
+think she's she's twinned with um or she's she's named with Senku. Um, yeah,
+she's she's got Senku as a keyword. So, you can put her with the useless ones and then have a really expensive person
+or comparatively expensive person leading the useless Senku. It's an option. Would at least if you
+get three Senku and her, which would be what, 27? So, 57 points, you could get a
+multi rifle with BS13 on it. So, there's that. Yeah, I I'm really inspired by the
+miniature and really underwhelmed by the the profile. It just doesn't do anything for me. In fact, the only funny thing
+that I came up with for this would be to get um the Sheryuki,
+deploy her in hollow mask state as a Metsuki
+and then put Metsuki on the board at the start of the game and have one of them be her and then the real one way behind
+her off to one side. So your enemy's like, "Haha, I have you now." It's like, "Tada! It's me. I shall shoot you with
+BS12." Yeah. Okay. The actual reveal would be more funny than it would be scary, but it would be a thing. Well, no
+pulser maybe. You know, never know. It could it could be something. It could do some work.
+Next up, we have the STRS Tanuki team, the stars. Yeah. Here we go. Now life
+gets interesting. Move for four. CC 17, BS13, Fizz 11, whip 13, arm two, BTS3,
+one viter, dodge plus three, so dodging of 14, immunity shock number two. So when the fire team that they can be part
+of breaks, we continue uh terrain total and warhorse. So we ignore all the negative
+stuff. We are brave, brave boys and girls. Look at all of those profiles.
+Chain of command with the boarding shotgun chain flash pulse 18 points. That's quite nice. Specialist optive. I
+don't think you'd ever take it. I wouldn't. It's not really worth it. Um the multi rifle recharges gizmo kit
+deactivator. It's basically an engineer but without the engineer skill. Although it is useful for the person we can talk
+about in a second, but 19 points for just a specialist operative with a multi- rifle.
+Then we have one of the standout units in this army. Tanuki hacker with hacking
+device, submachine gun, pitcher, and disco baller for.5 SWC and 20 points.
+So we have a specialist with whip 13
+with a submachine gun. Okay, pitcher. So we can build our own hacking network around us. Disco baller. So we can put
+down that bundle of impenetrable. You can't see through this ever. Goodness on
+the table. And this can go in a fire team. So, it's possible to fire both the pitcher and
+the disco baller with a special die with just another couple of guys in the another guy in the in the um
+in the fire team, which is really potent because then we start landing these more
+reliably. If you're firing at, you know, we've got BS3, which is not to be sniffed at, but if we're putting these down on the table, being able to reroll
+that effectively, the the special die is the equivalent of a reroll in my head is quite tasty. You're going to get
+pictures and disco ballers down reliably. Pistol, CC weapon for.5 SWC, and 20 points is great.
+The boarding shotgun paramedic is fine. I mean, with 13 paramedic, no problems.
+The multisspectral visor level two HMG for 1.5 S SWC and 29 points is awesome.
+See, this to me is a proper gunfighter. We have the HMG, we have the
+multisspectral visor, we have two arms, so we're normally shooting from cover, so we have five arm effective. We have
+that BS13, so we have the ability to reach out and touch people quite reliably. And if all goes horribly
+wrong, we're dodging on 14s because of that dodge plus three. and the warhorse keeps and you know and
+the number two if one gets dropped it it's just this wonderful little bundle of violence
+a equivalent um multi sniper rifle with MSV2 1.5 SWC and 27 points sure I don't
+think I'm not a huge fan of multi sniper rifles I think this is again one of those instances where it's like yeah
+sure but no and then left hand HMG wouldn't take that one even though it's.5 um SWC cheaper um because it's a
+hit piece and having your lieutenant as your hit piece is something that you really need to have your brave pants on to do.
+You could then take a Tanuki chain of command, but why not just stick somebody else as your left tenant and free up
+points to do other stuff. But diving back to that Tanuki hacker, that is an awesome piece of kit. It is a
+really really great piece of kit. Um so of course Corvis have not made the
+miniature for that. We have a boarding shotgun. We have heavy machine gun. So, we have two out of the five, not the
+SMG, and that is to me one of the most insanely useful profiles in this army.
+So, we'll talk more about them in a minute, but they are great. We love them greatly. You need these in your life.
+Then we have the Taiishin. Um, so a airborne deployed trooper combat drop,
+right? CC 44, sorry, move 44, CC 21, BS 111, Fizz 12, whip 13, arm two, BS3,
+fighter one, combo jump, courage, dodge plus one, martial arts level one, parachute, stealth, and super jump with
+jet propulsion. We have a highly mobile guy here with
+that plus one in on the dodge with the super jump, jet propulsion. Stealth means he can move around unheard
+and interacted with by the world, which is great. And of course the super jump means that
+he has just the ability to get places which is deciding and to avoid enemies
+sort of filings and such. Three versions of boarding shotgun, one version with a submachine gun. Boarding
+shotguns all have decharges. So this is good for completing missions. Um he is a
+medium infantry so he can complete missions as well. So this is this is potent. um you know when you start
+looking at classifides he has the ability to do quite a few sort of
+um specialist uh classified missions is there in the end um classified missions
+the same actually as the tanuki which I forgot to mention they're veteran troops as well so the tanuki being veterans
+medium infantry and having MSB and and uh these guys are quite good at getting classified done and the titish as well I
+like the hacker It's fine. 23 points.5 SWC. But I really like the killer hacker. It warning
+shotgun D charges. Ultra mobile 21 points web 13 BTS3. It's a capable
+little um killer hacker. Um you know these can you you can drop them in where
+you need them. Technically I guess you could start on the board if you wanted. Um I heard Robert Shepherd he did a one
+of these on Shinden a while back and it stuck in my head. He mentioned that you could start them on the board and I agree. The man is the man is wise with
+that suggestion. So yeah, you just put them on the board at the start. The boarding shotgun I have preferred if
+they were like something else. But it's fine because technically we want to keep our Tishan out of the way and just doing
+missions. They are a pure mission trooper. But I guess if they do get in trouble, there are worse things to have
+up close than a boarding shotgun. Um, would I get into close combat with this guy? No. because he's too much of a
+tempting target. He's just too useful and too many points. Yeah, I wouldn't stick him in CC, but um running him
+around doing missions and flying through the air with that super jump jet propulsion. Lot of fun to be had there.
+Heavy Infantry
+Next runs are the heavy infantry, albeit briefly. The Hatamoto Imperial Guard. Oh
+my god, it's the the poster child for and and and and and this particular army in my eyes. So 16
+movements CC23 BS13 fizz 13 whip 13 two arm bit rubbish for heavy infantry or is
+it BTS6 viter 2 nano screen yay actually arm five unless somebody's got
+marksmanship cuz you know shields don't count for that and an X visor. Okay.
+Combat instinct. Sure. Courage. Sure. Dodge plus two ines. Right. Frenzy.
+Immunity shock. Martial arts level four. Mimism minus three. Natural warrior. No cover. Special operative. Stealth.
+It is an absolute wall of special skills equipment and stuff.
+Before we dive into that further, we then have a plasma two plasma carbine builds, two red fury and two Spitfire
+builds. All of them have heavy pistols. All of them have monofilament close
+combat weapons and you can either take NCO or set in
+plus one order. So
+there's too much stuff here. Um, I would prefer the nano screen wasn't a nano screen that it was natively ARM 5 and
+we'll just live with that. I mean, yes,
+I get the whole thing that this is in effect ARM five and in effect mimism minus three because nano screen is going
+to stack with that mimitism. So, your mitism minus 6. I get that.
+It's just too damn expensive. I would rather have the arm five native and
+mimis a minus three lose the X visor I don't think for the like the rest of the
+army like I say this this army kind of wants to be in the midfield so does your hatamoto
+so we don't need that X visor because we should be playing around the midline with this dude and that the martial arts
+level four and naturalb born warrior and even to an extent stealth actually I
+would argue and the specialist operative These are
+stuff on top of stuff on top of stuff. Those don't really lend themselves to being a gunfighter. But then a lot like
+Combat Instinct does, Courage does. Nanoscreen arguably, yeah,
+yes. He's kind of this really choppy choppy gunfightery. Does all the stuff,
+but then he is between 34 and 41 points. He's too damn expensive.
+There are too many too many units in this particular army that are
+sort of 20 plus points. Having something that's 40 plus points to do two jobs reasonably, I mean
+reasonably well is too expensive. He's not worth it. Even the plus one SWC for
+the left tenant. I don't see you can comfortably fill out
+a 300 point list without running out of S SWC and not feel like oh I was too
+shy. You're not going to I've not had that. So the plus one SWC just doesn't
+feel necessary and it's too too many down points. He's too expensive. Um I wish he wasn't but he is and that's just
+the world we are in now. So sorry about that. But um yeah, what do you think? I I I love to be clear I love the
+miniature. I own both of them. I think they're gorgeous and I love the idea. They're just too many and and ands too
+many points. Doesn't work for me. On the other hand, the Shizoku
+62 movement CC 22 BS 13 is 14 whip 13
+arm five BTS 6 to Ver Berserk. Okay. Courage dodge plus 2 in frenzy. Sure.
+Immunity shock, martial arts level three, mirror is a minus three, and stealth.
+This is more of a flavored gunfighter for me than the Hatamoto was because
+there was too much damn stuff with the Hatamoto and it almost feels like they lumped all the stuff in the Hatamoto so
+it was different from the Shizuku. Fine. But this you've got the fire team
+versions with either an AP HMG or a heavy rocket launcher plus one burst
+or you have the strategic deployment heavy rocket launcher plus one burst and both the heavy rocket launchers have assault pistols which is just not
+pleasant. It's just not nice at all.
+Um but this is more of a pure gunfighter. Stick this in cover and
+you're at movement is a minus six effectively and you're at arm eight with two viter. You have that dodge plus two
+and you're dodging on 14s. Bear in mind, the only thing that doesn't really fit
+is the martial arts and the berserk. Those two, they don't really work, but
+that's flavor of the faction. I can kind of be like, "Yeah, sure, fine. I pay for that. I pay for the
+APDACCCW. Fine." But like the APMG with chain rifle, mind
+you, that's linkable for 1.5 SWC and 43 points. Abso freakingutely all day long.
+Very, very good unit. the strategic deployment unit that enables the the Shizuku and anyone in their fire team to
+move up plus 4 in um at the start of the game or plus eight if there
+is another if there is a game condition that makes everyone move up plus 4 in is
+cool but is it useful? Not overly from my perspective because the heavy rocket launcher likes to be a little bit
+further back. So moving further up the board don't really feel it. But for me, the APMG, which is the one they
+produced, which is gorgeous as well. Love that. Love the whole thing about it. It's phenomenal.
+TAGs
+Tags. So, we took we spoke about the Meazo Sarrenter earlier. Uh 64 movement CC23,
+BS13, Fizz 15, Whip 13, ARM 6, BTS 6, and three stretcher. Now, he's only silhouette six. So, he is a little bit
+of a he's a light tag effectively, hence the arm six. Equipped with an ECM guid.
+The standard save on minus one for the BS tag. Climbing plus combat instinct dodge plus 3 in dodges on 11 unless you
+have the tag support in there. Tag com 14 gizm 11 martial arts level two sure
+flavor religious troop. I'm not a fan of that but here we are. Stealth and tactical awareness. So the extra bonus
+order loadouts the APMG with Pulsar and Panzer
+Fast for 66 points on 1.5 SWC.
+I am not feeling that load out at all. Or the multi- Spitfire with PSAR for
+69.15 SWC. I feel that one all day. climbing plus the dodge plus three in
+the ability to dodge on 14s attackware 64 movement. This is a nippy
+little little tag that gets to the midfield and then can start causing problems. I think the lieutenant option
+is pretty much irrelevant. Um I don't think it's a useful one at all. And the
+bot's fine specialist optifist if you have the need to do that. I think
+the the Mechazoid is a wonderful little unit. And I'm not sure you'll see it that much because there is so many other
+things in this army that are not cheap. You know the things that are cheaper
+sinku and you don't want them. So I think the mechazoid is going to struggle for being priced out by other things
+that are more useful and essential. That said I own two of them. So that tells you exactly how committed I am to that
+particular thought. Anyway, Mechazoid, I love it. I think it's gorgeous miniature. I think it's an interesting profile and I think taken in isolation,
+it can do some work and it can do some damage, but take it in the context of the army, it might be a little bit too
+expensive. I don't think you know you're going to have to build around this and that's going to mean you suffer in other
+areas. With you being focused on those multiple fire teams, which are not cheap fire teams, maybe you're going to
+struggle there. Then we have the wonderful trip hammer, whose name I
+chopped off the top. You're welcome. So the trip hammer is a cool little tag. It
+has transmutation. So when it's taken two wounds, it drops down in quality. But it starts off 64 BT7 B sorry CC 17
+BS13 V 16 whip 12 apparently ped by Seni
+arm 7 BTS3 structure three standard size S7 gets booty. So potentially get something
+nice. Saving rule minus one on the BS attack CC attack antiaterial is also nice. You have those missions where you
+have to use anti material stuff. He can do the business. Dodging on a nine, gizmo kitting on a 10. Tech awareness,
+and then the transmutation skill, dropping in condition when you've lost those two wounds. The AP Spitfire heavy
+flamethrower for 53 points of 1. 1.5 SWC is awesome. The APCC weapon PS4 is also
+awesome. You have those missions where you have to take out the console by smacking it. This guy can smack it. The
+heavy shotgun with Thunderbolt plus one is also nice as is the heavy shotgun heavy rocket launcher panels plus one burst. I do like the heavy shotgun with
+um heavy rocket launcher and pans. I have to say for 48 points that's a lot of boom. It is a lot of boom and and
+yeah, I I appreciate that. But would I find the points to take the mechazoid in place?
+Actually, probably not. It's 21 points cheaper. I think the heavy shotgun I think we're going to be running the heavy shotgun at some point. I think I
+think that's going to make it up to the table. It's just cheap enough I think I can sneak it in, but we shall see. Onto
+the never- ending list of rims, atombot, we have a standard forward
+REMs
+observer, whip 13, uh, 64 movement, deactivated repeater, courage, forward
+observer, flash pulse, and a modified combo rifle to make it more damaging with an extra burst on the flash pulse.
+15 or 17 points. I do like the 15.1 because it does come with sensor. That is a really nice touch. Um, some Ford
+observer bots I think don't have sensor. This one does. Very much appreciated. The Gon 360 visor total reaction bot.
+The interesting one for me here is actually not the HMG or the Mark12. It's the Thunderbolt. I like the Thunderbolt
+total reaction because it also has a smoke grenade launcher. So, when we're putting down the the moving forward
+stuff, BS11, okay, not necessarily the most reliable, but having that extra sort of
+ranged smoke deployment is very nice. For 16 points, it's a cheap order that
+can guide your back line with that thunderbolt. It can take it care of anyone that comes in, but you can also put down smoke. That is nice.
+Rubio, it's 66 moving seven point flash
+order basically. Um, cheaper than the Senku, more valuable than the Senku.
+Need I say more? The Iran guided missile bot. Uh, BS12
+guided missile bot 16.15 SWC. Nothing we haven't seen before elsewhere. I you can
+guided missile trick in in Shinden, but I don't know whether you
+would. I think there's better things to do with your time um than using the guided missile trick. And I think
+there's probably better things to spend 16 points on than the Iran AR bot, but um your mileage may vary.
+Then we have the these guys. Yeah, the specialist baggage bots. Every
+faction has uh old school design, the Uing ones. You can tell they're old school cuz someone's got the base
+extender on the back right foot there. Look at that. That's right. We used to have smaller bases and then bigger miniatures had extensions molded onto
+their legs that clipped onto the side of the base so we fitted. Except it didn't.
+You'd sort of have to position it and bend it and then it would snap off and then you'd have to glue the base holder onto the side of the base and then the
+miniature back onto the base extender that it was on origin. Yeah, it's a whole thing. Don't go there. Still
+having flashbacks. So these guys four movement CC 13 BS 11 fist 10 whip 13 ram
+10 arm two not 10 BTS3 one structure baggage courage remote presence you've
+got the deactivator repeater for eight points so an eight point baggage bot in effect you've got the evo hacker for 14
+points well worth your time then we have the total reaction repeater um combi rifle
+which 17 points in in this day and age of backfield appearing
+um airborne deploy troopers and things like that. The day when a combi rifle with total
+reactions should be sort of sniffed at I think are gone. 17 point burst three in
+ARO combi rifle in your deployment zone also handing out baggage is not as daft
+as it sounds and it's quite useful. But then you have the linkable version
+of these guys of the pangling mangling um with light shotgun. So repeater light
+shotgun baggage that's quite a useful little profile. Um it can defend itself
+works its way up field. If you have lots of things that need repeating like I don't know pitches and disco ballers and
+stuff like that. kind might kind of be useful to bring the pangling FTO up on board.
+Then we have the Yozy Ludwan. So 64 this proper attack remotes 64 CC13 BS12 B 10
+whip 13 one arm 6 BTS structure hollow projector. So you don't put one there you put three down and then your
+opponent can shoot them one at a time and find out whether they're real or not. Multis spectral advisor level one
+BS attack plus one burst courage remote presence surprise attack minus three.
+Don't forget the hollow projector reinitializes during your states phase at the end of your turn. So even if they
+take them down to like no hollow projectors left at the end of your turn you go haha we have three back and make
+a note of which one's real. Mark 12 heavy flamethrower EM mine for 24 points or thunderbolt EM carbine EM
+mine for 20 points. They're nice. The the plus one burst is nice all the way across the board. I
+personally am a fan of the Mark 12 heavy flamethrower. I like that one just because I like the template and I like
+the the output of that Mark 12 with the plus one burst having that surprise attack minus three um with the hollow
+projector with the MSV1. I you can do some good work with the Ludawan. I am I
+am a fan. Um the Thunderbolt also cheaper. It's it's
+a good unit, but myself, I prefer the bike 12. I mean, the Thunderbolt's longer range, but but but personal
+choice. Your mileage may vary. The Rushi, the the the slightly angry and annoyed
+brother of the Ludan. Six wall movement CC-13 BS12 fist 10 web 13 one arm BTS6
+structure with a repeater builtin carriage remote presence either MSV level two and spitfire for 1 SWC and 23
+points or MSV1 with red fury and mine dispenser shock for.5 SWC and 21 points.
+These can be linked and they can be linked with the Tanuki that we talked
+about earlier with a disco baller hacker.
+This is good. This is a very nice combination. We'll talk more about that in a moment. Then
+we have the yo. So we have the helper bots. So you can take helper bots if you see fit. Skirmishes. Kuryami ninjas.
+Skirmishers
+These are a little bit of an and and and unit, but they're more of an unfocused unit for me. I think so. 44 movement
+CC22. They're ninjas. We expand to CC BS11. Sure. Fist 13, good with 13, zero
+arm, three BTS one fighter, a bang bomb, so when you're getting shot at, you can get plus four to that dodge. So you're dodging 17 courage plus one inch, so
+you're dodging even further on the dodge. Hidden deployment, this is nice. Infiltration, this is nice. We're going up to midline, but we're not really
+there. Great. Martial arts level two. This makes sense. Mimis minus three, stealth, super jump, surprise attack,
+and terrain total. A nice little package there. Completely lacking camouflage.
+So when you put these guys on the board, you are relying on cover and mimism of minus three to keep them alive because they have neither armor nor camo.
+This is not good. Standard version is a submachine gun vomine. Then you have the hacker hacking
+device light shotgun viral mine decharges and the mine layer version submachine gun vomines between 22 and 26
+points.5 SWC for everything apart from the basic version
+super jump bang bomb and the fist 13 I think it just makes it
+too expensive I think I think without that that ability to re
+camo I think it's just a victim waiting to happen. You reveal it is dead. It's a matter of time. Especially because you're only rocking submachine guns,
+light shotguns. You're going to get outranged. You're going to get your bra brains blown out. The whip 13, the BTS3
+is fine. It's kind of a theme actually with with hackers inside of of Shinden. They're fine.
+They're not great. They're fine. Next, we have the Kioent killers. So, here we have the third unit that is
+irregular. Now, these are they look like beast hunters and they smell like beast hunters.
+They're very similar. There are some differences, but they're very similar. One of the big differences is they not don't have anywhere near as nice or
+beautiful miniature as the current beast finisher, but let's not go there because it's kind of got this sort of I don't
+know, Japanese feel to it like you'd expect in I don't know Japanese. Anyway, we got the Q killers instead. Four for
+movement CC21 BS 11 fist 13 whip 12 zero on zero BTS one viter camouflage one use
+CC attack plus one which is kind of cool. Four deployment plus 8 in mitis minus three religious troop stealth
+super jump surprise attack and terrain total and and and but light flamethrower
+contender light heavy flamethrower flam and spear for 18 or 15 points with DACCWs on both.
+If I was to use these, it would be to defend approaches to objectives or
+defend my deployment zone. That's what they're for. From where I'm sat, there
+is a whole argument to be made with that plus one burst that you use them as a cruise missile just to nuke somebody from a distance. Send it running up with
+a super jump. Bounce bounce forward plus 8 in on that forward deployment. Send it forward. Go kill that one guy.
+Beautiful. But it doesn't. You're relying then on matis minus three to keep it alive cuz
+arm zero ain't keeping it alive. It can't re camo. Once it's revealed, it's
+in trouble. It doesn't really have massively long range weaponry.
+They're fine. You know, the contender of the flame speed are okay, but you know, they're not necessarily that high burst
+as weapons and with BS11, what you hit in anyway. So, I would more use these as a mobile
+unpleasant mine towards my deployment zone than I would for anything else to be honest with you. Um,
+and it's it reminds me the Kuryami ninjas as well. One of the problems that these guys have is they are the only
+infiltrating source for deployable mines from memory.
+So if a Shindut time player puts down a mine or a cam marker near the midline,
+the only thing that can be is a mine from a Kuryami ninja.
+So they really they really are quite obvious. They do give themselves away. Um and the same with Ken killers, I
+think, to to a great extent with the way you're going to deploy them. the full deployment 8 in they're going to be
+between bands. So, but they're they're yeah your mileage may vary, but I think
+if you are taking the Monstrucker or you're taking a warhore, then adding these into the mix, you start chewing into your you know, take a monster, take
+a walk, take two of these, and you have four of your combat group are a regular.
+That's going to start being a problem. Ninjas. Now, we love a bit of ninjaing around
+here. So, four movement, CC23, BS11, Fizz 12, whip 13, arm one, zero TS, one
+biter, camouflage, harra, CC attack shock, climbing plus, harrah, courage,
+dodge plus one in, hidden deployment and infiltration, harra, martial arts, level three, mirrorism minus six, stealth
+surprise attack minus three, and terrain total. This is a CC specialist and it
+shows. You have the camouflage to get up close. You have the climbing plus to get into position. The doge cost one against
+the hidden deployment. The infiltration, the martial arts level three. The mim is a minus six, so it's
+incredibly hard to discover it. If you do discover it, you still can't hit the damn thing. Stealth makes sense. This is
+this is all good. Tactical bone and shock mine for 23 points. Submachine gun for 27. Multi sniper rifle. Don't ever.
+There's no point. It's too expensive. The hacker for 33. I like the killer
+hacker for 25 points. I think a camouflaged infiltrating hidden deployment killer hacker with whip 13 is
+not to be sniffed at. The only downside is that's zero BTS or you have the forward observer
+boarding shotgun flash boss.5 SWC and 30 points of all of the the skirmishes that we've
+seen and some of the other specialists we've seen. Ninjas I think are by far the most consistent because they have
+the most toys to make themselves survival, make themselves durable. The only downside is, as with all the
+hackers really in Shin Mutai, they're middle of the road. The BTS0 is not great. The Whip 13 isn't stellar,
+but I think you're going to need to bring more than more than one to get the job done and just overwhelm the enemy
+with attacks rather than just be like, I have one super hacker that will do. That's not going to happen. But I think
+these are one of the best options for killer hackers. Uh certainly better than
+this. Loazaru, the almost poster child of and
+and and um yeah, full four movement CC23 BS12 fist 12 whip 13 zero arm six BTS
+hello one viter with multisspectral visor level one climbing plus okay
+courage dodge plus one in forward plus 8 in martial arts level three mimters minus three stealth and terrain total
+again you know there's no courage sorry no camouflage here this is not a camo
+unit. It can just put itself plus 8 in down the bolt.
+Not ideal when you have arm zero. Again, we're relying on war hugging to survive. So, what do we have? We have the multi
+marksman rifle for 30, excuse me, 30 points. Um, with multi level one and
+climbing plus is an okay camo hunter. Whip 13. It's not bad. It's not bad as a
+camo hunter. The hacker. The killer hacker. Stop machine guns. Shock mine. Dch charges. Silent pistol. 27 points.
+No, I don't think so. That doesn't I don't I mean the BTS6 is lovely, but the
+submachine gun, you're not going to make much use of the multisspectral visor. With that, it's not really helpful.
+Shock mines, you're just going to burn orders putting down mines. I mean the Dcharges is nice because you can use
+that to complete missions, sure, but I just don't feel that that loadout
+is a mess from my perspective. It doesn't make a great deal of sense. Then Noazaro, Ford observer, submachine gun,
+flash pulse, shot. Again, there's too much stuff. There's too much and and and on this trooper to be cost effective. I
+think he is not she they are not speced
+enough to be reliable to get the job done. I think they're just going to get their faces blown off to be honest with
+you and hurt with the number of points they cost when you do so. Then we have ST toam
+the man the legend move 44 CC24 BS11 whip 13 sorry f 13 whip 13 one arm zero
+BTS one fighter bang bomb plus four so dodge on 17s camouflage courage dodge
+plus one hidden deployment infiltration martial arts level four mimters minus 6 stealth surprise shot minus three and
+terrain total pure close combat murder machine CC 24 plus
+that martial arts so effective CC27 with an extra burst on there and a special die and all the goodness with the mutism
+to get you in, the camouflage to get you in, the infiltration to get you up there. It it just he arrives, you know,
+and he brings with him a TT boarding shotgun and smoke grenades. It's a great, you know, wonderful feature. The
+smoke grenades with that with that fizz 13. It's not a bad thing at all. Pistol, explosive CCW, so if he hits you, you're
+making three saves and he possibly gonna hit you twice. No thank you. No one wants that. It's not going to be fun.
+That said, he is a thoroughbred beast, so he is 33 points for a single wound miniature who
+is going to be out lone wolfing. That's not cheap, but
+with a degree of care, especially if I don't know, somebody who's chugging out disco ballers for example, he's going to get some serious work done.
+Warbands
+And finally, we come to war bands. The Yamabushi. The Yamabushi. This is the third of the
+trifecta that makes the Harris of Rushi Tanuki hacker and this guy the FTO
+paramedic. Stick those together. Devastating little fire team. So 16 movements CC23 BS11 Fizz 11 whip sorry
+Fizz 13 whip 13 one arm three BTS1 fighter CC tech shock dodge plus 2 in
+dogged for deployment frenzy martial arts level three mimitism minus three just stealth
+now we have three profiles with chain rifles one with all with camouflage one use one with panzer fastest one with
+tactical bone shock mines and one with the tactical bone plus one burst and panzer fest
+with forward deployment plus 4 in. Putting down a camouflage one use marker with a chain rifle and pan fast shock
+mines with that heavy pistol for 16 or 17 points is not bad at all. It is
+better than the Kurishu in my opinion because it's a regular order.
+We you've got more potency there, more reliability that chain rifle. I mean, yeah, the flamethrower here, but I think this is a better profile overall. And if
+you do want to get people into close combat, you can. Um, and I think it's just it's a
+reasonable all round performer. If you're going to stick it in a fire team, which you can with his FTA versions, the
+panzer fast is cool, but I think the paramedic is where it's at because you stick it in with heavy hitters that he can help keep alive. Basically,
+when you if you stick him in with this guy with the Tanuki, for example, um the
+Tanuki are Fizz 11. So if you use the the um medkit on the Tanuki, he's going
+to stand up again on a 11 or less. So, you know, it's it's it's not it's not
+bad at all. Um and 16 points to finish off that fire team is pretty good. So
+yeah, Yamabushi not that bad. Although you can get more of these than is reasonably
+sensible. We got one that was the limited edition release with Sand Trap. There was another one in a box and then
+we just had another one released solo. So you can have all of them. In fact, there may even be more than that. So
+there's at least three Yamabushi for an availability of two. So CB thinks you're going to love these. Then we have the
+first of your Jimbo. Here we go. There is another irregular. So now we have potentially five plus
+irregular orders in one combat group. Um, motorized Jimbo 86 movement CC24
+BS12 fist 14 whip 13 one arm three BTS one viter with a motorcycle courage dog plus two dodge plus 2 in immunity to
+critical which is horrible limited cover martial arts level four limited mastery min and no wound incap so he's fast
+moving on that bike definitely a CC specialist he actually has a contender plus one burst which is surprisingly
+potent not what you may necessarily think but he is surprisingly potent um
+with that with contenders in general. They're one of those weapons that you look at and you think that's not really
+that's not really that impressive, but survival 7 burst two. So this is burst three. They're T2 ammo. So with a failed
+save on that PS7, then you take two wounds and their sweet spot is 8 in to
+24. It's kind of a Spitfire range bandish. So if you get hit by a contender, you're
+going to know about it. and he fires three times. Then impulse is nice. Smoke grades is nice. Smoke grade launcher is
+also tasty. And the crazy coilus for the uh the mine layer is useful. Did I mention no wounding capacitation?
+For 20 points, you get a lot and he is useful. Um but you got to keep him alive
+and with one wound and only movement is minus three, limited cover, you're
+probably better off with this guy. So the the foot slogging version of Yojimbo 62 this time everything else sort of
+there or thereabouts from memory. Yeah, it's pretty much the same. Uh courage dodge plus one in immune to critical
+skill martial arts level four minicap blah blah blah blah blah. And now he gains stealth cuz you can't be stealth
+on the motorbike. Who'd have thought it? He loses the grenade launcher, the smoke grenade launcher, but he still has smoke
+grenades for 19 points. I think overall a more survivable and reliable version and with that ph that
+fizz 11 getting those smoke grenades down is going to be pretty simple 70% chance with everyone but again you're
+hitting loads and loads and loads of irregular orders not ideal so having had
+a good look at all of the units what can we figure out about Shinden from them
+Unit thoughts
+well let's start off with looking at the left tenants we have the 9 senku.5 SWC
+whip 12, the Lieutenant of Last Resort. If everyone else is unavailable and you
+absolutely have to go to combat, I guess you could take it. But to be honest with you, even if you hide it behind a box,
+it's probably going to die just out of general uselessness. So yeah, whip 12 is lieutenant. Not ideal and yeah, it's
+just not a great unit to be honest with you. So would probably not take that. Then we have the thoroughbred Metsuki
+officer. Clear rational choice as a lieutenant. 22 points gets you the strateg one whip 13 variant. So that
+will give you the plus one regular order to whichever combat group your left hand's in. Plus holding back two
+miniatures during deployment which is cool. You do have the option for 23 points to get the plus one lieutenant order. The
+only reason you take that really is for the Hamoto. If you had a Hamoto with NCO that could eat those two orders and use
+those, that would be a thing. But would I still take that over the Strat level one? I'd probably take the strategic level one to be honest with you because
+as a hit piece Hatimoto is going to die and the second that he does die that 23
+point left hand becomes a little bit less useful. Street level one will always be golden until your left dies
+basically for the Tanuki 29 point HMG with MSV2 1 SWC with 13. So, a slight
+discount on the non-le tenant version, but if you do take that, it's a hit piece. You're going to want to take
+yourself a chain of command trooper just to keep it your army functioning. Um, it
+it doesn't have the hollow projector that the Msuki does to keep it alive. So, yeah, it's kind of it's not just
+lieutenant, it's the lieutenant and the chain of command trooper. Same as with the Hatamoto, the 36, 38, 39 point
+variant. Yes, you get an effective two orders to spend on that particular hit piece, but again, that hit piece is
+probably going to catch fire, explode, and get spread over a large distance, especially if your opponent gets a vague sniff that it's your left tenant. So,
+you're taking a chain of command. So, instantly, you've got yourself the sort of need to add in an extra trooper just
+for when things invariably, you know, with any opponent with any sort of couple of brain cells to rub together,
+um, they start sticking bullets in your lieutenant. And for reference, a chain of command tanuki is 18 points. So
+taking this hit piece lieutenant, you're going to pay um at least 18 points of
+tax effectively because the the tanuki is your only chain of command option. So you you will have to factor that in.
+Yes, it's a specialist. Yes, it's another tanuki. Yes, this is a good thing. But I don't know. I think the
+Metsuki officer is just too much of a pain in the butt to be worth worrying about for your opponent to try and hunt
+it with its hollow prior. It also has um counter intelligence and you know it's
+just a better better choice. And the same goes for the Megazoid lieutenant. Yes, great thing, beautiful tag work,
+beautiful stunning, amazing, but the end of the day it's a whip 13 lieutenant that's going to attack bullets like
+they're going out of fashion. you don't really want to have to spend 18 points because
+you know your left turn is gonna get deleted. That's not an ideal situation to be in. So probably I think it's it's
+going to be a rare moment that I would move away from Msuki officer cuz I just don't I don't know. I I feel that
+your your lieutenant's going to be too vulnerable with any other ones. I'm not saying they're necessarily awful. I just
+think building in the 18 points for a Tanuki chain of command is something I have other places to put those 18
+points. Let's put it that way. So, good choices. The Tanuki hacker pitcher disco baller dodge plus three three BTS. Yes,
+all day long definitely needed. The Metsuki officer, sneaky hidden lieutenant with counter intel and then
+your choice of strategy, [Music] very very nice. The Shizoku, the HMG, AP
+HMG even with BS13 mimitis and five arm and two fighter. It is a thoroughbred
+violence machine and I love it for that. The Tyin AD stealth super jump with the
+uh the jetpack decharges and killer hacker for 21 points is not to be sniffed at. I mean, yeah, it's not
+necessarily got the best weapons load out, but as a capable get there, do the job specialist, it will. And probably
+controversially, Eureka Oda. I love the engineer mine layer with mines, with
+decharges, with mimitism, with plus three recharge linkable. Yes, with Sanca, still linkable. You can put her
+in other places as we'll talk about later. She is a good little unit. And you have the option to take the paner on
+there as well if you see fit, which yes, all day long. Questionable choices.
+Senku, they're generally not useful as a whole.
+They're just they're orders. It's, you know, a flash pulse bot but less useful, which is quite an amazing thing when you
+think about it. The Shiryuki um too much stuff. There's too much lobbed in on
+that particular profile. I think much as I adore and it does it does hurt me to say that um you know it's not a lot of
+good but spending 30 points on something that has the hollow master the X visor the BS attack shock the dodge plus 2 in
+the immunity shot the martial arts level noation religious troop stealth multi viral CC weapon
+there's just too much stuff you know BTS3 it's got more BTS's arm it it just
+doesn't as a unit it doesn't hang together and I'm not a fan of it. I'm not doing it and you can't make me.
+Anyway, Kuryami ninjas are next on my poop list. They need camo. They're a bit expensive. There are better options for
+the money. And it's obvious if you cuz it's got a hidden deployment and you put down a mine on the midline, it's going
+to be a Kiri Ninja. And if you don't put down a mine on the midline when you've got a Kir Ninja, then you're kind of
+losing some of the utility from I think two of the profiles. So, yeah, I'm not a
+fan. Let's look at fire teams for Shinden Boutai. Here they all are. So, we got
+Fireteams
+the Senku fire teams, also known as Please ignore me because I have Senku in me. You could put together a list with a
+Shiryuki and Yuiki Oda and Senku. But apart from
+Euro, I don't know why you would. Potentially, you could use them as as a
+way of getting specialists up the board. You could put the Ford observer and the paramedic and Eureo into a fire team and
+send them wandering off up the wall together, but those are whip 12 specialists. They are worse than the
+rest of your specialists, so I don't know why you would. Then we go to the Bushy Thai fire teams.
+Now, these have to be led by the Jizarai, which are still overly expensive, but you can take up to five
+of them. So you can make a call with this particular fire team and whack a hatamoto or a Suzuku
+Shizoku the the lead of it. That's entirely possible and it's still a pure fire team. So you could take the Shizuku
+and three Jizarai and put that into a core and end up with a plus one for the
+Shizuku, but it's just it's a little bit expensive. I think if I was doing this, I would and do to be honest with you,
+run the cheap 21 air quotes cheap 21 point jarai with the Shizuka HMG at the
+front of it. And that's quite a deadly little combination. It it helps the or it stops the Shizuku from um getting hit
+with frenzy so she doesn't become impetuous and you still get the plus one to the ballistic skill and you get the dodge
+bonus and you get the um discover bonus and you get the special d. This all amplifies the ability of the Shizuku to
+stay alive, but you are spending 63 points to do it.
+So there's a it's expensive. I know you could do it with the Hatamoto
+and retain the the purity of the fire team, but again, the Hatamoto is expensive to start with. Sticking that
+with what are effectively fire team cheerleaders in gizmarite that
+are expensive. This very very quickly becomes a very very very expensive fire
+team that is okay. It's not amazing. Okay.
+Then we have the action fire teams um led by Tanuki.
+Minimum you have to have a Tanuki in there which is great. You can only dur Harris this which Yeah. Okay. I get
+that. This is where life starts getting fun because the Tanuki can fire team up with Yamabushi and Rushi and be pure and
+be a pure fire team. Yeah. Yeah. Yeah. I know we don't always care about purity, but
+having that ability to have the uh Rayi, which you
+you're either looking, I think, Red Fury or a Spitfire with MSV1 or MSV 2 with
+the repeater. um with
+probably the either the chamber with panzer fast or the paramedic. Probably the paramedic for for preference in my
+opinion with that tanuki hacker. It's just this little little murderable ball. This little murderable that can move off
+down the field. It's got two specialists in it. It's got something that can deal with camo.
+It's got the ability to deal with heavy armor as well with the panzer vows. uh
+if you take that version. Um if you don't, you still got chain
+rifle in there. So you've got a template weapon. You can hack through the uh the roy as well. It's it's a useful little
+fire team. And you know, if you only care about the special dice, you only need the two in there rather than the extra dodge and the extra discover that
+comes with having three pure. You could probably put the tanuki with the rushi and then stick your eco odor in there
+because then you will have a panzer valve, but you will also have an engineer with the rushi. So keeping that
+rushi going is be a lot easier because you've got an engineer stood next to it and a hacker stood next to it. There there ain't nothing messing with
+your rushi. And in the meantime, that can be an even bigger murder ball that tundles off down the field and just does
+violence to people. Next up, we have the Meccasoid fire team because, you know, let's build a fire team around expensive
+tags in a list that already has lots of mid to highriced units. Um, Mechazoid
+with Tanuki hacker is cool. Uh, Mechazoid with an Atom Ibot. I can see
+use for that to be honest with you. You kind of want to get your mechazoid
+down the field. Having an a sensor bot with repeater built into it following
+along that then becomes the tag leading a specialist who can discover all of the
+camo just by pinging out. Um but also can protect it because it's got the
+repeater on board. So it can extend the hacking network through that wild cards. We've got the Shiryuki i.e.
+We only have one more car option and that's Yurua. Um I still don't see the point in the Shiryuki. It's I I wish
+that I did. I wish it was a better unit than it is, but it's not.
+We can only take one Harris, one core, but limited duos. So there is the argument of putting multiple duos
+together and I can see the benefit of that, especially if you're going pure. Sticking two tanuki together like the hacker and the HMG is fab. I will still
+be incredibly frustrated by the fact that we don't have a SMG version of the Tanuki. That would just if we had that
+model. I need like three. But anyway, we don't. So, we move on. Um,
+so yeah, I think you've got I think the the Senku fire team is almost redundant. We don't really need to care about that one. Um, not really useful at all. The
+Bush Thai fire team builds out what is in effect a gunfighter. It buffs a
+gunfighter. So you're either going to take a hatam or a shizuka at the front of it. You can usually just mar to give that bonuses. How far you take it,
+whether you take it from, you know, up to three or up to four is entirely up to you. I think it'll come down to points availability.
+But either way, bugging in those jarai and then taking the guys down field to
+do some violence, it's a good way forward. The SEO action teams are awesome.
+There's no two ways about that. The Tanuki Gamabushi Rushi is I think it's
+going to be something you see a lot in this faction and for good reason. I think it's very powerful and very potent. Even when it's not in active
+phase, you know, the repeater inside the Rushi, it's just it it provides a degree of board control and if anyone gets
+close to it, you know, you're going to be messing with templates, you're going to be messing with uh submachine guns,
+you're going to be messing with probably a Spitfire or a Red Fury. It's an unpleasant mess to try and unpick. And
+if you switch out that that Yamabushi for your eco, it's even nastier in many
+ways. More points, yes, but nastier in my opinion. So, let's look at some
+Example Lists
+example lists. So, this is a kill list. Um, I have Eureka Oda at the top there with the
+panzer. She's going to be lone wolfing it out there, fixing anything that needs fixing, blowing up anything that needs blowing up, and generally being a pain
+in the butt. putting down shock mines, doing a bit of board control, doing a bit of sort of crowd control if he gets
+too close. Then we have that Suki, Rushi, Yamabushi, FTO, Paramedic, Fire Team. It's a Harris. It's going to do
+the absolute base breaking giggles uh that comes with that particular
+combination. Then we have a core with the Shuku at
+the front. So, the APMG, I went all in with this one. I was feeling it. You know when you sometimes you're feeling it and you're like, I
+want to run that. I that's something that I can see myself running. You know, the ability to get the Shizuku up to
+BS14 by having it in a four trooper fire team should not be sniffed at. You've
+got Chismar SMG in case anything gets close. If anything really close, you've got the light shotgun as well. So,
+they're mostly there. The jizar are mostly there for buffing. But if the shizuka dies and unleashes the jizarai,
+you can just charge them off and start close combating stuff. Especially if you're putting down pitches, uh, sorry,
+pitches with disco balls with your with your tanuki. That's definitely an option.
+Next, I put in tanuki. Another set of tanukis. So, this is another um fire
+team. This time in duo multiper HMG along with another one of the hackers because they can just move together. So,
+we now have the ability to put down even more disco ballers, even more pitches. We're extending that hacking network
+across the board. We only have one hacker in this um sorry, two hackers in this particular list, so it's not
+particularly devastating, but we're out for kills here. And I think being able
+to funnel enemies where you want them into the sights of that Shizuku, potentially into the sights of the Tanuki or under the guns of the Arushi
+definitely the way forward. So having a hacking network that forces the enemy to feel like they need to go
+another way is a good thing. Um the Tanuki I put in there with strategist
+level one. He's not ideal in that second group. I'll be honest, he's not ideal in
+there because because he's in group two, his left tenant order will get turned into regular order and be usable in
+group two. So the first thing that dies in group one is replaced by the Metsuki command token, shift it across to group
+one and get that extra buff order in there. a Senku paramedic and a Senku Muppet.
+They're just order monkeys. They're going to sit the back and not die. That is their objective. And then we have Yujimbo because I love that contender.
+Um I love the motorized side of things. We can put down the crazy coilers to get some board control. We've got smoke grenades. We've got normal grenades. So
+we can put down some cover to do the smoke trick with the Rushi Spitfire and
+the Tanuki HMG. That is where you put a smoke grenade on top of a multisspectral visor level two trooper. They can still
+see everything out, but unless the enemy has multisspectral visor, they can't see back into the smoke to the person that's
+shooting them. What that means is when you shoot from that that sort of point
+with the tanukis or with the rushi, anyone responding um firing back is
+going to get minus six because you're in a low viz zone. If you're in cover, that becomes minus 9. So you can start
+stacking these negative modifiers against the enemy just by popping smoke on top, which is what your Jimbo is there to do. Um because obviously you
+can't do that with the disco baller because the disco baller is a clip smoke so nothing can see through that at all. So he's just there to go and start
+sprinkling smoke on top of Tanuki and Rushi just to really screw the opponent, ruin their day. So overall, this is just
+there to do maximum violence and maximum unpleasantness. And I think it will do the job well. You end up with 16 orders
+in fact because you get the lieutenant order turned regular and the irregular and the um impet for yimbo. Overall, I
+like the list. I think it's a lot of fun. Next up, we have an objective list. And
+yeah, here things start getting even more bonkers. So, we have a ninja hacker, killer hacker. So, we have a
+dude sat in the midst of the middle of the board in hidden deployment waiting
+to make himself known when maximum violence can be achieved. We are then back to our Tanuki hacker because disco
+baller pitcher it would be dumb not to with a Tanuki HMG with MSV2 and then a
+Yamabushi FTO paramedics. So, what we have there is a Tanuki and Yamabushi specialist that work with the Tanuki
+NSB2 HMG to move up the board. That's what they're there to do.
+Um, Taiishin, Hacker, Killer, Hacker, Boarding Shotgun. I'm either going to drop him in or start him on the board depending on how I'm feeling because the
+Ninja is already going to take one order out of this group anyway. So, this is not ideal, but
+maybe just start him on the board and move him around. He's got the mobility with his with his super jump propulsion
+to to move around independently. So that's potentially an option. Then we have Eureka Oda with a pair of Senku and
+the Shiryuki that is potentially
+um a fire team of sorts. I might take the Shiryuki and make that into a Metsuki so it appears as another Metsuki
+on the board just to screw with my opponent. That is one of the options. And then maybe take Eureko Odo with the Zenu, the Senku, and the Hatamoto, and
+make them into a fire team, a fourman fire team. It will give
+a plus uh a plus to the dodge, a plus to the discover, and a special die
+onto um the Hatimoto when it's shooting, which is not to be sniffed at. It's not necessarily a bad thing, but yeah,
+you've got options. I think I' I'd vary that fire team depending on what I was seeing on the opposite side of the board. Um maybe even do a full fiveman
+go completely bonkers and put Euro Senku Senku Shiryaki and then um Hatamoto on
+top of it because then you would give him plus one ballistic skill but that's a very expensive hobby but it could be
+fun but it could be entertaining and also the the enemy wouldn't be expecting it. Speaking of things they would be expecting, a Raiden hidden deployment
+heavy rocket launcher with shockbines and the shockbine on the board that's there to
+be the punch the enemy's not expecting. So we're moving up the board. We've got two hackers. We've got the paramedic.
+We've got another hacker. We've got an engineer. Paramedic. Paramedic. Those are going up the board to complete
+the objectives. That is an overwhelming mass coming because this is going to be all fire teamed up.
+And then suddenly heavy rocket launcher appears from nowhere. If anything gets into the backfield, it's going to put
+down a mine as well, which is also good. The Kuryami Ninja with mine layer, that's there for board control. Um, I
+still am not a huge fan cuz it's kind of gives itself away, but I think it's I think it's an interesting one. I think
+I'd want to run it once or twice just to see how it does. I don't expect it to do much, but if you're doing something like
+supplies, having that Kir Kiryami ninja there with a viral mine on the midline, it's just going to speed bumps your
+opponent and potentially you could use that to funnel them into the position where the Raiden wants them to be to stick a heavy rocket launcher round up
+the nose. Maybe that's an option. And then the Metsuki, the strategy level one. Again, he's strat level one because
+he's going to move as soon as someone dies. As soon as the Hatimoto dies, he's going to move across to group one.
+That's how I see that going. Um, I really I wanted the rushi in here as
+well and there there was a whole debate about that, but I think this list would be interesting. I think it's got plenty of
+things that are scary. There's lots of high burst weaponry in here that's really going to mess up your opponent if
+they get too close. Um, but overall, I think it's an interesting objective list. I think it's going to do some
+work. Your opponent doesn't stand a chance if they want to take out all of your specialists because you have so damn many. You've got a bit of B
+control. You've got some nasty surprises and you've got those fire tunes and they're doing the violence. But crucially, you also can change the fire
+teams around that. Eureka, Odo, Senko, Senku, Sheryaki, Hatamoto, Senku, fire
+team. You can chop and change that as you see fit, which I think is quite powerful. Um, when you come to the
+table, you're not fixed for a mono build depending on what you're facing. So, I think that could be worth it.
+And there we go. That is the general release information for you guys. The stuff that follows is for members and
+patronons. So, uh, YouTube guys, I'll see you in a second. But members and Patreons, come this way to even more
+stuff. And that's it. That is our introduction to Shinden Bhutai in all their forms and
+glory. They're an interesting sectoral and is one of the first orchestral purely N5
+fire team N5 armies. I think they're really interesting and they're a sign of the way that Corvis Belly is thinking
+about this addition and about armies going forward. So, we can learn a lot from it. The the power and the potency
+of fire teams is crucial. Something you need to build into your lists as you go, but I think we're also seeing a lot of
+those and and units in there, too. Does that explain why units were sort of
+dropped in points with M5 or not? Maybe. Who knows? But it's certainly interesting. What do you think of
+Shindipai? Which is your favorite unit? Do you have the same feelings about some of the units that I do or not? Uh, are
+there any really crucial key things that I missed or any massive um fire teams or
+or sort of list structures that you think are essential to make this this army work? Put them in the comments
+below and we can we can chat about it. Likewise, do please like, share, and subscribe. Get the word out there. Let
+people know this is out here. Thank you so much for watching. I look forward to catching you all soon. Take care.
+Goodbye.

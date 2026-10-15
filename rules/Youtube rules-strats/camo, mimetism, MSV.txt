@@ -1,0 +1,507 @@
+Let's see what we can see and not see with mission
+3. Welcome to learn to play Infinity N5 from the Infinity Institute from the
+Dice Gods. My name is Hydra and today we are on to mission three. So, what that
+does mean is if you haven't seen the videos before this one, you should definitely go and check them out, especially the last one which deals with
+missions one and two. That lays the foundations of Infinity N5. And if you
+haven't seen that, this won't make any sense. So, definitely go and check that one out. We'll wait. Assuming that you
+have and that you're up to date. In this video, we are going to be looking at some of the first exceptions to the
+rules inside of Infinity. As I said in the previous video, Infinity is a system
+where you have a whole set of processes and concepts and then a whole set of exceptions that are built on those to
+build different technologies and skills and abilities inside the system. We're going to be looking at the first of
+those today. But as ever, thank you to our channel Patreons and members,
+especially Sean Coburn, Old Man Rogers, Chaos Discordia, and Rudic Wolf, who are our top level Patreons and members. You
+guys are really helping to support this series coming to life and you guys will have access to the first of the
+downloads for this series via the members version of this video. So, if you do want to have access to the assets
+that make this series even better, become a member, become a Patreon now
+and you'll get access to them. But enough of the promo. Let's dive into today's mission. And here we are on
+mission three, the sneaky disco. I promise all of that will make sense as
+we go through this mission. Uh it may not amuse you like it amuses me, but hey, here we are. Look at what we're going to learn today. The objectives for
+today is we're going to learn about special skills, specifically mimatism and modifiers, which come from some of
+those special skills. We are going to learn about equipment, specifically the multisspectral visor family. And then
+we're going to learn about states. So those three concepts, special skills, equipment, and states are central things
+to understanding profiles and rules inside of Infinity. A lot of skills or
+weapons will inflict a state on a trooper. So knowing what these are and how they fit together really, really
+important. We're then going to learn about the camouflage state, which is one of the most intricate states that you
+can learn. So if you can master that one, you can master anything. and we're going to learn about the concept of exceptions to the rule. Next up, you get
+a new skill to your bow. That will be the discover skill, aka disco. And then
+we're going to learn about MSB3, which is multisspectral visor level three. Why will we learn about that? So much later
+than learning about multipers. Only time will tell. Plus, you're going to get some new guns, which
+is always exciting. What are you going to need for this one? As before, a table of roughly
+the same size. So if you have infinity essential start here, the 55x40 cm map from there is perfect. The 80x 60 cm
+from sand trap is also perfect. Or a table of roughly that amount of size. We discussed the table setup in the
+previous video for missions one and two. This table will be absolutely perfect. Exactly the same as that. Just just do
+the same thing again. That's absolutely fine. This is not the time to be worrying about terrain density and lines
+of fire. Keep it simple. Keep it easy. There's more things that we need to be concerned about than
+that. Next, we are going to need some dice. We're going to need tokens. So,
+um between 10 and six order tokens. If you're only using the essential start
+here box, then you're only going to need six tokens cuz that's all you have. That's all the miniatures you have.
+You'll need a tape. And then you'll need between 10 and six miniatures. Five from one faction, five from another. Or if
+you are doing start here, then three from one and three from the other. This will take about an hour. Although by
+now, because you've done the missions twice of the basics, mission one and two, you should be a lot quicker with
+your declarations and your resolving things and all the rest of it. We're going to build the exceptions in here and the if but moments. So, this is
+probably going to be still about an hour. When you've got these down, this type of game with this type of volume of
+orders, I mean, really half an hour quite comfortably, including setup. It's really quite quick when you when you
+have your eye in. Right now you're a newbie. You don't have your IN. So don't worry about it. Recap. What did you miss? So just to
+recover recover what we did in the previous videos. What can you do with an
+order? You can do one basic short skill, another basic short skill, a basic short skill, and a normal short skill. So
+that's like move, idle, the basic short skill, and then you have the BS attack, CC attack, and dodge for the short
+skills or one long skill, which we're still not doing any more of today.
+The important notes with declaring anything is that you need to engage your
+opponent. Make sure that they are clear that you're doing a thing. Declare everything you're doing very, very accurately and very, very clearly. And
+take your time. There is no need to rush. That is the process of spending an order. So engage the opponent, declare
+which troop you can activate, declare basic short skill, move if you're moving, request arrows, declare second short skill, move if you're moving, and
+then request arrows if you did move, and then resolve the order with rolling dice again. As soon as you start rolling
+dice, your declaration process is over. So there is no sort of as soon as you
+start rolling that dice, it's all done basically. Uh then we have the effects. And as ever, everything happens at once.
+So you can take a shot when you're moving. You don't have to shoot at the end or at the start. You can do it during that whole process. You see this
+zipping through here because I should have done this twice. So success value is a trooper attribute plus any
+modifiers gives you the success value. That's what you need to roll in the d20 to pass a check to make a thing happen.
+If you're shooting someone, you'll have a success value. That is what you need to get to to hit your target. Normal
+role is when you're not being a when it's just you, yourself, and I. You check your attribute, the skill,
+check modifiers, generate success value roll. Every roll equal to or under your success value is a success. Job done.
+Face to face rolls are pretty much the same except your opponent does it too. And you get to compare both of your
+results. Canceling any enemy successes with a lower value. Successes of the same value
+cancel each other. Crits cancel everything, which we have here. Critical is when you hit your success value
+exactly, which is amazing. It cancels all non-critical enemy successes, even if they are of a higher value. And you
+have to make one extra save for any critical CC or BS attacks. Criticals cancel
+criticals. Keeping up good process for saving. Check the possibility of
+survival from the weapon. Add cover. Add the AR value of the target. Gives you the success value as before, equal to or
+less. Crits do nothing. you lose one wound for everything over that success value that you roll. So if you needed a
+10 to save and you rolled an 11, you'd lose a wound for that partial cover. If
+you are in base to base contact with something, decent sized piece of terrain that partly obscures the view of your
+trooper between you and somebody attacking you, they get minus three to their beer stack and plus three to you
+to your saving role. Glorious. your available basic short skills as we
+discussed. Move and idle. Sorry, basic short skills are move and idle. Short skills, OBS tech, CCT tech, and
+dodge. Now, we're going to expand things. This is the new stuff. Yay. So, this is a full profile for
+Hatamoto from JSA with all of this stuff. Now, as before, we're running a
+reduced version, but we will keep in the equipment section and the special skills section. What we're specifically keeping
+there is mimmitism from special skills and camouflage from um sorry MSV from
+equipment. So it's still a cut down version of
+this but less cut down. When you look at the black air multiper
+mimatism there yeah that that shows you what equipment looks like and what special skills look like. You still
+don't need to worry about um BTS and silhouette and AVA and we don't need to
+care about those. Those are not relevant at this point still. Sure. Special skills, tricks and
+training. Special skills are abilities that are given to a trooper based on
+their training, their vetery or their inbuilt natural abilities. So when you start dealing with werewolves and stuff
+like that, they have things that they can do natively that appears under your special
+skills. They do many many many many many things. They will make your trooper
+harder to hit. They will buff close combat, buff movement, allow unique deployments, give
+states. They will give lots of different abilities and they give flavor to your trooper. They
+really it's one of the things you know when you look at the stat sheets of a lot of troopers yes the armor may be
+different but viter the number of wounds that will be between 1 and three there's not a huge swing BS will be between 10
+and 15 which is a 25% swing but again it's not massive when you start
+factoring in your special skills you start adding flavor and options and choices to your
+troopers. The first one we look at is mimatism. Mimatism is basically your
+dude's ability to be to to go all predator and vanish in plain sight. This
+can be a piece of equipment that makes them vanish. It can be them being sneaky. It can be them trained in
+sticking to the shadows and just staying out of the way. It just generally makes them harder to be seen and therefore to
+be shot. So enemies targeting this trooper with a BS attack apply a negative modifier. Enemies targeting the
+trooper with a discover skill, which we're going to talk about soon, apply a negative modifier as well. Common
+values, mimism minus three, mimisism minus 6. There aren't really anything beyond that because mimisism stacks with
+cover. So if you have a mitism minus 6 trooper who is in cover and being shot at, then whoever is shooting at them
+will be at minus 9 to hit. That's quite big. That's quite a lot.
+So let's look at a profile. The the hatamoto here. He's got mimters of minus three. So if you're
+shooting at him, you are automatically at minus3 to whatever whatever whatever
+your success value is, you're at minus three to that. So
+modifiers mimism is modifier of minus three. As we can see under special skills there, they come from some
+special skills, some weapons, some other bits and pieces have them. Some are
+negative, some are positive, not position. Some are negative, some are positive. A positive modifier always
+buffs the trooper who has it. So if you have a PH plus three on your special
+skill, then that trooper gets plus three to their fizz when they do a thing.
+Normally you get that for dodge. If they're especially good at dodging out the way, they'll have fizz plus three. Negative modifiers always debuff the
+enemy. So if you see something um a good one of those is power weapons. They they
+make things um they paralyze people, paralyze equipment. You will often see a
+power weapon has power minus six on it. So, if you're responding to that that
+weapon in close combat, whether you're dodging or whether you're combating it back, you will suffer a minus six to
+whatever you're whatever you're doing to that. So, buffs always good for you, negatives always bad for the enemy.
+That's how to think about those when you see them on the profile. So, here's some other great
+examples. We have the Chris Boratch before who we met in the last video. He has a BS attack plus one B. So when he
+uses a weapon and does a BS attack, he gets plus one burst to that. That's good news for him. When somebody shoots back
+at him and does a BS attack against him, they receive a minus three to hit him because it's a negative modifier. So it
+goes against the enemy that's doing the bad thing. Likewise, we have the blue
+coats here. Now, if we look under special skills, he has discover plus three. So when he is using the discover
+skill, he gets plus three to his whip stat for doing that discover because we discover on whip. But also if you look
+under melee weapons, we have paracc weapon minus six. So if you are engaging the blue coat in
+CC trying to bunk him on the head, you will receive minus six to your role
+because he has a power CC weapon and that's how that
+works. Negatives are always for the enemy. positives are always for you. Let's have a think about those those
+modifiers. So, now we're going to go on to equipment. And you can probably guess what equipment is. It's stuff that does
+stuff that your guys are carrying. Again, equipment does lots and lots of
+things. You will find that some equipment counters special skills. So, a little bit of foreshadowing there for
+you. You'll find that equipment includes vehicles, hacking gear, healing stuff,
+fixing stuff, stuff and stuff. It will be in your equipment section and that
+that is just gear that they're carrying to do something special. So, a moment ago we had mimisism. Mimatism is a special skill
+that makes you harder to hit when you're shot at. Multisspectral visor is a counter to
+mimmitism. You have three levels, different levels of of MSV as it's
+called. or spectral visor is a bit of a mouthful, so we shorten it to MSV. There's probably something out there calls a muzzva because there always is
+someone that does that. But MSV, there are three levels of MSV that have varying levels of impact, varying levels
+of quality. They also cost varying levels of points. So, you will pay points for these. Although your troopers
+come with them as standard, that will be built into the trooper cost. MSB is obligatory. You can't turn it off. It is
+always on. That is important because there is actually a um special skill in
+here. I think it's a special skill or a piece of equipment. I think it's a special skill that counters MSV because
+Infinity is very much a game of rock paper scissors. If I have a thing, someone else will have a thing that can
+beat my thing, but then that thing will be beaten by something else that can itself be beaten by the and so round and
+round we go. So you will find that infinity is a game of rock paper scissors. If there is something that you
+have, somebody else will have something else to ruin that day. And MSV is the hard counter for
+mimisism. What do they do? MSV level one reduces mimism minus 3 to zero and
+mimisism minus 6 to minus3, which is pretty cool. So if you
+historically if you've got a trooper like we had with the hatamoto who was mimatism minus three and he's being shot
+out with somebody by somebody with MSV1 then his mimmitism will now count
+as zero because because MSV counters that mimatism. If you have MSV level two
+it reduces mimisism minus 3 to zero and mimmitism minus 6 to zero. So, if you've
+got somebody with really, really good mimicism, which again you pay for, MSB
+level two will counter that for you quite happily all day long. Level three is exactly the same as
+level two, but with other stuff, and I want to come back to the other stuff in a
+minute. MSV also impacts uh visibility zones. Now, visibility
+zones are things like smoke. Infinity has smoke. We will cover it later, but
+you can create an area that's either hard to see through or impossible to see through. MSV will counter that quite
+happily for you. So, here is a trooper with MSV. We
+have the Black Air from Sand Trap. This is a pano unit and he has multisspectral
+visor level two and he also has mimatism minus three. So that does mean that if
+you have a black air and your opponent has a black air and they shoot at each other, they ignore that mimitism minus3
+modifier for shooting at somebody with mimisism because the MSV cancels the minus
+three. Wrong way. Let's bring it all together in a pretty example and stick a bow on top of that.
+We have a I'm going to make these quicker than the previous ones because you should have done this enough so that
+you can track this through. A hatamoto is in its active phase. It is doing a BS attack targeting
+a Panosanian black air sniper. The black air arrows with BS
+attack. The range is 14 in. There is no cover for either of them. We've done all the declarations. This is all done.
+We're moving on to resolving next. Basically, that's that's what we're doing here. So, this is our process for
+resolving attack. We have the hatamoto on the right there. We have the black air on the right there. They're stood. They look friendly. They're not really.
+They're going to shoot each other. Don't be fooled. So, this is our process as we've seen before for dissolving for
+dissolving for resolving a BS attack. Declare targets. Check shooters BS. Check range. Check cover. Check now for
+mimatism. So, we've now added that extra step into this. Okay.
+We then confirm our success value, which is now the ballistic skill of the shooter plus any range mod plus any
+cover mod plus any mimitism mod. So that goes onto this success value. We then
+check burst, roll, one diaper burst, and every blah blah blah blah blah. At the bottom, we have the two equations that
+we're going to run through. So looking at the stats of our troopers, the Hatamoto's BS is 13 and
+the Black Airs BS is 13. So we know who our targets are. We've already done that. So now we can lock in at the
+bottom there. The hat has BS is now changed to 13. The black hair is now turned to 13. So we know who's who. We
+know who's shooting what. We check our range. We know that it was 14 in. So again, looking at these weapon
+profiles, the Spitfire is zero up to 8 in and then plus three up to 24 in. So
+we know we know that we were at 14 in. So the Spitfire gets plus three to its
+BS. So the Hatam motor gets plus three to its BS. The sniper rifle however at 14 in is in that 8 to 16 band
+which is at zeros. So the sniper gets zero to its BS and even though the
+weapon profile there has a burst of two because we are a rowing with the black
+air he only gets a burst of one. Let's move on. So there we go. So now we're
+now we're getting this together. Uh, we have the hatamoto with BS of 13 on the bottom there plus three for range. Black
+air BS of 13 plus zero for range. We check the cover mod, but we know already that's zero as we've established that.
+Then we look at our special skills on mimatism. The hatamoto has special skill
+mimism minus three and the black air has special skill mimism minus three. So
+they both have mimisism minus three which goes in to give us a success value. Except the black air has that
+multisspectral visor level two. So even though the hatamoto has special skill
+mimis minus three, we ignore that because the MSV level two cancels it. So
+what that means is when we look at our success values
+here, the hatamoto has a BS of 13. He has plus three for range. He has plus
+zero uh four cover. There's no distance there. And he has minus three for the
+mimitism of the black air. So his total is 13 on a burst of four. So you have four dice at
+13. The black air has BS of 13. Zero range band because there's no
+it's it's in the zero range band for the weapon. Zero modifier for cover. And
+even though the Hatamoto has that minus3 mimitism, that is ignored because the MSV level two of the
+black air cancels it. So Hatamoto has mimism minus three. Black Air has MSV
+level two. It cancels. So the Black Air ends up hitting on a 13 as well, but
+only with one dice because we're on ARO. Hope that makes sense. That was
+quite quick, but if you've played a few games, that should make sense. The only difference here from everything you've done before, the range check, the cover
+check, is the mimitism check and the cancelling with MSV. But that is how MSV
+versus mimitism looks. Game
+states, game states are really important. They occur, they happen when
+the condition of a miniature changes. So this can be a good thing or a bad thing. And it can be the result of a skill or
+attack or a whole raft of other things actually. you know, hacking abilities, close combat abilities, all kinds of
+things can change the state of a trooper. Common states you're going to face in the game, unconscious. Now, at
+the moment, when you take a hit, you're removing the miniature. That's that's how this works. Technically, what should
+happen is that that trooper when they lose if they only have one viter, if they lose a wound, they should become
+unconscious. In the unconscious state, they can be resurrected by a doctor or a paramedic. But we're not doing
+paramedics yet. calm yourself, we'll get there. But we're not doing that. So therefore, we just take them off the
+board. But technically, they go into the unconscious state. Immobilized. This can happen with a whole different vast array
+of different ways from hacking, from certain weapons. The in fact the paracc weapon that we mentioned earlier with
+that minus six mod that will immobilize you. Dead is also a state. If you are unconscious and somebody decides to
+finish you off either up close and personal or with a bullet, you go to dead. you come off the
+board, you can't be resurrected by a doctor or a paramedic. Prone, as the name implies,
+means that you're lying on your belly and hoping that everything goes away. It's pretty much how I spend my life anyway. So prone is also a state.
+Suppressive fire is a state and camouflage is a state. There are, in fact, over 20 states in this game.
+That's not as intimidating as it sounds. A lot of them, like prone, it makes sense. you know, it's it's a condition
+that's applied to your trooper and you need to that's a thing that has to happen and states are a thing that happen. Um, it's a way of tracking those
+kind of conditions that have been applied to your trooper. But we're going to deal with right now
+camouflage aka camo. Now, can we just all for a moment appreciate the glory of that picture at the bottom where we have
+a camo marker on the left that slowly fades out to us McNeel on the right. Isn't that amazing? It's like it's
+happening before your eyes. Thank you very much. this. You don't. You make him blush. I know we're all very impressed.
+So, what's the camouflage state? It allows a trooper to deploy as
+a marker the same size as their base. So, you don't put the trooper down, you put a marker down.
+When you come out of that state, which we'll talk about how that happens in a minute, the trooper may return to the
+marker state by spending a full order, a long skill when outside the line of fire of enemy troopers and or tokens. So, you
+can spend a full order as long as no one can see you and go back into that market
+state. But why? So, the effects of the camouflage
+state, you appear on the board as a marker. First of all, the enemy doesn't know what that is. Okay, you see the the camo markers
+at the bottom of the board. They've got 1, two, three, four, five, six. You track on your list which one of
+your troopers is number one, number two, number three, number four, number five. You track that. Your enemy doesn't find
+that out until those camouflage states are cancelled and the miniature or the
+the camo marker is removed and replaced with miniature. They simply don't know what it is, which is not
+nice. Markers may not be targeted for attacks. They cannot shoot at a camo
+marker because they don't know what it is. They they they can't target that at
+all. They have a 360°ree line of fire. Not massively important at the moment, but it will be important in future
+games. And enemies cannot enter contact with a marker. They can't voluntarily do it. They can't walk up to it.
+For the sharpeyed amongst you, the red dot with the minus three in it is a referral to the mimatism special skill
+because a lot, not all, but a lot of camo markers will also have a mimitism
+skill on them of minus three or minus 6. Some do have no matism at all, but as a
+rule, they will normally do so. So, this lets you deploy troopers on the
+board which your opponent does not know what they are. Unlike a lot of games, at the start
+of a game, you will provide your opponent with what's called an open list, and that is the information
+they're allowed to know. That will not contain any information about any camo
+markers that you have on the board. It won't even say that they're there. Your opponent will find that out as you
+deploy your army and start putting camera markers down. It's a great way of being able to
+do things and move up the board without being shot because your opponent can't
+actually target them. They're not a valid target. They can't do anything to them. There's a whole load of other things you can't do to cam markers. So,
+the camouflage state is really, really powerful. It does cost points. It will cost you in your list, but it is well
+worth it. To cancel the camouflage state, you
+have to declare a skill with the marker which requires a roll. So, if you do a BS attack, a CC attack, a dodge, any of
+those things, instantly you replace that marker with the miniature.
+If you declare a long skill other than cautious movement, which doesn't matter what other long skills there are, there
+are some, but if you do anything other than cautious movement, which you also haven't seen yet, you reveal that
+marker. If you take your camera marker and you put it into base contact with an enemy trooper, you reveal it. Or if you
+have to make a saving throw, there are weapons inside of Infinity that have a
+template. If you are stood next to somebody who's not in a camo marker state and that is hit by a template,
+your camo marker may get caught by that template and may then have to make a saving throw at which point it reveals
+what it is. The last and probably the second most common thing that will
+happen is you cancel your camo state if you're discovered. So that is our discover special skill that we're going
+to sorry our discover skill that we're going to look at in a minute.
+When the state is canceled, you must place replace the marker with the correct miniature at that point. And if
+it is your active phase, if you are spending orders on that camo marker,
+your camo marker counts as having been the trooper for the entire order in
+which it was discovered. So, if you've done a move and as you get to the end of that move, you uh you reveal
+yourself in whatever way, then you count as having been revealed for that order.
+So, then you can be targeted by other things. It's a little it's a little bit of a naughty one. It's a little bit of a little bit of a complicated one, but if
+you're discovered in your active phase from a chemark state, then you are covered. You are discovered for the
+entirety of that order. So just be aware of that one. Now this is where we build in our
+first rules exception. So are you sitting comfortably? I didn't even put a pretty pretty picture of a
+miniature on this page because this needs your full undivided attention. The camera market state
+fundamentally orders the declaration process of an order because you may delay an arrow to
+a camo marker. Now, you'll know for your first two games that you have to declare an arrow as soon as you are able to see
+the enemy trooper. Not so with cam marker. You may choose to delay an ARO. So, the camera
+marker spends its first short skill and you can see it. It moves. For
+example, you do not have to arrow to that. can delay. If you do
+delay, then your second short skill. So, sorry, your your ARO to the second short
+skill is only possible, you can only declare to that if the marker reveals
+itself with its second short skill. So, a camera marker moves out in front
+of one of your troopers. You decide to delay. You think, I think he's going to pop out.
+He then moves again, you've lost your ability to arrow because it didn't reveal itself with its second short
+skill. If however it moves, then it declares shoot. That second short skill
+will reveal it and you can then arrow to that shot, a BS attack. So there's a little bit of
+there's a little bit of shell games and you'll find that quite a lot especially when you're running your camo markers. It's kind of like I'm going to move them
+out here. What are you going to do? I'm going to arrow with discover. Cool. I'll shoot you in the face.
+or I'm going to hold my arrow. Cool. I'm going to keep moving across out of sight over here. And you've lost your arrow.
+It's there's there's a fine art to it. And we will talk about the
+the tactics around uh camo state and
+revealing and all this kind of stuff in future videos.
+So that means that it looks like I know this is a huge amount of words but this
+is how the order declaration process looks like for camo markers. Okay,
+ignore this the top stuff. We are activating a camo marker. So we declare
+that we're going to that marker is going to be activated and we place an order by that camo marker. We declare a move. you
+request arrows. The reactive player can only declare discover, dodge, idle, or
+delay to that camo marker. They can't do anything else. Those are their four
+choices. If they declare a second short skill, sorry, we now declare a second short skill on our marker, our camo
+marker. If we declare move again, move it, place it in its final
+place and request any arrows for troopers that can now see the marker that couldn't
+before. But if there are troopers who could see the camo
+marker for the first basic short skill for that first movement that we did,
+they may not arrow now. They have lost their ability to arrow. They had to declare discover, dodge, idle or delay.
+sorry disco discover dodge your idol to the first short skill because they
+didn't they've lost it. If however the camera marker
+declares move quest arrows and then the second short skill
+we declare reveals then we instantly replace the marker with the
+mini and do that second short skill. that can be like shoot or CC attack or
+whatever. Any enemy troopers who declare delay in
+their ARO may now ARORo to the newly revealed
+marker. They can now choose what they wish to do. Shoot, dodge, CC,
+whatever. because the marker state is canceled. Because the camouflage state is cancelled, it is now a valid target.
+They can do what they wish to it. Hope that makes sense. Let's find out if it
+did. In the bottom left, we have an engineer, uing engineer. And in the top
+right, we have a camo marker. Came marker goes for a walk. First short skill is move. He moves out
+there. We now have choices with the engineer. The engineer may choose
+to delay, hold his his arrow. He could choose to discover. He could choose to
+dodge. What does that look like? So, the camo marker makes his first movement
+skills move. The engineer declares discover and then the camo marker
+attacks. This is why your declarations with units with troopers against camo
+markers is important. That BS attack on the camo marker second short skill cancels the camouflage
+state because the camouflage state is cancelled. The discover skill for the
+engineer, the arro of discover is canceled too because there is no longer a valid target for
+discover. The BS attack that the camo marker then declared is a normal role. There is no
+response from the engineer. He was trying to figure out what was going on and suddenly there's bullets everywhere.
+So, he gets no response to that BS attack. It's just a normal roll with a
+camo marker, range mods, camo, uh, sorry, range mods, cover mods against
+their BS, and they roll their own dice. The engineer will roll nothing. He's just going to eat it. It's quite
+unpleasant. And that's Cam Mark's volume. However, what if we did something else?
+With the first movement skill, camoufl camouflage marker moves just as before. The engineer arrows with
+discover. And then with the second short skill, the camo marker decides to risk it for a biscuit. They put their their
+brave pants on. They continue to move. They do something else other than something that reveals them. They idle
+because just had a bit of a moment. They do something other than
+reveal themselves. In this situation, if it's move, the camo marker completes the second short
+skill, ends up wherever it ends up. The discover skill is then resolved with the die
+roll. If the discover skill is passed, then wherever the camo marker ended
+up, the camo marker is removed and the miniature is placed in in its in its
+position. That that camo state is cancelled. If the discover skill is unsuccessful, the camera marker remains
+where it was and nothing happens to it because it wasn't revealed. It wasn't
+discovered. So, move, discover, BS attack, discover is canceled. Move,
+discover, move, or something else that doesn't reveal it. You get to roll that dice as the arro to discover whether you
+can discover the camo marker. What if something else happens?
+So again that camera marker moves. This time the engineer delays and this time again the camera
+marker does something to reveal itself. It does a beer stack. It does a dodge. It does something else that involves it revealing itself and placing the
+miniature on the board. The engineer because the camo
+marker revealed itself may now declare an arrow of BS attack or
+dodge to that camo marker that is now a miniature on the board. It's now a valid target. It can do the
+attack. In this instance, the camouflage state is canceled because the camo
+marker declared a skill that revealed itself. It's going to roll a dice. It's going to do a beer attack. It's going to do do a dodge, whatever. And if the camo
+marker is targeting the engineer, that becomes a face-to-face role to resolve
+the order. They're going to be an opposed role against each other.
+If we go through the process again and the camera marker doesn't move, the AR trooper delays. And then for the second
+short skill, the camo marker moves, it idles, it does something that doesn't reveal
+itself. Because it hasn't revealed itself, the engineer has lost his
+ability to arrow because there is no valid target. He can't shoot, he can't dodge. He's lost his opportunity to
+respond in any meaningful way. So in that situation, the camouflage state remains. The marker completes its move
+as needed. Um, and the AO is is lost because the camo marker didn't reveal that that state wasn't cancelled.
+Tough. It's where reacting to camo markers, you need to try and establish what your opponent's doing. Are they
+going for a run? Are they are they going across the board? Do I then maybe want to discover them? Do I have multiple
+guys that can see it? Do I want to discover with one and not with another one who's going to hold in case he pops out and I can shoot him?
+there is an art and there is a sort of there is a wonderful uh flowchart of
+process that you run through of eliminating which one's the best option. Um some people will tell you you should
+always hold and try and put bullets in it. But that's not always the case. And sometimes that's the worst thing you can do because some of the things that are
+underneath these camera markers can have flamethrowers and other kinds of unpleasantness or they could be on their
+way to do a mission. And if you just stand there and wait for them to reveal and they never plan to, you can give them free reign to do something
+unpleasant to you. So knowing when is the right time to discover, when's the right time to shoot, there is a process
+to that. Most important thing right now is getting clear in your head these
+effective four options. Move, arrow, discover, BS attack discovers lost BS attack comes through for free. The move
+discover move other you then complete the discover move delay BS attack BS
+attack in response or move delay move idle not reveal the arrow is
+lost. So this is very much one of the the big exceptions for
+infinity because where you always always have to declare that arrow as soon as you have as soon as you're able to. Uh
+apart from here you don't here you don't do that. There are a couple of other uh a couple of other instances where that's
+the case where you can delay your arrow but they are basically a form of camo, a
+form of hiding what's underneath it and you have to wait to see whether it shows you tips your hand basically or not.
+So that's an example of camouflage, arrows, etc. So we've talked about it
+enough. Let's actually look at it. Let's look at disco. Let's go discover. This is your new skill. This uses the whip
+attribute. So the willpower attribute. So the clever your trooper is, the more likely they are to be able to break
+things out of a camouflage state. So this is a basic short
+skill. It enables the skill to be that's so the fact that is a basic short skill means that you can use it as the first
+skill of an order in place of move or idle which is a bit bonkers. Discovering someone is the same as going for a walk.
+Okay. So that means that discover plus BS attack is a valid selection in a single order. You
+can if you see a camo marker go right I'm going to discover that one with my first short skill request any arrows. If
+they don't respond for whatever reason, you can then declare your second short skill as BS
+attack. The way this works, again, this is another exception. You then roll one
+dice to discover whether discover is successful. If it is successful, then
+you get to make the BS attack. If you fail your discover roll, then your BS
+attack is canled because there are no valid targets. A valid target is a trooper. A camo
+marker is not a trooper. It is not a valid target for a BS attack. But what does it do? If you are
+successful in completing your whip check, then you can discover an enemy
+trooper cancelling their camouflage states. They're in a marker state. You make a roll for discover. If you
+succeed, they have their marker state canceled. Their camouflage state can cancelled. And yes, you can do this in
+AR. So, here is the process. Discover. We declare target. This is going to
+sound like a BS attack, and it is just with your brain. So, you declare your
+target. You check your troopers whip because this is done on whip, not on BS. You check your range because yes, there
+are range modifiers for discover. If you're within 8 in, you're more likely to be able to do it. 32 in, it's roughly
+average. Anything above that and things start getting tricky. If your marker is in cover, the
+minus three for cover applies, but this is applied to your whip. You check for
+mimisism and you confirm your success value. So whip plus range mod plus cover mod plus mimatism is your success value.
+Again, that is the same process as a BS attack. So, this is why it's important
+to learn your BS attack and have that done instinctively because a discover roll is the same thing. It's identical.
+If you can do one, you can do the other. If you roll the dieice and it's
+equal to or under the success value, then you have a success. Success instantly cancels the camouflage state
+of a marker and removes the marker and replaces it with the miniature on board.
+notes. So MSV works as usual during discover. So if you have a marker with
+mimitism, MSV counters that mimmitism to some or a complete
+degree. If a trooper fails a discover check, then that trooper may not try to discover that particular marker again
+until the next player turn. So if they whiff it, if they can't tell what that particular shape is, they can't have
+another go at doing that discover yet. They have to wait for your next turn to have a
+crack. If a marker declares an arrow in response to a discover skill, that would
+cancel the camo state. Then the discover is changed to an
+idle. So if you are doing active phase uh basic short skill discover second
+short skill BS attack and they declare shoot or dodge in response which
+sometimes is the brightest thing to do then the discover becomes idle because
+they they've revealed themselves. But that does mean that in arro that if you are arroing discover
+and they reveal themselves that also changes the discover to an
+idol. Yeah, that that's everything that I've said
+there. So let's look at this an example. Here we have an Azura. This is a little LF death dealer.
+Do we like the map? I like this. I think this is a much clearer way of of demonstrating certain things. So, we
+have an Azura. We have a camo marker. We declare our target. The Azora
+is targeting the cam marker. We check the troopers whip. The Azora has a whip of 15 because she is simply not
+pleasant. So, our whip is 15. We check our range. See, is it 7 in? That means
+that we get plus three to our whip. Yep. Just not nice. We check for cover. There
+is none. We check for mimisism. There is mimmitism. However, we have
+multisspectral visor level three on the Azura. So, she cares not for your matism. There is no matism. That means
+that we have in the final analysis here the whip of 15 for the Azura plus three
+because we're within 7 in plus 0 for cover plus 0 for matism equals 18. So,
+the Azura will roll will roll roll one dice. On a score of 18 or less, the
+marker will be replaced with the miniature. The camouflage state will be cancelled. On a roll of a 19 or a 20,
+not only will the marker remain there and the trooper un not revealed, but the
+Azura will not be able to discover that camouflage marker again this turn. If it
+reveals itself, if it does something and shoots at her or whatever, has a bit of a moment,
+whatever, then she can respond to it. But while it is in that marker state for this turn, she can't try and discover it
+again. She can't walk up to it and get into base to base contact with it because you're not allowed to do that with with um troopers in a camouflage
+state. She rolls over that 18, just put her back in the box. She's clearly drunk. But anyway, if she does whiff it,
+then that can be a real problem. Had it happen, not fun. wouldn't recommend. So again, if the roll
+succeeds, the target loses camouflage state. The marker is placed for the miniature. If it fails, the target remains in the camouflage state. The trooper may not attempt to discover the
+marker again until the next player turn. The trooper may attempt to discover different markers,
+however. Right. MSV level three. MS3 is
+autoc. We talked about this before. This is the different levels of MS3 and what it does. So MSV counters mimatism.
+MSV level three is basically level two but so much
+meaner. It is the top tier of MSV. So it counters top tier mimatism. It's not
+that common. There's not very many units that have it and it's obligatory as before. Level three reduces mimism minus
+three to zero minus 6 to zero. Fine. It makes a discover skill an auto
+success. You don't roll a dice. You just
+declare, "I'm going to discover that camera marker." And in the resolution step at the end of the turn, that camera
+marker is revealed. It's done. It's poof complete. If,
+however, that's not good enough, MS33 also lets you shoot at camera markers
+without discovering them, but with any mimic mods remaining in place.
+Okay, so you have, as we're about to see, an Azura with MSV level three.
+There she is again. Now, she has two camera markers in front of her, one out of cover, one in cover. They're both
+mimters of minus three. What can she do about this? There they are. They're under each
+other. She can autodiscocover camera marker one and
+do another short skill. She can autodiscover camera marker 2 and another short skill. So she
+could discover camera marker one and shoot. Discover camera marker two and shoot.
+If she chooses to just shoot without discovering
+first, she can shoot a camera marker one with the mimitism and the cover applied.
+So minus three and minus three because she's not discovering
+first. She has to uh she has to suck it up with those those those mimmitisms in
+the cover. Why would you do this? Takes a bit of clarification first. So let's say you moved for your first short skill
+so you can see that camo marker. You don't then want to discover because that's the end of your order. You could
+just move and then shoot. So in that situation because she hasn't discovered first the mitism mods apply. So she
+could shoot a camera marker one and get the minus three for matism and minus three for cover. If she shoots a camera
+marker two, which as we see at the top there is out of cover, it's only the the
+minus three BS to mimmitism. or she can shoot at both of them and suffer minus 3
+BS mimism for both of them and minus 3 BS cover for marker one. So she could
+split her fire uh they normally carry rifles or spitfires if she had a Spitfire which is burstful. She could
+put two shots into camo marker one and two shots into camera marker
+two. The shots into camera marker one would be at minus 6 BS for the momentism
+cover and the two shots into cam marker 2 would be at minus three both of them
+for the matism but only because she didn't discover first. It's a nasty trick. It is a nasty
+trick. MSV is unpleasant. Being able to autodiscover something is horrible, but also being able to just shoot at them
+anyway without discovering them is just distinctly unpleasant. It's just a not a nice thing, but you play a lot of points
+for it. So yeah, and like I say, they're not that common. And so to the army list, what
+should you run? These are built very much on the list that we ran for mission one and two. So you're just adding
+another couple of miniatures in there for sand trap pano. Add the black air
+but count as a marksman rifle and the scarecrow for the San because that's
+going to give you a camo marker a camo state with the scarecrow from memory and the black air will give you mimicism and
+MSV hatamoto and the yamabushi because that's going to give you toys in there as well. The the marker state and the
+mimmitism for the essentials pano the start here box we're going to downgrade things
+slightly. We're going to go from three fusers to two fuselers in the orc and give the orc counts as MSV1 and then
+change one of the kaisots that we used sorry the shikami that we used as a kaotu in the games one and two turn that
+back into a shikami. So we end up with two kaisots and a shikami. What that will give you
+on the pano side is a heavy infantry with MSV1. On the JSA side it will give you a
+Shikami who has mimism. So you'll have the mimmitism versus MSV side of things.
+There isn't really a way of doing the market state in this particular setup.
+So you need to buy the the expansion armies to make this
+work. Then we have the essentials nomads. Run the three security in there
+as combies. Then run the spectre and the Grenza. Spectre will give you something that can go into the camouflage state and the Grenza will give you MSB. Then
+the essential guing, take the two zeni, count them as combies. Take the zuyong combi, count that as a zeni with a
+combi. Take the zena because the zena can go into the camouflage state. And
+then take the hide out combi and have that as counts as a sniper with MSV2 because then you have the zena to do the
+camouflage state and the hideout to do the MSV2 shenanigans. In conclusion, what's next?
+What's going on? So, this is everything that we zipped through on this particular video. Um, hopefully that
+makes sense. It's it's expanding on what we did before and building exceptions. If you can do that, you are grand. I
+would say if you're confused, run back through, see where you are particularly confused and whack it in the comments
+below. Always happy to help on that front. Up next, we suggest that you practice
+the camo states and delaying arrows and all that kind of stuff because it could be a little bit of a brain breaker as to whether how do I and what just get used
+to that. Then look at different units in your faction which have mimism, which have the camouflage state and MSV as
+well. Get those in there too. Look at the different ones. Look at how they how they structure because you'll see that camouflage units for the most part, not
+entirely, but for the most part follow a certain type of feel. The camouflage is mostly in place of heavy armor. It's
+mostly a midline trooper with some sneaky tricks. That's not always true, but for the most part, that is. Get a
+feel of it. Get a feel of how chem camouflage looks and plays. That's important. And with mission four, it's
+time to get physical. So, I will see you for that. I hope this was great. Hope you enjoyed it. Thank you so much for
+watching. Do like, share, subscribe, and we will see you all again soon. Thanks a lot. Goodbye.

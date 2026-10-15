@@ -1,0 +1,513 @@
+Are you ready to learn infinity? Let's
+get started with some of the basic
+ideas. Welcome to the Infinity Institute
+for the Dice Gods. My name is Hydra and
+in this series we're going to get you
+going on Infinity 5 with some of the
+basics and some simple intro missions.
+In this video, we are looking at some of
+the core ideas behind Infinity. And
+we'll also examine a profile for a
+trooper in detail as well. Why? Because
+Infinity is a bit weird by comparison to
+other systems. And it's worth taking a
+minute to get some of the core ideas
+between your ears. When we've got there,
+it's going to make understanding the
+system and getting up to speed that much
+easier. As ever, before we get going,
+thanks to our channel members and
+patreons who make this possible for all
+you lovely people to watch. Greatest
+thanks to our top tier members, Old Man
+Rogers, Rink Wolf, and Chaos Discordia.
+Let's start with a bit of language.
+Miniatures inside of Infinity are called
+troopers. So, we're going to be using
+that so you're familiar with the right
+terms when you eventually move to the
+rule book. A trooper is usually a single
+miniature, but there are some which are
+controllers and then they have several
+things they control under them. A good
+example of this would be the nomad
+puppet antipode assault pack from
+Ariadna or the Arene unit from
+Alf. Let's focus on the Arjuna for a
+second. The unit consists of an Arjuna
+trooper who controls up to two
+Kirinbots.
+Whilst that is three models, it is
+effectively a single trooper. If the
+Arjuna trooper dies, then the Karen bots
+stop working as well. Why does that
+matter? Well, well, the first thing we
+need to talk about is resource
+management, as it's a core idea behind
+Infinity. There are several types of
+resources, but the first and most
+important one is orders. An order lets
+you do stuff. During your turn, called
+the active phase. You will spend your
+orders to make your troopers do things.
+When you've spent all of your orders,
+your turn is over. But where do these
+mystical, magical orders come from? I
+hear you cry. Well, they come from your
+troopers. Each trooper will generate at
+least one order. Now, there are several
+different flavors of order, but to
+explain what they do, we are only going
+to look at regular orders. They're the
+most common and most useful, but I am
+simplifying what's going on here.
+Infinity is a game of concepts which
+additional rules then add exceptions and
+modifiers to. It's easiest if we start
+with the common examples and build the
+exceptions on top of that later so you
+can get your head around the normal way
+things work so the exceptions make more
+sense. I'll be doing that throughout
+these videos. So if you have read some
+rules or seen some battle reports and
+spot something that's a little bit janky
+or not always true, then know that is by
+design. Trying to learn and apply too
+many rules at once is the most common
+way that people fail or bounce off
+getting into infinity. At the start of
+your active phase, you will count up how
+many orders you get by looking at the
+number of non-dead non-uncious
+miniatures which remain in your army.
+For our friend, the Arjuna unit, this
+trooper will generate one regular order
+per turn, assuming he's not unconscious
+or dead.
+This count will create your order pool.
+You may spend your order pool as you see
+fit across your army, meaning that it is
+possible to spend more than one order on
+a single trooper. That's right. Unlike
+most games where a miniature can do one
+activation per turn, not so infinity,
+you want to pour all of your orders into
+one big stompy robot and go ham on
+anything unfriendly. Totally an option.
+Now, here we have some ALF units,
+including the mighty Meritt tag. If all
+seven of these miniatures were not dead
+or unconscious at the start of your
+turn, you would generate seven regular
+orders. These can then be spent as you
+want. One on each mini, fine. All on one
+mini like the marbs absolutely fine,
+too. Those paying attention will have
+put together that this means that as the
+game goes on and your troopers die, you
+will have less orders and so less stuff
+you can do. You're right. That's one of
+the key things inside of Infinity. That
+makes managing your order resource and
+trying to keep your troopers alive
+completely connected. But when it comes
+to keeping your troopers alive, you will
+fail. Infinity is incredibly violent and
+killy. Even the biggest baddest baddie
+dies. It is especially common if you've
+just finished painting it and it's a
+very big miniature. It's most likely to
+die. Now that we know that orders are
+really important and central to success
+and where they come from, what can you
+actually do with them? Well, each order
+lets you do two small things or one big
+thing in the basic game with one
+trooper. And the things that you can do,
+those are called skills.
+If you opt to do two small or short
+skills as they're called, which you most
+commonly will, they must be a basic
+movement skill first and then something
+else. So, a trooper can move and shoot,
+move in and close combat, move and hack.
+There are currently three different
+basic movement skills and then 23 other
+short skills. Don't worry, 23 is a big
+number. We'll get you there. A lot of
+them are connected and based on similar
+ideas. It's absolutely fine.
+If you didn't want to do two short
+skills, you can do a single long skill.
+These include moving cautiously between
+cover, climbing, jumping, and even
+bringing in parachuting troopers. There
+are at present 15 long skills in
+Infinity. So, for those keeping the
+score, we're up to 41 different skills
+in your active phase. This is why
+infinity can feel complicated and
+overwhelming, but it really isn't. Most
+of these skills are very situational and
+you can learn the core of the game with
+only five of them, which is what we're
+going to do. The rest will come. We
+start with
+five. Next, we need to talk about the
+ARO or automatic reaction order. When
+your opponent is having their active
+phase and spending their orders, you
+will be having your reactive phase. As
+that implies, in your reactive phase,
+you may react to what your opponent is
+doing. So, how does that work? Well,
+when an opponent spends an order either
+within line of sight or within 8 in of
+one of your troopers in their active
+phase, then your trooper automatically
+receives an automatic reaction order, an
+ARRO, that occurs in response to the
+order expenditure on their trooper. That
+last bit is important. You can only
+react to a trooper who is having an
+order spent on it. So, you can't see one
+trooper moving and then decide to use
+the ARO that is generated to shoot
+somebody else who's just stood in the
+corner doing nothing. You have to react
+to the person that's doing a thing.
+Think of it like this. If an enemy pops
+around a corner in front of one of your
+guys, it takes a special kind of stupid
+to stand there and get shot in the face.
+You would hope your trooper would have
+the good sense to shoot back or get the
+hell out of the way. And with an arrow,
+they can. Now, arrows are nowhere near
+as potent or flexible as spending
+regular orders to do skills on the
+active phase. In fact, there are only 16
+possible ARO skills. They include dodge,
+shoot, close combat, and some hacking
+abilities. So, you will have plenty of
+choice, but not as many as you will
+during your active phase. The great
+thing here is that AROs aren't as
+limited as active phase orders. You
+generate an ARO for every trooper who
+sees or is close to an enemy trooper who
+activated with an order. Every time they
+activate with an order. So if four of
+your troopers see one enemy who gets
+activated with an order, they may all
+ARO at the same time. If the enemy
+survives all of that violence and they
+activate again, yep, all four of your
+guys get another ARO.
+This will lead to situations where an
+active trooper shoots at a reactive
+trooper who shoots back. In that
+instance where both are rolling dice,
+it's possible for the shots to be
+cancelled by either side. In fact, it's
+possible for the active player to have
+all of their shots be canceled and take
+a hit from in the face from the reactive
+player. We'll cover that more in the
+next video, but this mechanic called a
+face-to-face role means that every
+action you take always comes with an
+element of risk. It's your job to ensure
+that you give your trooper the best
+chance of success and the enemy the best
+chance. Before we move to the profile,
+let's actually talk a little bit about
+list writing. As in most war games,
+you'll play a game based on a points
+value. In Infinity, this is usually 300
+points. Every trooper has a points value
+based on how good they are, what they
+can do, and the equipment and weapons
+they have. The better the trooper, the
+higher the cost.
+In addition to this points cost, you
+also have a support weapons cost or S
+SWC. You receive one S SWC for every 50
+points of game. So 200 points gets you 4
+S SWC and 300 points gets you six S
+SWC. SWC is used to pay for the biggest
+guns, the awesomest skills, and the
+tastiest gear. Again, SWC is a
+combination of troop quality, equipment,
+and weaponry. This means that a light
+infantry with a light machine gun called
+a Spitfire may be as little as.5 SWC.
+But if you stick that same weapon on a
+heavy infantry with some active camo,
+multiple wounds, and better stats, that
+cost jumps from.5 to 1.5
+SWC. Sport weapons cost is there to
+ensure that people don't just spam big
+guns and the nastiest abilities. It
+keeps to an extent the game a little bit
+more sane.
+Points costs are there to balance an
+army against other armies and to provide
+flavor. So you may find similar troopers
+between factions are different points
+costs. This tells you something about
+those factions, their lore, and the
+ideas of how to play them. It's why
+taking a unit in isolation and
+evaluating its performance is
+unwise. Consider it within the scope of
+the army and the faction it sits within.
+It's also why you won't see the Dice
+gods coming out with the list of the
+best units in the game. Unless, of
+course, we caveat to it being like our
+opinion, man. There are just simply too
+many variables in our opinion to
+definitively say that this is the best
+unit in Infinity. Something may be
+relatively cheap, but that may be offset
+by a lack of availability of other
+things inside of that army. Or something
+may seem expensive, but that's because
+that army is not supposed to run that
+way. is supposed to run with a different
+type of trooper. There's a lot of things
+that go into the equation of of points
+values for Infinity and splitting it
+down to best and worst of lists can be
+somewhat deceptive. And as a new player,
+following that kind of guidance can lead
+you to a position where you feel you
+have the best list that gets taken apart
+by an even reasonably experienced player
+really, really easily. So, we'll cover
+list writing and how that works later.
+In fact, there's kind of a a several
+videos in this series on that. But for
+your first games, we will suggest the
+list you should run and tell you why.
+Our channel members and Patreons will be
+able to download copies of the list and
+game resources with the videos which
+they relate relate to as well. Now,
+let's take a look at a trooper profile.
+This is a profile for a machinist.
+That's an engineer from
+Panosia. In the top part of the profile
+are the stats of the trooper. Then we
+get his equipment, then special skills,
+then the various loadouts you can take
+the machinist with points and SWC.
+Basically his different weapons and
+abilities. Let's start with the stats.
+The moth stat on the left is movement.
+When you activate your trooper with an
+order, you as we have discussed may do
+two short
+skills. If you do two movement skills,
+the first skill lets you move the left
+value in inches. The second skill lets
+you move the right hand value. So, a
+machinist moves up to 8 in in a single
+order. 4 in with the first short
+movement skill and four with the
+second. No matter what, you always use
+the left hand skill first. So, you will
+find some profiles have a higher value
+on the left, like 62 for instance. The
+first time you use movement skill, your
+trooper will move up to 6 in with that
+trooper.
+The next four stats are all linked with
+your ability to do things. So, the
+closer the number is to 20 or beyond 20,
+the better. CC is close combat. That's
+how well your troopers fight up close
+and how good they are at stabbing stuff.
+The next is BS or ballistic skill. This
+is how well they shoot. PH or physique
+is a measure of their physical prowess
+and governs abilities like being able to
+dodge incoming fire and throw
+grenades. Whip or willpower is how
+clever your trooper is. This is used for
+things like hacking, discovering hidden
+troopers, and completing missions. When
+it comes
+to Fizz stats, whip stats, BS stats, you
+will normally be looking at somewhere
+between 10 and 15. The higher the stat,
+the better with those.
+Um, when you start getting around the
+sort of BS3 and 14, you've got some
+pretty good shooters.
+Fizz being anything above sort of 13 or
+14 that says these guys are going to be
+very good at getting out of the way of
+being shot and whip above 14 probably is
+going to be your specialist specialists
+the guys that are really good at doing
+things like hacking and completing
+missions. So when you're looking at your
+stats that's your kind of band. It's
+only around five points that most
+profiles fall within. When you learn to
+read those to spot them, it will tell
+you roughly what you're looking at. With
+the CC stats, there's a much greater
+range of options in there with some
+robots being sort of six or eight points
+and some specialist close combat
+monsters being over 25. Yes, that's
+right. Above 20 on a
+d20. So, when you see those kind of
+stats, they do impact the game. having a
+having a statistic over 20, which is the
+maximum you can roll on the G20. Of
+course, those are used in close combat
+to achieve certain things, and we'll
+talk about that more when we talk about
+close combat and close combat skills and
+things like
+that. Arm and BTS are protection. Arm is
+protection against conventional weapons.
+BTS or biological technical shield is
+protection from hacking, viral weaponry,
+and things like that. For your armor and
+BTS values, most line troopers, basic
+troopers, will have between zero and
+maybe two for their armor. And BTS, if
+they're lucky, they'll have three. When
+you start getting up towards tags,
+you'll find the large tag robots will
+have anything up to arm 10, which is
+horrific to play against. And BTS can
+get up to nine as well, maybe a little
+bit more. So for most troopers,
+especially on the smaller side, you're
+going to be looking at a couple of
+points of armor, a couple of points of
+BTS. So they are quite vulnerable and
+arite squishy. That is why Infinity
+could be quite a bloody and violent
+game. Fighter is a measure of how many
+wounds a trooper has, so how much damage
+they can take. This is replaced by
+structure or STR for robots, tags, and
+vehicles.
+Vital stats will be between one and
+three. There are certain units that can
+get above that, but as a rule, when you
+start out, between one and three is
+where you'll be. So, that does mean that
+even the large robots, the big tags,
+will only actually have three structure
+points they can lose before they get
+dropped. Again, this is a violent game.
+You were
+warned. S is silhouette. So, how big
+something is. This lets you decide
+whether something can be seen during the
+game.
+Different types of unit have different
+scales of silhouette as you can see on
+screen. Now, in order to be able to
+shoot something, you have to be able to
+see any part of that
+silhouette. But if it can see any part
+of your silhouette in return, it may
+also respond, shoot back,
+etc. AVA is availability, which lets you
+know how many of that type of trooper
+you can have in a army
+list. Equipment, as the name implies, is
+the equipment that the trooper carries.
+This can be anything from force fields
+to special scopes for their weapons or
+even
+turrets. Special skills covers the
+abilities which a trooper has. This can
+be something technical like the ability
+to camouflage itself into its
+surroundings or buffs for its weapons.
+It may also include specialist training
+like martial arts, characteristics such
+as being especially courageous, or it
+will tell you if the trooper is a
+slathering lunatic who wants only to
+murder. There's quite a range in this
+particular
+area. The great thing about equipment
+and special skills is that they are
+universal throughout the system. So, if
+you have a special skill on one of your
+troopers and see it on an enemy trooper,
+it will do the exact same thing in the
+exact same way. It's the same with
+weapons, hacking programs, and a load of
+other stuff. If it's called the same
+thing, no matter if it's a completely
+different faction, then it is the same
+thing. makes Infinity a lot easier to
+learn and that there are less gotcha
+moments when an enemy has something
+completely exotic that you've never seen
+before. When you take a look at that
+list, you will after a relatively short
+period of time have a reasonable
+understanding of what you're looking at.
+Finally, we have a table of possible
+loadouts, cost of the trooper, etc. Most
+troopers will have a range of weapons,
+skills, and abilities they can pick
+from. The S SWC and C figures on the
+right give you the support weapons cost
+and points for each load out. As
+discussed before, you get one SWC for
+each 50 points of the game, and most
+games are played around 300 points,
+giving you 6
+SWC. All of that information can seem
+like a lot, and it is, and that's why we
+recommend running limited profiles for
+the first few games. Whilst this strips
+flavor from the game, it also gives you
+a lot less to think about and to try and
+figure out in your games. So, in your
+first two games, for example, we
+recommend that you ignore BTS,
+silhouette, AVA, equipment, and special
+skills completely. Then you only use the
+one main weapon and CC weapon on the
+left hand side of the profile. Nothing
+else. Keep it simple. As I said earlier
+in this video, most skills appear in
+more than one faction. So, learning your
+army will help you in future games
+against new factions that you've never
+seen before. When you've been playing
+for a while, you'll be able to look at a
+profile and understand what that unit
+should do. If it's a gunfighter, an
+assassin, a specialist, or a close
+combat beast, you'll get a sense just by
+reading the
+stats. But for now, keep it simple and
+spare your brain cells a little bit of
+work. And that's it. Some core concepts
+on how to read an Infinity profile. We
+hope you found it useful. If so, please
+like, share, and subscribe. Do consider
+joining the channel as well as member
+and Patreon exclusive resources will be
+available soon. In our next video, we
+will get you onto your first games. So,
+look for that coming soon. Thanks for
+watching and we'll see you soon.
+Goodbye.

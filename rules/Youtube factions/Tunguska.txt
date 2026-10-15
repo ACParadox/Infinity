@@ -1,0 +1,615 @@
+Hello and welcome to an Infinity the game faction focus for the jurisdictional command of Tunguska. In this video, we're talking about who Tunguska are, how they play, what are
+their strengths, weaknesses, and faction identity before jumping into Infinity Army to go through many of the profiles that showcase this faction and how they
+play. Now, before we begin, there are a few thanks to give out. Now, Tunguska sit in N5 in kind of
+a similar thematic place to where they sat in N4. They occupy the niche of the elite nomad faction. We're going to see
+a lot more pieces in this faction that sit at about the 30 plus point range.
+And even the cheaper elements in the faction will often be perhaps a little bit more expensive than we might see somewhere else in a faction that is more
+known for containing more discount pieces. This means that Tunguska is going to involve a lot more list building trade-offs and concessions
+because it is difficult to hit that 15 trooper limit while you're sustaining those kind of more expensive elite troopers. But the payoff is that we do
+get access to a number of very compelling profiles and indeed regiments with many profiles within them that have
+a really significant table impact as you would expect given that they are more expensive than their contemporaries elsewhere in Nomads. And provided you
+can build a list that accommodates those more expensive pieces. Maybe by having just a few more pieces in the cheap,
+cheerful cheerleader kind of category to supplement the expensive stuff or by acknowledging that look, we're not going to get any really big luxury elements in
+this faction. We are going to have the bulk of our force be in that mid-range point cost, but with no really spiky elements of high strength. It's going to
+be the sustained consistent multiple models in that points level working together. you can get some really significant payoff in list construction
+where Tunguska's N5 strengths start to emerge. And this is also where we start to see how the addition change has
+affected Tunguska because by and large many of the profiles that were good in N4 have kind of translated very well
+into N5. If you had an N4 Tongaskka collection, there is a pretty good chance that you can more or less
+translate most of it one to one into the new edition, despite the fact that there have been many balance passes and changes and updates and tinkers to
+individual profiles. Where the big changes have occurred, as they so often do, is in what is good and how building
+your list out and your link teams out is good. as it has been changed by changes to the rules to the game, changes to how
+link team works, etc. And so we're going to start when we talk about strengths of Tunguska by talking about those link
+teams. We will spend quite a lot of time talking about link teams in the army section. But the very interesting thing and one of the things that is kind of
+unique about Tunguska is that they have two very different and valid approaches to link team setup. The first is that
+they can be a faction with just very good duos. Like multiple very good duos can find their way into a Tunguska list
+generally built around either bounty hunter, naam nick, and hollowman teams.
+All of these can produce very appealing duos. Percy and Perseus in particular is an all-star, but there are a suite of different ways to construct these and
+have them move around the battlefield with high mobility, have high impact,
+etc. But on the other end of the spectrum, specifically when we're talking about hollow men in particular,
+Tunguska are one of the few remaining factions in the game that are the organic home of actually a very large
+heavy infantry link team. Even invincible army in N5 does not natively drift necessarily toward a fivep person
+heavy infantry team. Invincible saw quite a lot of hype early in the edition. I had a number of people tell me, "Hey, Invincibles are really, really good now." And then they would show me
+lists that were just vanillaing with the serial numbers fouled off. And while they absolutely were very good lists,
+it's taken a fair bit of time for Invincibles to drift at all back towards lists that are even remotely reminiscent of how they played in N4 with those big
+heavy link teams. And that's still great in terms of faction versatility for Invincibles. If we are actually going and looking and casting our eyes across
+Infinity N5, looking for a faction that does a full fivep person link team,
+those are rare. And they are rare because of how link team bonuses have changed. Once you get past a fire team
+duo, the bonuses that you get from being part of a fire team become really quite incremental. None of them are bad. The discover and dodge roll is good. The
+ballistic skill bonus is good. Six sense is situational but can be very very good if you have a hacker in the link. But none of those bonuses are so powerful
+that you rush towards a fivep person link just to access the bonuses.
+Instead, in N5, it's very important that every individual member of a link team justify their existence on their own merits. And when we get to Hollowman,
+what we will see is a collection of profiles that you can just keep adding into a link team, all of which are good
+and interesting and useful, which gets us organically, if we want, to a full fivep person link. And having taken all of those profiles because they're good,
+we now have a suite of five team members, usually four hollowmen and Perseus, who are benefiting from all of
+those bonuses, giving us ballistic skill 14 linked pitches, good ARO pieces,
+extremely good smoke, good short-range gunfighting, a six sense hacker behind a tinbot, multiple specialist profiles,
+etc. And that's genuinely unique in N5.
+A five person powerful fire team is just not an archetype that natively emerges in many places at all and it exists in
+Tunguska and it's good. One of the two lists that we will showcase at the end of this video is a list that Hatchiman
+Lachlan took to Border Bash and features a big hollow man fire team. And while Tunguska is not just the faction of
+hollowmen, the fact that they are the only faction that can get hollow men and the fact that hollowmen configure themselves really well into fire teams
+of a variety of sizes is a faction strength. Hollowmen are also part of another faction strength that Tunguska
+has, which is that it is a mobility faction. Now, when we get to limitations, we will talk about how this is not really a faction that uses infiltration or forward deployment much
+at all. But one of the things Tongaskka has that more than makes up for that is that it is very high mobility out of the
+deployment zone. We will see a lot of profiles, some okay and some very good,
+but just a lot of profiles that have mobility skills. Super jump, sometimes with jet propulsion, and climbing plus
+are both present in significant numbers in Tunguska. And these are present both on fire teams, and fast super jumping
+fire teams are very cool, but also on Tongaskka's surprisingly long list of really quite viable and interesting solo
+operator pieces. Tunguska is not left out in the cold when it comes to pieces that aren't part of Fire Teams. you are not constrained to just your teams of
+duos or your big core. And that's very useful because when we talk about Tunguska being, look, this is the elite faction, right? We have to pay a little
+bit more for a lot of our pieces. We will often find ourselves in Tunguska building lists where it is the duo or the core or the teams of duos and the lists are padded out by cheerleaders,
+order generating remote, cheaperish war bands. That would put us in kind of an awkward situation if we didn't have
+other solo operator pieces as outlets for our orders where it wasn't really the time or place for the duos or the fire teams to move. The presence of this
+surprisingly long list of stuff that doesn't need to be in a fire team, but is cool, interesting, and compelling to go into a list means that we really
+shouldn't in Tunguska be in a situation where to enact any kind of plan, we have to sink two or three orders into moving a piece that is in the wrong part of the table to elsewhere to do something.
+Things like puppet bots, hecklers, interventors, our combat jump troops,
+even the zonaut in N5 are all appealing and interesting and combine well with the other pieces with the link teams that we'll find in a Tunguska list.
+Finally, mentioning interventors,
+Tongaskka is the faction of interventors, and it is a faction with excellent hacking. Given how pieces like pitchers work in N5, Tunguska has actually eclipsed vanilla nomads.
+10 minutes
+Vanilla Nomads can do a more efficient hacking game where it's just slightly cheaper cost on a lot of the pieces. But in terms of muscular hacking power,
+Tunguska has linked high ballistic skill pitchers and plentiful fast pandas and interveners. And there isn't really a substitute for access to interveners.
+And those interventors are in turn supplemented by actually a surprisingly reasonable list of other hackers that you might find yourself splashing into a
+list, including a few hackers that are hackers with upgrades that give them programs, either regular hacking devices with Trinity or killer hacking devices
+with carbonite, stuff like that to make Tunguska into, as we would expect, a faction that can, if it wants to have really good hacking. Now, in terms of
+limitations and then where does the faction sit in terms of the broader nomad spectrum, we've mentioned a few of these already. This is a faction where
+many of the models are expensive. We don't really have access to cheap like really cheap pieces that easily supplement a list out after we've paid
+for a lot of expensive things. We also don't really have much in the way of infiltration. Tunguska will struggle to
+make a lot of use of the space outside their deployment zone. Hecklers have very constrained forward deployment and specters are fine but expensive. And
+finally, and this really is worth noting as a limitation, despite the fact that there have been a lot of profile updates
+over the course of N5 to N4 to N5, there are still a lot of profiles in Tunguska that are mediocre to bad. And that
+includes some of the new things that have been added. Switches grouper I don't mind at all, but Tunguska trigger men are a complete flop. Many of the
+other new reinforcement associated profiles don't link particularly well.
+Stuff like Sporza that was bad in N4 is still bad in N5. And to add hilarious insult to injury, a tag has been added
+to Tunguska, giving us two tags, and it's the Anaconda. And this means,
+especially if you are a newer player trying to start with Tunguska, there can be a fair bit of junk to sort through to
+find the good and interesting stuff in this faction. The good and interesting stuff is there, but it is a faction that
+can invite new player mistakes and poor new player purchases just because the model is available and we bought it or the model is available and we put it in
+a list. And so to tie all of that together, where I think Tunguska best sits is actually as part of a Nomad
+collection because of that interestingly long list of good independent operators.
+Something that you will actually find is that there is a fair bit of overlap between cool stuff in vanilla and cool
+stuff in Tunguska that you would take after the inclusion of things like hollow men. And if you have a vanilla nomads faction that can also be used to
+play Tunguska or vice versa, that pairing in particular gives you a very interesting dynamic in terms of the
+factions that you can choose for any given tournament mission mix. Bunan stands alone really quite well. Bakunin is a very self-contained faction. Kore
+are just kind of off doing their own thing in the corner with their crayons,
+but Tunguska and Nomads as a pairing will share many of the same models and let you look at a mission mix and go,
+"Oh, hm, this mission mix has actually a few exclusion zones." That might be a little bit of a problem for vanilla nomads, but it's not at all for
+Tunguska. This is a mission mix where I'll play Tongaskka. And that's something that we'll actually see when we look at Lachlan's list that he took
+to Border Bash. I think Tongaskka was an inspired choice for that mission mix.
+Border Bash had a very hostile set of five scenarios. It included two exclusion zones and a confused deployment scenarios out of five, which
+basically means that if you wanted to play like Ariadna, for example, you were just committing to the pain. But in Tunguska, we are not bound by the need
+to use that midfield space. And to the extent that we do, it's often drop troops. And drop troops are totally fine in exclusion zone scenarios in this IT
+season. And that positions Tunguska as a scenario that flexes back and forth between itself and vanilla nomads in a
+really compelling way without being financially ruinous to collect both.
+that puts them in a very nice overall spot, offering a very distinct and unique play experience along compared to Nomads despite having a lot of model
+commonality. And while I wouldn't be surprised if they see a rework or some reworks to their profiles over the course of N5, because as mentioned,
+there are a few things in that particular trigger that really need a little bit of a look. Even restricting ourselves to the profiles that are good,
+there is a long list of cool things to go through. And so let's crack on with that. Now, we're going to start as usual by going through our link team options
+before progressing on to things that operate a little bit more independently,
+but we're really going to speed through the securityate team. And that's because this is a team that can have just a ton of things go into it, but also which you
+probably just shouldn't take most of the time. The securityate fire team is very awkward to build in a way that gets duo bonuses. Securitate themselves are
+13-point line troops. And while there are an absolute suite of models that can theoretically comprise this team, it ends up just being kind of link soup,
+which N5 was explicitly designed to try and prevent from being good. And shock,
+shock, horror, it's been successful in the case of the security team. There's just not really much that is going on here despite the large number of things
+that are present in the Securitate 5 team roster. But just for completeness,
+securitate. You probably shouldn't take these, but if you're going to take any,
+probably the most appealing profile is the 13point repeater with a boarding shotgun. Having a repeater that can't be
+isolated has some very niche applications. And you must have one securitate in a link in order to form that fire team with the trouble then
+beginning that there are very few other things that count as security that you want. So you need to find your fire team bonuses elsewhere. You could theoretically have a second securityate,
+just wear that, maybe make it a paramedic. But if you want to give duo bonuses to something, you also have the option of taking two interventors,
+putting them in the fire team for duo bonuses, and then adding some kind of a static gun to act as a firebase.
+Probably the most useful piece for that purpose is a cyclone. Not because it's necessarily fantastic. It is a single
+wound piece, but because of all of the elements that we can add, it's the only one with really long range bands that facilitate that fire team just kind of
+staying in the deployment zone and not moving. The cyclone isn't bad.
+Technically, we can add any of these profiles to a fire team, but it is almost always the 28 point fairback profile that we could take. And look,
+that fairback does have we a 360 visor,
+but more importantly, it has an X visor pitcher. It's linked. It's ballistic skill 12. It doesn't have bad defensive stats. It's armor 3 BTS 6. It's just that it only has one structure. You are
+committed to having an engineer usually to repair it because you will go through speed walls very fast trying to use them to recover a cyclone. But a fairback
+once you get a special die onto it is a fairly well-rounded firepower piece.
+It's it's fine. It's not going to be present in any of the lists that we'll show off today. But if you want to run a securitate fire team, then the
+securityate repeater and a couple of interveners and a cyclone is kind of a way to do it. Grimzes are a secondary consideration in this fire team just for
+the marksmanship multi- sniper. This is a case where you could also consider the paramedic securityate, but I think the day of the Grenza sniper really kind of
+has passed in N5. It isn't bad. Not exactly. Uh Warhorse and MSV1 are both pieces that will really help prevent you
+from suffering any negative modifier other than Albo, but this is a faction with a very long list of cool things that cost 30ome points. and the Grenza
+has to compete with that. If there were easier ways or more efficient ways to get the Grenza that duo bonus, I'd be much more on board. But in the context
+of the Securitate Fire team, which hesitates taking security, it's fine,
+but it is at best fine. This is the also the fire team, which is the only place we can see the Koulak payback unit being linkable. If you own Kulak,
+congratulations, you're a vanilla player. Use the Kool-Aid where they are pretty good. 40 points gets you a duo in vanilla of the heavy rocket launcher and
+the hacker. But in Tunguska, they are inexplicably not linkable in that capacity. In fact, you can only put one cool in a securitate fire team. So,
+they're not necessarily a piece that you would choose to leave at home, but it's more like you take the killer hacker with carbonite and disco balls for 20 points and just do something like put it
+in combat group 2 where it can act as a hacker and throw out disco balls and play cyber mines and not be feted by being part of a link team which it doesn't really need to be a part of.
+Rounders are also in kind of a weird place this edition. The rounder red fury is kind of unchanged and should still be
+good. It's a marksmanship MSV1 NCO for 26 points, but it does feel like the game has also shifted around it. And I
+don't find myself putting rounders or seeing rounders terribly often in jurisdictional command of Tunguska fire teams. They don't wild card. They don't
+get that duo bonus easily. That being really the big thing. If we compare that to N4, it was very easy to build little mixed fire teams that you could put a
+rounder in and get link team bonuses. In N5, fighting for those link team bonuses out of a securitate fire team is much
+more difficult. And so they've really receded a lot from lists for me just off of the back of that. Even Helena Kovac
+securitate DI is not a particularly interesting or appealing piece. Although look, if you did take a securitate
+repeater and Helena, that is an expensive combination. But you do get tactical awareness, a willpower 14 specialist, a repeater and a sensor,
+which you can then conceivably add something like perhaps a rounder or a gunfighting remote into and have a
+possible threeperson fire team. I don't love Helena, but she does count as a securityate. And when we're looking so hard just to get that duo bonus out of
+this fire team, that does matter. But we are really kind of just reaching the high water mark of what is possible with this light infantry team when we look at things like that. Now, still not great,
+but with a little bit more potential. We get into the Tongaskka cheer killer. She technically belongs to what is called the Spetsz Corp, special corpse fire
+team. And cheerio killers are they're very close to being okay. Super jump is a very good skill.
+Unfortunately, CC19 and martial arts level one with a shock CCW is not particularly good close combat. And as a
+result in Tonguskia Killers, we kind of see that thing that you get from elite armies in Infinity sometimes where yes,
+this costs two or three more points than a comparable model might be in another army. What are we getting for those points? Elite armies work when you get
+something effective for the extra points that you're paying. We're really not in the case of Chongushka cheeria killers.
+You can build a serviceable enough duo by combining the specialist operative submachine gun nanopulser and one of the profiles with a gun. There is just
+enough access to generic smoke grenades to potentially make that ballistic skill 12 MSV2 shock marksman rifle profile
+potentially feasible. But we're not really looking as cheer at cheer killers as anything other than a very occasional
+oh I have no SWC but I want something to do with exactly this remaining 36 points as a use case. Probably the one
+interesting use case for the cheer killer fire team is that as far as I can tell I think it's probably the best place to put the new switches grouper
+unit into. Now, there is some awkwardness if you do that because switches themselves do not have super jump, but once you get into the enhanced
+profile, even if the team is declaring jump as a short skill and they're declaring jump as a long skill, you can keep up. And switches are actually kind
+of cool on their own merits. They aren't great, but that 18 point profile, it's a forward observer. It's got possible
+gunfighting if it gets up close with ballistic skill 13 when it's transmuted and an AP submachine gun. But more importantly, in addition to being a
+specialist, it is a dogged 64 move berserk good close combat trooper. And
+while I would not say 18 points is significantly affordable, having a model that can get into close combat and
+absolutely tear strips off something is just very nice to have much of the time.
+It also isn't a model with frenzy and so it's eligible to be your specialist or your silent operative in this it season.
+I.e. It can be given stealth, which gives you for a fairly affordable price tag, an actual close combat model to
+join the cheer killer team. You can theoretically also run the switchers solo. Nothing really technically requires them to be part of a link, but
+we're mentioning them in the context of the cheer killer team because if there is any fire team that they kind of might be interested in joining, it's probably
+that one. Now, after a long trek through the dark woods of mediocrity, we do finally start getting into our actually
+good fire teams. And the first of those is what would probably be considered the actually good light infantry fire team of Tongaskka, the bounty hunter fire
+team. Now, to build this, you are going to need at least one bounty hunter. And one is usually going to be the correct number or one motorized bounty hunter,
+but do be aware that they are irregular.
+But for 12 points, usually with the boarding shotgun heavy riots profile,
+you get a closein model that is difficult to attack in close combat, has a template weapon that is threatening as an ARO piece, booty for the random
+potential to high roll, and finally a bunch of interesting options we can take advantage of in terms of wild cards.
+Now, you do have the option to do things like take two authorized bounty hunters and then slap a Grenza into this team.
+That is frankly going to be about as good as if you took securityate. But bounty hunters can be taken as duos. And it's the duo options that we will see
+the most interesting things. Now, the first of these is Miranda Ashccraftoft.
+And while I am on record as saying I think Miranda Ashccraftoft is overrated,
+it's very important to note that overrated is not the same as bad. Even some 8 months after release of the new edition, you will still sometimes see
+people talking about Ashcraft as if she nullifies entire categories of enemy models puts the game on her back and solos through as both an active and an
+ARO piece. And that is a significant overstatement because non-lethal weapons are by definition non-lethal. She is a
+piece that can for a reasonably costed 28 points plus 12 points for the bounty hunter she's duoed with, have a
+significant impact on the game. As much as it is important to remember that a non-lethal weapon is non-lethal, a burst
+three plus one special die mimism 6 ballistics 12 marksmanship emitter does put a significant weight on what your
+opponent can realistically use as an ARO piece. Particularly if you have a follow-up element to actually kill the thing that you brick with Miranda. Stuff
+like tags as ARO pieces have to be very careful. And even the humble total reaction bot can theoretically be nullified by her if you just need to get
+past it in a couple of orders. Bearing in mind of course that it will be sitting there resetting on ones and you just know your opponent will roll that some of the time. She's also frankly a
+scary arro piece because she's still matism 6. She still has marksmanship and she's still rolling one plus one special die. And there are plenty of things in
+the game that won't really want to risk that face-to-f face roll against her.
+Because for all that non-lethal weapons in active turn kind of don't necessarily always solve the problems you need them to solve, a non-lethal weapon in
+reactive turn has the potential to really brick your opponent's entire turn, particularly if they've had to move up to an awkward position to engage
+26 minutes
+Miranda. I think she is less good than some people think she is, but my impression is that some people think she is the best model in the game or close
+to. And while I would hope that that position has been moderated by time and experience, she's still very good and very useful. Wolf Gang Wolf is also
+something that it is at least worth talking about in the context of a bounty hunter fire team. Now, unlike Miranda,
+he is not a specialist. So, we're mostly talking in terms of a duo about him really strictly just being a kind of assault piece, but he is a tough,
+durable, dangerous, and mobile assault piece if that's what you want. He's not really for me personally at 34 points.
+Ballistic skill 12, even when he's firing five dice off active turn, is just not necessarily something that I really like, even before accepting the
+fact that it's on a 16-in range multi rifle. But, he has climbing plus. He's very mobile. particularly if you're willing to dodge run, that is move 6 in,
+then dodge on 17s and go 4 in on the dodge. So, he can fairly reliably move 10 in per order. And he's generally an
+absolute tick to put down thanks to two wounds, armor 3, BTS3, and immunity arm.
+Now, again, not a piece I personally reach for terribly often, but it is pretty easy to duo him with a cheap bounty hunter, and there's probably a time and place for him in some lists.
+While we're talking about bounty hunters and wolf and a few of the similar pieces, it's probably al also worth mentioning here a wild card that we
+haven't previously discussed, which is the Vstto spluteneck. Now, it's the FTO that we're particularly interested in here. 35 points for a mark 12 with immunity AP 2 structure, armor 3, BTS6,
+and mimatism. Now, the FTO option is not a repeater. So, if you want to get marksmanship onto it with an EVO hacker,
+you need to do so while it's still in your own repeater areas. But this is a piece that I haven't seen significantly in N5 and I think deserves at least a
+little bit of consideration for a comeback. There are a few places we might put this in play in a fire team.
+One of them is if we're taking a single bounty hunter and something like Wolf Gang. The Vostto could add to that reasonably well. Wolf Gang and the
+Vostto both have climbing plus. They move at similar speeds. This gives you a fire team with duo bonuses that moves up
+the board and kind of fights well in conjunction with itself, but it is very expensive. I think probably the more interesting way or something that I have
+a suspicion might be good is actually as kind of a turn one attack element consisting of a vostto and two motorized
+bounty hunters. Now, this is very experimental, but it's also cheap because these guys are nine points for the preferred profile. And it's actually
+kind of possible for me to imagine a top of one attack run where a fire team of a Vstto and two MBHs moves aggressively up
+the board, takes face to face rolls, the Vostto suppresses arrows, and then the bounty hunters or maybe one of them moves in to punish either the suppressed
+ARO position or just the fact that your opponent may have null deployed. And once the Vosto has done its work, the irregular orders of the bounty hunters
+just very naturally like split them off from the fire team and go and let them do their thing. It's not a link that I would put in just any old list. This is
+really strictly guys, I have a hunch this might be interesting territory, but the Vostto is a cool wild card.
+Motorized bounty hunters are solid on their own merits and especially for a list that is gearing up to play a more aggressive scenario and where you are
+SWC constraint if you've gone with expensive SWC options elsewhere in the list. I think it's something that's kind of worth taking advantage of. All right,
+that's like a quarter of an hour of talking about the link teams that are not the reason why we're here much of the time. Let's talk about Hollowmen
+tactical assault team. We've mentioned these quite a lot already in the introductory section, but for completeness, what we're getting here is a regiment that is unique to Dunguska.
+They have 62 move with super jump, which means that on the first movement skill,
+if they declare super jump, they go 8 in, which produces a very high mobility team. Their close combat is terrible.
+Their fizz is mediocre, but that just helps keeps their cost down as does as does the religious troop skill. Their ballistic skill 13 is look, frankly,
+it's kind of average, but in a larger fire team that goes up to ballistic skill 14, which is more serviceable.
+Smaller fire teams, duos don't really want to be doing long range gunfighting with high burst where that ballistic skill matters. They want to be acting
+more as utility and like durable and annoying and mobile pieces. In the larger fire teams, we start being able to actually take face-to-face roles that
+don't involve, for example, Perseus, who we'll talk about soon, doing the actual heavy listing. Hollow men are also very durable. Armor 4 and BTS 6 and two structure would be good just by itself,
+but this is a regiment with remote presence. That gives them two unconscious states, which means that actually putting a hollow man all the
+way to dead requires inflicting four wounds through armor 4 BTS6 on a model that gets perfect benefit from cover,
+etc. That makes them extremely difficult to one-shot in one volley with any kind of weapon in the game. Which means that
+hollowmen, particularly larger quantities of hollowmen, when we get up to the five person fire team, are excellent in combination with an engineer or even just speedball. They're
+very amanable to force reconstitution because they're so hard to take from unconscious to dead. They are AVA five,
+but usually the most you'll see in a list is four. But the list of profiles that we have access to is deep enough here that we get that phenomena that I
+talked about where it's very easy to build larger and larger fire teams. Each of which each member of which justifies their inclusion from top to bottom.
+Probably the only profile that we're really not interested in is just the combi rifle chain cult. Any of the others might theoretically see play, but
+that one's not it. However, lots of the others are useful. The multi rifle chain cult and pitcher is very valuable in Tongaskka. It gives us one of the
+highest ballistic skill pitches in the game, benefiting from duo bonuses. Means we have extremely reliable network projection. If you are in a large hollow
+man team, even firing at long range is going to be two dice on 11s, which is an almost 80% chance to hit. And that's at bad range with a minus three penalty.
+The missile launcher clocking in at only 28 points. It's like in all of these,
+right? Every one of these profiles is close to 30, but is below 30, which is really helpful, particularly in a faction where there are plenty of pieces we'll be paying more than 30 points for.
+The missile launcher is a premier ARO piece. Now, it doesn't have any visibility modifiers, doesn't have any to hit modifiers, doesn't have marksmanship, it's just rolling two dice
+much the time on something like 14s or 11s. But because it is so durable, your opponent will struggle to put it all the
+way down to dead. And because it has structure, it can be repaired all the way back up to full health. Remote presence allowing you to roll. Meaning that the missile launcher is something
+of a recurring nightmare for your opponent. Many have been the games across various editions where a a hollow man missile launcher has been knocked
+unconscious, then recovered to full health, then knocked unconscious, then recovered to full health, then knocked unconscious, then the Dunguska player has won the game because their opponent spent the entire time around
+trying to kill one model that wouldn't die. You can run this guy either in duos or in the larger teams. But my personal observation is that I like him in the
+larger team because we're looking to get up to four models, all of which justify themselves, and the missile launcher is one of those. The Spitfire is your
+active turn gun, and it's fine. It's totally fine. It is not high damage. It is high burst. It'll do to do something
+like put down a thunderbolt or get an aggressive pick against a piece that's exposed. But any really hard target that we have to fight, something like a tag that's dug in. We're going to turn that
+fight over to Perseus, not the hollow men themselves. Next up, we've got technically speaking two profiles, but you can probably also leave the firewall
+combi rifle profile at home because it's the hacker that we are interested in here. Combi rifle and chain cult. Okay,
+fine. It is sub 30 points for a heavy infantry hacker with a firewall. BTS6,
+34 minutes
+two wounds, etc. makes this guy tremendously difficult to put down.
+Frankly, he isn't even particularly easy to brick with hacking. He extends a firewall to the entire team. And he's a very useful piece just in addition to
+being a specialist generally a very useful piece to benefit especially from that fifth level of fire team bonuses
+getting us to sixth sense in the current edition. I mean, just of the game, but particularly the current season of its
+stealth is an ability that every army has access to. And having a hacker capable of spotlight in addition to every other program that you can do with
+the regular hollow man hacker, having a hacker that can ignore stealth is really valuable in turning your hacking network on for the entire rest of your team. If
+there's something like a Sujan moving forward benefiting from stealth because it's been chosen as the stealth ops,
+having just one willpower 13 hacker that can respond with carbonite or oblivion is usually going to mean that the sujan
+is just not willing to make that move through your repeater area. That means your opponent is forced to deal with your pitchers, forced to deal with your
+repeaters. It adds value to the entire network and sometimes it's even going to do things like force a reset which allows other hackers in your army to
+arro. This guy, especially when you get to the larger hollow man teams, is very valuable, but he's also fine as part of a smaller team going forward and doing
+specialist stuff. And despite being tied for the most expensive hollow man profile, is one of the really good ones.
+Finally, we have the very cheapest hollow man profile, boarding shotgun chain cultist operative for a shockingly cheap 21 points. You probably don't take more than one of these in a link team,
+but you can absolutely take one of these in a link team and have it do close assault duties and press buttons and even just be an annoying close in ARO
+piece cuz it just takes time to chew through an armor for BTS6 model that's responding in ARO with things like a boarding shotgun at close range or a
+chain cult. And so collectively what we have here is a fire team capable regiment that we've just rattled off
+four or five profiles. All of which are appealing, all of which can conceivably make their way into a fire team. Which
+is why hollowmen make not just quite serviceable like duo or hares options,
+but also one of the games last true pure fiveman heavy infantry cores. And throughout all of this, of course, I
+have been mentioning the honorary fifth hollow man who actually counts as a hollow man and who is a significant contributor to why this fire team is
+good, Perseus. Now, let's get some of the important limitations out of Herseus out of the way first. Firstly, this dude
+is 34 points. He's more expensive than any of the hollowmen. He isn't cheap to include in a list. Secondly, although he is a no wound incapacitation model, he
+does not have shock immunity. That is something that you need to keep your eye on as you play the game. You cannot just trivially walk this guy through
+minefields, but happy days. If he's surrounded by hollow man, you have plenty of other pieces who can take those hits for him. Finally, he is a
+model with frenzy. And frenzy actually matters in N5, which is going to mean that he only gets one really good turn
+of gunfighting before he's done a wound to something. and then he gains the limited cover rule. At which point,
+actually, frankly, he's still really quite good at gunfighting, but a little less good than before. Subject to those limitations, this guy is an absolute goer. Firstly, 44 move with super jump.
+Not quite as fast as hollowmen, but plenty fast and not at all difficult to deliver into close combat, particularly because he has stealth. He also has ballistic skill attack plus one burst,
+which is going to combine very nicely with fire team bonuses and either the multi or breaker combi rifle. I very lightly lean toward the breaker combi
+rifle, but your mileage may vary. The issue with breaker is, as always, the presence of some things in the game that randomly have armor 2 BTS 6, armor 4 BTS
+6, armor 4 BTS 9. And so depending on the weapon loadout you have in your hollow men team, kind of just think about whether or not you can deal with
+those challenges. If you can, the breaker combat rifle may be better. The multi rifle is a little bit more well-rounded. Really, we're just splitting hairs. This is a matter of personal preference. In either case,
+this guy can roll up around a corner and roll five dice on 13s or 14s with mimatism 6 protecting him coming the
+other way. He's also excellent in close combat with CC23, martial arts 3. He has burst two smoke grenades that also benefit from the fire team special die,
+which means that he is just the most reliable smoke thrower in the entire game. Even at long range, you'll be doing things like able to throw three dice on 10 or 11s in a sufficiently
+large fire team, which is hugely reliable for getting those smoke grenades out. I have seen him miss smoke grenades on occasion, but it is very
+rare. Couple the good gunfighting with the reasonable durability, with the incredibly reliable smoke and the good close combat and the stealth, and you
+have a tip of the spear model that can just deal the damage and kill almost anything that the hollow men themselves
+don't want to deal with. Very hard targets, no worries. Perseus has got this. If it's a really really hard target, like you're going into a yotm in melee, you even start doing things like
+just bringing the hollow men in to help out because they are comfortably durable enough to take the counter blow if your opponent tries to deal a CC attack to
+them. And the extra burst to Perseus really ramps his lethality up. It's not difficult against a sufficiently large hardened target to get multiple
+friendlies into close combat if he's in a hollow man link team. And at that point, he isn't just winning face to face rolls, but he's doing things like inflicting six, seven, eight saving
+throws at damage five, which starts putting even a yumm down with a few orders. This guy is just really solid as a tip of the spear, a very powerful
+piece, and learning how to use him in Tunguska in N5 is going to be extremely important. Now, not only is he a valuable part of the hollow man team,
+but he also forms a very serviceable duo. If you want the cheap and cheerful version, perhaps you're running a list without any hollow men. What you can do
+rather than take him in a hollowman team is run him in a naamnic team. That's a mercenary fire team where you will basically just have Perseus and a single
+17point FTO stemplo. Now, Pathfinder chassis zons in N5 like all of these kinds of remotes which are 64 move with
+deactivator repeater and sensor and forward observer are just a valuable team like just a valuable model to have in lists in this edition. You can
+discover and then sweep out equipment that's in the way. I mentioned that one of the things Perseus is scared of is mines. Well, not to worry. What if we could come up behind a wall, discover
+that mine through the wall, and turn it off with a deactivator, all basically on near certain roles? Yes, it's a touch order intensive, but it clears the way
+for Perseus to make an attack run unhindered. It's also a specialist. It gives Perseus the duo bonuses. It discovers things that maybe he can't.
+It's basically just a perfect buddy cop for him if you don't want to run him in a hollow man team. And thanks to Super Jump, it keeps up just fine. Now,
+strictly speaking, there is one other person that can also join this fire team, a unique Tongaskka character, Ral Spectre. But I'm going to make the
+argument here that I think if we're taking Spectre more of the time, we want him in his solo operator form as a parachutist and combat jump trooper. And
+so, having finished therefore talking about link teams, let's talk about Tunguska's solo and independent operators. Starting with Ral Spectre,
+mercenary operative. Now, a little bit like Perseus, we are dealing with a model that does have no wound capacitation but does not have shock
+immunity. Keep that in mind when you are using this guy because if you randomly walk him into a deployment zone mine,
+you have a slightly too high chance of having a very bad day. Subject to that limitation, this is 32 points is not cheap, but this is a really good
+profile. There are a collection of things here that are very, very nice to have. Firstly, he has both parachutist
+and combat jump, and he has 62 move with jet propulsion, which means he absolutely motors once he's on the board. 8 in of true threedimensional
+movement on the first short skill gets him into close combat around corners with extraordinary ease, and he has the close combat to take advantage of that.
+He's not a really really exceptional piece, but he's good enough to punch down into most things that might be like
+he might want to take advantage of that EMCW against. With CC22 and martial arts level two, he'll be rolling on 25s. Your
+opponent will have a minus three and he can comfortably risk going into close combat against things, for example, with Paris CCWs because he has natural-born
+warrior. I had a game this week using vanilla nomads against Tunguska in preparation for this episode. And I spent very slightly too little time
+thinking about the threat that Ral Spectre posed even though I was relatively sure he was coming. And so he arrived slightly behind a building past
+his role to land. Came around a corner into close combat with my gator which despite the fact that the gator is very good usually at defending itself in
+close combat thanks to CC20 and CC attack minus 6. Ral Spectre handily ignored all of that and beat the tag the to death. Even if you aren't
+getting into close combat, RAL is an exceptional close assault piece with mimism minus 6 and a boarding shotgun plus one burst, which is just fantastic
+at making attacks at close range, even just with the shotgun. Three dice on 18s when you have cover and mim 6 is just very challenging for almost anything to
+beat. I've mentioned in the past that I love boarding shotgun plus one burst,
+and Ral Spectre is no exception. He's even got drop bears to do really annoying things, although Fizz 13, he's going to miss them some of the time. He
+even has a template weapon, a power and strength or a sorry, probably a cycle six boarding pistol. Although frankly,
+there are very few circumstances where you won't just shoot someone with the boarding shotgun or walk into close combat. On top of all of that, he's a
+specialist operative. This guy is just a complete package. Now, 32 points is too expensive to say auto include put in every list, particularly since we're looking at pieces like Perseus for 34.
+But there is an old adage that drop troops never lose games, they only win them. That's wrong in the strictest sense, and we'll actually talk about
+that when we get to another profile. But this is a guy that can just crack open games by himself if he lands, if he
+makes the right moves, if he connects in the right way. He is a perfect example of how a combat jump or parachuters
+trooper in N5 can crack open the game off of their own back. He's very worth having in your collection. perhaps as a
+conversion because his model is a little bit janky, but a strongly recommended piece. Now, we have a lot more models in
+this profile list to get through in the solo operators piece. So, we're going to kind of speed through a few of them.
+Krie Borak, he's good. 45 points is eminently reasonable for five dice downrange at ballistic skill 13 on a reasonable durable chassis with
+ballistic skill attack minus three. This guy is back to his old tricks that he had in N3. Now, he's not as good as he was in N3 because there are counters now
+to BS attack minus three, but the creor is just excellent. He's even good at close assault because all of those modifiers, be stack plus one burst, be
+stack minus three, work on his heavy pistol, which means that if he rounds a corner against you, he's still a threat.
+Not necessarily an auto include, but I have a very soft spot for him. And there is usually some merit to having at least one decent gun in your list if just to do things like kill total reaction bots.
+And the Cre is very good at that. At the top end of the same kind of I want to fire a powerp piece category, we have the salamander squadron. 68 points is
+cheap, 2SWC is not. It is a ballistic skill 14 HRMC and as such is very very good at going.
+Now, it does not have tactical awareness. It only has NCO. And this is a faction where much of the time we will have a lieutenant that is very capable of spending their own LT order. So,
+that's not quite as valuable as we might like, leaving the salamander merely as a totally fine tag. But sometimes there is no substitute for truly overwhelming
+firepower on a reasonable durable chassis and the salamander is that. Now I would say that Tunguska is really not a faction where we're reaching for main
+battle tags particularly often. There are just slightly too many pieces in the 27 28 29 32 34 point bracket to easily
+fit a tag. But that is not an indictment of the salamandra itself which is fine.
+Good. Fires a lot of very dangerous bullets downrange. That's just very valuable to have sometimes. I will usually reach more towards something like a crease of Borak or even consider
+trying to play a game really not relying on active turn firepower pieces particularly much at all and instead play mission and asymmetrically and drop
+troops and ARO kills. But the salamander is a banger of a model fine and good.
+And if you are playing a collection of vanilla nomads and Tunguska as like a
+paired collection, then you want to own at least one Silhouette 7 tag. And the salamander is an incredible model. Next
+up, segueing hard away from firepower pieces, we have interventors. These guys are a flagship profile for this faction despite the fact that they are really
+not particularly expensive. And bang forbuck, they are just some of the best hackers in the entire game. There are some very small arguments to be made that there are hackers that outperform
+them in absolute terms mean combined army and oss and there are some hackers that are maybe a little bit a little bit more efficient than them point for point
+but those are extremely few and far between. There are very few comparisons to tunguska interventters in terms of
+getting for a cheap price very very nearly high watermark in the entire game hacking capability. I like to take
+personally two of these at least in any given list. And those two preferred profiles are either of the lieutenant profiles. Basically, do you have two spare points for the fast panda or not?
+But a hacking device plus lieutenant does a few things. Firstly, willpower 15 lieutenant. That's really, really good. Secondly, this is a model that can very,
+very easily spend the lieutenant order because it's a hacking device. Plus,
+firstly, you have just a suite of different options offensively to mess with your opponent, but equally importantly, you can always just use
+lieutenant order to cyber mask. and having a willpower 15 lieutenant who is very capable and can do things like active turn spotlight but in reactive
+turn as durable as interventors are right BTS9 is very very good you can still just get unlucky in a face to face roll against a killer hacker if they
+land a pitcher on your head randomly roll a 16 to save take a wound and go unconscious and we will not often be taking chain of command in Tongaskkar
+for that reason you will often want to just consider appraise your opponent's hacking options are they a threat to you bam into cyber mask on the first turn
+and only come out when you are confident you've established infowar dominance. To establish that infowar dominance, we turn to our second preferred interventor
+profile, which is the 18 point killer hacker with boarding shotgun and fast panda. This guy is one of my favorite
+profiles in the game because he has a KHD. He can mark he can cyber mask himself, which means he can get up the field. Get up the field to deliver that
+fast panda. Having delivered the fast panda, he is for points the most dangerous killer hacker in the game.
+Willpower 15 and BTS9 and Trinity with minus three means that you are stacking in addition to the firewall. Minus six
+49 minutes
+mods on your opponent while usually rolling three dice on 18s yourself. Now,
+there are no damage modifiers, which means that if you're doing something like hunting an enemy interventor, you will need to just keep forcing facetof face rolls until you break through. But
+for only 18 points, this is just tremendously lethal. As far as KHDs go,
+you can supplement your hacking network with things like a tag tree for just like another killer hacker. There are also a few different priests throughout Tunguska that are things like hackers
+with Trinity or KHDs with carbonite that you can also potentially supplement a network with. But this guy is the one who is going to be doing the lethal
+assassination of enemy hackers, either by using the fast panda themselves or with a pitcher fired off by a cyclone or a hollow man. Incredibly dangerous. Part
+of what contributes to Tunguska being a high watermark hacking faction. And I am pretty comfortable recommending that most of your list should include an
+intervent for whip 15 and a great hacker and an intervent. These guys are just really, really good.
+50 minutes
+Do not leave home without them. Now,
+supplementing the discussion around the hacking game, there are a few other pieces at least that we should probably talk about. The first is hecklers. Now,
+I don't personally hugely rate these guys, but they are not bad. Ballistic skill 12, mimatism, and some reasonable gunfighting options. I'm actually quite
+partial to the boarding shotgun plus one burst emirat profile just to kind of like hang around and maybe move forward and do something really dangerous at
+some point. Deployment zone or deployment zone adjacent emirats are the kind of thing that can just save games against a lethal attack element in any
+case. And being able to move forward and fire three dice on 18s with the boarding shotgun with surprise with mimatism is
+very appealing. But in Tunguska we do have a very interesting unique profile and that is the combi rifle jammer and
+fast panda. Now, I will usually rely on either fast pandas from the intervent since I'm taking it already or pitches
+from my multiple linked models to do network projection, but this is a model that natively has camouflage and forward deploys 4 in and has a fast panda. So,
+it's another way of getting your network forward. And the jammer is pretty relevant. It's only willpower 13, but a jammer is a jammer. And with passive
+reloads from baggage, it is distinctly possible to have maybe one or two of these guys in the right list, just set up in positions where at least one of
+them, maybe both, are in zone of control of a baggage bot, able to just comfortably use that disposable jammer in the knowledge they will reload. in
+scenarios for example like BP or capture and protect which if you're in Australia both feature in the scenario list for burn city brawl in Melbourne which is a
+scenario that's coming up those are the kind of scenarios where concentrating your defenses in one place is quite valuable and jammers add one more
+element that can work against pieces that would otherwise not be susceptible to hacking and that's kind of useful I do definitely think hecklers are a
+sometimes pick 20 points and 23 points are both just a little bit too expensive to slot easily into a list when we have
+other expensive pieces that we're interested in taking, but they are cool and they can supplement a force very nicely. Finally, just on the broader hacking game before we move on to some
+other independent pieces that are cool and interesting, Merry Problems is at least worth a look in. I have a soft spot for her, even if in practice, I
+think you can probably pretty strongly argue that she's obsoleted a little bit by just taking that intervention
+that I meant. But she does have a use case some of the time, particularly because I mean she's a ballistic skill 12 pitcher herself with forward
+deployment. Rolling one dice on twelves is not what you really want to be doing in Tunguska, but it is something that you can consider. But really what she's about here is the upgrades that she has
+on her programs. Oblivion plus one burst is fantastic in active turn under the right circumstances. There are some games where you can just be like, "Oh,
+that's Jon of Arc. Let's just not deal with inspiring leadership this game,
+please. Let's just force you on to chain of command immediately." And in that circumstance, three dice on 14s is much better than two dice on 15s from your
+interventor. Trinity armor piercing is also just one of those upgrades that's very good to have. As much as the intervent with trinity minus 3 is
+fantastic if you are trying to push through an opposing BTS9 or even sometimes BTS6 enemy hacker, trinity AP
+just can be very valuable for getting you there. Now, is she worth 27 points and half an SWC? No, most of the time she's not. But depending on your metag
+game, if you are interested in being the top dog hacker and you expect to play against things like combined army or operation subsection with an assura,
+just remembering that she's exist she exists can be worth it from time to time. Now from here we move on to puppet bots. Uh a favorite of mine across many editions now and in N5 as it was in N4,
+a source of the tactical window. I like to think of it more as tactical suggestion. Now, the puppet master alone is great value for 11 points or however
+many you pay for in whichever profile you take because 11 points for a regular order and counter intelligence is is just really really good. There's nothing else in the game that compares to that
+in terms of access to counter intelligence. But what gets really great is of course the puppet bots themselves.
+Now, these are remotes, so they can be given supportware, and you can take between zero and three of them, and they act effectively as a little fire team of
+their own. They don't get fire team bonuses, but they move around the board like one. And thanks to transmutation, they are two structure troopers. Yes,
+they degrade a little bit when they take a wound, but two wounds is two wounds.
+And two wounds for nine points with a plus one burst boarding shotgun and plus one burst forward observer and ballistic
+skill 12 and a willpower 14 specialist is just exceptional. Much of the time,
+depending on how you're choosing to defend with Tunguska, if you don't have hard ARO pieces, puppet bots can serve as your ablative element. Two of these
+guys for nine points each is 18 points and they can occupy picket zones like picket positions on the like in your deployment zone. Blocking off approaches
+into the depth of your deployment zone where the blister seal 12 boarding shotgun and the flash pulse and the fact that they have two wounds just makes them a challenge to get through in an
+efficient way before your opponent can get to the gooey center. On the offense,
+they are fast, they are dangerous, they only have bliss seal attack plus one burst in the first profile. When they transmute, they lose that. But coming around a corner, that's still three dice
+on 18s. And if they take a wound, you just have the next puppet bot move in and take over. And if you leave these guys in the midfield, the same deal.
+They're just very annoying to deal with. I love puppet bots. I love peripherals.
+I love expendable troops in the knowledge that like this is going to take time for my opponent to kill and not cost me orders when it dies. We will
+see these in my list. We will see these in Lachlan's list. And we will see these in vanilla lists. And it's the presence of puppets in both of those armies that
+really is part of that crossover DNA that makes owning Tongaskka and owning nomads not too challenging as part of the same collection. Even if you don't
+take the puppets themselves, and you should, you should basically always take the 11point puppet master just for counterintelligence, this is an extreme
+56 minutes
+value regiment. Now, moving on through a few more things. The ZNort rapid offensive unit is something that has a personal special place in my heart.
+doesn't find its way into too many lists, but 17 points, especially for the Zond Nordica B, is a very efficient offensive regiment. Strictly speaking,
+it's only vitality one, but when you transform into the two different things,
+you can use the bike itself as a disposable piece. And throwing around the boarding shotgun and the chain rifle in the same attack is kind of cool.
+Ultimately, these guys are a rare pick even at 17 points for the cheapest profile, but they are worth your time and they are worth considering from list
+to list. Next up, we have the Meteor Zond, which was a meme for the longest time across multiple editions, but in N5
+is actually just totally viable. 19 points for the boarding shotgun flash pulse profile is at that price point
+where you can put this guy into a list just for the chance to high roll and do something incredible. As I mentioned before, there's a little bit of an adage
+around drop troops. Drop troops never lose games. They only win them. Now, as I mentioned, that's wrong in the most strict of senses, but is a way of
+thinking about the performance floor versus the performance ceiling of a model, and that's particularly pertinent for drop troops because the performance
+floor is so visible. Usually, the worst performance and one which you will run into in games is that you fail your
+combat jump, walk on in the deployment zone, and do nothing for the rest of the game. In that case, we can see the performance flaw of the meteor. The
+opportunity cost of taking it was the 19 points you spent on it that you didn't spend on something else. And if you tried to land it on turn one, it will
+not begin generating orders until turn two, which means the total opportunity cost to accomplish very little is one
+regular order and 19 points. That's not a lot. It's not nothing, but that is not
+a particularly high opportunity cost when we compare it to like a transducer zand, a stempand, even a war core.
+in the same combat slot. And by accepting that some of the time we will hit that performance floor and where the
+points that we spent on the meteor zond only being used to generate maybe two regular orders over the course of the entire game. The high water mark, the
+ceiling of performance for a meteor is impressive. It lands on twelves or it parachute it on. You can use the border
+skirmishes rule to auto land in scenarios with an exclusion zone. And when it lands, not only is it a specialist with sensor just randomly,
+which can be very valuable under the right circumstances, but it is a repeater. It's a repeater that has landed in your opponent's deployment
+zone and which can move around. And that presents the possibility for all sorts of mischief. It's even difficult to
+counter hack thanks to BTS6 and ECM Hacker, which keeps the repeater online through things like Oblivion AROS, for example. And then on top of all of that,
+it is a 64 move jet propulsion piece with a boarding shotgun. Now, it's only ballistic skill 11, but two dice on 17s coming around the corner against an
+59 minutes
+unarmed like a model with a combi rifle that you suspect might be your opponent's lieutenant, for example, with 8 in of jet propulsion movement and the
+ballistic skill attack is the kind of face tof face roll that isn't guaranteed to succeed, but if it does, might just
+win you the entire game. Now, meteor zones are not an auto include, but in N5, for such a relatively affordable
+points cost, sub 20 points, you've got a piece that can just splash into lists and might win you the game. That's kind
+of the niche that drop troops serve in N5 where finally we are in an addition where the cost of combat jump is actually very commensurate with the
+opportunity cost and where the performance floor and the performance ceiling of combat juke trump troops is acceptable for the points cost and the
+meteor zand is just one of those pieces that is an exemplar of that. Now a couple more profiles to mention Dan McConnelly he's 12 points take him he's
+regular. He's good in close combat and he has fizz 14 smoke grenades. There's some other stuff as well, but like that's basically it. Good in close
+1 hour, combat, has smoke grenades, regular 12 points, Fizz 14, Zen McConnell. Slightly more niche in this edition are the
+1 hour, zealand creers. Actually, just kind of not fantastic in close combat, but good enough. CC23 with CC attack minus 3 is
+1 hour, like the bare minimum on what constitutes actually kind of okay in close combat, particularly when we consider that the damage of their weapons, although it's DA, is only PS7.
+1 hour, But failing all of that, you still have fizz 13 smoke grenades. You have met chemistry with a rroll which can really high roll on these guys. And the heavy
+1 hour, pistol plus one burst and pulsar profile does give you a fairly nice arrow fork.
+1 hour, I don't put these in lists a ton. I think they are less transformative for Tongaskka in N5 than they were in N4,
+1 hour, but you are often going to need to pad a list out in Tongaskka thanks to other like 20 to 30 to 35 point pieces. And
+1 hour, eight points is eight points for a model that is probably going to do something.
+Now, finally, finally, we should discuss the GoPod. In absolute terms, it's
+probably pretty fair to say that the Gopod is one of the best vehicles. I think the competition for that
+particular place is basically between the GoPod and the Redeye, depending on what you value. Both of them are
+competing for strong second place behind the best vehicle in the game, which isn't a vehicle at all, which is the Garuda Attackbot, which just outperforms both of them by an enormous margin. Now,
+there are other players out there with much more experience with vehicles than me. There are many players out there with more experience with the Go Pod
+than me. It was very popular in lists early in N5, and it really isn't hard to
+see why. Even with the no cover rule, on paper, a three dice heavy rocket launcher and a four dice AP submachine
+gun, usually stacking a relatively reliable at least minus three, but more often minus six onto your opponent before bonuses for range thanks to
+ballistic attack minus three and mimatism, plus the Gobot peripheral giving you either a free chain cult or a
+free flash pulse combined with the speed of the Gopod as a vehicle is all kind of appealing. But the conclusion that I am
+increasingly coming to with regards to vehicles is that they are kind of the inverse of combat jump and parachutist
+troops. How I am increasingly feeling about vehicles is that I want to say something like vehicles will never win
+you a game. They will only lose you a game. That's a statement that is strictly wrong in the same way that the inverse is strictly wrong when talking
+about jump troops. But it leads us towards a discussion around performance ceiling and performance flaws. Because
+the difference in performance between the best a GoPod can do and the worst a GoPod can do is stark. In fact, it is
+more stark even than a combat jump trooper like the Meteor Zond. And the GoPod is much much more expensive in terms of both points and SWC. The
+experience that I fairly consistently have with the GoPod is that if other models do the heavy lifting on turn one and other models take the casualties and
+other models clear the way on turn two I can make a run with a good that can often do quite interesting things. That
+11in first movement with super jump jet propulsion gets you some very powerful angles once it gets up the board a little bit. And both the heavy rocket
+launcher and AP submachine gun are well suited to capitalize under different circumstances. But it is always other models that have to do the heavy lifting
+to get the go pod into position where it can make those attack runs because the good is not itself suited to suppressing
+hard ARO pieces. Now it looks like it should be right if we say oh well we'll just we'll fight we'll fight a thunderbolt total reaction board or
+we'll fight you know an enemy heavy infantry with a flare back uh because we've got all of these different modifiers and plus one burst and extra
+damage. Surely the heavy rocket launcher will be fine. And some of the time that is the case, but it is incredibly easy when you are yourself rolling three dice
+on 13s to have a dice spread that just goes 1 2 14 or 5 16 17 or something and you just don't significantly connect and
+your opponent rolls an eight and hits you with something like a back or two thunderbolt shots get through randomly from a thunderbolt total reaction bot.
+And at that point we start to see how incredibly fragile the goport is. And this is actually why the Red Eye really competes with it. Despite the fact that
+the Red Eye is much more expensive and is armed with a Spitfire rather than a HRL with all of these different modifiers, the GoPod has no cover and is
+armor 2, which means that its durability compared to a model in cover is equivalent to something with armor minus
+one. The second it gets hit, it goes down in absolute flames. And while you can recover a vehicle because the aerial
+rule turns off when it's unconscious, so you can get either an engineer or a speedball up to it and recover it, the likelihood of your good just failing you
+terribly and toilet bowling an entire first turn if you use it to suppress enemy ARO pieces is high enough that
+across a three or five round event, it's going to materialize at some point. On top of that, the Gopod is hugely
+vulnerable in reactive turn because it's armor 2 and your opponent will invariably bring up a firepower piece that has either warhorse or an MSV,
+making it very susceptible to enemy counterb fire. And because it's silhouette 7, it's an absolute bastard to hide. Which means that in reactive
+turn, you can use the good kind of as go bot rather kind of as an arrow piece,
+but the go pod itself has a massive target on it. And that means that although the performance ceiling for a vehicle like the GoPod is high, right,
+you can absolutely point to games where the GoPod on turn two went on a tear,
+got envelops after you'd suppressed your opponent's hackers and suppressed your opponent's ARO pieces, and it tore up. Even that performance ceiling is
+usually off the back of significant efforts on the part of other models. And the performance flaw is that this thing is dead weight early in the game for a
+lot of S SWC and a surprisingly large number of points. It is hugely vulnerable to hacking. It has no defense against it. And if it gets isolated and
+immobilized while it's hiding behind some tall building in your deployment zone, you are never getting it out of that state. It cannot attack into a
+repeater network. It needs all of these different things to set up plays for it.
+And so the conclusion I am increasingly coming to is that models like GoPods will never win you a game. They will only lose you one. Any game that you
+were going to win because of the GoPods plays probably came as a result of other things doing significant damage to your
+opponent. Interventors neutralizing your opponent's hacking network. Some other firepower piece suppressing opponent's arro pieces. And if you've done all of
+those things, you don't need a go pod to secure the win. It's just going to showboat in yes potentially do a whole bunch of damage but not necessarily
+accomplish something that we couldn't have used another piece to do. I am really not liking it at the moment, but
+not by enough to say that it is a lost cause. Just if you're going to use a go pod because look, frankly, there is a
+huge amount of joy in moving something 11 in with your propulsion as a short skill, right? I cannot deny that the movements that you can make, the angles
+that you can get moving these pieces around the board and just looking from like a point in midair 6 in above the
+table that you were able to reach thanks to a combination of super jump and silhouette 7. You can get some feelings of power from that. But if you're going
+to use a go pod, you have to build everything else into your list to enable it to succeed. You need tools to
+neutralize enemy hard arrows that you really shouldn't be fighting with it.
+And you absolutely need tools to neutralize enemy hacking networks that will completely shut it down the moment it wanders into an enemy hacking network, repeater area, etc.
+Fortunately, Tunguska does kind of have pieces like that, particularly in terms of dealing with the infowar threat. As
+mentioned, Tunguska is frankly one of the best factions in the game, possibly the best faction in the game at combining reliable repeater projection,
+even at very long ranges, with very,
+very good anti-hacker hackers. There are really no models in the game like a linked hollowman for landing a pitcher,
+thanks to the combination of super jump for those same weird angles and its mobility and its ballistic skill and its links. There are really no models like
+an interventor for capitalizing on that subsequently placed pitcher to eliminate enemy hackers. And so that at least does help set the gopot up for success.
+You've also got smoke potentially get the past arro pieces. You have a reasonable selection of your own other gunfighters to potentially clear the way. Things like a crease of borak for example are probably affordable enough.
+You could even feasibly fit a salamander and a goport in the same list. although that's not particularly comfortable if you want anything else that's
+particularly elite. So it is possible to make the good work in Tongaskka. But that's kind of the ultimate conclusion.
+The good is a piece despite the fact that on paper it looks awesome. The good is a piece that you need to make work.
+Do not approach the game thinking it's going to be the carry. You need to set this guy up for success. Actually I think in League of Legends making it the
+definition of a carry. farm up all the preconditions for this guy to have success and at that point it will pay
+off. And with that, let's get into two sample lists for Tangaskka jurisdictional command. The first of these is called jump up and get down. I
+can't quite fit the name on the screen because there are so many lines of text here in particular thanks to the interventor KHD which somehow manages to occupy three lines of text in the army
+by itself. But this list comes courtesy of Lachlan and it was one of two lists that he played at Tongushka jurisdictional command. Now I played at
+Border Bash. Now I believe he's gone on loss of lieutenant to talk about this list. You can find the recording there.
+But as a quick summary, both of Lachlan's lists were built around hollow men cause. Both of them are lists that learned the lesson of a Sydney player
+called Tom B, who in his day was the uncontested master of the hollow man link. And of the two, I picked this one.
+it because it has RA spectre in it. Now,
+the other version of the list didn't have RAL. It didn't have two hollowmen missile launchers. It had a boarding shotgun hollow man instead. It did fit a vertigo zone for a guided missile play,
+but I wanted to feature RA in at least one of these, and so this is the list that does that. From the top, we have a full fiveperson hollow man core, a very
+spicy two hollowmen missile launchers, a hacker, a hollow man pitcher, and Perseus. The flex point here really is the second hollow man missile launcher.
+One of the two of the second one of those is absolutely viable, but you can also replace that, for example, with something like the boarding shotgun pace. These are going to move forward,
+do things, move backwards, reoccupy a defensive position, and then make the missile launchers your opponent's problem in reactive turn. Perseus will
+generally do the active turn gunfighting much of the time if there's something to go and kill. Just generally these guys play the hollow man game, bounce around
+the table, lay pitches, be a six sense hacker, be very durable, and we will see an engineer in the second combat group that's going to play off of these guys.
+We've then got a transducer zand, two interventors, one KHD, one lieutenant with hacking device plus, exactly as we'll see in my list, and combat jump
+rer single 12point bounty hunter functioning I assume mostly as a border guard. He's got a heavy riot stopper and can potentially stop things before they
+penetrate too far into the DZ. Then a transact, another 12-point bounty hunter. Again, because these guys aren't in the same combat group, we don't
+expect to see them linked, they'll be spread out using their riot stoppers as defensive pieces. Den McConnelly,
+another transducto zand. And then a clock maker with two zonbots and a salamander KHD. The clock maker, you'll note the only things really in the
+entire list that he's going to be potentially repairing are the transducto zones and the hollowmen. Often the transduc I would expect just to be dug into deployment zone repeaters, not
+using their flash pulses. the two different zonbots and the hollow maker are present so that the hollow men can occupy a variety of different positions.
+There will often be turns if the hollowmen link has taken significant damage where this clock maker wants to be all over the place recovering
+different ones like doing lots and lots of work on them and the zonbots mean that when the hollow men move forward and pull back they can pull back to different positions around the
+deployment zone without being chained always back to one position. This is a good example of a list that maintains
+some other offensive elements in addition to the full fivep person hollowman core. Hollowman core is fearsome particularly with a double missile launcher setup. And with two
+KHDs thanks to the salamander, you even have some interesting options in terms of how you spend your orders. If the clock maker is not spending orders, for
+example, in turn one, I would not be surprised if on the first turn of many games, five orders in group two are being spent by the salamander pilot h
+killer hacker just doing killer hacker things. If there was one change I would personally make around this list, and it's only a maybe, I would strongly
+consider cutting one of the bounty hunters for a puppet master. No particular need to add puppet bots. I like puppet bots, but no particular need to add them. They were, it should be
+noted, absolutely in Lachlan's first list. He understands how powerful they are, but just for the ability to have counter intelligence for the same price
+point as a bounty hunter, it's something I would be leaning towards. However,
+noting that the puppet master is present in Lachlan's first list, I'm pretty sure he understands all of that and that this is a fairly calculated decision. There
+were a bunch of different scenarios at Border Bash which had some very hostile elements in them. And so I can see looking for any given edge in any different scenario in that particular
+case. Now our second list as a showcase is one that I have written. And this is one of those ones that came together actually in a way that is not what I
+expected. The goal here was to showcase what can be done with different fire team duos. And originally this had Ral
+Spectre present as well. Now he would be very good. I would fit him in the list if I could. But one of those things happened where I'm just like ah I can't quite fit this and I can't quite fit
+this. I've got some points spare now having made some cuts. What happens if I cut Ral Spectre and the third puppet bot and what I found was that I had exactly
+45 points left. And since I had one creaser borak already, why not a second borak? They can legally duo. They get fire team duo bonuses. Is this good?
+Probably actually probably not. But it is very funny. So from the top we have a puppet master team, one forward observer, one AP marksman rifle. you
+will see an EVO hacker in group two able to hand out marksmanship and importantly provide reloads. Uh originally there was an intention that this list had a combat
+jump trooper and that would be part of what the EVO hacker was doing. Now it doesn't. That's something that you could consider changing. We've then got the two interventors, the lieutenant and the
+interventor KHD. Excellent choices. Den McConnelly Perseus and a hollow man.
+Perseus in this case is dued with the hollow man pitcher which means that there is no specialist here. This list is mildly light on specialists that can
+1 hour, 15 minutes
+move forward easily. I wanted to have the pitcher to take full advantage of the baggage bot, but trimming that hollow man and running this as a naamnic
+team is something that you could easily do to do something like, for example,
+fit a meteor on into a list. We then have, as noted, the meme that is the Creaborac duo. Six dice is a nice number
+of dice. Often times, frankly, I wouldn't be surprised if we actually don't duo these guys and we just split them on different parts of the deployment zone. You don't really need a
+six dice for the creaser to be able to suppress anything that it's going to suppress. Once you're at five dice,
+adding a six doesn't really move the needle particularly much, but it is very funny. Definitely, again, if you're approaching Tunguska from first per from
+first principles yourself, one creoric is probably all you're going to need much of the time, particularly if you have ample sources of smoke and white noise. But once I added the second one
+to the list, I really didn't want to cut it. We've then got two transducers.
+Segueing into group two, we've got a Salot Evo hacker. The only thing it's really doing is providing reloads for things like the pitchers and the fast
+pandas and marksmanship potentially for the puppets. Definitely is some consideration to tuning this back down just to a regular baggage bot. This list is not hugely competitively optimized.
+Uh, but if you do, for example, trim Perseus and the Hollow Man into Perseus and the Templar, you will probably find
+that there are enough points spare to turn something else in the list into,
+say, a meteor. And at that point, a sister jump is also doing some work, and we're justifying the salute a little bit more. We've got a salamander KHD hacker
+for the exact same reason as we will see it in Loxland's list. Also to note, a salamander pilot in group two, if it isn't doing KHD things, can spend orders
+laying cyber mines. That's just cool and nice. And then finally rounding out the group. One Zelen Creger, one war correspondent, it's cheap, and one
+Vertigos. That gives you the guided missile play. We've only got the lieutenant for spotlight, but will power 15 is good spotlight. I would not really
+intend to do a significant amount of missile play with this list. But if your opponent null deploys and you're looking to punish that, it's one of the ways you
+have to do that. If we wanted to tinker with this list in real time, definitely cutting the hollow man down into a Stlazon just to see what we can get is a
+line that I would take. I'm pretty sure at a glance that it, among other things,
+would just fit another puppet bot into the list if that's what we wanted. But if we're willing to do something like cut a crazy borax, we're also very close to be able to get potentially two drop
+troops into the list in the form of a Meteor and Ral Spectre. Bunch of different things that you can do here.
+The creaser borax are present because once I'd added the second, it was too funny not to include, but lots of different room to move on this one. Now,
+this video has run long enough, so we're going to wrap it up there. Just as a usual, quick channel plug. If you'd like to support the channel, you can do so via the buy me a coffee link in the
+video description below or by becoming a channel member on YouTube. Go ahead and like and subscribe to like and subscribe, all of that usual stuff. I will usually put videos out once a week.
+That's something that I've been hitting on a regular basis, but this is going to be the second video this weekend. I had time to do the recording and as noted I
+had a bunch of input from people that I've got access to including Lachlan including inane I imp that's Rob a bunch of locals including Master Krux and
+Azou. Big thank you to everyone who helped make this possible including of course as always the channel supporters.
+

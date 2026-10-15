@@ -1,0 +1,36 @@
+List of Classifieds		
+		
+Classified 	Name	Requirement	Short Description
+Predator	-	Put two enemies into unconscious or dead state with CC Attacks
+HVT: Identity Check	BioVisor, MSV, Sensor	WIP roll vs enemy HVT in ZoC and LoF
+Sabotage	D Charges	Place D Charge on piece of scenery in enemy half of table
+Suspected Infiltration	Doctor, Hacker, Veteran, Elite	Make WIP+3 roll whilst in silhouette contact with non-REM, non-TAG enemy troop
+HVT: Inoculation	Doctor, Paramedic	WIP+3 roll vs enemy HVT in silhouette contact
+Combat Support	Doctor, Paramedic, Engineer	Have allied trooper recover 1W or STR
+Nanoespionage	Doctor, Paramedic, Engineer	Make medikit or gizmokit attack vs enemy specialist
+HVT: Reverse Engineering	Engineer	WIP+3 roll whilst in silhouette contact with enemy HVT
+Industrial Espionage	Engineer, FO, Veteran, Elite	WIP+3 roll whilst in silhouette contact with enemy Engineer, HI, REM, or TAG
+Mapping	FO, Hacker	WIP roll vs scenery in enemy DZ
+HVT: Designation	FO, Spotlight (Hacker)	Two FO rolls or two spotlights vs enemy HVT
+Telemetry	FO, Spotlight (Hacker)	FO or Spotlight enemy trooper
+Data Scan	Hacker	WIP roll vs enemy in ZoC. Enemy can reset
+HVT: Espionage	Hacker	WIP-3 roll vs enemy HVT in ZoC
+HVT: Assassination	LT, NCO, CoC	WIP roll vs enemy HVT in LoF and ZoC
+HVT: Follow Up	MI, HI	WIP roll vs enemy HVT in ZoC
+Vigilance	MI, HI	Make WIP roll whilst within ZoC of enemy troop in enemy half of table
+Capture	Veteran, Elite, CoC	Be in silhouette contact with null or imm enemy at end of game
+HVT: Kidnapping	Veteran, Elite, CoC	Civevac enemy HVT
+Net Undermine	Veteran, Elite, CoC	Troop must WIP roll in enemy half of table
+		
+How many cards can .... do?:		
+Hacker	6	
+Veteran or Elite	5	
+CoC	4	
+Doctor	4	
+Engineer	4	
+FO	4	
+Paramedic	3	
+MI / HI	2	
+Biovisor / MSV / Sensor	1	
+D Charges	1	
+NCO / LT	1	

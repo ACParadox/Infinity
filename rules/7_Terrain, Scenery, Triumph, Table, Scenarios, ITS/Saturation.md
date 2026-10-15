@@ -1,0 +1,13 @@
+# Saturation
+
+Terrain and Scenery Structures
+
+This characteristic describes the existence of solid obstacles that can limit the effectiveness of projectiles that traverse the area.
+
+- Any BS Attack from, into, or through a Saturation Zone suffers a -1 Burst MOD. This MOD is applied after dividing the Burst between one or more targets, and is applied to the Burst value assigned to each target. The Burst value assigned to a target cannot be reduced below 1.
+
+- The Burst MODs for Saturation Zones never stack with MODs for other Saturation Zones. For example, if the LoF of a BS Attack is draw through several Saturation Zones, the player will apply only a -1 Burst MOD.
+
+- This MOD is applied after dividing the Burst between one or more targets, and is applied to the Burst value assigned to each target.
+
+- The Burst value assigned to a target cannot be reduced below 1.

@@ -1,0 +1,529 @@
+Hello and welcome to an Infinity the game faction focus in five edition for the Imperial Service. In this video,
+we'll be going through who the Imperial Service are, how they play, what are their strengths and weakness, and general faction identity before jumping into Infinity Army to go through quite a
+lot of the profiles that showcase this identity. Now, obviously, this video comes with a bit of a caveat, which is
+that this is all going to be based on kind of my assessment theoretical of the faction. It's not based on a significant
+amount of play experience. I have only recently been reworked. I have not had a chance to play them in any depth. And so
+what you're getting here really is my impressions of the rework and how I will go about approaching the faction over
+the course of N5 as I get into it and as I play it and therefore kind of how I would recommend you do the same. But if you have your own opinions, if you have
+your own thoughts, if you have gotten games in with the Imperial Service, it's likely that your opinions will deviate slightly from mine, and if that's based
+on lived and played experience, then it's probably more accurate. So, back yourself in that respect. But for those who are approaching Imperial Service
+kind of from first principles who are interested, here is my take on how they play in N5 post rework. Now, in terms of
+the general identity of the Imperial Service in N5 having been reworked, I would say that it's overall good modern
+sectoral design. And by this, what I mean is that there are a lot of interesting profiles, many of which we'll go through when we get into the
+army section. And there are a lot of interesting link options. There are many duos, which we'll be talking about,
+which are very appealing and interesting and mobile and powerful and flexible.
+But there are also some really interesting choices to be made about how you will use your hares your single hares and single core links which
+overall leads to interesting list construction. What I have been finding with Imperial Service is that even when
+I have kind of a solid concept that I want to work to, like I want to include X and Y and Zed, the first 200 points
+might shake out pretty cleanly, but then there will be really interesting choices to pursue. And even in terms of the
+sample list, for example, that we'll be showing off at the end of this video,
+the last like 28 points had multiple things competing, all of which I wanted to include. And what that means is kind
+of two things, both of which are very promising. The first is there's a lot of potential in Imperial Service. There's a lot to play with. There's a lot to chew
+on. There's a lot to explore. Even some profiles that I might personally consider to be okay, interesting, maybe,
+but not necessarily first choices in a list, other people will definitely like.
+And finding what works for you is very compelling. And I guess that's really the second point is that this is a faction that gives you the ability to
+find a style that works for you. And that segus into the strengths, the like sort of really solid and I think kind of
+clear strengths of the faction. The first of which is that if there's something you really want to do, there's a good chance that you can do it with
+Imperial Service just to rattle off a list of possible styles. Do you want a list that's built around a solid heavy
+infantry core? You can do that. Do you want a list that's built around a couple of like real showcase expensive dudes backed up by many cheap orders? You can do that. Do you want to do a hacking
+dominance or info war game? You can do that up to a limit, right? You may have to stretch to make that work, but you can do that. Do you want to do smoke shooting and albdo at the same time? You
+can do that. And it's going to be complemented by in addition to high mod play, you can complement that with pretty solid access to decent armor
+piercing rounds. Do you want to play shell games at deployment? You can absolutely do that. Do you want to do close combat backed up by smoke? You can absolutely do that. Do you want to do a
+bunch of stuff with electromagnetic and adhesive and paraccw shenanigans? You can do that. All of these things are kind of present in the sectoral. You will have to decide what to focus on.
+But that's a really broad list of capabilities, some of which maybe might lead you down a path that is not just
+bordering on meme territory, but has invaded, occupied, and rais raised its flag over the memest. And there are people who will absolutely want to lean
+into Imperial Services ability to do that. I have already seen several of what I would call dare you enter my magical realm lists that just have got
+decoys and camouflage and hidden deployment and everything out the absolute wazoo. But there's also just a tremendous amount of pick your
+capability, pick the things you want from that cool list of things the faction can do, focus on that, and you have yourselves a good list. That's a
+really solid place to start if you are looking to get into Infinity or pick up a faction and I think the Imperial service delivers that well. Now, that is
+not to say that the service does not have weaknesses. The first and most notable is that there are not that many what I would call high watermark
+profiles in the sectoral. You are generally not going to be trading on one powerful thing. There is no
+centerpiece piece in the Imperial service that's like, "Yeah, that's the thing that you take. That's super powerful. That's what will carry you
+through games. You are often not going to be the best at something, but if you have your list try and do enough things,
+you will probably be better than your opponent at some of them at list construction, and that's useful. Even pieces like the Sujan, for example, with
+its recent change on the close assault version, which is thoroughly fearsome,
+is fairly costed. Now, the next notable weakness or limitation of Imperial Service is that you are often going to have an identifiable lieutenant,
+particularly if you're trying to squeeze every ounce of capability that you can into a list. There is a wide variety of willpower choices in your lieutenants
+and not a lot of overlap and you are often not going to easily be able to include a decoy. Now, there is chain of command in the faction. It's accessible.
+It's not on a bad profile, but that still has its own cost. And so you have to in many Imperial services list make
+some choices about how exposed your lieutenant is and what you're going to do about that. On top of that, I mentioned that you've got access to
+things like electromagnetic and adhesive and power shenanigans. That's cool and that's interesting, but I would also include along with that the caution that
+non-lethal weapons are probably not as good as you think they are. Every now and again we will have these spikes of interest in stuff like electromagnetic rounds in Infinity. And it's very
+important to recognize a couple of things. Firstly, there are more countermeasures to that than have previously existed in the game. Many engineering profiles in N5 are very
+appealing and will be taken, which means there are solutions to non-lethal attacks against you. On top of that,
+there is switch on, which is accessible by every faction, which means that every faction will have at least one get out of jail free card against your electromagnetic rounds. And then
+finally, non-lethal rounds are non-lethal. In many circumstances, you are still going to have to kill the bastards. some of the time, whether it's
+because they are points in a zone or because they're going to be resetting on ones or twos and you can't wear that risk or because if you leave them alone,
+they will just recover the piece. There are not that many true mobility kills in N5. Yes, non-lethal adhesive
+electromagnetic power weapons can really stall out an opponent's turn, and that's really good, but don't overestimate the
+effect of non-lethal weapons on the game. They are non-lethal weapons.
+Finally, in terms of limitations, I would just make the note that the link teams can be pretty complicated. Once you get your head
+around them, they should make sense. But so far, in terms of lists people have sent me saying, "Hey, what do you think?" About 75% of them have included
+in some capacity a mistake about what constitutes a legal link team. Whether it's assuming something can duo when it can't or assuming something can can
+harice when it can only be a core. Some of the link options you have in the faction will impose limitations on you.
+And overall, I have found I can build around those fairly manageably, but it can be a bit complicated. You will need to get your head around it. When you are
+building Imperial Service lists, just stop and check and make sure that the links you're building work the way you think they work. Overall though, in
+terms of my initial appraisal of Imperial Service, I was not particularly hot on them during the showcase period.
+during the period when Corvis Belly was posting videos showing off profiles where they seemed to split their time evenly between showing off profiles that
+are not particularly good like the Palace Guard and showing off profiles that all already exist in the game but just removing armorpiercing rounds from
+weapons by AC accident even though those profiles still have AP rounds in the army builder post update. So, not a
+particularly appetizing introductory period, but the army update has dropped now and we've seen them and what I have
+seen looks pretty good. I am interested in Imperial Service. I may well be buying the Imperial Service pack cuz there's a few things in there that I'm
+excited to paint. And I think overall the faction slots into Euging Generally as a subfaction that is amongst the most
+powerful things Yuching has access to. I think it competes aly with vanilla yuching and I think depending on your personal preferences and what you are
+looking for in a list it will at worst achieve par or close par with the other sectorals and may in some cases
+outperform them which overall that's pretty sound good addition to the faction good rework. Now let's jump into army and run through a bunch of the
+profiles like a lot of the profiles that show off how Imperial service works.
+Now, we have a lot of ground to cover here, and we're going to start by going through what I would call the building block links. These will be things that
+are primarily core and hares teams. You get one of each of those in Imperial Service and because of their nature as
+core or hares teams, they will often occupy a fair amount of space in your list. And so, they tend to be built around a little bit more. There is going to be a lot of conversation about duos.
+There are a lot of really powerful duos in Imperial Service, but we're going to start with our meat and potatoes first.
+We'll go through each of the archetypal links that you can form and then sort of segue a little bit into things that can
+join them in terms of like building block wild cards once we've got through each of the base profiles. And so we are starting with celestial guard. Now
+celestial guard are the generic lion infantry of Imperial Service, but they are coming in expensive because of a number of things. Firstly, they have willpower 14. Secondly, they have BTS3.
+They also have dodge plus one, which is sort of the curse of many U-chain pieces. But what you are mostly paying for here is the willpower and BTS boost.
+That is actually kind of terrible for all of their profiles except for one.
+But that one is a pretty big deal. In practice, there are two and a half profiles that you care about on the Celestial Guard. Even though frankly
+comb rifle and light riot stopper is not a bad set of kit for a basic line trooper to have template weapons like
+the riot stopper electromagnetic ones like the nox troop zappers would be better but for 13 points you aren't getting a bad profile for the celestial
+guard. It's just that we don't really have space in our lists for the generic line celestial guard often and that marksman rifle is not worth your time.
+However, the hacking device is probably the best line infantry hacking device profile in the game. Not only does it retain the riot stopper, so for close-in
+defense, it's still fine. It is appealingly costed at just 14 points and half an SWC. And that is slightly more,
+I want to say, than for example the 13point Kappa hacker, but by comparison,
+the Celestial Guard has an extra point of willpower and three points of BTS and has a good template weapon. This 14point half SWC celestial guard is one of the
+best profiles of it. It's probably the best profile of its type in the game.
+Cheap hacking profiles. And you can basically splash it into any Imperial service list that has the slightest
+amount of repeater presence just to get a little bit of hacking into a list at a very low cost. The other piece that we're going to consider as useful in
+many lists is the combi rifle and smoke grenade launcher. Now, that's not a super appealing profile on its own
+merits, but smoke is incredibly rare in Imperial Service. It's not unknown, but it is rare. There are basically two
+profiles that have access to smoke templates, and this is one of them. And the other one is the Celestial Guard smoke grenade launcher in the Kangshi
+link. And Kangshi can only be a core link, which means that if you want a second source of linked smoke in the
+Imperial service, it has to be a Harris linked celestial guard smoke grenade launcher. Those two, right, celestial guards smoke grenade launcher and
+celestial guard hacker are basically the two interesting celestial guard profiles with a small shout out to both the lieutenant and the lieutenant decoy with
+the particular note that the celestial guard just generic dude can be a willpower 14 lieutenant in a list that
+also includes a sen warrior lieutenant who is also willpower 14. That is one of the rare cases of a shared willpower
+score across your LTS. And so you can kind of have a celestial guard generic pleb dude act as a decoy for a CN
+warrior just to make it a little bit less clear who your lieutenant is. Most of the time though in my list construction I have included a celestial
+guard harice team and it has been comprised of one hacker and one smoker grenade launcher and then one thing that
+I must put in the link in order to make it illegal Harice at list construction.
+Those are generally going to be either a quishi state empire tag support pilot. This is a fine profile for 10 points.
+We've seen it elsewhere in It is okay in close combat and is a specialist and has an assault pistol and it's fine. It's fine 10 points. It's a good 10point
+profile if you just need 10 points to spend on something to be able to form the link or the Imperial Service Dragon Lord judges. Uh now I don't actually
+think Dragon Lords are a particularly great profile. It's easy to look at them and be like, "Wow, it could kill something in close combat with that monofilament close combat weapon. It's CC-18. It won't with any reliability.
+Maybe occasionally it will. What this guy mostly is is an expensive war correspondent. Particularly since in the current IT season, war correspondents
+are specialists. But if that changes in future, well then the dragon lord will at least stay a specialist. And who knows, maybe sometimes he'll do
+something in close combat. The nanopuler is really the thing that sets him apart.
+Having a closely template weapon is nice and above and beyond that he's five points and can go into a celestial guard hares and then just spend his irregular
+order and leave. and the Harice team stays a Harice team. Admittedly, one with two people. So, he has kind of a jank way of using your Harice team to
+get a duo, even though celestial guards can't normally duo. So, he lets you take a celestial guard hacker and a celestial guard smoke grenade launcher and have
+them be a legal fire team just by being around them when the link is formed and wandering off by himself later. And he's fine for five points. Just please don't
+expect that monofilament to ever do anything under any circumstances. Next up, and as one of our our only only core
+options, right, we have Kungshi and Celestial Guard Monitors. One of the OGs of Infinity basically for three editions now. Celestial Guard and Kong. Now,
+these guys have coped a pretty significant nerf in the transition from N4 to N5, but are still fine. My opinion
+in vanillaing is that even though we can take these in vanillaing, we are finally free of their tyranny. in vanillaing in
+N4 and N3 really they were in every list because they were so efficient and especially in N4 that tended to create
+kind of one-dimensional list experiences. That's a thing of the past now. Vanilla Euching lists can be quite varied and that's awesome. Imperial
+service, however, they have more of a home. Now, you can build these. You can take an awful lot of these if you really wanted to. You can take two celestial guard monitors and eight Kangshi. Now,
+you can only form one fire team core out of those, but you can form one fire team core out of them. And what you get at
+that point is uh 10 regular orders for fairly cheap cost, which lets you do something ridiculous with your remaining pieces. I'm not sure that's a good list,
+but it is a list that you can take. More commonly, you will be taking these in Imperial Service lists because yeah,
+okay, it's re they are reasonably cheap order options. Six points for a regular order with a chain rifle is cheap and
+that's pretty good. And as a threeperson core, you can have a celestial guard monitor and two Kangshi. And that gives you linked smoke. It gives you smoke
+with plus one special die, which is reliable smoke even on ballistic skill 11. And because there's a bunch of really good smoke shooting in this faction, that's a nice thing to have. If
+you find that you need to have an extra order here or there, you want to fill some space, you just take extra Kongi until you have the amount of orders and
+points spent that you want. There really are just you fill your list up as you need, but no more. Don't try and splurge up to full fire teams, etc., unless you
+have a particular plan. Now, despite the nerf between additions, Kongi are still useful enough pieces. Uh the chain rifle and boarding shotgun, depending on how
+many points you have spare, are both fine. One of the things that is worth noting about Kangshi is that despite everything, they are ballistic skill 11,
+which means that their ability to gunfight, even just with random pistols on the train rifle profile, is not terrible. And if you have them linked
+and your opponent moves in on you, bear in mind that they are plus one special die range attack that you can use defensively. The boarding shotgun is going to be particularly useful in that respect. So is the chain rifle.
+Otherwise, they used to have dogged,
+they don't anymore. Now they are just explody boys. The dodging, dodge plus three and dodge plus2 in gives you some
+interesting options to mess around with your opponent, particularly since you'll be often getting dodge bonuses while they are in a link. Since we're taking a
+pure team of a celestial guard monitor and two Kangi, the Kangi will be dodging on 15s until they begin to lose members.
+And that can let them do some interesting and annoying things, getting into close combat where they do explode,
+etc., etc. But really, I encourage you to think of these guys mostly as force multipliers for the smoke on the celestial guard monitor. And occasionally, they'll do something you
+didn't expect. They are fine. They are mostly used in that small link team consideration, but you can use them as a
+platform for uh multiplying a larger and more powerful piece. So, for example, if you take a single celestial guard
+monitor and one or more Kongshi, then you've qualified for plus one special die in your fire team bonuses. And at that point, you can start doing things
+like adding Adel Mimmoot to a link where he adds a really quite serviceable gun and turns the Kangshi link into a
+genuine go out to things be active kind of fire team. So that's kind of cool.
+Overall, I'm using Kongshi in many lists, but they're very rarely for me at least the centerpiece. They're just a useful element that occupies some troop
+slots and are useful. Next up, we have a duo Harice and core option in the form of the wombing. And this is the last
+fire team we're going to talk about in terms of like heres and core configurations. There is actually a law and order fire team that can be either a
+duo or a hares, but those will comprise the bulk of our duo selections because you can build some very self-contained
+duo fire teams. Wooming, however, I think we want to think about we can think about them in terms of duos, but also we can often think about them in
+terms of hares teams and cores. And that is mostly because they are just very appealingly costed, solid, well-rounded,
+heavy infantry. Ballistic skill 13 is on the low end, but is fine. Armor 4 and BTS3 are good. And Vitality 2, they just they're just a heavy infantry link team.
+Armor 4 is the main thing that is setting them apart there, where you would compare them, for example, to terra cotta soldiers, which are only armor 3, and that does matter. Now,
+there are a bunch of significant profiles in here. One of the really big ones is the AP submachine gun and Emirat
+profile. At only 19 points, also packing a boarding pistol in order to have a template weapon in addition to the E-Marat. You have a PAR excellence close assault pace. Coming around a corner,
+this thing will be firing armorpiercing rounds with special die from the submachine gun and be able to fork with either the boarding pistol or the Iran as appropriate. And it is only 19
+points. 19 points for any heavy infantry that doesn't have limited or no cover is very solid. And these guys are just like
+bedrock, well-built, very attractively costed. And because you have that well-built, very attractively costed option, you can then start segueing into
+the cheap, the still cheap 22 and 23 point profiles, right? We have a heavy rocket launcher, EM carbine boarding pistol profile for only 23 points. We
+have emitters and AP submachine guns for just 22 points. We have a boarding shotgun or a firewall minus 16 tinbot for just 22 points. And then we get into
+the more expensive elements, but even these profiles are useful. We've got grenade launcher options. 27 is starting to get expensive, but you can get up to ballistic skill 14 with these easily.
+And ballistic skill 14 electromagnetic specfire certainly has its use. But mostly we also have the AP heavy machine gun. Now, this thing is a full 10 points
+more expensive than the heavy rocket launcher, but armor-piercing rounds,
+burst five, potentially ballistic skill 14. This thing is your like main firepower piece in a large piece, a large team of wombing assault core where
+you could also easily get a heavy rocket launcher for a supplementary gun. Like you can build a wombing core as the
+center of an Imperial service list very comfortably. The obvious limitation of the core is that it means that you don't
+get to have a Kong Xi core, which means that you're not you you'll be taking Kangi probably because these still are somewhat expensive heavy infantry, but you won't be able to link them, which
+makes the guard monitor a little bit redundant, but you have just this big heavy element that can be the core of a list, which gives you an entirely
+different style of playing Imperial Service, which means you have one more relevant tactical and strategic option
+to explore, which is really Cool. I like wombing a lot. They won't feature in the sample list I'm showing off at the end of this list just because they are kind
+of buildaround, but whether you want to take just the two of them or a larger team, you can make a lot of use out of wombing. They're a really nice addition.
+They've always been a solid, particularly over the course of N5,
+they've been a very solid element of the sectoral and that hasn't changed with the rework. Now with our primary core
+and heres options sketched out, we now want to take a look at some of the wild cards that can join these teams. And that starts kind of unfortunately by talking about Imperial agent crane rank.
+Now the crane rank agents in addition to being wonderful models are always and invariably across every edition of Infinity the pet profile of someone, but that someone is not me. For my money,
+crane ragent, crane rank agents are kind of the classic example of how even in
+N5, it is possible to slap so many superfluous skills onto a profile that it becomes untenable. N5 is much much
+better at accommodating those little interesting flex skills that give profiles personality, but the crane rank goes too far. And it's packing an Xisor
+and combat instinct and courage and a really long dodge distance and martial arts level three and a whopping CC24
+score. And all of that kind of adds up to these profiles are way way too expensive for what is ultimately an
+armor for armor 4 willpower 14 BT ballistic skill 13 set of guns. All we
+need to do is compare Imperial agents with the 33 point woming assault core AP
+HMG and you kind of can see what you're like how much you are bloating the profile out. The wombing costs 33 points
+for a blissic skill 13 armor 4 to wound AP HMG. A crane rank agent costs 16 points more than that and has in
+practice zero performance delta. The Xiser might do something under some circumstances, but for practical purposes, you are paying 16 points worth
+of guff and that is basically consistent across every one of these profiles. I do not recommend Imperial Agent Crane rank,
+but they do have so much going on that invariably they will be the pet profile for someone. And if you can find those
+16 points in a list, which is very non-trivial, find the 49 points to take,
+for example, the AP HMG, well, odds are in any given game, something in that grab bag of skills is going to be useful. Worst case scenario, maybe you
+get them into close combat and that CC24 pops off and you get to hit someone with a serviceable DACCCW. Now, a better
+example of what you can get for your points cost if you want to invest in a full grabag style profile is Imperial
+25 minutes
+Agent Adilu. Now, he is for all intents and purposes a crane rank. He is very, very similar basically across the board.
+He has one point lower willpower and one point lower close combat, but for basically the same points cost, maybe
+very very slightly more expensive, you get a bunch more skills, but which have a little bit more utility. So for
+frankly not very many more points, we get deep breath, ballistic skill attack,
+continuous damage, and a deactivator and number two and a sensor and specialist operative and warhorse and a disco
+baller and our close combat weapons become a paraccw and a monofilament CCW. Those are all things that
+differentiate adult mammut from a crane rank. And while they still do the crane rank thing of, "Boy, you sure are paying
+for a kitchen sink worth of like extra skills and equipment, everything I just listed is more likely to be relevant
+than the things that bulk out the cost of the crane rank. Warhorse is likely to be relevant. A sensor is often likely to be relevant. Ballistic skull attack
+continuous damage on a linked AP Spitfire is absolutely more likely to be relevant. The close combat gives him some interesting options and lets him go
+toe-to-toe with basically anything in the game, particularly because of that paras if he needs to. The disco baller is likely to be relevant because Adelu
+is good in close combat. He's a specialist operative. That is very likely to be relevant even though he's only willpower 13. And what it means is
+that although Adil really is, he's still just ballistic skill 13, which means that he really benefits from being in a link, he is nevertheless by himself kind
+of a do everything piece. He has visibility control thanks to the disco baller. He shoots reasonably well. He fights well in close combat. And he's a
+specialist. You can't really argue with that. Now, I am not personally putting him in that many lists cuz there are other things I can spend 49 points on.
+But if you want to lean into the crane rank style of heavy infantry, I would probably recommend doing it with Adal
+before doing it with a crane rank. Now stepping down from our crane rank agents into the other Imperial agents which
+serve as I want to say wild cards. No sorry not wild cards but models that can go in a great many of the links we have
+discussed. We'll start with the pheasant rank Imperial agent. Now, these models can't join Kangshi fire teams, but they
+can go in basically every other fire team, and they are an interesting grab bag of skills on what is otherwise a
+medium infantry, which means single wound, armor 2, BTS3, not particularly good ballistic skill. You're paying a lot of points for a model that is ideally never going to be gunfighting,
+but you do get an interesting grabag of skills as a result. And I don't think most of the pheasant ranks are actually
+particularly overcosted because what we're getting in this package is a willpower 14 specialist because every pheasant rank has chain of command.
+Chain of command as we've mentioned is a valuable skill in Imperial service because we're often going to have an identifiable lieutenant. And the only way to get chain of command is with an
+Imperial agent phasant rank. They can join many of our links and they have strategic deployment. and having strategic deployment on a model that you
+don't have to reach too far to include in a list is once again something that is interesting. On top of that, we have
+a reasonable selection of profiles that are kind of okay to use. There is a tactical awareness red fury profile that
+I have seen some people include in some lists. I would encourage you to think of that as a ballistic skill 12 red fury for 28 points. I.e. probably not.
+Tactical awareness is good, but it is not that good. But basically every other profile has some merit. Both of the
+hackers are obviously whip 14, BTS3 hacking profiles, whether that's KHD or a regular hacking device. I am a little
+reluctant to make my chain of command a hacker because it tends to give my opponent an easy secondary assassination once chain of command has kicked in. But
+29 minutes
+even if we set aside our hacking profiles on that particular prejudice,
+we've still got a 27point doctor profile which is again expensive but consider that we are also getting chain of command and strategic deployment and
+it's a doctor that can join a great many links and is with 14 or the more discount option a boarding shotgun emitter mad trap mine layer profile. Now
+that mad trap mine layer will benefit from strategic deployment so you can get it a little further forward. Mad traps are nice. A boarding shotgun and an emitter is not the worst weapon
+combination. Like this is a fine profile for 23 points. 23 points for chain of command is kind of pretty close to what you would pay in many other sectorals.
+And since you're getting strategic deployment and a mind layer at the same time, that's a kind of easy profile to include in a lot of lists. Not
+necessarily for every list. I believe we don't have one in the sample list I'm going to show off at the end of the episode, but could very easily have been included. just would need to displace
+something and slot into a link. I like pheasant ranks. I think they are one of those profiles that does the imperial
+service grab bag of skills kind of thing, but particularly the doctor and the mind layer do it in an interesting way that is just about includable in
+lists and you get you get something interesting and useful out of that inclusion. Now the third and final imperial agent is the Xanying Imperial
+Agent and these guys are a little weirder. Now, they can join many link teams. They can join wombing fire teams
+where they count as wuming. And they can join law and order fire teams where they count as law and order zeon. I'm probably mispronouncing that. I think
+the most relevant place for them is either in some kind of a law and order duo or in a wombing team. And look, if
+we're being perfectly honest, there's like one relevant profile here, frankly, uh, and that is the hacker profile.
+Basically, none of the other profiles are interesting or worth the points. You absolutely do not need a 26 points 26 point ballistic skill 12 heavy machine
+gun, but the hacker combines everything else about the Xanying in a surprisingly solid package. Uh, it's just packing a
+breaker combi rifle. That's on the expensive side, but who cares? What you get is a BTS6 immunity BTS, which means
+things like Oblivion will not punch through the BTS. Willpower 13. Not great, but fine. Hacker with zero pain and a pitcher. And the pitcher is Ballistic Seal 12, who can be linked.
+Now, 25 points is still on the expensive side for what is ultimately a willpower 13 hacker. But if you want network
+projection in Imperial Service, this is basically the one and a half way to get it. There is one other option apart from
+just moving remotes forward that is worth considering, which is a deployable repeater on an airborne unit. And there's also a deployable repeater on an
+infiltrator that we will cover. But if you want a pitcher and you want a linked pitcher, it's the Xanyanging. The Xanyang is the only way to get it. But
+if you want to play info and since we have that 14point celestial guard profile and we have a couple of good killer hackers, one of which I'll get to
+soon, then the Xanyanging Imperial Agent is the way to do network projection. And since it is also a very hard tokill
+hacker because zero pain BTS6 is just solid and it's got six cents which means it's a hacker that nullifies stealth which mean like all of those things
+right all of these little things add up to make that one single 25 pointing profile actually a really good profile.
+Basically the cornerstone of any infowar Imperial service list but is the profile that enables an infowar imperial service
+list. Now, from here, we're going to segue into uh five separate, for lack of a better term, power couples, power
+duos, twoperson teams that I think are worth considering just as their own entities. Now, it's worth bearing in mind, this is not an exhaustive list.
+There are a bunch of different ways to build different duos. For example, when we get to the bow troop, we should think back to the Xanding Imperial Agent as a
+potential pair for them. But there are an awful lot of really solid duo options in Imperial Service, which as I
+mentioned in the introduction, I think is one of Imperial Service's core strengths. And so, we're going to start with the Cien Warrior. Now, make no
+mistake. This is a profile that, like many other heavy infantry and medium infantry in Imperial Service, is paying for things that it will not always use.
+You are paying for martial arts and close combat 21. And although those are not too expensive these days, they're also not free and it pushes the cost of the Sen Warrior up a little bit.
+However, once you account for that, the Sen Warrior is still a ballistic skill 14 MSV2 good shooting profile with a
+selection of nice weapons. But the heavy machine gun is probably the most interesting one with the multi marksman rifle being a a distant second. But you
+get a heavy machine gun that is firing four dice and one special die through smoke in a faction that has good access to linked smoke. And that's that's just
+good. That's good in N5. Being able to smoke shoot lets you put down an awful lot of things that people are using as ARO pieces. Whether it's stuff like
+Phoenix or John Hawkwood in anything short of a fivep person link or total reaction bots. Even if you just need to
+sweep a bunch of turrets away, a C warrior that's smoke shooting can relatively comfortably do things like split burst and potentially put down two turrets per order. And for that reason,
+I am including a Cien Warrior in a duo in a great many of my lists. Now, there are some profiles that you might
+consider here that are like sort of a bit more niche than the HMG or Lieutenant HMG if that's your poison. The multi marksman rifle profiles,
+including lieutenant plus one order multi marksman rifle profiles and the specialist operatives are things that you could consider, but I am not running
+out to grab those. Uh, multi marksman rifles, even with a special die, they are only damage seven. And a multi-
+rifle is just not a piece I want to take on a 48 point model. That's too expensive. It takes too much work to get anything out of them. Yes, it's plus one
+tenant order. You could potentially have the sand warrior spend that LT order and run off into the wild blue yonder. But as I mentioned, I want to take him in a
+duo. And for that reason, for me, the two most common profiles will be either the HMG or the lieutenant HMG. Now, in
+terms of who can duo with the Cien Warrior, there's realistically there's one choice because there's only one thing that counts as a Cien Warrior, but
+it's a pretty good thing. Uh, and that is the Shinji Ying. Again, mispronouncing everything. I apologize.
+Divine Machine Battalion. This is an engineer, but it's an engineer that counts as a Cien Warrior and duos with
+him, which means that you get the duo bonuses on the Cien. And there's a pretty solid other set of equipment that's going on here. Deactivators are
+nice in this addition. It's a willpower 14 engineer when it's doing engineering roles. Now, my assumption is when it is performing any other specialist role, it
+is just willpower 13 uh because you're not making an engineer roll when you,
+for example, try and press a button. But that's fine. It's still a willpower 13 specialist that will get specialist bonuses sometimes. And we have for I mean, we do have a Thunderbolt profile if you wanted to shoot with this thing.
+An AP Thunderbolt is something that you could consider. But realistically, most of the time, what you'll be taking is one of the turret profiles here. And my
+personal recommendation between the two is the emitter turret. Now, I have mentioned at the beginning of this video that uh non-lethal weapons have limitations. Yes, they absolutely do.
+Nevertheless, electromagnetic rounds on a turret are pretty good. The reason why I recommend the emitter turret 21 point profile second from the bottom there is
+that I've been doing a bunch of experimenting recently and my broad conclusion is that if you can turrets with very forgiving range bands are much
+more powerful than ones that are bounded by like rifle rangebands. It is very easy a lot of the time to put rifle
+rangeband turrets just in a bad range to engage. A rifle rangeband turret is going to be necessarily more limited if you are trying to keep it always in its
+good range. Whereas an emitter or a thunderbolt turret for example, in this case we have an emitter turret is just hugely flexible in where you can deploy
+it. You can take advantage using the fact that it's a perimeter weapon when it deploys to just see all of those revoling places that people don't think
+about when they're setting up tables where there's a huge amount of visibility. You can just put the turret up there which means that your opponent has to deal with it. It's much easier to
+force your opponent to deal with an E meta turret. And if you force your opponent to deal with it, then you give yourself that chance to win a facetof face roll or crit, which makes the
+turret pay off in a big way. And since we are taking the Shenzhi anyway to duo with a Sen Warrior, and it's not too difficult to get backage into this
+faction. Well, boy howdy, we can throw out a bunch of emitter turrets over the course of the game. And that is thoroughly worth 21 points, particularly
+when you add in all of the other stuff that the Shenzhi is doing. Now, you can also use this to open up the ability to play kind of a mechanized style of play
+since we're taking a sin warrior anyway and taking a Shenzhi Ying to duo with that or we have an engineer with a gizmo kit. So, we could theoretically run a
+bunch of remotes and there are interesting remotes that we can put in this faction. Now, you don't have to pursue that as a list building option,
+but since the sujan is around in this faction anyway, it's not bad to have an engineer that can pick it back up if it goes down or takes any wounds. Overall,
+I think although 21 points is not exactly cheap, the divine machine battalion is one of the really nice additions to this faction. And why
+didn't they show this off earlier rather than showing us off things like the palace guards, which are a crap profile,
+but a beautiful model? I'm not going to tell Corvis how to do their marketing,
+but this profile is one of the nice ones in the sectoral. Now, speaking of remotes and duos that include them, we
+have the DVA functionary and Dini fire team. Now, there are an awful lot of DA functionaries and I do not intend to go
+39 minutes
+through all of them. I have a soft spot for the DVA Davot Lieutenant, which means you can use your lieutenant order to move the DAB bot around. But what we
+are actually interested in here is the 20 point killer hacker. There are there are other like da profiles. Davas are not bad, right? Immunity isolated is
+interesting. No incapacitation is obviously good. They're a fine set of skills, but 20 points for a willpower 15, BTS3, no wound incapacitation,
+killer hacker that is immune to being isolated is a really good killer hacker.
+Like that is par excellence. You cannot ask for better than that for 20 points.
+It will fight enemy jewels against killer hacking models because it's got no winner capacitation and BTS3 to help get through those fights and it can pick
+on enemy hackers, generic hackers nicely because it's willpower 15 and is immune to being isolated which means that you can't just oblivion it back and that
+makes it a fantastic bully piece. I wouldn't necessarily ask it to go up against something like an anathematic for example, but anything short of that will power 15 is very good. and it's
+only 20 points and has a boarding shotgun for closer soul. While you're taking that anyway, you may as well duo
+it. And what we do with, we will duo it with a Dini Tacbot. In particular,
+either the 1SWC 21P point heavy machine gun or the 1 and a half SWC 19 point multi sniper. Uh you will generally want
+to consider supportware once you get particularly in something like the multi sniper because a Dini is only ballistic skill 11, but it has mimisism. It has
+special plus one special die from linking with adva that is just a super self-contained 39 to 21 point team. It's
+got a very good specialist and a solid gun and it's just two troops and gives you just sound firepower and part of a
+very solid hacking list. Dinis are not a piece that you should overestimate. Again, this is like 19 to 21 points.
+It's a remote. It's got mimatism and it's linked. But since it is linking easily, both the multi sniper and the HMG are very viable and we can push that
+viability further due to the fact that we have access to highquality linked engineers that might be able to move in and support it or gizmo gizmo kits
+elsewhere and supportware. And we're starting to see how you can build a list out from, you know, 5 to 7 to 10 pieces
+that all complement each other well. And you will see that in play in the list at the end of this video. Making use of things like the divine machine battalion
+and support wear. Support wear on the Evobot also providing baggage which means the machine battalion can reload.
+Support where is buffing the Dini Tacbots. The divine engineer can repair the Dini if it goes down and is buffing the Sin Warrior, right? Like a lot of
+these synergies begin to come together in pieces like this. Now next up in terms of our power couple duo teams, we have the Bow Troops digital watch unit.
+And for anyone who has been playing Infinity for more than just this edition, uh, let us just pause and celebrate the thing that nobody ever
+thought would happen, which is that bow troops are basically okay now. Now, I'm not inclined to push it any further than
+that, but that is not something that any of us ever thought would happen. It seemed impossible as little as a year ago, and here we are. They're basically
+fine. Uh, all of those profiles could theoretically see use as part of a duo.
+Obviously, the interesting elements are that you have an MSV2 and therefore can smoke shoot off the back of the linked smoke that we have access to in this sectoral. Now, basically your mileage
+may will vary as to which of these profiles the Thunderbolt or the multi sniper you prefer. The Thunderbolt has higher burst. The multi sniper is more
+dangerous. The higher burst comes at the cost of thunderbolts are not particularly dangerous if they hit. Pick your poison. The interesting thing here
+is that once you add smoke into a bow troop, you will almost always have some kind of negative mod that you're applying to your opponent because you
+have albo, right? You can smoke shoot with the MSV2. And if your opponent would be able to shoot you back because
+of a visor, well, you have albo to help counter that advi that uh that visor.
+And you do kind of need that because at the end of the day, the bow troops are only ballistic skill 12. But it's not like the other profiles that you can complement a bow with are particularly
+expensive. And if I'm looking to do something interesting while also, for example, giving duo bonuses to a Zanyang Imperial Agent, this is a fine way to do
+it. I don't think bound troops have flipped over into wow, these are actually excellent. But the skill combination, particularly Albo and an MSV2 on a serviceable range weapon,
+that's pretty interesting. Next up, and second to final in our power couple list, is Miranda Ashccraftoft. At this point, she doesn't really need much in the way of introduction. Uh,
+marksmanship, ballistic skill 12,
+mimitism minus 6, emitter plus one burst, links with a 12-point bounty hunter. That gives you either an effective burst for emitter with
+marksmanship and mimics in active turn or a plus one special die emitter in reactive turn. And that's good. Like
+that's just good. It's very annoying for many lists to play against that. If your opponent is trying to trade heavily on a tag, for example, it can just take a
+long time to deal with Miranda and you can force them to be a little bit KG in terms of hiding from her in their
+reactive turn. Now, I really do think that Miranda is one of those pieces that more than anything else really bears
+remembering that non-lethal weapons are non-lethal. There are almost no tags in the game these days that have no chance
+to reset out of isolated and immobilized. Switch on also obviously just cancels everything that she does.
+And engineers are quite common in N5. I don't think she's as good as many people think she is. And 28 points is starting
+to get into that points cost where you can't afford her to do nothing. And she's an armor one single wound infantry. And if she does run into one
+of the things that counters her, she becomes really not very useful. Like all you need to do is play Miranda Ashccraftoft against vanilla Panosia
+running a bolt duo to realize that it it's it's not the time for her anymore.
+And if you play a game where she is she and her bounty hunter are 40 points of dead weight, it can be really challenging to deal with that. But those
+are still nevertheless relatively limited circumstances. and she's a burst for marksmanship mimatism 6 E meta. I don't really need to sell that anymore.
+Now, fifth and final there's been a lot of profiles to cover. Fifth and final on our power couples duo ranking, not ranking, just power couple duos because this is one of the good ones is the
+sujan coupled with a sujan or frankly by itself or with any of the other things that it can be linked with including a
+tag if you want. A sujan has been just one of the terrors of infinity for as long as it has existed. And N5 is really
+no different. Now, yes, climbing plus compared to N4, not as good as it used to be. This thing is still very fast and very dangerous and shockingly durable.
+And with the rework of Imperial Service,
+there is a profile, the heavy shotgun profile that has been reworked slightly.
+Technically, it's more expensive, but I think we want to actually look at kind of in detail cuz there are a couple of things here that we wanted to consider.
+There is, to my knowledge, no plus one burst, boarding, or heavy shotgun profile in the game that is bad. And the Shujun is no exception. Uh it is packing
+a plus one burst heavy shotgun which is just astoundingly dangerous at close range particularly since it is able to fork it with a burst two light
+flamethrower. Now just by themselves those would be great. That would justify the existence of the Sujan but it also
+in N5 has a thunderbolt. Now a thunderbolt just by itself is not a terribly outstanding weapon. It's just burst two albeit ballistic skill 14 in
+the combat form. But there are two particular use cases we want to consider for that thunderbolt with the sujan. The first is if you get this thing all the
+way through your opponent's deployment zone, you are moving 84 most orders.
+Wait a minute, you might say it's 82 in mobility form. Yes, it is, but it can transmute at the beginning of any short skill. Which means that typically you will move 8 in in the high mobility form
+and then 4 in in the combat form. As far as I know, that still works in N5 just like it did in N4 and N3. and 12 in of
+movement without having to worry about things like super jumper parabas is not to be sneezed at. What that means is that it's often going to be possible to
+get all the way to the very back of your opponent's deployment zone. And at that point, having a gun that can shoot up the length of the table is often a
+really big deal. On top of that, I think in Imperial Service, we want to start considering the possibility of the
+reactive sujan. Now, the only way to get plus one special die on a Sujan is to pair it with another Sujan, which bare minimum is setting you back 92 points,
+but no S SWC. But this thing is like tough as guts to try and kill. It has that interaction between remote presence and
+no wound incapacitation which means that it has two unconscious states and it can trigger no wound capacitation even if it enters uh unconscious two in the turn
+that it goes unconscious which means that it is very very difficult to put a sujan all the way to dead in a single order. almost never happens. Which means
+that you can use these things as reactive pieces. And if you just have two sujans in combat form, they are ballistic skill 14 plus one plus die,
+thunderbolt and heavy shotgun, armified BTS 6, and kind of effectively four wound pieces who will be intending to
+drop prone as soon as they take sort of any damage that you might want to repair. Now, they're just thunderbolts,
+but thunderbolts have got extremely forgiving rangebands. And even a tag is not going to just walk into the open and take thunderbolt hits without any kind
+of recourse. Nothing wants to just take free hits, and you can just keep shooting. Like, if your opponent ignores them, you just shoot them. If your opponent uh tries to engage you, well,
+you're incredibly durable and you waste a bunch of their time. This doesn't feel like the ideal use case of a 46 point close assault piece, but the fact that
+you can do it, provided you set up the like guts withdrawals and then repair them in your next turn is something that
+I don't know if people have cottoned on to yet, but I'm kind of horrified by now. It is a very significant investment. I don't think it's for every list, but it's something to consider.
+And failing that, you still have the 46 point Sujan as a tremendous dangerous close assault piece, etc., et, etc. If
+you're taking one of these, a good thing to do is to include some ability to go after enemy hackers because rapid offensive units that are hackable are
+very difficult to make full use of unless you can deal with enemy hackers.
+Although, the Sujun at least has the ability to cautious move 8 in, which can be a really big deal. Overall, just like it has been in previous editions, the
+Sujun is one of the centerpiece elements in the Imperial service. You can use it in a bunch of different list configurations, either singleton or potentially in a duo if you can fit
+them. It's very good and you should probably own one if you play Imperial Service. Now, from here, we're going to get into the solo and singleton pieces.
+And there's there's still a lot to cover. And we're going to start with the Kogan ninjas, which are one of the most interesting additions out of a whole lot
+of interesting additions in the is update. Now, these can be a slightly tricky profile to actually pass in full,
+but what I want to draw your attention to, like all of them are basically worthwhile. What I want to draw your attention to in particular are the profiles that have camouflage and
+forward deployment and also have Mim 3 and also have decoy and also have specialist operative and also have a bunch of interesting equipment. The Kogan Ninja, although they're not cheap,
+27 to 30 points for the camouflage versions, uh 25 to 28 for the parachutist, I am not leaning toward the parachutes profiles. I think Kogas do
+their best work as for deploying camouflage marker pieces, but these are really interesting profiles, and I've
+said that a little bit over the course of this video. My personal favorite is the mine layer, although the killer hacking device with carbonite is very,
+very good as well. And what you get with these guys is two or three matism, three camouflage markers, which means they bring their own fog of war. You get 62
+move and the camouflage skill on a very serviceable close combat model, right? Martial arts 3, CC23, and an EMCCW.
+That's the good stuff. That is getting into the territory where there is nothing that is willing to just wear attacks against these for free. They are
+dangerous. They're also not a profile that you can just disregard and attempt to freely discover as they move forward
+because they have a ballistic skill 12 plus one burst electromagnetic carbine.
+And as much as EM carbines are a non-lethal weapon and non-lethal weapons do not by themselves tend to win the game, non-lethal weapons have to be treated with an understanding of the
+fact that they are an enabler and limited. You still don't want to just take an unopposed burst three EM round
+to the dome. Uh, and so like all of this combines with, oh, and by the way,
+there's an EM mine. EM mines are very good mines. The killer hacker has carbonite, which is fantastic, and has a deployable repeater. Like this is this
+is just good. This is just a good profile. Yes, it's a little bit expensive, but the fact that it brings its own fog of war and is dangerous,
+like I like these boys. They combine just a bunch of skills that are really good on models of this type and are
+very, very dangerous in close combat and are specialists. just a lot to recommend. Next up, and once again, just
+an absolute ton of skills and profiles to have to kind of work through, we have the Imperial Vanguard. And I'm not going to try and pronounce that name because I
+am terrified of saying something slightly rude on you YouTube that we won't. So, we'll just call these guys the Imperial Vanguard. Uh again there's
+a lot to unpack here and I don't intend to go through them in great depth but to draw your attention to a few particular things we have ballistic seal 13
+ballistics attack plus one burst mimatism minus three. Now in this case I think both the hidden deployment infiltration and the parachute
+parachuters profiles are both good. Your mileage may vary on what you prefer, but my like go-to in the shortterm profile would be the hidden deployment,
+infiltration, surprise attack, burst three, boarding shotgun, burst two, heavy flamethrower, Dcharges,
+specialist. 28 points is not cheap, but ballistic skill attack plus one burst on those weapons with
+infiltration is potentially just cracking open a game. the absolute like even if they just reveal in ARO, that's
+still a heavy flamethrower that your opponent maybe didn't expect in the midfield. If you are moving a link team anywhere past the halfway line against
+Imperial Service and you have not accounted for all 15 of their troops,
+well then there's a chance that one of these guys is just lurking around a corner with a heavy flamethrower. And so these guys have got real performance
+potential in addition to being a specialist, etc., etc.
+not necessarily a a piece for every single list because they do still they are both parachutist and hidden deployment pieces. They don't have camouflage which means that they have to kind of be the hero of their own story,
+right? They aren't bringing an order that anyone else can use initially. They are reserving that order for themselves to appear somehow and that does impose a limitation on other parts of the list.
+But I think overall the potential of these guys is really really solid. Uh and they're one of those pieces that I look at and I'm going I am looking
+forward to seeing what the high watermark of performance with those things is because it is potentially gamewinning. Now we need to move quickly
+here, but we have a couple of honorable mentions. Uh the can counterinsurgency group I think with the rework it it's good. It's very solid. Mimatism 6 and
+bliss 13 are good skills. Now ultimately this guy is not deploying under a marker state. He's relying on decoy to survive.
+And that's not exactly the same as being able to camouflage, but as part of a dare you enter my magical realm style of
+list, there is potential there. I won't go through every profile other than to note that I think that all of those profiles have potential. I see a
+55 minutes
+boarding shotgun plus one burst. I hit like. Those are my personal preferred profiles, although they are on the more expensive side. Second honorable mention
+is Sunsu. Um he's very expensive but counter intelligence strateg level two and lieutenant plus one order. Now I
+think overall he is he's too expensive to put in that many lists cuz 53 points is a lot of points but uh if you do
+include him in a list he's going to generate an awful lot of orders for you and I think has the potential to actually be a go ham on the last turn of
+the game kind of piece. It's really not worth underestimating how durable this guy is. And he has a pulsar and a Vulcan
+shotgun. Seriously, this guy is tougher than some tags against certain kind of attacks. Armor four, two wounds and no wound incapacitation. And he has total
+immunity. Anti-semitism and he gunfights kind of okay in the sense of I'm going to either hit you with a pulsar or if you dodge I'm going to hit you with a
+Vulcan shotgun. Um he is not a piece that you want to Rambo forward early because if he does get isolated etc.
+that's a huge pain even though he is immune to a lot of the things that might cause isolation. But two extra orders is two extra orders and in the late game he
+has Rambo potential himself. Very much a occasional piece, but yeah, he's an occasional piece. Put him in some lists.
+Last and final honorable mention only because I felt like honorable mention was the best place for the Ginya drop troop is the Gunya drop troop. He's just
+a little guy that's doing his best. An actual like a wonderful model. One of my favorites and very characterful. This is a little guy that is not always going to
+do everything that you might want, but he's like 17 or 18 or 19 points. There's only so much that you can ask. Uh,
+basically all of the cheaper profiles I like. And if we're talking about the things that are good, he has combat jump landing on a 13 or can parachute. He has
+albo, which might matter, 62 move, but again, combat jump. So 62 is actually really nice because it means that it can move 6 in and shoot and have cover or it
+57 minutes
+can use combat jump to get around. If you have assisted jump up, it's landing on 16s. It's got decent armor, decent BTS, decent ballistic skill. It's very
+cheap, and the cheaper profiles have a nice combination of weapons that do things. Uh, you have heavy riots stoppers on all of them. And again, my
+caveats about non-lethal weapons notwithstanding, dropping a heavy riot stopper in your opponent's deployment zone is likely to be a huge pain for your opponent. Then we have boarding
+shotguns and submachine guns and a nice collection of other pieces of equipment.
+Paramines. Again, uh my comments about not only weapons notwithstanding, a paramine is still annoying for your opponent. Deployable repeaters are very
+annoying for your opponent, and the paramedic is a specialist. There is a lot you can do with these guys. And although they will not always perform,
+17, 18, and 19 points means that they don't always have to, which means that the Ginya wins the just a little guy doing his best award for ISS terms of
+profiles that can be included in a list with limited expectations and get a gold star for best efforts when they do actually perform. Now, last up, we
+should talk about the tag, and it's the Long Wang Imperial Tag Police. Now, for my money, the Long Wang is just very,
+very slightly too expensive, but it is only very slightly too expensive. I think you will generally want to be taking either of the heavy machine gun
+profiles. Your choice as to whether you want an NCO or not. It will be down to if you need an N. Like, for example, if you're taking Sunzu, you would not take
+the NCO long Wang. If you're taking a piece that will regularly use the lieutenant order, you won't take the NC longwang. Otherwise, you probably will.
+Now, 74 points is as expensive and more expensive than many main battle tags,
+but if we actually look at the Long Wang's profile, it's got quite a lot of main battle tag energy about it, and that's kind of easy to overlook. So,
+it's proper 64 movement. It moves as fast as any tag. It is blister 14, which is as good as any tag. It is armor 7 BTS
+6, but is only silhouette 6, which is really gold standard stuff if you actually think about it. Like most tags
+have to choose between armor 7 and 8 and being silhouette 8 or armor 6 or less and being silhouette 6. I actually think
+the long wang might be one of the only silhouette 6 tags in the game that has proper main battle tag durability. On
+top of that, it has the exc the excellent ballistic attack minus three skill, which combines very nice with its weapon suite, which is heavy machine gun
+and adhesive launcher rifle for closer in range and a light ripper plus one burst. Any of those weapons, including light light ripper plus one burst, will
+benefit from ballistic attack minus three, which means that if you're trying to like hit someone with a light stopper, it is hard to dodge, for example. Now, the big elephant in the
+room is that that is not an armor-piercing heavy machine gun. And that is the reason, not unreasonably, why quite a few people are not particularly hot on the long Wang.
+And I think that's not unreasonable.
+When you take a piece like this, you wanted to be able to engage anything potentially. And a long Wang, for example, does not want to have to engage
+1 hour, a yumm or an avatar or a cutter. And if you have a 74 point piece that does not want to engage an element that your
+1 hour, opponent has, you may have some issues finding a tool in the rest of your list to solve that problem. I am willing to
+1 hour, forgive that because if you give me a main battle tag compressed down into a silhouette six piece, you have a piece that I like and the long Wang is a piece
+1 hour, that I like as a result. I think the fact that it has almost all of the virtues of a full main battle tag in a
+1 hour, much smaller profile. Admittedly, at the price tag of a main battle tag is something that makes it worth considering. I don't think it's an every
+1 hour, ISS kind of list piece because there is a lot of other competition at the about 50 points kind of space that eats up the
+1 hour, points in WC that you might spend on the long Wang. But it's not hard to get a pilot into a list to buff the long Wang.
+It's not hard to get a good quality engineers and gizmo kit into a list to support the Long Wang. And if you do all of those things, it's a piece that can
+absolutely perform. I think people being down on it are being unfair because at the end of the day, ballistic skill 14,
+B attack minus 3, armor 7, BTS6 tag on a smaller body is really, really solid.
+And with that, with many profiles having been gone through, let's jump into a sample Imperial service list that I have
+constructed for your perusal that shows off some of the priests that I've been talking about so far. So, we have a 105
+split here starting with a celestial guard monitor and two Kongshi. This is a threeperson core. I haven't elected to
+add for example Adil Mammoot into this and it exists purely to do a little bit of deployment zone defense and throw out smoke because in this list we're making
+quite a lot of use of smoke shooting. We then have that Dini and DA setup that I mentioned. Dini has a multi sniper in
+this case because the list otherwise is a little bit short on armorpiercing rounds. I want to be able to engage enemy tags if I have to. And one of the
+ways that I will do that in this list is with a marksmanship mimism 3 plus one special die element that I can repair
+easily if it goes down. Up next, we have a rushi msv2 with spitfire. Now, this is just in the list as another bufferable
+MSV2 element to make good use of smoke shooting, but this is one of the pieces that could very easily change. There is a 10-point piece at the very bottom of
+this list, the long-wing pilot that is really there just to let me legally form a celestial guard, Harry's. And that
+long-wing pilot could be downgraded to a dragon judge, which gives you five more points. And with five more points, you can turn the rushi into anything that
+costs 28 points or less in Imperial servers. And there are a bunch of things that cost 28 points or less that could be really, really appealing. We can
+1 hour, 3 minutes
+start looking at things like Zangi Imperial Agent Pitchers or the Imperial Vanguard. Like there's a bunch of profiles that we might elect to engage
+with. Even a second Koga Ninja is something that you could very very easily put in this list for those points. Uh next up, we have a Sujan.
+Just the one. I'm not attempting to do the duo thing in this particular list,
+but a Sujan is very good. And so I have a Sujun. We then have a single Koga Ninja. It's the mine layer EM carbine
+emion profile. three different camouflage markers. Now, one of the things that you can do with that Koga is use the decoy to pretend to be Major
+Luna. Major Luna is a piece that I didn't cover, but she is another element that can do interesting smoke shooting in Imperial Service because she has an
+MSV1 and triangulated fire, which means that she can see through smoke and declare triangulated fire and effectively have an MSV2 for purposes of
+smoke shooting, which is interesting. I hadn't actually considered that before I sat down to prep this episode and it's an interesting piece of junk that you
+might want to consider. And because the Koga is presenting three camouflage markers, one of which can potentially pretend to be Major Luna, one of which
+is itself and one of which is a mine, we can kind of use it. Realistically, your opponent is going to expect something,
+but we can kind of use it to cover the ginowo. This is the 18 point deployable repeater ginyo. We don't have a pitcher in this list, but I did want to have
+access to some network projection because we have a whip 15 killer hacker and a sujan. And so the ginowo is doing that work. He's a great little guy. And
+for 18 points, since I have an ego evo hacker as the next piece, he's going to be able to land on 16s much of the time and maybe do some work. Now, as I
+mentioned earlier in the video, the EVO hacker is doing a bunch of work in this list. It's providing marksmanship for potentially two different remotes
+depending on what I need. And it's providing assisted jump for the ginowo.
+And it's providing baggage because in combat group two we are starting off with a sen lieutenant and a Shenzhi
+divine machine battalion. Now this is a list with no chain of command and there is a single legal lieutenant profile and
+it is hackable. Bear that in mind as a limitation. You may wish to do something about that. I mentioned that there are a
+number of ways you could potentially rework this list. Again, the rushi is the obvious cut, but you could also, for example, remove the sujan and turn it into something. There are a bunch of
+different ways you could rejig things here to not have a gaping vulnerability to being isolated by oblivion by your
+opponent on the first turn using their hackers. Uh, just bear that in mind as a limitation. It's a thing. I've played through loss of the tent before and I'll do so again. But I wanted to fit many,
+many things in this list. something had to be cut and it turned out that that something was chain of command. Maybe don't do that yourself,
+but just something to consider. Overall though, that Cien is an excellent addition to the list. It's even more high-quality smoke shooting and the Shenzhi is doing all of the things that
+we mentioned the Shenzhi doing. I'm particularly happy with these guys being in group two because as always, you need outlets for group two orders. uh if
+group two is not like doing anything else and so we have just that nice useful celestial guard threeperson core the longwang pilot might bud off to go
+and do things by itself at some point otherwise it's linked smoke for the two different smoke shooters and a good quality hacker and since I generally expect group two to maybe spend at most
+one order throwing smoke and then a couple of orders shooting out shoot like smoke shooting with the C warrior if there is nothing for the CN warrior to
+do or it puts down its target in a single order well we have that old chestnut of Place turret, reload, place turret, reload, place turret. It's not a
+capability that I necessarily put in every list these days cuz people are getting a little bit tired of it and with good reason, but you can do it in
+this particular list. And those turrets have emitter rangebands and are emitter turrets, which is just guaranteed to make you friends and have your opponents
+enjoy the game. Overall with the notable you have a very vulnerable lieutenant part of this list. I think this is a
+really nice sample platter that shows off a bunch of the different things that you can do in Imperial Service. We've got four different fire teams, a bunch
+of different firepower options, plenty of specialists. Um the list is not short for specialists. It's got load it's got multiple different hackers. It's got an
+engineer. It's got multiple different specialist operatives. Like there's plenty that this list can do in terms of pressing buttons. This is a list that I would be comfortable playing in
+basically any scenario this side of biotech 4 and frankly might even be fine in biotech 4 because it has so many linked elements and an EVO hacker.
+

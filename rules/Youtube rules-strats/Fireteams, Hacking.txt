@@ -1,0 +1,644 @@
+
+Intro
+Believe it or not, the basics of Infinity are behind us. So, now it is time for the geeks, the team players,
+and the bossy socks to come to the
+four. Welcome to learn to play Infinity and Five from the Infinity Institute from the Dice Gods. My name is Hydra and
+in today's episode, we have got a lot of ground to cover. We are going to be looking at all kinds of fun things like packing and fire teams and command
+tokens which although they may sound a little bit daunting are very much based on ideas and concepts that you've seen
+before. So the processes may alter slightly a little bit like camouflage or maybe a
+little bit different but it's stuff you have tinkered with if you've done shooting things like that. So, we're
+going to run through those things, but as ever, thank you to the epic patreons and channel members, which there's a
+growing group of you out there, which is completely bewildering to me. But, thank you all for for joining. Special love
+goes out to Sean Cobburn, Old Man Rogers, Kaisia, Rick Wolf, and Chris
+Sexton for being the top tier of either Patreon or here on YouTube and just doing epic things to support the
+channel. if you haven't. It's not just being kind to me if you become Patreon
+because these videos specifically are longer, are more detailed, and contain more information. Plus, there's a range
+of downloadable uh support documents and cheat sheets that are available for
+members and patreons only. So, you'll get more from these videos and longer videos if you sign up. Links are below
+in the description, and it costs less than a coffee, so consider doing that.
+Enough shameless self-promotion. Let's get into the meat and potatoes of
+hacking fire teams and command tokens. Okay then, guys. So, we are into episode 8, teams, tokens, and
+What we’re covering
+tech. Yeah, let's get into this. There's a lot to cover. So, we're going to look
+at everything to do with fire teams. What they are, how they work, the types of fire teams, composition, and fire
+team bonuses. Then we're going to look at command tokens because believe it or not, you're going to need to know how they work in order to work by teams.
+We're going to look at the strategic use, logistical, and tactical use of command tokens. Those are a thing.
+Nowhere near as scary as they sound. Then we're going to look at coordinated orders, which are possibly scarier than
+they sound. Then guts checks, doctors, engineering skills. Yes, that's right. We've got more skills coming today.
+Hacking, types of hacker, programs, and some tips and tricks when it comes to
+hacking. So, you're going to need some stuff to
+play post this. And I would recommend that you run a 250 point force per side.
+You get about 10 orders each. That's what you're aiming for. Nothing too nothing too crazy. Um, nothing beyond a
+single combat group for the time being. Aim for a Harris fire team all with a single viter. So, a single wound per
+miniature in that Harris fire team. Don't worry, Harris fire team will make sense in a minute. Have at least one hacker in your list
+and if viable also one killer hacker adopter and then play on a full 4x4
+table and play to kill only. This will be the last time that we actually do a mission that's just frag everything.
+This time just frag everything. Um realistically a 250 point game depending
+on how many other sort of rinse repeat games you've done with the the ones we've done previously you're probably
+going to be two and a half maybe three hours on this one. Don't worry, it gets quicker the more you do it. But just
+allow that kind of space to to get your head together and get yourself round on what you need to be doing with it. So,
+let's go. Fire teams. Friends help friends. Yes, they do. So, the biggest
+Fireteams
+thing about fire teams these days is efficiency. That's what they deliver. Great amount of efficiency. So, what are
+they in brief? A group of troopers acting as a single squad. There are three different types of fighting. There
+are core, harass, and duo. And in the active phase, it allows all troopers to activate on the same
+order. So that is potentially a group of up to five as we'll discuss in a minute.
+Troopers activating at the same time on a single order. So not spending a one
+order to move each one of them. So five orders to move five troopers. You can spend a single order and move all five.
+and you get bonuses. In the active the reactive phase, you only get bonuses, but
+everybody gets them. So, important things to note, not all troopers can form fire
+teams. Each army, each sectoral will have a list of the fire teams that are available and what can go into them. We
+will discuss that fire teams can be broken. Sectoral armies get more fire
+team options than generic forces. That is kind of their shtick. Although generic does get some fire team options
+these days. And all troopers in a single fire team must be in the same combat
+group. So if you have two combat groups, you can't have two guys from one combat group and three guys from the other smooshed together. That not how it
+works. Everybody's in the same combat group. Then they form a fire team. Sure. Making and breaking. How do
+Making & Breaking
+we form a fire team? Fire teams can be created during deployment by placing a fire team marker by the fire team
+leader. So, every fire team will have a fire team leader. That's important, especially
+during the active phase. Very, very important. Fire teams may be formed and reformed during your turn by spending a
+command token. See, I told you they were important with with fire teams. You need to know what command tokens are. You need to know how they work to get your
+fire teams back up and running if all goes horribly wrong. A fire team is broken if the fire team leaders put into
+a null state. So, if they're unconscious, they're dead or they become isolated. is not a state we've
+discussed. We are going to discuss it later, but in brief, it effectively means that they get smacked into their
+own combat group on their own. They can't share their orders with anyone else. No one else can share their orders with them. They're all on their own in
+the corner, sad, not good. So, if your fire team leader gets unconscious dead
+or isolated, then your fire team is broke. If your if you choose to activate
+the fire team leader and not the rest of the fire team, the fire team breaks. If the fire team is reduced to less than
+two members, i.e. one, the fire team breaks and a trooper can choose to leave
+the fire team, which may result in the fire team being broken. So you can choose to just break your fire
+team. They can reform automatically without spending a command token at the end of your turn, but we're not going to
+deal with that too much today. That's not really important, but in case any of you have read it in the in the rule book, yes, that is a thing. No, we're
+not doing that today because I'm don't want to talk about all the stuff around the states phase.
+So, in the active phase, fire teams expect a single order. All members must
+start or end the order in coherency. So, zone of control of the fire team leader.
+Now, your fire team leader can be anyone inside of your fire team. So, at the
+start of your order, you declare who the fire team leader is. And then you look at who is still in
+the coherency of them and that's your fire team effectively. So, it's important to note
+that you can move that fire team leader status from one person to another between orders. That is something that
+you can do when you spend that order on the fire
+team. Everybody in the fire team counts as having been activated. So when activated, the enemy may choose to arrow
+to any member of that active fire team because they're all activating. Even if you're just idling and staying still
+while the fire team leader does something, your enemy can arro to anyone else in that team. That's absolutely
+perfectly legitimate. So only the fire team leader does anything other than reset or a skill
+with the movement label. Reset, you're going to meet later with hacking. Don't worry about reset. It's all
+good. But essentially, the fighting leader is the only person that does the shooty. He's the only one that does the
+discovery. He is the only person that does the close combating. He's the only person that does the pushing of the buttons. He is the important
+dude. Everybody else is just along sort of clapping going, "Yeah, Dave, great job pushing the button." That's the
+whole purpose kind of of what they do. They need a bit more, but they confer bonuses, but
+yeah, when the leader does something else or a skill that anyone in the in
+the rest of the fire team can't do, then they idle. So, if he does if the leader does shoot, the rest of the fire team
+can't shoot because only he can do something that isn't reset or a movement label in the active phase. So they count
+as having idled for the rest of that order. The bonuses, there are bonuses.
+Building attention on that. Have you noticed they are all applied during the resolution step at the end? That's where they matter up until that point. Other
+than everybody activates together, they really don't really matter. So that is them in the active phase. In the
+reactive phase, all members of the fire team must be in zone of control of the fire team leader and bonuses applied
+during the resolution step. And that's it. It's really really simple in in when you're arrowing. They just get bonuses.
+That's pretty much the whole shtick. That's the whole thing. But what you're probably picking out here is your fire
+team leader is both a curse and blessing because he is the big target because he's the only one doing stuff. And
+breaking a fire team down, killing his fire team leader instantly, the the efficacy, the value of that fire team
+drops to a bunch of guys stood around looking awkward. We know that arrows are can be deadly, but arrows from a fire
+team more so because of those wonderful bonuses. So, what types of fire teams do we have?
+We have the duo, which must contain two troopers. We have the I'm going to call it a Harris because I have always called
+it Harris. I know it's Harry's. It's Harris. I don't care. Harris must
+contain three troopers. And a core must contain between three and five troopers.
+So when a house gets to two, it breaks. When a core gets to two, it breaks. When a
+duo gets to two, it's perfectly fine. But you get the idea. You get the idea. Those are your three core types of fire
+team. That doesn't mean to say that Cory won't bring out more. That's not to say that they won't make changes, but at the
+moment, that is what we have. Used to have more. This is simple. This is
+Fireteam Composition
+easy. So how do we compose a fire team? Fire team composes troopers. our listeners being able to be in the fire
+team in the Army app. This is a snapshot of a list in the desktop version of um
+of Infinity Army where it says fire team charts. You're not going to believe this. That's
+where you find your fire team composition chart. I know what will I think of next. That is where it is. If
+you're on the mobile version, if you go to where you can see your list, so when you put stuff in your list, you swipe to the right, there's the list. There's a
+little swirly little logo on the top left hand side. That one. You hit that one gives
+you the fire team chart. What and who and how many can go
+in a fire team vary between generic and sectoral armies within the same faction.
+So that also means that different sectorals will have different fire teams. Just because you can do it in one
+sectoral doesn't mean say you can do it in another. We know that sectors can contain different troopers. It does stand to reason, but it bears
+underscoring and being clear about you can take a fire team as long
+as the minimum number of one option is met. That'll make sense in a second. And
+the me that's supposed to be no option is met. Minimum no, the minimum number of one option is
+I know what I mean by that. You're going to understand in a minute. And the maximum number of no options exceeded.
+So this is a fire team composition example. We have the fire team options
+for in this case Shinden Boutai at the top. So they can take an unlimited number of duos. They can take one fire
+team Harris and one fire team core. Beneath that we have three of the raft
+of different fire teams they have available to Senu, we have theai, and we have the
+SEO. Right there we go. We have the three different fire teams. And on the right
+hand side you can see the types of fire teams they can form. So Senu can form
+Harris or core. So that is three or between three and five. Bishai can form
+the duo. So two Harris. So three and core three to five. And the can do duo
+and Harris. You can see them all duo. So what that would mean is because
+of the limits we have at the top if you take a core of senu. So between three and five troopers, you cannot take a
+core of Bushai because we have a maximum of one fire team core in
+Shindmutai. You could take the Bushai Harris, but you couldn't take another
+core because of the limitations of that particular sectoral. Some sectorals do have more Harris. Some Yeah, there are
+variations, especially um I think generic doesn't have any fighting cores. The maximum they have is a Harris.
+So, make sure you're clear on that one. Can you take multiple of the same fighting? Yes, you can. So, if you want
+to take a Harris, a seno and a core of Senku, you fill your boots. You know, that's no problems at all. You can do
+that. These are the required units. So we have Senku. You have to take one
+Senku in every Senku fight team. You have to take one Marai in every Bush Thai fight team. And you have to It's
+actually should be a one there. That is an error. Um I'll show you why in a sec.
+Have to take one tenku tanuki sorry tenu. Tanuki um in a seo fire
+team. After that you can take any of the other ones that are there. So with senku you can then take up to five more senku
+into that core or you can take one senku and two more marai or whatever. So that
+that's how that works. This here is a better example of
+required units. This is a military order. What those asterisk means what
+those little stars mean is that you have to take either a crosia or a tutonotic
+knight. But one of those has to be in a military orders fire team for the military orders fire team to be valid.
+So as you can see the SEO is an error. It should be a one. But that's if you
+see the stars that's what it means. One of those has to be one of those is is
+required. Now we get to matched units. When we come to bonuses in a
+minute, it's all about the number of troops who are matched and they are matched on keywords. So with senu, if
+you had five senku in a core team, they would be matched. If you had one senku,
+one jizarai, and one hatamoto in a Harris, they would not be matched because there's only one senku and no
+one else is the same. However, we look at the Bushetai, the Jes, the Hatimoto, and the
+Shizuku all have the Bushai in brackets at the end. That means that they
+effectively count as being the same type of trooper. They've got the same type of keyword. So, they would be classed as
+matched. So, you can take a Jesai, a Hetamoto, and a Suzuku in a fire team,
+and they count as matched. that matters. Very important for your
+bonuses. The game of the SEO, the Tanuki, the Yamushi, and the Arushi all
+have the keyword. So, you can whack those in a fire team and they will be matched. But if you take a Tanuki,
+Jizarai, and a Suzuki, Suzuki, then they are not matched
+because no one's got the same keyword. So the more matched units in the fire
+Fireteam Bonuses
+team, the better it gets. So if you have one matched unit in the fire team, then all members activate in the single
+order. So if you've got a core fire team and none of them have this the same keyword, then you will have everybody
+activates in the same acts on the same order. Sorry. If you have two of them
+that match, so two of them have the Senu keyword for example, then you get
+everybody activates in the same order and BS attack plus one special die. We'll discuss special D in a minute.
+Three, you get plus three discover and plus one dodge, which is kind of powerful. You can discover that much
+better. You can get out of the way that much better. When you get to four matched units in your fire team, then you get
+plus one BS, which is awesome on top of the rest. They're still all activated in the same order. There still be a stat
+attack, plus one special drive, there still plus three discover, plus one dodge, and now plus one ballistic skill
+as well. And if you get all the way to five, if you match everything up and you go for the full amazing bonus of
+awesome, you get six cents as
+well. So, let's run into those more detail. All members activate with a single order
+on level one. The plus one special die. That means that you roll one extra dice
+with one attack and you choose one dice to discard before comparing results. So
+you're firing a heavy machine gun and in the active phase and that throws four dice with this. You throw a fifth dice.
+You roll the dice and you pick one of the five to get rid of. It's going to be the failure. It's going to be the lowest number if they all succeed. It's going
+to be the worst dice gets choked in the bin. That's what a special dice do.
+Crucially, you also get that in ARO. So, even though you're throwing only one dice in ARO, you're actually going to
+throw two and choose one to keep. This is kind of powerful. It gives you twice the twice the chance of
+actually being successful. Doesn't improve your your your um success value in any way, shape, or
+form, but what it does do is just gives you that extra dice to potentially do some violence. So special dice can be
+quite nice and it can be quite intimidating for, you know, if you want to engage with the target that's just
+arrowing with one dice or a target that's arrowing with two dice. Even if they only have to keep one, you're going
+to choose the one that's just throwing one dice and limit their possibilities. Level three, fairly straightforward. Plus three, plus one
+dodge. Now level four is plus one BS to BS stat. It's actually not just a BS. So
+when you're doing a BS attack, it's plus one to the BS attack skill. So if you are throwing a grenade which uses PH,
+then you get plus one to that PH. If you are doing using something called a technical weapon, which we haven't covered yet, so flash pulse for example,
+that uses whip, you get plus one to that whip. So it just does plus one to anything that you're doing a BS attack
+with. Level five gives the entire fire team six sense. This gives you a 360°ree
+fire arc. Normally troopers can only see the front 180. You ignore negative modifiers for
+attacks from poor visibility zones. So being shot from smoke and stuff like that. You don't care about that. And you
+ignore most negative modifiers to dodge and reset skills. This is really, really powerful. It makes your fire team much
+more durable and much more resistant to sneaky stuff
+from yeah, people pulling shenanigans with smoke and all this kind of stuff. It's It's a nice buff and it keeps you
+guys alive for longer. So overall, well worth
+having. So let's look at some examples. We are going to take the Bushai fire team that can have any of these four
+guys along the bottom. On the left we have the Jim Maria. Then we have the Atamoto, the Shizuku, and then the Yamabushi. So all of these go into a
+fire team. All of them apart from the Emabushi on the right have the Bushet Thai
+keyword. So if you mix the Gizmar, the Hatimoto and the Shizuki together, we
+end up with a fire team that's building those bonuses up. You start lumping in that Yamabushi doesn't bring bonuses
+with him. He just brings his winning smile and charming personality. So here's an example number
+one. This is a fire team core. What we have here is very basic on the left
+there. four gizmarai. So all members activate on one
+order. All members get the plus one uh special die. All members get the plus
+three discover plus one dodge and the plus one BS. That is what that fire team gets. That's it all about it. In the
+active phase, it's only actually the fire team leader that will get to
+benefit from those bonuses because he's the only one who can do anything other than move. Okay. But in ARO, they all
+get them. So that's kind of potent. But it is important to note that those those bonuses only apply to the fire team
+leader in active phase. Look at another example of fire teams. Here we have
+another core. Here we have a Hasamoto and he's joined the gizmar. So now we have a five trooper core. That means we
+get activate the plus one special plus three discover plus one dodge plus one BS and six sense for that entire fight.
+As long as they stay together, as long as they all group up, that is perfect. They all get that.
+So, which is quite powerful. I mean, you know, if you look at the Hatamoto from memory, he's BS13. So, if he's going to
+be the guy doing your shooting, which he probably is, he's suddenly BS14. An extra 5% chance of of doing the hit.
+Plus, he's throwing the extra dime, which is powerful, which is well worth having. So, yeah, fire teams, they have a little
+bit more output. They have a little bit more durability, a little bit more survivability. And finally, let's look
+at Harris example. Same again. This time, we have ourselves a Himoto, we
+have a Gizmaray, and we have a Yamabushi. Now, because the Yamabushi lacks that keyword, we only get all
+members activated and the plus one special dive. don't get the plus three discover and plus one dodge because the
+Yamabushi doesn't have the keyword. That's a really important
+distinction. Okay, let's talk about types of fire team. This is about list
+building and there are many different ways to build a fire team but common types. This is not exhaustive. This is
+just a kind of, you know, um, brief overview to get
+your head going in the right direction. You have the beat stick fire team. This is a big gun who then gets the extra
+special die and the point of BS by chucking on three cheap troopers. That's
+kind of what we're looking at with the hatamoto and the gizmaray. That is a beat stick. Next, we have the specialist
+bomb. This tends to be a cheap group of specialists with a mid-range gunfighter and it's purely there to deliver
+specialists where they need to be. That is the purpose of that fire team. So,
+when you're doing missions where you have specialists in the middle of or sorry, uh objectives in the middle of the board or in the enemies part of the
+board, the fact that you can take up to five of them, specialists, activate them
+on a single order and get them moving across the board means you have more orders to complete the actual missions
+themselves when you get there. This is a good thing. Next, we have the Swiss Army
+knife. It's got a bit of everything and nothing that it's got is friendly. It's it's it'll do some missions. It'll do
+some violence. It's just this unpleasant little torturous box of nastiness. Um
+yeah, I say that sounding disgusted. I tend to run those cuz they're so hecking
+useful. Um yeah, they just are. And next the pain train. You may have heard of pain trains. It's a load of armor. It's
+a load of wounds. It's a load of guns. And it tends to be massive old chunk of your army. It is a big amount of points
+to put a pain train together, but it will overwhelm and decimate anything it
+comes up against if you are slightly careful with what you do. Okay. Now, we're going to look at
+some examples of those buyer teams in a list. But this is the bit that's for one
+Command Tokens
+of that's for our members only in this video. So, uh, excuse us for a second. Members, come right this
+way. Okay. Let's continue and have a look at command
+tokens. So what are command tokens? They are tokens generated at the start of the game. Each army has four as standard.
+Only four. That is it. There are no more. There are
+four. Some lieutenants will give a buff. They'll add one or two extra command tokens which is really really useful.
+But don't count on that. They are not that common. So, as a rule, you are going to have
+four and you are going to need 24 because that's how it works. So, knowing how and when and what the crucial moment
+to apply to command tokens is is crucial. They can be used for strategic,
+executive or operational purposes, which we'll break down in a second. And we are only going to cover the basics here, especially the talk about in a minute,
+which is called speedball. It's this topic. It's vast. I'm not touching on it
+in this video because this video is going to be long enough, but we will cover the basics of it in a
+second. So, strategic use, these are all completed during deployment and cost one
+command token. You can hold back one extra troop during deployment. In the next video, we're going to start talking
+about deployment. What you normally do is place all of your miniatures apart from one. Then, your opponent places all of
+their miniatures apart from one. You place your last one. they place their last one. You can spend a command token
+and hold back two rather than one. So, situationally, that could be
+useful. I think the only time I've ever done it was when I was putting down two heavy tags, and that was for pure comedy
+effect of being ta I mean, dick move. Yes. Glorious.
+Absolutely. So the other option is if you're going second, you may remove two regular
+orders from a combat group, but only if that group has more than 10 orders total. So you're going second, your
+opponent's going first. You don't need to come charging at the very first thing you do is you spend a command token, you take away two of their orders. Comedy
+shall ensue. It is a debuff that you can attach to your opponent just to slow
+them down a little bit, just to ruin their day. But that is one of your command tokens
+gone. I almost always do this. But it is one of your command tokens gone. If
+you're going second, you may stop the enemy using more than one command token in their first turn. Why does that matter? Coordinated
+orders. That is why it matters. Cover that in a second. And if you're going second, you may place one trooper in the
+suppressive fire state. Specressifier is for the next video, but think of it like a guy looking in one
+direction with his finger holding down the trigger. It is just a high volume of fire across the board. It is very useful
+for board control and all this kind of stuff. It's very situational that you will need that in
+the first time. It's not to say you won't. It's just say that is very situational. I think I've done it
+once in two years. So, the last strategic use is and
+or after deployment is complete, you may spend a command token to receive two speed ball tokens for use during the
+game. This lets you drop in a Hail Mary. Basically, it lets you slam these two
+tokens down on the board. you roll for them, like airborne deployment, and they
+can contain things like a med pack that automatically stands somebody up.
+Something that will unlock somebody's armor if they've been immobilized and stuck in it. It is gives somebody a
+jetpack. You choose one of the two, what's in it, the other one you have to roll for to find out what's in
+it. They are interesting. They are new for N5. Um, and there's something that
+that bears further repeating and discussing discussing later, but we're not going to deal with those today. Um,
+you can do it, most people do most of the time these days. Um, but depending
+on how your list is built, you may have a better home for that command token, especially if you've taken two of the
+enemy's regular orders at this point. You know, if you've got four command tokens, you spend one to take away two
+regular orders and then one to generate two speedball tokens, you are down to
+half, this is not a great place to be before the game's even started.
+Executive use. These are at the start of the active player's turn. You can spend one token to move a trooper from one
+combat group to another as long as you don't exceed the 10 member limit. So I will frequently have in my list a
+full 10 order primary combat group and a secondary combat group of chaff. That
+secondary combat group there is as I lose troopers out of the
+primary combat group. I will move people from the secondary up to keep 10 orders in that primary combat group. That's
+where my heavy hitters are. That's where my specialists are. That's where my game game winners are. So, I would just move across troopers into the primary combat
+group, but you can only move one trooper per token. So, if you have four tokens at
+the start of the game and you've spent one on taking away two orders and one on
+getting a speedball, you can only move two troopers in total during the game. Yeah, this is not ideal.
+You can also during the start of your turn spend a command token to cancel the possessed state on one
+trooper. Certain things can take over the the mind body of your
+troopers and attach them to the enemy's army and then start them doing violence to you. You can spend a command token
+and cancel that. It's a thing that happens. Again, I've done it rarely.
+If you've lost a trooper and they've been possessed, yeah, it's probably best to forget it or maybe just stick a bullet
+in their head. The command token is possibly going to be more useful somewhere else, but again, very situation. If there's a tag that's been
+taken over, you're spending the command token on that, aren't you? Let's be
+honest. And now the big one, operational use. This is what you do during your turn.
+You can spend one command token in a regular order to complete a coordinated order, which we'll discuss in a second.
+You can spend one command token to have a trooper pass or fail a guts roll, which we'll discuss in a second. You can
+spend one command token to convert an irregular order into a regular order,
+which we'll discuss in the next video. You can spend one token to have one trooper be unaffected by the retreat
+condition, which we'll discuss in the next video. You can spend one command token to reroll a failed whip check on a
+trooper with a cube. We'll discuss that in a minute. And you can spend one command token to reroll a failed
+engineer whip check on a trooper with the remote presence skill. We will discuss that in a minute. And you'll
+spend one command token to create a fire team. We'll discuss that now. So, we talked about the fact your
+fire team can be broken. If you lose your fire team leader, he dies. Your fire team is busted. To reform it, you
+have to spend a command token. So, you spend an order to remove two
+regular orders at the start of the game. Spend an order for a speed ball. Things go horribly wrong. You spend an order to
+cancel possess state on your tag. And then you lose your fire team leader. And your fire team
+breaks. You're spending your last command token on reforming that fire team. And if your fire team leader dies
+again, you can't reform the fire team. You have no more command tokens left. This is why command tokens are so
+important. It's easy to burn through them because there's so many places they can be useful. That ability to reroll a
+doctor whip check or an engineer whip check is it can be clutch. It can be that moment where you're like, "Right,
+if I stand him back up and it goes wrong and you fail your whip check." You want that command token
+there to be like, "No, no, I will not stand in I go into the dark. I will I
+will bring him back into the light." Yeah. Then you remember you went berserk
+at the start of the game and you got speed balls and you got all this stuff and you just don't have any command tokens left and oh I've been there. It
+sucks. Command tokens are very very useful. They should be deployed with
+care. They should all be used in the game. You should get rid of all of them. There's no bonuses for not using all your command tokens. But yeah, number of
+times I've been like right I've used the last one now because we're going to be fine. And then two orders later I'm like
+damn it I want a command token. You will see what I mean. There is a there is a a moment to use them and a
+moment to cry and wish you had more. So, coordinated
+Coordinated Order
+order. Ah, coordinated order. Coordinate order apparently. Coordinated order. What is it? It's buddies of
+convenience. By spending a command token in regular order, the active player may activate up to four troopers in the same
+combat group. One trooper is nominated as a spearhead. All troopers then complete same combination of
+skills. If one skill requires a target, all members of the coordinated order must declare the same target. So you can
+choose four guys across the board. Tim me. Those four are now all activated.
+They all going to move and then they're all going to shoot. They all have to shoot at the
+same target, but they can all move as they see fit. There's no problems at all.
+If a trooper cannot declare one of the skills used, they idle. And if a range attack occurs, all
+weapons have a burst of one, apart from the spearhead trooper whose be is halved rounded
+up. So you have an enemy with a big
+tag. You have four guys that can with a single move get line of fire
+on. But you know the chances of all of one of them on a one-on-one situation
+them surviving is very small. So you activate all four of them at the same time. They all pop around the corner.
+They all shoot one round into the enemy target. Now apart from the spearhead who
+gets maybe two. What you do is you make the enemy
+choose one of your troopers to arrow to. Now all of all four of them can be aroed. In that situation where it's one
+tag versus four guys. The tag has to pick a target. You can't shoot all four
+of them. It only gets one arrow because only one orders been spent. So it lets you maneuver
+and just do the crucial thing you need to do at the crucial moment. It's also really important for things like generic
+armies armies where they don't have that many fire teams. Let you move groups of
+your guys up without having to spend four orders. You can just spend an command token and
+a order and then four guys go running up the field. This is really really good but it is risky because all four of them
+go and all four of them generally arose. If CC attack is used as one of
+the um short skills, the spearhead does the attack and gets plus one burst to CC
+per friendly trooper in base to base with the target. So his boost his his burst goes up in CC because his guys are
+stood around him distracting the big gribble he's trying to stab in whatever.
+Um coordinated orders can be incredibly useful because you can do coordinated hacking. You can do coordinated um
+suppressive fire. There's things you can do that spending a single order and
+command token to achieve it's well worth it. Uh, I'd recommend when you're comfortable with
+the game and you're throwing throwing the rules around, spend a few minutes reading the coordinated order rules and get up to speed with them because they
+are one of those things that when you need them, coordinated orders are a
+godsend. So, the guts roll. This might be a bad idea. Yeah.
+Guts Roll
+So, picture the scene. You're in the middle of a covert operation and some inconsiderate individual pops around a
+corner and shoots at you. You take it in the chest, but your armor does its work. However, you are now feeling
+slightly concerned about standing where you're standing. It appears to be a bad idea. You may in fact decide to wear the
+brown trousers and get the heck out of the way. So, if troop take a takes a hit, they might decide they've had
+enough. If you are the subject of a ranged attack and you aren't dead or
+immobilized, then you need to make a whip check. If you fail, you need to move up to two inches to get either out
+of line of fire of your attacker, out of the area of effect of the weapon, so if there's a grenade and it you got caught
+by the edge of it, you have to move out of where that landed or if you can't do any of that, you have to go pro.
+Basically, you have a bit of a wussy moment and try and get the heck out of the way. You can choose to fail. Well,
+you can just say that I want him out of the way. He doesn't want to get shot anymore. We're going around the corner.
+That is legitimate. Guts checks, gut rolls are the things that most people
+forget. They're the most commonly forgotten thing, even by veteran players. But when you've done that
+resolution, when you've done the save, and your guy has passed all of his saves and he still stood there, that's when you make your guts roll and see whether
+he continues to stand there or whether he gets the heck out of the way.
+You don't always have to kill an enemy sniper. Sometimes you can just make him
+so nervous he goes on his belly and hides for a bit. Guts checks will do that. Gus rolls will do that. There are
+special skills which impact guts roles. Courage. Anyone with courage as a special skill can choose to pass or
+fail. Simple as that. Being like, "No, I shall take another shot to the chest or
+actually I'm quite right. I'm going to pop in the corner." Um, religious troops are bonkers. They
+auto pass their guts role and must stay in place unless they pass a whip check.
+So, you actually have to do a willpower check so that they assert their survival instincts over their heretical fervor.
+Basically, yeah, certain armies have problems and getting out of the way of bullets is one of them. Look at you. You
+guys, yeah, murder nuns don't like getting in cover. Anyway, so those are guts rolls. You will forget to do them,
+but start doing it because there's points where they're really useful. Your opponents have their active phase, they
+pop around a corner, they shoot at a guy, they've got him in bad range, they've got him out of cover. It's all
+bad news. He survives. You need him for the next round. So, you fail your guts check and
+get out of line of fire. If you're going to come and kill me, you're going to need to work harder. You need to spend orders to get up to me. So, guts checks
+are really, really useful and really, really important. Doctor skill. Let's do some
+Doctor & Engineer Skills
+new skills for you guys. Anyone who has the doctor skill may spend a short skill
+when in baseto- base contact with a friendly trooper in an unconscious state to perform a whip check. Notice I did
+not say a trooper who has lost a wound. They have to be unconscious.
+If you pass that whip check, the target trooper heals a wound and leaves the unconscious state. If failed, the
+unconscious trooper enters the dead state and is removed from the table. Or if they have cube, which is you can see
+that on the profile for the trooper. It's on the left hand side when you look at the armor build. It's a little blue
+symbol with like three guys, little meeples on it. Says they've got a cube.
+They have a cube. you can then spend a command token to reroll that and hopefully not flood it so badly.
+Um, the important thing here is it's not possible. So, if you have a two wound trooper and they're unconscious and you
+heal them, they get one wound and they stand back up, you cannot then doctor them again to get the second wound back up. You can
+only take them from unconscious to standing up. You can't take them to full strength. Good as doctors are, that's
+not how this works. Note, this is the doctor skill. This is nothing to do with paramedics. Paramedics will do in the
+next video. This is purely the doctor skill. Engineer is a doctor, but for
+robots. So, WD43 and duct tape, but cyber punk need more coffee today, it seems.
+So, in this situation, a trooper with engineer skill may spend a short skill when baseto- base contact with a friendly trooper with the structure
+attribute who has lost at least one of those structure to perform a whip check. If passed, the target trooper heals a
+structure. If failed, the trooper loses another structure. Not the unconscious trooper. The trooper loses another
+structure. This may take them to the unconscious or state.
+May the thing here is a trooper with structure does
+not need to be unconscious to be healed by an engineer. And it is possible to
+heal a unit with structure all the way back up to full power. So examples of
+that would be you have a a tag on one last structure. You send an engineer to it.
+He normally has three structure. The engineer heals him back up to three over the course of two orders. One structure
+per order. That is perfectly legitimate. It's not like the doctor who can only
+heal from unconscious. This can with the engineer skill bring them back up to full strength. That is perfectly
+legitimate and fine. Hacking, right? Let's beep your
+boob. So, what is it? We're going into cyerspace, guys. Hacking is a skill.
+Hacking
+Notice on the layout of loadout of the trooper, which allows the trooper to use certain hacking programs. So on the
+bottom here we have Mary problems and we have a convenient the very bottom of the screen orange arrow pointing towards the
+word hacker in the loadout section which shows you that she is in fact guess what a
+hacker. Hackers have a hacking device. There are four types of hacking device each with a different combination of
+hacking programs. Mary Problems has two because she is an absolute boss. We have two arrows pointing here. One to the
+killer hacking device and one to a standard hacking device. Some hackers will have upgrades to hacking programs
+that let their device have programs they shouldn't have. So in this case, Mary's
+hacking device has an upgrade of oblivion plus one burst and her killer hacking device has her trinity program
+gets armor piercing. She's filth anyway. She's
+dirty. But that that is the gist of what you're looking for. A hacker hacking any loadout with brackets hacker next to it
+is a hacker and will invariably have hacking devices of some
+description. Those hacking programs can you sorry those hacking devices to use hacking programs. There are 12 hacking
+programs. Each is a skill known as a comm's attack. Some are short others are
+long. Not all of them are commons attack. Most of them are. Um, the short skills may also be used in ARO. Some
+programs may only target certain types of trooper. Some programs may only be used on friendly troopers. Each program
+has a profile like a weapon. So, here I've got two hacking programs. We've got assisted fire and
+we've got carbonite. Now, assisted fire is used on a friendly. So, it has no attack mode, no opponent mod, no pinch
+of the no burst. It targets remotes only. It's a long skill, so it's going to use all of your order to do it. And
+your target gains marksmanship. Marksmanship means you ignore the negative modifier for shooting people in
+cover. No minus 3Bs for that rem very powerful. Carbonite zero attack mod,
+zero opponent mod, faceless survival seven, so reasonably hard-hitting burst of two. It targets tags, heavy infantry,
+remotes, hackers, and vehicles. It's a short skill and an ARO. It has dual action ammunition. And it puts people in
+state immobilized B non-lethal. So it doesn't take a wound off, but it locks you in
+place. So you have a support wear. It's called support wear, which is the assisted fire. And you have the comms
+attack, which is carbonite. That's that that looks, if
+you've seen, if you remember what a weapon profile looks like, that's a weapon profile. You may not have range
+modifiers, but you have attack and opponent modifiers. Simple as that.
+Saving roles against hacking programs are made using the same process as a normal saving role, but they use the targets BTS, not ARM. So, we're going to
+bring BTS into it. Biological technical shield comes to the four. That is how
+you will save yourself from that potential survival carbonite using your
+BTS. So, resolving a hacking program, you declare your targets. It is done
+with whip. So you you you check your attacker's whip. Check that the target is within 8 in of the hacker or a
+repeater deployable repeater in their army. Lo note no line of sight is needed
+here. Check for mods on the program. Check for firewall mods on the target. So we saw one of those earlier
+um for the members. We looked at a a unit with a firewall mod earlier. Then we confirm our success value which is
+the whip plus program mods plus firewall mods. Check the burst. or one dive first. Every equal to or unsuccessfully
+is a hit. Now, do you see what I
+see? That's right. Hacking is basically shooting with an 8 in range. These are the processes side by side of resolving
+a BS attack and resolving a hacking attack. Declare target. Declare target. Check attack as whip. Check attack as
+BS. Check the target is within 8 in. Check range to modifier. Check mods for
+the program. We look for mods here for cover and we look for range. Check for
+firewall. Check for mimatism. Confirm success value. Confirm success value. Check burst. Check burst. Roll one die.
+Roll one die. Success value. Success value. This is what I was saying when we were talking about getting your basics
+down right. If you can do a BS attack, you can do a hacking attack. They are the same monster. They they work the
+same way. They are identical. It's why I always say to my new players, getting
+your basics down right, understanding them, getting an instinct for them is crucial because then things like hacking
+is like 8 in shooting. Cool. You don't need to think about it.
+You can just do it. Speaking of, let's do one. We're going to resolve a cons attack with the mighty Mary problems.
+Isn't that a beautiful miniature? We looked at her earlier. Let's look at her in play right now.
+So what we know, she's declared her targets already. Doesn't matter who for the for this particular
+instance. Check the attacker's whip. Her whip is 14. Check that the target is
+within 8 in. It is. Check for the mods of the program. She's actually attacking another hacker and she's going to use
+Trinity, which gives her a plus three attacking mod. We check for firewall mods in the
+target. There aren't any. So we end up with a success value of her whip of 14 plus three for the trinity program plus
+zero for the firewall mods. We end up with a target of 17. Check the burst of the weapon. Check
+the burst of the program. In this case, Trinity has burst of three. So her burst
+is three. So she rolls three dice. Every roll equal to or under the 17 success value is a
+hit. That's how that works. Now let's rework that and we'll look at
+again slightly differently this time. Um we're going to do this one for the members. Sorry guys, another example for
+the members here. So what can you do in reaction to hacking? Let's have a
+look. Responding to a comm's attack and arrow or active phase dodging will not
+avoid a comm's attack. So, you can't just dodge.
+With no line of sight, you can either counter hack the person hacking you or
+you can reset. With line of sight, you can shoot, you can counter hack, or reset.
+Those are kind of your options. So, what's the reset skill?
+We've talked about this. It's basically turning it off and on again. That's that's literally what resetting is. when
+you uh you can use it when you are the target of a commas attack when you're the target of a BS attack guided which
+is something we'll do next turn to remove certain states including the targeted and immobilized B state and it
+is a short skill or AO so it is quite a versatile little
+ability reset is a skill which uses the whip stat roll a single die equal to or under is a success if the trooper is the
+target of coms or BS s attack then the role becomes face to face. Some hacking programs confer negative mod to the
+reset roll. Some states also give a negative mod. There's minus three for
+targeted. If you are immobilized, you get a negative modifier for that as well. There's all kinds of things that
+drag it down. So reset can be an absolute godsend, but it is only a single dice. Um it's often more of a
+hail mary. you kind of you want to be doing a reset in conjunction with having a timber or firewall of some sort of
+strike there to bring the ability of the hacker down as well as throw dice back at them. So reset very very useful. It's
+equivalent of a dodge basically. That's an electronic dodge right there. So let's look at hacking devices.
+Know your gear. The first one is a standard hacking device.
+It is.5 SWC normally and effective against
+everything. Which programs does it have? Carbonite, which locks tags, ropes, heavy infantry, hackers, and vehicles in
+place. It immobilizes them. Spotlight, which gives you can use that pretty you can use that on everyone, and it gives
+an enemy the targeted state. So, plus three to BS attack. Uh the negative modifier to reset, as we mentioned a
+minute ago, and you can shoot it with guided weaponry and stuff like that. So spotlight is really dirty because you
+can do it through a wall, light your target up, and then from the very back of the field, take a guided missile launcher, fire it lazily into the air,
+and have that land like the fist of Thor on top of the head of the poor little guy that just lit
+up. It's uh it's an unpleasant trick and a lot of fun and I highly recommend it.
+So we can then do total control, which gives tags the possessed state. You know your attack tags with it, but it's we
+talked earlier about spending a command token to remove the possessed state. Token to control is one of the ways you
+get the possessed state on an enemy tag and it basically takes that enemy tag and adds them to your army. Doesn't add
+their order, but it adds the miniature so you can then start using their tag to do horrible things to them. Oblivion
+gives tags, remotes, heavy infantry hackers, and vehicles the isolated state.
+isolated knocks them out of their combat group and puts them in a combat group on their
+own. That means because you can't share orders between combat groups that they are the only ones who can spend orders
+on themselves. If you isolate something, it normally will get one maybe two orders
+per turn. This is not good. This is bad. And the horrible thing is because they
+are in the isolated state, you can't spend a command token to bring them back into the main combat group. They have to
+be fixed by an engineer. They can't just be done. It's it's, you know, it takes
+dice rolls to get them out of that state is an unpleasant thing to do to an opponent. Although again, funny hacking
+device plus we're a bit fancy. Um, what is it? It's specialist gear. It also
+tends to have the 0.5 SWC. It's effective against everything plus has
+tricks. It is for the programs. It has the exact same ones that we just saw on the hacking device. So, we have
+Carbonite Spotlight, Total Control, and Oblivion. Plus, why do they come up with the hacking device plus? Plus, it has
+white noise, which lets you put a circular template within a hacking area which MSV can't see through. You
+basically blind your camera hunters and stuff like that. They just can't see through it. There's nothing they can
+do. This is really, really useful if you're in a situation where an enemy has a fire lane with somebody with MSV and
+you can just go plop. Done. They also have cyber mask, which
+gives the hacker the impersonation to state. This is similar to camo, but hard to shift. It's
+is not nice. and it just lets you meander your hacker up the field. If you want to go off and start spotlighting
+the enemy, it's much easier to do it if they can't shoot at you because you're in a cyber mask impersonation
+state. They can't target you because they can't see you because you're not there. You're Bob from accounting as far
+as they're concerned. So, cyber mask is a really good way of protecting your
+hacker and also getting them into a position where they want to be. Some armies um
+have sort of uh I'm thinking of Tangaska here. They have the interventor which is a really really good lieutenant and he
+can have a hacking device. Plus making your lieutenant
+unargetable is hilarious. There's no two ways about that. So cyber mask can be really
+powerful. Then we have the killer hacking device. This is a anti anti-hacker hacking hacker.
+Um, it is defense against hackers. That that is it. It tends to have zero SWC
+and it's effective against hackers only. That said, where you come to missions where
+they give a bonus to hackers, a killer hacker is still a hacker. So, they still get that bonus. So, if you're doing
+missions, there certain missions they give you like plus three for having a hacker. If you're doing the doing the
+thing with a hacker, this is really powerful. This is really potent. So, which programs do they have?
+They have Cyber Mask, who we saw before, let you get into that impersonation state. And Trinity, which causes wounds
+only on hackers. It's it's literally an ability to hunt down and blow the brains out of
+Hacking Example
+a hacker through a wall. That's that's what they're for. So, that cyber mask lets you meander up the field without
+being shot. And then you get within of the enemy hacker and then you go pop and just take him in. It's brilliant. Love Trinity. It was a really
+nice addition to the game. And then we have Evo Hacker. This is the buff bus. These tend to be
+remotes at the moment. They are all only remotes. They hand out buffs and debuffs. Only one debuff. They're mostly
+buffs. They tend to cost zero SW sorry.5 SWC. And they are mostly there to
+support friendlies. That is their purpose. and we love them for it. So what
+programs do they have? They have assisted fire which gives a friendly remote marksmanship which as we spoke
+before ignores the minus 3bs for partial cover. It also ignores um certain parts
+of nano screen as well. This this marksmanship does some pretty funky stuff. Um but it's definitely worth
+having if you if you have an opponent that is using cover a lot or you have a remote that you're going to go hunting the enemy with. Assisted fire is
+fantastic. Enhanced reaction gives a friendly remote burst two in ARO, which is cool. Just a little bit of extra fire
+going down the field. Control jump gives your troopers plus three fizz to combat jump. So, if they're dropping in from
+airborne deployment and you want to actually put them on the field and roll for it, you can give yourself plus three
+and minus three to the enemy at the same time, which is just funny. Um, you can
+turn one of these programs on per EVO hacker and they just stay on until you change them basically.
+And you can also do fairy dust. And now fairy dust gives a minus3 firewall mod to either tags, remotes, heavy infantry,
+hackers, or vehicles. You choose one of those. So if you're running a pain train and they don't have a built-in
+firewall mod, turning this on hilarious. Um, I recently had a game
+where I ran four tags and put a minus three firewall mod on my four tags
+because no Don't hack my tanks. Um, yeah, it's it's a really really
+useful uh really really useful ability. [Music]
+Um, and the great thing about this this fairy dust mod um, and control jump is
+that they cover the whole table. It's not like you have to nominate a specific trooper or you have to nominate a
+specific area that they work. They cover the whole board just for one. Turn it
+on, it's done. It's fab. So, let's look at some tips and tricks because it is in fact a war out
+Hits N’Tips
+there, kids. Hackers are great for missions. They have a lot of versatility. There's
+lots of different missions they can do, especially missions that like you see ones that need for observers because
+they need to be spot lit. You can use the hacking program to do that, which is kind of great. They're essential if
+you're running guided weaponry and they can stop remotes, steel tags, ruin heavy infantry, mesh up the hackers, defend
+and attack. They have this really versatile bubble of unpleasantness. But
+note that some armies are absolutely stuffed with hackers. You look at nomads, especially Tunguska, the volume
+of of hackers they can have is genuinely intimidating. I mentioned the interventor earlier, fantastic lie with
+tenant hacker. and you just lump hackers into that arm, they're just going out of
+fashion. Others are not so lucky like Ariadner. They have very few if any
+hackers in some of their lists. To get the most out of hackers, you want more than one. And you want to build a
+hacking network, right? So, hacking networks,
+Hacking Networks
+building a web, your hacker only has this 8in bubble. There's only a controller in it to hack things. So that
+means if you want to use it effectively, it needs to move off board. It needs to put itself in harm's way. So it's better to build a
+network that your hackers can use to extend their range than actually get
+them involved. So how do you do that? Repeaters, they are built into some remotes, some tags, and some
+troopers as well actually carry repeaters, too. You have deployable repeaters. Some are carried, others are
+on something called a pitcher, which let you fire them. And they have fast pandas as well. There are various options for
+getting deployable repeaters out in the world. What are repeaters do? They allow any and all friendly hackers to hack in
+the repeater zone of control. That's both in the active and reactive phase.
+Enemy hackers may hack any of your hackers through your repeater, but at a
+minus3 firewall mod. What does that mean? Okay, you have
+a remote with a repeater on board. You take it up the fields. That's the end of your turn. The
+opponent goes into their active phase and they walk a hacker into the zone of
+control of that remote which has a repeater on it. All of your hackers may
+then arrow to that hacker. He's entered their zone of control effectively
+because he's entered the zone of control of a hack of a sorry repeater extends that hacking range.
+He can then get multiple hackers attacking him simultaneously. Now that that hacker can respond to them, they
+can attack them back. Things he can do. He could reset all kinds of things just like a dodge. That would apply to all
+the things, all the attacks that coming to him. But having multiple repeaters across the
+field with that 8 in bubble around them, 8 in zone of control around them gives
+you the coverage to dissuade other hackers, heavy infantry, remotes, tags
+from coming downfield because you can hide your repeaters away. You know, you can put them high on a building or
+inside a building or just somewhere inconvenient, hard to get to. So the enemy has
+to get into the zone of control and face being hacked before they can actually
+deal with the repeater because repeaters can be shot. They can be destroyed. They can be taken out. But you have to get
+line of fire. You have to or you have to get close to them which results in you coming into effectively the hackers zone
+of control. Having that hacking network up is really important. It's really really
+powerful. and um getting if you're going to if you're going to build your list around hackers which certain forces like
+I said earlier Tangaska is the prime example of it if you're going to build yourself around hackers anyone know that
+actually having a web of repeaters of pictures of ways you can extend your hacking network comfortably without
+risking your hackers is a really really good idea. So that is the basics of a
+hacking network. Repeaters, deployable repeaters. You're looking for troopers with repeaters built in. You're looking
+for pictures, looking for fast pandas. Looking for deplorable repeaters. That's the kind of thing you're looking
+Logging Off…
+for. So there we go. That was the monster that was all of this. We have covered fire teams. We have covered
+command tokens. We have looked at doctors and engineers. And we have done hacking. It was a lot. I hope your head
+hurts as much as mine was. Buth it was it was good. I think I think that's the the core of everything you need to
+know. Make sure you're clear on it and go back and reference this video and
+then maybe start looking into the uh weapon charts and things like that. For
+members, there will be a hacking cheat sheet, there will be a fire team cheat sheet, and there will be a command token
+cheat sheet coming out soon. um that will be available on the download link as normal and I will update both um post
+on YouTube for members and over on Patreon when those are available for
+you. So, look forward to that coming soon. TM, our next steps from here, you should
+go off and try our different compositions of fire team. Find out what you like, find out what's fun, mix up your lists, have fun. Our next episode
+is filling in gaps. We're going to talk about ammo. We're going to talk about templates. We're going to talk about tenants. And we're going to talk about
+close combat. And all of this is going to lead us to the next one. That next one is going to be
+deployment and setting up and kicking off a game. It's going to be all the admin that happens at the start. When
+that is done, the the video after that is tips
+and tricks. It's hints and tips to get the game going better and to like certain tactics that work real well and
+all that kind of thing. Um, but from there we'll be into Tactica. This will
+be the end of the core instruction of the game, core principles, the core
+ideas. So, if you have questions, put them in comments. If you
+are a Patreon member, whack that across either on DM or in a a membersonly um
+post on YouTube, you see when those come up, put questions in there. Feel free to do so or the members only version of
+this video. Put those in the comments. What else do you need to know?
+What else is missing? What are you not What are you uncertain about? because the institute learn play infinity is
+here for you guys. So if there's something that you that you feel is missing or you need clarity on let me know and if enough of you want that
+thing then we'll do a specialist video focus in recover find different ways of doing it maybe examples up all this kind
+of stuff. So do let me know in the comments but apart from that do like share subscribe do all that good stuff
+and look forward to the next video coming very soon. Thank you for watching and goodbye.

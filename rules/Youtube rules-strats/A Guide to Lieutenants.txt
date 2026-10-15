@@ -1,0 +1,371 @@
+Hello everybody welcome back to an
+Infinity N5 video and today we have our
+Lieutenant guide this video was brought
+about by a commenter uh potatoes gaming
+who asked me a very good question what
+makes a good lieutenant or how do I know
+what Lieutenant to take uh I was really
+inspired uh by this comment to make this
+video so if you guys have anything else
+you want to hear from me or anything
+about Infinity be sure to leave a
+comment and maybe a video can happen so
+before we end answer what are the traits
+that make a good lieutenant or what
+Lieutenant should you take let's have a
+look at what a lieutenant
+is lieutenants primarily are a list
+building restriction every list has to
+have a lieutenant and thereby there a
+restriction on that list additionally
+they're a big point to vulnerability the
+loss of Lieutenant state is pretty
+catastrophic and comes about if your
+Lieutenant is killed or isolated or in
+any other kind of null State and usually
+has a very catastrophic consequence on
+the game such a strong consequence that
+strategies for the first turn can
+involve just killing your opponent's
+Lieutenant to buy you some time while
+you complete the mission and they have
+to scramble and scrape things
+together but lieutenants are very
+special in that they also offer an
+opportunity to provide a list with extra
+orders or other advantages in
+skills finally a lieutenant is also the
+unit whose whip is used at the start of
+the game for the lieutenant role which
+decides who goes first who goes second
+Etc I think there are four broad
+categories of lieutenants there are
+concession lieutenants which are chosen
+due to their ease of use or low cost
+these are things like line troop
+lieutenants who are usually cheap easy
+to decoy provide a link bonus of some
+kind that's easy to capitalize on the
+next ones are synergizes lieutenants who
+provide Synergy with other units these
+are models like the daier Tactical Unit
+who provide two Lieutenant orders that a
+list with NCO is able to capitalize on
+or the Knight Commander or even
+something like an interventor Lieutenant
+whose High skill is able to be used by
+the list to synergize with the wider
+Network and units within it next up
+we've got Brawlers and these are
+powerful units who benefit from the
+extra Lieutenant order for an offensive
+benefit this doesn't just mean guns but
+it can very well Mean Guns looking at
+tags or something like a hetari
+lieutenant but it also includes
+something like an anathematic who's
+using that Lieutenant order offensively
+in a hacking
+capacity finally you've got commanders
+who are lieutenants who have extra
+skills like Counter Intelligence
+strategos things like that that provide
+skills or opportunities that boost the
+list around it rather than being boosted
+themselves
+El here we see the general ranking of
+categories of Lieutenant with concession
+lieutenants being the lowest by a decent
+margin this is due to their opportunity
+cost if you're taking a concession
+Lieutenant you're not taking one of the
+other kind of lieutenants who could
+bring more to your list they offer very
+little to a list but they're usually
+very easy to fit in and usually very
+easy to protect in a list synergizes are
+sort of your middle tier of lieutenants
+they require other units to really shine
+or require a list to partially be built
+around them and can be restricting in
+that way but opposed to the concession
+lieutenants they add some Synergy or
+capability to
+elist then you've got your high tier of
+lieutenants these are your Brawlers and
+your commanders your Brawlers are
+usually resilient units meaning they're
+hard lieutenants to take down and the
+extra order they gain from being the
+lieutenant increases their capability
+offensively but due to being placed in
+that line of fire and that offensive
+role that makes them
+vulnerable finally you've got commanders
+who are able to do things like provide
+extra orders increase efficiency or open
+up opportunities for other units but
+their vulnerability point is their
+usually very
+obvious so now that we understand what
+an LT is and understand the four broad
+categories of Lieutenant how do we
+select a lieutenant for a list well the
+first thing is that context really
+matters not all armies have access to
+Broad complex or many varieties of
+Lieutenant access to skills such as
+chain of command is really relevant uh
+this leads to a lieutenant being a big
+restriction in some armies while not
+really being a restriction other armies
+and then further armies who are able to
+make advantages out of their lieutenants
+in all armies you primarily have to
+consider what an LT brings to the list
+relative to its
+cost we're going to start off with
+vanilla 02 as an example of a faction
+that's able to make opportunities and
+advantages with its lieutenants so let's
+take a
+look the O2 context is a very special
+one as they have the cheapest chain of
+command in the game which reduces
+vulnerabilities in your lieutenants
+which is most appreciated by Broad ER
+and Commander lieutenants chain of
+command increases the opportunity cost
+of running a synergizer or a concession
+Lieutenant as you have the tools to
+really make the higher tier Lieutenant
+shine highquality brawler and Commander
+lieutenants present opportunities and
+not restrictions in this way when you're
+building an O2 list you're not looking
+at your lieutenants going okay what's my
+restriction you're looking at your
+lieutenants in the capacity of okay
+what's my opportunity
+in terms of concession lieutenants you
+have quite a few but the ones that you
+may have seen the most may be the Raven
+eye or the Kappa synergizes are a bit
+rarer and include the Omega and silver
+star who mostly synergize due to their
+link options and tint bots in terms of
+brawlers you have the Zeta and Gamma who
+are both very popular lieutenants and
+finally your commander lieutenants are
+the alpha and Sonia who provide some WI
+benefit to the
+list there is competition within the
+brackets though starting with the
+concession lieutenants the Capa
+Lieutenant it's going to cost you 0.5
+swick it's not going to offer you any
+value to the list but it's very easy to
+slot in um unfortunately what makes it
+difficult is that it's pretty slot
+intensive to decoy having two random cap
+is in there isn't going to bring you any
+value to your list on top of costing
+that swick that means the cap has really
+pushed out compared to what you could be
+bringing the blue coat's very similar it
+offers very little value to a list and
+it's quite expensive compared to the
+kapper if you do choose to go down the
+alternate route instead of just decoying
+and taking the cheaper chain of command
+you're probably better off taking a
+better unit to really leverage that
+chain of command you've chosen to
+take Cho is sort of in the middle tier
+of a concession Lieutenant she protects
+herself via Hollow Mask but doesn't
+offer any wider benefit to the list and
+is more expensive than a raven eye
+finally The Raven ey presents the crem
+de CRM of concession lieutenants in
+vanilla 02 where the mine layer protects
+itself the mine layer adds to a
+deployment zone defense and it's the
+cheapest option
+but the main issue is that there is a
+massive opportunity cost to taking
+concession lieutenants in vanilla2 when
+you have that context surrounding you of
+your Lieutenant being an opportunity
+not a
+liability this extends to synergizer
+lieutenants where while you do have some
+they're not as powerful and the faction
+isn't as geared towards taking those
+lieutenants looking at the Brer
+lieutenants we can see in the top tier
+we've got the gamma and The Zeta the
+gamma provides near tag level Firepower
+and is immune to isolation due to
+warhorse while the Zeta is the best gun
+in the faction very survivable but does
+require some infrastructure like
+engineers and
+Etc stepping out of vanilla ow2 and
+going to starmada you've got Hector who
+is similar in style to a Brer Lieutenant
+but provides some benefit of a commander
+Lieutenant with strategos and other
+abilities unfortunately with a bs13 he
+doesn't really excel in offensive
+Effectiveness his weapons also hold him
+back as shorter to mid-range guns and
+that's really uncharitable when his
+point cost competes with that of The
+Zeta if you are choosing to take a
+brawler Lieutenant you need to make sure
+the one you're taking is really doing
+well for its points and that leads to
+the golden rule of would I take this
+unit anyway if it was not my lieutenant
+would I still take it as a brawler
+Hector sort of sits on the line where I
+don't think you really would where the
+gamma and Zeta you look at their
+profiles and go okay if these w my
+lieutenant I think I would probably
+still take them and that's when you know
+a brawler Lieutenant is really worth
+your
+time you've got a couple of command
+lieutenants you have the alpha who
+provides strategos level one which
+includes an a free extra reserve and an
+extra order per turn where you don't
+need any NCO it also provides an extra
+command token and has Counter
+Intelligence but really suffers from its
+large
+base you've also got s who have put
+quite low she provides a swick and is
+linkable but is quite fragile but what
+you really need to ask with the
+commander Lieutenant is what are the
+practical benefits in the context of the
+faction O2 as a faction isn't very swick
+hungry and you usually run out of points
+before you run out of either slots or
+swick and I wager you run out of slots
+before swick in the vast majority of
+cases Sonia being linkable is great but
+she's not going to provide any pure J
+bonuses and her moving up the field only
+exacerbates her
+fragility while on paper Sonia does
+provide a benefit that's quite good and
+unique from the alpha in The Wider
+context the alpha provides a much better
+practical benefit in the context of the
+faction altogether let's take a look at
+the lieutenants you have available to
+you in vanilla 02
+up here in the top tier we have the
+gamma the Alpha and the Zeta two
+Brawlers who passed our golden rule of
+being good enough to take anyway and the
+alpha who passed our goal in the
+commander option of being a unit who
+really adds to the list in a way that
+practically benefits the list and
+heightens the power level we've got the
+Raven ey in the mid tier as while he is
+quite a good concession lieutenant
+in the faction and in the context were
+not interested in a raven ey due to the
+opportunity cost of taking a concession
+lieutenant and then the rest past the
+Raven eye all fail the value versus
+opportunity cost
+test what value is this Lieutenant going
+to bring to me versus the opportunity
+cost of not taking one of the four
+lieutenants here on screen it's quite
+high now while that's good at excluding
+models
+which model do we actually pick from
+here well you need to look at your
+Lieutenant options and say what's going
+to bring the most value to my list to
+then pick your Lieutenant some lists in
+a mission like firefight or DeCamp might
+really value that Zeta or something like
+highly classified or a very order
+intensive Mission like supplies might
+lean more towards that Alpha it all
+depends on the list and all depends on
+the
+now let's change gears completely and
+look at corgador who's a faction that's
+really held back by their Lieutenant
+choices and whose Lieutenant choices
+provide a tangible restriction and very
+little to know
+opportunity in the kodor context we have
+zero brawler or Commander Lieutenant
+options there is no chain of command and
+a very limited Lieutenant selection and
+in this way The Limited selection of
+lieutenants presents a restriction and
+does not present opportunities like it
+does in
+02 kodor has three concession
+lieutenants in the agail Wildcat and
+mobile Bata and has one synergizer
+lieutenant in one of the mobile rata
+profiles as said earlier we have no
+brawler or Commander
+lieutenants looking at the faction as a
+whole you have the wild cat who as just
+a vanilla wild cat is extremely obvious
+as your Lieutenant it's expensive to
+decoy and has a very redundant
+kit furthermore it provides a less
+valuable bonus uh in a link team as two
+just vanilla wild cats aren't really the
+basis to build anything powerful off
+of the agail moves up to sort of a mid
+tier as while it does cost swick it's
+easy to decoy and the decoy and the
+lieutenant provide a relevant bonus you
+can build something around a lot better
+finally you've got the brigata who is a
+fine but not fantastic Lieutenant but
+probably top of the faction whose tinbot
+egg six profile provides list Synergy
+with linkable hackers and he's very
+survivable but unfortunately he's
+extremely expensive and can prove a lot
+of pressure on the points of a list so
+the Golden Rule with a faction like
+corgador where your faction presents a
+restriction in your Lieutenant rather
+than an opportunity the golden rule is
+to ask what hampers my list the
+least a lot of times this way you can
+look at what's important to me in this
+case is it points is it swick that'll
+help me determine between the mobile
+Bata and the agil what links am I
+wanting to run what size of links that
+sort of thing but the wild cat really
+gets pushed out as this will be
+hampering my list the
+most I hope you've enjoyed this this
+very uh short video and I really do
+thank you for watching uh again this
+video was inspired by a commenter so if
+you want to see something feel free to
+reach out and say something uh please
+like And subscribe uh ring the bell tell
+your mom about the videos tell your
+neighbor

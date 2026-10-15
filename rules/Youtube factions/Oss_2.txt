@@ -1,0 +1,347 @@
+Chapter 1: Intro
+Hello again. I'm ALF and today we are taking a look at one of my sectorals, OSS.
+Chapter 2: Summary
+What is unique about this sectoral is our partnership with the Bounty Hunter Syndicate. the operating of state-of-the-art semi-aututonomous
+support units, an array of highquality specialists,
+known as a hacking apex predator for the multiple whip 15 hackers it has access to, and most notably the Assura with its
+multisspectral visor level three. The bulk of your troopers being hackable, thus open to counterhacking operations,
+so be mindful of that. One of the things that might interest you in this sectoral is its tags which are both unique.
+Chapter 3: Strengths
+I'm going to present first the strengths of OSS.
+As is usual with ALF, you have excellent whip among all of your specialists and will have many of them in a list which
+makes OSS great at doing objectives. A good portion of your specialists are particularly fast as well being six to
+two move and even more exceptionally the Garuda forward observer being effectively 8 to six having super jump.
+The KHDs like Assura and Satra are amazing with Cyber Mask as roll compression units that can do missions
+as they are moving towards objectives and hacking through repeaters with second short skill.
+OSS has among the most efficient remotes which makes this a sectoral of force reconstitution.
+The accuracy of a marksmanship rera takbot with the supportware assisted fire is only surpassed by the Atalanta
+2 minutes
+in steel failank or the headcari in pan oceania which says a lot about its capacity as a gunfighter. The Daininis
+are now only there to complement Danova's fire teams as secondary ballistic shooters and I think can officially be dethroned as the unit
+which people remember OSS for.
+The Assur is great and you need a solid reason to not bring at least one list in
+a serious event. As written in February 2025, the MSV3 Arura specifically can
+actually spotlight camouflage markers through repeaters, making them take a saving role, revealing themselves, which
+enables you to trinity potential hackers as a follow-up or guided missile them.
+The SAMK reebots is an ARO piece you should always take. As a wild card, it can be paired in any fire team to
+benefit from a special dice posing a threat with its missile launcher. As a linkable guided missile unit, it can
+also be used in active turn to kill enemy troopers at a distance without direct line of sight if they are in a
+targeted state. This shouldn't be a main plan of attack, but it's basically free as a secondary option since you would
+take it anyway as an ARO piece. Access to the posthumans is one of the many strengths of this sectoral.
+The posthumans have the G jumper rule which allows them to take two to three proxies that count as one trooper. You
+cannot take two of the same proxy. They all count as one trooper when used as reserve during the deployment phase and
+also still provide an order if at least one of the proxies is in a non-null state during the game. They are
+incredibly cheap for their stats, but since you have to take at least two, they do weight on your list.
+The bounty hunter fire team has the best selection of bounty hunters models in the game. That uniqueness was a bit
+undermined in N4 since they weren't as strong as what was available in OSS.
+Only there to lower the average cost of your units. John Hawwood is there to change that in N5. Although does he? I
+believe in white company he is an auto pick but here for the cost of John Hawwood and an authorized bounty hunters
+you can have Rickshaw HRL and Artillus with points to spare. The Rickshaw HRL with plus one special dice is worse on
+its own than Hawwood. But once it gets marksmanship it is a better ARRO that takes three wounds to die instead of two
+and can be repaired with its fire teammate. The Artalis engineer Hawwood is a better turn one arro. So it really
+depends on how important that fact is in your game plan. The better bounty hunter here in operation subsection is father
+Lucian Schwartzer authorized bounty hunter. People always questioned whether he is actually good or not. But since
+the release of N5, it gained immunity arm, which paired with his dogged can make for a great push using hollow
+projectors. The FTO variant is great to use both as a decoy for your lieutenant and giving link bonuses for any of the
+ARO bounty hunters pieces such as the Acryat Kanan Bounty Hunter, Miranda Ashccraftoft, or on the more expensive
+side, John Hawkwood. You need to place your actual lieutenant close to his force's fire team to actually make it
+impossible to tell which is the actual lieutenant even with the knowledge of this trick. Where it really stood out
+for me though is the nonFTTO profile where I can potentially hide. Going second, the presence of a Garuda in my
+list by presenting 15 troopers with the hollow projector and hollow mask rule.
+Just make sure to not present 16 troopers by using all three hollow projections, which would make its
+presence obvious. You can take up to three, but too often is enough.
+Chapter 4: Weaknesses
+Now for the weaknesses of operation subsection.
+Despite having access to an MSV3 unit,
+you do not have the possibility to shoot through smoke by your own actions. The absence of smoke in this sectoral is a
+big down you need to work with. And the only visibility control you have is an expensive YU trooper profile you can't afford to duo in most lists.
+Units in this sectoral are really efficient but do cost accordingly. This makes lists harder to round out without
+resorting to cheap cheerleaders. You don't have any cheap left tenant options either. Most of them are troopers you
+wouldn't want two of in any list. This makes having a decoy or chain of command for safety a burden on your points. You
+could go for an obvious lieutenant in certain missions, but it's usually a thing to avoid. Most factions cover this
+floor easily by having a cheap low 10 points lieutenant and a double to use as a decoy. Torch Light gets the cheapest
+chain in command in the game, but there's no such thing as cheap here. I only hire the best in my forces.
+The midfield options are on the weaker side comparatively to their cost. Dart is good in offense, but rather bad in
+defense and would be better off as a hidden deployment trooper rather than a camouflage one. Andromeda, on the other end, can actually serve well in defense,
+but is fairly expensive and fragile.
+The Dashu is your hidden deployment troop, but is paying for a lot of skills it doesn't need. He's just too
+expensive. The usual trooper you would use for defense is the Naga mine layer,
+but I would only take him if the mission strongly encourages you to contest the midfield at deployment. OSS has better defensive tools for the cost than them.
+Although they have among the strongest whip hackers in the game, I think not having BTS6 or access to a Tinbot
+firewall minus three is a great failure in the design of this sectoral as a hacking apex predator. Their hackers are really banking on that one extra whip,
+which is only going to make a difference 5% of the time. Higher BTS or Tinbot's firewall would make them more resilient in all instances rather than sometimes.
+I find hacking options like a moderator hacker in Bikunin paired with a tinbot firewall minus 6 riot girl more
+resilient despite being whip 13 instead of 15. Same with light brigade with the
+waver rider and psychop both6 that can be paired with a silverstar tinbot firewall minus three. What OSS is
+better at is pressing buttons. Their hackers are vulnerable to an alpha strike of pitches and KHDs.
+That's where a Daru KHD would be useful if it wasn't so expensive. That fragility is obviously not the case with the Assura. Of course,
+Chapter 5: Recommendations
+I would recommend taking a duo of Rickshaw HRL and an Artalis engineer supported by a probotal hacker in all of
+your lists. Other units I would strongly consider are a Garuda Tacbots, the Satra
+KHD, Father Lucian Forza, a Samic Reebus, and at least one Assura list in any event.
+Chapter 6: Outro
+Thank you for watching until the end,
+and I hope this video has been useful to you. I'm looking forward for your comments, and I'm really glad to help in
+any way I can if you have questions. My next video is a joint project where some members of the community help me break
+down all the factions into a short summary. There should be a tactical video sometime after about how exactly a
+game of OSS looks in more detail with list examples.
+Until then, farewell my precious humans.
+
+
+----
+ntro
+Salutations. I'm Alef. Today we are
+going to cover list building, the
+deployment phase, and some unit specific
+Army Lists
+details. I have built and tested a lot
+of lists since the release of N5 and
+have found some interesting fire teams
+options. Some of them were a thing in N4
+that remain strong in N5.
+Fireteams
+For the fire teams, the best duos I
+found are Atalis engineer plus richer
+heavy rocket launcher, your most
+resilient ARO option, Yadu Disco baller
+plus a Yadu hacker or the forward
+observer variant. You can also pair the
+Disco baller with Shakti as your
+lieutenant. These are the best duos for
+button pressing. DEA killer hacking
+device plus a Dini heavy machine gun or
+multi- sniper. It's a great duel for
+hacking and shooting. Any bounty hunter
+really with John Hawkwood makes a great
+ARRO duo. It's better up front than your
+Rickshaw HRL, but it's more likely to
+die if it rolls bad than Rickshaw. I
+personally prefer the reliability of the
+Rickshaw in an attrition game and also
+its capacity to kill beefier units
+because of the continuous damage on the
+HRL. I want to highlight that although
+John Hawkwood makes for a great ARRO
+piece, it doesn't have remote presence
+and you can't give him six cents like in
+White Company, meaning his advantageous
+number of dice in ARO can be easily
+negated by smoke shooting. There's
+definitely a use case for him, but be
+mindful of its limitations. In most
+lists, I would take a rickshot HRL
+instead. There's strong arguments for
+both, but those duels cost about the
+same, so you can swap them in between
+rounds and see what you like. For the
+Harris, Danverse plus Daini Multi Sniper
+or HMG plus either the Daini Paramedic
+or the Div.A KHD. Both will give you a
+special dice on the Davos and Multi
+Sniper or HMG. The paramedic would
+enable you to recover the Denavas while
+dropping the points cost a little. The
+da gives you instead a killer hacking
+device. Father Lucian Forzer plus a
+bounty hunter the acrylet canon variant
+specifically for its arro presence plus
+a sensor da lieutenant. This one gives
+you a lieutenant and a decoy because of
+the hollow mask rule oner and a lot of
+utility. DVA KHD plus a Dini HMG and a
+rickshaw redfrey to cover all range
+bands and the ability to threaten most
+troops. Dini multi sniper or HMG plus
+two CSUs. Generally the boarding shotgun
+and the nanop pulser. It lowers the
+average cost per trooper in the list.
+Rudra with any duo for a mobile
+gun/hacking platform. Since it has a
+repeater, you can give him a support
+anywhere and extend hacking areas as it
+moves. There's a few cores worth
+mentioning. You can add a summitic FTO
+to any Horus to make it a core with a
+strong ARO piece. You can add Poverty to
+the Div.A KHD, Dini HMG, and Rickshaw
+Redfury to be able to fix any unit in
+that core. You can also add a Trisha to
+a Rudra composition to unbreak it when
+it gets oblivion or carbonated. You can
+also simply use a speedball switch on
+the first time it would be incapacitated
+if the ball does land.
+Strengths and Weaknesses
+You are blessed with one of the best
+hacking factions. So tags and hackers
+should be easy enough to beat,
+especially with the two K1 pieces you
+would run either one of and pieces like
+the Assaura or the Div.A KHD. A more
+common weakness I found is to meatism
+minus 6. So pieces like the Satra unit
+KHD can fill multiple roles as a solo
+offensive trooper. you will have a hard
+time against melee troopers as well. So
+having some template weapons can be a
+good way to deal with this weakness and
+mimeism minus 6. We will now take a look
+Lieutenants
+at the lieutenant
+options. As you can see, there's no
+cheap lieutenant. Most of these options
+you wouldn't want to take more than one
+due to either their cost, functions, or
+availability. For example, if you take
+Maximus as your lieutenant, there is no
+other whip. 13 option making the LT
+choice pretty obvious. The presence of a
+marit and an assura will also telegraph
+what is your lieutenant as you would
+only take those pieces as a lieutenant
+and never two of them. It's already hard
+enough making room for one in a list.
+When taking the Marut, you should always
+be taking a chain of command trooper.
+The Assur is easier to hide and more
+resilient from an hacking alpha strike.
+The Adu officer Shakti is a good option,
+but yet again, the only two options with
+the same whip you have are the Shukra
+consultant and the 28 points decoy Yadu
+trooper. Both would be a burden on your
+points. And it just so happens that
+Sporser is at that point's range and can
+actually both serve proactively in a
+list and as a decoy with the hollow mask
+rule. The diva's functionaries are the
+only option where it's actually doable
+having two of in a list. But at 20
+points, you don't really want the base
+one. You would either take two sensor
+ones or one sensor and a deabot. The
+extra points are worth the extra utility
+in both of these instances. Otherwise,
+it feels like you're paying at least
+five points more than you should with
+the base one as a decoy. There are
+definitely some cases where a Shukra
+counterintelligence LT would be a good
+option, especially in missions that
+really encourages going turn one to deny
+the command token strategic use of
+stripping you two orders. I most often
+prefer him as a chain of command option.
+Sforza Decoy
+The solution I found to this left tenant
+problem is as mentioned
+briefly. It can mimic any decoy of your
+choosing of size two while also
+providing a trooper you are likely to
+use in active turn. Even if people know
+he's coming, you can deploy in a way
+that makes it really hard to tell which
+is the decoy and your actual lieutenant.
+The projections which can reappear in
+the state phase counts as troopers for
+the purpose of line of sight triggers.
+Meaning you can move a projection
+slightly ahead of sportser and
+harmlessly detonate potential traps. See
+this video for more info about hollow
+projectors. A good example I have is
+this Harris forcer sensor diva
+lieutenant and an acryat canon bounty
+hunter spreading the da and forcer 8 in
+off each side of the bounty hunter fire
+team leader. It makes it so the opponent
+would have to picture twice to spotlight
+both LT and decoy in a guided missile
+play. The EVO hacker is a key piece of
+Evo Hacker
+your list. So adding some Lamoth reebots
+to increase your hacking area can be a
+good idea. One of the best cheerleaders
+to bring in an OSS list. The two best
+Jokers
+jokers you've got in OSS are Andromeda
+and the Garuda. Both troops should be
+experimented with once you get more
+experienced at the game. You should
+deploy them really carefully. Andromeda
+can be a great ARO piece and an active
+turn can go on a tear. I will make a
+video about her specifically in the
+future. The Gabuda has surprising reach
+with its first movement skill and all
+variants are useful in very specific
+contexts. The forward observer can be
+great at doing objectives, while the
+boarding shotgun one is great at
+dropping behind the enemy line or weaker
+areas and causing as much damage as it
+can. The Spitfire can do the same from
+any angle, but at the cost of
+SWC. When starting a game, going first
+Deployment & Tips
+or second will inevitably influence how
+you approach the deployment phase. When
+going second, it is important to cut
+entry points to your half of the table.
+You might also want to cover important
+game elements such as objectives or
+potential
+classifides. Most ARO pieces you should
+take in OSS have the remote present
+skill, making it unlikely they are going
+to die in a single exchange, even if the
+fights are really at your opponent's
+advantage. The goal is primarily to make
+them waste orders.
+You should always have an engineer with
+servants ready to bring back those
+pieces in a single order. Avoid placing
+the recovery pieces in circular
+temperate range of your ARRO's. Have
+them in short movement skill distance
+instead. Also, try to use the full depth
+of your deployment zone. The closer you
+are to the 12-in line, the less orders
+it takes for your enemy to get to you.
+It's critical to hide your hack as well.
+Try to make it so no pitcher could get
+to them before having your first turn.
+If it means you have to hug your border
+of the game table, so be it. Don't make
+it easier for your opponent to kill
+them, especially your Assura when it's
+your LT. When going first, you primarily
+want to set the pieces you don't intend
+on using to cover your half of the table
+and not be exposed. It is good practice
+to not have line of fire directly to the
+enemy's deployment zone unless they made
+an exploitable mistake at deployment.
+Make sure to check if your baggage bot
+is in zone of control of your pitches,
+disco baller, or any disposable
+equipment or weaponry. It's one of the
+easier things to forget at first.
+Printing a checklist alongside your
+courtesy list might help for your first
+couple of
+Active Turn
+games. In active turn, you have strong
+fighting elements, but sometimes
+dedicating your turn to doing objectives
+is a better choice than to amputate your
+opponent. You have among the best
+specialists and often really fast ones
+as well. Since the addition of the disco
+baller yadu troopers, you now have a
+powerful tool for vision control,
+allowing you to do objectives
+uncontested. Again, not for every
+scenario, mainly button pressing ones,
+but it can be a game plan on its
+own. I hope this video has been useful

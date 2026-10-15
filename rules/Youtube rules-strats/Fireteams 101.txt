@@ -1,0 +1,622 @@
+
+Intro
+Welcome to the Infinity Institute for
+the Dice Squads. My name is Hydra and in
+today's video we are going to take a
+dive into the wonderful world of
+biotines in Infinity M5. If you haven't
+come across them before, this should
+explain how these work, what they do,
+and what they're for. Um, if you are
+coming in from N4, this will also talk
+about some of the changes and bits and
+pieces that have happened in the new
+edition.
+As ever, fire teams are a double-edged
+sword. They're a useful and can be quite
+potent tool, but there are some
+drawbacks. However, we will talk about
+that one in a minute. First, thank you
+as ever to our members and patrons who
+are literally making this possible.
+Special note goes out to Chris Sexton,
+Mr. Chesher, Michael Rowan, Robert
+Foster, Sean Cobburn, Robert Vanium,
+Rick Wolf, Cass, Gail, Discordia, and
+Joe Rogers at the upper echelons of
+support for the channel, but also to the
+other members and patronons who are
+doing their bit and helping making this
+happen. Somehow, we've got over 50
+supporters that are actually
+contributing to the channel on a monthly
+basis, which is just blowing my brains.
+It's phenomenal. And really, thank you
+all so much for supporting. I'm glad
+you're enjoying the channel.
+If you haven't done already, please
+consider signing up. It costs less than
+a coffee. And I think last month we did
+over 3 hours of extra videos and stuff
+for members. And that includes this
+video. Actually, this this video has got
+some extras on the end for members,
+including additional sort of
+descriptions of Fire Teams and how they
+work and all that kind of stuff. So, if
+you want even more on Fire Teams, this
+could well be the video to join and
+become a member on. But that is enough
+about that. Let's look at what we're
+going to talk about in this video. We
+look at what fire teams are, the
+different types of fire teams, the
+benefits, how you build a fire team, how
+they actually work, the good and the
+bad, the tactical types, and then for
+members, we're going to do hints, tips,
+and tricks. And we're going to look at
+some example fire teams, how they work,
+what they're good at, all this kind of
+stuff. So, let's start with what are
+Fireteam Basics
+fire teams, the basics to 101. They are
+literally groups of troopers linked to
+act as a squad. So, this is a bunch of
+guys. The the theory is the idea is that
+they're trained together. They operate
+together as a individual unit and they
+go out and they do the violence. So
+that's what they're doing in the active
+phase. One order activates the whole
+fire team. So this makes them very
+efficient. You can, as we'll discuss in
+a minute, have up to five troopers in a
+single fire team. And that means that
+with a single order, all five of those
+will activate, which is pretty cool. But
+only the team leader does anything other
+than move or reset in the active phase.
+But that fire team leader does get
+bonuses for doing that. In the reactive
+phase, everyone can arrow as usual and
+all members get the bonuses which are
+available to a fire team. So it makes
+them a lot more potent in ARO.
+Definitely there's no two ways about
+that. And in the active phase, you
+trade flexibility of or actions of all
+of your troopers for order efficiency
+and increase potency on one miniature.
+So there is a trading process that
+happens here but overall they are they
+are very very useful. There's no two
+ways about that.
+Duos Cores
+So there are three core types of fire
+team. There are others sort of
+technically but we're just going to yeah
+talk about this. So we have duos which
+there are only ever two members of. I
+don't know how you get to that with name
+like duo but here we are. Duos are
+widely available. In a sectoral army you
+will be able to take as many as you
+want. In a generic army, you'll be able
+to take two as a rule, just two duos. A
+Harris must have three members. It is a
+team of three working together. In a
+generic army, you get one. And sectoral
+army, most of the time, you get one as
+well. So, you will have that. And then a
+core fire team is three to five members.
+You only ever have one of these pretty
+much. I've not seen that be. They're
+going to release an army tomorrow. Well,
+that's different. But that uh as far as
+I've seen so far, you can only ever have
+one core fire team and only in
+sectorals. So it is possible to have an
+allowance in a sectoral of unlimited
+duos, one Harris and one core. Whereas
+in a generic army like combined army for
+example, you would have two duos and one
+Harris. So you are limited on the number
+of of fire teams you can have,
+especially as you get up to the higher
+numbers.
+Matched
+mix or match.
+You can have different fire team
+compositions. They are not all the same
+troop type. And this will we'll cover
+this a little bit more in a minute.
+Matched. They are all the same troop
+type. Now, that doesn't mean that
+they're all fuselers. That means that
+they are all troopers who have the unit
+designation of fuselier, for example.
+And unmatched means that they're
+different. When your fire team has two
+members who are matched, bearing in mind
+that you always a fire team always
+activates on the same order. So that's a
+standard feature that that always
+activating on one order for all members
+of the fire team standard. If you have
+two matched members in your fire team,
+so two fused leers and some other
+people, then your BS stack gets plus one
+special die. Plus one special die can be
+really really potent because what that
+means is
+you throw an extra die when you do your
+attack. Okay. And you then get to choose
+to discard one of your die from the
+attack. Where this is incredibly potent
+is where you have weapons that have
+limited uses like pitches or panzaf or
+things like that
+because the special diet doesn't count
+towards it doesn't count as a use of
+that piece of equipment. So your
+panzafou is limited to use and a pitcher
+I think is still two use as well. So if
+you were to fire a panzer file at a
+target and miss, that shot's gone. With
+the special dye, you throw two dice.
+You're doubling your your chances of
+actually being successful. So special d
+is pretty potent, especially with
+disposable weapons. When you have three
+members, you get plus three discover and
+plus one dodge. That applies to the fire
+team leader in the active phase. And the
+reactive phase, everybody in the fire
+team gets it. Four members, you get up
+to plus one BS. And five members, you
+get up to six cents. And those stack. So
+if you have four members, four matched
+members in a fire team, you get the BS
+stack, plus one special dy, plus three
+discover, plus one dodge, and plus one
+BS for everybody in that team. So it's
+quite it's quite potent. There's no two
+ways about it. It is quite potent.
+Fireteam Chart
+Let's look at how you build a fire team.
+And we're going to use the tarter army
+call for this. What we're looking at
+here is the fire team chart, the current
+fire team chart for
+Tartery from the army builder, the
+online version of the army builder.
+First things to note at the top there,
+we have unlimited fire teams because
+this is a sectoral army. We have a
+maximum of one Harris, one fire team
+core. So that is where you find out how
+many of each you can have. These are
+then your in this case four fire teams.
+is we have a line kazak fire team, a
+veteran fire team, dynamo fire team and
+a ratnik fire team.
+These are the types of fire team that
+those fire teams can form. So a line
+kazak fire team can form a Harris or a
+core veterans J Harris and core dynamo
+jur and Harris and the ratnik jur and
+harris. Now
+it is possible if you have the allowance
+to form multiple of these fire team
+sorts. So you could have a Harris and a
+core of line Kazaks in the same list.
+That would be legal. That would be
+absolutely fine.
+The only thing you need to be aware of
+is that all members of a fire team need
+to be in the same combat group. That's
+one requisite that happens. But aside
+from that, you can have multiple of like
+multiple veteran fire teams. It's
+possible you could have a core, a
+Harris, and a duo all in the same combat
+group from the veterans fire team. That
+would be entirely possible.
+Now, one thing to note, let's look at
+the line Kazaks for a second. Line
+Kazaks, you have to take a minimum of
+one, says on the left hand side, a
+minimum of one line Kazak to form the
+fire team. Everyone else is zero.
+You then have a Kazak doctor and a front
+and a dozer. They all have line Kazak in
+brackets behind them. So if you take a
+Kazak doctor and you add it to a couple
+of line Kazaks, that counts as match.
+That is a matched fire team.
+We'll go into this in a little bit more
+detail in a minute, but it's important
+to notice when you have those names that
+they match. Also, when we look at the
+veterans fire team, you'll see on the
+left you've got minimum star and star
+next to the veteran Kazak and the front.
+What that means is you have to take one
+of them. You either have to take a
+veteran Kazak or a Fronttovic to form
+this fire team.
+Next we have wild cards. So they always
+appear at the bottom. They can be added
+to any fire team, but unless they have
+in brackets after their their name um a
+unit type, then they will not count
+towards the matched allowance. So just
+be aware of that one. So let's look at
+Fireteam Example
+building a fire team. We're actually
+going to build a line Kazak fire team.
+We're going to take four line Kazaks.
+One, two, three, four on the right
+there. So, the fact that we have a line
+Kazak in there makes this a legal line
+Kazak fire team. This is a core fire
+team because core fire teams have
+between three and five members whereas
+Harris top at three. So, this couldn't
+be a Harris to speak core. Now, because
+they're matched, we get the BS attack
+plus one special die. We get the plus
+three discover and the plus one dodge
+and we get the plus one BS. But because
+we only have four members, we can't get
+the six cents.
+If we put in a Kazak doctor, Kazak
+doctor has line Kazak after its name on
+the fire team chart, that means this
+remains a matched fire team and the
+bonuses that we get remain the same. The
+BS attack plus V score plus one dodge
+plus one BS still remain on. If however
+we substitute the doctor and a line
+kazak for a conductor and a beast
+hunter, they are able to be taken line
+kazak fire team but they do not have
+line kazak in brackets behind their
+name. That means that this fire team is
+only two line kazaks. So you only get
+the attack plus one special die. That
+special die would be available to anyone
+in the fire team. So, if the beast
+hunter was taking a shot, it could use
+the special die because it's part of the
+fire team and that buff is in the fire
+team, but you're not going to get the
+full four
+um matched bonus that you would if you
+had line kazak or took troopers with the
+line kazak uh keyword.
+Now, here we're going to bring in a wild
+card. We brought in Colonel Veronin.
+Colonel Veronin has brackets line Kazak
+after his name. So we have Lanc Kazak,
+Lan Kazak, Lan Kazak, Colonel Volin, and
+a beast hunter. So we have four troopers
+in his fire team, but Colonel Rolin has
+the keyword of Lan Kazak. So this is
+matched three. So we get the plus uh one
+special DP stack, plus three discover,
+and plus one dodge. Even though there's
+four members, only three share the line
+kazak keyword. So we only get matched
+three when we get to the third bonus.
+Hope that makes sense.
+How do they work
+So, how do they work in creation? Fire
+teams can be made during deployment. Um,
+this tends to be done when you put down
+your last miniature at the end of
+deployment. So, you've done most of your
+stuff. You just have that last one to do
+and you put down your fire team markers
+like the one you see on the right hand
+side of the screen here next to the fire
+team leader you're going to start the
+game with. During the game, you can
+create them by spending a command token.
+Cancellation. There's lots of ways to
+cancel a fire team. If the leader enters
+the fire team leader enters a null
+state, so they're shot or they become
+isolated, the fire team breaks. You need
+to spend a command token to reform it.
+If the leader chooses to lead the fire
+team, so there are moments where you
+might take a fire team up the board with
+the whole intention of splitting them
+when you get further up the board to go
+off and do different jobs. As soon as
+the fire team leader leaves the fire
+team, fire team breaks. If the leader
+declares a different arro, so if
+everybody's dodging and the fire team
+leader is shooting, the fire team
+breaks. If your army enters retreat, if
+another fire team is created, and what
+we mean by that is if the limit of your
+force is one core fire team and you have
+a core fire team on the board and then
+you spend a command token to form
+another core, the first core will break.
+It will stop being a fire team anymore.
+And if you choose to cancel the team,
+you can choose to cancel your fire team.
+That is entirely legitimate, legal, and
+possible.
+So
+Coherency
+use inactive phase. When you want to use
+a fire team, you put your order token
+down as usual and you nominate a fire
+team leader. You check that all members
+are in coherency with the fire team
+leader. What's coherency? Zone of
+control. 8inch bubble. In order for your
+fire team to work, everyone has to be in
+that coherent area. You spend that order
+on the fire team next to your fire team
+leader and all members of the fire team
+do a skill if it has the movement or
+reset label. So if you want to move up
+or you want to uh reset, they all do
+that skill. They all do that thing. If
+they do any other skill, only the fire
+team leader does the skill and the rest
+of the fire team idle.
+Now you spent an order, which means that
+you are subject to ARO. Enemies may
+choose any of the troopers in the fire
+team to arrow to, but not more than one.
+So only one order was spent. So only one
+ARO is generated per trooper. Um yeah,
+so your your troopers if you're
+arrowing, you must choose a specific
+trooper to arrow to in reactive. Um all
+Arrowing
+members of a fire team get to arrow as
+usual, but all members must declare the
+same ARO. So you can't have your your
+four fire team, your four members of the
+fire team, one shoots, one dodges, one
+close combats, and one idles. That's not
+the option. They all have to do the same
+thing. But each trooper may choose a
+different target. So if the enemy walks
+around the corner with another fire
+team, and you can see four members of
+that fire team, and your four members of
+your fire team all want to shoot a
+different member of the attacking fire
+team, you may do so.
+And all members of the fire team in a
+row have the full set of bonuses. So, if
+you have four um troopers in a in a fire
+team and they all shoot, they and
+they're matched, they'll get all get
+plus one BS to their shot, which is kind
+of cool. So, it really does help in
+arrow. It can make quite the difference.
+Notes
+Notes,
+troopers with the NCO skill may spend
+the lieutenant order like they normally
+would. So, NCO allows you to take
+lieutenant order and spend it on a
+trooper with the NCO skill.
+If you have the NCO skill and that NCO
+trooper is the fire team leader, they
+can spend the left tenant order on the
+fire team. Equally, troopers with
+tackaware, they generate their own
+order. If they are the fire team leader,
+they can spend their own tackaware order
+to activate the fire team. So having
+NCOs's and having tackaware troopers in
+a fire team is a really good way of
+boosting the orders that are available
+to that particular fire team.
+If a trooper leaves a fire team during
+the turn and they are in coherency
+during the stakes phase at the end of
+your turn, they may automatically rejoin
+that fire team. That's not a problem at
+all. They can do that. That's all good.
+Um, so why would that happen? If you had
+a trooper that was in a particularly
+poor position and you didn't want to
+activate the fire team to activate that
+trooper, which would then make him
+targetable, you may effectively break
+him out of the fire team, keep the rest
+of the fire team going. But if there's
+still incoherence at the end of the
+turn, you can go, "Well, he's back in
+now." just to get the bonuses during
+arrow if you see what I mean.
+Good and Bad
+So the good and the bad of fire teams.
+Obviously fire teams are incredibly
+order efficient. You can get five
+troopers, spend one order on it and they
+all move up the field. This is very very
+very good. It's a damage multiplier that
+that special die that you get in there,
+the potential plus one BS, the
+efficiency with which you can move
+around the board, you get more damage
+output. There's no two ways about that.
+And with those
+uh fire team buffs, you end up with this
+defensive bubble that enemies are less
+likely to want to try and probe. They're
+less likely to want to mess around with
+because it's that much more potent.
+And a good fire team carefully
+constructed with a solid plan is
+definitely more than the sum of its
+parts. Because you have these troopers
+that can support each other, we talk
+about later.
+you end up with a unit that charges
+around the board and is actually quite
+surprisingly versatile and capable. Bad
+side, it's a big target. You're going to
+have points. You're going to have lots
+of orders all within zone of control of
+one miniature.
+That is a very very tasty target that
+you know you might want to stick rounds
+into if um
+if it presents itself. it's it's worth
+hunting because if it's moving up the
+board potentially it's got a lot of
+weapons or specialists in and you may
+look at it and think well actually that
+is worth me um just hunting down because
+I can take out a lot of orders and a lot
+of capability all in one go. It also
+concentrates your force similar to what
+I just said. You end up with a lot of
+troopers all in one place. They are
+going to be they have to stay together.
+So they're going to be moving down one
+flank. They're going to be moving down
+the middle. They're going to be in a
+specific place. And a lot of the time, a
+fire team will indicate what your plan
+is. Every game, you should have a plan.
+With a fire team, you are very clearly
+going to be moving towards objective A
+or moving towards target B, whatever. It
+kind of does give away what you have in
+mind. So, let's have a look at some of
+Types of Fireteam
+the different types of fire team that
+you can put together. I don't mean a
+Harris or a core. I mean the actual kind
+of utility tactical choices that they
+present. First, we have the old school
+pain train. This has been around a very
+long period of time, and it tends to be
+a group of heavy infantry or even tags
+formed into a fire team to go and do a
+thing. There tends to be a lot of armor.
+There tends to be a lot of guns. There
+tends to be a lot of violence. You can
+with modern pain trains also whack in a
+lot of specialists, so it can be quite
+versatile. But the main scary thing is
+there's a big lump of armor with lots of
+guns very efficiently tottering its way
+down the board to come and hurt you.
+pain trains are not pleasant. If you
+want to see some good examples,
+invincible army and uh military orders,
+especially the military order one is
+horrific. You can end up with five
+specialists with I think all with
+stealth. So, they can just creep past
+all of your army and then get it in the
+back. They're just not pleasant. And
+because they tend to have a lot of armor
+and they tend to have multiple wounds,
+they can take a lot of putting down as
+well. You know, you might have five
+troopers who have, you know, three and
+four arm and two viter each. So,
+actually putting that in the ground is
+going to take a lot of effort.
+Next up, we have the specialist bomb.
+These are useful in objective missions.
+The fire team is just stuffed with
+specialists. It's it's all the
+specialists that you can possibly cram
+into one fire team. You usually put a
+variety of different types of
+specialists in there. You don't tend to
+just spam um paramedics, for example.
+So, it's useful if you're doing things
+like um classified objectives and stuff
+like that because it lets you move all
+of this lump of specialists around the
+board together and you you'll often
+stick a big gun on the front so that the
+enemy is dissuaded from any sort of
+offensive actions against your useful
+guys. A Swiss Army knife fire team has
+diverse units each with a role. So,
+they'll they'll cover and support each
+other and it does multiple things well.
+So you might have a hit piece, you might
+have a piece that's there to complete
+missions, and then you might have a
+hacker to cover it all off. This kind of
+thing, there's multiple things working
+together to do something very specific.
+And those can be quite impressive,
+actually. They can be quite potent.
+ARO Turret
+Next, we have the ARO turret. It's
+designed for board control. It's unit
+specializing in reaction or that you
+just don't want to face in reaction. The
+kind of thing that you stick on top of a
+turret, on top of turret, on top of a
+tower. um so that you get the special
+die in there and it's just not nice. The
+enemy just doesn't want to face that
+really. Um there's lots of different
+ways you can do it. Um essentially it's
+just really if you want that defensive
+uh the defensive ARO piece, if you can
+get it in with a special die as well,
+well, why wouldn't you really? That's
+kind of where we are. And then we have
+controlling the crazies. This is tends
+to be impetuous troopers who join with a
+specific other trooper that can stop
+them being impetuous. There tends to be
+a very specific trooper like the Osnat I
+think on the right there is useful for
+the hungrys in uh Morat and suddenly the
+hungrys go from being impetuous to being
+regular. controlling the crazies type uh
+fire teams tend to get a certain
+distance down the board with everyone
+all nicely protected by cover and all
+this kind of stuff and then they just
+get released. So your fire team leader
+breaks the fire team and your crazies
+just go woof down the board and start
+munching on people. Legit tactic quite
+funny to watch.
+Crazies
+Up next is the section for our members.
+If you're not, I will see you in a
+second. And if you are a member, let's
+dive even further into the joy of fire
+teams. So there you go. That is a
+introduction 101 to fire teams. What did
+you think? Do you have any special fire
+teams that you love um or that you think
+the world needs to know about or
+definitely doesn't need to know about,
+but you should tell us anyway? Let us
+know in the comments below which
+particular favorite ones you have. Do as
+ever, please like, share, and subscribe.
+Get the word out there. That helps the
+channel immensely grow and develop. I
+appreciate very much and I hope this is
+a good view and I will see you all soon.
+Thanks for watching and goodbye.

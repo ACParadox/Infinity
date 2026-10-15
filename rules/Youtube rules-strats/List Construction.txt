@@ -1,0 +1,753 @@
+
+Introduction
+hello and welcome to an Infinity the
+game Tactics video This is
+optimistically the first in a series I'm
+calling Infinity 101 which I hope to use
+to present a bunch of Concepts that will
+primarily be aimed at beginner players
+but which might also be interesting to
+intermediate or Advanced players either
+just to listen to or perhaps to cover
+Concepts that you're familiar with but
+presented in a new or a different way in
+this first episode we're going to be
+covering starting at the very beginning
+and covering list construction before we
+begin though I would like to thank my
+local community who I reached out to for
+ideas on how to name this series all of
+which I have chosen to
+reject so what we're going to be talking
+about here are three things now this is
+not an exhaustive list of stuff to think
+about when you are building a list but
+they are three basic concepts that might
+be useful to you and which are good like
+building blocks when you're looking to
+progress from being a beginner player
+that knows like how to put a list
+together but not what makes a good list
+into an intermediate or Advanced player
+the three topics that I want to cover
+are one why it is important to build
+your lists with the capacity to defend
+two how to get your second combat group
+right this is a whole topic by itself
+and something people have been asking me
+about recently and then three how and
+why it's important to experiment with
+your lists let's start with the
+defensive topic so the basic point that
+Build your lists to defend first, attack second
+I want to make here is you have to build
+your lists to be able to defend defense
+is a capability that you build build
+into a list because there are models and
+profiles that come together to let you
+defend there are a lot of options for
+what you can be using to defend that
+will vary by faction different factions
+will have access to different tools but
+it's really important to put those those
+tools into a list if you don't have a
+defensive plan if you don't know what
+you're basically what you're going to do
+if your opponent elects to go first and
+treat the mission as Annihilation with
+extra steps then you are at the mercy of
+the lieutenant role and just go first F
+head is not a valid defensive plan we
+could do a whole separate video on you a
+list of things and ways and stuff that
+you can put into a list that would let
+you defend and in fact I want to cover a
+video on Aros and defending generally
+that I might actually be the second
+episode in this series but if you want a
+simple checklist of stuff to put into a
+list I would suggest some soft Aros so a
+hacking network doesn't need to be
+strong but even one hacker plus a couple
+of flash pulse remote repeaters can give
+you enough coverage to stop a terminal
+approach into your deployment Zone by a
+hackable element some hard AR arrows you
+do need something that can be a gun
+although as I say here any any gun can
+play defense in a pinch if you have a
+sufficiently robust heavy machine gun
+that can if you need it to play as a
+longrange Arro piece ideally you also
+want some template defense something
+with like chain rifles or shotguns or
+flamethrowers something that can cover
+off on those Final Approach approaches
+into your deployment Zone and then
+finally kind of more generally do you
+have pieces that you are comfortable
+losing if you need to a delami or a
+liberos or an oxport or a longard these
+are classic pieces that are kind of
+tricky to remove but which as a player
+you can say you know what if this piece
+dies the rest of my plan is still
+totally intact on screen here we have a
+sample list that is built with defense
+in mind now it's a toha list I've taken
+this from the list that I talked to
+cancon so it's going to have elements
+that not every faction has access to but
+the point I basically want to make is
+this list is built first with defense in
+mind and because it's built with defense
+in mind I can play it knowing that if I
+want to go first then I can just play
+the list aggressively I can use the
+pieces in it aggressively but if I am
+not going first and my opponent is going
+take the first swing at me I'm in a
+position where I am not going to be
+knocked out of the game if they swing
+sufficiently hard at time of recording
+it is April 2023 and infinity does not
+yet have a mechanic that allows players
+to rubber band back into the game so you
+need to be able to defend if you're
+going to successfully play from turn two
+onwards this is a sample list that is
+built to do that we can see a lot of
+pieces in there that are hard arrows so
+we have snipers we have both the nickel
+and the sukale we don't have hacking but
+we do have t wheel officers which are
+very powerful soft defenses we have a
+really good variety of very dangerous
+template defenses protecting sort of the
+terminal approaches into the deployment
+Zone if this if you close with this list
+you are going to wear either plus damage
+or plus burst heavy flamethrowers which
+are scary to just about anything in the
+game and then of course because it's
+toar it has Symbio mates symbia mates
+basically play the role of designated
+casualties in a toar list they are a
+whole bunch of pieces of equipment that
+let me say okay I'm going to take a hit
+on my troop but my troop is not going to
+die the Symbio mate is going to cop it
+instead so collectively this list
+performed extremely well on the defense
+it covers off basically everything that
+I might want it to and it's still
+totally serviceable at attacking but
+attacking with it is a question of how
+you choose to play the pieces that you
+have yes there's offensive capability
+built into this list but really what it
+is attempting to do first and foremost
+is just survive if I don't go first and
+that paid off it paid off multiple times
+in a way that was really important which
+is kind of Testament to how well this
+list performed over the course of the
+event like I mentioned we can and
+probably will do an entire episode of
+this series on how to use these pieces
+and with more detail on what kind of
+pieces you want in a list but the basic
+premise here is if you aren't thinking
+about how you should defend start
+thinking about how you should defend
+whether it's things like I'm going to
+put my tag on Aro for an order or two or
+I don't have hacking in this list maybe
+I can fit it in those are things that
+will take your lists from you know a 50%
+win rate to a 55% win rate because they
+give you that edge in those scenarios
+where your opponent goes first and
+swings at you really hard also this is
+stuff that will pay off over the course
+of an entire game if you build a list
+that can defend that's not just useful
+in getting to have your first turn but
+it's useful at getting to have your
+second and your third okay so our second
+Getting your second combat group right
+second topic is how to get your second
+combat group right this is something
+I've had I think like three or four
+people ask me specifically about just in
+the last week and so I thought it was
+something that Des a slide getting your
+combat group right your second combat
+group right is something that again will
+really help you take your lists from
+okay to good because your second combat
+group sort of by definition is the group
+that is going to have fewer orders I
+will usually not always usually do a 105
+Trooper split um it's a fine default but
+other configurations can also work I've
+seen six 69 lists work really well I've
+even seen seven eight lists that work
+quite well with the caveat that those
+those are the ones that are usually most
+vulnerable to having orders stripped
+from the group you least want on the
+first turn so if in doubt I would
+suggest going a 105 split but experiment
+to see sort of what works to you
+regardless of how you choose to set up
+your second combat group it's usually
+going to be your group with the fewest
+orders that needs the clearest plan it's
+going to have the least resources to
+work with you're not going to be able to
+spend order after order accomplishing
+whatever goal it is you want so your
+smaller group group is usually going to
+be less failure tolerant it can't try as
+many times as your first combat group to
+do whatever it needs to do what that
+means is you need to use pieces that
+need fewer orders or pieces which only
+need orders sometimes and your second
+combat group is generally going to be an
+excellent place for things that combine
+some qualities of fast or disposable or
+which are support elements stuff that
+only needs order sometimes or only needs
+a few order
+those are some general principles but
+this is something I think is going to
+benefit from some clear examples so
+let's actually break down a few in list
+that I have either used or played
+against so here are three five Trooper
+second combat group lists that I have
+either used personally or played against
+personally and we're going to break down
+how each of them works and why it is
+good we'll start with this Nomad second
+combat group so in this Nomad we Nomad
+second combat group we have a gator now
+it doesn't list that here but if that's
+not a gator it certainly could be in
+this case I think it's not and that's
+fine but there is a gator there is a tag
+tactical armored gears can fit easily in
+both combat groups if you put a tag in
+the first combat group you're kind of
+saying this tag is going to be a
+significant part of my battle plan and I
+am intending to be able to maybe push
+aggressively with it but the thing about
+tags is that tags are big robust tough
+usually multi-heavy machine guns their
+General role is actually often going to
+be more like that of artillery on an
+Infinity Battlefield they're there for
+fire support and suppression if a tag is
+often going to be doing its job if your
+opponent looks at it and says I'm not
+putting any pieces on OverWatch H and in
+that situation a tag has nothing to do
+because its role has been fulfilled just
+by its presence and that means that
+often a tag actually goes really really
+well in combat group to now that's not
+an adage but if you're looking to build
+out a combat group two you could
+consider putting a tag in there one of
+the other things that the tag do is
+because it's has tactical awareness it
+has a degree of order self-sufficiency
+you're going to have in this combat
+group you're going to have six orders to
+spend in fact we're going to have seven
+because we've also put our interventor
+lieutenant in this compat group what
+that means is that the Nomad list that
+is playing this comat group doesn't have
+a 105 order split it has a 105 Trooper
+split but it has a 107 order split and
+the presence of seven orders in in
+basically seven orders in the second
+combat group means that it's going to be
+highly flexible it also has a Moc and I
+think the moock is moock is important
+here because you really should
+acknowledge that the gator and the
+interventor in any given turn although
+they are very likely to have something
+to do in particular the fact that the
+gator can shoot mines using its orders
+means that it is very often going to be
+a flexible second combat group piece in
+hackers Lama mager guard is even better
+at this but if you're not expecting to
+hack and you're not expecting to shoot
+with the gator because your opponent is
+lying everything down and you have plans
+other than to missile them for example
+then the moroc gives you something extra
+to do with that combat group it's not an
+ideal situation that the moroc spends
+all five of the orders plus it's
+impetuous in that group but it could
+either way this is a combat group that
+is using five models it leaves 10 free
+in the first combat group and as you
+have a lot of capability in here you
+have infowar um you have big guns you
+have defense and you have smoke and you
+have close assault and it will work
+basically with the with the order count
+that it has so now let's look at the
+veruna combat group here and this is a
+defensive and utility combat Group H and
+it's going to see the appearance first
+of a forward Observer remote which is an
+it14 consideration but those are very
+common in my second combat groups at the
+moment so what do we actually have here
+we have a machinist with a pbot we have
+a Pathfinder dronebot a peacemaker Dron
+bot and then two helots speaking to a
+Aruna and spiral player of my
+acquaintance um their conclusion is
+usually that three is nice but two is
+usually the correct number of heot
+unless you have something like a cutter
+in a list which is very expensive and
+takes up a lot more air um but two two
+heot in this combat group combat group
+two is the obvious place for heot they
+will sometimes spend their own orders uh
+they will use those orders to move
+forward into sort of better positions
+but if they're going to do that then you
+want them in the combat group 2 so they
+aren't sucking air away from your first
+combat group you need to put them
+someplace and combat group 2 is The
+Logical position otherwise what we have
+here is a machinist and the machinist
+job is obviously going to be to repair
+your tags typically and your remotes
+potentially but the thing about that is
+that The Machinist is only going to need
+those orders some of the time and
+importantly when The Machinist does need
+those orders it's probably to enable
+your larger first combat group to attack
+if you have a cutter or a squalos in the
+first combat group of this veruna list
+then you are committing to lots of
+aggressive action and because it's
+panania you're probably going to need to
+have your opponent suppressed in order
+to move in with your other pieces so the
+presence of a tag maybe in first combat
+group is important and you don't
+necessarily want to have the piece whose
+job is to repair the tag sharing the
+order group with that tag because what
+it means is if your tag takes damage in
+your active turn and you decide to
+repair it you are taking air away from
+the tag which it wants to use to attack
+hence we have The Machinist in combat
+group 2 it also means that if you have
+some spare orders in your combat group
+to and you're like I don't really have
+much else to do but you have a remote
+that's been downed for example then you
+can just usefully reconstitute your
+forces in a way that again doesn't take
+orders away from your first combat group
+and in that vein we also have the
+Pathfinder and the pacemaker now in It
+season 14 that Pathfinder has tactical
+awareness which means once again this is
+going to be a six comback six order
+combat group not a five order combat
+group and Pathfinders and pieces like
+them I have actually found a just
+fantastic combat group true to models
+because they are fast and we talked
+about models that need few orders it's a
+64 model model it can get forward to do
+objectives it's utility it's got a
+sensor it's a specialist it's a moderate
+gunfighter which means that in a pinch
+it's got a good chance of being able to
+spend the six orders it has access to on
+kind of whatever you might need to do at
+the time I would almost never put a
+sensor in my first combat group with the
+intention of running it forward and
+censoring some camouflage markers
+because that as an like as an offensive
+route is probably going to be
+inefficient but a combat group model
+that hasn't had order stripped from it
+on the first turn yeah I'll make some
+discover rolls I'll make some sensor
+rolls that's useful that's utility that
+is supporting the offensive action of my
+primary combat group and then we have
+The Peacemaker The Peacemaker combines a
+lot of these pieces and also is this
+group's offensive element because it
+forward deploys it's pre-staged for an
+attack and it's fast and it's disposable
+it has that Ox spot it has its heavy
+shotgun Etc uh if you need to if you
+have laid down some suppressing fire
+with the sallos and ready for something
+to move in the five orders that The
+Peacemaker has to spend is probably
+enough to deliver it to the opponent's
+deployment Zone because it's fast and
+because it's forward deployed and do
+some real damage with that heavy shotgun
+and flamethrower in a way that doesn't
+again draw oxygen from the first combat
+group say our first combat group is a
+fusel link some other pieces and a tag
+if the tag has spent I don't know four
+or five orders suppressing enemy Aro
+pieces uh and you have other things you
+need to do with that group and that
+group has had order stripped from it you
+might not have enough orders to actually
+deliver The Peacemaker all the way to
+the deployment Zone if The Peacemaker is
+in group one but in group two if your
+opponent strips orders from it then your
+tag can go crazy they are more likely to
+strip orders from your tag which means
+your Peacemaker has just enough orders
+to make a clear run and then finally we
+have the dash out combat group two which
+combines a lot of the pieces above but
+what we also have here is we have the
+presence of we can see the rafik remote
+that's our forward Observer remote we
+have a mon Striker engineer but the
+pieces that make this combat group
+really work are a total reaction bot and
+two Kum Riders now total reaction Bots I
+will usually put in the second combat
+group we talked before about the
+importance of a defensive plan and uh
+you know designated casualties Etc a
+total reaction bot is often going to
+begin your turn unconscious and be
+repaired that's just kind of its nature
+that's the role that it's going to play
+it may very well kill some things they
+are absolute crit magnets with total
+reaction Bots but there's a good chance
+that it's going to go down which means
+that you are accepting that its death is
+going to take orders away from a combat
+group so it's logical places combat
+group too but to compensate for that we
+have we have the rafik which is very
+order efficient and then of course we
+have the Kum Riders the Riders are
+among the fastest models in the game
+they are on motorcycles which means they
+are 86 move and they can be deployed in
+impetuous it is very easy for Kum riders
+in a small number of orders to rapidly
+cross the board and do some damage that
+mean even if the group has only four
+orders because the sheab is down an
+impetuous K Rider will easily reach
+they'll cross the halfway line with
+their impetuous order and can reach the
+enemy deployment Zone with their
+irregular order under ideal if unlikely
+circumstances they are fantastic second
+combat group models because they are so
+so fast motorcycles are an excellent
+anything that's of that equivalent
+Mobility is an excellent piece to put in
+combat group two although I would say
+the caveat of if for example you are a
+yuching player probably not a sujan in
+combat group 2 because a sujan is not
+the kind of unit that is disposable
+enough or unimportant enough to only
+have five orders a sujan is a 10 order
+piece it fits in combat group one but a
+Kum Ridder is expecting to hit the enemy
+defense do some damage maybe hit the
+enemy second line by using doggard do
+some more damage and then die sujan is
+expecting to do a great deal more than
+that it doesn't fit in combat group 2
+but Kum Riders absolutely do so I hope
+this has giving you a basic idea of how
+I would suggest building second combat
+groups there are probably absolutely uh
+other configurations that can work but
+if you follow the basic principles of
+having a clear plan for your second
+comite group using pieces that are
+either very order in very order
+efficient or which only need orders
+sometimes to supplement the efforts of
+your main combat group you will have
+basically good results the final thing I
+The importance of experimenting
+want to cover in this video is just to
+express the importance of experimenting
+with a list it is totally fine to net
+list it's totally fine to start with
+stuff that is popular it's probably
+popular for a reason people will coton
+on pretty quickly to the stuff that is
+at least first order optimal good tags
+are good link teams are good good
+skirmishes are good obviously optimal
+profiles are good Etc use that stuff
+it's good for a reason and it will give
+you a baseline to work with but don't
+just use that stuff experiment there is
+a huge advantage in using unique lists
+and
+profiles and that's not just me carrying
+on for the sake of wanting some novelty
+in the game although it is worth noting
+that playing stuff that no one else
+plays can be really fun and fulfilling
+but Infinity is an extremely complex
+game it's a game that is very difficult
+to make decisions in and when humans are
+under decision-making stress or in fact
+just generally we fall back on
+experience and habit when we are making
+when we're making decisions this is
+basic human decision- making it's baked
+in evolutionarily evolutionarily and
+what that means is that experience an
+experiential Advantage is a real
+advantage in infinity and it's one that
+can outweigh model strength if you are
+using a piece that is say 5% less
+mechanically optimal than the meta
+standard but you have 15 or 20% more
+experience using that piece than your
+opponent has playing against it you are
+probably in a stronger position than if
+you were using the on meta more standard
+and accepted piece that your opponent is
+very experienced playing against there
+are lots of experienced players in the
+game and many of them will have good
+standard operating procedures and baked
+in practices for dealing with stuff that
+is common in fact that's kind of the
+purpose of future videos in this series
+but if you're running with something
+that your opponent hasn't seen before or
+maybe like has seen but they have to
+actually stop and think about what the
+situation where they saw it was and how
+it played they can't just fall back on
+their good practice as easily that will
+give you an advantage and as noted it's
+fun to do that kind of stuff so the
+basic idea here is experiment with your
+lists find things that are like 5 10%
+off meta but which you can make your own
+and you can build some experience with
+that your your opponents regular or
+irregular won't have in terms of
+experimenting with a list there are two
+basic approaches that I like to use
+depending on what I'm trying to do with
+my exploration of a faction one thing
+the and honestly probably the best way
+to do this is if you have a decent base
+of knowledge on how to play a faction
+then throw in singular Wild card
+elements if we think about how we would
+actually conduct experiments in a
+scientific sense you would usually seek
+to change one variable at a time change
+one variable and see how it performs
+because then you will know against your
+control whether the variable how the
+variable is performing now the problem
+with doing that in Infinity is that in
+this sort of analogy one game is an
+experiment and most of us don't get to
+play lots and lots and lots of games I
+consider myself to play Infinity a lot
+and for me that still means one or maybe
+two games a week if I'm not playing a
+tournament and in that context it is
+very possible that in any given game the
+piece that you want to try out as the
+Wild Card element might just not be its
+game it might be a game where you didn't
+need it maybe you're a morat player
+looking to experiment with different
+rind profiles which have tons of
+potential but are not going to
+necessarily be a fit in every single
+game circumstance you have to play it a
+couple of times and you might not have
+enough game
+to play in a week to be able to do that
+if you can't do that then option b is to
+just take the total test bed list take a
+list where you have like literally
+everything that you want to try out and
+just see what sticks throw everything at
+the wall and accept the fact that you
+are playing a list that maybe in fact
+definitely is deeply suboptimal but will
+give you the most possible chance to try
+some things out those games can be
+really fun and really interesting it can
+be challenging to play them into like if
+your opponent is like hey I bought my
+completely on meta list which has tons
+of things that are basic and strong you
+kind of have to accept that you are
+going to be playing a little uphill in
+that circumstance but from it great
+things can emerge basically panning for
+gold is one of the most interesting and
+useful things you can do in infinity and
+finding stuff that works for you
+uniquely for you is super super both
+competitively optimal and
+fulfilling just as a couple of worked
+examples Les again here are two of the
+lists that I played when testing lists
+for starmada ahead of Anzac cup um these
+w't necessarily make a great deal of
+sense I'm not going to drill down into
+them in any great depth but the one on
+the left is the total test bed list for
+stada this list took like five or six
+different concepts all of which I wanted
+to test and it played all of them and I
+had one game with it into a bakunin uh
+Moira based list and certain things
+worked really well and certain things
+were very challenging and we were
+playing rescue and after the Raptor went
+down I realized that I had almost
+nothing that could reasonably rescue uh
+I Rescue an enemy enemy hvt but it was
+still really interesting in particular
+trying out sha corano was really useful
+I did decide ultimately that she
+probably wasn't for me um there were
+other ways I could find of dealing with
+problems that I had also she got shot by
+a submachine gun and died because she's
+not Shock immune for some reason but
+there was a lot that happened in the
+game that I got to test I got to really
+try out the Raptor and it really
+performed quite well uh you'll see in
+combat group 2 I have both an engineer
+and a doctor because I was experimenting
+with like really heavy focus on forc
+reconstitution and yeah I actually ran I
+spent five orders running the doctor's
+ybot all the way across the table to
+recover the um to recover the Raptor
+after it went down so I could go and
+Trinity my opponent's Lieutenant to
+death um this list was it was totally a
+test bed and I had to scramble through
+the game to make certain things work but
+I got to find things that I really liked
+on the right we have a list that is
+stuff that I know is good that I chose
+to basically experiment with
+configurations and trying out like you
+know a couple of different bits and
+pieces so we have uh we have the
+lawkeeper with comi rifle and side bot
+let's see how that goes we have just one
+Saro M layer which I think this list I
+played as one of the first lists that I
+was using a Sako we have uh a peer we
+have just the one hacker we have no no
+three-man link team in this list but
+this list has a Zeta in it right it's
+going to it's got a Zeta it's got two
+okos it's got a road bot it's got two
+varangians the core of what the list is
+doing is fundamentally solid and if all
+else fails I will have big gun and smoke
+and specialist in order to do do the
+stuff that the game needs me to do I
+have a defensive plan I have an
+offensive plan I'm trying out bits and
+pieces around The Fringe in particular
+the lke keeper the Saro and to an extent
+actually the the missile bot as well I
+eventually came to the conclusion
+missile bot was really not needed in 02
+it was a luxury but hardly essential so
+these are just two different lists that
+I played and I had I think five or six
+games with starmada ahead of the event
+and that's a lot of games that's a lot
+of games to be able to experiment with
+that a sort of a luxury that I had in
+the runup to the event because we had
+other local players that were
+experimenting as well um and just again
+bit of an example two different ways I
+eventually found I think I settled on
+what I would call lists that were like
+90% what either either meta or which
+will become meta but I was really happy
+with how they performed and with the
+little psychop touros that I had going
+on I think probably the most meta starid
+list right now would use a fivan Kappa
+link instead and probably wouldn't run
+wouldn't just raw dog a Zeta Lieutenant
+with no chain of command but I made
+decisions and I really enjoyed the games
+that I played with those lists and they
+performed obviously really
+well so that concludes our first episode
+of infinity 101 talking about list
+construction just to recap really
+quickly our three things that we covered
+are one build defensive capability into
+your list plan your defense when you are
+constructing your list two build your
+second combat group with a plan and we
+covered a bunch of ways that you can
+potentially plan to have a second combat
+group and then three just emphasize that
+it's super useful and important for your
+development as a player to experiment
+with your lists to try new things and
+find what works for you as always if you
+like this please consider sharing it and
+let me know what you found interesting
+and ask questions I will do my best to
+answer and your questions turn into
+future video content like this as always
+thank you very much and I'll see you
+next time

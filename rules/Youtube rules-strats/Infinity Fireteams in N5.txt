@@ -1,0 +1,303 @@
+
+Intro
+Hey guys, it's Ryan and this week we are doing a video on fire teams, a great
+tool for empowering units and making you move as efficiently as possible. I love
+fire teams and have run them basically since I started back in N4, way at the very beginning. I was around for some of
+N3, but that was long before I was consistent. In this video, I want to go over what is a fire team, how you create
+them, and the bonuses you get for it, how to use them, and finally, how to excel with them, or the tips and tricks
+that you pick up as you would use them playing them in every single Infinity List. Hopefully, this is a useful video.
+I do enjoy doing them because it lets me bust out the cobwebs of my games knowledge, and I make sure that I'm all
+correct before posting. But if you enjoy the video, remember to like and subscribe for more. It really helps out.
+Now, what is a fire team? So, what is a fire team? Well, in
+Fireteam Basics
+Infinity, a fire team is a grouping of two to five troopers, no peripherals or
+markers that can activate together with a single regular or tactical order. This
+also grants them some bonuses depending on how pure. We'll get to that in a minute. And these bonuses apply in both
+active and reactive turn. However, there are some restrictions particularly on how close you have to be, i.e. within
+coherency or 8 in of the leader and what arrows they can declare in the reactive turn. The fire team leader is the one
+who benefits the most in active turn, but all do benefit from the bonuses. Finally, fire team leadership can change
+on an orderby orderer basis. That is the basic summary of everything fire team
+related as paraphrased by me but explained by Sila. What do I do to get
+them in game? Well, first we need to talk about the three types of fire teams. There used to be five. Now there
+are only three, thank God. Duos, a fire team of two members, a Harice or Harris,
+a fire team of three members, although that can go down to two Midame, and a core, which is a minimum for three to
+five members. Every faction gets access to duos and harasses. Even vanillaas
+now, which is an elite addition to N4, but only sectorals get access to
+corefire teams and an unlimited number of duos. Vanillaas only get two duos and one Harris, except for Toha, who get
+unlimited duos and hares because that's their special gimmick.
+So, that's the types of fire teams. Who can join them? And how do I form one? Well, to find out who can join in the
+desktop army, just cuz it's clearer. Go to your given sectoral or army. Then above the list, click on the fire team
+chart. On mobile, it's the martial arts tab, the little swirly icon. Now, this is open. You'll see a few things. You'll
+see the number of fire teams you can take. In most sectorals, you'll see unlimited duos, one Harris, but a few
+will have two and one core. excluding Steel Falank who make unlimited cores and have a unique limit of four members,
+not five, which is their unique gimmick. Below that, you'll see what fire teams
+you can make. Most have at least two options. Here in Kestrel, we have the Fenic, Kestrel, Armored, Cole Corp, and
+our wild cards. Each section details which members and what limits on that
+trooper type, such as FTO options, may be taken in that given team. Wild cards
+are troopers that can join any fire team in the faction. So, back to the top and the Fenick fire team. You'll see that it
+has a minimum and max column which shows the minimum you need to take of a unit in a fire team. This is pretty much
+always one or asterisk. In the fenic fire team, we got to take at least one
+fenic. And in the kestrel fire team, that asterisk means you can either take one firefly, one hectare, or one
+griffin. The Phoenix can only be taken in Harrison and cores and the Kestrel team only in duos and harrises. The four
+other troopers listed below and the wild cards can also join them to make up these fire teams but may impact the fire
+team's level of purity I mentioned earlier. But one more second before we get to that at the beginning of the game
+or during the game with a command token. Assuming you have at least one Fenic and
+at least two other valid troopers, you may choose to form a Fenic fire team designating a leader as you wish.
+Alternatively, from these two fire teams, if you have a Hectari and at least one other trooper, you may form a
+duo or a Harris fire team. Now, we have our fire teams and have started it. We
+got to figure out how we get some bonuses. And for N5, that is determined by how many members of the fire team
+share the same fire team tag or are the same unit. In the Kestrel example, five
+Phoenix would grant you a level five fire team, but four Phoenix and Max would only grant you a level four.
+However, you may notice that the Griffin has a Fenic tag. That means he can't form the fire team, but he counts as a
+Fenic for determining the level. So, three Fenix, a griffin, and a black air should make a level four fire team. This
+does not need to be unit tags like Fenick, Gulam, or Silverstar. Below we
+see the Kestrel tag being used, and that would be functionally the same for the Kestrel fire team. Any combination of
+griffins, Fireflies, and Hectares will get you that same number of troopers in levels from your fire team up to the
+fire team size. So, now finally, what do I get for this hassle? Well, it's a
+sliding scale based on the above limitations. A level one fire team with no members sharing any tag gets you the
+ability to activate with the single order, which while basic is very strong, and I'll get to examples in a bit. Two
+members of the same tag will grant you a BS attack plus one special dice. This is the main way to get this rule. So, in
+case you don't know, the plus one special dice is the ability to roll one extra dice in the BS attack and discard
+it before you apply the effects. This does not increase the burst as such is good on disposables, but does not hugely
+impact your chance to do damage, but it does swing the faceto-face role to you, buffing damage in the consistency that
+you would get. It also applies in the active and reactive turn, making the
+fire team a really solid defensive tool, increasing their chances to win the face-to-face role in ARO. This kind of
+extra burst has always been a mainstay of fire teams, and I'll speak more how to get the best use of it in the
+following sections. Level three grants a plus one to your dodge and plus three to
+your discover roles, which can be pretty useful in a Harris in the midfield and can help with camel markers and hidden
+chain rifles or make your arrow more durable. It's not much, but it's not
+nothing either. At level four, you at level four, you get a plus one to BS
+attacks. This applies to the BS attack fizz of throne weapons and BS attack
+whip as well. This is a big level to go for. It used to be more before, but it's
+still kind of worth it these days if you can do it for cheaply, making the average BS of a core fire team at least
+13 or 14 when you got wild cards involved. Finally, at level five, the
+fire team gains access to the six sense skill, a powerful way to ignore stealth and make your hackers really good and
+let your ARO pieces ignore smoke shooting and being shot from outside line of fire. No longer do you need to
+worry about being shot in the backside. It will ultimately be up to you in the
+list building to determine how much you wish to invest into a given fire team and the length you're willing to go to
+get bonuses to a given trooper. Generally, when you're building one, you're thinking, what is the purpose and
+what are the main pieces in this fire team, but we can talk about them more in the next section and determining the
+main usage for each fire team. So before I get to how to use them, I
+Fireteam Cancelation
+want to talk how not to lose them because it's surprisingly tricky and that's kind of part of the skill floor
+with them. So who can't join the fire team is a complex question surprisingly
+because it can get confusing on who might be allowed to join a given fire team on a profile byprofile level. But
+simply it's models with peripherals, tags, auxilaries don't count until the deployment of the peripheral. Troopers
+in marker states, those that possess infiltration and airborne deployment, those in the suppressive fire state,
+decoy state, isolated or null state, and fire team members cannot be a part of a
+coordinated order. They also need to be in that fire team chart or a wild card. And two wild cards cannot form a fire
+team of their own. Sorry, Vocalat. They also need to match the FTO label. If
+they've not got the FTOL label on the profile, but they need it in the chart, then that profile can't join the fire
+team. If there is no FTO label, then any profile that doesn't break the above rules may join a fire team. Models can
+also be kicked out during the turn if you're doing something that would put you at odds with these restrictions. So,
+if a tag deploys its peripheral, it will leave. If a model enters Cyber Mask, it goes. By and large, if the fire team
+leader goes, then the team goes down entirely. But if a member does go, then it's usually just that one that leaves.
+Such ways are if someone uses an impetuous order, an irregular order, a lieutenant order, the trooper moves
+combat group, or declares a different arrow than the majority of the team, it is canceled by the player or you make a
+new fire team of that type beyond the limit, usually a second harass or core, for example. Now, if the model left the
+fire team, it may rejoin the fire team if it regains coherency with the leader in the states phase, and that's at the
+end of the turn. The common ways to drop members is usually coherency during movement or
+different arrows since that's what you do the most. Coherency is measured during the start of the game, after sort
+of deployment, and then at the start or end of orders. So, before movement and after the resolution of guts. So, it's
+fairly easy to lose a member accidentally, which can be a pain if you try to really push up and you just
+measure it wrong. Good news is it can be recovered from at the end of the turn, but not really before then. The
+different ARO options is a tricky one and often the goal of an assault piece or war band. Best way to defang an ARO
+piece is to strip the fire team levels from it. Say throwing a model with an SMG and a template near a fire team. So
+you get into a situation where you may want to dodge to avoid a template and others in the fire team may want to
+shoot and trade. So you basically have to do one or the other and hope that the ones you lose weren't that important.
+And also keep it in mind so that majority of models are the ones that actually are being kept in the fire
+team. And that just gets really messy really quickly. Anyway, what do I suggest here to help mitigate it? I mean
+my suggestions is to pick one to deal with the problem then let the rest try to avoid the issue either dodging
+resetting or maybe they all should or whatever and accept the trade some fire team members for just removing the
+threat there and then. The final point is that until very relatively recently
+in N4 multiple hackers could not declare different hacks in AR roll. With late N4
+and N5 that is no longer a rule. They can declare separate programs and it still counts as the same AR role for
+determining what is the fire team ARO just in case a veteran tries to lead you astray which can happen now and then not
+out of malice but largely out of complacency. Now let's get back to the rest of the video.
+Fireteam Usage
+Now Ryan, I know how to make it. I know the bonuses. What do I do with them? Oh,
+good question. Basically three things. arros, order generation, and active turn
+efficiency. Now, the former and the latter are the more popular ones. The middle one is kind of only really a
+recent thing, so I won't focus on it as much. So, arrows are a big thing for
+fire team since the bonuses granted work in ARO. Back in N3 and four, that was a
+plus one to your burst. Now, it's just the special die, but that was the real way to pose some threat in ARO in a game
+where active turn is hugely advantaged. The now plus one special dice for a level two fire team is really nice in
+doing the same job. The other skills also contribute a lot to defensive arrow. So naturally players tend to
+build fire teams with arrow in mind. Picking at least one ARO then determining how many fire teams levels
+they want. ARO only jewels are fairly rare but not uncommon. A heavy rocket
+launcher order sergeant in military orders alongside another trooper with purity could make a reasonable ARO on
+BS12. Two dice. keeping one and an impact template. It won't kill a tag, but for at least 28 points for something
+that will cost an order of two and could flame an active turn piece to death, that's not that bad. But now that's the
+bare minimum. What we usually see is that expanded at least into the harsh usually usually with dual level purity
+unless you're really cheeky and can get that purity to level three. But usually here the AR game is ARO piece usually
+visor MI or heavy infantry with a missile launcher. Then two line troopers or cheap ass dudes with the same label
+to give that special dice on ARO. combo of decent gunfighter 2-ish dice and
+arrow and a decent gun is enough to give things pause for fought. For an example,
+a riot ghetto narrow against a tag. Math says it's going to take maybe an order or two for that tag to roll the girl.
+81% to win the face to face roll and an average of83 wounds per order. The girl
+having a 14.3% chance to win the face to face roll on her own. If she decides she
+needs the police or a buddy of any kind to get that level two bonus, we are increasing her chances to win to 24.4%
+and dropping the tags down to 68.7 with it maybe doing 62 wounds per order.
+That's a lot. And if you're packing a little medic and go unconscious, hey, hell, you might even recover or knock a
+wound or two off the tag. That's a tidy little upgrade. one heavy infantry plus 20ish points of extra
+dudes and now you're wasting maybe a couple orders of attack. It's not hard to slow stuff down with minimal
+investment. Now obviously this applies inactive but generally reactive arrow is the domain of fire teams unless you want
+to rely on camo or total reaction bots. This was using your Harris or duo slot
+or you could do a threeman core which is also using up your one core or har slot.
+There are a lot more bonuses out there if you want to put more oomph into your arrows, which for fire teams is less
+good these days, but I think still worth it. Going to level three pure team for arrow, I don't think really is worth it
+unless you want to try and discover a camo piece on ARO, which against AR might be nice, but maybe I don't know.
+The dodge bonus is also there. It will push heavy infantries to 14s and 15s to dodge, which when you're blindsided by
+something dropping you a minus 6 or 9 from men and or rangebands. That that might save your ass. A nice to have, but
+you're really getting the level three by accident or you're going for level four and five. And if you dedicate the space
+in the list, you do get the reward of plus one to your ballistic skill, which can put your models into BS 13 or 14, or
+if you're a real faction, 15. This is the level where most fire team cores sit. Usually it's four nerds, one LT,
+one decoy, one paramedic, and and maybe a hacker. Then an ARO piece that is usually more powerful but in pure that
+will do your job for you. I use this a lot in military orders with one blackfire heavy rocket launcher, a
+Crosier, a night commander who is a pure Crosier, a paramedic crosier, and an order sergeant hacker who is also pure.
+So four pure, one impure. This has the advantage of giving you a pretty nice package that you don't have
+to think about much beyond deployment, but you have all your kind of useful pieces nearby. You may have a lieutenant
+hidden amongst four other guys and girls who will die for them. You can have one pure element that is more capable and
+active so that when the ARO dies, it can actively push since it's still got the same level of puress.
+Kestrel does this the best, I think, since the Griffin is pure. a heavy infantry that has a HMG or furback that
+can wait until the main IRO piece is dead, then snap out and punishing anything standing with BS15.
+The paramedic now is also in a similar setup and is able to recover more effectively with that plus one special
+dice and plus one to hit. And trust me, as a known paramedic long bomber, it is worth to have and to try and recover
+because once a critical model gets back up, there is hell to pay. At level five,
+it is the hackers and non-visisor airroll pieces that probably benefit the most. Six sense makes your hackers
+ignore stealth if they've not already got combat instinct, and that makes your repeaters pretty hard to navigate. It
+also allows you to avoid smoke shooting or being shot from behind as the fire team becomes a welloiled DZ defender if
+you position and deploy well. Usually this comes at the cost of a good arrow
+piece as such in Military Order or Tongaska, but this is a choice worth thinking about. If you're going all the
+way to a fiveman, do you want it or do you want a potentially better impure
+arrow piece or hacker or whatever? Some factions like Morats don't need to make
+the decision, but most do. When building a defensive arrow, think about the break point levels of 2, four, and five, and
+determine how much you want to get each one. And if you have the points and slots to reach it, things like a black
+fryer or grrenzer can probably manage just with the level two. But if you want that hacking support, five might be
+worth reaching unless you want a core elsewhere. But is five probably worth
+the downgrade into a line or different apiece to get that powerful six sense that can save you from a flank attack,
+vision impairments, or giving you an immutable dodge or reset. So a lot of the reason that reactive AR OP pieces
+benefit from fire teams obviously the to hit mods and stuff is great but from experience you may notice that the
+active fire teams tend to be duo or harasses and that's because that's the sweet spot for moving models around
+anything bigger and it's easier to get caught up with difficulties moving due to physically moving and hiding more
+than three models at once and it's easier for that to come more difficult as you now have to plan the move for
+three or more models with different move speeds and potentially base sizes. So, when thinking about active turn bonuses
+outside of like three factions, you're doing it in two or three man teams.
+The level three bonus is not going to be that useful unless you're running riot garerals or tutonics as a jokes to get
+that dodge 17 or 18, unless you really want to hunt that camo marker down.
+Really, you want the special dives to make your life easier. And one big guy and two chomps is still valid here. I
+mention a lot in my military faction guide here and have the German boy toys
+or two tutonic knights recommended for empowering a lot of your bigger and better models like the crocs who solo is
+a good shooter but is phenomenally better with that level two bonus.
+Pure math aside, the main advantage of a duo, Harris, or any active team is the
+simultaneous activation, which will half or even third the amount of orders you need to get a specialist and a gun and
+maybe some other jump, etc. to where it needs to go. You don't have to spend three orders to get a gun into position
+to shoot, then another three or so to run your specialist in Afer. That's usually how a tag plays, but they have
+any tactical awareness in NCO to make it less order inensive. And also generally they are faster models in a fire team.
+Just having them linked gets the specialist two or three orders of movement of course within eight inches
+of the gunner. And once the ARO is cleared the duo can spend the order moving up to push the button using that
+movement to reposition the gunner in a better position all while moving both up
+the board. I do this all the time with my knight hospitaler, Harris, using the
+HMG to blitz down targets and then moving up a little more before letting the doctrine hacker knights advance and
+press the button. That way, my rifles are more likely to be in rifle bands and my HMG is further back to be effective,
+but not too far back to whip round and charge next turn or be a soft ARO if needed. The best thing about that last
+point is that really opens the door and lets duos shine as if the gunfighter is good enough. Say Joan, she skin Achilles
+attack and you don't need impurity on amazing gunners. They can just kind of break stuff while the poor doctor runs
+in behind them and plays the [ __ ] objective. This is a little more appealing these days for duos as well
+since it's so much easier to get hold of that plus one special dice from just a level two bonus. In RTF, the big Gulam
+fire team could be good. And Military Order Knight fire teams are very good these days.
+Those are the two main bonuses or domains of fire teams, offense and defense.
+But what you might start to be getting now is that a fire teams are efficiency at a small cost. Now, what did I say
+earlier by that order generation efficiency? So, a couple things. The first one is a new skill fire team
+master. the ability to turn irregular members, and yes, that's all irregular members, not just the ones in brackets,
+regular. So, that right there is great at generating more regular orders, making cheap, usually quite useful units
+much better. The current hot example is the Cole Corp fire team with a jackal and a magistrate. Magistrates make the
+six-point jacko regular, and if you take two jackals, a m magistrate, that's a decent little road bump to knock wounds
+off your opponents. Another way fire teams can help efficiency is that to be honest with
+defensive teams, you rarely activate them. I mean, sometimes you want to use an arrow piece to knock down a tag or
+something standing because it has the range or the visors to deal with it or maybe the paramedic to recover something
+or maybe the hacker to make use of the repeater. Up to you, but usually the ARO teams, duos, harass or cores have their
+orders just sitting there waiting for something else to use them. If I had to recommend a general fire team list
+structure, usually is group one, fiveman core, some real useful chumps like some midfield skirmishers, then like one
+action piece or a Harris to really make use of the fuel that they give.
+Usually active teams also tend to be praised for having more self-contained orders, but like you cannot live on
+bread alone. They need some external fuel and even good pieces with two, three or even five orders to it can then
+dip into a fire team's orders as well and that just makes it wild with that.
+You can see that fire teams give some good advantages when you use them in some set roles. These aren't either or
+or very strict to be honest and you can go and mix and match them as much as you want in a given team as needed. It's
+very arming and player dependent. So hopefully this gives you an idea on how to use them in game.
+Fireteam Techniques
+Now fire teams are one of the reasons I love Infinity and I've run at least one actively in maybe every game I've played
+since I've started in N4. So what tricks do we have?
+Love them and leave them is my rather punny name for the idea that sometimes you do need to leave a man or men behind
+for convenience or maybe laziness, whatever. a willing trimming of the fire team. It's a bit niche this one, but
+with enough powerful pieces in a push, it can be worth it. So, what is loving and leaving them? Well, it's often
+forming a team with the intent to deliberately leave pieces behind. Why? Well, sometimes you want to
+compress the fire teams you've got, maybe not wanting a core and harass of the same team, or maybe your core or
+Harris slot is taken, or you can't do a duo. But what you can do is build a fire
+team with X numbers of pushers and Y number of stairs who will leave the fire team eventually when the pushers move
+up. This is commonly done with Harrises or cores where you want the wild card or
+mon minimum members to move up the board and leave them behind for ARO or hiding
+the lieutenant or whatever. One example showing up locally is with
+Bikunan's Reverend fire team with a Harris of a healer cenite and Kusanagi. The cenobite would a roll for a turn on
+a roof or whatever. Then when it's go time, Kusanagi and the healer would activate and move up without the cenite.
+The cenite breaks coherency and loses the fire team, making the Harris now a twoman team. This is legal as fire team
+size is only checked at creation and in game a twoman Harris can exist. just it
+cannot be reformed as a Harris. This is particularly useful as this fire team cannot duel and a twoman teams are
+pretty effective at moving around and when they are the men you need for good bonuses that's pretty effective. Now
+remember this won't create two fire teams this will leave y number of chumps who are just now sitting around but
+sometimes that's fine. It's a nice little tech to remember when going second or wanting to get around some
+tricky fire team options. Little legs is a fun way to describe a
+real issue of fire teams with different move values. This is a big problem to try and get around and it's more
+pronounced as you get bigger differences, but from my experience, it's largely fine with some practice.
+I've played fire teams since day three of N4 and many fire teams with 62 and
+44s. I desperately miss uh my gray fire teams in Calonia. Grays and volunteers
+classic 62 44 situation. And with a Harris that was fine, but with a core it
+gets tricky. But you don't really want to be moving cores as four is the best value for active turn movement. It's
+probably where the manageableness ends. Anyway, how do you do it? Well, it takes
+practice and as I said, but the practice should be eyeballing tables to determine
+how far each model can roughly move to cover and not disrupt the fire team. Ideally, you want your faster models,
+that is the first move value being your gunpiece, so they can maneuver to the intended position while the slower
+models sort of waddle behind. It can get rough to find them cover. So sometimes
+it's worth moving the slow guys just to get them in position and coherency so the leader can then move up where it
+needs to go. Maybe not this order, but maybe next. Sometimes it needs to be flicked. Sometimes you got to focus on
+getting the gun or leader to the right spot and then just drag the others in coherency just if you've got good tables. Sometimes you need to move a
+little back if it doesn't quite look right. Now if your slow one is the active piece you want to be going
+somewhere it does get tricky. Again, move this one first since it's going to be the most hard pressed to get to a
+good position with only four like inches of movement and then move the faster pieces around it since they have the
+wiggle room. Hopefully that helps, but in this case, practice makes perfect.
+Chumps are not changed. This is a quick one. Sometimes it pays to be a cheap bastard and take two cheap chumps and
+one wild card or good gun. It is a time-honored tradition for two knocks to escort Shishkin or two German boy toys
+to get Defernzen or a Knight of Justice up the board or two members for join team three though that last one is less
+cheap anyway. If the main leader is a competent enough gunfighter but needs a little boost then two nerds is a
+worthwhile thing to bring them up the board. They may die but that is a sacrifice you are willing to make. Don't
+be too precious unless you really need the special dice. But when it comes down to who dies a Nox or she skin, a
+Verangian or the Unknown Ranger, I'm sending in the pleb as my sacrificial lamb.
+Paramedics are your natural leaders. This sounds weird, but it's mostly just to remind you that your ARO piece does
+not need to be your fire team leader. That will cause the fire team to break probably prematurely when it dies. Not
+if, when. Instead, it should ideally be something that won't die, like a prone
+paramedic or your well-hidden LT or decoy or even the LT itself, but not the
+hacker or a standing arop piece. As if it gets nulled or isolate, that's a busted fire team. Simple stuff. Just be
+cautious of who your leader is. In active, it probably should be the gunner. In reactive, it probably should
+be bunkered. Tinbots and forum fighting or why you
+should bring a Tinbot and a hacker in your fire team is pretty basic. Tinbots share their bonuses with all fire team
+members and the most common is firewall or hacking cover and the tinbot shares
+that amongst the fire team making it vital to protect hackable pieces like heavy infantry rims and rarely in some
+factions any tags. The other useful thing to protect your fire teams, particularly the hackable ones, is a
+hacker to make use of the tinball for to essentially take the blunt of the keyboard fighting,
+mostly because of the same logic as slingshot. Do you want to take free hacking pot shots and get free pot shots
+in return? Or do you want to break the fingers and then get free rain? For this reason, and many other, this is why I
+take the knights of Santiago a lot in milit. It just means that a my knights get a tinbot and b hackers are lethal
+for heavy infantry and it just gives these hackers a focal point to target their attacks particularly on someone
+who can take it rather than knights who are less likely to be able to handle it. A whip 14 oblivion has a 51% chance to
+isolate a knight hospitaler but a Santiago slapping it with tinbot and a killer hacking device makes it a 28%
+chance to isolate the knight of Santiago. But you also have a 24% chance
+to doing wounds to the hacker, assuming no repeaters. But that goes to 45.1 and 19% if you're both getting hackers.
+That's better than a kick in the teeth. With a good hacking faction, that's probably going to be even better
+protection. Even when not on the defense, just having mobile hackers not needing repeaters is really nice as it
+allows you to march around and just fight hackers. No mods, just one v one on Shipment.
+Outro
+And that was my video on Fire Teams. I hope you found it useful and enjoyed it because I really enjoyed making this
+one. Also, I have a new mic. Hopefully that sounds a lot better than it does last time with the static. And as
+always, remember to like and subscribe for more. And if you have any questions, let me know in the comments below. And
+as always, thank you so much for watching.

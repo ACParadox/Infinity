@@ -1,0 +1,71 @@
+# Scenarios - Annihilation 
+
+Scenarios
+
+## Contents
+
+- 1 Mission Objectives
+
+- 2 Forces and Deployment
+
+- 3 Scenario Special Rules 3.1 Killing 3.2 End of the Mission
+
+- 4 Maps
+
+- 3.1 Killing
+
+- 3.2 End of the Mission
+
+## Scenarios - Annihilation - Mission Objectives
+
+| 150-point game | 200-point game | 250-point game | 300-point game | 350-point game | 400-point game | Objective Points |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| To kill 40 to 75 enemy army points. | To kill 50 to 100 enemy army points. | To kill 65 to 125 enemy army points. | To kill 75 to 150 enemy army points. | To kill 85 to 175 enemy army points. | To kill 100 to 200 enemy army points. | 1 Objective Point. |
+
+| To kill 76 to 125 enemy army points. | To kill 101 to 150 enemy army points. | To kill 126 to 200 enemy army points. | To kill 151 to 250 enemy army points. | To kill 176 to 270 enemy army points. | To kill 201 to 300 enemy army points. | 3 Objective Points. |
+
+| To kill more than 125 enemy army points. | To kill more than 150 enemy army points. | To kill more than 200 enemy army points. | To kill more than 250 enemy army points. | To kill more than 270 enemy army points. | To kill more than 300 enemy army points. | 4 Objective Points. |
+
+| If you have 40 to 75 surviving Victory Points. | If you have 50 to 100 surviving Victory Points. | If you have 65 to 125 surviving Victory Points. | If you have 75 to 150 surviving Victory Points. | If you have 85 to 150 surviving Victory Points. | If you have 100 to 200 surviving Victory Points. | 1 Objective Point. |
+
+| If you have 76 to 125 surviving Victory Points. | If you have 101 to 150 surviving Victory Points. | If you have 126 to 200 surviving Victory Points. | If you have 151 to 250 surviving Victory Points. | If you have 176 to 270 surviving Victory Points. | If you have 201 to 300 surviving Victory Points. | 3 Objective Points. |
+
+| If you have more than 125 surviving Victory Points. | If you have more than 150 surviving Victory Points. | If you have more than 200 surviving Victory Points. | If you have more than 250 surviving Victory Points. | If you have more than 250 surviving Victory Points. | If you have more than 300 surviving Victory Points. | 4 Objective Points. |
+
+| To kill the enemy Lieutenant. | 2 Objective Points. |
+
+## Scenarios - Annihilation - Forces and Deployment
+
+SIDE A and SIDE B: Both players will deploy on opposite sides of the game table, in Deployment Zones whose size depends on the number of Army Points in the Army Lists.
+
+| Side | Army Points | SWC | Game Table Size | Deployment Zone Sizes |
+
+| --- | --- | --- | --- | --- |
+
+| A and B | 150 | 3 | 24 in x 32 in | 8 in x 24 in |
+
+| A and B | 200 | 4 | 32 in x 48 in | 12 in x 32 in |
+
+| A and B | 250 | 5 | 32 in x 48 in | 12 in x 32 in |
+
+| A and B | 300 | 6 | 48 in x 48 in | 12 in x 48 in |
+
+| A and B | 350 | 7 | 48 in x 48 in | 12 in x 48 in |
+
+| A and B | 400 | 8 | 48 in x 48 in | 12 in x 48 in |
+
+## Scenarios - Annihilation - Scenario Special Rules
+
+### Killing
+
+Troopers are considered Killed by the adversary when they enter Dead State, or they are in a Null State at the end of the game.
+
+Troopers that have not been deployed on the game table, as a Model or Marker, at the end of the game will be considered to be Killed by the adversary.
+
+### End of the Mission
+
+This scenario has a limited time frame, so it will automatically finish at the end of the third Game Round.
+
+If a player finds, during the Tactical Phase of his Player Turn, that all Troopers in their Army List are in a Null state, the mission will finish at the end of this Player Turn.

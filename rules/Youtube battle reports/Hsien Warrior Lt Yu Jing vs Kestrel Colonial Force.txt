@@ -1,0 +1,443 @@
+Hello and welcome to an Infinity the Game battle report. Today we're playing vanilla Yuching featuring a Cien Warrior
+Lieutenant plus one order as a viewer request against Kestrel Colonial Force
+and the scenario is evacuation. Now before we dive into the lists for this particular battle report, a quick note
+about this viewer request. This request comes from channel supporter Amriffan Santiago. And Amriffin's request reads
+that they would like a vanilla Euching battle report in which I build a list around the Cien Warrior plus one order
+lieutenant as an active turnpiece button pushing kind of do-it-yourself lieutenant since it's a specialist
+operative. Now, Amarin goes on to talk a little bit about the possibility maybe of using a decoy for the Cien Warrior
+because the Daoing lieutenant is a willpower 14 lieutenant and much more common. So perhaps a camouflage marker
+in the deployment zone could fake people out pretending to be a Daoying to enable this CN warrior to perhaps go undetected
+as the lieutenant for a period of time. Maybe bait down an attack run against a piece that ultimately isn't as
+vulnerable as my opponent thinks it is. But then kind of concludes with what I presume is an acknowledgement of the
+probable limitations here with can it be done and is it good? Big question mark.
+And I think it's in the spirit of that acknowledgement that there are limits to what can be considered good or even
+viable in Infinity and some profiles do push up against those limits that we'll jump into the army list and talk about
+what we're playing today. Now, I was of very mixed opinions when it came to this
+viewer request. And in fact, full disclosure, this viewer request has sat in my to-do list for some time now.
+Because while I am of the opinion that there is almost no regiment in this game that does not have some kind of an
+interesting use case, the same can't always be said for profiles. Although they are a lot rarer in Infinity N5 than
+they were, say in N3, there are still the occasional junk profile in N5.
+Profiles that maybe are part of a regiment that overall has some very interesting things that you might use about it, but that profile we don't
+bother with. That's not what makes this regiment good. And for example, when we are looking at the Cien Warrior, any of
+the heavy machine gun profiles are obviously really sound and really interesting. Maybe not perfectly
+efficient. You are paying for willpower 14. you are paying for some martial arts in close combat that ideally you will
+never use on the Cien Warrior. But even with these small points increases that will come from, for example, paying for
+a DACCCW, the Cien Warrior is otherwise an MSV2 heavy infantry, heavy machine
+gun in two factions, each of which has very ample access to smoke. So you can
+smoke shoot with a robust platform that does not have to worry about being crit and losing one wound in the same way that things like say an intruder or an
+epsilon do. And with native ballistic skill 14, you are very close to the high water mark for smoke shooting in terms
+of any platform that is even remotely affordable. And that's really cool. And so I think there's no contention that
+Cien Warriors as a regiment are not just playable or even viable, but fantastic
+and we'll see plenty of play. But there are profiles within the Cien Warrior
+regiment that are like, well, this profile doesn't do any of those things. And that's where we get to the
+lieutenant plus one order specialist operative because this guy is just okay
+in the strictest sense he's not bad which I think is what came from is what like where am's request kind of came
+from. If we ignore the points cost of this model entirely, it is a reasonably fast 62 willpower 14 specialist
+operative with two lieutenant orders in factions with access to fairly solid
+chain of command that can theoretically move out onto the field and do specialist things themselves while being
+kind of a reasonably robust platform. And that would be fine for like 25
+points. That would be great at 25, 26, 30, like that kind of points level. But
+because the sand warrior is still packing martial arts that aren't good enough to actually make it a close combatant, but do increase its point
+cost and a bunch of equipment that obviously expects it to be a gunfighter,
+but armed with nothing but a multi- rifle, it costs a whopping 48 points, which is to say it is very nearly a
+sixth of your entire force for a model that really does not pose any significant danger to your opponent
+relative to the points cost. Now, I don't mind multi rifles or multi marksman rifles. They are not inherently
+bad weapons, but they are inherently limited weapons. They are fine on pieces
+that are like single wound, semi- elite, light and medium infantry that need a
+middleweight firepower piece. That just means they are at least something of a threat to some of the things around
+them. Multi marksman rifles on psychops for example in O2. I do not like the
+fact that they're damage seven, but given what I am paying for those pieces, I accept that that's necessary limitation. But the Cien Warrior is 48
+points and I cannot spend 48 points in good conscience on a model with a damage
+seven weapon. The Sien Warrior is just too expensive in the overwhelming
+majority of cases to be considered as a piece, particularly given that going and
+pressing buttons in the midfield and accomplishing mission objectives is something ideally that can be accomplished by a large number of pieces
+in your force. But in the spirit of engaging with this challenge and giving
+the Cien Warrior the fairest possible shake, I have waited until I had an opportunity to play a scenario where I
+can actually use him and I think he's actually doing something valuable. And there are a few cases where I think that
+might be the case. But one of them that I think he's actually moderately well
+suited to is the scenario we're playing today, which is evacuation. And there are a couple of reasons for that. The
+first is that while evacuation is a scenario, it doesn't have an exclusion zone. It normally rewards infiltration.
+There are multiple HVTs that will usually be deployed that will be quite close to your deployment zone, within
+your deployment zone in point of fact that are pieces you will want to interact with. And evacuation is a
+hugely order inensive scenario. Anyone who has played evacuation will know that it always takes more orders than you
+think to even come close to scoring the points that you need to score a major victory in evacuation. It is intensely
+order intensive. And so we have specifically in evacuation a situation
+where actually I'm fine if my mobile specialist starts in or near my
+deployment zone because I'm going to be leaving my deployment zone heading toward the first HVT I want to evacuate.
+But I want a piece that can probably survive multiple turns, reach the midfield, maybe survive there or even
+pull back, and so has potentially lots of orders that they might spend over the
+course of the game rather than just having the sugar hit boost of efficiency that comes from having an infiltrating
+specialist who, yes, they start in the right location, but they don't generate orders turn on, turn on turn. On top of
+that, in the current IT season, the specialist bonus in evacuation is a forward observer specialist bonus, which
+outside of Ariadna is actually not necessarily what you'll be using for your specialists in generalist missions.
+So, the fact that the CN warrior is a specialist operative rather than some other kind of specific specialist is not
+really holding it back. Willpower 14 is kind of fine to do this mission. And so, here in this very narrow use case, we
+are going to give the CN warrior the fairest possible shake. Now, notwithstanding
+Amarrian's suggestion about like a fake Dowying, we haven't done any of that. You don't have the points for that kind
+of silly luxury in a list that is already committing to a sin warrior, particularly if you want to possibly
+also indulge in a few other silly luxuries that I wanted to try in the next vanillaing list that I played. And
+so, instead, we are just going with a simple and sensible chain of command in the form of the pheasant imperial agent
+mine layer. It's going to be duo duoed with a Moang NCO. Now, if I have to use that pheasant agent to do mission stuff
+in this mission, it is inevitably going to have to break the link because you will need to cy back a civilian. But I
+figured the mowang is reasonably durable and a possible outlet for those lieutenant orders if I can't spend them
+in any given turn and can at least get the pheasant agent into the midfield or near to an enemy HVT. The pheasant agent
+at that point can break the link and start legging it back toward the console. Mowing is just generally solid
+and valuable. Now, the mowing actually is an interesting kind of case in point of what I think it takes to tolerate a
+damage 7 weapon, right? The mowing is cheaper than the C warrior. Just as a point of comparison, right, talking
+about these pieces, the mowing is cheaper than the Cien Warrior, but for many people still only just comes in as
+a okay, yes, this is a viable piece mostly in recognition of what you need to have on a profile to make up for a
+damage seven weapon on an expensive primary firepower pace. The Mang is 44 points which is expensive by any measure
+and as its main gun it is relying on a damage seven red fury. But firstly the red fury is at least burst for so you
+can usually rely on scoring a couple of hits in any given volley. And then beyond that the mowing is an incredible
+profile. It is two wounds armor five and has no wound wound incap and is an NCO
+and has matism and has a decent sidearm in the form of the AP heavy pistol and has a disco baller and has a flaming spear. Like the total package of the
+Moang, despite the fact that its weapon damage is low because it has a red fury, the total package is frankly in my
+opinion excellent. And even in the opinion of certain Moang haters, it is still at least a pretty playable piece
+because of all of these extras. That is what it takes for a a primary
+gunfighting element to be damage seven and still be good. The Cien Warrior does
+not have any of those qualities. Anyway, enough [ __ ] on the Cen Warrior. Moving on. Now, as much as I celebrated
+the freedom from the tyranny of the Kangshi package in N5, it is still
+something that Yuching has access to, and we are using it to forgive a multitude of vanity pieces in this
+particular list. We are taking a celestial guard monitor and four Kangshi. We're also going to have three
+Shaolin monks and a Labbertos in this list. And if you're thinking, "Wow, that's an awful lot of really cheap
+stuff. What are you doing apart from taking the skin warrior?" We can answer that in the next two pieces. We have a
+Yan Ho HRMC and a hack tower missile launcher. Now, I will admit that the Yan
+Ho, I think it's very good, but I will say it's kind of bordering on a vanity
+pick in N5 just because it competes very closely with the Heate Warrior. The
+Heite unit rather is also ballistics 14, also armor 5, BTS 6, two wounds. It's
+also a warhorse and it even has an assault pistol. All you are losing is
+you you are gaining tactical awareness and you are exchanging the hyperapobanetic cannon for an AP HMG.
+The only thing that you are really notably losing relative to the Yanho firstly is the incredible coolness of
+the Yanho sculpt, but secondly, immunity armor on the Yan Ho. Now, is immunity
+armor worth seven points and giving up tactical awareness? No, probably not.
+And for that reason, the actual use case of the Yan Ho in many cases is I would
+like a second gun, please, after the Heerte unit. But in this case, I have taken all of the liberties necessary to
+forgive the vanity piece. And I painted my Yanho recently. It was like 80% done for about 3 years. I finished it off in
+the last couple of months. So damn it, we are using it. And that immunity armor would actually end up really, really
+mattering this game. Then in combat group two, we have a hack tow. Now, the hack tower is a piece that picked up
+plus one burst on its missile launcher in N5. And so, has been sitting patiently on my list of units to play in
+vanillaing basically since the beginning of the edition. And that plus one burst,
+I think, is probably really, really significant. Now, this is a 60 point model. That's hugely expensive. But when
+you have ballistic skill 14, mimmitism 6, potentially surprise attack, I saw instances in N4 of the regular flat
+burst one missile launcher hack tower actually being used as an offensive piece in some cases. And it was never
+truly successful, but it was shockingly close for a piece that otherwise is just a noctif on every ounce of crack in the
+galaxy. And the fact that at burst two, you have really quite a good chance of putting your opponent on sufficiently
+bad negative modifiers that they can't hit you or can't reasonably hit you. And you can land just one hit with the
+missile launcher in active turn. One hit with the missile launcher is usually all you need to accomplish your goals. And
+so I have wanted to play the hack tow for quite a while now. And this was look
+since I'm shackling myself to the damn Cen warrior lieutenant and taking all of these Kangshi, etc. I may as well. Let's
+put the vanity pick in and see how it goes. Otherwise, as noted, there is a liberto, a couple of Shaolin, and a
+single Zanchi Hishing doctor with a Yaoza. Now, she is going to sit hanging around the hack. Sorry, sit hanging
+around the Yanho, kind of looking like that's her job to bring the Yan Ho back. But the goal is to also have the hacktau
+either near her or near the Yao, ready to be recovered if necessary. because one of the few pieces of psychic damage
+that you can really truly give your opponent reliably in a game like Infinity is to recover an ARO piece like
+the Yan Ho if it does go down. So, is this list a good list? Well, it's certainly got a bunch of pretty solid
+elements in it. Would it be better if it didn't have a CN warrior Lieutenant? Probably yes. But noting that there are
+a couple of vanity picks in this list, this is the most red hot crack I can possibly give him given the scenario I
+think is the one case you would use him. So, let's give him a shot and see how he goes. Now, today we're playing against
+Kestrel Colonial Force, piloted by my good friend Owen, running a Kestrel Colonial Force list that I can only
+describe as possibly the most cursed points I have seen in any list I have played against in this edition so far.
+And actually, genuinely, I think coming in at 4SWC is not something you should be aiming to do with Kestrel Colonial
+Force much of the time. This is just a sample platter list. Owen has made a couple of accommodations to play into
+the scenario, but they are not they are not accommodations that I would generally recommend under general
+circumstances. Kestrel Colonial Force, although they do have access to disco balls on the excellent Fenic Fuselers,
+are still a Panosian faction, which means you are usually going to want to spend most, if not all, of your SWC on
+solid heavy weapons and other pieces. Because this is Panosiania, it's a firepower faction. It has access to good
+firepower pieces. It does not really want to be using Fenic fuselers to throw out disco balls to try and move its way
+forward and accomplish the mission objective that way. You can play Kestrel that way and I have played against
+Kestrel actually making use of visibility control and it's very interesting. But you have a strength in
+this faction. You should probably leverage it. The fact that Owen is kind of undergunded in this particular list
+is going to come back and bite him in this game by about turn three when it kind of materializes as a weakness that
+I am able to exploit. So, with that caveat, with the note that if you are a Kestrel player or a prospective Kestrel
+player and you're looking at lists on this channel, if you are interested in this style of a list, put more guns in
+there. Put like one more gun in there. Find the points. You can find the points. You are not going to regret it.
+Anyway, in terms of the list otherwise, it's a pretty solid sample platter of good pieces with maybe like one more
+non-gun fighting piece than you might ideally like because kind of of the scenario. We have a magistrate
+lieutenant. The cheap profile, that's kind of the correct choice with a couple of jackals. This is an excellent fire team. Harice gives you a ton of orders
+for cheap as well as the other benefits of strateg. We have a peacemaker mine layer. Again, an excellent profile. You
+can in Kestrel usually afford like one piece like this that is a defensive element. There's perhaps one too many in
+this list, but totally fine. A fagazi dronebot, a mule bot. The mule bot is there to reload things like the disco
+ball if needed. A machinist. Machinist a good choice when you have a tag. This one has an armed turret combi rifle,
+which I think you don't really want to pay points for anymore after the nerf to turrets. And particularly given that this list is already playing a couple of
+points down, cutting the combi off of that machinist and using those points in addition with some points you might cut
+elsewhere to accommodate another big gun in the list is sort of a change that I would make. But the machinist itself is
+quite valuable because the next piece we have is a squallow. Now I like basically all of the squalos profiles, but I do
+particularly like the non-nco HMG. I think in this list because you have strategos, you can still make use of the
+NCO squall by what you do is you put it in the other fire team from the magistrate. So you can optionally not
+use strateg. It gives you a bit of flexibility in how the orders are spent. But if we are
+running a strateg magistrate and the score loss is in the primary combat group, I do not mind taking just the
+regular rather than the multi-HMG at all because access to the grenade launcher is really nice and flexible. We then
+have a Yamabushi paramedic. Now, this is not a camouflage model. It's an FDO, but as mentioned in this scenario, having a
+specialist that can move moderately quickly. Yamabushi is pretty cheap as well. It's a reasonably good choice for
+doing things like grabbing the near HVT and making a run towards console relatively cheaply and efficiently. In
+combat group two, we then have a big fire team of Fenic fuseliers led by a
+Griffin we have by Pandra in there as well and then three Fenox, one Thunderbolt with triangulated fire, one
+hacker, and one Ford observer and disco baller. Now, this is mostly going to serve as a relatively static fire base,
+although it does have the option of moving out thanks to Bipandra. She's not the tactical awareness one actually. Sorry, I disregarded that. I thought she
+was attackware one. She's not. Now, she is a very reliable doctor to do things like recover the griffin, but in this
+situation, she is another piece that you could trim all. You could actually cut her entirely and just run four, right?
+Griffin and three Fenic fuselers. The Griffin counts as a fuselier. It would still be getting the plus one ballistic skill from having that team of four. You
+could cut by Pandra. We have a WC spare. We trim a few points elsewhere and then bam, all of a sudden we have another
+gun. That's the kind of change that I would be expecting to make. Or if you wanted to keep by Pandra, we cut the
+armed turret off the machinist and make her the tactical awareness profile. Both of those are good options and things we
+could do in this list just to tweak it slightly. But again, this is not tournament practice. We are not paying for sheep stations. This is just a bunch
+of stuff that Owen was using to experiment with Kestrel Colonial Force. Now, finally, we have a scarecrow forward observer. And this guy is very
+efficiently built for this scenario. This is a forward observer in a scenario with a forward observer bonus. and it is
+well positioned to grab, exfiltrate HVTs, and then do it again turn after turn. A good choice if you are building
+specifically for evacuation, which Owen and I are both doing. In more general lists, the Scarecrow forward observer is
+a piece that I would either consider exchanging for a hacker, or cutting entirely as part of that search for a
+third gun. In this case though, it had a pretty clear job to do. So, let's from there jump into the game and see how
+everything went. Now, I've won the lieutenant role and I have elected to go first. Owen has started to set up second
+on the left side of the table over here and both of us have done something pretty similar which is identify. So the
+table edge is basically right here behind it terminates this building abut
+the table edge and that means that both of us have a position where we can hide our HVTs
+in a manner that is quite defensible and from both sides of the table can kind of be locked down via overwatch from your
+deployment zone and even deployable weapons. And while there is a console just here, so we can like you can
+potentially like loop up and around potentially accessing like the HVTs on both sides, circling past the central
+console here in order to drop them off. Right? This is a potentially high value scenario area. The relative
+defensibility of the HVT positions means it's going to be, for lack of a better
+term, a tough nut to crack for both players attempting to get to the high-v
+value targets located on the left and right of this particular building. Now, on my part, I've secured the the two
+high-v value targets that I've positioned there, and then of course the actual uh scenario civilian that is
+deployed in that position. Right? So, we've each got a large number of civilians in these areas. I've secured that with my Labbertos and then as much
+overwatch as I can kind of put on it. There is a Kangshi that is deployed up against the table edge here that is going to run forward and then just be a
+corner guard there for the rest of the game. There's a Shaolin monk potentially ready to do the same thing. I have
+deployed my Cien Warrior Lieutenant as the reserve drop on the stairs of this building ready to move up and around as
+soon as I identified that Owen put his HVTs in the same position. That was my reserve drop. He was my reserve drop in
+part because we're trying to give him a fair shake, but also because I did expect him to have to be doing a fair bit of scenario work this game. And then
+on this rooftop, we have on this balcony/ rooftop area, we have the Yan Ho. And then the hack tower itself is
+going to be reserved drop here in this space, kind of near enough to the Yan Ho to serve as a secondary firepower piece,
+but also the Yaoza from the Doctor is hanging out inside this building, ready to heal either of them if needed. The
+Doctor herself is safe on this rooftop. She can move down and around if she absolutely has to. There are some pieces
+around here that she might want to recover, including the Moang duoed with the pheasant rank. The pheasant's mad
+trap is behind this building. And then there's just a smattering of Kangshi and Shallon monks all over the place. It's
+just various low value order and smoke generators everywhere else. The key pieces are the three heavy infant,
+sorry, the four heavy infantry, three of which are in or around this building, and then of course the Moang and the
+pheasant rank ready to move out on this side of the table if needed. Now, for Owen's part, he's adopted a pretty
+similar kind of deployment. Uh, he doesn't have the Libertos, but he does have the Peacemaker and its Oxbot. And
+so, they are securing Owen's side of this building. The Peacemaker itself is hunkered down behind this barricade, but
+then the Oxbot and the Oxbot's mines are positioned much more aggressively, ready to like deal with anyone that comes and
+tries to get these HVTs. The Griffin fire team along with the fuseliers are all in and around this building, kind of
+mirroring my fire base. The Griffin is standing here on ARO duty, watching quite a bit of the table. This is a
+relatively open table. Like, there's kind of enough terrain, but there are some fairly wide fields of fire. Like,
+nothing that you can't block with a smoke grenade, but the Griffin, of course, is an MSV1 shooter. After that, we have the Harice team of the Jackal
+and the Magistrate hanging out. The magistrate itself is hanging out nice and safe. I think it's the magistrate is down here. The two jackals are on this
+rooftop, able to stand up if they need to, but they are prone to begin with. Uh the Yamabushi will deploy prone down here, ready to go after this HVT and
+then make a nice safe run towards this objective if it gets a chance at some point during the game. And then the Squalos is going to be the reserve drop.
+And it's basically just deploying somewhere that is relatively safe because Owen does not want it to fight the Yano. And so it's deploying back
+here where the only like really credible threats to it from this position here would involve maybe the Moang coming up
+and around. And the Moang is not particularly a threat to a squallow. The mowing is very much armed with a damage
+seven weapon. I could feasibly try and bring a Shaolin monk up and around to deal with the squalos, but that would be
+very order inensive. It would not be able to get past the griffin fur back with this long line. And even if it did
+somehow do that, the Yamabushi back here would pretty aly defend the squalos. So the squalos is nice and safely positioned here, ready to be an active
+piece in Owen's turn one. But I am going first. Now most of my turns in this game will be pretty simple because my list is
+not one with a lot of moving parts. It's really just unlike my usual lists which try and have like 10 or 12 things which
+might do complex and interesting things to interact with the game. This list is a bunch of Kangshi and like four and a
+bit active pieces. And so in terms of the group two orders, the Libertos was able to sneak up uh outside of line of
+sight of the Griffin, right? The Griffin was mostly looking down in this direction. So the Labbertos' job was basically to run up and around here,
+dodge the mine, move out, shotgun the oxot, and die to the oxot flamethrower. Now, that is nominally kind of a bad
+trade in terms of value, but the oxbot and the mine were guarding a pair of high-v value targets and a civilian. And
+so, just clearing this particular way, yes, it was worth the eight points, particularly given the Libertas is left
+behind a mine. That cost all of my orders from combat group two, no problem. Combat group one is equally
+similar. Firstly, the Yan Hoy stands up and goes and takes, I think, three or
+four orders to dislodge and eventually suppress the Griffin. Uh the Griffin actually beats it in a face tof face
+roll a couple of times including one crit. But and this is one of the situations where the Yanho does
+genuinely like be worth the extra points over the heyday. The Griffin has a flare
+back. I am immunity armor. And so despite copying one regular and one critical hitback to the dome, the Yanho
+just loses one wound and carries on with the fight. Absolute legend. Uh I do in time suppress the Griffin. It drops back
+down. It takes one wound and it goes prone. At which point I start spending lieutenant orders. And I only have so many orders here. And my intention is
+not to get feisty. So I just use the sand warrior to come up and around. Now cognizant of the fact that Owen has only
+14 troopers visible. I do drop some smoke here with a shall monk regular. Come up and around. Pick up this HVT.
+Run through to here. Drop the HVT off into the uh into the beacon. And then basically just run all the way back to
+where he was. Now is that a particularly good first turn? I have done a single I haven't shipped any orders from Owen's
+entire combat group. I have wounded the griffin and I have dealt with some of the defenses in this position here. But
+what I have done, for lack of a better term, is banked orders into the scenario. This scenario is very, very
+order inensive. It takes lots of orders to accomplish all of your goals in this scenario. And getting even just one
+high-value target done and accomplished is kind of worthwhile. Now, there are also two classifides in this scenario,
+but my list is crap at doing them because uh two of my best heavy infantry are headquarters troops. Thanks, Shen
+Warrior. It's fantastic that you're not elite or veteran. I really love that. But with zero hackers, again, don't play
+list with zero hackers. But with zero hackers, I couldn't do any of the hacking classifiers that I drew. So, I
+had a couple that could only be done by veteran chain of command or elite troopers. And so I was basically just
+hoping that this little dude in the corner here might at some point accomplish them. Spoiler alert, they
+would not. This is not going to be a high-scoring game. Now this is the position at the end of my first turn.
+The C warrior remains completely non-visible, but he is running back to here and is hiding. We can see that the
+HVT that was over here has has gone. I've exfiltrated it. And we've got a Kangshi that has moved up to this
+position here as a deployment like a a sorry a corner guard on the uh the two highv value targets I have clustered up
+against this building. Now Owen's turn is going to involve actually some interesting decision-m points for me in
+particular because the first thing he does again is kind of just mirror my point of play which is okay let's just
+bank some scenario points and so the scarecrow reveals itself. It was actually sitting like basically directly
+next to this civilian. It grabs the civilian, moves around here, and after a
+little bit of fumbling, uh, because it does, it does have to take I think it takes two goes to get the civilian
+because this war is not great. Gets the civilian, moves it around to here, shoots the civilian up into space, and
+then pulls back and around and ends up re-amouflaging uh, behind this barricade, prone behind
+this barricade. Now, that's a pretty sound use of orders. Those are all orders from combat group 2, but it does
+end up taking something like the full six orders in that combat group, including the scarecrow's hidden
+deployment order to get all of that done due to some failed will power rolls actually getting the civilian in the first place. And that's a very
+significant number because in terms of the firepower pieces that Owen has access to, it is the linked Griffin that
+is the greatest threat to my hack tower. And once the sixth order in this combat group has been spent, the hack tower is
+so the the hack tower is no longer under threat by the griffin because the griffin is prone. And that means that
+when Owen proceeds to his first combat group and starts spending orders and begins by moving the Yamabushi up and
+around here, I can reveal the hacktau and take a shot because I know that the
+hack is now only going to be engaged by Owen's squallow. And the squallow is not
+really a fantastic piece for fighting an armor 5 mimatism 6 missile launcher in
+ARO. Now the Amaboosei makes its dodge, actually dodges out of line of sight, is able to get around the other side of the
+civilian. Does actually end up grabbing the civilian in subsequent order and it'll come around here to hide. It's not
+necessarily hugely pinned down by the hack tower. Now what it probably should have done if it could was to find a way
+to come maybe up and around this way and just just get those points, right? Don't kill anything in mind. It's not the end of the world. get those points, bank
+this particular object, this HVT, and be the person who now has two regular civilians that have been shot up into
+space. But instead, Owen is like, "All right, let's just see how bad this hacktau fight is." Because one of the
+things that you do run into when you're engaging missile launchers is that you can range in under them, and that can be
+quite effective. And so, for now, he is content to just pull Yamabushi back to a safe position here and move out with the
+squallow. And the squallow is actually going to move. It's it can move in like weaving in and around between these
+buildings and actually get all the way up to here and come around the building this this building here and engage. And
+this ends up being like exactly 17 in which is pretty much perfect because that means that the uh the squallow has
+gotten inside of 24 which puts the hack tow at zero range band minus three for cover but it's still in good range. So
+the uh this qual is able to fire four shots with its heavy machine gun on
+nines versus one shot from the hack tower on 11s, but all of those numbers
+are kind of low. And basically what happens is that a whole bunch of orders get spent and the firefight is totally inconclusive. I think the hacker ends up
+getting hit once or twice, but its armor holds. The squalo actually does get hit once and it takes a wound from the missile hit, but that is all. Just a
+whole bunch of GI Joe firefights with like munitions firing everywhere. Ultimately, the squar gets jack of it,
+decides it doesn't want to be exposed in that position and will pull all the way back around to here and end its turn behind this building. Now, we can see
+that here. This is not a totally unexposed position, right? Theoretically, I could actually bring the moang up and around and look at the
+score from a position where I have it out of cover. Uh, but I would have to to do that. I had a look at this. I would
+actually need to get all the way down. And I would need to come up in around here and take this position to actually have the squalos in proper envelard. And
+while I did seriously consider that as an approach without the griffin standing
+and with the squallo in a relatively conservative position, I decided it was time to actually go about winning the
+mission to the extent that I could. And so instead, this is also going to be a very simple turn. Uh, in terms of the
+orders that we have access to in our second combat group, which even with the hacktau having revealed are quite limited, the hack tower will end up, I
+think, maybe repositioning or re camouflaging. I will otherwise just have Shaolin monks throw smoke. In
+particular, we're going to get some smoke down about here because that will stop this squaller from looking in this
+direction and give me a very unobstructed run with this warrior. The ci warrior is then going to spend basically all of the orders in the first
+combat group. He's going to come back down the stairs up and around up at these stairs around here just boing
+boing boing boing boing. He will take one face to face roll with a fuselier which he will put down. He'll actually also be able to lean out and put down
+the This is This is like good range. He is getting pretty lucky here. I will note like fights with multi rifles can
+take a very long time. And I think it takes two orders to put down the fuselier. He gets lucky and takes down
+the peacemaker in one. No, I tell a lie. He actually is able to avoid the Peacemaker entirely, but he's able to
+put down the fuselier, which will be the only kill he gets this game. But he will use the remainder of his orders to come down the ladder. He will synchronize
+both HVTs. This is a risk, by the way, of deploying your HVTs like this in this scenario. It is allowable for one model
+to be synchronized with two civilians. And while the advantage of having both of your HVTs together is that you can
+defend them effectively, if that defense pulls apart, a single specialist model
+can potentially grab both, which is what the Sin Warrior did in this case, and then bottled it around this direction.
+Now, along the way, he attempts a discover against the Scarecrow, fails, needing 17s. Thanks, Yugon. But the
+Scarecrow fairly sensibly declines to ARO as the sand warrior then just continues his path toward the objective.
+Uh he takes three rolls to evacuate the two civilians, but he does eventually get both civilians shot up into space.
+Uh and at that point, I have like one order left in the entire turn, which he then just uses to jump around, like jump
+around behind this barricade and go prone. Now, that's going to be a very exposed position. And we can actually
+see that position here at the end of my turn. We have a Shaolin monk that's made its way up to that position. And then
+the Cien Warrior, both of them are hiding behind this barricade. That is not a position that is even remotely
+safe. But if Owen spends all of his time killing those pieces, it is going to
+take him like that's going to be most of his turn like dealing with because the hack tower is still here. And so dealing
+with all of these elements, he's going to take enough time that I don't expect Owen to be able to get these kills and
+be able to get runs on the board in terms of exfiltrating these civilians, my HVTs. Not least because the best
+piece he has to come up and around here, right, and take the firefight against the Cien Warrior is the Squallow with
+its multi pistol. And the Squallow can absolutely synchronize civilians, but it can't, to my knowledge, actually
+exfiltrate them. It can beep out its little robot, but it remains the one
+synchronized with the civilians. And while the robot is a specialist, it isn't. The squalos itself isn't. So, you
+need to find a non-tag specialist to fling these guys up into space through the evacuation console. And that's going
+to be very awkward with the elements that Owen has here, which will take a long time to move down and around. And
+that's basically going to be the tail of the tape in this turn. Now, Owen launches a multi-pronged assault on this
+position. We are going to see three different offensive actions. The squall is going to come up and around here.
+It's going to engage the CN warrior from out of cover. It's going to able to be able to like use the same cover it used
+in the turn previous to get in underneath the line of sight of the of the hack tower, not be exposed to
+danger. It's going to end up in this position here firing its multi rifle at the Cen warrior. It fires the multi
+pistol rather. There are a bunch of facetof face rolls where the sen warrior gets kind of lucky. I spang the first
+armor roll and use that to gut guts a little bit forward into cover. Now that pulls me away from this side of the
+barricade and toward be in cover against the swallow. that allows the scarecrow to stand up and put three shots into the
+back of the head of the sin warrior. The monk died in like the first exchange against the swallow. Um he puts three
+shots into the back of the head of the sin warrior which the sen warrior survives and then the hacktau reveals in
+ao against the scarecrow and kills it. The griffin then stands up and fights
+the hacktau in a very much swallow the fight spider to catch the fly situation.
+But this is a face-to-face role which actually, you know, is fairly favorable for the Griffin, but not truly favorable
+because it's MSV 1 and the hacktau is MSV is mimatism 6. So the griffin is
+blazing away at ballistic skill 12 and the hacktau lands a hit on a 13. The
+griffin does not beat it and it goes down to a missile. It goes all the way to dead cuz it was wounded by the yanho
+in a previous turn. And so now Owen has no guns other than the squallow that can really engage anything. The squallow
+blazes away against the can warrior for like every remaining order that he has before Owen basically gives it up as a
+bad job or I think actually just runs out of orders staring down the wounded can warrior. So all told that's a pretty
+catastrophic turn and it is the kind of catastrophic turn that you can have when you don't have firepower redundancy. Uh
+actually sorry one thing that is worth noting because this is a cool showcase of a cool piece about Fenic Visualers. I
+mentioned that the Griffin went down in like the second or first face to face roll against the hacktal. Owen still had
+orders to spend on that second combat group because it was all one big fire team plus the scarecrow. The scarecrow the scarecrow spent one order, the
+Griffin spent two. That left three orders in that combat group which he used very cleverly to have the Fen
+Fuselia thunderbolt stand out. Now, the FX survived its first face-to-face roll with the hack tow after which it was
+able to use triangulated fire and actually have just a just as good an engagement rolling uh four dice on
+twelves with triangulated fire completely bypassing the hacktau's mimmitism actually making it a
+serviceable backup firepower pace. Now, unfortunately, it is only damage six, and so I think it hit the hacktau like
+three times and just didn't do anything because the hack is an armor five heavy infantry, but still a really, really
+cool play. Now, in this photo here, we can see the beginning of my final turn. We can just barely see the gun. Uh there
+is this is an old school Drago on an N2 base, which actually makes it the correct base size to proxy a squallow.
+We can see it hanging out here, and I'm going to move to engage it. Now, I could right I could think about how I might
+try and progress the scenario, but as mentioned, it's very, very difficult for me to do any of my classifides. And the
+only like remaining points I could get would be to try and get this civilian out to safety. And since I've gotten one
+civilian clear and both of Owen's HVTs, I'm already on five points. That is
+major victory territory. And if I can just kill all of Owen's remaining remaining guns, there is no way. there's
+just no way for him to deal with like to get to my HVTs, which means I have the scenario unlock. And so the goal is just
+step one, kill the squallow, and depending on what orders we have left, if we do it nice and cleanly, maybe we
+can accomplish more, but just kill the squallow because if the squallow dies, nothing else, right? Nothing else can be
+done by Owen realistically. The Thunderbolt is dead to the Hacktail. Like Thunderbolt died to the Hacktail. The Griffin is dead. It's the last
+remaining gun. So the first thing that we're going to attempt is we're going to have the Skien Warrior. I'm in cover. The squalos isn't. We're going to engage
+with the sen warrior. Uh, and the sen warrior dies. Uh, I'm not actually particularly surprised. It was a good
+face to face roll, but I'm due for some bad luck after the sen warrior surviving as many goes as it did against the
+squallow. It does nothing. That's fine. The yan ho is then going to stand up. It's going to engage the squallow who
+was able to guts into cover relative to it. Um, and then I'm going to take eight
+consecutive faceto-face rolls with the hyperap hyperapathetic cannon. We're fighting at about 9 in. So, we are both
+in zero range bands. We are both in cover. I am burst five. Owen is burst
+one. I am on 11s. He is on twelves. And during those nine consecutive face-to-face rolls, uh I am going to
+have the the Yanho get dropped and recovered by the doctor twice. Uh before
+I finally on the ninth facetof face roll, the the squallow actually just misses completely. The Yanho lands three
+hits and a crit and the score lower goes all the way down and dead. But it takes nine orders from the first combat group,
+every regular order that I have and both regular orders in the second combat
+group recovering the Yanho as part of that so I can continue making face to face rolls. But we do put the squallow
+down. We do nothing in terms of progressing the scenario. We can't secure the HVT because I've shot both of Owen's HVTs into space. But Owen's last
+gun is dead. We use the one remaining lieutenant order because after all the C warrior went down on the first
+lieutenant order of the turn just to move the Moang up to a defensive position here and to move the uh the
+pheasant into a standing overwatch position here. And that that's that's basically it. Uh all Owen can try and do
+is to get the Amabushi forward uh to secure the to score the one point that he can potentially score. And he does do
+that. The Amabushi is able to basically make a move and then a dodge and then get clear and fire this one civilian off
+into space. He gets shot along the way. He manages to survive one face to face roll against the Mang before eventually
+dying. That scores Owen a single point. Uh but a single point is not enough to secure the game. And so the game ends
+one point to Kestrel and five points to the Cien Warrior Lieutenant Lead Yuching. Now, in terms of assessing this
+performance, technically speaking, he scored 100% of the points that I scored this game. And as we sort of suspected,
+this kind of a scenario where you need not just orders, a bunch of orders on one turn, but a bunch of orders
+potentially on multiple turns. I spent pretty much all of my first turn and all
+of my second turn almost exclusively progressing the scenario. I needed the
+orders and I needed the lieutenant orders. And so in this very niche circumstance, it was not the worst
+possible case for the Shien warrior to show his quality. But would this list
+have been better if I had just rather than spent all of those points on the Sien just taken a couple of midfield
+specialists? Like literally anything that you might take? Or maybe a mobile fire team? Something like a a H highal
+linked to a Moang, a Dying Lieutenant. I have the same number of orders. The total cost is cheaper. The DY hangs out
+safe in the back. I use the Mang NCO to get the Hideau forward. The hideout then synchronizes the civilians and escapes.
+The Hideau is just as durable in that particular circumstance. It's got a shotgun for close-range fighting as
+well. Like there are just better things that could be done. And the 48 points
+that the Cien Warrior cost. Really, he did fine. He scored five points. I can't
+complain, but I could have spent those points elsewhere and had a list that was kind of overall better. Now, in terms of
+the other thing I wanted to test, which was the hacktail, two big thumbs up. It was really cool. Didn't get to take an active turn fight with it, but there is
+always a learning curve to using pieces like this. In this game, I deployed it relatively conservatively. I wanted it
+near a I wanted it near a Yaoza. And so, basically, anytime I had to take a gunfight, I took it with the Yanfo
+instead. And so, I think in a different slightly more optimized list, I would actually split them apart. Maybe, for
+example, I would deploy the hacktau near the doctor. that was something I was actually considering. I just didn't
+actually do it. Um, like that would be a consideration. There is a learning curve using pieces like the hacktau who are
+just a little bit different to anything else in the game. I'm keen to play it again when I get the chance. One thing I
+would like to do is to include some elements that maybe obuscate the presence of the hack tower a little bit.
+Maybe it's a bunch more stuff in the midfield. Maybe I even just put an evo hacker in the list to kind of just fake
+out that there's going to be a drop troop. I could genuinely see myself doing that. Right. I wasted enough points on the sien warrior in this
+particular scenario. What is 15 points for an evo hacker among friends, right? When it be like, oh, there could be a
+shooting star. You should really be careful of that. Pay no attention to the one and a half SWC that is very visibly
+missing from my list. Right? There are there are options. So, the hack I'm keen to play a little bit more. I also do
+want to get around to playing some lists that use both the Heate and the Yanho because that is an awful lot of gun.
+admittedly 3SWC, but you're only paying 87 points for the two of them, and that is really pretty premium armor-piercing,
+ballistic skill 14, like multiple firepower pieces. That could be very cool to use. I want to try that at some
+point as well. So, overall, some very fun, very fun learnings. Will I be using
+the Cien Warrior Lieutenant again? Absolutely no. No, absolutely [ __ ] not. I love CN warriors generally, but I
+love them because they are an MSV2 ballistic skill 14 heavy machine gun, not for any of the damage seven weapon
+profiles. So, still in the interest of good faith and engaging with viewer requests, we have given it a shot. And I
+think you can absolutely say that scoring five scenario points is a perfectly serviceable contribution even
+for one six of your list's total points. So, there we go. Amriffin. This is my
+slightly scathing but nevertheless earnest attempt to play the Sen Warrior Lieutenant. I hope you found it
+moderately interesting. We did indeed get to see him go out there and do it himself, which is kind of the ideal use
+case for this guy. For everyone else, just as a reminder, if you'd like to support the channel like Amaran, you can
+do so via the buy me a coffee link in the video description below or by becoming a channel member on YouTube. I
+take requests, not usually for specific profiles to be tested, but for armies to
+be played or covered in faction focuses or general questions. I'm always happy to engage with viewers and supporters
+about any and all aspects of this game. Otherwise, that concludes the video for this week. As always, I hope very much
+that you have enjoyed it. I will see you next time, back next week for more Infinity content.

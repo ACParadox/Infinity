@@ -1,0 +1,313 @@
+A primer on Tactical Armoured Gear operations
+
+
+TAGs are one the hallmarks of the Panoceania army list, but many people don’t run them as they think they are too many eggs in one basket or bad in ITS missions which promote scoring specialists over combat beatsticks.
+
+However personally I have found TAG usage to be very successful tactic in both direct action and specialist operations. With that in mind I am writing the following article to share some of my thoughts, tactics and ideas with my fellow Panoceania players so that I can hopefully inspire more of you to give the TAGs a run and crush our enemies.
+
+Firstly I feel is appropriate to separate our TAGs into two broad schools of thought, namely Main Battle TAGs (MBT, see what I did there?) and Light TAGs.
+
+
+MBT: This is the Jotum, Cutter, Dragoes and Squalo. They are heavily armed and armoured, with Multi-HMGs and other weaponry that gives them a serious edge in combat. Unlike the MBTs of other factions which are often 1 dimensional beatsticks each of these TAGs also brings a slightly different approach to the battlefield, with the Jotum emphasizing heavy armour and weapon utility, the Cutter being a terror to try and hit and able to move around the table with impunity, the Dragoes essentially being the last word in the game on firepower bar none and the Squalo being the alpha strike nightmare with its speculative fire.
+
+These TAGs operate as the spearhead of any assault; they dominate the game and often become the focus of the game itself. But they are not all powerful gods, they require proper support from the rest of the army, particularly given their large investment in points, SWC and orders, and therefore a list that includes them should be built around protecting them and covering their weaknesses, while letting them do the heaving lifting in terms of engaging the opponents troops.
+
+
+Light Tags: this Category includes the Tikbalang and the Uhlan for obvious reasons, but I am also including the Seraph in this class as personally I feel it operates more as a heavily armoured light TAG than a lightly armoured MBT, a distinction that dictates which targets it can engage and what its role on the tabletop is.
+
+The Panoceania light TAGs are unique in that they are all reasonably armoured (6/7) and carry pretty heavy weaponry when compared to the light TAGs of other factions. But what really makes the Panoceania light TAGs stand out from the crowd is their emphasis on movement and visibility. All three of the light TAGs have a special movement rule that means they are able to roam around the board at incredible speeds, either climbing over anything in their way, moving past and through the opponents lines as a camo marker or soaring gracefully through the air to bring death to the opponent from on high.
+
+This flexibility means that the light TAGs can choose when to engage the opponent, hiding in reactive and reaching out to strike the opponent from completely unexpected angles of attack in active, overwhelming sections of the opponents force, rather than the MBTs more aggressive reliance on the reactive turn for killing. They are a scalpel rather than a sledge hammer.
+
+
+From planning to action
+
+So far this has all been heavy on the philosophy of using TAGs and a little light on detail so lets take some steps to address that. Here is what you should try keep in mind when using your TAGs in a game of infinity.
+
+The first aspect of TAG usage to address is the identification and classification of threats in your opponent’s army list.
+
+Some of this requires an reasonably in depth knowledge of what the opponent potentially can have and an evaluation of what its likely to be, such as recognizing that Camo markers in a Yu Jing players deployment zone are likely Raiden, or the ones in an Ariadna players deployment zone are Spetznaz or Tank hunters. This is obviously easier in sectorial armies as they have limited options with only 1 or two potential profiles in these types of situations. Also being able to recognize your opponents SWC expenditure can give you a good idea on what such hidden options are likely equipped with.
+
+Also be aware of assault hackers AP+EXP weaponry and forces that are spamming lots of cheap AP small arms.
+
+Once the main threats to your TAG are identified you want to counter them as best you can. Ideally you achieve this by going first and killing them as quickly as possible. But this is not always possible, so deploying appropriately and supporting your TAG correctly is important. If you do not have first turn then you want to force your opponent to engage your support troops before he can get to your TAG. How you go about this depends on the threat.
+
+If for example you are worried about hackers using either camo to approach your TAG or fast cheap repeaters then make sure that you have deployed the TAG under the defensive net of your own hackers. If your opponent has to run a repeater up, use a kamau or similar hacker to “blackout” disable the comms equipment and prevent the opponent hacking through it. If they are using an infiltrating hacker then nab them with a killer hacking device as they go for your TAG. By forcing your opponent to deal with such roadblocks you force them to waste orders not completing the mission of crippling your TAG.
+
+A good trick if you are worried about hackers is to deploy a palbot linked to a machinist in base contact with your TAG. If the opponent Possesses your TAGthen it is engaged with the palbot and cannot destroy your own force easily (electric pulse on the palbot is a good way to not damage either the TAG or the palbot) and possessed can be cancelled in your turn. If the opponent instead isolates your TAG as more experienced players are likely to do then you already have your engineer in position to repair it at the start of your turn.
+
+Also be aware of your flanks to defend your TAG from AD and attacks from behind, troops such as Auxila, Regular Minelayers and Krakots are good for initially protecting the TAG with their DTWs before you can park other troops on suppression fire.
+
+The next thing about TAGs you have to keep in mind is to not over extend with them, the idea is to use their 6 movement to move out and attack the opponent before pulling back into a position where your own troops are preventing the other guy from getting up close and personal with your TAG. You want to set up such that the opponent has to spend a lot of orders to get to the TAG without being forced to engage it head on. If you have a minelayer regular sitting behind your tag look at its back in suppression fire with a nasty surprise next to it, well it’s not easy for your opponent to get to it. Always angle your TAGs facing to maximize its coverage of the likely approaches to it, usually paying particular attention to the board edge as your other troops can probably cover the middle of the board effectively.
+
+When you park your TAG in reactive turn, make sure its positioned defensively but aggressively, covering firelanes your opponent HAS to cross usually this is overlooking over the objectives with a clear killzone of 12-24 in front of them is best, this way in suppression fire they are throwing dice back at the opponent and 3 dice at BS15 are good odds even against camo surprise shots, just try not to let them get your form outside 24, which will force you to break suppression and limit your defense. This trick works for everything but is also one of the best ways to defend against hackers by ensuring that if you are in suppression fire your opponents hacker has to contend with your BS15 face to face rolls against any hacking attempt.
+
+Also of note, use of Warning! to re-position the TAG without breaking suppression fire. Because of remote presence and their high armour values TAGS are particularly good at utilising the Warning! rule to turn and re-position themselves to face an enemy buy ignoring the initial attack and then kill the enemy unit in its next order.
+
+Basically you want to kill the opponents troops that are a threat to you in your turn, the set up and kill his troops that aren’t a threat in his turn.
+
+
+TAGs in ITS specialist missions
+
+So the above advice is all well and good, but apart from the brief mention regarding parking your TAG over an objective what should we be keeping in mind when playing specialist missions with a TAG?
+
+Well the first and probably most important thing is to not get kill fixated. See that above point about trying to kill the opponent in his turn, well when you do that you really limit his options and you can spend your active turn scoring your own objectives, once you cutdown 3-4 of the opponents orders in his first turn there is not a lot he can do in his second or third turns to prevent you scoring.
+
+With this in mind dont be afraid to leave your tags parked after turn 1 and spend orders button pushing. Your TAG is still doing its job even if you aren’t spending any active turn orders on it.
+
+Another Trick that is of particular interest in PanO is the recognition that your big S7 TAGs block LOF. So walk a Jotum or a Cutter or a Squalo up past an objective that the opponent has covered and even if you don’t kill all his ARO’s you then have the option to move your own specialist up to the objective without granting the opponent LOF. Even if your TAG unfortunately goes unconscious using such a maneuver he will not go prone and will still block LOF, meaning this is bonus points if the specialist moving for the objective is an engineer.
+
+As to the other big worry often brought up with TAGs, secure the HVT is a god send, with always having the option to take this classified it is incredibly easy to play long term with this in mind, plan your list for it and abuse it. Use the TAG to stomp over to the objective, park on top of it and claim it as yours. What this practically means is that a TAG is usually as effective at scoring as a model packing D-charges is, it’s even better in a lot of ways given that you are guaranteed to have the secure HVT classified objective if you so want.
+
+On a final note, TAGs are a very good shock and awe weapon, often times opponents will not be expecting to face them in a specialist ITS mission and will not have taken the tools to deal with it in abundance, or have much experience with using them. Couple this with the fact that models are only made public information as they are deployed, and you will often keep your TAG as your reserve, fielding one is often as much of a surprise to the opponent as HD or AD deployment.
+
+
+Supporting Your TAG:
+
+So we’ve gone into a fair bit of detail about how to use the TAG itself, albeit light or MBT, but what about supporting the TAG, and indeed, why is such support even important?
+
+Infinity is a game built around small forces and the best lists contain units that compliment each other, by either allowing the elimination of threats to your units or by buffing your units to minimize their weaknesses. These are known as force multipliers and add more to a list than just taking more guns/orders.
+
+Given the centerpiece nature of TAG lists, such support is even more important than normal as you are going to have less single threats on the board to fall back on.
+
+Infinity is a wonderfully balanced game and as such these support principles are far more of guidelines than actual rules, this section of the article as such merely aims to highlight some standout units that it is good to add to a list if you are thinking of running 1 or more TAGs.
+
+
+Buffing and repairing:
+
+Buffing and repairing your TAG to do everything you can to keep it combat operational is the first type of support we have, none of our TAGs bring this level of support with them, therefore we will move straight onto the units to take.
+
+The first type of support is the easiest to describe and for PanOceania and is an unfortunate, yet understandable given in our lists. The one and only engineer in our list is the machinist, you always want to be taking one, always.
+
+Our TAGs have 2 unconscious states and often an opponent has spent significant effort merely to deal the 3 wounds to a TAG necessary to put the TAG into an uncurious state in the first place. This means they are often unwilling to continue to put orders into models that they feel are effectively out of the fight. There is little more depressing for the opponent than to watch the monster they just put down get back up with the first order of their opponents turn.
+
+While WIP12 on the Machinist appears bad, Re-rolls with command tokens mean you have a roughly 75% chance to repair each wound, that’s pretty nice.
+
+Palbots are also a significant bonus here allowing you to increase the board presence of your AVA1 machinist (AVA2 in ASA).
+
+NB: You may repair TAGs that are not unconscious, sometimes spending an order to repair a TAG that is on 1 wound so that it is on 2 is a good thing to do, either at the start of the turn if you expect to spend a lot of orders on the TAG, or at the end of the turn if you intend to leave the TAG in a position that forces the opponent to engage them.
+
+Machinists can also repair the very dangerous isolated state, while not entirely debilitating late game, having someone put your TAG in this state early game can be very debilitating and machinists are our only way to repair from this state.
+
+Buffing TAGs is a new and relatively simple to explain.
+
+Reboot from an EVO hacker forces the opponents hackers to suffer a -3 WIP roll if they try to hack attack your TAG and it chooses to reset. This bonus is particularly good at preventing first turn Rambo hackers from grabbing your TAG as the EVO hacker allows you to start the game with this program already active.
+
+
+Protection from Hackers:
+
+So hackers, particularly assault hackers are the units in the game most dangerous to a TAG, they attack from out of LOF thus negating the best advantages of a TAG and have a series of programs that can eliminate the threat your TAG presents with a single attack. As such protection from these units is deserving of its own type of support section.
+
+The TAGs that are less in need of this type of support are the Uhlan and Cutter wich bring their own form of protection in the form of Camo Marker states that make them un-hackable. The Jotum also packs a punishing BTS 9 limiting the effectiveness of certain hacking programs.
+
+In terms of hacker defense, the obvious solution is to bring hackers of your own, in particular the aforementioned EVO hacker can force the opponent to roll at WIP-3 whenever your TAGs declare reset as an aro.
+
+But more aggressive hacker defenses are a good idea as well, being able to blackout enemy repeaters on the order that they move up into ZOC of your TAG/Hacker before the opponent even gets a chance to hack through them is probably the best defense, but KHDs and High BTS assault hackers that can hunt down and ruin the hacking of enemy hackers in active are also good.
+
+With this in mind the kamau, Hexa and Father knight are all good support options in a TAG list, the Hexa and Father knight also significantly boost your lists scoring ability by being tough to eliminate specialists.
+
+
+Hunting Camouflage:
+
+After hackers, camo troops are the next biggest threat to a TAG in my opinion, the combination of not knowing what your opponent has hidden under a token and the tokens ability to move past/ignore your TAG is a problem that needs to be dealt with. As such any list with TAGs in it should make sure it has a way of dealing with camo tokens.
+
+TAGs that need less support in this area are the Dragoe and the Jotum with their heavy flame throwers giving them 2 chances a turn to “discover” an individual camo token.
+
+However the undisputed master of dealing with camo tokens is the Seraph, with a Gsync’d bot and a nanopulser this monster gets 4 rolls a turn to force an opponent out of the camo state, pretty solid odds really.
+
+For the same reason that these TAGs are dangerous the Auxila and other Auxbot equipped troops (such as order sergeants) make for pretty good camo hunters in a Panoceania list, bonus of the Auxila being their ability to bring more scoring along with them in the form of their FO profile.
+
+NB: palbots can also be used to discover camo tokens if you are in a pinch and want to reveal a token without exposing an important piece.
+
+Then we have the plethora of MSV troops, ranging from the Baghs all the way up to the mighty Aquila.
+
+Finally there are the sensors both the pathfinder and the regular minelayer, with WIP 13 and a +6 to discover rolls these guys are both great, with the pathfinder being a fast specialist and the minelayers bringing utility to a list with their deployment defense and anti-camo abilities.
+
+The various sectorial’s also have access to troops that replicate the rolls of these units such as the BS+Nanopulser CSU, the Deva Sensor, and Scylla/drakios.
+
+
+Specualtive Fire:
+
+One of the other most important tools in infinity in my opinion is a speculative fire.
+
+This skill enables you to eliminate threats/key pieces, without exposing yourself and it is important to ensure that your list has a speculative fire option. Furthermore I know from bitter experience that a good opponent can lock you down with correct placement of defensive troops that can operate from outside LOF and prevent your TAGs from being able to move, either using smoke of being prone in hard to draw LOF places.
+
+The obvious shout out for the TAGs here is the Squalo, in fact it’s the biggest draw of that unit and what allows it to actually stand out from its fellows, spec firing across most of the board on 9s.
+
+In terms of list construction I always try and include at least 1 source of speculative fire in my lists, preferably a non-hackable one. Stand outs for TAG support for me are the fusilier LGL, Kamau LGL, Locust and Krakot renengade.
+
+
+Miscellaneous:
+
+Here are some other troops that offer good support for a TAG list depending on what you expect to be facing.
+
+Drop bear equipped troops, allow you to cover both speculative fire and place a defensive network around your TAG with very few orders.
+
+Black friars bring a biometric visor that can protect your TAG from impersonators which are much more common in the game now due to cybermask.
+
+Regular Hacker’s are fairly SWC expensive for a TAG list, but it brings both an LGL and a Wip13 hacker device with a repeater that increases its hacking area for a pretty good combo of utility for a list.
+
+
+Example: Blocking LOF with your TAG
+
+Bellow we have the situation where the opponent is attempting to cap an objective around a corner with his machinist (small green circle). Unfortunately his opponent has a defensive unit such as intruder sniper in cover covering the objective on a building.
+
+the Panoceania player could edge his TAG around the corner while maintaining cover and attempt to kill the intruder, but given the intruders, cover, camouflage and potentially range modifiers it is unlikely that the TAG will succeed in downing the Intruder in a single order.
+
+Conversely given the TAGs armour, BS and burst it is also unlikely that the Intruders single ARO will be able to do much damage to the TAG either.
+
+Therefore, to minimize his order expenditure the Panoceania player can move the TAG aggressively forwards past the objective, blocking LOF of the intruder to the objective. with this achieved the Panoceania player can then spend a single order to move the machinist into base contact with the objective and score.
+
+[​IMG]
+
+[​IMG]
+
+Example: light TAG mobility
+
+In this example our now standard Panoceania player is not running an MBT. Instead he is using one of the light TAGs in our army list. He is however in a position where the light TAGs emphasis on mobility is an advantage over the MBTs emphasis on firepower and defense.
+
+In this situation his TAG is parked behind a 1 story building that has a 2 story section (yellow) on the left hand side. Tucked away at the edge of an opposite building the opponent has a piece that the Panoceania player wants to kill, such as a likely Lt or a valuable specialist, perhaps even just an order generator.
+
+However, His opponent also has a strong defensive piece such as a Tank hunter with AP HMG or intruder HMG in suppression fire set up on top of a building that is protecting the approach around the left hand corner of the building the Panoceania TAG is behind.
+
+If the Panoceania player was using one of the MBTs (with the exception of the dreaded cutter or Squalo HGL) he would have little to recourse but to move to the left hand corner and engage the defensive unit before trying to then kill the vulnerable hidden piece, a potentially order expensive and dangerous proposition.
+
+However because he is running one of the light TAGs our Panoceania player is able to engage the vulnerable unit without having to worry about or deal with his opponents defensive piece.
+
+Depending on the TAG he has, the Panoceania player has a number of options.
+
+In the first instance our player has taken a Tikbalang, buy climbing up onto the first story of the building it is hiding behind he is able to gain LOF to the vulnerable piece and use the second story segment to block LOF to the defensive piece.
+
+The second example our Panoceania player is using a Uhlan, and in this case the TAG does not have a skill that allows it to readily get to the top of the first story of the building it is hiding behind, meaning it must move past the LOF of the defensive unit. However, due to the nature of its camo token state the Uhlan cares not, declaring a move-move order of 10’ that gives it plenty of speed to move through the defensive units firelane and behind another piece of LOF blocking terrain. From which the Uhlan (even if it has been discovered by the defensive piece) may move-shoot to the right maintaining total cover from the defensive unit.
+
+The third and final light TAG is the Seraph, in this example he is able to jump 6 up to the first story much like the Tikbalang, however this situation is notable different for 2 reasons, the first is that the 6 jump of the Seraph allows the TAG to gain additional elevation, as such if the vulnerable piece had been prone behind a small piece of scatter terrain the Seraph could have potentially drawn LOF at the apex of its jump where the Tikbalang may not have been able too.
+
+The second difference is that while the Seraph is engaging the opponent’s vulnerable unit, the Auxbot has moved around the corner to attack the defensive unit in the same order.
+
+
+
+[​IMG]
+
+[​IMG]
+
+[​IMG]
+
+[​IMG]
+
+
+
+
+
+Example : Setting up defensively
+
+In our second example our Panoceania player has decided that he has done enough work with his TAG this turn and wants to park it somewhere that will be hard for his opponent to kill it. Unfortunately his opponent has an assault hacker behind a building in front of it. Furthermore our Panoceania player suspects his opponent has an AD troop ready to spring on the board on the right side and attack him, the Panoceania wasnt to position his tag in such a way as it obtains the most cover it can from the centre of the table, while protecting itself from the threat of the hacker and the AD trooper.
+
+As such the TAG moves to the position seen in figure 2 where he has maximised his LOF such that he can see both corners of the building the hacker is behind, thus preventing the hacker sneaking up on him out of LOF. And the board edge. he has also put his back against the wall to prevent or minimize the risk models in the center of the table present to him.
+
+Dropping into suppression fire means the TAG is now ready to face the opponents turn with his best odds of surviving and limiting his opponents options.
+
+
+
+[​IMG]
+
+[​IMG]
+
+
+
+Example: Setting up defensively with light TAGs
+
+This example details some of the additional considerations that should be taken into account when setting up your Panoceania light TAGs defensively. Like with the MBTs all the light TAGs can be used aggressively as shown in other examples, the consideration being that you must be more careful about eliminating the opponent’s threats to the TAG before using them that way.
+
+However due to their unique skills the light TAGs can be set up differently to the MBTs.
+
+In the following examples we will be operating on the assumption that the opponent has their big guns still on the table but has had their non-LOF threats to the TAGs mostly or entirely removed.
+
+The three examples below detail a TAG positioned behind a building towards the right had side of the board (so the board edge is on the right side of the picture). Unlikely the MBTs which must be aware of units, in particular AD troops sneaking up behind them, the light TAGs bring their own defenses against this with them.
+
+The first example has the Seraph facing the center of the board with the Auxbot hugging the building edge behind the TAG facing the opposite corner of the building, protecting the TAG from troops attacking it from behind. The facings of the Auxbot and the Seraph are also complimentary with each of them angled to minimise the potential gap in their firelanes. The two units are also shifted towards the edge of the board to ensure the auxbots HFT is likely in range of opponents trying to move across the gap between the building and the board edge.
+
+Note: that this set up can be combined with the Warning! special rule to allow the Seraph to change its facing as per the re-positioning example, without breaking the suppression fire, if a model elects to attack the Auxbot.
+
+The second example the Uhlan is positioned slightly differently. The goal here is to place the TAG into the camo token state and then prevent the opponent from gaining LOF to the token in the reactive turn, as such the TAG is not overlooking the center of the board and instead is tucked behind the building towards the table edge. The opponent cannot hack or flank the TAG in this position as Camo tokens are immune to hacking and have a 360 degree LOF.
+
+Note that the Uhlan is actually pulled back slightly from the leading edge of the building, this is to maximise the number of orders the opponent would require to obtain LOF if they were moving out from their deployment zone along the top edge.
+
+Finally the Tikbalangs defensive trick is to think ahead with its movement and use its mines.
+
+In this situation our Tikbalang has moved up to the building it intends to hid behind using its first short skill. With the second short skill of that order the TAG has placed a mine in B2B contact, this leaves the TAG then able to move-shoot and engage the enemy as it comes around the corner while ensuring it is not wasting an extra order to set up its fallback position later in the turn. Like the Seraph the Tikbalang is parked facing towards the center of the board with the mine protecting its back.
+
+
+
+
+[​IMG]
+
+[​IMG]
+
+[​IMG]
+
+
+
+Example: Re-positioning with Warning
+
+In this example our Panoceania player has made a mistake, he has not thought of the potential danger of AD his opponent has and therefore has not positioned his TAG accordingly, additionally we are aware that his opponent has a strong aggressive unit carrying a HMG near the center of the board with which to attack him. as such the TAG wants to do everything it can to keep itself in the suppression fire state and maximise the number of dice it can use in a face to face roll.
+The opponent has decided to flank the TAG and attack it with his AD troop in an effort for force the TAG to dodge or change facing, thus breaking its suppression fire state.
+
+However the Panoceania player is clever, he chooses to not ARO, trusting in his armour to save him from the attack by the AD trooper.
+
+After taking the hit and shrugging it off, the Panoceania player has the option to use the Warning! rule to re-position his TAG. And because he is a remote presence TAG he does not have to worry about the Guts roll breaking his suppression fire. This re-positioning using Warning! does not break his suppression fire state, allowing him to still throw 3 dice at the HMG towards the center of the board.
+
+NB: This section was initially written with the Gut roll rules in mind, an upcoming FAQ however means that you are only able to do this using the "warning!" rule, meaning that you must have forgone your ARO initially. This section has been updated to reflect this clarification of the rules.
+
+
+[​IMG]
+
+[​IMG]
+
+
+
+Example: Forcing your opponent to engage your TAG
+
+So, our intrepid Panoceania player has used his TAG a few times now, stomped a few faces and killed anything it looked at, but his opponents have gotten wise and are now doing everything they can to hide form the Panoceania TAG. This is frustrating the Panoceania player as he feels he is now wasting points by not being able to effectively shoot the opponent with his TAG.
+
+Ah, but then he learns that he can force his opponents to walk onto the guns of his TAG, thus destroying them. This requires a few considerations on his part to achieve however, the first is during the list building stage where he needs to ensure that he takes a weapon, equipment or unit that is good at engaging units that spend their reactive turn hiding in hard to reach places. Grenade launchers, Hackers, Guided missile bots combined with pathfinders and AD troops are all good options in the Panoceania list. The role of these units in this instance isn’t to kill everything that is hiding form the TAG as that is impractical. Their job is to kill/eliminate the few pieces that can hurt your TAG in the opponent’s active turn.
+
+It is worth noting here that the HGL Squalo is unique among the MBTs in that it brings this level of support with itself. The Seraph and Tikbalang also make it very hard for the opponent to hide from them completely with their Super Jump and Climbing Plus meaning they can easily reach vantage points that overlook large sections of the table.
+
+With the opponents threats to the TAG eliminated the Panoceania player can now position his TAG such that the opponent must try and deal with it head on or lose the mission.
+
+
+In the following Image we have a table with 3 objectives set out equidistance across the center line as an example. In this figure we have shown 5 potential places where our Panoceania player could position his TAG such that the opponent must pass through its LOF to approach the objectives. For the sake of this argument we will assume that the TAG has been placed in Suppressive Fire.
+
+In position 1, the TAG is placed such that the opponent must pass through its LOF to approach any of the objectives. Unfortunately this is a classic example of overextending the TAG. Due to the facing of the TAG it has been left vulnerable to a flanking AD attack if the AD drops near his opponent’s deployment zone. Furthermore the TAG is positioned in such a way that an opponent on the far right of the board can likely attack it from outside of 24 and force it to break suppression fire, drastically decreasing its effectiveness and survivability. The final nail in the coffin for this position is that the TAG is likely too far up the board to be effectively covered by the firelanes of the Panoceania players other troops.
+
+Position 2 is advanced forwards and placed towards the center of the board, thus preventing the opponent from having the easy option of breaking suppressive fire. However, given its location hugging the building it has a large dead zone where units with hacking devices, speculative fire and even CC warbands, are able to engage the TAG easily without it having an effective response.
+
+Position 3 has the Panoceania player deploying to cover only two of the objectives in an effort to limit himself from biting off more than he can chew, and offering a way for the opponent to move that doesn’t engage the TAG, which may open up an opportunity for the Panoceania player to exploit next turn. However the position suffers from a vulnerability to flanking attacks by AD or sneak attacks by units approaching in the shadow caused by the building the TAG is hugging.
+
+Position 4 is much better, it cannot be flanked by AD, it has cover from most angles it is likely to be attacked from and it can see past the corner on its right across the middle objective, therefore covering two objectives. (see the LOF). However despite being more secure, position 4 offers less opportunities to shoot at the opponent in his turn as they will likely only be in LOF for a single order. Thus the Panoceania player is not maximizing the lethality of its TAG in reactive turn. It is also vulnerable to a potential hacking attack from the other side of the building it is hugging. That being said, position 4 is a very good and perfectly reasonable conservative position that sacrifices a little bit of board control for better defense against opponents that are willing to attack head on.
+
+Finally, after taking all the above into consideration and determining that he has eliminated or minimized the major threats to his TAG our Panoceania player instead opts to place his TAG in position 5.
+
+In this location he has prevented the opponent from approaching either the center or right objective without taking multiple AROs from the TAG, he cannot readily be flanked by an AD troop walking on from the nearest table edge, he is in a central location making it difficult for his opponent to attack him effectively form beyond 24 and force him to break suppression fire and he cannot be caught by a hacker of speculative fire moving through a blind spot.
+
+
+
+[​IMG]
+
+
+
+Example: Ignoring the chaff
+
+In this situation we are going to discuss how TAGs are able to effectively ignore a number of the opponent’s weaponry to achieve their aims with higher order efficiency.
+
+In this hypothetical situation our Panoceania player wants to use his TAG to eliminate a valuable target in the opponent’s army list.
+
+His enemy however has set up defensively in depth with overlapping firelanes from his line troops. In a corner of an overlooking building is parked a strong defensive unit that is a considerable threat to the TAG, such as a Tankhunter with ML or Autocannon. In other locations covering the path the TAG would move through are a serious of troops such as Line kazaks with rifles, and the enemy model directly on the opposite side of the building the TAG is behind is an infiltrating camo token. Seeing as this is Ariadna we are able to deduce that the camo token likely has little that can effectively hurt the TAG in ARO Foxtrot, Chassuer, SAS, Scout or Hardcase. (Just watch out for the Moblot with DEP)
+
+Our Panoceania player wants to move his TAG to eliminate the defensive unit that is a threat to him and then engage and eliminate the target in the opponent’s lines in the least orders possible. Conventional infinity tactics would be to pie slice each of his opponents units killing them one at a time with the B4 weapon all our TAGs carry as seen in Figure 2.
+This however would be very order intensive and prevent the Panoceania player spending orders elsewhere as it moves around the building to the left and then crosses back to the right to gain LOF to the target model.
+
+What the Panoceania player can do instead, if he deems the risk acceptable, is effectively ignore the opponent’s troops that are armed with weaponry that cannot effectively hurt it, moving up the right hand side of the building and eliminating the defensive piece, then walking out the right and eliminating the target model as seen in figure 3. With the opponent only armed with rifles, and the camo marker potentially packing at worst a flamer or a single shot BS it is unlikely that these models will effectively break through the TAGs armour and prevent it from succeeding at eliminating the key opponent models in the 2 orders.
+
+This kind of evaluated risk allows the TAG to be used much more order efficiently and lets the Panoceania player spend his limited order pool on scoring models. Furthermore it can be combined with the principles illustrated in forcing your opponent to engage your TAG to lock down and prevent the opponent from spending orders on those chaff troops in his own active turn by parking the TAG such that the chaff is in the TAG’s LOF.
+

@@ -1,0 +1,228 @@
+# Fireteam Examples
+
+Fireteams Module
+
+Included below are a set of examples for Fireteam Creation, rejoining Fireteams, and game situations for the different Fireteams. These include Fireteam Charts and options from different Units. Please remember that the official up to date information is found in the Infinity Army app.
+
+In the Infinity Army app you can check the Unit Profiles and Fireteam Charts for every Army or Sectorial Army, useful tools to help assemble your Army Lists.
+
+## Contents
+
+- 1 Example 1: Creating a Fireteam
+
+- 2 Example 2: Creating a Fireteam. Fireteam Level Bonuses
+
+- 3 Example 3: Order Expenditure Sequence and AROs (Fireteam in the Active Turn)
+
+- 4 Example 4: Move and Dodge (Fireteam in the Active Turn)
+
+- 5 Example 5: Movement Skill (Fireteam in the Active Turn)
+
+- 6 Example 6: Changing Leader, and Hacking (Fireteam in the Active Turn)
+
+- 7 Example 7: Changing Leader and Fireteam Suffering a Casualty (Fireteam in the Active Turn)
+
+- 8 Example 8: Fireteam ARO (Fireteam in the Reactive Turn)
+
+- 9 Example 9: Fireteam ARO 2 (Fireteam in the Reactive Turn)
+
+- 10 Example 10: Fireteam in CC Combat vs. Martial Arts L5 (Fireteam in the Active Turn)
+
+- 11 Example 11: Fireteam Integrity (Fireteam in the Active Turn)
+
+- 12 Example 12: Fireteam Confrontation
+
+- 13 Example 13: Game Situations with Fireteams
+
+## Fireteam Examples Example 1: Creating a Fireteam
+
+During the Deployment Phase, a White Banner player wants to build a Zhanshi Fireteam Core. As shown in the Fireteams Charts, in order to create a Zhanshi Fireteam Core it is mandatory to include at least 1 Zhanshi. The other members of the Fireteam can be any possible combination of the listed Troopers, as long as their maximum value is not exceeded. For example, 3 Zhanshi (Paramedic, Missile Launcher, and MULTI Sniper Rifle), 1 Zhanshi Yīshēng and Chief Cheong-Hee Jeong.
+
+After deploying their Troopers, the player selects the Zhanshi (Paramedic) as Fireteam Leader, placing the Fireteam Core Token next to them. At the same time, the player tells their opponent which Troopers are part of the Fireteam and checks that all of them fulfil the Coherency rule with respect to their Fireteam Leader. One of them is outside the ZoC of the Fireteam Leader, but as it is still the first part of the player’s Deployment Phase the player places them inside the ZoC.
+
+During the match, the player may create another Fireteam by spending a Command Token. In this case, they must be sure that all the Troopers that they want to be part of the Fireteam are within the Zone of Control of the Trooper chosen as Fireteam Leader. Troopers that are not in Coherency cannot become part of the Fireteam.
+
+Kempeitai Troopers have Availability 3 in the JSA Ōban Sectorial Army. As shown in the Fireteams Chart image, as Kempeitai Troopers are Wildcards, they can be part of any Ōban Fireteam.
+
+In the Wildcard Table, the Maximum of 3 indicates that the player may include up to 3 Kempeitai in each of the Sectorial’s Fireteams. Therefore, a Keisotsu Fireteam Core could be made up of 2 Keisotsu and 3 Kempeitai.
+
+In the same way, you can include 2 Kempeitai in a Keisotsu Fireteam Core and 1 Kempeitai in a Domaru Fireteam Haris, because you cannot exceed the Sectorial’s Availability of 3 for the Kempeitai.
+
+## Fireteam Examples Example 2: Creating a Fireteam. Fireteam Level Bonuses
+
+Let us now analyze the Morat Fireteams. The following image shows the Morat Fireteam Charts and the Fireteam Level Bonuses.
+
+| Fireteam Bonuses Chart |
+
+| --- |
+
+| Fireteam Level | Bonus |
+
+| Level 1 | Fireteam members are activated with a single Regular Order |
+
+| Level 2 | BS Attack (+1 SD) Skill |
+
+| Level 3 | +3 Discover and +1 Dodge |
+
+| Level 4 | +1 BS |
+
+| Level 5 | Sixth Sense |
+
+In this case, the mandatory minimum to build a Morat Fireteam is that at least one of the Troopers that has a (*) in the Min column is part of the Fireteam. The rest of the Troopers can be any combination from the Table that does not exceed the allowed maximum. For example:
+
+Case 1: Fireteam Core
+
+- 3x Kurgat (Morat).
+
+- 1x Yaogat (Morat).
+
+- 1x Kaitok (Morat).
+
+The Fireteam Level is determined based on the number of Troopers of the same Unit in a Fireteam. Since all members have '(Morat)' after their name, they gain all the Fireteam Level Bonuses.
+
+In summary, all the Troopers with the same name, or which are labeled in the same way in their Fireteams Chart, may add the following Bonuses to any other MODs any of them might have on their Unit Profile:
+
+- BS Attack (+1 SD) Skill.
+
+- +3 MOD to Discover Rolls and +1 MOD to Dodge Rolls.
+
+- +1 MOD to BS Attack Rolls.
+
+- The Sixth Sense Special Skill.
+
+Case 2: Fireteam Core
+
+- 3x Morat Vanguard (Morat)
+
+- 1x Kyosot
+
+- 1x Zabuk
+
+Another example of a five-member Fireteam Core. In this case, only 3 members of the Fireteam are Troopers belonging to the same Unit - those identified as (Morat). Therefore, all the Fireteam members have the Level 3 Bonuses.
+
+In summary, all the members of such a Fireteam get the following Bonuses:
+
+- BS Attack (+1 SD) Skill.
+
+- +3 MOD to Discover Rolls and +1 MOD to Dodge Rolls.
+
+- +1 MOD to BS Attack Rolls.
+
+## Fireteam Examples Example 3: Order Expenditure Sequence and AROs (Fireteam in the Active Turn)
+
+1. The Active Player spends a Regular Order and places the Fireteam Leader Token besides the Trooper that they nominate as Fireteam Leader during that Order. Then they declare the first Basic Short Skill of the Order. Next, they perform a Coherency Check to find out how many members are in Coherency with the Fireteam Leader, remaining within their Leader's ZoC.
+
+2. The Reactive Player declares the AROs of all their Troopers who can react to any Fireteam member. Each enemy Trooper gets only one ARO against the whole Fireteam.
+
+3. The Active Player declares the second Short Skill of the Order.
+
+4. The Reactive Player declares the AROs of any Troopers who gain an ARO with the second Short Skill of the Order.
+
+5. Both players determine what Modifiers (MODs) to apply, and the Active Player applies the Fireteam Level Bonuses. Both players make any required Rolls.
+
+6. At the end of the Order, during its Conclusion and after having performed any movement due to Guts Rolls, the Active Player performs a Coherency Check to see if any member has left the Fireteam, or if the Fireteam has been cancelled.
+
+## Fireteam Examples Example 4: Move and Dodge (Fireteam in the Active Turn)
+
+In the situation shown in the image, during their Active Turn, the Keisotsu Fireteam has declared Move as the first Short Skill of the Fireteam Order. The Fireteam grants a single ARO to each enemy, with each one declaring a BS Attack ARO.
+
+In this situation, the Fireteam Leader doesn’t have LoF to enemy B, so they may only make a BS Attack Face to Face Roll against enemy A. Now the player has to decide if the Fireteam Leader declares BS Attack against enemy A, allowing enemy B to make a Normal BS Attack Roll against Keisotsu 3. Or, alternatively, to declare Dodge (a Skill with the Movement Label ), so that all the Fireteam members can Dodge. This would result in two Face to Face PH Rolls (one for the Fireteam Leader and another one for Keisotsu 3) against the enemies’ BS Attack. The other Keisotsu make Normal PH Rolls.
+
+During a Fireteam Order, the Skills that are performed by both the Fireteam Leader and the rest of the members are:
+
+- Reset
+
+- Skills with the Movement Label (except Berserk )
+
+- Dodge
+
+- Move
+
+- Jump
+
+- Climb
+
+If the Fireteam Leader declares the Berserk Skill, only the Fireteam members who have that Skill will be able to declare and perform it, the rest of the Troopers will declare and perform an Idle.
+
+## Fireteam Examples Example 5: Movement Skill (Fireteam in the Active Turn)
+
+During their Active Turn, the Yu Jing player wants two of their five- Zhanshi Fireteam to gain the high ground and declares Climb as the Fireteam Order. Both Zhanshi (A and B) climb while the other members of the Fireteam—although also activated by the Movement Skill—do nothing and instead perform an Idle.
+
+## Fireteam Examples Example 6: Changing Leader, and Hacking (Fireteam in the Active Turn)
+
+During their Active Turn, the player with a Fireteam made up of five Fennec Fusiliers aims to carry out a Comms Attack against the enemy. To that end, during their new Fireteam Order, they decide that the Fennec Fusilier Hacker will be the Fireteam Leader and place the Fireteam Leader Token besides him.
+
+Next, he declares the Move Skill and the entire Fireteam advances. The Fireteam Leader declares the use of a Hacking Program against the enemy Trooper as the second Short Skill of the Order. In this case, the Fireteam Leader has not declared a BS Attack, so no MODs for Fireteam Level Bonuses are applied. Additionally, the rest of the Fireteam members perform Idles, so the Fireteam Leader is the only one to act. However, even if there is another Hacker in the Fireteam, they would not act and the Fireteam Leader would receive no Bonus whatsoever.
+
+During the following Fireteam Order the first Basic Short Skill of the Order is declared: Move. After the corresponding Coherency Check and ARO declaration, the second Short Skill of the Fireteam is declared: BS Attack. Both the Fireteam Leader and the other Fireteam members Move, but only the Fireteam Leader performs a BS Attack Roll. Since this Fireteam is made up of 5 Troopers (Fennec Fusiliers), the Leader applies the Level 5 Fireteam Bonuses, so he gains BS Attack (+1 SD) Skill and a +1 MOD to his BS Attack.
+
+Had Discover been declared as the second Short Skill instead of a BS Attack, the Fireteam Leader would have been the only one to perform the WIP Roll, receiving a +3 WIP MOD. In any of the previous cases, the other Fireteam members are vulnerable to enemy Trooper AROs—the opponent would make Normal Rolls, since the other members could not perform any Roll.
+
+## Fireteam Examples Example 7: Changing Leader and Fireteam Suffering a Casualty (Fireteam in the Active Turn)
+
+Now suppose that this Fireteam made up of 5 Troopers (Fennec Fusiliers) has suffered a casualty, who is in the Unconscious State. With a new Order, the player places the Fireteam Leader Token next to one of the Fireteam members, a Fennec Fusilier Paramedic. Next, they declare the first Basic Short Skill: Move. After this they perform a Coherency Check, verifying that the other members fulfil the Coherency rule and are inside the new Fireteam Leader’s ZoC. All of the Fireteam members are moved and the Fireteam Leader enters Silhouette contact with the Unconscious Fennec Fusilier.
+
+During the second Short Skill, the Fireteam Leader uses their MediKit. Meanwhile, the other Fireteam members are activated by the second Short Skill, but do nothing and perform an Idle instead.
+
+## Fireteam Examples Example 8: Fireteam ARO (Fireteam in the Reactive Turn)
+
+As seen in the image, a Dāturazi armed with a Chain Rifle spends an Order during their Active Turn and declares a BS Attack against the five- Zhanshi Fireteam. The Morat player verifies that the Chain Rifle’s Large Teardrop Template only affects three of the five Zhanshi (numbered 1, 2, and 3).
+
+If the Yu Jing player declares BS Attack as the Fireteam ARO, the three Zhanshi will each have to make a Saving Roll, so the player decides not to risk it. Instead, they declare Dodge as the Fireteam ARO. Zhanshi 4, although unaffected by the Template, will use their Dodge to gain Partial Cover. Zhanshi 5, already in Partial Cover, declares BS Attack as their ARO. As Zhanshi 5 has declared a different Skill from the Fireteam ARO, they automatically stop being part of the Fireteam, lose all Fireteam Level Bonuses, and so their ARO only gets Burst 1 and a +3 Range MOD.
+
+Suppose that, in the previous case, Zhanshi 1 to 4 declared BS Attack AROs and Zhanshi 5 a Dodge ARO. Zhanshi 5 automatically stops being part of the Fireteam and the Zhanshi that declare BS Attack only apply the Level 4 Fireteam Bonuses.
+
+If Zhanshi 5 is in Coherency with the Fireteam Leader during the next States Phase, the player may apply the rule for rejoining a Fireteam and once again have a five-member Fireteam Core.
+
+However, if the player is in their Active Turn and they want to have a five-member Fireteam Core without waiting, they will have to spend a Command Token and recreate the Fireteam following the Fireteam Creation rules.
+
+## Fireteam Examples Example 9: Fireteam ARO 2 (Fireteam in the Reactive Turn)
+
+During their Active Turn, an Arjuna and his Kiranbot declare Move as the first Basic Short Skill of the Order, in LoF of the five-Zhanshi Fireteam. All five Zhanshi declare the same ARO, BS Attack, but three of them target the Arjuna while the other two target the Kiranbot.
+
+Thanks to the Peripheral (Synchronized) Special Skill, the Arjuna and the Kiranbot can choose different targets. The Arjuna declares a BS Attack against Zhanshi 1 as the second Short Skill of the Order, and the Kiranbot also declares a BS Attack, but aimed at Zhanshi 2. As the Zhanshi form a Fireteam with 5 members belonging to the same Unit, all of them may apply the corresponding Fireteam Level Bonuses.
+
+A series of Face to Face Rolls ensues between the Arjuna, and Zhanshi 1 who has a +1 BS Attack MOD and BS Attack (+1 SD) Skill in ARO, so he rolls 2 dice and discards 1. Since the Kiranbot attacks with a Direct Template Weapon, Zhanshi 2 makes a Normal BS Roll, rolling 2 dice and discarding 1 thanks to his BS Attack (+1 SD) Skill in ARO, and applying a +1 MOD to his BS Attack. However, he will have to make a Saving Roll due to the Direct Template Weapon. The rest of the Zhanshi have not been attacked, so they also make Normal Rolls, applying the Fireteam Level Bonuses to their AROs.
+
+## Fireteam Examples Example 10: Fireteam in CC Combat vs. Martial Arts L5 (Fireteam in the Active Turn)
+
+A three-Zhanshi Fireteam Haris in their Active Turn declares a Move + CC Attack against Miyamoto Mushashi, who has the Martial Arts L5 Special Skill. Only the Zhanshi designated as Fireteam Leader can perform the CC Attack, receiving a +1 B Bonus for each allied Trooper engaged in the Close Combat. Miyamoto can apply his Martial Arts Level 5, which grants him B 2 and (+1 SD), and targets the Zhanshi Fireteam Leader. A Face to Face Roll ensues between the Zhanshi’s B3 and Miyamoto Mushashi’s B2 with (+1 SD).
+
+Mushashi can choose any of the three Zhanshi as the target for his three dice, but he may only target one of them, since each Reactive Trooper can only target a single Fireteam Trooper (either the Fireteam Leader or any other Fireteam member), although it is not mandatory that all of them choose the same target.
+
+## Fireteam Examples Example 11: Fireteam Integrity (Fireteam in the Active Turn)
+
+We have a four-member Morat Fireteam Core made up of:
+
+- 1x Kurgat (Morat)
+
+- 2x Dartok (Morat)
+
+- 1x Zabuk
+
+While the Zabuk is Fireteam Leader, the Kurgat is killed and removed from the game table. Despite the Fireteam having lost a Trooper that was mandatory at the moment of creating the Fireteam, the Fireteam itself is not cancelled as none of the conditions that cause the cancellation of a Fireteam have been met. For the rest of the game, the now three-member Fireteam Core will continue to apply the Fireteam rules as usual.
+
+## Fireteam Examples Example 12: Fireteam Confrontation
+
+Case 1: Fireteam Order (Move + BS Attack) against Fireteam ARO (BS Attack). With a new Order, the Fireteam Leader of the five-Zhanshi Fireteam declares Move, and the PanOceanian player declares AROs during their Reactive Turn since two members of their five-Fennec Fusilier Fireteam gain LoF to the Zhanshi. Both Fusiliers declare a BS Attack ARO, but each of them can only target one of the Zhanshi that form the Fireteam. Fusilier 1 chooses Zhanshi 1 (Fireteam Leader armed with a Heavy Machine Gun) and Fusilier 2 chooses Zhanshi 2 (Combi Rifle). Both Fusiliers are armed with Combi Rifles and, since they are part of a five-member Fireteam, they gain all the Bonuses of a Level 5 Fireteam in ARO. In this case, both can apply the +1 MOD to BS Attack and BS Attack (+1 SD) Skill.
+
+The Yu Jing player must now decide whether to Attack or Dodge. Should they declare Dodge and win the Face to Face Rolls, they could avoid the BS Attacks against both Troopers, but this would not eliminate the threat. If they declare BS Attack, they will apply the Bonuses to the Fireteam Leader, but that would allow Fennec Fusilier 2 to make two Normal Rolls against Zhanshi 2, who would not be able to Dodge or perform a BS Attack, since they would be performing an Idle.
+
+Finally, the player decides to risk it and declares BS Attack, applying the Level 5 Fireteam Bonuses (+1 BS Attack and BS Attack (+1 SD) Skill). The player decides to divide their Fireteam Leader’s Burst 4 (Heavy Machine Gun B4 with (+ 1SD)) between the Fusiliers, with three Face to Face BS Attacks against Fusilier 1 and a Normal BS Attack Roll with one extra die thank to the (+1 SD) Bonus against Fusilier 2.
+
+Thanks to the Bonuses provided for being part of a Level 5 Fireteam, Fusilier 2 can shoot in ARO with BS Attack (+1 SD) and with higher accuracy (+1 MOD to BS Attacks).
+
+Both Normal Rolls against Zhanshi 2 are successful and the target, having failed a Saving Roll, enters the Unconscious State.
+
+Meanwhile, Zhanshi 1 wins the Face to Face Roll against Fusilier 1, who also becomes Unconscious after failing their Saving Roll. However, none of Zhanshi 1’s BS Attacks against Fusilier 2 are successful.
+
+Case 2: Fireteam Order (Move + BS Attack) against Fireteam ARO (Dodge). Having lost one of their Zhanshi, the Yu Jing player only has the Level 4 Fireteam Bonuses now. Spending a new Order, they place the Fireteam Leader Token next to Zhanshi 3, who is armed with a Combi Rifle. The player declares Move as the first Basic Short Skill, but they only move the new Fireteam Leader, who gains LoF to Fennec Fusilier 2. The PanOceanian player decides to declare Dodge. The Fusilier Fireteam is now a Level 4 Fireteam, so they can only apply the corresponding Bonuses. Having declared Dodge, and thanks to their Fireteam Bonuses, the members of the Fireteam gain a +1 MOD to their Dodge Rolls.
+
+Zhanshi 3 declares BS Attack against Fennec Fusilier 2. Now the players must make the appropriate Rolls to find out how this situation is resolved…
+
+## Fireteam Examples Example 13: Game Situations with Fireteams
+
+Case 1: Fireteam Order, Changing Leader, and Movement (Jump). During their next Order, the player chooses a new Fireteam Leader, placing the Fireteam Leader Token besides the Zhanshi armed with a Heavy Machine Gun. During this Order, since two of the Zhanshi are on a broken catwalk, the Fireteam Leader declares Jump as the Fireteam Order. Next, a Coherency Check is performed, which confirms that all the Fireteam members are still inside the new Fireteam Leader’s ZoC. Therefore, all the Zhanshi can perform the Jump, moving horizontally even though they lack a gap to pass over, and the player indicates where each of them finishes their Jump. At the end of the Order, the player makes yet another Coherency Check.
+
+Case 2: Fireteam Order, Changing Leader, and carry out mission. A Fennec Fusilier Fireteam Core is next to a Scenario’s Objective Console. The PanOceanian player spends an Order and changes the Fireteam Leader, placing the Fireteam Leader Token next to the Fennec Fusilier Hacker. As the Fireteam are out of range of any enemy Troopers, they declare Move + Activate Console as the Fireteam Order. The Fennec Fusilier Hacker moves into Silhouette contact with the Console and makes the required Roll, without adding any Bonuses or MODs for being part of a Fireteam. Meanwhile, the rest of the Fusiliers also move for the first Basic Short Skill of the Order, and they perform an Idle for the second Short Skill.
+

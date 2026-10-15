@@ -1,0 +1,57 @@
+
+Infinity the Academy – Learning Lieutenants
+2025-02-16
+WiseKensai
+
+Written by WiseKensai in the N4 era.
+
+In this article we’re going to discuss Lieutenants. If you want to read the wiki entry on lieutenants first, then you can find it here:
+InfinityTheWiki – Lieutenants
+
+Some people abbreviate Lieutenant to LT for ease of typing. We’re going to do that in this article from this point onwards.
+
+You may have noticed during your perusals of unit profiles that there are some options marked with a “(Lieutenant)” bit of text, as seen below:
+
+This is to indicate that this profile choice is a legal LT. 
+Basics
+
+Here are the basic things you need to know about LTs:
+
+    LTs serve as the leader of your team of troopers. While “Lieutenant” refers to a rank in most modern-day (and presumably future) militaries, in the context of Infinity games it serves to identify a “commanding officer” and not an actual rank. As an example, see Qiang Gao, who in the story of the game holds the military rank of “Captain” but can be taken as a LT option:
+
+    A legal list must contain exactly one LT profile.
+    LTs are private information unless otherwise specified by the game scenario. So you don’t tell your opponent who your LT is! 
+    At the beginning of the game your LT’s Willpower (WIP) is used in a face to face roll against that of your opponent’s to determine turn order or deployment order. More information about this can be found here:
+
+InfinityTheWiki – Initiative and Deployment
+
+    LTs generate at least one “Lieutenant” order, which in most cases is usable only by them. A non-exhaustive list of Special Cases (which may be in the skills list and not in parentheses!) includes:
+        Lieutenant +1 order: LTs with this text generate two LT orders
+        Lieutenant +1 Command Token: LTs with this text generate an additional command token at the start of the game.
+        NCO: Units with the NCO skill may spend the LT order as though they are the LT (even if they’re not!).
+        Strategos: LTs with any level of Strategos convert their LT order into a regular order usable by any trooper in the same combat group.
+
+box-of-mystery on deviant art
+
+    In the event that your LT enters a null state (unconscious, dead) or is isolated, you enter Loss of Lieutenant at the beginning of your next player turn, unless any of your troops have a skill that explicitly prevents this (Chain of Command is the most common example). 
+    In the event of Loss of Lieutenant occurring, all troops without the “Veteran” skill become irregular for that turn. You are then given the opportunity to nominate another LT for your list at the end of the turn (with some restrictions on valid Lieutenants). If your new LT survives, unisolated, to your next turn, you do not suffer the effects of Loss of Lieutenant again.
+
+Philosophy on Lieutenants
+
+If you only take one thing from this article it should be the following: 
+
+All lists need a LT choice. LT choices generate one or more LT orders that are, generally, for their own usage. If the LT dies then all troops except those with the Veteran skill become irregular for the turn. At the end of that turn you can pick a new LT.
+
+LTs, just like all other troopers in your list, are a resource. In most cases, while the identity of your LT is private information, it is highly likely that your opponent (if experienced) will be able to easily deduce the identity of your LT. As not all units may be legal LTs, a savvy opponent will often be able to reduce the possible LT options to one or two models by process of elimination.
+
+You can reduce the effectiveness of the process of elimination by intentionally including “decoy” LTs or an “obvious” LT in your list. While effective, this naturally costs list building points and slots in your list, which may or may not be a detriment based on your strategy. In most cases an obvious LT can be deployed carefully on the table and protected by other troops to prevent an “assassination attempt.” It’s entirely up to you and your playstyle as to which point on the lieutenant protection/obfuscation continuum you end up on, and that may change from game to game, opponent to opponent!
+
+Your strategy surrounding your LT is also largely shaped by your meta, aka the people and factions you generally play against. Some factions, due to special options available to them, are more likely to attempt (and succeed) in a LT assassination attempt. For example, Fidays and Speculo Killers can often deploy right next to your LT and kill them with the first order of the game! 
+
+An exhaustive discussion regarding the use and protection of LTs is beyond the scope of this article, but here are some simple, generally applicable guidelines:
+
+    Your opponent will likely know who your LT is anyway, so increase the resource cost of assassinating it. You can do this by placing your LT in a hard to reach area of the table or by protecting it with “bodyguards”. This is often sufficient to deter attacks, but if any attack does come then it will likely be at enough cost to your opponent that your recovery and counter-strike will be effective. In simple terms, if your opponent spends a ton of orders assassinating your LT, they likely weren’t accomplishing the mission objectives!
+    Using your LT order is often acceptable, especially if your LT has multiple wounds, relevant equipment, high attributes, etc. In other words, if your LT has a big gun and is good at shooting stuff, it’s okay to use it for that purpose. Just have a backup plan in case your LT goes down. Reserving the LT order so that you can retreat your Lieutenant to a protective cordon of bodyguards, or to hide them in a difficult to reach place on the table, is a good idea if you plan on using your LT as a gunfighter.
+
+    Unless it is an explicit mission objective, attempting to assassinate a reasonably or even poorly guarded enemy LT is often not worth the effort. There are often not enough resources to complete all mission objectives, so diluting those resources for the sole purpose of potentially disrupting your opponent can be the difference between victory and defeat. In the event that there’s a clear chain of events that would deny your opponent the ability to achieve mission objectives by assassinating their lieutenant, evaluate the likelihood of success before executing. Basically, you have a lot of stuff to do in the game, and unless there’s a clear reason with a reasonably large payoff to go after your opponent’s LT, don’t waste the effort! “Just because I can” usually isn’t a sufficient reason. It takes some experience and practice to be able to evaluate this decision effectively, so the recommendation is to just play the mission while you’re still learning the game.
+

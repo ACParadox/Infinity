@@ -1,0 +1,748 @@
+In this video, we are going to help you play your first game of Infinity
+N5. Welcome to the Infinity Institute from the Dice Squads. My name is Hydra and as I say, in this video, we are
+going to get you playing your first game of N5. If you've been watching the series so far, you know that we've
+covered the basics. We've covered some core concepts and even a little bit of lore. This video is very much about
+getting you to play your first game. Now, I'm not talking about 300 points, tags everywhere, hacking, guys dropping
+from the sky, things peering from camo. This is not that. The objectives of this
+video are much more focused, but they're about building a foundation for you to play in five, be a competent, in
+control, focused player, and not get overwhelmed by what can be a very
+intense system. Before we get into that, thanks as ever to our patronons and channel members,
+including Sean Cobburn, Chaos Distoria, Rick Wolf, and Joe Rogers, who are at
+the higher tier and doing amazing work in supporting us, plus all the other Patreons and channel members. If you
+can, please consider signing up and subscribing to do that. That will get you access to additional resources from
+this series. Um, all of our members and and channel supporters will be getting downloads of lists and cheat sheets and
+that kind of stuff to make this video that much easier to do at home. So, that sounds good. Please do that. If you
+can't do that, do like, share, subscribe, all that kind of thing. That would be very much
+appreciated. But now, in this video, what we're going to cover is a very
+focused game, a very cut down game. And that does mean that some of the rules that we're going to be talking about are
+true to a certain extent. Why do we do that? Because there are certain things
+that if you build them in at this point, it just becomes rules within rules within rules within rules and it becomes
+this overwhelming mass. So the idea of this is to get a very focused game going for you and a friend of your choice and
+to get key concepts in your head. Um, Infinity is very much a game based on processes and concepts that when you can
+do them instinctively, when you don't have to think about them, the game becomes much easier to play, much easier to master, and you kind of understand
+that the more nuanced rules, the deeper rules are based on exceptions of core
+concepts. So if you understand those core concepts, if you know them instinctively, then what comes later
+becomes that much easier to grasp and get hold of and and understand without actually having to sort of bend your
+brain into a pretzel shape. So with that said, let's get into it. And here we go.
+We're going to get into mission one and two of learning infinity. The explanation we've got coming up will
+What we’ll cover
+include videos as well as diagrams and bits and pieces. There are a lot of examples here. So whilst this video may
+have quite a runtime, a lot of it is clarifying with examples what things actually mean. So I think that's more
+valuable than just kind of saying the rules say this. So let's get into it. What are we going to learn in game one
+and reinforce in game two? We're going to look at the structure of a game turn sequence. How to spend an order. This is
+a crucial skill. I can't underscore that enough. Knowing the correct process for spending an order is a fundamental skill
+in infinity. If you get that right, you're going to have a great time. If you get it wrong, you and your opponent
+are going to have a trash time. So, it's a really important skill to learn, and we'll discuss that more when we get to it. Then, we're going to have normal
+rolls. Face to face rolls. This is also a crucial skill because it is the most common type of dice roll you're going to
+do. Saving rolls. Hopefully, you're not going to do many of those, but we just want to discuss them anyway because it might happen. You never know. Cover.
+It's a really important thing. Uh, what skills are short skills and how to resolve an order with dodging, moving,
+shooting, and stabbing people. These are all important life skills. I think you'll agree any war
+game. Not in life though. But anyway, in the war game, it's crucial. So, what
+you're going to need, you're going to need a table with terrain. Now, we are going to discuss terrain layouts later
+and sizes and things like that. These scales are 35x 40 cm. That is the um
+mat, the battle mat that you get inside the essential start here box and 80 by60
+is the battle mat that you get inside of sand trap. If you don't have something that
+small, cordoning off a small area on a bigger mat would be ideal because we're
+not going to be using a lot of miniatures here. So, you're not going to be traveling vast distances as we'll become clear as we go forward. So, if
+you have a full 4x4 4T x 4 ft board, which is what Infinity is normally played on, you might actually not get to
+see each other or you will, but not very much will happen. It'll be a very boring game. You're going to need dice. How
+many dice will you need? Three each is for this particular mission the sweet spot. Then you're going to need tokens.
+In this case, we are going to need three or sorry, three auto tokens per side, one per trooper. Take measure. Now,
+we're going to be running this in inches. Even though I've just given the dimensions above in centimeters. I'm
+sure it makes sense to somebody. It doesn't to me. But anyway, we will be running in inches because that is what I
+play in. Um, infinity can be played in centimeters or inches.
+So, times 1.6 the size that I say and that's roughly what it will be in centimeters. Anyway, we'll figure it
+out. Six miniatures. Three from one faction, three from another. So, you're going to need three miniatures each, and
+it's about an hourish. Hopefully, a lot less, but maybe an hourish is what this is going
+to take. Okay, recap. So, in our last video, we
+Last video recap
+talked about some core ideas and fundamentals, and I'm going to recap those very, very briefly. First, this is
+a profile. There's a lot on here. You're not going to use most of it. That's all
+you're going to use. So, this is a full profile. This is what we're going to use for our first game.
+The rest does not matter. We don't care about it. Doesn't matter what it does. We do not care. Simple as
+that. This is what the skills that remain on there are. Moff, which is movement, so how fast a trooper moves.
+CC is close combat. BS is your ability to frag people in the face. PH is physique. So, that's how well they
+dodge. Uh arm is armor. I don't know how they come up with these. It's a mystery to all of us. And viter is viter which
+is actually how many wounds you have. It used to be W. It used to be wounds but then you cause wounds with shooting. So
+it was deemed to be confusing so it got changed to viter. And that's just the world we're in now. So move CC BS fizz
+arm and biter are the only things we're going to be dealing with. Nothing else matters. We do not
+care. Orders. We talked about these in depth before. At the start of your
+active turn, one order is generated per trooper. that is alive on your side. So
+in this game, you're going to start with three. So you three troopers and
+therefore you will get three orders per turn. As those troopers snuff it, as they die, you will lose orders and
+therefore be able to do less stuff. Therefore, it's important to keep your troopers alive. One order lets you do up to two
+skills. Order spent as you wish. So that means that you can spend one order on each of your three troopers or you can
+take all three orders from your order pool as it's called and spend that on a single trooper who goes charging off the
+board off across the board in his own shooting people willy-nilly and having a generally good old time. Both legit tactics you can split
+up as you as you want. Two on one, one on another, three on on one person, one on each person. The way you spend your
+orders is entirely up to you. And it's one of the great things with Infinity. Whereas a lot of other war games you
+have to activate or you get one activation per miniature per turn, with Infinity, you can choose how many times
+you use one trooper in a turn. That means when you have your really heavy hitters, the tags, the big robots and
+stuff like that, you can just pour orders into them generated by the rest of your AR army to batter your opponent
+with, which is exciting. Your active phase ends when all of your orders in
+your pool are used. Arrows we discussed as well. They
+are generated during your reactive phase. So while your opponent is having their active turn, you are having your
+reactive turn. You generate one automatic reaction order, one arrow per trooper. You can see an activating enemy
+when an order is spent on that enemy trooper.
+There are no limits to arrows generated per turn. So if you're having a reactive
+phase and you've got your three troopers all stood out there looking across the field and all three of them can see a
+trooper who has an order spent on him, all three of them may arro to that trooper. They may respond to that
+trooper. If that trooper survives and he activates again, all three of your
+troopers may then also react again. So you spend another order on it, you can generate a whole new set of AROS and
+away you go. Hypothetically, that means that it is possible if your opponent has
+three regular orders to spend in the active turn that you will generate up to nine AROS during your reactive turn if
+you have three troopers alive. So yeah, AROS pretty dirty, but
+they're accurate. They're they're generated at the point where you see somebody do something.
+Game overview
+Game overview, what, when, right, the game structure. So, each game is split into rounds. Each round is split into
+two turns. Each player has an active and a reactive turn per round.
+So, let's go back to the start on that one again. Rounds. There are normally
+three rounds in a game of infinity. Each of those rounds are split into two turns. So, just talking about yourself,
+you're going to have a active turn and a reactive turn per game round. So over
+the course of a full game of three rounds, you'll have three active turns and three reactive turns in total. That
+is your full [Music] game. At the start of your active turn,
+so when it's your turn, um you will count all of your live troopers and generate the order pool that I mentioned
+before. During your active turn, you will spend your order pool on your troopers to do things.
+When you have run out of orders, your active turn ends and you become reactive and your opponent becomes active. During
+the reactive turn, a player generates and spends arros as we talked about a minute ago.
+Go. That's how that works. That's the general game
+structure. Let's look at our core processes. This is the important
+Spending an order
+stuff. So, spending an order. Spending an order is the fundamental thing inside of
+Infinity. It is also the thing that people you you start off not knowing
+what you're doing. You learn it. You get quite good at it and then you get hot trash at it and then you sort of realize
+that that's a really bad thing and you get good at it again. And then over the course of your Infinity career, you will
+yo-yo beautifully between I'm a god at declaring my orders and spending my orders to dear Lord, have I ever done
+this before? Why does it matter? Let's talk about why
+it matters for a second. When you're spending your order, you are telling your opponent what
+you're doing, when things are happening, all this kind of stuff. It is crucial that they are very clear on that because
+they get the arrow, because they get the ability to respond to what your troopers are doing. It's fundamental that they
+are clear on what you're actually doing and where you are in this process. So who the order is going on, what your
+first short skill is or your basic short skill and what your second short skill is and that there's a pause between that
+basic short skill and the next skill that comes after it. These things are really important because they get to declare arrows at certain
+points. They have to know what you've done and that it's now their time to
+arrow so that they can bluntly um it's your job to communicate that clearly. So
+this process needs to be second nature and it needs to be done well. So what can you do when spending an order?
+Spending one order, which in this game you'll have three of. You can do a basic short skill and a basic short skill. A
+basic short skill and one short skill, which is not the same thing, or a long skill. Now, we're not going to do any
+long skills in this particular game, but they are a thing because otherwise the question is why are they called short
+skills? Because there is a long skill. You ain't doing it today. Don't worry about it. We are fine.
+So, what are these skills? A basic short skill is move or idle. A short skill is BS attack, CC
+attack, or dodge. All of these are being broken down later. So, just so you know
+what they are, that's what we're going to be doing. It is important to engage your opponent. As I say, it is your job to go, "Hello, I'm doing a thing." So,
+that they're looking at you. Okay? It is your job to declare clearly to be like, "I am doing this thing with
+this person." Okay? And it is important that you take your
+time. Bad players will declare rapidly and not give their opponent time
+to respond to to declare their own arrows will not give them space to make decisions and to evaluate what's going
+on. They will just try and railroad them through. Basically, a good player will
+be clear, concise, and give oxygen to their opponent to do something to to
+respond, to play the game, to be involved. If at any point you are in a
+game and your opponent is just going, I'm doing this and I'm doing this and I'm going to roll some dice, you are within your rights to say,
+slow the heck down. Let me think for a second. I get I'm involved here, too, my
+dude. Because there are certain things inside of this game that you can trigger
+at certain points. For example, there are troopers who go down on the
+board during deployment, but you don't actually place anything on the board to say they're there. You you take a
+photograph of where they are, or you make a note of where they are, but they're in full hidden
+deployment. You may then choose when you pop them out. Now, if your opponent is
+having their active turn and they are moving a trooper across the board and they go move and it comes into the line
+of fire of that hidden trooper, they don't know that that hidden trooper is there, but they go move and then I'm
+going to move again. They have declared what their short skills are. You think, well, he's moved and he's moved. So, I'm
+going to pop the guy out of hidden deployment. He appears here and he shoots you. And then your opponent goes, "Oh, no. If I'd have known he was there,
+I wouldn't have done that second move. I'd have shot." Well, you declared well like yes, but I wouldn't if I'd have I
+don't want to do that. I want to take that back. By them not giving you space to arrow, by them not giving you the
+opportunity to make a slow considered decision about what you're
+going to do. We're in this horrible situation where technically they double declared it's their damn problem. But
+that's going to be a feels bad moment. But you can't undo what's been done because your hidden deployment trooper
+has been revealed. They previously didn't know that you even had one, but now they do and they know where it is.
+So what happens if you give him the ability to take that second short skill back so he can shoot you? Do you then
+get to relocate the hidden deployment trooper or do you does he just go back where he what you end up in this really
+sticky messy situation because somebody didn't go I'm going to [Music]
+move and I'm going to move again. There was no opportunity to to make a
+declaration. So this process is really fundamentally important for the outcome
+of the game for the for the um enjoyment of the game for both people involved. So you will need to get this right. You
+will need to focus on getting this good. So what does it actually look like? This is the process
+itself. Okay, this is what you do over and over again. There's a couple of if ifs and buts, but predominantly this is
+how it works. First thing, engage your opponent. And by that I mean look them
+lovingly in the eyes. I mean I mean really stare at them. Make it a little bit awkward just so that they know that
+you are talking to them and make sure they're staring back at you equally lovingly. There should be a real sort of
+heat and energy to the air between you should be crackling slightly. Something's about to happen. It's very exciting. So engage them. Make sure
+they're clear on what you're doing. Then declare treat which trooper you're going to activate and place an order by it. So
+orders, as we discussed, you're going to have order tokens for this mission. Hold a order token in your sticky little mitt
+and place it down next to the trooper that you're going to activate. So there is no ambiguity between either of you
+that a thing is happening and who it is happening with. You then declare your basic short
+skill. And that is for this game either move or idle. Move. If you declare move, you
+measure and place your miniature in its final spot. And then you look lovingly again back at your opponent and you ask
+them if they are going to ARO. If there are any responses to the move you just made.
+one of their troopers or any of their troopers may respond if they can draw a line of fire to your trooper at any
+point during that activation. So if you moved across a gap and you started behind a building, you ended behind a
+building, but you crossed an alley, as you crossed that alley, if there was somebody at the other end and they could
+draw a line of fire to you, they may respond. That is perfectly legitimate. They can do that thing.
+You then declare your second short skill which can be another basic short skill which is the move or the idle or it's
+another short skill. So not basic. You say what is this one ain't basic. This is the advanced stuff. So this is the
+close combat. This is the shooting. This is the dodging. If you declare another move,
+you measure and place them in their final place as you did before. And then you request more arrows because you may
+have moved into the line of fire of an enemy trooper who did not previously have line of fire to you. If they have
+gained line of fire during that second short skill, they may then
+um declare an ARO. Note, if they could see you in the first short skill and then they see you
+again in the second short skill, they would have had to have declared it in the first short skill. The response would have happened there. We then
+resolve the order by rolling dice and the effects of whatever happens of those dice rolls happens at the end. And that
+is your order. That is the order spent. That is one of your three orders spent. So engage, declare the trooper, declare
+your first short skill, ask for arrows, declare your second short skill, ask for arrows, resolve dice, have cake, profit.
+You will do that over and over again. And the difference in this process between this beginning game and when you
+are playing 300 points at the Interplanetario in Spain in front of
+Bustria and everyone else as they stare in wonder at your gaming skill. The
+difference between here and there is nothing. This is the process. This is the same thing you'll do. This is the
+thing you need to learn. So you will repeat this over and over again. Now the real fun bit.
+Everything here happens at the same time. So an order is a contained moment
+in space and every declaration that happens, every action that happens inside there happens simultaneously. It
+all occurs at the same time. So that means that if you declare let's say uh move
+for your basic short skill and then you declare shoot for your second short
+skill, that shot can be taken at any point during your movement. Your trooper
+can run and gun. Where he starts and where he ends is irrelevant to where you
+take your shot. You can declare, "At this point, as I run across the alleyway, I shoot down the alleyway."
+That's perfectly legitimate. That's absolutely fine. And it is one of these things that can feel, especially if
+you're used to other war games, gives you a little bit of a headache because
+normally in a lot of other war games, you have a movement phase and you have a shooty phase and you have a picking your
+nose phase, whatever. Uh, that one's for you, Arish.
+um you have these distinct phases. Not so in infinity. An order is a self-contained sliver of time and it all
+happens at the same time. So you may charge and shoot at some point during
+that that movement. And declaring that shot does not stop your movement. So if
+you're going to move 4 in and you're going to shoot at the 2in mark, you still complete the 4 in movement.
+It can be a little bit brain bending and it can be a bit painful the first time out, but when you get the hang of it, it
+starts ruining you for other systems. So, be aware of that when you'll start getting annoyed at the fact of, but I want to shoot when I'm stood there, not
+when I'm over here. So, it is with infinity. Everything happens at the same time.
+Everything's simultaneous. Let's have a look at spending an order. So, this little Nox
+trooper gets an order placed by him. He gets declared move. He moves to end
+there. We ask for any arrows. And at the top there, there is a security who gets
+shot at. And yeah, that's the end of that order. The security get the opportunity
+to respond in that situation. So they would probably dodge out of the way if they had any sense. And the Nox trooper
+would declare the fire as I say. So that was place the order. First basic skill
+is move followed by second short skill of shoot for the Nox trooper to the move. The security on top
+of the building would get the opportunity to respond and he could dodge or whatever he wanted to
+do. So that is the basics of a call process of spending an order. That's what you're going to do over and over again. At that point, with everything
+declared, we're going to roll dice. That will come up in a minute. In fact, right
+Normal rolls
+here. So, there are several different types of dice roll in Infinity. The first one we're going to deal with is a
+normal dice roll. This occurs when either there are no AROS, so your your guy is just doing a thing and no one can
+see him, or the enemy declares an arrow, which doesn't impact the active trooper. So, if you're trying to do a specific
+thing, let's say you are opening a box or you are healing another friendly
+trooper, if an enemy can see you do that and they respond and they shoot you, for example, but you still want to do the
+opening of the box or the healing of the person, that becomes a normal role because your ability to heal or open the
+box is not impacted by the shot coming in at you.
+There are also arros which don't impact an active
+skill. So what that means is
+if you are doing something like um I don't
+know so for example if you're if you're stuck um if you one of your guys has been locked inside his armor there is an
+ability to basically freeze somebody inside their armor. If that's happened and it's happened through hacking, then
+your trooper may only be able to reset. It's basically trying to reset their armor. So, it opens up. If somebody is
+shooting you, then your ability to reset is not impacted by their ability
+to shoot you. And their ability to shoot you is not impacted by your ability to reset. So, you would roll to reset and
+they would roll to shoot you. there is no interaction between those
+things. So, how does a normal role work? To be clear, that there's no interaction. We'll make sense when we
+get to the second type of role in a second. The process for a normal roll is check the attribute of your skill. Check
+for any modifiers. Sometimes there are, and generate a success value. Then you roll your dieice or your
+dice depending on on what the case may be. And every roll equal to or under
+your success value is a success. Those points are
+crucial. Success with infinity, where you roll a d20, comes from rolling equal
+to or less than a target value, which is called a success value. Your success
+value is the product of a attribute of a skill, an attribute of one of your troopers, stat if you will. It can be
+impacted by modifiers and then you get this success value. you are then aiming for that or less. That or less always
+inside of infinity. If you've come from a previous version of infinity, that's across the board now. It didn't used to
+be. Um saving throws used to be different. They used to be the other way round. You used to have to get higher.
+Now they've been brought in line. So great quality of life change there. So equal to or less is
+success. So let's look at success values a little bit closer. if successfully is what you need to do a thing. For
+example, do a BS attack. So, shoot someone, do a CC attack, stab someone, dodge, not be shot or stabbed. It's
+basically what dodging it enables you to do. The process is the trooper attribute
+plus modifiers equals your success value. So, if you want to shoot somebody, you would take your BS value
+of your trooper, you would add in any range modifier for your weapon, any cover modifier for your target, and that
+would give you your success value. These will be covered in more detail when we look at BS attack
+skills. So, so we're going to do an example of a
+normal roll here. We have a success value of 15. How we got to a success value of 15 is irrelevant. What that
+means is any roll on a d20 of 15 or less will be successful. Three dice, we roll
+a 12, a 16, and a three. That means we have two successes and one failure.
+Let's look at a normal unopposed roll. The heckler here is going to move up to the box and try and open it. So he
+declares move, gets into base to base, declares open, and rolls a three. That
+will be a successful opening of that box because they have a whip. I think 12.
+Quite clever. So he needed 12 or less. He got a three. The box is open. Here is
+where we have arrows. Now he still wants to open the box. So he runs up to it and declares open. And then those two
+horrible nomads, the moderators, both shoot at him in response. He rolls a four. So he'd still
+open the box. They would then roll to shoot him in response. But he would have succeeded in opening the box either way.
+The box will have been his job done. And then the the moderators that
+were responding would have normal roles to hit him.
+Okay, that's a normal role. Doing a thing, gains your success value, job done. Then we get to the face to face
+Face-to-face rolls
+role. This is when it gets juicy. So face to face role occurs when an
+activating trooper receives AO rows, which it responds to. For example, if the heckler in the previous video had
+decided that he was going to move up to the box, those two moderators shot at him and he choose chose to shoot back,
+then he would get a face-to-face role against each of each of them. It would no longer be a normal role. It would be a face tof face
+roll. The process of a face to face roll is slightly different for both players,
+active and reactive. You check the attribute of the skill of the thing you're doing. Check for modifiers to generate your success value. Roll your
+dice. You then figure out your successes. Again,
+everything equal to or under your success value is a success. You then take as an active player your successes
+and the reactive player takes their successes and you compare them. You cancel and they cancel any
+enemy successes with a lower value. So those successes that are lower than your
+opponents or your opponents are lower than yours are then cancelled as if they
+failed. So you're removing dice from your opponent. removing whatever happened. Successes of
+the same value cancel each other if they're success. Yeah, successes. You
+know what I mean? Or you're about to know what I mean. Let's look at that in practice. So, here we are. We have a active player and a reactive player
+doing a thing. The active player is going to have three dice with a success value of 12. And the reactive player is
+going to have one dice with a success value of nine.
+The active player rolls an eight, a 14, and a three, giving us two successes and one
+failure. So, we remove that failure, and we end up with the two successes, the eight and the three, cuz the 14 was
+above the 12. So, it was a failure that comes off. So, we've got two successes here. The reactive player rolls a six.
+This is also a success. However, the six is higher than the three of the active
+player. The six of the reactive is higher than the three of the active. So the three gets cancelled. But the eight is higher than
+the six. So the six is canceled. In this facetoface
+attack, what would have happened is the active player would have achieved one
+success. I'm going to scroll back and do that one again. So again, three dice
+aiming for twelves on the active player. 14 is a failure. That goes leaves us with two successes and three. Reactive
+player comes in, rolls a six. That's a success. This is good. The six cancels the three from the active player,
+leaving the eight. And the eight cancels the six from the reactive player, leaving one success of an eight overall.
+Awesome. Hope that makes sense. Let's do that again. This time, the active player
+does not do so well. They get a 223. These are low values. This is not great, but they are all successes. This
+is good news, but dang it. The reactive player comes in with the six. The six is higher than the two, is
+higher than the two, and is higher than the three. So all of the active players
+successes are cancelled, and the reactive player has one success left. So
+if this was a shoot, if this was BS attacks at each other, the active player shot three times, missed three times,
+the reactive player shot once and hit. Infinity is a violent game. It is a
+dangerous game. Even if it's your turn, you can still lose troopers like it's going out
+of fashion. And this is exactly how the face to face roll. You think you've got it, you think everything's great, and
+then somebody pulls that rubbish. It happens. But if they don't do that, they
+Crits
+may be even worse. They may do a critical, also known as a crit. A crit occurs when a player rolls their exact
+success value. So if when everything's applied, you need a 12 and you roll a 12 on a
+d20, that is a crit there. And then the result of critical, it cancels all
+non-critical enemy successes, even if they're a higher value. You also get an additional saving
+role for critical CC and BS attacks. So, if you're stabbing somebody in the face and you do it critically, they have to
+make an extra save and could lose an extra wound. If you are shooting somebody and
+critically succeed, again, you've done it unpleasantly, there is a possibility
+that they will lose two wins. They need to make an extra save. Criticals, cancel criticals. So, if everyone's critting,
+if it gets stupid and there's crits flying everywhere, everywhere, then you're going to cancel each other. Let's look at this in
+practice. So here we have the active player has had a very good day. They have a success value of 12. They've rolled a two, an 11 and
+11. Awesome. Our reactive player has a success value of nine, which they duly
+roll. The reactive player has achieved a crit. The success value is nine. They have rolled a nine. This is
+good. So what that does is instantly it cancels the two. We can see nine is
+higher than two. The two is going to go fine. but also the
+11s because although the 11s were a higher number, they weren't crits. With the nine being a crit, it
+cancels those two 11s, takes them off the board, and suddenly you're making your
+opponent make two saves if you were shooting or stabbing them or whatever you're
+doing. Crits sometimes turn up at the most beautiful moments.
+Um, my record, my personal record, little anecdote for a moment, is is
+using a heavy machine gun to shoot somebody. And it it was a Hail Mary. And when I say it was a Hail Mary, I was
+critting on a one. So, I could only roll ones to be successful. And I can't remember my opponent was on, but they
+were on a good amount, 10 or 12 or something like that. So, statistically, I should have died. I was
+throwing four dice. I was I was confident that something could happen. my opponent shot. They hit me, but they
+didn't crit. And I was throwing four dice with the heavy machine gun because that's how many dice they throw in the in the active phase. And I rolled four
+ones. It was some time back, but the look on my opponent's face is still
+etched in my memory, and I can't tell whether I'm proud of that or not. But yeah, my dice turned up. Four crits on a
+one. There's nothing you can do in the face of luck like that other other than hope your save dice behave. They didn't.
+He died. It was great. I loved it. Right. So again, here we are set up
+again. This time the active player, they rolled those two 11s again, but they rolled a 12. So they've actually rolled a critical success as well. So the
+active player has hit their success value of 12. The reactive player has hit their success value of nine. Let's get rid of the 11 so it's
+nice and clear. We're now crit versus crit. They cancel each other. Crits cancel each other. Even though the 12 is
+a higher value than the nine, they are crits. That's the only thing that matters. Crits cancel. Nothing happens
+in that situation. Both uh troopers look at each other slightly embarrassed because they did an epic shot, but maybe
+they shot each other's bullets out of the air. Maybe they bounced off each other's legs. Who knows? Something
+happened. It was epic, but it didn't result in anyone getting hurt. So, you know, good news and bad
+Saving rolls
+news. We're now going to move on to saving roles, also known as
+SR. That may seem redundant, but as we progress through these games, you will
+see that certain troopers have abilities that modify SR. So, it's worth getting
+into that saving role is SR now because you're going to be using it. So, when does this happen? It happens when a
+player is successfully attacked. So, when they have been hit by a close combat attack or they've been shot or something like that, something that uh
+they didn't want to have happen has happened, they now need to make a saving role. How does this play out? The
+process is pretty straightforward. We take the possibility of survival of the attacking weapon. We add cover if
+applicable. We add the arm value of the target and that gives us our success value. There is there is that wonderful
+phrase again, success value. As before, all roles equal to or less are
+successes. Quits don't actually make any difference other than it's a success. It's just a normal success. And your
+trooper will lose one wound or structure per failed save. Let's look at that in practice. A
+heavy machine gun is being fired at the cris here. The potential of survival,
+the PS of a heavy machine gun is five. The cris is not in cover.
+Incrisible Ratch has arm five. So, he's been hit in this situation. It has happened. All of that stuff's been done.
+All the the BS attack's been done. We're now figuring out what happens next. So, his success value is the
+potential of survival of the weapon, five plus cover. There's no cover, so zero plus arm, which is
+five. So, that ends up as 5 + 5 equals 10. His success value is 10. He will
+roll one dice for every successful hit and every dice roll of 10 or less will
+result in a save. So equal to or less than. If he rolls an 11, he's going to
+lose a wound. He's going to lose a viter. Simple as that. But what about
+Cover
+cover? Cover's kind of important, but it's also kind of simple when with infinity.
+You are in partial cover when a targeted trooper is in base to base contact with a piece of terrain that is between them
+and their attacker. So this is only for range stuff. Doesn't apply in in close
+combat. You yeah you have to be in baseto base
+contact. It doesn't matter if it's one or two mil off. You have to be touching it. So communicating when you are and
+are not in cover is important with your opponent. Why does it make so much
+difference? because your troopers are trained. If somebody is slightly out of cover, they're going to exploit it. If they're hunkering down behind a wall and
+they can't see very much, it's going to make their shot harder. So, base to base contact with a
+piece of terrain between them and their attacker. That is the only time you're in partial
+cover. The piece of terrain has to obscure the line of fire to the target.
+So, you have to not be able to see part of the miniature. It's light of fire is really important for the first few
+games play that if you if you if you can see a trooper they can see you. There are fire arcs inside of Infinity. You
+can only see the front 180. Um but for this first game I would keep it very
+very simple and only do the the very
+basics. So what impact does partial cover have? The partial cover gives your
+attacker a minus three BS mod to their BS attack. And it gives the target
+trooper plus three arms for any saving roll. That's all it does. Minus three to
+be hit, plus three to save. That's all that cover does. You will notice that I've been
+referring to partial cover. There is full cover, but if you're in full cover, you can't be seen. So, we don't care
+about that right now. Um, it's not relevant to be honest with you. to to what we're doing in this game. But yes,
+partial cover, minus 3BS, plus three arm. That's what it does. Let's look at
+partial cover. Here is a nox trooper. Who's in cover? He is now out of
+cover. He is now in cover. There you go. Partial cover. You
+are welcome. So, now that we've got the understanding of partial cover, we're
+going to do this example again. the heavy machine gun with potential survival five with a cris in partial
+cover now and with a cris with arm five. So we get the pleasure of survival plus cover
+plus arm equals the success value. Pleasure survival five plus the
+plus three arm for being in cover plus five for the arm of Chris
+Boratch equals 13 not 10. So our success value is 13 which is kind of useful. He's he's
+got a 15% increased chance of surviving this experience, which is a nice place to be.
+SH skills. This is when we are doing things. We've now looked at how we spend
+an order. We've looked at how we do dice rolls, which is how we resolve those orders. Now, let's look at what we can
+Skills
+actually do. So, skills occur when you're spending an order. You have the basic
+short skills which is move and idle which has to be the first thing you declare in an order. And you have short skills
+which are the thing you can declare second along with another basic short skills. That's your BS attack, your CC
+and your dodge. Let's go into these in some detail. Move. You use the morph attribute.
+Move
+The first use of a move skill in an order lets your trooper move up to the
+first mob value of their profile. If you use another move skill, then you can
+move the second value of mob on their profile. You cannot move in
+ARO. So, here's a hollow man. The first move skill that he declares lets him move six inches because his
+morph is 62. And if he does another move skill, then he moves two inches. So if
+he was to declare, for example, um idle for his first uh basic skill,
+then he wouldn't move anywhere. And if he was to declare move as his second skill of his order, then he would move
+that 6 in. So the first time that you use a move skill, you use that first
+value of move on your profile. Always, always, always. That's morph. That's move. How
+does that look? Here's how you measure movement. So this is the correct way to measure.
+We go from one point on the base to the same point. That's a 4in move from the front to the
+front. This is a bad way to do it. We're kind of flopping around that. Take
+measure it sort of there. And then we kind of pick him up and he kind of sort of around yeah it's about 4 in is good
+enough or measuring from different points. So we start by measuring from the front of the base and then we place
+the back of the base at the end. That's a full extra bait base width distance that that miniature
+moved. So from one point to the same point on the tape measure is a good move. Anything
+else is not. There you go. That's a move. That's how that works. Let's go idle. Idle is
+Idle
+not based on the attributes. What happens? You do nothing. You your guy stands there, has
+a little bit of a look around, questions life choices, does nothing. You are fulfilling the requirement to spend a
+basic short skill of your order expenditure. So your first skill you declare has to be a basic short skill.
+Idle is basic short skill. You have done that. You may then move on to the next thing. Why would you use idle? If you
+are engaged in a firefight and you are stood in a firing position where you can see your target, you declare idle. You
+don't need to move anywhere. You don't need to go anywhere. You just need to tick that box to to achieve the basic
+short skill. So, you go, I'm going to idle. And your opponent then has to do their arrows, which is crucial because
+you can then bait out arrows. What do we mean by that?
+I mentioned earlier that there are troopers in this game who can be hidden. So they're not on the board, they're completely
+gone. In that situation, if you are visible to an area
+and you idle, then your opponent will have to declare if anything is coming out of hidden deployment, have to reveal
+itself to shoot you or if things are there. It's called a marker stakes. It's camouflaged. It will have to reveal itself to shoot
+you with that information with all of the arrows coming in because you're not moving anywhere. You're still stood there. All of those shots coming, you
+can decide what you're going to do next. Whether you're going to dodge, shoot back, whatever you're going to do. So,
+baiting out arrows with an idle is a legitimate tactic. You may not idle in arrow. You
+can not declare an arrow, but idle is not a technically a arrow skill per
+se. We wouldn't declare it at this point. Next, now we get fun fun fun. We
+BS Attack
+are going to start shooting some people for the BS attack. This is
+shooting. We use unsurprisingly the BS of the attacking of the trooper who's
+doing the thing, who's doing the skill. What does it allow you to do? It allows you to fire one
+weapon. Weapons with more than one shot, which is called burst, may split their fire among multiple targets during the
+active phase only. So if your trooper stood there finds himself confronted by three enemies and he has a
+burst three weapon, then he may stick one shot into each of them. Or you can
+stick three into one, two into one, and one into another. It's entirely up to you. You can split your burst in active
+phase as you see fit. If you move as your first short skill,
+so you've traveled that four inches, you may take these shots at any point in that movement, but all of them have to
+come from the same place. So we mentioned earlier about moving across a corridor. Can't be seen at the start,
+can't be seen at the end, but halfway through, 2 in long, a 4 in movement, you can see clearly an enemy at the end, you
+can then fire all of your shots, your full burst into that target at the end of the corridor. If you can see multiple
+enemies at the end of that corridor, you can fire shots into multiple ones of them just the same. But you can do it at
+any any point during that movement. Again, this is back to orders happen all at the same
+time. It's really important to get your head into that that orders happen all at the same time. So you can choose to take
+the shot at any point during your movement at all. Absolutely fine.
+If you use BS attack in arrow, which you may, then the burst of your weapon is reduced to
+one. That will become more relevant in a second. So, how do we resolve a BS
+attack? You declare your target or targets. So, you say, right, I'm going to do BS attack for my next short skill.
+I'm going to shoot this guy and this guy. I look at the BS of my attacker. I check the range to confirm the modifiers
+based on the weapons profile because different weapons are good at different ranges. I check for cover. As we talked
+about before, if a piece of terrain that the target is in base to base contact
+with is between me and them, if it obscures them in any way, shape, or form, I get minus three to my BS. Then I
+confirm my success value. So the BS that we started with of my trooper plus a range mod plus a cover mod gives me my
+success value. I check my burst. I roll one dice per burst. And then for every roll that is
+equal to or under my success value is a success. It's a hit. What does that look like? That's
+got a weapon profile to start off with. This is a full weapon profile for Infinity for combi rifles. Combi rifles
+are the most basic and ubiquitous weapon in the game for your first game. We don't care about that stuff. This thing,
+don't worry about it. Irrelevant. We are only caring about the PS probability of survival. The B, which
+is the burst. There's your burst value. You see that underneath B has three. That's because a combi rifle shooting BS
+attack inactive phase throws three dice. Simple as. Then we have our range
+modifiers at the bottom there. Range modifiers are expressed in
+a way that is designed to confuse and confound new players. So it says at the
+top there on range on the left hand side green plus three 16 in. What that means
+is between the ranges of 0 in well.1 in
+and up to and including 16 in you will get plus three to your BS for shooting
+the combi rifle. If you're at 16.1 in up to and
+including 32 in you're in the yellow band you're at minus three etc etc
+etc. So that figure when you see these rangebands of 16 inch, 32 inch, 48 in up
+to and including is the way to think about that potential survival. You saw it with the saving throw. Um the lower
+the PS is, the most the more unpleasant the weapon is basically. Um there are some weapons in
+the game with sort of PS of 4. I think that's I saw one the other day of I think it's close combat of PS3. So,
+there are some decidedly unpleasant weapons in this game, but as as a good average, five to seven is the kind of
+midband of everything you'd expect to see. You'll also want to know how many
+burst. Average is about three. You We have one weapon in the game with burst
+of five. Heavy machine guns, Spitfires, which are light machine guns, a burst of four. High burst weapons are good, but
+you're not using those today. You're going to be using combi rifles, which have a burst of three, and that's it and all about it. Don't complain. and we'll get into the bigger stuff in a future
+game. So that is a weapon profile. So let's check range for a beer stick. Let's do the actual process. So here the
+Nox trooper on the left is shooting the skitarte. He checks his range from same point in the base to the
+same point in the base. The nearest point in the base is what you measure there. Here we're going to do BS attack.
+So we're going to spend an order on the Nox BS11, BS12, and securitate.
+We check that range as you just saw a minute ago. See that is nicely 8
+in. So that gives us plus three to our BS from the combi rifle profile there.
+Let's get into it. So what we know so far, Nox trooper BS stats 11. The
+skurarte BS stat is 12. There is our combi rifle. We know that we're getting plus three range cuz we were underneath
+16 in. We were at 8 in. So both of them, they're going to shoot back at each other. Are going to get a range of plus
+three. Neither of them in cover because they're stood in the breeze because they were just feeling a little bit brave.
+Therefore, we have a success value of 14 and 15. So the nostraper BS11 plus three
+for range plus zero for cover gives us success 14. Skiritarte BS of 12 range
+mod of plus three zero for cover success value 15.
+So with the hom rifle, as we say, we have a burst of three. So the active player would throw three dice. The
+reactive player would throw one. So in this case, the Nox was shooting, so he'd have a burst of three, and the reactive would have a burst of
+one. This is how that shakes down. So our Nox, who was after 14s, throws three
+dice, gets an 11, two, and a three. These are all good. Congratulations, Mr. Knox. Good shooting
+there. Our reactive secure tartatee has a success value of 15. It rolls a seven.
+This is also successful. And we do the faceto-face process that we did
+before. The seven cancels the two and the three. The 11 cancels the seven. And we end up with one hit from the Nox on
+the Securitarte to be saved. That's how that's how that works.
+Back again because that's a bit complicated. So BS11, BS12, good range plus three,
+plus three, cover 0, success value 14, success value 15. Being able to do these
+quickly, being able to figure out your success value for your shooting is a key skill.
+Fortunately, range mods for weapons are standardized. So a heavy machine gun has
+the same stats across all factions. A combi rifle has the same stats across all factions. So when you learn these
+range mods for your weapons, you will know you'll know it for everything.
+Cover as we know is only ever minus three. So it either is or it isn't. And if it isn't, it's zero. And if it is,
+it's minus three. So then we get the burst value.
+Burst value is defined by the weapon profile. So here we have a burst of three for the combi rifle. If you're
+reactive, you're doing an ARO, your burst is always one, apart from when it's not. Infinity is a game of
+exceptions. For this first game, your burst is always one. And then we get this situation. Three dice versus one.
+The facetof face roll. Although the react although the active player has been successful across
+the board, the reactive player threw higher than two dice. So they go, but then the active player managed to get
+that 11 which cancels the seven and the skiti takes one hit. That's how that
+CC Attack
+shakes down. CC attack. This is the first indication of
+variation of a theme. Let's read what we got here. So, the attribute used for a CC attack is CC. You need to be in base
+to base contact with an enemy trooper and then you can stab them. You just use one die and you can use in
+arrow. The process for CC is the same as shooting, but there's no range and
+there's only one die. There is no burst for CC at this
+level. You will find that is a theme throughout a lot of Infinity. This skill is exactly the same
+as this one just with these tweaks. So a CC is a BS attack but in baseto
+base contact. Later when we come to hacking, hacking is a BS attack but up
+to 8 in. They're the same thing. They run through the same process.
+So when you it's is why committing these processes to memory is really really important. So again just like with with
+BS stack we declare target we check the attackers CC we don't need to check range because we have to be in base to base contact to do it. We confirm the
+success value which is the CC stat. We roll one dieice. Every roll equal to or under the success value is a hit. That's
+CC. That that is that is it. That's relatively simple and straightforward. Are there more advanced
+rules later in the system? Yes. Are we going to use them today? No. Do they matter today? No. They exist, but don't worry about
+Dodge
+it. Then we come to dodge. Dodge is I don't fancy this. No, thank you. Not at
+all. Not once. Not ever. We use the attribute of PH to facilitate a dodge.
+It basically allows you to avoid an attack. If you're successful in your dodge, it allows your trooper to move up
+to 2 in in any direction that you see fit at the resolution of the order.
+If at any point that dodge is cancelled in a face-to-face roll, then the movement
+doesn't happen. You only ever roll a single die for a dodge and it is compared to all to
+any and all shots that were attacks that come into you. So if you're in a situation where there is one of you and
+there is three of them and they shoot at you and you dodge, you roll one dice and you compare it to the attacks from all
+three of the people shooting at you. Can you dodge an arrow? Yes, you can. So, resolving a dodge, declare your
+dodge, check your pH. Your pH is your success value. You roll one dice. If successful, you compare it to all
+incoming attacks. Then, you compare as usual with the face to face. If the dodge beats all attacks, then you move
+your trooper up to 2 in. So, if you are being shot by three and you only beat two and the third one managed to get hit
+on you, whether you survive or not, well, you'd need to survive for it to matter, but that one hit that comes through
+stops you from making the move. The only way you get to move that two inches is if you are the best die roll. Look at
+that in action. So, here we had a trooper. They
+got shot and didn't fancy shooting back. It's their active phase, so they decided to dodge on a
+10. They got two shots coming in from one enemy shooting at a 12 and one enemy
+with a success value of 15 shooting back. In this situation, the active
+player scored a five, which is successful, and the two reactives scored a three and a two. So they both have
+shot back and they have both technically been successful. But that five is higher
+than both of those reactive dice rolls. So it cancels both of them. None of the shots happen and the active miniature
+gets to move two inches. That make sense? Hope so. Should do.
+So because they're lower values, they both get cancelceled and they're both gone.
+If however we end up in this situation where we have the active dodging trooper
+has rolled a five. So they have succeeded in their dodge. They're up against that three
+again but also a seven. Now that seven is successful. The three is canceled by the
+dodge of the five. But the dodge of the five is canceled by the seven. So the active trooper who was dodging doesn't
+get to move their two inches and has to now make a safe.
+Example Order
+So, let's put this all together in an example order. Here's our core processes with
+more information put around. This is what we're looking at the start. So, our core process for spelling an order. We
+engage our opponent. We declare which trooper you're going to activate by placing an order next to it. You declare
+your basic short skill. For this first mission, that can be move or idle. If you're going to move, you measure and
+place your miniature in its final place. You then request arrows. The reactive player may declare BS attack, CC attack,
+or dodge. Those are the only ARO options in this game. The active player then declares
+their second short skill, which can be BS attack, CC attack, dodge, idle, or
+move. If they do move, they measure and place the miniature and then they request
+arrows where the reactive player may again BS attack, CC attack or dodge with
+a trooper who did not see the activating miniature during the first basic short
+skill. So if they saw them during the move idle, they can't now decide that they want to shoot. They had to declare
+that as soon as they possibly could. We then resolve the order by rolling the dice, apply the effects, rate, and
+everything happens at the same time as discussed. Let's get into this. Let's see this in practice. So, here is our
+friend again, our little Nox trooper. He is going to have an order placed next to him. He's going to clear a move. He
+moves up, gets into position. He sees at the
+top that security. He decides to take a shot and takes a shoot skill to fire three times up at that trooper.
+So, how does that work out? This is how that would actually be declared and work. We declare our
+opponent say, "We're going to activate someone. We're going to declare this no trooper down here. Our first basic short
+skill is going to be move." He then moved was placed in his final position. Requested arrows. Now, in this
+situation, the curitarte doesn't fancy it today, so he dodges. Nox trooper then declares a
+second short skill, which in this case was BS attack. We then roll the
+dice. So, here's how we resolve that BS attack from the perspective of the Nox
+trooper. We declare the target, which was the Skiritarte. We check the BS of our trooper, which for a Nox trooper is
+BS11. We check the range, which was 20 in. It's over that 16in band, but below
+the 32. So, it's going to be BS minus 3 for our shoot. Then check to see if that skitart
+was in cover. And yes, he most definitely was. So there's another BS minus 3. Here we confirm our success
+value. That is the BS of 11 plus the range mod which was minus
+three plus the cover mod which is minus three which gives us a success value of
+five. We look at the burst value of the combi rifle which is three. So we're going to throw three dice trying to get
+a five. That is how that BS attack will be resolved.
+However, the skitarte who didn't fancy it has declared a dodge. We take his his
+physique, his ph value, which is 10, and that then becomes our success value. So, the skitarte needs to roll 10 or less on
+one die to avoid these three incoming shots, which will hit on a five. So, the active player, the Nox, is
+shooting on a five, a success value of five on the left there. And the reactive player, the skitarte, is dodging on a
+physique of 10. Anox rolls an 11, an eight and a three.
+So against a success of five, there is one success there and two failures. Ocurate rolls a two. So while
+successful and those other two failures from the the NOx disappear, it is itself cancelled by the
+three. The three is a higher value on the the shot from the Nox trooper. So then the reactive dodge from the
+Skiritarte is canled and he cops one to the face. The Nox was shooting using a combi
+rifle with a potential survival of seven. The Skirarte was in cover. The
+Skurat has arm one. What that gives us to make the saving roll for that one
+successful hit that went through is a potential survival of seven plus cover which is three plus the arm which is
+one. So, the security needs to roll an 11 or less to avoid being damaged,
+taking a wound from that shot from the Nox Trooper. There's the success value, 11
+or less. Fortunately, the Skirit rolls an 11. That results in the loss of a viter
+of one wound. And the Skiritarte only actually has one viter on their stats.
+So that is an unconscious security in this
+situation. That is a full order expenditure. That is that done. What
+impact does that have on the game? Well, when the nomad player with the security starts their turn and they counts up how
+many troopers they have who are not dead, they are going to be down one regular order because they've lost a
+security. So by shooting by the the Nox trooper shooting and killing the security in the Nox trooper's active
+phase active turn when the no man securitate player
+has their next turn they're going to be an order down because they're a trooper down. So yeah that is a full order
+expenditure all the way through from declaring your order resolving your shooting dodges
+face to face rolls and then a save. That one's probably worth watching a couple of times to be honest with you.
+Hopefully that makes sense to you. Now, we're actually going to get into who is coming to play. Who should
+you bring and run on this first mission? As I've indicated, we're going to be running basic troopers. We are going to
+Army Lists
+be running um combi rifles only. You don't need anything more because we are
+focusing on process only. these processes, other things. You know, when you when you
+finish this game, you finish your first games. Success isn't having one. Success
+is how great were my declarations. Believe it or not, they are so important to this game. But let's look at what you
+should run. Your army list, keep it simple. Each trooper should run three identical troopers. The troopers you'll
+need should be light infantry, which is indicated on the army builder, and silhouette 2. So that's S2 on the stats
+of their profile. They should have no more than arm two. They should have no more than BS12 and they should be armed
+with a combi rifle. For most factions, that's entirely achievable. What if your faction doesn't
+have those? Because some factions don't, then you're going to proxy.
+You're just going to put stuff in that does the same job and we're going to bend the rules a little bit to make it work. The aim here, as I say, is to
+learn the processes and concepts. So, faction flavor is stripped out. You'll get to faction flavor. That will come
+later. Um, but right now too much flavor cuz that flavor comes from rules that
+comes from equipment that comes from concepts that you don't need at this
+point. It it'll just add to the confusion. As you saw at the start with the the
+profile, we stripped out everything, all the different weapon options, all the different loadouts, you know, even down
+to taking the pistol off them. You don't need that for your first game. So keep this as simple as possible and focus on
+getting your declarations and your dice rolls right because those are the fundamental base foundations of this
+system that I cannot stress enough are just essential for you to pick up
+essentials. They should call a range that that would really help anyway by the buy. So what does that look like?
+Well, if you're running sand trap that would be the three fingus layers that come in the box. This is the profile
+that I'd recommend you run. So, just a combi rifle. Ignore the rest of the stats that are on there because you
+don't need them. Uh, this this is one if you're planning to do this mission. Just take a screen cap of this unless you're
+a member or you are a Patreon because these will be available for download
+shortly from um yeah, they'll be available to you guys. There'll be cheat
+sheets for each of the the armies I'm about to talk about, including uh little prompts, so you can just print off an A4
+sheet and have it with you, and that will run you through how to complete your game. So, fingers for Sand Trap or
+the Senu Troopers for JSA. So, this is again Sand Trap. So, those guys go up
+against each other quite nicely. That's great. If you have essential start here, then you have the
+Kisotu, which are in there. Now, you're going to need three of them. So, what that means is the um the Shikami that's
+in there will proxy will be a standin as a Kisotu for this game. Just use the
+same use all three miniatures. Use them all as Kaiso for this first game. And equally for the
+essential start here for Panosia, don't use the orc
+that's in there. Use Fuselers because that will be more than enough. That'll be absolutely perfect.
+So the orc will do the job of a fuselift these first games from previous battle packs or the
+most recent battle packs if you want to take operation blackwind which came out just 18 months ago something like that.
+Um the thorai so take them for the steel falank
+but have their arm count as two because it's normally three but have it count as two trust me. Yeah, better for the Dami
+that are in Black Wind, run them as Gulam with combi rifles. So, you can use
+the same stat sheets for combi rifles on the previous page. Um, and just use the Gulam stats with the bits for missing
+that I've I've indicated from uh the army builder. Why com rifles?
+Because normally Gulam have rifles and rifles aren't great closeup. So, to even them even the
+playing field a little bit, run them as Gulam. with stolen combi rifles with operation crimson stone
+which is the one that came out before that. The uh nomad over sea perfect their combi rifle light infantry run
+those three abundance of fluff and happiness. Um and if you want to run the aradin side of things then run the rocks
+but use them as having combi rifles because again rifles not great closeup.
+This is a close range game. Keep that simple,
+right? If you don't have any of those, you don't have the the essentials or the
+sand trap box, then at the start here, we talked about light infantry, silhouette 2, arm two or lower, BS12 or
+lower, and arm with a comb rifle. Every faction pretty much has those.
+So, find and run those for your your particular faction. Uh, put it in the comments if you're not sure what you
+Table and terrain
+should run. So, what's on the table? We're looking at a battle space now. Your terrain. Keep it small. You
+only have three orders. You are not going to be going very far. Most troopers will move 8 in and a full
+order. So, they'll do a move, a 4 in, and a move of 4 in. You are not getting across a full 4ft board with with three
+orders in a turn. It's just not happening. Keep it simple. So the mats
+that come in sand trap or essential start here are perfect. Keep the level of the game low.
+So you will have seen wonderful images of infinity tables with all this height
+and ladders and stairs. You do not have the orders to be climbing stairs. Keep it level and low. Keep it
+simple. And just make sure when you set your table up that there are no lines of fire from board edge to board edge. That
+doesn't help anyone. You need to be able to move tactically. You need to be able to approach your opponent. Where can you get terrain?
+Sand traps got it in. The essential start here box has got it in or CB does scenery packs. You can also get terrain
+from all over that. You can 3D print the stuff. It's entirely up to you. But you can see on screen on the bottom right there, that is a scenery pack from
+Corvis Valley. That gives you the concept, the sort of volume of terrain that you need. It is not a lot. Do not
+go nuts. Too much terrain is as bad as too little. There is a very fine line
+between yeah between the two and and getting a sweet spot will will take time
+but you'll get there. But to help you out, this is the setup for sand trap and
+this is perfect. Just use everything that's in the box. Set it up as they have in the box.
+As they have in the box there, it's absolutely fine. What you want to do is you want to give troopers somewhere to hide and some way of moving up the
+board. These things are important. So that kind of setup is absolutely fine. Equally essentials much smaller area,
+but again that's absolutely fine. Give them somewhere to hide. Box set up is great. Make sure you have a place to
+hide away. Make sure you have places to move to to be in and out of cover and all about it. This is battle
+pack terrain. So this is actually from Blackwind, but this gives you an idea of the setup. This actually came from the
+book that was in the Blackwin box which looks like that. So that's how that was all set
+up. We miss these sets. We miss these books with how to set them up. But from the end of the table, it looks a little
+bit like sort of this. It's all very dramatic, but you get an idea of the
+density and the shape of the table and how it was set up. The buildings that are on top of the big buildings could be
+put at the bottom. They could be they could be put down to to give more blocking terrain as well, but don't go
+too crazy. Make sure that you have space to move and space to get range shots and
+to arrow through and all this kind of thing. Don't go too crazy. Smaller is better. Those dimensions that I gave you
+a minute ago are ideal for the playmat style or playmat size. So, the mission, you have your
+The mission
+troopers, you have your table. What are we actually going to do? We're going to keep it simple. Just
+death. Kill as many of the enemy troopers as possible. Keep yours alive. Winner kills the most. Who goes first?
+Roll one d20 each. Whoever scores highest goes first. How to deploy? Each
+player puts two troopers completely in cover so they can't be seen. And one
+trooper peeking so they can see up the board. So when the enemy comes, we can start arrowing and
+responding. How long is the game? three rounds in total. So each player will get
+three active phases and three reactive phases. That means in total you will have nine orders each through the entire
+game. Three per round assuming everybody lives through all the all the rounds. They won't. They really really won't.
+But that's the maximum you're going to get to spend. Game it take should the
+game itself should take about an hour there or thereabouts. Uh maybe less, maybe more.
+See how it goes. And that's that's it for now. That is your first mission. Um we we ran
+through, believe it or not, all of these points here. We have the game structure, we have the turn structure, spending order, normal rolls, face to face,
+saving rolls, getting in cover, what skills are, short skills, how to resolve, dodge, move, shoot, and
+stabbing people. We also covered off the arrows and stuff like that with some examples. So all of these points were covered. the first game because we need
+to get this fundamentals in place is really a lot of information and the future games will be a lot less
+information. Historically, I've sort of split it out into multiple videos and um I did put it to the community that I should do it with this one, but it was
+overwhelmingly nope, give us everything all at once. So, you wanted it, no one has to blame but
+yourself. So, what's next? After your first game, leave it a day and then play
+What’s next?
+that exact same mission again. Three troopers aside, charge at each other and shoot.
+Because even if you were perfect on day one, on day two your declarations will
+be trash. You'll forget how to do your rolls or this kind of stuff. You need to get that refresher. And the objective very much
+with these first two missions is to get those processes of spending an order and doing a shoot and doing a close combat
+and doing a dodge as far as possible into mental muscle memory. That's where you need those to be. You need to be
+getting to a point where you can look at a profile and go, "Okay, I roughly know what I'm looking at here. This this this
+makes rough sense to me."
+With that done, with mission one and two done, and you've practiced your declarations, and you've got your order
+expenditure down, we will then move on to mission three, which is where we hit
+the first of our exceptions. So, you've learned how a lot of things happen in this particular mission. In the next
+mission, you're going to learn how we can completely screw with the order declaration process by including
+camouflage and mimatism and all this kind of good stuff. So, that will be coming from the dice god soon. I hope
+you enjoyed this video. If you did, like, share, subscribe, leave us a comment. If you have any questions,
+leave us a comment. Um, if you want to get your hands on those wonderful um, downloads, then there'll be a
+membersonly version of this video that go out, which will be identical to this one, but it will contain a link to the
+downloads for those packs. Basically, the the uh the cheat sheets for you to
+print off and use in your games with the next missions. as they as this
+develops, the downloads will get more and more detailed with more and more information in them and army lists and
+suggestions and stuff like that. So, if you are learning the game and you are finding the way that we do it useful and
+helpful, then maybe consider becoming a member or joining on Patreon because that's where you'll get all the good stuff. But for now, thank you so much
+for watching and we will see you all again soon. Goodbye.
