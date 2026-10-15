@@ -1,5 +1,7 @@
 # Terrain and Scenery Structures
 
+> **N5.3 change (September 2026):** Special Terrain setup terminology was corrected from **“Difficult Movement”** to **“Difficult Terrain.”**
+
 Main Sections
 
 Types of Terrain | Difficult Terrain | Saturation | Visibility Conditions | Scenery Structures
@@ -13,17 +15,11 @@ Special Terrain zones are areas of the battlefield with special game rules. Play
 Special Terrain rules are an easy way to spice up your Infinity games with new tactical challenges, and create interesting, asymmetrical battlegrounds.
 
 - Mark Special Terrain areas when you set up the game table, before the game starts.
-
 - These areas must have well-defined, recognizable limits whether they are represented by templates, pieces of scenery, or any other means.
-
 - In game terms, Special Terrain areas have infinite height unless otherwise specified.
-
 - Players must discuss and agree on the specific characteristics of each Special Terrain area.
-
-- When preparing the game table, the players must assign the characteristics that define each Special Terrain area: Difficult Movement, Saturation, Visibility Conditions and Type of Terrain.
-
+- When preparing the game table, the players must assign the characteristics that define each Special Terrain area: **Difficult Terrain**, Saturation, Visibility Conditions and Type of Terrain.
 - Each Special Terrain must have the Type of Terrain characteristic and at least one other characteristic.
-
 - In Infinity, the Area of Effect of a Special Terrain zone is the area in where its special effects are applied. Any Trooper in Silhouette contact with a Special Terrain zone, or whose base or Silhouette Template is covered at least partially by a Special Terrain zone, is equally affected by the Effects of the zone.
 
 ## Characteristics of the Terrain
@@ -34,45 +30,23 @@ See Types of Terrain, Difficult Terrain, Saturation, and Visibility Conditions.
 
 ## Special Terrain Suggestions and Examples
 
-| Special Terrain Suggestions and Examples |
-
-| --- |
-
 | EXAMPLE | TYPE OF TERRAIN | DIFFICULT TERRAIN | VISIBILITY CONDITIONS | SATURATION ZONE |
-
+| --- | --- | --- | --- | --- |
 | Beach | Aquatic | Yes | -- | No |
-
 | Open Sea | Aquatic | Yes | -- | No |
-
 | Swamp | Aquatic | Yes | -- | Yes |
-
 | Rocky Ground | Desert | Optional | -- | Yes |
-
 | Sand Dunes | Desert | Yes | -- | No |
-
 | Low Mountain or Steep Hills | Mountain | -- | -- | No |
-
 | Artic Plains | Mountain | Optional | -- | No |
-
 | Mid-Mountain | Mountain | Yes | Low Visibility | No |
-
 | High Mountain | Mountain | Yes | Low Visibility | Yes |
-
 | Woods | Jungle | Optional | Low Visibility | Yes |
-
 | Jungle | Jungle | Yes | Poor Visibility | Yes |
-
 | Dense Jungle | Jungle | Yes | Poor Visibility | Yes |
-
 | Primeval Forest | Jungle | Yes | Zero Visibility | Yes |
-
 | Zero-G | Zero-G | Yes | -- | No |
-
 | Storm | Aquatic/ Desert/ Mountain/ Jungle | -- | Increases Visibility Conditions by one level | -- |
-
 | Engine Room | Optional Zero-G | Yes if Zero-G | Low Visibility | Yes |
-
 | Generator Room | Optional Zero-G | Yes if Zero-G | White Noise | Yes |
-
 | Energy Core Room | Optional Zero-G | Yes if Zero-G | Low Visibility + White Noise | -- |
-
