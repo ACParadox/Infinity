@@ -332,7 +332,7 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ### Team Crux Father-Knights
 
-**ID 1815 · AVA 1 · HI** — `MOV 15-5 | CC 22 | BS 14 | PH 14 | WIP 13 | ARM 5 | BTS 6 | W 2 | S 2`. Albedo (-6), Martial Arts L2, BS Attack (+1SD), Berserk, Natural Born Warrior, Specialist Operative, Stealth, Religious Troop.
+**ID 1815 · AVA 1 · HI** — `MOV 15-5 | CC 22 | BS 14 | PH 14 | WIP 13 | ARM 5 | BTS 6 | W 2 | S 2`. Albedo (-6), Martial Arts L2, BS Attack (+1SD), Berserk, Courage, Specialist Operative, Stealth, Religious Troop.
 
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
@@ -345,7 +345,7 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ### Fusilier Indigo Bipandra
 
-**ID 46 · AVA 1 · LI** — `MOV 10-10 | CC 17 | BS 12 | PH 11 | WIP 13 | ARM 2 | BTS 3 | W 1 | S 2`. Dodge, Immunity (Shock), Doctor, MediKit (+1B).
+**ID 46 · AVA 1 · LI** — `MOV 10-10 | CC 17 | BS 12 | PH 11 | WIP 13 | ARM 2 | BTS 3 | W 1 | S 2`. Doctor (ReRoll -3), Dodge (+2.5), Immunity (Shock), MediKit (+1B).
 
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
@@ -506,7 +506,7 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 ### Redeye Close Air Support Squad
 
-**ID 1816 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 14 | PH 13 | WIP 13 | ARM 6 | BTS 6 | STR 2 | S 7`. Aerial, Courage, Mimetism (-6), Remote Presence, Sensor, No Cover, Super-Jump (Jet Propulsion), Tech-Recovery, Terrain (Total), enhanced Dodge/GizmoKit.
+**ID 1816 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 14 | PH 13 | WIP 13 | ARM 6 | BTS 6 | STR 2 | S 7`. Aerial, Courage, Dodge (-3), GizmoKit (PH=14), Mimetism (-6), Remote Presence, Super-Jump (Jet Propulsion), Terrain (Total), No Cover, Tech-Recovery, Sensor.
 
 | Opt | Pts | SWC | Loadout |
 |---:|---:|---|
@@ -650,15 +650,17 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ### Fireflies Clandestine Demo Squad
 
-**ID 1809 · AVA 2 · MI** — `MOV 10-10 | CC 17 | BS 13 | PH 11 | WIP 13 | ARM 2 | BTS 6 | W 1 | S 2`. Albedo (-6), Combat Instinct, Immunity (Shock), Super-Jump, Terrain (Total).
+**ID 1809 · AVA 2 · MI** — `MOV 10-10 | CC 17 | BS 13 | PH 11 | WIP 13 | ARM 2 | BTS 6 | W 1 | S 2`. Albedo, BS Attack (SR-1), Immunity (Shock), Stealth, NCO, Terrain (Total).
 
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
-| 1 | 27 | 0 | Breaker Combi Rifle, Light Shotgun, E/M Mine, Pistol, CCW |
-| 2 | 29 | 1 | Spitfire, Pistol, CCW |
-| 3 | 29 | 0.5 | Breaker Combi Rifle, Light Shotgun, Pitcher, Pistol, CCW; Hacking Device |
-| 4 | 27 | 0 | Breaker Combi Rifle, Light Shotgun, Pitcher, Pistol, CCW; Killer Hacking Device |
-| 5 | 25 | 0 | Breaker Combi Rifle, Light Shotgun, Flash Pulse, Pistol, CCW; Forward Observer |
+| 1 | 24 | 1.5 | Heavy Rocket Launcher, D-Charges, AP Mine, Assault Pistol, CCW |
+| 2 | 19 | 0 | SMG, Panzerfaust, D-Charges, Pistol, CCW; Deployable Repeater |
+| 3 | 23 | 0 | SMG, Panzerfaust, D-Charges, AP Mine, Pistol, CCW; Chain of Command |
+| 4 | 23 | 0 | SMG, Panzerfaust, D-Charges, AP Mine, Pistol, CCW; Deactivator, GizmoKit, Engineer |
+| 5 | 24 | 0 | SMG, Panzerfaust, D-Charges, AP Mine, Armed Turret (Marksman Rifle), Pistol, CCW; Minelayer |
+| 6 | 25 | 0 | Combi Rifle, Panzerfaust, D-Charges, AP Mine, Pistol, CCW; MediKit, Paramedic |
+| 7 | 24 | 0.5 | SMG, Panzerfaust, D-Charges, AP Mine, Pistol, CCW; Hacking Device |
 
 ### Scarecrows Active Recon Group
 
