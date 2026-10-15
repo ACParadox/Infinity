@@ -1,5 +1,7 @@
 # Guts Roll
 
+> **N5.3 change (September 2026):** When checking enemy LoF or Area of Effect for a failed Guts Roll, enemy LoF is checked **only from the positions the Enemy or Enemies actually attacked from**, and not from other positions they occupied during the Order.
+
 Combat Module
 
 When Troopers survive a successful Attack, it means their body armor took the brunt of the impact, keeping them from serious injury. This triggers a primal fear of death, and survival instincts kick in. The Trooper's survival instincts can force them to recoil from danger and dive for cover.
@@ -18,7 +20,7 @@ When Troopers survive a successful Attack, it means their body armor took the br
 
 - If the WIP Roll is failed, it is compulsory to perform the first of these options that the Trooper can complete: The Trooper must move up to 2 inches to completely leave: The LoF of the Enemy or Enemies (for example, in the case of a Coordinated Order, or multiple AROs ) that have performed Attacks against the Trooper. The danger zone or Area of Effect of Attacks that did not require LoF. If this is not possible, the Trooper must move up to 2 inches to gain Total or Partial Cover from all attackers. If the two previous options are not possible, the Trooper must go Prone, facing in any direction its player chooses
 
-- Check the enemy LoF or Area of Effect from the Trooper's final position at the end of the Order, when the Guts Roll is made.
+- When checking the enemy LoF or Area of Effect, the enemy LoF is only checked from the positions that the Enemy or Enemies attacked from, and no other positions.
 
 - When checking the enemy's LoF or Area of Effect, if the Trooper is already outside them and the Guts Roll is failed, the Trooper enters Prone State, facing in a direction of the player's choice.
 
@@ -100,7 +102,7 @@ Tactical uses of intentional failure:
 - Drop Prone to deny further AROs
 - Break enemy firelanes safely
 - Reposition into Partial or Total Cover
-'
+
 This is NOT considered voluntary movement and:
 - Generates no AROs
 - Does not trigger Mines, Perimeter Weapons, or Deployables
@@ -111,15 +113,14 @@ This is NOT considered voluntary movement and:
 
 When failing Guts, the Trooper MUST attempt the following IN ORDER:
 
-1. Leave all enemy LoF or Area of Effect using 2 inch movement, note that going prone to leave LoF can satisfy this as well.
-2. If impossible, gain Partial or Total Cover from ALL attackers
-3. If still impossible, go Prone
+1. Leave all enemy LoF or Area of Effect using 2 inch movement, checking LoF only from the positions those enemies attacked from.
+2. If impossible, gain Partial or Total Cover from ALL attackers.
+3. If still impossible, go Prone.
 
 You cannot choose between these freely.
 
 Important nuance:
-- If you are already outside LoF/AoE when Guts is checked,
-  failing Guts forces you Prone immediately.
+- If you are already outside the relevant LoF/AoE when Guts is checked, failing Guts forces you Prone immediately.
 
 
 **[UNOFFICIAL COMMENT]**
