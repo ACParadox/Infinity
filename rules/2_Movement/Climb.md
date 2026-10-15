@@ -1,5 +1,7 @@
 # Climb
 
+> **N5.3 change (September 2026):** A Trooper **performing the Climb Skill, or holding onto a vertical surface, cannot benefit from Partial Cover MODs**. This replaces the older broader wording that simply referred to being “on a vertical surface.”
+
 Movement Module
 
 Common Skills
@@ -37,7 +39,7 @@ Players must check the Requirements of this Skill when declaring it.
 
 - A Trooper who is Climbing or holding onto a vertical surface and becomes Unconscious will place the corresponding State Token beside them as usual. Even while climbing, Unconscious Troopers are still in Prone State, except for those Unit Types that cannot enter Prone State.
 
-- A Trooper who is on a vertical surface cannot benefit from Partial Cover MODs.
+- A Trooper performing the Climb Skill, or holding onto a vertical surface, cannot benefit from Partial Cover MODs.
 
 A Trooper in the Reactive Turn who is holding onto a vertical surface cannot declare an ARO. The reason for this is that, while on a vertical surface, the only available Skill is Climb, and Climb is a Long Skill that cannot be used in the Reactive Turn.
 
@@ -102,10 +104,9 @@ Strategic implication:
 - Ending an Order while still on the wall is extremely risky unless the Trooper is totally out of LoF.
 
 **[UNOFFICIAL COMMENT]**
-## Partial Cover Is Never Gained While Climbing
+## Partial Cover While Climbing
 
-A Trooper on a vertical surface:
-- Never benefits from Partial Cover MODs.
+Under N5.3, a Trooper **performing Climb or holding onto a vertical surface** cannot benefit from Partial Cover MODs.
 
 This applies even if:
 - The Trooper is barely visible.
