@@ -17,8 +17,11 @@ The list-building strategy notes are split by related subject so individual topi
 - [Lieutenant and command structure](list-building/lieutenant-and-command-structure.md)
   - cheap Lieutenant + identical-profile decoy + NCO
   - protected/marker-state Lieutenants
+  - Lieutenant WIP and same-WIP identity ambiguity
   - Strategos L1/L2
   - active Lieutenant + Chain of Command
+  - Chain of Command ambiguity and redundancy
+  - Loss-of-Lieutenant resilience and when Chain of Command matters less
   - apex Lieutenant without Chain of Command
   - Inspiring Leadership + Irregular troops
   - Lieutenant (+1 Order)
