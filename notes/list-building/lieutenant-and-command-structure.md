@@ -8,6 +8,25 @@ A useful default rule is:
 
 Mid-cost Lieutenants with no important advantage are often unattractive. They cost too much to be efficient decoys or cheerleaders, but may still be too fragile or too mediocre to justify active use.
 
+High WIP is useful on a Lieutenant because the Lieutenant's WIP is used for the Initiative Roll, but **WIP alone should usually be a secondary consideration rather than the main reason to choose a Lieutenant**. Command structure, Order conversion, survivability, identity protection, SWC economy, and the list's vulnerability to Loss of Lieutenant are usually more important.
+
+## WIP and Lieutenant identity ambiguity
+
+The Lieutenant's identity is Private Information, but the Lieutenant's **WIP is Open Information during the Initiative Roll**. This creates an additional list-building consideration beyond simply choosing the highest-WIP Lieutenant.
+
+If several different deployed units could legally be the Lieutenant and they all have the **same WIP**, revealing the Lieutenant WIP for the Initiative Roll does not narrow the identity very much. This can create useful uncertainty even when the possible Lieutenant candidates are not identical models.
+
+This becomes more valuable when the list also avoids revealing the Lieutenant through play:
+
+- do not spend the Lieutenant Order directly unless there is a good reason;
+- use NCO to consume the Lieutenant resource without activating the Lieutenant;
+- use protected or Marker-state candidates where available;
+- deploy several plausible Lieutenant candidates in positions consistent with being the real Lieutenant.
+
+An identical-profile decoy is the strongest form of this, but it is not the only form. **Different units with the same WIP can still contribute to Lieutenant ambiguity** if their profiles and deployment make them credible candidates.
+
+Conversely, if the plausible Lieutenant candidates have different WIP values, the Open WIP used for the Initiative Roll may eliminate some candidates immediately. This does not make those Lieutenant options bad, but it reduces the protection gained from identity uncertainty.
+
 ## Preferred Lieutenant architectures
 
 ### Cheap Lieutenant + identical decoy + NCO
@@ -86,6 +105,24 @@ This lets the Lieutenant be used more aggressively without risking the entire ne
 
 The downside is package cost: an expensive Lieutenant plus a dedicated Chain of Command model can consume a lot of points. Prefer Chain of Command profiles that also provide useful specialist, support, or combat value.
 
+### Chain of Command ambiguity and redundancy
+
+The identity of a Chain of Command trooper is **Private Information**. This means Chain of Command can provide more than simple insurance: it can also create uncertainty for an opponent trying to dismantle the command structure.
+
+If several units on the table could plausibly be Chain of Command, the opponent may not know which one must be removed before attempting a Lieutenant assassination. This is useful even when only one of those candidates actually has Chain of Command.
+
+The uncertainty becomes stronger when:
+
+- several different units have plausible Chain of Command profiles;
+- the Chain of Command profile is not visually obvious from equipment;
+- the list contains more than one actual Chain of Command carrier;
+- the likely carriers are spread apart rather than vulnerable to the same attack run;
+- the Lieutenant itself is also ambiguous.
+
+Therefore, evaluate **command ambiguity as a combined system**. A hidden Lieutenant plus an unknown Chain of Command carrier is substantially harder to attack than a command structure where both pieces are obvious.
+
+Multiple actual Chain of Command troopers can also provide redundancy, though the extra cost should still be justified by their other roles. A second useful specialist or combat piece that happens to carry Chain of Command is much easier to justify than a second model bought only as backup insurance.
+
 ### Extremely strong/mobile active Lieutenant without Chain of Command
 
 Chain of Command is preferred for aggressive Lieutenants, but it is not mandatory in every case.
@@ -101,6 +138,32 @@ An apex Lieutenant can sometimes justify operating without Chain of Command when
 This is a conscious risk choice. The benefit is avoiding the Chain of Command tax and allowing more points to remain in the active plan.
 
 The stronger and safer the Lieutenant is, the more reasonable this becomes. A merely "good" mid-cost attacker usually does not justify the same risk.
+
+### Loss-of-Lieutenant resilience and when Chain of Command matters less
+
+Do not evaluate Chain of Command only from the probability that the Lieutenant dies. Also evaluate **how damaging a Loss of Lieutenant turn would actually be to this specific list**.
+
+In Loss of Lieutenant, the army's troopers normally become Irregular for the turn. Some lists suffer enormously because they rely on pooling many Regular Orders into one or two attack pieces. Other lists already contain many models that remain productive with their own individual Orders.
+
+Chain of Command becomes less mandatory when the list contains a large amount of **Loss-of-Lieutenant resilience**, such as:
+
+- several **Warhorse** troopers, which remain Regular during Loss of Lieutenant;
+- many troops that are already Irregular, so the situation does not meaningfully worsen their normal Order access;
+- many decentralized pieces that can accomplish useful tasks with one personal Order;
+- Minelayers or mine carriers that can reposition and deploy a Mine with their own Order;
+- useful Speculative Fire pieces that can spend an entire personal Order on a meaningful attack;
+- warbands, skirmishers, disposable attack pieces, or specialists that commonly operate on one or two Orders anyway;
+- Tactical Awareness or other personal Order sources that continue to give specific troopers useful activations.
+
+This does **not** make Loss of Lieutenant harmless. The main Order pool is still badly degraded, coordinated attack plans become much harder, and expensive pieces that normally consume six or eight pooled Orders may become almost unusable.
+
+But the strategic cost varies sharply by list. A force with several Warhorse models, Irregular troops, mines, Speculative Fire, and other decentralized one-Order actions may still have a productive Loss-of-Lieutenant turn. Such a list can rationally spend fewer points on Chain of Command than a highly centralized list built around one main Regular Order pool.
+
+A useful question is:
+
+> **If the Lieutenant dies before my next turn, how many of my models can still do something genuinely useful with only their own Order?**
+
+The higher that number is, the lower the effective Chain of Command tax should feel.
 
 ### Passive Lieutenant with a useful second role
 
@@ -129,6 +192,7 @@ Useful forms include:
 - Camouflage/Hidden Deployment where legal;
 - Holoprojector or similar identity confusion;
 - multiple visually plausible Lieutenant candidates;
+- multiple plausible candidates sharing the same WIP;
 - deployment positions that make the real Lieutenant difficult to distinguish or reach.
 
 This is especially valuable when the Lieutenant is passive and the list can exploit its Order through NCO or another command mechanic.
@@ -211,12 +275,15 @@ When selecting a Lieutenant package:
 
 1. **If a good NCO exists**, cheap/protected Lieutenant + decoy where appropriate + NCO is often the first option to test.
 2. **If no useful NCO exists**, prefer Strategos or an active Lieutenant that can productively spend its own Order.
-3. **If using an aggressive Lieutenant**, try to include Chain of Command unless the Lieutenant is exceptionally durable/mobile or the package cost is prohibitive.
+3. **If using an aggressive Lieutenant**, try to include Chain of Command unless the Lieutenant is exceptionally durable/mobile, the package cost is prohibitive, or the list is unusually resilient to Loss of Lieutenant.
 4. **If using a cheap conventional Lieutenant**, add one identical-profile decoy when practical.
-5. **If the Lieutenant has +1 Order**, prioritize command structures that can actually exploit both Orders.
-6. **If an LT profile offers an SWC discount/rebate**, include that value when comparing otherwise similar choices.
-7. **If Inspiring Leadership is available with several good Irregular troops**, evaluate the entire list around it rather than treating it as a small profile upgrade.
-8. **Prefer command profiles that double-duty.** Counterintelligence, specialist capability, durable chassis, NCO synergy, Strategos, Inspiring Leadership, +1 Order, Marker protection, or SWC rebates all make a Lieutenant slot more efficient.
+5. **If several plausible Lieutenant candidates share the same WIP**, value the additional identity ambiguity, particularly if NCO lets the real Lieutenant remain passive.
+6. **Treat Chain of Command identity as part of command concealment.** Multiple plausible carriers can make Lieutenant hunting substantially less reliable.
+7. **Judge Chain of Command by the cost of a Loss-of-Lieutenant turn, not just the chance of losing the Lieutenant.** Warhorse, Irregular troops, and decentralized one-Order actions can reduce that cost.
+8. **If the Lieutenant has +1 Order**, prioritize command structures that can actually exploit both Orders.
+9. **If an LT profile offers an SWC discount/rebate**, include that value when comparing otherwise similar choices.
+10. **If Inspiring Leadership is available with several good Irregular troops**, evaluate the entire list around it rather than treating it as a small profile upgrade.
+11. **Prefer command profiles that double-duty.** Counterintelligence, specialist capability, durable chassis, NCO synergy, Strategos, Inspiring Leadership, +1 Order, Marker protection, identity ambiguity, or SWC rebates all make a Lieutenant slot more efficient.
 
 ## Profiles to be skeptical of
 
@@ -230,11 +297,13 @@ Be skeptical when the Lieutenant:
 - has no Strategos/Inspiring Leadership/extra Order;
 - provides no meaningful SWC advantage;
 - is not durable enough to be an apex Lieutenant;
-- lacks Marker protection or strong identity concealment;
+- lacks Marker protection or meaningful identity ambiguity;
 - offers no useful passive role.
+
+A high WIP is a useful bonus, especially for Initiative, but **high WIP by itself does not rescue an otherwise weak Lieutenant package**.
 
 In practice, Lieutenants often cluster toward one of three ends:
 
-- **cheap and hidden/protected**;
+- **cheap and hidden/protected**, ideally with credible identity ambiguity;
 - **command-enhancing** through Strategos, Inspiring Leadership, +1 Order, Counterintelligence, NCO support, or SWC economy;
 - **apex active pieces** that can directly exploit the Lieutenant resource.
