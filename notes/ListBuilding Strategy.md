@@ -52,6 +52,20 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [Turn planning and Order budgeting](list-building/turn-planning-and-order-budgeting.md)
+  - establish a scoring floor before attacking
+  - budget setup, approach, breach, exploitation, scoring, and exit separately
+  - reserve retry and contingency Orders for likely failures
+  - define attack caps, branch points, and stop conditions before rolling
+  - spend restricted Orders before flexible Regular Orders when appropriate
+  - use Tactical Awareness and similar personal Orders for development and exit
+  - preserve flexible Orders while uncertainty remains high
+  - Turn 1 development vs Turn 2 conversion vs Turn 3 scoring
+  - reverse-plan the final turn from the required board state
+  - separate breach cost from exploitation budget
+  - budget independently by Combat Group
+  - recalculate after major successes, failures, and reveals
+
 - [List robustness and threat coverage](list-building/list-robustness-and-threat-coverage.md)
   - primary, secondary, and emergency answers
   - orthogonal redundancy
