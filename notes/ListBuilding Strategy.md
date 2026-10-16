@@ -52,6 +52,21 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [List robustness and threat coverage](list-building/list-robustness-and-threat-coverage.md)
+  - primary, secondary, and emergency answers
+  - orthogonal redundancy
+  - long-range and mid/short-range attack coverage
+  - anti-Camo and anti-MSV tools
+  - anti-HI/TAG and anti-Hacker coverage
+  - hacking defence
+  - DZ defence and midfield presence
+  - Specialist and scoring redundancy
+  - backup attack pieces and Lieutenant planning
+  - recovery and post-loss functionality
+  - role compression
+  - failure-mode stress tests
+  - Green / Yellow / Red coverage audit
+
 - [Deployment, Initiative, and Reserve strategy](list-building/deployment-initiative-and-reserve-strategy.md)
   - Turn-Zero decision states
   - keeping Initiative vs keeping Deployment
