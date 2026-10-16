@@ -120,6 +120,21 @@ The list-building strategy notes are split by related subject so individual topi
   - practical decision matrix and deployment checklist
   - current video/community research references
 
+- [Opponent-plan identification and matchup planning](list-building/opponent-plan-identification-and-matchup-planning.md)
+  - identify primary and secondary attackers
+  - map the Lieutenant shell, hacking network, DZ-strike package, scoring plan, and recovery infrastructure
+  - predict the opponent's ideal Turn 1 in one sentence
+  - decompose plans into access, enabler, breach, payoff, and extraction
+  - find the cheapest dependency or choke point to disrupt
+  - defend routes and first meaningful destination squares
+  - identify what the opponent most wants to attack
+  - predict the secondary-plan pivot
+  - build layered counter packages instead of relying on one hard counter
+  - account for private information and likely reserve pieces
+  - create Order debt rather than demanding absolute denial
+  - plan the counterattack around the attacker's likely ending square
+  - MISSION → PLAN → ENGINE → ROUTE → PAYOFF → PIVOT checklist
+
 - [Defensive architecture and the Reactive Turn](list-building/defensive-architecture-and-reactive-turn.md)
   - whole-table defence rather than only DZ defence
   - layered information, approach, long-range, mid-range, breach, core, and recovery defence
