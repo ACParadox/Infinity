@@ -66,6 +66,20 @@ The list-building strategy notes are split by related subject so individual topi
   - mission value of otherwise mediocre combat profiles
   - tournament-packet analysis
 
+- [Target priority and attack sequencing](list-building/target-priority-and-attack-sequencing.md)
+  - attack the opponent's plan rather than merely expensive models
+  - plan enablers, support, Orders, Specialists, and command targets
+  - clearing only relevant AROs
+  - setup sequencing: Smoke, Pitchers, Spotlight, Sensor, hacking
+  - easy-target attack ladders that open harder targets
+  - choosing the cheapest appropriate attacker
+  - preserving marker state and hidden information
+  - marginal Order-efficiency stop rules
+  - budgeting mission and exit Orders before attacking
+  - end-turn repositioning and shaping the opponent's next activation
+  - dependency chains and recovery denial
+  - what needs to die now vs what can be ignored
+
 - [Speculative Fire](list-building/speculative-fire.md)
   - bypassing setup and defensive MOD stacks
   - positional pressure and forced responses
