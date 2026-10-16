@@ -66,6 +66,14 @@ The list-building strategy notes are split by related subject so individual topi
   - exit planning
   - Airborne Deployment
 
+- [DZ strikes and DZ defense](list-building/dz-strikes-and-dz-defense.md)
+  - Parachutist (Deployment Zone), Combat Jump, deep Infiltration, and Impersonation
+  - motorcycles, Vehicles, Super-Jump, Climbing Plus, and other high-mobility penetration
+  - vision-control and close-combat breach packages
+  - 360° Visor, Biometric Visor, mines, hacking, templates, and layered defence
+  - DZ-strike/counter matrix
+  - modular DZ-defense block checklist
+
 - [Movement, positioning, and vision control](list-building/movement-positioning-and-vision-control.md)
   - slicing the pie
   - Dodge movement, Cautious Movement, Climb, and Jump
