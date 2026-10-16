@@ -10,6 +10,9 @@ The list-building strategy notes are split by related subject so individual topi
   - functional role vs troop classification
   - medium-cost profiles
   - toolbox units and multipurpose characters
+  - Fireteam positioning and deliberately leaving the team
+  - Fireteam Leader selection
+  - TinBot sharing and Fireteam support
 
 - [Lieutenant and command structure](list-building/lieutenant-and-command-structure.md)
   - cheap Lieutenant + identical-profile decoy + NCO
@@ -39,6 +42,15 @@ The list-building strategy notes are split by related subject so individual topi
   - motorcycles and fast attackers
   - exit planning
   - Airborne Deployment
+
+- [Movement, positioning, and vision control](list-building/movement-positioning-and-vision-control.md)
+  - slicing the pie
+  - Dodge movement, Cautious Movement, Climb, and Jump
+  - reactive-declaration forks
+  - Camouflage-marker forks
+  - Hidden Deployment roles
+  - Smoke + MSV
+  - vision-control slicing and objective bypass
 
 - [REMs](list-building/rems.md)
   - Flash Pulse / Repeater bots
