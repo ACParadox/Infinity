@@ -96,6 +96,25 @@ The list-building strategy notes are split by related subject so individual topi
   - practical decision matrix and deployment checklist
   - current video/community research references
 
+- [Defensive architecture and the Reactive Turn](list-building/defensive-architecture-and-reactive-turn.md)
+  - whole-table defence rather than only DZ defence
+  - layered information, approach, long-range, mid-range, breach, core, and recovery defence
+  - serial defence and defensive gates
+  - crossfires without exposing everything to one attacker
+  - protecting ARO pieces from pie-slicing
+  - deliberately weak AROs and sacrificial speed bumps
+  - hidden AROs and marker-state area control
+  - choosing Dodge instead of shooting
+  - Guts positioning, escape squares, and recovery geometry
+  - Suppressive Fire networks and end-turn architecture
+  - defending objectives and interaction spaces rather than irrelevant lanes
+  - combining guns, hacking, templates, deployables, and information threats
+  - Smoke/Eclipse/White Noise-resistant area denial
+  - protecting support structure after a breach
+  - graceful degradation after losing a primary ARO
+  - preserving a counterpunch
+  - route analysis and whole-table defensive audit
+
 - [Mission, scoring, and Specialist strategy](list-building/mission-scoring-and-specialist-strategy.md)
   - Specialist quantity and independent scoring paths
   - fast vs infiltrating vs durable Specialists
