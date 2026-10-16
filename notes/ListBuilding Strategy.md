@@ -26,6 +26,16 @@ The list-building strategy notes are split by related subject so individual topi
   - Counterintelligence
   - general Lieutenant-selection heuristics
 
+- [Order efficiency](list-building/order-efficiency.md)
+  - Order generation and Order density
+  - Combat Group and Order flexibility
+  - Command Token efficiency
+  - activation compression
+  - movement and deployment efficiency
+  - success-per-Order and support efficiency
+  - Turn-0 setup and network value
+  - points/slot efficiency heuristics
+
 - [Cheap, midfield, and support troops](list-building/cheap-midfield-and-support-troops.md)
   - weak/line troops
   - cheap Regular Orders
