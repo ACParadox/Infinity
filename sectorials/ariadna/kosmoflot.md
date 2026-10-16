@@ -1,0 +1,1063 @@
+---
+schema_version: 1
+reference_type: sectorial
+status: current
+sectorial_id: 306
+sectorial_slug: kosmoflot
+sectorial_name: Kosmoflot
+parent_faction: Ariadna
+rules_baseline: N5.3
+army_source_version: "7.26246.158"
+army_data_changed_on: 2026-09-03
+infinitydb_commit: "4e2662be3f43387fbae42b3790a711b3e98570c4"
+verified_on: 2026-10-15
+coverage: "36 standard logical units; optional Intel Spec-Ops and Ariadna Team-Ops hooks; complete standard Fireteam chart; linked L'Équipe Argent reinforcement Fireteam chart"
+---
+
+# Kosmoflot
+
+This file is the repository-native factual reference for **Kosmoflot (Army ID 306)** under the N5.3 baseline. It records the standard roster, profiles/loadouts, AVA, points/SWC, Fireteam legality, optional game-mode hooks, and the linked **L'Équipe Argent (Army ID 399)** Reinforcement Fireteam chart.
+
+The structured Army source is pinned to revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `d4329bb596ffea5d568eb2435f74366c305a7630`. InfinityDB commit `4e2662be3f43387fbae42b3790a711b3e98570c4` is the normalized identity/reference baseline. Parenthetical Fireteam comments are preserved as `Counts as` labels. Structured `required: true` rows are treated as a required-choice set rather than as an instruction that every marked troop type must be present simultaneously.
+
+## Sectorial summary
+
+| Field | Value |
+|---|---|
+| Sectorial | Kosmoflot |
+| Parent faction | Ariadna |
+| Army ID | 306 |
+| Rules baseline | N5.3 |
+| Main roster units | 36 logical units |
+| Optional game-mode units | Ariadna Team-Ops; Intel Spec-Ops |
+| Linked Reinforcement roster | L'Équipe Argent, Army ID 399 |
+| Fireteam chart | yes |
+
+InfinityDB's current identity summary describes Kosmoflot as an expeditionary Ariadnan force mixing veterans from several nations with mobile assault units, close-combat threats, and flexible support.
+
+## Fireteam chart limits and sectorial-level restrictions
+
+| Constraint | Value / wording |
+|---|---|
+| Core | up to 1 |
+| Haris | up to 1 |
+| Duo | source sentinel `256`; treated as unrestricted by the sectorial chart, subject to normal Fireteam rules |
+| Standard Fireteam rows | Rokots; Kosmoflot; Kosmosoldats; Chernobog; Varangian Guard |
+| Wildcards | Volkolak; Patcher; Strannik; The Unknown Ranger; Cadin “FirstStrike” Donn |
+| Main/Reinforcement mixing | No source-defined mixing exception; keep the charts separate |
+| Required-choice semantics | In the Kosmoflot Fireteam row, `SCOT GUARD FTO` and `FRONTOVIK` are both source-marked `required: true`; this is normalized as a required-choice set: at least one qualifying member from that set is required |
+| Scot Guard restriction | Only loadouts explicitly named `SCOT GUARD FTO` qualify for the Kosmoflot Fireteam row; non-FTO loadouts 8 and 9 do not |
+
+## Unit roster index
+
+| Unit ID | Unit | AVA | Troop type | Classification | Regularity | Notes |
+|---:|---|---:|---|---|---|---|
+| 1518 | Rokots | 5 | LI | Line Troops | Regular | Rokot Fireteam anchor |
+| 243 | Kazak Doktor | 2 | LI | Support Troops | Regular | Doctor; Rokot Fireteam access |
+| 257 | Traktor Mul Unit | 2 | REM | Support Troops | Regular | Baggage / Guided support |
+| 1152 | Pavel Aleksei McMannus | 1 | SK | Character | Regular | — |
+| 1582 | Mekhaniks, Flight Engineers Corps | 2 | LI | Specialist Trained Troops | Regular | Engineer; counts as Rokot in FT-01 |
+| 1136 | Frontoviks, Separate Assault Battalion | 5 | LI | Veteran Troops | Regular | Access to FT-01, FT-02 and FT-03 |
+| 1461 | Varangian Guard | 4 | WB | Mercenary Troops | Regular + Impetuous | FT-05 anchor |
+| 1284 | 112, Emergency Service (Motorized) | 1 | LI | Support Troops | Regular | Doctor; Motorcycle |
+| 228 | Para-Commandos | 3 | LI | Specialist Trained Troops | Regular | — |
+| 1522 | Polaris Team | 2 teams | mixed | compound | Regular | Masha + Bearpode; same Combat Group |
+| 777 | The Unknown Ranger | 1 | MI | Character | Regular | Wildcard; Tactical Awareness |
+| 258 | Equipe Mirage-5 | 1 team | mixed | Character | mixed | Margot + Duroc compound team |
+| 50 | Warcors, War Correspondents | 1 | LI | Mercenary Troops | Irregular | Journalist |
+| 240 | Irmandinhos | 4 | WB | Line Troops | Irregular + Impetuous | Engineer |
+| 255 | 112, Emergency Service | 2 | LI | Support Troops | Regular | Loadout is named FTO but no standard Kosmoflot FT row grants access |
+| 1843 | Kibervolk Patrol | 2 teams | mixed | compound | Regular | Kibervolk + Dozer KVP; same Combat Group |
+| 1555 | Wolfgang Amadeus Wolff | 1 | WB | Character | Regular | FT-01 and FT-05 |
+| 1940 | Ioann Bann, Varangian Dog-Warrior | 1 | WB | Character | Irregular + Impetuous | FT-05; counts as Varangian |
+| 1584 | Chernobog Armored Detachment | 2 | TAG | Mechanized Troops | Regular + Tactical Awareness | FT-04 Duo |
+| 1585 | Patchers, Structural Response Team | 2 | HI | Specialist Trained Troops | Regular | Wildcard; counts as Rokot |
+| 1749 | Denma Connolly | 1 | WB | Character | Regular + Impetuous | FT-05; counts as Varangian |
+| 259 | William Wallace | 1 | WB | Character | Regular | FT-05; counts as Varangian |
+| 237 | 1st Highlanders S.A.S. | 3 | SK | Specialist Trained Troops | Regular | — |
+| 265 | Wardrivers, Mercenary Hackers | 1 | LI | Mercenary Troops | Regular | FT-01 |
+| 263 | Uxía McNeill | 1 | SK | Character | Regular | — |
+| 1520 | Volkolak Assault Troopers | 3 | HI | Elite Troops | Regular | Wildcard |
+| 1847 | Mekhamobilya Support Pilots | 1 | LI | Support Troops | Regular | FT-01; Chernobog pilot support |
+| 261 | The Scots Guards, 6th Caledonian Infantry Regiment | 5 | MI | Specialist Trained Troops | Regular | Only FTO loadouts enter FT-02 |
+| 1525 | Cadin “FirstStrike” Donn | 1 | WB | Character | Regular | Wildcard |
+| 1581 | Remontnikbot V-5 Elektronik | 2 | REM | Support / Peripheral | no independent order | Peripheral (Servant) |
+| 1588 | Raveneye Officers | 1 | LI | Support Troops | Regular | Forward Observer / Minelayer |
+| 1519 | Zenit-7 Detachment | 2 | LI | Elite Troops | Regular | Camouflage / Decoy |
+| 1583 | Strannik Outer Patrol | 2 | MI | Specialist Trained Troops | Regular | Wildcard |
+| 256 | Dozers, Field Engineers | 1 | LI | Support Troops | Regular | Engineer |
+| 248 | Highlander Caterans | 2 | LI | Specialist Trained Troops | Irregular | Camouflage (1 Use) |
+| 1521 | Armata-4 Proyekt “Kosmosoldat” | 2 | HI | Headquarters Troops | Regular | FT-03 anchor |
+
+### Optional game-mode entries
+
+| Unit ID | Unit | Coverage | Fireteam relevance |
+|---:|---|---|---|
+| 1929 | Ariadna Team-Ops | Team-Ops game mode | none in the standard chart |
+| 1915 | Intel Spec-Ops | Spec-Ops game mode | may join FT-01 Rokots, max 1; source comment `Spec-Ops` |
+
+Soldier-of-Fortune catalogue records exposed with no Kosmoflot faction membership are not part of this standard roster.
+
+## Unit details
+
+### Rokots
+
+**Unit ID:** 1518  
+**Slug:** `rokots`  
+**AVA:** 5  
+**Troop type:** LI  
+**Classification:** Line Troops
+
+#### Base profile
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 10 | 11 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills:** Courage.
+
+#### Loadouts
+
+| Profile ID | FTO | SWC | Points | Weapons / equipment | Skills / flags |
+|---:|---|---:|---:|---|---|
+| 1 | — | 0 | 8 | Chain Rifle, Light Shotgun, Pistol, CCW | — |
+| 4 | — | 0 | 9 | SMG, Grenades, D-Charges, Pistol, CCW | — |
+| 6 | — | 0 | 10 | SMG, Grenades, Flash Pulse, D-Charges, Pistol, CCW | Forward Observer |
+| 7 | — | 0 | 11 | SMG, Grenades, Pistol, CCW; MediKit | Paramedic |
+| 8 | — | 0 | 12 | Rifle, Light Shotgun, Pistol, CCW | Infiltration; Camouflage (1 Use) |
+| 9 | — | 0 | 10 | SMG, Grenades, D-Charges, Pistol, CCW | Infiltration; Camouflage (1 Use) |
+| 10 | — | 0 | 9 | SMG, Grenades, D-Charges, Pistol, CCW | Lieutenant |
+| 13 | — | 0 | 11 | SMG, Grenades, Pistol, CCW | Commlink (+2); Specialist Operative |
+
+### Kazak Doktor
+
+**Unit ID:** 243  
+**Slug:** `kazak-doktor`  
+**AVA:** 2  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 11 | 11 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills/equipment:** Doctor; MediKit.
+
+| Profile ID | SWC | Points | Weapons | Flags |
+|---:|---:|---:|---|---|
+| 1 | 0 | 12 | Rifle, Pistol, CCW | — |
+
+### Traktor Mul Unit
+
+**Unit ID:** 257  
+**Slug:** `traktor-mul`  
+**AVA:** 2  
+**Troop type:** REM  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 13 | 10 | 9 | 12 | 2 | 0 | 1 STR | 4 |
+
+**Skills/equipment:** Remote Presence; Courage; Baggage; ECM: Guided (-6).
+
+| Profile ID | SWC | Points | Weapons / equipment | Skills |
+|---:|---:|---:|---|---|
+| 1 | 0 | 5 | PARA CCW (-3); Deactivator | — |
+| 2 | 1 | 9 | Katyusha MRL, PARA CCW (-3) | BS Attack (Guided) |
+| 3 | 1 | 14 | Uragan MRL, PARA CCW (-3) | BS Attack (Guided); Total Reaction |
+
+### Pavel Aleksei McMannus
+
+**Unit ID:** 1152  
+**Slug:** `pavel-aleksei-mcmannus`  
+**AVA:** 1  
+**Troop type:** SK  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 23 | 12 | 12 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills:** Martial Arts L3; Surprise Attack (-3); Camouflage; Courage; Forward Deployment (+20); Mimetism (-3); Terrain (Total); Specialist Operative; Stealth; Frenzy; Berserk; Immunity (Shock).
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 33 | Ohotnik, D-Charges, Shock Mine, Boarding Pistol, AP+T2 CCW |
+
+### Mekhaniks, Flight Engineers Corps
+
+**Unit ID:** 1582  
+**Slug:** `mekhaniks-flight-engineers-corps`  
+**AVA:** 2  
+**Troop type:** LI  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 15 | 11 | 11 | 13 | 2 | 0 | 1 | 2 |
+
+**Skills/equipment:** Engineer; Terrain (Zero-G); Deactivator; GizmoKit.
+
+| Profile ID | SWC | Points | Weapons / equipment | Differences |
+|---:|---:|---:|---|---|
+| 1 | 0 | 20 | Rifle, D-Charges, Panzerfaust, Armed Turret (Adhesive Launcher Rifle), AP Heavy Pistol, CCW | — |
+| 2 | 0 | 19 | Boarding Shotgun, D-Charges, Heavy Pistol, PARA Mine, CCW | BS Attack (T2) |
+| 3 | 0 | 17 | SMG, D-Charges, E/M Mine, AP Heavy Pistol, CCW | Minelayer |
+
+### Frontoviks, Separate Assault Battalion
+
+**Unit ID:** 1136  
+**Slug:** `frontoviks-separate-assault-bat`  
+**AVA:** 5  
+**Troop type:** LI  
+**Classification:** Veteran Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 17 | 12 | 11 | 13 | 2 | 0 | 1 | 2 |
+
+**Skills:** Courage; Mimetism (-3); Warhorse.
+
+| Profile ID | SWC | Points | Weapons / equipment | Differences |
+|---:|---:|---:|---|---|
+| 1 | 0 | 21 | T2 Rifle, Assault Pistol, CCW | — |
+| 2 | 1 | 30 | AP Spitfire, Assault Pistol, CCW | — |
+| 3 | 1.5 | 19 | Heavy Rocket Launcher, Assault Pistol, CCW | — |
+| 6 | 0 | 26 | T2 Rifle, Panzerfaust, D-Charges, Assault Pistol, CCW; Deactivator | Engineer |
+| 7 | 0 | 23 | T2 Rifle, Assault Pistol, CCW; MediKit | Paramedic |
+| 8 | 0.5 | 28 | AP Sniper Rifle, Assault Pistol, CCW | MSV1 |
+| 9 | 0 | 21 | T2 Rifle, Assault Pistol, CCW | Lieutenant |
+
+### Varangian Guard
+
+**Unit ID:** 1461  
+**Slug:** `varangian-guard`  
+**AVA:** 4  
+**Troop type:** WB  
+**Classification:** Mercenary Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 23 | 10 | 14 | 13 | 2 | 0 | 1 | 2 |
+
+**Skills:** Berserk (+3); Impetuous; No Cover; Dogged; Religious Troop. **Orders:** Regular + Impetuous.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 10 | Chain Rifle, Heavy Pistol, AP CCW, Grenades, Smoke Grenades |
+| 3 | 0 | 13 | Boarding Shotgun, Smoke Grenades, Heavy Pistol, AP CCW |
+| 4 | 0 | 12 | SMG, Chain Rifle, Smoke Grenades, Heavy Pistol, AP CCW |
+| 5 | 0 | 13 | SMG, Chain-colt (+1B), Smoke Grenades, Heavy Pistol, AP CCW |
+| 6 | 0 | 13 | SMG, Chain Rifle, Smoke Grenades, Heavy Pistol, Trench-Hammer, AP CCW |
+
+### 112, Emergency Service (Motorized)
+
+**Unit ID:** 1284  
+**Slug:** `112-emergency-service-motorized`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 20-10 | 16 | 11 | 12 | 13 | 0 | 0 | 1 | 4 |
+
+**Skills/equipment:** Doctor; Courage; Mimetism (-3); Limited Cover; MediKit; Motorcycle.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 4761 | 0 | 19 | Light Shotgun, Smoke Grenade Launcher, Smoke Grenades, Boarding Pistol, CCW |
+
+### Para-Commandos
+
+**Unit ID:** 228  
+**Slug:** `para-commandos`  
+**AVA:** 3  
+**Troop type:** LI  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 12 | 11 | 14 | 2 | 3 | 1 | 2 |
+
+**Skills:** Mimetism (-3); Parachutist; Terrain (Zero-G).
+
+| Profile ID | SWC | Points | Weapons / equipment | Differences |
+|---:|---:|---:|---|---|
+| 1 | 0 | 18 | Rifle, Boarding Pistol, CCW | — |
+| 4 | 1 | 29 | AP Spitfire, Boarding Pistol, CCW | — |
+| 6 | 0 | 21 | Boarding Shotgun, Flash Pulse, D-Charges, Boarding Pistol, CCW | BS Attack (+1SD); Forward Observer |
+| 8 | 0 | 19 | SMG, D-Charges, Boarding Pistol, CCW; MediKit | Paramedic |
+
+### Polaris Team
+
+**Unit ID:** 1522  
+**Slug:** `polaris-team`  
+**AVA:** 2 teams  
+**Classification:** compound team
+
+A Polaris Team is composed of **1 Polaris Bearpode and 1 Masha**. Both must belong to the same Combat Group.
+
+#### Masha
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 11 | 11 | 13 | 2 | 0 | 1 | 2 |
+
+Masha component: **9 points**, Light Shotgun, Pistol, CCW.
+
+#### Polaris Bearpode
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 24 | 5 | 16 | 12 | 4 | 3 | 2 | 6 |
+
+**Skills:** Courage; Dogged; Climbing Plus; Immunity (ARM); No Cover; Frenzy; Berserk (+3); Dodge (+5).
+
+| Team option | SWC | Points | Bearpode weapons | Orders |
+|---|---:|---:|---|---|
+| POLARIS TEAM ALPHA | 0 | 32 | Chain Rifle (+1B), Trench-Hammer, AP CCW, Grenades, Smoke Grenades | 2 Regular |
+| POLARIS TEAM BETA | 0 | 40 | Heavy Shotgun, Chain-colt, Smoke Grenades, Trench-Hammer, AP CCW; Bearpode BS 11 | 2 Regular |
+
+### The Unknown Ranger
+
+**Unit ID:** 777  
+**Slug:** `the-unknown-ranger`  
+**AVA:** 1  
+**Troop type:** MI  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 23 | 13 | 12 | 13 | 4 | 0 | 1 | 2 |
+
+**Skills:** Martial Arts L1; Courage; Dodge (+2.5); Natural Born Warrior; Immunity (Shock); Mimetism (-3); Specialist Operative; Tactical Awareness; Stealth; NWI.
+
+| Profile ID | SWC | Points | Weapons | Orders |
+|---:|---:|---:|---|---|
+| 1 | 0 | 39 | Mk12, Chain-colt, Heavy Pistol, T2 CCW | Regular + Tactical |
+| 2 | 1 | 42 | AP Spitfire, Chain-colt, Heavy Pistol, T2 CCW | Regular + Tactical |
+
+### Equipe Mirage-5
+
+**Unit ID:** 258  
+**Slug:** `equipe-mirage-5`  
+**AVA:** 1 team  
+**Classification:** Character compound team
+
+#### Lieutenant Margot Berthier
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 14 | 12 | 13 | 3 | 3 | 1 | 2 |
+
+**Skills:** BS Attack (Shock); Immunity (Shock); Terrain (Total); Parachutist (Deployment Zone); Mimetism (-3); Specialist Operative; Immunity (IMM-B); Combat Instinct; Tactical Awareness; Dodge (+1SD); MediKit (PH=14).
+
+Margot component: **36 points**, AP Rifle, Grenade Launcher, Light Shotgun, D-Charges, Pistol, CCW; Regular + Tactical Awareness.
+
+#### Sergent Duroc
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 23 | 10 | 16 | 13 | 3 | 3 | 2 | 6 |
+
+**Skills:** Martial Arts L2; Courage; Dodge (+2.5); Parachutist (Deployment Zone); Super-Jump; Impetuous; Immunity (ARM); No Cover.
+
+Duroc component: **24 points**, Chain Rifle (+1B), Grenades, Smoke Grenades, AP CCW; Irregular + Impetuous.
+
+| Team option | SWC | Points | Orders |
+|---|---:|---:|---|
+| EQUIPE MIRAGE-5 (Margot & Duroc) | 2 | 60 | 1 Regular, 1 Irregular, 1 Tactical Awareness, 1 Impetuous |
+
+### Warcors, War Correspondents
+
+**Unit ID:** 50  
+**Slug:** `warcors`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Mercenary Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 11 | 9 | 11 | 13 | 0 | 0 | 1 | 2 |
+
+**Skills:** Journalist. **Order:** Irregular.
+
+| Profile ID | SWC | Points | Weapons | Difference |
+|---:|---:|---:|---|---|
+| 1 | 0 | 3 | Flash Pulse, Stun Pistol, PARA CCW (-3) | 360º Visor |
+| 2 | 0 | 3 | Flash Pulse, Stun Pistol, PARA CCW (-3) | Sixth Sense |
+
+### Irmandinhos
+
+**Unit ID:** 240  
+**Slug:** `irmandinhos`  
+**AVA:** 4  
+**Troop type:** WB  
+**Classification:** Line Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 21 | 10 | 14 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills/equipment:** Booty; Engineer; Impetuous; No Cover; Deactivator. **Orders:** Irregular + Impetuous.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 2 | 0 | 8 | Chain Rifle, D-Charges, Smoke Grenades, Pistol, AP CCW |
+| 3 | 0 | 14 | Boarding Shotgun, D-Charges, Smoke Grenades, Pistol, AP CCW |
+
+### 112, Emergency Service
+
+**Unit ID:** 255  
+**Slug:** `112-emergency-service`  
+**AVA:** 2  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 11 | 12 | 13 | 0 | 0 | 1 | 2 |
+
+**Skills/equipment:** Doctor; Courage; MediKit.
+
+| Profile ID | FTO | SWC | Points | Weapons |
+|---:|---|---:|---:|---|
+| 1 | `112 FTO` | 0 | 11 | Light Shotgun, Boarding Pistol, CCW |
+
+The loadout name contains `FTO`, but the pinned standard Kosmoflot Fireteam chart contains no row granting this unit Fireteam access.
+
+### Kibervolk Patrol
+
+**Unit ID:** 1843  
+**Slug:** `kibervolk-patrol`  
+**AVA:** 2 teams  
+**Classification:** compound team
+
+A Kibervolk Patrol is composed of **1 Kibervolk and 1 Dozer KVP**. Both must belong to the same Combat Group.
+
+#### Dozer KVP
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 11 | 11 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills/equipment:** Courage; Engineer; Deactivator; GizmoKit.
+
+| Profile ID | SWC | Points | Weapons / equipment |
+|---:|---:|---:|---|
+| 1 | 0 | 11 | Light Shotgun, D-Charges, Pistol, CCW |
+| 2 | 0 | 14 | Light Shotgun, D-Charges, Armed Turret (Rifle), Pistol, CCW |
+| 3 | 0 | 12 | SMG, D-Charges, Pistol, CCW |
+
+#### Kibervolk
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-15 | 21 | 2 | 15 | 13 | 1 | 0 | 1 STR | 5 |
+
+**Skills/equipment:** Biometric Visor; CC Attack (+1B); Courage; Dodge (+5); Mimetism (-3); Sensor; Dogged.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 10 | Chain-colt, Trench-Hammer, Shock CCW |
+| 2 | 0 | 12 | Chest Mine, CrazyKoala, Trench-Hammer, Shock CCW |
+
+### Wolfgang Amadeus Wolff
+
+**Unit ID:** 1555  
+**Slug:** `wolfgang-amadeus-wolff`  
+**AVA:** 1  
+**Troop type:** WB  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 22 | 12 | 14 | 13 | 3 | 3 | 2 | 2 |
+
+**Skills:** Martial Arts L3; BS Attack (Continuous Damage); Berserk (+3); Courage; Dodge (+5); Dodge (+3); Immunity (ARM); Climbing Plus; Terrain (Zero-G); Frenzy; Discover (+6).
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 33 | MULTI Rifle (+1SD), Chain-colt, E/M Grenades (+1SD), Heavy Pistol, PARA CCW (-6), DA CCW |
+
+### Ioann Bann, Varangian Dog-Warrior
+
+**Unit ID:** 1940  
+**Slug:** `ioann-bann-varangian-dog-warrior`  
+**AVA:** 1  
+**Troop type:** WB  
+**Classification:** Character
+
+#### Dogface
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 22 | 11 | 14 | 13 | 2 | 3 | 3 | 2 |
+
+#### Dog-Warrior
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 23 | 11 | 16 | 13 | 4 | 6 | 3 | 6 |
+
+**Skills:** Martial Arts L3; BS Attack (-3); Berserk; Dodge (+5); Immunity (ARM); No Cover; Super-Jump; Religious Troop; Impetuous; Dogface has Transmutation (1). **Order:** Irregular.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 32 | Chain Rifle (+1B), Viral Tactical Bow (+1SD), Smoke Grenades, AP Heavy Pistol (+1B), AP+T2 CCW |
+
+### Chernobog Armored Detachment
+
+**Unit ID:** 1584  
+**Slug:** `chernobog-armored-detachment`  
+**AVA:** 2  
+**Troop type:** TAG  
+**Classification:** Mechanized Troops
+
+#### Full-power state
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 17 | 14 | 16 | 13 | 8 | 6 | 3 STR | 7 |
+
+**Skills/equipment:** ECM: Guided (-6); Courage; Dodge (PH=9); Tactical Awareness; GizmoKit (PH=9); BS Attack (SR-1); Transmutation (2).
+
+#### Battle-ravaged state
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 15 | 13 | 15 | 13 | 6 | 3 | 3 STR | 7 |
+
+**Skills/equipment:** ECM: Guided (-3); BS Attack (SR-1); Courage; Dodge (PH=9); Tactical Awareness; GizmoKit (PH=9).
+
+| Profile ID | SWC | Points | Weapons | Peripheral |
+|---:|---:|---:|---|---|
+| 1 | 1.5 | 70 | AP HMG, Heavy Rocket Launcher (+1B), Chest Mine, AP CCW | Samodelkin |
+| 2 | 1.5 | 63 | AP HMG, Heavy Flamethrower, Chest Mine, AP CCW | Samodelkin |
+
+**Samodelkin:** MOV 15-10, CC —, BS —, PH 10, WIP 12, ARM 0, BTS 0, W 1, S 1; Courage, Specialist Operative, Mimetism (-3), Peripheral (Ancillary).
+
+### Patchers, Structural Response Team
+
+**Unit ID:** 1585  
+**Slug:** `patchers-structural-response-team`  
+**AVA:** 2  
+**Troop type:** HI  
+**Classification:** Specialist Trained Troops
+
+#### Full state
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 12 | 11 | 13 | 3 | 3 | 2 | 2 |
+
+**Skills:** Courage; Dodge (+2.5); Immunity (Continuous Damage); Immunity (Shock); Specialist Operative; Terrain (Total); Transmutation (1); Climbing Plus.
+
+#### Battle-ravaged state
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 15 | 12 | 10 | 13 | 2 | 0 | 2 | 2 |
+
+**Skills:** Courage; Immunity (Continuous Damage); Immunity (Shock); Specialist Operative; Terrain (Total); Climbing Plus.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 24 | Vulkan Shotgun (+1B), Akrylat-Kanone, AP Heavy Pistol, AP CCW |
+| 2 | 0 | 18 | Heavy Flamethrower (+1B), Adhesive Launcher Rifle, Grenades (Continuous Damage), AP Heavy Pistol, AP CCW |
+
+### Denma Connolly
+
+**Unit ID:** 1749  
+**Slug:** `denma-connolly`  
+**AVA:** 1  
+**Troop type:** WB  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 23 | 11 | 14 | 12 | 1 | 3 | 1 | 2 |
+
+**Skills:** Martial Arts L1; Berserk; Courage; Dodge (+5); Natural Born Warrior; MetaChemistry (ReRoll); No Cover; Impetuous. **Orders:** Regular + Impetuous.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 12 | Chain Rifle (+1B), Smoke Grenades, Heavy Pistol (+1B), AP+DA CCW |
+
+### William Wallace
+
+**Unit ID:** 259  
+**Slug:** `william-wallace`  
+**AVA:** 1  
+**Troop type:** WB  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-10 | 24 | 13 | 14 | 15 | 3 | 0 | 2 | 2 |
+
+**Skills:** CC Attack (-3); Berserk (+3); Courage; Dodge (+5); Natural Born Warrior; Immunity (Critical); Inspiring Leadership; Frenzy; Number 2; CC Attack (+1B).
+
+| Profile ID | SWC | Points | Weapons | Difference |
+|---:|---:|---:|---|---|
+| 1 | 0 | 38 | T2 Rifle, Light Shotgun, Smoke Grenades, Boarding Pistol (+1B), EXP CCW | Chain of Command (Non Specialist) |
+| 2 | 0 | 38 | same | Lieutenant |
+
+### 1st Highlanders S.A.S.
+
+**Unit ID:** 237  
+**Slug:** `1st-highlanders-sas`  
+**AVA:** 3  
+**Troop type:** SK  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 22 | 11 | 13 | 13 | 0 | 0 | 1 | 2 |
+
+**Skills:** Martial Arts L2; Surprise Attack (-3); Camouflage; Courage; Dodge (+2.5); Infiltration; Mimetism (-3); Terrain (Total); Stealth.
+
+| Profile ID | SWC | Points | Weapons | Difference |
+|---:|---:|---:|---|---|
+| 1 | 0 | 20 | Chain Rifle, Light Shotgun, D-Charges, Silenced Pistol, AP+Shock CCW | — |
+| 2 | 0 | 20 | Chain Rifle, Grenades, D-Charges, Assault Pistol, AP+Shock CCW | — |
+| 4 | 0 | 21 | Chain Rifle, Light Shotgun, Flash Pulse, D-Charges, Silenced Pistol, AP+Shock CCW | Forward Observer |
+| 5 | 0 | 25 | Boarding Shotgun (+1B), D-Charges, E/M Mine, Silenced Pistol, AP+Shock CCW | Specialist Operative |
+| 6 | 0.5 | 22 | Chain Rifle, Light Shotgun, D-Charges, AP Mine, Silenced Pistol, AP+Shock CCW | Minelayer |
+
+### Wardrivers, Mercenary Hackers
+
+**Unit ID:** 265  
+**Slug:** `wardrivers-mercenary-hackers`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Mercenary Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 13 | 11 | 10 | 13 | 0 | 3 | 1 | 2 |
+
+**Skills:** Sixth Sense; Hacker. **Hacking Device:** UPGRADE: Zero Pain.
+
+| Profile ID | SWC | Points | Weapons / equipment |
+|---:|---:|---:|---|
+| 1 | 1 | 14 | Boarding Shotgun, Flash Pulse, Cybermine, Pistol, CCW; Hacking Device |
+| 2 | 1 | 16 | same plus Disco Baller |
+
+### Uxía McNeill
+
+**Unit ID:** 263  
+**Slug:** `uxia-mcneill`  
+**AVA:** 1  
+**Troop type:** SK  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 22 | 11 | 13 | 13 | 0 | 0 | 1 | 2 |
+
+**Equipment:** MSV1. **Skills:** Martial Arts L2; Surprise Attack (-3); Courage; Camouflage; Dodge (+5); Mimetism (-3); Stealth; Terrain (Total); Frenzy; Infiltration (PH=19); BS Attack (+1B); Specialist Operative.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 25 | Boarding Shotgun, Grenades, Smoke Grenades, Boarding Pistol, AP+Shock CCW |
+| 2 | 0 | 25 | Boarding Shotgun, D-Charges, Smoke Grenades, Assault Pistol, AP+Shock CCW |
+
+### Volkolak Assault Troopers
+
+**Unit ID:** 1520  
+**Slug:** `volkolak-assault-troopers`  
+**AVA:** 3  
+**Troop type:** HI  
+**Classification:** Elite Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 22 | 12 | 14 | 12 | 4 | 6 | 1 | 2 |
+
+**Skills:** Courage; Natural Born Warrior; Immunity (ARM); NWI; Super-Jump; CC Attack (+1B); Dodge (-3); Dodge (+5); Immunity (IMM-B).
+
+| Profile ID | SWC | Points | Weapons / equipment | Difference |
+|---:|---:|---:|---|---|
+| 1 | 1 | 38 | HMG, Chain-colt (+1B), Drop Bears (+1B), Heavy Pistol, AP+DA CCW | — |
+| 2 | 1.5 | 35 | Missile Launcher, Chain-colt (+1B), Drop Bears (+1B), Heavy Pistol, AP+DA CCW | — |
+| 3 | 0 | 31 | T2 Rifle, Chain-colt (+1B), Drop Bears (+1B), Heavy Pistol, AP+DA CCW | BS Attack (AP) |
+| 4 | 0 | 33 | same; MediKit | BS Attack (AP); Paramedic |
+
+### Mekhamobilya Support Pilots
+
+**Unit ID:** 1847  
+**Slug:** `mekhamobilya-support-pilots`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 11 | 11 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills:** Courage; Specialist Operative; TAGCom (Dodge PH+1, GizmoKit PH+1).
+
+| Profile ID | FTO / name | SWC | Points | Weapons / equipment |
+|---:|---|---:|---:|---|
+| 1 | CHERNOBOG PILOT | 0 | 9 | SMG, D-Charges, Pistol, CCW; GizmoKit |
+
+### The Scots Guards, 6th Caledonian Infantry Regiment
+
+**Unit ID:** 261  
+**Slug:** `the-scots-guards`  
+**AVA:** 5  
+**Troop type:** MI  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 12 | 12 | 13 | 3 | 0 | 1 | 2 |
+
+Loadout-specific skills/equipment are preserved below; **only rows named `SCOT GUARD FTO` qualify for FT-02**.
+
+| Profile ID | FTO | SWC | Points | Weapons / equipment | Skills / differences |
+|---:|---|---:|---:|---|---|
+| 1 | yes | 1.5 | 31 | AP Spitfire, Pistol, CCW, Flash Pulse, D-Charges | source FTO profile |
+| 2 | yes | 1.5 | 31 | Missile Launcher, Assault Pistol, CCW, Flash Pulse, D-Charges | source FTO profile |
+| 3 | yes | 0 | 26 | T2 Marksman Rifle, Flash Pulse, Pistol, CCW, D-Charges | source FTO profile |
+| 4 | yes | 0 | 22 | AP SMG (+1B), Panzerfaust, Flash Pulse, D-Charges, Pistol, CCW | source FTO profile |
+| 8 | no | 1 | 32 | Heavy Rocket Launcher, Flash Pulse, D-Charges, Assault Pistol, CCW | Surprise Attack (-3); Camouflage; Forward Deployment (+10) |
+| 9 | no | 0 | 32 | AP SMG (+1B), Panzerfaust, Flash Pulse, D-Charges, Pistol, CCW | Surprise Attack (-3); Camouflage; Forward Deployment (+10) |
+| 10 | yes | 0 | 23 | AP SMG (+1B), Panzerfaust, Flash Pulse, D-Charges, Pistol, CCW; MediKit | Paramedic |
+| 11 | yes | 1.5 | 26 | Heavy Rocket Launcher, Flash Pulse, D-Charges, Assault Pistol, CCW | MSV1 |
+
+### Cadin “FirstStrike” Donn
+
+**Unit ID:** 1525  
+**Slug:** `cadin-firststrike-donn`  
+**AVA:** 1  
+**Troop type:** WB  
+**Classification:** Character
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 15-5 | 23 | 12 | 14 | 13 | 3 | 3 | 2 | 2 |
+
+**Skills:** Frenzy; Courage; Dodge (+5); Climbing Plus; CC Attack (+1B); Martial Arts L1; Berserk (+6); Natural Born Warrior.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 30 | T2 Boarding Shotgun, Flammenspeer, E/M Grenades (+1B), Boarding Pistol, AP+T2 CCW |
+
+### Remontnikbot V-5 Elektronik
+
+**Unit ID:** 1581  
+**Slug:** `remontnikbot-v-5-elektronik`  
+**AVA:** 2  
+**Troop type:** REM  
+**Classification:** Support / Peripheral
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 10 | 8 | 9 | 12 | 0 | 0 | 1 STR | 1 |
+
+**Skills:** Courage; Mimetism (-3); Peripheral (Servant).
+
+| Profile ID | SWC | Points | Weapons | Orders |
+|---:|---:|---:|---|---|
+| 1 | 0 | 2 | PARA CCW (-3) | no independent order |
+
+### Raveneye Officers
+
+**Unit ID:** 1588  
+**Slug:** `raveneye-officers`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 15 | 11 | 10 | 13 | 1 | 3 | 1 | 2 |
+
+**Skills/equipment:** Immunity (Shock); Minelayer; Forward Observer; Deactivator.
+
+| Profile ID | SWC | Points | Weapons |
+|---:|---:|---:|---|
+| 1 | 0 | 12 | SMG, E/Marat, Flash Pulse, E/M Mine, Pistol, CCW |
+| 2 | 0 | 12 | SMG, E/Marat, Flash Pulse, Cybermine, Pistol, CCW |
+
+### Zenit-7 Detachment
+
+**Unit ID:** 1519  
+**Slug:** `zenit-7-detachment`  
+**AVA:** 2  
+**Troop type:** LI  
+**Classification:** Elite Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 12 | 10 | 13 | 2 | 0 | 1 | 2 |
+
+**Skills:** Surprise Attack (-3); BS Attack (Shock); Camouflage; Mimetism (-3); Decoy (1); Stealth; BS Attack (SR-1).
+
+| Profile ID | SWC | Points | Weapons | Difference |
+|---:|---:|---:|---|---|
+| 2 | 0.5 | 25 | AP Marksman Rifle, Pistol, CCW | — |
+| 3 | 0.5 | 30 | AP Marksman Rifle, Pistol, CCW | Chain of Command |
+| 4 | 1 | 27 | AP Sniper Rifle, Light Shotgun, Pistol, CCW | Forward Observer |
+
+### Strannik Outer Patrol
+
+**Unit ID:** 1583  
+**Slug:** `strannik-outer-patrol`  
+**AVA:** 2  
+**Troop type:** MI  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 18 | 12 | 11 | 13 | 3 | 3 | 1 | 2 |
+
+**Skills:** Terrain (Zero-G).
+
+| Profile ID | SWC | Points | Weapons / equipment | Difference |
+|---:|---:|---:|---|---|
+| 1 | 0 | 18 | T2 Boarding Shotgun, Flash Pulse, D-Charges, Boarding Pistol, PARA CCW (-3) | Specialist Operative |
+| 2 | 0 | 16 | SMG, Flash Pulse, Adhesive Launcher Rifle, D-Charges, Boarding Pistol, PARA CCW (-3) | Specialist Operative |
+| 3 | 0 | 18 | SMG, Flash Pulse, Light Riotstopper, Boarding Pistol, PARA CCW (-3); MediKit | Doctor |
+
+### Dozers, Field Engineers
+
+**Unit ID:** 256  
+**Slug:** `dozers-field-engineers`  
+**AVA:** 1  
+**Troop type:** LI  
+**Classification:** Support Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 14 | 11 | 11 | 13 | 1 | 0 | 1 | 2 |
+
+**Skills/equipment:** Courage; Engineer; Deactivator; GizmoKit.
+
+| Profile ID | SWC | Points | Weapons / equipment |
+|---:|---:|---:|---|
+| 1 | 0 | 13 | Rifle, D-Charges, Pistol, CCW |
+| 3 | 0 | 14 | Rifle, Blitzen, D-Charges, Pistol, CCW |
+| 4 | 0 | 14 | Rifle, D-Charges, Pistol, CCW; Deployable Cover |
+| 5 | 0 | 15 | Rifle, D-Charges, Armed Turret (Rifle), Pistol, CCW |
+
+### Highlander Caterans
+
+**Unit ID:** 248  
+**Slug:** `highlander-caterans`  
+**AVA:** 2  
+**Troop type:** LI  
+**Classification:** Specialist Trained Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 22 | 12 | 13 | 12 | 0 | 0 | 1 | 2 |
+
+**Skills:** Surprise Attack (-3); Camouflage (1 Use); Mimetism (-3); Stealth; Climbing Plus. **Order:** Irregular.
+
+| Profile ID | SWC | Points | Weapons | Difference |
+|---:|---:|---:|---|---|
+| 1 | 1 | 21 | T2 Sniper Rifle, Pistol, AP CCW | — |
+| 2 | 0.5 | 21 | AP Sniper Rifle, Pistol, AP CCW | — |
+| 3 | 1 | 23 | T2 Sniper Rifle, Pistol, AP CCW | Forward Deployment (+10) |
+
+### Armata-4 Proyekt “Kosmosoldat”
+
+**Unit ID:** 1521  
+**Slug:** `armata-4-proyekt-kosmosoldat`  
+**AVA:** 2  
+**Troop type:** HI  
+**Classification:** Headquarters Troops
+
+| MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10-10 | 16 | 13 | 12 | 13 | 6 | 3 | 1 | 2 |
+
+**Equipment:** MSV1. **Skills:** Courage; Immunity (Shock); NWI; Terrain (Zero-G); Warhorse; BS Attack (-3).
+
+| Profile ID | SWC | Points | Weapons / equipment | Difference |
+|---:|---:|---:|---|---|
+| 1 | 1.5 | 44 | AP HMG, AP Heavy Pistol, CCW, Chain Rifle | — |
+| 2 | 0 | 36 | T2 Rifle (+1B), Heavy Flamethrower, Panzerfaust, AP Heavy Pistol, CCW; MediKit | Paramedic |
+| 3 | 1.5 | 44 | Portable Autocannon, Chain Rifle, AP Heavy Pistol, CCW | — |
+| 4 | 1.5 | 44 | same | Lieutenant |
+| 5 | 1 | 48 | same | Lieutenant (+1 Order) |
+
+## Fireteams
+
+The canonical rows below are authoritative for standard Kosmoflot Fireteam access. The reverse index that follows is derivative.
+
+### FT-01 — Rokots Fireteams
+
+**Types:** Core, Haris  
+**Wildcard team:** no  
+**Observation:** at least one Rokot is required by the source minimum.
+
+| Member | Unit ID | Required | Min | Max | Counts as | FTO restriction | Allowed loadout IDs | Notes |
+|---|---:|---|---:|---:|---|---|---|---|
+| Rokots | 1518 | no | 1 | 5 | — | — | all | anchor |
+| Mekhaniks | 1582 | no | 0 | 2 | Rokot | — | all | source comment `(Rokot)` |
+| Frontoviks | 1136 | no | 0 | 1 | Rokots | — | all | source comment `(Rokots)` |
+| Mekhamobilya Support Pilots | 1847 | no | 0 | 1 | — | — | all | — |
+| Kazak Doktor | 243 | no | 0 | 1 | — | — | all | — |
+| Wardrivers | 265 | no | 0 | 1 | — | — | all | — |
+| Wolfgang Amadeus Wolff | 1555 | no | 0 | 1 | — | — | all | — |
+| Intel Spec-Ops | 1915 | no | 0 | 1 | — | Spec-Ops mode | mode-defined | optional game-mode row; source comment `Spec-Ops` |
+
+### FT-02 — Kosmoflot Fireteams
+
+**Types:** Core, Haris, Duo  
+**Wildcard team:** no  
+**Observation:** the two source rows are both marked `required: true`; normalize them as a required-choice set. At least one qualifying `SCOT GUARD FTO` or Frontovik is required. A source `required` flag does not mean both troop types must simultaneously be present.
+
+| Member | Unit ID | Required | Min | Max | Counts as | FTO restriction | Allowed loadout IDs | Notes |
+|---|---:|---|---:|---:|---|---|---|---|
+| Scot Guard FTO | 261 | required-choice | 0 | 5 | — | **FTO only** | 1, 2, 3, 4, 10, 11 | non-FTO 8 and 9 excluded |
+| Frontoviks | 1136 | required-choice | 0 | 5 | — | — | all | — |
+
+### FT-03 — Kosmosoldats Fireteams
+
+**Types:** Haris, Duo  
+**Wildcard team:** no
+
+| Member | Unit ID | Required | Min | Max | Counts as | FTO restriction | Allowed loadout IDs | Notes |
+|---|---:|---|---:|---:|---|---|---|---|
+| Kosmosoldat | 1521 | no | 1 | 2 | — | — | all | anchor |
+| Frontoviks | 1136 | no | 0 | 1 | — | — | all | — |
+
+### FT-04 — Chernobog Fireteams
+
+**Types:** Duo  
+**Wildcard team:** no
+
+| Member | Unit ID | Required | Min | Max | Counts as | FTO restriction | Allowed loadout IDs | Notes |
+|---|---:|---|---:|---:|---|---|---|---|
+| Chernobog | 1584 | no | 1 | 2 | — | — | all | anchor |
+
+### FT-05 — Varangian Guard Fireteams
+
+**Types:** Core, Haris, Duo  
+**Wildcard team:** no
+
+| Member | Unit ID | Required | Min | Max | Counts as | FTO restriction | Allowed loadout IDs | Notes |
+|---|---:|---|---:|---:|---|---|---|---|
+| Varangian Guard | 1461 | no | 1 | 4 | — | — | all | anchor |
+| William Wallace | 259 | no | 0 | 1 | Varangian | — | all | source comment `(Varangian)` |
+| Denma Connolly | 1749 | no | 0 | 1 | Varangian | — | all | source comment `(Varangian)` |
+| Wolfgang Amadeus Wolff | 1555 | no | 0 | 1 | Varangian | — | all | source comment `(Varangian)` |
+| Ioann Bann | 1940 | no | 0 | 1 | Varangian | — | all | source comment `(Varangian)` |
+
+### Wildcards
+
+| Unit | Unit ID | Max | Counts as | FTO/profile restriction | Notes |
+|---|---:|---:|---|---|---|
+| Volkolak Assault Troopers | 1520 | 3 | — | all | Wildcard |
+| Patchers | 1585 | 2 | Rokot | all | source comment `(Rokot)` |
+| Strannik Outer Patrol | 1583 | 2 | — | all | Wildcard |
+| The Unknown Ranger | 777 | 1 | — | all | Wildcard |
+| Cadin “FirstStrike” Donn | 1525 | 1 | — | all | Wildcard |
+
+Wildcards may join otherwise eligible standard Fireteams, but they do not waive each team's anchor, minimum, required-choice, profile-gating, or maximum-member restrictions.
+
+## Unit → Fireteam access index
+
+| Unit | Fireteam | Type | Access | Counts as | Profile restriction | Min/Max | Notes |
+|---|---|---|---|---|---|---|---|
+| Rokots | FT-01 Rokots | Core/Haris | native | — | all | 1–5 | anchor |
+| Mekhaniks | FT-01 Rokots | Core/Haris | counts-as | Rokot | all | 0–2 | — |
+| Frontoviks | FT-01 Rokots | Core/Haris | counts-as | Rokots | all | 0–1 | — |
+| Frontoviks | FT-02 Kosmoflot | Core/Haris/Duo | required | — | all | 0–5 | member of required-choice set |
+| Frontoviks | FT-03 Kosmosoldats | Haris/Duo | native | — | all | 0–1 | — |
+| Mekhamobilya Support Pilots | FT-01 Rokots | Core/Haris | native | — | all | 0–1 | — |
+| Kazak Doktor | FT-01 Rokots | Core/Haris | native | — | all | 0–1 | — |
+| Wardrivers | FT-01 Rokots | Core/Haris | native | — | all | 0–1 | — |
+| Wolfgang Amadeus Wolff | FT-01 Rokots | Core/Haris | native | — | all | 0–1 | — |
+| Wolfgang Amadeus Wolff | FT-05 Varangian | Core/Haris/Duo | counts-as | Varangian | all | 0–1 | — |
+| Intel Spec-Ops | FT-01 Rokots | Core/Haris | special | — | Spec-Ops mode | 0–1 | optional game-mode only |
+| Scots Guards | FT-02 Kosmoflot | Core/Haris/Duo | required | — | FTO IDs 1,2,3,4,10,11 only | 0–5 | member of required-choice set |
+| Kosmosoldat | FT-03 Kosmosoldats | Haris/Duo | native | — | all | 1–2 | anchor |
+| Chernobog | FT-04 Chernobog | Duo | native | — | all | 1–2 | anchor |
+| Varangian Guard | FT-05 Varangian | Core/Haris/Duo | native | — | all | 1–4 | anchor |
+| William Wallace | FT-05 Varangian | Core/Haris/Duo | counts-as | Varangian | all | 0–1 | — |
+| Denma Connolly | FT-05 Varangian | Core/Haris/Duo | counts-as | Varangian | all | 0–1 | — |
+| Ioann Bann | FT-05 Varangian | Core/Haris/Duo | counts-as | Varangian | all | 0–1 | — |
+| Volkolak | all eligible standard teams | varies | wildcard | — | all | max 3 | subject to team formation requirements |
+| Patchers | all eligible standard teams | varies | wildcard | Rokot | all | max 2 | subject to team formation requirements |
+| Strannik | all eligible standard teams | varies | wildcard | — | all | max 2 | subject to team formation requirements |
+| The Unknown Ranger | all eligible standard teams | varies | wildcard | — | all | max 1 | subject to team formation requirements |
+| Cadin “FirstStrike” Donn | all eligible standard teams | varies | wildcard | — | all | max 1 | subject to team formation requirements |
+
+All standard roster units not listed in this reverse index have no Fireteam access in the pinned standard Kosmoflot chart.
+
+## Reinforcement Fireteams — L'Équipe Argent
+
+Linked Reinforcement army: **L'Équipe Argent (Army ID 399)**, source revision `7.26246.158`.
+
+These rows are intentionally separate from the standard Kosmoflot chart. Reinforcement Fireteam limits in the pinned source are **Core 1; Haris 1; Duo 1**. The Reinforcement source contains 12 logical units: Reinf. Chasseurs, Reinf. 112 Emergency Service, Reinf. Para-Commandos, Reinf. Brigadier Jacques Bruant, Reinf. Equipe Mirage-5, Reinf. Wardrivers, Reinf. Beasthunters, Reinf. Briscards, Reinf. Moblots, Reinf. Wolfgang Amadeus Wolff, Reinf. Loup-Garous, and Reinf. Apaches.
+
+### RFT-01 — Loup-Garou Reinforcement Fireteams
+
+**Types:** Core, Haris, Duo
+
+| Member | Unit ID | Required | Min | Max | Counts as | Profile restriction | Notes |
+|---|---:|---|---:|---:|---|---|---|
+| Loup-Garou REINF | 1626 | no | 1 | 5 | — | all | anchor |
+
+### RFT-02 — Briscards Reinforcement Fireteams
+
+**Types:** Core, Haris, Duo
+
+| Member | Unit ID | Required | Min | Max | Counts as | Profile restriction | Notes |
+|---|---:|---|---:|---:|---|---|---|
+| Briscard REINF | 1627 | no | 1 | 4 | — | all | anchor |
+
+### Reinforcement Wildcards
+
+| Unit | Unit ID | Max | Counts as | Profile restriction | Notes |
+|---|---:|---:|---|---|---|
+| Moblot REINF | 1630 | 2 | — | all | Reinforcement Wildcard |
+| Apache REINF | 1629 | 2 | Loup-Garou | all | source comment `(Loup-Garou)` |
+| 112 FTO REINF | 1633 | 1 | — | FTO loadout | Reinforcement Wildcard |
+| Brigadier Bruant REINF | 1637 | 1 | Briscards | all | source comment `(Briscards)` |
+| Wolfgang Amadeus REINF | 1634 | 1 | Loup-Garou, Briscards | all | source comment `(Loup-Garou, Briscards)` |
+
+### Reinforcement reverse index
+
+| Unit | Fireteam | Access | Counts as | Max | Notes |
+|---|---|---|---|---:|---|
+| Loup-Garou REINF | RFT-01 | native | — | 5 | min 1 anchor |
+| Briscard REINF | RFT-02 | native | — | 4 | min 1 anchor |
+| Moblot REINF | all eligible Reinforcement teams | wildcard | — | 2 | — |
+| Apache REINF | all eligible Reinforcement teams | wildcard | Loup-Garou | 2 | — |
+| 112 FTO REINF | all eligible Reinforcement teams | wildcard | — | 1 | FTO profile only |
+| Brigadier Bruant REINF | all eligible Reinforcement teams | wildcard | Briscards | 1 | — |
+| Wolfgang Amadeus REINF | all eligible Reinforcement teams | wildcard | Loup-Garou, Briscards | 1 | — |
+
+No Main/Reinforcement mixing is inferred from sharing a character or unit concept. Use the Reinforcement chart only for the linked Reinforcement group.
+
+## Provenance
+
+- Corvus Belli Army-derived source revision: `7.26246.158`
+- Army data changed on: 2026-09-03
+- Kosmoflot source snapshot: `massayoshi/infinity-army-backup` commit `d4329bb596ffea5d568eb2435f74366c305a7630`, `n5/kosmoflot/7.26246.158.json` (blob `3776f6c7423966aff6d5024d1f47f200fa702b91`)
+- L'Équipe Argent source snapshot: same repository/commit, `n5/l-equipe-argent/7.26246.158.json` (blob `b1b074b4037c52461e836b365cda75f9c5805f7c`)
+- InfinityDB commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
+- Rules baseline: N5.3
+- Generated/verified: 2026-10-15
+
+### Validation
+
+1. All 36 standard logical roster units have a detailed entry.
+2. Optional Team-Ops and Spec-Ops entries are separated from the ordinary roster.
+3. Points/SWC and listed profile distinctions are transcribed from the pinned structured source.
+4. All five standard Fireteam rows are represented.
+5. Source minimum/maximum values, `required` flags, parenthetical `Counts as` labels, and Wildcard maxima are preserved.
+6. Scot Guard FT-02 access is explicitly profile-gated to FTO IDs 1, 2, 3, 4, 10, and 11; non-FTO IDs 8 and 9 are excluded.
+7. The Unit → Fireteam reverse index is derived from the canonical rows above.
+8. The linked L'Équipe Argent Reinforcement chart is kept separate and includes both canonical Reinforcement rows and all five Reinforcement Wildcards.
+9. Main and Reinforcement charts are not merged.
+10. No unresolved source ambiguity remains that would require `status: partial` under `REFERENCE_DESIGN.md`.
