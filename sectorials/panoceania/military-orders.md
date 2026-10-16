@@ -582,7 +582,7 @@ All rows below are in the chart's **Wildcards** row. Parenthetical values are Co
 | Crux Knight | 1815 | 1 | — | FTO |
 | Brother Konstantinos FTO | 47 | 1 | Crosier, Order Sergeant | FTO |
 | De Fersen | 40 | 1 | Knight Hospitaller | — |
-| Hawkins | 1586 | 1 | Knight Hospitaller | — |
+| Hawkins | 1586 | 1 | Knight Hospitaller |
 | Mendoza | 1562 | 1 | — | FTO |
 
 Wildcard status does not remove a Fireteam's native minimum/required-choice conditions. The canonical Fireteam row and applicable Counts-as rules remain authoritative for composition.
@@ -665,6 +665,86 @@ Derived analysis aids, not official characteristics.
 | Holy Sepulchre | attack, NCO, network projection, deception |
 | Dart | midfield attack, midfield specialist, anti-camo |
 | Tech-Bee | tech-counter, TAG support, network projection |
+
+## List-building patterns
+
+Derived tactical guidance, not official Army characteristics or Fireteam rules.
+
+### No mandatory chassis
+
+Military Orders does not have a single mandatory unit or mandatory Fireteam. A robust list normally wants to solve four structural problems instead:
+
+- **Midfield presence:** often a Trinitarian, Dart, forward Montesa, Peacemaker, or another piece that does not need to walk from the deployment zone before becoming relevant.
+- **Hacking plan:** especially important when the list contains several HI/TAGs. This can be offensive hacking, KHD protection, TinBots, repeater projection, or a plan to remove hostile hackers by other means.
+- **Cheap Regular Orders and defence:** Fugazi, Raveneye, Crosiers, Mulebots, and similar support keep expensive pieces supplied with Orders and prevent the army from becoming all premium bodies.
+- **A second mission plan:** if the primary attacker dies, another specialist or attack package must still be able to score and finish the game.
+
+The Knight Commander Lieutenant (+1 Order) is particularly synergistic with NCO attack pieces such as the Holy Sepulchre AP HMG, Seraph, Tikbalang, or Teutonic Knight Spitfire, but it is an architecture choice rather than a compulsory inclusion.
+
+### Seraph vs Holy Sepulchre
+
+Both are solo attack pieces with no Military Orders Fireteam access, and both can exploit NCO. Their list-building roles are different.
+
+| Question | Holy Sepulchre NCO AP HMG | Seraph |
+|---|---|---|
+| Commitment | 53 points / 1 SWC | 72–74 points / 1.5 SWC |
+| Order economy | NCO | NCO + Tactical Awareness |
+| Primary strengths | AP HMG, ARM 5/BTS 9, Stealth, Holoprojector, Surprise Attack (-3), smaller S5 footprint | BS 15, ARM 7 / 3 W, Remote Presence, Super-Jump, Tactical Awareness, stronger movement and brute-force durability |
+| Best use | Efficient long-range solo gun that leaves points for the rest of the list | Centerpiece attack engine expected to consume many activations and carry a larger share of the attack plan |
+| Main constraint | Less raw durability and self-generated activity than the TAG | ~20 more points, larger S7 geometry, more of the list is committed to one model |
+
+**Prefer the Holy Sepulchre** when the army also wants substantial midfield, hacking, Fireteam, or secondary-attack investment. The AP HMG profile is a strong long-range door opener without turning the entire list into a TAG-support shell. Stealth, BTS 9, Holoprojector, and the smaller silhouette also make it more comfortable on some dense tables or into hacking-heavy opposition.
+
+**Prefer the Seraph** when the list is intentionally built around a centerpiece. Tactical Awareness plus NCO lets it spend a very large active turn without taking every flexible Regular Order from the rest of the army. Its BS 15, ARM 7, 3 W, Remote Presence, and Super-Jump make it better suited to brute-forcing difficult positions and exploiting elevation.
+
+Seraph profile choice:
+
+- **MULTI HMG:** default when the TAG is meant to dominate long lanes and act as the primary ranged breaker.
+- **AP Spitfire + Auxbot:** stronger consideration on dense tables or missions that pull the TAG into the midfield, where AP, the Auxbot, and close-range template pressure matter more than HMG reach.
+
+A useful shorthand is **Sepulchre = efficient solo heavy gunfighter; Seraph = centerpiece attack engine**.
+
+### Fireteam philosophy
+
+Do not start MO list construction by assuming a five-model Core is mandatory. Start with the models the mission and attack plan actually need, then create the smallest useful legal Fireteam around them. Duo/Haris-sized packages often preserve more points for independent midfield pieces and a second attack vector.
+
+The four native formations have distinct purposes:
+
+- **Military Orders Fireteam:** the broad default toolbox. It must satisfy the chart's required-choice structure through Crosier, Teutonic Knight, or Santiago FTO. This is a natural home for a cheap support shell or a compact knight attack team, with Wildcards adding specialist tools.
+- **Order Sergeants Fireteam:** cheap utility Haris/Duo. It requires at least one Order Sergeant FTO and can bring support such as a Black Friar, Bulleteer, Santiago FTO, Curator, or Infirmarer. Use it when the main solo attacker already consumes many points and the Fireteam's job is support, ARO, or secondary attack.
+- **Crusade Fireteam:** premium Joan/Hospitaller/Santiago architecture. It requires at least one Hospitaller FTO. Take it because the list deliberately wants the durable knight package, not merely to obtain a Fireteam bonus.
+- **Velox Duo:** specialized fast package using the Motorized Montesa, Bulleteer, Joan v2, and/or Infirmarer required-choice set. Use it when the list wants coordinated speed or a fast secondary attack/scoring package.
+
+Useful compact examples include a **Crux FTO + Teutonic Knight specialist/TinBot package**, or a cheap **Black Friar + Crosier/Order Sergeant support team**, provided the canonical formation's required-choice/minimum rules are satisfied. A Seraph or Holy Sepulchre usually benefits from such a secondary/support Fireteam because neither can join one itself.
+
+### Montesa: foot vs motorized
+
+The two Montesa entries solve different problems rather than being simple variants of the same role.
+
+**Motorized Montesa — choose for repeated speed and table-wide scoring.** MOV 20-15 lets it cross large distances with very few Orders, making the 23-point Paramedic particularly attractive when objectives are spread out, a Turn 3 scoring swing is likely, or the specialist must change flanks. The cost is S4/motorcycle geometry: it is harder to hide and more constrained by narrow terrain than the S2 foot knight. Motorized Montesas can join only the Velox Fireteam.
+
+**Forward-deployed foot Montesa — choose for midfield position and S2 geometry.** The 26-point Paramedic begins Forward Deployment (+20), so much of the one-time approach to the midfield is already paid before Turn 1. It is preferable when the model mostly needs to reach the centre once and remain there, or when terrain makes an S4 motorcycle awkward. The Red Fury and Spitfire variants are more explicitly gunfighter-oriented and compete with MO's many other premium shooters.
+
+**FTO foot Montesa — choose as a Fireteam efficiency piece.** The 20-point Paramedic with Boarding Shotgun and Blitzen is a Wildcard and is the cheapest way to get a durable Montesa specialist into a Fireteam. It lacks the forward deployment of the independent foot profiles and the extreme movement of the bike; its reason to exist is efficient linked utility.
+
+Practical defaults:
+
+- **Solo mission runner:** Motorized Montesa Paramedic, 23 points.
+- **Fireteam specialist:** Montesa FTO Paramedic, 20 points.
+- **Midfield S2 specialist that should start forward and stay there:** Forward-deployed Montesa Paramedic, 26 points.
+
+### Practical build order
+
+A reliable MO construction sequence is:
+
+1. Choose the primary attack engine: Seraph, Holy Sepulchre, Tikbalang, Joan, Crux-led package, etc.
+2. Add midfield presence rather than assuming the primary attacker must solve every objective.
+3. Add a fast or asymmetric secondary scorer such as Montesa, Crusader, Trinitarian, or Dart.
+4. Add the hacking defence/offence appropriate to the number of HI/TAGs being exposed.
+5. Build the smallest useful legal Fireteam from pieces already wanted.
+6. Fill the remaining Order/defensive structure with efficient support such as Raveneye, Fugazi, Crosiers, Mulebots, Curator/Palbot, or other mission-specific tools.
+
+This usually produces a more resilient MO list than starting from an expensive five-knight Fireteam and trying to solve the mission with whatever points remain.
 
 ## Validation and maintenance
 
