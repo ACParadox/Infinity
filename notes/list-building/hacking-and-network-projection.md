@@ -18,17 +18,76 @@ Do not heavily buy one side of the package without enough of the other.
 
 ## Network projection
 
-Network projection determines where the hacking game actually exists.
+Network projection determines where the hacking game actually exists. Evaluate **Turn 0 network** separately from the list's ability to extend that network during the Active Turn.
 
-Useful projection methods include:
+### Turn 0 network
 
-1. **Forward or deployment-position Repeaters.** Infiltration, Forward Deployment, Minelayer plus Deployable Repeater, and forward REMs are particularly valuable because they create useful Hacking Areas before spending many Orders.
-2. **Pitchers.** Excellent long-range active projection. Their value rises with good BS, Fireteam bonuses, +B/+SD, and Baggage support because they require rolls and use Disposable ammunition.
-3. **FastPandas.** Shorter ranged but highly reliable because they are placed rather than fired. Particularly good on frontline Hackers or Fireteams that already want to advance.
-4. **Deployable Repeaters.** Reliable but require the carrier to physically reach the desired location. Best on Camo, Infiltration, Forward Deployment, or very fast troops.
-5. **Fast native-Repeater REMs.** Mobile network nodes that can physically move the Hacking Area into useful positions, at the cost of exposing the REM itself.
+**Turn 0 network** is the Repeater coverage already present immediately after Deployment, before either player has spent an Active-Turn Order. This matters because the hacking package can already constrain the opponent's first movement instead of first having to spend Orders and risk rolls to establish coverage.
 
-Forward network pieces are especially valuable because they create **Turn-0 area denial** and make the opponent account for hacking before the active player spends Orders building the network.
+The main ways to create Turn 0 network are:
+
+1. **Deploy a Trooper with a native Repeater.** Any on-table Repeater contributes immediately, but the value rises sharply when the carrier also has **Forward Deployment, Infiltration, or another deployment advantage** that starts the Repeater farther up the table.
+2. **Minelayer + Deployable Repeater.** A Trooper with Minelayer can place a Deployable Repeater it carries during Deployment. This is especially strong when the Minelayer also has **Forward Deployment or Infiltration**, because both the Trooper's starting position and the legal Minelayer placement area are pushed forward.
+
+A Repeater sitting deep in the Deployment Zone still counts as Turn 0 network, but often provides mostly defensive coverage. Forward deployment is what tends to turn Turn 0 coverage into meaningful **midfield denial**.
+
+Turn 0 network is particularly valuable when going second because it can affect the opponent's first Active Turn immediately, but it also matters when going first because it reduces the number of setup Orders needed before offensive hacking begins.
+
+A useful distinction is:
+
+> **Turn 0 network measures how much hacking presence the list gets for free during Deployment; active projection measures how efficiently the list can move that presence into new areas once the game starts.**
+
+### Active-turn offensive network projection
+
+The two main ways to aggressively extend a Repeater network during the Active Turn are **shooting a Pitcher** and **physically delivering a Repeater**.
+
+#### 1. Pitcher projection
+
+Pitchers are the principal long-range projection tool because a successful BS Roll places a Deployable Repeater at the point of impact without requiring the carrier to physically advance there.
+
+When evaluating a Pitcher carrier, important traits include:
+
+- **BS and BS Attack modifiers.** Higher BS directly improves the chance that the network is established with the first shot.
+- **+SD.** Extra success-die reliability is particularly valuable on a low-Burst Disposable weapon. Fireteam BS Attack (+1 SD) is therefore a major Pitcher upgrade when available.
+- **Fireteam +BS bonuses.** Higher-level Fireteam bonuses can further improve the Pitcher Roll when the relevant Fireteam can be built efficiently.
+- **Range quality.** Pitchers become much less reliable at long range, so the carrier's ability to reduce bad Range MODs matters.
+- **X-Visor.** Especially valuable because it turns the Pitcher's -3 Range MOD into 0 and its -6 Range MOD into -3. It does not remove a separate Speculative Attack MOD, but it substantially improves ordinary long-range Pitcher shots.
+- **Disposable support.** Multiple Pitchers, extra Disposable uses, or nearby Baggage make aggressive projection more sustainable after misses or after Repeaters are destroyed.
+- **Safe firing position.** A good Pitcher carrier can establish the network without exposing an expensive Hacker or primary attack piece unnecessarily.
+
+The important list-building point is that a Pitcher should not be evaluated merely as equipment on a Hacker. A **high-BS, +SD, good-range Pitcher platform** can be one of the strongest network-projection pieces in the army even when another model is doing the actual hacking.
+
+#### 2. Physical Repeater delivery
+
+The other main offensive method is to move a **fast, relatively expendable Repeater carrier** into the area where the network is needed.
+
+This can be:
+
+- a fast REM or other Trooper with a **native Repeater**;
+- a fast Trooper carrying a **Deployable Repeater**, which moves forward and places it;
+- a forward-deployed or infiltrating carrier that begins close enough that only one or two Orders are needed to establish an aggressive node.
+
+Important traits include:
+
+- high MOV, Motorcycle, Climbing Plus, Super-Jump, or other mobility;
+- low enough cost that exposing or trading the carrier is acceptable;
+- Camo, Mimetism, durability, or other protection that helps it cross danger areas;
+- deployment advantages that reduce the number of Orders required;
+- enough independent utility that the piece remains useful if the opponent presents no good hacking target.
+
+This method is often more Order-intensive and exposes the carrier more than a Pitcher, but it does not depend on landing a long-range Pitcher Roll and can place the network **around corners, behind LoF blockers, or directly into awkward midfield geometry**.
+
+A cheap fast Repeater can therefore be treated almost like a network-delivery munition: if spending one or two Orders and risking the model creates a decisive hacking zone for several Hackers, losing the carrier afterward may still be an efficient trade.
+
+### Other useful projection methods
+
+- **FastPandas.** Shorter ranged but highly reliable because they are placed rather than fired. Particularly good on frontline Hackers or Fireteams that already want to advance.
+- **Deployable Repeaters.** Reliable but require the carrier to physically reach the desired location. Best on Camo, Infiltration, Forward Deployment, or very fast troops.
+- **Fast native-Repeater REMs.** Mobile network nodes that can physically move the Hacking Area into useful positions, at the cost of exposing the REM itself.
+
+A practical shorthand is:
+
+> **Turn 0 network = deployment efficiency and immediate reactive coverage. Pitcher projection = BS, SD, and range efficiency. Mobile Repeater projection = movement, expendability, and positional access.**
 
 ## Multiple hackers behind one network
 
