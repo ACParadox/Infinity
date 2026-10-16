@@ -52,6 +52,20 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [Mission, scoring, and Specialist strategy](list-building/mission-scoring-and-specialist-strategy.md)
+  - Specialist quantity and independent scoring paths
+  - fast vs infiltrating vs durable Specialists
+  - Specialist redundancy and Turn-3 closers
+  - objective carriers and end-of-game button pushing
+  - zone-control and progressive-scoring missions
+  - Classified-objective coverage
+  - killing versus scoring opportunity cost
+  - going first vs second based on scenario
+  - preserving Specialists
+  - Tactical Awareness/NCO scoring
+  - mission value of otherwise mediocre combat profiles
+  - tournament-packet analysis
+
 - [Speculative Fire](list-building/speculative-fire.md)
   - bypassing setup and defensive MOD stacks
   - positional pressure and forced responses
