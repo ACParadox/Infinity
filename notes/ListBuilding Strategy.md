@@ -64,6 +64,18 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [Peripherals, synchronized models, and multi-body troops](list-building/peripherals-synchronized-and-multi-body-troops.md)
+  - Synchronized, Control, Servant, Ancillary, and N5.3 Cyberplug architectures
+  - ARO-choice pressure and multi-angle attacks
+  - expendable Peripheral trading and Controller protection
+  - activation, movement, and Combat Group slot compression
+  - coherency and template-vulnerability management
+  - Control-unit Spearhead rotation
+  - Servant positional delegation
+  - G: Jumper / Proxy positional optionality and reactive limitations
+  - N5.3 Cyberplug autonomy and FAQ interactions
+  - multi-body list-value and mission-economy evaluation
+
 - [Turn planning and Order budgeting](list-building/turn-planning-and-order-budgeting.md)
   - establish a scoring floor before attacking
   - budget setup, approach, breach, exploitation, scoring, and exit separately
