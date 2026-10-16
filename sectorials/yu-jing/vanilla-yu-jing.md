@@ -11,32 +11,32 @@ army_source_version: "7.26246.158"
 army_data_changed_on: 2026-09-03
 infinitydb_commit: "4e2662be3f43387fbae42b3790a711b3e98570c4"
 verified_on: 2026-10-15
-coverage: "Complete standard vanilla Yu Jing roster membership/AVA, canonical vanilla Fireteam chart and reverse index, optional-mode hooks, and linked Daebak Force Reinforcement roster/Fireteam chart. Vanilla-specific Hulang, Krit Kokram, RacerBot and Hac Tao profile distinctions are recorded; the remaining loadout tables are deliberately source-linked rather than copied from sectorial projections until their vanilla profile projection is completed."
+coverage: "Complete standard vanilla Yu Jing roster membership/AVA, canonical vanilla Fireteam chart and reverse index, optional-mode hooks, and linked Daebak Force Reinforcement roster/Fireteam chart. Vanilla-specific RacerBot, Hulang, Krit Kokram and Hac Tao profile distinctions are recorded; remaining full vanilla loadout tables are source-linked pending inline projection."
 ---
 
 # Vanilla Yu Jing
 
 ## Overview and provenance
 
-Repository-native reference for **vanilla Yu Jing** (`army_id: 201`). This file uses the repository's sectorial-reference schema even though Yu Jing is the parent vanilla faction rather than a sectorial.
+Repository-native reference for **vanilla Yu Jing** (`army_id: 201`). This file uses the repository sectorial-reference schema even though Yu Jing is the parent vanilla faction rather than a sectorial.
 
 Sources used:
 
-- Army-derived Yu Jing source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `d4329bb596ffea5d568eb2435f74366c305a7630`, especially `n5/yu-jing/7.26246.158.json` and its `n5/yu-jing/units/` parent-unit records.
-- Existing repository Yu Jing references (`invincible-army.md`, `white-banner.md`, `imperial-service.md`) as cross-checks only. Their faction-specific profile projections are **not** assumed to be identical to vanilla.
+- Army-derived Yu Jing source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `d4329bb596ffea5d568eb2435f74366c305a7630`, especially `n5/yu-jing/7.26246.158.json` and matching parent-unit records under `n5/yu-jing/units/`.
+- Existing repository Yu Jing references (`invincible-army.md`, `white-banner.md`, `imperial-service.md`) as cross-checks only. Their faction-specific profile projections are not assumed to be identical to vanilla.
 - InfinityDB Fireteam normalization/semantics at commit `4e2662be3f43387fbae42b3790a711b3e98570c4`.
-- Rules baseline: N5.3 + the current N5 FAQ material tracked by this repository.
+- Rules baseline: N5.3 + current N5 FAQ material tracked by this repository.
 
 Coverage notes:
 
 - The ordinary matched-play roster contains **55 standard units** in Army roster order.
 - `Guǐ Fēng Spec-Ops` and `Yu Jing Team-Ops` are optional-mode hooks, not ordinary matched-play roster entries.
-- Soldier-of-Fortune-only catalog entries are not part of the base Yu Jing roster.
-- Vanilla Yu Jing has a real, limited Fireteam chart in the pinned Army source: **no Core, maximum 1 Haris, maximum 2 Duos**.
+- Soldier-of-Fortune-only catalog entries are excluded from the base roster.
+- Vanilla Yu Jing has a source-defined Fireteam chart: **no Core, maximum 1 Haris, maximum 2 Duos**.
 - Fireteam legality comes from the canonical chart below, not from an `FTO` loadout name alone.
 - The chart-level `FTO` restrictions on Húláng and Krit Kokram use their exact vanilla `FTO` profiles, not their `FTO-2` profiles.
 - Linked Reinforcement army: **Daebak Force** (`army_id: 299`). Its roster and Fireteams are kept separate from the main Yu Jing chart.
-- This file is marked `partial` only because the complete per-loadout vanilla projection has not yet been copied inline for every shared unit. The roster, AVA, Fireteam data and Reinforcement chart are complete against the pinned source.
+- This file remains `partial` only because every vanilla loadout has not yet been copied inline. Roster membership, AVA, main Fireteam data and Reinforcement Fireteam data are complete against the pinned source.
 
 ## Sectorial summary
 
@@ -67,25 +67,25 @@ Coverage notes:
 | Unit | ID | AVA | Type | Order | Vanilla Fireteam access |
 |---|---:|---:|---|---|---|
 | Chaīyì Yáokòng | 142 | 1 | REM | Regular | — |
-| Hǎidào Special Support Group | 1246 | 1 | HI | Regular | Yu Jing Fireteams Duo max 1 |
+| Hǎidào Special Support Group | 1246 | 1 | HI | Regular | FT-01 Duo max 1 |
 | Libertos Freedom Fighters | 1275 | 1 | LI | Irregular | — |
 | Dāoyīng Operative Control Unit | 1244 | 1 | MI | Regular | — |
-| Gūijiă Squadrons | 133 | 2 | TAG | Regular | Yu Jing Fireteams Duo max 1 |
+| Gūijiă Squadrons | 133 | 2 | TAG | Regular | FT-01 Duo max 1 |
 | Léi Gōng | 1497 | 1 | HI | Regular | — |
-| Shàng Jí Invincibles | 150 | 2 | HI | Regular | Yu Jing Fireteams Duo max 2 |
+| Shàng Jí Invincibles | 150 | 2 | HI | Regular | FT-01 Duo max 2 |
 | Dàofěi Tactical Section | 130 | 1 | HI | Regular | — |
-| Mówáng Troops | 1254 | 1 | HI | Regular | Yu Jing Fireteams Duo max 1 |
-| Hwarang Corps | 1752 | 2 | HI | Regular | Yu Jing Fireteams II max 1 |
-| Dokkaebi Cyberteam | 1756 | 1 | HI | Regular | Yu Jing Fireteams II max 1 |
-| Bìxié, the Jade Champion | 1599 | 1 | HI | Regular | Yu Jing Fireteams II max 1 |
+| Mówáng Troops | 1254 | 1 | HI | Regular | FT-01 Duo max 1 |
+| Hwarang Corps | 1752 | 2 | HI | Regular | FT-02 Duo/Haris max 1 |
+| Dokkaebi Cyberteam | 1756 | 1 | HI | Regular | FT-02 Duo/Haris max 1 |
+| Bìxié, the Jade Champion | 1599 | 1 | HI | Regular | FT-02 Duo/Haris max 1 |
 | Haetae Unit | 1754 | 1 | HI | Regular | — |
 | Hùsòng Yáokòng | 140 | 2 | REM | Regular | — |
-| Naval Operations Group Sulyong | 1755 | 2 | MI | Regular | Yu Jing Fireteams II max 2 |
+| Naval Operations Group Sulyong | 1755 | 2 | MI | Regular | FT-02 Duo/Haris max 2 |
 | Zhēnchá | 1259 | 2 | HI | Regular | — |
 | Yáoxiè Lù Duān | 160 | 2 | REM | Regular | — |
 | Sun Tze | 143 | 1 | HI | Regular | — |
-| Blue Wolf Mongol Cavalry | 1495 | 1 | TAG | Regular | Yu Jing Fireteams Duo max 1 |
-| Zhànyīng Imperial Agents | 125 | 1 | LI | Regular | Yu Jing Fireteams Duo max 1 |
+| Blue Wolf Mongol Cavalry | 1495 | 1 | TAG | Regular | FT-01 Duo max 1 |
+| Zhànyīng Imperial Agents | 125 | 1 | LI | Regular | FT-01 Duo max 1 |
 | Major Lunah | 947 | 1 | LI | Regular | — |
 | Johnny Kao | 1892 | 1 | MI | Regular | Wildcard max 1 |
 | RacerBots | 1905 | 2 | REM | Regular | — |
@@ -98,15 +98,15 @@ Coverage notes:
 | Beasthunters Free Guild | 1570 | 1 | SK | Irregular | — |
 | Hac Tao Special Unit | 131 | 1 | HI | Regular | — |
 | Hsien Warriors | 132 | 1 | HI | Regular | — |
-| Krit Kokram | 1445 | 1 | HI | Regular | Both Yu Jing team pools, FTO profiles only |
+| Krit Kokram | 1445 | 1 | HI | Regular | FT-01/FT-02, exact FTO profiles only |
 | Hùndùn Ambush Unit | 1492 | 1 | MI | Regular | — |
-| Shaolin Warrior Monks | 136 | 4 | WB | Irregular + Impetuous | Yu Jing Fireteams Duo max 2 |
+| Shaolin Warrior Monks | 136 | 4 | WB | Irregular + Impetuous | FT-01 Duo max 2 |
 | Wèibīng Yáokòng | 139 | 2 | REM | Regular | — |
 | Zhanshi Yīshēng | 137 | 1 | LI | Regular | — |
 | Sulsa Warriors | 1753 | 1 | SK | Regular | — |
 | Yáopú Pangguling | 162 | 2 | REM | Regular | — |
-| Imperial Agent, Pheasant Rank | 148 | 1 | MI | Regular | Yu Jing Fireteams Duo max 1 |
-| Húláng Shocktroopers | 1257 | 1 | HI | Regular | Yu Jing Fireteams Duo max 1, FTO profiles only |
+| Imperial Agent, Pheasant Rank | 148 | 1 | MI | Regular | FT-01 Duo max 1 |
+| Húláng Shocktroopers | 1257 | 1 | HI | Regular | FT-01 Duo max 1, exact FTO profiles only |
 | Yáozăo | 161 | 3 | REM | Peripheral | — |
 | Kuang Shi | 146 | 4 | LI | Regular + Impetuous | — |
 | Zhanshi | 124 | 255 | LI | Regular | — |
@@ -119,8 +119,8 @@ Coverage notes:
 | Liú Xīng Jump Infantry | 1248 | 1 | HI | Regular | — |
 | Gūdǎn Troops | 1841 | 2 | LI | Regular | — |
 | Mech-Engineer (Zhanshi Gōngchéng) | 138 | 1 | LI | Regular | — |
-| Sù-Jiàn Immediate Action Unit | 155 | 1 | HI | Regular | Yu Jing Fireteams Duo max 1 |
-| Zúyŏng Invincibles | 127 | 3 | HI | Regular | Both Yu Jing team pools |
+| Sù-Jiàn Immediate Action Unit | 155 | 1 | HI | Regular | FT-01 Duo max 1 |
+| Zúyŏng Invincibles | 127 | 3 | HI | Regular | FT-01/FT-02 |
 
 ### Optional-mode units
 
@@ -133,52 +133,42 @@ Coverage notes:
 
 The pinned **vanilla** Army source is authoritative for profile/loadout values. Do not substitute the same unit's Invincible Army, White Banner or Imperial Service values without checking: some shared units have faction-specific profile projections.
 
-Until every loadout table is copied inline, use the roster ID above with the pinned Yu Jing source `n5/yu-jing/7.26246.158.json` and the matching parent-unit record under `n5/yu-jing/units/`. The following vanilla-specific cases are recorded explicitly because they affect list construction or Fireteam legality.
+Until every loadout table is copied inline, use the roster ID above with the pinned Yu Jing source `n5/yu-jing/7.26246.158.json` and the matching parent-unit record under `n5/yu-jing/units/`. The following vanilla-specific/current cases are recorded explicitly because they affect list construction or Fireteam legality.
 
 ### RacerBots
 
 **Unit ID:** 1905  
 **AVA:** 2  
 **Troop type:** REM  
-**Regularity:** Regular
+**Structure:** yes  
+**Regularity:** Regular characteristic in the parent profile
 
-Two profile groups share `MOV 20-15 | CC 8 | BS 11 | PH 12 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 4`.
+Base profile: `MOV 20-10 | CC 13 | BS 11 | PH 12 | WIP 11 | ARM 0 | BTS 3 | W 1 | S 2`.
 
-#### RacerBot Brute
+The pinned parent-unit record exposes a single profile group with two 9-point variants. Numeric weapon/equipment IDs are retained here where the current repository lookup has not yet been normalized into display names; this is preferable to guessing from an older profile projection.
 
-Base: Remote Presence, Courage, Berserk (Hyper-Dynamics), Tactical Awareness.
-
-| Profile ID | Points | SWC | Distinguishing facts |
-|---:|---:|---:|---|
-| 1 | 16 | 0 | RacerBot Brute; BS Attack (+1B) |
-| 2 | 14 | 0 | RacerBot Brute; BS Attack (+1B) |
-
-#### RacerBot Gearhead
-
-Base: Engineer; Deactivator, GizmoKit.
-
-| Profile ID | Points | SWC | Distinguishing facts |
-|---:|---:|---:|---|
-| 1 | 16 | 0 | RacerBot Gearhead (Engineer) |
-| 2 | 13 | 0 | RacerBot Gearhead (Engineer) |
+| Profile ID | Label | Points | SWC | Source distinctions |
+|---:|---|---:|---:|---|
+| 1 | RACERBOT Mk-I | 9 | 0 | weapon IDs `216`, `220`, `71`; base equipment IDs `246(+310)`, `241(-3)`, `113`; base skills include Remote Presence and Courage |
+| 2 | RACERBOT Mk-II | 9 | 0 | weapon IDs `188`, `176`, `71`; `176` = Mine Dispenser; `71` = PARA CCW; same base profile/equipment |
 
 ### Húláng Shocktroopers — vanilla projection
 
 **Unit ID:** 1257  
-**AVA:** 1  
+**AVA:** 1 in vanilla  
 **Troop type:** HI  
 **Regularity:** Regular
 
-Vanilla parent profile: `MOV 15-5 | CC 22 | BS 13 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 2 | S 2`.
+Base profile: `MOV 15-5 | CC 22 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`.
 
-| Profile ID | Label | Points | SWC | Vanilla Fireteam eligibility |
-|---:|---|---:|---:|---|
-| 1 | HÚLÁNG FTO-2 | 36 | 0 | no — chart says `FTO`, not `FTO-2` |
-| 2 | HÚLÁNG FTO-2 | 37 | 0 | no — chart says `FTO`, not `FTO-2` |
-| 3 | HÚLÁNG FTO | 36 | 0 | yes — Yu Jing Fireteams Duo max 1 |
-| 4 | HÚLÁNG FTO | 37 | 0 | yes — Yu Jing Fireteams Duo max 1 |
+**Common equipment/skills:** Multispectral Visor L1, CrazyKoala; Martial Arts L3, Dodge (+5cm), Courage, Mimetism (-3), Forward Deployment (+20cm), Immunity (Shock), Stealth, No Wound Incapacitation.
 
-Profile 2/4 adds a Cybermine in the parent vanilla projection.
+| Profile ID | Label | Points | SWC | Loadout distinction | Vanilla Fireteam eligibility |
+|---:|---|---:|---:|---|---|
+| 1 | HÚLÁNG FTO-2 | 38 | 0.5 | SMG, E/M Grenade Launcher (+1B), Pistol, Monofilament CCW (PS=6); Minelayer | no — chart says `FTO`, not `FTO-2` |
+| 2 | HÚLÁNG FTO-2 | 38 | 0 | SMG, Disco Baller, Deployable Repeater, Pistol, Monofilament CCW (PS=6) | no — chart says `FTO`, not `FTO-2` |
+| 3 | HÚLÁNG FTO | 31 | 0 | Combi Rifle, E/M Grenade Launcher, Pistol, Monofilament CCW (PS=6) | yes — FT-01 Duo max 1 |
+| 4 | HÚLÁNG FTO | 33 | 0 | Combi Rifle, Disco Baller, Deployable Repeater, Pistol, Monofilament CCW (PS=6) | yes — FT-01 Duo max 1 |
 
 ### Krit Kokram — vanilla projection
 
@@ -187,13 +177,15 @@ Profile 2/4 adds a Cybermine in the parent vanilla projection.
 **Troop type:** HI  
 **Regularity:** Regular
 
-Vanilla parent profile: `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 2 | S 2`. Engineer; Deactivator and GizmoKit.
+Base profile: `MOV 15-5 | CC 19 | BS 13 | PH 12 | WIP 14 | ARM 3 | BTS 3 | W 2 | S 2`.
 
-| Profile ID | Label | Points | SWC | Vanilla Fireteam eligibility |
-|---:|---|---:|---:|---|
-| 1 | KRIT KOKRAM FTO-2 | 37 | 0 | no — chart says `FTO`, not `FTO-2` |
-| 2 | KRIT KOKRAM FTO | 35 | 0 | yes — either vanilla Yu Jing team pool |
-| 3 | KRIT KOKRAM FTO | 40 | 0 | yes — either vanilla Yu Jing team pool |
+**Common equipment/skills:** Deactivator, GizmoKit; Courage, Dodge (+5cm), Engineer, NCO.
+
+| Profile ID | Label | Points | SWC | Loadout distinction | Vanilla Fireteam eligibility |
+|---:|---|---:|---:|---|---|
+| 1 | KRIT KOKRAM FTO-2 | 37 | 0 | Heavy Shotgun, E/Mitter, Chain-colt, E/M Mine, Heavy Pistol (+1B), CCW; Deployable Repeater, Forward Deployment (+20cm), Minelayer | no — chart says `FTO`, not `FTO-2` |
+| 2 | KRIT KOKRAM FTO | 35 | 0 | MULTI Rifle (PS=6), Chain-colt, D-Charges, Heavy Pistol (+1B), CCW | yes — FT-01 or FT-02 |
+| 3 | KRIT KOKRAM FTO | 40 | 1.5 | Feuerbach, Chain-colt, D-Charges, Heavy Pistol (+1B), CCW | yes — FT-01 or FT-02 |
 
 ### Hac Tao Special Unit — vanilla projection
 
@@ -202,13 +194,15 @@ Vanilla parent profile: `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS
 **Troop type:** HI  
 **Regularity:** Regular
 
-The vanilla source exposes the following standard loadout IDs in the pinned projection; do not substitute the White Banner/Invincible Army point/SWC projection without checking the vanilla source.
+Base profile: `MOV 15-5 | CC 19 | BS 14 | PH 13 | WIP 14 | ARM 5 | BTS 6 | W 2 | S 2`.
 
-| Profile ID | Points | SWC | Loadout / role |
-|---:|---:|---:|---|
-| 4 | 54 | 1.5 | Missile Launcher, Nanopulser, Boarding Shotgun, Pistol, AP CCW |
-| 5 | 58 | 0 | AP HMG, Nanopulser, Pistol, AP CCW; Hacking Device |
-| 7 | 56 | +1 | AP HMG, Nanopulser, Pistol, AP CCW; NCO |
+**Common equipment/skills:** Multispectral Visor L1; Courage, Hidden Deployment, Mimetism (-6), Stealth.
+
+| Profile ID | Label | Points | SWC | Loadout / role |
+|---:|---|---:|---:|---|
+| 4 | HAC TAO (BS Attack +1B) | 60 | 1.5 | Missile Launcher (+1B), Nanopulser, Pistol, Shock CCW (PS=6) |
+| 5 | HAC TAO (Hacker, Hacking Device) | 58 | 0.5 | MULTI Rifle (PS=6), Nanopulser, Pistol, Shock CCW (PS=6); Hacking Device |
+| 7 | HAC TAO (NCO) | 59 | 1.5 | HMG, Nanopulser, Pistol, Shock CCW (PS=6); NCO |
 
 ## Canonical Fireteams
 
@@ -252,7 +246,7 @@ This section is authoritative for main-force Fireteam legality in this file. The
 
 | Wildcard | Unit ID | Max | Counts as | FTO/profile restriction | Notes |
 |---|---:|---:|---|---|---|
-| Johnny Kao | 1892 | 1 | — | all vanilla profiles | May join an otherwise legal main-force Yu Jing Fireteam; does not remove team-size or chart-limit requirements |
+| Johnny Kao | 1892 | 1 | — | all vanilla profiles | May join an otherwise legal main-force Yu Jing Fireteam; does not remove chart/team requirements |
 
 ## Unit → Fireteam access index
 
@@ -344,32 +338,32 @@ The Daebak source `spec` block records `CORE: 0`, `HARIS: 0`, `DUO: 0`; the name
 
 ## Tactical tags
 
-Derived analysis aids, not official characteristics. These tags are intentionally broad until the complete vanilla loadout projection is inlined.
+Derived analysis aids, not official characteristics. These remain deliberately broad until all vanilla loadouts are inlined.
 
 | Unit | Tags |
 |---|---|
-| Gūijiă | TAG, TacAware, heavy gunfighter, CC mobility |
+| Gūijiă | TAG, heavy gunfighter, CC mobility |
 | Blue Wolf | TAG, mobile attack, close-range pressure |
-| Lóngwáng | TAG, TacAware/NCO profile family, control weapons |
+| Lóngwáng | TAG, control weapons |
 | Hac Tao | hidden deployment, Mimetism (-6), heavy gunfighter/hacker/NCO |
 | Dàofěi | camouflaged/infiltrating HI, midfield attacker/specialist |
 | Húláng | midfield/assault HI, strong CC, vanilla Duo option through FTO profiles |
 | Mówáng | durable attack HI, vanilla Duo option |
-| Shàng Jí | TacAware HI, vanilla Duo option |
+| Shàng Jí | HI, vanilla Duo option |
 | Zúyŏng | efficient HI, vanilla Duo/Haris anchor |
 | Sulyong | mobile MI, vanilla Duo/Haris option |
 | Hwarang | aggressive HI, vanilla Duo/Haris option |
 | Dokkaebi | cyber/support HI, vanilla Duo/Haris option |
-| Bìxié | mobile NCO/FO character, vanilla Duo/Haris option |
-| Krit Kokram | Engineer, vanilla Duo/Haris option through exact FTO profiles |
-| Sù-Jiàn | very fast durable attack piece, vanilla Duo option |
+| Bìxié | mobile character, vanilla Duo/Haris option |
+| Krit Kokram | Engineer/NCO, vanilla Duo/Haris option through exact FTO profiles |
+| Sù-Jiàn | fast durable attack piece, vanilla Duo option |
 | Shaolin | smoke/CC warband, vanilla Duo option |
 | Johnny Kao | main-force Wildcard |
 | Gŭiláng | camouflaged infiltrating specialist |
 | Zhēnchá | camouflaged infiltrating HI specialist |
 | Tiger Soldier | airborne attack/specialist |
 | Liú Xīng | airborne HI attack/specialist |
-| RacerBot | very fast TacAware attack/support REM profiles |
+| RacerBot | very fast utility REM; two 9-point variants in pinned vanilla source |
 | Wèibīng | Sensor/FO Repeater |
 | Pangguling | Baggage/EVO/support REM |
 | Son-Bae | missile/guided support REM |
