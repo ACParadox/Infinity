@@ -238,3 +238,15 @@ The list-building strategy notes are split by related subject so individual topi
   - EVO criteria
   - Guided/network payoff
   - hacking-area denial packages
+
+- [State warfare and non-lethal control](list-building/state-warfare-and-non-lethal-control.md)
+  - functional kills and stopping attacks once a model is strategically dead
+  - IMM-A/B, Isolated, Targeted, Stunned, Possessed, Engaged, Unconscious, and Suppressive Fire
+  - matching states to movement, attack, Order, network, scoring, and recovery denial
+  - state stacking and diminishing returns when one Engineer roll clears multiple states
+  - Reset economics and recovery Order debt
+  - attacking Engineers, Servants, Doctors, and recovery routes before premium targets
+  - the limits of isolating an Engineer that is already positioned to recover a TAG
+  - Turn-1 versus Turn-3 control value
+  - list-building for offensive state delivery and recovery resilience
+  - leaving expensive disabled models alive when further attacks have poor marginal value
