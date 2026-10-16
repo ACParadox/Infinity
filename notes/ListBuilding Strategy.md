@@ -26,6 +26,19 @@ The list-building strategy notes are split by related subject so individual topi
   - Counterintelligence
   - general Lieutenant-selection heuristics
 
+- [Command Tokens](list-building/command-tokens.md)
+  - second-player Order removal
+  - Speedballs
+  - Doctor/Engineer rerolls
+  - Irregular-to-Regular conversion
+  - Combat Group transfers
+  - Coordinated movement and Suppressive Fire
+  - Fireteam reconstruction
+  - emergency Guts/Possessed uses
+  - Inspiring Leadership Command Token substitution
+  - Strategos L2 free Combat Group restructuring
+  - proactive list construction around free command effects
+
 - [Order efficiency](list-building/order-efficiency.md)
   - Order generation and Order density
   - Combat Group and Order flexibility
