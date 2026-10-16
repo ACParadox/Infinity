@@ -124,6 +124,25 @@ The list-building strategy notes are split by related subject so individual topi
   - dependency chains and recovery denial
   - what needs to die now vs what can be ignored
 
+- [Marker-state and deception strategy](list-building/marker-state-and-deception-strategy.md)
+  - staying Camouflaged instead of taking low-value AROs
+  - Discover tax, Discover geometry, and Discover + Shoot decisions
+  - forcing Discover-versus-Delay declaration forks
+  - re-Camouflage as an information reset
+  - marker saturation and information saturation
+  - Mine/Camo ambiguity and layered real area denial
+  - Decoy positioning and plausible false locations
+  - HoloMask, Holoecho, and Lieutenant shell games
+  - Impersonation as persistent threat and deployment distortion
+  - Hidden Deployment and control of apparently empty space
+  - private information and concealed command possibilities
+  - markers as area-control pieces without attacking
+  - Coordinated Camo-marker movement and prioritization overload
+  - Sensor, MSV, Biometric Visor, Intuitive Attack, and counter-tool differentiation
+  - attacking enemy information-clearing pieces
+  - Turn-1 preservation vs Turn-3 conversion into scoring
+  - current N5 video-research references
+
 - [Speculative Fire](list-building/speculative-fire.md)
   - bypassing setup and defensive MOD stacks
   - positional pressure and forced responses
