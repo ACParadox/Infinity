@@ -49,6 +49,15 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [Speculative Fire](list-building/speculative-fire.md)
+  - bypassing setup and defensive MOD stacks
+  - positional pressure and forced responses
+  - residual-Order conversion, especially in Group 2
+  - cluster hunting and template placement
+  - reliability, Fireteam bonuses, and profile evaluation
+  - support/command targeting and Group 2 roles
+  - practical decision rules and anti-patterns
+
 - [Cheap, midfield, and support troops](list-building/cheap-midfield-and-support-troops.md)
   - weak/line troops
   - cheap Regular Orders
