@@ -782,49 +782,364 @@ Whenever possible, end the run so the attacker becomes **another inner defensive
 
 ---
 
-# 21. ARO decision framework
+# 21. ARO declaration and reactive decision theory
 
-When an enemy activates, do not reflexively choose the most aggressive declaration.
+Reactive play is a decision problem under uncertainty. The Active Player normally declares the first Skill, sees your ARO, and then chooses the second Skill. This gives the Active Player a built-in ability to **fork** reactive declarations: move into a position where shooting, Dodging, Resetting, Discovering, or doing nothing each answers a different possible continuation.
 
-Use this sequence.
+The central reactive question should therefore not be:
 
-## Step 1 — What is the attacker actually trying to achieve?
+> **"What declaration gives me the best odds in this roll?"**
 
-Possibilities:
+It should be:
 
-- cross the table;
-- remove this defender;
-- reach an objective;
-- enter the DZ;
-- place a Pitcher or deployable;
-- Discover a marker;
-- force the defender to reveal;
-- reposition for the next Order.
+> **"What declaration causes the Active Player the greatest future cost?"**
 
-## Step 2 — What declaration hurts that plan most?
+A useful reactive-value model is:
 
-The answer may be:
+> **Reactive value = Orders added + resources consumed + route distortion + information preserved/forced + mission delay + counterattack exposure - future utility sacrificed.**
 
-- Shoot;
-- Dodge;
-- Reset;
-- template attack;
-- hacking ARO;
-- Discover;
-- remain in marker/hidden state where legal;
-- accept the sacrifice because another layer matters more.
+This is deliberately broader than probability of winning the current Face-to-Face Roll.
 
-## Step 3 — What happens next Order if this succeeds?
+For exact timing and legality, see the repository rules for ARO, Dodge, Reset, Discover, Camouflaged State, Hidden Deployment, Stealth, Sixth Sense, Combat Instinct, Direct Template Weapons, and Coordinated Orders.
 
-This is the critical question.
+## 21.1 Think one Order ahead
 
-A mediocre attack may be worse than a Dodge that breaks LoF and costs another Order.
+After the Active Player declares the first Skill, identify what they are trying to make possible with the second Skill and the following Order.
 
-A low-damage Flash Pulse may be better than preserving a cheap model if Stunned would end the attack run.
+A model moving around a corner may intend to:
 
-A marker reveal may be worse than remaining concealed and controlling the route.
+- shoot;
+- template;
+- hack;
+- Move again;
+- enter Silhouette contact;
+- place a deployable or Pitcher;
+- interact with an objective on the following Order;
+- reveal a marker-state attack;
+- force your ARO and choose whichever second Skill punishes it.
 
-Think one Order beyond the current roll.
+The best ARO often does not maximize immediate survival or damage. It makes the **next Order awkward, expensive, or impossible**.
+
+Examples:
+
+- a Dodge into Total Cover may be worth more than a weak B1 shot because it forces another movement Order;
+- a Flash Pulse may be worth more than damage because Stunned ends the attack run;
+- a Reset may be worth more than returning fire because preventing IMM-B or Targeted denies an entire follow-up sequence;
+- remaining Camouflaged may be stronger than revealing for a speculative shot because the unresolved marker continues taxing movement.
+
+When evaluating an ARO, ask:
+
+1. What does the attacker want this Order to accomplish?
+2. What does the attacker want the **next** Order to accomplish?
+3. Which declaration damages that sequence most?
+
+## 21.2 Shoot vs Dodge vs Reset vs Discover vs Delay vs no ARO
+
+| Declaration | Main purpose | Best when |
+| --- | --- | --- |
+| **BS/CC/Comms Attack** | Immediate removal, state, or credible threat | One success strongly changes the attack plan |
+| **Dodge** | Survival plus positional change | Repositioning forces another Order or closes a route |
+| **Reset** | Deny Comms setup or remove relevant states | Hacking success would make the next Orders much cheaper |
+| **Discover** | Convert marker uncertainty into future attackability | Revealing the Marker materially worsens its next Order |
+| **Delay** | Refuse to commit before a Marker reveals its intention | The Marker wants to attack or reveal this Order |
+| **No ARO / remain concealed** | Preserve information and future threat | Revealing would buy too little compared with continued uncertainty |
+
+Do not treat Delay as a generic option. It exists only where the rules explicitly permit it, most importantly against Camouflaged Markers. If the Marker does not reveal with the second Skill, the delaying Trooper loses that ARO.
+
+Similarly, deliberately declaring nothing is not passive play. A Camo or Hidden Deployment piece may create more cost by remaining unknown than by taking one low-value shot.
+
+## 21.3 Shoot when consequence matters more than survival
+
+Attack when one successful hit creates a large future problem even if the odds are mediocre.
+
+Strong reactive attacks often include:
+
+- EXP/DA/T2 or other high-consequence ammunition against a key attacker;
+- E/M, PARA, Adhesive, Stun, Flash, or hacking that disables rather than merely wounds;
+- shooting a Specialist immediately before scoring;
+- attacking a support piece that the main attacker depends on;
+- forcing a fast attacker to stop using `Move + Move`;
+- attacking an enemy whose loss collapses the rest of the attack sequence.
+
+The relevant comparison is not only hit probability. It is:
+
+> **probability of success × consequence of success.**
+
+A Panzerfaust, Missile Launcher, E/M weapon, Flash Pulse, or disabling hacking program can be a better ARO than a statistically safer low-impact option because the attacker cannot comfortably accept the consequence of losing.
+
+## 21.4 Dodge is often an investment in the next ARO
+
+Dodge should be evaluated as **movement plus survival**, not merely as a defensive roll.
+
+A successful reactive Dodge can:
+
+- reach Total Cover;
+- move behind a corner;
+- move deeper into the defensive structure;
+- change the next range band;
+- reach template range;
+- enter Engaged State;
+- body-block or narrow a movement route;
+- move toward Doctor/Engineer recovery access;
+- force the attacker to reacquire LoF.
+
+Compare the whole sequence.
+
+If shooting gives a small chance to wound but Dodge gives a high chance to disappear behind Total Cover, the Dodge may be worth **an entire additional enemy Order**.
+
+Likewise, a cheap troop that Dodges into Silhouette contact can transform an elite shooter's efficient gun run into a CC-removal problem.
+
+This is why the correct reactive question is often:
+
+> **"Where will this model be if the Dodge succeeds?"**
+
+not merely:
+
+> "What is my PH?"
+
+## 21.5 Reset is about denying the follow-up
+
+Reset is strongest when the incoming Comms Attack is a **setup effect** whose real value appears on later Orders.
+
+Examples include attempts to:
+
+- Immobilize a TAG or HI before shooting/CC;
+- apply Targeted before Guided attacks or other follow-up pressure;
+- force a high-value model to spend future Orders clearing states;
+- establish a hacking advantage that opens a protected route.
+
+Ask what the successful hack enables.
+
+If accepting the current Comms Attack makes the next three enemy Orders dramatically stronger, Reset may be the highest-value declaration even when another ARO looks more immediately aggressive.
+
+Conversely, do not Reset merely because a Hacker is present. If a disposable defender can instead remove the Repeater carrier, Pitcher platform, Hacker, or other enabling piece, attacking the infrastructure may create more future cost.
+
+## 21.6 A Normal Roll can be better than a bad Face-to-Face
+
+Reactive players often overvalue Face-to-Face Rolls because they combine attack and defence.
+
+Sometimes contesting the attacker is exactly what the Active Player wants: their Burst, modifiers, and chosen range can reduce the reactive piece to a tiny chance of affecting the game.
+
+A deliberate **Normal Roll trade** can be better when the defender is expendable and the attacker's survival matters much more.
+
+The classic case is a Direct Template Weapon.
+
+If a cheap template defender accepts that it will probably die and places the template instead of taking an awful B1 gunfight, the attacker must deal with the automatic template hit and make the appropriate Saving Roll unless it Dodges successfully. A return BS Attack against the template user is not Face-to-Face with the template.
+
+Prefer the trade when:
+
+- the defender is cheap or already strategically spent;
+- the attacker is expensive or mission-critical;
+- one wound/state may end the attack run;
+- the attacker already spent several Orders reaching the defender;
+- the template catches multiple Active Troopers;
+- survival of the defender has little future value.
+
+This principle extends beyond templates. Whenever the Face-to-Face odds are dreadful, ask whether another declaration creates an **independent risk** the attacker cannot cancel with superior dice.
+
+## 21.7 Discover versus Delay against Markers
+
+Against a Camouflaged Marker, the defensive problem is not simply "Discover or not."
+
+### Discover
+
+Discover is strongest when revealing the Marker now materially worsens its next Order.
+
+Good reasons include:
+
+- the Marker is approaching an objective;
+- revelation removes future Surprise Attack leverage;
+- another defender can exploit the revealed model on the next Order;
+- the Marker must cross another ARO after this one;
+- Discover modifiers are favorable;
+- several different defenders can attempt Discover simultaneously.
+
+Do not waste strong Discover pieces on low-value, long-range attempts merely because a Marker appeared. A failed Discover prevents that Trooper from trying against the same Marker again that Player Turn.
+
+### Delay
+
+Delay is strongest when the Marker wants to reveal and attack during the current Order.
+
+It creates a useful fork:
+
+> **Reveal and give me my full ARO, or remain concealed and accomplish less.**
+
+But do not Delay automatically. If the Marker is perfectly happy to `Move + Move`, delaying may simply donate free movement.
+
+Ask:
+
+> **"Does this Marker need to reveal now, or am I letting it advance for free?"**
+
+If allowing another Move would put the Marker in a decisive position, Discover or Dodge may be more valuable.
+
+## 21.8 Preserve Camo and Hidden information when the reveal is too cheap
+
+Information is a defensive resource.
+
+Revealing a Camo or Hidden Deployment piece gives the opponent more than a target. It may reveal:
+
+- exact identity;
+- weapons and equipment;
+- the fact that a marker is not a Mine;
+- the location of a Hacker or support piece;
+- the absence of another hidden threat in that area;
+- the safe routes that remain after the reveal.
+
+Therefore every concealed ARO has a **reveal cost**.
+
+A Camo troop should often decline a low-value shot if staying a Marker continues to impose a Discover tax, protects Surprise Attack, or makes an objective approach uncertain.
+
+Hidden Deployment makes the calculation even harsher because the opponent may not even know a threat exists. Do not reveal simply because the first legal shot appears. Strong reveal points are usually after the attacker has:
+
+- crossed its previous safe position;
+- spent several Orders reaching the area;
+- left support behind;
+- reached a mission-critical interaction point;
+- entered an unfavorable range band;
+- committed its primary attacker beyond cheap retreat.
+
+A Hidden Deployment model that never reveals can still have generated value if the opponent distorted movement or spent Orders respecting the possibility.
+
+## 21.9 Coordinated Orders: react to the model that matters after the Order
+
+A Coordinated Order can activate several Troopers, but each Reactive Trooper chooses only one of those Active Troopers as the target of its ARO.
+
+The obvious target is often the Spearhead because it normally retains the strongest Burst. That is correct when the Spearhead is also the key future threat.
+
+But do not target the Spearhead automatically.
+
+A non-Spearhead may be more important if it is:
+
+- the Specialist that will score next;
+- the Engineer supporting a TAG;
+- the only E/M, template, or disabling weapon in the group;
+- the easiest model to remove and therefore the best way to break the follow-up plan;
+- a high-value support piece that is temporarily exposed only because of the coordination.
+
+The useful question is:
+
+> **"Which activated model creates the most enemy value after this Order resolves?"**
+
+### Shoot one or Dodge the whole problem
+
+If several coordinated attackers all affect the same defender, shooting one member may produce a Face-to-Face exchange against that model while allowing other attacks to resolve as Normal Rolls.
+
+Dodge can therefore be substantially more attractive than shooting one participant, particularly when survival and repositioning matter more than trading into a specific member.
+
+### Templates punish clustered coordination
+
+A reactive template can also invert the usual efficiency of coordination. Several models moving through the same narrow geometry may all become exposed to one cheap template ARO.
+
+Against armies likely to use coordinated advances, defend narrow gates with some template coverage rather than relying exclusively on conventional gunfighters.
+
+## 21.10 Stealth, ZoC, Sixth Sense, and Combat Instinct
+
+Do not count every ZoC or Hacking Area as a guaranteed reactive layer.
+
+### Stealth
+
+Stealth can suppress ZoC/Hacking Area ARO generation for movement-based Skills when the Active Trooper remains outside LoF. This allows a Stealth attacker to move through parts of a defensive network without provoking the usual Dodge, Reset, or hacking AROs.
+
+This makes the following more important:
+
+- actual LoF geometry;
+- deployables that do not care about Stealth;
+- positioning that forces the attacker to perform a non-movement Skill before reaching the valuable target;
+- Sixth Sense;
+- Combat Instinct.
+
+### Sixth Sense
+
+Sixth Sense is primarily a reactive anti-bypass tool. It lets the user respond to Attacks directed at them from outside LoF, defeats Stealth, and improves Dodge/Reset reliability by ignoring most negative MODs that would normally apply.
+
+It does **not** create generic 360-degree awareness against every movement. An enemy simply moving outside LoF is not the same as an enemy attacking the Sixth Sense user.
+
+Strategically, Sixth Sense removes many of the attacker's usual ways to create a safe approach followed by an uncontested attack.
+
+### Combat Instinct
+
+Combat Instinct solves a different problem. It defeats Stealth and ignores Surprise Attack MODs, but does not provide Sixth Sense's attack-triggered out-of-LoF perception.
+
+A useful shorthand is:
+
+> **Sixth Sense = harder to bypass or fork through awareness.**
+>
+> **Combat Instinct = harder to ambush through Stealth + Surprise.**
+
+Both are valuable defensive anchors against infiltrators, impersonators, and short-range assassins.
+
+## 21.11 Protect information and force information asymmetry
+
+The Reactive Player manages three broad resources:
+
+1. models and wounds;
+2. position;
+3. information.
+
+The third is often spent too cheaply.
+
+Revealing a hidden weapon, Hacker, Camo identity, Hidden Deployment piece, or template guard changes how every later enemy Order is planned.
+
+Before revealing, ask:
+
+> **"Will revealing this threat create more future cost than leaving the possibility of the threat intact?"**
+
+If not, preserve it.
+
+The inverse is also useful: Discover, Sensor, forcing a Marker to reveal, or baiting a hidden ARO can be valuable because it purchases information even when no model dies.
+
+Reactive decision theory is therefore partly an **information economy**. A strong defence tries to make the Active Player commit Orders before they know the complete problem.
+
+## 21.12 Template trading and future-cost math
+
+A cheap reactive piece can produce large value by forcing a high-value attacker to choose between:
+
+- Dodge and lose offensive tempo;
+- attack and accept an unopposed template or other Normal Roll;
+- stop and remove the defender first;
+- take another route.
+
+All of those outcomes can be defensive wins.
+
+This is especially powerful near:
+
+- objectives;
+- narrow corners;
+- DZ breach points;
+- Fireteam/coordinated movement paths;
+- retreat routes;
+- support clusters.
+
+A template defender is not primarily asking, "Can I kill this model?"
+
+It is asking:
+
+> **"Can I make this model spend an extra Order, lose movement, accept a Save, or stop the attack run?"**
+
+That is the correct way to evaluate sacrificial template defence.
+
+## 21.13 Reactive decision procedure
+
+For actual play, use this sequence after the Active Player's first Skill:
+
+1. **What is the attacker trying to accomplish this Order?**
+2. **What second Skill are they hoping I allow?**
+3. **What will their next Order be if I do nothing?**
+4. **Can I force another movement/setup Order instead?**
+5. **Is survival important, or is this defender disposable?**
+6. **Would Dodge movement improve the next engagement more than shooting now?**
+7. **Would Reset deny a setup that makes later Orders much stronger?**
+8. **Against a Marker, does Discover matter now, or should I Delay?**
+9. **Am I spending Camo/Hidden information for too little value?**
+10. **Can a Normal Roll/template trade create more real risk than a terrible Face-to-Face?**
+11. **Against a multi-model activation, which model matters most after this Order?**
+12. **What declaration leaves the attacker in the worst position for my next defensive layer or counterattack?**
+
+Then apply the governing question:
+
+> **What declaration causes the Active Player the greatest future cost?**
+
+That is the reactive-turn equivalent of target priority.
 
 ---
 
@@ -951,8 +1266,10 @@ Before finishing deployment, ask:
 16. **Is there at least one threat the opponent cannot completely account for from Open Information?**
 17. **Where is the opponent's main attacker likely to finish after spending six to eight Orders?**
 18. **What attacks that model on my following Active Turn?**
+19. **Which ARO declaration would create the greatest future Order cost rather than merely the best current roll?**
+20. **Against Camo/Hidden pieces, am I preserving information until the reveal actually matters?**
 
-The last two questions link defence directly to counterattack planning.
+The last questions link defence directly to reactive decision quality and counterattack planning.
 
 ---
 
@@ -970,7 +1287,13 @@ The practical principles are:
 - cover attack positions and commitment points rather than merely adding more guns;
 - use cheap troops deliberately as Order taxes;
 - preserve hidden and marker-state threats until the reveal changes the attack plan;
+- choose AROs by future cost, not merely current Face-to-Face odds;
 - Dodge when movement/survival costs the opponent more than a weak shot;
+- accept Normal-Roll/template trades when an expendable defender can impose disproportionate risk;
+- use Reset to deny setup sequences rather than merely react to hacking in isolation;
+- Discover or Delay against Markers according to what the Marker needs to accomplish next;
+- against Coordinated Orders, react to the model whose survival matters most after the Order rather than automatically targeting the Spearhead;
+- account for Stealth, Sixth Sense, and Combat Instinct when evaluating ZoC and ambush geometry;
 - give premium AROs an escape route and recovery path;
 - use Suppressive Fire to control pockets and intersections;
 - combine LoF, hacking, templates, deployables, and information threats;
