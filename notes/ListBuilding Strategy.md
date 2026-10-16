@@ -52,6 +52,21 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
+- [Deployment, Initiative, and Reserve strategy](list-building/deployment-initiative-and-reserve-strategy.md)
+  - Turn-Zero decision states
+  - keeping Initiative vs keeping Deployment
+  - the Deployment Fork
+  - first-turn alpha vs second-turn scoring
+  - table-side and matchup analysis
+  - information gathering before deployment
+  - defensive deployment and Order protection
+  - Lieutenant and DZ-strike deployment audits
+  - offensive vs defensive reserve selection
+  - Strategos and Command Token extra reserves
+  - placement order, Camo-heavy matchups, and null deployment
+  - practical decision matrix and deployment checklist
+  - current video/community research references
+
 - [Mission, scoring, and Specialist strategy](list-building/mission-scoring-and-specialist-strategy.md)
   - Specialist quantity and independent scoring paths
   - fast vs infiltrating vs durable Specialists
