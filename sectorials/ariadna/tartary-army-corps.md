@@ -551,3 +551,311 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 - Main and Reinforcement Wildcards are not merged.
 - Package troops (Carmen & Bâtard, Strelok K-9, Antipode Assault Pack) preserve their included Peripheral relationships.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## Strategy and listbuilding research
+
+Research synthesis updated **2026-10-16**. This section is strategic guidance rather than rules data; when older commentary conflicts with the canonical N5.3 roster or Fireteam chart above, the pinned Army data wins.
+
+### Source handling
+
+The research pass compared current and recent TAK discussion across long-form video/podcast material, transcript-derived community discussion, faction articles, and player list examples. Direct YouTube caption retrieval was not available for every video, so presenter-specific claims below are only attributed where the surrounding source material exposed enough detail to support them. Video titles alone are not treated as evidence.
+
+The strongest cross-source agreement is that modern TAK is **not simply Camo spam**. It combines a stable defensive backbone with asymmetric midfield pieces and a small number of efficient active attackers. The normal plan is to force the opponent to spend Orders clearing mediocre-looking problems, reveal information and commit an important attacker, then counterattack with a hidden or protected gun.
+
+### Recurring list structure
+
+| Job | Common TAK solutions | What the slot is doing |
+|---|---|---|
+| Defensive anchor | Vystrel, Kuryer/Traktor, Frontovik, Gunnery Fireteam | Taxes movement and forces the opponent to commit resources before reaching valuable pieces |
+| Midfield control | Scout, Strelok, Beasthunter, Barsuk, Konduktor | Camo/Decoy/mine ambiguity, objective presence, short-range punishers |
+| Primary active gun | TankHunter AP HMG or Autocannon, Spetsnaz HMG, Veteran Kazak AP HMG, deliberate Ratnik build | Removes the hard target after the defensive shell has exposed it |
+| Pressure/trading | Dog-Warrior, Antipode Assault Pack, Carmen & Bâtard, Dynamo, Irmandinho | Smoke, templates, Sensor, mine triggering, fast approach and disposable pressure |
+| Command | Voronin, Veteran Kazak LT, TankHunter LT, Vassily, Scout/Line Kazak niche LTs | Determines whether the LT is an economy piece, durable active piece or hidden shell |
+| Succession | TankHunter CoC Minelayer; Vassily CoC | Lets an exposed LT play aggressively without buying a completely passive insurance model |
+| Support | Dozer, Kazak Doktor, 112, Remontnikbot | Keeps REM/HI packages functional and supplies mission specialists |
+| Cheap Fireteam glue | Line Kazak, Barsuk FTO, Konduktor FTO, Beasthunter FTO | Keeps the link inexpensive while adding templates, mines or specialist coverage |
+
+A useful default is **many annoying problems, few premium killers**. TAK does not need every marker to be dangerous enough to kill a heavy infantry model; it needs the opponent to be unsure which markers, mines, templates and AROs deserve Orders now.
+
+### Go-to units
+
+#### Scouts
+
+Scouts are one of the most consistently useful current TAK pieces because they combine true Camouflage, Infiltration, Mimetism, AP shooting and useful mine packages.
+
+- **Minelayer (2), Ohotnik + E/M Mine (28/0.5):** premium board-control profile. Two deployables plus a real Camo gun make a lane or objective cluster expensive to approach.
+- **Forward Observer (28):** strong objective specialist that is still a credible shooter.
+- **T2 Boarding Shotgun (23):** cheap close-midfield attack profile.
+- **Lieutenant (27):** viable hidden-command option when the list wants an LT inside the marker shell, but it spends a high-quality Scout slot on command duty.
+
+Do not judge Scouts only by how many enemy models they personally kill. A Scout that forces Discover, Dodge, mine-clearing and rerouting has already generated value.
+
+#### Streloks
+
+Streloks are the cheaper complementary marker family and are excellent at attacking the **easy target that matters** rather than the opponent's best gun.
+
+- **SMG + Chain-colt (16):** extremely efficient marker/order-tax piece.
+- **Minelayer Boarding Shotgun (17/0.5):** cheap additional mine plus a dangerous close-range reveal.
+- **Forward Observer (17):** inexpensive specialist in the midfield shell.
+- **T2 Marksman Rifle (24):** the version to choose when the marker is expected to make real gunfights.
+- **K-9 Specialist (26):** combines a scoring controller with a synchronized Antipode carrying Sensor, Climbing Plus and PH15. Particularly useful when opposing Camo is likely to matter.
+
+The K-9 profile is effectively a specialist plus a dedicated marker-hunting/mobility tool in one slot.
+
+#### TankHunters
+
+TankHunters are one of the strongest recurring TAK recommendations because multiple profiles solve structural list problems.
+
+- **AP HMG (33/1.5):** premier protected active-turn gun. Keep it unrevealed until there is a target worth spending the marker on.
+- **Portable Autocannon (36/1.5):** more specialized hard-target ambush with excellent threat value.
+- **Missile Launcher (28/1.5):** hidden long-range reactive threat when that is what the table requires.
+- **CoC + Minelayer (25):** one of the cleanest succession packages in the faction: Chain of Command, Camo, AP mine and Panzerfaust are all useful even if succession never happens.
+- **FD+20 Minelayer (24/0.5):** pushes the mine/marker shell forward without spending Scout points.
+- **LT Minelayer (25):** a workable hidden-LT architecture.
+
+The important listbuilding point is that **TAK's CoC tax is unusually productive**. TankHunter CoC is not just a model hiding in the DZ waiting for the LT to die.
+
+#### Vystrel and Gunnery pieces
+
+The post-update defensive shell is one of the most distinctive current TAK tools.
+
+- **Vystrel AP Sniper (23/0.5):** cheap Sapper long-range piece when active Burst matters more than Neurocinetics.
+- **Vystrel Neurocinetics AP Sniper (26/0.5):** efficient reactive lane holder.
+- **Vystrel Neurocinetics Portable Autocannon (32/1.5):** heavier anti-armor ARO anchor.
+- **Kuryer Uragan (18/1):** Total Reaction plus Minelayer and chest/shock mines; useful defensive clutter rather than only an artillery gun.
+- **Traktor Mul (5):** very cheap Regular Order plus Baggage/REM utility when the list has room for the S4 base.
+
+The best use is usually **layered defence**, not exposing every expensive gun simultaneously. One visible long-range problem plus hidden markers, mines and short-range templates often costs more Orders than two or three obvious ARO guns that can all be solved by the same attacker.
+
+A practical constraint is physical: S4/S5 bases need hiding places. Heavy artillery saturation can become a deployment problem on dense tournament tables.
+
+#### Veteran Kazaks
+
+Veteran Kazaks are the dependable premium all-rounder rather than mandatory spam.
+
+- **FO (36):** durable WIP14 specialist with X-Visor, T2 rifle, LFT, Mimetism, NWI and strong immunities.
+- **LT FO (36):** one of the best generalist command profiles because the LT can actually score and fight.
+- **AP HMG (45/1.5):** expensive but reliable active gun.
+- **LT AP HMG (45/1):** aggressive command/gun profile; pair with succession insurance if it is expected to fight early.
+
+One Veteran Kazak is easy to justify. Multiple Veterans are a deliberate investment rather than an automatic sectorial requirement.
+
+#### Spetsnaz
+
+The **Camo/Decoy HMG (36/1.5)** remains an excellent independent active attacker: Marksmanship, Mimetism, Surprise Attack and a protected starting state let it attack after the opponent has committed.
+
+The **Parachutist shotgun/AP SMG profiles (27)** provide a different axis: they punish weak backfield troops and order pools without needing to fight the opponent's front-line ARO architecture.
+
+### Fireteam patterns
+
+TAK Fireteams are generally best treated as **supporting architecture**, not as the entire army.
+
+#### Gunnery Haris/Duo
+
+The distinctly current TAK defensive team. Build it to create a lane problem and support network, not to consume half the list in artillery.
+
+Typical logic:
+
+- one Vystrel/Kuryer/Traktor required-choice piece;
+- optionally a Dozer for repair, Deactivator/GizmoKit and mission work;
+- Barsuk FTO can join as a cheap Wildcard and adds a Heavy Flamethrower/Light Shotgun body.
+
+This team is especially valuable when the rest of the list contains Camo/mines that punish the opponent for taking the alternate route around the gun.
+
+#### Line Kazak Core/Haris
+
+This is the flexible cheap shell.
+
+Useful inserts include:
+
+- up to two Veteran Kazaks;
+- one Frontovik;
+- Dozer;
+- Kazak Doktor;
+- Konduktor FTO;
+- Beasthunter FTO;
+- Barsuk FTO as Wildcard;
+- Voronin as Wildcard/counts-as Line Kazak.
+
+The usual strength is **cheap bodies around one or two models that actually need the team**, rather than paying for five premium shooters.
+
+#### Veterans Core/Haris/Duo
+
+Built from Veteran Kazaks and/or Frontoviks, with 112 FTO support. Use this when the list wants a tougher mobile gun/specialist block. It costs enough that the rest of the army should still retain marker and pressure elements; a full premium team plus too many other expensive pieces can erase TAK's asymmetric depth.
+
+#### Mobility Haris/Duo
+
+Current N5.3 Army data allows a Mobility team built around the required-choice set of **Dynamo and/or Ratnik**, with Frontovik, 112 Motorized and Ioann Bann support.
+
+This is an important correction to older October-2025 commentary that said Ratnik Fireteams had been removed. That historical statement is superseded by the current pinned Army chart: **Ratnik is presently a Mobility required-choice and can be in a Mobility Haris or Duo**.
+
+Dynamo is particularly useful here because the current profile has **Mine Dispenser (Shock)** in addition to high movement, Smoke Grenade Launcher, Mimetism and Dogged. Older commentary claiming current Dynamos lost Mine Dispenser is also stale relative to N5.3.
+
+### Lieutenant and Chain-of-Command packages
+
+#### Voronin LT + TankHunter CoC
+
+A safe strategic command package.
+
+Voronin currently brings **WIP14, Lieutenant (+1 Command Token), Counterintelligence, Sensor, Sixth Sense and Wildcard/counts-as Line Kazak**. Current N5.3 data does **not** list Strategos on Voronin; older advice describing him as a Strategos LT should not be carried forward.
+
+The TankHunter CoC Minelayer adds succession while still contributing Camo, an AP mine and a Panzerfaust threat.
+
+Use this package when the LT's job is command economy and support rather than primary attack.
+
+#### Veteran Kazak LT FO + TankHunter CoC
+
+Probably the cleanest aggressive-generalist command package.
+
+The Vet LT can move, score and fight instead of hiding. If it dies, the TankHunter assumes command while having already contributed to the marker/mine shell.
+
+#### Veteran Kazak AP HMG LT + TankHunter CoC
+
+The deliberate combat-LT version. The LT profile saves SWC versus the standard AP HMG and can be the primary gun, but succession insurance becomes more important because the LT is expected to expose itself.
+
+#### Vassily LT / Vassily CoC
+
+Viable but expensive.
+
+The LT/FO version gives Camo, Decoy (2), WIP14 and a T2 gun for 35 points. The CoC versions are 39 points and compete directly with the much cheaper TankHunter CoC Minelayer.
+
+Take Vassily when the list intends to exploit **his whole package**. If the only requirement is succession insurance, TankHunter CoC is usually much easier to fit.
+
+#### Other LTs
+
+- **TankHunter LT Minelayer:** strong shell-game command option.
+- **Scout LT:** hidden in the midfield marker game, but consumes a premium infiltrating slot.
+- **Line Kazak LT:** cheapest straightforward option when the command model is meant to stay irrelevant.
+- **Frontovik LT:** available when the team architecture naturally wants it, but usually less structurally distinctive than the options above.
+
+### Specific combos and sequencing
+
+#### 1. Defensive shell -> enemy commitment -> hidden attacker
+
+A common TAK sequence is:
+
+1. Vystrel/Frontovik/Gunnery piece controls an obvious lane.
+2. Scouts, Streloks, Barsuks, Konduktors and mines make alternate routes inefficient.
+3. The opponent spends Orders Discovering, Dodging, clearing deployables or moving the real attacker into position.
+4. Once that attacker is exposed or isolated, reveal the TankHunter/Spetsnaz or move a Veteran Kazak to remove it.
+
+This is more efficient than revealing the premium Camo gun for a marginal reactive shot on Turn 1.
+
+#### 2. Preserve markers when the ARO is bad
+
+A Camo marker that does not reveal still forces decisions: Discover, Dodge, ignore, reroute, or risk a mine/template. A low-odds rifle ARO that reveals and dies can be much less valuable than retaining uncertainty for another Order.
+
+The reactive question is often **"does revealing now cost the opponent more future Orders than staying a marker?"**
+
+#### 3. Pressure piece first, scoring piece second
+
+Dog-Warriors, Antipodes, Carmen, Dynamos and Irmandinhos can probe dangerous areas before the expensive specialist moves in.
+
+Use them to:
+
+- trigger or locate mines;
+- force template/Dodge decisions;
+- throw Smoke;
+- expose Camo or hidden AROs;
+- clear a corner or short-range defender;
+- create a safe path for the Scout/Strelok/Veteran that must actually score.
+
+Antipodes are particularly relevant because the pack brings Sensor, speed, Super-Jump and Tactical Awareness. Their value is not limited to CC kills.
+
+#### 4. Dozer + Gunnery package
+
+If the list buys Vystrel/Kuryer/Traktor pieces, a Dozer becomes much more attractive because the Engineer can repair Remote Presence models while also scoring and contributing another tactical tool.
+
+Profile choice changes the defensive texture:
+
+- **Blitzen:** another state/control threat;
+- **Deployable Cover:** table-geometry support for valuable pieces;
+- **Armed Turret:** additional cheap reactive friction.
+
+#### 5. Strelok K-9 specialist package
+
+The controller handles objectives while the synchronized Antipode provides Sensor, Climbing Plus and PH15 mobility. It is especially useful when the list otherwise lacks an easy way to challenge enemy markers around an objective.
+
+#### 6. Dynamo development package
+
+A Dynamo can spend its speed and Impetuous movement to develop while retaining its Regular Order for later use. Smoke creates safe crossings, while **Mine Dispenser (Shock)** lets the model leave area-control pieces after advancing. The 16-point Paramedic is a particularly fast mission piece; the 25-point AP Spitfire is the profile to consider when the Mobility team needs a gun rather than just development/scoring.
+
+### Lesser-used or underrated tools
+
+#### Konduktor infiltrator — 12 points
+
+Camo (1 Use), Infiltration, Chain-colt and Flammenspeer make this an unusually cheap ambiguous marker. It is not supposed to beat elite troops in repeated gunfights; it is supposed to create a bad short-range decision for a tiny investment.
+
+#### Barsuk Camo/Decoy profiles
+
+The **11-point HFT/shotgun** and **12-point Thunderbolt** profiles are useful because they look like cheap clutter until their specific range/template matters. The **10-point FTO** is also excellent inexpensive Fireteam glue with a Heavy Flamethrower.
+
+#### Antipode Assault Pack
+
+Community discussion pushed back on analyses that omitted Antipodes. Their combination of Tactical Awareness, multiple fast bodies, Sensor, Camo and AP CC creates pressure and objective disruption that raw gun comparisons undervalue.
+
+#### Irmandinho — 8 points
+
+Engineer, Smoke, PH14, AP CCW and D-Charges for very few points. The Irregular/Impetuous order structure means the model should be deployed where its own Order and Impetuous movement are likely to be useful rather than treated as generic pool filler.
+
+#### Traktor Mul — 5 points
+
+A very cheap Regular Order with Baggage and REM utility. Its S4 footprint and the Gunnery opportunity cost are the real constraints, not the profile's price.
+
+#### Dynamo Paramedic — 16 points
+
+A fast specialist with Smoke, Mimetism, Dogged and Mine Dispenser. It can solve mission geometry that a slow Kazak specialist cannot.
+
+### Disputed or build-around choices
+
+| Topic | View A | View B | Practical conclusion |
+|---|---|---|---|
+| Kuryer/Katyusha | Some TAK analysis is enthusiastic about the artillery package | Other players criticize repeated low-odds raw Speculative Fire | Kuryer can be good for Minelayer/Gunnery/board-control value; do not make unassisted Spec Fire the only attack plan |
+| Vassily | Expensive versus cheaper Camo/CoC tools | Experienced players still publish Vassily-centered balanced lists | Viable toolbox, not default tax |
+| Antipodes | Sometimes omitted from abbreviated faction reviews | Players argue strongly for their pressure, Sensor and objective value | Treat as a real archetype choice, not a fringe gimmick |
+| Ratnik | Expensive S5 build-around | Current N5.3 gives Tactical Awareness, +1B and Mobility FT access | Legitimate Mobility archetype, but not a universal staple |
+| Pavel | Strong-looking premium midfield fighter | WIP12 explicitly framed Pavel as "what's not" while other analysis is more positive | The clearest premium profile to scrutinize for opportunity cost |
+| Heavy artillery saturation | TAK can stack very efficient S4 defensive pieces | Large-base congestion and shared attack vectors can make them easy to solve | Usually buy enough defence to create layers, not every efficient artillery profile |
+| Big Core | Full Kazak/Veteran teams offer stable guns and specialists | TAK's marker pieces are too valuable to squeeze out | Fireteam as backbone is more common than Fireteam as entire game plan |
+
+### Example list archetypes seen in current discussion
+
+WIP12's April-2026 TAK episode published multiple Army codes with list names that illustrate the range of viable construction:
+
+- **"My main list"** — general balanced TAK.
+- **"Just two Guys and their tractors"** — artillery/REM-heavy defensive architecture.
+- **"Nice mix of things (Vassily)"** — Vassily inside a mixed combined-arms list.
+- **"Cavalry Artillery Infantry"** and **V2** — fast pressure plus static guns plus infantry/midfield.
+- **"Sensible ratnik list"** and a Ratnik-oriented list — deliberate Ratnik build-around.
+
+The lesson is not that one of these is the canonical TAK list. The recurring skeleton is role-based: **defence + markers + one or two real attackers + pressure + mission coverage**.
+
+### Practical build checklist
+
+For a generic 300-point TAK list, check for the following before optimizing individual profiles:
+
+1. **Command plan:** who is the LT, and does that LT need CoC?
+2. **One credible long-range defensive problem:** Vystrel/Gunnery/Frontovik or another deliberate ARO architecture.
+3. **Two to four meaningful midfield problems:** Scouts, Streloks, mines, Barsuks, Konduktor, Beasthunter.
+4. **At least one protected active gun:** TankHunter, Spetsnaz, Veteran Kazak or a deliberate Ratnik package.
+5. **A pressure/trading piece:** Dog-Warrior, Antipodes, Carmen, Dynamo, Irmandinho or Ioann depending on the mission.
+6. **Mission specialists that can survive to Turn 2/3:** do not spend every specialist as an early attacker.
+7. **Recovery if the expensive package justifies it:** Dozer/Doctor/112 rather than support by habit.
+8. **Range diversity:** do not make every important attack depend on one long-range gun or one close-range marker.
+9. **Deployment footprint:** count S4/S5 bases and verify the table can hide them.
+10. **Turn sequence:** know which cheap piece probes first and which premium piece is being preserved for the decisive attack.
+
+A strong TAK list should usually be able to answer: **what does the opponent have to spend Orders on before they are allowed to attack the model I actually care about?**
+
+### Research sources
+
+- Robert Shepherd, *Infinity N5 Faction Focus: Tartary Army Corps*: https://www.youtube.com/watch?v=eM5cM_Y18vk
+- Robert Shepherd written/supporting faction-focus page: https://buymeacoffee.com/robertshepherd/infinity-n5-faction-focus-tartary-army-corps
+- WIP12, Episode 203, *Tartary Army Corps with Copper* (April 2026), including example Army codes/list names: https://podfollow.com/wip12-an-infinity-the-game-podcast/episode/61410473e1a9722845a54faaec5feb1e12bcd8b7/view
+- O-12 Podcast, *Tartary Army Corps – Kontrolle durch Ungewissheit* (January 2026): https://o12podcast.substack.com/p/tartary-army-corps-kontrolle-durch
+- Bureau Aegis TAK discussion following the faction-focus material, including Kuryer, Antipode, Vassily and artillery pushback: https://www.bureau-aegis.org/forum/index.php?topic=17695.60
+- Bureau Aegis early-N5 TAK strategy discussion, including marker preservation, Strelok/Scout/TankHunter usage and defensive order-tax concepts: https://www.bureau-aegis.org/forum/index.php?topic=17729.0
+- Swiss Miss Gaming, current-N5 TAK tier-list video: https://www.youtube.com/watch?v=YTVcl3haxdg
+- DefectiveDice, *Getting Started with TAK*: https://www.youtube.com/watch?v=C8BmvBmu66M
+
+Where these sources discuss older Army versions, profile legality and current equipment are reconciled to the canonical N5.3 data in this file. In particular, current data confirms **Dynamo Mine Dispenser (Shock)**, **Ratnik Mobility Fireteam access**, and a **Voronin profile without Strategos**.
