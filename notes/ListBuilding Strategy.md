@@ -42,6 +42,18 @@ The list-building strategy notes are split by related subject so individual topi
   - Strategos L2 free Combat Group restructuring
   - proactive list construction around free command effects
 
+- [Advanced Coordinated Orders](list-building/advanced-coordinated-orders.md)
+  - ARO compression and forced reactive target choice
+  - strong Spearhead + B1 secondary threats
+  - Disposable-weapon volleys and multi-angle attacks
+  - coordinated Move, Suppressive Fire, Discover, and deployables
+  - coordinated Camo movement and re-Camouflage
+  - coordinated hacking and Close Combat
+  - coordinated Airborne Deployment
+  - N5 FAQ Special Dice interaction
+  - when Burst reduction makes coordination inefficient
+  - reactive counterplay and turn-by-turn use
+
 - [Order efficiency](list-building/order-efficiency.md)
   - Order generation and Order density
   - Combat Group and Order flexibility
