@@ -11,6 +11,18 @@ The list-building strategy notes are split by related subject so individual topi
   - medium-cost profiles
   - toolbox units and multipurpose characters
 
+- [Lieutenant and command structure](list-building/lieutenant-and-command-structure.md)
+  - cheap Lieutenant + identical-profile decoy + NCO
+  - protected/marker-state Lieutenants
+  - Strategos L1/L2
+  - active Lieutenant + Chain of Command
+  - apex Lieutenant without Chain of Command
+  - Inspiring Leadership + Irregular troops
+  - Lieutenant (+1 Order)
+  - SWC discounts/rebates
+  - Counterintelligence
+  - general Lieutenant-selection heuristics
+
 - [Cheap, midfield, and support troops](list-building/cheap-midfield-and-support-troops.md)
   - weak/line troops
   - cheap Regular Orders
