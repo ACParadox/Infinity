@@ -2,6 +2,8 @@
 
 Support should be treated as **board infrastructure**, not merely as “bringing a Doctor” or “bringing an Engineer.”
 
+For broader strategy around **combat Peripherals, Synchronized/Control bodies, ARO-choice pressure, Controller protection, Cyberplugs, and G: Jumper**, see `list-building/peripherals-synchronized-and-multi-body-troops.md`. This note remains the detailed source for Doctor/Engineer recovery architecture and Servant positioning.
+
 The central question is:
 
 > **When an important model goes down, can I actually recover it for roughly 1–3 Orders without exposing another valuable model?**
