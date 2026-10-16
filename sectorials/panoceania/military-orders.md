@@ -582,7 +582,7 @@ All rows below are in the chart's **Wildcards** row. Parenthetical values are Co
 | Crux Knight | 1815 | 1 | — | FTO |
 | Brother Konstantinos FTO | 47 | 1 | Crosier, Order Sergeant | FTO |
 | De Fersen | 40 | 1 | Knight Hospitaller | — |
-| Hawkins | 1586 | 1 | Knight Hospitaller |
+| Hawkins | 1586 | 1 | Knight Hospitaller | — |
 | Mendoza | 1562 | 1 | — | FTO |
 
 Wildcard status does not remove a Fireteam's native minimum/required-choice conditions. The canonical Fireteam row and applicable Counts-as rules remain authoritative for composition.
