@@ -29,6 +29,36 @@ Useful research links:
 - Earlier Neoterra redesign discussion: `https://o12podcast.substack.com/p/neoterra-redesign-macht-das-neue`
 - Bureau Aegis NCA tactica summary: `https://www.bureau-aegis.org/forum/index.php?topic=18034.0`
 
+## YouTube N5 viewing guide and evidence audit (2026-10-17)
+
+These are the most directly relevant **N5 NCA** videos located in the [Corvus Belli community tactica index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/page-2). The ranking below prioritizes a sustained NCA focus, listbuilding value, and recency; it is **not** an invented ranking of the creators' individual troop choices.
+
+| Priority | Video / date | Best use when researching NCA |
+|---|---|---|
+| **1** | [Robert Shepherd — N5 Infinity Faction Focus: Neoterra Capitaline Army (2026-01-18)](https://www.youtube.com/watch?v=axa19k7qE1E) | Most recent dedicated strategic overview. The published description explicitly frames NCA as specialized marksmen, fast exploiters, mechanical answers to midfield threats, hacking, and infrastructure. Start here for an army plan rather than a shopping list of attackers. |
+| **2** | [Loss of Lieutenant — Episode 157: Return of the Lost Sectorials, Part 1 (2025-10-17)](https://www.youtube.com/watch?v=xTO7FjWO0KQ) | Comparative review of NCA, MRRF and Varuna. Its published description promises impactful new profiles **and a sample list**; the NCA segment is not the entire episode. Especially relevant to turning strong profiles into a 300-point architecture. |
+| **3** | [Swiss Miss Gaming — Infinity N5 Tier List: Neoterran Capitaline Army (2025-10-11)](https://www.youtube.com/watch?v=sEGUAe3ddrQ) | Unit-by-unit evaluation using S/A/B/C/D tiers. Useful as a counterweight to simply choosing the most impressive gun profiles; **specific tier placements were not independently verified**, so none are attributed here. |
+| **4** | [Infinity the Dante — NCA N5 Initial Reaction, with bonus battle report (2025-10-04)](https://www.youtube.com/watch?v=26ALL-6VL5Q) | Initial unit, Fireteam and composition reaction plus an on-table trial; good for observing the gap between theory and mission execution. Remember it is a launch-week take. |
+| **5** | [Gravitypool Orbital Operations — Neoterra Is Back! Reviewing the Changes (2025-10-03)](https://www.youtube.com/watch?v=B4G8-VVj8yo) | Launch-day changes and profile context; historical comparison, **not** the strongest independent source for current N5.3 loadouts. |
+
+**Transcript access / provenance:** On 2026-10-17 the indexed videos' YouTube pages and caption endpoints could not be fetched, and accessible transcript mirrors yielded no transcript text. Their titles, dates, public descriptions and direct IDs were verified through the tactica index, **but no full transcripts, verbatim quotations, timestamp-specific claims, per-unit tier ranks, or alleged spoken preferences were verified**. Do not present the descriptions as transcript findings. The strategic interpretations below are cross-checked against the current repository Army reference and external written game accounts rather than invented speaker opinions.
+
+### What the video descriptions genuinely reinforce
+
+- **NCA is about highly specific tools, not a uniform premium gunline.** Robert Shepherd's public synopsis singles out marksmanship, fast exploitation, mechanical midfield control, hacking and support as distinct jobs. The practical build test is whether each expensive pick adds a *new job/angle* instead of merely a second BS15 gun.
+- **A sample list is more informative than isolated unit ratings.** Loss of Lieutenant explicitly includes example-list discussion; when reviewing it, compare the attacker's fuel (Tactical Awareness/NCO), objective runners, LT protection, anti-camo infrastructure and recovery before adopting a favorite profile.
+- **Do not turn a tier-list format into alleged tier rankings.** Swiss Miss's video establishes the scoring framework but its public description does not expose who received S/A/etc. Current choice comparisons in this note are our analysis, not quotations from that video.
+- **Launch-era recommendations must be rechecked profile-by-profile.** For example, the current 15-point **Blocker Specialist** has the Pitcher; the 19-point **Hacker** has Firewall (-3) but **no Pitcher**. Likewise use the pinned current Fireteam chart for Wildcard/FTO access.
+
+### Independent battle-video accounts: a useful failure test
+
+The [IGL video battle-report index](https://www.bureau-aegis.org/forum/index.php?topic=17992.20) records current-era NCA appearances and secondary written summaries. These write-ups are **not verified transcripts**, so treat individual turn details/results as reported by the recapper rather than independently observed fact.
+
+- [NCA vs Military Orders — Area of Interest](https://www.youtube.com/watch?v=HdMKL4uj5qw): a listed NCA force built around **Spitfire/HRL Uhlan**, **Redeye**, **Hexa Hacker**, **Blocker Hacker**, **Auxilia FO** and an Engineer lost a reported **1–5**. The account connects a costly Uhlan attack, loss of the primary attacker and later difficulty recovering zone control. Practical correction: plan who takes zones/objectives **if the Uhlan achieves nothing**, and do not spend every useful early Order on one difficult engagement.
+- [NCA vs White Banner — Hardlock](https://www.youtube.com/watch?v=oIYgorD6Nh8): a complementary match report with specific deployment/turn timestamps and an NCA list; use it to study *when* attacking gives way to objective runs, rather than assuming the highest-quality gun determines the winner.
+
+**Concrete pregame stress test for NCA:** (1) name the first ARO/problem and a fallback if the favored Uhlan/Swiss/Aquila cannot remove it; (2) identify two independent scoring paths (e.g., Pathfinder/Blocker/FO Auxilia versus a hidden/advanced specialist); (3) verify a backup network/hacker if the first one is shut down; (4) budget Orders for objective movement **before** launching a premium attacker; (5) put the repair/revive solution where it can actually reach the threatened unit. This preserves the existing premium-attack + cheap-support philosophy while avoiding an army that only functions when its Turn-1 gunfight succeeds.
+
 ### Source-quality warning
 
 Some October 2025 transcript-derived summaries are now stale on exact profiles.
