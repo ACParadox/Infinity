@@ -746,6 +746,91 @@ A reliable MO construction sequence is:
 
 This usually produces a more resilient MO list than starting from an expensive five-knight Fireteam and trying to solve the mission with whatever points remain.
 
+## Video and competitive-play research (October 2026)
+
+**Scope and confidence.** This is *community-derived tactical analysis*, not an amendment to the authoritative N5.3 roster or Fireteam chart above. The October 2025 MO refresh changed key profiles and introduced substantially more hacking. The 2025 tournament lists below are **period examples**, not automatically valid current N5.3 imports. The linked YouTube video pages/captions were **not directly retrievable** during this research (YouTube throttled); conclusions here are grounded in creators' published descriptions, linked list exports, community discussions, and a **secondary AI-written, explicitly unreviewed** account of earlier videos. Do not cite this appendix as a verbatim transcript.
+
+### Recommended viewing and what each source establishes
+
+| Priority | Source (published) | Why watch / evidence available | Evidence level |
+|---|---|---|---|
+| 1 | [Robert Shepherd — *Infinity N5 Faction Focus: Military Orders*](https://buymeacoffee.com/robertshepherd/infinity-n5-faction-focus-military-orders) (2026-07-04) | Newest identified full faction focus. Frames MO as difficult to list-build despite its highly capable knights; focuses on playing to strengths while managing structural limitations. | Creator description; **not** a checked transcript |
+| 2 | [Ryanj4043 — *N5: Military Orders Guide after the update*](https://www.youtube.com/watch?v=xjs6rsspz8I) (2025-12-23) | Post-October-update roster and Fireteam overview. Chapters: impact 01:07; Fireteams 06:05; LI 11:17; MI 17:41; knights 22:50; skirmishers 42:44; example list 45:56. | Creator description/timestamps, not transcript |
+| 3 | [Sneaky Snake — *In Nomine Domini: A Comprehensive Overview of Military Orders*](https://www.youtube.com/watch?v=kRaambqovmw) (2025-10-20) | Specialist MO player examining strengths, weaknesses, profiles and Fireteam possibilities after the overhaul. | Creator description, not transcript |
+| 4 | [Tactical Awareness S3E42 — *Military Orders (REDUX!)*](https://www.youtube.com/watch?v=RP6Uyyc447k) (2025-11-24) | Explicit focus on how the October update made MO a genuine hacking faction; Owen and Ash publish two example Army export codes in the [source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/). | Creator description and published lists, not transcript |
+| 5 | [WIP12 E188 — *Military Orders with Sneaky Snake*](https://podcasts.apple.com/at/podcast/e188-military-orders-with-sneaky-snake/id1567047414?i=1000717137809) (2025-07-14) | Experienced MO player's IGL run (13th of 170+) with **actual published 300-point lists**; emphasis on knight-heavy lists and Trinitarian snipers. Predates the October patch. | Episode description and complete lists, not transcript |
+| Supplemental | [Sneaky Snake — *Fireteams Overview for Military Orders*](https://www.youtube.com/watch?v=VNieWyaL97M) (2025-04-06) | Detailed discussion of Crosier, Teutonic, Order Sergeant and Crusade formations. Historical Fireteam comments require a current chart cross-check. | [Secondary, unreviewed AI account](https://www.bureau-aegis.org/forum/index.php?msg=224393) |
+| Supplemental | [Ryanj4043 — *N5: Military Orders Faction Overview*](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) (2025-04-19) | Explains MO's sweet spot as close/mid-range *shooting*, not an automatic rush-to-melee faction; encourages distinct door-opening, skirmishing and anti-hacking roles. | [Secondary, unreviewed AI account](https://www.bureau-aegis.org/forum/index.php?msg=224610) |
+
+**Research hygiene:** The older summaries may contain outdated costs, unit equipment, formation bonuses or mistaken terms. Resolve mechanics against the September 2026 Army snapshot **in this file**, and assess the videos' *strategic reasoning* separately. Videos discovered are not evidence that their subtitles or exact words were independently examined.
+
+### Patterns repeated across independent sources
+
+1. **Close/mid-range firefights, not blind sword charges.** The knights' strong BS, two Wounds, short/mid-range weapons, templates and close-combat backup want to win the firefight first, then close on objectives. Avoid crossing the whole board under ARO merely because a model has excellent CC. This is a useful reading of Ryan's earlier faction overview, not a statement about a particular current profile.
+2. **Buy orders with cheap units before accumulating expensive knights.** Crosiers, the 7-point Fugazi (AVA **1**, not a spam unit), Mulebots, Warcor and Tech-Bee make premium attack pieces usable. Having three exceptional attackers with an insufficient useful order pool is usually worse than having one primary, one complementary attacker/scorer and reliable support. Do not rigidly chase a 15-model target if it eliminates essential capabilities.
+3. **Compact knight teams often beat the all-knight brick.** A full five-knight package can work, but cost, delivery geometry and hacking exposure make it a deliberate commitment. A cheap Crosier shell plus small Teutonic/Santiago team is a flexible alternative. The key comparison is *orders to cross the table and accomplish objectives*, not only peak Fireteam bonus.
+4. **Midfield is insurance, not an optional afterthought.** Trinitarian infiltrators, Dart, forward Montesa, Peacemaker and appropriately chosen Crux profiles provide presence when the heavy spearhead stalls. The opponent should not be able to defeat MO simply by blocking one obvious approach lane.
+5. **October 2025 hacking changes give MO an additional axis of play.** De Fersen's normal Hacking Device/Trinity (+1SD), Knight of Justice HD + Pitcher, Order Sergeant FTO HD + Pitcher, Santiago KHD/TinBot, Trinitarian KHD/Deployable Repeater, Peacemaker/Pathfinder/Fugazi repeaters and Tech-Bee repeater can be combined into an actual network. This is *an option*, not a requirement to build a dedicated hacking list in every mission.
+6. **Defence should delay and tax, not consume the entire list.** Hidden/camouflaged Trinitarian sniper, Raveneye E/M/Cybermine, a Black Friar heavy rocket launcher, a Curator turret/mine, and cheap Flash Pulse threats create multiple problems that do not rely on a lone exposed expensive ARO piece.
+
+These points align with the [post-update Tactical Awareness episode description](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/), [Sneaky Snake tournament episode](https://podcasts.apple.com/at/podcast/e188-military-orders-with-sneaky-snake/id1567047414?i=1000717137809) and [community list-building discussion](https://www.reddit.com/r/InfinityTheGame/comments/1mhckxa). They are **patterns**, not statistical auto-includes or transcript-verified unanimity.
+
+### Two concrete architectures from competitive discussion
+
+**A. Teutonic/Santiago/Crux pressure, backed by hidden AROs.** Sneaky Snake's *Panic Room IGL 25* list was published with:
+- Group 1: Santiago **Lieutenant Spitfire**; Santiago **KHD MULTI Rifle/TinBot**; Crux **FTO MULTI Marksman Rifle**; Teutonic **SMG specialist**, **TinBot Panzerfaust**, **NCO Spitfire**; Order Sergeant **FTO heavy rocket launcher**; Curator **armed-turret**; Fugazi; Tech-Bee.
+- Group 2: **two Trinitarian MULTI Sniper Rifles**, Raveneye **Cybermine**, Mulebot Repeater and Warcor.
+- Published period example: 300 points / 6 SWC / 15 units. [Full contemporary list in WIP12 source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/); [creator's IGL discussion](https://www.youtube.com/watch?v=zg-ahZCSZx0).
+
+**Why this matters:** This is positive evidence against "you must run TAGs" or "you must start from a five-model Crosier Core." Instead it invests in a **knight-heavy close/midfield package**, a Santiago KHD/TinBot, NCO attacks and **two distinct hidden long-range ARO problems**. The opposing player must account for concealed snipers while dealing with mobile two-Wound attackers. It is an **example**, not a current exact-cost recipe; re-enter profiles in N5.3 Army.
+
+**B. Cheap Crosier backbone with distributed knights.** His second published *Boring MO pt.2* list included a Black Friar HRL, **Crosier Paramedic + two ordinary Crosiers + Knight Commander LT**, a **Teutonic NCO Spitfire + specialist + TinBot**, **Joan v2**, **Santiago KHD/TinBot**, plus **Hospitaller HMG + Doctor** and Fugazi/Tech-Bee support. [Published list](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/).
+
+**Why this matters:** The alternative invests in a comparatively cheap order/ARO shell and several **independently useful** heavy troops instead of only one big striking unit. The contrast between A and B is itself useful: MO can prioritize **hidden midfield denial** or **wider backup heavy-weapon/recovery coverage**. The document's canonical Fireteam chart determines which portions can actually link.
+
+### Practical Fireteam packages to test in the current chart
+
+| Package | Intended job | Important qualification |
+|---|---|---|
+| **Crosier(s) + Knight Commander LT + Black Friar or Order Sergeant FTO HRL** in Military Orders | Affordable order battery, LT camouflage/deception, ranged ARO | Uses FT-MO-01 required-choice/Crosier equivalence; do not mistake a cheap link for an unkillable defensive fortress |
+| **Teutonic NCO Spitfire + Teutonic SMG specialist + Teutonic TinBot** in Military Orders | Efficient knight assault/mission team with a short-range answer, disposable Panzerfausts, firewall | Teutonics have **Impetuous/Limited Cover**; avoid assuming safe free moves while keeping a link; consider LT-order/NCO economy separately |
+| **Santiago FTO KHD/TinBot + Teutonic NCO/specialist** in Military Orders | Specialist + hacker protection embedded into an assault package | Check required-choice and exact FTO; **Santiago Combat Jump profiles cannot link** |
+| **Order Sergeant FTO hacker/Pitcher + Bulleteer Spitfire + Curator or Infirmarer** in Order Sergeants | Compact hacking projection plus Mimetism (-6) mobile gun and engineer/doctor support | Explicit **Order Sergeant FTO min 1**; the Bulleteer may only join the chart's eligible formation, not a generic Crusade |
+| **Joan (v1/v2) + Hospitaller FTO Doctor/HMG + Santiago FTO KHD** in Crusade | Premium durable assault and recovery package | Explicit **Hospitaller FTO min 1**; costs compete with midfield, secondary plans and order generators |
+| **Motorized Montesa Paramedic + Bulleteer or Joan v2** in Velox Duo | Quick scoring/short-range pressure; use when both pieces need to work in the same part of the table | Velox is a Duo; motorcycle base access/positioning and the two different models' ideal activation schedules matter |
+
+These are **construction motifs**, not guaranteed solved lists. See canonical FT-MO-01 to 04 for legality. If a Fireteam is repeatedly consuming orders on low-impact movement, compare it against running its members independently.
+
+### Lieutenant, CoC and NCO decision tree
+
+- **Passive LT + NCO shell:** Knight Commander **LT (+1 Order), 24 points**, with a **separate** NCO such as Teutonic Spitfire, Sepulchre AP HMG, Tikbalang or Seraph. Current data: the commander also has a **20-point ordinary LT** and a **23-point CoC**, all materially different list-construction choices.
+- **Fighting LT:** Santiago FTO Spitfire or KHD LT, a Joan LT, De Fersen LT, Hospitaller LT, Knight of Justice LT or Teutonic Panzerfaust LT when the points/plan justify it. Ask *which turn the LT must fight*, whether exposed attackers have a succession plan, and whether the LT order will be spent through NCO instead. Don't choose a combat LT simply because it is a knight.
+- **Joan as CoC instead of LT:** Joan v2 **45-point CoC** may serve as the independent attack/insurance piece behind a safer LT, while a premium Joan LT supplies command economy when her exposure is manageable. Use the **single-Joan constraint** and relevant Crusade/Velox rows.
+- **Knight Commander CoC:** inexpensive succession insurance **when located separately** from the LT risk. **Do not put the Lieutenant and their only CoC insurance in the same vulnerable Fireteam/cluster** if one template, attack angle or hacking chain could remove both. Holomask concealment can complicate the enemy's LT hunt but cannot replace a plan for LoL.
+- **Conserve Orders, not merely models:** a list with a survivable LT but no efficient attack route still wastes the lieutenant's command advantage. Check whether the NCO actually wants the extra order each turn before purchasing it.
+
+### Low-profile roles worth explicitly testing
+
+- **Double Trinitarian MSR:** observed in the IGL list, creates uncertainty and covered lanes without having to expose both snipers from deployment. Opportunity cost: two **25-point / 1.5 SWC** models consume three of six SWC; ask whether missions need infiltrating FO/KHD specialists more than double long-range ARO.
+- **Trinitarian FO SMG (+1SD), FO/minelayer, KHD or deployable-repeater minelayer:** flexible midfield button/denial options if an MSR's SWC is expensive. A KHD assassin may exploit Camouflage/Surprise Attack, but **do not infer a hidden-deployment state** from Camouflage alone.
+- **Black Friar HRL versus MULTI Rifle/Drop Bears/Thunderbolt:** HRL is a comparatively cheap burst of ARO/template denial; other profiles emphasize movement and repeat engagements. MSV2 and Albedo make it a relevant anti-visual-tools choice, but do not call the HRL obligatory.
+- **Order Sergeant FTO hacker versus Escort Sergeant:** FTO can join eligible teams and brings a **Pitcher**; Escort variants trade linking for an **Auxbot**, with Neurocinetics HRL or hacker options for independent defence. Choose based on whether the team can actually exploit FTO; don't assume Escort profiles are legal Fireteam filler.
+- **Curator turret versus Deployable Cover/mines, with Palbot:** useful *system* of Engineer reach, deployed nuisance pieces and support for REMs/TAGs. A turret is a defensive upgrade, not permission to leave the engineer exposed.
+- **Tech-Bee, 9 points:** beyond being a cheap order, has **Deployable Repeater**, TAGCom and GizmoKit; check combat-group placement and the applicable TAGCom rule when relying on its bonus.
+- **Crux FTO versus hidden/forward Crux:** FTO MULTI Marksman/Drop Bears provides a premium **linked gun + specialist**; the non-FTO AP SMG **Hidden Deployment + Forward Deployment (+20)** variants instead buy an independent ambush/objective threat. One is not interchangeable with the other.
+- **Raveneye E/Marat plus E/M Mine versus Cybermine:** a cheap defensive specialist that deters different movement/hacking approaches. Favors a position from which it can force costly enemy Discover, Dodge, clearance or short-range engagements.
+- **Fugazi AVA 1, Pathfinder, Peacemaker and Mulebot:** treat these as *different* budget/network tools. Fugazi is the especially efficient seven-point order/repeater, but there is only **one**; Pathfinder offers Sensor/FO and optional Tactical Awareness; Peacemaker pushes repeater and template pressure forward; Mulebot offers cheap Baggage/repeater or EVO.
+
+### Where published approaches disagree
+
+- **"Knights first" versus "cheap link first":** Sneaky Snake's published competitive example demonstrates a genuine knight-heavy MO list; Ryan's earlier published overview emphasizes a cheap Crosier Core as a foundation. These are **two different successful construction hypotheses**, not a universal requirement. Build both for the mission packet.
+- **TAG centerpiece versus S5 gunfighter + specialists:** a [community discussion](https://www.reddit.com/r/InfinityTheGame/comments/1mhckxa) includes preference for the Tikbalang over the Holy Sepulchre, while other players value Sepulchre's solo NCO and more flexible points allocation. Existing Seraph/Sepulchre comparison above remains relevant; **no universal winner**.
+- **Full knight Core versus small attack team:** some players deliberately flood the table with linked armour; others note that five expensive knights are difficult to deliver and can overcommit to one route. A compact team is the safer *starting hypothesis*, not proof full Crusade/Military Orders Cores are bad.
+- **April 2025 'little hacking' narrative versus post-October 2025 toolkit:** older critiques describe restricted hacking/projection. The post-update [Tactical Awareness description](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) explicitly calls out MO's now-useful hacking game. Current Knight of Justice/De Fersen/Order Sergeant/Santiago options supersede prepatch assertions.
+- **Trinitarian sniper tax:** two were used successfully in a specific tournament environment. Others may favor a single sniper plus FO/KHD infiltrators to improve objective reach; check the mission packet and total SWC.
+
+**Table-side checklist:** What opens the first hostile ARO? What attacks a repeater network? Which piece starts inside objective distance? What spends the LT/NCO/TacAware orders? Which hidden or disposable defender forces the opponent to spend an extra two Orders? Where is the LT/CoC physically separated? What scores if the primary knight/TAG is gone by Turn 2?
+
 ## Validation and maintenance
 
 - Standard roster represented: **36 units**.
