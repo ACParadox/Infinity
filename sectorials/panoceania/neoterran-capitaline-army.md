@@ -20,6 +20,8 @@ coverage: "Standard Neoterran Capitaline Army roster, standard loadouts, canonic
 
 Repository-native reference for **Neoterran Capitaline Army (NCA)** roster, profiles, points/SWC, AVA, and Fireteam access.
 
+For **video/transcript-backed tactical guidance** (listbuilding, LT/CoC packages, threat redundancy, efficient Auxilia objective play, Fireteam and TAG architecture), see [`notes/factions/nca.md`](../../notes/factions/nca.md). The tactical note includes an October 2026 vidIQ transcript review of Robert Shepherd and Gravitypool, with rules/profile corrections. **This reference file remains the authoritative source for current roster facts; video opinions do not change Fireteam legality or profile data.**
+
 Sources used:
 
 - Army-derived NCA source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
