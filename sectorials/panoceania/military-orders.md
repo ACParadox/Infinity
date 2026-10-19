@@ -899,6 +899,17 @@ These are **construction motifs**, not guaranteed solved lists. See canonical FT
 
 **Check current Army chart first.** Videos/podcasts may call historical legal Fireteams, AVAs or costs that changed by N5.3; this section extracts ideas only and deliberately preserves the latest reference's numbers and `FT-MO-01`–`04` legality.
 
+### Shared PanO REM cross-check (2026-10-19): two viable Peacemaker roles
+
+These are **additional primary-transcript opinions**, not replacements for the current Military Orders Fireteam chart or the MO-specific tactical evaluation above.
+
+- **Peacemaker Minelayer (24 pts / 0.5 SWC) for reactive denial.** KingButt's [Vanilla PanO discussion (WIP12 E177)](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl) prioritizes a forward mine + Auxbot/template + Repeater package to make an enemy alpha expensive before the Peacemaker is activated. It supports MO's hacking/midfield-defence plan without needing a Fireteam; watch the S4 footprint.
+- **Peacemaker +1B Boarding Shotgun/Auxbot (27 pts) for active assault.** Trent's [NCA discussion (WIP12 E201, ~57–59 min)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) explicitly prefers the 27-point offensive version in lists that can exploit burst and projected Repeater/template pressure; he contrasts this with other players' preference for Minelayer. **Choose which job the list lacks** instead of treating either profile as a universal default. Any NCA/Kestrel Fireteam benefits in that discussion **do not transfer to MO**; use the chart above.
+- **Sierra and Pathfinder remain situational for opposite reasons.** KingButt omits Sierra when Helots/Firefly turrets already cover reactive lanes—but **MO has no Helots/Fireflies in its pinned roster**, so a repairable 18-point TR Thunderbolt Sierra has less role overlap and can free knights to attack. Dante/Tristan [Vanilla PanO reaction](https://www.youtube.com/watch?v=qp458fqYq_s) instead value its repairable persistence. Pathfinder **17-point Tactical Awareness FO/Repeater/Sensor** is preferred for *independent scoring movement*, not because MO can link it (it cannot).
+- **Crossover VH/TAG reading:** [WIP12 E180 Kestrel with Daboarder (~33–41 min)](https://open.spotify.com/episode/3JXkarf51Os0UUopYrM7IW) gives a strong **Redeye Blitzen** case for tempo/anti-VH defence; [WIP12 E201 NCA (~83–87 min)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) argues for **GL Continuous Damage** alternate-angle utility. Redeye is **not on MO's current standard roster**, so these are comparative PanO design lessons, **not MO picks**. MO TAG decisions remain Tikbalang versus Seraph in their actual roster.
+
+See [Vanilla PanO transcript-backed review](panoceania.md#transcript-backed-competitive-tactics-research-2026-10-19) for the full conflicting-opinion and source index.
+
 ## Validation and maintenance
 
 - Standard roster represented: **36 units**.
