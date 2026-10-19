@@ -859,3 +859,52 @@ A strong TAK list should usually be able to answer: **what does the opponent hav
 - DefectiveDice, *Getting Started with TAK*: https://www.youtube.com/watch?v=C8BmvBmu66M
 
 Where these sources discuss older Army versions, profile legality and current equipment are reconciled to the canonical N5.3 data in this file. In particular, current data confirms **Dynamo Mine Dispenser (Shock)**, **Ratnik Mobility Fireteam access**, and a **Voronin profile without Strategos**.
+
+### Transcript-verified review and REM/Mobility deep dive — 2026-10-19
+
+**Read first:** These are *opinions and play patterns*, not changes to the pinned N5.3 unit data above. Sources are full MCP transcripts of three videos and three podcast episodes. Tactical Awareness is **February 2025, before the October roster overhaul**, so its *unit evaluations* are historical, not authoritative for present prices/skills.
+
+#### The clearest cross-source conclusions
+
+- **Plan from a defensive base, then counterattack.** Robert Shepherd and MetaChemistry describe TAK's current strength as Sapper/Neurocinetics REMs + mines/Decoys that consume enemy Orders before TankHunters, Scouts or a mobile piece act. The “why” is information and Order denial, **not** that every TAK gun wins straight-up fights.
+- **A bad matchup is high-Mimetism shooting backed by Sensor/MSV.** WIP12 and MetaChemistry stress that a Vystrel can be fearsome against ordinary gunfighters yet fold quickly when an Mimetism (-6) attacker forces poor BS numbers. Retain markers, use short-range templates/Beasthunters, smoke to *avoid* the lane, and play the mission rather than insisting on a sniper duel. A Frontovik MSV1 shooter is a limited active-turn answer, **not** a durable universal ARO solution.
+- **Avoid overbuying “efficient” S4 models.** Vystrel, Traktor/Kuryer, Voronin and Dynamo compete for *physical deployment space*, even when the points fit. Their separate tactical jobs can justify several, but plan hiding positions before selecting all of them.
+- **TAK's marker shell has a known counter:** MetaChemistry advises opponents to Sensor the important area or *ignore* low-priority markers and complete objectives; wasting an entire pool Discovering Decoys is exactly the TAK player's desired outcome. As TAK, position real mines and important guns where simply ignoring them has consequences.
+
+#### Actual Vehicle / TAG / REM coverage
+
+**No dedicated Vehicle or TAG is listed in the pinned standard TAK roster.** Do not describe Ratnik as a TAG (it is S5 **HI** with Transmutation, Dogged, +1B and Tactical Awareness); Dynamo is S4 motorcycle **LI**. The relevant machines are **Vystrel, Kuryer, Traktor Mul** (all REMs) and **Remontnikbot** (2-point Engineer Peripheral). Other Ariadna/Vanilla discussions are useful for shared REM and Dynamo concepts, **not** proof of TAK TAG/VH access.
+
+| Unit/package | Use it because | Limit / alternative view |
+|---|---|---|
+| **Vystrel Neurocinetics AP sniper** + **5-point Traktor** Gunnery Duo | 2 STR, Sapper, AP/Shock and team Special Die make a difficult, inexpensive ranged ARO; cheap Baggage REM supplies the link die | MetaChemistry prefers the more frightening **portable autocannon** despite higher cost; WIP12 warns both struggle into Mimetism (-6) and may disappear to one favorable attack |
+| **Kuryer Katyusha** (15 pts, 1 SWC) | Shepherd values a cheap Gunnery/minelayer/Baggage unit that can also spend spare Orders on **DA speculative fire** against the midfield without constructing an entire Targeted/Guided engine | Range, Order availability and dice variance matter. Do not expect blind Speculative Fire to replace a reliable main gun; some players dislike spending repeated Orders on low-odds shots |
+| **Kuryer Uragan** / **Traktor Uragan** | Total Reaction/long-lane ARO plus artillery utility; Kuryer also contributes Minelayer clutter | Extra SWC and another S4 base; choose an actual firing lane and fallback repair path rather than stacking artillery automatically |
+| **Dozer + repair servant** | Repairing damaged Remote Presence guns can force the opponent to clear the same obstacle again; Dozer also brings Engineer objectives | **Disagreement:** Swiss Miss rates Dozer poorly versus 5-point Traktor as Gunnery die-provider or Irmandinho/Frontovik Engineers. The Dozer earns its premium only when recovery and objective access are genuinely used |
+| **Dynamo duo: SMG/Panzerfaust (14) + Paramedic (16)** | Cheap 2-model fast objective, smoke and Mine Dispenser package; regular Orders, Dogged and mobility make it a dangerous secondary attack lane | Shepherd strongly recommends this duo; WIP12 warns launched mines near friendly Camo can expose that Camo to enemy template solutions. High bike/S4 count also causes traffic jams |
+| **Dynamo AP Spitfire (25)** | Swiss Miss likes an affordable, fast AP gun that can lead a mobile duo; useful when the list needs an aggressive attack piece | WIP12 questions the +9–11 point upgrade over a mine-dispensing utility Dynamo: TAK already has infiltrating shooters and S4 bikes are awkward to maneuver |
+| **Ratnik AP Spitfire / HRL (41–46)** | Big gun, +1B, Tactical Awareness; can lead Mobility Haris/Duo with a Frontovik specialist/Engineer. Six active-turn dice from linked AP Spitfire is the attraction | **Strong disagreement:** Swiss Miss and some WIP12 lists favor Ratnik as real brute-force or Haris build-around; Shepherd sees it as a 40+-point vanity/mission-specific tool that competes with Vet Kazaks and often adds less than two cheap Dynamos. It is hackable and drops speed after Transmutation |
+
+**Useful attack sequencing:** Dynamo uses speed to dispense a mine near a defended target → enemy must weigh Dodge against the mine → Kuryer Speculative Fire or a different attack punishes the decision. Shepherd argues this creates a more serious fork than simply firing the Kuryer repeatedly. Verify actual mine placement, Trigger Area and ARO legality on the table; the trick is situational.
+
+#### Other genuine presenter disagreements
+
+| Topic | Pro | Skeptical / why | Working choice |
+|---|---|---|---|
+| **Spetsnaz HMG spam** | **Tactical Awareness (pre-update):** multiple Marksmanship+Camo Spetsnaz backed by T2 Streloks overwhelm the opponent with independent offensive markers | **WIP12 and Swiss Miss (post-update):** expensive one-wound, non-AP HMG fights compete badly with TankHunter AP HMG, AP Ohotnik Scouts, Vet Kazak and Ratnik | **Parachutist BSG/AP SMG** retains a clearer niche: attack the opponent's rear/order pool along a different axis; main HMG is preference, not automatic |
+| **Pavel** | **WIP12 dissenting player:** opponents assume a marker is a Scout, Strelok or mine; Pavel's Berserk/MA/AP T2 can surprise an expensive TAG or LT in CC | **Other WIP12 speakers:** one wound without Dogged/NWI makes this a fragile, costly suicide charge; his shooting/mission/CC flexibility is not necessarily enough | Off-meta ambush/trading pick against worthwhile targets, not baseline midfield specialist |
+| **Vassily** | Decoy-rich Lt/CoC shell and potent T2 option; can obscure what the opponent should Discover | Higher points than TankHunter CoC and Scout alternatives; choose only if actively leveraging his gun, disguise and leadership package | Do not pay his premium for CoC alone |
+| **WarDriver Disco Ball** | **WIP12/Shepherd:** Eclipse-like visibility denial can solve an MSV gun that normal smoke cannot, allowing mission play | **Swiss Miss:** paying SWC/points for a mediocre hacker brings TAK into a hacking contest it seldom wants | Tech counter for a specific visibility problem, not a standard hacking plan |
+| **Dog-Warriors vs Camo-heavy package** | WIP12 advocates durable close pressure and templates to beat bad gunfights, especially high-Mimetism targets | Heavy pressure pieces may consume the Order pool and space that makes multiple Scouts/Streloks effective | Take pressure because it resolves a matchup or scenario route, not simply because dogs are iconic |
+
+#### Sources reviewed at transcript level
+
+1. **Robert Shepherd**, *Infinity N5 Faction Focus: Tartary Army Corps* (30 Oct 2025): https://www.youtube.com/watch?v=eM5cM_Y18vk — defensive triangle, Vystrel/Kuryer/Traktor and direct DA Speculative Fire (~26–32m), Dynamo (~33–39m), Ratnik skepticism (~39–41m).
+2. **Swiss Miss Gaming**, *Infinity N5 Tier List: Tartary Army Corps* (4 Dec 2025): https://www.youtube.com/watch?v=YTVcl3haxdg — strong Dynamo/Ratnik opinion, Dozer and WarDriver skepticism, Spetsnaz comparison, REM discussion (~94–102m).
+3. **DefectiveDice**, *How to get started with the Tartary Corps in Infinity!* (26 Dec 2025): https://www.youtube.com/watch?v=C8BmvBmu66M — beginner purchase/Action Pack approach; cheap regular Orders and proxying appropriate profiles; **not** treated as evidence of a new competitive consensus.
+4. **WIP12 E203**, *Tartary Army Corps with Copper* (15 Apr 2026): https://open.spotify.com/episode/0fLvDDDa2baw7lxt3J4qo9 — actual competing list archetypes; Dynamos (~30–36m), Mimetism problems/Frontovik (~49–55m), Pavel debate (~64–68m), Ratnik (~89–98m).
+5. **MetaChemistry E141**, *Faction Takedown – Tartary Army Corps* (4 May 2026): https://open.spotify.com/episode/5Jndc3fD91n84MZ9WZxM4l — deliberately adversarial analysis: Vystrel (~19–23m), Scouts (~30–33m), TankHunters/Spetsnaz (~39–44m), anti-Camo plans (~49–58m).
+6. **Tactical Awareness S3 E09**, *ZEROES & HEROES – TAK* (3 Feb 2025): https://open.spotify.com/episode/2VCGfZZhXpth6ahryGhPyw — pre-October-2025 alternative emphasizing max Spetsnaz + T2 Strelok spam (~3–8m) and broad Camo deception. **Old roster details, including a Strategos claim for Voronin, conflict with the N5.3 snapshot above**.
+
+**Confidence boundary:** Transcript claims about preference and practical play are attributed; weapon rules, costs and available Fireteams defer to this file's pinned 2026-09-03 Army snapshot. Full transcripts were read with the connected YouTube/podcast tools; the short clips above are navigation aids, not separate primary material.
+
