@@ -694,3 +694,79 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 ## Fireteams
 
 Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Army source. Any `FTO` text above is part of a profile/loadout name only and does not grant Fireteam access in generic PanOceania.
+## Transcript-backed competitive tactics (research: 2026-10-19)
+
+**Authority / important correction.** The roster and costs above are the **September 2026 N5.3 Army snapshot**, not the 2025 opinions below. This generic faction's pinned Army data has **no standard Fireteam chart**. Consequently the much-discussed **Joan + Blade Haris, Tikbalang + Karhu Duo, Bolt Haris, Patsy + Helot Haris, double Bulleteer Duo, and double Squalos Duo** in early N5 videos/podcasts are **historical suggestions, not validated current vanilla Fireteams**. Reuse the *roles and order-economy reasoning*, not those formations or their claimed special dice. Never infer links from FTO-labelled profiles.
+
+### Fast list-building read
+
+1. **Select two ways to win a shooting turn, not just the biggest gun.** The first attacker removes ARO pieces; the second attacks from a different range/angle or scores when the first fails. Cutter can endure repeated fights; Drummer HRMC needs redundancy because its controller/Peripheral is fragile. (KingButt, Dante, Swiss Miss.)
+2. **Buy orders and denial before the third premium attacker.** Fugazi (7), Mulebot (8), Fennec/Fusilier utility, Helot ARO, Peacemaker midfield blocking, Firefly turret and Blink hidden threat all consume enemy Orders for disproportionately little investment. Preserve sufficient protected DZ space for S3/S4/S7 bases.
+3. **Choose a command package deliberately.** Magistrate **19-point Strategos LT** is a safe, cheap command plan; **21-point CoC + Counterintelligence** is succession insurance for an exposed Joan v2, Tikbalang or Cutter LT. Alternatives include Firefly CoC and Bolt CoC. CoC is not a reason to expose the LT recklessly, and the Magistrate is AVA 1.
+4. **Score through an independent specialist.** Pathfinder **17-point Tactical Awareness FO/Sensor/Repeater**, Zulu-Cobra camouflage specialists, Croc Man/Scarecrow hidden midfield, Banshee AD, Blade Engineer or Drummer FO are different delivery methods. At least one should still work if the primary gun is down or immobilized.
+5. **Decide between hacking *support* and a genuine guided plan.** Cheap Fugazi/Peacemaker repeaters help defend TAGs; a Guided Clipper instead requires reliable Spotlight/Pitchers, EVO/order support and a plan against resets/Repeater loss. Do not automatically invest in both.
+6. **After clearing lanes, rebuild your defensive puzzle.** Helot camouflage Neurocinetics, Firefly turret Minelayer, Peacemaker + Auxbot, a hidden Blink HRL and (optionally) an engineer-backed Sierra TR threaten different answers. They need not all be used in one list.
+
+### Units and packages worth testing — *why*, not automatic picks
+
+| Pick | Value proposition | Cost / alternative |
+|---|---|---|
+| **Magistrate Strategos LT / CoC** | Safe Counterintelligence + deployment/command edge **or** cheap insurance that liberates an aggressive LT. Multiple reviewers call it one of vanilla's largest N5 improvements. | One Magistrate only; an active LT also needs a meaningful plan to spend its LT Orders. |
+| **Joan v2, 45–51 pts** | AP Spitfire, mobility, Tactical Awareness, CC threat and Inspiring Leadership make a standalone attack/command engine; converts useful Irregular Helot/Warcor/bounty-hunter Orders when LT. | Not a free **Haris** with Blade-Ops in the *current* reference; hackable and can over-concentrate roles. |
+| **Helots, AVA 2** | Very cheap awkward AROs; one-use camouflage forces Discover/positioning before attackers can cleanly engage. Useful against early rushes. | Irregular absent Inspiring Leadership; camouflage versions cannot be evaluated as if they receive a vanilla Fireteam bonus. |
+| **Firefly turret Minelayer, 24 pts** | Starts a layered defensive turret threat before the opponent's alpha and can add more to protect retreat/scoring lanes; NCO and other specialist options broaden use. | Static placements can be bypassed or sniped; don't over-invest Orders deploying turrets before needed attacks/objectives. |
+| **Blink hidden HRL, 28 pts** | Mimetism (-6) / Hidden Deployment + X-Visor template/ WildParrot force the opponent to respect lanes that appear empty. | Surprise threat is finite; needs a useful angle, not just a hidden model for its own sake. |
+| **Black A.I.R. Neurocinetics sniper / DZ Parachutist KHD** | First is an independent MSV2/MSR ARO problem; second attacks enemy DZ hackers and counter-camo defenders from an unexpected edge. | Sniper can be outshot by a superior long-range piece and buys little active-turn value; KHD needs a target/path. |
+| **Zulu-Cobra / Scarecrow / Croc Man** | Camo specialists project objective pressure and deceptive attack lanes while protecting fragile orders; Zulu-Cobra KHD brings forward cyber threat. | Pay for the distinct mission/marker role, not redundant similar infiltrators. |
+| **Karhu Feuerbach / Hetkari shooter** | Alternative high-quality guns so a fragile Drummer need not be the *only* ARO opener; Karhu MSV1 + Mimetism, Hetkari Marksmanship/Combat Instinct. | Compare points/range/cover, not old Fireteam burst claims. |
+| **Fennec utility vs Fusilier** | FastPanda/Disco Baller/mine options can make an inexpensive order contributor actively useful; Fusilier remains a leaner cheap-order/LT choice. | Fennec's **sectorial** links cannot be imported into vanilla. |
+| **Banshee / Blade Engineer** | AD/Parachutist attacks and classifieds from unexpected directions; Blade's Tactical Awareness/Engineer helps a dispersed TAG/REM force. | A projected Engineer is not guaranteed to reach or recover an overextended TAG. |
+
+### TAG choices: the full attack-plan cost
+
+| TAG | Why use it | When *not* to choose it |
+|---|---|---|
+| **Cutter 95–97 pts, AVA 1** | ARM 8, BS15, camouflage/Hidden Deployment, Mimetism(-6), MULTI HMG: apex long-range gun that can absorb failed exchanges and avoid direct targeting while concealed. KingButt uses it to clear AROs, then scores later. | ~one-third the list for **one model without Tactical Awareness**. Fewer points for alternate attackers, hackers, midfield and orders. **95-point option is LT**, 97-point is **NCO**; do not swap roles accidentally. |
+| **Tikbalang 69 / 73 LT pts, AVA 1** | BS15 Mimetism(-3), Climbing Plus, Tactical Awareness and mobile HMG create high-efficiency angles while retaining TAG toughness. LT adds +1 LT Order. | Cannot use its former **Karhu Duo** in current vanilla. Against high ARM, no AP HMG; some reviewers prefer discounted Squalos or cheaper Hetkari for the required gunfight. |
+| **Squalos Mk-II 55 / 62 / 66 pts, AVA 2** | Cheapest robust TAG engine: BS15 ARM6 W3, Tactical Awareness. **55** MULTI Marksman for cost; **62** HMG + Grenade Launcher for area/speculative option; **66** MULTI HMG **NCO** to use unused LT order(s). Two independent Squalos diversify threats. | No current vanilla Duo. Need support to avoid two isolated hackable centerpiece commitments; don't pay GL or NCO if list cannot exploit them. |
+| **Maximus TAG** | Specialist heavyweight option with its own unique profile; reassess against the specific current loadout and mission. | Multiple early reviewers reject it as expensive compared to PanO's BS15 TAG efficiency; not a default centerpiece. |
+
+**Recommended sequencing:** primary gun breaks visible AROs → eliminate key hackers/anti-TAG threats → an independent objective specialist advances → preserve a hidden/cheap second attacker and defence. KingButt's Cutter-first/Joan-later plan illustrates *sequencing*, but its period Joan–Blade Haris does **not** translate into a legal current vanilla formation.
+
+### Vehicle: Redeye (the only standard VH in this roster)
+
+**Current option comparison:** **37 points / 1.5 SWC** Spitfire + Chain Rifle + **Blitzen** versus **38 points / 1.5 SWC** Spitfire + Chain Rifle + **Continuous Damage Grenade Launcher**. Both: **BS14, ARM6, BTS6, STR2, Mimetism(-6), Aerial/Super-Jump, Sensor, No Cover**.
+
+- **Pro-Redeye (Daboarder, WIP12 E180; Trent, E201):** extremely fast vertical approach reaches troops hidden behind the long-range ARO network where conventional PanO guns cannot shoot. A forward Redeye forces opponents to spend Orders addressing a DZ flanker; it can be an *order-taxing threat* even without killing its points. High ARM/BTS plus Mimetism reward careful angles, but **No Cover** and airborne hacking exposure still matter.
+- **Blitzen camp (Daboarder):** E/M provides a reactive anti-TAG/HI/other-VH deterrent, including aerial duels; prefers this because speculative GL often never earns back the Orders spent firing.
+- **Grenade-launcher camp (Trent; early KingButt *speculation*):** only +1 point supplies a different attack vector, bypasses difficult line of fire and threatens clustered enemies with Continuous Damage. Trent reports an actual difficult-TAG solution; KingButt explicitly **had not yet used Redeye** when proposing it.
+- **Skeptical camp (Swiss Miss; Dante/Tristan):** ~37–38 points buys a short/mid-range Spitfire chassis that **cannot claim cover**, remains hackable, needs safe landing/flight geometry and competes with cheaper land-based shooters. It is not a universal inclusion.
+- **Decision:** choose it for *angles and tempo* unavailable to ground attackers, not because its Spitfire outshoots a TAG on an open lane. **Blitzen** if enemy VH/HI/TAG deterrence is the missing role; **GL** if specific mission/terrain gives speculative or alternate-angle Continuous Damage value. Prefer an Engineer/hacking-counter plan if you expect it to survive multiple turns.
+
+### REM decision guide (all current vanilla availability)
+
+| REM | Use when | Skip / competing view |
+|---|---|---|
+| **Fugazi — 7 pts, AVA 2** | First-pass cheap Regular Orders, Flash Pulse/Mimetism(-3) ARO and repeaters anchoring hacker/anti-AD coverage. | Two S3 bases plus heavier REMs can crowd protected DZ and provide enemy attack pathways through their Repeaters. |
+| **Mulebot — 8 Baggage / 14 EVO / 17 TR Combi, AVA 2** | 8pt order/reload platform; EVO if an eligible Bulleteer/Peacemaker/Drumbot, Combat Jump or other specific program makes it earn its 6pt/0.5 SWC premium. | Don't pay EVO merely by habit. Validate actual Supportware targets and activation timing, especially Drumbot Peripherals. |
+| **Pathfinder — 14 / 17 TacAware, AVA 2** | Fast independent **FO+Sensor+Repeater**, WIP13; **17pt self-funded mission runner** and an answer to camo. KingButt compares its mission delivery favourably with lost Varuna Montesa. | Swiss Miss rates it poorly for duplicated Sensor; Dante/Tristan call it useful **but not automatic**. Pick it for repeated FO/scoring movement, not merely Sensor. |
+| **Peacemaker — 23 / 24 Minelayer / 27 +1B Auxbot, AVA 2** | Forward-deployed Mimetism(-3) Repeater plus template-bearing Auxbot; **24pt Minelayer** for turn-zero denial and mine + flame fork (KingButt, Loss of Lieutenant); **27pt +1B** for aggressive boarding-shotgun exchanges (Trent). | One REM need not fill both defensive and attacking roles. Vulnerable to anti-REM hacking; S4 base/advance path matters. |
+| **Sierra — 18 Thunderbolt(+1B) / 23 HMG, AVA 2** | Repairable **Total Reaction/360º** long-lane defence when you already have an Engineer and want an Order-producing ARO independent of Helots. Cheaper Thunderbolt saves SWC. | KingButt usually skips for Helots + Firefly turrets; Dante/Tristan like the repairable complement; Swiss Miss considers it a fine filler, not an apex gun. |
+| **Bulleteer — 19 HS(+1B) / 22 Spitfire, AVA 2** | Budget MOV15-10 **Mimetism(-6)** Repeater gunfighter, especially Spitfire backed by EVO program and a different-range premium attacker. | A fragile independent REM, **not** a legal generic Duo; cannot substitute for an anti-armour long-range centerpiece. |
+| **Clipper — 16 Guided ML / 19 FTO-labelled +1B ML, AVA 2** | **Guided** only with Spotlights, repeater reach, expendable Orders and risk management. Tactical Awareness demonstrates a double-Clipper + Fennec/Peacemaker spotting package as a deliberate build. | Dante dismisses Guided as forcing an inefficient engine in gun-first vanilla; Swiss Miss sees a viable conditional option. **FTO label gives no vanilla Fireteam.** |
+| **Palbot — 3 pts peripheral** | Project one Engineer/Doctor's reach to multiple dispersed TAGs/REMs or specialists. | No independent Order; keep the controller safe and the service route plausible. |
+
+**Difference of philosophy:** **gun-first (KingButt)** uses repeaters primarily as defence and generally does not pursue hacking/classifieds heavily. **hacking/guided package (Tactical Awareness)** deliberately buys Fennec FastPandas, Peacemakers, EVO and Clip­pers for Spotlight-to-missile pressure. Both are viable *concepts*, but the latter must demonstrate orders and delivery, not just available profiles. **No Fireteam is assumed for either.**
+
+### Best transcript-verified viewing/listening — watch for the stated question
+
+| Priority | Source and date | What the transcript establishes |
+|---|---|---|
+| 1 — primary faction | [WIP12 E177: Vanilla PanO with KingButt](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl) (2025-01-28) | Tournament-tested attack/score sequencing, Magistrate CoC, Cutter versus Drummer, Helot/Firefly defence, Peacemaker, Pathfinder, EVO; *some 2025 Fireteams invalid now*. |
+| 2 — broad unit triage | [Swiss Miss Gaming: Infinity N5 Tier List — Panoceania](https://www.youtube.com/watch?v=EjN9xWKeBso) (2025-11-23) | Unit-by-unit why: great Blink/Black A.I.R./Magistrate/Peacemaker; skeptical Drummer/Pathfinder/Redeye; budget Bulleteer/Clipper. |
+| 3 — opposing faction view | [Infinity the Dante with Tristan: Vanilla PanO Initial N5 Reaction](https://www.youtube.com/watch?v=qp458fqYq_s) (2025-02-25) | Two-gun redundancy, cheap LT+CoC, sceptical Black A.I.R. sniper/Guided, but pro-Fugazi/Bulleteer and repairable Sierra. |
+| 4 — alternate archetypes | [Tactical Awareness S3E07: PanO Part 4 — Vanilla](https://www.youtube.com/watch?v=ZbwXcQ_IK5A) (2025-01-21) | Joan/irregular-orders concept, double-Squalos pressure, EVO/Peacemaker/Spotlight/**double Clipper** Guided engine. Examples are **historical**, not validated 2026 links. |
+| 5 — VH deep dive | [WIP12 E180: Kestrel with Daboarder](https://open.spotify.com/episode/3JXkarf51Os0UUopYrM7IW) (2025-03-04; **Redeye ~33–41 min**, Peacemaker/Sierra later) | Strongest detailed case for Redeye *Blitzen* and mobility/order-tax, explicit acknowledgement of an opposing GL argument. Shared chassis; don't import Kestrel links. |
+| 6 — VH and REM counterview | [WIP12 E201: Neoterran Capitaline Army with Trent](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) (2026-03-25; **Peacemaker ~57–59 min, Redeye ~83–87 min**) | Redeye *GL* alternate-angle case; **27pt +1B Peacemaker versus 24pt Minelayer** preference; NCA Fireteam privileges do not apply to generic PanO. |
+
+**Evidence status:** All six sources above were examined via **YouTubeMCP or PodcastMCP transcript**, not merely searched by title. Their tactical claims are attributed interpretation, not updated Army data. A curated [Corvus Belli forum PanO N5 source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) supplies further viewing but is **not** a substitute for transcript review. For general REM support/placement reasoning, see [REMs](../../notes/list-building/rems.md).
