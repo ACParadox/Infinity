@@ -537,3 +537,82 @@ These tags are analytical conveniences for modular list-building, not Army chara
 - Forward Montesa is represented separately as an exact two-Montesa Duo with no FTO marker in the source row.
 - Quinn's Fusilier/Kamau equivalence, Uma's Fusilier/Kamau equivalence, Patsy's Undertow/Helot equivalence, Bipandra's Fusilier equivalence, and Machinist Varuna's Kamau equivalence are preserved.
 - Main and Reinforcement charts are not merged.
+
+
+## Community tactics from N5 video/podcast transcripts (reviewed 2026-10-19)
+
+**Evidence:** Opinions below come from N5-era creator transcripts (mostly October–December 2025), with cross-sectorial PanO REM material and one clearly marked historical podcast. **The current N5.3 profiles and Fireteams above take precedence over older speaker recollections.** This is tactical interpretation, not an alteration of roster rules.
+
+### Winning with Varuna: a five-part checklist
+
+1. **Layered ARO instead of a single sniper.** Combine Helots, Kamau visor/long guns, Montesa Blitzens, camo markers, mines, and potentially a Peacemaker. Opponents lose orders discovering or clearing several separate threats rather than winning one decisive FTF.
+2. **Midfield scoring and pressure.** Zulu-Cobra KHD/Pitcher, foot Montesa, Croc Men, and advancing Undertow teams do the mission while the defense delays the opponent. Varuna's smaller, predictable roster makes redundancy and placement more useful than hoping to surprise an experienced opponent.
+3. **A real answer to armored and Mimetism+MSV AROs.** ORC HMG/Feuerbach, Squalos, Cutter, or a line-of-fire solution such as Quinn's Disco Baller. Avoid depending solely on a Kamau sniper to win unfavourable protected lanes.
+4. **Reach, not only denial.** Retrieval and enemy-zone missions punish Varuna's relatively slow infantry. Motorized Montesa, Echo-Bravo Parachutists, a TAG, or a carefully funded Guided plan can be necessary to chase a fleeing carrier or score far away.
+5. **Orders, repairs and network discipline.** Tactical Awareness Pathfinders in legal teams, Squalos TA, Patsy's Helot Fireteam Master, and the Machinist turn valuable models into sustained progress. Do not expose your whole hacking network through an uncontrolled repeater.
+
+### Building blocks — when to take them and why
+
+| Pick | Good because | Cost / alternative |
+|---|---|---|
+| **Patsy + Helot FTOs** | Patsy's FT Master (Helots) makes linked Helots contribute Regularly; cheap Neurocinetics/Sensor guns support her NCO/FO advance. Red Fury can cover midrange; SMG/light rocket launcher is an economical close guard. | Helots die to quality gunfights; requires the **FTO** Helot profiles in a legal Varuna team. Keep an unlinked one-use Camo Helot if you want a concealed Discover tax instead. |
+| **20pt foot Montesa FTO** | 2 Wounds, Mimetism (-3), Paramedic, boarding shotgun, Blitzen and BS Attack (+1SD) give an unusually cheap **assault plus mobile ARO** piece; Undertow team member. | Limited Cover is *not* full Cover; MSV can punish a careless exposed Knight. The separate exactly-two-foot-Montesa Forward Duo allows other profiles; non-FTO profiles do **not** enter Undertow. |
+| **Zulu-Cobra KHD with Pitcher** | Camo, Forward Deployment, Surprise Attack and a mobile Pitcher deliver Pano's efficient specialist and attack-vector extension. Multiple transcript presenters consider it a near-default. | Network extension only matters with capable hackers/orders; the Pitcher can also create counter-hacking concerns. Jammer Camo LT and X-Visor Minelayer are credible alternatives for different jobs. |
+| **Varuna ORC gun / Lieutenant** | BS14, 2W, ARM4, Stealth and Warhorse make ORC HMG/Feuerbach/Shotgun guns useful all game. Warhorse makes a MULTI Rifle+Firewall TinBot LT or HMG LT much less vulnerable to Isolation/Oblivion. | WIP12 and Immobilized/Carbonite remain relevant; anti-Isolation does not mean hack-proof. Exposing an ORC LT for routine shots still risks Loss of Lieutenant. |
+| **Kamau visor or utility** | MSV2 MULTI Sniper / MSV1 HRL answers Mimetism; TA Paramedic, FO Sensor/Triangulated Fire and FastPanda Hacker fill specialist/repeater niches. | Some N5 hosts view ordinary Kamau shooting as inefficient compared with ORCs/TAGs; choose the **unique visor/skill**, not an automatic sniper obligation inherited from earlier editions. |
+| **Quinn with Disco Baller** | Wildcard and line-of-sight/visibility control can bypass dangerous combinations of Mimetism and MSV instead of risking weak FTF odds; especially helpful **without a TAG**. | 26pts is a meaningful investment for one wound; a TAG or other control pieces may solve the same problem. A pre-N5 podcast rated Quinn poorly for different reasons. |
+| **Croc Men / Echo-Bravo** | Hidden/Infiltration and mine/repeater specialists (Croc) or Parachutist+Decoy board-edge scoring and backfield threat (Echo-Bravo). | Neither is cheap enough to take without a job. Echo-Bravo is **not** a Combat Jump trooper; choose its deployment edge carefully. |
+
+### Representative legal packages, not mandatory templates
+
+- **Patsy + two Helot FTO Varuna Haris:** linked Helot Regular contribution plus overlapping FTO guns; optionally build a larger *legal* Varuna Core with allowed ORC/Kamau/Fusilier members. Pair with a separate Camo Helot for an unrevealed lane.
+- **ORC + Varuna Machinist + Montesa FTO + two TA Pathfinders Undertow Core:** the two 17pt Pathfinders each contribute a Tactical Awareness order and also bring FO/Sensor, Deactivator and Repeaters. The Machinist repairs REMs; Montesa handles the approach and active/reactive close fighting. Spread the repeater wall **after** reaching the relevant lane, without gifting easy hackers a path in.
+- **ORC HMG/Feuerbach or Kamau visor + foot Montesa FTO and/or TA Pathfinder Undertow Duo/Haris:** smaller, specialized gun+escort or gun+order-delivery option when the five-model Core consumes too many points and slots.
+- **Squalos Mk-II + TA Pathfinder Cavalry Duo:** Squalos's native TA plus a Pathfinder's TA creates an order-rich TAG/specialist delivery unit; the **Squalos MULTI HMG NCO** can also consume an available LT order. Alternative Squalos + Bulleteer Duo adds a midrange attacker/repeater. A Motorized Montesa + Bulleteer instead builds around raw speed. **Two Bulleteers alone are not a legal Varuna Cavalry Duo.**
+- **LT choice:** Fusilier with a possible decoy saves points; Zulu-Cobra Jammer LT combines Camo deception and area control but risks exposure when active; ORC Warhorse LT costs more but is usable in an aggressive squad. Keep LT and an independent backstop from being taken out in the same attack when feasible.
+
+### TAGs, motorcycles and REMs (PanO cross-sectorial findings)
+
+**Varuna's current 27-unit roster has no separate Vehicle (VH) entry.** The relevant vehicles/fast models for playstyle discussion are **Cutter and Squalos TAGs** and the **Motorized Montesa (Motorcycle HI)**, alongside REMs. Other sectorials' vehicles and Fireteam permissions are **not** Varuna choices.
+
+| Platform | Reasons to bring it | Limits and opposing opinion |
+|---|---|---|
+| **Cutter NCO — 97pts / 2 SWC** | BS15, ARM8, Mimetism (-6), Camo/Hidden Deployment and MULTI HMG make an excellent protected long-range problem-solver. Hidden threat influences opposing deployment; NCO can spend the LT order, and engineer support protects the sunk cost. | **No Tactical Awareness** in current roster. Huge S7, costly, fewer specialists/orders: Tactical Awareness hosts often prefer a Squalos/ORC package and warn to finish behind defenses/marker protection. Dante's Faction Focus strongly values Cutter's sheer threat. **Double Cutter** was mentioned as a novelty, not consensus best list. |
+| **Squalos Mk-II — 55pt MMR; 62pt HMG+GL; 66pt MULTI HMG+NCO** | BS15, ARM6, BTS6, 3 STR and **Tactical Awareness on each loadout**. MMR is efficient flexible gun; HMG+grenade launcher pressures unusual angles or dug-in targets; NCO MULTI HMG offers dedicated long-gun punch plus LT order. A TA Pathfinder Duo increases forward efficiency. | No Cutter-level Mimetism/Camo, so avoid taking visible return fire without a plan. Some prefer cheap MMR or NCO gun; others like GL to touch rooftops/hidden cover. Mission/terrain decides. |
+| **Motorized Montesa** | 20-15 movement provides a rare quick flanker, good for distant objectives or pursuing a stolen objective; legal Cavalry partner options. | S4 base, Impetuous and Limited Cover constrain routes; unlike foot FTO, lacks Blitzen and +1SD. Dante/Tactical Awareness often favor foot Montesa for efficient general-purpose fighting, motorized for *speed-required* missions. |
+| **Bulleteer Spitfire / +1B Heavy Shotgun** | 15-10 fast, Mimetism (-6), Repeater. Spitfire is cost-effective midrange attack; +1B shotgun bullies targets **without** template retaliation. EVO Marksmanship may amplify it when EVO and an Engineer serve other REMs too. | S4 ARM1 can lose a trade easily; EVO+Engineer overhead negates cheapness if purchased only for one bot. Swiss Miss likes the Spitfire in vanilla, while Dante says Varuna's Cavalry links provide less upside than some other PanO sectorials. |
+| **Peacemaker + Auxbot (23pts), Minelayer Auxbot (24pts/.5)** | Forward-deployed shotgun/Pulzar, template Auxbot, Repeater and optional extra mine establish a wide field of threat and hacking projection, especially around objective rooms. Useful if an opponent otherwise blinds defenders with Disco Ball and walks through. | The same exposed Repeater can let better enemy hackers attack *your own* hackers/network. Fat chassis and an uncertain gunfight make it **situational**, not an autopick. |
+| **TA Pathfinder (17pts) / Fugazi (7pts) / Baggage Mulebot (8pts)** | Pathfinder Wildcards (max 2) supply sensor, FO, deactivator, repeater, and extra **Fireteam movement orders**. Fugazi are efficient flash/repeater Regular-order fillers. Baggage can reload limited kit including Montesa Blitzens, Quinn Disco Ballers and Zulu Pitchers. | Two TA Pathfinders shine in Varuna Fireteams; their value does *not* generalize to unlinked vanilla lists. The 14pt/.5 EVO Mulebot is more compelling with **multiple combat REMs**, not as automatic infrastructure. |
+| **Sierra TR / Clipper** | Sierra HMG (23/1) or Thunderbolt (+1B, 18/0) provides a 360-degree independent ARO when team guns are elsewhere. Clipper 16/1.5 Guided ML can exploit network targeting and Spotlight, while its **19/1.5 FTO option 5** is a different Wildcard +1B Missile Launcher choice. | Sierra is visible, often less deceptive than Helots and less tailored than Kamau MSV ARO. Guided needs *actual* targeting and order/hacking investment; don't conflate regular Clipper Guided with its FTO loadout. |
+| **Varuna Machinist / Palbot / Tech-Bee** | Engineer and Palbot support Cutter, Squalos and the whole REM group; Machinist in Undertow also contributes Fireteam utility. 9pt Tech-Bee adds cheap specialist, Deployable Repeater and TAGCom support. | With mostly LI/HI and few REMs, repair investment competes with objective bodies and doctor support. |
+
+### What experts disagreed about
+
+- **Cutter or Squalos?** Dante's Faction Focus and the older IGL podcast describe Cutter as a unique opponent-shaping powerhouse. N5 Tactical Awareness calls it dangerous but thin on orders (no TA), and suggests **Squalos+Bulleteer/Pathfinder or ORCs** can be a better *whole-list* allocation. This is **best FTF threat vs board coverage/order depth**, not a universal ranking.
+- **Patsy/ORCs or TAGs?** The **Feb 2024 N4-era IGL** discussion called Patsy/ORCs situational compared with TAGs. **2025 N5** Tactical Awareness and Loss of Lieutenant regard Patsy+Helot FTO as defining, and Warhorse ORCs more viable. Changes in profiles/FT rules explain part of that difference.
+- **Helots: FTO versus camo?** Linked FTOs yield regularity, active mobility and often reactive burst; unlinked one-use Camo markers force Discover and disguise the real Zulu/hidden plan. Best mix depends on whether the list needs orders or deception.
+- **Kamau: staple or overpriced?** Some hosts say ORC toughness and firepower now undercut generic Kamau guns. Others still build around **MSV2 sniper / MSV1 HRL** or TA Paramedic for unique tools. Use a Kamau for a specific need, not a legacy autopick.
+- **Quinn: useful Disco Baller or points sink?** Dante's 2025 recommendation is **Quinn or TAG** versus protected visor/Mimetism pieces. IGL's **2024** evaluation preferred Kamau guns and struggled to justify Quinn. Earlier assessment predates the N5 profile/vision-control use case.
+- **Peacemaker: strong or risky?** Swiss Miss and NCA REM analysis praise minelayer/Auxbot/repeater midfield control. Dante warns the repeater is vulnerable to stronger enemy hacking. Both are right in different matchups.
+- **Pathfinder disagreement is faction-specific:** Robert Shepherd's NCA analysis calls 17pt TA Wildcard Pathfinders almost too efficient; Dante uses them as core Varuna order engines. Swiss Miss was cooler on **vanilla PanO** Pathfinders, where the same Fireteam use is unavailable; do not mistake that for a Varuna verdict.
+
+### Lessons from MEGA 2025 event report
+
+Dante finished **5th of roughly 21–22** players and especially praised layered Helot defenses and 20pt foot Montesas. Against difficult matchups he wanted **more reach and heavier weapons**: moving into midfield is not the same as catching a retreating objective carrier. Practical corrections: protect rear approaches from Parachutists; check ARO lines at model/table level, not from above; double-cover crucial angles; keep flexible pieces alive for late classifieds. Suggested future options: **Motorized Montesa, Echo-Bravo or Guided**. This is one player's tournament experience, not a faction win-rate estimate.
+
+### Ranked transcript-checked media
+
+**Varuna-focused:**
+1. [Infinity the Dante — Tournament Listbuilding for Varuna, N5](https://www.youtube.com/watch?v=U8igbhbj2iw) — tested team packages, mission conditions and detailed why.
+2. [Tactical Awareness S3 E41 — Varuna (Nov 2025 podcast)](https://open.spotify.com/episode/4RsrJBsOlJ3qnkjW3HCmgU) ([YouTube mirror](https://www.youtube.com/watch?v=DLgSwYvTGS4)) — three list perspectives, Patsy/Helots, Cutter vs Squalos, ORC and REM options.
+3. [Loss of Lieutenant #157 — Return of Lost Sectorials (Oct 2025 podcast; Varuna segment approx. 1h58–2h20)](https://open.spotify.com/episode/1lq0RhEWwpegXr1kkKJzUr) — new FTO Helot + Patsy, Montesa, KHD Pitchers and TA Pathfinders.
+4. [Infinity the Dante — Varuna Tournament Report, MEGA 2025](https://www.youtube.com/watch?v=QaAXC5Y332E) — actual results, practical oversights and speed/gun deficiencies.
+5. [Infinity the Dante — Varuna N5 Initial Reaction](https://www.youtube.com/watch?v=FiH3eVJVHP4) — new profiles, LT and Fireteam builds.
+6. [Infinity the Dante — Varuna Faction Focus](https://www.youtube.com/watch?v=YPfLiJ8IKR0) — Cutter, Squalos/GL, order economics; **auto-translation transcript was imperfect** so rely on canonical data above for exact details.
+
+**TAG/REM material from other PanO/vanilla (tactics transferable, membership not):**
+7. [Infinity the Dante — Faction Combat Remotes Guide (N5)](https://www.youtube.com/watch?v=xxGJYtQr6CE) — Bulleteer, Peacemaker, support overhead and repeater vulnerability.
+8. [Robert Shepherd — N5 Neoterran Capitaline Army Faction Focus](https://www.youtube.com/watch?v=axa19k7qE1E) — 17pt Pathfinder TA engine, Peacemaker and REM vs premium gun balance.
+9. [Swiss Miss Gaming — N5 PanOceania Tier List](https://www.youtube.com/watch?v=EjN9xWKeBso) — other opinions on Bulleteer, Peacemaker, Pathfinder, Clipper and Sierra in **vanilla**.
+
+**Historical context only:** [Infinity Global League E144 — Varuna (February 2024)](https://open.spotify.com/episode/2hwVv91Hdba2LxjKVt7ZS3); transcript checked for contrasting views, but N4 roster and Fireteam values are **not** valid current facts.
