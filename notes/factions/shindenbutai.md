@@ -620,25 +620,79 @@ She should be evaluated as a cheap independent mission/control piece rather than
 
 She does not invalidate the older tactical architectures; she adds another compact specialist/control option to them.
 
-# Mechazoid / TAG branch
+# TAGs, REMs and motorbike — transcript-tested decision guide
 
-The Dice Gods' later material explicitly separates a conventional “extended” Shinden build from a TAG build. That is a useful framing.
+The sectorial has **two TAG families (Mechazoid, Triphammer), no standard-roster VH-class entry**, and several complementary REM roles. Motorized **Yojimbo** is a fast **Warband** on a bike, not a VH. This section combines direct MCP transcripts with the current N5.3 source; older videos cannot establish today's points, SWC or Fireteam legality.
 
-Current Mechazoid brings:
+## Mechazoid vs Triphammer — genuine disagreement
 
-- 3 STR, ARM6/BTS6;
-- Tactical Awareness;
-- Climbing Plus;
-- AP HMG or MULTI Spitfire;
-- Panzerfaust;
-- serious CC;
-- Kobaruto ancillary specialist;
-- optional LT profile;
-- dedicated Duo family.
+| Choice | Current N5.3 profile(s) | Why pick it / why hesitate |
+|---|---|---|
+| **Mechazoid AP HMG** | **66/1.5**, TacAware | Better long-range opener when the list otherwise relies on midrange HI. Climbing Plus, stealth, CC and Kobaruto give it unusual secondary jobs; expensive and hackable, so the team around it matters. |
+| **Mechazoid MULTI Spitfire** | **69/1.5**; **69/1.5 LT** option | Fits the faction's midtable brawling/vertical flanking style better than the HMG, and can challenge targets in CC. Its shorter optimum gun range makes opening the first lane and handling opposing hackers essential. |
+| **Triphammer HRL / Panzerfaust** | **48/0**, Heavy Shotgun, HRL, Panzerfaust (+1B), TacAware | Extremely economical independent heavy threat: long-distance disposable/HRL deterrence plus shotgun close defence and anti-materiel CC, without SWC pressure. Transmutation reduces its performance after damage; poor native Dodge and lower BTS constrain reckless pushes. |
+| **Triphammer AP Spitfire / HFT** | **53/1.5**, TacAware | Cheaper midrange anti-armour + template pressure, useful when a full Mechazoid costs too much. Lacks Mechazoid's superior mobility/stealth/CC toolkit. |
+| **Other Triphammer** | **52/1.5** AP Spitfire/Chain-colt; **52/0** Shotgun/Thunderbolt (+1B) | Swap gun/area denial according to lane and SWC needs; do not assume every Triphammer is the 48-point profile. |
 
-Treat this as a **different list archetype**, not a required Shinden element.
+**Why the reviewers disagree:**
 
-The conventional Tanuki/Hatamoto/Shizoku modules already provide enough attack diversity that the sectorial does not need a TAG to function.
+- **MetaChemistry (May 2025)** prefers the Mechazoid for a single premium TAG: mobility, specialist ancillary, midrange MULTI Spitfire and CC justify its higher ceiling; considers Triphammer a cheap TAG/second TAG alternative.
+- **The Dice Gods (Aug 2025)** likes the Mechazoid in isolation but worries that its cost displaces the small Fireteams Shinden wants. Leans toward the cheap Triphammer, especially the 48-point heavy-shotgun/HRL profile.
+- **The Dice Gods (Jan 2026)** actually builds a post-Sandtrap **Triphammer** list rather than automatically upgrading to Mechazoid. The appeal is a self-funding Tactical Awareness heavy threat that leaves points for Sayō, specialists and smoke.
+- **Practical resolution:** start with the **role**. Need an independent long-range AP gun and high-mobility TAG? Mechazoid AP HMG. Need a midfield assault TAG? MULTI Spitfire. Need affordable redundancy, SWC relief or a second attack axis? Triphammer. *Do not force either TAG into a list already solving those problems.*
+
+**TAG support:** Taguraidā is **12/0**, a **Regular specialist** and TAGCom source (**Dodge PH +3, GizmoKit PH +1**) for TAGs in its **combat group**. Cheap insurance plus a mission body, not a compulsory "TAG tax." Put a Tokusetsu Engineer / Monstrucker and possibly Yáozăo where they can actually recover the TAG. Mechazoid's **Kobaruto** and Triphammer's **TurtleMek** are ancillary specialists, **not separate army slots**; they offer objective reach while letting the big chassis pursue its main job. The Mechazoid can make a **Duo with Atom or Tanuki** under the current chart: Atom adds Sensor/FO/Repeater utility; Tanuki adds the wider specialist/hacking/visibility toolkit. These partners are alternatives, not mandatory bodyguards.
+
+## REM priority by actual job, not by chassis
+
+| REM / package | Current profile(s) | When worth the slot — and trade-off |
+|---|---|---|
+| **Robio** | **7/0**, Flash Pulse, Repeater, Mimetism -3, Regular | Very efficient cheap order, secondary ARO and network node when no extra Senku specialist/team body is needed. Not a primary shooter; AVA1. |
+| **Garon smoke / Thunderbolt** | **16/0**, Smoke Grenade Launcher, Total Reaction, 360° | **Underappreciated offensive enabler.** The Dice Gods emphasizes *shooting smoke forward* so CC/short-range units can cross; any TR Thunderbolt guard duty afterward is a bonus. Costs Orders and smoke placement can fail, so distinguish this from reliable thrown Smoke or Disco Ball. |
+| **Garon gun variants** | **23/1 HMG**; **21/0 Mk12** | Prefer for fixed-lane defensive presence, not automatic replacements for the smoke utility build. HMG spends SWC; Garon is one fragile STR1 chassis even with Total Reaction. |
+| **Atom** | **15/0 Sensor** or **17/0 Flash Pulse (+1B)**; FO, Repeater, Triangulated Fire | **15-point Sensor** is the flexible discovery/mission/network pick and unusually useful Mechazoid Duo companion. **17-point** option trades Sensor for extra Flash-Pulse burst; pick deliberately. |
+| **Rui Shi MSV2** | **23/1 Spitfire** | Strong mobile visor attacker and Sayō Duo/Haris piece; pairs especially well with Tanuki Hacker/Disco Baller, but consumes SWC and is exposed to hostile hackers. |
+| **Rui Shi mine/control** | **21/0.5 Red Fury, MSV1, Mine Dispenser** | Cheap, proactive board-state creation. In a Tanuki Duo, Group 2 can build mines/Pitchers instead of hunting exposed opponents. Baggage is useful for replenishment where rules allow. Lower visor level and narrower straightforward gunfighting ceiling. |
+| **Lù Duān** | **24/0 Mk12/HFT/E/M Mine** or **20/0 Thunderbolt/E/M Carbine/Mine** | **Holoprojector + MSV1 + Surprise Attack -3** create mobile threat ambiguity; Mk12/HFT is the more aggressive trade piece, 20-point version the E/M/control bargain. Shared JSA/Ōban discussions reinforce the REM's broad utility, but not Shinden-specific Fireteam rights. |
+| **Pangguling** | **8/0** repeater, **14/0.5** EVO, **17/0** combi TR, **12/0** light-shotgun FTO-labelled | Baggage and network/defensive support. **EVO** is attractive when protecting multiple expensive hackable pieces; **8-point** variant when cheap Regular infrastructure is enough. **No Shinden Fireteam access** despite the FTO label. AVA1: cannot take Baggage and EVO as separate Pangguling models simultaneously. |
+| **Uran** | **16/1.5**, Guided Missile | Makes Tanuki Pitchers/Targeted more punishing; **disputed value** because its points, SWC and Orders may crowd out the actual attack plan. Dice Gods is sceptical of building a dedicated Guided plan; network-heavy lists can justify it as a consequence tool. |
+| **Yáozăo** | Servant peripheral, not a standalone Regular order | Extends the reach of linked Doctor/Engineer support; plan paths and controller availability, not just nominal inclusion. |
+
+**Vehicle/mobility overlap:** Motorized Yojimbo is the closest bike-style unit in the standard roster. Compare **Yojimbo's self-propelled smoke + Koalas + rapid CC threat** against **Garon's repeated ranged smoke**. Yojimbo trades and pressures the enemy independently; Garon stays behind to place smoke and protect a lane. You can take both for redundancy, but a list short on Regular Orders may prefer the Garon/Disco Baller plan.
+
+## Opponent-side checks: why a powerful Shinden list can still fail
+
+Direct **Sneaky Snake Military Orders matchup** and **MetaChemistry takedown** transcripts emphasize:
+
+- **High-quality long-range AROs and layered DZ defence** tax Shinden's mostly BS13-or-lower, often short/midrange attackers. **Answer:** include an AP HMG/HRL or credible visor lane-opener, or deliberately use Smoke/Disco Ball to *decline* the gunfight; don't assume good melee alone gets you into range.
+- **Mimetism snipers with hard-to-reach angles** can force disproportionate Orders if only a non-MSV attacker is available. **Answer:** Rui Shi MSV2 / Tanuki MSV gun, alternative angle, or visibility denial.
+- **Repeaters/hackers** punish Hatamoto, Shizoku and TAG routes, especially without TinBot-style linked protection. **Answer:** carry a real KHD/Engineer/Disco-Baller plan; do not equate having Tanuki Pitchers with hacking dominance.
+- **Cheap exposed one-Wound/STR1 support** can be removed more easily than Shinden's standout HI suggest. **Answer:** layer protection for Tanuki, the cheap remotes and Turn 3 specialists; preserve mission capability after trading away Irregular pressure.
+- **Hard-to-snipe LTs** (Metsuke Holoprojector/Strategos or aggressive Hatamoto plus Tanuki CoC) mean *opponents* may be better off removing order infrastructure than chasing the obvious LT.
+
+These are **matchup tendencies**, not universal counters. Notably the old videos sometimes omit current **Shurayuki Wildcard**, **Ruby Monday**, or post-N5 launch roster differences. The current sectorial reference controls legality.
+
+## Contrasting list-construction opinions — keep all three
+
+- **Robert Shepherd:** Tanuki + Rui Shi toolbox with multiple independent modules and **zero Hatamoto**. *Why:* each Order can choose hacking, mine/visibility denial, gunfighting or scoring instead of paying for one all-purpose HI.
+- **Tactical Awareness / Owen:** **two Hatamoto**, NCO/LT/CoC and disposable screening troops. *Why:* Nanoscreen, Mimetism, specialist/CC and order efficiency make each Hatamoto a formidable self-contained assault piece; redundancy beats over-reliance on one hero.
+- **The Dice Gods (2026):** **Hatamoto + cheap Senku Core** is a viable *different* starting route after Sandtrap. *Why:* inexpensive Senku specialist bodies can buy improved Fireteam shooting bonuses and follow the premium attacker onto objectives. This contrasts with Robert's "Core unnecessary" approach, not a contradiction in legality.
+
+**Default choice:** decide whether the list needs **(a) multiple utility choices, (b) overwhelming two-piece assault, or (c) a cheap Core boosting one attacker**. Then add TAG/REM packages only if they fix a missing role.
+
+### Direct transcript sources (MCP reviewed, 2026-10-19)
+
+- [Robert Shepherd — N5 JSA Shindenbutai faction focus (Jan 2025)](https://www.youtube.com/watch?v=odeyiO-fm4E) — compact Sayō/network teams; no-Hatamoto example.
+- [Tactical Awareness S3E17 — Shindenbutai (Apr 2025)](https://www.youtube.com/watch?v=z8gHfE3aZJI) / [Spotify episode](https://open.spotify.com/episode/7C5EmW5EwRQkHxqjHMopUi) — double Hatamoto, Raiden and group planning.
+- [MetaChemistry E115 — Faction Takedown Shindenbutai (May 2025)](https://open.spotify.com/episode/7DXYTzfxRzdPi8SQTniHPi) — opposite-table threats, TAG and matchup weaknesses.
+- [The Dice Gods — Shindenbutai Faction Focus (Aug 2025)](https://www.youtube.com/watch?v=sFrtYKwC6WI) — individual TAG/REM reviews, Garon/Atom/Triphammer trade-offs.
+- [The Dice Gods — Shindenbutai after Sandtrap (Jan 2026)](https://www.youtube.com/watch?v=x049CcfuCzA) — extended and TAG-based lists, Senku Core and Garon smoke.
+- [Sneaky Snake — Military Orders vs Shindenbutai (Apr 2025)](https://www.youtube.com/watch?v=PgiBcLMeqeE) — opponent-side diagnosis of shooting, ranged AROs, hacking and objective limitations.
+- [WIP12 E186 — JSA with a Pro Goblin (May 2025)](https://open.spotify.com/episode/5BonmJ8H86R4UCEHvWCXlz) — Vanilla/Ōban/Shinden contrasts and shared JSA TAG concepts; **do not import Vanilla Fireteam allowances**.
+- [Professional Goblin — Ōban unit deep dive (Mar 2025)](https://www.youtube.com/watch?v=3RIiLcu33Vw) — shared JSA REM/TAG comparison only; **Ōban's O-Yoroi is not a Shinden unit**.
+
+**Other discovered material, *not* transcript-verified:** [Yellow Snake S4E8 Shindenbutai](https://www.youtube.com/watch?v=FyftEzX8GVA) has detailed unit/REM/TAG chapter marks and sample lists, but the Spotify MCP reported no transcript. Do not ascribe precise tactical claims to that episode without a direct check.
+
 
 # Weaknesses to account for during construction
 
