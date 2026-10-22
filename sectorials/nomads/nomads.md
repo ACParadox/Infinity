@@ -20,6 +20,8 @@ coverage: "Vanilla Nomads standard roster, AVA, standard loadouts and points/SWC
 
 Repository-native reference for **Vanilla Nomads** roster, profiles, points/SWC, AVA, and the Fireteams explicitly exposed by the current Army source.
 
+For concise tactical/list-building analysis (including reviewed video/podcast transcripts, opposing opinions, TAGs, Go-Pod and REMs), see [Vanilla Nomads — N5.3 Tactical and List-Building Guide](../../notes/factions/vanilla-nomads.md). This reference remains authoritative for legal rosters and profiles.
+
 Sources used:
 
 - Army-derived Nomads source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `d4329bb596ffea5d568eb2435f74366c305a7630`.
