@@ -20,6 +20,8 @@ coverage: "Standard Corregidor roster, standard loadouts, canonical Surface/Deep
 
 Repository-native reference for **Corregidor** roster, profiles, points/SWC, AVA, dependencies, and Fireteam access.
 
+For concise, transcript-reviewed strategy, list-building modules, opinion disagreements and TAG/REM analysis, see [Corregidor — N5.3 Tactical and List-Building Guide](../../notes/factions/corregidor.md). This file remains authoritative for current profile legality and Fireteam charts.
+
 Sources used:
 
 - Army-derived Corregidor source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
