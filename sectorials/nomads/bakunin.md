@@ -20,6 +20,8 @@ coverage: "Standard Bakunin roster, standard loadouts, canonical Fireteam chart,
 
 Repository-native reference for **Bakunin** roster, profiles, points/SWC, AVA, and Fireteam access.
 
+For concise transcript-reviewed tactical analysis, explicit disagreements, Fireteam-building guidance, **Stigmata/Lizard TAGs, Go-Pod vehicle and REM choices**, see [Bakunin — N5.3 Tactical and List-Building Guide](../../notes/factions/bakunin.md). This file remains the authoritative profile and Fireteam reference.
+
 Sources used:
 
 - Army-derived Bakunin source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
