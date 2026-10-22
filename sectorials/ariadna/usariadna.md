@@ -248,7 +248,7 @@ Optional-mode units:
 
 ### 5th Minutemen "Ohio"
 
-**ID 232 · AVA 5 · HI (Non-Hackable)** — `MOV 15-5 | CC 20 | BS 13 | PH 13 | WIP 12 | ARM 3 | BTS 0 | W 1 | S 2`. Combat Instinct, **BS Attack (+1 Special Die)**, CC Attack (-6), Dodge (+2\"), Immunity (IMM-B, Shock), MediKit (PH=15), Terrain (Total).
+**ID 232 · AVA 5 · HI (Non-Hackable)** — `MOV 15-5 | CC 20 | BS 13 | PH 13 | WIP 12 | ARM 3 | BTS 0 | W 1 | S 2`. Combat Instinct, **BS Attack (+1 Special Die)**, CC Attack (-6), Dodge (+2"), Immunity (IMM-B, Shock), MediKit (PH=15), Terrain (Total).
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
