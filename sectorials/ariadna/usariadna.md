@@ -156,7 +156,7 @@ Optional-mode units:
 
 ### Blackjacks, 10th Heavy Rangers Battalion
 
-**ID 775 · AVA 3 · HI** — Full Power `MOV 10-10 | CC 15 | BS 13 | PH 10 | WIP 13 | ARM 5 | BTS 3 | W 2 | S 5`; Battle Ravaged `MOV 10-10 | CC 14 | BS 13 | PH 9 | WIP 13 | ARM 4 | BTS 0 | W 2 | S 5`.
+**ID 775 · AVA 3 · HI (Hackable)** — Full Power `MOV 10-10 | CC 15 | BS 13 | PH 10 | WIP 13 | ARM 5 | BTS 3 | W 2 | S 5`; Battle Ravaged `MOV 10-10 | CC 14 | BS 13 | PH 9 | WIP 13 | ARM 4 | BTS 0 | W 2 | S 5`. Both states have **Courage and BS Attack (-3)**; Full Power has **Transmutation (1)**. This is Heavy Infantry, **not a TAG**.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
@@ -219,13 +219,13 @@ Optional-mode units:
 
 ### Grunt Intel Rosalind "Rosie" Munroe
 
-**ID 990 · AVA 1 · MI** — `MOV 10-10 | CC 15 | BS 12 | PH 11 | WIP 13 | ARM 3 | BTS 0 | W 1 | S 2`.
+**ID 990 · AVA 1 · MI** — `MOV 10-10 | CC 15 | BS 12 | PH 11 | WIP 13 | ARM 3 | BTS 0 | W 1 | S 2`. Courage, Forward Deployment (+4), Immunity (Shock), Specialist Operative, Dogged.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
 | 1 | 21 | 0 | Light Rocket Launcher, Light Shotgun, D-Charges, Pistol, CC Weapon | Wildcard max 1; Grunt |
 | 2 | 23 | 0 | Thunderbolt, D-Charges, Boarding Pistol, CC Weapon | same |
-| 3 | 26 | 0 | Light Rocket Launcher, Light Shotgun, D-Charges, Pistol, CC Weapon; NCO | same |
+| 3 | 26 | 0 | Light Rocket Launcher, Light Shotgun, D-Charges, Pistol, CC Weapon; **Chain of Command** | same |
 
 ### Dozers, Field Engineers
 
@@ -248,15 +248,15 @@ Optional-mode units:
 
 ### 5th Minutemen "Ohio"
 
-**ID 232 · AVA 5 · HI** — `MOV 15-5 | CC 20 | BS 13 | PH 13 | WIP 12 | ARM 3 | BTS 0 | W 1 | S 2`. Heavy infantry with close-range resilience and Combat Instinct.
+**ID 232 · AVA 5 · HI (Non-Hackable)** — `MOV 15-5 | CC 20 | BS 13 | PH 13 | WIP 12 | ARM 3 | BTS 0 | W 1 | S 2`. Combat Instinct, **BS Attack (+1 Special Die)**, CC Attack (-6), Dodge (+2.5), Immunity (IMM-B, Shock), MediKit (PH=15), Terrain (Total).
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 4 | 27 | 1.5 | Missile Launcher, Light Flamethrower, AP Heavy Pistol, AP CC Weapon | Grunts max 1; USARF required-choice max 5 |
-| 6 | 25 | 0 | T2 Rifle, Light Flamethrower, Flash Pulse, D-Charges, AP Heavy Pistol, AP CC Weapon; Forward Observer | same |
-| 7 | 34 | 1.5 | AP HMG, AP Heavy Pistol, AP CC Weapon | same |
-| 8 | 36 | 1.5 | AP HMG, AP Heavy Pistol, AP CC Weapon; Lieutenant | same |
-| 9 | 27 | 0 | T2 Rifle, Light Flamethrower, Flash Pulse, D-Charges, AP Heavy Pistol, AP CC Weapon; Lieutenant, Forward Observer | same |
+| 4 | 27 | 1.5 | Missile Launcher, Light Flamethrower (+1B), AP Heavy Pistol, AP CC Weapon | Grunts max 1; USARF required-choice max 5 |
+| 6 | 25 | 0 | T2 Rifle, Light Flamethrower (+1B), Flash Pulse, D-Charges, AP Heavy Pistol, AP CC Weapon; **Forward Observer, NCO** | same |
+| 7 | 34 | 1.5 | AP HMG, AP Heavy Pistol, AP CC Weapon; **NCO** | same |
+| 8 | 36 | 1.5 | AP HMG, AP Heavy Pistol, AP CC Weapon; **Lieutenant (+1 Command Token)** | same |
+| 9 | 27 | 0 | T2 Rifle, Light Flamethrower (+1B), Flash Pulse, D-Charges, AP Heavy Pistol, AP CC Weapon; **Lieutenant (+1 Command Token), Forward Observer** | same |
 
 ### Mavericks, 9th Motorized Recon Battalion
 
@@ -441,6 +441,8 @@ These rows are intentionally separate from the standard USAriadna chart. Reinfor
 Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforcement Fireteams, subject to the Reinforcement chart above.
 
 ## Validation notes
+
+- **2026-10-22 profile-skill transcription repair:** restored Minutemen BS Attack (+1SD), NCO, Lieutenant (+1 Command Token), and related loadout skills, Blackjack BS Attack (-3) and Transmutation, and Rosie Chain of Command/ordinary skills omitted in the shortened original summary. Cross-checked against [Corvus Belli's October 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-2025-part2) and the current N5 [Minuteman](https://human-sphere.com/Minuteman), [Blackjack](https://human-sphere.com/Blackjack), and [Rosie](https://human-sphere.com/Rosalind_Munroe) profile reproductions. Original roster costs, chart, pinned Army revision, and verification provenance preserved.
 
 - Standard roster count reconciled to **22** ordinary USAriadna entries after excluding `Intel Spec-Ops`, `Ariadna Team-Ops`, and generic `merc-*` catalog entries with an empty faction list.
 - Army ID `304` is explicitly marked `discontinued: true` in the pinned N5 Army metadata; this reference nevertheless uses the complete current N5 roster and Fireteam data shipped for that Army ID.
