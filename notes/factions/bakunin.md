@@ -135,3 +135,8 @@ Current [canonical chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-
 - [ ] Against a tough opposing TAG/HI or hidden gun, test the answer from **E/M, close combat, White Noise, continuous AP, Spotlight, and Engineer repair** rather than expecting ballistic brute force alone.
 
 **Suggested starting philosophies, not Army-validated 300pt exports:** **List A (mission/area):** Riot Grrls + Uhahu/TinBot, Orphan MSV2 or Rounder, Sin-Eater or 0SWC Reaktion, a Chimera and Morlock assault package, plus Zeros/specialists. **List B (armored/network):** Stigmata + Orphan Engineer or Lizard+Marspider Armored Duo, Moderator+Clockmaker+Vostok/Tsyklon only if using Haris budget, KHD/Repeater backstop, Zeros and one finishing Specialist. Build exact lists after selecting missions, table density and current Army validation.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Cheap screens:** **Morlock 6/0 Smoke** is low-cost but Irregular/Impetuous; **Chimera + Pupniks 19/0 Eclipse** is the high-ceiling assault/mission-delivery option. **Uhahu HD+ 19/.5** or eligible Reverend Custodier HD+ supplies **White Noise** vs MSV/Marksmanship; **Prowler Disco 34/0** adds an infiltrating specialist/counter angle.
+- **Contrasting tournament evidence (MetaChemistry #132):** MSV Orphan/Rounder denies enemy ordinary-Smoke objective theft, but non-MSV Cenobites can keep fighting when White Noise/Albedo shuts off your visor lane. Eclipse blocks both. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
