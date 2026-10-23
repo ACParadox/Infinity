@@ -793,7 +793,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice (N5.3):** **Cutter NCO MULTI HMG97/2** is the highest hidden/Mimetism(-6) first-shot gun ceiling, but its cost limits other attack lanes; **Tikbalang HMG69/1.5** is a faster Climbing/TacAware repeated angle; **Squalos MMR55/1** is cheaper sustained midrange with room for specialists; **Swiss Guard HMG56/1.5** buys hidden ranged attack without the S7 TAG tax. **Cutter LT95/2.5** is a *different* commander profile. **CoC Magistrate21/0** can insure fighting LTs only where legal. Check the selected army's skills/team chart rather than importing Kestrel-specific Squalos +1SD. [Full apex/value and gunfighter LT/CoC rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Cutter MULTI HMG97/2** is a high-ceiling **TAG** for hidden Mimetism(-6) first strikes, but consumes too much budget if the mission also needs several independent scorers. **Tikbalang HMG69/1.5** trades some peak concealment for Climbing/TacAware repeated angles; **Squalos MMR55/1** is a cheaper **TAG** midrange gun; **Swiss Guard HMG56/1.5** buys Hidden/Camo 2W ranged offense **without** a TAG footprint. Check current roster-specific Squalos +1SD before comparing. [Separate infantry/REM/VH and TAG gunfighter tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
