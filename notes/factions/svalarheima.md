@@ -109,3 +109,8 @@
 **Cross-PanO shared hardware (YouTube MCP transcripts checked):** [Shepherd — Aerial Vehicles](https://www.youtube.com/watch?v=N6TYjMgU4ZM) vs [Dice Gods — Aerial Vehicles](https://www.youtube.com/watch?v=QscqX3hlUZU) for **Redeye as opponent / comparison** (no SWF VH). Shared **Fugazi, Pathfinder, Peacemaker, Bulleteer, Sierra, Mulebot, Clipper, Palbot** analyses in [PanO/NCA/Kestrel source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) offer role analogies, **not transposable Fireteams/AVA**. The two direct SWF video transcripts (Shepherd and Swiss Miss) already give substantive REM-specific assessments.
 
 **Method:** actual transcript retrieval, not title-based guesses. Rankings reflect presenters' subjective opinions and are deliberately not collapsed into a consensus. Transcripts (especially automated Russian-to-English) can mistranscribe `Jotum`, `Karhu`, weapon special dice and rules terminology. For roster/points/Fireteams use the linked **2026-09-03 pinned N5.3 reference**. No SWF Vehicle was found there.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Vargar FO + Disco + Deactivator 24/0** combines projected Eclipse, Super-Jump/Albedo and scoring; **Quinn 26/0** offers Wildcard FO + Disco; **Bøyg 44/0–1.5** carries Disco on a much pricier durable shooter. **Baggage Mulebot 8** is relevant for reloading expended Disposable charges.
+- **Disagreement:** Shepherd rates Vargar's utility far above buying Bøyg only for Disco; Bøyg supporters value its 2W gun/ARO as a second job. If no MSV-proof crossing is needed, preserve Orders for the Karhu/KoJ instead. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
