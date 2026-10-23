@@ -523,6 +523,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Speculo BSG26/1 or Minelayer31/1.5** is the best direct Impersonation assault/Turn-0 defense tax with Monofilament, but fragile single-W and failed kill may be negative trade. **Shas Cadmus BSG19/0 or KHD22/0** is a lower-cost Combat Jump/decoy attack; actual landing and state interaction must use pinned N5.3 rules. **Sphinx93/2** is the extreme **Hidden fast TAG** attacker, not Parachutist; **Caliban FD+20** and Shrouded/Malignos Camo pressure increase safe approach options. **Sheskiin LT48–50 on-table** can breach with Protheion; **Caliban CoC29** is separate hidden succession and should survive.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
