@@ -745,3 +745,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Jotum** and other REM/TAG investments justify an **Engineer + Palbot** near safe fallback; **Remote Presence token reroll** raises a WIP12 Machinist from 60% to 84% on a failed repair. **Nisse or Knight casualties** instead need **Doctor/Paramedic**, not Engineer. Repair a Jotum only if a single revived STR model can actually return to a useful attack or scoring lane. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º3/0** guards rear/side landing angles for virtually no points, and **Sierra TR+360º Thunderbolt18/0** gives a Regular repairable multiarc gun; **Fugazi7/0 Flash+Repeater** and **Mulebot8/0 Baggage+Deactivator+Repeater** are dual-purpose **Regular** cheerleaders/limited last-line friction. **Peacemaker 24/.5 Auxbot-3B Minelayer** denies a turn-zero route before the alpha strike but normally wants to defend *midfield-to-DZ access*, not crowd protected rear models. **Counter:** no single long-range ARO stops a safe Combat Jump behind cover or a masked Impersonator; retain close template/mine and disperse vulnerable support.
+
+[Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
