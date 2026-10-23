@@ -612,6 +612,10 @@ The pinned Onyx Army data links Reinforcement roster **699**. The source also co
 - Fraacta Jump Form and Survival Form are profile groups of one logical unit.
 - Reinforcement roster 699 is linked but not mixed into the standard roster or Fireteam chart.
 
+## Expanded Onyx tactical guide (2026-10-23)
+
+The [Onyx N5.3 tactical/list-building guide](../../notes/factions/onyx-contact-force.md) preserves Overdron HRMC/Plasma disagreements, 51-point HRL alternative, robotic attrition, Xeodron/Nourkias and Caskuda insertion. **Nexus/Kerr-Nau Wildcards are Unidron-context only**, while Nourkias has specifically delimited eligible team contexts. The pinned current chart above remains definitive.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
