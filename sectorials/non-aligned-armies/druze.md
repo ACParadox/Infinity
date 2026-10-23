@@ -775,6 +775,12 @@ Further community cross-check: [Corvus Belli forum N5 Druze discussion](https://
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Yuan Yuan Chain Rifle+Smoke6/0 / DA CC7/0** is a near-bottom priced **Irregular+Impetuous Combat Jump(PH11) or ordinary Parachutist** trade: **55% unsupported jump**, so prefer an open side edge if possible; 6pt may be valuable for just taxing two defending Orders. **Libertos SMG+Chain-colt8/0** has *FD+20/one-use Camo/Dogged*, an alternative safer midfield angle. **Motorized Bounty Hunter8–9** cheap high-speed Riotstopper/Chain-colt. **Saito Togan33 Hidden/EXP** high ceiling, but not an Irregular 6pt warband. **Bashi Bazouk** is Irregular holo/AD, distinct from Yuan; Druze version permits Combat Jump, unlike Qapu/Dahshat.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Triphammer** is usually the more efficient high-pressure option (budget profiles + TacAware), while **Anaconda** gives AP Spitfire/Thunderbolt and an operator fallback. **Disagreement:** the 2025 TAG tier-list judges Anaconda extremely poorly, but Druze can value a specific role when other gun choices are limited. Both require deliberate Engineer/hacking and mission support; don't assume its TAG Fireteam members from other mercenary factions.
