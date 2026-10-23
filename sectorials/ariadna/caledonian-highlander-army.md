@@ -569,3 +569,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Galwegian Chain Rifle+Smoke5/0 (AVA Total)** is elite pure **value**: 5pt Irregular+Impetuous AP CC/CC22/PH14 can force a much pricier shooter to spend 2+ Orders on a template/smoke guard. It is **not guaranteed** to kill a 3W TAG. **Cameronian18/0** has 2W, PH16/S6 and better sustained CC/smoke pressure; **McMurrough23/0** adds Dogged/AP+DA. **Denma Connolly12/0 Regular+Impetuous** is a stronger self-directed advance but twice the Galwegian price. **Wallace LT38 Inspiring Leadership** makes eligible Irregular armies more flexible (Religious Troop exclusion); his **non-LT** profile should not be assumed to grant army-wide LT engine. In current Caledonia roster the first Wallace option is unlabeled in summary: check current profile if using it for **CoC** rather than importing Kosmoflot.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
