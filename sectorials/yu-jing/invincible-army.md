@@ -769,6 +769,12 @@ Refresh this file when any of the following changes:
 3. The repository rules baseline moves beyond N5.3 or a new FAQ changes relevant rules.
 4. `sectorials/REFERENCE_DESIGN.md` advances to a new schema version.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Dāoyīng LT(+1) 23/0** has Camouflage and two Special LT Orders; **Tai Sheng NCO** converts them into team Tactical activations while preserving LT identity, one of the game's best **value** command architectures. **Hǎidào CoC 24/0**, **Tai Sheng CoC 36–40**, or **Léi Gōng FTO CoC 34** protect an active expensive HI commander while performing other team/mission jobs; choose the exact legal FTO/team profile. Tactical Awareness on other HI is **personal**, not pooled.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gūijiă** provides a true big-gun/armor alternative to linked HI; prefer it where its 3-STR TAG survivability, firing lane and **Shock** Fireteam access beat spending Orders on yet another HI gun. Count the full companion/Engineer/support cost, and protect it from hacking/E/M rather than relying on high ARM alone.
