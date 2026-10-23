@@ -803,3 +803,9 @@ The Army source links OSS to Reinforcement army **799**. Reinforcement units, pr
 - Context-limited Wildcards are preserved for Optimate Agent Maximus and Hawkwood.
 - The standard roster count excludes Chandra Spec-Ops, ALEPH Team-Ops, and generic `factions: []` Soldier-of-Fortune catalog records.
 - Faction-listed mercenary-origin records are retained when the OSS source explicitly assigns faction `703`.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Marut** is the premier MSV2 big gun, with an optional Strategos LT price/risk tradeoff. **Maximus TAG** is a tougher close-range/CC answer but gives up Marut's visor/long-range efficiency. Both fill high-priced required-choice slots in their permitted MAX-OP team; check canonical members and do not infer extra legal links from name alone. OSS's REM/specialist support can justify either without replacing the objective plan.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

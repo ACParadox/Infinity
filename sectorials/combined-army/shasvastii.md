@@ -506,3 +506,9 @@ The pinned Shasvastii Army data links Reinforcement roster **699**. This referen
 - Seed-Soldier Seed-Embryo and Cadmus-Seed are transformation states rather than additional roster units.
 - Sphinx/Scindron and Jayth Pit Patrol/Taigha are represented as parent/peripheral relationships rather than additional roster entries.
 - Reinforcement roster 699 is linked but not mixed into the standard roster or Fireteam chart.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

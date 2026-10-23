@@ -768,3 +768,9 @@ Refresh this file when any of the following changes:
 2. InfinityDB changes Fireteam normalization or Counts-as/FTO semantics.
 3. The repository rules baseline moves beyond N5.3 or a new FAQ changes relevant rules.
 4. `sectorials/REFERENCE_DESIGN.md` advances to a new schema version.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Gūijiă** provides a true big-gun/armor alternative to linked HI; prefer it where its 3-STR TAG survivability, firing lane and **Shock** Fireteam access beat spending Orders on yet another HI gun. Count the full companion/Engineer/support cost, and protect it from hacking/E/M rather than relying on high ARM alone.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

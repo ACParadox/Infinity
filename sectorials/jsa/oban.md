@@ -647,3 +647,9 @@ Validated against Army snapshot `7.26246.159`:
 - Counts-as relationships were preserved separately from ordinary membership.
 - The Yojimbo mutual-exclusion relation was retained.
 - Reinforcement Army ID `1199` remains distinct.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

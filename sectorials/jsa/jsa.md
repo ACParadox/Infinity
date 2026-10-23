@@ -695,3 +695,9 @@ Validated against Army snapshot `7.26246.159` on 2026-10-16:
 - Fireteam-specific FTO restrictions were retained for Shizoku and Yuriko.
 - Sectorial-only Wildcard/counts-as semantics were not carried into the generic faction.
 - Reinforcement Army ID `1199` remains distinct from standard Vanilla JSA.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

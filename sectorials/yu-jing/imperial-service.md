@@ -951,3 +951,9 @@ Derived analysis aids, not official characteristics.
 ### Refresh rule
 
 When a newer Army source revision or InfinityDB normalization supersedes the provenance above, set `status: stale` until roster/profile/Fireteam changes are reconciled. Do not silently mix newer live values into this file without updating the provenance block.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Lóngwáng (68–72)** is a control-oriented TAG: Adhesive Launcher Rifle and Riotstopper help neutralize high-threat targets without requiring conventional damage; **NCO AP HMG** spends an unused Lieutenant Order. It is best against vulnerable targets at useful range, not where an HRMC duel or anti-armor AP specialization would outperform glue.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

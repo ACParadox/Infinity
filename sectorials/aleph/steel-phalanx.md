@@ -547,3 +547,9 @@ These tags are analytical conveniences, not rules text.
 - Steel Phalanx's sectorial-specific **Core maximum of 4** is applied to both Myrmidon and Thorakitai Core construction.
 - Generic catalog mercenaries that merely appear in the aggregate Army payload without Steel Phalanx faction availability are intentionally excluded.
 - Source oddities that could matter to audits are preserved rather than silently normalized: K2 FTO options 2/3 are duplicate Army entries; Sāchā/Thamyris/Scylla retain raw source modifier IDs where the mirrored payload does not provide a sufficiently unambiguous human-readable label in the unit record itself.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

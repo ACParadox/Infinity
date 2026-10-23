@@ -768,3 +768,9 @@ Army links Vanilla ALEPH to Reinforcement roster ID **799**. Reinforcement-only 
 - Generic `merc-*` catalog objects with an empty `factions` array are not part of the 52-entry standard roster.
 - Named mercenaries explicitly carrying faction `701` in Army data are ordinary selectable Vanilla ALEPH entries and are therefore retained.
 - Maximus TAG and Optimate Agent Maximus each carry the source restriction that only one Maximus may appear in an Army List.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

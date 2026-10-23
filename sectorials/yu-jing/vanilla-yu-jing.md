@@ -477,3 +477,9 @@ Inline and verify the complete vanilla loadout table for every standard unit aga
 ### Refresh rule
 
 When a newer Army source revision or InfinityDB normalization supersedes the provenance above, set `status: stale` until roster/profile/Fireteam changes are reconciled. Do not silently mix newer live values into this file without updating the provenance block.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Blue Wolf** is the more aggressive multi-angle/close-assault deterrent, **Gūijiă** the conventional durable gun platform, **Lóngwáng** the AP HMG + Adhesive/Riotstopper control TAG with optional NCO. Choose according to the exact range/control problem: a 10-inch Berserk threat does **not** make rushing anti-TAG enemies optimal. Current vanilla Duo/roster rules govern any actual partnering, not a sectorial's link chart.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

@@ -641,3 +641,9 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 - `NEXUS-7 SPEC-OPS` and `NEXT WAVE TEAM-OPS` have no row in the pinned standard Fireteam chart; no Fireteam access is invented for them.
 - Linked Reinforcement army resolves to **The Exrah Comissariat (699)**. Its chart is kept separate, including the source combination of global `spec` 0/0/0 and explicitly typed Fireteam rows.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.

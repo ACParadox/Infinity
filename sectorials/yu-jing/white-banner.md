@@ -755,3 +755,9 @@ Wildcards use the global Wildcard row of the White Banner chart and may join oth
 | Johnny Kao | Wildcard | — |
 
 All standard roster units not listed in this reverse index have no Fireteam access in the pinned White Banner chart.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
