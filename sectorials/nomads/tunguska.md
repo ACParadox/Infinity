@@ -812,3 +812,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Warcor Flash** — 3pt Irregular ARO tax/late-game Stun attempt, not a Regular Order
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Hidden Spektr 33/1 E/M+Shock Mine Minelayer** starts a credible concealed defense but is premium; **Spektr 28/0 E/M Mine + Deployable Repeater** is **not a Minelayer** and cannot predeploy its network without an activation. **Heckler Jammer+FastPanda 23/0** is a FD(+10) deterrent, but FastPanda placement is also not a free turn-zero deployment. **Counterpoint:** a 7pt Transductor and more active attack can outperform pricey forward Camo if the opponent has safe Sensor/Deactivator routes.
+
+[Cross-game apex/value and transcript analysis](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). This is tactical synthesis; exact loadouts and Fireteams remain above.
