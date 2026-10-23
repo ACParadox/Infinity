@@ -867,3 +867,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Ikadron Baggage/Flamethrower** — cheap multi-purpose DZ corner guard and Repeater; contributes more than pure filler without being a long gun
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Med-Tech Obsidon21 WIP14** does Doctor and Engineer from one **15-10** Controller; **Slave Drones3** cover two recovery zones. This is excellent value for mixed **Avatar/Overdron STR and Sheskiin/VITA**, provided legal targets and a safe approach. Remember a failed Doctor roll kills and a failed Engineer wound repair inflicts a Wound; Remote Presence grants a reroll on qualifying Engineer attempts. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
