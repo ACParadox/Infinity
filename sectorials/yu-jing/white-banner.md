@@ -819,3 +819,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Hùsòng** — expensive single-STR HMG vs zero-SWC Thunderbolt profile when roster grants both; choose actual range
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Mech-Engineer14 WIP13 + Yáozăo3** is the low-cost **Blue Wolf/Guijia/REM** recovery line; ordinary WIP13 contact success is **65%**, **87.75%** if eligible Remote Presence Command Token used on failure. **Chung-Hee Jeong31** buys Engineer(ReRoll), Repeater and turret/linked utility; **Johnny Kao36** buys high-mobility, survivability and Engineer ReRoll as a different tier. **Zhanshi Yīshēng14** treats VITA instead. Favor 17pt network if the pricey mechanic never needs to fight. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
