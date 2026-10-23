@@ -646,6 +646,12 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 
 See the [Next Wave N5.3 tactical and profile-selection guide](../../notes/factions/next-wave.md) for research-backed hero/team tradeoffs, Cyberplug, Juggernaut/Skyhound, specialist coverage and podcast disagreements. **FTO Patroclus has no Smoke Grenades in the pinned profiles**; only the separate Holoprojector HRL option does. Team Achilles excludes Wildcards; use this roster/chart above for actual link legality.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Harbinger LT 13/0 + plausible decoy** is efficient when Next Wave needs Blackhearts, Gearheads and objective pieces more than a premium LT. **Pandora CoC 29/0.5** can be worth the cost for Research/Hacking/succession simultaneously; **Patroclus FTO CoC 36–40** supplies Fireteam Master/real assault support as a different, more exposed backup. **Stinger NCO** and **Ironside/Juggernaut TacAware** produce **personal or linked Tactical activations**, not transferable generic Orders; Blackheart/Steeljaw Irregular orders require legal Fireteam Master conversion.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
