@@ -766,6 +766,12 @@ The pinned Bakunin Army data links Reinforcement roster **599**. This reference 
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Moderator cheap Hacking Device**, supported by **Pupnik/Observance/Bran** actual midfield specialist options, can cover console/infowar while premium fighters clear lanes. A static hacker remains poor on far-side objectives without a Repeater/forward physical path. In a Doctor/Engineer-heavy Classified mission, verify actual **Daktari or other roster-legal medical/technical** categories. **Do not import Vanilla Shifta CoC** solely on faction relationship; current mission packet governs specialist permissions.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
