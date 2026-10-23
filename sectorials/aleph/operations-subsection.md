@@ -804,6 +804,12 @@ The Army source links OSS to Reinforcement army **799**. Reinforcement units, pr
 - The standard roster count excludes Chandra Spec-Ops, ALEPH Team-Ops, and generic `factions: []` Soldier-of-Fortune catalog records.
 - Faction-listed mercenary-origin records are retained when the OSS source explicitly assigns faction `703`.
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Posthuman Mk.1 Doctor/Engineer 13, Mk.5 FO13/.5** give G:Jumper slot-efficient task coverage; don't treat them as two independent Orders. **Dasyu FO29/Naga FO25** are Camo scoring; **Deva KHD20/FO21** WIP15 NWI, **Artalis Doctor/Engineer23** is NCO frontline support, **Riksha FO20**, **Daleth FO15/TA18** provides cheap mobile sensor/button work. **Asura HD+** combines gun/hacker/score but can starve independent routes. Source MAX-OP requirements still govern linked scoring.
+
+[Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut** is the premier MSV2 big gun, with an optional Strategos LT price/risk tradeoff. **Maximus TAG** is a tougher close-range/CC answer but gives up Marut's visor/long-range efficiency. Both fill high-priced required-choice slots in their permitted MAX-OP team; check canonical members and do not infer extra legal links from name alone. OSS's REM/specialist support can justify either without replacing the objective plan.
