@@ -722,3 +722,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Tokusetsu Engineer14 + Yáozăo3** is the baseline repair web for **O-Yoroi/Karakuri** where roster-legal; plan a servant within one safe Move of the TAG's fall-back turn lane. **Yuriko25** provides forward Mimetism/minelayer/Engineer utility only if both roles matter. **Tokusetsu Doctor14** instead serves VITA troops such as midfield infiltrators when recovering them is physically possible; a Shikami deep in enemy territory is not automatically inside the DZ Doctor's radius. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Ryūken-9 HRL+Shock Mine Minelayer 23/1.5** offers a predeployed DZ mine plus 1-use Camo/Decoy(1)/Mimetism(-6) to threaten an attacker after entering; especially good against visible attackers who must cross a long lane. **The 22/.5 SMG+FD(+20)** is a **different** profile for closer approach control, not an equivalent HRL guard. **Warcor 360º3/0**, where selected, gives rear-angle Flash; standard **Keisotsu CrazyKoala Hacker 16/.5** is contingent on spending Order(s) to Place Deployable. **Counterpoint (Shepherd Ōban):** an HRL defender can be avoided/smoked; a useful Karakuri mission/counterattack often beats paying for several static reactive threats.
+
+[Whole-game DZ defense value/apex and anti-IMP matchups](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
