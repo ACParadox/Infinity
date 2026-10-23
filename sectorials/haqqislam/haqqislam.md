@@ -976,6 +976,10 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Mukhtar Viral Rifle25/0** is a low-SWC Mimetism/NWI soft-infantry and lower-BTS attacking solution; **MSV2 Red Fury34/1** trades price for anti-Mimetism volume. **Asawira AP Spitfire38/1.5** is a **BS14/2W/BTS9** durable close/mid anti-armor shooter, versus **Shakush HMG(Continuous)58/1.5** for a safer 3W/TacAware long-lane anchor. **Fiday/cheap rear attackers** can delete opposing Engineer/Hacker support instead of committing the Shakush into a hard FtF first. **Saladin LT39** is a superior army order engine with useful Irregular troops, **not the best direct ranged gun LT**. [Gunfighter apex/value and attack vs command LT tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
