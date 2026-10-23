@@ -731,3 +731,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Apex pre-deployed control:** **Shujae SMG/Flammenspeer E/M Mine Minelayer (2) 27/0**: Hidden + FD(+20) + specialist and two mines, strongest at Hackable chokepoints but no Order while Hidden. **Farzan Viral Minelayer 21/.5** supplies a *different* camouflage/mine threat; using both discourages enemy mine-type identification. **Counterpoint:** Sensor/Deactivator and cheap scouts can defeat predictable clusters; Shujae mine spacing can betray the hidden launch position. Do not mistake the 24/0 Farzan CoC for its minelayer.
 
 [Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical core for high-value VITA/Asawira; a **Nasmat3** staged behind the likely ARO position can reduce retrieval to 1–2 Orders. Repair **STR** separately through an eligible Engineer, not a Doctor. A Fiday or Ragik committed behind enemy lines usually leaves the recovery radius and should be evaluated as a trading unit, not as a guarantee of a medical return. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
