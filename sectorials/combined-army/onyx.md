@@ -616,6 +616,12 @@ The pinned Onyx Army data links Reinforcement roster **699**. The source also co
 
 The [Onyx N5.3 tactical/list-building guide](../../notes/factions/onyx-contact-force.md) preserves Overdron HRMC/Plasma disagreements, 51-point HRL alternative, robotic attrition, Xeodron/Nourkias and Caskuda insertion. **Nexus/Kerr-Nau Wildcards are Unidron-context only**, while Nourkias has specifically delimited eligible team contexts. The pinned current chart above remains definitive.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Nexus CoC 23/0** is top value because it supplies **NCO, Number 2, Mimetism(-3), BS13 and E/Mitter** while replacing a useful Unidron link member; its Onyx Wildcard access is **Unidron-only**. A Nexus LT 19/0 can be safe/cheap, while **EXO CoC 19/0.5** and **Umbra Legate FTO CoC 38/0** are distinct backup roles. **Nourkias LT or fighting Legate** increases exposure; keep successor apart from the assault. Neither Xeodron nor Overdron receives Warhorse or Mnemonica simply from Combined Army affiliation.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
