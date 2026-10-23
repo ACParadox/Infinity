@@ -818,3 +818,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Hidden Spektr 33/1 E/M+Shock Mine Minelayer** starts a credible concealed defense but is premium; **Spektr 28/0 E/M Mine + Deployable Repeater** is **not a Minelayer** and cannot predeploy its network without an activation. **Heckler Jammer+FastPanda 23/0** is a FD(+10) deterrent, but FastPanda placement is also not a free turn-zero deployment. **Counterpoint:** a 7pt Transductor and more active attack can outperform pricey forward Camo if the opponent has safe Sensor/Deactivator routes.
 
 [Cross-game apex/value and transcript analysis](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). This is tactical synthesis; exact loadouts and Fireteams remain above.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zondbot3** gives reliable repairs at modest cost, with **Remote Presence one-roll revive from either Unconscious level** and optional token reroll. **Daktari14** is enough for VITA wounds where rostered. When a specialist team can score and fight, evaluate its other tasks before buying another Engineer purely because it has a higher price tag. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
