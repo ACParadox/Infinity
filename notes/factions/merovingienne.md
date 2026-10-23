@@ -101,3 +101,8 @@
 | **Historical battle-play, not N5.3 tactics** | [Robert Shepherd — MRRF vs Acontecimento (Supplies)](https://www.youtube.com/watch?v=pUv0y_G75qM), **N4/2024** | Useful deployment/turn sequencing and Chasseur screening, **obsolete unit permissions and smoke claims**; treat only as a historical case study. |
 
 **Transcript method:** Full **MCP** timestamped transcripts checked for WIP12 E197, Tactical Awareness S3E39, Loss of Lieutenant E157, WIP12 E203 (TAK), Loss of Lieutenant E141 (TAG fundamentals) and E142 (older TAG debate), plus the old WIP12 E16 and N4 battle video as dated controls. Creator comments are sometimes auto-transcribed with mangled names; **current repository Army profiles decide unit names, SWC and Fireteam legality**. The official [Corvus Belli Anaconda Spotlight](https://www.youtube.com/watch?v=-3q0OH-wEzQ) was also checked but is a **lore/marketing video**, not an actionable TAG tactica, and is intentionally not ranked among strategy sources.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Best cheap route builder:** **Loup-Garou 17/0 Smoke GL + Riotstopper** in a permitted small Fireteam with Apache FTO can shield an  objective push; **Duroc (Mirage-5)** and motorized 112 provide independent Smoke options.
+- **Tradeoff:** a 17pt Regular Smoke GL advances scorers at low cost, but does not solve MSV ARO by itself or grant your Marksmanship shooter the MSV ability. The linked 24/.5 Loup-Garou Viral Marksman is a different weapon/mission pick. [Vision-control tier guide](../list-building/vision-control-units-apex-and-value.md).
