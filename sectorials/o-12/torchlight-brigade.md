@@ -748,7 +748,7 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Firebat36/0** (AP SMG/Thunderbolt/LRL) or **35/0** control-gun option adds **NCO and aerial angle creation** without SWC; ideal when Raveneye LT(+1) actually supplies exploitable Special Orders. Don't treat it as a conventional ARM8 HMG TAG: S7/No Cover and hacking change the attack math. **Vidoc NCO MSV1 Sniper26/0**, **Silverstar/linked guns**, and resilient **Strider** can combine an enemy-counter solution and mission progress in a single team. **Raveneye LT17/0 and Raveneye CoC18/0 are separate**, and CoC is protective, not an extra shooting bonus. [Gunfighter apex/value and LT/CoC cross-faction guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Firebat Thunderbolt/LRL36/0** gives a zero-SWC Mimetism(-6), +1SD 20-5 **non-TAG aerial gun** that creates fast side LoF; **S7/No Cover** makes hostile Repeaters and missiles a serious risk. **Silverstar HMG37/1.5 Tactical Awareness** is the more conventional **non-TAG** 2W Fireteam long gun when the flyer cannot approach safely. Combine the chosen attack with a scoring specialist moving under the same legal Fireteam activations rather than paying for too many redundant guns. [Gunfighter value with separate TAG table](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
