@@ -775,6 +775,12 @@ Army links Vanilla ALEPH to Reinforcement roster ID **799**. Reinforcement-only 
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Posthuman Mk.1 Engineer/Doctor 13 + Mk.5 FO 13/.5** is elite points/slot economy **inside legal 2–3 Proxy G:Jumper**, *not independent Orders*; **Naga FO25 and Dasyu FO29** provide early/hidden scoring. **Sophotect25** is WIP15 Doctor+Engineer/fast, **Parvati36** the durable premium, **Daleth FO15/TA18** cheap Sensor/Repeater. **Asura HD+63** is apex combined hacking/gun/score only if those expensive tools work together. No Vanilla Asura HD+ LT profile.
+
+[Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
