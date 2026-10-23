@@ -1001,3 +1001,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Hospitaler Doctor** in a legal Crusade/Knight team gains *movement compression* beside expensive VITA Knights; a cheaper **Infirmarer of St Lazarus** may cover a small mobile team instead. **Machinist + Palbot** remains the low-cost **Seraph/REM** repair plan. A Controller carrying an active Servant cannot simply retain normal Fireteam membership; pick team-delivered Doctor **or** independent remote healing architecture. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Raveneye 12/0** (AVA1) is a **Regular** FO+Deactivator+Minelayer: select the E/M Mine or Cybermine profile to protect vulnerable Crosier/Specialist routes before any Orders. **Order Sergeant ESCORT + Auxbot 17/0** adds a reactive two-body close-template fork while supplying one Regular Order; the Escort option isn't the Fireteam-eligible FTO Order Sergeant. **Crosier 19/1 MULTI Sniper+E/M Minelayer** adds a second home obstacle but consumes SWC. **Warcor 360º 3/0** watches rear/side edge (Irregular); **Sierra Thunderbolt 18/0 TR+360º** watches roof/AD and is repairable. **Knight of Santiago 31/0 KHD/TinBot/360º** protects a legal Fireteam and counterattacks but is too expensive to die for a basic cheerleader. **Why:** one Raveneye plus a cheap angle sentry usually protects more *real* Order generators than another exposed expensive Knight; against Fiday/Speculo add a mine/reveal-square template, not a Koala-only solution.
+
+[Whole-game DZ-defender apex/value guide, counters and transcripts](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
