@@ -1,5 +1,9 @@
 # List-Building Strategy — DZ Strikes and DZ Defense
 
+## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
+
+[N5.3 Warbands/Cheap Trader apex/value tiers](warbands-and-cheap-trading-units-apex-value.md) covers **Ghazi/Daylami, Galwegian, Shaolin, Morlock, Diablo, Desperado, Dāturazi and Makaul**, with E/Marat versus normal Chain versus E/M CC range distinctions. **Warhorse cannot become Isolated**, normal Smoke is counterable by MSV, and Eclipse stops MSV. Screen cheap traders at corners instead of spending 60pt bodies for the job.
+
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
 The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](airborne-and-enemy-dz-attackers-apex-value.md) compares actual **Rasyat, Fiday/Speculo, Mirage-5, Van Zant, Bashi, Banshee, Hellcat, Garuda, Teishin, Tiger, Ragik, Caskuda and fast/hidden attackers**, distinguishing **delivery reliability, lethal ceiling, after-entry Order economy and useful expected trades**. The **current Combat Jump rule fails to own-DZ table edge as a Model**—not scatter. Continue using the doctrine below for breach and layered DZ defence; use the tier guide for concrete current profiles and transcript-backed opposing opinions.
