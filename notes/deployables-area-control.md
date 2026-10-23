@@ -1,5 +1,7 @@
 # Deployables and Area Control
 
+**Current N5.3 unit choices:** [Midfield Area Denial & Speed Bumps — apex/value and matchups](list-building/midfield-area-denial-and-speed-bumps-apex-value.md) compares turn-zero Minelayer/Camo/Hidden packages against Order-fed mine dispensers, repeaters and perimeter networks, with profile costs, counters and transcript disagreements.
+
 ## Core principle
 
 A deployable succeeds when it changes the opponent's route, Skill choice, attack sequence, or Order budget — even if it never inflicts a Wound.
