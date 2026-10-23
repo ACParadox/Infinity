@@ -4,6 +4,9 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [Dedicated close-combat assassins and fighters — N5.3 apex/value, delivery, Guard, counter-CC](list-building/dedicated-close-combat-assassins-apex-value.md)
+  - Hidden/Impersonation versus smoke/Eclipse/Berserk assault; MA4/5 critical threat versus Orders to reach contact; conditional matchup and transcript disagreements
+
 - [Doctors / Engineers / Recovery — N5.3 apex/value, Servants, probabilities, and transcript disputes](list-building/doctors-engineers-and-recovery-apex-value.md)
   - Separate Doctor/Engineer/complete-network tiers; actual WIP/PH odds, Remote Presence and Cube rerolls, and travel/repair Order cost
 
