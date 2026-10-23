@@ -434,3 +434,8 @@ The 56-player winning report's **main** Bahram list: **2 Áyyār, 2 Shujae, Bari
 **Most repeated HB foundation:** **Shujae Minelayer + Barid KHD + efficient Ghulam command/orders**, frequently with **Áyyār**; Farzan CoC when a fighting LT merits protection. The attack slot is a choice among **Asawira, Bokhtar, Fiday/Al-Djabel, McMurrough, Ragik, Lasiq**. Cheap Daylami/Mutt roadblocks and an optional Fireteam reinforce the plan.
 
 **Three legitimate different ways to win:** (1) double-hidden ambush/control; (2) compact Ghulam/Barid + conventional Asawira/Lasiq fighting; (3) heavy Sunduqbut/Daylami defensive saturation. **Don't force them all into one list.**
+
+## Vision control — role/value update (23 October 2026)
+
+- **Current-profile trap:** **5pt E/Marat** and **6pt Jammer Ghazi** in Bahram do **not** carry Smoke, despite similarly named Vanilla loadouts. **7–8pt shotgun Ghazi** do; **Ghulam NCO Smoke GL 15/1**, Muyib Smoke GL and the selected Disco Baller profile offer other corridors. Never assume all Ghazi have Smoke.
+- **When better:** cheaper disposable Smoke if the chosen model can use it safely; linked Smoke GL when its NCO/mission package earns the extra SWC; Disco/Eclipse against an MSV-controlled lane. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
