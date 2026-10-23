@@ -641,6 +641,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 **Active-turn gunfighter choice (N5.3):** **Kamau HMG26/1** is unusually inexpensive BS13/Mimetism(-3) active Fireteam shooting when the team already serves a purpose; **Kamau MSV2 MULTI Sniper29/1.5** is more anti-camo/ARO than a straight active gun replacement. **Cutter NCO MULTI HMG97/2** offers hidden first-shot ceiling at a major roster/opportunity cost—screen it and keep separate objective pieces. Prefer Kamau team + multiple independent scoring tools when spending nearly a third of the list on a Cutter blocks scenario coverage. [Current gunfighter apex/value and matchup guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Motorized Montesa BSG21/0 or Paramedic23/0** supplies 20-15/2W/Mimetism/Impetuous close assault, **not** cheap Smoke/Chain self-funding Irregular model; **FD+20 foot Montesa26** is a separate option. **Echo-Bravo Parachutist BSG26** hits an edge lane but doesn't make Varuna have a 6pt Irregular warband. **Croc Men Hidden/Infiltration** and **Helot reactive bodies** may have better **Order-tax** than risk 21pt charging armored gun. **No CoC in current Varuna**, so preserve an exposed LT and enough Regular scoring Orders.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
