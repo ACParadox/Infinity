@@ -4,6 +4,11 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [Vehicles (VH) — N5.3 aerial apex and value tiers](list-building/vehicles-vh.md)
+  - Eight current VH chassis: profiles, sectorial eligibility, peak potential vs point/SWC efficiency
+  - Best matchups, landing/exit plans, No Cover/hacking/recovery risks, operator/peripheral distinctions
+  - Direct YouTube and podcast transcript disagreements, post-2025 Tarkshya analysis
+
 - [TAGs — N5.3 cross-faction tier lists and field guide](list-building/tags.md)
   - Separate absolute apex performance from points-value efficiency across every current TAG family
   - When to field each chassis, mission/terrain matchups, hacking/Engineer/close-defence support

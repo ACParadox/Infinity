@@ -35,8 +35,7 @@ Related rules: ARO, Face-to-Face, Partial Cover.
 
 **Subject: Aerial**
 
-This term does not exist as an official Infinity N5 rule, skill, or state.  
-The following commentary treats **“Aerial”** as a *tactical category of attacks from elevated positions or descending vectors* (e.g., Super-Jump firing angles, Combat Jump arrival zones, rooftop fire lanes).
+**Correction (2026-10-23):** **Aerial is an official Infinity N5 Special Skill**, as defined in the source rules above. The comments below discuss elevated attack angles **in general** (including other Super-Jump or Combat Jump models); these informal tactics do not broaden the official Aerial skill to non-Aerial troopers. See [current VH field guide](../../notes/list-building/vehicles-vh.md) for the actual unit class and constraints.
 
 ---
 **[UNOFFICIAL COMMENT]**

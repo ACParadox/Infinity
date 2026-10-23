@@ -51,7 +51,7 @@ GizmoKit becomes dramatically more efficient when used on Tech-Recovery models:
 
 **[UNOFFICIAL COMMENT – INTERACTION WITH ENGINEER]**
 Tech-Recovery does *not* replace the Engineer; instead, it allows the trooper to self-repair after a GizmoKit hit:
-- Engineer is still required to cancel Unconscious.
+- **Correction (2026-10-23):** Unconscious is cancelled by the usual eligible repair method, **including a successful GizmoKit PH roll on a STR target**. The Tech-Recovery *state-clearing* effect itself does not cancel Unconscious. Aerial troopers cannot normally be in Silhouette contact while active, so plan ranged GizmoKit LoF.
 - After Unconscious is cleared, Tech-Recovery handles the rest more efficiently than an Engineer spending multiple Orders.
 - A Tech-Recovery trooper with an Engineer nearby effectively becomes extremely hard to permanently disable with debuff ammo (E/M, PARA, etc.).
 
@@ -83,7 +83,7 @@ Pros (Tech-Recovery):
 Cons (Tech-Recovery):
 - Cannot cancel Unconscious.  
 - Requires an external GizmoKit hit.  
-- Still needs an Engineer/Doctor to bring the trooper back from Null.
+- Unconscious recovery still requires the standard legal method (such as GizmoKit for eligible STR troopers); Tech-Recovery alone does not revive it.
 
 **[UNOFFICIAL COMMENT – PROS]**
 - Extremely order-efficient recovery after E/M or multiple States.

@@ -61,6 +61,8 @@ Keep cheap close-combat and E/M threats away from the TAG with screening pieces,
 
 ## Vehicles (VH)
 
+For a **full N5.3 eight-family VH roster, apex-versus-value tiers, specific matchups, and transcript-backed disagreements**, see the [Aerial Vehicles (VH) field guide](vehicles-vh.md). **VH is a distinct troop type**, not a synonym for all Jet Propulsion models: Garuda is a REM; motorcycles and TAGs are not VHs. The general principles below still apply.
+
 Vehicles are generally better understood as **mobile angle-generating attack platforms** than as small TAGs.
 
 Many VH profiles combine high movement, Aerial or Super-Jump, Mimetism, decent armour, and strong weapons, but their large Silhouettes and movement restrictions make them poor candidates for simply sitting in place and armour-tanking.
