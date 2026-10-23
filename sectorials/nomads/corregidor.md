@@ -761,3 +761,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Best passive network piece:** **Moran BSG Repeater+CrazyKoala Minelayer 15/.5**, AVA2: infiltrated Regular FO, perimeter tripwire and immediate hacker ARO access. **The Camo(1 use) BSG 16/.5 is a *different profile* with no Repeater.** **Bandit 25/.5** can Minelayer a Shock Mine or Deployable Repeater but is Irregular; **Shifta E/M Minelayer 17/0** adds Surface Strategic Deployment/FT utility, not true Infiltration. **Counterpoint:** two Morans/Jazz/Vertigo already commit substantial SWC, so choose Guided only when the mission/network justifies it; enemy Sensor/Deactivator or non-Hackable scouts may sweep them.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
