@@ -741,3 +741,7 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 **Daylami LSG+Panzerfaust 6/0** or bare **LSG 5/0** is disposable Irregular gun/corner friction protecting 11pt Ghulam and the Barid/Doctor; **Ghazi Chain+E/Marat 5/0** or **Jammer 6/0** deters a different close rush (no Smoke on these E/Marat/Jammer loadouts). Neither gives pooled Regular Orders. **Shujae E/M Minelayer(2) 27/0** is a premium hidden *outer* approach deterrent, not a substitute for a guard on the DZ exit square. **Counter:** Fiday/Speculo in an IMP marker does not trigger Boost, so a Koala-only defense is insufficient; screen routes with mines/DTWs and spread vital staff. Don't buy too many Irregular blockers for a list already low on Regular Orders.
 
 [Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Fiday BSG23/0** is the cheap **Impersonation + Smoke + DA CCW** attacker against DZ support; **Hussein Al-Djabel33/0** pays ten extra for **MA4, Viral CCW, Climbing Plus and WIP15**. **Asawira BSG32/0** is a 2W/Berserk(+3)/MA2 hard corner fighter **after** a legal shooting/Smoke route; don't sacrifice it solely to initiate CC. **Fiday is not Monofilament**: choose targets appropriate to DA/Viral, deny mine/Guard screens and avoid forcing a head-on contest with NBW. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
