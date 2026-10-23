@@ -4,6 +4,8 @@
 
 [N5.3 Warbands/Cheap Traders apex/value](warbands-and-cheap-trading-units-apex-value.md) compares **Diablo8 Berserk+Trench-Hammer**, **Morlock6 E/M CC** (requires base contact), **Makaul14 Viral/DA+Eclipse** (MSV-blocking route) and **Dāturazi14 MA4/Warhorse** (Regular Smoke infrastructure). The **delivery/survival** test matters more than bare CC stat.
 
+**Current N5.3 profile-by-profile tiers:** [Dedicated close-combat assassins/fighters — apex, value, delivery and Guard counters](dedicated-close-combat-assassins-apex-value.md). This file remains the detailed procedure/positioning guide; its sibling compares **Shinobu, Oniwaban, Musashi, Shikami, Fiday, Speculo, Andromeda, cheap warbands and anti-CC** with current costs and transcript evidence.
+
 Close Combat in Infinity is not simply a contest between models with high CC Attributes. Its strategic value is that it can **change the type of contest**, shut down a powerful shooter, exploit vision control, convert cheap bodies into control pieces, or finish a target that has already been disabled by hacking, E/M, PARA, or other effects.
 
 The central question is therefore not:
