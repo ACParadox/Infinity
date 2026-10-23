@@ -1138,6 +1138,12 @@ The [expanded Kosmoflot tactical/list-building guide](../../notes/factions/kosmo
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+Mission plan should preserve a **dedicated specialist among Irmandinho/Kibervolk Patrol/Rokot/Dynamo/Zenit** legal profiles rather than assuming Wallace attack pieces automatically push buttons. **Kibervolk Patrol includes one bundled Dozer KVP**; Engineer support is not two independently optional purchases. **Wallace LT** can regularize eligible *Irregular* models, but Varangians/Denma were already Regular. **Zenit CoC30/.5** is succession/scoring when mission recognizes CoC, not an all-purpose FO/Doctor. Late scoring still needs an intact Order route.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
