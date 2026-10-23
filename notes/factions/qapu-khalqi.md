@@ -813,3 +813,8 @@ Its strong form is **Hafza command deception; LT-to-NCO economy; Odalisque and B
 - [Islamic Space Pirates: QK blended-family Fireteams, April 2025](https://islamicspacepirates.wordpress.com/2025/04/09/qapu-khalqi-fireteams-the-blended-family-of-haqqislam-fireteams/) — historically useful concepts but now **pre-N5.2**, not a reliable final legality chart.
 
 **Evidence interpretation:** repeated high-level roles and the 2025–2026 field discussion justify the **architectures** in this note. A single positive test is a reason to test a profile, not a claim that it is mandatory or tournament-proven. Full YouTube transcripts were not independently mined here.
+
+## Vision control — role/value update (23 October 2026)
+
+- **QK's main options:** **Yuan Yuan 6pt Smoke** can deliver cheap visual disruption/AD trading, **Djanbazan MSV2** can turn normal Smoke into favorable shooting, **Laxmee HD+ White Noise** handles MSV/Marksmanship screens when her Hacking Area/network reaches them, and **Odalisque Disco** supplies a different Eclipse-style approach by selected loadout.
+- **Choice:** use cheap Smoke + MSV to *kill* a gun, Disco to *avoid* it for an objective, White Noise only if that particular gun has MSV/Marksmanship. Check Yuan Yuan Irregularity and QK Fireteam-specific legality. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
