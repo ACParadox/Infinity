@@ -676,6 +676,12 @@ Derived analysis aids, not official characteristics.
 - Fireteam source: pinned Army `fireteamChart`, normalized using the same semantics documented in InfinityDB.
 - Verified: `2026-10-15`.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+**Auxilia** brings a cheap Specialist with an **Auxbot synchronized ARO/attack fork** where the chosen option qualifies; **Deva KHD20/FO21** is WIP15 NWI but uses different loadouts; **Pathfinder FO/Sensor14/TA17** gives independent repeater/anti-Camo access if roster-legal. A **Swiss Guard** or premier TAG clears lanes, **not necessarily the Console**; leave real late-stage mission scoring models alive. Only currently eligible FTO/team rows permit shared moves.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../../notes/factions/nca.md).
