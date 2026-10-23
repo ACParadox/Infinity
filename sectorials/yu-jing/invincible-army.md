@@ -783,7 +783,7 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** build around one **legal Hac Tao/Hǎidào/other HI long gun** and a distinct midfield/mission route rather than paying for every heavy weapon: the value is in **NCO/Tactical Awareness or link mobility**, *not merely higher ARM*. **Liú Xīng BSG24/0** is an explosive deep-entry/close assault **secondary gun**, not a replacement for a long-lane HMG; its PH14 Combat Jump still needs a favorable landing and post-drop Orders. **Léi Gōng FTO CoC34/0 or Hǎidào CoC24/0** gives useful successor and link option where legal, but the successor should not stand in the same vulnerable position as the fighting LT. [Cross-game gunfighter apex/value and command insurance](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** choose one **legal Hac Tao/linked heavy long gun** that actually wins the enemy's required range/Mimetism matchup; do not fill the list with similar costly 2W weapons without specialist routes. **Liu Xing BSG** is an airborne close-/rear-angle attack, **not** a conventional long-range HMG; its 3D arrival can save more Orders than buying another high-BS HI. Linked utility/scoring bodies often contribute more real Order value than the third expensive shooter. [Gunfighter value tiers and target-specific alternatives](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
