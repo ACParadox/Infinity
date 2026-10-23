@@ -958,6 +958,12 @@ These rows are intentionally separate from the standard vanilla Haqqislam Firete
 
 **Transcript-quality warning:** Some YouTube auto-captions invent phonetic names: "Shaykh Bakr" = **Zeybek** for the 33pt AP Spitfire/smoke flyer; "Hayam" = **Haytham**. Historical podcast claims about two Maghariba links, AVA3 Fanous, vehicle attributes and Guided missiles must be checked against the **pinned Vanilla** chart above. Source-verified roster restrictions take precedence over speech transcription.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Saladin LT 39/0** is an S-tier *whole-army* engine only when multiple truly Irregular Ghazi/Daylami/bike/Hunzakut troops become **Regular through Inspiring Leadership**; Strategos L2 adds a flexible group Order, reserve/deployment and one free group transfer. The short pinned Saladin roster description names Counterintelligence but does not enumerate Inspiring Leadership; the [October 2025 Army update](https://forum.corvusbelli.com/threads/infinity-army-n5-updates-bugs.43295/page-10) and [N5 Saladin profile](https://human-sphere.com/Saladin) corroborate it. **Farzan24/Hafza20 CoC** are separate protection options; don't use an LT Order twice under Strategos+NCO.
+
+See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
