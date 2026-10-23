@@ -469,3 +469,16 @@ For cross-faction **apex** and **points-value** rankings, the Order types, situa
 - **USAriadna Grunts**: line infantry Regular Orders with defensive utility and Fireteam applications, rather than 7pt Flashbot economics
 
 **List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../../notes/list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Marauder MSV1 HRL** — strong one-wound visor template; cover midfield approach, avoid plain shootout with premium active gun
+- **Minuteman ML (+1SD)** — powerful linked long-lane reactive spike in USAriadna; one wound makes reliability/backup mandatory
+- **Blackjack T2 Sniper** — 2W/ARM and BS Attack(-3) multi-role long-lane, but hacking and transmutation limitations matter
+- **Grunt HFT / 0SWC sniper** — cheap S2 short-corner or modest rear gun; prioritize defending objectives and support
+- **Traktor Mul support** — rare Ariadna cheap reload/guided/total-reaction choices; only buy a real Guided program if FO route is viable
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.

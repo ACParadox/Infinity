@@ -568,3 +568,16 @@ For cross-faction **apex** and **points-value** rankings, the Order types, situa
 - **6pt Netrod**: cheapest Regular pool Order where roster-legal, but its mandatory deployment and stationary non-combat body are a risk
 
 **List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../../notes/list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Zayin Thunderbolt TR** — 19pt/0SWC reactive volume and regular Order; protected Engineer/Yudbot route makes defeating it a repeat job
+- **Samekh FTO ML** — linked launcher only when the canonical chart permits this precise profile; Guided version is not automatically a linked ARO
+- **Lamedh Flash/Repeater** — cheap order/secondary ARO; better as first/last gate than primary exposed hard gun
+- **Myrmidon smoke / concealed flank** — smoke/Close Assault complicates gun lanes; guard objective approaches rather than depend only on sniper
+- **Thorakite link/short guard** — cheap defensive body; pair with active high-Burst shooter rather than overbuild all-static fireteams
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.

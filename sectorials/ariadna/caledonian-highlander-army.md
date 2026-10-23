@@ -550,3 +550,15 @@ For cross-faction **apex** and **points-value** rankings, the Order types, situa
 - **6pt Volunteer Chain Rifle/Light Shotgun**: extremely cheap S2 Regular body that can still guard a doorway
 
 **List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../../notes/list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **6pt Caledonian Volunteer Chain Rifle** — cheap Regular corridor guard; spend few points to force an enemy's next Order
+- **Cateran T2/AP Sniper (21pt)** — camouflaged long-range trade-up to HITAG, Irregular status: no transferable pool Order
+- **Traktor Mul support** — rare Ariadna cheap reload/guided/total-reaction choices; only buy a real Guided program if FO route is viable
+- **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.

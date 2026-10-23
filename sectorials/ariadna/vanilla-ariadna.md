@@ -1446,3 +1446,16 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 - Baggage — prioritize a legal 8pt basic bot if actually on roster, remembering its large base.
 
 **When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../../notes/list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Cateran T2/AP Sniper (21pt)** — camouflaged long-range trade-up to HITAG, Irregular status: no transferable pool Order
+- **Tankhunter Camo ML/Panzerfaust/Autocannon** — hidden-information threat and serious anti-armor; Minelayer closes approach, 1W/expensive gun remains fragile
+- **Chasseur Camo/Minelayer** — midfield hidden-information and mine trap; better at limiting route than direct sniper duels
+- **Uragan Guided/TR** — low-cost reactive volume that can be recovered; compare with cheap Dozer and spotter infrastructure
+- **Traktor Mul support** — rare Ariadna cheap reload/guided/total-reaction choices; only buy a real Guided program if FO route is viable
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.

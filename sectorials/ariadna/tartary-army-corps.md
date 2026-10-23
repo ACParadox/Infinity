@@ -922,3 +922,14 @@ For cross-faction **apex** and **points-value** rankings, the Order types, situa
 - **Line Kazaks**: small-base Regular troop with a credible close guard/command-decoy role; check cheapest exact profile before upgrading
 
 **List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../../notes/list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Tankhunter Camo ML/Panzerfaust/Autocannon** — hidden-information threat and serious anti-armor; Minelayer closes approach, 1W/expensive gun remains fragile
+- **Traktor Mul support** — rare Ariadna cheap reload/guided/total-reaction choices; only buy a real Guided program if FO route is viable
+- **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
