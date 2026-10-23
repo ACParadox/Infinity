@@ -831,3 +831,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **Posthuman/Proxy screen** — distributed positions and cheap Engineer recovery can outvalue a single static sniper; remember G: Jumper ARO restrictions
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Sophotect25 WIP15, Doctor+Engineer, MOV15-10, NWI** is an S-value dual network with **Yudbot3** (or two spaced bots), notably for **Marut + Cubed elite VITA**. **Parvati36** has stronger apex **Doctor(2W)** and a mobile Engineer role when both get used. **Posthuman Mk.1 Engineer** is relevant *only within legal 2–3 Proxy/G:Jumper purchase*, never priced as a standalone support Order. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
