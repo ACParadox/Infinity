@@ -574,6 +574,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice:** **Agamemnon AP HMG65/1.5 (LT same price)** provides cheap-for-TAG anti-armor Burst, TacAware and 3STR; its visibility makes it weaker into heavy Mimetism/Repeaters than a truly asymmetric attacker. **Achilles** is the premium **mobile breach-and-exploit** piece, most efficient *after* another tool defeats long defensive range/Mimetism; Fireteam escorts compress movement but add roster cost. **Myrmidon Officer CoC30–31** supplies Eclipse/CC plus safe succession for a fighting LT, **not** a disposable replacement for Achilles. [Gunfighter apex/value and attack-command tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Myrmidon Chain Rifle16/0** is a Regular/Mimetism(-6)/MA3 **Smoke+template trade** and legal team scaffolding; **current basic Myrmidon/Machaon normal Smoke is NOT Eclipse**. **Myrmidon Officer CoC30–31/.5** *does* bring **Eclipse+NWI** and command continuity; **Officer LT25–26/0** is a **different variant**. **Ajax39 FTO/45 FD+20, Machaon LT37/.5, Phoenix LT32/1.5** are premium fighting heroes, not 5pt disposable trades. Prefer a 16pt warband delivering a hero safely over throwing 37pt Doctor-LT into a speculative melee exchange.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
