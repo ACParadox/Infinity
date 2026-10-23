@@ -735,3 +735,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Peacemaker/Auxbot screen** — template and multi-body route denial; protect arrival corners rather than expose controller
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Blade Engineer** offers **Parachutist/Decoy** repair access to forward Redeye/REM routes (WIP12+GizmoKit where legal), as discussed in WIP12 E201; this beats rear support only if safe entry exists. **Machinist17 WIP12 + Palbot3** is the simpler long-term Remote Presence net; token reroll makes 60% become **84%** if legal. **Trauma-Doc14** is similarly cheap VITA-only support. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
