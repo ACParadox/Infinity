@@ -20,6 +20,8 @@ coverage: "Standard Tunguska roster, standard loadouts, canonical Fireteam chart
 
 Repository-native reference for **Tunguska** roster, profiles, points/SWC, AVA, and Fireteam access.
 
+For concise transcript-reviewed tactics, Fireteam/list-building roles, **Szalamandra and Anaconda TAGs, Go-Pod VH, REMs** and explicit opposing opinions, see [Tunguska — N5.3 Tactical and List-Building Guide](../../notes/factions/tunguska.md). **This reference remains authoritative** for current profile costs, options, dependency rules and Fireteam legality.
+
 Sources used:
 
 - Army-derived Tunguska source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
