@@ -616,3 +616,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Kurgat Engineer** is both a Morat assault fighter and an anti-disabling/technical specialist; this is valuable when a legal forward team is already moving and can repair damaged STR equipment without a separate lengthy detour. Pure recovery efficiency still favors lower-cost safe Engineer/Servant access when available. Count extra points for an autocannon/long gun only if it actually fires, not because Engineering demands that profile. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Dāturazi14/0** is a standout **Regular+Impetuous MA4/CC23/DA** 2-dice melee threat which also supplies **Smoke**; better repeated list value than a pricier melee-only unit if the smoke helps guns move. **Rasyat BSG25/0** buys **Parachutist(DZ) + Eclipse + MA2/NBW** to attack soft rear defenders, not Shinobu-class raw CC. Against high-MA/NBW counter-CC, choose gun/template first; Morat Warhorse lets an isolated fighter remain operational but does not solve direct CC defense. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
