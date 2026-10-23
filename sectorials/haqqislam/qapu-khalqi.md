@@ -854,3 +854,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Ghulam Doctor(+3)** is an excellent budget VITA support option if in the selected roster: its **WIP14+3 = 17 (85%)** can outperform generic WIP13 Doctor without extra Orders. **Claire Lazhari33** is a higher-cost **Doctor(2W) versus FTO Doctor(+3)** choice; use it for heavy VITA Fireteam recovery *when team eligibility is legal*. **Najjarun/Nasmat** (or roster-available Engineer) provides distinct STR and hack-state repair, particularly for REM-heavy plans. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Qapu Khalqi's** reliable close engagement typically comes from **Smoking/short-range delivery** and legal assault Fireteams rather than a 29pt Hidden Monofilament Oniwaban. Compare roster-legal **Sekban/Korsan/Viral/CC profiles** by movement from first staging corner, CC weapon versus VITA/STR, and cost of another gun/mission specialist. Do not confuse a capable close-range shotgun/enforcer with a true MA4–5 assassin. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
