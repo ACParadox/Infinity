@@ -105,3 +105,8 @@ Also located but **transcripts unavailable** through Podcast MCP: [Loss of Lieut
 - **Spiral Corps** was a separate former NA2 sectorial with distinct link/AVA/mercenary options; its discontinuation affects the models' relative value and nostalgia but does not resurrect its Fireteams. The current Tohaa roster retains Reex, Kiel-Saan, Draal and related units **only under the Tohaa chart**.
 - Gorgos is the only normal-roster TAG, and the faction has **no VH** and **no standard REMs**. Drone-like biological pieces and a motorcycle should not be mislabeled to meet a “TAG/REM/VH” checklist.
 - This is tactical **analysis**; for every points/SWC, required min, profile exception and special skill, defer to [the pinned September 2026 Tohaa reference](../../sectorials/tohaa/tohaa.md) and [N5.3 rules](../../rules/README.md).
+
+## Vision control — role/value update (23 October 2026)
+
+- **Repeatable Eclipse:** **Kriigel 21/.5 Mirrorball** (no-LoF/WIP/ZoC) or **Taqeul 35–36/0** if the command/Pheroware secondary role pays; **Kaauri 14/.5** and **Igao 26/.5** diversify the approach. **Makaul 14/0** is still the cheaper **Eclipse grenades + HFT + Triad/CC** choice.
+- **Opposing plans:** favor Kriigel for multiple precise repeated corridor closures; favor Makaul when a single advance also needs an HFT/CC deterrent. Mirrorball/Disco are not White Noise and normal Smoke is not guaranteed vs MSV. [Apex/value comparison and videos](../list-building/vision-control-units-apex-and-value.md).
