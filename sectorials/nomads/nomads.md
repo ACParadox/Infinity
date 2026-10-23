@@ -856,6 +856,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice:** **Kriza Borac HMG45/1.5** supplies the strongest independent raw **+1B HMG / BS Attack(-3)** for price, at the cost of slower hackable S5 approach; **Vostok Mk12 38/0 / Spitfire37/1** gets **Mimetism(-6), Climbing Plus, 2STR** and better angles, but REM supportware costs Orders and its Vanilla **FTO** loadouts do not authorize a Fireteam. **Intruder HMG38/1.5** is a distinct **MSV2/Camo/smoke** matchup pick. **Szalamandra HRMC68/2** brings huge armor AP volume, but cannot also afford every support/hacker/second gun. [Gunfighter apex/value and opponent-specific matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Morlock Chain+Smoke+E/M CC6/0** is a standout *TAG disabling* budget piece only when a legal melee route exists: E/M CC requires **Silhouette contact**, unlike ranged Ghazi E/Marat. **McMurrough23/0** is the durable template/smoke+AP+DA alternative for 2+ turn threat, but Irregular+Impetuous. **Do not import Corregidor Jaguar/Diablo FT bonus or Bakunin Morlock AVA Total** into Vanilla. Smoke can feed legal **Intruder MSV2**, while Hackers/Repeaters often disable TAGs more safely than running a 6pt Morlock across open lanes.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
