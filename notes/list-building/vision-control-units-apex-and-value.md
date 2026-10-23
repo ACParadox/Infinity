@@ -69,6 +69,23 @@ _**S** exceptional ceiling in an appropriate legal roster, **A** very strong, **
 | **A** | **Myrmidon Officer CoC Eclipse 30–31/.5; Shikami 42/0** | Exceptional **apex**, but much of price buys insurance/scoring/assault, not just smoke | Choose lower-cost Smoke/Makaul in eligible rosters for simple crossings |
 | **B** | **Taqeul 35–36/0; premium Disco gunfighter; Asura HD+ 63/.5** | Capable multi-role pieces, but large proportion of budget if purchased solely for LoF control | Buy when other command/attack objectives justify price, not solely for one template |
 
+## Other noteworthy N5.3 sectorial profiles
+
+_Additional contenders ranked for **this role only**; compare the points spent on the *whole* scoring/attack package, not just the listed screen._
+
+| Apex / value | Sectorial and profile | When it beats the cheaper default / reason not to overbuy |
+|---|---|---|
+| **A / A+** | **White Banner Hwarang Disco + Deactivator 20/0** | A linked HI/midfield assault needs repeatable Eclipse; **5–6pt Shaolin ordinary Smoke** is cheaper when no MSV blocks the route. **Rui Shi MSV2** instead wants normal Smoke for offense. [Reference](../../sectorials/yu-jing/white-banner.md) |
+| **A / A+** | **ISS Bayara Disco 18/0, Xi Zhuang Disco 21/0** | Cheap projected Eclipse + Guard/anti-DZ utility or a Wildcard/FO/close screen; the **Celestial Guard Smoke GL 13/.5** wins on a simple normal-Smoke lane. [Reference](../../sectorials/yu-jing/imperial-service.md) |
+| **A / A** | **Military Orders Konstantinos FTO Disco + Deactivator 23/0; Crusader Disco 23/0** | Konstantinos integrates into a legal link/assault approach, Crusader enables an independent backline angle. MO lacks mass cheap smoke; don't credit Crusader with linked bonuses. [Reference](../../sectorials/panoceania/military-orders.md) |
+| **A / A** | **Acontecimento Guarda de Assalto + synchronized Eclipse Auxbot 40–44** | Strong BS15 shooter creates a *true anti-MSV route* for itself/other models with its Auxbot; expensive just to cross one objective compared with cheap Disposable screens. [Faction guide](../factions/acontecimento.md) |
+| **A / A** | **O-12 Cyberghost HD+ White Noise 21/.5; Varangian Smoke 12/0 Regular; Bluecoat Disco 16/0** | Different counters in one faction: network anti-MSV/Marksmanship, cheap Order-positive normal Smoke, or MSV-proof objective Eclipse. [Reference](../../sectorials/o-12/o-12.md) |
+| **A / A** | **Starmada Bluecoat Disco 16/0; Cyberghost HD+ 21/.5; Varangian Smoke 12/0** | Bluecoat for close nonlethal mission entry, Cyberghost for reachable visors, Varangian for distributed cheap screens. [Reference](../../sectorials/o-12/starmada.md) |
+| **A / A** | **Torchlight Kludger Engineer Disco + Deactivator 23/0; Hippolyta Smoke 37/0** | Kludger earns cost when repair and safe Eclipse scoring are both needed; Hippolyta and Nimrod MSV2 make a normal Smoke/gunfighter plan. [Reference](../../sectorials/o-12/torchlight-brigade.md) |
+| **A / B+** | **Ramah Khawarij CoC Disco 33/0; Hortlak Disco+Deactivator 28/0; Claire Doctor(2W) Disco 33/0** | Three different premium ways to buy a crossing **with** command, durability/reuse, or recovery; **Ghulam NCO Smoke GL 15/1** is cheaper versus non-MSV. [Reference](../../sectorials/haqqislam/ramah-taskforce.md) |
+| **A / A** | **Qapu Khalqi Laxmee HD+ White Noise; Yuan Yuan Smoke; Djanbazan MSV2; Odalisque Disco loadout** | Network / disposable route / Smoke gunfight / Eclipse are complementary—not one generic “smoke package.” Check selected profile & QK chart. [Faction analysis](../factions/qapu-khalqi.md) |
+| **A / B** | **NCA Aquila FTO Disco or Quinn Disco** | Exceptional late objective access and elite gun/command synergy, but far more investment than a 13pt Kestrel Fennec; Shepherd's cost skepticism vs Gravitypool's linked spearhead enthusiasm. [Faction analysis](../factions/nca.md) |
+
 ## Choose by circumstance
 
 | Actual problem | Best first answers | Why / backup |
