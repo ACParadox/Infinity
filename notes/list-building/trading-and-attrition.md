@@ -1,5 +1,10 @@
 # List-Building Strategy — Trading and Attrition
 
+## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
+
+The [N5.3 airborne/DZ-striker apex and value guide](airborne-and-enemy-dz-attackers-apex-value.md) adds an **expected-trade decision framework**: multiply successful **legal delivery** by *conditional* win/kill chance, then count removed future Orders, LT/CoC protection, specialist/Engineer/EVO infrastructure and mission score against attacker cost, attack/escape Orders and failed insertion tempo. It explicitly distinguishes **Fiday23/Rasyat25/Van Zant33** from **Mirage60/Caskuda64**, and *does not invent* universal unit kill probabilities.
+
+
 Trading in Infinity should not be evaluated only as **points killed versus points lost**. A model's printed points value is only one part of its practical value on the table.
 
 A better question is:
