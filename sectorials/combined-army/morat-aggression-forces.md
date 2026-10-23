@@ -547,6 +547,12 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 
 The [Morat Aggression Force N5.3 tactical and profile-selection guide](../../notes/factions/morat-aggression-force.md) consolidates Sogarat-versus-Kornak command, Yaogat Smoke/MSV, Dartok/Pitcher, Oznat/Hungries, TAG/REM roles and opposing commentator evaluations. **The roster/Fireteam chart above controls legality:** Bultrak is a TAG, and Gakis and Pretas can both be selected in the Oznat FTO Hungries pool without an extra same-species condition.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Sogarat LT 56/0.5–1** is a strong *active LT* because of genuine heavy-gun/SWC value and Warhorse-backed **Loss-of-Lieutenant resilience**; it can pair with an eligible **Sogarat NCO Armored Duo**. **Kornak LT(+1) 42/0 Strategos L1** instead turns both Special LT Orders into **fully flexible group Regular Orders**, preferred when multiple attack routes compete. **Raktorak CoC 25/0** is optional insurance; **Warhorse applies per trooper, not to Morat REMs/Gakis/Pretas**.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
