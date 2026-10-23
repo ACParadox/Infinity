@@ -785,6 +785,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Banshee LSG19/0 vs KHD23/0** offers reliable *cheap investment*, but **Combat Jump itself has a PH roll** and failure returns the model to own DZ edge, while standard Parachutist enters side edges outside enemy DZ. **Black A.I.R. KHD31** is an actual **enemy-DZ Parachutist** in a separate profile. **Hidden FD+20 Crux Knight47** has higher sustained attack ceiling but no generic direct DZ deployment. **Tikbalang LT73** is on-table route clearance with **Magistrate CoC21** as separate succession. Vanilla PanO lacks a general standard Fireteam chart.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
