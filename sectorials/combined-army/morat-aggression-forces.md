@@ -553,6 +553,12 @@ The [Morat Aggression Force N5.3 tactical and profile-selection guide](../../not
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+For Morat mission lists, budget **Raktorak CoC25** (if chosen) to protect a premium active LT and cover the mission's CoC Specialist category. **Kurgat Engineer** repairs/supports REM/TAG and does technical Classifieds; **Dartok Hacker**, **Rindak/Zerat midfield Specialists** and eligible **Rodok/Yaogat** support different paths. **Warhorse saves individual Morat soldiers' Regular Orders through LoL, not all REMs/Hungries.** Avoid buying only guns because the army resists command collapse.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
