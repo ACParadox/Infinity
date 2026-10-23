@@ -486,7 +486,7 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Hac Tao NCO HMG59/1.5** buys concealed first strike, MSV1/Mimetism(-6), 2W/ARM5 and actual **LT Order conversion** (if not already spent/regularized); use when revealing a high-value ARO safely is worth its price. **Tiger Soldier/Liu Xing AD** instead buy *position* to attack weak DZ targets, not repeated frontal HMG efficiency. **Dàofěi/Zhēnchá** are objective/near-field skirmishers, not automatic long-gun replacements; buying one of each can outperform a second 59pt hidden HI. Check selected Yu Jing army's actual Hac Tao/other weapon loadouts and team permissions. [Cross-game gunfighter and commander tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Hac Tao HMG59/1.5** buys BS14, Hidden/Camo, Mimetism(-6), MSV1 and ARM5/2W to reveal into a protected first premium shot; the price means it must remove a meaningful defender, not just one cheap objective body. **Tiger Soldier/Liu Xing** is a **deployment-route alternative**, creating weak backline attacks without frontal HMG exchanges. **Dàofěi/Zhēnchá** serve near-objective skirmishing instead of another expensive long gun. [Cross-faction non-TAG/TAG tiers and attack matchups](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warband cheap trading / order economy — N5.3
 
