@@ -142,3 +142,8 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 - Official roster presently shows **no generic VH / Skyhound** in Vanilla. **Taigha Creature** appears in early N5 advice but is not on the current official Vanilla roster's Warband list; treat old “max Taigha” advice as obsolete until revalidated.
 - **Speech recognition caution:** “Raicho” in Robert's Rasyat flanking discussion, “Cadmus-Naish” in Sheskiin discussion, “Corontid” for Charontid, “Vector Unitron” for Vector/Unidron; names normalized here. Transcripts can also garble costs and weapon notation.
 - These are **role blueprints, not verified 300-point lists**. Do not infer exact AVA, profile weapon, Fireteam size, troop type or prices solely from podcasts; validate in current Infinity Army.
+
+## Vision control — role/value update (23 October 2026)
+
+- **MSV + Smoke attack engine:** **Dāturazi 14/0 Regular Smoke** enables **Vector MSV2 / Charontid MSV3** when the exact selected gun profile has a visor; **Rasyat Eclipse** is independent flank delivery. **Umbra Legate HD+** offers selective White Noise, not Eclipse; Overdron Albedo is personal anti-MSV tech.
+- **Pick by task:** kill several guns with MSV-through-Smoke, bypass a lane with Eclipse, or project White Noise only when an MSV/Marksmanship defender is decisive. Charontid's HD+/Sepsitor is **not simultaneously** the MSV3 gun profile. [Global value/ceiling guide](../list-building/vision-control-units-apex-and-value.md).
