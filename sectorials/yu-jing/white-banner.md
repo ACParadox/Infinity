@@ -768,6 +768,10 @@ All standard roster units not listed in this reverse index have no Fireteam acce
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Tiger Soldier BSG20/0 or Spitfire29/1.5** brings Mimetism−3 **Combat Jump/Parachutist** and attacks a soft side/back angle without trading fairly through the whole midfield; the 29pt SWC gun earns value only when several enemy support pieces can be hit in its range band. **Jujak Spitfire31/1.5** is a BS13/2W cheaper **team midrange** gun, with HFT as deterrent; **Jujak ML29/1.5** instead emphasizes long ARO. **Hǎidào CoC24/0** can cheaply insure a fighting LT in eligible list, but must remain physically apart from the endangered heavy gun. [Gunfighter and command tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
