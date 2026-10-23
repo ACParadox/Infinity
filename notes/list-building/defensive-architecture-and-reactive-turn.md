@@ -19,6 +19,7 @@ This note is primarily strategic rather than a rules summary. For exact rule sem
 - [Marker-state and deception strategy](marker-state-and-deception-strategy.md)
 - [Hacking and network projection](hacking-and-network-projection.md)
 - [Movement, positioning, and vision control](movement-positioning-and-vision-control.md)
+- [Terrain, silhouettes and table geometry](terrain-silhouettes-and-table-geometry.md)
 - [List robustness and threat coverage](list-robustness-and-threat-coverage.md)
 
 ---
