@@ -1002,3 +1002,8 @@ A strong NCA list should normally answer these questions before filling the rema
 The main modern NCA insight is:
 
 > **Do not judge the list only by raw Regular Orders or raw BS. Judge how many useful activations the army can produce, how many different attack vectors the opponent must respect, and how cheaply the support shell can create favorable engagements for the premium pieces.**
+
+## Vision control — role/value update (23 October 2026)
+
+- **Vision remains a premium problem:** **Aquila MSV3 / Disco Baller** and **Richard Quinn Disco** solve protected crossing or specialist routes, but consume more resources than Kestrel's 13pt Fennec. NCA should not be credited with cheap Fennec Disco access simply because both are PanO.
+- **Disagreement retained:** Gravitypool sees the Aquila FTO Disco spearhead as plausible; Shepherd calls the premium LT/vision purchase inefficient unless the mission actually requires it. The Mainfinity example of an Aquila using Disco for a late antenna illustrates the exceptional case. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
