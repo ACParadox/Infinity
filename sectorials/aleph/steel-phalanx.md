@@ -564,6 +564,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Ekdromoi Chain Rifle18/0, HD23/.5, KHD25/0 and Spitfire32/1.5** are actual Combat Jump/ordinary Parachutist profiles: ideal to hit soft support or score behind the main Myrmidon/Agamemnon lane, and they add MA3/CC22 if close. Without legal Parachutist(DZ), a safe side entry may need more movement. **Hector LT64–65 Strategos** is an *on-table* hero commander; **Myrmidon Officer CoC30–31** protects succession while opening Eclipse route but should not be the disposable backline diver. **Agamemnon TAG TacAware** is ground fire support, not Combat Jump.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
