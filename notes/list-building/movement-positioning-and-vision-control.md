@@ -2,6 +2,8 @@
 
 These notes are primarily table-play strategy rather than force-construction rules, but they strongly affect which movement, marker-state, and vision-control tools are worth including in a list.
 
+For **N5.3 Smoke/Eclipse/Disco Baller/Mirrorball/White Noise units, apex versus points-value tiers, specific matchup choices, and MCP-reviewed videos/podcasts**, see the [cross-faction Vision Control guide](vision-control-units-apex-and-value.md).
+
 For a deeper silhouette-by-silhouette treatment of access width, vaulting, rooftops, templates, Super-Jump, Climbing Plus, and table scanning, see [Terrain, silhouettes and table geometry](terrain-silhouettes-and-table-geometry.md).
 
 ## Slice the pie
