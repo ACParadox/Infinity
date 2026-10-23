@@ -612,3 +612,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Impersonator/AD opponent** — layer template/mine/360° guards around support and landing destinations, not only long forward lanes
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Kurgat Engineer** is both a Morat assault fighter and an anti-disabling/technical specialist; this is valuable when a legal forward team is already moving and can repair damaged STR equipment without a separate lengthy detour. Pure recovery efficiency still favors lower-cost safe Engineer/Servant access when available. Count extra points for an autocannon/long gun only if it actually fires, not because Engineering demands that profile. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
