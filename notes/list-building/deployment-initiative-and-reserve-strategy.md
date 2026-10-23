@@ -8,6 +8,8 @@ The goal is not simply to decide whether going first or second is stronger. The 
 
 This is one of the highest-impact strategic decisions in Infinity because deployment determines the geometry from which every later Order is spent.
 
+For a concrete pre-deployment scan of route width, silhouette heights, objective access, rooftops, and escape positions, see [Terrain, silhouettes and table geometry](terrain-silhouettes-and-table-geometry.md).
+
 ## Rules baseline
 
 Current project rules baseline: **N5.3 + N5 FAQ v0.1**.
