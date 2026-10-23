@@ -702,7 +702,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Nisse HMG31/1.5** is efficient **MSV2/Mimetism(-3)** anti-camo long-range fire, especially with a legal Nisse/Beta team already purchased; 1W makes it a poor armor tanker. **Jotum MULTI HMG82/1.5** buys extraordinary **ARM10/BTS9/3W**, TacAware and immunity to critical for head-on conventional gunlines—worth it when opponents lack E/M/CC/hacking counterplay; a weaker *value* purchase when those counters are common. **Knight of Justice Spitfire42/1.5** adds a smaller midrange body and CC threat when mission midfield matters more than indestructible long-lane pressure. **Jotum LT82/2 is a separate and riskier command profile**. [Gunfighter apex/value, situational LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Nisse HMG31/1.5** is a strong **non-TAG** BS13/MSV2/Mimetism(-3) anti-camo lane clearer in legal team but 1W makes it fragile. **Jotum MULTI HMG82/1.5** sits separately among **TAGs**, punishing ordinary gunfire with BS15/ARM10/BTS9/3W/TacAware; E/M, hacking and CC make its exceptional armor irrelevant if opponents can deliver. **Knight of Justice Spitfire42/1.5** is a cheaper robust **non-TAG** linked midrange/CC alternative when scenario movement matters more than armor wall. [Distinct TAG and non-TAG rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
