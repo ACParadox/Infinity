@@ -1446,6 +1446,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 **Active-turn gunfighter choice:** **Spetsnaz Camo HMG36/1.5** combines **Marksmanship/Surprise/Mimetism(-3)** to remove conventional Cover-based AROs cheaply but is **one wound and no AP**; **Veteran Kazak AP HMG45/1.5** is the sturdier, Warhorse/NWI **nonhackable anti-ARM** gun, especially useful in sustained shootouts. **Chernobog AP HMG63/1.5** adds armor/TacAware for major breakthrough and secondary template role, but costs more than two independent attack pieces and its Transmutation reduces durability after damage. **Van Zant/Mirage-5** bypass gunline via rear angles and shouldn't be paid for *on top* of too many expensive frontal attackers. [Cross-game gunfighter and trade framework](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Galwegian Chain5** availability must be checked on Vanilla roster; **Irmandinho Engineer+Smoke+Chain8/0** is an unusually cheap useful specialist/trader, **Desperado bike Chain+Smoke GL7/0** is extreme lateral speed, **Dog-Warrior21/0** buys durability and **PH-based grenade Speculative Fire**, not just CC. **Varangian Guard 12/0 SMG+Chain+Smoke** if legal is a different Regular/Irregular order package from Kosmoflot 10pt version. **Carmen+Bâtard17/0** offers fast Smoke/Chain/paired Sensor where selected; **Mirage60/2 Duroc** is not independently purchasable as cheap warband. **Wallace LT versus CoC** options are profile-specific; don't blanket regularize Religious models.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
