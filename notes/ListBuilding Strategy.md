@@ -4,6 +4,9 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [Doctors / Engineers / Recovery — N5.3 apex/value, Servants, probabilities, and transcript disputes](list-building/doctors-engineers-and-recovery-apex-value.md)
+  - Separate Doctor/Engineer/complete-network tiers; actual WIP/PH odds, Remote Presence and Cube rerolls, and travel/repair Order cost
+
 - [Active-turn gunfighters — N5.3 non-TAG and TAG apex/value rankings by matchup](list-building/active-turn-gunfighters-apex-and-value.md)
   - Burst vs +1SD, BS/MSV/Marksmanship, ammo, mobility and real Orders; transcript-backed alternative opinions
 
