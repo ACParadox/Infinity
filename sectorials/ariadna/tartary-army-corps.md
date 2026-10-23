@@ -933,3 +933,10 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Kazak Spetsnaz Parachutist BSG27/0 or AP SMG27/0** creates a reliable side-edge attack with Decoy(1), Mimetism(-3), Marksmanship and D-Charges: target support/Order generators from an unexpected range band rather than frontally challenging ARO. The **Camo HMG36/1.5 and AP sniper32/0.5** are different non-airborne profiles; no free merger of Camo+HMG and Parachutist. Unlike **Van Zant**, the Spetsnaz uses **ordinary Parachutist and cannot enter directly in enemy DZ**. Preserve a cheap forward specialist and exit Order for scoring.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
