@@ -746,6 +746,10 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Firebat36/0** (AP SMG/Thunderbolt/LRL) or **35/0** control-gun option adds **NCO and aerial angle creation** without SWC; ideal when Raveneye LT(+1) actually supplies exploitable Special Orders. Don't treat it as a conventional ARM8 HMG TAG: S7/No Cover and hacking change the attack math. **Vidoc NCO MSV1 Sniper26/0**, **Silverstar/linked guns**, and resilient **Strider** can combine an enemy-counter solution and mission progress in a single team. **Raveneye LT17/0 and Raveneye CoC18/0 are separate**, and CoC is protective, not an extra shooting bonus. [Gunfighter apex/value and LT/CoC cross-faction guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
