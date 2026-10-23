@@ -946,3 +946,6 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 [Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Irmandinho Engineer8** is exceptional cheap Smoke/trading plus occasional forward technical rescue, but usually **cannot safely replace Dozer13 + Remontnik2** staged for STR gun/vehicle recovery. **112 Doctor11**, **Motorized112 19** and **Kazak Doktor12** are cheap WIP13 VITA alternatives; motorized 20-10 MOV covers wider forward zones but risks open crossing. On No-Cube targets Doctor failure is a **35% chance to lose patient**, with no Cube token bailout. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
