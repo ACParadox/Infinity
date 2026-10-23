@@ -905,3 +905,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Moran Koala+Repeater** — route and hacking ARO rather than pure FtF shooting; particularly strong defending access squares
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Clockmaker18 WIP15 + Zondbot3** is standout pure **REM/TAG** insurance: 75% initial Engineer roll, up to **93.75%** with a legal Remote Presence Command Token reroll. **Daktari14 WIP13** handles VITA; **Sophotect-like dual roles aren't free**, so buy **Evader/Zoë/other combat Engineer** only when hacking/attack utility will be used. Two Zondbots in separate safe corners are better than clustering both beside the gun. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
