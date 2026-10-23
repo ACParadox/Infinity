@@ -936,3 +936,9 @@ Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If futu
 **Maghariba Guard** buys a conventional heavy ARM8 ranged centerpiece but needs S8 lanes, screening and Engineer access; **Triphammer** is a cheaper, aggressive secondary weapon choice with TacAware and the required-assault partner opportunities. When Dahshat already has efficient HI and support guns, the cheaper TAG may give better scenario value than a second long-range elite.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Valerya Gromoz WIP14 HD + Pitcher/Total Control(+1B), 19/0.5**, is the clear value engine for hostile TAG/HI via projected Repeaters. **Brawler HD 16/0.5 (Sixth Sense)** and **Ghulam HD 16/0.5** are cheap general-coverage specialists; **Zhēnchá HD+Trinity 34/0.5** trades price for a hidden/camouflaged forward hacker assassin. **Important roster distinction:** the current **Dahshat standard Main roster lists no ordinary native KHD**. A Trinity-upgrade **HD** is *not* a KHD/Cybermask source unless specifically printed. **Why:** don't assume a hacker-heavy list automatically has lethal network defense; take suitable Camo/physical repeater-clearing or the hybrid profile and maintain TAG-support TinBots where actually legal.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

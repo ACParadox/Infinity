@@ -454,3 +454,9 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 - The linked Reinforcement army resolves to **L'Équipe Argent (399)** and its chart is preserved separately.
 - Main and Reinforcement Wildcards are not merged.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Wardriver HD14/1 SWC** adds ordinary anti-HI/TAG **Carbonite/Oblivion/Spotlight**, but no premium anti-Hacker KHD/HD+ toolkit or automatic long-range Repeater access. **Why:** USAriadna normally wins through efficient shooting, mines/Camo, and several nonhackable infantry threats. Use the Wardriver as deliberate *counter-tech* for an enemy TAG/HI bottleneck or hacking scenario, not because every army needs a Hacker. Keeping SWC for conventional guns is usually more reliable when there is no meaningful hackable target.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

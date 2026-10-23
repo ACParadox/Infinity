@@ -1429,3 +1429,9 @@ Main and Reinforcement troopers are not merged by this reference; no source exce
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Only a thin standard cyber package:** the **Wardriver HD14/1 SWC** (a 16pt option brings Disco Baller) provides Carbonite/Oblivion/Spotlight, but **WIP13, few Repeaters and 1 SWC** make it a *situational counter-tech* rather than an Interventor-style net. There is **no equivalent broad native KHD network** in the pinned Vanilla roster. **Why:** Ariadna's largely non-Hackable attack pieces and cheap Camo/warbands often deny enemy hacking by simply not being legal HD targets; spend SWC on a true ranged ARO/attacker first unless the mission or enemy TAG/HI makes a Wardriver's cyber effect worth more.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

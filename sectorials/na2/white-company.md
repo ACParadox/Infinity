@@ -730,3 +730,9 @@ This section is analytical and non-authoritative; source profile data and the ca
 ## Provenance
 
 Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If future Army revisions change roster entries, AVA, profiles, Fireteam chart semantics, optional modes or Reinforcement linkage, update this file and its `army_source_version`/verification metadata together.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Danavas HD+Oblivion upgrade/Pitcher 22/0.5** and **Laxmee HD+Fairy Dust/Pitcher 24/0.5** are the centerpiece value choice: **White Noise** supplies critical anti-MSV access to PanO/Yu Jing shooters. **Hǎidào KHD+Pitcher 22/0** provides cheap lethal anti-Hacker protection for a current legal mixed HI team; **Nøkken KHD25/0** adds FD+20/Mimetism(-6) scoring, **Guìláng HD31/0.5** Camo/Infiltration network access. **Fusilier HD15/0.5** is the minimalist second HD. **Why:** a single Danavas/Laxmee and Hǎidào gives complementary HD+/KHD coverage; buying *both* HD+ profiles may be redundant unless their specific White Noise/Fairy Dust/weapon support is used. Never import native PanO/NCA TinBot or Fireteam access.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

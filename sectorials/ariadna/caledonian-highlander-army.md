@@ -535,3 +535,9 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 - The linked Reinforcement army resolves to **L'Équipe Argent (399)** and its chart is preserved separately.
 - Main and Reinforcement Wildcards are not merged.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Isobel McGregor HD 25/0.5** is Caledonia's more integrated hacker/operative option; **Wardriver HD14/1** buys the basic anti-HI/TAG program suite at high SWC cost, but lacks a powerful natural repeater network. **Why:** Isobel can combine WIP13 general HD interaction with army-specific mission/link plans; Wardriver is mainly an emergency **Carbonite/Oblivion** answer against high-tech heavies. Against armies with few Hackable troopers, both compete poorly with Caledonia's efficient close-assault/Scots/McMurrough-style threats; do not invent a native KHD or Nomad-like Turn-0 network.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -446,3 +446,9 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 - The linked Reinforcement army resolves to **L'Équipe Argent (399)** and its three chart groups are preserved separately.
 - Main and Reinforcement Wildcards are not merged.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Wardriver is FRRM's niche cyber counter:** the source includes **14pt/1 SWC HD+Zero Pain** for basic safe anti-heavy control and a **16pt/0.5 SWC Combi+Pitcher HD** variant. The *latter* is the more compelling network platform because it can project Repeater influence into midfield for fewer SWC; Zero Pain instead preserves an otherwise vulnerable hacker when enemy KHDs are present. **Why:** FRRM does not naturally field a dense premium Hacker/KHD suite, so its low-cost deployed specialists and conventional guns should remain the core of the plan. Use the Wardriver if the opponent brings TAG/HI or the mission rewards Spotlight; otherwise save its SWC.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

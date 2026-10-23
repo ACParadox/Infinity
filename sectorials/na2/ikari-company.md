@@ -893,3 +893,9 @@ This section is analytical and non-authoritative; the source profile data and Fi
 **Triphammer** is the roster's budget TAG: choose its AP Spitfire/short-range loadout to pressure a side lane while Ikari retains inexpensive midfield and mission bodies. Its damaged-state payoff is **variance**, not guaranteed efficiency. Count legal Mechanized Fireteam members and the Engineer/support cost before calling a low price 'free' armor.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Druze KHD+Pitcher 23/0 vs HD+Pitcher 25/0.5** is the main hacker-or-heavy choice: the KHD removes enemy Hackers, the HD stops ordinary TAG/HI with Carbonite/Oblivion. **Brawler HD 16/0.5** and **Keisotsu HD 16/0.5 with ECM: Hacker(-6)** are budget normal devices; **Ninja Hidden KHD26/0** supplies mission-winning specialist surprise, not a stronger backfield network. **Wardriver** is rarely better pure value than one Druze KHD. **Why:** combine the actual **Druze Pitcher / Baggage / Repeater network** with one anti-Hacker and one anti-heavy program; Ikari's weapon-rich HI need screens and don't inherit Qapu Fireteams.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

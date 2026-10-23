@@ -734,3 +734,9 @@ Validated against Army snapshot `7.26246.159`:
 **Triphammer** fits the low-cost assault/second-gun role; **Anaconda** is the costlier, generally lower-ceiling AP Spitfire/Thunderbolt with an operator follow-up. Compare against StarCo's existing guns and objective pieces—an expensive chassis with no new attack angle is a trap. Use the local Armored Fireteam chart, not another NA2 company's options.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Uhahu HD+ 19/0.5 WIP14 with Pitcher, NWI** is one of the best cheap network/White Noise engines in NA2; **Zero KHD22/0** and **Bandit KHD26/0** add field-camouflaged Trinity/Cybermask and objectives. **Brawler HD16/0.5 / Alguacil HD15/0.5** buy inexpensive normal Carbonite/Oblivion; **Mobile Brigada HD36/0.5 with TinBot Firewall(-6)** gives a sturdier legal-link anchor when heavy infantry must cross repeater space. **Why:** StarCo can have **Uhahu + cheap KHD** for a complete low-cost hacker stack while freeing points for core attack pieces. A pricey linked Brigade HD is useful only if its gun/Fireteam and firewall actually get Orders and protect the rest.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

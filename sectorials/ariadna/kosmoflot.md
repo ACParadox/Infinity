@@ -1133,3 +1133,9 @@ No Main/Reinforcement mixing is inferred from sharing a character or unit concep
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Wardriver HD 14pts/1 SWC** supplies basic Carbonite/Oblivion/Spotlight and a Specialist in a faction otherwise built on Camo, warbands and potent direct fire. **Why:** without a thick Repeater network, it will generally cover a small area and can be a worse use of SWC than a dedicated attacker. Bring it only to punish a predictable hackable TAG/HI lane or meet a hacking-specific scenario; otherwise nonhackable pressure/impetuous movement and mission specialists do the work. Kosmoflot's current main roster does **not** inherit Nomad KHD hybrids just because units are shared elsewhere.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

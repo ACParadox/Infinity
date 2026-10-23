@@ -774,3 +774,9 @@ Further community cross-check: [Corvus Belli forum N5 Druze discussion](https://
 **Triphammer** is usually the more efficient high-pressure option (budget profiles + TacAware), while **Anaconda** gives AP Spitfire/Thunderbolt and an operator fallback. **Disagreement:** the 2025 TAG tier-list judges Anaconda extremely poorly, but Druze can value a specific role when other gun choices are limited. Both require deliberate Engineer/hacking and mission support; don't assume its TAG Fireteam members from other mercenary factions.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Druze KHD+Pitcher 23/0** is a 0-SWC Hacker-hunter/scorer with native ranged network projection; **Druze HD+Pitcher 25/0.5** instead threatens *ordinary* HI/TAG via Oblivion/Carbonite. **Valerya Gromoz WIP14 HD+Total Control(+1B) 19/0.5** is extraordinarily good value for anti-TAG possession and another Pitcher. **Brawler HD16/0.5** provides cheap redundant Spotlight, while **Kameel EVO14/0.5** only pays if supportware has beneficiaries. **Why:** Druze's own linked X-Visor Pitcher/carrier and multiple Repeaters can make two complementary hackers much stronger than either alone. Beware SWC spent on a guided missile package before buying a true high-Burst attack gun.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
