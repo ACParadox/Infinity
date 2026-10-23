@@ -543,6 +543,10 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 - Linked Reinforcement army resolves to **The Exrah Comissariat (699)**. Its chart is kept separate, including the source combination of global `spec` 0/0/0 and explicitly typed Fireteam rows.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
 
+## Expanded Morat tactical guide (2026-10-23)
+
+The [Morat Aggression Force N5.3 tactical and profile-selection guide](../../notes/factions/morat-aggression-force.md) consolidates Sogarat-versus-Kornak command, Yaogat Smoke/MSV, Dartok/Pitcher, Oznat/Hungries, TAG/REM roles and opposing commentator evaluations. **The roster/Fireteam chart above controls legality:** Bultrak is a TAG, and Gakis and Pretas can both be selected in the Oznat FTO Hungries pool without an extra same-species condition.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
