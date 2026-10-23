@@ -849,3 +849,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Rouhani21 (WIP18 Doctor)** is a remarkably effective 90%-base linked VITA recovery piece; **Ghulam Doctor15 (WIP17)** is 85% for six points less. **Hakim24/25 Doctor(+3)** is best when a casualty is on the flank; **29/25 options with Parachutist Nasmat A2** cover a remote zone. **Claire33** is **Doctor(2W)** *or* **Doctor(+3) FTO**, mutually exclusive profiles. **Najjarun15 + Nasmat3** handles Maghariba/Shakush STR separately. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Tactical cross-reference — vision control (23 October 2026)
+
+**Ghulam NCO Smoke GL15/1** is low-points ordinary Smoke using spare LT Orders; **Khawarij CoC + Disco33/0**, **Hortlak Disco28/0 with Deactivator**, and **Claire Doctor(2W)+Disco33/0** create true Eclipse access while performing distinct command, tough-infantry, and recovery jobs. **Yara Haddad24/0 MSV2** can use *normal Smoke* for an asymmetric gunfight; she cannot shoot freely through Eclipse. **Disagreement to test:** when a mission needs only a single open crossing, simple Smoke can save points; when an MSV sniper locks it, a Disco user with scoring/recovery utility is worth the premium. [Global vision-control tier guide](../../notes/list-building/vision-control-units-apex-and-value.md).
