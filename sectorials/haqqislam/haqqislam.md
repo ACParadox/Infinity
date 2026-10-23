@@ -978,7 +978,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Mukhtar Viral Rifle25/0** is a low-SWC Mimetism/NWI soft-infantry and lower-BTS attacking solution; **MSV2 Red Fury34/1** trades price for anti-Mimetism volume. **Asawira AP Spitfire38/1.5** is a **BS14/2W/BTS9** durable close/mid anti-armor shooter, versus **Shakush HMG(Continuous)58/1.5** for a safer 3W/TacAware long-lane anchor. **Fiday/cheap rear attackers** can delete opposing Engineer/Hacker support instead of committing the Shakush into a hard FtF first. **Saladin LT39** is a superior army order engine with useful Irregular troops, **not the best direct ranged gun LT**. [Gunfighter apex/value and attack vs command LT tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Mukhtar Viral Rifle25/0** is a Mimetism/NWI fast **non-TAG** attack versus suitable BTS targets; **MSV2 Red Fury34/1** trades cost/SWC for anti-Mimetism midrange Burst. **Asawira AP Spitfire38/1.5** is BS14/ARM4/2W hard armor fighting with a CC fallback. **Shakush HMG(Continuous)58/1.5** is the separate **TAG** longer-range durable gun with extra personal activation, but needs hacker/Engineer consideration. **Fiday** often eliminates defender support more efficiently from behind than pushing the TAG into a bad long-range FtF. [Non-TAG/TAG apex and points value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
