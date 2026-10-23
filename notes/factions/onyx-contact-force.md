@@ -162,3 +162,8 @@ Can field several Xeodrons, perhaps Overdron plus support. Threatens opponents w
 - 2025 reviewers discussed N5 *before* October 2025 N5.2; 2022 material was N4. **Do not silently port** Tactical Awareness's sample Fireteams, EVO program values, weapon costs, BS benefits, actual TAG stats or Exrah interactions.
 - **Names and terms** in auto-transcripts are error prone: Xeodron (“Zeodron”), Overdron (“Overdrawn”), Nourkias (“Norkius”), Imetron (“Amitron”), Cascuda (“Kaskuda”), Fraacta (“Fractus”). Spellings in this guide normalized. Some hosts explicitly speculate about hypothetical troop-type changes: Xeodrons **remain TAGs unless the Army builder says otherwise**.
 - This note is a *decision aid*, not an Army roster export. Each example is an **archetype** whose current troop options and link composition must be checked in Infinity Army.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Different answer to MSV:** **Overdron Albedo** attacks the visor directly but does **not** create a shared Zero Visibility zone. Onyx lacks the dependable cheap Dāturazi Smoke package that Morats/Vanilla CA exploit. Its Noctifer/Repeater/hidden threat and Umbra-led tactical solutions must be planned by actual roster.
+- **Counterpoint:** a supported Overdron can remove several MSV AROs, but Albedo adds little versus enemies without visors; a hidden threat/cheap REM may preserve more attack Orders. See [vision tier guide](../list-building/vision-control-units-apex-and-value.md).
