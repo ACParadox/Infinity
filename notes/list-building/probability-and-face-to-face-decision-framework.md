@@ -12,6 +12,8 @@ Instead separate the interaction into three gates:
 2. **If I win it, will the attack actually do anything?** — hits, Saving Rolls, ammunition, VITA/STR, States.
 3. **Is that outcome worth the Orders and risk?** — strategic value, opportunity cost, and downside if the attack fails.
 
+For the weapon/mode choice after comparing Face-to-Face and Saving Roll odds, see [Weapons, ammunition and engagement selection](weapons-ammunition-and-engagement-selection.md).
+
 This distinction matters throughout Infinity because:
 
 > **FtF advantage != wound probability != incapacitation probability != good decision.**
