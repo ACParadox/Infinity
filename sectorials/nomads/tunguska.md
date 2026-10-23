@@ -759,6 +759,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Kriza HMG45/1.5 (LT same 45)** is the high-Burst/HMG direct gun with BS Attack(-3) and +1B; its protected *non-LT* variant generally suits aggressive repeated trading better unless CoC is planned. **Szalamandra HRMC68/2** adds much higher ARM/range/AP for a visible 3STR centerpiece, **NCO** profitable only when the special LT Order is available. **Grenzer Red Fury28/1** / **MSR32/1.5 Marksmanship** solve respectively mobile close fighting and visible long ARO; neither is a cheap Kriza HMG replacement against high-ARM TAGs. [Cross-game gunfighter and LT/CoC decision guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
