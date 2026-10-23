@@ -482,3 +482,10 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **Traktor Mul support** — rare Ariadna cheap reload/guided/total-reaction choices; only buy a real Guided program if FO route is viable
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Van Zant33–35/0 (Parachutist(DZ), TA, Dogged)** is the premier reliable enemy-edge support/LT hunter: choose AP Rifle vs T2 BSG according to exposed soft targets versus armor. **6th Airborne Ranger19 SMG/20 BSG/20 FO** is cheaper *ordinary* Parachutist, **cannot directly enter enemy DZ** and is better for unguarded flank/late scoring. The extra 13–16pts to Van Zant buys direct DZ access and a personal extra Tactical Order, not an unconditional kill. Cover the edge with AROs if facing opposing AD.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
