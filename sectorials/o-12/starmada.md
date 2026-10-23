@@ -885,6 +885,12 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 **Active-turn gunfighter choice:** **Zeta HRMC NCO73/2 (LT70/2)** supplies high Burst/AP long-range fire with **Climbing Plus/ARM8/3STR**, with best value when the appropriate Special LT Order feeds its attack/retreat. Starmada's **mixed Fireteams/specialists** can instead move a scoring package with a smaller gun so Zeta does not spend every Order. **Oko FO/Sensor/Repeater15/0** is support/target acquisition, not a rival main gun. **Source tradeoff:** larger solo Zeta wins conventional heavy-gun FtFs; leaner linked gun + redundant specialist often wins high-button missions. LT vs NCO profiles are mutually exclusive; insuring an exposed LT is an actual cost. [Cross-game active-gun tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Varangian Guard 12/0 SMG+Chain+Smoke or 13/0 BSG** is a **Regular+Impetuous** low-cost vision/corner screen with CC23/Berserk+Dogged; **AVA2** here, not Vanilla O-12 AVA4. **Ioann Bann32/0** offers multi-Wound dog-warrior Chain(+1B)/Viral bow/T2 CC threat at almost 3x points, useful for repeated smoke/grenade pressure—not a one-for-one soft target trade. **Current Varangian Duo** can include **Ioann Bann as Varangian** only with at least one Varangian; no general FT permission. Preserve the actual LT and mission specialist after close run.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Zeta** is the S7 HRMC centerpiece for high-powered ranged engagements and vertical routes (Climbing Plus); it needs dedicated hacker-screening and mission scorers, not just another gun. Compare NCO/lieutenant choices *only if this sectorial's current profile actually offers them*. When missions require many distributed specialists, reserve enough points for the excellent Starmada objective network.
