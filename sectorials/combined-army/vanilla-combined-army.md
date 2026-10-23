@@ -871,3 +871,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Med-Tech Obsidon21 WIP14** does Doctor and Engineer from one **15-10** Controller; **Slave Drones3** cover two recovery zones. This is excellent value for mixed **Avatar/Overdron STR and Sheskiin/VITA**, provided legal targets and a safe approach. Remember a failed Doctor roll kills and a failed Engineer wound repair inflicts a Wound; Remote Presence grants a reroll on qualifying Engineer attempts. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Speculo BSG26/1** is the premium **Impersonation/Monofilament** anti-TAG assassin; **Caliban BSG24/0** instead builds positional Camo/FD+20 with **Protheion on VITA**. **Sheskiin48/0** is an elite MA4+BS15 assault fighter and **Rasyat BSG25/0** is a Parachutist(DZ)+Eclipse *backline delivery* piece with weaker MA2 CC; do **not** conflate best enemy-DZ arrival with best melee contest. Sphinx is a **TAG attack platform**, separately priced. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
