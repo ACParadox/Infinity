@@ -720,3 +720,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Med-Tech21** covers Doctor and Engineer behind forward **Achilles / Skyhound** pressure; **Slave Drones3** should be staged on different routes rather than stacked. **Gearhead Engineer/Cyberplug** can project support through an independently placed connected body, but **Cyberplug and Servant attachments cannot both be fielded on the same Controller**. Aerial **Skyhound** needs safe ranged GizmoKit/repair access, not assumed easy contact. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Achilles AP Spitfire62/1.5 or Plasma63/0** is the **3W CC24/MA4 EXP** fighter who can shoot his own approach and keep attacking; the team costs more and must manage enemy hacking/E/M. **Patroclus35 FTO** contributes mobility/team support and MA3/CC22 as a *secondary* melee body; it is not another Achilles. **Skyhound** wins by aerial firing angles, not CC. **Med-Tech/Slave** supports recovery after retreat; do not fund a 60pt fighter purely to kill one 10pt defender. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
