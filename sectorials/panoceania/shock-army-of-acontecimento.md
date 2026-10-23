@@ -608,3 +608,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Peacemaker/Auxbot screen** — template and multi-body route denial; protect arrival corners rather than expose controller
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Machinist/Palbot** supports **Tikbalang/REM** and can restore either Unconscious level of Remote Presence on one successful WIP roll; **Trauma-Doc/Palbot** is the alternative for VITA infantry/ARO pieces. If an Acontecimento team already includes a Paramedic, compare target PH and safe contact rather than automatically paying for a second dedicated Doctor. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
