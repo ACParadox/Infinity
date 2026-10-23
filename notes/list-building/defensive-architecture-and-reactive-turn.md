@@ -99,6 +99,10 @@ A stronger sequence looks like:
 
 The opponent must repeatedly switch tools and reevaluate the attack.
 
+**Concrete counter-switching example:** an MSV attacker beats the visible gun, a Sensor or expendable trooper probes the Camo/mine layer, a KHD handles the Hacker, and a disposable mine-clearer opens the final route. Even if every answer is already in the opponent's list, repositioning between them consumes Orders.
+
+**Command Token as first-turn defence:** when going second, the eligible Strategic Use can remove two Regular Orders from the opponent's first-turn Order Pool (only one if Counterintelligence applies), provided the Order-count threshold is met. That reduction may save more of the army than exposing an additional ARO piece. This is a first-turn Tactical Phase action, **not an ARO**; see [Command Tokens](command-tokens.md) for the exact restrictions.
+
 ---
 
 # 3. Serial defence is often stronger than parallel defence
@@ -756,6 +760,14 @@ Do not evaluate untriggered mines, hidden threats, or weak AROs as "doing nothin
 
 ---
 
+### Rear-arc warnings and Look Out!
+
+A long-range ARO is not a substitute for rear-arc coverage. Place a cheap observer where it can see Combat Jump, Parachutist, climbing, jumping, or fast flank routes into valuable backline positions. Do not assume guards facing forward will react to every arrival.
+
+**Look Out!** lets a trooper with LoF to the active enemy spend its own ARO warning allies. Eligible allies that have not already reacted can attempt the rule's **Dodge (PH-3)** to turn their LoF without displacement. This does not grant a free shot or guarantee success; use it to make a backline assassination require another Order. See [Look Out!](../../rules/5a_Common%20Skills/Look_Out.md) for exact requirements.
+
+---
+
 # 20. Defending retreat routes and resting positions
 
 Your own Active Turn should end with the next Reactive Turn already in mind.
@@ -801,6 +813,12 @@ A useful reactive-value model is:
 This is deliberately broader than probability of winning the current Face-to-Face Roll.
 
 For exact timing and legality, see the repository rules for ARO, Dodge, Reset, Discover, Camouflaged State, Hidden Deployment, Stealth, Sixth Sense, Combat Instinct, Direct Template Weapons, and Coordinated Orders.
+
+### Fireteam ARO forks
+
+Fireteam members have individual ARO opportunities, but reacting members must declare the **same ARO Skill** to preserve Fireteam integrity; conflicting declarations can remove members or cancel the team. An attacker who exposes one member to gunfire, another to a template, and a third to hacking can force an unfavorable common choice.
+
+**Deployment fix:** stagger members and arcs so only the appropriate guard reacts at each approach, rather than presenting the whole link to the same fork. Check the [Fireteam ARO rules](../../rules/6_Command%20and%20Fireteams/Fireteam_ARO.md) before assuming that separate members may freely Shoot/Dodge/Reset in one Order.
 
 ## 21.1 Think one Order ahead
 
@@ -1268,6 +1286,9 @@ Before finishing deployment, ask:
 18. **What attacks that model on my following Active Turn?**
 19. **Which ARO declaration would create the greatest future Order cost rather than merely the best current roll?**
 20. **Against Camo/Hidden pieces, am I preserving information until the reveal actually matters?**
+21. **Can a parachutist, Combat Jumper, jumper/climber, or fast flanker arrive in my rear arc unopposed? Is there an observer who can use Look Out!?**
+22. **Could one Order fork multiple Fireteam members into incompatible Shoot/Dodge/Reset choices?**
+23. **If going second, am I using the eligible Strategic Command Token option to reduce the attacker's first-turn Orders?**
 
 The last questions link defence directly to reactive decision quality and counterattack planning.
 
@@ -1308,3 +1329,7 @@ The goal is to create a table where every additional step into your position cos
 ## Cross-game N5.3 ARO tier and deployment study
 
 The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.
+
+## Additional media leads from the imported condensed guide
+
+The imported note specifically recommends **Loss of Lieutenant, ep. 165: Automatic Reaction Order (ARO)**; **ep. 166: The Art of the Fork**; **Infinity the Dante: MSV and Marksmanship AROs — Infinity N5**; and **Shipwreck / Tunnel Fission: Deployment in Infinity**. These titles are retained as viewing/reading leads, **not newly transcript-verified findings** from this merge. For source-linked comparisons and disagreements, use the [ARO apex/value guide](aro-units-apex-and-value.md).
