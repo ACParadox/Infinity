@@ -875,6 +875,12 @@ Use **roster-legal Kappa/Razor/Nightshade/KHD/Hacker and Doctor/Engineer** tools
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Knight of Santiago KHD Combat Jump38/0 or non-hacker Combat Jump36/0** is powerful late backline reach, but **cannot simultaneously be in a Fireteam**—FTO options are different. **Crushers Combat Jump27/0 vs FD+20 25/0** choose direct landing risk versus stable early midfield pressure. **Raptor BS14 HI + Devabot** is a fast *on-table* anti-DZ breaker, not Combat Jump. **Parachutist/FO** choices in current roster remain profile-specific; preserve a separate late objective specialist and safe LT/CoC rather than betting all scoring on a 36–38pt landing.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Zeta** is the S7 HRMC centerpiece for high-powered ranged engagements and vertical routes (Climbing Plus); it needs dedicated hacker-screening and mission scorers, not just another gun. Compare NCO/lieutenant choices *only if this sectorial's current profile actually offers them*. When missions require many distributed specialists, reserve enough points for the excellent Starmada objective network.
