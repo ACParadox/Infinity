@@ -504,3 +504,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Warband/low-cost LI casualties** often aren't worth 3–4 Orders of Doctor travel unless they are the last scoring Specialist. Use a roster-legal **112-style Doctor/Engineer** only when it supports an expensive ARO, vehicle or objective specialist; **No-Cube targets** have no ordinary Cube-based token reroll. Consider **GizmoKit PH and Repair WIP** separately; the 2–3pt Servant is an Order-efficiency investment, not an extra independent activation. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º3/0** is cheap Irregular protection versus Van Zant/Hellcat-style reverse attacks (also relevant in a mirror match); **Foxtrot BSG+Shock Mine Minelayer 18/.5** secures an infiltrated *outer* crossing route while **Foxtrot FO18/0** scores without a starting mine. **Hardcase** cheap Camo/Decoy and **Beasthunter HFT/Panzerfaust** force close corners, but neither means a free initial deployed mine without the printed Minelayer skill. **Counter:** defensive Irregular saturation cannot replace a Regular attack group, and static mine paths cannot guard every DZ-edge/rooftop Combat Jump entry.
+
+[Whole-game DZ defense value/apex and anti-IMP matchups](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
