@@ -753,6 +753,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Meteor Zond19/0 or21/0** provides true AD **Repeater + Sensor + FO** at the enemy backline: the payoff comes from **Interventor/WIP15 hacker and guided/Trinity network** rather than its own weak BS11 gun. **Go-Pod VH** attacks across rooftops with aerial mobility but can be very exposed (No Cover) and is not Combat Jump; choose only when supported LoF/exit path exists. **Spektr Hidden/Infiltration** is a more controllable delayed attacker into risky Combat Jump sites. Never import **Corregidor Hellcats/Surface Bearcats** without current Tunguska roster permission.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
