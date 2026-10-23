@@ -964,6 +964,10 @@ Mission planning with **Sun Tze Strategos LT** should prioritize where the conve
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Hsien HMG49/1.5** gives **BS14/MSV2/2W** for anti-Mimetism and smoke-supported HMG lanes; **Crane AP HMG49/1.5** is the alternative **anti-ARM** long gun with far better CC/X-Visor utility, but no MSV2. **Hsien MULTI MMR47/0** saves SWC for a second gun or linked specialist if the target is mainly midrange. **Sun Tze Strategos LT** makes a stronger *army-order engine* than a combat Hsien/Crane LT in many builds; don't conflate Hsien separate LT(+1) MMR options with its normal HMG. [Gunfighter apex/value and LT/CoC matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lóngwáng (68–72)** is a control-oriented TAG: Adhesive Launcher Rifle and Riotstopper help neutralize high-threat targets without requiring conventional damage; **NCO AP HMG** spends an unused Lieutenant Order. It is best against vulnerable targets at useful range, not where an HRMC duel or anti-armor AP specialization would outperform glue.
