@@ -255,3 +255,8 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 6. Protect the **Lieutenant**, separate CoC insurance, preserve order economy going second.
 7. Identify the **opponent's likely Turn 1 attack**, defend that route, and know which friendly piece still scores on Turn 3.
 8. Verify Army legality, points/SWC, loadout and Fireteam state against `sectorials/haqqislam/haqqislam.md` before making an export.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Best value:** 5–6pt **Ghazi Smoke** (read *Vanilla's exact profile*, not the different Bahram Ghazi loadout) and cheap Kum bikes screen **34pt/1SWC Mukhtar MSV2 Red Fury** or Djanbazan MSV2 for smoke-shooting. These packages are strong but Irregular activation/Orders and the gunfighter's opportunity cost still matter.
+- **Against MSV/White Noise:** don't assume normal Smoke will shield a scoring piece from visors; Fiday or another angle can work better. [Global guide and profile caveats](../list-building/vision-control-units-apex-and-value.md).
