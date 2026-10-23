@@ -779,6 +779,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 **Active-turn gunfighter choice:** **Sukeul HMG33/1.5** has BS13/Mimetism−3, active **2W Symbiont** and flexible Triad movement; **Sukeul K1 Combi FO29/0 (LT alternative29/0)** instead counters armor and finishes missions at shorter bands. **Gao-Rael MSV2 Spitfire30/1.5** is the direct answer to Mimetism/smoke in legal Triads, but BS12/Spitfire loses raw range versus Sukeul HMG. **Gorgos AP HMG63/1.5** brings TacAware and greater armor/STR at the cost of large Hackable investment. **Kaeltar CoC21/0.5** can protect a fighting Sukeul LT and confer SymbioMate utility but has poor direct shooting itself. [Whole-game gunfighter and commander-tier analysis](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Makaul HFT+Eclipse+Viral/DA CC14/0** is S-tier **team enabler** in a legal Triad: **Eclipse blocks MSV**, Heavy Flamethrower threatens W1 infantry, CC23/MA2 and specialty CC ammo deter Hackable/elite units. **Mirrorball/Kriigel competing view**: repeated no-LoF Pheroware vision denial often replaces Makaul as *pure smoke delivery*, but Makaul retains cheap HFT/melee+Triad role. **Ioann Bann32/0** is a multi-Wound aggressive dog-warrior, not 14pt disposable smoke. **Kaeltar CoC21/.5** with SymbioMate supports survival of scorer/command; do not throw the protected CoC first.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
