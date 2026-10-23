@@ -829,3 +829,9 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Kumotail21 WIP14 Doctor+Engineer + Chaksa Servant3** is an efficient one-slot dual network, able to work with legal Triad routes **or** remotely with Servants (respect Fireteam restriction). **Kosuil Engineer20–25** instead offers an assault-side K1/shotgun shooter and technical support inside a legal moving Triad; worth its points when it contributes attacks/objectives, not as a pure 20pt rear Engineer. Symbiont models use their relevant current attribute/state; inspect patient eligibility before Doctor versus Engineer choice. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Kaauri E/M Minelayer 11/0** is an extraordinary **Regular** home guard against Impersonation: Biometric Visor, Sixth Sense, MSV1, strong Discover and Nanopulser(+1B) plus an already-laid E/M Mine. Put its mine on the intruder's **next corner/reveal square**, not adjacent to valuable cheerleaders. **Chaksa Auxiliar FTO 10/0** adds **HFT + Sensor + Baggage** and a Regular Order; not a REM or Biometric guard. **Opposing view (TA Tohaa):** multilayering with Draal mines/Nikoul/Kriigel is potent but can over-invest in static defense instead of scoring. Kaauri Mirrorball14/.5 is a different profile.
+
+[DZ Defenders — whole-game apex/value, matchups, and MCP transcript debate](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md). Tactical commentary; the pinned profile/Fireteam tables above are authoritative.
