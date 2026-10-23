@@ -18,6 +18,8 @@ coverage: "43 standard Army-1101 logical units; complete standard profiles/loado
 # Vanilla JSA — N5.3 faction reference
 
 ## Overview and provenance
+**Tactical companion:** [Vanilla JSA — transcript-reviewed list building, opposing opinions, TAGs/REMs and vehicle boundaries](../../notes/factions/vanilla-jsa.md) (research refresh **2026-10-23**). Unit, profile, AVA and Fireteam legality below remain **canonical**.
+
 
 This file is the repository-native factual reference for **Vanilla JSA / Japanese Secessionist Army (Army ID `1101`)** under the N5.3 baseline. It records the standard Army-1101 roster, profiles/loadouts, vanilla AVA, the current limited vanilla Fireteam chart, optional game-mode hooks, identity/peripheral relations, and the linked JSA Reinforcements boundary.
 
