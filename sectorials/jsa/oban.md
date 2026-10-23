@@ -670,6 +670,12 @@ The most important choice is **how many independent turn-3 scoring routes surviv
 
 **Active-turn gunfighter choice:** **O-Yoroi MULTI HMG78/1.5** is the full BS14/3STR/TacAware long-gun plus close-assault/mine screen, strongest in open lanes requiring a TAG; **LT78/1.5** adds personal command risk rather than another gun. **Shikami42/0 (or MULTI Rifle47/0)** instead buys **Mimetism−6/Climbing/Super-Jump/Eclipse** and **Specialist Operative** to finish objectives or fight at short/medium angles without carrying 78pt TAG cost. Elite melee access should open the route **before** the O-Yoroi fights, not replace all direct long-gun shots. [Active guns vs actual mission Orders, LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warband cheap trading / order economy — N5.3
+
+**Yuan Yuan6/0 Chain+Smoke or 7/0 DA CC, AVA2** gives Ōban *unique* ultra-low-cost Irregular/Impetuous airborne smoke/template/CC disruption; **PH11 Combat Jump only 55%** without actual support, normal Parachutist safer if an open edge. **Miyamoto Musashi Irregular Chain+EXP21/0** is apex melee **CC25/MA5** but cannot join Banzai; **FTO Regular25/.5** alone is Banzai/Counts-as-Tankō Fireteam legal, a different investment. **Aragoto bikes** move rapidly without smoke on their profiles. **Kempeitai CoC17** should survive LT loss, not be thrown away to trade.
+
+[Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
