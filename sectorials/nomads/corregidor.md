@@ -717,6 +717,10 @@ The pinned Corregidor Army data links Reinforcement roster **599**. This referen
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Intruder HMG38/1.5** wins **smoke+MSV2/Camo** matchups when a Jaguar/McMurrough (where legal) produces smoke; the **MULTI Sniper(+1SD)38/1.5** is more a long ARO/discovery threat. **Vostok Mk12/Spitfire34–38** contributes Mimetism(-6)/Climbing and real Fireteam utility **only on a division-legal FTO profile**. **Gecko49–55** is a compact TacAware attack and support team, whereas **Gator73/1.5 Deepspace** buys the large durable HMG/NCO/TacAware engine. Surface **Territorial AP MMR29/0 TacAware** is often stronger value than its more costly AP Red Fury/SWC when it will repeatedly fire from midfield. **WIP12 dissents** on whether Guided+network or a direct second gun deserves the next 1.5SWC. [Full gunfighter apex/value and matchups](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
