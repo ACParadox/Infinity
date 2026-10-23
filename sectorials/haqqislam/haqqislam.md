@@ -1033,3 +1033,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Ghulam Doctor(+3)15 WIP14** heals at **85%**, **Rouhani21 WIP15 Doctor(+3)** at **90%** where legal; spend the extra 6pts for NWI and a useful nearby VITA specialist/HI package, not merely for raw 5% better roll. **Najjarun15 WIP14** repairs STR through **Nasmat3** while **Hakim24–29** buys Parachutist/forward reach. Repair versus heal remains target-attribute-specific. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Daylami 6/0 Panzerfaust+LSG** or **8/0 one-use Camo+Infiltration Panzerfaust** are outstanding cheap Irregular deterrents; under a legal **Saladin Inspiring Leadership** plan, suitable non-Religious Irregular troopers may instead contribute Regular Orders—check religious and rules exclusions. **Warcor 360º3/0** watches the edge; **Ghazi 5/0 E/Marat or 6/0 Jammer** deters close entry into vulnerable Ghulam/hacker groups. **Farzan Viral Minelayer21/.5** and other camo/hidden profiles guard *approaches*, not necessarily the last DZ square. **Counter:** a cheap attacker can clear roadblocks; spread the support/order pieces and keep a corner template on the actual continuation route, not just many exposed Panzerfausts.
+
+[Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
