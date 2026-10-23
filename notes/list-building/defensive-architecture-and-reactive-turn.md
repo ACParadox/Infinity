@@ -1,5 +1,7 @@
 # Defensive Architecture and the Reactive Turn
 
+**Concrete N5.3 DZ-defense unit shortlist:** [DZ Defenders — apex/value, anti-alpha and impersonation](dz-defenders-alpha-strike-and-impersonation-apex-value.md). It distinguishes 360º rear-edge/Combat Jump screens from Biometric anti-IMP guards, mines versus Boost weapons, and Regular dual-role support from expendable Irregular speed bumps. Keep serial defenses and dispersed cheerleaders.
+
 Infinity defence is not primarily about winning gunfights during the opponent's Active Turn. The stronger goal is to make the opponent spend too many Orders, expose important pieces, consume limited resources, and finish the turn in positions that can be punished.
 
 A good defence therefore asks:
