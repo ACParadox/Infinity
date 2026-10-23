@@ -1139,3 +1139,12 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Wardriver HD 14pts/1 SWC** supplies basic Carbonite/Oblivion/Spotlight and a Specialist in a faction otherwise built on Camo, warbands and potent direct fire. **Why:** without a thick Repeater network, it will generally cover a small area and can be a worse use of SWC than a dedicated attacker. Bring it only to punish a predictable hackable TAG/HI lane or meet a hacking-specific scenario; otherwise nonhackable pressure/impetuous movement and mission specialists do the work. Kosmoflot's current main roster does **not** inherit Nomad KHD hybrids just because units are shared elsewhere.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **Roster-specific candidates**: 1518, 243, 257. Check their current profile prices, Training and second job; these are not claimed to be cheaper than generic REMs.
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.

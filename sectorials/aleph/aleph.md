@@ -786,3 +786,13 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Best hacker-per-point:** **Danavas HD+ + Oblivion(+1B) 22/0.5 WIP15/Pitcher** combines White Noise/anti-TAG control; **Deva KHD 20/0 WIP15, NWI and Immunity(Isolated)** is cheaper anti-Hacker plus a sturdy scorer. **Asura HD+ 63/0.5 WIP15, ARM5/MSV3/NWI** is the high-end combat specialist, not an economical stationary network node; check *Vanilla* upgrade instead of silently borrowing OSS **Trinity(+1SD)**. **Naga KHD 27/0 vs HD+Deployable Repeater 29/0.5**, **Dasyu KHD 31/0** buy forward concealment. Use affordable remote Repeaters to project Danavas/Deva rather than exposing them; a Marut already strains premium-point budget.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **6pt Netrod**: cheapest Regular pool Order where roster-legal, but its mandatory deployment and stationary non-combat body are a risk
+- **9pt RacerBot Mk-I**: mobile Regular Order plus adhesive/PARA disruption; avoid exposing an unnecessary REM
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.

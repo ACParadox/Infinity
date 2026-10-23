@@ -913,3 +913,12 @@ Where these sources discuss older Army versions, profile legality and current eq
 **Wardriver HD14/1** with Zero Pain is a low-points but relatively **high-SWC** anti-heavy controller/mission specialist. A responsive **KHD hunter** is not part of the usual native TAC network, so avoid trying to beat Interventors/Combined at their own repeater war. **Disagreement in existing TAC analysis:** WIP12/Shepherd value its Disco Baller and tech-side mission utility, while Swiss Miss warns the SWC can crowd strong attack guns. **Decision:** pay for Wardriver only when a TAG/HI-heavy opponent, relevant classified or a real vision-control route creates an Order-saving task that a cheaper Forward Observer cannot do.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **Line Kazaks**: small-base Regular troop with a credible close guard/command-decoy role; check cheapest exact profile before upgrading
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.

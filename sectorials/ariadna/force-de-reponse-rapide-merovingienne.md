@@ -452,3 +452,12 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 **Wardriver is FRRM's niche cyber counter:** the source includes **14pt/1 SWC HD+Zero Pain** for basic safe anti-heavy control and a **16pt/0.5 SWC Combi+Pitcher HD** variant. The *latter* is the more compelling network platform because it can project Repeater influence into midfield for fewer SWC; Zero Pain instead preserves an otherwise vulnerable hacker when enemy KHDs are present. **Why:** FRRM does not naturally field a dense premium Hacker/KHD suite, so its low-cost deployed specialists and conventional guns should remain the core of the plan. Use the Wardriver if the opponent brings TAG/HI or the mission rewards Spotlight; otherwise save its SWC.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **Métros**: baseline S2 Regular pool bodies; take the cheapest useful defensive or link/specialist loadout rather than buying a weak heavy gun
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.

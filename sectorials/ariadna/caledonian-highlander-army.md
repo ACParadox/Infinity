@@ -541,3 +541,12 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 **Isobel McGregor HD 25/0.5** is Caledonia's more integrated hacker/operative option; **Wardriver HD14/1** buys the basic anti-HI/TAG program suite at high SWC cost, but lacks a powerful natural repeater network. **Why:** Isobel can combine WIP13 general HD interaction with army-specific mission/link plans; Wardriver is mainly an emergency **Carbonite/Oblivion** answer against high-tech heavies. Against armies with few Hackable troopers, both compete poorly with Caledonia's efficient close-assault/Scots/McMurrough-style threats; do not invent a native KHD or Nomad-like Turn-0 network.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **6pt Volunteer Chain Rifle/Light Shotgun**: extremely cheap S2 Regular body that can still guard a doorway
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.

@@ -460,3 +460,12 @@ Reinforcement Wildcards may join otherwise eligible L'Équipe Argent Reinforceme
 **Wardriver HD14/1 SWC** adds ordinary anti-HI/TAG **Carbonite/Oblivion/Spotlight**, but no premium anti-Hacker KHD/HD+ toolkit or automatic long-range Repeater access. **Why:** USAriadna normally wins through efficient shooting, mines/Camo, and several nonhackable infantry threats. Use the Wardriver as deliberate *counter-tech* for an enemy TAG/HI bottleneck or hacking scenario, not because every army needs a Hacker. Keeping SWC for conventional guns is usually more reliable when there is no meaningful hackable target.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../../notes/list-building/cheerleaders-and-order-generators.md). Roster profiles/AVA/Fireteam legality above take precedence.
+
+- **USAriadna Grunts**: line infantry Regular Orders with defensive utility and Fireteam applications, rather than 7pt Flashbot economics
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
