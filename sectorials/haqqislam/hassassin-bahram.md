@@ -725,3 +725,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Warcor Flash** — 3pt Irregular ARO tax/late-game Stun attempt, not a Regular Order
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Apex pre-deployed control:** **Shujae SMG/Flammenspeer E/M Mine Minelayer (2) 27/0**: Hidden + FD(+20) + specialist and two mines, strongest at Hackable chokepoints but no Order while Hidden. **Farzan Viral Minelayer 21/.5** supplies a *different* camouflage/mine threat; using both discourages enemy mine-type identification. **Counterpoint:** Sensor/Deactivator and cheap scouts can defeat predictable clusters; Shujae mine spacing can betray the hidden launch position. Do not mistake the 24/0 Farzan CoC for its minelayer.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
