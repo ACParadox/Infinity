@@ -507,6 +507,10 @@ The pinned Shasvastii Army data links Reinforcement roster **699**. This referen
 - Sphinx/Scindron and Jayth Pit Patrol/Taigha are represented as parent/peripheral relationships rather than additional roster entries.
 - Reinforcement roster 699 is linked but not mixed into the standard roster or Fireteam chart.
 
+## Expanded Shasvastii tactical guide (2026-10-23)
+
+Read the [Shasvastii Expeditionary Force tactical guide](../../notes/factions/shasvastii-expeditionary-force.md) for marker-state tempo, Speculo/Noctifer/Caliban choices, tournament face-up/face-down lists, Sphinx and Q/R-Drone coverage, plus Gwailo skepticism and tournament counterexamples. **Gwailo MSV2 is specific to the HRL option**, not its HMG; the current Shock chart retains eligible **M-Drone FTO** entries.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
