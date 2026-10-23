@@ -642,6 +642,10 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 - Linked Reinforcement army resolves to **The Exrah Comissariat (699)**. Its chart is kept separate, including the source combination of global `spec` 0/0/0 and explicitly typed Fireteam rows.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
 
+## Expanded Next Wave tactical guide (2026-10-23)
+
+See the [Next Wave N5.3 tactical and profile-selection guide](../../notes/factions/next-wave.md) for research-backed hero/team tradeoffs, Cyberplug, Juggernaut/Skyhound, specialist coverage and podcast disagreements. **FTO Patroclus has no Smoke Grenades in the pinned profiles**; only the separate Holoprojector HRL option does. Team Achilles excludes Wildcards; use this roster/chart above for actual link legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
