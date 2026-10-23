@@ -715,7 +715,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice (N5.3):** **Griffin HMG37/1.5** gives cheap MSV1 and long range in Fennec/Kestrel teams; **Hetkari MULTI Red Fury48/1.5** pays +11 for **Marksmanship** and stronger Cover-focused FtF (and benefits from legal Kestrel team composition); **Squalos Mk-II MMR55/1** is the economical TacAware TAG; **Tik HMG69/1.5** wins on Climbing/Mimetism/retreat mobility instead. **Dissent (Irregular Order #52):** Griffin's price/MSV can beat Hetkari *for the required job*, while others prefer Hetkari to mitigate failed Cover gunfights. **Magistrate CoC21** protects an aggressive **Tik LT73**, but is not the same 19pt Magistrate Strategos LT. [Cross-game apex/value, matchups and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Griffin HMG37/1.5** is the cheaper MSV1, longer-range Fireteam gun; **Hetkari MULTI Red Fury48/1.5** pays +11 for Marksmanship against Cover at shorter ranges. **Squalos Mk-II55/1** is an economical midrange **TAG**, while **Tikbalang69/1.5** is the mobile Climbing/Mimetism **TAG**. **Irregular Order #52 disagreement:** prefer Griffin for cost/long HMG band and Mimetism, Hetkari for harder Covered defenders. [Gunfighter apex/value, separate TAG tier and transcript debate](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
