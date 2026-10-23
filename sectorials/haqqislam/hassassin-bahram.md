@@ -666,6 +666,12 @@ Validated against the pinned structured source before marking `status: current`:
 
 See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Farzan FO22/0** is Camouflaged Infiltration, D-Charges/Flash Pulse; **Farzan CoC24/0** buys succession for +2pts but loses the FO-only option. **Ghulam FO12 / Doctor(+3)15** supply cheap WIP14 mission categories. **Asawira Doctor(+3)35–37** is a frontline 2W fighting medic **only if** its gun, recovery and button role share a route; otherwise Ghulam15 provides better marginal utility. Do not expose sole CoC early.
+
+[Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
