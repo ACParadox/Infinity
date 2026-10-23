@@ -853,3 +853,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Tactical cross-reference — vision control (23 October 2026)
 
 **Ghulam NCO Smoke GL15/1** is low-points ordinary Smoke using spare LT Orders; **Khawarij CoC + Disco33/0**, **Hortlak Disco28/0 with Deactivator**, and **Claire Doctor(2W)+Disco33/0** create true Eclipse access while performing distinct command, tough-infantry, and recovery jobs. **Yara Haddad24/0 MSV2** can use *normal Smoke* for an asymmetric gunfight; she cannot shoot freely through Eclipse. **Disagreement to test:** when a mission needs only a single open crossing, simple Smoke can save points; when an MSV sniper locks it, a Disco user with scoring/recovery utility is worth the premium. [Global vision-control tier guide](../../notes/list-building/vision-control-units-apex-and-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Asawira** is not the default Ramah melee purchase: use **current roster-legal Khawarij/Tarik** as strong mobile *close-range* threats only once their shooting/superjump/route is productive. **Carmen Johns + Bâtard** brings two-body pressure, Smoke and melee/trade value where rostered, but cannot be ranked as a Hidden/Impersonating specialist. A Ramah assault against a dedicated MA5/NBW defender should usually **shoot or exploit a template angle**, not initiate a head-on CC duel. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
