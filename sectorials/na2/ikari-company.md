@@ -931,3 +931,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Druze Fireteam weapon/EM** — durable midlane or utility link option where current source permits; multiple roles beat pure unused sniper SWC
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Scarface & Cordelia (76–80pt combined)** brings a TAG and its Engineer in one mandatory composite purchase, unusual direct access to a valuable STR casualty; still protect Cordelia and a safe recovery lane. **Tokusetsu Doctor14 / Engineer14 WIP13 + Yáozăo3** cover **Karakuri Remote Presence/other STR** or VITA respectively, with token rerolls only on qualifying targets. Cheap recovery network can outperform taking extra premium doctors. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
