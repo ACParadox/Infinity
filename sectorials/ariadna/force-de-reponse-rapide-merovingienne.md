@@ -473,3 +473,10 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Warbands and inexpensive trading roles — N5.3
+
+**Carmen Johns + Bâtard17/0** is an elite **fast Smoke+Chain+Sensor** threat and delivers anti-Camo/late lane pressure for fewer points than elite melee troops; synchronized Bâtard is **not a free separate Regular Order**. **Mirage-5 Margot+Duroc60/2** (fixed compound) provides much larger enemy-DZ template/CC attack ceiling, but it is not a 24pt standalone Duroc purchase. A **Paramedic Para-Commando19** can score after flank clearing instead of suiciding a 17pt duo. If the opponent has covered all bike lanes with mines/long guns, use a safer infiltrating midfield approach rather than forcing an expensive close attack.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
