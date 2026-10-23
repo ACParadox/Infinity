@@ -617,3 +617,9 @@ The pinned Onyx Army data links Reinforcement roster **699**. The source also co
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Kerr-Nau KHD + White Noise 30/0** is a rare **0-SWC anti-Hacker + anti-MSV hybrid**, with X-Visor Pitcher, Plasma weapon and NCO: use when the team can *use* both cyber access and fighting. **Bit+KISS! HD+Trinity 25/0.5 or KHD+Oblivion 24/0.5** adds a perimeter/Repeater companion and an actual choice of target class. **Nexus HD + Oblivion(+1B) 24/0.5 / Carbonite(+1B) 27/0.5** supplies cheaper linked anti-heavy control; **Umbra Legate HD+ 38–42/0.5** has White Noise but costs more than a basic cyber backbone. **Malignos KHD32/0** is for Camo scoring. **Why:** KHD/White Noise Kerr-Nau solves an MSV lane and kills hostile hackers; it is not a full HD against HI without Bit/Nexus support.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

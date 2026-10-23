@@ -780,3 +780,9 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Tarkshya AVA1** (newer than the October 2025 global flyer ranking): **34/0 MULTI Marksman+Chain Rifle(+1B)** is an excellent low-SWC **MSV1, Mimetism(-6), STR3 Remote Presence** aerial attacker, with **capable Operator after Transmutation**. **38/0 AP SMG** enhances close armored matchups, **41/1.5 MULTI Red Fury** buys range/offensive weight but competes with Marut/other weapons for SWC. Its S apex/S value rank is **provisional 2026 profile analysis**, not an older presenter's assessment. Operator mission utility only applies in the correct state.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Best hacker-per-point:** **Danavas HD+ + Oblivion(+1B) 22/0.5 WIP15/Pitcher** combines White Noise/anti-TAG control; **Deva KHD 20/0 WIP15, NWI and Immunity(Isolated)** is cheaper anti-Hacker plus a sturdy scorer. **Asura HD+ 63/0.5 WIP15, ARM5/MSV3/NWI** is the high-end combat specialist, not an economical stationary network node; check *Vanilla* upgrade instead of silently borrowing OSS **Trinity(+1SD)**. **Naga KHD 27/0 vs HD+Deployable Repeater 29/0.5**, **Dasyu KHD 31/0** buy forward concealment. Use affordable remote Repeaters to project Danavas/Deva rather than exposing them; a Marut already strains premium-point budget.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

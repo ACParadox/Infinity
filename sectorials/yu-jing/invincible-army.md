@@ -774,3 +774,9 @@ Refresh this file when any of the following changes:
 **Gūijiă** provides a true big-gun/armor alternative to linked HI; prefer it where its 3-STR TAG survivability, firing lane and **Shock** Fireteam access beat spending Orders on yet another HI gun. Count the full companion/Engineer/support cost, and protect it from hacking/E/M rather than relying on high ARM alone.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Hǎidào KHD + Pitcher 22/0** is the principal 0-SWC anti-Hacker/scoring support in a **TinBot-protected HI Fireteam**; **Dāoyīng Camouflaged HD/LT** supplies protected command and an alternative anti-HI program package. **Hac Tao Hidden HD+Trinity 58/0.5** is the premium protected killer/anti-heavy ambush but has a steep cost; **Zhēnchá HD+Trinity 34/0.5** supplies forward Camo surprise and a cheaper hybrid. **Liú Xīng HD + Firewall(-6) 30/0.5** can attack distant objectives via Combat Jump; **Shàng Jí HD 40/0.5** comes with a real HI fight/Order economy. **Why:** several hackable HI magnify the payoff from TinBot, KHD, anti-repeater clearance and **one HD with Oblivion**, not just more KHDs.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

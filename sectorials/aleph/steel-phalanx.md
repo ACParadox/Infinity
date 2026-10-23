@@ -553,3 +553,9 @@ These tags are analytical conveniences, not rules text.
 **Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Scylla HD + Trinity (32/0.5 with Charybdis Devabot)** pairs Pitcher/anti-Hacker attacks with a **Synchronized Repeater + flamethrower** fork; **25/0.5 FTO** drops the peripheral and relies on the canonical team chart. **Ekdromoi HD 23/0.5 or KHD 25/0** is a parachute/Combat Jump specialist, especially valuable when target consoles are far beyond the initial network. **Myrmidon HD 29/0.5** combines smoke/Mimetism(-6) and scoring in a fast assault group. Scylla's **EVO variant** is for supportware, not a replacement for HD or KHD. **Why:** Steel Phalanx spends heavily on Myrmidon combat and smoke; take a linked network when it improves their approach, but avoid paying twice for hackers who cannot project beyond the team.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -512,3 +512,9 @@ The pinned Shasvastii Army data links Reinforcement roster **699**. This referen
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Malignos KHD 32/0** gives **Hidden/Camo, Mimetism and Dazer** alongside Trinity for late scoring and cyber ambush; **Shrouded KHD 26/0 vs HD 28/0.5** is the cheaper Camo specialist choice. **Nox HD 14/0.5** is budget Carbonite/Oblivion/Spotlight, **Mentor HD 25/0.5** a more expensive command/defense piece, and **Cadmus AD KHD 22/0** reaches unexpected rear objectives. **Victor Messer 30–31/0.5** brings Deployable Repeater/Cybermine and defensive equipment. **Why:** Shasvastii's Hidden Deployment and midfield positioning are the main advantages; don't replace mission Camo with an expensive network shell when few good Repeaters exist. Note standard **KHD does not disable ordinary TAGs**.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

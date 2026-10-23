@@ -803,3 +803,9 @@ The pinned Combined Army source links Reinforcement army **699**. The standard s
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Apex single Hacker:** **Anathematics HD + Trinity(+1B) 72/0.5 WIP16** has Hidden Deployment, Mimetism(-6), ARM5/NWI and Mnemonica: a terrifying cyber ambush but expensive as an *Order/points-efficient* network piece. **Charontid HD+ 69/0.5 WIP16** adds White Noise/Sepsitor/Plasma, but **not native Trinity**; buy for combat/command/vision control. **Bit+KISS! HD+Trinity 25/0.5** versus **KHD+Oblivion 22/0.5** compresses attack/control with peripheral-based projection; **Dartok 23/0.5** supplies an inexpensive Pitcher+Trinity alternative. **Malignos KHD 32/0** and **Shrouded KHD 26/0** score under Camo and counter enemy Hackers. An expensive WIP16 champion cannot replace cheap Repeaters or reliable mission specialists.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

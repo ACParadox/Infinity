@@ -653,3 +653,9 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Skyhound AVA1:** **33/0 BS14 + Mimetism(-6), Plasma Carbine(+1B), AP Thunderbolt(+1B), Mine Dispenser** is arguably the strongest *raw value* flying shooter; **31/0 MULTI Rifle/Flammenspeer** gives up much of its advantage to save 2 points. **Shepherd (Oct 2025)** ranked it #3/8 counting Garuda because **Next Wave lacks cheap resilient support/backup**, not because the loadout is weak. **MetaChemistry #132** describes devastating plasma but an enemy Pitcher+Isolate neutralized it. Supply KHD/repair/exact jump LoF and safe exit; **no Fireteam rights**.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Cheap cyber investment:** **Harbinger KHD + Deployable Repeater 17/0** is a low-SWC anti-Hacker/counterattacker; **Harbinger HD + Minelayer 18/0.5** brings Spotlight/Oblivion to ordinary heavies. **Gearhead FTO Hacker + Pitcher + Firewall(-6) 19/0.5** projects the network from a protected legal team; **Contrabandolero HD 29/0.5 vs KHD 27/0** is costlier mobile mission utility, and **Ironsides KHD34/0** buys armor/fighting. **Why:** Next Wave's Skyhound and pricey higher-end pieces need a *cheap complementary network*; an expensive solo KHD does not protect the vehicle from non-Hacker Oblivion unless enemy cyber threats can actually be engaged. Limit redundant hackers when losing one combat specialist already threatens list functionality.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

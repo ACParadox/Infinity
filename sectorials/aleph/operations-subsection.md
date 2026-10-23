@@ -815,3 +815,9 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Tarkshya AVA1:** **34/0 MULTI MMR+Chain Rifle(+1B)** gives OSS exceptional low-SWC **MSV1/Mimetism(-6) aerial angle creation** and retains a strong **post-shell FO(+1SD) Operator** after the correct transition. **38/0 MMR+AP SMG** covers close armor, **41/1.5 MULTI Red Fury** takes valuable SWC. The **Garuda is a REM**, not a VH (despite aerial-style movement), and RacerBots are REMs. The **2025 global VH ranking predates Tarkshya**; high tier is provisional, based on the pinned current roster and OSS tactical note.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Asura HD+ + Trinity(+1SD) 63/0.5** (or **LT(+1 Order) 67/0** where printed) is an apex **WIP15, ARM5/NWI, MSV3** active and reactive cyber duelist with White Noise. **Danavas HD+ + Oblivion(+1B) 22/0.5** is superior *cost value* for stationary network/visors. **Apsaras KHD + Firewall(-3)/Deployable Repeater 17/0**, optional TAGCom18 or RemDriver20, is a highly efficient defensive/specialist hybrid; **Deva KHD 20/0**, **Satrah KHD 20/0** and **Naga KHD27/0** provide different cover/mission plans. **Shakti KHD 35/0** brings a real gun and survival at higher cost. An **Asura / Danavas / Apsaras** combination covers anti-HI, White Noise and Trinity with redundancy; the expensive Asura is not automatically best value.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

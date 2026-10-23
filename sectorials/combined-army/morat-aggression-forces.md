@@ -548,3 +548,9 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Dartok FTO Hacker 18/0.5** with Pitcher/E/M Grenades is the efficient active projector in its **legal Morat/Tarlok team**; **ordinary Dartok 23/0.5** trades cost for independent Combi/Pitcher/Cybermine role. **Warhorse, Religious Troop and Dogged** make a Dartok capable of taking more calculated risk than the cheapest W1 hidden hacker, but **WIP13** is not Interventor-level dueling. Pair its network with actual friendly anti-Hacker/anti-heavy tools and a gun to clear dangerous MSV ARO; confirm which **FTO** is allowed before attaching to the desired team. Do not import Kerr-Nau/Bit+KISS availability from other Combined sectorials.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

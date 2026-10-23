@@ -489,3 +489,9 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Fēiquán AVA1:** **28/0 Pitcher + Sensor + E/M Carbine(+1B) +1 Special Die** uniquely projects repeaters from aerial angles for KHD, Oblivion, Spotlight/Guided. **27/0 X-Visor MULTI Rifle(+1B)** is a limited alternative gun. The 28pt loadout lacks **lethal weapons**: never buy it as a sole attacker. ARM3/BTS3/W2/S7/No Cover demand safe routes; compare against cheaper ground repeater networks.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Hǎidào KHD + Pitcher** and **Dokkaebi KHD + Spotlight/Pitcher** (use actual Vanilla profiles) protect key **Mówáng/Shàng Jí/Blue Wolf** hackers while expanding the network; **Dāoyīng Camouflage LT/HD** can supply protected command/hacking without revealing the Lieutenant prematurely. **Guìláng Infiltration HD** provides immediate midfield access, while **Hac Tao Hidden HD+Trinity ~58pts** has a high attack/ambush ceiling but lower *pure hacking value*. **Fēiquán 28/0 VH Pitcher** uniquely projects a repeater behind vertical terrain, but needs an actual HD/KHD payoff. **Why:** combine a **cheap KHD counterhacker + HD Oblivion/Carbonite + TinBot** instead of leaving all expensive HI hackable behind one unprotected KHD.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
