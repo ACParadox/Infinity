@@ -432,6 +432,8 @@ The best warbands provide useful movement or vision control before eventually tr
 
 Their main efficiency comes from producing multiple forms of value from a very small points investment.
 
+For sequencing Impetuous activations before spending personal Irregular and pooled Regular Orders—and for designing self-funding Group 2 packages—see [Impetuous and Irregular troop sequencing](impetuous-and-irregular-troop-sequencing.md).
+
 ## Tactical Awareness
 
 Tactical Awareness is best viewed as:
