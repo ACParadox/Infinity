@@ -1196,3 +1196,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Dozer13 WIP13 + Remontnikbot2** creates a cheap Servant-based **Chernobog/REM** repair radius; a single successful Engineer contact roll revives ordinary STR Unconscious per current target-specific rules. **Irmandinho8** contributes forward Smoke, cheap engineer and trade pressure but not guaranteed access to a dying TAG. **112 motorbike19** reaches endangered infantry on flanks; **Kazak Doktor12** is the static budget alternative, each 65% on first WIP13 medical roll. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Varangian Guard10/0 Regular Smoke+CC23/Berserk** anchors strong *cheap forward-threat* play: important value is Regular Order and denial of enemy fire while stronger assault pieces advance. **Mirage-5 Duroc+Margot** is the premium two-body flank assault: **Duroc** pressures from unexpected DZ/edge rather than winning a Ninja-style Hidden first strike; check composite points/orders, not unit-alone price. **Ioann Bann** provides a tougher dog-warrior close fighter when the route is legal. **Uxía** and legal infiltration targets offer better starting proximity but inferior raw MA5 ceiling. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
