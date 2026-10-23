@@ -770,3 +770,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Trauma-Doc14 WIP12 + Palbot3** is inexpensive, but only **60%** first-roll revival (84% when a Cube-target Command Token reroll applies). **Machinist15 WIP12 + Palbot3** is the equivalent TAG/REM recovery investment. **Bipandra23/25 WIP13** brings a moving Fireteam Doctor and MediKit(+1B); the 25pt TacAware version is debated versus cheap Fennec Paramedic/Speedball. Favor prepositioned Palbot for the Tik/Squalos unless the Doctor already earns team movement. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**11/.5 infiltrating Jackal** brings a **Shock Mine Minelayer plus E/M Grenade Launcher** before spending any Orders; it is **Irregular** and not COLCORP FTO. Critically, the mine is **Shock, not E/M**. Two cover independent approaches when SWC allows. **Fennec Thunderbolt+Shock Minelayer 14/0** is 0-SWC *DZ* security, not Infiltration; **Peacemaker 24/.5 with Auxbot-3B** adds FD, mine, template and Repeater, but needs S4/base space. **Counterview:** 6pt FTO Jackal supports legal COLCORP Fireteams differently; 27pt +1B Peacemaker may win more actively than the passive mine version.
+
+[Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
