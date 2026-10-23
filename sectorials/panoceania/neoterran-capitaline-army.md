@@ -682,6 +682,12 @@ Derived analysis aids, not official characteristics.
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Garuda BSG18/0 or FO20/0** delivers MOV20-5/Mimetism(-3) through **Combat Jump(PH11 = 55% before modifiers)** or reliable normal Parachutist side entry. **Blade-Ops Engineer/Parachutist30/0 + Tactical Awareness and Decoy(2)** is a sustained technical backline fork, while **Blade Engineer FD+20 30/0** and **linked FTO Engineer23/0** are other mutually exclusive profiles. **Swiss Guard / Hexas Hidden** can threaten a line from concealment, but neither gets enemy-DZ Infiltration by default. A Redeye is an on-table aerial VH, not Combat Jump.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../../notes/factions/nca.md).
