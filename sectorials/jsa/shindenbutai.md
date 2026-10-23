@@ -782,6 +782,10 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Hatamoto Plasma Carbine34/0** (Red Fury40/1, Spitfire41/1.5) uses **NCO, X-Visor, Mimetism−3, Nanoscreen** plus strong melee/specialist role; the **34pt 0-SWC** version is often better *whole-list value* than stretching for another heavy-gun profile when objectives/command need funded. **LT(+1) Hatamoto36–39 with +1 SWC** can fund its own attack but **LT and non-LT loadouts are distinct**; use NCO to exploit legal Special Orders without sacrificing an aggressive commander. Do not rate the plasma short-range gun as a 32in HMG; it should win by mobility, positioning and mission value. [Gunfighter apex/value and combat LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Mechazoid** is the native TacAware TAG with a potential legal Duo to reinforce JSA's midrange shooting; **Triphammer (48–53 in other current rosters; check this file for exact options)** is the cheaper mercenary with flexible AP Spitfire/HRL and a swingy damaged state. Mechazoid for mission/team integration, Triphammer when the saved points buy a real specialist or independent attacker.
