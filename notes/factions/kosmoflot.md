@@ -872,3 +872,8 @@ Important chronology:
 - therefore old criticism of those profiles should not be copied directly into current listbuilding decisions.
 
 The Bureau Aegis recap pages are useful for reconstructing posted lists and presenter themes, but some prose summaries are explicitly AI-generated / not fully reread. Treat the **actual Army lists and repeated presenter choices** as stronger evidence than any suspicious summary sentence.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Distributed Smoke** is the useful differentiator: **Regular Varangian 10/0**, Duroc, Irmandinho and compatible fast assaults allow several independent route screens while a scorer/attacker works elsewhere. A Varangian is not an Irregular White Company Varangian: training matters to value as much as point cost.
+- **Counterpoint:** multiple smoke carriers prevent one lost source from ending your plan, but can waste Order slots if every lane is already safe; plan destination squares and check enemy MSV. [Cross-game tier guide](../list-building/vision-control-units-apex-and-value.md).
