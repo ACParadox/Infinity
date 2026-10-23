@@ -773,3 +773,9 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Tiger Soldier BSG20/0, HD29/0.5 and Paramedic26/0** provide true Combat Jump/ordinary Parachutist backline pressure, trading BS13/Mimetism(-3) for landing risk. **Cube Jäger BSG15/0, E/Mitter SMG18/0** is cheaper ordinary edge Parachutist: disruptive late Classified/anti-tech role, not Combat Jump. **Blade-Ops Engineer Parachutist30/0** combines Decoy(2), E/Mitter and Tactical Awareness; **FD+20 Engineer30/0** is another loadout. **Kunai Hidden and Guilang Infiltration** offer on-table alternatives; **Haidao/Táowù/Emily CoC** protect an active LT but are separate choices.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
