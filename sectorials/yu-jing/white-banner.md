@@ -762,6 +762,12 @@ All standard roster units not listed in this reverse index have no Fireteam acce
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Tiger Soldier BSG20/0** is an efficient BS13/Mimetism(-3) **Combat Jump or ordinary Parachutist** attack; **Spitfire29/1.5** is justified only when multiple backline targets exist, with **HD29/.5 / Paramedic26** for role-based objectives. Don't claim legal direct **Parachutist(DZ)** on ordinary Tiger. A Camo **Guilang/Daofei** approach is often lower variance if the enemy's landing spots are all defended; **Dāoyīng LT+1** supplies command resources but isn't an airborne Lieutenant by being a backline commander.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
