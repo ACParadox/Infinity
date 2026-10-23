@@ -1017,3 +1017,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Authorized Bounty Hunter cheap body** — small-base template/Panzerfaust or close ARO if profile equipped, useful only in legal team/roster
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 plus Yáozăo3** is the distinct STR/disabled-state safety net where available in this roster. **Cube targets** can spend Command Tokens on failed Doctor rolls; **Remote Presence** can do so with Engineer, but these rerolls are target-specific. A linked cheap support specialist can save movement Orders at the cost of Servant/Fireteam incompatibility when its Peripherals are deployed. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
