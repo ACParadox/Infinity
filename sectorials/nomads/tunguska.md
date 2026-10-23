@@ -746,3 +746,9 @@ The pinned Tunguska Army data links Reinforcement roster **599**. This reference
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** preserves Szalamandra/Hollow-Men SWC; **32/1.5 HRL+AP SMG** buys a bigger attack. After those guns and the hacking network remove threats, its Jet Propulsion and Go-Bot create unusually deep flanks. **Robert Shepherd's detailed Tunguska review** strongly opposes treating it as a default opener: S7/ARM2/No Cover and Mimetism(-3) are hard to hide or maintain under MSV/warhorse/repeater opposition. It is not a Fireteam member.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

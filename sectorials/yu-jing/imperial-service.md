@@ -957,3 +957,9 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 **Lóngwáng (68–72)** is a control-oriented TAG: Adhesive Launcher Rifle and Riotstopper help neutralize high-threat targets without requiring conventional damage; **NCO AP HMG** spends an unused Lieutenant Order. It is best against vulnerable targets at useful range, not where an HRMC duel or anti-armor AP specialization would outperform glue.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Fēiquán AVA1:** **28/0 high-angle Pitcher, Sensor, E/M and +1 Special Die** is unusually valuable where native forward repeater coverage is thinner (**Irregular Order #47, Aug 2026**). Pair with available IS KHD/Spotlight/Oblivion rather than treating a nonlethal 28pt vehicle as a gunfighter. **27/0 MULTI Rifle/X-Visor** is the direct-attack alternative, but less distinct than good ground shooting. S7/No Cover/ARM3 and hostile repeaters demand a hidden deployment and exit line.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

@@ -483,3 +483,9 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 **Blue Wolf** is the more aggressive multi-angle/close-assault deterrent, **Gūijiă** the conventional durable gun platform, **Lóngwáng** the AP HMG + Adhesive/Riotstopper control TAG with optional NCO. Choose according to the exact range/control problem: a 10-inch Berserk threat does **not** make rushing anti-TAG enemies optimal. Current vanilla Duo/roster rules govern any actual partnering, not a sectorial's link chart.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Fēiquán AVA1:** **28/0 Pitcher + Sensor + E/M Carbine(+1B) +1 Special Die** uniquely projects repeaters from aerial angles for KHD, Oblivion, Spotlight/Guided. **27/0 X-Visor MULTI Rifle(+1B)** is a limited alternative gun. The 28pt loadout lacks **lethal weapons**: never buy it as a sole attacker. ARM3/BTS3/W2/S7/No Cover demand safe routes; compare against cheaper ground repeater networks.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

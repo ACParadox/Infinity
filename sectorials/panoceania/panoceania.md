@@ -776,3 +776,9 @@ Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Ar
 **Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Redeye AVA1:** 37/1.5 **Spitfire+Blitzen** provides reactive E/M and anti-TAG/VH deterrence; 38/1.5 **Spitfire+Continuous Damage GL** threatens inaccessible targets. BS14, ARM6, Mimetism(-6), Sensor and Jet Propulsion excel at **follow-through on an angle** after a heavy PanO gun clears elite ARO. **Disagreement:** Shepherd rates the 1.5 SWC gun's opportunity cost poorly; WIP12/Irregular Order prize its reach. Take a separate long-range ARO clearer.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

@@ -839,3 +839,9 @@ These rows are intentionally separate from the standard Vanilla Nomads Fireteam 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** preserves precious SWC; **32/1.5 HRL+AP SMG** trades SWC for more direct firepower. Go-Bot gives a **Synchronized template/Flash Pulse fork**, not an extra Regular Order. **Disagreement:** some local scenes call it near-auto-include, while **Shepherd** argues ARM2/Mimetism(-3)/S7/No Cover and hostile Repeaters make it fragile. Best after a Nomad long gun/hacker clears serious AROs; reserve an exit Order.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

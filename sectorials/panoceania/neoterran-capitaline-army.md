@@ -681,3 +681,9 @@ Derived analysis aids, not official characteristics.
 **Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../../notes/factions/nca.md).
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Redeye AVA2:** **37/1.5 Blitzen** deters heavy targets; **38/1.5 GL** can reach prone/hidden defenders without frontal LoF. **WIP12 #201 NCA (Mar 2026)** values its BS14/Sensor/Aerial angles and a **Parachutist Blade Engineer** for distant ranged GizmoKit recovery. **Against:** No Cover, Hackable, SWC tax and need for Uhlan/Swiss/Squalos to suppress hard ARO first; no Redeye Fireteam rights.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**

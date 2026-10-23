@@ -761,3 +761,9 @@ All standard roster units not listed in this reverse index have no Fireteam acce
 **Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Fēiquán AVA1:** **28/0 Pitcher/E/M/Sensor** creates high-angle hacking access; **27/0 X-Visor MULTI Rifle** buys modest ranged damage instead. **Irregular Order #47 (Aug 2026)** argues that White Banner already has useful ground Repeaters, making Pitcher less essential here than in **Imperial Service**, where it opens the network. Use only if the hacker payoff or Sensor matters; both versions are very vulnerable at S7/ARM3/No Cover.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
