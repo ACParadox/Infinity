@@ -680,7 +680,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Asawira AP Spitfire38/1.5** is the strong BS14/2W/BTS9 AP gun with real melee finish, best once a **Fiday** has forced/cleared the critical defensive seam; **BSG(+1B)32/0** saves SWC and dominates nearer objective-space fights. **Ragik**/Fiday are side/rear delivery, **not** substitute long HMG platforms. **Bokhtar LT and Parachutist are distinct loadouts**; **Farzan CoC24/0** is valuable because it safely insures a fighting Bokhtar/Asawira command strategy, rather than itself leading risky attacks. [Cross-game gunfighter apex/value and command-risk decisions](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Asawira AP Spitfire38/1.5** is the sturdy BS14/2W/BTS9 **non-TAG** armor-killer at midrange; **Boarding Shotgun(+1B)32/0** saves SWC for a second long gun and dominates objective-space corners. **Fiday** may force/clear the defender's screening so the Asawira spends the next Orders shooting relevant targets instead of walking into a prepared ARO. **Ragik** arrives at new angles but is not a long-lane heavy-gun substitute. [Non-TAG ranking and cross-category matchup guidance](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
