@@ -718,6 +718,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 **Active-turn gunfighter choice:** JSA's exceptional **Hatamoto** and **Oniwaban/Shinobu** excel at *moving into short-range/CC or mission objectives* rather than replacing a long-range HMG in fair ranged duels; choose them when terrain denies long sight lines or a protected target must be surgically removed. **Hatamoto combat Specialist / LT are distinct legal profiles**, with LT carrying amplified Loss-of-Lieutenant risk. **Kempeitai CoC17/0** cheaply insures a fighting Hatamoto LT while supplying a BSG corner threat; no CoC attack piece becomes an automatic primary gun. **Teishin19–21** can deliver a cheap backline/last-turn specialist rather than taking fair long-range FtF rolls. [Ranged gunfighter matchups and LT/CoC tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Aragoto Boarding Shotgun13/0** is a very fast **Regular+Impetuous, Mimetism(-3) bike** close-range trader; **20-15 MOV**, but no Smoke and remains vulnerable to mines/turret ARO. **Miyamoto Musashi Chain Rifle+EXP CCW21/0 Irregular** is a high-apex **CC25/MA5** killer who needs a real approach and is *not a disposable 5pt Chain*. His **25/.5 FTO Regular** is a different profile. **Oniwaban/Shinobu** Hidden assassins are expensive, safe deployment options, not warband swarms. **Kempeitai CoC17** protects an aggressive LT, avoid sacrificing it as a cheap CC attacker.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
