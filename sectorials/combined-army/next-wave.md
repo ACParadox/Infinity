@@ -716,3 +716,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Ikadron Baggage/Flamethrower** — cheap multi-purpose DZ corner guard and Repeater; contributes more than pure filler without being a long gun
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Med-Tech21** covers Doctor and Engineer behind forward **Achilles / Skyhound** pressure; **Slave Drones3** should be staged on different routes rather than stacked. **Gearhead Engineer/Cyberplug** can project support through an independently placed connected body, but **Cyberplug and Servant attachments cannot both be fielded on the same Controller**. Aerial **Skyhound** needs safe ranged GizmoKit/repair access, not assumed easy contact. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
