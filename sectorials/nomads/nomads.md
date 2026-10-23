@@ -840,6 +840,12 @@ These rows are intentionally separate from the standard Vanilla Nomads Fireteam 
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Shifta CoC21/0** is useful cheap succession that may also qualify for generic Specialist scoring; do not assume the profile is imported into sectorials. **Jazz/Moran** on the Vanilla roster where available supply complementary *backfield hacker + infiltrating FO* rather than redundant stationary specialists. **Evader Engineer vs SO** loadout and availability must be checked individually. Put a mission-scorer on a different flank from expensive attack Lieutenants.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
