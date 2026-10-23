@@ -1144,6 +1144,12 @@ Mission plan should preserve a **dedicated specialist among Irmandinho/Kibervolk
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Mirage-5 Margot+Duroc60/2** is the high-ceiling DZ-intrusion package: **both Parachutist(DZ)**, Margot BS14 AP Rifle/GL and personal TA/Specialist, Duroc 2W chain(+1B), Smoke/Super-Jump. The compound supplies **one Regular, one Irregular, one Tactical Awareness and one Impetuous token**, not two freely pooled Orders. It earns 60pts only if both bodies have jobs and opponent lacks covered side/rear edges. **Wallace LT38 Inspiring** supports eligible Irregulars from *on-table*, not an airborne LT. **Wallace CoC** is separate option; original pinned Scots Guard FTO has no NCO.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
