@@ -518,3 +518,14 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Malignos KHD 32/0** gives **Hidden/Camo, Mimetism and Dazer** alongside Trinity for late scoring and cyber ambush; **Shrouded KHD 26/0 vs HD 28/0.5** is the cheaper Camo specialist choice. **Nox HD 14/0.5** is budget Carbonite/Oblivion/Spotlight, **Mentor HD 25/0.5** a more expensive command/defense piece, and **Cadmus AD KHD 22/0** reaches unexpected rear objectives. **Victor Messer 30–31/0.5** brings Deployable Repeater/Cybermine and defensive equipment. **Why:** Shasvastii's Hidden Deployment and midfield positioning are the main advantages; don't replace mission Camo with an expensive network shell when few good Repeaters exist. Note standard **KHD does not disable ordinary TAGs**.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 7pt R-Drone — cheap transferable Order, Repeater and Flash ARO; uses S3 space and AVA.
+- 11pt Ikadron — Regular Baggage/Repeater with 2 light-flamethrower shots; guards lanes better than a bare beacon.
+- Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

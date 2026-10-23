@@ -1435,3 +1435,14 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Only a thin standard cyber package:** the **Wardriver HD14/1 SWC** (a 16pt option brings Disco Baller) provides Carbonite/Oblivion/Spotlight, but **WIP13, few Repeaters and 1 SWC** make it a *situational counter-tech* rather than an Interventor-style net. There is **no equivalent broad native KHD network** in the pinned Vanilla roster. **Why:** Ariadna's largely non-Hackable attack pieces and cheap Camo/warbands often deny enemy hacking by simply not being legal HD targets; spend SWC on a true ranged ARO/attacker first unless the mission or enemy TAG/HI makes a Wardriver's cyber effect worth more.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- Line Kazak — S2 baseline Regular Order with table-defense/decoy benefits; its cheapest loadout beats passive expensive guns.
+- Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
+- Baggage — prioritize a legal 8pt basic bot if actually on roster, remembering its large base.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

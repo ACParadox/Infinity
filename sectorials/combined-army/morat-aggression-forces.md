@@ -554,3 +554,16 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Dartok FTO Hacker 18/0.5** with Pitcher/E/M Grenades is the efficient active projector in its **legal Morat/Tarlok team**; **ordinary Dartok 23/0.5** trades cost for independent Combi/Pitcher/Cybermine role. **Warhorse, Religious Troop and Dogged** make a Dartok capable of taking more calculated risk than the cheapest W1 hidden hacker, but **WIP13** is not Interventor-level dueling. Pair its network with actual friendly anti-Hacker/anti-heavy tools and a gun to clear dangerous MSV ARO; confirm which **FTO** is allowed before attaching to the desired team. Do not import Kerr-Nau/Bit+KISS availability from other Combined sectorials.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 7pt R-Drone — cheap transferable Order, Repeater and Flash ARO; uses S3 space and AVA.
+- 11pt Ikadron — Regular Baggage/Repeater with 2 light-flamethrower shots; guards lanes better than a bare beacon.
+- Dāturazi — Regular smoke/CC/Impetuous pressure where legal; not merely passive cheap Order filler.
+- Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
+- Baggage — prioritize a legal 8pt basic bot if actually on roster, remembering its large base.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

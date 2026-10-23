@@ -798,3 +798,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Laxmee HD+ 24/0.5** brings **White Noise + Pitcher + Cybermine**, particularly valuable for defeating MSV snipers that challenge Janissary/Djanbazan shooting; it is not a KHD unless printed. **Leila Sharif KHD+Carbonite+Firewall(-3), 22/0** adds anti-Hacker lethal Trinity and limited anti-HI control; **Druze HD/Pitcher 25/0.5 vs KHD/Pitcher 23/0** improves projection via current legal team and X-Visor; **Al Hawwa' Camouflage KHD 22/0** scores safely forward. **Ghulam HD16/0.5** is a cheap redundancy slot. **Why:** pair **Laxmee's White Noise/Oblivion** with **Leila's Trinity**, rather than buying two identical hack devices. Exact linked profiles and Fireteam source must be checked in this Qapu chart.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 7pt Fanous — Regular Flash/Repeater REM with Mimetism; excellent cheap network but limited S3 concealment.
+- 8pt Kameel — Baggage/Repeater/Deactivator and Regular Order, particularly valuable with disposable launchers.
+- 11pt Ghulam — S2 protected Regular Order; FO/Doctor/deployable repeater profiles can earn their premium.
+- Korsan — low-cost Regular defensive/trading role when roster-legal; compare to passive Fanous before allocating slots.
+- Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

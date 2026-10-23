@@ -975,3 +975,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Barid KHD+Pitcher 14/0** vs **HD+Pitcher 16/0.5** is the budget question: take KHD to kill enemy hackers, HD to **Oblivion/Carbonite** ordinary HI/TAG and Spotlight. **Leila KHD+Carbonite+Firewall(-3) 22/0** combines both roles via explicit upgrade and Combat Instinct, especially with **Hunzakut/Rafiq Repeaters**; **Ghulam HD WIP14 16/0.5** supplies cheap additional HD. **Tuareg KHD 28/0 WIP15 + Firewall(-3)** buys Camo/Hidden midfield assassination and scoring; **Al Hawwa' KHD 22/0** cheaper Camo scorer. **Ragik HD 25/0.5 WIP15** is an airborne specialist, not a Turn-0 network node. **Shepherd's Haqq review** favors both cheap Barid networks and Tuareg surprise in *different* plans. Use Saladin/Coordinated disposable-network projection only if a Hacker will exploit it.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 7pt Fanous — Regular Flash/Repeater REM with Mimetism; excellent cheap network but limited S3 concealment.
+- 8pt Kameel — Baggage/Repeater/Deactivator and Regular Order, particularly valuable with disposable launchers.
+- 11pt Ghulam — S2 protected Regular Order; FO/Doctor/deployable repeater profiles can earn their premium.
+- Barid FO/Pitcher — combines Regular Order, forward objective access and a mobile network projection threat.
+- Ghazi Muttawi'ah — normally Irregular smoke/Jammer/E-M cheap defender; only count as pool Order with current legal conversion.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

@@ -623,3 +623,16 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Kerr-Nau KHD + White Noise 30/0** is a rare **0-SWC anti-Hacker + anti-MSV hybrid**, with X-Visor Pitcher, Plasma weapon and NCO: use when the team can *use* both cyber access and fighting. **Bit+KISS! HD+Trinity 25/0.5 or KHD+Oblivion 24/0.5** adds a perimeter/Repeater companion and an actual choice of target class. **Nexus HD + Oblivion(+1B) 24/0.5 / Carbonite(+1B) 27/0.5** supplies cheaper linked anti-heavy control; **Umbra Legate HD+ 38–42/0.5** has White Noise but costs more than a basic cyber backbone. **Malignos KHD32/0** is for Camo scoring. **Why:** KHD/White Noise Kerr-Nau solves an MSV lane and kills hostile hackers; it is not a full HD against HI without Bit/Nexus support.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 6pt Ímetron — best absolute Regular Order/point; mandatory Combat Jump and no weapons restrict defence.
+- 7pt R-Drone — cheap transferable Order, Repeater and Flash ARO; uses S3 space and AVA.
+- 11pt Ikadron — Regular Baggage/Repeater with 2 light-flamethrower shots; guards lanes better than a bare beacon.
+- Unidron — more expensive than a Flash REM but adds plasma and a Fireteam body; pay for that specific work.
+- Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.

@@ -809,3 +809,16 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Apex single Hacker:** **Anathematics HD + Trinity(+1B) 72/0.5 WIP16** has Hidden Deployment, Mimetism(-6), ARM5/NWI and Mnemonica: a terrifying cyber ambush but expensive as an *Order/points-efficient* network piece. **Charontid HD+ 69/0.5 WIP16** adds White Noise/Sepsitor/Plasma, but **not native Trinity**; buy for combat/command/vision control. **Bit+KISS! HD+Trinity 25/0.5** versus **KHD+Oblivion 22/0.5** compresses attack/control with peripheral-based projection; **Dartok 23/0.5** supplies an inexpensive Pitcher+Trinity alternative. **Malignos KHD 32/0** and **Shrouded KHD 26/0** score under Camo and counter enemy Hackers. An expensive WIP16 champion cannot replace cheap Repeaters or reliable mission specialists.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-building/cheerleaders-and-order-generators.md), circumstance guide and transcript disagreements. **This file remains authoritative for profiles, AVA, Training and Fireteam legality.**
+
+- 6pt Ímetron — best absolute Regular Order/point; mandatory Combat Jump and no weapons restrict defence.
+- 7pt R-Drone — cheap transferable Order, Repeater and Flash ARO; uses S3 space and AVA.
+- 11pt Ikadron — Regular Baggage/Repeater with 2 light-flamethrower shots; guards lanes better than a bare beacon.
+- Dāturazi — Regular smoke/CC/Impetuous pressure where legal; not merely passive cheap Order filler.
+- Unidron — more expensive than a Flash REM but adds plasma and a Fireteam body; pay for that specific work.
+
+**When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.
