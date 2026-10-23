@@ -578,3 +578,7 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doctor whose likely casualties **won't be eligible to revive** after Dogged. A roster-legal **112/Dozer/Irmandinho** should be valued for actual mission, Smoke and anti-state tasks. **Doctors fail lethally** on eligible No-Cube VITA targets without Cube reroll; recovery support is better reserved for a durable specialist or significant ARO worth bringing back. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Galwegian5/0** is extraordinary **Irregular Smoke+CC22 AP** disposable attack/pinning value; **Cameronian18** gives 15-10 mobility, 2W and T2 CC with Smoke; **McMurrough23** trades up with 2W/Smoke/PH16 and **AP+DA**. **Uxía25** brings actual **infiltrating/marker-assisted entry** but CC22/AP+Shock is not a Hidden Mono Oniwaban; **Wallace38/0 CC24 EXP** and **Cadin30 AP+T2** are durable multifunction frontline duelists requiring careful orders. Against a serious NBW/Guard defender prefer warband smoke and templates before charging. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
