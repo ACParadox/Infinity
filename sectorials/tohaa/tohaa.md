@@ -768,3 +768,14 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Aelis Keesan KHD 25/0 WIP14** brings **Sensor, Triangulated Fire, Regeneration and a useful combat gun** to a legal Tohaa Triad: Trinity/Cybermask are valuable secondary roles on a mission specialist. **Kamael HD17/0.5** offers much cheaper ordinary **Carbonite/Oblivion/Spotlight**, and **Wardriver HD14/1** adds otherwise scarce cyber utility at high SWC cost. **Why:** Tohaa's strengths are generally Triads, Eclipse and resilient objective carriers rather than a Nomad-style Repeater lattice. Field Aelis for *combined combat/specialist/anti-Hacker duties*, not because the KHD alone dominates an absent network; don't pay Wardriver SWC if Tohaa gun/mission resources are more urgently needed.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- Kamael — S2 Regular line/triad material; price its fireteam/mission role rather than chasing pure Orders-per-point.
+- Kaeltar — supporting SymbioMate/Triad capability adds utility but no separate Order for attached equipment.
+- Wardriver — useful only for its hacking/Specialist role; high SWC for a generic cheerleader is inefficient.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

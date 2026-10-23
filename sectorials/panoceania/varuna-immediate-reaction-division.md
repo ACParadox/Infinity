@@ -628,3 +628,16 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Zulu-Cobra Camo KHD/Pitcher 26/0** is the strong forward anti-Hacker/specialist option; **Kamau HD + FastPanda 22/0.5** moves HD threats into midfield from an appropriate team while **Fusilier HD 15/0.5** is cheap insurance. **Croc Men Hidden HD 33/0.5** buys surprise and objective access, not superior raw cyber output; **Echo-Bravo HD 26/0.5** brings Parachutist specialist angles. **Choice:** Zulu-Cobra protects Cutter/other hackable attackers from enemy KHDs, Kamau/Fusilier's **Oblivion/Carbonite** handles enemy HI/TAG; do not claim the KHD can do both.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Fugazi — Flash/Mimetism/Repeater mobile Regular Order, excellent only with a protected S3 slot and available AVA.
+- 8pt Mulebot — Baggage/Re­peater Regular Order, excellent if support reloads are useful and S4 bases fit.
+- Fusiliers — cheap small-base Regular line, suitable for mandatory Fireteams, Lieutenant uncertainty and guarded rear objectives.
+- Helot — excellent cheap Irregular ARO/roadblock, but does not provide a normal Regular pool Order by default.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

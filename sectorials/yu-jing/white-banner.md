@@ -773,3 +773,14 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Dokkaebi KHD + Spotlight/Pitcher 22/0** is a standout inexpensive **Trinity + scoring/Targeted** hybrid; **HD + Carbonite 23/0.5** is better if the main problem is *non-Hacker* HI/TAG. **Guìláng Infiltration/Camo HD 31/0.5** and Forward/Minelayer Repeater variants give the network **Turn-0 reach**, while **Tian Gǒu FTO KHD 22/0** offers protected specialist/hacker deception; **Yě Māo KHD25/0 or HD27/0.5** combines mobility and attack. **Irregular Order #47 (Aug 2026)** calls the Dokkaebi KHD near-auto-include because it still has Spotlight when no enemy Hacker is nearby; **counterpoint:** Spotlight now requires a saving roll and an HD/Oblivion shell may better stop many opposing TAGs. **Hac Tao ~58pt HD+Trinity** is a deliberately costly ambush plan.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Chaīyì — Flash/Repeater Regular REM when AVA permits; S3 footprint and fragility limit repeats.
+- Zhanshi — Regular S2 line with Fireteam/decoy utility; compare actual 7pt Flashbot and specialist upgrades before choosing expensive passive profiles.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

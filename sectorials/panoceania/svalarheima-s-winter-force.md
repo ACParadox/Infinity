@@ -705,3 +705,16 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **15/0.5 Fusilier HD** is the inexpensive generic anti-heavy Hacker; **Nøkken KHD 25/0 vs HD 27/0.5** adds FD+20 and Mimetism(-6) for objective access and safe network angles. **Locust KHD/Pitcher 27/0 with Firewall(-3)** offers Hidden/counterhacking; HD 29/0.5 trades to Oblivion/Carbonite. **Knight of Justice HD 45/0.5** has BTS9, W2 and BS14 Pitcher but needs a premium gun/link plan to repay its cost. **Why:** a distributed Nøkken/Locust and cheap HD is often safer than staking all network coverage on one 45pt hackable Knight.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Fugazi — Flash/Mimetism/Repeater mobile Regular Order, excellent only with a protected S3 slot and available AVA.
+- 8pt Mulebot — Baggage/Re­peater Regular Order, excellent if support reloads are useful and S4 bases fit.
+- Fusiliers — cheap small-base Regular line, suitable for mandatory Fireteams, Lieutenant uncertainty and guarded rear objectives.
+- 9pt RacerBot — mobile Regular Order with adhesive/PARA control, not simply a passive safe S2 soldier.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

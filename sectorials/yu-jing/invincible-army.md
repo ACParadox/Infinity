@@ -780,3 +780,14 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Hǎidào KHD + Pitcher 22/0** is the principal 0-SWC anti-Hacker/scoring support in a **TinBot-protected HI Fireteam**; **Dāoyīng Camouflaged HD/LT** supplies protected command and an alternative anti-HI program package. **Hac Tao Hidden HD+Trinity 58/0.5** is the premium protected killer/anti-heavy ambush but has a steep cost; **Zhēnchá HD+Trinity 34/0.5** supplies forward Camo surprise and a cheaper hybrid. **Liú Xīng HD + Firewall(-6) 30/0.5** can attack distant objectives via Combat Jump; **Shàng Jí HD 40/0.5** comes with a real HI fight/Order economy. **Why:** several hackable HI magnify the payoff from TinBot, KHD, anti-repeater clearance and **one HD with Oblivion**, not just more KHDs.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Chaīyì — Flash/Repeater Regular REM when AVA permits; S3 footprint and fragility limit repeats.
+- Zhanshi — Regular S2 line with Fireteam/decoy utility; compare actual 7pt Flashbot and specialist upgrades before choosing expensive passive profiles.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

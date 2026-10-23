@@ -276,3 +276,8 @@ The overall pattern is:
 - **TR = make the opponent spend Orders, with a possible backup-gun role.**
 - **Guided = convert Targeted/network infrastructure into lethal pressure.**
 - **Sensor/FO = spend your own Orders efficiently while solving missions, Camouflage, and network positioning.**
+
+
+## Cross-game cheerleader and Order-generator rankings (N5.3)
+
+See [Cheerleaders and Order Generators](cheerleaders-and-order-generators.md) for an apex/value comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.

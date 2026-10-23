@@ -96,3 +96,8 @@ Useful passive contributions include:
 - Baggage or similar support functions.
 
 Once a cheerleader starts costing significantly more than the minimum, it should usually stop being a pure cheerleader and acquire a meaningful second role.
+
+
+## Cross-game cheerleader and Order-generator rankings (N5.3)
+
+See [Cheerleaders and Order Generators](cheerleaders-and-order-generators.md) for an apex/value comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.

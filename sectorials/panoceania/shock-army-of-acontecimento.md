@@ -574,3 +574,15 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **17/0.5 Acontecimento Regular HD/FastPanda** is inexpensive proactive network access. **Scylla 32/0.5 HD + Trinity and Devabot** combines an anti-heavy/anti-Hacker device with a companion Repeater/flamethrower; the EVO Scylla profile supplies *different* supportware, not ordinary HD attacks. **Naga 27/0 KHD or 29/0.5 HD + Deployable Repeater** trades cost for Camouflage/Infiltration, valuable if the mission requires a dangerous midfield console. **Choice:** Regular for general control, Naga for physical scoring, Scylla if synchronized threats and upgraded programs are actually useful; protect premium support from enemy Repeaters.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Fugazi — Flash/Mimetism/Repeater mobile Regular Order, excellent only with a protected S3 slot and available AVA.
+- 8pt Mulebot — Baggage/Re­peater Regular Order, excellent if support reloads are useful and S4 bases fit.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+- Pathfinder — pay above Flashbot cost for Sensor/FO/scoring and network projection, not for idle backline Order fuel.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.

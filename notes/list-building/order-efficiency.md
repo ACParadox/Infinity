@@ -513,3 +513,8 @@ When evaluating a troop or package for Order efficiency, ask:
 8. **Does the profile justify its points and slot?** Order density and slot efficiency should both be considered.
 
 The best Order-efficient units often score in several categories at once. A cheap Forward Deploying Minelayer specialist with a Repeater, for example, may contribute an Order, save movement, create Turn-0 board control, project a hacking network, and score objectives without demanding many active Orders.
+
+
+## Cross-game cheerleader and Order-generator rankings (N5.3)
+
+See [Cheerleaders and Order Generators](cheerleaders-and-order-generators.md) for an apex/value comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.

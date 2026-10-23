@@ -4,6 +4,10 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [Cheerleaders and Order Generators — N5.3 apex/value tiers and contextual list-building guide](list-building/cheerleaders-and-order-generators.md)
+  - Pure Order-density vs utility vs mission-value rankings; Irregular/Tactical/LT/peripheral distinctions, Fireteam/command engines, and costed examples
+  - Direct YouTube/Podcast MCP transcript disagreements, 2026 sectorial cross-references and practical 30-second Order audit
+
 - [Hackers and Killer Hackers — N5.3 apex/value tier lists and matchup guide](list-building/hackers-and-killer-hackers.md)
   - Separate apex cyber combat potential from points/SWC and network efficiency for HD, HD+, KHD, mixed programs and EVO
   - When to field each profile, Firewall/TinBot and cyberplug caveats, repeater and Guided/White Noise architecture

@@ -969,3 +969,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Deva KHD 20/0, WIP15 + NWI/Immunity(Isolated)** is an unusually economical and durable killer specialist; **Deva HD 25/0.5** adds Oblivion/Carbonite if HI/TAG targets dominate. **Koga Ninja KHD+Carbonite/Deployable Repeater 30/0** is a rare **dual-target-field** forward ambusher; **Celestial Guard HD 14/0.5 WIP14** is budget general cyber coverage. **Zhànyīng HD+Zero Pain/Pitcher 24/0.5** makes a resistant network sentry, **Ninja KHD26/0** a hidden scorer. **Fēiquán VH Pitcher 28/0** creates long vertical network access, arguably more valuable here than White Banner's denser native projection. **Why:** ISS often benefits more from *one network builder plus one counterhacker* than a costly duplicate HD.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup guide](../../notes/list-building/cheerleaders-and-order-generators.md) for complete comparative tables and verified transcript disagreements. The **current roster above controls** legality, AVA, Training and Fireteams.
+
+- 7pt Chaīyì — Flash/Repeater Regular REM when AVA permits; S3 footprint and fragility limit repeats.
+- 6pt Kuang Shi — Regular Chain Rifle but requires the 13pt/0.5SWC Celestial Guard Monitor for its Core package; four plus Monitor cost 37pt/0.5SWC and occupy five slots.
+- 13pt Celestial Guard — WIP14 small-base line and Fireteam/Monitor option; smoke Monitor pays for Kuang Shi conversion package.
+- Authorized Bounty Hunter — cheap Regular Booty/ARO or trading role; check exact profile cost and Team legality.
+- Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
+
+**Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.
