@@ -666,7 +666,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice (N5.3):** **Skyhound33/0** is outstanding 20-5, Mimetism(-6), plasma/AP **angle generation** when terrain permits; beware S7/No Cover and enemy Repeaters. **Stinger NCO HMG30/1** is a cheap independent/eligible linked long-gun that can spend LT Orders when available. **Achilles** buys an exceptional second assault phase, but the **2026 Borderbash-winning discussion** stresses using other guns/teams to first remove Mimetism or hostile hacking; do not force Achilles into every opening FtF. Dedicated backup guns/specialists prevent an expensive Achilles package from stalling. [Current whole-game gunfighter apex/value and transcript review](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Skyhound33/0** is an outstanding **non-TAG aerial** BS14/Mimetism(-6) plasma/AP angle-maker when vertical terrain works; S7, No Cover and Repeaters punish its exposure. **Stinger HMG30/1** supplies cheap long-range backup; **Achilles** dominates a cleared close-assault route but does not need to take the first unfavorable FtF. **Borderbash 2026 winning discussion:** clear Mimetism and hostile hacking with other units before committing the expensive assault package. [Non-TAG and TAG value tiers, transcript evidence](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
