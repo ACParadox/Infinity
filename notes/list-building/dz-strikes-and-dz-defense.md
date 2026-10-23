@@ -1,5 +1,7 @@
 # List-Building Strategy — DZ Strikes and DZ Defense
 
+**Specific defensive unit picks (N5.3):** [DZ Defenders — whole-game apex/value, anti-Combat Jump, anti-Impersonation and cheap role compression](dz-defenders-alpha-strike-and-impersonation-apex-value.md). Covers 3pt 360º Warcor, 11pt Kaauri, 12pt Raveneye, 13pt Bluecoat, 14pt Fennec, Auxilia/Auxbot and repairable TR REMs, with verified profiles and podcast/video disagreements.
+
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
 [N5.3 Warbands/Cheap Trader apex/value tiers](warbands-and-cheap-trading-units-apex-value.md) covers **Ghazi/Daylami, Galwegian, Shaolin, Morlock, Diablo, Desperado, Dāturazi and Makaul**, with E/Marat versus normal Chain versus E/M CC range distinctions. **Warhorse cannot become Isolated**, normal Smoke is counterable by MSV, and Eclipse stops MSV. Screen cheap traders at corners instead of spending 60pt bodies for the job.
