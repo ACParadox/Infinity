@@ -1,6 +1,6 @@
 # ARO Units — N5.3 Apex, Points-Value and Defensive Field Guide
 
-**Researched 23 October 2026.** This guide evaluates **reactive units, hidden ambushes, Total Reaction (TR), Neurocinetics, expendable attacks, mines, templates and hacking-area denial** across Infinity—not simply who has the biggest sniper rifle. **Authoritative facts:** latest committed [N5.3 sectorial rosters](../../sectorials/) (Army Sept 2026 and repository FAQ v0.1). Profiles, AVA and legal Fireteams differ between vanilla and sectorials. Video/podcast opinions are interpreted against **current** profiles; old examples are not current rule authority. Rankings are **qualitative**, not tournament win rates or simulated FtF probabilities.
+**Researched 23 October 2026.** This guide evaluates **reactive units, hidden ambushes, Total Reaction (TR), Neurocinetics, expendable attacks, mines, templates and hacking-area denial** across Infinity—not simply who has the biggest sniper rifle. **TAGs used defensively are evaluated in their own section below, outside the non-TAG tier lists.** **Authoritative facts:** latest committed [N5.3 sectorial rosters](../../sectorials/) (Army Sept 2026 and repository FAQ v0.1). Profiles, AVA and legal Fireteams differ between vanilla and sectorials. Video/podcast opinions are interpreted against **current** profiles; old examples are not current rule authority. Rankings are **qualitative**, not tournament win rates or simulated FtF probabilities.
 
 ## Executive verdict
 
@@ -45,7 +45,7 @@
 | **A** | **Kaauri 11pt E/M Minelayer** (Tohaa) | Sixth Sense, Biometric, MSV1, S1 and E/M punish deep striker/Impersonation lines; can deny approach without shooting | Tiny fragile STR1, limited long-range reach, depends on exact attacker/entry vector |
 | **B/A** | **Warcor Flash Pulse 3pt / Daylami 6pt / Jackal 6pt** | Virtually no investment for actual ARO or direct-weapon risk; apex *trade* is huge if they delay/disable a key attack | Not high-probability winners against optimized gunfights; Irregular and/or dependent on team conversion |
 
-### Points-value tier list — best defence for the investment
+### Points-value tier list — best non-TAG defence for the investment
 
 | Value | Unit / role | Why buy it | Preferred situation |
 |---|---|---|---|
@@ -66,9 +66,19 @@
 | **A** | **22pt Taagma MSV2 Viral Sniper** | Cost-effective visor/Viral, Holomask uncertainty and Counterintelligence | Tohaa needs smoke/camo denial and source-specific legal Triad |
 | **A** | **24pt FTO Samekh/19pt FTO Son-Bae/20pt Riksha HRL** (where legal) | Can provide linked or cheap launcher deterrence and real secondary team function | Only with *verified* source Fireteam permission; FTO label alone does **not** grant link legality |
 | **B** | **47pt Hetkari / 46pt KoJ / 60pt Swiss** as *pure static ARO* | High apex but costly if they achieve only a single tax before being avoided | Buy when they also protect mission, remain recoverable, or preserve board shape over several turns |
-| **C for pure ARO** | **Any 70–100pt TAG left exposed as a “tower”** | Can deter, but losing a primary active attacker/Order resource for an unwanted FtF is severe | Only when multiple wounds, range, recovery, mission scoring and a deliberate counterpunch justify risk |
 
 **Important:** Not all S-value entries use Regular Orders. The rating captures *defensive trade efficiency*, not complete army value. A Warcor may be better at consuming an enemy's Order, while a 19pt TR bot is much better at contributing a **Regular** Order and a repairable persistent gun.
+
+## TAG AROs — separate category
+
+TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usually to win the active turn. A TAG holding a reactive lane must be judged against the chance of losing a costly primary attacker and its future Orders. See the separate [TAG tier guide](tags.md) for full cross-faction apex/value rankings.
+
+| TAG / ARO use | Reactive strength | When it makes sense | Why not simply leave it standing? |
+|---|---|---|---|
+| **Overdron Heavy Rocket Launcher, 51pt** (Combined/Onyx where legal) | Inexpensive-for-a-TAG long-lane HRL (+1B) threat; can serve as a tough emergency anchor while also providing active-turn pressure | The template controls an important required route, other ARO layers protect its approaches, and it has a safe exit/counterattack plan | Even a 51pt TAG is a much larger loss than a 20pt Q-Drone; mission and active-turn opportunity cost dominate a speculative defensive shot |
+| **Other 70–100pt TAGs as static “towers”** | Heavy weapons, multiple wounds/STR and armor can impose a serious FtF or deterrence | A truly essential lane, limited enemy anti-TAG counters, recovery support and a planned counterpunch | **Low points-value for pure ARO**: risking the main active-turn attacker to win a single reactive exchange is generally an unfavorable trade |
+
+**Default:** protect TAGs behind cheaper ARO layers; expose one reactively only when its lane meaningfully safeguards scoring or the survival of the army. This is a **role-specific ARO judgment**, not a downgrade to the TAG's overall apex/value tier in the [TAG guide](tags.md).
 
 ## Pick an ARO by the problem it solves
 
@@ -143,7 +153,7 @@
 | **Varuna** | 12pt Camo Helot LRL, 23pt Kamau HRL, 29pt Kamau MSV2 MSR, Sierra | Multiple cheap Helots vs one linked Kamau: different threats and Order/FT opportunity cost |
 | **Nomads/Bakunin** | 25pt Mk12 or 28pt Marksmanship Sin-Eater, 30pt Riot Grrl ML, 19pt Reaktion, mines/Morlocks | Sin-Eater specializes reactive Burst; Riot Grrl survives/links; Reaktion is generic cost-effective persistent defence |
 | **Tunguska/Corregidor** | 19pt Reaktion, expensive Triggerman sniper, Tsyklon Feuerbach FTO where legal; Moran/Heckler/Puppet objective traps | Triggerman has high ceiling but huge sunk points; cheap 360 TR plus repeater/mines guards two vectors |
-| **Combined/Shasvastii/Onyx** | 30pt Noctifer ML, 20pt Q-Drone Thunderbolt, R-Drone + hacker network, 51pt Overdron HRL as expensive emergency anchor | Hidden threat is worth more than always revealing; Q-Drone adds regular pool Order/repairability where one Noctifer cannot |
+| **Combined/Shasvastii/Onyx** | 30pt Noctifer ML, 20pt Q-Drone Thunderbolt, R-Drone + hacker network | Hidden threat is worth more than always revealing; Q-Drone adds regular pool Order/repairability where one Noctifer cannot. **Overdron TAG:** see separate TAG section |
 | **Haqq/Hassassin** | 6pt Daylami Panzerfaust, 20pt Nadhir Flammenspeer, 47pt Sunduqbut Neuro Feuerbach, 5pt Ghazi | Daylami/Ghazi are normally **Irregular**—great sacrificial ARO, not interchangeable with a regular gun. Sunduqbut is the high-cost reactive anchor |
 | **Yu Jing** | 18pt Hùsòng Thunderbolt, 19pt Son-Bae FTO launcher only where chart permits, mines/cheap linked templates | Hùsòng passive multi-arc denial vs Son-Bae FTO as **Fireteam weapon**, not a free upgrade to Guided ML |
 | **ALEPH/OSS** | 19pt Zayin Thunderbolt, 20pt Riksha HRL, linked Samekh FTO where legal, Proxy/hidden specialist threat | Regeneration/recovery and Rebots make repeatable bots appealing; don't apply old Dakini-focused links after 2026 OSS update |
