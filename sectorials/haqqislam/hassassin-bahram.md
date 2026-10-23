@@ -660,6 +660,12 @@ Validated against the pinned structured source before marking `status: current`:
 - **[Yellow Snake / GloriousEND — Hassassin Bahram N5 (Russian, 2025-11-13)](https://open.spotify.com/episode/1bXInrJXMyynx2r4zn3lxy)**. Unit-by-unit audio with **Shakush 48:41; Kameel 1:21:12; REMs 1:23:18**; podcast metadata/chapters checked, but transcript **not obtainable from MCP**, so no opinions attributed to it.
 - **[Tactical Awareness S1 Hassassin faction guide (2023, N4)](https://www.youtube.com/watch?v=zDwdPdy0GjE)**. Historical context only; not evidence for N5.3 profiles or points.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Farzan CoC 24/0** is among the strongest multi-role backups: Camouflage/infiltration/mine-and-mission value protects an **active Bokhtar or other expensive LT** while still scoring. A cheap Ghulam commander is viable when exposure is low; don't pay for CoC only to throw the Farzan away as first assault. **Saladin's Vanilla Haqq list-wide Inspiring engine is not automatically available to Hassassins.**
+
+See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
