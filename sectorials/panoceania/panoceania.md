@@ -773,6 +773,12 @@ The expanded [Vanilla PanO N5.3 tactical and list-building guide](../../notes/fa
 
 **Evidence status:** All six sources above were examined via **YouTubeMCP or PodcastMCP transcript**, not merely searched by title. Their tactical claims are attributed interpretation, not updated Army data. A curated [Corvus Belli forum PanO N5 source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) supplies further viewing but is **not** a substitute for transcript review. For general REM support/placement reasoning, see [REMs](../../notes/list-building/rems.md).
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Magistrate LT 19/0 Strategos** provides inexpensive flexible command; **Aquila FTO Strategos LT 52/+1 SWC** favors MSV-heavy shooting when SWC rebate funds another real threat. **Joan** rewards qualified Irregulars with Inspiring Leadership, while **Tikbalang LT(+1)** is a more dangerous solo gun; Magistrate/Firefly/Bolt CoC exist only on their selected profiles. Vanilla PanO has no standard Fireteam chart.
+
+See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
