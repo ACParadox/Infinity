@@ -658,6 +658,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Ko Dali 37/0 Combat Jump/Parachutist** is a genuine aerial strike; the **34pt FD+20** and 33/30pt FTO variants **do not inherit that AD simultaneously**. **Void Operator NCO or Ironside/Juggernaut fast attack** can exploit command Orders or self movement without being Combat Jump troops. **Harbinger LT13 + decoy** is cheap on-table command, not itself a rear-drop attacker; **Pandora CoC29/.5** is protected backup/support when chosen. Don't assume **Caskuda** legal unless Next Wave roster explicitly lists it (and its TauAware never becomes a generic Regular pool Order).
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
