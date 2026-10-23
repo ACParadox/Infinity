@@ -98,3 +98,8 @@ Supporting but obsolete: [Robert Shepherd N4 OSS faction focus](https://www.yout
 - **Maximus Agent and TAG Maximus are mutually exclusive**; beware old previews claiming both.
 - **Kinnara Eclipse does not substitute for ordinary smoke-shooting with an MSV Marut**; **Tarkshya is VH, not TAG** and TAGCom isn't a generic Vehicle buff.
 - May 12 source videos are **pre-release conjecture**; refer to the [current canonical OSS Fireteam section](../../sectorials/aleph/operations-subsection.md#fireteams) for actual Wildcard/FTO/required-source access.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Local alternatives to missing native ordinary Smoke:** **Yadu Disco 28/0** (FO/NCO/mission utility by specific profile), **Claire Lazhari Disco + Doctor(2W) 33/0**, **Kinnara Parachutist Eclipse 24/0**; **Asura HD+** projects *White Noise* when the target is MSV/Marksmanship and the Hacking Area reaches the intended zone.
+- **2026 Tactical Awareness disagreement:** value the cheaper 22pt HD+ / Pitcher White Noise option against specific visors, but some hosts prefer paying for a more broadly useful unit if those targets are absent; Yadu is cheaper Disco than Claire, Claire repairs/heals valuable bodies. [Vision tier guide](../list-building/vision-control-units-apex-and-value.md).
