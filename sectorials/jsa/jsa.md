@@ -702,6 +702,12 @@ Validated against Army snapshot `7.26246.159` on 2026-10-16:
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+**Shikami SO42/0 (or gun/tool 47/0)** is an apex carry/turn-3 objective specialist: 15-5, FD+10, Mimetism(-6), 2W, Eclipse, Climbing Plus and Super-Jump. **Ninja KHD26/0, FO30/0** is the hidden infiltrating console-taker; **Aragoto KHD19/0 or HD21/.5** wins lateral reach but is exposed; **Hatamoto SO34 or LT36–39** fights and scores at cost/risk. **Kempeitai CoC17** is cheap mission specialist/succession, provided the selected CoC is not marked Non Specialist.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
