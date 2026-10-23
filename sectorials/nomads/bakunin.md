@@ -840,3 +840,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Orphan Engineer** can supply Repeater/Fireteam utility and local **Lizard/REM** repair; a cheap **Zondbot** hub protects a long ARO route while the Orphan advances. **Reverend Healer/Avicenna** are stronger moving medical investments only when multiple valuable VITA models are actually recoverable. Do not buy a costly Doctor merely to attempt revival of 9–15pt disposable Moderators, and do not assume Orphan carrying Servant stays in a Fireteam. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Morlock6/0 E/M CCW + Smoke**, where rostered, is **anti-hackable armor trade**, not a premier raw MA5 assassin; a **Reverend/Morlock** screen lets expensive Bakunin firearms survive enemy CC approaches. Choose **templates, E/M, mines/Repeaters** against enemy CC monsters when a head-on engagement would cost more Orders than shooting. Any combat-ready Fireteam Engineer/Doctor is still principally a scoring/support model, not a dedicated mono killer. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
