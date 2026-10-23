@@ -567,7 +567,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Sogarat** offers premium **BS13 ARM6/2W** AP HMG or Feuerbach at ~52–58pts; choose AP gun against armor, Feuerbach for long ARO/EXP threats. **Suryat HMG Tactical Awareness43/1.5 (44 with TinBot)** spends its own activation and can advance in a legal Morat/Tarlok team, often the better *Order-value* than another expensive Sogarat when support is already present. **Rodok Spitfire29/1.5** is a shorter-ranged, cheaper team assault. **Sogarat LT56/0.5–1** benefits from individual Morat **Warhorse**, but not all REM/warbands ignore LoL. Kornak LT(+1) gives more flexible Strategos Orders; a **CoC Raktorak** is situational in a full Warhorse army. [Gunfighter and command apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Suryat HMG43/1.5** buys Tactical Awareness, BS13/ARM4/2W and legal Morat/Tarlok team movement: efficient repeat long-gun fire for points. **Sogarat heavy-gun52–58** instead takes an expensive **ARM6/2W AP HMG/Feuerbach** into dangerous armor exchanges. **Rodok Spitfire29/1.5** is the cheaper Fireteam midrange sweeper, with shorter bands and weaker armor. The correct gun is the one whose range/armor solution saves more Orders than its price difference. [Non-TAG gunfighter apex/value comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
