@@ -484,6 +484,10 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Hac Tao NCO HMG59/1.5** buys concealed first strike, MSV1/Mimetism(-6), 2W/ARM5 and actual **LT Order conversion** (if not already spent/regularized); use when revealing a high-value ARO safely is worth its price. **Tiger Soldier/Liu Xing AD** instead buy *position* to attack weak DZ targets, not repeated frontal HMG efficiency. **Dàofěi/Zhēnchá** are objective/near-field skirmishers, not automatic long-gun replacements; buying one of each can outperform a second 59pt hidden HI. Check selected Yu Jing army's actual Hac Tao/other weapon loadouts and team permissions. [Cross-game gunfighter and commander tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** is the more aggressive multi-angle/close-assault deterrent, **Gūijiă** the conventional durable gun platform, **Lóngwáng** the AP HMG + Adhesive/Riotstopper control TAG with optional NCO. Choose according to the exact range/control problem: a 10-inch Berserk threat does **not** make rushing anti-TAG enemies optimal. Current vanilla Duo/roster rules govern any actual partnering, not a sectorial's link chart.
