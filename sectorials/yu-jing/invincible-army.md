@@ -775,6 +775,12 @@ Refresh this file when any of the following changes:
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+**Tai Sheng FO+NCO 33–37/0** is an elite durable team scorer whose NCO consumes Dāoyīng LT(+1) Orders; **Tai Sheng CoC 36–40** adds succession on a different option. **Hǎidào KHD22, Engineer25, CoC24** each provide a *different* Specialist/backup role in legal links. **Krit Kokram Engineer35–40** repairs hackable armored teams while fighting; **Krit37 FTO-2 FD+20** saves early travel Orders. Avoid assuming LT personal Orders are freely pooled.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gūijiă** provides a true big-gun/armor alternative to linked HI; prefer it where its 3-STR TAG survivability, firing lane and **Shock** Fireteam access beat spending Orders on yet another HI gun. Count the full companion/Engineer/support cost, and protect it from hacking/E/M rather than relying on high ARM alone.
