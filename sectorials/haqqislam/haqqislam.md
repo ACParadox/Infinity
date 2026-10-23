@@ -980,6 +980,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 **Active-turn gunfighter choice:** **Mukhtar Viral Rifle25/0** is a low-SWC Mimetism/NWI soft-infantry and lower-BTS attacking solution; **MSV2 Red Fury34/1** trades price for anti-Mimetism volume. **Asawira AP Spitfire38/1.5** is a **BS14/2W/BTS9** durable close/mid anti-armor shooter, versus **Shakush HMG(Continuous)58/1.5** for a safer 3W/TacAware long-lane anchor. **Fiday/cheap rear attackers** can delete opposing Engineer/Hacker support instead of committing the Shakush into a hard FtF first. **Saladin LT39** is a superior army order engine with useful Irregular troops, **not the best direct ranged gun LT**. [Gunfighter apex/value and attack vs command LT tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Ghazi Muttawi'ah 5/0 Chain+Smoke, 5/0 E/Marat, 6/0 Jammer** are different cheap **Irregular+Impetuous** attack jobs. **Vanilla abbreviated roster lists E/Marat+Smoke**, but **Bahram printed E/Marat/Jammer variants omit Smoke**: preserve the difference pending exact profile verification; don't merge. **Daylami 6/0 LSG+Panzerfaust, 8/0 Camo+Panzerfaust** project anti-heavy from range without melee. **Saladin LT39 Inspiring Leadership** regularizes *eligible* Irregulars (Religious Troops excluded), changing pooled Order efficiency; **Farzan CoC24** protects expensive combat LT when actually legal.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
