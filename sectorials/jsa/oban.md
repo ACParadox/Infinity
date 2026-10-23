@@ -648,6 +648,12 @@ Validated against Army snapshot `7.26246.159`:
 - The Yojimbo mutual-exclusion relation was retained.
 - Reinforcement Army ID `1199` remains distinct.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Domaru LT(+1) 23/0** is a cheap route to extra personal Order pressure; **Kempeitai CoC 17/0 BSG / 20/0 Combi** is excellent budget insurance for aggressive Ōban commanders. A Kempeitai successor should guard **different ingress** from the LT's main assault. These are roster-legal Ōban options; don't infer that every other JSA sectorial has identical access.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
