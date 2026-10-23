@@ -845,3 +845,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 - **Total Reaction support** — use recoverable remote for routine lanes, rather than expose primary active gun
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Rouhani21 (WIP18 Doctor)** is a remarkably effective 90%-base linked VITA recovery piece; **Ghulam Doctor15 (WIP17)** is 85% for six points less. **Hakim24/25 Doctor(+3)** is best when a casualty is on the flank; **29/25 options with Parachutist Nasmat A2** cover a remote zone. **Claire33** is **Doctor(2W)** *or* **Doctor(+3) FTO**, mutually exclusive profiles. **Najjarun15 + Nasmat3** handles Maghariba/Shakush STR separately. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
