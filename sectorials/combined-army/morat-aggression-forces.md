@@ -569,6 +569,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice:** **Sogarat** offers premium **BS13 ARM6/2W** AP HMG or Feuerbach at ~52–58pts; choose AP gun against armor, Feuerbach for long ARO/EXP threats. **Suryat HMG Tactical Awareness43/1.5 (44 with TinBot)** spends its own activation and can advance in a legal Morat/Tarlok team, often the better *Order-value* than another expensive Sogarat when support is already present. **Rodok Spitfire29/1.5** is a shorter-ranged, cheaper team assault. **Sogarat LT56/0.5–1** benefits from individual Morat **Warhorse**, but not all REM/warbands ignore LoL. Kornak LT(+1) gives more flexible Strategos Orders; a **CoC Raktorak** is situational in a full Warhorse army. [Gunfighter and command apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Dāturazi Chain Rifle(+1B)14/0** is one of N5.3's best **Regular+Impetuous** Smoke/CC tools: **MA4, CC23, PH14, Warhorse**, and enables Yaogat MSV2 Smoke shooting instead of a costly fair gunfight. **Gaki4/0** is AP CC+Explode—not Chain Rifle; **Preta7/0** has Chain Rifle+Dogged, both Irregular+Impetuous. **Oznat FTO15–17+Hungries** is an *FT Master/order-economy alternative* (mixed Gaki and Preta legal as printed), not simultaneously an independent cheap smoke trader. **Kornak/Sogarat LT, Raktorak CoC25** are separate command options; Warhorse members resist LoL but non-Warhorse REMs do not.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
