@@ -572,7 +572,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Agamemnon AP HMG65/1.5 (LT same price)** provides cheap-for-TAG anti-armor Burst, TacAware and 3STR; its visibility makes it weaker into heavy Mimetism/Repeaters than a truly asymmetric attacker. **Achilles** is the premium **mobile breach-and-exploit** piece, most efficient *after* another tool defeats long defensive range/Mimetism; Fireteam escorts compress movement but add roster cost. **Myrmidon Officer CoC30–31** supplies Eclipse/CC plus safe succession for a fighting LT, **not** a disposable replacement for Achilles. [Gunfighter apex/value and attack-command tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Agamemnon AP HMG65/1.5** is a lower-cost **TAG** BS14/3STR/TacAware long-range armor-killer, but has no built-in MSV/Mimetism for unfair openings. **Achilles** is the elite **non-TAG** close/medium breakthrough and exploitation piece; it wins more useful attacks when a separate gun first eliminates strong Mimetism/long-range AROs. A legal Fireteam moves specialists up behind the attacker in the same Orders, but its required bodies add genuine cost. [Separate non-TAG and TAG attack rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
