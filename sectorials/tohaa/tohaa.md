@@ -763,6 +763,12 @@ This section is analytical and non-authoritative; source profile data and Firete
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+**Sukeul FO29/0** is 2W Symbiont, K1 gun, Warhorse and Deployable Repeater in legal Triad; excellent durable late carrier versus a **Clipsos FO26/0** Hidden/Infiltrating opener. **Kaeltar CoC21/.5 (1 SymbioMate) or 28/.5 (2)** compresses succession + protection of another scorer; **Taqeul CoC36** Pheroware is stronger as a combat/support operator but worse pure cheap insurance. Lt Sukeul FO29 is an exposed command risk, not automatic best button.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
