@@ -795,6 +795,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 **Active-turn gunfighter choice (N5.3):** **Cutter NCO MULTI HMG97/2** is the highest hidden/Mimetism(-6) first-shot gun ceiling, but its cost limits other attack lanes; **Tikbalang HMG69/1.5** is a faster Climbing/TacAware repeated angle; **Squalos MMR55/1** is cheaper sustained midrange with room for specialists; **Swiss Guard HMG56/1.5** buys hidden ranged attack without the S7 TAG tax. **Cutter LT95/2.5** is a *different* commander profile. **CoC Magistrate21/0** can insure fighting LTs only where legal. Check the selected army's skills/team chart rather than importing Kestrel-specific Squalos +1SD. [Full apex/value and gunfighter LT/CoC rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Motorized Bounty Hunter8/0 BSG+Heavy Riotstopper / 9/0 SMG+Chain-colt(+1B)** supplies exceptionally cheap 20-15 **Irregular/Impetuous** movement and a close-range template or nonlethal stop, but **no Smoke**; bad on a mine-covered side. **Jackals** are Kestrel access, not automatically Vanilla PanO. **Banshee19** and **Crux Knight47** are separate budget AD/high-price hidden attack, not a 6pt melee warband. **Magistrate LT19 or CoC21** and fast Tik gun should survive after cheap trading is spent; no Kestrel fireteam bonus in Vanilla.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
