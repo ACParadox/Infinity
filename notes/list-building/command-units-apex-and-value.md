@@ -1,6 +1,6 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
-**Attack-focused LT/CoC cross-reference:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) separately grades **shooting LT apex/value** (Marut, Zeta, Tik, Sheskiin, Kriza, Gamma) and **CoC successor support for those attack plans**. This guide remains the authority for all-army command engines, insurance and legal succession loadouts.
+**Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide remains responsible for commander roles, succession, and the related economy decisions.
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
