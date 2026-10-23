@@ -777,7 +777,7 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Sukeul HMG33/1.5** has BS13/Mimetism−3, active **2W Symbiont** and flexible Triad movement; **Sukeul K1 Combi FO29/0 (LT alternative29/0)** instead counters armor and finishes missions at shorter bands. **Gao-Rael MSV2 Spitfire30/1.5** is the direct answer to Mimetism/smoke in legal Triads, but BS12/Spitfire loses raw range versus Sukeul HMG. **Gorgos AP HMG63/1.5** brings TacAware and greater armor/STR at the cost of large Hackable investment. **Kaeltar CoC21/0.5** can protect a fighting Sukeul LT and confer SymbioMate utility but has poor direct shooting itself. [Whole-game gunfighter and commander-tier analysis](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Sukeul HMG33/1.5** is a **non-TAG** BS13/Mimetism(-3)/active 2W Symbiont shooter in a useful Triad; **Sukeul FO K1 Combi29/0** trades range for armor removal and mission access. **Gao-Rael MSV2 Spitfire30/1.5** is the anti-Mimetism/smoke alternate, with shorter bands. **Gorgos AP HMG63/1.5** belongs to the separate **TAG** ranking, paying more for ARM7, TacAware, and possible Chaksa support; Fireteam mobility and objective role are the reason cheaper infantry guns compete. [Separate TAG/non-TAG ceiling and points value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
