@@ -128,6 +128,49 @@
 
 **Support notes:** **Fugazi AVA1 (7)** is excellent only if a Flash Pulse/Repeater/Regular Order is worth the model slot—do not auto-include over a role-complete Fennec or linked Jackal. **Sāchā (6 Irregular)** is a situational FD specialist/E/M grenade filler when permitted by current ITS. **Mulebot Baggage** matters when reloading supported disposables or reinforcing an active REM/hacking plan, not by default. **Tech-Bee TAGCom** currently boosts **Dodge (PH+3)** and **GizmoKit (PH+1)**—**not BS+1**. With TAG Maximus or Tikbalang, evaluate repair architecture (Tech-Bee, Machinist, Palbot) rather than casually assuming a Doctor/Paramedic can repair a TAG.
 
+## Additional profile decisions — October 2026 uploaded guide
+
+The uploaded *Kestrel Colonial Force — listbuilding and profile selection* guide overlaps substantially with the transcript-researched architecture, roster, TAG/REM and opponent-disagreement tables above. Preserve those existing comparisons rather than duplicating them. These are the **material additional decisions** or clearer distinctions from the new guide. The upload's source suggestions are **not freshly transcript-verified in this merge**. [Pinned Kestrel roster and Fireteam chart](../../sectorials/panoceania/kestrel-colonial-force.md) remain the authority for legality.
+
+### Fennec / Pathfinder — which utility actually adds a new role?
+
+- **FO/Sensor/Disco Fennec** is excellent *when Sensor and vision control are missing*: one cheap Regular Order scores, detects markers and helps an attack piece cross defended angles.
+- **Thunderbolt (+1B) / Minelayer Fennec** is the higher-marginal-value second choice **when a Pathfinder already supplies FO/Sensor**. Why: an extra deployment mine and 0-SWC ranged contingency add a different layer rather than duplicating Sensor. A Disco Fennec is still justified if repeated Camo encounters or its vision-control effect are part of the plan.
+- **Hacker/FastPanda Fennec** is a *network tool*, not a universal Hacker requirement. Why: WIP12 struggles in hostile hacking grids, but forward Repeater projection can make another friendly Hacker or protection plan matter. Ask where the FastPanda will go and who will exploit it.
+- **14-point Pathfinder versus 17-point Tactical Awareness Pathfinder:** both do FO, Sensor, Repeater, Triangulated Fire and Deactivator work. Buy TacAware when it funds actual development, retreat or Fireteam movement; in a group that needs its **own unlinked Specialist** but has no useful partner, the cheaper version may suffice.
+- **Partner route check before any Duo:** a fast TAG + Pathfinder often wants to advance toward the same lane; a static backline gun + Pathfinder may not. The first arrangement compresses useful movement; the second can strand either the gun or the Specialist. Kestrel Wildcards do not waive the native **ARMORED/KESTREL required-choice** conditions.
+
+### Squalos / Tikbalang choice after accounting for the Order engine
+
+| Actual need | Favor | Why / caution |
+|---|---|---|
+| Mobile independent killer with climbing, Mimetism and mine | **Tikbalang**, often non-LT if a Pathfinder Duo must persist | Mobility and concealment improve attack and retreat geometry. A **Tik LT** spending its own LT Order **leaves its Fireteam**, so do not count those LT Orders as intact Duo activations |
+| Spend unused LT Orders while an Armored Duo remains intact | **Squalos Mk-II NCO MULTI HMG + TacAware Pathfinder** | NCO routes the command resource to the linked attacker without the same *personal LT Order* break; must have a valid LT/NCO economy |
+| Long-range gun with indirect answer to hidden support | **Squalos HMG + grenade launcher** | Occasional speculative or obstructed-target attacks are an option, not a license for speculative-fire spam |
+| Cheapest durable TAG body for midfield/support rather than an apex shooter | **Squalos MULTI Marksman Rifle** | Saves points/SWC for Specialist/ARO/secondary threat; weaker long-range active problem-solving must already be covered |
+
+**Sequencing check:** use both partners' eligible Tactical Awareness activations while their linked movement matters, then commit whichever piece must break away. An NCO in another independent team (such as an eligible Firefly or Sforza) can instead convert the Tik LT's additional Orders, preserving a Tik/Pathfinder Duo until it is no longer required. Separate **Chain of Command** physically from the aggressive Lieutenant.
+
+### Drummer / Maximus / Dart — peripheral and specialist opportunity cost
+
+- **21-point FO Drummer + Drumbot-5:** low-cost synchronized scoring and a second physical body. Useful when you need mission reach without buying a premium gun, **not** because two bodies universally grant two objective interaction rolls; the scenario and Peripheral rules govern those attempts.
+- **42-point HRMC Drummer**, **40-point Neurocinetics Feuerbach Drummer**, and **47-point FO + combat bot + Drumbot-5** are fundamentally different roles. HRMC maximizes one active gun package; Neurocinetics purchases an ARO; the 47-point controller packages buy a bigger combined-arms toolkit. The controller is a vulnerable W1 commitment, so take the expensive one only when its extra bodies/weapons actually solve different engagements.
+- **Agent Maximus + Minimus** versus **FTO Agent Maximus:** the **48-point option includes the synchronized Peripheral**, adding nearby E/M/close-range angles, whereas **45-point FTO replaces Minimus with TinBot (Repeater)**. Do not treat the peripherals and team integration as the same benefit. The Kestrel Fireteam chart lists **MAXIMUS AGENT without an FTO-only restriction**; still check the **current Peripheral/Fireteam interaction** before assuming simultaneous linked and synchronized activations.
+- **Dart with Sharvara K9 (42/0.5)** is for active midfield hunting/attack forks; **Dart with Minelayer (36/0.5)** is cheaper when concealment, prepaid mine coverage and late scoring are the real jobs. Paying for K9 and leaving it idle wastes the premium; neither option is a Kestrel Fireteam member.
+
+### Less obvious independent specialists and NCO choices
+
+- **Quinn:** the **26-point MULTI Marksman FO** is a compact MSV1 ranged Specialist; the equally priced **MULTI Rifle/Disco Baller FO** is worth it when an actual vision-control route is part of the plan. **Quinn has no Chain of Command option** in the pinned Kestrel roster.
+- **Emily Handelman:** the **22-point E/M GL FO** creates indirect control, while **24-point combined GL/E/M GL** buys a broader template/indirect toolbox. She has **Number 2, not Chain of Command** in current Kestrel. An infiltrating **11-point Jackal E/M GL Minelayer** can cover the cheaper disruptive angle; Emily is justified by her **Regular status, FO, WIP14, Number 2 and Wildcard access**, not by magically superior speculative-fire odds.
+- **Sforza FTO:** NCO lets a separate group or team spend the LT resource when a Tik LT would otherwise fracture a Duo. Take him when the Viral/Adhesive/X-Visor package adds a real engagement type, not as another generic gun.
+- **Knauf:** unlinked MSV1/Mimetism(-3) MULTI Sniper with no Fireteam dependency. Better when long-range visor fire is missing, worse if Hetkari/Black A.I.R./Griffin already fulfills the same role for the same Order budget.
+- **Bipandra TacAware Doctor:** worth 25 points when the active link can regularly use her additional activation and valuable HI models are actually recoverable. A 12-point Fennec Paramedic is cheaper insurance when the team is static.
+- **Firefly NCO versus CoC:** a profile offering NCO and repair/hacking/defence can be useful to a TAG-LT plan, but **CoC's survival role favors deploying the backup away from the Lieutenant's attack path**. The best NCO location and best CoC location may be different.
+
+**Fast marginal-cost question:** after buying a primary attacker, ask whether the next 3–20 points purchase (a) another useful Order and scorer, (b) a genuinely different attack mode, (c) protected recovery or succession, or (d) a duplicate ability already supplied by Pathfinder/Fennec/Fireteam. Favor the first three unless the mission or expected opponent explicitly rewards redundancy.
+
+---
+
 ## Opposing opinions — shortest useful version
 
 | Decision | Take A because… | Take B because… |
