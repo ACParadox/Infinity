@@ -970,6 +970,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Hassassin Fiday BSG23/0** is the best cheap Impersonation backline opener (one W, Smoke, DA), **Hussein Al-Djabel33/0** trades points for superior CC/Viral; check roster permission for each. **Ragik BSG(+1B)23/0 or HD25/.5** attacks or scores from Combat Jump/ordinary Parachutist, not guaranteed DZ-edge access. **Bokhtar Parachutist49/0 or52/1.5** is a premium two-Wound sustained flank; **Bokhtar LT45/46 is a different FTO profile, not airborne LT**. **Farzan CoC24** gives on-table succession where legal; it should not be the first disposable assassin.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
