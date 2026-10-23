@@ -541,6 +541,8 @@ These tags are analytical conveniences for modular list-building, not Army chara
 
 ## Community tactics from N5 video/podcast transcripts (reviewed 2026-10-19)
 
+For detailed profile-by-profile choices, Fireteam architectures, defensive shell versus active-turn tradeoffs and annotated source leads, see the [Varuna N5.3 tactical and list-building guide](../../notes/factions/varuna.md). **Corrections:** current Varuna has no CoC profile; Quinn is not CoC. The roster and chart above are canonical.
+
 **Evidence:** Opinions below come from N5-era creator transcripts (mostly October–December 2025), with cross-sectorial PanO REM material and one clearly marked historical podcast. **The current N5.3 profiles and Fireteams above take precedence over older speaker recollections.** This is tactical interpretation, not an alteration of roster rules.
 
 ### Winning with Varuna: a five-part checklist
