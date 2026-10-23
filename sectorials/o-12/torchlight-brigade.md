@@ -734,6 +734,12 @@ Effective Wildcards for Mobility exclude Sonya and Jamie Rover but include Hippo
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+**Strider SO27/0 or FO29/0** is Camo/FD+20/NWI/NCO: a self-delivering specialist who can spend **Raveneye LT(+1) Orders**. **Raveneye FO base12, CoC18, LT17** are different mission/command options; CoC18 is cheap protected succession and scorer. **Vidoc FTO Doctor19/0 + NCO** moves with allowed Fireteams and heals while scoring; **Ment CoC** can fill a cheaper alternate backup. Choose distributed routes over one big attacking team on far-apart console missions.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
