@@ -869,6 +869,12 @@ This index is generated from the canonical chart above. If it ever conflicts wit
 - Conversely, the source rows for Ment Agents are plain `MENT`, so Ment option `1` remains legal in Security and Bronzes despite not carrying `FTO` in its profile name.
 - Source pinned at Army `7.26246.159`, backup commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`, blob `995037912a4871ef301469d701b9006bbea3371d`, verified 2026-10-15.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+Use **roster-legal Kappa/Razor/Nightshade/KHD/Hacker and Doctor/Engineer** tools according to current Starmada access, not automatic Vanilla O-12 availability. **Fast Specialist or legitimate O-12 AD** can take a far objective while a separate **medical/technical tool** covers Classifieds. **CoC (Non Specialist)** never qualifies for generic consoles solely from CoC; premium TAG/HI may carry/hold a zone but is not necessarily a button pusher.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Zeta** is the S7 HRMC centerpiece for high-powered ranged engagements and vertical routes (Climbing Plus); it needs dedicated hacker-screening and mission scorers, not just another gun. Compare NCO/lieutenant choices *only if this sectorial's current profile actually offers them*. When missions require many distributed specialists, reserve enough points for the excellent Starmada objective network.
