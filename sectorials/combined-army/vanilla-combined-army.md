@@ -824,6 +824,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice (N5.3):** **Avatar LT122/3** has extreme BS15/Mimetism(-6)/ARM9 command+shooting ceiling but weak *point-value* when support Orders collapse; **Overdron HRMC62/1.5** is the economic **Albedo vs enemy MSV** and AP heavy-gun answer; **Sheskiin MULTI Rifle48/0 or Red Fury50/1** handles short/midrange kill chains and CC/Protheion. **Vector Spitfire26/1.5** solves an MSV2 + Mimetism/smoke lane at a fraction of Avatar points; needs an actual favorable route. **Podcast dissent:** LoL #142 considers Avatar poor value; Robert Shepherd's 2026 analysis emphasizes more affordable supporting guns, without denying Avatar's head-to-head ceiling. [Cross-game tiers and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Dāturazi Chain(+1B)+Smoke14/0** is a **Regular+Impetuous, MA4/Warhorse** smoke engine and anti-CC trader; value rises with Yaogat/other actual legal MSV2 gun. **Gaki4/0** is Explode/AP CC only; **Preta7/0** has Chain Rifle+Dogged. Cheap melee cannot guaranteed-hit a 3W TAG: plan movement/CC and count AROs. **Rasyat25** is a different *Eclipse enemy-DZ* attacker, not a 14pt Dāturazi profile. Combined TAG/REM don't inherit universal Morat Warhorse immunity. **Caliban CoC Shas-only** should not be imported as Vanilla backup.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
