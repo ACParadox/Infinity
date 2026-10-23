@@ -652,6 +652,12 @@ See the [Next Wave N5.3 tactical and profile-selection guide](../../notes/factio
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Harbinger FO13 / Commlink+1 SO15** supplies low-cost Regular buttons/mission infrastructure alongside cheap 13pt LT+decoy. **Pandora CoC29/.5** can score while supplying Research/hacking if team use is legal; a pricey **Achilles/Ironside/Juggernaut** gun is not automatically a Specialist because it escorts one. **Blackheart/Steeljaw Irregular** require appropriate Fireteam Master interaction before counting link economy. Prefer two independent scorers when big hero team is exposed.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
