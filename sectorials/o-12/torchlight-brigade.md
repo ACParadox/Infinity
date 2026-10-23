@@ -797,3 +797,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Lambda Engineer16 + Yudbot3** is the cost-effective **Wrecker/REM** hub. **Kludger23 Engineer** can follow the fast midfield **Firebat/Silverstar** attack path with Mimetism and jumping, useful when a static Yudbot is too far back. **Vidocq FTO Doctor19** moves with a legal Fireteam for VITA recovery. **Firebat's Tech-Recovery** enables ranged GizmoKit removal of multiple eligible states; **ordinary Engineer already clears all eligible states in one successful contact WIP roll**, so there is no extra magic in Tech-Recovery for contact. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Raveneye FO+Minelayer 12/0** starts an **E/M Mine or Cybermine** at the DZ/route while remaining an Order-generating Forward Observer/Deactivator. **Moonraker15/.5 Shock Minelayer** is a cheap FD(+20) outer-layer REM/adhesive speed bump, not a home-DZ 360º sentry; **Warcor 360º3/0** is the disposable edge Flash. **Peeler/other reactive guns** should cover the *next* square after the initial mine. **Counter:** do not conflate **Raveneye 12pt FO** with its 17pt LT(+1) or 18pt CoC profiles; overload of static mines can leave elite Torchlight action teams short on active Orders or scoring.
+
+[Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
