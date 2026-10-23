@@ -563,6 +563,12 @@ These tags are analytical conveniences for modular list-building, not Army chara
 - Scylla/Charybdis selection is represented as the source exposes it: ordinary Scylla options plus the selectable 37-point / 0.5-SWC two-model FTO package, with separate Wildcard rows preserved.
 - Main and Reinforcement charts are not merged.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+An objective-heavy Acontecimento list needs **actual FO/Hacker/Engineer and Doctor** options on independent paths, plus a protected late closer rather than every point in Bagh-Mari/Regular ranged guns. **Pathfinder-like FO/Sensor REMs**, where present in this roster, give economical button and Camo-clearing utility, but compare them to any **infiltrating/Forward-Deploying Specialist** and the required Fireteam anchors. Do not import Vanilla PanO or Kestrel Wildcard permissions.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Tikbalang** is the reliable mobile value assault: Climbing Plus, Mimetism, heavy gun and close defence. **Dragões** is a dedicated ranged anchor when the table rewards a heavy fire lane over mobility/marker safety. Compare both with the actual Moto-mecanizados Fireteam and Engineer cost, not chassis alone; do not use old N4 cost claims.
