@@ -767,3 +767,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Best passive network piece:** **Moran BSG Repeater+CrazyKoala Minelayer 15/.5**, AVA2: infiltrated Regular FO, perimeter tripwire and immediate hacker ARO access. **The Camo(1 use) BSG 16/.5 is a *different profile* with no Repeater.** **Bandit 25/.5** can Minelayer a Shock Mine or Deployable Repeater but is Irregular; **Shifta E/M Minelayer 17/0** adds Surface Strategic Deployment/FT utility, not true Infiltration. **Counterpoint:** two Morans/Jazz/Vertigo already commit substantial SWC, so choose Guided only when the mission/network justifies it; enemy Sensor/Deactivator or non-Hackable scouts may sweep them.
 
 [Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Clockmaker18 + Zondbot3** is the cheap safe home repair network; **Tomcat Engineer22/26 incl. Zondcat** or **Carlota28/32 incl. Moriarty** reaches a downed **Gecko/Gator/REM** on a distant flank by Parachutist/Climbing. **Evader Engineer24/29/35** is durable combined assault/repair, while a **Wildcat Engineer25** can pay too much for mismatched combat/tools (Toolbox video dispute). **Daktari14** is the inexpensive VITA Doctor. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
