@@ -756,6 +756,12 @@ Wildcards use the global Wildcard row of the White Banner chart and may join oth
 
 All standard roster units not listed in this reverse index have no Fireteam access in the pinned White Banner chart.
 
+## Mission specialist / button-pusher selections (N5.3)
+
+**Dokkaebi KHD+Spotlight22/0** is excellent anti-Hacker + physical scoring + Pitcher/Spotlight; **HD Carbonite23/.5** is a better anti-HI/TAG program route but a *different profile*. **Gŭiláng camouflaged infiltrating FO/Hacker**, and cheap **Zhanshi/basic FO** complement it on different objective flanks. A premium linked gun must not be the only button access after the midfield infiltration is removed. This sectorial's team chart controls eligibility.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
