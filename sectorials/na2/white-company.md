@@ -785,3 +785,6 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
 
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Zhanshi Yīshēng14 WIP13** is the 65%-base budget VITA healer; **Mech-Engineer14 WIP13 + Yáozăo3** is the 17pt **Gūijiă/REM** repair line, rising from 65% to **87.75%** only with a qualifying Remote Presence target and Command Token. **Hǎidào Engineer25** brings NWI and Fireteam utility when a forward HI recovery route is needed. **Scarface & Cordelia** includes a dedicated companion Engineer, but her survival and path still matter. [Recovery support tiers and real success probabilities](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
