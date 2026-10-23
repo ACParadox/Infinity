@@ -1,0 +1,109 @@
+# Vision Control — N5.3 Apex, Points-Value, and Matchup Guide
+
+_Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates.** Current rules: N5.3/FAQ v0.1; unit/profile and Fireteam authority: [current sectorial references](../../sectorials/). Price/SWC below identify **specific roster profiles**; a unit's other profiles, AVA, Regularity or link rights may differ. Older video/podcast tactics are not proof of current legal profiles._
+
+## 30-second verdict
+
+- **Best repeatable Eclipse/vision-control engine:** **Tohaa Kriigel Mirrorball (21/.5)**; **Taqeul (35–36/0)** brings durable command/Pheroware alternatives. **Mirrorball** projects without LoF inside ZoC, unlike the disposable, ballistic Disco Baller.
+- **Best cheap all-round Disco Baller:** **Kestrel Fennec FO + Sensor + Disco, 13/0**. Cheap Regular Fireteam body, sensor and scoring; this is not a standalone duelist. **Best cheap linked melee-delivery Disco:** **Ōban Tankō 19/0** with Deactivator, Blitzen and monofilament CC weapon.
+- **Best cheap Eclipse:** **Tohaa Makaul HFT/Eclipse 14/0** for a Triad; **Bakunin Chimera + three Pupniks 19/0** for a much more aggressive, independent close-assault/fork package. **Steel Phalanx Myrmidon Officer** is the premium Eclipse/CoC version.
+- **Best repeatable cheap normal Smoke:** **6pt Morlock**, **5pt Galwegian/Shaolin/Ghazi** where the *selected profile* actually has Smoke; **Regular** Dāturazi 14/0, Jaguar 10/0 and Varangian 10–12/0 are often better for the whole Order pool.
+- **Best cheap White Noise:** **Interventor HD+ (Tunguska, 18–23/.5)**, **Uhahu HD+ (Bakunin, 19/.5)** and **Jazz FTO 22/.5 or Jazz+Billie 25/.5 (Corregidor)** when a useful Repeater/Pitcher network exists. **Best ceiling** is a hacker *plus actual network and attacking follow-up*, not WIP alone.
+- **Strongest vision-control kill packages:** **Dāturazi Smoke + Yaogat/Vector/Charontid**, **Jaguar Smoke + Intruder MSV2**, **Myrmidon/Penthesilea Smoke + Marut MSV2**, **Yojimbo Smoke + Rui Shi MSV2**. Rankings of *enablers* below do not silently credit them with a second model's gun.
+
+## What the effects actually do
+
+| Tool | Creates / beats | Best job | Limits and counterplay |
+|---|---|---|---|
+| **Normal Smoke** | Zero Visibility, ordinarily blocks LoF; MSV can interact with it | Cheap crossing, obscuring objective approaches, **Smoke + friendly MSV gunfighter** | Enemy MSV (different levels/MODs), templates, guarded end squares, mission timing; source must win an applicable roll |
+| **Eclipse grenades / launchers** | Zero Visibility **even for MSV** | Moving CC troops/specialists past visor AROs | It also blocks your own ordinary gunfire; a mine, template, nearby guard, or delayed reaction still matters |
+| **Disco Baller** | **Eclipse template** around an actual deployed Disco Ball | Precise, projected active-turn LoF interruption; can be thrown before a linked CC/scoring advance | **Disposable(2), BS, Targetless; a Normal roll, not Face-to-Face**. Ball persists but screen expires at States Phase; Deactivator can reactivate allied Balls via WIP roll, Baggage can reload unused ammunition. No vertical-surface placement under FAQ |
+| **Mirrorball (Tohaa Pheroware)** | No-LoF **Eclipse** circular impact template within ZoC; WIP-based | Repeatable, precise short-radius corridor denial, including from a linked controller | Must get ZoC placement, protect the controller, still needs Orders and a model to exploit blocked LoF |
+| **White Noise (HD+)** | White Noise Zone blocks LoF **specifically for MSV and Marksmanship** users | Disable a dangerous visor/Marksmanship ARO while other troops maneuver/shoot | **Does not block ordinary non-MSV/non-Marksmanship shooters**. Active-Trooper-only hacking Short Skill; Normal WIP roll, wholly within Hacking Area, NFB on the hacker while active, expires at States Phase |
+| **Albedo / other personal visual MODs** | Improves **that trooper's** interaction with particular visor users (profile/rule dependent) | Attack MSV defenders without spending a setup Order | **Not smoke, Eclipse or White Noise; no shared screen for teammates.** Against a non-MSV gunfighter the distinctive benefit may disappear |
+
+Rule links: [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md) · [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md) · [Disco Baller](https://infinitythewiki.com/Disco_Baller) · [White Noise](https://infinitythewiki.com/White_Noise) · [Mirrorball weapon chart](https://infinitythewiki.com/Alternative_Weapon_Chart) · [Reload/Baggage N5.3](https://infinitythewiki.com/Reload). **The target type matters:** White Noise also affects **Marksmanship**, not just MSV, under the current rules. **Disco is not reactive Smoke:** you cannot claim a protective Face-to-Face roll for placing a Disco Ball.
+
+## Global tier list — unit's peak vision-control impact
+
+_**S** exceptional ceiling in an appropriate legal roster, **A** very strong, **B** narrower/specialized. Tier = *vision-control contribution*, not a ranking of overall faction strength, close combat lethality, or the whole unit's offensive statline. Each line lists a **counterargument**._
+
+| Tier | Unit / exact role | Why the apex is high | Best circumstance / weak point |
+|---|---|---|---|
+| **S** | **Kriigel 21/.5 Mirrorball** — Tohaa | Repeatable WIP/ZoC no-LoF Eclipse, while Eraser threatens enemies and Triad can advance a real gun/scorer | **Best:** protected short-midfield Triad pressure; **vs:** controller out of range, isolated behind poor approach geometry, or all Orders spent just repositioning |
+| **S** | **Makaul 14/0 Eclipse + HFT** — Tohaa | Anti-MSV passage + linked short-range template/CC deterrence; a cheap Triad member changes which routes are playable | **Best:** delivering Sukeul/mission specialist; **vs:** Impetuous/1W, mines/DTW at destination |
+| **S** | **Tankō 19/0 Disco + Deactivator** — Ōban | Cheap 2W HI, Fireteam-compatible precision Eclipse screen, Blitzen/CC deterrence; can support a Mushashi/Domaru push | **Best:** crossing an otherwise unwinnable gunline; **vs:** 2 charges, placement/reload Orders, poor link/CC target geometry |
+| **S** | **Myrmidon Officer Eclipse / CoC 30–31/.5** — Steel Phalanx | Mimetism(-6), NWI and *genuine* MSV-proof delivery combined with command insurance | **Best:** expensive hero/CC package must traverse visor coverage; **vs:** expensive compared with 16pt Myrmidon ordinary Smoke |
+| **S** | **Chimera + 3 Pupniks 19/0, Eclipse** — Bakunin | Eclipse gets several fast Peripheral melee bodies into contact, threatening multiple close-range answers | **Best:** dense objectives and opponents relying on shooting AROs; **vs:** placement, mines/templates and multi-body management |
+| **A+** | **Taqeul Mirrorball 35–36/0** — Tohaa | No-LoF Eclipse on a command/Pheroware platform with Endgame and alternative LT/CoC roles | **Best:** commander must do sustained control; **vs:** paying 35+ when 21pt Kriigel already delivers Mirrorball |
+| **A+** | **Shikami 42/0 Eclipse specialist** — JSA/Ōban | Super-Jump/Climbing Plus + Mimetism(-6) and Eclipse convert safe transit into scoring / CC | **Best:** vertical objective path against MSV; **vs:** premium piece should not spend all its Orders simply throwing cover |
+| **A+** | **Jazz / Interventor HD+ with real Repeater network** — Nomads | White Noise can be projected *where the blocking zone is needed*, not just next to the hacker; leaves excellent other hacking programs | **Best:** known MSV/Marksmanship shooting lane; **vs:** if the ARO is a normal non-MSV attacker, White Noise is not the solution |
+| **A+** | **Dāturazi Smoke 14/0 + legal Yaogat/Vector/Charontid MSV gun** — CA/MAF | Regular PH14 smoke carrier doubles as a serious CC/Warhorse threat; smoke-shooting is high-leverage | **Best:** gun needs an asymmetrical fight; **vs:** two-piece Order cost and enemy visors/White Noise |
+| **A** | **Fennec FO/Sensor/Disco 13/0** — Kestrel | Unusually low-cost deployed Eclipse + useful Regular specialist/body; can enable much pricier fire/CC pieces | **Best:** budget link gun needs one safe route; **vs:** no Deactivator printed on this profile, ordinary weak infantry if isolated |
+| **A** | **Kaauri Mirrorball 14/.5 / Igao Mirrorball 26/.5** — Tohaa | Gives extra cheap/forward Eclipse sources without committing the Kriigel | **Best:** multiple corridors/infiltration approach; **vs:** Kaauri's fragile S1 body or Igao's higher cost |
+| **A** | **Vargar FO Disco 24/0 / Richard Quinn FO Disco 26/0** — WinterFor/Varuna | Specialist and flexible linked visibility control; Vargar adds Super-Jump/Albedo, Quinn MSV and wildcard access | **Best:** scoreboard before gunfight; **vs:** cheaper Fennec (Kestrel-only) if full mobility isn't needed |
+| **A** | **Shifta CoC/Disco 21/0; Lobo Disco 20–24/0** — Corregidor | Combine Eclipse-style route creation with command insurance or a linked melee/shotgun attack body | **Best:** Correctional melee push; **vs:** Surface/Deepspace link access restrictions and competition with Jazz/Moran orders |
+| **A** | **Uhahu HD+ 19/.5 / Interventor HD+ 18–23/.5 / Jazz 22–25/.5** | Cheap White Noise plus full hacking utility | **Best:** relevant MSV/Marksmanship threat and accessible Hacking Area; **vs:** network absent, non-MSV opposition |
+| **A** | **Myrmidon Smoke 16/0 + Marut MSV2** — Vanilla ALEPH | Huge asymmetric ranged ceiling while cheap smoke runner retains melee screen utility | **Best:** enemy strong conventional ARO, Marut safe to attack; **vs:** support Orders, enemy Smoke/White Noise counter, Marut's enormous point risk |
+| **A** | **Yojimbo Smoke + Rui Shi MSV2 / Jaguar Smoke + Intruder MSV2** — JSA / Corregidor | Affordable Smoke creates a one-sided gunfight for a strong specialist gun | **Best:** enemy lacks a suitable response; **vs:** delivery timing and non-MSV line alternatives |
+| **B+** | **Tanuki HD + Disco 20/.5 / Kulak KHD + Disco 20/0** — Shinden/Tunguska | Good role compression: hacker + deployable Eclipse lane control | **Best:** mission needs hacking and vision tools on one slot; **vs:** KHD Kulak **does not gain White Noise** merely by being a Hacker |
+| **B+** | **Garon Smoke GL 16/0** — JSA | Cheap Regular smoke gun with alternative TR presence in JSA lists | **Best:** when few other affordable Smoke sources exist; **vs:** throwing Smoke rather than using own ARO may consume precious Orders |
+| **B** | **Kinnara Parachutist Eclipse 24/0 / Rasyat Eclipse attacker** — OSS / Combined | Threat appears on a flank and can blind an approach without needing native Smoke across the whole faction | **Best:** backline/side entry against predictable ARO; **vs:** arrival/setup cost, scattering support and no substitute for whole-army smoke access |
+
+**Not included as global Eclipse sources:** generic **White Noise**, **Albedo**, or a 5pt **Ghazi without a Smoke loadout**. Similar words do not give the same effect; confirm your **exact** profile. **Patroclus Next Wave FTO** has *no* Smoke; only its unlinked Holoprojector HRL profile has Smoke in the pinned roster.
+
+## Global tier list — points/SWC and whole-list return
+
+| Value tier | Pick | Why the cost is so good | Buy instead / avoid when |
+|---|---|---|---|
+| **S+** | **Fennec Disco FO/Sensor 13/0 (Kestrel)** | Regular scoring/Sensor/Disco on one cheap Fireteam body | If no meaningful Eclipse crossing exists, plain 10pt Fennec is enough |
+| **S+** | **Morlock Smoke 6/0; Ghazi/Galwegian/Shaolin 5–6/0 where legal** | Disposable route screen plus close template/CC trade for minimum points | Irregular/Impetuous order structure; verify exact Ghazi *profile*: Bahram 5pt E/Marat and 6pt Jammer do **not** include Smoke |
+| **S+** | **Tankō Disco 19/0 (Ōban)** | Blitzen, Deactivator, robust linked body and precise Eclipse screen with many independent jobs | Less of a bargain without a melee/mission recipient |
+| **S** | **Makaul Eclipse 14/0 (Tohaa)** | Cheap Regular assault-synergy, Triad teammate and HFT | Some Tohaa lists can rely on repeatable Mirrorball instead |
+| **S** | **Kriigel Mirrorball 21/.5 (Tohaa)** | Repeated no-LoF denial + Eraser + Triad, rather than a 2-shot consumable | If Tohaa needs primarily an HFT/CC trade, Makaul can outperform |
+| **S** | **Jaguar Smoke/Chain 10/0; Dāturazi Smoke 14/0; Varangian 10–12/0** | **Regular** pooled Order plus smoke and warband utility; the point premium buys flexible Orders | In a list with no MSV gun/no safe route, a cheaper sacrificial guard may suffice; White Company Varangian is **Irregular**, unlike O-12/Kosmoflot |
+| **S** | **Uhahu 19/.5; Interventor HD+ 18–23/.5** | White Noise comes with an otherwise valuable hacker | Without usable repeaters or visors to beat, premium WIP is not vision control in practice |
+| **A+** | **Shifta CoC/Disco 21/0; Lobo Disco 20–24/0; Tanuki HD/Disco 20/.5; Kulak KHD/Disco 20/0** | Dual/triple-duty profiles, not a premium standalone smoke tax | Link and device differences are material; no universal Fireteam import |
+| **A+** | **Kaauri 14/.5 Mirrorball (Tohaa)** | Small cheap repeatable Eclipse source | Vulnerable to close approach, may compete with 11pt E/M mine version |
+| **A** | **Vargar FO 24/0; Quinn FO 26/0; Konstantinos FTO Disco + Deactivator 23/0** | Projected Eclipse without sacrificing mission or link roles; Konstantinos may reactivate | Worth the premium only if mobility/FT/wildcard/command value actually pays |
+| **A** | **Myrmidon Officer CoC Eclipse 30–31/.5; Shikami 42/0** | Exceptional **apex**, but much of price buys insurance/scoring/assault, not just smoke | Choose lower-cost Smoke/Makaul in eligible rosters for simple crossings |
+| **B** | **Taqeul 35–36/0; premium Disco gunfighter; Asura HD+ 63/.5** | Capable multi-role pieces, but large proportion of budget if purchased solely for LoF control | Buy when other command/attack objectives justify price, not solely for one template |
+
+## Choose by circumstance
+
+| Actual problem | Best first answers | Why / backup |
+|---|---|---|
+| **Need one free-ish dangerous crossing, cheapest possible** | Morlock/Ghazi/Jaguar Smoke; Fennec 13 Disco if Kestrel | Ordinary Smoke cheaper; Disco overcomes MSV but its placement is Normal roll rather than defensive FtF |
+| **MSV2/3 or Marksmanship ARO denies objective** | Eclipse/Disco/Mirrorball; **White Noise if target is MSV/Marksmanship** | White Noise is **more selective**: a non-visor enemy can still shoot; Eclipse also hides your own gun |
+| **A TAG/linked gun wants to shoot through a cloud** | Smoke + friendly MSV2/3 (Marut, Intruder, Vector/Yaogat, Rui Shi) | Use **ordinary Smoke**, not Eclipse; make sure enemy can actually be attacked from this LoF/range |
+| **Repeated several turns of objective crossing** | Kriigel/Taqeul/Kaauri Mirrorball, Disco + Deactivator, Baggage near Disco shooter | Repeatability/Orders beat buying six short-lived one-shot lanes; the actual enemy destination still needs a guard |
+| **Close-combat model needs to reach a visored sniper** | Makaul Eclipse, Chimera Eclipse, Officer Eclipse, Tankō Disco + linked CC body | Protect against mines/templates, and end beside useful cover; blind transit alone does not win the ensuing CC |
+| **MSV/Marksmanship ARO is the only problem and you have network** | Jazz/Interventor/Uhahu HD+ → White Noise | Avoid spending Eclipse resources when White Noise selectively disables the relevant shooter |
+| **Enemy has many non-MSV AROs** | Normal Smoke/Eclipse, cover/movement, mines, direct-attack removal | **White Noise/Albedo are not solutions by themselves.** Be careful not to cross the entire map using an effect that only blinds one visor |
+| **Opposing Smoke/MSV alpha strike** | Eclipse/Disco to remove that sightline; own MSV/marksmanship checks; DTW/mine/hacking guarding destination | Defend the **movement square**, not just a rooftop gun; don't count on a White Noise program without a usable active-turn window |
+| **Source's Orders or death are the biggest risk** | Cheap Regular smoke/disco carrier or support fighter with CoC/Engineer/scoring | An elite smoke platform that dies/does nothing else can lose on whole-list value to a cheap carrier |
+
+## Real disagreements (both sides and the deciding test)
+
+1. **Disco saturation vs saving Orders for killing/scoring.** [Robert Shepherd, Ōban](https://www.youtube.com/watch?v=AhicCreNCUQ) treats Tankō Disco as a major fix for melee delivery. **MetaChemistry #153 winner** credited Tankō Disco with helping win a tournament, **but also spent most of an Order pool reloading it**. **Test:** count Orders from first Ball placement through protected arrival, not just the 19pt purchase.
+2. **Tohaa Mirrorball engine vs more Makaul Eclipse.** [Shepherd + Jordan 2025 Tohaa discussion](https://www.youtube.com/watch?v=gHIXG1moDZw) praises repeatable Kriigel/Mirrorball route control; [Tohaa faction note](../factions/tohaa.md) keeps Makaul's linked HFT/CC utility as strong independent value. **Test:** multiple ZoC corridors requiring repeated precision favors Kriigel; one decisive close push needing a template/CC deterrent favors Makaul.
+3. **White Noise all-star or matchup-only luxury?** [Tactical Awareness S3E44 OSS](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) explicitly debates a 22pt HD+ White Noise/Pitcher provider: one host values ready-made control, another says it is “horses for courses” versus actual MSV/Marksmanship. **Test:** identify exact premium ARO and reachable Hacking Area *before* paying for network setup.
+4. **MSV AROs vs cheap non-MSV fallback.** [MetaChemistry #132 Bakunin winner](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) stresses MSV to stop Smoke objective theft but values non-MSV Cenobites against White Noise/Albedo. **Test:** if your defensive plan consists solely of visors, a cheap White Noise zone can switch it off.
+5. **One expensive Shikami Duo vs one Shikami + independent tools.** [Tactical Awareness Ōban S3E16](https://open.spotify.com/episode/5EJe58gg1Lyo9xZxff2g75) is enthusiastic about Eclipse/vertical mission play; [Infinity the Dante Ōban interview](https://www.youtube.com/watch?v=1PxoXoeJ2vs) voices both optimism about a Shikami Duo and preference for a **single** Shikami. **Test:** do two premium movers open distinct objectives or compete for the same active Orders?
+6. **Smoke-shooting as default vs mission-first LoF bypass.** Morat/Corregidor/Vanilla ALEPH analyses favor spending Smoke Orders to create lopsided MSV attacks; players emphasizing defensive layering prefer simply **not fighting** a premium ARO when a Disco/Mirrorball crossing scores. **Test:** does killing the ARO open two subsequent routes, or is one crossing all you need?
+7. **Normal Smoke versus Eclipse costs.** A cheap regular Smoke unit can be better than an expensive Eclipse carrier when the enemy has no relevant MSV. Against an MSV-heavy lane, **ordinary Smoke is no longer a generic safety guarantee**; adjust to opponent and to whether a friendly MSV actually needs to shoot through it.
+
+## Media actually checked (transcripts via MCP)
+
+| Priority | Video/podcast | What makes it worth viewing |
+|---|---|---|
+| **Start** | [Corvus Belli — Infinity Essentials 18: Smoke](https://www.youtube.com/watch?v=Dp4tyhToA70) | Short official N5 practical example: Smoke Face-to-Face interception, MSV2 firing through Smoke and Dodging/return attack decisions |
+| **Start** | [Robert Shepherd — JSA Ōban faction focus](https://www.youtube.com/watch?v=AhicCreNCUQ) | Best explicit Disco Baller reasoning: BS/Ft support to project Eclipse for the Tankō–Mushashi/assault route instead of burning expensive CC pieces in open lanes |
+| **Start** | [MetaChemistry #153 — Winner’s Circle, CB Krug 2026](https://open.spotify.com/episode/3VWppA6FkPPN9v001kUS0j) | **Tournament-used Disco Balls**, incl. Tankō/Mushashi and material Order cost of reloads (Oct 2026); stronger practical evidence than speculative rankings |
+| **High** | [Tactical Awareness S3E44 — Mazebreaker OSS](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) / [video](https://www.youtube.com/watch?v=Jh4jVsFoHN4) | White Noise HD+/Pitcher versus actual MSV/Marksmanship opponents; Yadu/Claire Disco profile-role debate, *not* an automatic buy |
+| **High** | [MetaChemistry #132 — Bakunin Winner’s Circle](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) | Tournament defense against Smoke scoring; non-MSV backup when White Noise/Albedo bypasses visor defense |
+| **High** | [Tactical Awareness S3E16 — Zeroes & Heroes: Ōban](https://open.spotify.com/episode/5EJe58gg1Lyo9xZxff2g75) | Shikami Eclipse, Yojimbo/Kuroshi Smoke, cheap Yuan Yuan delivery; contrasts a concentrated hero push with independent pieces |
+| **Additional** | [Infinity the Dante — Ōban Initial N5/Disco](https://www.youtube.com/watch?v=1PxoXoeJ2vs) | Contrasting hot takes on 2× Shikami versus one; early-2025 opinions still require 2026 profile checks |
+| **Additional** | [Shepherd + Jordan — June/July 2026 faction tier discussion](https://www.youtube.com/watch?v=1dW3i9dpI34) | Cross-faction evidence that a **single 23pt Disco platform** can govern otherwise strong faction CC/advance options; discussion is subjective |
+
+_All four podcasts above and the selected videos were queried through the corresponding transcript connectors. Podcast/web dates and machine captions are not rules authority; cost/ability judgments use repository current references. For wider role overlap see [Warbands](warbands-and-cheap-trading-units-apex-value.md), [Hacking/KHD](hackers-and-killer-hackers.md), [Movement/vision](movement-positioning-and-vision-control.md), [ARO architecture](aro-units-apex-and-value.md), [Disruption/deployables](../deployables-area-control.md), and [TAGs](tags.md)._
