@@ -571,7 +571,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Bagh-Mari HMG30/1.5** is a BS13/MSV1/Mimetism(-3)/NCO **legal team gun**—excellent when Acontecimento/Regulars Fireteam already needed and lieutenant Special Orders are actually available. **Acontecimento Regular Spitfire16/1** supplies minimal-cost B4 shooting but low BS12/W1 resilience, best as a cheap second gun not premier ARO cleaner. **Tikbalang HMG69/1.5** instead buys BS15, Mimetism/Climbing and TacAware/3W for more consistent hard ARO removal; **LT73/1.5** is a separate command risk. Don't treat NCO as an additional Order if Strategos or LT spent it elsewhere. [Cross-game gunfighter apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Bagh-Mari HMG30/1.5** supplies a BS13/MSV1/Mimetism(-3) **non-TAG** legal team gun, useful for Cover and Mimetism-heavy mid/long ranges. **Acontecimento Regular Spitfire16/1** is a very cheap second gun but lacks resilience for hard AROs. **Tikbalang HMG69/1.5** is the separate **TAG** purchase: BS15, Mimetism(-3), Climbing and TacAware, useful to make repeat strong shots at different angles. Buying a big TAG is worthwhile only when its unique geometry/durability solves a problem the two cheap guns cannot. [Separate TAG/non-TAG gunfighter tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
