@@ -760,6 +760,12 @@ The pinned Bakunin Army data links Reinforcement roster **599**. This reference 
 - The reverse Fireteam index is derivative; if any conflict is found, the canonical Fireteam chart above wins.
 - Main and Reinforcement charts are not merged.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Daemonist Observant LT(+1) 36/0** provides two Special Lieutenant Orders, but they are **not two generic Regular pool Orders** unless a legitimate NCO or other mechanism actually spends/converts them. Balancing an exposed Daemonist commander against protected cheap LT/another specialist remains mission-specific; avoid assuming **Shifta CoC** from Vanilla Nomads is available in Bakunin.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
