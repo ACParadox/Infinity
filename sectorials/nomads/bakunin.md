@@ -836,3 +836,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Value denial:** **Zero BSG Shock/PARA Minelayer 18/.5** is a Regular Camo/Infiltration speed bump; **Initiated Observant 18/0** starts an *infiltrated Deployable Repeater* with Minelayer and one-use Camo, best when allied hackers can exploit the node. **Counterpoint:** the Observant's starting Repeater is not a direct-damage Mine, and the Zero's 20/0 FO / 22/0 KHD are separate choices; too much static Camo control can leave too few gunfighters or scoring specialists.
 
 [Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Orphan Engineer** can supply Repeater/Fireteam utility and local **Lizard/REM** repair; a cheap **Zondbot** hub protects a long ARO route while the Orphan advances. **Reverend Healer/Avicenna** are stronger moving medical investments only when multiple valuable VITA models are actually recoverable. Do not buy a costly Doctor merely to attempt revival of 9–15pt disposable Moderators, and do not assume Orphan carrying Servant stays in a Fireteam. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
