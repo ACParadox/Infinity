@@ -776,6 +776,12 @@ This section is analytical and non-authoritative; the source profile data and Fi
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Teishin BSG19/0, KHD21/0, FO19/0** combines cheap **Combat Jump/normal Parachutist** with scoring/anti-hacker utility, not guaranteed enemy-DZ access. **Ninja/Kurayami hidden/infiltrating** troops attack from set-up midfield approaches; deep enemy-half Infiltration costs a PH−3 roll and failure reveals at own DZ edge. **Do not import Shinobu/Vanilla Oniwaban** if this Shindenbutai roster does not list them. **Shindenbutai's own Fireteam required-choice constraints** still apply; off-table AD troops do not get automatic pooled Orders.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Mechazoid** is the native TacAware TAG with a potential legal Duo to reinforce JSA's midrange shooting; **Triphammer (48–53 in other current rosters; check this file for exact options)** is the cheaper mercenary with flexible AP Spitfire/HRL and a swingy damaged state. Mechazoid for mission/team integration, Triphammer when the saved points buy a real specialist or independent attacker.
