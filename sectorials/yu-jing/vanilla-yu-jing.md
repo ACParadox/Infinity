@@ -537,3 +537,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Ninja hidden/camo** — anti-impersonation or corridor trap if positioned near scoring; may be more valuable unrevealed for own active turn
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Mech-Engineer14 WIP13 + Yáozăo3** is the economical **Guijia/Blue Wolf/REM** repair package. A qualifying Remote Presence target allows a token reroll (65% → **87.75%**) and one successful contact repair can cancel either Unconscious level. **Krit Kokram37 WIP14**, **Chung-Hee Jeong31 Engineer(ReRoll)** and **Johnny Kao36** buy mobility/durability/gunfighter utilities only when those jobs are actually used; otherwise protect cheap Servant in a safe fallback corridor. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
