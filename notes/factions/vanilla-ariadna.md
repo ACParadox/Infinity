@@ -78,3 +78,8 @@
 **Research filter:** the YouTube video titled [Infinity The Game: Chernobog TAG](https://www.youtube.com/watch?v=T0smQSy-y34) is **a painting tutorial**, not a TAG tactics review; deliberately excluded from tactical recommendations. General older beginner faction guides are less directly useful than the transcripts above.
 
 **Rules and evidence hierarchy:** N5.3 [current repo roster and canonical FT rows](../../sectorials/ariadna/vanilla-ariadna.md) > [repo rules](../../rules/README.md) > dated player/podcast interpretations. The preceding recommendations are player analysis, not inferred statistical pick rates.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Budget movement first:** **Dynamo AP Spitfire + Paramedic Duo 41/1.5** can provide fast Smoke, firepower and scoring across separate angles; Dog-Warrior/Polaris and Irmandinho offer other Smoke/close threats. **Mul Baggage** improves Disposable reload plans when positioning allows.
+- **Not the same as MSV smoke-shooting:** Ariadna often uses Smoke to move nonhackable attackers, not to enable an elite MSV2 sniper. Against MSV defenders use flanks, mines, alternative gun types and scoring pressure. [Apex/value vision guide](../list-building/vision-control-units-apex-and-value.md).
