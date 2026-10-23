@@ -854,3 +854,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **Posthuman/Proxy screen** — distributed positions and cheap Engineer recovery can outvalue a single static sniper; remember G: Jumper ARO restrictions
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Highest-threat passive mines:** **Dasyu 30/.5 Viral Minelayer (2)** combines Hidden/Infiltration(ReRoll)/Mimetism(-6), but Viral is matchup-sensitive and Hidden loses its Order. **Naga 26/.5 Monofilament Minelayer** punishes elite passage (25/.5 Shock is cheaper for ordinary troops); **Kinnara 25/.5** adds E/M Mine/Decoy(2)/Sensor; **Yaksha 25/.5** brings FD(+20) ARM4 MadTraps plus E/M Carbine. **Disagreement:** durable Yaksha vs cheaper RacerBots/Pilot-X or Naga/Dasyu/Dart—buy the body only when its defensive position and weapon reach actually add value. **Yaksha 23/0 Mine Dispenser is not a zero-Order Minelayer**.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
