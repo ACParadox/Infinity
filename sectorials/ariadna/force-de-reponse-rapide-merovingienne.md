@@ -489,3 +489,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Forward-deployed/Parachutist infantry** may die outside a static deployment-zone Doctor's practical radius; favor **motorized/forward healer** where legal and safe, or treat the attacker as a planned trade. Engineer value rises only when there is a meaningful **STR Remote Presence/REM** target or hacking/E/M-state fix. Compared with raw WIP, **one covered movement order to reach contact** commonly decides whether medical support is worthwhile. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**FRRM** primarily plays **midfield rifle/shotgun/template control**, not Shinobu-level assassination: **Chasseur19+ Camo/Infiltration CC14** gets behind screens but wins through mine/LFT positional threats, not melee; **Para-Commando18+** flanks with guns at CC16, not raw CC. **Loup-Garou17+** smoke/viral/PARA can *enable or defeat* approaching assailants. **Moblot32+** and **Zouave21+** are gunfighters/objective bodies; save points by **screening with Camo mines/Flamethrower** instead of forcing MA4/Mono matchups. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
