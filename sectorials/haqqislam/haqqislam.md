@@ -964,6 +964,12 @@ These rows are intentionally separate from the standard vanilla Haqqislam Firete
 
 See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Ghulam FO12, Doctor15** are WIP14/Regular role coverage; **Barid FO12/KHD14** adds Pitcher; **Hunzakut FO15** is cheap Camo/Infiltration but Irregular unless legally converted by Saladin's Inspiring Leadership. **Farzan FO22/CoC24**, **Tuareg KHD28**, and **Asawira Doctor+3** trade points for midfield access, medical support or attack/succession. Do not give LT/CoC one profile simultaneously.
+
+[Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
