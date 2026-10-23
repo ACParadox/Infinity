@@ -952,6 +952,12 @@ Derived analysis aids, not official characteristics.
 
 When a newer Army source revision or InfinityDB normalization supersedes the provenance above, set `status: stale` until roster/profile/Fireteam changes are reconciled. Do not silently mix newer live values into this file without updating the provenance block.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Sun Tze LT 53/0 Strategos L2** offers WIP17, two reserves, Counterintelligence, Decoy(2) and either **+1 Order (two pooled Regulars)** or **+1 Command Token** on different options; apex command utility, not a top-efficiency gun. **Hsien LT(+1) 48–51/+1 SWC** instead spends own extra Order on attacking and frees SWC. **Pheasant CoC** offers Strategic Deployment/specialist utility, **Táowù CoC 21/0.5** cheaper concealed backup; don't put CoC where a single run also kills the fighting LT.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lóngwáng (68–72)** is a control-oriented TAG: Adhesive Launcher Rifle and Riotstopper help neutralize high-threat targets without requiring conventional damage; **NCO AP HMG** spends an unused Lieutenant Order. It is best against vulnerable targets at useful range, not where an HRMC duel or anti-armor AP specialization would outperform glue.
