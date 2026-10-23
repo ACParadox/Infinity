@@ -830,3 +830,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Value denial:** **Zero BSG Shock/PARA Minelayer 18/.5** is a Regular Camo/Infiltration speed bump; **Initiated Observant 18/0** starts an *infiltrated Deployable Repeater* with Minelayer and one-use Camo, best when allied hackers can exploit the node. **Counterpoint:** the Observant's starting Repeater is not a direct-damage Mine, and the Zero's 20/0 FO / 22/0 KHD are separate choices; too much static Camo control can leave too few gunfighters or scoring specialists.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
