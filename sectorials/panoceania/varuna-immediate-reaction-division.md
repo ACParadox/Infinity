@@ -688,3 +688,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Trauma-Doc WIP12 + Palbot3** can recycle a fallen Kamau ARO only where it is safely reachable; 60% base success is not a guaranteed resurrection, improved to 84% with a qualifying Cube and Command Token. **Machinist WIP12 + Palbot** supports **Cutter/REM**, with Remote Presence allowing one successful roll from either Unconscious level. Avoid exposing both Servant and Kamau to one follow-up template. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Helot 10/0 FTO SMG+LRL+Sensor** or **12/0 one-use-Camo SMG+LRL** yields inexpensive **Irregular Neurocinetics** to spend instead of a Kamau or main gun; FTO and Camo options are different profiles. **Warcor 360º3/0** covers a rear angle, **Sierra TR+360º 18/0** adds a Regular/repairable backstop. **Zulu-Cobra 23/0 Jammer+Sensor** is a different Camo/FD flexible *midfield/approach* guard and potential counterpunch, not a cheap DZ LRL. **Counterview (TA Varuna):** stacking Helots, linked Kamau and other static AROs can crowd out active gunfighting/scoring; pick the breach route actually defended.
+
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
