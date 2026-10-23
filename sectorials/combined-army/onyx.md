@@ -628,6 +628,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Caskuda TAG64/1** is a high-ceiling **Combat Jump(PH14, Explosion)** + TA threat; **70% native success/85% with actual friendly Controlled Jump(+3)** before ARO/attack odds. Failure places it at own DZ table edge and loses the intended backline run, not random dispersion. **M-Drone Sensor/Repeater** and Nexus hacker can exploit target disruption without paying TAG arrival risk. **Greif IMP-2** gives cheap Turn-0 attack/deployment tax where permitted. Keep **Nexus CoC23** safe as distinct succession/linked utility; Onyx Nexus Wildcard is Unidron-context, not universal Xeodron team.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
