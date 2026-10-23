@@ -864,3 +864,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Sophotect25 WIP15 + Yudbot3** is excellent mixed **Posthuman/REM + Asura** recovery: 75% first-roll WIP and fast 15-10 reposition. **Parvati36** earns its higher price when **Doctor(2W), advanced Engineer and mobility** all matter. **Proxy Mk.1 Engineer** adds repair and objective capability *inside the paid legal 2–3 Proxy/G:Jumper package*, not a standalone extra Order. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Andromeda30 Guard + Infiltration + MA3 + D-Charges** (if selected in this OSS roster) is the distinctly offensive CC-on-approach threat that can swing a console/room; unlike normal melee, she only needs **LoF + ZoC**. **Posthuman Mk.2** is a hidden gun/mission skirmisher, not automatically the same as a true MA4/Monofilament executioner; count legal Proxy package first. Choose visible guns and specialist route over an expensive melee race when no safe arrival can be identified. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
