@@ -952,7 +952,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice (N5.3):** **Knight of Justice Spitfire42/1.5** is a BS14/ARM5/2W direct gun with strong CC follow-up; **FO MMR41/0 (also LT)** saves SWC when scoring and not a maximum-range assault is the priority. **Seraph AP Spitfire72/1.5** solves armor and uses **TacAware/NCO**, while **MULTI HMG74/1.5** solves longer ranges. **CoC Joan** is meaningful succession but expensive if used solely as insurance; keep it off the lead attack line until needed. In strong hacker grids, extra Knight/Seraph armor does not replace network defense. [Gunfighter apex/value and attack LT/CoC options](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Knight of Justice Spitfire42/1.5** gives BS14/ARM5/2W Fireteam midrange fire and serious CC finish; **MULTI Marksman FO41/0** saves SWC while contributing mission work. **Seraph AP Spitfire72/1.5** is the mobile **TAG** armor-killer with Super-Jump/TacAware, while **Seraph MULTI HMG74/1.5** attacks longer lanes. Engineer and anti-hacker planning matter more than another point of armor when the enemy has a repeater grid. [Separate non-TAG/TAG apex and value comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
