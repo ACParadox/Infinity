@@ -781,6 +781,10 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** build around one **legal Hac Tao/Hǎidào/other HI long gun** and a distinct midfield/mission route rather than paying for every heavy weapon: the value is in **NCO/Tactical Awareness or link mobility**, *not merely higher ARM*. **Liú Xīng BSG24/0** is an explosive deep-entry/close assault **secondary gun**, not a replacement for a long-lane HMG; its PH14 Combat Jump still needs a favorable landing and post-drop Orders. **Léi Gōng FTO CoC34/0 or Hǎidào CoC24/0** gives useful successor and link option where legal, but the successor should not stand in the same vulnerable position as the fighting LT. [Cross-game gunfighter apex/value and command insurance](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gūijiă** provides a true big-gun/armor alternative to linked HI; prefer it where its 3-STR TAG survivability, firing lane and **Shock** Fireteam access beat spending Orders on yet another HI gun. Count the full companion/Engineer/support cost, and protect it from hacking/E/M rather than relying on high ARM alone.
