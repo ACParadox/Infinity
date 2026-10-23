@@ -694,3 +694,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Helot 10/0 FTO SMG+LRL+Sensor** or **12/0 one-use-Camo SMG+LRL** yields inexpensive **Irregular Neurocinetics** to spend instead of a Kamau or main gun; FTO and Camo options are different profiles. **Warcor 360º3/0** covers a rear angle, **Sierra TR+360º 18/0** adds a Regular/repairable backstop. **Zulu-Cobra 23/0 Jammer+Sensor** is a different Camo/FD flexible *midfield/approach* guard and potential counterpunch, not a cheap DZ LRL. **Counterview (TA Varuna):** stacking Helots, linked Kamau and other static AROs can crowd out active gunfighting/scoring; pick the breach route actually defended.
 
 [Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Montesa foot Forward Deployment+20** or **Motorized Montesa21/0 CC23/MA2** is Varuna's main genuine *mobile melee-capable HI*, winning when opponents are already in a cleared flank; bike 20-15 speed trades away doorway geometry. **Croc Men Hidden/Infiltration** are ambush gun/mine specialists with **CC14**, **Echo-Bravo** is airborne shotgun **CC15**—neither matches a 29pt Oniwaban in contact. Defend **Kamau/Cutter** with cheap Helot/ARO and mines; **Cutter** is a separate TAG category. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
