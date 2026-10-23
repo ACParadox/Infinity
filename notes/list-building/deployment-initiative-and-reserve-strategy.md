@@ -1,5 +1,10 @@
 # List-Building Strategy — Deployment, Initiative, and Reserve
 
+## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
+
+The [N5.3 cross-faction Enemy-DZ attacker guide](airborne-and-enemy-dz-attackers-apex-value.md) ranks **Parachutist(DZ), standard Parachutist, Combat Jump, deep Infiltration, Impersonation, Hidden/fast ground** by **safe insertion and kill-chain costs**. **Parachutist(DZ)** has no arrival roll but is vulnerable to edge guard AROs and cannot claim Partial Cover on entry; **failed Combat Jump returns to own DZ edge as a Model**. Specific threats to screen: **Rasyat/Van Zant/Mirage, Fiday/Speculo, Banshee/Hellcat/Meteor/Caskuda**, not an imaginary universal enemy-DZ Infiltration permission.
+
+
 Deployment, Initiative, and Reserve should be treated as one combined **Turn Zero** problem.
 
 The goal is not simply to decide whether going first or second is stronger. The real question is:
