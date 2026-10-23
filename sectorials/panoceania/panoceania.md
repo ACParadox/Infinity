@@ -848,3 +848,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Trauma-Doc14 WIP12** and **Machinist15 WIP12** are budget support, each pairing with **Palbot3** where roster allows; the important gain is *Servant coverage + Cube/Remote Presence token reroll*, not raw WIP. For a premium **Cutter/Tik/Squalos**, put Palbot one protected Move behind the expected fighting lane, not touching the TAG. Do not assume an Engineer can retrieve an exposed deep-DZ casualty for free. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Vanilla PanO backline** can take **Warcor 360º3/0** (Irregular) for cheap rear-edge Flash, **Sierra TR+360º Thunderbolt18/0** for a repairable Regular multi-angle gun, **Fennec Thunderbolt+Shock Minelayer14/0** for an initial DZ mine, and **Peacemaker 24/.5 Auxbot-3B Minelayer** if the forward approach also needs a mine/repeater/close template. **Helot FTO LRL10/0** versus **12/0 one-use-Camo LRL** is a cheap Irregular choice, not a standard pooled Order. **Counter:** Vanilla has no sectorial Fireteams; don't import Kestrel Fennec link bonuses or Varuna Helot-specific link plans. Spend on real offensive pieces and diversify the entry defense only as needed.
+
+[Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
