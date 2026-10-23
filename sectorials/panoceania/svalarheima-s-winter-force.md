@@ -693,3 +693,9 @@ Derived analysis aids, not official characteristics.
 - InfinityDB semantic cross-check: `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Fireteam source: pinned Army `fireteamChart`, normalized using the same semantics documented in InfinityDB.
 - Verified: `2026-10-15`.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Jotum (82)** is a hard defensive/attrition anchor against limited AP/E/M threats: ARM10/BTS9, MULTI HMG, HFT and TacAware. Its value drops sharply against AP, E/M or repeaters that bypass the expensive armor advantage; use WinterFor's other troops to remove these threats rather than simply advancing the Jotum first.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

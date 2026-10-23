@@ -694,3 +694,9 @@ Derived analysis aids, not official characteristics.
 ### Refresh rule
 
 When a newer Army source revision or InfinityDB normalization supersedes the provenance above, set `status: stale` until roster/profile/Fireteam changes are reconciled. Do not silently mix newer live values into this file without updating the provenance block.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../../notes/factions/kestrel.md).
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

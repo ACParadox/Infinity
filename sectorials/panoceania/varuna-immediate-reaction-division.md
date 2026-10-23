@@ -616,3 +616,9 @@ Dante finished **5th of roughly 21–22** players and especially praised layered
 9. [Swiss Miss Gaming — N5 PanOceania Tier List](https://www.youtube.com/watch?v=EjN9xWKeBso) — other opinions on Bulleteer, Peacemaker, Pathfinder, Clipper and Sierra in **vanilla**.
 
 **Historical context only:** [Infinity Global League E144 — Varuna (February 2024)](https://open.spotify.com/episode/2hwVv91Hdba2LxjKVt7ZS3); transcript checked for contrasting views, but N4 roster and Fireteam values are **not** valid current facts.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

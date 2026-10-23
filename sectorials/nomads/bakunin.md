@@ -759,3 +759,9 @@ The pinned Bakunin Army data links Reinforcement roster **599**. This reference 
 - Profile-restricted Fireteam access is explicitly marked for Vostok, Fiddler, Zellenkrieger, Zoe, and Π-Well.
 - The reverse Fireteam index is derivative; if any conflict is found, the canonical Fireteam chart above wins.
 - Main and Reinforcement charts are not merged.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

@@ -740,3 +740,9 @@ The pinned Tunguska Army data links Reinforcement roster **599**. This reference
 - Canonical Fireteam chart reproduces the pinned Army min/max/required flags and profile-level FTO restrictions.
 - Required rows with zero minimums are preserved as source required-choice sets rather than expanded into contradictory simultaneous requirements.
 - Puppetactica's PuppetBot dependency on a Puppet Master is recorded from the source relation table.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

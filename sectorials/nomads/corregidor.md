@@ -704,3 +704,9 @@ The pinned Corregidor Army data links Reinforcement roster **599**. This referen
 - InfinityDB semantics commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
 - Rules baseline: N5.3 + N5 FAQ v0.1
 - Verified: 2026-10-15
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

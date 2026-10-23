@@ -833,3 +833,9 @@ These rows are intentionally separate from the standard Vanilla Nomads Fireteam 
 - Linked Reinforcement army resolves to **Vipera Pursuit Force (599)**. Its chart is kept separate, including the current source combination of global `spec` 0/0/0 and explicitly typed Core/Haris/Duo team rows.
 - Vipera's multiple `required: true` rows are treated as a required-choice set rather than incorrectly requiring all marked rows simultaneously.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

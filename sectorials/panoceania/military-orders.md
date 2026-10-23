@@ -931,3 +931,9 @@ See [Vanilla PanO transcript-backed review](panoceania.md#transcript-backed-comp
 - InfinityDB semantic cross-check: `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Fireteam source: pinned Army `fireteamChart`, normalized using the same semantics documented in InfinityDB.
 - Verified: `2026-10-15`.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Tikbalang of Montesa** is the more self-protecting mobile attacker (Mimetism, Climbing Plus, HFT; NCO for unused LT Orders), while **Seraph** brings AP Spitfire or MULTI HMG plus Pulzar, EXP CCW and Super-Jump to force closer angles. **Disagreement:** Tik is generally safer against opposing shooters; Seraph's AP and stronger close tools matter when armored targets/vertical approaches dominate. MO's tight order/support budget can make either expensive without a second scoring route.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

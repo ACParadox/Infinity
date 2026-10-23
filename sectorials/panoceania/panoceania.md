@@ -770,3 +770,9 @@ Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Ar
 | 6 — VH and REM counterview | [WIP12 E201: Neoterran Capitaline Army with Trent](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) (2026-03-25; **Peacemaker ~57–59 min, Redeye ~83–87 min**) | Redeye *GL* alternate-angle case; **27pt +1B Peacemaker versus 24pt Minelayer** preference; NCA Fireteam privileges do not apply to generic PanO. |
 
 **Evidence status:** All six sources above were examined via **YouTubeMCP or PodcastMCP transcript**, not merely searched by title. Their tactical claims are attributed interpretation, not updated Army data. A curated [Corvus Belli forum PanO N5 source index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/) supplies further viewing but is **not** a substitute for transcript review. For general REM support/placement reasoning, see [REMs](../../notes/list-building/rems.md).
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.

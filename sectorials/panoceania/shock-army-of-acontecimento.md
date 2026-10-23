@@ -562,3 +562,9 @@ These tags are analytical conveniences for modular list-building, not Army chara
 - Clipper Dronbot's FTO-labelled loadout is intentionally **not** granted Fireteam access because the SAA chart contains no Clipper row.
 - Scylla/Charybdis selection is represented as the source exposes it: ordinary Scylla options plus the selectable 37-point / 0.5-SWC two-model FTO package, with separate Wildcard rows preserved.
 - Main and Reinforcement charts are not merged.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Tikbalang** is the reliable mobile value assault: Climbing Plus, Mimetism, heavy gun and close defence. **Dragões** is a dedicated ranged anchor when the table rewards a heavy fire lane over mobility/marker safety. Compare both with the actual Moto-mecanizados Fireteam and Engineer cost, not chassis alone; do not use old N4 cost claims.
+
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
