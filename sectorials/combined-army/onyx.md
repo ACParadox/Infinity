@@ -685,3 +685,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Med-Tech Obsidon21 + Slave Drone3** is an efficient dual hub for **Overdron/Caskuda TAGs**, REMs and VITA assault elements. **Kurgat Engineer** buys a separate forward combat/repair role when a legal Fireteam is advancing; the 21pt hub usually provides more pure recovery per point. **Remote Presence** lets a single successful repair cancel either Unconscious level if the Servant can safely reach the disabled machine. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Onyx** normally makes best melee contact after **gun/Repeater/template** troops remove a route, not by paying for MA5 Hidden assassins unavailable in this roster. **Sphinx** has strong defensive Camo/Climbing/DA CCW but is a **93pt TAG** bought for stealthy gunfire, not a 29pt Monofilament CC killer. **Rindak/Kurgat/Cube Jäger** or other legal short-range pieces should attack in their proper role, not be mistaken for universal dedicated MA4 duellists. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
