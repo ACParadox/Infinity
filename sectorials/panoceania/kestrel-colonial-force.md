@@ -713,6 +713,10 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice (N5.3):** **Griffin HMG37/1.5** gives cheap MSV1 and long range in Fennec/Kestrel teams; **Hetkari MULTI Red Fury48/1.5** pays +11 for **Marksmanship** and stronger Cover-focused FtF (and benefits from legal Kestrel team composition); **Squalos Mk-II MMR55/1** is the economical TacAware TAG; **Tik HMG69/1.5** wins on Climbing/Mimetism/retreat mobility instead. **Dissent (Irregular Order #52):** Griffin's price/MSV can beat Hetkari *for the required job*, while others prefer Hetkari to mitigate failed Cover gunfights. **Magistrate CoC21** protects an aggressive **Tik LT73**, but is not the same 19pt Magistrate Strategos LT. [Cross-game apex/value, matchups and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../../notes/factions/kestrel.md).
