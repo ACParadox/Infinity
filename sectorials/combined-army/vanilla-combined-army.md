@@ -808,6 +808,12 @@ The [Vanilla Combined Army N5.3 tactical/list-building guide](../../notes/factio
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Malignos FO30/KHD32** reaches hidden enemy-side objective, **Shrouded FO24** is better cheap exposed midfield value, and **Caliban FO26** adds CC/Protheion in legal roster. **M-Drone FO/Sensor15 or TacAware18**, **Med-Tech21 Doctor+Engineer** and **Nexus CoC23/Engineer23/Hacker24** cover distinct mission categories. **Nexus option roles are mutually exclusive**; no Mnemonica on ordinary button-pushers simply from Combined affiliation.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
