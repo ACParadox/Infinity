@@ -1,5 +1,7 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
+**Attack-focused LT/CoC cross-reference:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) separately grades **shooting LT apex/value** (Marut, Zeta, Tik, Sheskiin, Kriza, Gamma) and **CoC successor support for those attack plans**. This guide remains the authority for all-army command engines, insurance and legal succession loadouts.
+
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
 **Warband-specific LT/CoC packages:** [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks **Saladin LT39 with eligible Ghazi/Daylami regularization**, **Wallace LT38 versus CoC38**, **Myrmidon Officer LT25–26 versus CoC30–31** and **Machaon/Phoenix** fighter LTs. **Religious Troop Inspiring Leadership exclusion** changes the Order economics. This existing guide remains the broader LT/CoC source.
