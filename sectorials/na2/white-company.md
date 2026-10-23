@@ -779,3 +779,9 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Warband cheap trading / order economy — N5.3
+
+**Varangian SMG+Chain+Smoke12/0, AVA2** is explicitly **Irregular+Impetuous in White Company**, unlike **O-12/Kosmoflot Regular** versions; assess as **self-funded Smoke/CC23/Dogged** rather than an extra pooled Regular Order. Current native **Varangian Duo** can put two along one lane; this is team movement utility, not guaranteed conversion of their printed Training. **Shona Carano** legal Wildcard counts as Varangian when selected, but is a premium combat character, not free. **Cube Jäger15** is separate late Parachutist scorer; **Hǎidào CoC24/Emily CoC28** are protected command roles.
+
+[Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
+
