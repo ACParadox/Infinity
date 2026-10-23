@@ -829,3 +829,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Tokusetsu14 Doctor versus Engineer** are distinct 65%-base medical/technical roles; **Yáozăo3** cuts the travel cost to the likely casualty. **Yuriko Oda25 Engineer** adds Mimetism, Minelayer and forward technical support, whereas **Monstrucker12** gives cheap Irregular Engineering. When **Hatamoto** pushes far beyond the support network, the theoretical 65% revival chance may never be usable. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Hatamoto Plasma34/0 (MA4, NBW, Monofilament/E/M, 2W, Specialist)** is the roster's all-round CC counter-duelist while advancing in support of the gun; **34pt is not a Hidden/Infiltrating assassin** and must choose which attack role to solve. **Teishin19 Combat Jump** is a flank **shotgun** attacker, merely MA1/CC21, not equivalent to an Oniwaban. Use the legal midfield/Smoke and ranged covering unit before risking a costly HI in CC; consider enemy Guard and NBW. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
