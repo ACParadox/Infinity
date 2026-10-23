@@ -664,6 +664,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice (N5.3):** **Skyhound33/0** is outstanding 20-5, Mimetism(-6), plasma/AP **angle generation** when terrain permits; beware S7/No Cover and enemy Repeaters. **Stinger NCO HMG30/1** is a cheap independent/eligible linked long-gun that can spend LT Orders when available. **Achilles** buys an exceptional second assault phase, but the **2026 Borderbash-winning discussion** stresses using other guns/teams to first remove Mimetism or hostile hacking; do not force Achilles into every opening FtF. Dedicated backup guns/specialists prevent an expensive Achilles package from stalling. [Current whole-game gunfighter apex/value and transcript review](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
