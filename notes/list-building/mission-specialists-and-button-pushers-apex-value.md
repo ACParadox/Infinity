@@ -2,6 +2,8 @@
 
 _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, profiles, AVA and team access derive from the pinned N5.3 Army (Sept 2026), not older media. [Mission and scoring framework](mission-scoring-and-specialist-strategy.md) · [Hacker/KHD detailed tiers](hackers-and-killer-hackers.md) · [Lieutenant/CoC command tiers](command-units-apex-and-value.md) · [Order economy](order-efficiency.md) · [Fireteams](fireteams-and-profile-evaluation.md). **This adds specific cross-game unit rankings, not a replacement for the existing mission guide.**_
 
+**Medical/recovery specialists:** [Doctor/Engineer apex/value and actual WIP/PH odds](doctors-engineers-and-recovery-apex-value.md) separates recovery reliability from mission-button utility and Servant/Speedball access.
+
 ## One-minute decisions
 
 - **Best apex carrier and turn-3 closer:** **Shikami 42/0 or 47/0 (JSA)** — 15-5 MOV, 2W/ARM3, Mimetism(-6), Eclipse, Climbing Plus, Super-Jump and Martial Arts. Can **reach, take, leave and survive** a dangerous objective. **42** if mission-scoring comes first; **47** when additional gun/D-Charge matters. Expensive hackable HI: avoid making it the only scorer.
