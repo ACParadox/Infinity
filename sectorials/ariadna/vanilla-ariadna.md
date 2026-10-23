@@ -1497,3 +1497,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Irmandinho8** packs Engineer, Smoke, Chain Rifle and disruption for exceptional 8pt **trader/support value**, but its Irregular/Impetuous orders and exposed approach do not replace a protected mechanic. **Dozer13 WIP13 + Remontnik2** is the low-cost reliable physical route to **Chernobog/REM** recovery. **112 Doctor11 or motorized19** gives VITA recovery; most No-Cube patients cannot spend a Command Token to reroll a failed Doctor, so 65% must be treated honestly. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º 3/0** gives an inexpensive *Irregular* Flash ARO against rear-edge/Combat Jump; **Chasseur Shock Minelayer+Light Flamethrower 20/.5** can cover the *midfield-to-DZ corridor* while also being an infiltrating Camo problem. **Traktor Mul Baggage/Deactivator 5/0** supplies a cheap Regular logistics Order and can help counter mines, but **not a true sentry** or 360º guard. **Counter:** a 3pt Warcor alone will not stop Van Zant/Hellcat from taking an entire clustered support line; cross-cover a corner with a close-template guard and physically separate the Doctors/Order fillers. Buying too many Irregular speed bumps can undercut the active-turn pool.
+
+[Whole-game DZ-defender apex/value guide, counters and transcripts](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
