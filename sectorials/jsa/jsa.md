@@ -764,3 +764,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Tokusetsu Doctor14 / Engineer14 WIP13 + Yáozăo3** is a cheap recoverability net for VITA attack pieces and **Karakuri/O-Yoroi STR** respectively; Remote Presence repair may warrant token on expensive STR. **Yuriko Oda25** adds Mimetism/mines and a forward route; **Genbutai Engineer23** can remain with a legal team if applicable. Do not confuse one 14pt medical model with the separate 14pt repair profile: jobs are different. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º Flash 3/0** is the cheap Irregular rear/edge arrival tax; **Robio Aibōt Flash+Repeater 7/0** gives a Regular Order and small network guard, **not** 360º. **Keisotsu Hacker+CrazyKoala 16/.5** is a Regular Hacker carrying a perimeter threat, **not a Minelayer**: Koala placement normally costs an Order and Boost **does not** trigger against Impersonation/Camo Markers. **Karakuri E/Mitter+Chain Rifle+Panzerfaust+FO 31/0** is a powerful 3STR counterpunch/short-range anchor if it also advances/scores, **not** an efficient disposable sentry. Split 9–10pt Keisotsu cheerleaders behind two independent corners instead of a single templatable cluster.
+
+[Whole-game DZ-defense apex/value and anti-impersonation guide](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
