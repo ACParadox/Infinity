@@ -958,6 +958,12 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+Mission planning with **Sun Tze Strategos LT** should prioritize where the converted Regular LT Order lets *other* scoring specialists move. **Pheasant CoC** gives protected succession plus relevant specialist skills/Strategic Deployment; **Táowù CoC21/.5** offers cheaper backup if its roster profile qualifies in the selected mission. **Deva KHD20/FO21** where actually listed has WIP15/NWI and can follow a legal fireteam. A high-WIP LT is not automatically a Specialist-only Console user.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lóngwáng (68–72)** is a control-oriented TAG: Adhesive Launcher Rifle and Riotstopper help neutralize high-threat targets without requiring conventional damage; **NCO AP HMG** spends an unused Lieutenant Order. It is best against vulnerable targets at useful range, not where an HRMC duel or anti-armor AP specialization would outperform glue.
