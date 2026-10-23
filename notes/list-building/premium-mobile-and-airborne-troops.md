@@ -37,6 +37,8 @@ Small Fireteams are especially useful for expensive HI because they let an attac
 
 ## TAGs
 
+For **all TAG families**, separate **apex potential** from **points efficiency**, and check the **when-to-field / opponent-counter** matrix in the [N5.3 TAG tier list and field guide](tags.md). It reconciles current sectorial references with reviewed video/podcast debates; the principles below remain the generic baseline.
+
 A TAG is usually a centerpiece rather than just another profile. The surrounding list should normally include some version of a **TAG ecosystem**:
 
 - Engineer support;

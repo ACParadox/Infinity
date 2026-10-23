@@ -4,6 +4,11 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [TAGs — N5.3 cross-faction tier lists and field guide](list-building/tags.md)
+  - Separate absolute apex performance from points-value efficiency across every current TAG family
+  - When to field each chassis, mission/terrain matchups, hacking/Engineer/close-defence support
+  - Direct MCP transcript-based podcast/YouTube disagreements and relevant sectorial cross-links
+
 - [Fireteams and profile evaluation](list-building/fireteams-and-profile-evaluation.md)
   - Core size
   - Level 2 Fireteam bonus
