@@ -574,3 +574,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Cheap layered markers:** **Shrouded Dazer Minelayer 21/0** blocks an approach via movement geometry; **Shrouded Shock Minelayer 24/.5** adds lethal corner denial. Regeneration/Camo density makes either harder to clear permanently. **Speculo 31/1.5 Shock Minelayer** imposes Impersonation plus a prepaid mine but cannot place its initial mine in an existing enemy's trigger area. **Counterpoint:** Dazer is low value where lanes bypass it; **Malignos** Hidden is dearer and should have a specific specialist/attack role rather than replace every Shrouded.
 
 [Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Med-Tech Obsidon21 + Slave Drone3** provides cheap dual repair/revival: keep Drone behind **Sphinx TAG fallback** and one behind **Sheskiin** or other key VITA lane. A 70% base WIP14 Doctor attempt can kill the patient on failure; keep a legal Cube token reroll if relevant. Do not send the doctor itself through Shasvastii's aggressive marker ambush route unnecessarily. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
