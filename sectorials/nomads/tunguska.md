@@ -741,6 +741,12 @@ The pinned Tunguska Army data links Reinforcement roster **599**. This reference
 - Required rows with zero minimums are preserved as source required-choice sets rather than expanded into contradictory simultaneous requirements.
 - Puppetactica's PuppetBot dependency on a Puppet Master is recorded from the source relation table.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Kulak CoC 23/0** is a practical attack-capable safety net when an aggressive Tunguska Lieutenant/Hacker risks the next turn's pooled Orders. Safe backline command/NCO may require less insurance if the LT is rarely exposed. **Shifta CoC 21/0 belongs to Vanilla Nomads**, not automatically Tunguska; do not import the parent's availability.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
