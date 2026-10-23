@@ -131,3 +131,8 @@ Additional material consulted: [official May 2026 ALEPH roster additions](https:
 - **Only one Maximus version** in a normal list: choose **Agent Maximus OR Maximus TAG**.
 - **Sharvara HoundBots AVA1 Vanilla vs 2 OSS**; **Riksha/Dawon AVA5 Vanilla**, so read faction-specific indexes before transplanting counts.
 - **Aerial tier review from 2025 does not rate Tarkshya**, which did not yet exist. New ratings come from **2026 review**, not that older chart.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Vanilla signature:** **16pt Myrmidon normal Smoke + Marut MSV2**, or Hippolyta/Penthesilea Smoke with Asura/other visor attacker. The smoke carrier is cheap compared with the Marut; the **whole package** still risks huge active-turn investment. **Asura HD+ White Noise** selectively blocks enemy visors/Marksmanship, not ordinary guns.
+- **Against strong MSV lanes:** ordinary Smoke does not guarantee passage; build a different gun/marker angle, Eclipse profile where legal, or White Noise where reachable. This is a principal advantage over OSS, which uses Yadu/Claire Disco and Kinnara Eclipse instead of broad cheap Smoke. [Apex/value tiers](../list-building/vision-control-units-apex-and-value.md).
