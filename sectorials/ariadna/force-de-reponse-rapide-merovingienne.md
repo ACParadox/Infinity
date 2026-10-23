@@ -485,3 +485,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Chasseur 20/.5 Shock Minelayer** is a genuine Camo/Infiltration speed bump with Sixth Sense, Light Flamethrower and a threatening corner; **AVA4 in FRRM**, compared with AVA2 in Vanilla Ariadna. **Chasseur 20/0 FO** scores but does not start the deployment mine; don't silently combine profiles. **Counterpoint:** too many Chasseurs create redundant mine corridors and not enough direct attack; mix clearable mines with an exposed target that is actually worth protecting.
 
 [Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Forward-deployed/Parachutist infantry** may die outside a static deployment-zone Doctor's practical radius; favor **motorized/forward healer** where legal and safe, or treat the attacker as a planned trade. Engineer value rises only when there is a meaningful **STR Remote Presence/REM** target or hacking/E/M-state fix. Compared with raw WIP, **one covered movement order to reach contact** commonly decides whether medical support is worthwhile. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
