@@ -130,7 +130,7 @@ Includes infantry, REMs and **VH aerial craft** (not TAGs). VH's **No Cover** an
 | **Szalamandra HRMC68/2 — Nomads/Tunguska** | **A+** | **A** | **BS14 AP HRMC, ARM8/BTS9/3W**, excellent front-breach raw fire for smaller investment than Marut/Cutter. | 2SWC and hackable, lacks their strong first-shot MOD/asymmetric deployment. |
 | **O-Yoroi MULTI HMG78/1.5 — JSA** | **A+** | **B/A** | **BS14, ARM7/3STR, TacAware**, heavy gun plus CrazyKoala/CC/mine-related screen when a JSA plan also wants close work. | More expensive than 65–73pt TAGs of comparable pure long-gun output. |
 | **Uhlan Feuerbach70/1.5 / Spitfire80/1.5 — NCA** | **A+ (Camo/Surprise)** | **A** | **Camouflage, Mimetism−3, TacAware**, surprises hard defenders and Feuerbach/Panzerfaust threatens armor from lanes. | Less straightforward repeatable HMG volume; 80pt Spitfire accepts worse long-range bands. |
-| **Chernobog AP HMG — eligible Ariadna** | **A** | **A** | **Nonhackable 3STR/TacAware and AP**, durable direct anti-armor anchor without a hacking footprint. | Transmutation worsens after damage; bigger investment than two asymmetric lighter rifles. |
+| **Chernobog AP HMG — eligible Ariadna** | **A** | **A** | **3STR, Tactical Awareness and AP**, a durable direct anti-armor anchor; account for the normal hacking exposure of a TAG. | Transmutation worsens after damage; bigger investment than two asymmetric lighter rifles. |
 | **Shakush HMG(Continuous)58/1.5 / AP Spitfire56/1.5 — Haqq** | **A** | **A+** | Cheap TAG with Tactical Awareness, hard long-lane burning ammo or midrange AP. | Limited visibility mods; may still require Hacker/Engineer protection, terrain-dependent. |
 
 **TAG practical selections:**
