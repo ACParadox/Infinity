@@ -860,3 +860,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Highest-threat passive mines:** **Dasyu 30/.5 Viral Minelayer (2)** combines Hidden/Infiltration(ReRoll)/Mimetism(-6), but Viral is matchup-sensitive and Hidden loses its Order. **Naga 26/.5 Monofilament Minelayer** punishes elite passage (25/.5 Shock is cheaper for ordinary troops); **Kinnara 25/.5** adds E/M Mine/Decoy(2)/Sensor; **Yaksha 25/.5** brings FD(+20) ARM4 MadTraps plus E/M Carbine. **Disagreement:** durable Yaksha vs cheaper RacerBots/Pilot-X or Naga/Dasyu/Dart—buy the body only when its defensive position and weapon reach actually add value. **Yaksha 23/0 Mine Dispenser is not a zero-Order Minelayer**.
 
 [Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Sophotect25 WIP15 + Yudbot3** is excellent mixed **Posthuman/REM + Asura** recovery: 75% first-roll WIP and fast 15-10 reposition. **Parvati36** earns its higher price when **Doctor(2W), advanced Engineer and mobility** all matter. **Proxy Mk.1 Engineer** adds repair and objective capability *inside the paid legal 2–3 Proxy/G:Jumper package*, not a standalone extra Order. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
