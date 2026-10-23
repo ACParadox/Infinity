@@ -19,6 +19,7 @@ Related notes:
 - [Movement, positioning, and vision control](movement-positioning-and-vision-control.md)
 - [Hacking and network projection](hacking-and-network-projection.md)
 - [Speculative Fire](speculative-fire.md)
+- [Weapons, ammunition and engagement selection](weapons-ammunition-and-engagement-selection.md)
 - [DZ strikes and DZ defense](dz-strikes-and-dz-defense.md)
 
 ## 1. Attack the opponent's plan, not merely the opponent's points
