@@ -1,5 +1,9 @@
 # List-Building Strategy — Trading and Attrition
 
+## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
+
+[N5.3 Warbands/Cheap Traders: Apex and value](warbands-and-cheap-trading-units-apex-value.md) gives profile-specific expected trades, comparing **5pt Ghazi E/Marat**, **6pt Morlock E/M CC**, **8pt Diablo**, **14pt Makaul Eclipse/HFT**, and **21pt Dog-Warrior**. Count enemy Orders and mission access disabled, NOT E/M/Adhesive as automatic kills; check Warhorse and the Orders used to reach CC.
+
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
 The [N5.3 airborne/DZ-striker apex and value guide](airborne-and-enemy-dz-attackers-apex-value.md) adds an **expected-trade decision framework**: multiply successful **legal delivery** by *conditional* win/kill chance, then count removed future Orders, LT/CoC protection, specialist/Engineer/EVO infrastructure and mission score against attacker cost, attack/escape Orders and failed insertion tempo. It explicitly distinguishes **Fiday23/Rasyat25/Van Zant33** from **Mirage60/Caskuda64**, and *does not invent* universal unit kill probabilities.
