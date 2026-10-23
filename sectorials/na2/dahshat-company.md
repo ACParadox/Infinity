@@ -931,6 +931,12 @@ This section is analytical and non-authoritative; source profile data and the ca
 
 Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If future Army revisions change roster entries, AVA, profiles, Fireteam chart semantics, relation records, or Reinforcement linkage, update this file and its `army_source_version`/verification metadata together.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+A balanced **Dahshat** mission list wants independent **Ghulam FO12/Doctor15** (where roster-legal), a midfield camouflaged/forward specialist, and a **real Engineer** to support its expensive tech when chosen. Don't mistake **Ghulam Lieutenant or NCO** role for generic button permission; a strong hired gun cannot score Specialist-only consoles by being a good combat profile. Protect one late Specialist while the aggressive package trades.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba Guard** buys a conventional heavy ARM8 ranged centerpiece but needs S8 lanes, screening and Engineer access; **Triphammer** is a cheaper, aggressive secondary weapon choice with TacAware and the required-assault partner opportunities. When Dahshat already has efficient HI and support guns, the cheaper TAG may give better scenario value than a second long-range elite.
