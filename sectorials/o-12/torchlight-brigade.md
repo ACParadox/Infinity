@@ -803,3 +803,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Raveneye FO+Minelayer 12/0** starts an **E/M Mine or Cybermine** at the DZ/route while remaining an Order-generating Forward Observer/Deactivator. **Moonraker15/.5 Shock Minelayer** is a cheap FD(+20) outer-layer REM/adhesive speed bump, not a home-DZ 360º sentry; **Warcor 360º3/0** is the disposable edge Flash. **Peeler/other reactive guns** should cover the *next* square after the initial mine. **Counter:** do not conflate **Raveneye 12pt FO** with its 17pt LT(+1) or 18pt CoC profiles; overload of static mines can leave elite Torchlight action teams short on active Orders or scoring.
 
 [Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+
+## Tactical cross-reference — vision control (23 October 2026)
+
+**Kludger Engineer23/0 + Disco + Deactivator** covers repair **and** MSV-proof objective access on one model; **PSI-Cop KHD23/0 + Disco** trades Engineering for hacking, but its KHD **is not** White Noise. **Hippolyta37/0 Smoke** plus an eligible **Nimrod MSV2** is a different, offensive normal Smoke/MSV combination. **Counterpoint:** Kludger's value is repair plus Eclipse, not buying a 23pt template thrower when no STR recovery/mission access is required. [Cross-faction apex/value guide and transcript comparisons](../../notes/list-building/vision-control-units-apex-and-value.md).
