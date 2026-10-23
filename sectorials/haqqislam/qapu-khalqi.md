@@ -786,3 +786,9 @@ Melek Reaction Group source units also include Reinforcement Al Hawwa, Nasmat, H
 **Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Zeybek AVA1 only** (no current Qapu Haytham): **33/1.5 AP Spitfire + Smoke GL** has **Albedo**, punishing MSV/Marksmanship units that constrain Qapu smoke/White Noise; the operator can retain a Regular Order and potentially score *after the correct damage transition*. It is the high-ceiling **anti-visor flanker**, not a conventional armored TAG, and has **no natural Mimetism** against unvisored return fire. S7/No Cover/Hackable and limited repair require clear escape and ground support.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

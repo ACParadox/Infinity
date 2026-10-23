@@ -963,3 +963,9 @@ These rows are intentionally separate from the standard vanilla Haqqislam Firete
 **Maghariba (71–72)** is the ARM8, BS14 S8 heavy platform when the table fits it; **Shakush (56–58)** buys a much cheaper durable HMG/Continuous Damage or AP Spitfire and more specialist points; **Triphammer (48–53)** is an even cheaper but swingy budget assault; **Scarface & Cordelia (76–80)** is a **two-model TAG+Engineer bundle**, not an apples-to-apples TAG price. Choose according to range, S8 staging, and how much scoring/repair support remains.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Haytham AVA1:** **33/1.5 Red Fury+Panzerfaust+AP Heavy Pistol** is a mobile **MSV1** hunter of Mimetism/VH; **29/0 Heavy Shotgun(+1B)/Chain Rifle/Panzerfaust** is a cheaper short flank. **Zeybek AVA1:** **33/1.5 AP Spitfire+Smoke GL**, **Albedo/anti-MSV** and **Operator** transition answer enemies shutting down Haqq's smoke game. **Neither is a Duo.** Albedo is not generic Mimetism against normal opponents. No Cover/S7/hackability limit both; keep specialists and Engineer/GizmoKit support.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

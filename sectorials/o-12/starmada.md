@@ -874,3 +874,9 @@ This index is generated from the canonical chart above. If it ever conflicts wit
 **Zeta** is the S7 HRMC centerpiece for high-powered ranged engagements and vertical routes (Climbing Plus); it needs dedicated hacker-screening and mission scorers, not just another gun. Compare NCO/lieutenant choices *only if this sectorial's current profile actually offers them*. When missions require many distributed specialists, reserve enough points for the excellent Starmada objective network.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Firebat AVA1:** **36/0 AP SMG/Thunderbolt/LRL** provides 0-SWC opportunistic ranged flanks; **35/0 MULTI Rifle/Riotstopper/Akrylat/Blitzen** controls dangerous enemy troopers. **NCO** converts usable LT Orders into attack/retreat/Suppression and **+1 Special Die/Mimetism(-6)** improve FtF quality, but BS13/S7/No Cover still require hard AROs cleared first. This is a **VH**, unlike Starmada's **Zeta TAG** and RoadBot REM; no Fireteam permission.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

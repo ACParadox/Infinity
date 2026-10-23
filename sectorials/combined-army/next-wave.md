@@ -647,3 +647,9 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Skyhound AVA1:** **33/0 BS14 + Mimetism(-6), Plasma Carbine(+1B), AP Thunderbolt(+1B), Mine Dispenser** is arguably the strongest *raw value* flying shooter; **31/0 MULTI Rifle/Flammenspeer** gives up much of its advantage to save 2 points. **Shepherd (Oct 2025)** ranked it #3/8 counting Garuda because **Next Wave lacks cheap resilient support/backup**, not because the loadout is weak. **MetaChemistry #132** describes devastating plasma but an enemy Pitcher+Isolate neutralized it. Supply KHD/repair/exact jump LoF and safe exit; **no Fireteam rights**.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

@@ -733,3 +733,9 @@ Effective Wildcards for Mobility exclude Sonya and Jamie Rover but include Hippo
 **Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Firebat AVA1:** **36/0 AP SMG+Thunderbolt+LRL** adds 0-SWC short-to-long coverage, or **35/0 MULTI Rifle/Riotstopper/Akrylat/Blitzen** provides nonlethal attacks. **NCO** makes an available Raveneye LT(+1 Order) valuable for aerial repositioning or defensive Suppression; Mimetism(-6)/+1 Special Die make active engagements reliable against weak units. It is **not** Wrecker TAG, and at BS13 cannot replace the primary heavy-gun/ground-scoring architecture. Older Shepherd analysis rates its value and Suppression option higher than pure raw power.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

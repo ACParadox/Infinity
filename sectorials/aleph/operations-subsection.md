@@ -809,3 +809,9 @@ The Army source links OSS to Reinforcement army **799**. Reinforcement units, pr
 **Marut** is the premier MSV2 big gun, with an optional Strategos LT price/risk tradeoff. **Maximus TAG** is a tougher close-range/CC answer but gives up Marut's visor/long-range efficiency. Both fill high-priced required-choice slots in their permitted MAX-OP team; check canonical members and do not infer extra legal links from name alone. OSS's REM/specialist support can justify either without replacing the objective plan.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Tarkshya AVA1:** **34/0 MULTI MMR+Chain Rifle(+1B)** gives OSS exceptional low-SWC **MSV1/Mimetism(-6) aerial angle creation** and retains a strong **post-shell FO(+1SD) Operator** after the correct transition. **38/0 MMR+AP SMG** covers close armor, **41/1.5 MULTI Red Fury** takes valuable SWC. The **Garuda is a REM**, not a VH (despite aerial-style movement), and RacerBots are REMs. The **2025 global VH ranking predates Tarkshya**; high tier is provisional, based on the pinned current roster and OSS tactical note.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**

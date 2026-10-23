@@ -774,3 +774,9 @@ Army links Vanilla ALEPH to Reinforcement roster ID **799**. Reinforcement-only 
 **Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Tarkshya AVA1** (newer than the October 2025 global flyer ranking): **34/0 MULTI Marksman+Chain Rifle(+1B)** is an excellent low-SWC **MSV1, Mimetism(-6), STR3 Remote Presence** aerial attacker, with **capable Operator after Transmutation**. **38/0 AP SMG** enhances close armored matchups, **41/1.5 MULTI Red Fury** buys range/offensive weight but competes with Marut/other weapons for SWC. Its S apex/S value rank is **provisional 2026 profile analysis**, not an older presenter's assessment. Operator mission utility only applies in the correct state.
+
+See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
