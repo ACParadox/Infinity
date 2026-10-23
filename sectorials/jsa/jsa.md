@@ -760,3 +760,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Tokusetsu Doctor14 / Engineer14 WIP13 + Yáozăo3** is a cheap recoverability net for VITA attack pieces and **Karakuri/O-Yoroi STR** respectively; Remote Presence repair may warrant token on expensive STR. **Yuriko Oda25** adds Mimetism/mines and a forward route; **Genbutai Engineer23** can remain with a legal team if applicable. Do not confuse one 14pt medical model with the separate 14pt repair profile: jobs are different. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
