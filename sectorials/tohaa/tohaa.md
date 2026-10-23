@@ -769,6 +769,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Jaan Staar IMP-2**, **Kiiutan Imposters** and **Gao-Tarsos Combat Jump/Parachutist** are legitimate alternate DZ-assault vectors, but **Jaan Staar/Kiiutan share AVA in pinned Tohaa** (don't purchase independent maximums). **Cube Jäger Irregular Parachutist** trades cheap disruption/Paramedic role for lower pool value. **Clipsos Hidden/Infiltration** starts near side objective but does not directly deploy into enemy DZ. **Kaeltar CoC21/.5 with SymbioMate** protects a separate active fighter or important mission scorer; it is not an off-table assault profile. Assess arrival risk and actual scored mission benefit before buying multiple assassins.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
