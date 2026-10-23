@@ -880,3 +880,9 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Firebat AVA1:** **36/0 AP SMG/Thunderbolt/LRL** provides 0-SWC opportunistic ranged flanks; **35/0 MULTI Rifle/Riotstopper/Akrylat/Blitzen** controls dangerous enemy troopers. **NCO** converts usable LT Orders into attack/retreat/Suppression and **+1 Special Die/Mimetism(-6)** improve FtF quality, but BS13/S7/No Cover still require hard AROs cleared first. This is a **VH**, unlike Starmada's **Zeta TAG** and RoadBot REM; no Fireteam permission.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Cyberghost HD+ 21/0.5** projects White Noise/Oblivion via Pitcher, whereas **KHD18/0** protects the same network with Trinity; **Kappa HD13/0.5** supplies cheap general HD. **Knight Santiago FTO KHD+TinBot Firewall(-3) 31/0** is a resilient **Bronzes** team counterhacker; the **Combat Jump KHD38/0** is *not* the linked FTO profile. **PSI-Cop KHD23/0** adds mission/Disco Baller flexibility; **Raptor KHD41/0 + Devabot** buys a strong attack/peripheral fork, not cheap backline cyber coverage. **Why:** White Noise helps Zeta/Bronze clear MSV, and TinBot/KHD helps resist enemy Trinities. Opposing Starmada commentary favors mission-first Cyberghost/TinBot combinations over paying for duplicate isolated hackers.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

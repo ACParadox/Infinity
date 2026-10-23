@@ -653,3 +653,9 @@ Validated against Army snapshot `7.26246.159`:
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Kyoshō KHD20/0 versus HD20/0.5**, **Keisotsu HD16/0.5** and **Ninja KHD26/0 (Hidden)/HD33/0.5** give Oban both inexpensive backline hacking and expensive *infiltrating* mission specialists. **Why:** Kyoshō KHD supplies Trinity/Cybermask and remains a scoring troop; choose HD if the main opponent threat is hackable TAG/HI instead. Ninja's higher cost is a **deployment/hidden scoring premium**, not superior bare hacking dice. Do not project Shindenbutai Tanuki/Nokizaru teams or White Banner KHD hybrid upgrades into Oban; use Oban's own canonical roster and Fireteam restrictions.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

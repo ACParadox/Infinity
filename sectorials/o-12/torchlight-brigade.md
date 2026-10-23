@@ -739,3 +739,9 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Firebat AVA1:** **36/0 AP SMG+Thunderbolt+LRL** adds 0-SWC short-to-long coverage, or **35/0 MULTI Rifle/Riotstopper/Akrylat/Blitzen** provides nonlethal attacks. **NCO** makes an available Raveneye LT(+1 Order) valuable for aerial repositioning or defensive Suppression; Mimetism(-6)/+1 Special Die make active engagements reliable against weak units. It is **not** Wrecker TAG, and at BS13 cannot replace the primary heavy-gun/ground-scoring architecture. Older Shepherd analysis rates its value and Suppression option higher than pure raw power.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Waverider HD + Oblivion(+1B) 22/0.5 or KHD 20/0**, both with Pitcher, combines **15–5 MOV, Mimetism(-3), BTS6** and legal **Silverstars** access: the HD attacks HI/TAG, the KHD counters hacker networks. **Kappa HD13/0.5** provides a very cheap second control specialist; **Ment FTO HD20/0.5** and **PSI-Cop HD24/0.5 vs KHD23/0** provide team/mission alternatives. **Nightshade KHD34/0** pays for Hidden Deployment and close-range physical kill potential rather than pure hacking power. **Why:** a Waverider can project an accurate Pitcher while moving with a relevant team, but **TinBot/team legality** must follow the canonical Silverstars row. Upgrade **Oblivion(+1B)** matters in active anti-HI/TAG turns, unlike a plain KHD.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

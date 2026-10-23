@@ -969,3 +969,9 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Haytham AVA1:** **33/1.5 Red Fury+Panzerfaust+AP Heavy Pistol** is a mobile **MSV1** hunter of Mimetism/VH; **29/0 Heavy Shotgun(+1B)/Chain Rifle/Panzerfaust** is a cheaper short flank. **Zeybek AVA1:** **33/1.5 AP Spitfire+Smoke GL**, **Albedo/anti-MSV** and **Operator** transition answer enemies shutting down Haqq's smoke game. **Neither is a Duo.** Albedo is not generic Mimetism against normal opponents. No Cover/S7/hackability limit both; keep specialists and Engineer/GizmoKit support.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Barid KHD+Pitcher 14/0** vs **HD+Pitcher 16/0.5** is the budget question: take KHD to kill enemy hackers, HD to **Oblivion/Carbonite** ordinary HI/TAG and Spotlight. **Leila KHD+Carbonite+Firewall(-3) 22/0** combines both roles via explicit upgrade and Combat Instinct, especially with **Hunzakut/Rafiq Repeaters**; **Ghulam HD WIP14 16/0.5** supplies cheap additional HD. **Tuareg KHD 28/0 WIP15 + Firewall(-3)** buys Camo/Hidden midfield assassination and scoring; **Al Hawwa' KHD 22/0** cheaper Camo scorer. **Ragik HD 25/0.5 WIP15** is an airborne specialist, not a Turn-0 network node. **Shepherd's Haqq review** favors both cheap Barid networks and Tuareg surprise in *different* plans. Use Saladin/Coordinated disposable-network projection only if a Hacker will exploit it.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -762,3 +762,9 @@ This section is analytical and non-authoritative; source profile data and Firete
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Aelis Keesan KHD 25/0 WIP14** brings **Sensor, Triangulated Fire, Regeneration and a useful combat gun** to a legal Tohaa Triad: Trinity/Cybermask are valuable secondary roles on a mission specialist. **Kamael HD17/0.5** offers much cheaper ordinary **Carbonite/Oblivion/Spotlight**, and **Wardriver HD14/1** adds otherwise scarce cyber utility at high SWC cost. **Why:** Tohaa's strengths are generally Triads, Eclipse and resilient objective carriers rather than a Nomad-style Repeater lattice. Field Aelis for *combined combat/specialist/anti-Hacker duties*, not because the KHD alone dominates an absent network; don't pay Wardriver SWC if Tohaa gun/mission resources are more urgently needed.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -701,3 +701,9 @@ Validated against Army snapshot `7.26246.159` on 2026-10-16:
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
 
 Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../../notes/list-building/tags.md). The current unit profiles and canonical Fireteam chart above take precedence over tactical opinions.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Kyoshō HD20/0.5 vs KHD20/0**, **Teishin Combat Jump HD23/0.5 vs KHD21/0**, and **Keisotsu HD16/0.5** offer cheap regular hacking/specialist options; **Ninja Hidden KHD26/0** and **Nokizaru KHD27/0** pay for midfield camouflage/mission reach. **Kurayami Ninja HD26/0.5** can contribute a forward anti-HI program alongside JSA's melee threats. **Why:** against Hackers, KHD/Cybermask guards objectives; versus multiple HI/TAG without cyber opposition, a cheap HD/Carbonite/Oblivion is worth more than several basic KHDs. JSA's physical killers and perimeter tools should not be replaced by a Guided package unless Pitchers/Repeaters genuinely support it. **Only current JSA Fireteam rows** confer linked cyber bonuses.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

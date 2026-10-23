@@ -665,3 +665,9 @@ Validated against the pinned structured source before marking `status: current`:
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Barid KHD+Pitcher 14/0 versus HD+Pitcher 16/0.5**, both WIP14, is a premier infowar return for points. **Leila Sharif 22/0 KHD+Carbonite+Firewall(-3) and Combat Instinct** combines KHD Trinity, anti-HI control and stealth-proof reactive network defense in a permitted team. **Hassassin Govad KHD 23/0 or HD 25/0.5** supports a fighting link and WIP14, while **Ghulam HD16/0.5** is the cheap second ordinary HD. **Ragik WIP15 HD25/0.5** provides Combat Jump mission reach but cannot defend the board in Turn 0. **Why:** Barid is a low-cost Pitcher/specialist; Leila is a resilient hybrid network guard. Buying extra standard HDs without Hunzakut/Repeater reach is not added cyber control.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

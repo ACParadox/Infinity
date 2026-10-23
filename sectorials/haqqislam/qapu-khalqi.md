@@ -792,3 +792,9 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Zeybek AVA1 only** (no current Qapu Haytham): **33/1.5 AP Spitfire + Smoke GL** has **Albedo**, punishing MSV/Marksmanship units that constrain Qapu smoke/White Noise; the operator can retain a Regular Order and potentially score *after the correct damage transition*. It is the high-ceiling **anti-visor flanker**, not a conventional armored TAG, and has **no natural Mimetism** against unvisored return fire. S7/No Cover/Hackable and limited repair require clear escape and ground support.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **Current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Laxmee HD+ 24/0.5** brings **White Noise + Pitcher + Cybermine**, particularly valuable for defeating MSV snipers that challenge Janissary/Djanbazan shooting; it is not a KHD unless printed. **Leila Sharif KHD+Carbonite+Firewall(-3), 22/0** adds anti-Hacker lethal Trinity and limited anti-HI control; **Druze HD/Pitcher 25/0.5 vs KHD/Pitcher 23/0** improves projection via current legal team and X-Visor; **Al Hawwa' Camouflage KHD 22/0** scores safely forward. **Ghulam HD16/0.5** is a cheap redundancy slot. **Why:** pair **Laxmee's White Noise/Oblivion** with **Leila's Trinity**, rather than buying two identical hack devices. Exact linked profiles and Fireteam source must be checked in this Qapu chart.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

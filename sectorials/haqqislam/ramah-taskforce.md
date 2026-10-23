@@ -798,3 +798,9 @@ Validation performed:
 **Maghariba** is the strong S8 long-gun/board-control chassis: pick it on accessible open tables where BS14/ARM8 can demand multiple enemy solutions. **Shakush** is the leaner HMG Continuous Damage/AP Spitfire source when the Maghariba's huge footprint or extra points would cost Ramah its scoring/recovery engine. Check the Armored Assault Fireteam requirement and total partner cost.
 
 For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Valerya Gromoz 19/0.5 WIP14 HD + Total Control(+1B)/Pitcher** offers exceptional budget anti-TAG control; **Leila Sharif 22/0 KHD+Carbonite** kills hackers and disables ordinary hackable targets via explicit upgrade. **Tuareg KHD 28/0 WIP15/Firewall(-3)** is a hidden high-quality assassin/scorer rather than generic network; **Ghulam HD16/0.5** is budget ordinary HD, and **Mukhtar HD29/0.5** buys independent Forward Deployment/NWI mission reach. **Nahab KHD35–36/0** pays for dangerous Infiltration/Parachutist melee attacks more than pure WIP value. **Why:** Ramah has high-mobility specialists but should not spend 30+ points on hackers unless their *physical* objective/close-assault role is needed; don't import Vanilla-only Barid or Haytham.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
