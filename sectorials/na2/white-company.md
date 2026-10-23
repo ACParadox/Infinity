@@ -767,3 +767,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+**Hǎidào Engineer25/KHD22/CoC24** (when present as WhiteCo variants) combine NWI/support with legal-team mission presence; **Hawkwood CoC40** or **Emily CoC28** can provide succession *and* meaningful button/attack, not cheap insurance. **Danavas HD+22** where roster-legal handles White Noise/hacking from behind the attacker. Different roles and legal loadouts cannot be stacked in one model; use a separate quick Specialist when final console is away from the gun team.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
