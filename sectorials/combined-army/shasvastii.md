@@ -529,6 +529,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Sheskiin MULTI Rifle48/0** is the strongest affordable BS15 mobile ranged/CC attack that preserves SWC for other guns; **Red Fury50/1** improves open-field burst at extra SWC. **Sphinx93/2** buys Hidden/Mimetism(-6)/Climbing backline first shot but lacks AP on its Spitfire and is poor value into heavily armored gunlines. **Speculo** should **open/force the route**, not automatically consume the main attack group's Orders instead of Sheskiin. **Caliban CoC29** supports Sheskiin LT without standing in the same attack lane; avoid sending successor to die first. [Apex/value and commander comparison](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
