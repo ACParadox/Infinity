@@ -1,5 +1,7 @@
 # Weapons, ammunition and engagement selection
 
+**Current unit-level comparison:** [Active-turn gunfighter apex/value rankings](active-turn-gunfighters-apex-and-value.md) applies these weapon and range-band principles to exact 2026 N5.3 profiles, movement/exit Orders, Fireteams and LT/CoC. This is the **how-to** primer; the linked guide ranks **who to field and when**.
+
 ## Core principle
 
 Weapon choice in Infinity is not mainly a question of **which gun is strongest**.
