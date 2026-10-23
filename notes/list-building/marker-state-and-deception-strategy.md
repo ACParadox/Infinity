@@ -1,5 +1,7 @@
 # List-Building Strategy — Marker-State and Deception Strategy
 
+**Profile-specific N5.3 companion:** [Midfield Area Denial & Speed Bumps — apex/value](midfield-area-denial-and-speed-bumps-apex-value.md) differentiates cheap Decoy/Camo bluff (Strelok), Hidden double-mine (Shujae/Dasyu), Camo Minelayer (Chasseur/Foxtrot/Naga), and perimeter/Re​peater control (Moran/Gangbuster), including Sensor and Deactivator counters.
+
 Marker-state play in Infinity is not mainly about getting one Surprise Attack. Its larger strategic value is that it converts **uncertainty into Orders, restricted movement, awkward ARO declarations, bad target selection, and deployment mistakes**.
 
 The central question is therefore not:
