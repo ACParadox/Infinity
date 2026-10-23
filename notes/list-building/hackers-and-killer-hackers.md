@@ -1,5 +1,12 @@
 # Hackers, Killer Hackers and hybrid programs — N5.3 cross-faction tier guide
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Scoring-specific companion:** [N5.3 Mission Specialists and Button Pushers](mission-specialists-and-button-pushers-apex-value.md) compares **Asura, Deva, Danavas, Tuareg, Dokkaebi, Razor, Ninja, Jazz and basic HD/KHD troops** by ability to *physically reach and survive* objectives, not merely by Trinity/Oblivion efficiency. A backline apex Hacker is not necessarily the best turn-three button runner.
+
+[Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
+
 **Research and inventory: 2026-10-23.** Standard 300-point play, latest committed `main` N5.3 sectorial references. **Scope:** Hacking Device (**HD**), Hacking Device Plus (**HD+**), Killer Hacking Device (**KHD**), *hybrids* (HD with Trinity, KHD with Spotlight/Carbonite/Oblivion/White Noise, and relevant program-only profiles). **EVO** is rated separately as a support infrastructure investment: its baseline programs do a different job. **Tier lists are qualitative play judgments**, not official win rates. Point costs are a **sample eligible roster profile**, not universal faction costs; consult the linked actual sectorial for profile variants and Fireteam restrictions.
 
 ## The 30-second decision
