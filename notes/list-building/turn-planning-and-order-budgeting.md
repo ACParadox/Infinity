@@ -19,6 +19,7 @@ Related notes:
 - [Target priority and attack sequencing](target-priority-and-attack-sequencing.md)
 - [Deployment, Initiative, and Reserve strategy](deployment-initiative-and-reserve-strategy.md)
 - [Command Tokens](command-tokens.md)
+- [Impetuous and Irregular troop sequencing](impetuous-and-irregular-troop-sequencing.md)
 
 ## 1. Build the turn backward from the required end state
 
