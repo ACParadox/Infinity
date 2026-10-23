@@ -568,3 +568,9 @@ These tags are analytical conveniences for modular list-building, not Army chara
 **Tikbalang** is the reliable mobile value assault: Climbing Plus, Mimetism, heavy gun and close defence. **Dragões** is a dedicated ranged anchor when the table rewards a heavy fire lane over mobility/marker safety. Compare both with the actual Moto-mecanizados Fireteam and Engineer cost, not chassis alone; do not use old N4 cost claims.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**17/0.5 Acontecimento Regular HD/FastPanda** is inexpensive proactive network access. **Scylla 32/0.5 HD + Trinity and Devabot** combines an anti-heavy/anti-Hacker device with a companion Repeater/flamethrower; the EVO Scylla profile supplies *different* supportware, not ordinary HD attacks. **Naga 27/0 KHD or 29/0.5 HD + Deployable Repeater** trades cost for Camouflage/Infiltration, valuable if the mission requires a dangerous midfield console. **Choice:** Regular for general control, Naga for physical scoring, Scylla if synchronized threats and upgraded programs are actually useful; protect premium support from enemy Repeaters.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

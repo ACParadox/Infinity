@@ -710,3 +710,9 @@ The pinned Corregidor Army data links Reinforcement roster **599**. This referen
 **Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Jazz + Billie HD+ with Trinity, 25/0.5**, or **Jazz FTO 22/0.5**, is the first serious network controller: Pitcher/White Noise/Trinity interact well with **Moran Repeaters**. **Wildcat HD 27/0.5 Zero Pain + Combat Instinct** adds resilient defensive HD inside a legal Fireteam, while **Coyote KHD+Carbonite 23/0 FTO or 28/0 with BambaBot** and **Bearcat Combat Jump KHD+Firewall 29–30/0** create different anti-Hacker attacks. **Valerya HD 19/0.5 Total Control(+1B)** is affordable TAG control; **Alguacil HD 15/0.5** is a minimalist alternative. **Counterpoint (WIP12 E208, June 2026):** Moran/Jazz + Guided missile bot can consume substantial SWC before buying a main gun; don't force Guided into every list.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

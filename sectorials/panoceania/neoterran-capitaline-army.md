@@ -687,3 +687,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Redeye AVA2:** **37/1.5 Blitzen** deters heavy targets; **38/1.5 GL** can reach prone/hidden defenders without frontal LoF. **WIP12 #201 NCA (Mar 2026)** values its BS14/Sensor/Aerial angles and a **Parachutist Blade Engineer** for distant ranged GizmoKit recovery. **Against:** No Cover, Hackable, SWC tax and need for Uhlan/Swiss/Squalos to suppress hard ARO first; no Redeye Fireteam rights.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**19/0.5 Blocker HD + Firewall(-3)** is a cheap backline defensive anchor; **20/0 Deva KHD** combines WIP15/NWI/Immunity(Isolated) for better anti-Hacker and mission resilience. **Hexa HD 30/0.5 vs KHD 27/0**, **Locust KHD/Pitcher 27/0** exploit Hidden/Camo positioning, while **Bolt KHD 22/0** is cheaper Warhorse protection. **Fusilier HD 15/0.5** is the budget general HD; a **Swiss Guard 47/0 KHD or 56/0.5 HD** should be bought for Hidden Deployment attack/scoring, *not* as a backfield hacker. Use existing fast REM/FO projection; current NCA Fireteam chart does not automatically let those skirmishers join.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

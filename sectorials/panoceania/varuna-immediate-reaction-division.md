@@ -622,3 +622,9 @@ Dante finished **5th of roughly 21–22** players and especially praised layered
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Zulu-Cobra Camo KHD/Pitcher 26/0** is the strong forward anti-Hacker/specialist option; **Kamau HD + FastPanda 22/0.5** moves HD threats into midfield from an appropriate team while **Fusilier HD 15/0.5** is cheap insurance. **Croc Men Hidden HD 33/0.5** buys surprise and objective access, not superior raw cyber output; **Echo-Bravo HD 26/0.5** brings Parachutist specialist angles. **Choice:** Zulu-Cobra protects Cutter/other hackable attackers from enemy KHDs, Kamau/Fusilier's **Oblivion/Carbonite** handles enemy HI/TAG; do not claim the KHD can do both.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -937,3 +937,9 @@ See [Vanilla PanO transcript-backed review](panoceania.md#transcript-backed-comp
 **Tikbalang of Montesa** is the more self-protecting mobile attacker (Mimetism, Climbing Plus, HFT; NCO for unused LT Orders), while **Seraph** brings AP Spitfire or MULTI HMG plus Pulzar, EXP CCW and Super-Jump to force closer angles. **Disagreement:** Tik is generally safer against opposing shooters; Seraph's AP and stronger close tools matter when armored targets/vertical approaches dominate. MO's tight order/support budget can make either expensive without a second scoring route.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Apex cyber shell:** **De Fersen HD + Trinity(+1SD), WIP14, 42/0.5**, a 2W combat Knight; **Knight of Justice HD 45/0.5** supplies a **BS14 Pitcher** and durable W2/BTS9 network entry. **Cheap alternative:** **Order Sergeant FTO HD/Pitcher 18/0.5** projects network without spending Knight money; **Trinitarian Camouflage/Infiltration KHD 24/0** is an independently scoring anti-Hacker. **Knight Santiago FTO KHD + TinBot 31/0** protects a legal team and can shoot; the 38pt Combat Jump KHD is **not** the FTO option. **Disagreement:** Tactical Awareness MO REDUX praises De Fersen's +SD Trinity/linked Firewall power but concedes even cheap enemy KHD can dice him. Buy premium Knights when the same model will fight and score, not for WIP alone.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

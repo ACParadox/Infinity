@@ -782,3 +782,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Redeye AVA1:** 37/1.5 **Spitfire+Blitzen** provides reactive E/M and anti-TAG/VH deterrence; 38/1.5 **Spitfire+Continuous Damage GL** threatens inaccessible targets. BS14, ARM6, Mimetism(-6), Sensor and Jet Propulsion excel at **follow-through on an angle** after a heavy PanO gun clears elite ARO. **Disagreement:** Shepherd rates the 1.5 SWC gun's opportunity cost poorly; WIP12/Irregular Order prize its reach. Take a separate long-range ARO clearer.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Core choice:** use **Fusilier HD 15/0.5** or **Fennec HD/FastPanda 16/0.5** for cheap anti-HI/TAG/Spotlight; **Zulu-Cobra KHD 26/0**, **Nøkken KHD 25/0**, or **Locust KHD/Pitcher 27/0** buy concealment, forward angles and Trinity. **Bolt KHD 22/0** offers Warhorse for a resilient defensive link where legal. **Swiss Guard Hidden HD/KHD** has higher ambush ceiling, but 47–56 points are a poor *pure cyber* purchase. Why: PanO needs safe network projection and specialists more than a hacker that costs a second attack piece. Do not treat KHD as an Oblivion/Carbonite device without an explicit upgrade.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

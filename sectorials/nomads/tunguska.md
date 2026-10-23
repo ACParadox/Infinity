@@ -752,3 +752,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** preserves Szalamandra/Hollow-Men SWC; **32/1.5 HRL+AP SMG** buys a bigger attack. After those guns and the hacking network remove threats, its Jet Propulsion and Go-Bot create unusually deep flanks. **Robert Shepherd's detailed Tunguska review** strongly opposes treating it as a default opener: S7/ARM2/No Cover and Mimetism(-3) are hard to hide or maintain under MSV/warhorse/repeater opposition. It is not a Fireteam member.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Interventor HD+ 18–23/0.5 WIP15/BTS9**, alongside **KHD 18/0**, are premium cyber capability for near-budget prices. Use **Hollow-Men Pitcher/linked gun** and FastPandas to give them a real network; **Spektr KHD 30/0** supplies Hidden/Infiltration scoring. **Mary Problems 27/0.5** combines HD/KHD + FD/Mimetism(-6), but Shepherd's detailed faction review argues **two Interventors** better sustain a protected backfield net unless Mary must personally deploy forward. **Rounder HD+Trinity 21/0.5** and **Kulak KHD+Carbonite 20/0** make cheap hybrids. **Hollow Man HD 29/0.5 TinBot** needs legitimate link protection; do not confuse high BTS with hacking immunity.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

@@ -771,3 +771,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** is SWC efficient; **32/1.5 HRL+AP SMG** competes with Vostok/Lizard/Stigmata guns. Synchronized attack forks give an enormous mobility ceiling, but **ARM2/W2/Mimetism(-3)/S7/No Cover** make counter-fire lethal. **MetaChemistry #132 (Dec 2025)** reports regional auto-include enthusiasm versus a successful player omitting it partly due to model availability and **area-control missions**; Shepherd strongly emphasizes the low survival floor. Bring it as a late-game flanker with clear retreat.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Reverend Custodier HD+ (24–28/0.5)** adds **White Noise/Cybermask** and Mimetism(-6); its **HD/Carbonite(+1B) 26/0.5** is the more aggressive anti-heavy profile. **Rounder HD+Trinity 21/0.5** offers unusually cheap all-target hybrid control, and **Zero KHD 22/0 / Prowler KHD 30/0** defend the hacking net while scoring. **Uhahu HD 19/0.5** is economical if her Pitcher/role is sufficient; **Zoe & Π-Well** supplies engineer/remote network support at much higher total points. **Disagreement:** tournament Bakunin can succeed using CC/MSV area-control without committing to expensive Guided/KHD infrastructure. Start with useful mission specialists; add a cyber package only if Repeaters and target payoffs justify it.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

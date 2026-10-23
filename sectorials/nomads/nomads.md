@@ -845,3 +845,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** preserves precious SWC; **32/1.5 HRL+AP SMG** trades SWC for more direct firepower. Go-Bot gives a **Synchronized template/Flash Pulse fork**, not an extra Regular Order. **Disagreement:** some local scenes call it near-auto-include, while **Shepherd** argues ARM2/Mimetism(-3)/S7/No Cover and hostile Repeaters make it fragile. Best after a Nomad long gun/hacker clears serious AROs; reserve an exit Order.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Best routine duo:** **Interventor HD+ WIP15/BTS9 18–23/0.5** for safe White Noise/Oblivion, plus **Jazz HD+Trinity 25/0.5 + Billie** or another anti-Hacker for active control. **Mary Problems HD/KHD 27/0.5** uniquely gives forward Mimetism(-6), Climbing+ and a Pitcher; **Kulak KHD+Carbonite 20/0** and **Rounder HD+Trinity 21/0.5** are unusually inexpensive hybrids. **Zero KHD 22/0** scores from camouflage when hacking has no targets. **Opposing opinions:** Shepherd's Tunguska analysis prefers multiple cheap protected Interventors over Mary for long-term network control; Mary is preferable only when she personally needs forward position. Remember Jazz/Billie and Zoe/Π-Well are specific multi-model purchases, not generic extra orders.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

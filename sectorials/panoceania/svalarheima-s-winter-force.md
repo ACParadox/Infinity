@@ -699,3 +699,9 @@ Derived analysis aids, not official characteristics.
 **Jotum (82)** is a hard defensive/attrition anchor against limited AP/E/M threats: ARM10/BTS9, MULTI HMG, HFT and TacAware. Its value drops sharply against AP, E/M or repeaters that bypass the expensive armor advantage; use WinterFor's other troops to remove these threats rather than simply advancing the Jotum first.
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**15/0.5 Fusilier HD** is the inexpensive generic anti-heavy Hacker; **Nøkken KHD 25/0 vs HD 27/0.5** adds FD+20 and Mimetism(-6) for objective access and safe network angles. **Locust KHD/Pitcher 27/0 with Firewall(-3)** offers Hidden/counterhacking; HD 29/0.5 trades to Oblivion/Carbonite. **Knight of Justice HD 45/0.5** has BTS9, W2 and BS14 Pitcher but needs a premium gun/link plan to repay its cost. **Why:** a distributed Nøkken/Locust and cheap HD is often safer than staking all network coverage on one 45pt hackable Knight.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**

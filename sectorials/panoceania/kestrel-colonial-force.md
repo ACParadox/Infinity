@@ -706,3 +706,9 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Redeye AVA2:** BS14, ARM6, Mimetism(-6), Sensor and 20–5 Aerial movement. Choose **37/1.5 Blitzen** for mobile E/M ARO; **38/1.5 Continuous Damage GL** for speculative/high-angle attacks. **Irregular Order #52 (Sep 2026)** proposes **double Redeye** with a Magistrate/Jackal/Fennec shell; **Shepherd** argues paying 3 SWC for two B4 Spitfires leaves too few elite ARO-clearing guns. Plan two safe S7 hiding points, Engineer/GizmoKit rescue and ground scorers; Redeyes cannot directly touch objectives.
 
 See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+
+## Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Best rate:** **Fennec HD + FastPanda 16/0.5** cheaply moves the network forward, but WIP12 requires a backup. **Black A.I.R. FTO HD 26/0.5** adds **Combat Instinct** and MSV2/Mimetism(-3): with a real Repeater net it can deny Stealth and defend the Fennec link. **Scarecrow Camo KHD 27/0 vs HD 29/0.5** trades points for midfield mission safety; **Banshee KHD 23/0 vs HD 25/0.5** is an AD scoring/late hacker attack, not a Turn-0 network member. **Why:** don't confuse defending a wide network (Black A.I.R.) with cheaply projecting it (Fennec) or crossing the table (Banshee/Scarecrow). Check FTO chart before claiming a TinBot/bonus.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
