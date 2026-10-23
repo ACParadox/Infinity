@@ -678,6 +678,10 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Asawira AP Spitfire38/1.5** is the strong BS14/2W/BTS9 AP gun with real melee finish, best once a **Fiday** has forced/cleared the critical defensive seam; **BSG(+1B)32/0** saves SWC and dominates nearer objective-space fights. **Ragik**/Fiday are side/rear delivery, **not** substitute long HMG platforms. **Bokhtar LT and Parachutist are distinct loadouts**; **Farzan CoC24/0** is valuable because it safely insures a fighting Bokhtar/Asawira command strategy, rather than itself leading risky attacks. [Cross-game gunfighter apex/value and command-risk decisions](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
