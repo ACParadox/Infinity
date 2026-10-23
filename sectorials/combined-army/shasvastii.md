@@ -578,3 +578,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Med-Tech Obsidon21 + Slave Drone3** provides cheap dual repair/revival: keep Drone behind **Sphinx TAG fallback** and one behind **Sheskiin** or other key VITA lane. A 70% base WIP14 Doctor attempt can kill the patient on failure; keep a legal Cube token reroll if relevant. Do not send the doctor itself through Shasvastii's aggressive marker ambush route unnecessarily. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Ikadron 11/0 Light Flamethrower(+1B)** is a Regular close-corner guard with **Baggage, Repeater, Dogged and Discover(+3)**, protecting more valuable Orders. **Q-Drone Thunderbolt TR+360º 20/.5** covers rear/roof approaches and can be repaired. **Noctifer hidden ML30/1.5** is a different *second gate* that may punish commitment but loses normal Order contribution while Hidden; **Victor Messer 30/.5 Minelayer(2) Cybermines** is sophisticated but dear for mere cheerleader protection. **Counterpoint (Shepherd N4 concepts):** Q-Drone+Noctifer placement forces two problems, but an impersonator/corner bypass may skip the expensive long sightline altogether. Use cheap templates/mines at the actual extraction square.
+
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
