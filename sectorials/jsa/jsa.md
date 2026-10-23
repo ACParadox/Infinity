@@ -708,6 +708,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Oniwaban29/0 (non-LT)** or **Shinobu Kitsune44/.5** is apex hidden **Infiltration/Monofilament**: the attacker can begin safely in its own half without a roll and stage toward enemy DZ; enemy-half attempt is **Oniwaban PH18−3 = 75%, Shinobu PH19−3 = 80%**, and **cannot deploy inside enemy DZ**. Failure returns model to own DZ edge and strips initial Marker/Hidden. **Teishin BSG19/0, FO19/0, KHD21/0** is the cheapest reliable *budget investment* AD scorer/striker: actual Combat Jump still needs its PH roll, alternate normal Parachutist only outside enemy DZ. **Oniwaban LT30/1 or Shinobu LT44/.5 left in Hidden Deployment triggers LoL at the check**; use on-table marker instead and **Kempeitai CoC17** as separate backup if chosen.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
