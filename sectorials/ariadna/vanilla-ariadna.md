@@ -1444,7 +1444,7 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Spetsnaz Camo HMG36/1.5** combines **Marksmanship/Surprise/Mimetism(-3)** to remove conventional Cover-based AROs cheaply but is **one wound and no AP**; **Veteran Kazak AP HMG45/1.5** is the sturdier, Warhorse/NWI **nonhackable anti-ARM** gun, especially useful in sustained shootouts. **Chernobog AP HMG63/1.5** adds armor/TacAware for major breakthrough and secondary template role, but costs more than two independent attack pieces and its Transmutation reduces durability after damage. **Van Zant/Mirage-5** bypass gunline via rear angles and shouldn't be paid for *on top* of too many expensive frontal attackers. [Cross-game gunfighter and trade framework](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Spetsnaz Camo HMG36/1.5** combines Marksmanship/Mimetism(-3)/Surprise for a cheap **non-TAG** anti-Cover first shot; it has only 1W and lacks AP for top armor. **Veteran Kazak AP HMG45/1.5** instead buys robust NWI/Warhorse and **nonhackable AP** sustained attacks. **Chernobog** is a separate **TAG** multi-STR/TacAware AP breakthrough for the bigger investment, while **Van Zant/Mirage** are alternative rear-attack delivery pieces avoiding frontal FtF rather than extra HMGs. [Separate TAG and non-TAG ratings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
