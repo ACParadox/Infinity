@@ -96,3 +96,8 @@
 - [Corvus Belli's official October 2025 return update](https://infinityuniverse.com/en/news/army-update-october-25); [community N5 PanO tactica/video index](https://forum.corvusbelli.com/threads/n5-recap-panoceanian-tacticas.43511/); [Acontecimento tactica index](https://www.bureau-aegis.org/forum/index.php?topic=18037.0).
 
 **Method/uncertainty:** Source opinions were taken from retrieved MCP transcripts, not inferred from titles. Automated transcripts have misrecognized names and occasional tactical imprecision; source author intent is paraphrased, not quoted as precise rules. Hard roster facts and Fireteam restrictions were checked against the repository's latest `status: current` SAA reference. No Vehicle-class models are listed there.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Unique Eclipse route:** **Guarda de Assalto 40–44pts + synchronized Auxbot Eclipse launcher** is not a generic Smoke + visor package. It creates an MSV-proof crossing while the Guarda remains a BS15 active shooter; the synced delivery and base geometry cost Orders/positioning.
+- **Value split:** choose Guarda when a real objective/gunfighter needs the crossing and the Auxbot can survive; otherwise cheaper Nagas/Dart/Peacemaker lanes and conventional shooting may do more per point. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
