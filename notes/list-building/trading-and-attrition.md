@@ -33,6 +33,7 @@ Related notes:
 - [Mission, scoring, and Specialist strategy](mission-scoring-and-specialist-strategy.md)
 - [DZ strikes and DZ defense](dz-strikes-and-dz-defense.md)
 - [Movement, positioning, and vision control](movement-positioning-and-vision-control.md)
+- [Weapons, ammunition and engagement selection](weapons-ammunition-and-engagement-selection.md)
 
 ## 1. A 10-point model dying to kill 25 points
 
