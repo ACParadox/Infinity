@@ -682,6 +682,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 **Active-turn gunfighter choice:** **Asawira AP Spitfire38/1.5** is the strong BS14/2W/BTS9 AP gun with real melee finish, best once a **Fiday** has forced/cleared the critical defensive seam; **BSG(+1B)32/0** saves SWC and dominates nearer objective-space fights. **Ragik**/Fiday are side/rear delivery, **not** substitute long HMG platforms. **Bokhtar LT and Parachutist are distinct loadouts**; **Farzan CoC24/0** is valuable because it safely insures a fighting Bokhtar/Asawira command strategy, rather than itself leading risky attacks. [Cross-game gunfighter apex/value and command-risk decisions](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Ghazi 5pt Chain+Smoke**, **5pt Chain+E/Marat NO SMOKE**, **6pt Chain+Jammer NO SMOKE**, 7/8pt shotgun+Smoke variants are distinct profiles: **E/Marat disables Hackable**, Jammer causes communications/Isolated control where not Warhorse, normal Chain threatens single-W infantry. **Dogged** helps complete a cheap trade but 1W doesn't imply free kills. **Daylami 6pt Panzerfaust /8pt Camo+Panzerfaust** is the cheap *ranged* anti-TAG deterrent. **Fiday BSG23** trades/deploys differently: Impersonation/T0, not Irregular warband. **Farzan CoC24** should survive if active **Bokhtar LT45–46** is the attacking commander.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
