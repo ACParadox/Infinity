@@ -834,6 +834,12 @@ These rows are intentionally separate from the standard Vanilla Nomads Fireteam 
 - Vipera's multiple `required: true` rows are treated as a required-choice set rather than incorrectly requiring all marked rows simultaneously.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Shifta CoC 21/0** provides an unusually cheap nonhackable, E/Marat/Disco Baller successor while adding actual DZ/mission denial. **Kulak CoC 23/0.5** has more direct assault potential but is not as economical when a sheltered backup is enough. A passive Interventor/Moderator LT with NCO exploitation is a different command architecture; **Shifta is not automatically legal in Bakunin, Corregidor or Tunguska**.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
