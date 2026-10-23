@@ -700,6 +700,10 @@ Derived analysis aids, not official characteristics.
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Nisse HMG31/1.5** is efficient **MSV2/Mimetism(-3)** anti-camo long-range fire, especially with a legal Nisse/Beta team already purchased; 1W makes it a poor armor tanker. **Jotum MULTI HMG82/1.5** buys extraordinary **ARM10/BTS9/3W**, TacAware and immunity to critical for head-on conventional gunlines—worth it when opponents lack E/M/CC/hacking counterplay; a weaker *value* purchase when those counters are common. **Knight of Justice Spitfire42/1.5** adds a smaller midrange body and CC threat when mission midfield matters more than indestructible long-lane pressure. **Jotum LT82/2 is a separate and riskier command profile**. [Gunfighter apex/value, situational LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Jotum (82)** is a hard defensive/attrition anchor against limited AP/E/M threats: ARM10/BTS9, MULTI HMG, HFT and TacAware. Its value drops sharply against AP, E/M or repeaters that bypass the expensive armor advantage; use WinterFor's other troops to remove these threats rather than simply advancing the Jotum first.
