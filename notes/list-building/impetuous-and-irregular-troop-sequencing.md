@@ -1,5 +1,9 @@
 # Impetuous and Irregular troop sequencing
 
+## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
+
+[N5.3 Warbands and Cheap Trading Units](warbands-and-cheap-trading-units-apex-value.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
+
 ## Core principle
 
 Impetuous and Irregular troops should be treated as **semi-autonomous Order packages**, not merely as cheap bodies.
