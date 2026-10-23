@@ -500,3 +500,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Foxtrot Boarding Shotgun + Shock Mine Minelayer 18/.5** is the inexpensive Regular Camo/Infiltration turn-zero obstacle. **Foxtrot FO 18/0** scores instead and does not deploy a mine at setup; Hardcase 12/0 is cheap Irregular Camo/Decoy and Beasthunter 15/0 provides close-range template and AP mine pressure, but neither duplicates Foxtrot Minelayer. Opposing concern: buying too many disposable midfield blockers can weaken USARF's counterattack and objective specialists.
 
 [Whole-game area denial tiers and sources](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Warband/low-cost LI casualties** often aren't worth 3–4 Orders of Doctor travel unless they are the last scoring Specialist. Use a roster-legal **112-style Doctor/Engineer** only when it supports an expensive ARO, vehicle or objective specialist; **No-Cube targets** have no ordinary Cube-based token reroll. Consider **GizmoKit PH and Repair WIP** separately; the 2–3pt Servant is an Order-efficiency investment, not an extra independent activation. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
