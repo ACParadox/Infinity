@@ -788,3 +788,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Core choice:** use **Fusilier HD 15/0.5** or **Fennec HD/FastPanda 16/0.5** for cheap anti-HI/TAG/Spotlight; **Zulu-Cobra KHD 26/0**, **Nøkken KHD 25/0**, or **Locust KHD/Pitcher 27/0** buy concealment, forward angles and Trinity. **Bolt KHD 22/0** offers Warhorse for a resilient defensive link where legal. **Swiss Guard Hidden HD/KHD** has higher ambush ceiling, but 47–56 points are a poor *pure cyber* purchase. Why: PanO needs safe network projection and specialists more than a hacker that costs a second attack piece. Do not treat KHD as an Oblivion/Carbonite device without an explicit upgrade.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-building/cheerleaders-and-order-generators.md) contrasts Orders-per-point, passive utility, matchup dependence, and opposing transcript opinions. **Use this roster for legal AVA, exact profile costs, Training and Fireteam restrictions.**
+
+- 7pt Fugazi — Flash Pulse/Mimetism/Repeater Regular bot: usually prime passive fuel, with S3 footprint and AVA caveats.
+- 8pt Mulebot — Baggage/Repeater Regular support; reload and a protected DZ slot increase its value.
+- Fusilier/Fennec — about 10pt small-base Regular line material where legal; costs more than a Flashbot but helps meet link, LT, defensive and scoring requirements.
+- Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
+- Helot — cheap Irregular roadblock/ARO; valuable defensive tax but no generic Regular pool Order by default.
+
+**Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.

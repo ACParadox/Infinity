@@ -780,3 +780,16 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Druze KHD+Pitcher 23/0** is a 0-SWC Hacker-hunter/scorer with native ranged network projection; **Druze HD+Pitcher 25/0.5** instead threatens *ordinary* HI/TAG via Oblivion/Carbonite. **Valerya Gromoz WIP14 HD+Total Control(+1B) 19/0.5** is extraordinarily good value for anti-TAG possession and another Pitcher. **Brawler HD16/0.5** provides cheap redundant Spotlight, while **Kameel EVO14/0.5** only pays if supportware has beneficiaries. **Why:** Druze's own linked X-Visor Pitcher/carrier and multiple Repeaters can make two complementary hackers much stronger than either alone. Beware SWC spent on a guided missile package before buying a true high-Burst attack gun.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-building/cheerleaders-and-order-generators.md) contrasts Orders-per-point, passive utility, matchup dependence, and opposing transcript opinions. **Use this roster for legal AVA, exact profile costs, Training and Fireteam restrictions.**
+
+- 7pt Fugazi — Flash Pulse/Mimetism/Repeater Regular bot: usually prime passive fuel, with S3 footprint and AVA caveats.
+- Authorized Bounty Hunters — a cheap Regular, Booty-enabled guard or trade body if the chosen profile is legal; compare its base cost and Team commitment.
+- Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
+- Peacemaker — pricier Regular REM/peripheral defensive coverage and network projection; not an economical pure cheerleader.
+- Pathfinder — more points than 7pt Flashbot but real Sensor/FO/scoring utility; an upgrade only if the mission/network uses it.
+
+**Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.

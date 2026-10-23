@@ -740,3 +740,15 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Uhahu HD+ 19/0.5 WIP14 with Pitcher, NWI** is one of the best cheap network/White Noise engines in NA2; **Zero KHD22/0** and **Bandit KHD26/0** add field-camouflaged Trinity/Cybermask and objectives. **Brawler HD16/0.5 / Alguacil HD15/0.5** buy inexpensive normal Carbonite/Oblivion; **Mobile Brigada HD36/0.5 with TinBot Firewall(-6)** gives a sturdier legal-link anchor when heavy infantry must cross repeater space. **Why:** StarCo can have **Uhahu + cheap KHD** for a complete low-cost hacker stack while freeing points for core attack pieces. A pricey linked Brigade HD is useful only if its gun/Fireteam and firewall actually get Orders and protect the rest.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-building/cheerleaders-and-order-generators.md) contrasts Orders-per-point, passive utility, matchup dependence, and opposing transcript opinions. **Use this roster for legal AVA, exact profile costs, Training and Fireteam restrictions.**
+
+- Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
+- 10pt Alguacil — standard S2 Regular Order and link/decoy body; SWC weapon upgrades need a specific purpose.
+- 7pt Transductor — passive Repeater/Flash Regular Order; consider base congestion and AVA.
+- 8pt Salyut — Baggage/Repeater Regular support; useful reload infrastructure.
+
+**Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.

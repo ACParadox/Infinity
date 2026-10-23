@@ -886,3 +886,15 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Cyberghost HD+ 21/0.5** projects White Noise/Oblivion via Pitcher, whereas **KHD18/0** protects the same network with Trinity; **Kappa HD13/0.5** supplies cheap general HD. **Knight Santiago FTO KHD+TinBot Firewall(-3) 31/0** is a resilient **Bronzes** team counterhacker; the **Combat Jump KHD38/0** is *not* the linked FTO profile. **PSI-Cop KHD23/0** adds mission/Disco Baller flexibility; **Raptor KHD41/0 + Devabot** buys a strong attack/peripheral fork, not cheap backline cyber coverage. **Why:** White Noise helps Zeta/Bronze clear MSV, and TinBot/KHD helps resist enemy Trinities. Opposing Starmada commentary favors mission-first Cyberghost/TinBot combinations over paying for duplicate isolated hackers.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-building/cheerleaders-and-order-generators.md) contrasts Orders-per-point, passive utility, matchup dependence, and opposing transcript opinions. **Use this roster for legal AVA, exact profile costs, Training and Fireteam restrictions.**
+
+- 7pt Kyttä — cheap mobile Flash/Repeater/Mimetism Regular Order; check local AVA and deployment safety.
+- 8pt FuzzBot — Baggage/Repeater plus Regular Order, excellent if the S4 footprint can be concealed.
+- 12pt Kappa — S2 baseline Regular Order, with modest Specialist/Commlink upgrades; compare their actual mission utility against cheaper REMs.
+- Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
+
+**Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.

@@ -745,3 +745,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Waverider HD + Oblivion(+1B) 22/0.5 or KHD 20/0**, both with Pitcher, combines **15–5 MOV, Mimetism(-3), BTS6** and legal **Silverstars** access: the HD attacks HI/TAG, the KHD counters hacker networks. **Kappa HD13/0.5** provides a very cheap second control specialist; **Ment FTO HD20/0.5** and **PSI-Cop HD24/0.5 vs KHD23/0** provide team/mission alternatives. **Nightshade KHD34/0** pays for Hidden Deployment and close-range physical kill potential rather than pure hacking power. **Why:** a Waverider can project an accurate Pitcher while moving with a relevant team, but **TinBot/team legality** must follow the canonical Silverstars row. Upgrade **Oblivion(+1B)** matters in active anti-HI/TAG turns, unlike a plain KHD.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-building/cheerleaders-and-order-generators.md) contrasts Orders-per-point, passive utility, matchup dependence, and opposing transcript opinions. **Use this roster for legal AVA, exact profile costs, Training and Fireteam restrictions.**
+
+- 7pt Kyttä — cheap mobile Flash/Repeater/Mimetism Regular Order; check local AVA and deployment safety.
+- 8pt FuzzBot — Baggage/Repeater plus Regular Order, excellent if the S4 footprint can be concealed.
+- 12pt Kappa — S2 baseline Regular Order, with modest Specialist/Commlink upgrades; compare their actual mission utility against cheaper REMs.
+- Waverider — fast forward network/multi-role piece rather than pure passive Order filler; invest for actual hacking and scoring payoff.
+- Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
+
+**Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.
