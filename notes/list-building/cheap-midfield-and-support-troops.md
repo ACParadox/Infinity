@@ -1,5 +1,9 @@
 # List-Building Strategy — Cheap, Midfield, and Support Troops
 
+## N5.3 Warband / cheap-trader profile comparisons (2026-10-23)
+
+[Warbands and Cheap Trading Units — Apex/Value tiers](warbands-and-cheap-trading-units-apex-value.md) compares **5pt Ghazi/Galwegian/Shaolin, 6pt Morlock E/M, 8pt Irmandinho/Diablo, 10pt Regular Varangian/Jaguar, 14pt Dāturazi/Makaul, and multi-Wound Dog-Warriors**. Each entry identifies *the target it trades into, its Order cost, reliability and when an enabler beats a disposable attacker*. The generic list-building principles below remain valid.
+
 ## Weak troopers: minimize cost or create trade-up threats
 
 As a general rule, avoid paying significant points and SWC to put conventional heavy weapons such as **HMGs, HRLs, or Missile Launchers** on low-quality troops such as basic line infantry. A weak trooper with low BS, little or no offensive MOD stacking, and low ARM is usually a poor platform for an expensive weapon: it struggles to win Face-to-Face Rolls and is easy to remove once exposed.
