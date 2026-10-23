@@ -1442,6 +1442,10 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Spetsnaz Camo HMG36/1.5** combines **Marksmanship/Surprise/Mimetism(-3)** to remove conventional Cover-based AROs cheaply but is **one wound and no AP**; **Veteran Kazak AP HMG45/1.5** is the sturdier, Warhorse/NWI **nonhackable anti-ARM** gun, especially useful in sustained shootouts. **Chernobog AP HMG63/1.5** adds armor/TacAware for major breakthrough and secondary template role, but costs more than two independent attack pieces and its Transmutation reduces durability after damage. **Van Zant/Mirage-5** bypass gunline via rear angles and shouldn't be paid for *on top* of too many expensive frontal attackers. [Cross-game gunfighter and trade framework](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
