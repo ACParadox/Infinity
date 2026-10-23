@@ -631,6 +631,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Echo-Bravo** provides **ordinary Parachutist**, not Combat Jump or direct enemy-DZ edge arrival: **BSG(+1B)+LRL 26/0** attacks a weak flank, **Paramedic 27/0** scores/revives, **HD 26/0.5** projects an unexpected hacker; Decoy(1) adds selection pressure. **Croc Men Hidden/Infiltration** approach via a safe midfield lane instead. **Cutter Hidden TAG** is a powerful expensive on-table threat, not a drop troop. **Varuna has no CoC**, so any active-LT DZ attack plan must price a real Loss-of-Lieutenant risk.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
