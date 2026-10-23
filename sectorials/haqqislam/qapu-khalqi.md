@@ -791,6 +791,12 @@ For the full practical [Qapu Khalqi list-building and profile-selection guide](.
 
 See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Hafza FO17/0 vs CoC20/0 vs LT(+1)19/0** are *different* Holomask utility/command choices; the FO is a useful cheap linked/near-side button, CoC can be mission Specialist when allowed. **Odalisque Paramedic** provides mobile non-Hacker scoring in eligible links; **Kaplan/Sekban Doctor/Engineer** support tech recovery as actually printed. **Rafiq FTO19/0.5 legal Wildcard** is not the same cheaper Rafiq profile; Sensor/Repeater/FO scoring only on selected bot profile. Plan distinct early and late console routes.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
