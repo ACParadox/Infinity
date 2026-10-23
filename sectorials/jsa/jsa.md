@@ -716,7 +716,7 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** JSA's exceptional **Hatamoto** and **Oniwaban/Shinobu** excel at *moving into short-range/CC or mission objectives* rather than replacing a long-range HMG in fair ranged duels; choose them when terrain denies long sight lines or a protected target must be surgically removed. **Hatamoto combat Specialist / LT are distinct legal profiles**, with LT carrying amplified Loss-of-Lieutenant risk. **Kempeitai CoC17/0** cheaply insures a fighting Hatamoto LT while supplying a BSG corner threat; no CoC attack piece becomes an automatic primary gun. **Teishin19–21** can deliver a cheap backline/last-turn specialist rather than taking fair long-range FtF rolls. [Ranged gunfighter matchups and LT/CoC tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Hatamoto** and **Oniwaban/Shinobu** are particularly efficient at **midfield/short-angle and CC** fights, not conventional 32in HMG FtF. **Hatamoto Plasma Carbine34/0** converts efficient close shots into scoring with Specialist Operative; **Red Fury40/1** buys more conventional midrange volume. **Teishin** is a cheap angled/backline threat, not a long ARO clearer. For open heavy lanes a suitable roster-specific **TAG** or separate long gun must carry that task instead of forcing a CC specialist into an unfavorable range band. [Non-TAG vs TAG gunfighter comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
