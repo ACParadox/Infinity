@@ -2,6 +2,8 @@
 
 Support should be treated as **board infrastructure**, not merely as “bringing a Doctor” or “bringing an Engineer.”
 
+**Current N5.3 comparative rankings and worked recovery probabilities:** [Doctors, Engineers and Recovery — Apex/Value](list-building/doctors-engineers-and-recovery-apex-value.md). This note details *positioning*; the new guide compares specific 2026 profiles, WIP/PH outcomes, and failure risks.
+
 For broader strategy around **combat Peripherals, Synchronized/Control bodies, ARO-choice pressure, Controller protection, Cyberplugs, and G: Jumper**, see `list-building/peripherals-synchronized-and-multi-body-troops.md`. This note remains the detailed source for Doctor/Engineer recovery architecture and Servant positioning.
 
 The central question is:
