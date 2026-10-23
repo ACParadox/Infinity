@@ -135,3 +135,8 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 - [ ] Are any tips/points from **2025 transcripts** superseded by current [Army profile](../../sectorials/nomads/nomads.md)?
 
 **Default builds worth testing:** (1) Szalamandra + Interventor/Jazz + Zero/Moran + two cheap repeater bots; (2) Gecko + Evader Duo supported by Kulak CoC, mixed hacking and a separate long gun; (3) Vostok/EVO/Stempler + Mary/Jazz + cheap screening and a non-hackable Territorial. These are **construction exercises, not verified legal Army exports**; confirm all points, SWC, and group/order caps in Infinity Army.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Choose one main lane engine:** **Morlock Smoke + Intruder MSV2**, **Jazz/Interventor HD+ + Repeater network → White Noise** vs visors/Marksmanship, **Chimera Eclipse** to deliver CC, or a legal **Disco Baller** (Kulak/Lobo/Prowler/Shifta by selected profile). They solve different LoF problems; do not build the *same* list as if one template enabled all four.
+- **Counterargument:** the strongest hacking grid costs Pitcher, move and setup Orders; a cheap Smoke/Disco crossing can score without eliminating the ARO. If a visor is not the problem, White Noise is not value. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
