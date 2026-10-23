@@ -705,6 +705,12 @@ The pinned Corregidor Army data links Reinforcement roster **599**. This referen
 - Rules baseline: N5.3 + N5 FAQ v0.1
 - Verified: 2026-10-15
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Moran FO15–18/.5** is an exceptional midfield button/repeater/CrazyKoala package with Infiltration and Mimetism(-3); a Repeater profile and 1-use Camo profile are *different*. **Jazz FTO HD+22/.5** or **Jazz+Billie25/.5** provides Hacking Device Plus/Pitcher and related Order infrastructure; two different selections. **Evader Engineer24–29** repairs while climbing/fighting, but **AP Spitfire Specialist Operative** is *not* simultaneously Engineer. **Coyote FO27–33** has MSV1/Warhorse and BambaBot when actual profile permits.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
