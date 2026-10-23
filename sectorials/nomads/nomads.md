@@ -852,6 +852,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Kriza Borac HMG45/1.5** supplies the strongest independent raw **+1B HMG / BS Attack(-3)** for price, at the cost of slower hackable S5 approach; **Vostok Mk12 38/0 / Spitfire37/1** gets **Mimetism(-6), Climbing Plus, 2STR** and better angles, but REM supportware costs Orders and its Vanilla **FTO** loadouts do not authorize a Fireteam. **Intruder HMG38/1.5** is a distinct **MSV2/Camo/smoke** matchup pick. **Szalamandra HRMC68/2** brings huge armor AP volume, but cannot also afford every support/hacker/second gun. [Gunfighter apex/value and opponent-specific matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
