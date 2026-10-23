@@ -531,7 +531,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Sheskiin MULTI Rifle48/0** is the strongest affordable BS15 mobile ranged/CC attack that preserves SWC for other guns; **Red Fury50/1** improves open-field burst at extra SWC. **Sphinx93/2** buys Hidden/Mimetism(-6)/Climbing backline first shot but lacks AP on its Spitfire and is poor value into heavily armored gunlines. **Speculo** should **open/force the route**, not automatically consume the main attack group's Orders instead of Sheskiin. **Caliban CoC29** supports Sheskiin LT without standing in the same attack lane; avoid sending successor to die first. [Apex/value and commander comparison](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Sheskiin MULTI Rifle48/0** is the effective BS15 mobile close/midrange gun without SWC expense; **Red Fury50/1** trades SWC for better ranged Burst. **Sphinx Spitfire93/2** is a separate **TAG** category: Hidden/Mimetism(-6)/Climbing creates an oppressive first shot, but a non-AP Spitfire against top ARM is weak points value. **Speculo** changes defender positioning and can reveal the real attack route; avoid spending the whole turn on an unsuitable assassination when Sheskiin can exploit the opening. [Non-TAG/TAG apex and value rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
