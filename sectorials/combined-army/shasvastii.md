@@ -568,3 +568,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Ikadron Baggage/Flamethrower** — cheap multi-purpose DZ corner guard and Repeater; contributes more than pure filler without being a long gun
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Cheap layered markers:** **Shrouded Dazer Minelayer 21/0** blocks an approach via movement geometry; **Shrouded Shock Minelayer 24/.5** adds lethal corner denial. Regeneration/Camo density makes either harder to clear permanently. **Speculo 31/1.5 Shock Minelayer** imposes Impersonation plus a prepaid mine but cannot place its initial mine in an existing enemy's trigger area. **Counterpoint:** Dazer is low value where lanes bypass it; **Malignos** Hidden is dearer and should have a specific specialist/attack role rather than replace every Shrouded.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
