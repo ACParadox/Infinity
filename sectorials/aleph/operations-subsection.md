@@ -812,7 +812,7 @@ The Army source links OSS to Reinforcement army **799**. Reinforcement units, pr
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Posthuman Proxy Mk.4 HMG30/1.5** is exceptional BS14/ARM5/2W gun **only inside a legal 2–3 Proxy G:Jumper package**, often with **Mk.1 Engineer13** and one mission Proxy; it is **not** an independent extra pooled Order. **Asura AP Spitfire61/1.5 vs HD+ MMR63/0.5** trades armor-killing gun versus lower-SWC hacking/white-noise mission utility. **Marut 86/1.5** attacks long-range Mimetism/Smoke AROs but can crowd scoring. **LoL #175 OSS tournament speakers disagree** whether Asura revisions raised its floor or lowered its ceiling; they both rate Mk.4 gun very efficient in package. [Apex/value, order costs and transcript details](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Posthuman Mk.4 HMG30/1.5** is an extraordinary BS14/ARM5/2W **non-TAG** gun only inside its required **2–3 Proxy G:Jumper package**; Mk.1 Engineer can make the package useful even if the HMG fails. **Asura AP Spitfire61/1.5** wins anti-armor/Mimetism mids, while **HD+ MULTI MMR63/0.5** is a different hack/mission build; **Marut86/1.5** is the much more expensive **TAG** long-lane MSV2 solution. **Loss of Lieutenant #175 disagreement:** Asura revision raised practical floor, some say reduced ceiling; Mk.4 remains an efficient purchased package. [Gunfighter combat tiers, TAG separated](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
