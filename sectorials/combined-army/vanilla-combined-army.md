@@ -798,6 +798,10 @@ The pinned Combined Army source links Reinforcement army **699**. The standard s
 - The source marks Sartroid Ranters/Puzzlers as Peripheral (Cyberplug); this file does not invent an additional top-level controller relation that is not encoded in the snapshot.
 - Reinforcement army 699 is linked but not merged into the standard roster or canonical Fireteam chart.
 
+## Expanded Vanilla Combined tactical guide (2026-10-23)
+
+The [Vanilla Combined Army N5.3 tactical/list-building guide](../../notes/factions/vanilla-combined-army.md) compares middleweight packages with Avatar/Anathematic/Charontid, Vector+Unidron/Nexus, Overdron TAG builds and hidden threats. **Charontid MSV3 guns and HD+/Sepsitor options are distinct loadouts.** Vanilla has **Duo/Haris, no standard Core** and current TAG options **Avatar, Overdron, Sphinx, Caskuda** only.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
