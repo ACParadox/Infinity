@@ -1,5 +1,12 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission-specialist cross-check:** [N5.3 Button Pusher Apex/Value tiers](mission-specialists-and-button-pushers-apex-value.md) separately ranks **CoC as an objective role** (Farzan, Caliban, Nexus, Magistrate, Raveneye, Kempeitai, Kaeltar) and **actual specialist LTs** (Magistrate, Hatamoto, Barid FO, Vassily FO, Sukeul FO). **CoC (Non Specialist)** does not qualify for Specialist-only mission tasks merely from CoC; **LT alone** is also not an ordinary button-pusher.
+
+[Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
+
 _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fireteam legality use the pinned September 2026 Army 7.26246.158/159 files under [sectorials](../../sectorials/combined-army/vanilla-combined-army.md); [local N5.3 rules](../../rules/README.md) and FAQ v0.1 override historical media. The rankings are tactical **judgments, not tournament win rates**. Each named unit is available only in the faction/sectorial where its profile exists._
 
 **Related:** [Existing Lieutenant/command strategy](lieutenant-and-command-structure.md), [Order efficiency](order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game tiers and researched profile-specific circumstances instead of replacing the existing command primer.**
