@@ -565,3 +565,8 @@ Current starting assumptions for future Caledonia analysis:
 - When the 9-point Beasthunter FTO is better than the 15–17 point camouflaged profiles.
 - Whether Wardriver/Isobel/Guided packages are strong enough to justify their slots in current tournament missions.
 - Two-list pairing: Wallace horde/control list paired with a more elite Mormaer/Wulver list.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Low-cost Smoke saturation:** **5pt Galwegians**, 23pt McMurrough, Wallace and Highlander Grey can open multiple close-assault lanes; training/Order conversion depends on the actual Wallace/list composition. Avoid treating every 5pt warband as a free shared Regular Order without checking the army.
+- **Best use:** protected short-range scoring and trades, not automatic MSV2 smoke-shooting. Need hard targets stopped at the *end* of the smoke route with mines/templates/overlapping threats. [Global vision tiers](../list-building/vision-control-units-apex-and-value.md).
