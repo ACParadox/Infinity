@@ -819,3 +819,9 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 - **Gao-Rael sniper** — MSV2/2W Symbiont support for visible long-lane presence; more expensive than Kaauri/Taagma
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Zero-SWC rear guard:** **Kaauri E/M Minelayer 11/0** gives a small Sixth Sense/MSV1/Biometric anti-intrusion body and a deployment mine, not an infiltrator. **Hidden Clipsos Shock Minelayer 23/.5** is genuine midfield surprise but its **FO 26/0** is separate and Hidden orders are withheld; **Draal 33/1 Shock Minelayer** adds a robust 2W FD body. **Draal Dazer 32/0 is NOT Minelayer**; its Dazer placement later costs Orders. **Counterpoint:** a fast Kotail/Gao-Tarsos mission run or cheap Kaauri may be better than overbuying hidden mines.
+
+[Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
