@@ -562,3 +562,10 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Wallace LT 38/0** converts qualifying Irregular warbands with Inspiring Leadership and unlocks a special coordinated assault, whereas **Mormaer LT(+1) 41/0 T2 or 49/1 HMG** deliberately funds a tougher fighting-LT plan. Older **Scots Guard NCO** advice must be checked against this specific faction's chart (do not import Kosmoflot assumptions). Choose Wallace with many useful Irregulars, Mormaer when extra personal combat Orders and armor matter more.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
