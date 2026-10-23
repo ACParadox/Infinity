@@ -638,6 +638,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice:** **Overdron HRMC62/1.5** is an affordable AP/Albedo heavy-gun answer to opposing MSV/long AROs; **plasma sniper59/1.5** instead forces different saves but cannot be assumed a stronger direct active HMG. **Caskuda64/1** can break DZ support from an unexpected jump but must account for PH landing risk, lost first-turn Order and lack of Partial Cover on arrival; it is **not** the steady primary long-range gun. **Nexus CoC23/0** gives a protected NCO/mission backup when a fighting commander needs orders and succession, subject to the **Onyx Unidron** Wildcard restriction. [Cross-game gunfighter tiers and media dissent](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Onyx** lacks the broad **Dāturazi Regular-Smoke/cheap-Hungries** suite in Vanilla/MAF: use **roster-legal Ikadron/Unidron cheap templates and REM screens** to tax enemy close assault, **D-/M-Drone** sensor/tech where actually permitted, and linked **Nexus/Kerr-Nau** hacking/White Noise against fragile midfields. **Greif IMP-2** can impose early order/deployment tax but is not a 5pt warband. **Nexus CoC23** is a succession/scoring profile, **not** disposable anti-TAG melee. No imaginary 4pt Gaki imported from Morat.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
