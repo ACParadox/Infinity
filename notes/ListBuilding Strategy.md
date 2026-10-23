@@ -4,7 +4,7 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
-- [Active-turn gunfighters — N5.3 apex, points-value, LT/CoC and matchup rankings](list-building/active-turn-gunfighters-apex-and-value.md)
+- [Active-turn gunfighters — N5.3 non-TAG and TAG apex/value rankings by matchup](list-building/active-turn-gunfighters-apex-and-value.md)
   - Burst vs +1SD, BS/MSV/Marksmanship, ammo, mobility and real Orders; transcript-backed alternative opinions
 
 - [ARO units — N5.3 apex and points-value tier lists, hidden ambush and reactive defence](list-building/aro-units-apex-and-value.md)
