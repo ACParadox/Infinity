@@ -854,7 +854,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Kriza Borac HMG45/1.5** supplies the strongest independent raw **+1B HMG / BS Attack(-3)** for price, at the cost of slower hackable S5 approach; **Vostok Mk12 38/0 / Spitfire37/1** gets **Mimetism(-6), Climbing Plus, 2STR** and better angles, but REM supportware costs Orders and its Vanilla **FTO** loadouts do not authorize a Fireteam. **Intruder HMG38/1.5** is a distinct **MSV2/Camo/smoke** matchup pick. **Szalamandra HRMC68/2** brings huge armor AP volume, but cannot also afford every support/hacker/second gun. [Gunfighter apex/value and opponent-specific matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Kriza Borac HMG45/1.5** is a strong **non-TAG** +1B/BS Attack(-3) FtF option, while **Vostok Mk12 38/0 or Spitfire37/1** trades raw Burst for Mimetism(-6), Climbing and 2STR recovery. **Intruder HMG38/1.5** supplies different Camo/MSV2/smoke attacks when vision MODs are main obstacle. **Szalamandra HRMC68/2** is the separate heavy **TAG** AP volume option when the list can still afford specialist/support redundancy. Vanilla FTO tags alone do not authorize Fireteam bonuses. [Combat apex/value with TAGs separately ranked](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
