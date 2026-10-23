@@ -575,3 +575,6 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doctor whose likely casualties **won't be eligible to revive** after Dogged. A roster-legal **112/Dozer/Irmandinho** should be valued for actual mission, Smoke and anti-state tasks. **Doctors fail lethally** on eligible No-Cube VITA targets without Cube reroll; recovery support is better reserved for a durable specialist or significant ARO worth bringing back. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
