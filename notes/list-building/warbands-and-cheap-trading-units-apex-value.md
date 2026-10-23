@@ -8,6 +8,8 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
 
 ## Fast verdict — the role determines the winner
 
+**Cross-role comparison:** cheap warband **Smoke** and **Eclipse** are ranked specifically as vision-control enablers against **Disco Ballers, Mirrorball and White Noise** in the [N5.3 Vision Control apex/value guide](vision-control-units-apex-and-value.md); don't infer full-list Smoke value from CC/trading efficiency alone.
+
 - **Best generic dirt-cheap value:** **Ghazi Muttawi'ah 5–6/0**, **Galwegian Chain Rifle 5/0**, **Shaolin Monk Chain Rifle 5/0**, **Morlock Chain Rifle + Smoke + E/M CCW 6/0**, **Yuan Yuan Chain+Smoke 6/0** (only eligible factions). For *one high-risk trade*, favor the **right weapon** over 1pt differences: Ghazi E/Marat attacks Hackable targets; a 5pt Galwegian cannot.
 - **Best reliable anti-HI/TAG 5–10pt *state* threat:** **Ghazi E/Marat 5/0 (Haqq/Bahram profile-dependent Smoke access)**, **Morlock E/M CCW 6/0** and **Daylami Panzerfaust 6/0 / Camo+Panzerfaust 8/0**. The Daylami can **threaten at range**; templates and E/M CC generally require proximity and delivery.
 - **Best *Regular* smoke + violent assault:** **Dāturazi Chain Rifle(+1B)14/0**, **Varangian 10/0 (Kosmoflot) or 12/0 (O-12/eligible)** and **Jaguar Chain Rifle+Smoke10/0 (Corregidor)**. They supply **Regular Order infrastructure**, not just sacrificial Irregular activations. Dāturazi also brings MA4/Warhorse/DA CC; Jaguar supplies Dogged/link/MSV2 Intruder smoke.
