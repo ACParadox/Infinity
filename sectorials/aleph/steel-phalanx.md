@@ -617,3 +617,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** For expensive VITA assault troops, a roster-legal **Doctor(2W)** can restore useful durability in one roll; **Sophotect** is a flexible high-WIP Doctor/Engineer if available. For the **Agamemnon TAG** or STR support, stage an eligible **Engineer/Yudbot** along the *return* route. A fast Achilles/Myrmidon assault that leaves the network cannot be counted as cheaply recoverable. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Ajax39 FTO vs 45 FD+20** is different legal delivery with MA3, NBW, Berserk, EXP and 2W/NWI; **Eudoros36** is MA4/Mimetism−6 Mk12 assault, **Hippolyta37** brings Super-Jump/Smoke/Berserk/EXP. **Andromeda30 Guard** covers LoF+ZoC around midfield corners; **Myrmidon16** is often the best *supporting* CC value by providing Regular Smoke/Mimetism−6. Opposing view: don't throw a premium melee character into enemy NBW/guard just because it has MA4; shooting the counter-piece first may be cheaper. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
