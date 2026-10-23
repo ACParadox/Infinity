@@ -769,6 +769,12 @@ Army links Vanilla ALEPH to Reinforcement roster ID **799**. Reinforcement-only 
 - Named mercenaries explicitly carrying faction `701` in Army data are ordinary selectable Vanilla ALEPH entries and are therefore retained.
 - Maximus TAG and Optimate Agent Maximus each carry the source restriction that only one Maximus may appear in an Army List.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Marut LT 90/2** is a true apex **Strategos L2 + Tactical Awareness + MSV2** TAG commander, but it costs an entire supporting specialist package; **Shukra CoC 21/0** with Counterintelligence is cheap insurance that can justify exposing Marut. **Asura LT(+1) 65/1** is a different active-LT plan: its two personal LT Orders need a meaningful outlet or a real linked NCO (where legal). Do not double count Strategos converted Orders as NCO Tactical Orders.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
