@@ -2,6 +2,8 @@
 
 ## Hacking is hacker quality multiplied by network quality
 
+**Vision-control dependency:** White Noise is useful against **MSV/Marksmanship**, not every enemy gun. A reachable Repeater/Hacking Area and a model that exploits that cleared path are prerequisites for good value. See the [N5.3 Vision Control apex/value guide](vision-control-units-apex-and-value.md) for contrasts with Smoke, Eclipse, Disco Baller and Mirrorball.
+
 See the [cross-faction N5.3 Hacker / Killer Hacker apex and points-value guide](hackers-and-killer-hackers.md) for current unit tiers, concrete HD/KHD **hybrid upgrade** choices, verified sectorial prices, when each device wins and **six freshly reviewed YouTube/podcast MCP transcripts**. **N5.3 correction:** Spotlight is an **AP, PS5 attack requiring a saving roll**, not an automatic Targeted result; Firewall **penalizes the attacking Hacker's WIP** and grants its defender **+3 on Comms Saving Rolls** even when the printed Firewall penalty is stronger. Always apply official/current rules above older video advice.
 
 Evaluate hacking as a **package**, not by looking only at the Hacker's WIP or device.
