@@ -883,7 +883,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Zeta HRMC NCO73/2 (LT70/2)** supplies high Burst/AP long-range fire with **Climbing Plus/ARM8/3STR**, with best value when the appropriate Special LT Order feeds its attack/retreat. Starmada's **mixed Fireteams/specialists** can instead move a scoring package with a smaller gun so Zeta does not spend every Order. **Oko FO/Sensor/Repeater15/0** is support/target acquisition, not a rival main gun. **Source tradeoff:** larger solo Zeta wins conventional heavy-gun FtFs; leaner linked gun + redundant specialist often wins high-button missions. LT vs NCO profiles are mutually exclusive; insuring an exposed LT is an actual cost. [Cross-game active-gun tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Zeta HRMC73/2** is a **TAG** BS14/AP high-Burst/ARM8/3STR climbing long-gun; it shines against durable defenders and tall terrain but is 2SWC and needs hacker protection. **Starmada's legal Fireteam gun + specialist** can instead compress movement and score while leaving points for a separate flank threat; a 73pt visible TAG is not automatically best in button-heavy missions. **Oko FO/Sensor15/0** supports target identification and scoring but is not a competing main gun. [Gunfighter apex/value, dedicated TAG tier](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
