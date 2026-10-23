@@ -1493,3 +1493,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Scout Ohotnik + E/M Mine Minelayer (2) 28/.5** creates two Camo/infiltrated anti-HI/TAG crossing hazards before activation. **Chasseur 20/.5 Shock Mine Minelayer with Light Flamethrower** is the cheaper cornerguard; **Strelok SMG 16/0 Camo/Decoy + AP Mine** contributes uncertainty and a cheap body but **does not have Minelayer**, so laying its own mine costs an Order. **Foxtrot FO 18/0** is the scoring alternative, also without Minelayer. Choose multiple cheap screens versus one Scout depending on available routes, Sensor/Deactivator opponents and objective coverage.
 
 [Whole-game midfield denial, profile and matchup tiers](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Irmandinho8** packs Engineer, Smoke, Chain Rifle and disruption for exceptional 8pt **trader/support value**, but its Irregular/Impetuous orders and exposed approach do not replace a protected mechanic. **Dozer13 WIP13 + Remontnik2** is the low-cost reliable physical route to **Chernobog/REM** recovery. **112 Doctor11 or motorized19** gives VITA recovery; most No-Cube patients cannot spend a Command Token to reroll a failed Doctor, so 65% must be treated honestly. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
