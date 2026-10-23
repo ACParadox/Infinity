@@ -983,3 +983,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 70%-base regular repair package, while **Dozer13/Monstrucker12** trade WIP/Order economy for lower cost. **Ghulam Doctor(+3)15** supplies 85%-base VITA revival when roster-legal; **112 Doctor11** or fast motorized19 is cheaper/different reach. **Fiddler Engineer** is better when its fast combat/mission work also pays for the upgrade. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
