@@ -150,3 +150,8 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 - [ ] Do not field absent **Tsyklon, Lunokhod, Raveneye or Go-Pod** in current regular CJC lists. Older source army examples require rebuilds.
 
 **Default starting pair (concepts, not verified Army codes):** **Deepspace:** Intruder + Jazz + 2 Morans + Gecko/Evader/Stempler Haris + cheap late Tomcat or Hellcat. **Surface:** Intruder + Jazz + 2 Morans + Territorial/Stempler/Shifta pressure + Coyote+BambaBot + Bearcat reserve; swap between that and **Iguana** if the mission demands heavy sustained direct fire. Adjust to actual mission objectives, terrain and legal points/SWC/group limits.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Three distinct solutions:** **Jaguar Smoke 10/0 + Intruder MSV2** for aggressive shots; **Jazz FTO HD+ 22/.5 or Jazz+Billie 25/.5 + Moran Repeaters** for selective White Noise vs MSV/Marksmanship; **Shifta CoC + Disco 21/0** or **Lobo Disco 20–24/0** for MSV-proof crossing and close attack/mission progression.
+- **Counterpoint:** Smoke/MSV removes an ARO permanently if it wins the fight; Disco bypasses it for an objective at lower attack risk. Don't buy each engine if they all spend the same small Order pool. Correctional/Surface/Deepspace permissions differ. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
