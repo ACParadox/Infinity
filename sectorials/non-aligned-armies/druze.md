@@ -818,3 +818,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Druze Fireteam weapon/EM** — durable midlane or utility link option where current source permits; multiple roles beat pure unused sniper SWC
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Monstrucker12 Engineer (Irregular)** is cheap anti-immobilization/STR rescue for **Anaconda, Triphammer and other technology**, if its Irregular-Order economy and path can actually reach. **Fiddler Engineer** adds mobile combat and objective tools at a higher price; a **Nasmat3** remote support net only applies when attached to a legal Controller. **Scarface & Cordelia** includes the Engineer in a composite TAG purchase. With mostly expendable VITA troopers, a cheap Paramedic or Speedball may outperform buying another premium Doctor. [Recovery support tiers and real success probabilities](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
