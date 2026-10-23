@@ -844,3 +844,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Sierra Thunderbolt TR** — 18pt/0SWC multi-arc Regular ARO where profile legal; add Engineer/recovery if its lane matters repeatedly
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Trauma-Doc14 WIP12** and **Machinist15 WIP12** are budget support, each pairing with **Palbot3** where roster allows; the important gain is *Servant coverage + Cube/Remote Presence token reroll*, not raw WIP. For a premium **Cutter/Tik/Squalos**, put Palbot one protected Move behind the expected fighting lane, not touching the TAG. Do not assume an Engineer can retrieve an exposed deep-DZ casualty for free. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
