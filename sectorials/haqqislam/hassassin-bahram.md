@@ -735,3 +735,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical core for high-value VITA/Asawira; a **Nasmat3** staged behind the likely ARO position can reduce retrieval to 1–2 Orders. Repair **STR** separately through an eligible Engineer, not a Doctor. A Fiday or Ragik committed behind enemy lines usually leaves the recovery radius and should be evaluated as a trading unit, not as a guarantee of a medical return. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Daylami LSG+Panzerfaust 6/0** or bare **LSG 5/0** is disposable Irregular gun/corner friction protecting 11pt Ghulam and the Barid/Doctor; **Ghazi Chain+E/Marat 5/0** or **Jammer 6/0** deters a different close rush (no Smoke on these E/Marat/Jammer loadouts). Neither gives pooled Regular Orders. **Shujae E/M Minelayer(2) 27/0** is a premium hidden *outer* approach deterrent, not a substitute for a guard on the DZ exit square. **Counter:** Fiday/Speculo in an IMP marker does not trigger Boost, so a Koala-only defense is insufficient; screen routes with mines/DTWs and spread vital staff. Don't buy too many Irregular blockers for a list already low on Regular Orders.
+
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
