@@ -668,6 +668,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice (N5.3):** **Skyhound33/0** is outstanding 20-5, Mimetism(-6), plasma/AP **angle generation** when terrain permits; beware S7/No Cover and enemy Repeaters. **Stinger NCO HMG30/1** is a cheap independent/eligible linked long-gun that can spend LT Orders when available. **Achilles** buys an exceptional second assault phase, but the **2026 Borderbash-winning discussion** stresses using other guns/teams to first remove Mimetism or hostile hacking; do not force Achilles into every opening FtF. Dedicated backup guns/specialists prevent an expensive Achilles package from stalling. [Current whole-game gunfighter apex/value and transcript review](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and cheap high-upside trading — N5.3
+
+**Tekdraken Steeljaw18/0 (Sensor/Viral Mine) and Blackheart25/0 (Panzerfaust/E/Marat/Mine Dispenser)** offer **Irregular multiwound close-control and technical disruption**, not generic 5pt Chain Rifle warbands. **Blackheart27/.5 Plasma Carbine** has different cost/role. Some legal Fireteam Master/Commlink setups may change local Order utility; do not count their Irregular as pooled Regular without actual pinned skill and team conditions. Preserve **Harbinger LT13** and **Pandora CoC29/.5** separately from these traders.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Juggernaut (78–82)** is a high-commitment 20–5, ARM8, Climbing Plus, Guard/TacAware assault anchor; **NCO MULTI HMG** is best when an unused LT Order exists, while the plasma/HRL choice supplies a different close/mid-range angle. At this price, preserve enough independent specialists and screening pieces to protect its rear; its peak damage does not imply elite points efficiency.
