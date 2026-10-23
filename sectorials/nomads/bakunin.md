@@ -780,7 +780,7 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Riot Grrl Spitfire31/1.5** is a cheap BS13/MSV1/2W Fireteam midrange gun, not a long-range HMG substitute; **Taskmaster HMG40/1.5** provides armor/2W and useful mission escorts, **Lizard MULTI HMG64–65/1.5** adds **TacAware/3STR** and a true heavy lane-clearing gun. **Lizard E/M-GL65** is worth extra setup when hacking/E/M control opens routes to otherwise stubborn heavy targets; **60pt AP Spitfire** saves points but accepts short gun ranges. Evaluate whether the 30-point-class gun in an already-useful team beats a new 65pt TAG **plus** repair and hacking screens. [Whole-game apex/value guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Riot Grrl Spitfire31/1.5** provides BS13/MSV1/2W **non-TAG** midrange pressure in a legal Fireteam; **Taskmaster HMG40/1.5** provides heavier 2W assault and useful escorts. **Lizard MULTI HMG64–65/1.5** is a separate **TAG** with ARM8/3STR and TacAware for sustained long-lane fights; its E/M Grenade Launcher is a target-specific disabling option rather than free damage. Choose a 30-point-class team gun when the rest of the saved TAG budget secures more useful attack/scoring angles. [Separate TAG/non-TAG ceiling and value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
