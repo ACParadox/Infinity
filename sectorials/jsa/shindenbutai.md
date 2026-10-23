@@ -770,6 +770,12 @@ This section is analytical and non-authoritative; the source profile data and Fi
 - Rules baseline: N5.3 + N5 FAQ v0.1
 - Generated / verified: 2026-10-16
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+**Ninja KHD/FO**, fast Aragoto-style specialist or **Shikami SO** only where they are **actually listed** in Shindenbutai, may win hidden/late objective access. Its own **Shindenbutai Fireteam chart and profile roster**, not Vanilla JSA's, determines scoring toolkits and whether a specialist moves with the attack team. Favor 2–3 geographically separated mission routes and avoid buying an expensive combat unit only because a same-name Vanilla profile is a Specialist.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Mechazoid** is the native TacAware TAG with a potential legal Duo to reinforce JSA's midrange shooting; **Triphammer (48–53 in other current rosters; check this file for exact options)** is the cheaper mercenary with flexible AP Spitfire/HRL and a swingy damaged state. Mechazoid for mission/team integration, Triphammer when the saved points buy a real specialist or independent attacker.
