@@ -787,6 +787,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Marut MULTI HMG86/1.5 (Strategos LT90/2)** is an apex **MSV2 anti-camo/Smoke long gun**, but a 90pt LT needs cheap scoring, real Engineer and **Shukra CoC** where legal; **Asura AP Spitfire61/1.5** is the more mobile MSV3 infantry gun, **HD+ MMR63/0.5** a distinct hacker/scorer, not the same profile. **Garuda**/support infantry can finish isolated soft targets instead of paying Marut Orders for every kill. **Strategos Regular conversion and NCO use of the same LT Order cannot both be counted.** [Active gunfighter tiers and LT/CoC choices](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
