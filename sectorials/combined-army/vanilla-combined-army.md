@@ -802,6 +802,12 @@ The pinned Combined Army source links Reinforcement army **699**. The standard s
 
 The [Vanilla Combined Army N5.3 tactical/list-building guide](../../notes/factions/vanilla-combined-army.md) compares middleweight packages with Avatar/Anathematic/Charontid, Vector+Unidron/Nexus, Overdron TAG builds and hidden threats. **Charontid MSV3 guns and HD+/Sepsitor options are distinct loadouts.** Vanilla has **Duo/Haris, no standard Core** and current TAG options **Avatar, Overdron, Sphinx, Caskuda** only.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Avatar LT 122/3** has the game's extreme Strategos L2/Mnemonica/TacAware command ceiling but is vulnerable to cheap-Order attrition; **Mnemonica transfers LT after entering Null, not Isolation**. **Anathematic 70–74 LT** favors strong hacking with Mnemonica, and **Charontid 67 MSV3 LT or 71 HD+ LT(+1)** has **different legal loadouts**. **Nexus CoC 23/0** is a top multifunctional successor for eligible Unidron/Overdron teams. Don't count Avatar's Strategic Orders and NCO twice.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
