@@ -552,6 +552,12 @@ These tags are analytical conveniences, not rules text.
 
 For comprehensive hero/utility choices, Myrmidon and Thorakitai architecture, Officer Eclipse, Agamemnon and alternative attacks, see the [Steel Phalanx tactical/list-building guide](../../notes/factions/steel-phalanx.md). **Read the current Fireteam chart here first:** Scylla FTO requires a legal Steel Phalanx Duo/Haris foundation, and cannot join a Thorakitai Core; Ajax requires the FTO profile for Myrmidon Core.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Hector LT(+1) 64–65** makes both personal Lieutenant Orders **Regular** through Strategos L1, improving a hero-focused force's cross-unit order flexibility. **Myrmidon Officer CoC 30–31/0.5** contributes Eclipse, Mimetism(-6) and close-range utility as an actual backup, but loses insurance value if sent into the same deadly assault as Hector. Compare **Alkê/Eudoros NCO and Makhai/Arjuna/Acmon Tactical Awareness** based on which teams really receive useful activations; L1 does not grant the L2 free group transfer.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
