@@ -692,6 +692,10 @@ Melek Reaction Group source units also include Reinforcement Al Hawwa, Nasmat, H
 - Linked Reinforcement army resolves to **Melek Reaction Group (499)**. Its chart is kept separate, including the unusual current source combination of `spec` values 0/0/0 and explicitly typed Fireteam rows.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
 
+## Expanded faction tactical guide
+
+For the full practical [Qapu Khalqi list-building and profile-selection guide](../../notes/factions/qapu-khalqi.md), see the dedicated tactical note. It consolidates the uploaded N5/N5.2 source leads, Holomask/command choices, small-team profiles and plays; **this roster remains authoritative**. Its N5.3 reconciliation explicitly preserves the current **Rafiq Remote FTO Wildcard** and the pinned **Odalisque/Sekban** skills.
+
 ## Community tactics — N5 transcript research (2026-10-22)
 
 > **Status and precedence:** Tactical opinions only; keep the **N5.3 / Army 7.26246.158** roster, points, skills and **canonical Fireteam chart above** authoritative. Qapu Khalqi is **marked discontinued in the pinned Army metadata**, despite retaining the full 38-unit N5 reference. Most primary videos are August–September 2025 (**before** the October N5.2 update) and the original 2023 podcasts discuss **N4**. Their list compositions/point claims must be checked against the reference before reuse.
