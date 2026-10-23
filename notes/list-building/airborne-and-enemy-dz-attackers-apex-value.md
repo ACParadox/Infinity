@@ -4,6 +4,8 @@ _Reviewed 2026-10-23. **Tactical opinion, not observed win rates or a universal 
 
 **See also:** [Existing DZ strikes and DZ defense](dz-strikes-and-dz-defense.md) (complete *how to penetrate/counter* manual), [Premium mobile/airborne doctrine](premium-mobile-and-airborne-troops.md), [Trading/attrition](trading-and-attrition.md), [Target priority](target-priority-and-attack-sequencing.md), [Marker/deception](marker-state-and-deception-strategy.md), [Mission button pushers](mission-specialists-and-button-pushers-apex-value.md), [Lieutenant and CoC rankings](command-units-apex-and-value.md), [Vehicles](vehicles-vh.md). **This file supplies the cross-game profile tiers, realistic delivery/trade tests and source disputes—not a replacement for the two existing foundational guides.**
 
+**Dedicated melee follow-through:** [N5.3 CC assassination/fighter tiers](dedicated-close-combat-assassins-apex-value.md) ranks **Melee contact and CC conversion** separately from airborne or enemy-DZ arrival. A Rasyat/Van Zant excellent at arriving behind the enemy is **not automatically the top duelist**.
+
 ## 30-second verdict
 
 - **Best reliable direct enemy-DZ insertion:** **Rasyat 25/0 boarding shotgun or 34/1.5 Spitfire** (Morat/eligible Combined). **Parachutist (Deployment Zone)** guarantees a **legal enemy-DZ table-edge entry without a PH roll**, while **Eclipse, CC, Warhorse and Combat Jump** provide answers to both sight lines and backline counterattack. **25pt is points-value king**, 34pt best for multiple sequential soft targets at range.
