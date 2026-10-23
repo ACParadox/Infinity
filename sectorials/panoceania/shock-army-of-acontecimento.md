@@ -618,3 +618,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **13/0 Regular Sensor + Shock Mine Minelayer** is a cheap, 0-SWC **DZ** tripwire protecting against AD/Impersonation while supplying a Regular Order. **Naga 26/.5 Monofilament Minelayer** (or 25/.5 Shock) starts as a true midfield Camo/Infiltrator; **Peacemaker 24/.5 Auxbot-3B Minelayer** places FD mine/Repeater and close template at deployment. **Counterpoint:** the Regular is not a midfield skirmisher and a second mine may be redundant beside a Sapper sniper; Naga specialist versions are separate, and 27/0 active Peacemaker trades prepaid defense for attack.
 
 [Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Acontecimento Regular 13/0** (Shock Mine **Minelayer + Sensor + Triangulated Fire**) is the strongest low-SWC **deployment-zone** tripwire: a **Regular Order** and a prepaid mine guard the corner while Sensor can actively probe infiltrators. Pair with **Sierra Thunderbolt TR+360º 18/0**, if purchased, for a second answer to enemy DZ-edge/airborne attack. **Peacemaker 24/.5 + Auxbot-3B Minelayer** instead provides forward mine/Repeater/close template but may be better in midfield. **Opposing views (Swiss Miss / MetaChemistry):** utility 12pt FO and 20pt Sapper sniper compete for team slots; don't build a passive castle when offense and specialists win the scenario.
+
+[DZ Defenders — whole-game apex/value, matchups, and MCP transcript debate](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md). Tactical commentary; the pinned profile/Fireteam tables above are authoritative.
