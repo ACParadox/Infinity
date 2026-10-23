@@ -888,6 +888,12 @@ This section is analytical and non-authoritative; the source profile data and Fi
 - InfinityDB commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
 - Rules baseline: N5.3 + N5 FAQ v0.1
 
+## Warband cheap trading / order economy — N5.3
+
+**Yuan Yuan Chain+Smoke6/0 / DA CC7/0, AVA4** is elite *cheap* AD pressure: Combat Jump(PH11) succeeds **55%** before any valid +3 EVO, ordinary Parachutist flank avoids landing roll but not ARO. **Motorized Bounty Hunter8 BSG+Riotstopper /9 SMG+Chain-colt** is a 20-15 bike without smoke. **Bashi SMG12/T2 BSG14** is an Irregular Holoprojector Parachutist with different tempo. Buy one 6pt Yuan if it can trade away a critical defender; **do not count Irregular and Impetuous Orders as pooled Regular**. Check Ikari LT and CoC alternatives separately.
+
+[Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Triphammer** is the roster's budget TAG: choose its AP Spitfire/short-range loadout to pressure a side lane while Ikari retains inexpensive midfield and mission bodies. Its damaged-state payoff is **variance**, not guaranteed efficiency. Count legal Mechanized Fireteam members and the Engineer/support cost before calling a low price 'free' armor.
