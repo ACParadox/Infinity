@@ -8,6 +8,8 @@ The objective is not to fill every checkbox with a dedicated model. The best lis
 
 This is a high-level audit. Detailed execution belongs in the dedicated notes on [Lieutenant and command structure](lieutenant-and-command-structure.md), [Hacking and network projection](hacking-and-network-projection.md), [DZ strikes and DZ defense](dz-strikes-and-dz-defense.md), [Mission, scoring, and Specialist strategy](mission-scoring-and-specialist-strategy.md), [Movement, positioning, and vision control](movement-positioning-and-vision-control.md), and [Target priority and attack sequencing](target-priority-and-attack-sequencing.md).
 
+For a detailed audit of weapon ranges, anti-armour ammunition, Direct/Impact Templates and non-lethal alternatives, see [Weapons, ammunition and engagement selection](weapons-ammunition-and-engagement-selection.md).
+
 ## Coverage is not the same as redundancy
 
 Distinguish three levels of coverage:
