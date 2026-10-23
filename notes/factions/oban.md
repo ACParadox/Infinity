@@ -1031,3 +1031,8 @@ A strong generic Ōban list usually wants:
 The common failure mode is buying every attractive samurai/ninja and ending with too few usable Orders and too many pieces that all want the same 8–24 inch fight.
 
 The strongest current Ōban lists instead combine **positional visibility control, one or two premium active pieces, durable specialists, hidden information, and cheap order-efficient pressure**.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Premier Disco package:** **Tankō 19/0 Disco Baller + Deactivator** in a *legal* Ōban Fireteam puts Eclipse over a gunline for Domaru/Mushashi/Karakuri objectives. **Shikami 42/0** supplies self-delivered Eclipse plus exceptional vertical scoring; **Yojimbo/Kuroshi** use normal Smoke, which can pair with **Rui Shi MSV2**.
+- **Pro/con:** Shepherd argues Disco fundamentally fixes melee delivery; **MetaChemistry #153 (Oct 2026)** tournament winner credits Tankō, but also reports spending most of an Order pool reloading Disco. Two Shikami may overconcentrate Orders compared with one + Tankō. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
