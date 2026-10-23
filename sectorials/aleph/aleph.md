@@ -835,3 +835,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Sophotect25 WIP15, Doctor+Engineer, MOV15-10, NWI** is an S-value dual network with **Yudbot3** (or two spaced bots), notably for **Marut + Cubed elite VITA**. **Parvati36** has stronger apex **Doctor(2W)** and a mobile Engineer role when both get used. **Posthuman Mk.1 Engineer** is relevant *only within legal 2–3 Proxy/G:Jumper purchase*, never priced as a standalone support Order. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Dasyu Viral Minelayer (2) 30/.5** is an apex anti-infantry Hidden deployment trap; **Naga Monofilament Minelayer 26/.5** threatens elite models crossing a chokepoint. **Kinnara infiltrating 25/.5** adds E/M Mine + Decoy(2) + Sensor; **Yaksha 25/.5** offers MadTraps/ARM4/FD(+20), but competing Naga/Dasyu/Dart or inexpensive support REMs can be more efficient. Hidden Dasyu withholds its Order until revealed. The Yaksha 23/0 Mine Dispenser is **not** its zero-Order Minelayer loadout.
+
+[Whole-game midfield area-denial tier guide and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
