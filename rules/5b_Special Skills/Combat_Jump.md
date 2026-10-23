@@ -53,7 +53,7 @@ Combat Jump is the most aggressive form of Airborne Deployment. It allows a Troo
 ## Combat Jump Interactions:
 - Combat Jump interacts strongly with the Controlled Jump Hacking Program. If the opponent has Controlled Jump active, your Combat Jump Roll suffers a penalty, making failure far more likely. If your own Hacker has Controlled Jump active for your turn, you gain a bonus when attempting the Combat Jump Roll.
 
-- Failing a Combat Jump Roll normally forces the Trooper to deviate and land somewhere else. This risk makes MODs from Controlled Jump significant.
+- **Current N5.3:** failing the Combat Jump Roll forces the Trooper to **its own Deployment Zone, touching the table edge**, as a Model. Deployables placed with the jump are removed, and initial Marker/Decoy options are lost. There is **no scatter or deviation landing** under this rule. Controlled Jump is significant because it changes the chance of landing at the chosen attack point.
 
 - Troopers deploying with Combat Jump and also using States such as Decoy must still follow Airborne Deployment Coherency rules when placing replicas. This limits how deceptive or safe the initial landing can be.
 
@@ -72,7 +72,7 @@ Combat Jump is the most aggressive form of Airborne Deployment. It allows a Troo
 - Vulnerable to enemy Controlled Jump, which imposes a penalty directly on the PH Roll.
 - If discovered and prepared for, opponents may set layered AROs around key zones, reducing safe landing options.
 - After dropping, the Trooper is usually alone and lacks Fireteam bonuses or support.
-- Deviated landings may put the Trooper inside enemy LoF or in poor cover.
+- A **failed landing** removes the intended backline attack vector and places the Trooper as a Model at its own DZ edge; landing at the chosen point also **cannot claim Partial Cover on the arrival Order**.
 
 **[UNOFFICIAL COMMENT]**
 ## Comparison: Combat Jump vs Parachutist
