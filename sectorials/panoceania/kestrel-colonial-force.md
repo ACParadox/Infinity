@@ -707,6 +707,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Banshee 19/0 LSG+Pulzar, 23/0 KHD** is a cheap **Combat Jump or normal edge-Parachutist** threat: D-Charges, MSV1, Super-Jump and high Classified coverage, but no **Parachutist(DZ)**. **Black A.I.R. KHD31/0** does have **Parachutist(DZ)**, unlike its link-only FTO variants; stronger backline cyber assassination but costs 12 more than Banshee LSG. **Hidden FD+20 Crux Knight47/0** breaches from near-midfield, not direct DZ deployment. **Tikbalang LT73/1.5** is a *ground-breaching* TAG, not a dropper, and **Magistrate CoC21** protects its active LT; do not merge mutually exclusive profiles.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../../notes/factions/kestrel.md).
