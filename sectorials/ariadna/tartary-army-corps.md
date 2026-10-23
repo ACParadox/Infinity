@@ -949,3 +949,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Irmandinho Engineer8** is exceptional cheap Smoke/trading plus occasional forward technical rescue, but usually **cannot safely replace Dozer13 + Remontnik2** staged for STR gun/vehicle recovery. **112 Doctor11**, **Motorized112 19** and **Kazak Doktor12** are cheap WIP13 VITA alternatives; motorized 20-10 MOV covers wider forward zones but risks open crossing. On No-Cube targets Doctor failure is a **35% chance to lose patient**, with no Cube token bailout. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Dog-Warrior21** (15-10, Super-Jump, Berserk, Smoke, 3W in current roster) and **Ioann Bann** are the meaningful *multi-Order close assault* choices; **Irmandinho8** instead gives Smoke and an occasional AP-CC technical trade at minimal cost, but **Irregular/Impetuous** exposure is real. **Spetsnaz CC21/MA2** is still mainly a camouflaged *gunfighter*, not a 29pt Monofilament assassination piece; **TankHunter/Strelok** are ranged/Camo control, not high-CC. Counter incoming enemy CC with mine/camo screen, long-range guns, and templates rather than a Veteran Kazak CC17 duel. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
