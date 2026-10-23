@@ -807,7 +807,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Mukhtar Viral25/0 or MSV2 Red Fury34/1** is the efficient FD+10/Mimetism−3/NWI angle-making gun, especially when a legal team already carries objective specialists; **Tarik AP Spitfire49/1.5** reaches and deletes close-to-mid targets with high movement/Super-Jump, but **53/1.5 LT(+1)** increases command risk vs **46/0 non-LT TacAware** alternate weapon. **Maghariba Guard MULTI HMG71–72/1.5 + TacAware** covers long-range/ARM where lighter mobility cannot, at S8/hacking and repair tax. **Khawarij Mk12 MSV2 NCO38/0** is a strong low-SWC visored user of appropriate LT special Orders inside legal team rather than another AP HMG. [Gunfighter apex/value and LT/CoC matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Mukhtar Viral Rifle25/0 or MSV2 Red Fury34/1** supplies a fast Mimetism(-3)/NWI **non-TAG** shooter forward deployed near useful angles. **Tarik AP Spitfire49/1.5** trades points for 15-10/Super-Jump and armored midrange kills, best when a route is already prepared. **Khawarij MSV2 Mk12 38/0** is the unusual 0-SWC anti-Mimetism midrange alternate. **Maghariba MULTI HMG71–72/1.5** is the separate durable **TAG** for open long lanes and high ARM, but S8/hacking and Engineer costs are real. [Gunfighter value and dedicated TAG comparison](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
