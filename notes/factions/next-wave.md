@@ -127,3 +127,8 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 - N5.3 rules specify that **Aerial troops do not trigger Boost-property weapons** (not immunity to other direct attacks). Validate Vehicle placement and Cyberplug use with [current official rules Wiki](https://infinitythewiki.com/Category:N5.3_Update).
 - In older podcasts, “Puzzlers” sometimes described as independent troopers. **Cyberplug peripherals cost points but are not automatically extra Regular Orders**. Connected/Autonomous modes have distinct limitations. Consult current Army/current Peripheral text.
 - **Term normalization:** Tekdrakens are Blackhearts and Steeljaws (not “tech dragons”), Wraith-1, Sartroid Puzzlers/Ranters, Skyhounds (VH), Juggernauts (TAG). No extra Sphinx/Cascuda/Overdron/Xeodron is claimed legal in Next Wave.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Strict profile split:** Patroclus **unlinked 35/1 Holoprojector HRL has Smoke**; **FTO link-capable Patroclus has no Smoke**. Do not construct an imagined linked Achilles + Patroclus Smoke engine. **Drakios/Ironside Albedo** punishes MSV directly but is not a shared blocking zone; Teucer MSV2 is the reverse matchup tool.
+- **Disagreement:** N5 reviewers value Albedo's hard-ARO answer, but question the price of Drakios if the opponent has no MSV; if Smoke is only available by unlinked Patroclus, account for the independent Order cost. [Vision-control guide](../list-building/vision-control-units-apex-and-value.md).
