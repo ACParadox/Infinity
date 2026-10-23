@@ -758,3 +758,16 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 - Warcor — a 3pt Irregular Flash ARO speedbump, not a transferable pool Order without actual conversion.
 
 **Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+[Best ARO units across N5.3 — absolute apex vs points-value](../../notes/list-building/aro-units-apex-and-value.md) compares hidden reactive fire, TR/Neurocinetics, Flash/DTW/expendable defenders and why competing creators disagree. The **roster here** is authoritative for actual costs, Training, AVA and Fireteam construction.
+
+- **StormBot HRL** — two-structure mobile shooter with durable reactive potential; FTO/non-FTO costs and legal link matter
+- **FuzzBot TR** — 17pt/0SWC Regular cheap Repeater/Combi deterrent; compare stronger but dearer StormBot
+- **Kyttä Flashbot** — 7pt Repeater/Flash secondary ARO and cheap Order; insufficient alone against assault gun
+- **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
+- **Total Reaction support** — use recoverable remote for routine lanes, rather than expose primary active gun
+
+**Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.

@@ -719,3 +719,16 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
 
 **Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+[Best ARO units across N5.3 — absolute apex vs points-value](../../notes/list-building/aro-units-apex-and-value.md) compares hidden reactive fire, TR/Neurocinetics, Flash/DTW/expendable defenders and why competing creators disagree. The **roster here** is authoritative for actual costs, Training, AVA and Fireteam construction.
+
+- **Garon TR** — 16pt/0SWC Thunderbolt/smoke option shifts from passive guard to active smoke enablement where legal
+- **Raiden HRL/ML** — concealed surprise launcher + mine, high ambush ceiling; the ML can cost 2SWC, so choose the defended scoring lane carefully
+- **Ryūken rocket launcher** — low-mid cost marker/ambush control; complement with mines and a second visible layer
+- **Karakuri** — durable roadblock/scoring threat for close quarters; not cost-effective as an inert long-lane sniper
+- **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
+
+**Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.

@@ -779,3 +779,15 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 - Wardriver — useful only for its hacking/Specialist role; high SWC for a generic cheerleader is inefficient.
 
 **Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+[Best ARO units across N5.3 — absolute apex vs points-value](../../notes/list-building/aro-units-apex-and-value.md) compares hidden reactive fire, TR/Neurocinetics, Flash/DTW/expendable defenders and why competing creators disagree. The **roster here** is authoritative for actual costs, Training, AVA and Fireteam construction.
+
+- **Nikoul Viral sniper** — 25pt Sapper and Viral long-lane attrition with Symbiont; needs real range and vision match
+- **Taagma MSV2 Viral sniper** — 22pt visor, Holomask and Counterintelligence role compression vs camo/smoke
+- **Kaauri E/M Minelayer** — 11pt S1 Sixth Sense/Biometric/MSV1 rear-zone assassin trap and cheap Regular Order
+- **Gao-Rael sniper** — MSV2/2W Symbiont support for visible long-lane presence; more expensive than Kaauri/Taagma
+
+**Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.

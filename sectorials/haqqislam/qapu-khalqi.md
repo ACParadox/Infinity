@@ -811,3 +811,14 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 - Warcor — Irregular Flash Pulse ARO distraction, NOT a passive transferable Regular Order.
 
 **When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+[Best ARO units across N5.3 — absolute apex vs points-value](../../notes/list-building/aro-units-apex-and-value.md) compares hidden reactive fire, TR/Neurocinetics, Flash/DTW/expendable defenders and why competing creators disagree. The **roster here** is authoritative for actual costs, Training, AVA and Fireteam construction.
+
+- **Fanous Flashbot** — cheap regular network and ARO tax, not a full-strength gun
+- **Ghulam cheap template/FO** — small-base Regular guard plus a mission secondary job; don't expose a linked gun solely to win AROs
+- **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
+
+**Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
