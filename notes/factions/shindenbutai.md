@@ -820,3 +820,8 @@ If building Shinden blind, the first questions should be:
 > **Which specialists survive after the attackers trade?**
 
 That sequence captures the strongest repeated insight from the Shindenbutai video/list material: **the sectorial wins by stacking small complementary modules and forcing the opponent to solve multiple different interaction types, not by building one dominant Fireteam and pushing it forward.**
+
+## Vision control — role/value update (23 October 2026)
+
+- **Tanuki HD + Pitcher + Disco 20/.5** is Shinden's combined hacking/Eclipse lane tool. **Garon Smoke GL 16/0**, **Yojimbo/Saito normal Smoke** and **MSV2 Tanuki/Rui Shi** provide the separate *shoot-through-Smoke* package. Disco/Eclipse instead blocks MSV too.
+- **Do not import Ōban Tankō Fireteam access**: a named Tankō in JSA is not proof it is an eligible Shinden link. A 20pt Tanuki has better role compression when the Pitcher/hacking job also matters; if not, 16pt Garon may suffice. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
