@@ -803,6 +803,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Warbands and cheap high-upside trading — N5.3
+
+Qapu's **Bashi Bazouk SMG12/0 or T2 BSG14/0** offers an extremely cheap **Irregular Parachutist+Holoprojector** late flank, but **not** a 5pt Ghazi/Daylami front-line unit; normal Parachutist cannot enter directly inside enemy DZ. Evaluate trade into vulnerable Regular Orders/Doctor/Engineer, or use it as an **ARO/Discover tax**. **Korsan** close/Chain/FD/Parachutist loadouts are different and only actual current options get link access. **Hafza CoC20** is succession and potential objective utility, not a cheap sacrificial template. Avoid importing Bahram AVA/Smoke options.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
