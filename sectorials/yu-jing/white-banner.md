@@ -770,7 +770,7 @@ All standard roster units not listed in this reverse index have no Fireteam acce
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Tiger Soldier BSG20/0 or Spitfire29/1.5** brings Mimetism−3 **Combat Jump/Parachutist** and attacks a soft side/back angle without trading fairly through the whole midfield; the 29pt SWC gun earns value only when several enemy support pieces can be hit in its range band. **Jujak Spitfire31/1.5** is a BS13/2W cheaper **team midrange** gun, with HFT as deterrent; **Jujak ML29/1.5** instead emphasizes long ARO. **Léi Gōng FTO CoC34/0** can insure a fighting LT in a legal White Banner Fireteam, but must remain physically apart from the endangered heavy gun. [Gunfighter and command tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Tiger Soldier Boarding Shotgun20/0 or Spitfire29/1.5** supplies Mimetism(-3) airborne **non-TAG** side attacks; 29pt Spitfire only earns its SWC when several targets are reachable from its landing geometry. **Jujak Spitfire31/1.5** is a BS13/2W team midrange gun with Heavy Flamethrower to deter close revenge; **Missile Launcher29/1.5** is mainly a longer reactive/impact threat. Use the cheaper team attack when a safe advance and mission Specialist matters more than surprise deployment. [Gunfighter apex/value and matchup guidance](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
