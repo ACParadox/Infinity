@@ -660,6 +660,12 @@ The most important choice is **how many independent turn-3 scoring routes surviv
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Oniwaban29/0 and Shinobu44/.5** are near-deployment **Hidden/Infiltration Monofilament** enemies and force early opponent screening; the enemy-half roll is optional, not an automatic DZ start. **Oniwaban LT30/1 / Shinobu LT44/.5** must be on-table as Model/Marker at the LoL check—not sitting Hidden. **Kempeitai CoC17** protects a risky on-table LT but is not an airborne assassin. Check this **Ōban roster** for current **AD biker/other airborne** options; don't import Vanilla JSA Teishin by name unless listed.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
