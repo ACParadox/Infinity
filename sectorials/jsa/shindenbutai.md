@@ -825,3 +825,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - **Total Reaction support** — use recoverable remote for routine lanes, rather than expose primary active gun
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Tokusetsu14 Doctor versus Engineer** are distinct 65%-base medical/technical roles; **Yáozăo3** cuts the travel cost to the likely casualty. **Yuriko Oda25 Engineer** adds Mimetism, Minelayer and forward technical support, whereas **Monstrucker12** gives cheap Irregular Engineering. When **Hatamoto** pushes far beyond the support network, the theoretical 65% revival chance may never be usable. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
