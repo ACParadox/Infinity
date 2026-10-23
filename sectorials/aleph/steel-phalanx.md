@@ -613,3 +613,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **Thorakite link/short guard** — cheap defensive body; pair with active high-Burst shooter rather than overbuild all-static fireteams
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** For expensive VITA assault troops, a roster-legal **Doctor(2W)** can restore useful durability in one roll; **Sophotect** is a flexible high-WIP Doctor/Engineer if available. For the **Agamemnon TAG** or STR support, stage an eligible **Engineer/Yudbot** along the *return* route. A fast Achilles/Myrmidon assault that leaves the network cannot be counted as cheaply recoverable. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
