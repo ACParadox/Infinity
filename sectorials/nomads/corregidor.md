@@ -719,7 +719,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Intruder HMG38/1.5** wins **smoke+MSV2/Camo** matchups when a Jaguar/McMurrough (where legal) produces smoke; the **MULTI Sniper(+1SD)38/1.5** is more a long ARO/discovery threat. **Vostok Mk12/Spitfire34–38** contributes Mimetism(-6)/Climbing and real Fireteam utility **only on a division-legal FTO profile**. **Gecko49–55** is a compact TacAware attack and support team, whereas **Gator73/1.5 Deepspace** buys the large durable HMG/NCO/TacAware engine. Surface **Territorial AP MMR29/0 TacAware** is often stronger value than its more costly AP Red Fury/SWC when it will repeatedly fire from midfield. **WIP12 dissents** on whether Guided+network or a direct second gun deserves the next 1.5SWC. [Full gunfighter apex/value and matchups](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Intruder HMG38/1.5** uses Camo/MSV2 with faction smoke to win otherwise poor vision FtF; the sniper(+1SD) variant serves longer reactive lanes. **Vostok Mk12/Spitfire34–38** uses Mimetism(-6) and Climbing, with only roster-legal division-specific FTO permissions. **Surface Territorial AP MMR29/0 TacAware + Marksmanship** is often superior repeated midrange value to 32pt/1.5SWC Red Fury; division differences matter. **Gecko54–55** is a compact **TAG**, while **Deepspace Gator** buys the larger assault package. [Gunfighter tiers with TAGs separately classified](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
