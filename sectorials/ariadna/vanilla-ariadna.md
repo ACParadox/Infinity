@@ -1430,6 +1430,12 @@ Main and Reinforcement troopers are not merged by this reference; no source exce
 
 See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Strelok FO17/0** with Camo/FD+20/Decoy(1) is among the cheapest **midfield objective openers**; **Dynamo/other biker specialists** are faster lateral closers but more exposed. **TankHunter CoC25/0** combines concealed succession, Minelayer and Specialist access; **Vassily LT+FO35** is an alternate Camo/Decoy(2) command scoring asset but do not risk a vital LT merely for a console. Pair Doctor/paramedic/Engineer from legal roster for actual medical/tech Classifieds.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
