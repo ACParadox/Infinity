@@ -793,6 +793,12 @@ Validation performed:
 
 **Notes on transcript reliability:** YouTube and Spotify automated transcripts have frequent spelling errors (Khawarij, Maghariba, Haytham etc.) and sometimes speakers misremember stats. E.g. an older Robert narration refers to Khawarij BS12 while the pinned N5.3 Army reference gives **BS13**; only use its **tactical argument**, never transcribe the erroneous number as authoritative. Game-state/list examples and skills may postdate or predate N5.3: preserve the exact canonical reference above.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+**Tuareg KHD28/0 / HD33/.5** is a premier WIP15 Hidden/forward scoring hacker if this current roster permits it; **Ghulam FO/Doctor** are cheap type coverage and **Mukhtar/Khāwarij** actual high-mobility specialists score laterally. Select the **actual Doctor/Engineer/FO** option printed here, not its combat counterpart. A superior Ramah fighting team doesn't compensate for losing the only button-runner before turn three.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba** is the strong S8 long-gun/board-control chassis: pick it on accessible open tables where BS14/ARM8 can demand multiple enemy solutions. **Shakush** is the leaner HMG Continuous Damage/AP Spitfire source when the Maghariba's huge footprint or extra points would cost Ramah its scoring/recovery engine. Check the Armored Assault Fireteam requirement and total partner cost.
