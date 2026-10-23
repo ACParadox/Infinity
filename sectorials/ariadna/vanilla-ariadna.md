@@ -1436,6 +1436,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Van Zant AP Rifle33/0 or T2 BSG35/0** is reliable *enemy-DZ Parachutist(DZ)* with **TA, Dogged and MA3**, excellent for 2+ exposed Order/support kills; **Mirage-5 Margot+Duroc60/2** is a compound **two-body** DZ pressure package (1 Regular +1 Irregular + Margot TA + Impetuous), not two generic Regular Orders. **Strelok/Chasseur camo** gives safer midfield deployment when edge screens are heavy. **Wallace CoC/LT** are different on-table choices; do not assign them direct airborne attack. Count actual enemy CoC/Warhorse before hunting Lt.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
