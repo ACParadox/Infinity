@@ -517,6 +517,12 @@ Read the [Shasvastii Expeditionary Force tactical guide](../../notes/factions/sh
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Caliban FO26, Engineer28, CoC29** is an exceptional Camo/FD+20 objective threat (different options), while **Shrouded FO24 and Malignos FO30/KHD32** trade lower cost for deeper Hidden Deployment. **M-Drone FO15/TA18** handles Sensor/Repeater and **Med-Tech21** supplies Doctor+Engineer with Slave service range, not servant-owned button activations. Preserve protected Caliban if it is the only CoC.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
