@@ -766,3 +766,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Sierra Thunderbolt TR** — 18pt/0SWC multi-arc Regular ARO where profile legal; add Engineer/recovery if its lane matters repeatedly
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Trauma-Doc14 WIP12 + Palbot3** is inexpensive, but only **60%** first-roll revival (84% when a Cube-target Command Token reroll applies). **Machinist15 WIP12 + Palbot3** is the equivalent TAG/REM recovery investment. **Bipandra23/25 WIP13** brings a moving Fireteam Doctor and MediKit(+1B); the 25pt TacAware version is debated versus cheap Fennec Paramedic/Speedball. Favor prepositioned Palbot for the Tik/Squalos unless the Doctor already earns team movement. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
