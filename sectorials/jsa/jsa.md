@@ -714,6 +714,10 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** JSA's exceptional **Hatamoto** and **Oniwaban/Shinobu** excel at *moving into short-range/CC or mission objectives* rather than replacing a long-range HMG in fair ranged duels; choose them when terrain denies long sight lines or a protected target must be surgically removed. **Hatamoto combat Specialist / LT are distinct legal profiles**, with LT carrying amplified Loss-of-Lieutenant risk. **Kempeitai CoC17/0** cheaply insures a fighting Hatamoto LT while supplying a BSG corner threat; no CoC attack piece becomes an automatic primary gun. **Teishin19–21** can deliver a cheap backline/last-turn specialist rather than taking fair long-range FtF rolls. [Ranged gunfighter matchups and LT/CoC tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
