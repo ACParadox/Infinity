@@ -739,3 +739,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Blade Engineer** offers **Parachutist/Decoy** repair access to forward Redeye/REM routes (WIP12+GizmoKit where legal), as discussed in WIP12 E201; this beats rear support only if safe entry exists. **Machinist17 WIP12 + Palbot3** is the simpler long-term Remote Presence net; token reroll makes 60% become **84%** if legal. **Trauma-Doc14** is similarly cheap VITA-only support. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Auxilia + synchronized Auxbot 15/0** (or **FO+Auxbot 15/0** alternate option) is the reusable *close-corner* answer to a Hellcat/Fiday racing at cheerleaders: two bodies threaten an overlapping advance while the controller still supplies one Regular Order and, on FO option, a specialist. **Warcor 360º 3/0** is a separate rear-facing Flash tax; **Sierra 18/0 360º/TR** covers the outer/vertical angle. **Counterpoint (WIP12 #201):** proactive **Peacemaker 27/0 +1B/Auxbot** can outperform a 24/.5 Minelayer when its active assault is valuable. Do not count an Auxbot as a second independently generated Regular Order, or a merely carried mine as turn-zero Minelayer.
+
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
