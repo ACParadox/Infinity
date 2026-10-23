@@ -1040,6 +1040,10 @@ These rows are intentionally separate from the standard Kosmoflot chart. Reinfor
 No Main/Reinforcement mixing is inferred from sharing a character or unit concept. Use the Reinforcement chart only for the linked Reinforcement group.
 
 
+## Expanded faction tactical guide
+
+The [expanded Kosmoflot tactical/list-building guide](../../notes/factions/kosmoflot.md) preserves alternative video-derived archetypes, Mirage-5/Smoke combinations, Rokot/Patcher/Chernobog and defensive Patrol choices. Its reconciliation flags **Scots Guard FTO without NCO**, **already-Regular Varangian/Denma Orders**, and the **bundled Kibervolk + Dozer KVP Patrol**. The current roster and Fireteam chart above remain authoritative.
+
 ## Community tactical field guide — N5 transcript synthesis (2026-10-19)
 
 > **Opinion/analysis, not Army data.** The profile, point, SWC, AVA, Fireteam and rules facts **above** remain authoritative under the pinned N5.3 source. The analyses below come from recorded community discussions, chiefly January–July 2025 N5, and tournament retrospectives from N4. Verify any exact older rules/list suggestions against the current reference; do not copy podcast Army codes as current legal N5.3 lists. Speaker disagreements are retained.
