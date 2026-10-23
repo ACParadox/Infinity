@@ -781,6 +781,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Garuda BSG18/0, FO20/0 (MOV20-5, Mimetism−3)** is a premier cheap **Combat Jump or ordinary Parachutist** assault/objective option; **PH11** unsupported Combat Jump gives **55%** delivery, so safe table edge can be wiser. **Ekdromoi HD23/.5 or KHD25/0** combines MA3/CC22 and AD for hacker/close-route tasks. **Kinnara Scoutbot Parachutist24** brings Eclipse/Vulkan/tech attack while its separate **Infiltration25** option trades surprise arrival for predeployed marker threat. **Tarkshya VH34–41** is very mobile aerial **on-table** attacker, **NOT** a Combat Jump troop. Protect mission scorers while spending the primary pool.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut (86, 90 Strategos LT)** is an apex shooter against smoke/Mimetism because **MSV2 + BS15 MULTI HMG** matters more than merely paying for armor; it also brings command power but concentrates points/LT risk. **Maximus TAG (80–82)** instead supplies Immunity (ARM), 4 STR, AP/CC/E/M counterassault. Most ordinary scenarios still require inexpensive scoring/anti-hacking bodies alongside either. Maximus Agent and TAG profiles must not be confused.
