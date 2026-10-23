@@ -119,3 +119,8 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 - Most detailed tactical recordings above predate **October 2025 N5.2** and **September 2026 N5.3**. Tactical arguments and tradeoffs endure, but **profile values, Fireteam legality, team bonuses, point costs, TAG classifications and scenarios may not**.
 - The transcriptions contain automatic-speech errors (e.g. "Dart"=Dartok, "Yaoat"=Yaogat, "Socarat"=Sogarat, "Kiteto"=Kaitok); unit names above have been normalized.
 - This is a reasoning guide, **not a complete or validated latest-Army export**. When something rests on a commentator's rules interpretation (especially Hungry Fireteam composition), check official Army and FAQ before relying on it.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Core plan:** **Dāturazi Regular Smoke 14/0 + Yaogat MSV2** converts average BS into favorable active FtF; Oznat Smoke GL/Hungries extends the enabling angle. **Sogarat Disco** offers an Eclipse-style route on a much more expensive anchor; **Rasyat Eclipse** arrives from another vector.
+- **Disagreement:** Shepherd favors Yaogat/Smoke over simply stacking wounds on Suryat; Suryat proponents value resilience/TacAware and less reliance on setup. If no one needs to shoot, a Disco/Eclipse crossing may score more cheaply than fighting. [Global tiers](../list-building/vision-control-units-apex-and-value.md).
