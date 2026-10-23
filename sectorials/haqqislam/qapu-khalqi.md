@@ -785,6 +785,12 @@ For the full practical [Qapu Khalqi list-building and profile-selection guide](.
 
 **Confidence:** Tactical patterns cross-confirmed by multiple perspectives; exact current points, roster and Fireteam legality **only** from the pinned repo. In particular, do not silently update formal Army provenance or drop the discontinued-status nuance just because videos discuss playable QK.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Hafza LT(+1) 19/0** is the cheap Holomask command economy option: with a real **Sekban/Ghulam or other eligible NCO** it provides two Tactical activations without exposing the commander; **Hafza CoC 20/0** is a separate, protected succession choice. **Saladin/Farzan are not granted** by this Qapu roster. When assessing LT assassination, count loss of pooled link Orders, not merely the LT's point cost.
+
+See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
