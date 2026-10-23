@@ -778,6 +778,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Riot Grrl Spitfire31/1.5** is a cheap BS13/MSV1/2W Fireteam midrange gun, not a long-range HMG substitute; **Taskmaster HMG40/1.5** provides armor/2W and useful mission escorts, **Lizard MULTI HMG64–65/1.5** adds **TacAware/3STR** and a true heavy lane-clearing gun. **Lizard E/M-GL65** is worth extra setup when hacking/E/M control opens routes to otherwise stubborn heavy targets; **60pt AP Spitfire** saves points but accepts short gun ranges. Evaluate whether the 30-point-class gun in an already-useful team beats a new 65pt TAG **plus** repair and hacking screens. [Whole-game apex/value guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
