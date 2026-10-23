@@ -622,6 +622,12 @@ The [Onyx N5.3 tactical/list-building guide](../../notes/factions/onyx-contact-f
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Nexus CoC23, Engineer23, Hacker24–27** offers Mimetism(-3), NCO, real specialist and **Unidron-only Onyx Wildcard** team movement; they are distinct variants. **M-Drone FO15/TA18** is reliable Sensor/Repeater objective access; **Kerr-Nau KHD30** adds Plasma/Pitcher/White Noise to linked scoring. **Med-Tech21 Doctor+Engineer** supports high-price Xeodron/Overdron and the healing Classifieds. No unrestricted Nexus Xeodron link.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Overdron** is the standout value choice: **51-point HRL+1B**, **59-point Plasma sniper+1B**, or **62-point HRMC**, with TacAware, Albedo and Firewall utility. **Xeodron (49–50)** is a cheap short/mid-ranged TacAware body with K1/Marksmanship-style options and specific legal Duo/Haris access. **Sphinx (93)** is apex flanking/Hidden Deployment but poor AP-efficiency into heavy armor; **Caskuda (64)** is a Combat Jump backline tool. Do not import link allowances between chassis; check the canonical chart.
