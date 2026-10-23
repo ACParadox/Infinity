@@ -666,6 +666,10 @@ The most important choice is **how many independent turn-3 scoring routes surviv
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **O-Yoroi MULTI HMG78/1.5** is the full BS14/3STR/TacAware long-gun plus close-assault/mine screen, strongest in open lanes requiring a TAG; **LT78/1.5** adds personal command risk rather than another gun. **Shikami42/0 (or MULTI Rifle47/0)** instead buys **Mimetism−6/Climbing/Super-Jump/Eclipse** and **Specialist Operative** to finish objectives or fight at short/medium angles without carrying 78pt TAG cost. Elite melee access should open the route **before** the O-Yoroi fights, not replace all direct long-gun shots. [Active guns vs actual mission Orders, LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
