@@ -654,6 +654,12 @@ Validated against Army snapshot `7.26246.159`:
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Mission specialist / button-pusher selections (N5.3)
+
+The most important choice is **how many independent turn-3 scoring routes survive the attack**, not the number of Samurai combat models. **Kempeitai CoC17/0** supplies inexpensive Specialist/command insurance for Domaru/Hatamoto-style attacking LT plans when roster-legal. **Ninja/Kurayami hidden specialists** shorten contested-console routes; **Aragoto KHD** is fast but more vulnerable. Do not import Vanilla JSA Shikami or other profile unless this Ōban roster lists them.
+
+[Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** is the ranged/armored counterweight to Oban's infiltration and close-combat attacks. Preserve the Kobaruto/Engineer/support and enough mission specialists, rather than allowing one TAG to absorb all activation budget; use its long-range threats to clear lanes for the infiltration units. Assess Fireteam access from the Oban chart only.
