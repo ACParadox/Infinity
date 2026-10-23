@@ -1,5 +1,7 @@
 # List-Building Strategy — Order Efficiency
 
+**Cross-game attack-piece comparisons:** [Active-turn gunfighters — apex versus points/order value](active-turn-gunfighters-apex-and-value.md) evaluates how much useful killing/scoring a model gets from setup, movement, Burst, extra Orders and repositioning; an expensive high-Burst gun is not automatically efficient.
+
 Order efficiency is broader than simply generating more Orders. A list can improve its Order economy by generating extra usable Orders, making restricted Orders more flexible, activating several useful pieces with one Order, reducing the number of Orders needed to reach a task, increasing the chance that each Order succeeds, and creating setup or support effects that multiply later activations.
 
 A useful framework is:
