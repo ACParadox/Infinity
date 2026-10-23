@@ -763,6 +763,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 **Active-turn gunfighter choice:** **Kriza HMG45/1.5 (LT same 45)** is the high-Burst/HMG direct gun with BS Attack(-3) and +1B; its protected *non-LT* variant generally suits aggressive repeated trading better unless CoC is planned. **Szalamandra HRMC68/2** adds much higher ARM/range/AP for a visible 3STR centerpiece, **NCO** profitable only when the special LT Order is available. **Grenzer Red Fury28/1** / **MSR32/1.5 Marksmanship** solve respectively mobile close fighting and visible long ARO; neither is a cheap Kriza HMG replacement against high-ARM TAGs. [Cross-game gunfighter and LT/CoC decision guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Denma Connolly Chain(+1B)+Smoke/AP+DA12/0** is a high-value active/defensive speedbump with 15-5, CC23, Berserk and MetaChemistry(ReRoll) inside legal **Bounty Hunters team** context if selected; it is **not a Morlock6** and does not grant team-wide smoke otherwise. **Motorized Bounty Hunters8/0 shotgun+Riotstopper or9/0 SMG+Chain-colt** are faster cheap template/control flank traders, but 1W/Impetuous motorbikes can be eliminated by mines/side ARO. Strong Tunguska hackers can often immobilize a TAG without attempting an unprotected CC dive. Do not import Vanilla Nomads Morlocks unless listed.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
