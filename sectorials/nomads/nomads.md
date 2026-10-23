@@ -864,3 +864,16 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - 11pt Puppet Master — one Regular Order plus Counterintelligence; PuppetBots do not add Orders.
 
 **Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-building/aro-units-apex-and-value.md) compares hidden missile traps, Neurocinetics/TR, cheap templates/mines, DZ guards and conflicting creator opinions. Consult the **roster and Fireteam chart above** for legally available profiles, SWC, Training and AVA.
+
+- **Reaktion 0SWC Thunderbolt TR** — 19pt recoverable midrange guard, complements a separate expensive gun/hidden layer
+- **Triggerman Neurocinetics Sniper** — high-reactive-ceiling durable 47pt investment, but disputed versus cheaper TR + mine/hidden layers
+- **PuppetBots + Master** — Flash/forward presence, Counterintelligence and activation compression; PuppetBots do not generate separate orders
+- **Tsyklon Feuerbach/Pitcher FTO** — ranged defense and forward repeater pressure; only link when chart authorizes FTO
+- **Moran Koala+Repeater** — route and hacking ARO rather than pure FtF shooting; particularly strong defending access squares
+
+**Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.

@@ -684,3 +684,16 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 - Ghazi Muttawi'ah — normally Irregular smoke/Jammer/E-M cheap defender; only count as pool Order with current legal conversion.
 
 **When to pick:** Prefer transferable, safe Regular Orders when the Combat Group needs fuel; choose the higher-priced option only when its smoke, template, weapon, repeater, Fireteam function or scoring ability has a real job. Do not count Irregular/Impetuous/Tactical/Lieutenant Orders or Peripheral bodies as interchangeable Regular pool Orders; account for DZ footprint and link/enabler package costs.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-building/aro-units-apex-and-value.md) compares hidden missile traps, Neurocinetics/TR, cheap templates/mines, DZ guards and conflicting creator opinions. Consult the **roster and Fireteam chart above** for legally available profiles, SWC, Training and AVA.
+
+- **Sunduqbut Neurocinetics Feuerbach** — 47pt/1.5SWC durable hidden/ambush-capable long-lane anchor with serious armor punch; expensive if easily bypassed
+- **Nadhir Flammenspeer/Panzerfaust** — cheap-to-medium concealed route trap; choose timing, not first possible shot
+- **Daylami Panzerfaust** — 6pt/0SWC Irregular disposable defense, or 8pt Camo(1 use)/Infiltration; outstanding trading value, not reliable continuous lock
+- **Ghazi Chain Rifle/E-M/Jammer** — ~5–6pt Irregular close-area screen, punishing TAG, Assassin and hacker routes; no general shared Regular Order
+- **Warcor Flash** — 3pt Irregular ARO tax/late-game Stun attempt, not a Regular Order
+
+**Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
