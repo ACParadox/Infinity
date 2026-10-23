@@ -776,3 +776,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **11/.5 infiltrating Jackal** brings a **Shock Mine Minelayer plus E/M Grenade Launcher** before spending any Orders; it is **Irregular** and not COLCORP FTO. Critically, the mine is **Shock, not E/M**. Two cover independent approaches when SWC allows. **Fennec Thunderbolt+Shock Minelayer 14/0** is 0-SWC *DZ* security, not Infiltration; **Peacemaker 24/.5 with Auxbot-3B** adds FD, mine, template and Repeater, but needs S4/base space. **Counterview:** 6pt FTO Jackal supports legal COLCORP Fireteams differently; 27pt +1B Peacemaker may win more actively than the passive mine version.
 
 [Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Fennec 14/0 Thunderbolt(+1B) + Shock Mine Minelayer** gives a prepaid **DZ mine, 0-SWC backup gun and legal Fennec team member**; **Fennec FO+Sensor+Disco13/0** is a distinct mission/marker alternative. **Sierra TR/360º Thunderbolt18/0** watches airborne or rear-edge arrival; **Drummer FO+Drumbot-5 21/0** provides 360º **controller + synchronized bot** and a useful Forward Observer. **Jackal LRL/Panzerfaust FTO6/0 is Irregular**, not an automatic shared Order. **Disagreement (Shepherd/Irregular Order):** Fennec is exceptional cheap static insurance, whereas Drummer/Peacemaker packages merit their price only if they contest a second angle or score; keep premium attackers safe until own turn.
+
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
