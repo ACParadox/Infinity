@@ -760,3 +760,10 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Hannibal LT 31/0 or 37/0.5** offers Strategos L1/TacAware/Counterintelligence type command utility without needing another expensive active LT; **Hawkwood LT(+1) 39/1** instead favors a productive ranged attack. **Hǎidào CoC 24/0**, **Táowù CoC 21/0.5**, **Emily Handelman CoC 28/0**, and **Hawkwood CoC 40/0** are distinct succession/utility purchases. Emily's CoC is **real in WhiteCo**, but not on her current **Kestrel** profile.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
