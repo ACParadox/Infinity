@@ -4,6 +4,8 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
 
 **Existing strategy, preserved:** [Cheap midfield/support](cheap-midfield-and-support-troops.md), [Impetuous + Irregular sequencing](impetuous-and-irregular-troop-sequencing.md), [Trading and attrition](trading-and-attrition.md), [CC and short assault](close-combat-and-short-range-assault.md), [Enemy-DZ attack profiles](airborne-and-enemy-dz-attackers-apex-value.md), [Anti-warband DZ architecture](dz-strikes-and-dz-defense.md).
 
+**Dedicated assassination is a distinct role:** [N5.3 melee assassin/fighter apex & value](dedicated-close-combat-assassins-apex-value.md) compares **actual reach, Hidden/Impersonation, MA4/5, Guard, target saves and counter-CC** rather than judging cheap smoke/chain-rifle trading as universal melee superiority.
+
 ## Fast verdict — the role determines the winner
 
 - **Best generic dirt-cheap value:** **Ghazi Muttawi'ah 5–6/0**, **Galwegian Chain Rifle 5/0**, **Shaolin Monk Chain Rifle 5/0**, **Morlock Chain Rifle + Smoke + E/M CCW 6/0**, **Yuan Yuan Chain+Smoke 6/0** (only eligible factions). For *one high-risk trade*, favor the **right weapon** over 1pt differences: Ghazi E/Marat attacks Hackable targets; a 5pt Galwegian cannot.
