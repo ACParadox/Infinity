@@ -764,3 +764,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Avicenna28 WIP15 Doctor(+3)** has a **90%** first-roll VITA return, MOV15-5, NWI and legal **Riot Grrl team** mobility; best for protecting expensive recoverable infantry. **Daktari14 WIP13** saves 14pts if a 65%-base Doctor is enough. **Clockmaker18 WIP15 + Zondbot3** is superior pure **Anaconda/Triphammer STR** recovery with 75% first WIP and a possible Remote Presence-only token reroll when target qualifies; **Irmandinho8** adds cheap Irregular engineer/trade utility. [Recovery support tiers and real success probabilities](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
