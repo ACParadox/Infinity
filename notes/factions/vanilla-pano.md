@@ -1132,3 +1132,8 @@ Key current / relevant sources used in the research:
 - Human Sphere current profile pages for Joan, Magistrate, Karhu, Swiss Guard, Zulu-Cobra, Tikbalang, Cutter, Squalos Mk-II, Bipandra, Blocker, Locust, Redeye and Aquila.
 
 Treat older N4 / early-N5 material as historical context where current Army profiles or N5.2 changes supersede it.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Vanilla has independent Disco/Albedo access** via selected PanO profiles, but **does not gain Kestrel/Varuna/NCA Fireteam bonuses**. A cheap **Fennec 13pt FO/Sensor/Disco** is attractive in its Kestrel legal context; in Vanilla, verify its own roster availability and selected model before importing its cost or Order plan. Premium Aqua/Quinn/Vargar/Konstantinos Disco picks justify themselves when scoring or gunfighter mobility is also used.
+- **Vision difference:** PanO's powerful MSV shooter wants **normal Smoke**, while **Disco's Eclipse template blocks even friendly MSV**. Pick the desired interaction instead of assuming either grants safe one-sided firing. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
