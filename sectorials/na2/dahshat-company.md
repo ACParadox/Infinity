@@ -937,6 +937,12 @@ A balanced **Dahshat** mission list wants independent **Ghulam FO12/Doctor15** (
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Bashi Bazouk SMG12/0 or T2 BSG14/0** is a very cheap **Irregular ordinary Parachutist + Holoprojector** distraction; the current Dahshat list does **not** grant Bashi Combat Jump or Parachutist(DZ), unlike Druze's explicit Combat Jump profile. **Saito Tōgan33/0** has Hidden Deployment/Infiltration, excellent CC/EXP threat but does not deploy inside enemy DZ; **Hunzakuts/Zhencha** can threaten protected midfield lanes. With no standard Combat Jump profile, prefer reliably opened side routes over an imaginary sky drop. Preserve a scoring piece after the assault.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba Guard** buys a conventional heavy ARM8 ranged centerpiece but needs S8 lanes, screening and Engineer access; **Triphammer** is a cheaper, aggressive secondary weapon choice with TacAware and the required-assault partner opportunities. When Dahshat already has efficient HI and support guns, the cheaper TAG may give better scenario value than a second long-range elite.
