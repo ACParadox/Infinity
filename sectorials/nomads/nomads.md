@@ -915,3 +915,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Vanilla Moran AVA1** (Corregidor AVA2): the **15/.5 BSG + Repeater + CrazyKoala Minelayer** is excellent turn-zero physical/hacking denial, but cannot cover both flanks alone; pair it with a **Zero/ Spektr marker**, mobile Repeater/Pitcher or cheap template guard. The one-use Camo Moran is a **separate profile** without Repeater. **Counterpoint:** investing further in hacker/Guided packages can starve the army of independent shooters and SWC. Read exact vanilla AVA before copying Corregidor two-Moran advice.
 
 [Cross-game apex/value and transcript analysis](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). This is tactical synthesis; exact loadouts and Fireteams remain above.
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º3/0** (Irregular) provides cheap edge/rear Flash; **Transductor7/0 Flash+Repeater** is the Regular order/ARO filler; **Salyut8/0 Baggage+Repeater+Deactivator** is additional Regular logistic support behind the breach. **Moran15/.5 Repeater+CrazyKoala Minelayer** protects a *midfield approach*, but **vanilla AVA1**, and **Boost does not trigger against IMP/Camo markers**; it is not a complete anti-Fiday screen. Use a cheap template/flash/short-range defender at the next DZ corner and disperse Jazz/Interventors/Engineer to avoid one attacker chaining through all three. **Counter:** extra repeater/hacker/Guided expense can consume SWC and leave no conventional counterattack; physical backstop still needed.
+
+[Whole-game DZ-defender apex/value guide, counters and transcripts](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
