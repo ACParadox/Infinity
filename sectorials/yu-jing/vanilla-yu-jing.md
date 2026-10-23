@@ -478,6 +478,12 @@ Inline and verify the complete vanilla loadout table for every standard unit aga
 
 When a newer Army source revision or InfinityDB normalization supersedes the provenance above, set `status: stale` until roster/profile/Fireteam changes are reconciled. Do not silently mix newer live values into this file without updating the provenance block.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Tiger Soldier** provides cheap true **Combat Jump/Parachutist** angles where current Vanilla roster lists it; **Liú Xīng** offers pricier durable/explosive HI drop (confirm its selected printed Combat Jump modifiers, don't infer from N4). **Hac Tao Hidden HMG/NCO** and **Guilang/Zhencha** infiltrating models attack from concealed midfield; **Sù-Jiàn** is a fast *on-table* penetrator, not a drop troop. Compare cost of one high-variance landing to stable midfield/fast breach; preserving an LT/CoC is separate from choosing the dropper. This Vanilla summary links to the official current sectorial roster for legal loadouts.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** is the more aggressive multi-angle/close-assault deterrent, **Gūijiă** the conventional durable gun platform, **Lóngwáng** the AP HMG + Adhesive/Riotstopper control TAG with optional NCO. Choose according to the exact range/control problem: a 10-inch Berserk threat does **not** make rushing anti-TAG enemies optimal. Current vanilla Duo/roster rules govern any actual partnering, not a sectorial's link chart.
