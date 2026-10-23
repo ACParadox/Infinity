@@ -790,3 +790,15 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
 
 **Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-building/aro-units-apex-and-value.md) for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
+
+- **Sin-Eater Neurocinetics** — reactive-dice specialist, excellent Mk12 zero-SWC midlane alternative to expensive MSR
+- **Riot Grrl ML** — 2W/MSV1/Combat Instinct, durable visored linked missile role; check exact allowed Fireteam
+- **Reaktion Thunderbolt TR** — 19pt/0SWC recoverable guard; complement mines/repeaters, not a sole primary defence
+- **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
+
+**Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.

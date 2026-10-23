@@ -725,3 +725,16 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 - Peacemaker — pricier Regular REM/peripheral defensive coverage and network projection; not an economical pure cheerleader.
 
 **Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-building/aro-units-apex-and-value.md) for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
+
+- **Hetkari ML** — BS14/ARM5 Combat Instinct hard defence; buy for a forced route, not as a passive expensive Order
+- **Black A.I.R. sniper** — MSV2, Mimetism and Neurocinetics threatens camo/smoke approaches; W1 makes the 1.5SWC investment risky
+- **Blink hidden HRL** — unseen second gate behind a Sierra or cheap Jackal; arrival geometry matters more than broad firing arcs
+- **Jackal FTO Panzerfaust/LRL** — disposable 6pt ARO, long-lane anti-armor vs close-corner template; Irregular unless genuinely converted
+- **Sierra Thunderbolt TR** — 18pt/0SWC multi-arc Regular ARO where profile legal; add Engineer/recovery if its lane matters repeatedly
+
+**Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.

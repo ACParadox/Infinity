@@ -586,3 +586,15 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 - Pathfinder — pay above Flashbot cost for Sensor/FO/scoring and network projection, not for idle backline Order fuel.
 
 **Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-building/aro-units-apex-and-value.md) for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
+
+- **Sierra Thunderbolt TR** — 18pt/0SWC multi-arc Regular ARO where profile legal; add Engineer/recovery if its lane matters repeatedly
+- **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
+- **Fugazi Flash/Repeater** — 7pt Regular cheap secondary ARO and hacking net; not a main gun
+- **Peacemaker/Auxbot screen** — template and multi-body route denial; protect arrival corners rather than expose controller
+
+**Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.

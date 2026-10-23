@@ -641,3 +641,16 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 - Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
 
 **Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-building/aro-units-apex-and-value.md) for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
+
+- **Sierra Thunderbolt TR** — 18pt/0SWC multi-arc Regular ARO where profile legal; add Engineer/recovery if its lane matters repeatedly
+- **Kamau MSV2 sniper / MSV1 HRL** — visored ranged denial and legal Fireteam support; fragile W1 if isolated
+- **Helot Camo(1-use) LRL** — cheap, normally Irregular marker/template trap; value from target choice and delayed movement, not shared Orders
+- **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
+- **Fugazi Flash/Repeater** — 7pt Regular cheap secondary ARO and hacking net; not a main gun
+
+**Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
