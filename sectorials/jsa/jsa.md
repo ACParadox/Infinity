@@ -696,6 +696,12 @@ Validated against Army snapshot `7.26246.159` on 2026-10-16:
 - Sectorial-only Wildcard/counts-as semantics were not carried into the generic faction.
 - Reinforcement Army ID `1199` remains distinct from standard Vanilla JSA.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Hatamoto LT(+1) 36–39/+1 SWC** can be an efficient *attacking* commander because its extra Orders and SWC rebate pay for real fighting; **Kempeitai CoC 17/0 BSG / 20/0 Combi** is top raw backup value. **Domaru LT(+1) 23/0** offers a lower-cost alternative when a hidden/screened LT or different gun makes more sense. CoC is insurance only if the Kempeitai survives separately from the LT's assault.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **O-Yoroi** supplies the large-range armored shooting axis that JSA's close-range attackers otherwise lack; **Mechazoid** is an alternative TAG option with its own TacAware and Fireteam choices. Price the entire mission/support shell and available Kobaruto/ancillary tools. The best TAG is whichever covers the *opposite range band* to the ninjas/warbands already bought, not simply the largest gun.
