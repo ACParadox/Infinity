@@ -495,3 +495,8 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 [Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Foxtrot Boarding Shotgun + Shock Mine Minelayer 18/.5** is the inexpensive Regular Camo/Infiltration turn-zero obstacle. **Foxtrot FO 18/0** scores instead and does not deploy a mine at setup; Hardcase 12/0 is cheap Irregular Camo/Decoy and Beasthunter 15/0 provides close-range template and AP mine pressure, but neither duplicates Foxtrot Minelayer. Opposing concern: buying too many disposable midfield blockers can weaken USARF's counterattack and objective specialists.
+
+[Whole-game area denial tiers and sources](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
