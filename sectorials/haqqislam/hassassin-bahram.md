@@ -672,6 +672,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Fiday BSG23/0, Smoke+DA CC** is S-value pre-deployed Impersonation with near-DZ threat; **Hussein Al-Djabel33/0** raises CC/Viral ceiling but can trade worse into soft 10pt Orders. **Ragik BSG(+1B)23/0 vs HD25/.5** chooses kill vs Classified/Spotlight utility after risky Combat Jump or **normal** table-edge Parachutist. **Bokhtar Parachutist BSG+Paramedic49/0 / Red Fury52/1.5** attacks from side edge with 2W; **Bokhtar LT FTO45/46 has no Parachutist**. **Farzan CoC24** backs the aggressive on-table LT; keep it separated from the strike route.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush (56–58)** is particularly useful *here* because Hassassin often needs a durable, reliable ranged attack/long-gun anchor. The HMG Continuous Damage threatens repeated failed saves; AP Spitfire is for armored targets at shorter bands. **Disagreement:** the 2025 TAG podcast ranks Shakush modestly against other TAGs, but Haqq players argue its **sectorial role scarcity** makes it much better than a global head-to-head comparison suggests.
