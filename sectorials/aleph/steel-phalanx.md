@@ -558,6 +558,12 @@ For comprehensive hero/utility choices, Myrmidon and Thorakitai architecture, Of
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Dactyl Engineer19–20 + Yudbot3**, or **Daleth FO15/TA18**, gives cheap tech/FO Classifieds beside expensive Myrmidon assault. **Myrmidon Officer CoC30–31/.5** is both Eclipse lane-opener and Specialist where the mission permits, but must survive if acting as LT backup. **Acmon/Artalis or legal Dactyl** lets combat links heal/repair and score as allowed; **Agamemnon Karkata** is a bundled ancillary specialist with strict activation/Order restrictions. Hector LT Strategos doesn't itself make every nearby hero a Specialist.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
