@@ -489,3 +489,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Desperado Chain Rifle+Smoke GL7/0** is among the best **fast 20-10 Irregular/Impetuous** trades: force a gunner's Dodge or template exchange, lay lateral smoke for a forward Specialist or threaten opposing cheap Orders. **Boarding Shotgun9/0** only if actual quality shooting/short-range target exists. **No standard USARF Galwegian5, Morlock6 or Dāturazi14 import.** **Van Zant33–35/0** has backline DZ Parachutist + TA and plays a different premium attack vector; use 7pt Desperado as smoke/screen instead of risking Van Zant for one cheap kill. Protect the on-table LT/CoC; this sectorial's Fireteam chart remains authoritative.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
