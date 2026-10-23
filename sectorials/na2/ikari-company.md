@@ -899,3 +899,16 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Druze KHD+Pitcher 23/0 vs HD+Pitcher 25/0.5** is the main hacker-or-heavy choice: the KHD removes enemy Hackers, the HD stops ordinary TAG/HI with Carbonite/Oblivion. **Brawler HD 16/0.5** and **Keisotsu HD 16/0.5 with ECM: Hacker(-6)** are budget normal devices; **Ninja Hidden KHD26/0** supplies mission-winning specialist surprise, not a stronger backfield network. **Wardriver** is rarely better pure value than one Druze KHD. **Why:** combine the actual **Druze Pitcher / Baggage / Repeater network** with one anti-Hacker and one anti-heavy program; Ikari's weapon-rich HI need screens and don't inherit Qapu Fireteams.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- Cheap Authorized/Motorized Bounty Hunter — usually a Regular trading body with Booty, not always a protected static S2 Order; exact bike/profile/Fireteam legality varies.
+- Keisotsu — inexpensive S2 Regular bodies, line-FT material and possible utility upgrades; optimize the cheapest legal role rather than premium heavy guns.
+- 7pt Fugazi — fast Flash/Repeater bot; cheap Regular Order plus hacking relay if available.
+- Karakuri — durable multiple-role attacker/specialist, not a minimal-cost backline cheerleader; compare total Order demand.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

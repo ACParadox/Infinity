@@ -758,3 +758,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Interventor HD+ 18–23/0.5 WIP15/BTS9**, alongside **KHD 18/0**, are premium cyber capability for near-budget prices. Use **Hollow-Men Pitcher/linked gun** and FastPandas to give them a real network; **Spektr KHD 30/0** supplies Hidden/Infiltration scoring. **Mary Problems 27/0.5** combines HD/KHD + FD/Mimetism(-6), but Shepherd's detailed faction review argues **two Interventors** better sustain a protected backfield net unless Mary must personally deploy forward. **Rounder HD+Trinity 21/0.5** and **Kulak KHD+Carbonite 20/0** make cheap hybrids. **Hollow Man HD 29/0.5 TinBot** needs legitimate link protection; do not confuse high BTS with hacking immunity.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- 7pt Transductor — cheap Regular Repeater/Flash REM (not a dedicated gunfighter); its S3 footprint and AVA constrain spam.
+- 8pt Salyut — Baggage/Repeater Regular Order; reload support and deployment-zone density determine marginal value.
+- 10pt Alguacil — inexpensive S2 Regular and Fireteam/LT material; upgrade only for a credible second job.
+- 11pt Puppet Master — one Regular Order plus Counterintelligence; PuppetBots do not add Orders.
+- 13pt Securitate — Warhorse/WIP14 Repeater and link option; much worse pure pts/Order than a 7pt Transductor.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

@@ -716,3 +716,15 @@ Cross-faction **apex vs points-value** comparisons, matchup table, and direct MC
 **Jazz + Billie HD+ with Trinity, 25/0.5**, or **Jazz FTO 22/0.5**, is the first serious network controller: Pitcher/White Noise/Trinity interact well with **Moran Repeaters**. **Wildcat HD 27/0.5 Zero Pain + Combat Instinct** adds resilient defensive HD inside a legal Fireteam, while **Coyote KHD+Carbonite 23/0 FTO or 28/0 with BambaBot** and **Bearcat Combat Jump KHD+Firewall 29–30/0** create different anti-Hacker attacks. **Valerya HD 19/0.5 Total Control(+1B)** is affordable TAG control; **Alguacil HD 15/0.5** is a minimalist alternative. **Counterpoint (WIP12 E208, June 2026):** Moran/Jazz + Guided missile bot can consume substantial SWC before buying a main gun; don't force Guided into every list.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- 7pt Transductor — cheap Regular Repeater/Flash REM (not a dedicated gunfighter); its S3 footprint and AVA constrain spam.
+- 8pt Salyut — Baggage/Repeater Regular Order; reload support and deployment-zone density determine marginal value.
+- 10pt Alguacil — inexpensive S2 Regular and Fireteam/LT material; upgrade only for a credible second job.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

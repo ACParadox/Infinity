@@ -707,3 +707,15 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Kyoshō HD20/0.5 vs KHD20/0**, **Teishin Combat Jump HD23/0.5 vs KHD21/0**, and **Keisotsu HD16/0.5** offer cheap regular hacking/specialist options; **Ninja Hidden KHD26/0** and **Nokizaru KHD27/0** pay for midfield camouflage/mission reach. **Kurayami Ninja HD26/0.5** can contribute a forward anti-HI program alongside JSA's melee threats. **Why:** against Hackers, KHD/Cybermask guards objectives; versus multiple HI/TAG without cyber opposition, a cheap HD/Carbonite/Oblivion is worth more than several basic KHDs. JSA's physical killers and perimeter tools should not be replaced by a Guided package unless Pitchers/Repeaters genuinely support it. **Only current JSA Fireteam rows** confer linked cyber bonuses.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- Keisotsu — inexpensive S2 Regular bodies, line-FT material and possible utility upgrades; optimize the cheapest legal role rather than premium heavy guns.
+- Yuriko/Engineer — buy for recovery and mission support, not cheap generic Order generation.
+- Karakuri — durable multiple-role attacker/specialist, not a minimal-cost backline cheerleader; compare total Order demand.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

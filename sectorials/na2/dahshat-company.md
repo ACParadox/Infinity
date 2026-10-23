@@ -942,3 +942,15 @@ For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matr
 **Valerya Gromoz WIP14 HD + Pitcher/Total Control(+1B), 19/0.5**, is the clear value engine for hostile TAG/HI via projected Repeaters. **Brawler HD 16/0.5 (Sixth Sense)** and **Ghulam HD 16/0.5** are cheap general-coverage specialists; **Zhēnchá HD+Trinity 34/0.5** trades price for a hidden/camouflaged forward hacker assassin. **Important roster distinction:** the current **Dahshat standard Main roster lists no ordinary native KHD**. A Trinity-upgrade **HD** is *not* a KHD/Cybermask source unless specifically printed. **Why:** don't assume a hacker-heavy list automatically has lethal network defense; take suitable Camo/physical repeater-clearing or the hybrid profile and maintain TAG-support TinBots where actually legal.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- Cheap Authorized/Motorized Bounty Hunter — usually a Regular trading body with Booty, not always a protected static S2 Order; exact bike/profile/Fireteam legality varies.
+- 7pt Fanous — regular Flash/Repeater network Order when this mercenary/NA2 roster permits it.
+- 8pt Kameel — Baggage/repeater utility where this NA2 roster permits it.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

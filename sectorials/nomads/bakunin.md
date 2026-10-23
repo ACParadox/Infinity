@@ -777,3 +777,16 @@ See [VH apex/value tier list and matchup guide](../../notes/list-building/vehicl
 **Reverend Custodier HD+ (24–28/0.5)** adds **White Noise/Cybermask** and Mimetism(-6); its **HD/Carbonite(+1B) 26/0.5** is the more aggressive anti-heavy profile. **Rounder HD+Trinity 21/0.5** offers unusually cheap all-target hybrid control, and **Zero KHD 22/0 / Prowler KHD 30/0** defend the hacking net while scoring. **Uhahu HD 19/0.5** is economical if her Pitcher/role is sufficient; **Zoe & Π-Well** supplies engineer/remote network support at much higher total points. **Disagreement:** tournament Bakunin can succeed using CC/MSV area-control without committing to expensive Guided/KHD infrastructure. Start with useful mission specialists; add a cyber package only if Repeaters and target payoffs justify it.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- 7pt Transductor — cheap Regular Repeater/Flash REM (not a dedicated gunfighter); its S3 footprint and AVA constrain spam.
+- 8pt Salyut — Baggage/Repeater Regular Order; reload support and deployment-zone density determine marginal value.
+- 9pt Moderator — small-base Regular Fireteam/guard choice; compare against Transductor when an actual link or defence role is needed.
+- 10pt Alguacil — inexpensive S2 Regular and Fireteam/LT material; upgrade only for a credible second job.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

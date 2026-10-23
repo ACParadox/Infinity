@@ -781,3 +781,13 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Tanuki HD+Pitcher+Disco Baller 20/0.5** is a particularly efficient network **and visibility** extender; **Nokizaru KHD27/0** supplies stealthy field cyber assassination, **Ninja KHD26/0** protected mission access. **Teishin Combat Jump KHD21/0 vs HD23/0.5** is a low-cost airborne scoring/Trinity or anti-HI alternative; **Kurayami HD26/0.5** handles forward Oblivion/Carbonite; **Pangguling EVO14/0.5** merits consideration only if its REM/Combat Jump support programs actually help several units. **Why:** a cheap Tanuki can create a real Repeater net for KHD defense, whereas three independent hidden KHDs without HD/White Noise do not automatically control TAGs.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- Yuriko/Engineer — buy for recovery and mission support, not cheap generic Order generation.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

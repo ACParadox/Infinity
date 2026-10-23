@@ -736,3 +736,14 @@ Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If futu
 **Danavas HD+Oblivion upgrade/Pitcher 22/0.5** and **Laxmee HD+Fairy Dust/Pitcher 24/0.5** are the centerpiece value choice: **White Noise** supplies critical anti-MSV access to PanO/Yu Jing shooters. **Hǎidào KHD+Pitcher 22/0** provides cheap lethal anti-Hacker protection for a current legal mixed HI team; **Nøkken KHD25/0** adds FD+20/Mimetism(-6) scoring, **Guìláng HD31/0.5** Camo/Infiltration network access. **Fusilier HD15/0.5** is the minimalist second HD. **Why:** a single Danavas/Laxmee and Hǎidào gives complementary HD+/KHD coverage; buying *both* HD+ profiles may be redundant unless their specific White Noise/Fairy Dust/weapon support is used. Never import native PanO/NCA TinBot or Fireteam access.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- 7pt Fugazi — fast Flash/Repeater bot; cheap Regular Order plus hacking relay if available.
+- 8pt Mulebot — Baggage/reload Regular support, better than paying extra for an idle infantry filler on open DZ tables.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.

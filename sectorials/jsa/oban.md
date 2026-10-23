@@ -659,3 +659,16 @@ Across all factions, compare **apex power** separately from **points value**, co
 **Kyoshō KHD20/0 versus HD20/0.5**, **Keisotsu HD16/0.5** and **Ninja KHD26/0 (Hidden)/HD33/0.5** give Oban both inexpensive backline hacking and expensive *infiltrating* mission specialists. **Why:** Kyoshō KHD supplies Trinity/Cybermask and remains a scoring troop; choose HD if the main opponent threat is hackable TAG/HI instead. Ninja's higher cost is a **deployment/hidden scoring premium**, not superior bare hacking dice. Do not project Shindenbutai Tanuki/Nokizaru teams or White Banner KHD hybrid upgrades into Oban; use Oban's own canonical roster and Fireteam restrictions.
 
 See the [cross-game apex/value Hacker/KHD tier guide](../../notes/list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+
+
+## Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../notes/list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+
+- Keisotsu — inexpensive S2 Regular bodies, line-FT material and possible utility upgrades; optimize the cheapest legal role rather than premium heavy guns.
+- Servant REM — does not generate a new Order, even when helping an Engineer cover more ground.
+- Yuriko/Engineer — buy for recovery and mission support, not cheap generic Order generation.
+- Karakuri — durable multiple-role attacker/specialist, not a minimal-cost backline cheerleader; compare total Order demand.
+- 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
+
+**Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.
