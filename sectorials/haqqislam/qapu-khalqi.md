@@ -797,6 +797,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Bashi Bazouk SMG12/0 or T2 BSG14/0** is a cheap **Irregular** Holomask/Holoprojector/normal Parachutist whose best payback may be forcing 2–3 enemy Orders to respond; **it cannot enter directly in enemy DZ from normal Parachutist**. **Korsan Parachutist21/0** can flank if that exact profile is bought; the 16pt FTO Korsan does not inherit it. The current Qapu roster's **Hafza CoC20** is an inexpensive succession/profile choice, **not** an off-table assassin. Prefer cost-effective support disruption to sacrificing 20+ points for one unimportant Regular.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
