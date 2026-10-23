@@ -1154,6 +1154,12 @@ Mission plan should preserve a **dedicated specialist among Irmandinho/Kibervolk
 
 **Active-turn gunfighter choice:** **Chernobog AP HMG63/1.5** gives Kosmoflot a durable **3STR/TacAware** long-gun alternative to multiple lighter infantry shooters; **70pt HRL** improves clustered/indirect-adjacent blast plans but pays 7pts and must justify the extra effect. **Mirage-5 60/2** attacks the enemy DZ from edge without fighting front AROs; best when *both* Margot (AP Rifle/GL/Specialist) and Duroc (Smoke/Chain+CC) have live targets rather than consuming the whole turn. **Tactical Awareness presenters favor double Chernobog or Mirage overload**, while others prefer redundant specialists/smaller attacking modules. **Wallace CoC38** is not Inspiring Leadership until promoted. [Current gunfighter apex/value and LT/CoC comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Varangian Chain+Smoke10/0** is a standout **Regular+Impetuous** cheap CC23/Berserk/Smoke/Dogged order/body (unlike 5pt Irregular Galwegian). **Irmandinho8/0** is cheap Irregular Smoke+Engineer with D-Charges for mission, while **Denma12/0** adds 15-5/Berserk/AP+DA/MetaChemistry; use the 4pt premium to cross an important gap. **Ioann Bann32/0** is heavy dog-warrior with Viral bow+Smoke, not a throwaway. **Wallace LT38 Inspiring Leadership** can regularize eligible Irmandinhos, but Varangians and Denma are **already Regular**; **Wallace CoC38** is another legal loadout. FT-05 permits listed Varangians/Denma/Ioann with current limits only.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
