@@ -932,6 +932,12 @@ See [Vanilla PanO transcript-backed review](panoceania.md#transcript-backed-comp
 - Fireteam source: pinned Army `fireteamChart`, normalized using the same semantics documented in InfinityDB.
 - Verified: `2026-10-15`.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Knight Commander LT(+1) 24/0 + NCO** gives two productive Tactical activations without requiring an exposed Joan; **Joan LT** instead excels as an attack/command package when there are enough *eligible non-Religious Irregular* troops for Inspiring Leadership to convert. **Knight Commander CoC 23/0** is a different model/profile; Joan's CoC alternative is expensive and her Inspiring Leadership conversion does not apply until she becomes LT.
+
+See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Tikbalang of Montesa** is the more self-protecting mobile attacker (Mimetism, Climbing Plus, HFT; NCO for unused LT Orders), while **Seraph** brings AP Spitfire or MULTI HMG plus Pulzar, EXP CCW and Super-Jump to force closer angles. **Disagreement:** Tik is generally safer against opposing shooters; Seraph's AP and stronger close tools matter when armored targets/vertical approaches dominate. MO's tight order/support budget can make either expensive without a second scoring route.
