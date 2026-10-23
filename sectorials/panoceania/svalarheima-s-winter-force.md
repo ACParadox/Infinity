@@ -741,3 +741,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Warcor Flash Pulse** — 3pt Irregular zero-SWC Order-tax ARO; never count as a generic Regular Order
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Jotum** and other REM/TAG investments justify an **Engineer + Palbot** near safe fallback; **Remote Presence token reroll** raises a WIP12 Machinist from 60% to 84% on a failed repair. **Nisse or Knight casualties** instead need **Doctor/Paramedic**, not Engineer. Repair a Jotum only if a single revived STR model can actually return to a useful attack or scoring lane. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
