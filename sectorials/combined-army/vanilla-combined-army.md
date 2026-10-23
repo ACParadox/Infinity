@@ -822,7 +822,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn shooting choices:** **Avatar122/3** is the maximum-ceiling **TAG**, but its large points/SWC purchase can leave too few alternative attacks and scorers; **Overdron HRMC62/1.5** buys AP heavy Burst plus Albedo against MSV at a fraction of that investment. **Sheskiin MULTI Rifle48/0 or Red Fury50/1** is the faster close/midrange **non-TAG** gun with Protheion/CC follow-up; **Vector Spitfire26/1.5** offers a cheaper visored Mimetism/smoke answer. **Loss of Lieutenant #142 disputes Avatar value** against cheaper guns, without denying its ceiling. [Separate TAG/non-TAG tiers and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Avatar122/3** is the maximum-ceiling **TAG**, but its large points/SWC purchase can leave too few alternative attacks and scorers; **Overdron HRMC62/1.5** buys AP heavy Burst plus Albedo against MSV at a fraction of that investment. **Sheskiin MULTI Rifle48/0 or Red Fury50/1** is the faster close/midrange **non-TAG** gun with Protheion/CC follow-up; **Vector Spitfire26/1.5** offers a cheaper visored Mimetism/smoke answer. **A 2025 TAG-tier podcast disputes Avatar value** against cheaper guns, without denying its ceiling. [Separate TAG/non-TAG tiers and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and cheap high-upside trading — N5.3
 
