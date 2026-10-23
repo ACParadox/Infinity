@@ -805,6 +805,10 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Mukhtar Viral25/0 or MSV2 Red Fury34/1** is the efficient FD+10/Mimetism−3/NWI angle-making gun, especially when a legal team already carries objective specialists; **Tarik AP Spitfire49/1.5** reaches and deletes close-to-mid targets with high movement/Super-Jump, but **53/1.5 LT(+1)** increases command risk vs **46/0 non-LT TacAware** alternate weapon. **Maghariba Guard MULTI HMG71–72/1.5 + TacAware** covers long-range/ARM where lighter mobility cannot, at S8/hacking and repair tax. **Khawarij Mk12 MSV2 NCO38/0** is a strong low-SWC visored user of appropriate LT special Orders inside legal team rather than another AP HMG. [Gunfighter apex/value and LT/CoC matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba** is the strong S8 long-gun/board-control chassis: pick it on accessible open tables where BS14/ARM8 can demand multiple enemy solutions. **Shakush** is the leaner HMG Continuous Damage/AP Spitfire source when the Maghariba's huge footprint or extra points would cost Ramah its scoring/recovery engine. Check the Armored Assault Fireteam requirement and total partner cost.
