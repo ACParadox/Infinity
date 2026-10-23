@@ -712,3 +712,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Reactive deception, not universal infiltrator:** **Ryūken-9 HRL 23/1.5** begins with Minelayer Shock Mine, Decoy(1), one-use Camo and Mimetism(-6). Hold a long lane so enemy must Discover or detour. **Ryūken 22/.5 SMG** is the *separate* FD(+20) midfield denial option; cheaper SWC but poor long-distance reach. **Counterview:** its 1W/1.5SWC HRL may be bypassed by templates/Sensor or cost too much for objectives; consider durable Karakuri and other Camo instead. **O-Yoroi** Koala/Minelayer is a **TAG** and priced as a premium gun/armour package, not a cheap speed bump.
+
+[Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
