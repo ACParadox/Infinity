@@ -1424,6 +1424,12 @@ Main and Reinforcement troopers are not merged by this reference; no source exce
 7. The top-level source `fireteams: []` field is not treated as overriding the non-empty `fireteamChart` object.
 8. The linked L'Équipe Argent Reinforcement chart is kept separate from the main vanilla chart.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Voronin LT 22/0 Strategos L1/Counterintelligence/Sensor** is extremely affordable flexible command; **Wallace LT 38/0 Inspiring Leadership** is better when several genuinely **Irregular** attackers become Regular. **Wallace CoC 38/0** is a *different non-LT fighter* and does **not** regularize the army until succession. **TankHunter CoC 25/0 Minelayer** offers protected camouflaged succession, while **Vassily CoC 39** adds a gun/midfield role at higher cost. Morat Warhorse does not transfer to Ariadna.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
