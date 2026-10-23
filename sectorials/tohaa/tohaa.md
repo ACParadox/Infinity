@@ -710,6 +710,8 @@ Army links Tohaa to Reinforcement roster ID **899**. Reinforcement-only profiles
 
 ## Derived tactical index
 
+**Tactical companion:** [Tohaa — N5.3 list-building, video/podcast transcript analysis and TAG/Chaksa/Kaauri/Reex roles](../../notes/factions/tohaa.md). This is community-derived analysis; the structured roster and Fireteam charts here remain authoritative.
+
 This section is analytical and non-authoritative; source profile data and Fireteam tables above take precedence.
 
 | Block / tag | Strong Tohaa candidates |
