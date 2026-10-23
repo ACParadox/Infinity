@@ -769,6 +769,12 @@ Further community cross-check: [Corvus Belli forum N5 Druze discussion](https://
 - Fireteam source: Army snapshot canonical `fireteamChart`, normalized using repository Fireteam conventions.
 - Generated/verified: **2026-10-16**.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Yuan Yuan Chain Rifle+Smoke6/0 (DA CC7/0)** is one of the whole game's best *pure points-value* rear disruptors: an **Irregular/Impetuous** 6pt model can cost enemy multiple Orders even if it kills no one. Druze's pinned profile explicitly lists **Combat Jump(PH11) or ordinary Parachutist**, so unsupported landing succeeds **55%** and side-edge entry avoids a roll. **Druze Bashi Bazouk** also lists **Combat Jump(PH11)**, unlike Qapu/Dahshat Bashi profiles that list normal Parachutist; don't generalize a same-name model. **Saito Tōgan Hidden/Infiltration33/0** is a much stronger single-hit assassin with greater points at risk. The objective is removing support capability, not necessarily the expensive ARO.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Triphammer** is usually the more efficient high-pressure option (budget profiles + TacAware), while **Anaconda** gives AP Spitfire/Thunderbolt and an operator fallback. **Disagreement:** the 2025 TAG tier-list judges Anaconda extremely poorly, but Druze can value a specific role when other gun choices are limited. Both require deliberate Engineer/hacking and mission support; don't assume its TAG Fireteam members from other mercenary factions.
