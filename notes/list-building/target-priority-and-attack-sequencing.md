@@ -1,5 +1,10 @@
 # List-Building Strategy — Target Priority and Attack Sequencing
 
+## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
+
+Use [N5.3 Airborne/Enemy-DZ apex and value tiers](airborne-and-enemy-dz-attackers-apex-value.md) when picking the actual model for a backline kill chain: **Fiday23/0 or Speculo26/1**, **Rasyat25/0 or34/1.5**, **Van Zant33/0, Mirage60/2, low-cost Banshee/Hellcat/Garuda**, and the very risky **Caskuda64/1**. Rank **Orders/support disabled and scenario swing**, not only enemy points killed. A successful one-target entry that strands a 60pt package can be worse than two independent 19pt entry threats.
+
+
 Target priority in Infinity is not simply **kill the most expensive or dangerous model first**. The better question is:
 
 > **Which removal most improves my position, damages the opponent's next turn, or opens the mission plan for the fewest Orders and least risk?**
