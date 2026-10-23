@@ -684,3 +684,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Fugazi Flash/Repeater** — 7pt Regular cheap secondary ARO and hacking net; not a main gun
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Trauma-Doc WIP12 + Palbot3** can recycle a fallen Kamau ARO only where it is safely reachable; 60% base success is not a guaranteed resurrection, improved to 84% with a qualifying Cube and Command Token. **Machinist WIP12 + Palbot** supports **Cutter/REM**, with Remote Presence allowing one successful roll from either Unconscious level. Avoid exposing both Servant and Kamau to one follow-up template. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
