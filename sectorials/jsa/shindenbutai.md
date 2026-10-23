@@ -786,6 +786,12 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 **Active-turn gunfighter choice:** **Hatamoto Plasma Carbine34/0** (Red Fury40/1, Spitfire41/1.5) uses **NCO, X-Visor, Mimetism−3, Nanoscreen** plus strong melee/specialist role; the **34pt 0-SWC** version is often better *whole-list value* than stretching for another heavy-gun profile when objectives/command need funded. **LT(+1) Hatamoto36–39 with +1 SWC** can fund its own attack but **LT and non-LT loadouts are distinct**; use NCO to exploit legal Special Orders without sacrificing an aggressive commander. Do not rate the plasma short-range gun as a 32in HMG; it should win by mobility, positioning and mission value. [Gunfighter apex/value and combat LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warband cheap trading / order economy — N5.3
+
+**Ioann Bann30/0** (not Tohaa/Starmada 32pt loadout) is a high-end **Irregular multi-Wound dog-warrior** using Chain(+1B), Viral Tactical Bow(+1SD), Grenades and AP+T2 CC; **this Shinden printed option lacks Smoke**, so don't import the 32pt counterpart's Smoke Grenades. **Teishin BSG19/0 and Ninja/Kurayami concealed** are alternative flank/hidden attacks, not cheap Impetuous warbands. A 30pt Ioann should ideally survive multiple attacks/contest a lane rather than die for a single 10pt kill; **do not import Ōban Yuan Yuan if Shinden roster lacks them**.
+
+[Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Mechazoid** is the native TacAware TAG with a potential legal Duo to reinforce JSA's midrange shooting; **Triphammer (48–53 in other current rosters; check this file for exact options)** is the cheaper mercenary with flexible AP Spitfire/HRL and a swingy damaged state. Mechazoid for mission/team integration, Triphammer when the saved points buy a real specialist or independent attacker.
