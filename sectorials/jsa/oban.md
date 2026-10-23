@@ -668,7 +668,7 @@ The most important choice is **how many independent turn-3 scoring routes surviv
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **O-Yoroi MULTI HMG78/1.5** is the full BS14/3STR/TacAware long-gun plus close-assault/mine screen, strongest in open lanes requiring a TAG; **LT78/1.5** adds personal command risk rather than another gun. **Shikami42/0 (or MULTI Rifle47/0)** instead buys **Mimetism−6/Climbing/Super-Jump/Eclipse** and **Specialist Operative** to finish objectives or fight at short/medium angles without carrying 78pt TAG cost. Elite melee access should open the route **before** the O-Yoroi fights, not replace all direct long-gun shots. [Active guns vs actual mission Orders, LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **O-Yoroi MULTI HMG78/1.5** is a full **TAG** BS14/3STR/TacAware long-range firepower anchor with CrazyKoala/CC close protection; strong on open tables but poor value if the huge base must navigate tight hacker-controlled corridors. **Shikami42/0 or MULTI Rifle47/0** is a **non-TAG** Mimetism(-6), Climbing/Super-Jump/Eclipse mobile specialist that can win on **movement and scoring**, not raw HMG volume. The strongest melee trooper often opens the route **before** choosing whether the TAG's gun needs to fire. [Separate TAG/non-TAG rankings](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warband cheap trading / order economy — N5.3
 
