@@ -789,7 +789,7 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Marut MULTI HMG86/1.5 (Strategos LT90/2)** is an apex **MSV2 anti-camo/Smoke long gun**, but a 90pt LT needs cheap scoring, real Engineer and **Shukra CoC** where legal; **Asura AP Spitfire61/1.5** is the more mobile MSV3 infantry gun, **HD+ MMR63/0.5** a distinct hacker/scorer, not the same profile. **Garuda**/support infantry can finish isolated soft targets instead of paying Marut Orders for every kill. **Strategos Regular conversion and NCO use of the same LT Order cannot both be counted.** [Active gunfighter tiers and LT/CoC choices](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Marut MULTI HMG86/1.5** is the heavy **TAG** BS15/MSV2 long-gun answer to enemy Mimetism/Smoke; its expense needs independent specialists and repair. **Asura AP Spitfire61/1.5** is the **non-TAG** MSV3 armored midfield gun, while **HD+ MULTI MMR63/0.5** sacrifices AP range for hacking/utility. **Posthuman Mk.4 HMG30/1.5** is terrific shooting only when the legal multi-Proxy purchase is affordable, **not** an independently fieldable 30pt gun. [Separated TAG versus non-TAG ceiling and value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## TAG tactical cross-reference (2026-10-23)
 
