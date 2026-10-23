@@ -1029,3 +1029,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 - **Fanous Flash/Repeater** — 7pt cheap normal Order plus modest ARO and hacker network; avoid treating Flash as gun
 
 **Practical deployment:** put cheap disposable/Flash/DTW or mine pressure on the approach; retain a separate unseen or recoverable threat for the decisive square; avoid exposing a premium active attacker and check opponent Smoke, MSV, hacking, AD and pie-slicing. No automatic order from an off-table Hidden model; Irregular ARO units do not supply generic Regular Orders.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Ghulam Doctor(+3)15 WIP14** heals at **85%**, **Rouhani21 WIP15 Doctor(+3)** at **90%** where legal; spend the extra 6pts for NWI and a useful nearby VITA specialist/HI package, not merely for raw 5% better roll. **Najjarun15 WIP14** repairs STR through **Nasmat3** while **Hakim24–29** buys Parachutist/forward reach. Repair versus heal remains target-attribute-specific. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
