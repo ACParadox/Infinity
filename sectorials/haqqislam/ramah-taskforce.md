@@ -793,3 +793,8 @@ Validation performed:
 
 **Notes on transcript reliability:** YouTube and Spotify automated transcripts have frequent spelling errors (Khawarij, Maghariba, Haytham etc.) and sometimes speakers misremember stats. E.g. an older Robert narration refers to Khawarij BS12 while the pinned N5.3 Army reference gives **BS13**; only use its **tactical argument**, never transcribe the erroneous number as authoritative. Game-state/list examples and skills may postdate or predate N5.3: preserve the exact canonical reference above.
 
+## TAG tactical cross-reference (2026-10-23)
+
+**Maghariba** is the strong S8 long-gun/board-control chassis: pick it on accessible open tables where BS14/ARM8 can demand multiple enemy solutions. **Shakush** is the leaner HMG Continuous Damage/AP Spitfire source when the Maghariba's huge footprint or extra points would cost Ramah its scoring/recovery engine. Check the Armored Assault Fireteam requirement and total partner cost.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

@@ -930,3 +930,9 @@ This section is analytical and non-authoritative; source profile data and the ca
 ## Provenance
 
 Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If future Army revisions change roster entries, AVA, profiles, Fireteam chart semantics, relation records, or Reinforcement linkage, update this file and its `army_source_version`/verification metadata together.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Maghariba Guard** buys a conventional heavy ARM8 ranged centerpiece but needs S8 lanes, screening and Engineer access; **Triphammer** is a cheaper, aggressive secondary weapon choice with TacAware and the required-assault partner opportunities. When Dahshat already has efficient HI and support guns, the cheaper TAG may give better scenario value than a second long-range elite.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

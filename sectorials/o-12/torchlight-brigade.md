@@ -727,3 +727,9 @@ Effective Wildcards for Mobility exclude Sonya and Jamie Rover but include Hippo
 - Canonical Fireteam families found in the source: **Silverstars**, **Mobility**, **Wreckers**, plus Wildcards.
 - FTO labels were not treated as permissions. Chart context was applied explicitly to StormBots, Vidocq, Jamie Rover, Beasthunters, Kyra Sharma, and Nimrods.
 - The canonical **Fireteams** section takes precedence over the reverse access index if an inconsistency is ever introduced during later edits.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

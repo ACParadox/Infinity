@@ -868,3 +868,9 @@ This index is generated from the canonical chart above. If it ever conflicts wit
 - In particular, Nyoka options `5/6`, Santiago options `3/4`, Vidocq option `4`, and Tian Gǒu options `8/9` do **not** inherit the respective FTO chart access.
 - Conversely, the source rows for Ment Agents are plain `MENT`, so Ment option `1` remains legal in Security and Bronzes despite not carrying `FTO` in its profile name.
 - Source pinned at Army `7.26246.159`, backup commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`, blob `995037912a4871ef301469d701b9006bbea3371d`, verified 2026-10-15.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Zeta** is the S7 HRMC centerpiece for high-powered ranged engagements and vertical routes (Climbing Plus); it needs dedicated hacker-screening and mission scorers, not just another gun. Compare NCO/lieutenant choices *only if this sectorial's current profile actually offers them*. When missions require many distributed specialists, reserve enough points for the excellent Starmada objective network.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

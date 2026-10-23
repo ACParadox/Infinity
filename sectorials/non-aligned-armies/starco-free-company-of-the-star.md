@@ -728,3 +728,9 @@ Validated against Army snapshot `7.26246.159`:
 - InfinityDB reference commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Fireteam source: Army `fireteamChart` normalized into repository semantics.
 - Generated/verified: 2026-10-16.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Triphammer** fits the low-cost assault/second-gun role; **Anaconda** is the costlier, generally lower-ceiling AP Spitfire/Thunderbolt with an operator follow-up. Compare against StarCo's existing guns and objective pieces—an expensive chassis with no new attack angle is a trap. Use the local Armored Fireteam chart, not another NA2 company's options.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

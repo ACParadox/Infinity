@@ -780,3 +780,9 @@ Melek Reaction Group source units also include Reinforcement Al Hawwa, Nasmat, H
 - **[Bureau Aegis N5 Qapu tactical source index](https://www.bureau-aegis.org/forum/index.php?topic=17829.0)** and **[Corvus Belli Haqq tactics roundup](https://forum.corvusbelli.com/threads/n5-recap-haqqislam-tacticas.43463/)** — discovery/reference indexes; independently check dates and rules when using historical examples.
 
 **Confidence:** Tactical patterns cross-confirmed by multiple perspectives; exact current points, roster and Fireteam legality **only** from the pinned repo. In particular, do not silently update formal Army provenance or drop the discontinued-status nuance just because videos discuss playable QK.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Shakush** is the cheap armored gun, **Triphammer** saves points and adds flexible AP/HRL options, and **Iguana** is the specialized AP HMG/Repeater/operator plan. Compare with Qapu's efficient HI (notably Azra'il) before assuming a TAG is mandatory; the Zırhlı **required-choice** and companions must come from the canonical chart. Podcast criticism of Iguana's 'two wounds' is dated; check the present profile states.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

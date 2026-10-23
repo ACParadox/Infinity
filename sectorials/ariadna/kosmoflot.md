@@ -1127,3 +1127,9 @@ No Main/Reinforcement mixing is inferred from sharing a character or unit concep
 8. The linked L'Équipe Argent Reinforcement chart is kept separate and includes both canonical Reinforcement rows and all five Reinforcement Wildcards.
 9. Main and Reinforcement charts are not merged.
 10. No unresolved source ambiguity remains that would require `status: partial` under `REFERENCE_DESIGN.md`.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

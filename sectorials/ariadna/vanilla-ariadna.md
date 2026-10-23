@@ -1423,3 +1423,9 @@ Main and Reinforcement troopers are not merged by this reference; no source exce
 6. Apache, Barsuk and Brigadier Bruant FTO restrictions are resolved to exact loadout IDs.
 7. The top-level source `fireteams: []` field is not treated as overriding the non-empty `fireteamChart` object.
 8. The linked L'Équipe Argent Reinforcement chart is kept separate from the main vanilla chart.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Chernobog (63 HFT / 70 HRL)** is a rare true high-ARM AP HMG chassis in Ariadna, useful when durable conventional ranged attack is missing. Its Transmutation/damage progression means judge the *remaining useful role* after a failed armor save; cheap camo specialists/warbands still need points and Orders. Ariadna cannot simply assume another faction's Repeater/Firewall support infrastructure.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

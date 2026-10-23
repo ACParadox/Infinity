@@ -768,3 +768,9 @@ Further community cross-check: [Corvus Belli forum N5 Druze discussion](https://
 - InfinityDB reference commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Fireteam source: Army snapshot canonical `fireteamChart`, normalized using repository Fireteam conventions.
 - Generated/verified: **2026-10-16**.
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Triphammer** is usually the more efficient high-pressure option (budget profiles + TacAware), while **Anaconda** gives AP Spitfire/Thunderbolt and an operator fallback. **Disagreement:** the 2025 TAG tier-list judges Anaconda extremely poorly, but Druze can value a specific role when other gun choices are limited. Both require deliberate Engineer/hacking and mission support; don't assume its TAG Fireteam members from other mercenary factions.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

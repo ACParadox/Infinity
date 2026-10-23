@@ -887,3 +887,9 @@ This section is analytical and non-authoritative; the source profile data and Fi
 - Aggregate source blob at pinned commit: `e8cd8b1cb702f4ea7dacb38e9fb25c39d41f91d2`
 - InfinityDB commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
 - Rules baseline: N5.3 + N5 FAQ v0.1
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Triphammer** is the roster's budget TAG: choose its AP Spitfire/short-range loadout to pressure a side lane while Ikari retains inexpensive midfield and mission bodies. Its damaged-state payoff is **variance**, not guaranteed efficiency. Count legal Mechanized Fireteam members and the Engineer/support cost before calling a low price 'free' armor.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.

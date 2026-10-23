@@ -756,3 +756,9 @@ This section is analytical and non-authoritative; source profile data and Firete
 - InfinityDB commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
 - Rules baseline: N5.3 + N5 FAQ v0.1
 - Generated / verified: 2026-10-15
+
+## TAG tactical cross-reference (2026-10-23)
+
+**Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
+
+For the two-tier **apex/points-value** comparison, TAG counterplay, matchup matrix and direct transcript sources: [N5.3 TAG field guide](../../notes/list-building/tags.md). Treat current profiles, points/SWC and canonical Fireteam data above as authoritative.
