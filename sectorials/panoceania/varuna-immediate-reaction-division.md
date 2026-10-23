@@ -637,6 +637,10 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice (N5.3):** **Kamau HMG26/1** is unusually inexpensive BS13/Mimetism(-3) active Fireteam shooting when the team already serves a purpose; **Kamau MSV2 MULTI Sniper29/1.5** is more anti-camo/ARO than a straight active gun replacement. **Cutter NCO MULTI HMG97/2** offers hidden first-shot ceiling at a major roster/opportunity cost—screen it and keep separate objective pieces. Prefer Kamau team + multiple independent scoring tools when spending nearly a third of the list on a Cutter blocks scenario coverage. [Current gunfighter apex/value and matchup guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
