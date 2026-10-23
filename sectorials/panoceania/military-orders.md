@@ -997,3 +997,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 - **Peacemaker/Auxbot screen** — template and multi-body route denial; protect arrival corners rather than expose controller
 
 **Deployment choice:** put the disposable/tax ARO on the approach, preserve a separate hidden/mission-denial gate where legal, and avoid leaving an expensive active-turn gun as your only exposed defence. Test pie-slicing, Smoke/Eclipse/White Noise, hacking, AD entry, recovery access and specialist survival before paying more SWC for a second sniper.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** **Hospitaler Doctor** in a legal Crusade/Knight team gains *movement compression* beside expensive VITA Knights; a cheaper **Infirmarer of St Lazarus** may cover a small mobile team instead. **Machinist + Palbot** remains the low-cost **Seraph/REM** repair plan. A Controller carrying an active Servant cannot simply retain normal Fireteam membership; pick team-delivered Doctor **or** independent remote healing architecture. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
