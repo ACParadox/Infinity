@@ -1150,6 +1150,10 @@ Mission plan should preserve a **dedicated specialist among Irmandinho/Kibervolk
 
 [Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Chernobog AP HMG63/1.5** gives Kosmoflot a durable **3STR/TacAware** long-gun alternative to multiple lighter infantry shooters; **70pt HRL** improves clustered/indirect-adjacent blast plans but pays 7pts and must justify the extra effect. **Mirage-5 60/2** attacks the enemy DZ from edge without fighting front AROs; best when *both* Margot (AP Rifle/GL/Specialist) and Duroc (Smoke/Chain+CC) have live targets rather than consuming the whole turn. **Tactical Awareness presenters favor double Chernobog or Mirage overload**, while others prefer redundant specialists/smaller attacking modules. **Wallace CoC38** is not Inspiring Leadership until promoted. [Current gunfighter apex/value and LT/CoC comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
