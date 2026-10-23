@@ -1,5 +1,12 @@
 # List-Building Strategy — Mission, Scoring, and Specialist Strategy
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**New cross-faction unit selection:** [N5.3 Mission Specialists and Button Pushers — Apex/Points-Value tiers](mission-specialists-and-button-pushers-apex-value.md) rates *specific* FO, KHD/Hacker, Doctor, Engineer, Specialist Operative, LT and CoC profiles against access, survival, repeatability and secondary utility. Use this existing guide for mission timing, Classified task coverage and role distribution, and the new guide for which legal profile buys those jobs most efficiently.
+
+[Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
+
 Infinity is not primarily won by destroying the enemy army. Combat is usually a means of creating or denying scoring opportunities.
 
 A useful framework is:
