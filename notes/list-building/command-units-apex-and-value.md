@@ -49,9 +49,28 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 | **A+** | **Colonel Voronin 22/0 — Vanilla Ariadna** | Strategos L1, Counterintelligence/Sensor for a small premium; better for diverse regular attack pieces than a Wallace plan with few Irregulars. | A Wallace LT is better when converting many Irregular fighters. |
 | **A** | **Sun Tze 53/0 LT(+1 Order), Imperial Service** | Both Special Orders become pooled Regulars; Strategos L2/Decoy/Counterintelligence combine into very strong control. | Powerful apex, not the cheapest unit/activation; team still needs gunfighters. |
 | **A** | **Neema Saatar 36/+1 SWC, Tohaa** | LT(+1) + **SWC rebate** can fund another premium attack tool and save slots. | If SWC not constrained, Taqeul35/0 + support can be stronger. |
-| **A** | **Hatamoto 36–39/+1 SWC, JSA** | LT(+1) plus SWC rebate, useful fighting ability and Kampeitai17 CoC protection. | Active LT risk; premium loses value when the user can only afford one gun. |
+| **A** | **Hatamoto 36–39/+1 SWC, JSA** | LT(+1) plus SWC rebate, useful fighting ability and Kempeitai17 CoC protection. | Active LT risk; premium loses value when the user can only afford one gun. |
 | **B** | **Cheap regular LT + same-looking decoy** | Good for spending all points elsewhere while retaining plausible LT ambiguity. | With no NCO/Strategos, the Special LT Order may be permanently stranded. |
 | **C/B** | **Morat Vanguard LT 14/1 SWC — Vanilla Combined** | Emergency cheap LT to afford an Achilles/other premium plan. | 1 SWC and poor contribution make it bad compared with Nexus or real command LT if points allow. |
+
+## Command economy versus risk — actual Order budget
+
+**Orders shown are per relevant Active Turn while models/skills are valid**, not guaranteed extra generic pool Orders. A personal LT/Tactical Order can be worth less than a Regular Order on the right attacker; a CoC model costs points but normally adds its own Regular Order while alive.
+
+| Package | Added command/TA activations beyond model's normal Regular Order | What is freely assignable? | LT exposure / practical risk |
+|---|---|---|---|
+| **Magistrate19 Strategos L1** | **1 LT → 1 Regular** | One flexible Order **in Magistrate's group**; two reserves + Counterintelligence | **Low deployment exposure, high assassination fragility:** W1/ARM1, so guard the backline |
+| **Raveneye17 LT(+1) + NCO** | **2 Special LT → up to 2 NCO Tactical** | **Zero** extra generic pool Orders; only chosen NCO/team leader can use them | **Low until unmasked or NCO dies**; Holomask CoC alternative18 available separately |
+| **Dāoyīng23 LT(+1) + Tai Sheng NCO** | **Up to 2 NCO Tactical** | **Zero** extra flexible pool; the proper NCO/team uses them | Camo makes LT harder to find; **NCO/Fireteam is economy chokepoint** |
+| **Saladin39 Strategos2 + Inspiring** | **1 LT → 1 Regular**, plus **one converted pool Order per eligible existing Irregular trooper** | One extra Regular in Saladin's group **plus** every eligible Irregular conversion to its Combat Group; not extra trooper slots | **Highly concentrated:** lose Saladin and Regular conversions/command advantages vanish |
+| **Sun Tze53 Strategos2 LT(+1)** | **2 LT → 2 Regular** | Both flexible in Sun Tze's group; free group transfer of one trooper (+ Peripherals) | Tough/disguised decoy relative to cheap LT; 53 points competing with guns |
+| **Kornak42 Strategos1 LT(+1)** | **2 LT → 2 Regular** | Both flexible in Kornak's group | Protected by Warhorse-heavy MAF contingency; no NCO extra on top |
+| **Marut90 Strategos2 + TA** | **1 LT → 1 Regular**, **+1 personal TA** | One flexible group Order; TA only on Marut/its led legal team | **High investment and hackable active LT**; Shukra21 CoC mitigates LoL, not TAG loss |
+| **Avatar122 Strategos2 + TA/Mnemonica** | **1 LT → 1 Regular**, **+1 personal TA** | One flexible group Order; personal TAG TA; conditional Mnemonica succession | **Very high resource concentration**; neutralizing cheap pool or Isolating Avatar beats trusting raw armor |
+| **Sogarat56 active LT + NCO Sogarat** | **1 LT → up to 1 NCO Tactical** | None in general pool; NCO can drive its actual Armored Duo | Large exposed combat LT, **but Warhorse heavy pool may remain Regular in LoL** |
+| **Joan/Wallace Inspiring LT** | **1 personal LT Special Order**, plus **eligible Irregular→Regular conversions** and special Coordinated activation | Converted troopers produce flexible group Regular Orders; personal LT Order can Coordinate with LT | **High risk if converted warband pool reverts after command loss** |
+
+**Risk test:** estimate (A) probability the opponent removes/Isolates the LT, × (B) *number of useful pooled activations and scenario pushes you would lose* on the following turn, × (C) how safely a live CoC/Mnemonica host changes that outcome. This is a **decision aid, not a calibrated probability model**. When premium attacking LT cannot profitably use its extra Order or still needs a costly backup, a cheaper protected LT may outperform it.
 
 ## Chain of Command tiers — separate apex and value rankings
 
@@ -80,7 +99,7 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 | **B/A** | **S/A** | **Táowù 21/0.5 — Imperial Service/WhiteCo** | Cheap Holomask succession and short-range ARO distraction, good ambiguous backline placement. | 0.5 SWC, modest offensive output. |
 | **B/A** | **A** | **TankHunter 25/0 — Vanilla Ariadna** | Camo + Minelayer + Panzerfaust means protective CoC also taxes enemy advance. | Must stay alive; not available in every Ariadna sectorial. |
 
-**Extra strong roster-bound options:** O-12 **Katherine Cho 20/0**, **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit), **Ment** with CoC; Invincible Army **Léi Gōng FTO 34/0**, **Tai Sheng CoC 36–40**, **Hǎidào 24**; White Company **Emily Handelman 28/0** (CoC and grenade launcher), **Hawkwood 40/0**; Kestrel **Raktorak 25/0** is *Morat*, not Kestrel. These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
+**Extra strong roster-bound options:** O-12 **Katherine Cho 20/0**, **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit), **Ment** with CoC; Invincible Army **Léi Gōng FTO 34/0**, **Tai Sheng CoC 36–40**, **Hǎidào 24**; White Company **Emily Handelman 28/0** (CoC and grenade launcher), **Hawkwood 40/0**; **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL). These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
 
 ## Rules and command-package interactions
 
