@@ -728,6 +728,12 @@ Effective Wildcards for Mobility exclude Sonya and Jamie Rover but include Hippo
 - FTO labels were not treated as permissions. Chart context was applied explicitly to StormBots, Vidocq, Jamie Rover, Beasthunters, Kyra Sharma, and Nimrods.
 - The canonical **Fireteams** section takes precedence over the reverse access index if an inconsistency is ever introduced during later edits.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Raveneye LT(+1) 17/0** is a premier low-cost Holomask, FO, Minelayer two-Order commander when **Strider/Vidoc or another legal NCO** can spend those Orders; **Raveneye CoC 18/0** is a different legal profile that supplies hidden succession. **Jamie Arantes LT(+1) 49/0** is for actually spending command Orders on the fighter, but adds substantial risk. **Ment CoC** is another backup option. Keep successor away from active LT attack and do not count personal Tactical Awareness as global Orders.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
