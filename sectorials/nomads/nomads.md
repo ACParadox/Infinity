@@ -846,6 +846,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Hellcat BSG19/0, Bearcat KHD29–30/0, Meteor Repeater+Sensor19–21** cover three different AD jobs: *sacrifice/Adhesive trade*, **self-contained anti-Hacker/specialist fighter**, and **hacking-network projection**. Do not import **Carlota Parachutist(DZ)** or Corregidor Surface/Deepspace Fireteam structures unless current **Vanilla** list grants that option. **Meteor** has no automatic damage output without a real hacker/missile system. If target is one 10pt Order, a 64pt premium attacker is poor even if it reaches the backline.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra HRMC (68)** is the concentrated long-range threat, **Gator MULTI HMG (73)** the armored NCO/TacAware/mine brawler, and **Gecko (49–55)** the budget TacAware/light-TAG angle and useful second TAG. Prefer cheaper Gecko when the plan needs two scoring axes; choose Gator when mine/close defence materially matters. Check the vanilla profile before assuming a Tunguska-only NCO benefit.
