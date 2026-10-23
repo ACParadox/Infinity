@@ -511,6 +511,12 @@ The pinned Shasvastii Army data links Reinforcement roster **699**. This referen
 
 Read the [Shasvastii Expeditionary Force tactical guide](../../notes/factions/shasvastii-expeditionary-force.md) for marker-state tempo, Speculo/Noctifer/Caliban choices, tournament face-up/face-down lists, Sphinx and Q/R-Drone coverage, plus Gwailo skepticism and tournament counterexamples. **Gwailo MSV2 is specific to the HRL option**, not its HMG; the current Shock chart retains eligible **M-Drone FTO** entries.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Mentor LT** provides deceptive protected command; **Sheskiin LT** trades safety for active killing and benefits from separate CoC. **Caliban CoC 29/0** offers actual camouflaged forward specialist/assault utility, but keep it alive to take over rather than sacrificing it first. **Sphinx** is an expensive standalone stealth TAG, not an automatic LT; **Shasvastii/Embryo mechanics** don't make the rest of the roster immune to Loss of Lieutenant.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Current pinned profiles and Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Sphinx (93)** is the premium Hidden Deployment, Camouflage, Mimetism(-6), Climbing Plus flanker: expose only after you identify a decisive attack route. Its Spitfire has no AP and 93 points weakens the secondary assault/scoring base, so the **2025 TAG podcast is strongly divided** on its overall value. The current profile supersedes older comments.
