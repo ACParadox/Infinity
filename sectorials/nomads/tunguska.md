@@ -747,6 +747,12 @@ The pinned Tunguska Army data links Reinforcement roster **599**. This reference
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## Mission specialist / button-pusher choices (N5.3)
+
+**Interventor HD+18–23/.5 WIP15 BTS9** is spectacular low-cost network/button eligibility from safety, but is **not a midfield console runner** by itself. Build a real repeater/recon unit and a second forward Objective specialist to reach buttons; **Mary Problems** trades extra points for a Mimetism(-6) forward KHD/Pitcher hybrid. **Kulak CoC** gives command insurance when chosen profile and mission recognize it. Compare hacker duel value separately from actual physical objective access.
+
+[Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
