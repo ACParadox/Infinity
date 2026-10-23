@@ -559,6 +559,12 @@ For Morat mission lists, budget **Raktorak CoC25** (if chosen) to protect a prem
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Rasyat BSG25/0 or Spitfire34/1.5** gives guaranteed legal *enemy-DZ edge* insertion through **Parachutist(DZ)**, plus Combat Jump alternative, Eclipse grenades, DA CC and Warhorse; 25pt normally wins marginal trade into exposed Order sources. **Spitfire** justifies 1.5 SWC if 2+ backline guns/specialists are reachable without new ARO. **Kornak LT42 Strategos** and **Sogarat LT56** stay separate *on-table* commanders. **Raktorak CoC25** succession may be less necessary if actual Warhorse fighters preserve Regular Orders, but non-Warhorse REMs still suffer LoL.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
