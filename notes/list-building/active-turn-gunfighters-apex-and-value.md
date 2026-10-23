@@ -85,6 +85,22 @@ _Research date: 2026-10-23. **Editorial conditional tiers—not official ranking
 | **B/A (matchup)** | **Spitfire Redeye37/1.5 — Kestrel** | Aerial 20-5/Mimetism−6/BS14/Sensor/Blitzen makes side/rear attack sequences *very* Order efficient if 3D LoF exists. | S7/No Cover/Hackable; flat board and 1.5SWC cost flip it from value A to B. |
 | **B/A (team)** | **Griffin HMG37/1.5 (LT37/1) — Kestrel** | **BS14, MSV1, 2W** and cheap Fennec/Kestrel FT compatibility; best when saving **~11pts** versus Hetkari or needing long HMG band. | Reviewers sharply split: Hetkari Marksmanship improves common Cover fights more; Griffin's MSV helps *against Mimetism*. Choose target mix. |
 
+## 2b) Other high-value roster-specific challengers
+
+These alternatives often **beat the table above within their own sectorial**; named profiles below are current pinned examples. They are **not** guaranteed roster choices in other factions.
+
+| Unit/profile | Apex | Value | When it beats the more obvious heavy gun |
+|---|---|---|---|
+| **Corregidor Surface Territorial AP Marksman29/0** | **A** | **S** | **BS13, Marksmanship, TacAware, X-Visor** and real AP damage with **0 SWC**; an excellent self-funding midfield shooter when 32pt/1.5SWC Red Fury saves no significant movement Orders. **Surface only**. |
+| **Torchlight Firebat Thunderbolt/LRL36/0** | **A** | **S/A** | **BS13, Mimetism−6, +1SD, MOV20-5, NCO** makes unusual aerial attack angles cheap in SWC; **S7 No Cover Hackable** restricts safe turns. |
+| **Svalarheima Jotum MULTI HMG82/1.5** | **S/A** | **B/A** | **BS15/ARM10/BTS9/3W and TacAware**, nearly unshiftable by conventional guns. Against E/M/hacking/CC, cheaper dual-gun lists trade better; **LT82/2** is separate. |
+| **Acontecimento Bagh-Mari HMG30/1.5** | **A** | **S/A** | **BS13, MSV1, Mimetism−3, NCO**, inexpensive linked long gun with useful anti-camo/cover pressure when team and LT Orders already exist. |
+| **Morat Suryat HMG TacAware43/1.5** | **A** | **S/A** | **BS13/ARM4/2W**, self-funded HMG attacks in eligible Morat/Tarlok team; beats **Sogarat 52–58pt** for **repeated linked movement per budget**, loses a hard direct armor exchange. |
+| **Ramah Khawarij MSV2 Mk12 NCO38/0** | **A** | **A+** | **No-SWC anti-Mimetism** midrange weapon that can spend appropriate LT Orders; often beats a second 1.5SWC AP gun in specialist-heavy lists. |
+| **Imperial Service Hsien MSV2 HMG49/1.5** | **A+** | **A** | **BS14 MSV2/2W** and legal teamwork remove dense Mimetism/Smoke while **Crane AP HMG49/1.5** instead answers high ARM/CC. |
+| **Shindenbutai Hatamoto Plasma Carbine34/0** | **A** | **S/A** | **NCO, Mimetism−3, Nanoscreen, Specialist Operative and exceptional CC**: short-range firefight plus button pushing **without spending SWC**. **Red Fury40/1** and **Spitfire41/1.5** are distinct options. |
+| **Torchlight Silverstar HMG TacAware37/1.5** | **A** | **A+** | **2W BS13 linked HMG with its own Tactical Order**, a real midcost front gun when **Firebat** is too exposed or hackable. |
+
 ## 3) Lieutenant gunfighters — separate apex and points-value
 
 **These are _gunfighting LTs_, not a ranking of all command engines** (Saladin/Sun Tze/Magistrate often better **command value** precisely because they don't buy a premium assault gun). Losing an aggressive LT can erase the next turn even if it traded up. See [full LT guide](command-units-apex-and-value.md) for command-only tiers.
