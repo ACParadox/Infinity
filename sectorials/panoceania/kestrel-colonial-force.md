@@ -717,6 +717,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 **Active-turn gunfighter choice (N5.3):** **Griffin HMG37/1.5** gives cheap MSV1 and long range in Fennec/Kestrel teams; **Hetkari MULTI Red Fury48/1.5** pays +11 for **Marksmanship** and stronger Cover-focused FtF (and benefits from legal Kestrel team composition); **Squalos Mk-II MMR55/1** is the economical TacAware TAG; **Tik HMG69/1.5** wins on Climbing/Mimetism/retreat mobility instead. **Dissent (Irregular Order #52):** Griffin's price/MSV can beat Hetkari *for the required job*, while others prefer Hetkari to mitigate failed Cover gunfights. **Magistrate CoC21** protects an aggressive **Tik LT73**, but is not the same 19pt Magistrate Strategos LT. [Cross-game apex/value, matchups and transcripts](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Minescorp Jackal FTO Panzerfaust+SMG6/0 or Light Rocket Launcher6/0** is Kestrel's premier **cheap long-range disposable trade/Order scaffold**: Irregular alone, but proper **ColCorp legal team** may change efficiency. **Infiltrating 10pt E/M Carbine+BSG or Blitzen10pt**, or **E/M GL Minelayer11/.5** are separate **non-FTO** profiles, great for threatening Hackable TAG/HI from an unexpected approach; **NOT 6pt linked Jackals with E/M GL**. Kestrel lacks generic Galwegian/Morlock/Smoke infrastructure. **Magistrate LT19 Strategos** versus **CoC21** separate safety options when expensive Tik/Banshee attackers trade.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../../notes/factions/kestrel.md).
