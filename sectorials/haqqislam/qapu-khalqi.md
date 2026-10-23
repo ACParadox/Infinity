@@ -850,3 +850,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 - **Warcor 3pt Flash** — disposable Irregular Stun/Orders tax, not a generic Regular cheerleader
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Ghulam Doctor(+3)** is an excellent budget VITA support option if in the selected roster: its **WIP14+3 = 17 (85%)** can outperform generic WIP13 Doctor without extra Orders. **Claire Lazhari33** is a higher-cost **Doctor(2W) versus FTO Doctor(+3)** choice; use it for heavy VITA Fireteam recovery *when team eligibility is legal*. **Najjarun/Nasmat** (or roster-available Engineer) provides distinct STR and hack-state repair, particularly for REM-heavy plans. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
