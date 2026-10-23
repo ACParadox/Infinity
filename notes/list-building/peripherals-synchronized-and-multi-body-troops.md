@@ -2,6 +2,8 @@
 
 Multi-body troops are a distinct Infinity subsystem because they change the normal relationship between **Orders, Combat Group slots, physical bodies, threat projection, and risk**.
 
+For **Servant and Cyberplug recovery reliability versus full package cost**, see [Doctor/Engineer apex and value tiers](doctors-engineers-and-recovery-apex-value.md); this guide remains responsible for multi-body activation and placement mechanics.
+
 The central idea is:
 
 > **Multi-body value comes from having more physical presence, positional reach, or tactical options than the unit's Order and Combat Group footprint would normally suggest.**
