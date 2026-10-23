@@ -1021,3 +1021,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 plus Yáozăo3** is the distinct STR/disabled-state safety net where available in this roster. **Cube targets** can spend Command Tokens on failed Doctor rolls; **Remote Presence** can do so with Engineer, but these rerolls are target-specific. A linked cheap support specialist can save movement Orders at the cost of Servant/Fireteam incompatibility when its Peripherals are deployed. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Tactical cross-reference — vision control (23 October 2026)
+
+**Bayara18/0 Disco** provides inexpensive independent Eclipse with MSV1/Guard, **Xi Zhuang21/0 Disco** pairs a Wildcard mission/close-denial piece with LoF interruption, and **Celestial Guard Smoke GL13/.5** offers ordinary Smoke to a linked attack or objective push. **Adil Mehmut49/1.5 Disco** is an apex gun/assault platform, not a cost-effective pure screen. **Counterpoint:** White Noise and Albedo are selective anti-MSV techniques; Disco gives a true Eclipse template but takes Orders to deploy. **Value:** use Bayara/Xi for a real crossing, Celestial Smoke for cheap non-MSV lanes, Adil only when his full offense/command role is funded. [Vision global guide](../../notes/list-building/vision-control-units-apex-and-value.md).
