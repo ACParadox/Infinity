@@ -814,6 +814,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Rasyat BSG25/0 or Spitfire34/1.5** is exceptionally efficient **Parachutist(DZ)** plus Eclipse/Warhorse/CC, while **Speculo BSG26/1** threatens catastrophic Monofilament/Impersonation trades but can be killed by prepared mines/templates; **Greif IMP-2 21/.5** is lower-ceiling deception. **Caskuda64/1** has Combat Jump **(PH14 according to pinned Onyx)**, thus **70% basic/85% +3 Controlled Jump**; failed N5.3 jump retreats to **own DZ edge as Model**, not scatter. **Sheskiin LT48–50** is ground-based attack LT, not aerial, and **Caliban CoC is NOT listed in Vanilla CA profile options**—do not import SEF's CoC.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Avatar** offers the highest standalone command/kill ceiling (Strategos L2, Mnemonica, Mimetism -6, Sepsitor) but costs **122/3 SWC**; keep a scoring spine and protect anti-hacking lanes. **Sphinx (93)** favors Hidden Deployment/climbing/flame flank attacks rather than armor duels. **Overdron HRMC (62)** is a far cheaper long-range pressure platform, and **Caskuda (64)** buys a disruptive Combat Jump vector at the cost of off-table first-turn presence. Prefer the latter two when redundant attackers/specialists are more valuable.
