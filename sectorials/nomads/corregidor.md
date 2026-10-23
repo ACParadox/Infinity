@@ -771,3 +771,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Clockmaker18 + Zondbot3** is the cheap safe home repair network; **Tomcat Engineer22/26 incl. Zondcat** or **Carlota28/32 incl. Moriarty** reaches a downed **Gecko/Gator/REM** on a distant flank by Parachutist/Climbing. **Evader Engineer24/29/35** is durable combined assault/repair, while a **Wildcat Engineer25** can pay too much for mismatched combat/tools (Toolbox video dispute). **Daktari14** is the inexpensive VITA Doctor. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Moran Repeater+CrazyKoala Minelayer 15/.5 (AVA2)** is the cheapest *outer* Repeater/physical network; two can deter flank rushes while Jazz waits safely behind. **Important anti-IMP limit:** Boost is not triggered by IMP-1/IMP-2 or Camo markers, so Morans alone do not secure Jazz/Clockmaker/cheap Alguaciles from Fiday/Speculo. **Warcor 360º3/0** is a cheap edge alarm; **Transductor7/0 Flash/Repeater** is a Regular support body; **Salyut8/0 Deactivator/Baggage/Repeater** doubles as logistic support. **Opponent view:** WIP12 post-Mazebreaker warns that two Morans + Jazz + Vertigo consumes SWC; retain real active gun and two independent scoring paths instead of buying only defensive hacking.
+
+[Whole-game DZ-defender apex/value guide, counters and transcripts](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
