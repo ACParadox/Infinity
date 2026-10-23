@@ -480,3 +480,8 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 [Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Chasseur 20/.5 Shock Minelayer** is a genuine Camo/Infiltration speed bump with Sixth Sense, Light Flamethrower and a threatening corner; **AVA4 in FRRM**, compared with AVA2 in Vanilla Ariadna. **Chasseur 20/0 FO** scores but does not start the deployment mine; don't silently combine profiles. **Counterpoint:** too many Chasseurs create redundant mine corridors and not enough direct attack; mix clearable mines with an exposed target that is actually worth protecting.
+
+[Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
