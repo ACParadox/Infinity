@@ -1152,7 +1152,7 @@ Mission plan should preserve a **dedicated specialist among Irmandinho/Kibervolk
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Chernobog AP HMG63/1.5** gives Kosmoflot a durable **3STR/TacAware** long-gun alternative to multiple lighter infantry shooters; **70pt HRL** improves clustered/indirect-adjacent blast plans but pays 7pts and must justify the extra effect. **Mirage-5 60/2** attacks the enemy DZ from edge without fighting front AROs; best when *both* Margot (AP Rifle/GL/Specialist) and Duroc (Smoke/Chain+CC) have live targets rather than consuming the whole turn. **Tactical Awareness presenters favor double Chernobog or Mirage overload**, while others prefer redundant specialists/smaller attacking modules. **Wallace CoC38** is not Inspiring Leadership until promoted. [Current gunfighter apex/value and LT/CoC comparisons](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Chernobog AP HMG** is the heavy **TAG** 3STR/TacAware anti-armor anchor with a greater direct-fire budget than most infantry HMGs; damage-state changes reduce its staying power. **Mirage-5 60/2** instead buys side/back attacks by landing path and Smoke rather than winning a frontal HMG FtF; both pieces pay heavily in Orders if their entry/target geometry is poor. Prefer cheaper specialist and supporting gun redundancy if a massive 1-turn strike prevents later objectives. [Separate TAG/non-TAG gunfighter tier guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
