@@ -17,6 +17,8 @@ coverage: "Complete standard Ōban roster, standard loadouts/profile states and 
 # Ōban — N5.3 sectorial reference
 
 ## Overview and provenance
+**Tactical companion:** [Ōban list-building, transcript-backed opposing opinions and TAG/REM/VH comparison](../../notes/factions/oban.md) (research updated 2026-10-23). Tactical evaluations are community commentary; **the Army profiles and Fireteam chart below remain canonical**.
+
 
 This file is the repository reference for **Ōban** (Army sectorial ID `1103`), a sectorial of the **Japanese Secessionist Army / JSA** (parent Army ID `1101`). It is intended to be sufficient for ordinary roster, AVA, points/SWC, profile, dependency, and Fireteam-legality questions without reopening Army.
 
