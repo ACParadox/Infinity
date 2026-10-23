@@ -825,3 +825,7 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 **Zero-SWC rear guard:** **Kaauri E/M Minelayer 11/0** gives a small Sixth Sense/MSV1/Biometric anti-intrusion body and a deployment mine, not an infiltrator. **Hidden Clipsos Shock Minelayer 23/.5** is genuine midfield surprise but its **FO 26/0** is separate and Hidden orders are withheld; **Draal 33/1 Shock Minelayer** adds a robust 2W FD body. **Draal Dazer 32/0 is NOT Minelayer**; its Dazer placement later costs Orders. **Counterpoint:** a fast Kotail/Gao-Tarsos mission run or cheap Kaauri may be better than overbuying hidden mines.
 
 [Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Kumotail21 WIP14 Doctor+Engineer + Chaksa Servant3** is an efficient one-slot dual network, able to work with legal Triad routes **or** remotely with Servants (respect Fireteam restriction). **Kosuil Engineer20–25** instead offers an assault-side K1/shotgun shooter and technical support inside a legal moving Triad; worth its points when it contributes attacks/objectives, not as a pure 20pt rear Engineer. Symbiont models use their relevant current attribute/state; inspect patient eligibility before Doctor versus Engineer choice. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
