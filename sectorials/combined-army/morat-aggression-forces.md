@@ -565,6 +565,10 @@ For Morat mission lists, budget **Raktorak CoC25** (if chosen) to protect a prem
 
 See [current cross-game apex/value, landing odds and expected-trade tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **This roster and Fireteam chart control exact loadout/availability.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Sogarat** offers premium **BS13 ARM6/2W** AP HMG or Feuerbach at ~52–58pts; choose AP gun against armor, Feuerbach for long ARO/EXP threats. **Suryat HMG Tactical Awareness43/1.5 (44 with TinBot)** spends its own activation and can advance in a legal Morat/Tarlok team, often the better *Order-value* than another expensive Sogarat when support is already present. **Rodok Spitfire29/1.5** is a shorter-ranged, cheaper team assault. **Sogarat LT56/0.5–1** benefits from individual Morat **Warhorse**, but not all REM/warbands ignore LoL. Kornak LT(+1) gives more flexible Strategos Orders; a **CoC Raktorak** is situational in a full Warhorse army. [Gunfighter and command apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Raicho (75 NCO HFT / 85 Mine Dispenser)** is the durable ARM8 MULTI HMG attacker; NCO turns available LT Orders into attacks. **Bultrak (69)** offers HRMC/autocannon and an Armored Duo option but is only ARM5: don't treat it as equally durable. Evaluate the two full Duo builds and keep Engineer/second scoring routes. In an anti-armor meta, cheaper Bultrak is not automatically safer.
