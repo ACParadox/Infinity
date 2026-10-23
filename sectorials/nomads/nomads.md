@@ -909,3 +909,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Clockmaker18 WIP15 + Zondbot3** is standout pure **REM/TAG** insurance: 75% initial Engineer roll, up to **93.75%** with a legal Remote Presence Command Token reroll. **Daktari14 WIP13** handles VITA; **Sophotect-like dual roles aren't free**, so buy **Evader/Zoë/other combat Engineer** only when hacking/attack utility will be used. Two Zondbots in separate safe corners are better than clustering both beside the gun. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Vanilla Moran AVA1** (Corregidor AVA2): the **15/.5 BSG + Repeater + CrazyKoala Minelayer** is excellent turn-zero physical/hacking denial, but cannot cover both flanks alone; pair it with a **Zero/ Spektr marker**, mobile Repeater/Pitcher or cheap template guard. The one-use Camo Moran is a **separate profile** without Repeater. **Counterpoint:** investing further in hacker/Guided packages can starve the army of independent shooters and SWC. Read exact vanilla AVA before copying Corregidor two-Moran advice.
+
+[Cross-game apex/value and transcript analysis](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). This is tactical synthesis; exact loadouts and Fireteams remain above.
