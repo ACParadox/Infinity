@@ -820,3 +820,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 - **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
 
 **List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Mech-Engineer14 + Yáozăo3** is cheap **Guijia/REM** protection (65% first roll, **87.75% with legal Remote Presence token**). **Krit Kokram37, WIP14 and 2W** supplies a durable forward Fireteam Engineer useful with Zúyǒng HI; **Chung-Hee Jeong31 ReRoll** and **Johnny Kao36** instead buy serious toolbox/mission/attack secondary roles. **Zhanshi Yīshēng14** covers injured VITA and not STR. Keep servant and combat team composition legal. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
