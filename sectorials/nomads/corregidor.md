@@ -721,6 +721,12 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 **Active-turn gunfighter choice:** **Intruder HMG38/1.5** wins **smoke+MSV2/Camo** matchups when a Jaguar/McMurrough (where legal) produces smoke; the **MULTI Sniper(+1SD)38/1.5** is more a long ARO/discovery threat. **Vostok Mk12/Spitfire34–38** contributes Mimetism(-6)/Climbing and real Fireteam utility **only on a division-legal FTO profile**. **Gecko49–55** is a compact TacAware attack and support team, whereas **Gator73/1.5 Deepspace** buys the large durable HMG/NCO/TacAware engine. Surface **Territorial AP MMR29/0 TacAware** is often stronger value than its more costly AP Red Fury/SWC when it will repeatedly fire from midfield. **WIP12 dissents** on whether Guided+network or a direct second gun deserves the next 1.5SWC. [Full gunfighter apex/value and matchups](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Diablo Light Shotgun/Trench-Hammer8/0 or SMG9/0** is one of the best cheap **Berserk CC23** anti-HI options when **Lobo FT Master/Correctional required-choice** enables its route; it has printed **Irregular+Impetuous**, 2W/Transmutation and NO self Smoke. **Jaguar Chain+Smoke10/0** is **Regular**, adds Dogged and enables **Intruder MSV2 smoke-shooting**; 11pt Adhesive+Panzerfaust version trades at range against heavy units. **McMurrough23/0** is better at sustained solo crashing but consumes Irregular/personal Orders. After one successful CC kill, prefer preserve Jaguar Smoke/scoring paths to chasing a 10pt second target.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
