@@ -694,6 +694,12 @@ Derived analysis aids, not official characteristics.
 - Fireteam source: pinned Army `fireteamChart`, normalized using the same semantics documented in InfinityDB.
 - Verified: `2026-10-15`.
 
+## Mission specialist choices — N5.3 cross-game evaluation
+
+**Karhu Engineer/FO or KHD/Specialist variants**, when explicitly listed, provide fighting plus button capability on the same path; compare their premium to **Pathfinder FO/Sensor14** and cheap legal Fusilier/Knight medical specialists. An elite long-range shooter may clear a route but cannot claim a specialist-only Objective unless its *actual selected profile* qualifies. Keep an independent turn-three Specialist while the WinterFor attack team commits.
+
+See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Jotum (82)** is a hard defensive/attrition anchor against limited AP/E/M threats: ARM10/BTS9, MULTI HMG, HFT and TacAware. Its value drops sharply against AP, E/M or repeaters that bypass the expensive armor advantage; use WinterFor's other troops to remove these threats rather than simply advancing the Jotum first.
