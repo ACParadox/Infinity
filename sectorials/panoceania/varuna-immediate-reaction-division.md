@@ -625,6 +625,12 @@ Dante finished **5th of roughly 21–22** players and especially praised layered
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Zulu-Cobra FO/KHD** is the high-access Camo/FD specialist; **Pathfinder FO14/TA17** offers Sensor/Repeater/cheap Regular Order if roster permits; **Kamau/Bipandra** only score when selected profile actually has eligible FO/Doctor/Hacker role. Varuna **has no CoC** and Quinn FO/Disco is **not CoC**. Save a real independent scorer for late game rather than risking a vital combat LT to touch a console.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
