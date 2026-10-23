@@ -823,3 +823,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Mech-Engineer14 WIP13 + Yáozăo3** is the low-cost **Blue Wolf/Guijia/REM** recovery line; ordinary WIP13 contact success is **65%**, **87.75%** if eligible Remote Presence Command Token used on failure. **Chung-Hee Jeong31** buys Engineer(ReRoll), Repeater and turret/linked utility; **Johnny Kao36** buys high-mobility, survivability and Engineer ReRoll as a different tier. **Zhanshi Yīshēng14** treats VITA instead. Favor 17pt network if the pricey mechanic never needs to fight. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Warcor 360º3/0** is low-cost Irregular rear-edge Flash. **Hùsòng Total Reaction Thunderbolt18/0** covers airborne/vertical avenues while generating a Regular Order and permitting Engineer repairs; **Chaīyì7/0 Flash+Repeater** is another Regular support body, not a hard gun. **Lóng Yá Camo+FD/AP Mine Minelayer/Panzerfaust(+1B)17/.5** (actual option) controls a critical *outer* approach; **Gūdǎn one-use Camo/Zapper or HFT** gives a separate short-range template/ambush job. **Counter:** cheap physical sentries stop non-Hackable raiders better than hacking alone, but a single 360º bot or Camo mine cannot see all safe Combat Jump rooftops; split valuables and cover next movement squares.
+
+[Cross-game DZ Defenders — apex/value and transcript-backed disagreement](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
