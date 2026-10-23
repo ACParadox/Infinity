@@ -940,3 +940,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Warbands and inexpensive trading roles — N5.3
+
+**Irmandinho Engineer+Chain+Smoke8/0** is the premier utility trader: has a relevant objective/repair function even if no target gets within template range. **Dog-Warrior21/0** uses 15-10/Super-Jump/3W Transmutation/PH Grenade Speculative Fire for **multiple Orders of attack**, not pure sacrificial efficiency. **Carmen+Bâtard17/0** provides bike Smoke+Sensor synchronized counter to enemy Camo. **Ioann Bann32** gives another high-end large-base close-in threat; expensive compared with Irmandinho. Compare **Dynamo** mobility vs tech/midfield mission instead of stuffing every Irregular WB into a single Group 2.
+
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
+
