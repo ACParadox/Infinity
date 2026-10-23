@@ -33,7 +33,7 @@ This creates a “projected influence” that shapes movement lanes. Troopers en
 Repeaters extend a Hacker's threat bubble. Because Repeaters create symmetrical Hacking Zones, placing one aggressively risks giving enemy Hackers direct access to your own forces. Using them requires planning and screening with Firewalls or Killer Hackers.
 
 ### Hackers & Firewalls / Tinbots
-Firewalls grant +3 WIP and -3 Damage against Hacking Attacks that target the protected Trooper.  
+**N5.3 correction (2026-10-23):** Firewall applies its **printed negative WIP MOD to the Comms attacker** and gives the protected defender **+3 on Comms Saving Rolls**. It does **not** give the defender +3 WIP or simply reduce attack Damage by 3. Check the current Fireteam/TinBot and device-enabled rules for applicability.  
 This dramatically shifts the odds in Face-to-Face Rolls for Carbonite or Oblivion and is the main defensive counter to enemy Hackers. Tinbots creating permanent Firewalls make HI links much harder to subdue.
 
 ### Hackers & Reset
@@ -46,7 +46,7 @@ Programs divide into:
 
 - **Against Hackable only:** Carbonite (IMM-B), Oblivion (Isolated), Total Control (TAG possession), Trinity (vs Hackers).  
 - **Against anything:** Spotlight.  
-Spotlight therefore becomes a universal control tool, not limited to HI/REM/TAG.
+Spotlight is a broad **potential** control tool, not limited to HI/REM/TAG. **N5.3:** Spotlight is an **AP PS5 attack with a Saving Roll**, not an automatic Targeted application.
 
 ### Hackers & Targeted State
 Spotlight’s Targeted State synergizes strongly with Guided Missile attacks, speculative fire, and general BS attacks.  

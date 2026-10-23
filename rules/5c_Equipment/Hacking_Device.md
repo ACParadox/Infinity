@@ -86,7 +86,7 @@ This passive pressure is one of the strongest features of the Hacker profile.
 ### 4. Hacker vs. Hackable and Non-Hackable units
 - **Carbonite**, **Oblivion**, **Total Control**: only vs. Hackable units (HI/REM/TAG/VH).  
 - **Spotlight**: universal—affects ANY Trooper in Model form.  
-Thus Spotlight gives the Hacker relevance in every matchup and every mission.
+Thus Spotlight can be useful against many opponents and missions, **provided the AP PS5 Saving Roll fails**; N5.3 Spotlight does not automatically inflict Targeted. The current Firewall imposes its WIP penalty on the attacker and gives the defender +3 Comms Saves, not generic -3 damage.
 
 ### 5. Targeted State synergy
 Spotlight → Guided Missiles remains a good tactical interactions in the system.  

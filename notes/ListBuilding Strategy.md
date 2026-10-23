@@ -4,6 +4,11 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [Hackers and Killer Hackers — N5.3 apex/value tier lists and matchup guide](list-building/hackers-and-killer-hackers.md)
+  - Separate apex cyber combat potential from points/SWC and network efficiency for HD, HD+, KHD, mixed programs and EVO
+  - When to field each profile, Firewall/TinBot and cyberplug caveats, repeater and Guided/White Noise architecture
+  - Full YouTube/podcast MCP transcript comparisons, explicit disagreements and every current sectorial cross-reference
+
 - [Vehicles (VH) — N5.3 aerial apex and value tiers](list-building/vehicles-vh.md)
   - Eight current VH chassis: profiles, sectorial eligibility, peak potential vs point/SWC efficiency
   - Best matchups, landing/exit plans, No Cover/hacking/recovery risks, operator/peripheral distinctions
