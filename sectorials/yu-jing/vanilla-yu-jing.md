@@ -508,3 +508,16 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 - Warcor — 3pt Irregular Flash Pulse distraction, not a transferable Regular Order.
 
 **Order audit:** add up only deployed eligible **Regular** Orders in each Combat Group; special LT/Tactical, Irregular and Peripheral activations are not transferable pool Orders. Buy the cheapest protected body that supplies the *second function the list truly needs*; consider large-base DZ crowding, expensive mandatory Fireteam slots, and whether another scoring specialist beats one more cheap Order.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive traps, opposed podcast views](../../notes/list-building/aro-units-apex-and-value.md). **Only the legal roster above** establishes options, exact costs/AVA, upgrades and Fireteam permissions in this army.
+
+- **Hùsòng TR** — 18pt/0SWC Thunderbolt (+1B) all-arc guard (where profile legal); ideally recoverable, not a sole ARO plan
+- **Son-Bae FTO ML** — launcher for a *source-chart-authorized* team, not the same as 16pt Guided missile profile
+- **Kuang Shi Chain Rifle** — 6pt regular/Impetuous order plus disposable close guard, must include Monitor/Fireteam obligations
+- **Chaīyì 7pt Flash/Repeater** — cheap Regular anti-approach tax and network, not premium long-lane gun
+- **Ninja hidden/camo** — anti-impersonation or corridor trap if positioned near scoring; may be more valuable unrevealed for own active turn
+
+**List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.

@@ -954,3 +954,14 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 - 3pt Warcor — very useful Irregular Flash ARO/cheap screen, NOT an ordinary transferable Order.
 
 **Selection rule:** Count deployed, transferable Regular Orders per Combat Group, not total models or restricted bonus Orders; choose the lowest-cost protected Regular profile that *also* contributes a relevant Repeater, Baggage, Fireteam, template, ARO or Specialist job. Check Group slots and DZ hiding space before buying a third large-base REM or replacing a needed scoring piece.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive traps, opposed podcast views](../../notes/list-building/aro-units-apex-and-value.md). **Only the legal roster above** establishes options, exact costs/AVA, upgrades and Fireteam permissions in this army.
+
+- **Authorized Bounty Hunter cheap body** — small-base template/Panzerfaust or close ARO if profile equipped, useful only in legal team/roster
+- **Cateran camo T2/AP sniper** — 21pt Irregular long-range trade up, valuable despite not making generic pool Orders
+- **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
+
+**List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.

@@ -752,3 +752,15 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 - 8pt Salyut — Baggage/Repeater Regular support; useful reload infrastructure.
 
 **Decision:** first buy enough protected *transferable* Regular Orders for the actual Combat Group attacker/scoring plan, then pay for genuine role compression. Irregular/Impetuous, LT, Tactical Awareness and Peripheral bodies are different resources. Account for a packed S3/S4 deployment zone and mandatory Fireteam members.
+
+
+## ARO apex/value cross-reference (2026-10-23)
+
+See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive traps, opposed podcast views](../../notes/list-building/aro-units-apex-and-value.md). **Only the legal roster above** establishes options, exact costs/AVA, upgrades and Fireteam permissions in this army.
+
+- **Reaktion 19pt Thunderbolt TR** — cheap Regular defence and later recovery, but single STR can be defeated by a strong shooter
+- **Knauf sniper** — long-range anti-armor/visor opportunity without consuming a full Fireteam; protect against better active dice and flanks
+- **Cateran camo T2/AP sniper** — 21pt Irregular long-range trade up, valuable despite not making generic pool Orders
+- **Warcor 3pt Flash** — token defensive tax/late game stun, Irregular so not a generic Order
+
+**List test:** a strong ARO consumes enemy Orders by forcing Smoke, rerouting, poor range, discoveries or risky trades. A robust list normally prefers *serial, different* defenders—a cheap visible or marker/template screen, a covered second gate, and a preserved attack/scoring unit—rather than two adjacent visible snipers. Plan for opponent pie-slicing, AD, anti-camo, hacking and recovery; evaluate whether extra SWC is better spent on mission attackers.
