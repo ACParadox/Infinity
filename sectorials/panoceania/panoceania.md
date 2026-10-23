@@ -696,6 +696,8 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Army source. Any `FTO` text above is part of a profile/loadout name only and does not grant Fireteam access in generic PanOceania.
 ## Transcript-backed competitive tactics (research: 2026-10-19)
 
+The expanded [Vanilla PanO N5.3 tactical and list-building guide](../../notes/factions/vanilla-pano.md) covers Joan / Magistrate command, TAG/Swiss/REM choices, specialists, alternative attack paths and competing opinions. **Critical legal distinction:** the pinned generic faction has **no standard Fireteam chart**; older Duo/Haris recommendations are treated as unlinked unit synergies.
+
 **Authority / important correction.** The roster and costs above are the **September 2026 N5.3 Army snapshot**, not the 2025 opinions below. This generic faction's pinned Army data has **no standard Fireteam chart**. Consequently the much-discussed **Joan + Blade Haris, Tikbalang + Karhu Duo, Bolt Haris, Patsy + Helot Haris, double Bulleteer Duo, and double Squalos Duo** in early N5 videos/podcasts are **historical suggestions, not validated current vanilla Fireteams**. Reuse the *roles and order-economy reasoning*, not those formations or their claimed special dice. Never infer links from FTO-labelled profiles.
 
 ### Fast list-building read
