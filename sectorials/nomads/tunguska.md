@@ -761,7 +761,7 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Kriza HMG45/1.5 (LT same 45)** is the high-Burst/HMG direct gun with BS Attack(-3) and +1B; its protected *non-LT* variant generally suits aggressive repeated trading better unless CoC is planned. **Szalamandra HRMC68/2** adds much higher ARM/range/AP for a visible 3STR centerpiece, **NCO** profitable only when the special LT Order is available. **Grenzer Red Fury28/1** / **MSR32/1.5 Marksmanship** solve respectively mobile close fighting and visible long ARO; neither is a cheap Kriza HMG replacement against high-ARM TAGs. [Cross-game gunfighter and LT/CoC decision guide](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Kriza HMG45/1.5** gives premium **non-TAG** +1 Burst, BS Attack(-3) and ARM5/2W for repeated FtF; its Hackable S5 body needs safe movement. **Szalamandra HRMC68/2** is the heavy **TAG** AP Burst/ARM8/3W answer when raw firepower and multi-hit resilience justify extra points/SWC. **Grenzer Red Fury28/1** contributes cheaper midrange MSV1 gun; **Grenzer MULTI Sniper32/1.5 Marksmanship** is more of a long reactive/anti-Cover tool and not a Kriza-equivalent active HMG. [Separate non-TAG and TAG apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warbands and inexpensive trading roles — N5.3
 
