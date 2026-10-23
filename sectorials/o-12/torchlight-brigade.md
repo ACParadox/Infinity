@@ -740,6 +740,12 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Cross-faction apex and points-value guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). Use **this roster and Fireteam chart** for exact availability.
 
+## N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
+
+**Jamie Rover Parachutist/Decoy 53/0** is a premium surprise edge assault/mission threat where this roster permits it; **ordinary Parachutist cannot enter enemy DZ**, and 53pt deserves multiple critical targets or late score. **Nightshade Hidden FD+20** is safer than a rolled Combat Jump into defended roofs but may cost time reaching enemy DZ. **Strider Camo FD+20 NCO** can breach after Raveneye LT(+1) supplies personal NCO Orders. **Raveneye CoC18 vs LT17** are separate defensive command profiles, **not a combat-jumping CoC**.
+
+[Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Wrecker** is unusually high **value**: **51-point HRL+1B** punishes bunching and hard targets, while Spitfire/HMG versions switch to more conventional direct attacks. TacAware helps fund aggression without reducing your specialists. It is not an HRMC/Zeta replacement—use TLB's other threats to open the lane and a Wrecker to exploit and hold it. In the 2025 TAG transcript, hosts highlight the lethality of the HRL's attack modes.
