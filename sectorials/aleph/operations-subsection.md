@@ -810,6 +810,10 @@ The Army source links OSS to Reinforcement army **799**. Reinforcement units, pr
 
 [Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Posthuman Proxy Mk.4 HMG30/1.5** is exceptional BS14/ARM5/2W gun **only inside a legal 2–3 Proxy G:Jumper package**, often with **Mk.1 Engineer13** and one mission Proxy; it is **not** an independent extra pooled Order. **Asura AP Spitfire61/1.5 vs HD+ MMR63/0.5** trades armor-killing gun versus lower-SWC hacking/white-noise mission utility. **Marut 86/1.5** attacks long-range Mimetism/Smoke AROs but can crowd scoring. **LoL #175 OSS tournament speakers disagree** whether Asura revisions raised its floor or lowered its ceiling; they both rate Mk.4 gun very efficient in package. [Apex/value, order costs and transcript details](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Marut** is the premier MSV2 big gun, with an optional Strategos LT price/risk tradeoff. **Maximus TAG** is a tougher close-range/CC answer but gives up Marut's visor/long-range efficiency. Both fill high-priced required-choice slots in their permitted MAX-OP team; check canonical members and do not infer extra legal links from name alone. OSS's REM/specialist support can justify either without replacing the objective plan.
