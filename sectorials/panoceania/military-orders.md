@@ -954,6 +954,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 **Active-turn gunfighter choice (N5.3):** **Knight of Justice Spitfire42/1.5** is a BS14/ARM5/2W direct gun with strong CC follow-up; **FO MMR41/0 (also LT)** saves SWC when scoring and not a maximum-range assault is the priority. **Seraph AP Spitfire72/1.5** solves armor and uses **TacAware/NCO**, while **MULTI HMG74/1.5** solves longer ranges. **CoC Joan** is meaningful succession but expensive if used solely as insurance; keep it off the lead attack line until needed. In strong hacker grids, extra Knight/Seraph armor does not replace network defense. [Gunfighter apex/value and attack LT/CoC options](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+Military Orders has **few true 5–10pt Smoke/Chain warbands**. **Motorized Montesa BSG21/0 or Paramedic23/0** is a fast **20-15, 2W, MA2, Impetuous, Mimetism(-3)** aggressive *durable specialist/trade*, but too valuable for a one-for-one 5pt warband exchange. **Foot Montesa Paramedic FD+20 26/0** or **FTO20/0 Blitzen** plays infiltration-like position/scoring and anti-HI E/M threat, yet are **different options**; not a cheap Chain Rifle substitute. Plan actual safe approach with Banshee/Crux/other legal Brethren models, not an invented Galwegian. Commander/CoC risk belongs to selected LT option.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Tikbalang of Montesa** is the more self-protecting mobile attacker (Mimetism, Climbing Plus, HFT; NCO for unused LT Orders), while **Seraph** brings AP Spitfire or MULTI HMG plus Pulzar, EXP CCW and Super-Jump to force closer angles. **Disagreement:** Tik is generally safer against opposing shooters; Seraph's AP and stronger close tools matter when armored targets/vertical approaches dominate. MO's tight order/support budget can make either expensive without a second scoring route.
