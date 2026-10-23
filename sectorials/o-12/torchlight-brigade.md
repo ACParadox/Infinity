@@ -793,3 +793,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 - **Total Reaction support** — use recoverable remote for routine lanes, rather than expose primary active gun
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Lambda Engineer16 + Yudbot3** is the cost-effective **Wrecker/REM** hub. **Kludger23 Engineer** can follow the fast midfield **Firebat/Silverstar** attack path with Mimetism and jumping, useful when a static Yudbot is too far back. **Vidocq FTO Doctor19** moves with a legal Fireteam for VITA recovery. **Firebat's Tech-Recovery** enables ranged GizmoKit removal of multiple eligible states; **ordinary Engineer already clears all eligible states in one successful contact WIP roll**, so there is no extra magic in Tech-Recovery for contact. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
