@@ -635,3 +635,8 @@ Legal pool: **Domaru, Karakuri, Rui Shi, Daiyōkai, Yuriko FTO, Neko, Shurayuki*
 - Hacking architecture: Kyoshō, Ninja/Kurayami/Nokizaru, Keisotsu, Repeaters, Robio, deployables.
 - Mission-by-mission pairing guidance for a two-list event.
 - Additional current tournament lists beyond the Krug winner to distinguish repeatable patterns from one player's preferences.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Cross-roster toolkit:** **Shikami 42/0 Eclipse** scores through visored lanes; **Garon 16/0 Smoke GL**, **Yojimbo/Kuroshi** normal Smoke and **Rui Shi MSV2** enable offensive shooting; **Tankō 19/0 Disco** can put down precise Eclipse but **Vanilla has no Fireteam** (don't borrow Ōban linked-throw bonuses).
+- **When better:** Tankō if a cheap one-off crossing is the bottleneck; Shikami if the unit itself must score vertically; Garon/Yojimbo if Smoke + Rui Shi has multiple favorable attacks. [Cross-faction guide](../list-building/vision-control-units-apex-and-value.md).
