@@ -775,6 +775,10 @@ See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../note
 
 [Full N5.3 apex/value and delivery-probability tier guide](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice:** **Sukeul HMG33/1.5** has BS13/Mimetism−3, active **2W Symbiont** and flexible Triad movement; **Sukeul K1 Combi FO29/0 (LT alternative29/0)** instead counters armor and finishes missions at shorter bands. **Gao-Rael MSV2 Spitfire30/1.5** is the direct answer to Mimetism/smoke in legal Triads, but BS12/Spitfire loses raw range versus Sukeul HMG. **Gorgos AP HMG63/1.5** brings TacAware and greater armor/STR at the cost of large Hackable investment. **Kaeltar CoC21/0.5** can protect a fighting Sukeul LT and confer SymbioMate utility but has poor direct shooting itself. [Whole-game gunfighter and commander-tier analysis](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
