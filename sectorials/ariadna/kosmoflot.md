@@ -1132,6 +1132,12 @@ The [expanded Kosmoflot tactical/list-building guide](../../notes/factions/kosmo
 9. Main and Reinforcement charts are not merged.
 10. No unresolved source ambiguity remains that would require `status: partial` under `REFERENCE_DESIGN.md`.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Wallace LT 38/0** makes genuinely Irregular **Irmandinhos** and other eligible models Regular while adding a free special Coordinated Order; **Varangians and Denma are already Regular**, so are not extra conversions. **Wallace CoC 38/0** offers durable smoke/CC succession as a non-LT choice; **Zenit-7 CoC 30/0.5** is a different role. **Kosmosoldat LT(+1) 48/1** may spend its own Orders but pinned **Scots Guard FTO does NOT have NCO**. Count actual available pooled Orders rather than a fictional LT→Scots Guard engine.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Chernobog** adds AP HMG/HRL or HFT reach to Kosmoflot and has a local Duo option. Prefer the **63-point HFT** when saving for scoring troops and personal defence; **70-point HRL+1B** to contest hard/clustered lanes. Compare the entire legal FT-04 Duo against buying a different second gun/specialist, and keep screens against E/M/close attacks.
