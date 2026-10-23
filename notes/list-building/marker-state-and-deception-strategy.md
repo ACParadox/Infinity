@@ -1130,3 +1130,8 @@ When applying a specific trick, verify the current wording for:
 The strategic framework remains:
 
 > **Do not treat concealment as a one-use combat bonus. Treat it as a resource that controls information, Orders, positioning, and decision quality.**
+
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

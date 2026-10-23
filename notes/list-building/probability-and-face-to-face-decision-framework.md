@@ -888,3 +888,8 @@ Keep these rules in mind at the table:
 > **Do not optimize the chance to win the die roll. Optimize the chance that this Order produces the game-state change you need, at an acceptable risk and Order cost.**
 
 That is the probability framework that should sit underneath attack selection, ARO choice, weapon selection, trading, Coordinated Orders, State warfare, defensive architecture, and turn planning.
+
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

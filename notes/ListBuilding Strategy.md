@@ -4,6 +4,10 @@ The list-building strategy notes are split by related subject so individual topi
 
 ## Strategy files
 
+- [ARO units — N5.3 apex and points-value tier lists, hidden ambush and reactive defence](list-building/aro-units-apex-and-value.md)
+  - Premium hidden missile, visible durable, Neurocinetics/TR, cheap Panzerfaust/Flash, close template/mine/hacking denial
+  - Table/mission context, order-denial efficiency, preserved opposing podcast opinions, reviewed video transcripts and sectorial notes
+
 - [Cheerleaders and Order Generators — N5.3 apex/value tiers and contextual list-building guide](list-building/cheerleaders-and-order-generators.md)
   - Pure Order-density vs utility vs mission-value rankings; Irregular/Tactical/LT/peripheral distinctions, Fireteam/command engines, and costed examples
   - Direct YouTube/Podcast MCP transcript disagreements, 2026 sectorial cross-references and practical 30-second Order audit

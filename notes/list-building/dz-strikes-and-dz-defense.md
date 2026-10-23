@@ -476,3 +476,8 @@ A good defensive result may be:
 A bad defensive result is:
 
 > attacker lands safely and chains through Order generator → Hacker → Engineer → Lieutenant → REM because every model was facing forward and clustered together.
+
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

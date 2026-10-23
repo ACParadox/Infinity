@@ -711,3 +711,8 @@ Before placing a deployable, ask:
 12. **Build defensive depth so one sacrificial model cannot clear the network.**
 13. **Measure deployables in enemy Orders consumed and routes denied, not just models killed.**
 14. **A deployable that never detonates can still be one of the most valuable pieces on the table.**
+
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](list-building/aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

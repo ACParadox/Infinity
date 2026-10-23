@@ -281,3 +281,8 @@ The overall pattern is:
 ## Cross-game cheerleader and Order-generator rankings (N5.3)
 
 See [Cheerleaders and Order Generators](cheerleaders-and-order-generators.md) for an apex/value comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.
+
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

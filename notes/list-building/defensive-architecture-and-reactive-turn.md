@@ -1304,3 +1304,7 @@ The practical principles are:
 The goal is not to construct an impenetrable wall. Infinity's Active Turn is too powerful for that to be a reliable plan.
 
 The goal is to create a table where every additional step into your position costs something, and where the opponent eventually reaches the point at which continuing the attack is no longer worth the Orders required.
+
+## Cross-game N5.3 ARO tier and deployment study
+
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.
