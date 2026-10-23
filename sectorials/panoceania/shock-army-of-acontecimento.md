@@ -612,3 +612,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Recovery:** **Machinist/Palbot** supports **Tikbalang/REM** and can restore either Unconscious level of Remote Presence on one successful WIP roll; **Trauma-Doc/Palbot** is the alternative for VITA infantry/ARO pieces. If an Acontecimento team already includes a Paramedic, compare target PH and safe contact rather than automatically paying for a second dedicated Doctor. [Doctor/Engineer apex, points-value, recovery odds and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**13/0 Regular Sensor + Shock Mine Minelayer** is a cheap, 0-SWC **DZ** tripwire protecting against AD/Impersonation while supplying a Regular Order. **Naga 26/.5 Monofilament Minelayer** (or 25/.5 Shock) starts as a true midfield Camo/Infiltrator; **Peacemaker 24/.5 Auxbot-3B Minelayer** places FD mine/Repeater and close template at deployment. **Counterpoint:** the Regular is not a midfield skirmisher and a second mine may be redundant beside a Sapper sniper; Naga specialist versions are separate, and 27/0 active Peacemaker trades prepaid defense for attack.
+
+[Cross-game apex/value, matchups, and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
