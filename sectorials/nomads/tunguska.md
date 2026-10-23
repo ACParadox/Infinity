@@ -822,3 +822,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zondbot3** gives reliable repairs at modest cost, with **Remote Presence one-roll revive from either Unconscious level** and optional token reroll. **Daktari14** is enough for VITA wounds where rostered. When a specialist team can score and fight, evaluate its other tasks before buying another Engineer purely because it has a higher price tag. [Doctor/Engineer apex/value, odds and media disagreement](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Tunguska** generally **counters** a superior melee piece with **hacking, mines, Repeaters, templates and gunfire** rather than paying for a premium raw CC duelist. **Hollow Men/Kriza** have expensive shooting jobs; do not march them into MA4/Monofilament just to clear one cheap warband. If a roster-legal cheap warband/Perimeter screen can tie up the assassin, preserve it for that defensive role; Guard requires LoF+ZoC and is not the same as a visible Repeater network. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
