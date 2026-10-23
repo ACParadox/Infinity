@@ -784,7 +784,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Hatamoto Plasma Carbine34/0** (Red Fury40/1, Spitfire41/1.5) uses **NCO, X-Visor, Mimetism−3, Nanoscreen** plus strong melee/specialist role; the **34pt 0-SWC** version is often better *whole-list value* than stretching for another heavy-gun profile when objectives/command need funded. **LT(+1) Hatamoto36–39 with +1 SWC** can fund its own attack but **LT and non-LT loadouts are distinct**; use NCO to exploit legal Special Orders without sacrificing an aggressive commander. Do not rate the plasma short-range gun as a 32in HMG; it should win by mobility, positioning and mission value. [Gunfighter apex/value and combat LT/CoC](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Hatamoto Plasma Carbine34/0** is the **non-TAG** Mimetism(-3)/Nanoscreen, Specialist Operative + strong CC **short-range** attack with 0 SWC cost; **Red Fury40/1** buys more open midfield Burst, **Spitfire41/1.5** a stronger sustained near-mid lane. Don't rate the 34pt Plasma Carbine as a long HMG: its value is angle/movement, survivability and mission actions. **O-Yoroi** is an entirely separate TAG long-range investment wherever rostered, not the same category of active gun. [Non-TAG and TAG value analysis](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## Warband cheap trading / order economy — N5.3
 
