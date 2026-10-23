@@ -701,6 +701,12 @@ When a newer Army source revision or InfinityDB normalization supersedes the pro
 
 See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
+## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Pathfinder FO/Sensor/Repeater14 or TacAware17** is excellent cheap objective/repeater work and a roster-legal Wildcard in limited contexts. **BCA Magistrate base Specialist Operative17 / Strategos LT19 / CoC21** give alternative commander-and-scorer roles, **Bipandra Doctor23/TA25** gives recovery and extra personal movement. None of their extra personal/Tactical Orders becomes an unrestricted pool Order; a Palbot does not press buttons independently.
+
+[Cross-game specialist and button-pusher tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../../notes/factions/kestrel.md).
