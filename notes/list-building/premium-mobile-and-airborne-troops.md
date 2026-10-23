@@ -1,5 +1,10 @@
 # List-Building Strategy — Premium, Mobile, and Airborne Troops
 
+## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
+
+For **specific N5.3 attacker profiles**, [Airborne and Enemy-DZ Attackers — Apex versus Value](airborne-and-enemy-dz-attackers-apex-value.md) compares **Combat Jump landing risk, Parachutist/DZ guaranteed geometry, hidden/infiltrating attacks, high-MOV breakthrough** and **enemy capability/Order trade**. Example: Rasyat25/0 has guaranteed enemy-DZ *edge* access but not guaranteed ARO survival, while Caskuda64/1 attempts a PH14 drop (**70%** unmodified, **85%** with Controlled Jump +3); failed N5.3 Combat Jump falls back to **own DZ table edge**, not scatter.
+
+
 ## High-cost and apex troopers
 
 Expensive troopers should justify their cost through **reliability, Order efficiency, or both**. A high-cost profile should normally bring several of the following:
