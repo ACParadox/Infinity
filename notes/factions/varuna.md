@@ -887,3 +887,8 @@ Official update discussion / indexed references establish that current Varuna:
 - revised Montesa and several other returning profiles.
 
 Use current Army / official Fireteam charts as the authority for exact legality; older N3/N4 Varuna tacticas are useful only for enduring concepts such as Helot friction, layered information and counterattack sequencing.
+
+## Vision control — role/value update (23 October 2026)
+
+- **Quinn FO + Disco 26/0** is Varuna's precision Eclipse option, especially when Smoke/MSV/strong Mimetism makes Kamau/ORC FtF odds poor. It does **not** provide Chain of Command. Use a protected Wildcard/score route after the cloud, not a decorative Disco throw.
+- **Opposing evaluations:** Dante treats Quinn/vision control as a solution to hard AROs; older gun-first evaluations prioritize another Kamau or a TAG. Buy Quinn only when a real scoring/attack route needs him. See [global comparison](../list-building/vision-control-units-apex-and-value.md).
