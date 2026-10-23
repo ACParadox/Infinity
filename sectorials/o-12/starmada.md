@@ -933,3 +933,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 - **Total Reaction support** — use recoverable remote for routine lanes, rather than expose primary active gun
 
 **Best circumstance:** long exposed lanes justify a real sniper/missile/linked gun; dense tables, DZ landings and mission rooms favor E/M, mine, Shotgun, Riotstopper and hidden traps. Cover the destination/approach, layer serial threats rather than two pie-sliceable visible guns, and preserve scoring units for the active turn.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Parvati36, WIP15, Doctor(2W), Engineer(+3)** is apex mixed VITA+STR salvage: 75% Doctor contact, **90% Engineer** where current Starmada source applies. **Lambda Engineer16 + Yudbot3** is the better 19pt pure **Zeta/REM** repair value if the other job isn't used. **Vidocq FTO Doctor19** buys Fireteam reach when a legal team already moves forward, while a separate Servant Controller cannot simply remain Fireteam-linked. Check score tasks before paying 36pts. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
