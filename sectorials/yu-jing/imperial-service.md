@@ -966,7 +966,7 @@ Mission planning with **Sun Tze Strategos LT** should prioritize where the conve
 
 ## Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn gunfighter choice:** **Hsien HMG49/1.5** gives **BS14/MSV2/2W** for anti-Mimetism and smoke-supported HMG lanes; **Crane AP HMG49/1.5** is the alternative **anti-ARM** long gun with far better CC/X-Visor utility, but no MSV2. **Hsien MULTI MMR47/0** saves SWC for a second gun or linked specialist if the target is mainly midrange. **Sun Tze Strategos LT** makes a stronger *army-order engine* than a combat Hsien/Crane LT in many builds; don't conflate Hsien separate LT(+1) MMR options with its normal HMG. [Gunfighter apex/value and LT/CoC matrix](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+**Active-turn shooting choices:** **Hsien HMG49/1.5** gives BS14/MSV2/2W against enemy Mimetism and smoke firing lanes; **Crane AP HMG49/1.5** instead brings harder armor conversion and better close combat/X-Visor for a different target mix. **Hsien MULTI MMR47/0** saves SWC where most relevant enemy shooting is at midrange. A cheap enough linked specialist can make either gun more Order-efficient by moving and scoring with the firing group, not by inflating printed Burst. [Current non-TAG gunfighter apex/value](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
 ## N5.3 cheap warband, template and CC trade decisions
 
