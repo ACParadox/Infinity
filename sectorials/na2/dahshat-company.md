@@ -943,6 +943,12 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Warband cheap trading / order economy — N5.3
+
+**Kum6/0 Chain+Smoke** (AVA4) and **Desperado-like bike speed** give Dahshat cheap 20-15 Impeutous/Irregular approach; **Kum9 BSG+E/M CC** only if that contact target is worth +3pt. **Libertos SMG+Chain-colt8/0** with FD+20, 1-use Camo/Dogged is a different safer pre-staged template; 9pt Mimetism and **Minelayer+LSG at 1 SWC** are other options. **Motorized Bounty Hunter8–9** carries Riotstopper/Chain-colt but no Smoke. **McMurrough23/0** a durable solo Smoke/CC/Dogged attacker; do not overbuy all Irregular bodies at expense of Ghulam Regular Order pool.
+
+[Current cross-faction warband apex/value, opponent counters, Lt/CoC packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). This faction's own pinned profile and Fireteam rows control legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba Guard** buys a conventional heavy ARM8 ranged centerpiece but needs S8 lanes, screening and Engineer access; **Triphammer** is a cheaper, aggressive secondary weapon choice with TacAware and the required-assault partner opportunities. When Dahshat already has efficient HI and support guns, the cheaper TAG may give better scenario value than a second long-range elite.
