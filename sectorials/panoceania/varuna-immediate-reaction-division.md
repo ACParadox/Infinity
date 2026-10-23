@@ -619,6 +619,12 @@ Dante finished **5th of roughly 21–22** players and especially praised layered
 
 **Historical context only:** [Infinity Global League E144 — Varuna (February 2024)](https://open.spotify.com/episode/2hwVv91Hdba2LxjKVt7ZS3); transcript checked for contrasting views, but N4 roster and Fireteam values are **not** valid current facts.
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Varuna has no Chain of Command profile in its pinned N5.3 roster**; **Richard Quinn is Forward Observer/Disco Baller, NOT CoC**. An aggressive Zulu/ORC/Uma/Cutter LT therefore risks an actual Loss-of-Lieutenant turn: prioritize **safe commander placement, late activation, varied approach, and enough independent specialists/Regular Orders** rather than building around nonexistent Quinn succession. Generic LT/NCO/TacAware package advice applies only where actual Varuna profiles support it.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** uses Camo/Hidden Deployment/Mimetism to avoid fair ARO engagements and make opponents cover multiple lanes, but its ~95-point cost reduces the independent attack/scoring budget. **Squalos Mk-II** is the alternative value gun with TacAware and Cavalry access; choose NCO MULTI versus armored targets or GL for indirect solutions. Do not assume the Cutter itself has the Squalos' Fireteam option.
