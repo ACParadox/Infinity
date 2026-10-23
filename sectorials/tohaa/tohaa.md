@@ -757,6 +757,12 @@ This section is analytical and non-authoritative; source profile data and Firete
 - Rules baseline: N5.3 + N5 FAQ v0.1
 - Generated / verified: 2026-10-15
 
+## Command-unit apex/value cross-reference (2026-10-23)
+
+**Kaeltar CoC 21/0.5 with one SymbioMate or 28/0.5 with two** has outstanding marginal command value because it buys *both* protected succession and meaningful protection of key fighters. **Taqeul LT(+1) 35/0** provides two personal LT Orders/mission control; **Neema LT(+1) 36/+1 SWC** unlocks SWC-heavy attack options. Choose **Taqeul36/0 CoC** only when its Pheroware/weapon role justifies extra cost over Kaeltar. Do not treat the two SymbioMates as free on a cheaper loadout.
+
+See [cross-game Lieutenant, Chain of Command and Order-package tiers](../../notes/list-building/command-units-apex-and-value.md). **Use this roster/Fireteam chart above for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gorgos (63)** has AP HMG, Flammenspeer, Pulzar and multiple wounds/states; for **67–70** the added Chaksa peripheral buys close-range/utility screening, not simply more TAG gun Burst. It is often the most efficient way for Tohaa to add an armored attack axis if existing Eclipse/K1/mission tools can clear approach threats. The 2025 podcast hosts disagreed partly because of limited personal experience versus actual frequent Gorgos use.
