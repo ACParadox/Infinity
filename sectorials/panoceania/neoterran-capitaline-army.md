@@ -745,3 +745,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Auxilia + synchronized Auxbot 15/0** (or **FO+Auxbot 15/0** alternate option) is the reusable *close-corner* answer to a Hellcat/Fiday racing at cheerleaders: two bodies threaten an overlapping advance while the controller still supplies one Regular Order and, on FO option, a specialist. **Warcor 360º 3/0** is a separate rear-facing Flash tax; **Sierra 18/0 360º/TR** covers the outer/vertical angle. **Counterpoint (WIP12 #201):** proactive **Peacemaker 27/0 +1B/Auxbot** can outperform a 24/.5 Minelayer when its active assault is valuable. Do not count an Auxbot as a second independently generated Regular Order, or a merely carried mine as turn-zero Minelayer.
 
 [Whole-game DZ-defender apex/value tiers and media disagreements](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**NCA has no rostered Oniwaban/Fiday-style dedicated CC assassin.** **Aquila Guard52/1.5** is a BS15/MSV3 gunfighter with **CC15**, not a sword specialist; **Blade-Ops20** (CC16) and Bolts (CC16) solve corners with shotguns/mines rather than serious melee. **Counter-CC:** screen valuable Aquila/Swiss/REM with cheap bodies, mines and layered AROs; kill incoming markers at range or by Discover/Sensor rather than rolling against MA4/Monofilament at base contact. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
