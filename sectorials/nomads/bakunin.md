@@ -772,6 +772,12 @@ See [cross-game Lieutenant, CoC and Order-economy tiers](../../notes/list-buildi
 
 [Cross-game apex and value specialist tier guide](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Initiated Observant ordinary Parachutist BSG19/0 or KHD22/0** is an economical side-entry gun/hacker threat; the **18pt Camo(1 use) Infiltration** versions are separate loadouts for predictable midfield positioning. **Meteor Zond19–21/0** has Combat Jump+FO/Sensor/Repeater, but best value is an enabled hacking network, not its own weak gun. **Prowler Hidden/Infiltration** creates a protected delayed attacker at higher cost. Do not import **Corregidor Hellcats or Bearcats** without Bakunin roster access. Enemy DZ direct edge arrival requires explicit DZ variation.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
