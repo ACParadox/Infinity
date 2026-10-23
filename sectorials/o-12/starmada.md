@@ -937,3 +937,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Parvati36, WIP15, Doctor(2W), Engineer(+3)** is apex mixed VITA+STR salvage: 75% Doctor contact, **90% Engineer** where current Starmada source applies. **Lambda Engineer16 + Yudbot3** is the better 19pt pure **Zeta/REM** repair value if the other job isn't used. **Vidocq FTO Doctor19** buys Fireteam reach when a legal team already moves forward, while a separate Servant Controller cannot simply remain Fireteam-linked. Check score tasks before paying 36pts. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## N5.3 DZ defense / anti-alpha-strike tactical choices
+
+**Bluecoat 13/0 Biometric/Heavy Riotstopper/Adhesive** remains an excellent anti-Impersonation cheap Regular guard, with **AVA4 in Starmada** versus **AVA2 in vanilla O-12**. **Raveneye 12/0 FO+Deactivator+Minelayer** supplies E/M or Cybermine turn-zero tripwire; **Sekudroid 18–19/0** provides 360º, STR2, Mimetism(-3), Flash(+1B) and Adhesive/Akrylat for rear/roof arrivals. **Raptor 32/0 + 360º Devabot HFT** is a protected counterattack package, not a disposable sentry. **Disagreement (TA Starmada):** distributed Bluecoat placements can be excellent against attackers but consume points if no likely breach square; prioritize one useful entry funnel and preserve mission pressure.
+
+[DZ Defenders — whole-game apex/value, matchups, and MCP transcript debate](../../notes/list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md). Tactical commentary; the pinned profile/Fireteam tables above are authoritative.
