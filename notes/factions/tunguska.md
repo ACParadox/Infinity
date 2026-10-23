@@ -128,3 +128,8 @@
 - [ ] **Removed/different-faction profiles:** no current **Lunokhod**, no Gator/Gecko/Iguana/Lizard/Stigmata TAG in normal Tunguska. **Go-Pod is selectable as VH**, Zondnautica isn't the VH category. Use current pinned roster when older episodes disagree.
 
 **Suggested pairing — concepts only, not verified Army exports:** **List A: Hollow Men/Puppet/Interventor control** for exclusion zones and hard multipoint mission maps; **List B: Szalamandra or Kriza/VATRA + Meteor/Raoul specialists** for open fire lanes or deep scoring. Choose after the mission, real table geography and opponent hacking density are known.
+
+## Vision control — role/value update (23 October 2026)
+
+- **White Noise from Interventor HD+ 18–23/.5** becomes powerful only with real Repeaters/Pitcher/FastPanda reach. **Kulak KHD + Disco 20/0** delivers Eclipse-like projected screens but **KHD does not give White Noise**; **Perseus normal Smoke** and Zondnautica/Denma are alternate crossing/assault tools.
+- **Pick by enemy:** White Noise selectively removes visored/Marksmanship AROs; Disco blocks ordinary guns too and can deliver a Kriza/Hollow Men scoring package. Beware buying two expensive support engines without an attack recipient. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
