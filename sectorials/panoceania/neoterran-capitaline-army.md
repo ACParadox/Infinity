@@ -688,6 +688,10 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 
 [Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
+## Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn gunfighter choice (N5.3):** **Squalos Mk-II MMR55/1** conserves points/SWC while a legal **Pathfinder TacAware17** can help move/score; **NCO MULTI HMG66/1.5** gains a *useful* extra activation only with unconverted LT Orders. **Uhlan Feuerbach70/1.5** is the Camouflage/Surprise long-lane anti-armor alternative, **Spitfire80/1.5** a different short-range role; neither gets free membership of the Squalos Ultima Ratio team. **WIP12 E201 debate:** dependable visible Squalos/package versus expensive, asymmetric Uhlan threat. A protected Fusilier/Auxilia LT often frees more attack budget than premium LT + CoC. [Cross-game tiers and transcript dissent](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../../notes/factions/nca.md).
