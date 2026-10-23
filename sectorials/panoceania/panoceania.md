@@ -779,6 +779,12 @@ The expanded [Vanilla PanO N5.3 tactical and list-building guide](../../notes/fa
 
 See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
+## N5.3 mission specialists — apex/value decisions (2026-10-23)
+
+**Pathfinder FO/Sensor/Repeater14, TA17** is a premier inexpensive scoring/revealing REM; **Zulu-Cobra FO24 or KHD26** brings Camo/FD+10 for midfield. **Locust SO24** Hidden/FD+20 can steal a button, **Magistrate LT19/CoC21** are two different SO command packages, and **Bipandra Doctor23/TA25** supplies medical recovery. **Vanilla has no ordinary Fireteam chart**, so no automatic Pathfinder link movement.
+
+[Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Cutter** is the highest-ceiling concealed gun, but at 95–97 points without TacAware it needs a second independent scoring plan. **Tikbalang** buys Climbing Plus/Mimetism/mine and self-funded activations; **Squalos Mk-II** buys cheaper BS15 shooting and choice of AP-capable NCO MULTI HMG versus GL. **Maximus TAG** is a costly CC/anti-armor counter rather than the default value attacker. Do not import Jotum/Seraph/Uhlan access from other PanO sectorials.
