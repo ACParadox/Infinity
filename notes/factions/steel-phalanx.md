@@ -1074,3 +1074,8 @@ Sources: [Shepherd N4 focus](https://www.youtube.com/watch?v=764JXbnQ3jQ) (trans
 9. [Tactical Awareness S1 E13 — OSS (2023, N4)](https://open.spotify.com/episode/0JW6ZKUvAUo6ldDO4zr4sS): background on ALEPH's Rebot, Probot and Servant roles; **podcast transcript checked**, but the 2025 OSS discussion above is better for current practical valuation.
 
 **Source hierarchy:** Current N5.3 Army reference overrides all media on points, roster, Smoke/Eclipse and Fireteam legality. Media opinions are retained in both directions where experts disagree; neither pre-N5 availability nor N4 unit costs should be treated as current.
+
+## Vision control — role/value update (23 October 2026)
+
+- **N5.3 correction:** **Myrmidon Officer CoC 30–31/.5** is the premier **Eclipse** carrier alongside command insurance. **Basic 16pt Myrmidons and Machaon carry normal Smoke** in current profiles; do not use old N4 “Machaon/Eudoros Eclipse” advice. Officer/Disco variants must be selected by actual profile.
+- **Decision:** prefer Officer when the hero rush must bypass MSV/Marksmanship and CoC is useful; choose a 16pt ordinary-Smoke Myrmidon when the aim is a budget screen or Marut-style MSV interaction in Vanilla. [Cross-faction tier guide](../list-building/vision-control-units-apex-and-value.md).
