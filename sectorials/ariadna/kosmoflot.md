@@ -1192,3 +1192,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 - **3pt Warcor Flash** — Irregular very-cheap ARO tax, not a transferable pool Order
 
 **Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+## Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Dozer13 WIP13 + Remontnikbot2** creates a cheap Servant-based **Chernobog/REM** repair radius; a single successful Engineer contact roll revives ordinary STR Unconscious per current target-specific rules. **Irmandinho8** contributes forward Smoke, cheap engineer and trade pressure but not guaranteed access to a dying TAG. **112 motorbike19** reaches endangered infantry on flanks; **Kazak Doktor12** is the static budget alternative, each 65% on first WIP13 medical roll. [Doctor/Engineer recovery odds and tier guide](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
