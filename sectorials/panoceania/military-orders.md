@@ -944,6 +944,12 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../notes/list-bui
 
 [Cross-game Mission Specialists / Button Pushers tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). The current faction profile and Fireteam reference above controls legality.
 
+## Airborne / enemy-DZ attack profile choices (2026-10-23)
+
+**Crux Knight hidden FD+20 47/0** is a true high-investment **forward** strike/mission model—2W/ARM5/Albedo, CrazyKoala and DA CC—but **does not Infiltrate into enemy DZ**. **Motorized Montesa21–29** moves 20-15 with 2W/CC tools to attack through a flank once the route is cleared, not an off-table ambush. **Tikbalang of Montesa68** is fast NCO/TacAware TAG that exploits opened long lanes. Avoid treating **Knight Commander/Joan LT** as a DZ infiltration profile; if an aggressive commander is exposed, compare actual legal CoC successor and LoL risk.
+
+[Cross-game N5.3 airborne and DZ-attack apex/value tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Pinned profiles and the canonical Fireteam chart above govern legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Tikbalang of Montesa** is the more self-protecting mobile attacker (Mimetism, Climbing Plus, HFT; NCO for unused LT Orders), while **Seraph** brings AP Spitfire or MULTI HMG plus Pulzar, EXP CCW and Super-Jump to force closer angles. **Disagreement:** Tik is generally safer against opposing shooters; Seraph's AP and stronger close tools matter when armored targets/vertical approaches dominate. MO's tight order/support budget can make either expensive without a second scoring route.
