@@ -1,5 +1,9 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
+## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
+
+**Warband-specific LT/CoC packages:** [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks **Saladin LT39 with eligible Ghazi/Daylami regularization**, **Wallace LT38 versus CoC38**, **Myrmidon Officer LT25–26 versus CoC30–31** and **Machaon/Phoenix** fighter LTs. **Religious Troop Inspiring Leadership exclusion** changes the Order economics. This existing guide remains the broader LT/CoC source.
+
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
 **Mission-specialist cross-check:** [N5.3 Button Pusher Apex/Value tiers](mission-specialists-and-button-pushers-apex-value.md) separately ranks **CoC as an objective role** (Farzan, Caliban, Nexus, Magistrate, Raveneye, Kempeitai, Kaeltar) and **actual specialist LTs** (Magistrate, Hatamoto, Barid FO, Vassily FO, Sukeul FO). **CoC (Non Specialist)** does not qualify for Specialist-only mission tasks merely from CoC; **LT alone** is also not an ordinary button-pusher.
