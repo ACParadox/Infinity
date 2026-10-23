@@ -841,3 +841,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Dasyu Viral Minelayer (2) 30/.5** is an apex anti-infantry Hidden deployment trap; **Naga Monofilament Minelayer 26/.5** threatens elite models crossing a chokepoint. **Kinnara infiltrating 25/.5** adds E/M Mine + Decoy(2) + Sensor; **Yaksha 25/.5** offers MadTraps/ARM4/FD(+20), but competing Naga/Dasyu/Dart or inexpensive support REMs can be more efficient. Hidden Dasyu withholds its Order until revealed. The Yaksha 23/0 Mine Dispenser is **not** its zero-Order Minelayer loadout.
 
 [Whole-game midfield area-denial tier guide and transcript disagreements](../../notes/list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Andromeda30/0** (Infiltration, **Guard+MA3+D-Charges**, NWI) is a rare offensive Guard assassination bubble; **LoF+ZoC** is required and Guard does not create Engaged at range. **Myrmidon Chain Rifle16/0** combines **Mimetism−6 + Smoke + MA3 DA** as cheap Regular approach enabler; **Hippolyta37/0** gives a 2W Super-Jump/Berserk/EXP mobile assault when roster-legal. Compare patient target with **NBW** and do not count CC-based criticals as target-kill chance. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
