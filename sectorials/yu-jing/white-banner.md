@@ -772,6 +772,12 @@ All standard roster units not listed in this reverse index have no Fireteam acce
 
 **Active-turn gunfighter choice:** **Tiger Soldier BSG20/0 or Spitfire29/1.5** brings Mimetism−3 **Combat Jump/Parachutist** and attacks a soft side/back angle without trading fairly through the whole midfield; the 29pt SWC gun earns value only when several enemy support pieces can be hit in its range band. **Jujak Spitfire31/1.5** is a BS13/2W cheaper **team midrange** gun, with HFT as deterrent; **Jujak ML29/1.5** instead emphasizes long ARO. **Léi Gōng FTO CoC34/0** can insure a fighting LT in a legal White Banner Fireteam, but must remain physically apart from the endangered heavy gun. [Gunfighter and command tiers](../../notes/list-building/active-turn-gunfighters-apex-and-value.md).
 
+## N5.3 cheap warband, template and CC trade decisions
+
+**Shaolin Monk Chain Rifle+Smoke5/0 Shock CCW or 6/0 DA CCW** is elite **points value** for PH13/CC23/MA3 and vision control. **5pt does not have DA CC**, 6pt does; both religious/impetuous and **not automatically regularized** by any Inspiring Leadership ability. **Shaolin Fireteam Duo/Haris** has a **required-choice set** involving Shaolin/Liang Kai, not unlimited link access. **Tiger Soldier20 BSG** is separate rear entry, **Guilang/Daofei** skirmishers are premium concealed tools, and long-range attacker must still get a safe smoke route.
+
+[Whole-game cheap-trading apex/value, specific targets and Lt/CoC notes](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Current unit loadouts and canonical Fireteam chart remain authoritative.
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Blue Wolf** supports direct attack/CC deterrence and legal White Banner Fireteams, while **Gūijiă** is the more straightforward sustained heavy gun. Pick Blue Wolf when movement/pressure/close angles matter, Gūijiă for conventional ranged trading. Check the actual Fireteam-required member/profile; neither TAG automatically gains the other's access.
