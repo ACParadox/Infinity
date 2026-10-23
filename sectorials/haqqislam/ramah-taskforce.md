@@ -799,6 +799,12 @@ Validation performed:
 
 See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list-building/mission-specialists-and-button-pushers-apex-value.md). This roster and its Fireteam chart are the final authority for exact options.
 
+## N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
+
+**Nahab Parachutist Specialist Operative31/0, KHD35/0, Red Fury38/1** enters a legal side edge without a roll, combines **NWI/Decoy(2)/Viral CC/CC23/Zapper** with scoring or backline attack. **Nahab Infiltration SO32/0, KHD36/0, Red Fury39/1** are separate pre-positioned choices; no Nahab profile grants both delivery types or Combat Jump. **Hakim WIP15 Doctor(+3) Parachutist** can arrive to rescue the forward group/score a Classified, but cannot enter from the enemy-DZ edge using ordinary Parachutist. **Tuareg Hidden/Infiltration** is a delayed midfield alternative. Don't expose the last scoring specialist chasing one cheap Order.
+
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../notes/list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Maghariba** is the strong S8 long-gun/board-control chassis: pick it on accessible open tables where BS14/ARM8 can demand multiple enemy solutions. **Shakush** is the leaner HMG Continuous Damage/AP Spitfire source when the Maghariba's huge footprint or extra points would cost Ramah its scoring/recovery engine. Check the Armored Assault Fireteam requirement and total partner cost.
