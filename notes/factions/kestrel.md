@@ -221,3 +221,8 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 
 - Canonical Kestrel: [sectorials/panoceania/kestrel-colonial-force.md](../../sectorials/panoceania/kestrel-colonial-force.md).
 - [Fireteam construction](../list-building/fireteams-and-profile-evaluation.md), [Lieutenant and command](../list-building/lieutenant-and-command-structure.md), [Hacking/network projection](../list-building/hacking-and-network-projection.md), [Support/recovery](../list-building/peripherals-synchronized-and-multi-body-troops.md), [Opponent-plan identification](../list-building/opponent-plan-identification-and-matchup-planning.md).
+
+## Vision control — role/value update (23 October 2026)
+
+- **Default value:** Fennec **13/0 FO + Sensor + Disco Baller** gives a Regular cheap Eclipse screen *and* mission utility; use it to free the expensive Hetkari/Black A.I.R./TAG/CC route rather than expose a premium attacker. Quinn's **26/0** Disco FO is a pricier alternative with MSV/other link value, not a CoC substitute.
+- **Counterpoint:** if the table offers a safe gunfight or no relevant crossing, a 10pt Fennec and another active Order can be better than investing in Disco setup. Compare to the broader [apex/value guide](../list-building/vision-control-units-apex-and-value.md).
