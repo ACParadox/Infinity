@@ -559,3 +559,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Indirect plan by cost:** **Son-Bae16/1.5 standalone Guided**, **Dokkaebi KHD+Spotlight/Pitcher22/0**, and **Wèibīng FO/Sensor/Repeater14–17/0** can add a remote attack to an already functional network. **Haetae Guided HRL** is a pricier active-gun hybrid where vanilla eligibility and actual profile permit it. **Húláng E/M GL** supplies *non-Guided* close off-angle state pressure; the FTO-2 E/M GL is not automatically legal in an FTO-only Fireteam. [Global tiers](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Best current Yu Jing cross-list carry baseline:** source-legitimate **Shàng Jí FO36/0** TacAware/W2/ARM4/BTS6, **Bìxié FO41/0** NCO/MSV1/Climbing+/Jump, and **Guìláng FO27/0** infiltrated pickup (only while not carrying can exploit Marker). **Mówáng heavy armored TAG-class zone piece** or legal TAG can move 40+ points across quadrant line, but **do not call it a Specialist or export a profile from White Banner/IA without confirming Vanilla roster**. **Cheap Wèibīng sensor/FO and Chaīyì7/0** split scoring support, but STR1 REM is a bad exposed sole box holder. **Opposing 2026 tier-list:** premium durable shooters win gunfights but can lose objective tempo to cheaper Camo/forward Specialists.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
