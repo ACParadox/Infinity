@@ -740,3 +740,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Sartroid Puzzler E/Marat + Adhesive13 or E/Marat+Akrylat12** is cheap **Peripheral(Cyberplug)** anti-TAG control, but generates **no Order of its own**; count legal controller activation. **Unidron14 K1 Combi**, **Blackheart Tekdraken25 Panzerfaust+E/Marat / 29 E/M Carbine**, and **Cube Jäger15 Mono/18 E/Mitter+Mono** cover ranged, state and assassin roles. **Ironside44 AP HMG**, **Skyhound33 AP Thunderbolt** or **Teucer35 Feuerbach** give stronger sustained armor damage for more list resources. [Cross-game anti-armor apex/value, E/M and AP+EXP guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Next Wave** favors **Skyhound33/0** to clear/guard high ground (2W Mimetism(-6), No Cover S7 Aerial) and **Ironsides HI** to occupy dangerous scoring zones, with a **separate actual Specialist**. **Ko Dali Combat Jump37/0 or FD34/0** is eligible Specialist+MSV2+Protheion, strong *late pickup* if arrival and exit safe; FTO/FTO-2 lose distinct deployment tools and are not interchangeable. **Sartroid/Puzzler Cyberplug** distributed connected/autonomous body can guard separated approach lanes, but its actual Cost/Null behavior decides zone VP; **Gearhead13/0** is not a free extra scoring body for every bot. **Borderbash 2026 winner:** cheap Ikadron or comparable Baggage units flipped *Superiority* because mission added points; don't copy bonus to ordinary Domination. Counter: Skyhound isn't a box carrier and No Cover makes its aerial zone occupation risky.
+
+[Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
