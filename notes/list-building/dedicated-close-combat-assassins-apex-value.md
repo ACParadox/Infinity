@@ -18,6 +18,8 @@
 
 **Tiers:** S = exceptional role ceiling/value, A = excellent but some target or approach restriction, B = effective when table/roster suits, C = tactical niche. **Apex** ignores some points pressure to ask how many target types one profile can reach/defeat; **value** counts cost *and the chance/orders of actually arriving*. Tier scores are **editorial** and never imply a universal percent chance to kill a TAG.
 
+**Official N5.3 verification:** [Corvus Belli rules update](https://infinityuniverse.com/en/news/infinity-rules-update-5-3) · [CC/multiple troopers](https://infinitythewiki.com/Close_Combat) · [Guard](https://infinitythewiki.com/Guard) · [Berserk](https://infinitythewiki.com/Berserk) · [Natural Born Warrior](https://infinitythewiki.com/Natural_Born_Warrior). The official wiki confirms the N5.3 two-trooper CC participation threshold, Guard LoF+ZoC/Aerial exception, NBW negative-MOD rule and Berserk target-LoF + missed-distance Idle rules.
+
 ## 1) Actual lethality: what the melee roll does—and does not say
 
 Current Martial Arts level is **one chosen printed level**, **not** every lower level combined:
@@ -151,7 +153,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **[MetaChemistry E18 — Skill Analysis: Guard](https://open.spotify.com/episode/0pmvKKOkYrxRbuEdiFyKPd)** (~7–24m) | **Andromeda + Guard** creates difficult ARO choice (CC vs shoot) and threatens **D-Charges** in short LoF/ZoC. **Counterview:** Guard has LoF/ZoC/Aerial limitations, so it cannot substitute Hidden or Eclipse for crossing the table. Episode predates N5.3: use its qualitative decision fork, not dated MA damage examples. |
 | **[Tactical Awareness S3 E37 — Tohaa](https://open.spotify.com/episode/5zhPiR44EzbQ4GFKkICRvG)** (~43–76m) | Tohaa's **Eclipse/Mirrorball** access lets close pieces spend fewer Orders crossing AROs, but evaluators **disagree** on the practical worth of a niche 23–26pt **Igao** versus cheaper Makaul and versatile specialists; only price in a CC piece if *that* delivery route is genuinely needed. |
 
-**Community counterpoint:** [JSA tactical discussion (Reddit)](https://www.reddit.com/r/InfinityTheGame/comments/1b6kg09/) specifically warns that even an army advertised as "melee" is played largely by shooting/mission position; users praise Oniwaban/Shinobu but also repeatedly name Yojimbo's utility and ranged coverage. [2026 JSA new-player discussion](https://www.reddit.com/r/InfinityTheGame/comments/1to87q1/) distinguishes **technical Ōban** from broader Shindenbutai. Neither constitutes a measured unit win rate.
+**Community counterpoint (older, predates N5.3):** [Tips for JSA n00b (Reddit, January 2024)](https://www.reddit.com/r/InfinityTheGame/comments/1911hij) argues that JSA's melee plan often becomes **Order-inefficient when long-range AROs require detours or gun-based clearance**. [First game against JSA — counterplay (Reddit, March 2022)](https://www.reddit.com/r/InfinityTheGame/comments/th3ir2) recommends **range, Mimetism, hacking and templates** against sword-heavy JSA. These are historical strategic opinions, *not* N5.3 profile/rules evidence or measured win rates.
 
 ### Where existing repository notes needed updating, not duplicating
 - [CC doctrine](close-combat-and-short-range-assault.md) establishes route geometry, engagement and ganging-up. **This guide adds current precise units/costs, separate apex/value tiers and matchups.**
