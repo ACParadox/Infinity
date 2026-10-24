@@ -831,3 +831,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Torchlight Millicent Guided16/1.5** needs **Waverider HD/Pitcher + Kyttä/Oko/Fuzz repeaters, actual Spotlight and Orders**. Some reviewers appreciate an off-angle answer protecting Wrecker/Prime; others object to spending 1.5SWC plus program infrastructure when the army's elite guns/rapid specialists already cover missions. **Waverider KHD+Trinity** does not automatically add Spotlight without a printed upgrade. [Cross-game indirect guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Silverstar Rover Specialist27/0 or FO27/0** is the best points-value **W2 ARM3 BTS6**, LIght Riotstopper, Jump, legal Silverstar team carrier; **30/0 TacAware + Firewall** is a different profile and adds self-funding/anti-hacking but doesn't automatically add FO. **Jackboot Paramedic21/0** (Immunity Enhanced/Warhorse, riotstopper + Panzerfaust) holds a covered box cheaply; **FO26/0** gives Thunderbolt/E/M Carbine for distance. **Silverstar Prime53/1.5** elite MSV1/W2/ARM5/BTS9/TacAware flips a zone by force but **is not itself the 27pt Specialist**. **Strider Camo Minelayer** and Kyttä/Oko behind a carrier force multiple enemy Orders. **Disagreement:** Silverstar core static can be too slow against eclipse/AD; a cheap Jackboot+fast reroute specialist behind layered mines may score more.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
