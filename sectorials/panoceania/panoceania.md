@@ -858,3 +858,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Crux Father-Knight47/0 Hidden+FD(+20)+MA2/Berserk** is premium *forward delivery + specialist* assault, but raw CC ceiling trails Shinobu/Oniwaban. **Teutonic Knight18/0** (MA2/2W/DA) is the strongest cheap armored close-body value when a protected lane already exists. **Joan47+/v2 45+** brings MA3/EXP alongside shooting and command utility; she is much too expensive for a one-victim suicide charge. **TAG** melee (Seraph) belongs to a separate buy category, not this non-TAG assassin tier. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Fugazi7/0 native Repeater/Flash** and **Mulebot8/0 Baggage/Repeater** provide cheap Regular baseline; **Pathfinder FO/Sensor/Repeater** and **Peacemaker23–27 native Repeater with FD(+20)** project toward midfield with second jobs. **Fennec HD+FastPanda16/.5**, **TechBee Deployable Repeater9/0**, and **Maximus FTO45/1 TinBot(Repeater)** are **different delivery types**: the FastPanda/TechBee requires Place Deployable; TinBot equips its owner and eligible *legal team*, but **Vanilla PanO has no such Fireteam chart just from the FTO label**. **Counter:** cannot import Kestrel Maximus FTO team benefits into vanilla; network less valuable if no adequate Hacker/target.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
