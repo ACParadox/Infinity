@@ -720,3 +720,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Helot Militiaman FTO Sensor+LRL10/0** is a cheap *Irregular* anti-marker sentry, particularly with actual **Patsy FT Master**, but does **not** inherit the separate 12pt one-use Camo loadout. **Zulu-Cobra Sensor/Jammer23/0** is a forward *active* marker hunter; **Kamau FO/Sensor/Triangulated Fire23/0** scores and detects instead of simply AROing. **Kamau MSV2 MSR29/1.5** is a lethal anti-Mimetism/Smoke long gun, while **Quinn26 Disco** bypasses an opposing MSV/Marksmanship blocker. **Opposing TA approach:** cheap expendable Sensor Helots are worth losing; forward Zulu-Cobra wins when Camo must be hunted beyond DZ. Overpaying for several static Kamau visors leaves White Noise and scoring vulnerabilities.
 
 [Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Peacemaker23/0 HSG+Auxbot** provides native Repeater/FD+20/Mim(-3) plus HFT synchronized attacker, unusually valuable in Varuna's reactive architecture. **24/.5 Minelayer** adds prepaid obstacle to a short engagement; **27/0 BSG+Auxbot** attacks corners, **23/0 +1B BSG has NO Auxbot**. A **Cutter Crabbot** is an Ancillary deployed by Place Deployable when useful, *not* a freely deployed second scoring specialist or Regular order. **Opponent view:** Helot LRL and Kamau long ARO control a lane, but Auxbot covers corner/entry where long gun can be smoked or bypassed; opponent may remove controller with KHD and leave second body disconnected.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
