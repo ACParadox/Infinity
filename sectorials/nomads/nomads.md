@@ -945,3 +945,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Vanilla Guided:** **Vertigo16/1.5** is strongest when **Interventor/Jazz/Mary** and existing Pitchers/Repeaters/one **Moran AVA1** already control hacking areas. The active Spotlight B2 **requires failed AP/BTS Saving Roll** to apply Targeted; enemy can still Reset/Dodge a subsequent Guided B1 attack. Tactical Awareness contrasts a missile-first named-hacker swarm with REM-centric direct shooting; do **not** import the two-Moran Corregidor shell to vanilla. [Indirect apex/value and source disagreement](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Gecko Vulkan49/0** is standout cheap **TAG quadrant VP** (STR3/ARM6, TA) with chain template; **Szalamandra HRMC68/2** (STR3/ARM8/BTS9), **Gator73/1.5** (STR3/ARM8/TA/NCO) higher ranged ceiling but fewer independent objective troops. **Puppet Master11/0+FO PuppetBot9/0 =20/0 dependent** protects scoring by distributed bodies, **not 2 Regular Orders**; **Chimera+Pupniks19/0** Eclipse/multiple template/CC bodies screens dangerous entry squares. **Mobile Brigada Hacker36/.5** is actual W2/ARM5/BTS3 specialist; **27/0 BSG** is a 2W zone holder but *not* Specialist. **Opposing MetaChemistry/WIP12:** don't buy TAG plus puppet plus all-in Guided if it leaves too few 20–30pt models able to pick up/survive a box; a 15pt Moran in cover denies enemy access economically.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
