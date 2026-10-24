@@ -1,5 +1,7 @@
 # Rare Abilities & Unusual Combinations — N5.3 Apex / Points Value / When They Matter
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 **Rare mechanics in scoring missions:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) applies G:Jumper, Synchronized FO/Peripherals, Camo and Shasvastii Embryo, Eclipse, Transmutation, and enhanced Immunity to **surviving an opponent turn and controlling a final Supply Box**, rather than only extraordinary gun/CC ceilings.
 
 _Research: 23 Oct 2026 · current committed **N5.3 September-2026** roster profiles in `sectorials/` and local N5.3 rules govern costs, skills and legal combinations. Rankings are tactical **judgments**, not measured win rates. **Across the game** means cross-faction comparison, **not** a legal mixed army list. Video/podcast analysis is commentary and may predate current profiles._
