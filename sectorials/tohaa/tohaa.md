@@ -845,3 +845,7 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 **Kamael FO+Deployable Repeater13/0**, **Sukeul FO+Deployable Repeater29/0**, and **Kotail FO+Deployable Repeater32/0** provide physical node placement while doing mission work, but **without printed Minelayer these do not begin as extra Turn-0 Repeater tokens**. Standard Tohaa Pheroware is **not automatically the same as conventional Hacking Device programs routed through Repeaters**: verify chosen Wardriver/other actual Hacker and eligible target before investing in a network. **Counter:** Tohaa typically gains more from Kaauri mine/Biometric, Kriigel Mirrorball/Pheroware, and scoring Triads than from a conventional Pitcher/Guided network copied from Nomads.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## Tactical cross-reference — toolbox units (2026-10-23)
+
+**Draal32/0 Dazer or33/0 mine** is an unusually competent forward Specialist/denial generalist (FD+20, Mimetism-6, 2W, fast movement); Dazer and viral mine are **separate profiles**, not cumulative equipment. **Kriigel21/.5** excels at Mirrorball/Eraser control, and Taqeul35–36 adds command—not the same gun or Dazer tool. Pairing multiple toolboxes in Triads creates redundancy but risks starving the Sukeul attack plan of points/Orders. [Cross-game apex/value tiers](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
