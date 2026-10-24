@@ -73,6 +73,19 @@ _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured wi
 | **A** | **FastPanda users:** Interventor KHD18/0 / HD+20/.5; Fennec HD16/.5; SAA Regular HD17/.5; Kamau HD22/.5; Tunguska Heckler23/0 | Need **reliable near-8″ remote placement** around a protected corner while carrying another useful role | FastPanda generally **Disposable1**/requires an Order, not speculative long-range Pitcher or native Turn-0 node |
 | **B as network-only** | **Optimate Maximus FTO TinBot Repeater45/1** | Already buying expensive fighting agent in a useful, legal Fireteam | A terrible substitute for several 7–15pt native-Repeater nodes if all you want is hacking reach |
 
+### Additional top-tier packages from the O-12/JSA roster audit
+
+| Tier (apex / value) | Exact legal profile | Why it is better **in this circumstance** | Limit / opposing case |
+|---|---|---|---|
+| **S / S** | **Team Sirius FO+SiriusBot Repeater 21/0** (vanilla O-12) | **Forward Deployment (+20)** gives a **native Repeater on the included synchronized bot at Turn 0**, with scoring FO; starts closer than a 7pt Kyttä while costing no network deployment Order | The bot shares controller Orders, is targetable and must follow synchronized/peripheral constraints; no extra Regular Order, and a 7pt Flashbot is much cheaper for pure DZ coverage |
+| **S / A+** | **Starmada Saladin CoC33/0 or Lieutenant34/0** — **Minelayer (2) + Deployable Repeater** | Can pre-position **two network tokens** while providing WIP16 leadership, Decoy(2), Counterintelligence and meaningful command role: premium **Turn-0** network *as a byproduct* | Don't buy 33–34pts solely for Repeaters, and don't invent Strategos/command on the CoC profile; choose LT or CoC separately |
+| **A+ / S+** | **Torchlight Waverider KHD+Trinity/Pitcher 20/0**, or **HD+Oblivion(+1B)/Pitcher22/.5** | 0SWC BS12/Mimetism(-3)/BTS6, Silverstars link support and anti-Hacker; cheap **KHD+Pitcher** benchmark on a durable-for-cost specialist | KHD default cannot Oblivion ordinary HI/TAG; choose 22pt HD if heavy control is the job, not the 20pt KHD |
+| **A / S** | **O-12 Cyberghost HD+/Pitcher 21/.5** | WIP14/HD+ White Noise and a cheap ranged network all in one Regular specialist; combines well with SiriusBot, Oko and Kyttä | Without a safe pitching lane BS remains a weakness; extra missile/Guided infrastructure is not always worthwhile |
+| **A / A+** | **Shindenbutai Tanuki Hacker/Pitcher+Disco Baller 20/.5** | BS13, Warhorse, **vision control and Repeater projection** from a single team-relevant MI | Only HD and 1W: do not buy because of a fantasy linked Firewall/TinBot or transport Shindenbutai rules into Vanilla JSA |
+| **A / S** | **Kestrel/MO/NCA Peacemaker native Repeater 23–27/0–.5** with FD(+20) and Auxbot options | Turn-0 *forward native* Repeater plus a close template/attack fork; can also trade physically if network targets absent | S4 placement, Hackable, usually too costly purely as kamikaze when Fugazi7/0 and Pathfinder/TechBee can do enough |
+
+**O-12 network architecture:** 7pt **Kyttä** (Regular native Repeater) + **15pt Oko** (Sensor/FO/native Repeater) supply budget coverage; **SiriusBot** comes with Team Sirius (20/0 BSG or 21/0 FO). **Starmada** can use its **Saladin** version and **Cyberghost** but sectorial AVA/Fireteam restrictions differ; **Torchlight** makes **Waverider + Strider 28/.5 Deployable Repeater Minelayer** plus Kyttä/Oko a distinct strong plan. These corrections matter more than automatically pushing Nomads above every O-12 or Yu Jing option.
+
 ## 3. Matchup & delivery decision
 
 | Your situation | First choice | Reason / counterexample |
