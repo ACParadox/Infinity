@@ -846,3 +846,9 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Heckler20 E/Marat+BSG** defends a close route, **Securitate22 Feuerbach** provides affordable AP+DA anti-armor ARO, **Switcher27/0 Thunderbolt+E/M Carbine+grenades (+1B)** projects repeatable ranged/electronic control. **Tsyklon29/1 Feuerbach** is a longer-range robotic shooter, **Meteor Zond21 E/M Carbine** flank costs airborne delivery, **Miranda25/28 Monofilament+PARA Mine/E/Mitter** is an actual close kill tool at higher access cost. Don't send a K1 Triggerman43 into BS15 TAG unless its FD/Decoy yields favorable FTF. [Anti-TAG/HI non-hacking apex/value rankings](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Hollow Man Boarding Shotgun Specialist21/0** is extraordinary **W2/ARM4/BTS6/Remote Presence/Super-Jump** on legal Hollow Men team: durable 21pt package for Supplies and zones; **23/0 combi / 26/0 Pitcher** are *not* Specialist automatically. **Puppet Master11/0 + FO PuppetBot9/0 =20/0** is distributed resilient *Peripheral Control* package, battle-ravaged bot, not multiple pooled Regular Orders; keep Puppet Master in cover. **Szalamandra68/2** 3STR/ARM8/BTS9/HRMC flips quadrants hard but cannot normal Supplies. **Kriza Borac Mk12+360º48/0** W2 ARM5 durable area gun (not a box Specialist), contrasts 45/1.5 HMG attack. **Opposing Shepherd/MetaChemistry:** Hollow Men may be overlinked/expensive, but **one 21pt Specialist + defended Puppets** retains 2 zones cheaper than elite hacking/one TAG approach.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
