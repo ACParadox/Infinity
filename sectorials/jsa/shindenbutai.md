@@ -843,3 +843,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Yamabushi15 Panzerfaust FTO /16 Camo(1 use)** gives inexpensive AP+EXP deterrence; **Yuriko Oda FTO23 Panzerfaust or 25 E/Mitter** adds technical mission roles. **Lù Duān20 E/M Carbine+E/M Mine** can disable heavily armored victim without entering CC; **Hatamoto34 Plasma+Monofilament/E/M CCW** is 2W mobile finisher; **Shizoku43 AP HMG** is the sustained ranged kill plan. **Triphammer48 TAG Panzerfaust(+1B)** and Mechazoid are higher cost categories; not a free value substitute. [Cross-game non-hacking anti-armor apex/value guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Uran Guided Missile16/1.5** is an *optional* payoff for **Tanuki HD Pitcher20/.5 + Robio/Atom/Pangguling Repeater/FO**, not Shinden's mandatory primary long gun. Shepherd prefers a direct **Trinity attack on enemy Hacker** to Guided in many early Network windows; a Uran already positioned in Group 2 can still punish Targeted/Spotlight ARO. The **Garon Smoke GL16/0** is visibility control, not a high-damage speculative grenade. [Whole-game decision guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
