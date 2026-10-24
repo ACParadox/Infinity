@@ -1,5 +1,7 @@
 # Objective Holding / Zone Domination / Carried Objectives — N5.3 Apex & Value
 
+**Independent defensive bodies versus shared activations:** [N5.3 Peripheral and Multi-Body apex/value](peripheral-synchronized-multibody-apex-value.md) distinguishes **Sirius+SiriusBot, Drummer+FO Drumbot, Raptor+Devabot, Puppetactica pickets and multi-Proxy Posthumans**, which can occupy different real physical places but do **not each produce pooled Regular Orders**. Count costs/Null state separately for zone control.
+
 _23 October 2026 · whole-game **qualitative** rankings, not measured tournament win rates. Current Sep 2026 N5.3 profiles, AVA and legal Fireteams are sourced from [sectorial roster files](../../sectorials/); dated video/podcast transcripts supply tactical opinions, not roster authority. These cross-faction examples **cannot** be combined in one normal list._
 
 **Different win conditions, different winners.** A **zone dominator** adds surviving **Victory Points** inside a scoring area; a **carrier** must be an **eligible Specialist** that collects, retreats and survives with an item; an **objective defender** prevents enemy interaction with guns, mines, hacking, templates, and layered positions. Never rank them as if the best TAG automatically is the best Supply Box carrier.
