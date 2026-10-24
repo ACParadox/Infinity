@@ -4,6 +4,8 @@ _Updated 2026-10-23. Cross-faction **editorial, conditional** ratings, not offic
 
 **Scope:** **active-turn attacks and useful results per Order**, not defensive AROs, command structure, or deployment tricks in isolation. **TAGs have their own apex and value categories below** and are **not mixed into infantry/REM/VH rankings**. Other relevant guides: [TAGs](tags.md) · [VH vehicles](vehicles-vh.md) · [ARO](aro-units-apex-and-value.md) · [weapons/ammunition](weapons-ammunition-and-engagement-selection.md) · [face-to-face odds](probability-and-face-to-face-decision-framework.md) · [Fireteams](fireteams-and-profile-evaluation.md) · [Order efficiency](order-efficiency.md) · [target sequencing](target-priority-and-attack-sequencing.md).
 
+**Hard-armor matchup supplement:** [N5.3 non-hacking anti-TAG/anti-HI apex/value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) separately ranks **cheap E/M/PARA lockdown, K1, Monofilament, Panzerfaust and repeatable AP/Autocannon** against actual armor and delivery, not general gunfight utility.
+
 ## 30-second verdict
 
 | Job | Strong choices | **Why / when** |
