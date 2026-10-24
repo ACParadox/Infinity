@@ -1045,3 +1045,7 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Dragon Lord5 Monofilament CCW** is a cheap *contact deterrent*, **not** a realistic 5pt solo TAG assassin. **Wú Míng19 E/Marat**, **Bayara20 E/Marat+Mine**, **Lù Duān20 E/M Carbine+E/M Mine**, and **Koga Ninja E/M Carbine(+1B)25–28** are strong repeatable disabling packages. **Wú Míng AP HMG33** can do sustained lethal shooting; **Fēiquán28 E/M Carbine(+1B)+Akrylat VH** carries aerial flank risk. Opposing choice: cheap IMM-B now vs a multi-Order AP gun kill; choose by time until Engineer. [Non-hacking anti-TAG/HI tiers and matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Imperial Service:** **Son-Bae Guided16/1.5** is an optional payload for legal hackers, **Wèibīng FO/Repeater** and forward Pitcher networks; the **FTO/+1B Missile** is a different source profile for direct ARO. **Wú Míng MULTI Rifle+GL+E/M GL27/0** is a durable independent short-mid Speculative tech attack with real FT conditions. If E/M state pressure suffices, don't consume 1.5SWC and multiple Targeted/Guided Orders for the same problem. [Global tiers and matchups](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
