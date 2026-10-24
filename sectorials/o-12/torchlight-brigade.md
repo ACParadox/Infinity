@@ -807,3 +807,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Tactical cross-reference — vision control (23 October 2026)
 
 **Kludger Engineer23/0 + Disco + Deactivator** covers repair **and** MSV-proof objective access on one model; **PSI-Cop KHD23/0 + Disco** trades Engineering for hacking, but its KHD **is not** White Noise. **Hippolyta37/0 Smoke** plus an eligible **Nimrod MSV2** is a different, offensive normal Smoke/MSV combination. **Counterpoint:** Kludger's value is repair plus Eclipse, not buying a 23pt template thrower when no STR recovery/mission access is required. [Cross-faction apex/value guide and transcript comparisons](../../notes/list-building/vision-control-units-apex-and-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Hippolyta37/0** is a premium MA3/EXP mobile assassin/escort: 15-5, 2W, Mimetism−6, Smoke, Super-Jump, Berserk, but **Impetuous/Limited Cover** changes approach risk. **Silverstar Prime53+** and **Rovers27+** are primarily gun/fighting HI and have CC18/16, not comparable to Shinobu/MA5. **Firebat** is an **Aerial VH shooting platform** with CC unavailable, so it is not a target for **Guard** while active (current Guard rule); beware mine/templates and hackable approach for the other HI. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
