@@ -18,6 +18,9 @@ coverage: "Vanilla Nomads standard roster, AVA, standard loadouts and points/SWC
 
 ## Overview and provenance
 
+**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](../../notes/factions/nomads-must-have-go-to-avoid-source-audit-2026.md). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
+
+
 Repository-native reference for **Vanilla Nomads** roster, profiles, points/SWC, AVA, and the Fireteams explicitly exposed by the current Army source.
 
 For concise tactical/list-building analysis (including reviewed video/podcast transcripts, opposing opinions, TAGs, Go-Pod and REMs), see [Vanilla Nomads — N5.3 Tactical and List-Building Guide](../../notes/factions/vanilla-nomads.md). This reference remains authoritative for legal rosters and profiles.
