@@ -885,3 +885,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Apsaras TAGCom18/0** carries KHD+Deployable Repeater and boosts **same Combat Group TAGs** only by printed Dodge PH+3/GizmoKit PH+1; a **17pt KHD** is cheaper without need. **Probots8/0 Baggage vs14/.5 EVO** depends on live REM/AD Supportware, no native Spotlight. **Shukra Counterintel CoC21 / Strategos LT24** are profile choices; **Arjuna FTO Firewall(-3)23** supports legal Fireteams, while Maximus FTO TinBot(Repeater) is not Firewall. **Samsa/Kinnara/Dart Decoy** buys uncertainty, never extra Orders. [Global tiers](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**G:Jumper apex:** **Posthuman Mk.1 Engineer13/0 + Mk.5 FO13/.5=26/.5** places specialists in two locations but produces **one** Regular Order, not a two-body synchronized attack. Add **Mk.4 HMG30/1.5** for **56/2** attack+FO+recovery positions; or **Mk.2 Sniper26/1.5** for **52/2** with Mk.1+Mk.5, Camo/Infiltration is **NOT automatically Hidden**. In reactive ARO, only one chosen Proxy has unrestricted reaction when both involved. **Pilot-X23/.5+RacerBot Mk-III8/0 each =31/.5 or39/.5**: 20-10 disposable 360º/Deployable Repeater/PARA bodies, parent RemDriver. Unlike a 7pt free Order bot, **RacerBot Mk-III cannot be selected without Pilot-X**. **Apsaras RemDriver20/1 vanilla** buffs **one** eligible REM, not every synchronized unit. **TA OSS disagreement:** RacerBot activation/Orders vs one hard-to-stop cheap posthuman proxy; need actual other gunfighter/recov target for full benefit.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
