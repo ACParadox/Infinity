@@ -709,3 +709,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Onyx:** **T-Drone Guided16/1.5** can exploit Umbra/Nexus/Victor/Bit and R-/M-Drone/Unidron networks when those hackers and repeaters are already in the list. An **Overdron Albedo/Tactical Awareness** gun often removes a key MSV ARO more directly; **ECM: Guided on the TAG does not make the Overdron a Guided shooter**. Prioritize direct K1/plasma fire, super-jump objective access and specialist coverage over missile-only setup. [Global Guided vs Spec guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Xeodron49/.5** (3STR/ARM5/BTS6, Tactical Awareness, Super-Jump, legal Xeodron Fireteam) is an exceptional **medium-cost TAG zone swing**, more affordable than 93pt Sphinx; **49/.5 K1 vs MULTI** are separate loadouts. **Sphinx93/2** gives exceptional stealth apex, but must reveal to count VP and needs non-hackable support plan. **Unidron FO15/0** or **Specialist/Commlink16/0**, Dogged/Remote Presence/Plasma is economical objective entry support; **Dogged does not guarantee end-round non-Null scoring**. **Ikadron11/0 Baggage/Repeater/LFT** guards close approaches and is huge only in *Baggage-bonus scenarios*. **Opposing Irregular Order #56:** linked Xeodron skew can dominate contested space, but consuming almost half a list can cost too many independent specialists/Orders; protect fallback.
+
+[Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
