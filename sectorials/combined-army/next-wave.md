@@ -750,3 +750,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **FT Masters**: Pandora24–29/.5 (Stingers), Patroclus FTO31–40, Drakios FTO31–33 regularize the **Irregular members in their legal teams** at Order Count; don't inherit every team or optional non-FTO profile. **Gearhead Cyberplug13/0** with a **Puzzler12–13** costs **25–26pts combined**; connected/autonomous chosen on each Order/ARO under N5.3 and Puzzler has no Order. Ikadron/Echodron Baggage supports dispenser/Pitcher ammunition, not Non-Reloadable deployed turrets. Shepherd and LoL praise these dependencies; MetaChemistry recommends targeting FT Masters and Gearhead controllers to collapse support efficiency. [Global tiers](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**M-Drone Sensor/FO/Repeater/Triangulated Fire** and **Tekdraken Steeljaw18/0 with Sensor** are the value **Camo/Hidden** hunters (different mobility, cost and Order structure). **Ko Dali MSV2** and rostered **MSV2 gunfighters** clear actual Mimetism shots; **Ironsides Albedo(-3)** and other Albedo(-6) profiles punish enemy MSV/Marksmanship *only* when it exists. **Counter:** an Albedo gun is not concealed versus plain HMGs. Buy Sensor to reveal clustered Camo first, then a separate high-Burst gun; don't spend the entire Turn just discovering one disposable marker.
+
+[Non-hacking & tech-specific counter-selection, N5.3 anti-tech apex/value and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
