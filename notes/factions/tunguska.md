@@ -133,3 +133,9 @@
 
 - **White Noise from Interventor HD+ 18–23/.5** becomes powerful only with real Repeaters/Pitcher/FastPanda reach. **Kulak KHD + Disco 20/0** delivers Eclipse-like projected screens but **KHD does not give White Noise**; **Perseus normal Smoke** and Zondnautica/Denma are alternate crossing/assault tools.
 - **Pick by enemy:** White Noise selectively removes visored/Marksmanship AROs; Disco blocks ordinary guns too and can deliver a Kriza/Hollow Men scoring package. Beware buying two expensive support engines without an attack recipient. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Mary Problems27/.5** beats ordinary budget hackers for *two-device hybrid utility* (HD+KHD program packages, Pitcher, FD, Mimetism -6, Climbing+) when the same midfield needs to threaten Hackers **and** HI. **Kulak KHD+Carbonite/Disco20/0** can be better on price and legal Securitate/VATRA role; do not give it nonexistent White Noise. **Elena Kovac** is a disputed toolbox per Infinity the Dante: Sensor/Triangulated Fire/TA/SpecOp look broad, but the weapon/FT position can make them mutually awkward.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
