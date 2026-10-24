@@ -555,3 +555,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Vanilla Yu Jing** has current rostered **Shaolin Smoke for delivery**, **Beasthunter Panzerfaust / Lóng Yá16 Panzerfaust(+1B)** ambush, **Lù Duān20 E/M Carbine+E/M Mine** repeated electronic trap, and **Chung-Hee27 K1 Combi** engineering/armor penetration if legal profile confirmed. **Húláng FTO** mono or E/Mitter only where current vanilla option permits; **Blue Wolf/Gūijiă** are TAG-priced platforms, not cheap anti-TAG tools. This file's vanilla loadouts are partially projected: confirm exact selected option in pinned Army source rather than inheriting Imperial Service/White Banner profiles. [Non-hacking anti-TAG/HI tiers and matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Indirect plan by cost:** **Son-Bae16/1.5 standalone Guided**, **Dokkaebi KHD+Spotlight/Pitcher22/0**, and **Wèibīng FO/Sensor/Repeater14–17/0** can add a remote attack to an already functional network. **Haetae Guided HRL** is a pricier active-gun hybrid where vanilla eligibility and actual profile permit it. **Húláng E/M GL** supplies *non-Guided* close off-angle state pressure; the FTO-2 E/M GL is not automatically legal in an FTO-only Fireteam. [Global tiers](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
