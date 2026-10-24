@@ -833,3 +833,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Hatamoto Plasma34/0 (MA4, NBW, Monofilament/E/M, 2W, Specialist)** is the roster's all-round CC counter-duelist while advancing in support of the gun; **34pt is not a Hidden/Infiltrating assassin** and must choose which attack role to solve. **Teishin19 Combat Jump** is a flank **shotgun** attacker, merely MA1/CC21, not equivalent to an Oniwaban. Use the legal midfield/Smoke and ranged covering unit before risking a costly HI in CC; consider enemy Guard and NBW. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Tanuki Hacking Device+Pitcher+Disco Baller20/.5** gives **BS13 ranged Repeater and vision control on one Regular Warhorse MI**, very strong economy if its **legal team** can add applicable bonuses. **Robio7/0 native Repeater/Flash**, **Atom Sensor/FO/native Repeater**, and **Pangguling8/0 Baggage/Repeater** cover cheap mobile network and reload. **Pangguling FTO12/0** is a *different* profile; source team-chart legality still required. **Opposing case:** JSA's powerful camo/assassins can dominate non-Hackable tables; avoid paying for more network unless a standard HD is present to actually exploit the position.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
