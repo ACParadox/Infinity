@@ -260,3 +260,9 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 
 - **Best value:** 5–6pt **Ghazi Smoke** (read *Vanilla's exact profile*, not the different Bahram Ghazi loadout) and cheap Kum bikes screen **34pt/1SWC Mukhtar MSV2 Red Fury** or Djanbazan MSV2 for smoke-shooting. These packages are strong but Irregular activation/Orders and the gunfighter's opportunity cost still matter.
 - **Against MSV/White Noise:** don't assume normal Smoke will shield a scoring piece from visors; Fiday or another angle can work better. [Global guide and profile caveats](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Mukhtar MSV2 Red Fury34/1 + Mukhtar Doctor/Hacker/FO** in a legal Duo creates a versatile *two-model* attack/scoring package; not one imaginary Mukhtar with four profiles. **Zeybek33/1.5** is a different solo combat+Smoke/Albedo/Operator toolbox but large/hackable. **Hunzakut FO15** is the value choice when objective/repeater/marker work matters more than the premium gun. Shepherd prefers independently coordinated Mukhtars in some vanilla Saladin lists, so a Duo is not automatic.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
