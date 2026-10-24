@@ -698,3 +698,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Montesa foot Forward Deployment+20** or **Motorized Montesa21/0 CC23/MA2** is Varuna's main genuine *mobile melee-capable HI*, winning when opponents are already in a cleared flank; bike 20-15 speed trades away doorway geometry. **Croc Men Hidden/Infiltration** are ambush gun/mine specialists with **CC14**, **Echo-Bravo** is airborne shotgun **CC15**—neither matches a 29pt Oniwaban in contact. Defend **Kamau/Cutter** with cheap Helot/ARO and mines; **Cutter** is a separate TAG category. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Zulu-Cobra KHD+Pitcher26/0** has Camo/FD(+10), creating a threat from forward terrain while acting as mission skirmisher; **Kamau HD+FastPanda22/.5** sends a no-BS-roll node within 8″ but needs a Place Order. **Peacemaker native Repeater FD(+20)**, **Pathfinder FO/Sensor/native Repeater**, **Fugazi7/0** offer cheaper physical delivery; **Croc Man FO+Deployable Repeater30/0** places from Hidden/Infiltration but does *not* have Minelayer on the FO profile. **Counter (TA Varuna):** Zulu's other Jammer/Sensor/LT and E/M Mine Minelayer options are distinct; Pitcher specialist is not automatically the best defensive Jammer or 0-Order mine.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
