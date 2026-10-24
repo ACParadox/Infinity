@@ -1,5 +1,7 @@
 # Vision Control — N5.3 Apex, Points-Value, and Matchup Guide
 
+**Very rare dual-vision profiles:** [Rare Abilities & Unusual Combinations — cross-game apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares **Bào MSV2+Albedo+Biometric**, **Satrah and Black Friar MSV2+Albedo**, **Léi Gōng MSV1+Albedo+Super-Jump**, and *Albedo alone* on Yín-Shé/Overdron. Do not infer MSV from Albedo or treat conditional anti-MSV as global Mimetism.
+
 _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates.** Current rules: N5.3/FAQ v0.1; unit/profile and Fireteam authority: [current sectorial references](../../sectorials/). Price/SWC below identify **specific roster profiles**; a unit's other profiles, AVA, Regularity or link rights may differ. Older video/podcast tactics are not proof of current legal profiles._
 
 ## 30-second verdict
