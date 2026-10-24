@@ -162,3 +162,9 @@ Shasvastii win by **turning hidden information into tempo**, then exploiting the
 - **Sept 1, 2026 N5.3 / ITS18** added **Shasvastii Corax Spec-ops and Shasvastii Team-ops**, revised Fireteam charts, and adjusted Camo, Firewalls, Protheion interpretation, climbing and several movement/Hacking/Baggage-related interactions. Spec-ops are **not** simply ordinary ITS models; consult event packet. [Official update](https://infinityuniverse.com/en/news/infinity-rules-update-5-3).
 - **Do not silently port** pre-N5 Nox full-Core bonuses, old E/M / Baggage / Evo Supportware effects, old Climbing Plus, or old Impersonation/Protheion interactions to N5.3.
 - Rankings are **conditional role evaluations**, not strict tier claims. Sample lists are role blueprints, *not* current legality-tested Army exports.
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Caliban FO26, Engineer28, CoC29** are global top-value *profile-specific* toolbox threats: Camo/FD+20/Protheion/MA3/CC23 plus mission/tech/insurance. **Triple Caliban** in the 2026 MetaChemistry #139 winner supplied independent angles and late survivability; counter: starting 1W and short gun, cannot combine all options on one profile. **Sheskiin** is a better effortless primary attacker but **not** a Specialist/hacker.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
