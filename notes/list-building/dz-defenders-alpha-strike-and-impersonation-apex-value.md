@@ -1,5 +1,7 @@
 # Deployment-Zone Defenders — N5.3 Apex, Value, and Anti-Alpha-Strike Guide
 
+**Reactive hacking and Repeater placement:** [Network Projection apex/value](network-projection-repeaters-pitchers-apex-value.md) distinguishes passive DZ Repeaters from Turn-0 infiltration and long-range/airborne deployment. A cheap Repeater alone does not stop a nonhackable/IMP attacker; pair with actual HD/KHD target coverage and physical template/mine/Discover defenses.
+
 _23 October 2026 · Tactical **qualitative tiers**, not tournament win rates. Exact costs, options, AVA, Training and Fireteams come from this repository's pinned **current N5.3** sectorial references (Army September 2026); the N5.3 rules/FAQ supersede dated video or podcast claims. Unit availability **cannot be transported** from sectorial to Vanilla or another sectorial._
 
 **Purpose:** protect cheerleader Regular Orders, Lieutenant, hacker, Engineer, Doctor, support REMs and scoring reserve from **Parachutist (especially DZ-edge), Combat Jump, enemy-half Infiltration, fast ground or rooftop bypass, Impersonation and close-range alpha strikes**—preferably while providing a **Regular Order, FO/Sensor, recovery, hacker coverage or credible later counterattack**.
