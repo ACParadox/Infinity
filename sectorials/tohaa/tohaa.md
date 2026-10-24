@@ -839,3 +839,9 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Makaul14/0** is the standout *value* **CC23 MA2 + Eclipse + HFT + Viral/DA**, opening a safe route for the whole Triad while threatening short-range attacks. **Igao Vulkan23/0** is **Infiltration/Camo/MA3/DA** better for a concealed opening strike; **Mirrorball26/.5** adds a different vision-control route. **Neema32** is durable forward CC22/MA2 with important ranged work, not a pure assassin. Transcript dissent: cheap Eclipse Makaul often contributes more than paying for niche 1W Igao. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Kamael FO+Deployable Repeater13/0**, **Sukeul FO+Deployable Repeater29/0**, and **Kotail FO+Deployable Repeater32/0** provide physical node placement while doing mission work, but **without printed Minelayer these do not begin as extra Turn-0 Repeater tokens**. Standard Tohaa Pheroware is **not automatically the same as conventional Hacking Device programs routed through Repeaters**: verify chosen Wardriver/other actual Hacker and eligible target before investing in a network. **Counter:** Tohaa typically gains more from Kaauri mine/Biometric, Kriigel Mirrorball/Pheroware, and scoring Triads than from a conventional Pitcher/Guided network copied from Nomads.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
