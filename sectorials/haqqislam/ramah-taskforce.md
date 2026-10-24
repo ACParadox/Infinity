@@ -871,3 +871,9 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Split alternatives:** **Shaytaniyah16/1.5 Guided Missile** uses Valerya/Leila, Hunzakut/FO and Repeaters; **19/1.5 Missile(+1B) is NON-Guided in this pinned Ramah reference**. **Al Fasid50/1.5 HMG+GL+Smoke GL** and **Maghariba71/1.5 HMG+GL** can make speculative attacks if weapon/range support them, but are expensive full attackers, not purpose-bought B1 lobbers. **Ghulam NCO15/1 GL+Smoke** spends a relevant LT Order on other utility. [Cross-game indirect guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Namurr Tactical Awareness Specialist41/0** is the **carry-and-survive value apex**: W2, Immunity(Enhanced), Climbing+, Terrain, BS(+1B), E/Marat, can move/objective/escape on own Order; **44/1 Spitfire is a separate cost**. **Mukhtar FO25/0/Doctor26/0** FD+10/Mimetism(-3)/NWI is lower-cost distributed holder. **Tarik AP Rifle+Tactical Awareness46/0** (BS/CC powerhouse, 2W/No ordinary Specialist printed) flips VP zones but doesn't automatically pick up a box. **Shakush56–58/1.5** 3STR and **Maghariba71–72/1.5** 360º/ARM8/Baggage are strong guards/swing, not guaranteed eligible carriers; pay Engineer/actual Specialist. **Al Fasid44/1.5 HRL/Minelayer/Sixth Sense** defends interaction space; not a box holder by default. **Counter:** expensive multi-HI can be isolated/hacked; a protected Mukhtar in cover plus 7pt Fanous may be better than a Namurr sent into open lane.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
