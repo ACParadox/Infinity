@@ -967,3 +967,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Starmada** has **Jackboot Thunderbolt(+1B)+E/M Carbine**, **RoadBot Panzerfaust**, and **Crusher Combat Jump/Parachutist Panzerfaust** options for inexpensive *side-angle* threat. **Cuervo Goldstein Monofilament** where legal is the precise one-hit kill alternative; **Raveneye E/Marat+E/M Mine** guards corridors, while **Firebat Akrylat+Blitzen** as an Aerial VH risks exposure. **Bluecoats/Nyoka** are useful screens/mission bodies rather than the cheapest anti-ARM guns; count profile/arrival legality and Engineer/reset costs. [N5.3 non-hacking anti-TAG/HI value by carrier](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Starmada Millicent Guided16/1.5** gives the **Cyberghost HD+ Pitcher21/.5 + native Kyttä/Oko/Fuzzbot Repeater** grid an off-angle threat; if you buy it only for one missile after several Spotlight/Save/Reset rolls, your Zeta/Betatrooper/other real gun loses SWC and active Orders. **Dodge or Reset** remains available to a Guided target, and non-Hackables can still be Spotlighted. [Indirect apex/value comparison](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
