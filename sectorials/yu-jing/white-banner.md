@@ -853,3 +853,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Lóng Yá16/0 Camo+FD+10 Panzerfaust(+1B)** is standout cheap concealed anti-TAG ARO; **Beasthunter9/15 Panzerfaust/HFT**, **Hwarang19 Panzerfaust+EXP CC**, **Lù Duān20 E/M Carbine+E/M Mine** cover ranged hits/close E/M. **Chung-Hee K1 Combi27/0**, **Léi Gōng E/Mitter29/0** and **K1/Monofilament specialist** are more expensive role compressors. **Fēiquán28 E/M Carbine(+1B)+Akrylat** is an aerial VH, not a safe default ground ambush. Count Engineer recovery and target BTS. [Non-hacking anti-TAG/HI tiers and matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Standout dual-role Guided:** **Haetae36/1.5 Guided HRL(+1B), BS14, ARM5, 2W, Tactical Awareness** is a genuine shooter if target marking fails; **Dokkaebi KHD+Spotlight+Pitcher22/0** prints the necessary hybrid program and network reach. **Son-Bae standalone Guided ML16/1.5** is the cheap alternative; **+1B/FTO Missile profile is NOT the Guided variant**. Hwarang/Jujak team contributes protection/visibility but has its own point/Order costs. [Global indirect comparisons](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
