@@ -844,3 +844,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Morlock6/0 E/M CCW + Smoke**, where rostered, is **anti-hackable armor trade**, not a premier raw MA5 assassin; a **Reverend/Morlock** screen lets expensive Bakunin firearms survive enemy CC approaches. Choose **templates, E/M, mines/Repeaters** against enemy CC monsters when a head-on engagement would cost more Orders than shooting. Any combat-ready Fireteam Engineer/Doctor is still principally a scoring/support model, not a dedicated mono killer. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Initiated Observant Deployable Repeater+Minelayer18/0**: Camo(1 use)/Infiltration starts an actual **forward Repeater token without an Order**. **Moderator Pitcher10/0**, BS10, benefits from a **legal** team to increase range reliability; **Uhahu HD+/Pitcher19/.5** and **Reverend Custodier HD+/Pitcher28/.5** are more capable individual cyber packages; **Tsyklon FTO26–29/1** adds native Repeater, X-Visor, 360º and better BS in a legal Wildcard team. **Meteor19/0** offers native Combat Jump network. **Opposing MetaChemistry winner:** no Guided launcher required; a single Pitcher isolated a critical enemy while melee/mission units did the rest. **Zero E/M Mine+Deployable Repeater20/0** has **no Minelayer** on that profile.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
