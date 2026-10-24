@@ -1053,3 +1053,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Ghazi/Muttawi'ah5 E/Marat+Smoke** is cheapest close TAG-disable; **Daylami6 Panzerfaust, Camo8** gives long-range AP+EXP deterrence. **Ghulam12 Panzerfaust** can protect an Order package, **Nadhir23 Hidden Panzerfaust** surprises exposed TAG, **Burkut26 E/Marat(+1B)** and **Azra'il AP HMG37 / Feuerbach(+1B)41** escalate to repeatable mid-cost anti-ARM. A 5pt template reaching contact is not automatic, and an Engineer can undo E/M. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Vanilla Haqq:** **Shaytaniyah16/1.5 Guided ML** and current vanilla **19/1.5 ML(+1B), Guided** require a real **Barid HD+Pitcher16/.5**, Hunzakut FO/Deployable Repeater or Rafiq network to make Targeted meaningful. **Hunzakut GL18/.5, Daylami GL10/.5, Ghulam NCO GL+Smoke15/1 and Maghariba MULTI HMG+GL71/1.5** are alternative Speculative weapons; the last is a TAG first, artillery second. Saladin's cheaper Order infrastructure may fund a missile, but do not import Ramah's non-Guided 19pt alternative. [Global indirect analysis](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
