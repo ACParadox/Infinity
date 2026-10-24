@@ -115,3 +115,9 @@ Supporting but obsolete: [Robert Shepherd N4 OSS faction focus](https://www.yout
 **Critical split:** **Samekh Guided16/1.5** is **non-FTO**; **Samekh FTO15/1.5 direct Missile/Flash** is *not Guided*. OSS Danavas/Asura + Pilot-X/RacerBots/Daleth can build fast Spotlight but a main Marut/Asura/Rudra gun may be more reliable than several setup/save/Reset rolls. Add Guided only when cheap repeaters and spare Orders already exist.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**TAGCom value:** **Apsaras TAGCom18/0** (KHD, Deployable Repeater) grants **printed Dodge PH+3 and GizmoKit PH+1** to same-group **Marut/Maximus**, vs **Apsaras KHD17** when no TAG. **Probot8 Baggage versus14/.5 EVO**: EVO only if REM guns/flyers use Supportware; don't claim it has standard HD Spotlight. **Maximus FTO45/1 TinBot(Repeater)** makes legal teammates Repeaters, *not Firewall*. **Shukra CoC21/0 Counterintelligence or LT24/0 Strategos1** compete with multiple cheap scoring units; TA OSS May 2026 values TAGCom highly but warns novel TinBot team interactions require exact rules.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
