@@ -987,3 +987,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 70%-base regular repair package, while **Dozer13/Monstrucker12** trade WIP/Order economy for lower cost. **Ghulam Doctor(+3)15** supplies 85%-base VITA revival when roster-legal; **112 Doctor11** or fast motorized19 is cheaper/different reach. **Fiddler Engineer** is better when its fast combat/mission work also pays for the upgrade. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**McMurrough23/0** is the standout durable *two-Wound Smoke + 15-10 + Berserk/AP+DA* assassin/trader when the route is short; **Kum motorcycle6/0** trades fast 20-15 Smoke/chain pressure at a fraction of cost but with S4 and Irregular/Impetuous exposure. **Fiddler29 FTO/other versions** is a forward engineer/utility fighter with modest CC18, not a MA5 executioner. **Maghariba** is a separately costed TAG; against premium MA5 or Guard, use Hunzakut mines, Libertos and linked smoke/templates to protect expensive support instead of head-on CC. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
