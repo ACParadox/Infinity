@@ -1,5 +1,7 @@
 # List-Building Strategy — Mission, Scoring, and Specialist Strategy
 
+**Current N5.3 complete holder/carrier rankings:** [Objective Holding, Zone Domination & Carried Objectives — apex/value](objective-holding-zone-domination-and-carriers-apex-value.md). Separates **Domination VP-majority quadrants** from **Supplies non-Null Specialist carrying and preventing enemy Silhouette contact**, identifies mission-specific Baggage/Shasvastii exceptions, compares Karakuri/Shikami/Asura/Namurr with 19–31pt specialists, and shows opposing MCP-media opinions.
+
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
 **New cross-faction unit selection:** [N5.3 Mission Specialists and Button Pushers — Apex/Points-Value tiers](mission-specialists-and-button-pushers-apex-value.md) rates *specific* FO, KHD/Hacker, Doctor, Engineer, Specialist Operative, LT and CoC profiles against access, survival, repeatability and secondary utility. Use this existing guide for mission timing, Classified task coverage and role distribution, and the new guide for which legal profile buys those jobs most efficiently.
