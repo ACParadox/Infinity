@@ -642,3 +642,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Morat zone architecture:** durable **Warhorse** fighting pieces hold relevant approaches after Lieutenant loss, while **M-Drone FO/Sensor+Repeater** and source-legal **Rindak Paramedic24/0 FTO / 26/0 FD+20** do the actual mission work. **Rasyat BSG+Eclipse25/0** can enter from DZ edge and deny LoF to an objective approach but is not FO/Doctor by that profile. **Dāturazi Regular Smoke+CC14/0** protects heavier area anchor in a cost-effective guard role. **Counter:** Nomad-style multi-hacker network/spotlight may stop hackable pieces; don't presume Warhorse makes all models immune to Isolation, and don't value an exposed expensive Morat gun above one already-surviving specialist behind total cover.
 
 [Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Yaogat MSV2** is the principal **shoot the Mimetism/Smoke** tool; **Dāturazi14/0 Smoke+Warhorse** changes a non-MSV defender's LoF but costs a supporting activation. **M-Drone Sensor/FO/Repeater/Triangulated Fire** is the low-budget mobile Camo/Hidden reveal and utility choice, especially where Morats otherwise have no marker-state defense. **Rasyat Eclipse** or an independent non-MSV ranged attack is better if the opponent's premium MSV must be *bypassed*; do **not** assume Morat Warhorse neutralizes MSV, Mimetism, or White Noise. **Counter:** an all-Yaogat gun screen is vulnerable to enemy White Noise/Albedo; preserve a separate plain shooter, screen and Engineer.
+
+[Cross-game anti-tech N5.3 apex/value tiers, matchup selection and checked opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
