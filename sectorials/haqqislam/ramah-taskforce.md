@@ -881,3 +881,9 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Kameel8 Baggage/Repeater** is low-cost logistics and Regular Order; **14/.5 EVO** improves legitimate active REM/CJ situations through supportware, *not ordinary Spotlight*. **Janissary TinBot Firewall** defends only a *legal* team while carrier functions; a solo Hacker/REM elsewhere is not protected. **Maghariba Baggage and other TAG tools** are potent as an offensive resource and reloader but don't make the TAG a cost-effective *dedicated* support purchase. [Full force-multiplier guide](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Rafiq FO/Sensor/Triangulated Fire13/0** cheaply reveals **Camo/Hidden** inside ZoC; **Carmen+Bâtard17/0** adds a fast Sensor route through synchronized Bâtard. **Yara Haddad MSV2 AP Marksman24/0** is inexpensive direct anti-Mimetism, **Mukhtar MSV2 Red Fury34/1** a mobile high-Burst cleaner, and **Khawarij MSV2 Mk12/NCO38/0** trades cost for durable movement/command utility. **Khawarij CoC+Disco33/0** or other exact Eclipse carriers bypass enemy MSV/Marksmanship instead of fighting it. **Tradeoff:** Rafiq can Discover many markers for 13pt, whereas paying 34pt Mukhtar to search rather than shoot often wastes its damage ceiling.
+
+[Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
