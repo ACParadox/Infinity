@@ -1,5 +1,7 @@
 # Hackers, Killer Hackers and hybrid programs — N5.3 cross-faction tier guide
 
+**Projection companion:** [N5.3 Network Projection apex/value — Pitchers, Repeaters, TinBots, fast/airborne carriers](network-projection-repeaters-pitchers-apex-value.md). This page ranks the actual **Hackers and programs**; the linked guide ranks **how to deliver Hacking Area** and whether a 10–22pt projector, 7pt native bot or Turn-0 Infiltration node is worth the setup Orders and danger.
+
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
 **Scoring-specific companion:** [N5.3 Mission Specialists and Button Pushers](mission-specialists-and-button-pushers-apex-value.md) compares **Asura, Deva, Danavas, Tuareg, Dokkaebi, Razor, Ninja, Jazz and basic HD/KHD troops** by ability to *physically reach and survive* objectives, not merely by Trinity/Oblivion efficiency. A backline apex Hacker is not necessarily the best turn-three button runner.
