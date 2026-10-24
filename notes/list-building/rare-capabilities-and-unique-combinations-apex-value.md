@@ -1,5 +1,7 @@
 # Rare Abilities & Unusual Combinations — N5.3 Apex / Points Value / When They Matter
 
+**Role-specific multi-body supplement:** [Peripherals/Synchronized Multi-Body — apex, value and why](peripheral-synchronized-multibody-apex-value.md) tests **G:Jumper versus real synchronized action compression, Control Spearhead, Cyberplug Autonomous, Drummer double FO, Puppetactica, Chimera Pupniks, Fiddler JackBots, and Coyote BambaBots**. Correctly costs all purchase dependencies and preserves divergent transcript opinions.
+
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
 **Rare mechanics in scoring missions:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) applies G:Jumper, Synchronized FO/Peripherals, Camo and Shasvastii Embryo, Eclipse, Transmutation, and enhanced Immunity to **surviving an opponent turn and controlling a final Supply Box**, rather than only extraordinary gun/CC ceilings.
