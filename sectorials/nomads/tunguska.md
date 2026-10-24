@@ -18,6 +18,9 @@ coverage: "Standard Tunguska roster, standard loadouts, canonical Fireteam chart
 
 ## Overview and provenance
 
+**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](../../notes/factions/nomads-must-have-go-to-avoid-source-audit-2026.md). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
+
+
 Repository-native reference for **Tunguska** roster, profiles, points/SWC, AVA, and Fireteam access.
 
 For concise transcript-reviewed tactics, Fireteam/list-building roles, **Szalamandra and Anaconda TAGs, Go-Pod VH, REMs** and explicit opposing opinions, see [Tunguska — N5.3 Tactical and List-Building Guide](../../notes/factions/tunguska.md). **This reference remains authoritative** for current profile costs, options, dependency rules and Fireteam legality.
