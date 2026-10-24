@@ -167,3 +167,9 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 **Guided apex/controversy:** **Moran Repeater15/.5 ×2 + Jazz HD+22–25/.5 + Vertigo16/1.5** uses **3 SWC** before a main gun; its turn-zero network works even without missiles. Tactical Awareness S3E23 favors missile area denial but critiques excessive Spotlight/Save/Reset/Dodge rolls. **WIP12 E208 (2026)** stresses new Surface/Deepspace direct guns make old 'mandatory Vertigo' doctrine obsolete. Missile only when network would already be useful.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**TinBot:** Mobile Brigada **33/0 Firewall(-6)** is premium teamwide anti-hacking; **Evader 23/0 Firewall(-3)** is lower-cost Deepspace link protection and can score, whereas 35/1.5 Engineer+AP Spitfire is a different loadout. **Shifta 17/0 Strategic Deployment** brings its *legal Surface* team +4″ at setup and remains a scoring/minelayer body. **Salyut8/0 Baggage** buys cheap Regular+Repeater/reload; **14/.5 EVO** only where Vostok/REM/AD actively benefits. **Vigilante25–29 Counterintelligence** is contested: WIP12 E208 values Shifta but sees premium Vigilante as hard to justify over 15pt Moran; its FD is not Infiltration. TAG-Treiber11–12 supports same-group TAG only by exact printed bonus.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
