@@ -884,3 +884,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Thorakitai12 E/Mitter** (when legal exact profile), **K2 Auxiliary11 E/Marat**, **Artalis23 K1 Combi+Engineer**, **Kinnara24 Eclipse+Monofilament Parachutist /25 infiltrating E/M Mine+Mono**, and **Naga26 Monofilament Minelayer** offer layered anti-TAG control. **Johnny Kao36 Monofilament Mine** adds high-cost engineering and forward denial, not automatic instant TAG death. The very cheap E/M weapons have better points ratio; Kinnara's legal arrival/ROUTE is crucial before Mono contact. [Non-hacking anti-TAG/HI apex/value and target matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Profile difference (critical):** **Samekh non-FTO Guided Missile16/1.5** converts Danavas/Asura/Pilot-X/RacerBots/Daleth target marking into off-angle threat; **Samekh FTO Missile+Flash15/1.5** is a **separate non-Guided** Fireteam gun. Do not merge their equipment or claim a +1 Special Die for a non-FTO Guided platform. Asura/Marut may be better consuming Orders in active shooting if Targeted setup is contested. [Indirect fire guide, media debate](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
