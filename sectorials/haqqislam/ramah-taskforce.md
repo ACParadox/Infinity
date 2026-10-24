@@ -867,3 +867,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Ghulam12 Panzerfaust** and **Beasthunter9 Panzerfaust/HFT (15 Camo+FD)** give cheap lethal threat; **Burkut26 SMG+E/Marat(+1B)** is harder-to-ignore electronic denial and **Hortlak31 K1 Marksman** repeatable armor-ignorant shot. **Haytham29 HSG+Panzerfaust VH** attacks flanks but risks Aerial exposure; **Maghariba72 TAG E/M Carbine(+2B)** buys far more than anti-TAG utility. Count physical reach/return fire and time until opponent's Engineer. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Split alternatives:** **Shaytaniyah16/1.5 Guided Missile** uses Valerya/Leila, Hunzakut/FO and Repeaters; **19/1.5 Missile(+1B) is NON-Guided in this pinned Ramah reference**. **Al Fasid50/1.5 HMG+GL+Smoke GL** and **Maghariba71/1.5 HMG+GL** can make speculative attacks if weapon/range support them, but are expensive full attackers, not purpose-bought B1 lobbers. **Ghulam NCO15/1 GL+Smoke** spends a relevant LT Order on other utility. [Cross-game indirect guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
