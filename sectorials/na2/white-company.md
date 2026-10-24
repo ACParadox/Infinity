@@ -802,3 +802,9 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 **Anaconda59/1.5** (STR3 ARM7 Warhorse TacAware/Transmutation) is very cost-effective **59VP quadrant swing**; only its **Operator alternate state is Specialist Operative**, not an ordinary TAG pickup. **ORC Hacker33/.5** W2 ARM4 is actual durable Specialist where selected; **Hǎidào Engineer25/0** NWI/Shock Immunity provides cheap recovery and box scoring, **KHD22/0** another close carry/hacker option. **Nøkken Hacking Device27/.5** Mimetism(-6)/FD+20 creates concealed approach but cannot carry as a Marker. **Scarface/Cordelia** is a paid pairing: engineer keeps armored zone denial active; don't count them as single 40pt holder. **Counter:** heavy Anaconda loses more objective tempo if opponent bypasses its firing lane; independent Hǎidào plus second cheap scorer can defend two quadrants.
 
 [Cross-game holding and carrier apex/value, scenario rules and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Use pinned local roster/Fireteam chart.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Pathfinder FO/Sensor14/0** and **Blocker Sensor/Biometric** are cheap **Camo/Hidden vs Impersonation** choices with different rules: Sensor sweeps ZoC Camo/Hidden, Biometric improves legal IMP-1 Discover. **Nisse MSV2** or **Hǎidào MSV2 sniper** is the *kill the Mimetism sniper* package; **Señor Massacre Eclipse** passes an enemy visor lane without a gunfight. **Counter:** Varangian ordinary Smoke still loses to hostile MSV; White Company Varangians are **Irregular**, unlike certain other rosters. Multiple MSV AROs invite White Noise/Albedo: preserve a non-visor gun or screened route.
+
+[Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
