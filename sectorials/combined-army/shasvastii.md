@@ -598,3 +598,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Caliban FO26/0, Engineer28/0 or CoC29/0** compress Camo/FD+20/Protheion/MA3/CC23 with a **profile-specific** objective, repair or command job. **MSV1 Spitfire36/1.5 is a DIFFERENT combat-only loadout.** 2026 tournament evidence supports multiple independent Caliban plus a conventional ranged gun, while one 1W Caliban left exposed remains vulnerable. **Sheskiin** is better direct combat but not a hacker/scoring specialist. [Cross-game toolbox tiers](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Caliban Camo+FD(+20)+MA3+Protheion BSG24/0** is the rare *shoot/ambush first, then CC-feed* piece; if you need another useful job choose **Engineer28/0, CoC29/0, FO26/0**. Feeding heals or gains up to **+2 VITA** from **legal CC wounds on VITA targets**, not STR or shooting. **Sheskiin MULTI Rifle48/0, Red Fury50/1** combines BS15, 15-10 MOV, Nanoscreen, 2W and Protheion for an apex snowball but wants a safe exit and several useful combats. **Gwailos HRL+MSV2+Albedo(-6)39/1.5** uniquely attacks visors and camo with Nanoscreen; **44/1.5 HMG lacks HRL profile's MSV2**, don't merge. **Real debate:** TA early-N5 lists skip Caliban for easier Shrouded/Speculo; MetaChemistry 2026 event winner used multiple Calibans and fed a victim to reach VITA3; a specific success, not universal autopick.
+
+[Cross-faction rare abilities apex/value, mechanics, and MCP source debates](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Current roster/Fireteam profile tables above are authoritative.
