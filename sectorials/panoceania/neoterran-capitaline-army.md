@@ -749,3 +749,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **NCA has no rostered Oniwaban/Fiday-style dedicated CC assassin.** **Aquila Guard52/1.5** is a BS15/MSV3 gunfighter with **CC15**, not a sword specialist; **Blade-Ops20** (CC16) and Bolts (CC16) solve corners with shotguns/mines rather than serious melee. **Counter-CC:** screen valuable Aquila/Swiss/REM with cheap bodies, mines and layered AROs; kill incoming markers at range or by Discover/Sensor rather than rolling against MA4/Monofilament at base contact. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Blocker Specialist Operative Pitcher15/0** is one of the cheapest **projectors who can join actual Fusilier/CSU teams**; range reliability improves with legal FT bonuses. **Locust KHD/Pitcher27/0 or HD/Pitcher29/.5** brings a tougher infiltrated projector/mission piece; **Auxilia FO+Deployable Repeater15/0** controls a corner by activation alongside synchronized bot. **Peacemaker native Repeater FD(+20)** and **Fugazi7/0** are the physical options; **Maximus Agent FTO45/1 TinBot(Repeater)** extends a legal Fireteam, not an independent Repeater. **Opposing WIP12 NCA:** 27pt active +1B Peacemaker often beats 24/.5 Minelayer for fighting, but passive network/T0 mine is valuable going second.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
