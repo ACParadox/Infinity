@@ -801,3 +801,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Jaguar11 Adhesive Launcher Rifle+Panzerfaust+Smoke** is one of the cheapest dual answers (**IMM-A** versus damage). **Shifta17 E/Marat+E/M Mine**, **Tomcat Paramedic17 Panzerfaust/Parachutist**, and **Vigilante26 E/Mitter/Camo/FD+20** attack close or flank routes. **Territorial Engineer28/0 AP SMG+E/Mitter+Panzerfaust + Tactical Awareness** supplies **three modes and technical scoring**; **Evader32 Feuerbach** offers ranged AP+DA. **Diablo8 Trench-Hammer** remains non-Disposable N5.3; requires actual contact. [Anti-TAG/HI non-hacking apex/value rankings](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Guided network verdict:** **Vertigo Guided16/1.5** behind **Moran Repeater FO15/.5 ×2 + Jazz HD+22–25/.5** is high ceiling, but uses **3 SWC before the primary gun**. Tactical Awareness values saturation and indirect threat; **WIP12 E208 (June 2026)** and a TA co-host warn that Spotlight/Save/Reset/Dodge rolls, spread defenders and newer Surface/Deepspace direct guns make the launcher *optional*, not mandatory. **Vanilla Nomads has Moran AVA1**, not Corregidor AVA2. [Whole-game Guided vs Spec tiers and transcripts](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
