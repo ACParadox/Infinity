@@ -621,3 +621,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Ajax39 FTO vs 45 FD+20** is different legal delivery with MA3, NBW, Berserk, EXP and 2W/NWI; **Eudoros36** is MA4/Mimetism−6 Mk12 assault, **Hippolyta37** brings Super-Jump/Smoke/Berserk/EXP. **Andromeda30 Guard** covers LoF+ZoC around midfield corners; **Myrmidon16** is often the best *supporting* CC value by providing Regular Smoke/Mimetism−6. Opposing view: don't throw a premium melee character into enemy NBW/guard just because it has MA4; shooting the counter-piece first may be cheaper. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Scylla HD+Trinity/Pitcher32/.5 with Charybdis** is a strong multi-vector package: Pitcher plus synchronized close **Repeater + flamethrower**; **FTO Scylla25/.5** has no Charybdis and team legality must be verified. **Thamyris Pitcher/Minelayer/Cybermine21/.5** combines cheap ranged projection and prepaid mine (the **27/.5** option is a distinct profile). **Arjuna KiranBots** provide selected native/Deployable Repeaters behind fast synchronized pressure. **Dispute:** building an expensive hacking network is unnecessary if Phalanx wins through Eclipse/CC and specialists; buy projection only when opponent Hackable/visors make a real program outcome likely.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
