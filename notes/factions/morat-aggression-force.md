@@ -124,3 +124,9 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 - **Core plan:** **Dāturazi Regular Smoke 14/0 + Yaogat MSV2** converts average BS into favorable active FtF; Oznat Smoke GL/Hungries extends the enabling angle. **Sogarat Disco** offers an Eclipse-style route on a much more expensive anchor; **Rasyat Eclipse** arrives from another vector.
 - **Disagreement:** Shepherd favors Yaogat/Smoke over simply stacking wounds on Suryat; Suryat proponents value resilience/TacAware and less reliance on setup. If no one needs to shoot, a Disco/Eclipse crossing may score more cheaply than fighting. [Global tiers](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**T-Drone Guided16/1.5** is a possible payoff once a legal **Dartok Pitcher/hacker + R-Drone** network exists; **Dartok FTO18/.5** (linked) is not the same as **ordinary23/.5** profile. **Competing priority:** Morats often outperform this multi-roll dependency through **Dāturazi Smoke + Yaogat/strong direct shooting, Rasyat backline or melee**, especially when SWC/Orders are tight. Buy T-Drone if hacking and target marking are independently worthwhile.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
