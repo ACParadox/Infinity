@@ -1,5 +1,7 @@
 # Warbands and Cheap Trading Units — N5.3 Apex, Value and Matchup Guide
 
+**Multiple cheap CC bodies are not three independent attackers:** [N5.3 Peripheral and Multi-Body Apex/Value](peripheral-synchronized-multibody-apex-value.md) contrasts **19pt Chimera+3 Pupniks** and **26pt Antipode Handler+3** as **Control** one-Spearhead attacks versus independently ordered Irregular warbands, with Eclipse, Smoke, sensor and template matchups.
+
 _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit win rates.** Profile prices/skills are from this repo's pinned N5.3 (September 2026) [sectorial roster files](../../sectorials/combined-army/morat-aggression-forces.md); faction/sectorial permissions are NOT portable. [Impetuous](../../rules/5b_Special%20Skills/Impetuous.md), [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md), [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md), [Berserk](../../rules/5b_Special%20Skills/Berserk.md) and [Warhorse](../../rules/5b_Special%20Skills/Warhorse.md) govern rules, not dated podcast descriptions._
 
 **Existing strategy, preserved:** [Cheap midfield/support](cheap-midfield-and-support-troops.md), [Impetuous + Irregular sequencing](impetuous-and-irregular-troop-sequencing.md), [Trading and attrition](trading-and-attrition.md), [CC and short assault](close-combat-and-short-range-assault.md), [Enemy-DZ attack profiles](airborne-and-enemy-dz-attackers-apex-value.md), [Anti-warband DZ architecture](dz-strikes-and-dz-defense.md).
