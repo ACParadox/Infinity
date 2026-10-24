@@ -898,3 +898,9 @@ Use current Army / official Fireteam charts as the authority for exact legality;
 **Quinn FO/Disco26** is a true linked/wildcard specialist plus LoF tool where a physical objective approach beats head-on Kamau shooting. It is **not** Chain of Command. Counter: extra Kamau/ORC and cheaper separate specialists can do more on open maps if Disco is never used.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Speculative** from **Squalos Mk-II HMG+GL62/1.5** helps remove hidden support when its HMG remains the main attack plan; **Clipper Guided16/1.5** is a separate Spotlight/Reptr/FO payoff, **not** the FTO+1B launcher. **Counter:** a fast scorer/TAG/Kamau gun can be a better SWC and Order investment than a dedicated multi-roll Guided engine. Rate the complete spotter/network, not just cheap missile.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
