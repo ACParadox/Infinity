@@ -1,5 +1,7 @@
 # Mission Specialists / Button Pushers — N5.3 Apex and Points-Value Tiers
 
+**Holding the result, not just pushing:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) ranks **survival through the opposing turn**, box control, 19pt Teutonic/21pt Hollow Man/31pt Karakuri value, TAG zone swings and why a Hidden/Camo retriever becomes visible after picking up a box.
+
 **Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
 
 **Multi-body/rare-skill scorer supplement:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) distinguishes **Posthuman Mk.1+Mk.5 two-location specialist/one Order**, **Coyote FO + separately purchasable BambaDroid FO**, **Sirius FO + non-FO Repeater bot**, **Drummer FO + synchronized Drumbot-5 FO (both have FO, legal dual-target FO in one Order)**, and **Eclipse/vertical-access Shikami/Kinnara**.
