@@ -626,3 +626,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Dartok FTO SMG+Pitcher+E/M Grenades hacker18/.5** is an excellent **cheap linked** network projectile when actually in a legal Morat/Tarlok team; **ordinary Dartok23/.5** has different package/FT access. **R-Drone7/0** Regular Flash/Repeater, **Ikadron11/0** Baggage/Repeater+LFT, **M-Drone FO/Sensor/native Repeater** are budget move-and-hack nodes. **Morat Warhorse/LoL resilience** does *not* confer cyber resistance to Hackable REMs. **Counter:** Fireteams packed with Hackable units and no KHD defense can expose an entire attack plan through opponent Repeaters; retain a direct assault/scorer instead of overbuilding Guided.
 
 [Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Rasyat BSG25/0** combines **Combat Jump/Parachutist(DZ) + Eclipse + MA2/NBW/DA CCW + Warhorse** to land then mask the next advance, potentially better than a simple airborne gun against visors. **Morat Morat/Warhorse LoL resilience** is an army-level rule package, not a rare ability unique to a particular Rasyat profile; don't value Rasyat as providing it to everyone. **Eclipse Grenades and Spitfire34/1.5 or E/M Carbine31/0** are separate Rasyat loadouts. **Opposing:** strong alpha strike with safe entry warrants 25pt, but where DZ is heavily screened a 14pt Dāturazi Regular Smoke+CC / more Orders can outperform off-table delayed Rasyat.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
