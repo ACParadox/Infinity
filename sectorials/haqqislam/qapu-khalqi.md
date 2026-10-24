@@ -872,3 +872,9 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **QK dual artillery:** **Druze Grenade Launcher+E/M GL24/1** pressures a hidden troop with physical/electronic effects (ordinary Speculative attack, not Targeted); **Shaytaniyah Guided16/1.5**, plus current QK **19/1.5 +1B Guided** alternate, depends on Laxmee/Druze Pitcher/Al Hawwa' FO network. **N5.3** still requires Spotlight's failed Saving Roll and a subsequent B1 missile; the direct shot, Kuang Shi-style Order economy and mission specialists may outperform overbuilt network. **Profile variations across Ramah/QK are authoritative here.** [Tiers](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Odalisque Paramedic21/0** = cheap **NWI/Sixth Sense/close Pulzar** specialist and legal Qapu link anchor for a **covered box**, compared with ordinary **19/0 Odalisque** which lacks Paramedic; use Riotstopper/Disco variants for *physical zone defense*, not to invent specialist. **Azra'il AP HMG37/1.5 / Feuerbach41/1.5** ARM5/W2 gives VP zone anchoring and anti-ARO gun but cannot pick up ordinary Supplies. **Shakush56–58/1.5** in legal Zırhlı team becomes a protected TAG swing, not carry specialist. **Rafiq FO/Sensor+Repeater13/0** is budget scorer on button tasks; STR1 makes poor exposed terminal box holder. **Counter:** Qapu linked team can dominate one corridor; opponents with template/Eclipse may bypass, so put an independently protected 21pt Paramedic behind the zone.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
