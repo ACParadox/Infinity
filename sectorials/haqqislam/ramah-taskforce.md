@@ -863,3 +863,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 **Valerya Gromoz19/.5** is a cheap HD/Pitcher + Total Control upgrade **Wildcard** for usable ranged projection; **Rafiq13/0 FO/Sensor/native Repeater**, **Fanous7/0 Flash+Repeater (AVA3)** and **Kameel8/0 Baggage/Repeater** are the excellent Regular foundation. **Hunzakut FO+Deployable Repeater19/0** is **Irregular, AVA1** infiltrated corner placement, not a free Turn-0 Minelayer. **Ghulam13/0** carries a deployable node but places later. **Opposing case:** Ramah often needs 2–3 strong attacks/specialists instead of a stationary cyber castle; against mass non-Hackable troops, cheap Fanous/Rafiq utility is sufficient.
 
 [Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Ghulam12 Panzerfaust** and **Beasthunter9 Panzerfaust/HFT (15 Camo+FD)** give cheap lethal threat; **Burkut26 SMG+E/Marat(+1B)** is harder-to-ignore electronic denial and **Hortlak31 K1 Marksman** repeatable armor-ignorant shot. **Haytham29 HSG+Panzerfaust VH** attacks flanks but risks Aerial exposure; **Maghariba72 TAG E/M Carbine(+2B)** buys far more than anti-TAG utility. Count physical reach/return fire and time until opponent's Engineer. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
