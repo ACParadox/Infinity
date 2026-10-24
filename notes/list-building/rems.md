@@ -1,5 +1,7 @@
 # List-Building Strategy — REMs
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 **Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
 
 REMs should be evaluated by the battlefield role their chassis enables rather than treated as one generic category.
