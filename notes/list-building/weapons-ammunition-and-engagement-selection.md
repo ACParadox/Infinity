@@ -1,5 +1,7 @@
 # Weapons, ammunition and engagement selection
 
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+
 **Current unit-level comparison:** [Active-turn gunfighter apex/value rankings](active-turn-gunfighters-apex-and-value.md) applies these weapon and range-band principles to exact 2026 N5.3 profiles, movement/exit Orders, Fireteams and separate TAG comparisons. This is the **how-to** primer; the linked guide ranks **who to field and when**.
 
 **Current anti-armor unit rankings:** [Non-hacking anti-TAG/HI apex and points value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) applies E/M, K1, AP+EXP, Breaker and Monofilament to *current roster costs, opponents' saving chances, attack delivery, and Engineer recovery*. This file retains underlying engagement theory.
