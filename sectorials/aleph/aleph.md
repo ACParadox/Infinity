@@ -865,3 +865,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **K2 Auxiliary11 E/Marat** (legal FTO variant) and **Thorakitai12 SMG+E/Mitter** are exceptionally cheap *non-hacker* TAG-brick threats. **Sharvara Houndbot15 Adhesive+E/Marat** is versatile short denial; **Thyreos SMG21 Monofilament**, **Artalis K1 Combi Engineer23**, and **Kinnara24 Parachutist Eclipse+Mono / 25 Infiltration Mono+E/M Mine** add actual target access or repeatable ARM=0. **Penthesilea28 Monofilament bike** can reach a flank but isn't a 28pt guaranteed TAG kill. **Maximus** is high-cost gun, separate from cheap control. [Non-hacking anti-TAG/HI apex/value and target matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Vanilla ALEPH:** **Samekh Guided ML16/1.5**, with existing Danavas HD+/Dasyu/Daleth FO and Pilot-X/RacerBot network, is an optional high-impact off-angle attack. Targeted also helps **Marut/Asura direct BS fire**; do not sacrifice the primary gun's active Orders unless missile payoff is likely. **FTO Samekh Missile+Flash15/1.5** is a distinct *non-Guided* legal Fireteam variant elsewhere, not an extra free bonus on the vanilla Guided profile. [Indirect tiers/anti-cases](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
