@@ -1039,3 +1039,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **MO Clipper Guided16/1.5** needs Order Sergeant/Fusilier where eligible, Pitchers, Repeaters and reliably acquired Targeted; do not merge it with **Clipper FTO+1B non-Guided**. The sectorial often gains more from **Teutonic/Santiago/Seraph/linked direct assault** once it has safely moved into position. **Opposing view:** cheap missile permits attack against hidden LT/support if Spotlight ARO is already happening; absent that, 1.5SWC plus setup Orders are a large tax. [Indirect fire tier guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Teutonic Specialist Operative SMG19/0** is an extraordinarily economical **2W ARM3** carrier; be mindful **Impetuous, Limited Cover** and enemy templates/hacking; **Knight of Justice FO41/0** W2 ARM5 BTS9 + linked MSV/Sepulchre support brings a very resilient Specialist and 41 quadrant VP. **Crux Father-Knight47/0 Hidden FD Specialist** adds late-reveal/Albedo/CC threat but expensive and loses Marker safety with box. **Seraph TAG72–74/1.5** with 3STR ARM7 Tactical Awareness+NCO, **Tikbalang Montesa68/1.5** 3STR Mimetism/Climbing+/TA are zone leaders but not automatic Supply Specialists; Seraph profile with Auxbot distinct from HMG profile. **Peacemaker+Auxbot23/0**, **Trinitarian FO22/0**, and **Raveneye12/0 Minelayer** create serial approach defenses. **Opposing MO/LoL:** armored Knights can be hard to move off a lane, yet objective movement with small independent Trinitarian/Teutonic often beats one static castle.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
