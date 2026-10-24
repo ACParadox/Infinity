@@ -817,3 +817,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Waverider KHD+Trinity/Pitcher20/0** is a top **zero-SWC linked** cyber/projector hybrid; **Waverider HD+Oblivion(+1B)/Pitcher22/.5** trades extra SWC for anti-heavy control (separate profiles). **Strider Deployable Repeater+Minelayer28/.5** with Camo/FD starts **Turn-0** forward coverage; **Oko15/0 FO/Sensor/Repeater** or **Kyttä7/0 Flash/Repeater** physically push cheaply, and **FuzzBot8/0 Baggage/Repeater** supports equipment. **Moonraker15/.5 is Shock Mine Minelayer, NOT a native Repeater**; don't count its mine as hacking coverage. **Counter:** if Waverider+Strider+Millicent Guided consumes resources without Targeted opportunities, a cheap Kyttä/Oko + direct attack plan may win more.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Sonya Lacroix28/0 Albedo(-6)+X-Visor+NCO/specialist and Waverider20–23/.5 Pitcher/cyber** are useful niche mix for fighting enemy MSV and later mission work, but **Sonya is NOT MSV**: avoid combining her Albedo with a different unit's visor. **Strider28/.5 FD+Camo/Minelayer+Deployable Repeater** creates an unusual prepaid network position; **Raptor and Team Sirius cannot be imported from other O-12 rosters**. **Counter:** simpler 7pt Kyttä + Oko sensor/FO and a strong Hellblazer/Jackboot often produces more dependable mission turns than paying for exotic tools with no relevant opponent.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
