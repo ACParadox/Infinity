@@ -1025,3 +1025,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **De Fersen MULTI Rifle42/.5 or Spitfire46/1.5** is an apex combat+hacking toolbox: BS14, WIP14 Hacking Device with Trinity(+1SD), 2W, BTS6, MA3 and Wildcard (counts as Hospitaller). The *LT alternatives* are distinct. He is stronger as a simultaneous fire/cyber problem-solver than a cheap Order Sergeant but expensive if merely pressing a button. **Konstantinos Disco23** is cheaper specialist/vision utility, not an alternative 2W hacker. [Cross-game apex/value tiers and conflicting reviews](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Black Friar 24/0 Thunderbolt(+1B)** combines **MSV2+Albedo(-6)+Combat Instinct** to shoot camo/ordinary Smoke targets while penalizing enemy visor return fire; **27/0 MULTI Rifle+Drop Bears+Biometric/Discover(+3)** is a **different profile** for DZ anti-Impersonation; 22/1.5 HRL is conditional ARO. **Trinitarian FO22/0 Hidden/Infiltration** is often higher mission value than buying a rare visor gun; **Crux Father-Knight Hidden+FD Albedo+NBW/Specialist** is a premium counterattack and *FTO* versions differ (no same hidden package). **Opposing value:** use a 24pt Friar when opponent MSV/camo threatens Knight approach; otherwise a 7pt Fugazi and another mobile Knight or Trinitarian can do more.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
