@@ -1013,3 +1013,9 @@ The main modern NCA insight is:
 **Clipper Guided16/1.5** can use NCA's **Fusilier/linked hacking and Fugazi/Pathfinder/Peacemaker Repeater/FO** but requires real Spotlight setup and spare SWC; its **FTO +1B Missile** is a different *non-Guided* role if present. **Squalos Mk-II HMG+GL62/1.5** is a strong active shooter with supplementary Speculative capability. NCA's Swiss Guard/Aquila conventional gun and command alternatives may offer greater value without multiple setup/save/Reset stages.
 
 [Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Mulebot8 Baggage/Repeater and14/.5 EVO** compete on incremental effect: EVO only when a serious Rui Shi/Bulleteer/other eligible REM or Combat Jump is in use. **Tech-Bee TAGCom9** benefits same-group Squalos/other eligible TAG with printed Dodge/recovery bonus; requires actual NCA roster. **Maximus FTO TinBot(Repeater)45/1** creates shared Fireteam network where chart allows. **Crux FTO Strategic Deployment** in other PanO doesn't establish NCA access without its own exact source row.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
