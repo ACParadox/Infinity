@@ -1,5 +1,7 @@
 # List-Building Strategy — Hacking and Network Projection
 
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+
 **Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
 
 ## Hacking is hacker quality multiplied by network quality
