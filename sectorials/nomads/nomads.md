@@ -931,3 +931,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Vanilla nominal network:** **Moran Repeater+Koala FO15/.5** is exceptional forward Turn-0 coverage, but **AVA1** (CJC has 2). **Moderator Pitcher10/0** is cheap Regular Order + 2-shot projector, unlinked **BS10** is shaky; **Jazz+Billie25/.5** combines HD+/Trinity/Pitcher with two Regular Orders and Billie Repeater; FTO Jazz22/.5 lacks Billie. **Meteor19/0** delivers a *native* Repeater by Combat Jump/Parachutist; **Transductor7/0** is a cheap Regular native-Repeater kamikaze option. **Tsyklon FTO Pitcher26–29/1 has NO vanilla Fireteam access** solely from its FTO label. **Dispute:** cheap versatile Vanilla network versus linked Tunguska special-die efficiency; save SWC for actual attacks when Guided is weak.
 
 [Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Vanilla Puppetactica**: **11pt Puppet Master + 9pt FO PuppetBot** is a **20pt+ Control/Transmutation specialist package**, not a 9pt standalone model/Order. **Chimera+3 Pupniks19/0** has rare **Eclipse+Viral CC+NBW/Climbing+** with synchronized forks but Impetuous/no Cover risks. **Coyote+attached BambaBot** versus **Coyote27+independent BambaDroid FO13** are completely different structures (latter roster-dependent and cannot assume AVA/FT from CJC). **Opposing:** puppet/Überfall bundles can improve physical board control without Guided, but adding them atop Jazz/Moran/Vertigo and TAGs may crowd out 10–15pt Regular Order support.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
