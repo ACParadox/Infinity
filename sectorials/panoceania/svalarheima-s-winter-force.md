@@ -755,3 +755,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Kyle Hawkins32/0 CC23/MA3/2W** is the practical **mobile close-range fighting specialist**, with MULTI Marksman/Pulzar to open an approach. **Hospitaller Knights** and **Knight of Justice** (CC22–23/MA2) bring 2W melee insurance but need legal Fireteam delivery. **Kunai28 Hidden/MA3** lacks Oniwaban Monofilament/Infiltration target execution: primarily an ARO sniper. For **Jotum/expensive WinterFor guns**, screen with ORCs/Karhu and mines rather than asking CC15 ORCs to duel an enemy MA5 assassin. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Fugazi7/0 native Repeater**, **Mulebot8/0 Baggage**, and **Pathfinder FO/Sensor/Repeater** are cheap Regular Order/network foundation; **Peacemaker native Repeater with FD(+20)** brings an already-forward zone plus optional Auxbot/Minelayer. **Nøkken Camo/FD utility** can build further network only on profiles carrying correct Deployable Repeater; **Bulleteer native Repeater** is a gun-platform bonus, not an excuse to sacrifice a 20+pt shooter as a disposable 7pt bot. **Counter:** WinterFor's strong gunfight plan often prefers just Fugazi/Pathfinder rather than spending SWC on a Pitcher team or assuming off-roster tech.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
