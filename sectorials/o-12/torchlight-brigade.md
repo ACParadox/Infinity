@@ -827,3 +827,7 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9 Panzerfaust+HFT**, **Raveneye12 E/Marat+E/M Mine**, **Hellblazer19 Blitzen+EXP CC**, and **Jackboot Paramedic21 Panzerfaust** are cheap anti-TAG deterrents, but need a winning angle. **Kludger Engineer23 Panzerfaust** combines lethal shot and recovery utility, **Jackboot FO26 Thunderbolt(+1B)+E/M Carbine** reusable electronic shutoff, **Nimrod FTO29/.5 AP Marksman+E/M Carbine** the higher-cost AP shooter. **Firebat35 Akrylat+Blitzen Aerial** should not be conflated with a ground soldier in Cover. [N5.3 non-hacking anti-TAG/HI value by carrier](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Torchlight Millicent Guided16/1.5** needs **Waverider HD/Pitcher + Kyttä/Oko/Fuzz repeaters, actual Spotlight and Orders**. Some reviewers appreciate an off-angle answer protecting Wrecker/Prime; others object to spending 1.5SWC plus program infrastructure when the army's elite guns/rapid specialists already cover missions. **Waverider KHD+Trinity** does not automatically add Spotlight without a printed upgrade. [Cross-game indirect guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
