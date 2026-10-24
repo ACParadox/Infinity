@@ -83,3 +83,9 @@
 
 - **Budget movement first:** **Dynamo AP Spitfire + Paramedic Duo 41/1.5** can provide fast Smoke, firepower and scoring across separate angles; Dog-Warrior/Polaris and Irmandinho offer other Smoke/close threats. **Mul Baggage** improves Disposable reload plans when positioning allows.
 - **Not the same as MSV smoke-shooting:** Ariadna often uses Smoke to move nonhackable attackers, not to enable an elite MSV2 sniper. Against MSV defenders use flanks, mines, alternative gun types and scoring pressure. [Apex/value vision guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Value:** Traktor Katyusha **9/1** is a cheap Guided payoff *only* when a Chasseur/Strelok/SAS/other FO already marks targets. **Dog-Warrior PH-based Speculative**, Carmen+Bâtard grenades and Kuryer where available work **without** target-state setup. Against dispersed nonhackable lists, an expensive Hacking→Guided plan can do very little (Shepherd's 2026 CanCon account); count Range/Setup/Reset/Orders.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
