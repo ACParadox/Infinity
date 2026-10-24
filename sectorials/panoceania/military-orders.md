@@ -1035,3 +1035,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Raveneye12 E/Marat+E/M Mine** threatens immediate electronic control if a TAG crosses the defended lane; **Crosier12 Blitzen** offers low-cost distance, **Teutonic18 Panzerfaust** adds 2W/MA2 if the attacker reaches a covered angle. **Hospitaller26 E/Mitter** is reusable linked control, **Holy Sepulchre53 AP HMG** is the higher-price lethal gun. Distinguish E/M status from destruction; avoid paying for a Seraph TAG solely to counter another TAG. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**MO Clipper Guided16/1.5** needs Order Sergeant/Fusilier where eligible, Pitchers, Repeaters and reliably acquired Targeted; do not merge it with **Clipper FTO+1B non-Guided**. The sectorial often gains more from **Teutonic/Santiago/Seraph/linked direct assault** once it has safely moved into position. **Opposing view:** cheap missile permits attack against hidden LT/support if Spotlight ARO is already happening; absent that, 1.5SWC plus setup Orders are a large tax. [Indirect fire tier guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
