@@ -826,3 +826,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Magistrate17/0 or LT19/0** has **FT Master(Jackals)**, Counterintelligence, specialist utility; LT19 adds Strategos1. Only legal linked Jackals become **Regular**, and the bracketed team depends on Master's presence. **Tech-Bee9/0** supplies TAGCom **Dodge PH+3/GizmoKit PH+1** to *same-group* TAGs, not Redeye VH; **Mulebot8 Baggage versus14/.5 EVO** requires actual expected Supportware. **Maximus FTO45/1 TinBot(Repeater)** spreads Repeater to valid Fireteam; no Firewall. **Crux FTO Strategic50/0** moves legal link +4″ forward, but Irregular Order #52 says 46pt FTO may be preferable if placement doesn't improve. [Full tier/counter-case](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Drummer FO+Drumbot-5 FO21/0** is the best *two genuine Specialist origins/one Order*, plus HFT bot; **47/1 FO+Drumbot-1 or3 gun+FO bot** creates **3 synchronized bodies** but owner is W1/ARM1 and 47VP lost if controller removed. **40/1 MULTI HMG**, **42/1.5 HRMC**, **40/1 Feuerbach Neuro** Drummer options are alternate profiles, not cheaper 21pt dual FO. **Peacemaker23/0 HSG+Auxbot** 2-body native Repeater/FD+20 fork, **24/.5 Minelayer** adds prepaid mine, **27/0 BSG+Auxbot** active assault; **23/0 BSG(+1B) has NO Auxbot**. **Squalos/Tikbalang Crabbot Ancillary** requires active deployment, not free starting troop. **Shepherd/Dante views:** 21pt Drummer obvious value, 47pt triple-body intriguing but vulnerable to one kill on Drummer; Peacemaker is often better when mission needs guaranteed Turn-0 threat.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
