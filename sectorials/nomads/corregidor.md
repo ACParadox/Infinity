@@ -805,3 +805,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Guided network verdict:** **Vertigo Guided16/1.5** behind **Moran Repeater FO15/.5 ×2 + Jazz HD+22–25/.5** is high ceiling, but uses **3 SWC before the primary gun**. Tactical Awareness values saturation and indirect threat; **WIP12 E208 (June 2026)** and a TA co-host warn that Spotlight/Save/Reset/Dodge rolls, spread defenders and newer Surface/Deepspace direct guns make the launcher *optional*, not mandatory. **Vanilla Nomads has Moran AVA1**, not Corregidor AVA2. [Whole-game Guided vs Spec tiers and transcripts](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Gecko Vulkan49/0** is exceptional **49VP of 3STR/ARM6** with Tactical Awareness and 0SWC, 54–55/1 gives stronger range; **Gator73/1.5** 3STR/ARM8 is premium central counterattack/zone but not ordinary box Specialist. **Sombra FO29/0** Camo/FD+20/NWI/Climbing+ is excellent *box retrieval/vertical escape*, but **cannot re-enter marker state carrying Supplies**. **Mobile Brigada HD36/.5** W2/ARM5 360º/Firewall is tougher specialist carrier where source-legal link works; **Moran FO/Repeater15/.5** is superb 0-Order zone guard and eligible FO but W1/ARM0 **not your exposed final carrier**. **Coyote FO27/0 + BambaBot** defends two angles, whereas **independent BambaDroid FO13/0** requires Coyote same combat group. **Opposing:** better 2 independent scoring pieces than 2 expensive Gecko if mission is picking boxes rather than raw zone points.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
