@@ -1216,3 +1216,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Kibervolk** has rare **Sensor + Biometric Visor**: Sensor clears eligible Camo/Hidden *within ZoC*, Biometric improves legal Discover versus IMP-1; neither is automatic universal detection. **Wardriver Disco Baller16/1** is a true anti-enemy-MSV/Marksmanship **Eclipse** crossing, while **Varangian Smoke10/0** efficiently masks ordinary fire but not MSV2. **Decision:** if the opponent deploys marker/IMP attackers, use Kibervolk to guard their approach; if an elite visor blocks an objective, spend Disco/setup Orders or find a covered fast flank. Avoid paying both packages when ordinary Smoke and mission route suffice.
 
 [Cross-game anti-tech N5.3 apex/value, mechanics, matchups and checked conflicting transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Polaris Team Alpha32/0 = Masha9pt + Bearpode23pt and TWO Regular Orders**; **Beta40/0 = Masha9 + Bearpode31** also 2 Regular. **Not Peripheral(Synchronized/Control)**; you can move/attack either as genuinely independent unit in same Combat Group, unlike Antipode pack. **S.A.S. FO21/0** or local mission Specialist must do objective interactions—Bearpode doesn't automatically inherit it. **Kazak Doctor +2pt Remontnikbot Servant** (if legal source option) allows wide recovery while Controller hides, *not additional Regular Order*. **Contrast:** 26pt Antipode pack is *not automatically imported from Vanilla/TAK* into Kosmoflot just because it has SAS/Polaris; Kosmoflot's 32pt double-Order Bearpode duo wins hard target pushing but exposes many points to heavy AROs.
+
+[Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
