@@ -834,3 +834,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Hǎidào KHD+Pitcher22/0** is the strongest *value* projection in IA: anti-Hacker and ranged Repeater from a **legal Wildcard** alongside Zúyǒng/Wu Ming link plan. **Krit Kokram FTO-2 Deployable Repeater+Minelayer37/0** starts a forward node via FD(+20) but **FTO-2 restrictions differ from ordinary FTO**; never grant a legal team spot by label alone. **Zhēnchá FO+Deployable Repeater31/0** builds forward from Camo and scoring. **Pangguling8/0 Baggage/Repeater**, **Wèibīng Sensor/FO/Repeater** and **Chaīyì7/0** are budget Regular alternatives. **Counter:** a premium HI team with too much hacking network may expose all its valuable Hackable models; allied TinBot Firewall protects, it does **not** create coverage.
 
 [Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Léi Gōng where legal** gives **Albedo(-6)+MSV1+Super-Jump+NWI**, and its FTO/CoC/Parachutist choices must be kept separate; evaluate use as late-reveal anti-MSV cleaner and command scorer rather than generic gun. **Hǎidào KHD+Pitcher22/0** is ordinary but exceptionally cheap linkable cyber/anti-hacker role compression; **Qiang Gāo Warhorse+Immunity(IMM-B)+ECM(-3) and BS Attack(-3)** uniquely survives a different set of hacker/E/M counters. **Counter:** none makes a 2W HI Fireteam immune to hacking; one protected KHD/TinBot plus active HMG usually outperforms piling on every rare protection.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
