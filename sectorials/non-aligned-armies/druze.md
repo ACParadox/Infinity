@@ -826,3 +826,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Druze** is a hacking/Repeater/mine/adhesive and short-range-ambush package, **not** a roster with a 29pt hidden Monofilament specialist. **Libertos8 Camo(1 use), FD+20 and Dogged** is a low-cost *template/trade* unit at **CC16**, not a true assassination duelist. **Scarface** brings **CC22 Berserk(+3)** but as part of a 76–80pt **TAG+Cordelia** composite, with very different melee risk and objective cost. Disable an enemy CC monster using Valerya hacking/E/M, mines and Brawlers before seeking physical contact. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Táowù19 E/Marat** is the most economical verified direct *electronic shutdown* in the Druze pinned roster; **Druze21 Panzerfaust** offers affordable AP+EXP lane denial. **Libertos8 Camo+Dogged** is a short-range trade screen, *not* inherently anti-TAG ammo. **Scarface & Cordelia76 AP HMG/Panzerfaust** or **Triphammer48 Panzerfaust(+1B)** are higher-cost TAG categories. Focus an enemy TAG's Engineer/Orders after disabled, rather than overpaying for a second high-price gun without attack modifiers. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
