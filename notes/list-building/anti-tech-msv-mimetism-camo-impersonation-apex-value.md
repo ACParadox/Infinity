@@ -36,6 +36,7 @@ Related retained work: [vision control](vision-control-units-apex-and-value.md),
 | Tier | Exact candidate | Apex use and why | When *not* apex |
 |---|---|---|---|
 | **S** | **Asura MSV3 + HD+ 63/.5** (ALEPH/OSS rostered) | **MSV3** solves legal Camo exposure, WIP15 HD+ projects White Noise against enemy visors and NWI/ARM5 remains an active gun/specialist | 63pt/hi hackability; huge cost if merely Discovering one 15pt infiltrator |
+| **S** | **Charontid MSV3 Plasma Rifle67/0 or AP HMG70/1.5** (Vanilla Combined Army, exact loadout) | Premium **MSV3** shooter that automatically Discovers visible Camo and can attack eligible Camo markers in its Active Turn; AP HMG option gives a conventional high-end Mimetism remover | Expensive Heavy Infantry; no Sensor ZoC sweep through walls; enemy White Noise/Albedo or better range/LoF can still win |
 | **S** | **Aquila Guard MSV3, BS15 52/1.5** (NCA) | Strong full-range gunfight against Mimetism, plus auto-Discover for visible Camo; best **direct anti-Camo shooter** case | White Noise/Albedo punishes own visor, no Sensor sweep through total cover |
 | **S** | **Marut MSV2 MULTI HMG86/1.5** (ALEPH) | Extremely strong Mimetism/Smoke gunfight, especially with supportive screen; can *remove* an elite visor gun after favorable angle | TAG cost/risk; **not** an MSV3 Camo auto-reveal; White Noise and hacked routes |
 | **S** | **Kriigel Mirrorball21/.5** / **Makaul Eclipse14/0** (Tohaa) | Repeatable no-LoF ZoC Eclipse or cheap Triad Eclipse+HFT: defeat an MSV ARO **without** fighting it | No score/assault follow-up; controller/throw route blocked; cheap normal gun unimportant |
@@ -71,7 +72,7 @@ Related retained work: [vision control](vision-control-units-apex-and-value.md),
 | **A+** | **Black Friar Thunderbolt24/0**, **Satrah KHD20/0 or MSV2 gun24/0**, **Orphan MSV2 gun25/0** | Visor tech counter **and** offensive or specialist job at moderate cost | Check chosen gun/profile and necessary Fireteam |
 | **A+** | **White Banner Yín-Shé22/0** | Albedo(-6) penalizes elite opponent visor/Marksmanship at budget cost | No matching enemy tech = mostly ordinary 22pt troop |
 | **A** | **Varuna Helot FTO LRL/Sensor10/0**, **Morat M-Drone Sensor**, **Starmada Oko Sensor15/0** | Low-impact-cost marker sweep/ARO or score and hunt with regular REM; builds a **second** answer | Irregular Helot versus vulnerable REM; only useful within ZoC and next-turn plan |
-| **B situational** | **NCA Aquila MSV3 52/1.5 / ALEPH Asura HD+63/.5** | Pay when one model must actually win repeated fights and detect visible Camo; high apex not cheap | Massive cost for a task a 10–14pt Sensor often solves |
+| **B situational** | **CA Charontid MSV3 67–70pt, NCA Aquila MSV3 52/1.5 / ALEPH Asura HD+63/.5** | Pay when one model must actually win repeated fights and detect visible Camo; high apex not cheap | Massive cost for a task a 10–14pt Sensor often solves |
 
 ## 3. Use the right counter, not just the highest tier
 
