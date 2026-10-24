@@ -1,5 +1,7 @@
 # Vehicles (VH / Aerial) — N5.3 cross-faction field guide and tier lists
 
+**Rare support and anti-vision unit combinations:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) explains **Apsaras/Pilot-X RemDriver** buffing an eligible REM at deployment, **Léi Gōng/Satrah anti-MSV tools** and **Protheion target limits**. RemDriver is one chosen REM with printed MODs and ends if the driver enters Null—not all REMs in the group.
+
 **Research:** 2026-10-23. **Mode:** ordinary 300-point games. **Roster authority:** the current N5.3 / pinned Infinity Army references in `sectorials/`, not videos. **Coverage:** all **eight VH unit families** currently listed in main-branch standard rosters: **Skyhound, Tarkshya, Redeye, Zeybek, Firebat, Haytham, Go-Pod, Fēiquán**. Sectorial availability and profiles differ; no ordinary Fireteam access is implied by the vehicle classification. **Tarkshya is newer than the October 2025 all-flyer video**: its placement is an editorial extrapolation from the 2026 pinned profile, not a claim that the presenter ranked it.
 
 ## Quick decisions
