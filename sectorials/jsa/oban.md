@@ -764,3 +764,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Atom Aibōt FO+Sensor15/0** is the low-cost Camo/Hidden sweeper; **Tankō19/0 Disco Baller+Deactivator** is far more important when an **enemy MSV** blocks Mushashi/Shikami CC or scoring routes. **Shikami Eclipse** self-delivers across visor coverage, but expensive if one cheap Tankō already protects the objective carrier. **Rui Shi / current legal MSV attackers** are for actually removing Mimetism targets. **Opposing TA/Ōban views:** multiple Shikami can dominate diverse objectives, or compete for the same Order pool; use one premium mover plus cheap Disco and Sensor when second has no independent mission.
 
 [Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Pangguling8 Baggage/Repeater vs14/.5 EVO** amplifies **Rui Shi assisted attack** and restocks expendable Koala/Mine Dispenser stock if the **owner** is in Baggage ZoC. Already laid mines do not rearm. **Ryūken Decoy** copies only permitted marker/visual information and isn't an extra Order, Fireteam member or independent ARO. **O-Yoroi TAG** can benefit only from **eligible same-group TAGCom** if actually purchased; do not import a Shinden-exclusive Mechazoid pilot. [Force multiplier apex/value](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
