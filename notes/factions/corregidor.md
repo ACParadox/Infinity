@@ -161,3 +161,9 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 **Evader AP Spitfire Engineer35/1.5** is a genuine competent gun+WIP13 Engineer+TinBot(-3)/Deactivator toolbox (Dante transcript); **31/1 AP Spitfire Evader is Specialist Operative, NOT Engineer**. **24pt BSG Engineer** is usually better value if the actual job is repairing a forward Gecko/REM. **Gecko+Evader+Stempler** (WIP12 E208) has very high *module* utility, but not a single-model discount; it ties up resources and a legal Deepspace formation. **Coyote FTO KHD+Carbonite23/0** is Surface-only FTO.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Guided apex/controversy:** **Moran Repeater15/.5 ×2 + Jazz HD+22–25/.5 + Vertigo16/1.5** uses **3 SWC** before a main gun; its turn-zero network works even without missiles. Tactical Awareness S3E23 favors missile area denial but critiques excessive Spotlight/Save/Reset/Dodge rolls. **WIP12 E208 (2026)** stresses new Surface/Deepspace direct guns make old 'mandatory Vertigo' doctrine obsolete. Missile only when network would already be useful.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
