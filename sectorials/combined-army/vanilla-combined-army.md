@@ -885,3 +885,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Nourkias48/1** has WIP15 HD (Total Control/Trinity upgrades), K1, CC25/MA4/Protheion, Super-Jump/NWI/NCO and a hacking Specialist role. This is a higher *toolbox breadth* than Sheskiin, but Shepherd prefers Sheskiin for independent gunfighter effectiveness and fewer positional constraints. **Bit & KISS!25/.5** and eligible Caliban are the cheaper projected cyber/mission candidates. [Whole-game guide](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Rare Protheion ladder:** **Caliban BSG24/0** = cheapest practical FD/Camo feeder; **Ko Dali FD34/0 or Combat Jump37/0** adds **MSV2+BS14+Specialist**; **Sheskiin MULTI48/0** buys 2W/BS15 + Protheion combat snowball; **Nourkias HD/Protheion48/1** buys a separate cyber+CC premium. They are **not interchangeable**: pick Caliban to trade VITA, Ko Dali for surprising visor/AD, Sheskiin for repeat ranged attack. **Rasyat BSG25/0 Eclipse+Combat Jump/Parachutist(DZ)** can deploy behind enemy and conceal its *next* movement; still pays deployment/delivery costs. **Overdron Albedo(-6)+TAG Firewall/TacAware** attacks enemy MSV in lanes, but carries **no MSV itself**. **Opposing Shepherd CA/WIP12:** luxury Umbra/Albedo pieces may push out efficient Caliban/Shrouded; against STR-heavy/low-MSV army their rare effects lose value.
+
+[Cross-faction rare abilities apex/value, mechanics, and MCP source debates](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Current roster/Fireteam profile tables above are authoritative.
