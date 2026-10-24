@@ -831,3 +831,9 @@ That sequence captures the strongest repeated insight from the Shindenbutai vide
 **Uran Guided16/1.5** turns Tanuki HD/Pitcher and Robio/Atom networks into a secondary threat; Shepherd argues repeated **Trinity** against an enemy hacker may be more decisive than repeated missiles, and calls the Uran *conditional* rather than core. When Spotlight comes for free as an ARO, missile payoff is excellent; when no targets can be marked, buy a mobile Mechazoid/Shikami/Rui Shi instead.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Metsuke LT22/0** adds Strategos1/Counterintelligence/Holoprojector and is a strong cheap command shell; **23pt LT(+1 Order)** is a *different* profile when there is a practical NCO use. **Shizoku HRL Strategic38/1.5** moves only a **legal Sayō** team forward **+4″**; not +8″ merely because Yamabushi has personal FD. **Taguraidā12 TAGCom** benefits same-group Mechazoid by its actual bracketed PH/GizmoKit bonuses; **Pangguling8/0 Baggage vs14/.5 EVO** helps Rui Shi+mine dispensers if Supportware is used. Shepherd warns paying for strategic deployment can be wasteful on the wrong terrain.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
