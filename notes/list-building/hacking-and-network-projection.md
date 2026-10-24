@@ -1,5 +1,7 @@
 # List-Building Strategy — Hacking and Network Projection
 
+**Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
+
 ## Hacking is hacker quality multiplied by network quality
 
 **Vision-control dependency:** White Noise is useful against **MSV/Marksmanship**, not every enemy gun. A reachable Repeater/Hacking Area and a model that exploits that cleared path are prerequisites for good value. See the [N5.3 Vision Control apex/value guide](vision-control-units-apex-and-value.md) for contrasts with Smoke, Eclipse, Disco Baller and Mirrorball.
