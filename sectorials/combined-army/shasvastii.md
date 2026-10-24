@@ -608,3 +608,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Seed Soldier15/0 Panzerfaust+Chest Mine**, **Tensho16 E/Mitter**, and **Malignos31 Monofilament Minelayer** provide ordinary, electronic and hidden path denial. **Speculo26/1** is the true Impersonation+Monofilament execution specialist; **Noctifer ML30/1.5** threatens a hard TAG ARO unexpectedly; **Gwailos E/M Carbine(+1B)** is a higher-cost repeatable specialist. Engineer/Reset may undo E/M; marker delivery only works if the enemy has not screened its actual TAG base. [Cross-game anti-armor apex/value, E/M and AP+EXP guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**T-Drone Guided16/1.5** complements **Victor Messer/FO/Shrouded/M-Drone** rather than replaces a Noctifer/Gwailo/Sheskiin direct threat. **Nox Grenade Launcher15/1** offers cheap independent B1 Speculative while **Nox MULTI Sniper Guided21/1** is another role-specific profile; do not treat either as the T-Drone's off-board missile chassis. Expensive Spec/Guided plans compete with Shasvastii's independently useful Camo, Protheion and mission pressure. [Whole-game guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
