@@ -790,3 +790,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Oniwaban SMG29/0, Shinobu44/.5** are apex anti-TAG **Hidden/Infiltration/Monofilament** *only if contact route survives screening*; **Hatamoto Plasma34/0 (Mono/E/M CCW)** is tougher 2W counter-CC but lacks Hidden. **Lù Duān20 E/M Carbine+E/M Mine**, legal **Tankō Blitzen/Monofilament** or **Karakuri Panzerfaust** offer non-hacking ranged/control alternatives. Don't rely exclusively on CC: TAG Guard/mines/cheap watchers may make E/M at 8–16in the better choice. [Cross-game non-hacking anti-armor apex/value guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Karakuri FO31/0** is the top practical **box holder**: STR3/ARM3/BTS6/Immunity(Enhanced)/Remote Presence, FO, Chain Rifle+Panzerfaust and 0 SWC; **35/0 MULTI** and **38/0 Mk12** pay for specific shooting, not better carrying. **Shikami42/0** is best at *delivering* the box (Eclipse, Mimetism-6, Climbing+, Super-Jump, 2W); loses Marker protection only where it has marker skills, not relevant here. **Hatamoto34/0** NCO+Nanoscreen is a strong Specialist 2W zone cleaner; **Daiyōkai46/0** NWI/ARM5 adds points but is **not an ordinary box Specialist**. **Opposing WIP12 JSA/Meta winner 2026:** defend Karakuri with an Engineer/nearby screens and use late objective-positioning rather than reckless multi-round fights; 31pt durable FO often beats 42pt Shikami when travel is easy.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
