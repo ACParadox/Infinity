@@ -765,3 +765,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9 Panzerfaust** (or **15 Camo+FD**), **Nøkken22 Panzerfaust**, **Karhu22 Blitzen or E/Marat**, and **Vargar K1 Marksman+E/M Mine26** offer distinct cheap-to-medium TAG responses: range deterring, short electronic trap and repeatable ARM=0. **ORC Feuerbach37/1.5** provides longer lethal control. A **Jotum** is a high-cost TAG target/opponent rather than the value answer to another Jotum. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**WinterFor** favors heavyweight **Jotum** high-ARM TAG zone swing and **Knight Hospitaller/Justice** hard midfield when locally roster-legal, but actual Specialist profile/Fireteam determines Supplies eligibility. **Nøkken FO22/0** with marker and FD is excellent initial box retrieval, not invisible after taking box; **Peacemaker23–27/0–.5 + Auxbot** and **Fugazi7/0** guard pickup square while a separate durable specialist retreats. **Sval command/active pieces** that must fight on first turn should not be pinned indefinitely to a console merely because they have high ARM. **Disagreement (2026 overall faction tiers):** WinterFor's fantastic guns struggle to *translate* cleared lanes into scored buttons; plan 2 specialist routes, not only a Jotum.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
