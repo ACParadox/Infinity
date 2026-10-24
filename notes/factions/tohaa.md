@@ -110,3 +110,9 @@ Also located but **transcripts unavailable** through Podcast MCP: [Loss of Lieut
 
 - **Repeatable Eclipse:** **Kriigel 21/.5 Mirrorball** (no-LoF/WIP/ZoC) or **Taqeul 35–36/0** if the command/Pheroware secondary role pays; **Kaauri 14/.5** and **Igao 26/.5** diversify the approach. **Makaul 14/0** is still the cheaper **Eclipse grenades + HFT + Triad/CC** choice.
 - **Opposing plans:** favor Kriigel for multiple precise repeated corridor closures; favor Makaul when a single advance also needs an HFT/CC deterrent. Mirrorball/Disco are not White Noise and normal Smoke is not guaranteed vs MSV. [Apex/value comparison and videos](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Draal32/0 Dazer or33/0 Viral Mine** is a highly effective forward Specialist/screen/denial shooter (FD20, Mimetism -6, 2W). **Kriigel21/.5** handles repeatable Mirrorball+Eraser but is not the same generalist gun; **Taqeul35–36** adds command. Opposing evaluation: multiple Triad toolbox specialists provide mission resiliency, but too many midline 30pt bodies can dilute the **Sukeul HMG** attack budget.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
