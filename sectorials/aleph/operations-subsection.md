@@ -888,3 +888,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Profile difference (critical):** **Samekh non-FTO Guided Missile16/1.5** converts Danavas/Asura/Pilot-X/RacerBots/Daleth target marking into off-angle threat; **Samekh FTO Missile+Flash15/1.5** is a **separate non-Guided** Fireteam gun. Do not merge their equipment or claim a +1 Special Die for a non-FTO Guided platform. Asura/Marut may be better consuming Orders in active shooting if Targeted setup is contested. [Indirect fire guide, media debate](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Posthuman G:Jumper Mk.1 Engineer13/0 + Mk.5 FO13/.5 =26/.5** excels **distributed scoring positions but one Regular Order**, each Proxy's cost attributable separately by mission VP rules, and only one unrestricted ARO per enemy Order. **Asura HD+63/.5** W2+NWI/ARM5/MSV3 gives hard central box holder with anti-hacker; **Yadu FO27/0** NWI/Warhorse/Albedo(-6) is cheaper and linked where chart permits. **Marut86/1.5** and **Maximus TAG80/1** can flip a quadrant after your Specialists solve console/box; neither automatically picks up normal Supply Boxes. **Opposing TA 2026:** high damage/survival elite vs enough 13pt specialist redundancy; protect actual carrier after first turn.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
