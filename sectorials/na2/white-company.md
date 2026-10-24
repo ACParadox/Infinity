@@ -796,3 +796,9 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9/15 Panzerfaust/HFT**, **Nøkken22 Panzerfaust/FO**, **Kaplan20 Blitzen**, and **Karhu22 Blitzen or E/Marat** are affordable mixed electronic/lethal responses if their legal profile matches the link plan. **Karhu Feuerbach(+1B)** or **Chaksa Longarm Autocannon/ML** gives serious ranged can-opening; **Hawkwood K1 sniper** is an ARM=0 alternate at a meaningful SWC cost. **Cube Jäger15 Monofilament** has higher assassination swing if enemy TAG is accessible via flank. **WhiteCo Varangians12 are Irregular**, not automatic pooled Orders. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Anaconda59/1.5** (STR3 ARM7 Warhorse TacAware/Transmutation) is very cost-effective **59VP quadrant swing**; only its **Operator alternate state is Specialist Operative**, not an ordinary TAG pickup. **ORC Hacker33/.5** W2 ARM4 is actual durable Specialist where selected; **Hǎidào Engineer25/0** NWI/Shock Immunity provides cheap recovery and box scoring, **KHD22/0** another close carry/hacker option. **Nøkken Hacking Device27/.5** Mimetism(-6)/FD+20 creates concealed approach but cannot carry as a Marker. **Scarface/Cordelia** is a paid pairing: engineer keeps armored zone denial active; don't count them as single 40pt holder. **Counter:** heavy Anaconda loses more objective tempo if opponent bypasses its firing lane; independent Hǎidào plus second cheap scorer can defend two quadrants.
+
+[Cross-game holding and carrier apex/value, scenario rules and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Use pinned local roster/Fireteam chart.
