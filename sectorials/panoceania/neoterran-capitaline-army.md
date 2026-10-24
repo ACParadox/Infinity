@@ -777,3 +777,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Aquila Guard52/1.5 MSV3 BS15** is the **apex direct** anti-Camo/Mimetism shooter: automatic successful Discover on eligible visible Camo and active-turn marker shot are distinct from Sensor. **Black Friar24/0 MSV2+Albedo(-6)** instead efficiently attacks opposing MSV/Marksmanship; its **Biometric 27/0** option answers Impersonation. **Blocker Sensor/Biometric** or **Pathfinder14 Sensor/FO** is much cheaper to *identify* a marker, including Sensor around total cover. **Counter:** 52pt Aquila can be blinded by White Noise; non-MSV Squalos/other guns and independent Sensor need to survive.
 
 [Full N5.3 anti-tech apex/value, rules, matchups and transcript disagreements](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Support package:** **Mulebot8 Baggage/Repeater vs14/.5 EVO** (if on current NCA roster); the 0.5SWC EVO is better only when an attacking Bulleteer/REM or airborne troop repeatedly uses Assisted Fire/Controlled Jump. **Tech-Bee TAGCom9** (where rostered) adds **Dodge PH+3/GizmoKit PH+1** to same-group Squalos/Uhlan/etc. **Maximus FTO TinBot(Repeater)** benefits **valid Fireteam members**, never every army Repeater. Avoid buying an unsupported rare-rule carrier rather than a second actual objective scorer. [Tiers and specifics](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
