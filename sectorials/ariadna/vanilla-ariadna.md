@@ -1515,3 +1515,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Conditional artillery:** **Traktor Guided Katyusha9/1, Uragan Guided+Total Reaction14/1**, with 5pt Baggage option separately. Cheap FO (Chasseur/Strelok/other eligible trooper) should score and set Targeted before spending extra SWC on the missile. Dog-Warrior/other PH-grenade models instead attack safely via **Speculative B1** with no Targeted setup. This list has thinner Spotlight/Repeater coverage than Nomads: a dedicated multi-piece hacker network can be worse than durable physical pressure. [Full apex/value comparison](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Objective holders by job:** **Unknown Ranger Specialist/Tactical Awareness39/0** (Mimetism-3, W1+NWI, ARM4, T2, mobile) is a resilient 39VP center; **Veteran Kazak FO36/0** (where roster permits) W1+NWI/Mimetism/IMM-B/Warhorse carries box under cover. **S.A.S. FO21/0** and **Chasseur FO20/0** are inexpensive Infiltration/Camo pickup pieces, but cannot remain markers once carrying. **Ratnik HRL41/1.5 / AP Spitfire46/1.5**, full W2/ARM6/transmutation, gives non-Specialist VP mass to a zone; **Dog-Warrior/Ioann/McMurrough** hold/contest with wounds and Smoke but may be Irregular/Impetuous and normally cannot pick up as Specialists. **Counter:** Ariadna cannot replace good scenario positioning with hacker threats; several separate infiltrating specialists + 5pt Smoke screens often preserve scoring more reliably than one expensive non-Specialist hull.
+
+[Cross-game objective holder and zone-domination apex/value tiers, scenario rules, and opposing transcript reviews](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact profiles/Fireteams above are authoritative.
