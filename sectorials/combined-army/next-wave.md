@@ -724,3 +724,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Achilles AP Spitfire62/1.5 or Plasma63/0** is the **3W CC24/MA4 EXP** fighter who can shoot his own approach and keep attacking; the team costs more and must manage enemy hacking/E/M. **Patroclus35 FTO** contributes mobility/team support and MA3/CC22 as a *secondary* melee body; it is not another Achilles. **Skyhound** wins by aerial firing angles, not CC. **Med-Tech/Slave** supports recovery after retreat; do not fund a 60pt fighter purely to kill one 10pt defender. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Bit & KISS!** supplies native-KISS / pitched / deployable Repeater delivery on the matching profile (check current Next Wave option); **Gearhead FTO hacker+Pitcher19/.5** is a cheap Fireteam-enabled projector with printed Firewall(-6), different from TinBot(Repeater). **R-Drone7/0**, **Ikadron11/0**, **M-Drone Sensor/FO/Repeater** are the inexpensive actual native nodes; **Harbinger KHD+Deployable Repeater17/0** places a node after activation, not a Turn-0 Minelayer unless the exact selected profile says so. **Counter:** do not buy multiple cyber support devices if Next Wave's high-speed direct fire resolves the critical target without hacking; risk of enemy counterhacking rises with exposed repeaters.
+
+[Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
