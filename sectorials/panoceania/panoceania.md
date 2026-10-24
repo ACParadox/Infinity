@@ -874,3 +874,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Teutonic Knight18 Panzerfaust** and **Nøkken22 Panzerfaust+FO** are low-cost AP+EXP answers. **Karhu22 Blitzen / E/Marat** threatens electronic shutdown and **Karhu Feuerbach(+1B)34/1.5** or **Bolt ML24** kills at range. **Camo Naga/Monofilament mine** is a different anti-TAG control. **Maximus** and anti-armor TAG guns have higher apex, but not comparable value to a 12–22pt threat. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**PanO comparison:** **Clipper Guided Missile16/1.5** is a conditional payoff for existing Fusilier HD/Pitcher/Pathfinder/Fugazi networks; its **FTO+1B direct Missile** is not automatically Guided. **Squalos HMG+GL62/1.5** and **Redeye Continuous Damage GL38/1.5** add speculative flexibility to a legitimate main attack; **Redeye Blitzen37/1.5** is a competing anti-heavy investment. TA PanO experiments with FTO direct missile/EVO setups; gun-first players prefer reliable Swiss/TAG guns over sequential Spotlight/save/Guided rolls. [Cross-game tiers](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
