@@ -20,6 +20,8 @@ Related notes:
 
 ---
 
+**Current budget E/M and PARA profiles:** [Non-hacking anti-TAG/HI apex/value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) ranks E/Marat, Carbine, Mines, E/Mitter and adhesive carrier **with pinned cost and attainable contact**, and separates a recovered IMM-B from permanent damage.
+
 ## 1. States attack different resources
 
 Do not treat every disabling state as interchangeable.
