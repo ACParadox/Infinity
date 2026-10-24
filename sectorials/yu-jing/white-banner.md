@@ -843,3 +843,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Dokkaebi 22/0 KHD+Spotlight+Pitcher** combines legal Spotlight/Guided setup and KHD; **HD+Carbonite/Pitcher23/.5** is a separate option for heavier targets. **Fēiquán28/0** has Pitcher, **BS13+1SD**, MOV20-5/Aerial/Sensor but remains S7/No Cover. **Guìláng25/.5 Camo Infiltration Minelayer+Deployable Repeater** gives a guaranteed **Turn-0 midfield node** and **Wèibīng14/0 Sensor+FO+Repeater** / **Chaīyì7/0** move native coverage forward. **Tradeoff:** Haetae Guided HRL/Son-Bae is an optional *payoff*, not intrinsic value of a repeater; enemy KHD/Firewall and target type can make guns/scorers better.
 
 [Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Léi Gōng FTO29/0** combines **Albedo(-6)+MSV1+Super-Jump+NWI**, making a late-game anti-visor/midfield cleaner (Parachutist32/0 or CoC34/0 are separate options). **Yín-Shé22/0** offers much cheaper Albedo(-6)+E/M/Panzerfaust, **26/0 K1 MMR** general hunting or **27/.5 K1 sniper Marksmanship**, but **Yín-Shé has NO MSV**. Pair Yín-Shé Albedo with friendly Shaolin Smoke to punish enemy MSV protecting Smoke lanes. **Opposing Shepherd vs TA:** one sees Albedo as niche except against enemy MSV, other advocates multiple Albedo bodies as a factional skew; avoid paying for six if opponent has none. **Bìxié MSV1+FO+NCO+Super-Jump+Climbing+** is rare mobile *specialist/gun/CC* role compression, not Albedo.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
