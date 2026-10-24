@@ -136,3 +136,9 @@ Additional material consulted: [official May 2026 ALEPH roster additions](https:
 
 - **Vanilla signature:** **16pt Myrmidon normal Smoke + Marut MSV2**, or Hippolyta/Penthesilea Smoke with Asura/other visor attacker. The smoke carrier is cheap compared with the Marut; the **whole package** still risks huge active-turn investment. **Asura HD+ White Noise** selectively blocks enemy visors/Marksmanship, not ordinary guns.
 - **Against strong MSV lanes:** ordinary Smoke does not guarantee passage; build a different gun/marker angle, Eclipse profile where legal, or White Noise where reachable. This is a principal advantage over OSS, which uses Yadu/Claire Disco and Kinnara Eclipse instead of broad cheap Smoke. [Apex/value tiers](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Asura HD+ 63/.5** is an apex solo gun+WIP15 hacker+MSV3+scorer: buy when combat, cyber and objective work lie on one approach. **AP Spitfire61/1.5** is a separate non-hacker gun profile. The counterview (2026 Shepherd/LoL) is that no Mimetism forces fair gunfights and 63pts could buy multiple independent specialists. **Parvati/Sophotect/Posthuman** instead compress recovery and scoring for less, but do not acquire Asura gun power.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
