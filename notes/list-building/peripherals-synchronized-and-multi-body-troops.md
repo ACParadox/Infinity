@@ -1,5 +1,7 @@
 # Peripherals, Synchronized Models, and Multi-Body Troops
 
+**Multi-body zone control and carrier accounting:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) explains per-Proxy points/Null scoring, one shared G:Jumper Order, synchronized Drummer/Sirius/Coyote screens, the proper ancillary/Controller distinction and **why multiple bases do not grant multiple pooled Regular Orders**.
+
 **Concrete verified double-FO exception:** [Drummer + Drumbot-5](https://www.human-sphere.com/Drummers) **21/0**, with *both* controller and synchronized bot possessing **Forward Observer**, is unusually effective at two distinct legal FO attack origins on one Order, because [N5.3 Peripheral](https://infinitythewiki.com/Peripheral) requires the **same declared Short Skill** but **not the same target**. Keep Coherency; a 2-model package still yields one Regular Order. **Sirius FO+SiriusBot** and **Coyote FO+attached BambaBot** do **not** inherit bot FO by association; Coyote's **BambaDroid FO** is a separate dependent REM.
 
 **Current N5.3 rare-combination tiers:** [Rare Abilities & Unusual Combinations — apex/value and opponent matchups](rare-capabilities-and-unique-combinations-apex-value.md). Separates **Posthuman G:Jumper 2–3 Proxies/one Order**, N5.3 autonomous Cyberplug versus Synchronized/Control, and **controller-only FO** from a truly independent second FO unit; includes current exact package costs and new transcript debates.
