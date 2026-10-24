@@ -1,5 +1,7 @@
 # List-Building Strategy — Speculative Fire
 
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+
 Speculative Fire is best evaluated as an **Order-efficiency and positional-pressure tool**, not simply as a low-accuracy way to deal damage.
 
 The core question is:
