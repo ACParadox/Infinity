@@ -868,3 +868,7 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Ghulam12 Panzerfaust**, **Kaplan20 Blitzen**, and **Druze21 Panzerfaust** are cheap list-fitting hard-threat answers. **Burkut26 E/Marat** can force IMM-B in a corridor; **Azra'il37 AP HMG / 41 Feuerbach(+1B)** is the roster's strong repeatable lethal anti-armor gun. **Iguana64+ and Scarface76** are TAG platforms not points-value answers to a cheaper 12–26pt specialist. Blitzen Disposable(2) and E/M resets/Engineer access matter. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**QK dual artillery:** **Druze Grenade Launcher+E/M GL24/1** pressures a hidden troop with physical/electronic effects (ordinary Speculative attack, not Targeted); **Shaytaniyah Guided16/1.5**, plus current QK **19/1.5 +1B Guided** alternate, depends on Laxmee/Druze Pitcher/Al Hawwa' FO network. **N5.3** still requires Spotlight's failed Saving Roll and a subsequent B1 missile; the direct shot, Kuang Shi-style Order economy and mission specialists may outperform overbuilt network. **Profile variations across Ramah/QK are authoritative here.** [Tiers](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
