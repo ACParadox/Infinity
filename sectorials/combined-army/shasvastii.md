@@ -624,3 +624,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **M-Drone FO/Sensor/Triangulated Fire** detects **enemy Camouflage/Hidden** within ZoC at far lower investment than a specialized sniper; **Shrouded/Malignos/Caliban Camo** protect your own approach but **are not detectors** just by being markers. **Charontid MSV3 is not ordinary Shasvastii roster access**: use legal **Shrouded/Noctifer ambush, Caliban flanks, Nox MSV2, or Aswang Albedo** profiles where present. **Counter:** Sensor cannot mass-reveal IMP-1 and does not automatically detect an opposing Speculo; mines/DTW/guard screening cover the impersonator problem. Do not treat the opponent's Camo shell and your own Hidden deployment as the same ability.
 
 [Non-hacking & tech-specific counter-selection, N5.3 anti-tech apex/value and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Camo/Decoy LT and mines** make enemy sensor/discover priorities uncertain, but **Decoy replicas do not provide Orders, independent AROs or extra Mines**. **Ikadron Baggage** supports Pitcher/Deployable stock and orders but needs real ZoC/reload access. **EVO14/.5** is not mandatory just to support a Q-Drone or Guide missiles; choose when its *printed supportware* improves active gun/ARO or airborne arrival enough to beat buying another actual specialist. [Force multiplier roles](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
