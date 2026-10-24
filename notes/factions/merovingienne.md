@@ -106,3 +106,9 @@
 
 - **Best cheap route builder:** **Loup-Garou 17/0 Smoke GL + Riotstopper** in a permitted small Fireteam with Apache FTO can shield an  objective push; **Duroc (Mirage-5)** and motorized 112 provide independent Smoke options.
 - **Tradeoff:** a 17pt Regular Smoke GL advances scorers at low cost, but does not solve MSV ARO by itself or grant your Marksmanship shooter the MSV ability. The linked 24/.5 Loup-Garou Viral Marksman is a different weapon/mission pick. [Vision-control tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**FRRM best package:** **Para-Commando FO21/0 + Traktor Guided Katyusha9/1** is low investment; **Kuryer Katyusha15/1** adds independently useful Speculative Fire, Warhorse, mines and Baggage, but is **ETB-only**, not a generic Wildcard. WIP12 E197 hosts both favor Kuryer utility **and** concede six points saved with Traktor can be better when all you want is Guided; **Carmen+Bâtard17** is close PH-based Speculative plus Sensor.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
