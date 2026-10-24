@@ -818,3 +818,9 @@ Its strong form is **Hafza command deception; LT-to-NCO economy; Odalisque and B
 
 - **QK's main options:** **Yuan Yuan 6pt Smoke** can deliver cheap visual disruption/AD trading, **Djanbazan MSV2** can turn normal Smoke into favorable shooting, **Laxmee HD+ White Noise** handles MSV/Marksmanship screens when her Hacking Area/network reaches them, and **Odalisque Disco** supplies a different Eclipse-style approach by selected loadout.
 - **Choice:** use cheap Smoke + MSV to *kill* a gun, Disco to *avoid* it for an objective, White Noise only if that particular gun has MSV/Marksmanship. Check Yuan Yuan Irregularity and QK Fireteam-specific legality. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Dual artillery:** **Druze GL+E/M GL24/1** gives actual offensive speculative state pressure while a legal link/FO works; **Shaytaniyah Guided16/1.5** converts **Laxmee HD+, Al Hawwa' FO, Druze Pitchers and Repeaters** into remote strikes. **19pt +1B Guided** is source-listed in QK (unlike Ramah's 19pt non-Guided); don't transfer profile flags. This is matchup-dependent: multiple cheap strong direct guns/linked specialists can make missile network SWC inefficient.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
