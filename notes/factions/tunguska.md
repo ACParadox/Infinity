@@ -1,5 +1,7 @@
 # Tunguska — N5.3 Tactical and List-Building Guide
 
+**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](nomads-must-have-go-to-avoid-source-audit-2026.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
+
 ## Scope, evidence, and current authority (22 October 2026)
 
 **Authoritative legality:** [Tunguska roster, profiles, AVA and canonical Fireteams](../../sectorials/nomads/tunguska.md): **N5.3**, Army revision **7.26246.158**, revised 3 September 2026, verified 15 October 2026. Forty-four standard units; **Core 1, Haris 1, Duo unlimited**. Consult [rules](../../rules/README.md) for exact timing, skills and peripheral behavior. This note interprets the roster; **dated speaker claims cannot replace current profiles**. For cross-faction TAG/REM comparisons, see [Vanilla Nomads](vanilla-nomads.md), [Bakunin](bakunin.md) and [Corregidor](corregidor.md). Their Fireteam permissions do **not** transfer.
