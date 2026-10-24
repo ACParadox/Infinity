@@ -941,3 +941,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Morlock6 E/M CCW+Smoke** is a minimal-cost anti-Hackable HI/TAG trade only if **base contact** is plausible; **Meteor Zond21 E/M Carbine airborne** offers flank fire, **Tsyklon Feuerbach29/1** sustained B2 AP+DA, **Evader Engineer29 Panzerfaust** role compression. **Moderator9 E/M Carbine** and **Corregidor cross-sectorial tech** depend on legal vanilla list profile. Against BS15 TAG, aim for Mimetism/cover/Repeaters-as-screen even with **no hacking** in this analysis; do not rate hacker-assisted Spotlight as a free anti-armor shot. [Anti-TAG/HI non-hacking apex/value rankings](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Vanilla Guided:** **Vertigo16/1.5** is strongest when **Interventor/Jazz/Mary** and existing Pitchers/Repeaters/one **Moran AVA1** already control hacking areas. The active Spotlight B2 **requires failed AP/BTS Saving Roll** to apply Targeted; enemy can still Reset/Dodge a subsequent Guided B1 attack. Tactical Awareness contrasts a missile-first named-hacker swarm with REM-centric direct shooting; do **not** import the two-Moran Corregidor shell to vanilla. [Indirect apex/value and source disagreement](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
