@@ -765,3 +765,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Fusilier Missile Launcher15/1.5** is inexpensive but low-Burst and exposed; **Bolts ML24/1.5**, **Quinn24 E/Mitter+Chain of Command**, **Blade-Ops Engineer30 E/Mitter (FD+20 or Parachutist)** and **ORC Feuerbach35/1.5** buy different reliability/roles. **Swiss Guard ML** is high-end hidden ARO, **Uhlan Feuerbach+Blitzen** a TAG priced separately. Cheap E/Mtter can disable on failed BTS Saves, but needs a winning FTF and the Engineer may restore function. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Squalos Mk-II MULTI MMR55/1** is outstanding affordable **3STR/TA quadrant-flip TAG**, compared with **Maximus TAG80/1** STR4 and **Swiss Guard44/0 Hidden/FD** that can delay/reveal as heavy physical guard but *not standard Supplies Specialist* absent Hacker/KHD profile. **Auxilia FO+Auxbot15/0** scores and defends by double-angle synchronized template on 1 Order, but Auxbot is not FO and no independent Order; **Auxilia FO+Deployable Repeater15/0** is a **different loadout**. **Peacemaker+Auxbot23/0** is an FD+20 physical wall. **NCA available Hexa KHD27/0** has Hidden/Mimetism(-6) and Specialist, excellent *pickup* but cannot keep marker while holding. **Opposing WIP12 NCA:** cheaper Auxilia/Peacemaker holds entry path more efficiently than 55–80pt TAG garrison if opponent goes around, leaving guns free to attack another zone.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
