@@ -1042,3 +1042,9 @@ The strongest current Ōban lists instead combine **positional visibility contro
 **Shikami42/0** is an apex self-sufficient scoring/CC/route bypass piece: FD, Eclipse, climbing, Super-Jump, 2W, MA. **47pt MULTI Rifle** pays for a real extra gun and D-Charges. **Karakuri31–38** are the alternative when holding midline buttons/absorbing return fire matters more than arrival. Two Shikami add redundancy but compete for Orders; Shepherd and Tactical Awareness differ on how often that pays.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Uran Guided16/1.5** is an inexpensive *optional* missile after **Robio/Atom/Pangguling Repeaters + legal hacker/FO Targeted**, not an obligatory Oban identity. **Shikami Eclipse objective reach, Tankō Disco and O-Yoroi** deliver more dependable mission progress if no easy Targeted route exists. Guided helps when a hidden specialist cannot be attacked without exposing an expensive model; allow for Reset/Dodge and SWC.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
