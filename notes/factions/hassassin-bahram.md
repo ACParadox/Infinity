@@ -439,3 +439,9 @@ The 56-player winning report's **main** Bahram list: **2 Áyyār, 2 Shujae, Bari
 
 - **Current-profile trap:** **5pt E/Marat** and **6pt Jammer Ghazi** in Bahram do **not** carry Smoke, despite similarly named Vanilla loadouts. **7–8pt shotgun Ghazi** do; **Ghulam NCO Smoke GL 15/1**, Muyib Smoke GL and the selected Disco Baller profile offer other corridors. Never assume all Ghazi have Smoke.
 - **When better:** cheaper disposable Smoke if the chosen model can use it safely; linked Smoke GL when its NCO/mission package earns the extra SWC; Disco/Eclipse against an MSV-controlled lane. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Shaytaniyah Guided16/1.5** is a payoff for **Barid HD+Pitcher, Ghazi/Daylami constraints and useful FO/Repeater access**. **Daylami Grenade Launcher10/.5** is cheap speculative harassment but shouldn't become the army's entire attack; **Muyib Rifle GL+Smoke GL21/1** in a legal team buys versatile projected pressure. **Opposing plan:** Fiday/Asawira/Mukhtar-type direct attackers remove key models more reliably when Targeted setup costs too many Orders.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
