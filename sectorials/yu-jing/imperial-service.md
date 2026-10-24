@@ -1029,3 +1029,9 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Ninja24/0 Tactical Bow, Shock Mine, DA CCW** supplies **Hidden/Infiltration CC23/MA3** entry without spending 44pts on an elite; use for isolated support/specialist rather than TAG mono kill. **Crane Agent CC24 MA3** is a durable 2W linked close duelist, and **Adil Mehmut49** adds **Monofilament CCW**/Specialist/MA3 but needs a delivered Fireteam/corridor. **Koga Ninja27 E/M CCW** is a separate 15-5 flank/anti-hackable option, not an Oniwaban with Hidden. **Kuang Shi6 CC14** are cheap template/screen, not assassination duellists. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Fēiquán E/M Carbine(+1B), Pitcher, BS Attack(+1SD)28/0** is an apex *reliable* ranged mobile network source plus Sensor/adhesive threats; S7/No Cover is vulnerable to open-lane AROs and hacking. **Jīnyào18/0** with Combat Jump(PH13)/Parachutist, Deployable Repeater and Adhesive/Riotstopper can deliver a backline node, but **must Place Deployable after insertion**; it is not native Repeater. **Zhànyīng HD+Zero Pain/Pitcher24/.5** can project from a legal team; **Wèibīng FO/Sensor/Repeater** and **Chaīyì7/0** cheaply walk in network, **Dikpala Repeater13/0** adds a team/support option. **Counter:** active high-BS network reliability vs expensive very visible flyer; preserve enough Orders for successful hacking and followup.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
