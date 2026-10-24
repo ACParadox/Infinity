@@ -857,3 +857,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Standout dual-role Guided:** **Haetae36/1.5 Guided HRL(+1B), BS14, ARM5, 2W, Tactical Awareness** is a genuine shooter if target marking fails; **Dokkaebi KHD+Spotlight+Pitcher22/0** prints the necessary hybrid program and network reach. **Son-Bae standalone Guided ML16/1.5** is the cheap alternative; **+1B/FTO Missile profile is NOT the Guided variant**. Hwarang/Jujak team contributes protection/visibility but has its own point/Order costs. [Global indirect comparisons](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Shàng Jí FO36/0** = **W2/ARM4/BTS6 + Tactical Awareness + usable MULTI Rifle**, strong hard-to-shift carrier in source-legal Fireteam; **Bìxié FO41/0** adds NCO/MSV1/Super-Jump+Climbing Plus for vertical escape and CC defense; **Hwarang LSG/Panzerfaust19/0** is a cheaper 2W Albedo+CC *zone blocker*, not FO. **Guìláng FO27/0** and Hidden/Camo Ninjas infiltrate pickups but lose Marker benefit on carried box; **Yín-Shé22–27** good anti-MSV physical screens, not automatically specialists. **Opposing Robert Shepherd White Banner:** aggressive link+Albedo can win lanes; if no opposing MSV or only one reachable box, two cheap independent FO + 7pt Chaīyì may outscore 41pt Bìxié.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
