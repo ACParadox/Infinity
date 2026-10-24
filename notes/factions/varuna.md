@@ -892,3 +892,9 @@ Use current Army / official Fireteam charts as the authority for exact legality;
 
 - **Quinn FO + Disco 26/0** is Varuna's precision Eclipse option, especially when Smoke/MSV/strong Mimetism makes Kamau/ORC FtF odds poor. It does **not** provide Chain of Command. Use a protected Wildcard/score route after the cloud, not a decorative Disco throw.
 - **Opposing evaluations:** Dante treats Quinn/vision control as a solution to hard AROs; older gun-first evaluations prioritize another Kamau or a TAG. Buy Quinn only when a real scoring/attack route needs him. See [global comparison](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Quinn FO/Disco26** is a true linked/wildcard specialist plus LoF tool where a physical objective approach beats head-on Kamau shooting. It is **not** Chain of Command. Counter: extra Kamau/ORC and cheaper separate specialists can do more on open maps if Disco is never used.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
