@@ -1,5 +1,7 @@
 # Ōban — List-Building and Tactical Note
 
+**Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](jsa-must-have-go-to-avoid-source-audit-2026.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
+
 ## Scope
 
 This is the tactical/list-building note for **Ōban** under the repository's current **N5.3 + ITS18** baseline.
