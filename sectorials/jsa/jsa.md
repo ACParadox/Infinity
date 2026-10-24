@@ -802,3 +802,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Atom Aibōt FO/Sensor15/0** is the budget regular **Camo/Hidden ZoC detector**, with Triangulated Fire for a revealed Mimetism target; a cheap REM search is usually more efficient than revealing a premier ninja to scout. **Kempeitai MSV2** or **Rui Shi MSV2** are separate *shoot-to-kill* tools that can also exploit rostered Yojimbo/Garon Smoke against opponents without MSV. **Eclipse/Disco** on a legal JSA body bypasses *enemy* MSV/Marksmanship better than a direct fight. Opponent sensor pressure and anti-IMP screening must be planned for your own marker assassins too.
 
 [Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**O-Yoroi TAG + Kobaruto Ancillary** uses **Place Deployable to put Kobaruto into position**, not an immediately deployed second Regular Order. Normal JSA **Yáozăo Servant** extends Engineer/Doctor coverage to distant Karakuri/O-Yoroi (one Servant per activation / one heal target per Order), a more reliable 'multi-body' support plan than paying an expensive guardian to walk back. **Yojimbo CrazyKoala** is **deployable equipment, not Synchronized live Peripheral**: the foot/motorized option creates traps and smoke, not extra CC/gun attacker or pooled Order. **Karakuri** are *independent* STR3 FO troop entries, not G:Jumper proxy-like 1 slot pack. **Counter:** an Ancillary released beside an enemy gun too soon can give up VP; only place when the actual skill/position is needed, preserve parent status until then.
+
+[Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
