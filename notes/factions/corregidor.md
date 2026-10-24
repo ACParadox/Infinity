@@ -1,5 +1,7 @@
 # Corregidor — N5.3 Tactical and List-Building Guide
 
+**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](nomads-must-have-go-to-avoid-source-audit-2026.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
+
 ## Authority and research boundaries — 22 October 2026
 
 **Roster/points/SWC/AVA/Fireteams:** [current Corregidor reference](../../sectorials/nomads/corregidor.md), pinned **N5.3**, Army `7.26246.158` / 3 Sep 2026, verified 15 Oct 2026. [Rules index](../../rules/README.md) governs mechanics; this guide is **tactical interpretation**, not an alternative roster. [Vanilla Nomads companion](vanilla-nomads.md) covers wider Nomad TAG/REM comparisons. Do **not** transplant vanilla or other Nomad-sectorial units, AVA or Fireteam permissions into Corregidor.
