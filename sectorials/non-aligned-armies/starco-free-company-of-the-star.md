@@ -772,3 +772,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Jaguar10/0** provides Regular Smoke + Dogged + **CC22 MA1/DA**, strong cheap *zone/control and enabling* despite modest B1 melee dice; **Irmandinho8** is Irregular Smoke + engineering AP CC, valuable as a second utility trade. **Fiddler29/36** uses fast engineer/Peripherals and **PARA CCW** for close control, **not** a Monofilament assassin. **Anaconda59** is a separate **TAG**, whose DA CCW protects it after shooting; against Shinobu/Speculo employ smoke, mines, repeaters or templates and keep a cheap counter-charge rather than risking a premium Riot Grrl in raw CC. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Jaguar11 Panzerfaust+Adhesive Launcher Rifle+Smoke** gives two valuable *non-hacking* armor answers: **AP+EXP** damage or **PARA IMM-A**. **Riot Grrl29 E/Mitter** applies repeatable state pressure in a legal team; **Tsyklon Feuerbach29/1** offers B2 AP+DA at long range, **Cube Jäger** only if this actual StarCo roster option exists. **Irmandinho8 Smoke+Engineer** repairs and threatens close AP, not safe direct TAG kill. **Anaconda59/Triphammer48 TAGs** are separate heavy-list purchases, not 8–11pt trap substitutes. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
