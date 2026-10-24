@@ -1,5 +1,7 @@
 # Rare Abilities & Unusual Combinations — N5.3 Apex / Points Value / When They Matter
 
+**Rare mechanics in scoring missions:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) applies G:Jumper, Synchronized FO/Peripherals, Camo and Shasvastii Embryo, Eclipse, Transmutation, and enhanced Immunity to **surviving an opponent turn and controlling a final Supply Box**, rather than only extraordinary gun/CC ceilings.
+
 _Research: 23 Oct 2026 · current committed **N5.3 September-2026** roster profiles in `sectorials/` and local N5.3 rules govern costs, skills and legal combinations. Rankings are tactical **judgments**, not measured win rates. **Across the game** means cross-faction comparison, **not** a legal mixed army list. Video/podcast analysis is commentary and may predate current profiles._
 
 **Question:** which units deliver a *qualitatively different answer*, not simply another +1 BS, because of a unique mechanic (G:Jumper, Protheion, RemDriver, Cyberplug) or an otherwise uncommon **combination** (Albedo+MSV, Eclipse+airborne/mono, two-role support, FO plus an independent FO partner)?
