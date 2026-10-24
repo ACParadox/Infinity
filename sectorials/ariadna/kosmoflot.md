@@ -1200,3 +1200,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Varangian Guard10/0 Regular Smoke+CC23/Berserk** anchors strong *cheap forward-threat* play: important value is Regular Order and denial of enemy fire while stronger assault pieces advance. **Mirage-5 Duroc+Margot** is the premium two-body flank assault: **Duroc** pressures from unexpected DZ/edge rather than winning a Ninja-style Hidden first strike; check composite points/orders, not unit-alone price. **Ioann Bann** provides a tougher dog-warrior close fighter when the route is legal. **Uxía** and legal infiltration targets offer better starting proximity but inferior raw MA5 ceiling. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Varangian10 Regular Smoke** (not panzer anti-TAG gun), **Duroc/Mirage-5** Smoke/flank, and **Uxía infiltration** create delivery; choose a current rostered **Frontovik Panzerfaust**, **Beasthunter Panzerfaust** or **Kazak/Traktor hard-ARO** for ranged wounds instead. **Mirage-5** is a two-model attack investment, not a 6pt direct can-opener; kill support/Engineer after landing an attack. Check exact profile against Kosmoflot rather than importing TAK's TankHunter APC weapon. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
