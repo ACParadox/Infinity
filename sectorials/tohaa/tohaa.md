@@ -849,3 +849,9 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Draal32/0 Dazer or33/0 mine** is an unusually competent forward Specialist/denial generalist (FD+20, Mimetism-6, 2W, fast movement); Dazer and viral mine are **separate profiles**, not cumulative equipment. **Kriigel21/.5** excels at Mirrorball/Eraser control, and Taqeul35–36 adds command—not the same gun or Dazer tool. Pairing multiple toolboxes in Triads creates redundancy but risks starving the Sukeul attack plan of points/Orders. [Cross-game apex/value tiers](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Makaul HFT+Eclipse+Viral/DA CCW14/0** is extremely rare **Regular + Impetuous + Triad Eclipse** with a direct-template guard/trader in same package; **Chimera19/0** elsewhere buys a different peripheral swarm but not Tohaa Triad access. **Kriigel Mirrorball21/.5** repeats **Eclipse-like control through Pheroware** but is not a standard throwable Eclipse grenade; choose when the existing Triad also exploits its commands. **Kaauri11/0 Biometric+Sixth Sense+MSV1+E/M Minelayer** is another ultra-cheap anti-IMP role combination, particularly protecting high-value Triad orders. **Opposing:** several command/vision/defense layers together are strong in dense scenarios but can tax actual active Orders; a Makaul plus two useful objective members often wins more than expensive redundant rare abilities.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
