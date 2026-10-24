@@ -955,3 +955,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Salyut8 Baggage/Repeater vs14/.5 EVO**: the upgrade pays when **Vostok/Tsyklon/Rui Shi-equivalent eligible REM** attacks under Assisted Fire or a meaningful airborne/REM Supportware plan exists. Baggage reloads Pitchers/Mine Dispensers within ZoC or automatically States Phase; *does not* restore Non-Reloadable deployables. **Firewall TinBot benefits legal team only**; standalone Jazz+Billie has its own native repeater network, not magically armywide TinBot protection. **TAG-Treiber** eligibility must be verified from the selected roster. [Global role/value](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Interventor HD+18–23/.5 or Jazz HD+25/.5 + an actual Repeater network** projects **White Noise** against enemy MSV/Marksmanship; it does not block ordinary non-visor shooting. **Stempler FO/Sensor REM** is the budget Camo/Hidden ZoC detector; **Meteor Zond Sensor19–21** changes the angle with airborne entry but adds insertion risk. **Intruder MSV2 HMG** actively kills revealed Mimetism/Smoke defenders with legal Smoke support. **Kulak KHD20/0 Disco** gives **Eclipse, not White Noise**. **Counter:** all-visor defenses are vulnerable to enemy White Noise/Albedo; retain a non-visor gun and an objective runner.
+
+[Cross-game anti-tech N5.3 apex/value, mechanics, matchups and checked conflicting transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
