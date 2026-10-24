@@ -995,3 +995,9 @@ For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 7
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Dozer14 Blitzen+Engineer** is cheap BTS-state ARO/support; **Ghulam12 Panzerfaust**, **Lù Duān20 E/M Carbine+E/M Mine**, **Zúyǒng22 E/Mitter** and **Zhencha31 Panzerfaust+FO** scale from cheap threat to flexible frontline. **Miranda25 Monofilament+PARA Mine** is a dangerous ambush only if delivered, **Húláng38 Mono/E/Mitter** adds elite midfield reliability. **Maghariba72 E/M Carbine(+2B)** and Triphammer48 Panzerfaust(+1B) are costly TAG purchases, not budget counters. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Maghariba Guard71–72/1.5** (STR3 ARM8/360º/Tactical Awareness/Baggage) swings **zone VP** massively but is not a standard Supply Box Specialist; **mission-specific Baggage bonuses only**. **Miranda Ashcroft BSG25/0** is a source-legal **Mimetism(-6) Specialist** with PARA mine, excellent concealed/covered last-turn carrier; **Odalisque Paramedic21/0** (where matching profile is in this Dahshat roster) has NWI/Sixth Sense close defense. **Al Fasid HRL44/1.5**, W2 ARM5 Albedo/Minelayer, denies the objective approach, *not an ordinary carrier*. **Motorized Bounty Hunter8/0**, Irregular/Impetuous, can late-flip small zone differential but must not count as a Regular specialist. **Counter:** cheap multiple specialists and denial Mines often maintain two zones more efficiently than Maghariba-only flagship; verify required support costs.
+
+[Cross-game holding and carrier apex/value, scenario rules and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Use pinned local roster/Fireteam chart.
