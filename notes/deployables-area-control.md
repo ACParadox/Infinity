@@ -1,5 +1,7 @@
 # Deployables and Area Control
 
+**Network-delivery tier companion:** [N5.3 Network Projection — apex, value, matchup](list-building/network-projection-repeaters-pitchers-apex-value.md) compares **Pitcher** (BS roll, N5.2 range penalties), **FastPanda** (place in ZoC), **Deployable Repeater + Minelayer** (Turn-0), **native Repeater**, **TinBot(Repeater)** teams and fast cheap repeater sacrifices. Includes opposing tactical opinions and exact current profiles.
+
 **Close backline defense companion:** [DZ Defenders — anti-alpha-strike and Impersonation tier guide](list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md) applies Minelayer, mines, perimeter Boost restrictions, 360º/Flash and nonlethal weapons to protecting cheerleaders. Key distinction: mines trigger on eligible enemy Markers; Boost weapons do not trigger while an enemy is in IMP/Camo marker state.
 
 **Current N5.3 unit choices:** [Midfield Area Denial & Speed Bumps — apex/value and matchups](list-building/midfield-area-denial-and-speed-bumps-apex-value.md) compares turn-zero Minelayer/Camo/Hidden packages against Order-fed mine dispensers, repeaters and perimeter networks, with profile costs, counters and transcript disagreements.
