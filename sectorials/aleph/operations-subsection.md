@@ -868,3 +868,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Andromeda30 Guard + Infiltration + MA3 + D-Charges** (if selected in this OSS roster) is the distinctly offensive CC-on-approach threat that can swing a console/room; unlike normal melee, she only needs **LoF + ZoC**. **Posthuman Mk.2** is a hidden gun/mission skirmisher, not automatically the same as a true MA4/Monofilament executioner; count legal Proxy package first. Choose visible guns and specialist route over an expensive melee race when no safe arrival can be identified. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Danavas HD+22/.5** projects White Noise/Oblivion through **BS11 Pitcher**, whereas **Pilot-X HD23/.5 + RacerBots Mk-III 8/0 each** rush into enemy space at MOV20-10 and place Deployable Repeaters; **31/.5 minimum**, not an independent 8pt model. **Naga FO25/0 or HD29/.5** physically places Repeaters from Infiltration, **Dasyu FO29/0** from Hidden/Infiltration; **Arjuna KiranBot** provides native Repeater or Deployable Repeater on selected synchronized bot. **Opposing TA OSS hosts** disagree whether Danavas 22pt is indispensable or the cheap bots offer more reliable network and turn-after utility. **Optimate Maximus FTO45/1 TinBot(Repeater)** can extend a legal Fireteam network, but is not an efficient *pure* network purchase. Use actual separate profile/FT option.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
