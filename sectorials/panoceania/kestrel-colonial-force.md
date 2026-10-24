@@ -792,3 +792,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Peacemaker23–27/0–.5** begins as **native Repeater FD(+20)** with Auxbot close cover; **Fugazi7/0** is cheap fast Regular Repeater to rush at risk, **Pathfinder FO/Sensor/Repeater** adds scoring/hunting and legal Wildcard (source constraints). **Fennec HD/FastPanda16/.5** places a reliable node *after activation*, **Firefly Deployable Repeater19/0** and **TechBee9/0** also must Place Deployable; **Maximus Agent FTO45/1 TinBot(Repeater)** turns **legal Fennec Fireteam** into network, not standalone token. **Opposing case:** cheap Fugazi/Pathfinder + protected hacker suffices for narrow cyber support; 45pt Maximus should be bought for combat, not just Repeater coverage.
 
 [Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
+
+## Tactical cross-reference — toolbox units (2026-10-23)
+
+**Fennec FO+Sensor+Disco13/0** has premium list-building **value** rather than gunfight apex: Regular Order, scoring, detection and projected Eclipse on one cheap eligible Fennec body. The basic **10pt Fennec** may be better when no crossing is needed. **Firefly CoC23 and Engineer23** are separate variants; do not attribute both to a single model. [Toolbox ranking](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
