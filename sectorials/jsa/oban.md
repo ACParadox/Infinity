@@ -768,3 +768,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Pangguling8 Baggage/Repeater vs14/.5 EVO** amplifies **Rui Shi assisted attack** and restocks expendable Koala/Mine Dispenser stock if the **owner** is in Baggage ZoC. Already laid mines do not rearm. **Ryūken Decoy** copies only permitted marker/visual information and isn't an extra Order, Fireteam member or independent ARO. **O-Yoroi TAG** can benefit only from **eligible same-group TAGCom** if actually purchased; do not import a Shinden-exclusive Mechazoid pilot. [Force multiplier apex/value](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**O-Yoroi+Kobaruto Ancillary** can eventually place a separate S1 Specialist body, but it **starts undeployed**; requiring Place Deployable (and possible Fireteam departure) and not extra Regular Orders. **Yáozăo Servants** project Engineer for durable **Karakuri31/0 STR3** or O-Yoroi without walking owner across table; max one patient per Order, servant doesn't become independent Regular troop. **Yojimbo foot19/0 vs motorized20/0** each has **CrazyKoalas as deployable mines-like equipment, not synchronized live Pupniks/Jackbots**, and mutually exclusive named identity. **Opposing multi-body use:** 19pt Yojimbo Smoke/Koala is cheaper board-denial than 19pt Nomad Chimera for ranged blockers, but Chimera+3 actual Pupnik CC attackers offers much greater active close-attack fork ceiling.
+
+[Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
