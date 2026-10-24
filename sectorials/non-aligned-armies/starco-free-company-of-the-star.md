@@ -768,3 +768,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Avicenna28 WIP15 Doctor(+3)** has a **90%** first-roll VITA return, MOV15-5, NWI and legal **Riot Grrl team** mobility; best for protecting expensive recoverable infantry. **Daktari14 WIP13** saves 14pts if a 65%-base Doctor is enough. **Clockmaker18 WIP15 + Zondbot3** is superior pure **Anaconda/Triphammer STR** recovery with 75% first WIP and a possible Remote Presence-only token reroll when target qualifies; **Irmandinho8** adds cheap Irregular engineer/trade utility. [Recovery support tiers and real success probabilities](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Jaguar10/0** provides Regular Smoke + Dogged + **CC22 MA1/DA**, strong cheap *zone/control and enabling* despite modest B1 melee dice; **Irmandinho8** is Irregular Smoke + engineering AP CC, valuable as a second utility trade. **Fiddler29/36** uses fast engineer/Peripherals and **PARA CCW** for close control, **not** a Monofilament assassin. **Anaconda59** is a separate **TAG**, whose DA CCW protects it after shooting; against Shinobu/Speculo employ smoke, mines, repeaters or templates and keep a cheap counter-charge rather than risking a premium Riot Grrl in raw CC. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
