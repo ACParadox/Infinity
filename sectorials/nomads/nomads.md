@@ -925,3 +925,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Nomad smoke/templates** and legal **Morlock** cheap E/M CCW route are usually better *points value* than a premium melee-only fighter; **E/M attack on Hackable TAG/HI** is the specific trade-up target, not automatic damage into VITA LI. **Moran/Camo midfield guns/Repeaters** help disable the victim before reaching contact. **McMurrough** or other mercenary body, only where current rostered, buys smoke and high-PH 2W repeated assault at a higher investment. Fight NBW/Guard from outside LoF/ZoC if possible. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Vanilla nominal network:** **Moran Repeater+Koala FO15/.5** is exceptional forward Turn-0 coverage, but **AVA1** (CJC has 2). **Moderator Pitcher10/0** is cheap Regular Order + 2-shot projector, unlinked **BS10** is shaky; **Jazz+Billie25/.5** combines HD+/Trinity/Pitcher with two Regular Orders and Billie Repeater; FTO Jazz22/.5 lacks Billie. **Meteor19/0** delivers a *native* Repeater by Combat Jump/Parachutist; **Transductor7/0** is a cheap Regular native-Repeater kamikaze option. **Tsyklon FTO Pitcher26–29/1 has NO vanilla Fireteam access** solely from its FTO label. **Dispute:** cheap versatile Vanilla network versus linked Tunguska special-die efficiency; save SWC for actual attacks when Guided is weak.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
