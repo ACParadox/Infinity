@@ -628,3 +628,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Camo/Decoy LT and mines** make enemy sensor/discover priorities uncertain, but **Decoy replicas do not provide Orders, independent AROs or extra Mines**. **Ikadron Baggage** supports Pitcher/Deployable stock and orders but needs real ZoC/reload access. **EVO14/.5** is not mandatory just to support a Q-Drone or Guide missiles; choose when its *printed supportware* improves active gun/ARO or airborne arrival enough to beat buying another actual specialist. [Force multiplier roles](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Shasvastii multi-body advantage** concentrates on **Sphinx + Scindron Ancillary** and **Doctor/Engineer+Servants**, not Next Wave-style autonomous Cyberplugs or Nomad Pupniks. **Sphinx93/2** 3STR/Hidden/Mimetism(-6)/Climbing+ with included **Scindron Specialist Operative**: ancillary **not on board at deployment**, Sphinx must **Place Deployable** to release it. Does not give 2 Regular Orders or a free Hidden-Specialist on another side of table. **Shasvastii Embryo** is a *state/model scoring exception* in Domination, **not** a Peripheral or extra attacking body. **Opponent view:** keep Sphinx hidden and preserve special scoring protection, but deploying Scindron late has a real Order cost and can alter Fireteam/Hidden-based plans; cheap Caliban/Speculo are independent attackers with independent Orders, often more flexible.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Exact current roster, dependency and Fireteam chart above override commentary.
