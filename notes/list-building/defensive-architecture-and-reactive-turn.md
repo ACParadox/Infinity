@@ -1,5 +1,7 @@
 # Defensive Architecture and the Reactive Turn
 
+**Mission-anchored defender packages and matchups:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) prioritizes the **enemy's last legal contact/pickup square**, protected carrier behind Total Cover, and serial Mines/Template/Repeater screens. Differentiates high-cost TAG zone VP from an actual eligible Supply Box Specialist and scenario Baggage VP modifiers.
+
 **Concrete N5.3 DZ-defense unit shortlist:** [DZ Defenders — apex/value, anti-alpha and impersonation](dz-defenders-alpha-strike-and-impersonation-apex-value.md). It distinguishes 360º rear-edge/Combat Jump screens from Biometric anti-IMP guards, mines versus Boost weapons, and Regular dual-role support from expendable Irregular speed bumps. Keep serial defenses and dispersed cheerleaders.
 
 Infinity defence is not primarily about winning gunfights during the opponent's Active Turn. The stronger goal is to make the opponent spend too many Orders, expose important pieces, consume limited resources, and finish the turn in positions that can be punished.
