@@ -232,3 +232,9 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 **Fennec FO/Sensor/Disco13/0** is among the best game-wide low-cost toolbox Regular Fireteam bodies: scanner, button, vision denial and Order. It is **not** a BS14 attack piece; a 10pt Fennec may suffice where these tools won't matter. **Firefly Engineer23** and **Firefly CoC23** are different choices, not an Engineer+CoC all-in-one; **Crux** is the premium gun/scorer.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Speculative value:** **Jackal E/M GL+Shock Mine Minelayer11/.5** is cheap forward *Irregular* control; **Emily E/M GL22/0 or Grenade+E/M24/0** is a Regular/linked off-angle threat. **Redeye Continuous Damage GL38/1.5** is the mobile apex backup, while **Blitzen37/1.5** answers heavy targets better. **Clipper Guided16/1.5** needs actual Fennec hacker/FO/Pathfinder/Pitcher access; direct Hetkari/Squalos/Tik attack may save Orders.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
