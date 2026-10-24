@@ -754,7 +754,7 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
-**Ghazi E/Marat5 (NO Smoke on Bahram's 5pt option)** is the extreme points-value TAG-disabler *if* the template route exists; 7pt E/Marat+Smoke is a different option. **Daylami Panzerfaust6 / Camouflaged+Infiltration8**, **Ghulam12 Panzerfaust**, **Nadhir23 Hidden Panzerfaust** cover ranged ambush. **Sunduqbut47 Feuerbach+Neurocinetics** is hard defensive ARO, **Muyib23 FO/Panzerfaust** brings mission duty; don't import Vanilla-only Azra'il without roster check. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+**Ghazi E/Marat5 (NO Smoke on Bahram's 5pt option)** is the extreme points-value TAG-disabler *if* the template route exists; 7pt E/Marat+Smoke is a different option. **Daylami Panzerfaust6 / Camouflaged+Infiltration8**, **Ghulam12 Panzerfaust**, **Nadhir23 Hidden Panzerfaust** cover ranged ambush. **Sunduqbut47 Feuerbach+Neurocinetics** is hard defensive ARO, **Muyib23 FO/Panzerfaust** brings mission duty; don't import Vanilla-only Azra'il without roster check. **Choose by route:** Ghazi if a TAG must enter template range; concealed Daylami/Nadhir/Shujae ambush lanes if it can remain far away. Cheap Irregular traps still require **Regular Orders** to exploit a successful hit. [Shepherd's Bahram N5 transcript](https://www.youtube.com/watch?v=yHpAnRDw_E8) stresses timing and Order economy, not an automatic cheap-mutt rush. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
 
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
