@@ -146,3 +146,9 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 **Mary Problems27/.5** (HD+KHD programs, Pitcher, FD/Mimetism/Climbing+) is the best Nomad cheap *cyber* toolbox, not a strong ranged gun. **Evader35/1.5** solves actual frontline Engineer+AP offense where legal, while **Moran15/.5** cheaply projects FO/Repeater/Koala control; **vanilla Moran AVA1** is not Corregidor AVA2. Opposing choice: several specialists with different order routes can outperform one elite toolbox.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Vertigo Guided16/1.5** is an optional payoff for Interventor/Jazz/Mary, Pitchers, Zero and **one** vanilla Moran (AVA1; Corregidor has AVA2). Tactical Awareness S3E26 offers opposing *missile-first hacking saturation* versus diversified active REM/guns. A heavy hacking network may induce enemy caution and set up direct Targeted fire even if no missile hits; if the network is shut off, keep independent attack/mission plans.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
