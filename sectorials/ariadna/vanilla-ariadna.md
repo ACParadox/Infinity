@@ -1511,3 +1511,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9 Panzerfaust+HFT** or **Dynamo14 Panzerfaust+Smoke GL** are cheap counter-threats; **Dozer14 Blitzen** buys Engineer plus ranged E/M. **TankHunter AP HMG33/1.5** is best reusable B4 armor can-opener, **Portable Autocannon(+1B)36/1.5** stronger AP+EXP per uncancelled hit, **TankHunter AP SMG+Panzerfaust+FD24/.5** is a multi-modal midfield trap. **Ratnik46 AP Spitfire+Panzerfaust/TacAware** is a high-cost repeated attack; no faction-wide Hacker dependency. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Conditional artillery:** **Traktor Guided Katyusha9/1, Uragan Guided+Total Reaction14/1**, with 5pt Baggage option separately. Cheap FO (Chasseur/Strelok/other eligible trooper) should score and set Targeted before spending extra SWC on the missile. Dog-Warrior/other PH-grenade models instead attack safely via **Speculative B1** with no Targeted setup. This list has thinner Spotlight/Repeater coverage than Nomads: a dedicated multi-piece hacker network can be worse than durable physical pressure. [Full apex/value comparison](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
