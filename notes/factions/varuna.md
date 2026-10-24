@@ -904,3 +904,9 @@ Use current Army / official Fireteam charts as the authority for exact legality;
 **Speculative** from **Squalos Mk-II HMG+GL62/1.5** helps remove hidden support when its HMG remains the main attack plan; **Clipper Guided16/1.5** is a separate Spotlight/Reptr/FO payoff, **not** the FTO+1B launcher. **Counter:** a fast scorer/TAG/Kamau gun can be a better SWC and Order investment than a dedicated multi-roll Guided engine. Rate the complete spotter/network, not just cheap missile.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**PanO cheap force multipliers:** 8pt basic Baggage/Repeater bot is often better value than 14/.5 EVO without repeated Assisted Fire/Controlled Jump; **TAGCom Tech-Bee9** benefits eligible same-group Cutter/Squalos TAGs only if included in actual Varuna roster, not Redeye VH. **TinBot** is a legal Fireteam effect, **Strategic Deployment** requires printed skill and safe deployment geometry. Avoid importing Kestrel Crux/Jackal FT Master benefits into Varuna just because PanO shares a parent faction.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
