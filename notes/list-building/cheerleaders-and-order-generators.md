@@ -1,5 +1,7 @@
 # Cheerleaders and Order Generators — N5.3 Cross-Faction Rankings
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 **Body/Order accounting for rare mechanics:** [Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares **G:Jumper (2–3 Proxies, 1 Order)**, **Puppet Master+PuppetBot**, **Pilot-X+RacerBots**, synchronized Sirius/Coyote/Drummer peripherals and N5.3 autonomous Cyberplugs. Several bodies do not imply extra pooled Regular Orders.
 
 **Research: 23 October 2026.** This is a role guide, not an Army roster, legality document or tournament pick-rate study. **Authoritative prices, profile effects, AVA and Fireteams:** current committed [sectorial reference files](../../sectorials/) (September 2026 Army data, N5.3 + FAQ v0.1). The tier ratings are subjective comparisons of **what an Order-generating slot achieves**, not mathematical win rates. A particular sectorial may have different costs, AVA, FT permissions or availability from its vanilla parent. Recheck the exact chosen roster.
