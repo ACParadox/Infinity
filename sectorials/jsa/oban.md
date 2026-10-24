@@ -732,3 +732,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Shinobu44/.5** (Hidden, Infiltration PH19, CC25/MA5, Monofilament) has the highest precision-assassin ceiling; **Oniwaban SMG29/0** is the value substitute (CC24/MA4, Mono/E/M). **Saito33/0** trades Mono for Smoke, T2 shotgun and EXP; **Musashi21 Irregular or 25 FTO Regular** wins pure CC25/MA5/EXP at cheap price but has to **walk**; **Shikami42** trades one-hit kill for Eclipse, Super-Jump, Climbing, 2W and scoring. **Yojimbo bike20 vs foot19** are defensive smoke/Koala counter-CC, not another Hidden killer. Transcript dispute: Musashi dice/value versus Shinobu delivery. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Robio7/0 native Repeater/Flash** and **Pangguling8/0 Baggage/Repeater** are cheap Regular native projection; **Atom Aibōt FO/Sensor/Repeater** physically extends coverage and scores, plus **Rui Shi native Repeater** as *secondary* gun utility. **Pangguling FTO12/0 Repeater** has **no Ōban Fireteam chart row**, so do not import bonus just from label. **Counter:** most Ōban missions favor direct Camo/Hackable-target denial and attack over a large guided hacking system; cover the one useful route without risking primary melee/mission pieces as expendable “kamikaze” Repeaters.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
