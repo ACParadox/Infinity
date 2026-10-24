@@ -1,5 +1,7 @@
 # Peripherals, Synchronized Models, and Multi-Body Troops
 
+**Current N5.3 rare-combination tiers:** [Rare Abilities & Unusual Combinations — apex/value and opponent matchups](rare-capabilities-and-unique-combinations-apex-value.md). Separates **Posthuman G:Jumper 2–3 Proxies/one Order**, N5.3 autonomous Cyberplug versus Synchronized/Control, and **controller-only FO** from a truly independent second FO unit; includes current exact package costs and new transcript debates.
+
 Multi-body troops are a distinct Infinity subsystem because they change the normal relationship between **Orders, Combat Group slots, physical bodies, threat projection, and risk**.
 
 For **Servant and Cyberplug recovery reliability versus full package cost**, see [Doctor/Engineer apex and value tiers](doctors-engineers-and-recovery-apex-value.md); this guide remains responsible for multi-body activation and placement mechanics.
