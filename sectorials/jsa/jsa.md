@@ -774,3 +774,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Oniwaban SMG29/0, Shinobu44/.5 and Saito33/0** are legal Hidden/Infiltration high-CC assassination alternatives; **Mono vs EXP** decides whether heavy target's vulnerability or multiple target options matter. **Shikami42/0** is the more reliable repeated assault/scoring model with Eclipse and high mobility, not the one-roll Mono specialist. **Hatamoto Plasma34/0** is 2W/MA4/NBW defensive duelist and specialist, vulnerable to being trapped by hacking/screening if forced into unsupported charge. This roster **does not automatically include the Ōban-specific 21pt Musashi** simply because other JSA factions have him. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Robio Aibōt7/0** is the ordinary **Regular native Repeater/Flash** source; **Pangguling8/0 Baggage+Repeater** is a second cheap regular Order with logistics/reload. **Keisotsu Hacker+CrazyKoala16/.5** does NOT bring a native Repeater or Minelayer by itself; Koala is a different Boost threat and needs placement. **Karakuri/other KHD/HD profiles** can only use projected net if the rules and target permit, and Vanilla JSA **does not inherit Shindenbutai's Tanuki Pitcher20/.5**. **Counter:** JSA can win through Hidden CC/fast assault rather than expensive extra Repeater/Guided packages; use 7–8pt support if it also protects flank.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
