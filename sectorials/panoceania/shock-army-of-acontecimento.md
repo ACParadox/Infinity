@@ -638,3 +638,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter FTO9/0 Panzerfaust+HFT** is budget ARO (Camo+FD profile costs15, a separate choice); **Montesa FTO20 Blitzen** and **Akal23 E/M Carbine** project cheap anti-HI shutdown with different flanking routes. **ORC Feuerbach35** is repeatable AP+DA; **Naga26 Monofilament Minelayer** traps a specific path, rather than open-table gunfighting. Acontecimento's TAG is a distinct heavy investment. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**SAA** can put a **Peacemaker FD+20 Repeater+Auxbot23/0** plus **Regular FO+Deployable Repeater12/0** into an objective approach cheaply, with hard **Tikbalang** where currently roster-legal for quadrant VP. **Scylla HD/Trinity+Charybdis32/.5** is a 2-body hacking/DTW defender that protects an eligible nearby holder (Charybdis cannot inherit Scylla's Specialist qualification), and **Regular FO+Sensor/Minelayer** options should be checked per chosen profile. **Opposing MetaChemistry SAA:** many utility Regulars win by being in two quadrants while elite gun clears one, but a Minelayer+smoke/protection choke can pay for itself against early rush; don't treat a carried box as a marker.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
