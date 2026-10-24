@@ -824,3 +824,9 @@ Its strong form is **Hafza command deception; LT-to-NCO economy; Odalisque and B
 **Dual artillery:** **Druze GL+E/M GL24/1** gives actual offensive speculative state pressure while a legal link/FO works; **Shaytaniyah Guided16/1.5** converts **Laxmee HD+, Al Hawwa' FO, Druze Pitchers and Repeaters** into remote strikes. **19pt +1B Guided** is source-listed in QK (unlike Ramah's 19pt non-Guided); don't transfer profile flags. This is matchup-dependent: multiple cheap strong direct guns/linked specialists can make missile network SWC inefficient.
 
 [Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**Kameel Baggage8** is cheap Regular+Reload/repeater support for **Druze Pitchers/E/M gear**; **14/.5 EVO** is a conditional investment for actual REM/AD Supportware, not an innate Spotlight attack. **TinBot Firewall** needs a legal team and an alive non-Isolated carrier. Holomask/Decoy effects are asymmetric LT/deployment uncertainty, not extra regular orders. Reserve spare points for Druze/Kaplan offensive and mission tools if reloads aren't realistically reachable.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
