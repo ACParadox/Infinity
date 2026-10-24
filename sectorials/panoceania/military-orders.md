@@ -1015,3 +1015,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Teutonic Knight18/0** (MA2/CC22, 2W, shotgun/Panzerfaust) is a very efficient **covered close-assault fighter**, but Impetuous can expose him. **Motorized Montesa21/0** brings 20-15 speed and MA2/CC23, yet S4 bike geometry fails at narrow doors. **Mendoza40/0 FD+20/Mimetism−6** closes midfield more safely; **Joan47+** (MA3/EXP/NWI) and **Kyle Hawkins32** are expensive multifunction frontline fighters, not 29pt hidden assassination substitutes. **Seraph** is a **TAG** with strong CC23/EXP but should be priced in its separate TAG category; don't rank against 18pt Teutonic. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Order Sergeant FTO hacker+Pitcher18/.5** places ranged network from a **legal team** and delivers anti-heavy HD, while **Trinitarian FO+Deployable Repeater Minelayer23/1** begins a forward network *already placed at Turn 0* with Camo/Infiltration; **Trinitarian FO22/0** is a different scoring profile. **Fugazi7/0**, **Pathfinder FO/Sensor/Repeater**, **Peacemaker FD native Repeater23–27** are budget/dual-purpose physical carriers. **Counter:** Knight of Justice HD/Pitcher45/.5 is a very pricey gun + hacker, not best network value; Order Sergeant/Trinitarian choices leave more points for Knights. No arbitrary TinBot Firewall implies Repeater.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
