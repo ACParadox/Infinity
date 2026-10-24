@@ -636,3 +636,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Vanguard K1 Sniper17/1**, **Anyat K1 Combi+E/M Grenades22**, and **Yaogat Panzerfaust21** are cheap-to-medium heavy-target deterrents, with Morat **Regular Orders/Warhorse** influencing trade value. **Kurgat Portable Autocannon30/1** is the serious **B2 AP+EXP** reusable killer, while **Bultrak Portable Autocannon(+1B)69 TAG** is a different budget. **Warhorse cancels Isolated**, not automatically every IMM state; don't count E/M versus other Warhorse troops as universally useless. [Cross-game anti-armor apex/value, E/M and AP+EXP guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Morat zone architecture:** durable **Warhorse** fighting pieces hold relevant approaches after Lieutenant loss, while **M-Drone FO/Sensor+Repeater** and source-legal **Rindak Paramedic24/0 FTO / 26/0 FD+20** do the actual mission work. **Rasyat BSG+Eclipse25/0** can enter from DZ edge and deny LoF to an objective approach but is not FO/Doctor by that profile. **Dāturazi Regular Smoke+CC14/0** protects heavier area anchor in a cost-effective guard role. **Counter:** Nomad-style multi-hacker network/spotlight may stop hackable pieces; don't presume Warhorse makes all models immune to Isolation, and don't value an exposed expensive Morat gun above one already-surviving specialist behind total cover.
+
+[Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
