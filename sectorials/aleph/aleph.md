@@ -855,3 +855,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Asura HD+63/.5** is a premium solo shooter/WIP15 hacker/MSV3/specialist with high durability, whereas **AP Spitfire61/1.5** is a non-hacking profile and **AP Spitfire LT65/1** is distinct. **Shikami-style Eclipse** isn't on Asura, and her expensive fair gunfights remain a weakness despite excellent full-suite competency. **Sophotect25 and Parvati36** trade offensive apex for a more efficient Doctor+Engineer/mission toolbox. [Whole-game tier and transcript debate](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**G:Jumper Posthumans** (2–3 Proxies, **one shared Regular Order**) are elite location/role compression: **Mk.1 Engineer/Doctor13/0 + Mk.5 FO13/.5 =26/.5** is a legal cheap specialist pair; add Mk.2 Camo/Infiltration or Mk.4 HMG only if jobs fit budget. **Only one unrestricted reactive ARO among Proxies per enemy Order**; other legal AROs Dodge/Reset. **Apsaras RemDriver20/1** (Vanilla option, versus **20/0 OSS**) gives one eligible REM a free deployment-time printed MOD, and **Pilot-X23/.5 + RacerBot8 each** is a **31/.5 minimum dependent package**, not standalone 8pt units. **Satrah MSV2+Albedo KHD20/0 or gun24/0** counters opponent MSV and camo with independent protections; **Kinnara Parachutist Eclipse+Monofilament24/0** is a rare backline blind-approach specialist, *different* from 25/.5 mine/Infiltration. **Opposing TA OSS:** Pilot-X/racerbot likely ubiquitous versus keeping a simpler Danavas/Mk.1 support budget.
+
+[Cross-faction rare abilities apex/value, mechanics, and MCP source debates](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Current roster/Fireteam profile tables above are authoritative.
