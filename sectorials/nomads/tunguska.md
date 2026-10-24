@@ -836,3 +836,9 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Mary Problems27/.5** combines BOTH printed Hacking Device and Killer Hacking Device suites, Pitcher, Mimetism(-6), FD+10 and Climbing+: exceptional 27pt infowar toolbox, not an HMG. **Kulak KHD+Carbonite/Disco20/0** trades device breadth for cheaper physical visibility/mission routes. An older toolbox-unit video doubts that Elena Kovac can put Sensor/BS/TA skills to use at one location; verify her exact current profile and link before applying that opinion. [Role and cost guide](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Puppetactica** is a rare **Peripheral(Control) + Transmutation(1) PuppetBot** approach: **Puppet Master11/0 + FO PuppetBot9/0 =20/0 minimum**, with a Counterintelligence controller and multi-Wound robot that becomes battle-ravaged when hurt. Not a standalone **9pt FO Regular Order**; activate per Control rules and protect Master. **Meteor19/0** is Combat Jump native Repeater+Sensor/FO (no independent Peripheral). **Opposing Shepherd/MetaChemistry:** puppet screening plus Interventor network increases strategic flexibility, but investment in bots and hacking can consume points when an ordinary 20–30pt scorer/attack unit is more efficient.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
