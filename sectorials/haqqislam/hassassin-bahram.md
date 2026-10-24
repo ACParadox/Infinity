@@ -755,3 +755,7 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Ghazi E/Marat5 (NO Smoke on Bahram's 5pt option)** is the extreme points-value TAG-disabler *if* the template route exists; 7pt E/Marat+Smoke is a different option. **Daylami Panzerfaust6 / Camouflaged+Infiltration8**, **Ghulam12 Panzerfaust**, **Nadhir23 Hidden Panzerfaust** cover ranged ambush. **Sunduqbut47 Feuerbach+Neurocinetics** is hard defensive ARO, **Muyib23 FO/Panzerfaust** brings mission duty; don't import Vanilla-only Azra'il without roster check. [Anti-TAG/HI apex/value and E/M recovery guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Indirect choice:** **Shaytaniyah Guided16/1.5** benefits from *already useful* Barid/Pitcher/FO Spotlights; **Daylami Grenade Launcher10/.5** has low-cost residual speculative utility, while **Muyib Rifle GL+Smoke GL21/1** combines damage/visibility in a legal Fireteam. Fiday/Asawira direct attacks are often more Order-reliable when enemy Resets or has good anti-network tools. Do not interpret a plain KHD as a universal Spotlight source. [Whole-game guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
