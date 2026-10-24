@@ -705,3 +705,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Unidron14 K1 Combi**, **Cube Jäger15 Mono/18 E/Mitter+Mono**, **Nexus23 E/Mitter** are different cheap can-openers: gun, flank assassin or electronic state. **Kurgat30/1 Portable Autocannon** is repeatable AP+EXP lethality, **Umbra Legate33 K1 Combi** is high-cost durable attack, **Xeodron K1 Marksman49** is TAG pricing separately. One E/M hit does not guarantee a permanent kill; use the Engineer-route/turn analysis. [Cross-game anti-armor apex/value, E/M and AP+EXP guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Onyx:** **T-Drone Guided16/1.5** can exploit Umbra/Nexus/Victor/Bit and R-/M-Drone/Unidron networks when those hackers and repeaters are already in the list. An **Overdron Albedo/Tactical Awareness** gun often removes a key MSV ARO more directly; **ECM: Guided on the TAG does not make the Overdron a Guided shooter**. Prioritize direct K1/plasma fire, super-jump objective access and specialist coverage over missile-only setup. [Global Guided vs Spec guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
