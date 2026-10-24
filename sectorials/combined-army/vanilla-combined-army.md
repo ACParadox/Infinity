@@ -895,3 +895,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Unidron14/0 K1 Combi B3** is the least-expensive repeatable ARM=0 source; **Nexus23/0 E/Mitter**, **Rodok24/0 E/Mitter**, and **Rasyat31/0 E/M Carbine+D-Charges+Eclipse/Parachutist(DZ)** have different flank/control jobs. **Speculo BSG26/1 Monofilament** offers highest one-target kill ceiling given legal Impersonation entry; **Kurgat30 Portable Autocannon** (in sectorials where available) provides lethal AP+EXP sustained fire. Unidron BS11 cannot win every FTF against BS15 TAG. [Cross-game anti-armor apex/value, E/M and AP+EXP guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**T-Drone Guided Missile16/1.5** is the compact payoff when **Umbra/Victor/Bit & KISS! + Repeaters + Targeted** already function. A hacker/FO must first cause Targeted (Spotlight AP PS5 Saving Roll) and Guided remains B1 with Dodge/Reset; **ECM Guided on Avatar/Sphinx/Overdron is a defensive modifier**, never extra missile capability. Avoid buying a fragile launcher instead of a needed direct anti-heavy gun/mission scorer. [Global indirect tier](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
