@@ -109,3 +109,9 @@ Supporting but obsolete: [Robert Shepherd N4 OSS faction focus](https://www.yout
 **Asura HD+63/.5** is the top toolbox anchor (visors, strong guns, WIP15 hacking, scorer, resilience), but **Asura AP Spitfire61** is NOT the hacker. If the list needs redundancy or fewer hackable premium bodies, **Posthuman proxy+Danavas/Dawon/Claire/Artalis** can distribute repair, hacking, scoring and gunfighting at the cost of coordination. The OSS Fireteam bonuses cannot be imported to vanilla.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Critical split:** **Samekh Guided16/1.5** is **non-FTO**; **Samekh FTO15/1.5 direct Missile/Flash** is *not Guided*. OSS Danavas/Asura + Pilot-X/RacerBots/Daleth can build fast Spotlight but a main Marut/Asura/Rudra gun may be more reliable than several setup/save/Reset rolls. Add Guided only when cheap repeaters and spare Orders already exist.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
