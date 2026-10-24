@@ -1,5 +1,7 @@
 # Midfield Area Denial & Speed Bumps — N5.3 Apex / Value / Matchup Guide
 
+**From denial to actual scored territory:** [Objective Holding / Zone Domination / Carried Objectives — apex/value](objective-holding-zone-domination-and-carriers-apex-value.md) explains whether forward Minelayer/Repeater/Hidden guard leaves a **non-Null model in the scoring quadrant**, blocks the enemy's final contact with a carrier, or only spends enemy Orders. Distinguishes Baggage/Embryo exceptions by mission.
+
 **Network-specific tiers:** [N5.3 Network Projection — Pitchers, Repeaters, TinBots and kamikaze carriers](network-projection-repeaters-pitchers-apex-value.md) explains why Moran/Initiated/Guìláng can start an active Repeater zone before Order 1, while fast native REMs, Pitcher, FastPanda and Drop/Place nodes have different setup and survival costs.
 
 _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SWC, profile skills, army availability and Fireteam restrictions come from this repository's **current N5.3 September 2026 sectorial references** (Army 7.26246.158/.159). Media are interpretations, not profile authority. No cross-faction entry implies that the same loadout is legal in every army._
