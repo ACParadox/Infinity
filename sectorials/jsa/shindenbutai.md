@@ -847,3 +847,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Uran Guided Missile16/1.5** is an *optional* payoff for **Tanuki HD Pitcher20/.5 + Robio/Atom/Pangguling Repeater/FO**, not Shinden's mandatory primary long gun. Shepherd prefers a direct **Trinity attack on enemy Hacker** to Guided in many early Network windows; a Uran already positioned in Group 2 can still punish Targeted/Spotlight ARO. The **Garon Smoke GL16/0** is visibility control, not a high-damage speculative grenade. [Whole-game decision guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Hatamoto Specialist+Nanoscreen+NCO34/0** is a durable-but-mobile W2 carrier that also protects himself in CC; can use NCO Orders, not an automatic extra Regular Order. **Karakuri is not imported from Ōban just because JSA has it**; exact Shindenbutai roster lacks it. Choose available **Tanuki20/.5 Hacker+Pitcher+Disco**, **Yukina/Yūgao/other roster-legitimate specialists** for position, with cheap 7pt Robio Repeater and defensive traps rather than imagining a Karakuri wall. **Counter:** a 34pt Hatamoto in full view of multiple guns is less safe than a 20pt specialist behind terrain.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
