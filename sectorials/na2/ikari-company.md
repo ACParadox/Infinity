@@ -949,3 +949,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Karakuri FO31/0 (AVA2)** gives one of the game's strongest actual **STR3/Enhanced-Immunity 0SWC Supply Box carriers**, with Heavy Shotgun/Chain Rifle/Panzerfaust. It remains a genuine FO while keeping objective behind terrain; **35/0 MULTI or38/0 Mk12** are better only if shooting pays. **Daiyōkai46/0**, ARM5 W2+NWI/NCO, and **Al Fasid HRL44/1.5** offer heavyweight *zone VP and ARO*, but are **not automatically Supplies Specialists**. **Yojimbo/Warband Smoke** covers transfer/extraction; **Rui Shi MSV2** hunts camo. **Disagreement:** Karakuri + cheap backup Engineer/Smoke holders protect the box better than using a pricey HMG hero to stand on an exposed console; when mission is pure quadrant scoring, Daiyōkai's 46pts can flip zone faster.
 
 [Cross-game holding and carrier apex/value, scenario rules and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Use pinned local roster/Fireteam chart.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Pathfinder FO/Sensor** is Ikari's cheap **Camo/Hidden** sweep and utility REM; **Rui Shi MSV2 Spitfire23/1** or **Brawler MSV2 MULTI Sniper25/1.5** is for direct anti-Mimetism shooting. **Tankō Disco19/0** and **Wardriver Disco16/1** are actual anti-enemy-MSV/Marksmanship *passage* tools; ordinary Smoke from Yuan Yuan/Desperados/Al Fasid is not reliable against MSV2. **Counter:** the Brawler and Rui Shi can themselves be shut down by White Noise/Albedo; preserve a conventional gun/cheap screen and do not assume all Tankō variants carry Disco.
+
+[Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
