@@ -1,5 +1,7 @@
 # Vanilla Nomads — N5.3 Tactical and List-Building Guide
 
+**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](nomads-must-have-go-to-avoid-source-audit-2026.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
+
 ## Scope and evidence (22 October 2026)
 
 **Authority:** [Vanilla Nomads roster, profiles and Fireteams](../../sectorials/nomads/nomads.md) is the source of truth: N5.3, Army `7.26246.158`, verified 15 October 2026. Consult the [rules index](../../rules/README.md) for exact timing and effects. This note is **analysis**, not a replacement Army profile or current tournament pick-rate study. Corregidor, Bakunin and Tunguska have [separate authoritative profiles](../../sectorials/nomads/). Their distinctive units, sectorial AVA and Fireteam bonuses **do not carry over**.
