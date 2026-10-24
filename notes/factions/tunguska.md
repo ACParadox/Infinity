@@ -139,3 +139,9 @@
 **Mary Problems27/.5** beats ordinary budget hackers for *two-device hybrid utility* (HD+KHD program packages, Pitcher, FD, Mimetism -6, Climbing+) when the same midfield needs to threaten Hackers **and** HI. **Kulak KHD+Carbonite/Disco20/0** can be better on price and legal Securitate/VATRA role; do not give it nonexistent White Noise. **Elena Kovac** is a disputed toolbox per Infinity the Dante: Sensor/Triangulated Fire/TA/SpecOp look broad, but the weapon/FT position can make them mutually awkward.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**Puppet Master11/0 Counterintelligence** is an unusual S+ *points-value* support troop; don't treat PuppetBot cost as all-in or count PuppetBot as an extra Regular Order. **Hollow Men TinBot(-3)24** and **Mobile Brigada(-6)33** protect actual teammates only in legal Fireteams. **TAG-Treiber** modifies same-group TAG by printed Dodge/GizmoKit bonuses, not the whole army. **Salyut8 Baggage or14/.5 EVO** is a 6pt/0.5SWC upgrade when a Vostok/other REM will use Assisted Fire/Enhanced Reaction. Opposing approach: cheap backline Puppeteer+Salyut may support more independent tools than a larger Hollow Man link.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
