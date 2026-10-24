@@ -791,3 +791,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Evader AP Spitfire Engineer35/1.5** combines real midrange AP gun, WIP13 Engineer/GizmoKit, NWI/Climbing+, Deactivator, and TinBot(-3). **Evader AP Spitfire31/1 is Specialist Operative, NOT Engineer**. **Evader BSG Engineer24/0** usually maximizes support value; the **Gecko+Evader+Stempler** legal Deepspace module is high-ceiling shared gun/repair/scoring/repeater but costs all three troopers and proper Fireteam access. **Coyote FTO KHD+Carbonite23** is Surface-only and is a different toolbox plan. [N5.3 toolbox tiers](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Coyote FO27/0 with BambaBot-1/2** gets a **Forward Observer controller plus synchronized combat peripheral** in an FD(+10), MSV1, X-Visor, Warhorse package. **BambaDroid FO13/0** is *another selectable dependent REM* with a **Coyote in the same Combat Group**, not that BambaBot: **Coyote27 + BambaDroid FO13 =40/0** gives two FO-capable *troopers*, not a synchronized double-FO skill. Additional BambaDroids limited by Coyote count/group. **Opposing WIP12:** useful MSV/BambaDroid utility/mission flex, but a fragile multi-body setup can cost Orders and unnecessarily crowd a Moran/Jazz/Gecko plan. **Señor Massacre25–27/0 Eclipse+E/M grenades+CC** gives separate rare linkable close-approach control.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
