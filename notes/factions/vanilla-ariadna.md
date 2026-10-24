@@ -89,3 +89,9 @@
 **Value:** Traktor Katyusha **9/1** is a cheap Guided payoff *only* when a Chasseur/Strelok/SAS/other FO already marks targets. **Dog-Warrior PH-based Speculative**, Carmen+Bâtard grenades and Kuryer where available work **without** target-state setup. Against dispersed nonhackable lists, an expensive Hacking→Guided plan can do very little (Shepherd's 2026 CanCon account); count Range/Setup/Reset/Orders.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**Traktor Mul Baggage5/0** is exceptional cheap Regular Order + reload where legal; don't confuse its artillery profiles with free Baggage cost. **Voronin Counterintelligence LT** is solid early-turn protection, but **current TAK Voronin has NO Strategos**—army variants differ. **Spetsnaz/Strelok/Scout Decoy** creates hidden target ambiguity; false Decoys don't make extra AROs or Orders. Ariadna rarely gains from EVO unless a legitimate rostered device and meaningful support targets exist.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
