@@ -1137,3 +1137,9 @@ Treat older N4 / early-N5 material as historical context where current Army prof
 
 - **Vanilla has independent Disco/Albedo access** via selected PanO profiles, but **does not gain Kestrel/Varuna/NCA Fireteam bonuses**. A cheap **Fennec 13pt FO/Sensor/Disco** is attractive in its Kestrel legal context; in Vanilla, verify its own roster availability and selected model before importing its cost or Order plan. Premium Aqua/Quinn/Vargar/Konstantinos Disco picks justify themselves when scoring or gunfighter mobility is also used.
 - **Vision difference:** PanO's powerful MSV shooter wants **normal Smoke**, while **Disco's Eclipse template blocks even friendly MSV**. Pick the desired interaction instead of assuming either grants safe one-sided firing. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Tech-Bee TAGCom9/0** offers PH+3 Dodge/GizmoKit+1 for same-group TAGs (where eligible); **Mulebot8/0** Baggage Regular and **14/.5 EVO** are utility depending on the disposable/REM/Combat Jump program. **Maximus FTO TinBot(Repeater)45/1** helps only a legal team; neither TinBot nor TAGCom works across groups indiscriminately. **Squalos/Redeye/Tik** direct attack options frequently deserve the 6pt/0.5SWC saved by 8pt Mulebot over EVO; compare after assembling actual list.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
