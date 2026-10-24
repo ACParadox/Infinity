@@ -796,3 +796,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Fennec FO+Sensor+Disco13/0** has premium list-building **value** rather than gunfight apex: Regular Order, scoring, detection and projected Eclipse on one cheap eligible Fennec body. The basic **10pt Fennec** may be better when no crossing is needed. **Firefly CoC23 and Engineer23** are separate variants; do not attribute both to a single model. [Toolbox ranking](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Drummer FO+Drumbot-5 21/0** is cheap **FO controller + synchronized 360º bot**; reactive fork and active scoring, **not** independent bot Order or verified second FO. Larger **47/1 double-bot** packs add bodies but not free Orders. **Crux Father-Knight47/0 Hidden+FD+Albedo(-6)+NBW+Specialist** or **46/0 FTO** brings a rare stealth/anti-visor/CC-combat specialist hybrid; **FTO loses Hidden/FD setup**, do not merge. **Maximus Agent FTO45/1 with TinBot Repeater** is unusual network-by-Fireteam rather than another peripheral. **Counter:** a 13pt Fennec FO/Sensor/Disco and 14pt Fennec Minelayer preserve more Orders/points than heavy rare-skill combo when opponent has no MSV or rooftop breach.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
