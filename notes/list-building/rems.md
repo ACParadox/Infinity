@@ -1,5 +1,7 @@
 # List-Building Strategy — REMs
 
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+
 REMs should be evaluated by the battlefield role their chassis enables rather than treated as one generic category.
 
 A recurring strength of basic REMs is that they can provide **very cheap Regular Orders** while also carrying useful passive abilities. The main limiting factor is often not points but **deployment footprint**: S3 REM bases take meaningful space, cannot use every hiding place available to infantry, and can become difficult to keep protected when a list already contains many REMs, TAGs, VH, motorcycles, or other large-base models.
