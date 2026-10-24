@@ -971,3 +971,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Colonel Voronin LT22/0** has Counterintelligence+Sensor+Guard and +1 Command Token, but **NO Strategos in pinned TAK**; do not transplant Vanilla Ariadna's commander description. **Traktor Mul5/0 Baggage Regular Order** is among game's cheapest reload/Order support, with artillery profiles separately priced. **Kuryer Katyusha15/1** provides Baggage/Warhorse/Minelayer plus a real artillery role. **Strelok/Barsuk/Spetsnaz Decoy** are deception at chosen profile cost, *not real extra ARO bodies*. [Global force-multiplier tiers](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**K-9 Specialist26 with synchronized Sensor Antipode** or a legal **Antipode Assault Pack** gets Sensor to enemy Camo/Hidden markers; the *15-15 movement and scouting route* matters more than the keyword alone. **Voronin WIP14 Sensor** guards a local LT/command area, not the entire midfield. **Wardriver Disco Baller16/1** is scarce **Eclipse** against hostile MSV/Marksmanship; ordinary Smoke/cheap Irmandinho cannot blind MSV2. **Competing TAK judgments:** Antipode Sensor pressure is worth a dedicated approach when multiple markers actually block the mission; simply **ignore a low-value marker** if Discovering it would consume scoring Orders.
+
+[Cross-game anti-tech N5.3 apex/value, mechanics, matchups and checked conflicting transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
