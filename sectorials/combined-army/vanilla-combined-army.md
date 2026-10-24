@@ -881,3 +881,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Bit & KISS! HD/Trinity+Pitcher+Deployable Repeater25/.5 with native-Repeater KISS** is an exceptional **multi-channel** projection package; **22/.5 KHD/Oblivion** is a different version **without native-Repeater KISS**. **Umbra Legate FTO HD+/Pitcher38/.5** is a BS13 projection+assault/White Noise source in a *legal* Vanilla team, while **Umbra FD HD+Deployable Repeater42/.5** places a node only after activation. **Ikadron11/0 native Repeater+Baggage/LFT**, **R-Drone7/0**, **M-Drone FO/Sensor/Repeater** are budget support/kamikaze choices. **Counter (Shepherd):** elite Umbra/cyber characters are vulnerable to enemy projected KHDs; preserve actual attacker and use cheap native carrier when possible.
 
 [Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## Tactical cross-reference — toolbox units (2026-10-23)
+
+**Nourkias48/1** has WIP15 HD (Total Control/Trinity upgrades), K1, CC25/MA4/Protheion, Super-Jump/NWI/NCO and a hacking Specialist role. This is a higher *toolbox breadth* than Sheskiin, but Shepherd prefers Sheskiin for independent gunfighter effectiveness and fewer positional constraints. **Bit & KISS!25/.5** and eligible Caliban are the cheaper projected cyber/mission candidates. [Whole-game guide](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
