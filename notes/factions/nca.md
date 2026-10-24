@@ -1007,3 +1007,9 @@ The main modern NCA insight is:
 
 - **Vision remains a premium problem:** **Aquila MSV3 / Disco Baller** and **Richard Quinn Disco** solve protected crossing or specialist routes, but consume more resources than Kestrel's 13pt Fennec. NCA should not be credited with cheap Fennec Disco access simply because both are PanO.
 - **Disagreement retained:** Gravitypool sees the Aquila FTO Disco spearhead as plausible; Shepherd calls the premium LT/vision purchase inefficient unless the mission actually requires it. The Mainfinity example of an Aquila using Disco for a late antenna illustrates the exceptional case. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Clipper Guided16/1.5** can use NCA's **Fusilier/linked hacking and Fugazi/Pathfinder/Peacemaker Repeater/FO** but requires real Spotlight setup and spare SWC; its **FTO +1B Missile** is a different *non-Guided* role if present. **Squalos Mk-II HMG+GL62/1.5** is a strong active shooter with supplementary Speculative capability. NCA's Swiss Guard/Aquila conventional gun and command alternatives may offer greater value without multiple setup/save/Reset stages.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
