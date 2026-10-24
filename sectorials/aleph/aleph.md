@@ -875,3 +875,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Asura HD+63/.5** has W2+NWI/ARM5/MSV3, WIP15 and hacker counterplay: elite **carry-and-fight** apex, though losing it risks too much list value. **Posthuman Mk.1 Engineer13 + Mk.5 FO13/.5 =26/.5** gives **two location options, one shared Order**; do not count 26VP twice when comparing zones, and non-active Proxies Dodge/Reset. **Marut86/1.5** is huge ARM8/STR3 zone swing, *not normal Supplies carrier*; **Maximus TAG80/1** 4STR is a second raw mass option. **Yadu FO27/0** NWI/Warhorse, **Apsaras/Deva protected score** are cheaper. **Opposing TA OSS/LoL:** luxury Marut/Maximus/Asura screen can win lanes, but the cheap Posthuman/Deva plus independent artillery often scores more reliably.
 
 [Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Asura HD+63/.5 (MSV3 + WIP15 White Noise)** is an apex *solo* multi-tech answer: visible Camo can be automatically Discovered under MSV3 and enemy MSV/Marksmanship corridors can be blinded via projected White Noise. **Marut86/1.5 MSV2 MULTI HMG** instead *kills* revealed Mimetism/Smoke shooters at very high TAG cost. **Satrah MSV2+Albedo** (KHD20/0 versus gun24/0 are different options) cheaply answers both enemy visor and Mimetism; **Daleth/Pathfinder Sensor FO REM** detects Hidden/Camo behind cover at ZoC and is much more efficient than paying 63pt merely to identify a 15pt marker. **Counter:** White Noise also disables *friendly* visor LoF through the zone; Albedo is matchup-only.
+
+[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
