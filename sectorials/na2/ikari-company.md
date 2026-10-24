@@ -943,3 +943,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Cube Jäger15 Monofilament Parachutist /18 E/Mitter+Mono** has outstanding one-target ceiling for the cost, but requires an actual legal flank/contact and contributes an Irregular Order. **Tankō18 Blitzen+Mono**, **Wú Míng19 E/Marat**, **Táowù19 E/Marat**, **Lù Duān20 E/M Carbine+Mine**, and **Druze21 Panzerfaust** offer near-budget deterrence. **Wú Míng33 AP HMG** is sustained lethal B4 AP; **Scarface+Cordelia76** is TAG-scale investment. Yuan Yuan6 Smoke is delivery/cheap trade, **not** intrinsic E/M or Panzerfaust. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Karakuri FO31/0 (AVA2)** gives one of the game's strongest actual **STR3/Enhanced-Immunity 0SWC Supply Box carriers**, with Heavy Shotgun/Chain Rifle/Panzerfaust. It remains a genuine FO while keeping objective behind terrain; **35/0 MULTI or38/0 Mk12** are better only if shooting pays. **Daiyōkai46/0**, ARM5 W2+NWI/NCO, and **Al Fasid HRL44/1.5** offer heavyweight *zone VP and ARO*, but are **not automatically Supplies Specialists**. **Yojimbo/Warband Smoke** covers transfer/extraction; **Rui Shi MSV2** hunts camo. **Disagreement:** Karakuri + cheap backup Engineer/Smoke holders protect the box better than using a pricey HMG hero to stand on an exposed console; when mission is pure quadrant scoring, Daiyōkai's 46pts can flip zone faster.
+
+[Cross-game holding and carrier apex/value, scenario rules and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Use pinned local roster/Fireteam chart.
