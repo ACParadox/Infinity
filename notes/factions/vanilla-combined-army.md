@@ -1,5 +1,7 @@
 # Vanilla Combined Army — N5.3 listbuilding and profile guide
 
+**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../list-building/combined-army-must-have-go-to-avoid-transcript-evidence.md).
+
 _Researched 2026-10-22. Current standard army roster: [official Combined Army / Vanilla](https://infinityuniverse.com/en/factions/combined-army/vanilla). Current rules: [N5.3 / ITS18 (2026-09-01)](https://infinityuniverse.com/en/news/infinity-rules-update-5-3). Direct source: full **YouTube MCP** transcripts of Robert Shepherd (Apr 12, 2026), Tactical Awareness S3E15 (Mar 2025), Infinity the Dante's opposing-player guide (May 2025); full **Podcast MCP** transcripts of WIP12 E176 (Jan 2025), WIP12 E171 (Oct 2024), Loss of Lieutenant E142 N5 TAG tier list (Apr 2025) and Irregular Order #56 Onyx comparison (Oct 2026). Earlier advice is **dated**; legality, AVA, prices, Fireteams and exact skills require current Infinity Army._
 
 **Pinned reference and rules authority:** [Vanilla Combined Army N5.3 roster and canonical Fireteams](../../sectorials/combined-army/vanilla-combined-army.md), Army **7.26246.158** (September 2026), plus [current local rules](../../rules/README.md). The uploaded video's/podcast's transcript statuses and dated opposing opinions are preserved as **source research**, not newly retrieved during this GitHub merge.
