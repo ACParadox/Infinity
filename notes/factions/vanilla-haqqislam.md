@@ -272,3 +272,9 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 **Guided:** **Shaytaniyah16/1.5** is an optional missile payoff for **Barid HD+Pitcher16/.5**, infiltrated **Hunzakut FO/Repeater** or **Rafiq Repeater/FO**. Current vanilla also lists a **19pt +1B Guided** variant, but verify each sectorial separately (Ramah differs). **Speculative:** Hunzakut GL18/.5, Daylami GL10/.5, Muyib/Ghulam and **Maghariba HMG+GL71/1.5** offer different no-Targeted options. Saladin's cheap troop economy makes low-cost extras attractive; an elite TAG should never be bought merely for B1 speculative.
 
 [Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Saladin LT39/0** is apex whole-army support only with real eligible Irregular density: **Strategos L2 + Inspiring Leadership + Counterintelligence**. Religious models and mostly-Regular forces weaken its premium. **Kameel8/0** is cheap Baggage/Repeater; **14/.5 EVO** supports actual air/REM plans and **cannot Spot/Oblivion** natively. **Bashi Holomask** gives an optional fake Saladin threat, not a true free Decoy Order; Decoy static markers also produce no Orders. Shepherd recommends Saladin often but explicitly notes alternatives can buy another real attacker.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
