@@ -1048,3 +1048,9 @@ The strongest current Ōban lists instead combine **positional visibility contro
 **Uran Guided16/1.5** is an inexpensive *optional* missile after **Robio/Atom/Pangguling Repeaters + legal hacker/FO Targeted**, not an obligatory Oban identity. **Shikami Eclipse objective reach, Tankō Disco and O-Yoroi** deliver more dependable mission progress if no easy Targeted route exists. Guided helps when a hidden specialist cannot be attacked without exposing an expensive model; allow for Reset/Dodge and SWC.
 
 [Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Pangguling8/0 Baggage** and **14/.5 EVO** help Rui Shi active shooting and **Koala/Mine Dispenser** logistics, with normal Reload/States Phase rather than replacing deployed mines. **Ryūken-style Decoy/Minelayer** can tax Discover and protect a real ARO, but fake markers have no independent ARO/Order and cannot freely join a link. A strong Shikami/Karakuri/Tankō attack plan must still have real active Orders: don't overspend 0.5SWC just to enable Supportware the REM won't use.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
