@@ -852,3 +852,9 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 **Hollow Man Boarding Shotgun Specialist21/0** is extraordinary **W2/ARM4/BTS6/Remote Presence/Super-Jump** on legal Hollow Men team: durable 21pt package for Supplies and zones; **23/0 combi / 26/0 Pitcher** are *not* Specialist automatically. **Puppet Master11/0 + FO PuppetBot9/0 =20/0** is distributed resilient *Peripheral Control* package, battle-ravaged bot, not multiple pooled Regular Orders; keep Puppet Master in cover. **Szalamandra68/2** 3STR/ARM8/BTS9/HRMC flips quadrants hard but cannot normal Supplies. **Kriza Borac Mk12+360º48/0** W2 ARM5 durable area gun (not a box Specialist), contrasts 45/1.5 HMG attack. **Opposing Shepherd/MetaChemistry:** Hollow Men may be overlinked/expensive, but **one 21pt Specialist + defended Puppets** retains 2 zones cheaper than elite hacking/one TAG approach.
 
 [Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Interventor HD+18–23/.5** is strong **White Noise** value when its Repeater network can place the template across enemy MSV/Marksmanship LoF; **KHD Kulak20/0 Disco** is Eclipse delivery, **not** an HD+ White Noise user. **Stempler FO/Sensor/Triangulated Fire REM** can actually reveal Camo/Hidden within ZoC; **Meteor Zond Sensor/AD** changes arrival angle but adds travel/entry risk. **Grenzer MSV gun / other linked marksman** are direct anti-Mimetism shots, yet vulnerable to enemy White Noise and Albedo. Take a non-visor fallback, not a whole army that depends on one visibility mode.
+
+[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
