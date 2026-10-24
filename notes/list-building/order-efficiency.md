@@ -1,5 +1,7 @@
 # List-Building Strategy — Order Efficiency
 
+**Actual per-Order multi-body packages:** [N5.3 Peripherals and G:Jumper apex/value](peripheral-synchronized-multibody-apex-value.md) compares **Synchronized simultaneous movement/target splits**, **Control one attacking Spearhead**, **Cyberplug Autonomous pool-spending**, **Posthuman multiple locations for one Order**, Servants and Ancillary, including whole purchase costs. **Polaris 32pt Masha+Bearpode generates two Regular Orders but is not a Peripheral**.
+
 **Cross-game attack-piece comparisons:** [Active-turn gunfighters — apex versus points/order value](active-turn-gunfighters-apex-and-value.md) evaluates how much useful killing/scoring a model gets from setup, movement, Burst, extra Orders and repositioning; an expensive high-Burst gun is not automatically efficient.
 
 Order efficiency is broader than simply generating more Orders. A list can improve its Order economy by generating extra usable Orders, making restricted Orders more flexible, activating several useful pieces with one Order, reducing the number of Orders needed to reach a task, increasing the chance that each Order succeeds, and creating setup or support effects that multiply later activations.
