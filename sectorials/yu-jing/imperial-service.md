@@ -1061,3 +1061,7 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 **Bào Riotstopper16/0** is a cross-game **S+ value** anti-tech package (**MSV2+Albedo(-3)+Biometric+Discover(+3)**), not a 16pt high-Burst sniper. **Bayara18/0** adds Biometric/MSV1/Guard and optional Disco; **Wèibīng14/0** is the cheap **Sensor/FO/Triangulated Fire** hunter for Camo/Hidden behind walls; **Hsien MSV2** or **Deva MSV2 gun** buys better actual shooting. **Matchup:** use Bào to check IMP and visors where a short lane exists; if the opponent relies on plain guns, Albedo has no marginal value. Sensor cannot mass-Discover IMP-1.
 
 [Full N5.3 anti-tech apex/value, rules, matchups and transcript disagreements](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Sun Tze LT53/0** is whole-army deployment apex (**Strategos2, Counterintelligence, Decoy(2)**, chosen +1Order **or** +1Command Token), but weak *cost efficiency* versus **Táowù Counterintel16/0** plus economical LT. **Pheasant CoC+Strategic Deployment23–28** grants a *legal team* FD(+4″) and command backup, not all Fireteams simultaneously. **Wú Míng Firewall(-6)22/0** protects its Fireteam at cheap points, **Hsien(-6)47** is premium. **Qíshì TAGCom pilot10** only supports printed same-group TAG benefits. **Pangguling8 Baggage/Repeater vs14/.5 EVO** based on Rui Shi and airborne plan. [Global guide](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
