@@ -159,3 +159,9 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 **T-Drone Guided16/1.5** exploits **Umbra/Bit/Victor hacking and R-/M-Drone/forward repeater** already protecting elite troops; **Dāturazi smoke + Vector/Overdron/Sheskiin** remains the conventional damage route. The best return for many opponents is an anti-hacker attack or Oblivion rather than a missile: don't build every turn around Spotlight's save plus another Guided FtF roll. **Nox Guided sniper** and T-Drone are separate unit profiles.
 
 [Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Avatar LT Strategos2** is apex *combat+command*, but for cheap operational support consider **11pt Ikadron Baggage+Repeater/LFT**, **8pt basic legal Baggage support REM**, or faction-specific **EVO14/.5** when non-hacker REMs/AD need it. **Nexus/Aspect command** may be a better Order investment than a support stack if list lacks REM guns. **Cyberplug Gearhead/Puzzler belongs to Next Wave where rostered**; don't import its legality into vanilla Combined from shared parent faction.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
