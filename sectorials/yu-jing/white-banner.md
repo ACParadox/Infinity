@@ -833,3 +833,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Tactical cross-reference — vision control (23 October 2026)
 
 **Hwarang20/0 Disco + Deactivator** is a strong HI Fireteam Eclipse enabler; **Shaolin5–6/0 ordinary Smoke** is the efficient loose screen/CC trade; **Rui Shi23/1 MSV2** can instead attack *through normal Smoke*, and **Yín-Shé Albedo** targets an opposing MSV gun directly without protecting allies. **Opposing approaches:** the Jujak/Hwarang/Haetae/Dokkaebi combo gains safe scoring/approach, but costs multiple model slots and Orders; cheaper Shaolin + a single attacker may be better on open/simple missions. **No** amount of White Noise/Albedo should be mistaken for Eclipse's universal LoF block. [Apex/value guide](../../notes/list-building/vision-control-units-apex-and-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Shaolin Warrior Monk5/0 CC23/MA3/Smoke** is an extremely cheap *approach enabler and disposable counter-charge*, but Impetuous/Irregular limits pooled Orders. **Jing Qo32/0** is true **CC23 MA3, Berserk, NWI, Climbing Plus** medium-cost close fighter who also contributes shooting and legal Shaolin-team mobility; can overpower ordinary defenders, but **not** an Oniwaban's Hidden/Monofilament alpha strike. **Kunai28** is a Hidden **sniper MA3**, no Infiltration or premium Mono kill: don't misrank it as an assassin. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
