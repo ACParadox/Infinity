@@ -859,3 +859,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Atom Aibōt FO/Sensor15/0** is the *cheap* Hidden/Camo counter rather than sending a pricey Mechazoid into speculative Discover. **Tanuki HD + Disco20/.5** bypasses opposing MSV/Marksmanship using Eclipse-style placement; do not call a Tanuki hacker White Noise HD+ without verifying its printed device. **Tanuki MSV2 HMG29/1.5 or MSR27/1.5** and **Rui Shi MSV2 Spitfire23/1** are direct guns against revealed Mimetism; these are not the 20pt Disco loadout. **Choose:** Sensor for many markers, Disco for a defended lane, MSV2 gun for an ARO that must be killed. Count Fireteam and ammo restrictions.
 
 [Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Metsuke LT Strategos1/Counterintel22/0** is a cost-efficient command shell; **LT(+1 Order)23/0** is alternative, not combined. **Shizoku HRL(+1B) Strategic Deployment38/1.5** applies FD(+4″) to a **legal Sayō** team only; Yamabushi's individual FD **doesn't trigger +8″**. **Taguraidā Mechazoid Pilot12/0 TAGCom** benefits same-group TAG only per bracketed Dodge/GizmoKit MODs. **Pangguling8 Baggage/Repeater vs14/.5 EVO** supports Rui Shi/Dispensers/airborne when effect actually activates. [Whole-game guide](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
