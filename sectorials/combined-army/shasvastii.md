@@ -594,3 +594,7 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **R-Drone7/0 Flash/native Repeater**, **Ikadron11/0 native Repeater/LFT/Baggage**, **M-Drone FO/Sensor/Repeater** establish low-cost network for protected hackers, while **Victor Messer Cybermine/Deployable Repeater Minelayer(2)30/.5** can pre-place remote nodes on the *actual chosen Minelayer profile* (the 31/.5 ECM-Guided TinBot option is separate). Hidden/forward Shasvastii units instead deny different approaches; do **not** claim that owning Mines alone means a free deployed Repeater. **Counter:** cyber network without worthwhile Hackable targets is weaker than Shrouded mine/Noctifer ARO and physical screens, and enemy KHDs can retaliate via exposed nodes.
 
 [Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## Tactical cross-reference — toolbox units (2026-10-23)
+
+**Caliban FO26/0, Engineer28/0 or CoC29/0** compress Camo/FD+20/Protheion/MA3/CC23 with a **profile-specific** objective, repair or command job. **MSV1 Spitfire36/1.5 is a DIFFERENT combat-only loadout.** 2026 tournament evidence supports multiple independent Caliban plus a conventional ranged gun, while one 1W Caliban left exposed remains vulnerable. **Sheskiin** is better direct combat but not a hacker/scoring specialist. [Cross-game toolbox tiers](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
