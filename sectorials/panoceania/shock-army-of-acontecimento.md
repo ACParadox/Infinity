@@ -644,3 +644,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **SAA** can put a **Peacemaker FD+20 Repeater+Auxbot23/0** plus **Regular FO+Deployable Repeater12/0** into an objective approach cheaply, with hard **Tikbalang** where currently roster-legal for quadrant VP. **Scylla HD/Trinity+Charybdis32/.5** is a 2-body hacking/DTW defender that protects an eligible nearby holder (Charybdis cannot inherit Scylla's Specialist qualification), and **Regular FO+Sensor/Minelayer** options should be checked per chosen profile. **Opposing MetaChemistry SAA:** many utility Regulars win by being in two quadrants while elite gun clears one, but a Minelayer+smoke/protection choke can pay for itself against early rush; don't treat a carried box as a marker.
 
 [Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Regular13/0 Shock Minelayer + Sensor + Triangulated Fire** is exceptional cheap *regular-Order* anti-Camo/Hidden DZ insurance: pre-placed mine plus WIP+6 ZoC search; it isn't an Infiltrator. **Pathfinder14/0 Sensor/FO** is the better **mobile** search if the valuable Camo is beyond the home zone. **MSV** attack is an alternative when the target has already revealed but still imposes Mimetism; a long-skill Triangulated Fire gun ignores those roll penalties without needing a visor. **Opposing SAA reviews:** some value the 13pt guard's many jobs over another Sapper ARO, others need direct long-range firepower. Both are valid depending on how likely the enemy markers enter Sensor reach.
+
+[Cross-game anti-tech N5.3 apex/value tiers, matchup selection and checked opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
