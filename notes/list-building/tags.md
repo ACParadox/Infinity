@@ -4,6 +4,8 @@
 
 **Repair investment for 50–122pt TAGs:** [Doctor/Engineer/Servant recovery apex and value](doctors-engineers-and-recovery-apex-value.md) compares WIP success, Remote Presence rerolls and Order-to-contact cost rather than treating an Engineer as free insurance.
 
+**How to counter TAGs without hacking:** [2026 N5.3 anti-TAG/HI apex/value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) compares cheap 5–20pt E/M/K1/disposable weapons, active B4 AP and Monofilament with real reset/Engineer recovery, not only TAG-vs-TAG gunfights.
+
 ## Executive answer
 
 - **Most oppressive ceiling ("apex")**: **Avatar, Marut, Cutter, Zeta, Sphinx**; the first two bring extraordinary gun/command packages, Cutter/Sphinx protect their investment through marker state, and Zeta combines HRMC with Climbing Plus. They are **not automatically best buys**.
