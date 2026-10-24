@@ -153,3 +153,9 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 **Nourkias48/1** is among the most diverse solo attackers (WIP15 HD Total Control/Trinity, K1 gun, NCO, CC25 MA4/Protheion, Super-Jump, NWI): excels into central HI/TAG/hacker + CC interactions. Shepherd's counterargument: **Sheskiin** wins more ordinary gunfights with less delivery and is thus often superior as *pure attacker* despite having no scoring Specialist. **Caliban** or **Bit & KISS!25/.5** are the lower-cost tech/mission role-compression alternatives.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**T-Drone Guided16/1.5** exploits **Umbra/Bit/Victor hacking and R-/M-Drone/forward repeater** already protecting elite troops; **Dāturazi smoke + Vector/Overdron/Sheskiin** remains the conventional damage route. The best return for many opponents is an anti-hacker attack or Oblivion rather than a missile: don't build every turn around Spotlight's save plus another Guided FtF roll. **Nox Guided sniper** and T-Drone are separate unit profiles.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
