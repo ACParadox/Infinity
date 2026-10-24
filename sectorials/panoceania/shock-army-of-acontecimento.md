@@ -628,3 +628,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Acontecimento's Dart35/0** has Camouflage/FD(+20), NWI, Climbing and **AP SMG/Viral bow/E/M grenades**, but **CC16**: excellent *ranged ambush*, not a dedicated MA4 melee assassin. **Naga** similarly uses Camo/Infiltration and mines, not intrinsic melee lethality. **Bagh-Mari** and **Dragoons TAG** gunfire control approach lanes; avoid direct CC against an Oniwaban/Speculo. Use visible cheap screens/mines to stop opponents reaching an expensive gunline. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Scylla+Charybdis32/.5** bundles an HD/Trinity/Pitcher and synchronized Repeater+template bot, while **Regular FO+Deployable Repeater12/0** or **HD+FastPanda17/.5** are inexpensive *place-then-project* tools (no free T0 repeater if not Minelayer). **Fugazi7/0** and **Pathfinder FO/Sensor/native Repeater** are Regular alternatives; **Peacemaker FD(+20) native Repeater** offers an immediate projection point and template/defensive fork. **Opponent view (MetaChemistry):** cheap utility Regulars and guns may do more than a fixed hacking castle, especially when enemy can't be hacked effectively.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
