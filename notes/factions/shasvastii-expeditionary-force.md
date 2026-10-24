@@ -1,5 +1,7 @@
 # Shasvastii Expeditionary Force — N5/N5.3 tactics and listbuilding
 
+**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../list-building/combined-army-must-have-go-to-avoid-transcript-evidence.md).
+
 _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical Awareness S3E12 (2025), MetaChemistry E139 tournament-winner interview (2026), Loss of Lieutenant E142 N5 TAG tier list (2025), WIP12 E113 (2023), WIP12 E176 Vanilla Combined (2025), Robert Shepherd's 2024 SEF faction focus, and selected 2026 Onyx coverage. Some automatic transcripts misspell unit names. Use **current Infinity Army** to confirm costs, AVA, weapon options, Fireteams, and mission rules; old videos are not a legality reference._
 
 **Authoritative roster:** [Shasvastii Expeditionary Force N5.3 reference](../../sectorials/combined-army/shasvastii.md), Army **7.26246.158** (September 2026); [rules](../../rules/README.md) control marker states, Fireteam rules and Shasvastii/Embryo interactions. Opinions, tournament testimony and previously transcript-checked statuses remain attributed to the **uploaded research**; no media transcripts were newly extracted for this merge.
