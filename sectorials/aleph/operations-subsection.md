@@ -904,3 +904,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Apsaras TAGCom18/0** carries KHD+Deployable Repeater and grants **TAG Dodge PH+3 and GizmoKit PH+1** in the **same Combat Group** (Marut/Maximus); 17pt KHD is cheaper without TAG. **Probot8/0 Baggage versus14/.5 EVO** supports repeaters/reloading or genuine Assisted Fire/Enhanced Reaction/Controlled Jump: native EVO is **not** a normal Spotlight HD. **Shukra CoC21/0 Counterintel / LT24 Strategos1** are distinct profiles. **Maximus FTO45/1 TinBot(Repeater)** propagates only within legal Fireteam; doesn't itself mean Firewall. [Role/value and debate](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Posthumans G:Jumper** buy **2–3 differently specialized Proxies, one Regular Order/Trooper slot**; cheap **Mk.1 Engineer13+Mk.5 FO13 =26/.5** with alternate physical positions, not a two-origin synchronized gunfork. A third **Mk.4 HMG30/1.5** gives **56/2** and reactive AP-resistant heavy body; opponent can force 2 Proxies to ARO in same enemy Order—only one gets normal ARO, others Dodge/Reset. **Pilot-X23/.5 + 0–2 RacerBots Mk-III8/0 each** is **31/.5 one /39/.5 two**, same group; their 20-10 movement and PARA/Repeater area denial only cheap **marginally**, not as stand-alone 8pt cheerleaders. **Apsaras20/0 RemDriver** helps ONE eligible REM persistently at deployment; **Apsaras17/0 KHD** and **18/0 TAGCom** distinct choices. **TA/Shepherd:** sell as spatial optionality and rem buffs; do not silently count extra Orders or AVA from Vanilla.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
