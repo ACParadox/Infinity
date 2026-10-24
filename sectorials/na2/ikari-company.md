@@ -935,3 +935,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Scarface & Cordelia (76–80pt combined)** brings a TAG and its Engineer in one mandatory composite purchase, unusual direct access to a valuable STR casualty; still protect Cordelia and a safe recovery lane. **Tokusetsu Doctor14 / Engineer14 WIP13 + Yáozăo3** cover **Karakuri Remote Presence/other STR** or VITA respectively, with token rerolls only on qualifying targets. Cheap recovery network can outperform taking extra premium doctors. [Recovery support tiers, probabilities and transcript disputes](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Yuan Yuan6/0 CC22 + Smoke + Combat Jump(PH11)/Parachutist** is outstanding cheap flank *trade*, but **Combat Jump is only 55% base** without eligible landing bonuses and a successful deployment **is not yet base contact**. **Daiyōkai46/0 CC21 MA2 AP+DA** is a durable ranged/short-fighting HI, not a Shinobu substitute; **Tokusetsu** score/repair. **Scarface & Cordelia** form a **TAG composite**, so Scarface CC22/Berserk does not belong in 20–30pt foot-assassin ranking. Use Yuan Yuan to disrupt rear defenders while guns and HI exploit revealed angles. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
