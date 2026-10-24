@@ -1,5 +1,7 @@
 # TAGs — N5.3 cross-faction tier list and field guide
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 **TAGs as quadrant-VP mass versus actual Supply Box specialists:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) contrasts Avatar/Sphinx/Cutter apex concentration with **Gecko49/0, Xeodron49/.5, Squalos55/1, Gorgos63/1.5** efficient quadrant swings. Normal TAG is not a Specialist merely for being tough; check current scenario Baggage bonuses.
 
 **Scope:** all currently rostered Tactical Armored Gear in the repository's main-branch N5.3 references; evaluated for a typical 300-point game, not a promise that the same TAG is best for every mission. **Checked:** 2026-10-23. **Authority:** `sectorials/<faction>/<army>.md` for current profile, price, availability and Fireteam access; `notes/factions/` for existing tactical reviews. The April 2025 podcast tier list is **older commentary**, not authority on October 2026 profiles.
