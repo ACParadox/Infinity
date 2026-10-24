@@ -1057,3 +1057,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Vanilla Haqq:** **Shaytaniyah16/1.5 Guided ML** and current vanilla **19/1.5 ML(+1B), Guided** require a real **Barid HD+Pitcher16/.5**, Hunzakut FO/Deployable Repeater or Rafiq network to make Targeted meaningful. **Hunzakut GL18/.5, Daylami GL10/.5, Ghulam NCO GL+Smoke15/1 and Maghariba MULTI HMG+GL71/1.5** are alternative Speculative weapons; the last is a TAG first, artillery second. Saladin's cheaper Order infrastructure may fund a missile, but do not import Ramah's non-Guided 19pt alternative. [Global indirect analysis](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Haqqislam carrier options:** **Mukhtar FO25/0 / Doctor26/0** provides NWI/Mimetism(-3)/mobility/score; **Asawira Doctor35/0** (where roster-legal) **W2/ARM4/BTS9 Regeneration** with Doctor(+3) is a truly durable box keeper; **Namurr Specialist41/0** if eligible buys W2/Immunity Enhanced/Climbing+/TA for vertical exits. **Maghariba Guard71–72/1.5** ARM8/3STR/360º/Baggage shifts huge zone points but is **not standard Supplies Specialist**; huge S8 footprint and hacking/E/M routes matter. **Fanous7/0 & Kameel8/0** are budget supporting Order/blockers; Baggage extra VP **only when mission says so**. **Opposing:** expensive TAG can defend one quadrant, 2–3 cheap Hunzakut/Farzan specialists cover multiple zones/boxes (Hunzakut Irregular, must budget Orders).
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
