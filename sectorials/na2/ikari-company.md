@@ -939,3 +939,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Yuan Yuan6/0 CC22 + Smoke + Combat Jump(PH11)/Parachutist** is outstanding cheap flank *trade*, but **Combat Jump is only 55% base** without eligible landing bonuses and a successful deployment **is not yet base contact**. **Daiyōkai46/0 CC21 MA2 AP+DA** is a durable ranged/short-fighting HI, not a Shinobu substitute; **Tokusetsu** score/repair. **Scarface & Cordelia** form a **TAG composite**, so Scarface CC22/Berserk does not belong in 20–30pt foot-assassin ranking. Use Yuan Yuan to disrupt rear defenders while guns and HI exploit revealed angles. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Cube Jäger15 Monofilament Parachutist /18 E/Mitter+Mono** has outstanding one-target ceiling for the cost, but requires an actual legal flank/contact and contributes an Irregular Order. **Tankō18 Blitzen+Mono**, **Wú Míng19 E/Marat**, **Táowù19 E/Marat**, **Lù Duān20 E/M Carbine+Mine**, and **Druze21 Panzerfaust** offer near-budget deterrence. **Wú Míng33 AP HMG** is sustained lethal B4 AP; **Scarface+Cordelia76** is TAG-scale investment. Yuan Yuan6 Smoke is delivery/cheap trade, **not** intrinsic E/M or Panzerfaust. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
