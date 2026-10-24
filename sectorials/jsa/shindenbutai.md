@@ -853,3 +853,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Hatamoto Specialist+Nanoscreen+NCO34/0** is a durable-but-mobile W2 carrier that also protects himself in CC; can use NCO Orders, not an automatic extra Regular Order. **Karakuri is not imported from Ōban just because JSA has it**; exact Shindenbutai roster lacks it. Choose available **Tanuki20/.5 Hacker+Pitcher+Disco**, **Yukina/Yūgao/other roster-legitimate specialists** for position, with cheap 7pt Robio Repeater and defensive traps rather than imagining a Karakuri wall. **Counter:** a 34pt Hatamoto in full view of multiple guns is less safe than a 20pt specialist behind terrain.
 
 [Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Atom Aibōt FO/Sensor15/0** is the *cheap* Hidden/Camo counter rather than sending a pricey Mechazoid into speculative Discover. **Tanuki HD + Disco20/.5** bypasses opposing MSV/Marksmanship using Eclipse-style placement; do not call a Tanuki hacker White Noise HD+ without verifying its printed device. **Tanuki MSV2 HMG29/1.5 or MSR27/1.5** and **Rui Shi MSV2 Spitfire23/1** are direct guns against revealed Mimetism; these are not the 20pt Disco loadout. **Choose:** Sensor for many markers, Disco for a defended lane, MSV2 gun for an ARO that must be killed. Count Fireteam and ammo restrictions.
+
+[Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
