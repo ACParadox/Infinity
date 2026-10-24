@@ -634,3 +634,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Scylla+Charybdis32/.5** bundles an HD/Trinity/Pitcher and synchronized Repeater+template bot, while **Regular FO+Deployable Repeater12/0** or **HD+FastPanda17/.5** are inexpensive *place-then-project* tools (no free T0 repeater if not Minelayer). **Fugazi7/0** and **Pathfinder FO/Sensor/native Repeater** are Regular alternatives; **Peacemaker FD(+20) native Repeater** offers an immediate projection point and template/defensive fork. **Opponent view (MetaChemistry):** cheap utility Regulars and guns may do more than a fixed hacking castle, especially when enemy can't be hacked effectively.
 
 [Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Beasthunter FTO9/0 Panzerfaust+HFT** is budget ARO (Camo+FD profile costs15, a separate choice); **Montesa FTO20 Blitzen** and **Akal23 E/M Carbine** project cheap anti-HI shutdown with different flanking routes. **ORC Feuerbach35** is repeatable AP+DA; **Naga26 Monofilament Minelayer** traps a specific path, rather than open-table gunfighting. Acontecimento's TAG is a distinct heavy investment. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
