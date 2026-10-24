@@ -4,6 +4,20 @@ _Research: 2026-10-23 · **qualitative** whole-game tiers, **not simulated win r
 
 **Question:** which purchase creates the most **useful separate threats, ARO forks and physical defense per Order**, without misleadingly treating four bodies as four Independent Regular Orders? **Short answer:** **Chimera+3 Pupniks19/0** for cheap assault/vision control; **Antipode Handler+3 Antipodes26/0** for scouting/CC and **Regular+Tactical Awareness**; **Puppet Master11/0+3 PuppetBots27–48 additional** for rotating expendable active Spearheads and defensive pickets; **Drummer FO+FO Drumbot-5 21/0** for *two genuine synchronized FO origins*; **Gearhead13/0+one/two Puzzler12–13 each** for *Autonomous* remote defense; **ALEPH Posthumans (2–3 Proxies)** for unequalled alternate locations/roles on one shared Order. None wins every metric.
 
+## Thirty-second chooser — the shortest useful recommendation
+
+| What you need | Default pick | Why / where it beats alternatives | Main drawback |
+|---|---|---|---|
+| **Cheapest dangerous multi-body assault** | **Chimera + 3 Pupniks 19/0** | Eclipse, Viral/DA close threats and extra moving bodies for almost no points; strong on dense tables | Control unit: only **one** Pupnik Spearhead makes target-requiring attacks alongside Chimera; vulnerable Controller |
+| **Best fast Camo/CC reconnaissance per available Order** | **Antipode Handler + 3 Antipodes 26/0** | Sensor/Camo, Super-Jump and a printed Tactical Awareness activation; strong against midfield markers and elite models | One attacking Spearhead; clustered pack suffers templates |
+| **Best genuine synchronized specialist fork** | **Drummer FO + FO Drumbot-5 21/0** | Two legal FO origins and a heavy template threat for one activation; excellent when two corners/objectives are close | Fragile W1/ARM1 parent; Coherency; not two Regular Orders |
+| **Most adaptable remote pickets** | **Puppet Master + 2 FO PuppetBots 29/0** | Two expendable remote defense sites while Counterintelligence parent hides, with replaceable Spearhead | No simultaneous attacking Puppets; Controller assassination disconnects both |
+| **Best independence even after Controller loss** | **Gearhead + 2 Puzzlers 37/0** | A Cyberplug can use pooled Orders or ARO independently in Autonomous mode; key for separated ambushes | No extra Orders generated; Autonomous profile loses stats |
+| **Best pre-positioned role switching** | **Posthumans Mk.1 Engineer + Mk.5 FO 26/.5** | Spend a shared Order from whichever already-deployed Proxy fits the job; excellent split scoring | Not simultaneous attackers; only one unrestricted reacting Proxy per opposing Order |
+| **Best durable close-range synchronized holder** | **Raptor HSG + Devabot 32/0 / Rasail BSG + Chaksa 27/0** | Parent survives longer than a W1 specialist while second body denies corners with a template | Higher cost and, in Raptor's case, hacking exposure |
+
+**N5.3 Cyberplug reactive exception:** if the Gearhead **takes its own legal ARO**, both attached Cyberplugs may instead use **Autonomous** profiles and independently declare their own legal AROs. Choosing a **Connected** Peripheral instead makes the Controller Idle, while that bot reacts using its Connected profile. Thus *up to three distinct responding bodies* can exist in one enemy Order, unlike Control Spearheads or G:Jumper; this does **not** mean three generated Regular Orders. [Official Peripheral rule](https://infinitythewiki.com/Peripheral).
+
 ## Quick comparison: choose the architecture FIRST
 
 | Architecture | Activation and fork | Real restriction |
