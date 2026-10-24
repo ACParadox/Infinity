@@ -116,3 +116,9 @@ Also located but **transcripts unavailable** through Podcast MCP: [Loss of Lieut
 **Draal32/0 Dazer or33/0 Viral Mine** is a highly effective forward Specialist/screen/denial shooter (FD20, Mimetism -6, 2W). **Kriigel21/.5** handles repeatable Mirrorball+Eraser but is not the same generalist gun; **Taqeul35–36** adds command. Opposing evaluation: multiple Triad toolbox specialists provide mission resiliency, but too many midline 30pt bodies can dilute the **Sukeul HMG** attack budget.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**Taagma15/0 Counterintelligence+Holomask** is an exceptionally cheap passive first-turn Order-strip buffer and legal Triad body; **22/1.5 MSV2 Viral Sniper** is a different combat option and costs SWC. **Chaksa Auxiliary FTO10/0 Baggage+Sensor** can reload *eligible* Expended Disposable equipment and detect Camo, but not magically run EVO Supportware; no conventional Tohaa cyber network. **Samsa Decoy** provides uncertainty, no extra ARO or Regular Order. Counter: on a tight Tohaa list buying another Makaul/Draal/Sukeul mission piece may be better if Counterintel won't fire.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
