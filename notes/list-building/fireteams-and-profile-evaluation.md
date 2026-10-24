@@ -1,5 +1,7 @@
 # List-Building Strategy — Fireteams and Profile Evaluation
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 ## Core Fireteam size
 
 Five-trooper Core Fireteams are relatively rare because they are very unwieldy to maneuver and position efficiently. The most common Core configuration is a three-trooper Core.
