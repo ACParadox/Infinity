@@ -1055,3 +1055,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Teutonic Firewall(-3)19/0, Hospitaller FTO(-3)27/0, Santiago FTO KHD+Firewall(-3)31/0** protect a *legal Fireteam*, not every Knight or dispersed unit; a TinBot stops benefiting all if its carrier enters Null/Isolated. **Joan Strategic Deployment51–53** only improves actual legal Fireteam setup +4″ (no automatic +8″ from a member's own FD). **Tech-Bee TAGCom9/0** gives **Dodge PH+3/GizmoKit PH+1** to same-group Seraph/Tik/other TAG; **Mulebot8 Baggage/Repeater versus14/.5 EVO** choose according to active REM/Combat Jump need. The plain 8pt model can be better even in a multi-knight army. [Apex/value tactics and contrasting opinions](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Peacemaker HSG+Auxbot23/0** is leading MO synchronized fork: FD+20/Mimetism(-3)/Repeater plus HFT Auxbot, protect **Trinitarian/Teutonic mission specialist** with reactive short/Repeater field. **24/.5 Minelayer** buys early hidden threat; **27/0 BSG+Auxbot** does active corner attack; **23/0 BSG(+1B) has NO Auxbot**. **Seraph AP Spitfire72/1.5** has actual **AUXBOT-2**, the **MULTI HMG Seraph74/1.5** does not: the first can fork a heavy gun/short template when synchronized and remaining Coherency is legal. **Seraph Crabbot Ancillary** deploys only when Controller Places it, can affect Fireteam status; isn't a free Order or on-table starting Specialist. **Counter-view:** 2 independent Teutonic or Trinitarian specialists add more Orders/positions than investing 72pt in one TAG and synchronized Auxbot solely as guard.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
