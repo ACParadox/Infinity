@@ -1,5 +1,7 @@
 # Midfield Area Denial & Speed Bumps — N5.3 Apex / Value / Matchup Guide
 
+**Network-specific tiers:** [N5.3 Network Projection — Pitchers, Repeaters, TinBots and kamikaze carriers](network-projection-repeaters-pitchers-apex-value.md) explains why Moran/Initiated/Guìláng can start an active Repeater zone before Order 1, while fast native REMs, Pitcher, FastPanda and Drop/Place nodes have different setup and survival costs.
+
 _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SWC, profile skills, army availability and Fireteam restrictions come from this repository's **current N5.3 September 2026 sectorial references** (Army 7.26246.158/.159). Media are interpretations, not profile authority. No cross-faction entry implies that the same loadout is legal in every army._
 
 **Question:** which deployment investment forces enemy Orders, detours, Discover attempts, Deactivator/Sensor work, low-value sacrifices or bad engagements **without spending your own Active-Turn Orders**?
