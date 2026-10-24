@@ -1,5 +1,7 @@
 # List-Building Strategy — Cheap, Midfield, and Support Troops
 
+**Cheap Repeater projection / disposable carriers:** [Network Projection — whole-game apex/value](network-projection-repeaters-pitchers-apex-value.md) compares 7pt native Flashbot, 8pt Baggage, FO/Sensor REM, Moran/Initiated/Guìláng Turn-0, Meteor/Jīnyào delivery and Pilot-X + mandatory RacerBot costs. Do not value an 8pt RacerBot independently of the required Pilot-X.
+
 ## N5.3 Warband / cheap-trader profile comparisons (2026-10-23)
 
 [Warbands and Cheap Trading Units — Apex/Value tiers](warbands-and-cheap-trading-units-apex-value.md) compares **5pt Ghazi/Galwegian/Shaolin, 6pt Morlock E/M, 8pt Irmandinho/Diablo, 10pt Regular Varangian/Jaguar, 14pt Dāturazi/Makaul, and multi-Wound Dog-Warriors**. Each entry identifies *the target it trades into, its Order cost, reliability and when an enabler beats a disposable attacker*. The generic list-building principles below remain valid.
