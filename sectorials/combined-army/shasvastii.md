@@ -612,3 +612,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **T-Drone Guided16/1.5** complements **Victor Messer/FO/Shrouded/M-Drone** rather than replaces a Noctifer/Gwailo/Sheskiin direct threat. **Nox Grenade Launcher15/1** offers cheap independent B1 Speculative while **Nox MULTI Sniper Guided21/1** is another role-specific profile; do not treat either as the T-Drone's off-board missile chassis. Expensive Spec/Guided plans compete with Shasvastii's independently useful Camo, Protheion and mission pressure. [Whole-game guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Shasvastii-specific rule:** in official **Domination**, **Shasvastii Embryo as well as Normal** counts its points in quadrant; don't generalize to Supplies or equipment tokens. **Caliban FO26/0** Camo/FD+20/Protheion is sturdy *once it feeds VITA*, but starts ARM1 W1; **Shrouded/Malignos FO** are better ambush/pickup than carrying openly, because box forces non-Marker. **Sphinx93/2** 3STR/Hidden/Mimetism(-6) can shift 93 zone points only when *actually represented*, and is not an ordinary eligible carrier; use it to defend a protected specialist. **MetaChemistry 2026 event winner:** multiple Calibans and surviving camo/embryo bodies won quadrants by careful mission timing; counter is Sensor+mines and crossing the other zone instead of spending 6 Orders hunting one marker.
+
+[Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
