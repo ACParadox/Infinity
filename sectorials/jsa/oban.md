@@ -752,3 +752,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Oniwaban29/0, Shinobu44/.5** provide top-tier Monofilament assassination; **Tankō Blitzen/Monofilament** and **Genbutai/Yuriko E/Mitter/Panzerfaust** are cheaper hard-target denial with less safe delivery. **Lù Duān20 E/M Carbine+E/M Mine** supplies a true repeatable **electronic shot at range**. Against a covered BS15 TAG with screening, choose a cheap E/M state attack rather than burn all group Orders reaching base contact. **O-Yoroi** is a TAG platform, not the cheap counter. [Cross-game non-hacking anti-armor apex/value guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Karakuri FO31/0 (AVA3)** provides durable, linkable **STR3/Immunity(Enhanced)** Supplies carrying and zone points, particularly with another Ōban support/Engineer; **Shikami42/0** makes dangerous vertical pickup/extraction safe using Eclipse+Super-Jump+Mimetism(-6)+2W. **Daiyōkai46/0** brings ARM5/W2+NWI and 46 VP into quadrant, but lacks Specialist on its printed main profile; **Oniwaban/Shinobu Hidden** are great early denial but do not contribute off-table until revealed, and after box pickup a Marker cannot carry. **Disagreement:** two Karakuri hold a corridor efficiently versus a Shikami that wins by exiting the corridor altogether. Avoid clustering three Karakuri in one template/hack zone.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
