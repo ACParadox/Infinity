@@ -758,3 +758,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Karakuri FO31/0 (AVA3)** provides durable, linkable **STR3/Immunity(Enhanced)** Supplies carrying and zone points, particularly with another Ōban support/Engineer; **Shikami42/0** makes dangerous vertical pickup/extraction safe using Eclipse+Super-Jump+Mimetism(-6)+2W. **Daiyōkai46/0** brings ARM5/W2+NWI and 46 VP into quadrant, but lacks Specialist on its printed main profile; **Oniwaban/Shinobu Hidden** are great early denial but do not contribute off-table until revealed, and after box pickup a Marker cannot carry. **Disagreement:** two Karakuri hold a corridor efficiently versus a Shikami that wins by exiting the corridor altogether. Avoid clustering three Karakuri in one template/hack zone.
 
 [Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Atom Aibōt FO+Sensor15/0** is the low-cost Camo/Hidden sweeper; **Tankō19/0 Disco Baller+Deactivator** is far more important when an **enemy MSV** blocks Mushashi/Shikami CC or scoring routes. **Shikami Eclipse** self-delivers across visor coverage, but expensive if one cheap Tankō already protects the objective carrier. **Rui Shi / current legal MSV attackers** are for actually removing Mimetism targets. **Opposing TA/Ōban views:** multiple Shikami can dominate diverse objectives, or compete for the same Order pool; use one premium mover plus cheap Disco and Sensor when second has no independent mission.
+
+[Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
