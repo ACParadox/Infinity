@@ -839,3 +839,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Tanuki Hacking Device+Pitcher+Disco Baller20/.5** gives **BS13 ranged Repeater and vision control on one Regular Warhorse MI**, very strong economy if its **legal team** can add applicable bonuses. **Robio7/0 native Repeater/Flash**, **Atom Sensor/FO/native Repeater**, and **Pangguling8/0 Baggage/Repeater** cover cheap mobile network and reload. **Pangguling FTO12/0** is a *different* profile; source team-chart legality still required. **Opposing case:** JSA's powerful camo/assassins can dominate non-Hackable tables; avoid paying for more network unless a standard HD is present to actually exploit the position.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Yamabushi15 Panzerfaust FTO /16 Camo(1 use)** gives inexpensive AP+EXP deterrence; **Yuriko Oda FTO23 Panzerfaust or 25 E/Mitter** adds technical mission roles. **Lù Duān20 E/M Carbine+E/M Mine** can disable heavily armored victim without entering CC; **Hatamoto34 Plasma+Monofilament/E/M CCW** is 2W mobile finisher; **Shizoku43 AP HMG** is the sustained ranged kill plan. **Triphammer48 TAG Panzerfaust(+1B)** and Mechazoid are higher cost categories; not a free value substitute. [Cross-game non-hacking anti-armor apex/value guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
