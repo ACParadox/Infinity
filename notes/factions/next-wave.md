@@ -1,5 +1,7 @@
 # Next Wave — N5.3 faction, Vehicle, TAG and REM guide
 
+**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../list-building/combined-army-must-have-go-to-avoid-transcript-evidence.md).
+
 _Last researched: 2026-10-22. Latest main-branch source of truth for this guide is Infinity Army/N5.3, not older list examples. Research: full YouTube MCP transcripts of Robert Shepherd (Dec 2025), Tactical Awareness Next Wave (Oct 2025), Infinity the Dante first impressions; full podcast MCP transcripts of WIP12 E194/E195 (Oct–Nov 2025), MetaChemistry E130 tournament winner (Dec 2025), MetaChemistry E148 opposing Next Wave (Jul 2026), and Loss of Lieutenant E172 listbuilding (Aug 2026). Cross-check official [Next Wave roster](https://infinityuniverse.com/en/factions/combined-army/next-wave) and [Sept 1, 2026 N5.3/ITS18 changelog](https://infinityuniverse.com/en/news/infinity-rules-update-5-3)._
 
 **Rules and roster authority:** [Next Wave N5.3 roster, profile choices and Fireteam chart](../../sectorials/combined-army/next-wave.md) (Army **7.26246.158**, September 2026), plus [rules index](../../rules/README.md). Transcript-checked status and disagreements below come from the **uploaded research**; they were **not re-fetched** in this repository merge. Shared remotes and TAGs must independently appear on the Next Wave roster.
