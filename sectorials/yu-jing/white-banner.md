@@ -863,3 +863,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Shàng Jí FO36/0** = **W2/ARM4/BTS6 + Tactical Awareness + usable MULTI Rifle**, strong hard-to-shift carrier in source-legal Fireteam; **Bìxié FO41/0** adds NCO/MSV1/Super-Jump+Climbing Plus for vertical escape and CC defense; **Hwarang LSG/Panzerfaust19/0** is a cheaper 2W Albedo+CC *zone blocker*, not FO. **Guìláng FO27/0** and Hidden/Camo Ninjas infiltrate pickups but lose Marker benefit on carried box; **Yín-Shé22–27** good anti-MSV physical screens, not automatically specialists. **Opposing Robert Shepherd White Banner:** aggressive link+Albedo can win lanes; if no opposing MSV or only one reachable box, two cheap independent FO + 7pt Chaīyì may outscore 41pt Bìxié.
 
 [Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Anti-MSV:** **Yín-Shé22/0 Albedo(-6)** beats enemy visors economically, with **Léi Gōng FTO29/0 MSV1+Albedo+Super-Jump/NWI** as more versatile counter. **Anti-Mimetism:** **Rui Shi23/1 MSV2 Spitfire** is the only White Banner MSV2 shot; it needs an angle and support, not a naked TAG duel. **Anti-Camo:** **Wèibīng14 Sensor/FO/Repeater/Triangulated Fire** sweeps ZoC (including Hidden); Hwarang20 Disco creates Eclipse vs the gun you cannot beat. **Opposing opinions:** Tactical Awareness favors *Albedo saturation*; Shepherd warns against overbuying when no enemy MSV/Marksmanship exists. Albedo is not personal Mimetism against everyone.
+
+[Full N5.3 anti-tech apex/value, rules, matchups and transcript disagreements](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
