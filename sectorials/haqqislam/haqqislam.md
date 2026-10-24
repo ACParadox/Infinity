@@ -1043,3 +1043,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Fiday BSG23/0** wins assassination value by **Impersonation/Smoke/DA**, not by raw duelist superiority; if the current roster offers **Hussein Al-Djabel33**, his MA4/viral/Climbing provide a higher target-flexibility ceiling. **Rasyat** is not automatically a Haqq option; enemy-DZ access depends on the roster. Cheap Smoke/ghazi-style templates often solve the *approach* for an Asawira better than paying for an additional 40pt melee fighter. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Barid Pitcher (where Vanilla roster permits) / Rafiq native Repeater13/0 / Fanous Flash+Repeater7/0** give inexpensive hacking reach; **Hunzakut FO+Deployable Repeater19/0** infiltrates forward and places a node, but **Irregular without eligible leadership** and does not start a prepaid node unless the profile explicitly says Minelayer. **Kameel Baggage+Repeater8/0** buys a Regular Order and refill for eligible Pitchers. **Saladin Inspiring Leadership** can improve legally eligible irregular troop Order economy, but does not give repeaters or hacking programs to units lacking them. **Counter:** no reason to buy full Guided if mission/opponent lacks appropriate Hackable targets; maintain non-cyber answer and scorers.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
