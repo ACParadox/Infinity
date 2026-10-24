@@ -850,3 +850,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Shàng Jí FO36/0 TacAware**, W2/ARM4/BTS6 and legal Wildcard/Invincible link is ideal **carry and hold**; **Zúyǒng Paramedic26/0** is cheaper W2 regular scoring HI if Fireteam already in place. **Bìxié FO41/0** provides Super-Jump/Climbing+ for vertical exit. **Yān Huǒ Neurocinetics ML42/1.5** (ARM5/W2, Immunity ARM/Warhorse) is high-area **reactive zone anchor**, *not a box Specialist*; even more expensive ML/FTO41/1.5 serves different team role. **Counter:** grouped hackable HI can be Disabled via one Repeater/KHD/Guided plan; protect Firewall and carry box in Total Cover, score a second zone with a cheaper Zhēnchá FO rather than risk entire elite squad.
 
 [Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Wèibīng FO/Sensor/Repeater14/0 (TacAware17)** is the economical **Camo/Hidden** finder and scoring body: spend Orders approaching ZoC before claiming a reliable sweep. **Rui Shi MSV2 Spitfire23/1** or **Hǎidào MSV2 MULTI Sniper** gives actual anti-Mimetism/ordinary-Smoke killing power. **Léi Gōng MSV1+Albedo(-6)** counters opposing MSV/Marksmanship conditionally; **Húláng FTO Disco31/0** or **Mówáng NCO Disco** instead permits **Eclipse** passage against a hostile visor. **Choice:** an Albedo attacker is strongest against the correct enemy; when no visor exists use Wèibīng for markers, Rui Shi for shootouts, and preserve a non-MSV gun against White Noise.
+
+[Whole-game anti-tech N5.3 apex/value, matchups and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
