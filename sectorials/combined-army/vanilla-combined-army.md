@@ -875,3 +875,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Speculo BSG26/1** is the premium **Impersonation/Monofilament** anti-TAG assassin; **Caliban BSG24/0** instead builds positional Camo/FD+20 with **Protheion on VITA**. **Sheskiin48/0** is an elite MA4+BS15 assault fighter and **Rasyat BSG25/0** is a Parachutist(DZ)+Eclipse *backline delivery* piece with weaker MA2 CC; do **not** conflate best enemy-DZ arrival with best melee contest. Sphinx is a **TAG attack platform**, separately priced. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Bit & KISS! HD/Trinity+Pitcher+Deployable Repeater25/.5 with native-Repeater KISS** is an exceptional **multi-channel** projection package; **22/.5 KHD/Oblivion** is a different version **without native-Repeater KISS**. **Umbra Legate FTO HD+/Pitcher38/.5** is a BS13 projection+assault/White Noise source in a *legal* Vanilla team, while **Umbra FD HD+Deployable Repeater42/.5** places a node only after activation. **Ikadron11/0 native Repeater+Baggage/LFT**, **R-Drone7/0**, **M-Drone FO/Sensor/Repeater** are budget support/kamikaze choices. **Counter (Shepherd):** elite Umbra/cyber characters are vulnerable to enemy projected KHDs; preserve actual attacker and use cheap native carrier when possible.
+
+[Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
