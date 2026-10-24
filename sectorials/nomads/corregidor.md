@@ -18,6 +18,9 @@ coverage: "Standard Corregidor roster, standard loadouts, canonical Surface/Deep
 
 ## Overview and provenance
 
+**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](../../notes/factions/nomads-must-have-go-to-avoid-source-audit-2026.md). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
+
+
 Repository-native reference for **Corregidor** roster, profiles, points/SWC, AVA, dependencies, and Fireteam access.
 
 For concise, transcript-reviewed strategy, list-building modules, opinion disagreements and TAG/REM analysis, see [Corregidor — N5.3 Tactical and List-Building Guide](../../notes/factions/corregidor.md). This file remains authoritative for current profile legality and Fireteam charts.
