@@ -738,3 +738,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Robio7/0 native Repeater/Flash** and **Pangguling8/0 Baggage/Repeater** are cheap Regular native projection; **Atom Aibōt FO/Sensor/Repeater** physically extends coverage and scores, plus **Rui Shi native Repeater** as *secondary* gun utility. **Pangguling FTO12/0 Repeater** has **no Ōban Fireteam chart row**, so do not import bonus just from label. **Counter:** most Ōban missions favor direct Camo/Hackable-target denial and attack over a large guided hacking system; cover the one useful route without risking primary melee/mission pieces as expendable “kamikaze” Repeaters.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## Tactical cross-reference — toolbox units (2026-10-23)
+
+**Shikami42/0 (Contender/Eclipse) or47/0 (MULTI Rifle/D-Charges/Eclipse)** is a genuine elite self-contained scoring+vertical mobility+CC+MSV-proof access generalist. **Karakuri31–38** are separate durable objective holders, not free Shikami weapons. **Tankō Disco19** is the cheaper vision/CC enabler, not a gun+Specialist replacement. Opposing tournament voices prefer one Shikami + diversified tools over two expensive shared-order users. [Toolbox apex/value roles](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
