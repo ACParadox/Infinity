@@ -841,3 +841,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Silverstar Firewall(-3)27/0** or **TacAware TinBot30/0** protects its legal Fireteam from hostile Comms; benefits vanish if carrier becomes Null/Isolated. **FuzzBot8/0 Baggage vs14/.5 EVO** supports genuine Wrecker/other compatible REM/AD tactics rather than generic Spotlight. **Jamie Arantes Decoy(1)** is false deployment information, not second scoring model; the controller/linked team must survive to exploit benefits. [Global force-multiplier tiers and caveats](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Oko Copperbot FO/Sensor15/0 (TacAware18)** is the cheap **Camo/Hidden ZoC** search/mission platform. **Ment Biometric** and **PSI-Cop Biometric/Discover** deal with enemy IMP-1 differently: **Sensor does not mass-Discover Impersonation**. **Nimrod MSV2** is the better direct *kill a revealed Mimetism shooter* gun. **Sonya Lacroix28/0 Albedo(-6)** punishes enemy MSV/Marksmanship but **does not have MSV merely from Albedo**; **Waverider HD+22/.5** offers White Noise through a live network. **Kludger Engineer23/0 Disco** or **PSI-Cop KHD23/0 Disco** covers an MSV-blocked scoring corridor without buying another gun; KHD is not equivalent to HD+ White Noise.
+
+[Whole-game anti-tech N5.3 apex/value, matchups and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
