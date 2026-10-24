@@ -971,3 +971,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Starmada Millicent Guided16/1.5** gives the **Cyberghost HD+ Pitcher21/.5 + native Kyttä/Oko/Fuzzbot Repeater** grid an off-angle threat; if you buy it only for one missile after several Spotlight/Save/Reset rolls, your Zeta/Betatrooper/other real gun loses SWC and active Orders. **Dodge or Reset** remains available to a Guided target, and non-Hackables can still be Spotlighted. [Indirect apex/value comparison](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Best protected carrier:** **Betatrooper KHD25/0** (STR2/ARM3/Mimetism(-3)/Climbing+) or **Doctor27/0** (Engineer/recovery support desired) and **Bronze Specialist43/0** (W2/ARM4/BTS6/Immunity Enhanced/360º/Climbing+, riotstopper); **Raptor FO+Devabot39/0** builds two near-zone firing-angle layers for one Order. **Sekudroid18–19/0** 2STR/360º/Mimetism/Flash+adhesive makes a cheap **reactive zone guard**, *not a Specialist by default*. **Zeta73/2** 3STR/ARM8 is powerful quadrant anchor and not standard Supplies carrier; **Saladin CoC/Minelayer** protects zones by prelaid network and command, not tanking fire. **Opposing:** expensive Bronze/Zeta enough to dominate one zone, but independent Betatroopers + Sekudroid may secure two quadrants and preserve scoring if one dies.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
