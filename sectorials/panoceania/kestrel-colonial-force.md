@@ -806,3 +806,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **6pt Jackal FTO Panzerfaust** is an expendable AP+EXP ARO; **10pt infiltrating Jackal E/M Carbine** is the more realistic *TAG-brick* if a short angle is available (or **10pt Blitzen** for a limited ambush). **Beasthunter9/15 Panzerfaust+HFT**, **Black A.I.R. K1 Marksman29/.5**, **Firefly Panzerfaust19**, and **Maximus Agent AP Thunderbolt(+2B)48/1** are progressively costlier repeatable/specialist or elite solutions. Do not combine FTO Jackal with infiltration profile; count BTS/Engineer recovery. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Speculative value:** **Jackal E/M GL+Shock Mine Minelayer11/.5** is a cheap *Irregular* infiltrator; **Emily E/M GL22/0 or GL+E/M24/0** gives linkable disabling pressure from cover. **Redeye Continuous Damage GL38/1.5** is fast aerial off-angle attacker, but **37pt Blitzen** profile is often better anti-TAG/VH. **Squalos Mk-II HMG+GL62/1.5** adds occasional speculative to a high-BS gun; **Clipper Guided16/1.5** needs a true FO/Spotlight/repeater plan and enough SWC. Do not rank all grenades/Smoke GL as lethal equivalents. [Global rankings and tradeoffs](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
