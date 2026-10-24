@@ -586,3 +586,9 @@ With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9 Panzerfaust+HFT /15 Camo+FD** and **Dozer14 Blitzen** are the best budget ranged anti-armor profiles; **Scot Guard22 Panzerfaust+AP SMG** provides midcost short lethal threat. **S.A.S.25 E/M Mine+D-Charges** is positional shutdown, not guaranteed TAG death. **Wallace / McMurrough / Cameronians** are strong close attack/traders, but reaching TAG contact through templates and screens can cost more Orders than an ambush. E/M Mines tax recovery Orders. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**S.A.S. Forward Observer21/0** uses Infiltration/Camouflage to retrieve a box or dominate a midfield corner, but **cannot keep the Marker state while carrying**; 1W/ARM0 means leave under a **5pt Galwegian Smoke** screen and guard a covered exit. **Scot Guard FTO Paramedic23/0** (if in legal Scot Guard/Heavy Caledonian FT) gives a sturdier ARM3 W1 carrier and support. **Wulver T2 Rifle29/0** (2W ARM3) or **Mormaer T2 Rifle+Tactical Awareness41/0** (ARM5 W1) hold zone VP but *not* ordinary Supplies without specialist profile. **Cameronian18/0 W2 ARM4 + Smoke** and **McMurrough23/0** deter close assault and can contest a zone but are **Irregular/Impetuous, not free Regular specialists**. **Counter:** multiple Wulvers bunched in a fireteam are vulnerable to templates; S.A.S. + smoke + independent zone defender retains two scoring routes.
+
+[Cross-game objective holder and zone-domination apex/value tiers, scenario rules, and opposing transcript reviews](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact profiles/Fireteams above are authoritative.
