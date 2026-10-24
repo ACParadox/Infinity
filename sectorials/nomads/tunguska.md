@@ -826,3 +826,9 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Tunguska** generally **counters** a superior melee piece with **hacking, mines, Repeaters, templates and gunfire** rather than paying for a premium raw CC duelist. **Hollow Men/Kriza** have expensive shooting jobs; do not march them into MA4/Monofilament just to clear one cheap warband. If a roster-legal cheap warband/Perimeter screen can tie up the assassin, preserve it for that defensive role; Guard requires LoF+ZoC and is not the same as a visible Repeater network. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Apex linked projector:** **Hollow Man MULTI Rifle+Pitcher26/0** in a correct team gains useful **Fireteam BS/SD**, while **Tsyklon FTO26/1 Spitfire or29/1 Feuerbach** combines **native Repeater, X-Visor, 360º and Pitcher**, with legal Wildcard access; standalone **FD Tsyklon31/1** is a different profile. **Interventor HD+FastPanda20–23/.5** provides WIP15, BTS9 short-throw node (no free Turn-0 FastPanda); **Heckler Jammer+FastPanda23/0** is a Forward Deployment alternative. **Meteor19/0** drops native Repeater; **Stempler15/0** is a mobile FO/Sensor network. **Opposing views:** Shepherd rates linked Pitchers better at achieving reach than Vanilla; MetaChemistry warns expensive Tunguska hackers/HI are highly exploitable by opposing Repeater/KHDs. Beware team/FT-only restrictions.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
