@@ -689,3 +689,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Onyx** normally makes best melee contact after **gun/Repeater/template** troops remove a route, not by paying for MA5 Hidden assassins unavailable in this roster. **Sphinx** has strong defensive Camo/Climbing/DA CCW but is a **93pt TAG** bought for stealthy gunfire, not a 29pt Monofilament CC killer. **Rindak/Kurgat/Cube Jäger** or other legal short-range pieces should attack in their proper role, not be mistaken for universal dedicated MA4 duellists. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Bit & KISS! HD+Trinity/Pitcher+Deployable Repeater25/.5 with native-Repeater KISS** offers an excellent package of pitched, placed and *mobile* nodes; **Onyx KHD/Oblivion24/.5** has a different KISS variant. **Umbra Legate FTO HD+/Pitcher38/.5** extends White Noise/cyber pressure through a source-legal team; **Kerr-Nau Pitcher30/0** brings plasma/hacking combat as expensive projector. **R-Drone7/0**, **Ikadron11/0** and **M-Drone FO/Sensor/Repeater** are efficient physical native carriers. **Counter:** a 25pt Bit package can be crippled by one clean KHD/DTW opportunity; a 7pt R-Drone + independent hacker may be enough where expensive multi-weapon team loses initiative.
+
+[Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
