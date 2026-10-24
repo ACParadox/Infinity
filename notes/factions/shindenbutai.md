@@ -825,3 +825,9 @@ That sequence captures the strongest repeated insight from the Shindenbutai vide
 
 - **Tanuki HD + Pitcher + Disco 20/.5** is Shinden's combined hacking/Eclipse lane tool. **Garon Smoke GL 16/0**, **Yojimbo/Saito normal Smoke** and **MSV2 Tanuki/Rui Shi** provide the separate *shoot-through-Smoke* package. Disco/Eclipse instead blocks MSV too.
 - **Do not import Ōban Tankō Fireteam access**: a named Tankō in JSA is not proof it is an eligible Shinden link. A 20pt Tanuki has better role compression when the Pitcher/hacking job also matters; if not, 16pt Garon may suffice. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Uran Guided16/1.5** turns Tanuki HD/Pitcher and Robio/Atom networks into a secondary threat; Shepherd argues repeated **Trinity** against an enemy hacker may be more decisive than repeated missiles, and calls the Uran *conditional* rather than core. When Spotlight comes for free as an ARO, missile payoff is excellent; when no targets can be marked, buy a mobile Mechazoid/Shikami/Rui Shi instead.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
