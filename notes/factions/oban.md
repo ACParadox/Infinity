@@ -1036,3 +1036,9 @@ The strongest current Ōban lists instead combine **positional visibility contro
 
 - **Premier Disco package:** **Tankō 19/0 Disco Baller + Deactivator** in a *legal* Ōban Fireteam puts Eclipse over a gunline for Domaru/Mushashi/Karakuri objectives. **Shikami 42/0** supplies self-delivered Eclipse plus exceptional vertical scoring; **Yojimbo/Kuroshi** use normal Smoke, which can pair with **Rui Shi MSV2**.
 - **Pro/con:** Shepherd argues Disco fundamentally fixes melee delivery; **MetaChemistry #153 (Oct 2026)** tournament winner credits Tankō, but also reports spending most of an Order pool reloading Disco. Two Shikami may overconcentrate Orders compared with one + Tankō. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Shikami42/0** is an apex self-sufficient scoring/CC/route bypass piece: FD, Eclipse, climbing, Super-Jump, 2W, MA. **47pt MULTI Rifle** pays for a real extra gun and D-Charges. **Karakuri31–38** are the alternative when holding midline buttons/absorbing return fire matters more than arrival. Two Shikami add redundancy but compete for Orders; Shepherd and Tactical Awareness differ on how often that pays.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
