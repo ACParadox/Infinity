@@ -957,3 +957,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Beasthunter9/15 Panzerfaust/HFT** and **Dozer14 Blitzen** are low-cost deterrents; **Dynamo14 Panzerfaust+Smoke GL** may reach a side-angle with Impetuous/motorcycle risk. **TankHunter33 AP HMG** is repeatable B4 AP gun; **TankHunter36 Portable Autocannon** is AP+EXP B2 **without assuming Vanilla Ariadna's +1B**. **Scout E/M Minelayer28** traps short approach, **Veteran Kazak AP HMG45** adds high survivability. Prioritize contact safety over pure PS math. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## Tactical cross-reference — indirect fire (2026-10-23)
+
+**Kuryer Katyusha15/1** is one of the game's apex **independent Speculative Fire** choices: +3 Range band to 24″, B1 Long Skill, Warhorse/Baggage/Minelayer/Guided. **Traktor Katyusha Guided9/1** wins cheapest conditional payoff if Chasseur/Strelok/Dynamo/other FO already creates Targeted. **Kuryer Uragan18/1** is the Total Reaction defensive variant; **don't** claim its benefits simultaneously with Katyusha. Shepherd favors several safe Kuryer speculative shots over expensive multi-Order Spotlight+Guided setup in many *midfield* situations; WIP12 likes Kuryer flexibility but six saved points on Traktor can fund actual objectives. ../../notes/list-building/indirect-fire-speculative-guided-apex-value.md
