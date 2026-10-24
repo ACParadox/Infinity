@@ -786,3 +786,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Crux Father-Knight47/0 hidden/FD(+20), MA2, Berserk, 2W** is Kestrel's *real* costly close-assault assassin: stealthy breach and Specialist work rather than Shinobu's Monofilament/MA5. **Jackals6–9** are cheap mines/rocket/assault scaffolding, **not** melee assassins (CC14). **Banshee19** is airborne shotgun/template flanking (CC15), likewise not high-CC. Do not force a 47pt Knight into a defended Guard/NBW corner when its AP SMG, deployment, and specialist access can score from a safer route. [CC apex/value and reach-versus-lethality comparisons](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Peacemaker23–27/0–.5** begins as **native Repeater FD(+20)** with Auxbot close cover; **Fugazi7/0** is cheap fast Regular Repeater to rush at risk, **Pathfinder FO/Sensor/Repeater** adds scoring/hunting and legal Wildcard (source constraints). **Fennec HD/FastPanda16/.5** places a reliable node *after activation*, **Firefly Deployable Repeater19/0** and **TechBee9/0** also must Place Deployable; **Maximus Agent FTO45/1 TinBot(Repeater)** turns **legal Fennec Fireteam** into network, not standalone token. **Opposing case:** cheap Fugazi/Pathfinder + protected hacker suffices for narrow cyber support; 45pt Maximus should be bought for combat, not just Repeater coverage.
+
+[Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
