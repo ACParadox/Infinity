@@ -637,3 +637,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **K2 Auxiliary11 E/Marat** and **Thorakitai12 E/Mitter** are inexpensive hard-target *state* threats; **Thyreos21 SMG/Monofilament** is a mid-priced assassin, and **Penthesilea28 Monofilament on fast motorcycle** is a high-mobility but exposed can-opener. **Myrmidon Smoke, Myrmidon Officer Eclipse** create safe approach only when the extra Orders and ammo are accounted for. **Agamemnon TAG AP HMG** and other premium assault units should not be scored as better points value than a genuinely deliverable 11pt E/Marat. [Non-hacking anti-TAG/HI apex/value and target matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Eclipse-supported durable carrier** rather than raw STR: **Myrmidon Officer CoC/Eclipse30–31/.5** (eligible CoC Specialist) or other current Specialist with Myrmidon Smoke/Eclipse cover can retreat from dangerous objective lane. **Andromeda30/0 Guard/MA/Infiltration** can prevent enemy close reclaim but Guard does not mean she is automatically a normal box-carrier; check current Specialist Operative and scenario rules. **Achilles62/1.5 or Ajax39/0** are excellent **zone VP combat guards** (when non-Null) but don't silently claim Specialist where absent. **Contrary view:** compared with a 42pt Shikami elsewhere, Steel's best objective-holder is often a **separate cheap specialist** behind two complimentary Eclipse/CC bodies, not a single pricey duel hero.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
