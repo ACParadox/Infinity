@@ -226,3 +226,9 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 
 - **Default value:** Fennec **13/0 FO + Sensor + Disco Baller** gives a Regular cheap Eclipse screen *and* mission utility; use it to free the expensive Hetkari/Black A.I.R./TAG/CC route rather than expose a premium attacker. Quinn's **26/0** Disco FO is a pricier alternative with MSV/other link value, not a CoC substitute.
 - **Counterpoint:** if the table offers a safe gunfight or no relevant crossing, a 10pt Fennec and another active Order can be better than investing in Disco setup. Compare to the broader [apex/value guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Fennec FO/Sensor/Disco13/0** is among the best game-wide low-cost toolbox Regular Fireteam bodies: scanner, button, vision denial and Order. It is **not** a BS14 attack piece; a 10pt Fennec may suffice where these tools won't matter. **Firefly Engineer23** and **Firefly CoC23** are different choices, not an Engineer+CoC all-in-one; **Crux** is the premium gun/scorer.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
