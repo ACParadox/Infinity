@@ -649,3 +649,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Daleth/rostered Sensor FO REM** is the low-cost **Camo/Hidden ZoC** sweep; **Agêma MSV2** and other rostered visor guns can actually threaten revealed Mimetism/Smoke targets, while **Myrmidon Smoke** provides the classic MSV firing opportunity. **Myrmidon Officer Eclipse** / rostered **Disco Baller** profiles bypass a *hostile MSV/Marksmanship* ARO rather than trying to beat it in a straight contest. **Counter:** Smoke does not deny LoF to MSV2, and enemy White Noise shuts down your MSV gun; keep an ordinary gun and a mission-focused path. Not all ALEPH/OSS Satrah/Asura profiles are legal in Steel Phalanx.
 
 [Non-hacking & tech-specific counter-selection, N5.3 anti-tech apex/value and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Steel Phalanx multi-body** role comes primarily from **Servant recovery** rather than importing OSS Posthuman G:Jumper or Tunguska Puppetactica. Pair source-legal **Doctor (Machaon/Thamyris/other local Doctor profile) or Engineer with cheap Servants**, allowing a safe support controller to affect casualty contact elsewhere; **one target per Doctor/Engineer Order, only one Servant active**. **Fireteam + support** gives multi-model coverage but is NOT Peripheral-Synchronized, nor a single controller creating two attacks on one Order. **Opposing choice:** spend ~3–6pt on two far-flank Servants when recovering Achilles/other elite is core plan; otherwise buy an independent guard or second mission specialist over unused healbots.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
