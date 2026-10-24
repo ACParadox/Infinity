@@ -147,3 +147,9 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 - **MSV + Smoke attack engine:** **Dāturazi 14/0 Regular Smoke** enables **Vector MSV2 / Charontid MSV3** when the exact selected gun profile has a visor; **Rasyat Eclipse** is independent flank delivery. **Umbra Legate HD+** offers selective White Noise, not Eclipse; Overdron Albedo is personal anti-MSV tech.
 - **Pick by task:** kill several guns with MSV-through-Smoke, bypass a lane with Eclipse, or project White Noise only when an MSV/Marksmanship defender is decisive. Charontid's HD+/Sepsitor is **not simultaneously** the MSV3 gun profile. [Global value/ceiling guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Nourkias48/1** is among the most diverse solo attackers (WIP15 HD Total Control/Trinity, K1 gun, NCO, CC25 MA4/Protheion, Super-Jump, NWI): excels into central HI/TAG/hacker + CC interactions. Shepherd's counterargument: **Sheskiin** wins more ordinary gunfights with less delivery and is thus often superior as *pure attacker* despite having no scoring Specialist. **Caliban** or **Bit & KISS!25/.5** are the lower-cost tech/mission role-compression alternatives.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
