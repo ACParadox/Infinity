@@ -708,3 +708,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Kamau Combi+E/M Carbine20/0** is a repeatable low-cost anti-HI/TAG control shot; **Montesa FTO20 Blitzen** protects a forward link, **Patsy Garnett34 E/Mitter** pairs control with midboard fighting, while **ORC Feuerbach36/1.5** is the lethal ranged can-opener. **Croc Men** hidden mines and **Echo-Bravo Panzerfaust26** offer surprise/flank options only on those exact profiles. Keep expensive **Cutter** as separate TAG purchase. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Varuna objective survival plan** is **Croc Man FO30/0 Hidden/Infiltration/Mimetism(-6)** to reach a box, then stay a **visible Model** and escape under **Kamau/Helot** reactive denial; the carrier does **not** remain Camouflaged with box. **Cutter97/2** Hidden/Mimetism(-6)/ARM8/STR3 is a giant raw VP zone swing when revealed but not a regular Supplies specialist and concentrates huge risk. **Zulu-Cobra FO24/0** or legal KHD is smaller eligible scorer; **Helot LRL10/0** is disposable ARO guard whose Irregular Order is not like 10pt Regular troop. **Opposing TA Varuna:** visible active cutter/ARO can make corridor lethal; if objective behind wall, 24pt Zulu and Helot screen is more order-efficient than risking whole Cutter on zone edge.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
