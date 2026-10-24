@@ -1,5 +1,7 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+
 **Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide remains responsible for commander roles, succession, and the related economy decisions.
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
