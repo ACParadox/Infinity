@@ -811,3 +811,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Hippolyta37/0** is a premium MA3/EXP mobile assassin/escort: 15-5, 2W, Mimetism−6, Smoke, Super-Jump, Berserk, but **Impetuous/Limited Cover** changes approach risk. **Silverstar Prime53+** and **Rovers27+** are primarily gun/fighting HI and have CC18/16, not comparable to Shinobu/MA5. **Firebat** is an **Aerial VH shooting platform** with CC unavailable, so it is not a target for **Guard** while active (current Guard rule); beware mine/templates and hackable approach for the other HI. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Waverider KHD+Trinity/Pitcher20/0** is a top **zero-SWC linked** cyber/projector hybrid; **Waverider HD+Oblivion(+1B)/Pitcher22/.5** trades extra SWC for anti-heavy control (separate profiles). **Strider Deployable Repeater+Minelayer28/.5** with Camo/FD starts **Turn-0** forward coverage; **Oko15/0 FO/Sensor/Repeater** or **Kyttä7/0 Flash/Repeater** physically push cheaply, and **FuzzBot8/0 Baggage/Repeater** supports equipment. **Moonraker15/.5 is Shock Mine Minelayer, NOT a native Repeater**; don't count its mine as hacking coverage. **Counter:** if Waverider+Strider+Millicent Guided consumes resources without Targeted opportunities, a cheap Kyttä/Oko + direct attack plan may win more.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
