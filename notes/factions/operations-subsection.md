@@ -103,3 +103,9 @@ Supporting but obsolete: [Robert Shepherd N4 OSS faction focus](https://www.yout
 
 - **Local alternatives to missing native ordinary Smoke:** **Yadu Disco 28/0** (FO/NCO/mission utility by specific profile), **Claire Lazhari Disco + Doctor(2W) 33/0**, **Kinnara Parachutist Eclipse 24/0**; **Asura HD+** projects *White Noise* when the target is MSV/Marksmanship and the Hacking Area reaches the intended zone.
 - **2026 Tactical Awareness disagreement:** value the cheaper 22pt HD+ / Pitcher White Noise option against specific visors, but some hosts prefer paying for a more broadly useful unit if those targets are absent; Yadu is cheaper Disco than Claire, Claire repairs/heals valuable bodies. [Vision tier guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Asura HD+63/.5** is the top toolbox anchor (visors, strong guns, WIP15 hacking, scorer, resilience), but **Asura AP Spitfire61** is NOT the hacker. If the list needs redundancy or fewer hackable premium bodies, **Posthuman proxy+Danavas/Dawon/Claire/Artalis** can distribute repair, hacking, scoring and gunfighting at the cost of coordination. The OSS Fireteam bonuses cannot be imported to vanilla.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
