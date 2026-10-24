@@ -114,3 +114,9 @@
 
 - **Vargar FO + Disco + Deactivator 24/0** combines projected Eclipse, Super-Jump/Albedo and scoring; **Quinn 26/0** offers Wildcard FO + Disco; **Bøyg 44/0–1.5** carries Disco on a much pricier durable shooter. **Baggage Mulebot 8** is relevant for reloading expended Disposable charges.
 - **Disagreement:** Shepherd rates Vargar's utility far above buying Bøyg only for Disco; Bøyg supporters value its 2W gun/ARO as a second job. If no MSV-proof crossing is needed, preserve Orders for the Karhu/KoJ instead. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
+
+## Force multipliers — N5.3 apex/value update (2026-10-23)
+
+**TinBots and supportware** are most valuable when protecting a substantial HI Fireteam or an actual active REM attacker; use exact N5.3 source options, never assume every Hospitaller/Santiago profile is Sval rostered. **Mulebot8 Baggage vs14/.5 EVO** supports reload vs active REM/AD Supportware; EVO is not normal HD Spotlight. **Tech-Bee TAGCom** in any roster where included affects only same-group TAG by listed MODs, not S7 aerial Vehicle/VH.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
