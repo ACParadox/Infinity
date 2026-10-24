@@ -142,3 +142,9 @@ Additional material consulted: [official May 2026 ALEPH roster additions](https:
 **Asura HD+ 63/.5** is an apex solo gun+WIP15 hacker+MSV3+scorer: buy when combat, cyber and objective work lie on one approach. **AP Spitfire61/1.5** is a separate non-hacker gun profile. The counterview (2026 Shepherd/LoL) is that no Mimetism forces fair gunfights and 63pts could buy multiple independent specialists. **Parvati/Sophotect/Posthuman** instead compress recovery and scoring for less, but do not acquire Asura gun power.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Samekh Guided16/1.5** is a payoff for **Danavas HD+ WIP15, Pilot-X/RacerBots/Repeater delivery and Dasyu/Daleth FO**. But **Marut/Asura/other elite gun** often benefits from **Targeted's direct shooting +3** more predictably than a remote missile; a second score-capable specialist may exceed Guided on missions that spread wide. **Samekh FTO direct Missile** does not become Guided from nearby hacker support.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
