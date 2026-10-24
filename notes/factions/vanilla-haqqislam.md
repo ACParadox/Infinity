@@ -266,3 +266,9 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 **Mukhtar MSV2 Red Fury34/1 + Mukhtar Doctor/Hacker/FO** in a legal Duo creates a versatile *two-model* attack/scoring package; not one imaginary Mukhtar with four profiles. **Zeybek33/1.5** is a different solo combat+Smoke/Albedo/Operator toolbox but large/hackable. **Hunzakut FO15** is the value choice when objective/repeater/marker work matters more than the premium gun. Shepherd prefers independently coordinated Mukhtars in some vanilla Saladin lists, so a Duo is not automatic.
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Indirect fire — Speculative and Guided (2026-10-23)
+
+**Guided:** **Shaytaniyah16/1.5** is an optional missile payoff for **Barid HD+Pitcher16/.5**, infiltrated **Hunzakut FO/Repeater** or **Rafiq Repeater/FO**. Current vanilla also lists a **19pt +1B Guided** variant, but verify each sectorial separately (Ramah differs). **Speculative:** Hunzakut GL18/.5, Daylami GL10/.5, Muyib/Ghulam and **Maghariba HMG+GL71/1.5** offer different no-Targeted options. Saladin's cheap troop economy makes low-cost extras attractive; an elite TAG should never be bought merely for B1 speculative.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
