@@ -140,3 +140,9 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 
 - **Choose one main lane engine:** **Morlock Smoke + Intruder MSV2**, **Jazz/Interventor HD+ + Repeater network → White Noise** vs visors/Marksmanship, **Chimera Eclipse** to deliver CC, or a legal **Disco Baller** (Kulak/Lobo/Prowler/Shifta by selected profile). They solve different LoF problems; do not build the *same* list as if one template enabled all four.
 - **Counterargument:** the strongest hacking grid costs Pitcher, move and setup Orders; a cheap Smoke/Disco crossing can score without eliminating the ARO. If a visor is not the problem, White Noise is not value. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Mary Problems27/.5** (HD+KHD programs, Pitcher, FD/Mimetism/Climbing+) is the best Nomad cheap *cyber* toolbox, not a strong ranged gun. **Evader35/1.5** solves actual frontline Engineer+AP offense where legal, while **Moran15/.5** cheaply projects FO/Repeater/Koala control; **vanilla Moran AVA1** is not Corregidor AVA2. Opposing choice: several specialists with different order routes can outperform one elite toolbox.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
