@@ -951,3 +951,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Andromeda30/0** is top *midfield anti-elite Guard* piece: Infiltration(PH15), MA3, NWI, D-Charges and **CC attack in LoF+ZoC** avoid actual base contact. **Varangian Guard12–13** is the low-cost Smoke+CC23 Berserk enabler; **Ioann Bann** provides resilient transmuting close pressure at higher cost. **Bluecoat16/0 NBW + Sixth Sense + Biometric** is unusually effective *counter-CC/anti-Impersonation* screening near important troops, but needs actual CC ARO to ignore imposed penalties. Opposing plan: shoot the assassin or template its entry instead of sending an expensive Bronze directly into MA5. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Saladin CoC33/0 or Lieutenant34/0** with **Minelayer(2) and Deployable Repeater** can pre-place **two nodes at deployment**, unusually strong *Turn-0* network if already purchasing his command/Decoy/Counterintelligence package. LT gains Strategos L1/+1 Command Token; **CoC does not**. **Cyberghost HD+/Pitcher21/.5** supplies ranged White Noise/Oblivion, **Kyttä7/0 native Repeater/Flash** and **Oko FO/Sensor/native Repeater15/0** are cheaper Regular route builders, **FuzzBot8/0 Baggage/Repeater** reloads eligible disposables. **Counter (TA Starmada):** extra defensive/command investment competes with mobile Betatroopers and actual scoring; a 33pt Saladin is not a value pick *solely* to place Repeaters.
+
+[Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
