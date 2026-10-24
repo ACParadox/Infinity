@@ -4,6 +4,8 @@
 
 **Researched 23 October 2026.** This guide evaluates **reactive units, hidden ambushes, Total Reaction (TR), Neurocinetics, expendable attacks, mines, templates and hacking-area denial** across Infinity—not simply who has the biggest sniper rifle. **TAGs used defensively are evaluated in their own section below, outside the non-TAG tier lists.** **Authoritative facts:** latest committed [N5.3 sectorial rosters](../../sectorials/) (Army Sept 2026 and repository FAQ v0.1). Profiles, AVA and legal Fireteams differ between vanilla and sectorials. Video/podcast opinions are interpreted against **current** profiles; old examples are not current rule authority. Rankings are **qualitative**, not tournament win rates or simulated FtF probabilities.
 
+**Specialized anti-TAG ARO:** [N5.3 non-hacking anti-TAG/HI tier guide](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) compares **6pt Panzerfaust, E/M/Blitzen/adhesive, K1 and AP+EXP ARO** by attacker cost versus *ability to stop or kill* the specific armor threat.
+
 ## Executive verdict
 
 - **Best ceiling, hidden:** **Swiss Guard Missile Launcher (+1SD), 60pt/1.5SWC**; **Shasvastii Noctifer Missile Launcher, 30pt/1.5SWC** is the standout *cheap-for-its-threat* hidden alternative. Both control **timing**, but one revealed Swiss costs twice the Noctifer and both can be defeated with the right follow-up.
