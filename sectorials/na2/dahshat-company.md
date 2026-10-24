@@ -1007,3 +1007,9 @@ For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 7
 **Rafiq FO/Sensor13/0** offers cheap Camo/Hidden detection, mission utility and a Triangulated Fire fallback against a *revealed* Mimetism target. **Rui Shi MSV2 Spitfire23/1** and **Brawler MSV2 sniper25/1.5** are the direct anti-Mimetism/ordinary-Smoke guns. **Odalisque21 Disco** and **Húláng31 Disco** instead bypass a known hostile MSV lane; **Sforza FTO Albedo(-6)26/0** is a conditional anti-MSV gun. **Choice:** if marker density matters, buy Rafiq; if one dangerous revealed target must die, fund the visor shooter; if the objective is behind hostile MSV, use Eclipse/Albedo rather than crossing in ordinary Smoke.
 
 [Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Fiddler36/0+JackBot /43/0+2 JackBots** buys synchronized WIP14 Engineer+fast Vulkan/Explode bodies and Drop Bears for dense midboard; **Fiddler FTO29/0** fits source Ghulam Fireteam **but has no bots**, never count the FTO and synchronized pair in same selection. **Maghariba71–72/1.5 with Jandab Ancillary** delivers delayed Specialist physically only after **Place Deployable**; Jandab is neither a free Turn-0 body nor extra pooled Regular Order, and active Ancillary can alter Fireteam. **Nasmat3/0** lets Engineer/Doctor recover from another angle (one patient/Order). **Counter:** 29pt Fiddler linked with real team is superior to 43pt W1 Controller+2 bots if enemy has 20–48in ARO corridors; close template and anti-armor attack forks favor bot variant.
+
+[N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
