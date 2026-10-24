@@ -582,3 +582,7 @@ With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Galwegian5/0** is extraordinary **Irregular Smoke+CC22 AP** disposable attack/pinning value; **Cameronian18** gives 15-10 mobility, 2W and T2 CC with Smoke; **McMurrough23** trades up with 2W/Smoke/PH16 and **AP+DA**. **Uxía25** brings actual **infiltrating/marker-assisted entry** but CC22/AP+Shock is not a Hidden Mono Oniwaban; **Wallace38/0 CC24 EXP** and **Cadin30 AP+T2** are durable multifunction frontline duelists requiring careful orders. Against a serious NBW/Guard defender prefer warband smoke and templates before charging. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Beasthunter9 Panzerfaust+HFT /15 Camo+FD** and **Dozer14 Blitzen** are the best budget ranged anti-armor profiles; **Scot Guard22 Panzerfaust+AP SMG** provides midcost short lethal threat. **S.A.S.25 E/M Mine+D-Charges** is positional shutdown, not guaranteed TAG death. **Wallace / McMurrough / Cameronians** are strong close attack/traders, but reaching TAG contact through templates and screens can cost more Orders than an ambush. E/M Mines tax recovery Orders. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
