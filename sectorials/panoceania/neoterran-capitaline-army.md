@@ -781,3 +781,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Support package:** **Mulebot8 Baggage/Repeater vs14/.5 EVO** (if on current NCA roster); the 0.5SWC EVO is better only when an attacking Bulleteer/REM or airborne troop repeatedly uses Assisted Fire/Controlled Jump. **Tech-Bee TAGCom9** (where rostered) adds **Dodge PH+3/GizmoKit PH+1** to same-group Squalos/Uhlan/etc. **Maximus FTO TinBot(Repeater)** benefits **valid Fireteam members**, never every army Repeater. Avoid buying an unsupported rare-rule carrier rather than a second actual objective scorer. [Tiers and specifics](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Auxilia FO+Auxbot15/0** (check FO profile) has low-cost controller and HFT synchronized attacker, can split gun/FO and template ARO tasks while protecting NCA objectives; the **Auxbot is not independently FO**. **Peacemaker HSG+Auxbot23/0** more aggressive FD+20/native Repeater/Mim(-3), **24/.5 mine** pressures Turn 0, **27/0 BSG+Auxbot** active close burst. **Squalos/Maximus/other TAG Ancillary** are off-table until Place Deployable; a Crabbot cannot contribute quadrants or act as independent Regular Order before that. **Against sniper lanes:** cheap Auxilia hidden behind Total Cover plus exposed flamethrower bot may cost opponent more Orders than 40pt standalone guard. **Opposing:** BSG Peacemaker(23) +1B but no bot is better at *solo shooting*, HSG+Auxbot superior at geometry.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
