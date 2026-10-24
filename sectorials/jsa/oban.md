@@ -742,3 +742,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Tactical cross-reference — toolbox units (2026-10-23)
 
 **Shikami42/0 (Contender/Eclipse) or47/0 (MULTI Rifle/D-Charges/Eclipse)** is a genuine elite self-contained scoring+vertical mobility+CC+MSV-proof access generalist. **Karakuri31–38** are separate durable objective holders, not free Shikami weapons. **Tankō Disco19** is the cheaper vision/CC enabler, not a gun+Specialist replacement. Opposing tournament voices prefer one Shikami + diversified tools over two expensive shared-order users. [Toolbox apex/value roles](../../notes/list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Shikami42/0 (or47/0 MULTI Rifle+D-Charges)** uniquely combines **Eclipse Grenades + Super-Jump + Climbing Plus + Mimetism(-6) + FD+10 + Specialist Operative + 2W** for scoring through vertical MSV-overwatched lanes. **Shinobu44/.5 Hidden Infiltration+Monofilament** kills premium target more efficiently if no scoring/withdrawal is needed; **Ryūken** cheap Camo/Minelayer covers a totally different *passive* job. **Disagreement (Shepherd Ōban/JSA tournament views):** the 42pt Shikami is a ceiling play when it can do two objectives; on direct assassination missions 29pt Oniwaban or cheap Tankō/Mushashi may create more value.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
