@@ -808,3 +808,9 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 **Pathfinder FO/Sensor14/0** and **Blocker Sensor/Biometric** are cheap **Camo/Hidden vs Impersonation** choices with different rules: Sensor sweeps ZoC Camo/Hidden, Biometric improves legal IMP-1 Discover. **Nisse MSV2** or **Hǎidào MSV2 sniper** is the *kill the Mimetism sniper* package; **Señor Massacre Eclipse** passes an enemy visor lane without a gunfight. **Counter:** Varangian ordinary Smoke still loses to hostile MSV; White Company Varangians are **Irregular**, unlike certain other rosters. Multiple MSV AROs invite White Noise/Albedo: preserve a non-visor gun or screened route.
 
 [Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Peacemaker HSG+Auxbot23/0** and **HSG Minelayer+Auxbot24/.5** supply FD(+20)/native Repeater/Mim(-3)/synchronized HFT fork in midfield; **BSG(+1B)23/0** lacks Auxbot while **BSG+Auxbot27/0** restores the true dual-body attack. **Anaconda TAG59/1.5+Operator**, **Scarface+Cordelia** and similar compound listings are **not Synchronized or Control**: operator deploys only after valid Escape System condition; Cordelia is a separate actual Engineer/Order source as printed. **Engineer + Yáozăo Servant3/0** repairs ARM/STR at a distant position without exposing Controller and without second free Order. **Counter:** Peacemaker is better than solo 27pt ORC guarding a tight interaction square where HFT fork matters, ORC/Anaconda better if enemy dominates with long weapons or hacking disables REM.
+
+[N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
