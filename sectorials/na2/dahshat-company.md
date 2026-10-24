@@ -991,3 +991,7 @@ For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 7
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **McMurrough23/0** is the standout durable *two-Wound Smoke + 15-10 + Berserk/AP+DA* assassin/trader when the route is short; **Kum motorcycle6/0** trades fast 20-15 Smoke/chain pressure at a fraction of cost but with S4 and Irregular/Impetuous exposure. **Fiddler29 FTO/other versions** is a forward engineer/utility fighter with modest CC18, not a MA5 executioner. **Maghariba** is a separately costed TAG; against premium MA5 or Guard, use Hunzakut mines, Libertos and linked smoke/templates to protect expensive support instead of head-on CC. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Dozer14 Blitzen+Engineer** is cheap BTS-state ARO/support; **Ghulam12 Panzerfaust**, **Lù Duān20 E/M Carbine+E/M Mine**, **Zúyǒng22 E/Mitter** and **Zhencha31 Panzerfaust+FO** scale from cheap threat to flexible frontline. **Miranda25 Monofilament+PARA Mine** is a dangerous ambush only if delivered, **Húláng38 Mono/E/Mitter** adds elite midfield reliability. **Maghariba72 E/M Carbine(+2B)** and Triphammer48 Panzerfaust(+1B) are costly TAG purchases, not budget counters. [Non-hacking anti-armor apex/value, E/M and AP+EXP comparison](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
