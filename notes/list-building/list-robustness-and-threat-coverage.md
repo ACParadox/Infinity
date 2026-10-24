@@ -420,6 +420,10 @@ Common examples include:
 
 ## Role compression
 
+**Cross-faction unit selections:** [Jack-of-all-trades / Toolbox Units — N5.3 apex and points-value rankings](jack-of-all-trades-toolbox-units-apex-value.md) compares actual multi-role solo pieces and legal small-team packages, including when paying for unused capabilities reduces reliability.
+
+
+
 You cannot afford a dedicated model for every checklist item.
 
 Instead, look for profiles covering several requirements.
