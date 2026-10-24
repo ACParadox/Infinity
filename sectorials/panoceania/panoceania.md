@@ -870,3 +870,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Cross-Vanilla PanO rare buys:** **Black Friar24/0 MSV2+Albedo(-6)** (check actual Vanilla availability), **Crux Father-Knight47/0 Hidden+FD+Albedo+NBW Specialist** or **FTO46/0** *different profile*, **Drummer FO+Drumbot-5 21/0** projects two synchronized physical threats from one controller. **Maximus FTO45/1 TinBot Repeater** requires a legal Fireteam to confer team benefits; **Vanilla** cannot assume Kestrel links. **Opposing:** cheap 7pt Fugazi / 14pt Pathfinder / 13pt Fennec FO deliver ordinary mission/support faster when uncommon abilities have no exploitable enemy.
 
 [Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Teutonic Knight18 Panzerfaust** and **Nøkken22 Panzerfaust+FO** are low-cost AP+EXP answers. **Karhu22 Blitzen / E/Marat** threatens electronic shutdown and **Karhu Feuerbach(+1B)34/1.5** or **Bolt ML24** kills at range. **Camo Naga/Monofilament mine** is a different anti-TAG control. **Maximus** and anti-armor TAG guns have higher apex, but not comparable value to a 12–22pt threat. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
