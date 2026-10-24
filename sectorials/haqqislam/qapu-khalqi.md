@@ -858,3 +858,9 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Qapu Khalqi's** reliable close engagement typically comes from **Smoking/short-range delivery** and legal assault Fireteams rather than a 29pt Hidden Monofilament Oniwaban. Compare roster-legal **Sekban/Korsan/Viral/CC profiles** by movement from first staging corner, CC weapon versus VITA/STR, and cost of another gun/mission specialist. Do not confuse a capable close-range shotgun/enforcer with a true MA4–5 assassin. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Druze hacker+Pitcher25/.5 or KHD+Pitcher23/0** projects from a **legal team** and fights the appropriate target class; **Laxmee hacker/Pitcher24/.5** adds White Noise/cyber utility and a source-specific Wildcard, not generic Vanilla permission. **Fanous7/0** regular Flash/native Repeater (AVA3); **Rafiq13/0** Sensor/FO native network; **Hafza FO17/0 Deployable Repeater**, **Ghulam13/0** and **Alguacil FO12/0** place their repeaters only **after spending a Place Deployable Order**, barring actual Minelayer. **Counter:** the army can capitalize on pitcher FT bonuses but too much cyber investment leaves weaker active guns; cross-check team chart before assuming linked bonus.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
