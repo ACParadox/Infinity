@@ -845,3 +845,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Andromeda30/0** (Infiltration, **Guard+MA3+D-Charges**, NWI) is a rare offensive Guard assassination bubble; **LoF+ZoC** is required and Guard does not create Engaged at range. **Myrmidon Chain Rifle16/0** combines **Mimetism−6 + Smoke + MA3 DA** as cheap Regular approach enabler; **Hippolyta37/0** gives a 2W Super-Jump/Berserk/EXP mobile assault when roster-legal. Compare patient target with **NBW** and do not count CC-based criticals as target-kill chance. [Cross-game CC assassin apex/value, Guard and delivery disputes](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Danavas HD+/Oblivion(+1B)+Pitcher22/.5** gives WIP15 White Noise plus network but **BS11 Pitcher** is an inconsistent long shot without special die. **Naga FO25/0** or **Dasyu FO29/0** carry deployable Repeaters into forward positions, not prepaid nodes unless selected Minelayer; **Apsaras KHD with Deployable Repeater** is a defensive/support path. **Pilot-X HD23/.5 + RacerBot Mk-III8/0 each**, maximum two, is **31/.5 minimum** (39/.5 two) for MOV20-10 kamikaze Place Deployable; bots **cannot be selected without the Pilot-X**. **Opposing TA OSS 2026:** inexpensive fast bots reduce Danavas pitcher necessity, yet Danavas White Noise/Oblivion retains specialist/hacker value. **Maximus Agent FTO45/1 TinBot Repeater** is a pricey *legal team* Repeater, not Firewall.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
