@@ -1055,3 +1055,9 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 **Non-Hackable cheap FO vs expensive armored VH:** actual **Zhànyīng FO20/0** and **Kǎnrèn FO25/0 Decoy/FD(+20)** are good carrier/retriever choices that can hide behind markers until pickup, while **Bào16–23/0 MSV2/Biometric/Riotstopper** defends last-turn contact routes. **Fēiquán28/0** aerial/Pitcher/Sensor/BS13+1SD helps clear the zone, but S7 **No Cover** is fragile against exposed ARO and the vehicle is **not automatically Specialist**. **Wèibīng FO/Sensor/Repeater** moves fast with mission utility, but STR1 not durable box holder. **Dispute:** Imperial Service Zhian MSV2 team can defend a corridor, but split 2-3 small deployed defenders against adversary smoke/Eclipse/Speculo instead of one castle.
 
 [Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Bào Riotstopper16/0** is a cross-game **S+ value** anti-tech package (**MSV2+Albedo(-3)+Biometric+Discover(+3)**), not a 16pt high-Burst sniper. **Bayara18/0** adds Biometric/MSV1/Guard and optional Disco; **Wèibīng14/0** is the cheap **Sensor/FO/Triangulated Fire** hunter for Camo/Hidden behind walls; **Hsien MSV2** or **Deva MSV2 gun** buys better actual shooting. **Matchup:** use Bào to check IMP and visors where a short lane exists; if the opponent relies on plain guns, Albedo has no marginal value. Sensor cannot mass-Discover IMP-1.
+
+[Full N5.3 anti-tech apex/value, rules, matchups and transcript disagreements](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
