@@ -780,3 +780,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Robio Aibōt7/0** is the ordinary **Regular native Repeater/Flash** source; **Pangguling8/0 Baggage+Repeater** is a second cheap regular Order with logistics/reload. **Keisotsu Hacker+CrazyKoala16/.5** does NOT bring a native Repeater or Minelayer by itself; Koala is a different Boost threat and needs placement. **Karakuri/other KHD/HD profiles** can only use projected net if the rules and target permit, and Vanilla JSA **does not inherit Shindenbutai's Tanuki Pitcher20/.5**. **Counter:** JSA can win through Hidden CC/fast assault rather than expensive extra Repeater/Guided packages; use 7–8pt support if it also protects flank.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Shikami42/0** merges **Eclipse+Mimetism(-6)+Climbing++Super-Jump(+7.5)+2W+FD+Specialist**, rare true turn-3 specialist/assassin able to cross MSV-covered rooftop lanes. **47/0** buys MULTI Rifle/D-Charges; both maintain Eclipse. **Oniwaban29/0 / Shinobu44/.5** are stronger monofilament delivery into the right target but do **not** have Shikami's independent Eclipse/2W specialist extraction package. **Opposing JSA 2026 event perspective:** spending 42 on Shikami is justified by hard objectives, not merely cheaper fight; a 20–30pt infiltrating Ninja+Smoke partner can be better on simple maps.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
