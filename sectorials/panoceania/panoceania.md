@@ -894,3 +894,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **PanO support:** Basic **Mulebot8/0** pays for itself as cheap Regular/Baggage/Repeater where legal, **EVO14/.5** is justified only with real active REM/airborne support. **Tech-Bee TAGCom9/0** provides printed **Dodge PH+3/GizmoKit PH+1** to TAGs in same Combat Group; do not grant it to Redeye **VH**. **Maximus FTO45/1 TinBot(Repeater)** shares an area with legal teammates, **not Firewall**. Evaluate **Strategic Deployment Crux FTO50 vs normal46** only where these actual profiles/Fireteams are on PanO roster. [Global ranking](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Most efficient synchronized scorer:** **Drummer FO+Drumbot-5 FO21/0**—unusually **both** are real FO; each can use own legal target/origin on same synchronized Skill, while Drumbot adds Heavy Flamethrower/Flash Pulse/360º/Mim(-3). **Heavy gun Drummer40–42/1–1.5** HMG/HRMC/Feuerbach partner offers a larger active ARO fork, but *Drummer* is only W1 ARM1; **47/1 FO+gun+FO bot** has three bodies when cost justified. **Peacemaker23/0 HSG+Auxbot**, **24/.5 HSG Minelayer**, **27/0 BSG+Auxbot** project FD+20/native Repeater/HFT/Mim-3; **23pt BSG +1B variant has NO Auxbot**. Any TAG **Crabbot** is Ancillary: starts off-table, uses Place Deployable, not free FO body. **Dante Kestrel disagreement:** 21pt FO beats over-investment in big gun Drummers, yet on open table a true three-body 47pt Drummer can force separate threats.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
