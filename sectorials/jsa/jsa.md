@@ -18,6 +18,9 @@ coverage: "43 standard Army-1101 logical units; complete standard profiles/loado
 # Vanilla JSA — N5.3 faction reference
 
 ## Overview and provenance
+
+**Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/jsa-must-have-go-to-avoid-source-audit-2026.md). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
+
 **Tactical companion:** [Vanilla JSA — transcript-reviewed list building, opposing opinions, TAGs/REMs and vehicle boundaries](../../notes/factions/vanilla-jsa.md) (research refresh **2026-10-23**). Unit, profile, AVA and Fireteam legality below remain **canonical**.
 
 
