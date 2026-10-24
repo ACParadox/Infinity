@@ -844,3 +844,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
 **Lù Duān20 Thunderbolt+E/M Carbine+E/M Mine** is budget repeatable anti-TAG; **Zúyǒng E/Mitter22** or **Zhēnchá31 Panzerfaust+FO/Camo** add specialist/positioning. **Chung-Hee27 K1 Combi/Engineer** supplies ARM=0 plus repair, **Shàng Jí AP HMG45/1.5 with Tactical Awareness** is the resilient **B4 AP** lethal plan, while **Húláng FD+20 Monofilament/E/Mitter38** is a target-specific midfield finisher. Heavy infantry is hackable even when this guide excludes offensive hacking; don't feed costly HI to an enemy TAG's templates. [Non-hacking anti-TAG/HI tiers and matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Shàng Jí FO36/0 TacAware**, W2/ARM4/BTS6 and legal Wildcard/Invincible link is ideal **carry and hold**; **Zúyǒng Paramedic26/0** is cheaper W2 regular scoring HI if Fireteam already in place. **Bìxié FO41/0** provides Super-Jump/Climbing+ for vertical exit. **Yān Huǒ Neurocinetics ML42/1.5** (ARM5/W2, Immunity ARM/Warhorse) is high-area **reactive zone anchor**, *not a box Specialist*; even more expensive ML/FTO41/1.5 serves different team role. **Counter:** grouped hackable HI can be Disabled via one Repeater/KHD/Guided plan; protect Firewall and carry box in Total Cover, score a second zone with a cheaper Zhēnchá FO rather than risk entire elite squad.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
