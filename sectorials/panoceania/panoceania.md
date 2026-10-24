@@ -864,3 +864,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Fugazi7/0 native Repeater/Flash** and **Mulebot8/0 Baggage/Repeater** provide cheap Regular baseline; **Pathfinder FO/Sensor/Repeater** and **Peacemaker23–27 native Repeater with FD(+20)** project toward midfield with second jobs. **Fennec HD+FastPanda16/.5**, **TechBee Deployable Repeater9/0**, and **Maximus FTO45/1 TinBot(Repeater)** are **different delivery types**: the FastPanda/TechBee requires Place Deployable; TinBot equips its owner and eligible *legal team*, but **Vanilla PanO has no such Fireteam chart just from the FTO label**. **Counter:** cannot import Kestrel Maximus FTO team benefits into vanilla; network less valuable if no adequate Hacker/target.
 
 [Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Cross-Vanilla PanO rare buys:** **Black Friar24/0 MSV2+Albedo(-6)** (check actual Vanilla availability), **Crux Father-Knight47/0 Hidden+FD+Albedo+NBW Specialist** or **FTO46/0** *different profile*, **Drummer FO+Drumbot-5 21/0** projects two synchronized physical threats from one controller. **Maximus FTO45/1 TinBot Repeater** requires a legal Fireteam to confer team benefits; **Vanilla** cannot assume Kestrel links. **Opposing:** cheap 7pt Fugazi / 14pt Pathfinder / 13pt Fennec FO deliver ordinary mission/support faster when uncommon abilities have no exploitable enemy.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
