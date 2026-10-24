@@ -788,3 +788,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Zhanshi Yīshēng14 WIP13** is the 65%-base budget VITA healer; **Mech-Engineer14 WIP13 + Yáozăo3** is the 17pt **Gūijiă/REM** repair line, rising from 65% to **87.75%** only with a qualifying Remote Presence target and Command Token. **Hǎidào Engineer25** brings NWI and Fireteam utility when a forward HI recovery route is needed. **Scarface & Cordelia** includes a dedicated companion Engineer, but her survival and path still matter. [Recovery support tiers and real success probabilities](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Varangian Guard12/0** buys strong **CC23/Berserk+Smoke/Dogged** *cheap trading*, but **White Company profiles are Irregular+Impetuous**—unlike Regular O-12/Kosmoflot Varangians, so do not assign free pooled Orders. **Kunai25–28 Hidden** is primarily concealed long-range shooter (**MA3 CC21**, not Mono/Infiltration); **Kaplan** and **Hǎidào** are versatile linked gun/specialist/engineering pieces, not premier duelists. Screen **Guijia/Scarface TAGs** with Warbands/Repeaters and deny stealth contact. Roster-legal named melee hero is not an automatic faction import. [N5.3 melee apex/value and counter-CC guide](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
