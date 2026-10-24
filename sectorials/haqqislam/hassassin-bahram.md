@@ -759,3 +759,9 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Indirect choice:** **Shaytaniyah Guided16/1.5** benefits from *already useful* Barid/Pitcher/FO Spotlights; **Daylami Grenade Launcher10/.5** has low-cost residual speculative utility, while **Muyib Rifle GL+Smoke GL21/1** combines damage/visibility in a legal Fireteam. Fiday/Asawira direct attacks are often more Order-reliable when enemy Resets or has good anti-network tools. Do not interpret a plain KHD as a universal Spotlight source. [Whole-game guide](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Asawira Doctor+3 35/0** = **W2 ARM4 BTS9 Regeneration + real Specialist**, ideal difficult-to-kill Supply Box keeper inside source-legal Fireteam; **32/0 Boarding Shotgun+Disco** and **33/0 AP rifle** are **not Specialist just from Asawira name**. **Shakush56–58/1.5** 3STR/ARM6/Tactical Awareness can swing a quadrant and screen a box, but only its **Jandab Ancillary Specialist** has specific ancillary mission permissions—**TAG itself cannot pick up normal Supplies**. **Farzan CoC24/0** and Shujae Hidden/E/M mine protect pickup squares and secure secondary zones; CoC eligible Specialist where scenario accepts it. **Opposing:** two Asawira holding one room may fall to coordinated AP/CC E/M, whereas one Doctor Asawira plus cheap specialist/markers and Jammer screens split risks.
+
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
