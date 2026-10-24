@@ -987,3 +987,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Saladin Naval Liaison** has **Counterintelligence, Decoy(2), Minelayer(2)**; Decoy replicas are static and do not lay additional mines. **Hector Strategos1 + Firewall(-3)** is expensive combat-command role compression; **Santiago FTO Firewall(-3)31/0** supports legal Bronzes team. **FuzzBot8/0 Baggage vs14/.5 EVO** can reload Pitchers or supply Controlled Jump/Assisted Fire only with real recipient. If the scenario is not Order-strip-heavy, buy a direct scorer instead of premium commander solely for Counterintel. [Global support ranking](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Raptor + Devabot** is Starmada's main synchronized fork: **HSG32/0** cheap W2/NCO/360º controller+HFT; **FO39/0** becomes specialist-plus-template for carry defense; **KHD41/0** counters incoming hacking. All activate with ONE Regular Order and declare common Skill with different legal targets. **Zeta TAG + Zetbot Ancillary** requires later **Place Deployable**, Zetbot not extra order/turn-zero board presence; can alter Fireteam eligibility. **Parvati/Lambda Doctor/Engineer + Yudbot3/0** projects recovery far from owner, not independent hacker/healer. **Opposing:** 32pt Raptor close defense more robust than fragile Sirius21 (which is not in Starmada); but two cheap true Regular independent troops can hold remote quadrants that synchronized Devabot Coherency can't reach.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
