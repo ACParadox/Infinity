@@ -132,3 +132,9 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 - **Strict profile split:** Patroclus **unlinked 35/1 Holoprojector HRL has Smoke**; **FTO link-capable Patroclus has no Smoke**. Do not construct an imagined linked Achilles + Patroclus Smoke engine. **Drakios/Ironside Albedo** punishes MSV directly but is not a shared blocking zone; Teucer MSV2 is the reverse matchup tool.
 - **Disagreement:** N5 reviewers value Albedo's hard-ARO answer, but question the price of Drakios if the opponent has no MSV; if Smoke is only available by unlinked Patroclus, account for the independent Order cost. [Vision-control guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Apex FT Master:** **Pandora24–29/.5, Patroclus FTO31–40, Drakios FTO31–33** turn legal Irregular Blackheart/Steeljaw team members into Regular Order contributors. **Gearhead Cyberplug13 + Puzzler12–13** starts at **25pts**, not a standalone 12pt Regular Order; Connected works at any distance, Autonomous spends pooled Orders and has weaker stats. **Ikadron/Echodron Baggage** reloads mines/Pitchers, not Non-Reloadable turrets. **For:** devastating flexible teams (Shepherd/LoL). **Against:** MetaChemistry opponent advice specifically kills FT Masters and Gearhead controller to dismantle economy; if links already Regular or controller can't safely operate, don't pay for special rules.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
