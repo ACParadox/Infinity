@@ -1049,3 +1049,9 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Imperial Service:** **Son-Bae Guided16/1.5** is an optional payload for legal hackers, **Wèibīng FO/Repeater** and forward Pitcher networks; the **FTO/+1B Missile** is a different source profile for direct ARO. **Wú Míng MULTI Rifle+GL+E/M GL27/0** is a durable independent short-mid Speculative tech attack with real FT conditions. If E/M state pressure suffices, don't consume 1.5SWC and multiple Targeted/Guided Orders for the same problem. [Global tiers and matchups](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Non-Hackable cheap FO vs expensive armored VH:** actual **Zhànyīng FO20/0** and **Kǎnrèn FO25/0 Decoy/FD(+20)** are good carrier/retriever choices that can hide behind markers until pickup, while **Bào16–23/0 MSV2/Biometric/Riotstopper** defends last-turn contact routes. **Fēiquán28/0** aerial/Pitcher/Sensor/BS13+1SD helps clear the zone, but S7 **No Cover** is fragile against exposed ARO and the vehicle is **not automatically Specialist**. **Wèibīng FO/Sensor/Repeater** moves fast with mission utility, but STR1 not durable box holder. **Dispute:** Imperial Service Zhian MSV2 team can defend a corridor, but split 2-3 small deployed defenders against adversary smoke/Eclipse/Speculo instead of one castle.
+
+[Cross-game holding/carrier apex/value, scenario scoring, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Exact local profile/FT roster is authoritative.
