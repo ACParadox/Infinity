@@ -2,6 +2,8 @@
 
 **Current unit-level comparison:** [Active-turn gunfighter apex/value rankings](active-turn-gunfighters-apex-and-value.md) applies these weapon and range-band principles to exact 2026 N5.3 profiles, movement/exit Orders, Fireteams and separate TAG comparisons. This is the **how-to** primer; the linked guide ranks **who to field and when**.
 
+**Current anti-armor unit rankings:** [Non-hacking anti-TAG/HI apex and points value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) applies E/M, K1, AP+EXP, Breaker and Monofilament to *current roster costs, opponents' saving chances, attack delivery, and Engineer recovery*. This file retains underlying engagement theory.
+
 ## Core principle
 
 Weapon choice in Infinity is not mainly a question of **which gun is strongest**.
