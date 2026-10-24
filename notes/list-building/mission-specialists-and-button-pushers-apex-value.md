@@ -1,6 +1,6 @@
 # Mission Specialists / Button Pushers — N5.3 Apex and Points-Value Tiers
 
-**Multi-body/rare-skill scorer supplement:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) distinguishes **Posthuman Mk.1+Mk.5 two-location specialist/one Order**, **Coyote FO + separately purchasable BambaDroid FO**, **Sirius FO + non-FO Repeater bot**, **Drummer FO + synchronized Drumbot**, and **Eclipse/vertical-access Shikami/Kinnara**.
+**Multi-body/rare-skill scorer supplement:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) distinguishes **Posthuman Mk.1+Mk.5 two-location specialist/one Order**, **Coyote FO + separately purchasable BambaDroid FO**, **Sirius FO + non-FO Repeater bot**, **Drummer FO + synchronized Drumbot-5 FO (both have FO, legal dual-target FO in one Order)**, and **Eclipse/vertical-access Shikami/Kinnara**.
 
 _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, profiles, AVA and team access derive from the pinned N5.3 Army (Sept 2026), not older media. [Mission and scoring framework](mission-scoring-and-specialist-strategy.md) · [Hacker/KHD detailed tiers](hackers-and-killer-hackers.md) · [Lieutenant/CoC command tiers](command-units-apex-and-value.md) · [Order economy](order-efficiency.md) · [Fireteams](fireteams-and-profile-evaluation.md). **This adds specific cross-game unit rankings, not a replacement for the existing mission guide.**_
 
