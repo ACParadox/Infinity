@@ -828,3 +828,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Invincible Army is an armored shooting/Order-economy army, not a Hidden MA5 assassin sectorial.** **Shàng Jí** (CC19) and **Tai Sheng** (CC18) want Fireteam guns/hacking protection and mission pressure, not an unsolicited CC duel with **Monofilament/Guard**. **Krit Kokram** can advance and solve technical/close-range problems as a second job; **Guijia** is a **TAG**, and its CC sidearm is part of a completely different 70+pt purchase. Screen flanks with mines, template bodies and Repeaters; disable an enemy CC assassin *before* it reaches a valuable HI gun. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Hǎidào KHD+Pitcher22/0** is the strongest *value* projection in IA: anti-Hacker and ranged Repeater from a **legal Wildcard** alongside Zúyǒng/Wu Ming link plan. **Krit Kokram FTO-2 Deployable Repeater+Minelayer37/0** starts a forward node via FD(+20) but **FTO-2 restrictions differ from ordinary FTO**; never grant a legal team spot by label alone. **Zhēnchá FO+Deployable Repeater31/0** builds forward from Camo and scoring. **Pangguling8/0 Baggage/Repeater**, **Wèibīng Sensor/FO/Repeater** and **Chaīyì7/0** are budget Regular alternatives. **Counter:** a premium HI team with too much hacking network may expose all its valuable Hackable models; allied TinBot Firewall protects, it does **not** create coverage.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
