@@ -18,6 +18,9 @@ coverage: "Standard Bakunin roster, standard loadouts, canonical Fireteam chart,
 
 ## Overview and provenance
 
+**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](../../notes/factions/nomads-must-have-go-to-avoid-source-audit-2026.md). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
+
+
 Repository-native reference for **Bakunin** roster, profiles, points/SWC, AVA, and Fireteam access.
 
 For concise transcript-reviewed tactical analysis, explicit disagreements, Fireteam-building guidance, **Stigmata/Lizard TAGs, Go-Pod vehicle and REM choices**, see [Bakunin — N5.3 Tactical and List-Building Guide](../../notes/factions/bakunin.md). This file remains the authoritative profile and Fireteam reference.
