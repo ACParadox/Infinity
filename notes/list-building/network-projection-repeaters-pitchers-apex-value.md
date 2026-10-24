@@ -1,5 +1,7 @@
 # Network Projection — N5.3 Repeaters, Pitchers, FastPandas, TinBot and Delivery Units
 
+**Rare multi-body/projection interactions:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) covers **RemDriver Apsaras/Pilot-X**, Cyberplug autonomous versus connected, Coyote FO + dependent BambaDroid, and Team Sirius FO + Repeater SiriusBot. A bot possessing Repeater or a separate FO does not automatically grant those skills to its controller.
+
 _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured win rates. Profile prices, SWC, AVA, package dependencies and Fireteam permissions are from the pinned **Sept 2026 N5.3 sectorial files on main**; earlier video/podcast advice is treated as interpretation. These are cross-faction benchmarks, **not a legal mixed-army list**._
 
 **Role:** Put a usable Hacking Area where it changes the enemy's movement or enables **Oblivion / Carbonite / Trinity / Spotlight / White Noise / Guided**. The strongest network creates an actual tactical consequence **before** the enemy can remove it, using few Orders, a safe launch position and a *real* compatible Hacker. Evaluate **network-delivery units separately from Hacker skill and from the Guided payoff**. [Dedicated hacker tiers](hackers-and-killer-hackers.md) cover the latter.
