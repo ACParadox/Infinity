@@ -640,3 +640,9 @@ Legal pool: **Domaru, Karakuri, Rui Shi, Daiyōkai, Yuriko FTO, Neko, Shurayuki*
 
 - **Cross-roster toolkit:** **Shikami 42/0 Eclipse** scores through visored lanes; **Garon 16/0 Smoke GL**, **Yojimbo/Kuroshi** normal Smoke and **Rui Shi MSV2** enable offensive shooting; **Tankō 19/0 Disco** can put down precise Eclipse but **Vanilla has no Fireteam** (don't borrow Ōban linked-throw bonuses).
 - **When better:** Tankō if a cheap one-off crossing is the bottleneck; Shikami if the unit itself must score vertically; Garon/Yojimbo if Smoke + Rui Shi has multiple favorable attacks. [Cross-faction guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Shikami42 or47** is a rare genuine solo mobility/scoring/Eclipse/CC generalist; vanilla cannot borrow Ōban Fireteam bonuses. **Karakuri31–38** cover durable hold/scoring, **Kempeitai CoC17** cheap command insurance, and **Tanuki/other Shinden pieces** must be selected only where actually present. A 42pt Shikami with no genuine objective path can be worse than 2 independent cheap specialists.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
