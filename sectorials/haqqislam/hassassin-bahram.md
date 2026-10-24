@@ -745,3 +745,9 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Fiday BSG23/0** is the cheap **Impersonation + Smoke + DA CCW** attacker against DZ support; **Hussein Al-Djabel33/0** pays ten extra for **MA4, Viral CCW, Climbing Plus and WIP15**. **Asawira BSG32/0** is a 2W/Berserk(+3)/MA2 hard corner fighter **after** a legal shooting/Smoke route; don't sacrifice it solely to initiate CC. **Fiday is not Monofilament**: choose targets appropriate to DA/Viral, deny mine/Guard screens and avoid forcing a head-on contest with NBW. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Hassassin Barid12/0 FO+Pitcher** is an unusually cheap Regular Fireteam projector without SWC; **Barid14/0 KHD+Pitcher** supplies anti-Hacker Trinity; **16/.5 HD/Pitcher** adds anti-heavy programs. Don't combine those *separate* profiles. **Rafiq13/0 Sensor+FO+native Repeater** is a strong MOV15-10 scoring kamikaze node, **Fanous7/0** and **Kameel8/0 Baggage+Repeater** form low-cost Regular scaffolding. Ghulam13/0 Deployable Repeater normally requires an Order to place. **Counter:** Barid BS11 outside team/range is unreliable at 24″+, and many non-Hackable attackers require Ghazi/Daylami physical guard instead of more cyber.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
