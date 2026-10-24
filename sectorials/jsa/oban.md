@@ -17,6 +17,9 @@ coverage: "Complete standard Ōban roster, standard loadouts/profile states and 
 # Ōban — N5.3 sectorial reference
 
 ## Overview and provenance
+
+**Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/jsa-must-have-go-to-avoid-source-audit-2026.md). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
+
 **Tactical companion:** [Ōban list-building, transcript-backed opposing opinions and TAG/REM/VH comparison](../../notes/factions/oban.md) (research updated 2026-10-23). Tactical evaluations are community commentary; **the Army profiles and Fireteam chart below remain canonical**.
 
 
