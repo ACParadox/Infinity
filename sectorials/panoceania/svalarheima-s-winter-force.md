@@ -771,3 +771,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **WinterFor** favors heavyweight **Jotum** high-ARM TAG zone swing and **Knight Hospitaller/Justice** hard midfield when locally roster-legal, but actual Specialist profile/Fireteam determines Supplies eligibility. **Nøkken FO22/0** with marker and FD is excellent initial box retrieval, not invisible after taking box; **Peacemaker23–27/0–.5 + Auxbot** and **Fugazi7/0** guard pickup square while a separate durable specialist retreats. **Sval command/active pieces** that must fight on first turn should not be pinned indefinitely to a console merely because they have high ARM. **Disagreement (2026 overall faction tiers):** WinterFor's fantastic guns struggle to *translate* cleared lanes into scored buttons; plan 2 specialist routes, not only a Jotum.
 
 [Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Nisse HMG31/1.5 MSV2 + Mimetism(-3)** is an effective *shoot* answer to revealed Mimetism/ordinary Smoke at the proper range and legal team; **Pathfinder14/0 Sensor/FO** instead cheaply reveals Camouflaged/Hidden threats from ZoC. **Vargar27/0 Sensor+Triangulated Fire** is an active mobile marker hunter; **Vargar24/0 FO+Disco** and **Quinn26 Disco** bypass enemy MSV/Marksmanship without needing to win that FtF. **Opposite tech:** enemy White Noise/Albedo punishes reliance on Nisse MSV2; bring a plain defender and count setup Orders. Do not merge Vargar's Sensor and Disco on one hypothetical profile.
+
+[Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
