@@ -957,3 +957,9 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Saladin CoC33/0 or Lieutenant34/0** with **Minelayer(2) and Deployable Repeater** can pre-place **two nodes at deployment**, unusually strong *Turn-0* network if already purchasing his command/Decoy/Counterintelligence package. LT gains Strategos L1/+1 Command Token; **CoC does not**. **Cyberghost HD+/Pitcher21/.5** supplies ranged White Noise/Oblivion, **Kyttä7/0 native Repeater/Flash** and **Oko FO/Sensor/native Repeater15/0** are cheaper Regular route builders, **FuzzBot8/0 Baggage/Repeater** reloads eligible disposables. **Counter (TA Starmada):** extra defensive/command investment competes with mobile Betatroopers and actual scoring; a 33pt Saladin is not a value pick *solely* to place Repeaters.
 
 [Whole-game apex/value network guide, current profiles, and opposing media views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+## N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Raptor32/0 + synchronized 360º HFT Devabot** and **Raptor39/0 FO+Devabot** have rare durable two-angle HI/Peripheral packages; **Devabot does not automatically gain FO** from the 39pt controller. **Sekudroid18–19/0 360º+Mimetism(-3)+STR2+Flash(+1B)+Adhesive** is unusual affordable nonlethal body-guard/Fireteam glue, not native Repeater. **Saladin CoC33/0 or LT34/0 has Deployable Repeater+Minelayer(2)+Decoy(2)** giving a *turn-zero cyber network while protecting command*, but CoC does not gain Strategos. **Opposing TA Starmada:** distributed shell can be tough yet delays mobile scoring; prefer just one useful rare support fork.
+
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
