@@ -857,3 +857,9 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Asawira** is not the default Ramah melee purchase: use **current roster-legal Khawarij/Tarik** as strong mobile *close-range* threats only once their shooting/superjump/route is productive. **Carmen Johns + Bâtard** brings two-body pressure, Smoke and melee/trade value where rostered, but cannot be ranked as a Hidden/Impersonating specialist. A Ramah assault against a dedicated MA5/NBW defender should usually **shoot or exploit a template angle**, not initiate a head-on CC duel. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Valerya Gromoz19/.5** is a cheap HD/Pitcher + Total Control upgrade **Wildcard** for usable ranged projection; **Rafiq13/0 FO/Sensor/native Repeater**, **Fanous7/0 Flash+Repeater (AVA3)** and **Kameel8/0 Baggage/Repeater** are the excellent Regular foundation. **Hunzakut FO+Deployable Repeater19/0** is **Irregular, AVA1** infiltrated corner placement, not a free Turn-0 Minelayer. **Ghulam13/0** carries a deployable node but places later. **Opposing case:** Ramah often needs 2–3 strong attacks/specialists instead of a stationary cyber castle; against mass non-Hackable troops, cheap Fanous/Rafiq utility is sufficient.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
