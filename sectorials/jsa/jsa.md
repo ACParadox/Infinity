@@ -786,3 +786,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Shikami42/0** merges **Eclipse+Mimetism(-6)+Climbing++Super-Jump(+7.5)+2W+FD+Specialist**, rare true turn-3 specialist/assassin able to cross MSV-covered rooftop lanes. **47/0** buys MULTI Rifle/D-Charges; both maintain Eclipse. **Oniwaban29/0 / Shinobu44/.5** are stronger monofilament delivery into the right target but do **not** have Shikami's independent Eclipse/2W specialist extraction package. **Opposing JSA 2026 event perspective:** spending 42 on Shikami is justified by hard objectives, not merely cheaper fight; a 20–30pt infiltrating Ninja+Smoke partner can be better on simple maps.
 
 [Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../notes/list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Oniwaban SMG29/0, Shinobu44/.5** are apex anti-TAG **Hidden/Infiltration/Monofilament** *only if contact route survives screening*; **Hatamoto Plasma34/0 (Mono/E/M CCW)** is tougher 2W counter-CC but lacks Hidden. **Lù Duān20 E/M Carbine+E/M Mine**, legal **Tankō Blitzen/Monofilament** or **Karakuri Panzerfaust** offer non-hacking ranged/control alternatives. Don't rely exclusively on CC: TAG Guard/mines/cheap watchers may make E/M at 8–16in the better choice. [Cross-game non-hacking anti-armor apex/value guide](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
