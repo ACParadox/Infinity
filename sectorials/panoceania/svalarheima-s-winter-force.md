@@ -777,3 +777,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Nisse HMG31/1.5 MSV2 + Mimetism(-3)** is an effective *shoot* answer to revealed Mimetism/ordinary Smoke at the proper range and legal team; **Pathfinder14/0 Sensor/FO** instead cheaply reveals Camouflaged/Hidden threats from ZoC. **Vargar27/0 Sensor+Triangulated Fire** is an active mobile marker hunter; **Vargar24/0 FO+Disco** and **Quinn26 Disco** bypass enemy MSV/Marksmanship without needing to win that FtF. **Opposite tech:** enemy White Noise/Albedo punishes reliance on Nisse MSV2; bring a plain defender and count setup Orders. Do not merge Vargar's Sensor and Disco on one hypothetical profile.
 
 [Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Peacemaker HSG+Auxbot23/0** adds an actual second synchronized HFT angle to WinterFor's otherwise gun-heavy long firelanes: FD+20/Repeater/Mim(-3) imposes late corner attack costs. **24/.5 Minelayer** buys prelaid mine for layered DZ/midfield defense; **27/0 BSG+Auxbot** strong active short-range, but **23/0 BSG+1B has NO Auxbot**. **Jotum and other TAG Ancillary Crabbot** are delayed deployable support not 2 Regular Orders. **Opposing analysis:** WinterFor excels killing lanes but can fail button timing; inexpensive Peacemaker+one independent specialist may outscore another expensive reactive HI that doesn't defend the actual interaction square.
+
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
