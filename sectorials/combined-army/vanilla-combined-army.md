@@ -899,3 +899,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **T-Drone Guided Missile16/1.5** is the compact payoff when **Umbra/Victor/Bit & KISS! + Repeaters + Targeted** already function. A hacker/FO must first cause Targeted (Spotlight AP PS5 Saving Roll) and Guided remains B1 with Dodge/Reset; **ECM Guided on Avatar/Sphinx/Overdron is a defensive modifier**, never extra missile capability. Avoid buying a fragile launcher instead of a needed direct anti-heavy gun/mission scorer. [Global indirect tier](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Avatar122/3** (ARM9/BTS9/STR3/Mimetism(-6)/Strategos2/TA) creates a huge one-move quadrant swing, but losing it gives up **122VP** and it is **not a regular Specialist** for Supplies. **Sphinx93/2** (Camo/Hidden, 3STR/Mimetism(-6)/Climbing+/TA) attacks and parks in denied quadrants; **off-table Hidden does not count** until physically revealed. **Caliban FO26/0** Camo/FD+20/Protheion is the cheap carried-objective scorer, and **Shrouded FO24/0** a lower-investment infiltrated alternative; once carrying a box neither may remain a marker. **Ikadron11/0 Baggage/Repeater/Dogged** is a cheap forward body; **+20VP is mission-specific (e.g. Superiority), not ordinary Domination**. **Opposing LoL/WIP12:** Avatar/Cutter-like premium centerpiece can dominate or lose all points to E/M/hacking; often smaller Xeodron/engineer-supported REM and another scorer wins more quadrant coverage.
+
+[Cross-game zone-holder and carrier apex/value, mission rules, and opposing transcripts](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Current local roster/FT chart is authoritative.
