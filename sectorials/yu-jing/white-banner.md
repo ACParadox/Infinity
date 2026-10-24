@@ -837,3 +837,9 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Shaolin Warrior Monk5/0 CC23/MA3/Smoke** is an extremely cheap *approach enabler and disposable counter-charge*, but Impetuous/Irregular limits pooled Orders. **Jing Qo32/0** is true **CC23 MA3, Berserk, NWI, Climbing Plus** medium-cost close fighter who also contributes shooting and legal Shaolin-team mobility; can overpower ordinary defenders, but **not** an Oniwaban's Hidden/Monofilament alpha strike. **Kunai28** is a Hidden **sniper MA3**, no Infiltration or premium Mono kill: don't misrank it as an assassin. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Dokkaebi 22/0 KHD+Spotlight+Pitcher** combines legal Spotlight/Guided setup and KHD; **HD+Carbonite/Pitcher23/.5** is a separate option for heavier targets. **Fēiquán28/0** has Pitcher, **BS13+1SD**, MOV20-5/Aerial/Sensor but remains S7/No Cover. **Guìláng25/.5 Camo Infiltration Minelayer+Deployable Repeater** gives a guaranteed **Turn-0 midfield node** and **Wèibīng14/0 Sensor+FO+Repeater** / **Chaīyì7/0** move native coverage forward. **Tradeoff:** Haetae Guided HRL/Son-Bae is an optional *payoff*, not intrinsic value of a repeater; enemy KHD/Firewall and target type can make guns/scorers better.
+
+[Cross-game network apex/value, profiles, matchups and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Exact local roster and Fireteams remain authoritative.
