@@ -19,6 +19,9 @@ coverage: "Complete current Shindenbutai main roster, exact standard loadouts an
 
 ## Overview and provenance
 
+**Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/jsa-must-have-go-to-avoid-source-audit-2026.md). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
+
+
 Repository-native reference for **Shindenbutai** (Army sectorial ID `1102`), a JSA sectorial. It is intended to answer roster, profile, AVA, points/SWC, Lieutenant, specialist, hacking/network, deployment, peripheral and Fireteam questions without reopening Army.
 
 Sources used:
