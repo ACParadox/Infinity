@@ -493,3 +493,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **FRRM** primarily plays **midfield rifle/shotgun/template control**, not Shinobu-level assassination: **Chasseur19+ Camo/Infiltration CC14** gets behind screens but wins through mine/LFT positional threats, not melee; **Para-Commando18+** flanks with guns at CC16, not raw CC. **Loup-Garou17+** smoke/viral/PARA can *enable or defeat* approaching assailants. **Moblot32+** and **Zouave21+** are gunfighters/objective bodies; save points by **screening with Camo mines/Flamethrower** instead of forcing MA4/Mono matchups. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**FRRM** has effective **Moblots/Métiers long-range guns, Loup-Garou Viral/PARA/Smoke GL**, and **Chasseur mine+LFT** positional threats, but no automatic **5pt Ghazi** or **29pt Oniwaban** equivalent in current roster. Prefer a **Panzerfaust/anti-materiel** profile where list permits, plus smoke/side angle. Against an enemy TAG, **jam its path with mines/templates** or remove its supporting Engineer; don't spend four Orders using basic Combi fire into ARM8+ Cover. Compare the current legal gun rather than importing TAK's TankHunter. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
