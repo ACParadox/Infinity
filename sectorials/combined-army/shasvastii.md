@@ -588,3 +588,9 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Speculo BSG26/1** combines Impersonation, Monofilament, MA3 and regenerating one-Wound threat against TAGs/HI, but pays SWC; **Caliban BSG24/0** is Camo/FD+20 MA3 **Protheion on VITA**, better when nearby unarmored targets allow growth and scoring. **Sheskiin48/0 or 50/1** is a **BS15 + MA4/CC24/DA** two-Wound repeat attacker, not a cheap disposable assassin; Protheion does not grow from enemy STR. Enemy Biometric/Guard/mines defeat careless Impersonation arrival. [CC assassin apex/value, Guard, anti-CC and evidence](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**R-Drone7/0 Flash/native Repeater**, **Ikadron11/0 native Repeater/LFT/Baggage**, **M-Drone FO/Sensor/Repeater** establish low-cost network for protected hackers, while **Victor Messer Cybermine/Deployable Repeater Minelayer(2)30/.5** can pre-place remote nodes on the *actual chosen Minelayer profile* (the 31/.5 ECM-Guided TinBot option is separate). Hidden/forward Shasvastii units instead deny different approaches; do **not** claim that owning Mines alone means a free deployed Repeater. **Counter:** cyber network without worthwhile Hackable targets is weaker than Shrouded mine/Noctifer ARO and physical screens, and enemy KHDs can retaliate via exposed nodes.
+
+[Whole-game network projection: apex/value, current profiles, and opposing transcript views](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md).
