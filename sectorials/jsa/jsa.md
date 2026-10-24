@@ -796,3 +796,9 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Karakuri FO31/0** is the top practical **box holder**: STR3/ARM3/BTS6/Immunity(Enhanced)/Remote Presence, FO, Chain Rifle+Panzerfaust and 0 SWC; **35/0 MULTI** and **38/0 Mk12** pay for specific shooting, not better carrying. **Shikami42/0** is best at *delivering* the box (Eclipse, Mimetism-6, Climbing+, Super-Jump, 2W); loses Marker protection only where it has marker skills, not relevant here. **Hatamoto34/0** NCO+Nanoscreen is a strong Specialist 2W zone cleaner; **Daiyōkai46/0** NWI/ARM5 adds points but is **not an ordinary box Specialist**. **Opposing WIP12 JSA/Meta winner 2026:** defend Karakuri with an Engineer/nearby screens and use late objective-positioning rather than reckless multi-round fights; 31pt durable FO often beats 42pt Shikami when travel is easy.
 
 [Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
+
+## Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Atom Aibōt FO/Sensor15/0** is the budget regular **Camo/Hidden ZoC detector**, with Triangulated Fire for a revealed Mimetism target; a cheap REM search is usually more efficient than revealing a premier ninja to scout. **Kempeitai MSV2** or **Rui Shi MSV2** are separate *shoot-to-kill* tools that can also exploit rostered Yojimbo/Garon Smoke against opponents without MSV. **Eclipse/Disco** on a legal JSA body bypasses *enemy* MSV/Marksmanship better than a direct fight. Opponent sensor pressure and anti-IMP screening must be planned for your own marker assassins too.
+
+[Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
