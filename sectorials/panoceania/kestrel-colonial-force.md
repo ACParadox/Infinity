@@ -810,3 +810,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Speculative value:** **Jackal E/M GL+Shock Mine Minelayer11/.5** is a cheap *Irregular* infiltrator; **Emily E/M GL22/0 or GL+E/M24/0** gives linkable disabling pressure from cover. **Redeye Continuous Damage GL38/1.5** is fast aerial off-angle attacker, but **37pt Blitzen** profile is often better anti-TAG/VH. **Squalos Mk-II HMG+GL62/1.5** adds occasional speculative to a high-BS gun; **Clipper Guided16/1.5** needs a true FO/Spotlight/repeater plan and enough SWC. Do not rank all grenades/Smoke GL as lethal equivalents. [Global rankings and tradeoffs](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Crux Father-Knight47/0 Hidden+FD+Specialist** (W2 ARM5/Albedo/CC) is hard-to-remove initial midboard carrier and 47VP zone body, but reveals/cannot return to marker while holding box; **FTO46/0** loses hidden deployment. **Tikbalang69/1.5** 3STR Mimetism Climbing+/TA, **Squalos55/1** 3STR/TA are raw TAG zone swings, not normal box carriers. **Fennec FO/Sensor/Disco13/0** is a low-cost *pickup* body that needs a safe retreat; **Peacemaker23/0 + Auxbot** defends its return lane and **Fennec Minelayer14/0** establishes prelaid choke defense. **Drummer FO+Drumbot-5 FO21/0** creates genuine **two FO attack origins in one synchronized Order**, not two Regular Orders or two whole 21pt zone models. **Opposing:** don't spend 47+69+55 on strong pieces if 13pt FO and zone-swing Squalos55 already make mission safe.
+
+[Cross-faction zone holding/carrier apex/value and actual transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Authoritative roster/FT chart above governs profile legality.
