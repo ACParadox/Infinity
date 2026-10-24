@@ -155,3 +155,9 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 
 - **Three distinct solutions:** **Jaguar Smoke 10/0 + Intruder MSV2** for aggressive shots; **Jazz FTO HD+ 22/.5 or Jazz+Billie 25/.5 + Moran Repeaters** for selective White Noise vs MSV/Marksmanship; **Shifta CoC + Disco 21/0** or **Lobo Disco 20–24/0** for MSV-proof crossing and close attack/mission progression.
 - **Counterpoint:** Smoke/MSV removes an ARO permanently if it wins the fight; Disco bypasses it for an objective at lower attack risk. Don't buy each engine if they all spend the same small Order pool. Correctional/Surface/Deepspace permissions differ. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
+
+## Toolbox / jack-of-all-trades assessment (2026-10-23)
+
+**Evader AP Spitfire Engineer35/1.5** is a genuine competent gun+WIP13 Engineer+TinBot(-3)/Deactivator toolbox (Dante transcript); **31/1 AP Spitfire Evader is Specialist Operative, NOT Engineer**. **24pt BSG Engineer** is usually better value if the actual job is repairing a forward Gecko/REM. **Gecko+Evader+Stempler** (WIP12 E208) has very high *module* utility, but not a single-model discount; it ties up resources and a legal Deepspace formation. **Coyote FTO KHD+Carbonite23/0** is Surface-only FTO.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
