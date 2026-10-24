@@ -1,5 +1,7 @@
 # Bakunin — N5.3 Tactical and List-Building Guide
 
+**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](nomads-must-have-go-to-avoid-source-audit-2026.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
+
 ## Scope, sources, and what changed
 
 **Authoritative profiles:** [Bakunin N5.3 roster and Fireteam chart](../../sectorials/nomads/bakunin.md), Army `7.26246.158` (source 3 September 2026, verified 15 October 2026), **48 standard units**; this guide provides interpretations rather than overwriting points, weapons, legality, or [rules](../../rules/README.md). [Vanilla Nomads](vanilla-nomads.md) and [Corregidor](corregidor.md) are complementary comparisons, **not legal ways to mix their rosters or Fireteams**. Sources from N4/early N5 are explicitly dated. Avoid extrapolating their old lists without an Army rebuild, especially for FTO profiles and hacking programs.
