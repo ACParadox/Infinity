@@ -1507,3 +1507,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Van Zant33–35/0** reaches an **enemy-DZ edge** and can finish an isolated target with AP+T2 CC, but its value is *entry + gunfire*, not a true MA5 duel. **Galwegian5/0** brings Irregular Smoke + AP CC22 to tie up expensive gunmen cheaply; **Dog-Warrior21** moves 15-10 and brings Berserk/Smoke and greater resilience. **S.A.S.** infiltrating mines/shotguns suppress victim support first. Against enemy NBW/Guard, use grenades/templates and range: a cheap warband does not automatically win a TAG assassination just because CC is possible. [Close-combat apex/value, positioning and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Beasthunter9 Panzerfaust+HFT** or **Dynamo14 Panzerfaust+Smoke GL** are cheap counter-threats; **Dozer14 Blitzen** buys Engineer plus ranged E/M. **TankHunter AP HMG33/1.5** is best reusable B4 armor can-opener, **Portable Autocannon(+1B)36/1.5** stronger AP+EXP per uncancelled hit, **TankHunter AP SMG+Panzerfaust+FD24/.5** is a multi-modal midfield trap. **Ratnik46 AP Spitfire+Panzerfaust/TacAware** is a high-cost repeated attack; no faction-wide Hacker dependency. [Non-hacking armor-killer value rankings and tactical matchups](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
