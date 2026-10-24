@@ -781,3 +781,9 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 ## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
 **Diablo8/0** (CC23 Berserk/NBW, Trench-Hammer, nominal 2W/Transmutation) is an outstanding **cheap conditional high-end melee trade**, especially when a legal **Lobo Correctional Fireteam** delivers it; **Irregular/Impetuous** and No Cover make a naked turn-1 charge expensive. **Jaguar10/0** is Regular Smoke/DA team/support value at CC22 MA1; **Lobo20** has NBW/Berserk but often better as **PARA (-9) control** than raw damage. Do not call Berserk a free Normal-roll guaranteed trade under current N5. [Dedicated CC assassin apex/value, delivery and counter-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
+
+## N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Two Moran BSG Repeater15/.5 (AVA2)** start **two free infiltrated hacking zones** with Koalas and FO; current best Turn-0 network benchmark. **Jazz+Billie25/.5** provides HD+/Trinity/Pitcher and **2 Regular Orders** (Billie native Repeater), while **Jazz FTO22/.5** is separate, link-compatible but no Billie. **Bandit Deployable Repeater Minelayer25/.5** puts a third midfield *node* down during deployment; **Meteor19/0** is airborne native Repeater; **Stempler15/0** follows with FO/Sensor/Climbing. **Opposing WIP12 2026 view:** Moran+Jazz is strong, but Vertigo Guided + links cost SWC; one Hacker with firearms or a gun-first list may outscore full Guided. Koalas do not Boost at IMP/Camo markers.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
