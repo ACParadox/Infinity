@@ -824,3 +824,7 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
 **Mech-Engineer14 + Yáozăo3** is cheap **Guijia/REM** protection (65% first roll, **87.75% with legal Remote Presence token**). **Krit Kokram37, WIP14 and 2W** supplies a durable forward Fireteam Engineer useful with Zúyǒng HI; **Chung-Hee Jeong31 ReRoll** and **Johnny Kao36** instead buy serious toolbox/mission/attack secondary roles. **Zhanshi Yīshēng14** covers injured VITA and not STR. Keep servant and combat team composition legal. [Doctor/Engineer apex and recovery odds](../../notes/list-building/doctors-engineers-and-recovery-apex-value.md).
+
+## Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Invincible Army is an armored shooting/Order-economy army, not a Hidden MA5 assassin sectorial.** **Shàng Jí** (CC19) and **Tai Sheng** (CC18) want Fireteam guns/hacking protection and mission pressure, not an unsolicited CC duel with **Monofilament/Guard**. **Krit Kokram** can advance and solve technical/close-range problems as a second job; **Guijia** is a **TAG**, and its CC sidearm is part of a completely different 70+pt purchase. Screen flanks with mines, template bodies and Repeaters; disable an enemy CC assassin *before* it reaches a valuable HI gun. [Cross-faction CC assassin apex/value and anti-CC](../../notes/list-building/dedicated-close-combat-assassins-apex-value.md).
