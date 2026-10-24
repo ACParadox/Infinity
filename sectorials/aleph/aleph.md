@@ -869,3 +869,9 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 ## Tactical cross-reference — indirect fire (2026-10-23)
 
 **Vanilla ALEPH:** **Samekh Guided ML16/1.5**, with existing Danavas HD+/Dasyu/Daleth FO and Pilot-X/RacerBot network, is an optional high-impact off-angle attack. Targeted also helps **Marut/Asura direct BS fire**; do not sacrifice the primary gun's active Orders unless missile payoff is likely. **FTO Samekh Missile+Flash15/1.5** is a distinct *non-Guided* legal Fireteam variant elsewhere, not an extra free bonus on the vanilla Guided profile. [Indirect tiers/anti-cases](../../notes/list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## N5.3 objective holding, zone domination & carried-objective choices
+
+**Asura HD+63/.5** has W2+NWI/ARM5/MSV3, WIP15 and hacker counterplay: elite **carry-and-fight** apex, though losing it risks too much list value. **Posthuman Mk.1 Engineer13 + Mk.5 FO13/.5 =26/.5** gives **two location options, one shared Order**; do not count 26VP twice when comparing zones, and non-active Proxies Dodge/Reset. **Marut86/1.5** is huge ARM8/STR3 zone swing, *not normal Supplies carrier*; **Maximus TAG80/1** 4STR is a second raw mass option. **Yadu FO27/0** NWI/Warhorse, **Apsaras/Deva protected score** are cheaper. **Opposing TA OSS/LoL:** luxury Marut/Maximus/Asura screen can win lanes, but the cheap Posthuman/Deva plus independent artillery often scores more reliably.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Source roster/FT chart above wins over tactical comparisons.
