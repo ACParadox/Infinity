@@ -761,3 +761,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Fugazi7/0 native Repeater**, **Mulebot8/0 Baggage**, and **Pathfinder FO/Sensor/Repeater** are cheap Regular Order/network foundation; **Peacemaker native Repeater with FD(+20)** brings an already-forward zone plus optional Auxbot/Minelayer. **Nøkken Camo/FD utility** can build further network only on profiles carrying correct Deployable Repeater; **Bulleteer native Repeater** is a gun-platform bonus, not an excuse to sacrifice a 20+pt shooter as a disposable 7pt bot. **Counter:** WinterFor's strong gunfight plan often prefers just Fugazi/Pathfinder rather than spending SWC on a Pitcher team or assuming off-roster tech.
 
 [Whole-game network projection apex/value, transcript disagreements and matchup selection](../../notes/list-building/network-projection-repeaters-pitchers-apex-value.md). Local profile tables and actual Fireteam chart take precedence.
+
+## Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Beasthunter9 Panzerfaust** (or **15 Camo+FD**), **Nøkken22 Panzerfaust**, **Karhu22 Blitzen or E/Marat**, and **Vargar K1 Marksman+E/M Mine26** offer distinct cheap-to-medium TAG responses: range deterring, short electronic trap and repeatable ARM=0. **ORC Feuerbach37/1.5** provides longer lethal control. A **Jotum** is a high-cost TAG target/opponent rather than the value answer to another Jotum. [Cross-game anti-armor apex/value, E/M, K1 and AP+EXP tiers](../../notes/list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
