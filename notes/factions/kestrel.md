@@ -238,3 +238,9 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 **Speculative value:** **Jackal E/M GL+Shock Mine Minelayer11/.5** is cheap forward *Irregular* control; **Emily E/M GL22/0 or Grenade+E/M24/0** is a Regular/linked off-angle threat. **Redeye Continuous Damage GL38/1.5** is the mobile apex backup, while **Blitzen37/1.5** answers heavy targets better. **Clipper Guided16/1.5** needs actual Fennec hacker/FO/Pathfinder/Pitcher access; direct Hetkari/Squalos/Tik attack may save Orders.
 
 [Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Force multipliers — special-ability apex/value (23 October 2026)
+
+**Best value:** **BCA Magistrate LT19/0** combines Strategos L1, Counterintelligence and **FT Master (Jackals)**: only *legal linked* 6pt Irregular Jackals become Regular; losing the bracketed FT Master cancels the relevant team. **Tech-Bee9/0** is exceptional TAGCom for same-group Tik/Squalos/Maximus (Dodge PH+3, GizmoKit PH+1), while **Mulebot8/0** is cheap Baggage and **14/.5 EVO** worth its upgrade only for meaningful REM/airborne Supportware. **Maximus FTO45/1 TinBot(Repeater)** projects a whole legal Fireteam network; **Crux Strategic50/0** saves deployment moves but Irregular Order #52 argues plain 46pt FTO often saves 4 points without losing a useful square.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
