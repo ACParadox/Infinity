@@ -1,5 +1,7 @@
 # Cheerleaders and Order Generators — N5.3 Cross-Faction Rankings
 
+**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
+
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
 **Body/Order accounting for rare mechanics:** [Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares **G:Jumper (2–3 Proxies, 1 Order)**, **Puppet Master+PuppetBot**, **Pilot-X+RacerBots**, synchronized Sirius/Coyote/Drummer peripherals and N5.3 autonomous Cyberplugs. Several bodies do not imply extra pooled Regular Orders.
