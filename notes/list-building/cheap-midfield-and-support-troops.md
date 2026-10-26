@@ -1,5 +1,7 @@
 # List-Building Strategy — Cheap, Midfield, and Support Troops
 
+**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
+
 **Cheap Repeater projection / disposable carriers:** [Network Projection — whole-game apex/value](network-projection-repeaters-pitchers-apex-value.md) compares 7pt native Flashbot, 8pt Baggage, FO/Sensor REM, Moran/Initiated/Guìláng Turn-0, Meteor/Jīnyào delivery and Pilot-X + mandatory RacerBot costs. Do not value an 8pt RacerBot independently of the required Pilot-X.
 
 ## N5.3 Warband / cheap-trader profile comparisons (2026-10-23)
