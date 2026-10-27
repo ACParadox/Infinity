@@ -1,5 +1,7 @@
 # Impetuous and Irregular troop sequencing
 
+**Deployment backsolve — [Loss of Lieutenant E176 Part 2 ~76–82m](https://www.youtube.com/watch?v=UoYjrRvC5ic&t=4560s), full transcript checked 27 Oct 2026:** Before placing an Impetuous Warband, choose the **safe end position and Smoke target** for its first constrained activation; then work **backwards** to place its base. Starting an inch behind the DZ line can allow a legal 4-inch first movement to finish behind a corner, where the same model starting on the line would be forced into an ARO or skip its free activation. The speakers also highlight **Move + Idle** as a possible N5 alternative to an unsafe second skill: check exact Impetuous/Movement constraints and table terrain. Treat the free movement as **part of a plan**, not an obligation to rush a 10pt smoke enabler to its death. [Deployment clinic](deployment-initiative-and-reserve-strategy.md#impetuous-and-peripherals-are-deployment-problems-not-only-activation-rules-e176-7685m-and-125135m).
+
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
 [N5.3 Warbands and Cheap Trading Units](warbands-and-cheap-trading-units-apex-value.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
