@@ -1,5 +1,7 @@
 # Terrain, silhouettes and table geometry
 
+**Radial deployment/table audit — [Loss of Lieutenant E176 Part 2 ~18–39m](https://www.youtube.com/watch?v=UoYjrRvC5ic&t=1080s), full transcript checked 27 Oct 2026:** Radial DZs are **narrower and deeper**, enabling serial AROs/Lt depth but reducing sideways breakout lanes and available S4/S7 staging. The nearest corners can be close while **far-flank objectives/HVTs are far away**; Infiltration, FD and Parachutist can earn more Orders saved, and long diagonal lines sometimes make **Sniper range bands** important against traditional missile positions. Examine **multiple terrain heights**, back-DZ escape, any **objective-room LoF convention** and central building shadows; the speakers prefer true-LoF plus meaningful interior scatter but explicitly say event/table agreement decides. [Part 1 ~3:04:52](https://www.youtube.com/watch?v=il2w0PSGr0U&t=11092s) gives an actual sparse-compound map-reading exercise (roof-vs-fence height, objectives, protected stairs, TAG shelter) that cannot be copied as universal geometry. [Main checklist](deployment-initiative-and-reserve-strategy.md#part-2-radial-corner-deployments-change-the-price-of-mobility-e176-1839m).
+
 ## Core principle
 
 Infinity terrain is not merely **Cover**. It defines three overlapping maps:
