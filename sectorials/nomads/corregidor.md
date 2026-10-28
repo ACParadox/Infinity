@@ -730,6 +730,10 @@ See [current cross-game apex/value, landing odds and expected-trade tiers](../..
 
 [Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../notes/list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
+## DZ assault via airborne entry — video-tested interpretation (2026-10-28)
+
+[Infinity the Dante: *Deployment Zone Assault — Drop Troop Tactics*](https://www.youtube.com/watch?v=fzvUQPWBQKM) compares **Deepspace Hellcat, Carlota+Moriarty and Tomcat** with **Surface Bearcat** against a Svalarheima DZ guarded by Pilot-X/RacerBots and a RemDriver-supported TR bot. Use the **landing pocket → network/Hacker disruption → key ARO/Disco removal → stop or score** sequence. An off-table **Tomcat can wait** if both entry edges are guarded. **Narration errors versus these authoritative profiles:** **Hellcat Paramedic Opt8 (23/0) has no Deployable Repeater**; **Bearcat Paramedic Opt5 (27/0) has Deployable Repeater but no Adhesive Launcher Rifle** (Adhesive belongs to **Bearcat KHD Opt2 29/0**). **Tomcat DR Opt3 (19/.5)** is separate from **Tomcat Paramedic Opt9 (17/0)**; **Meteor Zond** has native Repeater. This source compares mutually exclusive **Surface and Deepspace** division options, not one legal list. The [fully transcript-checked tactical breakdown](../../notes/factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit) contains entry lanes, unit-specific uses, and risks. **No canonical roster/profile/Fireteam values are changed by this video.**
+
 ## TAG tactical cross-reference (2026-10-23)
 
 **Gator (73)** wins the straightforward armor/gun plus NCO/TacAware/mine role. **Gecko (49–55)** is superior when legal Gecko links and a second active piece create useful Orders at low cost. **Iguana (64–68)** has AP HMG, Repeater and a post-shell operator plan, but its survivability/failure state is disputed. The 2025 podcast's '2 wounds' argument is **not the current reference**: this file specifies the TAG state **W4**.
