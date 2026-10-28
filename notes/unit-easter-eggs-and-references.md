@@ -73,6 +73,53 @@ These are directly attested cultural names or metaphors, not speculative visual 
 | 45th Highlanders | *Braveheart* and *Highlander* | **Fan face/pose comparisons** to Stephen, Ramirez, and Connor MacLeod; sculpt-specific. | https://www.reddit.com/r/InfinityTheGame/comments/p5imgk |
 | Wolfgang Amadeus Wolff | Wolfgang Amadeus Mozart | **Obvious name pun**, plus 'Wolff' reinforces his Wulver identity; no official design claim needed. | https://www.human-sphere.com/Wolfgang_Amadeus_Wolff |
 
+## PanOceania unit-name and miniature-reference survey (2026-10-28)
+
+Scope: PanOceania generic plus units associated with Military Orders, Svalarheima WinterFor, Kestrel, Neoterra, Acontecimento, and Varuna. Starting roster reference: [generic PanO N5.3](../sectorials/panoceania/panoceania.md). This is a **source-supported shortlist**, not a claim that every PanO unit has a hidden homage. Human Sphere background/miniature pages supply the primary links; the roster itself does not prove cultural design intent.
+
+### Explicitly identified in Human Sphere lore or miniature/product descriptions
+
+| PanO unit | Referent | Evidence and scope | Human Sphere / source |
+|---|---|---|---|
+| **Nisses** (WinterFor) | **Nisse**, Scandinavian household gnome / spirit | **Explicit background explanation** of the unit's nickname. Mythological name, not a miniature recreation of a gnome. | https://human-sphere.com/Nisses |
+| **Jotums** (WinterFor TAG) | **Jötunn**, giant of Norse mythology (popularly “frost giant”) | **Explicit unit-name explanation.** Important: **not** the *Evangelion* visual comparison previously misassigned to Jotum; the visually stronger EVA parallel is the **2024 Tikbalang** sculpt. | https://human-sphere.com/Jotum |
+| **Vargar** (WinterFor) | Norse **wolves** | **Explicitly wolf-themed** Norse unit imagery and Wolf's Lair association. | https://human-sphere.com/Vargar |
+| **Nøkken** (WinterFor) | Nordic **Nøkk / Nøkken**, mysterious water spirit | **Explicit background naming**: insurgents likened their vanishing/appearing troops to Norse water spirits. More than a linguistic coincidence. | https://human-sphere.com/N%C3%B8kken |
+| **Bøyg Soldiers** (WinterFor) | **Bøyg**, Norwegian folkloric obstacle/monster, and **Henrik Ibsen's *Peer Gynt*** | **Explicit literary text and unit naming**: the background quotes *Peer Gynt* and connects the unit to a twisting/sinuous folkloric creature. A stronger reference than a speculative name match. | https://human-sphere.com/Boyg |
+| **Griffin Troops** (Kestrel) | **Griffin**, legendary eagle-lion creature | **Explicit background symbol and name explanation.** | https://human-sphere.com/Griffin |
+| **Seraph TAG** (Military Orders) | **Seraph / seraphim**, high-ranking angels | **Explicit background angel reference**; wings also fit the miniature's angelic visual motif. | https://human-sphere.com/Seraph |
+| **Bagh-Mari** (Acontecimento) | Indian **bagh-mari** / tiger hunters and local martial heritage | **Explicit cultural origin** of unit name and training. | https://human-sphere.com/Bagh-Mari |
+| **Dragões TAG** (Acontecimento) | Portuguese **dragão** ('dragon') and cavalry **dragoon**, with Brazilian mounted-service tradition | **Explicit deliberate double meaning** explained in the background; both Portuguese/Brazilian heritage and historical dragoons matter. | https://human-sphere.com/Dragoes |
+| **Fennec Fusiliers** (Kestrel) | **Fennec fox**, North African desert fox | **Explicit background name explanation** connected to arid-condition troops. | https://human-sphere.com/Fennec_Fusiliers |
+| **Black Friars** (Military Orders) | **Dominican friars**, black outer garments, *Domini canes* (“dogs of the Lord”) pun | **Explicit historical/religious background** and Dominican nameplay. | https://human-sphere.com/Black_Friars |
+| **Infirmarers of Saint Lazarus** (Military Orders) | Historical **Order of Saint Lazarus**, associated with caring for leprosy patients | **Direct order-name and medical-role correspondence**, also explained in Infinity background; distinguish from a new entertainment-media homage. | https://human-sphere.com/Infirmarers_of_Saint_Lazarus |
+| **Hetkari Shooters** (Kestrel) | Konkani / western Indian **Hetkari** soldiers and Maratha military heritage | **Explicitly framed in their unit's regional, historical background**, not just a name sound-alike. | https://human-sphere.com/Hetkari |
+| **Tikbalang TAG** (PanO) | **Tikbalang**, part-human, part-horse figure in Philippine folklore | **Officially explained naming**, entirely separate from the 2024 sculpt's **fan-identified** EVA design cues. See existing Tikbalang/EVA row in this guide. | https://human-sphere.com/Tikbalangs |
+
+### Historically/linguistically clear or strongly suggested; creator attribution not established
+
+| PanO unit / detail | Proposed reference | Evidence boundary | Human Sphere / contextual source |
+|---|---|---|---|
+| **Karhu Special Group** (WinterFor) | Finnish **karhu**, “bear” | Straightforward Finnish lexical meaning matching northern specialist setting. No proof a particular film/book bear character inspired the sculpt. | https://human-sphere.com/Karhu ; https://en.wiktionary.org/wiki/karhu |
+| **Squalos TAG** | Italian **squalo**, “shark” | Straightforward animal-language name, plausibly naval imagery; does **not** establish shark-shaped miniature inspiration. | https://human-sphere.com/Squalos ; https://dictionary.cambridge.org/dictionary/italian-english/squalo |
+| **Clausewitz Uhlans** (Kestrel) | Military theorist **Carl von Clausewitz**; **uhlans**, historical European lancer cavalry | Two recognizable historical military terms; historical association is clear even if the writers' exact naming rationale is undocumented. | https://human-sphere.com/Clausewitz_Uhlans |
+| **Helot Militia** (Varuna) | Ancient Spartan **helots**, an exploited/unfree labor class | **Notable thematic parallel**: PanO's Helots are native Varunan inhabitants subject to unequal political and social treatment. This is a plausible intentional historical analogy, **not** an official creator confirmation. | https://human-sphere.com/Helot_Militia ; https://www.britannica.com/topic/helot |
+| **Aquila Guard** | Latin **aquila**, “eagle”; Roman legion's eagle standard | Language/historical association; no specific sculpt is confirmed as copying a Roman eagle-bearer. | https://human-sphere.com/Aquila_Guard ; https://www.britannica.com/topic/aquila-Roman-military |
+| **PanO armoured cavalry motto**, `Ultima ratio PanOceaniae` (wording in some sources varies) | **“Ultima ratio regum”**, Louis XIV's royal-cannon inscription | **Specific historical phrase parallel**: the Latin form invokes the “last argument of kings” artillery motto. Record the parallel, not an unverified author statement; check the exact printed Infinity spelling before quoting it verbatim. | https://human-sphere.com/Squalos ; https://www.musee-armee.fr/collections/base-de-donnees-des-collections/objet/canon.html |
+
+### Sculpt/visual and pop-media audit
+
+| Unit / particular miniature | Proposed visual source | Classification / caution | Reference |
+|---|---|---|---|
+| **Maximus “Thermopylae” alternate miniature** | Frank Miller's ***300*** and cinematic Spartan hoplite imagery | **Explicit product-description inspiration**: sword/spear, helmet, shield, cloak, stylized Spartan look. Applies to the **Thermopylae variant**, not the standard PanO/Aristeia Maximus miniature or every Maximus release. | https://www.human-sphere.com/Maximus ; https://store.corvusbelli.com/en/wargames/infinity/miniatures/maximus-thermopylae |
+| **Tikbalang (2024 TAG sculpt)** | ***Neon Genesis Evangelion*** EVA-style mecha | **Strong community comparison**: especially pronounced shoulder pylons. Already documented in the main community table above; no designer quotation identified. **Not Jotum.** | https://www.reddit.com/r/InfinityTheGame/comments/1duarpv ; https://www.reddit.com/r/InfinityTheGame/comments/1eyjwu9 |
+| **Joan of Arc, older PanO miniature** | **Saber / Artoria** from ***Fate/stay night*** | **Podcast-stated appearance reference** (Irregular Order #57, ~1:07:12). Already recorded in the community table above; historical Joan of Arc and Fate's Saber are distinct figures. | https://human-sphere.com/Joan_of_Arc ; https://open.spotify.com/episode/4gQHbb7HgjBYrJ7Xys0Lcs |
+| **Early PanO heavy armour / early TAG styling** | **ESWAT powered armour** from ***Appleseed*** | **Podcast visual interpretation** (Irregular Order #57, ~1:22:55), with distinctive helmet fins and powered-armour profiles. A broad design-language comparison rather than verified specific-sculpt copying. Already recorded above. | https://open.spotify.com/episode/4gQHbb7HgjBYrJ7Xys0Lcs |
+| **Gunnar Lundmark “Troll-Hunter”** | **Thor / Norse heroic warrior** imagery (hammer, red hair, runic motifs) | **Loose fan-level visual association only**. The Nordic / Viking background is clear; do **not** claim a specific Marvel-Thor or mythological Thor sculpt homage without stronger source evidence. | https://human-sphere.com/Gunnar_Lundmark |
+| **Military Orders' knightly imagery** | Medieval **Templars, Hospitallers, Teutonic Knights, Orders of Santiago and Montesa**, etc. | **Broadly explicit historical borrowing** in titles, cross iconography and plate armour; don't confuse these established historical-order motifs with individual pop-culture character homages. | https://human-sphere.com/Military_Orders |
+
+**Negative findings / scope control:** ordinary English military names (*Fusilier, Bolts, ORC, Croc Men, Scarecrows, Blade-Ops, Banshees*) are not enough evidence of a hidden film or video-game homage. The visual inspection of the available Human Sphere miniature pages did **not** establish a reliable specific-character match for these. A common name, colour scheme or fantasy archetype alone is not designer confirmation.
+
 ## Additional background Easter eggs explained directly by Corvus Belli
 
 Gutier Lusquiños's 2026-06-04 blog post on *Operation Mazebreaker* identifies several otherwise hidden references:
