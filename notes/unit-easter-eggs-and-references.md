@@ -28,6 +28,15 @@ Research updated: 2026-10-28. Scope: unit names, miniature appearances, backgrou
 | ALEPH Steel Phalanx / Myrmidons and heroes | Greek mythology, including Achilles, Hector, Atalanta, Penthesilea, and others | Faction's systematic mythological naming is deliberate lore. WarLore video discusses the mythological nomenclature. Individual characters are not necessarily replicas of any specific film adaptation. | https://www.youtube.com/watch?v=SQqVv2Hfjyo |
 | Cuervo Goldstein / Bran do Castro / Armand Le Muet | Corvus Belli's original home RPG PCs | These are autobiographical project-origin references, **not** film homages: Infinity began as the creators' RPG campaign; Cuervo and Bran were played by founders, while Human Sphere identifies Armand as an original PC. | https://www.wargamer.com/infinity/25-years-of-corvus-belli ; https://www.human-sphere.com/Armand_Le_Muet ; https://modiphius.net/en-us/blogs/press-releases-archived/modiphius-goes-to-war-with-corvus-belli-official-infinity-tabletop-roleplaying-game-announced |
 
+## Historical and cultural references
+
+These are directly attested cultural names or metaphors, not speculative visual pop-culture homages. Other documented references of this type (e.g. John Hawkwood, the Steel Phalanx's Greek-mythology names, Sun Tzu's *Art of War*, and O-12 police slang) remain in the confirmed table above.
+
+| Infinity unit | Historical / cultural source | Evidence and interpretation | Sources |
+|---|---|---|---|
+| **Karakuri Special Project** (JSA) | Japanese **karakuri ningyō** (からくり人形), mechanized dolls / automata flourishing in the Edo period (1603–1868) | **Explicitly canonical**: Infinity's Karakuri unit background states the project was named after 18th–19th-century Japanese automata with concealed mechanisms. Japanese karakuri included wooden tea-serving, theatrical, and festival puppets driven by springs, gears, or human-operated mechanisms. Infinity's independent robotic soldiers reimagine that heritage as advanced weapon-bearing machines with hidden compartments. | https://human-sphere.com/Karakuri ; https://www.mlit.go.jp/tagengo-db/en/R1-00942.html ; https://www.japanhouselondon.uk/read-and-watch/tracing-the-origins-of-robotics-through-karakuri/ |
+| **Takeshi 'Neko' Oyama** (JSA / Domaru Butai) | Japanese **neko** (猫), meaning **cat**; the 'cats have multiple lives / land on their feet' metaphor | **Explicitly canonical**: Infinity's background explains that Oyama acquired the nickname because he repeatedly survived impossible battles and always landed on his feet. The actor/director **Takeshi Kitano** ('Beat Takeshi') shares the given name, but **no evidence of an intended actor reference or visual homage** was located; do **not** claim the two are connected. | https://www.human-sphere.com/Neko ; https://valhallahobby.com/shop/product/infinity-domaru-takeshi/ ; https://takeshi-kitano.jp/en |
+
 ## Community-identified homages — do NOT describe these as creator-confirmed
 
 | Unit / sculpt | Proposed reference | Why people link them; confidence | Sources |
