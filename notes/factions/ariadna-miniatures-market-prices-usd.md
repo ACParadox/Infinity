@@ -1,5 +1,9 @@
 # Miniatures Market — Ariadna price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 90 listings, USD # Miniatures Market — Ariadna price reference (USD)
+314.00.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided Ariadna catalogue listing from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency:** USD, consistent with the supplied Miniatures Market faction snapshots. **U = user-supplied price, not independently verified as a live checkout price.** No individual product URLs or photos were provided; none are invented. Prices are per named product or box, not per trooper. CAD conversion, tax, shipping and duties are excluded.
 
 **Stock filtering:** Exclude any entry marked **“Out of stock”**. The supplied text contains **zero explicitly out-of-stock entries**. It has **87 entries visibly marked “Add to cart” and one final Scots Guards entry (#88) whose status is missing from the truncated paste**. The Scots Guards listing is retained at the supplied price but explicitly labelled **availability not shown**; do not assume it can be ordered. These are catalogue labels, not independently confirmed inventory.
@@ -114,3 +118,15 @@
 This is a **USD catalogue price snapshot**, **not a purchase recommendation** or an owned-inventory update. Use alongside [Ariadna unit audit](ariadna-must-have-go-to-avoid-source-audit-2026.md), [Caledonia buy list](caledonia-buy-list.md), [existing TAK inventory](../../inventory/tak.md), [Caledonia inventory](../../inventory/caledonia.md), and [miniature proxy guidelines](../miniature-proxy-guidelines.md). Keep shared owned models counted once.
 
 Other Miniatures Market USD snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**2 products added, USD $44.20.** Checked against all 11 existing faction/mercenary price references by normalized product title and quoted USD price. The product entries below did not already appear at the same name and price. Listed "Add to cart" is supplied snapshot text, **not independently confirmed live stock**. Product-specific URLs and photos were not supplied. Cross-faction unit identity does not establish current N5.3 availability.
+
+| Broad-catalogue # | Product as supplied | Price USD | Seller description / contents | Pasted stock label | Notes / conflicting title / cross-faction caveat |
+|---:|---|---:|---|---|---|
+| 193 | **Blackjacks, 10th Heavy Ranger Bat. (AP HMG)** | $28.40 | Box contains: 1x Blackjack Composition The miniatures of this product are made of metal. | Add to cart | Ariadna Blackjack AP HMG, single model. |
+| 463 | **Streloks, Kazak Reconnaissance Unit (K-9)** | $15.80 | Streloks, Kazak Reconnaissance Unit (K-9) | Add to cart | Ariadna Strelok (K-9) listing; full figures/components not itemized. |
+
+**Consolidated one-each subtotal:** original 88 entries **USD $1269.80**, plus 2 new entries **USD $44.20**, equals **90 price listings / USD $1314.00**. Duplicate sculpts or alternate box contents may substantially overlap; do not interpret this sum as a recommended order.
