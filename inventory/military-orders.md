@@ -84,7 +84,7 @@ No other Kestrel-only unit is represented as an official Military Orders roster 
 | Unit | Owned | Proxy suggested by user | What is needed to field it |
 |---|---:|---|---|
 | **Military Order Curator** | 0 / AVA 1 | **Trisha N33 (S2 LI Engineer)** | Good non-MO specialist donor; avoid MO-legal Order Sergeant. |
-| **Indigo Brother Konstantinos** | 0 / AVA 1 | Hospitaller or Santiago | Reuse one S2 knight miniature as Konstantinos; that miniature cannot also be a Hospitaller/Santiago in the same list. |
+| **Indigo Brother Konstantinos** | 0 / AVA 1 | **Trisha N33 / Kestrel Fennec (S2 LI)** | Both are external to MO and closer to LI Konstantinos; the old Hospitaller/Santiago HI choices are not recommended. |
 | **Knight Hospitaller Kyle Hawkins** | 0 / AVA 1 | **Kestrel Hetkari / Griffin (S2 HI)** | Non-MO armoured donor preferred; dedicated Kyle remains 0. |
 | **Dart** | 0 / AVA 1 | **Owned OSS Naga (S2 SK)** | Old Asura HI idea superseded; Sharvara K9 still 0, requires separate canine figure. |
 
