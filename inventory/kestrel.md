@@ -8,8 +8,8 @@
 
 - **40/40 standard Kestrel unit types are included** in this inventory. None is missing from the user's unit-name list.
 - **47 physical miniatures reported** across dedicated entries and two shared REM pools (includes 6 Fennecs, of which at most 5 may be fielded as Fennecs in one list). Physical count assumes each shared pool is distinct and counts the duplicate Tech-Bee only once.
-- **8 unit types have 0 dedicated miniatures:** Father Lucien Sforza; Richard Quinn; Emily Handelman; Optimate Agent Maximus; Bipandra; Dart, Optimate Huntress; Sāchā Xenotech Hunters; Kazurabā Ruby Monday.
-- **5 of these 8 have user-suggested proxies** (Emily, Richard Quinn, Bipandra, Optimate Agent Maximus, Dart); **3 have no designated proxies** (Father Lucien Sforza, Sāchā, Kazurabā Ruby Monday).
+- **8 unit types have 0 dedicated miniatures:** Father Lucien Sforza; Richard Quinn; Emily Handelman; Optimate Agent Maximus; Dr. Priya Harper; Dart, Optimate Huntress; Sāchā Xenotech Hunters; Kazurabā Ruby Monday.
+- **4 of these 8 have user-suggested proxies** (Emily, Richard Quinn, Optimate Agent Maximus, Dart); **4 have no designated proxies** (Father Lucien Sforza, Dr. Priya Harper, Sāchā, Kazurabā Ruby Monday).
 - AVA is **maximum fielding allowance, not a recommended ownership target**. 'Gap to AVA' reports mathematical room only, not a purchase recommendation.
 
 ## Standard roster inventory
@@ -46,10 +46,10 @@
 | Team Crux Father-Knights | 1 | 1 | 0 | Owned | — |
 | Hetkari Shooters | 1 | 2 | 1 | Owned | — |
 | Griffin Troops | 2 | 3 | 1 | Owned | — |
-| Bipandra | 0 | 1 | 1 | Proxy only | Proxy: Fusilier, HVT or OSS |
+| Bipandra | 1 | 1 | 0 | Owned | Dedicated miniature; no proxy needed |
 | Squalos Mk-II | 1 | 2 | 1 | Owned | — |
 | Banshees Airborne Assault Unit | 1 | 3 | 2 | Owned | Consider a second if regularly fielding two |
-| Dr. Priya Harper | 1 | 1 | 0 | Owned | — |
+| Dr. Priya Harper | 0 | 1 | 1 | No dedicated model | No proxy specified |
 | Knauf | 1 | 1 | 0 | Owned | — |
 | Warcors | 1 | 1 | 0 | Owned | — |
 | Maximus, Optimate and HexaDome Legend | 1 | 1 | 0 | Owned | Maximus TAG |
@@ -73,7 +73,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 | Unit | Proxy currently identified? | Dedicated miniature needed? |
 |---|---|---|
 | Emily Handelman | Fusilier | Optional, if proxy accepted |
-| Bipandra | Fusilier / HVT / OSS | Optional, if proxy accepted |
+| Dr. Priya Harper | None recorded | Needed to field without choosing a new proxy |
 | Richard Quinn | Fusilier | Optional, if proxy accepted |
 | Father Lucien Sforza | None recorded | Needed to field without choosing a new proxy |
 | Optimate Agent Maximus | Hoplite | Optional, if proxy accepted |
@@ -81,7 +81,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 | Sāchā Xenotech Hunters | None recorded | Needed to field without choosing a new proxy |
 | Kazurabā Ruby Monday | None recorded | Needed to field without choosing a new proxy |
 
-**Proxy collision warning:** a Fennec/Fusilier miniature used for Emily, Bipandra or Richard Quinn cannot simultaneously represent a Fennec in the same army list. Likewise, any OSS/HVT model proposed for several characters can stand in for only one model at a time. The user explicitly allows some of the extra Fennecs to be used as character proxies.
+**Proxy collision warning:** a Fennec/Fusilier miniature used for Emily or Richard Quinn cannot simultaneously represent a Fennec in the same army list. Likewise, a shared alternative proxy miniature used for one character cannot represent another model simultaneously. The user explicitly allows some extra Fennecs as character proxies; Bipandra now has her own dedicated model.
 
 ## Quantity questions / potential additional purchases
 
@@ -99,7 +99,8 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - **Richard Quinn** is the roster name for the entry the user called “Indigo Richard Quinn.”
 - The **optional** `Indigo Spec-Ops` and `Indigo Team-Ops` modes are **not** standard roster entries and are not counted in 40/40 coverage. Their ownership was not stated.
 - **Tech-Bees** was repeated in the supplied list; ownership is **one**, not two.
-- **Sāchā** is **0** in the latest user correction, overriding the earlier quantity 1.
+- **Sāchā** is **0**, overriding the earlier quantity 1.
+- **Bipandra** is **1** and **Dr. Priya Harper** is **0** according to the latest ownership correction. The overall physical total remains **47**.
 - This list does not assert all shared REM weapon builds are physically interchangeable or all tournament organizers accept the suggested proxies.
 
 ## Related research
