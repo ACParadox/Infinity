@@ -183,3 +183,17 @@
 - **N4-era sources:** Druze WIP12 E75 (2022), Dahshat WIP12 E165/E166 (2024), WhiteCo WIP12 E160 (2024), Ikari IGL E163 (2024). Their exact points, team bonuses, and equipment are not current evidence. The N5.3 sectorial files take priority for such facts.
 - **Dahshat N5 coverage is comparatively thin:** one substantive current N5 battle report plus cross-faction unit reviews; especially avoid inventing consensus “never take” choices. **WhiteCo tournament footage** demonstrates actual successful packages but some event formats/rules and mission requirements differ from standard play.
 - **Contrary opinions intentionally retained:** Ikari Daiyōkai/Al Fasid vs cheap Wú Míng; Druze Scarface vs cheaper direct solutions; StarCo Anaconda before/after later podcast; Dahshat Maghariba vs discount swarm; WhiteCo Guiláng vs Nøkken and K2 vs heavier support.
+
+## Whole-unit purchasing audit — can I omit an entire miniature? (2026-10-30)
+
+This section is intentionally **sectorial-specific**: buying the same Anaconda sculpt for *Druze* versus *StarCo* gives materially different Fireteam/support access. **Skip by default** = low purchasing priority in mainstream 300pt builds, **not** a proven prohibition on every list.
+
+| Sectorial | Entire model/unit to defer | Why / decisive exception |
+|---|---|---|
+| **Druze Bayram Security — Anaconda** | **Skip by default — strong single-source-pair negative** | [D1] presenters favor **Scarface + Cordelia** as the efficient TAG/repair purchase. Anaconda remains valid as a **59pt standalone/Mechanized Duo** role that Scarface's full package cannot duplicate. Do not transfer this verdict to StarCo. |
+| **Ikari — Security Chief Arslan (35pt)** | **Skip by default for normal attack/LT plans** | [I1] Copper directly rates his cost inefficient against **Keisotsu/Brawler LT** and **Wú Míng AP HMG** covering those jobs. Buy if specifically leveraging **MSV1, Warhorse, NWI or command/team role**. Not a dismissal of Druze Shock Teams. |
+| **StarCo — Anaconda / Triphammer** | **Defer blind standalone TAG purchases; no entire-unit hard skip** | [S1] condemns both; later [S2] argues for Anaconda's **Brawler Engineer + Digger Armored Haris**, while Triphammer buys **0 SWC**. Purchasing one for a supported role can be rational. |
+| **Dahshat** | **No source-backed whole-model avoid** | Al Fasid and Ghulam **generic guns** duplicate other attacks, but retain real support/defensive profiles and there is too little current direct evidence to blacklist units. |
+| **White Company — Chaksa Longarms** | **Defer as first main gun; low confidence** | [W1,W3] prefer K2, Nisse and ORC for the usual ranged role, but Longarms' legal Duo/Haris and unusual weaponry still create distinct angles. Anaconda can use a Kaplan Duo, unlike Druze/StarCo constructions. |
+
+**Important:** The ordinary Druze HMG, Alguacil SWC, Fusilier SWC, Clockmaker-without-repair-target and Hawkwood CoC criticisms are **profile/usage warnings**, not full model skips. See [all-armies buying shortlist](model-purchase-avoid-summary-2026.md).
