@@ -1,5 +1,8 @@
 # Miniatures Market — JSA price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 19 listings, USD $271.10.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30  
 **Source:** User-provided listings from [Miniatures Market's Infinity category, JSA filter (grid)](https://miniatures.market/product-category/infinity/?filter_inf-factions=jsa&view_mode=grid) / [list view](https://miniatures.market/product-category/infinity/?filter_inf-factions=jsa&view_mode=list).  
 **Currency:** **USD**, as specified by the user. Prices are for the **complete listed product/box**, not for each miniature; no CAD conversion.  
@@ -48,3 +51,14 @@ This second source snapshot contains **11 new price listings for distinct JSA-us
 - **Shindenbutai Expansion Pack Alpha** and the **Operation: Sandtrap Shindenbutai set** both list a **Jizamurai with Light Shotgun**. Do not mistake them for a single model or assume their sculpts are identical without checking photographs.
 - The **Pre-order Exclusive Yamabushi** has a special-edition label. Do not assume it is currently obtainable, or that the normal FTO Yamabushi is the same sculpt.
 - This reference does **not** change [Shindenbutai owned inventory](../../inventory/shindenbutai.md), and it is **not** a buy list. When building a buy list, reconcile the entries against the owned collection, the relevant [JSA](../../sectorials/jsa/jsa.md), [Oban](../../sectorials/jsa/oban.md), and [Shindenbutai](../../sectorials/jsa/shindenbutai.md) rosters, and [proxy guidelines](../miniature-proxy-guidelines.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**1 product added, USD $14.20.** Checked against all 11 existing faction/mercenary price references by normalized product title and quoted USD price. The product entries below did not already appear at the same name and price. Listed "Add to cart" is supplied snapshot text, **not independently confirmed live stock**. Product-specific URLs and photos were not supplied. Cross-faction unit identity does not establish current N5.3 availability.
+
+| Broad-catalogue # | Product as supplied | Price USD | Seller description / contents | Pasted stock label | Notes / conflicting title / cross-faction caveat |
+|---:|---|---:|---|---|---|
+| 464 | **NA2 SAITO TOGAN LIMITED EDITION** | $14.20 | NA2 SAITO TOGAN LIMITED EDITION | Add to cart | NA2 Saito Togan Limited Edition, a character also present in current Vanilla JSA and Ōban; alternate sculpt, not an extra unique character. Regular Saito is recorded in Mercenary price file. |
+
+**Consolidated one-each subtotal:** original 18 entries **USD $256.90**, plus 1 new entries **USD $14.20**, equals **19 price listings / USD $271.10**. Duplicate sculpts or alternate box contents may substantially overlap; do not interpret this sum as a recommended order.
