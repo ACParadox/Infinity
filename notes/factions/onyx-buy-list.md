@@ -93,7 +93,7 @@ Canadian storefront location **does not imply physical warehouse location**. Pri
 | **Avatar/Raicho/Bultrak/Sphinx/Overdron/Xeodron/Ironside/Juggernaut, Skyhound VH** | No assured owned matching **alien TAG/aircraft**. Existing PanO TAGs and Caskuda cannot automatically stand in | **Buy/borrow appropriate sculpt or skip**. Aircraft VH ≠ Combat Jump TAG, and S6 and S7 have different base/height. Miniatures with unique transformed/deployed form require correctly represented forms. |
 | **A human Warcor to Glyph Warcor** | The **one human Warcor** recorded from Kestrel | A **proxy**, **not an exact Glyph Warcor alien miniature**. Similar S2 LI reporter pose may be acceptable but visually human; announce and use each body once. |
 
-## Current N5.3 standard roster — ownership and purchasing (37 legal entries)
+## Current N5.3 standard roster — ownership and purchasing (35 legal entries)
 
 The following is a full roster audit, excluding separately listed **Spec-Ops/Team-Ops and Exrah Reinforcements** unless a *same named unit* appears in the normal roster. “0 dedicated” means no owned exact Combined Army model, **not that no allowable proxy exists**. AVA is a **limit not a target**. Fireteam access depends on exact current profile and legal formation, including FTO and required-choice limits.
 
@@ -134,8 +134,6 @@ The following is a full roster audit, excluding separately listed **Spec-Ops/Tea
 | Xeodron Batroids | 4 | TAG | 0 exact relevant TAG/VH | No faithful visually similar same-S alien TAG/VH owned. Caskuda **not** general-purpose TAG proxy; buy dedicated or skip. |
 | Bit & KISS! | 1 | LI/REM | **0 Bit; 0 KISS** | Two-body hacker+peripheral, require correct distinct models; not interchangeable with servant robot without S check. |
 | R-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
-| 1918 | Spec-Ops | Optional-mode record; source chart exposes a generic max-1 `Spec-Ops` Wildcard placeholder rather than naming this unit directly | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
-| 1932 | Team-Ops | Optional-mode record; not treated as an ordinary matched-play roster entry | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
 
 ## Whole-unit skips and cross-sectorial purchase reuse
 
