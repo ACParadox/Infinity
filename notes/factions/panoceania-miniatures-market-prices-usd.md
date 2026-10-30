@@ -1,5 +1,9 @@
 # Miniatures Market — PanOceania price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 87 listings, USD # Miniatures Market — PanOceania price reference (USD)
+401.45.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided PanOceania category text (82 catalogue product entries), attributed to [Miniatures Market's Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency:** USD (source-price snapshot). **U = user-supplied, not independently verified against active listings or checkout.** No individual product URLs or photos were included in the pasted text, so none are invented. No CAD conversions, tax, shipping, customs or inventory assumptions.
 
 Prices are for each **complete named product**, not each miniature. The pasted descriptions frequently end in “…” or consist only of story/lore; missing figure quantities and box contents are **explicitly left unverified** rather than inferred from a similarly named product. Two final entries were explicitly marked **out of stock** in the supplied category text; all other listings showed “Add to cart,” which is not independently verified stock.
@@ -110,3 +114,18 @@ Prices are for each **complete named product**, not each miniature. The pasted d
 This is a **historical USD price snapshot**, **not a buy list** and **not an owned miniatures inventory update**. Check the [PanO N5.3 must-have / go-to / avoid analysis](panoceania-must-have-go-to-avoid-transcript-evidence.md), existing [PanO buying files](./) and [proxy guidelines](../miniature-proxy-guidelines.md), and reconcile with owned [Kestrel](../../inventory/kestrel.md) and [Military Orders](../../inventory/military-orders.md) figures before ordering. Purchases in overlapping boxes must not be counted twice.
 
 Related price snapshots: [JSA](jsa-miniatures-market-prices-usd.md) and [O-12](o-12-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**5 products added, USD $72.90.** Checked against all 11 existing faction/mercenary price references by normalized product title and quoted USD price. The product entries below did not already appear at the same name and price. Listed "Add to cart" is supplied snapshot text, **not independently confirmed live stock**. Product-specific URLs and photos were not supplied. Cross-faction unit identity does not establish current N5.3 availability.
+
+| Broad-catalogue # | Product as supplied | Price USD | Seller description / contents | Pasted stock label | Notes / conflicting title / cross-faction caveat |
+|---:|---|---:|---|---|---|
+| 188 | **Knight of Santiago (Spitfire)** | $9.80 | Box contains: 1x Knight Of Santiago Specialist Operative | Add to cart | Knight of Santiago (Spitfire) title, but supplied contents identify a Knight of Santiago Specialist Operative without stating Spitfire; verify actual sculpt. |
+| 194 | **Padre-Inquisidor Mendoza (MULTI Rifle)** | $10.00 | Father-Inquisitor Mendoza, the crusader of the Faith, the flame of the Lord punishing with His fire the wicked and the damned; the terror of those... | Add to cart | PanO / Military Orders Mendoza named figure; product description is lore, not verified completeness. |
+| 385 | **Shona Carano, Swordmaster** | $12.90 | Event Exclusive Model Shona Carano, Aristeia! Swordmaster | Add to cart | Event Exclusive Shona Carano, Aristeia! character. PanO-associated retail reference only; not found in current Military Orders roster, so current N5.3 legality is NOT established. |
+| 430 | **Joan of Arc Exclusive Miniature** | $12.90 | Joan of Arc Exclusive Miniature | Add to cart | Joan of Arc Exclusive Miniature; alternate collector sculpt, distinguish from other Joan figures. |
+| 542 | **Beyond Icestorm Expansion Pack** | $27.30 | Box with: 1x KAMAU (HMG) 1x SWISS GUARD (HMG) 1x BOLT Paramedic (MediKit) (Pistol) 1x HELLCAT (Spitfire) 1x INTRUDER (X-Visor) (MULTI Sniper Rifle) 1x KRIZA... | Add to cart | Full two-faction Beyond Icestorm Expansion: PanO Kamau, Swiss Guard, Bolt alongside Nomads Hellcat, Intruder, Kriza Borac. Split half-packs priced separately; do not double-buy. |
+
+**Consolidated one-each subtotal:** original 82 entries **USD $1328.55**, plus 5 new entries **USD $72.90**, equals **87 price listings / USD $1401.45**. Duplicate sculpts or alternate box contents may substantially overlap; do not interpret this sum as a recommended order.
