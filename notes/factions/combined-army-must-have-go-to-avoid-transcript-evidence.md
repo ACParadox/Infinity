@@ -127,3 +127,17 @@
 2. **Every faction has successful alternative list architectures.** At most a handful of troop choices are speaker-verified near-defaults; in Onyx and Shasvastii, **no individual unit has sufficiently strong all-build consensus**.
 3. **Preserve opposing speakers.** Especially: Morat **Sogarat vs Kornak**, Shasvastii **Gwailo and Jayth skepticism vs 2026 winner**, Onyx **Unidron density**, Next Wave **Drakios**, Vanilla **Avatar effectiveness vs list cost**.
 4. The roster is **N5.3, September 2026**, but most opinions are earlier; they are tactical heuristics, **not independently updated tournament win-rate data**. The Oct 2026 Onyx review and 2026 SEF tournament testimony receive more weight than older recordings where they conflict.
+
+## Whole-unit purchasing audit — can I skip the miniature? (2026-10-30)
+
+**Whole-unit** here means *every currently legal profile of that named troop in the specified army*, not one disliked loadout. **Defer** is a collection-building recommendation, not a competitive ban; evaluate the same miniature again when playing a different sectorial. **Hard whole-unit avoids: none established by these recordings.**
+
+| Army | Entire model/unit to defer buying? | Why; what would change the answer |
+|---|---|---|
+| **Vanilla Combined** | **No source-supported whole-unit skip** | The Umbra Legate **LT** and non-LT Charontid criticisms leave useful alternative profiles; Bit & KISS's wrong network loadout does not disqualify its Pitcher configuration. Avatar is *strong but optional*, not bad. |
+| **Morat** | **No** | Cheap Yaogat Panzerfaust profiles are disliked, but the MSV2 Spitfire/sniper are positively recommended. Suryat, Kornak and TAGs still have distinct uses. |
+| **Shasvastii** | **No** | Cadmus KHD criticism applies to a backline-kill role; the BSG and KHD specialist jobs differ. 2026 results directly contradict blanket Gwailo/Jayth skips. |
+| **Onyx** | **Defer Void Operator unless deliberately using its rocket/KHD utility — low confidence** | An [Irregular Order #56](https://open.spotify.com/episode/7b2QJ494pgPp6NY6WQ9QWF) host never preferred it over Base Operator; another defends its unique tools. A *personal* buying deferral, **not** all-profile dominance. |
+| **Next Wave** | **No** | Harbinger heavy guns, Wraith hidden MMR, plain Gearhead Engineer and Bit & KISS as a *Pitcher substitute* are the poor choices. Other profiles/uses remain legitimate, so do **not** skip those entire model families. |
+
+**Purchase rule:** consider skipping a full unit only when its *best* viable profile also loses its expected role in your chosen army. A bad SWC weapon or wrong Fireteam configuration does **not** justify avoiding an entire kit. See the [cross-faction buying shortlist](model-purchase-avoid-summary-2026.md).
