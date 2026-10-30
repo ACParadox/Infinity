@@ -100,6 +100,10 @@ Use live official rules/wiki sources when:
 - a contradiction needs resolution; or
 - the user asks for current/live verification.
 
+## Miniature proxy quality policy
+
+For recommendations involving a model of **one unit representing a different unit**, follow the [miniature proxy guidelines](notes/miniature-proxy-guidelines.md): same **silhouette including base and height**, prefer similar **troop class / armour / physical archetype**, and **avoid a donor that is itself selectable in the target sectorial**. If no good owned proxy exists, say so rather than using a misleading alien TAG, dog model as armoured infantry or an incorrect silhouette. This is a collection-clarity preference, not an official legality claim. Do not modify the underlying inventory ownership totals when re-ranking a proxy.
+
 ## Historical changes
 
 For before/after unit or Army comparisons, use historical Army snapshots rather than attempting to infer an old profile from the current database.
