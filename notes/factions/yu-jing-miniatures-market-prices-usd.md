@@ -1,7 +1,6 @@
 # Miniatures Market — Yu Jing price reference (USD)
 
-**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 104 listings, USD # Miniatures Market — Yu Jing price reference (USD)
-579.50.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 104 listings, USD $1,579.50.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
 
 
 **Recorded:** 2026-10-30. **Source:** User-provided Yu Jing catalogue paste from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency: USD**, per the established price-reference format. **U = user-supplied snapshot, not independently verified as live prices or current inventory.** No individual product URLs or image URLs were provided for this batch, so none are invented.
