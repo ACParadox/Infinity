@@ -1,0 +1,245 @@
+# White Banner — miniature buy list (N5.3, collection-aware)
+
+**Prepared:** 2026-10-30. **This file recommends purchases, it does not add figures to owned inventories.** Current army/Fireteam authority is the [White Banner N5.3 roster](../../sectorials/yu-jing/white-banner.md), Army version `7.26246.158`, verified 2026-10-15, **46 standard entries**. Tactical evidence is the [White Banner guide within the roster](../../sectorials/yu-jing/white-banner.md#tactical-research--white-banner-n5-2026-10-22) plus [transcript-backed Yu Jing must-have/go-to/avoid](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md). Apply [miniature-proxy guidelines](../miniature-proxy-guidelines.md). Existing [Vanilla Yu Jing](vanilla-yu-jing-buy-list.md), [Invincible Army](invincible-army-buy-list.md) and [Imperial Service](imperial-service-buy-list.md) buying documents are **proposals, not purchases**.
+
+## First purchases and what to skip
+
+1. **Best matched old starter, by far if the deal exists:** the **2020-era Yu Jing/White Banner Action Pack `281328-0928`**, **ten/ten White Banner roster-legal sculpts**: **3 Zhanshi; 1 Hùndùn MSR; 1 Jujak; 1 Dàofěi; 1 Guìláng; 1 Shàng Jí Hacker; 1 Yě Māo AP Spitfire; 1 Jing Qo**. Your **27 assumed USD = CAD $37.76** is an exceptionally low liquidation/split-box *unverified lead*. [TabletopGamerStore listing](https://www.tabletopgamerstore.com/infinity-codeone-yu-jing-action-pack/) advertises **CAD $82.95** for the exact older `COR281328` box, but the store's province/city and live stock must be independently verified. [Tistaminis](https://tistaminis.com/products/infinity-codeone-yu-jing-action-pack), Hamilton, lists CAD $100 **sold out**. Do **not** conflate the older all-White-Banner pack with **2025 Yu Jing Essentials `281346-1127`**: that 10-model box contributes **only two Zhanshi** to current White Banner; its Zúyǒng, Dāoyīng, Hǎidào, Liú Xīng, Húláng and Zhēnchá are not WB roster entries.
+2. **Highest-value complementary box** [White Banner Expansion Beta `281351-1152`](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-beta): **one Yín-Shé MULTI Marksman + two Gūdǎn FTO (shotgun + SMG)**, **CAD $39.95 at 401 Games, Toronto/Vaughan ON, 10+ available online** at indexed check. Gūdǎn are a source-backed *defense default*, and Yín-Shé adds a different viable MSV/Albedo/K1-oriented Fireteam architecture. **The pictured Gūdǎn are FTO sculpts**, but the same unit can depict *non-FTO Camo* profiles if clearly declared; **FTO profile itself is not the one-use Camo screen**.
+3. **Most useful new discounted box if price authentic:** [Reinforcements: Yu Jing Pack Alpha `281335-1021`](https://human-sphere.com/Yu_Jing_Starters), **six/ six standard White Banner unit identities: Hwarang×2, Sulyong×2, Dokkaebi×1, Sulsa×1**. Your **37 assumed USD = CAD $51.74** conditional, versus **CAD $85 at [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON (low stock)**. **Important:** these same trooper types are in ordinary WB roster as of pinned 2026 N5.3; the *Reinforcements box branding is not a prohibition* on fielding these troop types in normal WB. Actual reinforcement-format roster and loadouts remain separately governed by their mode.
+4. **Additional [White Banner Expansion Alpha `281345-1105`](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-alpha)**: **Yě Māo Hacker + Hùndùn HRL + Hac Tao Hacker**, 3/3 WB legal, **CAD $39.95 at 401 Games, Toronto/Vaughan**, indexed 10+ available online; [Tistaminis CAD $50](https://tistaminis.com/products/infinity-yu-jing-white-banner-expansion-pack-alpha). Your **USD $19 → CAD $26.57 conditional** is the better price if actual USD, genuine, complete and available. **Yě Māo/Hùndùn are duplicate *unit names* with different loadouts** alongside old Action Pack, not redundant figures if using two at once; Hac Tao is a new unit name but expensive Hidden Hacker profile.
+5. **Choose one key attack/defense plan and complete it:** **Jujak TinBot + Hwarang Disco Baller + Haetae HMG/Guided HRL + Dokkaebi KHD/Pitcher** is the strongest repeated source-backed White Banner combined-arms group. Buying old Action Pack + Reinforcements Alpha gives you Jujak, Hwarang, Dokkaebi (though the action pack Jujak may not visually show TinBot and the boxed Hwarang may be a non-Disco loadout); add **one real Haetae S5** at your conditional **USD $16 → CAD $22.38** or [Tistaminis](https://tistaminis.com/products/infinity-reinforcements-yu-jing-haetae-unit-hmg) **CAD $45** (catalogue says more on the way). **Haetae is not just a generic S2 HI:** it is **S5**; no good currently owned bulky PanO human HI at this S.
+6. **Do not blindly buy expensive alternates:** Gūijiă S7 TAG, Blue Wolf S6 TAG, Fēiquán S7 **Vehicle**, Dàofěi premium HI, second Shàng Jí, Hac Tao Hacker for plain button-pushing, Jing Qo solely for basic CC/smoke, Oktavia, Tian Gǒu, extra Tiger/Léi Gōng/Qiang Gāo and multiple same-profile Yě Māo. **Proxy/test rare models**. **One TAG or flying VH at a time**; correct silhouette and mechanical archetype required. Existing PanO **S6 Squalos** is wrong S for Gūijiă S7; **Caskuda alien S7** is a poor Gūijiă model despite size.
+
+### Important current legality and Fireteam caveats
+
+- **Core max one, Haris max one.** The White Banner team chart's **required-choice** entries do **not** require every Jujak, Shàng Jí, Yě Māo and Yín-Shé simultaneously. Team membership varies with the exact selected FTO profile. **Tian Gǒu and Léi Gōng only join as Wildcard on their FTO profile**, Gūdǎn/Beasthunter join Zhanshi only via FTO. Shaolin and Liang Kai have their own team choices.
+- **Son-Bae and Pangguling are NOT allowed to join WB Fireteams**, despite FTO-labelled loadouts (no chart row). Buying an FTO sculpt solely for a supposed linked missile/Pangguling is a **wrong purchase rationale**, not proof the ordinary remote is bad.
+- **The full 2025 Essentials starter is mainly for Invincible Army/Vanilla**, not WB. The old `281328` **White Banner** set is the relevant one. The original **Operation: Kaldstrøm Yu Jing half (7)** has only **7 standard WB figures**: **3 Zhanshi + Dàofěi + Guìláng + Hùndùn + Jujak**. The **Beyond Kaldstrøm Yu Jing half (3)** adds **Shàng Jí Hacker + Yě Māo AP Spitfire + Jing Qo**, totaling 10 in the older Action Pack. The full Operation Kaldstrøm is a two-faction box with PanO models/terrain too.
+- **Two exact Rui Shi/Lù Duān chassis and one Warcor are already owned**, even though no dedicated WB troop collection exists. Beasthunter is also **one exact owned**, legal WB AVA1, and can join a team only with WB FTO profile.
+
+## Prices: source currency, original seller, location
+
+**User quote rule:** Every non-CAD input from the question lacks explicitly stated currency. To compare consistently with previous buy lists, it is **conditionally treated as USD**, converted using **1 USD = 1.3985 CAD** at Bank of Canada for **2026-10-29**, latest published before Oct. 30 check ([official FX lookup](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/?dF=2026-10-01&dT=2026-10-30&lP=lookup_daily_exchange_rates_2017.php&rangeType=dates&sR=2017-01-01&se=FXUSDCAD)). **U = user-supplied unverified price/currency/stock**; **V = verified individually displayed retailer price/catalogue**, not guaranteed checkout/inventory. Price equivalents are rounded cents before FX spreads, GST/QST, shipping, broker fees and customs.
+
+- Your [**Ultimate Toy Zone older “Yu Jing Action Pack Essentials”**](https://www.ultimatetoyzone.com/product/infinity-yu-jing-action-pack-essentials/) URL was **blocked by robots.txt** during research. The seller **country, shipping origin, transaction currency, SKU, actual stock and $27 quote are not independently established**. **Do not call it a verified USD price or claim a US origin**.
+- [**Miniatures Market Infinity category**](https://miniatures.market/product-category/infinity/) was **not accessible as an active usable product catalogue (previously 404)**. No individually live-confirmed WB offer from that particular store; its foreign-warehouse fulfillment is not a verified city/country for this order. **Do not confuse it with [US Miniature Market](https://www.miniaturemarket.com/), a different domain and company**, whose USD quotes must not be silently attributed to miniatures.market.
+- Named fallback store locations: **401 Games — Toronto and Vaughan, Ontario**; **Tistaminis — Hamilton, Ontario**; **Meeplemart — Toronto, Ontario**; **Abyss — Montréal, Québec**; **TabletopGamerStore — Canadian-priced listing but local storefront location not independently verified**; **Dice Hollow — Warman, Saskatchewan**. A listed shop city is not necessarily physical fulfillment origin.
+
+### Your research leads, conditionally converted to CAD
+
+The seller for every nonlinked quote and the currency for all user numbers remain **unverified**. A listed "in action pack", "Alpha", "Beta", "#" is an **allocation**, not an independent retail price.
+
+| Product / model researched | Quoted lead | **CAD if USD** | Model count, buying/edition caution |
+|---|---:|---:|---|
+| [2020 Yu Jing / White Banner Action Pack (10)](https://www.ultimatetoyzone.com/product/infinity-yu-jing-action-pack-essentials/) | $27.00 **U assumed USD** | **$37.76** | Older **281328-0928**: 3 Zhanshi, Hùndùn MSR, Jujak, Dàofěi, Guìláng, Shàng Jí Hacker, Yě Māo AP Spitfire, Jing Qo. **10/10 White Banner legal**. Seller calls it Essentials but newer 2025 Essentials has different models. Verify SKU/photo. |
+| [White Banner Expansion Alpha (3)](https://human-sphere.com/Yu_Jing_Starters) | $19.00 **U assumed USD** | **$26.57** | Yě Māo Hacker + Hùndùn HRL + Hac Tao Hacker. All legal, but duplicate Yě Māo/Hùndùn as troop identities if starter bought. Correct SKU **281345-1105**. |
+| [Reinforcements: Yu Jing Pack Alpha (6)](https://human-sphere.com/Yu_Jing_Starters) | $37.00 **U assumed USD** | **$51.74** | 2 Hwarang + 2 Sulyong + Dokkaebi Hacker + Sulsa Hacker. **All six names appear in ordinary White Banner main roster**; their miniature sculpts retain 'Reinf.' gear descriptions. Actual reinforcements-format constraints separate. |
+| Tiger Soldier | $9.00 **U assumed USD** | **$12.59** | S2 MI Combat Jump; no dedicated owned; owned Banshee S2 MI jump-suit is suitable proxy. |
+| Gūijiă TAG | $32.00 **U assumed USD** | **$44.75** | S7 TAG; no suitable owned visual proxy. Current resculpt vs old/ITS special variant; Shàngdiào S1 ancillary separate representation. |
+| Shaolin monk | $7.50 **U assumed USD** | **$10.49** | Quantity unclear: treat as **one figure** until seller confirms. WB AVA5; actual cheap smoke/CC units (don't use MI as WB without labeling). |
+| [Zhanshi Yīshēng / Mech-Engineer support](https://human-sphere.com/Yu_Jing_Starters) | $12.00 **U assumed USD** | **$16.78** | User says optional. Support pack has **Doctor, Engineer and 2 Yáozăo**; $12 might mean entire pack or a split, check photograph. Two distinct S2 LI troopers + S1 robots. |
+| Yáokòng remote(s) | $13.00 **U assumed USD** | **$18.18** | Ambiguous quantity. S3 Wèibīng/Hùsòng/Chaīyì/Son-Bae; **not** same as owned 2 Yáoxiè, **not** S4 Pangguling. |
+| Shàng Jí Invincibles box | $19.00 **U assumed USD** | **$26.57** | Three Shàng Jí soldiers + TinBot, not four soldier bodies; old WB starter includes one Shàng Jí Hacker. |
+| Blue Wolf TAG | $21.00 **U assumed USD** | **$29.37** | S6 TAG, separate S1 Shàngdiào ancillary; only 1 model if confirmed. Distinct from S7 Gūijiă; exact older vs reissue photo needed. |
+| Léi Gōng | $9.00 **U assumed USD** | **$12.59** | HI S2, FTO Wildcard only; old individual vs repack `281356-1172` not automatically resculpt. |
+| Captain Qiang Gāo | $6.00 **U assumed USD** | **$8.39** | HI S2, specialized immunities; proxy first if already using primary Jujak/Haetae. |
+| [Liang Kai](https://human-sphere.com/Liang_Kai) | $11.50 **U assumed USD** | **$16.08** | WB S2 regular impetuous WB; **AdeptiCon 2020 limited edition** PV48 exists; normal sculpt in Shaolin box `281316-0840`. Verify seller photo. |
+| Oktavia Grímsdóttir | $8.00 **U assumed USD** | **$11.19** | S2 LI, linked Zhanshi long ARO, niche; optional. |
+| [Kunai Solutions Ninja](https://human-sphere.com/Kunai_Solutions_Mercenary_Ninja) | $6.00 **U assumed USD** | **$8.39** | S2 SK; standard OOP individual `281216-0841` and different **Operation Kaldstrøm preorder LE**. Owned Kurayami Ninja is plausible proxy. |
+| Tian Gǒu set (2) | $17.00 **U assumed USD** | **$23.77** | Assume 2 actual LI S2 figures, not necessarily two independent allowed FTO Wildcards; WB AVA3, FTO-only team access. Tistaminis normal box ~CAD50 (stock more-on-way). |
+| Chung-Hee Jeong | $8.00 **U assumed USD** | **$11.19** | S2 LI premium Engineer; 2023 Yu Jing **Reinforcements Pack Beta** includes one alongside So-Ra Kwon+Jujak, may duplicate if both purchased. |
+| Adil Mehmut | $8.00 **U assumed USD** | **$11.19** | S2 HI Wildcard, situational compared with Jujak/Haetae core; source-based proxy-first. |
+| Sergeant So-ra Kwon + 2 Jujak box | $28.00 **U assumed USD** | **$39.16** | Jujak Regiment retail box typically So-Ra+Jujak ML+Jujak Spitfire+TinBot = **3 soldiers + ancillary**; **not** Reinforcements Yu Jing Beta (which has Chung-Hee + So-Ra + Jujak). Verify pictured SKU. |
+| Bìxié | $7.00 **U assumed USD** | **$9.79** | S2 HI NCO/CC/FO, useful but optional; **ITS Season 14 LE** distinct from normal figure. |
+| [Haetae HMG](https://tistaminis.com/products/infinity-reinforcements-yu-jing-haetae-unit-hmg) | $16.00 **U assumed USD** | **$22.38** | HI **S5** TacAware, 40pt AP HMG (or HRL Guided 36pt), no good owned S5 humanoid-armour proxy. Sold as Reinforcements, valid main roster. |
+| **Zhanshi** | — | — | **3 included in old Action Pack**, 6 owned Kestrel Fennecs are appropriate S2 LI substitutes, no need to buy separate plain Zhanshi. |
+| **Dàofěi** | — | — | One old Action Pack, premium S2 HI, test before extra. |
+| **Guìláng** | — | — | One old Action Pack, additional S2 SK Hacker optional. |
+| **Hùndùn** | — | — | One MSR old Action Pack + one HRL Expansion Alpha, no third by default. |
+| **Yě Māo** | — | — | One AP Spitfire old Action Pack + one Hacker Expansion Alpha, AVA5 is not a buying target. |
+| **Jujak** | — | — | One old Action Pack; additional Sergeant So-Ra + two Jujak in the separate **Jujak Regiment box** USD $28 conditional. |
+| **Hwarang, Sulyong, Dokkaebi, Sulsa** | — | — | 2 + 2 + 1 + 1 in Reinforcements Yu Jing Alpha; all main WB legal names. |
+| **Yín-Shé and Gūdǎn** | — | — | **White Banner Expansion Beta**, CAD $39.95 401, includes Yín-Shé FTO + two Gūdǎn FTO. |
+| **Fēiquán** | No price supplied | — | S7 Vehicle, [401 CAD $69.95 sold out](https://store.401games.ca/products/infinity-yu-jing-feiquan-imperial-tactical-wing), [Tistaminis CAD $80](https://tistaminis.com/collections/yu-jing) in stock by catalogue. |
+| **Blue Wolf ancillary** | No separate price | — | User's USD $21 is for unspecified Blue Wolf packaging; **S1 Shàngdiào** accompanying Blue Wolf current profile must be represented separately when used. |
+| **Rui Shi / Lù Duān (#)** | Already owned | **$0 needed** | Two physical exact shared Yáoxiè chassis, **not** two of each kind. |
+
+### Canadian fallback price comparison — check individual SKU and stock
+
+| Product / physical figure count | CAD (V) | Retailer and location | Availability, listing |
+|---|---:|---|---|
+| **Old `281328` White Banner / CodeOne Yu Jing Action Pack** (10 soldiers) | **$82.95** | [TabletopGamerStore](https://www.tabletopgamerstore.com/infinity-codeone-yu-jing-action-pack/), Canada; store city not verified | Product page carries **CAD $82.95** and Add to Cart. Stock/checkout not independently confirmed. Exact correct older SKU `COR281328`. |
+| Same older `281328` (10) | **$100.00** | [Tistaminis](https://tistaminis.com/products/infinity-codeone-yu-jing-action-pack), Hamilton ON | **SOLD OUT**; a comparator, not an available offer. |
+| **White Banner Expansion Alpha** (3) | **$39.95** | [401 Games](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-alpha), Toronto/Vaughan ON | Listed **10+ online** on checked product page. |
+| Same Alpha (3) | **$50.00** | [Tistaminis](https://tistaminis.com/products/infinity-yu-jing-white-banner-expansion-pack-alpha), Hamilton ON | Product page accepts add-to-cart, current fulfillment confirmation needed. |
+| **White Banner Expansion Beta** (3) | **$39.95** | [401 Games](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-beta), Toronto/Vaughan ON | Listed **10+ online** on checked product page. |
+| **Reinforcements Yu Jing Alpha** (6) | **$85.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Catalogue **low stock**, exact product source in [Canadian distributor Asmodee](https://shop.asmodee.ca/en/cor2813351021), $37 U overseas much cheaper conditional. |
+| **Jujak box** (So-Ra + 2 Jujak + TinBot) | **$55.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Listed **in stock**. |
+| **Shàng Jí box** (3 soldiers + TinBot) | **$60.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Listed **low stock**. |
+| **Tiger Soldier** (Spitfire/BSG) | **$28.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Listed **low stock**. |
+| **Haetae HMG** (1 S5 HI) | **$45.00** | [Tistaminis](https://tistaminis.com/products/infinity-reinforcements-yu-jing-haetae-unit-hmg), Hamilton ON | Catalogue **more on the way**, not confirmed available at checkout. |
+| **Guìláng Hacker** (1 S2 SK) | **$25.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Listed **in stock**. |
+| **Tian Gǒu two** | **$50.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Catalogue **more on the way**; not a currently confirmed purchase. |
+| **Fēiquán S7 VH** (1) | **$69.95** | [401 Games](https://store.401games.ca/products/infinity-yu-jing-feiquan-imperial-tactical-wing), Toronto/Vaughan ON | **SOLD OUT**. |
+| Same Fēiquán | **$80.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Listed in stock by catalogue. |
+| **Gūijiă S7 TAG** | **$61.95** | [401 Games](https://store.401games.ca/products/infinity-yu-jing-guijia-squadron-tag), Toronto/Vaughan ON | **SOLD OUT**. |
+| Same Gūijiă | **$65.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | **OUT OF STOCK**. |
+| **Lóng Yá** (2 REMs) | **$46.95** | [401 Games](https://store.401games.ca/products/infinity-yu-jing-yaofang-long-ya), Toronto/Vaughan ON | **SOLD OUT**; no need unless mine/ARO screen planned. |
+| **Yáokòng REM pack** | **$46.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Low stock; 4 owned PanO Dronbots are provisional S3 remote proxies. |
+| **Pangguling pack** (2 S4) | **$55.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Low stock; owned PanO Mulebots same silhouette alternatives. |
+| **Bìxié ordinary retail** | **$25.00** | [Tistaminis](https://tistaminis.com/collections/yu-jing), Hamilton ON | Sold out; user $7 assumed USD not verified as LE. |
+| **White Banner Expansion Alpha** (3) | **$59.00** | [Dice Hollow Games](https://www.dicehollow.com/products/infinity-yu-jing-white-banner-expansion-pack-alpha), Warman SK | Seller says **in stock** and pickup at **825 Centennial Boulevard, Warman**; cheaper 401 listing takes priority. |
+
+## Box contents, historical sculpts, resculpts and true limited editions
+
+Use [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes), [Yu Jing Starters](https://human-sphere.com/Yu_Jing_Starters), [Operations Boxes](https://human-sphere.com/Operations_Boxes), and individual Human Sphere miniature pages. **Old box gear text isn't current N5.3 loadout authority**; current [WB roster](../../sectorials/yu-jing/white-banner.md) overrides. **OOP / old box ≠ formal limited edition**.
+
+| Release / SKU | Physical contents | IA/Vanilla sharing / WB edition caution |
+|---|---|---|
+| **Operation: Kaldstrøm (2020)** `2800xx` (exact full-box code not verified) | **Yu Jing seven: 3 Zhanshi, Dàofěi, Guìláng, Hùndùn MSR, Jujak**; PanO seven on the other side, plus scenery/markers. | **7/7 Yu Jing half WB legal**; compared with 2025 Yu Jing Essentials **2/10 legal**. **Operation Kaldstrøm preorder LE Kunai Solutions Ninja** a separate bonus, NOT in standard set. |
+| **Beyond Kaldstrøm (2020)** `280033-0828` | **Yu Jing three: Shàng Jí Hacker, Yě Māo AP Spitfire, Jing Qo** + three PanO (Locust, Varg, Bøyg). | 3/3 WB legal on Yu Jing half; together with Kaldstrøm Yu Jing models makes 10 in old action pack. |
+| **Yu Jing / White Banner Action Pack** `281328-0928`, old | **3 Zhanshi, Hùndùn MSR, Jujak, Dàofěi, Guìláng BSG, Shàng Jí Hacker, Yě Māo AP Spitfire, Jing Qo = 10**. | **10/10 WB legal**. User link labels it **“Essentials” but is the older CodeOne 2020-repack**, not 2025 Essentials `281346-1127`. Models mostly retained sculpts, no verified newer individual reissue for each. |
+| **2025 Yu Jing Essentials Action Pack** `281346-1127` | **3 Zúyǒng, Dāoyīng, Liú Xīng, Hǎidào, 2 Zhanshi, Húláng, Zhēnchá = 10**. | **Only 2 Zhanshi WB legal**; don't buy as WB starter. More suitable to [IA](invincible-army-buy-list.md) and [Vanilla](vanilla-yu-jing-buy-list.md). Correct 401 price seen in other checks CAD $84.95–$99.95; recheck live product page rather than pretending a stable real-time quote. |
+| **White Banner Expansion Alpha** `281345-1105` (2024) | **Yě Māo Hacker, Hùndùn HRL, Hac Tao Hacker = 3**. | All legal WB; if old starter purchased, Yě Māo/Hùndùn are alternate legal figures of already represented named unit, Hac Tao distinct. Old/normal retail, **no confirmed limited-edition status**. |
+| **White Banner Expansion Beta** `281351-1152` (newer release) | **Yín-Shé FTO MULTI Marksman Rifle, Gūdǎn FTO Light Shotgun, Gūdǎn FTO SMG = 3**. | All legal WB. FTO figures can be declared as same-unit unlinked Camo profiles but **their FTO rules don't themselves include that Camo**, and Yin She has multiple alternative weapon profiles. SKU explicitly verified at 401/Asmodee Canada. |
+| **Reinforcements: Yu Jing Pack Alpha** `281335-1021` (2023) | **2 Hwarang** (Light Shotgun/Combi), **2 Sulyong** (Shock Marksman/FO Light Shotgun), **1 Dokkaebi Hacker**, **1 Sulsa Hacker**. **6 soldiers**. | All six troop types/instances fit standard WB roster **AVA Hwarang2, Sulyong2, Dokkaebi1, Sulsa1** (and 6 corresponding physical bodies). Weapon distinctions from old **Reinf.** profiles must be interpreted against current N5.3, e.g. **Dokkaebi KHD vs HD**. |
+| **Reinforcements: Yu Jing Pack Beta** `281338-1043` | **Chief Engineer Chung-Hee Jeong + Sergeant So-Ra Kwon + one Jujak Spitfire** = 3. | **All three ordinary WB roster legal**. **Not the four-physical-piece Jujak Regiment box** in user notes; do not count a second So-Ra automatically. [Human Sphere Yu Jing Starters](https://human-sphere.com/Yu_Jing_Starters). |
+| **Jujak Regiment boxed set** `281322-0897` | **So-Ra Kwon + Jujak Missile Launcher + Jujak Spitfire + TinBot = 4 physical**, **3 selectable soldier bodies**. | All three WB legal; overlaps *name* with Action Pack's Jujak, and **So-Ra** with Reinforcements Beta, not Alpha. TinBot is ancillary not a soldier or Order. |
+| **Shàng Jí Invincibles boxed set** `281321-0885` | **3 Shàng Jí soldiers** (HMG, HRL, MULTI Rifle) **+ TinBot**. | WB main roster allows Shàng Jí but **cost-efficiency differs from Invincible Army**. Buying this on top of old WB Action Pack's single Hacker yields 4 physical Shàng Jí; don't buy simply because allowed AVA5. |
+| **Shaolin Warrior Monks pack** `281316-0840` | Shaolin set includes regular **Liang Kai** sculpt (refer to Human Sphere Liang Kai archive) plus Shaolin monks; number of monks/figures should be checked for exact SKU before quoting per-figure price. | **AdeptiCon 2020 Liang Kai PV48 limited-edition sculpt** is different. User's assumed $11.5 standalone may be PV48 or box split; no LE claim without seller photo. |
+| **Yě Māo** (regular + actual LE) | Standard AP Spitfire and Alpha Hacker; **2019–20 ITS Season 11 Stakeout LE Yě Māo** is another sculpt. | True limited-edition Yě Māo exists; don't assume Alpha and old AP are rare just because of edition. [Human Sphere LE archive](https://human-sphere.com/Limited_Edition). |
+| **Kunai Solutions Ninjas** | Normal `281216-0841` (currently OOP) and **Operation Kaldstrøm preorder-exclusive LE**. | User **USD $6 = CAD $8.39 conditional**. You own **Kurayami Ninja S2 SK** from JSA, suitable substitute; no need to pay special premium. [Human Sphere](https://human-sphere.com/Kunai_Solutions_Mercenary_Ninja). |
+| **Bìxié** | Ordinary `281334-1015` retail and **ITS Season 14: Thunderclap 2022–23 LE PV72**. | User **USD $7 = CAD $9.79 conditional**, unverified edition; ordinary figure is fine. |
+| **Zhanshi** (regular and paint-exclusive) | Common starter Zhanshi and actual **Zhanshi Forward Observer paint-set promotional sculpt** / **Zhanshi Paramedic paint-set promotional sculpt**. | Not required for regular Zhanshi. A painting set price includes paints/accessories and cannot be compared as a single standard troop MSRP. |
+| **Gūijiă TAG** | Older N2/N3 figure and later **resculpt `280378-0545`**; **ITS Season 10 TAG special LE alternate**. | Always **S7 in current WB**, plus separate ancillary. [401 Guijia](https://store.401games.ca/products/infinity-yu-jing-guijia-squadron-tag) current re-sculpt sold out, **not** a Blue Wolf S6 equivalent. |
+| **Blue Wolf TAG** | Current S6 TAG; user $21 quote age/SKU unknown, no uniquely verified LE for this quotation. | Same target S6 as owned PanO Squalos but different Yu Jing design and close-mid Spitfire role; possible casual trial donor **only if opponent approves correct S6 geometry**, not a preferred long-term model. **S1 Shàngdiào** component not automatically counted owned. |
+| **Fēiquán** `281359-1193` (newer) | One modern **S7 aerial Vehicle**, plastic resin marketed by 401. | **Not** a Gūijiă TAG, not Blue Wolf, not standard S6 TAG. No own suitable VH body. |
+| **Léi Gōng** | Older individual `281331-0968`, recent **repack `281356-1172`**, Defiance alternate(s). | Repack doesn't prove a newly sculpted figure. Different non-retail alternate isn't automatically a formally registered LE; check photos. |
+| **Hac Tao** | Old standalone gun/hacker sculpts and newer WB Expansion Alpha Hacker. | **No confirmed Hac Tao LE in Human Sphere unit archive**; OOP gun sculpt ≠ limited. WB specific current loadouts differ from Vanilla/IA NCO-HMG choices. |
+
+## Exact owned inventory and permitted cross-sectorial reuse
+
+| Physical model(s) already recorded in inventory | Count | White Banner use |
+|---|---:|---|
+| **Yáoxiè Rui Shi / Lù Duān chassis pool** | **2 total** | **Exact WB-legal robots** from [Shindenbutai](../../inventory/shindenbutai.md): assign at most two total across Rui Shi and Lù Duān names. **Not** two of each, and no replacement purchase needed. |
+| **Warcor** | **1** | Exact WB-legal, from [Kestrel](../../inventory/kestrel.md) / Shindenbutai shared accounting. |
+| **Beasthunter** | **1** | Exact WB-legal from Kestrel (also shared with other factions); White Banner allows only FTO profile inside Zhanshi link. |
+| **Fennec Fusiliers** | **6** | Kestrel non-WB S2 LI **Zhanshi** proxies, one physical model for each; don't call them Yu Jing miniatures. |
+| **Minescorp Jackals** | **4** | Kestrel non-WB S2 LI **Gūdǎn** proxies, better trap-looking than standard Zhanshi; not a legal WB unit identity. |
+| **Scarecrows** | **2** | Kestrel S2 SK non-WB skirmishers; strong donor for **Guìláng / Kunai / Sulsa** and proper SK armour silhouette. |
+| **Kurayami Ninja (Shindenbutai)** | **1** | S2 SK can be **Kunai Ninja** in White Banner (Kurayami not WB legal), but if used for this it cannot simultaneously proxy Guìláng. |
+| **Naga (ALEPH partial)** | **1** | S2 SK proxy for Guìláng/Kunai/Sulsa, with appropriate appearance/weapon; not WB legal as Naga. |
+| **Kestrel Griffin (2) / Hetkari (1)** | **3 total S2 HI** | Proxy **Jujak, Hwarang, Shàng Jí, Dàofěi, Qiang, Adil, Bìxié**, etc. with wrong PanO look but matching S2 HI armour. **Do not use legal Jujak miniature to depict Shàng Jí** under repo policy. |
+| **Black A.I.R. (1) / Fireflies (3)** | **4 total S2 MI** | Proxy **Hùndùn, Yě Māo, Jing Qo, Yín-Shé, Sulyong, Johnny Kao** when visually recognizable and not representing multiple targets at once. |
+| **Kestrel Banshee** | **1 S2 MI** | Useful **Tiger Soldier S2 MI airborne** proxy. Target has Combat Jump, donor look matches; do not claim a Banshee is legally fieldable as Banshee in WB. |
+| **Kestrel PanO Dronbots** | **4 shared S3** | S3 **Wèibīng, Hùsòng, Chaīyì, Son-Bae** candidates, assign one chassis per required physical bot. Different weapons should be distinguishable. |
+| **PanO Mulebots** | **2 S4** | Correct-format **Yáopú Pangguling S4** robot donor, confirm base/height and suitability. |
+| **PanO Palbots / ALEPH Yudbots** | **2 / 2 S1** | Yáozăo servant proxies, WB **AVA3** (not four Yáozăo orders/fieldable servant slots); one body per peripheral. |
+| **Trisha N33 (ALEPH), PanO Machinist, Trauma-Doc** | **1 each** | Distinct S2 LI medical/engineering target proxies if correctly equipped; no actual owned Yu Jing Yīshēng/Mech-Engineer. |
+| **PanO Squalos Mk-II** | **1 S6 TAG** | Only *conditional* same-S casual donor for **Blue Wolf S6**, wrong Yu Jing TAG look; prefer true Blue Wolf for repeated use. **Wrong S for Gūijiă S7 and Fēiquán S7 VH**. |
+| **Caskuda alien TAG** | **1 S7 TAG** | Alien silhouette/archetype wrong for humanoid **Gūijiă S7** or aerial **Fēiquán S7 VH**; **reject as default proxy**. |
+| **0 physical in inventory: Haetae, Dokkaebi, Hwarang, Sulyong, Jing Qo, Jujak, Yě Māo, Yín-Shé, Dàofěi, Blue Wolf, Gūijiă** | **0 exact** | Their appearance in price research or another buy list **does not** update inventory. |
+
+### Proxy-first assignments for low-frequency/available models
+
+Follow [project proxy rules](../miniature-proxy-guidelines.md): exact S (both base and silhouette height), similar troop class/armour, similar morphology (robot vs soldier, TAG vs vehicle, alien vs human), and **avoid a donor whose own named identity is also a legal selectable WB unit**.
+
+| WB target | Best actual owned stand-in | Recommendation |
+|---|---|---|
+| **Zhanshi** S2 LI | **Kestrel Fennec S2 LI** | Good, 6 bodies; won't be confused with a WB-legal named Fennec. |
+| **Gūdǎn** S2 LI | **Jackal S2 LI** | Good defensive-trap look/class; a Gūdǎn FTO bought from Beta can also stand for a camo loadout of **its own same unit**. |
+| **Kunai / Guìláng / Sulsa** S2 SK | **Kurayami Ninja / Naga / Scarecrow** S2 SK | Good stealth size, assign distinct figs; never same figure for multiple simultaneously. |
+| **Dàofěi, Jujak, Hwarang, Qiang, Adil, Bìxié, Shàng Jí** S2 HI | **Kestrel Griffin/Hetkari S2 HI** | Armoured human, right size/class; model-specific appearance still distinctly PanO. For infiltrating Dàofěi prefer covert-looking HI if possible. |
+| **Yě Māo, Hùndùn, Yín-Shé, Jing Qo, Sulyong, Johnny Kao** S2 MI | **Kestrel Black A.I.R./Firefly S2 MI** | Class/armour good, enough distinct poses to keep special abilities identifiable; Black A.I.R. MSV outfit suits Yě Māo visually. |
+| **Tiger Soldier** S2 MI airborne | **Kestrel Banshee S2 MI** | Excellent class/jetpack match; no need for multiple Tiger figures until AD plan demonstrated. |
+| **Shaolin Warrior Monks/Liang Kai** S2 WB | **No ideal owned WB monk sculpt verified** | **Best buy real monks and Liang Kai or non-WB S2 martial artist only if same size/class/look**. Generic armoured MI or a biker doesn't satisfy class/archetype. |
+| **Tian Gǒu/Oktavia** S2 LI | **Fennec/Jackal S2 LI** | Clearly label Jammer/Holomask/launcher profiles; low-frequency unit purchase optional. |
+| **Dokkaebi** S2 HI, robotic remote presence | **No ideal owned S2 HI *robotic-looking* trooper** | PanO Griffin/Hetkari are human HI, Garuda is S2 REM (wrong type/appearance). Conditional trial only. **One authentic Dokkaebi** from reinforcement box best. |
+| **Haetae** S5 HI | **No owned matching S5 bulky armoured human** | Buy correct S5 Haetae if going Jujak/Guided route; not S2 HI/alien dog. |
+| **Blue Wolf** S6 TAG | **Squalos Mk-II S6** only with TO/opponent approval | Same S, wrong faction aesthetics, okay *conditional test*, not preferred permanent proxy. |
+| **Gūijiă** S7 TAG / **Fēiquán** S7 VH | **No good owned matching model** | Wrong S with Squalos; Caskuda alien wrong morphology. Buy if repeatedly fielded or skip. |
+| **Rui Shi/Lù Duān** | **Exactly owned 2 Yáoxiè chassis** | These are **same-name units**, not a proxy. Reserve for their proper identities instead of using them as other WB remotes. |
+| **Yáozăo** S1, **Pangguling** S4, **Yáokòng** S3 | **Yudbot/Palbot; Mulebot; Dronbot** respectively | Good matching robot archetypes at correct S, but independent names/quantity not additive. |
+
+## 46-unit N5.3 roster — individual purchasing decision for every unit
+
+All rows are exactly one standard pinned WB roster unit. **OWN** means a physical figure actually reported in [inventory](../../inventory/); a **P1** unit is a recommended new physical purchase for a relevant White Banner architecture, **P2** role dependent and **P3** proxy/defer. **A box being priced does not mean owned.** AVA is *legal maximum, not shopping mandate*.
+
+| White Banner current roster unit | AVA / class | Status | Individual purchase reasoning |
+|---|---|---|---|
+| Yáofáng Lóng Yá | 2 / REM | P2 | S3 REM ambush/panzerfaust and mines; buy 1–2 only with Lóng Yá screening plan; 401 two-pack CAD $46.95 sold out. |
+| Zhanshi Yīshēng | 1 / LI | P3/proxy | S2 LI Doctor; separate from Mech-Engineer and servant; user optional and already owns LI donors. |
+| Tiger Soldiers | 3 / MI | P2 | S2 MI Combat Jump; USD9 lead, one suffices at first. Kestrel Banshee S2 MI correct-class jump proxy. |
+| Qíshì, StateEmpire TAG Support Pilots | 1 / LI | P3/proxy | S2 LI separate TAG support pilot, 0 exact owned; Fennec/Trisha proxy, not included automatically with Gūijiă. |
+| Beasthunters Free Guild | 1 / SK | OWN 1 | Exact named Beasthunter, one physical from Kestrel; FTO-only link with Zhanshi. Not a new purchase. |
+| Zhanshi | 5 / LI | P1 | S2 LI line troops, 3 in legacy action pack; owned Fennec S2 LI acceptable non-WB stand-in. |
+| Hac Tao Special Unit | 1 / HI | P3 | S2 HI hidden unit; Alpha pack includes Hacker; ~expensive for plain scoring versus Guìláng/Dokkaebi. |
+| Dokkaebi Cyberteam | 1 / HI | P1 | S2 HI hacker/Spotlight+Pitcher network; one in Reinforcements Alpha box. Different HD vs KHD programs. |
+| Shaolin Warrior Monks | 5 / WB | P1 | S2 WB smoke and CC, cheap 5–6pt; no exact owned Shaolin; USD7.5 may mean one sculpt. |
+| Chaīyì Yáokòng | 2 / REM | P2 | S3 7pt Repeater/Flash Pulse, use PanO Dronbot S3 proxy if distinguishable. |
+| Yáoxiè Lù Duān | 2 / REM | OWN shared | One of shared two exact Yu Jing Yáoxiè chassis from Shindenbutai; pool can be Rui Shi and/or Lù Duān. |
+| Blue Wolf Mongol Cavalry | 2 / TAG | P3 | S6 TAG AP Spitfire 70pt; USD21 lead, S1 Shàngdiào needed. Choose instead of Guijia for close-range Duo plan. |
+| Fēiquán Imperial Tactical Wing | 1 / VH | P3 | S7 Aerial Vehicle, CAD69.95 401 sold out / CAD80 Tistaminis in stock; no visually similar owned S7 vehicle. |
+| Captain Qiang Gāo | 1 / HI | P3/proxy | S2 HI special immunities and FTO Wildcard; duplicate roles with Jujak/Haetae. USD6. |
+| Hwarang Corps | 2 / HI | P1/P2 | S2 HI Hwarang Disco Baller/CC link glue; two in Reinforcements Alpha; can trial with owned external S2 HI. |
+| Sergeant So-ra Kwon | 1 / HI | P2 | S2 HI So-Ra Kwon special Jujak, one in Jujak box or Reinforcements Beta, not in standard WB Action Pack. |
+| Warcors | 1 / LI | OWN 1 | One exact Warcor shared across other inventories. |
+| Jujak Regiment | 4 / HI | P1 | S2 HI Jujak linked TinBot/Firewall and flamethrower; one in 2020 Action Pack or two in Jujak box. |
+| Hùndùn Ambush Unit | 3 / MI | P2 | S2 MI Hùndùn Hidden Deployment MSR or HRL; starter + Alpha provide both separate poses. |
+| Hùsòng Yáokòng | 3 / REM | P2 | S3 defensive robot, can proxy with one PanO Dronbot chassis; not Rui Shi reallocation. |
+| Gūdǎn Troops | 3 / LI | P1 | S2 LI, cheap 12–13pt camo defence or FTO link; **Beta box two FTO sculpts** can count as same unit with declared unlinked camo profile. |
+| Jing Qo | 1 / MI | P3/proxy | S2 MI Jing Qo 32pt speciality; included in 2020 WB Action Pack; Liang Kai+Shaolin cheaper for basic CC/smoke. |
+| Gŭiláng Skirmishers | 4 / SK | P1/P2 | S2 SK Guìláng hacker/FO/infiltrator; old Action Pack one BSG, additional Hacker from Tistaminis CAD25. |
+| Tian Gǒu, Orbital Activity Squad | 3 / LI | P3/proxy | S2 LI Holomask/Jammer, FTO Wildcard only; 2-model set USD17 lead. Buy after testing deception. |
+| Yáozăo | 3 / REM | P2/proxy | S1 Peripheral servants; owned 2 Yudbots + 2 Palbots are appropriate substitutes if S1. |
+| Gūijiă Squadrons | 1 / TAG | P3 | S7 Gūijiă TAG ARM8 77pt; USD32 lead, S1 Shàngdiào. Wrong footprint for owned S6 PanO TAG. |
+| Léi Gōng | 1 / HI | P3/proxy | S2 HI Léi Gōng FTO Wildcard/Albedo; USD9, older vs newer repack distinct SKU; test first. |
+| Chief Mech-Engineer Chung-Hee Jeong | 1 / LI | P3/proxy | S2 LI Chung-Hee engineer optional USD8, may replace standard repair plan; reinforcements Beta includes one. |
+| Bìxié | 1 / HI | P3/proxy | S2 HI Bìxié NCO/FO/Climbing Plus; USD7 regular vs ITS limited edition photo check. |
+| Johnny Kao | 1 / MI | P3/proxy | S2 MI Johnny Kao specialized support/Engineer, no user price, model owned 0. Not default. |
+| Son-Bae Yáokòng | 1 / REM | P2 | S3 Son-Bae Guided missile remote, but no WB Fireteam row even for FTO; one PanO Dronbot proxy. |
+| Naval Operations Group Sulyong | 2 / MI | P2 | S2 MI Sulyong NCO/FO/MSV1; two in Reinforcements Alpha, both standard roster legal. |
+| Mech-Engineers (Zhanshi Gōngchéng) | 2 / LI | P3/proxy | S2 LI Mech-Engineer, user optional; owned Trisha N33 S2 LI Engineer plausible external donor. |
+| Yáopú Pangguling | 2 / REM | P2 | S4 baggage/EVO robot; PanO Mulebot S4 proxy if correct footprint. **FTO NOT linkable in WB**. |
+| Liang Kai | 1 / WB | P2 | S2 WB 21pt Liang Kai, USD11.5 lead, 2020 Adepticon special LE vs normal Shaolin-box sculpt. |
+| Silver Snakes, Yín-Shé Unit | 3 / MI | P1/P2 | S2 MI Yín-Shé Albedo/K1/Specialists; one in Beta; alternative Yě Māo-aligned link. |
+| Dàofěi Tactical Section | 2 / HI | P3/proxy | S2 HI Dàofěi premium infiltrator; one 2020 starter, use owned non-WB S2 HI for occasional tests. |
+| Imperial Agent Adil Mehmut (Crane Rank Armor) | 1 / HI | P3/proxy | S2 HI Adil, USD8 lead; good special leader, but no automatic place over Jujak/Haetae. |
+| Haetae Unit | 1 / HI | P1 | S5 HI Haetae AP HMG or HRL Guided/TacAware, USD16; 401/Tist CAD45 HMG, stock varies. Distinct S5 model preferred. |
+| Wèibīng Yáokòng | 2 / REM | P2 | S3 Sensor/FO/Repeater, assign PanO Dronbot S3; don't buy separate if already proxied. |
+| Kunai Solutions Ninjas | 1 / SK | P2/proxy | S2 SK Kunai hidden T2 Thunderbolt, USD6. Owned Shindenbutai Kurayami Ninja S2 SK suitable. |
+| Yě Māo Infantry | 5 / MI | P1/P2 | S2 MI Yě Māo hacker/AP Spitfire/FO, two in starter+Alpha; avoid buying to AVA5 for no list. |
+| Sulsa Warriors | 1 / SK | P3/proxy | S2 SK Sulsa Hacker in Reinforcements Alpha; specialized Camo/FD; user can trial Scarecrow. |
+| Yáoxiè Rui Shi | 2 / REM | OWN shared | Same two total exact Rui Shi/Lù Duān chassis, not two per entry; MSV2 smoke-shooter optional. |
+| Oktavia Grímsdóttir | 1 / LI | P3/proxy | S2 LI Oktavia HRL/ML with Zhanshi, USD8; optional long ARO model, not compulsory. |
+| Shàng Jí Invincibles | 5 / HI | P3/proxy | S2 HI Shàng Jí Tactical Awareness; one Hacker in legacy action, another three-soldier pack. IA stronger value. |
+
+## Units or models better not bought separately at first
+
+- **2025 Essentials Yu Jing Action Pack** is the **wrong main White Banner starter**: just **two Zhanshi** current WB legal; the user-linked old `281328` ten-model starter is perfect WB. A buyer choosing by label “Essentials” alone risks nine? **eight non-WB models**.
+- **Unplanned plain Shàng Jí heavy gun** vs **Jujak/Haetae** in WB: Shepherd skeptical compared with IA where Shàng Jí is a primary engine. The unique TacAware/TinBot/Hacker and Blue Wolf Duo use still worthwhile; **don't buy a 3-Shàng Jí box after starter just to fill AVA**.
+- **Dàofěi without Classifeds / durable infiltrating specialist objective** is a costly 52-point model; contested by experienced tournament users who succeed with it. One from starter is enough, proxy extra.
+- **Jing Qo solely for basic cheap smoke/CC** can lose on points to **Shaolin + Liang Kai**; her real specialist/WIP/CC kit can justify distinct lists. Starter already includes her; no dedicated extra purchase needed.
+- **Hac Tao Hacker only for standard buttons**: Guìláng/Dokkaebi cheaper; correct if needing hidden two-wound armour hacker, but not general staple. Alpha only one Hac Tao; same sculpt may represent other WB legal loadout if allowed.
+- **Standalone Rui Shi without Smoke/MSV2/EVO role**: fragile and unlinked, but the **two exact chassis already owned**, so purchase cost $0; a usage caution, **not a miniature avoid**.
+- **Tian Gǒu 2-pack, Oktavia, Sulsa, Johnny Kao, extra Léi Gōng/Qiang, additional Tiger**: specialist/mission dependent, not empirically weak. **Proxy first**; choose variants based on the actual roster and matchup rather than stock.
+- **Both Gūijiă and Blue Wolf (plus Fēiquán) at once**: three distinct expensive chassis; one TAG plan at a time. **Gūijiă S7**, **Blue Wolf S6**, **Fēiquán S7 VH**; don't shortcut silhouette rules.
+- **Son-Bae/Pangguling FTO for a non-existent WB Fireteam:** never buy for that reason. Current pinned chart excludes them despite loadout name; ordinary remote use remains legal.
+- **Too many extra Gūdǎn/Yín-Shé or Yě Māo simply to reach AVA**: 2 Gūdǎn FTO plus source-backed camouflage profile reuse already lets you test; buy a third when an actual list wants three separate physical Gūdǎn. White Banner chart max Gūdǎn FTO members 2; WB AVA3 ordinary.
+- **Sourced near-must exceptions:** cheap **Gūdǎn**, **Haetae**, **Dokkaebi**, **Jujak**, **Hwarang**, **Shaolin**, appropriate **Guìláng/Yín-Shé** all have favorable tactical evidence. Don't call any universal "never take" without fresh proof. [Shepherd WB](https://www.youtube.com/watch?v=-hB_mGBSuMY), [WIP12 Axel](https://open.spotify.com/episode/5JPLqx5tJz0aduXl35WrYv), [Irregular Order WB](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE), [Tactical Awareness WB](https://open.spotify.com/episode/6kMFfOEsfoblAwlulWPEbd).
+
+## Shopping baskets: alternative plans, before tax/shipping
+
+| Basket | CAD amount | What you get / important limitation |
+|---|---:|---|
+| **A. Play immediately with actual inventory/proxy army** | **$0** | 2 exact Yáoxiè, Warcor, Beasthunter; Fennec→Zhanshi; Jackal→Gūdǎn; Scarecrow→Guìláng; Griffin→Jujak; Firefly→Yě Māo. Missing a true Haetae S5 and Shaolin WB if those are central. |
+| **B. Budget complete old WB starter** | **$37.76 U conditional** | Your USD $27 older White Banner Action Pack: **10 unique physical WB-legal troopers** if a complete sealed old box. Currency, stock and shipping origin not verified. |
+| **C. Canadian WB starter reference** | **$82.95 V listing** | TabletopGamerStore old CodeOne Yu Jing Action Pack `281328`, 10 legal WB figures; shop location/stock to confirm. |
+| **D. User-lead old starter + Alpha + reinforcement** | **$116.07 U conditional** | **$37.76 + $26.57 + $51.74 = $116.07**: 10 + 3 + 6 = **19 WB-legal soldier bodies**, with duplicate named Hùndùn/Yě Māo as alternate equipment models. Missing Gūdǎn/Yín-Shé and Haetae. |
+| **E. Canadian verified Beta + Alpha** | **$79.90 V 401 Games** | 6 physical trooper bodies total: Yin-She, 2 Gudan, Ye Mao Hacker, Hundun HRL, Hac Tao Hacker. Two boxed expansions available in index; useful if old starter cannot be located. |
+| **F. Main Jujak/Haetae WB backbone** | **$82.95 old starter + $85 Reinforcement Alpha + $45 Haetae = $212.95 V/partly unavailable** | 10 starter + 6 Reinforcement bodies + one Haetae; reinforces Jujak/Hwarang/Dokkaebi/Haetae. Haetae **listed more-on-way**, so basket not necessarily directly purchasable at once. |
+| **G. Old starter + Beta + Alpha (Canadian listed)** | **$82.95 + $39.95 + $39.95 = $162.85** | 16 physical soldiers (10+3+3); includes 2 Gūdǎn, 1 Yín-Shé, extra Yě Māo/Hùndùn loadouts and Hac Tao, but still lacks the six Hwarang/Sulyong/Dokkaebi/Sulsa group. |
+| **H. Entire six-player skeleton, using user leads** | **Old starter $37.76 + Alpha $26.57 + Reinforcement $51.74 + Beta Canadian $39.95 + Haetae user $22.38 = CAD $178.40 U/V conditional** | 10+3+6+3+1 = **23 physical WB-legal soldier figures**, with multiple named-unit duplicates. High collection breadth, not a single legal 15-trooper list. |
+
+**Bottom line:** Get the **correct old White Banner Action Pack** if the user's USD 27 lead is genuine, then **Expansion Beta** (for real Gūdǎn + Yín-Shé), then **Reinforcements Yu Jing Alpha** if building the **Jujak/Hwarang/Dokkaebi/Haetae** core. **Alpha** adds Hùndùn HRL/Yě Māo Hacker/Hac Tao as tactical alternatives. Use the already-owned Yáoxiè remotes and PanO/OSS proxies, and do **not** buy several expensive TAGs or generic rare characters before testing them. **No inventory file is modified.**
