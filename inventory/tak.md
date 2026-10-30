@@ -6,10 +6,10 @@
 
 ## Summary
 
-- **30/30 standard TAK roster units accounted for** in the table. **Ioann Bann** is the only TAK unit omitted from the supplied list; ownership already confirmed as **0 dedicated** in Shindenbutai, with an S6 Dog-Warrior proxy available here. **Sāchā Xenotech Hunters**, mentioned in the supplied list, is **not in the current TAK standard roster** and is tracked separately below.
-- **32 TAK-specific dedicated troop miniatures newly reported**, plus **2 shared Traktor Mul/Kuryer chassis**, **1 separate Marauder 5307 proxy figure** for a second Barsuk, and **4 S5 dog figures** (1 proposed as Bâtard, 3 as Antipodes). These are **39 newly reported distinct physical miniatures**. This count assumes the one Bâtard S5 dog and the three Antipode S5 dogs are **four separate physical figures**, not an overlapping pool; if they overlap, reduce the total accordingly.
-- **2 previously owned dedicated miniatures reused:** **1 Beasthunter** and **1 Warcor** from Kestrel. They are not new physical models. Thus **36 bodies directly assigned to normal TAK unit entries** (32 newly dedicated + 2 shared chassis + 2 earlier-model reuses), plus **5 newly identified proxy bodies** (Marauder + four S5 dogs), and additional existing cross-faction proxies.
-- **176 distinct confirmed physical miniatures across the five inventories**, using the earlier 137-model collection total plus 39 new TAK bodies under the stated S5-dog distinctness assumption. The shared Penthesilea, ALEPH Yudbots, Warcor and Beasthunter are not added again. Unquantified HVT/other figures and possible unnamed extra Veteran Kazak proxies are excluded.
+- **30/30 standard TAK roster units accounted for** in the table. **Ioann Bann** has **0 dedicated miniatures** and can use one of the 2 owned S6 Dog-Warriors as a proxy. The roster is matched to the current TAK reference.
+- **32 TAK-specific dedicated troop miniatures newly reported**, plus **2 shared Traktor Mul/Kuryer chassis**, **1 separate Marauder 5307 proxy figure** for a second Barsuk, and **4 identified S5-base dog proxy miniatures**: **2 USAriadna Devil Dog miniatures mounted on S5 bases** and **2 Caledonia S5 dog miniatures**. These form **one interchangeable 4-model pool**, not separate fixed Bâtard and Antipode allocations. **39 newly recorded distinct physical models** in total. The four dog models are counted once, including when assigned to different proxy roles.
+- **2 previously owned dedicated miniatures reused:** **1 Beasthunter** and **1 Warcor** from Kestrel. They are not new physical models. Thus **36 bodies directly assigned to normal TAK unit entries** (32 newly dedicated + 2 shared chassis + 2 earlier-model reuses), plus **5 newly identified proxy bodies** (Marauder + the four-model interchangeable S5 dog pool), and additional existing cross-faction proxies.
+- **176 distinct confirmed physical miniatures across the five inventories**, using the earlier 137-model collection total plus 39 newly recorded TAK-related figures. The 4 S5-base dog proxies (2 USAriadna Devil Dogs + 2 Caledonia dogs) are four distinct models, not extra bodies for each role. The shared Penthesilea, ALEPH Yudbots, Warcor and Beasthunter are not added again. Unquantified HVT/other figures and possible unnamed extra Veteran Kazak proxies are excluded.
 - **5 TAK standard units have 0 dedicated sculpts:** 112 on foot, Carmen Johns & Bâtard, Antipode Assault Pack, Remontnikbot Elektronik, and Ioann Bann. Proxy plans are recorded. **AVA is a limit, not a recommendation to buy to maximum**.
 
 ## Standard TAK roster inventory
@@ -28,15 +28,15 @@
 | Kazak Spetsnazs | 2 | 4 | 2 | Dedicated TAK | — |
 | TankHunters | 3 | 4 | 1 | Dedicated TAK | Three separate physical miniatures (1 + 1 + 1) |
 | Scouts | 2 | 4 | 2 | Dedicated TAK | Two separate physical miniatures (1 + 1) |
-| Carmen Johns & Bâtard | 0 | 1 | 1 | 0 dedicated; proxy possible | Carmen proxy: Steel Phalanx Penthesilea (1 shared). Bâtard proxy: 1 S5 dog (listed separately) |
+| Carmen Johns & Bâtard | 0 | 1 | 1 | 0 dedicated; proxy possible | Carmen proxy: Steel Phalanx Penthesilea (1 shared). Bâtard proxy: allocate 1 from the shared 4-model S5 dog pool |
 | Beasthunters Free Guild | Shared 1 | 1 | 0 | Previously owned; reused | Same 1 Beasthunter as Kestrel (not a second model) |
 | Dynamo | 2 | 5 | 3 | Dedicated TAK | — |
 | Konduktors | 2 | 2 | 0 | Dedicated TAK | — |
 | Barsuk, Territorial Defense Reg. | 1 | 3 | 2 | Dedicated TAK | 1 dedicated Barsuk; 1 additional physical proxy: Marauder 5307, recorded separately |
-| Streloks | 1 | 4 | 3 | Dedicated TAK | Strelok K-9 profile includes K-9 Antipode; physical K-9 owned not specified; S5 dog may proxy |
+| Streloks | 1 | 4 | 3 | Dedicated TAK | The **Strelok K-9** profile includes one S5 K-9 Antipode: allocate 1 shared S5 dog proxy if selected (there is no Spetsnaz K-9 profile in the pinned roster) |
 | Irmandinhos | 2 | 4 | 2 | Dedicated TAK | — |
 | Pavel Aleksei McMannus | 1 | 1 | 0 | Dedicated TAK | — |
-| Antipode Assault Pack | 0 | 2 | 2 | 0 dedicated; proxy possible | No dedicated pack; proposed handler proxy HVT (ownership uncounted) + 3 S5 dog figures |
+| Antipode Assault Pack | 0 | 2 | 2 | 0 dedicated; proxy possible | No dedicated pack; proposed handler proxy HVT (ownership uncounted) + 3 models allocated from the shared 4-model S5 dog pool |
 | Kuryer Unit | Shared 2 | 2 | — | Shared TAK chassis | 2 shared Traktor Mul/Kuryer chassis TOTAL; not 2 Kuryer plus 2 Traktor |
 | Vassily Plushenko | 1 | 1 | 0 | Dedicated TAK | — |
 | Warcors | Shared 1 | 1 | 0 | Previously owned; reused | Same 1 Warcor across prior collections |
@@ -64,33 +64,29 @@
 
 **No double counting:** Beasthunter/Warcor are one physical miniature each even if they appear in other faction inventories. The 2 Traktor/Kuryer miniatures and the 2 S6 Dog-Warriors are pools that cannot be duplicated by copying their count into multiple roster rows. A proxy used as Carmen, Elektronik, Ioann or Barsuk cannot simultaneously represent its original unit.
 
-## Carmen, Bâtard, Antipodes and dogs — distinct silhouettes
+## Carmen, Bâtard, Antipodes and dogs — shared proxy pool
 
 | Physical representation | Owned | Proposed tabletop assignment | Notes |
 |---|---:|---|---|
-| S6 Dog-Warrior models | **2** | Two Dog-Warriors (AVA 3), or one as Ioann Bann (AVA 1) | S6 transmuted form. **S2 Dogface-form model quantities were not supplied**. |
-| S5 dog figure for Bâtard | **1** | Bâtard synchronized companion for Carmen Johns | Dedicated Bâtard figure **0**; existing S5 dog proxy. |
-| S5 dogs for Antipodes | **3** | Three Antipodes in **one Assault Pack** | Dedicated Antipode figures **0**, but 3 S5 dog proxies stated. Handler proposed as HVT. |
+| TAK S6 Dog-Warrior models | **2** | Two Dog-Warriors (AVA 3), or one as Ioann Bann (AVA 1) | Separate from the four S5 proxy dogs. **S2 Dogface-form model quantities were not supplied**. |
+| USAriadna Devil Dog miniatures on S5 bases | **2** | Any two of Bâtard, Antipode Assault Pack members, or Strelok K-9 / another S5 dog requirement | These are **user-confirmed S5-based proxy figures**. The standard USAriadna Devil Dog profile is S6, so these are not represented here as correctly based standard Devil Dogs. |
+| Caledonia S5 dog miniatures | **2** | Same interchangeable roles as the two USAriadna dog proxies | Four S5-base dog proxies total between USAriadna (2) and Caledonia (2), shared across all roles. |
 | Penthesilea motorcycle | **1 existing** | Carmen Johns | Existing Steel Phalanx mini; check motorcycle silhouette/model clarity. |
 | HVT (Antipode Handler proxy) | **Quantity not separately recorded** | Antipode Assault Pack handler | User proposed HVT. The physical HVT is not assumed to be additional unique model without confirmation. |
 
-The [current TAK roster](../sectorials/ariadna/tartary-army-corps.md#antipode-assault-pack) gives **Antipode Assault Pack AVA 2**. **Each pack needs a handler plus 3 S5 Antipodes**; AVA 2 refers to packs, not two individual dogs. A single pack can be represented by the handler proxy + 3 S5 dog figures, provided base sizes and proxy acceptance work. **Two simultaneous packs would require 2 handlers and 6 dogs.** The separate Bâtard S5 dog would be a seventh if two packs and Carmen are deployed simultaneously. Your note about another S5 dog / switchable bases is kept as a modeling consideration, not a mandatory purchase.
+The [current TAK roster](../sectorials/ariadna/tartary-army-corps.md#antipode-assault-pack) gives **Antipode Assault Pack AVA 2**. **Each pack needs a handler plus 3 S5 Antipodes**; AVA 2 refers to packs, not two individual dogs. With **4 interchangeable S5 dog proxies**, you can physically represent **one Antipode pack (3 dogs) plus Bâtard (1 dog) simultaneously**, assuming a suitable handler/Carmen proxy and model acceptance. Alternatively, allocate one dog to **Strelok K-9** and distribute the other three as needed. **Two simultaneous Antipode packs require 6 S5 dogs and 2 handlers**, two more dogs than the present pool, before considering Bâtard or a Strelok K-9 in the same list.
 
-A **Strelok K-9** profile also includes a K-9 Antipode in the Army reference. The count of a separate dedicated K-9 model was not provided; an S5 dog may serve as proxy if not already allocated elsewhere and appropriate for that profile.
+The **Strelok K-9** profile (not Spetsnaz K-9) includes a synchronized S5 K-9 Antipode in the current Army reference. **One of the four S5 dog figures** can represent it when allocated to that role, without increasing physical ownership. Proxies must comply with required silhouette and local event requirements.
 
 ## Zero-dedicated model / proxy checklist
 
 | Unit | Owned dedicated | Suggested usable proxy | Missing to field without a proxy |
 |---|---:|---|---|
 | **112 Emergency Service (foot)** | 0 / AVA 2 | Dozer, Kazak Doktor or other suitable miniature | One foot 112 sculpt; existing motorized 112 is recorded separately |
-| **Carmen Johns & Bâtard** | 0 / AVA 1 | Owned Penthesilea motorcycle + one S5 dog for Bâtard | Dedicated Carmen/Bâtard sculpts; existing proxy combination may cover them |
-| **Antipode Assault Pack** | 0 / AVA 2 packs | HVT handler + three S5 dog proxies for one pack | Dedicated handler/Antipodes; extra models only if fielding two packs or current bases unsuitable |
+| **Carmen Johns & Bâtard** | 0 / AVA 1 | Owned Penthesilea motorcycle + 1 allocated from the 4 S5 dog proxies for Bâtard | Dedicated Carmen/Bâtard sculpts; existing proxy combination may cover them |
+| **Antipode Assault Pack** | 0 / AVA 2 packs | HVT handler + 3 allocated from the 4 S5 dog proxies | One pack can be represented; four S5 figures are shared with Bâtard and Strelok K-9, not three permanently assigned |
 | **Remontnikbot V-5 Elektronik** | 0 / AVA 1 | 1 of 2 existing ALEPH Yudbots | Dedicated Elektronik sculpt, optional if proxy accepted |
 | **Ioann Bann** | 0 / AVA 1 | 1 of 2 owned S6 Dog-Warriors | Dedicated character, optional if proxy accepted; same 0 owned recorded in Shindenbutai |
-
-### User-supplied entry outside standard TAK roster
-
-**Sāchā Xenotech Hunters: 0 owned; HVT proxy suggested.** The unit is available in other inventories but **does not appear in the pinned current TAK main roster**. This is a reference mismatch, not a TAK shopping gap. Do not field it in standard TAK solely based on this inventory note; optional modes or future roster revisions would require separate legality checks.
 
 ## Quantity and potential purchases
 
@@ -115,12 +111,12 @@ Other below-AVA units include Ratnik (1/3), Kazak Doktor (1/3), Dozer (1/2), and
 - **Scouts 1 + 1 = 2** owned; **TankHunters 1 + 1 + 1 = 3** owned. These are physical model counts, not extra AVA.
 - **112 foot 0 vs motorized 1:** different models/silhouettes; the mounted model is not automatically a second foot sculpt.
 - **Dogface vs Dog-Warrior:** the two reported bodies are **S6**. Separate **S2 Dogface-form** sculpts remain unreported; the rules include transmutation, so use correct forms/markers or accepted proxies.
-- **Carmen & Bâtard** are one roster entry with a S4 motorcycle plus S5 synchronized dog; owning one generic S5 dog does not mean owning the named character sculpt.
+- **Carmen & Bâtard** are one roster entry with a S4 motorcycle plus S5 synchronized dog; **one of the four interchangeable S5 dog models** can stand in as Bâtard, but does not imply ownership of the named sculpt.
 - **Elektronik** is a Peripheral Servant, AVA 1; it is tracked as a standard roster entry, with Yudbot only as an external proxy.
 - **No generic “Warcor 1” or “Beasthunter 1” is added again** to the overall collection: both already existed in Kestrel.
-- **Sāchā** (0) is recorded outside the TAK standard roster. **Ioann Bann** is included as the one omitted TAK roster type, 0 with S6 Dog-Warrior proxy.
+- **Ioann Bann** remains **0 dedicated** and may be represented by one of the two owned **S6 Dog-Warrior** miniatures, which cannot also be fielded as that Dog-Warrior in the same list.
 - Optional-mode **Intel Spec-Ops / Ariadna Team-Ops** and L'Équipe Argent reinforcements are excluded from the 30 standard entries.
-- The distinct-physical count assumes **four distinct S5 dogs** (1 for Bâtard plus 3 for an Antipode pack). If one or more are actually the same physical dog proxy reused across roles, the total must be adjusted down; no overlap was reported.
+- **Four distinct S5 dog proxy bodies are now explicitly identified:** 2 USAriadna Devil Dog miniatures on S5 bases and 2 Caledonia S5 dog miniatures. The pool can be redistributed among Bâtard, the Antipode Assault Pack, **Strelok K-9**, or comparable S5 proxy needs. The inventory total remains **176** because the previous provisional four S5 dog figures are now identified, not four newly added ones.
 
 ## Related references
 
