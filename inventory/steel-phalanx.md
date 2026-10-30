@@ -8,7 +8,7 @@
 
 - **35/35 standard Steel Phalanx roster unit types accounted for**, including the two names absent from the submitted list: **Warcor (1 owned, shared with Kestrel/MO)** and **Sāchā Xenotech Hunters (0 owned)**. The 35-type count excludes separately deployed peripherals and optional-mode entries.
 - **37 distinct Steel-Phalanx-specific physical miniatures** confirmed: **34** non-Rebot roster models + **2** ALEPH Rebot chassis + **1 Charybdis** miniature. Counts include 2 Yudbots and 2 Netrods, but no unconfirmed KiranBot, Karkata, OSS spare or proxy bots.
-- **8 existing PanO models usable or suggested as Steel Phalanx models/proxies:** 4 Dronbots, 2 Mulebots, 1 Warcor and 1 Crabbot. All are already counted in the prior Kestrel/MO collection; silhouettes/loadouts and proxy acceptance may constrain usage.
+- **8 existing PanO models usable or suggested as Steel Phalanx models/proxies, subject to [the visual proxy standard](../notes/miniature-proxy-guidelines.md):** 4 Dronbots, 2 Mulebots, 1 Warcor and 1 Crabbot. All are already counted in the prior Kestrel/MO collection; silhouettes/loadouts and proxy acceptance may constrain usage.
 - **45 physical miniatures known as available/relevant for Steel Phalanx** after including those 8 shared PanO figures; this is *not* an extra 45 physical models beyond your existing collection.
 - **116 distinct confirmed physical miniatures across Kestrel, Military Orders and Steel Phalanx** after adding the 37 Steel Phalanx-specific physical models (including Charybdis) to the existing combined PanO baseline of 79. Unspecified OSS or additional proxy models are not included.
 - **5 roster unit types have no dedicated model recorded:** Arjuna, Hippolyta, K2 Auxiliars, Probots and Sāchā. Several have suggested proxies, detailed below.
@@ -33,7 +33,7 @@ Rows follow the roster source order. **Gap to AVA** counts only dedicated/identi
 | Ekdromoi | 1 | 4 | 3 | Owned | — |
 | Eudoros | 1 | 1 | 0 | Owned | — |
 | Hector | 1 | 1 | 0 | Owned | — |
-| Hippolyta | 0 | 1 | 1 | Missing dedicated model | Proxy: spare OSS miniature (not counted as extra confirmed physical model here) |
+| Hippolyta | 0 | 1 | 1 | Missing dedicated model | **No specific good S2 melee/warband donor verified**; generic OSS body is not enough for a recommendation |
 | Hoplites | 1 | 3 | 2 | Owned | — |
 | K2 Auxiliars | 0 | 2 | 2 | Missing dedicated model | Proxy: bot; source AVA 2 (user supplied AVA 1) |
 | Lamedh Rebots | 2 ALEPH (shared) + 4 PanO proxies | 2 | — | Shared REM pool | 2 ALEPH Rebots shared by all 4 types; +4 PanO Dronbots as proxies; Flash Pulse role |
@@ -88,7 +88,7 @@ The individual AVAs add to **6**. The pool of 6 physical chassis could physicall
 
 | Unit | Owned | Proposed proxy | Inventory implication |
 |---|---:|---|---|
-| **Hippolyta** | 0 / AVA 1 | Spare OSS model | A suitable OSS model may cover her; physical spare not separately enumerated here |
+| **Hippolyta** | 0 / AVA 1 | **None confirmed** | Find a distinct non-Steel-Phalanx S2 melee/warband sculpt; do not default to a heavily armoured OSS HI |
 | **K2 Auxiliars** | 0 / AVA **2** | Bot miniature | Need a declared, distinguishable proxy or new model when fielding a K2. AVA corrected against project roster |
 | **Probot** | 0 / AVA 1 | PanO Mulebot | Existing 2 Mulebots are proxy options; no extra physical model added |
 | **Arjuna** | 0 / AVA 1 | None specified for Arjuna | A miniature/proxy is needed for Arjuna; a KiranBot (0) is separate from its controller |
