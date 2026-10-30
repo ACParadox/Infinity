@@ -51,7 +51,7 @@
 | Knight Commander | 1 | 1 | 0 | Dedicated MO | — |
 | Fugazi Dronbot | Shared 4 | 1 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Tech-Bees | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Tech-Bee as Kestrel |
-| Dart, Optimate Huntress | Shared 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; proposed proxy Asura/OSS. Sharvara K9 peripheral exists separately (1) |
+| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; proposed proxy Asura/OSS. Sharvara K9 peripheral exists separately (1) |
 
 ## Shared inventory brought over from Kestrel
 
