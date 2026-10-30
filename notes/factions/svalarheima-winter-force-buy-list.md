@@ -105,6 +105,8 @@ Source: [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes) →
 
 ## Practical use of owned miniatures as proxies
 
+Follow the [miniature proxy guidelines](../miniature-proxy-guidelines.md): same silhouette, matching unit type/armour/archetype, and preferably a donor not selectable in SWF. **No good known owned model exists for Bøyg's S5 powered armour or the Jotum's human-style S7 TAG**; same-S dogs or alien machines are not normal recommendations.
+
 **All substitutes require suitable silhouette/base, a clearly distinct represented unit, and event/TO acceptance.** One physical miniature cannot represent two roster entries at once. Cross-faction legal models may be fielded as the actual named SWF unit; an illegal model is only a proxy.
 
 | Missing unit | Owned suggested stand-in | Important distinction |
