@@ -158,7 +158,7 @@ Historical [N5.1 update Apr 3, 2025](https://infinityuniverse.com/en/news/infini
 | Pattern from the ten games | Evidence | Practical use |
 |---|---|---|
 | **Mission runners outperform premium gun investment when objectives are Order-intensive** | 111, 113–116, 120 | Hsien scores five Evacuation points, Tohaa Paramedic wins last Supplies Classified, Outbreak requires dedicated handlers |
-| **Specialist depth / backup Orders creates resilient scoring** | 113–116, 119–120 | Garuda + Posthumans, Patroclus? **not used here**; Tohaa Triads; Bakunin durable Cenobite carriers |
+| **Specialist depth / backup Orders creates resilient scoring** | 113–116, 119–120 | Garuda + Posthumans, Tohaa Triads and Bakunin's durable Cenobite carriers |
 | **Diverse anti-premium tools shape matchups, not guaranteed faction counters** | 112, 115, 117–120 | Pitcher/KHD→Charontid, Fiddler recovery, Uragan TR/Guided, Dartok Guided, Cybermine, Stigmaton Possession |
 | **Scoring phase and area access trump good direct-fire dice** | 114–116, 118–120 | 10–3 OSS despite Yan Huo, 7–6 Tunguska late antenna, 8–4 Morats button/HVT plan |
 | **Source context must stay separate** | 111–120 | Initial N5 games, N5.1 Garuda, ITS17 midseason, author experiments and the explicitly rewound Bakunin match |
