@@ -118,3 +118,16 @@
 2. **Media-era rule warning:** Qapu Shepherd (Aug 2025) and Tactical Awareness Qapu (Aug 2025) predate **October 2025 Odalisque/Hafza changes**; the [Tactical Awareness N5.2 update episode](https://open.spotify.com/episode/66UWrxKSTHcyWP3LJDM0H4) at ~46–48 minutes expressly revises those assessments. Ramah burlesford (Aug 2025) and TA's early-October commentary are also prepatch; their **explicit tactical taste**, not obsolete unit profiles, is preserved. Post-update Vanilla Shepherd establishes the new Saladin command paradigm. [Official October update](https://infinityuniverse.com/en/news/army-update-october-2025-part2).
 3. **Pinned data differs from some patch discussion** (example: patch announcement names added Odalisque equipment that current pinned Army reference does not list). **Use the pinned September 2026 roster as actual current stats**; do not silently add NBW/Discover+6 based on a historical announcement.
 4. **No independent tournament pick-rate database is being claimed.** “Must-have” reports speaker preferences or repeated build foundations. “Never” with explicit presenter evidence is **narrower** than a universal ban and can be contradicted by mission geometry, opponent composition and budget.
+
+## Whole-unit purchasing audit — not just an avoided profile (2026-10-30)
+
+This answers a **miniature purchase**, not which weapon option to select. **Defer** means low priority for a collection playing *that* sectorial; it is not a universal N5.3 ban. **No evidenced unconditional all-profile avoid** was found.
+
+| Army | Full unit/model buying priority | Reason / purchase exception |
+|---|---|---|
+| **Vanilla** | **No whole-unit skip supported** | Ghulam/Ghazi/Daylami/Hunzakut offer useful profiles. The Saladin + Irregular Orders warning is a *list composition* issue, not a reason to avoid those sculpts. |
+| **Hassassin Bahram** | **No whole-unit skip supported** | Expensive Ghulam HMG/ML are weak default profiles, but Ghulam LT/Doctor/NCO remain valuable; one Áyyār can still perform a unique impersonation/ambush job. |
+| **Qapu Khalqi** | **Defer Rouhani** for ordinary backline recovery; **conditional** | [Tactical Awareness QK](https://www.youtube.com/watch?v=n1vD-2YP0DM) favors 15pt Ghulam Doctor for that job. Buy Rouhani if WIP15, BTS, Wildcard or the 15-troop cap makes an upgraded specialist worthwhile. Earlier Odalisque/Kaplan criticism is **pre-buff** and cannot justify skipping those units. |
+| **Ramah Taskforce** | **Defer Al Fasid** if buying only a generic long gun; **contested** | Khawarij, Zhayedan, Janissary and TAGs may better spend the main-gun budget. October 2025 Albedo/BS upgrades and the HRL/Minelayer independent anchor leave **genuine reasons to buy**, so not a full-unit “never.” |
+
+**Do not convert** any Ghulam heavy-weapon avoid into an instruction to skip buying Ghulams. Cross-faction comparison: [whole-model buying shortlist](model-purchase-avoid-summary-2026.md).
