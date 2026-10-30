@@ -29,7 +29,7 @@ Each amount is **provisional USD** pending a live quote and exact SKU. Seller ph
 | Model / user lead | Provisional USD | **CAD if USD** | Model / army / packaging caveat |
 |---|---:|---:|---|
 | Beyond Icestorm, quoted PanO half | $15.80 | **$22.10** | 1 Kamau HMG is Varuna-legal; Swiss Guard + Bolt Paramedic are NOT Varuna-legal. Original six-mini expansion also included 3 Nomads. Verify half-set versus full six. |
-| Kamau single | $6.90 | **$9.65** | Likely older/loose figure; weapon and edition unknown. Do not assume HMG = MSV2 Sniper. |
+| Kamau Hacker (MM PanO snapshot) | $6.90 | **$9.65** | Saved seller description explicitly identifies **Kamau with Hacking Device**. Older/loose sculpt; not the HMG, MULTI Sniper or HRL. |
 | Helot Militia box (4 figures) | $19.80 | **$27.69** | 4 physical Helots, Varuna AVA3; 4th is alternate sculpt/weapon, not 4th legal concurrent trooper. |
 | Echo-Bravo Paramedic + WildParrot | $7.50 | **$10.49** | One Echo trooper + separate WildParrot peripheral/token figure, not two Echo-Bravos. |
 | Croc Man / sniper lead | $9.20 | **$12.87** | Version and weapon unspecified; current N5.3 sniper 29pt/1.5 SWC. Older Croc Hacker/BSG also exist. |
@@ -38,7 +38,7 @@ Each amount is **provisional USD** pending a live quote and exact SKU. Seller ph
 | Captain Uma Sørensen | $6.40 | **$8.95** | Varuna-legal; FTO Lieutenant is 25pt, but 27pt camo/FD is not FTO. Check loose vs Dire Foes/Defiance sculpt. |
 | **Zulu-Cobra** | — | — | **Proxy** requested, no individual user price. |
 | **Varuna Starter** (from older [Vanilla PanO buy list](vanilla-pano-buy-list.md), **not** new user lead) | **$35.00 U** | **$48.95** | Six Varuna-legal models; official OOP starter, exact quoted seller and stock unverified. |
-| **Reinforcements PanO Pack Beta** (from earlier [Vanilla PanO buy list](vanilla-pano-buy-list.md), not a verified new offer) | **$13.00 U** | **$18.18** | ORC HMG + Richard Quinn + Shona Carano. **ORC + Quinn are Varuna legal; Shona is NOT Varuna-legal.** |
+| **Reinforcements PanO Pack Beta** ([Ultimate Toy Zone USD snapshot](ultimate-toy-zone-infinity-prices-usd.md), not a verified live offer) | **$13.20 U** | **$18.46** | ORC HMG + Richard Quinn + Shona Carano. **ORC + Quinn are Varuna legal; Shona is NOT Varuna-legal.** |
 
 **User's “Croc Men (or proxy with sniper)”**: no owned Croc Men sculpt; prioritize **one stealth/S2 SK proxy** first. An exact old sniper sculpt may be attractive at conditional CAD $12.87, but check photo because the older Croc multi-blister usually has **BSG + Hacker**, not a sniper.
 
@@ -159,6 +159,26 @@ The [repo policy](../miniature-proxy-guidelines.md) favors **same silhouette**, 
 9. **Limited editions**: the **Beyond Icestorm preorder Authorized Bounty Hunter** is the confirmed special bonus; the **2018 Varuna Starter** and normal **Helot four-pack** are **commercial products**, not “LE” because OOP. Uma's Defiance sculpts are non-retail alternatives, not established as an official limited-number miniature.
 
 **Evidence for rankings:** [Infinity the Dante Varuna tournament builds](https://www.youtube.com/watch?v=U8igbhbj2iw), [Tactical Awareness Varuna](https://www.youtube.com/watch?v=DLgSwYvTGS4), [Swiss Miss Varuna tier review](https://www.youtube.com/watch?v=v3hhlSohHzg). All tactical opinion is subordinate to the [pinned N5.3 roster](../../sectorials/panoceania/varuna-immediate-reaction-division.md).
+
+## PanO-wide primary price snapshots and deduplicated buying options (Oct 30, 2026)
+
+This section reconciles older unassigned buyer leads with the **existing USD [Miniatures Market PanO snapshot](panoceania-miniatures-market-prices-usd.md)** and **[Ultimate Toy Zone snapshot](ultimate-toy-zone-infinity-prices-usd.md)**. The latter specifically records **USD** prices, but neither confirms live checkout price, exact dispatch warehouse, nor that a quoted item remains in stock. Exchange factor **1.3985 CAD per USD**; shipping and tax excluded. MM's shipping origin is unspecified/international (non-EU fulfilment possible); UTZ dispatch location unverified.
+
+| Priority / candidate | Historical source USD → CAD | Retailer location and product evidence | Purchase impact |
+|---|---:|---|---|
+| **P1 Helot Militia, 4-sculpt box** | **USD $19.80 → CAD $27.69 U** | [Miniatures Market PanO snapshot](panoceania-miniatures-market-prices-usd.md), unspecified overseas warehouse | **0 owned, Varuna AVA3**. Use up to 3; fourth is spare/vanilla alternative. Canada: [Meeplemart Toronto](https://www.meeplemart.com/infinity-panoceania-801-helot-militia.aspx) **CAD $33.95, sold out**. |
+| **P1 Kamau Hacker single** | **USD $6.90 → CAD $9.65 U** | MM PanO snapshot, unspecified warehouse; product is **Kamau with Hacking Device**, not generic sniper/HMG | Useful exact Kamau figure; **do not buy this specifically for the MSR/HRL**. The **2018 Varuna starter** contains 3 different Kamau. |
+| **P2 Echo-Bravo Paramedic** | **USD $7.20 → CAD $10.07 U** | MM PanO snapshot, unspecified warehouse; title says Echo-Bravo Paramedic | Does **not** confirm a WildParrot figure included. Earlier **$7.50** Paramedic+WildParrot lead is a *different unverified packaging claim*. Verify actual parts. |
+| **P2 Croc Men MULTI Sniper** | **USD $9.20 → CAD $12.87 U** | MM PanO snapshot; older single sculpt | Attractive dedicated stealth alternative if actual model matches; owned MO Trinitarian is a class/silhouette proxy. |
+| **P2 Patsy Garnett NCO** | **USD $10.50 → CAD $14.68 U** | MM PanO snapshot; standalone original | Varuna Helot/team NCO value; one only, not necessary for standalone vanilla. |
+| **P2 Cutter TAG old listing A/B** | **USD $25.20 / $29.70 → CAD $35.24 / $41.54 U** | MM PanO snapshot, two historic products with unknown editions | Distinct **S7** camo TAG; existing S6 Squalos/Tikbalang/Maximus cannot proxy. [401 Games Toronto/Vaughan](https://store.401games.ca/products/infinity-panoceania-cutters-tag-pack) has current SKU 281246-1142 **CAD $47.95** reference. |
+| **P2 ORC HMG + Quinn + Shona (Beta)** | **USD $13.20 → CAD $18.46 U** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-reinforcements-panoceania-pack-beta/) · origin unverified | **2/3 Varuna-legal** (ORC+Quinn), **Shona not**. Better **3/3 in NCA/WinterFor**; don't purchase solely for one ORC. |
+| **P3 ORC group** | **USD $14.39 → CAD $20.12 U** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-panoceania-orc-troops/) · origin unverified | Exact figure count unknown; MM also has **four-ORC group $19.80 USD**. Compare with owned non-Varuna MO S2 HI proxies. |
+| **Varuna Starter OOP (6)** | **USD $35 → CAD $48.95 U** | MM PanO snapshot, actual warehouse/stock unverified | All **6/6** legal in Varuna: Kamau x3, Croc, Zulu and ORC; best combined gap-filler **only if genuinely available** and edition/photos checked. |
+
+**Human Sphere verification:** [PanOceania Starters](https://human-sphere.com/PanOceania_Starters), [Operations Boxes](https://human-sphere.com/Operations_Boxes) and [Starter Boxes index](https://human-sphere.com/Starter_Boxes). **2018 Varuna starter is older/OOP**; a modern product name/Essentials label is not proof of a new sculpt. **Beyond Icestorm** is Swiss + Bolt + Kamau (PanO split), so **only the Kamau** is Varuna playable as named, while Swiss/Bolt are valuable in [NCA](nca-buy-list.md)/[vanilla](vanilla-pano-buy-list.md). Explicit LE examples: **Icestorm Nisse/ORC, older Father-Knight, Bolt Cosplay Edition**; not obligatory Varuna figures. Owned **Montesa foot and bike** are separate models. Prefer **MO Trinitarian S2 SK** for Croc, non-Varuna **Kestrel S2 MI/LI** for appropriate human skirmish/line figures with exact silhouettes, and no same-roster donor (e.g. don't treat owned Locust as a generic proxy without checking whether Locust is Varuna-legal). Shared purchase comparison: [MO](military-orders-buy-list.md), [Kestrel](kestrel-buy-list.md), [NCA](nca-buy-list.md), [WinterFor](svalarheima-winter-force-buy-list.md), [SAA](acontecimento-buy-list.md).
+
+
 
 ## Alternative shopping baskets, **not cumulative obligations**
 
