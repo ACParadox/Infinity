@@ -106,3 +106,17 @@ These are **presenter-backed negative picks**. Distinguish a unit-wide condemnat
 - **N4 sources are strategic context only**; Sept 2026 Army roster controls availability, current costs, legal teams and exact profiles. **No conventional REMs/VH units** appear in current base Tohaa roster, and the Motorcycle Bounty Hunter is not a VH.
 
 **Bottom line:** Near-default **Kaeltar + Sukeul + 5pt Specialist Delegate**; fill core go-to roles using **Kriigel/Taqeul, Ioann Bann/Makaul, Kaauri/10pt Chaksa, Taagma/Kosuil**, then select independent striker or hidden scorer packages to match the mission. Avoid **Ectros NCO, Kiel-Saan, 24pt Neurocinetics Chaksa**, and overpriced secondary Spitfires as general-purpose default purchases; keep disputed niches explicitly conditional.
+
+## Whole-unit purchase skips — full model rather than weak profile (2026-10-30)
+
+These are **collection priorities**, judged across the current unit's usable profiles. **Skip by default** means the speaker's negative assessment covers the core purpose of the *whole* unit, but a named exception or dissent remains. It is **not** a claim that the unit is universally unplayable.
+
+| Entire unit/model | Buying verdict | Why and when to reconsider |
+|---|---|---|
+| **Kiel-Saan (49pt)** | **Skip by default — strongest Tohaa whole-model candidate, disputed** | [Robert Shepherd Tohaa 2026 (RS26)](https://www.youtube.com/watch?v=ylv7BfI0iGI) considers its attack price/link restrictions too steep for modern Tohaa; Sukeul, Ioann Bann and Samsa provide more efficient routes. **MX26** reports an actual player who uses it. Buy if that specific Reex/Chaksa assault plan is desired, not simply for a “must-have” melee piece. |
+| **Hatail Aelis Keesan (25pt)** | **Defer — low priority, niche** | RS26 criticizes a premium KHD without robust local hacking support. Buy when **WIP14, Sensor, D-Charges or K1/AP Classified coverage** fills a missing role. |
+| **Kumotail (21pt)** | **Defer if recovery/classifieds are already covered** | RS26 sees limited broad-list demand; combined Doctor+Engineer plus Chaksa Servants gives distinct reach that a generic gun cannot replace. |
+| **Chaksa Auxiliary as a unit family** | **Do not skip** | Only its **24pt Neurocinetics HMG** is strongly criticized; cheap **10pt Baggage/Sensor/HFT** versions are genuine role-efficient purchases. |
+| **Ectros, Sakiel, Kamael, Gao-Rael, Sukeul, Kaeltar and Greif** | **Do not skip based on this audit** | Their condemned HMG/Spitfire/ML/CoC/non-Impersonation **profiles** do not invalidate their differently useful command, specialist or gun configurations. |
+
+**Other optional, not all-profile avoids:** Rasail (reportedly won a scenario for RS26), Neema, Kerail and Gorgos all have distinct plausible uses or positive opposing accounts. Sources and dissent are detailed above in [the avoid audit](#3-generally-avoid--never-take-audit). See [cross-faction shortlist](model-purchase-avoid-summary-2026.md).
