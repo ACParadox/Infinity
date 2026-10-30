@@ -1,7 +1,7 @@
 # Ultimate Toy Zone — Infinity price reference (USD)
 
 **Recorded:** 2026-10-30  
-**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2 and 3.  
+**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, and 4.  
 **Currency:** **USD**, as specified by the user. No CAD conversion.  
 **Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The original batch had no product-specific links; the added batch includes user-supplied product and image links. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
 **Price convention:** *Sale* is the listed current price; *Original* is the crossed-out original price. Discount labels reflect the source listing.
@@ -42,8 +42,17 @@
 | Ariadna / FRRM | [Infinity – Ariadna – Equipe Mirage-5](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5005750534246_373.webp)) | **$17.09** | $57.00 | 70% |
 | Nomads / Tunguska | [Infinity – Nomads – Securitate (Boxed)](https://www.ultimatetoyzone.com/product/infinity-nomads-securitate-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/4669738254438_395.webp)) | **$12.90** | $43.00 | 70% |
 | Nomads / Tunguska | [Infinity – Nomads – Tunguska Cheerkillers](https://www.ultimatetoyzone.com/product/infinity-nomads-tunguska-cheerkillers/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5007334572134_575.webp)) | **Not supplied** | $50.00 | 70% |
+| Combined Army / O-12 | [Infinity – Combined Army – O-12 – Advance Pack (Convention Exclusive Pre-release)](https://www.ultimatetoyzone.com/product/infinity-combined-army-o-12-advance-pack-convention-exclusive-pre-release/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/3957242789990_614.webp)) | **$5.40** | $18.00 | 70% |
+| NA2 / Mercenaries | [Infinity – NA2 – Libertos Freedom Fighters (Light shotgun) (Blister)](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/4417258717286_757.webp)) | **$6.00** | $20.00 | 70% |
+| O-12 / CodeOne | [Infinity Code One – 0-12 Booster Pack Beta](https://www.ultimatetoyzone.com/product/infinity-code-one-0-12-booster-pack-beta/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5027275571302_129.webp)) | **$9.29** | $31.00 | 70% |
+| PanOceania | [Infinity – PanOceania – Support Pack (Boxed)](https://www.ultimatetoyzone.com/product/infinity-panoceania-support-pack-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/595342721068_547.webp)) | **$7.50** | $25.00 | 70% |
+| ALEPH / Bootleg | [Infinity – Bootleg – Aleph – Penthesilea Amazon Biker Special Edition (Boxed)](https://www.ultimatetoyzone.com/product/infinity-bootleg-aleph-penthesilea-amazon-biker-special-edition-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/595366412332_603.webp)) | **$7.80** | $26.00 | 70% |
+| NA2 / Mercenaries | [Infinity – NA2 – Miranda Ashcroft, Authorized Bounty Hunter (Combi Rifle) (Blister)](https://www.ultimatetoyzone.com/product/infinity-na2-miranda-ashcroft-authorized-bounty-hunter-combi-rifle-blister/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/595376701484_321.webp)) | **$5.40** | $18.00 | 70% |
+| Yu Jing | [Infinity – Yu Jing – Tiger Soldiers (Spitfire / Boarding shotgun) (Blister)](https://www.ultimatetoyzone.com/product/infinity-yu-jing-tiger-soldiers-spitfire-boarding-shotgun-blister/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/595382501420_475.webp)) | **$9.29** | $31.00 | 70% |
+| NA2 / JSA | [Infinity – NA2 – Miyamoto Mushashi Aristeia! Outfit (Boxed)](https://www.ultimatetoyzone.com/product/infinity-na2-miyamoto-mushashi-aristeia-outfit-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/666498760748_760.webp)) | **$9.60** | $32.00 | 70% |
+| Ariadna / TAK | [Infinity – Ariadna – Kazak Spetsnazs (Boxed)](https://www.ultimatetoyzone.com/product/infinity-ariadna-kazak-spetsnazs-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/1377306574892_164.webp)) | **$14.10** | $47.00 | 70% |
 
-**One of every fully priced SKU (31 products):** **USD $653.22** in sale prices, versus **USD $2464.00** in listed original prices — **USD $1810.78** difference (about **73.49%** below original). **32 products are recorded total**; Tunguska Cheerkillers has an original price but no current price in the supplied excerpt, so it is excluded from these totals. This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
+**One of every fully priced SKU (40 products):** **USD $727.60** in sale prices, versus **USD $2712.00** in listed original prices — **USD $1984.40** difference (about **73.17%** below original). **41 products are recorded total**; Tunguska Cheerkillers has an original price but no current price in the supplied excerpt, so it is excluded from these totals. This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
 
 ## Usage / cross-checks
 
@@ -52,6 +61,8 @@
 - The Yu Jing “**Essentals**” spelling is retained from the supplied product title, rather than silently substituting a different edition.
 - **Next Wave Action Pack** and **JSA Reinforcements Pack Alpha** have the advertised 75% label; the **CodeOne Nomads Collection Pack** and **Code One O-12 Collection Pack** have advertised 80% labels; all other products have 70%.
 - The supplied page heading says “Showing 13–24 of 185 results,” but only **11** product entries were present in the excerpt. The unprovided twelfth entry was not inferred or added.
+- The **Advance Pack** is listed as a **convention-exclusive pre-release**; **Penthesilea Amazon Biker** is listed under **Bootleg** as a *special edition*; **Miyamoto Mushashi** is listed in an *Aristeia! outfit*. These are distinct product labels, not claims of current availability or interchangeable sculpts.
+- The vendor title **“0-12 Booster Pack Beta”** is preserved exactly as listed, despite the likely letter O/number 0 ambiguity.
 - **Cassandra Kusanagi (Event Exclusive)** and **Cassandra Kusanagi (Spitfire) (Blister)** are separate retailer SKUs; do not conflate the sculpts. **Endsong Book** is marked as including an exclusive miniature. Preserve these distinctions when comparing versions and box contents.
 - **Tunguska Cheerkillers** lists only its **$50.00 original price** and **70% discount label**; the sale price is not present in the supplied excerpt and is deliberately not inferred. Exclude it from monetary totals until a current price is supplied.
 - Three **Infinity RPG** book products from the supplied page-3 excerpt (Tohaa Supplement, Acheron Cascade Campaign, Nomads Supplement) were **excluded as requested**.
