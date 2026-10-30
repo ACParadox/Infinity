@@ -130,3 +130,18 @@
 | [MetaChemistry #153 — CB Krug 2026 winner](https://open.spotify.com/episode/3VWppA6FkPPN9v001kUS0j) | **2026 practical results** Tankō Disco, Karakuri, deliberate two-list mission split and actual common shell |
 
 **Confidence:** very high for explicitly stated Tanuki/Tankō/a few strong-avoid *profile* opinions, medium for extrapolating repeat usage to a broader meta, low for truly universal **“never take” entire units**. Absent play-rate data, a stronger categorical claim would be invented.
+
+## Whole-unit purchasing audit — avoid the full model? (2026-10-30)
+
+**Whole unit** means the named troop's entire usable current entry, not a weak weapon variant. The recordings do **not** justify a universal all-profile never-buy for Ōban, Shindenbutai or Vanilla JSA. These are **conditional collection deferrals** only.
+
+| Army | Complete miniature/unit to defer | Why / still legitimate use |
+|---|---|---|
+| **Ōban — Saito Tōgan** | **Defer as a first stealth assassin purchase** | [Shepherd Ōban](https://www.youtube.com/watch?v=AhicCreNCUQ) compares him with cheaper Oniwaban29 and useful Ninja KHD26. Saito's **Hidden + Smoke + EXP CC** combo is *distinct*, so buy if the specific entry/smoke assassination is required. |
+| **Ōban — Genbutai** | **Do NOT skip the unit** | [Tactical Awareness](https://open.spotify.com/episode/5EJe58gg1Lyo9xZxff2g75) condemns the **18pt BSG**, but **Engineer, Paramedic, Specialist and NCO Red Fury** are separate jobs that prevent a full-unit ban. |
+| **Shindenbutai — Aïda Swanson** | **Defer the *non-FTO* ambush model/usage**, not every legal profile | [Tactical Awareness Shinden](https://open.spotify.com/episode/7C5EmW5EwRQkHxqjHMopUi) prefers a Raiden HRL for generic traps; the **21pt FTO Minelayer/0 SWC** is a different purchase rationale and legal team piece. |
+| **Shindenbutai — Shurayuki** | **Do not categorically skip** | Some old complaints predate **N5.3 Senku-counting Wildcard**, which creates a new reason for the miniature. |
+| **Vanilla JSA — Sōhei Tsugekitai** | **Defer if you do not build Firefight/Decapitation/Classified utility lists** | [Tactical Awareness](https://open.spotify.com/episode/4IoGC1kGYyuVFhLXOjcEle) questions the legacy model; [WIP12 E186](https://open.spotify.com/episode/5BonmJ8H86R4UCEHvWCXlz) documents an actual player using it for **nonspecialist objectives**. Explicit disagreement rules out a universal skip. |
+| **Vanilla JSA — Kyoshō/Shurayuki** | **No proven all-profile veto** | Both retain niche hacking/command or updated Fireteam/close-combat roles; negative opinions are broad or earlier-epoch, not an exhaustive current-profile comparison. |
+
+**Purchasing advice:** decide first whether a *unique* smoke, engineer, infiltrating or legal Fireteam role is absent from your collection. Only then turn the narrower “avoid” entries into a decision to skip a kit. [All-army shortlist](model-purchase-avoid-summary-2026.md).
