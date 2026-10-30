@@ -154,6 +154,38 @@ This supplements the earlier buyer-lead price table **without overwriting its pr
 
 **Proxy consistency correction:** The pinned TAK roster lists **Frontovik as LI**; if considering the owned TAK Frontovik as a *Scots Guard MI* proxy, confirm exact silhouette/visually comparable armour and explicitly label the **LI→MI mismatch**. Kestrel **Black A.I.R. S2 MI** is a better class-concordant alternative if its tactical armour looks credible. Prefer a Scots Guard dedicated model for regular Fireteam use; Scots Guards' **FTO-only** joining restriction remains unchanged.
 
+## Complete Caledonia N5.3 standard roster — buying audit (23 units)
+
+Directly aligned with the [latest 23-entry roster](../../sectorials/ariadna/caledonian-highlander-army.md), the [Caledonia inventory](../../inventory/caledonia.md) and [TAK inventory](../../inventory/tak.md). `Owned` means real physical bodies recorded there, including clearly named pooled/shared bodies (not additive purchases). This is **not a request to reach maximum AVA**. Optional Intel Spec-Ops and Ariadna Team-Ops are excluded.
+
+| Legal standard unit | CHA AVA / type | Confirmed exact/sculpt pool | Buy versus skip |
+|---|---|---|---|
+| Dozers, Field Engineers | 2 / LI | 1 TAK (shared) | Covered; avoid duplicate |
+| Cadin "FirstStrike" Donn | 1 / WB | 1 CHA | Covered |
+| Traktor Mul | 2 / REM | 2 TAK shared Mul/Kuryer chassis | Covered pooled, no extra |
+| 1st Highlanders S.A.S. | 4 / SK | 1 CHA | 2nd SAS optional |
+| 45th Highlanders Rifles 'Galwegian' | TOTAL / WB | 2 CHA | Wallace-linked swarm may need more; proxy first |
+| 2nd Irregular Cameronians Reg. | 3 / WB | 1 CHA + 2 TAK S6 Dog-Warrior proxies | Enough S6 to cover AVA3 if unallocated |
+| Beasthunters Free Guild | 1 / SK | 1 Kestrel/TAK shared | Covered |
+| Caledonian Volunteers Corps | TOTAL / LI | 3 CHA | Covered; AVA Total != buy to unlimited |
+| 112, Emergency Service (Motorized) | 2 / LI | 1 TAK S4 bike | Covered; not foot 112 |
+| William Wallace | 1 / WB | 0 dedicated | P1 only for Wallace-led builds; Beyond Crimson Stone split |
+| 112, Emergency Service | 2 / LI | 0 foot; 1 motorbike distinct | P3; TAK Kazak Doktor S2 LI proxy or split single |
+| Uxía 'Cherry' McNeill | 1 / SK | 1 CHA | Covered, alternate sculpts only |
+| Warcors | 1 / LI | 1 shared | Covered |
+| Armand 'Le Muet' | 1 / MI | 1 CHA | Covered |
+| Denma Connolly | 1 / WB | 0 dedicated | P1/P2 one if playing warband team; Aftermath split preferred |
+| Caledonian Mormaers | 3 / HI | 2 CHA | No third just to AVA |
+| McMurrough | 1 / WB | 1 CHA S6 | Covered unique character; duplicate cannot field as 2nd McMurrough |
+| 3rd Highlander Grey Rifles | 5 / HI | 3 CHA | No extra by default |
+| Highlander Caterans | 4 / LI | 1 CHA | 2nd optional for 2-sniper table |
+| 9th Wulver Grenadiers | 5 / WB | 1 CHA | More only planned Wulver link |
+| Volunteer Intel Isobel McGregor | 1 / LI | 1 CHA | Covered |
+| The Scots Guards | 5 / MI | 0 dedicated | P1 one; 1–3 only if FTO/camo plan |
+| Wardrivers, Mercenary Hackers | 1 / LI | 1 TAK shared | Covered |
+
+All six current Ariadna buy lists follow the same [Human Sphere Starter Boxes index](https://human-sphere.com/Starter_Boxes) and [Ariadna Starters](https://human-sphere.com/Ariadna_Starters) as edition/box guidance: [TAK](tak-buy-list.md), [Vanilla](vanilla-ariadna-buy-list.md), [Kosmoflot](kosmoflot-buy-list.md), [USAriadna](usariadna-buy-list.md) and [Merovingienne](merovingienne-buy-list.md). Avoid purchasing models already represented in TAK/Caledonia or counted as suitable shared proxies.
+
 ## Sources and refresh checklist
 
 Retail evidence checked 2026-10-30: [Miniatures Market requested category — 404](https://miniatures.market/product-category/infinity/); [Ultimate Toy Zone Scots listing — blocked](https://www.ultimatetoyzone.com/product/infinity-ariadna-scots-guard/); [401 Cateran](https://store.401games.ca/products/infinity-ariadna-highlander-cateran-t2-sniper-2024); [401 Aftermath](https://store.401games.ca/products/infinity-aftermath-characters-pack); [Tistaminis Scots](https://tistaminis.com/collections/ariadna/products/infinity-ariadna-scots-guard-new); [Tistaminis Cateran](https://tistaminis.com/collections/ariadna/products/infinity-ariadna-highlander-cateran-t2-sniper); [Tistaminis Ariadna catalog](https://tistaminis.com/collections/ariadna?page=2); [Abyss Ariadna catalog](https://abyssgamestore.ca/collections/infinity-ariadna-1); [Human Sphere starters](https://human-sphere.com/Ariadna_Starters), [Operations boxes](https://human-sphere.com/Operations_Boxes), [limited edition reference](https://human-sphere.com/Limited_Edition); [2026 Alpha/Beta release contents](https://www.brueckenkopf-online.com/2026/infinity-caledonian-combat-force-repack/); [Asmodee 2026 Support Pack](https://shop.asmodee.ca/cor281141-1204).
