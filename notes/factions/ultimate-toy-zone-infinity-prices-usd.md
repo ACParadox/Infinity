@@ -1,9 +1,9 @@
 # Ultimate Toy Zone — Infinity price reference (USD)
 
 **Recorded:** 2026-10-30  
-**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, 6, and 7.  
+**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, 6, 7, and 8.  
 **Currency:** **USD**, as specified by the user. No CAD conversion.  
-**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The first and page-7 batches did not provide product-specific links or images; pages 2–6 included user-supplied product and image links. Missing URLs are not invented. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
+**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The first and page-7 batches did not provide product-specific links or images; pages 2–6 and 8 included user-supplied product and image links. Missing URLs are not invented. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
 **Price convention:** *Sale* is the listed current price; *Original* is the crossed-out original price. Discount labels reflect the source listing.
 
 ## Quoted products
@@ -84,8 +84,20 @@
 | Combined Army / Reinforcements | Infinity – Combined Army – Reinforcements – Caskuda WCD Armored Jump Operator | **$16.50** | $55.00 | 70% |
 | NA2 / Mercenaries | Infinity – NA2 – Diggers Armed Prospectors (Chain Rifle) | **$9.29** | $31.00 | 70% |
 | NA2 / Druze | Infinity – NA2 – Druze Shock Teams | **$15.89** | $53.00 | 70% |
+| Yu Jing | [Infinity – Yu Jing – Taowu, Mastermind And Schemer (Pulzar)](https://www.ultimatetoyzone.com/product/infinity-yu-jing-taowu-mastermind-and-schemer-pulzar/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9225383805239_828.webp)) | **$6.60** | $22.00 | 70% |
+| Haqqislam / Reinforcements | [Infinity – Reinf. Special Deterrance Group Azra’il (Spitfire Ap) – Haqqislam](https://www.ultimatetoyzone.com/product/infinity-reinf-special-deterrance-group-azra-il-spitfire-ap-haqqislam/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9225384722743_798.webp)) | **$11.70** | $39.00 | 70% |
+| Nomads | [Infinity – Zeros – Nomads](https://www.ultimatetoyzone.com/product/infinity-zeros-nomads/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9225385181495_750.webp)) | **$18.59** | $62.00 | 70% |
+| ALEPH / Steel Phalanx | [Infinity – Aleph – Steel Phalanx Expansion Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-aleph-steel-phalanx-expansion-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9047530733879_947.webp)) | **$14.39** | $48.00 | 70% |
+| NA2 / Mercenaries | [Infinity – NA2 – Fiddler Aristeias Ex-Toymaker](https://www.ultimatetoyzone.com/product/infinity-na2-fiddler-aristeias-ex-toymaker/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9047531356471_988.webp)) | **$8.69** | $29.00 | 70% |
+| ALEPH / Combined Army | [Infinity – Aleph/Combined Army – Caskuda vs Maximus Pack](https://www.ultimatetoyzone.com/product/infinity-aleph-combined-army-caskuda-vs-maximus-pack/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9152437387575_443.webp)) | **$29.10** | $97.00 | 70% |
+| Accessories / TAGs | [Infinity – Tactical Armoured Gears](https://www.ultimatetoyzone.com/product/infinity-tactical-armoured-gears/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8870220235063_762.webp)) | **$12.15** | $40.50 | 70% |
+| Combined Army | [Infinity – Combined Army – Expansion Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-combined-army-expansion-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8915020251447_579.webp)) | **$21.30** | $71.00 | 70% |
+| ALEPH / CodeOne | [Infinity CodeOne – Aleph – Phoenix (Heavy Rocket Launcher)](https://www.ultimatetoyzone.com/product/infinity-codeone-aleph-phoenix-heavy-rocket-launcher/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8560837886263_499.webp)) | **$6.90** | $23.00 | 70% |
+| Graphic novel / Media | [Infinity – Aftermath – Graphic Novel Limited Edition](https://www.ultimatetoyzone.com/product/infinity-aftermath-graphic-novel-limited-edition/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989214867767_585.webp)) | **$12.90** | $43.00 | 70% |
+| Haqqislam / Reinforcements | [Infinity – Reinforcements – Haqqislam – Hassassin Fireteam Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989215949111_581.webp)) | **$19.20** | $64.00 | 70% |
+| PanOceania / Reinforcements | [Infinity – Reinforcements – Panoceania – Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-reinforcements-panoceania-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989216407863_931.webp)) | **$21.00** | $70.00 | 70% |
 
-**One of every priced SKU (74 products):** **USD $1293.61** in sale prices, versus **USD $4664.00** in listed original prices — **USD $3370.39** difference (about **72.26%** below original). This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
+**One of every priced SKU (86 products):** **USD $1476.13** in sale prices, versus **USD $5272.50** in listed original prices — **USD $3796.37** difference (about **72.00%** below original). This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
 
 ## Usage / cross-checks
 
@@ -101,7 +113,8 @@
 - **Cassandra Kusanagi (Event Exclusive)** and **Cassandra Kusanagi (Spitfire) (Blister)** are separate retailer SKUs; do not conflate the sculpts. **Endsong Book** is marked as including an exclusive miniature. Preserve these distinctions when comparing versions and box contents.
 - **Tunguska Cheerkillers:** updated to **USD $15.00 sale / $50.00 original** (70%) based on the user's follow-up. The box contains **4 models**: **Cheerkiller (Submachine Gun) ×1**, **Cheerkiller (MULTI Pistol) ×1**, **Cheerkiller (Shock CC Weapon) ×1**, and **Grenzer (Missile Launcher) ×1**. This is **three Cheerkillers plus one Grenzer**, not four Cheerkillers. The full box is included in the new totals.
 - **Page 7 (73–84 of 185):** 12 user-supplied price listings; product-specific URLs and image URLs were not supplied, so these are stored as unlinked product names rather than guessing URLs. **Libertos (Submachine Gun)** is a separate listing from the earlier **Libertos (Light shotgun)**.
-- Three **Infinity RPG** book products from the supplied page-3 excerpt (Tohaa Supplement, Acheron Cascade Campaign, Nomads Supplement) were **excluded as requested**.
+- Three **Infinity RPG** book products from the supplied page-3 excerpt (Tohaa Supplement, Acheron Cascade Campaign, Nomads Supplement) were **excluded as requested**. The page-8 batch contained no RPG books. **Aftermath – Graphic Novel Limited Edition** is included as a **graphic novel**, not an RPG book or miniature set; exclude it when calculating miniature-only shopping baskets.
+- **Page 8 (85–96 of 185):** 12 listings were supplied, all preserved with their source product and image URLs.
 - This is a **retailer price reference, not an ownership inventory or a buy list**. For purchase planning, reconcile against the appropriate [inventory](../../inventory/) and existing faction [buy lists](./). For individual box contents, check a reliable product or boxed-set reference rather than inferring models from these titles.
 - See also [Miniatures Market — JSA prices (USD)](./jsa-miniatures-market-prices-usd.md) for a separate retailer snapshot.
 
