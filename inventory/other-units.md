@@ -18,7 +18,7 @@
 
 | User collection | Model | Owned | Roster / ownership clarification |
 |---|---|---:|---|
-| OSS / ALEPH | **Asura** | **1** | Asuras are in the [OSS roster](../sectorials/aleph/operations-subsection.md). Existing [Kestrel](./kestrel.md) and [Military Orders](./military-orders.md) inventory notes suggest an **Asura as a proxy for Dart** (Dart dedicated model remains 0). **This is the physical Asura model referred to by that proxy suggestion**, not an additional Dart sculpt. |
+| OSS / ALEPH | **Asura** | **1** | Asuras are in the [OSS roster](../sectorials/aleph/operations-subsection.md). The earlier Asura-for-Dart suggestion in [Kestrel](./kestrel.md) and [Military Orders](./military-orders.md) was **superseded**: Asura is HI whereas Dart is SK. **Owned Naga (S2 SK)** is a much closer match. Dart dedicated model remains 0. |
 | OSS / ALEPH | **Naga** | **1** | Listed as **Nagas** in [OSS](../sectorials/aleph/operations-subsection.md). |
 | OSS / ALEPH | **Trisha N33** | **1** | The user's OSS/ALEPH collection label is preserved, but **Trisha N33 appears in the [Vanilla ALEPH roster](../sectorials/aleph/aleph.md), not the pinned current OSS roster**. Owning her does not make her a legal ordinary OSS selection. |
 | OSS / ALEPH | **Garuda Tacbot** | **1** | Listed as **Garuda Tacbots** in [OSS](../sectorials/aleph/operations-subsection.md). |
@@ -28,7 +28,7 @@
 
 ## Proxy and army-list accounting
 
-- **Asura → Dart:** one owned Asura can represent **Dart** as a clearly declared and acceptable proxy in a Kestrel/Military Orders game; Dart itself remains **0 dedicated**. The **Sharvara K9 peripheral remains 0** in the PanO inventories. Using Asura as Dart does not increase physical model count.
+- **Naga → Dart (preferred):** owned **Naga (S2 SK)** matches Dart's S2 SK and stealthy appearance better than **Asura (S2 HI)**. Dart remains **0 dedicated** and **Sharvara K9 remains 0**; the canine needs a separate compatible physical representation. Changing donor does not alter model totals.
 - Other ALEPH models may be possible proxies for suitable minis, but **no new proxy commitments are inferred** solely from ownership.
 - **Trisha N33** is owned but is **not an OSS standard-roster selection** under the current repository N5.3 reference. The ownership grouping above does not change roster legality.
 - **Caskuda's Staldron** is not counted; ask/confirm separately if a physical Staldron is owned.
@@ -54,4 +54,4 @@ These figures are **distinct physical models**, not sums of each army's usable b
 - [Vanilla ALEPH current unit reference](../sectorials/aleph/aleph.md)
 - [Vanilla Combined Army roster](../sectorials/combined-army/vanilla-combined-army.md)
 - [Vanilla PanOceania roster](../sectorials/panoceania/panoceania.md)
-- [Kestrel inventory](./kestrel.md) — Asura proxy suggestion for Dart
+- [Kestrel inventory](./kestrel.md) — corrected Naga proxy recommendation for Dart
