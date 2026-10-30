@@ -212,6 +212,25 @@ The counts below are the **same models** reported in other inventory files, not 
 6. **Do not buy Varuna Starter to field three Kamau in vanilla** or Reinforcements Beta to field Quinn/Shona as themselves. The models may still be cost-effective multi-use proxies if genuinely discounted.
 7. **Do not buy a second Joan or Maximus to fill two roster lines**. The roster contains variant/character entries with a mutual-exclusion rule; the physical collection already includes one each of Joan and Maximus TAG.
 
+## Cross-sectorial buying consolidation — updated October 30, 2026
+
+Before placing an order, compare **six additional PanO forces**: [Kestrel buy list](kestrel-buy-list.md), [Military Orders buy list](military-orders-buy-list.md), [Neoterra](nca-buy-list.md), [WinterFor](svalarheima-winter-force-buy-list.md), [Varuna](varuna-buy-list.md), and [Acontecimento](acontecimento-buy-list.md). Each references the **same physical collection** and the [same USD snapshots](panoceania-miniatures-market-prices-usd.md) / [Ultimate Toy Zone](ultimate-toy-zone-infinity-prices-usd.md); a proposed purchase in one document must not be treated as owned in another.
+
+| Product | Vanilla role and other-army value | Do not purchase twice |
+|---|---|---|
+| **Karhu trio**, MM USD $17.40 → CAD $24.33 U | **Vanilla AVA2**, **WinterFor AVA5**; substantial multi-army utility | One 3-sculpt box covers initial needs; 3rd not simultaneously legal in vanilla |
+| **Helot four-pack**, MM USD $19.80 → CAD $27.69 U | **Vanilla AVA2**, **Varuna AVA3** | One box for both; different list doesn't create second physical copy |
+| **Swiss/Aquila/Nisse Essentials Booster Alpha**, Tistaminis Hamilton **CAD $43 V** | **All 3 vanilla legal**; Swiss/Aquila also NCA, Nisse also WinterFor | Avoid older Beyond Icestorm Swiss duplicate if this booster obtained |
+| **Reinforcements Beta**, UTZ USD **$13.20 → CAD $18.46 U** | Only **ORC** standard vanilla; **ORC+Quinn+Shona all legal in NCA and WinterFor**, **ORC+Quinn in Varuna** | Good *multi-sectorial* kit, poor vanilla-only kit; don't import NCA legality into vanilla |
+| **PanO Headquarters Pack**, UTZ USD **$18 → CAD $25.17 U** | **Kyle Hawkins + Curator are MO legal** (Hawkins also SWF); **Grand Master is an HVT, not a standard vanilla unit** | One pack adds 2 dedicated missing MO sculpts, but **none** of the 3 models is a standard vanilla PanO choice as named |
+| **Kestrel Expansion Gamma**, UTZ USD **$16.20 → CAD $22.66 U** | Black A.I.R., Griffin, Magistrate—all **already owned** in Kestrel | No ordinary additional model required for Kestrel or vanilla |
+| **Cutter**, MM old USD $25.20/$29.70 (different versions) or 401 Games Toronto/Vaughan **CAD $47.95 V** | **S7** stealth TAG, eligible vanilla and Varuna but not WinterFor; existing S6 TAGs do **not** substitute | One Cutter can serve both sectorials |
+| **Jotum**, old metal vs 2025 new SKU | WinterFor-specific **S7** TAG; not legal generic vanilla roster | Don't purchase as another vanilla TAG and don't proxy with an existing S6 Tikbalang |
+
+**Edition sources:** [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes), [PanO Starters](https://human-sphere.com/PanOceania_Starters), [Operations](https://human-sphere.com/Operations_Boxes). Actual box contents and excluded promo figures are detailed above. **No special-edition Joan, Icestorm Nisse, Bolt Cosplay or exclusive ORC is necessary for standard profiles.** Proxy only with [matching silhouette and credible same-class appearance](../miniature-proxy-guidelines.md), and avoid same-roster donor identities.
+
+
+
 ## Shopping scenarios (alternatives, not one combined cart)
 
 | Scenario | Approx. subtotal | Benefit / caution |
