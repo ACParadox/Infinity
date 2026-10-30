@@ -21,14 +21,14 @@
 | **P1** | **Swiss Guard: 1** | 0 | Independent Hidden Deployment HMG/ML; current vanilla go-to. **Choose one bundle**, not both Beyond Icestorm and Essentials Booster Alpha unless collecting variants. |
 | **P1** | **Karhu: 1–2** | 0 | Feuerbach/NCO plus Engineer is strong **unlinked** support/attack choice; current vanilla **AVA 2**. Three-sculpt Karhu box is useful but third is optional proxy, not a legal third Karhu. |
 | **P1 / proxy first** | **Zulu-Cobra: 1, then possibly 2** | 0 | Sensor/Jammer or KHD/Pitcher midfield. **Proxy with one of 3 owned Trinitarian Tertiaries** (S2) before paying for discontinued Varuna sculpts. |
-| **P2** | **Croc Man: 1** | 0 | Hidden/Infiltration specialist and distinct use versus forward-deployed Zulu. Owned **Locust S2** or Trinitarian can be casual stand-in; the Locust is independently legal too, so no simultaneous duplication. |
+| **P2** | **Croc Man: 1** | 0 | Hidden/Infiltration specialist and distinct use versus forward-deployed Zulu. Prefer **MO Trinitarian S2 SK**: owned Locust is itself a legal vanilla unit and is **not a recommended Croc donor**, even if unused. |
 | **P2** | **Motorized Bounty Hunter: 1** | 0 | 8–9-point Irregular bike complements Joan; **proxy owned motorized Knight of Montesa** on S4 bike base (Montesa is not a standard vanilla choice). |
 | **P2 / collector** | **Aquila Guard: 1** | 0 | MSV3/Strategos/HMG niche. Useful if a good deal, but command/visor role is relatively expensive; **buy the three-model Essentials Booster** if also wanting Swiss + Nisse. |
 | **P2 / collector** | **Nisse: 1** | 0 | MSV2 independent sniper/HMG option; overlaps Swiss, Black A.I.R., Hetkari and Knauf. Vanilla AVA **2**, no need for 3. |
 | **P3 / test** | **Cutter: 1** | 0 | Distinct apex S7 camouflaged TAG, but **Tik, Squalos Mk-II and Maximus TAG are already owned**. Buy for the Cutter playstyle, not merely to obtain a good TAG. |
-| **P3 / test** | **Patsy Garnett: 1** | 0 | FO/NCO + grenade/E/M utility; **Fireteam Master does nothing in vanilla**. Proxy from an unused S2 Hospitaller/Santiago/Griffin as appropriate. |
+| **P3 / test** | **Patsy Garnett: 1** | 0 | FO/NCO + grenade/E/M utility; **Fireteam Master does nothing in vanilla**. Proxy from an unused **S2 MO Hospitaller/Santiago (HI)**; avoid vanilla-legal Griffin. |
 | **P3 / bulk only** | **Reinforcements Pack Alpha** | 0 Bolts, 0 Blocker, 0 Blade-Ops | **5 of 6 figures** are normal vanilla roster units (2 Bolts, 1 Blocker, 2 Blade-Ops); Agnes is **not** on vanilla's standard roster. Buy if the unusually low lead price is real and you want several of those models. |
-| **Skip by default** | **Reinforcements Pack Beta** | 0 ORC, but other cheap HI proxies exist | Only its **ORC HMG** is a standard vanilla roster selection; Richard Quinn and Shona Carano are **not**. Existing MO knights can represent an ORC (S2). |
+| **Skip by default** | **Reinforcements Pack Beta** | 0 ORC, but other cheap HI proxies exist | Only its **ORC HMG** is a standard vanilla roster selection; Richard Quinn and Shona Carano are **not**. Existing non-vanilla MO HI knights (Hospitaller/Santiago S2) can represent an ORC. |
 | **Skip by default** | **Another TAG, Fugazi, Palbot, Tech-Bee, Mulebot, Peacemaker/Bulleteer or Fennec** | Broad existing coverage | Existing collection already covers primary REM chassis, engineer/doctor support and premium gun options. Only buy extras for a specific simultaneously fielded list. |
 
 ## Price and store comparison (CAD conversion retained beside source amount)
@@ -81,18 +81,18 @@
 
 | Missing vanilla troop | Use an existing body / alternative | Specific caveat |
 |---|---|---|
-| **Helot x2** | 2 of **Kestrel Jackals** (owned 4), S2; or the two [Ultimate Toy Zone Libertós](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) / [SMG](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-submachine-gun/) | **Libertós and Jackals aren't vanilla selections**; only as declared Helot proxies. Individual Heliot sculpts are optional if proxy clearly identified. |
-| **Zulu-Cobra** | One or two **Military Orders Trinitarians** (owned 3), S2; **Locust** (owned 1) if not taken as Locust | KHD/Jammer/Sensor loadouts require clear token/roster identification; no double use of a figure. |
-| **Croc Man** | Unused **Trinitarian**, **Locust**, or **Scarecrow** S2 | Hidden/TO-camo representative should be distinguishable from Zulu. |
-| **Nisse** | **Black A.I.R.**, **Knauf**, **Hetkari** or an unused PanO S2 rifle/sniper | Rifle/long-gun type preference and actual S2 silhouette; a distinct mini from the Swiss proxy. |
+| **Helot x2** | Prefer two visually suitable humanlike S2 irregular troopers such as the two [Ultimate Toy Zone Libertós](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) / [SMG](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-submachine-gun/) | Libertós are not vanilla selections; if using Kestrel Jackals, first check the physical sculpt genuinely resembles a Helot infantryman, not just S2. Individual Heliot sculpts are optional if proxy clearly identified. |
+| **Zulu-Cobra** | One or two **Military Orders Trinitarians** (owned 3), S2; **do not use Locust as first-choice donor** (it is itself legal in vanilla) | KHD/Jammer/Sensor loadouts require clear token/roster identification; no double use of a figure. |
+| **Croc Man** | Unused **MO Trinitarian (S2 SK)**; avoid vanilla-legal Locust/Scarecrow donors | Hidden/TO-camo representative should be distinguishable from Zulu. |
+| **Nisse** | Unused **MO Infirmarer (S2 MI)** with appropriate long gun; vanilla-legal Black A.I.R./Hetkari are confusing donors, and HI Hetkari is also the wrong troop class | Rifle/long-gun type preference and actual S2 silhouette; a distinct mini from the Swiss proxy. |
 | **Swiss Guard** | S2 heavy-armour MO **Hospitaller**, **Santiago**, **Knight of Justice**, or similar; ideally acquire dedicated Swiss for hidden threat | Hidden Deployment model may remain off-table initially, but do not conflate the two selections on roster. |
-| **Aquila Guard** | S2 **Hospitaller/Justice/Griffin** or similar armoured PanO miniature | Avoid an expensive extra HI sculpt for occasional Strategos/visor lists. |
-| **Patsy Garnett / ORC / Bolt** | Unused S2 **Hospitaller, Santiago, Griffin, Fennec or Crosier**, matching visible armour silhouette when possible | Patsy's Fireteam Master has no vanilla FT benefit. Avoid proxies that also represent a simultaneously fielded legal model. |
+| **Aquila Guard** | S2 **MO Hospitaller/Justice** (HI); **avoid Griffin**, which is itself a selectable vanilla unit | Avoid an expensive extra HI sculpt for occasional Strategos/visor lists. |
+| **Patsy Garnett / ORC / Bolt** | **Patsy/ORC (HI):** unused MO Hospitaller/Santiago (HI); **Bolt (MI):** unused MO Infirmarer (MI). Avoid vanilla-legal Griffin/Fennec donors | Patsy's Fireteam Master has no vanilla FT benefit. Avoid proxies that also represent a simultaneously fielded legal model. |
 | **Motorized Bounty Hunter** | **Motorized Knight of Montesa** (owned 1; bike S4) | Knight of Montesa not in current generic vanilla roster, but its *miniature* is an appropriate motorbike proxy. |
-| **Blade-Ops / Blocker** | S2 **Fennec, Firefly, Scarecrow or Crosier** by gun/pose, or use Alpha figures if the price lead is genuine | Blade Engineer may be worth its own recognizable model for REM-heavy lists. |
+| **Blade-Ops / Blocker** | **MO Crosier or Order Sergeant (S2 LI)** by equipment/pose; avoid vanilla-legal Fennec/Firefly/Scarecrow donors, or use Alpha figures if the price lead is genuine | Blade Engineer may be worth its own recognizable model for REM-heavy lists. |
 | **Cutter** | **No size-correct S7 TAG listed in the PanO inventories**; for casual tests use an **approved S7 footprint/marker** before buying | **Tikbalang/Squalos/Maximus are S6**. Do not casually substitute them on their existing smaller bases while claiming standard S7 geometry. |
-| **Karhu** | S2 **Griffin/Hetkari**, or armoured MO marksman/engineer model until acquiring Karhu box | Dedicated Feuerbach is nice for clear ARO identification; don't buy third Karhu just because set contains 3. |
-| **Fusilier** | One of the **6 Fennec Fusiliers**, of which **max 5 may be Fennecs at once** | Fennec and Fusilier are distinct unit entries in vanilla. Spare physical Fennec body can count as a Fusilier in the list. |
+| **Karhu** | **MO Infirmarer (S2 MI)**, if unused and sufficiently equipped; Griffin/Hetkari are vanilla-legal HI and poor donors | Dedicated Feuerbach is nice for clear ARO identification; don't buy third Karhu just because set contains 3. |
+| **Fusilier** | Unused **MO Crosier / Order Sergeant (S2 LI)** instead; Fennecs are independently legal in vanilla, so avoid a confusing same-roster donor | Fennec and Fusilier are distinct vanilla entries; **Fennec is not a preferred Fusilier donor** despite spare physical bodies. Prefer S2 LI MO Crosier/Order Sergeant. |
 
 ## Coverage audit — all 51 standard vanilla roster entries
 
@@ -127,13 +127,13 @@ The counts below are the **same models** reported in other inventory files, not 
 | Croc Men | 2 | 0 | **1 target** or proxy |
 | Squalos Mk-II | 2 | 1 | Covered initially; second is niche |
 | Fugazi Dronbot | 2 | Shared Dronbot pool 4 | Covered |
-| Fennec Fusiliers | 5 | 6 | **Over AVA**, surplus physical body proxyable |
+| Fennec Fusiliers | 5 | 6 | **Over AVA**, but donor is vanilla-legal; avoid using as another vanilla unit |
 | BCA Magistrates | 1 | 1 | Covered; use CoC or Strategos LT |
 | Mulebots | 2 | 2 | Covered |
 | Blade-Ops | 2 | 0 | Alpha box or proxy; Engineer if specific need |
 | Aquila Guard | 1 | 0 | Optional 1, often via Essentials Booster |
 | Drummers | 2 | 1 | Covered for one, second niche |
-| Fusiliers | Total | 0 *dedicated*; six Fennec bodies available | Proxy using spare Fennec; no default bulk purchase |
+| Fusiliers | Total | 0 *dedicated*; six Fennec models owned but **not preferred as Fusilier proxies** (both units legal in vanilla) | Prefer S2 LI MO Crosier/Order Sergeant (not vanilla); no default bulk purchase |
 | Redeye | 1 | 1 | Covered; no second vanilla Redeye |
 | Hetkari Shooters | 1 | 1 | Covered |
 | ORC Troops | 2 | 0 | Proxy MO knight before buying |
