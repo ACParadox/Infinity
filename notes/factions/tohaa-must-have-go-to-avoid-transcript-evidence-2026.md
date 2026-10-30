@@ -113,7 +113,7 @@ These are **collection priorities**, judged across the current unit's usable pro
 
 | Entire unit/model | Buying verdict | Why and when to reconsider |
 |---|---|---|
-| **Kiel-Saan (49pt)** | **Skip by default — strongest Tohaa whole-model candidate, disputed** | [Robert Shepherd Tohaa 2026 (RS26)](https://www.youtube.com/watch?v=ylv7BfI0iGI) considers its attack price/link restrictions too steep for modern Tohaa; Sukeul, Ioann Bann and Samsa provide more efficient routes. **MX26** reports an actual player who uses it. Buy if that specific Reex/Chaksa assault plan is desired, not simply for a “must-have” melee piece. |
+| **Kiel-Saan (49pt)** | **Skip by default — strongest Tohaa whole-model candidate, disputed** | [Robert Shepherd Tohaa 2026 (RS26)](https://www.youtube.com/watch?v=93L3POjJKkU) considers its attack price/link restrictions too steep for modern Tohaa; Sukeul, Ioann Bann and Samsa provide more efficient routes. **MX26** reports an actual player who uses it. Buy if that specific Reex/Chaksa assault plan is desired, not simply for a “must-have” melee piece. |
 | **Hatail Aelis Keesan (25pt)** | **Defer — low priority, niche** | RS26 criticizes a premium KHD without robust local hacking support. Buy when **WIP14, Sensor, D-Charges or K1/AP Classified coverage** fills a missing role. |
 | **Kumotail (21pt)** | **Defer if recovery/classifieds are already covered** | RS26 sees limited broad-list demand; combined Doctor+Engineer plus Chaksa Servants gives distinct reach that a generic gun cannot replace. |
 | **Chaksa Auxiliary as a unit family** | **Do not skip** | Only its **24pt Neurocinetics HMG** is strongly criticized; cheap **10pt Baggage/Sensor/HFT** versions are genuine role-efficient purchases. |
