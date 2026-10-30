@@ -1,5 +1,8 @@
 # Miniatures Market — O-12 price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 22 listings, USD $397.50.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30  
 **Source:** User-provided O-12 listings attributed to [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). No product-specific URLs were supplied for this batch; none are fabricated below.  
 **Currency:** **USD**, explicitly specified by the user. Prices are per advertised **product/box**, not per trooper.  
@@ -42,3 +45,17 @@
 ## Other Miniatures Market price snapshots
 
 - [JSA price reference (USD)](jsa-miniatures-market-prices-usd.md) — separate faction catalogue, same currency and provenance rules.
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**4 products added, USD $61.90.** Compared normalized product name and exact USD amount against all other existing faction price references. These records were absent from previous snapshots. Quoted Add to cart is a **pasted catalogue label, not independently verified live stock**. No individual seller URLs/photos were included.
+
+| Broad-catalogue # | Product | Price USD | Source description / contents | Pasted status | Edition, contents and legal-roster caveat |
+|---:|---|---:|---|---|---|
+| 187 | **Betatroopers, Remote Activity Unit Beta** | $23.50 | Box contains: 1x Knight Of Santiago Specialist Operative | Add to cart | **Seller discrepancy:** Betatroopers Remote Activity Unit Beta title, but excerpt says '1x Knight Of Santiago Specialist Operative' instead of a Betatrooper. DO NOT assume box contents match title without SKU/photo. |
+| 195 | **Polaris Team Beast Pack** | $16.80 | After all these years loyally serving Haqqislam, people seem to have forgotten that Saladin was loaned by ALEPH via O-12 to the Bourak authorities. The... | Add to cart | **Seller discrepancy:** Polaris Team Beast Pack title, but description contains Saladin backstory and no Polaris figures. Physical pack contents unknown. |
+| 197 | **Varangian Guard (Submachine Gun)** | $8.70 | The Varangians have made a place for themselves among the elite mercenaries of the Human Sphere. Because even though they wear uniforms and carry more... | Add to cart | Varangian Guard SMG alternate to older Boarding Shotgun price record in O-12 file. |
+| 367 | **Exclusive Parvati, Circle League Star miniature** | $12.90 | 1 x Exclusive Parvati | Add to cart | Exclusive Parvati / Aristeia! sculpt. Parvati is currently in Vanilla O-12 roster, but exclusive sculpt is not a new unique army unit. |
+
+**Consolidated one-of-each listed-product total for this file: USD $397.50 (22 listings).** Original source group 18 at USD $335.60 + 4 at USD $61.90. Some minis represent collector versions or alternate sculpts rather than additional units.
