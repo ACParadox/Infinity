@@ -1,0 +1,142 @@
+# Morat Aggression Forces — inventory-aware miniature buy list (Infinity N5.3)
+
+**Prepared 2026-10-30 · committed on `main`.** Purchase recommendations **do not update owned inventory**. Army legality, troop categories, availability and Fireteams: [canonical Morat Aggression Forces N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md), Army revision `7.26246.158`, 2026-09-03 roster, verified 2026-10-15. Tactical best/skip ratings from [source-audited Combined Army model choices](combined-army-must-have-go-to-avoid-transcript-evidence.md); profile criticism is **not** an entire unit ban. Read [repository silhouette/appearance/identity proxy policy](../miniature-proxy-guidelines.md). All owned models were checked in [other units](../../inventory/other-units.md), [Caledonia](../../inventory/caledonia.md), [Kestrel](../../inventory/kestrel.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [Military Orders](../../inventory/military-orders.md), [TAK](../../inventory/tak.md), and [Shindenbutai](../../inventory/shindenbutai.md). **Only ONE Caskuda and ONE Armand exist**; no full CA army has been reported.
+
+## Collection verdict and most useful buys in order
+
+**No dedicated Morat models are recorded owned.** Your existing Caskuda **is not Morat-legal**, and is not an acceptable silhouette/appearance substitute for a Morat HI/TAG. The 2022 Morat Action Pack is **nine physical figures, all nine Morat legal**, not the modern generic Combined Army 10-model box (only Rodok and Dāturazi on the normal Morat chart). A core of 3 Vanguard, smoke Dāturazi, a Rodok/Yaogat shooter, Rindak/Dartok specialist and Kurgat or Med-Tech support is a safer first army than buying Sogarat+Raicho+Bultrak together.
+
+| Priority | Product or unit / quantity | Present physical ownership | Why buy, skip or try a proxy |
+|---|---|---|---|
+| **P1** | Morat Action Pack (9) | 0 | 3 Vanguard, Rasyat, Kaitok, Kyosot, Raktorak, Dartok, Zerat = **9/9 Morat legal**. UTZ USD $25 archived versus 401 CAD $137.95 sold out; ensure actual contents and shipping. |
+| **P1** | Dāturazi smoke + Yaogat Spitfire or sniper | 0 | Classic Morat smoke/MSV2 engine; MM Yaogat MSR single USD $7.90. Avoid generic cheap Yaogat Panzerfaust profiles as primary shooters, not all Yaogats. |
+| **P1/P2** | Dartok Hacker/Engineer, Kurgat, Rindak | 0 | First specific specialist/order support. Morat Fireteam Pack includes 2 Suryat + 1 Kurgat + TinBot, **three soldiers**, not 4 orders. |
+| **P2** | Morat Expansion Alpha (3) | 0 | Zerat BSG, Taryot BSG (REM), Rindak Paramedic. All three legal. MM USD $25.30 / UTZ USD $19.80. |
+| **P2** | Morat Expansion Beta (4 physical) | 0 | Oznat FTO, Tyrok, Preta and Skurgot miniature; Skurgot **not a named standard-roster unit**, likely ancillary. Do not falsely count four standalone roster entries. |
+| **P2** | Rodoks (2–3), one Krakot | 0 | Two Rodok + one Krakot legal team better default than two Krakot+one Rodok per reviewed build. First Krakot visually alien Morat LI. |
+| **P2** | Oznat + Hungries 2 Gakis / 2 Pretas | 0 | Human Sphere/ MM four hungry creatures per box, plus Oznat if Fireteam Master build. Each model correct creature silhouette/base and no fake 4 Regular Orders. |
+| **P2/P3** | Sogarat LT/NCO pair **or** Raicho/Bultrak TAG | 0 | Pick one costly armoured project first; 2025 tactical guide likes Sogarat leadership but Raicho TAG distinct. Specific S5/S6/S7 sizes verified before proxy. |
+| **Skip** | Kornak solely because old automatic LT; third Suryat gun; full armour collection | 0 | Kornak and Suryat remain viable, but proxy-test if generic gun already supplied by Yaogat/Sogarat. First smoke and specialists precede duplicates. |
+
+## Primary saved Miniatures Market and Ultimate Toy Zone prices (USD -> CAD)
+
+Saved source files: [Miniatures Market Combined Army USD Markdown](combined-army-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD Markdown](ultimate-toy-zone-infinity-prices-usd.md), and for eligible mercenaries [Miniatures Market Mercenary USD](mercenary-miniatures-market-prices-usd.md). The first has **104 recorded prices**, including limited editions, accessories and **scenic bases without models**. **Every original USD price below is U = user-supplied October 30, 2026 retailer catalogue snapshot**, not verified live orderability or today's checkout. Conversion uses **1 USD = 1.3985 CAD** (2026-10-29 benchmark), rounded to two decimals, before **shipping, GST/QST, import brokerage, duties and credit-card FX spread**. The location of MM's **warehouse/dispatch country is unknown**; UTZ is an online seller with **unverified dispatch country/city**. Don't confuse `miniatures.market` with `miniaturemarket.com`. Product-specific seller URLs are given *only when supplied*, and saved source Markdown preserves missing-item provenance. Prices always refer to **one listed complete box/product**, not price per physical miniature. Merchandise names do not determine N5 legality.
+
+| Saved product and edition | Original USD | Approximate CAD | Seller/location and listing | Quantity, sculpt generation, legality, overlapping inventory |
+|---|---:|---:|---|---|
+| **[Infinity – Combined Army – Morat Aggression Forces Action Pack](https://www.ultimatetoyzone.com/product/inf** | USD $25.00 | **CAD $34.96** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-morat-aggression-forces-action-pack/) · Ultimate Toy Zone online; dispatch location unverified | 2022 9-model Morat Action Pack **9/9 legal**, UTZ archived USD $25.00. |
+| **Morat Vanguard Infantry** | USD $20.50 | **CAD $28.67** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Vanguard Infantry line box, duplicates 3 Vanguard if owning Action Pack; source figure count unspecified. |
+| **Morat Expansion Pack Beta** | USD $27.50 | **CAD $38.46** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Morat Expansion Beta: Oznat + Tyrok + Preta + Skurgot = 4 physical, only three named troop types. |
+| **Morat Expansion Pack Alpha** | USD $25.30 | **CAD $35.38** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Morat Expansion Alpha: Zerat, Taryot **REM**, Rindak HI. |
+| **[Infinity – Combined Army – Morat Expansion Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-com** | USD $19.80 | **CAD $27.69** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-morat-expansion-pack-alpha/) · Ultimate Toy Zone online; dispatch location unverified | UTZ alternate USD $19.80 saved price for Alpha, compare MM $25.30. |
+| **Morat Fireteam Pack** | USD $24.30 | **CAD $33.98** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Morat Fireteam 2 Suryat+1 Kurgat+TinBot = 3 regular soldiers. |
+| **SURYAT (Heavy Rocket Launcher)** | USD $7.50 | **CAD $10.49** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Suryat HRL single; duplicate specific weapon in Fireteam pack. |
+| **SURYAT (Heavy Machine Gun)** | USD $7.50 | **CAD $10.49** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Suryat HMG single; duplicate specific weapon in Fireteam pack. |
+| **Morat Tarlok Pack** | USD $19.20 | **CAD $26.85** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Tarlok Pack 3: Yaogat Spitfire + Rodok BSG? plus another as Human Sphere box; verify last member against SKU. |
+| **[Infinity – Combined Army – Morat Tarlok Pack](https://www.ultimatetoyzone.com/product/infinity-combined-arm** | USD $18.00 | **CAD $25.17** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-morat-tarlok-pack/) · Ultimate Toy Zone online; dispatch location unverified | UTZ alternate Tarlok box USD $18, exact contents check. |
+| **Yaogat Strike Infantry (Multi Sniper Rifle)** | USD $7.90 | **CAD $11.05** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Yaogat MSR single, important smoke-linked MSV2 option. |
+| **Yaogat Strike Infantry** | USD $25.40 | **CAD $35.52** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Yaogat multi-model pack, figure count unverified. |
+| **Daturazi Witch-Soldiers** | USD $25.40 | **CAD $35.52** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Dāturazi box, note actual body count before making per-model comparison. |
+| **[Infinity – Combined Army – Daturazi Witch Soldiers](https://www.ultimatetoyzone.com/product/infinity-combin** | USD $27.60 | **CAD $38.60** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-daturazi-witch-soldiers/) · Ultimate Toy Zone online; dispatch location unverified | UTZ Dāturazi box cheaper/same? USD $27.60 vs MM $25.40, shipping differs. |
+| **The Hungries: Gakis and Pretas** | USD $21.10 | **CAD $29.51** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Hungries box **2 Gakis + 2 Pretas = 4 creature figures**, not 4 Regular orders. |
+| **Raicho ArmoRed Brigade New** | USD $27.30 | **CAD $38.18** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Raicho new sculpt one TAG, distinct from older $33.50 sculpt. |
+| **Raicho Armored Brigade** | USD $33.50 | **CAD $46.85** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Older Raicho sculpt/price; do not assume both models provide new unit identity. |
+| **Sogarat Tempest Regiment (HMG)** | USD $12.70 | **CAD $17.76** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Sogarat HMG single; one Sogarat may be enough until LT/NCO pair tested. |
+| **Maakrep Trackers Unit HMG** | USD $6.20 | **CAD $8.67** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Maakrep HMG **not Morat legal** on current roster; seller's CA bucket irrelevant. |
+| **Dire Foes Mission Pack 10: Slave Trophy** | USD $19.80 | **CAD $27.69** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Dire Foes 10: Anyat (Morat) + Hasht (Shasvastii) + Zabuk HVT (not combat trooper) = one Morat. |
+| **Reinforcements: Combined Army Pack Alpha** | USD $44.40 | **CAD $62.09** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Reinforcements Exrah Alpha: distinct reinforcement bodies, **not automatic Morat main roster**. |
+| **Krakot Renegades (2 SMG, Chest Mine)** | USD $14.00 | **CAD $19.58** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Krakot single Morat LI, compare team composition before duplicates. |
+
+## Canadian retail fallbacks — displayed CAD and store city
+
+Canadian storefront location **does not imply physical warehouse location**. Prices/stock are October 2026 retailer catalogue checks and should be re-verified before payment. A sold-out price is a comparison **not proof of current availability**; for OOP older sets consider used/box splits.
+
+| Product | Displayed Canadian price | Canadian retailer / location | Stock, quantity and suitability |
+|---|---:|---|---|
+| Morat Action Pack nine | **CAD $137.95** | [401 Games Combined Army category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Sold out at indexed check; compare UTZ archived USD $25 before freight. |
+| Morat Expansion Alpha three | **CAD $65.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Sold out; UTZ/MM USD snapshots exist. |
+| Morat Expansion Beta four figures | **CAD $72.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Sold out; Skurgot ancillary. |
+| Morat Fireteam Pack 3+TinBot | **CAD $60** | [Tistaminis](https://tistaminis.com/collections/combined-army) — Hamilton | In stock in source; only three Order-generating troopers. |
+| Raicho TAG (new) | **CAD $75** | [Tistaminis](https://tistaminis.com/collections/combined-army) — Hamilton | More on the way; not a live order claim. |
+| Bultrak TAG | **CAD $60** | [Tistaminis](https://tistaminis.com/collections/combined-army) — Hamilton | Low stock; optional distinct armour plan. |
+
+## Human Sphere box-content, old-versus-new and limited-edition audit
+
+[Human Sphere Starter Boxes index](https://human-sphere.com/Starter_Boxes) -> [Combined Army Starters](https://human-sphere.com/Combined_Army_Starters) is the physical box reference, with [Operations Boxes](https://human-sphere.com/Operations_Boxes) for **Operation Wildfire** and **Beyond Wildfire**. Canonical N5.3 roster above overrides box labels, CodeOne era, old printed loadout/edition, and marketing subgroup. **A renamed, reissued or repacked kit does not automatically mean the sculpts changed.** Explicit event-exclusive/prerelease figures and resin scenic bases do not count as additional standard unit identities or troop bodies. For multipiece boxes, a physical dog/pet/peripheral, TAG auxiliary, TinBot, token or mission HVT is **not another Regular-order trooper**.
+
+| Actual box/edition | Models and physical pieces | Legal coverage, user inventory and resculpt/LE warning |
+|---|---|---|
+| **2022 Morat Action Pack REF 281616-0934** | 3 Vanguard + Rasyat + Kaitok + Kyosot + Raktorak + Dartok + Zerat = **9 figures** | **9/9 Morat**, not the 2026 generic CA 10. Older Morat 6-starter has different figures. |
+| **Older Morat six-starter (OOP)** | 3 Vanguard, Oznat, Raktorak, Sogarat | All Morat-legal but different older sculpts; 3 Vanguard and Raktorak overlap current Action Pack. |
+| **Morat Expansion Alpha REF 281623-0976** | Zerat Boarding Shotgun, Taryot Boarding Shotgun, Rindak Paramedic | 3/3 Morat; Taryot is REM, do not substitute S2 infantry without silhouette check. |
+| **Morat Expansion Beta REF 281628-1009** | Oznat FTO Vulkan, Tyrok T2, Preta, Skurgot | 4 physical miniatures; **Skurgot not a named independent current roster entry**, check ancillary meaning; don't overcount. |
+| **Morat Fireteam REF 281621-0955** | Suryat HRL, Suryat HMG, Kurgat BSG, TinBot | 3 soldier bodies + TinBot accessory. |
+| **Morat Tarlok Pack** | Yaogat Spitfire + 2 other Morat troopers, confirm actual vendor SKU names | Do not fabricate contents beyond trusted source excerpt. |
+| **Morat Hungries** | 2 Gakis + 2 Pretas | 4 distinct WB creature bodies; combined AVA4 for each, Fireteam/Oznat access conditional. |
+| **Combined Army generic Action Pack 10** | 3 Unidrons + Rodok + Dāturazi + Umbra + Nexus + Noctifer + Victor + Ko Dali | Only **Rodok + Dāturazi** Morat standard-roster legal as named (**2/10**). |
+| **Scenic bases and LE Caskuda** | Base-only MM $4.50, Caskuda special resin sculpt | Neither supplies a Morat TAG; Caskuda owned but **not playable Morat**. |
+
+## Proxy suggestions using already owned miniatures — strict policy
+
+[Proxy guidelines](../miniature-proxy-guidelines.md) insist on **exact target S including base diameter and silhouette height**, comparable unit class and appearance (LI/MI/HI/SK/WB/REM/TAG/VH), clearly distinguishable weapons/role, and **avoiding donor miniatures of units also selectable in this current force**. One physical mini can only represent **one** simultaneous combatant. Cross-army reuse is legal only by named roster; collection inventory is **not cumulative across buy lists**.
+
+| Target model | Real owned donor/proxy option | Acceptability and restrictions |
+|---|---|---|
+| **Human-looking S2 LI** (Next Wave Harbingers, Gearheads, Wraith team specialists, or alien-looking troop when plausible) | **Kestrel Fennecs x6 or MO Crosiers x3**, **OSS Trisha N33 x1** as LI specialist | Potential **B/C** for new-human Next Wave, but **poor for unmistakably alien Morat/Shasvastii/Exrah faces**. Model's original name must be nonlegal in the current target roster. |
+| **Humanoid S2 MI/HI** such as some armoured Morat/Human-exrah troops | **Kestrel Fireflies x3, Black A.I.R. x1 (MI)** or **Kestrel Griffins x2, Hetkari x1, MO Hospitallers x4 (HI)** | Only if actual target S **is S2** and armour silhouette plausible; **don't use human S2 knight for an alien S5 HI**. Alien anatomy and distinctive head/armour matter. |
+| **S2 SK** Caliban/Speculo/Shrouded/Malignos/Contrabandolero | **OSS Naga x1, TAK Scouts x2, Caledonia SAS x1** (S2 SK models) | Base/class match if target really S2. **Aliens/impersonation look different**; dedicated Speculo/Caliban sculpt preferable for frequent use. Never use a Naga that is elsewhere concurrently fielded. |
+| **Creature/warband** Gaki, Preta, Taigha, Tekdraken | **Four pooled S5 Ariadna dog miniatures** (2 USAriadna dog figures rebased S5 +2 Caledonia dogs) **only if the target is precisely S5 and credibly animal-like** | Matching S and archetype both necessary. Different alien creature anatomy may make proxy unsuitable. **2 TAK Dog-Warriors are S6**, not an S5 beast, and no canine proxy can stand for human/robot HI by base alone. |
+| **S1 Slave Drone** | **2 ALEPH Yudbots and 2 PanO Palbots** shared models | Could proxy a S1 servant if size/appearance acceptable; don't infer Staldron's exact S from these. Each simultaneous servant needs own model. |
+| **CA drones and Sartroids** | **4 PanO Dronbots**, **2 ALEPH Rebots**, **2 PanO Mulebots** (physical pools, not counts per CA drone name) | Only when **target exact S and recognizable alien robot shape** match. Unidrons may be **S2 robotic infantry** and **NOT** same model as S3/S4 drone; verify before assigning any REM donor. Ranter/Puzzler are distinct robots. |
+| **Owned Caskuda** (Vanilla/Onyx only) | **1 exact Caskuda S7**, no Staldron reported | Field as Caskuda where legal, **not a general TAG proxy**. Special Caskuda collector version/base only don't add ownership. Staldron ancillary needs its own correct physical body if current profile requires it. |
+| **Owned Armand Le Muet** (Vanilla only) | **1 exact Armand (Caledonia inventory)** | Use same unique existing figure; no extra purchase. Armand is **not** standard Morat/Shasvastii/Onyx/Next Wave roster legal. |
+| **Avatar/Raicho/Bultrak/Sphinx/Overdron/Xeodron/Ironside/Juggernaut, Skyhound VH** | No assured owned matching **alien TAG/aircraft**. Existing PanO TAGs and Caskuda cannot automatically stand in | **Buy/borrow appropriate sculpt or skip**. Aircraft VH ≠ Combat Jump TAG, and S6 and S7 have different base/height. Miniatures with unique transformed/deployed form require correctly represented forms. |
+| **A human Warcor to Glyph Warcor** | The **one human Warcor** recorded from Kestrel | A **proxy**, **not an exact Glyph Warcor alien miniature**. Similar S2 LI reporter pose may be acceptable but visually human; announce and use each body once. |
+
+## Current N5.3 standard roster — ownership and purchasing (35 legal entries)
+
+The following is a full roster audit, excluding separately listed **Spec-Ops/Team-Ops and Exrah Reinforcements** unless a *same named unit* appears in the normal roster. “0 dedicated” means no owned exact Combined Army model, **not that no allowable proxy exists**. AVA is a **limit not a target**. Fireteam access depends on exact current profile and legal formation, including FTO and required-choice limits.
+
+| Current N5.3 legal unit | AVA | Troop category | Existing owned / borrowed model pool | Purchase judgment |
+|---|---|---|---|---|
+| Kurgat Regiment of Assault Engineers | 3 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Krakot Renegades, Morat Fugitives | 3 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Bultrak, Mobile Armored Regiment | 2 | TAG | 0 exact relevant TAG/VH | No faithful visually similar same-S alien TAG/VH owned. Caskuda **not** general-purpose TAG proxy; buy dedicated or skip. |
+| Q-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Sogarat Tempest Regiment | 3 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Dāturazi Witch-Soldiers | 5 | WB | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Zerat Special Missions Regiment | 3 | SK | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Raktorak, Morat Sergeant Major | 2 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Dropsuit Taryot | 3 | REM | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| T-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| R-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| The Hungries: Gakis | 4 | WB | 0 named; **4 pooled S5 Ariadna dog models** potential animal donors only | Verify target S and alien/creature look. **Two TAK S6 Dog-Warriors are NOT S5**; do not invent creature count. |
+| Yaogat Strike Infantry | 5 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Rasyat Diplomatic Division | 3 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Rindak Emergency Brigade | 2 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| E-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Rodok, Morat Armed Imposition Detachment | 5 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Treitak Anyat | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| The Hungries: Pretas | 4 | WB | 0 named; **4 pooled S5 Ariadna dog models** potential animal donors only | Verify target S and alien/creature look. **Two TAK S6 Dog-Warriors are NOT S5**; do not invent creature count. |
+| Kornak Gazarot, Superior Warrior-Officer | 1 | MI | 0 dedicated character | Buy one only if its exact role repeatedly planned; alternative event/older sculpt does not add legal simultaneous copies. |
+| Zabuk, Morat Enslavers | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Faredak, MAF TAG Support Pilots | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Tyrok Hunters | 2 | SK | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| M-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Slave Drones | 2 | REM | 0 exact; **2 ALEPH Yudbots + 2 PanO Palbots** donor pool | Requires S1 servant body separately, verify actual source/target silhouette and alien robot look. |
+| Morat Vanguard Infantry | TOTAL | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Suryat Assault Heavy Infantry | 5 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Kyosot Killing Platoon | 2 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Oznat, Morat Hunting Regiment | 2 | WB | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Med-Tech Obsidon Medchanoids | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Ikadron Batroid | 2 | REM | 0 exact; pooled PanO/ALEPH REM donors conditional | Different alien robot morphology and target S may make donor unsuitable: choose dedicated sculpt when commonly fielded. |
+| Glyph Warcors, Ur Hegemony Journalists | 1 | LI | **0 Glyph model; human Warcor x1** shared Kestrel | Conditional S2 LI alien Glyph proxy only, **not** identical sculpt/alien morphology. |
+| Dartok Cybercombat Team | 2 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Kaitok Shock Regiment | 3 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Raicho Armored Brigade | 2 | TAG | 0 exact relevant TAG/VH | No faithful visually similar same-S alien TAG/VH owned. Caskuda **not** general-purpose TAG proxy; buy dedicated or skip. |
+
+## Whole-unit skips and cross-sectorial purchase reuse
+
+No whole-unit hard veto: **Yaogat low-cost Panzerfaust profiles**, an all-Krakot team in place of two Rodoks, unplanned generic Suryat long guns are **profile/team** concerns. **Oznat+Hungries** can be very worthwhile if build explicitly exploits them. **Kornak** historical LT automatic claim is contested by **Sogarat** LT/NCO alternatives; don't call Kornak universally weak. Standard Morat AVA, not seller label, controls bought miniatures; no Caskuda here.
+
+Compare the other [Vanilla](vanilla-combined-army-buy-list.md), [Morats](morat-aggression-forces-buy-list.md), [Shasvastii](shasvastii-buy-list.md), [Onyx](onyx-buy-list.md), [Next Wave](next-wave-buy-list.md) guides and [model-purchase-avoid evidence](combined-army-must-have-go-to-avoid-transcript-evidence.md) before purchasing. One sculpt bought for two lists is **one physical miniature**, not two. No `inventory/` files were changed.
