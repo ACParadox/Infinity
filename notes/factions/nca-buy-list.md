@@ -91,6 +91,8 @@ This file distinguishes **recommended purchases**, **covered by owned models**, 
 
 ## Reuse / proxy map: prioritize your existing miniatures
 
+Apply the [miniature proxy guidelines](../miniature-proxy-guidelines.md): same S and base/height, comparable troop category and physical look, and preferably a donor **not selectable in NCA**. Candidates lacking those qualities are not default proxy recommendations.
+
 | Desired NCA representation | Physical model already on hand | Constraint / purchase avoidance |
 |---|---|---|
 | **Fusiliers (1–5)** | **Fennec Fusiliers: 6 owned** | **Fennec as a unit is NOT on NCA roster**, but six S2 physical Fennec bodies make excellent Fusilier proxies, including 1 required in Fusilier Fireteams. No need to buy Fusilier troop packs unless wanting weapon-specific sculpts. |
