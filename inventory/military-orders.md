@@ -7,9 +7,9 @@
 ## Summary
 
 - **35/35 distinct standard Military Orders unit types covered**, matching all **36** standard Army roster entries after merging **Joan of Arc** and **Joan of Arc v2** into **one model / one ownership entry**. Only one Joan may be fielded, per the reference.
-- **30 MO-specific physical miniatures** are reported beyond the Kestrel collection.
-- **15 physical miniatures already recorded under Kestrel** are reusable in MO: 1 Tikbalang, 1 Crux Father-Knight, 2 Mulebots, 2 shared Bulleteer/Peacemaker chassis, 4 shared Dronbots, 2 Palbots, 1 Warcor, 1 Tech-Bee, and 1 Sharvara K9 peripheral.
-- **45 total reported physical models relevant to MO**, counting the shared Kestrel bodies once (including the 1 Sharvara peripheral). The combined known Kestrel + MO physical collection is **78 distinct miniatures**, not 48 + 45. The model count excludes any auxiliary/Crabbot miniatures whose ownership was not specified.
+- **31 MO-specific physical miniatures** are reported beyond the Kestrel collection: 30 standard unit miniatures plus 1 Auxbot.
+- **15 physical miniatures already recorded under Kestrel** are reusable in MO: 1 Tikbalang, 1 Crux Father-Knight, 2 Mulebots, 2 shared Bulleteer/Peacemaker chassis, 4 shared Dronbots, 2 Palbots, 1 Warcor, 1 Tech-Bee, and 1 Crabbot.
+- **46 total reported physical models relevant to MO**, including 1 Auxbot and 1 Crabbot but no Sharvara K9. The combined known Kestrel + MO physical collection is **79 distinct miniatures**, not 48 + 46; the 15 shared Kestrel models (including Crabbot) are counted once. Other unspecified auxiliaries are not assumed owned.
 - **4 MO unit types have no dedicated model:** Indigo Brother Konstantinos, Military Order Curators, Knight Hospitaller Kyle Hawkins, Dart. The user suggested potential proxies for all four.
 - AVA is the unit's maximum fielding availability, **not a suggested purchase target**. The `Gap to AVA` column is mathematical only and does not imply a unit should be bought.
 
@@ -41,7 +41,7 @@
 | Crusader Brethren | 1 | 3 | 2 | Dedicated MO | — |
 | Peacemaker Armbots | Shared 4 | 2 | — | Reused from Kestrel | Two-model common Armbot pool across Bulleteer/Peacemaker |
 | Motorized Knights of Montesa | 1 | 2 | 1 | Dedicated MO | Separate from foot Montesa |
-| Seraphs | 1 | 2 | 1 | Dedicated MO | Auxbot (some profiles) and Crabbot miniature counts not provided |
+| Seraphs | 1 | 2 | 1 | Dedicated MO | Auxbot 1 and Crabbot 1 recorded separately; not additional Seraph TAGs |
 | Indigo Brother Konstantinos | 0 | 1 | 1 | Proxy candidate / no dedicated model | Proxy proposal: Hospitaller or Santiago |
 | Knight Hospitaller Kyle Hawkins | 0 | 1 | 1 | Proxy candidate / no dedicated model | Latest user quantity 0; proxy proposed from Kestrel or another MO unit |
 | Padre-Inquisidor Mendoza | 1 | 1 | 0 | Dedicated MO | — |
@@ -51,7 +51,15 @@
 | Knight Commander | 1 | 1 | 0 | Dedicated MO | — |
 | Fugazi Dronbot | Shared 4 | 1 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Tech-Bees | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Tech-Bee as Kestrel |
-| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; proposed proxy Asura/OSS. Sharvara K9 peripheral exists separately (1) |
+| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; proposed proxy Asura/OSS. Sharvara K9 peripheral owned: 0 |
+
+## Auxiliary and peripheral miniatures
+
+| Model | Owned | Collection accounting | Used with / notes |
+|---|---:|---|---|
+| Auxbot | **1** | MO-added miniature; included in the 31 MO-specific total | Can represent an eligible Seraph AUXBOT_2 or Escort Sergeant AUXBOT, but only one at a time. |
+| Crabbot | **1** | Shared with Kestrel; included in 15 reused bodies, not counted twice | TAG pilot; a single physical miniature available across both sectorials. |
+| Sharvara K9 | **0** | Not included in physical totals | Peripheral for Dart's 42-point loadout; Dart herself is also 0 owned. |
 
 ## Shared inventory brought over from Kestrel
 
@@ -65,7 +73,8 @@
 | Palbots | 2 | Same models as Kestrel. |
 | Warcor | 1 | Same model as Kestrel. |
 | Tech-Bee | 1 | Same model as Kestrel. |
-| Sharvara K9 Peripheral | 1 | Same peripheral as in Kestrel. **Dart remains 0**. The MO reference also has a Dart profile with Sharvara K-9 (profile 4). |
+| Crabbot | 1 | Same Crabbot as in Kestrel, counted once. Can represent the Crabbot when a relevant TAG deploys it. |
+| Sharvara K9 Peripheral | 0 | No Sharvara model in the physical collection. **Dart remains 0**. The MO reference includes Dart's Sharvara K-9 profile (option 4). |
 | Dart | 0 | No dedicated miniature in either inventory; Asura/OSS proxy proposed. |
 
 No other Kestrel-only unit is represented as an official Military Orders roster entry merely because the user owns it. Its miniature may be used as a **clearly declared proxy** if appropriate and accepted.
@@ -77,7 +86,7 @@ No other Kestrel-only unit is represented as an official Military Orders roster 
 | **Military Order Curator** | 0 / AVA 1 | Another PanO model | A clearly distinguishable proxy, e.g. an available PanO figure; no dedicated model presently recorded. |
 | **Indigo Brother Konstantinos** | 0 / AVA 1 | Hospitaller or Santiago | Reuse one S2 knight miniature as Konstantinos; that miniature cannot also be a Hospitaller/Santiago in the same list. |
 | **Knight Hospitaller Kyle Hawkins** | 0 / AVA 1 | Another Kestrel or MO unit | Choose an identifiable model/proxy. **0** is authoritative (revised user count). |
-| **Dart** | 0 / AVA 1 | Asura or OSS | Proxy for Dart; existing Sharvara K9 model is a *separate peripheral*, not a Dart miniature. |
+| **Dart** | 0 / AVA 1 | Asura or OSS | Dart proxy needed; Sharvara K9 peripheral is also **0 owned** and would need its own model/proxy for Dart's Sharvara loadout. |
 
 **Proxy collisions:** A knight used to proxy Konstantinos, Kyle or an extra Teutonic Knight cannot also count as its original unit simultaneously. Similar constraints apply to a Kestrel model used as an MO proxy. All proxies need to satisfy the applicable silhouette and event/opponent requirements.
 
@@ -97,11 +106,12 @@ The reference indexes **Joan of Arc (ID 20)** and **Joan of Arc v2 / Mobility Ar
 - **Crusader Brethren: 1/3**, **Infirmarers: 1/3**, **Seraphs: 1/2**, and **Motorized Knights of Montesa: 1/2**. Below AVA but not intrinsically missing.
 - **Trinitarians: 3/3**, **Black Friars: 2/2**, **Knight Commander: 1/1**, **Raveneye: 1/1**, **Gabriele De Fersen: 1/1**, **Mendoza: 1/1**, and **foot Montesa: 1/1** already reach their listed AVA.
 - **Tikbalang of Montesa: 1/1** in MO, using the same TAG as Kestrel. No second Tikbalang needed for MO AVA.
-- **Seraph/Order Sergeant accessories:** the Army file includes an **AUXBOT_2** on one Seraph loadout, a **Crabbot** and **AUXBOT-equipped Escort Sergeants**. The user did **not** provide the quantities of those physical accessory/peripheral miniatures. They are *unverified*, not silently counted as owned or missing.
+- **Seraph/Order Sergeant accessories:** **1 Auxbot** and **1 Crabbot** are owned. One Auxbot cannot simultaneously represent multiple Auxbots required by separate profiles; additional bodies are only needed for lists fielding them at once. Other unspecified accessory models are not assumed owned.
+- **Dart's Sharvara K9:** **0** owned; the previous Kestrel inventory's 1 has been corrected to 0 for both inventories.
 - **Optional modes:** `Confessor Spec-Ops` and `Confessor Team-Ops` are not part of the 35-type standard roster; dedicated models were not reported. They are not standard matched-play purchase gaps.
 
 ## Related references
 
-- [Kestrel physical inventory](./kestrel.md) — shared PanO REM/TAG bodies and existing Sharvara K9.
+- [Kestrel physical inventory](./kestrel.md) — shared PanO REM/TAG bodies and the single Crabbot; Sharvara K9 is 0.
 - [Military Orders current reference](../sectorials/panoceania/military-orders.md) — 36 source roster entries, AVA and canonical Fireteam limits.
 - [PanO must-have / go-to / avoid research](../notes/factions/panoceania-must-have-go-to-avoid-transcript-evidence.md) — source-backed purchase prioritization, not a requirement to fill AVA.
