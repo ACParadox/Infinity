@@ -1,9 +1,9 @@
 # Ultimate Toy Zone — Infinity price reference (USD)
 
 **Recorded:** 2026-10-30  
-**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, 6, 7, and 8.  
+**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, 6, 7, 8, and 9.  
 **Currency:** **USD**, as specified by the user. No CAD conversion.  
-**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The first and page-7 batches did not provide product-specific links or images; pages 2–6 and 8 included user-supplied product and image links. Missing URLs are not invented. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
+**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The first and page-7 batches did not provide product-specific links or images; pages 2–6, 8, and 9 included user-supplied product and image links. Missing URLs are not invented. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
 **Price convention:** *Sale* is the listed current price; *Original* is the crossed-out original price. Discount labels reflect the source listing.
 
 ## Quoted products
@@ -96,8 +96,18 @@
 | Graphic novel / Media | [Infinity – Aftermath – Graphic Novel Limited Edition](https://www.ultimatetoyzone.com/product/infinity-aftermath-graphic-novel-limited-edition/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989214867767_585.webp)) | **$12.90** | $43.00 | 70% |
 | Haqqislam / Reinforcements | [Infinity – Reinforcements – Haqqislam – Hassassin Fireteam Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989215949111_581.webp)) | **$19.20** | $64.00 | 70% |
 | PanOceania / Reinforcements | [Infinity – Reinforcements – Panoceania – Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-reinforcements-panoceania-pack-alpha/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8989216407863_931.webp)) | **$21.00** | $70.00 | 70% |
+| Ariadna | [Infinity – Ariadna – Patchers, Structural Response Team](https://www.ultimatetoyzone.com/product/infinity-ariadna-patchers-structural-response-team/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8338720751927_714.webp)) | **$17.09** | $57.00 | 70% |
+| JSA / NA2 | [Infinity – NA2 – JSA – O-Yoroi Kidobutai](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-o-yoroi-kidobutai/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8338721800503_792.webp)) | **$15.60** | $52.00 | 70% |
+| Dire Foes / Mission pack | [Infinity – Dire Foes – Mission Pack 12 – Troubled Theft](https://www.ultimatetoyzone.com/product/infinity-dire-foes-mission-pack-12-troubled-theft/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8216065048887_978.webp)) | **$11.70** | $39.00 | 70% |
+| Combined Army / Morats | [Infinity – Combined Army – Daturazi Witch Soldiers](https://www.ultimatetoyzone.com/product/infinity-combined-army-daturazi-witch-soldiers/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8261559714103_562.webp)) | **$27.60** | $92.00 | 70% |
+| ALEPH / CodeOne | [Infinity CodeOne – Aleph – Booster Pack Beta](https://www.ultimatetoyzone.com/product/infinity-codeone-aleph-booster-pack-beta/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8261559910711_735.webp)) | **$16.80** | $56.00 | 70% |
+| Nomads / Corregidor | [Infinity – Nomads – Tomcats](https://www.ultimatetoyzone.com/product/infinity-nomads-tomcats/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8172115198263_710.webp)) | **$13.80** | $46.00 | 70% |
+| Ariadna / CodeOne | [Infinity CodeOne – Ariadna – Uxia McNeill (Boarding Shotgun)](https://www.ultimatetoyzone.com/product/infinity-codeone-ariadna-uxia-mcneill-boarding-shotgun/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8180640579895_653.webp)) | **$6.60** | $22.00 | 70% |
+| ALEPH / CodeOne | [Infinity CodeOne – Aleph – Remotes Pack](https://www.ultimatetoyzone.com/product/infinity-codeone-aleph-remotes-pack/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8033498792247_219.webp)) | **$18.00** | $60.00 | 70% |
+| NA2 / Mercenaries | [Infinity – NA2 – McMurrough, Mercenary Dog-Warrior](https://www.ultimatetoyzone.com/product/infinity-na2-mcmurrough-mercenary-dog-warrior/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8180664467767_166.webp)) | **$14.10** | $47.00 | 70% |
+| NA2 / Mercenaries | [Infinity – NA2 – Wardrivers (Hacker)](https://www.ultimatetoyzone.com/product/infinity-na2-wardrivers-hacker/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/8117360656695_498.webp)) | **$6.00** | $20.00 | 70% |
 
-**One of every priced SKU (86 products):** **USD $1476.13** in sale prices, versus **USD $5272.50** in listed original prices — **USD $3796.37** difference (about **72.00%** below original). This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
+**One of every priced SKU (96 products):** **USD $1623.42** in sale prices, versus **USD $5763.50** in listed original prices — **USD $4140.08** difference (about **71.83%** below original). This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
 
 ## Usage / cross-checks
 
@@ -115,6 +125,7 @@
 - **Page 7 (73–84 of 185):** 12 user-supplied price listings; product-specific URLs and image URLs were not supplied, so these are stored as unlinked product names rather than guessing URLs. **Libertos (Submachine Gun)** is a separate listing from the earlier **Libertos (Light shotgun)**.
 - Three **Infinity RPG** book products from the supplied page-3 excerpt (Tohaa Supplement, Acheron Cascade Campaign, Nomads Supplement) were **excluded as requested**. The page-8 batch contained no RPG books. **Aftermath – Graphic Novel Limited Edition** is included as a **graphic novel**, not an RPG book or miniature set; exclude it when calculating miniature-only shopping baskets.
 - **Page 8 (85–96 of 185):** 12 listings were supplied, all preserved with their source product and image URLs.
+- **Page 9:** Included 10 Infinity miniature/mission-pack listings. Excluded the **Rubiks Gift Set** (not an Infinity game miniature product) and **Infinity Objectives ITS Objectives Pack Alpha** as specifically requested; neither is included in the totals. The **NA2 / JSA O-Yoroi Kidobutai** is a distinct retailer SKU from the previously recorded **O-Yoroi Kidobutai TAG Pack (Essentials)**; do not treat these as an automatic duplicate or assume identical contents.
 - This is a **retailer price reference, not an ownership inventory or a buy list**. For purchase planning, reconcile against the appropriate [inventory](../../inventory/) and existing faction [buy lists](./). For individual box contents, check a reliable product or boxed-set reference rather than inferring models from these titles.
 - See also [Miniatures Market — JSA prices (USD)](./jsa-miniatures-market-prices-usd.md) for a separate retailer snapshot.
 
