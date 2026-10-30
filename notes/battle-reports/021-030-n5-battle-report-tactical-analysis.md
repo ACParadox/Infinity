@@ -28,14 +28,14 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 
 **Report:** [Infinity the Dante — Corregidor Satellite Report](https://www.youtube.com/watch?v=c3uOxexgUm0). **N5.3 / ITS18**, Sep 12–13, 2026. **Result:** 9th of about 58 according to narrator. **Five missions:** custom Raid the Kazureibu, Evacuation, Uplink Center, Critical Intervention, Last Launch. **Opponents mentioned:** Morat Aggression Forces, an Ariadna/Caledonian Wallace–Cameronian attack, Vanilla Combined Army (Kaskuda), and others not fully identified in the transcript.
 
-- **[Player view]** Double Bearcat specialist package:** a **Killer Hacker/Boarding Shotgun Bearcat** threatens enemy hacker networks, while a **Paramedic Bearcat** can perform CivVac/Classified work. Movement and entry angles are the point: the pair provides two routes for missions requiring a human specialist to reach a distant HVT. The narrator particularly praises them for **Raid, Evacuation and Last Launch**.
-- **[Player view]** Jaguar Smoke + Intruder MSV sniper + Jazz + Mobile Brigada HMG** are complementary: shoot through Smoke with a visor or use **White Noise with a non-visor attacker**. **Moran Repeaters + Jazz + Vertigo Guided Missile** can tax opposing movement without spending many Orders actually firing Guided missiles. The *threat* to Spotlight/Guide matters.
-- **[Player view]** Jaguars + Lobo Disco Baller + Diablo/McMurrough** are a second, more aggressive assault/vision-control package, sometimes using **Shift/Shifter** for specialist support. An alternative **Volkstok + Territorial Engineer + Tac-Aware Stempler** configuration is suggested after the tournament, **not established as played/winning**.
-- **[Observed]** vs Morats:** **Rindak/Dartok, Kornak/Yaogat and Rodok/Daturazi** combined fast midrange attacking with suppression near an active target. A Bearcat risked a suicidal scan to convert scarce Orders into mission progress. Morats can contest close quarters/objectives without relying solely on long ARO guns.
-- **[Observed]** vs Ariadna wolves:** **Wallace, McMurrough, Cameronians and Mormaer/Isobel** created difficult attack vectors, but limited CivVac-qualified specialists meant the dog attack did not automatically score. Corregidor used **Coyote E/Mitter/state control** on an armored piece and a **Bearcat Paramedic** to perform the actual evacuation.
-- **[Observed]** vs Combined:** **Kaskuda + Dartok + Bit & Kiss + Speculo** stressed the Corregidor network. The narrator calls **single-source Jazz/Spotlight** a weakness: if Jazz is eliminated, an otherwise excellent Moran/Vertigo network loses much of its effectiveness.
-- **[Inference]** ** Corregidor Surface fits **mobility-heavy HVT/CivVac** and **vision-control** packets, conditional on retaining Bearcats and multiple ways past long-range AROs. It is **not** a blanket counter to Morats or Combined.
-- **[Caution]** ** The narrator explicitly says **Triangulated Fire + Disco Baller** legality was disputed and **he did not use it**. Do not cite it as an established legal N5.3 combo.
+- **[Player view]** Double Bearcat specialist package: a **Killer Hacker/Boarding Shotgun Bearcat** threatens enemy hacker networks, while a **Paramedic Bearcat** can perform CivVac/Classified work. Movement and entry angles are the point: the pair provides two routes for missions requiring a human specialist to reach a distant HVT. The narrator particularly praises them for **Raid, Evacuation and Last Launch**.
+- **[Player view]** Jaguar Smoke + Intruder MSV sniper + Jazz + Mobile Brigada HMG are complementary: shoot through Smoke with a visor or use **White Noise with a non-visor attacker**. **Moran Repeaters + Jazz + Vertigo Guided Missile** can tax opposing movement without spending many Orders actually firing Guided missiles. The *threat* to Spotlight/Guide matters.
+- **[Player view]** Jaguars + Lobo Disco Baller + Diablo/McMurrough are a second, more aggressive assault/vision-control package, sometimes using **Shift/Shifter** for specialist support. An alternative **Volkstok + Territorial Engineer + Tac-Aware Stempler** configuration is suggested after the tournament, **not established as played/winning**.
+- **[Observed]** vs Morats: **Rindak/Dartok, Kornak/Yaogat and Rodok/Daturazi** combined fast midrange attacking with suppression near an active target. A Bearcat risked a suicidal scan to convert scarce Orders into mission progress. Morats can contest close quarters/objectives without relying solely on long ARO guns.
+- **[Observed]** vs Ariadna wolves: **Wallace, McMurrough, Cameronians and Mormaer/Isobel** created difficult attack vectors, but limited CivVac-qualified specialists meant the dog attack did not automatically score. Corregidor used **Coyote E/Mitter/state control** on an armored piece and a **Bearcat Paramedic** to perform the actual evacuation.
+- **[Observed]** vs Combined: **Kaskuda + Dartok + Bit & Kiss + Speculo** stressed the Corregidor network. The narrator calls **single-source Jazz/Spotlight** a weakness: if Jazz is eliminated, an otherwise excellent Moran/Vertigo network loses much of its effectiveness.
+- **[Inference]**  Corregidor Surface fits **mobility-heavy HVT/CivVac** and **vision-control** packets, conditional on retaining Bearcats and multiple ways past long-range AROs. It is **not** a blanket counter to Morats or Combined.
+- **[Caution]**  The narrator explicitly says **Triangulated Fire + Disco Baller** legality was disputed and **he did not use it**. Do not cite it as an established legal N5.3 combo.
 
 **Actionable finding:** build **fast mission carriers + Smoke/White Noise + protected hacking** before spending remaining points on a premium gun.
 
@@ -44,13 +44,13 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 
 **Report:** [original](https://www.youtube.com/watch?v=5yh_RsCL-p8); [cleaner version #026](https://www.youtube.com/watch?v=d-lLqPPftps). **Played Mar 22, 2026, N5.2 / ITS17**, 8 players, MO narrator placed **8th**. **Games/scores:** Cutthroat vs **Steel Phalanx (1–10)**; Corporate Appropriation vs **Haqqislam with Maghariba Guard (0–7)**; Uplink Center vs **Kestrel (0–8)**. Self-reported, not independently retrieved event database.
 
-- **[Player view]** Brother Konstantinos + Infirmarer + Black Friar Thunderbolt Haris** combines **Disco Baller/Sensor/Deactivator**, recovery, and sustained gunfighting. **De Fersen LT + Hospitaller E/Mitter + Hospitaller TinBot** supply a second mixed gun/hacker/anti-TAG package. **Knight Commander CoC + Crosier Sniper** protects the active LT.
-- **[Player view]** Splitting two Trinitarian FO slots between a Deployable Repeater and a Shock Mine** adds protection against light/warband attackers instead of building an overly specialized hacking grid when the list lacks a strong Guided backend.
-- **[Observed]** Cutthroat:** **Hippolyta Smoke + a Hidden Agêma sniper + Andromeda Key Ops** exposed the MO army to *multi-angle forks*. A Teutonic Knight chose a risky Move+Shoot rather than repositioning/dodging; the long-range attacker punished the exposure. Strong Knights do not remove the need to defend LT and Key Ops separately.
-- **[Observed]** Corporate Appropriation:** MO pulled a prototype but spent Orders fighting instead of first dropping **Konstantinos' Disco Baller** to shelter its carrier. The **Maghariba Guard** arrived and counterattacked. **Hospitaller E/Mitter** put the TAG into a disabling state, but the objective had already become vulnerable.
-- **[Observed]** Uplink Center:** **Kestrel Hetkari + Griffin HMG/Feuerbach + Bipandra + Banshee + midfield Camo** brought multiple scoring and fighting threats. A Trinitarian disrupted a **linked FO REM** yet did not stop the independent guns and end-game antennas.
-- **[Inference]** ** On **Cutthroat**, guard Lieutenant/Key Ops; on **Corporate**, establish visibility protection *before* running a prototype; on **Uplink**, reserve enough Orders to touch antennas rather than chasing every enemy Griffin.
-- **[Caution]** ** The report is partly reconstructed from memory and its prototype-carrier move/skill discussion is packet-specific. Verify the **historical N5.2 Fireteam and scenario wording** before adopting exact combinations or declarations.
+- **[Player view]** Brother Konstantinos + Infirmarer + Black Friar Thunderbolt Haris combines **Disco Baller/Sensor/Deactivator**, recovery, and sustained gunfighting. **De Fersen LT + Hospitaller E/Mitter + Hospitaller TinBot** supply a second mixed gun/hacker/anti-TAG package. **Knight Commander CoC + Crosier Sniper** protects the active LT.
+- **[Player view]** Splitting two Trinitarian FO slots between a Deployable Repeater and a Shock Mine adds protection against light/warband attackers instead of building an overly specialized hacking grid when the list lacks a strong Guided backend.
+- **[Observed]** Cutthroat: **Hippolyta Smoke + a Hidden Agêma sniper + Andromeda Key Ops** exposed the MO army to *multi-angle forks*. A Teutonic Knight chose a risky Move+Shoot rather than repositioning/dodging; the long-range attacker punished the exposure. Strong Knights do not remove the need to defend LT and Key Ops separately.
+- **[Observed]** Corporate Appropriation: MO pulled a prototype but spent Orders fighting instead of first dropping **Konstantinos' Disco Baller** to shelter its carrier. The **Maghariba Guard** arrived and counterattacked. **Hospitaller E/Mitter** put the TAG into a disabling state, but the objective had already become vulnerable.
+- **[Observed]** Uplink Center: **Kestrel Hetkari + Griffin HMG/Feuerbach + Bipandra + Banshee + midfield Camo** brought multiple scoring and fighting threats. A Trinitarian disrupted a **linked FO REM** yet did not stop the independent guns and end-game antennas.
+- **[Inference]**  On **Cutthroat**, guard Lieutenant/Key Ops; on **Corporate**, establish visibility protection *before* running a prototype; on **Uplink**, reserve enough Orders to touch antennas rather than chasing every enemy Griffin.
+- **[Caution]**  The report is partly reconstructed from memory and its prototype-carrier move/skill discussion is packet-specific. Verify the **historical N5.2 Fireteam and scenario wording** before adopting exact combinations or declarations.
 
 **Actionable finding:** MO requires **attack guns, actual scoring orders, CoC/recovery and a protected exit route**; putting more points in the Knight itself did not solve this event's objectives.
 
@@ -63,8 +63,8 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 - **[Observed]** **Tunguska Hollow Men Super-Jump Fireteam + Fiddler Engineer** restored a downed Hollow Man and crossed rooftop sightlines. Add **Grenzer/long ARO** coverage and it becomes a durable, repairable assault package whose effectiveness depends on Fiddler's survival and safe access to the target.
 - **[Observed]** Hassassin **Lasiq Viral gun + Leila Sharif + Doctor** were different counterweights. A Doctor **returned Leila to the game**, allowing renewed hacking/scoring rather than accepting her initial incapacitation as permanent.
 - **[Observed]** A **Guided Missile REM** fired at a previously **Targeted** victim. The players explicitly checked range, defensive rolls and the cost of attempts. **[Inference]** a realistic Guided game requires spare Orders, a retained hacker/repeater network and a reason to invest more than a direct attack would cost.
-- **[Observed]** HVT control at the end mattered more than some preceding casualties.** **[Inference]** keep one mission-capable/fast body for final HVT proximity rather than spending all orders on Hollow Men gun duels.
-- **[Caution]** ** Speech-to-text unit names and some in-game rule calls were unclear. No **Tunguska > Hassassins** faction-wide result is claimed.
+- **[Observed]** HVT control at the end mattered more than some preceding casualties. **[Inference]** keep one mission-capable/fast body for final HVT proximity rather than spending all orders on Hollow Men gun duels.
+- **[Caution]**  Speech-to-text unit names and some in-game rule calls were unclear. No **Tunguska > Hassassins** faction-wide result is claimed.
 
 **Actionable finding:** **Fiddler-recoverable Hollow Men** and **Hassassin viral/specialist recovery** are both credible; the actual winner is determined by *late HVT and task Orders*.
 
@@ -76,9 +76,9 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 - **[Observed]** **OSS Proxy Engineer + Proxy Heavy Rocket Launcher + Racerbot repeaters** covers recovery, durable ARO and hacking projection; **Sharvara HoundBots** provide short-range E/M/template denial. **Rudra** is a complementary mobile attacker/scorer, not merely another standing gun.
 - **[Observed]** MO's **De Fersen / Teutonic Knight attack force** came with low-cost **Fugazi, Sāchā, Baggage Mulebots**, giving mission Order/carry options once the heavy guns opened the route.
 - **[Observed]** Players used **Rudra and a Flash REM** to transport or drop boxes while spending from **different Order pools**. Their discussion of **safe zones, Baggage capacity, specialist interaction and box placement** shows that a box-carrying unit may be strategically more valuable than the big attacker late.
-- **[Inference]** ** OSS can make Hackable MO advance through **repeaters, E/M and heavy reactive fire**; MO can answer if it removes the correct **Proxy/repeater/Short-range trap** before exposing its box carrier. There is no universal OSS–MO favorable matchup established.
+- **[Inference]**  OSS can make Hackable MO advance through **repeaters, E/M and heavy reactive fire**; MO can answer if it removes the correct **Proxy/repeater/Short-range trap** before exposing its box carrier. There is no universal OSS–MO favorable matchup established.
 - **[Observed]** Several **silhouette, rooftop/infinite-height and line-of-fire** adjudications changed attack choices. **[Caution]** Treat them as terrain-specific and check the proper historical ITS **Provisioning** packet; in-game uncertainty about Baggage is not proof of a rule.
-- **[Caution]** ** Played date and winner not established from source, so the exact patch stays **unknown**, even though Provisioning later appeared in ITS17 and ITS18.
+- **[Caution]**  Played date and winner not established from source, so the exact patch stays **unknown**, even though Provisioning later appeared in ITS17 and ITS18.
 
 **Actionable finding:** plan three separate budgets—**clear the lane, pick up the box, deliver/control in a safe zone**.
 
@@ -91,8 +91,8 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 - **[Observed]** **Iguana (Mine Dispenser/Escape System)** gave Qapu a durable attack option, while its **large silhouette** made certain rooftops and firing angles difficult to avoid. The player also discussed a flyer/Zaibek option and positioning around a Noctifer lane.
 - **[Observed]** **Combined Noctifer ML + Zephyr flyer with Albedo** created different reactions: hidden ARO threat against the Qapu gunline, and an anti-visor/nonstandard attack vector. White Noise/Disco-type vision control and careful range checks were important; a visor-based gunline cannot claim to shut down all access by itself.
 - **[Observed]** In **Res Ops**, players discuss **Shasvastii Embryo state and zone scoring after Unconscious**. **[Inference]** eliminating the visible firing capability of a Shasvastii does not necessarily remove that model's control/points in a scenario using presence or a special Embryo interaction.
-- **[Inference]** ** A large Janissary/TAG package can contest space, but **hidden Shasvastii and Albedo** counter the assumption that a high-BS MSV/ARO always protects it. Conversely Yuan Yuan-assisted flanks can pressure a Noctifer once revealed.
-- **[Caution]** ** The live stream includes uncertain in-game **Embryo, Albedo, Escape System and weapon** calls. Verify the *correct historical edition* before using them as hard N5.3 claims. No exact winner is assigned.
+- **[Inference]**  A large Janissary/TAG package can contest space, but **hidden Shasvastii and Albedo** counter the assumption that a high-BS MSV/ARO always protects it. Conversely Yuan Yuan-assisted flanks can pressure a Noctifer once revealed.
+- **[Caution]**  The live stream includes uncertain in-game **Embryo, Albedo, Escape System and weapon** calls. Verify the *correct historical edition* before using them as hard N5.3 claims. No exact winner is assigned.
 
 **Actionable finding:** zone missions require planning for **residual Embryo presence and final zone weight**, not merely who has inflicted more wounds.
 
@@ -104,7 +104,7 @@ This batch covers ten *index entries* but **seven distinct new game/event source
 - **[Player view]** **Hospitaller E/Mitter** offers a **non-hacking anti-TAG/HI disruption** option when a Trinitarian repeaters-only plan fails. It affected **Maghariba Guard**, but could not independently secure the Corporate objective.
 - **[Player view]** **Curator Deployable Cover + AP Mines** was a defensive setup test to shield cheap support/remote lanes rather than a main assault plan.
 - **[Observed]** **Kestrel Hetkari/Griffin + linked FO REM** meant a Trinitarian could disable the REM while important independent attacks still survived. **Threat selection must follow mission score**, not just Hackability.
-- **[Caution]** ** A brief “N3” wording in the introduction is a transcription/speaking error: the title, event date and report clearly describe **N5/ITS17**.
+- **[Caution]**  A brief “N3” wording in the introduction is a transcription/speaking error: the title, event date and report clearly describe **N5/ITS17**.
 
 See #022 for the full same-event analysis. **Deduplicate this video when counting matchup data.**
 
@@ -117,8 +117,8 @@ See #022 for the full same-event analysis. **Deduplicate this video when countin
 - **[Observed]** **Morat Suryat HRL, Yaogat, Kaitok and Rindak** formed long-range gun/area denial and an independent mission-capable attack pool. Mobility and which **Kaitok/Rindak** could *actually occupy the end-game zone* mattered.
 - **[Observed]** **Pandora's hacking** forced an enemy into a disabling state, drawing a Reset and opening a conditional **Achilles/Patroclus follow-up**. **[Inference]** attackers that have to cross Morat reactive lanes become more useful after a hacker restricts a Hackable defender, but only if subsequent Orders and LoF allow exploitation.
 - **[Observed]** **Morat Smoke + HRL sightlines + Kaitok counterattack** forced multiple reversals of the Next Wave plan; Next Wave spent numerous Orders for limited immediate score and reevaluated late zone pressure.
-- **[Inference]** ** Double Bind changes whether a **Hacker, cheap FO or armored attacker** is the best next activation. Morats can punish exposed elites with **layered long-range and zone bodies**; Next Wave can use **Pandora + SteelJaw/Harbinger** to disrupt, not guarantee victory.
-- **[Caution]** ** The stream contains rule clarifications and lucky or unlucky dice; verify N5.3/ITS18 before treating isolated weapon comments as legality.
+- **[Inference]**  Double Bind changes whether a **Hacker, cheap FO or armored attacker** is the best next activation. Morats can punish exposed elites with **layered long-range and zone bodies**; Next Wave can use **Pandora + SteelJaw/Harbinger** to disrupt, not guarantee victory.
+- **[Caution]**  The stream contains rule clarifications and lucky or unlucky dice; verify N5.3/ITS18 before treating isolated weapon comments as legality.
 
 **Actionable finding:** assign **a scorer separate from Achilles/Pandora** and budget that model's last two Orders before selecting risky combat.
 
@@ -140,8 +140,8 @@ See #022 for the full same-event analysis. **Deduplicate this video when countin
 - **[Observed]** **JSA Ryuken-9 mine/marker placement** and **Tanko Blitzens/shotguns** repeatedly stopped or delayed advance by forcing Dodges, Reset, alternate firing lines and possible Isolation/IMM exposure.
 - **[Observed]** A JSA close attacker identified unclearly by auto-captions (“Hamoto/Yamamoto”) required **Command Tokens to move enough Orders between groups** for a last push. Do **not** replace that uncertain caption with a guessed profile in a ranked army guide.
 - **[Observed]** **Major Lunah fire and Shaolin Smoke** affected approach paths, while several early critical Dodges failed and forced expensive recoveries. Both players described expected good odds failing in practice.
-- **[Inference]** ** In **data/box scoring**, JSA can tax a Yu Jing attack with **mines + E/M/short-range reactive fire**, while Yu Jing can pay the tax with **Shaolin Smoke and extra order economy** only if it preserves a genuinely capable specialist to finish the mission.
-- **[Caution]** ** A clear official final score/winner is absent from the transcript; do not claim a general JSA–Yu Jing strength relationship.
+- **[Inference]**  In **data/box scoring**, JSA can tax a Yu Jing attack with **mines + E/M/short-range reactive fire**, while Yu Jing can pay the tax with **Shaolin Smoke and extra order economy** only if it preserves a genuinely capable specialist to finish the mission.
+- **[Caution]**  A clear official final score/winner is absent from the transcript; do not claim a general JSA–Yu Jing strength relationship.
 
 **Actionable finding:** the most valuable late-game resource may be **cross-group Order transfer + the correct button-pressing specialist**, not an additional close-combat casualty.
 
