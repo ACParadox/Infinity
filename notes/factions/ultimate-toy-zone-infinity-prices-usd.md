@@ -1,9 +1,9 @@
 # Ultimate Toy Zone — Infinity price reference (USD)
 
 **Recorded:** 2026-10-30  
-**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, and 6.  
+**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, 5, 6, and 7.  
 **Currency:** **USD**, as specified by the user. No CAD conversion.  
-**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The original batch had no product-specific links; the added batch includes user-supplied product and image links. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
+**Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The first and page-7 batches did not provide product-specific links or images; pages 2–6 included user-supplied product and image links. Missing URLs are not invented. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
 **Price convention:** *Sale* is the listed current price; *Original* is the crossed-out original price. Discount labels reflect the source listing.
 
 ## Quoted products
@@ -41,7 +41,7 @@
 | Nomads / Tunguska | [Infinity – Nomads – Tunguska Jurisdictional Command (Nomads Sectorial Starter Pack) (Boxed)](https://www.ultimatetoyzone.com/product/infinity-nomads-tunguska-jurisdictional-command-nomads-sectorial-starter-pack-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/4669735436390_780.webp)) | **$25.20** | $84.00 | 70% |
 | Ariadna / FRRM | [Infinity – Ariadna – Equipe Mirage-5](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5005750534246_373.webp)) | **$17.09** | $57.00 | 70% |
 | Nomads / Tunguska | [Infinity – Nomads – Securitate (Boxed)](https://www.ultimatetoyzone.com/product/infinity-nomads-securitate-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/4669738254438_395.webp)) | **$12.90** | $43.00 | 70% |
-| Nomads / Tunguska | [Infinity – Nomads – Tunguska Cheerkillers](https://www.ultimatetoyzone.com/product/infinity-nomads-tunguska-cheerkillers/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5007334572134_575.webp)) | **Not supplied** | $50.00 | 70% |
+| Nomads / Tunguska | [Infinity – Nomads – Tunguska Cheerkillers](https://www.ultimatetoyzone.com/product/infinity-nomads-tunguska-cheerkillers/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5007334572134_575.webp)) | **$15.00** | $50.00 | 70% |
 | Combined Army / O-12 | [Infinity – Combined Army – O-12 – Advance Pack (Convention Exclusive Pre-release)](https://www.ultimatetoyzone.com/product/infinity-combined-army-o-12-advance-pack-convention-exclusive-pre-release/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/3957242789990_614.webp)) | **$5.40** | $18.00 | 70% |
 | NA2 / Mercenaries | [Infinity – NA2 – Libertos Freedom Fighters (Light shotgun) (Blister)](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/4417258717286_757.webp)) | **$6.00** | $20.00 | 70% |
 | O-12 / CodeOne | [Infinity Code One – 0-12 Booster Pack Beta](https://www.ultimatetoyzone.com/product/infinity-code-one-0-12-booster-pack-beta/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/5027275571302_129.webp)) | **$9.29** | $31.00 | 70% |
@@ -72,8 +72,20 @@
 | JSA / PanOceania | [Infinity – Essentials Start Here – JSA vs PanOceania](https://www.ultimatetoyzone.com/product/infinity-essentials-start-here-jsa-vs-panoceania/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9931139776823_268.webp)) | **$22.20** | $74.00 | 70% |
 | Ariadna / TAK | [Infinity – Ariadna – Armata Proyekt-2 Ratnik (Spitfire)](https://www.ultimatetoyzone.com/product/infinity-ariadna-armata-proyekt-2-ratnik-spitfire/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9795860005175_480.webp)) | **$16.80** | $56.00 | 70% |
 | Haqqislam | [Infinity – Haqqislam – Mukhtar (Red Fury)](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/9795860136247_318.webp)) | **$7.19** | $24.00 | 70% |
+| Mercenaries / Combined Army | Infinity – Freelance Operator Samsa (Plasma Rifle) | **$7.50** | $25.00 | 70% |
+| O-12 / Torchlight Brigade | Infinity – O-12 – Torchlight Brig. Expansion Pack Alpha | **$17.70** | $59.00 | 70% |
+| NA2 / Mercenaries | Infinity – NA2 – Libertos (Submachine Gun) | **$6.00** | $20.00 | 70% |
+| Ariadna / Reinforcements | Infinity – Ariadna – Reinforcements Brigadier Jacques Bruant (AP Spitfire) | **$8.10** | $27.00 | 70% |
+| Dire Foes / Mission pack | Infinity – Dire Foes Mission Pack 14 – Blocking Zone | **$18.30** | $61.00 | 70% |
+| O-12 / Torchlight Brigade | Infinity – O-12 – Torchlight Brigade Action Pack | **$35.00** | $140.00 | 75% |
+| Yu Jing / Invincible Army | Infinity – Yu Jing – Invincible Army Expansion Pack | **$16.50** | $55.00 | 70% |
+| O-12 / Torchlight Brigade | Infinity – O-12 – Wreckers, Fire Recon Armored Squad (TAG Pack) | **$17.70** | $59.00 | 70% |
+| Ariadna / Caledonia | Infinity – Ariadna – Highlander Cateran (T2 Sniper) | **$9.29** | $31.00 | 70% |
+| Combined Army / Reinforcements | Infinity – Combined Army – Reinforcements – Caskuda WCD Armored Jump Operator | **$16.50** | $55.00 | 70% |
+| NA2 / Mercenaries | Infinity – NA2 – Diggers Armed Prospectors (Chain Rifle) | **$9.29** | $31.00 | 70% |
+| NA2 / Druze | Infinity – NA2 – Druze Shock Teams | **$15.89** | $53.00 | 70% |
 
-**One of every fully priced SKU (61 products):** **USD $1100.84** in sale prices, versus **USD $3998.00** in listed original prices — **USD $2897.16** difference (about **72.47%** below original). **62 products are recorded total**; Tunguska Cheerkillers has an original price but no current price in the supplied excerpt, so it is excluded from these totals. This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
+**One of every priced SKU (74 products):** **USD $1293.61** in sale prices, versus **USD $4664.00** in listed original prices — **USD $3370.39** difference (about **72.26%** below original). This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
 
 ## Usage / cross-checks
 
@@ -81,13 +93,14 @@
 - The **O-Yoroi Kidobutai TAG Pack (Essentials)** entry has a product link but no product-image URL in the supplied excerpt; its 70% reduction was computed from $64.00 to $19.20 rather than copied from a displayed discount label.
 - The two **Paint Set** entries are whole listed sets with an *exclusive expansion* label; do not treat their prices as standalone miniature prices or assume an exclusive sculpt's details without checking the box.
 - The Yu Jing “**Essentals**” spelling is retained from the supplied product title, rather than silently substituting a different edition.
-- **Next Wave Action Pack**, **JSA Reinforcements Pack Alpha**, **Yu Jing Action Pack (Essentials)**, and **Nomads Action Pack (Essentials)** have the advertised 75% label; the **CodeOne Nomads Collection Pack** and **Code One O-12 Collection Pack** have advertised 80% labels; all other products have 70%.
+- **Next Wave Action Pack**, **JSA Reinforcements Pack Alpha**, **Yu Jing Action Pack (Essentials)**, **Nomads Action Pack (Essentials)**, and **O-12 Torchlight Brigade Action Pack** have the advertised 75% label; the **CodeOne Nomads Collection Pack** and **Code One O-12 Collection Pack** have advertised 80% labels; all other products have 70%.
 - The supplied page heading says “Showing 13–24 of 185 results,” but only **11** product entries were present in the excerpt. The unprovided twelfth entry was not inferred or added.
 - **JSA Oban Expansion Alpha** and **JSA Shindenbutai Expansion Alpha** are separately priced boxes. The **Essentials Start Here — JSA vs PanOceania** listing is a combined starter product; avoid treating it as a single-faction pack.
 - The **Advance Pack** is listed as a **convention-exclusive pre-release**; **Penthesilea Amazon Biker** is listed under **Bootleg** as a *special edition*; **Miyamoto Mushashi** is listed in an *Aristeia! outfit*. These are distinct product labels, not claims of current availability or interchangeable sculpts.
 - The vendor title **“0-12 Booster Pack Beta”** is preserved exactly as listed, despite the likely letter O/number 0 ambiguity.
 - **Cassandra Kusanagi (Event Exclusive)** and **Cassandra Kusanagi (Spitfire) (Blister)** are separate retailer SKUs; do not conflate the sculpts. **Endsong Book** is marked as including an exclusive miniature. Preserve these distinctions when comparing versions and box contents.
-- **Tunguska Cheerkillers** lists only its **$50.00 original price** and **70% discount label**; the sale price is not present in the supplied excerpt and is deliberately not inferred. Exclude it from monetary totals until a current price is supplied.
+- **Tunguska Cheerkillers:** updated to **USD $15.00 sale / $50.00 original** (70%) based on the user's follow-up. The box contains **4 models**: **Cheerkiller (Submachine Gun) ×1**, **Cheerkiller (MULTI Pistol) ×1**, **Cheerkiller (Shock CC Weapon) ×1**, and **Grenzer (Missile Launcher) ×1**. This is **three Cheerkillers plus one Grenzer**, not four Cheerkillers. The full box is included in the new totals.
+- **Page 7 (73–84 of 185):** 12 user-supplied price listings; product-specific URLs and image URLs were not supplied, so these are stored as unlinked product names rather than guessing URLs. **Libertos (Submachine Gun)** is a separate listing from the earlier **Libertos (Light shotgun)**.
 - Three **Infinity RPG** book products from the supplied page-3 excerpt (Tohaa Supplement, Acheron Cascade Campaign, Nomads Supplement) were **excluded as requested**.
 - This is a **retailer price reference, not an ownership inventory or a buy list**. For purchase planning, reconcile against the appropriate [inventory](../../inventory/) and existing faction [buy lists](./). For individual box contents, check a reliable product or boxed-set reference rather than inferring models from these titles.
 - See also [Miniatures Market — JSA prices (USD)](./jsa-miniatures-market-prices-usd.md) for a separate retailer snapshot.
