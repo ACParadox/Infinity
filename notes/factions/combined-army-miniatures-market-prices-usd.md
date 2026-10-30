@@ -1,5 +1,8 @@
 # Miniatures Market — Combined Army price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 104 listings, USD $1543.82.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided Combined Army catalogue paste from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency:** USD. **U = user-supplied price snapshot**, not independently verified as current checkout pricing or stock. Prices are per named package or accessory, **not per miniature**. No individual product URLs or photos were provided; none are invented. No CAD conversion, taxes, shipping, or duties included.
 
 **Stock filter:** **101 listings** from the user-provided text; **100 explicitly followed by “Add to cart”**, plus one final **The Anathematics (Plasma Rifle)** listing **($22.30)** with no visible status. **Zero** products were explicitly labelled “Out of stock,” so none needed excluding. The last product is retained with stock **unconfirmed**; “Add to cart” pasted text is not independently verified live stock.
@@ -129,3 +132,16 @@
 Use the [Combined Army must-have / go-to / avoid audit](combined-army-must-have-go-to-avoid-transcript-evidence.md), [current Combined Army sectorial rosters](../../sectorials/combined-army/), [miniature proxy guidelines](../miniature-proxy-guidelines.md) and relevant [inventory folder](../../inventory/) to evaluate actual purchases.
 
 Other USD price references: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md), [Haqqislam](haqqislam-miniatures-market-prices-usd.md), [Nomads](nomads-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**3 products added, USD $26.80.** Compared normalized product name and exact USD amount against all other existing faction price references. These records were absent from previous snapshots. Quoted Add to cart is a **pasted catalogue label, not independently verified live stock**. No individual seller URLs/photos were included.
+
+| Broad-catalogue # | Product | Price USD | Source description / contents | Pasted status | Edition, contents and legal-roster caveat |
+|---:|---|---:|---|---|---|
+| 189 | **Shasvastii Noctifers (Missile Launcher)** | $7.90 | Box contains: 1x Noctifer | Add to cart | 1 Shasvastii Noctifer Missile Launcher, according to seller. Product loadout must be checked; model title/source names are consistent. |
+| 431 | **NIB Infinity Defiance Fall 2019 Kickstarter Nox** | $7.40 | NIB Infinity Defiance Fall 2019 Kickstarter Nox | Add to cart | NIB Infinity Defiance Kickstarter Nox 2019 collectible. Nox unit identity belongs to Shasvastii/Combined Army; this specific boxed model is from a different game release. |
+| 465 | **Victor Messer - Event Tournament Pack** | $11.50 | Victor Messer – Event Tournament Pack | Add to cart | Victor Messer Event Tournament Pack; a special character/collector sculpt associated with Shasvastii. Current Army roster and exact version require checking. |
+
+**Consolidated one-of-each listed-product total for this file: USD $1543.82 (104 listings).** Original source group 101 at USD $1517.02 + 3 at USD $26.80. Some minis represent collector versions or alternate sculpts rather than additional units.
