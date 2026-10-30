@@ -1,7 +1,7 @@
 # Ultimate Toy Zone — Infinity price reference (USD)
 
 **Recorded:** 2026-10-30  
-**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, and 4.  
+**Source:** User-provided product listings from [Ultimate Toy Zone](https://www.ultimatetoyzone.com/), including additional listings from search-results pages 2, 3, 4, and 5.  
 **Currency:** **USD**, as specified by the user. No CAD conversion.  
 **Verification:** **User-supplied price snapshot (U), not independently verified as current offers.** The original batch had no product-specific links; the added batch includes user-supplied product and image links. Product availability, taxes, shipping, sale expiry, and live pricing are not independently confirmed. Each price refers to the **complete listed product**, not a per-miniature price.  
 **Price convention:** *Sale* is the listed current price; *Original* is the crossed-out original price. Discount labels reflect the source listing.
@@ -51,12 +51,22 @@
 | Yu Jing | [Infinity – Yu Jing – Tiger Soldiers (Spitfire / Boarding shotgun) (Blister)](https://www.ultimatetoyzone.com/product/infinity-yu-jing-tiger-soldiers-spitfire-boarding-shotgun-blister/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/595382501420_475.webp)) | **$9.29** | $31.00 | 70% |
 | NA2 / JSA | [Infinity – NA2 – Miyamoto Mushashi Aristeia! Outfit (Boxed)](https://www.ultimatetoyzone.com/product/infinity-na2-miyamoto-mushashi-aristeia-outfit-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/666498760748_760.webp)) | **$9.60** | $32.00 | 70% |
 | Ariadna / TAK | [Infinity – Ariadna – Kazak Spetsnazs (Boxed)](https://www.ultimatetoyzone.com/product/infinity-ariadna-kazak-spetsnazs-boxed/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/1377306574892_164.webp)) | **$14.10** | $47.00 | 70% |
+| JSA | [Infinity – JSA – O-Yoroi Kidobutai TAG Pack (Essentials)](https://www.ultimatetoyzone.com/product/infinity-jsa-o-yoroi-kidobutai-tag-pack-essentials/) | **$19.20** | $64.00 | 70% (calculated) |
+| JSA | [Infinity – JSA – Aibot Remotes Pack](https://www.ultimatetoyzone.com/product/infinity-jsa-aibot-remotes-pack/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340096344375_333.webp)) | **$16.80** | $56.00 | 70% |
+| Yu Jing | [Infinity – Yu Jing – Support Pack](https://www.ultimatetoyzone.com/product/infinity-yu-jing-support-pack/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340098769207_322.webp)) | **$12.30** | $41.00 | 70% |
+| PanOceania / Kestrel | [Infinity – PanOceania – Kestrel Expansion Pack Gamma](https://www.ultimatetoyzone.com/product/infinity-panoceania-kestrel-expansion-pack-gamma/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340100342071_529.webp)) | **$16.20** | $54.00 | 70% |
+| PanOceania | [Infinity – PanOceania – Drummers Mobile Support Section](https://www.ultimatetoyzone.com/product/infinity-panoceania-drummers-mobile-support-section/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340114497847_280.webp)) | **$18.00** | $60.00 | 70% |
+| Nomads | [Infinity – Nomads – Go-Pod](https://www.ultimatetoyzone.com/product/infinity-nomads-go-pod/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340123836727_934.webp)) | **$24.30** | $81.00 | 70% |
+| Mission pack / Dire Foes | [Infinity – Dire Foes Mission Pack 15 Barrenlands](https://www.ultimatetoyzone.com/product/infinity-dire-foes-mission-pack-15-barrenlands/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340126064951_684.webp)) | **$18.59** | $62.00 | 70% |
+| Nomads | [Infinity – Nomads – Wolfgang Amadeus Wolff](https://www.ultimatetoyzone.com/product/infinity-nomads-wolfgang-amadeus-wolff/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340143235383_652.webp)) | **$9.29** | $31.00 | 70% |
+| Nomads | [Infinity – Nomads – Switchers Gruppa](https://www.ultimatetoyzone.com/product/infinity-nomads-switchers-gruppa/) ([Image](https://www.ultimatetoyzone.com/wp-content/uploads/2026/02/10340144841015_136.webp)) | **$18.89** | $63.00 | 70% |
 
-**One of every fully priced SKU (40 products):** **USD $727.60** in sale prices, versus **USD $2712.00** in listed original prices — **USD $1984.40** difference (about **73.17%** below original). **41 products are recorded total**; Tunguska Cheerkillers has an original price but no current price in the supplied excerpt, so it is excluded from these totals. This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
+**One of every fully priced SKU (49 products):** **USD $881.17** in sale prices, versus **USD $3224.00** in listed original prices — **USD $2342.83** difference (about **72.67%** below original). **50 products are recorded total**; Tunguska Cheerkillers has an original price but no current price in the supplied excerpt, so it is excluded from these totals. This is a simple catalogue total, **not** a recommended shopping basket; shipping and taxes are excluded.
 
 ## Usage / cross-checks
 
-- The 70% / 75% / 80% discounts are the retailer's **advertised labels**. The source prices are kept exactly as supplied, including rounding (for example, $18.59 and $9.29).
+- The 70% / 75% / 80% discounts are the retailer's **advertised labels**, except where explicitly marked *calculated*. The source prices are kept exactly as supplied, including rounding (for example, $18.59 and $9.29).
+- The **O-Yoroi Kidobutai TAG Pack (Essentials)** entry has a product link but no product-image URL in the supplied excerpt; its 70% reduction was computed from $64.00 to $19.20 rather than copied from a displayed discount label.
 - The two **Paint Set** entries are whole listed sets with an *exclusive expansion* label; do not treat their prices as standalone miniature prices or assume an exclusive sculpt's details without checking the box.
 - The Yu Jing “**Essentals**” spelling is retained from the supplied product title, rather than silently substituting a different edition.
 - **Next Wave Action Pack** and **JSA Reinforcements Pack Alpha** have the advertised 75% label; the **CodeOne Nomads Collection Pack** and **Code One O-12 Collection Pack** have advertised 80% labels; all other products have 70%.
