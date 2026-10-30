@@ -7,10 +7,10 @@
 ## Summary
 
 - **35/35 standard Steel Phalanx roster unit types accounted for**, including the two names absent from the submitted list: **Warcor (1 owned, shared with Kestrel/MO)** and **Sāchā Xenotech Hunters (0 owned)**. The 35-type count excludes separately deployed peripherals and optional-mode entries.
-- **36 distinct Steel-Phalanx-specific physical miniatures** confirmed by the new list: **34** non-Rebot models + **2** ALEPH Rebot chassis. Counts include 2 Yudbots and 2 Netrods, but no unconfirmed Charybdis, KiranBot, Karkata, OSS spare or proxy bots.
+- **37 distinct Steel-Phalanx-specific physical miniatures** confirmed: **34** non-Rebot roster models + **2** ALEPH Rebot chassis + **1 Charybdis** miniature. Counts include 2 Yudbots and 2 Netrods, but no unconfirmed KiranBot, Karkata, OSS spare or proxy bots.
 - **8 existing PanO models usable or suggested as Steel Phalanx models/proxies:** 4 Dronbots, 2 Mulebots, 1 Warcor and 1 Crabbot. All are already counted in the prior Kestrel/MO collection; silhouettes/loadouts and proxy acceptance may constrain usage.
-- **44 physical miniatures known as available/relevant for Steel Phalanx** after including those 8 shared PanO figures; this is *not* an extra 44 physical models beyond your existing collection.
-- **115 distinct confirmed physical miniatures across Kestrel, Military Orders and Steel Phalanx** after adding the 36 new physical models to the existing combined PanO baseline of 79. Unspecified OSS or additional proxy models are not included.
+- **45 physical miniatures known as available/relevant for Steel Phalanx** after including those 8 shared PanO figures; this is *not* an extra 45 physical models beyond your existing collection.
+- **116 distinct confirmed physical miniatures across Kestrel, Military Orders and Steel Phalanx** after adding the 37 Steel Phalanx-specific physical models (including Charybdis) to the existing combined PanO baseline of 79. Unspecified OSS or additional proxy models are not included.
 - **5 roster unit types have no dedicated model recorded:** Arjuna, Hippolyta, K2 Auxiliars, Probots and Sāchā. Several have suggested proxies, detailed below.
 - **K2 Auxiliars official repository AVA is 2**, not 1 as supplied. **AVA is a fielding cap, not a purchase target.**
 
@@ -48,7 +48,7 @@ Rows follow the roster source order. **Gap to AVA** counts only dedicated/identi
 | Probots | 0 | 1 | 1 | Missing dedicated model | EVO Probot dedicated miniature 0; possible proxy from 2 shared PanO Mulebots |
 | Sāchā, Xenotech Hunters | 0 | 1 | 1 | Missing dedicated model | Omitted from submitted list; Kestrel inventory has Sāchā 0; no proxy specified |
 | Samekh Rebots | 2 ALEPH (shared) + 4 PanO proxies | 1 | — | Shared REM pool | 2 ALEPH Rebots shared by all 4 types; +4 PanO Dronbots as proxies; missile role |
-| Scylla | 1 | 1 | 0 | Owned | Charybdis Devabot/FTO model ownership not specified; verify separately |
+| Scylla | 1 | 1 | 0 | Owned | Charybdis model owned separately: 1 (not a second Scylla) |
 | Thamyris | 1 | 1 | 0 | Owned | — |
 | Thorakitai | 3 | 6 | 3 | Owned | — |
 | Thyreos | 1 | 2 | 1 | Owned | — |
@@ -75,11 +75,11 @@ The individual AVAs add to **6**. The pool of 6 physical chassis could physicall
 
 | Model | Physical owned | Associated unit/availability | Notes |
 |---|---:|---|---|
-| Yudbot | **2** | Standalone Steel Phalanx roster entry AVA 4 (Peripheral Servant) | Included in the 36 ALEPH-specific physical-miniature total |
-| Netrod | **2** | Standalone Steel Phalanx roster entry AVA 2 | Included in the 36 ALEPH-specific total; not a proxy |
+| Yudbot | **2** | Standalone Steel Phalanx roster entry AVA 4 (Peripheral Servant) | Included in the 37 Steel Phalanx-specific physical-miniature total |
+| Netrod | **2** | Standalone Steel Phalanx roster entry AVA 2 | Included in the 37 Steel Phalanx-specific total; not a proxy |
 | Karkata | **0** | Agamemnon TAG's included ancillary bot | Proxy with the already-owned **1 PanO Crabbot**. Count that Crabbot once across all inventories, not as a new ALEPH miniature |
 | KiranBot | **0** | Arjuna's selected KiranBot 1 or KiranBot 2 profile | Neither a dedicated Arjuna nor a KiranBot is currently reported; choosing a loadout with KiranBot requires a physical model or accepted proxy |
-| Charybdis / Devabot Charybdis | **Unconfirmed** | Certain Scylla profiles include Devabot Charybdis; Scylla FTO has no peripheral, and Charybdis FTO has separate roster arrangement | Scylla miniature is owned (1), but no physical Charybdis ownership was specified. Do not assume an accessory is either present or absent |
+| Charybdis / Devabot Charybdis | **1** | Certain Scylla profiles include Devabot Charybdis; Scylla FTO has no peripheral, and Charybdis FTO has separate roster arrangement | One Charybdis miniature owned, counted separately from Scylla and included in the 37 Steel Phalanx-specific physical models |
 | Generic bot for K2 | **Unconfirmed** | K2 Auxiliars proxy | You proposed using a bot; no dedicated K2 miniature or separately identified bot has been added to confirmed physical totals |
 
 **Sharvara K9** from Dart (0 owned in the PanO inventories) is not a Steel Phalanx roster entry and is not included in any totals.
@@ -109,7 +109,7 @@ You also have **1 dedicated Agêma** against **AVA 2**, with a **possible second
 
 1. The **35 standard roster entries** are all present. **Warcor** and **Sāchā** were omitted from the user's new list, but inherited as 1 and 0 from [Kestrel](./kestrel.md).
 2. The **K2 AVA discrepancy** is explicitly documented: user list says 1; pinned N5.3 Army reference says **2**.
-3. **Scylla** (1) is distinct from her Charybdis Devabot/FTO. This accessory's physical ownership remains unknown and is not counted as an extra miniature.
+3. **Scylla** (1) is distinct from **Charybdis** (1). The Charybdis miniature is counted separately in the physical total; its model does not increase Scylla's AVA or roster-unit count.
 4. **Agamemnon** (1) is distinct from its Karkata ancillary model (0); a **Crabbot** proxy is already available in the shared PanO inventory.
 5. **Ekdromoi** 1/4, **Myrmidon Officer** 1/3 etc. are counts of physically owned models, not current profiles or Fireteam slots.
 6. **Chandra Spec-Ops** and **ALEPH Team-Ops** are optional-mode hooks, not standard Steel Phalanx roster gaps.
