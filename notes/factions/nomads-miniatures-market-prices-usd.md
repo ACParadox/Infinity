@@ -1,5 +1,8 @@
 # Miniatures Market — Nomads price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 75 listings, USD $1191.20.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided Nomads catalogue paste from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency: USD**; **U = user-supplied price snapshot**, not independently verified as active checkout pricing/stock. Prices are per **named product or box**, not per miniature. No individual product URLs or image URLs were supplied, so none are fabricated; no CAD conversion, taxes, shipping or import charges included.
 
 **Stock filter:** All **74 products** in the provided paste are listed; **none is explicitly marked “Out of stock.”** **73** are followed by **“Add to cart,”** while the final **Sin-Eater Observants (HMG), $7.90**, lacks any visible stock status and is **retained with availability unconfirmed**. The “Add to cart” wording is from the pasted seller text and does not independently confirm present stock. Titles/descriptions are preserved from the paste, including truncated parts and retailer “New!” labels; missing box contents are **not invented**.
@@ -100,3 +103,14 @@
 This is a **USD cataloguing reference**, **not a sectorial buy list, order recommendation, or an owned-miniatures inventory change**. Compare against the existing [Nomads roster references](../../sectorials/nomads/), [faction tactical documents](./) and [proxy guidelines](../miniature-proxy-guidelines.md) before buying. The same physical model shared by multiple Nomads sectorials should be counted once, not re-purchased for each sectorial.
 
 Related prices: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md), [Haqqislam](haqqislam-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**1 products added, USD $7.30.** Compared normalized product name and exact USD amount against all other existing faction price references. These records were absent from previous snapshots. Quoted Add to cart is a **pasted catalogue label, not independently verified live stock**. No individual seller URLs/photos were included.
+
+| Broad-catalogue # | Product | Price USD | Source description / contents | Pasted status | Edition, contents and legal-roster caveat |
+|---:|---|---:|---|---|---|
+| 462 | **Irmandinhos (Chain Rifle)** | $7.30 | Irmandinhos (Chain Rifle) | Add to cart | Irmandinho Chain Rifle from Nomads; compare the older/other Irmandinhos listing in existing Nomads catalog. |
+
+**Consolidated one-of-each listed-product total for this file: USD $1191.20 (75 listings).** Original source group 74 at USD $1183.90 + 1 at USD $7.30. Some minis represent collector versions or alternate sculpts rather than additional units.
