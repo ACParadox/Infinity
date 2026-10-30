@@ -7,7 +7,7 @@
 ## Summary
 
 - **40/40 standard Kestrel unit types are included** in this inventory. None is missing from the user's unit-name list.
-- **48 physical miniatures reported** across dedicated entries, one Sharvara K9 peripheral, and two shared REM pools (includes 6 Fennecs, of which at most 5 may be fielded as Fennecs in one list). Physical count assumes each shared pool is distinct and counts the duplicate Tech-Bee only once.
+- **48 physical miniatures reported** across dedicated entries, one Crabbot peripheral, and two shared REM pools (includes 6 Fennecs, of which at most 5 may be fielded as Fennecs in one list). Physical count assumes each shared pool is distinct and counts the duplicate Tech-Bee only once.
 - **8 unit types have 0 dedicated miniatures:** Father Lucien Sforza; Richard Quinn; Emily Handelman; Optimate Agent Maximus; Dr. Priya Harper; Dart, Optimate Huntress; Sāchā Xenotech Hunters; Kazurabā Ruby Monday.
 - **4 of these 8 have user-suggested proxies** (Emily, Richard Quinn, Optimate Agent Maximus, Dart); **4 have no designated proxies** (Father Lucien Sforza, Dr. Priya Harper, Sāchā, Kazurabā Ruby Monday).
 - AVA is **maximum fielding allowance, not a recommended ownership target**. 'Gap to AVA' reports mathematical room only, not a purchase recommendation.
@@ -53,7 +53,7 @@
 | Knauf | 1 | 1 | 0 | Owned | — |
 | Warcors | 1 | 1 | 0 | Owned | — |
 | Maximus, Optimate and HexaDome Legend | 1 | 1 | 0 | Owned | Maximus TAG |
-| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy only | Proxy: Asura or OSS; Sharvara K9 peripheral owned separately (1) |
+| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy only | Proxy: Asura or OSS; Sharvara K9 peripheral owned separately (0) |
 | Sāchā Xenotech Hunters | 0 | 1 | 1 | No dedicated model | User correction: owned 0; no proxy specified |
 | Kazurabā Ruby Monday | 0 | 1 | 1 | No dedicated model | No proxy specified |
 
@@ -61,9 +61,10 @@
 
 | Peripheral model | Owned | Linked unit/profile | Notes |
 |---|---:|---|---|
-| Sharvara K9 | **1** | Dart, Optimate Huntress — profile 4 (42 pts, 0.5 SWC) | Separate peripheral miniature; does not count as a second Dart or an independently selectable Kestrel unit. Dart is still **0 owned** (Asura/OSS proxy suggested). |
+| Sharvara K9 | **0** | Dart, Optimate Huntress — profile 4 (42 pts, 0.5 SWC) | No Sharvara miniature owned. Dart is also **0 owned** (Asura/OSS proxy suggested). |
+| Crabbot | **1** | TAG pilot/peripheral (model shared with Military Orders) | One physical Crabbot across the collection; not an independent roster unit. Also included in MO's shared-model accounting. |
 
-Dart's Sharvara K9 option is already listed in the [Kestrel reference](../sectorials/panoceania/kestrel-colonial-force.md#dart-optimate-huntress). Its model is inventoried separately here rather than inflating the 40-unit standard roster count.
+Dart's Sharvara K9 option is already listed in the [Kestrel reference](../sectorials/panoceania/kestrel-colonial-force.md#dart-optimate-huntress). No Sharvara miniature is currently owned. The single Crabbot is a separate physical miniature, shared with [Military Orders](./military-orders.md), and neither peripheral changes the 40-unit standard roster count.
 
 ## Shared-REM accounting
 
@@ -85,7 +86,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 | Richard Quinn | Fusilier | Optional, if proxy accepted |
 | Father Lucien Sforza | None recorded | Needed to field without choosing a new proxy |
 | Optimate Agent Maximus | Hoplite | Optional, if proxy accepted |
-| Dart, Optimate Huntress | Asura / OSS; Sharvara K9 peripheral owned (1), but no Dart miniature | Optional for Dart herself if proxy accepted |
+| Dart, Optimate Huntress | Asura / OSS; Sharvara K9 peripheral owned (0), and no Dart miniature | Optional for Dart herself if proxy accepted |
 | Sāchā Xenotech Hunters | None recorded | Needed to field without choosing a new proxy |
 | Kazurabā Ruby Monday | None recorded | Needed to field without choosing a new proxy |
 
@@ -108,6 +109,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - The **optional** `Indigo Spec-Ops` and `Indigo Team-Ops` modes are **not** standard roster entries and are not counted in 40/40 coverage. Their ownership was not stated.
 - **Tech-Bees** was repeated in the supplied list; ownership is **one**, not two.
 - **Sāchā** is **0**, overriding the earlier quantity 1.
+- **Peripheral correction:** one Crabbot is owned, but Sharvara K9 ownership is **0**. This supersedes the earlier Sharvara count of 1.
 - **Bipandra** is **1** and **Dr. Priya Harper** is **0** according to the latest ownership correction. The overall physical total remains **47**.
 - This list does not assert all shared REM weapon builds are physically interchangeable or all tournament organizers accept the suggested proxies.
 
