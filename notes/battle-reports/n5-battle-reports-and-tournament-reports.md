@@ -36,7 +36,6 @@
 | Date* | Report name | Sectorials/factions | Publisher | URL | Note |
 |---|---|---|---|---|---|
 | Year 2026 (upload unverified) | Infinity N5 / Battle Report / ITS-17 Tournament / Dawn Raider 2026 | Not stated in title | Quiet Contender  | [Source](https://www.youtube.com/watch?v=FN-9_SzMGLU) | YouTube search title only; date not available |
-| Year 2026 (upload unverified) | Winning Borderbash 2026 - Tournament Report - Infinity the Game N5 | Not stated in title | Infinity the Dante | [Source](https://www.youtube.com/watch?v=Ux3_bYsFUQ4) | YouTube search title only; date not available |
 | Not verified | ISS Tournament Report - The Flying Wang - Infinity the Game N5 | Not stated in title | Infinity the Dante | [Source](https://www.youtube.com/watch?v=zpbxtEpUu58) | YouTube search title only; date not available |
 | Not verified | CanCon Tournament Report - Australian Satellite - Infinity the Game N5 | Not stated in title | Infinity the Dante | [Source](https://www.youtube.com/watch?v=6BXVNtk8TCo) | YouTube search title only; date not available |
 | Not verified | Infinity N5 / Battle Report / ITS-17 Tournament / Can'tCon26 | Not stated in title | Quiet Contender  | [Source](https://www.youtube.com/watch?v=ybnQTkQBemE) | YouTube search title only; date not available |
@@ -222,6 +221,32 @@
 | 2025-08-06 (forum) | Krug 2025 tournament archive | Multiple | CB forum | [Source](https://forum.corvusbelli.com/threads/n5-tournament-krug-2025.43602/) | Event index; not one game |
 | 2025-10-11 (forum) | Autumn Assault 2025 tournament index | Multiple | CB forum | [Source](https://forum.corvusbelli.com/threads/n5-tournament-autumn-assault-2025.43704/) | Event index |
 
+## 7. Supplemental multilingual, sectorial and ITS-focused YouTube finds
+
+*Additional targeted title/ID search. The YouTube search interface does not provide upload dates; a year appearing in the title is not a verified publication date.*
+
+| Date* | Report name | Sectorials/factions | Publisher | URL | Note |
+|---|---|---|---|---|---|
+| Not verified | Critical Intervention ITS 17 Battle Report - Svalhiema vs Shasvastii - Infinity the Game N5 | Shasvastii | Infinity the Dante | [Source](https://www.youtube.com/watch?v=iYkViwfYJz8) | Video search result; date unverified |
+| Not verified | Fast Panda Gaming: Infinity Battle Report - Dire Foes 9 Nocturne (Dashat Company vs. USAriadna) | Not identified by title | Fast Panda Gaming | [Source](https://www.youtube.com/watch?v=IGPl-JrIKp4) | Video search result; date unverified |
+| Not verified | Fast Panda Gaming: Infinity Battle Report - ITS17 Hardlock (Next Wave vs Military Orders) | Military Orders / Next Wave | Fast Panda Gaming | [Source](https://www.youtube.com/watch?v=YPDb9wX1DhI) | Video search result; date unverified |
+| Not verified | Fast Panda Gaming: ITS17 Infinity Battle Report - Akial Interference Ikari Company v Invincible Army | Invincible Army / Ikari | Fast Panda Gaming | [Source](https://www.youtube.com/watch?v=L9yQXdKDQ5U) | Video search result; date unverified |
+| Not verified | Fast Panda Gaming: ITS17 Infinity Battle Report - Cutthroat Druze v Corregidor | Corregidor / Druze | Fast Panda Gaming | [Source](https://www.youtube.com/watch?v=ypVn75PRiRs) | Video search result; date unverified |
+| Not verified | Infinity Battle Report Shasvastii vs Next Wave | Shasvastii / Next Wave | QuickFinity | [Source](https://www.youtube.com/watch?v=4oGcVLjfG7M) | Video search result; date unverified |
+| Not verified | Infinity N5 - Servicio Imperial vs Next Wave (Leirbag) - Campo de Batalla | Next Wave | Gravitypool Orbital Operations | [Source](https://www.youtube.com/watch?v=4PvEz1VFHEs) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report  -  Burlington Brawl ITS 18 Scenario Prep! - Data Harvest | Not identified by title | GMG Infinity x Tactical Awareness | [Source](https://www.youtube.com/watch?v=h-JAbq545zk) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report  -  Burlington Brawl ITS 18 Scenario Prep! - Double Bind | Not identified by title | GMG Infinity x Tactical Awareness | [Source](https://www.youtube.com/watch?v=ybPhzz14HbU) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report  -  Burlington Brawl ITS 18 Scenario Prep! - Neutralization | Not identified by title | GMG Infinity x Tactical Awareness | [Source](https://www.youtube.com/watch?v=aPJvOGd6EeE) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report  -  Burlington Brawl ITS 18 Scenario Prep! - The Dig | Not identified by title | GMG Infinity x Tactical Awareness | [Source](https://www.youtube.com/watch?v=LzbqKD-CNac) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report - Imperial Services vs Haqqislam Double Vehicles (Radial Unmasking) | Haqqislam | Robert Shepherd | [Source](https://www.youtube.com/watch?v=c1G0J1A8__k) | Video search result; date unverified |
+| Not verified | Infinity N5 Battle Report: Bakunin vs Svalarheima | Svalarheima Winter Force / Bakunin | Champion of Terra | [Source](https://www.youtube.com/watch?v=VmYyESZx9WU) | Video search result; date unverified |
+| Not verified | Infinity TABLETOP: Ich wurde vera****t / Road to Infinity #9 / Battle Report /  DICED | Not identified by title | DICED | [Source](https://www.youtube.com/watch?v=YxxfctavXtc) | Video search result; date unverified |
+| Not verified | LIT Battle Report. Ep1: Next Wave vs Shasvastii - ITS17 Area of Interest - 300pts | Shasvastii / Next Wave | London Infinity Tabletop | [Source](https://www.youtube.com/watch?v=WJH5JPA4rro) | Video search result; date unverified |
+| Not verified | LIT Battle Report. Ep3: Tunguska vs Next Wave - ITS17 Akial Interference - 300pts | Next Wave / Tunguska | London Infinity Tabletop | [Source](https://www.youtube.com/watch?v=SxRlMtkTRtM) | Video search result; date unverified |
+| Not verified | LIT Battle Report. Ep5: Military Orders vs Morat Aggression Force - ITS17 Superiority - 300pts | Morat Aggression Forces / Military Orders | London Infinity Tabletop | [Source](https://www.youtube.com/watch?v=AbNk32eGkVI) | Video search result; date unverified |
+| Not verified | Outbreak! - NCA vs Torchlight Brigade - Infinity the Game N5 Battle Report | Torchlight Brigade | Infinity the Dante and Loss of Lieutenant | [Source](https://www.youtube.com/watch?v=i9CNGTPN9G4) | Video search result; date unverified |
+| Not verified | Tohaa vs.  Shasvastii: Infection – Infinity the Game Battle Report | Shasvastii / Tohaa | burlesford | [Source](https://www.youtube.com/watch?v=tsVc8Xe6nSg) | Video search result; date unverified |
+
 ## Further discovery and verification
 
 - [Corvus Belli tournament-report forum index](https://forum.corvusbelli.com/tags/tournament-report/)
@@ -234,4 +259,4 @@
 
 For tournament-useful matchup analysis, add **scenario, ITS season, N5 revision, actual Army lists, player, event date, round, score/result, points, notable unit synergy, link to time offset and evidence reliability** after checking each source. Separate actual played results from player opinion and avoid aggregating undated or ambiguous faction encounters into faction win rates.
 
-**Search method:** 10 varied YouTube video searches (deduplicated by video ID), two podcast episode archives, cross-checked event forum threads, dated articles and MiniWarGaming's release-date catalog. The search results are not a claim that all videos were watched.
+**Search method:** 22 varied YouTube video searches (deduplicated by video ID), two podcast episode archives, cross-checked event forum threads, dated articles and MiniWarGaming's release-date catalog. The search results are not a claim that all videos were watched.
