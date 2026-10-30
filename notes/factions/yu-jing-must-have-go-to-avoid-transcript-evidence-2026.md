@@ -186,3 +186,16 @@
 | [Infinity the Dante — CanCon IA podium interviews](https://www.youtube.com/watch?v=rJJ4PamI-hE) | Previously full-transcript-audited in [Invincible Army reference](../../sectorials/yu-jing/invincible-army.md), with real-game examples of Gūdǎn, Lù Duān and support strategy; corroboration, not a global usage survey. |
 
 **Maintenance:** If the roster/rules revision changes, re-check September 2026 N5.3 profile IDs, AVA, Fireteams and relevant unit revisions before updating these labels. Do not silently transplant White Banner or Imperial Service profile weapons, Wildcards or link bonuses into Vanilla or Invincible Army.
+
+## Whole-unit purchasing audit — complete models, not loadouts (2026-10-30)
+
+**No hard whole-unit “never buy”** follows from the recorded N5.3 opinions. A model can be **deferred** if every reason to buy it is currently niche in *your* army; this is not a ban in another sectorial.
+
+| Army | Whole-unit purchasing decision | Evidence / condition |
+|---|---|---|
+| **Vanilla Yu Jing** | **No verified entire unit to avoid** | Hac Tao Hacker, standalone Shàng Jí and four-Kuang-Shi criticism is about roles/packages; cheaper or different profiles remain effective. |
+| **Imperial Service** | **No verified entire unit to avoid** | Crane ordinary close-fighting value is poor, but gun/hacker/LT/link jobs survive. Bayara is explicitly disputed. |
+| **Invincible Army** | **Defer Captain Qiang Gāo** as a general gun purchase; **conditional** | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) places him in C tier relative to Shàng Jí. Buy for a **specific immunity/defensive matchup** or preferred team design. Also **defer Zhanshi Yīshēng Doctor** if existing linked Paramedics cover recovery; Doctor is a real separate capability. The same reviewer says IA has **“no real duds anymore.”** |
+| **White Banner** | **No verified entire unit to avoid** | Dàofěi is disputed with successful mission uses; Shàng Jí/TinBot, Rui Shi+Smoke/EVO and specialist Hac Tao all have distinct jobs. |
+
+**Avoid-by-profile ≠ avoid-by-miniature:** especially do not turn a *standalone* Shàng Jí gun criticism in White Banner into a whole-unit skip in Invincible Army. [Cross-faction buying shortlist](model-purchase-avoid-summary-2026.md).
