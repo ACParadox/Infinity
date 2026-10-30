@@ -216,3 +216,19 @@ The links below are audit sources; a recording's publication date is essential w
 | **FRRM** | [WIP12 E197 with Logan (26 Nov 2025)](https://open.spotify.com/episode/3YNuQVF24bJmCGdxL1FjK5) / [YouTube](https://www.youtube.com/watch?v=GmVfuKSIkXg), direct Moblot/Metro/Anaconda positives and Bruant/Zouave negatives; [Tactical Awareness S3E39](https://open.spotify.com/episode/2Pqi3i2SyoSGyKciy7r2gD) / [YouTube](https://www.youtube.com/watch?v=VROiGibXnEs), counterexamples; [Loss of Lieutenant E157 (18 Oct 2025)](https://open.spotify.com/episode/1lq0RhEWwpegXr1kkKJzUr), competitive alternative interpretations. |
 
 **Audit result:** The source standard supports many **go-to** recommendations, a handful of **near-must** packages, and only a few serious **strong avoids** (especially FRRM). A mission-dependent, disputed, or pre-rework negative comment is **not** evidence for a universal “never take.” This distinction is deliberate and should survive future refreshes.
+
+## Whole-unit purchasing audit — full-unit shopping skips (2026-10-30)
+
+The old avoid section mostly rates **profiles, pairings and list architecture**, not entire units. **No source-backed absolute all-profile ban** exists across these six rosters. Here are only defensible **conditional whole-model deferrals**.
+
+| Army | Entire model/unit buying decision | Why / exception |
+|---|---|---|
+| **Vanilla Ariadna** | **No verified whole-unit avoid** | Chernobog versus several camo/scoring pieces is a costly **architecture**, but its ARM8/AP HMG/Tactical Awareness has a distinct heavy-attack purpose. |
+| **USARF — Wild Bill** | **Defer as generic Grunt-team add-on; conditional** | [Swiss Miss USARF](https://www.youtube.com/watch?v=AboAGci9_9A) says the expensive, short-range and fragile package is hard to justify. Buy only for a **planned close-quarter pistol delivery**; don't extrapolate this to Wild Bill in another sectorial. |
+| **TAK** | **No verified whole-unit avoid** | Strong objections concern excess premium shooters or specific team arrangements, not a model whose every profile fails its job. |
+| **Kosmoflot** | **No verified whole-unit avoid** | Wallace with too few Irregulars and a second expensive gun team are poor **build choices**, not universal model bans. |
+| **Caledonia** | **No verified whole-unit avoid** | Premium Wulver Core overload and Wallace without an Irregular economy are situational packages. |
+| **FRRM — Brigadier Jacques Bruant** | **Defer if buying solely for the default midfield gun/LT-order combo** | [WIP12 E197](https://open.spotify.com/episode/3YNuQVF24bJmCGdxL1FjK5) is strongly negative on expensive single-Wound infiltrating Bruant and his paired **Zouave NCO** engine. A specific surprise line or command plan can still pay off; not a proved all-profile ban. |
+| **FRRM — generic Zouave** | **Do not mark whole unit avoid** | Expensive FTO FO/Paramedic/Panzerfaust are criticized but **Sapper** and unusual mission cases are positively defended by a presenter in the same source. |
+
+**Shopping principle:** do not translate “avoid a Bruant + Zouave NCO *package*” into “neither miniature is ever worth owning.” [Cross-faction buying shortlist](model-purchase-avoid-summary-2026.md).
