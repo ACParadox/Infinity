@@ -1,5 +1,8 @@
 # Miniatures Market — Mercenary / miscellaneous category price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 85 listings, USD $1100.85.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded / expanded:** 2026-10-30. **Source:** Two user-provided Miniatures Market Mercenary category product-text batches, attributed to [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency: USD.** User-supplied price snapshot **(U)**, **not independently verified as live retailer stock or checkout pricing**. No product-specific source links/photos were supplied, so none are invented. Prices apply to the named listing or complete box, not each miniature, and exclude CAD conversion, taxes, postage, and duties.
 
 **Availability:** Across two user-provided catalogue batches, this file now has **82 distinct product-title/price listings**: **81** explicitly labelled **“Add to cart”** and the original **Tanko Zensenbutai ($20.70)** with no visible availability label (**unconfirmed stock**). The second batch supplied **55 rows**, of which **9 exact name-and-price duplicates** of existing entries were skipped and **46 new listings/price variants** were added. **No entry in either batch was explicitly marked “Out of stock.”** Catalogue Add-to-cart text is not independently verified stock.
@@ -117,3 +120,16 @@
 - **Cross-faction overlap:** **Spiral Corps Army Pack $54.70** also appears in the Tohaa reference, and **O-12 Operation Wildfire Starter $27.30** appears under the mercenary filter. Not all category entries have mercenary Army access. The user's JSA file was **not** altered in this update.
 
 Other price references: [JSA](jsa-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Haqqislam](haqqislam-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md), [Nomads](nomads-miniatures-market-prices-usd.md), [Combined Army](combined-army-miniatures-market-prices-usd.md), [ALEPH](aleph-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [Tohaa](tohaa-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**3 products added, USD $42.50.** Compared normalized product name and exact USD amount against all other existing faction price references. These records were absent from previous snapshots. Quoted Add to cart is a **pasted catalogue label, not independently verified live stock**. No individual seller URLs/photos were included.
+
+| Broad-catalogue # | Product | Price USD | Source description / contents | Pasted status | Edition, contents and legal-roster caveat |
+|---:|---|---:|---|---|---|
+| 466 | **Aïda Swanson exclusive - Event Tournament Pack** | $11.50 | A?da Swanson exclusive – Event Tournament Pack | Add to cart | Aïda Swanson event-tournament-exclusive $11.50 variant; regular Aida $9.60 already recorded in other price files. |
+| 564 | **Dire Truth** | $23.10 | Dire Truth | Add to cart | Dire Truth product of uncertain category and contents. No army eligibility claimed; park in Mercenary/miscellaneous section of retail filter. |
+| 565 | **Free-lance Stringer** | $7.90 | Free-lance Stringer | Add to cart | Free-lance Stringer / freelance reporter-themed model; roster classification and packaged contents not specified. |
+
+**Consolidated one-of-each listed-product total for this file: USD $1100.85 (85 listings).** Original source group 82 at USD $1058.35 + 3 at USD $42.50. Some minis represent collector versions or alternate sculpts rather than additional units.
