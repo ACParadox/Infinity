@@ -29,8 +29,8 @@
 | Beasthunters Free Guild | Shared 1 | 1 | 0 | Shared — prior inventory | Same 1 Beasthunter recorded in Kestrel and TAK. |
 | Caledonian Volunteers Corps | 3 | Total (T) | n/a | Owned — Caledonia-specific | AVA TOTAL; 1–5 Volunteers in the corresponding Fireteam chart row. 3 physical Volunteers. |
 | 112, Emergency Service (Motorized) | Shared 1 | 2 | 1 | Shared — prior inventory | Same 1 motorized 112 already recorded in TAK. Distinct from foot 112. |
-| William Wallace | 0 | 1 | 1 | 0 dedicated; buy/proxy | User wants to buy or proxy with a suitable Highlander; physical Highlander proxy must be allocated, not duplicated. |
-| 112, Emergency Service | 0 | 2 | 2 | 0 dedicated; buy/proxy | Proxy via existing TAK Dozer, Kazak Doktor or another suitable S2 model; not a second motorized 112. |
+| William Wallace | 0 | 1 | 1 | 0 dedicated; buy/proxy | Avoid using a Caledonia-legal Highlander as Wallace if possible; choose a distinct **non-Caledonia S2 commander with matching Scottish look**, or record no good known donor; no miniature double counted. |
+| 112, Emergency Service | 0 | 2 | 2 | 0 dedicated; buy/proxy | Prefer **TAK Kazak Doktor (S2 LI)** if unused and not selectable as that named unit in Caledonia; avoid **Dozer**, which is itself legal in Caledonia. Not a motorized 112. |
 | Uxía 'Cherry' McNeill | 1 | 1 | 0 | Owned — Caledonia-specific | User's Uxia; one dedicated miniature. |
 | Warcors | Shared 1 | 1 | 0 | Shared — prior inventory | Same 1 Warcor recorded across Kestrel, Military Orders, Steel Phalanx, Shindenbutai and TAK. |
 | Armand 'Le Muet' | 1 | 1 | 0 | Owned — Caledonia-specific | One dedicated Armand miniature. |
@@ -64,7 +64,7 @@ The **19 new** count is composed of Volunteers 3, Cateran 1, Isobel 1, Armand 1,
 
 | Caledonia unit | Dedicated owned | AVA | Action |
 |---|---:|---:|---|
-| **112 Emergency Service (foot)** | 0 | 2 | Proxy a suitable foot doctor model, such as the already-owned TAK Kazak Doktor or Dozer, when not fielded as its original unit |
+| **112 Emergency Service (foot)** | 0 | 2 | Prefer unused **TAK Kazak Doktor (S2 LI)** if not a Caledonia entry; **Dozer is Caledonia-legal and discouraged** as donor |
 | **The Scots Guards** | 0 | 5 | **Buy 1–3**, as requested, according to whether the list needs a solo camouflaged model, an FTO Fireteam member, or multiple simultaneous profiles |
 | **Denma Connolly** | 0 | 1 | **Buy**; no dedicated model or named suitable physical proxy recorded |
 | **William Wallace** | 0 | 1 | **Buy or proxy** with a suitable Highlander miniature (appropriate silhouette and clear declaration); no additional named Wallace miniature is assumed owned |
