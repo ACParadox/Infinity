@@ -68,7 +68,7 @@ Each amount is **provisional USD** pending a live quote and exact SKU. Seller ph
 
 Only models recorded in [Kestrel inventory](../../inventory/kestrel.md), [Military Orders inventory](../../inventory/military-orders.md), [miscellaneous inventory](../../inventory/other-units.md), and other confirmed [inventory files](../../inventory/) count as owned; no models are added because another buy list recommended them.
 
-| SAA/VIRD model available in **Varuna** | Actual known models | Action |
+| Varuna-legal model / unit | Actual known models | Action |
 |---|---|---|
 | **Squalos Mk-II** (S6 TAG) | **1 exact** in Kestrel | Already has a strong **55/62/66pt** option including Tactical Awareness. Buy no second Squalos without a specific double-TAG list. **Squalos S6 cannot proxy S7 Cutter**. |
 | **Fusilier Indigo Bipandra** | **1 exact** in Kestrel | No purchase. Legitimate Varuna roster character; **don't use her sculpt as someone else's proxy** in Varuna. |
