@@ -1,7 +1,6 @@
 # Miniatures Market — PanOceania price reference (USD)
 
-**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 87 listings, USD # Miniatures Market — PanOceania price reference (USD)
-401.45.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 87 listings, USD $1,401.45.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
 
 
 **Recorded:** 2026-10-30. **Source:** User-provided PanOceania category text (82 catalogue product entries), attributed to [Miniatures Market's Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency:** USD (source-price snapshot). **U = user-supplied, not independently verified against active listings or checkout.** No individual product URLs or photos were included in the pasted text, so none are invented. No CAD conversions, tax, shipping, customs or inventory assumptions.
