@@ -1,0 +1,140 @@
+# Next Wave — inventory-aware miniature buy list (Infinity N5.3)
+
+**Prepared 2026-10-30 · committed on `main`.** Purchase recommendations **do not update owned inventory**. Army legality, troop categories, availability and Fireteams: [canonical Next Wave N5.3 roster](../../sectorials/combined-army/next-wave.md), Army revision `7.26246.158`, 2026-09-03 roster, verified 2026-10-15. Tactical best/skip ratings from [source-audited Combined Army model choices](combined-army-must-have-go-to-avoid-transcript-evidence.md); profile criticism is **not** an entire unit ban. Read [repository silhouette/appearance/identity proxy policy](../miniature-proxy-guidelines.md). All owned models were checked in [other units](../../inventory/other-units.md), [Caledonia](../../inventory/caledonia.md), [Kestrel](../../inventory/kestrel.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [Military Orders](../../inventory/military-orders.md), [TAK](../../inventory/tak.md), and [Shindenbutai](../../inventory/shindenbutai.md). **Only ONE Caskuda and ONE Armand exist**; no full CA army has been reported.
+
+## Collection verdict and most useful buys in order
+
+**No dedicated Next Wave troops are recorded.** Your owned **Caskuda is not Next Wave legal**, while **Achilles, Pandora and Teucer are also NOT recorded owned** (existing Steel Phalanx collection does not include these names as inventoried bodies). The 2025 Next Wave Action Pack is **10/10 Next Wave legal** and provides 3 Harbingers, Contrabandolero, Cliff-Jumper, Ironside, 2 Raindancers, Tekdraken Steeljaw, Pandora; it is the obvious first coherent investment. The most strongly sourced near-default is **Pandora**, with Gearhead/Puzzler cheap-tech support in disruption lists. The MMM user-saved CA price file holds several 2026 Next Wave offers; don't buy two standalone Next Wave starter pack copies out of SKU/title ambiguity.
+
+| Priority | Product or unit / quantity | Present physical ownership | Why buy, skip or try a proxy |
+|---|---|---|---|
+| **P1** | Next Wave Action Pack 10 | 0 | All ten legal. UTZ USD $42.00 vs 401 CAD $127.95 marked out of stock. Main built force Harbingers+Raindancers+Pandora. |
+| **P1** | Pandora (included in Action Pack) | 0 | Near-auto in source review, distinct specialist; no separate purchase if boxed figure obtained. |
+| **P1** | Gearhead + Puzzler robotic partner | 0 | Engineer/technical hacking with **separate Puzzler S silhouette**; MM Sartroids Ranters+Puzzlers set supplies a Ranter and a Puzzler, but not Gearhead. |
+| **P1/P2** | Next Wave Expansion Alpha (3) | 0 | Teucer Sniper, Patroclus HRL, Contrabandolero Hacker; all three legal. Tistaminis CAD $61 in stock vs 401 CAD $59.95 in stock; avoid using user-owned AI/Phalanx models that do not exist. |
+| **P1/P2** | Next Wave Expansion Beta (3) | 0 | Blackheart with Contender, Gearhead Vulkan, Wraith-1 MMR; three distinct missing identities. Currently no exact saved MM price for this box; Canadian verify price. |
+| **P2** | Sartroids Ranters & Puzzlers (2) | 0 | MM USD $24.35, 401 CAD $60.95 sold out. Two REMs; Puzzler support and Ranter attack are not two extra Regular troopers. |
+| **P2** | Stingers x1–2, Ironsides if plan | 0 | Stingers 3-model box MM USD $26 or 401 CAD $58.95 in stock; source criticizes generic Harbinger heavy gun vs elite gun choices. |
+| **P2** | Skyhound VH S7 one | 0 | Distinct aircraft, Tistaminis CAD $70 & 401 $70.95 in stock; cannot use Caskuda alien Combat Jump TAG as a matching aerial vehicle merely because of S. |
+| **P2/P3** | Juggernaut TAG x1 or Achilles/Patroclus team | 0 | TAG centerpiece or strong character subteam. **Achilles CA resin MM USD $6.60** older/new figure must be verified before using current rules/size, no owned Achilles. |
+| **Skip/proxy** | Extra Harbinger HMG/ML, unplanned Wraith hidden MMR, naked Gearhead Engineer | 0 | Reviews criticize these *profiles*, not whole troop identities; Gearhead/Puzzler support and useful Harbingers remain high priority. |
+
+## Primary saved Miniatures Market and Ultimate Toy Zone prices (USD -> CAD)
+
+Saved source files: [Miniatures Market Combined Army USD Markdown](combined-army-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD Markdown](ultimate-toy-zone-infinity-prices-usd.md), and for eligible mercenaries [Miniatures Market Mercenary USD](mercenary-miniatures-market-prices-usd.md). The first has **104 recorded prices**, including limited editions, accessories and **scenic bases without models**. **Every original USD price below is U = user-supplied October 30, 2026 retailer catalogue snapshot**, not verified live orderability or today's checkout. Conversion uses **1 USD = 1.3985 CAD** (2026-10-29 benchmark), rounded to two decimals, before **shipping, GST/QST, import brokerage, duties and credit-card FX spread**. The location of MM's **warehouse/dispatch country is unknown**; UTZ is an online seller with **unverified dispatch country/city**. Don't confuse `miniatures.market` with `miniaturemarket.com`. Product-specific seller URLs are given *only when supplied*, and saved source Markdown preserves missing-item provenance. Prices always refer to **one listed complete box/product**, not price per physical miniature. Merchandise names do not determine N5 legality.
+
+| Saved product and edition | Original USD | Approximate CAD | Seller/location and listing | Quantity, sculpt generation, legality, overlapping inventory |
+|---|---:|---:|---|---|
+| **Infinity – Combined Army – Next Wave – Action Pack** | USD $42.00 | **CAD $58.74** | [Saved UTZ catalogue](ultimate-toy-zone-infinity-prices-usd.md) · Ultimate Toy Zone online; dispatch location unverified | **10-model** Next Wave Action Pack archived UTZ USD $42, all 10 standard legal. |
+| **Sartroids: Ranters & Puzzlers** | USD $24.35 | **CAD $34.05** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Sartroids Ranter + Puzzler, **2 separate robot models** and not generic infantry. |
+| **Stingers, Security Tactical Unit** | USD $26.00 | **CAD $36.36** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Stingers box with MMR, HMG and one more? Exact physical 3 described, count check before comparison. |
+| **Juggernauts, Armored Assault Brigade (MULTI HMG)** | USD $31.20 | **CAD $43.63** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Juggernaut resin TAG single, distinct silhouette from owned Caskuda. |
+| **Achilles** | USD $6.60 | **CAD $9.23** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Achilles single **Combined Army version** (older model variant), none actually owned. |
+| **Reinforcements: Combined Army Pack Alpha** | USD $44.40 | **CAD $62.09** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Reinforcements Exrah Alpha: 2 Base+2 Void+Vector+EXO; **Base/Void/Vector/EXO not standard Next Wave**, don't buy for Next Wave. |
+| **Victor Messer - Event Tournament Pack** | USD $11.50 | **CAD $16.08** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Victor Messer event-exclusive **not standard Next Wave**; seller category irrelevant. |
+| **Infinity – Combined Army – Achilles** | USD $14.39 | **CAD $20.12** | [Saved UTZ catalogue](ultimate-toy-zone-infinity-prices-usd.md) · Ultimate Toy Zone online; dispatch location unverified | UTZ Achilles regular CA figure, compare MM $6.60 alternative release. |
+| **Maximus (Exclusive Pack)** | USD $15.00 | **CAD $20.98** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Maximus exclusive figure **not standard Next Wave roster**, price is not army need. |
+| **Exclusive scenic base of Maximus** | USD $3.50 | **CAD $4.89** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Maximus SCENIC BASE ONLY, not mini, not Next Wave legal. |
+| **Sargosh (Limited edition)** | USD $8.50 | **CAD $11.89** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Sargosh LE tournament sculpt, **not Next Wave regular roster**. |
+| **Sargosh** | USD $7.30 | **CAD $10.21** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Sargosh standard single, **not Next Wave roster**; do not count. |
+| **Avatar** | USD $27.30 | **CAD $38.18** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Avatar TAG not Next Wave; bought for another army only. |
+| **Exclusive scenic base of Caskuda** | USD $4.50 | **CAD $6.29** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Caskuda scenic base only, user already owns Caskuda not legal Next Wave. |
+| **Caskuda (Exclusive Pack)** | USD $18.60 | **CAD $26.01** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Caskuda LE model, not legal Next Wave and owned already. |
+| **Krakot Renegades (2 SMG, Chest Mine)** | USD $14.00 | **CAD $19.58** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Krakot Renegade from CA catalog, **not Next Wave roster**. |
+| **Combined Army Booster Pack Beta** | USD $24.10 | **CAD $33.70** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Combined Army Booster Beta Ko Dali/Victor/Nourkias: only Ko Dali Next Wave legal? **Ko Dali yes**, Victor/Nourkias not. |
+| **BIT and KISS! (Hacker)** | USD $10.30 | **CAD $14.40** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Bit & KISS two-piece hacking unit, legal Next Wave with correct KISS peripheral model. |
+| **Reinforcements: Combined Army Pack Alpha** | USD $44.40 | **CAD $62.09** | [Saved MM Combined Army catalogue](combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Exrah Reinforcements six, not standard Next Wave, avoid label-only purchases. |
+
+## Canadian retail fallbacks — displayed CAD and store city
+
+Canadian storefront location **does not imply physical warehouse location**. Prices/stock are October 2026 retailer catalogue checks and should be re-verified before payment. A sold-out price is a comparison **not proof of current availability**; for OOP older sets consider used/box splits.
+
+| Product | Displayed Canadian price | Canadian retailer / location | Stock, quantity and suitability |
+|---|---:|---|---|
+| Next Wave Action Pack 10 | **CAD $127.95** | [401 Games](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Out of stock; UTZ USD $42 historical not confirmed live. |
+| Next Wave Expansion Alpha 3 | **CAD $59.95** | [401 Games](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock indexed source; Tistaminis CAD $61 also in stock. |
+| Sartroids 2 REM | **CAD $60.95** | [401 Games](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Sold out indexed; MM USD $24.35 historical. |
+| Stingers 3 | **CAD $58.95** | [401 Games](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock indexed; Tistaminis CAD $60 low stock. |
+| Skyhounds aircraft VH | **CAD $70.95** | [401 Games](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock indexed; Tistaminis CAD $70 in stock. |
+| Juggernaut TAG | **No independently checked CAD quote** | [Tistaminis](https://tistaminis.com/collections/combined-army) — Hamilton | Verify SKU, robot size and stock; don't invent CAD price. |
+
+## Human Sphere box-content, old-versus-new and limited-edition audit
+
+[Human Sphere Starter Boxes index](https://human-sphere.com/Starter_Boxes) -> [Combined Army Starters](https://human-sphere.com/Combined_Army_Starters) is the physical box reference, with [Operations Boxes](https://human-sphere.com/Operations_Boxes) for **Operation Wildfire** and **Beyond Wildfire**. Canonical N5.3 roster above overrides box labels, CodeOne era, old printed loadout/edition, and marketing subgroup. **A renamed, reissued or repacked kit does not automatically mean the sculpts changed.** Explicit event-exclusive/prerelease figures and resin scenic bases do not count as additional standard unit identities or troop bodies. For multipiece boxes, a physical dog/pet/peripheral, TAG auxiliary, TinBot, token or mission HVT is **not another Regular-order trooper**.
+
+| Actual box/edition | Models and physical pieces | Legal coverage, user inventory and resculpt/LE warning |
+|---|---|---|
+| **2025 Next Wave Action Pack REF 281636-1187** | 3 Harbingers (2 rifle, 1 hacker), Contrabandolero BSG, Cliff-Jumper BSG, Ironside HMG, 2 Raindancers (Red Fury, Contender), Tekdraken Steeljaw, Pandora | 10/10 current Next Wave. [401 CAD $127.95](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) out of stock; UTZ USD $42 archived. |
+| **Next Wave Expansion Alpha REF 281641-1200** | Teucer Plasma Sniper, Patroclus HRL, Contrabandolero hacker SMG | 3/3 current Next Wave; **Teucer/Patroclus aren't recorded owned** despite Steel Phalanx army. |
+| **Next Wave Expansion Beta REF 281648-1221** | Tekdraken Blackheart Contender, Gearhead Vulkan, Wraith-1 MULTI Marksman | 3/3 Next Wave, fits technical/disruption core. |
+| **Sartroids Ranters & Puzzlers REF 281650-1227** | Ranter with Mk12 + Puzzler with E/Mitter | Two robot models with different battlefield roles, no infantry order multiplied. |
+| **Stingers three-box** | Stinger MULTI MMR, Stinger HMG + one further stinger (exact item description to confirm) | 3 body roles, correct size, older version vs newest cannot be established just by retailer label. |
+| **Skyhounds vehicle** | One S7 aircraft/VH model, specific payload as chosen | Not a TAG or an owned Caskuda; specialized flanking/air plan. |
+| **Combined Army generic Action Pack 10** | 3 Unidrons, Rodok, Dāturazi, Umbra, Nexus, Noctifer, Victor, Ko Dali | **Only Ko Dali** of these is Next Wave standard legal; 1/10, poor Next Wave-only purchase. |
+| **Morat Action Pack 9** | 3 Vanguard, Rasyat, Kaitok, Kyosot, Raktorak, Dartok, Zerat | 0/9 Next Wave legal. Don't buy cross-faction because the parent label is Combined Army. |
+| **Next Wave Exrah reinforcements** | Base/Void/Vector/EXO six-person box | The normal Next Wave roster **does not** contain these four names; Reinforcement access is not main-list legality. |
+
+## Proxy suggestions using already owned miniatures — strict policy
+
+[Proxy guidelines](../miniature-proxy-guidelines.md) insist on **exact target S including base diameter and silhouette height**, comparable unit class and appearance (LI/MI/HI/SK/WB/REM/TAG/VH), clearly distinguishable weapons/role, and **avoiding donor miniatures of units also selectable in this current force**. One physical mini can only represent **one** simultaneous combatant. Cross-army reuse is legal only by named roster; collection inventory is **not cumulative across buy lists**.
+
+| Target model | Real owned donor/proxy option | Acceptability and restrictions |
+|---|---|---|
+| **Human-looking S2 LI** (Next Wave Harbingers, Gearheads, Wraith team specialists, or alien-looking troop when plausible) | **Kestrel Fennecs x6 or MO Crosiers x3**, **OSS Trisha N33 x1** as LI specialist | Potential **B/C** for new-human Next Wave, but **poor for unmistakably alien Morat/Shasvastii/Exrah faces**. Model's original name must be nonlegal in the current target roster. |
+| **Humanoid S2 MI/HI** such as some armoured Morat/Human-exrah troops | **Kestrel Fireflies x3, Black A.I.R. x1 (MI)** or **Kestrel Griffins x2, Hetkari x1, MO Hospitallers x4 (HI)** | Only if actual target S **is S2** and armour silhouette plausible; **don't use human S2 knight for an alien S5 HI**. Alien anatomy and distinctive head/armour matter. |
+| **S2 SK** Caliban/Speculo/Shrouded/Malignos/Contrabandolero | **OSS Naga x1, TAK Scouts x2, Caledonia SAS x1** (S2 SK models) | Base/class match if target really S2. **Aliens/impersonation look different**; dedicated Speculo/Caliban sculpt preferable for frequent use. Never use a Naga that is elsewhere concurrently fielded. |
+| **Creature/warband** Gaki, Preta, Taigha, Tekdraken | **Four pooled S5 Ariadna dog miniatures** (2 USAriadna dog figures rebased S5 +2 Caledonia dogs) **only if the target is precisely S5 and credibly animal-like** | Matching S and archetype both necessary. Different alien creature anatomy may make proxy unsuitable. **2 TAK Dog-Warriors are S6**, not an S5 beast, and no canine proxy can stand for human/robot HI by base alone. |
+| **S1 Slave Drone** | **2 ALEPH Yudbots and 2 PanO Palbots** shared models | Could proxy a S1 servant if size/appearance acceptable; don't infer Staldron's exact S from these. Each simultaneous servant needs own model. |
+| **CA drones and Sartroids** | **4 PanO Dronbots**, **2 ALEPH Rebots**, **2 PanO Mulebots** (physical pools, not counts per CA drone name) | Only when **target exact S and recognizable alien robot shape** match. Unidrons may be **S2 robotic infantry** and **NOT** same model as S3/S4 drone; verify before assigning any REM donor. Ranter/Puzzler are distinct robots. |
+| **Owned Caskuda** (Vanilla/Onyx only) | **1 exact Caskuda S7**, no Staldron reported | Field as Caskuda where legal, **not a general TAG proxy**. Special Caskuda collector version/base only don't add ownership. Staldron ancillary needs its own correct physical body if current profile requires it. |
+| **Owned Armand Le Muet** (Vanilla only) | **1 exact Armand (Caledonia inventory)** | Use same unique existing figure; no extra purchase. Armand is **not** standard Morat/Shasvastii/Onyx/Next Wave roster legal. |
+| **Avatar/Raicho/Bultrak/Sphinx/Overdron/Xeodron/Ironside/Juggernaut, Skyhound VH** | No assured owned matching **alien TAG/aircraft**. Existing PanO TAGs and Caskuda cannot automatically stand in | **Buy/borrow appropriate sculpt or skip**. Aircraft VH ≠ Combat Jump TAG, and S6 and S7 have different base/height. Miniatures with unique transformed/deployed form require correctly represented forms. |
+| **A human Warcor to Glyph Warcor** | The **one human Warcor** recorded from Kestrel | A **proxy**, **not an exact Glyph Warcor alien miniature**. Similar S2 LI reporter pose may be acceptable but visually human; announce and use each body once. |
+
+## Current N5.3 standard roster — ownership and purchasing (35 legal entries)
+
+The following is a full roster audit, excluding separately listed **Spec-Ops/Team-Ops and Exrah Reinforcements** unless a *same named unit* appears in the normal roster. “0 dedicated” means no owned exact Combined Army model, **not that no allowable proxy exists**. AVA is a **limit not a target**. Fireteam access depends on exact current profile and legal formation, including FTO and required-choice limits.
+
+| Current N5.3 legal unit | AVA | Troop category | Existing owned / borrowed model pool | Purchase judgment |
+|---|---|---|---|---|
+| Contrabandoleros, Resource Extraction Team | 2 | SK | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Tekdrakens: Steeljaws | 4 | WB | 0 named; **4 pooled S5 Ariadna dog models** potential animal donors only | Verify target S and alien/creature look. **Two TAK S6 Dog-Warriors are NOT S5**; do not invent creature count. |
+| Med-Tech Obsidon Medchanoids | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Slave Drones | 2 | REM | 0 exact; **2 ALEPH Yudbots + 2 PanO Palbots** donor pool | Requires S1 servant body separately, verify actual source/target silhouette and alien robot look. |
+| Skyhounds, Combat and Recon Air Squadron | 1 | VH | 0 exact relevant TAG/VH | No faithful visually similar same-S alien TAG/VH owned. Caskuda **not** general-purpose TAG proxy; buy dedicated or skip. |
+| Gearheads, Tech Savant Team | 2 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Tekdrakens: Blackhearts | 4 | WB | 0 named; **4 pooled S5 Ariadna dog models** potential animal donors only | Verify target S and alien/creature look. **Two TAK S6 Dog-Warriors are NOT S5**; do not invent creature count. |
+| Unidron Batroids | 2 | REM | 0 exact; pooled PanO/ALEPH REM donors conditional | Different alien robot morphology and target S may make donor unsuitable: choose dedicated sculpt when commonly fielded. |
+| Pandora, Team Achilles' Field Researcher | 1 | LI | **0 named** (not recorded in Steel Phalanx inventory) | Do not infer ownership from owning Steel Phalanx. Proxy cautiously with same S/class/appropriate human-looking model. |
+| Teucer, Team Achilles' Shooter | 1 | MI | **0 named** (not recorded in Steel Phalanx inventory) | Do not infer ownership from owning Steel Phalanx. Proxy cautiously with same S/class/appropriate human-looking model. |
+| M-Drones | 2 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Ikadron Batroid | 2 | REM | 0 exact; pooled PanO/ALEPH REM donors conditional | Different alien robot morphology and target S may make donor unsuitable: choose dedicated sculpt when commonly fielded. |
+| Bit & KISS! | 1 | LI + Peripheral | **0 Bit; 0 KISS** | Two-body hacker+peripheral, require correct distinct models; not interchangeable with servant robot without S check. |
+| Special Operative Ko Dali | 1 | MI | 0 dedicated character | Buy one only if its exact role repeatedly planned; alternative event/older sculpt does not add legal simultaneous copies. |
+| Sartroids: Puzzlers | 2 | REM | 0 exact; pooled PanO/ALEPH REM donors conditional | Different alien robot morphology and target S may make donor unsuitable: choose dedicated sculpt when commonly fielded. |
+| Nexus Operatives | 2 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Juggernauts, Armored Assault Cavalry | 2 | TAG | 0 exact relevant TAG/VH | No faithful visually similar same-S alien TAG/VH owned. Caskuda **not** general-purpose TAG proxy; buy dedicated or skip. |
+| Sartroids: Ranters | 2 | REM | 0 exact; pooled PanO/ALEPH REM donors conditional | Different alien robot morphology and target S may make donor unsuitable: choose dedicated sculpt when commonly fielded. |
+| Ironsides Heavy Mobile Regiment | 3 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Stingers, Security Tactical Unit | 3 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Wraith-1, Clandestine Action Group | 2 | MI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Q-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Achilles | 1 | HI | **0 named** (not recorded in Steel Phalanx inventory) | Do not infer ownership from owning Steel Phalanx. Proxy cautiously with same S/class/appropriate human-looking model. |
+| Drakios, Team Achilles' Dragon | 1 | MI | **0 named** (not recorded in Steel Phalanx inventory) | Do not infer ownership from owning Steel Phalanx. Proxy cautiously with same S/class/appropriate human-looking model. |
+| Harbingers, New Mankind Defense Infantry | 5 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Kazurabā Ruby Monday | 1 | HI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Raindancers, Light Assault Company | 3 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Cliff-Jumpers, Extreme Jump Unit | 3 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| T-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| E-Drones | 2 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Cube Jäger, Mercenary Recoverers | 1 | LI | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+| Glyph Warcors, Ur Hegemony Journalists | 1 | LI | **0 Glyph model; human Warcor x1** shared Kestrel | Conditional S2 LI alien Glyph proxy only, **not** identical sculpt/alien morphology. |
+| Patroclus, Team Achilles' Shadow | 1 | HI | **0 named** (not recorded in Steel Phalanx inventory) | Do not infer ownership from owning Steel Phalanx. Proxy cautiously with same S/class/appropriate human-looking model. |
+| R-Drones | 1 | REM | 0 exact; **4 PanO Dronbots + 2 ALEPH Rebots** pooled | ONLY if target's exact S and mechanical silhouette match; multiple concurrent drones require separate figures. |
+| Ioann Bann, Varangian Dog-Warrior | 1 | WB | **0 dedicated named CA miniature** | Proxy-test with **correct S and alien visual class** before buying when rare, do not aim for max AVA. |
+
+## Whole-unit skips and cross-sectorial purchase reuse
+
+No entire Next Wave named unit has a sourced unconditional all-profile ban. **Harbinger HMG/ML**, **Wraith Hidden MMR** and **basic Gearhead Engineer without useful supporting tech** are the main profile-level deferrals. Pandora and first Gearhead/Puzzler core remain priority; Skyhound and Juggernaut are expensive *distinct* S7 forms, not Caskuda replacements. Current roster, not parent Combined Army seller category, governs all recommendations.
+
+Compare the other [Vanilla](vanilla-combined-army-buy-list.md), [Morats](morat-aggression-forces-buy-list.md), [Shasvastii](shasvastii-buy-list.md), [Onyx](onyx-buy-list.md), [Next Wave](next-wave-buy-list.md) guides and [model-purchase-avoid evidence](combined-army-must-have-go-to-avoid-transcript-evidence.md) before purchasing. One sculpt bought for two lists is **one physical miniature**, not two. No `inventory/` files were changed.
