@@ -216,3 +216,19 @@
 | [Shepherd/Jordan all-faction tier review, June 2026](https://www.youtube.com/watch?v=1dW3i9dpI34) | Comparative outlook on faction economy, Šarko/Firebat and expensive O-12 gunfighters. Existing repo synthesis and video transcript review. | Faction-tier opinion is not a unit inclusion metric; some current 2026 Army updates postdate it. |
 
 **Bottom line:** Start **Vanilla** with low-cost Ment/Moonraker/Smoke infrastructure and one of the credible Gamma/Omega/hacking attacks; **Starmada** with Raveneye/Bluecoat/command support plus a chosen Bronze or objective-running plan; **Torchlight** with Ment, camo Moonrakers, a Prime *or* Wrecker gun, and Hellblazer/Waverider/Vidocq instead of reflexively buying three expensive Rovers.
+
+## Whole-unit purchasing audit — skip a miniature, not just a profile (2026-10-30)
+
+A **whole-unit deferral** concerns *every plausible current role/profile* of the named model **in that roster**. **Conditional skip** = a safe way to prioritize initial purchases, not an absolute ban. **No strict universal whole-unit never-take has been established.**
+
+| Army | Whole model/unit buying advice | Why / exception |
+|---|---|---|
+| **Vanilla O-12** | **No substantiated entire-model skip** | Wrecker has a disputed TAG value case, Cuervo has a targeted assassination niche, and Sirius/Razor/Vidocq critiques apply to exact profiles. An unl inked Epsilon is not a universal rejection of Epsilon. |
+| **Starmada — Casanova (31pt)** | **Skip by default for all-comers purchases — conditional** | [Tactical Awareness Starmada](https://www.youtube.com/watch?v=1DKpabLoqyE) calls his cost/short-ranged attack inefficient against Šarko midfield mission play or Shona CC. Buy specifically for **Decoy, E/M mine trickery or a targeted isolated victim**. A model-level priority, not proof he cannot win games. |
+| **Starmada — Firebat (35–36pt)** | **Defer unless building an aerial NCO flank** | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34) question paying for a large No Cover S7 shooter. Its aerial angle remains a real alternate threat; **not** strict dominance. |
+| **Torchlight — Sonya Lacroix (28pt)** | **Defer as generic gun purchase** | [Shepherd Torchlight](https://www.youtube.com/watch?v=PZKCQAupCMs) calls her a costly trap compared with sturdier primary shooting. Buy if **Albedo/NCO/Silverstars Wildcard** is the *specific* role. |
+| **Torchlight — Jamie Arantes (Handler/Rover)** | **Defer the entire character until a dedicated plan exists** | Shepherd plus a [WIP12 winner](https://open.spotify.com/episode/72TMCTByFqldzNPtvz8gta) flag roughly 50pt cost and silhouette/Order risk. Plasma/NCO/Lt/Handler utility and legal Rover FTO options preserve niches; not “never.” |
+| **Torchlight — Firebat** | **Defer as unspecialized first premium gun** | Multiple reviews worry about size and exposure; an NCO or zero-SWC aerial side-angle can justify it. |
+| **Torchlight — ordinary Silverstar Rovers** | **Do not categorically skip the whole unit** | Shepherd often fields **zero**, but a distinct TinBot, specialist, TacAware gun or Fireteam role can justify one. His critique is *overbuying Rovers as a default Core*, not that every Rover profile has no job. |
+
+**Do not convert** the Strider Red Fury, Raveneye CoC or Sirius Hacker **profile** avoid into a whole-unit buying ban. Opposing opinions on Zeta, Wrecker and Go-Pod-like flyers remain material. [Cross-faction shortlist](model-purchase-avoid-summary-2026.md).
