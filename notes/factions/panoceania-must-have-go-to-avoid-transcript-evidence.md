@@ -72,3 +72,19 @@
 There are **only four direct source-backed near-universal assertions worth repeating as such**: **MO foot Montesa FTO20** (Shepherd), **Kestrel Magistrate+cheap Jackals** (Irregular Order speakers, with Tik LT exception), **Varuna Zulu KHD26** (Dante), and **SWF Peacemaker+Auxbot** (Swiss Miss). In **Vanilla, NCA and SAA**, the recording evidence supports **a highly efficient *role or package*** much more strongly than any individual compulsory profile.
 
 The strongest no-default profile rejection examples backed by an actual recording are **MO KoJ Hacker45 (Shepherd)**, **NCA Fusilier SWC guns/Hacker (Shepherd)**, **SWF Fusilier premium guns (Shepherd)**, **Kestrel Fennec LT (Shepherd)** and **Varuna Clipper (Swiss Miss; low-tier, not literally unplayable)**. For SAA the negative evidence is **weak/conditional**. Apply each to the named loadout, not every profile sharing its unit name.
+
+## Whole-unit purchasing audit — what can stay off the shopping list? (2026-10-30)
+
+A **whole-unit defer** applies to the *named unit across its usable current profiles* in a particular army, not just a discouraged HMG/ML/Hacker. **No absolute, all-list model ban** is established by the recordings.
+
+| Army | Whole model/unit purchase to defer | Why / when it is worth buying |
+|---|---|---|
+| **Vanilla PanO** | **Clipper — conditional defer if not building Spotlight/Targeted** | [Dante/Tristan](https://www.youtube.com/watch?v=qp458fqYq_s) do not normally favor generic missile-bot attack here; a deliberate guided network remains a reason to buy. Other cited avoids are not whole-unit judgments. |
+| **Kestrel** | **No substantiated full-unit skip** | Fennec **LT** is disfavored but its FO/Sensor/Disco profiles are go-tos. Drummer's expensive controller is criticized, but its cheaper FO + Drumbot and opposing reviewers prevent a unit ban. |
+| **Military Orders** | **No** | Knight of Justice **Hacker** is singled out; other KoJ command/combat loadouts must not be rejected on that evidence. |
+| **Neoterra** | **No** | Fusilier premium guns/Hacker are criticized; cheap Fusilier LT and decoy bodies still work. |
+| **Varuna** | **Clipper — low-priority / conditional**, **not** a proven never-buy | [Swiss Miss](https://www.youtube.com/watch?v=v3hhlSohHzg) rates it bottom C, while a planned linked missile/Guided configuration can still matter. Croc Men have directly opposing reviews, so **do not skip** them on one speaker's advice. |
+| **Shock Army of Acontecimento** | **Clipper — defer unless a real missile plan exists** | Weak generic Guided payoff; FTO **does not** have an SAA Fireteam slot. [Swiss Miss](https://www.youtube.com/watch?v=hlmVXGHskS4) is a preference, not proof of zero viable use. Naga's disliked Mono *profile* does not disqualify Naga. |
+| **WinterFor** | **Bøyg — optional low-priority buy**, disputed | [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) often prefers cheaper Vargar utility; Bøyg still offers armor, extra wound and specific Beta-team roles. Fusilier SWC criticism does **not** justify skipping Fusiliers. |
+
+**Collection note:** a Clipper miniature can serve other PanO rosters where the mission/network plan is different. These are **sectorial-specific purchasing priorities**, not sculpt-wide bans. See the [cross-faction shortlist](model-purchase-avoid-summary-2026.md).
