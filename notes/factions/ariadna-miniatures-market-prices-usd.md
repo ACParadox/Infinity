@@ -1,7 +1,6 @@
 # Miniatures Market — Ariadna price reference (USD)
 
-**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 90 listings, USD # Miniatures Market — Ariadna price reference (USD)
-314.00.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 90 listings, USD $1,314.00.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
 
 
 **Recorded:** 2026-10-30. **Source:** User-provided Ariadna catalogue listing from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency:** USD, consistent with the supplied Miniatures Market faction snapshots. **U = user-supplied price, not independently verified as a live checkout price.** No individual product URLs or photos were provided; none are invented. Prices are per named product or box, not per trooper. CAD conversion, tax, shipping and duties are excluded.
