@@ -95,7 +95,7 @@ The seller for every nonlinked quote and the currency for all user numbers remai
 
 Use [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes), [Yu Jing Starters](https://human-sphere.com/Yu_Jing_Starters), [Operations Boxes](https://human-sphere.com/Operations_Boxes), and individual Human Sphere miniature pages. **Old box gear text isn't current N5.3 loadout authority**; current [WB roster](../../sectorials/yu-jing/white-banner.md) overrides. **OOP / old box ≠ formal limited edition**.
 
-| Release / SKU | Physical contents | IA/Vanilla sharing / WB edition caution |
+| Release / SKU | Physical contents | Cross-sectorial sharing / WB edition caution |
 |---|---|---|
 | **Operation: Kaldstrøm (2020)** `2800xx` (exact full-box code not verified) | **Yu Jing seven: 3 Zhanshi, Dàofěi, Guìláng, Hùndùn MSR, Jujak**; PanO seven on the other side, plus scenery/markers. | **7/7 Yu Jing half WB legal**; compared with 2025 Yu Jing Essentials **2/10 legal**. **Operation Kaldstrøm preorder LE Kunai Solutions Ninja** a separate bonus, NOT in standard set. |
 | **Beyond Kaldstrøm (2020)** `280033-0828` | **Yu Jing three: Shàng Jí Hacker, Yě Māo AP Spitfire, Jing Qo** + three PanO (Locust, Varg, Bøyg). | 3/3 WB legal on Yu Jing half; together with Kaldstrøm Yu Jing models makes 10 in old action pack. |
@@ -217,7 +217,7 @@ All rows are exactly one standard pinned WB roster unit. **OWN** means a physica
 
 ## Units or models better not bought separately at first
 
-- **2025 Essentials Yu Jing Action Pack** is the **wrong main White Banner starter**: just **two Zhanshi** current WB legal; the user-linked old `281328` ten-model starter is perfect WB. A buyer choosing by label “Essentials” alone risks nine? **eight non-WB models**.
+- **2025 Essentials Yu Jing Action Pack** is the **wrong main White Banner starter**: just **two Zhanshi** current WB legal; the user-linked old `281328` ten-model starter is perfect WB. A buyer choosing by the label “Essentials” alone risks buying **eight non-WB models**.
 - **Unplanned plain Shàng Jí heavy gun** vs **Jujak/Haetae** in WB: Shepherd skeptical compared with IA where Shàng Jí is a primary engine. The unique TacAware/TinBot/Hacker and Blue Wolf Duo use still worthwhile; **don't buy a 3-Shàng Jí box after starter just to fill AVA**.
 - **Dàofěi without Classifeds / durable infiltrating specialist objective** is a costly 52-point model; contested by experienced tournament users who succeed with it. One from starter is enough, proxy extra.
 - **Jing Qo solely for basic cheap smoke/CC** can lose on points to **Shaolin + Liang Kai**; her real specialist/WIP/CC kit can justify distinct lists. Starter already includes her; no dedicated extra purchase needed.
@@ -240,6 +240,6 @@ All rows are exactly one standard pinned WB roster unit. **OWN** means a physica
 | **E. Canadian verified Beta + Alpha** | **$79.90 V 401 Games** | 6 physical trooper bodies total: Yin-She, 2 Gudan, Ye Mao Hacker, Hundun HRL, Hac Tao Hacker. Two boxed expansions available in index; useful if old starter cannot be located. |
 | **F. Main Jujak/Haetae WB backbone** | **$82.95 old starter + $85 Reinforcement Alpha + $45 Haetae = $212.95 V/partly unavailable** | 10 starter + 6 Reinforcement bodies + one Haetae; reinforces Jujak/Hwarang/Dokkaebi/Haetae. Haetae **listed more-on-way**, so basket not necessarily directly purchasable at once. |
 | **G. Old starter + Beta + Alpha (Canadian listed)** | **$82.95 + $39.95 + $39.95 = $162.85** | 16 physical soldiers (10+3+3); includes 2 Gūdǎn, 1 Yín-Shé, extra Yě Māo/Hùndùn loadouts and Hac Tao, but still lacks the six Hwarang/Sulyong/Dokkaebi/Sulsa group. |
-| **H. Entire six-player skeleton, using user leads** | **Old starter $37.76 + Alpha $26.57 + Reinforcement $51.74 + Beta Canadian $39.95 + Haetae user $22.38 = CAD $178.40 U/V conditional** | 10+3+6+3+1 = **23 physical WB-legal soldier figures**, with multiple named-unit duplicates. High collection breadth, not a single legal 15-trooper list. |
+| **H. Broader WB collection, using user leads** | **Old starter $37.76 + Alpha $26.57 + Reinforcement $51.74 + Beta Canadian $39.95 + Haetae user $22.38 = CAD $178.40 U/V conditional** | 10+3+6+3+1 = **23 physical WB-legal soldier figures**, with multiple named-unit duplicates. High collection breadth, not a single legal 15-trooper list. |
 
 **Bottom line:** Get the **correct old White Banner Action Pack** if the user's USD 27 lead is genuine, then **Expansion Beta** (for real Gūdǎn + Yín-Shé), then **Reinforcements Yu Jing Alpha** if building the **Jujak/Hwarang/Dokkaebi/Haetae** core. **Alpha** adds Hùndùn HRL/Yě Māo Hacker/Hac Tao as tactical alternatives. Use the already-owned Yáoxiè remotes and PanO/OSS proxies, and do **not** buy several expensive TAGs or generic rare characters before testing them. **No inventory file is modified.**
