@@ -19,10 +19,10 @@
 | Unit | Owned | AVA | Gap to AVA | Ownership status | Physical/proxy notes |
 |---|---:|---:|---:|---|---|
 | Col. Yevgueni Voronin | 1 | 1 | 0 | Dedicated TAK | User: Colonel Voronin (1) |
-| Dog-Warriors | 2 | 3 | 1 | Dedicated TAK | 2 S6 Dog-Warrior bodies; Dogface S2 sculpts unconfirmed; may proxy Ioann Bann (S6 form) |
+| Dog-Warriors | 2 | 3 | 1 | Dedicated TAK | 2 S6 Dog-Warrior bodies; Dogface S2 sculpts unconfirmed; **conditional** Ioann Bann proxy only; Dog-Warrior is itself TAK-legal, so use non-TAK dog-warrior if available |
 | Frontoviks | 1 | 5 | 4 | Dedicated TAK | Potential second Frontovik for a different weapon/support profile; AVA is not a buying requirement |
 | 112, Emergency Service (Motorized) | 1 | 2 | 1 | Dedicated TAK | One motorcycle sculpt. Not a second foot 112 model |
-| 112, Emergency Service | 0 | 2 | 2 | 0 dedicated; proxy possible | Proxy with owned Dozer, Kazak Doktor or other compatible model |
+| 112, Emergency Service | 0 | 2 | 2 | 0 dedicated; proxy possible | Prefer a suitable **non-TAK S2 LI medic** (e.g. unused Caledonian Volunteer if suitably equipped); TAK Dozer/Kazak Doktor are themselves legal here and discouraged as 112 stand-ins |
 | Vystrel Mobile Artillery Regiment | 2 | 2 | 0 | Dedicated TAK | Two dedicated artillery models, AVA filled |
 | Wardrivers, Mercenary Hackers | 1 | 1 | 0 | Dedicated TAK | — |
 | Kazak Spetsnazs | 2 | 4 | 2 | Dedicated TAK | — |
@@ -82,7 +82,7 @@ The **Strelok K-9** profile (not Spetsnaz K-9) includes a synchronized S5 K-9 An
 
 | Unit | Owned dedicated | Suggested usable proxy | Missing to field without a proxy |
 |---|---:|---|---|
-| **112 Emergency Service (foot)** | 0 / AVA 2 | Dozer, Kazak Doktor or other suitable miniature | One foot 112 sculpt; existing motorized 112 is recorded separately |
+| **112 Emergency Service (foot)** | 0 / AVA 2 | **Non-TAK S2 LI medic**; verify actual owned donor | One foot 112 sculpt; existing motorized 112 is recorded separately |
 | **Carmen Johns & Bâtard** | 0 / AVA 1 | Owned Penthesilea motorcycle + 1 allocated from the 4 S5 dog proxies for Bâtard | Dedicated Carmen/Bâtard sculpts; existing proxy combination may cover them |
 | **Antipode Assault Pack** | 0 / AVA 2 packs | HVT handler + 3 allocated from the 4 S5 dog proxies | One pack can be represented; four S5 figures are shared with Bâtard and Strelok K-9, not three permanently assigned |
 | **Remontnikbot V-5 Elektronik** | 0 / AVA 1 | 1 of 2 existing ALEPH Yudbots | Dedicated Elektronik sculpt, optional if proxy accepted |
