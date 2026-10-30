@@ -152,3 +152,17 @@
 - **Lunokhod** footage in older Nomad analyses does **not** describe a unit in the pinned ordinary rosters; don't suggest the removed model as current go-to. **Bakunin Zoe standalone 23pt** in older footage is not current ordinary roster access: pinned Bakunin has paired Zoe+Π-Well FTO instead.
 - **Go-Pod** and premium hackers have real, explicit opposing opinions. **Do not flatten** them into unambiguous auto-include or never-purchase verdicts.
 - An interviewer calling a piece "auto-include" in **their personal event list** is **not** proof it is on every successful list. A unit absent from one tournament winner is likewise **not proof it is bad**.
+
+## Whole-unit purchasing audit — skip the model, not one loadout (2026-10-30)
+
+**No uncontested full-unit never-buy** is established for any of these four rosters. The following **model-level deferrals** are useful when choosing what to *purchase first*, but the stated niche or dissent prevents a categorical ban.
+
+| Army | Entire model/unit to defer | Why / when to buy instead |
+|---|---|---|
+| **Vanilla Nomads** | **No supported whole-unit skip** | Grenzer **unlinked sniper** competes poorly with Intruder; Grenzer's other profiles/sectorial links remain different. Go-Pod as first-turn linebreaker is risky, but late mobility is a real role. |
+| **Corregidor** | **No supported whole-unit skip** | Territorial AP Red Fury versus MMR, Tomcat versus Hellcat and Gecko Vulkan versus MMR are **loadout/role** comparisons, not reasons to avoid the whole unit. |
+| **Bakunin — Zellenkrieger** | **Defer generic Zellenkrieger purchase** if you already use **Morlocks** for smoke/trades | [Shepherd Bakunin](https://www.youtube.com/watch?v=firJVr1eDWg) directly favors 6pt Morlock to generic 8pt Zellen. **Do not label all Zellenkrieger forbidden:** the FTO's Taskmaster/Riot synergies and Natural Born Warrior/other attributes create genuine choices. **Extreme Zellenkrieger** is *a different unit* and not covered by this verdict. |
+| **Tunguska — Triggermen** | **Defer as a first premium gun/ARO miniature; disputed** | [Shepherd Tunguska](https://www.youtube.com/watch?v=A2eKdenbcsw) prefers Kriza HMG or much cheaper Reaktion for common roles; **K1 Decoy/Forward Deploy** and Tactical Awareness sniper experiments provide special uses. |
+| **Tunguska — Go-Pod** | **Defer if you need a Turn-1 main attacker** | No Cover/S7/hackability is a bad ARO-breaking floor, but fast late flanking/Go-Bot tricks are unique; [Tactical Awareness](https://www.youtube.com/watch?v=PFAewbgodZc) offers an opposing positive interpretation. |
+
+**Not model-level:** Moderator Spitfire and Grenzer Sniper are weapon/profile negatives; don't skip the whole Moderator/Grenzer miniature family. [Cross-faction shortlist](model-purchase-avoid-summary-2026.md).
