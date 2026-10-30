@@ -1,5 +1,8 @@
 # Miniatures Market — Haqqislam price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 67 listings, USD $990.72.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided Haqqislam catalogue text attributed to [Miniatures Market's Infinity product category](https://miniatures.market/product-category/infinity/). **Currency:** USD, consistent with previous faction price snapshots. **U = user-supplied listing**, not an independently verified live price or in-stock offer. No product-specific URLs or images were supplied, so none are invented.
 
 **Filtering:** Includes all **64 products** explicitly accompanied by **“Add to cart”**. The supplied text contains **no products marked “Out of stock”**; none needed excluding. Retailer catalogue buttons alone are not independent confirmation of checkout availability. Prices refer to complete named packages, not each miniature. Shipping, taxes, CAD conversion and import charges are excluded.
@@ -90,3 +93,16 @@
 This **USD price snapshot is not a buy list and does not alter owned miniature inventory**. For actual purchases, consult the [Haqqislam must-have / go-to / avoid review](haqqislam-must-have-go-to-avoid-transcript-evidence.md), the [N5.3 Haqqislam sectorial roster references](../../sectorials/haqqislam/), and the [miniature proxy guidelines](../miniature-proxy-guidelines.md). Cross-faction figures may already be available in other collections and should not be double-counted.
 
 Other Miniatures Market price snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**3 products added, USD $34.30.** Compared normalized product name and exact USD amount against all other existing faction price references. These records were absent from previous snapshots. Quoted Add to cart is a **pasted catalogue label, not independently verified live stock**. No individual seller URLs/photos were included.
+
+| Broad-catalogue # | Product | Price USD | Source description / contents | Pasted status | Edition, contents and legal-roster caveat |
+|---:|---|---:|---|---|---|
+| 196 | **Saladin, O-12 Liaison Officer (Combi Rifle)** | $8.70 | After all these years loyally serving Haqqislam, people seem to have forgotten that Saladin was loaned by ALEPH via O-12 to the Bourak authorities. The... | Add to cart | Saladin O-12 Liaison Officer is a current Haqqislam army unit; the 'O-12 Liaison' title does not on its own make this an O-12 roster entry. |
+| 198 | **Mukthar, Active Response Unit** | $8.70 | The effectiveness of these troops is not based on their bodily improvements, but on their tactical skills, a knowledge acquired the hard way—the worst way... | Add to cart | Haqq Mukhtar entry; pasted name spells Mukthar and supplies role lore rather than miniature contents. |
+| 315 | **Fiddler Set** | $16.90 | Box contains: 1x exclusive Fiddler miniature 2x plastic Jackbots miniatures | Add to cart | Fiddler plus 2 plastic Jackbots. Fiddler is in current Vanilla Haqqislam roster; 2 synchronized Jackbots do not necessarily generate separate orders. |
+
+**Consolidated one-of-each listed-product total for this file: USD $990.72 (67 listings).** Original source group 64 at USD $956.42 + 3 at USD $34.30. Some minis represent collector versions or alternate sculpts rather than additional units.
