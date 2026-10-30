@@ -6,16 +6,16 @@
 
 ## Summary
 
-- **All 36 standard Army roster entries accounted for**, shown as **35 distinct inventory unit types** after collapsing the mutually exclusive **motorized and foot Yojimbo** into a single miniature/ownership entry. **Ioann Bann** is the one roster unit omitted from the user's supplied list: **ownership unreported**, not assumed zero.
-- **20 newly reported, unique Shindenbutai miniatures:** 17 individually counted JSA/JSA-specific unit miniatures, 2 Yáoxiè REM chassis (shared Rui Shi/Lù Duān pool), and 1 Yojimbo (covers foot OR motorized identity). This includes only one physical Yojimbo, even though Army has two roster lines.
-- **3 previously owned dedicated models reused in Shindenbutai:** **2 Yamabushi** and **1 Warcor** from Kestrel. They are not new models. Thus **23 known physical miniatures directly represent the roster**, with the same shared models counted only once across sectorials.
+- **All 36 standard Army roster entries accounted for**, covering **35 distinct unit identities** (motorized and foot Yojimbo are separate profile entries of the same character). **Both Yojimbo sculpts are owned (1 mounted + 1 on foot)**, although the profiles are mutually exclusive in one list. **Ioann Bann** was omitted from the initial user list and is now confirmed **0 owned**, with a proposed Dog-Warrior proxy.
+- **21 newly reported, unique Shindenbutai miniatures:** 17 individually counted JSA/JSA-specific unit miniatures, 2 Yáoxiè REM chassis (shared Rui Shi/Lù Duān pool), and **2 Yojimbo miniatures (1 mounted, 1 on foot)**. The two Yojimbo roster entries remain mutually exclusive for list building.
+- **3 previously owned dedicated models reused in Shindenbutai:** **2 Yamabushi** and **1 Warcor** from Kestrel. They are not new models. Thus **24 known physical miniatures directly represent the roster**, with the same shared models counted only once across sectorials.
 - **11 additional physical models from earlier inventories are specified as proxy candidates**, in nonexclusive shared pools: 4 PanO Dronbots, 2 PanO Mulebots, 1 Tech-Bee, 2 ALEPH Yudbots, 2 PanO Palbots. These are NOT additional unique miniatures. Their use depends on the intended list, silhouettes and event acceptance. Other generic PanO/OSS proxies and an HVT were proposed but have no new confirmed physical count.
-- **136 total distinct confirmed miniatures** across the existing Kestrel, Military Orders, Steel Phalanx and Shindenbutai inventories: 116 previously counted + 20 new Shindenbutai figures. This does not include any unknown Ioann Bann, HVT, Kobaruto, TurtleMek or CrazyKoala miniatures.
-- **16 standard unit types have 0 dedicated models** recorded; many have reusable proxy candidates. **Ioann Bann is separately unconfirmed.** AVA gaps are not purchase requirements.
+- **137 total distinct confirmed miniatures** across the existing Kestrel, Military Orders, Steel Phalanx and Shindenbutai inventories: 116 previously counted + 21 Shindenbutai figures. This does not include any uncounted Dog-Warrior proxy, HVT, Kobaruto, TurtleMek or CrazyKoala miniatures.
+- **17 standard unit types have 0 dedicated models** recorded, including **Ioann Bann**. Many have reusable proxy candidates. AVA gaps are not purchase requirements.
 
 ## Standard roster inventory
 
-The table includes **35 inventory types**, with Yojimbo represented once. Exact names and AVA come from the linked repository reference. A dash for a shared pool means no precise Rui Shi/Lù Duān allocation was specified.
+The table shows **all 36 Army roster entries** across **35 unit identities**, with the two Yojimbo sculpt variants on separate rows so both physical miniatures are counted. Exact names and AVA come from the linked repository reference. A dash for a shared pool means no precise Rui Shi/Lù Duān allocation was specified.
 
 | Unit | Owned | AVA | Gap to AVA | Status | Physical/proxy notes |
 |---|---:|---:|---:|---|---|
@@ -35,8 +35,9 @@ The table includes **35 inventory types**, with Yojimbo represented once. Exact 
 | Yamabushi | Shared 2 | 2 | 0 | Shared from earlier inventory | Same two Yamabushi counted in Kestrel |
 | Shizoku Kōgeki-tai | 1 | 2 | 1 | Dedicated | — |
 | Kaizoku Yuriko Oda | 1 | 1 | 0 | Dedicated | — |
-| Yojimbo — motorized / foot (one identity) | 1 | 1 shared | 0 | One model for both versions | One Yojimbo miniature total shared with foot form; exact form owned not specified |
+| Yojimbo, Motorized Sword for Hire | **1** | 1 shared identity | 0 | Dedicated mounted sculpt | One motorized Yojimbo owned; mutually exclusive with foot Yojimbo in a single list |
 | Saito Togan | 0 | 1 | 1 | 0; no dedicated miniature | Possible proxy: Kurayami Ninja or Nokizaru; no dedicated Ninja owned |
+| Yojimbo, Sword for Hire (foot) | **1** | 1 shared identity | 0 | Dedicated foot sculpt | One unmounted Yojimbo owned; mutually exclusive with motorized Yojimbo in a single list |
 | Garon Aibōt | 0 | 1 | 1 | 0; proxy candidate | Shared PanO Dronbot proxy: Total Reaction |
 | Triphammer | 0 | 1 | 1 | 0; no dedicated miniature | No TAG proxy identified; TurtleMek ancillary ownership unreported |
 | Teishin Guntai | 1 | 2 | 1 | Dedicated | User called Tenshin |
@@ -52,7 +53,7 @@ The table includes **35 inventory types**, with Yojimbo represented once. Exact 
 | Raiden Seibutai | 1 | 3 | 2 | Dedicated | — |
 | Ninjas | 0 | 1 | 1 | 0; no dedicated miniature | Proxy: Kurayami Ninja or Nokizaru |
 | Sāchā, Xenotech Hunters | 0 | 1 | 1 | 0; confirmed in earlier inventories | Same confirmed zero ownership as Kestrel and Steel Phalanx |
-| Ioann Bann | Unreported | 1 | — | Not reported | NOT IN USER LIST; ownership unconfirmed, no physical model assumed |
+| Ioann Bann | **0** | 1 | 1 | No dedicated miniature; proxy candidate | Proxy: Dog-Warrior (specific physical proxy not independently counted) |
 | Kazurabā Ruby Monday | 0 | 1 | 1 | 0; confirmed in earlier inventories | Same confirmed zero ownership as Kestrel |
 
 ## Shared pools, proxies and collision rules
@@ -60,7 +61,7 @@ The table includes **35 inventory types**, with Yojimbo represented once. Exact 
 | Physical pool or model | Number owned | Usage in Shindenbutai | Ownership source |
 |---|---:|---|---|
 | **Yáoxiè chassis** | **2 total** | Rui Shi and/or Lù Duān, AVA 2 each; 2 physical models total, not 2 of each | Newly reported Shindenbutai |
-| **Yojimbo** | **1 total** | Foot or motorized profile; only one Yojimbo may be selected, and the single miniature must satisfy the declared silhouette/proxy rules | Newly reported Shindenbutai |
+| **Yojimbo (mounted + foot)** | **2 total (1 each)** | Separate dedicated sculpts for both alternatives; only one Yojimbo identity may be selected in a given army list | Newly reported Shindenbutai |
 | **Yamabushi** | **2** | Full Shindenbutai AVA 2 | Shared with Kestrel |
 | **Warcor** | **1** | Full Shindenbutai AVA 1 | Shared with Kestrel/MO/Steel Phalanx |
 | **PanO Dronbots** | **4 total** | Potential Aibōt proxies (Robio/Garon/Uran/Atom). All four Aibōt unit types have AVA 1 each; no dedicated Aibōt model is owned | Kestrel shared REM pool |
@@ -76,7 +77,7 @@ The table includes **35 inventory types**, with Yojimbo represented once. Exact 
 
 ## Roster unit omitted from your list
 
-**Ioann Bann, Varangian Dog-Warrior — AVA 1.** This is a standard roster entry in the N5.3 reference (not an optional reinforcement). The supplied inventory does not state whether you own the sculpt or a proxy. **Ownership: unknown / confirmation needed.** It is not silently converted to 0 or counted as a new miniature.
+**Ioann Bann, Varangian Dog-Warrior — AVA 1, owned 0.** This is a standard roster entry in the N5.3 reference (not an optional reinforcement). The user confirmed no dedicated Ioann Bann miniature and proposed **a Dog-Warrior proxy**. Whether that separate proxy miniature is physically owned was not specified, so no additional physical model is added to collection totals.
 
 ## No-dedicated-model checklist
 
@@ -95,8 +96,9 @@ The table includes **35 inventory types**, with Yojimbo represented once. Exact 
 | Taguraidā TAG Support Pilot | 0 / AVA 1 | HVT proxy (HVT model not independently counted) |
 | Sāchā Xenotech Hunters | 0 / AVA 1 | 0 already confirmed in other sectorials; no specific proxy |
 | Kazurabā Ruby Monday | 0 / AVA 1 | 0 already confirmed in Kestrel; no specific proxy |
+| Ioann Bann | 0 / AVA 1 | Dog-Warrior proxy proposed; proxy model ownership not independently enumerated |
 
-**Ioann Bann** is **not** included in this zero-owned checklist: its quantity was not supplied. This prevents an unsupported claim that you own none.
+**Ioann Bann** is confirmed **0 dedicated**, and its suggested Dog-Warrior proxy is not counted as a new physical miniature without an independent ownership quantity.
 
 ## Priority quantities you flagged
 
@@ -116,8 +118,8 @@ The [Shindenbutai tactical guide](../notes/factions/shindenbutai.md) contains ro
 
 - **Mechazoid Kobaruto Hojo-Bot:** included as an ancillary form in the Army profile. Physical model ownership is **not reported**; do not count it as owned or an additional selectable unit.
 - **Triphammer TurtleMek:** included ancillary form. Because Triphammer itself is 0, TurtleMek model ownership is **not reported**, and it is not counted separately.
-- **Yojimbo CrazyKoala markers/minis:** user did not provide an accessory count; **not reported**. The single Yojimbo body is counted once for both Army alternatives.
-- **Yojimbo model form:** user said `foot/moto: 1` without specifying whether the single owned sculpt is foot, bike or convertible. A motorcycle has a different silhouette from the foot profile; correct representation and proxy acceptability should be checked for the chosen option.
+- **Yojimbo CrazyKoala markers/minis:** user did not provide an accessory count; **not reported**. Both Yojimbo sculpts (one motorized, one foot) are counted as physical miniatures, though only one character identity may be fielded per list.
+- **Yojimbo model form:** the user clarified owning **both sculpts: 1 motorcycle + 1 on foot**. The appropriate silhouette can therefore be represented by its corresponding sculpt; the two identities remain mutually exclusive in Army.
 - **Taguraidā** is a separately selectable support pilot entry (0 owned); it is **not** the same thing as the Mechazoid's included Kobaruto ancillary.
 - **Optional-mode** Kaizoku Spec-Ops and JSA Team-Ops are excluded from the standard roster count. No ownership is presumed.
 
@@ -126,10 +128,10 @@ The [Shindenbutai tactical guide](../notes/factions/shindenbutai.md) contains ro
 - `Nozikaru` → **Nokizaru**; `Tenshin` → **Teishin Guntai**.
 - `Aibot` comprises four independent roster types: **Robio**, **Uran**, **Garon**, **Atom**, each with AVA 1.
 - `Yaoxie Rui Shi/Lu Duan: 2` is a **single two-model shared pool**, not four miniatures.
-- `Yojimbo foot/moto: 1` is **one** owned miniature across two alternative roster entries.
+- Updated ownership: **Yojimbo 1 motorized + 1 foot = 2 physical miniatures**, across two mutually exclusive roster entries.
 - `Warcor 1` and `Yamabushi 2` reuse existing Kestrel miniatures, so they are not double counted.
 - `Sacha 0` and `Kazuraba Ruby 0` are consistent with existing inventory files.
-- **Source coverage:** 36 Army entries = 35 distinct inventory types after combining Yojimbo alternatives. The only wholly omitted roster unit name is Ioann Bann.
+- **Source coverage:** 36 Army entries = 35 distinct character/unit identities; Yojimbo's two alternatives have separate physical sculpts and separate table rows. Ioann Bann was omitted from the first list but is now recorded as **0**, with Dog-Warrior proxy proposed.
 
 ## Related files
 
