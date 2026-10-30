@@ -159,20 +159,69 @@ Source: [repo proxy standards](../miniature-proxy-guidelines.md). Correct **S an
 
 **Potential donor collision:** The 2 Yáoxiè models are **legal Yu Jing units themselves**, so **do not** recommend them as generic stand-ins for some other Yu Jing remote merely for convenience. Reserve the 4 **non-Vanilla PanO Dronbots** for other robot identities when possible.
 
-## All 55 standard Vanilla Yu Jing entries — spending audit
+## All 55 standard Vanilla Yu Jing entries — unit-by-unit purchasing audit
 
-Unit identity and AVA are taken from the pinned roster (not older N3/N4 army descriptions). This is a *shopping status* matrix; **no statement that unpurchased items are owned**.
+**Source:** [pinned Vanilla roster and AVA](../../sectorials/yu-jing/vanilla-yu-jing.md#roster-index). This is a **55-row one-to-one coverage check**, not a prediction that all 55 sculpts should be purchased. Priorities denote *model purchases*, not necessarily tactical tier rankings; P1 can be covered by a suitable existing proxy. **All models are 0 dedicated unless marked OWN**, including proposed packs. An AVA cap is not a target collection quantity.
 
-| Bucket | Troops | Shopping instruction |
-|---|---|---|
-| **Known owned exact** | Yáoxiè Rui Shi, Yáoxiè Lù Duān, Warcors, Beasthunters Free Guild | Share 2 combined Yáoxiè, Warcor 1, Beasthunter 1. |
-| **Core first / user lead** | Hǎidào; Dāoyīng; Zhēnchá; Mówáng; Sù-Jiàn; Gŭiláng; Hac Tao; Tiger Soldiers; Zhanshi; Mech-Engineer; Zhanshi Yīshēng; Yáozăo; Hùndùn; Yān Huǒ | One useful representative of each role before extra loadout-specific sculpts; select from exact bundles for best value. |
-| **User lead, but optional/niche first** | Léi Gōng; Shàng Jí; Hsien; Zhànyīng; Dàofěi | Good in targeted builds, but avoid buying **every named combat role** at once; Shàng Jí solo gun cost and pricey Dàofěi/Hac Tao hacker are source-disputed. |
-| **Important alternatives omitted from the user deal list** | Gūdǎn; Shaolin Warrior Monks; Haetae; Kuang Shi; Wèibīng Yáokòng; Chaīyì Yáokòng; Hùsòng Yáokòng; Yáopú Pangguling; Son-Bae Yáokòng; Yáofáng Lóng Yá; Ninjas; Libertos Freedom Fighters | **Test and buy selectively** according to mission/order economy/hacking. Cheap Gūdǎn and Shaolin often improve real play more than a fourth expensive hero. |
-| **Architecture-dependent, generally proxy before buying** | Gūijiă; Hwarang; Dokkaebi; Bìxié; Naval Operations Group Sulyong; Yáoxiè—already above; Sun Tze; Blue Wolf; Major Lunah; Johnny Kao; RacerBots; Qíshì; Sulsa; Imperial Agent Pheasant; Húláng; Zúyŏng; Silver Snakes Yín-Shé; Fēiquán; Lóngwáng; Liú Xīng; Krit Kokram | **Choose one mechanism/plan**, especially expensive distinct TAG/VH and duplicate solo gunfighters; none established universal “never take” from source evidence. |
-| **Special, otherwise easily overlooked** | Hac Tao NCO attacker; Haetae AP gun; Dāoyīng protected LT; Hǎidào KHD/Pitcher; Shaolin Smoke + Hsien MSV; Gūdǎn camo screens | These are **particular profiles / synergies of entries above**, not additional distinct units or free miniatures. |
+| Current roster unit | AVA / troop class | Status | Buy/proxy decision |
+|---|---|---|---|
+| Chaīyì Yáokòng | 1 / REM | P2 — role-dependent | Use PanO S3 Dronbot proxy if matching S; useful cheap order/repeater |
+| Hǎidào Special Support Group | 1 / HI | P1 — high-value | IA Expansion MSR or Essentials Combi; prioritize KHD/Pitcher utility |
+| Libertos Freedom Fighters | 1 / LI | P2 — role-dependent | Useful cheap irregular camouflage; no owned exact, SK/LI donor if S matches |
+| Dāoyīng Operative Control Unit | 1 / MI | P1 — high-value | IA Expansion Hacker or Essentials sniper; prioritize LT+1 Order with NCO |
+| Gūijiă Squadrons | 2 / TAG | P3 — defer/proxy | Gūijiă TAG requires correct humanoid-mecha silhouette, no assumed donor |
+| Léi Gōng | 1 / HI | P3 — defer/proxy | Léi Gōng $9 U; proxy non-roster S2 HI for rare exact role |
+| Shàng Jí Invincibles | 2 / HI | P3 — defer/proxy | Shàng Jí 3+TinBot box $19 U; Vanilla AVA2, proxy before solo buy |
+| Dàofěi Tactical Section | 1 / HI | P3 — defer/proxy | Old 10-box Dàofěi; premium infiltrating HI, test before dedicated model |
+| Mówáng Troops | 1 / HI | P1 — high-value | Mówáng $12 U, S5 armoured HI; no good known owned donor |
+| Hwarang Corps | 2 / HI | P3 — defer/proxy | Conditional Hwarang HI; inspect specialty before a new kit |
+| Dokkaebi Cyberteam | 1 / HI | P3 — defer/proxy | Utility hacker; confirm actual N5 profile and correct HI appearance |
+| Bìxié, the Jade Champion | 1 / HI | P3 — defer/proxy | Named HI close-combat investment; model only after list use |
+| Haetae Unit | 1 / HI | P2 — role-dependent | Haetae heavy gun alternative to Yan Huo; choose one role initially |
+| Hùsòng Yáokòng | 2 / REM | P2 — role-dependent | PanO Dronbot proxy if same S3 and TR HMG-style loadout |
+| Naval Operations Group Sulyong | 2 / MI | P3 — defer/proxy | Sulyong medium infantry; unusual team build, proxy appropriate MI |
+| Zhēnchá | 2 / HI | P1 — high-value | IA Expansion Hacker or Essentials SMG; excellent independent midfield |
+| Yáoxiè Lù Duān | 2 / REM | Already owned exact | One of 2 shared Shindenbutai Yáoxiè chassis, total pool not additive |
+| Sun Tze | 1 / HI | P3 — defer/proxy | Strategos army architecture only; suitable large HI proxy if valid |
+| Blue Wolf Mongol Cavalry | 1 / TAG | P3 — defer/proxy | Optional S7/S6 TAG centerpiece; no silhouette guess or easy S2 proxy |
+| Zhànyīng Imperial Agents | 1 / LI | P3 — defer/proxy | Older Booster Alpha Hacker; LI tech proxy from distinct Fennec/Crosier |
+| Major Lunah | 1 / LI | P3 — defer/proxy | Optional sniper; reuse distinct S2 LI model if class and loadout fit |
+| Johnny Kao | 1 / MI | P3 — defer/proxy | Character MI support, proxy S2 MI; not a default purchase |
+| RacerBots | 2 / REM | P3 — defer/proxy | RacerBot-specific chassis; no confirmed matching owned specialist bot |
+| Yáofáng Lóng Yá | 2 / REM | P2 — role-dependent | Two-model Long Ya remote mine ambush plan; exact REM size to verify |
+| Tiger Soldiers | 2 / MI | P2 — role-dependent | Tiger $9 U; one owned Banshee S2 MI gives strong jetpack proxy |
+| Qíshì, StateEmpire TAG Support Pilots | 1 / LI | P3 — defer/proxy | TAG support pilot; proxy suitable S2 LI, model owned 0 |
+| Yáoxiè Rui Shi | 2 / REM | Already owned exact | Other of 2 shared Shindenbutai Yáoxiè; no extra chassis counted |
+| Gŭiláng Skirmishers | 2 / SK | P2 — role-dependent | Old action Guilang BSG; Scarecrow S2 SK proxy; specialist/mines |
+| Yān Huǒ Invincibles | 2 / HI | P2 — role-dependent | Yan Huo $9 U, S5 HI HRMC; use one anti-armour anchor |
+| Beasthunters Free Guild | 1 / SK | Already owned exact | One exact Beasthunter owned in Kestrel; shared, not repurchased |
+| Hac Tao Special Unit | 1 / HI | P2 — role-dependent | Old Booster/Hac Tao; powerful NCO HMG/ML, hacker for special missions |
+| Hsien Warriors | 1 / HI | P2 — role-dependent | Old Booster Alpha Hsien HMG; consider smoke/MSV strategy |
+| Krit Kokram | 1 / HI | P3 — defer/proxy | Named engineer/HI, choose only for synergistic Duo |
+| Hùndùn Ambush Unit | 1 / MI | P2 — role-dependent | Hùndùn HRL $5 U; hidden ARO; avoid duplicate with expansion |
+| Shaolin Warrior Monks | 4 / WB | P1 — high-value | Smoke/CC low-cost units; no dedicated; proxy Myrmidon WB if suitable |
+| Wèibīng Yáokòng | 2 / REM | P2 — role-dependent | PanO Dronbot S3 proxy if correct chassis/footprint |
+| Zhanshi Yīshēng | 1 / LI | P2 — role-dependent | Support pack doctor $12 U includes engineer and two servants |
+| Sulsa Warriors | 1 / SK | P3 — defer/proxy | One specialized skirmisher; seek appropriate non-roster S2 SK |
+| Yáopú Pangguling | 2 / REM | P2 — role-dependent | PanO Mulebot proxy only if actual Pangguling S matches |
+| Imperial Agent, Pheasant Rank | 1 / MI | P3 — defer/proxy | Niche imperial agent; old MI sculpt can be tested with MI donor |
+| Húláng Shocktroopers | 1 / HI | P3 — defer/proxy | Old/new Essentials Hulang; only when specific assault setup needed |
+| Yáozăo | 3 / REM | P1 — high-value | Support pack 2 Yaozao S1; existing Yudbot/Palbot proxies |
+| Kuang Shi | 4 / LI | P3 — defer/proxy | Up to 4, don't buy full AVA automatically, cheap Jackal LI proxy |
+| Zhanshi | 255 / LI | P1 — high-value | Old White Banner box 3 or Essentials 2; use owned Fennec LI |
+| Silver Snakes, Yín-Shé Unit | 2 / MI | P3 — defer/proxy | Silver Snake MI support; owned Black A.I.R./Firefly S2 MI donors |
+| Ninjas | 2 / SK | P2 — role-dependent | Owned Kurayami ninja S2 SK or Scarecrow; Ninja owned 0 |
+| Fēiquán Imperial Tactical Wing | 1 / VH | P3 — defer/proxy | Flying Vehicle, not TAG; no suitable owned model verified |
+| Warcors | 1 / LI | Already owned exact | Exact shared Warcor 1 owned in Kestrel |
+| Lóngwáng, Imperial TAG Police | 1 / TAG | P3 — defer/proxy | Distinct Imperial TAG, buy only for a specific big-mecha plan |
+| Son-Bae Yáokòng | 2 / REM | P2 — role-dependent | PanO Dronbot missile proxy if same S and distinct weapons |
+| Liú Xīng Jump Infantry | 1 / HI | P3 — defer/proxy | New Essentials Liú Xīng; rare Combat Jump HI, proxy only matching S2 HI |
+| Gūdǎn Troops | 2 / LI | P1 — high-value | Cheap camo/screening unit, often better first addition than pricey hero |
+| Mech-Engineer (Zhanshi Gōngchéng) | 1 / LI | P1 — high-value | Support pack engineer; owned Trisha S2 LI proxy if unused |
+| Sù-Jiàn Immediate Action Unit | 1 / HI | P2 — role-dependent | Sù-Jiàn $20 U includes two forms S3/S5; no good owned pair |
+| Zúyŏng Invincibles | 3 / HI | P2 — role-dependent | New Essentials 3 models or other; Vanilla AVA3, buy only needed count |
 
-**Cross-check**: 55 source unit entries, with **Hac Tao** and others listed in tactical role shorthand in more than one row. This matrix is for purchasing decisions and *not* a claim that rows above are a disjoint 55-name enumeration; the canonical [roster index](../../sectorials/yu-jing/vanilla-yu-jing.md#roster-index) is the authoritative complete list.
+**Accounting warning:** Two `OWN` Yáoxiè rows reference **the same two total chassis pool**, not two for each name. The Warcor and Beasthunter are shared from Kestrel. **No additional owned Yu Jing soldiers** are asserted by this matrix.
 
 ## Skips, old-profile traps and near-never purchase candidates
 
@@ -193,7 +242,7 @@ Unit identity and AVA are taken from the pinned roster (not older N3/N4 army des
 | Budget / plan | Approximate CAD before tax/shipping | What is actually included |
 |---|---:|---|
 | **A — test the faction with existing proxies** | **$0** | Fennecs as Zhanshi, Scarecrow as Guilang, Griffin as Hǎidào/Hac Tao, Banshee as Tiger, 2 exact Yáoxiè plus Beasthunter/Warcor, pooled bots. **Cannot convincingly field Sù-Jiàn forms or S5 Mówáng/Yān Huǒ with known owned figures**; don't claim them covered. |
-| **B — targeted buyer-priced core** | **$83.91 U/conditional** | IA Expansion **$22.38** + Support **$16.78** + Mówáng **$16.78** + Sù-Jiàn **$27.97**. Four purchases; **5? distinct trooper roles**: Hǎidào, Dāoyīng, Zhēnchá, Mech-Engineer, Doctor, Mówáng and Sù-Jiàn + 2 servants; no filler. **All prices conditional overseas USD**. |
+| **B — targeted buyer-priced core** | **$83.91 U/conditional** | IA Expansion **$22.38** + Support **$16.78** + Mówáng **$16.78** + Sù-Jiàn **$27.97**. Four purchases; **7 distinct trooper roles**: Hǎidào, Dāoyīng, Zhēnchá, Mech-Engineer, Doctor, Mówáng and Sù-Jiàn + 2 servants; no filler. **All prices conditional overseas USD**. |
 | **C — Canadian 2025 starter, one box** | **401 Games $99.95 V** | Ten **all Vanilla-legal** IA-flavored sculpts. For a collector wanting a coherent army, better than old pack with three unfieldable names. |
 | **D — Canadian starter + IA Expansion** | **401 Games $136.90 V** | Starter $99.95 + 3 IA Expansion $36.95. Three additional physical alternate weapon/character sculpts (**Dāoyīng, Hǎidào, Zhēnchá duplicated as unit names**, not new unit categories). |
 | **E — older bargain White Banner action** | **$37.76 U/conditional** | 10 physical figures, **7 Vanilla legal**, and **3 valuable to future White Banner**. Can still be a superb deal when $27 is genuinely USD, exact old SKU/contents verified, and stock/checkout real. |
