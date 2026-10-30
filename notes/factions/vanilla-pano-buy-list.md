@@ -79,6 +79,8 @@
 
 ## Suggested practical proxy map (use things already owned first)
 
+Follow the repository-wide [miniature proxy guidelines](../miniature-proxy-guidelines.md): exact silhouette **and** comparable LI/MI/HI/SK appearance; avoid a donor selectable in the same vanilla roster. An owned model of the right size is not automatically a recommended proxy.
+
 | Missing vanilla troop | Use an existing body / alternative | Specific caveat |
 |---|---|---|
 | **Helot x2** | Prefer two visually suitable humanlike S2 irregular troopers such as the two [Ultimate Toy Zone Libertós](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) / [SMG](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-submachine-gun/) | Libertós are not vanilla selections; if using Kestrel Jackals, first check the physical sculpt genuinely resembles a Helot infantryman, not just S2. Individual Heliot sculpts are optional if proxy clearly identified. |
