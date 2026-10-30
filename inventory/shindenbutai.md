@@ -21,14 +21,14 @@ The table shows **all 36 Army roster entries** across **35 unit identities**, wi
 |---|---:|---:|---:|---|---|
 | Tokusetsu Butai | 0 | 2 | 2 | 0; no dedicated miniature | PanO or OSS infantry proxy |
 | Senku Troops | 3 | 5 | 2 | Dedicated | — |
-| Nokizaru Unit | 1 | 2 | 1 | Dedicated | User called Nozikaru; possible proxy for Ninja/Saito |
-| Shurayuki | 1 | 1 | 0 | Dedicated | Possible proxy for Metsuke Officer |
-| Kurayami Ninjas | 1 | 2 | 1 | Dedicated | Can proxy generic Ninja or Saito; no simultaneous double counting |
+| Nokizaru Unit | 1 | 2 | 1 | Dedicated | User called Nozikaru; **do not prefer as Ninja/Saito proxy**: Nokizaru is also a legal Shindenbutai unit |
+| Shurayuki | 1 | 1 | 0 | Dedicated | **Not preferred** as a Metsuke proxy: Shurayuki is legal in the same sectorial and is MI versus Metsuke LI |
+| Kurayami Ninjas | 1 | 2 | 1 | Dedicated | **Not preferred** as Ninja/Saito donor: Kurayami is itself selectable in Shindenbutai (use non-Shindenbutai S2 SK Naga if free) |
 | Mechazoid Sōkōrentai | 1 | 2 | 1 | Dedicated | Kobaruto ancillary miniature not reported |
 | Robio Aibōt | 0 | 1 | 1 | 0; proxy candidate | Shared PanO Dronbot proxy: Flash Pulse/Repeater |
 | Hatamoto Imperial Guard | 1 | 2 | 1 | Dedicated | Possible additional model requested (1/2) |
 | Warcors | Shared 1 | 1 | 0 | Shared from earlier inventory | Same single Warcor from Kestrel/Military Orders/Steel Phalanx |
-| Metsuke Officers | 0 | 1 | 1 | 0; no dedicated miniature | Proxy: Shurayuki; reuses owned model |
+| Metsuke Officers | 0 | 1 | 1 | 0; no dedicated miniature | Old Shurayuki suggestion superseded: legal Shindenbutai MI, poor match for LI Metsuke; seek uncommitted S2 LI not on this roster |
 | Yáoxiè Rui Shi | Shared 2 | 2 | — | Shared JSA REM pool | Part of a two-model Yáoxiè Rui Shi/Lù Duān shared pool |
 | Monstruckers | 0 | 1 | 1 | 0; no dedicated miniature | Proxy: 1 existing PanO Tech-Bee |
 | Uran Aibōt | 0 | 1 | 1 | 0; proxy candidate | Shared PanO Dronbot proxy: Guided Missile Launcher |
@@ -36,7 +36,7 @@ The table shows **all 36 Army roster entries** across **35 unit identities**, wi
 | Shizoku Kōgeki-tai | 1 | 2 | 1 | Dedicated | — |
 | Kaizoku Yuriko Oda | 1 | 1 | 0 | Dedicated | — |
 | Yojimbo, Motorized Sword for Hire | **1** | 1 shared identity | 0 | Dedicated mounted sculpt | One motorized Yojimbo owned; mutually exclusive with foot Yojimbo in a single list |
-| Saito Togan | 0 | 1 | 1 | 0; no dedicated miniature | Possible proxy: Kurayami Ninja or Nokizaru; no dedicated Ninja owned |
+| Saito Togan | 0 | 1 | 1 | 0; no dedicated miniature | Prefer **owned ALEPH Naga S2 SK** if unused; Kurayami/Nokizaru are both Shindenbutai-legal and confusing donors |
 | Yojimbo, Sword for Hire (foot) | **1** | 1 shared identity | 0 | Dedicated foot sculpt | One unmounted Yojimbo owned; mutually exclusive with motorized Yojimbo in a single list |
 | Garon Aibōt | 0 | 1 | 1 | 0; proxy candidate | Shared PanO Dronbot proxy: Total Reaction |
 | Triphammer | 0 | 1 | 1 | 0; no dedicated miniature | No TAG proxy identified; TurtleMek ancillary ownership unreported |
@@ -51,7 +51,7 @@ The table shows **all 36 Army roster entries** across **35 unit identities**, wi
 | Kyojin Killers | 2 | 2 | 0 | Dedicated | — |
 | Yáozăo | 0 | 3 | 3 | 0; no dedicated miniature | Proxy: 2 Steel Phalanx Yudbots or 2 PanO Palbots |
 | Raiden Seibutai | 1 | 3 | 2 | Dedicated | — |
-| Ninjas | 0 | 1 | 1 | 0; no dedicated miniature | Proxy: Kurayami Ninja or Nokizaru |
+| Ninjas | 0 | 1 | 1 | 0; no dedicated miniature | Prefer **owned ALEPH Naga S2 SK** if unused; Kurayami/Nokizaru are legal in this sectorial |
 | Sāchā, Xenotech Hunters | 0 | 1 | 1 | 0; confirmed in earlier inventories | Same confirmed zero ownership as Kestrel and Steel Phalanx |
 | Ioann Bann | **0** | 1 | 1 | No dedicated miniature; proxy candidate | Proxy: Dog-Warrior (specific physical proxy not independently counted) |
 | Kazurabā Ruby Monday | 0 | 1 | 1 | 0; confirmed in earlier inventories | Same confirmed zero ownership as Kestrel |
@@ -69,11 +69,11 @@ The table shows **all 36 Army roster entries** across **35 unit identities**, wi
 | **PanO Tech-Bee** | **1** | Potential Monstrucker (AVA 1) proxy | Kestrel |
 | **ALEPH Yudbots** | **2** | Potential Yáozăo servant (AVA 3) proxies | Steel Phalanx |
 | **PanO Palbots** | **2** | Alternative/additional Yáozăo servant (AVA 3) proxies | Kestrel |
-| **Kurayami Ninja / Nokizaru** | **1 / 1** | Potential regular Ninja or Saito Togan proxies; their normal troop roles are then unavailable for those particular miniatures in the same list | Shindenbutai |
-| **Shurayuki** | **1** | Potential Metsuke Officer proxy instead of representing Shurayuki | Shindenbutai |
+| **Kurayami Ninja / Nokizaru** | **1 / 1** | **Not preferred:** Kurayami/Nokizaru themselves are selectable in Shindenbutai; instead prefer non-Shindenbutai **owned Naga (S2 SK)** for either absent ninja (only one actual Naga) | Shindenbutai |
+| **Shurayuki** | **1** | **Avoid:** Shurayuki is selectable here and MI, Metsuke is LI; seek non-Shindenbutai S2 LI | Shindenbutai |
 | **HVT and other PanO/OSS figures** | **Not independently enumerated** | Potential TAG pilot or Tokusetsu proxies; don't increase physical totals without a confirmed individual model count | User-suggested only |
 
-**Shared chassis are not additive per row.** Two Yáoxiè miniatures cannot count as two Rui Shi *and* two Lù Duān in the same list; four PanO Dronbots cannot separately count as four models for each Aibōt type. A mini used to proxy Saito, Ninja or Metsuke cannot also represent its original Kurayami, Nokizaru or Shurayuki role in that list. Treat proposed proxies as viable only when distinguishable and compliant with relevant silhouette/event rules.
+**Shared chassis are not additive per row.** Two Yáoxiè miniatures cannot count as two Rui Shi *and* two Lù Duān in the same list; four PanO Dronbots cannot separately count as four models for each Aibōt type. Avoid even when the original figure is unfielded: Kurayami/Nokizaru/Shurayuki are themselves valid Shindenbutai units. Prefer distinct non-Shindenbutai sculpts; owned Naga S2 SK is a better Ninja/Saito choice. Treat proposed proxies as viable only when distinguishable and compliant with relevant silhouette/event rules.
 
 ## Roster unit omitted from your list
 
@@ -87,7 +87,7 @@ The table shows **all 36 Army roster entries** across **35 unit identities**, wi
 | Ninjas | 0 | Kurayami Ninja or Nokizaru; otherwise buy a distinct model |
 | Monstrucker | 0 | Existing Tech-Bee; otherwise dedicated miniature |
 | Tokusetsu Butai | 0 / AVA 2 | Available PanO or OSS infantry; dedicated model currently 0 |
-| Metsuke Officers | 0 | Shurayuki proxy; note model collision |
+| Metsuke Officers | 0 | **No specifically verified non-Shindenbutai LI donor allocated**; old Shurayuki MI suggestion superseded |
 | Aïda Swanson | 0 | Proxy unspecified; decide a model or buy |
 | Robio / Uran / Garon / Atom Aibōt | 0 each | Four existing PanO Dronbots can proxy the four AVA-1 types if accepted |
 | Yáozăo | 0 / AVA 3 | 2 ALEPH Yudbots and/or 2 PanO Palbots |
