@@ -1,5 +1,9 @@
 # Miniatures Market — Yu Jing price reference (USD)
 
+**Cumulative Miniatures Market price coverage after full-catalogue reconciliation (2026-10-30): 104 listings, USD # Miniatures Market — Yu Jing price reference (USD)
+579.50.** Original batch-specific counts/totals below remain unchanged for provenance. These are catalogue sums, not a buy list.
+
+
 **Recorded:** 2026-10-30. **Source:** User-provided Yu Jing catalogue paste from [Miniatures Market — Infinity catalogue](https://miniatures.market/product-category/infinity/). **Currency: USD**, per the established price-reference format. **U = user-supplied snapshot, not independently verified as live prices or current inventory.** No individual product URLs or image URLs were provided for this batch, so none are invented.
 
 **Availability filter:** Included **only the 100 product records explicitly followed by “Add to cart”** in the supplied snapshot. **Three entries marked “Out of stock” are excluded entirely**, including from totals. “Add to cart” is a copied catalogue label, **not proof of actual present-day availability or shipping**. Price per complete listed product, not per figure. Excludes tax, shipping, duties and currency conversion.
@@ -128,3 +132,17 @@ Descriptions in the following table are the **supplied seller excerpts**. Many a
 This file records prices only; it **does not change owned inventory** or assert purchase recommendations. When comparing sectorials or buying models, use [Yu Jing must-have/go-to/avoid reference](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), [existing faction buy lists](./), [sectorial roster references](../../sectorials/yu-jing/) and [proxy guidelines](../miniature-proxy-guidelines.md).
 
 Other USD price snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md).
+
+
+## Additional previously unrecorded listings from broad catalogue (2026-10-30)
+
+**4 products added, USD $77.00.** Checked against all 11 existing faction/mercenary price references by normalized product title and quoted USD price. The product entries below did not already appear at the same name and price. Listed "Add to cart" is supplied snapshot text, **not independently confirmed live stock**. Product-specific URLs and photos were not supplied. Cross-faction unit identity does not establish current N5.3 availability.
+
+| Broad-catalogue # | Product as supplied | Price USD | Seller description / contents | Pasted stock label | Notes / conflicting title / cross-faction caveat |
+|---:|---|---:|---|---|---|
+| 190 | **Ye Mao Infantry (Hacker)** | $8.70 | Box contains: 1x Yě Māo Hacker | Add to cart | Yu Jing Yě Māo Hacker. Main White Banner sectorial association; consult current roster for legality. |
+| 191 | **Jujak Regiment, Korean Shock Infantry** | $28.40 | Box contains: 1x Jujak 1x Jujak 1x So-ra Kwon Composition The miniatures of this product are made of metal. | Add to cart | Yu Jing Jujak pack explicitly names two Jujak and So-ra Kwon; 3 miniatures per pasted text. |
+| 192 | **Yaofang Long Ya** | $29.90 | Box contains: 2x Lóng Yá Composition: The miniatures of this product are made of metal. | Add to cart | Yu Jing two Lóng Yá miniatures. Do not assume two different orders by model count. |
+| 199 | **Ninjas (Submachine Gun, Tactical Bow)** | $10.00 | Rumors of highly technical assassins carrying out the StateEmpire’s black operations are nothing but that: rumors. After all, a Ninja has never been captured alive…... | Add to cart | Ninjas SMG/Tactical Bow: listed lore mentions Yu Jing StateEmpire; Ninja also exists in current JSA rosters. Do not infer this sculpt's exact army accessibility without checking current loadouts. |
+
+**Consolidated one-each subtotal:** original 100 entries **USD $1502.50**, plus 4 new entries **USD $77.00**, equals **104 price listings / USD $1579.50**. Duplicate sculpts or alternate box contents may substantially overlap; do not interpret this sum as a recommended order.
