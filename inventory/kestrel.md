@@ -20,7 +20,7 @@
 | Clipper Dronbot | Shared 4 | 1 | — | Shared pool | Dronbot shared pool (4 total chassis) |
 | Fugazi Dronbot | Shared 4 | 1 | — | Shared pool | Dronbot shared pool (4 total chassis) |
 | Scarecrows Active Recon Group | 2 | 3 | 1 | Owned | — |
-| Fennec Fusiliers | 6 | 5 | 0 | Over AVA | 1 over AVA; some Fennecs usable as character proxies |
+| Fennec Fusiliers | 6 | 5 | 0 | Over AVA | 1 over AVA; surplus Fennecs are not preferred as Kestrel character proxies because Fennecs remain a legal Kestrel unit |
 | Fireflies Clandestine Demo Squad | 3 | 5 | 2 | Owned | — |
 | Peacemaker Armbots | Shared 2 | 2 | — | Shared pool | Armbot shared pool (2 total for Bulleteer/Peacemaker) |
 | Tech-Bees | 1 | 1 | 0 | Owned | Listed twice by user; counted only once |
@@ -36,11 +36,11 @@
 | Mulebots | 2 | 2 | 0 | Owned | — |
 | Minescorp Jackals | 4 | 4 | 0 | Owned | — |
 | Yamabushi | 2 | 2 | 0 | Owned | — |
-| Richard Quinn | 0 | 1 | 1 | Proxy only | User's Indigo Richard Quinn; proxy: Fusilier |
+| Richard Quinn | 0 | 1 | 1 | Proxy only | Old Fusilier proxy superseded: prefer owned **Trisha N33 (S2 LI)** or MO **Crosier (S2 LI)**, not Kestrel-legal Fennec |
 | Tikbalangs | 1 | 2 | 1 | Owned | — |
 | Machinists | 1 | 1 | 0 | Owned | — |
-| Emily Handelman | 0 | 1 | 1 | Proxy only | Proxy: Fusilier |
-| Optimate Agent Maximus | 0 | 1 | 1 | Proxy only | Proxy: Hoplite; distinct from the Maximus TAG |
+| Emily Handelman | 0 | 1 | 1 | Proxy only | Preferred: owned **Trisha N33 (S2 LI)** or MO **Crosier (S2 LI)**, not Kestrel-legal Fennec/Fusilier |
+| Optimate Agent Maximus | 0 | 1 | 1 | Proxy only | Preferred: MO **Infirmarer (S2 MI)**; old Hoplite is HI versus Agent Maximus MI; distinct from the Maximus TAG |
 | Bulleteer Armbots | Shared 2 | 2 | — | Shared pool | Armbot shared pool (2 total for Bulleteer/Peacemaker) |
 | Drummers Mobile Support Section | 1 | 4 | 3 | Owned | — |
 | Team Crux Father-Knights | 1 | 1 | 0 | Owned | — |
@@ -53,7 +53,7 @@
 | Knauf | 1 | 1 | 0 | Owned | — |
 | Warcors | 1 | 1 | 0 | Owned | — |
 | Maximus, Optimate and HexaDome Legend | 1 | 1 | 0 | Owned | Maximus TAG |
-| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy only | Proxy: Asura or OSS; Sharvara K9 peripheral owned separately (0) |
+| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy only | Preferred: owned **Naga (S2 SK)**, not armoured Asura HI; Sharvara K9 peripheral owned 0 |
 | Sāchā Xenotech Hunters | 0 | 1 | 1 | No dedicated model | User correction: owned 0; no proxy specified |
 | Kazurabā Ruby Monday | 0 | 1 | 1 | No dedicated model | No proxy specified |
 
@@ -81,16 +81,16 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 
 | Unit | Proxy currently identified? | Dedicated miniature needed? |
 |---|---|---|
-| Emily Handelman | Fusilier | Optional, if proxy accepted |
+| Emily Handelman | **Trisha N33 / MO Crosier (S2 LI)**; Fennec discouraged | Optional, if proxy accepted |
 | Dr. Priya Harper | None recorded | Needed to field without choosing a new proxy |
-| Richard Quinn | Fusilier | Optional, if proxy accepted |
+| Richard Quinn | **Trisha N33 / MO Crosier (S2 LI)**; Fennec discouraged | Optional, if proxy accepted |
 | Father Lucien Sforza | None recorded | Needed to field without choosing a new proxy |
-| Optimate Agent Maximus | Hoplite | Optional, if proxy accepted |
-| Dart, Optimate Huntress | Asura / OSS; Sharvara K9 peripheral owned (0), and no Dart miniature | Optional for Dart herself if proxy accepted |
+| Optimate Agent Maximus | **MO Infirmarer (S2 MI)**; HI Hoplite discouraged | Optional, if proxy accepted |
+| Dart, Optimate Huntress | **Naga (S2 SK)**; Asura HI discouraged; no Sharvara K9 | Optional for Dart if proxy accepted |
 | Sāchā Xenotech Hunters | None recorded | Needed to field without choosing a new proxy |
 | Kazurabā Ruby Monday | None recorded | Needed to field without choosing a new proxy |
 
-**Proxy collision warning:** a Fennec/Fusilier miniature used for Emily or Richard Quinn cannot simultaneously represent a Fennec in the same army list. Likewise, a shared alternative proxy miniature used for one character cannot represent another model simultaneously. The user explicitly allows some extra Fennecs as character proxies; Bipandra now has her own dedicated model.
+**Proxy clarity / collision:** previous Fennec/Fusilier-for-Emily-or-Quinn suggestions are superseded, since Fennec is itself legal in Kestrel. Prefer non-Kestrel **S2 LI Trisha N33 or MO Crosier**, and allocate a distinct physical figure to each role. Likewise, a shared alternative proxy miniature used for one character cannot represent another model simultaneously. The user explicitly allows some extra Fennecs as character proxies; Bipandra now has her own dedicated model.
 
 ## Quantity questions / potential additional purchases
 
@@ -99,7 +99,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - **Redeye — 1/2:** The second is for a **double-Redeye** strategy, supported as a niche option in the Kestrel guide; not required for ordinary lists.
 - **BCA Magistrate — 1/2:** A second can support a separate Strategos Lieutenant and Chain of Command setup with Jackals, if desired.
 - **Firefly 3/5, Scarecrow 2/3, Griffin 2/3, Hetkari 1/2, Tikbalang 1/2, Squalos 1/2:** below AVA but not automatically missing. Ownership is sufficient for many lists; buy only to cover an actual simultaneous-profile need.
-- **Fennec — 6/5:** no additional Fennec needed for Kestrel AVA; surplus body is useful for character proxies.
+- **Fennec — 6/5:** no additional Fennec needed for Kestrel AVA. The spare body is **not a preferred stand-in for another Kestrel unit**; avoid same-sectorial donor models.
 - **Mulebots, Palbots, Jackals, Yamabushi, Tech-Bee and several single-AVA models:** already meet stated AVA.
 
 ## Roster/name clarifications
@@ -111,7 +111,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - **Sāchā** is **0**, overriding the earlier quantity 1.
 - **Peripheral correction:** one Crabbot is owned, but Sharvara K9 ownership is **0**. This supersedes the earlier Sharvara count of 1.
 - **Bipandra** is **1** and **Dr. Priya Harper** is **0** according to the latest ownership correction. The overall physical total remains **47**.
-- This list does not assert all shared REM weapon builds are physically interchangeable or all tournament organizers accept the suggested proxies.
+- Follow [miniature proxy guidelines](../notes/miniature-proxy-guidelines.md). This list does not assert all shared REM weapon builds are physically interchangeable or all tournament organizers accept the suggested proxies.
 
 ## Related research
 
