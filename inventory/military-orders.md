@@ -17,7 +17,7 @@
 
 | Unit | Owned | AVA | Gap to AVA | Status | Notes |
 |---|---:|---:|---:|---|---|
-| Military Order Curators | 0 | 1 | 1 | Proxy candidate / no dedicated model | Proxy: another PanO model (user suggestion); no dedicated Curator |
+| Military Order Curators | 0 | 1 | 1 | Proxy candidate / no dedicated model | Preferred: owned **Trisha N33 (S2 LI Engineer)**, not MO-legal Order Sergeant; no dedicated Curator |
 | PanOceanian Black Friars | 2 | 2 | 0 | Dedicated MO | — |
 | Bulleteer Armbots | Shared 2 | 2 | 0 | Reused from Kestrel | 2-model Bulleteer/Peacemaker Armbot pool from Kestrel; not 2 of each |
 | Tikbalang of Montesa | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Tikbalang as Kestrel; MO AVA 1 |
@@ -28,30 +28,30 @@
 | Warcors | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Warcor as Kestrel |
 | Sierra Dronbots | Shared 4 | 2 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Joan of Arc (v1/v2) | 1 | 1 | 0 | Dedicated MO | Covers Joan v1 OR v2; only one Joan allowed, do not count two miniatures |
-| Knights of Santiago | 2 | 3 | 1 | Dedicated MO | May also proxy Konstantinos/Teutonic/Kyle, but a miniature can represent only one troop at a time |
+| Knights of Santiago | 2 | 3 | 1 | Dedicated MO | Not a preferred donor for Konstantinos/Teutonic/Kyle: Santiago is itself MO-legal (and HI, unlike LI Konstantinos) |
 | Raveneye Officers | 1 | 1 | 0 | Dedicated MO | — |
 | Knights of Montesa | 1 | 1 | 0 | Dedicated MO | Dismounted/foot option; distinct from Motorized Knight |
 | Pathfinder Dronbots | Shared 4 | 2 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Mulebots | Shared 2 | 2 | 0 | Reused from Kestrel | Same 2 Mulebots as Kestrel |
 | Knights of the Holy Sepulchre | 1 | 2 | 1 | Dedicated MO | — |
 | Gabriele De Fersen | 1 | 1 | 0 | Dedicated MO | — |
-| Knights Hospitaller | 4 | 5 | 1 | Dedicated MO | Candidate proxy for Konstantinos or extra Teutonic; proxy reallocates one of four Hospitallers |
+| Knights Hospitaller | 4 | 5 | 1 | Dedicated MO | Not a preferred proxy donor: Hospitaller is itself MO-legal HI (and Konstantinos is LI) |
 | Clipper Dronbot | Shared 4 | 1 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Palbots | Shared 2 | 2 | 0 | Reused from Kestrel | Same 2 Palbots as Kestrel |
 | Crusader Brethren | 1 | 3 | 2 | Dedicated MO | — |
 | Peacemaker Armbots | Shared 4 | 2 | — | Reused from Kestrel | Two-model common Armbot pool across Bulleteer/Peacemaker |
 | Motorized Knights of Montesa | 1 | 2 | 1 | Dedicated MO | Separate from foot Montesa |
 | Seraphs | 1 | 2 | 1 | Dedicated MO | Auxbot 1 and Crabbot 1 recorded separately; not additional Seraph TAGs |
-| Indigo Brother Konstantinos | 0 | 1 | 1 | Proxy candidate / no dedicated model | Proxy proposal: Hospitaller or Santiago |
-| Knight Hospitaller Kyle Hawkins | 0 | 1 | 1 | Proxy candidate / no dedicated model | Latest user quantity 0; proxy proposed from Kestrel or another MO unit |
+| Indigo Brother Konstantinos | 0 | 1 | 1 | Proxy candidate / no dedicated model | Older Hospitaller/Santiago suggestion superseded: prefer **Trisha N33 (S2 LI)** or **Kestrel Fennec (S2 LI)**, neither legal as their named unit in MO |
+| Knight Hospitaller Kyle Hawkins | 0 | 1 | 1 | Proxy candidate / no dedicated model | Latest quantity 0; prefer **Kestrel Hetkari / Griffin (S2 HI)**, not MO-legal Hospitaller/Santiago |
 | Padre-Inquisidor Mendoza | 1 | 1 | 0 | Dedicated MO | — |
-| Teutonic Knights | 1 | 3 | 2 | Dedicated MO | Possible additional proxies from Hospitaller/Santiago, not extra dedicated Teutonic miniatures |
+| Teutonic Knights | 1 | 3 | 2 | Dedicated MO | Prefer non-MO Kestrel **Hetkari / Griffin (S2 HI)**; MO-legal Hospitaller/Santiago donors are ambiguous |
 | Knight of Justice | 1 | 2 | 1 | Dedicated MO | — |
 | Team Crux Father-Knights | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Crux Father-Knight as Kestrel |
 | Knight Commander | 1 | 1 | 0 | Dedicated MO | — |
 | Fugazi Dronbot | Shared 4 | 1 | — | Reused from Kestrel | Four-model common Dronbot pool across Pathfinder/Sierra/Clipper/Fugazi |
 | Tech-Bees | Shared 1 | 1 | 0 | Reused from Kestrel | Same 1 Tech-Bee as Kestrel |
-| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; proposed proxy Asura/OSS. Sharvara K9 peripheral owned: 0 |
+| Dart, Optimate Huntress | 0 | 1 | 1 | Proxy-only (no Dart) | Dart remains 0; **Naga (S2 SK)** preferred over Asura HI; Sharvara K9 peripheral owned: 0 |
 
 ## Auxiliary and peripheral miniatures
 
@@ -83,12 +83,12 @@ No other Kestrel-only unit is represented as an official Military Orders roster 
 
 | Unit | Owned | Proxy suggested by user | What is needed to field it |
 |---|---:|---|---|
-| **Military Order Curator** | 0 / AVA 1 | Another PanO model | A clearly distinguishable proxy, e.g. an available PanO figure; no dedicated model presently recorded. |
+| **Military Order Curator** | 0 / AVA 1 | **Trisha N33 (S2 LI Engineer)** | Good non-MO specialist donor; avoid MO-legal Order Sergeant. |
 | **Indigo Brother Konstantinos** | 0 / AVA 1 | Hospitaller or Santiago | Reuse one S2 knight miniature as Konstantinos; that miniature cannot also be a Hospitaller/Santiago in the same list. |
-| **Knight Hospitaller Kyle Hawkins** | 0 / AVA 1 | Another Kestrel or MO unit | Choose an identifiable model/proxy. **0** is authoritative (revised user count). |
-| **Dart** | 0 / AVA 1 | Asura or OSS | Dart proxy needed; Sharvara K9 peripheral is also **0 owned** and would need its own model/proxy for Dart's Sharvara loadout. |
+| **Knight Hospitaller Kyle Hawkins** | 0 / AVA 1 | **Kestrel Hetkari / Griffin (S2 HI)** | Non-MO armoured donor preferred; dedicated Kyle remains 0. |
+| **Dart** | 0 / AVA 1 | **Owned OSS Naga (S2 SK)** | Old Asura HI idea superseded; Sharvara K9 still 0, requires separate canine figure. |
 
-**Proxy collisions:** A knight used to proxy Konstantinos, Kyle or an extra Teutonic Knight cannot also count as its original unit simultaneously. Similar constraints apply to a Kestrel model used as an MO proxy. All proxies need to satisfy the applicable silhouette and event/opponent requirements.
+**Proxy clarity and collisions:** Avoid a **MO-legal Hospitaller/Santiago** as another MO model, and avoid HI as LI Konstantinos. Each reassigned model also cannot represent its original unit simultaneously. Similar constraints apply to a Kestrel model used as an MO proxy. All proxies need to satisfy the applicable silhouette and event/opponent requirements.
 
 ## Joan of Arc: count one model, not two
 
@@ -102,7 +102,7 @@ The reference indexes **Joan of Arc (ID 20)** and **Joan of Arc v2 / Mobility Ar
 
 - **Coadjutor Crosiers: 3, AVA Total (`T`)**. There is **no fixed numerical AVA** to fill. The current Military Orders Fireteam chart caps Crosiers at **5 in its Fireteam row**, which is a different restriction. Add bodies only if actually needed by a composition.
 - **Knights Hospitaller: 4/5**. One below AVA, but four already provide substantial flexibility; note that using one as a proxy leaves three fieldable as Hospitallers.
-- **Order Sergeants: 3/4**, **Knights of Santiago: 2/3**, **Teutonic Knights: 1/3**, **Knights of the Holy Sepulchre: 1/2**, **Knight of Justice: 1/2**. Additional models are optional and depend on simultaneous list needs. Existing knight miniatures can stand in for particular missing knights, at the cost of their original role in the same game.
+- **Order Sergeants: 3/4**, **Knights of Santiago: 2/3**, **Teutonic Knights: 1/3**, **Knights of the Holy Sepulchre: 1/2**, **Knight of Justice: 1/2**. Additional models are optional and depend on simultaneous list needs. Prefer non-MO armoured **S2 HI Kestrel Hetkari/Griffin** for missing knights; donor figures legal as MO units are confusing.
 - **Crusader Brethren: 1/3**, **Infirmarers: 1/3**, **Seraphs: 1/2**, and **Motorized Knights of Montesa: 1/2**. Below AVA but not intrinsically missing.
 - **Trinitarians: 3/3**, **Black Friars: 2/2**, **Knight Commander: 1/1**, **Raveneye: 1/1**, **Gabriele De Fersen: 1/1**, **Mendoza: 1/1**, and **foot Montesa: 1/1** already reach their listed AVA.
 - **Tikbalang of Montesa: 1/1** in MO, using the same TAG as Kestrel. No second Tikbalang needed for MO AVA.
