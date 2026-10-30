@@ -58,7 +58,7 @@
 | Warcor | **1** | Same Warcor already shared across previous inventories; TAK AVA 1. |
 | Penthesilea (Steel Phalanx) | **1 existing** | Possible S4 motorcycle proxy for **Carmen Johns**; the Penthesilea is not a new TAK miniature. |
 | ALEPH Yudbots (Steel Phalanx) | **2 existing** | One may serve as **Remontnikbot V-5 Elektronik** (TAK AVA 1); do not count a separate Elektronik or reuse the same Yudbot simultaneously. |
-| TAK Dog-Warriors | **2 S6** | Both are newly recorded above; possible **Ioann Bann** proxy from this pool, at the expense of one Dog-Warrior body in that list. |
+| TAK Dog-Warriors | **2 S6** | The old **Ioann Bann** proxy idea is **not preferred** because Dog-Warriors themselves are TAK-legal. Prefer the **owned non-TAK Caledonia McMurrough (S6 canine/hybrid)** for Ioann if visually acceptable. |
 | Marauder 5307 proxy | **1 extra physical model** | Proposed **second Barsuk**, on top of **1 dedicated Barsuk**. Source Barsuk AVA 3; you can represent **2 at once** subject to accepted proxy/silhouette. |
 | Extra Veteran Kazak proxy | **Unquantified** | You wrote “extra proxy,” but did not identify an independently confirmed physical figure; excluded from counts until identified. |
 
@@ -68,7 +68,7 @@
 
 | Physical representation | Owned | Proposed tabletop assignment | Notes |
 |---|---:|---|---|
-| TAK S6 Dog-Warrior models | **2** | Two Dog-Warriors (AVA 3), or one as Ioann Bann (AVA 1) | Separate from the four S5 proxy dogs. **S2 Dogface-form model quantities were not supplied**. |
+| TAK S6 Dog-Warrior models | **2** | Two Dog-Warriors (AVA 3); using one for Ioann Bann is discouraged because both unit names are legal in TAK; prefer Caledonia McMurrough S6 | Separate from the four S5 proxy dogs. **S2 Dogface-form model quantities were not supplied**. |
 | USAriadna Devil Dog miniatures on S5 bases | **2** | Any two of Bâtard, Antipode Assault Pack members, or Strelok K-9 / another S5 dog requirement | These are **user-confirmed S5-based proxy figures**. The standard USAriadna Devil Dog profile is S6, so these are not represented here as correctly based standard Devil Dogs. |
 | Caledonia S5 dog miniatures | **2** | Same interchangeable roles as the two USAriadna dog proxies | Four S5-base dog proxies total between USAriadna (2) and Caledonia (2), shared across all roles. |
 | Penthesilea motorcycle | **1 existing** | Carmen Johns | Existing Steel Phalanx mini; check motorcycle silhouette/model clarity. |
@@ -86,7 +86,7 @@ The **Strelok K-9** profile (not Spetsnaz K-9) includes a synchronized S5 K-9 An
 | **Carmen Johns & Bâtard** | 0 / AVA 1 | Owned Penthesilea motorcycle + 1 allocated from the 4 S5 dog proxies for Bâtard | Dedicated Carmen/Bâtard sculpts; existing proxy combination may cover them |
 | **Antipode Assault Pack** | 0 / AVA 2 packs | HVT handler + 3 allocated from the 4 S5 dog proxies | One pack can be represented; four S5 figures are shared with Bâtard and Strelok K-9, not three permanently assigned |
 | **Remontnikbot V-5 Elektronik** | 0 / AVA 1 | 1 of 2 existing ALEPH Yudbots | Dedicated Elektronik sculpt, optional if proxy accepted |
-| **Ioann Bann** | 0 / AVA 1 | 1 of 2 owned S6 Dog-Warriors | Dedicated character, optional if proxy accepted; same 0 owned recorded in Shindenbutai |
+| **Ioann Bann** | 0 / AVA 1 | **Owned Caledonia McMurrough (S6 canine/hybrid)** preferred over TAK-legal Dog-Warrior | Dedicated character, optional if proxy accepted; same 0 owned recorded in Shindenbutai |
 
 ## Quantity and potential purchases
 
@@ -100,7 +100,7 @@ The **Strelok K-9** profile (not Spetsnaz K-9) includes a synchronized S5 K-9 An
 | **TankHunters** | 3 | 4 | 1 | Already support several different long-range/ambush options. |
 | **Streloks** | 1 | 4 | 3 | A second can expand midfield camouflage/Decoy coverage, but is not essential. |
 | **Spetsnazs** | 2 | 4 | 2 | Additional bodies only for particular deployment/loadout combinations. |
-| **Dog-Warriors** | 2 S6 | 3 | 1 | Third is optional; remember Ioann proxy draws from this same pool. |
+| **Dog-Warriors** | 2 S6 | 3 | 1 | Third is optional; older Ioann proxy from TAK Dog-Warriors is **not preferred**—use separate non-TAK S6 canine model if possible. |
 | **Line Kazaks** | 3 | **TOTAL** | n/a | AVA is *Total*, **not** a numeric maximum; current Line Kazak Fireteam row allows 1–5 Line Kazaks. |
 | **Traktor Mul / Kuryer** | 2 shared | 2 / 2 | — | Two physical chassis total. Buy extra only when a list needs more than two distinct Traktor/Kuryer REMs simultaneously. |
 
