@@ -12,7 +12,7 @@
 | **Beyond Operation Crimson Stone — Ariadna half (3)** | **$25.59** | **U:** Miniatures Market USD18.30. **Wallace, Scots Guard, Kosmosoldat**; all **3 Kosmoflot legal**. Also fills first Wallace/Scots for Caledonia |
 | **Patchers Structural Response Team (2 HI)** | **$23.90** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-patchers-structural-response-team/) USD17.09, **2 real Patcher heavy-infantry soldiers** (HFT and Vulkan); not two ordinary LI proxy bodies |
 | **Équipe Mirage-5** (Margot + Duroc) | **$23.90** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) USD17.09, **two physical figures** with proper dog-warrior size; same purchase usable in Vanilla |
-| **CORE — Kosmoflot** | **$117.86** | Four boxes, **12+2 Miranda?** Correct count: 7 + 3 + 2 Patchers + 2 Mirage = **14 physical troopers**, of which the 7-model set includes a redundant second SAS. Mirage is one combined roster unit comprising two models |
+| **CORE — Kosmoflot** | **$117.86** | Four boxed products, **14 physical models** (7 Crimson Stone + 3 Beyond + 2 Patchers + 2 Mirage-5). One Crimson Stone SAS duplicates an owned SAS, but may be a usable second. Mirage-5 has two models for one combined roster entry |
 
 | Optional, not included | Add CAD | Reason |
 |---|---:|---|
