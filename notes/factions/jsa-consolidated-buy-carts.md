@@ -1,5 +1,7 @@
 # JSA — consolidated Vanilla, Ōban and Shindenbutai collection buy carts (N5.3)
 
+**CURRENT SHOPPING STATUS — deferred/skipped as of 2026-10-31:** User decided **not to buy Vanilla JSA or Ōban now**. All nine products and the **CAD $241.31** shared cart documented below are retained as a **saved counterfactual buy plan only** and must **not** be included in active shopping totals. This is **not** an inventory change or reversal of the documented buy-versus-proxy decisions *if collecting JSA resumes*: Shinobu and Karakuri were selected as physical must-buys, Aragoto two-bike set physical, Support Pack fully proxied; they are simply not being ordered. **Shindenbutai stays proxy-only $0.** See [active PanO+Ariadna priorities](pano-ariadna-active-purchase-plan.md).
+
 **Buying selection updated 2026-10-31.** Authoritative [Vanilla JSA N5.3 roster](../../sectorials/jsa/jsa.md) (43 entries), [Ōban](../../sectorials/jsa/oban.md) (35), [Shindenbutai](../../sectorials/jsa/shindenbutai.md) (36), pinned Army 7.26246.159 (Oct 2026 check); unit-by-unit [Vanilla buy list](vanilla-jsa-buy-list.md), [Ōban buy list](oban-buy-list.md), [Shinden buy list](shindenbutai-buy-list.md). Source of physical ownership remains [Shinden inventory](../../inventory/shindenbutai.md). **Plans do not count as owned.**
 
 ## User's settled purchase policy
