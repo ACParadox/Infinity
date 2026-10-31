@@ -4,29 +4,33 @@
 
 ## Collection completion — core purchases, optional models, CAD totals
 
-Current [Ōban N5.3 roster](../../sectorials/jsa/oban.md): **35 unit entries**. Already owned: **Yuriko, Warcor, two Yáoxiè chassis total**, and **Yojimbo bike + foot** (**one character identity; cannot field both simultaneously**). No Ōban Keisotsu, Ryūken, Kempeitai, Tankō, Domaru, Shikami, Karakuri or Oniwaban yet. Existing Shinden Senku, Tanuki and Hatamoto **are not Ōban-legal named entries**. Tankō are **also** Vanilla JSA legal (AVA2), not Ōban-only; previous notes corrected.
+**Updated 2026-10-31 — user's selected buying policy:** **Shinobu Kitsune and Karakuri are core physical purchases in both Ōban and Vanilla JSA**, not optional or proxy-first. Buy the **Aragoto Senkenbutai two-bike box**, not omit the unit. **JSA Support Pack is completely proxy-only (CAD $0)**, including the two Tokusetsu human specialist bodies as well as the two S1 Yáozăo servants. Shindenbutai remains proxy-only, no new purchases. [Combined no-duplicates cart](jsa-consolidated-buy-carts.md).
+
+Current [Ōban N5.3 roster](../../sectorials/jsa/oban.md) has **35 entries**. Owned exact Ōban figures include Yuriko, Warcor, two total shared Yáoxiè chassis and Yojimbo mounted/foot variants (one character identity). Aragoto are **AVA4 in Ōban**; the selected two-model box supplies two bikes, **not AVA4**.
 
 | Buy once — Ōban core | CAD | Actual contents, source and role |
 |---|---:|---|
-| [Essentials Start Here JSA vs PanO](https://www.ultimatetoyzone.com/product/infinity-essentials-start-here-jsa-vs-panoceania/) | **$31.05** | **UTZ archived USD22.20**: **2 Keisotsu + Shikami** for Ōban; 2 Fusiliers and ORC are PanO, not JSA. Keisotsu order core plus real mobile Eclipse scorer |
-| [Ōban Expansion Alpha](https://www.ultimatetoyzone.com/product/infinity-jsa-oban-expansion-pack-alpha/) | **$27.69** | **UTZ USD19.80**: **Ryūken HRL + Kempeitai CoC + Kuroshi Rider**, all three **Ōban legal**. [Tistaminis CAD45 low-stock](https://tistaminis.com/collections/infinity-jsa) and [401 CAD52.95 sold out](https://store.401games.ca/products/infinity-jsa-oban-expansion-pack-alpha) comparisons |
-| [JSA Booster Alpha](https://miniatures.market/product/jsa-booster-pack-alpha/) | **$23.77** | **Miniatures Market USD17.00**: **2 Domaru + Neko Oyama**, good paired samurai/Fireteam bodies; [401 CAD38.95 with 5 online](https://store.401games.ca/products/infinity-jsa-essentials-booster-pack-alpha) if historical MM URL is gone |
-| [JSA Support Pack](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-support-pack-boxed/) | **$15.52** | **UTZ USD11.10**: Tokusetsu **Doctor + Engineer** + 2 Yáozăo servant bots. Two regular troops and two peripherals, not four Orders |
-| [Tankō Zensenbutai (three)](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-tanko-zensenbutai/) | **$25.17** | **UTZ USD18.00**: 3 Tankō Flamenspeer/ML/Blitzen, **Ōban AVA3** and **Vanilla AVA2**, first Disco/Blitzen role prioritized. The boxed weapon sculpts need not be specific Disco pose |
-| [Yuan Yuan (DA CCW)](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) | **$8.39** | **UTZ USD6.00**, one affordable AD warband; **Ōban only among the three JSA rosters**. Second is unnecessary absent a double-Yuan plan |
-| **ŌBAN CORE** | **$131.59 CAD** | Six distinct purchases; only one copy each of the shared Vanilla/Ōban sets |
+| [Essentials Start Here JSA vs PanO](https://www.ultimatetoyzone.com/product/infinity-essentials-start-here-jsa-vs-panoceania/) | **$31.05** | Historic UTZ USD22.20; **2 Keisotsu + Shikami** are Ōban, plus 2 PanO Fusiliers and ORC |
+| [Ōban Expansion Alpha](https://www.ultimatetoyzone.com/product/infinity-jsa-oban-expansion-pack-alpha/) | **$27.69** | Historic UTZ USD19.80; **Ryūken HRL + Kempeitai CoC + Kuroshi Rider**, all Ōban legal |
+| [JSA Booster Alpha](https://miniatures.market/product/jsa-booster-pack-alpha/) | **$23.77** | Historic MM USD17; **2 Domaru + Neko Oyama** |
+| [Tankō Zensenbutai (three)](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-tanko-zensenbutai/) | **$25.17** | Historic UTZ USD18; **3 Tankō** (Flamenspeer/ML/Blitzen), Ōban AVA3, Vanilla AVA2 |
+| [Yuan Yuan DA CCW](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) | **$8.39** | Historic UTZ USD6; one airborne warband, Ōban-specific among JSA rosters |
+| **Shinobu Kitsune**, classic single | **$9.51** | Historic MM USD6.80; **core**, one actual Hidden Deployment/monofilament assassin. [UTZ alternate old single USD7.19](https://www.ultimatetoyzone.com/product/infinity-na2-oniwaban-shinobu-kitsune-monofilament-ccw/); do not proxy instead of planned purchase |
+| **Karakuri Special Project** (3 minis, SKU 280754-0881) | **$23.08** | Historic MM USD16.50, **core**; official three models: Heavy Shotgun, Combi Rifle, Mk12. Ōban AVA3, Vanilla AVA2. [Three-figure set contents](https://warsen.al/collections/jsa/products/karakuri-special-project); verify the archived offer is for this same three-figure SKU |
+| **Aragoto Senkenbutai two-bike box** (Spitfire + Hacker) | **$50.00** | **Tistaminis Hamilton ON [NA2 collection](https://tistaminis.com/collections/non-alligned), CAD50 low stock on check**; current actual Canadian retail quote, not the historic USD benchmark. [Box contents](https://warsen.al/collections/jsa/products/aragoto-senkenbutai). Two correct S4 motorbikes, both legal in Ōban and Vanilla |
+| **ŌBAN CORE — 8 distinct products** | **$198.66 CAD** | JSA Support Pack deliberately omitted; Shinobu, Karakuri, Aragoto promoted to core |
 
-| Optional | Extra CAD | Use condition |
+**JSA Support Pack — proxy only, $0:** Tokusetsu **Doctor** = spare non-JSA S2 LI medic such as owned PanO Trauma-Doc; Tokusetsu **Engineer** = a *different* spare non-JSA S2 LI such as PanO Machinist; Yáozăo servants = two distinct owned correctly sized **S1 Palbot/Yudbot** bodies. Keep the actual Doctor, Engineer and servants distinct if used simultaneously. The old JSA Support Pack's CAD15.52 is a **historical quote only**, not part of this cart.
+
+| Optional, not in core | Extra CAD | Use condition |
 |---|---:|---|
-| [Older O-Yoroi TAG](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-o-yoroi-kidobutai/) | **+$21.82** | UTZ USD15.60; newer Essentials USD19.20/CAD26.85 alternative, not additive. Distinct TAG and possible Kobaruto companion, one only |
-| Shinobu Kitsune classic | **+$9.51** | MM USD6.80, optional named Hidden Deployment assassin; proxy with OSS Naga S2 SK if rarely used |
-| Karakuri Special Project | **+$23.08** | MM USD16.50, durable FO scorer, **box quantity unknown**; avoid pretending this buys three Karakuri |
-| JSA Reinforcements Alpha | **+$42.65** | UTZ USD30.50: **2 Genbutai + 2 Sōhei + Kyoshō + Daiyōkai**; **4/6 Ōban standard legal** (2 Genbutai, Kyoshō, Daiyōkai). **Already included in combined Vanilla core**, so don't buy it twice |
-| **ALL OPTIONAL LINES** | **+$97.06** | **Ōban core + all options = $228.65 CAD** |
+| [Older O-Yoroi TAG](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-o-yoroi-kidobutai/) | **+$21.82** | Historic UTZ USD15.60; newer Essentials alternative CAD26.85, not additive; check TAG silhouette and Kobaruto ancillary |
+| JSA Reinforcements Alpha | **+$42.65** | Historic UTZ USD30.50: 2 Genbutai + 2 Sōhei + Kyoshō + Daiyōkai; four Ōban legal. **Already in combined Vanilla core**, so do not add it twice |
+| **ALL ŌBAN OPTIONS** | **+$64.47** | Independent Ōban core plus both $263.13; combined shared cart does not pay twice for Reinforcements Alpha |
 
-**Proxy and skip:** Normal **Robio/Atom/Garon/Uran Aibōts** from four standard correct-S **PanO Dronbots**, Pangguling baggage from **Mulebot**, Yáozăo from **Palbot/Yudbot**. Two existing Yáoxiè Rui Shi/Lù Duān **shared chassis** cover those named robots without rebuy. Extra Keisotsu from free Kestrel Fennecs S2 LI; unowned **Oniwaban** from distinct OSS Naga S2 SK if not frequently played, and a second Shikami/Karakuri from an appropriately sized donor. For extra Aragoto, a separate compatible **Penthesilea S4 motorcycle** can work; *not* already Ōban-legal Yojimbo's bike while Yojimbo is fielded. Skip duplicate Neko, extra Yojimbo/Warcor/Yáoxiè, full AVA samurai/bike or heavy units, Saito limited edition, speculative extra assassin, LE collector poses and OOP starter premium. Target first **Tankō Disco, Ryūken HRL, Kempeitai CoC, Domaru** before expensive TAG options. No false normal S2 proxy for a differently sized TAG.
+**Proxy/skip policy:** Four ordinary S3 JSA Aibōt roles can use four distinct owned PanO Dronbots; S4 Pangguling uses owned Mulebot and S1 servants use Palbot/Yudbot, if matching silhouette. Reuse two owned Yáoxiè bodies for Rui Shi/Lù Duān (two total, not two each). Extra Keisotsu can use non-Ōban S2 Fennecs; Oniwaban can use free OSS Naga S2 SK. **Shinobu/Karakuri are no longer proxy-only**, though an extra Karakuri beyond the three purchased can never be fielded within current Ōban AVA3. **Two Aragoto are physically planned**; a third/fourth only if repeated Ōban lists need them, with a separate correct S4 bike donor (never an already Ōban-legal Yojimbo bike). If needed, dismounted Aragoto require distinct S2 representation. No additional generic bots, niche Saito/LE sculptures, or maximum-AVA shopping automatically.
 
-**Price status:** USD figures are **archived user-saved Miniatures Market and Ultimate Toy Zone listings**, converted at **USD1=CAD1.3985** (2026-10-29), not confirmed currently orderable offers. Some old MM URLs returned 404. Canadian 401 Games (Toronto/Vaughan) and Tistaminis (Hamilton) prices are contextual seller quotes, not guaranteed stock. Tax, shipping, duties, brokerage, card FX not included. No proposed item is currently marked owned. [Deduplicated all-JSA cart](jsa-consolidated-buy-carts.md).
+**Source/price risk:** Historical saved MM/UTZ USD quotes use USD1 = CAD1.3985 (2026-10-29) and are not confirmed purchasable. Aragoto CAD50 from Tistaminis current shop listing, whose stock may change. Prices exclude tax, shipping, customs/brokerage, FX. Detailed historical retailer references below remain for alternatives; *old optional/proxy-first assessments there do not supersede the current selected core*. Planned purchases are not owned until confirmed.
 
 ## Existing collection and buying strategy
 
@@ -38,12 +42,14 @@ Current [Ōban N5.3 roster](../../sectorials/jsa/oban.md): **35 unit entries**. 
 | **P1** | Ōban Expansion Alpha, 3 | 0/3 | Ryūken HRL, Kempeitai CoC BSG, Kuroshi Rider: **3/3 legal**. UTZ historic USD $19.80 vs Tistaminis CAD $45 low-stock snapshot; 401 $52.95 sold out. |
 | **P1** | One Tankō Disco/Blitzen | 0 | Most consistently supported near-default in Ōban. Old 3-Tankō box has Blitzen, Flamenspeer and ML poses; don't assume dedicated Disco sculpt. |
 | **P1/P2** | Domaru/Neko Booster Alpha | 0 | Two Domaru plus Neko Oyama (3 bodies); a viable Domaru LT(+1 Order)→Daiyōkai NCO engine; Neko standalone duplicates character included in Booster. |
-| **P2** | Shikami **or** Karakuri | 0 | A single Shikami Eclipse vertical scorer or durable Karakuri FO; test 2nd Shikami/3rd Karakuri via correctly sized proxies. |
-| **P2** | Tokusetsu + Yáozăo support | 0 dedicated; 2 Yudbots+2 Palbots pooled | MM/UTZ archived JSA Support Pack includes 2 human specialists + 2 servants, separate bodies not 4 Regular Orders. |
-| **P2** | Yuan Yuan x1 | 0 | Ōban-only current JSA legal warband. UTZ USD $6.00 vs MM USD $7.40. First body before buying AVA2. |
+| **P1** | Shikami **and** Karakuri core (3-figure set) | Shikami 0, Karakuri 0 | Shikami acquired through Start Here; **all three Karakuri are now specifically bought**, not substituted or optional. Ōban AVA3. |
+| **Proxy only; $0** | Tokusetsu Doctor + Engineer + Yáozăo x2 | No dedicated; shared non-Ōban Trauma-Doc, Machinist, and 2 S1 Palbot/Yudbot | **Do not buy JSA Support Pack**; use two distinguishable S2 humans and two S1 servants from owned inventory. |
+| **P2** | Yuan Yuan x1 | 0 | Ōban-only current JSA legal warband, already in core from UTZ USD6.00 historic quote. |
+| **P1** | Shinobu Kitsune 1 | 0 dedicated | **Core physical purchase**, Hidden Deployment monofilament assassin; not proxy-first. |
+| **P1** | Aragoto Senkenbutai Spitfire + Hacker **two-bike box** | 0 dedicated | **Core physical purchase**; 2 correct S4 motorcycles, Ōban AVA4. Additional bikes only after lists demonstrate need. |
 | **P2 / niche** | O-Yoroi one TAG + Kobaruto | 0 | AVA2 not shopping goal. Distinct mecha and ancillary; Shinden Mechazoid S6 is not a correct S7 TAG proxy. |
 | **Skip** | More Yojimbo, duplicate Rui Shi/Lù Duān chassis | 2 Yojimbo sculpt variants; 2 chassis | Already owned. One character Yojimbo and one physical model per REM; no bulk purchase. |
-| **Proxy-first** | Saito, extra hidden attackers, 2nd Shikami/3rd Karakuri | 0 | Oniwaban/Ninja are cheaper for some hidden roles; Saito's unique Smoke+EXP combo remains viable. |
+| **Proxy-first** | Saito, Oniwaban, extra Shikami | 0 | Shinobu and Karakuri are **bought in core**; Saito's Smoke+EXP combo remains niche, proxy only if played. |
 
 ## Historical saved retailer prices — USD converted to CAD
 
@@ -137,11 +143,11 @@ Matches [the current pinned Ōban roster](../../sectorials/jsa/oban.md), excludi
 | Current legal standard unit | AVA | Class | Exact models owned | Buy, skip or proxy |
 |---|---:|---|---|---|
 | Tokusetsu Butai | 2 | LI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
-| Aragoto Senkenbutai | 4 | LI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
+| Aragoto Senkenbutai | 4 | LI | 0 named owned | **Buy the 2-bike Spitfire + Hacker box** (CAD50 Tistaminis) as core; third/fourth only with a proven legal list, proxy in correct S4 if needed. |
 | Yáozăo | 3 | REM | 0 named owned | 0 dedicated; 2 ALEPH Yudbots+2 PanO Palbots are potential S1 servants; separate bodies. |
 | Daiyōkai Dengekitai | 2 | HI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
 | Warcors | 1 | LI | **1 owned** (same Kestrel Warcor) | Already own exact Warcor, no further purchase. |
-| Shinobu Kitsune | 1 | SK | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
+| Shinobu Kitsune | 1 | SK | 0 dedicated | **Buy one classic Shinobu as core**, rather than representing the initial mini with an OSS Naga proxy. |
 | Kempeitai | 3 | LI | 0 named owned | Ōban foundation: choose one proper role/sculpt; see Essentials, Oban Alpha, Booster Alpha, Tankō price rows. |
 | Saito Tōgan | 1 | SK | 0 named owned | OSS Naga S2 SK or Shinden-only Kurayami/Nokizaru S2 SK can proxy (not legal named units in Ōban). |
 | Taguraidā, JSA TAG Support Pilots | 1 | LI | 0 named owned | Check exact TAG S (S6 vs S7) and separate ancillary; borrow/test expensive chassis before buying. |
@@ -167,7 +173,7 @@ Matches [the current pinned Ōban roster](../../sectorials/jsa/oban.md), excludi
 | Yáoxiè Lù Duān | 2 | REM | **2 pooled physical Yáoxiè chassis TOTAL** (shared Rui Shi / Lù Duān) | Already have two chassis shared between these two troop types; allocate each only once per list. |
 | Kuroshi Rider | 1 | LI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
 | Yuan Yuan | 2 | WB | 0 named owned | Ōban-only among JSA rosters; UTZ USD $6 vs MM USD $7.4, 1 before 2. |
-| Karakuri Special Project | 3 | HI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
+| Karakuri Special Project | 3 | HI | 0 dedicated | **Buy the 3-figure physical set in core**; Mk12/Combi/Heavy Shotgun. No further purchases for AVA3. |
 | Atom Aibōt | 1 | REM | 0 named owned | Check correct robot S/base; 4 PanO Dronbots/2 Mulebots are *pooled*, conditional proxies. Don't buy AVA by default. |
 | Robio Aibōt | 1 | REM | 0 named owned | Check correct robot S/base; 4 PanO Dronbots/2 Mulebots are *pooled*, conditional proxies. Don't buy AVA by default. |
 | Takeshi “Neko” Oyama | 1 | HI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
