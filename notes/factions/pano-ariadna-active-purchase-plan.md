@@ -2,6 +2,8 @@
 
 **Status:** user-selected **planned purchases only; not yet owned**. Complements the broader [PanO combined carts](panoceania-consolidated-buy-carts.md), [Ariadna combined carts](ariadna-consolidated-buy-carts.md), [Vanilla PanO](vanilla-pano-buy-list.md), and [Vanilla Ariadna](vanilla-ariadna-buy-list.md) research. This is the **current intended shopping scope**; older broad "core" carts are hypothetical alternatives, not instructions to buy extra items.
 
+**Latest decision — 2026-10-31:** **Skip/defer JSA and Ōban purchases entirely, and skip Corregidor** from the active buy shortlist. Their existing guides remain saved hypothetical research, *not planned spending*. This active PanO+Ariadna core remains **CAD $271.76**, with **Neoterra Beta +$18.46**, **Kosmoflot Patchers +$23.90**, and **optional Operation Crimson Stone Ariadna 7 +$44.47** as the next preferred incremental buys. Thus **CAD $314.12** after Beta+Patchers, or **CAD $358.59** with the extra seven-model Kosmoflot half, before tax/shipping. **Tunguska CAD $152.78** or **Bakunin CAD $175.63** are later alternative *uncommitted* new-sectorial projects; do not automatically buy either. **Shindenbutai, Kestrel and Military Orders remain proxy-only completion plans.**
+
 **Prices:** historical saved Miniatures Market / Ultimate Toy Zone USD reference quotes, converted at USD1=CAD1.3985 (2026-10-29), and Canadian retailer quotes, as documented in source lists. **Not confirmed live stock/checkout.** No GST/QST, shipping, FX/card costs, brokerage, customs/duties. No duplicate boxed contents counted.
 
 ## Planned PanO purchases (CAD)
