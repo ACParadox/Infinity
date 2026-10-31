@@ -90,7 +90,7 @@ Canadian locations are **storefront cities**, not demonstrated warehouse dispatc
 | JSA Essentials Army Pack seven | **CAD $90** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Listed *more on the way* in filtered catalogue; not available to order at source check. |
 | Start Here PanO/JSA six + terrain | **No source-verified CAD quote** | [401 Games](https://store.401games.ca/) — Toronto/Vaughan, ON | 3 JSA minis, 3 PanO, not all six for JSA. |
 | JSA Booster Alpha (Domaru+Oyama) | **CAD $42** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Advertised in stock; compare saved MM $17 USD. |
-| Shinobu Kitsune monofilament single | **CAD $31** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Advertised in stock; optional stealth assassin vs Oniwaban. |
+| Shinobu Kitsune monofilament single | **CAD $31** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Recorded CAD31 Canadian fallback for the required core Shinobu, not an optional buy; older USD6.80 reference may not be available. |
 | O-Yoroi Essentials TAG | **CAD $54** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Source's different filtered catalogues disagree about stock: verify checkout. Kobaruto accessory must be accounted for. |
 | Ōban Expansion Alpha three | **CAD $45** | [Tistaminis JSA](https://tistaminis.com/collections/infinity-jsa) — Hamilton, ON | Low stock at crawl; **2/3 vanilla**, Kuroshi Rider not standard vanilla. [401 Games CAD $52.95 sold out](https://store.401games.ca/products/infinity-jsa-oban-expansion-pack-alpha). |
 
@@ -161,7 +161,7 @@ Roster data below are from [the current authoritative Vanilla JSA N5.3 source](.
 | Shinobu Kitsune | 1 | SK | 0 dedicated | **Buy classic Shinobu one model as core**, not an optional Naga proxy. |
 | Ioann Bann | 1 | WB | 0 dedicated | **Proxy first if rare**, buy only for recurring specialist/mission/Fireteam use; AVA is not a shopping target. |
 | Kyoshō Saibāyunitto | 1 | LI | 0 dedicated | **Proxy first if rare**, buy only for recurring specialist/mission/Fireteam use; AVA is not a shopping target. |
-| Tokusetsu Butai | 2 | LI | 0 dedicated | Doctor/Engineer, **0 dedicated**; old Support Pack 2 humans+2 servants; use same-S non-JSA human models for testing. |
+| Tokusetsu Butai | 2 | LI | 0 dedicated | **Proxy-only $0**; use two separate owned non-JSA S2 LI medic/engineer donors (Trauma-Doc/Machinist), and owned S1 servants; **no Support Pack purchase**. |
 | Senku Troops | 5 | LI | **3 owned** | **Proxy first if rare**, buy only for recurring specialist/mission/Fireteam use; AVA is not a shopping target. |
 | Nokizaru Unit | 1 | SK | **1 owned** | **Proxy first if rare**, buy only for recurring specialist/mission/Fireteam use; AVA is not a shopping target. |
 | Yáoxiè Rui Shi | 2 | REM | **2 shared Yáoxiè REM chassis**; one two-chassis pool shared between Rui Shi and Lù Duān | **Owned shared pool of 2**; no third chassis until an actual 3- or 4-REM list requires it. |
