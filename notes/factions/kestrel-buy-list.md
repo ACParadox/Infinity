@@ -18,7 +18,7 @@
 
 **Proxy, not buy:** Dr. Priya Harper (non-Kestrel S2 LI); Optimate Agent Maximus infantry (MO Infirmarer S2 MI, not owned TAG Maximus); Dart (owned Naga S2 SK, Sharvara K9 **not owned**); Sāchā (non-Kestrel S2 LI); Kazurabā Ruby Monday (non-Kestrel S2 HI). Emily and Quinn themselves can be proxied with **different** MO Crosier / Trisha N33 S2 LI models; Kestrel-legal Fennecs are ambiguous donors. For Sforza use a suitable non-Kestrel S2 MI when tested.
 
-**Do not purchase:** normal humanoid-style Dronbots, Armbot/Peacemaker duplicates, Mulebots or any standard Spec-Ops/Team-Ops models. Existing robot pools are **not** four of each Dronbot nor two of each Armbot. One donor cannot cover two active models. All substitutes require correct silhouette and [proxy-policy](../miniature-proxy-guidelines.md) appearance.
+**Do not purchase:** normal humanoid-style Dronbots, Armbot/Peacemaker duplicates, Mulebots or any standard Spec-Ops/Team-Ops models. Existing robot pools are **not** four of each Dronbot nor two of each Armbot. One donor cannot cover two active models. All substitutes require correct silhouette and [proxy-policy](../miniature-proxy-guidelines.md) appearance. See the [deduplicated PanO-wide shopping cart](panoceania-consolidated-buy-carts.md).
 
 ## Decision before spending
 
