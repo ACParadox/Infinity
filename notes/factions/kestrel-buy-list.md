@@ -2,9 +2,9 @@
 
 **Prepared 2026-10-30.** Rules authority: [pinned current 40-unit Kestrel N5.3 roster and canonical Fireteams](../../sectorials/panoceania/kestrel-colonial-force.md), Army `7.26246.158` verified 2026-10-15. Tactical context: [Kestrel guide](kestrel.md) and [PanO purchase value audit](panoceania-must-have-go-to-avoid-transcript-evidence.md). Physical ownership: [Kestrel inventory](../../inventory/kestrel.md) (48 bodies including the Crabbot and shared REM chassis), [Military Orders inventory](../../inventory/military-orders.md), [other-units inventory](../../inventory/other-units.md). **Shopping plans are not owned inventory.** This is a 40-unit standard roster, not Reinforcement or Spec-Ops shopping.
 
-## Collection completion — core and optional purchases (CAD)
+## Proxy-only completion — $0 purchases (historical quotes below)
 
-**Completion rule (2026-10-30, latest decision): proxy **every** missing Kestrel unit and additional body with existing suitable models; buy nothing. Retain useful multiples already owned. All regular Dronbots (four shared) and Armbots (two shared) and Mulebots (two owned) need no further purchases. Source: [saved Miniatures Market USD PanO catalogue](panoceania-miniatures-market-prices-usd.md), [mercenary price reference](mercenary-miniatures-market-prices-usd.md). USD1 = CAD1.3985 (2026-10-29). Archived user-captured prices, **not live stock**; tax/shipping/brokerage extra.
+**Completion rule (2026-10-30, latest decision):** Proxy **every** missing Kestrel unit and additional body with existing suitable models; buy nothing. Retain useful multiples already owned. All regular Dronbots (four shared) and Armbots (two shared) and Mulebots (two owned) need no further purchases. Source: [saved Miniatures Market USD PanO catalogue](panoceania-miniatures-market-prices-usd.md), [mercenary price reference](mercenary-miniatures-market-prices-usd.md). USD1 = CAD1.3985 (2026-10-29). Archived user-captured prices, **not live stock**; tax/shipping/brokerage extra.
 
 | Unplanned dedicated sculpt (reference only) | Historical CAD | Proxy-first treatment |
 |---|---:|---|
@@ -27,7 +27,7 @@ Your Kestrel force is **already usable without purchases**: 48 physical miniatur
 | Priority | Dedicated figure / target quantity | Owned | Recommendation |
 |---|---|---:|---|
 | **P1 / proxy only** | **Emily Handelman**, 1 | 0 | E/M Grenade Launcher and Wildcard utility. USD $6.90 from MM snapshot; first test a distinct MO Crosier or owned Trisha N33 (S2 LI), **never a Kestrel-legal Fennec**. |
-| **P1 / proxy only** | **Richard Quinn**, 1 | 0 | Fennec/Kestrel counts-as, Forward Observer Wildcard; USD $7.30 MM snapshot, or proxy a different MO Crosier S2 LI. Buying both Emily and Quinn requires two distinct models, not one Trisha reassigned twice. |
+| **P1 / proxy only** | **Richard Quinn**, 1 | 0 | Fennec/Kestrel counts-as, Forward Observer Wildcard; USD $7.30 MM snapshot, or proxy a different MO Crosier S2 LI. Fielding both Emily and Quinn simultaneously requires two distinct owned proxy bodies, not one Trisha reassigned twice. |
 | **P2 / proxy only** | **Father Lucien Sforza**, 1 | 0 | FTO Wildcard and viral/adhesive threat; USD $6.80 MM Viral+ADHL or $8.60 MM Surprise Attack sculpt. Check which looks right for chosen FTO profile. |
 | **P2 / proxy** | **Dart**, 1 | 0 | Already have **Naga S2 SK** as the strongest donor; no dedicated buy required. **Sharvara K9 is 0**, and the 42-point peripheral loadout needs a separate K9 model. |
 | **P3 / proxy** | **Dr. Priya Harper**, 1 | 0 | Specialist FTO Wildcard only on FTO option, not every profile. MO **Crosier or owned Trisha N33 (S2 LI)** when available; do not count this as another newly owned specialist. |
