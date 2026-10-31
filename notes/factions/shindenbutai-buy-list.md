@@ -2,23 +2,25 @@
 
 **Prepared 2026-10-30 · committed on `main` · not an inventory change.** Authority: [current Shindenbutai N5.3 roster](../../sectorials/jsa/shindenbutai.md), Army `7.26246.159` verified 2026-10-16; [source-backed JSA purchase/avoid evidence](jsa-must-have-go-to-avoid-source-audit-2026.md); [JSA proxy rules](../miniature-proxy-guidelines.md). Owned figures: [Shindenbutai](../../inventory/shindenbutai.md), [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [TAK](../../inventory/tak.md), [Caledonia](../../inventory/caledonia.md), [misc](../../inventory/other-units.md).
 
-## Collection completion — priced core and optional upgrades (CAD)
+## Proxy-only completion — historical purchase prices (CAD)
 
-**Owned and reused:** Senku ×3; Nokizaru, Shurayuki, Kurayami, Mechazoid, Hatamoto, Raiden, Jizamurai, Teishin, Shizoku, Yuriko ×1 each; Tanuki ×2, Kyojin ×2, Yamabushi ×2; both Yojimbo foot/bike variants; Warcor; **two Yáoxiè chassis shared Rui Shi/Lù Duān**. These are detailed in [inventory](../../inventory/shindenbutai.md). **Do not rebuy Sandtrap, Beyond Sandtrap, or Shinden Expansion Beta**. You previously asked for a third Tanuki and second Hatamoto; those are included in core below, but a lower-cost proxy-first scenario is also given.
+**Owned and reused:** Senku ×3; Nokizaru, Shurayuki, Kurayami, Mechazoid, Hatamoto, Raiden, Jizamurai, Teishin, Shizoku, Yuriko ×1 each; Tanuki ×2, Kyojin ×2, Yamabushi ×2; both Yojimbo foot/bike variants; Warcor; **two Yáoxiè chassis shared Rui Shi/Lù Duān**. These are detailed in [inventory](../../inventory/shindenbutai.md). **Do not rebuy Sandtrap, Beyond Sandtrap, or Shinden Expansion Beta**. The earlier idea of buying a third Tanuki and second Hatamoto has been superseded by the 2026-10-30 decision to **proxy every missing unit and extra body, with no planned purchases**. All prices below are retained for reference only.
 
-| Core purchase | CAD | Contents and rationale |
+| Former core purchase — **not planned** | Historical CAD | Contents and why it is unnecessary to buy |
 |---|---:|---|
 | [Shindenbutai Expansion Alpha](https://www.ultimatetoyzone.com/product/infinity-jsa-shindenbutai-expansion-pack-alpha/) | **$28.52** | **UTZ archive USD20.39**, **2 Jizamurai + 1 Metsuke Officer**. From owned Jizamurai1/Metsuke0 to Jizamurai3/Metsuke1. [Tistaminis JSA CAD55 in stock](https://tistaminis.com/collections/infinity-jsa), [401 CAD49.95 sold out](https://store.401games.ca/products/infinity-jsa-shindenbutai-expansion-pack-alpha) are alternatives |
 | [JSA Support Pack](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-support-pack-boxed/) | **$15.52** | **UTZ archive USD11.10**, **Tokusetsu Doctor + Engineer + 2 Yáozăo S1 servant robots**. Two regular human troopers, not four regular Orders |
 | **Shinden Expansion Delta** | **$54.00** | **Tistaminis Hamilton CAD54**, indexed in stock; **2 Tanuki MMR + Shurayuki SMG**. Tanuki rises from **2 to 4**, meeting request for ≥3; unique Shurayuki is duplicate. If a single third Tanuki is available cheaply, avoid full box |
 | **Shinden Expansion Gamma** | **$55.00** | **Tistaminis Hamilton CAD55**, indexed in stock; **Hatamoto plasma carbine + Kurayami MMR + Nokizaru SMG**. Hatamoto rises **1→2** (Shinden AVA2); other two troop identities already owned |
-| **SHINDEN CORE** | **$153.04 CAD** | Four purchases including your requested extras. **Proxy-first reduced core $44.04** if deferring Delta/Gamma |
+| **FORMER SHOPPING PLAN, NOT RECOMMENDED** | **$153.04 CAD** | Previous four-box budget; it is **not** a required or planned core |
 
-| Optional | Extra CAD | Decision |
+| Additional unplanned sculpt | Reference CAD | Proxy/skip decision |
 |---|---:|---|
 | Monstrucker BSG | **+$12.17** | **Miniatures Market archive USD8.70**, 1 engineer, can proxy with existing **PanO Tech-Bee S2 LI**; verify merchant's actual contents |
 | Sāchā Xenotech Hunter | **+$20.98** | **Miniatures Market archive USD15.00**, rare Irregular specialist; proxy/skip unless repeatedly used |
-| **BOTH OPTIONS** | **+$33.15** | **Core + options $186.19 CAD** |
+| **BOTH FORMER OPTIONS** | **+$33.15** | Previously quoted $186.19 with the four boxes above; none are planned |
+
+**Current budget: required core **CAD $0.00**, planned optional purchases **CAD $0.00**, combined planned spending **CAD $0.00**. The old $44.04 reduced core, $153.04 full core and $186.19 with extras are **historical purchase scenarios only**, not the current completion plan. Use owned same-silhouette non-roster donors for missing Metsuke, Tokusetsu, Jizamurai and any extra Tanuki/Hatamoto where physically suitable; when a credible distinct model or required ancillary is unavailable, do not field that specific profile until a suitable proxy is identified.
 
 **Proxy and no-buy:** Four generic Robio/Atom/Garon/Uran Aibōt REM roles from four pooled **PanO Dronbots**, Pangguling baggage from **Mulebot**, S1 Yáozăo from **Palbots/Yudbots**, all correct silhouette and distinct. Your 2 actual Yáoxiè are a **single shared pool**, not 2 of each. Rare Ninja/Saito may use **OSS Naga S2 SK** rather than same-roster Nokizaru/Kurayami. Ioann Bann S6 may use a free appropriately shaped **Caledonian Cameronian/McMurrough S6**. **Skip** duplicate Yojimbo/Kyojin/Yamabushi, extra Sandtrap and Shinden Beta, unused Aïda/Ruby Monday, second expensive Mechazoid, differently sized Triphammer/TurtleMek and rare limited-event sculpts.
 
@@ -26,16 +28,16 @@
 
 ## Existing collection and buying strategy
 
-**This is the user's existing JSA army, not an unowned army.** [Confirmed inventory](../../inventory/shindenbutai.md): Senku3, Nokizaru1, Shurayuki1, Kurayami1, Mechazoid1, Hatamoto1, Warcor1, **2 Yáoxiè chassis pooled between Rui Shi and Lù Duān**, Yamabushi2 (shared), Shizoku1, Yuriko1, **Yojimbo on bike1 and on foot1 (mutually exclusive in army list)**, Teishin1, Jizamurai1, Tanuki2, Kyojin2, Raiden1. **Tokusetsu0, Metsuke0, Aïda0, Saito0, Ninja0, Ruby0, Sāchā0, Ioann0, four Aibōt types0, Monstrucker0.** Models in **Sandtrap seven**, **Beyond Sandtrap three**, and **Shinden Expansion Beta three** are already represented by owned unit families. Missing support and the user's explicit request for **a third Tanuki / second Hatamoto** are more useful than buying starter packs again. Earlier suggestions that Shurayuki→Metsuke and Nokizaru/Kurayami→other Ninja are **superseded** by [proxy policy](../miniature-proxy-guidelines.md): those donors are themselves legal Shinden troops.
+**This is the user's existing JSA army, not an unowned army.** [Confirmed inventory](../../inventory/shindenbutai.md): Senku3, Nokizaru1, Shurayuki1, Kurayami1, Mechazoid1, Hatamoto1, Warcor1, **2 Yáoxiè chassis pooled between Rui Shi and Lù Duān**, Yamabushi2 (shared), Shizoku1, Yuriko1, **Yojimbo on bike1 and on foot1 (mutually exclusive in army list)**, Teishin1, Jizamurai1, Tanuki2, Kyojin2, Raiden1. **Tokusetsu0, Metsuke0, Aïda0, Saito0, Ninja0, Ruby0, Sāchā0, Ioann0, four Aibōt types0, Monstrucker0.** Models in **Sandtrap seven**, **Beyond Sandtrap three**, and **Shinden Expansion Beta three** are already represented by owned unit families. Missing support and extra Tanuki/Hatamoto can be **proxied when simultaneous lists call for them**. The earlier request for dedicated extra sculpts does not override the later no-purchase decision. Earlier suggestions that Shurayuki→Metsuke and Nokizaru/Kurayami→other Ninja are **superseded** by [proxy policy](../miniature-proxy-guidelines.md): those donors are themselves legal Shinden troops.
 
 | Priority | Unit or complete box | Confirmed bodies | Reason, overlap, proxy recommendation |
 |---|---|---|---|
-| **P1** | Metsuke x1 via Shinden Expansion Alpha (3) | 0 | High-value Strategos/Counterintelligence LT; box also 2 Jizamurai and **one Jizamurai already owned**. UTZ USD $20.39 vs Tistaminis CAD $55. |
-| **P1/P2** | Third Tanuki (perhaps Delta) | 2/AVA5 owned | Explicitly wanted. Test Hacker+CoC/Engineer/another simultaneous Tanuki before buying. Delta has **two Tanuki MMR + one Shurayuki**, but already own Shurayuki AVA1. |
-| **P1/P2** | Second Hatamoto (perhaps Gamma) | 1/AVA2 owned | Explicitly desired. Gamma also contains Kurayami and Nokizaru, both already owned as named unit types, so avoid whole box solely for this model if single available. |
-| **P2** | Tokusetsu x1–2 plus correct Yáozăo servants | 0 dedicated; 2 Yudbots +2 Palbots physically pooled | Old Support Pack USD $11.10 includes Doctor+Engineer+2 servants; no extra regular Orders from servants. |
+| **Proxy first** | Metsuke x1 (formerly via Expansion Alpha) | 0 | High-value Strategos/Counterintelligence LT. Find a distinct S2 LI non-Shinden donor from existing inventory or leave this profile out; **do not buy Alpha**. Existing Jizamurai x1 can remain in use. |
+| **Proxy first** | Third Tanuki (formerly Delta) | 2/AVA5 owned | Use a separate suitable existing model only if a list simultaneously needs three; **do not buy Delta** (also duplicates Shurayuki). |
+| **Proxy first** | Second Hatamoto (formerly Gamma) | 1/AVA2 owned | Use a distinct correctly sized/armoured owned donor if two are fielded; **do not buy Gamma**, which repeats Kurayami and Nokizaru. |
+| **Proxy first** | Tokusetsu x1–2 plus correct Yáozăo servants | 0 dedicated; 2 Yudbots +2 Palbots physically pooled | Use distinct S2 LI PanO/OSS support donors; existing servants already cover correct-size peripherals. **Do not buy Support Pack**. |
 | **P2** | Aibōt remotes Robio/Atom/Garon/Uran | 0 exact; 4 pooled PanO Dronbots | Try correct-S/size robotic proxies before buying dedicated four distinct roles; UTZ USD $16.80 box contents not proven. |
-| **P2** | One extra Jizamurai for real Bushi-tai | 1/AVA5 owned | Only if actual legal formation requires additional simultaneous Jizamurai; Alpha box has 2; otherwise avoid AVA-completion. |
+| **Proxy first** | Extra Jizamurai for Bushi-tai | 1/AVA5 owned | Use a different owned S2 MI-style donor only for an actual simultaneous Fireteam; do not buy Alpha to fill AVA. |
 | **P2/P3** | Saito or Ninja specialist | 0 named | Use **OSS Naga x1** S2 SK outside force, not **Shinden-legal** Kurayami/Nokizaru figures; buy when multiple simultaneous ninja profiles needed. |
 | **P3/skip** | Second Mechazoid; Triphammer | Mechazoid1 S6, Triphammer0 | TAG plans expensive; **Triphammer S7 ≠ S6 Mechazoid** and its TurtleMek ancillary unreported. Borrow correct-size TAG first. |
 | **P3** | Ioann Bann proper S6 Dog-Warrior | 0 named | Owned Caledonian McMurrough/Cameronian S6 if free and correct silhouette/appearance; original suggested independent Dog-Warrior not reported owned. |
