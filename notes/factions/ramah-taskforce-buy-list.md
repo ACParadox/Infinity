@@ -2,6 +2,32 @@
 
 **Prepared October 30, 2026 · `main` · purchase plan, not inventory update.** Current N5.3 roster/Fireteam source: [Ramah Taskforce](../../sectorials/haqqislam/ramah-taskforce.md), Army `7.26246.158` verified 2026-10-15. Tactical evidence: [Haqqislam must-have/go-to/avoid source audit](haqqislam-must-have-go-to-avoid-transcript-evidence.md). Ownership references: [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [TAK](../../inventory/tak.md), [Caledonia](../../inventory/caledonia.md), [Shindenbutai](../../inventory/shindenbutai.md), [other minis](../../inventory/other-units.md). **No dedicated Haqq army owned**; recommended purchases aren't owned.
 
+## Collection completion — concrete purchases, proxies, optional costs (CAD)
+
+**Objective:** Build the key Ramah heavy-infantry/medic/smoke core with **3 Ghulam**, Khawarij/Tarik, Mukhtar, Zhayedan, a midfield Hunzakut, Hortlak and one Namurr. The [37-entry N5.3 roster](../../sectorials/haqqislam/ramah-taskforce.md) and its audit below address every remaining rare, unwanted or expensive unit. Existing exact Ramah units **Warcor (1) and Beasthunter (1)** are not purchases. **Ragik and Fiday are not current Ramah roster units** even though older two-faction Action Packs include them.
+
+| Core buy once | CAD | Physical contents and source |
+|---|---:|---|
+| **Operation Red Veil — Haqq-only 7** | **$38.18** | **U:** Miniatures Market **USD27.30**, **3 Ghulam + Zhayedan + Tuareg + Khawarij + Al Fasid** (all **7 Ramah legal**). This is a *Haqq half*, not the full Yu Jing/Haqq two-player box. You own none of the seven |
+| **Beyond Red Veil — Haqq-only 3** | **$18.74** | **U:** Miniatures Market **USD13.40**, **Tarik Mansuri + Fiday + Ragik**. **ONLY Tarik is Ramah legal**; other two are useful shared figures for Vanilla/Hassassin, not Ramah soldiers |
+| **Mukhtar Red Fury (1)** | **$10.06** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**, one mobile gun |
+| **Ramah Expansion Alpha (3)** | **$48.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha), Toronto/Vaughan CAD48.95 catalogue. **Hunzakut + Hortlak + Al Fasid HRL**. A second **Al Fasid body** duplicates the old Red Veil unit identity; may offer another profile |
+| **Haqq Reinforcements Beta (3)** | **$50.00** | **V:** [Tistaminis Haqq catalogue](https://tistaminis.com/collections/haqqislam), Hamilton ON. **Hakim + Leila Sharif + Rouhani**, all **three regular Ramah roster legal**. Prefer a confirmed cheaper 401 offer if correct SKU/stock; no assumed additional peripheral servants |
+| **Namurr Active Response Unit single (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**; mobile specialist profile, alternate named character/weapon sculpts not automatic |
+| **CORE — Ramah Taskforce** | **$175.44** | Six products. 3 Ghulam real bodies, 1 Khawarij, 1 Tarik, 1 Mukhtar; no ordinary remotes required |
+
+| Optional | Add CAD | Why defer |
+|---|---:|---|
+| **Older Maghariba Guard metal TAG** | +**$44.05** | **U:** MM **USD31.50**; compare **newer resculpt** Canadian listing approx **CAD95** at Tistaminis, "more on the way" at previous check. A large size-specific TAG is not ordinary S2 proxy |
+| **Haytham S7 Aero-unit** | +**$41.96** | **U:** MM **USD30.00**; S7 **Vehicle**, not a TAG, wrong donor if regular PanO S6 mecha; only buy for vehicle-specific lists |
+| **Hakims (2 bodies + 2 Nasmats)** | +**$46.00** | **V:** [Tistaminis](https://tistaminis.com/collections/haqqislam), Hamilton ON. **One Hakim already included in Reinforcements Beta**; this is for double-Hakim or correct special peripheral poses, not two extra order-generating servants |
+| **Zhayedan older group** | +**$23.08** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/) **USD16.50**; **one Zhayedan already in Red Veil**. Weapon/number of additional soldiers in quoted group *unverified*, not an automatic must-have |
+| **All four options** | **+$155.09** | **Core + options $330.53** |
+
+**Proxy/skip:** Use Fennecs/Crosiers for extra S2 Ghulams, correct S2 MI/HI donors for extra Khawarij/Janissaries/Namurr *only if the specific physical silhouette matches*. 4 existing Dronbots can represent the normal **Fanous/Rafiq/Shihab/Shaytaniyah** REM types when their S/height and gun roles are clear; use Mulebots for suitable baggage and Yudbots/Palbots for S1 Nasmats. **Do not buy multiple standard bots just because unit names differ.** S5/special TAGs, distinct S7 aircraft and Hakim peripherals require proper models if used regularly; do not imply PanO and Haqq exotic vehicles are interchangeable. **Skip/borrow** Al Fasid additional variants, unrelated Fiday/Ragik for Ramah, second costly TAG, obscure named extras and special miniature variants without recurring lists. Ramah smoke/NCO **Ghulam core** and Mukhtar are more fundamental than an aircraft purchase.
+
+**Method and price provenance:** The dated [Miniatures Market Haqqislam USD prices](haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD prices](ultimate-toy-zone-infinity-prices-usd.md) are **U / historical user-captured snapshots**, **not live verified inventory or orderable checkout offers**. Convert USD to CAD at **1 USD = CAD 1.3985 (2026-10-29)**, rounding each product to cents. **V / Canadian seller catalogue** prices are in CAD (401 Games Toronto/Vaughan; Tistaminis Hamilton), and can change or be sold out. Tax, shipping, card conversion spread, customs/duties and brokerage **excluded**. The [one-cart Haqq consolidation](haqqislam-consolidated-buy-carts.md) avoids cross-army duplicated boxes. None of these are updates to your owned inventories.
+
 ## Army-specific buying verdict
 
 Ramah can reuse exactly **one Warcor and one Beasthunter**, but no official Ghulam, Khawarij, Mukhtar, Namurr, Zhayedan, Tarik or Janissary is recorded owned. Begin with Ghulam smoke/NCO and one versatile attacker, then remotes and specialists. The classic 10-model Haqq Action Pack provides **8/10 Ramah-legal models**: Fiday and Ragik are **not** Ramah. Ramah Expansion Alpha offers three real Ramah figures (Hunzakut, Hortlak and Al Fasid), but two of those are specialty pieces rather than automatically required.
