@@ -4,6 +4,23 @@
 
 This file distinguishes **recommended purchases**, **covered by owned models**, and **proxies**. It covers all **36 standard NCA roster units**, not Reinforcement-only extras or optional Spec-Ops/Team-Ops.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current buying policy (2026-10-30):** acquire a distinctive physical model for the useful missing units, **2–4 Bolts rather than just 1**, and proxy infrequently used/OOP models. No new Dronbot/Armbot/Mulebot or other normal human-style robot kit is necessary. [Miniatures Market PanO USD list](panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD list](ultimate-toy-zone-infinity-prices-usd.md), and established Canadian fallback listings supply prices. USD1 = CAD1.3985 (2026-10-29); **U** USD source snapshots are *not* verified checkout/stock, **V** Canadian catalogue listing is not necessarily in stock. No tax, shipping, brokerage or FX spread.
+
+| Buy once | CAD | Store/source and actual relevant units |
+|---|---:|---|
+| **Core:** Reinforcements PanO Alpha (6 figures), USD21.00 U | **$29.37** | Ultimate Toy Zone; **2 Neoterra Bolts**, plus 1 Blocker, 2 Blade-Ops and 1 Agnes. The latter four are incidental figures, **not recommended play or collector targets** |
+| **Core:** Reinforcements PanO Beta (3 figures), USD13.20 U | **$18.46** | Ultimate Toy Zone; **ORC HMG, Richard Quinn and Shona**, all standard NCA-legal; also useful in WinterFor |
+| **Core:** Essentials PanO Booster Alpha (3 figures), V | **$43.00** | Tistaminis, Hamilton ON; **Swiss Guard HMG and Aquila Guard HMG** NCA-legal. Nisse **not** NCA-legal; reuse in Vanilla/WinterFor |
+| Optional loose Captain Uma, USD6.40 U | +$8.95 | Miniatures Market; confirm loose versus Dire Foes multi-figure packaging |
+| Optional Hannibal, earlier USD9.10 U | +$12.73 | Older unassigned seller lead; not verified as a single sealed pack |
+
+**Core total: CAD $90.83. All priced options: +$21.68; CAD $112.51 combined.** One Bolt pack yields two different Bolt figures; **only buy more Bolts** when an actual four-Bolt Core with varied weapons requires them.
+
+**Proxy rather than buy:** 2 Auxilia troopers from non-NCA S2 LI Fennec/Crosier figures **plus two separate S1 Auxbots** (one Auxbot is owned; the second needs a correct-size proxy), Hexa from owned MO Trinitarian S2 SK, Clausewitz Uhlan from owned non-NCA Tikbalang S6 TAG (not an NCA-legal Squalos), Fusiliers from Kestrel Fennecs, Deva/CSU from suitable separate non-NCA S2 LI, and S2 MI Optimate Agent Maximus from an MO Infirmarer (the owned S6 Maximus TAG is **not** Agent Maximus). OOP Uhlan + Tik package is a costly, duplicate-Tik collector route, not an automatic purchase.
+
+**Skip dedicated:** Blade-Ops, Blockers and Aïda Swanson by low-use/user preference; do not interpret their inclusion in a discounted Alpha box as a tactical endorsement. Existing NCA-relevant owned Black Friars, Squalos Mk-II, Redeye, Locust, Garuda, Trauma-Doc, Machinist, Warcor, Tech-Bee and shared robot chassis are not to be bought again. Standard robot pool: **four total Dronbots**, **two total Armbots**, **two Mulebots**, **two Palbots**. Respect correct [silhouette/identity proxy policy](../miniature-proxy-guidelines.md) and avoid same-roster donor confusion. See [deduplicated PanO cart](panoceania-consolidated-buy-carts.md).
 ## Pricing and store policy
 
 - All converted USD estimates use the [Bank of Canada **2026-10-29 USD/CAD reference rate: 1 USD = 1.3985 CAD**](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/?dF=2026-09-30&dT=2026-10-30&lP=lookup_daily_exchange_rates_2017.php&rangeType=dates&rangeValue=&sR=2009-03-06&se=FXUSDCAD), the latest rate available while checking on October 30. Round to cents. **Taxes, shipment, payment-card FX spreads, duties and brokerage excluded**. Never compare overseas and local totals before checking shipping/tax.
