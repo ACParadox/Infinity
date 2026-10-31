@@ -92,7 +92,7 @@ Canadian storefronts **Tistaminis (Hamilton, ON)** and **401 Games (Toronto/Vaug
 | JSA Essentials Army Pack (7) | **CAD $90** | [Tistaminis, Hamilton](https://tistaminis.com/collections/infinity-jsa) | More on the way, no verified current checkout. |
 | JSA Booster Alpha (3) | **CAD $42** | [Tistaminis, Hamilton](https://tistaminis.com/collections/infinity-jsa) | Advertised in-stock at catalogue check. |
 | O-Yoroi TAG | **CAD $54** | [Tistaminis, Hamilton](https://tistaminis.com/collections/infinity-jsa) | Filtered stock pages differ; verify actual orderability, separate Kobaruto if needed. |
-| Shinobu Kitsune | **CAD $31** | [Tistaminis, Hamilton](https://tistaminis.com/collections/infinity-jsa) | Advertised in stock, optional expensive hidden assassin. |
+| Shinobu Kitsune | **CAD $31** | [Tistaminis, Hamilton](https://tistaminis.com/collections/infinity-jsa) | Recorded CAD31 Canadian fallback for the now-required core Shinobu; archived USD6.80 is a cheaper but unverified reference. |
 
 ## Human Sphere actual boxed-set contents and editions
 
@@ -180,6 +180,6 @@ Matches [the current pinned Ōban roster](../../sectorials/jsa/oban.md), excludi
 
 ## Avoids, contradictions, and unit reuse
 
-**Full-family hard avoid: none proven.** Genbutai BSG 18 as ordinary close trader is directly criticised versus 2W Domaru/Tankō, but Genbutai Engineer/Paramedic/NCO are different roles. Saito's extra assassination/smoke expense is **proxy-first**, not 'never'. A second O-Yoroi, Shikami or multiple Karakuri without mission plan are low-priority; first Tankō Disco, Ryūken and an actual objective unit are more defensible. **Both Yojimbo physical variants already owned; their profiles cannot coexist as two characters.**
+**Full-family hard avoid: none proven.** Genbutai BSG 18 as ordinary close trader is directly criticised versus 2W Domaru/Tankō, but Genbutai Engineer/Paramedic/NCO are different roles. Saito's extra assassination/smoke expense is **proxy-first**, not 'never'. A second O-Yoroi, extra Shikami or a second Karakuri BOX beyond the three in required core without mission plan are low-priority; first Tankō Disco, Ryūken and an actual objective unit are more defensible. **Both Yojimbo physical variants already owned; their profiles cannot coexist as two characters.**
 
 **Strong proxy rule:** every suggested donor must match base **and** height, the correct class/visual archetype, and not already be a selectable unit under the same force's name. In Ōban use outsider Shinden figures as donors only where they are not legal themselves; in Shinden don't proxy absent Ninjas with Kurayami/Nokizaru because they are themselves legal. One physical Yáoxiè, Yudbot or Yojimbo does not become multiple simultaneous figures. These lists are not inventory updates. Cross-check [Vanilla](vanilla-jsa-buy-list.md), [Ōban](oban-buy-list.md) and [Shindenbutai](shindenbutai-buy-list.md) when buying reusable boxes.
