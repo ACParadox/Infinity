@@ -4,15 +4,15 @@
 
 ## Collection completion — core and optional purchases (CAD)
 
-**Completion rule (2026-10-30):** one of every useful Kestrel unit, retain useful multiples already owned, and proxy occasional named characters. All regular Dronbots (four shared) and Armbots (two shared) and Mulebots (two owned) need no further purchases. Source: [saved Miniatures Market USD PanO catalogue](panoceania-miniatures-market-prices-usd.md), [mercenary price reference](mercenary-miniatures-market-prices-usd.md). USD1 = CAD1.3985 (2026-10-29). Archived user-captured prices, **not live stock**; tax/shipping/brokerage extra.
+**Completion rule (2026-10-30, latest decision): proxy **every** missing Kestrel unit and additional body with existing suitable models; buy nothing. Retain useful multiples already owned. All regular Dronbots (four shared) and Armbots (two shared) and Mulebots (two owned) need no further purchases. Source: [saved Miniatures Market USD PanO catalogue](panoceania-miniatures-market-prices-usd.md), [mercenary price reference](mercenary-miniatures-market-prices-usd.md). USD1 = CAD1.3985 (2026-10-29). Archived user-captured prices, **not live stock**; tax/shipping/brokerage extra.
 
-| Buy once | CAD estimate | Why |
+| Unplanned dedicated sculpt (reference only) | Historical CAD | Proxy-first treatment |
 |---|---:|---|
-| **Core:** Emily Handelman (1), MM USD6.90 | **$9.65** | Strong E/M Wildcard |
-| **Core:** Richard Quinn (1), MM USD7.30 | **$10.21** | Specialist Wildcard; alternatively included in PanO Reinforcements Beta |
-| **Optional:** Father Lucien Sforza (1), historical MM USD6.80 | **+$9.51** | Situational FTO Wildcard; proxy until needed |
+| **Do not buy:** Emily Handelman (1), MM USD6.90 | **$9.65** | Strong E/M Wildcard; proxy a separate MO Crosier/Trisha S2 LI |
+| **Do not buy:** Richard Quinn (1), MM USD7.30 | **$10.21** | Specialist Wildcard; proxy a different unused MO Crosier/Trisha S2 LI |
+| **Do not buy:** Father Lucien Sforza (1), historical MM USD6.80 | **+$9.51** | Situational FTO Wildcard; use a matching non-Kestrel S2 MI donor |
 
-**Core total: CAD $19.86. With Sforza: CAD $29.37.** For a cross-sectorial purchase, buy **Reinforcements PanO Beta** for Quinn (plus ORC and Shona) instead of the separate Quinn sculpt; do not double-count.
+**Required core: CAD $0.00. Planned options: CAD $0.00. Total planned purchases: CAD $0.00.** Former historical costs were $19.86 for Emily+Quinn and $29.37 with Sforza; **none are on the shopping list**. Reinforcements PanO Beta is not to be bought *for Quinn* (another sectorial may independently justify it).
 
 **Already owned:** the other 32 Kestrel unit types, including six Fennecs (above AVA5), two Scarecrows, three Fireflies, four Jackals, two Yamabushi, one Banshee, one Redeye and one each of the existing TAGs. A second Banshee, Black A.I.R. or Redeye is optional **only** when needed in a simultaneous list.
 
@@ -22,13 +22,13 @@
 
 ## Decision before spending
 
-Your Kestrel force is **already usable without purchases**: 48 physical miniatures cover 32/40 unit identities directly, and eight types lack dedicated models (Sforza, Quinn, Emily, infantry Agent Maximus, Priya Harper, Dart, Sāchā, Ruby Monday). There is no need to buy a starter, REM support, another TAG or enough models to meet every AVA. Your six Fennecs already exceed AVA 5. The main meaningful next purchase is a **specific character/Wildcard** after choosing a list—most can be proxied.
+Your Kestrel force is **already usable without purchases**: 48 physical miniatures cover 32/40 unit identities directly, and eight types lack dedicated models (Sforza, Quinn, Emily, infantry Agent Maximus, Priya Harper, Dart, Sāchā, Ruby Monday). There is no need to buy a starter, REM support, another TAG or enough models to meet every AVA. Your six Fennecs already exceed AVA 5. There is **no planned next purchase**. Use appropriately sized, distinguishable existing non-Kestrel donors for all eight absent identities and any desired multiples, or omit a profile whose special body/peripheral cannot be represented correctly.
 
 | Priority | Dedicated figure / target quantity | Owned | Recommendation |
 |---|---|---:|---|
-| **P1 / playtest** | **Emily Handelman**, 1 | 0 | E/M Grenade Launcher and Wildcard utility. USD $6.90 from MM snapshot; first test a distinct MO Crosier or owned Trisha N33 (S2 LI), **never a Kestrel-legal Fennec**. |
-| **P1 / playtest** | **Richard Quinn**, 1 | 0 | Fennec/Kestrel counts-as, Forward Observer Wildcard; USD $7.30 MM snapshot, or proxy a different MO Crosier S2 LI. Buying both Emily and Quinn requires two distinct models, not one Trisha reassigned twice. |
-| **P2** | **Father Lucien Sforza**, 1 | 0 | FTO Wildcard and viral/adhesive threat; USD $6.80 MM Viral+ADHL or $8.60 MM Surprise Attack sculpt. Check which looks right for chosen FTO profile. |
+| **P1 / proxy only** | **Emily Handelman**, 1 | 0 | E/M Grenade Launcher and Wildcard utility. USD $6.90 from MM snapshot; first test a distinct MO Crosier or owned Trisha N33 (S2 LI), **never a Kestrel-legal Fennec**. |
+| **P1 / proxy only** | **Richard Quinn**, 1 | 0 | Fennec/Kestrel counts-as, Forward Observer Wildcard; USD $7.30 MM snapshot, or proxy a different MO Crosier S2 LI. Buying both Emily and Quinn requires two distinct models, not one Trisha reassigned twice. |
+| **P2 / proxy only** | **Father Lucien Sforza**, 1 | 0 | FTO Wildcard and viral/adhesive threat; USD $6.80 MM Viral+ADHL or $8.60 MM Surprise Attack sculpt. Check which looks right for chosen FTO profile. |
 | **P2 / proxy** | **Dart**, 1 | 0 | Already have **Naga S2 SK** as the strongest donor; no dedicated buy required. **Sharvara K9 is 0**, and the 42-point peripheral loadout needs a separate K9 model. |
 | **P3 / proxy** | **Dr. Priya Harper**, 1 | 0 | Specialist FTO Wildcard only on FTO option, not every profile. MO **Crosier or owned Trisha N33 (S2 LI)** when available; do not count this as another newly owned specialist. |
 | **P3 / proxy** | **Agent Maximus**, 1 | 0 Agent / 1 TAG | Kestrel's Agent is **S2 MI**, not your owned **S6 TAG Maximus**. MO Infirmarer (S2 MI) is the appropriate donor; one Maximus total in the list. |
@@ -44,9 +44,9 @@ USD 1.00 = **CAD 1.3985** (2026-10-29 comparison rate used across the PanO buy l
 
 | Product / why consider | Listed USD → approx CAD | Retail source and location | Actual contents / reuse | Buying verdict |
 |---|---|---|---|---|
-| Emily Handleman Outrage | **USD $6.90** → **CAD $9.65** | [Miniatures Market PanO USD](panoceania-miniatures-market-prices-usd.md) | One Emily standalone; distinct from Outrage Characters Pack | **P1** only if not comfortable proxying |
-| Richard Quinn (Dire Foes 9 standalone) | **USD $7.30** → **CAD $10.21** | [Miniatures Market PanO USD](panoceania-miniatures-market-prices-usd.md) | One Richard Quinn; separate old Datacash box may duplicate | **P1** if you use his Wildcard |
-| Sforza (Viral Rifle + ADHL) | **USD $6.80** → **CAD $9.51** | [Miniatures Market Mercenaries USD](mercenary-miniatures-market-prices-usd.md) | One Sforza sculpt | **P2**; verify FTO sculpt/weapon |
+| Emily Handleman Outrage | **USD $6.90** → **CAD $9.65** | [Miniatures Market PanO USD](panoceania-miniatures-market-prices-usd.md) | One Emily standalone; distinct from Outrage Characters Pack | **Reference only**, current decision is proxy |
+| Richard Quinn (Dire Foes 9 standalone) | **USD $7.30** → **CAD $10.21** | [Miniatures Market PanO USD](panoceania-miniatures-market-prices-usd.md) | One Richard Quinn; separate old Datacash box may duplicate | **Reference only**, use existing proxy |
+| Sforza (Viral Rifle + ADHL) | **USD $6.80** → **CAD $9.51** | [Miniatures Market Mercenaries USD](mercenary-miniatures-market-prices-usd.md) | One Sforza sculpt | **Reference only**, not on buy list; verify FTO profile |
 | Sforza Surprise Attack alternate | **USD $8.60** → **CAD $12.03** | [Miniatures Market Mercenaries USD](mercenary-miniatures-market-prices-usd.md) | One Sforza sculpt, different title | Only buy **one** Sforza |
 | Sāchā single (mercenary snapshot) | **USD $15.00** → **CAD $20.98** | [Miniatures Market Mercenaries USD](mercenary-miniatures-market-prices-usd.md) | One Sāchā in description; compare to Kestrel Xenotech Hunters | **P3**; product/variant match needs checking |
 | Maximus Exclusive Pack | **USD $15.00** → **CAD $20.98** | [Miniatures Market PanO USD](panoceania-miniatures-market-prices-usd.md) | One Maximus with MULTI Marksman Rifle in supplied text; collector/resin/scenic base | **Do not assume** this is the playable S2 Agent or the S6 TAG without checking photo/SKU |
