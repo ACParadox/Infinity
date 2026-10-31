@@ -2,6 +2,20 @@
 
 **Updated 2026-10-30.** Standard roster authority: [Military Orders canonical 36-entry N5.3 reference](../../sectorials/panoceania/military-orders.md), Army `7.26246.158`, verified 2026-10-15. **36 entries = 35 unique types when Joan v1/v2 are counted as one model**, and only one Joan may be in the same Army List. Research: [PanO must-have/go-to/avoid](panoceania-must-have-go-to-avoid-transcript-evidence.md), [MO inventory](../../inventory/military-orders.md), [Kestrel inventory](../../inventory/kestrel.md) and [other owned units](../../inventory/other-units.md). This file recommends purchases but **does not change owned quantities**.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current decision, 2026-10-30:** already own all but **four** of the 35 distinct Military Orders unit identities (36 N5.3 Army headings include Joan v1/v2). The three useful missing named figures are inexpensive; Dart is best proxied. There is no justification to buy another starter, big Hospitaller box, Joan or standard robots. [Miniatures Market PanO USD snapshot](panoceania-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD snapshot](ultimate-toy-zone-infinity-prices-usd.md) provide historical prices; USD1 = CAD1.3985 at 2026-10-29. **Archived prices are not confirmed in stock**, and shipping, tax, currency fees are extra.
+
+| Purchase | Est. CAD | Source / contents |
+|---|---:|---|
+| **Core:** PanO Headquarters Pack, USD18.00 | **$25.17** | Ultimate Toy Zone, shipment origin unknown; **Kyle Hawkins + Curator + Grand Master HVT**. Grand Master is not a playable MO army unit |
+| **Core:** Indigo Brother Konstantinos, USD7.00 | **$9.79** | Miniatures Market; buy 1 loose rather than a mixed-faction Dire Foes box |
+
+**Core total: CAD $34.96.** There is no required priced option. Optional second/third Teutonic or another Crusader/Order Sergeant/Seraph only if a specific army list needs that number; the USD24.90 older Teutonic box has **unverified model quantity**, so it is not deceptively quoted as a price per knight. Consider non-MO Kestrel S2 HI as a temporary second Teutonic.
+
+**Proxy instead of buying:** Dart (owned **Naga S2 SK**, not the HI Asura); the **Sharvara K9 peripheral is not owned**, so avoid claiming the peripheral option is covered without a separate matching canine. If using the Curator, Hawkins or Konstantinos before buying, use respectively owned Trisha N33 S2 LI, non-MO Kestrel Griffin/Hetkari S2 HI, and non-MO Trisha/Fennec S2 LI. Different concurrent figures need distinct donors.
+
+**Already owned:** 3 Crosiers, 3 Order Sergeants, 3 Trinitarians, 4 Hospitallers, 2 Santiagos, 2 Black Friars, 1 Infirmarer, 1 Teutonic, 1 Holy Sepulchre, 1 Seraph, 1 Knight of Justice, 1 Joan, 1 Mendoza, 1 De Fersen, foot Montesa 1, bike Montesa 1, plus shared Tikbalang, support, Crabbot and one Auxbot. Four shared Dronbot chassis, two shared Armbot chassis, two Mulebots and two Palbots are **not** a purchase target; proxy additional ordinary robots if needed, respecting base/height. A second Joan is unnecessary even though two versions appear in the roster. See [proxy policy](../miniature-proxy-guidelines.md) and [consolidated PanO cart](panoceania-consolidated-buy-carts.md).
 ## Most useful purchase decision
 
 You already report **31 MO-specific miniatures** (30 trooper models and one Auxbot) plus **15 physical PanO models shared from Kestrel**, for **46 physical MO-relevant bodies** counting Crabbot once. **Only four standard unit identities have no dedicated sculpt:** Curator, Indigo Brother Konstantinos, Kyle Hawkins, Dart. All four have workable options within your collection (Dart's standalone model is still zero and Sharvara K9 is zero). Additional Knights, Seraphs or starter/repack boxes are **optional**, not needed for a playable MO army.
