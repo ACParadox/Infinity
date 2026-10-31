@@ -2,6 +2,27 @@
 
 **Prepared:** 2026-10-30. **Army authority:** [current 51-entry vanilla PanO roster](../../sectorials/panoceania/panoceania.md), N5.3, Army 7.26246.158, verified 2026-10-15. **Buying rationale:** [vanilla tactics](vanilla-pano.md) and [PanO must-have/go-to/avoid purchasing audit](panoceania-must-have-go-to-avoid-transcript-evidence.md). **Physical ownership:** [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [other units](../../inventory/other-units.md), all dated 2026-10-30. This is a **buy list, not an additional owned inventory**: none of the suggested purchases is counted as owned.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current buying policy (2026-10-30):** one physical representation per useful unit, specific multiples only when justified; skip seldom-played named units and ordinary humanoid robot/baggage REMs. Owned PanO Dronbots (4 shared), Armbots (2 shared), Mulebots (2) and Palbots (2) cover the standard REM needs; extra REMs are proxies, not purchases. Source [Miniatures Market USD PanO archive](panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD archive](ultimate-toy-zone-infinity-prices-usd.md), plus Canadian store comparisons already recorded below. USD1 = CAD1.3985 (2026-10-29). **U** archived USD quotes are not stock-verified; **V** Canadian catalogue listings also need checkout confirmation. Excludes tax/shipping/brokerage.
+
+| Purchase | Est. CAD | Store / why |
+|---|---:|---|
+| **Core:** Helot Militia 4-pack, USD19.80 U | **$27.69** | Miniatures Market; only 2 playable concurrently in vanilla (AVA2), other 2 extra poses / Varuna |
+| **Core:** Karhu 3-pack, USD17.40 U | **$24.33** | Miniatures Market; two vanilla legal at once, three useful in WinterFor |
+| **Core:** Essentials PanO Booster Alpha | **$43.00** | Tistaminis, Hamilton ON (V catalogue); Swiss Guard HMG, Aquila Guard HMG, Nisse MULTI Sniper, all vanilla legal |
+| Optional Nøkken Spitfire, USD5.80 U | +$8.11 | Miniatures Market; reuse in WinterFor |
+| Optional Croc Man sniper, USD9.20 U | +$12.87 | Miniatures Market; MO Trinitarian S2 SK proxy already owned |
+| Optional Cutter TAG S7 | +$47.95 | 401 Games, Toronto/Vaughan ON (V); no good owned S7 PanO-looking TAG |
+| Optional Patsy Garnett, USD10.50 U | +$14.68 | Miniatures Market; stronger use in Varuna |
+
+**Core total CAD $95.02. All listed optional models add $83.61 (CAD $178.63 total).** These are independent Vanilla costs; the cross-sectorial [one-cart consolidation](panoceania-consolidated-buy-carts.md) purchases the Karhu, Helots and Booster only once.
+
+**Owned and reuse:** Kestrel Fennecs 6, Scarecrows 2, Fireflies 3, Griffin 2, Banshee 1, Redeye 1, Black A.I.R. 1, Hetkari 1, Blink 1, Drummer 1, Tikbalang 1, Squalos Mk-II 1, TAG Maximus 1, BCA Magistrate 1, Joan 1, Bipandra 1, Team Crux 1, MO Teutonic 1, Locust 1, and normal support/bots already cover their generic vanilla identities. Joan v1/v2 require **one**, not two, miniatures.
+
+**Proxy useful missing units:** Dr. Priya Harper, Zulu-Cobra, Fusiliers, Neoterra Bolts, ORC Troops, Motorized Bounty Hunters and infantry Optimate Agent Maximus. Choose separate non-vanilla correctly sized donor figures: MO Crosiers S2 LI for Fusiliers (**vanilla Fennecs are themselves legal**), suitable Kestrel S2 SK/MI for undercover units, a non-vanilla HI for ORC, owned S4 Montesa bike for bounty hunter, and MO Infirmarer S2 MI for Agent Maximus (not its owned S6 TAG).
+
+**Skip buying dedicated:** Pilot-X + RacerBots, Blade-Ops, Blockers and further low-usage named sculpt variants. Pilot-X is a multi-body configuration; do not pretend one 25mm miniature covers its bots. Existing S6 PanO TAGs cannot substitute S7 Cutter; alien Caskuda is not a routine PanO proxy. Optional Spec-Ops / Team-Ops are not standard roster acquisitions. Comply with [silhouette and identity proxy policy](../miniature-proxy-guidelines.md).
 ## Read this before ordering
 
 - **FX for comparisons:** USD 1.00 = **CAD 1.3985**, Bank of Canada rate for **2026-10-29** (latest published when researched on Oct 30): [rate source](https://fincast.info/pairs/usd-cad). Values rounded to cents, **before shipping, FX-card spreads, GST/QST, duties, brokerage**.
