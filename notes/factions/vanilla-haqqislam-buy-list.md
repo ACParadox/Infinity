@@ -8,20 +8,20 @@
 
 | Core purchase (buy once) | CAD | Why / model counts / source |
 |---|---:|---|
-| **2025 Hassassin Bahram Action Pack** | **$99.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), Toronto/Vaughan ON. **9 of its 10 models are current Vanilla-legal**, including **three Daylami**, one Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut and Muyib; **Shujae is not Vanilla-standard**. Three Daylami are useful physical low-cost screen bodies |
+| **2025 Hassassin Bahram Action Pack** | **$83.95** | **V (direct 401 Games product price checked 2026-10-30; earlier archive $99.95):** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), Toronto/Vaughan ON. **9 of its 10 models are current Vanilla-legal**, including **three Daylami**, one Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut and Muyib; **Shujae is not Vanilla-standard**. Three Daylami are useful physical low-cost screen bodies |
 | **Older Haqqislam Starter Pack (six)** | **$33.98** | **U:** [Miniatures Market Haqq USD capture](haqqislam-miniatures-market-prices-usd.md), **USD24.30**, old sculpt/generation: **3 Ghulam + Zhayedan + Khawarij + Tuareg**. All **six Vanilla legal**; not the 10-figure generic Action Pack |
 | **Mukhtar Red Fury (one)** | **$10.06** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**; mobile MSV2 attacker, don't buy older BSG sculpt as extra unit |
 | **Saladin (one)** | **$12.17** | **U:** Miniatures Market **USD8.70**, Strategos/command alternative; proxy if that particular order plan is rarely used |
 | **Hunzakut rifle/LGL (one)** | **$9.51** | **U:** Miniatures Market **USD6.80**; cheap S2 SK camo/specialist; second may be an owned correctly sized non-vanilla SK proxy |
 | **Beyond Red Veil — Haqq-only three-model trio** | **$18.74** | **U:** Miniatures Market **USD13.40**. **Fiday + Ragik** are Vanilla legal and fill distinct valuable slots; **Tarik Mansuri is NOT** a standard Vanilla selection. Do not mistake this for entire two-faction Beyond |
-| **CORE — Vanilla Haqqislam** | **$184.41** | Six unique purchases; starts from existing owned models and permits proxies for uncommon named types |
+| **CORE — Vanilla Haqqislam** | **$168.41** | Six unique purchases; starts from existing owned models and permits proxies for uncommon named types |
 
 | Optional (not in core) | Additional CAD | Decision |
 |---|---:|---|
 | **Shakush TAG** | +**$23.49** | **U:** Miniatures Market **USD16.80**, single distinctive TAG; buy if regularly using armor, not a normal human/REM proxy. Avoid a second expensive TAG initially |
 | **Haqq Reinforcements Alpha (6)** | +**$69.95** | **V:** 401 Games Canadian **CAD69.95 catalogue result**, confirm price/stock directly. **2 Sekban + Hafza + Burkut + Korsan + Al Hawwa**, all six in standard Vanilla roster. High value if also pursuing Qapu, but many are optional in Vanilla-only |
 | **Rahman Rouhani (single doctor character)** | +**$9.85** | **U:** Miniatures Market **USD7.04**, one named doctor if used often. **Alternative, not additive:** Haqq four-piece MM Support Pack **USD18.80 / CAD26.29**, containing Ghulam Doctor + Najjarun + 2 Nasmat servants; existing S1 bot proxies already cover basic support |
-| **Total of the three priced options above** | **+$103.29** | **Core + those options = $287.70**. Support-pack CAD26.29 substitute would change this amount |
+| **Total of the three priced options above** | **+$103.29** | **Core + those options = $271.70**. Support-pack CAD26.29 substitute would change this amount |
 
 **Proxy/skip:** Standard **Fanous / Rafiq / Shihab / Shaytaniyah** normal-looking remotes use up to **four physically distinct non-Combined S3 Dronbots** of the required base/height, and S4 Kameel baggage robots use existing Mulebots only if the precise target silhouette matches. Nasmat S1 servants can be owned Palbots/Yudbots; no native Haqq REM shopping budget. S2 LI from Fennecs/Crosiers for generic Ghulam support, SK from external TAK Scouts / OSS Naga for Fiday/Farzan/Hunzakut, and correctly sized HI for special bodies where no meaningful same-roster collision. Do not proxy an S5 armoured suit with S2 knight or a **S7 airborne Vehicle** with a conventional TAG. Rare characters such as Yasbir, Hussein al-Djabel, extra Fiday, additional premium hacker/MI, luxury Shakush/Maghariba alternative, and Haytham/Zeybek aircraft remain proxy/borrow/skip until a real list requires them. **Actual Vanilla has Core Fireteams=0**, so acquiring full five-figure line teams is not compulsory.
 
