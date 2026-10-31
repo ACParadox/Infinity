@@ -2,6 +2,24 @@
 
 **Prepared 2026-10-30.** Rules authority: [pinned current 40-unit Kestrel N5.3 roster and canonical Fireteams](../../sectorials/panoceania/kestrel-colonial-force.md), Army `7.26246.158` verified 2026-10-15. Tactical context: [Kestrel guide](kestrel.md) and [PanO purchase value audit](panoceania-must-have-go-to-avoid-transcript-evidence.md). Physical ownership: [Kestrel inventory](../../inventory/kestrel.md) (48 bodies including the Crabbot and shared REM chassis), [Military Orders inventory](../../inventory/military-orders.md), [other-units inventory](../../inventory/other-units.md). **Shopping plans are not owned inventory.** This is a 40-unit standard roster, not Reinforcement or Spec-Ops shopping.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Completion rule (2026-10-30):** one of every useful Kestrel unit, retain useful multiples already owned, and proxy occasional named characters. All regular Dronbots (four shared) and Armbots (two shared) and Mulebots (two owned) need no further purchases. Source: [saved Miniatures Market USD PanO catalogue](panoceania-miniatures-market-prices-usd.md), [mercenary price reference](mercenary-miniatures-market-prices-usd.md). USD1 = CAD1.3985 (2026-10-29). Archived user-captured prices, **not live stock**; tax/shipping/brokerage extra.
+
+| Buy once | CAD estimate | Why |
+|---|---:|---|
+| **Core:** Emily Handelman (1), MM USD6.90 | **$9.65** | Strong E/M Wildcard |
+| **Core:** Richard Quinn (1), MM USD7.30 | **$10.21** | Specialist Wildcard; alternatively included in PanO Reinforcements Beta |
+| **Optional:** Father Lucien Sforza (1), historical MM USD6.80 | **+$9.51** | Situational FTO Wildcard; proxy until needed |
+
+**Core total: CAD $19.86. With Sforza: CAD $29.37.** For a cross-sectorial purchase, buy **Reinforcements PanO Beta** for Quinn (plus ORC and Shona) instead of the separate Quinn sculpt; do not double-count.
+
+**Already owned:** the other 32 Kestrel unit types, including six Fennecs (above AVA5), two Scarecrows, three Fireflies, four Jackals, two Yamabushi, one Banshee, one Redeye and one each of the existing TAGs. A second Banshee, Black A.I.R. or Redeye is optional **only** when needed in a simultaneous list.
+
+**Proxy, not buy:** Dr. Priya Harper (non-Kestrel S2 LI); Optimate Agent Maximus infantry (MO Infirmarer S2 MI, not owned TAG Maximus); Dart (owned Naga S2 SK, Sharvara K9 **not owned**); Sāchā (non-Kestrel S2 LI); Kazurabā Ruby Monday (non-Kestrel S2 HI). Emily and Quinn themselves can be proxied with **different** MO Crosier / Trisha N33 S2 LI models; Kestrel-legal Fennecs are ambiguous donors. For Sforza use a suitable non-Kestrel S2 MI when tested.
+
+**Do not purchase:** normal humanoid-style Dronbots, Armbot/Peacemaker duplicates, Mulebots or any standard Spec-Ops/Team-Ops models. Existing robot pools are **not** four of each Dronbot nor two of each Armbot. One donor cannot cover two active models. All substitutes require correct silhouette and [proxy-policy](../miniature-proxy-guidelines.md) appearance.
+
 ## Decision before spending
 
 Your Kestrel force is **already usable without purchases**: 48 physical miniatures cover 32/40 unit identities directly, and eight types lack dedicated models (Sforza, Quinn, Emily, infantry Agent Maximus, Priya Harper, Dart, Sāchā, Ruby Monday). There is no need to buy a starter, REM support, another TAG or enough models to meet every AVA. Your six Fennecs already exceed AVA 5. The main meaningful next purchase is a **specific character/Wildcard** after choosing a list—most can be proxied.
