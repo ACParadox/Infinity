@@ -2,6 +2,32 @@
 
 **Created 2026-10-30 from latest committed main.** Buy plan **does not change inventory**. Authority: [Torchlight Brigade pinned N5.3 roster and Fireteams](../../sectorials/o-12/torchlight-brigade.md), Army 7.26246.159 verified 2026-10-15; [O-12 source-backed must/go-to/avoid audit](o-12-must-have-go-to-avoid-transcript-evidence-2026.md); [proxy standards](../miniature-proxy-guidelines.md); [Steel Phalanx](../../inventory/steel-phalanx.md), [Kestrel](../../inventory/kestrel.md), [TAK](../../inventory/tak.md), [Military Orders](../../inventory/military-orders.md), [Caledonia](../../inventory/caledonia.md), [Shindenbutai](../../inventory/shindenbutai.md) and [other inventory](../../inventory/other-units.md).
 
+## Collection completion — concrete purchases and CAD totals
+
+**Owned:** Beasthunter 1, Warcor 1, Yudbots 2 (shared from other inventories). **Not owned:** Hippolyta, Jamie, Sāchā or dedicated Torchlight soldiers. The full **38-entry current N5.3 roster audit below** remains the individual buy/proxy/skip reference.
+
+| Core purchase | CAD | Exact quantity, contents and seller |
+|---|---:|---|
+| **Torchlight Brigade Action Pack (9)** | **$48.95** | **U:** [Ultimate Toy Zone USD price archive](ultimate-toy-zone-infinity-prices-usd.md), USD35. **1 Strider, 1 Nimrod, 1 Yellowjacket, 3 Silverstar Rovers (different weapons), 2 Hellblazers, 1 Silverstar Prime**. All nine Torchlight legal; **Prime is solo and has no Torchlight Fireteam access**. [401 Games CAD79.95, 2 online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-action-pack) is current Canadian fallback |
+| **Torchlight Expansion Alpha (3)** | **$24.75** | **U:** UTZ archive USD17.70; **Kludger Engineer, Kludger Doctor, Waverider Hacker**, all separate troops. [401 Games CAD39.95, 10+ online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-expansion-pack-alpha) fallback |
+| **Torchlight Expansion Beta (3)** | **$54.95** | **V:** [401 Games CAD54.95, 2 online](https://store.401games.ca/products/infinity-o-12-torchlight-brig-expansion-pack-beta). **1 StormBot Heavy Rocket Launcher + 2 Moonrakers Heavy Shotgun**; [actual SKU contents independently confirmed](https://warsen.al/collections/all-o-12/products/torchlight-brig-expansion-pack-beta). Three distinct specialist REM soldiers, not generic Copperbots. Moonraker AVA2 Torchlight; all 3 Vanilla legal |
+| **O-12 Reinforcements Alpha (6)** | **$85.00** | **V:** [Tistaminis Hamilton CAD85, low stock](https://tistaminis.com/collections/o12?page=2). **3 Jackboots, 2 Vidocq, 1 Ment**. Torchlight **AVA1 for each of Jackboot, Vidocq and Ment**; only 3 of these 6 as named troops can coexist in a Torchlight list. The other physical bodies can be spare poses/declared compliant proxies, not three extra troop identities. Important Ment CoC |
+| **Raveneye Officer (1)** | **$25.00** | **V:** [Tistaminis Hamilton CAD25, low stock](https://tistaminis.com/collections/o12). FO/Minelayer role, also useful across Vanilla and Starmada |
+| **Tinker + Zetbot** | **$20.98** | **U:** [Miniatures Market saved O-12 USD](o-12-miniatures-market-prices-usd.md), USD15. One Tinker support trooper plus a separate Zetbot peripheral, not two Regular Orders. [401 CAD32.95 in stock](https://store.401games.ca/collections/corvus-belli-infinity-o-12) fallback |
+| **TORCHLIGHT CORE TOTAL** | **$259.63 CAD** | Six purchases; **$174.63 proxy-first** if Ment/Jackboot/Vidocq are represented by correct-size distinct donors rather than buying Reinforcements Alpha. Canadian 401 Action+Expansion Alpha rather than archival quotes adds **$46.20** |
+
+| Optional | Add CAD | Why |
+|---|---:|---|
+| **Wrecker TAG** | **+$24.75** | UTZ archived USD17.70. A distinct large TAG with Zetbot ancillary, not a generic Copperbot or free borrowed Wrecker |
+| **Jamie Arantes Rover** | **+$12.15** | [UTZ](https://www.ultimatetoyzone.com/product/infinity-o-12-jamie-arantes-netdroid-rover/) USD8.69; one named character with alternative mutually exclusive Handler/Rover profiles |
+| **O-12 Booster Beta** | **+$12.99** | [UTZ](https://www.ultimatetoyzone.com/product/infinity-code-one-0-12-booster-pack-beta/) USD9.29; Hippolyta, Katherine Cho, Crusher. **Only Hippolyta is Torchlight legal**; no need to buy this booster if the shared 26-model O-12 Collection Pack already supplies Hippolyta |
+| **Sāchā single** | **+$20.98** | [JSA Miniatures Market USD price archive](jsa-miniatures-market-prices-usd.md) USD15; mission-specific Irregular specialist, proxy/skip first |
+| **ALL OPTIONAL LINES** | **+$70.87** | **Core + all = $330.50 CAD** |
+
+**Proxy/skip:** Four ordinary **Oko/Peeler/Kyttä/Millicent** Copperbots can be represented by pooled **PanO Dronbots** of matching base/silhouette; Fuzzbot baggage by **Mulebot**, Yudbot S1 servants already owned. Moonrakers, StormBot, Wrecker and Firebat have distinct physical forms and cannot automatically use an ordinary Copperbot donor. Three Rovers and two Hellblazers already in the core avoid any immediate full-AVA body purchases. Beasthunter, Warcor and Yudbots need no duplicate buy. Optional Hippolyta, Jamie, Sāchā, Sonya, second Wrecker/Prime, Firebat S7 VH, rare one-off characters and alternate weapons are proxy-first. Different Jamie profiles cannot be fielded as two Jamie models.
+
+**Budget provenance:** Saved Miniatures Market/Ultimate Toy Zone USD prices marked U are archived user quotations, not proven live inventory. **USD1=CAD1.3985 (October 29, 2026)**, round per line. V means observed 401 Games (Toronto/Vaughan) or Tistaminis (Hamilton) CAD, not a stock guarantee. Exclude Québec taxes, freight, customs/brokerage, FX spreads. Shopping plans do not modify owned inventory. [All O-12 armies, shared one-purchase cart](o-12-consolidated-buy-carts.md).
+
 ## Own versus buy: priorities
 
 **Owned exact:** **Beasthunter x1**, **Warcor x1** and **2 Yudbots**, all from shared collections. **Hippolyta x0, Sāchā x0, Jamie x0**; merely owning Steel Phalanx doesn't imply owning Hippolyta. Borrow the same six shared PanO/ALEPH attack-REM chassis and Mulebots only if target silhouette matches. The nine-figure **Torchlight Action Pack is 9/9 legal**, but Silverstar Prime is a **solo** primary gun (no Torchlight Fireteam access), and reviewers caution against buying many additional ordinary Silverstar Rovers. Add Moonrakers, Ment, Raveneye and Torchlight Expansion Alpha rather than the old generic O-12 Action Pack (only one legal Kappa at a time in Torchlight).
