@@ -10,11 +10,11 @@
 
 | Army | Core buys CAD | Additional priced options CAD | Core + listed optional CAD | File |
 |---|---:|---:|---:|---|
-| **Vanilla Haqqislam** | **$184.41** | +$103.29 | $287.70 | [Vanilla](vanilla-haqqislam-buy-list.md) |
-| **Hassassin Bahram** | **$222.88** | +$70.24 | $293.12 | [Hassassin](hassassin-bahram-buy-list.md) |
+| **Vanilla Haqqislam** | **$168.41** | +$103.29 | $271.70 | [Vanilla](vanilla-haqqislam-buy-list.md) |
+| **Hassassin Bahram** | **$206.88** | +$70.24 | $277.12 | [Hassassin](hassassin-bahram-buy-list.md) |
 | **Ramah Taskforce** | **$175.44** | +$155.09 | $330.53 | [Ramah](ramah-taskforce-buy-list.md) |
 | **Qapu Khalqi** | **$148.26** | +$53.70 | $201.96 | [Qapu](qapu-khalqi-buy-list.md) |
-| **Sum of four separately ordered cores** | **$730.99** | — | — | **Double counts Hassassin Action, old Ghulam starter/Red Veil, Mukhtar, Beyond Red Veil and other overlap** |
+| **Sum of four separately ordered cores** | **$698.99** | — | — | **Double counts Hassassin Action, old Ghulam starter/Red Veil, Mukhtar, Beyond Red Veil and other overlap** |
 
 **Actual ownership is scarce:** shared **Warcor**, **Knauf** (Vanilla-legal) and **McMurrough** (Hassassin-legal) exist among owned Kestrel/Caledonia collections; no named Ghulam, Mukhtar, Fiday, Barid, Sekban, Odalisque etc. were recorded owned. Most substitute figures are **PanO, TAK, ALEPH and JSA non-Haqq silhouette donors**, not actual Haqq troop models.
 
@@ -26,7 +26,7 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 
 | Core purchase — ONE physical box/listing each | CAD | Source, contents and army overlap |
 |---|---:|---|
-| **Modern Hassassin Bahram Action Pack (10)** | **$99.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack). **3 Daylami, Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut, Shujae, Muyib**: **10 Hassassin / 9 Vanilla legal**, Shujae not Vanilla |
+| **Modern Hassassin Bahram Action Pack (10)** | **$83.95** | **V, verified from 401 Games product page on October 30, 2026 (supersedes earlier $99.95 quote):** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack). **3 Daylami, Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut, Shujae, Muyib**: **10 Hassassin / 9 Vanilla legal**, Shujae not Vanilla |
 | **Operation Red Veil — Haqq-only half (7)** | **$38.18** | **U:** Miniatures Market **USD27.30**, **3 Ghulam, Zhayedan, Tuareg, Khawarij, Al Fasid**: **7 Ramah, 6 Vanilla, 3 Qapu** legal; **not the full two-faction operation** |
 | **Beyond Red Veil — Haqq-only trio (3)** | **$18.74** | **U:** Miniatures Market **USD13.40**; **Tarik** for Ramah and **Fiday + Ragik** for Hassassin/Vanilla. Other bodies are NOT automatically Ramah-legal |
 | **Mukhtar Red Fury** | **$10.06** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**, shared Vanilla/Ramah |
@@ -42,10 +42,10 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 | **Odalisque Spitfire ×2** | **$20.42** | **U:** Miniatures Market **2 × USD7.30**, two simultaneous Qapu-legal bodies, poses share weapon; declare correct selected profiles |
 | **Djanbazan Sniper (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**, a Qapu MSV gunfighter; no unverified 3/4-body Djanbazan kit included |
 | **Azra'il Feuerbach (1)** | **$14.40** | **U:** Miniatures Market **USD10.30** older listing. One Qapu-specific armoured gun, **not** same unit/model as additional AP HMG and AP Spitfire version purchases |
-| **TOTAL — one shared core for Vanilla, Hassassin, Ramah, Qapu** | **$496.80 CAD** | **Saves $234.19** compared to independent core totals **$730.99**. All amounts are before tax/shipping/FX charges |
-| **Same shared cart if Ghazi is proxied** | **$465.05 CAD** | Minus unconfirmed Ghazi archive listing $31.75, no claimed dedicated Ghazi count |
+| **TOTAL — one shared core for Vanilla, Hassassin, Ramah, Qapu** | **$480.80 CAD** | **Saves $218.19** compared to independent core totals **$698.99**. All amounts are before tax/shipping/FX charges |
+| **Same shared cart if Ghazi is proxied** | **$449.05 CAD** | Minus unconfirmed Ghazi archive listing $31.75, no claimed dedicated Ghazi count |
 
-**Availability and pack substitutions:** For a **Hassassin Beta** from 401 Games, the recent **CAD48.95** listing adds **$22.10** over UTZ's unverified $26.85. For **Hassassin Fireteam Alpha**, Tistaminis' CAD50 adds **$23.15** over UTZ's historical $26.85. For **Ramah Alpha**, Tistaminis CAD56 alternative adds **$7.05** over indexed 401 CAD48.95. If all three substitutions are required, shared core becomes **CAD $549.10** with Ghazi, assuming the other offers exist. This is **not a fully Canadian/current-stock cart**: many cheap USD source listings are old and shipping from those sellers is unconfirmed.
+**Availability and pack substitutions:** For a **Hassassin Beta** from 401 Games, the recent **CAD48.95** listing adds **$22.10** over UTZ's unverified $26.85. For **Hassassin Fireteam Alpha**, Tistaminis' CAD50 adds **$23.15** over UTZ's historical $26.85. For **Ramah Alpha**, Tistaminis CAD56 alternative adds **$7.05** over indexed 401 CAD48.95. If all three substitutions are required, shared core becomes **CAD $533.10** with Ghazi, assuming the other offers exist. This is **not a fully Canadian/current-stock cart**: many cheap USD source listings are old and shipping from those sellers is unconfirmed.
 
 ## Optional extras / not in the core
 
