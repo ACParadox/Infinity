@@ -2,6 +2,25 @@
 
 **Prepared / checked:** 2026-10-30. **This is a proposed shopping list, not an inventory update.** Rules authority is the repository's [27-entry current Varuna Army roster, profiles and Fireteams](../../sectorials/panoceania/varuna-immediate-reaction-division.md) (N5.3, Army `7.26246.158`, source updated 2026-09-03, verified 2026-10-15), **not old N3/N4 retailer descriptions**. Purchasing and list value reflect [Varuna tactical guide](varuna.md) and [PanO source-backed must-have / go-to / avoid audit](panoceania-must-have-go-to-avoid-transcript-evidence.md), plus [model purchase avoid overview](model-purchase-avoid-summary-2026.md). Use [collection proxy policy](../miniature-proxy-guidelines.md). Compare future/shared purchases with [Vanilla PanO](vanilla-pano-buy-list.md), [NCA](nca-buy-list.md), [WinterFor](svalarheima-winter-force-buy-list.md) and [Acontecimento](acontecimento-buy-list.md): **buy-list suggestions do not become owned miniatures**.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current buying policy (2026-10-30):** buy genuinely distinctive useful Varuna models, particularly alien **Helots**, acquire at least one real **Kamau**, and use good matching owned proxies for generic S2 units. Standard PanO Dronbots, Armbots and baggage Mulebots are owned and/or proxy-only. Prices use [Miniatures Market PanO saved USD snapshot](panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD snapshot](ultimate-toy-zone-infinity-prices-usd.md), and Canadian verified price listings below. USD1 = CAD1.3985 (2026-10-29), **U** historical prices unverified live, **V** visible Canadian listing not necessarily in stock; excludes tax and shipping.
+
+| Purchase | Est. CAD | Why / sourcing |
+|---|---:|---|
+| **Core:** Helot Militia pack (4 figures), USD19.80 U | **$27.69** | Miniatures Market; Varuna AVA3, fourth is alternate sculpt, not fourth concurrent Helot |
+| **Core:** Kamau Hacker, USD6.90 U | **$9.65** | Miniatures Market; one genuine Kamau S2 LI. If a Kamau **MSV2 MULTI Sniper/HRL** sculpt is available at similar cost, prefer it for regular play |
+| **Core:** Croc Man sniper, USD9.20 U | **$12.87** | Miniatures Market; one S2 SK sniper/hidden specialist, not all four AVA |
+| **Core:** Patsy Garnett, USD10.50 U | **$14.68** | Miniatures Market; NCO/Helot Master with distinct commander sculpt |
+| Optional Echo-Bravo Paramedic, USD7.20 U | +$10.07 | Miniatures Market; separate WildParrot body or marker must be represented if selected |
+| Optional Reinforcements PanO Beta, USD13.20 U | +$18.46 | Ultimate Toy Zone; **only ORC HMG and Quinn** are Varuna-legal, Shona is for NCA/SWF |
+| Optional Cutter Essentials TAG S7 | +$47.95 | 401 Games, Toronto/Vaughan ON, V listed; unique S7 hidden-deployment mecha |
+
+**Core total CAD $64.89. All priced options add +$76.48, yielding CAD $141.37.** One Kamau is the minimum acquisition, but **2–3 Kamau for frequent Fireteams** are defensible. Until a properly priced MSR/HRL sculpt is found, proxy extra Kamau with separate owned S2 LI Fennecs/MO Crosiers not Varuna-legal; do not pretend the Hacker sculpt has a visible sniper rifle. Avoid a blind OOP Varuna Starter purchase: the archived USD35 quote is **not verified in stock**, though its six figures include 3 Kamau, Croc, Zulu-Cobra, ORC.
+
+**Proxy instead of buy:** Zulu-Cobra -> Kestrel Jackal S2 LI; ORC Troops -> Kestrel Griffin/Hetkari S2 HI; Richard Quinn -> non-Varuna MO Crosier/Trisha S2 LI; Fusiliers -> six owned Fennec S2 LI; Captain Uma -> non-Varuna appropriately armoured S2 MI. Croc Men can additionally use an owned Scarecrow S2 SK if needed; multiple simultaneously require distinct figures. Helots are aquatic aliens, not interchangeable with normal human LI. No new generic/baggage robots, extra Montesa, Bipandra, Squalos, Trauma-Doc or Machinist needed.
+
+**Cutter caution:** S7 PanO TAG is not represented by your S6 Squalos Mk-II, Seraph or Tikbalang; S7 alien Caskuda has wrong appearance. If foregoing Cutter, its roster row remains optional/uncovered by an accepted real miniature, not falsely marked owned. Correct base **and** silhouette height and [proxy identity policy](../miniature-proxy-guidelines.md) apply. See [PanO deduplicated budget](panoceania-consolidated-buy-carts.md).
 ## Executive purchase decision for the existing collection
 
 - **Already have major shared Varuna pieces:** **Squalos Mk-II 1, Bipandra 1, foot Knight of Montesa 1, motorized Montesa 1, Trauma-Doc 1, Machinist 1, Tech-Bee 1, Warcor 1, two Armbot chassis (shared Bulleteer/Peacemaker pool), four Dronbot chassis (shared Sierra/Clipper/Fugazi/Pathfinder pool), Mulebots 2, Palbots 2, Crabbot 1.** Do **not** buy these again as though you had no PanO army.
