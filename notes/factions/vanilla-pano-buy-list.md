@@ -1,5 +1,8 @@
 # Vanilla PanOceania — miniature buy list (N5.3, inventory-aware)
 
+**Latest user shopping selection (2026-10-31):** [Active plan](pano-ariadna-active-purchase-plan.md) selects **Swiss Guard via PanO Essentials Booster Alpha, Cutter S7, PanO Reinforcements Alpha (2 Bolts, 2 Blade-Ops, Blocker, Agnes), Helot Militia and Karhu**. **Current planned PanO budget CAD $172.34** excluding tax/shipping (historical quotes, not confirmed available); this supersedes older directions to defer Helots/Karhu or skip *acquiring* Blade-Ops/Blockers. Those two types are expressly desired **via their shared Alpha box**, not as separate extra boxes. The generic full-roster/core/optional numbers below are separate comparisons, not the selected cart. Planned purchases are **not yet owned**.
+
+
 **Prepared:** 2026-10-30. **Army authority:** [current 51-entry vanilla PanO roster](../../sectorials/panoceania/panoceania.md), N5.3, Army 7.26246.158, verified 2026-10-15. **Buying rationale:** [vanilla tactics](vanilla-pano.md) and [PanO must-have/go-to/avoid purchasing audit](panoceania-must-have-go-to-avoid-transcript-evidence.md). **Physical ownership:** [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [other units](../../inventory/other-units.md), all dated 2026-10-30. This is a **buy list, not an additional owned inventory**: none of the suggested purchases is counted as owned.
 
 ## Collection completion — core and optional purchases (CAD)
