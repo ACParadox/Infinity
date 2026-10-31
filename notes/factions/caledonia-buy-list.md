@@ -4,6 +4,30 @@
 
 **Repository authority:** [current Caledonia Army roster and Fireteams](../../sectorials/ariadna/caledonian-highlander-army.md) (Army **7.26246.158**, verified 2026-10-15), [Caledonia inventory](../../inventory/caledonia.md), [TAK inventory](../../inventory/tak.md), [Caledonia tactical guide](caledonia.md), [Ariadna source-backed unit audit](ariadna-must-have-go-to-avoid-source-audit-2026.md), and [proxy guidelines](../miniature-proxy-guidelines.md). Cross-check [Kosmoflot roster](../../sectorials/ariadna/kosmoflot.md) and any other sectorial buy lists before repurchasing a shared sculpt.
 
+## Collection completion — priced core and optional models (CAD)
+
+**Buying interpretation:** Your **23-row standard Caledonia roster audit** below already confirms the usable owned 3 Volunteers, 2 Galwegians, 3 Highlander Greys, 2 Mormaers, Wulver, SAS, Cateran, Uxía, Cadin, Isobel, Armand, Cameronian and McMurrough, plus shared supports and S6 Dog-Warrior stand-ins. Only **Wallace, Scots Guard, Denma Connolly and foot 112** lack dedicated models. Acquire Wallace + a first Scot from *one shared 3-soldier pack*; do not separately buy those two characters and the same Beyond trio.
+
+| Buy once (core) | CAD | What physically arrives |
+|---|---:|---|
+| **Beyond Operation Crimson Stone — Ariadna 3-pack** | **$25.59** | **U:** [Miniatures Market Ariadna archive](ariadna-miniatures-market-prices-usd.md) USD18.30. Contains **William Wallace (1) + Scots Guard (1) + Kosmosoldat (1)**. First two fill major missing Caledonian identities, the **Kosmosoldat is NOT Caledonia legal** but useful in Kosmoflot. Do **not** interpret this as the full 2-faction Beyond box |
+| **Denma Connolly (loose split, one)** | **$12.59** | Earlier user lead **USD9.00 U**; **seller not identified** in the two USD catalogues and a loose single is **not live verified**. Denma normally comes in a five-character Aftermath pack with four figures not Caledonia-legal. **Only include this amount if a real loose Denma can be obtained**; otherwise proxy the S2 warband and spend $0 for Denma |
+| **CORE — Caledonia, conditional Denma single** | **$38.18** | Without orderable loose Denma: **$25.59** for just the Beyond trio + Denma proxy |
+
+| Optional additional bodies | Add CAD | Why and price provenance |
+|---|---:|---|
+| **Second SAS**, Chain Rifle sculpt | +**$14.12** | **U:** Miniatures Market USD10.10. Two simultaneous S2 skirmishers useful for camo/FO combinations; owned one already, not a second *unit type* |
+| **Second Cateran**, T2 Sniper | +**$12.99** | **U:** [Ultimate Toy Zone snapshot](ultimate-toy-zone-infinity-prices-usd.md) USD9.29; two sniper threats for long fire-lane tables, not mandatory AVA4 |
+| **Both above** | **+$27.11** | **Core + both $65.29**, or $52.70 if Denma is proxied |
+| **Scots Guard three-soldier box** | **$46.00 V replacement/upgrade** | [Tistaminis, Hamilton](https://tistaminis.com/collections/ariadna/products/infinity-ariadna-scots-guard-new), **recorded sold out/more on way**. **Not an automatic extra** on top of Beyond Scot; choose this only if you want 2–3 Scots FTO/camo physical bodies. [Miniatures Market](ariadna-miniatures-market-prices-usd.md) USD21.90 / CAD30.63 entry has **unknown stock and unconfirmed contents** |
+| **Aftermath Characters Pack**, Denma and 4 other faction characters | **$68.95 V replacement** | [401 Games, Toronto/Vaughan](https://store.401games.ca/products/infinity-aftermath-characters-pack), historical 1-online catalog. Buy **instead of the unverified USD9 Denma**, never add $68.95 and $12.59 as if two Denmas are required |
+
+**Proxy/skip:** Foot 112 (S2 LI) from TAK Kazak Doktor is preferable to purchasing a whole Support Pack; **motorized 112 is S4 and not interchangeable**. Extra Scots Guard, Galwegians and Wulvers only for a tested Fireteam; the existing 2 S6 TAK Dog-Warriors plus 1 Cameronian can represent up to **3 S6 Cameronians**—do not buy another McMurrough to reach this. **No REM** buys: the 2 shared Traktor/Kuryer chassis exist. No additional Mormaers/Greys, Uxía, SAS beyond optional second, or limited Caledonia character versions. The Caledonia sectorial is flagged *discontinued* in pinned Army metadata but remains legal in the N5.3 reference; do not treat new reissue packaging as new miniature sculpts.
+
+**Availability risk:** The Beyond Ariadna three-pack price comes from an unverified snapshot. The Canadian [Ariadna 10-mini Action Pack](https://abyssgamestore.ca/products/infinity-ariadna-action-pack-281133) in Montréal has been listed at **CAD109.99**, often sold out; it includes Wallace+one Scot but duplicates many other army identities in your existing collection. A $25.59 split is preferable **if actually purchasable**. Direct catalogue prices for Denma/Scots are not guarantees of stock.
+
+**Basis and caveat:** Source prices are dated October 30, 2026. **U** = seller prices in the [Ariadna Miniatures Market USD archive](ariadna-miniatures-market-prices-usd.md) or [Ultimate Toy Zone USD archive](ultimate-toy-zone-infinity-prices-usd.md), *unverified for live stock, checkout/dispatch or actual landed price*. CAD conversions use **USD 1 = CAD 1.3985** (2026-10-29), with each product rounded independently. **V** = Canadian quoted/catalogue price (not guaranteed available at checkout). Totals exclude taxes, shipping, customs/duties, brokerage and payment-card FX spread. Any models listed as purchases are **not** owned until actually purchased. [Ariadna deduplicated cart](ariadna-consolidated-buy-carts.md) combines these with no duplicate boxes.
+
 ## Bottom line / buy order
 
 **Your collection is already strong enough for effective Caledonia lists.** You own Uxía, one SAS, one Cameronian plus two compatible S6 TAK Dog-Warriors, one McMurrough, one Cateran, two Mormaers, three Greys, one Wulver, three Volunteers, two Galwegians, Isobel, Cadin, Armand, and shared specialist/REM support. Do not buy to fill AVA. The inventory identifies **four missing dedicated roster unit types: William Wallace, Denma Connolly, Scots Guards, and a foot 112**.
