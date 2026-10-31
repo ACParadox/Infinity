@@ -84,3 +84,20 @@ For **Neoterran Capitaline Army**, exclude **Blade-Ops and Blockers** from every
 The considered-acquired **one Bolt Paramedic** covers the **Neoterra Bolts unit identity** in a one-of-each unique-unit tally, but **does not fulfill the desired 2–4 physical Bolt bodies** for flexible Fireteams. Include **1–3 additional Bolts** as a distinct, high-priority *quantity requirement* in NCA buy lists. Do not silently mark all Bolt sculpts acquired or remove Bolts from the NCA purchase list simply because one Bolt profile is covered.
 
 Remaining usable uncovered NCA unit identities after excluding the three no-buy units and treating the earlier covered Kestrel units/proxies as met: **Auxilia, Hexas, Aquila Guard, Clausewitz Uhlan, CSU, Shona Carano, Hannibal, Captain Uma Sørensen, Deva Functionaries** — nine unit types, plus 1–3 additional Bolt bodies. Proxy candidates are described in `notes/factions/nca-buy-list.md`; the difference between needed unit type and additional bodies must be preserved.
+
+## Further scenario additions — 2026-10-31
+
+The user additionally directs that the following **are considered bought for further acquisition planning**, not yet independently verified as physically received:
+
+| Product | Assumed figures | Historic saved catalogue price | Calculated CAD |
+|---|---|---:|---:|
+| Arjuna Unit box (2 Arjuna + 2 KiranBots) | 4 | USD $21.60 (ALEPH MM price file) | $30.21 |
+| K2 Auxiliars box (2 figures) | 2 | USD $17.60 (ALEPH MM price file) | $24.61 |
+| Monstruckers (Boarding Shotgun) | 1 | USD $8.70 (Mercenary MM price file) | $12.17 |
+| **Additional planning basket** | **7 figures** | | **CAD $66.99** |
+
+The older Arjuna product's four-figure contents are confirmed by independent retail listings (2 Arjuna figures and 2 KiranBots); the saved MM price-file snippet did not independently itemize them. Arjuna AVA varies by roster, including Steel Phalanx AVA1 and OSS/Vanilla ALEPH AVA2. The purchases represent one Arjuna unit identity and one K2 Auxiliars identity each in unique-unit counts; extra figures are quantity, not extra distinct types. Monstrucker was already proxy-covered in completed Shindenbutai, so its new purchase does not create a new unit-type gap or change the zero status.
+
+**OSS/new ALEPH robotics proxy coverage:** Treat suitable existing **Dakini-like S2 REM figures** as acceptable proxy representations of these same-silhouette unit identities, wherever legally selectable: **Dikpala Tacbots (ID1898), Dawon Tacbots (ID1770), Riksha Tacbots (ID1769), Kinnara Scoutbots (ID1901), Yaksha Tacbots (ID1906)**. This fulfills the *one representative per distinct troop identity* goal, but only if enough distinct correct-size figures are available for simultaneous models; maintain clear declarations. It does **not** include distinctly larger **Sharvara HoundBots S3, Rudras GunBots S4, Tarkshya Interception Wing S7** or human-like **Artalis** by default.
+
+**Pricing use:** The sectorial buy-list core amounts are scoped *starter baskets*, not prices for every outstanding unit identity. New approved purchases and previous cross-sectorial selections are often already embedded in older basket quotations. Deduct relevant components or relabel budgets as historical comparisons; never add all standalone sectorial core totals as if they were a deduplicated checkout cart. The separate PanO active shopping plan still contains legacy Blade-Ops/Blockers as incidental figures from Reinforcements Alpha, but these units remain expressly **no-buy for their own sake** under the subsequent NCA clarification.
