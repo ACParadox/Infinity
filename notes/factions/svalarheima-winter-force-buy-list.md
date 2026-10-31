@@ -6,6 +6,26 @@
 
 **Existing physical inventory:** [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [miscellaneous PanO + OSS models](../../inventory/other-units.md), and, where proxies are useful, [TAK](../../inventory/tak.md)/[Caledonia](../../inventory/caledonia.md). Also cross-check [vanilla PanO buy list](vanilla-pano-buy-list.md) and [NCA buy list](nca-buy-list.md): **their proposed purchases are not owned**, and a model bought once for one army can be used in every other legal sectorial without buying another copy.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current buying policy (2026-10-30):** one distinctive figure per worthwhile missing type, but practical **3 Karhu + 3 Vargar** for Fireteam composition; regular humanoid-style bots and baggage bots are existing/proxy-only. Existing sources: [Miniatures Market PanO USD file](panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD file](ultimate-toy-zone-infinity-prices-usd.md), and Canadian store listings below. USD1 = CAD1.3985 (2026-10-29). **U** means dated user-captured/historical USD quote, not confirmed live, while **V** means Canadian catalogue price (possibly out of stock). Tax, shipping, card FX and brokerage extra.
+
+| Purchase | CAD | Where and quantity reason |
+|---|---:|---|
+| **Core:** Karhu 3-pack, USD17.40 U | **$24.33** | Miniatures Market; engineer, Feuerbach, MULTI variants, SWF AVA5 but 3 suffice initially |
+| **Core:** Nisse HMG, USD7.90 U | **$11.05** | Miniatures Market; one MSV2/Nisse-team anchor. **Do not buy separately if the shared Essentials Booster Alpha provides a Nisse MSR** |
+| **Core:** Nøkken Spitfire, USD5.80 U | **$8.11** | Miniatures Market; one forward specialist |
+| **Core:** Vargar 3-pack + separate WildParrot | **$34.95** | Meeplemart Toronto ON, V catalogue, stock unconfirmed; 3 Vargar, **not 4** |
+| **Core:** Reinforcements PanO Beta, USD13.20 U | **$18.46** | Ultimate Toy Zone; ORC HMG + Richard Quinn + Shona, all SWF-legal |
+| Optional current 2025 Jotum S7 TAG | +$69.99 | Black Knight Games, Hamilton ON (V, **sold out** on checked page); price comparison only |
+| Optional Gunnar FTO, USD7.90 U | +$11.05 | Miniatures Market; only FTO profile is SWF Wildcard |
+| Optional loose Captain Uma FTO, USD6.40 U | +$8.95 | Miniatures Market; only FTO profiles join links |
+
+**Core total CAD $96.90. All priced options add +$89.99, yielding CAD $186.89 (including a currently sold-out Jotum; not an available cart).** Existing Fusiliers are **0 dedicated** but **six Kestrel Fennec S2 LI** can proxy 3–5 because Fennecs are not themselves SWF-legal. Use distinct Kestrel Black A.I.R./Firefly S2 MI for an Nisse/Vargar before purchasing, but do not assign one body to several concurrent troops.
+
+**Proxy/skip:** Kyle Hawkins -> owned Kestrel S2 HI if MO Headquarters Pack not bought; Oktavia, Valkyrie, Liang Kai, Hannibal, Captain Uma, Gunnar and Kunai Ninja -> matching non-SWF S2 figures used occasionally (Kunai can use Naga/Trinitarian S2 SK). No dedicated **Bøyg, Blade-Ops, Agnes Ferreira, or Pilot-X + RacerBots** buy. Bøyg is **S5 armoured HI**; existing dog-shaped S5 figures are unsuitable, even with the right base. The Jotum is **S7 human mecha**; owned S6 TAGs fail silhouette and Caskuda is an alien Exrah TAG, not a normal Jotum proxy. Treat unfilled rare niches as declared casual tests only, not claims of normal tournament coverage.
+
+**Already owned:** 4 Hospitallers, Knight of Justice, Infirmarer, Locust, Beasthunter, Trauma-Doc, Machinist, Warcor, Tech-Bee, 1 Auxbot and shared REM pools (4 Dronbots total, 2 Armbots total, 2 Mulebots, 2 Palbots). Do not rebuy WinterFor Action Pack for duplicate models; old Kaldstrøm repacks/LE variants are not new unit identities. See [proxy policy](../miniature-proxy-guidelines.md) and [PanO cross-sectorial consolidated cart](panoceania-consolidated-buy-carts.md).
 ## Prices, currencies and store location
 
 **FX basis:** **USD $1 = CAD $1.3985**, the Bank of Canada reference rate for **Thursday 2026-10-29**, latest published during this October 30 check ([dated Bank of Canada archive](https://fincast.info/pairs/usd-cad/archive)). Conversion excludes sales taxes, shipping, duties, brokerage and card FX spread.
