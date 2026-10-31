@@ -2,6 +2,23 @@
 
 **Checked 2026-10-30.** This is a **buying plan, not an ownership update**. The authoritative 29-entry [SAA Army roster / profiles / canonical Fireteams](../../sectorials/panoceania/shock-army-of-acontecimento.md) is N5.3, Army `7.26246.158` (source updated 2026-09-03, verified 2026-10-15). Tactical judgments are based on [Acontecimento research](acontecimento.md), [PanO transcript-backed picks / avoid audit](panoceania-must-have-go-to-avoid-transcript-evidence.md), and [whole-unit purchase avoid audit](model-purchase-avoid-summary-2026.md). All proxies must meet the [repo-wide proxy policy](../miniature-proxy-guidelines.md). Cross-check [vanilla PanO](vanilla-pano-buy-list.md), [NCA](nca-buy-list.md) and [WinterFor](svalarheima-winter-force-buy-list.md) **buy lists for shared future purchases**; an item appearing in another list is NOT owned until purchased.
 
+## Collection completion — core and optional purchases (CAD)
+
+**Current buying policy (2026-10-30):** obtain one distinctive sculpt for useful SAA gaps; **proxy 4–5 Regulars and 2–3 Bagh-Mari** rather than paying to reconstruct an out-of-production army, and skip unwanted named models. Current N5.3 Acontecimento reference is still the legality source despite its discontinued metadata. USD1 = CAD1.3985 (2026-10-29). [Miniatures Market saved PanO USD list](panoceania-miniatures-market-prices-usd.md) is **U / historical user snapshot**, not guaranteed in stock; Canadian **V** price is a retailer listing, not stock warranty. Tax/shipping and conversion costs excluded.
+
+| Purchase | Est. CAD | Source / value |
+|---|---:|---|
+| **Core:** Akali Spitfire, 1, USD9.20 U | **$12.87** | Miniatures Market; dedicated airborne sculpt, or use owned Banshee S2 MI if not buying |
+| **Core:** Guarda de Assalto, 1 (+ correct S1 Auxbot), USD12.90 U | **$18.04** | Miniatures Market old kit; **verify Auxbot included**. One generic Auxbot already owned, not simultaneously reusable |
+| **Core:** Lt. Stephen Rao, 1, older USD12.90 lead U | **$18.04** | Unassigned older seller quote; NCO/specialist Bagh-Mari commander |
+| Optional Dragão S7 metal reissue | +$49.95 | **401 Games, Toronto/Vaughan ON**, V retailer price; Meeplemart $35.95 catalogue stock unconfirmed |
+| Optional Kirpal Singh, USD9.20 U | +$12.87 | Miniatures Market; specific CoC airborne plan, otherwise proxy Banshee |
+
+**Core total: CAD $48.95. All priced options: +$62.82; CAD $111.77 combined.** These are not automatic full-AVA purchases. Buying both SAA reissues is not efficient: **Alpha** includes already-owned Scylla/Charybdis and **Beta** buys five Bagh-Mari the user wants to proxy; the earlier models were reissued, not necessarily resculpted.
+
+**Proxy/quantity:** 4–5 Regulars = owned Kestrel Fennecs S2 LI (not SAA-legal as Fennecs); 2–3 Bagh-Mari = owned Kestrel Black A.I.R./Fireflies S2 MI (not selectable in SAA), one suitably armed figure reserved for Rao if needed. ORC = distinct S2 HI Griffin/Hetkari not legal in SAA; Dart = appropriate external S2 SK (owned Naga is SAA-legal and therefore ambiguous as a donor). Kirpal = spare Kestrel Banshee only when not also used for Akali. Skip dedicated Agnes Ferreira, additional ordinary REMs/baggage models, and second TAGs. Existing **Tikbalang, Scylla with Charybdis, foot and bike Montesa, Naga, Armand, Beasthunter, support, bots** are already covered.
+
+**Physical limitation:** Dragão requires S7 PanO mecha. Owned S6 Tikbalang/Squalos/Seraph fail silhouette, and alien S7 Caskuda is not a sound human PanO representation. Clearly declared silhouette markers are exceptional casual test placeholders, not promised tournament proxies. See [proxy standards](../miniature-proxy-guidelines.md) and [shared PanO purchase cart](panoceania-consolidated-buy-carts.md).
 ## Key finding: official legacy-model repacks are available again
 
 **Do not buy blind based on OOP-era scarcity.** Acontecimento Combat Force **Repack Alpha** (10 metal figures, `281253-1242`), **Repack Beta** (8 metal figures, `281254-1243`) and the **Dragão metal reissue** (`281255-1246`) have documented Canadian store listings as of this check. These return *previously discontinued figures* in current packaging; **a new box SKU is not proof of newer sculpts**. No listed repack is advertised as a limited-edition sculpt.
