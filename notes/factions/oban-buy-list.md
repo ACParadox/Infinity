@@ -142,7 +142,7 @@ Matches [the current pinned Ōban roster](../../sectorials/jsa/oban.md), excludi
 
 | Current legal standard unit | AVA | Class | Exact models owned | Buy, skip or proxy |
 |---|---:|---|---|---|
-| Tokusetsu Butai | 2 | LI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
+| Tokusetsu Butai | 2 | LI | 0 named owned | **Full proxy-only, $0:** two distinct owned non-Ōban S2 LI figures for Doctor/Engineer (PanO Trauma-Doc + Machinist), supported by two separate S1 Palbot/Yudbot proxies as Yáozăo. **Do not buy the Support Pack.** |
 | Aragoto Senkenbutai | 4 | LI | 0 named owned | **Buy the 2-bike Spitfire + Hacker box** (CAD50 Tistaminis) as core; third/fourth only with a proven legal list, proxy in correct S4 if needed. |
 | Yáozăo | 3 | REM | 0 named owned | 0 dedicated; 2 ALEPH Yudbots+2 PanO Palbots are potential S1 servants; separate bodies. |
 | Daiyōkai Dengekitai | 2 | HI | 0 named owned | No dedicated named sculpt; use correct S/class and distinct donor not selectable in this sectorial, proxy-first for niche roles. |
