@@ -2,6 +2,32 @@
 
 **Prepared 2026-10-30 · committed on `main` · not an inventory change.** Authority: [current Ōban N5.3 roster](../../sectorials/jsa/oban.md), Army `7.26246.159` verified 2026-10-16; [source-backed JSA purchase/avoid evidence](jsa-must-have-go-to-avoid-source-audit-2026.md); [JSA proxy rules](../miniature-proxy-guidelines.md). Owned figures: [Shindenbutai](../../inventory/shindenbutai.md), [Kestrel](../../inventory/kestrel.md), [Military Orders](../../inventory/military-orders.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [TAK](../../inventory/tak.md), [Caledonia](../../inventory/caledonia.md), [misc](../../inventory/other-units.md).
 
+## Collection completion — core purchases, optional models, CAD totals
+
+Current [Ōban N5.3 roster](../../sectorials/jsa/oban.md): **35 unit entries**. Already owned: **Yuriko, Warcor, two Yáoxiè chassis total**, and **Yojimbo bike + foot** (**one character identity; cannot field both simultaneously**). No Ōban Keisotsu, Ryūken, Kempeitai, Tankō, Domaru, Shikami, Karakuri or Oniwaban yet. Existing Shinden Senku, Tanuki and Hatamoto **are not Ōban-legal named entries**. Tankō are **also** Vanilla JSA legal (AVA2), not Ōban-only; previous notes corrected.
+
+| Buy once — Ōban core | CAD | Actual contents, source and role |
+|---|---:|---|
+| [Essentials Start Here JSA vs PanO](https://www.ultimatetoyzone.com/product/infinity-essentials-start-here-jsa-vs-panoceania/) | **$31.05** | **UTZ archived USD22.20**: **2 Keisotsu + Shikami** for Ōban; 2 Fusiliers and ORC are PanO, not JSA. Keisotsu order core plus real mobile Eclipse scorer |
+| [Ōban Expansion Alpha](https://www.ultimatetoyzone.com/product/infinity-jsa-oban-expansion-pack-alpha/) | **$27.69** | **UTZ USD19.80**: **Ryūken HRL + Kempeitai CoC + Kuroshi Rider**, all three **Ōban legal**. [Tistaminis CAD45 low-stock](https://tistaminis.com/collections/infinity-jsa) and [401 CAD52.95 sold out](https://store.401games.ca/products/infinity-jsa-oban-expansion-pack-alpha) comparisons |
+| [JSA Booster Alpha](https://miniatures.market/product/jsa-booster-pack-alpha/) | **$23.77** | **Miniatures Market USD17.00**: **2 Domaru + Neko Oyama**, good paired samurai/Fireteam bodies; [401 CAD38.95 with 5 online](https://store.401games.ca/products/infinity-jsa-essentials-booster-pack-alpha) if historical MM URL is gone |
+| [JSA Support Pack](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-support-pack-boxed/) | **$15.52** | **UTZ USD11.10**: Tokusetsu **Doctor + Engineer** + 2 Yáozăo servant bots. Two regular troops and two peripherals, not four Orders |
+| [Tankō Zensenbutai (three)](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-tanko-zensenbutai/) | **$25.17** | **UTZ USD18.00**: 3 Tankō Flamenspeer/ML/Blitzen, **Ōban AVA3** and **Vanilla AVA2**, first Disco/Blitzen role prioritized. The boxed weapon sculpts need not be specific Disco pose |
+| [Yuan Yuan (DA CCW)](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) | **$8.39** | **UTZ USD6.00**, one affordable AD warband; **Ōban only among the three JSA rosters**. Second is unnecessary absent a double-Yuan plan |
+| **ŌBAN CORE** | **$131.59 CAD** | Six distinct purchases; only one copy each of the shared Vanilla/Ōban sets |
+
+| Optional | Extra CAD | Use condition |
+|---|---:|---|
+| [Older O-Yoroi TAG](https://www.ultimatetoyzone.com/product/infinity-na2-jsa-o-yoroi-kidobutai/) | **+$21.82** | UTZ USD15.60; newer Essentials USD19.20/CAD26.85 alternative, not additive. Distinct TAG and possible Kobaruto companion, one only |
+| Shinobu Kitsune classic | **+$9.51** | MM USD6.80, optional named Hidden Deployment assassin; proxy with OSS Naga S2 SK if rarely used |
+| Karakuri Special Project | **+$23.08** | MM USD16.50, durable FO scorer, **box quantity unknown**; avoid pretending this buys three Karakuri |
+| JSA Reinforcements Alpha | **+$42.65** | UTZ USD30.50: **2 Genbutai + 2 Sōhei + Kyoshō + Daiyōkai**; **4/6 Ōban standard legal** (2 Genbutai, Kyoshō, Daiyōkai). **Already included in combined Vanilla core**, so don't buy it twice |
+| **ALL OPTIONAL LINES** | **+$97.06** | **Ōban core + all options = $228.65 CAD** |
+
+**Proxy and skip:** Normal **Robio/Atom/Garon/Uran Aibōts** from four standard correct-S **PanO Dronbots**, Pangguling baggage from **Mulebot**, Yáozăo from **Palbot/Yudbot**. Two existing Yáoxiè Rui Shi/Lù Duān **shared chassis** cover those named robots without rebuy. Extra Keisotsu from free Kestrel Fennecs S2 LI; unowned **Oniwaban** from distinct OSS Naga S2 SK if not frequently played, and a second Shikami/Karakuri from an appropriately sized donor. For extra Aragoto, a separate compatible **Penthesilea S4 motorcycle** can work; *not* already Ōban-legal Yojimbo's bike while Yojimbo is fielded. Skip duplicate Neko, extra Yojimbo/Warcor/Yáoxiè, full AVA samurai/bike or heavy units, Saito limited edition, speculative extra assassin, LE collector poses and OOP starter premium. Target first **Tankō Disco, Ryūken HRL, Kempeitai CoC, Domaru** before expensive TAG options. No false normal S2 proxy for a differently sized TAG.
+
+**Price status:** USD figures are **archived user-saved Miniatures Market and Ultimate Toy Zone listings**, converted at **USD1=CAD1.3985** (2026-10-29), not confirmed currently orderable offers. Some old MM URLs returned 404. Canadian 401 Games (Toronto/Vaughan) and Tistaminis (Hamilton) prices are contextual seller quotes, not guaranteed stock. Tax, shipping, duties, brokerage, card FX not included. No proposed item is currently marked owned. [Deduplicated all-JSA cart](jsa-consolidated-buy-carts.md).
+
 ## Existing collection and buying strategy
 
 **Already fieldable as named troops:** 1 Yuriko Oda; 1 Warcor; **1 mounted and 1 foot Yojimbo sculpts** (one mutually exclusive character identity); **2 total Yáoxiè chassis** across Rui Shi/Lù Duān. These are existing, not new orders. **Not owned:** Keisotsu, Domaru, Tankō, Kempeitai, Ryūken, Shikami, Karakuri, Oniwaban, Shinobu, Daiyōkai, Kuroshi and dedicated support. The **modern seven-model JSA Essentials Army Pack** gives 7/7 legal Ōban miniatures. Your Shinden Senku, Hatamoto, Tanuki, Jizamurai, Shurayuki and Kurayami are **not Ōban named entries**; some are acceptable proxy bodies *only* with the correct size/type and no collision. Near-default first additions: Tankō Disco, a couple of Keisotsu/Domaru, Ryūken HRL and a suitable scorer.
