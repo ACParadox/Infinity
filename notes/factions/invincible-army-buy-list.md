@@ -2,6 +2,34 @@
 
 **Checked:** 2026-10-30. **This is a shopping plan, NOT an update of owned miniature quantities.** Canonical rules/AVA/Fireteam source: [current Invincible Army 34-entry roster](../../sectorials/yu-jing/invincible-army.md), pinned N5.3 Army `7.26246.158` (Sept. 2026, repository verified Oct. 15). Tactical priority authority: [Yu Jing must-have/go-to/avoid transcript audit](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), especially Swiss Miss, Tactical Awareness, CanCon and Loss of Lieutenant E169. Use the [repo-wide proxy rules](../miniature-proxy-guidelines.md) for all proposed donors. Reconcile other sectorial buying plans with [Vanilla Yu Jing](vanilla-yu-jing-buy-list.md) and [Imperial Service](imperial-service-buy-list.md), where **recommended purchases are not owned until made**. All current IA standard roster entries are audited below; optional Spec-Ops / Team-Ops excluded.
 
+## Collection completion — concrete core and optional cost (CAD)
+
+**Objective:** Own real sculpts for the main Invincible Army armoured/order engine and the meaningful multi-model Fireteam cores, not every profile, named hero or AVA ceiling. See the **34-unit buying audit below** for every remaining unit's **owned/proxy/skip** decision. This standalone cost starts from recorded ownership: no Yu Jing HI already owned; **2 exact Yáoxiè** and **1 Warcor** owned; other human PanO models are only proxies.
+
+| Buy once (core) | CAD | Price evidence and IA coverage |
+|---|---:|---|
+| **2025 Yu Jing Essentials Action Pack** | **$99.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-yu-jing-essentials-action-pack), Toronto/Vaughan ON, SKU 281346-1127. Ten IA-legal soldiers: 3 Zúyǒng, Dāoyīng, Liú Xīng, Hǎidào, 2 Zhanshi, Húláng, Zhēnchá. **Do not** confuse with older IA Action containing Krit and Tai Sheng instead of Zhanshi |
+| **Shàng Jí 3-soldier box + TinBot** | **$27.69** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-shang-ji-invincibles/) USD19.80; at least **2 Shàng Jí** are worth having for linked TacAware, the third gives another weapon sculpt, TinBot is not an order |
+| **Mówáng S5 HI** | **$17.62** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-mowang-troops-multi-rifle-red-fury-blister/) USD12.60; 1 armoured NCO model, cannot proxy with S2 |
+| **Yān Huǒ S5 HI (HMC)** | **$13.43** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-yan-huo-invincibles-hmc-blister/) USD9.60; 1 distinct fire-support S5 sculpt, no need for a second weapon variant |
+| **White Banner Expansion Beta (2 Gūdǎn + Yín-Shé)** | **$39.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-beta), Toronto/Vaughan ON; **2 useful IA-legal Gūdǎn**; Yín-Shé incidental and **not standard IA legal** |
+| **Krit Kokram single** | **$12.73** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD9.10; one differentiated Engineer/NCO HI, rather than duplicating three starter Zúyǒng |
+| **CORE — Invincible Army** | **$211.37** | Six box/single purchases; a second independent IA army need not be constructed |
+
+| Optional, not included | Add CAD | Reason |
+|---|---:|---|
+| Tai Sheng | +$12.87 | **U:** MM USD9.20; excellent character only with a specific NCO/FO/CoC list, otherwise S2 HI proxy |
+| Gūijiă S7 boxed TAG | +$45.31 | **U:** MM USD32.40 packaged; avoid the USD19.40 **no-base/unboxed** alternative until all parts and base are verified |
+| Hac Tao Hacker | +$11.05 | **U:** MM USD7.90; specialty Hidden Deployment HI; use another correctly sized/armoured proxy for rare games |
+| Invincible Army Expansion (Hǎidào, Dāoyīng, Zhēnchá) | +$23.08 | **U:** UTZ USD16.50; **alternate sculpts of unit identities already in Essentials**, not three missing units |
+| **All four extras added** | **+$92.31** | **Core with all options = $303.68 CAD** |
+
+**Proxy or skip:** Zhanshi additional LI via owned PanO Fennecs; basic doctor and Mech-Engineer from suitable LI; Yáozăo S1 from owned servants; four normal Yáokòng S3 types from PanO Dronbots and S4 baggage Pangguling from Mulebots; reuse the **two actual Shindenbutai Yáoxiè** and Warcor. Distinctive but rare S2 characters such as Léi Gōng, Qiang Gāo, Johnny Kao and Sāchā can be proxied, with **no limited-edition premium**. Bìxié and Gūijiă are optional after testing. **No suitable owned S5 Mówáng/Yān Huǒ or S7 Gūijiă proxy**; buy size-correct sculpts for regular play.
+
+**Shared and edition warning:** The 2025 Essentials set has **2 Zhanshi**, whereas old IA Action Packs have **Krit + Tai Sheng**; do not buy a second character or three duplicate sculpts on the assumption the two versions are identical. Gūdǎn **2** is a practical simultaneous count (not a whole-AVA buy); the Beta set's Yín-Shé is physically useful if building White Banner/Vanilla. If the 401 Essentials quote returns to its prior **CAD84.95** observed reading, the core would be $196.37, but **budget using the more recent displayed CAD99.95**.
+
+**Pricing and scope:** USD 1 = CAD 1.3985 (2026-10-29 reference), with each converted package rounded to cents. **U** = saved Miniatures Market / Ultimate Toy Zone USD snapshot, **not confirmed live stock, currency at checkout or shipment origin**. **V** = Canadian retailer catalogue/web listing, not a guaranteed cart price. Estimates exclude GST/QST, shipping, card FX fees, duties and brokerage. Use [MM Yu Jing prices](yu-jing-miniatures-market-prices-usd.md), [UTZ prices](ultimate-toy-zone-infinity-prices-usd.md) and the [combined Yu Jing cart](yu-jing-consolidated-buy-carts.md); more detailed source/proxy references remain below. No suggested purchase has been added to owned inventory.
+
 ## Primary Yu Jing seller snapshots — corrected USD prices and multi-army sharing (2026-10-30)
 
 This table reconciles earlier buyer leads against [the full 104-entry Miniatures Market Yu Jing price file](yu-jing-miniatures-market-prices-usd.md), plus [Ultimate Toy Zone saved USD sale prices](ultimate-toy-zone-infinity-prices-usd.md). Exact linked product URLs are used only where saved. **1 USD = CAD 1.3985** on 2026-10-29; exclude tax, shipping, brokerage/card FX. All USD rows are **U (not current stock or checkout quotes)**. For MM, warehouse origin is unknown/overseas; for UTZ the online dispatch country is unknown. Preserve the older user-lead table for provenance, but **use the retailer-specific prices below when comparing the same product**. IA roster [N5.3](../../sectorials/yu-jing/invincible-army.md) remains authoritative over seller faction tags.
