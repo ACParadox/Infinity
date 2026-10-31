@@ -1,5 +1,8 @@
 # Vanilla Ariadna — N5.3 miniature buy list, inventory-aware
 
+**Latest user shopping selection (2026-10-31):** [Active plan](pano-ariadna-active-purchase-plan.md) selects **Mirage-5, Van Zant, Chernobog, Beyond Crimson Stone Ariadna trio (Wallace, Scots Guard, Kosmosoldat), and Chasseur**. **Current planned Ariadna budget CAD $99.42**, before tax/shipping at historical prices. **Unknown Ranger is explicitly excluded** (older optional product below remains a reference quote only). The regular Crimson Stone seven-model half does not contain Wallace; it is an **additional possible Kosmoflot purchase after** this plan. No user-selected purchases are yet marked physically owned.
+
+
 **Prepared October 30, 2026 · main branch · purchase plan, not owned inventory.** [Pinned N5.3 Vanilla Ariadna current standard roster and Fireteams](../../sectorials/ariadna/vanilla-ariadna.md), Army `7.26246.158` (verified 2026-10-15), controls AVA and legality. Tactical purchase evidence: [Ariadna must-have/go-to/avoid audit](ariadna-must-have-go-to-avoid-source-audit-2026.md). Ownership: [TAK inventory](../../inventory/tak.md), [Caledonia inventory](../../inventory/caledonia.md), [Kestrel](../../inventory/kestrel.md), [Steel Phalanx](../../inventory/steel-phalanx.md), [other figures](../../inventory/other-units.md). Proposed buys in other lists **are not owned**.
 
 ## Collection completion — priced core and optional models (CAD)
