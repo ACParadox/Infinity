@@ -4,33 +4,33 @@
 
 ## Collection completion — core and optional purchases (CAD)
 
-**Current decision, 2026-10-30:** already own all but **four** of the 35 distinct Military Orders unit identities (36 N5.3 Army headings include Joan v1/v2). The three useful missing named figures are inexpensive; Dart is best proxied. There is no justification to buy another starter, big Hospitaller box, Joan or standard robots. [Miniatures Market PanO USD snapshot](panoceania-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD snapshot](ultimate-toy-zone-infinity-prices-usd.md) provide historical prices; USD1 = CAD1.3985 at 2026-10-29. **Archived prices are not confirmed in stock**, and shipping, tax, currency fees are extra.
+**Current decision, 2026-10-30:** already own all but **four** of the 35 distinct Military Orders unit identities (36 N5.3 Army headings include Joan v1/v2). **Proxy all four missing named units and any desired additional bodies using your owned, correctly sized non-MO miniatures; no purchases are planned.** There is no justification to buy another starter, big Hospitaller box, Joan or standard robots. [Miniatures Market PanO USD snapshot](panoceania-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD snapshot](ultimate-toy-zone-infinity-prices-usd.md) provide historical prices; USD1 = CAD1.3985 at 2026-10-29. **Archived prices are not confirmed in stock**, and shipping, tax, currency fees are extra.
 
-| Purchase | Est. CAD | Source / contents |
+| Unplanned dedicated-sculpt alternative | Historical CAD | Reference contents |
 |---|---:|---|
-| **Core:** PanO Headquarters Pack, USD18.00 | **$25.17** | Ultimate Toy Zone, shipment origin unknown; **Kyle Hawkins + Curator + Grand Master HVT**. Grand Master is not a playable MO army unit |
-| **Core:** Indigo Brother Konstantinos, USD7.00 | **$9.79** | Miniatures Market; buy 1 loose rather than a mixed-faction Dire Foes box |
+| **Do not buy:** PanO Headquarters Pack, USD18.00 | **$25.17** | Ultimate Toy Zone, shipment origin unknown; **Kyle Hawkins + Curator + Grand Master HVT**. Grand Master is not a playable MO army unit |
+| **Do not buy:** Indigo Brother Konstantinos, USD7.00 | **$9.79** | Miniatures Market; buy 1 loose rather than a mixed-faction Dire Foes box |
 
-**Core total: CAD $34.96.** There is no required priced option. Optional second/third Teutonic or another Crusader/Order Sergeant/Seraph only if a specific army list needs that number; the USD24.90 older Teutonic box has **unverified model quantity**, so it is not deceptively quoted as a price per knight. Consider non-MO Kestrel S2 HI as a temporary second Teutonic.
+**Required core: CAD $0.00. Planned options: CAD $0.00. Total planned purchases: CAD $0.00.** The previous $34.96 core ($25.17 Headquarters Pack + $9.79 Konstantinos) is **historical reference only**. Proxy second/third Teutonic or another Crusader/Order Sergeant/Seraph with distinct suitable owned models only if a list requires them; the USD24.90 older Teutonic box has unverified model quantity and is not planned.
 
-**Proxy instead of buying:** Dart (owned **Naga S2 SK**, not the HI Asura); the **Sharvara K9 peripheral is not owned**, so avoid claiming the peripheral option is covered without a separate matching canine. If using the Curator, Hawkins or Konstantinos before buying, use respectively owned Trisha N33 S2 LI, non-MO Kestrel Griffin/Hetkari S2 HI, and non-MO Trisha/Fennec S2 LI. Different concurrent figures need distinct donors.
+**Proxy all four missing identities instead of buying:** Dart (owned **Naga S2 SK**, not the HI Asura); the **Sharvara K9 peripheral is not owned**, so avoid claiming the peripheral option is covered without a separate matching canine. If using the Curator, Hawkins or Konstantinos before buying, use respectively owned Trisha N33 S2 LI, non-MO Kestrel Griffin/Hetkari S2 HI, and non-MO Trisha/Fennec S2 LI. Different concurrent figures need distinct donors.
 
 **Already owned:** 3 Crosiers, 3 Order Sergeants, 3 Trinitarians, 4 Hospitallers, 2 Santiagos, 2 Black Friars, 1 Infirmarer, 1 Teutonic, 1 Holy Sepulchre, 1 Seraph, 1 Knight of Justice, 1 Joan, 1 Mendoza, 1 De Fersen, foot Montesa 1, bike Montesa 1, plus shared Tikbalang, support, Crabbot and one Auxbot. Four shared Dronbot chassis, two shared Armbot chassis, two Mulebots and two Palbots are **not** a purchase target; proxy additional ordinary robots if needed, respecting base/height. A second Joan is unnecessary even though two versions appear in the roster. See [proxy policy](../miniature-proxy-guidelines.md) and [consolidated PanO cart](panoceania-consolidated-buy-carts.md).
-## Most useful purchase decision
+## Proxy-only completion decision
 
 You already report **31 MO-specific miniatures** (30 trooper models and one Auxbot) plus **15 physical PanO models shared from Kestrel**, for **46 physical MO-relevant bodies** counting Crabbot once. **Only four standard unit identities have no dedicated sculpt:** Curator, Indigo Brother Konstantinos, Kyle Hawkins, Dart. All four have workable options within your collection (Dart's standalone model is still zero and Sharvara K9 is zero). Additional Knights, Seraphs or starter/repack boxes are **optional**, not needed for a playable MO army.
 
 | Priority | Model / practical quantity | Owned | Why and proxy / source |
 |---|---|---:|---|
-| **P1 / optional dedicated** | **Military Order Curator** x1 | **0** | Useful **S2 LI Engineer** in MO/Order Sergeant Fireteams. Prefer owned OSS **Trisha N33 S2 LI Engineer** proxy; MM single USD $7.50/CAD $10.49, or HQ Pack. |
-| **P1 / optional dedicated** | **Kyle Hawkins** x1 | **0** | S2 HI armoured Wildcard counts-as Hospitaller; owned Kestrel **Hetkari/Griffin S2 HI** makes a plausible donor. MM single USD $7.50/CAD $10.49, or HQ Pack. |
-| **P1 / optional dedicated** | **Indigo Brother Konstantinos** x1 | **0** | S2 LI FTO Wildcard with useful specialists/visor; owned **Trisha N33 or Kestrel Fennec S2 LI**, which are not MO roster entries. MM single USD $7.00/CAD $9.79; alternative mixed **Troubled Theft** contains 1 Konstantinos plus two non-MO figures. |
+| **P1 / proxy only** | **Military Order Curator** x1 | **0** | Useful **S2 LI Engineer** in MO/Order Sergeant Fireteams. Prefer owned OSS **Trisha N33 S2 LI Engineer** proxy; MM single USD $7.50/CAD $10.49, or HQ Pack. |
+| **P1 / proxy only** | **Kyle Hawkins** x1 | **0** | S2 HI armoured Wildcard counts-as Hospitaller; owned Kestrel **Hetkari/Griffin S2 HI** makes a plausible donor. MM single USD $7.50/CAD $10.49, or HQ Pack. |
+| **P1 / proxy only** | **Indigo Brother Konstantinos** x1 | **0** | S2 LI FTO Wildcard with useful specialists/visor; owned **Trisha N33 or Kestrel Fennec S2 LI**, which are not MO roster entries. MM single USD $7.00/CAD $9.79; alternative mixed **Troubled Theft** contains 1 Konstantinos plus two non-MO figures. |
 | **P2 / proxy** | **Dart** x1 | **0** | Owned **OSS Naga (S2 SK)** is the correct light stealth donor; do not substitute Asura HI. **Sharvara K9 = 0** and needs separate appropriate model for the K9 profile. |
 | **P2 conditional** | One additional **Teutonic Knight** (then possibly second) | **1** | Cheap aggressive required-choice option for MO Fireteam archetypes; only buy multiple if repeatedly fielding them, not to chase AVA3. MM Teutonic USD $24.90 box **quantity not specified**. |
 | **P3** | Extra Order Sergeant / Infirmarer / Crusader / bike / Auxbot | Already some | Useful only when a specific concurrent Fireteam, AD, Velox bike or synchronized peripheral needs another correctly sized body. |
 | **Skip** | Action Pack, Hospitaller Action Pack, MO Expansion Alpha, new Joan/Mendoza/De Fersen, other TAGs/REMs | Substantial coverage | Almost entirely duplicate sculpts and currently owned categories; purchase only for variant/collector purposes. |
 
-**Best physical-model buy if you want two absent character models at once:** **PanOceania Headquarters Pack**, SKU **281231-0948**. It includes **1 Kyle Hawkins, 1 Curator and 1 Grand Master HVT**. **The Grand Master is an HVT objective figure, not a standard playable MO Knight Commander or another new roster entry.** Your MM price snapshot shows USD $21.45/CAD $30.00; UTZ shows USD $18/CAD $25.17. Both USD entries are *historical buyer quotations, not live orderable stock*.
+**Historical physical-model alternative (NOT planned under the current proxy-only decision):** **PanOceania Headquarters Pack**, SKU **281231-0948**. It includes **1 Kyle Hawkins, 1 Curator and 1 Grand Master HVT**. **The Grand Master is an HVT objective figure, not a standard playable MO Knight Commander or another new roster entry.** Your MM price snapshot shows USD $21.45/CAD $30.00; UTZ shows USD $18/CAD $25.17. Both USD entries are *historical buyer quotations, not live orderable stock*.
 
 ## FX, price-source and location policy
 
