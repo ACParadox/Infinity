@@ -1,5 +1,8 @@
 # PanOceania — consolidated collection-completion buy carts (N5.3)
 
+**Current selected shopping cart (2026-10-31):** [Active PanO/Ariadna purchase plan](pano-ariadna-active-purchase-plan.md): **PanO CAD $172.34** (Swiss via Essentials Booster Alpha, Cutter, Reinforcements Alpha, Helots and Karhu); Ariadna CAD $99.42; cross-faction CAD $271.76. **User explicitly selected Blade-Ops and Blocker figures included in Reinforcements Alpha**, overriding previous skip preferences. The broad NCA+SAA targeted cart below is a **historical hypothetical**, not the current selected order. Existing owned inventory unchanged.
+
+
 **Prepared 2026-10-30.** Covers Vanilla PanOceania and the six PanO sectorials, based on the [current roster references](../../sectorials/panoceania/), existing [inventory](../../inventory/), and recorded retailer prices. Detailed per-sectorial documents remain authoritative for unit-level reasons, edition warnings and proxies.
 
 **Method:** For Vanilla, NCA, Acontecimento, WinterFor and Varuna, retain the existing buy/proxy plans. **Kestrel and Military Orders are now proxy-only with $0 required and $0 planned optional purchases**; any missing bodies or desired multiples are represented with suitable existing miniatures or omitted from a particular list. Do not buy generic PanO Dronbots, Armbots or Mulebots; use existing models or matching robot proxies. The prices below are **before tax, shipping, currency-card charges and customs/brokerage**.
