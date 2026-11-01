@@ -1065,3 +1065,13 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Sun Tze LT53/0** is whole-army deployment apex (**Strategos2, Counterintelligence, Decoy(2)**, chosen +1Order **or** +1Command Token), but weak *cost efficiency* versus **Táowù Counterintel16/0** plus economical LT. **Pheasant CoC+Strategic Deployment23–28** grants a *legal team* FD(+4″) and command backup, not all Fireteams simultaneously. **Wú Míng Firewall(-6)22/0** protects its Fireteam at cheap points, **Hsien(-6)47** is premium. **Qíshì TAGCom pilot10** only supports printed same-group TAG benefits. **Pangguling8 Baggage/Repeater vs14/.5 EVO** based on Rui Shi and airborne plan. [Global guide](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Practical value:** #238 saw **Zhanying/Wu Ming Pitcher → Deva KHD Trinity removing Jazz**, after which **Adil/bounty hunter** could enter Corregidor's approach; even when that team later died exposed, **Taowu's independent Specialist/CoC identity** preserved a scoring path and ISS won **Hardlock 4–1**. [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Other demonstrated module:** #188 used **multiple Sù-Jiàn + Sun Tze/cheap Orders + Zhanying/Engineer** for forward Battleground pressure. #181's tournament commentary describes Sù-Jiàn flanks and Kuang Shi order economy as powerful, but **extra late kills could trigger Retreat and surrender a zone**. [#188](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#181](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md).
+
+**Application:** Match aggressive **Sù-Jiàn/Wu Ming** with low-profile scoring specialists, cheap Orders and an independent backup if the first pair is exposed. A Pitcher/KHD strike can remove enemy hacking infrastructure, but only if a mission actor exploits the opening. Check exact sectorial profiles for Deva, Taowu and teams.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

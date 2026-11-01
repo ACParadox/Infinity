@@ -873,3 +873,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Jing Qo32/0** has **FT Master(Shaolin)**: converts Irregular Shaolin only in her **legal** Fireteam at Order Count. Its strength is regularized cheap CC/Smoke bodies *plus* an actual NWI/MA3/Climbing+ combat trooper; failure is the 32pt Master lynchpin. **Jujak Firewall(-6)27–28/0** is economical defensive support for a legal team; **Shang Ji(-6)37+** is premium attack/TA hybrid. **Qíshì TAG pilot** confers only its exact TAGCom bracket MODs to same-group TAGs. **Pangguling8 Baggage vs14/.5 EVO** choose only for real reload/Assisted Fire/AD recipients. [Global tiers and opposing arguments](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Demonstrated pressure package:** **Shaolin Smoke + Jing Qo/Liang Kai close approach**, **Long Ya Camo/mines** and **Hundun/Haetae/Ye Mao/Jujak ranged-hacker Fireteams** attack on different axes. In #003, the Jing Qo/Shaolin flank killed Kestrel support even after its main link/pitcher was disrupted; #065 gives another smoke + mobile attack example. [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#065](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md).
+
+**Do not overvalue the long gun:** #002 Unmasking shows White Banner's Camo/infiltration path raced HVTs without contesting Black A.I.R.'s elite firelane; #220 shows **Hac Tao/Rui Shi** killed opposition hackers but failed needed console WIP/actions, leading to a **JSA 6–2** result. #234's Blue Wolf/Shang Ji/Zhanshi /Long Ya mix comes from an **early-N5 tutorial** and is lower-confidence meta evidence. [#002](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#234](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Tactical priority:** Pair a smoke/midfield threat with **multiple independent objective operators**; don't mislabel a historical mixed link as a confirmed N5.3 Fireteam.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

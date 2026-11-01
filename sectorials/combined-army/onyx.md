@@ -727,3 +727,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Bit+KISS! HD+Trinity25/.5** = true synchronized **Hacker+native-Repeater KISS** physical attack/network fork; **24/.5 KHD+Oblivion** in Onyx carries **different KISS loadout**, not the same Repeater. Bit can hide as 1W/ARM0 controller while KISS projects adhesive/Pitcher angle subject to Coherency; KISS is **not an extra pooled Order**. **Xeodron49–50/.5–1 and Overdron/Sphinx included Stal-/Scindron Ancillary** can only create on-board second body after Place Deployable and may leave active Fireteam on doing so; do not award free start/Order. **Contrary approach:** Bit/KISS is safer 25pt dual-target harassing piece on hacking-focused Onyx, while 49pt Xeodron with separate 7pt R-Drone is far better for independent Orders and moving a larger VP zone swing. Avoid conflating standard Ancillary with Cyberplug autonomy.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Exact current roster, dependency and Fireteam chart above override commentary.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed productive toolkit:** #212 deployed a **Xeodron K1 / MULTI Marksman Duo** with **Rodok Paramedic, Umbra Legate, Kurnau KHD/White Noise and Med-Tech/E-Drone**. The TAGs fixed defenders while **Kurnau and cheap support completed Classifieds**; a disposable EVO REM deliberately absorbed a mine so a mission actor could proceed. Onyx won **Countermeasures 6–0** even though the Xeodrons alone were not the source of all points. [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Mission-dependent contrast:** #237's vanilla Ariadna attacker chose **Wallace** into an atypical **multiple-Umbra** Onyx list to preserve anti-materiel/CC access; a large quantity of Cybermask/Hacking alone is not proof of safe objective control. [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Build rule:** Prefer **TAG Duo / Umbra gun-and-hacking pressure plus cheap, distinct WIP/Doctor/Engineer/Specialist routes**. Preserve ability to spend Orders on Countermeasures actions; no 6–0 result establishes faction-wide win probability.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

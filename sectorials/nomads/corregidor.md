@@ -834,3 +834,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Coyote27/0 BSG+attached BambaBot** puts **FO/MSV1, FD(+10)** and one synchronized bot through two firing lanes on one Order; **Coyote28/0 KHD+bot** changes job, **MMR+bot33/0** increases attack reach. A **BambaDroid FO13/0** with 360º/Mim(-3)/Deployable Repeater is a **separate dependent REM** (Coyote present, same group, cannot outnumber Coyotes); BambaBot is **NOT** this unit and does **not** inherit FO. **Coyote FTO19/0 BSG** instead has NO BambaBot and team rights. **Moran Minelayer/Repeater15/.5** is great passive board gate but CrazyKoala is deployable equipment, not synchronized live attacker. **WIP12 E208 counterviews:** attached bot+MMR gives double-origin pressure; the 13pt AP/FO Droid buys genuinely independent active response, costs an actual 13pt and consumes own group slot/orders. **Anaconda-style Ancillary nuance:** Gecko/Gator RobbyBots not deployed free; must Place Deployable and can affect Fireteam/integrity.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed packages:** **Jazz/Billie + Moran Repeaters/Koalas + an Evader/Engineer or Fireteam gun**, backed by **Wildcat/Mobile Brigada/Vostok, Iguana/Gator/Gecko** depending on the mission, establishes both electronic and template defenses (#071, #078, #080). In #186, **two Gecko TAGs + Jazz + Intruder lane + Jaguars** beat a double-heavy Druze force in Cutthroat, partly through Flash Pulse/Stunned Order denial rather than winning every TAG roll. [#071–#080](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) · [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md).
+
+**Counterplay / risk:** #238 saw **ISS Pitcher → Deva KHD Trinity** remove **Jazz**, opening Adil's route despite Corregidor's forward network. That match also showed **Iguana/McMurrough** attacks failing to accomplish the mission while independent ISS Taowu remained to score. [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Practical lesson:** Distributed Morans/Koalas work only with a **protected hacker and actual objective runner**; consider counter-pitcher angles, protect edge/rear corridors, and keep an attack plan if Jazz is neutralized. Validate distinct Corregidor Surface vs Deep Space rosters in the current reference.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

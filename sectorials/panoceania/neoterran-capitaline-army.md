@@ -787,3 +787,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Auxilia FO+Auxbot15/0** (check FO profile) has low-cost controller and HFT synchronized attacker, can split gun/FO and template ARO tasks while protecting NCA objectives; the **Auxbot is not independently FO**. **Peacemaker HSG+Auxbot23/0** more aggressive FD+20/native Repeater/Mim(-3), **24/.5 mine** pressures Turn 0, **27/0 BSG+Auxbot** active close burst. **Squalos/Maximus/other TAG Ancillary** are off-table until Place Deployable; a Crabbot cannot contribute quadrants or act as independent Regular Order before that. **Against sniper lanes:** cheap Auxilia hidden behind Total Cover plus exposed flamethrower bot may cost opponent more Orders than 40pt standalone guard. **Opposing:** BSG Peacemaker(23) +1B but no bot is better at *solo shooting*, HSG+Auxbot superior at geometry.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed combined arms:** #227's **Uhlan camo Feuerbach + Aquila Guard MSV3 + Bolt sniper + Hexa/Blocker KHD/hacker** set difficult lanes, while **Shona Carano and CSU/Blocker mission operators** actually completed **CivEvac**. NCA won **7–1** against a very compressed Ramah army; Shona collected/delivered multiple civilians and NCA completed Classifieds. [#227](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md).
+
+**Why the combination matters:** A 60+ point superior shooter can hold a corridor but cannot take an early CivEvac extraction the mission disallows; the carry/specialist and endgame budget still have to work. #199's Auxilia/Pathfinder/Trauma-Doc/Tech-Bee-heavy approach shows another **lower-cost order/recovery scaffold** behind large attack pieces. [#199](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md).
+
+**Caution:** #227 benefits from Ramah's early overextension and unusual eight-model selection, not a demonstration that Aquila/Uhlan beats all elite infantry. Test alternate enemy hacking and smoke angles before relying on only two ARO lines.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

@@ -884,3 +884,13 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 **Rafiq FO/Sensor/Triangulated Fire13/0** is the cheap anti-Camo/Hidden detector and useful scoring/Repeater body. **Djanbazan MSV2 HMG31/1 or AP Sniper27** is for *actually shooting* Mimetism/Smoke attackers, combining favorably with Yuan Yuan/Ghulam Smoke against **non-MSV** AROs. **Laxmee HD+24 Pitcher/White Noise** instead denies hostile MSV/Marksmanship LoF, and **Odalisque Disco Baller** can make an Eclipse crossing without a hacking network. **Opposing gun packages:** Djanbazan offers asymmetrical visor fire; Janissary/Azra'il offers better ordinary durability/damage but no automatic anti-Mimetism tech. Do not treat White Noise as a universal smoke grenade.
 
 [Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Recurring mission roles:** #006's five-round Qapu Khalqi recap favored **objective delivery / remaining Specialists over dominating every gunfight**; #025 used **Janissary Missile Launcher + Laxmee hacker/Cybermine** as an ARO-and-tech defense, with **Ghulam/Flashbots** for Orders and **Yuan Yuan Smoke/Super-Jump** as an alternate approach. [#006](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#025](../../notes/battle-reports/021-030-n5-battle-report-tactical-analysis.md).
+
+**Value versus display:** A Janissary lane can demand enemy Orders but cannot itself replace **CivEvac/console/pickup reach**. Qapu should allocate one **independent carrier/Doctor/hacker** and a cheap alternative route after the ARO dies, especially into strong TAG/Combined networks. Yuan Yuan is an arrival/vision enabler, not evidence of automatic backline kills.
+
+**Confidence:** #006 recounts multiple games and #025 is one direct match; avoid treating their overlapping unit ideas as a quantitative Qapu win rate. Current Qapu Fireteam/profiles above control what can legally combine.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

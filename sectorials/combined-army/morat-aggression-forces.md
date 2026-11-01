@@ -654,3 +654,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Oznat ordinary25/0 includes a synchronized Preta**: two physical bodies can Move/shoot **different targets using same Skill** and create a corner fork; **OZNAT FTO15/0 or17/0** used in *Hungries Fireteam* is a **different no-Preta option**, cannot claim both Fireteam bonuses and synchronized Preta on same profile. **Gakis/Preta bought separately** are independent Irregular/Impetuous troops and shouldn't be counted as included Peripherals. **Med-Tech Obsidon Medchanoid21–25/0 Doctor+Engineer + Nasmat3/0** is strong remote recovery/repair extension: up to two Servants can preposition on different sides, **only one patient per Order**, no extra Regular Order. **Raicho TAG with actual Ancillary** if a bundled robot is present must be deployed by Place Deployable; don't invent one for the other options. **Counter:** 25pt Oznat two-body close attack vs 2 cheap Irregular Preta/Gakis may trade more independently; Oznat wins when shared movement / ARO fork and smoke plan matter.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Exact current roster, dependency and Fireteam chart above override commentary.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Effective components:** **Kornak command economy + Yaogat MSV and Dāturazi smoke** pose direct-fire/vision forks; **Dartok/Rodok hackers, Pitchers and Guided** can interrupt heavily armored Fireteams; **Kaitok/Kyosot** create durable shorter-range threats. #118 describes double-Dartok/launcher network pressure; #228 shows damage and control against Shinden's Hatamoto while the **Yamabushi's late objective action** changed the result to 3–3. [#118](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) · [#228](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md).
+
+**Failure to convert:** In #229, Morats inflicted meaningful late casualties yet **Hollow Men/Heckler/Spectr** had already banked early Crossing Lines zones (Tunguska 8–0). The gun duel is only a means to an end; a **Dartok/Yaogat/Guided** strategy must be backed by surviving objective presence. [#229](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md).
+
+**Build rule:** Take both a clear **Smoke/MSV or hacker-delivery sequence** and **independent midgame scorers**. Check exact N5.3 faction/version skills and Fireteam configurations; no report proves every component is legally linked together.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

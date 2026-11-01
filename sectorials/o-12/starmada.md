@@ -993,3 +993,13 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Raptor + Devabot** is Starmada's main synchronized fork: **HSG32/0** cheap W2/NCO/360º controller+HFT; **FO39/0** becomes specialist-plus-template for carry defense; **KHD41/0** counters incoming hacking. All activate with ONE Regular Order and declare common Skill with different legal targets. **Zeta TAG + Zetbot Ancillary** requires later **Place Deployable**, Zetbot not extra order/turn-zero board presence; can alter Fireteam eligibility. **Parvati/Lambda Doctor/Engineer + Yudbot3/0** projects recovery far from owner, not independent hacker/healer. **Opposing:** 32pt Raptor close defense more robust than fragile Sirius21 (which is not in Starmada); but two cheap true Regular independent troops can hold remote quadrants that synchronized Devabot Coherency can't reach.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed asymmetric breakthrough:** #216's **Zeta TAG + Beta/Secudroid + Cyberghost hacker/Pitcher + Kappa/Lambda specialists** supplied the threat and backup, while **Shona Carano** crossed and destroyed **all three Mindwipe targets**, with a **Varangian** as a smoke/CC option. Starmada won 10–1; the players explicitly noted that moving Varangian alongside Shona sometimes *slowed her down* rather than improving her actual mission role. [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Defensive implication:** Zeta/Beta gun strength matters principally when it **clears Shona's anti-materiel approach and protects own servers**; Cyberghost/Kappa/Lambda supply alternative specialist/engineer actions. #155's Combined player observed that an **M-Drone Sensor and Shona pressure** threatened an Anathematic game plan even when Combined later recovered; do not treat one elite hacker/hidden figure as invulnerable. [#155](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md).
+
+**Limit:** One decisive Mindwipe game is not a universal Shona/Varangian or Starmada tier claim. Confirm current Duo Fireteam eligibility/profile and special mission conditions before copying the reported delivery sequence.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

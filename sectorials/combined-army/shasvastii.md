@@ -634,3 +634,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Shasvastii multi-body advantage** concentrates on **Sphinx + Scindron Ancillary** and **Doctor/Engineer+Servants**, not Next Wave-style autonomous Cyberplugs or Nomad Pupniks. **Sphinx93/2** 3STR/Hidden/Mimetism(-6)/Climbing+ with included **Scindron Specialist Operative**: ancillary **not on board at deployment**, Sphinx must **Place Deployable** to release it. Does not give 2 Regular Orders or a free Hidden-Specialist on another side of table. **Shasvastii Embryo** is a *state/model scoring exception* in Domination, **not** a Peripheral or extra attacking body. **Opponent view:** keep Sphinx hidden and preserve special scoring protection, but deploying Scindron late has a real Order cost and can alter Fireteam/Hidden-based plans; cheap Caliban/Speculo are independent attackers with independent Orders, often more flexible.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Exact current roster, dependency and Fireteam chart above override commentary.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed successful role split:** **Shrouded + Malignos hidden specialists/mines + Speculo Killers/Calibans** make a multi-marker shell that taxes Discover Orders and holds objectives away from the opponent's elite attack. #159's winning Shasvastii report consciously scored *around* an Achilles/Pandora hero link; #196 shows saturation/Decoy coverage. [#159](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#196](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md).
+
+**Overinvestment trap:** In #231 **Sphinx** reportedly killed about four targets but spent ~9–10 Orders, leaving a Torchlight **Moonraker/Jamie** attack able to hit Med-Tech/EVO/order support while winning distant Battleground bands 10–0. #189 similarly shows **Sphinx/Sheskiin** gun strength failing to complete collector deliveries while a single TR HMG guarded both circles. [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) · [#189](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md).
+
+**Recommendation:** Preserve a **second non-Sphinx mission route**, screen the rear against Parachutists and be willing to use Hidden Deployment solely for deterrence/zone points. These are mission-dependent losses, not proof the TAG is generally weak.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
