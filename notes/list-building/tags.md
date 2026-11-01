@@ -140,3 +140,13 @@
 **Supplementary community disagreement:** [N5 TAG tier list discussion (Apr 2025)](https://www.reddit.com/r/InfinityTheGame/comments/1jswb3k/) argues **Shakush is more valuable in Hassassin** than a generic cross-faction comparison suggests, because of the sectorial's lack of durable long-range platforms. [MO Tik versus Seraph debate (Jan 2025)](https://www.reddit.com/r/InfinityTheGame/comments/1i8qobt/) values Seraph AP and NCO versus Tik's more consistent Mimetism. These opinions supplement, not override, pinned current profiles.
 
 **Repository analyses reused:** `notes/factions/{kestrel,nca,svalarheima,acontecimento,vanilla-aleph,vanilla-haqqislam,vanilla-nomads,oban,shindenbutai,tohaa,bakunin,corregidor,...}.md` and `notes/list-building/{rems,hacking-and-network-projection,order-efficiency,list-robustness-and-threat-coverage}.md`. Sectorial-specific field notes and current roster references take precedence when this cross-faction comparison is less precise.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed TAG value is mission-dependent:** **Double Seraph + Defersen + recovery** was used successfully in four of five games of #181, but the champion **switched lists** to face Morat anti-TAG tools. **Two Xeodrons + Kurnau/cheap REM** finished Countermeasures through Classifieds (#212). **Swiss Guard/Joan/Helot**, not an unused Cutter alternate, accounted for five played Borderbash wins (#169). [#181](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#212](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+
+**Overinvestment countercases:** #214 **Cutter+Squalo+Tikbalang** won exchanges but lost Firefight 5–2 on Classifieds; #231's **Sphinx** spent 9–10 Orders for ~four kills but left Battleground zone and backline vulnerable; #189's Sphinx/Sheskiin could not deliver data collectors against a blocking HMG. [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Required support accounting:** Name the **Engineer/Servant, second Specialist, repeater clearance, anti-CC/smoke screen and final-turn Orders** before rating TAG cost-effectiveness. Do not interpret unplayed **Avatar** (#155) or **Cutter** (#169) alternates as victories.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

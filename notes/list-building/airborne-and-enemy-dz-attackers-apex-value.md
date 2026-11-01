@@ -195,3 +195,11 @@ A fair comparison includes **(1) opportunity to deploy, (2) legal landing/deploy
 5. **Order pool allocated correctly?** Off-table no pooled Regular, **TA appears on entry**, Impetuous/Irregular/Coordinated use exact N5 rules; do not claim two free generic Orders from packaged team.
 6. **Specialist or Lieutenant/CoC?** Verify exact profile, LT not left off-table/Hidden at LoL check, separate safe successor. **CoC shouldn't be the disposable attacker**.
 7. **Is the goal mission scoring instead of killing?** Bring a genuine KHD/FO/Engineer/Paramedic option if target is a Classified/console, and reserve the turn-3 Orders to reach it.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed high-value arrivals:** #231's **Jamie Arantes Parachutist + Moonraker flank** entered Shasvastii's rear, threatened Med-Tech/EVO and denied far Battleground band scoring; #158's **Banshee Hacker** pressured Suppressive **Achilles**, enabling **Redeye** to finish it; #166's winner alternated a **Raoul Spector/Mary Problems** strike list with defensive Hollow Men/Cyclone setups. [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) · [#158](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+
+**Arrival tax:** #005's **Redeye** standalone alpha burned Orders for little result; #223's **Van Zant** arrived and killed Voronin but failed to finish a Corporate Appropriation object after mines/defense had taxed the route. [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#223](../battle-reports/221-230-n5-battle-report-tactical-analysis.md). Ask what *specific* high-value support must die, what entry lanes are screened, and how many Orders remain to **score or escape**. A prestigious drop model is not automatic value if it merely draws attention.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

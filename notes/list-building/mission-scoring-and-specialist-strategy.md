@@ -644,3 +644,13 @@ Useful current/modern mission-analysis material:
 - Loss of Lieutenant — *Episode 162 — CanCon Mission Analysis*.
 
 These are particularly useful because they analyze an event packet as a whole instead of discussing unit power in isolation.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed decisive scoring:** #153 **Musashi** did zone/buttons rather than chase kills; #163 **Chimera/Pupniks** retrieved/defended Provisioning boxes; #205 **Muyib/Asawira/Govad + Daylami** preserved cargo while ALEPH exhausted specialists; #212 **Kurnau** completed Classifieds after an EVO REM absorbed a mine; #216 **Shona** completed all three Mindwipe objective destructions behind Zeta/Cyberghost pressure. [#153](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#205, #212](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#216](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Kills with poor scoring:** #214's triple PanO TAG lost despite strong fights; #231 Sphinx produced several kills but not Battleground band occupation; #239 Next Wave's killing focus surrendered Area of Interest zones. [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#231, #239](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Test the list after its lead gun dies:** retain (1) a second genuine Specialist, (2) an independent anti-materiel/action-capable body, (3) enough Orders for a last-turn switch and (4) safe routes for cargo/console pickup. Exact mission packet changes precedence and permitted Specialist types.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

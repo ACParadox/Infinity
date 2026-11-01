@@ -130,3 +130,11 @@ _Additional contenders ranked for **this role only**; compare the points spent o
 | **Additional** | [Shepherd + Jordan — June/July 2026 faction tier discussion](https://www.youtube.com/watch?v=1dW3i9dpI34) | Cross-faction evidence that a **single 23pt Disco platform** can govern otherwise strong faction CC/advance options; discussion is subjective |
 
 _All four podcasts above and the selected videos were queried through the corresponding transcript connectors. Podcast/web dates and machine captions are not rules authority; cost/ability judgments use repository current references. For wider role overlap see [Warbands](warbands-and-cheap-trading-units-apex-value.md), [Hacking/KHD](hackers-and-killer-hackers.md), [Movement/vision](movement-positioning-and-vision-control.md), [ARO architecture](aro-units-apex-and-value.md), [Disruption/deployables](../deployables-area-control.md), and [TAGs](tags.md)._
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed role combinations:** **Fennec/Firefly Disco Baller → Hetkari** opened a counter-attack route against Torchlight in #004. **Yojimbo Smoke → Shizoku/Hatamoto** threatened early The Dig access in #233. **McMurrough Smoke → Muyib/Yara/Leila D-Charges** reached Double Bind targets in #232. **Makaul Eclipse** supported a Tohaa carried-objective approach in #224 and maintained tactical utility in #217 **even though the player disliked Makaul as a shooter**. [#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#224](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) · [#232–#233](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Role rule:** Score the **Orders and objectives made accessible**, not how many enemies the smoke trooper shot. **MSV versus Smoke, Eclipse, White Noise and Disco Baller have distinct rule interactions**; verify current N5.3 documents, no universal “smoke counters all ARO” claim.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

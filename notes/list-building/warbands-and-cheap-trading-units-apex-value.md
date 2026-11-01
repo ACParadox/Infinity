@@ -137,3 +137,13 @@ Reliability has 3 separate factors: **(a) delivery** (free Impetuous Move, speed
 - **Check reactive counter:** 360°/templates/mines, MSV vs ordinary Smoke, Warhorse vs Isolated, hacker/Engineer repair, enemy MA/NBW/Guard. **Berserk extends threat but does not automatically survive AROs**.
 - **Calculate the trade at mission time:** 2 killed cheap Orders on Turn 1 may deny ~4 later activations, but killing two on Turn 3 may score nothing. Does your attack **expose your last scorer or another irreplaceable unit**?
 - **End the attack when value falls:** if it takes 3 pooled Orders for a fragile 6pt body to reach one 10pt Order, save it as a screen rather than feed an irrelevant target.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed warband/support conversion:** **Makaul Eclipse** moved Tohaa carriers even when its direct shooting failed (#217/#224); **McMurrough Smoke** enabled Hassassin anti-materiel D-Charges in #232; **Shaolin + Jing Qo** punished Kestrel's exposed support flank (#003); **Dāturazi Smoke + Yaogat MSV** was a credible Morat threat (#118), while **Chimera/Pupnik Eclipse** delivered mission boxes (#163). [#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#232](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Counterexamples:** #210's Bearpode consumed many Orders for a cheap REM; #216 notes **Varangian moving alongside Shona** sometimes slowed the real anti-materiel runner, even though it had useful Smoke/CC. [#210](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#216](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Trading metric:** Count **approach Orders, Smoke/Eclipse LoF controlled, forced enemy Orders, disabled targets and OP resulting**, not just wounds inflicted or printed warband cost. Similar named models have faction-specific Regularity and equipment; current profiles win.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

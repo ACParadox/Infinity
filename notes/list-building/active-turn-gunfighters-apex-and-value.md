@@ -192,3 +192,11 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 - **Tohaa/JSA:** **Sukeul33** Triad HMG or **29 FO K1** for scoring/armor; **Gao-Rael30** MSV2 Spitfire; **Gorgos63** AP TAG; **Hatamoto34** 0-SWC gun/scoring/close assault, **O-Yoroi78** big MULTI HMG for open lanes, **Shikami42** movement/angle/scoring rather than HMG volume.
 
 **On-table test:** _Which enemy can it remove in 1–3 well-placed Orders? What does that remove from their next turn? What mission lane opens? Can it retreat/reload/recover, and what other gun/scorer did I give up buying it?_ If these answers are weak, even the highest-apex gun is wrong for the list.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Mission-adjusted gun value, not kills-only:** #169's **Hidden Swiss Guard HMG + Joan/Helot screen** succeeded by selectively removing defenders while keeping a viable mission floor; #003–#004's **Griffin/Hetkari** attacks required earlier repeater/vision clearance. By contrast #005's **Redeye** wasted an early Order pool into Q-Drone; #231's **Sphinx** killed ~four targets in ~9–10 Orders and still lost the Battleground objective; #214's **triple PanO TAGs** shot well but lost on Classified OP. These are specific games, not a universal tier revision. [#002–#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Evaluation checkpoint:** Count defender/Order/console access removed **per attack Order**, remaining own **Specialists and scoring Orders**, vulnerability to counter-hacking/edge strikes, and whether an equally priced flexible attack would do more. A high-ceiling unit can be *good at fighting* and still be the wrong purchase or selection for a specific mission.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

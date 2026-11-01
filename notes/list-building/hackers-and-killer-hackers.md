@@ -146,3 +146,11 @@
 **Additional existing project analyses used, without falsely claiming fresh rereads of every original episode:** `notes/factions/{kestrel,nca,vanilla-aleph,operations-subsection,vanilla-nomads,bakunin,corregidor,tunguska,hassassin-bahram,vanilla-haqqislam,oban,vanilla-jsa,...}.md`; `notes/list-building/hacking-and-network-projection.md`, `order-efficiency.md`, `peripherals-synchronized-and-multi-body-troops.md`, `rems.md` and all standard `sectorials/` factual references. The repo's old `rules/Youtube rules-strats/Intro to Hacking.txt` is a useful historical primer but **some rules discussions predate N5.3**.
 
 **How to use this ranking:** choose the **profile/upgrade**, then confirm it actually appears in the **sectorial main roster**, the legal team, and the team's TinBot/Repeater architecture. A “best hacker” that cannot attack anything through a useful network is often worse than an ordinary **15pt HD** with one forward Repeater and a safe escape plan.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed hacking-to-mission conversion:** #197's **Kulak/Interventor/Cybermine** net stopped Achilles and left Tunguska time for Akial Classifieds; #238's **ISS Pitcher → Deva KHD Trinity** removed Jazz and opened Adil's lane; #166's **Mary Problems/Interventor/Guided** broke TAK's suppression. The common factor is **follow-through after the hack**, not simply maximum hacking dice. [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#197](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#238](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Negative examples:** Kestrel #005 gained more by **shooting repeaters and scoring quadrants** than by extending a Guided exchange. #056's Shindenboutai hackable link was vulnerable to repeated Tunguska disruption. Preserve a protected **second Specialist / KHD route** and check whether the target is actually hackable, Stealth/Combat Instinct rules, and the exact era's programs.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

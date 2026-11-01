@@ -186,3 +186,13 @@ TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usu
 ### Related research
 
 [Defensive architecture](defensive-architecture-and-reactive-turn.md) · [Marker state/deception](marker-state-and-deception-strategy.md) · [Face-to-face probabilities](probability-and-face-to-face-decision-framework.md) · [REMs](rems.md) · [Deployables](../deployables-area-control.md) · [DZ defence](dz-strikes-and-dz-defense.md) · [Cheerleaders](cheerleaders-and-order-generators.md) · [Hackers/KHD](hackers-and-killer-hackers.md).
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed layered ARO successes:** **Kestrel Black A.I.R./Blink/Griffin + Firefly/Disco and Trauma-Doc** combines lanes, vision control and recovery (#002–#004). **Vanilla PanO Swiss Guard hidden assault + Helot/Joan defense** (#169), **Strelok Decoys around Tankhunter hidden ARO + Scout mines** (#161/#237 same event), and **Long Ya/Camo+Hundun** pressure (#003) illustrate the value of *uncertainty and layered responses* rather than one invincible overwatch.
+
+**Failure mode:** #002's elite sniper did not stop White Banner reaching Unmasking HVTs by another path; #231's Shasvastii backfield REM network was breached by Jamie/Moonraker after a Sphinx assault; #189's single TR HMG accidentally watched both delivery circles and dominated Orders, showing **table/mission geometry determines value**. [#002–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#161, #169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Checklist:** What specific scoring corridor does this ARO protect? What if the enemy uses a side route, Smoke/Eclipse/Disco, Sensor or Parachutist? Can the lost piece be recovered, and is it worth the Orders?
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

@@ -187,3 +187,11 @@ Three real disputes:
 5. **Opportunity cost:** Is 6+ extra support points better than a second attacker, additional Specialist or protecting attack's retreat lane?
 
 **Bottom line:** **Choose *reachability* first, *roll reliability* second, and *points cost* third** for a specific casualty. Then check whether not taking a healer at all scores more.
+
+## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+
+**Observed enabling recoveries:** #003 Kestrel's **Engineer / Sensor REM recovery** restored access to a Frostbyte heater; #004 **Trauma-Doc** recovered **Black A.I.R.** under Torchlight pressure; #220 a recovered **Shikami** supported JSA's Hardlock winning route; #205 **Muyib Doctor** helped maintain HB's cargo-control formation; #227 NCA **Shona/CSU/Blocker** converted cleared lanes while other pieces carried recovery duties. [#003–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#205](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#220](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Marginal value:** Spending Orders to repair an expended **Long Ya** that has already lost first-use missiles and Camo threat (#003 player's question) may be lower value than a newly needed console/pickup. An **EVO** sacrificing itself to clear a mine for **Kurnau** (#212) shows how cheap technical bodies sometimes produce more OP as expendables than as survivors. Choose repairs by **future mission ability restored**, not model cost alone.
+
+[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
