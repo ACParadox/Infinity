@@ -1,5 +1,7 @@
 # List-Building Strategy — Mission, Scoring, and Specialist Strategy
 
+**Battle-report-derived mission choices (2026-11-01):** [Cross-report mission performance by sectorial and army composition](../battle-reports/cross-report-mission-performance-by-sectorial.md) maps **zone scoring, consoles/beacons, extraction/carry, rooms, Classifieds/Outbreak, sabotage, elimination and forced-advance missions** to observed N5 lineups and counterexamples. The 241 report-index entries include duplicate events and nonstandard formats; this is a **qualitative mission-fit reference, not a faction win-rate table**. Verify current N5.3 profile/Fireteam legality in each sectorial reference.
+
 **Current N5.3 complete holder/carrier rankings:** [Objective Holding, Zone Domination & Carried Objectives — apex/value](objective-holding-zone-domination-and-carriers-apex-value.md). Separates **Domination VP-majority quadrants** from **Supplies non-Null Specialist carrying and preventing enemy Silhouette contact**, identifies mission-specific Baggage/Shasvastii exceptions, compares Karakuri/Shikami/Asura/Namurr with 19–31pt specialists, and shows opposing MCP-media opinions.
 
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
