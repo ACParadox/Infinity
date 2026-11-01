@@ -891,3 +891,14 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Selection principle:** A hacking network is good when it creates safe movements/objective contact, not just when it produces kills. Use scenario geometry to choose a TAG-focused or Chimera/Orphan specialist approach.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Provisioning / objective-carry and recovery denial** | Chimera/Pupnik Eclipse collected a box while mines/Suppression/CC interceptors denied enemy retrieval, with Riot Grrl/Uhahu a compact backup network. | [#163](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Armory / close rooms** | Orphans/Cenobites/Chimera short-range attackers and a few useful Hackers/FOs; choose range-dependent list rather than only a maximum Guided package. | [#163](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#040](../../notes/battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
+| **Hardlock** | Cenobite/Penitent/Orphan and Riot Grrl/Uhahu network looked durable but lost late consoles to OSS in a **disputed-Order** final. | [#208](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe** | Stigmata hacker + TAG support + Morlock/Überfall disruption attacked AI objectives against Tohaa, provisional 9–2. | [#217](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #208 has severe unresolved Order-count allegations and #217's score is provisional. Do not treat those as independent robust win probabilities. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -894,3 +894,13 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 **Confidence:** #006 recounts multiple games and #025 is one direct match; avoid treating their overlapping unit ideas as a quantitative Qapu win rate. Current Qapu Fireteam/profiles above control what can legally combine.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Long-range defense / classified coverage** | Djanbazan MSV2 + Yuan Yuan smoke, Laxmee/TinBot and Leila counterhack + Bashi flanking present distinct screening and mission tools. | [#006](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#025](../../notes/battle-reports/021-030-n5-battle-report-tactical-analysis.md) |
+| **Evacuation / Carry & Protect mobility tax** | Five-round Qapu event featured difficult fast delivery and large scorers; powerful Iguana/Djanbazan lines did not automatically move cargo or civilians. | [#006](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest counterexample** | Shikami vertical specialists and fast Ōban operators reached scoring zones while Qapu guns/TAG could not contest the needed buttons. | [#148](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #006 contained an acknowledged Capture & Protect HVT error affecting its round-five result; not reliable evidence of a Qapu C&P victory. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

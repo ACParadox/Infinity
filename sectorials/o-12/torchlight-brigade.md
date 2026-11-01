@@ -863,3 +863,14 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Historical legality:** Verify current Fireteam chart; named report-era compositions may differ.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Armory / Panic Room / close objective packet** | SilverStar/Prime, Moonraker, Beast Hunter, Wave Rider and Hippolyta/Nimrod compact S2 teams chosen by winner for three room-focused missions. | [#171](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+| **Battleground / far zone** | Jackboot HMG-NCO + Wave Rider Hacker + Cludger/Hellblazer front while Moonraker flanked and Jamie parachuted into support backfield; won 10–0 over Shasvastii. | [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Supremacy / last-turn zone** | Raveneye/SilverStar/Wave Rider with hidden Nightshade and mine/cyber defense scored unexpected remaining zone weight vs TAK. | [#168](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **The Dig counterexample** | Vidoc/Moonraker defenses suffered Shizoku/Yojimbo early shooting and loss of objective tempo; projected Shinden score only. | [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Mission-different lists beat one generic high-gun link; event winner recollections are not individual full-game recordings. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

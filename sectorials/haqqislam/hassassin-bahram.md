@@ -787,3 +787,14 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 **Caution:** Do not infer every Daylami or Ghazi has Smoke, nor that #205's historical Fireteam composition remains N5.3 legal. The exact current profile/team chart above controls.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Provisioning / Supplies** | Asawira AP Spitfire + Muyib Doctor + Govad KHD with Daylami Camo denial secured boxes and safe-zone majority vs ALEPH. | [#205](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Double Bind / sabotage** | McMurrough smoke + Muyib/Yara/Leila/Farzan D-Charge route demolished multiple targets despite Shasvastii markers. | [#232](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Firefight / Annihilation** | Fiday/Daylami/Barid/Ghulam Classified coverage won 5–2 vs triple PanO TAG in Firefight; Shakush/McMurrough/Jammers won 6–2 through surviving thresholds in Annihilation. | [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md), [#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Go-second survivability** | Shujae E/M Minelayers + Ghazi Jammers and backup specialists protected against early alpha across a winning tournament recap. | [#173](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Do not equate a specific mission's Classified or threshold win with universal heavy-TAG killing. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

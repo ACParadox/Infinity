@@ -874,3 +874,14 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Counters and confidence:** #056's **Tunguska Pitcher/Spotlight/Guided/Oblivion** repeatedly disrupted an elite Hatamoto-linked approach: invest in repeater clearance or independent nonhackable specialists. #233's **9–1 is projected after play stopped**, not a finalized result. The #224 player's proposed **MSV2 Tanuki / second Yamabushi** substitutions are opinions, not pieces proved in that game. Confirm current **Sayō/team composition and profile eligibility** in canonical Fireteams before copying historical Shizoku links.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Critical Intervention defensive objective room** | Hatamoto Lieutenant/NCO, Shizoku launcher/Yamabushi, Tanuki and Yojimbo controlled carrier exit; Hatamoto removed final Tohaa package carrier. | [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **B-Pong / beacon last-turn** | Yamabushi Paramedic finished beacon WIP and altered last-turn score to 3–3 despite Morat attacking guns. | [#228](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **The Dig** | Shizoku rocket + Yamabushi and Yojimbo smoke removed defenders and reached hyperthermal tasks; 9–1 **projected after early stop**, not finalized. | [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Hardlock vs Ōban** | Double Hatamoto/Raiden pressure defeated Ōban's skirmishers in a tournament recap, exact score unverified. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Elite Hatamoto team remains hackable (#056); verify current Shizoku team membership and mission packet. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

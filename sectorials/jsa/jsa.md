@@ -821,3 +821,13 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **Avoid misattribution:** This is **vanilla JSA**, not evidence that the same full mix or Fireteams are legal in Shindenbutai/Ōban. The lesson is to pair fast/hidden attack with recoverable specialists and a bounded mission Order budget.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **The Dig / Provisioning** | Shinobu/forward infiltrators offered fast objective starting position in winning JSA tournament's alternate list. | [#153](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Corporate / Double Bind objective destruction** | Karakuri survival + Tankō Disco shield + Musashi close-combat Sabotage and Hatamoto gun; Musashi also completed zone/buttons. | [#153](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Hardlock** | Hatamoto main threat, recovered Shikami and concealed Oniwaban/KHD specialist won 6–2 over White Banner through last-turn objective control. | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #153 is a retrospective rather than independent video footage for each round; verify printed N5.3 anti-materiel options. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

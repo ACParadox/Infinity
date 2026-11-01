@@ -1079,3 +1079,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Shakush56–58/1.5 with Jandab Ancillary**, and **Maghariba Guard71–72/1.5 with Jandab** use bundled **Ancillary** specialist support: **starts off-table**, owner spends **Place Deployable** to deploy and may leave actual eligible Fireteam when it becomes a Peripheral Controller. **Jandab does not generate extra Regular Order**, its embedded profile isn't standalone. **Nasmat Servant 3/0** (Doctor/Engineer) is strongest cheap multi-body utility, saving movement Orders while recovering Asawira/Haqq HI/TAG on opposite flank; can use up to two, **one patient per Order**. **Opponent view:** if the mission doesn't need dismount a Jandab, preserve high-cost TAG in cover; Ancillary deployment is not free zone VP or an objective Specialist already present on Turn 0. You can spend 3pt Nasmat instead of 10+pt second independent medic when coverage not independent Orders matters.
 
 [Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Akial Interference / multi-Classified** | Saladin's Order economy + Ragik/Mukhtar + Jammer/Mutt and independent mission specialists scored 10–2 against NCA in a winning-event recap. | [#164](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Hardlock / consoles** | Saladin Order allocation + hidden Tuareg/Fiday/Janissary/Odalisque coverage gives distinct WIP/cyber and fast button approaches. | [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#096](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Corporate Appropriation** | Fiday pre-game attack, Zuleyka smoke, hidden Tuareg D-Charges/KHD, Mukhtar MSV2 and Daylami screens threaten the prototype route. | [#143](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** A powerful Maghariba or Janissary shooting list is not a substitute for broad Classified types or an anti-materiel specialist. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

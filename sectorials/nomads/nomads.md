@@ -970,3 +970,14 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Apex cheap Control assault:** **Chimera+3 Pupniks19/0** supplies *four bodies moving on one activation*, Eclipse + Viral/DA CC and Climbing+, but only **one target-capable Spearhead** joins Chimera on target-requiring attack; clustered templates and killing fragile parent defeat the pack. **Puppetactica 11/0 Master + 9/0 FO PuppetBot(s)** yields remote 2W/Transmutation pickets plus Counterintelligence, **minimum20/0, useful two FO bots29/0**, NOT 2/3 extra pooled Orders; 14pt AP MMR and 16pt/1.5 Red Fury are alternate **paid** Spearheads. **Zondnautica BSG+ZondMate17/0** fast Impetuous vehicle that transforms to synchronized rider/bot, *not* two independent troopers. **Coyote BSG27/0+attached BambaBot** and **BambaDroid FO13/0** are fundamentally different: actual FO Droid is separately bought and requires Coyote same Combat Group. **Fiddler43/0 two JackBots** where legal gives Vulkan/Explode synchronized split attacks, **29/0 FTO has none**. **Opposing Shepherd/TA/Meta:** FO PuppetBots as cheap defenses vs Red Fury/EVO offense; protected Master or AD assassination determines if the extra bot points pay.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **B-Pong / beacon** | Zero / fast hacker, Moran Koalas/Repeater and Interventor/Jazz network protect pickup/withdrawal; strong counter-Pitchers require a safe alternate lane. | [#034](../../notes/battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
+| **Provisioning / cargo** | Hellcat Super-Jump pickup plus hacker/Pitcher protection and independent Specialists outscored a White Banner elite HI roster. | [#090](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Last Launch / extraction** | Moran/Chimera/Pupnik/Koala/Interventor/Gecko screens preserved a successful early extraction against Yu Jing's final close push. | [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Uplink Center / late zone** | Jazz/Interventor/Kulak, Puppet FO/Zero and Moran can press objective rooms, with a recorded 3–3 against Kosmoflot. | [#230](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** These are **vanilla Nomads** mixtures, not proof that every model may appear together in Bakunin/Tunguska/Corregidor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

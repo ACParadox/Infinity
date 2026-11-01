@@ -844,3 +844,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Practical lesson:** Distributed Morans/Koalas work only with a **protected hacker and actual objective runner**; consider counter-pitcher angles, protect edge/rear corridors, and keep an attack plan if Jazz is neutralized. Validate distinct Corregidor Surface vs Deep Space rosters in the current reference.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Cutthroat** | Double Gecko + Jazz/Intruder/Jaguar screen controlled heavy opposition and finished 6–3 against Druze. | [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Evacuation / Neutralization** | Moran repeaters/Koalas + Jazz, Wildcat/Evader Engineer and Bearcat/other mobile specialist variants for objective delivery, not only heavy guns. | [#078](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md), [#080](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Hardlock counterexample** | Iguana/McMurrough guns and Moran/Jazz network were bypassed after ISS Pitcher/Deva KHD removed Jazz; Taowu finished a 4–1 ISS win. | [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Printed Surface vs Deep Space eligibility and scenario version must be checked. A single hacker's loss can collapse the network plan. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

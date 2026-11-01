@@ -1003,3 +1003,14 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Limit:** One decisive Mindwipe game is not a universal Shona/Varangian or Starmada tier claim. Confirm current Duo Fireteam eligibility/profile and special mission conditions before copying the reported delivery sequence.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Hardlock / console** | Cyberghost repeatedly Possessed a NCA TAG while independent Roadbot-type specialist moved among buttons; Starmada won 7–1. | [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe / anti-materiel** | Zeta/Beta/Cyberghost pressure created path for Shona Carano to destroy all three AI targets; 10–1 vs Ramah. | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Crossing Lines / bodies in scoring strip** | Casanova and fast paramedic/specialist survivors continued to occupy forward scoring areas despite Morat fireteam aggression. | [#083](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Cutthroat vs Ōban** | Zeta Climbing Plus and MSV2 sniper dominated an open table; reported Ōban 0–8 (single tournament recall). | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Shona with Varangian offers smoke/CC but dragging a linked Varangian on every Shona Order can slow the actual sabotage run (#216). Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

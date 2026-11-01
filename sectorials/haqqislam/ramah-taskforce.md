@@ -893,3 +893,13 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 **Maghariba Guard71–72/1.5** (ARM8, Baggage, 360º) **Jandab Ancillary** and **Shakush56–58/1.5 Jandab** differ from true synchronized Auxbot: included ancillary *must be Placed* after deploying TAG and gives no pooled Regular Order; can affect **Armored Assault** Fireteam status. **Nasmat3pt** Servants let Doctor Mukhtar26 or another eligible Doctor/Engineer repair/heal through far bot without spending many movement Orders, but no extra attacks/Orders, and one patient per Order. **Best decision:** need **2 simultaneous fighting positions now** → ordinary second Regular HI; need **late Specialist footprint without exposing TAG driver** → place Jandab; need **cheap rescue coverage** → Nasmat. **Opposing:** reliable repair/resupply network beats throwing Jandab forward Turn 1 solely as expendable body.
 
 [Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Outbreak / Specialist eligibility** | Ghulam/Doctor and mobile Namurr/Nahab/Janissary routes can support eligible rescue roles; inspect exact scenario requirements. | [#073](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Evacuation counterexample** | Eight-model Tarik/Khawarij/Namurr/Nahab compressed roster lost scoring paths to NCA; 7–1 NCA. | [#227](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe counterexample** | Tarik/Janissary/Leila/Nahab pressure failed to defend AI objectives from Shona and Starmada Zeta/Cyberghost; 10–1 Starmada. | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** The reports show strong expensive fighters but **do not establish a repeatable Ramah mission advantage** for Evacuation or Mindwipe. Keep independent eligible specialists. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

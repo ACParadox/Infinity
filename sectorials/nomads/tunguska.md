@@ -881,3 +881,13 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 **Buying/playing implication:** Raoul and major Interventor upgrades have a clearer role in network-strike lists; **Hollow Men/Heckler/Kulak** deserve explicit consideration for zone/Classified coverage. Triggermen performance in #122 is a single trial, not an established automatic inclusion.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Akial Interference / Classifieds** | Mary Problems/Interventor and Raoul/GUIDED network or Perseus+Hollow Men Hacker/TinBot with Kulak KHD; latter stopped Achilles, won 7–3. | [#166](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#197](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Crossing Lines / zone occupancy** | Hollow Men + Heckler + Spectr continuously held dead-zone scoring for 8–0 over Morats despite late enemy kills. | [#229](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Hardlock / cyber denial** | Interventor/Heckler/Hollow Man network Isolated or immobilized major Steel Phalanx guns while maintaining specialist choices. | [#151](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Two different winner list builds are **alternatives**, not a demand to field every named unit together. Triggermen #122 were not the main success factor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
