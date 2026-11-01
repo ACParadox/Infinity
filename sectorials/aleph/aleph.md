@@ -891,3 +891,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **G:Jumper apex:** **Posthuman Mk.1 Engineer13/0 + Mk.5 FO13/.5=26/.5** places specialists in two locations but produces **one** Regular Order, not a two-body synchronized attack. Add **Mk.4 HMG30/1.5** for **56/2** attack+FO+recovery positions; or **Mk.2 Sniper26/1.5** for **52/2** with Mk.1+Mk.5, Camo/Infiltration is **NOT automatically Hidden**. In reactive ARO, only one chosen Proxy has unrestricted reaction when both involved. **Pilot-X23/.5+RacerBot Mk-III8/0 each =31/.5 or39/.5**: 20-10 disposable 360º/Deployable Repeater/PARA bodies, parent RemDriver. Unlike a 7pt free Order bot, **RacerBot Mk-III cannot be selected without Pilot-X**. **Apsaras RemDriver20/1 vanilla** buffs **one** eligible REM, not every synchronized unit. **TA OSS disagreement:** RacerBot activation/Orders vs one hard-to-stop cheap posthuman proxy; need actual other gunfighter/recov target for full benefit.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Decapitation** | Maximus heavy gun, Asura and Danavas hacking, Sofotect/Netrods enabled 6–4 vs Corregidor. | [#211](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Hardlock / multi-console counterexample** | Maximus's strong lane cannot replace several protected console operators; Saladin Haqq's cheap specialists achieved more console value. | [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Neutralization / endgame presence** | Maximus suppression and cheap supporting REMs retained board presence after Asura was lost. | [#191](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** The played combination was vanilla ALEPH; do not attribute all its units to OSS or Steel Phalanx. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

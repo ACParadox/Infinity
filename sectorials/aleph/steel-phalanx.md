@@ -655,3 +655,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Steel Phalanx multi-body** role comes primarily from **Servant recovery** rather than importing OSS Posthuman G:Jumper or Tunguska Puppetactica. Pair source-legal **Doctor (such as Machaon) or source-legal Engineer with cheap Servants**, allowing a safe support controller to affect casualty contact elsewhere; **one target per Doctor/Engineer Order, only one Servant active**. **Fireteam + support** gives multi-model coverage but is NOT Peripheral-Synchronized, nor a single controller creating two attacks on one Order. **Opposing choice:** spend ~3–6pt on two far-flank Servants when recovering Achilles/other elite is core plan; otherwise buy an independent guard or second mission specialist over unused healbots.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Double Bind / anti-materiel** | Andromeda + Hoplite/Myrmidon assault and multiple real D-Charge/anti-materiel options completed objectives for 8–6 over TAK. | [#190](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest / room entry** | Phoenix/Myrmidon smoke/Mimetism and resilient close fighters pressure access and can challenge a Cutter-style gun, but this is matchup/table-dependent. | [#092](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Critical Intervention / vulnerability** | Expensive Ajax/Phoenix/Eudoros attackers can lose their mission package if an early ARO removes a key hero. | [#225](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Do not extrapolate a generalized Steel Phalanx win rate from these single matches. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

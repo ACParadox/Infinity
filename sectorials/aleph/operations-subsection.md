@@ -920,3 +920,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Build constraint:** Do not buy/field every expensive hero at once: preserve genuine classified/FO/Engineer/Doctor coverage and final-turn Orders. Check current profiles rather than assuming game-era Asura/Proxy options.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Evacuation / Last Launch / Classified-heavy packets** | Asura Lt/Hacker + Posthumans Mk2/Mk4 + Dart or Kaira/Optimates provided multiple specialist routes in a five-round winning event. | [#154](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Hardlock** | Asura absorbed attention while Proxy and Kyra/Kaira flipped late consoles. Tactical sequence documented, but final #208 Order counts are disputed. | [#208](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Supremacy** | Marut + Asura + Dasyu/Deva and Parvati/REM support drew 4–4 with Tunguska by preserving scoring weight. | [#213](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #146 Neutralization illustrates high kill count with insufficient Orders for the required pick-up/delivery. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

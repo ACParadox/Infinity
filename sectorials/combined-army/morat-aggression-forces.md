@@ -664,3 +664,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Build rule:** Take both a clear **Smoke/MSV or hacker-delivery sequence** and **independent midgame scorers**. Check exact N5.3 faction/version skills and Fireteam configurations; no report proves every component is legally linked together.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Unmasking / network pressure** | Kornak command, Yaogat+Daturazi smoke, Dartok/Rodok Pitcher+Guided and fast Kaitok/Kyosot counter multiple approaches. | [#118](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) |
+| **B-Pong / beacon** | Heavy linked guns and hacking pressed Shindenbutai but an opposing Yamabushi Paramedic changed last beacon action to 3–3. | [#228](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Crossing Lines counterexample** | Strong late Morat kills did not undo early Hollow Men/Heckler/Spectr occupancy; Tunguska won 8–0. | [#229](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Value order-efficient zone workers over one more gun/hacking exchange once the scoring interval approaches. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

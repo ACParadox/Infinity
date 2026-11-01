@@ -772,3 +772,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Decision rule:** Choose **Achilles for a defined scoring job**, not because elite kills look impressive; build a second specialist route, recoverable denial and anti-repeater option. No retrospective win implies a universal Achilles auto-include.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Cutthroat / Key Ops** | Achilles + Patroclus/Juicer + Harbingers/Pandora/Puzzlers used for high-value assault in tailored packets; not a generic compulsory include. | [#001](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#156](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Battleground / Hardlock / Corporate zone holding** | Alternative Defensive Dinos: multiple Steeljaws + Harbinger/Wraith specialists and Patroclus/Drakios held zones rather than pursue kills. | [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Provisioning / frontline objectives** | Skyhound/Stinger/Steeljaw gun and mine pressure with Puzzler/Harbinger specialists; retain objective workers. | [#187](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #001 and #156 cover one event. #197 and #239 show Achilles/fast vehicles losing mission value to hacking or insufficient objective bodies. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

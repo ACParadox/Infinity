@@ -598,3 +598,12 @@ With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doc
 **Wardriver Disco Baller16/1** is an affordable, SWC-costed **Eclipse** route around enemy MSV/Marksmanship; its limited charges and setup Orders matter. **Galwegian/Cameronian Smoke** blocks ordinary guns, not an enemy MSV2. Against Mimetism/Camo, cheap Discover probes, close templates, and covered CC flanks may be better than buying a weak direct gun duel. **Opposing faction reviews:** some prioritize the Disco Baller as a scarce anti-visor answer; others prefer more Regular Orders/guns when map geometry already provides a bypass.
 
 [Cross-game anti-tech N5.3 apex/value, mechanics, matchups and checked conflicting transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Critical Intervention / confined rooms** | Wallace, McMurrough/Cameronian/Galwegians with Wulver/Kaden/Mormaer made layered room-door CC/template barriers vs White Banner. | [#086](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Close defense against expensive attackers** | Multiple short-range CC threats can tax heavy armor on narrow approach lanes; keep a real console/carrier route after stopping the attacker. | [#086](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#161](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** One decisive room example does not prove broad Caledonian superiority on every room or zone mission. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

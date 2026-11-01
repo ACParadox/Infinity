@@ -644,3 +644,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Recommendation:** Preserve a **second non-Sphinx mission route**, screen the rear against Parachutists and be willing to use Hidden Deployment solely for deterrence/zone points. These are mission-dependent losses, not proof the TAG is generally weak.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Provisioning / Area of Interest** | Shrouded/Malignos hidden specialists, Caliban, Speculo and Decoy mines create multiple early/late objective paths while enemy spends Discover Orders. | [#159](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#187](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md), [#196](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Data Harvest / collector warning** | Sphinx/Sheskiin firepower failed to complete collection/delivery while Tohaa controlled the scored corridor. | [#189](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Battleground / distant band warning** | Sphinx killed approximately four for nine–ten Orders but Torchlight Jamie/Moonraker entered the backfield and won 10–0. | [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Tackle rear-edge defense and delivery Orders before an expensive Sphinx alpha. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

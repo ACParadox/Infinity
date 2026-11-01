@@ -931,3 +931,14 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Build test:** Include cheap marker/screen threats and a credible late specialist set behind the chosen Aspect/TAG. **Avatar, Charontid and Anathematic** are alternative point commitments, not proof that more expensive Aspects are automatically better.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Outbreak / varied rescue roles** | Caliban Specialist + Umbra/Legate hacker, Nexus and Bit & Kiss formed scan/stabilize/CivVac routes against White Banner. | [#152](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe / objective destruction** | Actual Achilles+Sheskiin/Pandora attack with cheap support rather than purely long-range defensive units, illustrated in winning tournament report. | [#172](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+| **Classified/Supremacy event selection** | Salt Lake champion played fast Kodali/Kasuto/Anathematic-style composition, explicitly **not** the prepared Avatar list. | [#155](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Annihilation / survive thresholds** | Charontid+Overdron+Daturazi+Gaki denial lost 6–2 to a Hassassin survivor/Jammer plan despite dangerous guns. | [#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** This does not establish Avatar weak in all ITS missions; only that it was an unplayed alternative at #155. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

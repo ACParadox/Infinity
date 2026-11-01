@@ -530,3 +530,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Wardriver Disco Baller16/1** is the scarce low-cost **enemy-MSV/Marksmanship blind** in an otherwise smoke-heavy force; **regular 8pt Disco-bearing utility profile** (if its exact roster option is selected) can create another emergency screen. **Desperado Smoke, Foxtrot/Grunt cover and close templates** often solve an expensive Mimetism/visor ARO by **avoiding it** rather than beating it in a BS contest. Against Camo, use cheap Discover probes, deployment mines and protected routes; there is no justification to rank every Camo marker as a premium kill target. **Counter:** ordinary Smoke doesn't block MSV2, and Disco's two-use/placement+follow-up Orders can exceed the value of simply scoring elsewhere.
 
 [Full anti-tech N5.3 apex/value, exact mechanics, matchup selection and opposing transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Hunting Party / defensive ground** | Blackjack duo plus Grunt sniper/Warcor and Foxtrot/Maverick/Beast Hunter elements maintained durable reactive zones vs O-12. | [#124](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Corporate Appropriation defense** | Foxtrot FO/Maverick/Minuteman/Van Zant can contest prototype and counterstrike, but #223's rear Van Zant attack failed to destroy the object. | [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Acquisition / Superiority lane fighting** | Marauder/Minuteman/Grunt ranged shells with cheap forward specialists have a plausible zone plan, with mixed outcomes. | [#057](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md), [#059](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Limited consistent scoring evidence; don't rank USARF above broad-area competitors based on this sample. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

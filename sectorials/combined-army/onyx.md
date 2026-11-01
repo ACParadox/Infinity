@@ -737,3 +737,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 **Build rule:** Prefer **TAG Duo / Umbra gun-and-hacking pressure plus cheap, distinct WIP/Doctor/Engineer/Specialist routes**. Preserve ability to spend Orders on Countermeasures actions; no 6–0 result establishes faction-wide win probability.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Countermeasures** | Xeodron K1/MULTI Duo plus Rodok/Kurnau/Doctor Worm/E-Drone opened Classified routes; 6–0 vs Invincible Army. | [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Evacuation / Classifieds** | Umbra Samaritan/Legate plus hacker/Pitcher and independent mission workers retained several task types as Haqq broke Fireteam to carry civilians. | [#141](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest matchup caution** | Unusual multiple-Umbra/Cybermask build was bypassed by vanilla Ariadna's Wallace/zone plan; that opponent was not a normal Onyx roster. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** The Xeodron Duo's zone pressure is useful because Kurnau/cheap REMs still perform the exact Classifieds, not because the TAGs score everything. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
