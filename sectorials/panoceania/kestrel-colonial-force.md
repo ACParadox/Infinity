@@ -842,3 +842,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Current legality:** These observations span pre-N5.3 Army builds and do **not** assert a currently legal mixed Fireteam; check this page's canonical chart/profiles.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Acquisition / Unmasking / Supplies** | Griffin–Bipandra–Fennec defensive and button shell plus Hetkari–Firefly active attack, with Banshee/Scarecrow alternate routes. | [#175](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md), [#002](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Frostbyte** | Clear Pitchers and recover Sensor REM/Engineer to reach heater while Hetkari opens the corridor. | [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Firefight / Decapitation** | Griffin/Black A.I.R. reactive coverage, Hetkari and mission-capable backups; avoid committing all first-turn Orders to Redeye Q-Drone alpha. | [#004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#175](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** One strong gun lane does not protect HVTs in Unmasking (#002); do not infer historical Fireteam legality. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

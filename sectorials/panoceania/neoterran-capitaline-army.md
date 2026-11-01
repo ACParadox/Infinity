@@ -797,3 +797,12 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Caution:** #227 benefits from Ramah's early overextension and unusual eight-model selection, not a demonstration that Aquila/Uhlan beats all elite infantry. Test alternate enemy hacking and smoke angles before relying on only two ARO lines.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Evacuation / CivEvac** | Uhlan/Aquila/Bolt/Hexa screens enabled Shona plus CSU/Blocker to carry civilians and score Classifieds (7–1). | [#227](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Hardlock counterexample** | Bolt and TAG defenses survived but Starmada Cyberghost and mobile Roadbot scored buttons 7–1. | [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #227's Ramah opponent had an unusually small, overextended eight-body list, so generalization is limited. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

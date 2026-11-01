@@ -726,3 +726,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Peacemaker23/0 HSG+Auxbot** provides native Repeater/FD+20/Mim(-3) plus HFT synchronized attacker, unusually valuable in Varuna's reactive architecture. **24/.5 Minelayer** adds prepaid obstacle to a short engagement; **27/0 BSG+Auxbot** attacks corners, **23/0 +1B BSG has NO Auxbot**. A **Cutter Crabbot** is an Ancillary deployed by Place Deployable when useful, *not* a freely deployed second scoring specialist or Regular order. **Opponent view:** Helot LRL and Kamau long ARO control a lane, but Auxbot covers corner/entry where long gun can be smoked or bypassed; opponent may remove controller with KHD and leave second body disconnected.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Provisioning / area / Hardlock** | Squalos + Tactical Awareness Pathfinder + Zulu-Cobra and Fusilier hacker + Machinist offers attack, tech and a separate objective courier. | [#019](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) |
+| **Critical Intervention defense** | Helot/Patsy + Montesa/visor lines build layered room coverage with a mobile backup route. | [#011](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) |
+| **Corporate Appropriation counterexample** | Remote prototype location can defeat a static Squalos/Cutter strategy; Dynamo smoke/Sasha extracted objective against Cutter. | [#011](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #019 is a 3–2 tournament recap, and #226's 8–0 was only projected in modified one-TAG play. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

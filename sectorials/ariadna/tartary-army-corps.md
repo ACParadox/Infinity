@@ -991,3 +991,12 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Limits:** #103/#166 show network/Guided can break exposed Veteran Kazaks/Frontoviks when a repeater lands. #210's Bearpode route spent too many Orders relative to casualties/mission access; a high-stat melee body is not automatically a productive first attacker. **Do not transfer** vanilla-only Wallace, Van Zant, or list flexibility into TAK or treat #161/#237's vanilla champion as a TAK win. Prefer multi-layered markers and independent specialists before a large synchronized charge.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Frontline / Superiority** | Strelok Decoy/FO, Scout E/M, hidden Tankhunter Autocannon and Veteran Kazak/Frontovik fireteam hold/disrupt zones. | [#058](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md), [#067](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md), [#190](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Frostbyte / defensive advance** | Frontovik/linked heavy guns plus independent specialist/heater plan protected under Camo/ARO. | [#035](../../notes/battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Do not credit vanilla Ariadna #237 champion's Wallace and Kövlk selection to TAK. Pitcher/Guided may disable exposed Kazaks (#166). Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

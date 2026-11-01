@@ -1222,3 +1222,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Polaris Team Alpha32/0 = Masha9pt + Bearpode23pt and TWO Regular Orders**; **Beta40/0 = Masha9 + Bearpode31** also 2 Regular. **Not Peripheral(Synchronized/Control)**; you can move/attack either as genuinely independent unit in same Combat Group, unlike Antipode pack. **S.A.S. FO21/0** or local mission Specialist must do objective interactions—Bearpode doesn't automatically inherit it. **Kazak Doctor +2pt Remontnikbot Servant** (if legal source option) allows wide recovery while Controller hides, *not additional Regular Order*. **Contrast:** 26pt Antipode pack is *not automatically imported from Vanilla/TAK* into Kosmoflot just because it has SAS/Polaris; Kosmoflot's 32pt double-Order Bearpode duo wins hard target pushing but exposes many points to heavy AROs.
 
 [Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Outbreak** | Volkolak + Bearpode/Polaris pressure behind several eligible medics/handlers achieved 10 OP versus ISS through scan, stabilize and CivVac. | [#150](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Uplink Center** | Scots Guard FO/Paramedic, Uxia/SAS/Kövlk/Dozer, Kosmosoldat/Volkolak screens held a 3–3 against Nomads. | [#230](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **B-Pong counterexample** | Ōban Shikami and Tankō vision screened beacon, while delayed Margot-Duroc attack could not reverse scoring. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** The Outbreak result depends on special mission eligibility and is not a generic Classified superiority claim. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

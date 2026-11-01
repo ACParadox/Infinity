@@ -910,3 +910,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Selection guidance:** Swiss Guard supports selective attack plus broad remaining Orders; Cutter/TAG use depends on terrain, anti-TAG tools and a deliberately preserved specialist/engineer floor. Do not conflate an unplayed list with event-winning combat evidence.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Armory / selective objective combat** | Played Borderbash winner used Joan V2 + Helots + Hidden Swiss Guard HMG plus mission workers, not the alternate Cutter. | [#169](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#170](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Corporate / proto retrieval** | Cutter threatens defenders, but cheap specialist/anti-materiel routes must complete the scenario. | [#143](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Firefight counterexample** | Cutter + Squalo Mk II + Tikbalang shot well but lost 5–2 because Hassassin scored Classifieds. | [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #169 and #170 cover one event; do not credit an unplayed Cutter with that winner's results. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -1543,3 +1543,12 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Practical build:** Treat Tankhunter as denial/long-gun, Strelok/Scout as marker- and E/M-pressure, Dynamo/Wallace as mission conversion; do not assume **Mirage-5 or Van Zant** were present in the champion's actual played lists just because available in vanilla.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Provisioning / Crossing Lines / Area of Interest / Hardlock** | Voronin + Strelok FO/Decoy + Tankhunter/Scout E/M with fast Dog Warrior/Dynamo/Kövlk/Sasha scoring and screens. | [#161](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Corporate Appropriation** | Wallace destroys prototype in CC; Dynamo smoke + Sasha can retrieve/extract another way. | [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #161/#237 describe one CanCon winner; round five involved a consequential rules error. Available Mirage-5/Van Zant are not proof of being fielded. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

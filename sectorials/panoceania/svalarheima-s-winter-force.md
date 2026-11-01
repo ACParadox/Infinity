@@ -783,3 +783,12 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Peacemaker HSG+Auxbot23/0** adds an actual second synchronized HFT angle to WinterFor's otherwise gun-heavy long firelanes: FD+20/Repeater/Mim(-3) imposes late corner attack costs. **24/.5 Minelayer** buys prelaid mine for layered DZ/midfield defense; **27/0 BSG+Auxbot** strong active short-range, but **23/0 BSG+1B has NO Auxbot**. **Jotum and other TAG Ancillary Crabbot** are delayed deployable support not 2 Regular Orders. **Opposing analysis:** WinterFor excels killing lanes but can fail button timing; inexpensive Peacemaker+one independent specialist may outscore another expensive reactive HI that doesn't defend the actual interaction square.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Frostbite** | Nisse/Uma/Karhu plus Doctor/Engineer, heater activators and cold-zone survivors hold the safe approach. | [#098](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Critical Intervention defense** | Knight of Justice, Karhu specialists, Peacemaker mines and turrets defend access after heavy AROs are damaged. | [#182](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #087's Acquisition final score is not reliably attributable; do not claim a confirmed WinterFor win. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -1071,3 +1071,12 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Role test:** Always reserve independent FO/Doctor/Engineer/anti-materiel scoring routes after the primary Knight/TAG advance; do not infer present-day Fireteam membership from historical videos.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Corporate Appropriation** | Double Seraph + Defersen/Engineer attacked the target in a tournament; player swapped away from double TAGs into anti-armor matchups. | [#181](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Consoles / Hardlock / Classifieds** | Trinitarian FO/Minelayer, Knight Commander CoC, Hospitaller Doctor and independent Knights/technical coverage. | [#009](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#017](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#184](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #184's Next Wave opponent was an intentionally constrained starter collection; it cannot establish an MO Hardlock win rate. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
