@@ -777,3 +777,13 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 **Shakush TAG56–58/1.5** includes a **Jandab Ancillary Specialist** in normal source profile, *not a second Order*, deploy via **Place Deployable** only when job exists; after deployed active Ancillary, Fireteam Controller restrictions apply even to source-legal **Shakush Duo**. **Doctor(+3) Asawira35–37/0 + Nasmat3pt** extends excellent WIP14+3 care to physically distant allies; **only one patient per Order**, Nasmat unarmed / not a new scoring Specialist. **Disposable traps:** Shujae Hidden E/M Mine and Ghazi warbands are actual independent unit threats; E/M/Mines are equipment, not the same as **Pupnik** physical attack. **Counter:** rushing 3STR Shakush without Engineer and assuming Jandab free extraction leaves it vulnerable to Cybernetics and expensive loss; better to buy 3pt Servant and preserve actual Specialist until later.
 
 [Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed scoring package:** **Asawira AP Spitfire + Muyib Doctor + Govad KHD**, backed by **Daylami Camo/Panzerfaust** and an independent hacker/specialist route, won a Provisioning scenario by **protecting the supplies** while elite ALEPH opponents ran out of usable specialist Orders (#205). #232's different **McMurrough smoke + Muyib/Yara/Leila + D-Charges/Farzan** plan converted corridor access into **Double Bind** sabotage, rather than seeking unnecessary full tabling. [#205](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#232](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**High-value cheap deterrence:** **Daylami** forces Discover / unfavorable approach decisions even without a casualty; **Ghazi Jammers/Isolation** threatened premium Combined units in #215. **Fiday** pressure and tech specialists remained relevant in #214's **5–2 Firefight OP win** against PanO's triple TAG, where completed Classifieds—not TAG kills—determined the score. [#214–#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Caution:** Do not infer every Daylami or Ghazi has Smoke, nor that #205's historical Fireteam composition remains N5.3 legal. The exact current profile/team chart above controls.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

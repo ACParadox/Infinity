@@ -1061,3 +1061,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Peacemaker HSG+Auxbot23/0** is leading MO synchronized fork: FD+20/Mimetism(-3)/Repeater plus HFT Auxbot, protect **Trinitarian/Teutonic mission specialist** with reactive short/Repeater field. **24/.5 Minelayer** buys early hidden threat; **27/0 BSG+Auxbot** does active corner attack; **23/0 BSG(+1B) has NO Auxbot**. **Seraph AP Spitfire72/1.5** has actual **AUXBOT-2**, the **MULTI HMG Seraph74/1.5** does not: the first can fork a heavy gun/short template when synchronized and remaining Coherency is legal. **Seraph Crabbot Ancillary** deploys only when Controller Places it, can affect Fireteam status; isn't a free Order or on-table starting Specialist. **Counter-view:** 2 independent Teutonic or Trinitarian specialists add more Orders/positions than investing 72pt in one TAG and synchronized Auxbot solely as guard.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed patterns:** **Trinitarian FO/mines/repeater** establishes a scoring/denial front while **Knight Commander Chain of Command, Hospitaller Doctor/Engineer support and a secondary long-range gun** prevent one Knight's loss from collapsing the mission (#009, #017, #020). #221's mirror highlights the same value of retaining mission specialists and cover after the first heavy attack.
+
+**High-ceiling alternative:** #181's winning **double Seraph TAG + Defersen / Knight of Justice Hacker + repair** package used speed, different attack lanes and hacking defense to beat exposed defenses. It was selected for four of five games, **not** every matchup: the player switched away from double Seraph into Morat anti-TAG/MSV/hacking threats. Buying a second premium attack piece at the expense of specialists/CoC can erase these advantages. See [#181](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md).
+
+**Role test:** Always reserve independent FO/Doctor/Engineer/anti-materiel scoring routes after the primary Knight/TAG advance; do not infer present-day Fireteam membership from historical videos.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

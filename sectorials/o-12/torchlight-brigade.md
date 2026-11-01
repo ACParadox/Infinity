@@ -853,3 +853,13 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 **Torchlight** benefits primarily from **Yudbot Servants (3/0 each)** extending local Doctor/Engineer from rear to two separate damaged Silverstar/Prime or TAG casualty fronts, **not** from Sirius/Raptor imported from Vanilla/Starmada (they are absent in pinned standard roster). **Firebat support/Ancillary** must follow its current vehicle/TAG-specific subordinate deployment when present; do not assume two Orders or synchronized gun without an actual listed bot. **Silverstar Fireteams are multiple independent troopers activated together by link rules, not Peripheral Synchronized:** don't count shared movement as extra independent body for 1/10 slot. **Counter:** if not running expensive recoverable armor, a cheap Regular guard beats 3pt+ Servant that never heals; if running Prime/TAG, wide repair can save several Orders.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Repeated package:** **SilverStar / Jackboot HMG-NCO + Wave Rider Hacker + Hellblazer/Cludger Engineer/Disco** supplies shooting plus hacking/corridor protection. **Raveneye** manages command/deception, while **Moonraker** and **Jamie Arantes parachute/turret** threaten non-front angles. Reports #013–#014, #168 and #171 describe distinct mission builds; #231 directly shows Moonraker flank followed by Jamie plasma into Shasvastii Med-Tech/EVO backfield to win **Battleground 10–0**. [#013–#014](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) · [#168](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Why this can fail:** #233's **Shizoku/Yojimbo** attack neutralized poorly positioned Vidoc/Moonraker defenses early (projected score only). #004 highlights how even a strong Jamie/Hellblazer assault can lose Lieutenant/orders after a vision block and Hetkari response. Ensure **independent hacker/engineer/mission Specialist survives** and don't confuse a high-Wound direct-fire plan with sufficient objectives on its own.
+
+**Historical legality:** Verify current Fireteam chart; named report-era compositions may differ.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

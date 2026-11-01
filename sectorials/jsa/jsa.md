@@ -811,3 +811,13 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 **O-Yoroi TAG + Kobaruto Ancillary** uses **Place Deployable to put Kobaruto into position**, not an immediately deployed second Regular Order. Normal JSA **Yáozăo Servant** extends Engineer/Doctor coverage to distant Karakuri/O-Yoroi (one Servant per activation / one heal target per Order), a more reliable 'multi-body' support plan than paying an expensive guardian to walk back. **Yojimbo CrazyKoala** is **deployable equipment, not Synchronized live Peripheral**: the foot/motorized option creates traps and smoke, not extra CC/gun attacker or pooled Order. **Karakuri** are *independent* STR3 FO troop entries, not G:Jumper proxy-like 1 slot pack. **Counter:** an Ancillary released beside an enemy gun too soon can give up VP; only place when the actual skill/position is needed, preserve parent status until then.
 
 [Cross-game multi-body apex/value and transcript disputes](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Current sectorial roster and N5.3 rules decide actual type and access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed effective modular shell:** #153's Krug 2026 winner used **Karakuri resilience + Tanko Disco Baller protection + Miyamoto Musashi mission/anti-materiel close combat + Hatamoto ranged pressure**, reserving a different **Shinobu Kitsune/infiltration** list for fast objective access. Musashi did **buttons/zone work**, not merely trophy kills. [#153](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md).
+
+**Independent Hardlock example:** #220 credits **Hatamoto + recovered Shikami + hidden Oniwaban/KHD** with defensive lanes and last-turn mission conversion against White Banner, while a successful KHD kill without enough remaining console WIP/Orders failed to secure the opponent's mission. [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Avoid misattribution:** This is **vanilla JSA**, not evidence that the same full mix or Fireteams are legal in Shindenbutai/Ōban. The lesson is to pair fast/hidden attack with recoverable specialists and a bounded mission Order budget.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

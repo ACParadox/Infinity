@@ -910,3 +910,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 **Posthumans G:Jumper** buy **2–3 differently specialized Proxies, one Regular Order/Trooper slot**; cheap **Mk.1 Engineer13+Mk.5 FO13 =26/.5** with alternate physical positions, not a two-origin synchronized gunfork. A third **Mk.4 HMG30/1.5** gives **56/2** and reactive AP-resistant heavy body; opponent can force 2 Proxies to ARO in same enemy Order—only one gets normal ARO, others Dodge/Reset. **Pilot-X23/.5 + 0–2 RacerBots Mk-III8/0 each** is **31/.5 one /39/.5 two**, same group; their 20-10 movement and PARA/Repeater area denial only cheap **marginally**, not as stand-alone 8pt cheerleaders. **Apsaras20/0 RemDriver** helps ONE eligible REM persistently at deployment; **Apsaras17/0 KHD** and **18/0 TAGCom** distinct choices. **TA/Shepherd:** sell as spatial optionality and rem buffs; do not silently count extra Orders or AVA from Vanilla.
 
 [Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Repeatable winning structure:** **Asura Lieutenant/Hacker** is an elite attack/network node, but **Posthuman Mk2/Mk4 and mobile specialists** (Dart, Kaira/Kyra Sharma) are essential for parallel objectives. #154's OSS tournament winner chose Asura + Posthumans + Dart; #208's presented final credits preserved **Posthuman + Kyra** console actions after Asura fixed enemy attention. **#208 has contested Order-count integrity and is not clean statistical proof.** [#154](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#208](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md).
+
+**Alternative tools:** #001, #074 and #079 show **Dikpala/Racerbots + Engineer/Shukra** as mobile long-gun, hacking and button support. #205's losing ALEPH list concentrated **Maximus/Penny** investment while its specialists and second group could not complete Provisioning; expensive elite weapons did not fix a blocked cargo route.
+
+**Build constraint:** Do not buy/field every expensive hero at once: preserve genuine classified/FO/Engineer/Doctor coverage and final-turn Orders. Check current profiles rather than assuming game-era Asura/Proxy options.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

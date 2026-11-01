@@ -900,3 +900,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Most efficient synchronized scorer:** **Drummer FO+Drumbot-5 FO21/0**—unusually **both** are real FO; each can use own legal target/origin on same synchronized Skill, while Drumbot adds Heavy Flamethrower/Flash Pulse/360º/Mim(-3). **Heavy gun Drummer40–42/1–1.5** HMG/HRMC/Feuerbach partner offers a larger active ARO fork, but *Drummer* is only W1 ARM1; **47/1 FO+gun+FO bot** has three bodies when cost justified. **Peacemaker23/0 HSG+Auxbot**, **24/.5 HSG Minelayer**, **27/0 BSG+Auxbot** project FD+20/native Repeater/HFT/Mim-3; **23pt BSG +1B variant has NO Auxbot**. Any TAG **Crabbot** is Ancillary: starts off-table, uses Place Deployable, not free FO body. **Dante Kestrel disagreement:** 21pt FO beats over-investment in big gun Drummers, yet on open table a true three-body 47pt Drummer can force separate threats.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed tournament success, correctly attributed:** The Borderbash 2025 champion's **played** force was **Joan of Arc V2 Lieutenant + Helot Militiamen FTO screening + Hidden Swiss Guard HMG**, with cheap REMs, hackers and mission specialists. The Swiss Guard emerged for selective ranged removal; Helots and Joan kept reactive coverage/repositioning. **#169 and #170 cover the same event**, not two independent wins. A **Cutter** was in a published alternate list but **was not played in those five wins**. [#169–#170](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+
+**Counterexample:** In #214 a **Cutter + Squalo Mk II + Tikbalang** triple-TAG build shot effectively but lost Firefight **5–2** to Bahram's Classified coverage; a few elite shooters did not replace diverse specialist paths. [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+
+**Selection guidance:** Swiss Guard supports selective attack plus broad remaining Orders; Cutter/TAG use depends on terrain, anti-TAG tools and a deliberately preserved specialist/engineer floor. Do not conflate an unplayed list with event-winning combat evidence.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

@@ -832,3 +832,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 **Drummer FO+Drumbot-5 FO21/0** is the best *two genuine Specialist origins/one Order*, plus HFT bot; **47/1 FO+Drumbot-1 or3 gun+FO bot** creates **3 synchronized bodies** but owner is W1/ARM1 and 47VP lost if controller removed. **40/1 MULTI HMG**, **42/1.5 HRMC**, **40/1 Feuerbach Neuro** Drummer options are alternate profiles, not cheaper 21pt dual FO. **Peacemaker23/0 HSG+Auxbot** 2-body native Repeater/FD+20 fork, **24/.5 Minelayer** adds prepaid mine, **27/0 BSG+Auxbot** active assault; **23/0 BSG(+1B) has NO Auxbot**. **Squalos/Tikbalang Crabbot Ancillary** requires active deployment, not free starting troop. **Shepherd/Dante views:** 21pt Drummer obvious value, 47pt triple-body intriguing but vulnerable to one kill on Drummer; Peacemaker is often better when mission needs guaranteed Turn-0 threat.
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed recurring package:** **Griffin + Hetkari + Black A.I.R.** split lane removal, attack and reactive coverage; **Firefly/Disco Baller** cuts critical vision lines, **Fennec FO/Disco and Bipandra/Trauma-Doc** preserve the actual scoring/recovery function. **Banshee** (parachute/hacker/Classifier route, exact loadout depending on era) gives a second angle. In #003 the Firefly/Griffin repeater clearance preceded Hetkari's attack and Banshee flank; in #004 sightline blocking plus recovery enabled a counterattack. #005's hidden **Scarecrow** and Crux/Bipandra team maintained quadrant/console coverage after the alpha failed. See [#002–#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#158](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md).
+
+**Opportunity cost / warning:** In #005 a **Redeye** spent nearly all early Orders attacking a Q-Drone, died and did not cripple the enemy. **This is not a generic Redeye verdict:** #158 records a **Banshee hacker forcing Achilles out of Suppression → Redeye finishing it**. #002 demonstrates that a Black A.I.R. gunline can be bypassed entirely by Unmasking routes. Secure HVTs and scoring paths, not just an attractive firing lane.
+
+**Current legality:** These observations span pre-N5.3 Army builds and do **not** assert a currently legal mixed Fireteam; check this page's canonical chart/profiles.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).

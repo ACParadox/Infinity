@@ -866,3 +866,11 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 ## Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
 **Metsuke LT Strategos1/Counterintel22/0** is a cost-efficient command shell; **LT(+1 Order)23/0** is alternative, not combined. **Shizoku HRL(+1B) Strategic Deployment38/1.5** applies FD(+4″) to a **legal Sayō** team only; Yamabushi's individual FD **doesn't trigger +8″**. **Taguraidā Mechazoid Pilot12/0 TAGCom** benefits same-group TAG only per bracketed Dodge/GizmoKit MODs. **Pangguling8 Baggage/Repeater vs14/.5 EVO** supports Rui Shi/Dispensers/airborne when effect actually activates. [Whole-game guide](../../notes/list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Observed recurring combination:** **Hatamoto Lieutenant extra Orders + NCO attack lane**, **Shizoku rocket team + Yamabushi Paramedic/specialist**, **Tanuki gun/hacker**, and **Yojimbo smoke/flank** create both killing and actual objective conversions. #224 records Hatamoto breaking a Tohaa carried-objective defense; #228 a **Yamabushi Paramedic** scored the final beacon action to secure a **3–3** despite other combat losses; #233 used Shizoku/Yojimbo pressure to open The Dig tasks. [#224, #228](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) · [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+
+**Counters and confidence:** #056's **Tunguska Pitcher/Spotlight/Guided/Oblivion** repeatedly disrupted an elite Hatamoto-linked approach: invest in repeater clearance or independent nonhackable specialists. #233's **9–1 is projected after play stopped**, not a finalized result. The #224 player's proposed **MSV2 Tanuki / second Yamabushi** substitutions are opinions, not pieces proved in that game. Confirm current **Sayō/team composition and profile eligibility** in canonical Fireteams before copying historical Shizoku links.
+
+[Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
