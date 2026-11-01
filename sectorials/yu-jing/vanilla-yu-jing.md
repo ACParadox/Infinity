@@ -571,3 +571,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Wèibīng FO/Sensor/Repeater14/0** is an inexpensive *Regular* Camo/Hidden seeker (ZoC WIP+6), while **Rui Shi MSV2 Spitfire23/1** is the stronger **kill a Mimetism gun** answer. **Yín-Shé Albedo22/0 and Léi Gōng MSV1+Albedo29/0** are powerful only where those exact selected Vanilla profiles exist; verify rather than importing White Banner AVA/Fireteams. **Mówáng/Húláng Disco** supplies MSV-proof route denial against enemy visors; **Lóngwáng Biometric** is expensive anti-IMP assurance as part of a TAG purchase, not budget guard. A generic E/M hit does not shut off a visor or cancel Camouflaged State.
 
 [Anti-tech N5.3 whole-game apex/value and counter-matchups](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Unmasking / HVT pressure** | Sù-Jiàn + Mowang NCO mobility and Dokkaebi Hacker/Pitcher, alternate Haidao Specialist proposal for reliable button coverage. | [#108](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+| **Supremacy / multi-lane zone** | Yan Huo HRMC + Rui Shi MSV2 + Daoying Lt + Zhencha/Hac Tao hidden and cheap REM/monks in a CanCon faction-debrief build. | [#162](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Last Launch counterexample** | Zuyong HMG/shotgun Haris and Rui Shi/Shaolin smoke cleared late Nomad pieces but missed final extraction by an Order margin. | [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #108's Haidao replacement is player assessment, **not a played successful composition**. Never treat all Yu Jing profiles as White Banner or Imperial Service legal. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

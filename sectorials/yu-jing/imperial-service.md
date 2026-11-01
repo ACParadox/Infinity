@@ -1075,3 +1075,13 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 **Application:** Match aggressive **Sù-Jiàn/Wu Ming** with low-profile scoring specialists, cheap Orders and an independent backup if the first pair is exposed. A Pitcher/KHD strike can remove enemy hacking infrastructure, but only if a mission actor exploits the opening. Check exact sectorial profiles for Deva, Taowu and teams.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Hardlock / beacon-console turn** | Adil Specialist Lt plus Taowu alternate masked Specialist/CoC, Wu Ming/Kuang Shi gun and Deva KHD/Pitcher anti-Jazz opening produced 4–1 vs Corregidor. | [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Battleground / mobile zone** | Double Sù-Jiàn + Sun Tze order economy + Zhanying/Engineer/REM support pressures far scoring bands, but the opponent can isolate and kill forward actors. | [#188](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Outbreak counterexample** | Pheasant Doctor, Su-Jian and Parachutist Paramedic did not complete scan/stabilize/CivVac sequence as Kosmoflot scored 10. | [#150](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #181 warns extra late kills can trigger Retreat and accidentally cede zone points. Preserve back-up eligible operators and correct mission timing. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -848,3 +848,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Fiddler Engineer36/0 + one JackBot; 43/0 + two JackBots** makes 2–3 simultaneous Synchronized bodies, with Vulkan Shotgun/Explode bots and a WIP14 Engineer/Drop Bears Controller; **29/0 FTO has no JackBot** and in Druze **has NO Fireteam access despite the label**. W1+NWI parent remains the risk and must keep Coherency. **Anaconda59/1.5 + Operator** is an Escape-System alternate state, *not two full attackers active from deployment*. **Scarface+Cordelia** is composite TAG plus engineer bought together, not a single synchronous attack pack. **Druze/Brawler Doctors/Engineers + Nasmat3/0** delegate repair to a different flank (1 patient/Order, max one active Servant), not a second pooled Regular Order. **Counter:** 19pt Brawler Engineer + Nasmat gives more real recovery per point than 43pt Fiddler+two bots if enemy isn't exposing flammable close-range targets; Fiddler wins where two independent ARO angles can be threatened on one Order.
 
 [N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Evacuation / toolbox delivery** | Scarface+Cordelia, Valerya Gromoz/Brawler Hacker, Monstrucker/Fiddler and Bashi/fast objective workers can keep both electronics and civilians moving. | [#202](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Crossing Lines / altered one-TAG format** | Scarface/Fiddler/Kunai/Brawler/Pitcher screened a Cutter; projected Druze 8–0 is **not a full standard ITS result**. | [#226](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Cutthroat counterexample** | Anaconda+Scarface+Druze hacker/warband struggled into Corregidor double Gecko/Jazz/Intruder 6–3; spent Orders on unrewarding trades. | [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #226 has special one-combat-group/one-TAG and forward-deployment restrictions plus unresolved LoF disagreement. No general Druze mission tier inferred. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

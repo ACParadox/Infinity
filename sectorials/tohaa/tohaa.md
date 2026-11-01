@@ -891,3 +891,14 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 **Role-based pick:** Makaul for visual delivery/close deterrence, Kriigel for specific ZOC disruption, Sukeul for gun/FO scoring and cheap peripheral protection for corridors. Protect the actual console/carry operator; do not equate Triad survivability with automatic mission scoring.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Data Harvest / carried-objective defense** | Neema Saatar/Sakiel/Chaksa, Rasail and Kaeltar with Sukeul gun denied collector delivery lanes, won 4–1 vs Shasvastii. | [#189](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Critical Intervention / room defense or assault** | Kriigel E/M pheroware + Makaul Eclipse + Sukeul/Libertos protected objective room, but Tohaa lost final data-pack carrier to Hatamoto after delayed first-turn progress. | [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe / sabotage vulnerability** | Gorgos/Clipsos/Makaul Eclipse approach could reach a console but failed to destroy enemy AI versus Stigmata hackers; Bakunin score provisional. | [#217](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Hardlock / resilient objective plan** | Makaul/Rasail/Kaeltar and durable Triad bodies provide escort/holding options; #093's opponent chose Dino zone-saturation specifically to contest Tohaa resilience. | [#093](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Do not confuse Makaul Eclipse movement value with being a reliable primary gun. Printed current anti-materiel and Specialist capability determine Mindwipe options. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

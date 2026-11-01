@@ -961,3 +961,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Ikari** gets primarily **Servants and Ancillary**, not imported Nomad Puppetactica. **Yáozăo Servant3/0** extends engineer/doctor contact to expensive Karakuri/O-Yoroi on distant flank; one servant patient per Order, no extra Order generation. **Scarface+Cordelia** is a composite pair with Cordelia an actual independently placed Engineer where roster says, unlike synchronized bots. **Karakuri31/0 is a separate 3STR FO model with its own Regular Order** (not multiple G:Jumper Proxies sharing one), excellent holding a scored position, and **Daiyōkai46/0** another independent hard model. **Yojimbo CrazyKoala** is deployable equipment, **not a Pupnik or autonomous live shooter**. **Counter:** spend 3pt servant if saving recovery movement is the need; buy 19pt Yojimbo to create passive smoke/Koala corner denial, not to multiply target attacks like Chimera+3 Pupniks19 elsewhere.
 
 [N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Akial Interference / Classifieds** | Armand Le Muet sniper + Brawler Hacker, Wu Ming/TinBot and cheap Yuan Yuan/Desperado/Tanko can open diverse missions, but ensure specialist variety. | [#185](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest / marker and zone control** | Brawler/Hacker/warband and available heavy support gave access under opposing WinterFor guns; outcome was scenario-dependent. | [#075](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Provisioning** | Brawler/Druze specialist options and inexpensive opportunistic attackers require clear carry route instead of only heavy damage. | [#138](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Low confidence for a general Ikari mission edge: the reports document tools and tactical interactions, not independently repeated wins. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -1013,3 +1013,13 @@ For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 7
 **Fiddler36/0+JackBot /43/0+2 JackBots** buys synchronized WIP14 Engineer+fast Vulkan/Explode bodies and Drop Bears for dense midboard; **Fiddler FTO29/0** fits source Ghulam Fireteam **but has no bots**, never count the FTO and synchronized pair in same selection. **Maghariba71–72/1.5 with Jandab Ancillary** delivers delayed Specialist physically only after **Place Deployable**; Jandab is neither a free Turn-0 body nor extra pooled Regular Order, and active Ancillary can alter Fireteam. **Nasmat3/0** lets Engineer/Doctor recover from another angle (one patient/Order). **Counter:** 29pt Fiddler linked with real team is superior to 43pt W1 Controller+2 bots if enemy has 20–48in ARO corridors; close template and anti-armor attack forks favor bot variant.
 
 [N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Panic Room / close-center survivability** | Maghariba + McMurrough plus engineer/fast specialist support posed a tough room-control opponent for Torchlight in a winner's recollection. | [#171](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+| **Tic-Tac-Toe / console challenge** | McMurrough/Miranda/Zhencha Hacker/Bounty Hunters had multiple attacks but MO pushed connected console lines more efficiently. | [#129](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Custom scenario / mobile angle** | Smoke/Magh/Scarface-style defense and a Bashi Bazouk hidden angle helped in a modified Dire Foes mission, not portable to ITS automatically. | [#183](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** **Evidence weak or mixed:** do not assign Dahshat a strong room or console ranking solely from one losing opponent's commentary and a custom mission. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

@@ -856,3 +856,14 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Wèibīng FO/Sensor/Repeater14/0 (TacAware17)** is the economical **Camo/Hidden** finder and scoring body: spend Orders approaching ZoC before claiming a reliable sweep. **Rui Shi MSV2 Spitfire23/1** or **Hǎidào MSV2 MULTI Sniper** gives actual anti-Mimetism/ordinary-Smoke killing power. **Léi Gōng MSV1+Albedo(-6)** counters opposing MSV/Marksmanship conditionally; **Húláng FTO Disco31/0** or **Mówáng NCO Disco** instead permits **Eclipse** passage against a hostile visor. **Choice:** an Albedo attacker is strongest against the correct enemy; when no visor exists use Wèibīng for markers, Rui Shi for shootouts, and preserve a non-MSV gun against White Noise.
 
 [Whole-game anti-tech N5.3 apex/value, matchups and opposing MCP transcripts](../../notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Superiority / weighted zones** | Shang Ji/Tai Sheng Tactical Awareness and NCO, Haidao MSV plus linked WIP specialist forms durable quadrant-point presence. | [#060](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest / objective weight** | Large elite mobile attacker and special deployment can bank early points; #100 is an introductory tutoring game, not competitive proof. | [#100](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Countermeasures counterexample** | Compact Shang Ji/Bi Xiè/Haidao KHD/DOC and split small Orders could not match Onyx's 4 Classifieds; lost 0–6. | [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Hardlock counterexample** | Yan Huo/Haidao/Zhencha coverage lost beacon scoring to vanilla Ariadna fast Dog Warrior/Scout; match involved acknowledged rules issue. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Avoid trading all independent specialists for durable but inflexible heavy fireteams, particularly in rotating Classifieds. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

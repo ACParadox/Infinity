@@ -814,3 +814,13 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 **Peacemaker HSG+Auxbot23/0** and **HSG Minelayer+Auxbot24/.5** supply FD(+20)/native Repeater/Mim(-3)/synchronized HFT fork in midfield; **BSG(+1B)23/0** lacks Auxbot while **BSG+Auxbot27/0** restores the true dual-body attack. **Anaconda TAG59/1.5+Operator**, **Scarface+Cordelia** and similar compound listings are **not Synchronized or Control**: operator deploys only after valid Escape System condition; Cordelia is a separate actual Engineer/Order source as printed. **Engineer + Yáozăo Servant3/0** repairs ARM/STR at a distant position without exposing Controller and without second free Order. **Counter:** Peacemaker is better than solo 27pt ORC guarding a tight interaction square where HFT fork matters, ORC/Anaconda better if enemy dominates with long weapons or hacking disables REM.
 
 [N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Biotech 4 / custom Mega Turret / firelane control** | Varangian + Shona smoke/CC, Haidao MSV2 Sniper and Hawkwood K1 Sniper under White Noise, Laxmee hacking formed deliberately flexible attack/vision options. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Highly Classified** | A second list emphasized real Specialist role diversity rather than copying the sniper/CC list; mission-packet selection drove event results. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#032](../../notes/battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
+| **Supremacy / zone or Annihilation** | The Haidao/Hawkwood fork and linked support deny long lanes, but movement and actually occupying objectives remain a cost. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #010 is a single five-round recap with **Reinforced Command and custom Mega Turret** rules; #033 is duplicate coverage and must not be double counted. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

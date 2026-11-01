@@ -794,3 +794,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Fiddler36/0 one JackBot or43/0 two JackBots** = fast WIP14 Engineer + one/two Synchronized Vulkan/Explode bodies, can split legal targets in same activation; **FTO29/0** is legal Riot Grrl member with **no JackBot**, so don't silently combine Fireteam bonuses and synchronized bots. **Anaconda59/1.5 with Operator**: TAG+Escape System/Operator is an alternate state, not two concurrently threatening troopers; Operator's Specialist Operative is only relevant when released. **Daktaris/Clockmaker or Brawler Engineer + Zondbot3/0** projects support across tabletop, not extra Regular Order. **Raoul 33pt Combat Jump Irregular /34pt FTO Regular** is a *single* troop, not a Peripheral because he has alternate profiles. **Opposing:** Fiddler43 with disposable JackBot forks may outperform 39pt separate gunfighter on dense boards; on open long lanes independent snipers and two actual Regular Orders outperform a W1 Controller and two short-range robots.
 
 [N5.3 Peripheral & Multi-Body apex/value tiers and transcript debates](../../notes/list-building/peripheral-synchronized-multibody-apex-value.md). Pinned source roster/Fireteam restrictions remain authoritative.
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Corporate Appropriation** | Raoul Spector/Hellcat airborne threat + Emily/Digger/Hardcase and cheap Specialists can attack prototype from multiple angles; actual mission actions decide score. | [#091](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Control points / zone occupancy** | Anaconda + Brawler Hacker + Digger with Jaguar smoke and Baggage support create a heavy presence, but Chimera/Eclipse/Paramines can prevent reaching the correct point. | [#049](../../notes/battle-reports/041-050-n5-battle-report-tactical-analysis.md) |
+| **Battleground counterexample** | Next Wave Defensive Dinos held the distant scoring band while StarCo Anaconda remained durable on a rooftop but could not displace enough zone points. | [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Evidence thin and partly scenario-specific; no confident StarCo advantage over other mercenary sectorials is established. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).

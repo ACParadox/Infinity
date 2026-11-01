@@ -883,3 +883,14 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 **Tactical priority:** Pair a smoke/midfield threat with **multiple independent objective operators**; don't mislabel a historical mixed link as a confirmed N5.3 Fireteam.
 
 [Cross-report synthesis and evidence cautions](../../notes/battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Unmasking / HVT raids** | Shaolin smoke + Liang Kai/Jing Qo mobile CC, Long Ya/Hundun markers, Haetae/Ye Mao/Jujak linked support allowed access around Kestrel Black A.I.R. guns. | [#002](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Frostbyte / heater-zone** | Long Ya Camo + Hundun sniper/linked hacker protect long lane, but need real heater activators and the later zone scoring body. | [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Provisioning counterexample** | Many elite HI/Haetae/Jujak attackers with too few cheap independent carriers lost cargo to Nomads Hellcat Super-Jump and specialists. | [#090](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Hardlock counterexample** | Hac Tao/Rui Shi killed hackers but failed console WIP/actions against JSA; lost 6–2. | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #234's Blue Wolf/Zhanshi/Long Ya Uplink Center success occurred in an introductory early-N5 game and is lower-confidence competitive evidence. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
