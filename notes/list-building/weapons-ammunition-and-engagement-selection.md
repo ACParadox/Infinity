@@ -33,7 +33,7 @@ Once the target cannot oppose effectively, ammunition and PS become much more im
 
 > N5 terminology note: lower PS is more dangerous. Do not read a larger PS number as "more damage."
 
-**Rules baseline:** the project's [N5.3 + N5 FAQ v0.1](../../rules/README.md). Exact weapon characteristics come from the current [Weapon Chart](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md), with the [N5.3 weapon updates](../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) taking precedence over older generated entries. The [Possibility of Survival (PS)](../../rules/3_Combat/Possibility_of_Survival_%28PS%29.md) rule defines Saving Roll Success Value as applicable ARM/BTS + PS + Cover (+3 where relevant) + other MODs.
+**Rules baseline:** the project's [N5.3 + N5 FAQ v0.1](../../rules/README.md). Exact weapon characteristics come from the current [Weapon Chart](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md), with the [N5.3 weapon updates](../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) taking precedence over older generated entries. The [Possibility of Survival (PS)](../../rules/3_Combat/Possibility_of_Survival_(PS).md) rule defines Saving Roll Success Value as applicable ARM/BTS + PS + Cover (+3 where relevant) + other MODs.
 
 **Related strategy:** [Probability and Face-to-Face decisions](probability-and-face-to-face-decision-framework.md), [Target priority and attack sequencing](target-priority-and-attack-sequencing.md), [List robustness and threat coverage](list-robustness-and-threat-coverage.md), [Trading and attrition](trading-and-attrition.md), [Terrain and engagement geometry](terrain-silhouettes-and-table-geometry.md), and [ARO units](aro-units-apex-and-value.md).
 
@@ -373,7 +373,7 @@ AP is less valuable against models with little relevant defence.
 
 Do not pay a tactical premium to halve ARM 0 or ARM 1 when ordinary ammunition already solves the target.
 
-**Rules nuance:** AP halves the specified **ARM or BTS**, **rounding up**; values above zero cannot be reduced below one. AP does not itself remove a valid Partial Cover bonus. See [AP Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Armor_Piercing_%28AP%29_Ammunition.md).
+**Rules nuance:** AP halves the specified **ARM or BTS**, **rounding up**; values above zero cannot be reduced below one. AP does not itself remove a valid Partial Cover bonus. See [AP Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Armor_Piercing_(AP)_Ammunition.md).
 
 ---
 
@@ -454,7 +454,7 @@ E/M is especially valuable against:
 
 ### Why E/M is strong
 
-A successful E/M attack can impose severe states while attacking BTS rather than ARM. **One E/M hit forces two BTS/2 Saving Rolls**; one failed save causes **Isolated**, and **HI, TAG, REM and VH** also enter **Immobilized-B**. Pure E/M is non-lethal control rather than a wound-dealing attack; combined N+E/M has additional effects. See [E/M Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Electromagnetic_%28E_M%29_Ammunition.md) and [Combined Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Combined_Ammunition.md).
+A successful E/M attack can impose severe states while attacking BTS rather than ARM. **One E/M hit forces two BTS/2 Saving Rolls**; one failed save causes **Isolated**, and **HI, TAG, REM and VH** also enter **Immobilized-B**. Pure E/M is non-lethal control rather than a wound-dealing attack; combined N+E/M has additional effects. See [E/M Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Electromagnetic_(E_M)_Ammunition.md) and [Combined Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Combined_Ammunition.md).
 
 Against HI / REM / TAG / Vehicle targets, the combination of **Isolation + IMM-B pressure** can completely stop an attack run.
 
@@ -490,7 +490,7 @@ Particularly attractive against:
 
 PARA attacks PH rather than ARM or BTS.
 
-**Rules nuance:** PARA generally imposes a **PH−6 Saving Roll** and causes **Immobilized-A** on failure; it does not wound the target. A target **without a PH Attribute ignores PARA**, so this is not a universal anti-REM or anti-TAG shortcut. See [PARA Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Paralysis_%28PARA%29_Ammunition.md).
+**Rules nuance:** PARA generally imposes a **PH−6 Saving Roll** and causes **Immobilized-A** on failure; it does not wound the target. A target **without a PH Attribute ignores PARA**, so this is not a universal anti-REM or anti-TAG shortcut. See [PARA Ammunition](../../rules/4_Ammunition%20and%20Weaponry/Paralysis_(PARA)_Ammunition.md).
 
 This makes it a **defence-bypass control tool**.
 

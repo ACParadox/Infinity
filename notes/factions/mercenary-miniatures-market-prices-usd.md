@@ -9,7 +9,7 @@
 
 **One-each total for 82 listings: USD $1,058.35.** The **81 entries marked Add to cart total USD $1,037.65** (excluding the $20.70 Tankō). These are catalogue sums **not recommended purchase budgets**: character packs overlap, several items have alternative sculpts, and the category includes other factions.
 
-**Scope:** This is the retailer's broad *Mercenary* category, **not a declaration that every product is a mercenary, legal in the same NA2 sectorial, or purchasable for JSA**. Example category mismatches: PanO Dronbots, Yu Jing Guijia, Tohaa Kiel-Saan, and JSA Domaru/Tankō. Check actual N5.3 [NA2 sectorial references](../../sectorials/na2/) and [JSA roster references](../../sectorials/jsa/).
+**Scope:** This is the retailer's broad *Mercenary* category, **not a declaration that every product is a mercenary, legal in the same NA2 sectorial, or purchasable for JSA**. Example category mismatches: PanO Dronbots, Yu Jing Guijia, Tohaa Kiel-Saan, and JSA Domaru/Tankō. Check actual N5.3 [NA2 sectorial references](../../sectorials/na2) and [JSA roster references](../../sectorials/jsa).
 
 ## Quoted catalogue listings — USD
 

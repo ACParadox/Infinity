@@ -1,6 +1,6 @@
 # Infinity N5.3 — Whole-model buying skips and low-priority purchases
 
-**Updated 2026-10-30.** This document answers **“Can I skip buying this entire unit?”**, not “Which profile should I avoid in Army?”. It extracts the purchase-level decisions from all 11 current [must-have / go-to / avoid](./) faction audits.
+**Updated 2026-10-30.** This document answers **“Can I skip buying this entire unit?”**, not “Which profile should I avoid in Army?”. It extracts the purchase-level decisions from all 11 current [must-have / go-to / avoid]() faction audits.
 
 ## How to read these labels
 

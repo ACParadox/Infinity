@@ -2,7 +2,7 @@
 
 **Scope:** Vanilla Combined Army, Morat Aggression Forces (MAF), Shasvastii Expeditionary Force (SEF), Onyx Contact Force (OCF), Next Wave. The user-defined categories are deliberately demanding: **must-have** = an almost-every-list personal default reported by a speaker or genuinely indispensable faction engine; **go-to** = broadly good when assigned a sensible role; **never take / avoid** = profile-level displacement or explicit speaker rejection, **not** proof of mathematical domination. An empty hard-veto category is more accurate than inventing one.
 
-**Factual authority:** the five [current repository sectorial reference files](../../sectorials/combined-army/) (all `status: current`, N5.3, Army `7.26246.158`, changed 2026-09-03), then [rules](../../rules/README.md). These establish **legality, costs and loadouts**, while videos/podcasts establish **opinions and observed results**. Earlier N4/2025 advice cannot override the current roster. [Official N5.3/ITS18 changes](https://infinityuniverse.com/en/news/infinity-rules-update-5-3) include updated Team-Ops/Spec-Ops and Sāchā availability. Normal-list recommendations do **not** silently assume optional Team-Ops.
+**Factual authority:** the five [current repository sectorial reference files](../../sectorials/combined-army) (all `status: current`, N5.3, Army `7.26246.158`, changed 2026-09-03), then [rules](../../rules/README.md). These establish **legality, costs and loadouts**, while videos/podcasts establish **opinions and observed results**. Earlier N4/2025 advice cannot override the current roster. [Official N5.3/ITS18 changes](https://infinityuniverse.com/en/news/infinity-rules-update-5-3) include updated Team-Ops/Spec-Ops and Sāchā availability. Normal-list recommendations do **not** silently assume optional Team-Ops.
 
 **Evidence key:** **Direct** = attributable preference or rejection from a full transcript checked for this audit; **Corroborated** = source discussion + existing reviewed guide; **Contested** = sourced counter-opinion exists; **Edition-limited** = pre-N5.3 material must be interpreted using current reference. “Near-must” is still **not a mandatory unit**.
 
@@ -18,7 +18,7 @@
 
 ## 1. Vanilla Combined Army
 
-**Most direct sources:** [Robert Shepherd, *N5 Combined Army faction focus*, April 2026](https://www.youtube.com/watch?v=qoyylw0p0JM) (full YouTube MCP transcript rechecked); [Tactical Awareness, S3E15 Vanilla/CA Prime](https://www.youtube.com/watch?v=pTDaJJy86Sk), historical early-N5; [existing Vanilla research and opposing podcast summaries](./vanilla-combined-army.md). [Current Vanilla profiles](../../sectorials/combined-army/vanilla-combined-army.md).
+**Most direct sources:** [Robert Shepherd, *N5 Combined Army faction focus*, April 2026](https://www.youtube.com/watch?v=qoyylw0p0JM) (full YouTube MCP transcript rechecked); [Tactical Awareness, S3E15 Vanilla/CA Prime](https://www.youtube.com/watch?v=pTDaJJy86Sk), historical early-N5; [existing Vanilla research and opposing podcast summaries](vanilla-combined-army.md). [Current Vanilla profiles](../../sectorials/combined-army/vanilla-combined-army.md).
 
 **Near-must / actual speaker defaults**
 - **Dāturazi 14/0 with Chain Rifle, Grenades, Smoke Grenades** — **Direct:** Shepherd says he always takes this particular Dāturazi option. Regular **Smoke + lethal close-range trade** gives a cheap enabling piece for Vector MSV2/Charontid MSV3; one of Vanilla's best order-to-utility buys. **Exception:** a list that attacks through White Noise, Albedo or a dedicated non-Smoke plan; don't call the trooper compulsory.
@@ -40,7 +40,7 @@
 
 ## 2. Morat Aggression Forces
 
-**Sources:** [Robert Shepherd, *N5 Morat focus*](https://www.youtube.com/watch?v=QwcqdXMtDXI) (full transcript rechecked); [Tactical Awareness S3E13, Morats](https://open.spotify.com/episode/7HZuzXo3FDUr6Eqp08TzjR) (full podcast transcript rechecked); [existing Morat tactical review](./morat-aggression-force.md); [N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
+**Sources:** [Robert Shepherd, *N5 Morat focus*](https://www.youtube.com/watch?v=QwcqdXMtDXI) (full transcript rechecked); [Tactical Awareness S3E13, Morats](https://open.spotify.com/episode/7HZuzXo3FDUr6Eqp08TzjR) (full podcast transcript rechecked); [existing Morat tactical review](morat-aggression-force.md); [N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
 
 **Near-must / central packages**
 - **Reliable Smoke access, commonly Dāturazi** — cheap Regular smoke, CC/template trade, sets up **Yaogat MSV2** or safer transit. **Not uniquely mandatory:** Oznat smoke-launcher + legal Hungries infrastructure provides a different form of enabler; spending on both in every list is unnecessary.
@@ -61,7 +61,7 @@
 
 ## 3. Shasvastii Expeditionary Force
 
-**Sources:** [Robert Shepherd, *SEF faction focus*](https://www.youtube.com/watch?v=mtqHMuHmjjo) (full transcript rechecked; older analysis); [Tactical Awareness S3E12 Shasvastii](https://open.spotify.com/episode/0oGd3tdSkCtTp2Yi99sRc5) (full podcast transcript rechecked); [MetaChemistry E139 — 2026 Battle by the Beach winner Brian/Nazeen](https://open.spotify.com/episode/6FErkreAsQoUKosH4WkdPW) (full podcast transcript rechecked; actual 2026 tournament evidence); [existing SEF guide](./shasvastii-expeditionary-force.md); [N5.3 roster](../../sectorials/combined-army/shasvastii.md).
+**Sources:** [Robert Shepherd, *SEF faction focus*](https://www.youtube.com/watch?v=mtqHMuHmjjo) (full transcript rechecked; older analysis); [Tactical Awareness S3E12 Shasvastii](https://open.spotify.com/episode/0oGd3tdSkCtTp2Yi99sRc5) (full podcast transcript rechecked); [MetaChemistry E139 — 2026 Battle by the Beach winner Brian/Nazeen](https://open.spotify.com/episode/6FErkreAsQoUKosH4WkdPW) (full podcast transcript rechecked; actual 2026 tournament evidence); [existing SEF guide](shasvastii-expeditionary-force.md); [N5.3 roster](../../sectorials/combined-army/shasvastii.md).
 
 **No defensible universal individual “must-have.”** The **2026 winner** describes at least two genuinely different solutions: a **face-down** build (2 Speculo, 3 Caliban, Shrouded, order bots, solo late-game Jayth) and a **face-up** mission/gun build (Sheskiin + Nox/Tensho specialists, Gwailo + Victor). Calling Speculo, Sheskiin, Gwailo or Noctifer mandatory across **both** would erase this direct evidence.
 
@@ -81,7 +81,7 @@
 
 ## 4. Onyx Contact Force
 
-**Sources:** [Irregular Order #56, *Onyx Contact Force Review*, 17 Oct 2026](https://open.spotify.com/episode/7b2QJ494pgPp6NY6WQ9QWF) (**full podcast transcript rechecked**; particularly ~85–120min Nexus/Unidrons, ~125–160min Morat/Exrah, ~165–210min TAGs and hidden pieces); [Robert Shepherd, *Onyx faction focus*](https://www.youtube.com/watch?v=U238na0BXfs) (full YouTube transcript rechecked; older); [Tactical Awareness S3E14 Onyx](https://www.youtube.com/watch?v=u_e7wxbn1Zk); [existing Onyx guide](./onyx-contact-force.md); [N5.3 roster](../../sectorials/combined-army/onyx.md).
+**Sources:** [Irregular Order #56, *Onyx Contact Force Review*, 17 Oct 2026](https://open.spotify.com/episode/7b2QJ494pgPp6NY6WQ9QWF) (**full podcast transcript rechecked**; particularly ~85–120min Nexus/Unidrons, ~125–160min Morat/Exrah, ~165–210min TAGs and hidden pieces); [Robert Shepherd, *Onyx faction focus*](https://www.youtube.com/watch?v=U238na0BXfs) (full YouTube transcript rechecked; older); [Tactical Awareness S3E14 Onyx](https://www.youtube.com/watch?v=u_e7wxbn1Zk); [existing Onyx guide](onyx-contact-force.md); [N5.3 roster](../../sectorials/combined-army/onyx.md).
 
 **No uncontested must-have.** In the **Oct 2026 Irregular Order review (~105–110min)** one host takes substantial **Unidron** infrastructure; the other openly says he generally *does not*. That means “must take Unidron Core” is a **playstyle judgment**, not faction consensus.
 
@@ -100,7 +100,7 @@
 
 ## 5. Next Wave
 
-**Sources:** [Robert Shepherd, *N5 Next Wave faction focus*, Dec 2025](https://www.youtube.com/watch?v=52aFgWpv8es) (**full transcript rechecked**); [Tactical Awareness, E36 Next Wave](https://open.spotify.com/episode/1c9pgE6IkthlQ2mzQpH4Qe) (full transcript rechecked); [Loss of Lieutenant E172, *List Building 101: Next Wave*, Aug 2026](https://open.spotify.com/episode/5cVwqFnBxM9xYIskCHHuDt) (full transcript rechecked); [MetaChemistry E148 opposing Next Wave](https://open.spotify.com/episode/3X6yHHjjJNYmZVO8qltsUZ) and [existing guide](./next-wave.md); [N5.3 roster](../../sectorials/combined-army/next-wave.md).
+**Sources:** [Robert Shepherd, *N5 Next Wave faction focus*, Dec 2025](https://www.youtube.com/watch?v=52aFgWpv8es) (**full transcript rechecked**); [Tactical Awareness, E36 Next Wave](https://open.spotify.com/episode/1c9pgE6IkthlQ2mzQpH4Qe) (full transcript rechecked); [Loss of Lieutenant E172, *List Building 101: Next Wave*, Aug 2026](https://open.spotify.com/episode/5cVwqFnBxM9xYIskCHHuDt) (full transcript rechecked); [MetaChemistry E148 opposing Next Wave](https://open.spotify.com/episode/3X6yHHjjJNYmZVO8qltsUZ) and [existing guide](next-wave.md); [N5.3 roster](../../sectorials/combined-army/next-wave.md).
 
 **Near-must / genuine speaker defaults**
 - **Pandora 24–29/.5** — **Direct strongest:** Shepherd expressly says he puts her in **every Next Wave list**, praises durable Zero Pain defensive hacking, specialist capability, and Fireteam Master. In an army with thin affordable hacking, multiple roles in one piece matter more than the raw weapon. **Not unconditional:** list/mission exceptions and the desired MediKit/CoC/Pitcher are **different actual loadouts**.
@@ -144,7 +144,7 @@
 
 ## Worst-value, circumstantial and proxy-first miniature purchases by army (2026-10-30)
 
-**Question:** For **Vanilla Combined Army, Morat Aggression Forces, Shasvastii Expeditionary Force, Onyx Contact Force and Next Wave**, which are the **weakest everyday picks**, most specialized rarely *needed* purchases, or **good units better represented by a proxy before buying an extra miniature**? An **AVA maximum is not a shopping target**. “Rare/circumstantial” below is a *qualitative estimate of how often a particular job arises in the reviewed list plans*, **not a measured tournament pick rate**. The current [N5.3 roster files](../../sectorials/combined-army/) (Army data 3 September 2026) take priority over earlier recordings for exact variants, base/silhouette, unit access and Fireteams.
+**Question:** For **Vanilla Combined Army, Morat Aggression Forces, Shasvastii Expeditionary Force, Onyx Contact Force and Next Wave**, which are the **weakest everyday picks**, most specialized rarely *needed* purchases, or **good units better represented by a proxy before buying an extra miniature**? An **AVA maximum is not a shopping target**. “Rare/circumstantial” below is a *qualitative estimate of how often a particular job arises in the reviewed list plans*, **not a measured tournament pick rate**. The current [N5.3 roster files](../../sectorials/combined-army) (Army data 3 September 2026) take priority over earlier recordings for exact variants, base/silhouette, unit access and Fireteams.
 
 **Decision labels:** **Defer/skip as a default dedicated miniature** = an explicit reviewer's negative judgment on that *usual role*, with exceptions explained. **Proxy first** = a specialized yet legitimate **inferred purchase priority**, *not* an invented direct quotation. **Avoid profile, NOT unit** = the named loadout/Fireteam plan is poor but other choices are strong. **Proxy the extra** = first copy or alternative sculpt may be a normal good purchase, but redundant physical duplicates need demonstrated simultaneous use. **Contested** = dated contrary opinions, successful tournament use or a distinct current-profile benefit make a universal “worst” label dishonest. **No verified complete-unit all-profile hard ban exists** in the present evidence.
 

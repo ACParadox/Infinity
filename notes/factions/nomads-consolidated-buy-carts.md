@@ -2,7 +2,7 @@
 
 **CURRENT SHOPPING STATUS — 2026-10-31:** **Corregidor is explicitly skipped/deferred** and its standalone **CAD $197.93** core below is a saved hypothetical **not an active purchase recommendation**. **Tunguska CAD $152.78 or Bakunin CAD $175.63** are later **alternatives**, not automatic purchases or overlapping live orders; Vanilla Nomads CAD $158.14 is also a research option. Any four-army combined cart below exists for comparison only and **must not be counted as selected spending**. Current first purchases are [Vanilla PanO+Ariadna and incremental Neoterra/Kosmoflot](pano-ariadna-active-purchase-plan.md). Generic robot proxy policy retained; no Nomads miniatures marked owned.
 
-**Prepared 2026-10-30; authored against latest `main`.** Covers **all four standard Nomads armies** currently pinned in this repo: [Vanilla Nomads](vanilla-nomads-buy-list.md) (**53** standard unit entries), [Corregidor](corregidor-buy-list.md) (**40**), [Bakunin](bakunin-buy-list.md) (**48**), [Tunguska](tunguska-buy-list.md) (**44**). Rules and correct unit identities are from [Nomads](../../sectorials/nomads/nomads.md), [Corregidor](../../sectorials/nomads/corregidor.md), [Bakunin](../../sectorials/nomads/bakunin.md) and [Tunguska](../../sectorials/nomads/tunguska.md), all **N5.3** (Army revision `7.26246.158`, pinned 2026-10-15). The existing full 53/40/48/44-row audits in the individual files remain the **unit-by-unit buy/proxy/skip source of truth**, including rare entries not itemized here. Current user inventory references in those files and [global proxy rules](../miniature-proxy-guidelines.md) control ownership and silhouette.
+**Prepared 2026-10-30; authored against latest `main`.** Covers **all four standard Nomads armies** currently pinned in this repo: [Vanilla Nomads](buy-lists/vanilla-nomads-buy-list.md) (**53** standard unit entries), [Corregidor](buy-lists/corregidor-buy-list.md) (**40**), [Bakunin](buy-lists/bakunin-buy-list.md) (**48**), [Tunguska](buy-lists/tunguska-buy-list.md) (**44**). Rules and correct unit identities are from [Nomads](../../sectorials/nomads/nomads.md), [Corregidor](../../sectorials/nomads/corregidor.md), [Bakunin](../../sectorials/nomads/bakunin.md) and [Tunguska](../../sectorials/nomads/tunguska.md), all **N5.3** (Army revision `7.26246.158`, pinned 2026-10-15). The existing full 53/40/48/44-row audits in the individual files remain the **unit-by-unit buy/proxy/skip source of truth**, including rare entries not itemized here. Current user inventory references in those files and [global proxy rules](../miniature-proxy-guidelines.md) control ownership and silhouette.
 
 **User's collection-completion policy, applied:**
 - Aim for **at least one physical representation of each practical/useful roster identity**, with **more when units benefit from simultaneously fielding several**: for example, 2 Morlocks in Vanilla and up to 4 available for Bakunin, 2 Corregidor Morans, 2 Bakunin Zeros, 2 Wildcats, 2 Evaders, 3 Riot Grrls, 2 Moderators and enough Securitate for realistic Fireteams. The actual bodies are itemized below, not inferred from Army AVA.
@@ -16,10 +16,10 @@
 
 | Army | Recommended core (CAD) | Optional lines added (CAD) | Core + all listed optional lines (CAD) | Full roster audit |
 |---|---:|---:|---:|---|
-| **Vanilla Nomads** | **$158.14** | +$139.13 | **$297.27** | [Vanilla buy list](vanilla-nomads-buy-list.md) |
-| **Corregidor** | **$197.93** | +$96.97 | **$294.90** | [Corregidor buy list](corregidor-buy-list.md) |
-| **Bakunin** | **$175.63** | +$90.40 | **$266.03** | [Bakunin buy list](bakunin-buy-list.md) |
-| **Tunguska** | **$152.78** | +$148.93 | **$301.71** | [Tunguska buy list](tunguska-buy-list.md) |
+| **Vanilla Nomads** | **$158.14** | +$139.13 | **$297.27** | [Vanilla buy list](buy-lists/vanilla-nomads-buy-list.md) |
+| **Corregidor** | **$197.93** | +$96.97 | **$294.90** | [Corregidor buy list](buy-lists/corregidor-buy-list.md) |
+| **Bakunin** | **$175.63** | +$90.40 | **$266.03** | [Bakunin buy list](buy-lists/bakunin-buy-list.md) |
+| **Tunguska** | **$152.78** | +$148.93 | **$301.71** | [Tunguska buy list](buy-lists/tunguska-buy-list.md) |
 | **Independent core-basket total** | **$684.48** | — | — | **Double-counts Essentials, Zeros, Moran pair and Jazz/Billie** |
 
 Individual optional totals are deliberately **not additive** to the all-army cart. For example, *Vanilla's optional* Crimson Stone and Puppetactica are **already in Corregidor/Tunguska core**, and the exact same box should be purchased only once.

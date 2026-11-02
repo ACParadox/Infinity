@@ -3,7 +3,7 @@
 **Current selected shopping cart (2026-10-31):** [Active PanO/Ariadna purchase plan](pano-ariadna-active-purchase-plan.md): **PanO CAD $172.34** (Swiss via Essentials Booster Alpha, Cutter, Reinforcements Alpha, Helots and Karhu); Ariadna CAD $99.42; cross-faction CAD $271.76. **User explicitly selected Blade-Ops and Blocker figures included in Reinforcements Alpha**, overriding previous skip preferences. The broad NCA+SAA targeted cart below is a **historical hypothetical**, not the current selected order. Existing owned inventory unchanged.
 
 
-**Prepared 2026-10-30.** Covers Vanilla PanOceania and the six PanO sectorials, based on the [current roster references](../../sectorials/panoceania/), existing [inventory](../../inventory/), and recorded retailer prices. Detailed per-sectorial documents remain authoritative for unit-level reasons, edition warnings and proxies.
+**Prepared 2026-10-30.** Covers Vanilla PanOceania and the six PanO sectorials, based on the [current roster references](../../sectorials/panoceania), existing [inventory](../../inventory), and recorded retailer prices. Detailed per-sectorial documents remain authoritative for unit-level reasons, edition warnings and proxies.
 
 **Method:** For Vanilla, NCA, Acontecimento, WinterFor and Varuna, retain the existing buy/proxy plans. **Kestrel and Military Orders are now proxy-only with $0 required and $0 planned optional purchases**; any missing bodies or desired multiples are represented with suitable existing miniatures or omitted from a particular list. Do not buy generic PanO Dronbots, Armbots or Mulebots; use existing models or matching robot proxies. The prices below are **before tax, shipping, currency-card charges and customs/brokerage**.
 
@@ -43,13 +43,13 @@
 
 | Army | Core buys CAD | All separately priced optional extras included CAD | Individual buy list |
 |---|---:|---:|---|
-| Vanilla PanOceania | **$95.02** | $178.63 | [Vanilla PanO](vanilla-pano-buy-list.md) |
-| Kestrel Colonial Force — proxy-only | **$0.00** | $0.00 | [Kestrel](kestrel-buy-list.md) |
-| Military Orders — proxy-only | **$0.00** | $0.00 | [Military Orders](military-orders-buy-list.md) |
-| Neoterran Capitaline Army | **$90.83** | $112.51 | [NCA](nca-buy-list.md) |
-| Shock Army of Acontecimento | **$48.95** | $111.77 | [Acontecimento](acontecimento-buy-list.md) |
-| Svalarheima's Winter Force | **$96.90** | $186.89 | [WinterFor](svalarheima-winter-force-buy-list.md) |
-| Varuna Immediate Reaction Division | **$64.89** | $141.37 | [Varuna](varuna-buy-list.md) |
+| Vanilla PanOceania | **$95.02** | $178.63 | [Vanilla PanO](buy-lists/vanilla-pano-buy-list.md) |
+| Kestrel Colonial Force — proxy-only | **$0.00** | $0.00 | [Kestrel](buy-lists/kestrel-buy-list.md) |
+| Military Orders — proxy-only | **$0.00** | $0.00 | [Military Orders](buy-lists/military-orders-buy-list.md) |
+| Neoterran Capitaline Army | **$90.83** | $112.51 | [NCA](buy-lists/nca-buy-list.md) |
+| Shock Army of Acontecimento | **$48.95** | $111.77 | [Acontecimento](buy-lists/acontecimento-buy-list.md) |
+| Svalarheima's Winter Force | **$96.90** | $186.89 | [WinterFor](buy-lists/svalarheima-winter-force-buy-list.md) |
+| Varuna Immediate Reaction Division | **$64.89** | $141.37 | [Varuna](buy-lists/varuna-buy-list.md) |
 | **Sum of separate core baskets** | **$396.59** | — | **Double-counts some shared purchases among other PanO armies; Kestrel/MO buy nothing** |
 
 These are independent sectorial cases, not amounts to add when completing every PanO army. For example, the same Karhu pack covers Vanilla and SWF. Reinforcements Beta remains in NCA's core for its ORC/Shona; the included Quinn can be reused for Kestrel, but **Kestrel itself requires no purchase**.

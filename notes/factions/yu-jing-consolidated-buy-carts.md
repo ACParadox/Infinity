@@ -1,6 +1,6 @@
 # Yu Jing — consolidated collection-completion buy carts (N5.3)
 
-**Prepared 2026-10-30.** Scope: [Vanilla Yu Jing](vanilla-yu-jing-buy-list.md), [Invincible Army](invincible-army-buy-list.md), [Imperial Service](imperial-service-buy-list.md), [White Banner](white-banner-buy-list.md) — **all four current Yu Jing armies** in this repository. This consolidates the four pre-existing, detailed full-roster buy/proxy/skip audits and newly added priced completion plans. Canonical [Yu Jing army references](../../sectorials/yu-jing/) were pinned to N5.3 Army `7.26246.158` (verified 2026-10-15); Vanilla membership is current but some individual full loadout projections are flagged *partial*. This is a **purchase plan**, not an inventory record.
+**Prepared 2026-10-30.** Scope: [Vanilla Yu Jing](buy-lists/vanilla-yu-jing-buy-list.md), [Invincible Army](buy-lists/invincible-army-buy-list.md), [Imperial Service](buy-lists/imperial-service-buy-list.md), [White Banner](buy-lists/white-banner-buy-list.md) — **all four current Yu Jing armies** in this repository. This consolidates the four pre-existing, detailed full-roster buy/proxy/skip audits and newly added priced completion plans. Canonical [Yu Jing army references](../../sectorials/yu-jing) were pinned to N5.3 Army `7.26246.158` (verified 2026-10-15); Vanilla membership is current but some individual full loadout projections are flagged *partial*. This is a **purchase plan**, not an inventory record.
 
 **Policy:** Aim at least one usable physical representation of worthwhile units, and more than one **only when repeated bodies make sense** (e.g. 3 Zúyǒng, 2–3 Shàng Jí, 3 Wú Míng, 2 Bào, 2 Gūdǎn, 2 Shaolin, 4 Kuang Shi, 2 Hwarang/Sulyong). Use correctly sized **non-roster donor proxies** for other rarely used or expensive/OOP units, and do not buy entire rarely used unit identities just to finish a spreadsheet. Do not buy four separate families of standard Yu Jing Yáokòng remotes or baggage remotes when the owned ordinary PanO robots can proxy: the **physical chassis pool is shared**, not four of each named robot.
 
@@ -10,10 +10,10 @@
 
 | Army | Core to buy CAD | Extras if **all** separately priced options taken | Core + options CAD | Detailed unit-by-unit plan |
 |---|---:|---:|---:|---|
-| Vanilla Yu Jing (55 standard unit entries) | **$245.00** | +$138.72 | $383.72 | [Vanilla](vanilla-yu-jing-buy-list.md) |
-| Invincible Army (34) | **$211.37** | +$92.31 | $303.68 | [IA](invincible-army-buy-list.md) |
-| Imperial Service (43) | **$251.29** | +$82.94 | $334.23 | [ISS](imperial-service-buy-list.md) |
-| White Banner (46) | **$201.27** | +$157.18 | $358.45 | [White Banner](white-banner-buy-list.md) |
+| Vanilla Yu Jing (55 standard unit entries) | **$245.00** | +$138.72 | $383.72 | [Vanilla](buy-lists/vanilla-yu-jing-buy-list.md) |
+| Invincible Army (34) | **$211.37** | +$92.31 | $303.68 | [IA](buy-lists/invincible-army-buy-list.md) |
+| Imperial Service (43) | **$251.29** | +$82.94 | $334.23 | [ISS](buy-lists/imperial-service-buy-list.md) |
+| White Banner (46) | **$201.27** | +$157.18 | $358.45 | [White Banner](buy-lists/white-banner-buy-list.md) |
 | **Sum if each core basket bought independently** | **$908.93** | — | — | **Overcounts many shared box purchases** |
 
 These totals do **not** imply a dedicated model for every item on the Army roster, maximum AVA, or every weapon variant. The per-sectorial 55/34/43/46-row audits mark which items are practical proxies, skips, and already owned. They also distinguish uncommon unique physical types that cannot be credibly represented with ordinary humans or robots.

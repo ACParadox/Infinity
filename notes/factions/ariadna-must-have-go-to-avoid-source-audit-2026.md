@@ -1,6 +1,6 @@
 # Ariadna — Vanilla, USAriadna, TAK, Kosmoflot, Caledonia, FRRM: Must-have / Go-to / Avoid
 
-*Source-backed list-building audit — 23 October 2026. Covers all six standard Ariadna armies under **N5.3** using the current repository [sectorial references](../../sectorials/ariadna/) (Army `7.26246.158`, data dated 3 September 2026; verified 15 October 2026). Video/podcast views are **named-player tactical opinions and example army lists**, not measured tournament pick rates. The latest `main` roster, AVA, profiles and canonical Fireteam chart control over recordings, especially those predating the October 2025 balance update.*
+*Source-backed list-building audit — 23 October 2026. Covers all six standard Ariadna armies under **N5.3** using the current repository [sectorial references](../../sectorials/ariadna) (Army `7.26246.158`, data dated 3 September 2026; verified 15 October 2026). Video/podcast views are **named-player tactical opinions and example army lists**, not measured tournament pick rates. The latest `main` roster, AVA, profiles and canonical Fireteam chart control over recordings, especially those predating the October 2025 balance update.*
 
 **Companion guides:** [Vanilla](vanilla-ariadna.md) · [USAriadna](usariadna.md) · [Kosmoflot](kosmoflot.md) · [Caledonia](caledonia.md) · [FRRM](merovingienne.md). TAK currently relies on its [current sectorial reference](../../sectorials/ariadna/tartary-army-corps.md) and the recordings listed below.
 
@@ -235,7 +235,7 @@ The old avoid section mostly rates **profiles, pairings and list architecture**,
 
 ## Worst, uncommon and proxy-first purchases by sectorial (2026-10-30)
 
-**Scope and confidence.** This answers a different question from the unit-role tables above: **“Which whole miniature can I skip buying, which uncommon specialist should I proxy until I actually use it, and which *bad profile* should I avoid without rejecting its whole unit?”** An **AVA limit is not a shopping target**. Video/podcast reviews are **opinion and illustrative lists, not tournament selection-frequency data**; “uncommon” means **not a normal first purchase in these reviewed builds**, not measured rare usage. The latest [N5.3 roster](../../sectorials/ariadna/) and its **Fireteam, silhouette, peripherals and availability** rules override old recordings.
+**Scope and confidence.** This answers a different question from the unit-role tables above: **“Which whole miniature can I skip buying, which uncommon specialist should I proxy until I actually use it, and which *bad profile* should I avoid without rejecting its whole unit?”** An **AVA limit is not a shopping target**. Video/podcast reviews are **opinion and illustrative lists, not tournament selection-frequency data**; “uncommon” means **not a normal first purchase in these reviewed builds**, not measured rare usage. The latest [N5.3 roster](../../sectorials/ariadna) and its **Fireteam, silhouette, peripherals and availability** rules override old recordings.
 
 **Buying labels:**
 - **Skip by default; proxy if needed:** the **normal whole-model job** has explicit negative commentary or an unusually weak price/role comparison. The exception is recorded; **no Ariadna model is proven mathematically useless in every scenario**.

@@ -2,7 +2,7 @@
 
 **Inventory as of:** 2026-10-30 (user-reported)  
 **Rules source:** [Military Orders N5.3 roster](../sectorials/panoceania/military-orders.md), Army `7.26246.158` (source verified 2026-10-15).  
-**Cross-sectorial physical inventory:** [Kestrel](./kestrel.md). Reused models are the **same physical miniatures**, not an extra set.
+**Cross-sectorial physical inventory:** [Kestrel](kestrel.md). Reused models are the **same physical miniatures**, not an extra set.
 
 ## Summary
 
@@ -112,6 +112,6 @@ The reference indexes **Joan of Arc (ID 20)** and **Joan of Arc v2 / Mobility Ar
 
 ## Related references
 
-- [Kestrel physical inventory](./kestrel.md) — shared PanO REM/TAG bodies and the single Crabbot; Sharvara K9 is 0.
+- [Kestrel physical inventory](kestrel.md) — shared PanO REM/TAG bodies and the single Crabbot; Sharvara K9 is 0.
 - [Military Orders current reference](../sectorials/panoceania/military-orders.md) — 36 source roster entries, AVA and canonical Fireteam limits.
 - [PanO must-have / go-to / avoid research](../notes/factions/panoceania-must-have-go-to-avoid-transcript-evidence.md) — source-backed purchase prioritization, not a requirement to fill AVA.

@@ -1,6 +1,6 @@
 # O-12 — consolidated Vanilla, Starmada and Torchlight Brigade buy carts (Infinity N5.3)
 
-**Prepared 2026-10-30 from authoritative `main`.** All **three** current O-12 armies: [Vanilla O-12](vanilla-o-12-buy-list.md) (**49 current standard unit entries**), [Starmada](starmada-buy-list.md) (**44**), [Torchlight Brigade](torchlight-brigade-buy-list.md) (**38**). Rules legality follows pinned [Vanilla](../../sectorials/o-12/o-12.md), [Starmada](../../sectorials/o-12/starmada.md) and [Torchlight](../../sectorials/o-12/torchlight-brigade.md) N5.3 reference (Infinity Army `7.26246.159`, verified 2026-10-15); the existing *full unit-by-unit buy/proxy/skip audits* in the three individual files remain intact. This document is a **proposed shopping plan, not an owned-inventory update**.
+**Prepared 2026-10-30 from authoritative `main`.** All **three** current O-12 armies: [Vanilla O-12](buy-lists/vanilla-o-12-buy-list.md) (**49 current standard unit entries**), [Starmada](buy-lists/starmada-buy-list.md) (**44**), [Torchlight Brigade](buy-lists/torchlight-brigade-buy-list.md) (**38**). Rules legality follows pinned [Vanilla](../../sectorials/o-12/o-12.md), [Starmada](../../sectorials/o-12/starmada.md) and [Torchlight](../../sectorials/o-12/torchlight-brigade.md) N5.3 reference (Infinity Army `7.26246.159`, verified 2026-10-15); the existing *full unit-by-unit buy/proxy/skip audits* in the three individual files remain intact. This document is a **proposed shopping plan, not an owned-inventory update**.
 
 **Actual ownership already applied:** **Warcor x1** and **two S1 Yudbots** are shared. **Starmada:** **Hector 1, Andromeda 1**, **Knights of Santiago 2** owned (but **Starmada AVA1** for Santiago, do not field two simultaneously). **Torchlight:** **Beasthunter 1** is owned. No full dedicated O-12 force, Moonrakers, Ment Agents, Betatroopers, Silverstar Rovers or Lambda infantry reported. The owned **Caledonia McMurrough S6** can test **Ioann Bann** when free and visually/size matched, not an exact owned O-12 character. Other people in other factions aren't automatically legal O-12 even if their model silhouette is useful for a proxy.
 
@@ -8,9 +8,9 @@
 
 | Army | Core CAD | Optional additional CAD | Core + all listed options CAD | Full unit-by-unit plan |
 |---|---:|---:|---:|---|
-| **Vanilla O-12** | **$320.89** | +$124.75 | **$445.64** | [Vanilla shopping list](vanilla-o-12-buy-list.md) |
-| **Starmada** | **$301.44** | +$185.00 | **$486.44** | [Starmada shopping list](starmada-buy-list.md) |
-| **Torchlight Brigade** | **$259.63** | +$70.87 | **$330.50** | [Torchlight shopping list](torchlight-brigade-buy-list.md) |
+| **Vanilla O-12** | **$320.89** | +$124.75 | **$445.64** | [Vanilla shopping list](buy-lists/vanilla-o-12-buy-list.md) |
+| **Starmada** | **$301.44** | +$185.00 | **$486.44** | [Starmada shopping list](buy-lists/starmada-buy-list.md) |
+| **Torchlight Brigade** | **$259.63** | +$70.87 | **$330.50** | [Torchlight shopping list](buy-lists/torchlight-brigade-buy-list.md) |
 | **Independent core sum** | **$881.96** | — | — | **Double-counts Reinforcements Alpha, Varangian, Cyberghost, Raveneye, Tinker and Torchlight Beta**, *and* some figures inside different boxes |
 
 **What “core” means:** enough **useful/recurring model identities and meaningful multiple bodies**, not buying every 49/44/38 standard troop entry or all AVA. Reuse named already-owned characters, avoid limited-edition alternate sculpts and weak rarely played characters, proxy human-style generic remotes and baggage. At least **3 Kappas, 2 Moonrakers, 3 Silverstar Rovers, 2 Hellblazers, 2 Kludgers, 2 Vidocq and several distinct heavy attackers** are in the planned physical pool when all three are considered; extra over-AVA sculpts are proxy donors or different-force poses, not independent troops in one list.

@@ -18,7 +18,7 @@
 
 | User collection | Model | Owned | Roster / ownership clarification |
 |---|---|---:|---|
-| OSS / ALEPH | **Asura** | **1** | Asuras are in the [OSS roster](../sectorials/aleph/operations-subsection.md). The earlier Asura-for-Dart suggestion in [Kestrel](./kestrel.md) and [Military Orders](./military-orders.md) was **superseded**: Asura is HI whereas Dart is SK. **Owned Naga (S2 SK)** is a much closer match. Dart dedicated model remains 0. |
+| OSS / ALEPH | **Asura** | **1** | Asuras are in the [OSS roster](../sectorials/aleph/operations-subsection.md). The earlier Asura-for-Dart suggestion in [Kestrel](kestrel.md) and [Military Orders](military-orders.md) was **superseded**: Asura is HI whereas Dart is SK. **Owned Naga (S2 SK)** is a much closer match. Dart dedicated model remains 0. |
 | OSS / ALEPH | **Naga** | **1** | Listed as **Nagas** in [OSS](../sectorials/aleph/operations-subsection.md). |
 | OSS / ALEPH | **Trisha N33** | **1** | The user's OSS/ALEPH collection label is preserved, but **Trisha N33 appears in the [Vanilla ALEPH roster](../sectorials/aleph/aleph.md), not the pinned current OSS roster**. Owning her does not make her a legal ordinary OSS selection. |
 | OSS / ALEPH | **Garuda Tacbot** | **1** | Listed as **Garuda Tacbots** in [OSS](../sectorials/aleph/operations-subsection.md). |
@@ -38,12 +38,12 @@
 
 | Inventory | New physical miniatures added to collection by that file | Cumulative distinct models |
 |---|---:|---:|
-| [Kestrel](./kestrel.md) | 48 | 48 |
-| [Military Orders](./military-orders.md) | 31 | 79 |
-| [Steel Phalanx](./steel-phalanx.md) | 37 | 116 |
-| [Shindenbutai](./shindenbutai.md) | 21 | 137 |
-| [TAK](./tak.md) | 39 | 176 |
-| [Caledonia](./caledonia.md) | 19 | 195 |
+| [Kestrel](kestrel.md) | 48 | 48 |
+| [Military Orders](military-orders.md) | 31 | 79 |
+| [Steel Phalanx](steel-phalanx.md) | 37 | 116 |
+| [Shindenbutai](shindenbutai.md) | 21 | 137 |
+| [TAK](tak.md) | 39 | 176 |
+| [Caledonia](caledonia.md) | 19 | 195 |
 | **Other miniatures (this file)** | **7** | **202** |
 
 These figures are **distinct physical models**, not sums of each army's usable bodies after including cross-sectorial proxies. For example, Kestrel's Warcor, TAK's Beasthunter and S5 dog proxies are each only counted in their original entry even if several sectorials reuse them. Earlier inventory files' cumulative totals are snapshots up to their creation and therefore do not include this later miscellaneous addition.
@@ -54,4 +54,4 @@ These figures are **distinct physical models**, not sums of each army's usable b
 - [Vanilla ALEPH current unit reference](../sectorials/aleph/aleph.md)
 - [Vanilla Combined Army roster](../sectorials/combined-army/vanilla-combined-army.md)
 - [Vanilla PanOceania roster](../sectorials/panoceania/panoceania.md)
-- [Kestrel inventory](./kestrel.md) — corrected Naga proxy recommendation for Dart
+- [Kestrel inventory](kestrel.md) — corrected Naga proxy recommendation for Dart

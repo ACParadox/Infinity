@@ -2,7 +2,7 @@
 
 **Inventory date:** 2026-10-30 (user-reported).  
 **Roster reference:** [Current N5.3 Caledonian Highlander Army](../sectorials/ariadna/caledonian-highlander-army.md), Army version `7.26246.158` (verified 2026-10-15).  
-**Existing physical collection:** [TAK](./tak.md), [Kestrel](./kestrel.md), [Military Orders](./military-orders.md), [Steel Phalanx](./steel-phalanx.md), [Shindenbutai](./shindenbutai.md).
+**Existing physical collection:** [TAK](tak.md), [Kestrel](kestrel.md), [Military Orders](military-orders.md), [Steel Phalanx](steel-phalanx.md), [Shindenbutai](shindenbutai.md).
 
 ## Summary
 
@@ -115,8 +115,8 @@ For **Scots Guards**, Fireteam access in the pinned current roster is **FTO-prof
 
 - [Caledonia N5.3 source roster and Fireteams](../sectorials/ariadna/caledonian-highlander-army.md)
 - [Ariadna list-building / must-have-go-to-avoid evidence](../notes/factions/ariadna-must-have-go-to-avoid-source-audit-2026.md)
-- [TAK inventory — shared chassis, S6 Dog-Warriors and S5 dog proxy pool](./tak.md)
-- [Kestrel inventory](./kestrel.md)
-- [Military Orders inventory](./military-orders.md)
-- [Steel Phalanx inventory](./steel-phalanx.md)
-- [Shindenbutai inventory](./shindenbutai.md)
+- [TAK inventory — shared chassis, S6 Dog-Warriors and S5 dog proxy pool](tak.md)
+- [Kestrel inventory](kestrel.md)
+- [Military Orders inventory](military-orders.md)
+- [Steel Phalanx inventory](steel-phalanx.md)
+- [Shindenbutai inventory](shindenbutai.md)

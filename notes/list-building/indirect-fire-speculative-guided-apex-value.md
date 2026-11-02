@@ -1,6 +1,6 @@
 # Indirect Fire — Speculative Attack and Spotlight → Guided (N5.3 Apex and Value)
 
-_Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixed damage-per-Order odds.** The latest committed [N5.3 sectorial references](../../sectorials/) are authoritative for points/SWC, weapon mode, eligibility and Fireteams. This guide ranks **actual indirect attacks plus the whole enabling package**; media commentary (some pre-N5.3) is evidence for play patterns, not rules. [Speculative-fire strategy](speculative-fire.md) · [network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hackers/Spotlight](hackers-and-killer-hackers.md) · [REMs](rems.md)._
+_Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixed damage-per-Order odds.** The latest committed [N5.3 sectorial references](../../sectorials) are authoritative for points/SWC, weapon mode, eligibility and Fireteams. This guide ranks **actual indirect attacks plus the whole enabling package**; media commentary (some pre-N5.3) is evidence for play patterns, not rules. [Speculative-fire strategy](speculative-fire.md) · [network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hackers/Spotlight](hackers-and-killer-hackers.md) · [REMs](rems.md)._
 
 ## The short verdict
 

@@ -3,7 +3,7 @@
 **Current selected shopping cart (2026-10-31):** [Active PanO/Ariadna purchase plan](pano-ariadna-active-purchase-plan.md): **Ariadna CAD $99.42** for Mirage-5, Van Zant, Chernobog, **Beyond** Crimson Stone Ariadna three (Wallace + Scots Guard + Kosmosoldat), and **Chasseur**; **no Unknown Ranger**. With selected PanO CAD $172.34, combined CAD $271.76. The four-army completion cart below is a broader alternative, **not** the current selected order. No purchases marked owned.
 
 
-**Prepared October 30, 2026.** **Included:** [Vanilla Ariadna](vanilla-ariadna-buy-list.md), [Tartary Army Corps / TAK](tak-buy-list.md), [Caledonian Highlander Army](caledonia-buy-list.md) and [Kosmoflot](kosmoflot-buy-list.md). **Explicitly excluded:** Merovingian Rapid Response Force and USAriadna sectorial completion carts. A normal Ariadna troop such as Chasseur may still be **Vanilla-legal**, despite originally being associated with an excluded sectorial: use the [pinned N5.3 sectorial references](../../sectorials/ariadna/) for actual legal memberships. All four full standard-roster purchase audits already exist in the individual files and remain the unit-by-unit authority.
+**Prepared October 30, 2026.** **Included:** [Vanilla Ariadna](buy-lists/vanilla-ariadna-buy-list.md), [Tartary Army Corps / TAK](buy-lists/tak-buy-list.md), [Caledonian Highlander Army](buy-lists/caledonia-buy-list.md) and [Kosmoflot](buy-lists/kosmoflot-buy-list.md). **Explicitly excluded:** Merovingian Rapid Response Force and USAriadna sectorial completion carts. A normal Ariadna troop such as Chasseur may still be **Vanilla-legal**, despite originally being associated with an excluded sectorial: use the [pinned N5.3 sectorial references](../../sectorials/ariadna) for actual legal memberships. All four full standard-roster purchase audits already exist in the individual files and remain the unit-by-unit authority.
 
 **Buying policy:** Have one real sculpt for useful missing and hard-to-proxy unit identities, with sensible extra counts for units actually fielded together; do **not** buy to maximum AVA, duplicate owned units, collect low-use special characters, chase OOP and limited sculpts at high prices, or buy routine ordinary-looking REMs and baggage bots. Correct silhouette, class, peripherals and clearly identified different donor models still matter. Current collection already includes substantial TAK and Caledonia forces; **recommendations are not proof of additional inventory ownership**.
 
@@ -13,10 +13,10 @@
 
 | Army / current roster | Core CAD | Separately priced optional addition CAD | Core + those options CAD | Unit-by-unit source |
 |---|---:|---:|---:|---|
-| Vanilla Ariadna (**51** standard logical entries) | **$33.55** | +$41.82 | **$75.37** | [Vanilla](vanilla-ariadna-buy-list.md) |
-| Tartary Army Corps (**30**) | **$0.00** | +$61.26 | **$61.26** | [TAK](tak-buy-list.md) |
-| Caledonian Highlander Army (**23**) | **$38.18** | +$27.11 | **$65.29** | [Caledonia](caledonia-buy-list.md) |
-| Kosmoflot (**36**) | **$117.86** | +$110.09 | **$227.95** | [Kosmoflot](kosmoflot-buy-list.md) |
+| Vanilla Ariadna (**51** standard logical entries) | **$33.55** | +$41.82 | **$75.37** | [Vanilla](buy-lists/vanilla-ariadna-buy-list.md) |
+| Tartary Army Corps (**30**) | **$0.00** | +$61.26 | **$61.26** | [TAK](buy-lists/tak-buy-list.md) |
+| Caledonian Highlander Army (**23**) | **$38.18** | +$27.11 | **$65.29** | [Caledonia](buy-lists/caledonia-buy-list.md) |
+| Kosmoflot (**36**) | **$117.86** | +$110.09 | **$227.95** | [Kosmoflot](buy-lists/kosmoflot-buy-list.md) |
 | **Sum of separate cores** | **$189.59** | — | — | **Double-counts Beyond Crimson Stone and Mirage-5** |
 
 - **TAK's $0 core is intentional:** it already has 32 dedicated troopers, two shared Traktor/Kuryer chassis and suitable known proxy pools, including two Dynamos, two Dog-Warriors, two Scouts, three Tankhunters, two Spetsnaz, three Line Kazaks and more. No old TAK Action Pack, duplicated Konduktors/Barsuk, or expensive rare hero is justified as a mandatory purchase.

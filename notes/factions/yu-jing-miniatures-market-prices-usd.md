@@ -128,7 +128,7 @@ Descriptions in the following table are the **supplied seller excerpts**. Many a
 
 ## Applying these prices
 
-This file records prices only; it **does not change owned inventory** or assert purchase recommendations. When comparing sectorials or buying models, use [Yu Jing must-have/go-to/avoid reference](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), [existing faction buy lists](./), [sectorial roster references](../../sectorials/yu-jing/) and [proxy guidelines](../miniature-proxy-guidelines.md).
+This file records prices only; it **does not change owned inventory** or assert purchase recommendations. When comparing sectorials or buying models, use [Yu Jing must-have/go-to/avoid reference](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), [existing faction buy lists](), [sectorial roster references](../../sectorials/yu-jing) and [proxy guidelines](../miniature-proxy-guidelines.md).
 
 Other USD price snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md).
 

@@ -83,7 +83,7 @@ For **Neoterran Capitaline Army**, exclude **Blade-Ops and Blockers** from every
 
 The considered-acquired **one Bolt Paramedic** covers the **Neoterra Bolts unit identity** in a one-of-each unique-unit tally, but **does not fulfill the desired 2–4 physical Bolt bodies** for flexible Fireteams. Include **1–3 additional Bolts** as a distinct, high-priority *quantity requirement* in NCA buy lists. Do not silently mark all Bolt sculpts acquired or remove Bolts from the NCA purchase list simply because one Bolt profile is covered.
 
-Remaining usable uncovered NCA unit identities after excluding the three no-buy units and treating the earlier covered Kestrel units/proxies as met: **Auxilia, Hexas, Aquila Guard, Clausewitz Uhlan, CSU, Shona Carano, Hannibal, Captain Uma Sørensen, Deva Functionaries** — nine unit types, plus 1–3 additional Bolt bodies. Proxy candidates are described in `notes/factions/nca-buy-list.md`; the difference between needed unit type and additional bodies must be preserved.
+Remaining usable uncovered NCA unit identities after excluding the three no-buy units and treating the earlier covered Kestrel units/proxies as met: **Auxilia, Hexas, Aquila Guard, Clausewitz Uhlan, CSU, Shona Carano, Hannibal, Captain Uma Sørensen, Deva Functionaries** — nine unit types, plus 1–3 additional Bolt bodies. Proxy candidates are described in `notes/factions/buy-lists/nca-buy-list.md`; the difference between needed unit type and additional bodies must be preserved.
 
 ## Further scenario additions — 2026-10-31
 

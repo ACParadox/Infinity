@@ -2,7 +2,7 @@
 
 **Inventory as of:** 2026-10-30 (user-reported).  
 **Army/rules reference:** [Steel Phalanx N5.3 sectorial reference](../sectorials/aleph/steel-phalanx.md), Army revision `7.26246.159` (verified 2026-10-15).  
-**Physical shared-model baseline:** [Kestrel](./kestrel.md) and [Military Orders](./military-orders.md). These are the *same actual PanO miniatures* reused across sectorials, never additional copies.
+**Physical shared-model baseline:** [Kestrel](kestrel.md) and [Military Orders](military-orders.md). These are the *same actual PanO miniatures* reused across sectorials, never additional copies.
 
 ## Summary
 
@@ -107,7 +107,7 @@ You also have **1 dedicated Agêma** against **AVA 2**, with a **possible second
 
 ## Roster and accounting clarifications
 
-1. The **35 standard roster entries** are all present. **Warcor** and **Sāchā** were omitted from the user's new list, but inherited as 1 and 0 from [Kestrel](./kestrel.md).
+1. The **35 standard roster entries** are all present. **Warcor** and **Sāchā** were omitted from the user's new list, but inherited as 1 and 0 from [Kestrel](kestrel.md).
 2. The **K2 AVA discrepancy** is explicitly documented: user list says 1; pinned N5.3 Army reference says **2**.
 3. **Scylla** (1) is distinct from **Charybdis** (1). The Charybdis miniature is counted separately in the physical total; its model does not increase Scylla's AVA or roster-unit count.
 4. **Agamemnon** (1) is distinct from its Karkata ancillary model (0); a **Crabbot** proxy is already available in the shared PanO inventory.
@@ -119,4 +119,4 @@ You also have **1 dedicated Agêma** against **AVA 2**, with a **possible second
 
 - [Steel Phalanx N5.3 roster and Fireteam chart](../sectorials/aleph/steel-phalanx.md).
 - [Steel Phalanx list-building guide](../notes/factions/steel-phalanx.md).
-- [Kestrel miniature inventory](./kestrel.md) and [Military Orders miniature inventory](./military-orders.md), for previously owned and shared PanO models.
+- [Kestrel miniature inventory](kestrel.md) and [Military Orders miniature inventory](military-orders.md), for previously owned and shared PanO models.

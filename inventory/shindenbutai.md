@@ -2,7 +2,7 @@
 
 **Inventory date:** 2026-10-30 (user-reported).  
 **Rules/roster source:** [Shindenbutai N5.3 sectorial reference](../sectorials/jsa/shindenbutai.md), Army revision `7.26246.159`, verified 2026-10-16.  
-**Earlier collection records:** [Kestrel](./kestrel.md), [Military Orders](./military-orders.md), [Steel Phalanx](./steel-phalanx.md).
+**Earlier collection records:** [Kestrel](kestrel.md), [Military Orders](military-orders.md), [Steel Phalanx](steel-phalanx.md).
 
 ## Summary
 
@@ -137,6 +137,6 @@ The [Shindenbutai tactical guide](../notes/factions/shindenbutai.md) contains ro
 
 - [Current Shindenbutai roster, exact AVA and Fireteams](../sectorials/jsa/shindenbutai.md)
 - [Shindenbutai list-building analysis](../notes/factions/shindenbutai.md)
-- [Kestrel shared miniature inventory](./kestrel.md)
-- [Military Orders inventory](./military-orders.md)
-- [Steel Phalanx inventory](./steel-phalanx.md)
+- [Kestrel shared miniature inventory](kestrel.md)
+- [Military Orders inventory](military-orders.md)
+- [Steel Phalanx inventory](steel-phalanx.md)

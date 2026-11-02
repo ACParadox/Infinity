@@ -1,6 +1,6 @@
 # Force Multipliers — Special Buffs, Command Defences and Support Units (N5.3 Apex / Value)
 
-_Research 2026-10-23 • Editorial matchup/list-building tiers, **not measured win rates**. Actual prices, traits, SWC, Fireteam eligibility and the bracketed TAGCom bonuses follow current [N5.3 roster references](../../sectorials/) and [Sept 2026 FAQ](../../rules/README.md). A profile-specific support ability cannot be transplanted to its other variants or to another faction. Related: [command](command-units-apex-and-value.md), [Fireteams](fireteams-and-profile-evaluation.md), [REMs](rems.md), [network and TinBot](network-projection-repeaters-pitchers-apex-value.md), [G:Jumper and Cyberplug](rare-capabilities-and-unique-combinations-apex-value.md), [TAGs](tags.md), [Order economy](cheerleaders-and-order-generators.md)._
+_Research 2026-10-23 • Editorial matchup/list-building tiers, **not measured win rates**. Actual prices, traits, SWC, Fireteam eligibility and the bracketed TAGCom bonuses follow current [N5.3 roster references](../../sectorials) and [Sept 2026 FAQ](../../rules/README.md). A profile-specific support ability cannot be transplanted to its other variants or to another faction. Related: [command](command-units-apex-and-value.md), [Fireteams](fireteams-and-profile-evaluation.md), [REMs](rems.md), [network and TinBot](network-projection-repeaters-pitchers-apex-value.md), [G:Jumper and Cyberplug](rare-capabilities-and-unique-combinations-apex-value.md), [TAGs](tags.md), [Order economy](cheerleaders-and-order-generators.md)._
 
 ## 30-second verdict
 

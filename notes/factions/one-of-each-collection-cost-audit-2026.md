@@ -14,9 +14,9 @@
 
 | Sectorial | Roster / target | Priced subset from saved MM + UTZ (CAD) | Canadian fallback contribution (CAD) | Documented subtotal (CAD) | Unpriced identities preventing a full total |
 |---|---|---:|---:|---:|---|
-| [Tunguska](tunguska-buy-list.md) | 44 standard units; **35** after owned Warcor, six generic REM/servant/baggage exclusions, and two conditional model-budget Avoids | **$411.47** for 27 identities (old starter, Essentials, Puppetactica, Cheerkillers, Zondnautica and 16 other selected products) | **+$154.89**: Interventors $51.99, Szalamandra $67.95, Nomads Support Pack $34.95 (Clockmaker+Daktaris) | **$566.36** for 31 identities | **Rounders; Kulak; TAG-Treiber; Vostok** |
-| [Caledonia](caledonia-buy-list.md) | 23 standard identities; four absent dedicated: Wallace, Scots Guard, Denma, foot 112 | **$34.26** for Wallace + Scots Guard (MM Beyond Crimson Stone $25.59) and Denma (MM mercenary $8.67) | — | **$34.26** for three identities | **112 Emergency Service (foot)** |
-| [Military Orders](military-orders-buy-list.md) | 35 distinct identities; four absent dedicated: Curator, Hawkins, Konstantinos, Dart | **$30.77** for three MM singles: Curator $10.49, Hawkins $10.49, Konstantinos $9.79 | — | **$30.77** for three identities | **Dart** |
+| [Tunguska](buy-lists/tunguska-buy-list.md) | 44 standard units; **35** after owned Warcor, six generic REM/servant/baggage exclusions, and two conditional model-budget Avoids | **$411.47** for 27 identities (old starter, Essentials, Puppetactica, Cheerkillers, Zondnautica and 16 other selected products) | **+$154.89**: Interventors $51.99, Szalamandra $67.95, Nomads Support Pack $34.95 (Clockmaker+Daktaris) | **$566.36** for 31 identities | **Rounders; Kulak; TAG-Treiber; Vostok** |
+| [Caledonia](buy-lists/caledonia-buy-list.md) | 23 standard identities; four absent dedicated: Wallace, Scots Guard, Denma, foot 112 | **$34.26** for Wallace + Scots Guard (MM Beyond Crimson Stone $25.59) and Denma (MM mercenary $8.67) | — | **$34.26** for three identities | **112 Emergency Service (foot)** |
+| [Military Orders](buy-lists/military-orders-buy-list.md) | 35 distinct identities; four absent dedicated: Curator, Hawkins, Konstantinos, Dart | **$30.77** for three MM singles: Curator $10.49, Hawkins $10.49, Konstantinos $9.79 | — | **$30.77** for three identities | **Dart** |
 
 **Tunguska qualification:** Triggermen and Go-Pod are counted here as the two *purchase-budget Avoids* due to documented negative default-buy assessments, not as illegal units or universally bad profiles. If the intended Avoid definition is strictly *whole-unit never-take only*, both should be reinstated, using archived UTZ CAD $19.72 and $33.98 respectively. Vostok may be **played** with an S4 Peacemaker/Rui Shi proxy, but remains an absent named sculpt under this one-of-each *model collection* definition. The generic basic robots are excluded even if the owned figure is PanO/ALEPH. Support-pack, Interventor and Szalamandra Canadian quotes are catalogue snapshots, not guaranteed stock.
 
@@ -28,53 +28,53 @@
 
 The following entries require individual product/price coverage and an exact owned/avoid reconciliation before anyone can quote a complete one-of-each cost. An unchecked entry does **not** mean its earlier core basket is a complete roster buy.
 
-- [ ] [acontecimento](./acontecimento-buy-list.md)
-- [ ] [bakunin](./bakunin-buy-list.md)
-- [x] [caledonia](./caledonia-buy-list.md) — subset priced; at least one unit remains unpriced
-- [ ] [corregidor](./corregidor-buy-list.md)
-- [ ] [dahshat-company](./dahshat-company-buy-list.md)
-- [ ] [druze](./druze-buy-list.md)
-- [ ] [hassassin-bahram](./hassassin-bahram-buy-list.md)
-- [ ] [ikari-company](./ikari-company-buy-list.md)
-- [ ] [imperial-service](./imperial-service-buy-list.md)
-- [ ] [invincible-army](./invincible-army-buy-list.md)
-- [ ] [kestrel](./kestrel-buy-list.md)
-- [ ] [kosmoflot](./kosmoflot-buy-list.md)
-- [ ] [merovingienne](./merovingienne-buy-list.md)
-- [x] [military-orders](./military-orders-buy-list.md) — subset priced; at least one unit remains unpriced
-- [ ] [morat-aggression-forces](./morat-aggression-forces-buy-list.md)
-- [ ] [nca](./nca-buy-list.md)
-- [ ] [next-wave](./next-wave-buy-list.md)
-- [ ] [oban](./oban-buy-list.md)
-- [ ] [onyx](./onyx-buy-list.md)
-- [ ] [qapu-khalqi](./qapu-khalqi-buy-list.md)
-- [ ] [ramah-taskforce](./ramah-taskforce-buy-list.md)
-- [ ] [shasvastii](./shasvastii-buy-list.md)
-- [ ] [shindenbutai](./shindenbutai-buy-list.md)
-- [ ] [starco](./starco-buy-list.md)
-- [ ] [starmada](./starmada-buy-list.md)
-- [ ] [svalarheima-winter-force](./svalarheima-winter-force-buy-list.md)
-- [ ] [tak](./tak-buy-list.md)
-- [ ] [tohaa](./tohaa-buy-list.md)
-- [ ] [torchlight-brigade](./torchlight-brigade-buy-list.md)
-- [x] [tunguska](./tunguska-buy-list.md) — subset priced; at least one unit remains unpriced
-- [ ] [usariadna](./usariadna-buy-list.md)
-- [ ] [vanilla-ariadna](./vanilla-ariadna-buy-list.md)
-- [ ] [vanilla-combined-army](./vanilla-combined-army-buy-list.md)
-- [ ] [vanilla-haqqislam](./vanilla-haqqislam-buy-list.md)
-- [ ] [vanilla-jsa](./vanilla-jsa-buy-list.md)
-- [ ] [vanilla-nomads](./vanilla-nomads-buy-list.md)
-- [ ] [vanilla-o-12](./vanilla-o-12-buy-list.md)
-- [ ] [vanilla-pano](./vanilla-pano-buy-list.md)
-- [ ] [vanilla-yu-jing](./vanilla-yu-jing-buy-list.md)
-- [ ] [varuna](./varuna-buy-list.md)
-- [ ] [white-banner](./white-banner-buy-list.md)
-- [ ] [white-company](./white-company-buy-list.md)
+- [ ] [acontecimento](buy-lists/acontecimento-buy-list.md)
+- [ ] [bakunin](buy-lists/bakunin-buy-list.md)
+- [x] [caledonia](buy-lists/caledonia-buy-list.md) — subset priced; at least one unit remains unpriced
+- [ ] [corregidor](buy-lists/corregidor-buy-list.md)
+- [ ] [dahshat-company](buy-lists/dahshat-company-buy-list.md)
+- [ ] [druze](buy-lists/druze-buy-list.md)
+- [ ] [hassassin-bahram](buy-lists/hassassin-bahram-buy-list.md)
+- [ ] [ikari-company](buy-lists/ikari-company-buy-list.md)
+- [ ] [imperial-service](buy-lists/imperial-service-buy-list.md)
+- [ ] [invincible-army](buy-lists/invincible-army-buy-list.md)
+- [ ] [kestrel](buy-lists/kestrel-buy-list.md)
+- [ ] [kosmoflot](buy-lists/kosmoflot-buy-list.md)
+- [ ] [merovingienne](buy-lists/merovingienne-buy-list.md)
+- [x] [military-orders](buy-lists/military-orders-buy-list.md) — subset priced; at least one unit remains unpriced
+- [ ] [morat-aggression-forces](buy-lists/morat-aggression-forces-buy-list.md)
+- [ ] [nca](buy-lists/nca-buy-list.md)
+- [ ] [next-wave](buy-lists/next-wave-buy-list.md)
+- [ ] [oban](buy-lists/oban-buy-list.md)
+- [ ] [onyx](buy-lists/onyx-buy-list.md)
+- [ ] [qapu-khalqi](buy-lists/qapu-khalqi-buy-list.md)
+- [ ] [ramah-taskforce](buy-lists/ramah-taskforce-buy-list.md)
+- [ ] [shasvastii](buy-lists/shasvastii-buy-list.md)
+- [ ] [shindenbutai](buy-lists/shindenbutai-buy-list.md)
+- [ ] [starco](buy-lists/starco-buy-list.md)
+- [ ] [starmada](buy-lists/starmada-buy-list.md)
+- [ ] [svalarheima-winter-force](buy-lists/svalarheima-winter-force-buy-list.md)
+- [ ] [tak](buy-lists/tak-buy-list.md)
+- [ ] [tohaa](buy-lists/tohaa-buy-list.md)
+- [ ] [torchlight-brigade](buy-lists/torchlight-brigade-buy-list.md)
+- [x] [tunguska](buy-lists/tunguska-buy-list.md) — subset priced; at least one unit remains unpriced
+- [ ] [usariadna](buy-lists/usariadna-buy-list.md)
+- [ ] [vanilla-ariadna](buy-lists/vanilla-ariadna-buy-list.md)
+- [ ] [vanilla-combined-army](buy-lists/vanilla-combined-army-buy-list.md)
+- [ ] [vanilla-haqqislam](buy-lists/vanilla-haqqislam-buy-list.md)
+- [ ] [vanilla-jsa](buy-lists/vanilla-jsa-buy-list.md)
+- [ ] [vanilla-nomads](buy-lists/vanilla-nomads-buy-list.md)
+- [ ] [vanilla-o-12](buy-lists/vanilla-o-12-buy-list.md)
+- [ ] [vanilla-pano](buy-lists/vanilla-pano-buy-list.md)
+- [ ] [vanilla-yu-jing](buy-lists/vanilla-yu-jing-buy-list.md)
+- [ ] [varuna](buy-lists/varuna-buy-list.md)
+- [ ] [white-banner](buy-lists/white-banner-buy-list.md)
+- [ ] [white-company](buy-lists/white-company-buy-list.md)
 
 ## Source files
 
 - [Saved Miniatures Market faction price files](nomads-miniatures-market-prices-usd.md) and [saved Ultimate Toy Zone archive](ultimate-toy-zone-infinity-prices-usd.md); per-faction and mercenary price archives are linked from the individual buy lists.
-- [Recorded physical inventories](../../inventory/) and [proxy policy](../miniature-proxy-guidelines.md).
-- [Roster N5.3 source](../../sectorials/) and [tactical Avoid evidence](model-purchase-avoid-summary-2026.md).
+- [Recorded physical inventories](../../inventory) and [proxy policy](../miniature-proxy-guidelines.md).
+- [Roster N5.3 source](../../sectorials) and [tactical Avoid evidence](model-purchase-avoid-summary-2026.md).
 
 **Do not copy any partial subtotal above into a buy list as the final complete-collection cost.**

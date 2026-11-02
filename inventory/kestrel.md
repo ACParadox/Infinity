@@ -64,7 +64,7 @@
 | Sharvara K9 | **0** | Dart, Optimate Huntress — profile 4 (42 pts, 0.5 SWC) | No Sharvara miniature owned. Dart is also **0 owned** (Asura/OSS proxy suggested). |
 | Crabbot | **1** | TAG pilot/peripheral (model shared with Military Orders) | One physical Crabbot across the collection; not an independent roster unit. Also included in MO's shared-model accounting. |
 
-Dart's Sharvara K9 option is already listed in the [Kestrel reference](../sectorials/panoceania/kestrel-colonial-force.md#dart-optimate-huntress). No Sharvara miniature is currently owned. The single Crabbot is a separate physical miniature, shared with [Military Orders](./military-orders.md), and neither peripheral changes the 40-unit standard roster count.
+Dart's Sharvara K9 option is already listed in the [Kestrel reference](../sectorials/panoceania/kestrel-colonial-force.md#dart-optimate-huntress). No Sharvara miniature is currently owned. The single Crabbot is a separate physical miniature, shared with [Military Orders](military-orders.md), and neither peripheral changes the 40-unit standard roster count.
 
 ## Shared-REM accounting
 

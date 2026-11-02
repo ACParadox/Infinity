@@ -2,7 +2,7 @@
 
 **Inventory date:** 2026-10-30 (user-reported).  
 **Current rules reference:** [TAK sectorial N5.3 roster](../sectorials/ariadna/tartary-army-corps.md) — Army revision `7.26246.158`, verified 2026-10-15.  
-**Previously recorded physical miniatures:** [Kestrel](./kestrel.md), [Military Orders](./military-orders.md), [Steel Phalanx](./steel-phalanx.md), [Shindenbutai](./shindenbutai.md).
+**Previously recorded physical miniatures:** [Kestrel](kestrel.md), [Military Orders](military-orders.md), [Steel Phalanx](steel-phalanx.md), [Shindenbutai](shindenbutai.md).
 
 ## Summary
 
@@ -122,7 +122,7 @@ Other below-AVA units include Ratnik (1/3), Kazak Doktor (1/3), Dozer (1/2), and
 
 - [TAK N5.3 roster and canonical Fireteam data](../sectorials/ariadna/tartary-army-corps.md)
 - [Ariadna must-have / go-to / avoid source audit](../notes/factions/ariadna-must-have-go-to-avoid-source-audit-2026.md)
-- [Kestrel inventory](./kestrel.md)
-- [Military Orders inventory](./military-orders.md)
-- [Steel Phalanx inventory](./steel-phalanx.md)
-- [Shindenbutai inventory](./shindenbutai.md)
+- [Kestrel inventory](kestrel.md)
+- [Military Orders inventory](military-orders.md)
+- [Steel Phalanx inventory](steel-phalanx.md)
+- [Shindenbutai inventory](shindenbutai.md)

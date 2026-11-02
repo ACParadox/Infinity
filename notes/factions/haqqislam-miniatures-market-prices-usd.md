@@ -90,7 +90,7 @@
 
 ## Use with repository references
 
-This **USD price snapshot is not a buy list and does not alter owned miniature inventory**. For actual purchases, consult the [Haqqislam must-have / go-to / avoid review](haqqislam-must-have-go-to-avoid-transcript-evidence.md), the [N5.3 Haqqislam sectorial roster references](../../sectorials/haqqislam/), and the [miniature proxy guidelines](../miniature-proxy-guidelines.md). Cross-faction figures may already be available in other collections and should not be double-counted.
+This **USD price snapshot is not a buy list and does not alter owned miniature inventory**. For actual purchases, consult the [Haqqislam must-have / go-to / avoid review](haqqislam-must-have-go-to-avoid-transcript-evidence.md), the [N5.3 Haqqislam sectorial roster references](../../sectorials/haqqislam), and the [miniature proxy guidelines](../miniature-proxy-guidelines.md). Cross-faction figures may already be available in other collections and should not be double-counted.
 
 Other Miniatures Market price snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md).
 

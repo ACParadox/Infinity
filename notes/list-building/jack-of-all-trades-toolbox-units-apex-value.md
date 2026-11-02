@@ -1,6 +1,6 @@
 # Jack-of-All-Trades / Toolbox Units — N5.3 Apex and Value
 
-_Research: 2026-10-23. **Qualitative tier judgment, not a measured win-rate ranking.** Prices and legal Fireteams are **profile-specific** in the committed [N5.3 sectorial references](../../sectorials/); media are for tactical reasoning, not rules or prices. A “toolbox” can be a single all-rounder or a **small legal team** whose roles work together, but **never credit one profile with another's equipment**._
+_Research: 2026-10-23. **Qualitative tier judgment, not a measured win-rate ranking.** Prices and legal Fireteams are **profile-specific** in the committed [N5.3 sectorial references](../../sectorials); media are for tactical reasoning, not rules or prices. A “toolbox” can be a single all-rounder or a **small legal team** whose roles work together, but **never credit one profile with another's equipment**._
 
 ## Quick verdict
 
