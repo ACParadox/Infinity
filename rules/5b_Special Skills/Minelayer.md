@@ -6,7 +6,7 @@ Optional
 
 The user of this Special Skill can secure his point of deployment by placing a Mine, or other Deployable Weapon or piece of Equipment he carries, nearby to prevent enemy Troopers from approaching.
 
-- There can be no enemy Troopers or Camouflage Markers inside the Trigger Area of the Deployable Weapon or piece of Equipment when it is deployed, or inside the Zone of Control for Perimeter Weapons.
+- There can be no enemy Troopers or Camouflage Markers inside the Trigger Area of the Deployable Weapon or piece of Equipment when it is deployed, or inside the Zone of Control for Perimeter Weapons or pieces of Equipment with the Perimeter Trait.
 
 - The deployment of the Deployable Weapon or piece of Equipment must follow the Deployment general conditions and must always be within the area in which the Minelayer Trooper is allowed to Deploy.
 
@@ -47,9 +47,7 @@ This commentary expands on interactions, edge cases, tactics, comparisons, and p
 **[UNOFFICIAL COMMENT]**
 Minelayer interacts with several core rules during Deployment:
 
-- **Trigger Area Restrictions**  
-  Deployables with Trigger Areas (Mines, Koalas, etc.) cannot be placed if an enemy Trooper or Camouflage Marker is inside the Trigger Area.  
-  However, they *can* be placed if there is a **non-Camouflaged enemy** inside the Trigger Area even when a Camouflage Marker is also present.
+- **N5.3 — Trigger Area / Perimeter restrictions:** A Minelayer cannot place a deployable when an enemy Trooper **or** Camouflage Marker is in its Trigger Area; for any Perimeter weapon or equipment, use its Zone of Control instead. This includes Deployable Repeaters with Perimeter. No exception applies for non-Camouflaged enemies. Source: https://infinitythewiki.com/Minelayer
 
 - **Zone of Control Checks Are Private Information**  
   During Deployment, you must check ZoC privately. Opponent must look away.

@@ -22,6 +22,8 @@ A Coordinated Order is an organized combat action or maneuver carried out by sev
 
 - All other Troopers participating in the Coordinated Order have their B reduced to 1, regardless of their weapon, Equipment or Special Skill.
 
+> **N5 FAQ v0.1:** Special Dice modifiers (such as `+1 SD`) still apply in a Coordinated Order. They modify dice rather than the Burst value and therefore are not removed by the Coordinated Order Burst restriction. See https://infinitythewiki.com/Coordinated_Orders
+
 - Each reactive Trooper must choose only one of the Troopers activated by the Coordinated Order as their target, but they are not obliged to choose the same target.
 
 - If any of the Troopers does not meet the Requirements of a Skill declared during the Coordinated Order, they perform an Idle instead, while the others may act normally.

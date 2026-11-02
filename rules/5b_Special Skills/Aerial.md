@@ -12,6 +12,8 @@ Troopers possessing this Special Skill have flight capabilities. While in combat
 
 - Restriction: Troopers with this Special Skill cannot declare Cautious Movement.
 
+- **N5.3:** Troopers with Aerial do not activate Weapons with the **Boost** Trait, since they cannot enter Silhouette contact while Aerial is active. See https://infinitythewiki.com/Aerial
+
 Unconscious State Automatic Special Skills and Automatic Equipment have no effect while in Unconscious State.
 
 Aerial and Guard:

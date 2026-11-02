@@ -1,10 +1,14 @@
 # Deployable Cover
 
+**N5.3 — Automatic Equipment.** Traits: **Deployable, Disposable (2), Indiscriminate, Perimeter.**
+
+Source: https://infinitythewiki.com/Deployable_Cover
+
 Equipment
 
 A portable defense system designed to place a Scenery Element on the battlefield to provide cover.
 
-- When the player declares the Place Deployable Common Skill, the Trooper places the Deployable Cover Scenery Element on the game table.
+- When the player declares the Place Deployable Common Skill, the Trooper places the Deployable Cover Scenery Element on the game table, completely inside their Zone of Control (ZoC).
 
 - The Deployable Cover Scenery Element has a Silhouette Attribute of 3.
 

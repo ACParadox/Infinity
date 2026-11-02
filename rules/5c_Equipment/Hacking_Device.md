@@ -6,6 +6,8 @@ Hacker | Firewall | Hacking Area | Repeater | Deployable Repeater | Hacking Prog
 
 Equipment
 
+**N5.3 — All Hacking Devices are AUTOMATIC EQUIPMENT.** Their Firewall (if provided by that Device) applies while the Device remains active and stops when it is disabled (for example, in Isolated or Null State). See https://infinitythewiki.com/Hacking_Device
+
 Hacking Devices are the tools used during cybercombat. Multipurpose and versatile, these devices can be useful as support elements or to perform powerful cyberattacks, depending on the Device.
 
 From Quantronic Combat (Hacking).

@@ -6,9 +6,11 @@ Optional
 
 This Common Skill allows players to call for tactical support on the ground and send airborne supplies to the Troopers on the battlefield by means of the so-called Speedballs.
 
+> **N5.3 change (September 2026):** Speedball Combat Jump Rolls use **PH 15**, not PH 14. Source: https://infinitythewiki.com/Request_Speedball
+
 - Have two Speedball Tokens (see Command Tokens: Strategic Use ).
 
-- When Requesting a Speedball during their Active Turn, players must place two 55 mm Speedball Tokens on the game table applying the Combat Jump Skill rules (See FAQs.), and then make a PH Roll for each of them with a PH value of 14. This cannot be done partway through the Order Expenditure Sequence.
+- When Requesting a Speedball during their Active Turn, players must place two 55 mm Speedball Tokens on the game table applying the Combat Jump Skill rules (See FAQs.), and then make a PH Roll for each of them with a PH value of 15. This cannot be done partway through the Order Expenditure Sequence.
 
 - Before making each of the Combat Jump Rolls, the player needs to choose what support equipment this suborbital drop contains. The player choosing an item from the Speedball Chart for the first Token and making a roll on the Chart for the second Token.
 

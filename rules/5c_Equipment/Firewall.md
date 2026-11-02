@@ -2,6 +2,8 @@
 
 Quantronic Combat (Hacking)
 
+**N5.3 — AUTOMATIC EQUIPMENT (Obligatory).**
+
 Equipment
 
 Some Troopers or Hacking Devices have pieces of Equipment which provide extra protection against Comms Attacks. These defenses are codified in the Firewall rule, which applies a series of MODs to hinder the Attack and enhance the target's protection.
@@ -11,6 +13,8 @@ Some Troopers or Hacking Devices have pieces of Equipment which provide extra pr
 - A Trooper benefiting from a Firewall also applies a MOD of +3 to their Saving Rolls (SR) against Comms Attacks.
 
 - Troopers can only benefit from one Firewall at a time. If a Trooper can benefit from more than one Firewall, their player will decide which one to apply.
+
+> **N5 FAQ v0.1:** Firewall provided by a Hacking Device protects its bearer against **any Comms Attack** while the Device is active, not only hacking from a particular source. This protection ends when the Device is disabled (for example, while Isolated or in a Null State). See https://infinitythewiki.com/Firewall
 
 The Firewall in a Comms Attack is the equivalent of Cover in a BS Attack, it hinders the Attack and aids the target’s Saving Roll.
 

@@ -12,6 +12,8 @@ In the Active and Reactive Turns, a Fireteam is automatically cancelled in the f
 
 - The Fireteam Leader declares an ARO different from the Fireteam's ARO.
 
+- **N5.3:** The Fireteam Leader becomes the Controller of a Peripheral (the entire Fireteam is cancelled).
+
 - The Fireteam is reduced to one member.
 
 - A Retreat! situation occurs.
@@ -21,6 +23,8 @@ In the Active and Reactive Turns, a Fireteam is automatically cancelled in the f
 - In the Active or Reactive Turn, the player voluntarily chooses to cancel the Fireteam. This requires no additional expenditure of Orders or Command Tokens. The player must indicate so before the Order is spent by any of the players.
 
 In the Active Turn and Reactive Turn, a Trooper automatically stops being part of a Fireteam in the following cases:
+
+- **N5.3:** The Trooper becomes the Controller of a Peripheral (if not the Leader, only that Trooper leaves).
 
 - The Trooper enters or is in Isolated State or any Null State.
 
@@ -57,6 +61,8 @@ In any of the above cases, the Trooper stops being part of the Fireteam the mome
 In a five member Fireteam where only three of them declare an ARO, if two members declare the same Skill in ARO, and the third member declares a different Skill, the Skill declared by the two members has been declared by more than half of the reacting members and is the Fireteam’s ARO. The third member will automatically leave the Fireteam.
 
 On the other hand, if two members declare the same Skill in ARO, but two others declare different Skills, then no Skill has been declared by more than half of the reacting members. The player can choose which Skill is the Fireteam’s ARO, and the members that declared a different Skill will automatically leave the Fireteam.
+
+> **N5 FAQ v0.1:** A Fireteam retains its Type after losing members (a Haris reduced to two members is still a Haris). The minimum required to create a Fireteam is checked at creation; subsequently losing a mandatory member does not automatically dissolve it, unless an additional rule such as FT Master applies. See https://infinitythewiki.com/Fireteam_Integrity
 
 ## Fireteam Integrity - Rejoining the Fireteam in the States Phase
 
