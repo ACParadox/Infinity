@@ -20,55 +20,40 @@ Game States and Glossary
 
 - The Retreat! State of a Trooper can be cancelled by spending a Command Token. That Trooper will ignore the effects of Retreat! State until the end of the game.
 
-**[UNOFFICIAL COMMENT]**
+**[UNOFFICIAL COMMENT — revised 2026-11-02; authoritative official rule text above controls]**
 
-## When Retreat! Actually Triggers
-Retreat! is checked **only during the Tactical Phase of the Active Player's Turn**.  
-This means that:
-- Killing the opponent’s forces during your Active Turn **does not immediately put them into Retreat**.
-- The earliest your opponent enters Retreat! is **the start of their next Turn**.
+## Timing and triggers
 
-## Retreat! vs Loss of Lieutenant
-Because both checks happen in the Tactical Phase, the order matters.
+The **Retreat! check** happens during the **Active Player's Tactical Phase**, before the Loss of Lieutenant check and Order Count. Defeating opponents during your own Active Turn does **not** immediately put them in Retreat!; if their surviving Victory Points are at or below the threshold they will enter Retreat! at the **beginning of their next Active Turn**, if there is one.
 
-1. **Retreat! Check happens first.**  
-2. **Loss of Lieutenant Check happens second.**
+A **300-point** army enters Retreat! at **75 surviving Victory Points or less**, not 76. The count includes Troopers still in **Hidden Deployment or Airborne Deployment**, and includes **Shasvastii-Embryo** points *during the game* as their skill specifies. In Standard Games a turn that *starts* in Retreat! ends the game at the end of that turn; individual missions have their own end-game provisions.
 
-This means:
-- A player who is in Retreat! can *also* be in Loss of Lieutenant if their Lt is null or missing.
-- But Retreat! does **not automatically cause Loss of Lieutenant**.
-- Retreat! does **not prevent Chain of Command** from activating normally.
+- [Retreat Situation](../7_Terrain%2C%20Scenery%2C%20Triumph%2C%20Table%2C%20Scenarios%2C%20ITS/Retreat%21_situation.md)
+- [Game Sequence](../1_Basic%20Rules/Game_Sequence.md)
+- [Triumph and Defeat](../7_Terrain%2C%20Scenery%2C%20Triumph%2C%20Table%2C%20Scenarios%2C%20ITS/Triumph_and_Defeat_Module.md)
 
-## Retreat! and Order Generation
-A very common misunderstanding is whether troops still generate Orders when in Retreat!.  
-- Troops still generate **Regular/Irregular Orders normally** unless the mission declares otherwise.  
-- Retreat! does **not** automatically convert Orders to Irregular (unlike Loss of Lieutenant).
+## Retreat! automatically causes Loss of Lieutenant
 
-The *actual* penalty of Retreat is that **the Active Player may not spend Orders except to perform movement toward the table edges**, unless the mission explicitly overrides this.
+**Correction of the previous unofficial notes:** Retreat! **does** automatically cause **Loss of Lieutenant** under the official N5.3 rule. Therefore ordinary Troopers normally become **Irregular** and lose the shared Regular Order Pool for their Retreat! turn. Retreat State **also** restricts the Skills an affected Trooper may declare. Do not claim normal Regular pools persist merely because Retreat State itself lists only Skill restrictions.
 
-## Retreat! and Peripherals
-Retreat! restrictions apply to **the trooper spending the Order**.
-Thus:
-- Peripherals mirror their Controller's movement as usual.
-- If the Controller must retreat, the Peripherals must follow the same movement restrictions.
+- **Courage and Religious Troop**: unaffected by Retreat State, can declare normal Skills, but **remain affected by LoL** and thus normally operate with **Irregular Orders**. Religious Troop has its own restriction on voluntarily leaving the table in Retreat!.
+- **Warhorse**: unaffected by **both** Retreat! and LoL, **remains Regular**, and can act normally.
+- **Inspiring Leadership Lieutenant**: when its listed conditions are satisfied, the army **does not enter Retreat!**.
+- **Command Token**: can make **one Trooper ignore the effects of Retreat State until end of game**; this does **not** itself cancel the entire army's LoL. Eligible Irregular Orders may be converted to Regular separately; an **Isolated** model's Irregular Order cannot be converted.
 
-## Retreat! Compared to Loss of Lieutenant (Differences, Pros/Cons)
-**Retreat!**
-- Restricts **how Orders are spent**, not how many.
-- Troops remain Regular/Irregular normally.
-- Highly limits offensive actions.
-- Can end the game depending on mission.
-- Does *not* inherently cause disorganization—just withdrawal.
+Refer to the [current official Retreat Situation](https://infinitythewiki.com/Retreat%21_situation) and [N5.3 summary chart](https://infinitythewiki.com/Retreat%21_and_Loss_of_Lieutenant_Summary_Chart).
 
-**Loss of Lieutenant**
-- Converts **all Troops to Irregular** for a turn.
-- Severely reduces coordinated capability, but does *not* restrict the type of actions they may take.
-- Recoverable at the end of the turn.
-- Does not end the game.
+## What Retreat State actually restricts
 
-## Frequently Missed Details
-- A player in Retreat! may **still score at end of game**, depending on mission.  
-- Hidden Deployment troopers *still count for Retreat! Victory Points*, even though their Orders are private.  
-- Peripherals never count as Victory Points for Retreat calculations.  
-- Retreat! does not override scenario-specific exemptions (e.g., missions allowing "normal" use of Orders despite Retreat!).
+A Trooper **with the Retreat State** may use **Basic Short Skills, Cautious Movement, Dodge, Reset**, or another Skill that *explicitly* permits use in Retreat. This is **not** a general rule requiring every move to head toward the table edge, and it is **not** permission to use ordinary mission-interaction Short Skills when Retreat State prohibits them.
 
+Marker/Holoprojector/HoloMask States are canceled upon entering Retreat State. Automatic Special Skills and Equipment continue functioning as specified. Peripherals still use their **own Controller and Peripheral rules**; Retreat does not grant separate Orders or unrestricted declarations. Do not infer independent surviving points or free Orders from additional Peripheral silhouettes.
+
+## Endgame cautions
+
+1. **Retreat! is not immediate victory**. Determine whether the **actual mission** ends at the relevant point and which **scoring opportunities** remain.
+2. **Retreat-resistant models or Command Tokens can still score** if their exact mission Skill, available Orders and position allow it.
+3. **Restoration/recovery and surviving-point exceptions matter**. Count the next Tactical Phase's actual Victory Points, and account for protected Hidden/AD models and Shasvastii Embryos.
+4. **No instant Regular pool deletion from a mid-turn kill**: a casualty incurred after Order Count does not retroactively rewrite already generated Orders. The resulting Retreat/LoL situation is evaluated at the next Tactical Phase.
+
+Related: [Endgame and Retreat strategy](../../notes/list-building/endgame-retreat-and-loss-of-lieutenant.md) and [cross-report counterplay, Playbook S](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md#playbook-s--exploiting-and-preventing-retreat).
