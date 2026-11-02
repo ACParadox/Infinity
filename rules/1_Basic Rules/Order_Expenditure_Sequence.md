@@ -14,6 +14,8 @@ Each time the Active Player decides to spend an Order (of whatever type) to acti
 
 All details and choices related to the execution of a Basic Short Skill, Short Skill, or Long Skill must be specified when it is declared.
 
+> **N5 FAQ v0.1:** The target's **exact position** is selected at Resolution before measuring Range; other required details are declared up front. When several Troopers activate simultaneously and their declaration order matters, the Active Player decides that order. See https://infinitythewiki.com/Order_Expenditure_Sequence
+
 For instance, if you declare a movement, you must specify the entire route.
 
 If you declare an Attack, you must specify which Weapon, piece of Equipment, Special Skill, Ammunition, or other option will be used, who the targets are, the specific point where the shots are taken from, how the Burst is divided between targets, etc.

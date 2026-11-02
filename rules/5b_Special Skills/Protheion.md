@@ -10,6 +10,8 @@ Users of this CC Special Skill can remove Wounds or increase the value of their 
 
 - The target must have the VITA Attribute.
 
+> **N5.3 modifier clarification:** A negative parenthetical Protheion MOD (e.g. `Protheion (-3)`) applies to the **enemy's Attribute** during the Face-to-Face Roll, not to the user's own CC Attribute. See https://infinitythewiki.com/Protheion
+
 - For each Wound they inflict on the target of the CC Attack (See FAQs.), or Coup de Grâce they perform, the user removes 1 Wound they have received. If the user hasn't received any Wounds, they increase their VITA Attribute value by 1.
 
 - Restriction: The value of the user's VITA Attribute may only be increased by a maximum of two points.

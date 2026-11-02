@@ -4,9 +4,9 @@ Equipment
 
 This piece of Equipment reflects the supplies the player's combat force has available.
 
-- An Allied Trooper in a Non- Null state and inside the Zone of Control of this Trooper may perform the Reload Common Skill to either cancel their Unloaded State, or to regain all expended uses of their Disposable weapons or pieces of Equipment. This effect may only be applied to a single Allied Trooper per Order.
+- **N5.3:** An Allied Trooper in a non-Null State and inside the Zone of Control of this Trooper **or game element** (the Baggage source) may perform the Reload Common Skill to either cancel their Unloaded State, or to regain all expended uses of their Disposable weapons or pieces of Equipment. This effect may only be applied to a single Allied Trooper per Order.
 
-- In the States Phase, each Allied Trooper inside the Zone of Control of this Trooper may automatically cancel their Unloaded State, or regain all expended uses of their Disposable weapons or pieces of Equipment.
+- In the States Phase, each Allied Trooper inside the Zone of Control of this Baggage source may automatically cancel their Unloaded State, or regain all expended uses of their Disposable weapons or pieces of Equipment.
 
 - Recovering the use of Disposable weapons and pieces of Equipment does not affect any weapons and pieces of Equipment that were already deployed on the gaming table.
 
@@ -27,7 +27,7 @@ Non-Reloadable Unloaded State cannot be cancelled for Disposable weapons or piec
 
 ### CONS:
 
-- Requires proximity (ZoC) and the Baggage trooper must stay alive and Non-Null.
+- Requires proximity (ZoC) and an eligible, functioning Baggage source (which may be a Trooper or game element).
 - Does not restore deployed items, which can limit some strategies.
 - Baggage models often have minimal combat stats, making them vulnerable.
 - Provides little benefit to units that don’t use Disposable equipment.

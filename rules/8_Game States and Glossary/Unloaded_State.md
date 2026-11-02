@@ -6,9 +6,9 @@ Game States and Glossary
 
 - The Trooper can no longer use the relevant weapon or piece of Equipment.
 
-- The Trooper performs the Reload Common Skill, which does not require a Roll, while inside the Zone of Control of an Allied Trooper with the Baggage piece of Equipment. The Trooper with Baggage must be in a non- Null State.
+- **N5.3:** The Trooper performs the Reload Common Skill (no Roll) while within the Zone of Control of an allied Trooper or game element with Baggage; its Baggage source must satisfy the applicable non-Null restriction.
 
-- In the States Phase, the Trooper is inside the Zone of Control of an Allied Trooper with the Baggage piece of Equipment. The Trooper with Baggage must be in a non-Null State.
+- In the States Phase, the Trooper is inside the Zone of Control of an allied Trooper or game element with Baggage; the Baggage source must satisfy the applicable non-Null restriction.
 
 - Some scenarios and missions have Scenario Special Rules that allow cancellation of this state. In this case, the player must meet the conditions specified by those rules.
 
@@ -28,7 +28,7 @@ It appears whenever a Trooper expends all uses of a **Disposable** weapon or pie
   A Trooper who has fired all Panzerfaust shots is *Unloaded (Panzerfaust)* but may still fire a Light Shotgun, Nanopulser, etc.
 
 - **Reload only restores items with the Disposable Trait.**  
-  Reload does *not* replenish Mines (Deployable, not Disposable) or items that are single-use by design (e.g., certain special scenario gear). This is one of the most commonly confused points.
+  Reload can replenish expended uses of **Disposable** Mines held by the Trooper, but does not recover deployed Mines already on the table or restore Non-Reloadable items. This is a common point of confusion.
 
 ### **[UNOFFICIAL COMMENT] — Similar Concepts & Comparisons**
 

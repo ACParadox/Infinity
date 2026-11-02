@@ -132,6 +132,8 @@ This weapon, Special Skill, or piece of Equipment works automatically and does n
 
 A Game State with this Label indicates that, in this state, the Trooper will not provide an Order, or Victory Points, to the player.
 
+> **N5.3:** Null States are **Dead, Disconnected, Possessed, Sepsitorized, and Unconscious**. See https://infinitythewiki.com/Labels
+
 ### Labels - Obligatory
 
 The use of this Special Skill or Equipment is compulsory and cannot be waived.

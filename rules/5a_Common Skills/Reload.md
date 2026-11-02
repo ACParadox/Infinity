@@ -6,7 +6,7 @@ Attack
 
 This Common Skill allows a Trooper to cancel their Unloaded State, or replenish any expended uses of Disposable weapons or pieces of Equipment.
 
-- The Trooper must be inside the Zone of Control of an Allied Trooper with the Baggage piece of Equipment. The Trooper with Baggage must be in a non- Null State.
+- **N5.3:** The Trooper must be inside the Zone of Control of an Allied Trooper or game element with Baggage; the Baggage source must satisfy the applicable non-Null restriction.
 
 - The Trooper is in Unloaded State, or has expended uses of any weapons or piece of Equipment with the Disposable Trait.
 
@@ -16,6 +16,6 @@ This Common Skill allows a Trooper to cancel their Unloaded State, or replenish 
 
 - Recovering the use of Disposable weapons and pieces of Equipment does not affect any weapons and pieces of Equipment that were already deployed on the gaming table.
 
-Baggage In the States Phase, Troopers in ZoC of a Trooper with Baggage may automatically cancel their Unloaded State, or regain all expended uses of their Disposable weapons or pieces of Equipment.
+Baggage: In the States Phase, Troopers in ZoC of a Trooper or game element with Baggage may automatically cancel their Unloaded State, or regain all expended uses of their Disposable weapons or pieces of Equipment.
 
 Non-Reloadable Unloaded State cannot be cancelled for Disposable weapons or pieces of Equipment with the Non-Reloadable Label or Trait, and their expended uses cannot be regained.

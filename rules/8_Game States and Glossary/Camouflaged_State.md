@@ -92,7 +92,7 @@ Cancellation of Camouflaged State is applied to the entirety of the declared Ord
 
 ## Camouflaged - ARO against a Marker:
 
-- The only AROs that can be performed against a Camouflaged (CAMO) Marker are Discover, Dodge, Look Out!, or Reset.
+- **N5.3:** The only AROs that can be **declared** against a Camouflaged (CAMO) Marker are Discover, Dodge, Look Out!, or Reset. This is a restriction at declaration, not merely at execution.
 
 - Against a Marker, the enemy can delay declaring their ARO until the Marker declares the second Short Skill of its Order.
 
@@ -118,6 +118,9 @@ The distance between the points where the Skills were declared is measured, and 
 October 2025: Minor text changes in N5.2.
 
 ## Camouflaged -  FAQs
+
+> **N5 FAQ v0.1:** If an Attack hits a Camouflaged Marker but the concealed game element itself is in Total Cover, an Attack that would force a Saving Roll reveals the Marker; however, the actual element is not hit through that Total Cover. See https://infinitythewiki.com/Camouflaged_State
+
 
 Q: Which Automatic Skills or Equipment have to be declared when in a Marker State?
 

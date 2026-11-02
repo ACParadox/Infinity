@@ -56,6 +56,8 @@ The following Troopers cannot be part of a Fireteam:
 
 Additionally, members of a Fireteam cannot be part of a Coordinated Order.
 
+> **N5 FAQ v0.1 — Fireteam persistence:** Chart minimums and required Troopers are checked when the Fireteam is **created**. If the team later loses a required Trooper, it does not automatically dissolve solely for failing that creation condition (unless another rule, e.g. FT Master, says otherwise). Losing members does not transform the Fireteam's Type: a reduced Haris remains a Haris, not a Duo. See https://infinitythewiki.com/Fireteams:_Basic_Rules
+
 ## Rejoining the Fireteam in the States Phase
 
 At the end of the next States Phase, any Troopers who left a Fireteam may automatically rejoin it if they are in Coherency with the Fireteam Leader.
