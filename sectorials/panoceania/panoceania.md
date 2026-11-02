@@ -920,3 +920,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Firefight counterexample** | Cutter + Squalo Mk II + Tikbalang shot well but lost 5–2 because Hassassin scored Classifieds. | [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #169 and #170 cover one event; do not credit an unplayed Cutter with that winner's results. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Camo / impersonation / CC** | Joan + Helot FTO/Sensor screens plus Hidden Swiss Guard HMG offered layered reactive identification and ranged removal vs concealed JSA/White Banner routes. | [#169](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#170](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **TAG defense / specialist floor** | Cutter can threaten a lane but Haqq Fiday/Smoke/MSV Mukhtar and hidden Tuareg still contest objectives; PanO's cheap specialists—not TAG kill tally—won Corporate. | [#143](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Failure: all-in armor** | Cutter + Squalo + Tikbalang had few Classified routes; Hassassin Daylami/Muyib/Fiday screens won Firefight by Classifieds, 5–2. | [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #169/#170 are one event and Cutter was an unused list there; no universal PanO-versus-Impersonation ranking. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

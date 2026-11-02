@@ -665,3 +665,12 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Outbreak eligibility** | Need printed eligible Doctor/Paramedic/Specialist Operative, not merely generic hacker/FO presence. | [#116](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Evidence is limited; do not infer a broad faction mission advantage from these matches. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Anti-Repeater and technical lane** | Played Last Launch package used Sila KHD/Pitcher, Peacemaker/Auxbot and Bagh-Mari gun with Machinist/Rao/Regular support to protect specialist entry and attack projected network. | [#149](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Against heavy / elite scorers** | Use the forward Peacemaker/Auxbot as an alternate short-range angle rather than assuming a static sniper alone clears protected objectives; current N5.3 printed KHD/fireteam eligibility controls. | [#149](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Very limited direct counterplay sample. These are role mechanisms from #149, not verified independent wins against every TAG, Camo or impersonator. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

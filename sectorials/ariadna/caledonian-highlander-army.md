@@ -607,3 +607,13 @@ With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doc
 | **Close defense against expensive attackers** | Multiple short-range CC threats can tax heavy armor on narrow approach lanes; keep a real console/carrier route after stopping the attacker. | [#086](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#161](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** One decisive room example does not prove broad Caledonian superiority on every room or zone mission. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Against elite HI / room Fireteams** | Wallace/McMurrough/Cameronians/Galwegians created layered templates, Wulver/Kaden hard CC and Mormaer long gun halted White Banner heavy infantry around Critical Intervention doorway. | [#086](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Against Camo and mobile tech** | Opponent Kestrel Redeye Sensor revealed Caledonian Camo then Black A.I.R. K1 pressured a Cameronian; maintain smoke/alternate lane instead of relying only on marker protection. | [#158](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Against TAG as conceptual threat** | Caledonian CC influenced a Combined champion's decision **not to field an Avatar list**, but that list was unplayed and is not proof of a killed Avatar. | [#155](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The clearly observed success is **room-entry delay versus HI**; do not claim a universal TAG or hacker hard counter from this sample. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -806,3 +806,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Hardlock counterexample** | Bolt and TAG defenses survived but Starmada Cyberghost and mobile Roadbot scored buttons 7–1. | [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #227's Ramah opponent had an unusually small, overextended eight-body list, so generalization is limited. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Heavy HI and camouflage** | Uhlan camo Feuerbach + Aquila MSV3 + Bolt/Hexa/Blocker screened Ramah elites while Shona and CSU completed Evacuation civilians. | [#227](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Failure: hacker exposure** | Tunguska Interventor x3/Repeaters/Guided removed over one-third of Neoterra in a reported Crossing Lines game and brought Retreat; exposed support can undermine elite AROs. | [#122](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Failure: TAG control** | Starmada Cyberghost repeatedly Possessed a TAG and outscored Neoterra's Bolt link via independent Roadbot buttons (Hardlock 7–1). | [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** One 7–1 NCA win involved an unusually compressed Ramah roster and does not imply an automatic NCA-vs-Ramah matchup. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

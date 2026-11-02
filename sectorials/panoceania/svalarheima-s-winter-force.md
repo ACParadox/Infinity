@@ -792,3 +792,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Critical Intervention defense** | Knight of Justice, Karhu specialists, Peacemaker mines and turrets defend access after heavy AROs are damaged. | [#182](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #087's Acquisition final score is not reliably attributable; do not claim a confirmed WinterFor win. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Impersonator / room assault** | Peacemaker mine, disposable turrets and small Karhu/REM room workers frustrated Shasvastii Speculo/Sheskiin data-pack extraction after an initial alpha; WinterFor won 9–5. | [#182](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **TAG / long guns** | Karhu K1/Paramedic, Nisse/Uma shooting and Machinist offer anti-armor plus repair/mission routes; Shona/Liang Kai mobility counters screen placement at close range. | [#075](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md), [#098](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay** | Bakunin Custodier White Noise/Repeaters/Guided pressured WinterFor sniper lines, and a Nisse spent 5–6 Orders fighting a Cenobite HRL instead of scoring Supplies. | [#098](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md), [#194](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** A hard ARO must still defend the objective and protected specialists; mission rules/turret activations are episode-specific. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

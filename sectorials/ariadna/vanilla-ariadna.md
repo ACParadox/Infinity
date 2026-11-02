@@ -1552,3 +1552,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Corporate Appropriation** | Wallace destroys prototype in CC; Dynamo smoke + Sasha can retrieve/extract another way. | [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #161/#237 describe one CanCon winner; round five involved a consequential rules error. Available Mirage-5/Van Zant are not proof of being fielded. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **TAG / elite HI** | Scout E/M mine isolated/IMM'd Marut LT and Dog Warriors/Galwegian attacked after the screen in a conceded CanCon Crossing Lines round; Tankhunter autocannons punish exposed armor. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md), [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Hacking grids / hidden defense** | Non-Hackable Camo Strelok/Scout/Tankhunter and decoys force Discover while Dynamo smoke/Sasha bypasses exposed Cutter to complete Corporate; focus mission rather than hackable gun duel. | [#161](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Impersonator / DZ striker** | Mines/Koala and layered rear guard forced arriving Van Zant to spend route resources; he killed Voronin but failed to destroy objective after taking too many defenses. | [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #161 and #237 are the same event; a #237 round has a consequential rules issue, and Van Zant #223 belongs to USAriadna opponent, not vanilla roster used. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

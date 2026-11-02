@@ -1232,3 +1232,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **B-Pong counterexample** | Ōban Shikami and Tankō vision screened beacon, while delayed Margot-Duroc attack could not reverse scoring. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** The Outbreak result depends on special mission eligibility and is not a generic Classified superiority claim. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Vs fast infiltrators and hacking** | Volkolak/Kosmosoldat long guns plus Scots Guard FO/Paramedic, SAS/Uxia/Kövlk and Dozer create a mission floor independent of heavy firing vs Nomads hacking (3–3 Uplink Center). | [#230](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Alpha strikes / room access** | Bearpode/Polaris can attack protected small targets while Volkolak and multiple medical/eligible handlers do real Outbreak scoring; do not trade all handlers for one melee rush. | [#150](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: hidden/vision defense** | Ōban Shikami with Tankō Disco/Smoke reached beacon while delayed Margot/Duroc attack was blunted by Lù Duān and Blitzen. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Direct dedicated TAG/Impersonator counter results are sparse. #150 is mission-special, not proof of a repeatable anti-Camo win. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

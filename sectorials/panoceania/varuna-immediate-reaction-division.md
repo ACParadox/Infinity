@@ -736,3 +736,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Corporate Appropriation counterexample** | Remote prototype location can defeat a static Squalos/Cutter strategy; Dynamo smoke/Sasha extracted objective against Cutter. | [#011](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #019 is a 3–2 tournament recap, and #226's 8–0 was only projected in modified one-TAG play. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Hackable TAG / engineering** | Zulu-Cobra KHD/repeater plus Fusilier Hacker threatened enemy Zeta, while Machinist restored disabled Squalos; Pathfinder handled objective route. | [#019](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) |
+| **Hidden marker / room screen** | Helot/Patsy and Montesa/visor/firelanes can tax concealed/CC attackers, but require a second mobile specialist/carrier as long-range AROs are bypassable. | [#011](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#019](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) |
+| **Failure against non-hackable plan** | Vanilla Ariadna used Dynamo smoke/Sasha to retrieve a prototype while Cutter chased kills; #226 Cutter gun-fight loss was a special one-TAG/one-group format, score projected. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md), [#226](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not read modified #226 LoF dispute as a validated generic Cutter weakness. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

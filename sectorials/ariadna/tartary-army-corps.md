@@ -1000,3 +1000,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Frostbyte / defensive advance** | Frontovik/linked heavy guns plus independent specialist/heater plan protected under Camo/ARO. | [#035](../../notes/battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Do not credit vanilla Ariadna #237 champion's Wallace and Kövlk selection to TAK. Pitcher/Guided may disable exposed Kazaks (#166). Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Anti-hacker / heavy models** | Camo Strelok/Scout/hidden Tankhunter/Vystrel shells give non-Hackable routes around EI Aspect hacking; #064 Combined forward Repeater was less useful against TAK and ended 5–5. | [#064](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md), [#067](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md) |
+| **Counter enemy markers and area** | E/M mines, Decoys, Vystrel ranged ARO and Dynamo mobile presence tax advancing elite, while preserving one FO for Hardlock/zone control. | [#067](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md), [#190](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Vulnerability: Guided vs link** | Tunguska Mary/Interventor Spotlight+Guided broke Veteran Kazak/Frontovik suppression; exposed grouped HI loses Orders even behind strong direct guns. | [#166](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not import vanilla-only Wallace/Kövlk options into TAK on the strength of the CanCon vanilla champion. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

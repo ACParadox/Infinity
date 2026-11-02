@@ -852,3 +852,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Firefight / Decapitation** | Griffin/Black A.I.R. reactive coverage, Hetkari and mission-capable backups; avoid committing all first-turn Orders to Redeye Q-Drone alpha. | [#004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#175](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** One strong gun lane does not protect HVTs in Unmasking (#002); do not infer historical Fireteam legality. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Hacking network / HI** | Firefly/Griffin cleared enemy Pitchers before Hetkari advanced; Fennec Disco blocked a Torchlight Wrecker/Jamie firing lane, then Hetkari attacked command. | [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **TAG and elite hero** | Banshee Hacker forced suppressing Achilles into reaction, then Redeye finished; contrast #005 Redeye solo Q-Drone alpha wasting Orders. | [#158](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Camo / assassin / defensive link** | Redeye Sensor revealed Caledonian markers, Black A.I.R. K1 threatened them; Black A.I.R./Fennec/Griffin gunline still needed HVT/specialist protection vs White Banner. | [#158](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#002](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Treat Banshee+Redeye as reported tournament action, not a universal anti-Achilles recipe; check present N5.3 profiles/Fireteams. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

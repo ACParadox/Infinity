@@ -1080,3 +1080,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Consoles / Hardlock / Classifieds** | Trinitarian FO/Minelayer, Knight Commander CoC, Hospitaller Doctor and independent Knights/technical coverage. | [#009](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#017](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#184](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #184's Next Wave opponent was an intentionally constrained starter collection; it cannot establish an MO Hardlock win rate. Game-era qualitative evidence, not a win-rate or N5.3 Fireteam claim. [Full cross-report mission synthesis](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response, timing and consequence | Battle reports |
+|---|---|---|
+| **Against hackers / TAG control** | Two Seraphs with Defersen, Knight Hacker and Engineer/recovery pressure reached Tunguska hacking backline; player deliberately switched away from double Seraph into Morat Dartok/MSV threats. | [#181](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Against Camo / objectives** | Trinitarian hidden FO/mines and CoC/Doctor provide surprise suppression and multiple mission access routes, instead of exposing all Knights to one Repeater/Gun lane. | [#017](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md), [#009](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Known failure: defensive Fireteam** | A large elite multi-Knight/MO team lost 7–0 to Tunguska Grenzer/Bounty Hunter/Salamandra while failing Classifieds; an expensive Fireteam is not intrinsically safe from flanks or scoring denial. | [#137](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Historical #181 Seraph results are a counterexample to treating any hacking grid as automatic TAG removal. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
