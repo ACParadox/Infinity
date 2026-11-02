@@ -903,3 +903,13 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 | **Mindwipe counterexample** | Tarik/Janissary/Leila/Nahab pressure failed to defend AI objectives from Shona and Starmada Zeta/Cyberghost; 10–1 Starmada. | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** The reports show strong expensive fighters but **do not establish a repeatable Ramah mission advantage** for Evacuation or Mindwipe. Keep independent eligible specialists. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Anti-TAG/HI potential** | Janissary HMG/TinBot with Leila support, Namurr/Tarik and Nahab offer guns and alternate flank; however this **did not stop** Starmada Zeta/Cyberghost/Shona Mindwipe (10–1). | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Defending against CC assassin** | Tarik's aggressive approach was intercepted by Varangian, then Shona destroyed targets; avoid feeding Tarik into defensive CC and preserve Leila/Nahab network. | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Against layered MSV/TAG defense** | Khawarij heavy Fireteam plus two Namurr and Nahab was too small/overexposed in Evacuation to break NCA Uhlan/Aquila/Shona defense (7–1). | [#227](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** These are **mostly demonstrated vulnerabilities**, not fabricated successful Ramah anti-TAG or anti-Impersonator victories. Keep a separate Doctor/courier route. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

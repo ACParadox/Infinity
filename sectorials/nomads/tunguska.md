@@ -891,3 +891,13 @@ For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zo
 | **Hardlock / cyber denial** | Interventor/Heckler/Hollow Man network Isolated or immobilized major Steel Phalanx guns while maintaining specialist choices. | [#151](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Two different winner list builds are **alternatives**, not a demand to field every named unit together. Triggermen #122 were not the main success factor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs Hackable TAG/HI** | Mary/Interventor Pitcher → Spotlight/Guided against TAK Veteran/Frontovik and linked Shinden Hatamoto; Interventor/Kulak Cybermines shut down overextended Achilles. | [#166](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#056](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md), [#197](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Vs elite defensive team** | Grenzer Sniper + cheap Bounty Hunter swept exposed Military Orders multi-Fireteam positions while specialists scored Firefight 7–0; Interventor Guided wrecked NCA support in Crossing Lines. | [#137](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md), [#122](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Protect own hacker grid** | Banshee KHD got rolls against Interventor but Firewall/BTS prevented damage; Clockmaker/Fiddler and Hollow Men with TinBot support preserve multiple backups. | [#115](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md), [#166](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #166 tournament list archetypes were **alternatives**; do not imply both full packages can be bought simultaneously. #197 had atypical Achilles overextension. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -798,3 +798,14 @@ Where current roster permits **Ghulam Doctor(+3)**, it is the economical medical
 | **Go-second survivability** | Shujae E/M Minelayers + Ghazi Jammers and backup specialists protected against early alpha across a winning tournament recap. | [#173](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Do not equate a specific mission's Classified or threshold win with universal heavy-TAG killing. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **TAG / HI / early alpha** | Shujae hidden E/M Minelayers and Ghazi Jammers punished advancing elite units in a go-second winning tournament; Muyib X-Visor explosives and Daylami Panzerfaust forced triple TAG approach costs. | [#173](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md), [#214](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Camo/defensive room** | McMurrough Smoke and Haris Muyib/Yara/Leila D-Charges, expendable Daylami mine clearance opened Sabotage through Shasvastii Shrouded/Malignos marker fields. | [#232](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Impersonator and mission target** | Fiday threatened Shindenbutai Tanuki CoC/Hacker and Panguling rather than dueling Hatamoto; Asawira/Muyib/Govad plus Daylami delayed ALEPH Maximus/Penny from Supplies. | [#088](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#205](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Counterexample / support resilience** | Annihilation vs Charontid/Overdron was won on surviving thresholds and Jammer/Isolation, *not* a demonstrated Overdron kill; do not chase every Gaki. | [#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not treat every Fiday profile as a Hacker or every Daylami as a Smoke source; check current loadout. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

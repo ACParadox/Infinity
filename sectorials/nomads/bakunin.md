@@ -902,3 +902,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Mindwipe** | Stigmata hacker + TAG support + Morlock/Überfall disruption attacked AI objectives against Tohaa, provisional 9–2. | [#217](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #208 has severe unresolved Order-count allegations and #217's score is provisional. Do not treat those as independent robust win probabilities. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs premium gun/HI** | Initiate Repeater → Zoe Carbonite immobilized threatening WinterFor REM, enabling late Supplies majority; Custodier White Noise/Spotlight/Vertigo pressured Nisse/Uma. | [#194](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md), [#098](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Vs room gunline/expensive ARO** | Chimera+Pupnik Eclipse and CC/mines retrieved and retained Provisioning boxes behind Riot Grrl/Cenobite screens without maximal Guided package. | [#163](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: late mission** | Asura/Proxies/Kyra crossed Bakunin mine+Repeater defenses for Hardlock consoles in #208 **Order-disputed final**; protect WIP task after deploying the static screen. | [#208](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The #208 reported result's Order count is unresolved. Score effectiveness by preserved boxes/consoles rather than hacked kills alone. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

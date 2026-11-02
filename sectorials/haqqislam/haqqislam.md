@@ -1089,3 +1089,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Corporate Appropriation** | Fiday pre-game attack, Zuleyka smoke, hidden Tuareg D-Charges/KHD, Mukhtar MSV2 and Daylami screens threaten the prototype route. | [#143](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** A powerful Maghariba or Janissary shooting list is not a substitute for broad Classified types or an anti-materiel specialist. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs TAG/gunline** | Zuleyka Smoke + Mukhtar MSV2, Fiday threat and hidden Tuareg KHD/D-Charges threatened PanO Cutter and support, while a different mission scoring route decided Corporate. | [#143](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Vs EI elite/Camo** | Fast Haytham + Fiday attacked improperly screened Sheskiin/Anathematic support; Ikadron/Daturazi/minelayer did not block the approach. | [#147](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Counter enemy hackers/HI** | Saladin Order economy, Mutt Jammers, Ragik/Mukhtar multi-specialist roles and hidden Tuareg can outscore a Maximus hard ARO via Classifieds/consoles. | [#164](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** A Fiday is not an automatic Lieutenant kill; neither #143 nor #147 proves a universal faction matchup. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

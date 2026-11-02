@@ -787,3 +787,13 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 | **Hardlock / Cutthroat counterexamples** | Ōban lost Hardlock to Shinden's Hatamoto/Raiden when Ninja failed repeated WIP and Shikami was removed; open-table Cutthroat against Starmada Zeta ended 8–0 loss. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #236 is one beginner's 3–2 tournament recollection with some approximate results and unknown opponent sectorials in late rounds. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs elite TAG / defensive shooter** | Tankō Disco vision + Miyamoto Musashi anti-materiel CC reached and destroyed an expensive TAG vs Corregidor; Keisotsu HRL picked off OSS Hawkwood in Corporate. | [#105](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md), [#099](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Vs mines/hidden threats** | Lù Duān Holoecho utility screened mines and flanking attacks; Shikami fast WIP + Kuroshi/Ninja/Oniwaban offered independent objectives, with #236 B-Pong win. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Failure into open TAG/ARO** | Starmada Zeta + long-range MSV sniper exploited open table, left Ōban short-ranged elite/defense unable to score Cutthroat (0–8). | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #236 one 3–2 retrospective with approximate scores. Use visual delivery and independent scorers rather than treating CC as guaranteed TAG answer. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

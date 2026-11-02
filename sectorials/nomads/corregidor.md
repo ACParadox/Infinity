@@ -854,3 +854,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Hardlock counterexample** | Iguana/McMurrough guns and Moran/Jazz network were bypassed after ISS Pitcher/Deva KHD removed Jazz; Taowu finished a 4–1 ISS win. | [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Printed Surface vs Deep Space eligibility and scenario version must be checked. A single hacker's loss can collapse the network plan. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs heavy TAG / Fireteam** | Jazz/Moran Koalas and Repeaters + Vertigo Guided attacked Starmada linked units; double Gecko, Intruder and Flash/Jaguar screens defeated Druze Scarface/Anaconda 6–3. | [#078](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md), [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Counter enemy hacker** | Moran/Jazz network is **vulnerable to counter-Pitcher**: ISS Zhanying/Wu Ming Pitcher enabled Deva KHD Trinity to kill Jazz and bypass front network (4–1). | [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Vs hidden/endgame attacker** | McMurrough Smoke/Jaguar flanking plus Wildcat/Evader engineer and Vostok recovery are alternatives, but a failed McMurrough late LT strike did not flip Decapitation vs ALEPH. | [#126](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md), [#211](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #078 Iguana received a card granting temporary Specialist; this is **not** baseline Iguana. Distinguish Surface versus Deep Space historical rosters. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

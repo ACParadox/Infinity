@@ -904,3 +904,13 @@ Cross-faction [apex and cost-value Order-generator rankings](../../notes/list-bu
 | **Area of Interest counterexample** | Shikami vertical specialists and fast Ōban operators reached scoring zones while Qapu guns/TAG could not contest the needed buttons. | [#148](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #006 contained an acknowledged Capture & Protect HVT error affecting its round-five result; not reliable evidence of a Qapu C&P victory. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Camo / smoke / long defense** | Djanbazan MSV2 + Yuan Yuan Smoke and Laxmee/Pitcher/TinBot plus Leila KHD provide alternate fire and anti-network tools. | [#006](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#025](../../notes/battle-reports/021-030-n5-battle-report-tactical-analysis.md) |
+| **TAG / defensive linked target** | Bashi Bazouk rear Holoprojector/T2 approach can punish misfacing high-price support; direct event evidence mixed and projection dependent. | [#006](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: unprotected tech** | Ōban Shikami/hidden specialists reached Area of Interest goals while Qapu Scarface/Brawler force had **no Hacker** to contest eligible button actions (8–2). | [#148](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #006 custom event had a compromised Capture & Protect round; don't count Bashi as verified TAG killer in this match. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

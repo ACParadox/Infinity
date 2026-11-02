@@ -885,3 +885,14 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 | **Hardlock vs Ōban** | Double Hatamoto/Raiden pressure defeated Ōban's skirmishers in a tournament recap, exact score unverified. | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Elite Hatamoto team remains hackable (#056); verify current Shizoku team membership and mission packet. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs Tohaa room and E/M** | Hatamoto NCO/Lt + Shizoku HRL + Tanuki hacker/Pitcher and expendable Yojimbo Koalas attacked Sukeul/Makaul/Kriigel fortress; Hatamoto removed last data carrier. | [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Vs sniper Fireteam** | Yojimbo Smoke + Shizoku + Yamabushi Paramedic cleared Torchlight Vidoc/Moonraker early in The Dig; reported 9–1 **projected** after stop. | [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: hacking** | Tunguska Pitcher/Spotlight/Guided/Oblivion made Hatamoto HI spend Orders Resetting; do not march linked elite through exposed Repeaters without engineering/backup scorer. | [#056](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+| **Hidden strike** | Raiden HRL and hidden Oniwaban/Killer/Koala traps can force additional Discover/short-range attack before opponent reaches WIP specialists. | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md), [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The double-Hatamoto or Shizoku historic Fireteam is not automatically legal today; avoid claiming #233 final win. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -981,3 +981,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Uplink Center / late zone** | Jazz/Interventor/Kulak, Puppet FO/Zero and Moran can press objective rooms, with a recorded 3–3 against Kosmoflot. | [#230](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** These are **vanilla Nomads** mixtures, not proof that every model may appear together in Bakunin/Tunguska/Corregidor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs hackable White Banner HI** | Protected Pitcher/Interventor/Jazz network plus Hellcat Super-Jump safely picked up Provisioning box while opponent's elite HI survived but couldn't score. | [#090](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Vs EI elite attack** | Fiddler/Jackbots and held Hellcat Hacker secured final Corporate Classified after Sheskiin alpha triggered Retreat incorrectly for opponent's plan (5–4). | [#139](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md) |
+| **Vs Yu Jing gun Haris** | Moran CrazyKoala, Chimera/Pupnik, Morlock Smoke, Interventor and cheap bodies forced Zuyong/Rui Shi to spend too many Orders before Last Launch extraction (6–4). | [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** These played vanilla mixtures do not imply all named profiles co-exist in a single Nomads sectorial. Protect support Hacker from counter-pitcher. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

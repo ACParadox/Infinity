@@ -831,3 +831,13 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 | **Hardlock** | Hatamoto main threat, recovered Shikami and concealed Oniwaban/KHD specialist won 6–2 over White Banner through last-turn objective control. | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #153 is a retrospective rather than independent video footage for each round; verify printed N5.3 anti-materiel options. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **TAG / HI in close combat** | Tankō Monofilament CC defeated elite OSS model after Asura/Hawkwood support collapsed in Corporate concession; Oban Tankō/Musashi beat Iguana TAG while retaining quadrant point weight. | [#099](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md), [#105](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+| **Defensive elite Fireteam** | Hatamoto gun/ARO + recoverable Shikami and hidden Oniwaban/KHD threatened White Banner Hac Tao/Rui Shi while finishing Hardlock consoles (6–2). | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Anti-airborne/hidden defense** | Oniwaban Hidden with Minelayer(2) trap caught arriving Liu Xing near protected JSA DZ, #051 Firefight 5–4; distinction: anti-drop, **not automatic anti-impersonator**. | [#051](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Vanilla JSA access and Oban/Shinden access differ; don't transfer every profile/fireteam without checking chart. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
