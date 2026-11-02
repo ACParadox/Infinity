@@ -1085,3 +1085,13 @@ A **Zhanshi Yīshēng14 WIP13** is a cheap VITA Doctor; **Mech-Engineer14 WIP13 
 | **Outbreak counterexample** | Pheasant Doctor, Su-Jian and Parachutist Paramedic did not complete scan/stabilize/CivVac sequence as Kosmoflot scored 10. | [#150](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #181 warns extra late kills can trigger Retreat and accidentally cede zone points. Preserve back-up eligible operators and correct mission timing. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Break Jazz/Moran hacker grid** | Zhanying/Wu Ming Pitcher → Deva KHD Trinity removed Jazz, then Adil/Taowu independent mission actions won Hardlock 4–1. | [#238](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Vs hidden/elite zone models** | Sun Tze + multiple Su-Jian flanks, cheap Kuang Shi Orders, Koga E/M mines and support threats force a wide defense; over-killing can trigger Retreat and surrender a zone. | [#181](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md), [#188](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Defensive marker traps** | Kanren mines/MadTraps/Holo decoys, Celestial Guard Smoke and Rui Shi can screen Armory entrants against Bakunin elite gun, provided room actor survives. | [#110](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #181 was a player recap, not direct action data for all ISS games. Check current Deva/Koga/profile access. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

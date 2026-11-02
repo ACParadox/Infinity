@@ -971,3 +971,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Provisioning** | Brawler/Druze specialist options and inexpensive opportunistic attackers require clear carry route instead of only heavy damage. | [#138](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Low confidence for a general Ikari mission edge: the reports document tools and tactical interactions, not independently repeated wins. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against Camo/zone denial** | Brawler MSV2 sniper + Druze Hacker, Yojimbo Smoke, Wu Ming/Tanko and Armand Le Muet long gun attacked TAK/Vystrel/marker shells, but #067 Camo/Decoy still wasted Orders. | [#067](../../notes/battle-reports/061-070-n5-battle-report-tactical-analysis.md), [#075](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Vs HI/TAG tech** | Brawler Hacker/Wu Ming TinBot, cheap Yuan Yuan/Desperado and hard long-range ARO create more than one angle, however #185 Classified tally was debated due to cancellation rules. | [#185](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: protected room** | Heavier Ikari units did not simply overcome WinterFor mobile Shona/Liang Kai and Area of Interest score; score zones instead of chasing premium gun. | [#075](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Weak repeated outcome evidence for a specific anti-Impersonator or TAG killer; do not inflate Ikari's counter tier. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -894,3 +894,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Hardlock counterexample** | Hac Tao/Rui Shi killed hackers but failed console WIP/actions against JSA; lost 6–2. | [#220](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #234's Blue Wolf/Zhanshi/Long Ya Uplink Center success occurred in an introductory early-N5 game and is lower-confidence competitive evidence. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against long defensive Fireteam** | Jing Qo/Liang Kai + Shaolin Smoke threatened Kestrel Black A.I.R. support from a flank while Long Ya/Hundun and Haetae/Ye Mao links supplied screening; #002 Unmasking used HVT bypass instead of sniper duel. | [#002](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Against Repeater/HI counters** | Tunguska/nomad protected Pitcher+Guided pressured expensive White Banner Jujak/Haetae; #090 HI list survived many saves but couldn't carry Provisioning boxes. | [#090](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| **Camo/hidden scoring floor** | Long Ya Camo/Minelayer and Hundun sniper tax an opponent early, but Kestrel Firefly/Griffin cleared Pitcher support to open Hetkari attack. | [#003](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not assume a smoke assault automatically wins when all specialists die; observe high-tech exposure and opponent mission options. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

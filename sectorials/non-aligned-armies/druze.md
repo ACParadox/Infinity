@@ -858,3 +858,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Cutthroat counterexample** | Anaconda+Scarface+Druze hacker/warband struggled into Corregidor double Gecko/Jazz/Intruder 6–3; spent Orders on unrewarding trades. | [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #226 has special one-combat-group/one-TAG and forward-deployment restrictions plus unresolved LoF disagreement. No general Druze mission tier inferred. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against Cutter / elite linked ARO** | Scarface + Cordelia, Kunai sniper, Brawler MSV and KHD/Pitcher formed layered trap that eliminated exposed Cutter in special-format Crossing Lines; *projected* 8–0, disputed LoF. | [#226](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Counter heavy gun resilience** | Druze Anaconda + Scarface shooting and E/M tools were held off by Corregidor double Gecko, Intruder and Jazz; survive/hack cover instead of repeating failing TAG trade. | [#186](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Forward hacker delivery** | Valerya Gromoz/Monstrucker with Scarface & Bashi Bayouk offer mission route while big TAG opens fire; press CivVac objectives rather than just target enemy heavy. | [#202](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #226 is one-group/one-TAG with special deployment and projected score, therefore not a clean standard ITS hard-counter example. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -581,3 +581,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Last Launch counterexample** | Zuyong HMG/shotgun Haris and Rui Shi/Shaolin smoke cleared late Nomad pieces but missed final extraction by an Order margin. | [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #108's Haidao replacement is player assessment, **not a played successful composition**. Never treat all Yu Jing profiles as White Banner or Imperial Service legal. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against defensive Camo/Fireteam** | Shaolin smoke + Rui Shi MSV2 and Zuyong/Mowang/Su-Jian mobile specialists create multiple approach angles instead of trading against one powerful long-range ARO. | [#108](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md), [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Against Nomads layered screens** | Zuyong HMG/shotgun Haris removed or disabled multiple Moran/Chimera bodies in Last Launch but ran out of an Order for final extraction; reserve route Orders. | [#201](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Against hackers and impersonal reveals** | Dokkaebi KHD/Pitcher provides electronic counterstrike supporting mobile Mowang/Su-Jian; #108 player suggested Haidao specialist as *unplayed* improvement. | [#108](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Evidence for specific anti-Impersonation success here is thin; do not attribute hypothetical Haidao usage to an observed win. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

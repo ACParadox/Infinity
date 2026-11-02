@@ -804,3 +804,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Battleground counterexample** | Next Wave Defensive Dinos held the distant scoring band while StarCo Anaconda remained durable on a rooftop but could not displace enough zone points. | [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Evidence thin and partly scenario-specific; no confident StarCo advantage over other mercenary sectorials is established. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against defensive Fireteam** | Raoul/Hellcat off-angle threats and Emily/Digger/Hardcase specialists approach Corporate prototype without needing to shoot the main sniper head-on. | [#091](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **TAG / reactive board** | Anaconda+Brawler Hacker+Digger with Jaguar Smoke can threaten middle gun; Bakunin Chimera Eclipse and mines delayed that plan in control-point scenario. | [#049](../../notes/battle-reports/041-050-n5-battle-report-tactical-analysis.md) |
+| **Failure: passive zone points** | StarCo Anaconda remained durable on a roof but Next Wave Defensive Dinos occupied Battleground scoring zone, so a TAG that survives isn't automatically a counter. | [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Sparse results; no verified StarCo-specific all-purpose anti-TAG or impersonator solution can be inferred. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -874,3 +874,13 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 | **The Dig counterexample** | Vidoc/Moonraker defenses suffered Shizoku/Yojimbo early shooting and loss of objective tempo; projected Shinden score only. | [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Mission-different lists beat one generic high-gun link; event winner recollections are not individual full-game recordings. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against expensive Sphinx / backline** | Jamie Arantes Parachutist + Moonraker flank hit Shasvastii rear Med-Tech/EVO while Jackboot/Wave Rider/Cludger held lanes, winning Battleground 10–0. | [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+| **Against Camo zones** | Raveneye/Moonraker/Nightshade hidden zone presence and hacker mine web countered TAK Strelok/Decoy screens in a Supremacy winner retrospective. | [#168](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: Smoke/Disco** | Kestrel Fennec Disco blocked Wrecker/Jamie shot and Hetkari targeted Jamie; Shinden Yojimbo Smoke/Shizoku rocket defeated exposed Vidoc early in an unfinished Dig game. | [#004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#233](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Avoid concluding Torchlight always beats Shasvastii from one lopsided game or that #233's projected 9–1 was final. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

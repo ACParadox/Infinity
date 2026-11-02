@@ -1023,3 +1023,13 @@ For **Maghariba/REM** protection, **Najjarun Engineer15 WIP14 + Nasmat3** is a 7
 | **Custom scenario / mobile angle** | Smoke/Magh/Scarface-style defense and a Bashi Bazouk hidden angle helped in a modified Dire Foes mission, not portable to ITS automatically. | [#183](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** **Evidence weak or mixed:** do not assign Dahshat a strong room or console ranking solely from one losing opponent's commentary and a custom mission. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against room Fireteam / high TAG** | McMurrough Smoke/Super-Jump, Miranda/Zhencha hackers and Maghariba gun can threaten compact center attacks; #129 Military Orders still completed Tic-Tac-Toe connected consoles. | [#129](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Against gunline and hard assault** | Bashi Bazouk Holo decoy and Scarface/Cordelia repair/engineer with Maghariba/McMurrough threaten multiple entry angles; #183 is custom Dire Foes, not transferable ITS results. | [#183](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay** | TLB Hippolyta/Nimrod and Moonraker screens challenged Dahshat Maghariba/McMurrough at objective room in winner interview. | [#171](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Direct evidence of a Dahshat counter reliably defeating a specific TAG, Camo or Impersonator is insufficient. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

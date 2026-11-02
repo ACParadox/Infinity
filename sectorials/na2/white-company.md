@@ -824,3 +824,13 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../notes/list
 | **Supremacy / zone or Annihilation** | The Haidao/Hawkwood fork and linked support deny long lanes, but movement and actually occupying objectives remain a cost. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #010 is a single five-round recap with **Reinforced Command and custom Mega Turret** rules; #033 is duplicate coverage and must not be double counted. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Smoke/visor anti-ARO fork** | Varangian Smoke + Haidao MSV2 sniper, White Noise + Hawkwood non-MSV K1 sniper and Laxmee network provide alternate visibility lanes. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+| **Failure: exposed Hacker/link** | Combined long Pitcher + Bit/Kiss killed WhiteCo Fusilier Hacker, removed described link Sixth Sense and allowed Charontid to remove Hawkwood. | [#112](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) |
+| **Side-angle assassin** | Shona/Liang Kai/Tiger Soldier are alternate access against front sniper but Daturazi template traded into Hawkwood in a report despite his expensive gun. | [#010](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #010 uses custom event extras and #033 duplicates it; do not treat full White Company team as currently legal without Fireteam check. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

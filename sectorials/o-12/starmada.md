@@ -1014,3 +1014,13 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../notes/list-bui
 | **Cutthroat vs Ōban** | Zeta Climbing Plus and MSV2 sniper dominated an open table; reported Ōban 0–8 (single tournament recall). | [#236](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Shona with Varangian offers smoke/CC but dragging a linked Varangian on every Shona Order can slow the actual sabotage run (#216). Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **TAG control / defensive HI** | Cyberghost repeatedly Possessed Neoterra TAG, leaving independent Roadbot-style runner to flip multiple Hardlock consoles (7–1). | [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) |
+| **Defensive Fireteam / objective siege** | Zeta/Beta/Cyberghost drew Janissary/Tarik defenses while Shona crossed and destroyed all three Ramah servers in Mindwipe 10–1; Varangian support could sometimes slow Shona. | [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Vs Moran/Jazz grid** | Starmada Roadbot/Beta/Cyberghost specialists navigated narrow safe corridor between Moran repeaters to collect CivVac under Jazz/Vertigo Guided pressure. | [#078](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** NCA TAG was **Possessed** in #102, not proved destroyed; #078 card made Iguana a Specialist in that game, not baseline. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

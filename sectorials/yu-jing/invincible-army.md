@@ -867,3 +867,13 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Hardlock counterexample** | Yan Huo/Haidao/Zhencha coverage lost beacon scoring to vanilla Ariadna fast Dog Warrior/Scout; match involved acknowledged rules issue. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Avoid trading all independent specialists for durable but inflexible heavy fireteams, particularly in rotating Classifieds. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against TAG/heavy ARO** | Shang Ji Tactical Awareness/NCO + Haidao sniper/Doctor/Engineer may maintain weight, but linked HI are exposed to cheap Bakunin Koala and ranged hacking (#060). | [#060](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+| **Counter hidden airborne striker** | Liu Xing/EVO threatened JSA rear but was killed by a Hidden Oniwaban/Minelayer trap after arriving in #051; stagger the landing or clear mine/CC positions first. | [#051](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
+| **Failure: limited Specialist coverage** | Onyx Kurnau/Xeodron + cheap mine-sweeping EVO completed Countermeasures 6–0 against compact Shang Ji/Bi Xiè/Haidao split Orders; heavy shooting lacked diverse Classified routes. | [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The #100 Area of Interest result was introductory/tutorial evidence, not a dependable elite-versus-camo counter ranking. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
