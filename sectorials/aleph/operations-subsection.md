@@ -930,3 +930,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Supremacy** | Marut + Asura + Dasyu/Deva and Parvati/REM support drew 4–4 with Tunguska by preserving scoring weight. | [#213](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #146 Neutralization illustrates high kill count with insufficient Orders for the required pick-up/delivery. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Counter mines and Camo** | Asura's MSV3 engaged a camouflaged mine; Proxy and Kyra/Kaira remained independent console workers. #208 final contains serious Order-count disputes. | [#208](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Hacking and denial** | Asura Hacker/Proxies/Danavas can threaten heavy opponent while Dart/Shukra/Racerbots pursue scoring; preserve multiple profiles versus Midfield anti-hacker traps. | [#154](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#079](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: over-fighting** | OSS removed more PanO pieces in Neutralization but lacked time to move/neutralize the objective; #237 Scout E/M trapped Marut after poorly defended deployment (concession and rules caveat). | [#146](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md), [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The anti-Camo mechanism is documented even though #208 is not clean win-rate evidence. N5.3 skill and profile versions control. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

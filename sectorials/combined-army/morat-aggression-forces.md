@@ -674,3 +674,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Crossing Lines counterexample** | Strong late Morat kills did not undo early Hollow Men/Heckler/Spectr occupancy; Tunguska won 8–0. | [#229](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Value order-efficient zone workers over one more gun/hacking exchange once the scoring interval approaches. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Defensive HI/Fireteam** | Double Dartok Pitcher → Spotlight/Guided while Rodoks pressed Unmasking; Suryat/Yaogat and Daturazi smoke provided alternate gun angles. | [#118](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) |
+| **TAG / hard armoured units** | Bultrak HRMC and Kaitok E/Flammenspeer can threaten armor but #077's Haqq Yuan Yuan/Bashi flank threatened Kornak/Bultrak; protect support instead of exposing all heavy investment. | [#077](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: zone control** | Late Kaitok/Dart kills failed to remove Tunguska Hollow Men/Heckler/Spectr from earlier Crossing Lines scoring (8–0). | [#229](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #118 Suryat survival was lucky; no Morat-vs-WinterFor automatic result. #077 winner attribution is unclear. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

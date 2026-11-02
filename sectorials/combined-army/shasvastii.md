@@ -654,3 +654,14 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Battleground / distant band warning** | Sphinx killed approximately four for nine–ten Orders but Torchlight Jamie/Moonraker entered the backfield and won 10–0. | [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Tackle rear-edge defense and delivery Orders before an expensive Sphinx alpha. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Vs TAG/vehicle or airborne** | Sāchā E/M grenade genuinely disabled Next Wave Skyhound on a critical; Shrouded/Malignos hacker, Q-Drone/M-Drone Sensor can threaten flyers, but anti-flyer overinvestment lost Provisioning. | [#187](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Camo/Impersonator pressure** | Speculo + Shrouded/Malignos/Dazer saturation used opponent Discover and Camo-avoidance Orders, held Area of Interest zones against Next Wave. | [#159](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#196](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **How opponents beat Shas Camo** | Hassassin McMurrough smoke + cheap Daylami mine clearance + Muyib/Yara/Leila D-Charges crossed Malignos/Shrouded screen in Double Bind; WinterFor Peacemaker mines/turrets repelled late Speculo room breach. | [#232](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md), [#182](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **TAG overcommit risk** | Sphinx spent nine–ten Orders for about four kills while Jamie/Moonraker removed fragile Med-Tech/EVO backline and scored Battleground 10–0. | [#231](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not infer that a Sensor automatically removes Impersonation; #187 E/M critical was a single high-variance event. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

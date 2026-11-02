@@ -942,3 +942,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Annihilation / survive thresholds** | Charontid+Overdron+Daturazi+Gaki denial lost 6–2 to a Hassassin survivor/Jammer plan despite dangerous guns. | [#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** This does not establish Avatar weak in all ITS missions; only that it was an unplayed alternative at #155. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Break enemy Fireteam network** | Long Pitcher → Bit/Kiss Trinity eliminated WhiteCo Fusilier Hacker, described link bonus fell, then Charontid HMG removed Hawkwood. | [#112](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md) |
+| **Anti-elite/CC threats** | Charontid/Vector MSV2 plasma sniping killed Ajax, hidden Puzzler E/M disrupted Eudoros and Charontid Sepsitor converted enemy defenders in a challenge-list game. | [#225](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: enemy TAG / CC** | Combined Overdron+Charontid+Daturazi/Gaki screens still lost threshold-based Annihilation to Hassassin jammers and Shakush; a prepared Avatar was **not played** at Salt Lake. | [#215](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md), [#155](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** One unusual #225 army restriction and lucky exchange are not average EI-versus-Steel success. Always protect specialist/Order base. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

@@ -901,3 +901,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Neutralization / endgame presence** | Maximus suppression and cheap supporting REMs retained board presence after Asura was lost. | [#191](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** The played combination was vanilla ALEPH; do not attribute all its units to OSS or Steel Phalanx. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against forward Moran/Jazz network** | Maximus+Asura/Danavas Spotlight+Guided attacked Moran/Koala positions and supported a 6–4 Decapitation result vs Corregidor; maintain backup Specialist routes. | [#211](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Elite defenders / smoke screening** | Maximus and Asura plus tech/Netrods are effective when the shooter is protected from E/M/hidden flank; Saladin Haqq was able to outscore Maximus in Hardlock. | [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#191](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Hero vulnerability** | Vanilla ALEPH's elite investment can be disrupted by multiple hidden short-attack and anti-tech screens; don't treat all-In hero losses as proof another faction generally beats ALEPH. | [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md), [#211](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #211 was an unusual played vanilla ALEPH roster, not automatically an OSS legal Fireteam. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

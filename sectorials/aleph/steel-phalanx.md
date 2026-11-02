@@ -665,3 +665,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Critical Intervention / vulnerability** | Expensive Ajax/Phoenix/Eudoros attackers can lose their mission package if an early ARO removes a key hero. | [#225](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Do not extrapolate a generalized Steel Phalanx win rate from these single matches. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against hidden gun and zone ARO** | Andromeda flanking and Myrmidon/Hoplite fast close action carried anti-materiel D-Charges through TAK Vystrel/Tankhunter denial in Double Bind 8–6. | [#190](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: hacking and E/M** | Tunguska Interventor/Heckler/Hollow Man bricked Phalanx heroes in Hardlock 5–0; Combined hidden Puzzler E/M isolated Eudoros and Vector sniper removed Ajax. | [#151](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#225](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Defensive link protection** | Avoid clustering Phoenix/Myrmidon/Ajax in one accessible vector and preserve Dactyl/independent Specialist; Converted Steel bodies from Charontid Sepsitor became AROs against their own troops. | [#225](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #225 depends on exceptionally bad early dice and historical Sepsitor rules; check current N5.3 availability/target legality. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

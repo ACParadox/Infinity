@@ -747,3 +747,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Area of Interest matchup caution** | Unusual multiple-Umbra/Cybermask build was bypassed by vanilla Ariadna's Wallace/zone plan; that opponent was not a normal Onyx roster. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** The Xeodron Duo's zone pressure is useful because Kurnau/cheap REMs still perform the exact Classifieds, not because the TAGs score everything. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against TAG/HI and mine field** | Xeodron K1/MULTI Duo drew defender attention while Kurnau White Noise/KHD and E-Drone sacrificed itself to clear a mine for a Countermeasures Classified (6–0). | [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+| **Against defensive team** | Umbra Samaritan/Legate forward hacking, Suryat TinBot/launcher and cheap Ikadron support create multiple angles while surviving specialists perform Evacuation/Classified. | [#141](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| **Opposing infiltration/CC risk** | Atypical five-Umbra/Cybermask roster let vanilla Ariadna Wallace and cheap zone pieces score around its plasma tech. Anti-hacker group should not omit a real scorer. | [#237](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Distinguish Onyx-specific profiles from vanilla Combined; #237 opponent roster is atypical and round context limited. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

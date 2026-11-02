@@ -540,3 +540,13 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 | **Acquisition / Superiority lane fighting** | Marauder/Minuteman/Grunt ranged shells with cheap forward specialists have a plausible zone plan, with mixed outcomes. | [#057](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md), [#059](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Limited consistent scoring evidence; don't rank USARF above broad-area competitors based on this sample. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against protected gunlines** | Blackjack duo/Grunt/Minuteman and cheap Foxtrot/Maverick screening absorbed O-12 pressure in Hunting Party; only a sustainable mission path turns resilience into points. | [#124](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **TAG already in mission zone** | Varuna's hidden Cutter scored Area of Interest while Mavericks/smoke and Unknown Ranger/Minutemen failed to dislodge scoring weight; threaten a different zone or exact carrier. | [#203](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Airborne assassin counterexample** | Van Zant shot Voronin but mine/template and cover screens prevented finishing the Corporate target; one rear entry is not automatic success. | [#223](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Sparse examples of direct anti-hacking or anti-Impersonation success; no USARF-wide dominance is inferred. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

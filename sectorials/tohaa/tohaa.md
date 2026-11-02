@@ -902,3 +902,13 @@ See [Cheerleaders and Order Generators — N5.3 apex, points-value and matchup g
 | **Hardlock / resilient objective plan** | Makaul/Rasail/Kaeltar and durable Triad bodies provide escort/holding options; #093's opponent chose Dino zone-saturation specifically to contest Tohaa resilience. | [#093](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** Do not confuse Makaul Eclipse movement value with being a reliable primary gun. Printed current anti-materiel and Specialist capability determine Mindwipe options. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against elite HI / room** | Kriigel pheroware E/M and Makaul Eclipse deter Hatamoto approach, while Rasail/Chaksa templates and Kaeltar/Sakiel resilient bodies defend contested objective corridor. | [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md), [#189](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Camo/Impersonation / scoring** | Makaul Eclipse and independent Sukeul/Libertos or hidden Specialist can travel around snipers, but #217 player found Makauls poor primary shooters. | [#217](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md), [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: breach** | Shinden Hatamoto/Shizoku/Yamabushi pressure removed the final data pack Paramedic; Tohaa Camo/room fortress failed when no protected carrier survived. | [#224](../../notes/battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** Do not claim Tohaa automatically defeats defensive HI; #224 is a defender-successful counterexample in an asymmetric mission. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).

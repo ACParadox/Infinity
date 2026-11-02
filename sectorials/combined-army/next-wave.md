@@ -782,3 +782,13 @@ The [N5.3 cross-faction ARO apex/value and matchup study](../../notes/list-build
 | **Provisioning / frontline objectives** | Skyhound/Stinger/Steeljaw gun and mine pressure with Puzzler/Harbinger specialists; retain objective workers. | [#187](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
 
 **Limits:** #001 and #156 cover one event. #197 and #239 show Achilles/fast vehicles losing mission value to hacking or insufficient objective bodies. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../notes/battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+## Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Defensive Fireteams / edge pressure** | Achilles/Patroclus plus Puzzler/Harbinger network threatened forward HI; alternatively four Steeljaws/Harbinger-Wraith ‘Defensive Dinos’ saturated Battleground and hard zones. | [#165](../../notes/battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Against Camo gunlines** | Skyhound/Stinger and Puzzler/Tech Dragon can reach markers from odd ranges, but Shasvastii quad-Shrouded+Dazers retained Area of Interest zones; more guns were insufficient. | [#196](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: hackers and hidden mines** | Overextended Achilles was isolated/IMM'd by Tunguska Interventor/Kulak/Cybermines, 7–3; O-12 cheap Razor/Gangbuster/Moonraker Camo and cyber contest outscored Next Wave 4–2. | [#197](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md), [#239](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #165 reports distinct mission lists; do not mash both archetypes into one illegal or unaffordable roster. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
