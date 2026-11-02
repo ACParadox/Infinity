@@ -146,6 +146,122 @@ Choose the marker to handle by **what it can score or block now**. A Camo shell 
 | **Tohaa** | Makaul Eclipse, Kriigel E/M and Rasail/Chaksa templates create overlapping CC/tech deterrence; use Sukeul/Gao-Rael role and robust carrier. Counterexample: Hatamoto eliminated final Data-pack holder | [#189](181-190-n5-battle-report-tactical-analysis.md), [#217](211-220-n5-battle-report-tactical-analysis.md), [#224](221-230-n5-battle-report-tactical-analysis.md) |
 | **NA2 (WhiteCo / Druze / Ikari / Dahshat / StarCo)** | WhiteCo Smoke + MSV / White Noise + K1 fork (but protect Fusilier Hacker); Druze/Ikari Brawler/KHD with disposable warbands and Scarface/Engineer; defend against assassin and mandatory objective access rather than only sniper lane | [#010](001-010-n5-battle-report-tactical-analysis.md), [#075](071-080-n5-battle-report-tactical-analysis.md), [#091](091-100-n5-battle-report-tactical-analysis.md), [#112](111-120-n5-battle-report-tactical-analysis.md), [#129](121-130-n5-battle-report-tactical-analysis.md), [#185](181-190-n5-battle-report-tactical-analysis.md), [#186](181-190-n5-battle-report-tactical-analysis.md), [#202](201-210-n5-battle-report-tactical-analysis.md), [#226](221-230-n5-battle-report-tactical-analysis.md) (modified) |
 
+
+## Practical counterplay playbooks — decision guides from battle reports (2026-11-02)
+
+These are **specific questions and action sequences**, not faction-versus-faction rankings. “Reliable” means the *decision mechanism* has multiple supporting observations or is robust to common counter-counterplay; it never guarantees a die result. Each example is from the **played historical roster**. Verify current N5.3 equipment, hacker programs, immunities, Fireteams and the actual ITS packet before adopting it.
+
+### Playbook A — How do PanO lists overcome dense hacking networks?
+
+**Problem:** An expensive TAG/HI moves into multiple enemy Repeater areas, then spends its active pool Resetting, accepting Oblivion/Spotlight, or being hit by Guided. The wrong solution is to drive its best gun straight through and expect BTS to solve the route.
+
+**Decision order:**
+1. **Map the projected network before activating the premium attacker.** Locate the *physical* Pitchers, FastPandas, repeaters, Hackers and missile REM, and note whether a nearby Mine/Koala makes shooting the Repeater unsafe. Ask which ordinary and Killer Hacker attacks are actually legal against each troop. If one Repeater carries the whole fork, **remove it first**.
+2. **Use a nonhackable enabler or independent ranged piece to clear the node** before advancing the TAG/HI. A PanO gunfighter may clear visible Pitchers through an alternate angle while an Engineer waits behind. Ensure the gun's chosen line is not covered by a second Pitcher.
+3. **Bring counterhack and recovery, not just raw BTS.** A protected KHD/HD, Firewall or TinBot where valid, and Machinist/Palbot or appropriate Engineer creates a way to survive the first attack and still use the expensive piece. Preserve a second, preferably nonhackable, Specialist path to the actual objective.
+4. **Use a distinct approach channel:** smoke/Disco or geometry can break the opponent's shooting support, while a forward/deep-deployment Specialist scores around the network. **Do not claim Smoke blocks hacking by itself**; the actual Hacking Area, equipment and program matter.
+5. **If the network is too costly to destroy, outscore it** by moving a nonhackable/less exposed scorer on the other flank. Count the Orders for each path before committing to the Repeater trap.
+
+**Observed sequences and what they teach:**
+- **PanO-affiliated Kestrel versus White Banner:** Firefly/Griffin removed a projected hostile Pitcher, **then Hetkari** attacked. The opposite order would have exposed the expensive assault first. **Kestrel versus Combined** likewise cleared Repeaters later and recovered Supremacy scoring, but **Redeye first-turn direct alpha versus Q-Drone** had already wasted many Orders. [#003](001-010-n5-battle-report-tactical-analysis.md), [#005](001-010-n5-battle-report-tactical-analysis.md) — *direct observations*.
+- **Varuna versus O-12:** Zulu-Cobra KHD/Pitcher and cheap Fusilier Hacker provided a thin cyber screen; **Machinist recovered Squalos** after enemy disable, and **Pathfinder** remained the delivery/scoring actor. This is the useful **attacker / counterhacker / Engineer / scorer** separation. [#019](011-020-n5-battle-report-tactical-analysis.md) — *tournament recollection*.
+- **Military Orders versus Tunguska:** Double Seraph + Defersen and Engineer/tech support **reached vulnerable hacking support** in a 10–0 Corporate round and worked in Hardlock. Same player **swapped away from double Seraph** against Morat Dartok/Yaogat anti-TAG tools. Cyber superiority alone is not a guaranteed TAG counter. [#181](181-190-n5-battle-report-tactical-analysis.md) — *tournament recollection; historical Fireteam*.
+- **Neoterra counterexamples:** Tunguska's three Interventors/Repeaters/Guided removed over a third of NCA's force and caused Retreat in Crossing Lines; Starmada **Cyberghost Possessed an NCA TAG** while Roadbot won Hardlock buttons 7–1. Static Bolt/TAG quality did not defend the cyber or objective routes. [#122](121-130-n5-battle-report-tactical-analysis.md), [#102](101-110-n5-battle-report-tactical-analysis.md) — *single games*.
+- **PanO triple TAG counterexample:** Cutter/Squalo/Tikbalang could shoot but lost Firefight **5–2** because Hassassin accomplished Classifieds. Even if no hacker hurts your TAGs, zero specialist variety can still lose the actual mission. [#214](211-220-n5-battle-report-tactical-analysis.md).
+
+**Plan-selection rule:** For a **few exposed Pitchers**, clear them and assault. For a **redundant network**, threaten its Hacker with KHD/independent attacker **and** score the weak flank. Against **KHD/TinBot support**, compare actual Firewall/BTS and attack angle; never assert “any PanO KHD counters Interventor.” [#115](111-120-n5-battle-report-tactical-analysis.md) documents a Banshee KHD that failed to damage Interventor despite good rolls.
+
+### Playbook B — How does Ariadna handle heavy TAG lists without conventional hacking?
+
+**Problem:** PanO/OSS/Combined TAGs may outshoot regular Ariadna guns; much of Ariadna cannot threaten them with hacker programs. The goal is **disable, force bad angles, trade efficiently or score elsewhere**, not obligatorily destroy the armor.
+
+**Decision order:**
+1. **Screen the approach with hidden anti-heavy threats:** Scout **E/M Minelayer** (if on the played/current profile), Camo/Decoy Streloks, hidden Tankhunter Autocannon or other actual AP/EXP tools. Use their uncertainty to force Discover, Dodge and inefficient move paths; do not expose the Tankhunter on a low-value target.
+2. **Separate anti-TAG jobs:** the **E/M piece disables or delays**, Tankhunter/Vystrel/anti-materiel weapon punishes exposure, **Dog-Warrior/Galwegian/Cameronian/Wallace** can close a route at short range, while Dynamo/Sasha/Kövlk or other eligible unit completes the mission. The expensive shooter and mission runner need not be the same model.
+3. **Control vision and entry** with Dynamo/Maverick smoke and expendable cheap screens. A smoke-delivered melee attempt is contingent on actual access, enemy visors/templates and reactive mine positions—not automatic protection from a TAG.
+4. **Before entering the gun's optimal range, ask if it can be bypassed.** In prototype/cargo scenarios, take the alternate flank and finish; in repeated zones where **a Cutter itself supplies scoring weight**, plan to **displace or outweigh** that model rather than simply ignore it.
+5. **Protect remaining scoring Orders and the Lieutenant/CoC.** One successful anti-armor duel can still lose if it consumes the entire active turn.
+
+**Observed outcomes:**
+- **Marut disabled:** In the CanCon **vanilla Ariadna** Crossing Lines round, Scout E/M mine Isolated/Immobilized OSS **Marut Lieutenant**, then mobile Dog-Warrior/Galwegian and Dynamo threats exploited a poorly defended deployment. **OSS conceded**; this is a demonstrated disable + structural advantage, **not an independently verified full-game TAG kill**. The same tournament had a material rules issue in a different round. [#237](231-240-n5-battle-report-tactical-analysis.md).
+- **Cutter bypassed:** Against Varuna **Cutter** in Corporate Appropriation, **Dynamo smoke + Sasha extracted a prototype** while Cutter took inefficient combat Orders. Wallace offered a separate CC/anti-materiel destroy option. [#161](161-170-n5-battle-report-tactical-analysis.md), [#237](231-240-n5-battle-report-tactical-analysis.md) — **one event, not two confirmations**. Earlier standalone Wallace/Tankhunter vs USARF prototype attack is a distinct relevant anti-materiel example. [#223](221-230-n5-battle-report-tactical-analysis.md).
+- **Non-hacking pressure can have real risk:** Tankhunter Autocannon punished Unknown Ranger's split-Burst action (#223), but the champion said Tankhunters were only “mostly okay” across the tournament; avoid converting 1–2 explosive exchanges into guaranteed anti-TAG performance. [#223](221-230-n5-battle-report-tactical-analysis.md), [#237](231-240-n5-battle-report-tactical-analysis.md).
+- **TAG that scores itself breaks the bypass approach:** A hidden **Varuna Cutter** accrued Area of Interest zone weight against USAriadna despite Maverick smoke and Unknown Ranger/Minuteman attacks; Varuna won **6–4**. [#203](201-210-n5-battle-report-tactical-analysis.md). In this packet you need *territorial points*, not just a safe cargo path.
+- **Expensive melee is not always efficient:** Ariadna Bearpode consumed many Orders for a cheap REM trade versus Torchlight in Corporate, while more mundane Tankhunter and specialist actions mattered. [#210](201-210-n5-battle-report-tactical-analysis.md).
+
+**List test:** Include one meaningful **E/M or AP/EXP threat**, one **smoke/marker** approach, a **short-range trade** if legal, and **two independent scoring options**. Do not assume each named model exists in TAK/USARF/Caledonia/Kosmo because it appeared in **vanilla Ariadna**.
+
+### Playbook C — What reliably disrupts a defensive Fireteam?
+
+**Do not make “kill the best sniper” the plan by default.** Evaluate three alternative wins: **change visibility**, **remove an enabling member**, or **ignore the lane and score**.
+
+| Defense / obstacle | Preferred test | Played examples and limits |
+|---|---|---|
+| Long-range reactive sniper/linked HMG | **Smoke/Disco/Eclipse, White Noise** where correct for defender's *specific* visor; stage then attack at favorable angle/range | Fennec Disco allowed Hetkari past Torchlight Wreckers/Jamie [#004](001-010-n5-battle-report-tactical-analysis.md); Varangian Smoke + Epsilon MSV2 threatened a Tikbalang [#041](041-050-n5-battle-report-tactical-analysis.md); Yojimbo Smoke/Shizoku HRL broke Vidoc ARO early, but **Dig 9–1 was projected** [#233](231-240-n5-battle-report-tactical-analysis.md) |
+| Linked Hacker / TinBot / Sixth Sense enabler | Remove the **accessible supporting Hacker/Repeater or link member first**, then re-evaluate defender's modifiers | Combined long Pitcher → Bit & Kiss KHD removed WhiteCo **Fusilier Hacker** → narrated link dropped Sixth Sense → **Charontid eliminated Hawkwood** [#112](111-120-n5-battle-report-tactical-analysis.md). Recheck current link-break rules, historical membership and whether the same mechanism survives N5.3 |
+| Strong gun protected by links but **hackable** | **Project a Repeater** and perform viable program/Guided action without fighting Burst head-on | Morat **Dartok Pitchers + Guided** hit protected WinterFor gun while Rodok pressed Unmasking [#118](111-120-n5-battle-report-tactical-analysis.md); Tunguska Guided broke **TAK Veteran/Frontovik Suppression** [#166](161-170-n5-battle-report-tactical-analysis.md) |
+| Link bunched at a door or objective | **Templates/mines/Koalas/CC**, threaten the room *and* its Specialist, force multiple Dodges | Caledonian Wulver/Cameronian/Galwegian/Mormaer barrier consumed White Banner assault Orders in Critical Intervention [#086](081-090-n5-battle-report-tactical-analysis.md); Bakunin Chimera/Pupnik and Cenobite/Orphan denial protected Provisioning supplies [#163](161-170-n5-battle-report-tactical-analysis.md) |
+| Fireteam covers one dominant lane | **Flank/Parachutist/forward hidden scorer**, preserve the Order cost of landing and moving to target | Jamie Arantes + Moonraker hit Sphinx backline and scored Battleground [#231](231-240-n5-battle-report-tactical-analysis.md); Banshee attacked exposed back angle after Hetkari forced facing reaction [#003](001-010-n5-battle-report-tactical-analysis.md) |
+| Countering an ARO costs too much | **Don't fight it**—reach another button/zone/HVT, or exhaust its mission relevance | Kestrel Black A.I.R. did not by itself stop White Banner Unmasking HVT actions [#002](001-010-n5-battle-report-tactical-analysis.md); WinterFor **Nisse spent 5–6 Orders** clearing Cenobite HRL then ran short for Supplies [#194](191-200-n5-battle-report-tactical-analysis.md) |
+
+**Re-evaluate after first exchange.** If a lone reactive model costs more than **two to three extra Orders without opening the objective route**, stop the duel and recalculate. This is a practical decision trigger, **not** a measured universal optimal threshold. When a linked gun's defense is still protected by another piece, take that piece's ARO into account. The identity of the **key Fireteam member** and its legal bonuses must be verified from the current canonical Fireteam chart.
+
+### Playbook D — When should you attack a Camo marker versus bypass it?
+
+**Ask what this exact marker can do to your present scoring path.** Camo/Decoy's chief value often is *forcing a low-information Order*, not killing troops.
+
+| Situation | Default action | Reason / observed cases |
+|---|---|---|
+| Marker directly guards a **mandatory button, carrier route or last scoring zone** | **Test/clear it deliberately**, often with a cheap model or Sensor if legal; then move the Specialist | Onyx **E-Drone walked into a mine** to protect Kurnau's Classified route [#212](211-220-n5-battle-report-tactical-analysis.md); Hassassin Daylami absorbed mines before Double Bind D-Charges [#232](231-240-n5-battle-report-tactical-analysis.md) |
+| Marker may be Decoy or expendable and has **no immediate scoring power** | **Bypass; do not repeatedly Discover** just for a kill | Ariadna Strelok Decoys disguised Tankhunters and Shasvastii Camo density diverted opponent Orders [#067](061-070-n5-battle-report-tactical-analysis.md), [#159](151-160-n5-battle-report-tactical-analysis.md), [#161](161-170-n5-battle-report-tactical-analysis.md) |
+| Unrevealed marker **counts in an end-of-round zone** | You must **contest weight/occupancy, reveal/remove, or control another region**; mere avoidance may lose | Shasvastii quad-Shrouded/double Malignos held Area of Interest bands despite Next Wave having the console [#196](191-200-n5-battle-report-tactical-analysis.md) |
+| You own **Sensor** or appropriate **MSV** and can exploit the reveal immediately | Test from protected position if payoff exceeds the reveal/approach cost | Redeye Sensor identified Caledonian marker while Black A.I.R. K1 threatened the exposed problem [#158](151-160-n5-battle-report-tactical-analysis.md); M-Drone Sensor exposed hidden Anathematic [#155](151-160-n5-battle-report-tactical-analysis.md) |
+| ARO shot is covered by **mines, template and second hidden model** | **Force reveal with cheap expendable actor** or find a non-ARO corridor; avoid feeding main gun | Hidden **Oniwaban/Minelayer** caught arriving Liu Xing [#051](051-060-n5-battle-report-tactical-analysis.md); TAK Vystrel/Strelok layers taxed opposing top-tier shooters [#064](061-070-n5-battle-report-tactical-analysis.md), [#067](061-070-n5-battle-report-tactical-analysis.md) |
+| Targeting Camo gives no objective benefit this turn | Usually **score elsewhere**, preserving Orders for button/cargo/end turn | Next Wave attacked Shas marker shell but lost area occupancy despite fighting; actual objective needed zone bodies [#196](191-200-n5-battle-report-tactical-analysis.md) |
+
+**Decision rule:** Prioritize **(1) mandatory scoring blocker**, **(2) a marker able to reveal into a lethal ARO at the imminent route**, **(3) a marker actually counting toward scoring**. A distant unidentified marker with no relevant lane often ranks below an open objective. **MSV is not inherently Sensor**; “can see”, “may Discover”, “can target a Marker”, “reveals hidden state” and “ignores Mimetism” are different printed rule interactions. An Impersonator has its **own** rules.
+
+**Counterexample:** Shasvastii deliberately held a **Hidden Malignos** for an anti-flyer opportunity so long that it had too few Orders left to help its own Provisioning plan; merely keeping an unseen model is not valuable if it cannot act when needed. [#187](181-190-n5-battle-report-tactical-analysis.md).
+
+### Playbook E — How do you protect against first-turn deployment-zone attacks?
+
+This is principally a **deployment, reserve and activation-access problem**. The attacker can be an Impersonator (Fiday/Speculo), Parachutist (Banshee, Jamie, Van Zant), Combat Jump unit (Bearcat/Liu Xing) or very fast melee/vehicle assault. **They do not share one arrival/Discover/ARO rule.**
+
+**Deployment sequence:**
+1. **Identify what ends the game if hit:** obvious Lieutenant, sole Engineer, single Hacker controlling the network, only medic/eligible Specialist, Order-generator cluster, and the *mission object*. Put mission-critical pieces behind cover and avoid lining two or three support targets inside one template or easy move-shoot angle.
+2. **Create two-layer rear protection**: cheap template/mine/Koala/Flash pieces near likely arrival corridors, plus a **second independent responder** watching the route after the first guard is traded. Watch *lateral board edges, roof/vertical angles and blind arcs*, not just the DZ's front line.
+3. **Preserve reserve information**: hidden/safe deployment, actual Sensor/Discover or anti-impersonation specialist if present, and backup LT/CoC can reduce the impact of one successful assassination; a Reserve model or a decoy does not automatically block Combat Jump.
+4. **Don't present one irresistible first-turn alpha target.** Deny multi-kill angles for airborne shotgun/plasma/large template, and force the enemy to spend Orders moving from safe entry to the valuable support.
+5. **After the first attack, prioritize re-forming the scoring floor:** rescue or replace vital support, restore a Hacker/Engineer if possible, reposition vulnerable backs and protect last-turn objectives. A successful DZ defense must preserve **game continuation**, not necessarily kill the assassin immediately.
+
+**Observed successes and failures:**
+- **Hidden interception worked:** JSA **Oniwaban Hidden/Minelayer (2)** killed **Liu Xing** arriving by Combat Jump near its defender; that specific deployment punished a particular landing, not every possible airborne lane. [#051](051-060-n5-battle-report-tactical-analysis.md) — *direct action*.
+- **Screens stopped mission destruction despite Lt death:** **Van Zant killed Voronin** after arriving against vanilla Ariadna, but mines/defensive positions prevented doing the last wound to the Corporate objective. Protecting **the mission target** can be enough even if the Lt falls. [#223](221-230-n5-battle-report-tactical-analysis.md).
+- **Multi-layer room defense survived early infiltration:** Shas **Speculo/Sheskiin** killed WinterFor defenders first turn, yet **Peacemaker mine, deployable turrets and last-turn room actor** prevented data-package conversion; WinterFor won **9–5**. [#182](181-190-n5-battle-report-tactical-analysis.md).
+- **Poor rear protection lost to AD and flank:** Torchlight **Jamie Parachutist + Moonraker** reached Sphinx army's **Med-Tech/EVO** backend, causing command/Order collapse and far-band scoring, **10–0**. [#231](231-240-n5-battle-report-tactical-analysis.md) — *direct action*. Kestrel **Banshee** similarly punished an exposed back angle after initial Hetkari pressure [#003](001-010-n5-battle-report-tactical-analysis.md).
+- **Impersonator punished critical support:** **Fiday** reached Shindenbutai **Tanuki CoC/Hacker/Panguling** in Frontline; **Fiday + Haytham** disrupted Combined **Sheskiin/Anathematic** support when cheap minelayer/templates did not actually guard the approach. [#088](081-090-n5-battle-report-tactical-analysis.md), [#147](141-150-n5-battle-report-tactical-analysis.md).
+- **Even elite long-gun defense can be bypassed:** MO's double Seraph rushed Tunguska hacker support despite front Repeaters [#181](181-190-n5-battle-report-tactical-analysis.md). A strong TR gun by itself will not secure every blind back edge.
+- **Countermeasure has opportunity cost:** Shujae E/M Minelayers plus Ghazi Jammers helped a Hassassin player survive five consecutive second turns [#173](171-180-n5-battle-report-tactical-analysis.md), but a first-turn screen-heavy list may sacrifice a scoring unit. Evaluate **which attack vector is realistic on this mission/table**.
+
+**Mission-sensitive exceptions:** In **Crossing Lines** the extra forward blocks and dead-zone geometry radically alter threat directions [#229](221-230-n5-battle-report-tactical-analysis.md); in **Evacuation** entry/exit and CivVac rules alter the value of early attack [#227](221-230-n5-battle-report-tactical-analysis.md); for **Critical Intervention** the defender can lose models then still protect an untransferable carrier/room [#182](181-190-n5-battle-report-tactical-analysis.md). Do not copy one defensive DZ template between packets without changing deployment.
+
+### Recommended counterplay evaluation worksheet
+
+For each opponent list or played game, record the following *separately* so a striking kill does not inflate a supposed counter matchup:
+
+| Field | Example of a useful entry |
+|---|---|
+| Enemy threat and supporting tools | Cutter + Helots + Pathfinder, or Hollow Men + Heckler + Interventor |
+| First vulnerable link | Exposed Pitcher, lone Hacker, cargo courier, mine on mandatory console path |
+| Initial counter plan / backup | Clear Pitcher then fire Hetkari / use protected Fennec or alternate flank |
+| Actual observed action | Disabled with E/M, forced Reset, killed backline, forced Discover, safely bypassed |
+| Counter-counterplay / failure | Firewall/BTS stopped KHD; Engineer repaired TAG; Hidden marker still scored zone |
+| Orders spent and mission conversion | Approximate only when report states it; did Specialist press button, carry box or hold zone? |
+| Evidence and caveats | Numbered dossier, O/R/I, version, modified mission, duplicate tournament, disputed rules |
+| Forward applicability | Which **current legal profile and Fireteam** actually replicates the job? |
+
+**Practical conclusion:** Prefer **two independent ways of finishing the mission** and choose the *lowest-risk counter that opens those ways*. “Countered the TAG” means little if the target survives to score the zone; “ignored the sniper” is excellent if a Specialist completes the action. Each playbook is a conditional decision guide, not a ranking of PanO versus Nomads or Ariadna versus Combined.
+
 ## List-building and turn-by-turn counter checklist
 
 1. **Identify** the *real obstacle*: armor and wounds, hackability/state, visor/line of fire, hidden marker, impersonator path, or opponent's **mission action**. A “TAG problem” often is a **scoring-geometry problem**.
