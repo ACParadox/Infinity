@@ -1,5 +1,7 @@
 # Weapon Chart
 
+> **N5.3 reference note:** This large generated chart may contain pre-N5.3 weapon rows. Apply [N5.3 Weapon Updates](N5.3_Weapon_Updates.md) first for Kobra Pistol, Trench-Hammer, AP Red Fury, AP Thunderbolt, Breaker Sniper Rifle and Thunderbolt category. The official current chart takes precedence over legacy generated data. Source: https://infinitythewiki.com/Weapon_Chart
+
 ## Contents
 
 - 1 BOWS

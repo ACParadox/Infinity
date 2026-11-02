@@ -20,7 +20,7 @@ Special Terrain rules are an easy way to spice up your Infinity games with new t
 
 - Players must discuss and agree on the specific characteristics of each Special Terrain area.
 
-- When preparing the game table, the players must assign the characteristics that define each Special Terrain area: Difficult Movement, Saturation, Visibility Conditions and Type of Terrain.
+- When preparing the game table, the players must assign the characteristics that define each Special Terrain area: **Difficult Terrain** (N5.3 terminology), Saturation, Visibility Conditions and Type of Terrain. See https://infinitythewiki.com/Terrain_and_Scenery_Structures
 
 - Each Special Terrain must have the Type of Terrain characteristic and at least one other characteristic.
 

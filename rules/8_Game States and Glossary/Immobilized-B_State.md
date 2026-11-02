@@ -14,6 +14,8 @@ Game States and Glossary
 
 - A Trooper with the Engineer Special Skill (or an equivalent Skill) may cancel the Immobilized-B state by spending one Short Skill of an Order while in Silhouette contact with the affected Trooper, and passing a Normal WIP Roll (or the Roll specified by the Special Skill or Scenario).
 
+> **N5.3 example — Hacking an Immobilized-B target:** An Immobilized-B Trooper targeted by Trinity can declare Reset as its ARO, applying the **-3 WIP** MOD from Immobilized-B. Resolve Trinity versus Reset as a Face-to-Face Roll, with Trinity's normal program MODs also applied. See https://infinitythewiki.com/Immobilized-B_State
+
 ## Immobilized-B and Carbonite
 
 - Any failed Saving Roll causes the target to enter Immobilized-B State, placing an Immobilized-B State Token (IMM-B) by them.

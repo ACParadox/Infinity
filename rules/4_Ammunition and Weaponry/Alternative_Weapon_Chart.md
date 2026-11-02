@@ -1,5 +1,7 @@
 # Alternative Weapon Chart
 
+> **N5.3 reference note:** Use [N5.3 Weapon Updates](N5.3_Weapon_Updates.md) to override any legacy weapon profiles in this generated chart. Reconcile changed and added weapons against the official current chart before using old values. Source: https://infinitythewiki.com/Alternative_Weapon_Chart
+
 Reference Charts
 
 Weapon Chart | Alternative Weapon Chart | Ammunition Summary Chart

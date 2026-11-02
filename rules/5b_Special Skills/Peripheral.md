@@ -1,5 +1,7 @@
 # Peripheral
 
+> **N5.3 / FAQ v0.1:** See also [Peripheral N5.3 update](Peripheral_N5.3_Update.md) for the consolidated Cyberplug wording and Peripheral FAQ clarifications. Source: https://infinitythewiki.com/Peripheral
+
 Special Skills
  AUTOMATIC SKILL
 Obligatory 
@@ -125,11 +127,11 @@ This Special Skill indicates a remote link that allows to control Peripherals (C
 
 - There is no limit to the operating distance between the Trooper with Peripheral (Cyberplug) and their Controller.
 
-- Peripherals (Cyberplug) have two Unit Profiles, a Connected Profile and an Autonomous Profile.
+- **N5.3:** Peripherals (Cyberplug) have two Unit Profiles, a Connected Profile and an Autonomous Profile, determined by their player at the start of the Order/ARO.
 
 - While using their Connected Profile, a Peripheral (Cyberplug) is always activated with the same Order as its Controller, declaring the same Short Skills of the Order, or Long Skill. However, the Controller performs an Idle instead of the declared Skill.While using their Autonomous Profile, a Peripheral (Cyberplug) can be activated with Orders from the Order Pool and can declare its own AROs, independently from the Controller. Place an Autonomous Token by the Peripheral.
 
-- Restriction: The Controller may have a maximum of two Peripherals (Cyberplug) under their control. In this case, they may only activate them one at a time using the Connected Profile, and applying the previous conditions. Meanwhile, the other Peripheral switches to its Autonomous Profile.
+- **N5.3 restriction:** A Controller may have no more than two Peripherals (Cyberplug); at most one may use its Connected Profile at a time. Any Cyberplug not using its Connected Profile uses its Autonomous Profile.
 
 - When deployed, one of the Controller's Peripherals (Cyberplug) uses their Connected Profile, while the other uses their Autonomous Profile.
 

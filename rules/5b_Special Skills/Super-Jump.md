@@ -18,7 +18,7 @@ Troopers with Super-Jump have the ability to perform super-human jumping feats t
 
 - If the Trooper is or becomes Impetuous (due to having the Frenzy Characteristic or any other effect), they can use Super-Jump in the Impetuous Phase.
 
-- Some Troopers have the Super-Jump Skill listed in their Unit Profile with a distance shown in round brackets. When Jumping, the Trooper can add this distance to their Jump, instead of the usual 2 inches of the Jump Skill.
+- Some Troopers have the Super-Jump Skill listed in their Unit Profile with a distance shown in round brackets. **N5.3:** When declaring Jump as a **Short Skill**, the Trooper can add this distance to their Jump instead of the usual 2 inches of the Jump Skill. This parenthetical modifier does not alter the separate Long Skill rule. See https://infinitythewiki.com/Super-Jump
 
 ### Super-Jump (Jet Propulsion)
 
