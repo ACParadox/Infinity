@@ -27,6 +27,8 @@ Use **the actual date of play** over the video's or podcast's publication date w
 
 **How to interpret row values:** A version labeled **(event date)** reflects a known event-date window; **(title)** is directly established by the report title; **?** denotes an estimate from event context or a publication/forum date. A range or **unknown** indicates insufficient evidence. Publication dates never automatically establish the played revision, and an ITS season is **not** assigned to a casual game just because that season was chronologically current. A report of an event may discuss games that occurred under a previous rules revision.
 
+**Cross-report synthesis:** [Why N5 games are actually won — 24-case annotated pilot, victory mechanisms, specialist/timing analysis, and Order-overrun failures](n5-why-games-are-won.md) (descriptive percentages only; no unsupported causal attribution).
+
 **Cross-report synthesis:** [Which N5 unit combinations repeatedly work? — 16 costed synergy packages, point/SWC totals, Fireteam legality and independent-report confidence](n5-repeatable-unit-synergies.md) (distinguishes played interaction from merely shared rosters, links duplicate event coverage, and includes failed counters).
 
 **Cross-report synthesis:** [What actually makes a unit valuable? — role-specific N5 unit-value rankings, enemy Order tax, mission scoring and case evidence](unit-value-role-effectiveness-n5.md) (uses the numbered tactical analyses; distinguishes observed contributions from inference, custom missions and overlapping tournament recaps).
