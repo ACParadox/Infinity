@@ -12,6 +12,15 @@
 - **Constraints:** one standard Moran (not two); scarce long-range burst and high-SWC firepower if Guided consumes the budget; no vanilla Core; 2026 Fireteam membership is selective; concentrated hackers may share one vulnerability to enemy killer hackers, stealth/non-hackables or broken repeaters.
 - **Practical rule:** *build the objective plan and ordinary gunfighting answer first; then buy sufficient hacking network to improve those answers*. You can pivot into full hacking, but it requires an explicit anti-Stealth and non-hackable plan.
 
+**Different vision-control paths:**
+
+- **Morlock Smoke + Intruder MSV2:** engage through normal Smoke.
+- **Jazz or Interventor HD+ + Repeaters:** project White Noise against visors and Marksmanship.
+- **Chimera + Pupniks:** deliver close-combat pressure with Eclipse.
+- **Kulak, Lobo, Prowler or Shifta Disco Baller profile:** cross a protected lane without winning the gunfight.
+
+Do not assume one smoke/White Noise/Eclipse template enables all the others; choose the one that lets your actual scorer act. Hacking grids cost setup Orders, and cheap crossings can sometimes score more efficiently. [Whole-game vision-control analysis](../list-building/vision-control-units-apex-and-value.md).
+
 ## Three distinct list engines
 
 | Approach | Core and why | Failure point / when not to pick |
@@ -37,6 +46,14 @@
 - **Kulak KHD + Disco Baller:** forward deployable-hacking reach on a legal Duo/Haris-compatible body; Kulak **CoC** is insurance if investing in a vulnerable Lieutenant.
 - **Cheap Morlocks / Chimera:** smoke or Eclipse, contact trading, lane denial and distraction. Irregular/Impetuous Orders are **not freely fungible Regular Orders**; tally usable orders by combat group.
 
+**Vertigo is a conditional Guided payoff, not a compulsory hacking centerpiece:**
+
+- **Vertigo Guided 16/1.5:** converts marked targets into missile pressure.
+- **Interventor, Jazz and Mary:** hackers; **Pitchers, Zero and one vanilla Moran (AVA1):** network delivery, unlike Corregidor's two Morans.
+- **Tactical Awareness S3E26:** contrasts missile-first hacking saturation with diversified direct REM/gun plans.
+
+A network can shape the enemy's movement and enable ordinary Targeted attacks even if no missile fires. Preserve an independent gun and scoring plan if the network is shut down. [Indirect-fire analysis](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
 ## TAGs — what you get, not just which one is “good”
 
 Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in Corregidor/Bakunin/Tunguska are not automatically vanilla options.
@@ -47,13 +64,29 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 | **Gator** — 73 pts / 1.5 SWC, MULTI HMG, AP Mine Dispenser, Tactical Awareness, NCO, ARM8 BTS6, 3 W | **Generalist assault TAG.** Self-generated Tactical Awareness helps order efficiency; NCO converts a suitable unused Lt Order, mines/chain rifle/CC tools and E/M pressure protect approach and nearby objectives. Saves 0.5 SWC relative to Szalamandra. | **Disputed:** Loss of Lieutenant argued extra cost pays for close-game skills that often do not activate, and lower BTS may matter in Nomad matchups; Tactical Awareness CJC builders liked its combined lane-clearing plus zone-control/engineering roles. Select only if the utility and NCO Order actually have jobs. |
 | **Gecko** — 49/54/55 pts, Tactical Awareness, ARM6 BTS6, 3 W, vanilla Gecko Duo legal | **Midrange armored workhorse**, not a budget Szalamandra. Mk12/Blitzen for range/control, MULTI MMR for reliable midfield exchanges, Vulkan Shotgun for dense close-board trades. The legal **Gecko + Evader** or **Gecko + Gecko** Duo moves an effective attack/support pairing together, while TacAware reduces the order tax. | A two-Gecko Duo eats much of the budget and both must share positioning constraints; its range and BS13 do not replace a dedicated long-range solver. The 2025 TAG panel rated it much more cautiously than fans of dual Geckos. A **Corregidor Gecko Haris/keyword bonus does not exist in vanilla**. |
 
-**Engineer architecture:** Clockmaker WIP15 + Zondbot is compact repair insurance. A **Marspider Engineer** can operate closer to an advancing Gecko; the pair may be included in vanilla Fireteams II **only if that Fireteam has legal members**—Marspider cannot join a Gecko in Fireteam I simply by being support. **Evader** is the eligible Fireteam I engineer partner; consult actual Evader profile/loadout. Repair positioning and safe retreat matter more than just owning an Engineer.
+**Engineer architecture by legal role:**
 
-**No automatic TAG inclusion:** Lizard and Iguana are **not standard Vanilla TAGs** in the pinned reference. The **Lizard** exists in the **separate Vipera Reinforcement chart**, only when that mode is used. Treat older CJC/Bakunin tactical discussions as cross-faction insight, *not list legality*. TAG-Treiber pilots are separate support troop choices in the current source, not evidence of extra free pilots in the TAG loadout.
+- **Clockmaker WIP15 + Zondbot:** compact long-reach repair insurance.
+- **Marspider Engineer:** advances beside a Gecko; joining vanilla Fireteam II is possible only when that team has legal members. It cannot join a Gecko in Fireteam I just by being a repair piece.
+- **Evader Engineer:** the eligible Fireteam I partner, subject to the chosen loadout and chart.
+
+Repair positioning and a safe retreat matter more than merely including an Engineer.
+
+**Vanilla TAG and support restrictions:**
+
+- **Lizard and Iguana:** not standard Vanilla TAG choices.
+- **Lizard in Vipera Reinforcement:** available only through that separate chart/mode.
+- **TAG-Treiber pilots:** separate purchases, not free extra pilots or automatic TAG loadouts.
+- **Other CJC/Bakunin tactics:** useful comparisons, but do not import their legality.
 
 ## Vehicle — Go-Pod
 
-**Current Vanilla:** AVA1; **33 pts / 0 SWC** MULTI Rifle + E/Mitter with Go-Bot, or **32 pts / 1.5 SWC** Heavy Rocket Launcher + AP SMG/BS Attack (Shock) with Go-Bot. Both are fast aerial VH with distinct movement/cover exposure.
+**Current vanilla Go-Pod (AVA1) alternatives:**
+
+- **33pt/0SWC MULTI Rifle + E/Mitter with Go-Bot.**
+- **32pt/1.5SWC Heavy Rocket Launcher + AP SMG / BS Attack (Shock) with Go-Bot.**
+
+Both are fast aerial VH but differ in weapon and SWC commitment; neither avoids the chassis's movement/cover exposure.
 
 - **Why take it:** high mobility, Super-Jump angles and a secondary Go-Bot body allow fast objective flanking, asymmetric attack lanes and forked short-range threats. The Dante transcript highlights the speed and defensive modifier package but warns not to mistake it for a durable TAG.
 - **HRL variant:** ranged threat/area template, but 1.5 SWC competes directly with Vertigo and main long-range guns; if it only gets one exposed attack, points are wasted.
@@ -90,6 +123,14 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 - **Intruder MSV2** — a conventional gun answer to optical opposition, complemented by Morlock smoke; expensive enough to compete with a TAG/REM attack plan.
 - **Hellcat/Bearcat** — air arrival or unexpected lane pressure; bring when the opponent can hide from the hacking net or cannot adequately screen its DZ.
 
+**High-efficiency specialist toolboxes:**
+
+- **Mary Problems 27/.5:** HD+KHD, Pitcher, Forward Deployment, Mimetism and Climbing Plus provide cyber versatility, not an elite direct gun.
+- **Evader 35/1.5:** frontline Engineer plus AP offense where the selected team/profile is legal.
+- **Moran 15/.5:** cheap FO/Repeater/Koala coverage, but **vanilla AVA1** differs from Corregidor AVA2.
+
+Several separate specialists with different Orders/routes can beat one expensive multifunction model. [Toolbox comparison and opposing transcripts](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
 ## Explicit disagreements and tests
 
 1. **Is vanilla stronger than the sectorials?** *For:* take the best hacking personalities, Moran, smoke, TAGs and unique Corregidor/Tunguska active pieces together (Tactical Awareness E26). *Against:* you lose specialized Fireteams, Bakunin Observance, Riot Grrls and other sectorial-exclusive tools. **Test:** name one mission job achieved only by this exact mixed roster; otherwise consider the sectorial bonuses.
@@ -115,21 +156,10 @@ Only these three are standard Vanilla Nomads TAGs in the pinned roster. TAGs in 
 - [ ] Does the list survive enemy **Stealth, non-hackable rush, killer hackers, smoke/MSV, templates, airborne DZ entry and lost network**?
 - [ ] Are any tips/points from **2025 transcripts** superseded by current [Army profile](../../sectorials/nomads/nomads.md)?
 
-**Default builds worth testing:** (1) Szalamandra + Interventor/Jazz + Zero/Moran + two cheap repeater bots; (2) Gecko + Evader Duo supported by Kulak CoC, mixed hacking and a separate long gun; (3) Vostok/EVO/Stempler + Mary/Jazz + cheap screening and a non-hackable Territorial. These are **construction exercises, not verified legal Army exports**; confirm all points, SWC, and group/order caps in Infinity Army.
+**Three construction exercises (not verified legal Army exports):**
 
-## Vision control — role/value update (23 October 2026)
+- **Szalamandra + Interventor/Jazz + Zero/Moran + two cheap Repeater bots:** premium long gun and hacking coverage.
+- **Gecko + Evader Duo + Kulak CoC:** compact TAG mission team with mixed hacking and a separate long-range gun.
+- **Vostok/EVO/Stempler + Mary/Jazz + cheap screens + non-hackable Territorial:** supported REM attack with alternate scoring.
 
-- **Choose one main lane engine:** **Morlock Smoke + Intruder MSV2**, **Jazz/Interventor HD+ + Repeater network → White Noise** vs visors/Marksmanship, **Chimera Eclipse** to deliver CC, or a legal **Disco Baller** (Kulak/Lobo/Prowler/Shifta by selected profile). They solve different LoF problems; do not build the *same* list as if one template enabled all four.
-- **Counterargument:** the strongest hacking grid costs Pitcher, move and setup Orders; a cheap Smoke/Disco crossing can score without eliminating the ARO. If a visor is not the problem, White Noise is not value. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Mary Problems27/.5** (HD+KHD programs, Pitcher, FD/Mimetism/Climbing+) is the best Nomad cheap *cyber* toolbox, not a strong ranged gun. **Evader35/1.5** solves actual frontline Engineer+AP offense where legal, while **Moran15/.5** cheaply projects FO/Repeater/Koala control; **vanilla Moran AVA1** is not Corregidor AVA2. Opposing choice: several specialists with different order routes can outperform one elite toolbox.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Vertigo Guided16/1.5** is an optional payoff for Interventor/Jazz/Mary, Pitchers, Zero and **one** vanilla Moran (AVA1; Corregidor has AVA2). Tactical Awareness S3E26 offers opposing *missile-first hacking saturation* versus diversified active REM/guns. A heavy hacking network may induce enemy caution and set up direct Targeted fire even if no missile hits; if the network is shut off, keep independent attack/mission plans.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+Validate points, SWC and Order/group caps in Infinity Army before use.
