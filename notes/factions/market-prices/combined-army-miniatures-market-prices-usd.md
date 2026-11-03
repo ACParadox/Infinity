@@ -129,7 +129,7 @@
 
 ## Repository links
 
-Use the [Combined Army must-have / go-to / avoid audit](../combined-army-must-have-go-to-avoid-transcript-evidence.md), [current Combined Army sectorial rosters](../../../sectorials/combined-army), [miniature proxy guidelines](../../miniature-proxy-guidelines.md) and relevant [inventory folder](../../../inventory) to evaluate actual purchases.
+Use the [Vanilla Combined Army buy list](../buy-lists/vanilla-combined-army-buy-list.md), [current Combined Army sectorial rosters](../../../sectorials/combined-army), [miniature proxy guidelines](../../miniature-proxy-guidelines.md) and relevant [inventory folder](../../../inventory) to evaluate actual purchases.
 
 Other USD price references: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md), [Haqqislam](haqqislam-miniatures-market-prices-usd.md), [Nomads](nomads-miniatures-market-prices-usd.md).
 

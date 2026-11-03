@@ -114,7 +114,7 @@
 
 ## Use of this reference
 
-This is a **USD catalogue price snapshot**, **not a purchase recommendation** or an owned-inventory update. Use alongside [Ariadna unit audit](../ariadna-must-have-go-to-avoid-source-audit-2026.md), [Caledonia buy list](../buy-lists/caledonia-buy-list.md), [existing TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), and [miniature proxy guidelines](../../miniature-proxy-guidelines.md). Keep shared owned models counted once.
+This is a **USD catalogue price snapshot**, **not a purchase recommendation** or an owned-inventory update. Use alongside [Vanilla Ariadna buy list](../buy-lists/vanilla-ariadna-buy-list.md), [Caledonia buy list](../buy-lists/caledonia-buy-list.md), [existing TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), and [miniature proxy guidelines](../../miniature-proxy-guidelines.md). Keep shared owned models counted once.
 
 Other Miniatures Market USD snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md).
 
