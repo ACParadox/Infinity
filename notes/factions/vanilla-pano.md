@@ -40,6 +40,7 @@
 | **Top 10 — ARO Units (apex+value)** | **Nisse MSV2 MULTI Sniper, 29/1.5** | [Svalarheima Top 10 reactive shortlist](../list-building/aro-units-apex-and-value.md): BS13, MSV2 and Mimetism(-3), but no link bonuses. |
 | **Top 10 — Mission Specialists / Button Pushers (value)** | **Zulu-Cobra FO 24/0 or KHD/Pitcher 26/0** | [Varuna Top 10 midfield specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md#L85): Camo and FD(+10); FO and KHD are different profiles, and the KHD's [A/A hacker rating](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) is not the FO rating. |
 | **Top 10 — Command Units (apex)** | **Joan of Arc v2 Mobility LT AP Spitfire, 45/1; +1 CT 49/1** | [Military Orders Top 10 commander](../list-building/command-units-apex-and-value.md): Inspiring Leadership, Tactical Awareness and mobile LT. Vanilla has the same v2 profile but no Joan Haris. |
+| **Top 10 — Command Units (value)** | **Tikbalang Lieutenant (+1 Order), 73/1.5** | [Kestrel command-unit Top 10 value](../list-building/command-units-apex-and-value.md): the same Vanilla LT profile self-funds a personal Order via Tactical Awareness and LT(+1 Order), but its LT bonus Orders do **not** grant free teammate activations or sectorial Fireteams. |
 
 
 
