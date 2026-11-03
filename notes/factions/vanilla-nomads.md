@@ -4,6 +4,39 @@
 
 **Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](references/vanilla-nomads_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
 
+## Overview
+
+**What Vanilla Nomads does exceptionally well:** it can combine elite hackers, immediate midfield control, extremely cheap Smoke/Eclipse and trading packages, dangerous independent shooting, and a wide choice of specialists in the *same* roster. The payoff is breadth and redundancy, **not** the full linked-gun bonuses or AVA of every Nomad sectorial.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units-apex-and-value.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
+
+| Whole-game role shortlist | Vanilla Nomads unit/profile | Why it stands out; caveat |
+|---|---|---|
+| **Top 3 candidate — inexpensive Eclipse/multi-body attack (apex/value)** | **Chimera + three Pupniks, 19/0** | Exceptional melee/visibility pressure for four bodies; templates, Controller vulnerability and Peripheral rules keep it from being automatic. |
+| **Top 3 candidate — infiltrating Turn-0 Repeater + Koala screen (value)** | **Moran BSG Repeater, 15/0.5** | One of the best immediate network/physical midfield packages. **Vanilla AVA1**, not Corregidor's AVA2; Camo is on a different Moran profile. |
+| **Top 5 candidate — mobile all-in-one hacker/anti-hacker (apex/value)** | **Mary Problems, 27/0.5** | HD+KHD, Pitcher, Forward Deployment, Mimetism(-6) and Climbing Plus combine projection and cyber attack in one profile. Exposure is the trade-off. |
+| **Top 5 candidate — compact HD+ with companion utility (apex/value)** | **Jazz + Billie, 25/0.5** | Strong HD+/Trinity/Pitcher support, Billie Repeater and two Regular Orders in the paired selection. **Jazz FTO 22/0.5** is a different profile for eligible vanilla Fireteam I. |
+| **Top 5 candidate — very cheap Counterintelligence (value)** | **Puppet Master, 11/0** | Low-cost Regular Order, Counterintelligence and the option to purchase PuppetBots; bots provide bodies but not independent Regular Orders. |
+| **Top 10 candidate — sustained infantry HMG firepower** | **Kriza Borac HMG, 45/1.5** | BS13, +1B and BS Attack(-3) deliver exceptional FtF gunfighting without a sectorial Core. Hackable and demands a safe approach. |
+
+### Particularly strong or unusual Fireteams
+
+**Vanilla has no Core, only one Haris and two Duos.** That is a major constraint compared with the three Nomad sectorials; **FTO labels alone do not create a Fireteam**.
+
+- **Nomads Fireteam I — Gecko + Evader Duo:** a self-funding Tactical Awareness TAG with a repairing/specialist partner; select a legal Evader Engineer and confirm the profile.
+- **Nomads Fireteam I — Taskmaster + Morlock(s):** a compact FT Master/warband Order-conversion package when the current chart and chosen profiles qualify; it cannot borrow Bakunin's unrestricted Taskmaster team composition.
+- **Nomads Fireteam II — Mobile Brigada + Marspider:** mixes a tough fighting/command anchor and Engineer/specialist support without assuming a Marspider can join Gecko in Fireteam I.
+- **Compact alternatives:** a **Gecko + Gecko** Duo or other eligible Fireteam I gun/support pairing can be worth more than using the one Haris slot simply to maximize body count.
+
+### Unusual access, gaps and trade-offs
+
+- **Very broad sight-line toolkit:** **Morlock Smoke + Intruder MSV2** for one-sided shooting, **Chimera Eclipse** for blind assault, **Jazz/Interventor HD+ White Noise** against visors and a legally equipped **Kulak/Lobo/Prowler/Shifta Disco Baller** for projected Eclipse. These are distinct setups, not one combined profile.
+- **Command resilience:** **Kulak or Shifta Chain of Command**, with cheap **Puppet Master Counterintelligence** if chosen. The same role on several profiles is not an instruction to buy all of them.
+- **Heavy options:** standard **Szalamandra, Gator and Gecko** TAG choices plus **Go-Pod VH**; **Lizard** belongs to the separate Vipera Reinforcement chart, while **Lizard and Iguana are not standard vanilla TAGs**.
+- **Sectorial access does not transfer:** **only one Moran**; no Corregidor two-Moran start, no Tunguska Hollow Men Core, and no automatic **Vostok/Tsyklon FTO Fireteam**. Check the [vanilla Fireteams I/II and limits](../../sectorials/nomads/nomads.md#canonical-vanilla-fireteam-chart) before assuming synergy.
+
 ## One-minute verdict
 
 **Identity:** Combine **elite hackers + repeaters + control tools + a competent direct gun** across three Nomad ships. Pick one main way to win fights; use hacking to clear lanes, force awkward routes and deny counterattack—not as a substitute for scoring or every form of killing.
