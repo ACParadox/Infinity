@@ -282,11 +282,11 @@
 | Side | Fireteam | Members | Evidence |
 |---|---|---|---|
 | **Bakunin (Jacob)** | **Pure Duo — 2** | **2 Stigmaton TAGs** | **Explicit** (“pure duo”) during the opening player interview; both TAGs were fielded. |
-| **White Banner (Ivory)** | **Core — size unverified** | Linked heavy/mixed team with hacking/defensive pieces; exact four or five profiles not spoken clearly enough to confirm | **Core explicitly referenced**, full membership uncertain. |
+| **White Banner (Ivory)** | **Core — 4** | Four-member mixed/heavy link; **exact four profiles not all recoverable from spoken names** | **Four-person count explicitly stated** by Ivory in the opening interview (“that four-man link at the top of the list”); the casters also refer to the strong Core. Do not infer a fifth model. |
 
 **Bakunin identifiable roster:** 2 Stigmatons, Fiddler with Jackbots and Zondbots, Cyclone Pitcher, Zero, EVO support, Transductor REMs, Morlock and a hacking network. The Cyclone's **linked Pitcher use** is mentioned, but no secure complete Cyclone Fireteam roster is given; **do not assign it to the Stigmaton Duo** without an Army/deployment check.
 
-**White Banner identifiable roster:** Daofei Spitfire/Lieutenant, Liang Kai, Shaolin Monk(s), Tiger Soldier Hacker, Haetae/other link support, Zhanshi-type Hacker/Engineer and defensive/Flash REMs. This is a **partial playable roster**, not an exact Army import.
+**White Banner identifiable roster:** Daofei Spitfire/Lieutenant, Liang Kai, Shaolin Monk(s), Tiger Soldier Hacker, Haetae/other linked support, Zhanshi-type Hacker/Engineer and defensive/Flash REMs. **The four-person Core is confirmed by the player's direct count, but its exact four identities cannot all be isolated from the spoken walkthrough; the current White Banner reference describes possible mixed teams but is not proof of this 2025 lineup.** This remains a partial roster, not an exact Army import.
 
 **Excluded alternative:** Jacob discusses a **four-person Core of 2 Reverend Custodiers + 2 Cenobites** from a **different list-building option**. He did **not play that Core in this game**, so count it only as a theoretical alternative, **not** a four-person Core observation.
 
@@ -377,7 +377,15 @@
 | **Haris — 3** | **Crosier Paramedic + Knight Commander CoC + Black Friar Thunderbolt (+1B)** | **Explicit**. |
 | Other | Crosier Sniper Duo and Trinitarian specialists remain part of the overall roster | **Presence/reorganization is discussed**, but exact starting Duo status in List B needs confirmation. |
 
-**Opponents:** Morats (Suryat HRL/Suryat AP HMG, Kornak, Daturazi, Oznat/Hungries, Zerat), USARF defensive gunline and Ōban/JSA (Yojimbo, Ryūken, Ninjas, Aragoto/Keisotsu). **Opponent starting team sizes are reconstructed only partially** from the narrator's postgame photos/memory; do not count a five-member Keisotsu Core merely because five line troopers are discussed.
+**Opponents, reconstructed from the three game recaps:** Morats (Suryat HRL and Suryat AP HMG, Kornak, Daturazi, Oznat/Hungries, Zerat), USARF (Unknown Ranger, Grunt Sniper, Paramedic, Foxtrot, Minuteman, Mavericks, Devil Dogs, Van Zant and other troops), and Ōban/JSA (Yojimbo, Ryūken, Ninjas, Aragoto and Keisotsu). **The opposing team sizes have different levels of evidence:**
+
+| Opponent / round | Fireteam | Identified members | Evidence |
+|---|---|---|---|
+| **Morats, round 1** | Suryat/Vanguard support team | Suryat HRL, Vanguard troopers and Kurgat Engineer; additional Suryat AP HMG, Oznat/Hungries and Daturazi in other packages | **Partly reconstructed**; starting Core size not narrated reliably. |
+| **USARF, round 2** | **Likely Core — 5** | Unknown Ranger, Grunt Sniper, Paramedic and **two further unnamed models** | Narrator says Core with those three and “another couple of guys”; **probable five-member Core**, not a verified five-profile Army export. |
+| **Ōban/JSA, round 3** | **Keisotsu Core — 5** | **Five Keisotsu-linked troops**; the narrator highlights Thunderbolt / BS Attack (-3) weapons, but cannot give all five profiles reliably | **Five-person count explicitly spoken** (“five person Keisotsu Core” in the transcript, rendered “Kasetsu” by transcription). This is **a confirmed narrated five-person formation**, although remaining loadouts are incomplete. |
+
+**Do not discard the Keisotsu five-person Core as speculation:** the source explicitly names the starting Core and its size. In contrast, USARF's five-person size is an inference from the narrator's rough description and should stay in a separate confidence bucket.
 
 ### Units and combinations
 
@@ -451,6 +459,8 @@
 
 ### Fireteam roster extraction index (reports #001–#010)
 
+**Roster re-verification (2026-11-02):** Rechecked the linked full transcripts against the list-reconstruction sections, including opening player interviews and reconstructed opposing lists. In #007 the White Banner player explicitly confirms a **four-model** link (exact membership remains incomplete), and in #009 the narrator explicitly confirms an opposing **five-model Keisotsu Core** (loadouts incomplete). This corrects earlier undercounting; a possible five-model USARF Core remains an inference rather than a confirmed five-profile export.
+
 This extraction uses spoken **list introductions** first, then deployment/activation evidence. **Physical model count is not Fireteam Bonus Level**; the current N5.3 counts-as and profile chart cannot retroactively validate the historical 2025–2026 builds. “Explicit” reflects what the video states, not an independent Infinity Army export.
 
 | Report | Main army list(s) | Four-/five-model evidence | Count/quality note |
@@ -461,9 +471,9 @@ This extraction uses spoken **list introductions** first, then deployment/activa
 | #004 | Same Kestrel List A; Torchlight opponent | **4** — Jamie + 3 Hellblazers | **Explicit**. |
 | #005 | Kestrel List B, Vanilla Combined opponent | **3** — Fennec/Crux/Bipandra; **3** — Vector + 2 Base Operators | **No new confirmed large Core**. |
 | #006 | Qapu mobility build and Iguana build | Duos and three-model Haris teams | No confirmed large Core. |
-| #007 | Bakunin double Stigmatons vs White Banner | **2** — Stigmatons; an **unplayed** 4-Custodier/Cenobite alternative | Exclude alternative from played count. |
+| #007 | Bakunin double Stigmatons vs White Banner | **4** — White Banner Core (members incompletely spoken); **2** — Bakunin Stigmatons; unplayed 4-Custodier/Cenobite alternative | White Banner player **explicitly confirms four-model count**; exclude Bakunin's alternative. |
 | #008 | ISS vs Vanilla Combined | ISS **3 Core + 3 Haris + 4×2 Duo**; Combined **3 Haris** | Sizes explicitly enumerated by ISS player. |
-| #009 | Military Orders two builds | 3-member Hospitaller Cores, Haris, Duos | No confirmed large Core. |
+| #009 | Military Orders two builds, plus three opponents | **5** — opposing Ōban Keisotsu Core; **probable 5** — USARF Unknown Ranger/Grunt Core; own Hospitaller Cores have 3 | Keisotsu **five explicitly spoken**; USARF five inferred from “another couple of guys”. |
 | #010 | White Company two builds | **5** — Haidao/Hawkwood/Fusilier/Laxmee/Massacre; **4** — Haidao/Haidao/Kaplan/Beast Hunter | **Explicit**, separate submitted builds. |
 
 **Data quality rule:** A remembered opponent list, deployment marker, a linked group's **possible** composition, or a team that *could* form is not equivalent to a confirmed **deployed starting Fireteam**. For occurrence rates, deduplicate #002–#004's *identical submitted Kestrel List A* when analyzing list design, but retain the **distinct matches** when analyzing what players actually deployed. The narrated five-game tournament recaps do not by themselves supply ten complete opponent rosters.
