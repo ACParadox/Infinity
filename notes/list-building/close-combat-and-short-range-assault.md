@@ -2,7 +2,12 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands/Cheap Traders apex/value](warbands-and-cheap-trading-units-apex-value.md) compares **Diablo8 Berserk+Trench-Hammer**, **Morlock6 E/M CC** (requires base contact), **Makaul14 Viral/DA+Eclipse** (MSV-blocking route) and **Dāturazi14 MA4/Warhorse** (Regular Smoke infrastructure). The **delivery/survival** test matters more than bare CC stat.
+- [N5.3 Warbands/Cheap Traders apex/value](warbands-and-cheap-trading-units-apex-value.md) compares:
+  - **Diablo8 Berserk+Trench-Hammer**
+  - **Morlock6 E/M CC** (requires base contact)
+  - **Makaul14 Viral/DA+Eclipse** (MSV-blocking route) and **Dāturazi14 MA4/Warhorse** (Regular Smoke infrastructure).
+
+The **delivery/survival** test matters more than bare CC stat.
 
 **Current N5.3 profile-by-profile tiers:** [Dedicated close-combat assassins/fighters — apex, value, delivery and Guard counters](dedicated-close-combat-assassins-apex-value.md). This file remains the detailed procedure/positioning guide; its sibling compares **Shinobu, Oniwaban, Musashi, Shikami, Fiday, Speculo, Andromeda, cheap warbands and anti-CC** with current costs and transcript evidence.
 

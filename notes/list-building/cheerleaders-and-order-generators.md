@@ -1,6 +1,11 @@
 # Cheerleaders and Order Generators — N5.3 Cross-Faction Rankings
 
-**Vanilla O-12 Order economics — [Robert Shepherd faction focus (05–18m, 22–31m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=300s), reviewed 26 Oct 2026:** Two **Moonraker Minelayers15/.5**, a **Ment CoC14**, **Varangians12–13 Regular**, **Raveneye Lt12/0**, **Kappa HD13/.5**, and **Oko Tactical Awareness18** are *extremely good utility per purchase*, but the faction's **12–15pt useful floor** makes it harder to support a second expensive Gamma/Zeta/Omega than factions with numerous 5–7pt **Regular** models. Distinguish **Varangian Regular** from **Ioann Bann32 Irregular**, **Monstrucker Engineer12 Irregular**, and **Oko's personal Tactical Awareness Order** from transferable pooled Orders. Shepherd prefers a clear primary attack plan instead of 'fifteen great small tools and no winning gun'. In his sample list, **Gamma Lt+Ment** funds offense, **2 Moonrakers** protect it, and **Oko+RoadBot** score; the example is *one philosophy*, not a mandatory template.
+**Vanilla O-12 Order economics — [Robert Shepherd faction focus (05–18m, 22–31m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=300s), reviewed 26 Oct 2026:**
+
+- Two **Moonraker Minelayers15/.5**, a **Ment CoC14**, **Varangians12–13 Regular**, **Raveneye Lt12/0**, **Kappa HD13/.5**, and **Oko Tactical Awareness18** are *extremely good utility per purchase*, but the faction's **12–15pt useful floor** makes it harder to support a second expensive Gamma/Zeta/Omega than factions with numerous 5–7pt **Regular** models.
+- Distinguish **Varangian Regular** from **Ioann Bann32 Irregular**, **Monstrucker Engineer12 Irregular**, and **Oko's personal Tactical Awareness Order** from transferable pooled Orders.
+- Shepherd prefers a clear primary attack plan instead of 'fifteen great small tools and no winning gun'.
+- In his sample list, **Gamma Lt+Ment** funds offense, **2 Moonrakers** protect it, and **Oko+RoadBot** score; the example is *one philosophy*, not a mandatory template.
 
 **Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 

@@ -1,6 +1,13 @@
 # Command Units — N5.3 Apex and Points-Value Tier Guide
 
-**O-12 updated LT decision tree — [Robert Shepherd's Vanilla O-12 faction focus (25–37m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s), reviewed 26 Oct 2026:** The **Ment Agent CoC 14/0** is a strikingly cheaper command-insurance option than most of this guide's listed alternatives, enabling **Gamma HMG Lt50/1.5**, **Zeta HRMC Lt70/2** or another fighting Lt without an extreme succession tax. **Raveneye Lt12/0** (FO + E/M Minelayer) fuels a useful NCO; **Alpha Lt24/0** buys Strategos L1, Counterintelligence and a Command Token without making a gunfighter the commander. The video argues for **Zeta Lt70 + Ment** over the **NCO73** by default when the cheap successor is already in the list. This is **Vanilla-specific**: Torchlight's **Raveneye Lt(+1)17** and **Raveneye CoC18** are separate legal loadouts. Existing Zephyr WIP12 **Ment-not-always-needed** view remains valid for protected LTs, so 'near-must with visible/fighting LT' is more precise than absolute must.
+**O-12 updated LT decision tree — [Robert Shepherd's Vanilla O-12 faction focus (25–37m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s), reviewed 26 Oct 2026:**
+
+- The **Ment Agent CoC 14/0** is a strikingly cheaper command-insurance option than most of this guide's listed alternatives, enabling **Gamma HMG Lt50/1.5**, **Zeta HRMC Lt70/2** or another fighting Lt without an extreme succession tax.
+- **Raveneye Lt12/0** (FO + E/M Minelayer) fuels a useful NCO
+- **Alpha Lt24/0** buys Strategos L1, Counterintelligence and a Command Token without making a gunfighter the commander.
+- The video argues for **Zeta Lt70 + Ment** over the **NCO73** by default when the cheap successor is already in the list.
+- This is **Vanilla-specific**: Torchlight's **Raveneye Lt(+1)17** and **Raveneye CoC18** are separate legal loadouts.
+- Existing Zephyr WIP12 **Ment-not-always-needed** view remains valid for protected LTs, so 'near-must with visible/fighting LT' is more precise than absolute must.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
@@ -8,7 +15,14 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-**Warband-specific LT/CoC packages:** [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks **Saladin LT39 with eligible Ghazi/Daylami regularization**, **Wallace LT38 versus CoC38**, **Myrmidon Officer LT25–26 versus CoC30–31** and **Machaon/Phoenix** fighter LTs. **Religious Troop Inspiring Leadership exclusion** changes the Order economics. This existing guide remains the broader LT/CoC source.
+**Warband-specific LT/CoC packages:**
+
+- [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks:
+  - **Saladin LT39 with eligible Ghazi/Daylami regularization**
+  - **Wallace LT38 versus CoC38**
+  - **Myrmidon Officer LT25–26 versus CoC30–31** and **Machaon/Phoenix** fighter LTs.
+
+**Religious Troop Inspiring Leadership exclusion** changes the Order economics. This existing guide remains the broader LT/CoC source.
 
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
@@ -116,7 +130,20 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 | **B/A** | **S/A** | **Táowù 21/0.5 — Imperial Service/WhiteCo** | Cheap Holomask succession and short-range ARO distraction, good ambiguous backline placement. | 0.5 SWC, modest offensive output. |
 | **B/A** | **A** | **TankHunter 25/0 — Vanilla Ariadna** | Camo + Minelayer + Panzerfaust means protective CoC also taxes enemy advance. | Must stay alive; not available in every Ariadna sectorial. |
 
-**Extra strong roster-bound options:** O-12 **Katherine Cho 20/0**, **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit), **Ment** with CoC; Invincible Army **Léi Gōng FTO 34/0**, **Tai Sheng CoC 36–40**, **Hǎidào 24**; White Company **Emily Handelman 28/0** (CoC and grenade launcher), **Hawkwood 40/0**; **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL). These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
+**Extra strong roster-bound options:**
+
+- O-12:
+  - **Katherine Cho 20/0**
+  - **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit)
+  - **Ment** with CoC
+- Invincible Army:
+  - **Léi Gōng FTO 34/0**
+  - **Tai Sheng CoC 36–40**
+  - **Hǎidào 24**
+- White Company **Emily Handelman 28/0** (CoC and grenade launcher), **Hawkwood 40/0**
+- **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL).
+
+These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
 
 ## Rules and command-package interactions
 
