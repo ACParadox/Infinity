@@ -31,6 +31,18 @@
 
 [Current Fireteam chart](../../sectorials/na2/dahshat-company.md#canonical-fireteam-definitions) controls profile restrictions and the Assault Duo source ambiguity.
 
+### Battle-report-derived army shells and Fireteam ideas (2026-11-03)
+
+These are **reported building blocks, not complete current 300-point Army exports**. A historical game's roster does not prove its old team bonuses or profiles remain legal. The [current Dahshat Fireteam chart](../../sectorials/na2/dahshat-company.md#canonical-fireteam-definitions) controls every proposed N5.3 combination.
+
+| Plan | Observed report | Current N5.3 use / limitation |
+|---|---|---|
+| **Four-member Ghulam command/network Core** | [#117 Firefight](../battle-reports/111-120-n5-battle-report-tactical-analysis.md): **Ghulam Lt + Ghulam Doctor + Valerya Gromoz + Miranda Ashcroft** linked; independent **Maghariba Guard, two Uragan Traktor Muls, Monstruckers, Zhencha Hacker**. Dahshat won **6–0** in this early-N5 game. | Legal Ghulam Core shell (two native Ghulams + two Wildcards). Build **one** Uragan and the Maghariba first; a second independent Uragan is a budget/SWC decision, **not a Fireteam**. Keep a midfield scoring route and Engineer recovery. |
+| **Brawler gun/Hacker and separate Odalisque assault** | [#129 Tic-Tac-Toe](../battle-reports/121-130-n5-battle-report-tactical-analysis.md): **Brawler Hacker + Brawler MSV2 Sniper + Digger** named in a Brawler team; **Miranda + Sforza FTO** in a probable separate Haris, third member not securely recovered from translated audio. | Use **Brawler + Brawler + Digger** as a **three-body Core** and **one actual Odalisque + Miranda + Sforza FTO** as the **single Haris**. Do **not** field both as Harises: current limit is **one Haris**. The report's uncertain third model is not proof of a legal Odalisque anchor. |
+| **Limited-Insertion short-range Haris + independent heavy package** | [#183 Nocturne](../battle-reports/181-190-n5-battle-report-tactical-analysis.md): explicit **Miranda + two Odalisques Haris**, with independent **Maghariba, McMurrough and Fiddler + two Jackbots**; **Brawler Sniper + Brawler Lt** co-deployed, without a confirmed Duo. The custom scenario ended **USARF 6–5**. | Reusable close-range escort Haris; Jackbots are **Peripherals, not linked bodies or pooled Orders**. Do not copy the custom Limited-Insertion force as a normal ITS list or assume the two Brawlers were linked. |
+
+**Build/legality takeaways:** Dahshat has **one Core, one Haris, unlimited Duos**. Allocate the Haris slot to the unit doing the mission work; do not import a second one just because another report shows it. **Fiddler FTO option 1** may join a Ghulam Fireteam, but Fiddler's **Jackbot loadouts do not**. Keep a real mobile Specialist/Engineer plan behind a Maghariba or McMurrough attack rather than treating concentrated firepower as the scoring plan. The three reports are **alternative shells**, not a single combined roster.
+
 ### Unusual access, gaps and trade-offs
 
 - **Normal Smoke + MSV2:** **McMurrough, Kum, Saito and Ghulam NCO Smoke GL** support **Rui Shi/Brawler MSV2**.
