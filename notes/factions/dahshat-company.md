@@ -50,17 +50,44 @@ This section is analytical and non-authoritative; source profile data and the ca
 
 ### Individual unit value and opposing arguments
 
-- **Libertos, AVA2:** **8/0** chain-colt/SMG is a cheap forward trade; **9/0 Mimetism(-3)** costs one point more and makes the Camo/Forward Deployment (+20) nuisance harder to remove. **9/1 Mimetism(-3) Minelayer** trades precious SWC for a prepared board-defense layer. [W1/R1] favor Mimetism almost universally; **counter:** at the 15-slot cap, a Regular specialist or cheaper 8pt profile can be more valuable than a second disposable Irregular.
-- **McMurrough (23/0) and Kum (6–11/0):** Dog-Warrior's PH16, smoke, Super-Jump, Chain Rifle(+1B), Dogged and AP+DA CCW create a direct route to a valuable target and **smoke for the Rui Shi/Brawler MSV2**; bikes add fast smoke and cheap trades. [W1] calls him central to aggressive Dahshat. **Counter:** speculative charges spend Orders exposing the piece before it reaches the high-value target. Motorized Bounty Hunters (8–16) compete for Irregular slots; **motorized 112** instead buys a **Regular Doctor**, mobility and objectives.
+- **Libertos, AVA2:**
+  - **8/0** chain-colt/SMG is a cheap forward trade
+  - **9/0 Mimetism(-3)** costs one point more and makes the Camo/Forward Deployment (+20) nuisance harder to remove. **9/1 Mimetism(-3) Minelayer** trades precious SWC for a prepared board-defense layer. [W1/R1] favor Mimetism almost universally
+  - **counter:** at the 15-slot cap, a Regular specialist or cheaper 8pt profile can be more valuable than a second disposable Irregular.
+- **McMurrough (23/0) and Kum (6–11/0):**
+  - Dog-Warrior's PH16, smoke, Super-Jump, Chain Rifle(+1B), Dogged and AP+DA CCW create a direct route to a valuable target and **smoke for the Rui Shi/Brawler MSV2**
+  - bikes add fast smoke and cheap trades. [W1] calls him central to aggressive Dahshat.
+  - **Counter:** speculative charges spend Orders exposing the piece before it reaches the high-value target. Motorized Bounty Hunters (8–16) compete for Irregular slots
+  - **motorized 112** instead buys a **Regular Doctor**, mobility and objectives.
 - **Hunzakut vs Zhēnchá:** **15/0 Hunzakut FO** or **19/0 FO + deployable repeater**, WIP14/Infiltration/Camo, buys cheap prepositioned objectives and hacking projection **but is Irregular**. **30–34pt Zhēnchá** buys a **Regular**, NWI, BTS6 Camo/Infiltration specialist and stronger late-turn durability, with FO, deployable repeater, minelayer or HD. If the mission needs the specialist alive in round 3, Zhēnchá justifies the cost. [W1/N1]
-- **Critical hacking edition change:** [R1]'s N4 statement **“no Trinity anywhere” is no longer true**. The current roster still contains **NO KHD profile**; however **Zhēnchá option 4 is a 34/0.5 Hacking Device with Trinity upgrade**. Ghulam, Brawler and Valerya have ordinary HD; Kameel can take EVO. An HD with Trinity is **not** a KHD, and a KHD is **not** needed to Spotlight. Flag the difference rather than preserving the old absolute claim. [N1]
-- **Valerya (19/0.5):** WIP14 HD, Pitcher, Total Control(+1B), Wildcard: useful Hacking/Spotlight/repeater network at low cost. [W1] calls her the lynchpin; [R1] calls Dahshat's hacking *thin*, because most hackers are lightly protected and there is no native KHD. Both views hold conditionally: plan a **specific** repeater + FO/Spotlight + attack rather than buying guided artillery on autopilot.
-- **Saito (33/0), Húláng (31–38):** Saito has Hidden Deployment, Infiltration, Mimetism(-6), smoke, T2 shotgun and EXP melee for assassination, **but no current specialist/FO skill**. Húláng brings Mimetism(-6), NWI, Specialist Operative, Monofilament and options for FD+20 mines or a cheaper Disco Baller. [W2] likes high-ceiling offense; **counter:** premium midfield tools compete with cheaper objective-taking Hunzakuts and resilient Zhēnchá. **No Húláng may enter Dahshat Fireteams despite its FTO labels**.
-- **Fiddler (29–43):** **29/0 FTO Engineer with Super-Jump** can join **Ghulam Core/Haris only**, while **36/43 standalone Jackbot variants** are synchronized assault/repair packages but do **not** join Ghulam Fireteams. [R1] praises the Jackbots for breaking a position then exploiting it; **counter:** FTO at 29 can offer a protected 0-SWC specialist while keeping points for Libertos/REM backup. Peripherals are not independent Orders.
-- **Brawlers + Diggers + Monstruckers:** Sixth Sense HD and smoke-shooting **MSV2 MULTI sniper** give quality support; **14pt Regular Digger Wildcard counts as Brawler** and handles corner CC/templates. Monstruckers can repair TAGs/REMs and join Brawler family, but their own order is Irregular. [W1/W2] praise role coverage; **counter:** a maximal Brawler Core has weaker active shooting than a Zúyŏng/Rui Shi list.
-- **Miranda / Odalisques / Sforza:** **25–28pt Miranda Wildcard** has Mimetism(-6), Specialist Operative, Monofilament and counts as **Odalisque** in its family. **19–26pt Odalisques** offer NWI, Sixth Sense, combat-instinct tools, and 0-SWC Disco Baller/Paramedic/Viral Marksman profiles as Duo/Haris. **23/0 or 26/0 Sforza FTO Wildcard** brings NCO, Viral + adhesive, while **non-FTO option 1 (26/0)** is solo Holoprojector/FD/Surprise Attack. Useful tricks if their unique objectives beat an extra HI shooter; not mandatory filler. [W2/H1]
-- **Ghulam LT, Sforza/NCO and Fireteams:** Ghulam LT **11/0** or **15/0 +1 Command Token** and Brawler LT **15/0** are current choices. **Ghulam smoke NCO 15/1** and **Sforza NCO** can exploit the LT Order. Unlike [W1/R1] N4 discussion, **the current Zúyŏng roster has NO Lieutenant loadout**. No standard Chain of Command; protect the LT and watch the 15-slot economy.
-- **Al Fasid (44–50):** ARM5/BTS6, Warhorse, Sixth Sense, Minelayer and HMG+Smoke GL or HRL make a **self-sufficient solo/Assault Duo anchor**. **Counter:** its 1.5 SWC and inability to join Zúyŏng/Ghulam links can be an inefficient duplication of Maghariba or Zúyŏng HMG roles. [W2/H1]
+- **Critical hacking edition change:**
+  - [R1]'s N4 statement **“no Trinity anywhere” is no longer true**. The current roster still contains **NO KHD profile**
+  - however **Zhēnchá option 4 is a 34/0.5 Hacking Device with Trinity upgrade**. Ghulam, Brawler and Valerya have ordinary HD
+  - Kameel can take EVO. An HD with Trinity is **not** a KHD, and a KHD is **not** needed to Spotlight. Flag the difference rather than preserving the old absolute claim. [N1]
+- **Valerya (19/0.5):**
+  - WIP14 HD, Pitcher, Total Control(+1B), Wildcard: useful Hacking/Spotlight/repeater network at low cost. [W1] calls her the lynchpin
+  - [R1] calls Dahshat's hacking *thin*, because most hackers are lightly protected and there is no native KHD. Both views hold conditionally: plan a **specific** repeater + FO/Spotlight + attack rather than buying guided artillery on autopilot.
+- **Saito (33/0), Húláng (31–38):**
+  - Saito has Hidden Deployment, Infiltration, Mimetism(-6), smoke, T2 shotgun and EXP melee for assassination, **but no current specialist/FO skill**. Húláng brings Mimetism(-6), NWI, Specialist Operative, Monofilament and options for FD+20 mines or a cheaper Disco Baller. [W2] likes high-ceiling offense
+  - **counter:** premium midfield tools compete with cheaper objective-taking Hunzakuts and resilient Zhēnchá.
+  - **No Húláng may enter Dahshat Fireteams despite its FTO labels**.
+- **Fiddler (29–43):**
+  - **29/0 FTO Engineer with Super-Jump** can join **Ghulam Core/Haris only**, while **36/43 standalone Jackbot variants** are synchronized assault/repair packages but do **not** join Ghulam Fireteams. [R1] praises the Jackbots for breaking a position then exploiting it
+  - **counter:** FTO at 29 can offer a protected 0-SWC specialist while keeping points for Libertos/REM backup. Peripherals are not independent Orders.
+- **Brawlers + Diggers + Monstruckers:**
+  - Sixth Sense HD and smoke-shooting **MSV2 MULTI sniper** give quality support
+  - **14pt Regular Digger Wildcard counts as Brawler** and handles corner CC/templates. Monstruckers can repair TAGs/REMs and join Brawler family, but their own order is Irregular. [W1/W2] praise role coverage
+  - **counter:** a maximal Brawler Core has weaker active shooting than a Zúyŏng/Rui Shi list.
+- **Miranda / Odalisques / Sforza:**
+  - **25–28pt Miranda Wildcard** has Mimetism(-6), Specialist Operative, Monofilament and counts as **Odalisque** in its family. **19–26pt Odalisques** offer NWI, Sixth Sense, combat-instinct tools, and 0-SWC Disco Baller/Paramedic/Viral Marksman profiles as Duo/Haris. **23/0 or 26/0 Sforza FTO Wildcard** brings NCO, Viral + adhesive, while **non-FTO option 1 (26/0)** is solo Holoprojector/FD/Surprise Attack. Useful tricks if their unique objectives beat an extra HI shooter
+  - not mandatory filler. [W2/H1]
+- **Ghulam LT, Sforza/NCO and Fireteams:**
+  - Ghulam LT **11/0** or **15/0 +1 Command Token** and Brawler LT **15/0** are current choices.
+  - **Ghulam smoke NCO 15/1** and **Sforza NCO** can exploit the LT Order. Unlike [W1/R1] N4 discussion, **the current Zúyŏng roster has NO Lieutenant loadout**. No standard Chain of Command
+  - protect the LT and watch the 15-slot economy.
+- **Al Fasid (44–50):**
+  - ARM5/BTS6, Warhorse, Sixth Sense, Minelayer and HMG+Smoke GL or HRL make a **self-sufficient solo/Assault Duo anchor**.
+  - **Counter:** its 1.5 SWC and inability to join Zúyŏng/Ghulam links can be an inefficient duplication of Maghariba or Zúyŏng HMG roles. [W2/H1]
 
 ### TAGs, REMs and Vehicle audit: exact N5.3 eligible units
 

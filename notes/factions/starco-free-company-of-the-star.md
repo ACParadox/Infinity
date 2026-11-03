@@ -21,21 +21,60 @@
 
 ### Best candidates and explicit trade-offs
 
-- **Knauf:** **FTO option 2 (30/1.5)** can join Outrage or another permitted team; linked sniper with MSV1/Mimetism(-3) is an efficient long-range problem solver. **Option 1 (31/1.5)** gains Surprise Attack/Decoy as a solo sniper **but has no Fireteam access**. [S1, S2] If enemy objectives need hacking and flanks instead of lane clearing, do not pay this SWC.
-- **Uhahu:** **19/0.5 WIP14 HD+ + Pitcher + NWI** is an excellent hacking centerpiece at a price few factions match; a Firewall(-6) linked Brigada can help protect a legal team. She needs repeaters, orders and suitable victims; she is not herself a complete Guided strategy. [S1, S2]
-- **Emily:** **24/0 E/M Grenade Launcher + FO** is a low-SWC way to blunt TAG/HI attacks or solve a mission problem when the opponent won't offer a direct duel; **22/0** trades the E/M attack for cheaper FO utility. E/M is disruption, not universal killing. [S1]
-- **Brawler:** **Sixth Sense HD 16/0.5** can force hacker interaction through Bandit or Hellcat Repeaters; **MSV2 sniper 25/1.5** pairs with Jaguar smoke; **Engineer 19/0** supports a TAG Haris; **HRL/X-Visor 15/1.5** deters ARO crossing. [S2] praises its support package but another panelist stresses that **WIP12 loses hard to dedicated linked KHDs**. Choose a defined support job, not an elite hacking fantasy.
+- **Knauf:**
+  - **FTO option 2 (30/1.5)** can join Outrage or another permitted team
+  - linked sniper with MSV1/Mimetism(-3) is an efficient long-range problem solver.
+  - **Option 1 (31/1.5)** gains Surprise Attack/Decoy as a solo sniper **but has no Fireteam access**. [S1, S2] If enemy objectives need hacking and flanks instead of lane clearing, do not pay this SWC.
+- **Uhahu:**
+  - **19/0.5 WIP14 HD+ + Pitcher + NWI** is an excellent hacking centerpiece at a price few factions match
+  - a Firewall(-6) linked Brigada can help protect a legal team. She needs repeaters, orders and suitable victims
+  - she is not herself a complete Guided strategy. [S1, S2]
+- **Emily:**
+  - **24/0 E/M Grenade Launcher + FO** is a low-SWC way to blunt TAG/HI attacks or solve a mission problem when the opponent won't offer a direct duel
+  - **22/0** trades the E/M attack for cheaper FO utility. E/M is disruption, not universal killing. [S1]
+- **Brawler:**
+  - **Sixth Sense HD 16/0.5** can force hacker interaction through Bandit or Hellcat Repeaters
+  - **MSV2 sniper 25/1.5** pairs with Jaguar smoke
+  - **Engineer 19/0** supports a TAG Haris
+  - **HRL/X-Visor 15/1.5** deters ARO crossing. [S2] praises its support package but another panelist stresses that **WIP12 loses hard to dedicated linked KHDs**. Choose a defined support job, not an elite hacking fantasy.
 - **CSU vs Brawler:** **10–13pt CSU** offers cheap Regular Sixth Sense/short-range threats and **11–13pt Specialist Operative** to form a PMC Duo/Haris. [S1] favors **Brawler+Digger** for better defensive guns, CC and repair. CSU instead is right when the team primarily needs a *cheap specialist* or glue.
-- **Bandit:** **25/0.5 Minelayer/Deployable Repeater**, Infiltration reroll + Camo/Mimetism; can present an early hacking, mine and discovery fork. The **24/0 FO** is a specialist, **26/0 KHD** hunts enemy hackers and **28/0.5 HD** adds normal hacking. [S2] favors aggressive infiltrating Minelayer since **Irregular WIP12 Bandit cannot repay its points by doing nothing**; alternative opinion is to keep it safe if the placement roll could sacrifice the mission. Do not confuse the **Minelayer's Deployable Repeater** with a repeater built into every Bandit.
+- **Bandit:**
+  - **25/0.5 Minelayer/Deployable Repeater**, Infiltration reroll + Camo/Mimetism
+  - can present an early hacking, mine and discovery fork. The **24/0 FO** is a specialist, **26/0 KHD** hunts enemy hackers and **28/0.5 HD** adds normal hacking. [S2] favors aggressive infiltrating Minelayer since **Irregular WIP12 Bandit cannot repay its points by doing nothing**
+  - alternative opinion is to keep it safe if the placement roll could sacrifice the mission. Do not confuse the **Minelayer's Deployable Repeater** with a repeater built into every Bandit.
 - **Hellcat Paramedic:** **23/0**, Combat Jump(+3), Super-Jump, **Deployable Repeater**, MediKit and gun enables one jump to change board geometry for hacking *and* objectives. [S1, S2, C1] favor this over automatically taking **26/1.5 Spitfire** or **22/0.5 HD**, because StarCo already wants SWC for its main guns. **19pt shotgun** remains the cheaper attack-only alternative.
-- **Al Hawwa':** **19/0 FO**, **22/0 KHD**, **24/0.5 HD**: *Regular* Camo/Infiltration specialists. KHD is the extra hacker-defense angle, **not a Spotlight source**; HD provides ordinary hacking when required. Strong reason to keep a dependable midfield specialist even if your Bandit is deployed aggressively.
-- **Raoul Spector:** **33/0 AD option 1** is an **Irregular** parachuting/combat-jump Mimetism(-6) assault/specialist with Drop Bears; **34/0 FTO option 3** is a **Regular** Wildcard with MULTI Rifle **and no AD deployment**. [S1] prefers airborne pressure on many boards; FTO works when a protected linked mission piece is worth more than the surprise drop. **Never link AD option 1**.
-- **Riot Grrl vs Mobile Brigada:** Riot Grrls give MSV1/Frenzy, Dodge and potentially **29pt specialist**; Brigada give ARM5/360° and Firewall(-6) LT/Hacker/HMG. Riot Grrl Spitfire is cheaper, Brigada HMG reaches further. The 28pt **Avicenna** adds WIP15 Doctor(+3)/NWI and counts as Riot Grrl; **14pt Daktari** counts as Alguacil in a cheaper StarCo link. [S1, B1]
-- **Fiddler:** **29pt FTO option 1** Super-Jump Engineer with Contender(+1B) and Drop Bears is legal **Riot Grrl** glue; **36/43pt option 2/3** adds 1–2 Jackbots and Climbing Plus for *solo* engineering/attack but **cannot join Riot Grrls**. [S1] favors FTO; Jackbot variants can be better when their independent synchronized firepower actually matters.
-- **Jaguars / Massacre / Diggers:** **10–11pt Jaguars** provide *Regular smoke* and CC/chain-rifle trades; **25–27pt Señor Massacre** brings Eclipse and E/M CC, but only joins the **StarCo family**, not every link; **14pt Digger** is a Regular Impetuous close guard that benefits PMC/Armored links. Anti-MSV Eclipse and smoke-assisted MSV2 solve different problems; don't overbuy short-range threats.
-- **Irmandinho / Clockmaker / Brawler Engineer:** **8pt Irmandinho** offers Engineer, smoke and expendable assault, **but Irregular/Impetuous**; may join eligible Armored links. **18pt Clockmaker WIP15/GizmoKit(+1B)** with 3pt Zondbot Servants is more reliable across the board. **19pt Brawler Engineer** is less skilled but works inside a TAG link. [S2]
-- **Hardcase / Cateran:** **12pt Hardcase** is a cheap Irregular Camo/Decoy attacker/ARO with +1 special-die Tactical Bow and light shotgun; [S2] likes decoy roadblocks and short corners, but this is another Irregular slot. **21–23pt Cateran** AP or T2 sniper punishes long lanes for lower cost than premium snipers, but no Regular order and vulnerable to MSV.
-- **Lieutenant selection:** **10/0 Alguacil LT** is cheapest, **15/0 Brawler LT** saves SWC while permitting a decoy, **27/0 Brigada shotgun LT** or **33/0 TinBot(-6) Brigada LT** buys resilience. [S1] likes Brawler decoys; [S2] increasingly favors Brigada protection. **Do not repeat an early-video 0.5 SWC Alguacil-LT claim; the pinned StarCo LT profile is 10/0.**
+- **Al Hawwa':**
+  - **19/0 FO**, **22/0 KHD**, **24/0.5 HD**: *Regular* Camo/Infiltration specialists. KHD is the extra hacker-defense angle, **not a Spotlight source**
+  - HD provides ordinary hacking when required. Strong reason to keep a dependable midfield specialist even if your Bandit is deployed aggressively.
+- **Raoul Spector:**
+  - **33/0 AD option 1** is an **Irregular** parachuting/combat-jump Mimetism(-6) assault/specialist with Drop Bears
+  - **34/0 FTO option 3** is a **Regular** Wildcard with MULTI Rifle **and no AD deployment**. [S1] prefers airborne pressure on many boards
+  - FTO works when a protected linked mission piece is worth more than the surprise drop.
+  - **Never link AD option 1**.
+- **Riot Grrl vs Mobile Brigada:**
+  - Riot Grrls give MSV1/Frenzy, Dodge and potentially **29pt specialist**
+  - Brigada give ARM5/360° and Firewall(-6) LT/Hacker/HMG. Riot Grrl Spitfire is cheaper, Brigada HMG reaches further. The 28pt **Avicenna** adds WIP15 Doctor(+3)/NWI and counts as Riot Grrl
+  - **14pt Daktari** counts as Alguacil in a cheaper StarCo link. [S1, B1]
+- **Fiddler:**
+  - **29pt FTO option 1** Super-Jump Engineer with Contender(+1B) and Drop Bears is legal **Riot Grrl** glue
+  - **36/43pt option 2/3** adds 1–2 Jackbots and Climbing Plus for *solo* engineering/attack but **cannot join Riot Grrls**. [S1] favors FTO
+  - Jackbot variants can be better when their independent synchronized firepower actually matters.
+- **Jaguars / Massacre / Diggers:**
+  - **10–11pt Jaguars** provide *Regular smoke* and CC/chain-rifle trades
+  - **25–27pt Señor Massacre** brings Eclipse and E/M CC, but only joins the **StarCo family**, not every link
+  - **14pt Digger** is a Regular Impetuous close guard that benefits PMC/Armored links. Anti-MSV Eclipse and smoke-assisted MSV2 solve different problems
+  - don't overbuy short-range threats.
+- **Irmandinho / Clockmaker / Brawler Engineer:**
+  - **8pt Irmandinho** offers Engineer, smoke and expendable assault, **but Irregular/Impetuous**
+  - may join eligible Armored links. **18pt Clockmaker WIP15/GizmoKit(+1B)** with 3pt Zondbot Servants is more reliable across the board. **19pt Brawler Engineer** is less skilled but works inside a TAG link. [S2]
+- **Hardcase / Cateran:**
+  - **12pt Hardcase** is a cheap Irregular Camo/Decoy attacker/ARO with +1 special-die Tactical Bow and light shotgun
+  - [S2] likes decoy roadblocks and short corners, but this is another Irregular slot. **21–23pt Cateran** AP or T2 sniper punishes long lanes for lower cost than premium snipers, but no Regular order and vulnerable to MSV.
+- **Lieutenant selection:**
+  - **10/0 Alguacil LT** is cheapest, **15/0 Brawler LT** saves SWC while permitting a decoy, **27/0 Brigada shotgun LT** or **33/0 TinBot(-6) Brigada LT** buys resilience. [S1] likes Brawler decoys
+  - [S2] increasingly favors Brigada protection.
+  - **Do not repeat an early-video 0.5 SWC Alguacil-LT claim
+  - the pinned StarCo LT profile is 10/0.**
 - **Order discipline:** Irmandinho/Hardcase/Bandits are Irregular, **Raoul AD is Irregular**, and Hellcats begin off board. Use them for their specific entry/trade jobs without leaving a linked gunfighter unable to act. [S2]
 
 ### StarCo TAGs / REMs / Vehicles — only profiles in this roster

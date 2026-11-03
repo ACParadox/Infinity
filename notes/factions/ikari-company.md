@@ -48,17 +48,56 @@ This section is analytical and non-authoritative; the source profile data and Fi
 
 ### Strong unit choices; preserve disagreements
 
-- **Wú Míng versus Daiyōkai:** Copper [P1] prefers Wú Míng **33pt AP HMG** as the primary gun because it saves **17pt** against Daiyōkai HMG (50pt) *and* shoots AP, while the Wú Míng HRL and E/M GL offer cheap follow-ups. **Opposing case:** Daiyōkai has **ARM5, NWI, NCO, BS Attack (SR-1)** and better independent fighting/CC options, and makes a **Tankō Haris**; it is not simply a worse AP HMG. Pay extra if the NCO order and Haris mobility matter. [V1, P1, P2]
-- **Armand Le Muet MSV1 sniper (34/1.5) versus disposable AROs:** Copper [P1] considers him unusually valuable: **Mimetism (-6)** plus MSV1, forward deployment, MULTI sniper, symbiont transmutation, backup pistols/CC make him both lane controller and active sweeper. **Counterweight:** he costs ~3 Keisotsu and cannot replace specialist/fast-trade coverage; the cheaper **33pt Minelayer** profile trades MSV for an extra defensive mine. [P1]
-- **Tankō:** The **18–19pt Blitzen/Disco Baller** options are robust affordable close support, with hard CC threat; **26pt ML** is a major ARO commitment and may eat 1.5 SWC that could fund another gun. A Tankō is not automatically an advantaged gunfighter just because it joins cheap Keisotsu. [V1, P1]
-- **Karakuri (31–38; AVA2, not Fireteam-linkable in Ikari):** ARM3/BTS6/STR3 with **Immunity (Enhanced)**, FO and GizmoKit means an independent specialist can absorb danger while moving to an objective. **Mk12** pushes direct midrange gunfights; **MULTI Rifle** broadens ammunition; **E/Mitter** offers technical suppression. Expensive relative to button-only alternatives, slow starting position, and cannot borrow JSA's different Karakuri Fireteam access. [P1, V1, P2]
-- **Keisotsu (9–18):** 9pt AP-rifle filler / 9pt LT costs **0.5 SWC**; 10pt combi LT also 0.5; 11pt FO adds a cheap mission Order. The **16pt ECM: Hacker (-6) + CrazyKoala** hacker is useful when Druze Pitchers project the hacking network. The **12pt Thunderbolt BS Attack (-3)** can complicate ARO dice from a Core, but does not become a premium active HMG. [V1]
-- **Brawler hacker (16/0.5), MSV2 sniper (25/1.5), HRL (15/1.5):** Wildcard utility across fireteams: native **Sixth Sense** hacker and TinBot-supported Wú Míng group can punish repeaters/Stealth; MSV2 shoots through smoke; HRL adds a cheap long-lane deterrent. **Disagreement:** [V1] favors the new cheaper Keisotsu hacker and considers Brawler hacker less essential; [P1] values Sixth Sense and supporting the Wú Míng team. SWC/desired lane decide.
-- **Yojimbo:** [V1] rates the **motorized identity** highly for smoke launcher, CrazyKoala/Minelayer, Mimetism (-3), NWI, CC and mobility. **Foot identity** may handle stairs/tight spaces but gives up the motorcycle's reach; V1 strongly favors motorized. **Only one Yojimbo total**, across the two identities. Desperadoes compete with motorized bounty hunters for Irregular slots: Desperado 7pt smoke/chain rifle is usually more efficient for trade/smoke; **Motorized Bounty Hunter** brings alternate Booty/Red Fury/riotstopper utility, including Mechanized Duo eligibility. [V1, P1]
-- **Bashi Bazouk T2/AP Boarding Shotgun (14) vs Cube Jäger:** Bashi can appear from a flank to trade into a hardened target or Lieutenant; cheap Specialist Operative variants solve late objectives. Cube Jäger (15–18) is a Parachutist/Paramedic and different classifieds tool. Copper [P1] favors Bashi's kill potential; [V1] also prefers a Bashi specialist over Jäger for many missions, but Jäger wins where **Paramedic** or precise recovery is needed.
-- **Arslan versus cheap Lieutenant:** Copper [P1] dislikes **35pt Arslan** as an expensive short/midrange gun for what it buys; **9pt Keisotsu LT** or **15pt Brawler LT** hides more cheaply. **Opposing case:** Arslan's WIP13, MSV1, NWI, Disco Baller and ability to fight are genuine upsides; is the list already equipped to protect a fighting LT? **Táowù Chain of Command (21/0)** can insure, but has an opportunity cost. [V1, P1]
-- **Al Fasid (44–50):** ARM5/BTS6, Sixth Sense, Minelayer, Albedo and HMG+smoke/HRL make it a credible **standalone** anchor with area denial. Copper [P1] finds it squeezed out by cheaper **linkable** Wú Míng guns/HRL. [V1] is also skeptical of its inability to link despite the attractive profile. Worth reconsidering when independent fire support, layered smoke and no Fireteam order dependency are valuable. **Warhorse is not synonymous with all hacking attacks being impossible**; apply actual N5 rules.
-- **Krakots versus more Irregular warbands:** Unlike Desperado/Yuan Yuan, Krakots are **Regular, Impetuous**, with Forward Deployment, Super-Jump and close combat; useful to preserve the Regular order pool and threaten midfield. Their direct fighting is relatively short-ranged; do not spend many Orders reaching an overprotected target. [V1, P1]
+- **Wú Míng versus Daiyōkai:**
+  - Copper [P1] prefers Wú Míng **33pt AP HMG** as the primary gun because it saves **17pt** against Daiyōkai HMG (50pt) *and* shoots AP, while the Wú Míng HRL and E/M GL offer cheap follow-ups.
+  - **Opposing case:** Daiyōkai has **ARM5, NWI, NCO, BS Attack (SR-1)** and better independent fighting/CC options, and makes a **Tankō Haris**
+  - it is not simply a worse AP HMG. Pay extra if the NCO order and Haris mobility matter. [V1, P1, P2]
+- **Armand Le Muet MSV1 sniper (34/1.5) versus disposable AROs:**
+  - Copper [P1] considers him unusually valuable: **Mimetism (-6)** plus MSV1, forward deployment, MULTI sniper, symbiont transmutation, backup pistols/CC make him both lane controller and active sweeper.
+  - **Counterweight:** he costs ~3 Keisotsu and cannot replace specialist/fast-trade coverage
+  - the cheaper **33pt Minelayer** profile trades MSV for an extra defensive mine. [P1]
+- **Tankō:**
+  - The **18–19pt Blitzen/Disco Baller** options are robust affordable close support, with hard CC threat
+  - **26pt ML** is a major ARO commitment and may eat 1.5 SWC that could fund another gun. A Tankō is not automatically an advantaged gunfighter just because it joins cheap Keisotsu. [V1, P1]
+- **Karakuri (31–38; AVA2, not Fireteam-linkable in Ikari):**
+  - ARM3/BTS6/STR3 with **Immunity (Enhanced)**, FO and GizmoKit means an independent specialist can absorb danger while moving to an objective.
+  - **Mk12** pushes direct midrange gunfights
+  - **MULTI Rifle** broadens ammunition
+  - **E/Mitter** offers technical suppression. Expensive relative to button-only alternatives, slow starting position, and cannot borrow JSA's different Karakuri Fireteam access. [P1, V1, P2]
+- **Keisotsu (9–18):**
+  - 9pt AP-rifle filler / 9pt LT costs **0.5 SWC**
+  - 10pt combi LT also 0.5
+  - 11pt FO adds a cheap mission Order. The **16pt ECM: Hacker (-6) + CrazyKoala** hacker is useful when Druze Pitchers project the hacking network. The **12pt Thunderbolt BS Attack (-3)** can complicate ARO dice from a Core, but does not become a premium active HMG. [V1]
+- **Brawler hacker (16/0.5), MSV2 sniper (25/1.5), HRL (15/1.5):**
+  - Wildcard utility across fireteams: native **Sixth Sense** hacker and TinBot-supported Wú Míng group can punish repeaters/Stealth
+  - MSV2 shoots through smoke
+  - HRL adds a cheap long-lane deterrent.
+  - **Disagreement:** [V1] favors the new cheaper Keisotsu hacker and considers Brawler hacker less essential
+  - [P1] values Sixth Sense and supporting the Wú Míng team. SWC/desired lane decide.
+- **Yojimbo:**
+  - [V1] rates the **motorized identity** highly for smoke launcher, CrazyKoala/Minelayer, Mimetism (-3), NWI, CC and mobility.
+  - **Foot identity** may handle stairs/tight spaces but gives up the motorcycle's reach
+  - V1 strongly favors motorized.
+  - **Only one Yojimbo total**, across the two identities. Desperadoes compete with motorized bounty hunters for Irregular slots: Desperado 7pt smoke/chain rifle is usually more efficient for trade/smoke
+  - **Motorized Bounty Hunter** brings alternate Booty/Red Fury/riotstopper utility, including Mechanized Duo eligibility. [V1, P1]
+- **Bashi Bazouk T2/AP Boarding Shotgun (14) vs Cube Jäger:**
+  - Bashi can appear from a flank to trade into a hardened target or Lieutenant
+  - cheap Specialist Operative variants solve late objectives. Cube Jäger (15–18) is a Parachutist/Paramedic and different classifieds tool. Copper [P1] favors Bashi's kill potential
+  - [V1] also prefers a Bashi specialist over Jäger for many missions, but Jäger wins where **Paramedic** or precise recovery is needed.
+- **Arslan versus cheap Lieutenant:**
+  - Copper [P1] dislikes **35pt Arslan** as an expensive short/midrange gun for what it buys
+  - **9pt Keisotsu LT** or **15pt Brawler LT** hides more cheaply.
+  - **Opposing case:** Arslan's WIP13, MSV1, NWI, Disco Baller and ability to fight are genuine upsides
+  - is the list already equipped to protect a fighting LT?
+  - **Táowù Chain of Command (21/0)** can insure, but has an opportunity cost. [V1, P1]
+- **Al Fasid (44–50):**
+  - ARM5/BTS6, Sixth Sense, Minelayer, Albedo and HMG+smoke/HRL make it a credible **standalone** anchor with area denial. Copper [P1] finds it squeezed out by cheaper **linkable** Wú Míng guns/HRL. [V1] is also skeptical of its inability to link despite the attractive profile. Worth reconsidering when independent fire support, layered smoke and no Fireteam order dependency are valuable.
+  - **Warhorse is not synonymous with all hacking attacks being impossible**
+  - apply actual N5 rules.
+- **Krakots versus more Irregular warbands:**
+  - Unlike Desperado/Yuan Yuan, Krakots are **Regular, Impetuous**, with Forward Deployment, Super-Jump and close combat
+  - useful to preserve the Regular order pool and threaten midfield. Their direct fighting is relatively short-ranged
+  - do not spend many Orders reaching an overprotected target. [V1, P1]
 
 ### TAGs, REMs, Vehicles — comparative tactical value
 

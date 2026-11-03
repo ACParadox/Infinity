@@ -6,12 +6,29 @@
 
 ## One-minute assessment
 
-- **Identity:** Multiple **Triads/Haris**, two Duos maximum, no Core; pair **Mirrorball/Eraser/Endgame** with Symbiont-equipped Wound reserves and Kaeltar **SymbioMates** to make the opponent fight unfavorable battles. The strength is **control of *which* fights occur**, not winning every straight BS contest.
-- **Premier attack:** **Sukeul HMG (33/1.5)** with Mimetism -3, BS13 and Symbiont durability is the most natural conventional active gun. **K1 sniper/FO** provide *different* anti-armor or scoring jobs. Alternatives: Ectros HMG NCO, Gorgos AP HMG, Neema AP Spitfire, Draal AP Marksman, Kosuil K1.
-- **Premier control:** **Kriigel (21/.5)** for Eraser + Mirrorball in a compatible link; **Taqeul WIP14 (35–36/0)** for Mirrorball + Endgame and excellent LT/CoC options. Endgame/Eraser pressure **W**, not STR. A robot/TAG cannot be controlled by assuming biological Pheroware works on it.
+- **Identity:**
+  - Multiple **Triads/Haris**, two Duos maximum, no Core
+  - pair **Mirrorball/Eraser/Endgame** with Symbiont-equipped Wound reserves and Kaeltar **SymbioMates** to make the opponent fight unfavorable battles. The strength is **control of *which* fights occur**, not winning every straight BS contest.
+- **Premier attack alternatives:**
+  - **Sukeul HMG (33/1.5):** BS13, Mimetism(-3), Symbiont durability.
+  - **Sukeul K1 sniper / FO:** Anti-armor or scoring.
+  - **Ectros HMG NCO:** Lieutenant-order shooting.
+  - **Gorgos AP HMG:** Heavy TAG attack.
+  - **Neema AP Spitfire:** Premium midfield attack.
+  - **Draal AP Marksman:** Specialist/shooting utility.
+  - **Kosuil K1:** Anti-armor choice.
+- **Premier control alternatives:**
+  - **Kriigel (21/.5):** Eraser + Mirrorball in a legal team.
+  - **Taqeul (35–36/0, WIP14):** Mirrorball + Endgame with LT/CoC options.
+  - **Limit:** Pheroware attacks W, **not STR**; do not assume it controls TAGs/robots.
 - **Premier resilience:** **Kaeltar** 15/0 (one Mate), 21/.5 (CoC + one Mate), 28/.5 (CoC + two Mates). The Mate spends a key order absorbing/softening a save; it is **limited, triggered equipment**, not always-on ARM9.
-- **Competitive problem:** 2–3 attractive 20–40pt pieces plus a Mate/CoC support shell burn points and slots fast; no Netrod/Flash REM + Baggage order swarm, narrow normal hacking, and a handful of merely BS12–13 long-range guns. Aggressive offense + protected ARO + hidden midfield can crowd out cheap orders. **Decide the mission plan before building three expensive fireteams.**
-- **Ranking disagreement:** The 2025 Tactical Awareness group found Tohaa versatile and locally tournament-winning; Shepherd/Jordan's **summer 2026 top-of-C** conclusion argues other factions' N5 multiwound, Eclipse and heavy-gun upgrades erode that advantage. Both can hold: Tohaa remains **dangerous at executing *specific* denial plans** while its *generic all-comers power* is less automatic.
+- **Competitive problem:**
+  - 2–3 attractive 20–40pt pieces plus a Mate/CoC support shell burn points and slots fast
+  - no Netrod/Flash REM + Baggage order swarm, narrow normal hacking, and a handful of merely BS12–13 long-range guns. Aggressive offense + protected ARO + hidden midfield can crowd out cheap orders.
+  - **Decide the mission plan before building three expensive fireteams.**
+- **Ranking disagreement:**
+  - The 2025 Tactical Awareness group found Tohaa versatile and locally tournament-winning
+  - Shepherd/Jordan's **summer 2026 top-of-C** conclusion argues other factions' N5 multiwound, Eclipse and heavy-gun upgrades erode that advantage. Both can hold: Tohaa remains **dangerous at executing *specific* denial plans** while its *generic all-comers power* is less automatic.
 - **N5.3 update important:** the summer review was expecting the Varangian Dog-Warrior; current Tohaa **does include Ioann Bann (32/0)**. Reassess smoke/CC trading with this actual profile, without pretending a single addition proves a new tier.
 
 ## Building blocks: specify the job, then buy the smallest package
@@ -32,13 +49,42 @@
 | **Gao-Tarsos Paramedic (24/0)** or **Kotail FO (32/0)** | Mobile *alternative scoring axis*: AD BSG/D-charges can bypass the fighting lane; Kotail Holoprojector + Super-Jump creates surprising vertical/button lines. | Reviews like their tools but frequently cut them from tournament lists because **they cost full attack-unit points** and the primary Triads still require orders. |
 | **Kerail+SymbioBeasts (25–33)**, **Igao Mirrorball (26/.5)**, **Ioann Bann (32/0)** | Unusual flank/CC threat; Igao can drop a vision screen from infiltrated ground. Ioann offers smoke and an Irregular multiwound close-range missile rather than relying on a whole Makaul Triad. | Each may generate its **own** order, not free Regular group fuel; beasts/peripherals and transformations carry rules/positioning costs. Igao cannot press specialist buttons. Avoid taking all three without mission slots. |
 
+**Visibility control:**
+
+- **Kriigel (21/.5):** Repeatable Mirrorball/Eclipse corridor control.
+- **Taqeul (35–36/0):** Mirrorball with command/Pheroware value.
+- **Kaauri (14/.5) / Igao (26/.5):** Different visibility tools.
+- **Makaul (14/0):** Eclipse grenades, HFT, close combat and Triad support.
+- **Choice:** Kriigel can close repeated corridors; Makaul also protects short-range approaches. Mirrorball/Disco is not White Noise; ordinary Smoke is not MSV-proof. [Vision guide](../list-building/vision-control-units-apex-and-value.md).
+
+**Midfield toolbox:**
+
+- **Draal (32/0 Dazer or 33/0 Viral Mine):** FD20, Mimetism(-6), 2W specialist and denial shooter.
+- **Kriigel (21/.5):** Mirrorball/Eraser rather than a generalist gun.
+- **Taqeul (35–36):** Command plus Pheroware.
+- **Budget:** Too many ~30pt pieces dilute the Sukeul HMG allocation. [Toolbox guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+**Force multipliers:**
+
+- **Taagma (15/0):** Counterintelligence/Holomask and cheap Triad body.
+- **Taagma MSV2 Viral Sniper (22/1.5):** Separate SWC shooting profile.
+- **Chaksa Auxiliary FTO (10/0):** Baggage/Sensor, eligible Disposable reloads and Camo discovery, **not EVO Supportware**.
+- **Samsa Decoy:** Deployment uncertainty, no extra ARO or Regular Order.
+- **Budget:** Makaul/Draal/Sukeul mission value may exceed passive Counterintelligence when it is unlikely to matter. [Force-multiplier guide](../list-building/force-multipliers-special-abilities-apex-value.md).
+
 ### Practical legal formations and opportunity cost
 
-- **Triad:** choose any *legal* up-to-three members from [FT-01](../../sectorials/tohaa/tohaa.md#ft-01--triad-fireteams). Example roles: **Sukeul HMG + Makaul + Kamael FO/Paramedic** (gun / vision + CC / scoring), or **Taqeul + Kriigel + Kaeltar** (Pheroware / Mate / command), or **Gao-Rael MSV2 + Makaul + Kumotail** (visual answer / CC screen / recovery). This is a role sketch, **not three mandatory links**. Account for chart limits per model.
+- **Triad role examples** (verify [FT-01](../../sectorials/tohaa/tohaa.md#ft-01--triad-fireteams)):
+  - **Sukeul HMG + Makaul + Kamael FO/Paramedic:** Shooting, CC/vision protection and scoring.
+  - **Taqeul + Kriigel + Kaeltar:** Pheroware, Mate and command.
+  - **Gao-Rael MSV2 + Makaul + Kumotail:** Anti-visibility, CC screen and recovery.
+  - **Limit:** Examples, not mandatory links; obey roster requirements.
 - **Reex Escorts FT-02:** **at least one Reex**; up to two Reex, one Kriigel and one Kiel-Saan in any *legal 2–3 body team*. Cheapest path to a linked control piece. Kriigel “counts as Reex” here but **does not remove Reex minimum**.
 - **Chaksa FT-03:** **at least one Chaksa Longarm**; up to three Longarms, at most two **Chaksa Aux FTO**, at most one Kiel-Saan, inside permitted 2–3 model team. Not a generic way to make every 10pt Chaksa an FTO without the required Longarm.
 - **No Core; unlimited Haris/Triads; maximum TWO Duos.** Pair count and the **full 15-trooper / combat-group order budget** constrain the list more than “everything links with everything” shorthand. No official generic Wildcards are declared; do not import Spiral Corps.
-- **Two useful axes rather than a single death ball:** (1) one serious gun plus Mirrorball/Pheroware; (2) one objective tool plus cheap roadblocks/specialist recovery. A third large Haris is optional **only if its distinct job and order source are clear**.
+- **Two useful axes rather than a single death ball:**
+  - (1) one serious gun plus Mirrorball/Pheroware
+  - (2) one objective tool plus cheap roadblocks/specialist recovery. A third large Haris is optional **only if its distinct job and order source are clear**.
 
 ## TAG / Vehicles / REMs — actual 2026 faction options
 
@@ -73,15 +119,46 @@
 
 ## Four practical plans
 
-**A. Mission-first flexible:** LT **Taqeul(+1 Order)** or cheaper **Kamael/Sakiel**, one **Kaeltar CoC/Mate** if LT exposure warrants it, **Sukeul HMG**, **one Kriigel**, a **Kamael specialist/Clipsos FO or Draal**, plus **Kaauri/Chaksa 10pt** lane screens. Fill remaining orders only after selecting actual two-triad/one-duo uses. Prefer a **reserve specialist** to a third redundant sniper.
+**A. Mission-first flexible:**
 
-**B. Pheroware holdfast:** Taqeul + Kriigel in different legal Triads or two denial packages; Kaauri Mirrorball where spare SWC; cheap bodies/mine threats around midfield; direct BS gun waits until enemy has committed to an approach. **Endgame/Eraser do not stop STR models**—budget K1/AP/E/M for them and make placement before relying on “all approaches covered.”
+- **Lieutenant:** Taqeul (+1 Order) or cheaper Kamael/Sakiel.
+- **Safety:** Kaeltar CoC/Mate if needed.
+- **Attack/control:** Sukeul HMG and Kriigel.
+- **Scoring:** Kamael specialist, Clipsos FO or Draal.
+- **Screens:** Kaauri or 10pt Chaksa.
+- **Budget:** Choose actual Triad/Duo needs first; retain a reserve specialist before buying redundant premium shooters.
 
-**C. Anti-TAG/AP pressure:** **Gorgos (63 or 67)** as primary attacker *or* **Sukeul K1 sniper/FO + Kosuil K1 + Neema AP Spitfire**, with Makaul/Mirrorball vision and an Engineer/Doctor for other valuable troopers. Don't buy both an expensive Gorgos + multiple long-range/HI fireteams unless enough orders and scoring specialists remain.
+**B. Pheroware holdfast:**
 
-**D. Impersonation/mission assassination:** **Jaan Staar OR Kiiutan** (never both), cheaper Greif as alternative; force a reaction on a key sniper/LT/engineer/hacker; then deliver Sukeul/Kriigel, and save a Clipsos/Draal/Kamael to **score** after the assassination. An early kill with no objective/order benefit is a poor trade.
+- **Taqeul and Kriigel:** Different legal Triads or denial packages.
+- **Kaauri Mirrorball:** Further coverage when SWC permits.
+- **Cheap screens/mines:** Tax midfield approaches.
+- **Direct gun:** Waits until the opponent commits.
+- **Limit:** Endgame/Eraser do not stop STR units; budget K1/AP/E/M alternatives.
 
-**End-of-list checklist:** 1) Which **two scoring units** can reach objectives without the main gun? 2) How do I beat **one ARM/BTS-heavy TAG/STR target** after realizing Pheroware does not affect it? 3) Which **cheap lane screens** stop AD/impersonators and guided/fire templates? 4) What is my **turn-two plan if the Sukeul/Gorgos is dead**? 5) Are the 2 Duos/Haris actually legal in the [current Army chart](../../sectorials/tohaa/tohaa.md#canonical-fireteam-definitions), and which combat group will spend their orders?
+**C. Anti-TAG/AP pressure:**
+
+- **Gorgos (63 or 67):** Primary attack TAG, *or*
+- **Sukeul K1 sniper/FO + Kosuil K1 + Neema AP Spitfire:** Distributed anti-armor package.
+- **Makaul/Mirrorball:** Vision control.
+- **Engineer/Doctor:** Recovery for valued troops.
+- **Budget:** Avoid Gorgos plus multiple expensive Fireteams if this cuts Orders and specialists.
+
+**D. Impersonation/mission assassination:**
+
+- **Jaan Staar or Kiiutan:** Never both in this roster.
+- **Greif:** Cheaper alternative.
+- **Targets:** Priority sniper, LT, Engineer or Hacker.
+- **Follow-up:** Sukeul/Kriigel opens the lane; Clipsos/Draal/Kamael scores later.
+- **Decision:** A kill without mission/Order value may be a poor trade.
+
+**End-of-list checklist:**
+
+- Which **two scoring units** can reach objectives without the main gun? 
+- How do I beat **one ARM/BTS-heavy TAG/STR target** after realizing Pheroware does not affect it? 
+- Which **cheap lane screens** stop AD/impersonators and guided/fire templates? 
+- What is my **turn-two plan if the Sukeul/Gorgos is dead**? 
+- Are the 2 Duos/Haris actually legal in the [current Army chart](../../sectorials/tohaa/tohaa.md#canonical-fireteam-definitions), and which combat group will spend their orders?
 
 ## Historical/edition boundaries and validation
 
@@ -90,24 +167,6 @@
 - Gorgos is the only normal-roster TAG, and the faction has **no VH** and **no standard REMs**. Drone-like biological pieces and a motorcycle should not be mislabeled to meet a “TAG/REM/VH” checklist.
 - This is tactical **analysis**; for every points/SWC, required min, profile exception and special skill, defer to [the pinned September 2026 Tohaa reference](../../sectorials/tohaa/tohaa.md) and [N5.3 rules](../../rules/README.md).
 
-## Vision control — role/value update (23 October 2026)
-
-- **Repeatable Eclipse:** **Kriigel 21/.5 Mirrorball** (no-LoF/WIP/ZoC) or **Taqeul 35–36/0** if the command/Pheroware secondary role pays; **Kaauri 14/.5** and **Igao 26/.5** diversify the approach. **Makaul 14/0** is still the cheaper **Eclipse grenades + HFT + Triad/CC** choice.
-- **Opposing plans:** favor Kriigel for multiple precise repeated corridor closures; favor Makaul when a single advance also needs an HFT/CC deterrent. Mirrorball/Disco are not White Noise and normal Smoke is not guaranteed vs MSV. [Apex/value comparison and videos](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Draal32/0 Dazer or33/0 Viral Mine** is a highly effective forward Specialist/screen/denial shooter (FD20, Mimetism -6, 2W). **Kriigel21/.5** handles repeatable Mirrorball+Eraser but is not the same generalist gun; **Taqeul35–36** adds command. Opposing evaluation: multiple Triad toolbox specialists provide mission resiliency, but too many midline 30pt bodies can dilute the **Sukeul HMG** attack budget.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**Taagma15/0 Counterintelligence+Holomask** is an exceptionally cheap passive first-turn Order-strip buffer and legal Triad body; **22/1.5 MSV2 Viral Sniper** is a different combat option and costs SWC. **Chaksa Auxiliary FTO10/0 Baggage+Sensor** can reload *eligible* Expended Disposable equipment and detect Camo, but not magically run EVO Supportware; no conventional Tohaa cyber network. **Samsa Decoy** provides uncertainty, no extra ARO or Regular Order. Counter: on a tight Tohaa list buying another Makaul/Draal/Sukeul mission piece may be better if Counterintel won't fire.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
-
----
 
 ## References
 

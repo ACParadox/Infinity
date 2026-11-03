@@ -18,13 +18,35 @@
 
 ### Units and interactions worth building around
 
-- **Druze KHD (23/0) + Pitcher:** Good first hacker because it attacks enemy hackers and deploys the repeater network that enables the rest of the force; the HD (25/0.5) supplies non-killer hacking, so **KHD alone is not a Spotlight plan**. A Druze E/M grenade launcher (24/1) offers a different attack vector against high-value technological targets; spec-fire pressure costs SWC and Orders, so use it when direct attack is worse. [V1, P1]
-- **Brawler HRL (15/1.5), hacker (16/0.5), MSV2 sniper (25/1.5):** HRL + native Sixth Sense is a cost-efficient deterrent; the hacker broadens repeater-zone defence; MSV2 has an active smoke-shooting niche but becomes a costly reactive target without good range, cover and lane selection. **Competing views:** V1's guest favors the cheap HRL; its host emphasizes the MSV2 MULTI sniper as an *active* smoke attacker, not a default exposed ARO model.
-- **Valerya (19/0.5):** WIP14 HD, Pitcher and Total Control (+1B) make her a lean specialist for hacking and anti-TAG duty. **Counterview:** Druze HD/KHD or Brawler hacker can provide redundancy and other utility; Valerya is not an automatic include if the plan is neither hacking-heavy nor reliant on a Wildcard specialist. [V1, V2]
-- **Hunzakut FO/repeater (19/0) or FO/D-Charges (15/0):** Infiltrating Camo midfield mission presence, deployable repeater / FO access and mines make them disproportionately important; most of the rest of this sectorial starts farther from objectives. Their Irregular Orders mean they are not a substitute for the Regular order pool. [V1, P1]
-- **Saito, Yuan Yuan, Denma, Diggers:** Saito is a real independent close-attack/midfield threat; cheap Yuan Yuan bring smoke and flank pressure; Denma and Diggers threaten melee trades and can protect a team. **Trade-off:** too many Irregular/Impetuous troops leave too few Regular Orders to operate the network, fireteams, or TAG. [V1, P1]
-- **Lieutenant security:** Cheap Brawler LT versus pricier Arslan LT is a real opportunity-cost decision. The Brawler is easier to hide; Arslan supplies a better equipped fighter and Disco Baller but becomes a tempting priority target. Táowù's Chain of Command option (21/0) is a separate insurance choice, not a requirement. [V1, P1]
-- **Fiddler:** Strong independent Engineer/mobility/JackBot tool; **FTO option 1 is not Fireteam legal in Druze** despite its name. Monstruckers are cheaper but Irregular Engineers; Cordelia belongs to the mandatory Scarface composite. Match engineer spend to what actually needs repairing.
+- **Druze KHD (23/0) + Pitcher:**
+  - Good first hacker because it attacks enemy hackers and deploys the repeater network that enables the rest of the force
+  - the HD (25/0.5) supplies non-killer hacking, so **KHD alone is not a Spotlight plan**. A Druze E/M grenade launcher (24/1) offers a different attack vector against high-value technological targets
+  - spec-fire pressure costs SWC and Orders, so use it when direct attack is worse. [V1, P1]
+- **Brawler HRL (15/1.5), hacker (16/0.5), MSV2 sniper (25/1.5):**
+  - HRL + native Sixth Sense is a cost-efficient deterrent
+  - the hacker broadens repeater-zone defence
+  - MSV2 has an active smoke-shooting niche but becomes a costly reactive target without good range, cover and lane selection.
+  - **Competing views:** V1's guest favors the cheap HRL
+  - its host emphasizes the MSV2 MULTI sniper as an *active* smoke attacker, not a default exposed ARO model.
+- **Valerya (19/0.5):**
+  - WIP14 HD, Pitcher and Total Control (+1B) make her a lean specialist for hacking and anti-TAG duty.
+  - **Counterview:** Druze HD/KHD or Brawler hacker can provide redundancy and other utility
+  - Valerya is not an automatic include if the plan is neither hacking-heavy nor reliant on a Wildcard specialist. [V1, V2]
+- **Hunzakut FO/repeater (19/0) or FO/D-Charges (15/0):**
+  - Infiltrating Camo midfield mission presence, deployable repeater / FO access and mines make them disproportionately important
+  - most of the rest of this sectorial starts farther from objectives. Their Irregular Orders mean they are not a substitute for the Regular order pool. [V1, P1]
+- **Saito, Yuan Yuan, Denma, Diggers:**
+  - Saito is a real independent close-attack/midfield threat
+  - cheap Yuan Yuan bring smoke and flank pressure
+  - Denma and Diggers threaten melee trades and can protect a team.
+  - **Trade-off:** too many Irregular/Impetuous troops leave too few Regular Orders to operate the network, fireteams, or TAG. [V1, P1]
+- **Lieutenant security:**
+  - Cheap Brawler LT versus pricier Arslan LT is a real opportunity-cost decision. The Brawler is easier to hide
+  - Arslan supplies a better equipped fighter and Disco Baller but becomes a tempting priority target. Táowù's Chain of Command option (21/0) is a separate insurance choice, not a requirement. [V1, P1]
+- **Fiddler:**
+  - Strong independent Engineer/mobility/JackBot tool
+  - **FTO option 1 is not Fireteam legal in Druze** despite its name. Monstruckers are cheaper but Irregular Engineers
+  - Cordelia belongs to the mandatory Scarface composite. Match engineer spend to what actually needs repairing.
 
 ### TAGs and mechanized units — genuine alternatives and disagreement
 

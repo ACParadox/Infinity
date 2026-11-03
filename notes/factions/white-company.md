@@ -52,19 +52,68 @@ This section is analytical and non-authoritative; source profile data and the ca
 
 ### Best units with an explicit why — including the anti-case
 
-- **Hǎidào (24/0 CoC; 22/0 KHD+Pitcher; 25/0 Engineer; 29/1.5 MSV2 sniper):** NWI/Shock Immunity plus **Wildcard AVA3** puts meaningful specialists in otherwise awkward teams. MSV2 sniper exploits smoke; KHD+Pitcher defends/extends the hacker net; CoC protects a forward ORC/Gūijiă/Hawkwood LT. **Counter:** each is a distinct profile: the 29pt sniper does **not** carry CoC/KHD/Engineer, and paying for several Hǎidào eats real points despite their strong individual value. [P1, S1, S2, T1]
-- **John Hawkwood:** **35/1 K1 sniper** is the efficient long-range killer; **40/0 CoC+Combi(+1B)** is a more expensive flexible LT safety net; **35/1 LT** and **39/1 LT+1 Order** help a list use Lieutenant Orders. He is a Wildcard that **counts as Fusilier**, so a Fusilier-supported sniper Core can solve heavy armor without expensive ORC guns. **Counter:** a single Hawkwood has a huge target on him; plan the backup sniper/specialist. [S1, P1, T1]
-- **Karhu versus Kaplan K2:** **34/1.5 Karhu Feuerbach** supplies anti-TAG reach, MSV1 and Mimetism; **25/0 Karhu Engineer** supplies D-Charges and NCO while keeping a K2 team advancing for classifieds. **25/0 Kaplan Engineer** trades Karhu's stronger shooter package for **WIP14 and BTS6/Mimetism(-3)**; **24/0 Kaplan Doctor** is a good backup in a K2 team with expensive attack pieces. [S1, T1, T2] **Opposing opinions:** [P1/S1] enjoy aggressive Karhu links, while [S2] warns that needing other K2 units to unlock bonuses can make niche choices such as Wild Bill inefficient. Don't turn “K2” into a mandatory 5-man commitment.
-- **ORC / Jujak / Nisse / Blade:** **ORC 34/1.5 HMG, 29/0 Firewall(-3), 33/0.5 HD** buys durable mid-long pressure. **Jujak 29/0 Engineer, 27/0 Firewall(-3), 31/1.5 Spitfire** adds templates and tech support. **Nisse 29/1.5 MSV2 sniper or 31/1.5 HMG** suppresses smoke and Mimetism lanes. **Blade FTO 20/0 shotgun or 23/0 Engineer** brings Tactical Awareness and Mimetism in the White Company Fireteam. **Counter:** high exposure to hacking and high price of a full mixed Core; [S1] argues WhiteCo still chooses between **high-modifier Karhu** and **durable HI** rather than obtaining both benefits in a single all-purpose piece.
-- **Laxmee vs Danavas:** **Laxmee 24/0.5 HD+ (Fairy Dust upgrade), Pitcher, Mimetism(-3), Cybermine/Minelayer** is a **Wildcard** and helps protect Hackable formations and cover White Noise targets. **Danavas 22/0.5 HD+ with upgraded Oblivion and Pitcher** is a cheaper separate backline hacker, **not a Wildcard**. [S1] says Laxmee is an almost universal high-value toolkit; [S2] also likes the hacker network, but **counter:** 46pts/1SWC for both is too much unless the second HD+ is creating repeaters/control the army will actually use.
-- **Guiláng vs Nøkken:** **27/0 Guiláng FO**, **25/0.5 Minelayer/Deployable Repeater**, **31/0.5 HD** get real **Infiltration, Camo, MSV1**. **22/0 Nøkken FO**, **25/0 Nøkken KHD**, **27/0.5 HD** instead bring **FD+20, Mimetism(-6), Bangbomb/Transmutation** and short-range guns; no Guiláng-style Infiltration. [S2] strongly prefers Guiláng for objectives and protection; **counter:** cheaper 22pt Nøkken FO or 25pt KHD pays for itself when its Mimetism and immediate short approach are the actual mission needs. [T1/T2] explicitly warn that 25–31pt midfield specialists can be squeezed out by the beautiful gun/vision tools.
-- **Peacemaker / Bulleteer:** **Peacemaker 23/0 FD+20 Heavy Shotgun/Pulzar+Auxbot** creates three simultaneous corner/repeater/template problems; **24/0.5 alternate Minelayer Auxbot package** can establish an extra initial mine screen; **27/0 boarding shotgun(+1B)+Auxbot** buys a more direct assault, while **23/0 boarding-shotgun variant lacks Auxbot**. [S2/G1] value forward denial rather than raw Kills. **22/1 Bulleteer Spitfire Mimetism(-6)** is a compact high-mod assault REM; **19/0 heavy shotgun(+1B)** helps close-range clearance. **Counter:** unlike NCA, **Bulleteer/Peacemaker are not WhiteCo Wildcards or Fireteam members**, so their great gun needs Regular Orders and independent repair/positioning.
-- **Smoke/CC choices:** **12–13pt Varangians (AVA2)** offer smoke, Irregular Orders and template/CC trade; **22pt Shona Wildcard** counts as Varangian and increases smoke reliability in legal Duo. **17pt Carmen+Bâtard** is a forward motorcycle attack/smoke package. **21pt Liang Kai Wildcard** is fast Super-Jump/EXP CC, **28–33pt Valkyrie counts as ORC**, **25–27pt Señor Massacre Eclipse** is the MSV-proof approach. [T1/T2] make convincing use of **Shona+Varangian**; [S1] notes unlinked Impetuous smoke can be more order-efficient when you don't need Duo bonuses.
-- **Tiger vs Cube Jäger / Blade AD:** **20/0 Tiger Boarding Shotgun**, **26/0 Tiger Paramedic**, **29/0.5 Tiger HD**, Combat Jump/Parachutist, Super-Jump and Mimetism(-3): strong unexpected rear angle and late objective reach. **15/0 Cube Jäger Paramedic** is cheaper but only Parachutist and less gunfighting; **Blade option 4 Parachutist (30/0)** is a solo Engineer with FD/Decoy alternative profile and **cannot link**. **Counter:** too many off-board troops leave midfield under-defended going second. [P1, T1, T2]
-- **Hannibal, Táowù, Emily and LT insurance:** **Hannibal LT 31/0 or 37/0.5** offers Strategos L1/TacAware/Counterintelligence but is a more expensive deployment-dependent command platform; **Táowù 21/0.5 CoC** offers Holomask/Counterintelligence as a native Fusilier-family member; **Emily 28/0 CoC/E/M GL** or **Hǎidào 24/0 CoC** are alternate routes. WhiteCo has many legal **CoC options**, unlike several other NA2 sectorials. Choose one when your LT is actually at risk; stacking several wastes points. [S1, S2]
-- **Fusilier/CSU/Blocker:** **10/0 Fusilier LT or regular**, **12/0 FO deployable repeater**, **15/0.5 HD** fill economical native Fusilier Core/Haris. **11–13pt CSU Specialist** provides a cheap native specialist; **15/0 Blocker Specialist with Pitcher** adds Sensor/Biometric Visor/repeater projection; **19/0.5 Blocker HD has a Firewall upgrade but does NOT also have the Pitcher of its other profile**. [S2] initially questions Blocker's pure bonuses; **current chart grants native Fusilier-family access, not an unconditional “counts as Fusilier” purity equivalence**, so distinguish membership from all-pure composition. [S1]
-- **Chaksa Longarms and Wild Bill:** [S1] dismisses Longarms in many lists as overcosted for the available competition; **29/1.5 portable autocannon**, **24/1.5 ML** and **25/0 Mk12** can nevertheless cover lanes or function as an independent **Duo/Haris** when your Core/Haris choices permit. [S2] thinks **Wild Bill (22–24/0)** needs compatible K2 buddies to benefit from bonuses, which often pushes more self-sufficient guns off the roster. **Neither is a mandatory trap nor a default efficiency pick**; assess a real lane/mission.
-- **Irregular/Regular and team-slot budgeting:** 1 Core, 1 Haris, unlimited **legal Duos**, **not two Haris** (the early reaction [S2] mentions the old limit incorrectly). Rumbler optional Spec-Ops cannot be added in standard mode. Preserve the **K2 Kaplan/Karhu and WhiteCo ORC/Jujak raw required=true/min=0** ambiguity rather than inventing an anchor rule; other source minimums apply exactly.
+- **Hǎidào (24/0 CoC; 22/0 KHD+Pitcher; 25/0 Engineer; 29/1.5 MSV2 sniper):**
+  - NWI/Shock Immunity plus **Wildcard AVA3** puts meaningful specialists in otherwise awkward teams. MSV2 sniper exploits smoke
+  - KHD+Pitcher defends/extends the hacker net
+  - CoC protects a forward ORC/Gūijiă/Hawkwood LT.
+  - **Counter:** each is a distinct profile: the 29pt sniper does **not** carry CoC/KHD/Engineer, and paying for several Hǎidào eats real points despite their strong individual value. [P1, S1, S2, T1]
+- **John Hawkwood:**
+  - **35/1 K1 sniper** is the efficient long-range killer
+  - **40/0 CoC+Combi(+1B)** is a more expensive flexible LT safety net
+  - **35/1 LT** and **39/1 LT+1 Order** help a list use Lieutenant Orders. He is a Wildcard that **counts as Fusilier**, so a Fusilier-supported sniper Core can solve heavy armor without expensive ORC guns.
+  - **Counter:** a single Hawkwood has a huge target on him
+  - plan the backup sniper/specialist. [S1, P1, T1]
+- **Karhu versus Kaplan K2:**
+  - **34/1.5 Karhu Feuerbach** supplies anti-TAG reach, MSV1 and Mimetism
+  - **25/0 Karhu Engineer** supplies D-Charges and NCO while keeping a K2 team advancing for classifieds. **25/0 Kaplan Engineer** trades Karhu's stronger shooter package for **WIP14 and BTS6/Mimetism(-3)**
+  - **24/0 Kaplan Doctor** is a good backup in a K2 team with expensive attack pieces. [S1, T1, T2] **Opposing opinions:** [P1/S1] enjoy aggressive Karhu links, while [S2] warns that needing other K2 units to unlock bonuses can make niche choices such as Wild Bill inefficient. Don't turn “K2” into a mandatory 5-man commitment.
+- **ORC / Jujak / Nisse / Blade:**
+  - **ORC 34/1.5 HMG, 29/0 Firewall(-3), 33/0.5 HD** buys durable mid-long pressure.
+  - **Jujak 29/0 Engineer, 27/0 Firewall(-3), 31/1.5 Spitfire** adds templates and tech support.
+  - **Nisse 29/1.5 MSV2 sniper or 31/1.5 HMG** suppresses smoke and Mimetism lanes.
+  - **Blade FTO 20/0 shotgun or 23/0 Engineer** brings Tactical Awareness and Mimetism in the White Company Fireteam.
+  - **Counter:** high exposure to hacking and high price of a full mixed Core
+  - [S1] argues WhiteCo still chooses between **high-modifier Karhu** and **durable HI** rather than obtaining both benefits in a single all-purpose piece.
+- **Laxmee vs Danavas:**
+  - **Laxmee 24/0.5 HD+ (Fairy Dust upgrade), Pitcher, Mimetism(-3), Cybermine/Minelayer** is a **Wildcard** and helps protect Hackable formations and cover White Noise targets.
+  - **Danavas 22/0.5 HD+ with upgraded Oblivion and Pitcher** is a cheaper separate backline hacker, **not a Wildcard**. [S1] says Laxmee is an almost universal high-value toolkit
+  - [S2] also likes the hacker network, but **counter:** 46pts/1SWC for both is too much unless the second HD+ is creating repeaters/control the army will actually use.
+- **Guiláng vs Nøkken:**
+  - **27/0 Guiláng FO**, **25/0.5 Minelayer/Deployable Repeater**, **31/0.5 HD** get real **Infiltration, Camo, MSV1**. **22/0 Nøkken FO**, **25/0 Nøkken KHD**, **27/0.5 HD** instead bring **FD+20, Mimetism(-6), Bangbomb/Transmutation** and short-range guns
+  - no Guiláng-style Infiltration. [S2] strongly prefers Guiláng for objectives and protection
+  - **counter:** cheaper 22pt Nøkken FO or 25pt KHD pays for itself when its Mimetism and immediate short approach are the actual mission needs. [T1/T2] explicitly warn that 25–31pt midfield specialists can be squeezed out by the beautiful gun/vision tools.
+- **Peacemaker / Bulleteer:**
+  - **Peacemaker 23/0 FD+20 Heavy Shotgun/Pulzar+Auxbot** creates three simultaneous corner/repeater/template problems
+  - **24/0.5 alternate Minelayer Auxbot package** can establish an extra initial mine screen
+  - **27/0 boarding shotgun(+1B)+Auxbot** buys a more direct assault, while **23/0 boarding-shotgun variant lacks Auxbot**. [S2/G1] value forward denial rather than raw Kills. **22/1 Bulleteer Spitfire Mimetism(-6)** is a compact high-mod assault REM
+  - **19/0 heavy shotgun(+1B)** helps close-range clearance.
+  - **Counter:** unlike NCA, **Bulleteer/Peacemaker are not WhiteCo Wildcards or Fireteam members**, so their great gun needs Regular Orders and independent repair/positioning.
+- **Smoke/CC choices:**
+  - **12–13pt Varangians (AVA2)** offer smoke, Irregular Orders and template/CC trade
+  - **22pt Shona Wildcard** counts as Varangian and increases smoke reliability in legal Duo. **17pt Carmen+Bâtard** is a forward motorcycle attack/smoke package. **21pt Liang Kai Wildcard** is fast Super-Jump/EXP CC, **28–33pt Valkyrie counts as ORC**, **25–27pt Señor Massacre Eclipse** is the MSV-proof approach. [T1/T2] make convincing use of **Shona+Varangian**
+  - [S1] notes unlinked Impetuous smoke can be more order-efficient when you don't need Duo bonuses.
+- **Tiger vs Cube Jäger / Blade AD:**
+  - **20/0 Tiger Boarding Shotgun**, **26/0 Tiger Paramedic**, **29/0.5 Tiger HD**, Combat Jump/Parachutist, Super-Jump and Mimetism(-3): strong unexpected rear angle and late objective reach. **15/0 Cube Jäger Paramedic** is cheaper but only Parachutist and less gunfighting
+  - **Blade option 4 Parachutist (30/0)** is a solo Engineer with FD/Decoy alternative profile and **cannot link**.
+  - **Counter:** too many off-board troops leave midfield under-defended going second. [P1, T1, T2]
+- **Hannibal, Táowù, Emily and LT insurance:**
+  - **Hannibal LT 31/0 or 37/0.5** offers Strategos L1/TacAware/Counterintelligence but is a more expensive deployment-dependent command platform
+  - **Táowù 21/0.5 CoC** offers Holomask/Counterintelligence as a native Fusilier-family member
+  - **Emily 28/0 CoC/E/M GL** or **Hǎidào 24/0 CoC** are alternate routes. WhiteCo has many legal **CoC options**, unlike several other NA2 sectorials. Choose one when your LT is actually at risk
+  - stacking several wastes points. [S1, S2]
+- **Fusilier/CSU/Blocker:**
+  - **10/0 Fusilier LT or regular**, **12/0 FO deployable repeater**, **15/0.5 HD** fill economical native Fusilier Core/Haris. **11–13pt CSU Specialist** provides a cheap native specialist
+  - **15/0 Blocker Specialist with Pitcher** adds Sensor/Biometric Visor/repeater projection
+  - **19/0.5 Blocker HD has a Firewall upgrade but does NOT also have the Pitcher of its other profile**. [S2] initially questions Blocker's pure bonuses
+  - **current chart grants native Fusilier-family access, not an unconditional “counts as Fusilier” purity equivalence**, so distinguish membership from all-pure composition. [S1]
+- **Chaksa Longarms and Wild Bill:**
+  - [S1] dismisses Longarms in many lists as overcosted for the available competition
+  - **29/1.5 portable autocannon**, **24/1.5 ML** and **25/0 Mk12** can nevertheless cover lanes or function as an independent **Duo/Haris** when your Core/Haris choices permit. [S2] thinks **Wild Bill (22–24/0)** needs compatible K2 buddies to benefit from bonuses, which often pushes more self-sufficient guns off the roster.
+  - **Neither is a mandatory trap nor a default efficiency pick**
+  - assess a real lane/mission.
+- **Irregular/Regular and team-slot budgeting:**
+  - 1 Core, 1 Haris, unlimited **legal Duos**, **not two Haris** (the early reaction [S2] mentions the old limit incorrectly). Rumbler optional Spec-Ops cannot be added in standard mode. Preserve the **K2 Kaplan/Karhu and WhiteCo ORC/Jujak raw required=true/min=0** ambiguity rather than inventing an anchor rule
+  - other source minimums apply exactly.
 
 ### TAG, REM and Vehicle audit — only what White Company actually fields
 
