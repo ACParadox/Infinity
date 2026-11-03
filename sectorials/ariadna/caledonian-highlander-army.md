@@ -617,3 +617,138 @@ With multiple **cheap Dogged/Impetuous trading units**, do not overpay for a Doc
 | **Against TAG as conceptual threat** | Caledonian CC influenced a Combined champion's decision **not to field an Avatar list**, but that list was unplayed and is not proof of a killed Avatar. | [#155](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
 
 **Limit:** The clearly observed success is **room-entry delay versus HI**; do not claim a universal TAG or hacker hard counter from this sample. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+## Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated source-backed tactical preferences and collection priorities; opinions do not override N5.3 roster, profile or Fireteam data above.
+
+**Original audit title:** Ariadna — Vanilla, USAriadna, TAK, Kosmoflot, Caledonia, FRRM: Must-have / Go-to / Avoid
+
+*Source-backed list-building audit — 23 October 2026. Covers all six standard Ariadna armies under **N5.3** using the current repository [sectorial references]() (Army `7.26246.158`, data dated 3 September 2026; verified 15 October 2026). Video/podcast views are **named-player tactical opinions and example army lists**, not measured tournament pick rates. The latest `main` roster, AVA, profiles and canonical Fireteam chart control over recordings, especially those predating the October 2025 balance update.*
+
+**Companion guides:** [Vanilla](../../notes/factions/vanilla-ariadna.md) · [USAriadna](../../notes/factions/usariadna.md) · [Kosmoflot](../../notes/factions/kosmoflot.md) · [Caledonia](../../notes/factions/caledonia.md) · [FRRM](../../notes/factions/merovingienne.md). TAK currently relies on its [current sectorial reference](tartary-army-corps.md) and the recordings listed below.
+
+### Classification and evidence standards
+
+- **Must-have / near-must:** repeated first-choice inclusion across independently built example lists, or an explicit reviewer “always / most lists / auto-include” judgment. **Near-must is not universal:** a role can be indispensable without any one profile being mandatory.
+- **Go-to:** repeatedly attractive price/role efficiency. Not all go-to units belong in the same 300-point list; missions, fire lanes, SWC, Orders and competing packages decide.
+- **Never take / strong avoid:** a directly stated negative review of a **specific profile or construction**, ideally with a viable same-roster alternative. Use **conditional** or **contested** if the profile has a niche, there is dissent or the source is pre-rework. There is **no evidenced blanket ban on an entire Ariadna unit family**.
+- **Evidence:** **explicit** = specific presenter says so; **repeat** = multiple independently constructed sample lists; **reasoned** = synthesis of recorded strengths/weaknesses plus current reference, **not** a claimed quotation.
+- A recorded list choice alone does not prove “most players” use a unit. Transcripts may mangle Ariadna proper names, so check names and legality against the current repository. The standard lists here do **not** import `L'Équipe Argent` Reinforcements, which have separate charts.
+
+### Quick comparison
+
+| Army | Closest near-must | Most strongly supported avoidance |
+|---|---|---|
+| Vanilla Ariadna | Dynamo AP Spitfire + Paramedic Duo | No unconditional exclusion established |
+| USAriadna Ranger Force | Foxtrot specialist / Minelayer, cheap Desperado smoke | Wild Bill as routine Fireteam filler; Grunt sniper as *sole* serious ARO |
+| Tartary Army Corps | Dynamo mobility + TankHunter ambush | Pavel as general-purpose value pick (contested); Konduktor as a Strelok replacement |
+| Kosmoflot | Mirage-5, Patcher support | Redundant premium frontal guns; Wallace without Irregular-economy benefit |
+| Caledonia | Uxía/SAS midfield, Cameronians | Premium assault-role duplication; Wallace in a largely Regular build |
+| FRRM / Mérovingienne | Moblot + economical Métros | Infiltrating Bruant, especially costly Bruant + Zouave NCO order package |
+
+### 5. Caledonian Highlander Army
+
+[Current roster / Fireteams](caledonian-highlander-army.md) · [Detailed guide](../../notes/factions/caledonia.md)
+
+**Near-must considerations**
+
+| Piece | Why; limit | Evidence |
+|---|---|---|
+| **Uxía** | 25pt camouflaged midfield attacker/specialist with Smoke/CC and excellent role compression. Hard to replace her blend of scoring and killing. | [Ryanj4043 — N5 Caledonia review (May 2026)](https://www.youtube.com/watch?v=iyKGgFUA1JA) endorses skirmisher mission roles; [TA S3E38](https://open.spotify.com/episode/4WgaVJBlbSm3wHIsBPPsWb) favors Uxía over Isobel in some contexts. |
+| **SAS FO / Minelayer** | Essential *role* of independent forward objective scoring/control with camouflage; SAS is the easiest repeated solution. | Ryanj4043 Caledonia video; existing Caledonia guide. |
+| **Cameronian (often one or two)** | Only 18 points for a high-speed Smoke/CC/trading missile. Very strong with Wallace, but Irregular in a conventional build. | [TA S3E38](https://open.spotify.com/episode/4WgaVJBlbSm3wHIsBPPsWb) explicitly praises Cameronians (~5–10m); [Ryanj4043 review](https://www.youtube.com/watch?v=iyKGgFUA1JA). |
+
+**Go-to**
+
+| Piece | Why; important qualification | Evidence |
+|---|---|---|
+| **Wallace LT, specifically in an Irregular-economy build** | Inspiring Leadership can convert 5pt Galwegians, 18pt Cameronians and Caterans/McMurrough into useful Regular-order infrastructure. This is an *army architecture*, not merely an expensive fighting LT. | TA S3E38 uses Wallace/Cameronian/McMurrough coordinated concepts; Ryanj4043 explicitly says Wallace is **optional**. |
+| **Mormaer HMG** | ARM5 and substantial HMG reach; non-LT has Tactical Awareness, while LT profiles pursue different LT-order economy. | Ryanj4043 review; TA S3E38; Caledonia guide. |
+| **Highlander Grey HMG / T2 BSG** | Economical linked ranged anchor/short-range threat with cheap Volunteer support. | Ryanj4043; Caledonia guide. |
+| **45th Highlander / Galwegian Chain Rifle** | Five-point Smoke/template/CC trading unit; particularly attractive under Wallace, but 15-model slots remain scarce. | TA S3E38; Ryanj4043. |
+| **McMurrough** | Strong independent Smoke/CC assassin, but no longer compulsory when cheaper Cameronians can fill much of the job. | TA S3E38 (~9m) actively compares McMurrough/Cameronians; Ryanj4043. |
+| **Cateran** | Cheap concealed sniper pressure; Wallace converts its normal Irregular Order. | Ryanj4043 and Caledonia guide. |
+| **Wulver AP Spitfire** | Solo or linked midrange gun capable of independent offense. Full Wulver team only when multiple assault bodies serve the plan. | Ryanj4043; Caledonia guide. |
+| **Beasthunter FTO 9pt; Denma 12pt** | Highly efficient defensive/trading utility; Denma provides a native Regular Order. **Beasthunter FTO** is the eligible Fireteam option, not every Beasthunter loadout. | Caledonia guide synthesizes reviewed current options; current chart. |
+
+**Conditional avoids:** **Premium Wulver Core / multiple expensive assault pieces solving the same job** when scoring/recovery are thin; **Wallace with few Irregulars**, where 8pt Volunteer or Mormaer LT may fit better; **risking Wallace for a normal trade** that collapses the economy.
+
+**Historical correction:** old material's **Isobel CoC** advice does not match current N5.3 profiles; she currently has standard/Hacker options, **no Chain of Command**. Ryanj4043's transcript and older discussion may also describe rules/profiles differently; current roster wins.
+
+### Direct media evidence queue
+
+The links below are audit sources; a recording's publication date is essential when evaluating pre/post-update opinions.
+
+| Scope | Primary recordings and direct use |
+|---|---|
+| **Vanilla** | [Tactical Awareness S3E11 — Ariadna SOUP (24 Feb 2025)](https://open.spotify.com/episode/3WYxtimNdXjHDsMOWvEWw6), three independent lists and skepticism about Vanilla; [WIP12 E185 — Ariadna with Logan (13 May 2025)](https://open.spotify.com/episode/1Crhc3Ma9WS4OoxmH6BnFi), Dynamos and practical roles; [Loss of Lieutenant #164 — Shepherd CanCon winner (7 Feb 2026)](https://open.spotify.com/episode/0X4QIoP24cKONtltxClHMH), tournament-tested defensive shell/command choices. |
+| **USAriadna** | [Tactical Awareness S3E08 (30 Jan 2025)](https://open.spotify.com/episode/4wIT3UwMB9LldCtHdfLU6k), early-N5 three-list comparison and Devil Dog dissent; [Shepherd USARF (pre-October 2025)](https://www.youtube.com/watch?v=mqNiL2ziIkU); [Swiss Miss N5 USARF Tier List (post-Oct 2025)](https://www.youtube.com/watch?v=AboAGci9_9A), updated unit tier ratings including Wild Bill/Grunt/Desperado critiques. |
+| **TAK** | [Shepherd TAK Faction Focus (2026)](https://www.youtube.com/watch?v=eM5cM_Y18vk), Dynamos, TankHunters, Veteran Kazaks, Ratnik skepticism; [WIP12 E203 with Copper (15 Apr 2026)](https://open.spotify.com/episode/0fLvDDDa2baw7lxt3J4qo9), current good/bad/ugly plus explicit Pavel debate and Konduktor-versus-Strelok; [TA S3E09 (3 Feb 2025)](https://open.spotify.com/episode/2VCGfZZhXpth6ahryGhPyw), sample lists/Vystrel. |
+| **Kosmoflot** | [Tactical Awareness S3E10 (10 Feb 2025)](https://open.spotify.com/episode/0FZYrBdbYi3bNLX0Xbdl3l) / [YouTube](https://www.youtube.com/watch?v=ceoF3KoyaaM), three independent Mirage-5 inclusions and differing support/Fireteam shells. Early N5 profile claims must be checked against September 2026 Army reference. |
+| **Caledonia** | [Tactical Awareness S3E38 (27 Oct 2025)](https://open.spotify.com/episode/4WgaVJBlbSm3wHIsBPPsWb), Wallace/Cameronian concepts; [Ryanj4043 — N5 CHA Faction Review (2026)](https://www.youtube.com/watch?v=iyKGgFUA1JA), scope/role coverage, explicit Wallace optionality; [Loss of Lieutenant E158 (28 Oct 2025)](https://open.spotify.com/episode/1pQ6J6OGpzyu8QlxiFoo8D). |
+| **FRRM** | [WIP12 E197 with Logan (26 Nov 2025)](https://open.spotify.com/episode/3YNuQVF24bJmCGdxL1FjK5) / [YouTube](https://www.youtube.com/watch?v=GmVfuKSIkXg), direct Moblot/Metro/Anaconda positives and Bruant/Zouave negatives; [Tactical Awareness S3E39](https://open.spotify.com/episode/2Pqi3i2SyoSGyKciy7r2gD) / [YouTube](https://www.youtube.com/watch?v=VROiGibXnEs), counterexamples; [Loss of Lieutenant E157 (18 Oct 2025)](https://open.spotify.com/episode/1lq0RhEWwpegXr1kkKJzUr), competitive alternative interpretations. |
+
+**Audit result:** The source standard supports many **go-to** recommendations, a handful of **near-must** packages, and only a few serious **strong avoids** (especially FRRM). A mission-dependent, disputed, or pre-rework negative comment is **not** evidence for a universal “never take.” This distinction is deliberate and should survive future refreshes.
+
+### Whole-unit purchasing audit — full-unit shopping skips (2026-10-30)
+
+The old avoid section mostly rates **profiles, pairings and list architecture**, not entire units. **No source-backed absolute all-profile ban** exists across these six rosters. Here are only defensible **conditional whole-model deferrals**.
+
+| Army | Entire model/unit buying decision | Why / exception |
+|---|---|---|
+| **Vanilla Ariadna** | **No verified whole-unit avoid** | Chernobog versus several camo/scoring pieces is a costly **architecture**, but its ARM8/AP HMG/Tactical Awareness has a distinct heavy-attack purpose. |
+| **USARF — Wild Bill** | **Defer as generic Grunt-team add-on; conditional** | [Swiss Miss USARF](https://www.youtube.com/watch?v=AboAGci9_9A) says the expensive, short-range and fragile package is hard to justify. Buy only for a **planned close-quarter pistol delivery**; don't extrapolate this to Wild Bill in another sectorial. |
+| **TAK** | **No verified whole-unit avoid** | Strong objections concern excess premium shooters or specific team arrangements, not a model whose every profile fails its job. |
+| **Kosmoflot** | **No verified whole-unit avoid** | Wallace with too few Irregulars and a second expensive gun team are poor **build choices**, not universal model bans. |
+| **Caledonia** | **No verified whole-unit avoid** | Premium Wulver Core overload and Wallace without an Irregular economy are situational packages. |
+| **FRRM — Brigadier Jacques Bruant** | **Defer if buying solely for the default midfield gun/LT-order combo** | [WIP12 E197](https://open.spotify.com/episode/3YNuQVF24bJmCGdxL1FjK5) is strongly negative on expensive single-Wound infiltrating Bruant and his paired **Zouave NCO** engine. A specific surprise line or command plan can still pay off; not a proved all-profile ban. |
+| **FRRM — generic Zouave** | **Do not mark whole unit avoid** | Expensive FTO FO/Paramedic/Panzerfaust are criticized but **Sapper** and unusual mission cases are positively defended by a presenter in the same source. |
+
+**Shopping principle:** do not translate “avoid a Bruant + Zouave NCO *package*” into “neither miniature is ever worth owning.” [Cross-faction buying shortlist](../../notes/factions/model-purchase-avoid-summary-2026.md).
+
+### Worst, uncommon and proxy-first purchases by sectorial (2026-10-30)
+
+**Scope and confidence.** This answers a different question from the unit-role tables above: **“Which whole miniature can I skip buying, which uncommon specialist should I proxy until I actually use it, and which *bad profile* should I avoid without rejecting its whole unit?”** An **AVA limit is not a shopping target**. Video/podcast reviews are **opinion and illustrative lists, not tournament selection-frequency data**; “uncommon” means **not a normal first purchase in these reviewed builds**, not measured rare usage. The latest [N5.3 roster]() and its **Fireteam, silhouette, peripherals and availability** rules override old recordings.
+
+**Buying labels:**
+- **Skip by default; proxy if needed:** the **normal whole-model job** has explicit negative commentary or an unusually weak price/role comparison. The exception is recorded; **no Ariadna model is proven mathematically useless in every scenario**.
+- **Proxy first:** a full unit with a credible specialty, but you should establish *a specific list and mission use* before buying its sculpt; this is an **inferred shopping recommendation**, not a presenter's alleged quotation.
+- **Avoid profile only:** the unit has legitimate alternate profiles. **Never extrapolate to all its miniatures.**
+- **One enough / proxy the extra:** owning/fielding multiple is an elective skew rather than a default; distinguish genuine duplicate bodies from alternate loadout sculpts. **Contested** flags genuine source disagreement or tournament examples.
+
+#### 5. Caledonian Highlander Army (CHA)
+
+| Weak, niche or redundant purchase | Why the buying case is weak or conditional | Miniature decision |
+|---|---|---|
+| **Wallace in a mostly Regular army** | **Direct/contested:** [Ryanj4043 Caledonia](https://www.youtube.com/watch?v=iyKGgFUA1JA) says he is *optional*; best when converting substantial **Galwegian, Cameronian, McMurrough and Cateran** irregular economy. His death also imperils that plan. | **Proxy/test first** if not already committed to a warband-heavy army. A Wallace-centric army is valid; not an all-profile avoid. |
+| **McMurrough as a compulsory second expensive warband** | **Direct comparative role:** current **18pt Cameronians** already supply fast Smoke/CC/disruption; McMurrough's individual damage/tools have a use if that extra capability matters. | **Proxy before buying** if you already own enough Cameronians or equivalent Dog-Warriors. **Not bad**, just rarely a mandatory *additional* purchase. |
+| **Full Wulver Core / duplicate Wulvers and other assault HI** | **Recorded architecture warning:** premium attack link with overlapping close guns competes with **Grey + cheap Volunteers, Uxía/SAS** scoring and Cateran/Traktor support. One Wulver Spitfire can still be excellent. | **Proxy extras; one useful Wulver first** if this is your chosen attack platform. Don't buy AVA5 Wulvers just to have a full team. |
+| **Isobel McGregor bought as Chain of Command** | **Rules correction:** **Isobel has no CoC in current N5.3**, despite older advice; her standard/Hacker and Wildcard/support ability are real. | **Skip purchase motivated by nonexistent CoC**. **Proxy a model for the actual Hacker/utility role** and buy only if it recurs. |
+| **Armand Le Muet / second Cateran sniper in an already ARO-heavy list** | **Inference:** camouflaged long-range snipers are legitimate but may duplicate **Cateran + Highlander Grey/Mormaer**; Armand's skills differ from a cheap Cateran. A mission with strong long firing lanes may reward the premium model. | **Proxy the extra sniper** rather than purchase to complete all sniper choices. **Do not blacklist a first Cateran.** |
+| **Wardriver / expensive Isobel hacking pocket with no network or anti-heavy plan** | **Conditional from [Caledonia guide](../../notes/factions/caledonia.md):** useful surprise anti-tech/mission option, but many opponents will have better Repeaters/hackers; hacker points/SWC compete with nonhackable mission actions. | **Proxy first**, not a forced inclusion. In particular, **Wardriver and Isobel do not both become mandatory** just because CHA has limited hacking. |
+| **Traktor Guided bought as a primary damage source; 112 motorized / extra generic support** | **Conditional:** Traktor **Baggage** provides cheap Order/reload, while Guided needs effective FO/Targeted routes; a mobile Doctor may be worthwhile when the army's best models are racing forward. | **Avoid only the default Guided strategy**. Proxy a specialty support variant if necessary; do not skip useful Traktor Baggage/112 roles. |
+| **Cadin, Denma, extra Galwegians or extra Cameronians only to max AVA** | **Inference:** combat-capable characters and cheap warbands are attractive, but 15-trooper slots and early deaths can leave too little objective work. **Denma is Regular**; Galwegians/Cameronians are not automatically Regular without Wallace's actual rule. | **Proxy the extra character/warband body** and buy after the third or fourth proves useful. Prioritize the **Uxía/SAS** mission shell over a collection of redundant CC fighters. |
+
+**Sources:** [TA Caledonia](https://open.spotify.com/episode/4WgaVJBlbSm3wHIsBPPsWb), [Ryanj4043](https://www.youtube.com/watch?v=iyKGgFUA1JA), [Caledonia guide](../../notes/factions/caledonia.md), [current roster](caledonian-highlander-army.md). **Do not classify Uxía, SAS, a cheap Cameronian, Galwegian, or one effective Grey/Mormaer gun as whole-unit skips.**
+
+#### Cross-Ariadna miniature substitutions — buying versus proxying (including owned TAK figures)
+
+There are two very different reasons to proxy: **(A) weak or infrequent overall use** (Wild Bill, infiltrating Bruant, certain Pavel/Ratnik roles), and **(B) a good model whose existing equivalent, alternate sculpt or *second copy* would be an unnecessary purchase** (TankHunter guns, character FO, Dog-Warrior variants). The following recommendations are **inferred from the roster and reported ownership**; none pretends to be a speaker's exact words.
+
+| Proposed dedicated purchase | Proxy-first recommendation | Purchase threshold and cautions |
+|---|---|---|
+| **Another TAK TankHunter/Scout/Strelok, Kazak Spetsnaz or extra premium Frontovik/Veteran** | Reuse an **unused camo soldier** or **spare Line Kazak/Frontovik/HI** of the correct **silhouette/base**, e.g., your existing **Ariadna Spec-Ops** proxy. Keep the role visually identifiable. | Buy additional sculpt **only** when you use two differently named troopers *simultaneously* and have enough properly distinguishable models. You already reported **3 TankHunters, 2 Scouts, 1 Strelok, 2 Spetsnaz**. |
+| **Pavel, Vassily, Sāchā, character/FO/Doctor variants** | **Owned Pavel and Vassily**; use a distinct specialist/camo model for an occasional named variant where appropriate. Your **existing HVT for Sāchā** is already a reported proxy; a **Dozer/Kazak Doktor** can test **foot 112** if its size and visual role can be made unambiguous. | Named characters are generally AVA1 and do not need separate miniatures for every loadout. **A Kazak Doctor and a Dozer are not functionally interchangeable in rules**, only candidates as declared physical proxies when not simultaneously fielded. |
+| **Another Konduktor, Vystrel, Traktor/Kuryer or alternative artillery gun** | **Two owned Konduktors, two Vystrels and a two-model shared Traktor/Kuryer pool** already cover common tests. Represent **Kuryer vs Traktor** with appropriate matched REM chassis and declared profiles. | Buy a new chassis only if simultaneous bodies exceed the *physical pool* or actual silhouette/base differs; don't count two shared models as four. |
+| **Second Ratnik or duplicate large armored centerpieces** | **Own one Ratnik**; test a second only with a matching **HI size/base**, never a standard S2 soldier if the silhouette differs. Use proxy TAG for Chernobog/Anaconda as appropriate. | Buy an extra expensive armored sculpt after actual repeated double-armour lists, not solely because of AVA. |
+| **Dog-Warriors, Cameronians, Devil Dogs, McMurrough, Polaris, Ioann Bann, Carmen, Kibervolk** | Your **existing 2 Dog-Warriors and separate dog/Devil Dog models** can supply *one at a time* distinct large-beast proxy roles **when the actual silhouette/base matches**. For **Kibervolk**, test its complete **Kibervolk + Dozer KVP** package using appropriate spare dog and Dozer models. | **Not automatically all S5/S6 equal.** Transformed forms, peripheral counts, Masha/Bearpode/ Bâtard, and current legal unit silhouettes must all be satisfied. Do not re-use one physical dog as two simultaneous game pieces. |
+| **Unknown Ranger, Foxtrot, Chasseur, SAS, Zenit-7, Mirage specialists** | Test generic compatible **TAK camo/FO** models for other sectorials and another distinctive S2 soldier for the Unknown Ranger (where allowed). Prior Ariadna expansion planning also identified **Chasseur → TAK camo** and **Kibervolk → dog + Dozer**. | Buy unique sculpts when they repeatedly feature in an army **with no proxy collision**. **Mirage-5 always needs separate Margot and Duroc representations**, even if one suitable soldier/dog is already owned. |
+| **Alternative motorized 112, Dynamo, Maverick or Desperado sculpt** | Reuse a distinct **motorcycle model** from the existing two Dynamos / one 112 motorcycle where the new army legally fields it, with correct **bike/S4 base and clear declaration**. | Do not interpret the motorcycle as a standard S2 trooper or automatically treat **motorcycles as Vehicle (VH) units**. Buy more only for simultaneous bike squads or unsuitable physical geometry. |
+| **Multiple Wardrivers or extra Traktor artillery purely for anti-tech/Guided** | The **one reported TAK Wardriver** and **two shared artillery chassis** can be reused in legal Ariadna rosters as clearly declared support or loadout variants. | Buy only if two simultaneous different hacker/REM models are required. A Hacking Device in one sectorial does not grant other sectorials free **Guided** access or Fireteam permission. |
+
+**Tournament proxy policy:** Always match **current model footprint/base and Silhouette**, reveal every declared proxy to your opponent, and check the **current-season ITS and organizer rules** before bringing conversions or another faction's miniature. It is not safe to treat older season-specific event proxy wording as current 2026 policy. **A list's compound units must have all required pieces**; proxies do not create extra model counts, and an unavailable unit or illegal Fireteam remains illegal even if a physical model fits.
+
+**Buy-order conclusion:** If already collecting TAK/Caledonia, the highest payoff normally comes from **new capabilities and missing mission roles**, not duplicating an existing TankHunter, Vystrel, dog warrior, artillery chassis or front-line HMG merely to reach AVA. **Most defensible default purchasing skips:** **USARF Wild Bill**; **FRRM infiltrating Bruant** (especially Bruant + Zouave NCO); and **TAK Pavel as an unplanned generic skirmisher**, although your Pavel is already owned. **Ratnik is contested**: you own one, so there is no reason to buy a second without a tested Mobility build. **Other good proxy-first niche models:** **Kosmoflot Wallace when Irregular conversion is unnecessary, second Chernobog or Polaris**; **Caledonia McMurrough if existing Cameronians suffice**; **FRRM Anaconda, Wolfgang or Knauf** until their particular legal list recurs. These are **not** blanket unit bans.
