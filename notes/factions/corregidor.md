@@ -4,6 +4,36 @@
 
 **Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](references/corregidor_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
 
+## Overview
+
+**What Corregidor does exceptionally well:** it starts the game with **very efficient midfield Repeater + Koala control**, exploits that network with versatile hackers, then attacks through strong direct fire, legal Fireteams and division-specific airborne specialists. The post-Mazebreaker **Surface/Deepspace split** is a defining list-building choice.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
+
+| Whole-game role shortlist | Corregidor unit/profile | Why it stands out; caveat |
+|---|---|---|
+| **Top 3 candidate — Turn-0 midfield network / area-denial value** | **Moran BSG Repeater + CrazyKoala, 15/0.5** | Infiltrating Regular FO with physical deterrence and immediate hacking reach; **AVA2** is a major CJC advantage over Vanilla **AVA1**. The one-use-Camo Moran is a different profile, not a combined Repeater+Camo option. |
+| **Top 5 candidate — offensive/defensive hacker package (apex/value)** | **Jazz + Billie HD+, 25/0.5**; **Jazz FTO, 22/0.5** | HD+/Trinity/Pitcher and strong hacking coverage; Billie gives the paired choice a second Regular Order and Repeater body, while FTO enables a *different* legal linked option. Never treat both profiles as one loadout. |
+| **Top 5 candidate — low-cost FT Master Order conversion (value)** | **Lobo 20/0 + two Diablo 8/0 = 36/0**, legal Correctional Haris | Three pooled Regular Orders when FT Master converts the two linked Irregular troops, with Eclipse-style Disco and serious close trades. Outside the legal team, the Diablos remain Irregular/Impetuous. |
+| **Top 10 candidate — MSV2 long-range anti-Mimetism gun** | **Intruder HMG or MULTI Sniper, approximately 38/1.5** | Camo/Mimetism, MSV2 and optional **Jaguar Smoke** create asymmetric ranged exchanges. Fragile one-wound shooter; White Noise and bad angles can defeat the plan. |
+| **Top 10 candidate — off-table Engineer/recovery reach** | **Tomcat Engineer 22/0**, or **Carlota Engineer 28/0** (Deepspace) | High-end recovery at unexpected table edges, with specialist or attack utility after arrival. The risk is unused reserve/arrival Orders; Carlota and the optional Moriarty package have separate costs. |
+
+### Particularly strong or unusual Fireteams
+
+- **Correctional Lobo + two Diablos:** inexpensive **FT Master** Haris turning two dangerous cheap Irregular melee troops into usable pooled Orders while correctly linked.
+- **Deepspace Gecko + Evader Engineer + Stempler Tactical Awareness:** a legal **Gecko Haris** with heavy midrange fire, a repairing specialist, Sensor/FO/Repeater and potentially **two Tactical Awareness activations**. Select the relevant Stempler and Evader profiles; a generic FTO label does not confer those skills.
+- **Surface Territorial + Stempler + Shifta:** Tactical Awareness/FO plus **Strategic Deployment** can create an unusually fast mission-oriented team if its actual chart and selected profiles permit.
+- **Division-specific Armored Duos:** **Surface Iguana + eligible Wildcat/BambaDroid**, versus **Deepspace Gator + eligible Gecko/Wildcat**. The latter does not make both divisions' other units selectable.
+
+### Unusual access, gaps and trade-offs
+
+- **Surface versus Deepspace:** **Surface** has Coyotes/BambaDroids, Shifta, Territorials and Bearcats; **Deepspace** has Gator/Evader packages, Hellcats, Tomcats and Carlota. A list must select one division; do not combine its exclusive troops.
+- **Vision and command:** **Jaguar Smoke + Intruder MSV2** is a strong shooting line; **Lobo/Shifta Disco Baller** supplies Eclipse-style bypass; **Jazz HD+ White Noise** answers enemy visors. **Lupe CoC** and **Surface Shifta CoC** support active Lieutenant plans. These are different legal loadouts and routes.
+- **TAGs without ordinary VH:** **Gecko, Gator and Iguana** give varied armored options under applicable division/Fireteam rules, but **Go-Pod is not a standard Corregidor VH**, nor is **Szalamandra** a normal CJC TAG.
+- **Opportunity cost:** two Morans and a Jazz/Vertigo Guided plan already use significant SWC; the [Surface/Deepspace/Correctional charts](../../sectorials/nomads/corregidor.md#canonical-fireteam-chart) and current Army profiles outrank old transcript examples.
+
 ## Airborne DZ assault workshop — Infinity the Dante, 28 October 2026 transcript audit
 
 **Airborne case-study source:** [Infinity the Dante — *Deployment Zone Assault: Drop Troop Tactics (Infinity N5)*](https://www.youtube.com/watch?v=fzvUQPWBQKM) (~30m, complete timestamped transcript read).
