@@ -24,6 +24,7 @@
 | **Top 10 candidate — efficient E/M perimeter defense** | **Shifta E/Marat + E/M Mine Minelayer 17/0** (Surface) | **A+** electronic trap with Strategic Deployment for an eligible team; the CoC/Disco profile is a different choice. [Anti-heavy tiers](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md). |
 | **Top 10 candidate — forward dual-body specialist fork** | **Coyote FO BSG + attached BambaBot 27/0** (Surface) | **A+** MSV1/FO/FD(+10) combined with an included Peripheral. **BambaDroid FO is separately purchased**, not a second free FO. [Peripheral tiers](../list-building/peripheral-synchronized-multibody-apex-value.md). |
 | **Top 10 candidate — forward mission/zone control** | **Sombra Forward Observer 29/0** (Deepspace) | **A+** forward Camo/NWI/Climbing specialist in objective-holding comparisons; more expensive than Moran and not the same network role. [Objective tiers](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md). |
+| **Top 10 candidate — efficient WIP15 TAG/REM recovery (value)** | **Clockmaker Engineer 18/0** | **A+ apex / S engineer value**, especially with paid Zondbot reach and the faction's TAG/REM options. Fragile if exposed; recovery must be planned. [Engineer tiers](../list-building/doctors-engineers-and-recovery-apex-value.md). |
 
 ### Particularly strong or unusual Fireteams
 
