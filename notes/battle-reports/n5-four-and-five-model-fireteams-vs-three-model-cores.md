@@ -2,7 +2,7 @@
 
 ## Scope and confidence
 
-This synthesis reviews the numbered tactical dossiers **#001–#241** in this directory, including opponents and different submitted lists where named. It studies **physical models linked**, not the word Core in isolation. A Core can have only three physical members. The numbered catalog contains duplicate videos (for example #010/#033, #011/#030, #009/#028, #006/#031) and repeated tournament interviews (#175/#176); **rows are evidence records, not independent games or independent wins**.
+This synthesis reviews the numbered tactical dossiers **#001–#241** in this directory, including opponents and different submitted lists where named. It studies **physical models linked**, not the word Core in isolation. A Core can have only three physical members. Three-person **Haris** examples are included only when they illuminate the spatial or scoring trade-off; Haris and Core use different formation slots and can have different chart permissions. This is **not** a controlled three-member-Core versus five-member-Core dataset. The numbered catalog contains duplicate videos (for example #010/#033, #011/#030, #009/#028, #006/#031) and repeated tournament interviews (#175/#176); **rows are evidence records, not independent games or independent wins**.
 
 - **E — explicit:** count and member roles actually named in the dossier or deployment; still historical, not a certified N5.3 Army export.
 - **C — qualified:** count identified or supported but one or more names, formation types or specific rounds uncertain. Never fill missing slots from Army legality alone.
