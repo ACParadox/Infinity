@@ -27,6 +27,7 @@
 | **Top 10 candidate — severe but expensive reactive sniper** | **Triggerman Neuro MULTI Sniper 47/1.5** | **A+ ARO apex** from W2, 360° Visor, Mimetism(-3), +1SD and Neurocinetics; **poor-to-disputed efficiency** at 47 points. [ARO tiers](../list-building/aro-units-apex-and-value.md). |
 | **Top 10 candidate — synchronized Engineer/bot attack** | **Fiddler + JackBot(s) 36/0 or 43/0** | **A+ peripheral pressure:** Engineer and expendable Vulkan bots. **29pt FTO** is a separate linked-only profile with **no JackBots**. [Peripheral tiers](../list-building/peripheral-synchronized-multibody-apex-value.md). |
 | **Top 10 candidate — low-cost dual-purpose Hacker** | **Rounder HD + Trinity 21/0.5** | **S value / A apex** as a hacker plus useful MSV1/Marksmanship; **not HD+**, and actual Fireteam permissions still matter. [Hacker tiers](../list-building/hackers-and-killer-hackers.md). |
+| **Top 10 candidate — efficient WIP15 TAG/REM recovery (value)** | **Clockmaker Engineer 18/0** | **A+ apex / S engineer value**, with Zondbots providing repair angles for Hollow Men/REM/TAG plans; **Clockmaker does not join Hollow Men Fireteams**. [Engineer tiers](../list-building/doctors-engineers-and-recovery-apex-value.md). |
 
 ### Particularly strong or unusual Fireteams
 
