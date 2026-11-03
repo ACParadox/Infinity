@@ -118,6 +118,19 @@ The TAG's own GizmoKit is not a substitute for a well-positioned Engineer.
 | **Clipper 16/1.5 Guided ML; 19/1.5 FTO-labelled ML(+1B)** | Guided attack becomes a real tool only if hackers/FO/repeaters can successfully Target and feed Orders; credible area denial otherwise. | **No SAA link row for Clipper FTO**; do not assume the second option can join a team. Spending SWC on unused Guided is a trap. |
 | **Charybdis FTO / Palbot** | Charybdis in the **Scylla 37-point package** supplies a second Regular Order, mobile Repeater and HFT. Palbots are cheap medical/engineering **Servants**, not order-pool troopers. | The Scylla pair has an explicit package dependency; peripheral Servants do not independently create Orders. |
 
+## Battle-report-derived army lists and Fireteam ideas (2026-11-03)
+
+These are **modules for a new list**, not complete 300-point Army exports. The underlying games used older N5/ITS packets; **the [current SAA Fireteam chart](../../sectorials/panoceania/shock-army-of-acontecimento.md#canonical-fireteam-chart) controls present-day eligibility**, especially foot Montesa FTO versus non-FTO.
+
+### Three distinct constructions to test
+
+- **Regular defensive Core (3–4):** the [#149 Last Launch list](../battle-reports/141-150-n5-battle-report-tactical-analysis.md) brought **two Regular Sapper MULTI Snipers**, a **Regular Paramedic** and **Agnes Chain of Command**. This is a **four-body Core candidate**, *not* a confirmed four-model starting link: the narrator proposed Agnes as fourth. It fits a mission where cheap DZ ARO, a real specialist and command insurance are more valuable than a fifth gun. The same game exposed the cost of repeatedly shooting a regenerating enemy when hacking was available.
+- **Bagh-Mari mobile gun-and-repair Haris:** #149 included **Bagh-Mari HMG + Stephen Rao + SAA Machinist/Emitter Turret**. The host discussed a Duo or Haris but did **not** certify the deployed composition. As a **current-chart Haris option**, use a Bagh-Mari anchor in the *Acontecimento* family, Rao as its permitted Wildcard and Machinist as the chart's Bagh-Mari-counting member; keep the Regular Core separate. #116 additionally explicitly described a **Bagh-Mari Lieutenant + Machinist Duo**, providing a smaller version.
+- **Foot Montesa medical attack:** the [#116 Outbreak report](../battle-reports/111-120-n5-battle-report-tactical-analysis.md) used **two foot Knights of Montesa** as a mobile medical/scoring Duo and backed them with **Guarda de Assalto + Eclipse Auxbot**, **Dart**, **Akali Boarding Shotgun**, cheap **Fugazi** and **Agnes**. This is especially relevant to Doctor/Paramedic-scoring scenarios; the Auxbot is a **Peripheral**, not a third Duo member.
+- **Five-body Montesa combined-arms *proposal*, not a played Core:** #116 discusses **ORC TinBot + 2 foot Montesa + Pathfinder + Scylla** (five). To build that composition under the pinned N5.3 chart, the Montesas **must use the specified FTO option**, Scylla **the FTO Wildcard profile**, and an ORC must anchor the *Acontecimento* family. The report does **not** prove that all five were activated together; the ordinary **two-foot-Montesa Duo** is a different formation.
+
+**List-selection lesson:** pick **one defensive Regular Core and one Bagh-Mari/Montesa attack Haris or Duo**, then allocate points to the *independent* Akali/Dart/Guarda and medical/recovery infrastructure that the mission actually needs. Do not mistake two separate suggested configurations in #116 or #149 for simultaneous played Fireteams.
+
 ## Opposing advice worth preserving
 
 1. **Sapper MSR:** **Shepherd (N4) / Dante / MetaChemistry** value near-terrain-independent, cheap Mimetism ARO; **Dice Gods Jan-2026** prefers putting the point/SWC elsewhere. Resolve from the table's DZ, mission and your other AROs.
