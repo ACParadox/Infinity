@@ -15,7 +15,11 @@
 | **Top 5 candidate — ~22pt HD+ Pitcher (value)** | **Danavas HD+ 22/0.5** | WIP15, White Noise, Pitcher and Oblivion(+1B) rate **S Hacker value**; W1 and network-dependent. |
 | **Top 10 candidate — linked succession/anti-Hacker (value)** | **Hǎidào CoC 24/0; KHD+Pitcher 22/0** | **A+ CoC value / S KHD value**, NWI and Wildcard AVA3; these are **separate** profiles, not combined with the MSV2 sniper. |
 | **Top 10 candidate — linked anti-armour gun (apex/value)** | **Karhu Feuerbach 34/1.5** | MSV1, Mimetism(-3), NCO and good anti-armour reach; **A-tier ARO**, not an automatic global Top 3 shooter. |
-| **Additional distinctive efficiency** | **Peacemaker + Auxbot 23/0** | Forward Repeater/controller + template bot geometry at modest cost; not a full specialist/recovery plan by itself. |
+| **Top 5 candidate — forward synchronized two-body control (value)** | **Peacemaker + Auxbot 23/0; Minelayer 24/0.5** | **S+ multi-body role** in [cross-faction tier](../list-building/peripheral-synchronized-multibody-apex-value.md): FD(+20), native Repeater, Auxbot HFT and two defensive angles. The **24pt variant** adds a preplaced mine; STR1/Hackable. |
+| **Top 10 candidate — fast Mimetism(-6) attack REM (value)** | **Bulleteer HSG(+1B) 19/0 or Spitfire 22/1** | **A+/S cost/modifier efficiency** in [cross-faction tier](../list-building/bs-mod-stacking-units-apex-and-value.md); fast but Hackable/STR1 and **not a WhiteCo Fireteam member**. |
+| **Top 10 candidate — concealed forward anti-TAG trade (value)** | **Beasthunter Camo + FD(+20) HFT/Panzerfaust 15/0** | **A+/S** in [cross-faction tier](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md): reusable Camo, HFT, Panzerfaust and mine options. **9pt K2 FTO is separate and does not inherit Camo.** |
+| **Top 10 candidate — airborne Engineer with personal Order (apex/value)** | **Blade-Ops Parachutist/Decoy Engineer 30/0** | **A+** [cross-faction tier](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) recovery/disruption: Tactical Awareness and E/Mitter. **Parachutist profile 4 cannot link**; 23pt Engineer FTO is a separate choice. |
+| **Strong Smoke/CC value — not a Regular Order** | **Varangian SMG + Chain Rifle + Smoke 12/0** | **S/A warband value** in [cross-faction tier](../list-building/warbands-and-cheap-trading-units-apex-value.md), with legal Shona Duo. **White Company version is Irregular**, unlike O-12/Kosmoflot Regular variants. |
 
 ### Particularly strong or unusual Fireteams
 

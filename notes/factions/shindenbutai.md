@@ -36,7 +36,6 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 | **Top 5 candidate — cheap Combat Jump scoring/assault (value)** | **Teishin BSG 19/0, FO 19/0 or KHD 21/0** | **S airborne tier:** Combat Jump, Parachutist, Super-Jump and alternative specialist/cyber roles at ~20 points; BS11/one Wound limits sustained fighting. [Airborne tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md). |
 | **Top 10 candidate — hidden layered reactive threat (apex)** | **Raiden HRL 25/1.5** or **Hidden ML 33/2** | **A+ ARO apex**, Hidden Deployment, Mimetism(-3) and a Minelayer layer; Missile variant costs 2 SWC, and neither is a full-Burst standing ARO. [ARO tiers](../list-building/aro-units-apex-and-value.md). |
 | **Top 10 candidate — Strategic Deployment linked force multiplier (apex)** | **Shizoku HRL Strategic 38/1.5** | **A+** [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md): legal Sayō team receives **FD(+4″)** plus a BS13/ARM5/2W gun. **33/1.5 FTO HRL** is a separate Bushi-tai profile, not eligible for Sayō. |
-| **Top 10 candidate — legal Fireteam starting-position multiplier (apex/value)** | **Shizoku Strategic Deployment HRL(+1B) 38/1.5** | **A+ force-multiplier tier:** pushes a legal **Sayō** team **+4 inches** while carrying a resilient BS13, ARM5, Mimetism(-3), 2W ranged attacker. **The 33pt FTO HRL belongs to Bushi-tai, not Sayō**. The extra deployment can be a liability when forward terrain is exposed. |
 
 **Other genuinely dangerous profiles, without a forced global rank:**
 

@@ -16,6 +16,10 @@
 | **Top 5 candidate — ~20pt Smoke/perimeter/CC hybrid (value)** | **Motorized Yojimbo 20/0** | Smoke, CrazyKoala Minelayer, NWI, CC24/MA4/DA and mobility: **A+ cross-faction** value. Irregular/Impetuous, mutually exclusive with foot form. |
 | **Top 5 candidate — 6pt AD Smoke trade (value)** | **Yuan Yuan 6/0** | Extremely inexpensive flank/smoke/Chain Rifle threat; Irregular, not a reliable scoring specialist. |
 | **Strong value link attacker; not a global Top 10 claim** | **Wú Míng AP HMG 33/1.5** | Affordable AP pressure relative to the 50pt Daiyōkai HMG; dependent on proper Fireteam and range. |
+| **Top 10 candidate — cheap airborne deception (value)** | **Bashi Bazouk SMG Specialist 12/0; T2 BSG 14/0** | **S airborne utility** in [cross-faction tier](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): cheap Holoprojector/Parachutist disruption and late objectives. Irregular; two profiles solve different jobs. |
+| **Top 10 candidate — 0-SWC linked E/M indirect tool (value)** | **Wú Míng MULTI Rifle + GL + E/M GL 27/0** | **A+ indirect role compression** in [cross-faction tier](../list-building/indirect-fire-speculative-guided-apex-value.md): zero SWC and a legal Ikari Wú Míng link. Same loadout as compared elsewhere, **not** a transfer of ISS Fireteam rules. |
+| **Top 10 candidate — 19pt HI Disco/E-M link tool (value)** | **Tankō Blitzen + Disco Baller + Deactivator 19/0** | **S/S+** in the [cross-faction tier](../list-building/vision-control-units-apex-and-value.md) **Ōban** context; Ikari has the same profile but **different legal Tankō/Keisotsu links**. Good close-team Eclipse and anti-HI threat, limited charges. |
+| **A+ defensive anchor — not a universal Top 10 ARO** | **Al Fasid HRL +1SD 44/1.5** | Cross-faction [cross-faction tier](../list-building/aro-units-apex-and-value.md): ARM5, two Wounds, Minelayer, Sixth Sense. Expensive SWC/points, and linked guns can have better overall efficiency. |
 
 ### Particularly strong or unusual Fireteams
 
