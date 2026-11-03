@@ -6,7 +6,15 @@
 
 ## Executive recommendation
 
-**Playstyle:** Premium **hacking and Repeater projection** (Interventor, Mary, Heckler, Tsyklon/Hollow Men Pitchers), paired with **fast vertical gunfighting** (Hollow Men/Perseus, Vostok, Kriza), cheap **Puppet/REM/warband screens**, and a surprisingly versatile **mercenary Duo/Haris ecosystem**. **Not every good Tunguska list is Guided or TAG-centered**.
+**Tunguska's main complementary modules:**
+
+- **Interventor, Mary Problems and Heckler:** premium hacking and Repeater projection.
+- **Tsyklon and Hollow Men Pitchers:** mobile network delivery from different positions.
+- **Hollow Men/Perseus, Vostok and Kriza:** fast or vertical direct gunfighting.
+- **Puppetactica, REMs and warbands:** cheap screening and distributed order control.
+- **Mercenary Duo/Haris options:** alternate mission and assault architectures.
+
+Not every good Tunguska list revolves around Guided missiles or a TAG.
 
 **Three effective architectures, choose by mission and terrain:**
 
@@ -15,6 +23,14 @@
 3. **TAG/hacking denial:** **Szalamandra HRMC** (main long gun) or **Anaconda VATRA Duo** (mission/shorter attack), **Interventor/remote/Heckler KHD screen**, cheap **Puppet FO** and **Meteor/ Spektr/ Heckler** specialist as backup. *Why:* TAG gives decisive ranged answers while hackers deny reprisal; 11pt Master plus 9pt Puppets protect softer Lieutenant/hacker DZ. **Cost:** Szalamandra 2 SWC **without Tactical Awareness**; TAG + Vertigo + Kriza may exceed SWC; suppressing an enemy TAG requires dealing with enemy hacker defenses first.
 
 **Structural weaknesses to plan around:** expensive average Regular Order (13-point Securitate vs 7-point Transductor, 8–12-point mercenaries), limited free midfield presence compared with Corregidor Moran, highly hackable HI/TAG/REM investments, soft Lieutenant/hacker backline, sparse efficient MSV2, and non-elite CC on most of your main guns. **White Noise and smoke** can mitigate sightline mismatch, but do not substitute for actual mission Specialists.
+
+**Vision control by job:**
+
+- **Interventor HD+ 18–23/.5 + actual Repeaters/Pitchers/FastPanda:** White Noise against visors/Marksmanship; network reach matters.
+- **Kulak KHD + Disco Baller 20/0:** projected Eclipse crossing, but **KHD has no White Noise**.
+- **Perseus, Zondnautica and Denma:** normal Smoke or alternative approach and trading tools.
+
+Disco can screen ordinary guns while White Noise selectively denies visors; do not pay for both without an attacker or scorer who uses them. [Whole-game vision-control comparison](../list-building/vision-control-units-apex-and-value.md).
 
 ## Legality — Fireteams that really exist in N5.3
 
@@ -51,6 +67,14 @@
 | **Denma/Zellenkrieger, bounty hunters, Miranda** | **12pt Regular Denma** with smoke and high CC supports gunfighters and scores space; **8pt Irregular Zellenkrieger** cheap smoke screen/close guard. **12pt Authorized Bounty Hunter** keeps Order pool affordable and starts **Bounty Hunters** Duo; **28pt Miranda** Mimetism(-6)/+1B E/Mitter is anti-TAG attack through FT special die, and also a specialist. | Miranda at ~28pt can overlap cheaper attacks, but MetaChemistry likes her E/Mitter ability; WIP12 2024 calls her underplayed/overpriced. **Bounty-hunter context restriction** must be checked. |
 | **Fiddler** | **29pt FTO Engineer** provides repair + Super-Jump in eligible **Spetskorp/Nayemnik** Fireteams; **36/43pt standalone JackBot options** bring an independent attack/repair unit. | **No JackBots on the FTO version.** It does **not** repair Hollow Men from inside their own Fireteam; use separate Clockmaker if needed. |
 
+**Compact toolbox profiles:**
+
+- **Mary Problems 27/.5:** HD+KHD, Pitcher, Forward Deployment, Mimetism(-6) and Climbing Plus for hybrid attacks on hackers and HI.
+- **Kulak KHD + Carbonite/Disco 20/0:** cheaper legal Securitate/VATRA utility; **no White Noise**.
+- **Elena Kovac:** contested Sensor/Triangulated Fire/Tactical Awareness/Specialist package, as the equipment and FT position can be awkward together.
+
+[Whole-game toolbox verdict and opposing transcripts](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
 ## TAGs: Szalamandra versus Anaconda
 
 **Szalamandra** — **68pts / 2SWC, AVA2, 3W ARM8 BTS9, BS14, HRMC, HFT, NCO, ECM:Guided(-6), RobbyBot**; **no Tactical Awareness** on this pinned profile. **Why take it:** the HRMC is one of Tunguska's best serious long-range weapons; high burst/AP and strong range bands let it dismantle hard AROs and hide behind thick armor. Linked to an Interventor HD+ and a cheap NCO/Lt engine (if relevant), it can exploit Lt Orders **as NCO** without stealing the whole pool. The attendant RobbyBot can score as an Ancillary Specialist under rules. **Why not:** **2SWC** plus a pure premium gun chassis, vulnerable to close combat and opposing hackers; Robert often chooses Kriza, Hollow Men, and more Specialists instead of TAG. WIP12 N4 compared it favorably with Gator because **HRMC** outranges HMG and does not pay for much extra kit. **It is not a Tunguska Fireteam member.**
@@ -59,17 +83,32 @@
 
 **A TAG does not automatically receive two Order engines:** Szalamandra has **NCO, not TacAware**; Anaconda has **TacAware**, not NCO. Anaconda is linkable only by VATRA chart, not with Securitate or Hollow Men. **TAG-Treiber** is a separately purchased **10pt Szalamandra Pilot/KHD** in Securitate, not a free gun platform or a Fireteam bonus for the Szalamandra.
 
-**TAG support:** if playing Szalamandra/Anaconda or a heavy REM flank, consider **18pt Clockmaker WIP15** plus a **Zondbot** to extend repair; one or more **Interventor KHD/FastPanda** and disposable smoke/White Noise to suppress enemy killer hackers or high-AP gunpieces before TAG exposure. **If your list lacks a forward button pusher, a bigger gun alone will not solve that.**
+**TAG and REM support choices:**
+
+- **Clockmaker WIP15 18pt + Zondbot:** reach and repair for Szalamandra, Anaconda or REMs.
+- **Interventor KHD/FastPanda:** hacker removal and midfield network coverage.
+- **Smoke / White Noise:** protect the TAG's approach from opposing KHDs and long-range high-AP guns.
+
+A bigger gun cannot replace an actual forward objective specialist.
 
 ## Vehicle: Go-Pod (and why speakers fight about it)
 
-**Go-Pod**, genuine **VH AVA1**: **33pts/0SWC MULTI Rifle/E/Mitter** or **32pts/1.5SWC Heavy Rocket Launcher/AP SMG**, **Aerial, 20–5 move, ARM2 BTS6 2W, S7, Mimetism(-3), BS Attack(-3/+1B), No Cover, Super-Jump, Go-Bot**. There is **no Tunguska Fireteam row**. Zondnautica is *not* a VH; it is mounted MI+ZondMate peripheral.
+**Go-Pod is Tunguska's genuine AVA1 VH, not a Fireteam member:**
+
+- **33pt/0SWC MULTI Rifle + E/Mitter.**
+- **32pt/1.5SWC Heavy Rocket Launcher + AP SMG.**
+
+Both have Aerial, 20–5 move, ARM2/BTS6, 2W, S7, Mimetism(-3), BS Attack(-3/+1B), No Cover, Super-Jump and a Go-Bot. **Zondnautica** is not a VH; it is mounted MI with a ZondMate Peripheral.
 
 - **Strong positive view — Tactical Awareness (Jun 2025):** heavy rocket/AP SMG flies into odd angles, punishes enemy links, pairs with Kriza/Heckler deployable FastPanda pressure. The Go-Bot gives a synchronized extra template/Flash reaction. Fast late-game zone-changing can be decisive.
 - **Strong negative view — Robert (Jul 2025, ~61–69m):** high ceiling but **very low floor**: S7 impossible to hide, **ARM2/No Cover** makes random TR/Feuerbach hits catastrophic, and enemy hacking locks it down before it starts. It cannot itself remove hard AROs reliably (three dice on BS13 can whiff). It is frequently **a finisher only once other troops already won the hard fights**.
 - **Practical middle ground:** take **only** if you can name **(1) ARO-clearer, (2) enemy hacker-removal plan, (3) safe staging spot, (4) scoring or elimination target accessible by fast flight, (5) turn you intend to launch it**. Otherwise, **32–33pts** is often better as **Meteor + cheap guard**, **Puppets**, or another independent specialist. **0SWC rifle** is often easier to fit than **1.5SWC rocket** if running Szalamandra/Vertigo.
 
-**Cross-Nomad VH/TAG check:** Go-Pod also appears in [Bakunin](bakunin.md) and [Vanilla Nomads](vanilla-nomads.md); their opponent tools can inform risk, but **never import their Fireteams, units or counts**. Szalamandra also appears in Vanilla; **Gator/Gecko/Iguana/Stigmata/Lizard are not normal Tunguska TAG options.**
+**Cross-Nomad availability check:**
+
+- **Go-Pod:** also in [Bakunin](bakunin.md) and [Vanilla Nomads](vanilla-nomads.md); cross-faction experience is useful, but unit counts and Fireteams do not carry over.
+- **Szalamandra:** also appears in Vanilla Nomads.
+- **Gator, Gecko, Iguana, Stigmata and Lizard:** not ordinary Tunguska TAG options.
 
 ## REMs and controlled bots — exact profile dependencies
 
@@ -86,6 +125,15 @@
 | **PuppetBots** | **9pt FO shotguns**, **14pt AP MMR**, **16pt Red Fury**—**Peripheral(Control), not normal Order-providing REMs**. Master (11–16pt) mandatory; deploy as **multiple S1 pickets**, adjust spearhead to range, preserve Regular Orders when they die | Multiple models can be defeated by advancing templates; a Red Fury puppet costs 1.5SWC. Never count each bot as independent Regular Order/FT Haris |
 | **Zondbots / RobbyBot / Go-Bot / ZondMate / JackBots** | Controller-dependent aides: Clockmaker/Daktari repair range, Szalamandra scoring attendant, Go-Pod synchronized gun/template, Zondnautica fork, **non-FTO** Fiddler JackBots | Not separate Regular Order units. Distinguish **RobbyBot included with Szalamandra** from **10pt TAG-Treiber** purchased troop; **Fiddler FTO does not bring JackBots** |
 | **Lunokhod** | **ABSENT current ordinary Tunguska roster**; removed May 2026. Historical podcasts praising Koalas/Thunderbolt/Forward Deployment are dated context only | Never use to assemble a current Army list |
+
+**Support multipliers beyond direct REM firepower:**
+
+- **Puppet Master 11/0 Counterintelligence:** exceptional low-cost support; PuppetBot costs are additional and they do not generate independent Regular Orders.
+- **Hollow Men TinBot(-3) 24** and **Mobile Brigada TinBot(-6) 33:** protect only actual legal Fireteam teammates.
+- **TAG-Treiber:** modifies a TAG in the same group through the printed Dodge/GizmoKit effects.
+- **Salyut 8pt Baggage versus 14/.5 EVO:** choose EVO's extra 6pt/0.5SWC only if Vostok or another REM uses Assisted Fire/Enhanced Reaction.
+
+A cheap **Puppet Master + Salyut** backline may enable more independent tools than a larger Hollow Men link. [Support-tier comparisons](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ## Explicit opposing opinions and decisions
 
@@ -113,21 +161,9 @@
 - [ ] **SWC count:** **Szalamandra 2**, **Anaconda 1.5**, **Kriza HMG 1.5**, **Vertigo 1.5**, **Vostok Spitfire 1**, **Tsyklon 1**, **Puppet Red Fury 1.5**; leave points/SWC for one necessary short/midrange Specialist and Engineer.
 - [ ] **Removed/different-faction profiles:** no current **Lunokhod**, no Gator/Gecko/Iguana/Lizard/Stigmata TAG in normal Tunguska. **Go-Pod is selectable as VH**, Zondnautica isn't the VH category. Use current pinned roster when older episodes disagree.
 
-**Suggested pairing — concepts only, not verified Army exports:** **List A: Hollow Men/Puppet/Interventor control** for exclusion zones and hard multipoint mission maps; **List B: Szalamandra or Kriza/VATRA + Meteor/Raoul specialists** for open fire lanes or deep scoring. Choose after the mission, real table geography and opponent hacking density are known.
+**Two list architectures to test, not verified Army exports:**
 
-## Vision control — role/value update (23 October 2026)
+- **List A — Hollow Men / Puppet / Interventor control:** exclusion zones, defensive hacking and multipoint mission boards.
+- **List B — Szalamandra or Kriza/VATRA:** open fire lanes, supported by **Meteor or Raoul** for reserve scoring.
 
-- **White Noise from Interventor HD+ 18–23/.5** becomes powerful only with real Repeaters/Pitcher/FastPanda reach. **Kulak KHD + Disco 20/0** delivers Eclipse-like projected screens but **KHD does not give White Noise**; **Perseus normal Smoke** and Zondnautica/Denma are alternate crossing/assault tools.
-- **Pick by enemy:** White Noise selectively removes visored/Marksmanship AROs; Disco blocks ordinary guns too and can deliver a Kriza/Hollow Men scoring package. Beware buying two expensive support engines without an attack recipient. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Mary Problems27/.5** beats ordinary budget hackers for *two-device hybrid utility* (HD+KHD program packages, Pitcher, FD, Mimetism -6, Climbing+) when the same midfield needs to threaten Hackers **and** HI. **Kulak KHD+Carbonite/Disco20/0** can be better on price and legal Securitate/VATRA role; do not give it nonexistent White Noise. **Elena Kovac** is a disputed toolbox per Infinity the Dante: Sensor/Triangulated Fire/TA/SpecOp look broad, but the weapon/FT position can make them mutually awkward.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**Puppet Master11/0 Counterintelligence** is an unusual S+ *points-value* support troop; don't treat PuppetBot cost as all-in or count PuppetBot as an extra Regular Order. **Hollow Men TinBot(-3)24** and **Mobile Brigada(-6)33** protect actual teammates only in legal Fireteams. **TAG-Treiber** modifies same-group TAG by printed Dodge/GizmoKit bonuses, not the whole army. **Salyut8 Baggage or14/.5 EVO** is a 6pt/0.5SWC upgrade when a Vostok/other REM will use Assisted Fire/Enhanced Reaction. Opposing approach: cheap backline Puppeteer+Salyut may support more independent tools than a larger Hollow Man link.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
+Choose according to the mission, geography and opponent hacking density.
