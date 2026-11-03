@@ -1093,6 +1093,7 @@ Sources: [Shepherd N4 focus](https://www.youtube.com/watch?v=764JXbnQ3jQ) (trans
 The sections below were moved from the [Steel Phalanx authoritative Army reference](../../sectorials/aleph/steel-phalanx.md) to keep source rosters, profile data, Fireteam legality, provenance, and validation separate from tactical judgments. The linked reference is the authority on rules and profiles; analysis and purchasing advice here may be provisional or contested.
 
 ### Tactical tags
+
 These tags are analytical conveniences, not rules text.
 
 - **Vision control:** Myrmidons, Myrmidon Officer, Machaon, Ajax, Hippolyta, Penthesilea; Eclipse specifically on Myrmidon Officers.
@@ -1105,9 +1106,9 @@ These tags are analytical conveniences, not rules text.
 - **Orders/economy:** Netrods, Hector Lieutenant (+1 Order), Makhai Tactical Awareness, Arjuna Tactical Awareness, Acmon Tactical Awareness, Daleth Tactical Awareness, Agamemnon Tactical Awareness, NCO Eudoros/Alkê, Baggage Probot.
 - **Midfield:** Andromeda, Thyreos, non-FTO Arjuna, Sāchā.
 
-### Expanded faction tactical guide
+### Fireteam legality reminder
 
-For comprehensive hero/utility choices, Myrmidon and Thorakitai architecture, Officer Eclipse, Agamemnon and alternative attacks, see the [Steel Phalanx tactical/list-building guide](../factions/steel-phalanx.md). **Read the current Fireteam chart in the linked sectorial reference first:** Scylla FTO requires a legal Steel Phalanx Duo/Haris foundation, and cannot join a Thorakitai Core; Ajax requires the FTO profile for Myrmidon Core.
+The [authoritative Steel Phalanx Fireteam chart](../../sectorials/aleph/steel-phalanx.md#canonical-fireteam-chart) governs the hero and support combinations discussed here. Scylla FTO requires a legal Duo/Haris foundation and cannot join a Thorakitai Core; Ajax requires its FTO profile for Myrmidon Core.
 
 ### Command-unit apex/value cross-reference (2026-10-23)
 
