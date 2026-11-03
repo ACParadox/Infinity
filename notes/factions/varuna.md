@@ -512,7 +512,7 @@ Use when:
 - the ORC is already central to the Fireteam;
 - a durable LT body is desirable;
 - Firewall / team utility from the selected profile matters;
-- CoC exists if the ORC is expected to fight aggressively.
+- **No Chain of Command exists in current Varuna**; protect an actively fighting ORC Lieutenant or explicitly accept the Loss of Lieutenant risk.
 
 Do not make an ORC LT simply because it is durable. Make it LT because the rest of the architecture benefits from it.
 
@@ -526,7 +526,7 @@ Use when:
 
 - the TAG itself is the plan;
 - you accept concentrating command and a huge fraction of the army into one model;
-- succession / CoC or mission context makes the risk acceptable.
+- the mission and protective deployment make the **unavoidable lack of Chain of Command** acceptable.
 
 The NCO Cutter is generally the cleaner option when the list wants a passive LT elsewhere.
 
@@ -704,6 +704,17 @@ If the list is mostly infantry and expendable Helots, Engineer tax becomes less 
 
 ---
 
+## Battle-report-derived Fireteam and army spines (2026-11-03)
+
+The [current Varuna Fireteam chart](../../sectorials/panoceania/varuna-immediate-reaction-division.md#fireteams) allows **one Core, one Haris and unlimited legal Duos**. Historical video compositions are tactical evidence, **not substitutes for profile-level N5.3 legality**. The Undertow family needs an ORC or Kamau required-choice unit; linked foot Montesa must be **FTO option 5**.
+
+- **Four-person Kamau/Montesa/Pathfinder Core — [#019 CanCon 2026](../battle-reports/011-020-n5-battle-report-tactical-analysis.md):** a **Kamau HRL (alternative list: HMG) + two Knights of Montesa FTO + Pathfinder Tactical Awareness**. The player used this four-body attack structure with a separate **Kamau MULTI Sniper + Machinist** defensive Duo, or a **Patsy Garnett + two Helot FTO** defensive trio in the other list. The **Squalos Mk-II + Pathfinder Duo** is another played variant and fits the current *Cavalry* family when Squalos is the required-choice member and Pathfinder joins as Wildcard. These are **alternative lists**; do not duplicate the same Pathfinder across two formations.
+- **Mixed five-person Core — [#011 MEGA 2025](../battle-reports/011-020-n5-battle-report-tactical-analysis.md):** **ORC Lieutenant + Machinist + one foot Montesa FTO + two Tactical Awareness Pathfinders** (1+1+1+2 = five). Also described were a **Kamau HMG + Montesa FTO Duo** and a **Kamau MULTI Sniper + Quinn Duo**. In #011's **other** list the Core was **two Helot FTO + ORC Lieutenant + Patsy Garnett** (four), with a fifth Fusilier only a **possible addition**, not a verified deployed member. These are **two independent rosters**.
+- **Cheap five-model Fusilier Core + two unlinked TAGs — [#203 Area of Interest](../battle-reports/201-210-n5-battle-report-tactical-analysis.md):** **Fusilier Hacker + Fusilier Paramedic + two basic Fusiliers + Richard Quinn**, explicitly fielded as a **five-body Core**, plus separate **Cutter Camo TAG**, **Squalos Mk-II**, **Machinist/Palbot**, **Zulu-Cobra** and other utility. The **6–4** result rewarded zone control and cheap Camo weight; neither TAG joined the Core. Consider when the primary problem is **surviving objective Specialists**, not merely winning a shooting duel.
+- **Two distinct three-body links — [#226 custom Crossing Lines](../battle-reports/221-230-n5-battle-report-tactical-analysis.md):** **Patsy + Helot FTO SMG/Light Rocket Launcher + Helot FTO Red Fury**, supported by a separate **ORC Feuerbach + Kamau HRL + Kamau Sniper Haris**; Cutter NCO independent. This was a **one-combat-group, mandatory-TAG** event ending in concession amid a Line-of-Fire disagreement, **not an ordinary ITS efficiency trial**. Under N5.3, use eligible **Helot FTO options 1/3/4** and the actual ORC/Kamau Undertow anchor.
+
+**List decision:** choose **Kamau/Montesa/Pathfinder Core of four** for aggressive midfield reach, **Fusilier/Quinn Core of five** for a cheaper TAG-support shell, or **Patsy/Helots with an ORC/Kamau Haris** when you want distinct attack and defensive lanes. Avoid merging choices from different published lists into a supposedly played six- or seven-person Fireteam. **No Chain of Command** exists in current Varuna; an attacking Lieutenant requires real protection, not a fictional Quinn/CoC backup.
+
 ## Strong current listbuilding skeletons
 
 These are **architectures**, not fixed lists.
@@ -735,7 +746,7 @@ Start with:
 - Kamau or Montesa complementary profiles;
 - Zulu midfield control;
 - Helot defensive friction;
-- cheap LT or CoC architecture.
+- a **protected cheap Lieutenant** (Varuna has no Chain of Command profile).
 
 This is one of the most coherent ways to avoid the “all defence, no active turn” trap.
 
@@ -858,7 +869,7 @@ Before deploying Varuna, identify:
 3. **What is the primary active-turn attacker?** Make sure it begins safe and has enough Orders.
 4. **What is the secondary attack vector?** Prefer something qualitatively different: midfield Camo, Echo-Bravo flank, Montesa speed, ORC durability, TAG brute force.
 5. **Which pieces actually score the mission?** Varuna can overbuy guns very easily.
-6. **Can the opponent identify the LT?** If yes, decide whether the risk is acceptable or whether CoC / alternative LT placement is required.
+6. **Can the opponent identify the LT?** If yes, decide whether the risk is acceptable or safer Lieutenant positioning is required; **there is no CoC fallback in Varuna**.
 7. **Is the list too static?** If removing the Kamau ARO piece makes the rest of the army passive, rebalance the list.
 
 ---
