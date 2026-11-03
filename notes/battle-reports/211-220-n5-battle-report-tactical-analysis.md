@@ -27,6 +27,26 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=ZyqxsZkdLIs) · 300 pt · after Adepticon 2025, filmed with the two players' **Adepticon/Colder-than-Carbonite** lists, **not** a direct tournament round. 6–4 end score (ALEPH scoring more for HVT/Lieutenant hunting; see results caveat).
 
+
+### Army lists and Fireteams — original video roster reconstruction
+
+**Primary evidence:** [original GMG Decapitation report](https://www.youtube.com/watch?v=ZyqxsZkdLIs), opening roster and deployment (~2–6 minutes); later linked-order dialogue corroborates some formations. **The video is a friendly replay of players' Adepticon-era lists**, not an Adepticon tournament round.
+
+**Vanilla ALEPH — visible units and inferred list:**
+- **Maximus** — main heavy active attacker; moves repeatedly with a **Danavas Hacker** and another support member or model. The opening deployment also names **Asura**, **Sofotect**, and other hackers; **exact Maximus Fireteam membership cannot be certified** from the transcript.
+- **Two Dakini Tacbots** — later the player **spends a Command Token to re-create a “duo of Dakinis”** after disruption. **Dakini Duo (2) directly evidenced by midgame narration**; initial deployment presence of the same pair is clear, though their exact weapons are garbled.
+- **Missile REM**, **Flash-Pulse REMs**, **Baggage REM(s)**, **Netrod(s)**, **Yudbot/servant support** — other named pieces. Do not count any Netrod, missile ammunition, or helper bot as a Fireteam member.
+- **Team confidence:** Dakini **Duo of 2 confirmed played**; Maximus/Danavas **linked activation likely**, but third model and type **unresolved**.
+
+**Corregidor — initial two-group list:**
+- **Group 1:** **Gator TAG**, **Wildcat Engineer**, **Vertigo Zond Guided Missile REM**, **Cyclone Thunderbolt TR REM**, **Flash-Pulse REM**, **two Moran Masai Hunters with CrazyKoalas**, **Salyut EVO**.
+- **Group 2:** **McMurrough**, **Jazz FTO Hacker**, **Mobile Brigada MULTI Rifle**, **Alguacil Forward Observer**, **Daktari Doctor**, another **Flash REM**.
+- **Gator + Wildcat Engineer Duo — 2, confirmed**, shown linked during deployment.
+- **Jazz + Mobile Brigada + Daktari + Alguacil FO — four-model Fireteam as deployed**, narrator directly enumerates the four under one **“fire team”** and identifies its team leader. Later refers to the surviving package as a **Haris**, so record **4 models shown linked; precise historical Fireteam type is uncertain** rather than silently choosing between Haris/Core.
+
+**Large-team audit:** **One four-member Corregidor starting team, exact type unresolved**. The Gator/Wildcat pair and ALEPH Dakini Duo are separate. **McMurrough is independent** despite nearby deployment.
+
+
 - **Observed, ALEPH:** Owen brought **Maximus**, **Asura Hacker**, **Danavas Hacker**, **Sofotect**, **Netrods**, several **Flash Pulse / Missile REMs**, and a support screen. Maximus functioned as a resilient active attacker and anchor for a hacker-heavy unit network. ALEPH **Spotlight -> Guided missile** pressure on **Corregidor Moran / CrazyKoala** positions consumed or neutralized parts of the reactive midfield. The *Maximus + Danavas/Asura* push was more decisive than the incidental killing of cheap remotes.
 - **Observed, Corregidor:** Ash deployed a **Gator TAG + Wildcat Engineer**, **Moran Masai Hunters with CrazyKoalas**, **Jazz FTO** in a **Mobile Brigada / Daktari / Alguacil**-supported link, **McMurrough**, **Vertigo Zond guided missile REM**, **Cyclone Thunderbolt TR REM**, **Salyut EVO**, Flash REMs and multiple groups. He used **McMurrough smoke**, Moran repeaters/Koalas, and heavy TAG pressure to make the center lethal, but ALEPH removed early REMs and hackers, causing complicated Order/group recovery.
 - **Deciding sequence:** Both sides traded missile/Spotlight and armored shots. Corregidor's final **McMurrough** assault into ALEPH's key targets failed before completing the intended HVT/Lieutenant swing; the speaker identifies McMurrough as his own Lieutenant. Spoken outcome was **6–4**, with objective-point categories—**Lieutenant, specialists, army points and HVTs**—deciding it. Exact per-category order of the spoken score is garbled, hence do not publish a detailed points ledger without a scoreboard.
@@ -39,6 +59,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 ## #212 — Onyx vs Invincible Army: Countermeasures (Onyx 6–0)
 
 [Original report](https://www.youtube.com/watch?v=z1Dbz0-GrTE) · 300 pt · early ITS16.5 Countermeasures.
+
+
+### Army lists and Fireteams — Onyx versus Invincible Army
+
+**Primary evidence:** [GMG Countermeasures game](https://www.youtube.com/watch?v=z1Dbz0-GrTE), roster and deployment (~2–7 minutes). Both **Xeodron** and **Rodok** pairs are explicitly labeled as Duos; Invincible Army explicitly identifies a Haris.
+
+**Onyx Contact Force:**
+- **Xeodron MULTI Marksman Rifle + Xeodron K1 Marksman Rifle — Duo of 2, confirmed**, described as a roughly 100-point two-TAG linked package.
+- **Rodok Paramedic + Rodok Thunderbolt(+1 Burst) — Duo of 2, confirmed** during deployment.
+- **Ker-Nau** (Nanoscreen/White Noise/NCO), **Umbra Legate K1 Combi**, **Med-Tech Obsidon / Doctor Worm**, **Ikadron**, **Imetron**, **R-Drone**, **E-Drone EVO** and an airborne/winged reserve **of unverified identity**.
+- The reserve figure and Doctor Worm's support/helper equipment are **not counted** as linked troops.
+
+**Invincible Army:**
+- **Haidào MULTI Sniper/MSV2 + Zhanshi Doctor + basic Zhanshi — Haris of 3, confirmed** during the initial deployment walk-through. The spoken word transcribed “high” is the **Haidào**, rather than an unnamed sniper to be added to the list.
+- **Bì Xié**, **Shàng Jí Hacker**, **Haidào Killer Hacker**, **Hùsòng Total-Reaction HMG** comprise other overt main-group headliners.
+- Several **Camo markers** are present; their troop identities are not established in the opening. The speaker describes **four main-group units and three named members of the other group**, not a full five-body Core.
+
+**Large-team audit:** **No confirmed four-/five-body starting Fireteam**. Onyx runs **two distinct Duos**; IA has a **three-body Haidào/Zhanshi Haris**. A combat group's total number of troops is not a Fireteam size.
+
 
 - **Observed, Onyx combined arms:** **Two Xeodrons** (K1 Marksman Rifle and MULTI Marksman Rifle) formed a heavy gun/area-control **Duo**, backed by **Rodok Paramedic and Burst-bonus Thunderbolt**, **Umbra Legate**, **Kurnau (Killer Hacker / White Noise / Nanoscreen)**, **Med-Tech Obsidon / Doctor Worm**, **E-Drone EVO**, Ikadron/Imetron and **R-Drone** support. The Xeodrons moved/shot together while mobile specialists pursued constantly refreshed Classifieds. Kurnau's White Noise advantage is reduced against an opponent with relevant visors; the player acknowledges that explicitly about **Bǐ Xié**.
 - **Observed, Invincible Army:** A compact/high-value array included **Shàng Jí Hacker**, **Hǎidào Killer Hacker and MSV2 MULTI Sniper**, **Hùsòng Total Reaction HMG**, **Zhanshi Doctor** and **Bǐ Xié**, with very small nominal combat groups. The mission offered **three revolving classified cards**, rather than a simple shootout or fixed two-console win.
@@ -53,6 +92,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=9LT9HqawFpE) · 300 pt · ITS16.5, round-scored **Supremacy**.
 
+
+### Army lists and Fireteams — OSS versus Tunguska
+
+**Primary evidence:** [GMG Supremacy report](https://www.youtube.com/watch?v=9LT9HqawFpE), army roll call (~2–5 minutes), initial deployment and turn-one team activations (~5–10 minutes). Captions repeatedly confuse **Dakini** and **Deva**; the spoken “Dakinis” and the two weapon profiles establish the intended unit family.
+
+**Operations Subsection (OSS):**
+- **Dakini Sniper Paramedic + Dakini basic/other support member — Duo (2)**, narrated as the **sniper/paramedic Dakini pair** during deployment.
+- **Dakini HMG Paramedic + second Dakini support member — Duo (2)**, explicitly described as the **other Dakini Duo** and activated with the HMG as team leader.
+- **Marut TAG**, **Asura HD+**, **Parvati with Yudbot**, **EVO Hacker REM**, **two Flash REMs**, **two Netrods**. The **Marut and Asura** are powerful separate pieces; the Netrods and Yudbot are not in the Dakini links.
+- **Profile caveat:** the narrator initially summarizes the **two Duos** as “sniper paramedic and HMG paramedic”; exact secondary Dakini loadouts are **not fully identified**, so do not invent a fourth weapon profile.
+
+**Tunguska:**
+- **Grenzer MULTI Sniper + Grenzer Sensor/NCO — Duo of 2**, explicitly mentioned in the initial deployment.
+- **Perseus FTO + Hollow Man** appear together, with **another Hollow Man-like model** visible in the deployment description. **Potential linked package, membership and type unverified**: the initial full roster clearly names one Hollow Man, so it is unsafe to assert a 3-body Haris solely from a second miniature reference.
+- **Salamandra TAG**, **Interventor HD+**, **Interventor KHD** (FastPandas), **Puppet Master** (no Puppetbots), **Clockmaker with Zondbot**, **Transductor REMs**. These have independent support/order roles, not an automatic Core.
+
+**Large-team audit:** **No confirmed four-/five-person Fireteam**. **Two OSS Duos** and **one Tunguska Grenzer Duo** directly named; the Perseus/Hollow Man group requires an on-screen Army list to pin down.
+
+
 - **Observed, OSS:** A **Marut TAG**, **Asura Hacking Device Plus**, pairs of **Dasyu/Deva-style specialist shooters** (the transcript calls them “Devas/Danis”; exact link member needs list check), **Parvati with support**, **EVO REM**, **Flash REMs**, and **Netrods**. Marut was powerful enough to guard space even while hacking-driven **Isolation/Immobilization** threatened its Order efficiency. Asura's active hacking/gun approach let OSS threaten exposed Interventors.
 - **Observed, Tunguska:** **Salamandra**, **Interventor Hacker and Interventor Killer Hacker** with FastPandas, **Perseus + Hollow Man**, **Grenzer sniper and Sensor/NCO profiles**, **Clockmaker/Zondbot**, **Transductor flash REMs**, plus a **Puppet Master**. Interventor KHD contested Asura in a protracted hacking duel; Salamandra occupied the high-value TAG counterweight. The player later identifies forgetting **Cybermask** and a desire for **White Noise/EVO support**.
 - **Deciding sequence:** Both sides repeatedly contested the four quadrants and consoles. The *final* count was **4–4**, including a **2-and-2 zone split**. OSS's player says he **moved the Marut across the wrong scoring line on turn two**, likely losing a critical round-point. **Parvati** consumed too many actions on other tasks to reliably do the chosen Classified.
@@ -65,6 +123,27 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 ## #214 — Vanilla PanO vs Hassassin Bahram: Firefight (Hassassin 5–2)
 
 [Original report](https://www.youtube.com/watch?v=OD3zu_eVpOU) · 300 pt · ITS16.5, filmed about a week after Adepticon 2025. **PanO is explicitly vanilla**, not an unnamed sectorial.
+
+
+### Army lists and Fireteams — triple-TAG PanO versus Hassassin
+
+**Primary evidence:** [GMG Firefight report](https://www.youtube.com/watch?v=OD3zu_eVpOU), opening roster (~2–5 minutes) and initial Hassassin deployment (~5–8 minutes). Auto-translated audio occasionally turns unit names into ordinary words.
+
+**Vanilla PanOceania:**
+- **Cutter TAG**.
+- **Squalo Mk II MULTI Marksman Rifle** (the cheap profile, not an extra Squalo).
+- **Tikbalang Lieutenant** with extra Lieutenant Orders.
+- **Pathfinder Tactical Awareness**, **Machinist**, **two Flash REMs**, **two Mulebots/Baggage REMs**, and additional crew/support models shown in the first turn.
+- **No starting Duo/Haris/Core named.** The **three TAGs share an Order pool**, not a three-TAG Fireteam; pilots/repair helpers do not increase a link's size.
+
+**Hassassin Bahram:**
+- **Linked four-person Ghulam/Barid package — 4 members reported:** **Ghulam Lieutenant**, **Ghulam Doctor**, **third Ghulam/basic or NCO** and **Barid Killer Hacker**. At deployment the player calls the four a **main group**, then specifically nominates the **Ghulam Lieutenant as link leader**; thus a **four-body starting link is strongly supported**, though the precise Core/Haris title and which Ghulam has NCO are not fully resolved by translation.
+- **Lasiq Viral Sniper + Muyib long-range launcher — Duo of 2**, described as a **duet** and set up together on the flank. The player refers to the Muyib as the heavier long-range piece; exact launcher loadout is garbled in translation.
+- **Two Fidays** (rifle and Boarding Shotgun), **McMurrough**, **Daylami Panzerfaust units**, **Ghulam/Barid mission specialists**, **Warcor**, **Flash REM**, **Sunduqbut** and Camo/impersonation markers are listed or revealed separately.
+- The Fiday **Impersonation markers** and Daylami Camo markers are **not members of the Ghulam link**.
+
+**Large-team audit:** **Hassassin four-body linked Ghulam/Barid group strongly observed**; **Lasiq/Muyib two-body group** reported; **PanO none**. This is a special **triple-TAG thematic PanO list**, not a general all-comers sample.
+
 
 - **Observed, PanO:** A deliberately extreme **three-TAG** army: **Cutter**, **Squalo Mk II** (cheap MULTI Marksman loadout), **Tikbalang Lieutenant with additional Lt Orders**, **Pathfinder with Tactical Awareness**, low-cost **Flash Pulse/baggage REMs** and one **Machinist**. The TAGs created powerful gunfights and significant remaining army points, but left very few independent **Classified specialists / button pushers** and no broad mission toolkit. The PanO player knowingly chose a theme/constraint rather than optimal Firefight all-comers.
 - **Observed, Hassassin:** **Two Fidays**, **McMurrough**, **Daylami Panzerfaust**, **Muyib missile / X-Visor** firepower, **Lasiq viral Marksman**, **Barid Killer Hacker**, **Ghulam Doctor and NCO**, plus cheap defensive pieces. In this scenario, **Classified objectives became the primary OP path** while attempting to contain the three TAGs. **Muyib long-lane explosives** and cheap Panzerfaust forced costly defensive decisions and exposed the Squalo/Tikbalang.
@@ -79,6 +158,24 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=1DxLt9Zcns8) · 300 pt · ITS16.5; externally archived by June 6, 2025.
 
+
+### Army lists and Fireteams — vanilla CA versus Hassassin, Annihilation
+
+**Primary evidence:** [GMG Annihilation report](https://www.youtube.com/watch?v=1DxLt9Zcns8), initial army roll call/deployment (~2–7 minutes) and later Ghulam/Barid Fireteam activation (~26 minutes).
+
+**Vanilla Combined Army:**
+- **Charontid Hacker** (Plasma Rifle/Sepsitor), **Overdron double Plasma Sniper**, **Yaogat MULTI Sniper**, **Dartok Hacker/SMG/Pitcher**, **two Daturazi** (smoke/Chain Rifle) and **four Gaki** in second group.
+- **Imetron** makes its Combat Jump deployment; another model or two is shown as Camo marker during opening deployment, but the precise identities **cannot be assigned from hidden markers alone**.
+- **No linked Fireteam reported**. Four Gaki share one combat group but **are not a four-body Core**, and a Daturazi near another warband does not establish a Duo.
+
+**Hassassin Bahram:**
+- **Shakush TAG HMG**, **McMurrough**, **two Ghazi Muttawi'ah Jammers**, **Kameel Baggage**, **Fugazi/Flash REM**, **Sunduqbut/Camo models**, other separate defensive Camo/marker pieces.
+- **Group 2 Ghulam/Barid linked package — 3 members directly described:** **Barid Killer Hacker**, **Ghulam NCO**, **regular/basic Ghulam**. The presenter later **changes Fireteam leader to the Barid**, explicitly proving these are not merely three unlinked models in the same combat group. **Precise legal team designation remains unspoken**; record as three-body played Fireteam.
+- A **second Daylami-like Camo deployment** is possible from markers, but cannot be numbered just by counting markers or Holoechoes.
+
+**Large-team audit:** **No four-/five-person Fireteam established**. Hassassin **three-body Barid/Ghulam link**, vanilla CA **none**. Preserve the historically specific 2025 roster rather than substituting present-day current profiles.
+
+
 - **Observed, Combined Army:** **Charontid Hacker / plasma rifle and Sepsitor**, **Overdron with dual plasma sniper**, **Yaogat MULTI Sniper**, **Daturazi smoke**, a **Dart**-identified forward skirmisher and **four very cheap exploding Gakis**. The **Overdron plasma sniper** repeatedly punished exposure and was the defender's most awkward target to clear. The players repeatedly praised **Gakis as disposable warband deterrents** that can trade extremely favorably with 20+ point assault pieces.
 - **Observed, Hassassin:** **Shakush TAG/HMG**, **McMurrough**, **Ghazis with jammers**, **Barid KHD**, cheap **Ghulam NCO / line troops**, baggage and Flash REMs. Hassassin pursued a *survival/threshold* strategy rather than trying to kill the last Gaki or trade away too many orders. **Jammer/Isolation** reduced the CA force's actions and mattered alongside the Shakush's conventional firepower.
 - **Deciding sequence:** On the last turn CA had survivors around **79 points**, just above a **75-point scoring breakpoint**. Hassassin ran a risky flanking assaulter to attack the **Overdron** but came up short; the player remarks that *one more point of kills* would have gained another scoring threshold. The game nevertheless ends **Hassassin 6–2** with scoring for kills, survival and Lieutenant-related outcomes.
@@ -91,6 +188,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 ## #216 — Starmada vs Ramah Taskforce: Mindwipe (Starmada 10–1)
 
 [Original report](https://www.youtube.com/watch?v=9s8sX_wqdRo) · 300 pt · earliest N5 v1.0 era (external report already posted March 28, 2025). **Do not merge this scoring packet with later Mindwipe variants automatically.**
+
+
+### Army lists and Fireteams — Starmada versus Ramah, Mindwipe
+
+**Primary evidence:** [GMG early-N5 Mindwipe report](https://www.youtube.com/watch?v=9s8sX_wqdRo), roster (~2–5 minutes), deployment (~5–7 minutes), and first linked movement. This was recorded **before April 2025's N5.1 revision** according to the source archive.
+
+**Starmada — two combat groups:**
+- **Group 1:** **Zeta TAG**; **Beta Trooper Spitfire + its Betatrooper companion/remote** (peripheral-style supporting model); **Kappa FO**, **Kappa Hacker**, **Kappa Paramedic**; **Cyberghost HD+**; **Fuzzbot Baggage**, **Copperbot Flash REM**, and additional cheap electronic support.
+- **Group 2:** **Shona Carano**, **Varangian Guard**, **Lambda Engineer with two Yudbots**, **Fuzzbot EVO Hacker**.
+- **Shona Carano + Varangian Guard — Duo of 2, confirmed:** the narrator points to the Duo marker in initial deployment and activates them together later.
+- **Beta Trooper + Beta support unit** move together, but are a **unit/peripheral pair**, **not automatically a Fireteam Duo**. Kappa trio appears on the table but **no actual Kappa Haris/Core is announced**.
+
+**Ramah Taskforce — compact high-end roster:**
+- **Tarik Mansuri Lieutenant**, **Khawarij NCO (Mk12)**, **Nahab Airborne/Infiltrating specialist**, **Leila Sharif**, **Janissary HMG**, **Janissary Boarding Shotgun/TinBot**, **Khawarij K1 Marksman Rifle**, and other mission-support figures or concealed units.
+- **Potential Janissary/Khawarij linked attack package** from models placed together, but **no unambiguous team leader/type/member count is declared** in accessible opening. Do not convert three named elite units into a certified Haris without an Army screenshot.
+- Tarik's leadership and NCO access are **Order mechanics**, not themselves proof of a Duo.
+
+**Large-team audit:** **No confirmed four-/five-model Fireteam**. **Starmada Shona/Varangian Duo** certain; Ramah possible elite link **unverified**. **Mindwipe's 10–1 is an older N5 mission outcome**, not a Fireteam-efficacy experiment.
+
 
 - **Observed, Starmada:** **Zeta TAG + Copperbot/Flash support**, **Beta Trooper Spitfire + Secudroid companion**, **Cyberghost Hacker+ / pitcher**, **Kappa Forward Observer/Paramedic/Hacker**, **Lambda Engineer + Yudbots**, **Fuzzbot EVO**, and a **Shona Carano + Varangian** assault **Duo**. The Zeta/Beta provided suppressive active shooting and forced Ramah's elite Haris/links to react, but the decisive scoring piece was **Shona with an anti-materiel close-combat weapon**, operating through the midfield.
 - **Observed, Ramah:** **Tarik Mansuri**, **Janissary HMG + shotgun/TinBot**, **Leila Sharif hacker**, **NCO gunfighter** and a **Nahab airborne/infiltrating specialist**, organized into several small pressure teams. The first-turn rush into Starmada lines saw **Tarik stopped in close combat by Varangian**, and other exposed models—including Leila/Nahab positions—lost valuable missions Orders.
@@ -105,6 +221,28 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=bvBnsYvbhRE) · 300 pt · ITS16.5 after the discussed Spring Offensive 2025; original translated transcript was retrieved in multiple chunks. **Score 9–2 provisional:** Bakunin's nine were explicitly recounted; Tohaa described console + secondary/Classified points without a clean formal scoreboard. **A material rules mistake is acknowledged.**
 
+
+### Army lists and Fireteams — Bakunin versus Tohaa, Mindwipe
+
+**Primary evidence:** [GMG full video](https://www.youtube.com/watch?v=bvBnsYvbhRE), **long transcript retrieved in four chunks**; the predeployment roll call and opening deployment are in **chunk 1 (~opening 10 minutes)**. Names in the automated translation are especially unreliable. Compare with the repository's [Tohaa reference](../../sectorials/tohaa/tohaa.md) for **troop identity**, but **do not apply that current N5.3 chart retroactively to this early-N5 game**.
+
+**Tohaa — opening 300pt inventory:**
+- **Rasail Boarding Team Spitfire + Chaksa/“Pokémon” Peripheral** (automatic speech gives “Raziel”).
+- **Gorgos TAG** with Peripheral and anti-infantry weaponry.
+- **Kaeltar Specialists x2**, including **Chain of Command / SymbioMate support** (audio “Kilir”).
+- **Ectros Regiment Viral Combi**, **Makaul Eclipse/Flamethrower**, **Clipsos x2**, **Chaksa Auxilia/sensor Heavy Flamethrower and long-range Launcher support**, and Camo specialists.
+- **Probable three-body Tohaa Triad package:** the first deployment says the **Ectros is positioned with a Kaeltar/Paramedic-type specialist and a Makaul**; the components plausibly form a three-model link, but **no explicit Triad or Haris declaration is preserved**. Record as **probable, not confirmed**.
+- **Rasail's Chaksa peripheral** and **Gorgos' peripheral** are **not second troopers in a Fireteam**; seeing the models together does not establish a Duo.
+
+**Bakunin — initial two-group list:**
+- **Group 1:** **Lizard MULTI HMG**, **two Stigmata** TAGs, **Orphan Engineer**, **two Moderators** (one Pitcher), **Überfallkommando (Chimera + Pupnik models)**.
+- **Group 2:** **Taskmaster Red Fury**, **two Morlocks**, **Denma Connolly** (named warband/solo).
+- **Taskmaster + two Morlocks — three-model linked activation observed**: presenter moves the Taskmaster and the Morlocks together and later refers to a shooting bonus **from the link**. Exact historical type (**Haris vs Core vs custom**) is **not stated**, so use **“three-model linked Taskmaster/Morlock package”** rather than inventing a designation.
+- **Lizard and two Stigmata** are **three distinct TAGs**, not a three-TAG Fireteam. **Chimera/Pupnik** are an Überfall/Peripheral unit, not a linked four-/five-body Core.
+
+**Large-team audit:** **No confirmed four-/five-body Fireteam**. Tohaa probable three-member Ectros package; Bakunin observed **Taskmaster/two-Morlock three-person link**. **The players concede a Mindwipe console activation error**, so do not infer clean tournament validation of these builds.
+
+
 - **Observed, Bakunin:** **Lizard TAG with MULTI HMG and flamethrower**, **two Stigmata TAGs** (the player describes three TAGs total), **Orphan Engineer**, **Taskmaster Red Fury + two Morlocks**, **Dena Connolly**, **Moderators / pitcher**, and **Überfallkommando with Pupniks**. The TAGs' Tactical Awareness supplied repeated pressure/approach Orders while Morlocks and Taskmaster absorbed close-range attention. Bakunin's **hacker-bearing Stigmata** eventually destroyed the relevant Tohaa Rogue-AI server with mission hacking.
 - **Observed, Tohaa:** **Gorgos AP HMG TAG + Peripheral**, **Rasail Boarding Team Spitfire**, **Makauls with Eclipse smoke**, **Kaauri/Chaksa-style support**, **Kiiutan / Clipsos hidden specialists** (the translated transcript garbles several identities), and **Kaeltar Chain of Command / symbio support**. A **Clipsos-like hidden marker** readily approached a central console, while **Makaul Eclipse** let Tohaa approach a critical flank. The Gorgos survived a great deal of Bakunin TAG pressure and required **Immobilize/Isolation (“brick”)** to neutralize efficiently.
 - **Deciding sequence:** Tohaa's concealed specialist interacted with a console and threatened an assassination route toward the key hacker, but a back-shot/short-range attack **failed to remove Bakunin's mission hacker**. Bakunin's surviving Stigmata/TAG attack then destroyed Tohaa's AI via the super-hacker program, retained its own AI and multiple undamaged server points. Players counted **nine Bakunin OP**. **They explicitly discovered they had incorrectly activated the same console twice**. Do not treat the game as procedurally clean without a replay/FAQ audit.
@@ -117,6 +255,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 ## #218 — Kestrel vs Shindenbutai: Shinju D1 identification, 200pt narrative (Kestrel ~7–1)
 
 [Original report](https://www.youtube.com/watch?v=kEbQ31VHgpQ) · **200 pt**, ~2×3 ft table; early-N5 escalation, **Infinity Universe** Mission 1, *not standard ITS*. The hosts explicitly say the current N5 ITS16 pack is not yet available.
+
+
+### Army lists and Fireteams — 200pt Kestrel versus Shinden narrative
+
+**Primary evidence:** [GMG Infinity Universe Mission 1](https://www.youtube.com/watch?v=kEbQ31VHgpQ), full roster (~2–5 minutes), initial deployment (~5–8 minutes). The players state **200 points on a 2×3-foot board**, **before the new ITS16 pack** and with an explicit later **Retreat! house rule**.
+
+**Kestrel Colonial Force:**
+- **Fennec Fusilier x3** (one Paramedic, one Forward Observer with Disco Baller/Sensor, one basic), **Richard Quinn MULTI Marksman Rifle**, **Scarecrow Hacker in Hidden Deployment**, **Black A.I.R. FTO Neurocinetics Sniper**, **Machinist + Palbot**, **Griffin HMG**, and **Mulebot Total-Reaction Combi proxy**.
+- **Griffin HMG + Fennec Fusilier — Duo of 2, confirmed** in starting deployment; narrator explicitly corrects his first “Haris” label to **“sorry, a Duo team.”**
+- **Richard Quinn with two other Fennecs** deployed nearby, **three-body link possible**, but a Fireteam declaration for this exact package is **not captured**. **Do not treat positional proximity as a confirmed Haris**.
+
+**Shindenbutai:**
+- **Hatamoto Lieutenant Red Fury**, **Raiden Heavy Rocket Launcher**, **Nokizaru MULTI Marksman**, **G-Samurai Thunderbolt**, **Senku x3** (two Paramedics, one other/basic), **Saito Tōgan**, **Yojimbo**, and hidden pieces.
+- **Hatamoto + Senku Paramedic — two-body Fireteam**, openly described as “fire teamed with” at first deployment.
+- **G-Samurai + another Senku Paramedic — probable 2-body linked pairing**, but narration only places the two prone together; **exact starting Fireteam type unverified**.
+- Yojimbo's bike and Saito's hidden deployment are independent troop roles, not team members.
+
+**Large-team audit:** **No confirmed four-/five-member Fireteam**. Small-format Duo-focused escalation; neither army has grounds for a fabricated 5-Fennec/5-Senku Core.
+
 
 - **Observed, Kestrel:** **Three Fennec Fusiliers (Paramedic / FO / rifle)**, **Richard Quinn MULTI Marksman Rifle**, **Scarecrow KHD/hidden deployment**, **Black A.I.R. Neurokinetics sniper**, **Griffin HMG**, **Kestrel Machinist + Pobot**, and a **Mulebot TR combi proxy**. The team combined long-lane AROs, decent field engineers, and straightforward rifle Orders. Their **Black A.I.R.** was described as difficult for the available starter-derived Shinden models to defeat.
 - **Observed, Shindenbutai:** **Hatamoto Lt**, **Raiden heavy rocket**, **Nokizaru marksman**, **Senku medics**, **Saito Togan**, **Yojimbo** and related starter infantry. JSA had strong close-combat potential, but limited gun/long-range response to **Griffin + Black A.I.R.** on a compact board. Yojimbo did manage a high-impact charge but could not reverse the score.
@@ -131,6 +288,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=SUFj6sJath8) · **250pt**, escalation sequel to #218, with two central consoles and four extraction containers.
 
+
+### Army lists and Fireteams — 250pt Kestrel versus Shinden narrative sequel
+
+**Primary evidence:** [GMG Infinity Universe Mission 2](https://www.youtube.com/watch?v=SUFj6sJath8), 250pt list, deployment and first linked movement (~2–10 minutes). **Same players** as #218 with expanded rosters, **not an independent tournament match**.
+
+**Kestrel Colonial Force:**
+- **Squalo Mk II MULTI HMG/NCO**, **Pathfinder Tactical Awareness**, **Tech-Bee and small Squalo-associated tech/repair bot**, **Richard Quinn**, **Black A.I.R. FTO Neurocinetics Sniper**, **Fennec Fusilier FO**, **Fennec Paramedic(s)**, **Machinist + Palbot**, **Griffin HMG**.
+- **Squalo Mk II + Pathfinder Tactical Awareness — Duo of 2, confirmed** in roster reading and first turn; **Tech-Bee, tech/repair bot and Palbot are not additional team bodies**.
+- **Griffin HMG + Fennec Paramedic — Duo of 2, confirmed**, explicitly called a hunter-killer Duo.
+- **Quinn / Black A.I.R. / Fennec supporters** deploy across the same rooftop/ranged defensive area, but **the source does not explicitly certify another Fireteam or its exact size**.
+
+**Shindenbutai:**
+- **Hatamoto Spitfire Lieutenant**, **Nokizaru MULTI Marksman**, **Yojimbo bike**, **Aïda Swanson**, **G-Samurai**, **three Senku**, and hidden or Camo assault pieces.
+- **Hatamoto + G-Samurai — Duo of 2, confirmed:** narrator explicitly describes them as **fire teamed** and both move under the first regular Orders. No four-/five-body group declared.
+- Other Senku and Aïda are **separate list pieces** unless directly shown linked; Hidden Deployment Camo markers are not extra body counts.
+
+**Large-team audit:** **No confirmed four-/five-body Fireteam**. Two Kestrel Duos and one Shinden Duo, plus independent high-value units in this unusual **250pt narrative mission**.
+
+
 - **Observed, Kestrel:** Upgraded to **Squalo Mk II TAG (MULTI HMG, NCO)** alongside a **Pathfinder Tactical Awareness REM**, **Techbot/Pobot**, **Fennec Machinist + armed turret**, **Richard Quinn + Black A.I.R.**, **Fennec FO/Paramedics**, and **Griffin**. **Squalo/Pathfinder extra Orders** widened the mission routes, while the **small TAG-associated crab/Techbot** attempted the actual button/box actions. Those WIP rolls *failed repeatedly*, illustrating that Tactical Awareness does not magically fix low WIP.
 - **Observed, Shinden:** **Hatamoto Spitfire**, **Nokizaru MULTI Marksman**, **Yojimbo bike**, **Aïda Swanson**, **Senku Paramedics**, **G-Samurai** and hidden/camouflage attack pieces attempted to collect data tokens and kill Kestrel scoring pieces. A JSA survivor **activated a console on the last turn** for the single OP; most other mission action routes were suppressed by long-range Kestrel shooting.
 - **Deciding sequence:** **Squalo Mk II** eliminated JSA shooters and the carrier, then could approach/collect one of the boxes. Kestrel scored **one/two box categories, control of an object in its deployment and other transport points** for **4–1**, explicitly announced. The game was not a wipeout: a JSA concealed unit nearly killed Kestrel's engineer and the last console still mattered.
@@ -144,6 +320,26 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 
 [Original report](https://www.youtube.com/watch?v=E8EEDEB9zdQ) · 300 pt · ITS17-era Hardlock. Fast Panda's **automatically translated transcript** severely garbles Chinese/Japanese names; faction and major profile identifications are more reliable than some secondary weapon names.
 
+
+### Army lists and Fireteams — JSA versus White Banner, Hardlock
+
+**Primary evidence:** [Fast Panda full report](https://www.youtube.com/watch?v=E8EEDEB9zdQ), **translated initial ~1–8 minutes** including both roster walk-throughs. The transcript heavily misrenders Japanese/Chinese names, so use **verified weapon/model descriptions** when exact unit spelling is unclear.
+
+**White Banner — visible roster:**
+- **Zhanshi MULTI Marksman Rifle**, **Zhanshi Forward Observer Light Shotgun**, **another Zhanshi basic/standard model**, plus additional supporting Zhanshi figures.
+- **Hac Tao AP HMG** and another **Hac Tao/armored Shotgun** profile (the player explicitly names more than one Hac Tao, though the exact count/profile is caption-dependent).
+- **Rui Shi Spitfire**, **Hùsòng Thunderbolt TR REM**, **Hacker with Pitcher (identity unclear)**, and several Camo markers/repeater assets.
+- **Zhanshi three-model Haris — 3 confirmed**: in the initial deployment the player says **“Haris of the three Zhanshi”**, counts one/two/three and places a **team-leader marker**.
+- The second Hac Tao-like miniature and concealed Camo figures **cannot be added to the Zhanshi Haris** without a separate Fireteam declaration.
+
+**JSA — visible roster:**
+- **Hatamoto Lieutenant with Plasma Carbine and two Lieutenant Orders**; **Shikami**, **Shikari**, **Senku Forward Observer**, **Senku Paramedic**, **Natsuki/Natsu Killer Hacker**, **Lù Duān** Holoecho platform, **Total-Reaction HMG REM**, and additional hidden/impersonation/Camo threats (including an **Oniwaban** later revealed).
+- **No starting named JSA Fireteam** in the accessible opening. **Two Senku** do **not** prove a Duo by themselves. **Lù Duān's Holoechoes** are not three troopers and do not create a Core.
+- The player talks about an **NCO drawing on Hatamoto Lieutenant Orders**. This is **Order economy**, not a Fireteam unless explicitly linked.
+
+**Large-team audit:** **No confirmed four-/five-body starting Fireteam**. **White Banner Zhanshi Haris of three** is clear; JSA formation uncertain. The existing **6–2 score attribution** remains provisional due to translated closing audio.
+
+
 - **Observed, White Banner:** **Hac Tao heavy AP HMG** and another hidden/armored profile, **Rui Shi Spitfire**, **Zhanshi Haris** with marksman/FO or specialist, **Hùsòng-style Total Reaction gun**, **hacker/repeater support** and camouflage markers. The player chose deployment/second-turn positioning to oversee the consoles and hoped to use **Hac Tao** to threaten multiple JSA bodies at once.
 - **Observed, JSA:** **Hatamoto Lt with extra Lieutenant Orders**, **Shikami**, **Oniwaban short-range surprise attacker**, **Natsu-like Killer Hacker**, **Shikari mobile specialist**, **Senku medics**, a total-reaction REM and varied Camo/hidden pieces. The Hatamoto served as a serious reactive and attack anchor; the **Shikami was recovered** and covered the scoring lanes during the comeback. A late JSA assassin **sprinted at the opposing console through several AROs** to preserve/alter scoring.
 - **Deciding sequence:** The participants announce **6–2** at the end. The closing player analysis credits **Shikami's recovery / continued ARO cover**, **Hatamoto firepower**, and the final **assassin console attempt**. A White Banner **Killer Hacker successfully removed opposing hackers but failed the console WIP interaction twice**; the player explicitly says the failed button rolls mattered. The translation makes score attribution imperfect, but the described successful scoring posture favors **JSA**.
@@ -154,6 +350,25 @@ All **ten distinct source videos** in master-index positions **#211–#220** wer
 **Mission lesson:** **Killing the opposing console defender and actually activating the console are different jobs.** Redundant WIP Specialists and an Order reserve beat a late expensive solo rush that fails twice.
 
 ---
+
+## Army-list and Fireteam reconstruction index (#211–#220)
+
+**Method:** Original YouTube transcripts were read for opening army lists and deployment. A unit inside a combat group, a proxy, an Holoecho/Camo marker, a TAG's pilot or Peripheral, and support equipment are **not additional Fireteam members**. A team is **confirmed** when speakers explicitly describe it as linked or make a linked activation; **probable** and **unverified** are not counted as certified starting formations. Fireteam labels and eligibility refer to the **historical game as narrated**, not an N5.3 chart applied retroactively.
+
+| # | Confirmed or observed Fireteam composition | Four-/five-member Fireteam? | Source/format caution |
+|---|---|---|---|
+| **211** | Corregidor **Gator+Wildcat Duo**; **Jazz+Mobile Brigada+Daktari+Alguacil FO four-body link**; ALEPH **two Dakini Duo** played, Maximus/Danavas package partial | **YES — Corregidor 4, type unresolved** | Two tournament-list players in a friendly replay |
+| **212** | Onyx **two Xeodron Duo**, **two Rodok Duo**; IA **Haidào Sniper+Zhanshi Doctor+Zhanshi Haris 3** | **No** | Elite 300pt IA roster and Camo markers |
+| **213** | OSS **two Dakini Duos**, Tunguska **Grenzer Duo**; Perseus/Hollow Man link uncertain | **No** | 4–4 Supremacy; caption confuses Dakini/Deva |
+| **214** | Hassassin **Ghulam Lt+Ghulam Doctor+Ghulam+Barid KHD 4** (label uncertain), **Lasiq/Muyib Duo**; PanO three TAGs unlinked | **YES — Hassassin 4 likely** | Triple-TAG vanilla PanO experiment |
+| **215** | Hassassin **Barid KHD+two Ghulams linked trio**; vanilla Combined Army no narrated Fireteam | **No** | Four Gakis are separate warbands |
+| **216** | Starmada **Shona+Varangian Duo**; Ramah Janissary/Khawarij package uncertain | **No** | Early original-N5 10–1 Mindwipe |
+| **217** | Bakunin **Taskmaster+two Morlocks linked trio** (type uncertain); Tohaa Ectros/Kaeltar/Makaul trio **probable only** | **No** | Chunked translated transcript; admitted console error |
+| **218** | Kestrel **Griffin+Fennec Duo**; Shinden **Hatamoto+Senku pair** | **No** | 200pt narrative, ignored Retreat! |
+| **219** | Kestrel **Squalo+Pathfinder Duo** and **Griffin+Fennec Duo**; Shinden **Hatamoto+G-Samurai Duo** | **No** | 250pt narrative, not ITS |
+| **220** | White Banner **three Zhanshi Haris**; JSA starting links not identified | **No** | Highly translated audio and provisional score |
+
+**Large-team census:** #211 Corregidor **four-body link**, #214 Hassassin **four-model group likely linked**. **No five-body Fireteam conclusively documented for this batch.** The report range includes early-N5 list experiments, non-ITS narrative missions and a conceded Mindwipe rules error: it **cannot be treated as an unbiased Fireteam-frequency dataset**. **#211 and #214** have a reported four-body formation but their exact historical link designation and eligibility should be confirmed from a source Army export before use as a legality example.
 
 ## Cross-report comparison: observed packages, real use, counterplay
 
