@@ -1,6 +1,6 @@
 # Morat Aggression Force — N5 listbuilding and profile selection
 
-**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../list-building/combined-army-must-have-go-to-avoid-transcript-evidence.md).
+**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../../sectorials/combined-army/morat-aggression-forces.md).
 
 _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (transcript reviewed), Tactical Awareness S3E13 (full podcast transcript reviewed), WIP12 E65 (older N4 transcript consulted), Sneaky Snake's MO-versus-Morat matchup (transcript accessible), and official N5.3 update. Tactical views are not rules: confirm exact profiles, cost, AVA, Fireteams and equipment in current Infinity Army before building._
 
