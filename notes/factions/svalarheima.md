@@ -142,6 +142,18 @@ Use support tools for defined jobs:
 
 [Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
 
+## Battle-report-tested Fireteam and army modules (2026-11-03)
+
+The [current SWF Fireteam chart](../../sectorials/panoceania/svalarheima-s-winter-force.md#canonical-fireteam-chart) permits **one Core, two Harises and multiple legal Duos**. The historical reports support **distributed small teams** rather than requiring a five-Fusilier Core.
+
+- **Nisse long-lane and repair Duos — [#012 Talvisota 2025](../battle-reports/011-020-n5-battle-report-tactical-analysis.md):** **Nisse HMG + Uma Sørensen** was a reported attacking Duo; **Nisse MULTI Sniper + WinterFor Machinist/Engineer** a second reactive/recovery Duo. For **current N5.3**, pick **Uma's permitted FTO option**; Machinist is a **Nisse-counting Wildcard**, and the Nisses family needs at least one actual Nisse. The source discusses two related lists; it does **not** establish that every team was deployed simultaneously in every round.
+- **Three-role WinterFor Beta Haris — #012:** **Gunnar FTO + Karhu Paramedic + Bøyg HRL** combines close combat, a mobile specialist/medical route and Albedo/rocket coverage. Use the **current Gunnar FTO Wildcard** and required-choice **Karhu or Bøyg** in the Beta family. This competes for one of SWF's two Haris slots but does not consume a Core.
+- **Varg visibility/midfield Haris — [#182 Critical Intervention](../battle-reports/181-190-n5-battle-report-tactical-analysis.md):** **Varg FO HRL + Varg FO Combi/Disco Baller + Shona Carano** was explicitly reported as a three-model Fireteam. It combines an Albedo/template approach, visibility control and late objective/CC capability. **Shona is a Wildcard**; one native Varg anchors the current Alpha team.
+- **Bulleteer + Knight of Justice Hacker Duo — #182:** explicitly declared, with the REM giving a forward shooting/repeater path and the Knight covering hacking and mission jobs. The current **Bulleteers Duo** has an explicit **Bulleteer minimum**; the Knight of Justice uses its Wildcard access. **Peacemaker + Auxbot**, **Machinist + Palbot** and other support pieces in that report are *not* extra link members.
+- **Unlinked Jotum option:** the same report contrasts the smaller mobile teams with a **Karhu Feuerbach long-gun**, **two Fusiliers including Lt**, **two TR REMs** and independent assault/recovery pieces. This supports the existing **Jotum or Karhu command/gun architecture** as an *alternative* construction, **not** proof that #182 fielded a Jotum.
+
+**Choosing between them:** on specialist-heavy missions, spend a Haris on **Varg/Shona** or **Gunnar/Karhu/Bøyg** and leave a **Nisse ARO Duo** or separate long gun behind. On open tables, two distinct long/short-range teams prevent the army from staking all its Orders on one gun. **#241 WinterFor versus Shindenbutai remains source-inaccessible** and supplies **no verified army list or Fireteam**; do not cite it as a played SWF link.
+
 ## Dissent to remember
 
 1. **Mandatory Jotum?** Swiss Miss S-tier, Lockie WIP12 control-bully; Loss of Lieutenant debates high-B/A due to AP prevalence; Shepherd says skip if ITS17 objectives demand too many specialist Orders. **Test versus mission + anti-armor opposition**.
