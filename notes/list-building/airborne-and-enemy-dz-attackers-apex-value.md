@@ -1,8 +1,23 @@
 # Airborne, Infiltrating and Enemy-DZ Attackers — N5.3 Apex and Value Tiers
 
-**New concrete Corregidor vs Svalarheima DZ walkthrough — [Infinity the Dante, *Drop Troop Tactics* (2026-10-28 transcript audit)](https://www.youtube.com/watch?v=fzvUQPWBQKM):** Source compares **Deepspace Hellcat Paramedic23** (unhackable one-Wound close entry / eliminate Pilot-X), **Surface Bearcat Paramedic27** (NWI/Warhorse but hackable; legal Deployable Repeater) versus **Bearcat KHD29–30** (Cybermask/Trinity/Firewall(-3), *no* Deployable Repeater), **Deepspace Carlota+Moriarty32** (guaranteed legal enemy-**DZ edge** arrival and two-body defensive fork), **Deepspace Tomcat17/19/22** (standard side Parachutist; **often best to wait** until later), and **Meteor19–21** (native Repeater but fragile landing). Priorities: **disable enemy Hacker/network → strip the ARO or Disco Baller → remove key support → stop if the next risky exchange costs more Orders than it opens**. **Major verbal-profile contradiction:** the example has **Hellcat Paramedic deploying Repeaters, but no current Hellcat profile has this equipment**; the 27pt Bearcat Paramedic *does* have DR but **does not have the Adhesive Launcher Rifle** described in another branch (it belongs to the **29pt Bearcat KHD**). This visualized **counterfactual** is useful for choosing delivery patterns, not an Army-legal combined build. [Full profile-checked breakdown](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+**New concrete Corregidor vs Svalarheima DZ walkthrough — [Infinity the Dante, *Drop Troop Tactics* (2026-10-28 transcript audit)](https://www.youtube.com/watch?v=fzvUQPWBQKM):**
 
-**Vanilla O-12 insertion comparisons — [Robert Shepherd's focus (61–65m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=3660s), reviewed 26 Oct 2026:** Presenter calls **Crusher Combat Jump / Parachutist Boarding Shotgun + Panzerfaust 27/0** a strong *practical* mobile strike piece: BS13, Mimetism, W1+NWI/Immunity, **Jet-Propulsion Super-Jump** and **unhackable** attack, rather than pure flashy assassination. **Delta Hacker26/.5** is a legitimate mission specialist and can locally deploy hacking/Targeted for a cheap guided launcher, but the video explicitly treats that as a niche, **not the Vanilla O-12 standard plan**. **Cuervo Goldstein33/0** (MA4, Mono/DA CCW, Combat Jump) remains an intentionally **niche but credible high-value target murderer**, not 'universally bad'; needs safe entry and CC path, cannot push Specialist-only objectives. This qualifies earlier Tactical Awareness's caution about Cuervo, not an unconditional reversal. **No Parachutist (Deployment Zone)** in normal Vanilla O-12 was a stated faction gap; ordinary Parachutist/Combat Jump does **not** equal enemy-DZ guaranteed insertion.
+- Source compares:
+  - **Deepspace Hellcat Paramedic23** (unhackable one-Wound close entry / eliminate Pilot-X)
+  - **Surface Bearcat Paramedic27** (NWI/Warhorse but hackable; legal Deployable Repeater) versus **Bearcat KHD29–30** (Cybermask/Trinity/Firewall(-3), *no* Deployable Repeater)
+  - **Deepspace Carlota+Moriarty32** (guaranteed legal enemy-**DZ edge** arrival and two-body defensive fork)
+  - **Deepspace Tomcat17/19/22** (standard side Parachutist; **often best to wait** until later)
+  - **Meteor19–21** (native Repeater but fragile landing).
+
+Priorities: **disable enemy Hacker/network → strip the ARO or Disco Baller → remove key support → stop if the next risky exchange costs more Orders than it opens**. **Major verbal-profile contradiction:** the example has **Hellcat Paramedic deploying Repeaters, but no current Hellcat profile has this equipment**; the 27pt Bearcat Paramedic *does* have DR but **does not have the Adhesive Launcher Rifle** described in another branch (it belongs to the **29pt Bearcat KHD**). This visualized **counterfactual** is useful for choosing delivery patterns, not an Army-legal combined build. [Full profile-checked breakdown](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+
+**Vanilla O-12 insertion comparisons — [Robert Shepherd's focus (61–65m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=3660s), reviewed 26 Oct 2026:**
+
+- Presenter calls **Crusher Combat Jump / Parachutist Boarding Shotgun + Panzerfaust 27/0** a strong *practical* mobile strike piece: BS13, Mimetism, W1+NWI/Immunity, **Jet-Propulsion Super-Jump** and **unhackable** attack, rather than pure flashy assassination.
+- **Delta Hacker26/.5** is a legitimate mission specialist and can locally deploy hacking/Targeted for a cheap guided launcher, but the video explicitly treats that as a niche, **not the Vanilla O-12 standard plan**.
+- **Cuervo Goldstein33/0** (MA4, Mono/DA CCW, Combat Jump) remains an intentionally **niche but credible high-value target murderer**, not 'universally bad'; needs safe entry and CC path, cannot push Specialist-only objectives.
+
+This qualifies earlier Tactical Awareness's caution about Cuervo, not an unconditional reversal. **No Parachutist (Deployment Zone)** in normal Vanilla O-12 was a stated faction gap; ordinary Parachutist/Combat Jump does **not** equal enemy-DZ guaranteed insertion.
 
 _Reviewed 2026-10-23. **Tactical opinion, not observed win rates or a universal kill probability.** Profile prices/permissions from the **pinned September 2026 N5.3 Army roster references**, not an older video. Rules from [Combat Jump](../../rules/5b_Special%20Skills/Combat_Jump.md), [Parachutist](../../rules/5b_Special%20Skills/Parachutist.md), [Infiltration](../../rules/5b_Special%20Skills/Infiltration.md) and [Loss of Lieutenant](../../rules/1_Basic%20Rules/Loss_of_Lieutenant.md). A current sectorial roster's profile/Fireteam chart overrides a Vanilla example. Opposing expert opinions below are **not overwritten or averaged**._
 
@@ -103,7 +118,18 @@ This is a **decision framework**—no calibrated dice matchups or numeric casual
 | **A** | **Bearcat Paramedic27/0, Engineer28/0, KHD29–30/0 — Nomads/CJC Surface** | NWI/Warhorse/BS13, AD and specialist anti-hacker/medical/technical fork; better survivor than basic Hellcat. | 27+ points, 1W+NWI (not true 2W), actual Surface-vs-Deepspace access is **exclusive**. |
 | **A** | **Crusher BSG+Panzerfaust27/0 — O-12** | **FD+20 alternative25** or **Combat Jump27** on different options; NWI, Mimetism(-3), FO and burst/short-range fighting. | 27pt combat-jump version isn't the **FD+20** model. |
 
-**Rosters differ:** cheap 6pt Yuan Yuan is validated from **Druze** (not a blanket availability statement); **Gao-Tarsos** is Tohaa, **Nahab** is Ramah, **Blade** current NCA/WhiteCo, **Echo-Bravo** Varuna, **Initiated** Bakunin, **Kazak Spetsnaz** TAK, and **Cube Jäger** WhiteCo. Current profile/sectorial Fireteam overrides names and historic links.
+**Rosters differ:**
+
+- cheap 6pt Yuan Yuan is validated from **Druze** (not a blanket availability statement)
+- **Gao-Tarsos** is Tohaa
+- **Nahab** is Ramah
+- **Blade** current NCA/WhiteCo
+- **Echo-Bravo** Varuna
+- **Initiated** Bakunin
+- **Kazak Spetsnaz** TAK
+- **Cube Jäger** WhiteCo.
+
+Current profile/sectorial Fireteam overrides names and historic links.
 
 **Apex ≠ budget:** 60pt Mirage or 64pt Caskuda can kill more absolute value than Bashi12/Fiday23, but *net trade* often improves by **buying a second independent attacker and 2–3 extra Orders** instead. Do not grade each by pure points killed on a lone successful strike.
 
@@ -198,7 +224,11 @@ A fair comparison includes **(1) opportunity to deploy, (2) legal landing/deploy
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed high-value arrivals:** #231's **Jamie Arantes Parachutist + Moonraker flank** entered Shasvastii's rear, threatened Med-Tech/EVO and denied far Battleground band scoring; #158's **Banshee Hacker** pressured Suppressive **Achilles**, enabling **Redeye** to finish it; #166's winner alternated a **Raoul Spector/Mary Problems** strike list with defensive Hollow Men/Cyclone setups. [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) · [#158](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+**Observed high-value arrivals:**
+
+- #231's **Jamie Arantes Parachutist + Moonraker flank** entered Shasvastii's rear, threatened Med-Tech/EVO and denied far Battleground band scoring
+- #158's **Banshee Hacker** pressured Suppressive **Achilles**, enabling **Redeye** to finish it
+- #166's winner alternated a **Raoul Spector/Mary Problems** strike list with defensive Hollow Men/Cyclone setups. [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) · [#158](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
 
 **Arrival tax:** #005's **Redeye** standalone alpha burned Orders for little result; #223's **Van Zant** arrived and killed Voronin but failed to finish a Corporate Appropriation object after mines/defense had taxed the route. [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#223](../battle-reports/221-230-n5-battle-report-tactical-analysis.md). Ask what *specific* high-value support must die, what entry lanes are screened, and how many Orders remain to **score or escape**. A prestigious drop model is not automatic value if it merely draws attention.
 

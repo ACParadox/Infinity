@@ -1,6 +1,13 @@
 # Active-Turn Gunfighters — N5.3 Apex and Points-Value Tier Guide
 
-**New source disagreement — Vanilla O-12 (26 Oct 2026):** [Robert Shepherd's O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1920s) explicitly makes **Gamma HMG50** his primary gun and fighting LT: BS14, +1B, Warhorse/NWI and relatively low 50pt cost; a 14pt Ment insures LT. **Zeta Lt70/2** shares the fundamental BS/Burst but earns its **20pt premium only when Climbing Plus, AP HRMC or deployable ZetBot creates additional angles/scoring**; otherwise Gamma is easier to fund. He also **positively recommends Epsilon HMG34/1.5 + Regular PH14 Varangian Smoke** to beat TR bots and Mimetic defenders despite Epsilon's W1 fragility, unlike more anti-Epsilon Tactical Awareness views. Omega HMG42 is a viable Mimetism(-6) companion (Oko TA18 Duo, or Vidocq 15+19 Haris), **Nimrod FTO Thunderbolt28/.5** can smoke-shoot paired with Ioann Bann32, and a **Wrecker is not his favored Vanilla gun**, although earlier TAG panel reviews rate Wrecker's TacAware/mission value. This source is **conditional faction build advice**, not a global apex re-grade.
+**New source disagreement — Vanilla O-12 (26 Oct 2026):**
+
+- [Robert Shepherd's O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1920s) explicitly makes **Gamma HMG50** his primary gun and fighting LT: BS14, +1B, Warhorse/NWI and relatively low 50pt cost; a 14pt Ment insures LT.
+- **Zeta Lt70/2** shares the fundamental BS/Burst but earns its **20pt premium only when Climbing Plus, AP HRMC or deployable ZetBot creates additional angles/scoring**; otherwise Gamma is easier to fund.
+- He also **positively recommends Epsilon HMG34/1.5 + Regular PH14 Varangian Smoke** to beat TR bots and Mimetic defenders despite Epsilon's W1 fragility, unlike more anti-Epsilon Tactical Awareness views.
+- Omega HMG42 is a viable Mimetism(-6) companion (Oko TA18 Duo, or Vidocq 15+19 Haris), **Nimrod FTO Thunderbolt28/.5** can smoke-shoot paired with Ioann Bann32, and a **Wrecker is not his favored Vanilla gun**, although earlier TAG panel reviews rate Wrecker's TacAware/mission value.
+
+This source is **conditional faction build advice**, not a global apex re-grade.
 
 _Updated 2026-10-23. Cross-faction **editorial, conditional** ratings, not official unit grades, measured tournament win rates, or simulated damage statistics. Current profile/points/AVA/Fireteam authority: September 2026 pinned Army references in [sectorials](../../sectorials); [N5.3 rules and FAQ](../../rules/README.md) supersede historical commentary. Prices shown are examples of a **specific profile in a specific legal roster**. A unit may rank S for peak impact and B for value._
 
@@ -195,7 +202,13 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Mission-adjusted gun value, not kills-only:** #169's **Hidden Swiss Guard HMG + Joan/Helot screen** succeeded by selectively removing defenders while keeping a viable mission floor; #003–#004's **Griffin/Hetkari** attacks required earlier repeater/vision clearance. By contrast #005's **Redeye** wasted an early Order pool into Q-Drone; #231's **Sphinx** killed ~four targets in ~9–10 Orders and still lost the Battleground objective; #214's **triple PanO TAGs** shot well but lost on Classified OP. These are specific games, not a universal tier revision. [#002–#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+**Mission-adjusted gun value, not kills-only:**
+
+- #169's **Hidden Swiss Guard HMG + Joan/Helot screen** succeeded by selectively removing defenders while keeping a viable mission floor; #003–#004's **Griffin/Hetkari** attacks required earlier repeater/vision clearance.
+- By contrast #005's **Redeye** wasted an early Order pool into Q-Drone
+- #231's **Sphinx** killed ~four targets in ~9–10 Orders and still lost the Battleground objective; #214's **triple PanO TAGs** shot well but lost on Classified OP.
+
+These are specific games, not a universal tier revision. [#002–#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Evaluation checkpoint:** Count defender/Order/console access removed **per attack Order**, remaining own **Specialists and scoring Orders**, vulnerability to counter-hacking/edge strikes, and whether an equally priced flexible attack would do more. A high-ceiling unit can be *good at fighting* and still be the wrong purchase or selection for a specific mission.
 
