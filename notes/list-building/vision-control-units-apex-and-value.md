@@ -18,12 +18,22 @@ _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates
 
 ## 30-second verdict
 
-- **Best repeatable Eclipse/vision-control engine:** **Tohaa Kriigel Mirrorball (21/.5)**; **Taqeul (35–36/0)** brings durable command/Pheroware alternatives. **Mirrorball** projects without LoF inside ZoC, unlike the disposable, ballistic Disco Baller.
+- **Best repeatable Eclipse/vision-control engine:**
+  - **Tohaa Kriigel Mirrorball (21/.5)**
+  - **Taqeul (35–36/0)** brings durable command/Pheroware alternatives.
+  - **Mirrorball** projects without LoF inside ZoC, unlike the disposable, ballistic Disco Baller.
 - **Best cheap all-round Disco Baller:** **Kestrel Fennec FO + Sensor + Disco, 13/0**. Cheap Regular Fireteam body, sensor and scoring; this is not a standalone duelist. **Best cheap linked melee-delivery Disco:** **Ōban Tankō 19/0** with Deactivator, Blitzen and monofilament CC weapon.
-- **Best cheap Eclipse:** **Tohaa Makaul HFT/Eclipse 14/0** for a Triad; **Bakunin Chimera + three Pupniks 19/0** for a much more aggressive, independent close-assault/fork package. **Steel Phalanx Myrmidon Officer** is the premium Eclipse/CoC version.
+- **Best cheap Eclipse:**
+  - **Tohaa Makaul HFT/Eclipse 14/0** for a Triad
+  - **Bakunin Chimera + three Pupniks 19/0** for a much more aggressive, independent close-assault/fork package.
+  - **Steel Phalanx Myrmidon Officer** is the premium Eclipse/CoC version.
 - **Best repeatable cheap normal Smoke:** **6pt Morlock**, **5pt Galwegian/Shaolin/Ghazi** where the *selected profile* actually has Smoke; **Regular** Dāturazi 14/0, Jaguar 10/0 and Varangian 10–12/0 are often better for the whole Order pool.
 - **Best cheap White Noise:** **Interventor HD+ (Tunguska, 18–23/.5)**, **Uhahu HD+ (Bakunin, 19/.5)** and **Jazz FTO 22/.5 or Jazz+Billie 25/.5 (Corregidor)** when a useful Repeater/Pitcher network exists. **Best ceiling** is a hacker *plus actual network and attacking follow-up*, not WIP alone.
-- **Strongest vision-control kill packages:** **Dāturazi Smoke + Yaogat/Vector/Charontid**, **Jaguar Smoke + Intruder MSV2**, **Myrmidon/Penthesilea Smoke + Marut MSV2**, **Yojimbo Smoke + Rui Shi MSV2**. Rankings of *enablers* below do not silently credit them with a second model's gun.
+- **Strongest vision-control kill packages:**
+  - **Dāturazi Smoke + Yaogat/Vector/Charontid**
+  - **Jaguar Smoke + Intruder MSV2**
+  - **Myrmidon/Penthesilea Smoke + Marut MSV2**
+  - **Yojimbo Smoke + Rui Shi MSV2**. Rankings of *enablers* below do not silently credit them with a second model's gun.
 
 ## What the effects actually do
 

@@ -13,9 +13,19 @@
 
 ## Quick decisions
 
-- **Peak gun / apex:** **Skyhound** (33/0, plasma/AP Thunderbolt/mine + BS14/Mimetism -6), **Tarkshya** (34–41, MSV1 + Mimetism -6 + 3 STR + surviving Operator), **Redeye** (37–38, BS14/ARM6/Mimetism -6 + Sensor and Spitfire), **Zeybek** (33, AP Spitfire/Albedo/Smoke and post-shell Operator). *Which dominates depends on targets, MSV, terrain, and whether the faction can clear hard AROs.*
-- **Best rate / cost:** **Skyhound 33/0**, **Tarkshya 34/0**, **Firebat 35–36/0**. Free SWC and highly distinct utility make these easier to fit beside a real heavy long-range gun. Skyhound is less automatic in **Next Wave** because its army has expensive support bodies.
-- **Most useful situational buys:** **Fēiquán 28/0** for an aerial Pitcher + Sensor + E/M network, **Haytham 29/0** for cheap flanking (or 33/1.5 for better independent shooting), **Go-Pod 33/0** for peripheral fork without SWC (32/1.5 rocket for higher attack potential).
+- **Peak gun / apex:**
+  - **Skyhound** (33/0, plasma/AP Thunderbolt/mine + BS14/Mimetism -6)
+  - **Tarkshya** (34–41, MSV1 + Mimetism -6 + 3 STR + surviving Operator)
+  - **Redeye** (37–38, BS14/ARM6/Mimetism -6 + Sensor and Spitfire)
+  - **Zeybek** (33, AP Spitfire/Albedo/Smoke and post-shell Operator). *Which dominates depends on targets, MSV, terrain, and whether the faction can clear hard AROs.*
+- **Best rate / cost:**
+  - **Skyhound 33/0**
+  - **Tarkshya 34/0**
+  - **Firebat 35–36/0**. Free SWC and highly distinct utility make these easier to fit beside a real heavy long-range gun. Skyhound is less automatic in **Next Wave** because its army has expensive support bodies.
+- **Most useful situational buys:**
+  - **Fēiquán 28/0** for an aerial Pitcher + Sensor + E/M network
+  - **Haytham 29/0** for cheap flanking (or 33/1.5 for better independent shooting)
+  - **Go-Pod 33/0** for peripheral fork without SWC (32/1.5 rocket for higher attack potential).
 - **Main cost isn't points alone:** **S7 + No Cover + Hackable + no direct contact repair**, plus sometimes **1.5 SWC** for a weapon that cannot solve a hard entrenched ARO. Take a VH to exploit or create an *angle*, not to imitate a TAG's armored frontal assault.
 
 ## Tier definitions
