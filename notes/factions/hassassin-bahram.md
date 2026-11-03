@@ -19,8 +19,14 @@
 | **Top 5 candidate — zero-SWC enemy-DZ pressure (apex/value)** | **Fiday Boarding Shotgun 23/0** | **S-tier** Impersonation/Smoke/close attack; **Hussein Al-Djabel 33/0** is a pricier Viral CC alternative, not the same value proposition. |
 | **Top 5 candidate — CoC plus midfield scoring (value)** | **Farzan CoC 24/0** | **S command apex / A+ value**: Camouflage, Infiltration and succession for +2 points over the *separate* FO22. Keep the sole insurance alive. |
 | **Top 10 candidate — frontline combat Doctor (apex)** | **Asawira Doctor(+3) 35–37/0** | **A+ specialist apex** combines 2W, strong combat, recovery and scoring; not as cost-efficient for backfield healing as Ghulam15. |
+| **Top 10 candidate — concealed BS-mod-stack ambush (apex/value)** | **Nadhir Thunderbolt 26/0; AP Marksman Rifle 26/.5** | [BS-mod analysis](../list-building/bs-mod-stacking-units-apex-and-value.md): **A+ / A+**; Hidden, Mimetism(-6), FD(+10) and efficient first shots. BS12/W1 and midrange bands limit sustained gunfights. |
+| **Top 10 candidate — premium Viral Impersonation assassin (apex)** | **Hussein Al-Djabel 33/0** | [Airborne/assassination guide](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): **A+** WIP15 Impersonation, MA4/CC23, Viral CC, Smoke, Climbing Plus. Better for certain premium targets, less cost-efficient than the 23pt Fiday in many trades. |
+| **Top 10 candidate — heavy concealed ARO (apex)** | **Sunduqbut Neuro Feuerbach 47/1.5** | **A+** in the [ARO ranking](../list-building/aro-units-apex-and-value.md): one-use Camouflage, Decoy, sturdy Remote Presence and strong ranged deterrence. **Camo is not Hidden Deployment**; 47pt/1.5 SWC is expensive. |
+| **Top 10 candidate — repeat-trading Smoke/CC warband (apex)** | **McMurrough 23/0** | [Warband](../list-building/warbands-and-cheap-trading-units-apex-value.md) and [CC](../list-building/dedicated-close-combat-assassins-apex-value.md) guides: **S/A**; 2W, Smoke, PH16, Chain (+1B), Grenades and AP+DA CC. Irregular/Impetuous S6 is difficult to deliver. |
+| **A+ airborne value — low-cost Combat Jump gun/Hacker (unranked globally)** | **Ragik BSG (+1B) 23/0; HD 25/.5** | [Airborne ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): Dogged close attack or WIP15 hacking; cheaper and more disposable than Bokhtar. |
 
 **Other notable pieces, without forced global ranks:**
+- **Leila Sharif KHD 22/0:** [S points-value anti-hacker](../list-building/hackers-and-killer-hackers.md) with Firewall(-3), Carbonite and legal Wildcard access; pricier than Barid but handles other kinds of targets.
 - **Áyyār:** expensive Hidden/Holoprojector/Triangulated Fire toolbox.
 - **Sunduqbut and Nadhir:** different concealed defensive threats.
 - **Lasiq Viral Sniper 25/1:** A-tier ARO when Viral and the legal team matter.

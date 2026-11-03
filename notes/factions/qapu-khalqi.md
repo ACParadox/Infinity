@@ -18,6 +18,11 @@
 | **Top 5 candidate — budget Chain of Command (value)** | **Hafza CoC 20/0** | **S command value**: Holomask and broad legal Wildcard use hide the succession piece. Distinct from the LT option. |
 | **Top 10 candidate — cheap LT Order economy (value)** | **Hafza LT(+1 Order) 19/0** | **A+ command value** with Holomask plus a **Sekban NCO** outlet; less army-wide power than Saladin. |
 | **Top 10 candidate — linkable Eclipse/mission utility (value)** | **Odalisque Disco 21/0** | NWI, Sixth Sense, Combat Instinct and mobility make projected Eclipse attractive at zero SWC. **Viral MMR/Marksmanship 26/0** and **Paramedic 21/0** are different Odalisque profiles. |
+| **Top 5 candidate — non-TAG anti-armor gun (apex)** | **Azra'il AP HMG 37/1.5; Feuerbach (+1B) 41/1.5** | [Anti-armor guide](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md): both **S** for sustained anti-heavy fights. QK's required-choice Fireteam permits Azra'il; S5, 1.5 SWC and deployment still matter. |
+| **Top 10 candidate — linked E/M indirect-fire module (value)** | **Druze GL + E/M GL 24/1** | [Indirect-fire guide](../list-building/indirect-fire-speculative-guided-apex-value.md): **A / A+** off-angle pressure. A legal team, useful range and adequate Orders are required; not inherently Guided. |
+| **Top 10 candidate — utility KHD Wildcard (value)** | **Leila Sharif KHD 22/0** | **S value** in the [hacker ranking](../list-building/hackers-and-killer-hackers.md): WIP14, Firewall(-3), Carbonite, Combat Instinct, QK Wildcard counts-as Ghulam. Does not have HD+ White Noise. |
+| **Top 10 candidate — 13pt mobile Sensor/FO (value)** | **Rafiq 13/0** | **S anti-tech utility** in the [Sensor comparison](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md). This Repeater/FO/Triangulated Fire profile is **not** the separately purchased **19/.5 FTO Wildcard Red Fury**; AVA1. |
+| **A-tier infiltrating mission Hacker (unranked globally)** | **Al Hawwa' FO 19/0; KHD 22/0** | [KHD comparison](../list-building/hackers-and-killer-hackers.md): the 22pt infiltrating KHD puts anti-hacker/scoring duty near an objective; the distinct 19pt FO saves Orders on a different mission. |
 
 **Other unusually synergistic profiles, without forced ranks:**
 - **Laxmee HD+ 24/.5:** Pitcher, White Noise and Wildcard network utility.
