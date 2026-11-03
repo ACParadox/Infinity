@@ -97,7 +97,12 @@ _Compare against a legal cheaper alternative in the **same faction**, not just a
 - **FT Master is bracket-unit sensitive:** Kestrel Master (Jackals) dying can break that dependent team. Check whether a given Fireteam is still legal and Regular in the next Tactical Phase.
 - **Strategic Deployment's +8″** needs true scenario/tournament FD(+4″), not a friendly model simply possessing FD.
 
-**Additional exact current profiles:** White Banner **Jing Qo32/0 FT Master(Shaolin)** gives a cheaper-Warband conversion team without making Shaolin universally Regular; Tunguska **Puppet Master11/0** has Counterintelligence even if no PuppetBots are bought (PuppetBots still need the Master and their own costs); Tohaa **Taagma15/0** has Counterintelligence+Holomask, while its **22/1.5 MSV2 Viral Sniper** is a different *combat* profile; TAK **Voronin LT22/0** has Counterintelligence/Sensor/Guard but *not* Strategos in the current TAK roster.\n\n## Actual debate from YouTube and podcast **MCP transcripts reviewed**
+**Additional exact current profiles:**
+
+- White Banner **Jing Qo32/0 FT Master(Shaolin)** gives a cheaper-Warband conversion team without making Shaolin universally Regular
+- Tunguska **Puppet Master11/0** has Counterintelligence even if no PuppetBots are bought (PuppetBots still need the Master and their own costs)
+- Tohaa **Taagma15/0** has Counterintelligence+Holomask, while its **22/1.5 MSV2 Viral Sniper** is a different *combat* profile
+- TAK **Voronin LT22/0** has Counterintelligence/Sensor/Guard but *not* Strategos in the current TAK roster.\n\n## Actual debate from YouTube and podcast **MCP transcripts reviewed**
 
 | Evidence (link) | Position **for** | Counterargument / how to decide |
 |---|---|---|

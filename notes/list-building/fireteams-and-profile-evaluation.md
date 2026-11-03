@@ -499,7 +499,14 @@ The advanced Fireteam player is not the player who preserves the link longest. I
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed functional mixed-role teams:** **Torchlight SilverStar/Jackboot gun + Wave Rider Hacker + Hellblazer/Cludger** (#014, #231); **Tunguska Perseus + Hollow Man Hacker/TinBot** with **Kulak KHD/Cybermines** nearby (#197); **Hassassin Asawira/Muyib Doctor/Govad KHD** in #205's played build; **Bakunin Cenobite HRL/Penitent/Orphan Engineer** (#208). Each combines **attack, protection, special mission abilities and recovery** instead of only Burst. Reports across older Army versions do **not prove** the same current legal formation. [#014](../battle-reports/011-020-n5-battle-report-tactical-analysis.md) · [#197](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#205, #208](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+**Observed functional mixed-role teams:**
+
+- **Torchlight SilverStar/Jackboot gun + Wave Rider Hacker + Hellblazer/Cludger** (#014, #231)
+- **Tunguska Perseus + Hollow Man Hacker/TinBot** with **Kulak KHD/Cybermines** nearby (#197)
+- **Hassassin Asawira/Muyib Doctor/Govad KHD** in #205's played build
+- **Bakunin Cenobite HRL/Penitent/Orphan Engineer** (#208).
+
+Each combines **attack, protection, special mission abilities and recovery** instead of only Burst. Reports across older Army versions do **not prove** the same current legal formation. [#014](../battle-reports/011-020-n5-battle-report-tactical-analysis.md) · [#197](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#205, #208](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **When it fails:** #056 and #197 illustrate Pitcher/Oblivion/Cybermine stopping premium HI; #233 shows linked rocket fire punishing exposed defenders; #208's result is Order-count disputed. **Never treat a tactical link named in a report as legal in N5.3** without checking `sectorials/...## Fireteams`. Compare one link carrying every Specialist against a link that clears space for **two independent objective runners**.
 

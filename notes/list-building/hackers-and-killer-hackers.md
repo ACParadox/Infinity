@@ -1,6 +1,15 @@
 # Hackers, Killer Hackers and hybrid programs — N5.3 cross-faction tier guide
 
-**O-12 device value and vulnerability — [Robert Shepherd's 2026 Vanilla focus (25–28m, 63–71m, 79–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s):** **Kappa HD13/.5** is a good **minimum viable regular Hacker** to make native Repeaters threaten HI/REM; **Cyberghost HD+21/.5** provides essential **White Noise at WIP14**, with a **BS11 Pitcher** that should not be presumed to land reliably without setup. A **Razor HD34/.5 with Trinity upgrade** is interesting precisely because it combines Hidden Deployment/Infiltration with a standard HD capable of an anti-Hacker program; **Razor FO29** is often the safer scoring choice when another Hacker already exists. The video **disfavors Team Sirius Hacker24/.5**: its **BTS0 W1 controller** becomes a straightforward enemy-KHD target, risking both controller and SiriusBot. **Sirius FO21** preserves a less exposed scoring/Repeater-defence package. This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; source is **one presenter's conditional advice**, not a revised legality fact.
+**O-12 device value and vulnerability — [Robert Shepherd's 2026 Vanilla focus (25–28m, 63–71m, 79–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s):**
+
+- **Kappa HD13/.5** is a good **minimum viable regular Hacker** to make native Repeaters threaten HI/REM
+- **Cyberghost HD+21/.5** provides essential **White Noise at WIP14**, with a **BS11 Pitcher** that should not be presumed to land reliably without setup.
+- A **Razor HD34/.5 with Trinity upgrade** is interesting precisely because it combines Hidden Deployment/Infiltration with a standard HD capable of an anti-Hacker program
+- **Razor FO29** is often the safer scoring choice when another Hacker already exists.
+- The video **disfavors Team Sirius Hacker24/.5**: its **BTS0 W1 controller** becomes a straightforward enemy-KHD target, risking both controller and SiriusBot.
+- **Sirius FO21** preserves a less exposed scoring/Repeater-defence package.
+
+This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; source is **one presenter's conditional advice**, not a revised legality fact.
 
 **Projection companion:** [N5.3 Network Projection apex/value — Pitchers, Repeaters, TinBots, fast/airborne carriers](network-projection-repeaters-pitchers-apex-value.md). This page ranks the actual **Hackers and programs**; the linked guide ranks **how to deliver Hacking Area** and whether a 10–22pt projector, 7pt native bot or Turn-0 Infiltration node is worth the setup Orders and danger.
 
@@ -34,7 +43,12 @@
 | **KHD + White Noise** | KHD suite + White Noise | Anti-Hacker and anti-MSV tool at **0 SWC** in an attack link | No automatic Carbonite/Oblivion; if no opposing MSV, White Noise is low value |
 | **EVO** | Assisted Fire, Enhanced Reaction, Fairy Dust, Controlled Jump | REM combat buffs, HI/REM/TAG/VH firewall coverage, Combat Jump support | Not a substitute for HD/KHD; one lonely REM rarely supports the tax |
 
-**Critical September-2026 N5.3 points:** **Spotlight** is **B2, PS5, AP, nonlethal**, giving Targeted on a failed Saving Roll; it is **not an automatic Targeted effect**. **Trinity** is **B3, WIP +3, PS6** versus an enemy **Hacker** and can wound; in reactive use follow the program/Burst rules and any **+SD** printed on a troop. **Firewall** imposes the stated negative **WIP** MOD on the Comms attacker and grants the defended Trooper **+3 on Comms Saving Rolls**; its saving bonus is **+3 even for Firewall(-6)**. Device-based Firewall stops applying if the device is disabled as specified in the Sep 2026 FAQ. A **TinBot**'s Fireteam benefits depend on precise current rules and the roster's legal team, not being nearby. Source: [N5.3 official Hacking Device](https://infinitythewiki.com/Hacking_Device), [Firewall](https://infinitythewiki.com/Firewall), [program chart](https://infinitythewiki.com/Hacking_Programs_Chart), [Spotlight](https://infinitythewiki.com/Spotlight), plus repository `rules/`. Do not repeat historical “Firewall reduces damage by -3” or old “Spotlight requires no save” summaries.
+**Critical September-2026 N5.3 points:**
+
+- **Spotlight** is **B2, PS5, AP, nonlethal**, giving Targeted on a failed Saving Roll; it is **not an automatic Targeted effect**.
+- **Trinity** is **B3, WIP +3, PS6** versus an enemy **Hacker** and can wound; in reactive use follow the program/Burst rules and any **+SD** printed on a troop.
+
+**Firewall** imposes the stated negative **WIP** MOD on the Comms attacker and grants the defended Trooper **+3 on Comms Saving Rolls**; its saving bonus is **+3 even for Firewall(-6)**. Device-based Firewall stops applying if the device is disabled as specified in the Sep 2026 FAQ. A **TinBot**'s Fireteam benefits depend on precise current rules and the roster's legal team, not being nearby. Source: [N5.3 official Hacking Device](https://infinitythewiki.com/Hacking_Device), [Firewall](https://infinitythewiki.com/Firewall), [program chart](https://infinitythewiki.com/Hacking_Programs_Chart), [Spotlight](https://infinitythewiki.com/Spotlight), plus repository `rules/`. Do not repeat historical “Firewall reduces damage by -3” or old “Spotlight requires no save” summaries.
 
 ## Two global tiers — strongest profiles and best value
 
