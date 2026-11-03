@@ -4,7 +4,8 @@
 
 - Source compares:
   - **Deepspace Hellcat Paramedic23** (unhackable one-Wound close entry / eliminate Pilot-X)
-  - **Surface Bearcat Paramedic27** (NWI/Warhorse but hackable; legal Deployable Repeater) versus **Bearcat KHD29–30** (Cybermask/Trinity/Firewall(-3), *no* Deployable Repeater)
+  - **Surface Bearcat Paramedic27:** NWI/Warhorse but hackable; has a legal Deployable Repeater.
+  - **Surface Bearcat KHD29–30:** Cybermask/Trinity/Firewall(-3); *does not* have a Deployable Repeater. This is an alternative profile, not an additional capability on the Paramedic.
   - **Deepspace Carlota+Moriarty32** (guaranteed legal enemy-**DZ edge** arrival and two-body defensive fork)
   - **Deepspace Tomcat17/19/22** (standard side Parachutist; **often best to wait** until later)
   - **Meteor19–21** (native Repeater but fragile landing).

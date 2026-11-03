@@ -5,7 +5,9 @@
 - [Robert Shepherd's O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1920s) explicitly makes **Gamma HMG50** his primary gun and fighting LT: BS14, +1B, Warhorse/NWI and relatively low 50pt cost; a 14pt Ment insures LT.
 - **Zeta Lt70/2** shares the fundamental BS/Burst but earns its **20pt premium only when Climbing Plus, AP HRMC or deployable ZetBot creates additional angles/scoring**; otherwise Gamma is easier to fund.
 - He also **positively recommends Epsilon HMG34/1.5 + Regular PH14 Varangian Smoke** to beat TR bots and Mimetic defenders despite Epsilon's W1 fragility, unlike more anti-Epsilon Tactical Awareness views.
-- Omega HMG42 is a viable Mimetism(-6) companion (Oko TA18 Duo, or Vidocq 15+19 Haris), **Nimrod FTO Thunderbolt28/.5** can smoke-shoot paired with Ioann Bann32, and a **Wrecker is not his favored Vanilla gun**, although earlier TAG panel reviews rate Wrecker's TacAware/mission value.
+- **Omega HMG42:** viable Mimetism(-6) companion with **Oko TA18 Duo** or **Vidocq 15+19 Haris**.
+- **Nimrod FTO Thunderbolt28/.5:** can shoot through Smoke with **Ioann Bann32** as its partner.
+- **Wrecker:** not this presenter's favored Vanilla gun, although earlier TAG panel reviews value Wrecker's Tactical Awareness and mission utility.
 
 This source is **conditional faction build advice**, not a global apex re-grade.
 
@@ -113,12 +115,52 @@ Includes infantry, REMs and **VH aerial craft** (not TAGs). VH's **No Cover** an
   - **Territorial AP MMR**
   - *Context:* or a justified **Assisted Fire REM**.
   - **Mk.4** instead imposes BS Attack(−3) on the defender; don't conflate the two effects.
-- **Mimetism−6 / smoke ARO:** **Asura, Intruder, Nisse, Hsien, Epsilon**, or **MSV2 Mukhtar**. The visor may be countered by White Noise/Albedo; plan a separate gun.
-- **HI/TAG in high ARM:** **Veteran Kazak AP HMG, Asawira AP Spitfire, Hatamoto's close-range alternate**, or switch to a **TAG with AP HRMC/MULTI**; pure high Burst without penetration may not finish.
-- **Hidden ARO first-contact:** **Swiss/Hac Tao**, **Camo Spetsnaz**, cheap expendable probe, guided/indirect setup, or a model that can approach behind smoke; don't feed your biggest body untested.
-- **Midfield heavy Cover/short corners:** **Sheskiin, Mukhtar, Asawira BSG, Hatamoto, Vostok Mk12** can move and clear in fewer Orders than walking an HMG into 8in.
-- **Open long firefight:** **Kriza, Gamma, Hac Tao, Swiss, Spetsnaz, Hsien** exploit HMG bands; don't force Red Fury/Spitfire outside their positive range.
-- **High vertical/weak hacking net:** **Skyhound, Firebat, Redeye, Vostok**; if terrain is flat and hacker coverage dense, favor a grounded shooter with better Cover/recovery.
+- **Mimetism−6 / Smoke ARO:** consider the following visor attackers:
+  - **Asura**
+  - **Intruder**
+  - **Nisse**
+  - **Hsien**
+  - **Epsilon**
+  - **MSV2 Mukhtar**
+
+  The visor may be countered by White Noise/Albedo; plan a separate gun.
+- **HI/TAG in high ARM:**
+  - **Veteran Kazak AP HMG**
+  - **Asawira AP Spitfire**
+  - **Hatamoto's close-range alternate**
+  - **TAG with AP HRMC/MULTI**, if the list can support one
+
+  Pure high Burst without penetration may not finish.
+- **Hidden ARO first-contact:**
+  - **Swiss Guard / Hac Tao**
+  - **Camouflaged Spetsnaz**
+  - **Cheap expendable probe**
+  - **Guided/indirect setup**, where available
+  - **An attacker approaching behind Smoke**
+
+  Do not feed your biggest body into an untested hidden defender.
+- **Midfield heavy Cover / short corners:** these attackers can move and clear in fewer Orders than walking an HMG into 8 inches:
+  - **Sheskiin**
+  - **Mukhtar**
+  - **Asawira BSG**
+  - **Hatamoto**
+  - **Vostok Mk12**
+- **Open long firefight:** HMG-range candidates include:
+  - **Kriza**
+  - **Gamma**
+  - **Hac Tao**
+  - **Swiss Guard**
+  - **Spetsnaz**
+  - **Hsien**
+
+  Do not force Red Fury/Spitfire outside their positive range.
+- **High vertical / weak hacking net:**
+  - **Skyhound**
+  - **Firebat**
+  - **Redeye**
+  - **Vostok**
+
+  If terrain is flat and hacker coverage dense, favor a grounded shooter with better Cover/recovery.
 
 ---
 
