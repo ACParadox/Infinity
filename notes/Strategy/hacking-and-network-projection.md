@@ -5,7 +5,7 @@
 
 **Hacking-layer deployment — [Loss of Lieutenant E176 Part 2 ~56–65m](https://www.youtube.com/watch?v=UoYjrRvC5ic&t=3360s), transcript checked 27 Oct 2026:** Decide whether the Hacker is a **cheap DZ deterrent, offensive Pitcher partner, Hidden/Camo specialist or net controller** *before* placing it. A 13pt **Kappa HD** or ordinary cheap HD can activate Flashbot/Baggage Repeaters cheaply, but the same Repeaters can expose a W1/BTS-poor controller to enemy **KHD/HD** attacks. Against visible Pitchers, place such Hackers **behind your expendable screen and outside simple projected ZoC** when possible; moving the Repeater close to the enemy is not automatically worth exposing the support hacker. **Spotlight** can help future FtF engagements and scenario/GML payoff even against a non-hackable warband, but legal targeting/ranges and current N5.3 effects still govern. [Deployment and rapid-threat trade-offs](deployment-initiative-and-reserve-strategy.md#deployment-against-current-rapid-threats-e176-5776m-105129m).
 
-**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares the following profiles:
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](../list-building/indirect-fire-speculative-guided-apex-value.md) compares the following profiles:
 
 - **Kuryer**
 - **Traktor**
@@ -18,13 +18,13 @@
 
 It also evaluates **when Speculative beats Guided on Orders** and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
 
-**Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
+**Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](../list-building/network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
 
 ## Hacking is hacker quality multiplied by network quality
 
-**Vision-control dependency:** White Noise is useful against **MSV/Marksmanship**, not every enemy gun. A reachable Repeater/Hacking Area and a model that exploits that cleared path are prerequisites for good value. See the [N5.3 Vision Control apex/value guide](vision-control-units-apex-and-value.md) for contrasts with Smoke, Eclipse, Disco Baller and Mirrorball.
+**Vision-control dependency:** White Noise is useful against **MSV/Marksmanship**, not every enemy gun. A reachable Repeater/Hacking Area and a model that exploits that cleared path are prerequisites for good value. See the [N5.3 Vision Control apex/value guide](../list-building/vision-control-units-apex-and-value.md) for contrasts with Smoke, Eclipse, Disco Baller and Mirrorball.
 
-See the [cross-faction N5.3 Hacker / Killer Hacker apex and points-value guide](hackers-and-killer-hackers.md) for current unit tiers, concrete HD/KHD **hybrid upgrade** choices, verified sectorial prices, when each device wins and **six freshly reviewed YouTube/podcast MCP transcripts**. **N5.3 correction:** Spotlight is an **AP, PS5 attack requiring a saving roll**, not an automatic Targeted result; Firewall **penalizes the attacking Hacker's WIP** and grants its defender **+3 on Comms Saving Rolls** even when the printed Firewall penalty is stronger. Always apply official/current rules above older video advice.
+See the [cross-faction N5.3 Hacker / Killer Hacker apex and points-value guide](../list-building/hackers-and-killer-hackers.md) for current unit tiers, concrete HD/KHD **hybrid upgrade** choices, verified sectorial prices, when each device wins and **six freshly reviewed YouTube/podcast MCP transcripts**. **N5.3 correction:** Spotlight is an **AP, PS5 attack requiring a saving roll**, not an automatic Targeted result; Firewall **penalizes the attacking Hacker's WIP** and grants its defender **+3 on Comms Saving Rolls** even when the printed Firewall penalty is stronger. Always apply official/current rules above older video advice.
 
 Evaluate hacking as a **package**, not by looking only at the Hacker's WIP or device.
 
@@ -255,7 +255,7 @@ A missile REM is much more attractive when the list already wants:
 
 If the hacking/network infrastructure is useful even when Guided never fires, adding the missile REM can be efficient. If the entire network exists only to enable the missile bot, the list is more fragile and easier for the opponent to disrupt.
 
-For the detailed REM-side decision rules, see [REMs](rems.md).
+For the detailed REM-side decision rules, see [REMs](../list-building/rems.md).
 
 ## Hacking-area denial package
 

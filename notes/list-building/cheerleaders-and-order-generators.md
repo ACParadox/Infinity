@@ -258,7 +258,7 @@ Several bodies do not imply extra pooled Regular Orders.
 
 ### Related repository studies
 
-- [Order efficiency](order-efficiency.md) · [Impetuous/Irregular sequencing](impetuous-and-irregular-troop-sequencing.md) · [Cheap/midfield/support troops](cheap-midfield-and-support-troops.md) · [REMs](rems.md)
-- [Lieutenant and command structure](lieutenant-and-command-structure.md) · [Fireteams](fireteams-and-profile-evaluation.md) · [Command Tokens](command-tokens.md)
-- [Peripherals and multi-body troops](peripherals-synchronized-and-multi-body-troops.md) · [Mission specialists](mission-scoring-and-specialist-strategy.md)
+- [Order efficiency](../Strategy/order-efficiency.md) · [Impetuous/Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md) · [Cheap/midfield/support troops](cheap-midfield-and-support-troops.md) · [REMs](rems.md)
+- [Lieutenant and command structure](../Strategy/lieutenant-and-command-structure.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Command Tokens](../Strategy/command-tokens.md)
+- [Peripherals and multi-body troops](../Strategy/peripherals-synchronized-and-multi-body-troops.md) · [Mission specialists](../Strategy/mission-scoring-and-specialist-strategy.md)
 - [Hacker/KHD comparison](hackers-and-killer-hackers.md) · [TAG comparison](tags.md) · [VH comparison](vehicles-vh.md)

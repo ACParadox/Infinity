@@ -1,6 +1,6 @@
 # List-Building Strategy — List Robustness and Threat Coverage
 
-**Mission resilience check:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) compares cheap durable objective carriers, backup retrieval specialist, mission-specific Baggage, Shasvastii Embryo and TAG VP-swing roles. Rate **scoring after primary gun dies**, not only list firepower.
+**Mission resilience check:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) compares cheap durable objective carriers, backup retrieval specialist, mission-specific Baggage, Shasvastii Embryo and TAG VP-swing roles. Rate **scoring after primary gun dies**, not only list firepower.
 
 A strong Infinity list should not merely contain powerful pieces. It should have **credible answers to the main problems an opponent or mission can present**, and it should continue functioning after losing one important piece.
 
@@ -422,7 +422,7 @@ Common examples include:
 
 ## Role compression
 
-**Cross-faction unit selections:** [Jack-of-all-trades / Toolbox Units — N5.3 apex and points-value rankings](jack-of-all-trades-toolbox-units-apex-value.md) compares actual multi-role solo pieces and legal small-team packages, including when paying for unused capabilities reduces reliability.
+**Cross-faction unit selections:** [Jack-of-all-trades / Toolbox Units — N5.3 apex and points-value rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) compares actual multi-role solo pieces and legal small-team packages, including when paying for unused capabilities reduces reliability.
 
 
 

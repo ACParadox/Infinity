@@ -1,6 +1,6 @@
 # List-Building Strategy — Lieutenant and Command Structure
 
-The [N5.3 cross-game **Command Units Apex and Value** tier guide](command-units-apex-and-value.md) ranks Lieutenant and Chain of Command profiles separately for apex performance and marginal cost, including:
+The [N5.3 cross-game **Command Units Apex and Value** tier guide](../list-building/command-units-apex-and-value.md) ranks Lieutenant and Chain of Command profiles separately for apex performance and marginal cost, including:
 
 - **Premium command/Lieutenant options:**
   - **Saladin**

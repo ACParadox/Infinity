@@ -12,7 +12,7 @@ The list-building strategy notes are split by related subject so individual topi
 - [Doctors / Engineers / Recovery — N5.3 apex/value, Servants, probabilities, and transcript disputes](list-building/doctors-engineers-and-recovery-apex-value.md)
   - Separate Doctor/Engineer/complete-network tiers; actual WIP/PH odds, Remote Presence and Cube rerolls, and travel/repair Order cost
 
-- [Support architecture — Doctor/Engineer recovery networks and Servant positioning](list-building/support-architecture-doctor-engineer-servants-and-recovery.md)
+- [Support architecture — Doctor/Engineer recovery networks and Servant positioning](Strategy/support-architecture-doctor-engineer-servants-and-recovery.md)
   - Safe recovery corridors, two-zone Servant coverage, support Combat Groups, ARO resurrection, and recovery denial
 
 - [Active-turn gunfighters — N5.3 non-TAG and TAG apex/value rankings by matchup](list-building/active-turn-gunfighters-apex-and-value.md)
@@ -41,7 +41,7 @@ The list-building strategy notes are split by related subject so individual topi
   - When to field each chassis, mission/terrain matchups, hacking/Engineer/close-defence support
   - Direct MCP transcript-based podcast/YouTube disagreements and relevant sectorial cross-links
 
-- [Fireteams and profile evaluation](list-building/fireteams-and-profile-evaluation.md)
+- [Fireteams and profile evaluation](Strategy/fireteams-and-profile-evaluation.md)
   - Core size
   - Level 2 Fireteam bonus
   - functional role vs troop classification
@@ -51,7 +51,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Fireteam Leader selection
   - TinBot sharing and Fireteam support
 
-- [Lieutenant and command structure](list-building/lieutenant-and-command-structure.md)
+- [Lieutenant and command structure](Strategy/lieutenant-and-command-structure.md)
   - cheap Lieutenant + identical-profile decoy + NCO
   - protected/marker-state Lieutenants
   - Lieutenant WIP and same-WIP identity ambiguity
@@ -66,7 +66,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Counterintelligence
   - general Lieutenant-selection heuristics
 
-- [Command Tokens](list-building/command-tokens.md)
+- [Command Tokens](Strategy/command-tokens.md)
   - second-player Order removal
   - Speedballs
   - Doctor/Engineer rerolls
@@ -79,7 +79,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Strategos L2 free Combat Group restructuring
   - proactive list construction around free command effects
 
-- [Advanced Coordinated Orders](list-building/advanced-coordinated-orders.md)
+- [Advanced Coordinated Orders](Strategy/advanced-coordinated-orders.md)
   - ARO compression and forced reactive target choice
   - strong Spearhead + B1 secondary threats
   - Disposable-weapon volleys and multi-angle attacks
@@ -91,7 +91,7 @@ The list-building strategy notes are split by related subject so individual topi
   - when Burst reduction makes coordination inefficient
   - reactive counterplay and turn-by-turn use
 
-- [Order efficiency](list-building/order-efficiency.md)
+- [Order efficiency](Strategy/order-efficiency.md)
   - Order generation and Order density
   - Combat Group and Order flexibility
   - Command Token efficiency
@@ -101,7 +101,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-0 setup and network value
   - points/slot efficiency heuristics
 
-- [Peripherals, synchronized models, and multi-body troops](list-building/peripherals-synchronized-and-multi-body-troops.md)
+- [Peripherals, synchronized models, and multi-body troops](Strategy/peripherals-synchronized-and-multi-body-troops.md)
   - Synchronized, Control, Servant, Ancillary, and N5.3 Cyberplug architectures
   - ARO-choice pressure and multi-angle attacks
   - expendable Peripheral trading and Controller protection
@@ -113,7 +113,7 @@ The list-building strategy notes are split by related subject so individual topi
   - N5.3 Cyberplug autonomy and FAQ interactions
   - multi-body list-value and mission-economy evaluation
 
-- [Turn planning and Order budgeting](list-building/turn-planning-and-order-budgeting.md)
+- [Turn planning and Order budgeting](Strategy/turn-planning-and-order-budgeting.md)
   - establish a scoring floor before attacking
   - budget setup, approach, breach, exploitation, scoring, and exit separately
   - reserve retry and contingency Orders for likely failures
@@ -127,7 +127,7 @@ The list-building strategy notes are split by related subject so individual topi
   - budget independently by Combat Group
   - recalculate after major successes, failures, and reveals
 
-- [List robustness and threat coverage](list-building/list-robustness-and-threat-coverage.md)
+- [List robustness and threat coverage](Strategy/list-robustness-and-threat-coverage.md)
   - primary, secondary, and emergency answers
   - orthogonal redundancy
   - long-range and mid/short-range attack coverage
@@ -142,7 +142,7 @@ The list-building strategy notes are split by related subject so individual topi
   - failure-mode stress tests
   - Green / Yellow / Red coverage audit
 
-- [Deployment, Initiative, and Reserve strategy](list-building/deployment-initiative-and-reserve-strategy.md)
+- [Deployment, Initiative, and Reserve strategy](Strategy/deployment-initiative-and-reserve-strategy.md)
   - Turn-Zero decision states
   - keeping Initiative vs keeping Deployment
   - the Deployment Fork
@@ -157,7 +157,7 @@ The list-building strategy notes are split by related subject so individual topi
   - practical decision matrix and deployment checklist
   - current video/community research references
 
-- [Opponent-plan identification and matchup planning](list-building/opponent-plan-identification-and-matchup-planning.md)
+- [Opponent-plan identification and matchup planning](Strategy/opponent-plan-identification-and-matchup-planning.md)
   - identify primary and secondary attackers
   - map the Lieutenant shell, hacking network, DZ-strike package, scoring plan, and recovery infrastructure
   - predict the opponent's ideal Turn 1 in one sentence
@@ -172,8 +172,8 @@ The list-building strategy notes are split by related subject so individual topi
   - plan the counterattack around the attacker's likely ending square
   - MISSION → PLAN → ENGINE → ROUTE → PAYOFF → PIVOT checklist
 
-- [Deployables and area control](list-building/deployables-area-control.md): placement, mines, repeaters, perimeter weapons, Armed Turrets, Baggage, Deactivators, and layered Order-tax defenses.
-- [Defensive architecture and the Reactive Turn](list-building/defensive-architecture-and-reactive-turn.md)
+- [Deployables and area control](Strategy/deployables-area-control.md): placement, mines, repeaters, perimeter weapons, Armed Turrets, Baggage, Deactivators, and layered Order-tax defenses.
+- [Defensive architecture and the Reactive Turn](Strategy/defensive-architecture-and-reactive-turn.md)
   - whole-table defence rather than only DZ defence
   - layered information, approach, long-range, mid-range, breach, core, and recovery defence
   - serial defence and defensive gates
@@ -192,7 +192,7 @@ The list-building strategy notes are split by related subject so individual topi
   - preserving a counterpunch
   - route analysis and whole-table defensive audit
 
-- [Mission, scoring, and Specialist strategy](list-building/mission-scoring-and-specialist-strategy.md)
+- [Mission, scoring, and Specialist strategy](Strategy/mission-scoring-and-specialist-strategy.md)
   - Specialist quantity and independent scoring paths
   - fast vs infiltrating vs durable Specialists
   - Specialist redundancy and Turn-3 closers
@@ -206,7 +206,7 @@ The list-building strategy notes are split by related subject so individual topi
   - mission value of otherwise mediocre combat profiles
   - tournament-packet analysis
 
-- [Target priority and attack sequencing](list-building/target-priority-and-attack-sequencing.md)
+- [Target priority and attack sequencing](Strategy/target-priority-and-attack-sequencing.md)
   - attack the opponent's plan rather than merely expensive models
   - plan enablers, support, Orders, Specialists, and command targets
   - clearing only relevant AROs
@@ -220,7 +220,7 @@ The list-building strategy notes are split by related subject so individual topi
   - dependency chains and recovery denial
   - what needs to die now vs what can be ignored
 
-- [Marker-state and deception strategy](list-building/marker-state-and-deception-strategy.md)
+- [Marker-state and deception strategy](Strategy/marker-state-and-deception-strategy.md)
   - staying Camouflaged instead of taking low-value AROs
   - Discover tax, Discover geometry, and Discover + Shoot decisions
   - forcing Discover-versus-Delay declaration forks
@@ -239,7 +239,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Turn-1 preservation vs Turn-3 conversion into scoring
   - current N5 video-research references
 
-- [Speculative Fire](list-building/speculative-fire.md)
+- [Speculative Fire](Strategy/speculative-fire.md)
   - bypassing setup and defensive MOD stacks
   - positional pressure and forced responses
   - residual-Order conversion, especially in Group 2
@@ -265,7 +265,7 @@ The list-building strategy notes are split by related subject so individual topi
   - exit planning
   - Airborne Deployment
 
-- [DZ strikes and DZ defense](list-building/dz-strikes-and-dz-defense.md)
+- [DZ strikes and DZ defense](Strategy/dz-strikes-and-dz-defense.md)
   - Parachutist (Deployment Zone), Combat Jump, deep Infiltration, and Impersonation
   - motorcycles, Vehicles, Super-Jump, Climbing Plus, and other high-mobility penetration
   - vision-control and close-combat breach packages
@@ -273,7 +273,7 @@ The list-building strategy notes are split by related subject so individual topi
   - DZ-strike/counter matrix
   - modular DZ-defense block checklist
 
-- [Movement, positioning, and vision control](list-building/movement-positioning-and-vision-control.md)
+- [Movement, positioning, and vision control](Strategy/movement-positioning-and-vision-control.md)
   - slicing the pie
   - Dodge movement, Cautious Movement, Climb, and Jump
   - reactive-declaration forks
@@ -291,7 +291,7 @@ The list-building strategy notes are split by related subject so individual topi
   - EVO and Engineer interactions
   - cheap Regular Orders vs S3 deployment-footprint congestion
 
-- [Hacking and network projection](list-building/hacking-and-network-projection.md)
+- [Hacking and network projection](Strategy/hacking-and-network-projection.md)
   - hacker quality vs network quality
   - Repeaters, Pitchers, FastPandas, Deployable Repeaters
   - multiple Hackers behind one network
@@ -304,7 +304,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Guided/network payoff
   - hacking-area denial packages
 
-- [State warfare and non-lethal control](list-building/state-warfare-and-non-lethal-control.md)
+- [State warfare and non-lethal control](Strategy/state-warfare-and-non-lethal-control.md)
   - functional kills and stopping attacks once a model is strategically dead
   - IMM-A/B, Isolated, Targeted, Stunned, Possessed, Engaged, Unconscious, and Suppressive Fire
   - matching states to movement, attack, Order, network, scoring, and recovery denial

@@ -773,8 +773,8 @@ The strongest conclusions supported repeatedly by the current material are:
 
 ## Related repository strategy
 
-- [Defensive architecture](../list-building/defensive-architecture-and-reactive-turn.md), [ARO units](../list-building/aro-units-apex-and-value.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md)
-- [Fireteam evaluation](../list-building/fireteams-and-profile-evaluation.md), [Hacking](../list-building/hackers-and-killer-hackers.md), [Lieutenant and command](../list-building/lieutenant-and-command-structure.md)
+- [Defensive architecture](../Strategy/defensive-architecture-and-reactive-turn.md), [ARO units](../list-building/aro-units-apex-and-value.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md)
+- [Fireteam evaluation](../Strategy/fireteams-and-profile-evaluation.md), [Hacking](../list-building/hackers-and-killer-hackers.md), [Lieutenant and command](../Strategy/lieutenant-and-command-structure.md)
 - [Vanilla PanO tactical guide](vanilla-pano.md) — parent-faction tactics are transferable, but **vanilla roster/Fireteam permissions never transfer**.
 
 # Source notes

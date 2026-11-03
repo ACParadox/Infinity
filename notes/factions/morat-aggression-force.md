@@ -10,7 +10,7 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 - **Bultrak is a TAG**, not an unverified Vehicle/other troop type, in the pinned Morat roster. The **Raicho, Bultrak and Sogarat** form the required-choice set for the **Armored Duo** family; none is automatically a legal partner in every other sectorial.
 - **Hungries Core/Haris** requires **Oznat FTO** (one or two). The current chart permits **Gakis and Pretas** as separate allowed rows with no same-species-only restriction; the guide's suggested "two same-type" package is **one economical choice, not a binding composition rule**. Gakis and Pretas remain Irregular outside qualifying Fireteam Master interaction.
 
-**Related studies:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Order economy](../list-building/cheerleaders-and-order-generators.md), and [command resilience](../list-building/lieutenant-and-command-structure.md).
+**Related studies:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Order economy](../list-building/cheerleaders-and-order-generators.md), and [command resilience](../Strategy/lieutenant-and-command-structure.md).
 
 ## Core identity
 

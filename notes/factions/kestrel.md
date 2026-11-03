@@ -220,7 +220,7 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 ## Related notes
 
 - Canonical Kestrel: [sectorials/panoceania/kestrel-colonial-force.md](../../sectorials/panoceania/kestrel-colonial-force.md).
-- [Fireteam construction](../list-building/fireteams-and-profile-evaluation.md), [Lieutenant and command](../list-building/lieutenant-and-command-structure.md), [Hacking/network projection](../list-building/hacking-and-network-projection.md), [Support/recovery](../list-building/peripherals-synchronized-and-multi-body-troops.md), [Opponent-plan identification](../list-building/opponent-plan-identification-and-matchup-planning.md).
+- [Fireteam construction](../Strategy/fireteams-and-profile-evaluation.md), [Lieutenant and command](../Strategy/lieutenant-and-command-structure.md), [Hacking/network projection](../Strategy/hacking-and-network-projection.md), [Support/recovery](../Strategy/peripherals-synchronized-and-multi-body-troops.md), [Opponent-plan identification](../Strategy/opponent-plan-identification-and-matchup-planning.md).
 
 ## Vision control — role/value update (23 October 2026)
 

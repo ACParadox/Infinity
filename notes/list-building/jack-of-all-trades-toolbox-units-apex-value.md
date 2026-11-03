@@ -141,8 +141,8 @@ _YouTube transcript request for [Tactical Awareness Tohaa](https://www.youtube.c
 - [Command units](command-units-apex-and-value.md)
 - [Vision control](vision-control-units-apex-and-value.md)
 - [Doctor/Engineer and recovery](doctors-engineers-and-recovery-apex-value.md)
-- [Peripherals and G:Jumper](peripherals-synchronized-and-multi-body-troops.md)
+- [Peripherals and G:Jumper](../Strategy/peripherals-synchronized-and-multi-body-troops.md)
 - [TAGs and multi-role combat](tags.md)
-- [List robustness and role compression](list-robustness-and-threat-coverage.md)
+- [List robustness and role compression](../Strategy/list-robustness-and-threat-coverage.md)
 
 _Interpretations about rank/roles can differ from older recordings; source of truth for profile facts remains the pinned current sectorial file. **No edition transfer of Fireteams, printed special equipment, Specialist status or bonuses.**_

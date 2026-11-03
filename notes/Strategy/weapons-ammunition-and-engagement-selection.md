@@ -1,10 +1,10 @@
 # Weapons, ammunition and engagement selection
 
-**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](../list-building/indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
 
-**Current unit-level comparison:** [Active-turn gunfighter apex/value rankings](active-turn-gunfighters-apex-and-value.md) applies these weapon and range-band principles to exact 2026 N5.3 profiles, movement/exit Orders, Fireteams and separate TAG comparisons. This is the **how-to** primer; the linked guide ranks **who to field and when**.
+**Current unit-level comparison:** [Active-turn gunfighter apex/value rankings](../list-building/active-turn-gunfighters-apex-and-value.md) applies these weapon and range-band principles to exact 2026 N5.3 profiles, movement/exit Orders, Fireteams and separate TAG comparisons. This is the **how-to** primer; the linked guide ranks **who to field and when**.
 
-**Current anti-armor unit rankings:** [Non-hacking anti-TAG/HI apex and points value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) applies E/M, K1, AP+EXP, Breaker and Monofilament to *current roster costs, opponents' saving chances, attack delivery, and Engineer recovery*. This file retains underlying engagement theory.
+**Current anti-armor unit rankings:** [Non-hacking anti-TAG/HI apex and points value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) applies E/M, K1, AP+EXP, Breaker and Monofilament to *current roster costs, opponents' saving chances, attack delivery, and Engineer recovery*. This file retains underlying engagement theory.
 
 ## Core principle
 
@@ -35,7 +35,7 @@ Once the target cannot oppose effectively, ammunition and PS become much more im
 
 **Rules baseline:** the project's [N5.3 + N5 FAQ v0.1](../../rules/README.md). Exact weapon characteristics come from the current [Weapon Chart](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md), with the [N5.3 weapon updates](../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) taking precedence over older generated entries. The [Possibility of Survival (PS)](../../rules/3_Combat/Possibility_of_Survival_(PS).md) rule defines Saving Roll Success Value as applicable ARM/BTS + PS + Cover (+3 where relevant) + other MODs.
 
-**Related strategy:** [Probability and Face-to-Face decisions](probability-and-face-to-face-decision-framework.md), [Target priority and attack sequencing](target-priority-and-attack-sequencing.md), [List robustness and threat coverage](list-robustness-and-threat-coverage.md), [Trading and attrition](trading-and-attrition.md), [Terrain and engagement geometry](terrain-silhouettes-and-table-geometry.md), and [ARO units](aro-units-apex-and-value.md).
+**Related strategy:** [Probability and Face-to-Face decisions](probability-and-face-to-face-decision-framework.md), [Target priority and attack sequencing](target-priority-and-attack-sequencing.md), [List robustness and threat coverage](list-robustness-and-threat-coverage.md), [Trading and attrition](trading-and-attrition.md), [Terrain and engagement geometry](terrain-silhouettes-and-table-geometry.md), and [ARO units](../list-building/aro-units-apex-and-value.md).
 
 ---
 

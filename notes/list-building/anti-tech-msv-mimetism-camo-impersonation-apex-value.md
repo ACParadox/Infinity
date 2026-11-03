@@ -7,7 +7,7 @@
 
 **Scope:** enemy MSV1/2/3, Marksmanship, Mimetism(-3/-6), ordinary Smoke/visibility, Camouflage markers, Hidden Deployment, Impersonation, Holoecho/Holomask, and tightly relevant detection/denial. Hacker **White Noise** is included because it is the central anti-MSV tool; this is **not** an anti-hacker/KHD or anti-TAG hacking tier. E/M on its own **does not switch off a visor** or strip Mimetism/Camo; target-specific states and attacks still matter.
 
-Related retained work: [vision control](vision-control-units-apex-and-value.md), [rare Albedo/MSV combinations](rare-capabilities-and-unique-combinations-apex-value.md), [marker/deception](marker-state-and-deception-strategy.md), [DZ/IMP defense](dz-defenders-alpha-strike-and-impersonation-apex-value.md), [midfield screens](midfield-area-denial-and-speed-bumps-apex-value.md), [gunfighters](active-turn-gunfighters-apex-and-value.md), [ARO](aro-units-apex-and-value.md), [anti-armor](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+Related retained work: [vision control](vision-control-units-apex-and-value.md), [rare Albedo/MSV combinations](rare-capabilities-and-unique-combinations-apex-value.md), [marker/deception](../Strategy/marker-state-and-deception-strategy.md), [DZ/IMP defense](dz-defenders-alpha-strike-and-impersonation-apex-value.md), [midfield screens](midfield-area-denial-and-speed-bumps-apex-value.md), [gunfighters](active-turn-gunfighters-apex-and-value.md), [ARO](aro-units-apex-and-value.md), [anti-armor](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
 
 ## Read this first: cheapest *real* answers
 
@@ -32,7 +32,7 @@ Related retained work: [vision control](vision-control-units-apex-and-value.md),
 - **Biometric Visor** ignores the **IMP-1 Discover -3**, cancels Impersonation outright on a successful Discover against IMP-1, and ignores specified IMP/Holoecho Surprise Attack effects. It still needs a legal opportunity and success. [Official](https://infinitythewiki.com/Biometric_Visor).
 - **Triangulated Fire** is a LoF-requiring **Long Skill** that ignores **attack roll** MODs except Burst-related MODs, including favorable range MODs; a legal gun and target are still needed. [Official](https://infinitythewiki.com/Triangulated_Fire).
 - **Intuitive Attack** requires a weapon with that Trait, legal target/LoF conditions, **Long Skill, B1 and unmodified WIP**, with applicable defender reactions; do not automatically give it to every flamethrower or use it through arbitrary walls. [Official](https://infinitythewiki.com/Intuitive_Attack).
-- **Do not equate Camo with Mimetism.** Sensor reveals markers; MSV counters visual modifiers *after the model is legally engageable*. **Mines can trigger from valid Camo/IMP Markers** subject to their rules, while Boost Koalas generally do not trigger on unrevealed markers. [Marker primer](marker-state-and-deception-strategy.md), [DZ primer](dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+- **Do not equate Camo with Mimetism.** Sensor reveals markers; MSV counters visual modifiers *after the model is legally engageable*. **Mines can trigger from valid Camo/IMP Markers** subject to their rules, while Boost Koalas generally do not trigger on unrevealed markers. [Marker primer](../Strategy/marker-state-and-deception-strategy.md), [DZ primer](dz-defenders-alpha-strike-and-impersonation-apex-value.md).
 
 ## 1. Apex — maximum *anti-tech* swing (not unconditional unit power)
 

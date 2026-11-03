@@ -21,7 +21,7 @@
 
 The video narrates Hellcat Paramedic placing a DR and Bearcat Paramedic using Adhesive, **both contradicted by pinned Corregidor loadouts**. **If all legal arrival lanes are guarded, leave the Tomcat off-table until a later scoring/repair opportunity**; a Turn-1 insertion just to 'use' the AD unit can be actively harmful. [Detailed case and reconciled N5.3 profiles](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
 
-**Specific defensive unit picks (N5.3):** [DZ Defenders — whole-game apex/value, anti-Combat Jump, anti-Impersonation and cheap role compression](dz-defenders-alpha-strike-and-impersonation-apex-value.md) covers:
+**Specific defensive unit picks (N5.3):** [DZ Defenders — whole-game apex/value, anti-Combat Jump, anti-Impersonation and cheap role compression](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md) covers:
 
 - **Warcor 360º** — 3pt
 - **Kaauri** — 11pt
@@ -35,7 +35,7 @@ The companion guide includes verified profiles and competing podcast/video views
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands/Cheap Trader apex/value tiers](warbands-and-cheap-trading-units-apex-value.md) covers:
+[N5.3 Warbands/Cheap Trader apex/value tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md) covers:
 
 - **Ghazi / Daylami**
 - **Galwegian**
@@ -50,7 +50,7 @@ E/Marat, normal Chain and E/M CC have different reach. **Warhorse cannot become 
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](airborne-and-enemy-dz-attackers-apex-value.md) compares:
+The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) compares:
 
 - **Rasyat**
 - **Fiday / Speculo**
@@ -549,4 +549,4 @@ A bad defensive result is:
 
 ## Cross-game N5.3 ARO tier and deployment study
 
-The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.
+The [ARO apex/value tier list and matchup guide](../list-building/aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

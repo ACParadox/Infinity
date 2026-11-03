@@ -57,7 +57,7 @@
 
 _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fireteam legality use the pinned September 2026 Army 7.26246.158/159 files under [sectorials](../../sectorials/combined-army/vanilla-combined-army.md); [local N5.3 rules](../../rules/README.md) and FAQ v0.1 override historical media. The rankings are tactical **judgments, not tournament win rates**. Each named unit is available only in the faction/sectorial where its profile exists._
 
-**Related:** [Existing Lieutenant/command strategy](lieutenant-and-command-structure.md), [Order efficiency](order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game tiers and researched profile-specific circumstances instead of replacing the existing command primer.**
+**Related:** [Existing Lieutenant/command strategy](../Strategy/lieutenant-and-command-structure.md), [Order efficiency](../Strategy/order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](../Strategy/fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game tiers and researched profile-specific circumstances instead of replacing the existing command primer.**
 
 ## The fast verdict
 

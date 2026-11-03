@@ -1,6 +1,6 @@
 # Indirect Fire — Speculative Attack and Spotlight → Guided (N5.3 Apex and Value)
 
-_Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixed damage-per-Order odds.** The latest committed [N5.3 sectorial references](../../sectorials) are authoritative for points/SWC, weapon mode, eligibility and Fireteams. This guide ranks **actual indirect attacks plus the whole enabling package**; media commentary (some pre-N5.3) is evidence for play patterns, not rules. [Speculative-fire strategy](speculative-fire.md) · [network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hackers/Spotlight](hackers-and-killer-hackers.md) · [REMs](rems.md)._
+_Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixed damage-per-Order odds.** The latest committed [N5.3 sectorial references](../../sectorials) are authoritative for points/SWC, weapon mode, eligibility and Fireteams. This guide ranks **actual indirect attacks plus the whole enabling package**; media commentary (some pre-N5.3) is evidence for play patterns, not rules. [Speculative-fire strategy](../Strategy/speculative-fire.md) · [network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hackers/Spotlight](hackers-and-killer-hackers.md) · [REMs](rems.md)._
 
 ## The short verdict
 
@@ -29,7 +29,7 @@ _Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixe
 | **Blast damage and counters** | Guided uses the prescribed circular/template mode; it does **not** universally let you choose single-target AP+EXP Hit Mode. Enemy spreading, Reset, Dodge, anti-network KHD, deleting Repeaters and shooting the exposed FO all reduce expected return |
 | **Printed-profile trap** | FTO/+1B **Missile Launcher for a Fireteam** may lack **Guided**, even in the same unit entry as a Guided 16pt standalone REM. **ECM: Guided (-6)** on a TAG is *defence against* attacks, not an ability to make them |
 
-Sources: [N5.3 Guided / BS Attack](https://infinitythewiki.com/Guided), [Spotlight](https://infinitythewiki.com/Spotlight), [Speculative Attack](https://infinitythewiki.com/Speculative_Attack), [repository Speculative guide](speculative-fire.md), [hacker rules/FAQ corrections](hackers-and-killer-hackers.md). **Do not carry N4 auto-Targeted Spotlight or flat +6 Guided into N5.3.**
+Sources: [N5.3 Guided / BS Attack](https://infinitythewiki.com/Guided), [Spotlight](https://infinitythewiki.com/Spotlight), [Speculative Attack](https://infinitythewiki.com/Speculative_Attack), [repository Speculative guide](../Strategy/speculative-fire.md), [hacker rules/FAQ corrections](hackers-and-killer-hackers.md). **Do not carry N4 auto-Targeted Spotlight or flat +6 Guided into N5.3.**
 
 ## 2. **Speculative Fire APEX** tier list — maximum useful on-table impact
 
@@ -153,6 +153,6 @@ _The listed videos/podcast episodes above were retrieved and searched using the 
 
 ## 9. Related existing analyses (preserve their detailed doctrine)
 
-[Speculative Fire strategic mechanics](speculative-fire.md) · [Network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hacker & Spotlight tiers](hackers-and-killer-hackers.md) · [REM choices](rems.md) · [Weapon/ammo selection](weapons-ammunition-and-engagement-selection.md) · [Mission specialists/FO](mission-specialists-and-button-pushers-apex-value.md) · [Anti-armor alternatives](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) · [ARO defence](aro-units-apex-and-value.md).
+[Speculative Fire strategic mechanics](../Strategy/speculative-fire.md) · [Network projection](network-projection-repeaters-pitchers-apex-value.md) · [Hacker & Spotlight tiers](hackers-and-killer-hackers.md) · [REM choices](rems.md) · [Weapon/ammo selection](../Strategy/weapons-ammunition-and-engagement-selection.md) · [Mission specialists/FO](mission-specialists-and-button-pushers-apex-value.md) · [Anti-armor alternatives](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) · [ARO defence](aro-units-apex-and-value.md).
 
 **Checklist for every list:** (1) which targets and why; (2) **Spec target number at actual range**, or **how many Orders until first credible Targeted**; (3) legal gun + profile; (4) how the targeting tool scores without missile; (5) SWC/Regular Orders after buying the missile; (6) backup when enemy deletes Repeaters, Resets, Dodges or spreads out.

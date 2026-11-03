@@ -4,7 +4,7 @@
 
 **Current unit packages and independent-threat tiers:**
 
-- [Peripherals & Synchronized Multi-Body — N5.3 apex/value](peripheral-synchronized-multibody-apex-value.md) separates **Synchronized multi-target ARO forks**, **Control one-Spearhead targeting**, **Cyberplug Autonomous ARO/pool activity**, **Posthuman one-active-Proxy positions** and **Ancillary/Servant**.
+- [Peripherals & Synchronized Multi-Body — N5.3 apex/value](../list-building/peripheral-synchronized-multibody-apex-value.md) separates **Synchronized multi-target ARO forks**, **Control one-Spearhead targeting**, **Cyberplug Autonomous ARO/pool activity**, **Posthuman one-active-Proxy positions** and **Ancillary/Servant**.
 - Includes current example packages:
   - **Chimera 19pt**
   - **Drummer double-FO 21pt**
@@ -14,7 +14,7 @@
 
   Also documents 12 MCP transcript arguments.
 
-**Multi-body zone control and carrier accounting:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) covers per-Proxy points/Null scoring, one shared G:Jumper Order and several synchronized screening packages:
+**Multi-body zone control and carrier accounting:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) covers per-Proxy points/Null scoring, one shared G:Jumper Order and several synchronized screening packages:
 
 - **Drummer + Drumbot**
 - **Sirius + SiriusBot**
@@ -29,11 +29,11 @@ It also distinguishes Ancillary/Controller status and explains **why multiple ba
 - **Sirius FO+SiriusBot** and **Coyote FO+attached BambaBot** do **not** inherit bot FO by association
 - Coyote's **BambaDroid FO** is a separate dependent REM.
 
-**Current N5.3 rare-combination tiers:** [Rare Abilities & Unusual Combinations — apex/value and opponent matchups](rare-capabilities-and-unique-combinations-apex-value.md). Separates **Posthuman G:Jumper 2–3 Proxies/one Order**, N5.3 autonomous Cyberplug versus Synchronized/Control, and **controller-only FO** from a truly independent second FO unit; includes current exact package costs and new transcript debates.
+**Current N5.3 rare-combination tiers:** [Rare Abilities & Unusual Combinations — apex/value and opponent matchups](../list-building/rare-capabilities-and-unique-combinations-apex-value.md). Separates **Posthuman G:Jumper 2–3 Proxies/one Order**, N5.3 autonomous Cyberplug versus Synchronized/Control, and **controller-only FO** from a truly independent second FO unit; includes current exact package costs and new transcript debates.
 
 Multi-body troops are a distinct Infinity subsystem because they change the normal relationship between **Orders, Combat Group slots, physical bodies, threat projection, and risk**.
 
-For **Servant and Cyberplug recovery reliability versus full package cost**, see [Doctor/Engineer apex and value tiers](doctors-engineers-and-recovery-apex-value.md); this guide remains responsible for multi-body activation and placement mechanics.
+For **Servant and Cyberplug recovery reliability versus full package cost**, see [Doctor/Engineer apex and value tiers](../list-building/doctors-engineers-and-recovery-apex-value.md); this guide remains responsible for multi-body activation and placement mechanics.
 
 The central idea is:
 

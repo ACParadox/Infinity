@@ -11,7 +11,7 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 - **Shasvastii Shock** requires an eligible **Jayth FTO or Gwailo**; **Victor Messer** is a Wildcard **in this family only**. **M-Drone FTO is currently listed in Shock** (max 2): descriptions calling it purely historical/seasonal must be cross-checked against the pinned present chart. **Nox Core/Haris** requires a Nox; its **T-Drone FTO** is profile-gated.
 - **Sphinx is AVA 2 in Shasvastii** (versus different parent/sectorial availability), and **Q-Drone AVA 2**; do not import these counts into Vanilla/Onyx. Shasvastii's current roster contains no distinct standard **VH-classified** chassis.
 
-**Related:** [Hidden/reactive architecture](../list-building/defensive-architecture-and-reactive-turn.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), and [Onyx contrast](onyx-contact-force.md).
+**Related:** [Hidden/reactive architecture](../Strategy/defensive-architecture-and-reactive-turn.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), and [Onyx contrast](onyx-contact-force.md).
 
 ## Core identity: make the opponent spend Orders solving uncertainty
 

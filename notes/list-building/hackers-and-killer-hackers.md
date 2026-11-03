@@ -168,7 +168,7 @@ A backline apex Hacker is not necessarily the best turn-three button runner.
 - **Scylla + Devabot**
 - **Coyote + BambaBot**
 
-Do not extrapolate one package's child behavior to another. For full mechanics see [Peripheral and multi-body](peripherals-synchronized-and-multi-body-troops.md).
+Do not extrapolate one package's child behavior to another. For full mechanics see [Peripheral and multi-body](../Strategy/peripherals-synchronized-and-multi-body-troops.md).
 
 **EVO qualification:** 14pt/0.5-SWC EVO REM often looks efficient; **buy it because multiple programs have planned value** (e.g. REM Marksmanship, Combat Jump odds, an REM lacking Total Reaction, multi-HI/TAG/VH Fairy Dust). A TR REM already has its native reactive-Burst solution. EVO is *support*, not a high-WIP cyber assassin.
 
@@ -194,7 +194,7 @@ Do not extrapolate one package's child behavior to another. For full mechanics s
 - [Irregular Order #47 — White Banner (2026-08)](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE): hybrid Dokkaebi and link defense ~137 min, Tian Gǒu KHD ~62, Guìláng forward network ~189 min.
 - [Robert Shepherd — Vanilla Haqq (2025-11)](https://www.youtube.com/watch?v=Dmv4pfdTbc0): Saladin/Coordinated Pitcher/Repeater support, WIP15 Tuareg KHD, Barid/Leila roles.
 
-**Additional existing project analyses used, without falsely claiming fresh rereads of every original episode:** `notes/factions/{kestrel,nca,vanilla-aleph,operations-subsection,vanilla-nomads,bakunin,corregidor,tunguska,hassassin-bahram,vanilla-haqqislam,oban,vanilla-jsa,...}.md`; `notes/list-building/hacking-and-network-projection.md`, `order-efficiency.md`, `peripherals-synchronized-and-multi-body-troops.md`, `rems.md` and all standard `sectorials/` factual references. The repo's old `rules/Youtube rules-strats/Intro to Hacking.txt` is a useful historical primer but **some rules discussions predate N5.3**.
+**Additional existing project analyses used, without falsely claiming fresh rereads of every original episode:** `notes/factions/{kestrel,nca,vanilla-aleph,operations-subsection,vanilla-nomads,bakunin,corregidor,tunguska,hassassin-bahram,vanilla-haqqislam,oban,vanilla-jsa,...}.md`; `notes/Strategy/hacking-and-network-projection.md`, `order-efficiency.md`, `peripherals-synchronized-and-multi-body-troops.md`, `rems.md` and all standard `sectorials/` factual references. The repo's old `rules/Youtube rules-strats/Intro to Hacking.txt` is a useful historical primer but **some rules discussions predate N5.3**.
 
 **How to use this ranking:** choose the **profile/upgrade**, then confirm it actually appears in the **sectorial main roster**, the legal team, and the team's TinBot/Repeater architecture. A “best hacker” that cannot attack anything through a useful network is often worse than an ordinary **15pt HD** with one forward Repeater and a safe escape plan.
 

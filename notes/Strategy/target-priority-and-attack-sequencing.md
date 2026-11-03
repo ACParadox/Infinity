@@ -13,7 +13,7 @@ A safely landed **Hellcat or Carlota** can shoot an exposed Hacker and open late
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-- Use [N5.3 Airborne/Enemy-DZ apex and value tiers](airborne-and-enemy-dz-attackers-apex-value.md) to select an actual backline attacker:
+- Use [N5.3 Airborne/Enemy-DZ apex and value tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) to select an actual backline attacker:
   - **Fiday 23/0** or **Speculo 26/1**
   - **Rasyat 25/0** or **34/1.5**
   - **Van Zant 33/0**

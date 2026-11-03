@@ -4,7 +4,7 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands and Cheap Trading Units](warbands-and-cheap-trading-units-apex-value.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
+[N5.3 Warbands and Cheap Trading Units](../list-building/warbands-and-cheap-trading-units-apex-value.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
 
 ## Core principle
 
@@ -27,7 +27,7 @@ For an Impetuous + Irregular troop, a strong turn often looks like:
 
 ---
 
-Related strategy references: [Order efficiency](order-efficiency.md), [Turn planning and Order budgeting](turn-planning-and-order-budgeting.md), [Command Tokens](command-tokens.md), [Cheerleaders and Order generators](cheerleaders-and-order-generators.md), and [Close combat / short-range assault](close-combat-and-short-range-assault.md).
+Related strategy references: [Order efficiency](order-efficiency.md), [Turn planning and Order budgeting](turn-planning-and-order-budgeting.md), [Command Tokens](command-tokens.md), [Cheerleaders and Order generators](../list-building/cheerleaders-and-order-generators.md), and [Close combat / short-range assault](close-combat-and-short-range-assault.md).
 
 ## N5.3 rules baseline
 

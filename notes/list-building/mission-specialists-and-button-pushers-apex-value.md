@@ -33,7 +33,7 @@ It examines **when Speculative beats Guided on Orders** and preserves opposing M
 - **Drummer FO + synchronized Drumbot-5 FO** — both have FO and can legally choose different FO targets in one Order
 - **Shikami / Kinnara** — Eclipse and vertical-access scoring alternatives
 
-_Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, profiles, AVA and team access derive from the pinned N5.3 Army (Sept 2026), not older media. [Mission and scoring framework](mission-scoring-and-specialist-strategy.md) · [Hacker/KHD detailed tiers](hackers-and-killer-hackers.md) · [Lieutenant/CoC command tiers](command-units-apex-and-value.md) · [Order economy](order-efficiency.md) · [Fireteams](fireteams-and-profile-evaluation.md). **This adds specific cross-game unit rankings, not a replacement for the existing mission guide.**_
+_Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, profiles, AVA and team access derive from the pinned N5.3 Army (Sept 2026), not older media. [Mission and scoring framework](../Strategy/mission-scoring-and-specialist-strategy.md) · [Hacker/KHD detailed tiers](hackers-and-killer-hackers.md) · [Lieutenant/CoC command tiers](command-units-apex-and-value.md) · [Order economy](../Strategy/order-efficiency.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md). **This adds specific cross-game unit rankings, not a replacement for the existing mission guide.**_
 
 **Medical/recovery specialists:** [Doctor/Engineer apex/value and actual WIP/PH odds](doctors-engineers-and-recovery-apex-value.md) separates recovery reliability from mission-button utility and Servant/Speedball access.
 

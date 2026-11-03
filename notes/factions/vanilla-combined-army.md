@@ -10,7 +10,7 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Important profile distinction:** the **Charontid MSV3** gun profiles and its **Hacking Device Plus / Sepsitor** profiles are **distinct loadouts**; the 71-point LT(+1 Order) HD+ Sepsitor/Plasma option **does not list MSV3**. Do not budget a single Charontid as simultaneously an MSV3 gun, HD+ hacker, and Sepsitor user when its selected current option lacks one of those traits. The **Anathematic** likewise has LT and non-LT versions; legality of deployment state must follow the current rules and chosen option.
 
-**Related:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Lieutenant orders](../list-building/lieutenant-and-command-structure.md).
+**Related:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Lieutenant orders](../Strategy/lieutenant-and-command-structure.md).
 
 ## What wins games in Vanilla Combined
 

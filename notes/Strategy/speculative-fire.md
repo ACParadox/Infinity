@@ -1,6 +1,6 @@
 # List-Building Strategy — Speculative Fire
 
-**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares the following profiles:
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](../list-building/indirect-fire-speculative-guided-apex-value.md) compares the following profiles:
 
 - **Kuryer**
 - **Traktor**
