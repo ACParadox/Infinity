@@ -100,7 +100,7 @@ Version anchors: [Apr 3, 2025 N5.1](https://infinityuniverse.com/en/news/infinit
 |---|---|---|
 | **Morats** | **Oznat/Gaki linked unit — 3** | **Oznat + 2 Gakis**. Narrator calls it an Oznat team and enumerates **one handler and two warbands**, not four/five. |
 | Morats | **Vanguard/Dartok Duo — 2** | **Morat Vanguard HMG (BS Attack(-3)) + Dartok Hacker/Pitcher**. Explicit “duoed with a Dartok”; deliberately low-cost long-range/pitcher package. |
-| Morats | **Independent expensive units** | **Suryat heavy infantry**, **Bultrak TAG**, **two Rodok-type jump specialists** (one **Paramedic**, one **gunfighter**, names captioned “drop suits” and not definitively resolved), **M-Drone Tactical Awareness**, **Daturazi**, **Ikadron**. | 
+| Morats | **Independent expensive units** | **Sogarat heavy infantry**, **Bultrak TAG**, **two Dropsuit Taryots** (one **Paramedic**, one **BS Attack(+1B) gunfighter**; pronounced “drop suit Taryots” in the source), **M-Drone Tactical Awareness**, **Daturazi**, **Ikadron**. | 
 | **Onyx** | **Zeodron/Umbra Samaritan Duo — 2 likely** | **Zeodron TAG + Umbra Samaritan**; creator explicitly explains **Duo bonuses and Tactical Awareness** as the chosen package. |
 | Onyx | **Unidron/Nexus support Fireteam — approximately 4; exact slots unresolved** | **Unidron Batroids + Nexus Hacker/Lieutenant**; player calls it the **Unidron Fireteam**. Closing analysis characterizes it as a **static four-model link**, but **individual Unidron weapons/profiles are not read clearly**. |
 | Onyx | **Other troops** | **second Zeodron**, **Nourkias/Nourka** solo (name captioned “Nora”), **Ko Dali** (may be discussed as an owned favorite; **played status not secure**), **Noctifer Hidden Deployment**, **Bit & Kiss**, **Ikadron support**. |
