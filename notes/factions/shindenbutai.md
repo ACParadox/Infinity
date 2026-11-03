@@ -105,6 +105,11 @@ The modular, mixed-technology ecosystem matters more than a universal five-model
 
 ### Unusual access, missing tools and meaningful weaknesses
 
+- **Projected Eclipse is a scarce utility, not ordinary Smoke:**
+  - **Tanuki Hacker 20/0.5:** Disco Baller supplies a **Disposable (2) projected Eclipse template**, blocking even MSV LoF when placed successfully; it is not unlimited Eclipse Grenades.
+  - **Garon/Yojimbo/Saito:** conventional Smoke options do not grant MSV-proof crossing on their own.
+  - **Rui Shi/Tanuki MSV2:** instead exploit *normal Smoke* for selected shooting lanes; they cannot shoot through Eclipse simply because they have MSV2.
+
 - **Normal Smoke / MSV2 access — different roles:**
   - **Motorized Yojimbo 20/0** or mutually exclusive **foot Yojimbo 19/0:** Smoke carrier.
   - **Saito Tōgan 33/0:** Smoke carrier.
