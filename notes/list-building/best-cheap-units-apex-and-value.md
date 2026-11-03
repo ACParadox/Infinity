@@ -105,7 +105,14 @@ References below were checked using the connected YouTube/Podcast transcript too
 ### Contradictions and confidence
 
 - **Confirmed roster distinctions:** Ghazi E/Marat and Jammer do **not** automatically include Smoke; White Company Varangians are **Irregular** unlike eligible O-12/Kosmoflot variants; Corregidor Diablos are printed **Irregular/Impetuous**. The price of a companion peripheral or Fireteam anchor is not included in the cheap model's price.
-- **Top evidence confidence:** high for media-explicit packages **Ikadron, Puppet Master, Harbinger FO, Diablo, Irmandinho**, and for **Tactical Awareness's Makaul-versus-Mirrorball disagreement**. **Moderate (cross-guide synthesis)** for universal cross-faction ordering and the many specialized 5–8pt defenders. Nothing here is a measured win-rate ranking.
+- **Top evidence confidence:** high for these media-explicit unit packages:
+  - **Ikadron**
+  - **Puppet Master**
+  - **Harbinger FO**
+  - **Diablo**
+  - **Irmandinho**
+
+  Also high for **Tactical Awareness's Makaul-versus-Mirrorball disagreement**. Confidence is **moderate (cross-guide synthesis)** for universal cross-faction ordering and the many specialized 5–8pt defenders. Nothing here is a measured win-rate ranking.
 - **Changing roster caution:** video/podcast dates range 2025–Aug 2026; recheck the pinned repo's September 2026 exact legal **profile + faction** before treating a cost, Order or Fireteam combination as currently fieldable.
 
 **Final selection principle:** the strongest 5–15pt unit is the one that *buys a necessary Order, saves movement/setup Orders, protects a critical model, or threatens something far more expensive* **without making the 300pt list unable to score or execute its primary attack**.

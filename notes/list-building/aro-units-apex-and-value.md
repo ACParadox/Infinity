@@ -19,11 +19,36 @@ The presenter calls O-12's *lethal* ARO suite limited; don't treat every active 
 
 ## Executive verdict
 
-- **Best ceiling, hidden:** **Swiss Guard Missile Launcher (+1SD), 60pt/1.5SWC**; **Shasvastii Noctifer Missile Launcher, 30pt/1.5SWC** is the standout *cheap-for-its-threat* hidden alternative. Both control **timing**, but one revealed Swiss costs twice the Noctifer and both can be defeated with the right follow-up.
-- **Best ceiling, on-table anchor:** **Knight of Justice ML (+1SD), 46pt/1.5**, **Hetkari ML, 47pt/1.5**, **Sunduqbut Feuerbach + Neurocinetics, 47pt/1.5**. High-value lane lock, resilience or reactive firing; they still need a retreat/counterplay plan.
-- **Best cheap hard ARO:** **Sierra/Hùsòng Thunderbolt(+1B), 18pt/0SWC**, **Zayin 19/0**, **Reaktion 19/0**, **Q-Drone 20/0.5**. The common 360° TR body is far easier to fit than another 1.5SWC sniper; **repeatability with an Engineer** is the point.
-- **Best low-cost *trap*:** **Daylami 6pt/0 Panzerfaust or 8pt/0 Camo (1 Use)+Infiltration**, **Minescorp Jackal 6pt/0 Panzerfaust or LRL**, **3pt Warcor Flash Pulse**. These are not expected to beat elite guns; they buy an Order tax or force risk and deny a lane they can afford to lose.
-- **Best specialist DZ denial:** **11pt Kaauri E/M Minelayer** (Biometric Visor, MSV1, Sixth Sense, S1), **13pt O-12 Bluecoat Adhesive/Heavy Riotstopper**, or local mines/DTWs. These protect an **arrival/destination square**, not a whole table.
+- **Best ceiling, hidden:**
+  - **Swiss Guard Missile Launcher (+1SD)** — 60pt/1.5SWC.
+  - **Shasvastii Noctifer Missile Launcher** — 30pt/1.5SWC; the standout *cheap-for-its-threat* hidden alternative.
+
+  Both control **timing**, but one revealed Swiss costs twice the Noctifer. Both can be defeated with the right follow-up.
+- **Best ceiling, on-table anchor:**
+  - **Knight of Justice ML (+1SD)** — 46pt/1.5SWC.
+  - **Hetkari ML** — 47pt/1.5SWC.
+  - **Sunduqbut Feuerbach + Neurocinetics** — 47pt/1.5SWC.
+
+  Each offers high-value lane lock, resilience or reactive firing; all still need a retreat/counterplay plan.
+- **Best cheap hard ARO:**
+  - **Sierra / Hùsòng Thunderbolt(+1B)** — 18pt/0SWC.
+  - **Zayin** — 19pt/0SWC.
+  - **Reaktion** — 19pt/0SWC.
+  - **Q-Drone** — 20pt/0.5SWC.
+
+  The common 360° TR body is far easier to fit than another 1.5SWC sniper; **repeatability with an Engineer** is the point.
+- **Best low-cost *trap*:**
+  - **Daylami** — 6pt/0SWC Panzerfaust or 8pt/0SWC Camo (1 Use)+Infiltration.
+  - **Minescorp Jackal** — 6pt/0SWC Panzerfaust or LRL.
+  - **Warcor Flash Pulse** — 3pt.
+
+  These are not expected to beat elite guns; they buy an Order tax, force risk, or deny a lane they can afford to lose.
+- **Best specialist DZ denial:**
+  - **Kaauri E/M Minelayer** — 11pt (Biometric Visor, MSV1, Sixth Sense, S1).
+  - **O-12 Bluecoat Adhesive/Heavy Riotstopper** — 13pt.
+  - **Local mines/direct-template weapons** as an alternative layered defense.
+
+  These protect an **arrival/destination square**, not a whole table.
 - **Best ARO doctrine:** show a *recoverable or disposable first obstacle*, conceal the **real second problem**, guard the approach square, and keep the primary attacker safe for your own turn. A single exposed elite ARO is *not* a defensive architecture.
 
 ## What “best” means
@@ -196,7 +221,14 @@ TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usu
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed layered ARO successes:** **Kestrel Black A.I.R./Blink/Griffin + Firefly/Disco and Trauma-Doc** combines lanes, vision control and recovery (#002–#004). **Vanilla PanO Swiss Guard hidden assault + Helot/Joan defense** (#169), **Strelok Decoys around Tankhunter hidden ARO + Scout mines** (#161/#237 same event), and **Long Ya/Camo+Hundun** pressure (#003) illustrate the value of *uncertainty and layered responses* rather than one invincible overwatch.
+**Observed layered ARO successes:**
+
+- **Kestrel Black A.I.R. / Blink / Griffin + Firefly/Disco + Trauma-Doc:** lanes, vision control and recovery (#002–#004).
+- **Vanilla PanO Swiss Guard + Helot / Joan:** hidden assault and supporting defense (#169).
+- **Strelok Decoys + Tankhunter hidden ARO + Scout mines:** uncertainty and multiple defensive layers (#161/#237, same event).
+- **Long Ya / Camo + Hundun:** overlapping pressure (#003).
+
+The shared advantage is *uncertainty and layered responses*, not one invincible overwatch.
 
 **Failure mode:** #002's elite sniper did not stop White Banner reaching Unmasking HVTs by another path; #231's Shasvastii backfield REM network was breached by Jamie/Moonraker after a Sphinx assault; #189's single TR HMG accidentally watched both delivery circles and dominated Orders, showing **table/mission geometry determines value**. [#002–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#161, #169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
