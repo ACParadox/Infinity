@@ -2,6 +2,49 @@
 
 **Reference archive:** [Vanilla ALEPH source recordings, cross-references, battle reports and purchasing audit](references/vanilla-aleph_refs.md). **Authoritative N5.3 roster:** [Vanilla ALEPH reference](../../sectorials/aleph/aleph.md).
 
+## Overview
+
+**What Vanilla ALEPH does exceptionally well:** it combines extremely efficient **Posthuman / cheap-Order / REM infrastructure** with tools usually spread across different sectorials: Greek **normal Smoke and close combat**, powerful **MSV2/MSV3 gunfighters**, elite WIP15 hacking, Hidden/Infiltrating specialists, and either a premium TAG or a top-tier aerial Vehicle. It wins by choosing *several independent routes* into the mission rather than relying on a single linked attack team.
+
+### Whole-game standouts — apex versus points value
+
+**Top 3 / Top 5 / Top 10 are editorial candidates *within the specific job named*, not measured pick-rate rankings, tournament statistics, or claims that these are the best units overall.** **Apex** measures the capability ceiling; **value** measures that capability for the *complete* points/SWC/Order investment. These shortlists draw on the repository's [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [TAG](../list-building/tags.md), [Vehicle](../list-building/vehicles-vh.md), [toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), and [cheap-Order](../list-building/cheerleaders-and-order-generators.md) comparisons.
+
+| Whole-game role shortlist | Standout legal Vanilla profile/package | Why it merits the shortlist — and the limit |
+|---|---|---|
+| **Top 3 candidate — multi-body specialist efficiency (value)** | **Posthuman Mk.1 Engineer 13/0 + Mk.5 FO 13/0.5** (26/0.5 package); optionally **Mk.4 HMG 30/1.5** | **S+ multi-body value:** two pre-positioned specialist jobs for one G:Jumper troop/Regular Order, with an excellent heavy gun as an optional third Proxy. **Not two/three independent Orders**, and you pay for every Proxy. |
+| **Top 3 candidate — aerial Vehicle (VH) apex *and* value** | **Tarkshya 34/0 MULTI Marksman + Chain Rifle** | **S/S in the VH comparison:** Mimetism(-6), MSV1, fast aerial angle creation, STR3 and a meaningful Operator fallback at zero SWC. **No Cover**, large footprint and hacking exposure keep this from being a free attack. |
+| **Top 5 candidate — anti-Mimetism TAG gunfighting (apex)** | **Marut 86/1.5 MULTI HMG**, or **90/2 Strategos L2 LT** | **S TAG apex:** BS15, MSV2, ARM8/BTS9, Tactical Awareness; **Myrmidon Smoke** turns it into a particularly formidable shooter against non-MSV AROs. Its whole-list points value is much more contested than its ceiling. |
+| **Top 5 candidate — solo combat Hacker / mission toolbox (apex)** | **Asura HD+ 63/0.5** | **S toolbox and S hacker apex:** MSV3, WIP15 HD+, gun, resilience and objective access in one model. No Mimetism and a 63pt single-point-of-failure risk; **the Vanilla Asura HD+ is not the OSS 67pt HD+ LT profile**. |
+| **Top 5 candidate — cheapest transferable Regular Order (value)** | **Netrod 6/0**, AVA3 | **S+ pure Order floor**, tying other 6pt legal Order options across the game. Warhorse, but **mandatory Combat Jump deployment** and no independent combat/scoring function. |
+| **Top 10 candidate — affordable HD+ / Pitcher network Hacker (value)** | **Danavas HD+ 22/0.5** | **S hacker points value:** WIP15, Pitcher, White Noise and improved Oblivion at low cost. Vulnerable one-Wound specialist; not a native Trinity duelist. |
+
+**Other high-quality roles without forced whole-game ranks:**
+- **Shukra CoC 21/0:** Counterintelligence and succession insurance for a risky Marut/Asura Lieutenant.
+- **Myrmidon 16/0:** cheap normal Smoke, Mimetism(-6) and a credible melee screen.
+- **Dasyu FO 29/0 / KHD 31/0:** Hidden Deployment, Mimetism(-6) and mission reach at a significant cost.
+- **Parvati 36/0 / Sophotect 25/0:** different premium recovery packages; the cheap Posthuman Mk.1 often makes a second premium repairer unnecessary.
+
+### Particularly powerful synergies — but no standard Vanilla Fireteams
+
+**Vanilla ALEPH has no normal Core, Haris or Duo Fireteam chart in the pinned N5.3 roster.** An FTO label, a unit named a "Team", or an OSS/Steel Phalanx chart does **not** grant Vanilla linking. Its standout *non-Fireteam* combinations are:
+
+- **Marut + 16pt Myrmidon Smoke:** exceptionally high anti-Mimetism shooting ceiling, paid for with smoke/setup Orders and substantial TAG points.
+- **Posthuman Mk.1 Engineer + Mk.4 HMG / Mk.5 FO:** repair, long-range attack and scoring spread across the table without buying separate troop slots or separate Regular Orders.
+- **Pilot-X + one/two RacerBots + Danavas HD+ (optional):** fast Repeater placement plus a high-WIP Pitcher/White Noise Hacker; the full two-bot Pilot-X package costs **39/0.5**, before Danavas.
+- **Marut or Maximus + Apsaras TAGCom + Engineer:** same-Combat-Group printed TAG support and a genuine recovery plan, *not* a Fireteam bonus.
+
+### Unusual access, meaningful absences and costs
+
+- **All three kinds of vision control exist, on different profiles:**
+  - **Normal Smoke:** Myrmidon, Penthesilea and Hippolyta; friendly MSV can exploit it against suitable opponents.
+  - **Eclipse / projected vision denial:** Kinnara Parachutist Eclipse and the **Yadu / Claire Disco Baller** profile options; this is **not** ordinary smoke-shooting.
+  - **White Noise:** HD+ options such as Danavas and Asura, against the appropriate visors/Marksmanship situation.
+- **Unusual combined visor access:** **Marut MSV2** plus **Asura MSV3**, with Greek Smoke available in the *same Vanilla army*.
+- **Command and recovery:** **Apsaras cheap LT**, **Shukra CoC + Counterintelligence**, efficient Posthuman engineering, and optional TAGCom support.
+- **Heavy platform choice:** **Marut** and **Maximus** are TAG choices; **Tarkshya is VH, not a third TAG**. **Agent Maximus and TAG Maximus cannot be selected together.**
+- **Main price for flexibility:** no legal standard Fireteam bonuses, many Hackable REM/TAG investments, expensive premium models and competing Orders/SWC. A broader roster does not mean a single 300pt list can buy every strong module.
+
 ## One-minute faction assessment
 
 - **Core identity:** A **Posthuman/cheap-order/REM infrastructure** like OSS, plus **Myrmidon smoke, Hippolyta/Penthesilea CC, Greek MSV/ARO, K2 flank utility**, all selectable together with elite hacking and a premium TAG. **No normal Fireteams**, so the cost is losing the link bonuses/support combinations that make OSS more concentrated.

@@ -6,7 +6,7 @@
 
 ## Overview
 
-**What Shindenbutai does exceptionally well:** modular combined arms, rather than a compulsory five-Senku Core.
+**What Shindenbutai does exceptionally well:** assemble several small, independently useful threats instead of a compulsory five-Senku Core. A Tanuki-led Sayō module combines **Pitcher + Disco Baller + a mobile MSV gun**; separate **Hatamoto LT/NCO**, concealed midfield trades and inexpensive mission specialists give the opponent multiple distinct problems. The sectorial's unusual strength is **legal, flexible Duos**, not an automatic advantage in one head-on shooting contest.
 
 The standout independent modules are:
 - **Tanuki Hacker + Sayō Duo/Haris:** Pitcher, Disco and specialist network.

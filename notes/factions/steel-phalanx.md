@@ -2,6 +2,49 @@
 
 **Reference archive:** [Steel Phalanx source recordings, cross-references, battle reports and purchasing audit](references/steel-phalanx_refs.md). **Authoritative N5.3 roster:** [Steel Phalanx reference](../../sectorials/aleph/steel-phalanx.md).
 
+## Overview
+
+**What Steel Phalanx does exceptionally well:** it makes a *small number* of elite Greek combatants disproportionately difficult to remove by combining **Mimetism(-6), ordinary Smoke, profile-specific Eclipse and Disco Baller, strong close combat, Doctors/Engineers and compact legal Fireteams**. Instead of investing entirely in a hero brick, the most robust architecture uses cheap Orders, one main attack/Fireteam module, and a distinct long-range or scoring follow-up.
+
+### Whole-game standouts — apex versus points value
+
+**Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official ranks, tournament pick rates or claims that a unit is among the ten best overall.** **Apex** is the peak capability for the named job; **value** includes points, SWC and Order investment. The cross-faction [ARO](../list-building/aro-units-apex-and-value.md), [TAG](../list-building/tags.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), and [Order economy](../list-building/cheerleaders-and-order-generators.md) analyses support the comparisons.
+
+| Whole-game role shortlist | Standout legal Steel Phalanx profile | Why it merits the shortlist — and the limit |
+|---|---|---|
+| **Top 3 candidate — exposed high-end sniper ARO (apex)** | **Atalanta Total Reaction MULTI Sniper 41/1.5** | **S ARO apex:** BS15, MSV2, Marksmanship, Shock and native Total Reaction create one of the game's strongest *visible* sniper FtF threats. **Her 38/1.5 Hidden Deployment sniper is a different profile, without Total Reaction.** Both are only one Wound; bypass/White Noise remain counters. |
+| **Top 5 candidate — affordable TAG gun/Order package (value)** | **Agamemnon AP HMG 65/1.5** (or AP Spitfire **63/1.5**) | **S TAG value:** BS14 AP gun, 3 STR, Tactical Awareness, Remote Presence and a Karkata specialist for considerably less than an 80–100pt premium TAG. Lacks MSV/Mimetism; has to survive hacking and range mismatches. |
+| **Top 5 candidate — combined command insurance + Eclipse delivery (apex)** | **Myrmidon Officer CoC 30–31/0.5** | One profile combines genuine **Eclipse Grenades**, Mimetism(-6), NWI and **Chain of Command**, enabling otherwise dangerous close approaches and protecting an aggressive LT. **A+ trade/command and S-tier vision-role comparisons**, though an expensive way to buy only a smoke template. |
+| **Top 10 candidate — cost-effective all-turn long-range reactive piece (value)** | **Phoenix HRL 32/1.5** | **A+ ARO grade:** Mimetism(-6), NWI, capable long-range HRL and legal Myrmidon Core membership. Excellent deterrence for the price, but not a universal anti-MSV/White Noise answer. |
+| **Top 5 candidate — cheapest pure Regular Order (value)** | **Netrod 6/0**, AVA2 | At the cross-game **S+ pure Order price floor**, freeing resources for expensive heroes. Must deploy by Combat Jump; contributes no separate mission, repair or fighting utility. |
+
+**Other important pieces without a forced global rank:**
+- **Machaon 37/0.5:** WIP15 Doctor, normal Smoke and a mission-useful Myrmidon team member or Lieutenant choice by profile.
+- **Ajax FTO 39/0:** brutal close assault inside a legal Myrmidon Core; his **non-FTO** profile does not gain that membership.
+- **Alkê 27/0 NCO / Disco Baller:** uncommon projected vision denial plus Lieutenant-Order spending in a legal Thorakitai-oriented team.
+- **Agêma 27/1.5:** **Hidden MULTI Sniper** versus **one-use Camo + Decoy Missile Launcher** are separate asymmetric ARO options.
+- **K2 Auxiliar FTO 11–12/0:** low-cost E/Marat, Flash Pulse or Mine Dispenser utility inside specifically eligible non-Myrmidon teams; not generic Myrmidon filler.
+
+### Particularly powerful or unusual legal Fireteams
+
+- **Four-member Myrmidon Core — elite assault and visual control:** a legal source such as **Phoenix / Myrmidon Officer / Machaon / Eudoros / Ajax FTO** combined with allowed Myrmidons and limited support members. This can align **Phoenix ranged ARO**, **Officer Eclipse/CoC**, **Machaon Doctor/Smoke** and **Ajax close combat**, but it is expensive and **Core max is four**, not five.
+- **Thorakitai Core — efficient order/specialist platform:** requires a **Thorakites** and allows specific **Dactyl / Acmon / Makhai / K2 FTO** support and eligible Wildcards such as **Alkê**. **Alkê NCO + Disco Baller** can add command and visibility tools to otherwise cheap specialist bodies.
+- **Agamemnon + Dactyl Heavy Duo:** rare straightforward **TAG + actual Engineer** combination for linked movement and repairs. Agamemnon is also independently effective; don't expose its repairer simply to keep it linked.
+- **Hoplite/Makhai-founded Steel Phalanx Duo/Haris + Scylla FTO:** brings hacking/Pitcher support and optional legal FTO utility to a combat-oriented short Fireteam. **A Hoplite or Makhai is required**; **Scylla FTO 25/0.5 does not include the synchronized Charybdis** of the separate non-FTO profile.
+
+The [canonical chart](../../sectorials/aleph/steel-phalanx.md#canonical-fireteam-chart) distinguishes these families, the **four-model Core cap**, required sources and FTO restrictions.
+
+### Unusual access, meaningful absences and costs
+
+- **Multiple, noninterchangeable vision tools:**
+  - **Myrmidons / Machaon:** conventional Smoke (friendly MSV can exploit it against suitable targets).
+  - **Myrmidon Officer CoC:** genuine Eclipse Grenades, including protection from MSV.
+  - **Alkê:** **Disco Baller** on her legal NCO / Lieutenant variants, offering projected Eclipse-style denial; it is **not** the same profile as the Officer's hand-thrown Eclipse.
+- **Elite MSV without relying solely on a smoke trick:** **Atalanta and Agêma MSV2**, plus excellent non-MSV long-range **Phoenix / Agamemnon** alternatives.
+- **Command and sustain:** **Myrmidon Officer CoC**, **Hector Strategos/NCO architectures**, **Machaon Doctor**, **Dactyl / Acmon Engineer** and low-cost Netrods/Lamedh.
+- **Restricted heavy-platform access:** **Agamemnon is the only normal-roster TAG; no normal-roster VH**. Do not import **Marut, Maximus or Tarkshya** simply because they appear in Vanilla/OSS analysis.
+- **Trade-offs:** smaller **four-member** Cores, comparatively few cheap independent scorers once heroes are purchased, exposure to templates/MSV/anti-hacking, and limited Orders if multiple premium characters all demand the same active turn.
+
 **Fireteam corrections against current N5.3 chart:**
 
 - Myrmidon and Thorakitai **Core teams max 4 models**.

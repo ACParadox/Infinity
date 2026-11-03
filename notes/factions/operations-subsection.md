@@ -2,6 +2,50 @@
 
 **Reference archive:** [Operations Subsection source recordings, cross-references, battle reports and purchasing audit](references/operations-subsection_refs.md). **Authoritative N5.3 roster:** [Operations Subsection reference](../../sectorials/aleph/operations-subsection.md).
 
+## Overview
+
+**What Operations Subsection (OSS) does exceptionally well:** it converts ALEPH's **Posthuman efficiency, WIP15 hacking and specialist-quality REMs** into *legal, mutually supporting Fireteams*. The defining advantage over Vanilla is not simply more robots: it can pair a powerful **Asura/Yadu command attack**, a cheap **Dikpala/Deva repeater Core**, flexible **Samarthan mission tools**, or **MAX-OP TAG support** with carefully chosen linked specialists.
+
+### Whole-game standouts — apex versus points value
+
+**Top 3 / Top 5 / Top 10 mean editorial candidates *for the named role*, not official overall rankings or measured tournament results.** **Apex** means maximum effect in the right matchup; **value** includes entire package cost, SWC and real Order economy. The [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [VH](../list-building/vehicles-vh.md), [hackers](../list-building/hackers-and-killer-hackers.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) guides supply the cross-faction comparisons.
+
+| Whole-game role shortlist | Standout legal OSS profile/package | Why it merits the shortlist — and the limit |
+|---|---|---|
+| **Top 3 candidate — multi-body efficiency (value)** | **Posthuman Mk.1 Engineer 13/0 + Mk.5 FO 13/0.5**; optional **Mk.4 HMG 30/1.5** | **S+ multi-body value.** Combines repair, forward scoring and possibly an efficient heavy gun in one G:Jumper troop; **one shared Regular Order**, not independent Orders for each Proxy. |
+| **Top 3 candidate — aerial VH (apex and value)** | **Tarkshya 34/0 MULTI Marksman + Chain Rifle** | **S/S VH:** fast MSV1/Mimetism(-6) angle attacker, STR3 and useful Operator fallback. Its exposed large Vehicle silhouette and lack of Cover make it very different from a stealth TAG. |
+| **Top 5 candidate — solo combat-Hacker/scorer (apex)** | **Asura HD+ 63/0.5**, or **67/0 HD+ Lieutenant (+1 Order)** | **S hacker/toolbox apex:** WIP15, MSV3, durable specialist and offensive HD+; the **OSS-only LT variant** creates a distinct order plan. Costly, Hackable and no built-in Mimetism. |
+| **Top 5 candidate — specialist TAG support (value)** | **Apsaras TAGCom 18/0** supporting same-group **Marut / Maximus** | **S support points-value tier:** KHD/specialist plus printed same-group Dodge PH+3 and GizmoKit PH+1 for a high-cost TAG. The **17pt KHD** is cheaper when there is no TAG to support; TAGCom does not buff VH or all REMs. |
+| **Top 10 candidate — cheap HD+ / Pitcher Hacker (value)** | **Danavas HD+ 22/0.5** | **S hacker value:** WIP15, Pitcher, White Noise and upgraded Oblivion. Better as a network enabler than as an unprotected frontline fighter. |
+| **Top 10 candidate — inexpensive linked network/Order seed (value)** | **Dikpala Repeater / Akrylat-Kanone 13/0** | A cheap Regular, Mimetism(-3) / ECM Hacker(-3) Repeater with **OperationS required-source access**, so one small body can help enable a much more useful Fireteam. Not the best pure Order floor versus a 6pt Netrod. |
+
+**Other exceptional packages that do not need a forced global rank:**
+- **Pilot-X 23/0.5 + RacerBot(s) 8 each:** **31/0.5** with one or **39/0.5** with two, projecting a fast mobile Repeater/minelayer network; RacerBots cannot be separately purchased.
+- **Posthuman Mk.4 HMG 30/1.5:** S-rated *ranged value inside the paid G:Jumper package*; its supporting Proxies are not free.
+- **Marut 86/1.5 or 90/2 LT:** S TAG gun ceiling; OSS offers an eligible MAX-OP Duo, but lacks Vanilla's inexpensive native Smoke for shooting through it.
+- **Deva KHD 20/0 / FO 21/0:** high-value WIP15 protected scoring and cyber support on distinct profiles.
+
+### Particularly synergistic legal Fireteams
+
+- **Asuras Duo/Haris — premium command and attack:** **Asura HD+ Lieutenant (+1 Order)** plus an eligible **Yadu NCO HMG** can direct Lieutenant Orders into useful linked gun activations. **At least one Asura** is required; this is not a generic Yadu Core.
+- **OperationS Core/Haris — inexpensive network-backed team:** **Dikpala Repeater** or **Deva** supplies the legal required source; eligible **Danavas**, **Riksha HRL**, **Artalis Engineer** and other charted members add hacking, reactive shooting, specialists or repair. Check the exact limits/required source: none of those supporting units alone establishes the family.
+- **Samarthan Duo/Haris/Core — scoring plus control:** legal **Yadu** (including Disco/NCO/FO by specific profile), **Riksha** or **Dawon** source, supported by suitable **Artalis**, **Claire**, **Shakti** or **Sharvara** options. Strong when a mission needs several distinct jobs moving together, not just maximum shooting Burst.
+- **MAX-OP Duo — unusual TAG + specialist support:** **Marut or TAG Maximus** as the required source with a legal **Johnny Kao**, **Claire FTO**, **Artalis** or other permitted escort. The duo can combine a premium TAG with engineering/mission support; **MAX-OP is only a Duo**, not a TAG super-Core.
+- **Optimates Duo/Haris/Core — aggressive E/M/control package:** an allowed **Johnny Kao / Claire / Kyra FTO** source with **Sharvara HoundBots** or **Pilot-X Team**, subject to exact chart limits. **Kyra's airborne non-FTO profile** is not the linked version.
+
+See the [canonical OSS Fireteam chart](../../sectorials/aleph/operations-subsection.md#fireteams) before assigning FTO profiles, required members or link bonuses.
+
+### Unusual access, meaningful absences and costs
+
+- **No broad native ordinary Smoke package:** OSS cannot simply reproduce **Vanilla Myrmidon Smoke + Marut MSV2**. Its alternative vision tools are:
+  - **Yadu Disco Baller 28/0** and **Claire Disco Baller 33/0** — projected Eclipse-style LoF denial by their actual profiles.
+  - **Kinnara Parachutist 24/0** — Eclipse Grenades delivered from a flank; not general-purpose armywide Smoke.
+  - **Danavas / Asura HD+** — White Noise against relevant enemy vision rules.
+- **High-end visors and hackers:** **Asura MSV3**, **Marut MSV2**, WIP15 hacking, inexpensive Deva KHD and a substantial REM/Repeater ecosystem.
+- **Command protection and buffs:** **Shukra CoC / Counterintelligence**, **Apsaras TAGCom / RemDriver** and linked **Yadu NCO** permit several very different command architectures.
+- **Multiple heavy chassis, not an automatic double-TAG build:** **Marut** and **Maximus** are TAG choices; **Tarkshya is VH**. **Agent Maximus and TAG Maximus are mutually exclusive.**
+- **Structural limits:** expensive Hackable bodies, crowded REM bases, profile-specific FTO/required-source rules, and the danger of spending most of a list on one linked premium unit. Large Fireteam access is useful only if it leaves enough independent scoring and Orders.
+
 ## The short answer
 
 - **Identity:** A deep toolbox of *hackable but efficient* REMs supporting elite WIP hackers, a very cost-efficient Posthuman package, flexible Fireteams, and two very different TAG choices. Most lists cannot afford *every* good new named character.
