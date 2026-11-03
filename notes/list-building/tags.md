@@ -22,7 +22,13 @@ He **would not personally select a Wrecker in Vanilla** compared with the availa
 
 - **Most oppressive ceiling ("apex")**: **Avatar, Marut, Cutter, Zeta, Sphinx**; the first two bring extraordinary gun/command packages, Cutter/Sphinx protect their investment through marker state, and Zeta combines HRMC with Climbing Plus. They are **not automatically best buys**.
 - **Best value for points in many lists**: **Tikbalang, Squalos Mk-II, Agamemnon, Overdron, Lizard, Zeta, Stigmata, Wrecker and Xeodron**. Their price and extra Orders/roles preserve a functioning army around them. Which is *actually* best depends on access, profile and match-up.
-- **Exceptional specialist answers**: **Uhlan** for Camouflage + punishing long-range Feuerbach or forward assault; **Jotum** against conventional small-arms-heavy opponents; **Caskuda** for Combat Jump disruption; **Maghariba** for multiple weapons and S8 dominance; **Gorgos** for Tohaa's fast multi-wound pressure; **Longwang** for nonlethal control.
+- **Exceptional specialist answers**:
+  - **Uhlan** for Camouflage + punishing long-range Feuerbach or forward assault
+  - **Jotum** against conventional small-arms-heavy opponents
+  - **Caskuda** for Combat Jump disruption
+  - **Maghariba** for multiple weapons and S8 dominance
+  - **Gorgos** for Tohaa's fast multi-wound pressure
+  - **Longwang** for nonlethal control.
 - **Do not confuse maximum lethality with win rate.** A cheaper TAG plus a Hacker/KHD, Engineer, actual specialist, and secondary attacker often wins more scenarios than one unsupported superstar. The choice is not just "TAG A versus TAG B"; it is **TAG A + the rest of the list** versus **TAG B + the rest**.
 
 ## How the tiers are defined

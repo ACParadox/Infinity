@@ -107,7 +107,12 @@ Includes infantry, REMs and **VH aerial craft** (not TAGs). VH's **No Cover** an
 
 ### Which non-TAG unit wins its *particular* shootout?
 
-- **Enemy in Cover:** **Spetsnaz HMG, Hetkari, Territorial AP MMR**, or a justified **Assisted Fire REM**. **Mk.4** instead imposes BS Attack(−3) on the defender; don't conflate the two effects.
+- **Enemy in Cover:**
+  - **Spetsnaz HMG**
+  - **Hetkari**
+  - **Territorial AP MMR**
+  - *Context:* or a justified **Assisted Fire REM**.
+  - **Mk.4** instead imposes BS Attack(−3) on the defender; don't conflate the two effects.
 - **Mimetism−6 / smoke ARO:** **Asura, Intruder, Nisse, Hsien, Epsilon**, or **MSV2 Mukhtar**. The visor may be countered by White Noise/Albedo; plan a separate gun.
 - **HI/TAG in high ARM:** **Veteran Kazak AP HMG, Asawira AP Spitfire, Hatamoto's close-range alternate**, or switch to a **TAG with AP HRMC/MULTI**; pure high Burst without penetration may not finish.
 - **Hidden ARO first-contact:** **Swiss/Hac Tao**, **Camo Spetsnaz**, cheap expendable probe, guided/indirect setup, or a model that can approach behind smoke; don't feed your biggest body untested.
@@ -147,7 +152,11 @@ Includes infantry, REMs and **VH aerial craft** (not TAGs). VH's **No Cover** an
 **TAG practical selections:**
 - **Most decisive versus Mimetism/Smoke:** **Marut**. **Versus MSV:** **Overdron Albedo** or a concealed/non-visored angle. **Versus basic high-Burst fire:** **Jotum** if opponent lacks E/M/hacking. **Versus ARM8+:** **Zeta/Overdron/Agamemnon AP** or appropriate **MULTI** mode.
 - **Best route through tall terrain:** **Tikbalang, Zeta, Sphinx (if ambush is essential), Seraph jump**. Flank geometry can outperform +2 BS and 10 points of ARM.
-- **Best TAG plus a functioning second attack plan:** **Squalos55**, **Wrecker55–57**, **Overdron62**, **Agamemnon65**. Their point savings fund a separate anti-hacking/camo/scoring tool.
+- **Best TAG plus a functioning second attack plan:**
+  - **Squalos55**
+  - **Wrecker55–57**
+  - **Overdron62**
+  - **Agamemnon65**. Their point savings fund a separate anti-hacking/camo/scoring tool.
 - **Prefer one big TAG over two mid guns only if it does a job neither can:** long-lane ARO clearing, anti-ARM, unique Mimetism/Hiding, or survive/repair under sustained pressure. **Otherwise two angles + specialist + recovery may spend Orders more productively.**
 - **Recovery is not automatic:** account for Engineer access, servant movement, repeater exposure and end-turn LoF. A disabled TAG with no realistic repair route is lost value even if it took one favorable early FtF.
 
@@ -186,17 +195,73 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 
 ## 7. Sectorial implications — gun choices, not universal faction imports
 
-- **Kestrel:** **Griffin HMG37** when lower price/MSV1 and longer range matter; **Hetkari48** for Marksmanship into Cover; **Squalos55** inexpensive mobile armored gun; **Tikbalang69** superior climb and retreat angles. FT restrictions and actual weapon bands decide, not brand preference.
-- **NCA:** **Squalos55/62** as repeatable visible TAG, **Uhlan70/80** for camouflaged anti-armor surprise, **Redeye37/38** for vertical side pressure; a Peacemaker can handle close clearing for a fraction of TAG price.
-- **MO/WinterFor/Varuna/Acontecimento:** **Knight of Justice** linked Spitfire midrange, **Seraph** AP/MULTI mobile, **Nisse31** MSV2 HMG, **Jotum82** armor wall, **Kamau26** cheap HMG in legal team, **Bagh-Mari30** MSV1-linked gun, **Tik69** climb when a TAG is really needed.
-- **Combined/Shas/Onyx/Next Wave/Morat:** **Overdron62** is anti-MSV/armor long gun, **Avatar122** maximum ceiling expensive purchase, **Sheskiin48/50** mobile midfield attacker; **Skyhound33** aerial angle, **Stinger30** backup HMG; **Suryat43** gun+personal activation vs **Sogarat52–58** heavy armor and AP/Feuerbach.
-- **ALEPH/OSS/Steel:** **Mk.4 HMG30 in legal Proxy package** is exceptional mid-budget shooting, **Asura61** visored AP, **Marut86** long premium MSV2 gun, **Agamemnon65** cheaper AP TAG, **Achilles** mobile assault when another gun has opened path.
-- **Nomads/Tunguska/Bakunin/Corregidor:** **Kriza45** HMG raw FtF; **Vostok37–38** Mimetism/climbing; **Intruder38** smoke/MSV2; **Riot Grrl31** team Spitfire, **Lizard64–65** durable armored gun; **Surface Territorial29/0** can be better value than 32pt/1.5SWC Red Fury for repeated midfield firing.
-- **Ariadna/Kosmoflot:** **Spetsnaz36** camouflaged Cover-solver; **Veteran Kazak45 AP** durable anti-armor nonhackable; **Chernobog** bigger TacAware armored breach; **Mirage-5** solves backline problems by position rather than winning a long frontal duel.
-- **Haqq/Ramah/Hassassin:** **Mukhtar25/34** efficient side/anti-Mimetism and soft target gun; **Asawira38** AP durable midrange, **Tarik49** faster close exploit, **Shakush56/58** durable light TAG, **Maghariba71–72** long heavy TAG.
-- **Yu Jing/Imperial Service/Invincible/White Banner:** **Hac Tao59** hidden premium HMG; **Hsien49** MSV2 HMG; **Crane49 AP HMG** armor/CC; **Jujak31** lower-price link gun; **Tiger20/29** drops to better positions, not a head-on long-gun substitute.
-- **O-12/Starmada/Torchlight:** **Gamma50** +Burst long HI, **Epsilon34** MSV2 angle-solver, **Zeta73** high-end AP HRMC climbing, **Wrecker55/57** budget TAG, **Firebat36/0** asymmetric zero-SWC flyer, **Silverstar37** dependable team HMG.
-- **Tohaa/JSA:** **Sukeul33** Triad HMG or **29 FO K1** for scoring/armor; **Gao-Rael30** MSV2 Spitfire; **Gorgos63** AP TAG; **Hatamoto34** 0-SWC gun/scoring/close assault, **O-Yoroi78** big MULTI HMG for open lanes, **Shikami42** movement/angle/scoring rather than HMG volume.
+- **Kestrel:**
+  - **Griffin HMG37** when lower price/MSV1 and longer range matter
+  - **Hetkari48** for Marksmanship into Cover
+  - **Squalos55** inexpensive mobile armored gun
+  - **Tikbalang69** superior climb and retreat angles. FT restrictions and actual weapon bands decide, not brand preference.
+- **NCA:**
+  - **Squalos55/62** as repeatable visible TAG
+  - **Uhlan70/80** for camouflaged anti-armor surprise
+  - **Redeye37/38** for vertical side pressure; a Peacemaker can handle close clearing for a fraction of TAG price.
+- **MO/WinterFor/Varuna/Acontecimento:**
+  - **Knight of Justice** linked Spitfire midrange
+  - **Seraph** AP/MULTI mobile
+  - **Nisse31** MSV2 HMG
+  - **Jotum82** armor wall
+  - **Kamau26** cheap HMG in legal team
+  - **Bagh-Mari30** MSV1-linked gun
+  - **Tik69** climb when a TAG is really needed.
+- **Combined/Shas/Onyx/Next Wave/Morat:**
+  - **Overdron62** is anti-MSV/armor long gun
+  - **Avatar122** maximum ceiling expensive purchase
+  - **Sheskiin48/50** mobile midfield attacker
+  - **Skyhound33** aerial angle
+  - **Stinger30** backup HMG
+  - **Suryat43** gun+personal activation vs **Sogarat52–58** heavy armor and AP/Feuerbach.
+- **ALEPH/OSS/Steel:**
+  - **Mk.4 HMG30 in legal Proxy package** is exceptional mid-budget shooting
+  - **Asura61** visored AP
+  - **Marut86** long premium MSV2 gun
+  - **Agamemnon65** cheaper AP TAG
+  - **Achilles** mobile assault when another gun has opened path.
+- **Nomads/Tunguska/Bakunin/Corregidor:**
+  - **Kriza45** HMG raw FtF
+  - **Vostok37–38** Mimetism/climbing
+  - **Intruder38** smoke/MSV2
+  - **Riot Grrl31** team Spitfire, **Lizard64–65** durable armored gun
+  - **Surface Territorial29/0** can be better value than 32pt/1.5SWC Red Fury for repeated midfield firing.
+- **Ariadna/Kosmoflot:**
+  - **Spetsnaz36** camouflaged Cover-solver
+  - **Veteran Kazak45 AP** durable anti-armor nonhackable
+  - **Chernobog** bigger TacAware armored breach
+  - **Mirage-5** solves backline problems by position rather than winning a long frontal duel.
+- **Haqq/Ramah/Hassassin:**
+  - **Mukhtar25/34** efficient side/anti-Mimetism and soft target gun
+  - **Asawira38** AP durable midrange
+  - **Tarik49** faster close exploit
+  - **Shakush56/58** durable light TAG
+  - **Maghariba71–72** long heavy TAG.
+- **Yu Jing/Imperial Service/Invincible/White Banner:**
+  - **Hac Tao59** hidden premium HMG
+  - **Hsien49** MSV2 HMG
+  - **Crane49 AP HMG** armor/CC
+  - **Jujak31** lower-price link gun
+  - **Tiger20/29** drops to better positions, not a head-on long-gun substitute.
+- **O-12/Starmada/Torchlight:**
+  - **Gamma50** +Burst long HI
+  - **Epsilon34** MSV2 angle-solver
+  - **Zeta73** high-end AP HRMC climbing
+  - **Wrecker55/57** budget TAG
+  - **Firebat36/0** asymmetric zero-SWC flyer
+  - **Silverstar37** dependable team HMG.
+- **Tohaa/JSA:**
+  - **Sukeul33** Triad HMG or **29 FO K1** for scoring/armor
+  - **Gao-Rael30** MSV2 Spitfire
+  - **Gorgos63** AP TAG
+  - **Hatamoto34** 0-SWC gun/scoring/close assault
+  - **O-Yoroi78** big MULTI HMG for open lanes
+  - **Shikami42** movement/angle/scoring rather than HMG volume.
 
 **On-table test:** _Which enemy can it remove in 1–3 well-placed Orders? What does that remove from their next turn? What mission lane opens? Can it retreat/reload/recover, and what other gun/scorer did I give up buying it?_ If these answers are weak, even the highest-apex gun is wrong for the list.
 

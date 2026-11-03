@@ -41,9 +41,24 @@
 
 **Providers and caveats**
 
-- **Vanilla ALEPH:** Myrmidon smoke; Agêma/Deva MSV2; Kinnara Eclipse; Danavas HD+/Pitcher; Marut LT Strategos L2; Naga/Dasyu infiltrating deployable Repeaters.
-- **Operations Subsection (OSS):** No ordinary Smoke; Kinnara Eclipse, Danavas Pitcher, Naga/Dasyu network; Marut Strategos L2; Garuda airborne.
-- **Steel Phalanx:** Myrmidon/Ajax smoke; Agêma/Atalanta MSV2; Myrmidon Officer Eclipse; Scylla/Thamyris Pitchers; Hector only Strategos L1.
+- **Vanilla ALEPH:**
+  - Myrmidon smoke
+  - Agêma/Deva MSV2
+  - Kinnara Eclipse
+  - Danavas HD+/Pitcher
+  - Marut LT Strategos L2
+  - Naga/Dasyu infiltrating deployable Repeaters.
+- **Operations Subsection (OSS):**
+  - No ordinary Smoke
+  - Kinnara Eclipse, Danavas Pitcher, Naga/Dasyu network
+  - Marut Strategos L2
+  - Garuda airborne.
+- **Steel Phalanx:**
+  - Myrmidon/Ajax smoke
+  - Agêma/Atalanta MSV2
+  - Myrmidon Officer Eclipse
+  - Scylla/Thamyris Pitchers
+  - Hector only Strategos L1.
 
 ### Ariadna
 
@@ -71,12 +86,39 @@
 
 **Providers and caveats**
 
-- **Vanilla Ariadna:** Wardriver is a real (expensive) Hacker/Disco source; Wallace inspires; Voronin has Strategos L1 only; Uxía has Infiltration (PH=19), but cannot deploy inside enemy DZ; Chernobog TAG.
-- **USAriadna Ranger Force:** Desperado/Maverick smoke and MSV1; Van Zant backline; Rosie CoC; Wardriver only for hacking; no TAG/VH.
-- **Tartary Army Corps (TAK):** Dog-Warrior/Dynamo smoke and Frontovik MSV1; TankHunter/Vassily CoC; Voronin Counterintelligence, not Strategos L2; no ordinary enemy-DZ AD.
-- **Kosmoflot:** Mirage-5 enters enemy DZ; Uxía (PH=19) can stage close; Frontovik MSV1; Wallace LT Inspiring Leadership; Chernobog; Wardriver Disco.
-- **Caledonian Highlander Army:** Abundant Galwegian/Cameronian smoke, but no MSV shooters; Wallace LT makes Irregular Orders Regular; Uxía has ordinary Infiltration, not verified PH=19 in this roster.
-- **FRRM / Mérovingienne:** Mirage-5 DZ strike, Chasseur control and Briscard MSV1; linked Metro Wardriver Pitcher and Disco Baller; Anaconda TAG; no CoC.
+- **Vanilla Ariadna:**
+  - Wardriver is a real (expensive) Hacker/Disco source
+  - Wallace inspires
+  - Voronin has Strategos L1 only
+  - Uxía has Infiltration (PH=19), but cannot deploy inside enemy DZ
+  - Chernobog TAG.
+- **USAriadna Ranger Force:**
+  - Desperado/Maverick smoke and MSV1
+  - Van Zant backline
+  - Rosie CoC
+  - Wardriver only for hacking
+  - no TAG/VH.
+- **Tartary Army Corps (TAK):**
+  - Dog-Warrior/Dynamo smoke and Frontovik MSV1
+  - TankHunter/Vassily CoC
+  - Voronin Counterintelligence, not Strategos L2
+  - no ordinary enemy-DZ AD.
+- **Kosmoflot:**
+  - Mirage-5 enters enemy DZ
+  - Uxía (PH=19) can stage close
+  - Frontovik MSV1
+  - Wallace LT Inspiring Leadership
+  - Chernobog
+  - Wardriver Disco.
+- **Caledonian Highlander Army:**
+  - Abundant Galwegian/Cameronian smoke, but no MSV shooters
+  - Wallace LT makes Irregular Orders Regular
+  - Uxía has ordinary Infiltration, not verified PH=19 in this roster.
+- **FRRM / Mérovingienne:**
+  - Mirage-5 DZ strike, Chasseur control and Briscard MSV1
+  - linked Metro Wardriver Pitcher and Disco Baller
+  - Anaconda TAG
+  - no CoC.
 
 ### Combined Army
 
@@ -102,11 +144,31 @@
 
 **Providers and caveats**
 
-- **Vanilla Combined Army:** Dāturazi smoke + Yaogat/Vector MSV2; Rasyat Eclipse, Speculo Impersonation; Umbra/Bit Pitchers; Avatar Strategos L2.
-- **Morat Aggression Forces:** Dāturazi smoke + Yaogat MSV2; Rasyat Eclipse/CJ; linked Dartok Pitcher; Bultrak/Raicho TAGs; no HD+.
-- **Next Wave:** Patroclus Smoke, Ko Dali/Teucer MSV2, Ironsides Disco; Gearhead/Pandora/Bit Pitchers; Ko Dali/Cliff-Jumper DZ strikes; Juggernaut TAG and Skyhound VH.
-- **Onyx Contact Force:** No normal Smoke/Eclipse; Ko Dali, Caskuda/Fraacta and Greif (limited Impersonation); Kerr-Nau White Noise; Umbra/Bit Pitchers.
-- **Shasvastii Expeditionary Force:** Speculo Smoke/Impersonation, Gwailo/Haiduk MSV2, Jayth/Tensho Disco; Victor Messer HD+; Cadmus infiltration/Combat Jump.
+- **Vanilla Combined Army:**
+  - Dāturazi smoke + Yaogat/Vector MSV2
+  - Rasyat Eclipse, Speculo Impersonation
+  - Umbra/Bit Pitchers
+  - Avatar Strategos L2.
+- **Morat Aggression Forces:**
+  - Dāturazi smoke + Yaogat MSV2
+  - Rasyat Eclipse/CJ
+  - linked Dartok Pitcher
+  - Bultrak/Raicho TAGs
+  - no HD+.
+- **Next Wave:**
+  - Patroclus Smoke, Ko Dali/Teucer MSV2, Ironsides Disco
+  - Gearhead/Pandora/Bit Pitchers
+  - Ko Dali/Cliff-Jumper DZ strikes
+  - Juggernaut TAG and Skyhound VH.
+- **Onyx Contact Force:**
+  - No normal Smoke/Eclipse
+  - Ko Dali, Caskuda/Fraacta and Greif (limited Impersonation)
+  - Kerr-Nau White Noise
+  - Umbra/Bit Pitchers.
+- **Shasvastii Expeditionary Force:**
+  - Speculo Smoke/Impersonation, Gwailo/Haiduk MSV2, Jayth/Tensho Disco
+  - Victor Messer HD+
+  - Cadmus infiltration/Combat Jump.
 
 ### Haqqislam
 
@@ -130,10 +192,25 @@
 
 **Providers and caveats**
 
-- **Vanilla Haqqislam:** Multiple smoke warbands, Djanbazan/Yara MSV2, Fiday and Ragik DZ threats, Barid Pitchers, Hunzakut Turn-0 network, Saladin Strategos L2.
-- **Hassassin Bahram:** Fiday Impersonation, Ragik airborne and Barid Pitcher; no natural MSV2/White Noise; Wardriver-like Disco alternative comes from Áyyār/Asawira sources.
-- **Qapu Khalqi:** Yuan Yuan Smoke/airborne, Djanbazan MSV2, Druze + Laxmee Pitchers, Odalisque/Arslan Disco; Zeybek VH and multiple merc TAG choices.
-- **Ramah Taskforce:** Khawarij/Mukhtar/Yara MSV2 and Ghulam smoke; Nahab infiltrator/parachutist but no DZ-specific mode established; Hunzakut initial Repeater; Valerya Pitcher.
+- **Vanilla Haqqislam:**
+  - Multiple smoke warbands
+  - Djanbazan/Yara MSV2
+  - Fiday and Ragik DZ threats
+  - Barid Pitchers
+  - Hunzakut Turn-0 network
+  - Saladin Strategos L2.
+- **Hassassin Bahram:**
+  - Fiday Impersonation, Ragik airborne and Barid Pitcher
+  - no natural MSV2/White Noise
+  - Wardriver-like Disco alternative comes from Áyyār/Asawira sources.
+- **Qapu Khalqi:**
+  - Yuan Yuan Smoke/airborne, Djanbazan MSV2, Druze + Laxmee Pitchers, Odalisque/Arslan Disco
+  - Zeybek VH and multiple merc TAG choices.
+- **Ramah Taskforce:**
+  - Khawarij/Mukhtar/Yara MSV2 and Ghulam smoke
+  - Nahab infiltrator/parachutist but no DZ-specific mode established
+  - Hunzakut initial Repeater
+  - Valerya Pitcher.
 
 ### Japanese Secessionist Army
 
@@ -155,9 +232,20 @@
 
 **Providers and caveats**
 
-- **Vanilla JSA:** Oniwaban Infiltration (PH=18), Shinobu PH=19 reach enemy half but not enemy DZ; Teishin Combat Jump; Shikami Eclipse; Tankō Disco; only MSV1.
-- **Ōban:** Shinobu/Oniwaban high-PH Infiltration and Yuan Yuan CJ; Shikami Eclipse, Yojimbo smoke, Tankō Disco, no meaningful MSV2+.
-- **Shindenbutai:** Yojimbo smoke + Tanuki/Rui Shi MSV2; Teishin Combat Jump; Tanuki Pitchers/Disco; Metsuke Strategos L1, not L2.
+- **Vanilla JSA:**
+  - Oniwaban Infiltration (PH=18), Shinobu PH=19 reach enemy half but not enemy DZ
+  - Teishin Combat Jump
+  - Shikami Eclipse
+  - Tankō Disco
+  - only MSV1.
+- **Ōban:**
+  - Shinobu/Oniwaban high-PH Infiltration and Yuan Yuan CJ
+  - Shikami Eclipse, Yojimbo smoke, Tankō Disco, no meaningful MSV2+.
+- **Shindenbutai:**
+  - Yojimbo smoke + Tanuki/Rui Shi MSV2
+  - Teishin Combat Jump
+  - Tanuki Pitchers/Disco
+  - Metsuke Strategos L1, not L2.
 
 ### Non-Aligned Armies (NA2)
 
@@ -183,11 +271,30 @@
 
 **Providers and caveats**
 
-- **Dahshat Company:** Hunzakut/Zhēnchá infiltrating Repeaters, Rui Shi MSV2, McMurrough/Kum smoke; Valerya Pitcher; no dedicated Combat Jump/DZ-entry profile.
-- **Ikari Company:** Yuan Yuan CJ, Kiiutan Impersonator, Brawler/Rui Shi MSV2, Druze Pitcher; Táowù CoC/Counterintelligence.
-- **White Company:** Varangian/Carmen smoke with Nisses/Hǎidào MSV2; Señor Massacre Eclipse; Danavas and Laxmee HD+ Pitchers; Guiláng infiltrating Repeater; Hannibal Strategos L1.
-- **Druze Bayram Security:** Yuan Yuan airborne smoke; linked Druze Pitcher + Valerya; Hunzakut infiltration/Deployable Repeater; Táowù CoC/Counterintelligence.
-- **StarCo:** Bandit/Al Hawwa forward Repeaters; Señor Massacre Eclipse; Uhahu HD+ Pitcher and Tsyklon; Raoul/Hellcat airborne; no native MSV2.
+- **Dahshat Company:**
+  - Hunzakut/Zhēnchá infiltrating Repeaters, Rui Shi MSV2, McMurrough/Kum smoke
+  - Valerya Pitcher
+  - no dedicated Combat Jump/DZ-entry profile.
+- **Ikari Company:**
+  - Yuan Yuan CJ, Kiiutan Impersonator, Brawler/Rui Shi MSV2, Druze Pitcher
+  - Táowù CoC/Counterintelligence.
+- **White Company:**
+  - Varangian/Carmen smoke with Nisses/Hǎidào MSV2
+  - Señor Massacre Eclipse
+  - Danavas and Laxmee HD+ Pitchers
+  - Guiláng infiltrating Repeater
+  - Hannibal Strategos L1.
+- **Druze Bayram Security:**
+  - Yuan Yuan airborne smoke
+  - linked Druze Pitcher + Valerya
+  - Hunzakut infiltration/Deployable Repeater
+  - Táowù CoC/Counterintelligence.
+- **StarCo:**
+  - Bandit/Al Hawwa forward Repeaters
+  - Señor Massacre Eclipse
+  - Uhahu HD+ Pitcher and Tsyklon
+  - Raoul/Hellcat airborne
+  - no native MSV2.
 
 ### Nomads
 
@@ -211,10 +318,25 @@
 
 **Providers and caveats**
 
-- **Vanilla Nomads:** Morlock smoke, Intruder MSV2, Chimera Eclipse; Interventor HD+; Moran/Zero/Spektr early Repeaters; broad pitcher suite; Gecko/Gator/Szalamandra TAGs.
-- **Bakunin:** Morlocks/Zellenkrieger smoke, Orphan MSV2, Chimera Eclipse; Custodier HD+, Moderator/Zoe/Tsyklon Pitchers; Initiated/Zero early Repeaters.
-- **Corregidor:** Jaguars smoke, Intruder MSV2, Señor Massacre Eclipse; Jazz HD+; Moran/Bandit T0 Repeaters; Carlota, Hellcat, Bearcat backline.
-- **Tunguska:** Zondnautica smoke, Cheerkiller MSV2, Interventor HD+; Spektr infiltrating DR, Hollow Men/Tsyklon pitcher setups; Szalamandra/Anaconda.
+- **Vanilla Nomads:**
+  - Morlock smoke, Intruder MSV2, Chimera Eclipse
+  - Interventor HD+
+  - Moran/Zero/Spektr early Repeaters
+  - broad pitcher suite
+  - Gecko/Gator/Szalamandra TAGs.
+- **Bakunin:**
+  - Morlocks/Zellenkrieger smoke, Orphan MSV2, Chimera Eclipse
+  - Custodier HD+, Moderator/Zoe/Tsyklon Pitchers
+  - Initiated/Zero early Repeaters.
+- **Corregidor:**
+  - Jaguars smoke, Intruder MSV2, Señor Massacre Eclipse
+  - Jazz HD+
+  - Moran/Bandit T0 Repeaters
+  - Carlota, Hellcat, Bearcat backline.
+- **Tunguska:**
+  - Zondnautica smoke, Cheerkiller MSV2, Interventor HD+
+  - Spektr infiltrating DR, Hollow Men/Tsyklon pitcher setups
+  - Szalamandra/Anaconda.
 
 ### O-12
 
@@ -236,9 +358,21 @@
 
 **Providers and caveats**
 
-- **Vanilla O-12:** Varangian/Hippolyta smoke with Epsilon MSV2; Cyberghost HD+/Pitcher; Delta/Cuervo/Crushers airborne; Alpha Strategos L1.
-- **Starmada:** Varangian smoke + Epsilon MSV2; Cyberghost HD+/Pitcher, Santiago/Crushers airborne; Saladin and Hector Strategos L1, not L2.
-- **Torchlight Brigade:** Hippolyta is scarce Smoke, PSI-Cop only MSV1, Waverider Pitcher, Yellowjacket CJ, Wrecker TAG and Firebat VH.
+- **Vanilla O-12:**
+  - Varangian/Hippolyta smoke with Epsilon MSV2
+  - Cyberghost HD+/Pitcher
+  - Delta/Cuervo/Crushers airborne
+  - Alpha Strategos L1.
+- **Starmada:**
+  - Varangian smoke + Epsilon MSV2
+  - Cyberghost HD+/Pitcher, Santiago/Crushers airborne
+  - Saladin and Hector Strategos L1, not L2.
+- **Torchlight Brigade:**
+  - Hippolyta is scarce Smoke
+  - PSI-Cop only MSV1
+  - Waverider Pitcher
+  - Yellowjacket CJ
+  - Wrecker TAG and Firebat VH.
 
 ### PanOceania
 
@@ -268,13 +402,37 @@
 
 **Providers and caveats**
 
-- **Vanilla PanOceania:** No normal Smoke; Fennec/Aquila Disco instead (blocks MSV too); Joan Inspiring Leadership, Scarecrow initial Repeater, Black AIR DZ entry and Banshee CJ.
-- **Kestrel Colonial Force:** No Smoke or Pitcher; Fennec/Richard Quinn Disco, Scarecrow infiltrating Repeaters, Black AIR DZ entry, Magistrate Strategos L1.
-- **Military Orders:** Joan Inspiring Leadership; Black Friar MSV2 has no Smoke pairing; Crusader/Santiago CJ; Trinitarian infiltrating DR, Knight of Justice Pitcher.
-- **Neoterran Capitaline Army:** Aquila/Deva MSV2, Quinn/Aquila Disco; Garuda CJ; Blocker/Locust Pitchers; Maximus **LT** Inspiring Leadership; Aquila Strategos L1.
-- **Shock Army of Acontecimento:** Guarda de Assalto Eclipse (not ordinary Smoke), Bagh-Mari MSV1; Akali/Kirpal airborne; Naga infiltrating Repeater; Scylla limited Pitcher.
-- **Svalarheima WinterFor:** No ordinary Smoke or confirmed enemy-DZ-entry attacker; Vargar/Bøyg/Quinn Disco, Nisse MSV2, Locust Pitcher, Jotum TAG.
-- **Varuna Immediate Reaction Division:** No normal Smoke, no White Noise; Quinn Disco, Kamau MSV2; Croc Men turn-0 Repeaters; Echo-Bravo has edge Parachutist rather than guaranteed enemy-DZ entry.
+- **Vanilla PanOceania:**
+  - No normal Smoke
+  - Fennec/Aquila Disco instead (blocks MSV too)
+  - Joan Inspiring Leadership, Scarecrow initial Repeater, Black AIR DZ entry and Banshee CJ.
+- **Kestrel Colonial Force:**
+  - No Smoke or Pitcher
+  - Fennec/Richard Quinn Disco, Scarecrow infiltrating Repeaters, Black AIR DZ entry, Magistrate Strategos L1.
+- **Military Orders:**
+  - Joan Inspiring Leadership
+  - Black Friar MSV2 has no Smoke pairing
+  - Crusader/Santiago CJ
+  - Trinitarian infiltrating DR, Knight of Justice Pitcher.
+- **Neoterran Capitaline Army:**
+  - Aquila/Deva MSV2, Quinn/Aquila Disco
+  - Garuda CJ
+  - Blocker/Locust Pitchers
+  - Maximus **LT** Inspiring Leadership
+  - Aquila Strategos L1.
+- **Shock Army of Acontecimento:**
+  - Guarda de Assalto Eclipse (not ordinary Smoke), Bagh-Mari MSV1
+  - Akali/Kirpal airborne
+  - Naga infiltrating Repeater
+  - Scylla limited Pitcher.
+- **Svalarheima WinterFor:**
+  - No ordinary Smoke or confirmed enemy-DZ-entry attacker
+  - Vargar/Bøyg/Quinn Disco, Nisse MSV2, Locust Pitcher, Jotum TAG.
+- **Varuna Immediate Reaction Division:**
+  - No normal Smoke, no White Noise
+  - Quinn Disco, Kamau MSV2
+  - Croc Men turn-0 Repeaters
+  - Echo-Bravo has edge Parachutist rather than guaranteed enemy-DZ entry.
 
 ### Tohaa
 
@@ -292,7 +450,14 @@
 
 **Providers and caveats**
 
-- **Tohaa:** Makaul Eclipse, Kerail/Ioann Smoke, Gao-Rael MSV2, Wardriver Disco/Hacker, Jaan Staar Impersonation, Gao-Tarsos airborne, Gorgos TAG.
+- **Tohaa:**
+  - Makaul Eclipse
+  - Kerail/Ioann Smoke
+  - Gao-Rael MSV2
+  - Wardriver Disco/Hacker
+  - Jaan Staar Impersonation
+  - Gao-Tarsos airborne
+  - Gorgos TAG.
 
 ### Yu Jing
 
@@ -316,10 +481,22 @@
 
 **Providers and caveats**
 
-- **Vanilla Yu Jing:** Shaolin Smoke, Hsien/Rui Shi MSV2, Sun Tze Strategos L2, Tiger CJ, Guiláng deployable Repeaters. Vanilla profile projection is marked PARTIAL; cross-check exact loadouts.
-- **Imperial Service:** Kuang Shi/Celestial Guard smoke + Hsien/Bào MSV2; Sun Tze Strategos L2; Koga infiltrating DR; Fēiquán Pitcher/VH; Jīnyào Combat Jump.
-- **Invincible Army:** Rare smoke absence despite Yu Jing parent; Mówáng/Húláng Disco, Hǎidào linked Pitcher, Zhēnchá initial DR, Liú Xīng CJ and Gūijiă TAG.
-- **White Banner:** Shaolin smoke + Rui Shi MSV2; Dokkaebi/Fēiquán Pitcher, Guiláng infiltrating Repeater, Tiger CJ; Blue Wolf/Gūijiă TAG, Fēiquán VH.
+- **Vanilla Yu Jing:**
+  - Shaolin Smoke, Hsien/Rui Shi MSV2, Sun Tze Strategos L2, Tiger CJ, Guiláng deployable Repeaters. Vanilla profile projection is marked PARTIAL
+  - cross-check exact loadouts.
+- **Imperial Service:**
+  - Kuang Shi/Celestial Guard smoke + Hsien/Bào MSV2
+  - Sun Tze Strategos L2
+  - Koga infiltrating DR
+  - Fēiquán Pitcher/VH
+  - Jīnyào Combat Jump.
+- **Invincible Army:**
+  - Rare smoke absence despite Yu Jing parent
+  - Mówáng/Húláng Disco, Hǎidào linked Pitcher, Zhēnchá initial DR, Liú Xīng CJ and Gūijiă TAG.
+- **White Banner:**
+  - Shaolin smoke + Rui Shi MSV2
+  - Dokkaebi/Fēiquán Pitcher, Guiláng infiltrating Repeater, Tiger CJ
+  - Blue Wolf/Gūijiă TAG, Fēiquán VH.
 
 ## Rare absences and cross-faction consequences
 

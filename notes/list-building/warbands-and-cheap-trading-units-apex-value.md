@@ -23,14 +23,28 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
 
 **Cross-role comparison:** cheap warband **Smoke** and **Eclipse** are ranked specifically as vision-control enablers against **Disco Ballers, Mirrorball and White Noise** in the [N5.3 Vision Control apex/value guide](vision-control-units-apex-and-value.md); don't infer full-list Smoke value from CC/trading efficiency alone.
 
-- **Best generic dirt-cheap value:** **Ghazi Muttawi'ah 5–6/0**, **Galwegian Chain Rifle 5/0**, **Shaolin Monk Chain Rifle 5/0**, **Morlock Chain Rifle + Smoke + E/M CCW 6/0**, **Yuan Yuan Chain+Smoke 6/0** (only eligible factions). For *one high-risk trade*, favor the **right weapon** over 1pt differences: Ghazi E/Marat attacks Hackable targets; a 5pt Galwegian cannot.
+- **Best generic dirt-cheap value:**
+  - **Ghazi Muttawi'ah 5–6/0**
+  - **Galwegian Chain Rifle 5/0**
+  - **Shaolin Monk Chain Rifle 5/0**
+  - **Morlock Chain Rifle + Smoke + E/M CCW 6/0**
+  - **Yuan Yuan Chain+Smoke 6/0** (only eligible factions). For *one high-risk trade*, favor the **right weapon** over 1pt differences: Ghazi E/Marat attacks Hackable targets; a 5pt Galwegian cannot.
 - **Best reliable anti-HI/TAG 5–10pt *state* threat:** **Ghazi E/Marat 5/0 (Haqq/Bahram profile-dependent Smoke access)**, **Morlock E/M CCW 6/0** and **Daylami Panzerfaust 6/0 / Camo+Panzerfaust 8/0**. The Daylami can **threaten at range**; templates and E/M CC generally require proximity and delivery.
 - **Best *Regular* smoke + violent assault:** **Dāturazi Chain Rifle(+1B)14/0**, **Varangian 10/0 (Kosmoflot) or 12/0 (O-12/eligible)** and **Jaguar Chain Rifle+Smoke10/0 (Corregidor)**. They supply **Regular Order infrastructure**, not just sacrificial Irregular activations. Dāturazi also brings MA4/Warhorse/DA CC; Jaguar supplies Dogged/link/MSV2 Intruder smoke.
 - **Best Eclipse enabler:** **Makaul HFT+Eclipse+Viral/DA CC14/0 (Tohaa)**. High **team utility** rather than guaranteed TAG kill; Eclipse blocks MSV, and Heavy Flamethrower can trade with more valuable enemies without needing a winning BS roll. **Myrmidon Officer CoC30/.5** adds Eclipse, Mimetism(-6) and NWI at a very different price.
 - **Best budget close-combat suicide body in link context:** **Diablo 8/0 or 9/0** (Corregidor) — CC23, Berserk, **Trench-Hammer, Transmutation, nominal 2W**, high ceiling versus unprepared HI/TAG when FT Master Lobo/Correctional Fireteam makes the delivery practical. **Do not falsely count the Diablo's printed Irregular/Impetuous Order as a generic Regular**.
-- **Best cheap resilient charge:** **Cameronian 18/0**, **Dog-Warrior21/0**, **McMurrough23/0** — smoke/chain/grenades plus multi-Wound close-in pressure; McMurrough offers CC23 and AP+DA, a credible sustained attacker. Higher apex/consistency than 5pt bodies but lower pure points ratio.
-- **Best non-suicidal utility trader:** **Irmandinho Engineer + Chain Rifle + Smoke + D-Charges8/0** (Ariadna variants) — survives by contributing repairs/technical Classifieds even without attacking. **Carmen Johns + Bâtard17/0** includes fast Smoke, Mimetism/Dogged and synchronized Sensor/CC; **Desperado7/0** instead maximizes quick bike Smoke/Chain threat cheaply.
-- **Sectorial-specific regularity:** **O-12 and Kosmoflot Varangians are Regular+Impetuous** in their pinned roster, whereas **White Company Varangians are explicitly Irregular+Impetuous**; same price does *not* mean same pooled Order value. **Shindenbutai Ioann Bann30** differs from 32pt Smoke-bearing Tohaa/Starmada options.
+- **Best cheap resilient charge:**
+  - **Cameronian 18/0**
+  - **Dog-Warrior21/0**
+  - **McMurrough23/0** — smoke/chain/grenades plus multi-Wound close-in pressure; McMurrough offers CC23 and AP+DA, a credible sustained attacker. Higher apex/consistency than 5pt bodies but lower pure points ratio.
+- **Best non-suicidal utility trader:**
+  - **Irmandinho Engineer + Chain Rifle + Smoke + D-Charges8/0** (Ariadna variants) — survives by contributing repairs/technical Classifieds even without attacking.
+  - **Carmen Johns + Bâtard17/0** includes fast Smoke, Mimetism/Dogged and synchronized Sensor/CC
+  - **Desperado7/0** instead maximizes quick bike Smoke/Chain threat cheaply.
+- **Sectorial-specific regularity:**
+  - **O-12 and Kosmoflot Varangians are Regular+Impetuous** in their pinned roster, whereas **White Company Varangians are explicitly Irregular+Impetuous**
+  - same price does *not* mean same pooled Order value.
+  - **Shindenbutai Ioann Bann30** differs from 32pt Smoke-bearing Tohaa/Starmada options.
 
 **Extra cheap contenders:** **Kum6/0** (Smoke motorcycle), **Libertos8/0** (one-use Camo+Dogged), **Minescorp Jackal FTO6/0** (Panzerfaust/LRL Irregular scaffold), **Motorized Bounty Hunter8–9/0** (bike Riotstopper/Chain-colt) compete on different movement/LoF angles. Their **actual sectorial roster** matters more than a broad nickname.
 **Important exception:** **Muttawi'ah 5pt E/Marat in Hassassin Bahram printed current roster has NO Smoke on that particular option**; Vanilla Haqq's abbreviated roster says **E/Marat+Smoke**. Keep them faction/profile-specific until the underlying exact profile is reconciled. **6pt Jammer Ghazi in Bahram likewise has NO Smoke**, while the 7–8pt shotgun options do. Do not merge abilities into an imaginary 5–6pt all-in-one.

@@ -12,13 +12,45 @@ _Research: 23 Oct 2026 · current committed **N5.3 September-2026** roster profi
 
 ## 30-second verdict
 
-- **Apex strategic optionality:** **ALEPH Posthumans G:Jumper** — 2–3 selected Proxies in different locations perform **different jobs as one Trooper/one Order**; the **Mk.1 Engineer or Doctor is 13/0**, **Mk.5 FO 13/.5**, **Mk.2 hacker 22/.5**, **Mk.4 HMG 30/1.5**. Actual purchase includes **at least two** of these; the common **Mk.1 + Mk.5 = 26/.5** provides two prepositioned specialists for *one shared Order*, not two Order-generators.
-- **Apex Protheion combat snowball:** **Sheskiin 48/0** (BS15 / MA4 / W2 / Nanoscreen / 15-10 MOV / Protheion) combines a strong ranged attacker with the ability to recover/grow by consuming VITA targets in CC. **Caliban BSG24/0** has the best cheap *Protheion delivery* (Camo + FD(+20) + MA3); **Ko Dali 37/0** is the rare **Combat Jump + MSV2 + Protheion + Specialist** combination; choose **34/0 FD+20** instead to avoid AD uncertainty.
-- **Apex passive REM enhancement / points value:** **Apsaras RemDriver 20/0 in OSS** (KHD+Firewall(-3), Deployable Repeater, deployment-time single-REM buff). **Pilot-X 23/.5** combines **RemDriver + Hacker + access to two 8pt RacerBots** with independent utility; one-bot package **31/.5**, two-bot **39/.5**. **Vanilla ALEPH RemDriver Apsaras is 20/1**, whereas other *not-RemDriver* Apsaras options differ; never copy OSS SWC into vanilla.
-- **Most striking MSV+Albedo points-value:** **Imperial Service Bào 16/0** = **MSV2 + Albedo(-3) + Biometric + Discover(+3) + Riotstopper**; **ALEPH Satrah Thunderbolt or MULTI MMR24/0**, **Satrah KHD20/0**, **Military Orders Black Friar Thunderbolt24/0** = **MSV2 + Albedo(-6)**; **White Banner Léi Gōng29/0 FTO** = **MSV1 + Albedo(-6) + Super-Jump + NWI**. These combinations **fight enemy Mimetism/Smoke via MSV while punishing enemy MSV/Marksmanship with Albedo**; neither benefit is universal.
-- **Best Eclipse+extra capability value:** **Bakunin Chimera with 3 Pupniks19/0** (Eclipse, Viral CC, Climbing+, synchronized multi-body attacks), **Tohaa Makaul14/0** (Regular HFT + Eclipse + Viral/DA melee + Triad), **Combined/Morat Rasyat BSG25/0** (**Combat Jump/Parachutist DZ + Eclipse + NBW/MA**), **ALEPH Kinnara Parachutist24/0** (**Eclipse + Monofilament + Sensor + Decoy + Climbing+**) and **JSA Shikami42/0** (**Eclipse + Super-Jump + Climbing+ + Mimetism(-6) + 2W specialist**).
-- **Best genuine double-FO synchronized pair:** **Kestrel/Vanilla PanO Drummer FO + Drumbot-5 FO 21/0**. **Both models actually have Forward Observer**; the bot also carries **Heavy Flamethrower + Flash Pulse, 360º, Mimetism(-3)**. With **one Order, they can declare the same FO Short Skill at different legal targets**, creating up to two Targeted attempts/angles (each must have LoF/roll, synchronize within Coherency). The controller has only **one Regular Order**, not one per body. The repository's summarized disabled subordinate line omitted the bot's printed FO; independently checked [full Drummer/Drumbot-5 roster](https://www.human-sphere.com/Drummers) and [current N5.3 Peripheral rule](https://infinitythewiki.com/Peripheral). **Coyote FO27 + independent BambaDroid FO13 =40/0** is an alternative with two FO-capable *troopers*, but **BambaDroid is not attached BambaBot**; **O-12 Sirius FO21/0 + SiriusBot** offers FO controller + Repeater bot, **not double FO**.
-- **Rare control mechanics worth comparing separately:** **Next Wave Gearhead 13/0 Cyberplug** (N5.3 Connected/Autonomous profile change), **Tunguska Puppet Master 11/0 + 9/0 FO PuppetBot** (Peripheral **Control**, full/battle-ravaged profile; package **20/0 minimum**), **Tohaa Symbio/triad Pheroware/Mirrorball**, and **Marut Strategos L2**. Being mechanically unusual **isn't enough**: each needs correct target, mission and support.
+- **Apex strategic optionality:**
+  - **ALEPH Posthumans G:Jumper** — 2–3 selected Proxies in different locations perform **different jobs as one Trooper/one Order**; the **Mk.1 Engineer or Doctor is 13/0**
+  - **Mk.5 FO 13/.5**
+  - **Mk.2 hacker 22/.5**
+  - **Mk.4 HMG 30/1.5**. Actual purchase includes **at least two** of these; the common **Mk.1 + Mk.5 = 26/.5** provides two prepositioned specialists for *one shared Order*, not two Order-generators.
+- **Apex Protheion combat snowball:**
+  - **Sheskiin 48/0** (BS15 / MA4 / W2 / Nanoscreen / 15-10 MOV / Protheion) combines a strong ranged attacker with the ability to recover/grow by consuming VITA targets in CC.
+  - **Caliban BSG24/0** has the best cheap *Protheion delivery* (Camo + FD(+20) + MA3)
+  - **Ko Dali 37/0** is the rare **Combat Jump + MSV2 + Protheion + Specialist** combination; choose **34/0 FD+20** instead to avoid AD uncertainty.
+- **Apex passive REM enhancement / points value:**
+  - **Apsaras RemDriver 20/0 in OSS** (KHD+Firewall(-3), Deployable Repeater, deployment-time single-REM buff).
+  - **Pilot-X 23/.5** combines **RemDriver + Hacker + access to two 8pt RacerBots** with independent utility
+  - one-bot package **31/.5**, two-bot **39/.5**.
+  - **Vanilla ALEPH RemDriver Apsaras is 20/1**, whereas other *not-RemDriver* Apsaras options differ; never copy OSS SWC into vanilla.
+- **Most striking MSV+Albedo points-value:**
+  - **Imperial Service Bào 16/0** = **MSV2 + Albedo(-3) + Biometric + Discover(+3) + Riotstopper**
+  - **ALEPH Satrah Thunderbolt or MULTI MMR24/0**
+  - **Satrah KHD20/0**
+  - **Military Orders Black Friar Thunderbolt24/0** = **MSV2 + Albedo(-6)**
+  - **White Banner Léi Gōng29/0 FTO** = **MSV1 + Albedo(-6) + Super-Jump + NWI**. These combinations **fight enemy Mimetism/Smoke via MSV while punishing enemy MSV/Marksmanship with Albedo**
+  - neither benefit is universal.
+- **Best Eclipse+extra capability value:**
+  - **Bakunin Chimera with 3 Pupniks19/0** (Eclipse, Viral CC, Climbing+, synchronized multi-body attacks)
+  - **Tohaa Makaul14/0** (Regular HFT + Eclipse + Viral/DA melee + Triad)
+  - **Combined/Morat Rasyat BSG25/0** (**Combat Jump/Parachutist DZ + Eclipse + NBW/MA**)
+  - **ALEPH Kinnara Parachutist24/0** (**Eclipse + Monofilament + Sensor + Decoy + Climbing+**)
+  - **JSA Shikami42/0** (**Eclipse + Super-Jump + Climbing+ + Mimetism(-6) + 2W specialist**).
+- **Best genuine double-FO synchronized pair:**
+  - **Kestrel/Vanilla PanO Drummer FO + Drumbot-5 FO 21/0**.
+  - **Both models actually have Forward Observer**
+  - the bot also carries **Heavy Flamethrower + Flash Pulse, 360º, Mimetism(-3)**. With **one Order, they can declare the same FO Short Skill at different legal targets**, creating up to two Targeted attempts/angles (each must have LoF/roll, synchronize within Coherency). The controller has only **one Regular Order**, not one per body. The repository's summarized disabled subordinate line omitted the bot's printed FO
+  - independently checked [full Drummer/Drumbot-5 roster](https://www.human-sphere.com/Drummers) and [current N5.3 Peripheral rule](https://infinitythewiki.com/Peripheral).
+  - **Coyote FO27 + independent BambaDroid FO13 =40/0** is an alternative with two FO-capable *troopers*, but **BambaDroid is not attached BambaBot**
+  - **O-12 Sirius FO21/0 + SiriusBot** offers FO controller + Repeater bot, **not double FO**.
+- **Rare control mechanics worth comparing separately:**
+  - **Next Wave Gearhead 13/0 Cyberplug** (N5.3 Connected/Autonomous profile change)
+  - **Tunguska Puppet Master 11/0 + 9/0 FO PuppetBot** (Peripheral **Control**, full/battle-ravaged profile; package **20/0 minimum**)
+  - **Tohaa Symbio/triad Pheroware/Mirrorball**
+  - **Marut Strategos L2**. Being mechanically unusual **isn't enough**: each needs correct target, mission and support.
 
 ## 1. What the unusual rules *actually* do
 

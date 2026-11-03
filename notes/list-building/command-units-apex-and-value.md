@@ -41,8 +41,18 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 - **Best inexpensive general Strategos:** **BCA Magistrate LT 19/0** in Kestrel or Vanilla PanO: Counterintelligence, Specialist Operative, Jackal Fireteam Master and Strategos L1 at a very low cost; fragility is the downside. **Magistrate CoC 21/0 is a mutually exclusive profile**, not simultaneously the LT.
 - **Best combat/command ceiling:** **Avatar LT 122/3 SWC** (Strategos L2, Mnemonica, TA, Sepsitor) for sheer power; **Marut LT 90/2** (Strategos L2, MSV2, TA, premium gun) often wins **value** among expensive command TAGs because much more budget remains for specialists.
 - **Best Morat fighting LT:** **Sogarat LT 56/0.5–1** (discounted heavy gun) because the *Warhorse members* of its army stay Regular after a command disaster. **Kornak LT 42/0** (Strategos L1 and LT+1) is still preferable when two **flexible** Orders outperform another big gun.
-- **Best cheap command insurance:** **O-12 Ment CoC 14/0** (Vanilla/eligible O-12), **Kempeitai CoC 17/0** (JSA), **Raveneye CoC 18/0** (Torchlight), **Hafza CoC 20/0** (Qapu/eligible Haqq), **Shukra CoC 21/0** (ALEPH), **Magistrate CoC 21/0** (Kestrel/Vanilla PanO).
-- **Best CoC that also wins the mission:** **Nexus 23/0** (Onyx/Combined), **Farzan 24/0** (Haqq), **Caliban 29/0** (Shasvastii), **Kaeltar 21/0.5** (Tohaa); their actual gun, hacker/network, protection or specialist contribution reduces the *marginal* insurance tax.
+- **Best cheap command insurance:**
+  - **O-12 Ment CoC 14/0** (Vanilla/eligible O-12)
+  - **Kempeitai CoC 17/0** (JSA)
+  - **Raveneye CoC 18/0** (Torchlight)
+  - **Hafza CoC 20/0** (Qapu/eligible Haqq)
+  - **Shukra CoC 21/0** (ALEPH)
+  - **Magistrate CoC 21/0** (Kestrel/Vanilla PanO).
+- **Best CoC that also wins the mission:**
+  - **Nexus 23/0** (Onyx/Combined)
+  - **Farzan 24/0** (Haqq)
+  - **Caliban 29/0** (Shasvastii)
+  - **Kaeltar 21/0.5** (Tohaa); their actual gun, hacker/network, protection or specialist contribution reduces the *marginal* insurance tax.
 
 ### How ratings work
 

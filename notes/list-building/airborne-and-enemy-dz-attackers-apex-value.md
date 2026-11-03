@@ -28,11 +28,27 @@ _Reviewed 2026-10-23. **Tactical opinion, not observed win rates or a universal 
 ## 30-second verdict
 
 - **Best reliable direct enemy-DZ insertion:** **Rasyat 25/0 boarding shotgun or 34/1.5 Spitfire** (Morat/eligible Combined). **Parachutist (Deployment Zone)** guarantees a **legal enemy-DZ table-edge entry without a PH roll**, while **Eclipse, CC, Warhorse and Combat Jump** provide answers to both sight lines and backline counterattack. **25pt is points-value king**, 34pt best for multiple sequential soft targets at range.
-- **Best cheap structural assassination:** **Fiday 23/0 BSG** (Hassassin/eligible Haqq) or **Speculo Killer 26/1 BSG** (Shas/Combined). **Impersonation** threatens Orders, LT, hackers and TAG support from Turn 0. Fiday brings **Smoke/DA** at zero SWC; Speculo brings **Monofilament** and a higher single-hit apex against armored targets, but the 1 SWC investment/roll makes value more volatile.
-- **Best packaged deep flank:** **Van Zant 33–35/0 (USARF/Vanilla Ariadna)** = DZ-entry + **Tactical Awareness/Dogged**, high CC/AP+T2 and easy trade-up; **Mirage-5 Margot+Duroc 60/2** (Kosmoflot/Vanilla Ariadna) = two-body DZ-access, BS14 gun, grenades/smoke, one Irregular and one Tactical Order on correct holders. Mirage has higher saturation/ceiling; Van Zant costs far less and is often more efficient into a few vulnerable targets.
-- **Best low-cost Combat Jump gun:** **Garuda BSG18/0 (ALEPH)** for MOV20-5, Mimetism(-3) and cheap angle; **Hellcat BSG+Adhesive 19/0 (Corregidor/Vanilla Nomads)**, **Teishin BSG19/0 (JSA)**, **Tiger Soldier BSG20/0 (White Banner)**, **Delta BSG+Panzerfaust19/0 (O-12)**. None automatically deserves a risky central drop; **land safe or use Parachutist** if available.
-- **Best self-delivering assassin with no airborne drop:** **Shinobu Kitsune 44/0.5**, **Oniwaban 29/0** (JSA) have **Hidden Deployment, Infiltration, CC/Monofilament**; **Crux Knight hidden FD+20 47/0** (PanO/MO/Kestrel roster) or **Sheskiin 48–50** (Shas/Combined) give heavy midfield breach pressure. A safe-midfield **non-roll** deployment is often more practical than gambling on enemy-half Infiltration.
-- **Best Combat Jump role compression:** **Banshee LSG+Pulzar19/0, KHD23/0** (PanO); **Bearcat KHD29–30/0, Engineer28/0, Paramedic27/0** (Corregidor Surface/Vanilla as legal); **Ragik BSG(+1B)23/0 or HD25/0.5** (Hassassin/Haqq); **Meteor Zond19–21/0** (Nomads) for **airborne Repeater/Sensor/FO** rather than kills. Bring when the drop supplies *anti-hacker, Classified or mission* value after its strike.
+- **Best cheap structural assassination:**
+  - **Fiday 23/0 BSG** (Hassassin/eligible Haqq) or **Speculo Killer 26/1 BSG** (Shas/Combined).
+  - **Impersonation** threatens Orders, LT, hackers and TAG support from Turn 0. Fiday brings **Smoke/DA** at zero SWC
+  - Speculo brings **Monofilament** and a higher single-hit apex against armored targets, but the 1 SWC investment/roll makes value more volatile.
+- **Best packaged deep flank:**
+  - **Van Zant 33–35/0 (USARF/Vanilla Ariadna)** = DZ-entry + **Tactical Awareness/Dogged**, high CC/AP+T2 and easy trade-up
+  - **Mirage-5 Margot+Duroc 60/2** (Kosmoflot/Vanilla Ariadna) = two-body DZ-access, BS14 gun, grenades/smoke, one Irregular and one Tactical Order on correct holders. Mirage has higher saturation/ceiling; Van Zant costs far less and is often more efficient into a few vulnerable targets.
+- **Best low-cost Combat Jump gun:**
+  - **Garuda BSG18/0 (ALEPH)** for MOV20-5, Mimetism(-3) and cheap angle
+  - **Hellcat BSG+Adhesive 19/0 (Corregidor/Vanilla Nomads)**
+  - **Teishin BSG19/0 (JSA)**
+  - **Tiger Soldier BSG20/0 (White Banner)**
+  - **Delta BSG+Panzerfaust19/0 (O-12)**. None automatically deserves a risky central drop; **land safe or use Parachutist** if available.
+- **Best self-delivering assassin with no airborne drop:**
+  - **Shinobu Kitsune 44/0.5**, **Oniwaban 29/0** (JSA) have **Hidden Deployment, Infiltration, CC/Monofilament**
+  - **Crux Knight hidden FD+20 47/0** (PanO/MO/Kestrel roster) or **Sheskiin 48–50** (Shas/Combined) give heavy midfield breach pressure. A safe-midfield **non-roll** deployment is often more practical than gambling on enemy-half Infiltration.
+- **Best Combat Jump role compression:**
+  - **Banshee LSG+Pulzar19/0, KHD23/0** (PanO)
+  - **Bearcat KHD29–30/0, Engineer28/0, Paramedic27/0** (Corregidor Surface/Vanilla as legal)
+  - **Ragik BSG(+1B)23/0 or HD25/0.5** (Hassassin/Haqq)
+  - **Meteor Zond19–21/0** (Nomads) for **airborne Repeater/Sensor/FO** rather than kills. Bring when the drop supplies *anti-hacker, Classified or mission* value after its strike.
 - **Highest landing ceiling, worst consistency tax:** **Caskuda TAG64/1** (Onyx/Vanilla Combined) offers BS14/Tactical Awareness/Combat Jump (Explosion); current Onyx reference says **Combat Jump(PH=14)** despite base PH16. At PH14 an unsupported deep arrival succeeds **70%**, +3 Controlled Jump **85%**; failure deposits a **64-point TAG back at own edge**, perhaps after the entire assault concept collapsed. **Apex A/S in suitable exposed DZ, value B/C across normal packets.**
 - **Best LT/CoC-compatible enemy-DZ plan:** **Sheskiin LT48/0 or 50/.5** / **Bokhtar LT45–46 (Bahram FTO)** / **Tikbalang LT73/1.5 (Kestrel)** are *on-table attacking commanders* with separate CoC backups (**Shasvastii-only** Caliban/Farzan/Magistrate respectively). **Oniwaban LT30/1 or Shinobu LT44/.5 can infiltrate/appear hidden, but a LT left in Hidden Deployment triggers Loss of Lieutenant at the check.** **Bokhtar Parachutist 49–52 and Bokhtar LT are different profiles: no airborne Bokhtar LT combo.** Do not invent CoC on an airborne gun.
 
