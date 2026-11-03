@@ -14,6 +14,51 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags.md).
 
+## Overview
+
+**What Next Wave does exceptionally well:** combine **hero-led compact Fireteams, Fireteam Master Order conversion, Cyberplug peripheral autonomy and vertical Vehicle threats**. It has extraordinary individual utility but relatively few disposable Regular Orders; supporting the key Master/controller and preserving mission specialists matter more than buying every premium attacker.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
+
+- **Top 3 candidate — distributed Cyberplug area denial (apex/value): Gearhead + Sartroid Puzzlers.**
+  - **Gearhead Cyberplug 13/0 + Puzzler 12/0 = 25/0**.
+  - **Gearhead + two Puzzlers = 37/0**.
+  - **S-tier** in [peripheral/multibody comparisons](../list-building/peripheral-synchronized-multibody-apex-value.md): forward E/Marat and adhesive-style control can operate Connected or weaker Autonomous, including independent AROs. **Cyberplugs generate no extra Regular Orders**, and the Controller is a high-priority target.
+- **Top 5 candidate — Fireteam Master converting Irregular assault Orders (apex): Pandora 24–29/0.5.** **S-tier** in the [force-multiplier tiers](../list-building/force-multipliers-special-abilities-apex-value.md) when a legal Research team includes eligible Irregular **Blackhearts/Steeljaws**. **Stingers are already Regular**: a team of regular members does not manufacture additional Regular Orders.
+- **Top 5 candidate — reactive Plasma Sniper (apex): Teucer Neurocinetics 37/1.5.** **A+** in the [ARO ranking](../list-building/aro-units-apex-and-value.md). MSV2, Mimetism(-3) and full reactive Plasma Burst punish long-lane exposure; **unlinked Neuro** is distinct from a legal linked FTO/Feuerbach choice.
+- **Top 10 candidate — 13-point Regular utility/scoring trooper (value): Harbinger FO 13/0.** **S-tier faction standout** in the [best-cheap-units guide](../list-building/best-cheap-units-apex-and-value.md): AP SMG, Flash Pulse(+1B), WildParrot, scenario scoring and Fireteam foundation. At 13 points it is useful, not disposable.
+- **Top 10 candidate — affordable long-range HMG (value): Stinger HMG 30/1.** **A+** in the [active gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md) as a cost-effective backup gun. It remains one Wound and cannot inherit another Stinger's MSV2/Multi Marksman loadout.
+- **High-upside but not universal Top-5 gun: Skyhound AP/Plasma Thunderbolt 33/0.** **A for geometry**, not S, in the [revised gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md). The aerial 0-SWC angle and Mimetism(-6) are excellent, but a large **VH without Cover** remains Hackable and vulnerable to E/M.
+
+### Particularly strong or unusual Fireteams
+
+- **Research Duo/Haris/Core — Pandora plus Tekdraken pressure:**
+  - **Pandora:** mandatory Master and specialist.
+  - **Blackheart:** eligible Irregular close assault/denial converted to Regular while in a qualifying legal team.
+  - **Steeljaw:** eligible Irregular support and Sensor/close pressure.
+  - **Stinger / Wraith-1 FTO:** alternative *already Regular* gun or specialist contributors; these do not themselves create converted Orders.
+- **Shadow — Patroclus-led fast assault:**
+  - **Patroclus FTO:** legal Master/CoC/MediKit profile options.
+  - **Harbinger / Steeljaw / Raindancer FTO:** legal compact-team roles.
+  - **Critical:** FTO Patroclus has **no Smoke**; the Holoprojector HRL with Smoke is an **unlinked** different profile.
+- **Team Achilles — premium no-Wildcard package:**
+  - **Achilles:** required anchor.
+  - **Patroclus FTO, Teucer FTO, Drakios FTO or Pandora:** distinct legal premium support choices.
+  - **No Wildcards:** Nexus/Gearhead cannot join this team just because they are Wildcards elsewhere.
+- **Dragon and Heavies alternatives:** **Drakios FTO + Ironside/Steeljaw** supplies an unusual Albedo/attack framework; **Juggernaut or Ironside Heavies Duo** offers an expensive heavy attack route, not a general-purpose TAG Core.
+
+### Unusual access, gaps and trade-offs
+
+- **Cyberplug autonomy:** **Gearhead + Puzzler/Ranter** project electronic/area-denial threats without normal Controller-range limits, but Autonomous costs pooled Orders and its stats differ.
+- **Both VH and TAG access:** **Skyhound is a Vehicle (VH), with aerial movement and no Cover**; **Juggernaut is a TAG**. They have different defensive rules and support requirements.
+- **Limited normal Smoke:** **unlinked Patroclus Holoprojector HRL 35/1** carries Smoke; **linked FTO Patroclus does not**. There is no wide supply of cheap Regular Smoke warbands.
+- **Projected Eclipse and visors:** **Ironside MULTI Rifle 36/0** has **Disco Baller**; its other weapon profiles differ. **Ironside/Drakios Albedo** counters enemy MSV, and **Teucer, Stinger and Ko Dali** have selected MSV2 options. Normal Smoke, Disco/Eclipse, MSV and Albedo solve different problems.
+- **Command insurance:** **Pandora CoC** and **Patroclus FTO CoC** are separate selected loadouts; **Harbinger LT/decoy** permits inexpensive safer command. Eliminating a Fireteam Master or Gearhead can collapse the Order or Cyberplug plan.
+- **Real limitation:** a high 12–40-point useful-unit floor, many Hackable premiums and restricted Fireteam contexts. **Avatar/Overdron/Sphinx/Xeodron** access from neighboring Combined rosters does not transfer by implication.
+
+
 ## The one-paragraph answer
 
 **Next Wave is a high-quality, low-slack Combined Army force built around small hero-led Fireteams, durable Tekdrakens, versatile guns and unusual anti-approach peripherals.** It has many outstanding 20–70-point profiles **but cannot afford all of them**: few disposable Regular Orders, competing expensive leaders, restricted Fireteam Master combinations, and limited cheap mission/hacking coverage force compromises. Build **one credible hammer, two complementary support/attack teams, a real scoring solution, and cheap Orders**. Winning is less about the biggest dinosaur and more about **making each model solve a different problem**.
