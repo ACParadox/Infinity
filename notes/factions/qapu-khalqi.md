@@ -2,6 +2,57 @@
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/qapu-khalqi_refs.md). **Roster and Fireteams:** [Qapu Khalqi N5.3 reference](../../sectorials/haqqislam/qapu-khalqi.md).
 
+## Overview
+
+**What Qapu Khalqi does exceptionally well:** use inexpensive **Hafza command deception + Sekban NCO**, flexible small Fireteams, Odalisque role compression, Laxmee hacking/White Noise, and smoke-supported MSV shooting to create **several independent routes**. QK also has an unusual selection of mercenaries, TAGs and one aerial Vehicle.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial *role-specific* cross-faction candidates**, not universal all-unit ranks, measured win rates or official tiers. *Apex* is peak matchup impact; *value* compares points/SWC/Orders. Anchors: [command](../list-building/command-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [Vehicles](../list-building/vehicles-vh.md), [vision control](../list-building/vision-control-units-apex-and-value.md) and [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+| Whole-game role shortlist | Profile | Why; limitation |
+|---|---|---|
+| **Top 3 candidate — tiny flank/Smoke trade (value)** | **Yuan Yuan Chain+Smoke 6/0** | **S+ cheap airborne-trade archetype** at negligible cost. Irregular/Impetuous; verify QK's entry rules, not Druze's Combat Jump profile. |
+| **Top 5 candidate — cheap Holomask side-entry (value)** | **Bashi Bazouk SMG 12/0 or T2 BSG 14/0** | **S value** in the enemy-DZ/airborne guide for forcing rear security and deceptive angles. Regular Parachutist is not enemy-DZ entry or Combat Jump. |
+| **Top 5 candidate — anti-MSV aerial Vehicle (situational apex)** | **Zeybek AP Spitfire/Smoke GL 33/1.5** | **S apex VH**: Albedo, armor-piercing fire, Smoke and an Operator. Hackable S7/No Cover can make it very risky. |
+| **Top 5 candidate — budget Chain of Command (value)** | **Hafza CoC 20/0** | **S command value**: Holomask and broad legal Wildcard use hide the succession piece. Distinct from the LT option. |
+| **Top 10 candidate — cheap LT Order economy (value)** | **Hafza LT(+1 Order) 19/0** | **A+ command value** with Holomask plus a **Sekban NCO** outlet; less army-wide power than Saladin. |
+| **Top 10 candidate — linkable Eclipse/mission utility (value)** | **Odalisque Disco 21/0** | NWI, Sixth Sense, Combat Instinct and mobility make projected Eclipse attractive at zero SWC. **Viral MMR/Marksmanship 26/0** and **Paramedic 21/0** are different Odalisque profiles. |
+
+**Other unusually synergistic profiles, without forced ranks:**
+- **Laxmee HD+ 24/.5:** Pitcher, White Noise and Wildcard network utility.
+- **Djanbazan MSV2:** smoke-supported ranged answer.
+- **Iguana TAG 64–68/1.5:** active-attack/Repeater and repair-centered build.
+
+### Particularly strong or unusual Fireteams
+
+**QK allows one Core, an unusual two Haris, and effectively unlimited Duos.**
+
+- **Qapu Khalqi Haris/Core — modular shooting and vision:**
+  - **Odalisque Disco / Paramedic / Viral Marksman:** pick the loadout for the mission.
+  - **Sekban NCO/Doctor:** LT Order conversion and recovery.
+  - **Djanbazan or Azra'il:** heavy/visor gun choice within the actual required-choice pool.
+  - **Hafza or Laxmee Wildcard:** command or network support.
+- **Bekçileri Duo/Haris — elite gun plus low-cost utility:**
+  - **Janissary or Kaplan:** required-choice anchor.
+  - **Odalisque:** mobile specialist/escort.
+  - **Sekban / Wild Bill / eligible Wildcard:** selected third job.
+- **Zırhlı armored Duo — unusually useful pairing:**
+  - **Iguana/Shakush/Triphammer/Scarface–Cordelia:** eligible armored required-choice options.
+  - **Odalisque Disco or Sekban:** a legal infantry escort when the printed row and team caps allow it.
+- **Ghulam and Druze families:** cheap Ghulam-linked infrastructure or **Druze + Arslan** Pitcher/E/M/shooting modules.
+
+The [pinned QK Fireteam chart](../../sectorials/haqqislam/qapu-khalqi.md#canonical-fireteam-chart) confirms **Rafiq FTO** as a Wildcard; **Fiddler FTO** and **Claire FTO** lack corresponding access. Current Army metadata calls QK *discontinued*, but its N5.3 roster/chart still exist.
+
+### Unusual access, gaps and trade-offs
+
+- **Several sightline tools:** **Yuan Yuan normal Smoke**, **Djanbazan MSV2**, **Laxmee HD+ White Noise** and **Odalisque/Arslan/Claire Disco** solve distinct problems; MSV cannot shoot through Eclipse.
+- **Command:** **Hafza LT(+1), CoC and Holomask** with **Sekban NCO** are an efficient alternative to a Saladin-style army.
+- **Mercenaries:** **Yuan Yuan, Bashi, Korsan, Druze, Alguaciles** plus **Al Hawwa** infiltration give nonstandard approaches.
+- **Armored range:** **Iguana, Shakush, Triphammer, Scarface & Cordelia TAGs** and **Zeybek VH**. **No Maghariba, Haytham or Fiday** in the current QK roster.
+- **Risks:** many attractive mid-price profiles can consume a list's Orders; don't pay for a large Core and two premium side attackers without actual scoring/defense remaining.
+
+
 **Critical N5.3 reconciliation** (pinned Army reference overrides older video claims):
 - **Rafiq Remote FTO 19/0.5 (Red Fury):** legal Wildcard, maximum one; **13pt non-FTO Rafiq** is not linkable.
 - **Odalisque:** 15-5 MOV, Sixth Sense, NWI and Combat Instinct; Paramedic, +1B, Viral MMR/Marksmanship and Disco Baller are distinct profile choices.

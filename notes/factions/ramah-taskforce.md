@@ -2,6 +2,53 @@
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/ramah-taskforce_refs.md). **Roster and Fireteams:** [Ramah Taskforce N5.3 reference](../../sectorials/haqqislam/ramah-taskforce.md).
 
+## Overview
+
+**What Ramah Taskforce does exceptionally well:** use **fast elite specialists and fighters** to take unusual firing angles, then keep scoring after the first attack. Tarik/Khawarij Super-Jump, Mukhtar mobility, Namurr Climbing Plus/E/M, and sturdy Janissary/Zhayedan guns produce distinct attack plans. The challenge is buying enough defense and Orders around expensive models.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are qualitative editorial *role-specific* candidates**, not official overall ranks or measured win rates. *Apex* means maximum conditional impact, *value* means cost efficiency. This roster has **fewer defensible universal S-tier apex claims** than Vanilla/Hassassin; do not inflate every elite. See [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md), [Vehicle](../list-building/vehicles-vh.md), [vision-control](../list-building/vision-control-units-apex-and-value.md) and [hacking](../list-building/hackers-and-killer-hackers.md) comparisons.
+
+| Whole-game role shortlist | Unit/profile | Why; limitation |
+|---|---|---|
+| **Top 5 candidate — cheap WIP14 Regular FO (value)** | **Ghulam FO 12/0** | **S+ specialist value**: basic Order, Flash Pulse and Forward Observer for a tiny upgrade. It does not cross the midfield as quickly as an Infiltrator. |
+| **Top 5 candidate — specialist anti-Mimetism aerial hunter (apex)** | **Haytham Red Fury 33/1.5 or BSG 29/0** | **MSV1 + Mimetism(-6)**, exceptional angle-changing and anti-flyer niche. Hackable S7 with No Cover; A-rated, matchup-driven rather than a universal gunfight winner. |
+| **Top 10 candidate — fast multi-role combat attacker (apex)** | **Tarik Mansuri 46–53pt options** | 2W, 15-10 MOV, Super-Jump and powerful active attacks; a legal Wildcard/counts-as Khawarij. An exposed LT or excessive premium spending can lose the game. |
+| **Top 10 candidate — durable ranged TAG (apex)** | **Maghariba 71–72/1.5** | **A+ TAG gunfighter apex**, BS14/ARM8/STR3/360°, Tactical Awareness and Baggage options; S8 and Hacking Area exposure constrain deployment. |
+| **Top 10 candidate — budget Wildcard MSV2 (value)** | **Yara Haddad AP Marksman 24/0** | Economical linked visor and normal Smoke shooting; 1W and modest range don't replace a primary long gun. |
+| **High-value specialist, unranked globally** | **Mukhtar MSV2 Red Fury 34/1 + separate FO/Doctor/Hacker** | **B+ pure gunfighter**, but useful fast Duo/Haris gun-and-scorer module; each teammate is paid separately. |
+| **High-impact anti-tech scorer, unranked globally** | **Namurr Tactical Awareness 41/0** | 2W, Climbing Plus, E/Marat, E/M CCW and Specialist; very expensive when all you need is a gun. |
+
+### Particularly strong or unusual Fireteams
+
+- **Ramah Haris/Core — fast Super-Jump combined arms:**
+  - **Khawarij MSV2 Mk12/NCO or AP Spitfire:** select the actual offensive profile.
+  - **Khawarij Doctor(+3):** linked frontline recovery.
+  - **Tarik Wildcard:** counts as Khawarij, premium assault/scoring.
+  - **Khawarij CoC/Disco:** an alternative LT-insurance/vision profile, not combined with the Mk12 loadout.
+- **Budget Ramah team — reliable gun and Smoke:**
+  - **Ghulam/Naffatûn:** cheap legal required-choice material.
+  - **Zhayedan Marksmanship shooter:** counts as Ghulam.
+  - **Ghulam NCO Smoke GL:** LT Order-funded lane creation.
+  - **Yara/Leila/Valerya Wildcard:** choose MSV, KHD or Pitcher utility.
+- **Mukhtar Duo/Haris:** **MSV2 Red Fury** alongside a separately purchased **FO, Doctor or Hacker**; not a Mukhtar Core.
+- **Janissary Haris/Core or Armored Assault Duo:**
+  - **Janissary + Hortlak/eligible Wildcard:** hard gun plus CoC/Disco or Engineer.
+  - **Maghariba or Shakush + Rafiq FTO:** armored attack and separate Sensor/Repeater/support piece.
+
+Current chart: **one Core, one Haris, unlimited Duos**, with required-choice limits and Rafiq **FTO-only** access. See [Ramah Fireteams](../../sectorials/haqqislam/ramah-taskforce.md#fireteams).
+
+### Unusual access, gaps and trade-offs
+
+- **Mobility and scoring:** **Tarik/Khawarij Super-Jump**, **Mukhtar FD**, **Namurr Climbing Plus**, and **Nahab Infiltration *or* Parachutist** are different high-quality routes.
+- **Disco/Eclipse:** **Khawarij CoC 33**, **Hortlak 28** and **Claire Doctor 33**; distinct from **Ghulam NCO Smoke GL** plus **Yara/Khawarij/Mukhtar MSV2** shooting.
+- **Command/recovery:** **Khawarij/Hortlak CoC** can protect Tarik LT; frontline Doctors and Wildcards may recover premium attack pieces.
+- **Unusually broad premium choices:** **Maghariba and Shakush TAGs**, **Haytham VH** and armored infantry. **Haytham is on the current pinned Ramah roster**, despite a contrary line in the broader Vehicle ranking note.
+- **Asymmetric gap:** no **Fiday/Al-Djabel Impersonation** and no mass cheap **Ghazi/Daylami** screen. **Tuareg Hidden Deployment** and **Hunzakut AVA1** are not equivalent to Hassassin's marker saturation.
+- **Economy risk:** stacking **Tarik, Namurr, Mukhtar and a TAG** can hollow out the Shihab/Fanous AROs, Monstrucker repair, and late mission budget.
+
+
 ## N5.3 tactical assessments transferred from the sectorial reference
 
 The dated assessments below were moved from the [Ramah Taskforce N5.3 reference](../../sectorials/haqqislam/ramah-taskforce.md). For legal profiles, exact costs, AVA, Fireteams, and provenance, that reference remains authoritative. Mentions of roster tables or Fireteams “above” mean the linked reference, not this analysis note.

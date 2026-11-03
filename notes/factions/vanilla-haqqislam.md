@@ -2,6 +2,46 @@
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/vanilla-haqqislam_refs.md). **Roster and Fireteams:** [Vanilla Haqqislam N5.3 reference](../../sectorials/haqqislam/haqqislam.md).
 
+## Overview
+
+**What Vanilla Haqqislam does exceptionally well:** combine an unusually efficient command engine with cheap disruption, Impersonation, camouflage, hacking and several independent attack routes. **Saladin + eligible Irregular troops** converts inexpensive roadblocks into a usable Regular Order pool; **Hafza LT(+1 Order) + Sekban NCO** is a leaner alternative.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
+
+| Whole-game role shortlist | Unit/profile | Why; limitation |
+|---|---|---|
+| **Top 3 candidate — whole-army command engine (apex)** | **Saladin LT 39/0** | **S/S+** conditional economy: Strategos L2, Inspiring Leadership and Counterintelligence turn *eligible* Irregular Orders into pooled Regular Orders. The premium is wasted without those bodies; losing Saladin is catastrophic. |
+| **Top 3 candidate — cheap E/M/Jammer trade (value)** | **Ghazi E/Marat 5/0 or Jammer 6/0**, and distinct Smoke profiles | Among the strongest **S/S+** low-cost Order taxes into expensive vulnerable targets; ordinarily Irregular, fragile, and profile-specific. |
+| **Top 5 candidate — impersonation assault (apex/value)** | **Fiday Boarding Shotgun 23/0** | **S-tier** pre-attack deployment pressure, Smoke, close fighting and zero-SWC assassination. Defensive mines and cheap screens can ruin the attack. |
+| **Top 5 candidate — cheap anti-heavy ranged trap (value)** | **Daylami Panzerfaust 6/0 or one-use Camo 8/0** | **S+** threat for very few points; Disposable shots and Irregularity restrict payoff. |
+| **Top 5 candidate — budget Pitcher/scoring (value)** | **Barid FO + Pitcher 12/0 or KHD + Pitcher 14/0** | WIP14 Regular Specialist and network projection at excellent cost. Separate profiles; FO does not perform KHD/HD programs. |
+| **Top 10 candidate — infiltrating FO (value)** | **Hunzakut FO 15/0** | Camouflage/Infiltration reduces travel Orders; normally Irregular unless a valid Saladin conversion applies. |
+| **Top 5 candidate — anti-visor aerial Vehicle (situational apex)** | **Zeybek AP Spitfire + Smoke GL 33/1.5** | **S apex Vehicle** anti-MSV/Albedo problem-solver with Operator; S7, Hackable and no normal Cover make this matchup-dependent. |
+| **Top 10 candidate — gun-plus-scorer module (value)** | **Mukhtar MSV2 Red Fury 34/1 + separate Doctor/FO/Hacker** | **A+ two-model toolbox**, not a single all-role profile or a top-ten standalone long-range gun. |
+
+### Particularly strong or unusual Fireteams
+
+- **Vanilla's unusual limit:** **Core 0, Haris 1, Duo 2**; two mixed membership pools, rather than a normal five-model Core.
+- **Fireteams I, mobile toolbox Duo:**
+  - **Mukhtar MSV2 Red Fury + Mukhtar Doctor, FO or Hacker:** the gun and selected specialist move together.
+  - **Maghariba/Shakush + Najjarun Engineer:** legal armored recovery Duo if repair is realistic.
+- **Fireteams II, compact Haris:**
+  - **Janissary HMG + Sekban NCO + a second eligible Sekban:** a strong Hafza LT(+1 Order) outlet.
+  - **Janissary + Odalisque Paramedic / permitted third member:** shooting and late mission utility.
+
+**Saladin Coordinated Orders may be better than Fireteams** when attacks need several independently positioned troops. Use the [canonical Vanilla chart](../../sectorials/haqqislam/haqqislam.md#canonical-vanilla-fireteam-chart).
+
+### Unusual access, gaps and trade-offs
+
+- **Order/command:** Saladin's Inspiring Leadership is exceptional; **Farzan CoC** and **Hafza CoC** protect succession but do **not** preserve Saladin's Inspiring Leadership after his loss.
+- **Asymmetry:** **Fiday Impersonation**, **Hunzakut/Farzan/Tuareg infiltration or Hidden Deployment**, cheap Jammer and E/Marat, and multiple flank arrivals.
+- **Visibility:** plentiful normal **Smoke**, **Mukhtar/Djanbazan/Yara MSV2** and **Zeybek Albedo**. **No Disco Baller/Eclipse profile is listed in the current Vanilla standard roster**; normal Smoke does not stop MSV.
+- **Heavy assets:** **Maghariba, Shakush, Triphammer, Scarface & Cordelia TAG options**, plus **Zeybek and Haytham Vehicles**. They solve different problems and are expensive to support.
+- **Limits:** only one standard-roster Fiday, no Core, no inherited sectorial Fireteam legality, and a serious dependence on surviving attackers that can use the converted Orders.
+
+
 ## Strategic identity and competitive thesis
 
 The most distinctive modern vanilla construction is **Saladin + unusually cheap Irregular bodies + two or three serious Order consumers**. Vanilla can mix troops from Haqq branches that individual sectorials cannot bring together, supported by exceptionally cheap smoke, Jammers, expendable Panzerfausts, Camouflage, Impersonation and infiltrating specialists.

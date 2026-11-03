@@ -2,6 +2,54 @@
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/hassassin-bahram_refs.md). **Roster and Fireteams:** [Hassassin Bahram N5.3 reference](../../sectorials/haqqislam/hassassin-bahram.md).
 
+## Overview
+
+**What Hassassin Bahram does exceptionally well:** make the opponent spend Orders *discovering, clearing and second-guessing* threats. The army layers **Hidden Deployment, E/M mines, Decoy, Impersonation, Jammers and cheap Pitchers**, then attacks the openings with selected gunfighters rather than one overgrown Fireteam.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units-apex-and-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
+
+| Whole-game role shortlist | Profile | Why; limitation |
+|---|---|---|
+| **Top 3 candidate — concealed anti-TAG/HI midfield denial (apex)** | **Shujae E/M Minelayer (2) + Flammenspeer 27/0** | **S apex**: Hidden, FD(+20), two E/M mines and a surviving Specialist threaten more than one route. Hidden trooper contributes no Order until revealed; Sensor/Deactivator counterplay matters. |
+| **Top 3 candidate — cheap network/scoring (value)** | **Barid FO + Pitcher 12/0 or KHD + Pitcher 14/0** | **S/S+ value** WIP14 Regular Specialist, projected network and legal Ghulam support; choose FO, KHD or HD *separately*. |
+| **Top 3 candidate — tiny E/M/Jammer roadblock (value)** | **Ghazi E/Marat 5/0; Jammer 6/0** | **S+ cheap-unit value** against vulnerable heavy targets, but these **Bahram profiles have no Smoke**; other Ghazi options supply it. Irregular, fragile. |
+| **Top 5 candidate — cheap Panzerfaust deterrent (value)** | **Daylami 6/0; one-use-Camo 8/0** | **S+** cheap ARO and anti-armor threat; Disposable weapon and Irregular status. |
+| **Top 5 candidate — zero-SWC enemy-DZ pressure (apex/value)** | **Fiday Boarding Shotgun 23/0** | **S-tier** Impersonation/Smoke/close attack; **Hussein Al-Djabel 33/0** is a pricier Viral CC alternative, not the same value proposition. |
+| **Top 5 candidate — CoC plus midfield scoring (value)** | **Farzan CoC 24/0** | **S command apex / A+ value**: Camouflage, Infiltration and succession for +2 points over the *separate* FO22. Keep the sole insurance alive. |
+| **Top 10 candidate — frontline combat Doctor (apex)** | **Asawira Doctor(+3) 35–37/0** | **A+ specialist apex** combines 2W, strong combat, recovery and scoring; not as cost-efficient for backfield healing as Ghulam15. |
+
+**Other notable pieces, without forced global ranks:**
+- **Áyyār:** expensive Hidden/Holoprojector/Triangulated Fire toolbox.
+- **Sunduqbut and Nadhir:** different concealed defensive threats.
+- **Lasiq Viral Sniper 25/1:** A-tier ARO when Viral and the legal team matter.
+
+### Particularly strong or unusual Fireteams
+
+- **Ghulam Core/Haris — cheap Pitcher and support shell:**
+  - **Ghulam:** required base, Orders, Doctors and inexpensive FO.
+  - **Barid:** low-cost specialist, Pitcher or anti-hacker.
+  - **Muyib/Govad:** exact Smoke, E/M, engineering or gun jobs.
+  - **Asawira Wildcard:** fighting/Doctor upgrade, not obligatory.
+- **Bahram Haris/Core — mission-dependent combat module:**
+  - **Lasiq:** Viral ARO or midrange control.
+  - **Muyib/Govad:** Tactical Awareness, Smoke and utility choices.
+  - **Bokhtar FTO:** only **options 1, 2, 5 and 6** may take this Bahram team row.
+- **Shakush Duo:** **Shakush** plus selected **Avicenna, Sayiq or Muyib** support.
+
+The current chart permits **one Core, one Haris, unlimited Duos**. A Fiday, Shujae or Áyyār is not a Fireteam member simply because it cooperates with one. See [canonical Bahram teams](../../sectorials/haqqislam/hassassin-bahram.md#fireteams).
+
+### Unusual access, gaps and trade-offs
+
+- **Concealed/Impersonation saturation:** **Shujae, Áyyār, Nadhir, Sunduqbut, Fiday and Al-Djabel** force different Discover and response decisions.
+- **Very cheap board friction:** **Ghazi Jammer/E/Marat**, **Daylami Panzerfaust**, **Shujae E/M mines** and **Barid Pitchers** attack different weaknesses; too many Irregular defenders weaken the active Order budget.
+- **Eclipse/Disco:** **Asawira Boarding Shotgun Disco**, **Áyyār Disco** and **Claire Doctor Disco** are selected profiles, not universal Smoke.
+- **Smoke and visors:** Smoke-equipped **Ghazi, Ghulam NCO Smoke GL, Muyib Smoke GL** plus **Yara MSV2**; 5pt E/Marat and 6pt Jammer Ghazi have **no Smoke** in this roster.
+- **Command:** unusually useful **Farzan CoC** combines backup LT and infiltration.
+- **Gap:** **Shakush TAG** is present, but **Maghariba, Zeybek/Haytham and any standard VH** are absent. Haqq parent-faction access does not carry over.
+
+
 ## Core identity — layered uncertainty, disruption, then exploitation
 
 **Modern HB is primarily an asymmetric ambush/control army, not a conventional linked-gun sectorial.** It can field a formidable Fireteam or an aggressive HI, but its signature advantage is to make the opponent waste Orders deciding *what a piece is*, *whether to Discover*, and *which dangerous ARO to address first*.
