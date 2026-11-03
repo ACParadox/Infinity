@@ -4,6 +4,38 @@
 
 **Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](references/bakunin_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
 
+## Overview
+
+**What Bakunin does exceptionally well:** it creates several different problems at once—very cheap Smoke/Eclipse assault, concealed midfield trading, protected hacking and linked REM firepower. Its premium attackers are alternatives, not a requirement to build around a single TAG or five-model Core.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
+
+| Whole-game role shortlist | Bakunin unit/profile | Why it stands out; caveat |
+|---|---|---|
+| **Top 3 candidate — budget Eclipse/multi-body assault (apex/value)** | **Chimera + three Pupniks, 19/0** | Four bodies, projected Eclipse and dangerous melee in one low-cost package. A standout on dense objective tables; Controller death, templates and Peripheral restrictions still matter. |
+| **Top 5 candidate — cheapest useful Smoke/anti-heavy trade (value)** | **Morlock Chain Rifle + Smoke + E/M CCW, 6/0** | Among the strongest low-cost smoke screens and TAG/HI melee deterrents. Irregular/Impetuous, and it must actually close into contact. |
+| **Top 10 candidate — inexpensive HD+ network enabler (value)** | **Uhahu HD+/Pitcher, 19/0.5** | Hacking, White Noise and a Pitcher without buying an expensive Interventor-style operator; **Riot Grrl TinBot(-6)** can improve its protection in a legal team. WIP/network range and SWC still constrain it. |
+| **Top 10 candidate — zero-SWC native reactive Burst (value)** | **Sin-Eater Neurocinetics Mk12, 25/0** | High-end reactive lane coverage without SWC. Its MSR alternatives buy different ranges; one wound, weak active turn and bypassable arcs keep it situational. |
+| **Top 10 candidate — resilient direct-fire TAG for cost** | **Lizard MULTI HMG, 64–65/1.5** | BS14/ARM8, Tactical Awareness and several secondary-weapon choices; stronger direct-fire opener than the hacking-focused Stigmata. Large, Hackable and competes for SWC. |
+
+**Other distinctive apex option:** **Stigmata 56/1.5** is an unusually durable **hacking TAG / ARO anchor** with an Armored Duo and recovery plan, rather than a mandatory long-range gun.
+
+### Particularly strong or unusual Fireteams
+
+- **Riot Grrl TinBot(-6) + Uhahu:** protected HD+/Pitcher on a durable MSV1 Fireteam; spend more points only when the team needs a real Riot Grrl attack gun.
+- **Moderator + Clockmaker + Vostok FTO** (or **Tsyklon FTO**): a cheap required anchor, Engineer and recoverable attacking REM; verify the exact FTO profile because **Vostok FTO loses Repeater**.
+- **Taskmaster + one/two Morlocks:** FT Master can convert linked Irregular warband Orders when the selected legal team qualifies; Morlocks outside the team remain Irregular.
+- **Stigmata or Lizard + Orphan Engineer:** a **Duo-only Armored** family that joins a heavy chassis to repair, Repeater or scoring utility. This is not an unrestricted TAG Core.
+
+### Unusual access, gaps and trade-offs
+
+- **Visibility:** **Morlock Smoke**, **Chimera Eclipse**, **Prowler Disco Baller** and **Uhahu/Custodier HD+ White Noise** solve different sight-line problems. **Riot Grrl MSV1** and **Orphan MSV2** supply counter-Smoke choices; ordinary Smoke is not Eclipse.
+- **Heavy choices:** **Stigmata** is a hacker/TAG hybrid; **Lizard** is a conventional BS14 gun TAG; **Go-Pod** is a genuine aerial **VH**, not a TAG. Their roles and defenses differ.
+- **Roster limits:** Bakunin cannot import **Gecko, Gator, Iguana or Szalamandra** merely because they are Nomad units. **Tsyklon** remains legal here despite its removal from normal Corregidor. The pinned roster has **no Lunokhod**.
+- **Fireteam economy:** **one Core, one Haris, unlimited Duos**; a premium Observance/Riot/REM Haris excludes another Haris in the same list. The source [Fireteam chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-chart) governs all combinations.
+
 ## One-minute verdict
 
 **Bakunin wins by combining threats that demand different answers:**
