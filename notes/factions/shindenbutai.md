@@ -2,43 +2,53 @@
 
 **Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](../../sectorials/jsa/shindenbutai.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
 
-## Scope
+## Overview
 
-This is the tactical/list-building note for **Shindenbutai** under the repository's current **N5.3 + ITS18** baseline.
+**What Shindenbutai does exceptionally well:** combine **compact, unusually versatile Fireteams** with independent midfield ambushers, a credible **fighting Lieutenant who can also score**, and several ways to avoid an unfavorable firefight. The signature is **Tanuki Hacker (Pitcher + Disco Baller) + Sayō Duo/Haris**, complemented by **Hatamoto NCO/Lieutenant**, **one-use Camo speed bumps**, **MSV2 guns**, and **unlimited Duos**. It plays best as a collection of overlapping, self-contained modules, **not** as a compulsory five-Senku Core or an army of nothing but samurai charging into CC.
 
-Factual roster, points/SWC, AVA, profiles, Lieutenant options, and Fireteam legality come from:
+### Whole-game standouts — apex versus value
 
-- `sectorials/jsa/shindenbutai.md` — authoritative current Shindenbutai reference.
-- `rules/` — authoritative local rules reference.
+The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-faction shortlist *candidates***, **not** official ranks, tournament win-rate statistics, or a claim that a unit is among the ten best units *overall*. The job and price bracket matter: *best support Hacker*, *best fighting Lieutenant*, and *best cheap trade* are different rankings. These assessments are anchored to the repository's [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) comparisons. **Apex** means maximum impact in the right matchup; **value** means capability relative to points/SWC and Orders.
 
-Community/video material is used to identify repeated construction patterns and practical uses, not to override current Army data.
+| Whole-game role shortlist | Shindenbutai unit / profile | Why it stands out; limits |
+|---|---|---|
+| **Top 3 candidate — all-in-one utility Hacker for ~20 points (value)** | **Tanuki Hacker 20/0.5** | One slot supplies **Hacking Device + Pitcher + Disco Baller (projected Eclipse) + Sayō required anchor**, backed by BS13, Warhorse and Number 2. Few cheap specialists combine **network extension, vision control, scoring and Fireteam access** so cleanly. **Not** a top-three raw hacking duelist: WIP13, one wound and the limited-use deployables still matter. |
+| **Top 5 candidate — fighting specialist Lieutenant (apex/value)** | **Hatamoto LT 36–39 pts / +1 SWC rebate**, especially **Red Fury 38/+1** or **Spitfire 39/+1**; **Plasma Carbine 36/+1** for closer work | **Two wounds, 15-5 MOV, Mimetism(-3), Nanoscreen, Specialist Operative, NCO, MA4/NBW, Monofilament/E/M CC** and **LT(+1 Order)** on one attack piece. Can fight, move, duel heavy targets and complete objectives instead of hiding all game. **Top-five candidate in this job, not top-five long-range gunfighter.** Hackable and exposed to Loss of Lieutenant without CoC. |
+| **Top 5 candidate — concealed cheap close-approach trade (value)** | **Kyojin Killer HFT + Flammenspeer 15/0**, **AVA2** | **FD(+20), one-use Camo, Mimetism(-3), Super-Jump, Heavy Flamethrower and Flammenspeer**, plus CC follow-up, for only 15 points. Ranked **A+ apex / S value** in the repository's midfield screen comparison. It is **Irregular**, has ARM/BTS0, and Camo is **one-use**, not a permanent marker engine. |
+| **Top 5 candidate — inexpensive premium command shell (value)** | **Metsuke Strategos LT 22/0** | **Strategos L1 + Counterintelligence + Holoprojector** compress reserve/deployment and Order protection into a budget LT. The **23/0 LT(+1 Order)** alternative becomes especially attractive when a Hatamoto NCO can use the Order economy; it does **not** also have Strategos. Neither is a durable exposed gunfighter. |
+| **Top 10 candidate — cheap Regular midfield concealed trader (value)** | **Yamabushi Camo (1 Use) Chain Rifle + Panzerfaust 16/0** (or bow/mine variants) | **Regular**, FD(+10), Dogged, Mimetism(-3), MA3/CC23 and short-range template pressure. The repository rates this family **A apex / S value** as a speed bump; Shinden's **AVA2** permits two independent markers. No free mine placement unless an actual rule grants it; do not confuse carried Shock Mines with Minelayer. |
+| **Top 10 candidate — sub-20pt Smoke + ARO hybrid (value)** | **Garon Aibōt Total Reaction Thunderbolt + Smoke GL 16/0** | Rarely does a **Regular, 360°/TR** remote also offer a **Smoke Grenade Launcher** at zero SWC. This is a role-compression pick, **not** an S-tier sniper: ARM0/STR1 and BS11 leave it fragile, and Smoke placement costs Orders. |
+| **Top 10 candidate — affordable linked MSV2 midrange gun (value)** | **Rui Shi MSV2 Spitfire 23/1** in a legal **Sayō** | A reasonably cheap **MSV2 offensive answer to Mimetism/normal Smoke**, while Tanuki supplies the Hacker/Disco half of the module. Its **21/0.5 MSV1 Red Fury + Mine Dispenser** is a different, board-control profile, not a cheaper MSV2. Both have one STR and are Hackable. |
 
-Dedicated Shindenbutai material reviewed for this note included:
+**Other genuinely dangerous profiles, without a forced global rank:**
 
-- **Robert Shepherd — Shindenbutai faction focus** and its transcript-derived Bureau Aegis write-up.
-- **Tactical Awareness / GMG — Zeroes & Heroes: Shindenbutai**, including the published Army-list dump and the “Mad Hatamotos” construction.
-- **The Dice Gods — Shindenbutai faction review**, plus the later 2026 post-Sandtrap/list-building material.
-- **MetaChemistry — Shindenbutai faction takedown**, mainly useful as opponent-side analysis of the sectorial's exploitable weaknesses.
-- The Corvus Belli forum **N5 JSA tactica index**, which collects the relevant video/podcast links and mirrors.
-- Tournament/battle-report lists used as practical cross-checks.
+- **Shizoku 33/1.5 FTO HRL(+1B)** in Bushi-tai or **38/1.5 Strategic Deployment HRL(+1B)** in Sayō: elite **BS13, ARM5, Mimetism(-3), 2W** ranged pressure that a cheap link can help deliver. Only the **38pt Strategic Deployment** variant is eligible for Sayō; do not put the 33pt FTO there.
+- **Tanuki Chain of Command 18/0** is exceptional **aggressive-LT insurance for the price**, but it is a **different** profile from the 20pt Hacker. Tanuki **MSV2 HMG 29/1.5**, **MSV2 MULTI Sniper 27/1.5** and **Engineer 19/0** expand the same versatile troop family without inheriting each other's gear.
+- **Raiden HRL 25/1.5**, Hidden Deployment + Minelayer, is a strong **timing/layered-ARO** piece; **Missile Launcher 33/2** is a more expensive alternative. It is not a generic Burst-heavy ARO and should be backed by another threat.
+- **Mechazoid TAG 66–69/1.5** brings **S6, STR3, Climbing Plus, Tactical Awareness, strong CC and a Kobaruto specialist Ancillary**; **Triphammer 48–53 (including 0-SWC variants)** offers a cheaper S7 alternative. These are genuine TAG options, but not automatic purchases or a justification for overloading the list with Hackable heavies.
 
-Useful research links:
+### Particularly strong or unusual Fireteams
 
-- JSA tactica/video index: `https://forum.corvusbelli.com/threads/n5-recap-jsa-tacticas.43447/`
-- Robert Shepherd transcript-derived discussion: `https://www.bureau-aegis.org/forum/index.php?msg=222921`
-- Tactical Awareness / sample-list discussion: `https://www.bureau-aegis.org/forum/index.php?msg=224477`
-- MetaChemistry transcript-derived discussion: `https://www.bureau-aegis.org/forum/index.php?msg=225045`
+- **Sayō Haris — Tanuki Hacker 20/.5 + Rui Shi MSV2 Spitfire 23/1 + Shizoku Strategic Deployment HRL 38/1.5:** probably the **signature Shinden toolbox Fireteam**. Pitcher/hacking, projected Eclipse, anti-Mimetism/MSV gun, long-range HRL and a scoring specialist in one compact package. Powerful but a substantial investment; Shizoku **must** use its Sayō-legal Strategic Deployment profile.
+- **Sayō Duo — Tanuki Hacker + Rui Shi MSV2 23/1** (or **Mine Dispenser Rui Shi 21/.5**): an unusually complete **two-model** team. The Mine Dispenser version pairs well with **Pangguling Baggage** and Monstrucker to generate persistent threats in turns when there is no favorable direct attack. Pangguling is **support outside the Fireteam**, not a legal member of Sayō.
+- **Bushi-tai Haris/Core — Jizamurai + Hatamoto + Shizoku FTO** (with a second Hatamoto possible in a larger Bushi-tai): credible **CC/short assault + serious long-range gun** in a separate family from Sayō. Requires a **Jizamurai** anchor; the **FTO** Shizoku is legal here, not the Strategic Deployment version.
+- **Senku Haris — cheap Senku FO/Paramedic + Senku + Hatamoto:** lets a premium NCO/specialist operate with inexpensive supporting bodies. The value is **Hatamoto plus Order-efficient team infrastructure**, not the Senku's BS11 shooting. Senku-family access is limited to **one Hatamoto**.
+- **Mechazoid Duo — Mechazoid + Tanuki** or **Mechazoid + Atom Sensor/FO/Repeater:** specialized TAG support without building a Core. **Mechazoid + Atom + Tanuki is not a legal three-member Mechazoid team**; it is a **Duo-only** family.
 
-### Source-quality note
+**Structural advantage:** Shindenbutai permits **1 Core, 1 Haris and effectively unlimited Duos**, allowing **a Sayō Haris plus separate Sayō/Mechazoid/Bushi-tai Duos** while other pieces act independently. That **modular, mixed-technology Fireteam ecosystem** is more exceptional than any blanket five-model Fireteam bonus. Validate required anchors, profile restrictions and Wildcards against the [canonical chart](../../sectorials/jsa/shindenbutai.md#canonical-fireteam-definitions).
 
-Some Bureau Aegis pages contain automatically generated video summaries. At least one summary conflicts with the raw Army list printed on the same page. For tactical conclusions, use this evidence order:
+### Unusual access, missing tools and meaningful weaknesses
 
-1. actual Army list dump;
-2. manually reviewed/direct transcript-derived material;
-3. video chapters/descriptions;
-4. automatic summaries.
+- **Projected Eclipse but not general-purpose Eclipse Grenades:** **Tanuki Hacker's Disco Baller** creates an **Eclipse template** that blocks even MSV sight, unlike normal Smoke. It is **Disposable (2)**, requires successful placement and uses **Disco Ball activation/deactivation rules**; Shinden is *not* Ōban with Shikami's self-carried Eclipse. Use it to deny a superior firing lane or deliver a close assault rather than trying to win every FtF.
+- **Normal Smoke + MSV2 is available:** **Motorized Yojimbo 20/0** (or mutually exclusive **foot Yojimbo 19/0**) and **Saito Tōgan 33/0** carry Smoke; **Garon 16/0** can launch Smoke. **Rui Shi MSV2 Spitfire** and **Tanuki MSV2 HMG/sniper** exploit normal Smoke. This is **real access**, but not the mass of cheap Smoke warbands found in some other armies; **normal Smoke does not block MSV in the same way as Eclipse**.
+- **Above-average command safety *and* aggression:** **Metsuke** brings Counterintelligence/Strategos; **Hatamoto** provides NCO and potentially LT(+1 Order) with SWC rebate; **Tanuki CoC 18/0** specifically supports risky attack-LT plans. Do not import Ōban/vanilla-only **Kempeitai CoC** into Shinden.
+- **Unusual combined mission/network toolkit:** **Tanuki Pitcher** extends a **small**, not expansive, repeater network (Robio/Atom/Pangguling); **Uran Guided Missile 16/1.5** creates a consequence for Targeted. **Teishin Combat Jump/Parachutist 19–23** supplies airborne FO/Hacker/KHD options; **Ninja, Kurayami and Saito** supply Hidden Deployment/Infiltration rather than a fireteam-delivered solution.
+- **Real TAG and repair access:** both **Mechazoid** and **Triphammer**, plus **Tokusetsu, Tanuki Engineer, Monstrucker, Yuriko, Pangguling Baggage** and specialist Ancillaries. However, **O-Yoroi is not in this Main roster**, and a TAG's Ancillary is **not** an extra independent Regular Order.
+- **No ordinary Impersonation assassin:** Shinden has Hidden Deployment and some **Mimetism(-6)** Ninjas/Saito, **not** a Fiday/Speculo-style Impersonation starting state. It also lacks Ōban's Oniwaban/Shinobu assassination package; do not transfer them across rosters.
+- **Its conspicuous bad baseline is Senku combat quality:** **BS11, WIP12, PH10, ARM0, W1**, with an **HMG at 17/1 SWC**. As a **fighting line trooper**, Senku is among the weakest offerings and the **HMG is an especially poor primary-gun choice** compared with Shizoku, Rui Shi and Hatamoto. But a **9pt/0 Regular Order**, **10pt FO**, **11pt Commlink specialist** or **11pt Paramedic** is **useful budget team material**; calling every Senku profile one of the game's worst *value* picks would be misleading.
+- **Costs and vulnerabilities:** premium Hatamoto/Shizoku/TAG modules are **Hackable**, and a Tanuki-based team loses multiple roles if its Tanuki is isolated or removed. Several excellent cheap trades are **one-use Camo** (Kyojin, Yamabushi), **not** reusable marker-state engines. Build **redundant objective access, long-range answers and deployment-zone protection**, rather than investing the entire plan in one aggressive Haris.
 
-The older videos also predate some current roster changes, notably **Shurayuki's current Senku-counting Wildcard access** and **Ruby Monday's addition to Shindenbutai**. Current repository data wins on rules/profile questions.
+**One-line list-building heuristic:** pick **a command engine** (Metsuke or Hatamoto LT + Tanuki CoC), **one Sayō toolbox module**, **one independent midfield/hidden threat**, **one real long-range answer**, and **enough living specialists for the final turn**; use other Duos and support pieces only to solve a specific mission or matchup.
 
 ## Core identity — modular teams, not a mandatory Core
 
@@ -1135,3 +1145,41 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 **Event safety:** choose a unit *legally present* in the selected current N5.3 roster, then proxy only with an appropriate, identifiable **silhouette/base and number of physical troopers**, with peripheral/ancillary bodies separately represented. Check current ITS/organizer policy for competitive games and agree substitutions with casual opponents. Proxies do **not** grant missing profiles, adjust SWC or AVA, revive obsolete Fireteams, or permit one sculpt to stand for two simultaneous troopers.
 
 **Condensed purchasing verdict:** Ōban's clearest **profile-only no-buy is Genbutai BSG18**; Shinden's clearest direct **profile traps are Aïda24 non-FTO and generic Senku HMG17**, while **Triphammer and surplus expensive model quantities** are test-before-buy; Vanilla's main **whole-model defers are Sōhei/Kyoshō/standalone Shurayuki**, plus extra elite assassins and alternative TAGs. **Tankō, Tanuki, Hatamoto, Ryūken, Karakuri, Shikami and well-planned support REMs remain strong choices**.
+
+## References
+
+This is the tactical/list-building note for **Shindenbutai** under the repository's current **N5.3 + ITS18** baseline.
+
+Factual roster, points/SWC, AVA, profiles, Lieutenant options, and Fireteam legality come from:
+
+- `sectorials/jsa/shindenbutai.md` — authoritative current Shindenbutai reference.
+- `rules/` — authoritative local rules reference.
+
+Community/video material is used to identify repeated construction patterns and practical uses, not to override current Army data.
+
+Dedicated Shindenbutai material reviewed for this note included:
+
+- **Robert Shepherd — Shindenbutai faction focus** and its transcript-derived Bureau Aegis write-up.
+- **Tactical Awareness / GMG — Zeroes & Heroes: Shindenbutai**, including the published Army-list dump and the “Mad Hatamotos” construction.
+- **The Dice Gods — Shindenbutai faction review**, plus the later 2026 post-Sandtrap/list-building material.
+- **MetaChemistry — Shindenbutai faction takedown**, mainly useful as opponent-side analysis of the sectorial's exploitable weaknesses.
+- The Corvus Belli forum **N5 JSA tactica index**, which collects the relevant video/podcast links and mirrors.
+- Tournament/battle-report lists used as practical cross-checks.
+
+Useful research links:
+
+- JSA tactica/video index: `https://forum.corvusbelli.com/threads/n5-recap-jsa-tacticas.43447/`
+- Robert Shepherd transcript-derived discussion: `https://www.bureau-aegis.org/forum/index.php?msg=222921`
+- Tactical Awareness / sample-list discussion: `https://www.bureau-aegis.org/forum/index.php?msg=224477`
+- MetaChemistry transcript-derived discussion: `https://www.bureau-aegis.org/forum/index.php?msg=225045`
+
+### Source-quality note
+
+Some Bureau Aegis pages contain automatically generated video summaries. At least one summary conflicts with the raw Army list printed on the same page. For tactical conclusions, use this evidence order:
+
+1. actual Army list dump;
+2. manually reviewed/direct transcript-derived material;
+3. video chapters/descriptions;
+4. automatic summaries.
+
+The older videos also predate some current roster changes, notably **Shurayuki's current Senku-counting Wildcard access** and **Ruby Monday's addition to Shindenbutai**. Current repository data wins on rules/profile questions.
