@@ -36,6 +36,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Fast Panda report](https://www.youtube.com/watch?v=xM5WItbSMlw). **Superiority, 200pts.** **Second player wins 6–4.** The players intentionally brought **identical models/profiles**, but configured **different Fireteams, group roles, selected operative and attack/defense priorities**. This is a controlled comparison of *player decisions*, not a faction-matchup study.
 
+
+### Army lists and Fireteams — #221
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=xM5WItbSMlw), beginning list and deployment narration. **200pt identical Military Orders lists** each contain 3 Crosiers, Knight Commander (CoC), Knight of Justice Spitfire Lt, Knight of Santiago KHD, 2 Teutonic Knights, Black Friar and Warcor. **First player's five-person Core confirmed:** 3 Crosiers + Knight Commander + Knight of Justice. **First player's Haris confirmed:** 2 Teutonic Knights + Black Friar (3). Other side expressly uses **Knight of Justice + Knight of Santiago Duo (2)**, leaves two Teutonic Knights solo, and reports **five-person Core**; the remaining 3 Crosiers + Knight Commander + Black Friar are the **reconstructed** five members; validate from image. The first side's Santiago is solo. **Large team: five-model Core on both sides, second membership reconstructed.**
+
 - **Observed — shared tools:** **Knight of Justice Spitfire (Lt)**, **Knight Commander Chain of Command**, **Knight of Santiago Killer Hacker**, **two Teutonic Knights** (Specialists with SMG/shotgun and Panzerfaust), **Black Friar** (narration mistranslates as “Black Brother”), **Crosiers** and **Warcor**. Both have 10 models at 200pts and several 2-Wound or robust armor threats.
 - **Observed — differing structure:** One side built a **five-member Knight of Justice/Crosier/Knight Commander Core** and a **two-Teuton + Black Friar Haris** to concentrate the Spitfire/Burst bonus and Panzerfaust coverage, with **Santiago** independent. The other spread the Teutons into aggressive roles and combined the Knight of Justice with Santiago, making different points available to occupy quadrants. The supposedly identical purchases did *not* lead to identical Order efficiency.
 - **Observed — scoring:** The game moved from a contested mid-round position into **6–4** after the second-turn player manipulated **quadrant points and consoles**. The players explicitly discuss that if the surviving **Knight of Justice** died, the score could shift to **5–5**, so the leading player **stopped attacking** with spare Orders rather than risking a trophy gunfight.
@@ -50,6 +55,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Fast Panda report](https://www.youtube.com/watch?v=XsV1FCd3fnI). **O-12 4–2 Nomads** in a **Dire Foes/custom Blocking Zone**, not standard ITS. Players received **free Lupe Balboa and Sonia Lacroix**, infiltrators could start unusually far into an enemy zone, and the tracked target **relocated each turn**. The source says the older mission is unofficial/outside ITS.
 
+
+### Army lists and Fireteams — #222
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=XsV1FCd3fnI), beginning list and deployment narration. **Custom Blocking Zone:** vanilla Nomads list: Mary Problems, Jazz/Billie, Taskmaster Red Fury with Koalas, Kriza HMG, Rounder Marksman, two Morlocks, two Moderators, Marspider Paramedic, Marspider Engineer, Daktari/servant, Moran/Koala and scenario-granted **free Lupe Balboa**. **No Nomad Fireteam announced.** Vanilla O-12: Gamma HMG(+1B), free Sonia Lacroix, Alpha, Raveneye, Bluecoat, Epsilon MULTI Sniper, Monstrucker, 2 Varangians, Cyberghost KHD, EVO Fuzzbot, 2 Hellblazers, Psy-Cop, Warcor, Gangbuster/MadTraps. **Gamma + free Sonia Duo — explicitly confirmed**, but it is **scenario-specific**, not standard vanilla-list proof. **No 4/5 team.**
+
 - **Observed — Nomads:** **Mary Problems (KHD / HD)**, **Jazz and Billie repeater/Pitcher**, **Taskmaster Red Fury with CrazyKoalas**, **Moderator/paramedic and M-Spider**, **Morlocks**, **intruder/rounder-style ranged support** and **Lupe Balboa**. Layered specialist/hacking options helped when the target came into range, but the faction lost an early **Lieutenant**, sharply limiting response.
 - **Observed — O-12:** **Gamma gunfighter**, **Gangbuster** reserve/infiltration, **Cyberghost Lt**, **Bluecoat**, **Monstrucker Engineer**, and **Varangian** supported **Sonia Lacroix**. Gamma's multi-shot rifle was decisive in **late specialist hunting**, bringing the relevant secondary category toward O-12. The O-12 commander knowingly planned to **go second** and survive the first turn before contesting the moving marker.
 - **Observed — mobility and tempo:** One side scored the objective in **round one and three**; the other won the **middle round** and **specialist-kill bonus**, resulting **4–2 O-12**. The target literally moved between rounds: neither player could hold a single final-turn camping position and assume that would suffice.
@@ -63,6 +73,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 ## #223 — Vanilla Ariadna vs USAriadna: Wallace as the Corporate Appropriation breaker
 
 [Original Robert Shepherd report](https://www.youtube.com/watch?v=SQjNDT-k9zg). **Vanilla Ariadna decisive victory** in **Corporate Appropriation ITS17-era**, creator estimates **~10–1 or 10–2** rather than counting a confirmed score. The opponent at one point **offered to concede**, but they continued to play out useful scoring routes.
+
+
+### Army lists and Fireteams — #223
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=SQjNDT-k9zg), beginning list and deployment narration. **Vanilla Ariadna:** Voronin Lt, 2 Streloks/Decoys, Scout E/M Minelayer, two Tankhunters (one Autocannon), 2 Dynamos (AP Spitfire/Paramedic), Traktor Mul, William Wallace CoC; second group Vystrel, Dozer KVP, Kravulk, Sāchā and Highlander. **No linked team** (author explicitly discusses losing TAC links). **USARF three explicit Duos:** (1) **Minuteman NCO + Marauder** Lt decoy; (2) **Maverick AP Spitfire + Motorized 112**; (3) **Unknown Ranger + Minuteman specialist**. Also Foxtrot FO, Foxtrot Minelayer, Foxtrot Lt, Hardcase, Beasthunter, Van Zant, Sāchā Disco Baller, Traktor Mul, Warcor. **No 4/5 link.**
 
 - **Observed — vanilla/Tartary-based package:** **Colonel Voronin Lt + two Strelok Forward Observers/Decoys**, **Scout Minelayer (E/M mines)**, **two Tankhunter Portable Autocannons**, **Dynamo Duo (AP Spitfire + Boarding Shotgun Paramedic / smoke + mine dispenser)**, **Traktor Mul** resupply, **Dozer/KVP**, **Kövlk**, and **William Wallace** with **Chain of Command**. The creator intentionally traded TAK **linked Veteran Kazaks and multiple Scout availability** for cross-Ariadna units. This is a **vanilla Ariadna** experiment, not an actual Tartary Army Corps army list.
 - **Observed — USAriadna defense/counterattack:** **Unknown Ranger**, **Foxtrot FOs**, **Maverick/Dynamo-type smoke**, **Minutemen**, **Beast Hunter**, **Sasha** and **Van Zant** were used to defend the enemy corporate objective and attempt a last-turn backfield strike. The scenario also had **panoplies and Classifieds** that could swing otherwise close totals.
@@ -79,6 +94,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Robert Shepherd report](https://www.youtube.com/watch?v=vPztpiEWMy8). **Shindenbutai wins convincingly** as **Critical Intervention defender**; Tohaa attacked. No unambiguous final numeric OP is used here because the narration says **near-clean sweep** rather than presenting a verified signed score.
 
+
+### Army lists and Fireteams — #224
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=vPztpiEWMy8), beginning list and deployment narration. **Shinden Haris 3 confirmed:** Shizoku HRL/Strategic Deployment + Yamabushi FTO Paramedic + Tanuki Hacker. **Shinden Duo 2 confirmed:** Tanuki CoC + Tanuki Hacker/Disco Baller. Other list: **Hatamoto Lt and NCO both Spitfires**, 2 Keisotsu Killers, Flash/Baggage/Guided REMs, Monstrucker, **Yojimbo on foot**. **Tohaa pairs reported:** Sukeul Lt + Kriigel Agent **Duo**; Taquel CoC Viral Combi + Makaul **Duo**. Additional Sukeul K1 Sniper/HMG/FO, Kaeltar, Kamael Paramedic, Chaksa, Kiiutan, Libertos, Delegate. Other possible Tohaa Triads **not fully assigned in speech**. **No 4/5 team established.**
+
 - **Observed — Shinden construction:** **Two Hatamoto Spitfires**, one **Lieutenant** with extra Lt Orders and one **NCO**, creating two strong Lt-Order consumers; **Tanuki Hacker** alongside **Shizoku Strategic Deployment rocket launcher** and **Yamabushi FTO/Paramedic** link (including an extra special shooting die), **two Keisotsu/Kyorjin-style Killers**, **Flash/Baggage REM**, **guided missile REM**, **Monstrucker**, and **foot Yojimbo with CrazyKoalas**. Source calls the **4 irregular troopers a real weakness**, and says after the game he'd trim them.
 - **Observed — Tohaa strategy:** Tohaa attacker **Ed** used defensive **Kriegel Agent pheroware/E/M area**, **Sukeul**, **Makaul Eclipse**, **Libertos** and camouflaged/specialist tools to reach the **objective room**, open the data console, and escort a **data-pack carrier** away. One attempted opening on turn two failed repeatedly, and the attacker made a sound decision to pull back rather than leave the carrier exposed.
 - **Deciding sequence:** Tohaa had severe first-turn failures, leaving insufficient tempo to build its fortress. The **Hatamoto** repeatedly used **Spitfires and powerful melee** to threaten room defenders and ultimately **killed the final Tohaa Paramedic holding the data pack**. Shinden had **central-room domination** and a further **Vigilance Classified** action, so the attacker scored its console opening but could not convert it into the intended protected extraction.
@@ -92,6 +112,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 ## #225 — Vanilla Combined Army vs Steel Phalanx: multispecies challenge list and Sepsitor snowball
 
 [Original Robert Shepherd report](https://www.youtube.com/watch?v=vGFPRacaq1g). **Combined Army wins decisively** in **Area of Interest**, with **Steel Phalanx 2 OP** as recounted and **CA's exact total unverified**. The vanilla CA composition was a supporter-requested **“one of every CA species” challenge**, not a regular optimally filtered list.
+
+
+### Army lists and Fireteams — #225
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=vGFPRacaq1g), beginning list and deployment narration. **Vanilla Combined Army linked trio, explicit:** Vector Plasma Sniper + Unidron FO + Unidron K1 Combi/TinBot (3). Other list: Charontid Lieutenant Hacker, Umbra Legate forward-deploying, Daturazi, two Imetrons, Greif, Glyf-War, Med-Tech Cyberplug with Ranter/Puzzler, Libertos, Seed Soldier. Cyberplug/Ranter/Puzzler are **controller/dependent troops**, not extra Vector Fireteam bodies. **Steel Phalanx:** Ajax forward-deploying solo, Eudoros, Phoenix, Myrmidons/Officer and supporting REMs. The narrator's idea of putting Ajax in an Eudoros/Myrmidon link describes an **unplayed alternative**, not the actual list; full Steel links unverified. **No confirmed 4/5 team.**
 
 - **Observed — CA package:** **Charontid Lieutenant Hacker / Sepsitor Plus** with substantial Orders, **Umbra Legate** with **Forward Deployment + Tactical Awareness and Vulcan Shotgun**, **Daturazi smoke**, **Vector Plasma Sniper** fireteam with **Unidron FO + K1 combi**, an **underused hidden Puzzler** with **E/M deployment**, **Libertos**, and other race-representative species. The presenter particularly praises **Vector Mimetism-3/MSV2 + burst bonus + plasma sniper in a smoke-capable list**; he states he'd under-rated it previously.
 - **Observed — Steel Phalanx:** **Ajax**, **Phoenix**, **Eudoros**, **Nesaie Alke**, **Myrmidon Officer**, and a support screen attempted midfield area and console scoring. Losing **Ajax to the Vector plasma sniper** early was a catastrophic reduction of close-combat/board-control strength.
@@ -108,6 +133,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Tabletop Throwdown stream](https://www.youtube.com/watch?v=DI0qkopD9u8). **Druze declared winner after early stop**, host **projects 8–0**, not a completed final OP. **Format constraint:** *one combat group*, **exactly one TAG in each list**, special **Booty on TAG**, with **unusual 75-point forward deployment** and two exclusion/dead zones. This is **not ordinary ITS** despite using a Crossing Lines-like objective.
 
+
+### Army lists and Fireteams — #226
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=DI0qkopD9u8), beginning list and deployment narration. **Custom one-combat-group/exactly-one-TAG Crossing Lines**; game ended by concession (8–0 projected). **Varuna confirmed 3-body links** from submitted Fireteam notes: **Patricia/Patty + Helot FTO SMG/Light Rocket + Helot FTO Red Fury**, and **ORC Feuerbach + Kamau HRL + Kamau Sniper Haris**. **Bipandra explicitly excluded** from first link; Cutter NCO TAG, Uma Lt, Tech-Bee solo. **Druze four-body link observed:** Druze KHD/Pitcher, HMG, Lieutenant Rifle, Hacker/Pitcher; **precise Fireteam type unconfirmed**. **Scarface + Cordelia Duo confirmed** by linked activation. Fiddler + two Jackbots are Peripherals, not a Haris; Kunai/support independent. **Large team: Druze 4, not five** (caster only speculates about a fifth).
+
 - **Observed, Druze:** **Scarface + Cordelia**, **Fiddler**, **Kunai Solutions sniper**, **Brawler shock/MSV/ranged fire support**, **Killer Hacker/Pitcher** and specialists formed the only legal compact group. Scarface was able to exert very long-range threat (including **Panzerfaust reaction fire**) while **Kunai/Brawler** covered unexpected low-visibility flanks. Fiddler supplied speed/engineering options and late console access if the game had continued.
 - **Observed, Varuna:** **Cutter TAG NCO** began as a hidden **Mimetism-6** centerpiece; **Patsy Garnett with Helot FTO/Neurokinetics/Sensor**, **ORC + Kamau Haris**, **Bipandra**, **Uma**, **Techbee** and **specialists** provided quality BS and some medical/technical ability, but *no Hacker* as commentators noticed. The Cutter had no easy external recovery plan after entering a dense multi-gun web.
 - **Deciding sequence:** Varuna advanced the **Cutter** very aggressively and it was caught by overlapping AROs, including a **Druze hacker/Pitcher lane, Scarface and long-range sniper/Brawler**. The Cutter failed to break free and was ultimately destroyed by close combat after failing reactive defense. The **ORC/Kamau** survivors then tried to retreat/recover but were picked apart; **Scarface Panzerfaust** took the ORC down. The players chose to stop rather than spend a full final mission round.
@@ -121,6 +151,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 ## #227 — Neoterran Capitaline Army vs Ramah: Evacuation (NCA 7–1)
 
 [Original Tabletop Throwdown game](https://www.youtube.com/watch?v=NVN3qXXhsN4). **NCA 7–1 Ramah**; stream first casually says **3–1** until both Classifieds and multiple evacuated civilians are correctly counted. Played in an **East Coast online tournament** context, with participant results included in event score tally.
+
+
+### Army lists and Fireteams — #227
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=NVN3qXXhsN4), beginning list and deployment narration. **Ramah reconstructed Core of five:** **Tarik Mansuri + 4 Khawarij** (Doctor, NCO MSV2 Mk12, CoC/Disco Baller, HRL). Opening roster/linked activations and later explicitly **re-forming a four-member Core** support five original bodies; caster's suggested Tarik/Doctor Duo was only a guess. Two Namurr specialists and Nahab independent. **NCA confirmed three-body link:** **Aquila Guard FTO + Bolt MSV1 Sniper + Shona Carano**, expressly activated together. Others: Uhlan TAG, Tech-Bee, Fugazi, Hexa KHD, Blocker Hacker, Quinn CoC, Guided REM, Warcor, CSU/baggage. **Large team: Ramah likely 5**; NCA no verified 4/5.
 
 - **Observed, NCA:** **Uhlan TAG** (camo / Feuerbach), **Aquila Guard FTO MSV3**, **Shona Carano**, **Richard Quinn Chain of Command**, **Bolt sniper**, **Hexa KHD** and **Blocker Hacker**, **CSU**, **Techbee**, and support REMs/flash bot. Hidden/interlocking BS threats protected evacuation approaches while **Shona + CSU/Blocker** handled **CivEvac** collection and delivery.
 - **Observed, Ramah:** Highly compressed **8-model** list with **Tarik Mansuri Lieutenant**, **Khawarij Core/links (Doctor + NCO MSV2 Mark12 + Chain of Command/Drop Bears + HRL)**, **two Namurr (Tactical Awareness specialist)**, and **Nahab** (infiltration). Multiple **Tactical Awareness** plus **Lt/NCO** gave nominally many Orders, but the limited **distinct bodies** made every casualty disproportionately costly.
@@ -136,6 +171,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Tabletop Throwdown stream](https://www.youtube.com/watch?v=4V_Ol89R4ME). **3–3 tie**, explicitly confirmed at the end after an involved objective recount. **Important quality caveat:** both players missed **many ARO/Reset/LoF opportunities** and sometimes gave Hackers incorrect WIP during play; stream commentary points these out.
 
+
+### Army lists and Fireteams — #228
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=4V_Ol89R4ME), beginning list and deployment narration. **Morat Kiosot AP Marksman + 2 Kaitok Haris** (3), described from player's regular package and positioned together. Kornak Lt, Yaogat MULTI Sniper, Dartok Hacker, Rodok Hacker, Daturazi, Ikadron, Guided REM also listed; caster corrects a guessed Kornak Haris to a **Duo**, but partner unclear. **Shinden:** Hatamoto variants/NCO, Metsuke Lt with Holoechoes, two Tanuki, Yamabushi FTO, Senku, G-Samurai, foot Yojimbo, HMG TR REM, EVO, Killer. **Two Tanuki + Yamabushi link probable, not certified.** Do not count Metsuke's decoys as three bodies. **No 4/5 confirmed.**
+
 - **Observed, Morats:** **Kornak Lt/Strategos and extra Orders**, **Yaogat MULTI Sniper + MSV2**, **Kyosot AP-T2 Marksman with extra special die**, **Kaitoks (including durable 19pt fireteam members)**, **Rodok and Dart Hackers**, **Daturazi smoke**, **Ikadron/REM**, and a **guided missile bot** created a strong **multiple-Hacker + heavy fireteam** approach. **Kyosot/Kaitok** can fight into objective-space, but all those shooting choices do not automatically move the ball.
 - **Observed, Shindenbutai:** **Hatamoto** did substantial killing, supported by **G-Samurai/Thunderbolt/Flammenspeer**, **Yamabushi Paramedic**, **medic/Doctor**, concealed specialists and **JSA hacker/EM defense**. The Shinden player used extra Fireteam/command effects and tried to protect the central **beacon**, then rescue the point position with **last-round Specialists**.
 - **Actual objective:** **B-Pong** awards **two OP if the beacon ends in the opponent's half**, plus **turn-by-turn touching/controlling beacon and consoles** and **Classifieds**. **Specialist moves the beacon** as a short skill without a WIP roll; consoles have a WIP interaction moving it shorter distances or resetting it. Players briefly confused **which half** was desirable and corrected it midgame.
@@ -149,6 +189,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 ## #229 — Morats vs Tunguska: Crossing Lines (Tunguska 8–0)
 
 [Original Tabletop Throwdown game](https://www.youtube.com/watch?v=843sIPoFsko). **Tunguska 8–0 Morats**, explicit postgame breakdown. Unlike #226, this is **not described as a compulsory-TAG/one-group variant**; do **not** transfer #226's special roster rule to this encounter.
+
+
+### Army lists and Fireteams — #229
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=843sIPoFsko), beginning list and deployment narration. **Morats:** Kornak Lt, Yaogat MULTI Sniper, Kiosot/Kaitok, Dartok Hacker, Rodok, Daturazi, other support. A Kiosot/Kaitok Haris is **possible**, but the source does not prove identical team to #228; exact starting teams unresolved. **Tunguska:** Hollow Men, **Spectr FTO**, Heckler Jammer, Perseus, Interventor support, Kriza/Trigger Man. Spectr counts as Hollow Man for link; caster says **“I suspect”** it joined a Hollow Men group. **Likely Fireteam, size/type unconfirmed.** Unusual 75-point advanced-deployment setup; **no 4/5 link verified.**
 
 - **Observed, Morats:** **Kornak/Strategos**, **Yaogat MSV2 MULTI Sniper**, **Kyosot AP-T2 fire support**, **Kaitok heavy infantry**, **Rodok jump Hacker**, **Dart Hackers**, **Daturazi** and **Ikadron**. They used forward deployment, E/M/Flammenspeer-like weapons and a late **Dart SMG** to try to dislodge Tunguska midfield scoring.
 - **Observed, Tunguska:** **Hollow Men** fireteam (jumping multi-Wound HI), **Heckler Camo/Mimetism** midfield stopper, **Spectr**, **Demonis/Kulak hacker/utility pieces**, plus **Vertigo guided missile REM** and cheap order support. The **Hollow Men group and Heckler** repeatedly scored and were difficult to remove from the two dead zones.
@@ -164,6 +209,11 @@ Historical dates, rules and current edition matter because they affect Fireteams
 
 [Original Tabletop Throwdown report](https://www.youtube.com/watch?v=sOg6p3_gRSM). **3–3 draw**, last Order and final objective control. Uplink Center as played awarded antenna activation/control, **three-point central tech-coffin control**, and an **active Lieutenant** point; **Operational Learning** modified repeated console attempts.
 
+
+### Army lists and Fireteams — #230
+
+**Source:** [Original full report](https://www.youtube.com/watch?v=sOg6p3_gRSM), beginning list and deployment narration. **Kosmoflot confirmed Haris 3:** Kosmosoldat MSV1 HMG + two Stranniks (Doctor/other). **Confirmed Core 3:** Scots Guard FO/Paramedic + Volkolak HMG + Volkolak T2/AP Paramedic. Separate units: Uxia, Dozer/Kravulk, Denma, 2 Rokots (Lt/decoy), 2 SAS Minelayers, Sāchā. **Vanilla Nomads:** Jazz/Billie, Interventor HD+, two Kulaks, Intruder HMG, Trigger Man Sniper, Puppet Master + 3 Puppetbots, Moran, Zero, Morlocks, Daktari/Zondbot, Salyut. Kulak Duo **possible, not declared**; Puppetbots are Peripherals, **not four-person Core**. **No 4/5 confirmed.**
+
 - **Observed, Kosmoflot:** **Kosmosoldat** MSV/Armored heavy gun in **Strannik/Volkolak-type link**, **Volkolak HMG/AP-T2 rifle**, **Scots Guard FO/Paramedic**, **SAS Minelayers**, **Uxia McNeill**, **Denma Connolly**, **Kövlk**, **Dozer**, and **Rokots**, plus inexpensive order support. **Kosmosoldat MSV1** mattered against **Nomad Mimetism**, and the **Scots Guard + Volkolak** reactive gun/chain-colt/drop-bear lattice protected the central objective.
 - **Observed, Nomads:** **Jazz + Billie** repeater/hacking, **Interventor HD+**, **Kulak KHD/HRL/Disco support**, **Intruder HMG with MSV and Camo**, **Puppet Master + two FO shotgun Puppets + AP marksman Puppet**, **Zero Minelayer**, **Moran repeater/Koala**, **Morlocks**, and **Trigger Man / Stempler support**. Hacking had **less direct effect against Ariadna**, but Puppet bodies and cheap specialists offered diverse console/tech coffin routes.
 - **Deciding sequence:** Kosmoflot used **SAS and Volkolak/Scots Guard screening** to make the central run Order-expensive. Nomads' **Intruder and Puppets** killed defending pieces, but **Billy's late dash** and the opponent's **dodge/contest** left both sides touching the central objective, so **neither scored its three-point control bonus**. Each side secured a smaller console/antenna and an **active Lieutenant**, leaving **3–3**.
@@ -175,6 +225,23 @@ Historical dates, rules and current edition matter because they affect Fireteams
 **Mission tactic:** In Uplink Center **a three-point central objective may be denied merely by making it contested**; leave enough Orders to dislodge the *last* opponent's Specialist/Peripheral, not just move a model into contact.
 
 ---
+
+## Army-list and Fireteam reconstruction index (#221–#230)
+
+| # | Principal Fireteams (confirmed unless qualified) | Four-/five-member? |
+|---|---|---|
+| 221 | MO Core 5 and Teutonic/Black Friar Haris 3; opponent Core 5 reconstructed and KoJ/Santiago Duo | **Yes — 5** |
+| 222 | Scenario-granted O-12 Gamma/Sonia Duo; Nomads none | No |
+| 223 | USARF three separate Duos; vanilla Ariadna none | No |
+| 224 | Shinden Tanuki/Shizoku/Yamabushi Haris 3 and Tanuki Duo; Tohaa two reported Duos | No |
+| 225 | CA Vector/two Unidrons trio; Steel unverified | No |
+| 226 | Druze 4-body link and Scarface/Cordelia Duo; Varuna two 3-body links | **Yes — 4** |
+| 227 | Ramah Tarik+four Khawarij Core reconstructed; NCA Aquila/Bolt/Shona trio | **Yes — probable 5** |
+| 228 | Morat Kiosot+two Kaitok Haris; Kornak Duo partial; Shinden trio probable | No |
+| 229 | Tunguska Hollow Men/Spectr possible; Morat formations not confirmed | Unverified |
+| 230 | Kosmo Kosmosoldat/Stranniks Haris 3, Scots Guard/Volkolak Core 3; Nomad Kulak Duo possible | No |
+
+**Evidence rule:** A controller with Peripherals, pilot, Holoecho decoys or combat group is *not* an enlarged Fireteam. “Possible” / “reconstructed” is not confirmed Army legality. Multiple custom-format games in this range preclude treating these observations as competitive team-frequency statistics.
 
 ## Cross-report synthesis: useful unit/mission packages
 
