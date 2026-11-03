@@ -12,13 +12,57 @@
 
 **Practical identity:** Vanilla Yu Jing has **excellent distributed heavy infantry, cheap defence, good enough midfield/hacking support, and LT/NCO/Tactical Awareness order efficiency**. Compared with a sectorial it exchanges big Core links for freedom to combine specialized units that never share a roster elsewhere. The main risks are concentrating 200+ points in hackable bodies, lacking a non-hackable route through enemy repeaters, and paying for troops that overlap roles.
 
-1. **Start with the mission, then the LT/order engine:** **Dāoyīng Lieutenant(+1 Order)** is a widely preferred Camo LT supporting **NCO** Mówáng/Krit/Hac Tao or another eligible spender. The hacker LT becomes an important turn-three button-pusher but avoid revealing it near enemy KHD/Pitchers merely to save one Order. **Sun Tze/Strategos** offers a distinct plan: more Regular orders, deployment control and Counterintelligence; its substantial cost and Strategos conversion of LT Orders can *compete* with conventional LT→NCO sequencing rather than automatically stack.
-2. **Buy two *different* attack angles:** e.g. **Mówáng NCO Disco Baller** (mobile pressure) + **Yān Huǒ HRMC** (long anti-armour), **Hac Tao** Hidden Deployment HMG/ML (surprise/long range) + **Sù-Jiàn** (rapid close assault), or **Shàng Jí Tactical Awareness** (extra orders) + **Hǎidào/Dokkaebi** (Pitcher/KHD/mission). A Red Fury alone is not a reliable TAG killer.
-3. **Choose specialist / network reach:** **Zhēnchá** Camo Infiltrator KHD/FO/Minelayer, **Guìláng** Infiltration/repeater, **Dàofěi** sturdy Infiltrating attack/specialist, **Hǎidào 22-point KHD + Pitcher**, **Dokkaebi 22-point KHD+Spotlight/Pitcher**, **Wèibīng FO/Sensor/Repeater**, and **Liú Xīng or Tiger Soldier** AD diversify the way objectives are reached. Support your guided plan with actual Spotlight tools, not just a missile launcher.
-4. **Insure against an alpha strike:** Usually 1–2 **Gūdǎn one-use Camo + Zapper/HFT**, **Shaolin 5/6-point Smoke**, and/or **Libertos** Camo, **Lóng Yá** Camo Panzerfaust/Minelayer, **Chaīyì** Flashbot, **Hùsòng** TR. Put mines/templates across the likely path to your real attacker. **Kuang Shi** are no longer a compulsory N4-style order-tax package; use them *only when* a genuinely top-heavy build needs cheap Regular Orders and can tolerate Impetuous complications.
-5. **Allocate 15 slots and extra orders purposefully:** Long-range gun, mobile close/mid attacker, 2–3 specialists, a protected LT/NCO route, cheap screen, and a repair/anti-hacking line. More Tactical Awareness on different troops is not identical to more interchangeable Regular Orders; ensure the extra order falls on a profile with a job that turn.
-6. **Current Fireteam restrictions are important:** **Core 0; Haris 1; Duo 2 maximum.** **FT-01** is a Duo menu, **FT-02** supports Duo/Haris. **Two Zúyǒng + Dokkaebi** in FT-02 can create a Haris and increase the hacker's effectiveness; **Mówáng + Hǎidào** FT-01 trades raw link attack bonuses for move-together economy and better active angles. **Gūijiă, Blue Wolf, Sù-Jiàn, Shàng Jí** have FT-01 access *as specified*; **Lóngwáng and Fēiquán are NOT linkable** here. **Johnny Kao alone is the source-defined main Wildcard**; **Húláng vanilla FTO IDs 3/4**, **Krit Kokram vanilla FTO IDs 2/3** only. *Their FTO-2 alternatives do not satisfy vanilla Fireteam restrictions.*
-7. **Do not copy the sectorial's advantages:** Vanilla does **not** have White Banner's Haetae/Dokkaebi/Jujak huge Core, ISS's broad Celestial Guard teams, or Invincible Army's high-AVA Shàng Jí/Yān Huǒ Fireteam. Its benefit is mixing **unlinked Haetae fire support, ISS TAG/vehicles and IA infiltration/HI** in one roster.
+1. **Start with mission, then LT/order engine:**
+   - **Dāoyīng LT(+1 Order):** Camo command with NCO beneficiaries such as Mówáng, Krit or Hac Tao; Hacker LT can score late but is exposed near KHD/Pitchers.
+   - **Sun Tze/Strategos:** separate Regular-order/deployment/Counterintelligence plan; expensive and may compete with conventional LT→NCO use.
+2. **Buy two different attack angles:**
+   - **Mówáng NCO Disco + Yān Huǒ HRMC:** mobile attack plus long-range armour answer.
+   - **Hac Tao Hidden HMG/ML + Sù-Jiàn:** surprise/ranged attack plus fast close assault.
+   - **Shàng Jí TacAware + Hǎidào/Dokkaebi:** Order concentration with specialist/Pitcher/KHD network.
+
+   Red Fury alone does not reliably solve a hard TAG.
+3. **Choose specialist and network reach:**
+   - **Zhēnchá:** Camo Infiltration with KHD/FO/Minelayer.
+   - **Guìláng:** midfield Infiltration and Repeater access.
+   - **Dàofěi:** durable Infiltrating attack/specialist.
+   - **Hǎidào 22pt KHD + Pitcher:** network and anti-hacker role.
+   - **Dokkaebi 22pt KHD/Spotlight/Pitcher:** hacking and mission support.
+   - **Wèibīng:** FO/Sensor/Repeater.
+   - **Liú Xīng / Tiger Soldier:** airborne attack or scoring.
+
+   A Guided plan requires Spotlight delivery, not just the missile platform.
+4. **Insure against an alpha strike:**
+   - **Gūdǎn (1–2):** forward one-use Camo/Zapper/HFT.
+   - **Shaolin (5–6pt):** Smoke.
+   - **Libertos:** Camo screen.
+   - **Lóng Yá:** Panzerfaust/Minelayer trap.
+   - **Chaīyì:** Flash Pulse and cheap Order.
+   - **Hùsòng:** Total Reaction ARO.
+   - **Kuang Shi:** situational cheap Regular Orders, not a compulsory N4-style tax, with Impetuous trade-offs.
+
+   Block actual approach routes with templates/mines.
+5. **Allocate 15 slots and extra Orders purposefully:**
+   - **Long-range gun:** primary armour answer.
+   - **Mobile attacker:** independent close/midrange coverage.
+   - **Specialists:** two or three objective routes.
+   - **Command:** protected LT and deliberate NCO plan.
+   - **Screen + recovery:** cheap area denial and anti-hacking/Engineer support.
+
+   Tactical Awareness provides personal activations, not interchangeable Regular Orders; each profile needs a useful task.
+6. **Current Fireteam restrictions are important:**
+   - **Limits:** zero Core, one Haris, two Duos maximum.
+   - **FT-01:** Duo family; **FT-02:** Duo/Haris family, including eligible two Zúyǒng + Dokkaebi Haris.
+   - **Mówáng + Hǎidào:** FT-01 Duo for move economy and better angles.
+   - **Gūijiă / Blue Wolf / Sù-Jiàn / Shàng Jí:** only exact FT-01 options.
+   - **Lóngwáng / Fēiquán:** no Vanilla Fireteam eligibility.
+   - **Johnny Kao:** only source-defined main Wildcard.
+   - **Húláng vanilla FTO IDs 3/4 / Krit Kokram FTO IDs 2/3:** exact IDs only; other FTO-2 options do not satisfy vanilla constraints.
+7. **Do not copy sectorial-specific teams:**
+   - **White Banner:** Haetae/Dokkaebi/Jujak large Core.
+   - **Imperial Service:** Celestial Guard teams.
+   - **Invincible Army:** high-AVA Shàng Jí/Yān Huǒ team access.
+
+   Vanilla instead mixes independent Haetae fire support, ISS TAG/vehicle options and IA infiltration/HI in a single roster.
 
 ### High-value decisions: reason plus competing view
 
@@ -39,7 +83,16 @@
 
 ### TAGs, VH and REMs — cross-sectorial lessons, adjusted for vanilla
 
-**Vanilla actually has:** **Gūijiă AVA2**, **Blue Wolf AVA1**, **Lóngwáng AVA1** TAG families; **Fēiquán AVA1 VH vehicle**; and fast **RacerBots AVA2** alongside traditional Yu Jing REMs. **Sù-Jiàn is HI with Remote Presence, not a TAG**. This is very different from White Banner (no Lóngwáng, Blue Wolf AVA2) or ISS (different TAG/vehicle restrictions). Exact *vanilla loadouts* have to be verified in the vanilla source; the parent roster membership/AVA above are canonical.
+**Vanilla platform access:**
+
+- **Gūijiă TAG:** AVA2.
+- **Blue Wolf TAG:** AVA1.
+- **Lóngwáng TAG:** AVA1.
+- **Fēiquán VH:** AVA1.
+- **RacerBots:** fast REM options, AVA2.
+- **Sù-Jiàn:** Remote Presence **HI**, not TAG.
+
+Availability differs from White Banner and ISS; verify exact Vanilla loadouts and restrictions.
 
 | Platform | Practical job / why | Alternative view / support warning |
 |---|---|---|
@@ -58,11 +111,30 @@
 
 ### Build prototypes to test (roles only; verify legality/profile IDs in Army)
 
-- **Distributed HI / command engine:** Dāoyīng LT(+1 Order) → **Mówáng NCO + Hǎidào KHD/Pitcher Duo**, independent **Haetae AP HMG or Yān Huǒ HRMC**, 1–2 inexpensive Camo/Smoke buffers and a Camo FO/KHD specialist. **Why:** orders, two shooting bands, hacking protection and objective coverage.
-- **Haris specialist network:** Dāoyīng + **Zúyǒng/Zúyǒng/Dokkaebi Haris**, a solo **Hac Tao ML or Sù-Jiàn** attack, **Wèibīng/Son-Bae** where missions reward Spotlight. **Why:** modest link bonuses and usable hacking without a Core.
-- **TAG police / combined arms:** **Lóngwáng ranged-control TAG + Blue Wolf short AP gun + Fēiquán E/M/Sensor VH** alongside Sun Tze or cheaper Dāoyīng, Engineer, Gūdǎn/Zapper, Shaolin smoke. **Why:** three different problems, complementary threat ranges. **Risk:** highly hackable/expensive; Tactical Awareness explores this for fun, not as universal strongest.
-- **All-camo pressure:** Dāoyīng LT, **Zhēnchá/Guìláng/Dàofěi**, **Hac Tao Hidden Deployment**, **Gūdǎn/Libertos/Lóng Yá**, a real ranged armour-cracking gun, a disposable AD threat. **Why:** reduces link dependence; forces opponent to spend Orders discovering/bypassing markers. Tactical Awareness explicitly suggests Vanilla can be better at a majority-Camo game than its sectorials.
-- **Low-cost objective/repair shell:** **9-point RacerBots**, Chaīyì/Kuang Shi where required, Baggage, Engineer+Yáozăo, one premium durable HI and multiple specialist vectors. **Why:** Vanilla can finally fund expensive HI without mandatory 4-Kuang Shi tax; **verify all candidate loadouts** rather than treating this as an encoded list.
+- **Distributed HI / command engine:**
+  - **Dāoyīng LT(+1 Order) → Mówáng NCO + Hǎidào KHD/Pitcher Duo:** command, active attack and network protection.
+  - **Haetae AP HMG / Yān Huǒ HRMC:** separate long-range threat.
+  - **Camo/Smoke screens + FO/KHD specialist:** lane and objective coverage.
+- **Haris specialist network:**
+  - **Dāoyīng + two Zúyǒng + Dokkaebi:** compact Haris and network.
+  - **Hac Tao ML or Sù-Jiàn:** standalone damage.
+  - **Wèibīng/Son-Bae:** optional Spotlight/Guided payoff.
+- **TAG police / combined arms:**
+  - **Lóngwáng:** ranged TAG control.
+  - **Blue Wolf:** close AP pressure.
+  - **Fēiquán:** E/M, Sensor and network angle.
+  - **Sun Tze or Dāoyīng, Engineer, Gūdǎn and Shaolin:** command and support.
+  - **Risk:** very expensive/hackable; a fun experimental shell, not an automatic competitive default.
+- **All-camo pressure:**
+  - **Dāoyīng LT + Zhēnchá/Guìláng/Dàofěi:** hidden command and midfield objectives.
+  - **Hac Tao:** Hidden Deployment attack.
+  - **Gūdǎn/Libertos/Lóng Yá:** cheap screens.
+  - **Armour-breaking gun + AD threat:** alternate route and counterplay insurance.
+  - **Why:** forces Orders into Discover/bypass rather than concentrating Fireteam dependence.
+- **Low-cost objective/repair shell:**
+  - **9pt RacerBots / Chaīyì / optional Kuang Shi:** cheap Orders and speed.
+  - **Pangguling Baggage + Engineer/Yáozăo:** reloading and repair.
+  - **Durable HI + scoring vectors:** no automatic four-Kuang-Shi tax; verify each actual loadout.
 
 ### Actual disagreements (avoid flattening them)
 
