@@ -12,7 +12,16 @@
 
 **Dedicated counter-role guide:** [Anti-Tech — MSV, Mimetism, Camouflage, Hidden and Impersonation: N5.3 apex/value](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) ranks the *opposing counters and carrier points costs*. This page remains authoritative for *creating* Smoke/Eclipse/White Noise lanes, rather than defeating enemy tech generally.
 
-**Very rare dual-vision profiles:** [Rare Abilities & Unusual Combinations — cross-game apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares **Bào MSV2+Albedo+Biometric**, **Satrah and Black Friar MSV2+Albedo**, **Léi Gōng MSV1+Albedo+Super-Jump**, and *Albedo alone* on Yín-Shé/Overdron. Do not infer MSV from Albedo or treat conditional anti-MSV as global Mimetism.
+**Very rare dual-vision profiles:** [Rare Abilities & Unusual Combinations — cross-game apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares:
+
+- **Bào:** MSV2 + Albedo + Biometric
+- **Satrah:** MSV2 + Albedo
+- **Black Friar:** MSV2 + Albedo
+- **Léi Gōng:** MSV1 + Albedo + Super-Jump
+- **Yín-Shé:** Albedo without implied MSV
+- **Overdron:** Albedo without implied MSV
+
+Do not infer MSV from Albedo or treat conditional anti-MSV as global Mimetism.
 
 _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates.** Current rules: N5.3/FAQ v0.1; unit/profile and Fireteam authority: [current sectorial references](../../sectorials). Price/SWC below identify **specific roster profiles**; a unit's other profiles, AVA, Regularity or link rights may differ. Older video/podcast tactics are not proof of current legal profiles._
 
@@ -22,13 +31,30 @@ _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates
   - **Tohaa Kriigel Mirrorball (21/.5)**
   - **Taqeul (35–36/0)** brings durable command/Pheroware alternatives.
   - **Mirrorball** projects without LoF inside ZoC, unlike the disposable, ballistic Disco Baller.
-- **Best cheap all-round Disco Baller:** **Kestrel Fennec FO + Sensor + Disco, 13/0**. Cheap Regular Fireteam body, sensor and scoring; this is not a standalone duelist. **Best cheap linked melee-delivery Disco:** **Ōban Tankō 19/0** with Deactivator, Blitzen and monofilament CC weapon.
+- **Best cheap Disco Baller choices:**
+  - **Kestrel Fennec FO + Sensor + Disco 13/0:** cheap Regular Fireteam member with Sensor and scoring; not a standalone duelist
+  - **Ōban Tankō 19/0:** linked melee-delivery Disco with Deactivator, Blitzen and monofilament CC weapon
 - **Best cheap Eclipse:**
   - **Tohaa Makaul HFT/Eclipse 14/0** for a Triad
   - **Bakunin Chimera + three Pupniks 19/0** for a much more aggressive, independent close-assault/fork package.
   - **Steel Phalanx Myrmidon Officer** is the premium Eclipse/CoC version.
-- **Best repeatable cheap normal Smoke:** **6pt Morlock**, **5pt Galwegian/Shaolin/Ghazi** where the *selected profile* actually has Smoke; **Regular** Dāturazi 14/0, Jaguar 10/0 and Varangian 10–12/0 are often better for the whole Order pool.
-- **Best cheap White Noise:** **Interventor HD+ (Tunguska, 18–23/.5)**, **Uhahu HD+ (Bakunin, 19/.5)** and **Jazz FTO 22/.5 or Jazz+Billie 25/.5 (Corregidor)** when a useful Repeater/Pitcher network exists. **Best ceiling** is a hacker *plus actual network and attacking follow-up*, not WIP alone.
+- **Best repeatable cheap normal Smoke:**
+  - **Irregular / lowest cost:**
+    - **Morlock — 6pt**
+    - **Galwegian — 5pt** (Smoke-equipped profile only)
+    - **Shaolin — 5pt** (Smoke-equipped profile only)
+    - **Ghazi — 5pt** (Smoke-equipped profile only)
+  - **Regular, often better for the whole Order pool:**
+    - **Dāturazi — 14/0**
+    - **Jaguar — 10/0**
+    - **Varangian — 10–12/0**
+- **Best cheap White Noise providers:**
+  - **Interventor HD+ (Tunguska) — 18–23/.5**
+  - **Uhahu HD+ (Bakunin) — 19/.5**
+  - **Jazz FTO (Corregidor) — 22/.5**
+  - **Jazz + Billie (Corregidor) — 25/.5**
+
+  A useful Repeater/Pitcher network is essential; the best ceiling is a Hacker **plus a functioning network and attacking follow-up**, not WIP alone.
 - **Strongest vision-control kill packages:**
   - **Dāturazi Smoke + Yaogat/Vector/Charontid**
   - **Jaguar Smoke + Intruder MSV2**

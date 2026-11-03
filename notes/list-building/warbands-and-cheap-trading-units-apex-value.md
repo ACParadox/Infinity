@@ -11,7 +11,12 @@
 
 **Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
-**Multiple cheap CC bodies are not three independent attackers:** [N5.3 Peripheral and Multi-Body Apex/Value](peripheral-synchronized-multibody-apex-value.md) contrasts **19pt Chimera+3 Pupniks** and **26pt Antipode Handler+3** as **Control** one-Spearhead attacks versus independently ordered Irregular warbands, with Eclipse, Smoke, sensor and template matchups.
+**Multiple cheap CC bodies are not three independent attackers:** [N5.3 Peripheral and Multi-Body Apex/Value](peripheral-synchronized-multibody-apex-value.md) compares these **Control** packages:
+
+- **Chimera + 3 Pupniks — 19pt:** one-Spearhead attacks and Eclipse/close-pressure utility
+- **Antipode Handler + 3 Antipodes — 26pt:** one-Spearhead attacks and Smoke/Sensor/template matchups
+
+Unlike independently ordered Irregular warbands, these packages **do not attack with every body as an independent Order**.
 
 _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit win rates.** Profile prices/skills are from this repo's pinned N5.3 (September 2026) [sectorial roster files](../../sectorials/combined-army/morat-aggression-forces.md); faction/sectorial permissions are NOT portable. [Impetuous](../../rules/5b_Special%20Skills/Impetuous.md), [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md), [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md), [Berserk](../../rules/5b_Special%20Skills/Berserk.md) and [Warhorse](../../rules/5b_Special%20Skills/Warhorse.md) govern rules, not dated podcast descriptions._
 
@@ -29,9 +34,22 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
   - **Shaolin Monk Chain Rifle 5/0**
   - **Morlock Chain Rifle + Smoke + E/M CCW 6/0**
   - **Yuan Yuan Chain+Smoke 6/0** (only eligible factions). For *one high-risk trade*, favor the **right weapon** over 1pt differences: Ghazi E/Marat attacks Hackable targets; a 5pt Galwegian cannot.
-- **Best reliable anti-HI/TAG 5–10pt *state* threat:** **Ghazi E/Marat 5/0 (Haqq/Bahram profile-dependent Smoke access)**, **Morlock E/M CCW 6/0** and **Daylami Panzerfaust 6/0 / Camo+Panzerfaust 8/0**. The Daylami can **threaten at range**; templates and E/M CC generally require proximity and delivery.
-- **Best *Regular* smoke + violent assault:** **Dāturazi Chain Rifle(+1B)14/0**, **Varangian 10/0 (Kosmoflot) or 12/0 (O-12/eligible)** and **Jaguar Chain Rifle+Smoke10/0 (Corregidor)**. They supply **Regular Order infrastructure**, not just sacrificial Irregular activations. Dāturazi also brings MA4/Warhorse/DA CC; Jaguar supplies Dogged/link/MSV2 Intruder smoke.
-- **Best Eclipse enabler:** **Makaul HFT+Eclipse+Viral/DA CC14/0 (Tohaa)**. High **team utility** rather than guaranteed TAG kill; Eclipse blocks MSV, and Heavy Flamethrower can trade with more valuable enemies without needing a winning BS roll. **Myrmidon Officer CoC30/.5** adds Eclipse, Mimetism(-6) and NWI at a very different price.
+- **Best reliable anti-HI/TAG 5–10pt *state* threats:**
+  - **Ghazi E/Marat 5/0:** Haqq/Bahram; Smoke availability is **profile-specific**
+  - **Morlock E/M CCW 6/0:** close-combat state threat
+  - **Daylami Panzerfaust 6/0:** ranged threat
+  - **Daylami Camo + Panzerfaust 8/0:** concealed ranged threat
+
+  Daylami can threaten at range; templates and E/M CC generally need a delivery route.
+- **Best *Regular* Smoke + violent assault:**
+  - **Dāturazi Chain Rifle(+1B) 14/0:** MA4, Warhorse and DA CC
+  - **Varangian 10/0 (Kosmoflot)** or **12/0 (O-12/eligible):** check sectorial Regularity
+  - **Jaguar Chain Rifle + Smoke 10/0 (Corregidor):** Dogged, link options and Smoke for an MSV2 Intruder
+
+  These can supply **Regular Order infrastructure**, not merely sacrificial Irregular activations.
+- **Best Eclipse enablers:**
+  - **Makaul HFT + Eclipse + Viral/DA CC 14/0 (Tohaa):** outstanding **team utility**, not a guaranteed TAG kill. Eclipse blocks MSV; Heavy Flamethrower can trade without winning a BS roll.
+  - **Myrmidon Officer CoC 30/.5:** Eclipse, Mimetism(-6), NWI and Chain of Command at a different price.
 - **Best budget close-combat suicide body in link context:** **Diablo 8/0 or 9/0** (Corregidor) — CC23, Berserk, **Trench-Hammer, Transmutation, nominal 2W**, high ceiling versus unprepared HI/TAG when FT Master Lobo/Correctional Fireteam makes the delivery practical. **Do not falsely count the Diablo's printed Irregular/Impetuous Order as a generic Regular**.
 - **Best cheap resilient charge:**
   - **Cameronian 18/0**
@@ -46,7 +64,14 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
   - same price does *not* mean same pooled Order value.
   - **Shindenbutai Ioann Bann30** differs from 32pt Smoke-bearing Tohaa/Starmada options.
 
-**Extra cheap contenders:** **Kum6/0** (Smoke motorcycle), **Libertos8/0** (one-use Camo+Dogged), **Minescorp Jackal FTO6/0** (Panzerfaust/LRL Irregular scaffold), **Motorized Bounty Hunter8–9/0** (bike Riotstopper/Chain-colt) compete on different movement/LoF angles. Their **actual sectorial roster** matters more than a broad nickname.
+**Extra cheap contenders** with different movement and LoF angles:
+
+- **Kum 6/0:** Smoke motorcycle
+- **Libertos 8/0:** one-use Camo + Dogged
+- **Minescorp Jackal FTO 6/0:** Panzerfaust/LRL Irregular scaffold
+- **Motorized Bounty Hunter 8–9/0:** bike Riotstopper/Chain-colt
+
+Check the **actual sectorial roster**, not just the unit nickname.
 **Important exception:** **Muttawi'ah 5pt E/Marat in Hassassin Bahram printed current roster has NO Smoke on that particular option**; Vanilla Haqq's abbreviated roster says **E/Marat+Smoke**. Keep them faction/profile-specific until the underlying exact profile is reconciled. **6pt Jammer Ghazi in Bahram likewise has NO Smoke**, while the 7–8pt shotgun options do. Do not merge abilities into an imaginary 5–6pt all-in-one.
 - **Not a warband but an apex cheap trade:** **Dahshat/Hassassin Daylami Camo Panzerfaust8/0** can force 50–100pt TAG/HI to expend Orders clearing/avoiding a concealed Disposable shot; 5pt Rokot/Flashbot is not the same job. Attack *functionality* (IMM/Isolated, Fireteam integrity, Orders and objective route), not only printed kills.
 
@@ -150,7 +175,12 @@ Reliability has 3 separate factors: **(a) delivery** (free Impetuous Move, speed
 
 ## Quick list test
 
-- **Pick one concrete trade first:** 5pt E/Marat into TAG, 6pt Chain into clustered Orders, 8pt Diablo into weak-CC HI, 14pt Eclipse for a scorer's safe crossing, or 21pt Dog-Warrior Specfire into dug-in ARO.
+- **Pick one concrete trade first:**
+  - **5pt E/Marat:** threaten a TAG
+  - **6pt Chain Rifle:** hit clustered Orders
+  - **8pt Diablo:** target weak-CC HI
+  - **14pt Eclipse provider:** enable a scorer's crossing
+  - **21pt Dog-Warrior:** Speculative Fire into a dug-in ARO
 - **Pick a realistic path and Order source:** Irregular+Impetuous self-funds only itself; a Regular warband can contribute to *other models*, and a linked **FT Master** follows its specific chart and team leader restrictions.
 - **Check weapon/profile:** E/Marat vs Jammer vs Smoke **not bundled**; Gaki 4 has AP CC and Explode **not Chain Rifle**; Preta7 has Chain+Dogged; Shaolin5 Shock versus Shaolin6 DA.
 - **Check reactive counter:** 360°/templates/mines, MSV vs ordinary Smoke, Warhorse vs Isolated, hacker/Engineer repair, enemy MA/NBW/Guard. **Berserk extends threat but does not automatically survive AROs**.
