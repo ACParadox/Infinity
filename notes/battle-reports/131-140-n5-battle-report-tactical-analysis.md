@@ -27,6 +27,24 @@
 
 **[Original full Fast Panda Gaming report](https://www.youtube.com/watch?v=sKZGzWhWeeE)**. Players state the new Outbreak had been released **two days before their filming**, although the publication gap is unclear; an **ITS17 midseason/N5.2-era** mission. **Result: Bakunin 6–3 Vanilla Yu Jing**.
 
+
+### Army lists and Fireteams — original full-transcript opening deployment
+
+**Source:** [Fast Panda Gaming, Bakunin vs Vanilla Yu Jing, Outbreak](https://www.youtube.com/watch?v=sKZGzWhWeeE). Both players **walk through their deployed forces before the opening Order**. This is specifically an **Outbreak medical-specialist list**, not a general 300-point tournament archetype. The recording calls the three Yu Jing heavy infantry “preorder three” (phonetic transcription of **Zúyǒng**).
+
+| Side | Team | Opening membership and evidence |
+|---|---|---|
+| **Bakunin** | **Moderator/Wolfgang three-body Core — confirmed 3** | **2 Moderator Paramedics + Wolfgang Amadeus Wolff** (MULTI Rifle). Player explicitly says the pair of Paramedics and Wolfgang form a **pure three-member Fireteam**, with Wolfgang counting as Moderator. |
+| Bakunin | **Reverend Haris — confirmed 3** | **Reverend Healer Doctor MULTI Rifle + Reverend Custodier HD+ + Reverend Moira HMG**. Each troop is named in the intro as the **Reverend Haris**; subsequently activated as a team. |
+| **Vanilla Yu Jing** | **Zúyǒng heavy infantry group — likely Haris, 3** | **Zúyǒng Combi Rifle/Tactical Awareness/TinBot(-6) + Zúyǒng Paramedic MULTI Rifle + Zúyǒng HMG**. The player says he can **bring a Haris** and names these three together; linked activation is later discussed. Exact historical Fireteam title not independently exported. |
+| Yu Jing | **Zhanshi medical pair — Duo likely 2** | **Zhanshi Yīshēng Doctor + Zhanshi Paramedic**, explicitly called a doctor/Paramedic pairing in the deployment narration. Treat **Duo status as probable**, not a certified Fireteam Order, because the caption could mean only nearby medical support. |
+
+**Other Bakunin units:** **Sin-Eater MULTI Sniper/Neurocinetics**, **Reaktion Zond TR Thunderbolt**, **Vertigo Guided REM**, **Uhahu Hacker**, **Transductor Flash REM**, **Morlock**, **Denma Connolly**, **Bran do Castro** (failed aggressive Infiltration and deployed normally), Camo markers, other support. **Other Yu Jing:** **Húláng close-assault body**, **2 Shaolin Monks**, **Warcor**, **Sāchā Specialist**, **TR Thunderbolt REM**, Camo infiltrators/mines, airborne **vehicle/flyer** (profile not fully read in captions).
+
+**Four-/five-person census:** **No confirmed starting 4/5**. The explicit Bakunin links each have **three bodies**, irrespective of Fireteam Level/purity. **Bakunin wins 6–3**; the mission's medical eligibility affects why Paramedics/Doctor were brought.
+
+
+
 - **[Observed — mission]** Outbreak forces choices between **scanning**, **stabilizing** eligible infected civilians, **CivVac extraction** and securing a special infected target. A generic Specialist is **not automatically the same as a qualified stabilizer**, and the players repeatedly distinguish single scan WIP dice from specialist medical eligibility.
 - **[Observed — Bakunin]** The player used **Bran do Castro Camo/Super-Jump, Reverend Moira(s), a Warcor Flash Pulse and other Specialist or Paramedic tools**. **Bran failed his attempted aggressive Infiltration roll**, forcing him to approach the Yu Jing deployment from his own side. That cost early aggression but did not prevent Bakunin from making late infected-scoring moves.
 - **[Observed — Yu Jing]** A **vehicle/flyer and linked forward troops** attacked from several angles; Yu Jing's **repeaters and Camo/defensive firing positions** forced Bakunin to spend Orders clearing a route. Its potential final **Delphi/remaining Specialist** run needed **scan plus stabilize**, and the player lacked enough Orders after attrition.
@@ -39,6 +57,22 @@
 ## #132 — Vanilla Nomads vs White Banner: ITS17 Crossing Lines
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=ngJYUsPryhI)**. **Vanilla Nomads**, explicitly announced, not Tunguska/Bakunin or Corregidor even though some shared Nomad troops appear. **Result: Nomads 7–2 White Banner**, after a late White Banner concession.
+
+
+### Army lists and Fireteams — complete translated deployment walkthrough
+
+**Source:** [Fast Panda Gaming, Vanilla Nomads vs White Banner, Crossing Lines](https://www.youtube.com/watch?v=ngJYUsPryhI). The source audio is heavily translated but the **White Banner player counts a five-person Core** and names its components on deployment. The Nomads player explicitly identifies **vanilla**, not a Nomad sectorial; nearby troops are therefore not presumed to form a Core.
+
+| Side | Team / package | Played roster evidence |
+|---|---|---|
+| **White Banner** | **Oktavia/Zhanshi/Tiāngǒu Core — confirmed 5** | **Oktavia Grímsdóttir Heavy Rocket Launcher + 2 Zhanshi riflemen + Zhanshi Paramedic + Tiāngǒu** (last profile partially garbled). The player expressly says **“Core with five”** then enumerates the five. **Purity bonus is not five** due to mixed membership. |
+| White Banner | **Liang Kai/Shaolin Duo — 2** | **Liang Kai + Shaolin Monk**. Speaker says “Liang plus one of his henchmen, a Duo”; linked movement cancels/controls the monk's Impetuous behavior. |
+| White Banner | **Other confirmed troopers** | **Dokkaebi Hacker/Pitcher**, **Adil Crane Rank/Spitfire**, **Engineer**, large and small **Camo markers** likely including Lóng Yá; additional gun or specialist whose captions are distorted | No evidence all Camo tokens are separate troopers; mines and Decoys remain possible. |
+| **Vanilla Nomads** | **No starting Fireteam declaration** | **Grenzer MULTI Sniper/Marksmanship**, **Puppetmaster without Puppetbots** (Counterintelligence), **Interventor KHD/HD+**, **2 Geckos** (MULTI Marksman and Continuous Damage shotgun variants) plus **Gecko Pilot**, **Wolfgang Amadeus Wolff**, **Chimera + 3 Pupniks**, **2 Morlocks**, **2 Transductor REMs** | **2 Geckos are both played but not explicitly declared a Fireteam Duo**. **Chimera/Pupniks are Peripherals**, not a four-body Core. |
+
+**Large-team census:** **One confirmed five-member White Banner Core**, **one named Liang/Shaolin Duo**; **no confirmed Nomads Core/Haris/Duo**. Auto-translation may call **Zhanshi** “Zanshi,” **Oktavia** “Octavia,” and **Tiāngǒu** “Teague”; retain uncertainty about specific weapons. **Nomads win 7–2 by concession**, not proof that unlinked vanilla is inherently stronger.
+
+
 
 - **[Observed — scenario]** Each side has a normal deployment zone plus **a small forward strip** for limited points. Repeated scoring of **dead zones and antenna buttons** creates genuine first/second-turn choices; Forward Deployment/Impetuous movement behave differently because pieces can start well beyond their usual position.
 - **[Observed — Nomads]** **Grenzer sniper/long ARO, Chimera/Morlock Smoke/close attack, Interventor Hacker(s), Puppet support and a TAG** provided layered gun, control and hacking avenues. **Grenzer** was a very effective active/reactive firepiece, while the last **Interventor specialists attempted the important antennas**; several WIP attempts failed before one finally worked.
@@ -54,6 +88,21 @@
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=5hCLoF5MYK8)**. **Strong rule chronology evidence:** the opening says **N5 had launched roughly six hours earlier**, and this was the channel's **last 2024** game. Thus **INITIAL N5**, not N5.1 or ITS17. **0–0 draw**.
 
+
+### Army lists and Fireteams — first-day N5, 150-point opening deployment
+
+**Source:** [Fast Panda Gaming, O-12 vs Shasvastii, Supplies](https://www.youtube.com/watch?v=5hCLoF5MYK8). Both players expressly say **N5 launched around six hours earlier**. They use **150 points** and no Classifieds/season additions; this is a **launch-day learning match**. Player-declared Fireteam bonuses are historical rules interpretations, **not an N5.3 reference**.
+
+| Side | Formation | Actual models from the initial table tour |
+|---|---|---|
+| **O-12 vanilla** | **No declared Fireteam** | **Raveneye Officer Lieutenant**, **PSI-Cop MULTI Marksman/MSV1 Specialist**, **Bluecoat**, **Cyberghost Hacker**, **Omega HMG**, **Varangian Guard**, **Engineer + deployable turret**. Narrator describes roughly seven elite/utility bodies in the compact list; no Core/Haris/Duo. |
+| **Shasvastii** | **Nox Paramedic Fireteam — 3 probable** | **3 Nox Troopers, all Paramedics**, stationed together initially. Player explicitly later refers to the **Fireteam's extra die** and discusses **reforming a Fireteam** after a casualty. The **three names/profile roles** are secure; exact *Core vs Haris* designation is not said at introduction. |
+| Shasvastii | **Other actual pieces** | **Shrouded Minelayer Camo**, **roughly 5 Taighas** (two one side, one center, two other side; Impetuous, Viral CC), other Camo/Hidden Deployment threats | The **Taighas are independent warbands**, not five Nox members or a separate Taigha Core. Several Camo markers are not necessarily five distinct troops. |
+
+**Four-/five-member census:** **No confirmed large Fireteam**. A probable **three-model Nox link** is supported by in-game bonus discussion. This match ended **0–0**; **do not extrapolate N5.3 Fireteam legality or 300-point strategy** from a launch-day seven-ish-body educational match.
+
+
+
 - **[Observed]** Both players used **150-point introductory rosters** and intentionally omitted **ITS Classifieds or other season add-ons**. O-12 list included **Raveneye Lieutenant, Bluecoat anti-impersonation screen, a marksman/visor Specialist and other short-range troops**; Shasvastii used **several Camo/impetuous bodies and close-range specialist pressure**.
 - **[Observed]** One Shasvastii unit attempted the final box but **failed its WIP open roll while being shot**, leaving the carrier without cargo; O-12 also failed to secure a box. Closing statement explicitly calls **“nil–nil”**.
 - **[Observed — N5 learning]** Rules under discussion included **Impetuous changes, Minelayer/Camo, shooting/cover, new Short/Long Skill choices and range modifiers**; the players state they had read the rules for only a few hours.
@@ -65,6 +114,24 @@
 ## #134 — Shindenbutai vs Kestrel Colonial Force: Dire Foes 15 Barrenlands
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=q6u9wcUjOqo)** · [Dire Foes 15 mission pack](https://downloads.corvusbelli.com/infinity/dire-foes/mission-pack-15-barrenlands-en.pdf). **Narrative Mode** was explicitly used, including **free Yuriko Oda (Shindenbutai), free Bipandra (Kestrel)** and extra **EVO role/scoring** on this table. **Result: Kestrel 8–4 Shindenbutai**.
+
+
+### Army lists and Fireteams — complete Dire Foes 15 deployment reconstruction
+
+**Source:** [Fast Panda Gaming, Shindenbutai vs Kestrel, *Barrenlands*](https://www.youtube.com/watch?v=q6u9wcUjOqo). The original pregame table tour names **two five-person Core-style teams** and Kestrel's other Duo/Haris. **Narrative bonuses** add **free Yuriko Oda to JSA, free Bipandra to Kestrel and mission-specific EVO Hacker access**; that is **not a standard ITS list**.
+
+| Side | Fireteam | Played members / evidence |
+|---|---|---|
+| **Shindenbutai** | **Hatamoto/Senku/Jizamurai Fireteam — confirmed 5** | **Hatamoto Plasma Carbine + 3 Senku Forward Observers (Combi Rifles) + Jizamurai Light Shotgun/Thunderbolt**. **Explicit “five-man team”** and all five roles in initial deployment; Hatamoto repeatedly chosen as Fireteam leader. |
+| **Kestrel** | **Black A.I.R./Fennec/Bipandra Core — confirmed 5** | **Black A.I.R. Neurocinetics MULTI Sniper + Fennec Thunderbolt ×2 + Fennec Combi Rifle + Bipandra Doctor**. Player says **“five-man Fireteam”**, names **three Fennecs, Black A.I.R. and Bipandra**. Camo tokens placed by Fennecs are **mines**, not two extra hidden members. |
+| Kestrel | **Firefly/Hetkari Duo — confirmed 2** | **Firefly Paramedic Combi Rifle + Hetkari MULTI Red Fury/Emitter**. Explicit Duo. |
+| Kestrel | **Crux/Griffin/Firefly Haris — confirmed 3** | **Crux Father-Knight Spitfire + Griffin HMG + second Firefly SMG**. Explicit Haris; **the second Firefly is not the Paramedic from the Duo**. |
+
+**Other Shindenbutai:** **Saito Tōgan** (failed aggressive Infiltration), **Monstrucker**, **Rui Shi Spitfire/MSV2**, **Ada** (name as spoken), **Pangguling EVO** (borrowed miniature/proxy), **Yuriko Oda** (free), **Nokizaru**, **Lu Duan/Decoy markers**, reserve Ninja/Camo. **Other Kestrel:** **free/borrowed EVO**, **Bulleteer Boarding Shotgun**, **Warcor**, **Fugazi Flash REM**, **Sierra Thunderbolt TR REM**, **Angus HVT**.
+
+**Large-team census:** **Confirmed one five-body team on *each* side**, Kestrel also **2+3** small links. The special **Yuriko/Bipandra/EVO allowances** mean the observed bodies **must not automatically be represented as normal 300-point legal lists**. **Kestrel 8–4**.
+
+
 
 - **[Observed — mission]** This is a linked **antenna / data package / confirmation code / console and scientist** scenario in a special **Barrenlands sandstorm environment**. Some bonus points require positioning an **EVO Hacker**, and the **narrative free specialists** are part of the reason lists can score as they do. **Not a normal ITS17 balanced mission.**
 - **[Observed — Shindenbutai]** **Saito Togan** tried an aggressive Infiltration deployment, **failed the roll** and ended on his own side instead of ambushing Kestrel. **Yuriko Oda, Rui Shi MSV2, an EVO/Panguling, Hekari/other elite ranged gun and specialists** gave redundant tools but had to advance into a strong defensive lane.
@@ -80,6 +147,20 @@
 
 **[Original Fast Panda Gaming walkthrough](https://www.youtube.com/watch?v=FoWvKJtob84)**. N5 **starter-scenario demo** using **seven Operation Sandtrap miniatures per side**, roughly 150 points each. The player describes the opposing force as **JSA but is inconsistent about a particular sectorial**, so label JSA demo rather than definitively Shindenbutai. **Kestrel 8–1 JSA** from the spoken final 150-point Annihilation breakdown.
 
+
+### Army lists and Fireteams — original seven-model Sandtrap starter demo
+
+**Source:** [Fast Panda Gaming, Operation Sandtrap: Kestrel vs JSA](https://www.youtube.com/watch?v=FoWvKJtob84). The speaker expressly says they play **seven models each from the starter box**, deliberately **“not using Fireteams in this game”** to make the rules simpler. The source calls the opposition **JSA** and jokes about the Shindenbutai pronunciation; preserve that ambiguity.
+
+| Demo side | Reconstructed model list from pregame tour | Link status |
+|---|---|---|
+| **JSA / Shindenbutai-style starter** | **3 Senku line infantry**, **Nokizaru infiltrator** (SMG, impact mines, D-Charges), **Hatamoto Red Fury/Monofilament CC**, **Jizamurai** (weapon autocaption uncertain), and **one further seventh starter model not unambiguously identified** | **No Fireteams by explicit agreement**; a 3-Senku cluster is just three independent intro units. |
+| **Kestrel Colonial Force** | **3 Fennec Fusiliers** (including **two Paramedics**), **Black A.I.R. MSV/Neurocinetics MULTI Sniper**, **Griffin HMG**, a **Camo/advanced-deployed unit**, and **one additional starter model** (captioned “Jaray”; identification not secure) | **No Fireteams**. Deploying Fennecs next to Black A.I.R. does not make an implicit Core. |
+
+**Large-team census:** **No Core/Haris/Duo observed**, by design; **not** evidence that the sectorials cannot create them. The **exact seventh-model identities are uncertain** in translated captions and are **not invented**. **Kestrel 8–1 JSA** is a fixed-roster beginner result, not a competitive tier indicator.
+
+
+
 - **[Observed]** Kestrel used **Griffin high-Burst attacking gun, Black A.I.R.-style defensive sniper/neurocinetics, cheap infantry and mines**. JSA fielded **Senku/other Mimetism, mobile Samurai and a NanoScreen/strong short gunfighter**. At this small size, every model lost is a large fraction of the total Order pool.
 - **[Observed]** The **Griffin** spent Lieutenant/Regular Orders taking favorable four-dice shots, removed key JSA targets and kept Kestrel at around **88 survivor points versus the opponent's 27**; a late Kestrel sniper/mine screen denied a desperate route.
 - **[Observed — score]** Players counted **three for killed points bracket, three for surviving points, two for eliminating the enemy Lieutenant**, versus one for the smaller JSA kill bracket: **8–1**, a starter demonstration result rather than an optimized tournament match.
@@ -92,6 +173,23 @@
 ## #136 — Military Orders + Yu Jing vs Nomads + Combined: CUSTOM Tremors doubles
 
 **[Original Fast Panda Gaming four-player report](https://www.youtube.com/watch?v=35aIZ_6sp3s)**. A **2v2, custom mega-beast Tremors game**, with each alliance combining two different armies; recorded deployment includes **Military Orders, Yu Jing/HI, Nomads and Combined Army**, **Gator, Salamandra, Avatar, several Mowangs and multiple Knights**. **Winning side: Military Orders with the Yu Jing force**, by about **30 remaining army points**; official numbered OP **not reported**.
+
+
+### Army lists and Fireteams — original four-player custom doubles deployment
+
+**Source:** [Fast Panda Gaming, Tremors mega-beast doubles](https://www.youtube.com/watch?v=35aIZ_6sp3s). Four players are randomly assigned to **Military Orders + Yu Jing** against **Nomads + Combined Army**. This is explicitly a **custom 2v2 Limited Insertion/large-army game**, with a **20-Wound house-ruled Sandworm**. Cross-faction cooperation is **not Fireteam membership**.
+
+| Side | Team / package | Identified actual troops |
+|---|---|---|
+| **Military Orders (with Yu Jing ally)** | **Hospitaller/Justice/Kyle Fireteam — confirmed 5** | **Knight Hospitaller HMG + Hospitaller MULTI Rifle/TinBot + Hospitaller Doctor MULTI Rifle + Kyle Hawkins + Knight of Justice Spitfire**. The player expressly calls it a **Level 5 Fireteam** with all five counted as Hospitallers for the played rules. |
+| MO | **Teutonic/Santiago Duo — confirmed 2** | **Teutonic Knight Light Shotgun/Panzerfaust Specialist + Knight of Santiago Spitfire**. Explicit Duo; both part of the **MO contingent only**. |
+| MO | **Other** | **Father Mendoza**, **Knight of Montesa Paramedic**, **Bulleteer Spitfire**, **Yáhao HRMC TAG** (name/army assignment transcribed unclearly) | Not part of the five Hospitallers simply because they're on the same alliance. |
+| **Yu Jing ally** | **Linked heavy infantry possible, count unresolved** | **2 Zúyǒng (HMG/Tactical Awareness and Combi Rifle/Tactical Awareness/TinBot), Haidào Killer Hacker, two Mowang profiles**, a **Zhanshi**, Camo reserve, support | The speaker names these as Yu Jing army elements but **does not enumerate a certified Core/Haris**. The **two Mowang are two individual units**, not proof of a Duo. |
+| **Nomads + Combined ally** | **No confidently enumerated starting link** | Nomads **Gator TAG**, **Salamandra TAG**, **Moderator(s)**, **Rounder MULTI Rifle**, **Marspider Engineer + helpers**, **Mary Problems**, **Digger**; Combined **Avatar TAG**, **Bit & Kiss**, **Med-Tech Obsidon + helpers**, **Rindak**, **Daturazi**, **Ikadron**, **Paramedic Marspider**, other Camo/peripherals | **Three TAGs are split across two factions**. Do not create a cross-faction Fireteam from simultaneous actions or the giant worm attack. |
+
+**Large-team census:** **One confirmed five-member Military Orders Fireteam**, and **one confirmed two-member MO Duo**. **All other links unresolved** from opening narration; **not a 300-point single-faction list sample**. Winner **MO+Yu Jing by ~30 surviving army points**, not official ITS score.
+
+
 
 - **[Observed — nonstandard format]** There is a **giant sand worm** that moves/attacks independently. Organizers modified its profile to **20 Wounds**, no Cover, special immunities and Natural Born Warrior; the game has **large teams, modified sequencing, limited-insertion-style forces and charitable crit-count scoring**. Do not extrapolate to ordinary ITS games.
 - **[Observed]** The Nomads/Combined side deployed **Gator and Salamandra TAGs, Avatar, Bit & Kiss, Doctor Worm, Marspider and TR support**. The opposite **Military Orders + Yu Jing** side had **Hospitaller Doctor + linked Knights, Knight of Justice/Teuton/Santiago, Mowang pair, Zuyong/Haidao and an HRMC gun**.
@@ -106,6 +204,25 @@
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=DxMiz3wyihA)**. A participant describes one of his first N5 games; **ITS16 Firefight**, initial N5–N5.1.1 window. **Tunguska 7–0 Military Orders** explicitly tallied.
 
+
+### Army lists and Fireteams — full opening team-by-team deployment
+
+**Source:** [Fast Panda Gaming, Military Orders vs Tunguska, Firefight](https://www.youtube.com/watch?v=DxMiz3wyihA). Both players present their **ten-model Limited Insertion forces and exact starting Fireteams** before turn one. Tunguska's **four-body Core has only Level 2 purity**; physical size and bonus Level are distinct.
+
+| Side | Starting team | Named members / confidence |
+|---|---|---|
+| **Military Orders** | **Konstantinos/Crosier Core — confirmed 3** | **Brother Konstantinos MULTI Rifle/D-Charges + Crosier Spitfire + Crosier Combi Rifle**. Explicit **three-man, pure Level 3 Core**. |
+| MO | **Santiago Duo — confirmed 2** | **Knight of Santiago KHD/MULTI Rifle + Knight of Santiago Spitfire**. Explicit **pure Level 2 Duo**. |
+| MO | **Hospitaller/Kyle Haris — confirmed 3** | **Knight Hospitaller HMG + Hospitaller Doctor MULTI Rifle + Kyle Hawkins**. Explicit Level 3 Haris. |
+| **Tunguska** | **Kriza/Hollow Man Haris — confirmed 3** | **Kriza Borac Combi Rifle/TinBot(-3) + Kriza Borac HMG/BS Attack(-3) + Hollow Man Boarding Shotgun Specialist**. Intro identifies them as a **Haris**. |
+| Tunguska | **Securitate/Interventor/Grenzer Core — confirmed 4** | **Securitate Paramedic + Securitate Combi Rifle + Interventor Hacker + Grenzer Sniper/Marksmanship**. Explicit **“four-man Core”**, but **Level 2 purity** because of composition. |
+
+**Other MO:** **Infirmarer** (separate Doctor/link option) and **Knight of the Holy Sepulchre** plus **HoloEcho decoys**; HoloEchoes are *not* three extra real Knights. **Other Tunguska:** **Szalamandra TAG**, **Motorized Bounty Hunter BSG**, **Nautica Hacker** (captioned; exact profile spelling uncertain). **Szalamandra** starts in Suppressive Fire, not a member of either link.
+
+**Large-team census:** **Confirmed Tunguska four-person Core; no five**. MO runs **3+2+3**; Tunguska **3+4**. The Firefight result **Tunguska 7–0** is an N5 first-games observation, not proof that four-model Cores must always outperform small pure teams.
+
+
+
 - **[Observed — Military Orders]** MO used **Brother Konstantinos + Crosiers Core, Knights of Santiago Killer Hacker/Spitfire Duo, Hospitaller Doctor/HMG + Kyle Hawkins Haris and an Infirmarer**. Several expensive link teams reduced the number of cheap sacrificial pieces and concentrated resources in a few attack avenues.
 - **[Observed — Tunguska]** **Grenzer Sniper/Marksman, Kriza/Sally Salamandra TAG, Motorized Bounty Hunter, Interventor and hidden Spectr** created very good reactive and active turns. The **Grenzer won multiple critical shooting engagements**; the **Bounty Hunter then swept up exposed Knights**, while the Salamandra absorbed an attempted final CC attack.
 - **[Observed — missions]** Tunguska completed **two Classifieds (Sabotage and HVT Follow-up)** and earned **Panoply and specialist-kill** scoring; MO failed to turn its fighting into meaningful Firefight objectives. The closing tally is **7–0**.
@@ -119,6 +236,24 @@
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=-gE41-ALIgI)**. **Provisioning**, which is a cargo pickup/delivery scenario associated with the ITS17 era. Auto-translated transcript is **severely fragmented and terminates without a trustworthy final score or winning side**. **N5 patch and play date unverified**.
 
+
+### Army lists and Fireteams — opening troop-tour reconstruction, poor auto-translation
+
+**Source:** [Fast Panda Gaming, Ikari vs Druze Bayram Security, Provisioning](https://www.youtube.com/watch?v=-gE41-ALIgI). The full transcript is available but **heavily fragmented automatic translation**. Both players walk their deployed armies and name **Tankō Haris** and a **Druze five-member link**. Counts below are only as precise as the audio permits.
+
+| Side | Formation | Spoken members / certainty |
+|---|---|---|
+| **Ikari Company** | **Tankō/Daiyōkai Haris — confirmed 3** | **Tankō SMG + Tankō Light Shotgun + Daiyōkai HMG**. The deployment explicitly says **“two Tankō Haris”** with the Daiyōkai; all three described together. |
+| Ikari | **Second Brawler/Tankō support team — count uncertain** | **Brawler Hacker SMG** and **Tankō Missile Launcher** are named as another linked group; **third/full membership not clearly recovered**, so *do not certify a second full Haris or five-person team*. |
+| Ikari | **Other troops** | **War Driver Hacker BSG/Cybermines**, **Druze Hacker/Pitcher**, **3 Keisotsu (Paramedic/ordinary/Forward Observer)**, **2 Krakot Renegades**, **Impersonator/Camo**, flash support, additional reserve. |
+| **Druze Bayram Security** | **Druze gun/hacker Core — confirmed 5 bodies from tour** | **Druze E/M Grenade Launcher + Druze HMG + Druze Killer Hacker + Druze veteran/combi/Pitcher + Druze Paramedic**. Narrator explicitly calls it a **five-member team**, naming the five weapon/specialist roles; exact squad leader and body order uncertain. |
+| Druze | **Scarface/Cordelia Duo — 2** | **Scarface TAG AP HMG + Cordelia Engineer**, explicitly referred to as a Duo at deployment. |
+| Druze | **Other troops** | **Valerya Gromoz Hacker/Pitcher**, **Monstrucker Engineer**, **Warcor**, **Zellenkrieger** or other smoke/assault support, Camo markers. |
+
+**Large-team census:** **One narrated five-person Druze Fireteam**, Ikari **three-person Tankō/Daiyōkai Haris**. The remaining Brawler/Tankō team is **not fully countable**. **Do not invent a final score or winner** from the damaged translation; the original report remains **result unknown**.
+
+
+
 - **[Observed — Ikari]** The video opens explicitly as **Ikari vs Druze**. The Ikari list uses **Scarface/Cordelia TAG-repair package, Tanko linked defensive troops, Yuan Yuan/irregular assault and fast box or zone-control bodies**. One critical early **Scarface attack was followed by discussion of Cordelia's inability to fix damage**, limiting the heavy attack's return.
 - **[Observed — Druze]** **Valerya Gromoz Hacker/Repeater, E/M Grenade Launcher, Krakot or Bounty Hunter assault, and several linked Druze** supplied **targeting, suppression and grenade templates**. Both sides were clearly trying to **pick up presents and run them into delivery zones**, not merely table the other.
 - **[Observed — tactics]** A **Druze mobile piece carrying a box retreated toward its own zone**, while Ikari **Tanko/Daiyokai and thrown/template E/M** created a difficult late interception. Players spent repeated Orders on grenade placement, Dodges, remaining carriers and how far the box had to travel to score.
@@ -130,6 +265,20 @@
 ## #139 — Vanilla Combined Army vs Vanilla Nomads: ITS17 Corporate Appropriation
 
 **[Original Fast Panda Gaming report](https://www.youtube.com/watch?v=OnbAMAxQp5A)**. Both sides **explicitly Vanilla**, not named sectorials. Corporate Appropriation with **two own/enemy prototypes, Panoplies and Classifieds**; according to the played packet the prototypes were **attackable only starting round two**. **Vanilla Nomads wins 5–4**, confirmed.
+
+
+### Army lists and Fireteams — complete left-to-right deployment roster reconstruction
+
+**Source:** [Fast Panda Gaming, Vanilla Combined vs Vanilla Nomads, Corporate Appropriation](https://www.youtube.com/watch?v=OnbAMAxQp5A). **Both players explicitly call their armies vanilla**, and the film enumerates each starting unit from deployment. Neither identifies a Core/Haris/Duo. The players **explicitly clarify Chimera+Pupniks are Peripherals, not a Fireteam** during play.
+
+| Side | Troops identified from opening walkthrough | Linked-team conclusion |
+|---|---|---|
+| **Vanilla Nomads** | **Sin-Eater MULTI Sniper/Neurocinetics**, **2 Alguaciles**, **Chimera + 3 Pupniks**, **Marspider**, **2 Morlocks**, **Rounder Red Fury**, **Interventor HD+**, **Mary Problems**, **Fiddler + 2 Jackbots**, **Kriza Borac HMG(+1B)/BS Attack(-3)**, midfield Camo reserve | **No declared Fireteam**. Chimera/Pupniks and Fiddler/Jackbots are **Peripheral/synchronized subunits**, not 4- or 3-model Core/Haris. |
+| **Vanilla Combined** | **Sheskiin**, **Charontid HMG/MSV3**, **Shrouded KHD/Camo**, **Daturazi Smoke**, **Ikadron**, **R-Drone**, **other Flash REMs**, **TR Thunderbolt REM**, **Shrouded and/or other Camo marker**, **Warcor**, additional assault trooper (captioned “Pr…”), support | **No declared Fireteam**. A **Charontid/Ikadron** firing axis and Daturazi Smoke are combined tactics, not a legal Core. |
+
+**Four-/five-person census:** **None confirmed; zero declared Fireteams**. HVT/prototype/panoply figures and mines are not troop roster members. On the filmed packet prototypes only become attackable **from round two**. **Nomads win 5–4** by mission scoring despite Combined killing more troops; avoid reading that outcome as a linked-versus-unlinked comparison.
+
+
 
 - **[Observed — Combined]** **Sheskiin/other Combined elite attack with Shrouded Killer Hacker, Warcor and a smaller support roster** pushed aggressively and removed many Nomads. Sheskiin could blow up her own prototype and pursue the Panoply/other targets, creating an apparent winning attack.
 - **[Observed — Nomads]** The player brought **Fiddler and Jackbots, Morlock, Repeater/Hacker tools, a Zero and a held-back Hellcat Hacker** in a **14-order list**. Fiddler's **Vulcan Jackbot/Contender** threatened a target even when Combined was killing other pieces; the **Hellcat's hidden airborne threat** remained valuable despite Nomads being nearly tabled.
@@ -144,6 +293,26 @@
 
 **[Full Tabletop Throwdown TTS report](https://www.youtube.com/watch?v=G6Y6QgEp1Lg)**. **ITS17 AKIAL INTERFERENCE**, rotating private/Common Classifieds, central antenna and cancellation. **Result: Tunguska 9–0 Ikari**, final score explicitly reconstructed.
 
+
+### Army lists and Fireteams — full on-screen list, deployment and postgame verification
+
+**Source:** [Tabletop Throwdown TTS, Tunguska vs Ikari, Akial Interference](https://www.youtube.com/watch?v=G6Y6QgEp1Lg). The commentator reads **both 15-trooper lists from the Army interface** before deployment, then the players **confirm the exact Tunguska Securitate link in postgame**. Early commentary speculates about optional legal teams; later actual player declarations take precedence.
+
+| Side | Fireteam | Starting models / evidence |
+|---|---|---|
+| **Tunguska** | **Securitate/Interventor/Triggerman mixed Core — confirmed 4** | **1 Securitate + 2 Interventors** (**HD+ and KHD/Fast Panda**) + **Triggerman Neurocinetics MULTI Sniper**. **Players explicitly confirm four identities postgame**, including that this is a **Securitate Fireteam requiring one Securitate**, *not* an all-Interventor team. |
+| Tunguska | **Perseus/Hollow Man/Stempler team — confirmed 3** | **Perseus Breaker Rifle + Hollow Man Pitcher + Stempler Zond FTO**. Described during deployment, activated together; **re-formed later as a Hollow Man Duo** after the initial team composition changes. Do not count as a second simultaneous starting team. |
+| Tunguska | **Fiddler/Cheerkiller link — probable Duo 2** | **Fiddler Engineer/Drop Bears + Cheerkiller**. The host deduces a **Cheerkiller-based Duo** from list legality/deployment; players confirm a Cheerkiller Fireteam exists in closing, but **exact early physical formation needs verification**. Fiddler's **Jackbots/Zondbots are Peripherals**, not extra linked models. |
+| **Ikari Company** | **Wu Ming/Brawler/Druze assault link — membership uncertain** | **2 Wu Ming (AP HMG, BSG/TinBot)**, **Brawler Hacker**, **Druze Hacker/Pitcher**, **Digger (counts-as link family)** all appear in the opening list. The players refer to a **Haris of Wu Ming/Brawler/Druze**; exact actual three bodies **cannot be confidently extracted** from caption commentary, and **not all five may be simultaneously linked**. |
+| Ikari | **Scarface/Cordelia Duo — confirmed 2** | **Scarface TAG AP Spitfire(+1B) + Cordelia Engineer**; the pair is explicitly identified as a legal link and shown deployed together, with the player marking teams. |
+| Ikari | **Other confirmed troops** | **Arslan MSV1/X-Visor**, **Taowu CoC/Counterintelligence**, **2 Yuan Yuan** (Combat Jump/Smoke), **Digger**, **Brawler Hacker**, **Pathfinder/Sensor REM**, **Missile REM**, **Baggage REM**, Flash REMs. |
+
+**Other Tunguska:** **Go-Pod HRL + Flash Pulse companion** (the latter a **Peripheral**, not a Duo), **Vertigo Guided REM**, **2 Flash REMs**, **Salyut Baggage**, **Hollow Man**, **Puppetmaster/other support**. The **Go-Pod** turn-one attack destroys the **Scarface/Cordelia package**, but that is not proof the Ikari roster lacked other scoring tools.
+
+**Large-team census:** **Tunguska four-person Securitate mixed link confirmed**, **no securely established Ikari four-/five-person team**. **Tunguska wins 9–0** in Akial; rules/rulings in TTS are discussed during play and should not be converted to authoritative N5.3 clarifications.
+
+
+
 - **[Observed — Tunguska]** **Go-Pod heavy rocket launcher + its small companion Flash Pulse bot**, **Interventors, Triggerman, one Securitate within a Fireteam, Cheerkiller/Hollow Men/Puppet support and Fiddler tools** provided diverse Specialist actions. The **Securitate+Interventor x2+Triggerman Fireteam** was confirmed in the postgame: **not a link of Interventors without its required Securitate**.
 - **[Observed — Ikari]** **Scarface + Cordelia, Brawler Hacker, Yuan Yuan, Digger and Wu Ming** tried to score rotating Classifieds and pressure Tunguska; **Scarface/Cordelia were lost on turn one to the Go-Pod/companion pair**. A **Yuan Yuan** still generated strong nuisance pressure, but the army lost its critical specialist/action economy early.
 - **[Observed — scoring]** Tunguska completed **five Common Classifieds (5 OP)**, its **private Classified (2)**, **more Classifieds (1)** and **at least one task every round (1)**: **9–0**. Ikari ended in Retreat/Loss of Lieutenant with little capacity to contest the late tasks.
@@ -152,6 +321,27 @@
 - **[Caution]** One online game and some unusual rolling do not justify a sectorial-wide 9–0 expectation; preserve rule-version ambiguity for the Go-Pod's older profile.
 
 **Tactical use:** In Akial, value **different Classified skill types plus one per round**; protect scarcer specialists rather than assuming Scarface will open every task.
+
+---
+
+## Army-list and Fireteam extraction index (#131–#140)
+
+**Source review:** All **ten original YouTube full transcripts** retrieved. Rosters are grounded in the **opening force walkthroughs** (and, in #140, an explicit **postgame link-membership correction**). “Confirmed” means physical team size/members are stated or used; “reconstructed” means identity or link type needs corroboration; “unverified” means a player/commentator merely discussed an option. **Fireteam Level, physical member count, Combat Group, TAG pilot, Peripheral, Camo Decoy and re-formed team are different things.**
+
+| Report | Recorded teams | 4-/5-person evidence | Caveat |
+|---|---|---|---|
+| #131 | Bakunin **2 Moderator Paramedics + Wolfgang** and **Reverend Healer/Custodier/Moira Haris**; Yu Jing three **Zúyǒng** possible Haris | **None confirmed** | Zhanshi Doctor/Paramedic pairing possibly a Duo; Outbreak specialists important. |
+| #132 | White Banner **Oktavia + 3 Zhanshi + Tiāngǒu Core**, Liang Kai/Shaolin Duo; vanilla Nomads independent Gecko/Chimera/hacker package | **Confirmed White Banner 5** | Two Geckos not automatically a Duo. |
+| #133 | Early N5 Shasvastii **3 Nox Paramedics** (linked likely); O-12 vanilla singles | **None confirmed** | **150-point**, first six hours of N5; no full five-member team. |
+| #134 | **Shindenbutai Hatamoto + 3 Senku + Jizamurai**, **Kestrel Black A.I.R. + 3 Fennecs + Bipandra**; Kestrel Duo+Haris | **Confirmed 5 on *both* sides** | Narrative **free Yuriko/Bipandra/EVO** additions. |
+| #135 | Fixed seven-model **Operation Sandtrap** teams, no Fireteams at all | **None** | Players **deliberately omit Fireteam rules**; one model per side not fully named by captions. |
+| #136 | Custom doubles **MO 3 Hospitallers + Kyle + Knight of Justice**, MO Teutonic/Santiago Duo | **Confirmed MO 5** | Allies **Yu Jing and MO do not form cross-faction Fireteams**. |
+| #137 | MO **Konstantinos/2 Crosiers Core**, **2 Santiago Duo**, **2 Hospitallers/Kyle Haris**; Tunguska **2 Kriza/Hollow Man Haris**, **2 Securitate/Interventor/Grenzer Core** | **Confirmed Tunguska 4** | **Core is Level 2 bonus despite four physical models**. |
+| #138 | Ikari **2 Tankō + Daiyōkai Haris**, second linked Brawler/Tankō uncertain; Druze **five gun/hacker/specialist bodies**, Scarface/Cordelia Duo | **Druze 5 narrated** | Heavily auto-translated; other precise link counts uncertain, score unknown. |
+| #139 | **Vanilla Nomads and Vanilla Combined**, no declared link on either side | **None** | Chimera/Pupniks explicitly identified as **Peripherals**, not a Fireteam. |
+| #140 | Tunguska **Securitate + 2 Interventors + Triggerman Core**, Perseus/Hollow Man/Stempler 3 and possible Fiddler/Cheerkiller Duo; Ikari Scarface/Cordelia Duo and incomplete Wu Ming/Druze group | **Confirmed Tunguska 4** | Postgame explicitly corrects commentator's initial confusion over required Securitate. |
+
+**Sampling safeguards:** #133 and #135 are deliberately small introductory games, #134 is narrative, #136 is a custom **2v2** mission, #138 has incomplete translation, and #140 is TTS with debated rulings. These are **army-use examples**, not homogeneous competitive tournament data. The **N5 launch-day** #133 must not be silently compared against **ITS17/N5.3** Fireteam charts.
 
 ---
 
