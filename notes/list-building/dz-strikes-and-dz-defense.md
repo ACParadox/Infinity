@@ -2,22 +2,71 @@
 
 **New DZ-breach case study — [Infinity the Dante, Corregidor drop assault](https://www.youtube.com/watch?v=fzvUQPWBQKM) (full 30m transcript checked 28 Oct 2026):**
 
-- Against a defended Svalarheima DZ, **Pilot-X + 2 RacerBots** cover enemy-edge/airdrop pockets and hacking approaches while a **RemDriver-supported TR Thunderbolt**, Karhu, Varg Disco Baller, Shona and Knight of Justice cover different attack vectors.
+- **Svalarheima DZ defensive example:** different units cover distinct intrusion paths:
+  - **Pilot-X + two RacerBots** — enemy-edge/airdrop pockets and hacking approaches
+  - **RemDriver-supported TR Thunderbolt** — a separate shooting lane
+  - **Karhu** — direct-fire defense
+  - **Varg Disco Baller** — vision/area denial
+  - **Shona** — close counterattack
+  - **Knight of Justice** — another covered attack vector
 - **First draw the landing pocket, first target, next ARO and stopping point.** Attack the *network dependency* and then the *vision-control/Total Reaction gate* before a grander LT or order-culling attack.
 - A safe but blind back corner is often better than arriving in direct LoF of an upgraded TR bot; a protected **Repeater behind Total Cover** can persist as a tax if the actual loadout supports one.
-- **Deepspace Hellcat23 / Carlota DZ-entry28–32 / Tomcat17–22** and **Surface Bearcat27–30** are *mutually exclusive division-specific alternative plans*, not one army.
+- **Division-specific Corregidor entry options (not one combined army):**
+  - **Deepspace Hellcat23**
+  - **Deepspace Carlota DZ-entry28–32**
+  - **Deepspace Tomcat17–22**
+  - **Surface Bearcat27–30**
+
+  Deepspace and Surface options are *mutually exclusive alternative plans*.
 
 The video narrates Hellcat Paramedic placing a DR and Bearcat Paramedic using Adhesive, **both contradicted by pinned Corregidor loadouts**. **If all legal arrival lanes are guarded, leave the Tomcat off-table until a later scoring/repair opportunity**; a Turn-1 insertion just to 'use' the AD unit can be actively harmful. [Detailed case and reconciled N5.3 profiles](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
 
-**Specific defensive unit picks (N5.3):** [DZ Defenders — whole-game apex/value, anti-Combat Jump, anti-Impersonation and cheap role compression](dz-defenders-alpha-strike-and-impersonation-apex-value.md). Covers 3pt 360º Warcor, 11pt Kaauri, 12pt Raveneye, 13pt Bluecoat, 14pt Fennec, Auxilia/Auxbot and repairable TR REMs, with verified profiles and podcast/video disagreements.
+**Specific defensive unit picks (N5.3):** [DZ Defenders — whole-game apex/value, anti-Combat Jump, anti-Impersonation and cheap role compression](dz-defenders-alpha-strike-and-impersonation-apex-value.md) covers:
+
+- **Warcor 360º** — 3pt
+- **Kaauri** — 11pt
+- **Raveneye** — 12pt
+- **Bluecoat** — 13pt
+- **Fennec** — 14pt
+- **Auxilia/Auxbot** — multi-body guard
+- **Repairable Total Reaction REMs** — persistent defensive guns
+
+The companion guide includes verified profiles and competing podcast/video views.
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands/Cheap Trader apex/value tiers](warbands-and-cheap-trading-units-apex-value.md) covers **Ghazi/Daylami, Galwegian, Shaolin, Morlock, Diablo, Desperado, Dāturazi and Makaul**, with E/Marat versus normal Chain versus E/M CC range distinctions. **Warhorse cannot become Isolated**, normal Smoke is counterable by MSV, and Eclipse stops MSV. Screen cheap traders at corners instead of spending 60pt bodies for the job.
+[N5.3 Warbands/Cheap Trader apex/value tiers](warbands-and-cheap-trading-units-apex-value.md) covers:
+
+- **Ghazi / Daylami**
+- **Galwegian**
+- **Shaolin**
+- **Morlock**
+- **Diablo**
+- **Desperado**
+- **Dāturazi**
+- **Makaul**
+
+E/Marat, normal Chain and E/M CC have different reach. **Warhorse cannot become Isolated**, normal Smoke is counterable by MSV, and Eclipse stops MSV. Screen cheap traders at corners rather than spending 60pt bodies for the job.
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](airborne-and-enemy-dz-attackers-apex-value.md) compares actual **Rasyat, Fiday/Speculo, Mirage-5, Van Zant, Bashi, Banshee, Hellcat, Garuda, Teishin, Tiger, Ragik, Caskuda and fast/hidden attackers**, distinguishing **delivery reliability, lethal ceiling, after-entry Order economy and useful expected trades**. The **current Combat Jump rule fails to own-DZ table edge as a Model**—not scatter. Continue using the doctrine below for breach and layered DZ defence; use the tier guide for concrete current profiles and transcript-backed opposing opinions.
+The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](airborne-and-enemy-dz-attackers-apex-value.md) compares:
+
+- **Rasyat**
+- **Fiday / Speculo**
+- **Mirage-5**
+- **Van Zant**
+- **Bashi**
+- **Banshee**
+- **Hellcat**
+- **Garuda**
+- **Teishin**
+- **Tiger**
+- **Ragik**
+- **Caskuda**
+- Other fast/hidden attackers
+
+The comparisons distinguish **delivery reliability, lethal ceiling, post-entry Order economy and useful trades**. The **current Combat Jump rule fails to the own-DZ table edge as a Model**, not scatter. Continue using the doctrine below for breach and layered DZ defense; use the tier guide for current profiles and transcript-backed opposing opinions.
 
 
 Deployment-zone attacks are not one tactic. They are a family of penetration methods that defeat normal deployment geometry in different ways.
