@@ -12,12 +12,42 @@
 
 **White Banner wins by layering low-cost defensive problems in front of a versatile, objective-capable attack force.** It combines cheap Gūdǎn and Lóng Yá denial, Shaolin smoke/CC, midfield Camo, high-value mixed Fireteams, and several independent specialists. Its constraints are **costly premium solo pieces, limited MSV2, sometimes weak ranged answers to Mimetism, and competing demands on its single Core and Haris slots**.
 
-1. **Buy a deployable defensive floor:** Usually 1–3 **Gūdǎn one-use Camo/forward deploy + Zapper or HFT**, optional **Lóng Yá Minelayer/Panzerfaust/Flammenspeer**, **Hùndùn Hidden Deployment HRL**, a 7-point Chaīyì or a Shaolin screen. Put templates/mines where enemies must cross, not where they can safely ignore them.
-2. **Choose *one* major team plan:** **Jujak Firewall(-6) + Hwarang Disco Baller + Haetae HRL Guided/TacAware + Dokkaebi Pitcher/Spotlight** is the proven all-purpose package; or **Yě Māo + Yín-Shé** for MSV1/Mimetism plus **Albedo(-6)/K1 Sniper** versus enemy visors; or a smaller **Zhanshi/Shàng Jí** link with a reliable Doctor and more budget for independent operators. Those aren't equally suited to every mission.
-3. **Reserve points to play objectives outside the main team:** **Guìláng** midfield FO/hacker/Minelayer, **Dàofěi** infiltrating two-Wound HI specialist (including LT options), **Shaolin + Liang Kai** to clear rooms in melee, **Kunai T2 Thunderbolt/Para Mine**, **Tiger Soldier** for true Combat Jump, or Léi Gōng for a fast flanking/anti-MSV role.
+1. **Buy a deployable defensive floor:**
+   - **Gūdǎn (usually 1–3):** one-use Camo, Forward Deployment, Zapper/HFT.
+   - **Lóng Yá:** optional Panzerfaust, Flammenspeer or Minelayer.
+   - **Hùndùn:** Hidden Deployment HRL.
+   - **Chaīyì:** 7-point Flash Pulse/Repeater screen.
+   - **Shaolin:** smoke and CC deterrence.
+
+   Position mines/templates on enemy approach routes that matter.
+2. **Choose one major team plan:**
+   - **Jujak Firewall(-6) + Hwarang Disco + Haetae HRL Guided/TacAware + Dokkaebi Pitcher/Spotlight:** multi-role attack and hacking Core.
+   - **Yě Māo + Yín-Shé:** MSV1/Mimetism and Albedo(-6)/K1 Sniper against visors.
+   - **Zhanshi / Shàng Jí:** smaller team with a Doctor and more budget for independent attackers.
+
+   These packages answer different terrain, opponents and missions.
+3. **Reserve points for objectives outside the main team:**
+   - **Guìláng:** midfield FO/hacker/Minelayer.
+   - **Dàofěi:** two-Wound Infiltrating HI specialist or LT.
+   - **Shaolin + Liang Kai:** close-quarters clearance.
+   - **Kunai:** T2 Thunderbolt/Para Mine.
+   - **Tiger Soldier:** Combat Jump threat.
+   - **Léi Gōng:** fast flank and anti-MSV attack.
 4. **Don't mistake maximum list size or maximum gun power for a plan:** a short burst of heavy attacks wins a lane, but missions need buttons/classifieds, dispersed board presence, an LT fallback and enough regular orders after casualties. WIP12's experienced tournament guest Axel specifically favors spreading abilities across inexpensive units over making one unanswerable death-star.
-5. **Use smoke, Albedo and visors deliberately:** Shaolin smoke shields against normal LoF; Hwarang Disco Baller helps HI advance; **Yín-Shé Albedo(-6)** is an answer to enemy MSV troops *not* a generic Mimetism modifier against everyone. **Rui Shi MSV2** is White Banner's unusual smoke-shooting option, but is fragile and unlinked here. Against Mimetism(-6) MSV AROs, move around or attack with another tool instead of feeding a BS13 gun directly into them.
-6. **Build legal teams:** **Core 1, Haris 1, Duos unlimited.** White Banner's Shàng Jí / Jujak / Yě Māo / Yín-Shé are a **required-choice set**, not an instruction to field all four. Jujaks count as Shàng Jí; Yín-Shé as Yě Māo; Hwarang as Jujak. **Blue Wolf Duo** needs 1 Blue Wolf and can include one Shàng Jí, or use two Wolves. **Shaolin Duo/Haris** starts from Shaolin or Liang Kai and can include Jing Qo Wildcard where allowed. **Tian Gǒu/Léi Gōng** are Wildcards on FTO profiles only. Standard Pangguling and Son-Bae, including FTO-labelled versions, remain unlinked here.
+5. **Use smoke, Albedo and visors deliberately:**
+   - **Shaolin:** conventional Smoke, blocking normal LoF.
+   - **Hwarang:** Disco Baller for HI movement.
+   - **Yín-Shé:** Albedo(-6) against MSV, not a universal shooting modifier.
+   - **Rui Shi:** fragile, unlinked MSV2 gun for normal Smoke shooting.
+
+   Against Mimetism(-6)/MSV AROs, seek alternative angles instead of forcing a fair BS13 FtF.
+6. **Build legal teams:**
+   - **Limits:** one Core, one Haris, unlimited Duos.
+   - **Shàng Jí / Jujak / Yě Māo / Yín-Shé:** required-choice set, not four compulsory units; Jujak counts as Shàng Jí, Yín-Shé as Yě Māo, Hwarang as Jujak.
+   - **Blue Wolf Duo:** one Wolf with another Wolf or Shàng Jí.
+   - **Shaolin Duo/Haris:** Shaolin or Liang Kai anchor, potentially Jing Qo Wildcard where allowed.
+   - **Tian Gǒu / Léi Gōng:** Wildcard eligibility on specified FTO profiles only.
+   - **Pangguling / Son-Bae:** not linkable, despite FTO names.
 
 ### Short unit decisions — with the why
 
@@ -37,7 +67,15 @@
 
 ### Vehicles, TAGs, remotes — Yu Jing cross-sectorial context
 
-**Actual White Banner platforms:** **Blue Wolf TAG 70pt AVA2**, **Gūijiă TAG 77pt AVA1**, **Fēiquán VH 27/28pt AVA1**; plus Rui Shi, Lù Duān, Lóng Yá, Chaīyì, Wèibīng, Hùsòng, Son-Bae, Pangguling, Yáozăo. **Sù-Jiàn, Lóngwáng and other Yu Jing sectorial-specific armour are not available in the White Banner main roster.** The Shàngdiào accompanying Blue Wolf/Gūijiă is an ancillary remote, not a second TAG.
+**Actual White Banner platforms:**
+
+- **Blue Wolf TAG:** 70pt, AVA2.
+- **Gūijiă TAG:** 77pt, AVA1.
+- **Fēiquán VH:** 27/28pt, AVA1.
+- **REMs/support:** Rui Shi, Lù Duān, Lóng Yá, Chaīyì, Wèibīng, Hùsòng, Son-Bae, Pangguling and Yáozăo.
+- **Absent:** Sù-Jiàn, Lóngwáng and sectorial-only Yu Jing armour.
+
+The **Shàngdiào** is an ancillary specialist with Blue Wolf/Gūijiă, not a second TAG.
 
 | Platform | Purpose: why it might earn its slot | Costs, opposition, and legality |
 |---|---|---|
