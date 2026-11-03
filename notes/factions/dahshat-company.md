@@ -105,7 +105,13 @@ This section is analytical and non-authoritative; source profile data and the ca
 | **Kameel REM (AVA2)** **8/0 Baggage+Repeater**, **14/0.5 EVO**, **16/0 Total Reaction combi** | Reload/network and EVO for a planned Rui Shi/Shihab REM package; alternative TR body. [W2/R1/H1] | EVO costs SWC and troop slot; optional, not auto-include. No Fireteam membership. |
 | **Nasmat, Jandab, TurtleMek, Jackbot** | Servant/ancillary/synchronized helper reach for repair, objectives and attacks. | **Not separate Regular Orders**; obey parent profile and peripheral limitations. |
 
-**Vehicle classification:** Dahshat's **39-unit Main roster has no VH-type troops**. Kum, motorized 112 and Motorized Bounty Hunters are **motorcycle WB/LI**, not VH. Maghariba and Triphammer are **TAGs**, not VH. Do **not** import Haqq-only Shakush or Scarface, other-faction Vehicles, or adjacent sectorial Fireteam rights. Jandab/TurtleMek/Jackbot are ancillary, not separate TAGs.
+**Vehicle classification — actual roster categories:**
+
+- **VH:** No VH-type troops among Dahshat's 39 Main roster entries.
+- **Motorcycle WB/LI:** Kum, motorized 112 and Motorized Bounty Hunters; none are VH.
+- **TAGs:** Maghariba and Triphammer, not Vehicles.
+- **Ancillaries:** Jandab, TurtleMek and Jackbot are attached bodies, not separate TAGs.
+- **Excluded:** Do not import Haqq-only Shakush or Scarface, other-faction Vehicles or adjacent Fireteam permissions.
 
 ### Keep disagreement and legality visible
 

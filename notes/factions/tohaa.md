@@ -102,7 +102,16 @@
 
 **Gorgos disagreement:** *Tactical Awareness E37* argues 63–70pts gets a remarkably durable, BS14 AP-HMG TAG with a nasty E/M/Pulzar peripheral; at least one host likes it and discusses list use. *Loss of Lieutenant E142* is significantly more reserved (rough C-tier placement; several discussants had not played into it); Gorgos is valuable as **Tohaa's** AP weapon yet not automatically a top cross-faction TAG. **Use it when your list cannot otherwise crack high-ARM/STR lane holders and can keep a scoring plan**. Skip when Sukeul K1/FO + Kosuil/Draal + mission workers already solve the problem more efficiently.
 
-**REM and hacking implications:** Do **not** plan EVO/Assisted Fire/RemDriver/Flash-bot/Guided-ML/Repeater-bot engines by analogy with ALEPH or PanO; current Tohaa lacks their corresponding standard troop network. It *does* have **Kamael Hacking Device (17/.5), Wardriver (14/1 or 16/1 with Disco Baller), Aelis KHD**, and **Deployable Repeater** on Kamael/Sukeul FO. These provide *situational* network play, not broad, free repeaters. **Pheroware is biological area-control, not standard hacking**, and cannot substitute for anti-TAG Oblivion or a dense Spotlight network.
+**REM and hacking implications:**
+
+- **No standard REM hacking engine:** No equivalent to a conventional EVO/Assisted Fire/RemDriver/Flash-bot/Guided-ML/Repeater-bot network.
+- **Kamael HD (17/.5):** Ordinary hacking.
+- **Wardriver (14/1 or 16/1 with Disco Baller):** Another situational hacking option.
+- **Aelis KHD:** Defensive/offensive anti-hacker utility.
+- **Kamael / Sukeul FO:** Deployable Repeater options.
+- **Pheroware:** Biological area control, **not** conventional hacking and not a substitute for anti-TAG Oblivion or a dense Spotlight network.
+
+These tools can support situational networks but do not create the free Repeater coverage of conventional REM-heavy factions.
 
 ## Disputes worth remembering (retain both sides)
 

@@ -295,7 +295,12 @@ When Group 2 does not have an attractive target, its Orders can still become per
 5. deploy Drop Bears or an Armed Turret through the Monstrucker;
 6. repair a damaged REM later if needed.
 
-This is one of Shinden's best “less obvious” list-building packages. **Pangguling Baggage 8/0** provides eligible reloads; its **14/0.5 EVO** alternative is a *different single AVA1 selection*, most useful if the list is explicitly using Supportware. Neither is a Sayō member. See the [force-multiplier comparison](../list-building/force-multipliers-special-abilities-apex-value.md).
+This is one of Shinden's less obvious support packages. Choose the Pangguling profile for its actual role:
+
+- **Pangguling Baggage (8/0):** Reload eligible expended equipment.
+- **Pangguling EVO (14/0.5):** A different AVA1 selection when the list actually uses Supportware.
+
+Neither profile is a Sayō Fireteam member. See the [force-multiplier comparison](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 The key concept is:
 

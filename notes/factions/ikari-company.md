@@ -115,7 +115,14 @@ This section is analytical and non-authoritative; the source profile data and Fi
 | **Fugazi** (7) | Fast Regular Flash Pulse Repeater and Mimetism (-3), cheap order/network defence. | **AVA1** here; do not apply PanO/other sectorials' AVA or assume multiple Fugazis. |
 | **Yáozăo and TurtleMek** | Servant Yáozăo extends Tokusetsu/Brawler support reach; TurtleMek ancillary specialists embedded with TAGs can act on objectives. | Peripherals do **not** generate separate Regular Orders; respect parent/composite restrictions. |
 
-**Vehicle (VH) audit:** Current 36-entry Ikari **Main roster has no troop with VH type**. **Yojimbo motorized, Desperadoes and Motorized Bounty Hunters are WB/LI motorcycles, not VH**; no actual Vehicle-only N5 tactics/profile/Fireteam should be imported. **TAGs: exactly Scarface composite and Triphammer**. REMs: **Sierra, Pangguling, Fugazi, Lù Duān, Rui Shi, Yáozăo, Pathfinder, Clipper**, plus embedded TurtleMeks; all are counted by the existing roster/peripheral contract.
+**Vehicle (VH) audit — Ikari Main roster (36 entries):**
+
+- **VH:** None.
+- **Motorcycles:** Motorized Yojimbo, Desperadoes and Motorized Bounty Hunters are WB/LI, not VH.
+- **TAGs:** Scarface composite and Triphammer only.
+- **REMs:** Sierra, Pangguling, Fugazi, Lù Duān, Rui Shi, Yáozăo, Pathfinder and Clipper.
+- **Ancillaries:** Embedded TurtleMeks follow their parent model/peripheral rules.
+- **Caution:** Do not import Vehicle-only tactics, profiles or Fireteam legality not present in this roster.
 
 ### Conflicting testimony and corrections to retain
 

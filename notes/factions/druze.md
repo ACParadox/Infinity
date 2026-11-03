@@ -56,7 +56,13 @@
 | **Triphammer** (48–53 / 0–1.5) | Cheaper independent TAG with Tactical Awareness, Booty, transmutation and a Turtlemek specialist; AP Spitfire for attacking armor or 0-SWC short/mid-range profiles if preserving SWC. Battle-ravaged state may retain practical board value. [V1, V3] | BS13 with few quality-modifier advantages, BTS3, and difficult matchups into superior shooting TAGs; its low cost is not itself a win condition. V1 is skeptical versus Scarface; V3 sees real value over Anaconda. | **Cannot start a Mechanized Duo by itself**; must have Anaconda or Scarface among its members. May be fielded unlinked. |
 | **Anaconda** (59/1.5) | ARM7/BTS6 and Tactical Awareness; cheaper than the full Scarface composite, optional independent operator after escape, HMG or AP Spitfire; use when fitting the *specific* total-point footprint / range / BTS / scenario needs. | V1 and V3 both call it substantially outclassed: less effective armor cracking/dice than Scarface and less independent value than Triphammer; the operator does not compensate for losing the main TAG. This is a **strongly negative consensus**, not evidence it is illegal or impossible to use. | May seed a **Mechanized Duo**. No Mechanized Haris/Core in Druze. |
 
-**Vehicle boundary:** The current Druze **standard roster contains no troop categorized VH**. Its explicit mobile motorcycle unit is **Motorized Bounty Hunter** (8–16 pts, Irregular/Impetuous), which can screen, threaten a flank or accompany a legal Fast Attack/Mechanized Duo. It is **LI with Motorcycle, not a VH**, and it **cannot** create a Fast Attack Duo without a Bulleteer or a Mechanized Duo without Anaconda/Scarface. Avoid importing actual Vehicle/TAG availability or Fireteam entitlements from Qapu Khalqi, Ikari, PanO, StarCo, etc.
+**Vehicle boundary — current Druze roster:**
+
+- **VH:** No standard-roster troop categorized as VH.
+- **Motorized Bounty Hunter (8–16pt):** Irregular/Impetuous motorcycle LI for screening or flanking, **not a Vehicle**.
+- **Fast Attack Duo:** Requires a legal Bulleteer partner; the motorcycle alone cannot create one.
+- **Mechanized Duo:** Requires Anaconda or Scarface; the motorcycle alone is insufficient.
+- **Legality:** Do not import Vehicle/TAG or Fireteam access from Qapu Khalqi, Ikari, PanO or StarCo.
 
 ### REMs — what the investment buys
 

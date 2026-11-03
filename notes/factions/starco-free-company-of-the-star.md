@@ -91,7 +91,13 @@
 | **Salyut Zond (AVA1)** **8/0 Baggage+Repeater**, **14/0.5 EVO**, **17/0 TR** | 8pt Regular Baggage/reload/repeater order; optional **EVO** when using a Tsyklon/Reaktion/airborne package that actually benefits; TR rifle offers coverage. [S1, C1] | EVO consumes SWC and Orders/support plan; not automatic just because Corregidor or Bakunin gets more compatible REMs. Not linkable. |
 | **Zondbot / Turtlemek / Jackbot peripheral** | **3pt Zondbot Servant** extends repair/medical reach; **Turtlemek** specialist comes with Triphammer; **Jackbots** offer Fiddler synchronized templates/attack in *non-FTO* profiles. | **None generates its own Regular Order**; peripheral type and Fireteam rules must be respected. |
 
-**Vehicle audit:** StarCo's **33 standard main units include NO VH-class unit**. Do **not** invent/borrow a Vehicle entry from Nomads. **TAGs: Anaconda and Triphammer only** (not Iguana, Gecko, Lizard or Scarface). **REMs:** Tsyklon, Reaktion, Vertigo, Stempler, Transductor, Salyut, Zondbots; ancillary Jackbots and Turtlemek are peripherals, not independent orders.
+**Vehicle audit — StarCo's 33 standard Main units:**
+
+- **VH:** None; do not borrow a Vehicle from Nomads.
+- **TAGs:** Anaconda and Triphammer only.
+- **Excluded TAGs:** Iguana, Gecko, Lizard and Scarface.
+- **REMs:** Tsyklon, Reaktion, Vertigo, Stempler, Transductor, Salyut and Zondbots.
+- **Ancillaries:** Jackbots and TurtleMek are peripherals, not independent Orders.
 
 ### Meaningful opposing testimony and illegal-source traps
 

@@ -131,7 +131,13 @@ This section is analytical and non-authoritative; source profile data and the ca
 | **Mulebot (AVA2)**: **8/0 Baggage/Repeater**, **14/0.5 EVO**, **17/0 Total Reaction Combi** | Resupply/support, cheap Regular Order; EVO is sensible with **Bulleteer/Peacemaker/Sierra attack plan** or other relevant supportware. [G1] | EVO is optional; buying it with only one eligible solo attack REM is often a bad opportunity cost; **not a WhiteCo linked support bot**.
 | **Yáozăo (AVA2) / ancillary Auxbot, Shàngdiào, Bâtard, Anaconda Operator, TurtleMek/Cordelia forms** | **3pt Yáozăo Servant** extends repair/medical reach; constituent/peripheral pieces improve attached unit's capabilities. | **Do not add ancillary/Servant/disabled constituent states as separately purchasable main-roster entries.** They have different activation and Order rules: **Cordelia is an included Engineer in the Scarface composite, not automatically a no-Order Peripheral**. Check the constituent-order rules in Army; don't equate all included models with Fugazi/Servant bots.
 
-**VH check:** Among the **44 current standard WhiteCo entries there is no Vehicle-class (VH) troop**. **Carmen's motorcycle remains an Irregular/Impetuous biker profile**, not VH; **Gūijiă, Scarface, Anaconda are TAGs**, not Vehicles. REMs and their subordinate/peripheral forms are enumerated above. Do not import a different PanO/Yu Jing Vehicle or TAG on the theory that shared-REM videos imply roster access.
+**Vehicle classification — 44-entry standard White Company roster:**
+
+- **VH:** No Vehicle-class troop.
+- **Carmen:** Motorcycle is an Irregular/Impetuous biker profile, not VH.
+- **TAGs:** Gūijiă, Scarface and Anaconda are TAGs, not Vehicles.
+- **REMs/peripherals:** Follow the roster enumeration above.
+- **Excluded:** No other PanO/Yu Jing Vehicle or TAG becomes legal just because a shared-REM discussion mentions it.
 
 ### Disagreements and rules traps to preserve
 
