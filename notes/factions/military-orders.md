@@ -147,6 +147,17 @@
 
 **Mission matching matters more than a powerful statline.** For consoles/classifieds identify *who is an FO, Hacker, Doctor, Engineer, Paramedic or generic Specialist* and whether the mission accepts that exact role. [Can'tCon26 #020](../battle-reports/011-020-n5-battle-report-tactical-analysis.md#020--cantcon26-military-orders-three-game-tournament) contains an actual mistake where the available Trinitarian FO could not satisfy a Hacker-specific objective.
 
+## Played Fireteam constructions to compare (2026-11-03)
+
+The [canonical Military Orders chart](../../sectorials/panoceania/military-orders.md#fireteams) supports **one Core, one Haris and multiple Duos**; a linked **Santiago must use an FTO profile**, not the independent Combat Jump loadout. These are **played modules**, not complete universal 300-point lists.
+
+- **200-point balanced Core + Haris — explicitly fielded in [#221](../battle-reports/221-230-n5-battle-report-tactical-analysis.md):** **three Crosiers + Knight Commander CoC + Knight of Justice Spitfire Lieutenant** as a **Core of five**, alongside **two Teutonic Knights (Panzerfaust specialists) + Black Friar** as a **Haris of three**. **Santiago KHD** and **Warcor** remained separate; if replicating this under current rules, do not count the independent Santiago in either link.
+- **Same models, different allocation — #221 comparison:** the other Military Orders player used a **Knight of Justice + Santiago KHD Duo**, **two independent Teutonic Knights** and a **five-person Core** reconstructed as **three Crosiers + Commander + Black Friar**. The **second-player 6–4** win demonstrates *mission scoring and risk management*, not that a Duo is inherently stronger than the alternative Core. **Verify the Santiago's FTO KHD/TinBot option** before treating that Duo as current-legal.
+- **Compact tournament hacker pressure — [#160 top table](../battle-reports/151-160-n5-battle-report-tactical-analysis.md):** **De Fersen + Knight of Justice Hacker/Pitcher + Teutonic TinBot** formed an explicitly described **Haris of three**. The **Teutonic is the required-choice native member**; the other two are Wildcards. Pair it with independent **Trinitarian**, **Tactical Awareness REM** and a cheap objective specialist instead of buying a fourth premium Knight that cannot fit a Haris.
+- **Elite Crusade or double-TAG alternative — [#009](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) and [#181](../battle-reports/181-190-n5-battle-report-tactical-analysis.md):** #009 explicitly described a **Hospitaller HMG + De Fersen + Hospitaller TinBot** three-body Crusade-style team, and #181's champion used **two independent Seraph TAGs** in four of five rounds. The anti-Morat alternative of #181 deployed a **five-Knight assault team** for *one* matchup. Keep **Seraph companions as Peripherals** and do not silently merge the anti-Morat Knights into the played double-Seraph army.
+
+**Build decision:** for missions rewarding many distinct actions, start from the **Crosier/Commander/KoJ Core + cheap Teutonic/Black Friar Haris**, or instead the **small De Fersen cyber-Haris and independent scorers**. A five-Knight Core is a matchup-specific investment, not the standard cost of entry. The #221 mirror illustrates that retaining a scoring Knight alive can outweigh one more attack Order.
+
 ## Battle-report evidence and counterplay
 
 | Evidence | Useful lesson | Confidence / limit |
