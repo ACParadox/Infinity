@@ -88,14 +88,33 @@ _Research: 2026-10-23. **Qualitative tier judgment, not a measured win-rate rank
 
 ## Opposing opinions and evidence
 
-1. **Broad skills ≠ a good toolbox.** [Infinity the Dante — Toolbox Units Guide N5](https://www.youtube.com/watch?v=Q5kyCDufa8c) (YouTube MCP transcript checked) praises the Evader **35pt Engineer + AP Spitfire** and De Fersen because both primary jobs meet a high competence bar, but strongly criticizes Wildcat Engineer role/position conflict and considers Elena Kovac mixed. **Counter:** an underwhelming solo unit can be a legal Fireteam filler, objective specialist or matchup tech. A 2025 evaluation cannot determine updated roster legality.
+1. **Broad skills ≠ a good toolbox.** [Infinity the Dante — Toolbox Units Guide N5](https://www.youtube.com/watch?v=Q5kyCDufa8c) (YouTube MCP transcript checked) compares:
+   - **Evader 35pt Engineer + AP Spitfire:** praised because both primary jobs meet a high competence bar
+   - **De Fersen:** similarly praised for strong primary roles
+   - **Wildcat Engineer:** criticized for role/position conflict
+   - **Elena Kovac:** mixed evaluation
+
+   **Counter:** an underwhelming solo unit can still be a legal Fireteam filler, objective specialist or matchup tech. A 2025 evaluation cannot determine updated roster legality.
 2. **Asura versatility or cost bloat?** [Shepherd + Ollie — Mazebreaker OSS/Corregidor analysis](https://www.youtube.com/watch?v=NRRP4Fects8) (full YouTube MCP) calls Asura a premium infowar attacker and an efficient source of useful activations; observes she takes **fair gunfights** without Mimetism. [Loss of Lieutenant E168](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d) (Podcast MCP) debates hacker vs AP gun and whether 60+pt role compression is worth it. Both: choose **HD+63** for toolbox, **AP Spitfire61** for anti-armor gun.
-3. **Evader Engineer or simply specialist gun?** [WIP12 E208 — Corregidor after Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) (Podcast MCP, esp. ~44–51m) likes **Gecko + Evader + Stempler**, using repair/network/FT + attack in one order economy; **counter:** very expensive small team and Haris slot. The pinned file explicitly separates **35pt Engineer** and **31pt Specialist Operative** AP Spitfires.
+3. **Evader Engineer or simply specialist gun?** [WIP12 E208 — Corregidor after Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) (Podcast MCP, esp. ~44–51m) discusses a small team combining:
+   - **Gecko:** heavy attack platform
+   - **Evader:** repair/network support plus attack
+   - **Stempler:** additional team/network utility
+
+   The package compresses repair, network, Fireteam and attack into one Order economy, **but** ties up a costly small team and Haris slot. The pinned roster separates **Evader 35pt Engineer AP Spitfire** from **31pt Specialist Operative AP Spitfire**; do not credit one profile with both.
 4. **Shikami solo versus expensive double Shikami.** [Shepherd — Ōban faction focus](https://www.youtube.com/watch?v=AhicCreNCUQ) praises Shikami's movement + Eclipse + specialist toolkit; [Tactical Awareness S3E16](https://open.spotify.com/episode/5EJe58gg1Lyo9xZxff2g75) discusses two Shikami and objective access. **For two:** redundancy and multiple approaches; **against:** same elite Order demand, fewer other tools. Take two **only** if both have separate work.
 5. **Caliban swiss-army knife vs concentrated gun.** [MetaChemistry #139 — 2026 Shasvastii tournament winner](https://open.spotify.com/episode/6FErkreAsQoUKosH4WkdPW) (Podcast MCP, around ~18–49m) discusses triple Caliban, a returning MSV Spitfire, Protheion survivability and protected late scoring. **For:** Camo, multiple specialists, CC and recovery snowball; **against:** 1W and profile role split, need enough direct long-range shooting.
-6. **Nourkias as universal problem solver vs Sheskiin simple gun.** [Shepherd — Combined Army N5](https://www.youtube.com/watch?v=qoyylw0p0JM) (YouTube MCP) stresses that Nourkias needs delivery/hackable/close targets, while Sheskiin handles many problems **just by shooting**. **For Nourkias:** more job types, hacker/CC/anti-TAG; **for Sheskiin:** better first fight and fewer constraints, but **not a scoring specialist**.
+6. **Nourkias toolbox versus Sheskiin gunfighter.** [Shepherd — Combined Army N5](https://www.youtube.com/watch?v=qoyylw0p0JM) (YouTube MCP) contrasts:
+   - **Nourkias:** hacking, CC and anti-TAG options; needs appropriate delivery and hackable/close targets
+   - **Sheskiin:** better first gunfight and fewer delivery constraints; **not a scoring specialist**
+
+   A wider toolbox is not always preferable to solving the immediate shooting problem.
 7. **Faction toolboxes versus durable specialists.** [Shepherd — Haqqislam N5](https://www.youtube.com/watch?v=Dmv4pfdTbc0) (YouTube MCP) favors fast Mukhtar and practical specialist Duos; some role-hungry coordinated-order lists prefer **unlinked** Mukhtars for activation flexibility. [Shepherd's Ariadna CanCon review](https://www.youtube.com/watch?v=zTqYE_FddwQ) and [Loss of Lieutenant #164](https://open.spotify.com/episode/0X4QIoP24cKONtltxClHMH) favor several independent cheap flexible specialists rather than a single deluxe hero.
-8. **Karakuri durable objective anchor versus Shikami independent scorer.** In Ōban, Karakuri win repeated midline **hold** tests due to STR3 and repair potential; Shikami is better to **arrive safely** behind MSV/height. Paying for both is correct only with sufficient pooled Orders and meaningful distinct roles.
+8. **Ōban objective roles:**
+   - **Karakuri:** durable midline **hold** anchor, with STR3 and repair potential
+   - **Shikami:** independent scorer, better at **arriving safely** past MSV/height obstacles
+
+   Paying for both makes sense only with sufficient pooled Orders and meaningful distinct roles.
 
 ## Videos/podcasts actually reviewed through MCP
 
