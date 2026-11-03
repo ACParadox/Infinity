@@ -6,7 +6,16 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **N5.3 roster/rules precedence:** the authoritative [Onyx N5.3 profiles, 35-unit roster and Fireteams](../../sectorials/combined-army/onyx.md) (Army **7.26246.158**, September 2026) and [N5.3 rules](../../rules/README.md) override historical list examples. This document preserves the uploaded research's transcript observations and both sides of contested evaluations; **transcripts were not newly extracted during this merge**.
 
-**Quick legality/price guardrails:** **Unidrons Core/Haris** require a Unidron (1–5), and **Nexus/Kerr-Nau Wildcards belong to the Unidron context only**. **Nourkias Wildcard** is legal specifically in Umbra Samaritan, Umbra Legate or Xeodron contexts—not freely in every Onyx team. **Xeodrons form Duo/Haris**, **Overdrons form Duo**, and **Sphinx and Caskuda are standalone TAGs** with no current standard team access. The current roster calls the airborne TAG **Caskuda**; some uploaded/community sources spell it *Cascuda*. Overdron options are **51/1.5 HRL(+1B), 59/1.5 Plasma Sniper(+1B), and 62/1.5 HRMC**, so the uploaded HRMC/Plasma debate excludes a legitimate lower-cost alternative.
+**Current Fireteam and profile guardrails:**
+- **Unidron Core/Haris:** requires a native Unidron; Nexus/Kerr-Nau are Wildcards only in that context.
+- **Nourkias Wildcard:** Umbra Samaritan, Umbra Legate or Xeodron families only.
+- **Xeodron:** Duo/Haris; **Overdron:** Duo.
+- **Sphinx and Caskuda:** standalone TAGs.
+- **Overdron loadouts:**
+  - HRL(+1B) 51/1.5
+  - Plasma Sniper(+1B) 59/1.5
+  - HRMC 62/1.5
+- **Caskuda** is the roster spelling; older media often uses *Cascuda*.
 
 **Related:** [Combined TAG evaluation](../list-building/tags.md), [REM utility](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Onyx/Vanilla contrast](vanilla-combined-army.md).
 
@@ -14,7 +23,24 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectorial**. The good lists combine a hard-to-remove REM/order backbone, a premium *problem solver*, and a separate mission plan. The faction's unusual strength is that **many supporting pieces are simultaneously Orders, weapons, specialists and recoverable REMs**.
 
-**Default sequence:** (1) pick a safe or fighting Lieutenant; (2) decide whether the main hammer is an **Overdron / Xeodron + Nourkias / active Umbra group / airborne Cascuda**; (3) add **Unidron, Nexus and/or Q-Drone** defence; (4) enable attacks with **Bit & KISS, Sensor, EVO and a reachable Engineer**; (5) add one alternate route, a hidden ARO, and mission specialists; (6) check SWC, hacking protection and Orders before buying another TAG.
+**Default sequence:**
+1. Pick a safe/fighting Lieutenant.
+2. Pick a main attacker:
+   - Overdron
+   - Xeodron + Nourkias
+   - Umbra group
+   - Caskuda
+3. Set up defense:
+   - Unidron
+   - Nexus
+   - Q-Drone
+4. Enable attacks:
+   - Bit & KISS hacking/Pitchers
+   - Sensor REM
+   - EVO if relevant
+   - Reachable Engineer
+5. Add another attack vector, hidden ARO and specialists.
+6. Check SWC and spendable Orders before another TAG.
 
 - **Where Onyx excels:** plasma/K1 ammunition; Albedo anti-MSV long-range threat; N5 **Unidron + Engineer** attrition; multiple **Super-Jump** routes; serious repeaters/KHD tools; active TAG pressure; Noctifer uncertainty.
 - **What it lacks:** dependable standard Smoke; many cheap infiltrating scoring bodies; consequence-free losses of expensive linked models; immunity to hacking. An all-visible expensive TAG brick lets the opponent tailor every response. A hidden Noctifer or airborne Fraacta/Ko Dali changes that calculation.
@@ -45,7 +71,12 @@ Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectori
 
 ### A. REM attrition: Unidron + Nexus + repair
 
-**Choose:** an efficient **Unidron-anchored** Core/Haris with Plasma/K1 guns and an eligible **Nexus Engineer/Hacker Wildcard**; Q-Drone and R-/M-Drone provide **independent**, unlinked coverage; add one premium independent attacker.
+**Unidron attrition package:**
+- **Unidron Core/Haris:** Plasma/K1 gun and scoring.
+- **Nexus Engineer/Hacker:** legal Wildcard.
+- **Q-Drone:** independent ARO.
+- **R-/M-Drone:** independent Repeater/Sensor support.
+- **One premium attacker:** a separate assault route.
 
 **Why it works:** each Unidron can score or threaten, REM Presence/Dogged make it inconvenient to remove, and a nearby Engineer forces the attacker to spend Orders *again*. Some 2026 Onyx podcast hosts regard Unidrons as unusually cost-effective linked shooters and defence.
 
@@ -53,7 +84,11 @@ Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectori
 
 ### B. Overdron + follow-up attack
 
-**Choose:** one Overdron heavy gun, a cheap command/support package, Bit & KISS or relevant hackers, and a compact Umbra/Xeodron or Fraacta assault follow-up.
+**Overdron two-wave package:**
+- **Overdron:** long-range ARO clearance.
+- **Bit & KISS or another legal hacker:** counter-network.
+- **Budget command/support:** protected Orders.
+- **Umbra, Xeodron or Fraacta:** different follow-up axis.
 
 **Why:** the Overdron forces premium MSV AROs off the table using Albedo and long-range fire. The *second* piece then crosses safely and does the mission.
 
@@ -61,7 +96,10 @@ Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectori
 
 ### C. Nourkias + Xeodron mobile team
 
-**Choose:** Nourkias plus a Xeodron in a **Xeodron Duo/Haris with at least one native Xeodron**; Nourkias has conditional Wildcard access in this context. Keep a **Nexus Engineer independently positioned** for recovery—**Nexus is not a Xeodron Wildcard in the pinned chart**.
+**Xeodron mobile team:**
+- **Xeodron:** mandatory native Duo/Haris member.
+- **Nourkias:** conditional Wildcard in that family.
+- **Nexus Engineer:** separate recovery model; not a Xeodron Wildcard.
 
 **Why:** mobile Super-Jump Duo can exploit roofs, different heights and short engagement windows; hacker/CC and K1/MULTI weapons address different defensive layers. Command/NCO/Tactical Awareness resources potentially make activation unusually efficient.
 
@@ -69,7 +107,14 @@ Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectori
 
 ### D. Cascuda insertion + Overdron suppression (experimental)
 
-The Oct 2026 Irregular Order review explicitly builds **Overdron HRMC + Cascuda + Bit & KISS + E-Drone**, economical Imetron/Ikadron/R-Drone Orders, Nexus command/Unidron support and a hidden scoring specialist.
+**October 2026 Irregular Order list package:**
+- **Overdron HRMC:** front-lane ARO removal.
+- **Caskuda:** airborne attack.
+- **Bit & KISS:** hacker pressure.
+- **E-Drone:** EVO insertion.
+- **Imetron/Ikadron/R-Drone:** economical Orders.
+- **Nexus/Unidron:** support.
+- **Hidden scoring specialist:** mission backup.
 
 **Why:** Overdron removes safe opposing AROs, Bit & KISS pressures hackers that could trap Cascuda, EVO raises the chance of successful insertion, and Cascuda attacks from a nonfrontal axis.
 
@@ -130,6 +175,12 @@ Can field several Xeodrons, perhaps Overdron plus support. Threatens opponents w
 
 ## Opponent counterplay / how to prevent it
 
+- **N5.3 vision control:**
+  - **Overdron Albedo:** directly counters MSV, but does not project a shared Zero Visibility zone.
+  - **Noctifer:** hidden ARO and route uncertainty.
+  - **Umbra/repeaters:** alternate pressure.
+  - Onyx lacks cheap reliable Dāturazi Smoke; Albedo may be an expensive gun modifier when the enemy has no visors. [Global vision trade-offs](../list-building/vision-control-units-apex-and-value.md).
+
 - **Against enemy hacking:** choose positions outside repeaters, pressure enemy hackers with **Bit & KISS / Nourkias**, place Firewalls, and ensure an Engineer/Reset plan. This is the critical failure mode for TAG-heavy Onyx.
 - **Against enemy Smoke:** without reliable MSV in the selected list, smoke can simply block the Q-Drone/Overdron gunline. Buy the appropriate MSV or use Sensor, flanks, repeater zones and non-LoF AROs rather than blindly expecting the gun to see through it.
 - **Against Camo:** **M-Drone Sensor** finds targets more economically than risking expensive TAG/Legate AROs to Discover. Pair it with a ready gun or templates; Sensor without follow-up isn't scoring.
@@ -164,11 +215,6 @@ Can field several Xeodrons, perhaps Overdron plus support. Threatens opponents w
 - 2025 reviewers discussed N5 *before* October 2025 N5.2; 2022 material was N4. **Do not silently port** Tactical Awareness's sample Fireteams, EVO program values, weapon costs, BS benefits, actual TAG stats or Exrah interactions.
 - **Names and terms** in auto-transcripts are error prone: Xeodron (“Zeodron”), Overdron (“Overdrawn”), Nourkias (“Norkius”), Imetron (“Amitron”), Cascuda (“Kaskuda”), Fraacta (“Fractus”). Spellings in this guide normalized. Some hosts explicitly speculate about hypothetical troop-type changes: Xeodrons **remain TAGs unless the Army builder says otherwise**.
 - This note is a *decision aid*, not an Army roster export. Each example is an **archetype** whose current troop options and link composition must be checked in Infinity Army.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Different answer to MSV:** **Overdron Albedo** attacks the visor directly but does **not** create a shared Zero Visibility zone. Onyx lacks the dependable cheap Dāturazi Smoke package that Morats/Vanilla CA exploit. Its Noctifer/Repeater/hidden threat and Umbra-led tactical solutions must be planned by actual roster.
-- **Counterpoint:** a supported Overdron can remove several MSV AROs, but Albedo adds little versus enemies without visors; a hidden threat/cheap REM may preserve more attack Orders. See [vision tier guide](../list-building/vision-control-units-apex-and-value.md).
 
 ## References
 

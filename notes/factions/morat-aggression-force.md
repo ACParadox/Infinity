@@ -20,9 +20,26 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 - **Excellent force concentration:** many viable Duos and Haris rather than one slow, overcommitted five-model Core; move useful specialists and guns together.
 - **Weakness:** mostly BS12–13; losing the N4 large-Core BS bonus hurts. **Make the opponent take bad rolls:** MSV through Smoke, imposed BS (-3), carefully selected positive rangebands. Merely firing more dice at a better shooter is not enough.
 - **No normal Camo/Hidden/Cybermask shell:** threats are usually visible on deployment. Opponents can plan around your guns and objectives. Use placement, Smoke/Eclipse, reserves, Combat Jump/Parachutist and multiple independent attack lanes instead of relying on surprise.
-- **N5 incidental infowar:** Dartok Pitcher hackers plus Rodok options, REM repeaters and T-Drone let you contest a hacking midfield without building a Nomads-style all-in network.
+- **N5 incidental infowar:** a complementary network:
+  - **Dartok:** Pitcher/Hacker
+  - **Rodok:** mobile infowar
+  - **REM repeaters:** coverage
+  - **T-Drone:** possible Guided consequence
 
-**Practical list skeleton:** 1 safe/useful LT engine → 1 reliable ranged gun → 1 alternate angle (Rasyat, Rodok/Krakot, warband, TAG) → Dartok/Pitcher + specialists → Smoke/disco-ball delivery → Ikadron and defensive REMs → recovery/mission scoring. Target a healthy Regular-order pool, not a mandatory 15-model template.
+**Practical list skeleton:**
+- **Command:** safe Lieutenant engine.
+- **Ranged gun:** reliable primary attacker.
+- **Alternate route:** choose one:
+  - Rasyat arrival
+  - Rodok/Krakot team
+  - Dāturazi/other warband
+  - Raicho/Bultrak TAG
+- **Network and scoring:** Dartok/Pitcher + specialists.
+- **Visibility:** Smoke or Disco Ball.
+- **Defensive orders:** Ikadron and appropriate REMs.
+- **Sustainability:** recovery and late-game scoring.
+
+Keep a healthy Regular Order pool; a 15-model template is not compulsory.
 
 ## Highest-leverage units and packages
 
@@ -44,9 +61,24 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 ### Distinct viable plans
 
-1. **Control/shooting:** Yaogat Spitfire + Dartok + Rindak, Yaogat sniper/Dartok duo, Sogarat LT, Oznat+Gakis, Ikadron and Daturazi. Establish Smoke, shoot with MSV, leave Pitchers/repeaters behind and preserve specialist scoring.
-2. **Armored hammer:** Sogarat LT + Sogarat NCO Duo or Raicho/Bultrak as primary piece; cheap Smoke, Dartok and independent flank pressure. Don't buy **all three** expensive armor packages reflexively.
-3. **Attack from unexpected axes:** Rasyat or Dropsuit, Daturazi, compact Rodok/Krakot team and a straightforward long-range firebase. Trades deployment certainty for flanking reach.
+1. **Control/shooting:** retain Smoke, MSV and objective access.
+   - Yaogat Spitfire + Dartok + Rindak
+   - Yaogat sniper/Dartok Duo
+   - Sogarat LT
+   - Oznat + Gakis
+   - Ikadron
+   - Dāturazi
+2. **Armored hammer:** choose a primary armor solution, not all of them.
+   - Sogarat LT + NCO Duo
+   - Raicho TAG
+   - Bultrak TAG
+   - Add cheap Smoke, Dartok and flank support.
+3. **Attack from unexpected axes:**
+   - Rasyat or Dropsuit
+   - Dāturazi
+   - Rodok/Krakot compact team
+   - Independent long-range firebase
+   Accept less certain deployment in exchange for flanking angles.
 4. **Order engine:** Oznat + cheap Hungries can supply economical Regular activation infrastructure while another team does the mission; also creates Smoke angles without dedicating an entire expensive assault team.
 
 ## Opposing opinions worth preserving
@@ -80,7 +112,12 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 - **Q-Drone:** **Total Reaction** long-lane ARO, forces the enemy to spend orders/make a plan before exposing attack routes. Beware marker-state tricks, AP, smoke, hacking and pieces that impose better modifiers.
 - **R-Drone:** inexpensive Flash Pulse/repeater-style support and orders where legal; best when it costs an enemy Orders to clear it rather than trying to serve as the list's primary ARO.
 - **E-Drone:** EVO support, selected to enable a specific AD/hacking/REM play instead of assuming all lists need one.
-- **T-Drone:** **Guided Missile Launcher** capitalizes on Targeted enemies; useful with Dartok/repeater reach. Its SWC/points are squandered if the list cannot create Targeted states reliably or if it steals too many Orders from objectives.
+- **T-Drone:** Guided Missile payoff for Targeted, but not a mandatory primary threat:
+  - **T-Drone 16/1.5:** Guided weapon.
+  - **Dartok FTO 18/0.5:** linked Pitcher/Hacker; the ordinary 23/0.5 profile is different.
+  - **R-Drone:** network contribution.
+  - **Alternative attack routes:** Dāturazi Smoke + Yaogat, Rasyat backline or direct melee.
+  Its SWC/Orders are only worth paying when hacking and marking already matter. [Indirect-fire comparison](../list-building/indirect-fire-speculative-guided-apex-value.md).
 - **M-Drone / Med-Tech Obsidon Medchanoid ("Doctor Worm"):** mission, repair and doctor infrastructure as allowed by Army; watch differences between Engineers, doctors and remote peripherals. Support roles matter when Raicho/Bultrak or multiple recoverable guns justify them.
 - **REM-specific caution:** *do not assume Warhorse, Religious, Morat keywords or Morat Fireteam eligibility transfer to drones*. Loss of Lieutenant / Isolation / hacking vulnerabilities may be materially different. Verify actual current profiles.
 
@@ -94,6 +131,13 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 4. **What happens if it goes down on turn 1?** If scoring and command economy collapse, the list is too concentrated.
 
 ## Matchup and deployment principles
+
+- **N5.3 vision-control options:**
+  - **Dāturazi Smoke + Yaogat MSV2:** more favorable active FtF.
+  - **Oznat Smoke GL + Hungries:** alternate Smoke angles.
+  - **Sogarat Disco Ball:** Eclipse-style route on a more expensive anchor.
+  - **Rasyat Eclipse:** flank delivery.
+  - **Trade-off:** Yaogat/Smoke improves initial odds; Suryat favors endurance/Tactical Awareness. Bypass when shooting through an ARO costs more. [Vision control guide](../list-building/vision-control-units-apex-and-value.md).
 
 - **Versus layered Mimetism or BS (-3):** capitalize on Morat Warhorse and MSV where applicable, but check what still affects you: cover, range, Surprise from other forms and non-BS hazards aren't universally cancelled.
 - **Versus Smoke-dependent armies:** Yaogat MSV2 can exploit opposing/your own Smoke and prevent easy smoke-based advances; opposing MSV can reciprocate.
@@ -121,17 +165,6 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 - Most detailed tactical recordings above predate **October 2025 N5.2** and **September 2026 N5.3**. Tactical arguments and tradeoffs endure, but **profile values, Fireteam legality, team bonuses, point costs, TAG classifications and scenarios may not**.
 - The transcriptions contain automatic-speech errors (e.g. "Dart"=Dartok, "Yaoat"=Yaogat, "Socarat"=Sogarat, "Kiteto"=Kaitok); unit names above have been normalized.
 - This is a reasoning guide, **not a complete or validated latest-Army export**. When something rests on a commentator's rules interpretation (especially Hungry Fireteam composition), check official Army and FAQ before relying on it.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Core plan:** **Dāturazi Regular Smoke 14/0 + Yaogat MSV2** converts average BS into favorable active FtF; Oznat Smoke GL/Hungries extends the enabling angle. **Sogarat Disco** offers an Eclipse-style route on a much more expensive anchor; **Rasyat Eclipse** arrives from another vector.
-- **Disagreement:** Shepherd favors Yaogat/Smoke over simply stacking wounds on Suryat; Suryat proponents value resilience/TacAware and less reliance on setup. If no one needs to shoot, a Disco/Eclipse crossing may score more cheaply than fighting. [Global tiers](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**T-Drone Guided16/1.5** is a possible payoff once a legal **Dartok Pitcher/hacker + R-Drone** network exists; **Dartok FTO18/.5** (linked) is not the same as **ordinary23/.5** profile. **Competing priority:** Morats often outperform this multi-roll dependency through **Dāturazi Smoke + Yaogat/strong direct shooting, Rasyat backline or melee**, especially when SWC/Orders are tight. Buy T-Drone if hacking and target marking are independently worthwhile.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
 ## References
 
