@@ -36,6 +36,18 @@
   - **Wardriver / Knauf FTO / 112 FTO** offer conditional network, sniper and medical alternatives in legal slots.
 - **ETB Duo:** **Anaconda TAG + Moblot Engineer** (or eligible **112 Motorized/Kuryer**) is a legitimate recovery/armor flank. It is *conditional*, not a whole-game top TAG Fireteam; **Anaconda itself is rated C/C** in current cross-TAG comparisons. [TAG tiers](../list-building/tags.md).
 
+### Battle-report audit — FRRM coverage gap and safe Fireteam tests
+
+Across the [#001–#241 numbered N5 battle-report analyses](../battle-reports/n5-battle-reports-and-tournament-reports.md), **no directly verified modern FRRM full roster or deployed Fireteam** could be identified for this Ariadna audit. This **does not imply poor performance**; it means there is **no report-backed five-body Métro Core or Loup-Garou Haris** to cite. The older Merovingian media discussed below predates the N5.3 chart.
+
+Three **current-chart test ideas**, **not observed tournament lists**, follow from the [pinned FRRM Fireteam rules](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md#canonical-fireteam-chart):
+
+- **Budget Métro Core:** three native Métros + eligible **Moblot gun + 112 FTO** (check exact specialist/loadout choices). This uses the legal Métros Core family with a veteran shooter and medical support; keep independent midfield specialists to operate buttons.
+- **Loup-Garou Haris:** **Loup-Garou Smoke GL + Loup-Garou Viral Marksman + Apache FTO** (the 55-point candidate already discussed above). Test it as a ranged Smoke/viral/CC module beside Camo scorers.
+- **ETB armor-recovery Duo:** **Anaconda TAG + Moblot Engineer** (or another permitted ETB support choice) as an **alternative** armored attack route, not an automatic best-choice TAG.
+
+**Do not copy the [#210 *vanilla Ariadna* two-Loup-Garou + Briscard Haris](../battle-reports/201-210-n5-battle-report-tactical-analysis.md#L323) into Merovingienne.** That formation is possible under **vanilla FT-02**, but the **FRRM Loup-Garou family only admits Loup-Garou and Apache FTO**; Briscards belong to a different **FRRM (Moblot/Briscard) Fireteam family**. A shared troop name is not a shared link chart. Until an actual FRRM N5.3 played Army export appears, mark these candidate teams **untested**.
+
 ### Unusual access, gaps and trade-offs
 
 - **Anaconda is a TAG**, but standard FRRM has **no VH-class Vehicle**. Having this one TAG does not by itself make the army exceptional.
