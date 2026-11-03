@@ -26,7 +26,7 @@
 
 **Proxy/skip:** Four ordinary **Oko/Peeler/Kyttä/Millicent** Copperbots can be represented by pooled **PanO Dronbots** of matching base/silhouette; Fuzzbot baggage by **Mulebot**, Yudbot S1 servants already owned. Moonrakers, StormBot, Wrecker and Firebat have distinct physical forms and cannot automatically use an ordinary Copperbot donor. Three Rovers and two Hellblazers already in the core avoid any immediate full-AVA body purchases. Beasthunter, Warcor and Yudbots need no duplicate buy. Optional Hippolyta, Jamie, Sāchā, Sonya, second Wrecker/Prime, Firebat S7 VH, rare one-off characters and alternate weapons are proxy-first. Different Jamie profiles cannot be fielded as two Jamie models.
 
-**Budget provenance:** Saved Miniatures Market/Ultimate Toy Zone USD prices marked U are archived user quotations, not proven live inventory. **USD1=CAD1.3985 (October 29, 2026)**, round per line. V means observed 401 Games (Toronto/Vaughan) or Tistaminis (Hamilton) CAD, not a stock guarantee. Exclude Québec taxes, freight, customs/brokerage, FX spreads. Shopping plans do not modify owned inventory. [All O-12 armies, shared one-purchase cart](../o-12-consolidated-buy-carts.md).
+**Budget provenance:** Saved Miniatures Market/Ultimate Toy Zone USD prices marked U are archived user quotations, not proven live inventory. **USD1=CAD1.3985 (October 29, 2026)**, round per line. V means observed 401 Games (Toronto/Vaughan) or Tistaminis (Hamilton) CAD, not a stock guarantee. Exclude Québec taxes, freight, customs/brokerage, FX spreads. Shopping plans do not modify owned inventory. [All O-12 armies, shared one-purchase cart](o-12-consolidated-buy-carts.md).
 
 ## Own versus buy: priorities
 

@@ -1,19 +1,19 @@
 # Haqqislam — consolidated collection-completion buy carts (N5.3)
 
-**Prepared 2026-10-30.** All four ordinary Haqqislam armies in the current repository: [Vanilla Haqqislam](buy-lists/vanilla-haqqislam-buy-list.md), [Hassassin Bahram](buy-lists/hassassin-bahram-buy-list.md), [Ramah Taskforce](buy-lists/ramah-taskforce-buy-list.md), [Qapu Khalqi](buy-lists/qapu-khalqi-buy-list.md). Current roster/Fireteam authority: [Vanilla](../../sectorials/haqqislam/haqqislam.md) **56** standard units, [Hassassin](../../sectorials/haqqislam/hassassin-bahram.md) **33**, [Ramah](../../sectorials/haqqislam/ramah-taskforce.md) **37**, [Qapu](../../sectorials/haqqislam/qapu-khalqi.md) **38**; N5.3 Army `7.26246.158` verified 2026-10-15. The per-army files preserve the existing **full roster-by-roster** unit audits; this file is a purchasing synthesis, **not** an addition to existing ownership.
+**Prepared 2026-10-30.** All four ordinary Haqqislam armies in the current repository: [Vanilla Haqqislam](vanilla-haqqislam-buy-list.md), [Hassassin Bahram](hassassin-bahram-buy-list.md), [Ramah Taskforce](ramah-taskforce-buy-list.md), [Qapu Khalqi](qapu-khalqi-buy-list.md). Current roster/Fireteam authority: [Vanilla](../../../sectorials/haqqislam/haqqislam.md) **56** standard units, [Hassassin](../../../sectorials/haqqislam/hassassin-bahram.md) **33**, [Ramah](../../../sectorials/haqqislam/ramah-taskforce.md) **37**, [Qapu](../../../sectorials/haqqislam/qapu-khalqi.md) **38**; N5.3 Army `7.26246.158` verified 2026-10-15. The per-army files preserve the existing **full roster-by-roster** unit audits; this file is a purchasing synthesis, **not** an addition to existing ownership.
 
 **Buying principle:** At least one useful real sculpt per troop type when reasonably priced, with justified extras for regular list constructions (**3 Ghulam, 3 Daylami, 2–3 Muyib, 2 Govad, 2 Barid, 2 Sekban, 2 Odalisque**), not the unit's full AVA or one of every weapon. Rare heroes / premium or OOP sculpts / unusual motorized or large models are proxy-first or deferred. Everyday four S3 robot roles, baggage S4 and S1 servants may use existing ordinary **non-Combined-looking** PanO/ALEPH robots matching the *target* silhouette and base, not four of every chassis type.
 
-**Prices:** Historical, user-captured [Miniatures Market Haqqislam USD](market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD](market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **U — unverified live stock, checkout prices and ship-from countries**. USD→CAD at **1.3985** (2026-10-29); round individual product amounts to cents. Canadian **V** price records come from 401 Games (Toronto/Vaughan ON), Tistaminis (Hamilton ON) or current indexed Canadian product comparisons, **not checkout commitments**. The quoted CAD total is **before GST/QST, shipping, credit-card FX spreads, customs/duties and brokerage**; it is not one confirmed orderable cart.
+**Prices:** Historical, user-captured [Miniatures Market Haqqislam USD](../market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **U — unverified live stock, checkout prices and ship-from countries**. USD→CAD at **1.3985** (2026-10-29); round individual product amounts to cents. Canadian **V** price records come from 401 Games (Toronto/Vaughan ON), Tistaminis (Hamilton ON) or current indexed Canadian product comparisons, **not checkout commitments**. The quoted CAD total is **before GST/QST, shipping, credit-card FX spreads, customs/duties and brokerage**; it is not one confirmed orderable cart.
 
 ## Individual army budget — from actual current ownership
 
 | Army | Core buys CAD | Additional priced options CAD | Core + listed optional CAD | File |
 |---|---:|---:|---:|---|
-| **Vanilla Haqqislam** | **$168.41** | +$103.29 | $271.70 | [Vanilla](buy-lists/vanilla-haqqislam-buy-list.md) |
-| **Hassassin Bahram** | **$206.88** | +$70.24 | $277.12 | [Hassassin](buy-lists/hassassin-bahram-buy-list.md) |
-| **Ramah Taskforce** | **$175.44** | +$155.09 | $330.53 | [Ramah](buy-lists/ramah-taskforce-buy-list.md) |
-| **Qapu Khalqi** | **$148.26** | +$53.70 | $201.96 | [Qapu](buy-lists/qapu-khalqi-buy-list.md) |
+| **Vanilla Haqqislam** | **$168.41** | +$103.29 | $271.70 | [Vanilla](vanilla-haqqislam-buy-list.md) |
+| **Hassassin Bahram** | **$206.88** | +$70.24 | $277.12 | [Hassassin](hassassin-bahram-buy-list.md) |
+| **Ramah Taskforce** | **$175.44** | +$155.09 | $330.53 | [Ramah](ramah-taskforce-buy-list.md) |
+| **Qapu Khalqi** | **$148.26** | +$53.70 | $201.96 | [Qapu](qapu-khalqi-buy-list.md) |
 | **Sum of four separately ordered cores** | **$698.99** | — | — | **Double counts Hassassin Action, old Ghulam starter/Red Veil, Mukhtar, Beyond Red Veil and other overlap** |
 
 **Actual ownership is scarce:** shared **Warcor**, **Knauf** (Vanilla-legal) and **McMurrough** (Hassassin-legal) exist among owned Kestrel/Caledonia collections; no named Ghulam, Mukhtar, Fiday, Barid, Sekban, Odalisque etc. were recorded owned. Most substitute figures are **PanO, TAK, ALEPH and JSA non-Haqq silhouette donors**, not actual Haqq troop models.
@@ -78,7 +78,7 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 
 ## Sources and ordering checks
 
-- [Full Haqq Miniatures Market price archive (USD)](market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone (USD)](market-prices/ultimate-toy-zone-infinity-prices-usd.md)
+- [Full Haqq Miniatures Market price archive (USD)](../market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone (USD)](../market-prices/ultimate-toy-zone-infinity-prices-usd.md)
 - [Human Sphere — Haqqislam starter and boxed-set contents](https://human-sphere.com/Haqqislam_Starters)
 - Canadian retail: [401 Games Hassassin Action](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), [401 Beta](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-expansion-pack-beta), [401 Ramah Alpha](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha), [Tistaminis Haqq category](https://tistaminis.com/collections/haqqislam)
-- [Owner inventory and proxy references](../../inventory) and [miniature proxy rules](../miniature-proxy-guidelines.md), including exact physical sizes and no same-roster donor when ambiguous
+- [Owner inventory and proxy references](../../../inventory) and [miniature proxy rules](../../miniature-proxy-guidelines.md), including exact physical sizes and no same-roster donor when ambiguous

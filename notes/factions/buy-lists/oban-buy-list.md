@@ -4,7 +4,7 @@
 
 ## Collection completion — core purchases, optional models, CAD totals
 
-**Updated 2026-10-31 — user's selected buying policy:** **Shinobu Kitsune and Karakuri are core physical purchases in both Ōban and Vanilla JSA**, not optional or proxy-first. Buy the **Aragoto Senkenbutai two-bike box**, not omit the unit. **JSA Support Pack is completely proxy-only (CAD $0)**, including the two Tokusetsu human specialist bodies as well as the two S1 Yáozăo servants. Shindenbutai remains proxy-only, no new purchases. [Combined no-duplicates cart](../jsa-consolidated-buy-carts.md).
+**Updated 2026-10-31 — user's selected buying policy:** **Shinobu Kitsune and Karakuri are core physical purchases in both Ōban and Vanilla JSA**, not optional or proxy-first. Buy the **Aragoto Senkenbutai two-bike box**, not omit the unit. **JSA Support Pack is completely proxy-only (CAD $0)**, including the two Tokusetsu human specialist bodies as well as the two S1 Yáozăo servants. Shindenbutai remains proxy-only, no new purchases. [Combined no-duplicates cart](jsa-consolidated-buy-carts.md).
 
 Current [Ōban N5.3 roster](../../../sectorials/jsa/oban.md) has **35 entries**. Owned exact Ōban figures include Yuriko, Warcor, two total shared Yáoxiè chassis and Yojimbo mounted/foot variants (one character identity). Aragoto are **AVA4 in Ōban**; the selected two-model box supplies two bikes, **not AVA4**.
 

@@ -4,7 +4,7 @@
 
 ## Collection completion — core purchases and optional budget (CAD)
 
-**Updated 2026-10-31 — user's selected buying policy:** **Shinobu Kitsune and Karakuri are core physical purchases**, shared with Ōban. **Aragoto Senkenbutai two-bike box is a core buy**, not missing or automatically proxy-only. **Entire JSA Support Pack is proxied for CAD0**, including human Tokusetsu Doctor/Engineer and both Yáozăo servants; do not buy it. Shindenbutai remains proxy-only at CAD0. [Deduplicated full JSA cart](../jsa-consolidated-buy-carts.md).
+**Updated 2026-10-31 — user's selected buying policy:** **Shinobu Kitsune and Karakuri are core physical purchases**, shared with Ōban. **Aragoto Senkenbutai two-bike box is a core buy**, not missing or automatically proxy-only. **Entire JSA Support Pack is proxied for CAD0**, including human Tokusetsu Doctor/Engineer and both Yáozăo servants; do not buy it. Shindenbutai remains proxy-only at CAD0. [Deduplicated full JSA cart](jsa-consolidated-buy-carts.md).
 
 **Existing Shindenbutai inventory** already supplies Senku x3, Raiden, Jizamurai, Hatamoto, Nokizaru, Teishin, Kurayami, Shizoku, Shurayuki, Mechazoid, Kyojin x2, Yuriko, Warcor and **two total Yáoxiè REM chassis**. Do not duplicate the Sandtrap box. Current Vanilla JSA N5.3 **Tankō AVA2; Aragoto AVA2; Karakuri AVA2; Shinobu AVA1**, versus Ōban Aragoto AVA4/Karakuri AVA3.
 

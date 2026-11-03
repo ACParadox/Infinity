@@ -31,7 +31,7 @@
 
 **Proxy/skip:** Standard four **Oko/Peeler/Kyttä/Millicent Copperbots S3** can use appropriate pooled **PanO Dronbots**, **Fuzzbots baggage S4** from **Mulebots**, servants from already-owned **Yudbots S1**. **Šarko + Sekudroid**, RoadBot forms, Raptor+Devabot and Zeta/Firebat are specialized silhouettes, not one-size-fits-all human robots. Avoid buying Hector, Andromeda, Santiago, Yudbots again, and no second Saladin. Non-critical Casanova/Firebat/Tian Gǒu and extra Bronze/Betatrooper/knight sculpts can be proxied or deferred. **Hippolyta not Starmada legal** despite Booster Beta containing her. A single Santiago is already enough under Starmada AVA1.
 
-**Price/availability:** Saved Miniatures Market/Ultimate Toy Zone `U` USD prices are **historical**, converted at **USD1=CAD1.3985** (2026-10-29), no proof of current checkout or stock. `V` Canadian Tistaminis (Hamilton) or 401 Games (Toronto/Vaughan) catalogue price with possible availability changes. Tax, shipping, duties, brokerage and FX excluded. See [all-O-12 deduplicated shopping cart](../o-12-consolidated-buy-carts.md). Shopping is not current ownership.
+**Price/availability:** Saved Miniatures Market/Ultimate Toy Zone `U` USD prices are **historical**, converted at **USD1=CAD1.3985** (2026-10-29), no proof of current checkout or stock. `V` Canadian Tistaminis (Hamilton) or 401 Games (Toronto/Vaughan) catalogue price with possible availability changes. Tax, shipping, duties, brokerage and FX excluded. See [all-O-12 deduplicated shopping cart](o-12-consolidated-buy-carts.md). Shopping is not current ownership.
 
 ## Own versus buy: priorities
 

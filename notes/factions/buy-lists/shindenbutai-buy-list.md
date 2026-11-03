@@ -24,7 +24,7 @@
 
 **Proxy and no-buy:** Four generic Robio/Atom/Garon/Uran Aibōt REM roles from four pooled **PanO Dronbots**, Pangguling baggage from **Mulebot**, S1 Yáozăo from **Palbots/Yudbots**, all correct silhouette and distinct. Your 2 actual Yáoxiè are a **single shared pool**, not 2 of each. Rare Ninja/Saito may use **OSS Naga S2 SK** rather than same-roster Nokizaru/Kurayami. Ioann Bann S6 may use a free appropriately shaped **Caledonian Cameronian/McMurrough S6**. **Skip** duplicate Yojimbo/Kyojin/Yamabushi, extra Sandtrap and Shinden Beta, unused Aïda/Ruby Monday, second expensive Mechazoid, differently sized Triphammer/TurtleMek and rare limited-event sculpts.
 
-**Prices:** Archived USD miniatures.market / Ultimate Toy Zone quotes are **not verified live checkout offers**; convert at **USD1 = CAD1.3985** (2026-10-29), each product rounded. Tistaminis (Hamilton) and 401 Games (Toronto/Vaughan) CAD retail listings subject to stock. Tax, shipping, duties and FX spread excluded. Purchases are not recorded owned. [JSA combined cart](../jsa-consolidated-buy-carts.md).
+**Prices:** Archived USD miniatures.market / Ultimate Toy Zone quotes are **not verified live checkout offers**; convert at **USD1 = CAD1.3985** (2026-10-29), each product rounded. Tistaminis (Hamilton) and 401 Games (Toronto/Vaughan) CAD retail listings subject to stock. Tax, shipping, duties and FX spread excluded. Purchases are not recorded owned. [JSA combined cart](jsa-consolidated-buy-carts.md).
 
 ## Existing collection and buying strategy
 

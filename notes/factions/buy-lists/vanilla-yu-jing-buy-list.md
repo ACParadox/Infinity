@@ -6,7 +6,7 @@
 
 ## Collection completion — concrete core and optional cost (CAD)
 
-**Objective:** Cover the useful distinct vanilla unit identities with real models, rather than purchasing every rare character or every high-AVA unit. The **55-entry roster-by-roster audit below** determines which other identities are already owned, safely proxied, or skipped. This is a *standalone Vanilla shopping budget* from the recorded inventory; purchases listed in other Yu Jing sectorials are **not owned** until made. See also [deduplicated Yu Jing cart](../yu-jing-consolidated-buy-carts.md).
+**Objective:** Cover the useful distinct vanilla unit identities with real models, rather than purchasing every rare character or every high-AVA unit. The **55-entry roster-by-roster audit below** determines which other identities are already owned, safely proxied, or skipped. This is a *standalone Vanilla shopping budget* from the recorded inventory; purchases listed in other Yu Jing sectorials are **not owned** until made. See also [deduplicated Yu Jing cart](yu-jing-consolidated-buy-carts.md).
 
 | Buy once (core) | CAD | Exact coverage, source, and count |
 |---|---:|---|
@@ -31,7 +31,7 @@
 
 **Box/date collision:** The cheaper old White Banner-style Action Pack is **not** the modern 2025 Essentials Action Pack, and **not** an all-Vanilla ten-pack. If old USD27.75 is unavailable, the documented old Action Pack Canadian **CAD $82.95** fallback increases this Vanilla core by **$44.14 to $289.14** if that Canadian offer is actually orderable. N5.3 membership is pinned, but the vanilla reference remains partial for some exact loadout projections.
 
-**Pricing and scope:** USD 1 = CAD 1.3985 (2026-10-29 reference), with each converted package rounded to cents. **U** = saved Miniatures Market / Ultimate Toy Zone USD snapshot, **not confirmed live stock, currency at checkout or shipment origin**. **V** = Canadian retailer catalogue/web listing, not a guaranteed cart price. Estimates exclude GST/QST, shipping, card FX fees, duties and brokerage. Use [MM Yu Jing prices](../yu-jing-miniatures-market-prices-usd.md), [UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) and the [combined Yu Jing cart](../yu-jing-consolidated-buy-carts.md); more detailed source/proxy references remain below. No suggested purchase has been added to owned inventory.
+**Pricing and scope:** USD 1 = CAD 1.3985 (2026-10-29 reference), with each converted package rounded to cents. **U** = saved Miniatures Market / Ultimate Toy Zone USD snapshot, **not confirmed live stock, currency at checkout or shipment origin**. **V** = Canadian retailer catalogue/web listing, not a guaranteed cart price. Estimates exclude GST/QST, shipping, card FX fees, duties and brokerage. Use [MM Yu Jing prices](../yu-jing-miniatures-market-prices-usd.md), [UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) and the [combined Yu Jing cart](yu-jing-consolidated-buy-carts.md); more detailed source/proxy references remain below. No suggested purchase has been added to owned inventory.
 
 ## Source-file price reconciliation, cross-army reuse, and corrected shopping alternatives (2026-10-30)
 

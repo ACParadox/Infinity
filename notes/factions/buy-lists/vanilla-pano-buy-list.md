@@ -1,6 +1,6 @@
 # Vanilla PanOceania — miniature buy list (N5.3, inventory-aware)
 
-**Latest user shopping selection (2026-10-31):** [Active plan](../pano-ariadna-active-purchase-plan.md) selects **Swiss Guard via PanO Essentials Booster Alpha, Cutter S7, PanO Reinforcements Alpha (2 Bolts, 2 Blade-Ops, Blocker, Agnes), Helot Militia and Karhu**. **Current planned PanO budget CAD $172.34** excluding tax/shipping (historical quotes, not confirmed available); this supersedes older directions to defer Helots/Karhu or skip *acquiring* Blade-Ops/Blockers. Those two types are expressly desired **via their shared Alpha box**, not as separate extra boxes. The generic full-roster/core/optional numbers below are separate comparisons, not the selected cart. Planned purchases are **not yet owned**.
+**Latest user shopping selection (2026-10-31):** [Active plan](pano-ariadna-active-purchase-plan.md) selects **Swiss Guard via PanO Essentials Booster Alpha, Cutter S7, PanO Reinforcements Alpha (2 Bolts, 2 Blade-Ops, Blocker, Agnes), Helot Militia and Karhu**. **Current planned PanO budget CAD $172.34** excluding tax/shipping (historical quotes, not confirmed available); this supersedes older directions to defer Helots/Karhu or skip *acquiring* Blade-Ops/Blockers. Those two types are expressly desired **via their shared Alpha box**, not as separate extra boxes. The generic full-roster/core/optional numbers below are separate comparisons, not the selected cart. Planned purchases are **not yet owned**.
 
 
 **Prepared:** 2026-10-30. **Army authority:** [current 51-entry vanilla PanO roster](../../../sectorials/panoceania/panoceania.md), N5.3, Army 7.26246.158, verified 2026-10-15. **Buying rationale:** [vanilla tactics](../vanilla-pano.md) and [PanO must-have/go-to/avoid purchasing audit](../../../sectorials/panoceania/panoceania.md). **Physical ownership:** [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [other units](../../../inventory/other-units.md), all dated 2026-10-30. This is a **buy list, not an additional owned inventory**: none of the suggested purchases is counted as owned.
@@ -19,7 +19,7 @@
 | Optional Cutter TAG S7 | +$47.95 | 401 Games, Toronto/Vaughan ON (V); no good owned S7 PanO-looking TAG |
 | Optional Patsy Garnett, USD10.50 U | +$14.68 | Miniatures Market; stronger use in Varuna |
 
-**Core total CAD $95.02. All listed optional models add $83.61 (CAD $178.63 total).** These are independent Vanilla costs; the cross-sectorial [one-cart consolidation](../panoceania-consolidated-buy-carts.md) purchases the Karhu, Helots and Booster only once.
+**Core total CAD $95.02. All listed optional models add $83.61 (CAD $178.63 total).** These are independent Vanilla costs; the cross-sectorial [one-cart consolidation](panoceania-consolidated-buy-carts.md) purchases the Karhu, Helots and Booster only once.
 
 **Owned and reuse:** Kestrel Fennecs 6, Scarecrows 2, Fireflies 3, Griffin 2, Banshee 1, Redeye 1, Black A.I.R. 1, Hetkari 1, Blink 1, Drummer 1, Tikbalang 1, Squalos Mk-II 1, TAG Maximus 1, BCA Magistrate 1, Joan 1, Bipandra 1, Team Crux 1, MO Teutonic 1, Locust 1, and normal support/bots already cover their generic vanilla identities. Joan v1/v2 require **one**, not two, miniatures.
 

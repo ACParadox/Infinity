@@ -3,20 +3,20 @@
 **Current selected shopping cart (2026-10-31):** [Active PanO/Ariadna purchase plan](pano-ariadna-active-purchase-plan.md): **Ariadna CAD $99.42** for Mirage-5, Van Zant, Chernobog, **Beyond** Crimson Stone Ariadna three (Wallace + Scots Guard + Kosmosoldat), and **Chasseur**; **no Unknown Ranger**. With selected PanO CAD $172.34, combined CAD $271.76. The four-army completion cart below is a broader alternative, **not** the current selected order. No purchases marked owned.
 
 
-**Prepared October 30, 2026.** **Included:** [Vanilla Ariadna](buy-lists/vanilla-ariadna-buy-list.md), [Tartary Army Corps / TAK](buy-lists/tak-buy-list.md), [Caledonian Highlander Army](buy-lists/caledonia-buy-list.md) and [Kosmoflot](buy-lists/kosmoflot-buy-list.md). **Explicitly excluded:** Merovingian Rapid Response Force and USAriadna sectorial completion carts. A normal Ariadna troop such as Chasseur may still be **Vanilla-legal**, despite originally being associated with an excluded sectorial: use the [pinned N5.3 sectorial references](../../sectorials/ariadna) for actual legal memberships. All four full standard-roster purchase audits already exist in the individual files and remain the unit-by-unit authority.
+**Prepared October 30, 2026.** **Included:** [Vanilla Ariadna](vanilla-ariadna-buy-list.md), [Tartary Army Corps / TAK](tak-buy-list.md), [Caledonian Highlander Army](caledonia-buy-list.md) and [Kosmoflot](kosmoflot-buy-list.md). **Explicitly excluded:** Merovingian Rapid Response Force and USAriadna sectorial completion carts. A normal Ariadna troop such as Chasseur may still be **Vanilla-legal**, despite originally being associated with an excluded sectorial: use the [pinned N5.3 sectorial references](../../../sectorials/ariadna) for actual legal memberships. All four full standard-roster purchase audits already exist in the individual files and remain the unit-by-unit authority.
 
 **Buying policy:** Have one real sculpt for useful missing and hard-to-proxy unit identities, with sensible extra counts for units actually fielded together; do **not** buy to maximum AVA, duplicate owned units, collect low-use special characters, chase OOP and limited sculpts at high prices, or buy routine ordinary-looking REMs and baggage bots. Correct silhouette, class, peripherals and clearly identified different donor models still matter. Current collection already includes substantial TAK and Caledonia forces; **recommendations are not proof of additional inventory ownership**.
 
-**Prices and evidence:** Principal [Miniatures Market Ariadna archived USD prices](market-prices/ariadna-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archived USD prices](market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **user-captured historical catalogue quotes (U)**, not validated current stock, checkout country/currency or shipping origin. Convert at **USD 1 = CAD 1.3985** from 2026-10-29. **V** prices are dated Canadian retailer listing/stock observations: Montréal **Abyss**, Ontario **401 Games** / **Tistaminis** / **The Sword & Board** as specified. **All estimates are before Québec GST/QST, international postage, card FX spreads, customs/duties and brokerage**. Combining multi-seller historical offers into one budget does not mean one actual checkout basket is available.
+**Prices and evidence:** Principal [Miniatures Market Ariadna archived USD prices](../market-prices/ariadna-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archived USD prices](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **user-captured historical catalogue quotes (U)**, not validated current stock, checkout country/currency or shipping origin. Convert at **USD 1 = CAD 1.3985** from 2026-10-29. **V** prices are dated Canadian retailer listing/stock observations: Montréal **Abyss**, Ontario **401 Games** / **Tistaminis** / **The Sword & Board** as specified. **All estimates are before Québec GST/QST, international postage, card FX spreads, customs/duties and brokerage**. Combining multi-seller historical offers into one budget does not mean one actual checkout basket is available.
 
 ## Standalone budgets from the existing physical collection
 
 | Army / current roster | Core CAD | Separately priced optional addition CAD | Core + those options CAD | Unit-by-unit source |
 |---|---:|---:|---:|---|
-| Vanilla Ariadna (**51** standard logical entries) | **$33.55** | +$41.82 | **$75.37** | [Vanilla](buy-lists/vanilla-ariadna-buy-list.md) |
-| Tartary Army Corps (**30**) | **$0.00** | +$61.26 | **$61.26** | [TAK](buy-lists/tak-buy-list.md) |
-| Caledonian Highlander Army (**23**) | **$38.18** | +$27.11 | **$65.29** | [Caledonia](buy-lists/caledonia-buy-list.md) |
-| Kosmoflot (**36**) | **$117.86** | +$110.09 | **$227.95** | [Kosmoflot](buy-lists/kosmoflot-buy-list.md) |
+| Vanilla Ariadna (**51** standard logical entries) | **$33.55** | +$41.82 | **$75.37** | [Vanilla](vanilla-ariadna-buy-list.md) |
+| Tartary Army Corps (**30**) | **$0.00** | +$61.26 | **$61.26** | [TAK](tak-buy-list.md) |
+| Caledonian Highlander Army (**23**) | **$38.18** | +$27.11 | **$65.29** | [Caledonia](caledonia-buy-list.md) |
+| Kosmoflot (**36**) | **$117.86** | +$110.09 | **$227.95** | [Kosmoflot](kosmoflot-buy-list.md) |
 | **Sum of separate cores** | **$189.59** | — | — | **Double-counts Beyond Crimson Stone and Mirage-5** |
 
 - **TAK's $0 core is intentional:** it already has 32 dedicated troopers, two shared Traktor/Kuryer chassis and suitable known proxy pools, including two Dynamos, two Dog-Warriors, two Scouts, three Tankhunters, two Spetsnaz, three Line Kazaks and more. No old TAK Action Pack, duplicated Konduktors/Barsuk, or expensive rare hero is justified as a mandatory purchase.
@@ -27,7 +27,7 @@
 
 | Purchase, paid once | CAD | Store/source; coverage |
 |---|---:|---|
-| **Operation Crimson Stone Ariadna-only starter (7)** | **$44.47** | [Miniatures Market Ariadna](market-prices/ariadna-miniatures-market-prices-usd.md) **USD31.80 U**; Kosmoflot **3 Rokots, Para-Commando, SAS, Volkolak, Zenit-7**. One SAS already owned; the new figure can represent a second. Not the complete Nomads/Ariadna 2-player box |
+| **Operation Crimson Stone Ariadna-only starter (7)** | **$44.47** | [Miniatures Market Ariadna](../market-prices/ariadna-miniatures-market-prices-usd.md) **USD31.80 U**; Kosmoflot **3 Rokots, Para-Commando, SAS, Volkolak, Zenit-7**. One SAS already owned; the new figure can represent a second. Not the complete Nomads/Ariadna 2-player box |
 | **Beyond Operation Crimson Stone Ariadna-only trio (3)** | **$25.59** | Miniatures Market **USD18.30 U**; **William Wallace + 1 Scots Guard + 1 Kosmosoldat**. **Caledonia** gains Wallace and Scot; **Kosmoflot** gains all three. One physical box, not one for each sectorial |
 | **Patchers Structural Response Team (2)** | **$23.90** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-patchers-structural-response-team/) **USD17.09 U**; 2 properly armoured Kosmoflot HI models (HFT, Vulkan). No ordinary LI substitutes counted |
 | **Équipe Mirage-5** | **$23.90** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) **USD17.09 U**; Margot + Duroc, **two figures** for one combined unit identity, shared **Vanilla/Kosmoflot** |
@@ -79,7 +79,7 @@
 
 ## Sources and checkout hygiene
 
-1. [Saved Miniatures Market Ariadna prices (USD; U)](market-prices/ariadna-miniatures-market-prices-usd.md), [saved Ultimate Toy Zone prices (USD; U)](market-prices/ultimate-toy-zone-infinity-prices-usd.md)
-2. [Caledonia miniature inventory](../../inventory/caledonia.md), [TAK miniature inventory](../../inventory/tak.md)
+1. [Saved Miniatures Market Ariadna prices (USD; U)](../market-prices/ariadna-miniatures-market-prices-usd.md), [saved Ultimate Toy Zone prices (USD; U)](../market-prices/ultimate-toy-zone-infinity-prices-usd.md)
+2. [Caledonia miniature inventory](../../../inventory/caledonia.md), [TAK miniature inventory](../../../inventory/tak.md)
 3. [Human Sphere starters and package contents](https://human-sphere.com/Starter_Boxes)
 4. [401 Games](https://store.401games.ca/), [Abyss, Montréal](https://abyssgamestore.ca/collections/infinity-ariadna-1), [Tistaminis](https://tistaminis.com/collections/ariadna), [The Sword & Board](https://www.theswordandboardtoronto.com/) — compare actual checkout, box generation and stock before purchase
