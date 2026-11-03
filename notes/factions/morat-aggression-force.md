@@ -7,8 +7,17 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 **N5.3 authority:** the pinned [Morat Aggression Forces roster, loadouts and canonical Fireteams](../../sectorials/combined-army/morat-aggression-forces.md) (Army **7.26246.158**, updated September 2026) and [rules index](../../rules/README.md) override any older source quotation. This guide preserves the uploaded podcast/video analysis and disagreements; its statements that transcripts were checked refer to the **source research**, not new retrieval during this merge.
 
 **Two roster clarifications:**
-- **Bultrak is a TAG**, not an unverified Vehicle/other troop type, in the pinned Morat roster. The **Raicho, Bultrak and Sogarat** form the required-choice set for the **Armored Duo** family; none is automatically a legal partner in every other sectorial.
-- **Hungries Core/Haris** requires **Oznat FTO** (one or two). The current chart permits **Gakis and Pretas** as separate allowed rows with no same-species-only restriction; the guide's suggested "two same-type" package is **one economical choice, not a binding composition rule**. Gakis and Pretas remain Irregular outside qualifying Fireteam Master interaction.
+- **Armored Duo requirements:**
+  - **Raicho:** TAG chassis choice.
+  - **Bultrak:** TAG, **not** a Vehicle (VH).
+  - **Sogarat:** heavy infantry alternative within the required-choice set.
+  Check actual Armored Duo legality rather than treating any pair as universal partners.
+- **Hungries Core/Haris:**
+  - **Oznat FTO:** required anchor (one or two).
+  - **Gaki:** eligible Hungry.
+  - **Preta:** also eligible; the chart does not require same-species-only members.
+  - **Fireteam Master:** applies Regular Order conversion only when the qualifying linked interaction exists; otherwise Hungries stay Irregular.
+  Two same-type bodies remain one economical *choice*, not a legality requirement.
 
 **Related studies:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Order economy](../list-building/cheerleaders-and-order-generators.md), and [command resilience](../Strategy/lieutenant-and-command-structure.md).
 

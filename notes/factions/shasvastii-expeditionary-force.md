@@ -8,8 +8,19 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Profile/Fireteam reconciliation:**
 - **Gwailo is always Albedo/Nanoscreen**, but **only the 39-point Heavy Rocket Launcher option is MSV2**; the 44-point HMG **does not list MSV2**. Both may anchor a Shasvastii Shock Duo/Haris with appropriate team members.
-- **Shasvastii Shock** requires an eligible **Jayth FTO or Gwailo**; **Victor Messer** is a Wildcard **in this family only**. **M-Drone FTO is currently listed in Shock** (max 2): descriptions calling it purely historical/seasonal must be cross-checked against the pinned present chart. **Nox Core/Haris** requires a Nox; its **T-Drone FTO** is profile-gated.
-- **Sphinx is AVA 2 in Shasvastii** (versus different parent/sectorial availability), and **Q-Drone AVA 2**; do not import these counts into Vanilla/Onyx. Shasvastii's current roster contains no distinct standard **VH-classified** chassis.
+- **Shasvastii Shock Fireteam:**
+  - **Jayth FTO or Gwailo:** required qualifying anchor.
+  - **Victor Messer:** Wildcard in this family only.
+  - **M-Drone FTO:** current Shock access (max 2), not merely a historical permission.
+- **Nox Core/Haris:**
+  - **Nox:** required native member.
+  - **T-Drone FTO:** separate, profile-gated access.
+  Use the pinned chart rather than older Fireteam assumptions.
+- **Sectorial-specific availability:**
+  - **Sphinx:** AVA2 in Shasvastii.
+  - **Q-Drone:** AVA2 in Shasvastii.
+  - **Vehicle (VH):** no separate standard VH chassis in the current cited Shasvastii roster.
+  Do not import these availability values into Vanilla or Onyx.
 
 **Related:** [Hidden/reactive architecture](../Strategy/defensive-architecture-and-reactive-turn.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), and [Onyx contrast](onyx-contact-force.md).
 

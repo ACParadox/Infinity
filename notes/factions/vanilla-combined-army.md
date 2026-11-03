@@ -180,8 +180,8 @@ There is no separate standard Vehicle (VH) category or Skyhound. Other Combined 
 - **Nox Guided sniper:** a separate unit/profile, not T-Drone.
 Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Oblivion or ordinary shooting offer better returns. [Indirect-fire decisions](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
-**A. “Minus-12” shooting and robust mission play**  
-**Minus-12 shooting roles:**
+**A. “Minus-12” shooting and robust mission play**
+
 - **Sheskiin:** active midrange gun.
 - **Vector Plasma Sniper + Unidron/Nexus CoC:** MSV and Fireteam support.
 - **Dāturazi:** Smoke.
@@ -190,8 +190,8 @@ Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Obli
 
 **Why:** split shooting ranges, impose bad opposing modifiers and keep a mission branch. Robert April 2026 concept, **not** a point-validated list.
 
-**B. “Affordable elite” with Guided backup**  
-**Affordable elite + incidental Guided:**
+**B. “Affordable elite” with Guided backup**
+
 - **Nexus LT:** budget command.
 - **Vector/Unidron:** firing support.
 - **Achilles or another elite:** alternate assault.
@@ -201,8 +201,8 @@ Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Obli
 
 **Why:** multiple distinct routes, provided enough specialists and Orders remain.
 
-**C. “Classic Aspect”**  
-**Classic Aspect structure:**
+**C. “Classic Aspect”**
+
 - **Charontid or Anathematic LT:** main command.
 - **Overdron HRMC:** long-range attack.
 - **Bit & KISS:** repeaters/hacking.
@@ -212,8 +212,8 @@ Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Obli
 
 **Why:** layered fire, hacking and recoverable REMs. **Counter:** opponents clear cheap Orders/hackers and avoid the guns.
 
-**D. “Stealth assassin”**  
-**Stealth-assassin structure:**
+**D. “Stealth assassin”**
+
 - **Sphinx:** hidden TAG attack.
 - **Dāturazi:** Smoke.
 - **Speculo/Noctifer:** concealed/Impersonating disruption.
@@ -222,8 +222,8 @@ Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Obli
 
 **Why:** trade from hidden angles and score late. **Counter:** thinner Orders and limited anti-armor, especially under N5 changes.
 
-**E. “Caskuda / Cascuda drop” (deliberately high variance)**  
-**Caskuda insertion structure:**
+**E. “Caskuda / Cascuda drop” (deliberately high variance)**
+
 - **Caskuda:** airborne TAG.
 - **Overdron or equivalent gun:** remove facing AROs.
 - **Bit & KISS:** KHD for landing-route security.

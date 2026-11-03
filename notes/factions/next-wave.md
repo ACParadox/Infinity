@@ -6,7 +6,13 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 **Rules and roster authority:** [Next Wave N5.3 roster, profile choices and Fireteam chart](../../sectorials/combined-army/next-wave.md) (Army **7.26246.158**, September 2026), plus [rules index](../../rules/README.md). Transcript-checked status and disagreements below come from the **uploaded research**; they were **not re-fetched** in this repository merge. Shared remotes and TAGs must independently appear on the Next Wave roster.
 
-**Critical profile distinction:** **Patroclus has Smoke Grenades only on the unlinked Holoprojector Heavy Rocket Launcher profile (35/1).** His **FTO profiles, which can join Team Achilles/Shadow teams and provide Fireteam Master or CoC/MediKit, do not list Smoke Grenades in the pinned roster**. A linked Patroclus is **not** a reliable Smoke source; if Smoke is essential, plan a separately activated legal Smoke model and its Orders, or build around another visibility answer. **Skyhound is VH** and **Juggernaut TAG**, not interchangeable; see [Vehicle guide](../list-building/vehicles-vh.md) and [TAG guide](../list-building/tags.md).
+**Critical profile and classification distinctions:**
+- **Patroclus unlinked Holoprojector HRL 35/1:** has Smoke Grenades.
+- **Patroclus FTO:** can link with the relevant teams but has **no Smoke**; select separate enabling Orders if Smoke is essential.
+- **Skyhound:** Vehicle (VH), not TAG.
+- **Juggernaut:** TAG, not Vehicle.
+
+See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags.md).
 
 ## The one-paragraph answer
 
@@ -186,7 +192,13 @@ Shared REMs do not give Next Wave the other sectorials' TAGs or Fireteams.
 
 **Shared TAG/REM comparative sources (covered in the [Onyx guide](onyx-contact-force.md)):** [WIP12 E176 — Vanilla Combined](https://open.spotify.com/episode/388YGagwnLHZTvS0dSYnEI) (2025) and [Irregular Order #56 — Onyx review](https://open.spotify.com/episode/7b2QJ494pgPp6NY6WQ9QWF) (Oct 2026). These guide **shared Q/M/E/R/T drone and Ikadron logic**, not Next Wave-only TAG/VH list options.
 
-**Fireteam and order accounting reminders:** Team Achilles has an **Achilles mandatory anchor** and **no Wildcards**; Research requires **Pandora**; Harbingers requires a **Harbinger**; Dragon requires **Drakios FTO**; Heavies Duo requires **Juggernaut or Ironside** as source foundation. All Tekdraken order conversion claims depend on a legal qualifying Fireteam Master in the team and current N5.3 Order/Fireteam rules; do not count any unlinked Irregular Blackheart/Steeljaw as Regular merely from roster inclusion.
+**Fireteam anchors and order conversion:**
+- **Team Achilles:** mandatory Achilles, no Wildcards.
+- **Research:** requires Pandora.
+- **Harbingers:** requires a native Harbinger.
+- **Dragon:** requires Drakios FTO.
+- **Heavies Duo:** Juggernaut or Ironside foundation.
+- **Tekdraken Blackheart/Steeljaw:** remain Irregular outside an eligible Fireteam Master interaction. Current N5.3 rules control any conversion; merely being rostered is insufficient.
 
 ## Edition warnings and exact authority
 

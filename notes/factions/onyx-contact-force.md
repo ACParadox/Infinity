@@ -130,7 +130,12 @@ Can field several Xeodrons, perhaps Overdron plus support. Threatens opponents w
 
 ### TAG hierarchy by job (not absolute ranking)
 
-**Current cost floor:** don't overlook **Overdron Heavy Rocket Launcher (+1B) at 51 points/1.5 SWC**, a lower-entry-cost Albedo/TacAware ranged-platform alternative to the 59-point Plasma Sniper and 62-point HRMC; the cheaper gun changes long-lane pressure and coverage, so it is not a straight substitute.
+**Overdron weapon cost comparison:**
+- **HRL(+1B), 51/1.5:** lower-cost Albedo/TacAware platform.
+- **Plasma Sniper, 59/1.5:** specialized save/range pressure.
+- **HRMC, 62/1.5:** broader Burst-based lane clearance.
+
+The cheaper Heavy Rocket Launcher changes coverage and long-lane roles; it is not a direct replacement for either other gun.
 
 | Platform | Best target / table condition | Avoid / prepare |
 | --- | --- | --- |
@@ -140,7 +145,13 @@ Can field several Xeodrons, perhaps Overdron plus support. Threatens opponents w
 | **Sphinx** | Terrain-rich flanks and weak order generators unreachable to visible platforms; hidden deployment makes opponent guard unexpected spaces | No compelling AP solution, expensive opportunity cost, repeater zones, Sensor/high-access opponents. |
 | **Cascuda** | Enemy DZ/rear corner with exploitable landing and attack path after ARO/hacker clearance | Cannot count on landing for free; risky insertion and cost of EVO/Bit/Overdron support. |
 
-**Vehicle terminology:** Xeodron, Overdron, **Caskuda** (sometimes spelled “Cascuda” in media), and Sphinx are discussed as **TAGs**, not generic Vehicle (VH) profiles. Research did **not** establish a separate Onyx-only Vehicle profile. Do not treat a large mini or Remote Presence as the Vehicle troop type. Verify any VH/vehicle additions in the current Army catalogue.
+**TAG classification — do not infer a Vehicle (VH) profile:**
+- **Xeodron:** TAG.
+- **Overdron:** TAG.
+- **Caskuda:** TAG (sometimes “Cascuda” in transcripts).
+- **Sphinx:** TAG.
+
+No separate Onyx-only Vehicle was established by the checked research. Neither the miniature's size nor Remote Presence makes it a VH; verify any newly introduced Vehicle against current Army.
 
 ### Drone / support choices
 
