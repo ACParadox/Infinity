@@ -54,7 +54,7 @@ _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates
     - **Dāturazi — 14/0**
     - **Jaguar — 10/0**
     - **Varangian — 10–12/0**
-- **Best ~20pt mobile normal-Smoke carrier with another job:** **Yojimbo bike20/0 / foot19/0** (mutually exclusive) adds **CrazyKoala Minelayer, NWI and CC24/MA4/DA**. Excellent when the smoke carrier also screens an approach; **Irregular+Impetuous**, and Smoke remains vulnerable to MSV.
+- **Best ~20pt mobile normal-Smoke carrier with another job:** **Yojimbo bike20/0 / foot19/0** (mutually exclusive) adds **CrazyKoala Minelayer, NWI and CC24/MA4/DA**. Excellent when the smoke carrier also screens an approach; **Irregular+Impetuous**, and Smoke remains vulnerable to MSV. The **Ōban** motorized bike additionally has Smoke GL; **Shindenbutai's** bike does not.
 - **Best cheap White Noise providers:**
   - **Interventor HD+ (Tunguska) — 18–23/.5**
   - **Uhahu HD+ (Bakunin) — 19/.5**
@@ -102,7 +102,7 @@ _**S** exceptional ceiling in an appropriate legal roster, **A** very strong, **
 | **A** | **Shifta CoC/Disco 21/0; Lobo Disco 20–24/0** — Corregidor | Combine Eclipse-style route creation with command insurance or a linked melee/shotgun attack body | **Best:** Correctional melee push; **vs:** Surface/Deepspace link access restrictions and competition with Jazz/Moran orders |
 | **A** | **Uhahu HD+ 19/.5 / Interventor HD+ 18–23/.5 / Jazz 22–25/.5** | Cheap White Noise plus full hacking utility | **Best:** relevant MSV/Marksmanship threat and accessible Hacking Area; **vs:** network absent, non-MSV opposition |
 | **A** | **Myrmidon Smoke 16/0 + Marut MSV2** — Vanilla ALEPH | Huge asymmetric ranged ceiling while cheap smoke runner retains melee screen utility | **Best:** enemy strong conventional ARO, Marut safe to attack; **vs:** support Orders, enemy Smoke/White Noise counter, Marut's enormous point risk |
-| **A** | **Yojimbo Smoke + Rui Shi MSV2 / Jaguar Smoke + Intruder MSV2** — JSA / Corregidor | Affordable Smoke creates a one-sided gunfight for a strong specialist gun | **Best:** enemy lacks a suitable response; **vs:** delivery timing and non-MSV line alternatives |
+| **A** | **Yojimbo Smoke + Rui Shi MSV2 / Jaguar Smoke + Intruder MSV2** — Shindenbutai/Ōban / Corregidor | Affordable Smoke creates a one-sided gunfight for a strong specialist gun | **Best:** enemy lacks a suitable response; **vs:** delivery timing and non-MSV line alternatives |
 | **B+** | **Tanuki HD + Disco 20/.5 / Kulak KHD + Disco 20/0** — Shinden/Tunguska | Good role compression: hacker + deployable Eclipse lane control | **Best:** mission needs hacking and vision tools on one slot; **vs:** KHD Kulak **does not gain White Noise** merely by being a Hacker |
 | **B+** | **Garon Smoke GL 16/0** — JSA | Cheap Regular smoke gun with alternative TR presence in JSA lists | **Best:** when few other affordable Smoke sources exist; **vs:** throwing Smoke rather than using own ARO may consume precious Orders |
 | **B** | **Kinnara Parachutist Eclipse 24/0 / Rasyat Eclipse attacker** — OSS / Combined | Threat appears on a flank and can blind an approach without needing native Smoke across the whole faction | **Best:** backline/side entry against predictable ARO; **vs:** arrival/setup cost, scattering support and no substitute for whole-army smoke access |
@@ -123,7 +123,7 @@ _**S** exceptional ceiling in an appropriate legal roster, **A** very strong, **
 | **A+** | **Shifta CoC/Disco 21/0; Lobo Disco 20–24/0; Tanuki HD/Disco 20/.5; Kulak KHD/Disco 20/0** | Dual/triple-duty profiles, not a premium standalone smoke tax | Link and device differences are material; no universal Fireteam import |
 | **A+** | **Kaauri 14/.5 Mirrorball (Tohaa)** | Small cheap repeatable Eclipse source | Vulnerable to close approach, may compete with 11pt E/M mine version |
 | **A** | **Vargar FO 24/0; Quinn FO 26/0; Konstantinos FTO Disco + Deactivator 23/0** | Projected Eclipse without sacrificing mission or link roles; Konstantinos may reactivate | Worth the premium only if mobility/FT/wildcard/command value actually pays |
-| **A** | **Yojimbo motorized20/0 / foot19/0** — Shindenbutai/Ōban/JSA where legal | PH14 **normal Smoke**, with CrazyKoala Minelayer, NWI and elite melee threat so the enabler can perform other jobs | **Irregular+Impetuous**, bike S4 needs clear lanes; not Eclipse or a Regular pool Order. Count the Rui Shi MSV2 gun's **separate** cost in a Smoke-shooting package |
+| **A** | **Yojimbo motorized20/0 / foot19/0** — Shindenbutai/Ōban | PH14 **normal Smoke**, with CrazyKoala Minelayer, NWI and elite melee threat so the enabler can perform other jobs | **Irregular+Impetuous**, bike S4 needs clear lanes; not Eclipse or a Regular pool Order. Count the Rui Shi MSV2 gun's **separate** cost in a Smoke-shooting package |
 | **A** | **Myrmidon Officer CoC Eclipse 30–31/.5; Shikami 42/0** | Exceptional **apex**, but much of price buys insurance/scoring/assault, not just smoke | Choose lower-cost Smoke/Makaul in eligible rosters for simple crossings |
 | **B** | **Taqeul 35–36/0; premium Disco gunfighter; Asura HD+ 63/.5** | Capable multi-role pieces, but large proportion of budget if purchased solely for LoF control | Buy when other command/attack objectives justify price, not solely for one template |
 
