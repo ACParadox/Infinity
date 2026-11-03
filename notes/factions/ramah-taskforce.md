@@ -55,6 +55,24 @@ Current chart: **one Core, one Haris, unlimited Duos**, with required-choice lim
 - **Economy risk:** stacking **Tarik, Namurr, Mukhtar and a TAG** can hollow out the Shihab/Fanous AROs, Monstrucker repair, and late mission budget.
 
 
+## Battle-report-derived army lists and Fireteam tests (N5; N5.3 adaptation)
+
+Battle reports [#061](../battle-reports/061-070-n5-battle-report-tactical-analysis.md), [#073](../battle-reports/071-080-n5-battle-report-tactical-analysis.md), [#216](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) and [#227](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) show the trade-off between **linked Ramah attack efficiency and having enough independent objective specialists**. These are evidence-backed construction modules, **not validated 300-point/SWC Army exports**; legality follows the [current Ramah chart](../../sectorials/haqqislam/ramah-taskforce.md#fireteams).
+
+### Played combinations worth testing
+
+- **Four-model Ramah Core — Zhayedan HMG + Ghulam FO + Ghulam Doctor + Rahman Rouhani.** [#073 Outbreak](../battle-reports/071-080-n5-battle-report-tactical-analysis.md) explicitly names all four and reports the four-member linked bonus. The FO and two medical troops allow the shooter to be an **attack/ARO anchor without monopolizing specialist access**. The independent Tuareg Doctor used for the mission was **not a fifth link member**.
+- **Three-model Khawarij Haris — Tarik Mansuri + Khawarij Mk12/MSV2 NCO + Khawarij Paramedic/Doctor.** Explicit deployment and activation in both [#073](../battle-reports/071-080-n5-battle-report-tactical-analysis.md) and [#061](../battle-reports/061-070-n5-battle-report-tactical-analysis.md). Tarik's present-day **counts-as Khawarij** and NCO make this a mobile Lieutenant-Order outlet. #073 fielded the **Haris alongside the four-person Ghulam/Zhayedan Core**, not as one large team.
+- **Maghariba Guard + Leila Sharif — Armored Assault Duo, #061 historical.** The linked TAG/Leila movement and TAG Tactical Awareness Order are narrated in [#061](../battle-reports/061-070-n5-battle-report-tactical-analysis.md), with **Nahab Red Fury, two Naffatûn and Kameel EVO** supporting separately. The opening originally calls it Vanilla Haqqislam, but the player's closing showcase explicitly calls it **Ramah Taskforce**: record this provenance discrepancy pending historical Army export. Present chart: **Maghariba is an eligible Armored Assault anchor and Leila is Wildcard**; do not treat a TAG Pilot as a third Fireteam member.
+
+### Failed architectures and mission safeguards
+
+- **Tarik + four Khawarij Core — high ceiling, narrow scoring footprint.** [#227 NCA Evacuation](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) reconstructs a five-person opening Core, later reduced/re-formed to four, with **two Namurr and a Nahab** outside an approximately **eight-trooper list**. Despite Tactical Awareness/NCO, Ramah lost **7–1** because early exposure consumed scarce models and the list lacked enough surviving **CivEvac carriers and task Orders**. Prefer a smaller attacking Haris and *independent* medical/scoring coverage when the mission spreads objectives.
+- **Tarik + Janissaries + Leila + Nahab without a confirmed Fireteam.** [#216 Mindwipe](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) does **not** declare Ramah's exact link count; don't certify an elite Haris from nearby miniatures. Starmada's Shona/Varangian pressure led to a **10–1** result when the forward rush failed. A second hacker/anti-materiel route and less exposed deployment are more important than assuming a Fireteam bonus.
+- **Outbreak gunfight versus mission outcome.** [#073](../battle-reports/071-080-n5-battle-report-tactical-analysis.md) saw Ramah's linked HMG down an important attacker, but ALEPH won **8–5** through scans, stabilizations and CivVac. Reserve **more than one independent eligible medical/scoring body** and enough Orders for the actual task.
+
+**Preferred trial blueprint:** **four-model Ghulam/Zhayedan/Rouhani Core + Tarik/Khawarij Haris + a separate Tuareg/Namurr-style mission runner**, trimming links to fit real points/SWC and the mission. The #061 TAG Duo is an **alternative architecture**, not a claim that the same played list also included #073's Core and Haris.
+
 ## N5.3 tactical assessments transferred from the sectorial reference
 
 The dated assessments below were moved from the [Ramah Taskforce N5.3 reference](../../sectorials/haqqislam/ramah-taskforce.md). For legal profiles, exact costs, AVA, Fireteams, and provenance, that reference remains authoritative. Mentions of roster tables or Fireteams “above” mean the linked reference, not this analysis note.
