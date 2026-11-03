@@ -34,13 +34,30 @@ _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured wi
 
 - **Best Turn-0 apex/value:** **Corregidor Moran Repeater+CrazyKoala Minelayer BSG 15/.5**. Infiltration + native Repeater + FO + perimeter disruption + Regular Order provide **free forward hacking coverage at deployment**. **AVA2 Corregidor, AVA1 vanilla Nomads**; its one-use Camo profiles **do not also have Repeater**. One Moran is worth buying even without committing to Guided.
 - **Best direct Pitcher reliability / ceiling:** **Yu Jing Fēiquán 28/0** E/M Carbine(+1B), Pitcher, **BS13 + BS Attack(+1SD)**, MOV20-5/Aerial/Super-Jump/Sensor: high-reliability ranged projector and nonlethal anti-heavy escort. **No Cover, S7, Hackable** make exposure/return-fire critical. An equally compelling *supported* ceiling is a **Tunguska Hollow Man Pitcher 26/0 in a legal Fireteam** (or **Tsyklon 26–29/1 with X-Visor, 360º and legal Fireteam support**); specific source roster bonuses matter.
-- **Best immediate infiltrated remote node:** **Bakunin Initiated Observant 18/0** (one-use Camo, Infiltration, **Deployable Repeater + Minelayer**). Deploy a separate node without spending an Active-Turn Order; **Zero 20/0** carries a repeater but **has no Minelayer** on that profile. **White Banner Guìláng 25/.5 Minelayer + Deployable Repeater** is an alternative for Yu Jing.
+- **Best immediate infiltrated remote node:**
+  - **Bakunin Initiated Observant 18/0** (one-use Camo, Infiltration, **Deployable Repeater + Minelayer**). Deploy a separate node without spending an Active-Turn Order
+  - **Zero 20/0** carries a repeater but **has no Minelayer** on that profile.
+  - **White Banner Guìláng 25/.5 Minelayer + Deployable Repeater** is an alternative for Yu Jing.
 - **Best cheap reactive/scoring net foundation:** **Flashbot with native Repeater 7/0** (Transductor/Fugazi/Chaīyì/Fanous/R-Drone depending on faction), **Baggage native-Repeater REM 8/0**, or **sensor/FO native-Repeater REM 13–15/0** (Rafiq/Wèibīng/M-Drone/Stempler/Pathfinder). These add Regular Orders, move to threaten a route, and often have a second job—but start primarily behind the midfield and are **easy to lose as “kamikaze” pieces**.
-- **Best low-budget ranged Pitchers:** **Hassassin Barid FO+Pitcher 12/0**; **KHD+Pitcher 14/0**; **Bakunin Moderator Pitcher 10/0**, best *within a lawful fireteam* to improve low BS10; **Corregidor Valerya Gromoz Pitcher/HD 19/.5**, **Bakunin Uhahu HD+Pitcher 19/.5**. You do not need a 40pt hacker to fire the first repeater.
-- **Best offensive hybrid per cost:** **White Banner Dokkaebi KHD+Spotlight+Pitcher 22/0**, **Invincible Army Hǎidào KHD+Pitcher 22/0**, **OSS/ALEPH Danavas HD++Pitcher 22/.5**, **Corregidor Jazz FTO HD+/Trinity+Pitcher 22/.5** (or **Jazz+Billie 25/.5** including **two Regular Orders**, Billie native Repeater). **Counter:** some have only BS11, no +SD, and cost Orders/ammo to extend beyond 16″.
+- **Best low-budget ranged Pitchers:**
+  - **Hassassin Barid FO+Pitcher 12/0**
+  - **KHD+Pitcher 14/0**
+  - **Bakunin Moderator Pitcher 10/0**, best *within a lawful fireteam* to improve low BS10
+  - **Corregidor Valerya Gromoz Pitcher/HD 19/.5**, **Bakunin Uhahu HD+Pitcher 19/.5**. You do not need a 40pt hacker to fire the first repeater.
+- **Best offensive hybrid per cost:**
+  - **White Banner Dokkaebi KHD+Spotlight+Pitcher 22/0**
+  - **Invincible Army Hǎidào KHD+Pitcher 22/0**
+  - **OSS/ALEPH Danavas HD++Pitcher 22/.5**
+  - **Corregidor Jazz FTO HD+/Trinity+Pitcher 22/.5** (or **Jazz+Billie 25/.5** including **two Regular Orders**, Billie native Repeater).
+  - **Counter:** some have only BS11, no +SD, and cost Orders/ammo to extend beyond 16″.
 - **Best “kamikaze” AD Repeater:** **Meteor Zond 19/0** native Repeater + Combat Jump/Parachutist, Sensor, FO, mobility. **Jīnyào 18/0** Combat Jump/Parachutist + *Deployable* Repeater, Adhesive/Riotstopper (Imperial Service) is a close rival for an *on-demand placement*. Both require legal insertion/roll and Orders; Meteor native coverage appears on arrival, while Jīnyào must spend to **place** its repeater.
-- **Best land-delivered cheap rush node:** **Pilot-X + RacerBots Mk-III** in OSS/ALEPH: **Pilot-X 23/.5 plus each RacerBot 8/0**, up to two; each RacerBot is **MOV20-10 with Deployable Repeater**, Mine Dispenser, 360º, Riotstopper. **Do not rank an 8pt RacerBot as independently purchasable**; the actual commitment is 23+8 (31/.5) for one, or 23+16 (39/.5) for two, plus a Pilot-X team and shared group limitation. [TA OSS transcript](https://www.youtube.com/watch?v=Jh4jVsFoHN4) contains genuine opposing views: a Danavas Pitcher may be redundant once cheap mobile bots are bought.
-- **Best TinBot (Repeater) *team carrier*:** **Optimate Agent Maximus FTO 45/1** (PanO/Kestrel/NCA/OSS/ALEPH where **current roster and chart** actually allow); costly as pure network equipment, but supplies **Repeater benefits to members of his legal Fireteam** plus a real combat platform. Do not conflate this with **TinBot Firewall(-3/-6)**: those **protect** members from Comms attacks; they do **not** create Repeater coverage.
+- **Best land-delivered cheap rush node:**
+  - **Pilot-X + RacerBots Mk-III** in OSS/ALEPH: **Pilot-X 23/.5 plus each RacerBot 8/0**, up to two
+  - each RacerBot is **MOV20-10 with Deployable Repeater**, Mine Dispenser, 360º, Riotstopper.
+  - **Do not rank an 8pt RacerBot as independently purchasable**; the actual commitment is 23+8 (31/.5) for one, or 23+16 (39/.5) for two, plus a Pilot-X team and shared group limitation. [TA OSS transcript](https://www.youtube.com/watch?v=Jh4jVsFoHN4) contains genuine opposing views: a Danavas Pitcher may be redundant once cheap mobile bots are bought.
+- **Best TinBot (Repeater) *team carrier*:**
+  - **Optimate Agent Maximus FTO 45/1** (PanO/Kestrel/NCA/OSS/ALEPH where **current roster and chart** actually allow)
+  - costly as pure network equipment, but supplies **Repeater benefits to members of his legal Fireteam** plus a real combat platform. Do not conflate this with **TinBot Firewall(-3/-6)**: those **protect** members from Comms attacks; they do **not** create Repeater coverage.
 
 ## Rules: do not confuse these 6 delivery modes
 

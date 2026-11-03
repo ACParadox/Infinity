@@ -26,8 +26,16 @@ _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, pro
 - **Best hidden/infiltrating opener:** **Dasyu FO 29/0 (ALEPH), Malignos FO 30/0 (Shas/Combined), Ninja KHD 26/0 (JSA)**. Hidden Deployment, Infiltration and Mimetism(-6) bypass early attack lanes and keep the option to push a distant button later. **A carrier generally cannot reenter Marker State while holding the mission object**; risk increases after pickup.
 - **Best apex all-round combat hacker scorer:** **Asura HD+ 63/0.5 (ALEPH/OSS)** — WIP15, ARM5/NWI, MSV3, hacking/vision control and ranged presence. Outstanding **when those combat/cyber tools solve the same objective path**; otherwise two 20–30pt scorers are safer.
 - **Best apex medical/technical scorer:** **Parvati Doctor+Engineer 36/0 (ALEPH)** for durable, mobile recovery and two specialist categories. **Best value two-role support:** **Sophotect 25/0 (ALEPH), Med-Tech Obsidon 21/0 (Combined)**. **Posthuman Mk.1 Engineer/Doctor 13/0** is exceptional *inside legal G:Jumper package*; not an independent 13pt troop plus free extra Order.
-- **Best budget button infrastructure:** **Ghulam FO 12/0 (Haqq)**; **Pathfinder 14/0, TA 17/0 (PanO)**; **Daleth/M-Drone 15/0, TA 18/0 (ALEPH/Combined)**; **Barid FO 12/0/KHD 14/0 (Vanilla Haqq)**. These free points and slots while adding Sensor/Repeater/network or FO Classified tasks.
-- **Best midfield CoC scorer:** **Farzan CoC 24/0** for infiltration and LT insurance; **Caliban CoC 29/0** for Camo/FD+20/CC threat; **Nexus CoC 23/0** for legal link/NCO/succession; **Kempeitai CoC 17/0** for lowest-cost JSA insurance.
+- **Best budget button infrastructure:**
+  - **Ghulam FO 12/0 (Haqq)**
+  - **Pathfinder 14/0, TA 17/0 (PanO)**
+  - **Daleth/M-Drone 15/0, TA 18/0 (ALEPH/Combined)**
+  - **Barid FO 12/0/KHD 14/0 (Vanilla Haqq)**. These free points and slots while adding Sensor/Repeater/network or FO Classified tasks.
+- **Best midfield CoC scorer:**
+  - **Farzan CoC 24/0** for infiltration and LT insurance
+  - **Caliban CoC 29/0** for Camo/FD+20/CC threat
+  - **Nexus CoC 23/0** for legal link/NCO/succession
+  - **Kempeitai CoC 17/0** for lowest-cost JSA insurance.
 - **Best specialist LT value:** **Magistrate Strategos LT 19/0 (Kestrel/Vanilla PanO)** — Specialist Operative/Counterintelligence + an Order converted into a Regular in LT group. **Best fighting specialist LT:** **Hatamoto LT 36–39/+1 SWC (JSA)** — mobility/combat + Specialist Operative with personal LT(+1) Orders; expensive to lose.
 
 **Scoring rubric:** **Apex** = maximum realistic ability to **get there, legally activate, survive, keep scoring and do a second job**. **Points value** = *mission work per incremental points/SWC/Orders* versus the faction's available Regular alternative. **S** exceptional when conditions match, **A** strong, **B** situational, **C** not normally preferred. A list often needs a **midfield opener, mobile worker and protected turn-3 closer**, not three versions of its strongest attacker. WIP alone doesn't fix transit Orders or exposure.

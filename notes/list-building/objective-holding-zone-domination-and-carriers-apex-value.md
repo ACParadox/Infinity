@@ -11,14 +11,59 @@ _23 October 2026 · whole-game **qualitative** rankings, not measured tournament
 - **Best no-nonsense carried-objective value:** **JSA Karakuri FO 31/0** — **STR3, ARM3, BTS6, Immunity(Enhanced), Remote Presence**, self-GizmoKit(PH12), shotgun/Chain Rifle/Panzerfaust. 0SWC and survives multiple failed saves. **Cannot enter Marker State**, but doesn't depend on one. **Ōban** AVA3 vs **Vanilla JSA** AVA2, legal Fireteams change.
 - **Best carried-objective apex, movement/safety:** **JSA Shikami 42/0** — Specialist, 2W, Mimetism(-6), **Eclipse**, Super-Jump, Climbing Plus, FD(+10), Dodges. Safely reaches and escapes a pickup across rooftop/visor lanes; **not more durable than 3STR Karakuri** when caught in the open or hacked. Choose 47/0 gun profile when fighting matters.
 - **Best loaded specialist/zone combined:** **ALEPH/OSS Asura HD+ 63/.5**, **Ramah Namurr 41/0** and **White Banner/IA Shang Ji FO36/0**. Asura: **MSV3/ARM5/W2+NWI/WIP15** with HD+ and anti-hacker pressure. Namurr: **W2, Immunity(Enhanced), Climbing Plus, Specialist Operative, Tactical Awareness** (Breaker Rifle41/0). Shang Ji: **W2/ARM4/BTS6, FO, Tactical Awareness**, with link/Firewall support in actual sectorial. Each can carry an objective **and stay relevant**.
-- **Best elite zone *swing* by points in one movement:** **Avatar 122/3**, **Sphinx93/2**, **Marut86/1.5**, **Gorgos63/1.5**, **Maximus TAG80/1**, **Gecko Vulkan49/0**, **Squalos Mk-II55/1**, **Xeodron49/.5**, **Shakush56/1.5**. These are separate *cost/position/attack* choices, not equally efficient investments or automatically eligible carriers. Avatar pays for control/Strategos/gun; 49pt Gecko is easier to commit merely to flip a quadrant.
-- **Best exceptionally cheap durable holders:** **Tunguska Hollow Man Boarding Shotgun Specialist21/0** (W2, ARM4/BTS6, Remote Presence, Super-Jump, legal Hollow Men team), **Military Orders/Vanilla PanO Teutonic SMG Specialist19/0** (W2, ARM3, MA2; **Impetuous/Limited Cover** make it far less safe if left exposed), and **FRRM Moblot Engineer31/0 or Paramedic29/0** (Non-Hackable, Mimetism(-3), Tactical Awareness, IMM-B/Shock Immunity, W1/ARM3). Hollow Man is outstanding physical durability at 21pts; Teutonic is excellent at 19pts only when a safe corner or movement-screen preserves its 2W. *Neither is an automatic unlinked Fireteam bonus; check local team chart.*
-- **Best tough budget specialists:** **O-12/Starmada Betatrooper KHD25/0** (**STR2/ARM3/Mimetism(-3), Climbing Plus**), **Torchlight Silverstar Specialist27/0** (**W2, ARM3/BTS6**, shotgun/riotstopper), **USAriadna Minuteman FO25/0** (**Non-Hackable, T2 Rifle/HFT, Immunity IMM-B & Shock**), **Ramah Mukhtar FO25/0** (**FD, Mimetism(-3), NWI**), **Tohaa Sakiel FO20/0** (**Symbiont Transmutation, initial W2**), **Hassassin Asawira Doctor35/0** (**W2, ARM4, BTS9, Regeneration, Doctor +3**), **Tohaa Sukeul FO29/0** (**initial W2, Mimetism(-3), Symbiont, K1 rifle**). Each attacks a different counter: bullets, hacking, terrain or repeated attrition.
-- **Best distributed-body / Order-efficient presence:** **G:Jumper Posthuman Mk.1 Engineer13/0 + Mk.5 FO13/.5 =26/.5 (2 proxies, 1 Order)**; **O-12 Sirius FO+Repeater SiriusBot21/0**, **PanO Drummer FO + Drumbot-5 FO21/0**, **Kestrel/other Peacemaker23/0 + Auxbot**, **Nomads Puppet Master11/0 + PuppetBot FO9/0 (20/0 minimum)** and **Shasvastii Shrouded/Seed bodies**. Distributed positions and physical ARO forks are useful; **not multiple pooled Orders**, and peripheral/Proxy VP must be handled as specified by mission rules.
-- **Best medium-budget covered holding in Ariadna:** **USAriadna Minuteman FO25/0** (Non-Hackable, T2/LFT, immunity), **FRRM Moblot Paramedic29/0 / Engineer31/0** (Non-Hackable, Mimetism, Tactical Awareness), **Tartary Veteran Kazak FO36/0** (W1+NWI, Warhorse/Mimetism and close flamer), **Unknown Ranger Specialist39/0** (W1+NWI/ARM4 and TacAware), backed by **S.A.S. FO21/0 / Chasseur FO20/0 / Strelok FO17/0** for pickup. The first group survives exposed situations better; the second group reaches boxes early but should then hide.
-- **Non-aligned army standouts:** **Ikari Karakuri FO31/0** (same durable STR3 box job as JSA), **White Company Hǎidào Engineer25/0/KHD22/0** (NWI + actual Specialist, with recovery or anti-hacker role), **StarCo Raoul Spector FTO34/0** (Regular Specialist + Mimetism(-6)+Jet Super-Jump+Drop Bears, *unlike* the Irregular 33pt Combat Jump profile), and **Druze/StarCo Brawler Engineer19/0** (cheap 0SWC true Specialist). **Anaconda59/1.5** is a strong zone TAG in FRRM/NA2; its Operator is Specialist after a valid Escape System event, **not while still piloting the TAG**.
-- **Best scoring with ambush/markers, but worse *after* pickup:** **Dasyu FO29/0**, **Malignos FO30/0**, **Razor FO29/0**, **Croc Man FO30/0**, **Trinitarian FO22/0**, and **Shasvastii Caliban FO26/0**. Camo/Hidden/FD are excellent for getting to a crate **before** collecting; a carried box forces the model to remain a **Model, not Marker**. Plan an immediate safe withdrawal or legal handoff.
-- **Best disposable objective *guard*:** **Corregidor Moran BSG Repeater15/.5**, **Kestrel Fennec Minelayer14/0**, **Tohaa Kaauri E/M Minelayer11/0**, **O-12 Raveneye E/M/Cybermine Minelayer12/0**, **Shasvastii Ikadron11/0**, **NCA Auxilia+Auxbot15/0**. They deny entry and consume enemy Orders; **do not pretend a 1W guard is a durable carrier**.
+- **Best elite zone *swing* by points in one movement:**
+  - **Avatar 122/3**
+  - **Sphinx93/2**
+  - **Marut86/1.5**
+  - **Gorgos63/1.5**
+  - **Maximus TAG80/1**
+  - **Gecko Vulkan49/0**
+  - **Squalos Mk-II55/1**
+  - **Xeodron49/.5**
+  - **Shakush56/1.5**. These are separate *cost/position/attack* choices, not equally efficient investments or automatically eligible carriers. Avatar pays for control/Strategos/gun; 49pt Gecko is easier to commit merely to flip a quadrant.
+- **Best exceptionally cheap durable holders:**
+  - **Tunguska Hollow Man Boarding Shotgun Specialist21/0** (W2, ARM4/BTS6, Remote Presence, Super-Jump, legal Hollow Men team)
+  - **Military Orders/Vanilla PanO Teutonic SMG Specialist19/0** (W2, ARM3, MA2; **Impetuous/Limited Cover** make it far less safe if left exposed)
+  - **FRRM Moblot Engineer31/0 or Paramedic29/0** (Non-Hackable, Mimetism(-3), Tactical Awareness, IMM-B/Shock Immunity, W1/ARM3). Hollow Man is outstanding physical durability at 21pts; Teutonic is excellent at 19pts only when a safe corner or movement-screen preserves its 2W. *Neither is an automatic unlinked Fireteam bonus; check local team chart.*
+- **Best tough budget specialists:**
+  - **O-12/Starmada Betatrooper KHD25/0** (**STR2/ARM3/Mimetism(-3), Climbing Plus**)
+  - **Torchlight Silverstar Specialist27/0** (**W2, ARM3/BTS6**, shotgun/riotstopper)
+  - **USAriadna Minuteman FO25/0** (**Non-Hackable, T2 Rifle/HFT, Immunity IMM-B & Shock**)
+  - **Ramah Mukhtar FO25/0** (**FD, Mimetism(-3), NWI**)
+  - **Tohaa Sakiel FO20/0** (**Symbiont Transmutation, initial W2**)
+  - **Hassassin Asawira Doctor35/0** (**W2, ARM4, BTS9, Regeneration, Doctor +3**)
+  - **Tohaa Sukeul FO29/0** (**initial W2, Mimetism(-3), Symbiont, K1 rifle**). Each attacks a different counter: bullets, hacking, terrain or repeated attrition.
+- **Best distributed-body / Order-efficient presence:**
+  - **G:Jumper Posthuman Mk.1 Engineer13/0 + Mk.5 FO13/.5 =26/.5 (2 proxies, 1 Order)**
+  - **O-12 Sirius FO+Repeater SiriusBot21/0**
+  - **PanO Drummer FO + Drumbot-5 FO21/0**
+  - **Kestrel/other Peacemaker23/0 + Auxbot**
+  - **Nomads Puppet Master11/0 + PuppetBot FO9/0 (20/0 minimum)** and **Shasvastii Shrouded/Seed bodies**. Distributed positions and physical ARO forks are useful; **not multiple pooled Orders**, and peripheral/Proxy VP must be handled as specified by mission rules.
+- **Best medium-budget covered holding in Ariadna:**
+  - **USAriadna Minuteman FO25/0** (Non-Hackable, T2/LFT, immunity)
+  - **FRRM Moblot Paramedic29/0 / Engineer31/0** (Non-Hackable, Mimetism, Tactical Awareness)
+  - **Tartary Veteran Kazak FO36/0** (W1+NWI, Warhorse/Mimetism and close flamer)
+  - **Unknown Ranger Specialist39/0** (W1+NWI/ARM4 and TacAware), backed by **S.A.S. FO21/0 / Chasseur FO20/0 / Strelok FO17/0** for pickup. The first group survives exposed situations better; the second group reaches boxes early but should then hide.
+- **Non-aligned army standouts:**
+  - **Ikari Karakuri FO31/0** (same durable STR3 box job as JSA)
+  - **White Company Hǎidào Engineer25/0/KHD22/0** (NWI + actual Specialist, with recovery or anti-hacker role)
+  - **StarCo Raoul Spector FTO34/0** (Regular Specialist + Mimetism(-6)+Jet Super-Jump+Drop Bears, *unlike* the Irregular 33pt Combat Jump profile)
+  - **Druze/StarCo Brawler Engineer19/0** (cheap 0SWC true Specialist).
+  - **Anaconda59/1.5** is a strong zone TAG in FRRM/NA2; its Operator is Specialist after a valid Escape System event, **not while still piloting the TAG**.
+- **Best scoring with ambush/markers, but worse *after* pickup:**
+  - **Dasyu FO29/0**
+  - **Malignos FO30/0**
+  - **Razor FO29/0**
+  - **Croc Man FO30/0**
+  - **Trinitarian FO22/0**
+  - **Shasvastii Caliban FO26/0**. Camo/Hidden/FD are excellent for getting to a crate **before** collecting; a carried box forces the model to remain a **Model, not Marker**. Plan an immediate safe withdrawal or legal handoff.
+- **Best disposable objective *guard*:**
+  - **Corregidor Moran BSG Repeater15/.5**
+  - **Kestrel Fennec Minelayer14/0**
+  - **Tohaa Kaauri E/M Minelayer11/0**
+  - **O-12 Raveneye E/M/Cybermine Minelayer12/0**
+  - **Shasvastii Ikadron11/0**
+  - **NCA Auxilia+Auxbot15/0**. They deny entry and consume enemy Orders; **do not pretend a 1W guard is a durable carrier**.
 
 ## 1. Exact scoring & survival rules — the traps
 

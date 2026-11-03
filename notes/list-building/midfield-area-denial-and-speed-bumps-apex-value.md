@@ -13,8 +13,17 @@ _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SW
 - **Apex versus Hackable HI/TAG:** **Hassassin Shujae 27/0, Hidden + FD(+20) + E/M Mine Minelayer (2)**. Two prepaid E/M mines plus hidden Flammenspeer and Specialist Operative can demand a complete clearance plan. **But:** the Hidden model **does not supply an Order while hidden**; a Sensor/Deactivator sweep, Warhorse, or non-Hackable assault reduces value.
 - **Apex against vulnerable biological troops:** **ALEPH Dasyu 30/.5 Viral Mine Minelayer (2)** — Hidden, Infiltration (ReRoll), Mimetism(-6), BS13, Pulzar. More murderous than ordinary mines **against suitable targets**, not a universal answer to STR-heavy armies.
 - **Best network efficiency:** **Corregidor Moran Repeater + CrazyKoala + Minelayer 15/.5**. Infiltration, FO, Regular Order, perimeter deterrence **and a hacking entry point** if allied hackers are present. **Corregidor AVA2; Vanilla Nomads AVA1**, and its one-use Camo profiles **do not simultaneously have Repeater**. Two Morans cost **1 SWC**.
-- **Best non-hacking pure cheap Camo mines:** **USA Foxtrot Minelayer 18/.5**, **Bakunin Zero Minelayer 18/.5**, **Chasseur Minelayer 20/.5**, **Tohaa Clipsos Minelayer 23/.5**, **Shasvastii Shrouded Minelayer 24/.5**. Pay the premium for template/mission utility and plausible marker ambiguity, not because every mine carrier is equally threatening.
-- **Best zero-SWC cheap passive gadgets:** **O-12 Gangbuster KHD+MadTraps Minelayer 22/0**, **Tohaa Kaauri E/M Minelayer 11/0** (DZ, not midfield), **Kestrel Fennec Thunderbolt+Mine Minelayer 14/0** (DZ), and **Acontecimento Regular Mine+Sensor 13/0** (DZ).
+- **Best non-hacking pure cheap Camo mines:**
+  - **USA Foxtrot Minelayer 18/.5**
+  - **Bakunin Zero Minelayer 18/.5**
+  - **Chasseur Minelayer 20/.5**
+  - **Tohaa Clipsos Minelayer 23/.5**
+  - **Shasvastii Shrouded Minelayer 24/.5**. Pay the premium for template/mission utility and plausible marker ambiguity, not because every mine carrier is equally threatening.
+- **Best zero-SWC cheap passive gadgets:**
+  - **O-12 Gangbuster KHD+MadTraps Minelayer 22/0**
+  - **Tohaa Kaauri E/M Minelayer 11/0** (DZ, not midfield)
+  - **Kestrel Fennec Thunderbolt+Mine Minelayer 14/0** (DZ)
+  - **Acontecimento Regular Mine+Sensor 13/0** (DZ).
 - **Best contingent route denial:** **Shrouded Dazer Minelayer 21/0** slows a *route* rather than simply threatening damage; **Naga Monofilament Minelayer 26/.5** punishes expensive troops that must pass one choke. Both need terrain and mission geometry to justify their specialist tool.
 - **Best zero-Order threat that is not merely a mine:** **Ōban Ryūken-9 HRL 23/1.5** — one-use Camo, Mimetism(-6), Decoy(1), deployment mine and scary reactive HRL. Strong **DZ/long-lane ambush**, not an infiltrating skirmisher; the 22/.5 SMG option is its **distinct FD(+20) midfield profile**.
 
