@@ -156,7 +156,9 @@
   - Bultrak/Raicho TAGs
   - no HD+.
 - **Next Wave:**
-  - Patroclus Smoke, Ko Dali/Teucer MSV2, Ironsides Disco
+  - **Patroclus:** Smoke
+  - **Ko Dali / Teucer:** MSV2
+  - **Ironsides:** Disco
   - Gearhead/Pandora/Bit Pitchers
   - Ko Dali/Cliff-Jumper DZ strikes
   - Juggernaut TAG and Skyhound VH.
@@ -166,7 +168,9 @@
   - Kerr-Nau White Noise
   - Umbra/Bit Pitchers.
 - **Shasvastii Expeditionary Force:**
-  - Speculo Smoke/Impersonation, Gwailo/Haiduk MSV2, Jayth/Tensho Disco
+  - **Speculo:** Smoke and Impersonation
+  - **Gwailo / Haiduk:** MSV2
+  - **Jayth / Tensho:** Disco
   - Victor Messer HD+
   - Cadmus infiltration/Combat Jump.
 
@@ -272,14 +276,20 @@
 **Providers and caveats**
 
 - **Dahshat Company:**
-  - Hunzakut/Zhēnchá infiltrating Repeaters, Rui Shi MSV2, McMurrough/Kum smoke
+  - **Hunzakut / Zhēnchá:** infiltrating Repeaters
+  - **Rui Shi:** MSV2
+  - **McMurrough / Kum:** Smoke
   - Valerya Pitcher
   - no dedicated Combat Jump/DZ-entry profile.
 - **Ikari Company:**
-  - Yuan Yuan CJ, Kiiutan Impersonator, Brawler/Rui Shi MSV2, Druze Pitcher
+  - **Yuan Yuan:** Combat Jump
+  - **Kiiutan:** Impersonation
+  - **Brawler / Rui Shi:** MSV2
+  - **Druze:** Pitcher
   - Táowù CoC/Counterintelligence.
 - **White Company:**
-  - Varangian/Carmen smoke with Nisses/Hǎidào MSV2
+  - **Varangian / Carmen:** Smoke
+  - **Nisses / Hǎidào:** MSV2
   - Señor Massacre Eclipse
   - Danavas and Laxmee HD+ Pitchers
   - Guiláng infiltrating Repeater
@@ -323,9 +333,13 @@
   - **Intruder:** MSV2
   - **Chimera:** Eclipse
   - Interventor HD+
-  - Moran/Zero/Spektr early Repeaters
+  - **Moran:** early Repeater
+  - **Zero:** early Repeater
+  - **Spektr:** early Repeater
   - broad pitcher suite
-  - Gecko/Gator/Szalamandra TAGs.
+  - **Gecko:** TAG
+  - **Gator:** TAG
+  - **Szalamandra:** TAG
 - **Bakunin:**
   - **Morlocks / Zellenkrieger:** Smoke
   - **Orphan:** MSV2
@@ -338,7 +352,9 @@
   - **Señor Massacre:** Eclipse
   - Jazz HD+
   - Moran/Bandit T0 Repeaters
-  - Carlota, Hellcat, Bearcat backline.
+  - **Carlota:** backline entry
+  - **Hellcat:** backline entry
+  - **Bearcat:** backline entry
 - **Tunguska:**
   - **Zondnautica:** Smoke
   - **Cheerkiller:** MSV2
@@ -429,7 +445,8 @@
   - Crusader/Santiago CJ
   - Trinitarian infiltrating DR, Knight of Justice Pitcher.
 - **Neoterran Capitaline Army:**
-  - Aquila/Deva MSV2, Quinn/Aquila Disco
+  - **Aquila / Deva:** MSV2
+  - **Quinn / Aquila:** Disco
   - Garuda CJ
   - Blocker/Locust Pitchers
   - Maximus **LT** Inspiring Leadership
@@ -505,9 +522,9 @@
   - **Tiger:** Combat Jump
   - **Guiláng:** Deployable Repeater
   - **Vanilla profile projection remains PARTIAL**; cross-check exact loadouts
-  - cross-check exact loadouts.
 - **Imperial Service:**
-  - Kuang Shi/Celestial Guard smoke + Hsien/Bào MSV2
+  - **Kuang Shi / Celestial Guard:** Smoke
+  - **Hsien / Bào:** MSV2
   - Sun Tze Strategos L2
   - Koga infiltrating DR
   - Fēiquán Pitcher/VH

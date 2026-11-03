@@ -14,7 +14,12 @@ Before buying an AD model, distinguish **Turn-1 network/ARO disruption** from **
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-For **specific N5.3 attacker profiles**, [Airborne and Enemy-DZ Attackers — Apex versus Value](airborne-and-enemy-dz-attackers-apex-value.md) compares **Combat Jump landing risk, Parachutist/DZ guaranteed geometry, hidden/infiltrating attacks, high-MOV breakthrough** and **enemy capability/Order trade**. Example: Rasyat25/0 has guaranteed enemy-DZ *edge* access but not guaranteed ARO survival, while Caskuda64/1 attempts a PH14 drop (**70%** unmodified, **85%** with Controlled Jump +3); failed N5.3 Combat Jump falls back to **own DZ table edge**, not scatter.
+For **specific N5.3 attacker profiles**, [Airborne and Enemy-DZ Attackers — Apex versus Value](airborne-and-enemy-dz-attackers-apex-value.md) compares **Combat Jump landing risk, Parachutist/DZ guaranteed geometry, hidden/infiltrating attacks, high-MOV breakthrough** and **enemy capability/Order trade**. For example:
+
+- **Rasyat 25/0:** guaranteed enemy-DZ *edge* access, but not guaranteed survival against AROs.
+- **Caskuda 64/1:** PH14 Combat Jump with **70%** unmodified landing probability, or **85%** with Controlled Jump +3.
+
+A failed N5.3 Combat Jump falls back to the **own DZ table edge**, not scatter.
 
 
 ## High-cost and apex troopers
