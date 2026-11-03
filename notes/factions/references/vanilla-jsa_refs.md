@@ -2,9 +2,24 @@
 
 **Tactical companion:** [Vanilla JSA — List-Building and Tactical Note](../vanilla-jsa.md). **Authoritative roster and Fireteams:** [Vanilla JSA N5.3 faction reference](../../../sectorials/jsa/jsa.md). This archive retains source citations, cross-faction comparisons, battle reports and purchasing audits outside the primary tactical note.
 
+## Research provenance and confidence (2025–2026)
+
+The tactical companion began with published list codes/show notes; on **2026-10-23**, the dedicated N5 Vanilla JSA video and the relevant YouTube/Spotify **MCP transcripts were directly retrieved and reviewed**. Exact sources, opposing opinions, restrictions and confidence are recorded in the [source-order index](#best-transcript-backed-source-order--updated-2026-10-23) and the source-takeaway table below. Historical source commentary is not a current rulebook. In descending order of evidentiary value: current Army reference for legality; actual published lists for what players selected; players' own show notes for their stated reasoning; retrospective community summaries for context; the tactical companion's strategic inferences.
+
+**Primary links:**
+
+- **2026 Krug winner / MetaChemistry E153:** https://www.patreon.com/MetaChemistry/posts/episode-153-cb-172208010 — interview with Azoka, winner of the three-day, seven-round 2026 event, playing Vanilla JSA.
+- **MetaChemistry's Reddit thread with both original Army exports:** https://www.reddit.com/r/InfinityTheGame/comments/1x4m8yq/metachemistry_episode_153_cb_krug_2026/ — inspect the posted codes, not just the interview synopsis.
+- **Tactical Awareness S3 E18 — Zeroes & Heroes, JSA Part 3 (April 14, 2025):** https://www.youtube.com/watch?v=YzCHVZyRY5o — Ash, Owen and Dan each construct a list; their published exports are also reproduced at https://music.amazon.in/podcasts/c252d4e8-067a-4f66-afed-964961c01a64/episodes/6a7b63a4-ff91-48d6-8f08-4377603cd485/tactical-awareness---an-infinity-podcast-tactical-awareness-s3-ep18---zeroes-heroes-faction-reviews---jsa-part-3---core-jsa
+- **Bureau Aegis mirror of the Tactical Awareness 2025 list notes:** https://www.bureau-aegis.org/forum/index.php?topic=17834.0 — includes an *automatically produced, not manually reviewed* summary: use raw exports above its interpretation.
+- **WIP12 E186: JSA with a Pro Goblin (May 2025):** https://poddtoppen.se/podcast/1567047414/wip12-an-infinity-the-game-podcast/e186-jsa-with-a-pro-goblin — unusually detailed author-written list notes and explicit mission-based substitutions, mirrored at https://www.bureau-aegis.org/forum/index.php?topic=17665.20
+- **Corvus Belli N5 JSA tactica index:** https://forum.corvusbelli.com/threads/n5-recap-jsa-tacticas.43447/
+
+**Important sample-size constraint:** two Krug lists come from **one player** and one paired-list event. Repeated inclusions identify *Azoka's successful shell*, not a measured meta-wide pick rate or a global consensus. April–May 2025 lists show alternative construction schools but predate the September 2026 N5.3 Army snapshot. Legality and exact profiles always defer to sectorials/jsa/jsa.md.
+
 ## Best transcript-backed source order — updated 2026-10-23
 
-The **Source** column below is moved from the main guide's verified-transcript shortlist (direct YouTube/Spotify MCP review). Each `Ref #` matches the [takeaway/evidence table in the tactical companion](../vanilla-jsa.md#transcript-backed-source-takeaways--updated-2026-10-23). This is an editorial reading order, not a measured pick-rate ranking.
+The **Source** column below is moved from the main guide's verified-transcript shortlist (direct YouTube/Spotify MCP review). Each `Ref #` matches the [transcript-backed source takeaways](#transcript-backed-source-takeaways--updated-2026-10-23) in this archive. This is an editorial reading order, not a measured pick-rate ranking.
 
 | Ref # | Source |
 |---|---|
@@ -16,6 +31,23 @@ The **Source** column below is moved from the main guide's verified-transcript s
 | **6** | **[Robert Shepherd + Jordan — July 2026 all-faction discussion](https://www.youtube.com/watch?v=1dW3i9dpI34)** (YouTube MCP) |
 | **7** | **[Spanish July/Aug 2026 JSA / NA2 review](https://open.spotify.com/episode/05TgoPilP4WJHzj8LeVUz9)** (Aug 25, podcast MCP, Spanish) |
 | **Supporting** | [Ōban podcast](https://open.spotify.com/episode/5EJe58gg1Lyo9xZxff2g75), [Shinden podcast](https://open.spotify.com/episode/7C5EmW5EwRQkHxqjHMopUi), [Krug list descriptions](https://podcasts.apple.com/nz/podcast/episode-153-winners-circle-cb-krug-2026/id1544561381?i=1000796058808), [official faction roster](https://infinityuniverse.com/en/factions/jsa/vanilla). |
+
+## Transcript-backed source takeaways — updated 2026-10-23
+
+The original recording links, titles and dates are in the [Vanilla JSA source-order index](#best-transcript-backed-source-order--updated-2026-10-23). Match each `Ref #` to that source and its evidence limitations.
+
+| Ref # | What the transcript actually adds |
+|---|---|
+| **1** | Deepest **vanilla-specific matchup/list logic**: **Hatamoto Red Fury's X-Visor long-range geometry** (~13–16m), **separate Hatamoto and Shikami order pools** (~16–20m), **Shizoku HRL versus AP HMG** (~20–24m), **Ryūken ×2 versus Ryūken + Hidden Raiden** (~32–41m), **Disco reload/Baggage** (~40m), **Kurayami/Teishin hacking and AD** (~50–55m). Strong caution not to accidentally build *worse Ōban*. |
+| **2** | Most valuable **recent successful Vanilla JSA example**: Azoka explains **mission-driven paired lists** (~5–12m), credits **Tankō Disco** for enabling critical advances (~18–22m), praises **Karakuri Mk12** (~33–34m), uses Hatamoto **in a smaller second group intentionally** (~42m), and recovers from an opponent's heavy alpha using Eclipse/repair/objectives (~62–64m). Winner is *one player*, not a statistical universal build. |
+| **3** | Three conflicting builds: **O-Yoroi LT + Musashi Duo + double Shikami + Rui Shi mines/EVO** versus **10-order Hatamoto LT + Daiyōkai/Karakuri Haris + Raiden + TR REMs** versus a broader Hidden/Disco shell. Hosts debate the need for Shizoku/long-gun/remote redundancy and dislike some low-impact character picks. *Experimental lists, not tournament proof.* |
+| **4** | Best targeted **shared REM analysis**: **MSV2 Rui Shi Spitfire** for targeted Mimetism/ordinary smoke fights vs **MSV1 Red Fury + Shock Mine Dispenser** for board control; explicitly says *Vanilla JSA/Shinden* are often more attracted to the **Mine Dispenser** build. Every 21–23pt combat bot has **EVO/Engineer/order/support opportunity costs**. |
+| **5** | *Shared troops and contrasting sectorial synergies*: **Kuroshi/Rui Shi smoke Hares** and linked **Tankō Disco** are benefits of Ōban only; **Tanuki/Rui Shi/Sayō** network is Shinden-only. A vanilla Rui Shi or Tankō is still useful but lacks those Fireteam tricks. |
+| **6** | Counterpoint: they characterize Vanilla's core proposition as **mixing high-value Hatamoto + Shikami** rather than a superior Fireteam shell. General tier opinions are subjective, and their Shinden discussion contains **double Hatamoto concepts that are *not legal in pinned vanilla***. |
+| **7** | Opposing opinion on **Kurayami HD**: speakers question its value versus a conventional Ninja/sectorial Tanuki because of weaker classic Ninja defenses; contrast with WIP12's preference for cheaper **Hidden HD + D-Charges + Super-Jump** (the Tanuki comparison is *not* a valid vanilla replacement). Much of episode is collection/lore, so lower gameplay priority. |
+| **Supporting** | Shared TAG/REM roles, list examples and historical cross-check only; **not evidence** to copy sectorial AVA, Wildcards or Fireteams. |
+
+**Confidence and baseline:** YouTube and Spotify MCP transcripts indexed in the [reference archive](#best-transcript-backed-source-order--updated-2026-10-23) were retrieved/read for the named sources. Auto-transcription can garble JSA unit names, and some 2025 comments describe N5 launch profiles or optional modes that changed. For **exact legality, AVA, points, SWC, weapons and tactical skills**, the repository's pinned [N5.3 vanilla JSA roster](../../../sectorials/jsa/jsa.md) is the authority. **No dedicated current Mechazoid/O-Yoroi competitive tactica or 2026-specific vehicle review with a verifiable MCP transcript was located**; the TAG-specific analysis in the [tactical companion](../vanilla-jsa.md) is profile-based evaluation plus identified shared-source discussion, not attributed fabricated verdicts.
 
 ## N5.3 tactical cross-references, battle reports and purchasing audit
 
