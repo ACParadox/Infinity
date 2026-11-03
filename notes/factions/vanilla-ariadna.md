@@ -95,13 +95,20 @@ Prioritize enemy Repeaters, mine the approach and protect recovery options. [She
 **Indirect-fire and support choices:**
 
 - **Traktor Mul Katyusha (9/1):** cheap Guided payoff, but only after creating a valid Targeted state.
-- **Chasseur FO / Strelok FO / SAS FO:** potential mission FOs where the actual roster/profile permits them; do not assume Targeted is free.
+- **Forward Observers for Guided:** use an eligible profile and budget Targeted setup:
+  - **Chasseur FO**
+  - **Strelok FO**
+  - **SAS FO**
 - **Dog-Warrior:** PH-based Speculative Fire without a Targeted prerequisite.
 - **Carmen & Bâtard:** alternative grenade-based Speculative attacks where roster-legal.
 - **Kuryer:** conditional alternative *only in rosters where available*; do not import other Ariadna profiles.
 - **Traktor Mul Baggage (5/0):** cheap Regular Order and conditional disposable-ammo reloading, distinct from artillery profiles.
 - **Voronin LT:** Counterintelligence and Strategos in vanilla; current **TAK Voronin does not have Strategos**.
-- **Spetsnaz / Strelok / Scout:** Camouflage/Decoy ambiguity only on eligible profiles; Decoys create neither Orders nor extra AROs.
+- **Camo/Decoy uncertainty:** choose only profiles that actually carry the relevant rules:
+  - **Spetsnaz**
+  - **Strelok**
+  - **Scout**
+  - False Decoys do not create extra Orders or AROs.
 - **EVO:** no automatic value without a rostered device and real support targets.
 
 The CanCon account warns costly hacking-to-Guided plans can do little against dispersed nonhackable lists. Check Targeted setup, range, Reset and Order costs. See [indirect-fire tiers](../list-building/indirect-fire-speculative-guided-apex-value.md) and [force-multiplier comparisons](../list-building/force-multipliers-special-abilities-apex-value.md).
@@ -109,7 +116,16 @@ The CanCon account warns costly hacking-to-Guided plans can do little against di
 ## Confirmed disagreements / source-age corrections
 
 1. **Vanilla vs sectorial:** *Tactical Awareness S3E11* (Feb 2025) calls vanilla an inferior leftovers list versus TAK/Kosmoflot due missing strong Core and fewer unique new tools. *Shepherd/LoL #164* (Feb 2026) argues vanilla wins through wider selection, Kibervolk, portable-autocannon/Decoy defense and rear-entry threat—even without fielding the rear-entry pieces. Both can be true for different list architectures.
-2. **Are Haris/Duos worth the orders?** *CNN Counterintelligence* and some Tactical Awareness speakers would largely take only the **Dynamo Duo**; other Tactical Awareness plans take FT-02 Briscard/Loup/Bruant/Moblot links for viral/MSV/specialist synergy. Evaluate each against 3 independent troopers and the one Haris slot.
+2. **Haris/Duos versus independent pieces:** CNN and some Tactical Awareness contributors mostly favor **Dynamo Duo**; other legal FT-02 experiments include:
+   - **Briscard:** visor utility.
+   - **Loup-Garou:** Viral fire.
+   - **Bruant FTO:** special-weapon/specialist member.
+   - **Moblot:** a mixed-link alternative.
+   - Compare each formation with three independent pieces and the single Haris limit.
 3. **Chernobog rating:** *LoL #142* splits **higher B** vs **C** for the 63-point TAG: cheap AP/ARM8 Tactical Awareness vs the abrupt Transmutation drop and PH9 Dodge/self-Gizmo. The **Kosmoflot Tactical Awareness** hosts see a genuinely strong gun but also debate paying 7 points for the rocket profile. Current Chernobog **63/70**, not old “65” quotes.
 4. **Camo gun as killer vs deterrent:** Shepherd chose Ariadna largely for huge autocannon damage in practice, but reports those TankHunters **mostly delayed and threatened, rather than delivered kills**, in the actual five games. Include the order-tax effect in unit valuation.
-5. **Old list legality and mistakes:** 2025 episode comments on vanished units and incomplete N5 rosters may be outdated; **Kibervolk does not have Climbing Plus** (Shepherd's own correction); Vystrel is **AVA1 in vanilla**, and the vanilla Chernobog is **AVA1/FT-01 max1** even though Kosmoflot can construct different teams. The pinned chart, not a remembered 2025 podcast layout, determines legality.
+5. **Older list and rules corrections:**
+   - **Kibervolk:** no Climbing Plus (Shepherd correction).
+   - **Vystrel:** AVA1 in vanilla.
+   - **Chernobog:** AVA1 and FT-01 maximum one, even when Kosmoflot permits a different structure.
+   - Use the current Army reference rather than 2025 video legality.
