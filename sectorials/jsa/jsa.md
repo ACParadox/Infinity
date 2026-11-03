@@ -19,7 +19,7 @@ coverage: "43 standard Army-1101 logical units; complete standard profiles/loado
 
 ## Overview and provenance
 
-**Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/vanilla-jsa.md#must-have--go-to--avoid--source-backed-recommendations-2026). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
+**Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/references/vanilla-jsa_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
 
 **Tactical companion:** [Vanilla JSA — transcript-reviewed list building, opposing opinions, TAGs/REMs and vehicle boundaries](../../notes/factions/vanilla-jsa.md) (research refresh **2026-10-23**). Unit, profile, AVA and Fireteam legality below remain **canonical**.
 
@@ -699,4 +699,4 @@ Validated against Army snapshot `7.26246.159` on 2026-10-16:
 - Sectorial-only Wildcard/counts-as semantics were not carried into the generic faction.
 - Reinforcement Army ID `1199` remains distinct from standard Vanilla JSA.
 
-**Tactical and purchasing analysis:** [Vanilla JSA faction guide](../../notes/factions/vanilla-jsa.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit). This file remains authoritative for roster, profiles, Fireteams, provenance and validation.
+**Tactical and purchasing analysis:** [Vanilla JSA faction guide](../../notes/factions/references/vanilla-jsa_refs.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit). This file remains authoritative for roster, profiles, Fireteams, provenance and validation.
