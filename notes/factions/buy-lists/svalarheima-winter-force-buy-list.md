@@ -2,13 +2,13 @@
 
 **As of 2026-10-30 · Infinity N5.3.** This is a **purchase plan**, not an inventory update; models in a suggested box are **not owned** until purchased.
 
-**Authority:** [current 38-entry SWF roster, profiles and canonical Fireteam chart](../../../sectorials/panoceania/svalarheima-s-winter-force.md), Army `7.26246.158` (source data 2026-09-03, verified 2026-10-15). Prioritize [WinterFor transcript-backed tactical guide](../svalarheima.md) and [PanO must-have/go-to/avoid and purchase-deferral audit](../panoceania-must-have-go-to-avoid-transcript-evidence.md) for role value; do not silently substitute old YouTube/retailer list-building rules for the pinned N5.3 roster.
+**Authority:** [current 38-entry SWF roster, profiles and canonical Fireteam chart](../../../sectorials/panoceania/svalarheima-s-winter-force.md), Army `7.26246.158` (source data 2026-09-03, verified 2026-10-15). Prioritize [WinterFor transcript-backed tactical guide](../svalarheima.md) and [PanO must-have/go-to/avoid and purchase-deferral audit](../../../sectorials/panoceania/svalarheima-s-winter-force.md) for role value; do not silently substitute old YouTube/retailer list-building rules for the pinned N5.3 roster.
 
 **Existing physical inventory:** [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [miscellaneous PanO + OSS models](../../../inventory/other-units.md), and, where proxies are useful, [TAK](../../../inventory/tak.md)/[Caledonia](../../../inventory/caledonia.md). Also cross-check [vanilla PanO buy list](vanilla-pano-buy-list.md) and [NCA buy list](nca-buy-list.md): **their proposed purchases are not owned**, and a model bought once for one army can be used in every other legal sectorial without buying another copy.
 
 ## Collection completion — core and optional purchases (CAD)
 
-**Current buying policy (2026-10-30):** one distinctive figure per worthwhile missing type, but practical **3 Karhu + 3 Vargar** for Fireteam composition; regular humanoid-style bots and baggage bots are existing/proxy-only. Existing sources: [Miniatures Market PanO USD file](../market-prices/panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD file](../market-prices/ultimate-toy-zone-infinity-prices-usd.md), and Canadian store listings below. USD1 = CAD1.3985 (2026-10-29). **U** means dated user-captured/historical USD quote, not confirmed live, while **V** means Canadian catalogue price (possibly out of stock). Tax, shipping, card FX and brokerage extra.
+**Current buying policy (2026-10-30):** one distinctive figure per worthwhile missing type, but practical **3 Karhu + 3 Vargar** for Fireteam composition; regular humanoid-style bots and baggage bots are existing/proxy-only. Existing sources: [Miniatures Market PanO USD file](../panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD file](../ultimate-toy-zone-infinity-prices-usd.md), and Canadian store listings below. USD1 = CAD1.3985 (2026-10-29). **U** means dated user-captured/historical USD quote, not confirmed live, while **V** means Canadian catalogue price (possibly out of stock). Tax, shipping, card FX and brokerage extra.
 
 | Purchase | CAD | Where and quantity reason |
 |---|---:|---|
@@ -61,9 +61,9 @@
 | Model / number as given | User's assumed USD | **Conditional CAD** | Quantity, use and version flag |
 |---|---:|---:|---|
 | Nøkken, single | **$5.80** | **$8.11** | Standard current metal Spitfire blister exists; Action Pack also has BSG Nøkk. **0 owned**; test one. |
-| Karhu (3) | **$17.40** | **$24.33** | [Miniatures Market PanO USD snapshot](../market-prices/panoceania-miniatures-market-prices-usd.md) explicitly lists this 3-sculpt set: Engineer MULTI, Feuerbach, MULTI. **0 owned**. Prior unassigned $17.00 quote is superseded as the primary comparator, not claimed as a live price change. |
+| Karhu (3) | **$17.40** | **$24.33** | [Miniatures Market PanO USD snapshot](../panoceania-miniatures-market-prices-usd.md) explicitly lists this 3-sculpt set: Engineer MULTI, Feuerbach, MULTI. **0 owned**. Prior unassigned $17.00 quote is superseded as the primary comparator, not claimed as a live price change. |
 | Nisses, option A (each) | **$7.90** | **$11.05** | 2 user options at this price, maybe older weapons; exact sculpt/weapon SKU unverified. |
-| Nisse Icestorm exclusive (single) | **$7.20** | **$10.07** | [Miniatures Market PanO USD snapshot](../market-prices/panoceania-miniatures-market-prices-usd.md) explicitly calls this an **exclusive Icestorm** sculpt. Alternative/collector miniature, not a new rules profile. |
+| Nisse Icestorm exclusive (single) | **$7.20** | **$10.07** | [Miniatures Market PanO USD snapshot](../panoceania-miniatures-market-prices-usd.md) explicitly calls this an **exclusive Icestorm** sculpt. Alternative/collector miniature, not a new rules profile. |
 | Jotum **old metal** | **$32.40** | **$45.31** | OOP metal **REF `280254-0338`**; **not** current 2025 Unicool SKU. Inspect photo/base, missing parts and metal condition. |
 | Liang Kai (option A) | **$8.50** | **$11.89** | One S2 CC model; ordinary and 2020 promotional LE versions exist. |
 | Liang Kai (option B) | **$11.50** | **$16.08** | Alternate lead, not additive to option A. |
@@ -196,7 +196,7 @@ Follow the [miniature proxy guidelines](../../miniature-proxy-guidelines.md): sa
 ## Low-priority buys / avoid the wrong purchases
 
 1. **Do not buy generic support/REMs again:** pooled four Dronbots, two Armbot chassis, two Mulebots and Palbots, Tech-Bee, Trauma-Doc, Machinist, Warcor are recorded. Only expand when intended *simultaneously* fielded bodies exceed actual models or peripherals.
-2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../panoceania-must-have-go-to-avoid-transcript-evidence.md#svalarheimas-winter-force-winterfor--swf).
+2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../../../sectorials/panoceania/svalarheima-s-winter-force.md#svalarheimas-winter-force-winterfor--swf).
 3. **Fusilier HMG/ML/MSR premium-gun profiles: source-backed poor default**, not a reason to skip a **cheap Fusilier LT** or one proxy as team anchor. Shepherd explicitly criticizes the guns; Karhu/Nisse/Vargar/KoJ handle higher-value long-range work.
 4. **No need for more MO Hospitallers/KoJ/Infirmarers or another Locust** without a second-model test. **Kyle Hawkins remains missing**; prefer unused **Kestrel Hetkari/Griffin S2 HI** instead of a WinterFor-legal Hospitaller.
 5. **Do not buy Swiss Guard, Aquila, Tikbalang, Squalos, Maximus TAG, Redeye, Fennec Fusilier, Kamau or Akali to field as themselves in SWF**; none is a regular standard SWF troop. Owned sculpts are still acceptable declared proxies where correct silhouette.
@@ -207,7 +207,7 @@ Follow the [miniature proxy guidelines](../../miniature-proxy-guidelines.md): sa
 
 ## Shared PanO retailer snapshot reconciliation (Oct 30, 2026)
 
-The **[Miniatures Market PanO USD reference](../market-prices/panoceania-miniatures-market-prices-usd.md)** is the first price source when the name and weapon appear; the [Ultimate Toy Zone USD snapshot](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) supplies additional multi-army offers. **USD 1 = CAD 1.3985**, converted/rounded cents, before tax/foreign shipping. **U** = historical user-captured price with warehouse/stock not confirmed (MM international/non-EU warehouse unknown; UTZ online dispatch unknown). Canadian fallback sellers: **Tistaminis Hamilton**, **401 Games Toronto/Vaughan**, **Meeplemart Toronto**.
+The **[Miniatures Market PanO USD reference](../panoceania-miniatures-market-prices-usd.md)** is the first price source when the name and weapon appear; the [Ultimate Toy Zone USD snapshot](../ultimate-toy-zone-infinity-prices-usd.md) supplies additional multi-army offers. **USD 1 = CAD 1.3985**, converted/rounded cents, before tax/foreign shipping. **U** = historical user-captured price with warehouse/stock not confirmed (MM international/non-EU warehouse unknown; UTZ online dispatch unknown). Canadian fallback sellers: **Tistaminis Hamilton**, **401 Games Toronto/Vaughan**, **Meeplemart Toronto**.
 
 | Candidate / SWF relevance | Primary USD → CAD | Source/location and edition detail | Buying guidance |
 |---|---:|---|---|
