@@ -6,13 +6,38 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Pinned reference and rules authority:** [Vanilla Combined Army N5.3 roster and canonical Fireteams](../../sectorials/combined-army/vanilla-combined-army.md), Army **7.26246.158** (September 2026), plus [current local rules](../../rules/README.md). The uploaded video's/podcast's transcript statuses and dated opposing opinions are preserved as **source research**, not newly retrieved during this GitHub merge.
 
-**Legality/option corrections:** Vanilla Combined has **Duo/Haris (no standard Core)** from three distinct chart families: **Combined Army (Unidron/Base/Void/Nexus/Vector/EXO/Nourkias)**, **Morat (Vanguard/Yaogat/Rodok/Dartok/Rindak FTO)**, and **Overdron Duo (one mandatory Overdron + eligible Nexus/Nourkias)**. Only **Umbra Legate FTO** and **Victor Messer** are listed as the standard Vanilla Wildcards. For current TAGs, the roster offers **Avatar, Overdron, Sphinx and Caskuda** (often spelled “Cascuda” in the uploaded media notes): **no Raicho, Bultrak, Xeodron, Juggernaut or Skyhound VH**. Vanilla R-Drone AVA is **1**, not a general promise of abundant flash bots.
+**N5.3 legality and profile distinctions:**
+- **Combined Army Fireteams:** permitted options among Unidron, Base, Void, Nexus, Vector, EXO and Nourkias.
+- **Morat Fireteams:** selected Vanguard, Yaogat, Rodok, Dartok and Rindak FTO.
+- **Overdron Duo:** Overdron is mandatory; eligible Nexus/Nourkias support.
+- **Fireteam sizes:** Duo/Haris, no standard Core.
+- **Standard Wildcards:** Umbra Legate FTO and Victor Messer; observe the actual chart restrictions.
+- **TAG options:**
+  - Avatar
+  - Overdron
+  - Sphinx
+  - Caskuda (Cascuda in older media)
+- **Unavailable other-faction choices:**
+  - Raicho
+  - Bultrak
+  - Xeodron
+  - Juggernaut
+  - Skyhound Vehicle
+- **R-Drone:** AVA1, not a guarantee of multiple Flash bots.
 
 **Important profile distinction:** the **Charontid MSV3** gun profiles and its **Hacking Device Plus / Sepsitor** profiles are **distinct loadouts**; the 71-point LT(+1 Order) HD+ Sepsitor/Plasma option **does not list MSV3**. Do not budget a single Charontid as simultaneously an MSV3 gun, HD+ hacker, and Sepsitor user when its selected current option lacks one of those traits. The **Anathematic** likewise has LT and non-LT versions; legality of deployment state must follow the current rules and chosen option.
 
 **Related:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Lieutenant orders](../Strategy/lieutenant-and-command-structure.md).
 
 ## What wins games in Vanilla Combined
+
+**Visibility control (N5.3):**
+- **Dāturazi Smoke + Vector MSV2:** active-through-Smoke shooting.
+- **Charontid MSV3 gun:** alternative visor; distinct from its HD+/Sepsitor loadout.
+- **Rasyat Eclipse:** bypass a lane from an arrival vector.
+- **Umbra Legate HD+ White Noise:** selective anti-MSV tool, not Eclipse.
+- **Overdron Albedo:** individual anti-MSV, not a projected Smoke zone.
+Choose the enabling path based on the opponent rather than buying all of them. [Vision-control comparison](../list-building/vision-control-units-apex-and-value.md).
 
 **Make the opponent defend against more threats than you actually brought.** The roster can suggest an Impersonator, Hidden Deployment missile, airborne attack, monster hacker, MSV3/Smoke shooter, TAG or Guided threat *before any are identified*. After deployment, use the **right** one of those weapons, not necessarily the most expensive model, to remove the blocker. Keep enough cheap Orders, screening and specialists to finish the mission.
 
@@ -48,11 +73,32 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 | **Ikadron + Imetron + R-Drone** | Necessary Order infrastructure, **Baggage/reload, DZ repeaters and corner defense**; useful for protecting Bit & KISS/Legate Pitchers and a TAG's access points. | Their 2025 cost/AVA shifts weakened the old “buy all the free Orders” trick. Don't buy too much static infrastructure and then fail to score. |
 | **Libertos / other irregular disruption** | Mines, inconvenient AROs and close-range trading protect expensive guns by making the opponent pay Orders to reach them. | Irregular Orders are not fungible Regular Orders. Count real troop-slot and activation constraints. |
 
+**Toolbox profile comparisons:**
+- **Nourkias 48/1:** WIP15 HD with Total Control/Trinity, K1, NCO, CC25/MA4/Protheion, Super-Jump and NWI.
+- **Sheskiin:** direct gun/delivery advantage, but not a scoring Specialist or hacker.
+- **Caliban:** lower-cost forward mission/tech role.
+- **Bit & KISS 25/0.5:** economical Pitcher/hacking package.
+Do not assume any one profile gets the attributes of the alternatives. [Toolbox rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
 ## Lieutenant / primary threat decision
 
-- **Maximum controlled infowar:** **Anathematic LT hacker + Bit & KISS + affordable Orders and a second gun**. Best when you expect an enemy hacking network to obstruct your movement.
-- **Smoke/MSV + durable attack:** **Charontid MSV3 LT gun loadout** or **Vector/Unidron/Nexus** support (**not** an HD+ Sepsitor/MSV3 combined profile). Use MSV to create better FtF odds rather than charge high ARM with raw Burst alone.
-- **Fast mission pressure:** **Sheskiin**, backed by Daturazi / Umbra HD+ / engineers, cheap specialists and a distinct hidden/off-table option.
+- **Maximum controlled infowar:** build a coherent network:
+  - **Anathematic LT hacker:** primary protected hacking threat.
+  - **Bit & KISS:** projected Repeaters/Pitchers.
+  - **Cheap Orders:** enough activation resources.
+  - **Second gun:** a separate response to nonhackable opponents.
+  Especially useful when enemy infowar obstructs the midfield.
+- **Smoke/MSV attack:** choose a real visor gun profile:
+  - **Charontid MSV3 LT gun:** active-through-Smoke option.
+  - **Vector/Unidron/Nexus:** more modular fire support.
+  - **Dāturazi:** Smoke as applicable.
+  **Do not conflate** the Charontid HD+/Sepsitor with the MSV3 gun loadout.
+- **Fast mission pressure:**
+  - **Sheskiin:** primary gun/midfield attack.
+  - **Dāturazi:** approach Smoke.
+  - **Umbra HD+:** infowar/White Noise.
+  - **Engineer and specialists:** recover and score.
+  - **Hidden/off-table threat:** a different attack axis.
 - **Budget LT for premium roster:** **Nexus LT in a purposeful Unidron team**, with CoC/Warhorse contingency where sensible. Avoid treating its survivability as automatic.
 - **Avatar:** deliberately devote most of the list to keeping Orders, protection and *independent scoring* around it; see TAG comparison.
 
@@ -60,7 +106,19 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 ## TAG, Vehicle and REMs — actual vanilla roster and tradeoffs
 
-**The [pinned Vanilla Combined roster](../../sectorials/combined-army/vanilla-combined-army.md) lists these TAGs:** **Avatar, Caskuda (Cascuda in older media), Overdron and Sphinx.** The current Vanilla roster **does not list a Vehicle (VH) category or Skyhound**, and **Raicho, Bultrak, Xeodron and Juggernaut are not on this Vanilla TAG list**. They may appear in related sectorial content, but that is **not** an Army legality grant. Confirm profiles in current Army before claiming availability.
+**TAG availability on the [pinned Vanilla Combined roster](../../sectorials/combined-army/vanilla-combined-army.md):**
+- Avatar
+- Caskuda (Cascuda in older sources)
+- Overdron
+- Sphinx
+
+**Not available as Vanilla TAGs:**
+- Raicho
+- Bultrak
+- Xeodron
+- Juggernaut
+
+There is no separate standard Vehicle (VH) category or Skyhound. Other Combined Army sectorial profiles are not implicitly available in Vanilla.
 
 | TAG | Best reason to select | Biggest cost / competing view |
 | --- | --- | --- |
@@ -69,6 +127,14 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 | **Overdron — Plasma Sniper** | Long-range Plasma threat to units vulnerable to its save profile; meaningful reactive pressure and can pair with HD+/Firewall or **Vector/Nexus** plan. | **HRMC vs Plasma sniper disputed:** 2025 Tactical Awareness/Onyx enthusiasts highlight Plasma; WIP12 and later Onyx discussion prefer HRMC in many active-turn cases. Match weapon to target and range, not rank. |
 | **Sphinx** | **Hidden Deployment + Mimetism (-6) + Climbing Plus** can strike soft backfield Orders, hide/re-Camo and waste an enemy's response turn; experienced N4 tournament winner Brooke endorsed staged, cautious attacks and retreat. | In **N5 Jan 2025 WIP12, Apr 2025 TAG tier list and Oct 2026 Onyx** it is criticized as too expensive for a Spitfire **without AP**, especially under changed climbing rules. Used as a specialist anti-soft-target predator, *not* a frontal TAG killer. |
 | **Caskuda (Cascuda)** | **Combat Jump TAG** with MULTI options; attacks an unexpected unprotected axis. Paired **Overdron for ARO removal + Bit & KISS for hacker clearance + optional EVO** creates a real plan. | High-variance landing, exposure to hacking on arrival, and support costs. Robert Apr 2026 calls it fun but generally harder to justify across multiple tournament games; the Oct 2026 Onyx analysis lays out a more optimistic setup-heavy build. |
+
+**Command and support multipliers:**
+- **Avatar LT Strategos2:** exceptional fighting command, with a large Order-economy commitment.
+- **Ikadron 11:** Baggage/Repeater/LFT.
+- **Basic 8-point Baggage REM:** only where current Army offers it.
+- **EVO 14/0.5:** purpose-specific REM/AD support.
+- **Nexus/Aspect command:** alternative resource investment.
+- **Gearhead/Puzzler:** Next Wave-only Cyberplug package, not automatically Vanilla. [Force-multiplier trade-offs](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ### Shared REM and peripheral matrix (legal availability/profile still checked per Army)
 
@@ -106,20 +172,65 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 ## Mini-playbook and sample role structures
 
+**Guided as secondary pressure:**
+- **T-Drone Guided 16/1.5:** payoff for Targeted.
+- **Umbra/Bit/Victor:** hacker routes.
+- **R-/M-Drone and forward repeaters:** network.
+- **Dāturazi Smoke + Vector/Overdron/Sheskiin:** direct-gun alternative.
+- **Nox Guided sniper:** a separate unit/profile, not T-Drone.
+Do not make every turn a series of Spotlight/Guided rolls when opposing KHD/Oblivion or ordinary shooting offer better returns. [Indirect-fire decisions](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
 **A. “Minus-12” shooting and robust mission play**  
-**Sheskiin + Vector Plasma Sniper / Unidron / Nexus CoC + Daturazi Smoke + Pitcher/KHD + cheap specialist + Q-/R-Drone.** Why: split two gun ranges, impose extreme FtF modifiers, have a genuine objective branch and protected LT. Reflects a tested Robert Apr 2026 concept; **not** a point-validated export.
+**Minus-12 shooting roles:**
+- **Sheskiin:** active midrange gun.
+- **Vector Plasma Sniper + Unidron/Nexus CoC:** MSV and Fireteam support.
+- **Dāturazi:** Smoke.
+- **Pitcher/KHD:** hacking coverage.
+- **Cheap specialist + Q-/R-Drone:** scoring and defense.
+
+**Why:** split shooting ranges, impose bad opposing modifiers and keep a mission branch. Robert April 2026 concept, **not** a point-validated list.
 
 **B. “Affordable elite” with Guided backup**  
-**Nexus LT + Vector/Unidron + Achilles or other elite + Rodok gun/KHD + Umbra Legate HD+ + Daturazi + T-Drone + Orders.** Why: high-quality guns and hackers make the incidental Guided plan credible while keeping a flank/CC attacker. Ask if all those premium pieces leave enough scoring models.
+**Affordable elite + incidental Guided:**
+- **Nexus LT:** budget command.
+- **Vector/Unidron:** firing support.
+- **Achilles or another elite:** alternate assault.
+- **Rodok gun/KHD + Umbra Legate HD+:** gun/hacker network.
+- **Dāturazi:** Smoke delivery.
+- **T-Drone + cheap Orders:** Guided option.
+
+**Why:** multiple distinct routes, provided enough specialists and Orders remain.
 
 **C. “Classic Aspect”**  
-**Charontid or Anathematic LT + Overdron HRMC + Bit & KISS + Ikadron/R-Drone + M-Drone Sensor + Doctor Worm + optional Q-/T-Drone**. Why: layered guns, repeaters, LoF control and recoverable remotes. **Counter:** enemy kills cheap Orders/hackers and hides from both main guns; adjust to mission and current points.
+**Classic Aspect structure:**
+- **Charontid or Anathematic LT:** main command.
+- **Overdron HRMC:** long-range attack.
+- **Bit & KISS:** repeaters/hacking.
+- **Ikadron/R-Drone:** economical Orders.
+- **M-Drone Sensor + Doctor Worm:** discovery/repair.
+- **Optional Q-/T-Drone:** defensive or Guided.
+
+**Why:** layered fire, hacking and recoverable REMs. **Counter:** opponents clear cheap Orders/hackers and avoid the guns.
 
 **D. “Stealth assassin”**  
-**Sphinx + Daturazi + Speculo/Noctifer + Caliban/Shrouded specialist + remotes + Engineer**. Why: initial hidden threats, trade cheaply and retreat, emerge late to outscore. **Counter:** too few Orders and anti-armor tools; likely harder in current N5.3 than in Brooke's 2024 victories.
+**Stealth-assassin structure:**
+- **Sphinx:** hidden TAG attack.
+- **Dāturazi:** Smoke.
+- **Speculo/Noctifer:** concealed/Impersonating disruption.
+- **Caliban/Shrouded:** objective work.
+- **REMs + Engineer:** economy and repair.
+
+**Why:** trade from hidden angles and score late. **Counter:** thinner Orders and limited anti-armor, especially under N5 changes.
 
 **E. “Caskuda / Cascuda drop” (deliberately high variance)**  
-**Cascuda + Overdron / ranged ARO remover + Bit & KISS KHD + optional E-Drone + budget Orders and one hidden scorer**. Why: airborne deployment can bypass all front-facing defenses after hackers and AROs are cleared. **Counter:** a single failed drop or hidden hacker can strand a 60+-point unit.
+**Caskuda insertion structure:**
+- **Caskuda:** airborne TAG.
+- **Overdron or equivalent gun:** remove facing AROs.
+- **Bit & KISS:** KHD for landing-route security.
+- **Optional E-Drone:** insertion support.
+- **Cheap Orders + hidden specialist:** scoring backup.
+
+**Why:** pressure from an uncovered flank. **Counter:** one failed drop or hidden hacker can strand the TAG.
 
 ## Source queue — best first; transcript status explicit
 
@@ -144,29 +255,6 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 - Official roster presently shows **no generic VH / Skyhound** in Vanilla. **Taigha Creature** appears in early N5 advice but is not on the current official Vanilla roster's Warband list; treat old “max Taigha” advice as obsolete until revalidated.
 - **Speech recognition caution:** “Raicho” in Robert's Rasyat flanking discussion, “Cadmus-Naish” in Sheskiin discussion, “Corontid” for Charontid, “Vector Unitron” for Vector/Unidron; names normalized here. Transcripts can also garble costs and weapon notation.
 - These are **role blueprints, not verified 300-point lists**. Do not infer exact AVA, profile weapon, Fireteam size, troop type or prices solely from podcasts; validate in current Infinity Army.
-
-## Vision control — role/value update (23 October 2026)
-
-- **MSV + Smoke attack engine:** **Dāturazi 14/0 Regular Smoke** enables **Vector MSV2 / Charontid MSV3** when the exact selected gun profile has a visor; **Rasyat Eclipse** is independent flank delivery. **Umbra Legate HD+** offers selective White Noise, not Eclipse; Overdron Albedo is personal anti-MSV tech.
-- **Pick by task:** kill several guns with MSV-through-Smoke, bypass a lane with Eclipse, or project White Noise only when an MSV/Marksmanship defender is decisive. Charontid's HD+/Sepsitor is **not simultaneously** the MSV3 gun profile. [Global value/ceiling guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Nourkias48/1** is among the most diverse solo attackers (WIP15 HD Total Control/Trinity, K1 gun, NCO, CC25 MA4/Protheion, Super-Jump, NWI): excels into central HI/TAG/hacker + CC interactions. Shepherd's counterargument: **Sheskiin** wins more ordinary gunfights with less delivery and is thus often superior as *pure attacker* despite having no scoring Specialist. **Caliban** or **Bit & KISS!25/.5** are the lower-cost tech/mission role-compression alternatives.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**T-Drone Guided16/1.5** exploits **Umbra/Bit/Victor hacking and R-/M-Drone/forward repeater** already protecting elite troops; **Dāturazi smoke + Vector/Overdron/Sheskiin** remains the conventional damage route. The best return for many opponents is an anti-hacker attack or Oblivion rather than a missile: don't build every turn around Spotlight's save plus another Guided FtF roll. **Nox Guided sniper** and T-Drone are separate unit profiles.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Avatar LT Strategos2** is apex *combat+command*, but for cheap operational support consider **11pt Ikadron Baggage+Repeater/LFT**, **8pt basic legal Baggage support REM**, or faction-specific **EVO14/.5** when non-hacker REMs/AD need it. **Nexus/Aspect command** may be a better Order investment than a support stack if list lacks REM guns. **Cyberplug Gearhead/Puzzler belongs to Next Wave where rostered**; don't import its legality into vanilla Combined from shared parent faction.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ## References
 
