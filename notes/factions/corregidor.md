@@ -156,7 +156,11 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 - **TAG-Treiber:** optional purchased specialist/support; TAGCom or pilot benefits are not free automatic TAG features.
 - **KHD / White Noise / Firewall:** protect a TAG whose Repeater, especially Iguana's, can let enemy hackers reach it.
 
-**Cross-sectorial comparison:** The [Vanilla Nomads guide](vanilla-nomads.md) evaluates **Szalamandra, Gator and Gecko** and [Robert’s Nomads faction focus](https://www.youtube.com/watch?v=dOtvw5FKOfo) discusses wider TAG choice. **Szalamandra and Go-Pod are not standard Corregidor picks.** Other Nomad sectorials’ Fireteam bonuses do not apply to CJC.
+**Cross-sectorial TAG comparison:**
+
+- **Szalamandra, Gator and Gecko:** discussed together in the [Vanilla Nomads guide](vanilla-nomads.md) and [Robert's broader Nomads faction focus](https://www.youtube.com/watch?v=dOtvw5FKOfo).
+- **Szalamandra and Go-Pod:** not standard Corregidor roster picks.
+- **Other sectorial TAG and Fireteam bonuses:** useful analytical comparisons, but no permission to import them into CJC.
 
 ## REMs: exact current options and synergies
 
@@ -175,7 +179,13 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 
 ### Vehicle check
 
-**No ordinary VH-class unit** appears in the September 2026 pinned Corregidor reference. **Go-Pod** is relevant to **Vanilla/Bakunin/Tunguska research**, but not selectable in regular CJC. Corregidor instead gets its distinctive “vehicle-scale” maneuver effect via **Gecko/Gator/Iguana TAGs** and Peripheral REMs, not a VH profile. Do not import a cross-sectorial vehicle simply because its faction is Nomads.
+**Vehicle and heavy-chassis legality in Corregidor:**
+
+- **Go-Pod:** useful background from Vanilla/Bakunin/Tunguska research, but **not** selectable in regular CJC.
+- **Gecko, Gator and Iguana:** distinct Corregidor TAG families with heavy-chassis mobility and direct-attack functions, not VH profiles.
+- **Peripheral REMs:** provide supplementary movement/control without changing VH legality.
+
+The September 2026 pinned CJC reference has **no ordinary VH-class unit**. Do not import one from another Nomad roster.
 
 ## Lieutenant, specialist and Order arrangements
 
