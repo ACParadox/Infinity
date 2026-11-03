@@ -1178,6 +1178,17 @@ Use it when the army already has an expensive main attack piece and needs anothe
 
 ---
 
+## Battle-report-derived army skeletons — no vanilla Fireteams (2026-11-03)
+
+**Hard rule:** the [current vanilla PanO reference](../../sectorials/panoceania/panoceania.md#fireteams) has **no standard Duo, Haris or Core**. Historical reports sometimes label pairs or Harises in vanilla: document their useful **unit choices**, but **do not put historical link bonuses or shared activation in a current N5.3 list**.
+
+- **Independent Joan command and counterattack shell — [#169 Borderbash champion](../battle-reports/161-170-n5-battle-report-tactical-analysis.md):** the player used **Joan v2 Lieutenant**, **two Helot FTOs** (Red Fury and SMG/LRL), **Karhu Feuerbach**, **Karhu Paramedic**, **Swiss Guard HMG Hidden Deployment**, **Banshee KHD**, **Magistrate CoC**, **two Fugazi**, **Teutonic Specialist**, **Motorized Bounty Hunter** and inexpensive specialist/support pieces. The winner called **Joan + two Helots a Haris** and **two Karhu a Duo** *under the historical rules*. **Neither is a legal current vanilla link**. Translate the strategy into **Inspiring Leadership/CoC command**, **independent Helot AROs**, **Swiss solo first strike** and **Karhu scorer/long gun each paid its own Orders**.
+- **Hidden Cutter with ordinary mission infantry — [#143 Corporate Appropriation](../battle-reports/141-150-n5-battle-report-tactical-analysis.md):** the game fielded **Cutter Hidden Deployment**, **Croc Man**, **Fugazi/cheap REMs** and mission support; **no Fireteam was declared**. PanO won **5–4**, but the Cutter struggled against a difficult enemy gun. The practical list rule is **buy enough independent specialists/defenders to finish after the TAG encounters a bad matchup**.
+- **Three-TAG extreme skew — [#214 Firefight](../battle-reports/211-220-n5-battle-report-tactical-analysis.md):** the spoken roster used **Cutter + Squalos Mk-II + Tikbalang Lieutenant** together, supported by **Pathfinder TacAware, Machinist, Flash REMs and Baggage**. These are **three separate TAGs, not a TAG Fireteam**. In a current list, audit the **Lt risk, hacking exposure and number of Regular scoring bodies** before imitating this intentionally unusual army. It is a useful **stress test**, not a reliable default.
+- **Jotum/forward-specialist example — [#192 The Dig](../battle-reports/191-200-n5-battle-report-tactical-analysis.md):** the roster used **Jotum**, **two Vargs**, **Shona**, **Liang Kai**, **Locust KHD**, **Pathfinder** and support. The video described the Vargs as linked; **that observation is not a current vanilla Fireteam permission**. Keep the lessons about independent midfield assault and late console switching, but spend separate Orders or choose **SWF** to field an actual Varg Fireteam.
+
+**Practical N5.3 list start:** select **one principal TAG or Swiss Guard**, **one independent midfield specialist/denial route**, **one protected LT/CoC and/or NCO economy**, **real Engineer/repair and cheap Regular Orders**. The #214 triple-TAG and #169 old-linked Joan variants are **different experiments**, not members of one combined “winning list.” No list in this section should be entered as a Core/Haris/Duo in a generic PanO roster.
+
 ## Source-derived consensus and disagreements
 
 ### Strong consensus
