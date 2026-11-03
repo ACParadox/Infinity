@@ -41,6 +41,8 @@ Related comparisons: [active-turn gunfighters](active-turn-gunfighters-apex-and-
 
 **Rule sources:** [Mimetism](../../rules/5b_Special%20Skills/Mimetism.md), [Nanoscreen](../../rules/5c_Equipment/Nanoscreen.md), [Marksmanship](../../rules/5b_Special%20Skills/Marksmanship.md), [MSV](../../rules/5c_Equipment/Multispectral_Visor.md), [Albedo](../../rules/5c_Equipment/Albedo.md), [Warhorse](../../rules/5b_Special%20Skills/Warhorse.md), [Surprise Attack](../../rules/5b_Special%20Skills/Surprise_Attack.md), [Combat Instinct](../../rules/5b_Special%20Skills/Combat_Instinct.md), [Sixth Sense](../../rules/5b_Special%20Skills/Sixth_Sense.md).
 
+**ARO caution:** Surprise Attack is an **Active Turn** skill; a Hidden Noctifer/Swiss Guard revealing in ARO still benefits from Mimetism, position and the surprise of *where* the ARO came from, **not** a Surprise Attack (-3) MOD.
+
 **Crucial distinction:** there are **three different kinds** of advantage:
 
 1. **Incoming-roll protection:** Mimetism, Nanoscreen, Albedo against qualifying enemies; and temporary Cover/range/Surprise.
@@ -138,7 +140,7 @@ These are **individual die target numbers, not a full Face-to-Face win percentag
 | **S / B** | **Avatar MULTI HMG 122/3** — [Combined](../../sectorials/combined-army/vanilla-combined-army.md) | BS15, Mimetism(-6), ARM9 and Strategos/Tactical Awareness: maximum expensive persistent ranged threat | E/M, hacking, disposable anti-armor, objectives/Order-pool pressure |
 | **S / B** | **Cutter MULTI HMG 97/2 (NCO)** — [PanO](../../sectorials/panoceania/panoceania.md) | BS15, ARM8, Mimetism(-6), Camo/Hidden and long-range attack | No free generic efficiency, huge investment and hacker/ARO sequencing |
 | **S / C** | **Sphinx Spitfire 93/2** — [Shasvastii](../../sectorials/combined-army/shasvastii.md) | Mim6, Hidden/Camo, 15-15, Climbing Plus and remote durability; terrifying selected flank | Expensive and **Spitfire is not an AP HMG**; protected heavy armor can resist |
-| **A+ / S (defence)** | **Noctifer Missile Launcher 30/1.5** — [Onyx](../../sectorials/combined-army/onyx.md) | Mim6 + Hidden + Surprise creates a threatening first ARO/reveal without paying premium HI points | One wound, limited Disposable? **Not** inherently Disposable: fight range/vision, force it to reveal or bypass its lane |
+| **A+ / S (defence)** | **Noctifer Missile Launcher 30/1.5** — [Onyx](../../sectorials/combined-army/onyx.md) | Mim6 + Hidden Deployment create a threatening *unseen* missile ARO/reveal without paying premium HI points | W1; MSV2/appropriate range, forcing a reveal or bypassing the lane. **Surprise Attack does not apply in ARO** |
 | **A+ / A+** | **Hassassin Nadhir Thunderbolt 26/0 / AP MMR 26/.5** — [Bahram](../../sectorials/haqqislam/hassassin-bahram.md) | Mim6 + Hidden + Forward Deployment; efficient reserve shot and middle-lane presence | W1, BS12; no claim that these profiles are full-range HMG equivalents |
 | **A+ / A** | **Kusanagi AP Spitfire 35/1.5** — [Bakunin](../../sectorials/nomads/bakunin.md) | BS14, Mim6, NWI/Immunity and a real active midrange gun | Cannot handle distant HMG/ML bands universally; expensive 1.5 SWC |
 | **A+ / A** | **Omega HMG 42/1.5** — [O-12](../../sectorials/o-12/o-12.md) | BS14, Mim6, 2W/ARM4, comparatively affordable HMG bands | No native MSV; enemy visor or hacking negates the assumed easy duel |
