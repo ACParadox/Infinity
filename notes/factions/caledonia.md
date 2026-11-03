@@ -31,6 +31,20 @@
 - **Heavy Caledonians Haris/Duo:** **Mormaer and/or Highlander Grey** form the required-choice foundation, with an eligible **Scot Guard FTO** as a distinct long-gun/specialist option.
 - **Wulver Core/Haris/Duo:** **Wulver** anchors, with eligible **Scot Guard FTO** and **Cadin Wildcard** for a violent room-clearing and scoring module. **Volunteer + Highlander Grey** can instead form a cheaper conventional Core.
 
+### Battle-report audit — Wallace room defense and Mormaer support
+
+The [numbered N5 reports](../battle-reports/n5-battle-reports-and-tournament-reports.md) contain **Caledonian tactical evidence, but no fully confirmed five-model Scottish Core**. Rebuild using the [current Caledonian Fireteam chart](../../sectorials/ariadna/caledonian-highlander-army.md#canonical-fireteam-chart), not proximity of figures on the board.
+
+| Source | Actual Scottish list / Fireteam evidence | List-building implication |
+|---|---|---|
+| [#086 Critical Intervention vs White Banner](../battle-reports/081-090-n5-battle-report-tactical-analysis.md#L148) | Defending roster: **Wallace + 2 Galwegians**, **Mormaer HMG + Isobel** (*probable Duo*), **Kaden/Wulver**, **McMurrough**, **2 Cameronians**, **Uxía**, Wardriver Disco and support. **No explicitly declared Wallace/Galwegian Core.** | Defend a central room through **doorway Smoke, templates, hard CC and a heavy ranged backstop**; Mormaer+Isobel is a plausible current-chart legal **Heavy Caledonians Duo**, but still not a confirmed played pair. Special defender deployment rules **cannot be copied to ordinary missions**. |
+| [#021 Corregidor tournament report](../battle-reports/021-030-n5-battle-report-tactical-analysis.md#L27) | Opposing **Wallace, McMurrough, Cameronians, Mormaer/Isobel** pressure, but **no full Scottish starting Fireteam** recovered. | Reinforces the **warband wave + heavy-gun backbone** concept, not a fixed 300-point export. Do not spend all regular Orders killing if late specialist/mission reach is missing. |
+| [#016 multi-game German podcast](../battle-reports/011-020-n5-battle-report-tactical-analysis.md#L259) | Mentions **Wallace, Mormaer and a Level-2 Duo** plus dog/wolf threats; **second Duo member and side allocation are unclear**. | Do not invent a precise Mormaer Duo or combine distinct speakers' accounts into one played list. |
+
+**Mission-specific trial shell:** Wallace LT + *some* Galwegian/Cameronian/McMurrough close-defense bodies + **Mormaer/Isobel candidate Duo** + Uxía/SAS objective work and a surviving endgame specialist. The right number of dogs is constrained by **15 slots, points, and remaining scoring orders**. For more open terrain, **Volunteer/Highlander Grey Core** or **Wulver/Scot Guard FTO** are current-chart options **to test**, not reported #086 Fireteams.
+
+**Do not overstate the evidence:** #086 does **not** establish a played five-Galwegian Core, Wulver Core or universal Caledonia advantage. Its room-defense mission is asymmetric.
+
 ### Unusual access, gaps and trade-offs
 
 - **No standard TAG or VH-class Vehicle**, but unusually deep **cheap Smoke, Dog-Warrior-style assault and AP/T2/CC** answers. Its **5-point Galwegian + 6-point Volunteer + Wallace** economy is the more distinctive capability.
