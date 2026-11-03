@@ -66,7 +66,7 @@ The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](airbor
 - **Caskuda**
 - Other fast/hidden attackers
 
-The comparisons distinguish **delivery reliability, lethal ceiling, post-entry Order economy and useful trades**. The **current Combat Jump rule fails to the own-DZ table edge as a Model**, not scatter. Continue using the doctrine below for breach and layered DZ defense; use the tier guide for current profiles and transcript-backed opposing opinions.
+The comparisons distinguish **delivery reliability, lethal ceiling, post-entry Order economy and useful trades**. Under the **current Combat Jump rule**, a failed roll places the trooper as a **Model at its own DZ table edge**; it does not scatter. Continue using the doctrine below for breach and layered DZ defense; use the tier guide for current profiles and transcript-backed opposing opinions.
 
 
 Deployment-zone attacks are not one tactic. They are a family of penetration methods that defeat normal deployment geometry in different ways.
