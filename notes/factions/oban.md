@@ -2,11 +2,11 @@
 
 **Reference archive:** [Ōban sources, battle-report cross-references and purchasing audit](references/oban_refs.md). **Authoritative roster and Fireteams:** [Ōban N5.3 sectorial reference](../../sectorials/jsa/oban.md).
 
-## Overview
+### Overview
 
 **What Ōban does exceptionally well:** deliver high-end close-combat threats and resilient objective specialists *through* dangerous firing lanes, then keep the midfield difficult to reclaim. Its signature is the combination of **projected Eclipse (Tankō Disco Baller), self-carried Eclipse (Shikami), normal Smoke, Hidden Deployment/Infiltration assassins, and linkable two-/three-STR mission pieces**. This is an army for **route creation → selective assassination or scoring → durable position holding**, not a faction that must win every fight in melee.
 
-### Whole-game standouts — apex versus value
+#### Whole-game standouts — apex versus value
 
 The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-faction shortlists**, inferred from the repository's N5.3 [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective-holder](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), and [command](../list-building/command-units-apex-and-value.md) comparisons. They are **not official placements, exhaustive statistical rankings, or win-rate data**; rank *within the named job*, never as overall best units in Infinity.
 
@@ -25,7 +25,7 @@ The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-
 
 **Concealment caveat:** **Shinobu, Oniwaban, Saito and Ninja have Hidden Deployment + Infiltration, *not Impersonation*.** Ōban does **not** have an ordinary-roster Impersonation assassin analogous to a Fiday or Speculo Killer. Its assassins threaten from a concealed pre-positioned starting point; they do not bypass deployment screening by using the Impersonation State.
 
-### Particularly strong Fireteam combinations
+#### Particularly strong Fireteam combinations
 
 - **Domaru Haris — Domaru LT (+1 Order, 23/0) + Daiyōkai HMG NCO (50/1) + Tankō Disco (19/0):** unusually clean **LT-order economy → NCO gun → projected Eclipse → serious close combat**. Potent but expensive and vulnerable to hacking; not an automatic default.
 - **Ōban Haris — Shikami + Karakuri + Karakuri:** unusual combination of **mobile Mimetism(-6)/Eclipse vertical scorer** with **two STR3, 0-SWC specialist anchors**. A scoring/holding package, rather than a conventional long-range gun link. One Shikami + one Karakuri as Duo is a leaner alternative.
@@ -35,7 +35,7 @@ The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-
 
 All five are **legal construction concepts, not free-form mix-and-match**: Ōban allows **1 Core, 1 Haris, and multiple Duos**; check each family, required source member, FTO and maximum count in the [canonical Fireteam chart](../../sectorials/jsa/oban.md#canonical-fireteams).
 
-### Unusual access, gaps and trade-offs
+#### Unusual access, gaps and trade-offs
 
 - **Eclipse and Disco:** exceptional access for a JSA assault army: **Tankō Disco Baller 19/0**, plus **Shikami Eclipse Grenades**. **Eclipse blocks even normal MSV sight**; the Disco Ball is deployed equipment with limited shots and possible Deactivator reactivation, **not ordinary Smoke**, and cannot be shot through by friendly Rui Shi MSV2.
 - **Ordinary Smoke and visors:** **Kuroshi** and **Garon** Smoke GL; **Yojimbo, Shinobu, Saito and Yuan Yuan** Smoke sources. **Rui Shi MSV2 Spitfire 23/1** and **Kempeitai MSV2 Shock Marksman 22/1** can exploit *ordinary* Smoke; **Lù Duān MSV1** offers a separate Holoprojector/anti-Mimetism angle. Shooting through Smoke and blocking all sight with Eclipse are **two different game plans**.
@@ -46,7 +46,7 @@ All five are **legal construction concepts, not free-form mix-and-match**: Ōban
 
 **Practical identity:** start with a **vision-control plan**, **one reliable conventional shooter**, **one or two mission routes**, and **a cheap command backbone**; then add the assassin or deluxe Fireteam that serves the mission.
 
-## N5.3 quick read — decisions first (transcript update: 2026-10-23)
+### N5.3 quick read — decisions first (transcript update: 2026-10-23)
 
 | Decide | Practical answer and *why* | Don't do this |
 |---|---|---|
@@ -59,24 +59,7 @@ All five are **legal construction concepts, not free-form mix-and-match**: Ōban
 
 **Quick starting modules:** (A) **Domaru LT + Daiyōkai NCO + Tankō Disco**; (B) **Shikami + one/two Karakuri**, plus a separate long gun; (C) **O-Yoroi + Kempeitai CoC + Tokusetsu/Genbutai Engineer + Yáozăo + Robio/Pangguling**; (D) **Kuroshi + Aragoto KHD/BSG + Rui Shi**, if there is room for the large bases. Each is **a candidate module, not an automatic full list**. Ōban allows **1 Core, 1 Haris and unlimited Duos**; check the actual required-member and FTO rules in the [current roster](../../sectorials/jsa/oban.md#canonical-fireteams).
 
-## Transcript-backed source takeaways — updated 2026-10-23
-
-The original source titles, video/podcast links and numbered index are in [Ōban references — primary source order](references/oban_refs.md#best-transcript-backed-source-order--updated-2026-10-23). Match the `Ref #` below to that index.
-
-| Ref # | Best reason to use it | Evidence caveat |
-|---|---|---|
-| 1 | Best **single sectorial overview**: why Tankō Disco is better than raw BS13, how to use Ryūken Decoy/Minelayer, and why a linked **Kuroshi + Aragoto + Rui Shi** often does more ranged work than a costly all-samurai team. Strong *pro* argument for the MSV2 Rui Shi smoke-shooting Haris and *against* overpaying Musashi just for another CC killer. | **YouTube MCP transcript reviewed**; original N5 snapshot, not September 2026 Army. |
-| 2 | Three distinct list constructions, including **Shinobu / Shikami / Yuan Yuan** aggression, **two O-Yoroi** as an alternative, cheap **Garon Smoke GL**, **Pangguling Baggage**, and Karakuri strength. Hosts debate whether extra Musashi is necessary and how many elite CC pieces fit. | **YouTube + Podcast MCP transcripts reviewed.** Auto-captions garble names; older list codes and exact availability must be rechecked. |
-| 3 | Counterpoint on **Shikami Duo versus a single Shikami**, high cost of good long-range HMG alternatives, HI hacker exposure, static **Garon** AROs, and whether cheap REMs deserve slots. | **YouTube MCP transcript reviewed**, machine-translated/garbled: use for high-level opinions, **not** quotations/profile numbers. |
-| 4 | **Most recent shared-JSA competition account:** the winner credits cheap **Tankō Disco** with opening objective routes; reports strong **Karakuri Mk12** when suitably placed; describes spending substantial orders on *reloading Disco* and a mission win using Musashi for objectives rather than gratuitous kills (~18–22, 33–34, 62–64min). | **Podcast MCP transcript reviewed. Winner played *Vanilla JSA*, not Ōban.** Its Tankō/Karakuri principles transfer, but Hatamoto/Iōann Bann, JSA Fireteams/AVA and exact list construction may not. One player's tournament account ≠ global pick statistics. |
-| 5 | **Opposing rankings:** 2025 presenters think Ōban/Shinden closely matched, with Ōban's Hidden tools less dependent on one hackable gun. Summer 2026 discussion puts JSA Ōban in a **solid middle B-tier**, notes Tankō mono CC can disappoint and **cheap Domaru** may make an elite Musashi delivery unnecessary. | **Both YouTube MCP transcripts reviewed.** Tier commentary is subjective and 2026 video predates pinned September rules. |
-| 6 | **Best shared-faction Rui Shi context**: MSV2 Spitfire as smoke-shooting gun versus MSV1 Red Fury/Mine Dispenser as cheaper suppression/control; explores real **EVO, Engineer, group-slot and order overhead** of supporting REMs in JSA and other factions. | **YouTube MCP transcript reviewed.** Yu Jing/Shinden/Vanilla comparisons are *roles*, not transfer of links or AVA into Ōban. |
-| 7 | Actual table examples: **O-Yoroi LT + CoC + Shikami + Ryūken HRL + Garon/Robio/Pangguling** versus PanO, and TAG-versus-TAG terrain/activation trade-offs against Corregidor. The Ōban player explicitly wants O-Yoroi advancing into Suppressive Fire while Shikami runs specialist missions. | **Both YouTube MCP transcripts reviewed**, single games with visible tactical mistakes; do not generalize results into measured win rates. |
-| Historical | Historical opposing-player viewpoint, shared REM/TAG principles and cross-faction **opportunity costs**. | **Podcast MCP transcripts checked.** N4 JSA is not a modern Ōban guide; no reliably attributable O-Yoroi-specific ranking was recoverable from E142 transcript, so it is **not** cited as a Gorgos/O-Yoroi head-to-head. |
-
-**Evidence precedence:** committed N5.3 source for exact rules/AVA/profiles; actual video/podcast transcript for explicitly expressed views; battle reports for the specific games they show; interpretation marked as such. The 2025 videos generally **predate** the September 2026 roster; strong tactics can survive updates even where point values do not.
-
-## Core identity — controlled aggression, not melee spam
+### Core identity — controlled aggression, not melee spam
 
 The strongest repeated current lesson is:
 
@@ -92,22 +75,7 @@ This is important because many Ōban pieces tempt the player to keep attacking u
 
 The best current lists also tend to be **less ninja-heavy than the faction fantasy suggests**. One Hidden Deployment specialist or assassin is common. Three expensive hidden assassins is a deliberate skew archetype and can starve the visible army of Orders.
 
-## Core list-building questions
-
-Before adding individual units, answer these:
-
-1. **Where are my 8–10 spendable Regular Orders going?**
-2. **How do I cross or suppress the first dangerous firing lane?**
-3. **What is my conventional ranged opener?**
-4. **What will occupy the midfield once I arrive?**
-5. **Do I need one Hidden scalpel, and what job does it perform?**
-6. **How am I protecting a HI-heavy plan from hacking?**
-7. **Which pieces can contribute from Group 2 without consuming many Orders?**
-8. **Am I over-investing in one Fireteam?**
-9. **Does the mission want Yojimbo violence or Kuroshi specialist mobility?**
-10. Only then add extra samurai/ninja toys.
-
-## Most repeated go-to pieces
+### Most repeated go-to pieces
 
 | Unit | Typical role | Why it repeatedly appears |
 |---|---|---|
@@ -124,7 +92,7 @@ Before adding individual units, answer these:
 | **Yuan Yuan** | cheap smoke/trade pressure | 6–7 point Irregular/Impetuous disposable piece that partly self-funds |
 | **Kuroshi Rider** | fast specialist/smoke | WIP14 FO, Smoke GL, Dogged and extreme mobility |
 
-# Architecture A — Domaru LT / Daiyōkai NCO assault engine
+## Architecture A — Domaru LT / Daiyōkai NCO assault engine
 
 The most obvious Ōban command package is:
 
@@ -145,7 +113,7 @@ The interaction is simple:
 3. Tankō provides a way to deny dangerous LoF rather than forcing every advance through a normal gunfight.
 4. Once the team reaches useful distance, Domaru/Tankō become much more dangerous than their conventional shooting suggests.
 
-### Important qualification — this is an architecture, not an automatic default
+#### Important qualification — this is an architecture, not an automatic default
 
 Current player discussion contains a real disagreement about this package.
 
@@ -168,7 +136,7 @@ Therefore:
 
 > **Use Domaru LT + Daiyōkai when you deliberately want an NCO assault engine. Do not assume it is the universally best LT shell.**
 
-## Daiyōkai in Keisotsu — the important alternative
+### Daiyōkai in Keisotsu — the important alternative
 
 The Daiyōkai is also legal in a Keisotsu Fireteam.
 
@@ -188,7 +156,7 @@ A useful conceptual split is:
 - **Daiyōkai in Keisotsu:** ranged anchor.
 - **Daiyōkai in Domaru:** NCO assault-engine gun.
 
-# Architecture B — cheap Domaru attack package
+## Architecture B — cheap Domaru attack package
 
 Current Domaru Fireteams allow Domaru plus Oyama, Tankō, Daiyōkai and Wildcards.
 
@@ -211,7 +179,7 @@ This package is allowed to trade upward and die after doing something important.
 
 That can be strategically better than risking 100–130 points in one Fireteam.
 
-# Architecture C — “Shika-kuri” midfield fortress
+## Architecture C — “Shika-kuri” midfield fortress
 
 The IGL 2025/26 “Shika-kuri” list provides the strongest evidence for a second major competitive Ōban architecture.
 
@@ -234,9 +202,9 @@ It demonstrates that Ōban can play as a **midfield fortress**:
 
 The Shikami is not required to make a heroic Turn-1 CC attack. Karakuri do not need to sprint into the enemy DZ. The list is effective because the opponent must solve multiple durable, specialist-capable bodies under difficult visibility and ARO conditions.
 
-## Shikami + Karakuri division of labour
+### Shikami + Karakuri division of labour
 
-### Shikami
+#### Shikami
 
 Current strengths:
 
@@ -256,7 +224,9 @@ Its primary job is to **make inaccessible positions accessible**:
 - reach the objective;
 - force a short-range interaction only when needed.
 
-### Karakuri
+**Toolbox and scoring trade-off:** The **42/0 Shikami** is an exceptional self-contained scorer and CC/route-bypass piece: Forward Deployment, Eclipse, Climbing Plus, Super-Jump, Mimetism(-6), 2W and Martial Arts. **47/0 MULTI Rifle** pays 5 points for a credible gun and D-Charges. Prefer Shikami when *getting to* a dangerous, elevated objective is the challenge; **31–38pt Karakuri** when *surviving on* the objective matters more. [Cross-faction toolbox apex/value and opposing-transcript guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+#### Karakuri
 
 Current strengths:
 
@@ -274,7 +244,7 @@ A better framing than “Shikami with durable escorts” is:
 
 > **Karakuri establish and hold the position; Shikami creates the movement and visibility conditions that let the team get there.**
 
-### Double Karakuri is legitimate
+#### Double Karakuri is legitimate
 
 The IGL list uses multiple Karakuri, confirming that duplication is not wasted simply because both are durable specialists.
 
@@ -283,7 +253,7 @@ Useful pairing:
 - **Karakuri Mk12** — main conventional midrange gun.
 - **Karakuri E/Mitter / cheaper profile** — durable specialist and heavy-unit control piece.
 
-# Shikami Duo / double Shikami
+## Shikami Duo / double Shikami
 
 Current Ōban Fireteams allow up to two Shikami in an Ōban Duo/Haris.
 
@@ -299,9 +269,9 @@ It is legitimate, but very Order-hungry.
 
 > **Double Shikami is a list architecture, not two good profiles casually added to a normal list.**
 
-If two Shikami are central, build the main combat group specifically to feed them.
+If two Shikami are central, build the main combat group specifically to feed them. Double Shikami adds redundancy but also concentrates 84–94 points and activations into the same mission role. **Shepherd and Tactical Awareness differ on when that pays**; compare a single Shikami backed by a **19/0 Disco Tankō** before committing to the Duo.
 
-# Combat-group architecture — particularly important in Ōban
+## Combat-group architecture — particularly important in Ōban
 
 A repeated current lesson is that Ōban's best models are often **Order hungry**.
 
@@ -309,7 +279,7 @@ Therefore:
 
 > **Group 1 should contain the pieces that actually need to move. Group 2 should contain pieces that create value without demanding many Regular Orders.**
 
-### Good Group 1 pieces
+#### Good Group 1 pieces
 
 - Shikami;
 - Karakuri;
@@ -319,7 +289,7 @@ Therefore:
 - active Rui Shi/Aragoto package;
 - main mission specialists.
 
-### Good Group 2 pieces
+#### Good Group 2 pieces
 
 - Ryūken HRL;
 - Warcor;
@@ -330,7 +300,7 @@ Therefore:
 
 The IGL Shika-kuri list demonstrates this well: the 10-Regular main group contains the expensive active pieces, while a small secondary group contains two Ryūken HRLs and a Warcor.
 
-## Redundancy versus Order economy
+### Redundancy versus Order economy
 
 Current lists demonstrate that duplication is normal:
 
@@ -357,7 +327,7 @@ More demanding duplicates:
 - Oniwaban;
 - premium bike modules.
 
-# Visibility control — the faction's real delivery system
+## Visibility control — the faction's real delivery system
 
 Ōban has several different visibility tools:
 
@@ -377,9 +347,9 @@ Typical sequence:
 3. reach the objective/corner/room;
 4. force the opponent to interact at ranges where Domaru/Tankō/Shikami/Karakuri are uncomfortable to attack.
 
-Ōban can also build a classic Smoke/MSV axis with Rui Shi, but that is only one application.
+Ōban can also build a classic Smoke/MSV axis with Rui Shi, but that is only one application. **Tankō Disco and Shikami Eclipse deny vision even to normal MSV**, while **Yojimbo/Kuroshi ordinary Smoke + Rui Shi MSV2** supports shooting through Smoke. A screen that enables an objective or CC delivery is often more valuable than a smoke-shooting duel. [Global N5.3 vision-control tiers and counterarguments](../list-building/vision-control-units-apex-and-value.md).
 
-# Domaru threat range — use Dodge and positioning, not only Berserk
+## Domaru threat range — use Dodge and positioning, not only Berserk
 
 Current player discussion emphasizes that Domaru control more space than their direct Berserk range suggests.
 
@@ -393,7 +363,7 @@ Therefore a Domaru standing near an objective can be valuable even if it never i
 
 The opponent must respect the **future cost** of entering that area.
 
-# Tankō Disco Baller — closest thing to structural glue
+## Tankō Disco Baller — closest thing to structural glue
 
 Current Tankō profiles are cheap 2W HI with strong disposable weapons and monofilament melee.
 
@@ -414,7 +384,9 @@ Useful roles:
 
 Taking **two Disco Tankō** is a legitimate current pattern when the rest of the list still has enough Orders.
 
-# Banzai — Musashi delivery package
+**N5.3 vision-control evidence and cost:** A legal **19/0 Tankō Disco Baller + Deactivator** Fireteam can project an Eclipse screen over a gunline for **Domaru/Mushashi assault or Karakuri scoring**. Shepherd argues that this solves the hardest part of melee delivery; the **MetaChemistry #153 (October 2026) winner, playing Vanilla JSA**, credits the Disco but reports substantial Orders spent reloading it. This is a powerful route-building tool, **not free/repeatable Eclipse every Order**. [Global apex/value comparison](../list-building/vision-control-units-apex-and-value.md).
+
+## Banzai — Musashi delivery package
 
 Current Banzai:
 
@@ -438,7 +410,7 @@ A third Tankō can create a Haris and add another disposable ranged threat.
 
 Do not use the normal 21-point Irregular Mushashi profile for this; it is not Fireteam legal in current Ōban.
 
-# Aragoto / Kuroshi / Rui Shi speed module
+## Aragoto / Kuroshi / Rui Shi speed module
 
 Current Aragoto Fireteams may contain:
 
@@ -446,7 +418,7 @@ Current Aragoto Fireteams may contain:
 - Kuroshi Rider;
 - one Rui Shi.
 
-## Full tool Haris
+### Full tool Haris
 
 > **Kuroshi + Aragoto KHD + Rui Shi MSV2**
 
@@ -470,13 +442,13 @@ The main limitation is **table geometry**. Three large motorcycle/REM silhouette
 
 Treat this as a terrain-selected package.
 
-## Cleaner bike option
+### Cleaner bike option
 
 > **Kuroshi + Aragoto Spitfire Duo**
 
 This retains speed, Smoke and useful shooting while being much easier to maneuver.
 
-## 13-point Aragoto Boarding Shotgun — sleeper profile
+### 13-point Aragoto Boarding Shotgun — sleeper profile
 
 This profile is useful as:
 
@@ -488,11 +460,11 @@ This profile is useful as:
 
 It is one of the faction's better low-cost profiles that is easy to overlook.
 
-# Kuroshi versus Yojimbo
+## Kuroshi versus Yojimbo
 
 Both provide speed and visibility control, but they solve different problems.
 
-## Motorized Yojimbo
+### Motorized Yojimbo
 
 Best when the list wants:
 
@@ -503,7 +475,7 @@ Best when the list wants:
 
 His major strategic risk is **overspending Orders** after he has already accomplished enough.
 
-## Foot Yojimbo
+### Foot Yojimbo
 
 More table-dependent:
 
@@ -514,7 +486,7 @@ More table-dependent:
 
 But slower and lacking the bike's defensive benefits.
 
-## Kuroshi
+### Kuroshi
 
 Best when the list wants:
 
@@ -528,13 +500,13 @@ Decision rule:
 
 > **Need disposable violence/Koala → Yojimbo. Need fast mission work + Smoke → Kuroshi.**
 
-# Hidden Deployment — one scalpel is often enough
+## Hidden Deployment — one scalpel is often enough
 
 Current competitive/current-player material suggests that generic Ōban should not automatically spam Shinobu/Oniwaban/Ninja.
 
 Too many Hidden Deployment pieces can create an apparently high model count but a weak visible Order pool.
 
-## Ninja KHD — generic competitive hidden piece
+### Ninja KHD — generic competitive hidden piece
 
 A strong default hidden role because it can:
 
@@ -547,7 +519,7 @@ A strong default hidden role because it can:
 
 For a generic tournament list, this may be the best **single hidden utility piece**.
 
-## Oniwaban — assassination / latent threat
+### Oniwaban — assassination / latent threat
 
 The normal Oniwaban is still excellent.
 
@@ -562,7 +534,7 @@ An unrevealed Oniwaban can:
 
 Sometimes remaining Hidden for two turns is correct.
 
-## Shinobu — premium specialist assassin, not an automatic upgrade
+### Shinobu — premium specialist assassin, not an automatic upgrade
 
 Shinobu offers exceptional infiltration reliability, MA5 and Smoke, but costs significantly more.
 
@@ -575,15 +547,15 @@ Use when the mission/matchup rewards:
 
 Do not take her merely because she is “the best ninja.”
 
-## Hidden Lieutenant options
+### Hidden Lieutenant options
 
 Shinobu LT and Oniwaban LT are expert/matchup-specific tools, not generic defaults.
 
 They can be attractive in missions where hiding the Lieutenant is unusually valuable, but create command-economy and Loss-of-Lieutenant risks.
 
-# Ryūken Unit-9
+## Ryūken Unit-9
 
-## HRL — first defensive copy is easy to justify
+### HRL — first defensive copy is easy to justify
 
 Current profile combines:
 
@@ -598,7 +570,7 @@ The key advantage is not only the gun.
 
 It creates **deployment ambiguity** and forces the opponent to solve marker/mine positions before freely moving.
 
-## Two HRLs
+### Two HRLs
 
 The IGL list uses two, confirming that duplication is legitimate.
 
@@ -610,11 +582,13 @@ Decision rule:
 
 > **First Ryūken HRL: easy inclusion. Second: excellent if the main Order economy is already healthy.**
 
-## Ryūken KHD
+### Ryūken KHD
 
 Less universally attractive than the HRL, but useful when the list needs another midfield specialist/hacker rather than more passive defence.
 
-# Karakuri — stronger than the profile initially looks
+**Decoy/Minelayer as a force multiplier:** Ryūken markers can tax enemy Discover and protect a genuine HRL ARO, but **fake Decoy markers provide neither independent AROs nor Orders** and are not a way to add a Fireteam member. [Global force-multiplier tiers and practical counters](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Karakuri — stronger than the profile initially looks
 
 Karakuri are not flashy conventional attackers, but the combination of:
 
@@ -635,7 +609,7 @@ They are especially useful when the expected opponent relies on:
 
 The practical value is **Orders-to-remove**, not only raw shooting.
 
-# Keisotsu — cheap backbone with real jobs
+## Keisotsu — cheap backbone with real jobs
 
 Current useful profiles include:
 
@@ -658,7 +632,7 @@ A practical shell can be:
 
 This leaves the Fireteam capable of meaningful work after the expensive attack pieces die.
 
-# Kempeitai — command insurance and cheap Wildcard utility
+## Kempeitai — command insurance and cheap Wildcard utility
 
 Current important profiles:
 
@@ -677,9 +651,9 @@ The **17-point CoC** profile is the natural first look when using:
 
 Kempeitai are unrestricted Wildcards and count as Keisotsu, so they are easy to place structurally.
 
-# Lieutenant hierarchy
+## Lieutenant hierarchy
 
-## 1. Keisotsu LT — safest cheap baseline
+### 1. Keisotsu LT — safest cheap baseline
 
 Current options include a 9-point AP Rifle LT and a 10-point Combi LT.
 
@@ -689,7 +663,7 @@ The saved points are often more valuable than a premium command piece.
 
 An identical or similar Keisotsu shell also prevents the LT from being completely trivial to identify.
 
-## 2. Domaru LT +1 Order — NCO economy LT
+### 2. Domaru LT +1 Order — NCO economy LT
 
 23 points.
 
@@ -701,7 +675,7 @@ Take when:
 
 Do not take merely because +1 Order is intrinsically good.
 
-## 3. Oyama LT — active combat command
+### 3. Oyama LT — active combat command
 
 28 points.
 
@@ -715,7 +689,7 @@ Oyama provides:
 
 Use when Oyama is already part of the active package and the list wants the LT itself to contribute materially.
 
-## 4. Kuroshi LT — mobile mission command
+### 4. Kuroshi LT — mobile mission command
 
 26 points, no SWC.
 
@@ -725,7 +699,7 @@ Useful when:
 - the list already wants Kuroshi;
 - the player accepts a mobile/exposed LT.
 
-## 5. O-Yoroi LT — TAG architecture
+### 5. O-Yoroi LT — TAG architecture
 
 Same 78-point chassis as the non-LT O-Yoroi.
 
@@ -740,11 +714,11 @@ Pair naturally with:
 
 Important current rule: O-Yoroi itself does **not** have normal Ōban Fireteam access.
 
-## 6. Shinobu / Oniwaban LT — mission-specific expert tricks
+### 6. Shinobu / Oniwaban LT — mission-specific expert tricks
 
 Use only when the mission specifically rewards an exceptionally difficult-to-locate LT and the list can tolerate the hidden command structure.
 
-# Fireteam families
+## Fireteam families
 
 Current chart limits:
 
@@ -752,7 +726,7 @@ Current chart limits:
 - 1 Haris;
 - effectively unlimited Duos.
 
-## Keisotsu
+### Keisotsu
 
 Types: Haris, Core.
 
@@ -769,7 +743,7 @@ May include:
 
 Use when the list wants a **cheap structural backbone** around one important premium member.
 
-## Domaru
+### Domaru
 
 Types: Duo, Haris, Core.
 
@@ -785,7 +759,7 @@ May include:
 
 Use for conventional HI attack packages and NCO/LT-order engines.
 
-## Ōban
+### Ōban
 
 Types: Duo, Haris.
 
@@ -808,7 +782,7 @@ Best concepts:
 - double Shikami;
 - Karakuri-heavy durable Haris.
 
-## Banzai
+### Banzai
 
 Types: Duo, Haris.
 
@@ -818,7 +792,7 @@ Miyamoto Mushashi may join **only as the FTO profile** and counts as Tankō.
 
 Use as a delivery mechanism rather than a shooting team.
 
-## Aragoto
+### Aragoto
 
 Types: Duo, Haris.
 
@@ -832,15 +806,15 @@ May include:
 
 Best when table geometry allows large fast bases to move cleanly.
 
-# Lesser-used / sleeper pieces
+## Lesser-used / sleeper pieces
 
-## 13-point Aragoto BSG
+### 13-point Aragoto BSG
 
 Cheap Regular Order with exceptional mobility and real close-range threat.
 
 Useful as a low-cost flank piece rather than another stationary order body.
 
-## Lù Duān
+### Lù Duān
 
 The 20-point Thunderbolt / E/M Carbine / E/M Mine profile offers:
 
@@ -852,7 +826,7 @@ The 20-point Thunderbolt / E/M Carbine / E/M Mine profile offers:
 
 Useful when the list already has Smoke but does not want to spend Fireteam structure on a Rui Shi.
 
-## Garon Smoke GL
+### Garon Smoke GL
 
 16 points / 0 SWC:
 
@@ -863,7 +837,7 @@ Useful when the list already has Smoke but does not want to spend Fireteam struc
 
 A strange but useful support piece that can create visibility conditions without demanding a premium model.
 
-## Samsa
+### Samsa
 
 26 points:
 
@@ -876,7 +850,7 @@ A strange but useful support piece that can create visibility conditions without
 
 Useful independent midfield gun/specialist when the list wants a non-HI threat.
 
-## Genbutai
+### Genbutai
 
 Current profiles are decent, including a 29-point NCO Red Fury, but the main problem is role competition.
 
@@ -884,9 +858,9 @@ Take when a specific profile solves a structural problem, not simply because it 
 
 The NCO Red Fury can support an unusual Domaru LT economy when the list does not want Daiyōkai, but it is not a default pick.
 
-# Units that are easy to overvalue
+## Units that are easy to overvalue
 
-## Saito Tōgan
+### Saito Tōgan
 
 Still a capable assassin and Smoke source, but squeezed by:
 
@@ -896,13 +870,13 @@ Still a capable assassin and Smoke source, but squeezed by:
 
 Take when his specific combination of Hidden Deployment + Smoke + EXP CC is needed.
 
-## Too many Hidden Deployment assassins
+### Too many Hidden Deployment assassins
 
 Shinobu + Oniwaban + multiple Ninjas can look thematic but risks creating a weak visible Order pool.
 
 One hidden piece is often enough unless the mission/list is specifically built around information asymmetry.
 
-## Deluxe all-samurai Fireteam
+### Deluxe all-samurai Fireteam
 
 A 100+ point Domaru/Oyama/Daiyōkai/Tankō block can be powerful, but it also:
 
@@ -912,10 +886,6 @@ A 100+ point Domaru/Oyama/Daiyōkai/Tankō block can be powerful, but it also:
 - makes a single bad approach disproportionately costly.
 
 Small teams and independent modules are often healthier.
-
-# TAG / REM / Vehicle focus — what Ōban actually owns (N5.3)
-
-**There is NO VH-class Vehicle in Ōban's current 35-unit standard roster.** Aragoto/Kuroshi/Motorized Yojimbo ride **Motorcycles** and are not Vehicle-class aerial platforms. The **O-Yoroi is the sole TAG *type*** (AVA **2**, not two different TAG units), and **Karakuri is HI with STR3/Remote Presence, not a TAG/REM**. **Shindenbutai's Mechazoid and Triphammer are *not* Ōban units.** Vanilla JSA has its own O-Yoroi/Mechazoid access and different Fireteams: none of those external restrictions or bonuses carry over automatically.
 
 ## TAG choice — O-Yoroi and support
 
@@ -943,9 +913,13 @@ Small teams and independent modules are often healthier.
 | **Uran 16/1.5 Guided Missile** (AVA1) | Punishes a **Targeted** enemy without line of sight, including high-ARM targets that pure samurai fighting cannot safely reach. | Requires actual Targeted setup through Ōban's **thin projected network**, 1.5 SWC and several orders. **Don't buy this just because Ōban has a Guided missile**; often an extra gun/specialist is the easier victory plan. |
 | **Yáozăo Servants 3pt** (AVA3) | Extend Tokusetsu Engineer/Doctor service to Karakuri/TAG/REM recovery while the controller stays safer. | **Peripheral Servant**, not an independent Regular Order or forward Repeater. |
 
+**Guided is optional, not Ōban's core plan:** **Uran Guided 16/1.5** becomes relevant after a *legal* Targeted setup using **Robio/Atom/Pangguling Repeaters plus a suitable hacker**, or a direct Forward Observer route. It can punish a concealed or awkward target without exposing the expensive attacker, but **Dodge/Reset, SWC, network positioning and several Orders** still apply. Without a realistic Targeted route, **Shikami Eclipse scoring, Tankō Disco delivery or O-Yoroi shooting** usually creates more direct mission progress. [Indirect-fire and Guided apex/value guide](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+**Baggage/EVO force multiplier:** **Pangguling 8/0 Baggage** can support legally eligible Disco, CrazyKoala and Mine Dispenser reloads when position and Reload/States Phase timing allow; **14/0.5 EVO** is useful when Rui Shi Supportware receives enough activations to repay it. Neither replaces deployed mines remotely or grants free orders. Budget a real attack/scoring Order pool before paying SWC for seldom-used Supportware. [Force-multiplier apex/value analysis](../list-building/force-multipliers-special-abilities-apex-value.md).
+
 **Cross-faction REM insight, not roster sharing:** [Infinity the Dante's combat REM guide](https://www.youtube.com/watch?v=xxGJYtQr6CE) argues that the Rui Shi is generally worth considering wherever available, but warns that **EVO, Engineer, Baggage, deployment space and group slots** can turn a cheap REM into an expensive *package*. Robert Shepherd's [Ōban faction focus](https://www.youtube.com/watch?v=AhicCreNCUQ) rates linked MSV2 Rui Shi very highly because **Kuroshi can provide Smoke and Rui Shi supplies real ranged mod-stacking**, whereas the **Shindenbutai** [reference](../../sectorials/jsa/shindenbutai.md) enables a different Tanuki/Sayō REM-control construction. In **Vanilla JSA**, Fireteams, Order distribution and O-Yoroi AVA differ; [its roster](../../sectorials/jsa/jsa.md) is authoritative.
 
-### Disagreements to preserve, not flatten
+#### Disagreements to preserve, not flatten
 
 - **Rui Shi vs Daiyōkai as main gun:** Shepherd prefers Rui Shi smoke-shooting against Mimetism/TR pieces because its MSV2 changes the FtF odds; **Daiyōkai** has substantially greater durability and an **NCO** engine, so it still makes more sense when the list has extra LT orders and must fight serious armor.
 - **Shikami single vs Duo:** Dante argues a Shikami Duo is *promising* under revised link rules but had not committed to fielding it in tournaments; several hosts prefer **one 42pt Shikami** to prevent 84–94pts of mobility consuming the same order pool. **Double Shikami** is a deliberate skew, not an auto-include.
@@ -954,7 +928,7 @@ Small teams and independent modules are often healthier.
 - **Garon / extra static defenses:** Tactical Awareness likes 16pt Smoke-GL TR Garon for a cheap emergency tool; opponents of dense defensive investment point out **BS11/STR1 does not hold elite attackers** and even two Ryūken HRLs can be overkill if it prevents mission specialists.
 - **Two O-Yoroi or none:** TAGs provide straightforward long-range MULTI HMG pressure and Tactical Awareness; a Shikami/Karakuri/Ryūken army wins in a different way by refusing favorable enemy gunfights. Neither style dominates all missions, and neither is a roster requirement.
 
-# Practical package reference
+## Practical package reference
 
 | Package | Purpose |
 |---|---|
@@ -974,9 +948,9 @@ Small teams and independent modules are often healthier.
 | **Yojimbo or Yuan Yuan** | cheap Smoke and disposable pressure |
 | **O-Yoroi LT + CoC + Engineer** | TAG command architecture |
 
-# Three strong starting archetypes
+## Three strong starting archetypes
 
-## A. Cheap backbone + independent monsters
+### A. Cheap backbone + independent monsters
 
 Start with:
 
@@ -990,7 +964,7 @@ Start with:
 
 This is the least structurally fragile way to learn current Ōban.
 
-## B. Domaru NCO assault engine
+### B. Domaru NCO assault engine
 
 Start with:
 
@@ -1003,7 +977,7 @@ Start with:
 
 This is the cleanest “samurai assault” architecture.
 
-## C. Midfield fortress / Shika-kuri
+### C. Midfield fortress / Shika-kuri
 
 Start with:
 
@@ -1017,43 +991,6 @@ Start with:
 
 Play to **occupy and survive**, not to alpha-strike everything.
 
-# Final list-building heuristic
-
-A strong generic Ōban list usually wants:
-
-1. **one reliable ranged opener**;
-2. **one visibility-control method**;
-3. **one durable midfield package**;
-4. **one hidden asymmetric threat or hidden specialist**;
-5. **enough cheap Regular Orders to fund the above**;
-6. **CoC if the LT is expected to fight**;
-7. **Group 2 pieces that create pressure without draining the main Order pool**.
-
-The common failure mode is buying every attractive samurai/ninja and ending with too few usable Orders and too many pieces that all want the same 8–24 inch fight.
-
-The strongest current Ōban lists instead combine **positional visibility control, one or two premium active pieces, durable specialists, hidden information, and cheap order-efficient pressure**.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Premier Disco package:** **Tankō 19/0 Disco Baller + Deactivator** in a *legal* Ōban Fireteam puts Eclipse over a gunline for Domaru/Mushashi/Karakuri objectives. **Shikami 42/0** supplies self-delivered Eclipse plus exceptional vertical scoring; **Yojimbo/Kuroshi** use normal Smoke, which can pair with **Rui Shi MSV2**.
-- **Pro/con:** Shepherd argues Disco fundamentally fixes melee delivery; **MetaChemistry #153 (Oct 2026)** tournament winner credits Tankō, but also reports spending most of an Order pool reloading Disco. Two Shikami may overconcentrate Orders compared with one + Tankō. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Shikami42/0** is an apex self-sufficient scoring/CC/route bypass piece: FD, Eclipse, climbing, Super-Jump, 2W, MA. **47pt MULTI Rifle** pays for a real extra gun and D-Charges. **Karakuri31–38** are the alternative when holding midline buttons/absorbing return fire matters more than arrival. Two Shikami add redundancy but compete for Orders; Shepherd and Tactical Awareness differ on how often that pays.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Uran Guided16/1.5** is an inexpensive *optional* missile after **Robio/Atom/Pangguling Repeaters + legal hacker/FO Targeted**, not an obligatory Oban identity. **Shikami Eclipse objective reach, Tankō Disco and O-Yoroi** deliver more dependable mission progress if no easy Targeted route exists. Guided helps when a hidden specialist cannot be attacked without exposing an expensive model; allow for Reset/Dodge and SWC.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Pangguling8/0 Baggage** and **14/.5 EVO** help Rui Shi active shooting and **Koala/Mine Dispenser** logistics, with normal Reload/States Phase rather than replacing deployed mines. **Ryūken-style Decoy/Minelayer** can tax Discover and protect a real ARO, but fake markers have no independent ARO/Order and cannot freely join a link. A strong Shikami/Karakuri/Tankō attack plan must still have real active Orders: don't overspend 0.5SWC just to enable Supportware the REM won't use.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
+**Transcript-backed source takeaways:** [recordings, evaluations and evidence caveats](references/oban_refs.md#transcript-backed-source-takeaways--updated-2026-10-23).
 
 **Further evidence and purchasing analysis:** [N5.3 tactical cross-references, battle reports and purchasing audit](references/oban_refs.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit). [Source-quality and provenance references](references/oban_refs.md#references).
