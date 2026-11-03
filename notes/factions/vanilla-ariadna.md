@@ -45,6 +45,23 @@ The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for th
   - **Frontovik / eligible Moblot / Bruant FTO** to cover specific guns or tasks within the chart.
   - More expensive and less universally compelling than the Dynamo package; **no Core**, only **one Haris and two Duos** under the pinned vanilla chart.
 
+### Battle-report audit — observed Ariadna army lists and Fireteams
+
+These are **N5 case studies**, not win rates or copy-ready N5.3 exports. The [current vanilla chart](../../sectorials/ariadna/vanilla-ariadna.md#fireteams) permits **no Core, one Haris and two Duos**.
+
+| Battle report | Actual roster or Fireteam evidence | List-building implication |
+|---|---|---|
+| [#106 Frontline vs Bakunin](../battle-reports/101-110-n5-battle-report-tactical-analysis.md#L161) | **Confirmed Dynamo AP Spitfire + Paramedic Duo**; separate Polaris, Uxía, SAS FO, Bruant, Mirage-5, Voronin, Vystrel and support. | Fast Smoke/mines and a mission medic, **not a Core**, support Camo/airborne threats. The player committed Mirage-5 too late: schedule its attack turn. |
+| [#045 Countermeasures vs Kosmoflot](../battle-reports/041-050-n5-battle-report-tactical-analysis.md#L157) | **Confirmed Dynamo Duo**, broken for Impetuous Orders and later reformed. Uxía, Mirage-5 and Dozer elsewhere. | Budget Command Tokens for bike-link reformation; do **not** sacrifice Engineer/FO/Doctor/D-Charges/Classified coverage to buy one more assault model. |
+| [#161](../battle-reports/161-170-n5-battle-report-tactical-analysis.md#L26) / [#237](../battle-reports/231-240-n5-battle-report-tactical-analysis.md#L144), **same CanCon 2026 winner** | Two lists share **Voronin, 2 Streloks/Decoys, Scout E/M Minelayer, 2 Tankhunters, Dynamo Spitfire + Paramedic, Vystrel, Dozer/Kövlk**; choose **Wallace CoC** or **Dog-Warriors** as main alternative. | Strong example of a **distributed Camo/Decoy + anti-armor deterrent + rapid scoring shell**. The player often won by mission extraction/denial instead of shooting a Cutter. This is **one five-round event**, not two independent wins. |
+| [#210 Corporate Appropriation vs Torchlight](../battle-reports/201-210-n5-battle-report-tactical-analysis.md#L323) | **Confirmed three-body FT-02 Haris: 2 Loup-Garou (Viral Sniper/Rifle) + Briscard**; separate Voronin, Tankhunters, Antipodes, Bearpode and SAS. | A **real alternative viral/visor Haris** to Dynamo-first lists. The narrow **5–4 loss** illustrates the need to retain HVT/Classified Orders after destroying the primary targets. |
+| [#223 Corporate Appropriation vs USARF](../battle-reports/221-230-n5-battle-report-tactical-analysis.md#L73) | Wallace CoC, double Tankhunter heavy gun, Scout E/M, Strelok Decoys and both Dynamo profiles; **no starting linked team securely declared**. | Wallace is a credible anti-materiel objective attacker, but **a pair of Dynamo roster entries does not establish a played Duo** in this specific match. |
+| [#006 opposing Qapu recap](../battle-reports/001-010-n5-battle-report-tactical-analysis.md#L223) | Partial opponent **Chernobog/Vystrel/Tankhunter/Dynamo/Camo** only; no complete export or link count. | TAG-backed Camo is a **candidate architecture**, not a recovered 300-point list. |
+
+**Source discrepancy:** #161 expressly describes the CanCon Dynamo pair as a **Duo**, while the separate #237 reconstruction says **neither CanCon list had a played Fireteam**. Both agree the *profiles* were in the lists; do not certify their starting linked status from that tournament alone. The independently explicit #106 and #045 Duos remain good evidence. The CanCon report also admits a **Kövlk-rule mistake in the final** and an unpurchased support Peripheral; avoid treating its score as a clean ranking metric.
+
+**Test two different build orders, not one overloaded army:** **Camo/control** = Voronin + Strelok/Scout/Tankhunter defense + Vystrel + Dynamo pair + actual technical specialists, choosing Wallace *or* Dog-Warriors for the scenario. **Viral/Classified** = Loup-Garou/Loup-Garou/Briscard Haris + independent Camo defenders and enough remaining scoring skill coverage. Verify costs, SWC and legal Fireteam status in the pinned current Army data.
+
 ### Unusual access, gaps and trade-offs
 
 - **True TAG access:** **Chernobog** supplies an AP-HMG heavy gun; it is **B apex / A value**, not a top-tier all-game TAG. Other Ariadna armies cannot automatically copy its roster access. [TAG comparison](../list-building/tags.md).
