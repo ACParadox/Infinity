@@ -8,10 +8,25 @@
 
 - **Identity:** many *independent* camouflaged threats, exceptionally punishing AP/EXP/portable autocannon fire, cheap mines/Smoke, Speculative Fire from Dog-Warriors, and dangerous deployment-zone parachutists. **Why it works:** the opponent cannot efficiently identify/clear every threat, and losing one attacker rarely disables the others. [Shepherd 2026; Loss of Lieutenant #164]
 - **Strong repeatable engine:** **Dynamo AP Spitfire (25/1 SWC) + Paramedic (16/0.5) Duo** = **41 points / 1.5 SWC**. The fast attacker chooses favorable angles; the specialist scores; both lay Shock mines and provide Smoke. A **5-point Traktor Mul Baggage** keeps Mine Dispensers and disposable weapons supplied. [Shepherd; Tactical Awareness; CNN]
-- **Hard defensive architecture:** **TankHunter autocannon/ML camouflage + Strelok Decoys parked in the DZ + Vystrel Neurocinetics/Sapper**. **Why:** camouflage makes shooting positions ambiguous and expensive to discover; Vystrel threatens an obvious lane. Do not reveal a TankHunter simply because an inconsequential target passed. [Shepherd; Loss of Lieutenant #164]
-- **Command fork:** **Voronin Strategos LT (22) + William Wallace Chain of Command (38)** creates strong command resilience and an independent endgame attacker; **9-point Rokot LT** frees ~13+ points when premium command is not useful. Wallace is **not a vanilla LT** on the pinned Army roster. [Shepherd; current reference]
+- **Hard defensive architecture:** the defensive puzzle is built from complementary threats:
+  - **TankHunter autocannon/ML:** camouflaged heavy ARO; reveal for a worthwhile target.
+  - **Strelok Decoys:** create ambiguous deployment-zone markers and waste Discover Orders.
+  - **Vystrel Neurocinetics/Sapper:** visibly threatens the lane while the markers remain uncertain.
+  - **Why:** discovery costs Orders and poor attacks; do not reveal the TankHunter just because an irrelevant target passed. [Shepherd; Loss of Lieutenant #164]
+- **Command fork:** select an Order/command package with a purpose:
+  - **Voronin Strategos LT (22) + William Wallace Chain of Command (38):** resilient command and an independent late-game attacker.
+  - **Rokot LT (9):** frees roughly 13+ points when premium command does not justify its cost.
+  - **Legality:** Wallace is **not** a vanilla LT under the pinned roster. [Shepherd; current reference]
 - **Structural weakness:** weak native hacking/anti-hacking, mostly **MSV1 rather than MSV2**, and sometimes awkward mission scoring under attrition. Ariadna's many *nonhackable* attacks can make enemy hacking investment inefficient, **but the Chernobog and REMs remain hackable**. [Shepherd; LoL #164]
 - **Important counterargument:** the 2025 Tactical Awareness team preferred Kosmoflot/TAK for stronger integrated Fireteams, while Shepherd's 2026 tournament-winning vanilla build obtained unique value from the wider roster, the Kibervolk and the **threat** of Mirage-5/Van Zant even when absent. **Conclusion:** vanilla rewards independent, redundant plans; a sectorial may suit players who want a stronger linked gun. [Tactical Awareness S3E11; Shepherd 2026]
+
+**Vision-control choices:**
+
+- **Dynamo AP Spitfire + Paramedic Duo (41/1.5):** fast Smoke, shooting, mines and objective reach.
+- **Dog-Warrior / Polaris:** independent close-pressure alternatives that exploit Smoke.
+- **Irmandinho:** a separate low-cost Smoke and trading option when it fits.
+- **Traktor Mul Baggage:** refresh eligible disposable weapons and Mine Dispensers when positioned within the rules.
+- **Against MSV:** use flanks, mines, different guns and scoring; normal Smoke is for crossing lanes, not a substitute for an MSV2 gun. See [vision-control roles](../list-building/vision-control-units-apex-and-value.md).
 
 ## Choose a list architecture, not a fixed shopping list
 
@@ -23,7 +38,22 @@
 | **Premium Chernobog TAG** | Chernobog (63 or 70), Dozer/Dozer KVP repair, optional Mekhamobilya TAGCom, screening camo and specialists | BS14/AP HMG/ARM8 + Tactical Awareness brings a tough direct assault unavailable to a pure camo plan. Large S7 silhouette, vulnerable hacking, weak Dodge/self-repair, and degraded Transmutation profile may be a poorer investment than several independent guns |
 | **Viral / MSV small Haris (specialist alternative)** | Briscard (MSV1), Loup-Garou viral, Moblot or Bruant **FTO** / Veteran Kazak as FT-02 allows | Supplies BTS-targeting viral and MSV1 in a faction concentrated on AP vs ARM. **CNN 2025** finds these expensive links mediocre next to a solo-gun plan; **Tactical Awareness** tests/likes their specialized fire lanes. Decide based on actual mission/opponent, not a compulsory Haris |
 
-**Legal links matter more than old video examples:** the pinned vanilla chart allows **0 Core / up to 1 Haris / up to 2 Duos**. FT-01 is **Duo only**, including Dynamo (max 2), Dog-Warrior (max 1), Ratnik (max 1) or Chernobog (max 1). FT-02 is Duo/Haris with Frontovik, Briscard, Loup-Garou, Moblot (max 1), Veteran Kazak (max 1), plus **Apache FTO / Barsuk FTO / Bruant FTO** where applicable. **No vanilla Wildcards** in the pinned chart. The non-FTO forward Apaches and infiltrating Bruant do **not** join. See the linked reference for the full restrictions.
+**Legal Fireteam limits:** 0 Core, up to 1 Haris and 2 Duos; no vanilla Wildcards.
+
+- **FT-01 (Duo only):**
+  - Dynamo (max 2)
+  - Dog-Warrior (max 1)
+  - Ratnik (max 1)
+  - Chernobog (max 1)
+- **FT-02 (Duo/Haris):**
+  - Frontovik
+  - Briscard
+  - Loup-Garou
+  - Moblot (max 1)
+  - Veteran Kazak (max 1)
+  - Apache FTO / Barsuk FTO / Bruant FTO where allowed
+
+Non-FTO forward Apaches and infiltrating Bruant cannot join. Check the canonical chart for required choices and restrictions.
 
 ## Key pieces — why and the competing view
 
@@ -53,7 +83,28 @@
 | **Remontnikbot V-5** | **2pts** Peripheral (Servant), **0 Orders** on its own | Extends Engineer/Doctor recovery and repair coverage; cannot act as a Baggage Order or independent specialist |
 | **Other support that is NOT a Vehicle/TAG/REM** | **Ratnik = HI**, Dozer KVP = engineer infantry; Samodelkin = *included Ancillary* attached to TAG, not stand-alone REM slot | Do not infer a generic Ariadna Vehicle chassis from other sectorials. The pinned 51-unit vanilla roster does not contain a separate conventional **VH troop-class** option |
 
-**Against hacking:** Ariadna's best nonhackable attackers can refuse the electronic fight. This does **not** protect a Chernobog, Vystrel or Traktor (Hackable), so support your TAG/REM with safe paths, screen the approach with mines/smoke, and prioritize enemies that project Repeaters. **Wardriver** exists (**14/1 Hacking Device**, or **16/1 with Disco Baller**) but does not transform Ariadna into a high-end hacking faction. [Shepherd; LoL #141]
+**Against hacking:** independent nonhackable attackers can decline electronic fights, but the following still need safe routes and screens against Repeaters:
+
+- **Chernobog:** Hackable TAG.
+- **Vystrel:** Hackable REM.
+- **Traktor Mul:** Hackable REM.
+- **Wardriver (14/1 HD or 16/1 with Disco Baller):** limited ordinary anti-HI hacking and visibility utility, *not* a high-end hacking network.
+
+Prioritize enemy Repeaters, mine the approach and protect recovery options. [Shepherd; LoL #141]
+
+**Indirect-fire and support choices:**
+
+- **Traktor Mul Katyusha (9/1):** cheap Guided payoff, but only after creating a valid Targeted state.
+- **Chasseur FO / Strelok FO / SAS FO:** potential mission FOs where the actual roster/profile permits them; do not assume Targeted is free.
+- **Dog-Warrior:** PH-based Speculative Fire without a Targeted prerequisite.
+- **Carmen & Bâtard:** alternative grenade-based Speculative attacks where roster-legal.
+- **Kuryer:** conditional alternative *only in rosters where available*; do not import other Ariadna profiles.
+- **Traktor Mul Baggage (5/0):** cheap Regular Order and conditional disposable-ammo reloading, distinct from artillery profiles.
+- **Voronin LT:** Counterintelligence and Strategos in vanilla; current **TAK Voronin does not have Strategos**.
+- **Spetsnaz / Strelok / Scout:** Camouflage/Decoy ambiguity only on eligible profiles; Decoys create neither Orders nor extra AROs.
+- **EVO:** no automatic value without a rostered device and real support targets.
+
+The CanCon account warns costly hacking-to-Guided plans can do little against dispersed nonhackable lists. Check Targeted setup, range, Reset and Order costs. See [indirect-fire tiers](../list-building/indirect-fire-speculative-guided-apex-value.md) and [force-multiplier comparisons](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ## Confirmed disagreements / source-age corrections
 
@@ -62,20 +113,3 @@
 3. **Chernobog rating:** *LoL #142* splits **higher B** vs **C** for the 63-point TAG: cheap AP/ARM8 Tactical Awareness vs the abrupt Transmutation drop and PH9 Dodge/self-Gizmo. The **Kosmoflot Tactical Awareness** hosts see a genuinely strong gun but also debate paying 7 points for the rocket profile. Current Chernobog **63/70**, not old “65” quotes.
 4. **Camo gun as killer vs deterrent:** Shepherd chose Ariadna largely for huge autocannon damage in practice, but reports those TankHunters **mostly delayed and threatened, rather than delivered kills**, in the actual five games. Include the order-tax effect in unit valuation.
 5. **Old list legality and mistakes:** 2025 episode comments on vanished units and incomplete N5 rosters may be outdated; **Kibervolk does not have Climbing Plus** (Shepherd's own correction); Vystrel is **AVA1 in vanilla**, and the vanilla Chernobog is **AVA1/FT-01 max1** even though Kosmoflot can construct different teams. The pinned chart, not a remembered 2025 podcast layout, determines legality.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Budget movement first:** **Dynamo AP Spitfire + Paramedic Duo 41/1.5** can provide fast Smoke, firepower and scoring across separate angles; Dog-Warrior/Polaris and Irmandinho offer other Smoke/close threats. **Mul Baggage** improves Disposable reload plans when positioning allows.
-- **Not the same as MSV smoke-shooting:** Ariadna often uses Smoke to move nonhackable attackers, not to enable an elite MSV2 sniper. Against MSV defenders use flanks, mines, alternative gun types and scoring pressure. [Apex/value vision guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Value:** Traktor Katyusha **9/1** is a cheap Guided payoff *only* when a Chasseur/Strelok/SAS/other FO already marks targets. **Dog-Warrior PH-based Speculative**, Carmen+Bâtard grenades and Kuryer where available work **without** target-state setup. Against dispersed nonhackable lists, an expensive Hacking→Guided plan can do very little (Shepherd's 2026 CanCon account); count Range/Setup/Reset/Orders.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**Traktor Mul Baggage5/0** is exceptional cheap Regular Order + reload where legal; don't confuse its artillery profiles with free Baggage cost. **Voronin Counterintelligence LT** is solid early-turn protection, but **current TAK Voronin has NO Strategos**—army variants differ. **Spetsnaz/Strelok/Scout Decoy** creates hidden target ambiguity; false Decoys don't make extra AROs or Orders. Ariadna rarely gains from EVO unless a legitimate rostered device and meaningful support targets exist.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).

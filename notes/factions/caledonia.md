@@ -19,6 +19,15 @@ The most important strategic fork is:
 
 That fork should usually be decided before the rest of the list is built.
 
+**Vision and approach tools:**
+
+- **Galwegians (5pt):** cheap Smoke saturation and close-range threats.
+- **McMurrough (23pt):** independent Smoke and CC pressure at a higher investment.
+- **Wallace:** command and Order-conversion value depends on the army's *actual Irregular* models.
+- **Highlander Grey:** additional Smoke delivery and a harder infantry gun/assault piece.
+
+Use these to protect scoring routes and create overlapping close threats, not as automatic MSV2 Smoke-shooting. See [vision-control roles](../list-building/vision-control-units-apex-and-value.md).
+
 ## Architecture A — Wallace as an Irregular-economy engine
 
 ### Do not frame Wallace as “good if you already have Irregulars”
@@ -435,7 +444,13 @@ Ask whether the next violent slot should instead become:
 
 ### 2. Using Wallace without exploiting him
 
-Wallace plus one Irregular model is usually not an economy architecture. If Wallace is selected, deliberately test whether additional Cameronians/Galwegians/Caterans/Beasthunter/McMurrough produce more value than conventional Regular filler.
+Wallace with a single Irregular model rarely forms a worthwhile economy architecture. Test whether extra Irregular pressure pieces provide more value than ordinary Regular filler:
+
+- **Cameronians**
+- **Galwegians**
+- **Caterans**
+- **Beasthunter**
+- **McMurrough**
 
 ### 3. Exploiting Wallace so hard that the list stops scoring
 
@@ -473,7 +488,12 @@ Before beginning a long attack run, identify which surviving model will perform 
 1. Choose the LT: Mormaer T2 is the durable baseline; Volunteer/Grey are cheaper alternatives.
 2. Choose the primary gun: Mormaer HMG, Grey HMG, Wulver AP Spitfire, or a specific Fireteam package.
 3. Add Uxía + at least one SAS unless the mission gives a strong reason not to.
-4. Add 1–2 independent pressure pieces: Cameronian, McMurrough, Denma, Cateran, Beasthunter.
+4. Add 1–2 independent pressure pieces according to the mission:
+   - Cameronian
+   - McMurrough
+   - Denma
+   - Cateran
+   - Beasthunter
 5. Add the Fireteam only if it improves actual range/scoring/order efficiency.
 6. Ensure a Turn 3 specialist survives outside the main attack route.
 
@@ -518,43 +538,6 @@ One school leans toward the classic/current Wallace economy: deliberately maximi
 The other leans toward a more conventional modern combined-arms list: Mormaer/Greys/Wulver plus a smaller number of Irregular missiles and more native Regular specialists/support.
 
 Both are coherent. What is inefficient is sitting in the middle with Wallace while barely exploiting the Irregular conversion, or taking so many cheap irregular-derived pieces that the list loses the ability to score.
-
-## Working conclusions
-
-Current starting assumptions for future Caledonia analysis:
-
-- **Wallace is a proactive list-building engine, not a patch for a list that accidentally contains Irregulars.**
-- In a Wallace list, deliberately test **Cameronians, 5-point Galwegians, Caterans, McMurrough and Beasthunter** as discounted Order-generating value pieces.
-- **Isobel Chain of Command is not a current option**; old advice relying on that package must be discarded.
-- **Uxía + SAS** is the strongest default midfield/scoring starting point.
-- **Mormaer HMG** and **linked Grey HMG** are the cleanest primary ranged starting points.
-- **Mormaer + Grey + Scot Guard FTO** is a strong premium Haris template.
-- **Solo Wulver AP Spitfire** deserves consideration before automatically buying a full Wulver Fireteam.
-- **Beasthunter FTO at 9 points** is one of the faction's clearest underused efficiency pieces.
-- **Caterans become substantially better in Wallace architecture** because their passive ARO role no longer comes with an Irregular Order-pool penalty.
-- Caledonia's recurring practical failure mode is **spending too many Orders on killing and not enough on scoring**.
-
-## Follow-up research TODO
-
-- Decode and compare the published sample Army codes from each current Caledonia video/podcast to quantify unit overlap directly.
-- Mission-by-mission guidance for Wallace economy vs Mormaer combined arms.
-- Exact ideal number of Galwegians/Cameronians before the 15-slot opportunity cost becomes too high.
-- Double Cateran vs single Cateran by table density and mission.
-- Mormaer LT vs non-LT HMG + cheap LT in actual Order-budget terms.
-- Best Volunteer/Grey Core/Haris sizes rather than assuming a full five-model Core.
-- Wulver Duo/Haris/Core composition analysis.
-- When the 9-point Beasthunter FTO is better than the 15–17 point camouflaged profiles.
-- Whether Wardriver/Isobel/Guided packages are strong enough to justify their slots in current tournament missions.
-- Two-list pairing: Wallace horde/control list paired with a more elite Mormaer/Wulver list.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Low-cost Smoke saturation:** **5pt Galwegians**, 23pt McMurrough, Wallace and Highlander Grey can open multiple close-assault lanes; training/Order conversion depends on the actual Wallace/list composition. Avoid treating every 5pt warband as a free shared Regular Order without checking the army.
-- **Best use:** protected short-range scoring and trades, not automatic MSV2 smoke-shooting. Need hard targets stopped at the *end* of the smoke route with mines/templates/overlapping threats. [Global vision tiers](../list-building/vision-control-units-apex-and-value.md).
-
-## N5.3 tactical assessments transferred from the sectorial reference
-
-The dated material below was moved from the [Caledonian Highlander Army N5.3 reference](../../sectorials/ariadna/caledonian-highlander-army.md). The reference is authoritative for roster, profiles, Fireteams, and provenance. References below to the roster and Fireteam tables “above” mean the linked reference, rather than a table in these notes.
 
 ### Community tactics — transcript-based Caledonia research (2026-10-19)
 
@@ -612,3 +595,31 @@ The dated material below was moved from the [Caledonian Highlander Army N5.3 ref
 - **Against enemy TAGs:** Mormaer **AP HMG** punches ARM; **Cadin E/M grenades** or Wardriver Disco Ballers can disable/deny; **Cameronian T2** and McMurrough **AP+DA CCW** threaten from melee. Deliver them using smoke and lateral movement; avoid pure BS10–12 open-field gunfights.
 - **Cross-sectorial REM transcript check (Tactical Awareness N5, February 2025):** [Tartary Part 2](https://open.spotify.com/episode/2VCGfZZhXpth6ahryGhPyw) (~20m) recommends the **5-point Baggage Mul** as inexpensive Regular-order support, and (~32m) considers two **Total Reaction Uragans** as a niche overlapping ARO/artillery shell. [Kosmoflot Part 3](https://open.spotify.com/episode/0FZYrBdbYi3bNLX0Xbdl3l) (~11–16m) uses **Katyusha Guided MRL** plus artillery/board-state interactions; speakers explicitly warn that its unassisted speculative fire is poor. [Vanilla Ariadna Part 4](https://open.spotify.com/episode/3WYxtimNdXjHDsMOWvEWw6) (~2–4m) pairs an FO with Katyusha Guided and a cheap Deactivator/Baggage Mul for reloads and mine clearing. [USAriadna Part 1](https://open.spotify.com/episode/4wIT3UwMB9LldCtHdfLU6k) (~14–15m) uses Baggage to reload disposable ARO weapons. **Transferable CHA lesson:** first buy the 5-point Mul for orders/Baggage; upgrade to Katyusha when you have a reliable FO + order plan; buy Uragan TR only for a specific defensive firelane/artillery plan. These other sectorials' non-CHA units, FOs and Fireteams are **not** CHA list options.
 - **Source-scope check:** No separate, substantial post-2025 Caledonia-exclusive Vehicle/TAG analysis was found; broader Ariadna episodes concern platforms not necessarily selectable in CHA. Transfer **role principles**, never illegal roster entries.
+
+## Working conclusions
+
+Current starting assumptions for future Caledonia analysis:
+
+- **Wallace is a proactive list-building engine, not a patch for a list that accidentally contains Irregulars.**
+- In a Wallace list, deliberately test **Cameronians, 5-point Galwegians, Caterans, McMurrough and Beasthunter** as discounted Order-generating value pieces.
+- **Isobel Chain of Command is not a current option**; old advice relying on that package must be discarded.
+- **Uxía + SAS** is the strongest default midfield/scoring starting point.
+- **Mormaer HMG** and **linked Grey HMG** are the cleanest primary ranged starting points.
+- **Mormaer + Grey + Scot Guard FTO** is a strong premium Haris template.
+- **Solo Wulver AP Spitfire** deserves consideration before automatically buying a full Wulver Fireteam.
+- **Beasthunter FTO at 9 points** is one of the faction's clearest underused efficiency pieces.
+- **Caterans become substantially better in Wallace architecture** because their passive ARO role no longer comes with an Irregular Order-pool penalty.
+- Caledonia's recurring practical failure mode is **spending too many Orders on killing and not enough on scoring**.
+
+## Follow-up research TODO
+
+- Decode and compare the published sample Army codes from each current Caledonia video/podcast to quantify unit overlap directly.
+- Mission-by-mission guidance for Wallace economy vs Mormaer combined arms.
+- Exact ideal number of Galwegians/Cameronians before the 15-slot opportunity cost becomes too high.
+- Double Cateran vs single Cateran by table density and mission.
+- Mormaer LT vs non-LT HMG + cheap LT in actual Order-budget terms.
+- Best Volunteer/Grey Core/Haris sizes rather than assuming a full five-model Core.
+- Wulver Duo/Haris/Core composition analysis.
+- When the 9-point Beasthunter FTO is better than the 15–17 point camouflaged profiles.
+- Whether Wardriver/Isobel/Guided packages are strong enough to justify their slots in current tournament missions.
+- Two-list pairing: Wallace horde/control list paired with a more elite Mormaer/Wulver list.

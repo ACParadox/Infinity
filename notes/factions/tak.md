@@ -4,21 +4,19 @@
 
 **Authoritative N5.3 roster and Fireteams:** [Tartary Army Corps (TAK) reference](../../sectorials/ariadna/tartary-army-corps.md).
 
-## N5.3 tactical assessments transferred from the sectorial reference
+## Strategy and listbuilding research
 
-The dated material below was moved from the [Tartary Army Corps (TAK) N5.3 reference](../../sectorials/ariadna/tartary-army-corps.md). The reference is authoritative for roster, profiles, Fireteams, and provenance. References below to the roster and Fireteam tables “above” mean the linked reference, rather than a table in these notes.
-
-### Strategy and listbuilding research
+**Authority:** [N5.3 TAK roster and Fireteams](../../sectorials/ariadna/tartary-army-corps.md) remain definitive; historical tactical interpretations do not override exact profiles or legality.
 
 Research synthesis updated **2026-10-16**. This section is strategic guidance rather than rules data; when older commentary conflicts with the canonical N5.3 roster or Fireteam chart above, the pinned Army data wins.
 
-#### Source handling
+### Source handling
 
 The research pass compared current and recent TAK discussion across long-form video/podcast material, transcript-derived community discussion, faction articles, and player list examples. Direct YouTube caption retrieval was not available for every video, so presenter-specific claims below are only attributed where the surrounding source material exposed enough detail to support them. Video titles alone are not treated as evidence.
 
 The strongest cross-source agreement is that modern TAK is **not simply Camo spam**. It combines a stable defensive backbone with asymmetric midfield pieces and a small number of efficient active attackers. The normal plan is to force the opponent to spend Orders clearing mediocre-looking problems, reveal information and commit an important attacker, then counterattack with a hidden or protected gun.
 
-#### Recurring list structure
+### Recurring list structure
 
 | Job | Common TAK solutions | What the slot is doing |
 |---|---|---|
@@ -33,7 +31,7 @@ The strongest cross-source agreement is that modern TAK is **not simply Camo spa
 
 A useful default is **many annoying problems, few premium killers**. TAK does not need every marker to be dangerous enough to kill a heavy infantry model; it needs the opponent to be unsure which markers, mines, templates and AROs deserve Orders now.
 
-#### Go-to units
+### Go-to units
 
 ##### Scouts
 
@@ -102,7 +100,7 @@ The **Camo/Decoy HMG (36/1.5)** remains an excellent independent active attacker
 
 The **Parachutist shotgun/AP SMG profiles (27)** provide a different axis: they punish weak backfield troops and order pools without needing to fight the opponent's front-line ARO architecture.
 
-#### Fireteam patterns
+### Fireteam patterns
 
 TAK Fireteams are generally best treated as **supporting architecture**, not as the entire army.
 
@@ -141,13 +139,24 @@ Built from Veteran Kazaks and/or Frontoviks, with 112 FTO support. Use this when
 
 ##### Mobility Haris/Duo
 
-Current N5.3 Army data allows a Mobility team built around the required-choice set of **Dynamo and/or Ratnik**, with Frontovik, 112 Motorized and Ioann Bann support.
+**Current N5.3 Mobility required-choice set:**
+
+- **Dynamo:** one possible Mobility foundation.
+- **Ratnik:** alternative or companion required-choice profile.
+
+Potential support members include:
+
+- **Frontovik**
+- **112 Motorized**
+- **Ioann Bann**
+
+Validate the actual selection rules against the canonical Mobility chart.
 
 This is an important correction to older October-2025 commentary that said Ratnik Fireteams had been removed. That historical statement is superseded by the current pinned Army chart: **Ratnik is presently a Mobility required-choice and can be in a Mobility Haris or Duo**.
 
 Dynamo is particularly useful here because the current profile has **Mine Dispenser (Shock)** in addition to high movement, Smoke Grenade Launcher, Mimetism and Dogged. Older commentary claiming current Dynamos lost Mine Dispenser is also stale relative to N5.3.
 
-#### Lieutenant and Chain-of-Command packages
+### Lieutenant and Chain-of-Command packages
 
 ##### Voronin LT + TankHunter CoC
 
@@ -184,7 +193,7 @@ Take Vassily when the list intends to exploit **his whole package**. If the only
 - **Line Kazak LT:** cheapest straightforward option when the command model is meant to stay irrelevant.
 - **Frontovik LT:** available when the team architecture naturally wants it, but usually less structurally distinctive than the options above.
 
-#### Specific combos and sequencing
+### Specific combos and sequencing
 
 ##### 1. Defensive shell -> enemy commitment -> hidden attacker
 
@@ -220,7 +229,13 @@ Antipodes are particularly relevant because the pack brings Sensor, speed, Super
 
 ##### 4. Dozer + Gunnery package
 
-If the list buys Vystrel/Kuryer/Traktor pieces, a Dozer becomes much more attractive because the Engineer can repair Remote Presence models while also scoring and contributing another tactical tool.
+**REM investment makes a Dozer more attractive** when the list brings multiple repair targets:
+
+- **Vystrel:** reactive long-range REM to restore.
+- **Kuryer:** artillery/support chassis to repair.
+- **Traktor Mul:** cheap support/artillery chassis to keep working.
+
+Dozer can repair eligible Remote Presence targets while also contributing an Engineer specialist and scenario utility.
 
 Profile choice changes the defensive texture:
 
@@ -236,7 +251,7 @@ The controller handles objectives while the synchronized Antipode provides Senso
 
 A Dynamo can spend its speed and Impetuous movement to develop while retaining its Regular Order for later use. Smoke creates safe crossings, while **Mine Dispenser (Shock)** lets the model leave area-control pieces after advancing. The 16-point Paramedic is a particularly fast mission piece; the 25-point AP Spitfire is the profile to consider when the Mobility team needs a gun rather than just development/scoring.
 
-#### Lesser-used or underrated tools
+### Lesser-used or underrated tools
 
 ##### Konduktor infiltrator — 12 points
 
@@ -262,7 +277,7 @@ A very cheap Regular Order with Baggage and REM utility. Its S4 footprint and th
 
 A fast specialist with Smoke, Mimetism, Dogged and Mine Dispenser. It can solve mission geometry that a slow Kazak specialist cannot.
 
-#### Disputed or build-around choices
+### Disputed or build-around choices
 
 | Topic | View A | View B | Practical conclusion |
 |---|---|---|---|
@@ -274,7 +289,7 @@ A fast specialist with Smoke, Mimetism, Dogged and Mine Dispenser. It can solve 
 | Heavy artillery saturation | TAK can stack very efficient S4 defensive pieces | Large-base congestion and shared attack vectors can make them easy to solve | Usually buy enough defence to create layers, not every efficient artillery profile |
 | Big Core | Full Kazak/Veteran teams offer stable guns and specialists | TAK's marker pieces are too valuable to squeeze out | Fireteam as backbone is more common than Fireteam as entire game plan |
 
-#### Example list archetypes seen in current discussion
+### Example list archetypes seen in current discussion
 
 WIP12's April-2026 TAK episode published multiple Army codes with list names that illustrate the range of viable construction:
 
@@ -286,7 +301,7 @@ WIP12's April-2026 TAK episode published multiple Army codes with list names tha
 
 The lesson is not that one of these is the canonical TAK list. The recurring skeleton is role-based: **defence + markers + one or two real attackers + pressure + mission coverage**.
 
-#### Practical build checklist
+### Practical build checklist
 
 For a generic 300-point TAK list, check for the following before optimizing individual profiles:
 
@@ -303,7 +318,7 @@ For a generic 300-point TAK list, check for the following before optimizing indi
 
 A strong TAK list should usually be able to answer: **what does the opponent have to spend Orders on before they are allowed to attack the model I actually care about?**
 
-#### Transcript-verified review and REM/Mobility deep dive — 2026-10-19
+### Transcript-verified review and REM/Mobility deep dive — 2026-10-19
 
 **Read first:** These are *opinions and play patterns*, not changes to the pinned N5.3 unit data above. Sources are full MCP transcripts of three videos and three podcast episodes. Tactical Awareness is **February 2025, before the October roster overhaul**, so its *unit evaluations* are historical, not authoritative for present prices/skills.
 
@@ -316,7 +331,16 @@ A strong TAK list should usually be able to answer: **what does the opponent hav
 
 ##### Actual Vehicle / TAG / REM coverage
 
-**No dedicated Vehicle or TAG is listed in the pinned standard TAK roster.** Do not describe Ratnik as a TAG (it is S5 **HI** with Transmutation, Dogged, +1B and Tactical Awareness); Dynamo is S4 motorcycle **LI**. The relevant machines are **Vystrel, Kuryer, Traktor Mul** (all REMs) and **Remontnikbot** (2-point Engineer Peripheral). Other Ariadna/Vanilla discussions are useful for shared REM and Dynamo concepts, **not** proof of TAK TAG/VH access.
+**Standard TAK has no dedicated VH or TAG.** Its superficially similar platforms have different types and limitations:
+
+- **Ratnik:** S5 HI with Transmutation, Dogged, +1B and Tactical Awareness; *not* a TAG.
+- **Dynamo:** S4 motorcycle LI, not a VH troop.
+- **Vystrel:** REM.
+- **Kuryer:** REM.
+- **Traktor Mul:** REM.
+- **Remontnikbot:** 2pt Engineer Peripheral.
+
+Shared Vanilla and other Ariadna media are not evidence that TAK gains an unlisted Vehicle/TAG.
 
 | Unit/package | Use it because | Limit / alternative view |
 |---|---|---|

@@ -10,12 +10,27 @@
 
 **USARF wins through multiple affordable attacks, fast smoke, a camouflaged midfield and distributed small Fireteams—not a single unbeatable gunfighter.** Compared with other Ariadna armies, its gunfighters are less dominant; the plan is to avoid an elite enemy's preferred engagements and win the mission while their Orders are tied up.
 
-- **Best repeatable ingredients:** **Foxtrot FO 18 / Minelayer 18 (0.5 SWC)** to score and delay; **Devil Dog + K-9 23**, **Desperado 7** to force smoke/template/CC exchanges; **Minuteman FO/NCO 25**, **Blackjack 35** and **Unknown Ranger 42–45** to provide real shooting without making one centerpiece responsible for every lane.
+- **Repeatable list ingredients:** choose tools by job rather than presenting all profiles as one purchase:
+  - **Foxtrot FO (18) / Minelayer (18/0.5):** mission specialist and midfield delay.
+  - **Devil Dog + K-9 (23):** Smoke, templates and close combat.
+  - **Desperado (7):** low-cost disposable pressure.
+  - **Minuteman FO/NCO (25):** shooting and mission/Order utility.
+  - **Blackjack (35):** durable-looking heavy gun and ARO pressure.
+  - **Unknown Ranger (42–45):** independent elite shooting.
+  - Preserve the scoring/Order plan rather than buying every attacker.
 - **Cheap Regulars matter:** **5-pt Traktor Mul Baggage** and **10-pt Grunts** preserve Orders and points for several 20–45pt combat pieces. But a full Grunt Core is a *choice*, not an automatic power unit.
 - **Redundancy beats peak BS:** MSV1 Marauder HRL, an AP HMG/Spitfire, a second threat from another angle, and a flanking **Van Zant** make target priority harder than one pricey Core. Most infantry are one Wound; avoid donating them to a single strong ARO.
 - **Main limitations:** thin hacking/network, limited anti-armor/long-range delivery compared with premium factions, scarce orders beyond native Regular Orders, Irregular pieces competing for 15 slots, and mission-specific gaps. **No standard USARF TAG or VH troop**: the large **Blackjack is HI, not TAG**. Only the **Traktor Mul** is a standard REM.
 
 *Source split:* [Shepherd (May 2025)](https://www.youtube.com/watch?v=mqNiL2ziIkU) calls USARF an unusually difficult challenge faction (~4–16m); [Tactical Awareness (Jan 2025)](https://www.youtube.com/watch?v=h7cTjIztb98) agrees the roster repeats similar builds (~28–36m). **After the October rework**, [Swiss Miss (Oct 2025)](https://www.youtube.com/watch?v=AboAGci9_9A) rates new Minutemen, Blackjacks, Devil Dogs and Unknown Ranger much more optimistically. Both can be true: **better individual tools**, but still less list/mission flexibility than many factions. [Oct 2025 community reactions](https://www.reddit.com/r/InfinityTheGame/comments/1o7dy5i) echo “meaningful improvements, not top tier.”
+
+**Smoke-delivery choices:**
+
+- **Desperado (7pt):** expendable low-cost route opener and close-range tax.
+- **Maverick FO (17/0) / AP Spitfire (26/1):** a fast carrier that can also score or shoot.
+- **Devil Dog + K-9 (23pt):** use Smoke to approach for CC and template pressure.
+
+They are alternatives with different destinations, not a mandatory three-piece package. USARF's MSV1 pieces are not an MSV2 Smoke-shoot package; conventional Smoke may fail against opposing MSV. See [vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
 
 ## Start with one of five architectures
 
@@ -50,7 +65,15 @@
 
 ## Vehicles, TAGs and REMs — what USARF actually gets
 
-**Standard USARF has no troop typed `TAG` and no troop typed `VH` (Vehicle).** **Blackjacks are 2-Wound, S5 Hackable HI** and *not* TAGs; **Desperado/Maverick/112 Motorized** are motorcycle troops, not VH units. **Traktor Mul is the only standard USAriadna REM** (AVA 2). Don't import Chernobog, Anaconda, Vystrel, Kuryer, or Dynamo just because another Ariadna force can field them.
+**Current standard USARF classifications:** no troop is typed TAG or VH (Vehicle).
+
+- **Blackjack:** 2-Wound S5 Hackable HI; not a TAG.
+- **Desperado:** motorcycle troop, not a VH.
+- **Maverick:** motorcycle troop, not a VH.
+- **112 Motorized:** motorcycle LI, not a VH.
+- **Traktor Mul:** the only standard USARF REM (AVA2).
+
+Do not import **Chernobog, Anaconda, Vystrel, Kuryer or Dynamo** merely because a different Ariadna roster has them.
 
 ### Traktor Mul — the shared Ariadna REM
 
@@ -76,10 +99,20 @@ Treat the Blackjack as a **heavy-gun platform**, not an expensive TAG with remot
 
 - **Limits:** **1 Core, 1 Haris, unlimited Duos**. Native **Grunt Core/Haris** needs ≥1 actual Grunt (FD Grunt excluded). **USARF Core/Haris/Duo** uses a **Minuteman-or-Marauder required-choice foundation**. **Blackjack Haris/Duo** needs ≥1 Blackjack. **Mavericks Haris/Duo** needs ≥1 Maverick, up to 2 Mavericks and 1 Motorized 112. **USAMC Duo** = **Devil Dog FTO only**. Wildcards (112 FTO, Rosie, Unknown Ranger) can join an otherwise eligible formation, but do not erase a native requirement.
 - **An FTO label doesn't authorize a Fireteam:** 9pt **Beasthunter FTO** has **no entry** in the USAriadna chart. The normal Devil Dog + K-9 is *not* USAMC FTO. The **12pt Forward Deployment Grunt** explicitly cannot join.
-- **Lt choices:** **10pt Grunt LT** saves points and stays hidden; **Minuteman T2 FO LT 27/0** earns +1 Command Token and is a possible tougher command body, but risks command as a visible gun/specialist; **Marauder LT 19/0** is a midfield-risky alternative; **17pt Foxtrot camo LT costs 1 SWC** and creates concealment but not command security. **Rosie CoC 26/0** mitigates an active-LT plan. **Minuteman NCO** provides a sink for otherwise-unused Lt Orders; coordinate with Fireteam rules before assuming each is a team-wide activation.
+- **Lieutenant choices:**
+  - **Grunt LT (10):** cheap concealed command.
+  - **Minuteman T2 FO LT (27/0):** +1 Command Token and a tougher-looking body, but exposing it risks command.
+  - **Marauder LT (19/0):** alternative with midfield exposure risk.
+  - **Foxtrot Camo LT (17/1):** hidden identity at an SWC premium.
+  - Choose for command safety as well as shooting; a cheap LT is not necessarily protected.
 - **Composition:** 112 FTO/Rosie count as **Grunts**; Unknown Ranger counts as **USARF**. Composition bonuses require the actual current chart/keyword combination: do not assert “all Wildcards count as everyone.” **Rosie + 112 + Blackjack** is a useful tested Haris shape, not a license to bring a solo Blackjack into any Fireteam regardless of constraints.
 - **Off-table Orders:** Van Zant and 6th Airborne arrive later. Balance surprise with enough starting-on-table ARO/specialist pieces; losing two important Regular Orders before an airborne plan comes online is a real cost.
-- **SWC exercise:** Blackjack AP HMG **1.5** + Marauder HRL **1.5** + Minuteman ML **1.5** + Maverick AP Spitfire **1** = **5.5 SWC**, leaving little for Foxtrot Minelayer/other guns. Choose *which* defensive and offensive weapon must really shoot rather than paying for every attractive loadout.
+- **SWC exercise:** a heavy-weapon shopping list can spend nearly everything:
+  - **Blackjack AP HMG:** 1.5 SWC
+  - **Marauder HRL:** 1.5 SWC
+  - **Minuteman ML:** 1.5 SWC
+  - **Maverick AP Spitfire:** 1 SWC
+  - **Total:** 5.5 SWC, leaving little for Foxtrot Minelayer or other guns. Select the actual firing roles instead of paying for every loadout.
 
 ## Where the analysts disagree (short version)
 
@@ -89,8 +122,3 @@ Treat the Blackjack as a **heavy-gun platform**, not an expensive TAG with remot
 4. **Hardcase vs Beasthunter vs Foxtrot:** Hardcase is cheap decoy distraction but Irregular; Beasthunter presents a more serious AP mine/HFT/CC threat; Foxtrot is a Regular on-table scoring/mine asset. Which one matters depends on whether **Order pool, midfield defense, or disposable assassination** is missing.
 5. **Devil Dog FTO vs K-9:** Solo 22pt FTO can form USAMC Duo and threaten with grenades; **23pt K-9 team** compresses Sensor/multiple bodies and better CC/mine clearing. **Shepherd** prefers K-9; **Swiss Miss** sees genuine upside to the new FTO Duo as a different list idea, not simply a cheaper replacement.
 6. **Motorcycles:** Swiss Miss likes Mavericks' fast MSV/AP Spitfire, Shepherd warns motorcycle cover/positioning gives little error margin. Desperado smoke consistently useful but spamming Irregular bikes consumes regular-shooting/scoring slots.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Mobility/value options:** **Desperado 7pt Smoke** is a cheap expendable route opener; **Maverick FO17/0 / AP Spitfire26/1** add very fast smoke and scoring/shooting; **Devil Dog+K9 23** uses Smoke to reach close-range pressure. USARF's standard MSV1 pieces are not equivalent to a ready-made MSV2 Smoke-shoot package.
-- **Buy by destination:** Desperado for one inexpensive lane tax, Maverick when the same high-MOV model should also score, Devil Dog when protected close attack is the goal. Against MSV, normal Smoke may still expose the runner. [Vision tiers](../list-building/vision-control-units-apex-and-value.md).

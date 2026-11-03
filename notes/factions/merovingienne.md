@@ -18,6 +18,14 @@
 - **Solve visibility and range explicitly.** A **17-point Loup-Garou** has a *0-SWC* Smoke Grenade Launcher and Riotstopper; a linked **24/0.5 Viral Marksman** offers Marksmanship and X-Visor; **Vystrel** supplies a Sapper/Neurocinetics long-range ARO when the main force wants to fight inside Spitfire bands. [WIP12 ~22–26m; LoL ~71–74m, 107–111m]
 - **Watch the real bottlenecks:** **6 SWC, many 1-Wound pieces, no current Chain of Command, and off-table Orders.** Mirage-5 2 SWC + Moblot Spitfire 1.5 + Anaconda 1.5 leaves just 1 SWC for hacking/other guns. Decide which packages are *necessary* before adding nice-to-haves. [WIP12 ~97–101m; Tactical Awareness ~33–40m]
 
+**Vision-control choices:**
+
+- **Loup-Garou Smoke GL + Riotstopper (17/0):** economical Regular ranged Smoke for a legal small link, potentially with Apache FTO.
+- **Duroc (Mirage-5):** independent Smoke for an airborne commitment.
+- **112 Motorized:** mobile Doctor who also carries Smoke.
+
+**Loup-Garou Viral Marksman (24/0.5)** is a different gun profile; Marksmanship does not confer MSV. Normal Smoke alone does not defeat MSV. See [vision-control choices](../list-building/vision-control-units-apex-and-value.md).
+
 ## Choose a build architecture
 
 | Plan | Credible starting pieces (current costs) | Why it works / tradeoff |
@@ -28,7 +36,18 @@
 | **Guided opportunism** | Para-Commando FO **21/0** + **Traktor Mul Guided 9/1** or **Kuryer Katyusha 15/1**, optionally 5-pt Baggage Traktor | A flank-entry WIP14 multi-die FO enables attacks without further LoF. Traktor is the cheaper **30 pts / 1 SWC** combined package; Kuryer costs **36 pts / 1 SWC** but adds Guided BS Attack (-3), Warhorse, Baggage/minelayer and a sturdier platform. Do not spend half the army establishing a network solely for occasional Guided shots. |
 | **Anaconda ETB Duo / armored flank** | **Anaconda 59/1.5** + **Moblot Engineer 31/0** = **90/1.5**, or + **112 Motorized 19/0** = **78/1.5**, in the legal ETB Duo | A Tactical Awareness TAG with ARM7, AP Immunity and an escape-system **specialist operator** can do attack and endgame scoring. Engineer or fast Doctor/Smoke companion adds value; alternative **two Anacondas = 118/3 SWC** is legal but concentrates points. Compare against Mirage-5 before buying. |
 
-**Fireteam check:** Main FRRM permits **1 Core, 1 Haris, unlimited Duos**. Métros require ≥1 native Métro and allow up to **2 Moblots / 1 Wardriver / 1 Knauf FTO / 1 foot 112 FTO**; Loup-Garous require ≥1 Loup and allow **Apache FTO only (max 2)**. FRRM teams require at least a **Moblot *or* Briscard** from the required-choice set; do **not** misread this as both being mandatory. ETB Duos require **1–2 Anacondas**, with up to one Motorized 112, Moblot or Kuryer as other eligible members. Profile-specific FTO and Wildcard restrictions apply; refer to the linked canonical chart.
+**FRRM Fireteam legality (consult the canonical chart for the precise profile restrictions):** 1 Core, 1 Haris and unlimited Duos.
+
+- **Métros:** ≥1 native Métro, with permitted additions including:
+  - Moblot (up to 2)
+  - Wardriver (up to 1)
+  - Knauf FTO (up to 1)
+  - 112 FTO on foot (up to 1)
+- **Loup-Garous:** ≥1 Loup-Garou; Apache FTO is allowed (max 2).
+- **FRRM:** requires at least one **Moblot *or* Briscard** from its required-choice set—not both.
+- **ETB Duo:** requires 1–2 Anacondas and may include an eligible Motorized 112, Moblot or Kuryer as the other member.
+
+FTO/ Wildcard restrictions remain profile-specific.
 
 ## Units and combinations: what to reach for, what to cut
 
@@ -49,7 +68,16 @@
 
 ## Vehicles, TAGs and REM bots — precise roster and tradeoffs
 
-**There is no standard FRRM troop with Army troop type `VH` (Vehicle) in the current 22-unit roster.** The **Anaconda is a TAG**; **Carmen Johns** (WB) and **112 Motorized** (LI) have motorcycles; **Kuryer, Vystrel and Traktor Mul are REMs**. Do not label motorcycles as a rules-equivalent Vehicle category.
+**Standard FRRM has no VH-class Vehicle in its 22-unit roster.** Distinguish:
+
+- **Anaconda:** TAG, not VH.
+- **Carmen Johns:** motorcycle Warband.
+- **112 Motorized:** motorcycle LI.
+- **Kuryer:** REM.
+- **Vystrel:** REM.
+- **Traktor Mul:** REM.
+
+A motorcycle is not the Vehicle troop type.
 
 ### Anaconda (TAG) — useful, not an automatic purchase
 
@@ -75,6 +103,14 @@
 
 **Practical Guided sequence:** start with battlefield pressure from mines/camo and an FO/hacker already helping the mission → mark a vulnerable model with **Para-Commando WIP14/+1SD** or a linked Wardriver network → use **Guided** only when the target and remaining Order budget make it worthwhile. **TAK cross-check:** [WIP12 E203 ~46m](https://open.spotify.com/episode/0fLvDDDa2baw7lxt3J4qo9) explicitly cautions against betting a whole game on speculative firing from extreme range. This principle transfers; its army compositions do not.
 
+**Guided and Speculative alternatives:**
+
+- **Para-Commando FO (21/0) + Traktor Guided Katyusha (9/1):** low-cost Targeted/Guided follow-through when FO serves the mission.
+- **Kuryer Katyusha (15/1):** six points more for independent Speculative Fire, Warhorse, mines and Baggage; still **ETB-only** for Fireteams.
+- **Carmen & Bâtard (17/0):** close-range PH-based Speculative route with Sensor.
+
+WIP12 E197 values Kuryer's wider utility but recognizes Traktor may suffice if Guided is all that is needed. See [indirect-fire alternatives](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
 ### Motorcycles (not Vehicle-class units)
 
 - **Carmen & Bâtard 17/0:** Irregular + Impetuous, fast Chain Rifle/Smoke Grenade Launcher, two-body threat and **Bâtard Sensor** to detect a camo-heavy opponent. Great independent flank/Smoke/Sensor tool, but does **not** add a flexible Regular Order and is not a specialist. **TA (~45–49m)** would often take two Regular Apaches first; **WIP12 (~50–52m)** values Sensor and smoke enough to include Carmen when needed.
@@ -82,20 +118,20 @@
 
 ## Lieutenant, orders, deployment and common traps
 
-- **LT:** **Métro 8/0** is the safe *points* default but not automatically secure; camouflage shell/decent concealment helps. **Moblot 27/0** is a tougher-looking WIP14 LT with Tactical Awareness but still only 1 Wound. **Briscard FO 26/0 (+1 Command Token)** changes your command-token budget. **Bruant FTO 32/1SWC (+1 Lieutenant Order)** is useful if deliberately spending those special Orders, but risks command collapse. **No current FRRM Chain of Command option.** Don't spend an LT Order in a way that unintentionally removes it from a needed Fireteam.
+- **Lieutenant options:**
+  - **Métro LT (8/0):** cheapest on points, but must be concealed to survive.
+  - **Moblot LT (27/0):** WIP14 and Tactical Awareness, yet still 1 Wound.
+  - **Briscard FO LT (26/0):** adds +1 Command Token.
+  - **Bruant FTO LT (32/1):** +1 Lieutenant Order, if its special Orders and exposure actually fit the list.
+  - **No current Chain of Command:** preserve command safety and avoid accidentally breaking a needed Fireteam when spending the LT Order.
 - **Orders:** **Moblot Tactical Awareness** is central, but do not double-count off-table Margot/Duroc/Para-Commandos as on-table Turn-1 Orders. A passive **5pt Traktor Baggage** can be a better third support piece than an isolated 3pt **Irregular Warcor** if flexible Orders matter.
 - **SWC constraint:** prioritize **one** of Moblot AP Spitfire, long-range Briscard HRL/Knauf/Vystrel autocannon, Anaconda or Mirage-5 *before* adding a guided battery or both Warddrivers. For example, Mirage-5 (**2**) + AP Spitfire Moblot (**1.5**) + Anaconda (**1.5**) = **5 SWC**, with just 1 SWC remaining.
 - **Damage/defense:** most premium FRRM linked infantry have only **one Wound**. Defensive value often comes from Dodge Special Die, Mimetism/Warhorse, obscured fire lanes, Smoke/Disco, mines and the enemy's Orders lost to reposition—not surviving sustained direct hits.
-- **Avoid obsolete N4 / initial-release legality claims:** **Apache FTO joins Loup-Garou only**, and Apache is *not* a generic Wildcard; **Kuryer is ETB-only** not an army-wide Wildcard; **Knauf FTO belongs in Métros**; **Zouave Sapper and infiltrating Bruant are not FTO**. L'Équipe Argent **Reinforcements have a separate Fireteam chart**.
+- **Avoid outdated N4 and initial-release Fireteam assumptions:**
+  - **Apache FTO:** joins Loup-Garou; not a general Wildcard.
+  - **Kuryer:** ETB-only, not global Wildcard.
+  - **Knauf FTO:** belongs in Métros.
+  - **Zouave Sapper:** not an FTO profile.
+  - **Infiltrating Bruant:** not FTO.
+  - **L'Équipe Argent Reinforcements:** uses a different Fireteam chart.
 - **N5.3 first:** A 2024 Robert Shepherd MRRF battle report correctly illustrates old Chasseur screening and combined Fireteams, but mentions an earlier smoke deficit and other N4 assumptions that no longer apply. Current FRRM has Loups/Disco/Carmen smoke/visibility tools and reworked Moblots.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Best cheap route builder:** **Loup-Garou 17/0 Smoke GL + Riotstopper** in a permitted small Fireteam with Apache FTO can shield an  objective push; **Duroc (Mirage-5)** and motorized 112 provide independent Smoke options.
-- **Tradeoff:** a 17pt Regular Smoke GL advances scorers at low cost, but does not solve MSV ARO by itself or grant your Marksmanship shooter the MSV ability. The linked 24/.5 Loup-Garou Viral Marksman is a different weapon/mission pick. [Vision-control tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**FRRM best package:** **Para-Commando FO21/0 + Traktor Guided Katyusha9/1** is low investment; **Kuryer Katyusha15/1** adds independently useful Speculative Fire, Warhorse, mines and Baggage, but is **ETB-only**, not a generic Wildcard. WIP12 E197 hosts both favor Kuryer utility **and** concede six points saved with Traktor can be better when all you want is Guided; **Carmen+Bâtard17** is close PH-based Speculative plus Sensor.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
