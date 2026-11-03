@@ -277,7 +277,14 @@ At that point the hacking package becomes genuine **area denial** rather than me
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed sequence:** **Deploy a safe Repeater/Pitcher → choose target program / isolate opposing hacker → clear its movement corridor → use real Specialist or Guided only when OP-positive.** #166 Tunguska network/Guided overcame TAK suppression; #056 Tunguska attacked Shinden's elite linked gun/hacking route; #238 ISS placed a Pitcher onto **Jazz**, enabling **Deva Trinity** to kill the hacker; #003 Kestrel **destroyed hostile Pitchers** *before* committing Hetkari. [#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#056](../battle-reports/051-060-n5-battle-report-tactical-analysis.md) · [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#238](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+**Observed sequence:** **Deploy a safe Repeater/Pitcher → choose target program / isolate opposing hacker → clear its movement corridor → use real Specialist or Guided only when OP-positive.** Examples from battle reports:
+
+- **#166 — Tunguska:** network and Guided attacks overcame TAK suppression.
+- **#056 — Tunguska:** attacked Shinden's elite linked gun/hacking route.
+- **#238 — ISS:** placed a Pitcher onto **Jazz**, enabling **Deva Trinity** to kill the hacker.
+- **#003 — Kestrel:** **destroyed hostile Pitchers** before committing Hetkari.
+
+[#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#056](../battle-reports/051-060-n5-battle-report-tactical-analysis.md) · [#166](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#238](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Counter/underperformance:** #005 warns that chasing Guided beyond its mission value can consume Orders needed for scoring; #197 shows how exposed premium HI can be trapped by an otherwise smaller KHD/Cybermine network. Count **Pitcher deployment, resets, hacking Orders, missiles, and the final console/cargo route**. Link to exact Fireteam permissions and loadouts in current sectorials; battle-era tricks may no longer be legal.
 

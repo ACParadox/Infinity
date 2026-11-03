@@ -1144,7 +1144,13 @@ The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) co
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed marker value:** **Strelok Decoys near hidden Tankhunters + Scout mines** (#161/#237 are one tournament account), **Shrouded/Malignos/Speculo** Camo/hidden cluster (#159/#196), and Kestrel **Scarecrow + Banshee** alternative access (#005/#158) tax Discover or force uncertain attack paths. The best result can be **time/position saved**, even when a mine or hidden gun never fires (#190's unfired Tankhunter). [#161](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#159](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#190](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#196](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md).
+**Observed marker value:** these arrangements tax Discover Orders or force uncertain approach routes:
+
+- **Strelok Decoys + hidden Tankhunters + Scout mines** — #161/#237 (one tournament account).
+- **Shrouded / Malignos / Speculo** Camo/hidden cluster — #159/#196.
+- **Kestrel Scarecrow + Banshee** alternative-access threats — #005/#158.
+
+The best outcome can be **time/position saved**, even when no mine or hidden gun fires (#190's unfired Tankhunter). [#161](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#159](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#190](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#196](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md).
 
 **Counters:**
 

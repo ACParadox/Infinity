@@ -15,7 +15,19 @@ This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; 
 
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
-**Scoring-specific companion:** [N5.3 Mission Specialists and Button Pushers](mission-specialists-and-button-pushers-apex-value.md) compares **Asura, Deva, Danavas, Tuareg, Dokkaebi, Razor, Ninja, Jazz and basic HD/KHD troops** by ability to *physically reach and survive* objectives, not merely by Trinity/Oblivion efficiency. A backline apex Hacker is not necessarily the best turn-three button runner.
+**Scoring-specific companion:** [N5.3 Mission Specialists and Button Pushers](mission-specialists-and-button-pushers-apex-value.md) compares the ability of these specialists to *physically reach and survive* objectives, not merely their Trinity/Oblivion efficiency:
+
+- **Asura**
+- **Deva**
+- **Danavas**
+- **Tuareg**
+- **Dokkaebi**
+- **Razor**
+- **Ninja**
+- **Jazz**
+- **Basic HD/KHD troops**
+
+A backline apex Hacker is not necessarily the best turn-three button runner.
 
 [Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
@@ -109,8 +121,25 @@ This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; 
 
 ### What the global tiers mean for common list questions
 
-- **Absolute single-model cyber duel:** high-WIP **Anathematics / Asura / De Fersen** have extreme ceiling if their relevant upgraded **Trinity and defensive effects** apply. **Interventors** offer a far cheaper network engine, not an identical frontal dueling profile.
-- **Best routine hacking investment:** **Interventor, Danavas, Cyberghost HD+, Jazz, Barid, Leila, Apsaras, Dokkaebi, Waverider, 20pt Deva KHD**, then build actual network coverage. A 60–70pt apex Hacker is not the default optimal inclusion.
+- **Absolute single-model cyber duel:** high-WIP options with exceptional ceilings when their upgraded **Trinity and defensive effects** apply:
+  - **Anathematics**
+  - **Asura**
+  - **De Fersen**
+
+  **Interventors** are a much cheaper network engine, not an equivalent frontal-dueling profile.
+- **Best routine hacking investments** (confirm the exact legal roster profile):
+  - **Interventor**
+  - **Danavas**
+  - **Cyberghost HD+**
+  - **Jazz**
+  - **Barid**
+  - **Leila**
+  - **Apsaras**
+  - **Dokkaebi**
+  - **Waverider**
+  - **Deva KHD20pt**
+
+  Build actual network coverage around the selected model. A 60–70pt apex Hacker is not the default optimal inclusion.
 - **Against dense enemy Hacker opposition:** favor **KHD with Cybermask + good Firewall/+SD/BTS or a safe Repeater route** and a second hacker for redundancy. Consider **KHD + Carbonite/Oblivion** so those points still affect hostile TAG/HI.
 - **Against few/no hackers:** plain KHD is mostly a **specialist/stealth** purchase. **HD Spotlight** remains relevant to non-Hackable enemies but uses the N5.3 **AP PS5 saving roll**; if available, cheap FO or pure specialist can be better.
 - **Against multiple TAGs/HI/VH:** an **HD/HD+ with Oblivion/Carbonite**, good projected Repeater, and a KHD protecting its home is more valuable than three plain KHDs.
@@ -131,7 +160,15 @@ This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; 
 
 **+B versus +SD:** +Burst is most valuable **in active attacks** (stronger multiple attack dice). **+SD** adds reliability including the **reactive turn**; high-WIP +SD Trinity/Zero Pain can guard an existing network better than a model whose added Burst is spent only actively. Printed **SR-1 / PS / opponent MOD** upgrades are different effects: do not silently equate these with +B or +SD.
 
-**Cyberplugs / Peripherals:** newer **Cyberplug** architectures exist in multiple current sectorial rosters; read the specific parent + child entry rather than calling a remote companion an ordinary additional Hacker or Regular Order. Likewise, **Jazz+Billie, Zoe+Π-Well, Bit+KISS, Scylla+Devabot, Coyote+BambaBot** have different order/Peripheral arrangements; do not extrapolate one unit's child behavior to another. For full mechanics see [Peripheral and multi-body](peripherals-synchronized-and-multi-body-troops.md).
+**Cyberplugs / Peripherals:** newer **Cyberplug** architectures exist in multiple current sectorial rosters; check each parent-and-child entry rather than counting a remote companion as another ordinary Hacker or Regular Order. Other packages with distinct Order/Peripheral arrangements include:
+
+- **Jazz + Billie**
+- **Zoe + Π-Well**
+- **Bit + KISS**
+- **Scylla + Devabot**
+- **Coyote + BambaBot**
+
+Do not extrapolate one package's child behavior to another. For full mechanics see [Peripheral and multi-body](peripherals-synchronized-and-multi-body-troops.md).
 
 **EVO qualification:** 14pt/0.5-SWC EVO REM often looks efficient; **buy it because multiple programs have planned value** (e.g. REM Marksmanship, Combat Jump odds, an REM lacking Total Reaction, multi-HI/TAG/VH Fairy Dust). A TR REM already has its native reactive-Burst solution. EVO is *support*, not a high-WIP cyber assassin.
 

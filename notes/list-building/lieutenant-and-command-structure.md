@@ -1,6 +1,26 @@
 # List-Building Strategy — Lieutenant and Command Structure
 
-The [N5.3 cross-game **Command Units Apex and Value** tier guide](command-units-apex-and-value.md) ranks specific **Lieutenant and Chain of Command** profiles separately for apex performance and marginal cost, including Saladin/Sun Tze/Marut/Avatar, Kestrel Magistrate, Morat Sogarat/Kornak, Raveneye/Dāoyīng LT+NCO, Kaeltar/Nexus/Farzan/Caliban CoC, Mnemonica, Warhorse LoL resilience and **opposing MCP-transcript opinions**. Use the existing sections below for general command principles and the linked tier guide when selecting a specific current Army profile.
+The [N5.3 cross-game **Command Units Apex and Value** tier guide](command-units-apex-and-value.md) ranks Lieutenant and Chain of Command profiles separately for apex performance and marginal cost, including:
+
+- **Premium command/Lieutenant options:**
+  - **Saladin**
+  - **Sun Tze**
+  - **Marut**
+  - **Avatar**
+- **Kestrel:** Magistrate
+- **Morat:**
+  - **Sogarat**
+  - **Kornak**
+- **Lieutenant + NCO packages:**
+  - **Raveneye**
+  - **Dāoyīng**
+- **Chain of Command options:**
+  - **Kaeltar**
+  - **Nexus**
+  - **Farzan**
+  - **Caliban**
+
+It also covers **Mnemonica**, **Warhorse's Loss-of-Lieutenant resilience**, and opposing MCP-transcript opinions. Use the sections below for general principles and the tier guide for choosing an actual current Army profile.
 
 The Lieutenant should usually do more than merely satisfy the Lieutenant requirement. Good command structures either **minimize the cost and risk of the Lieutenant**, **convert the Lieutenant resource into useful Orders**, or **turn the Lieutenant into a genuinely productive command/attack piece**.
 
