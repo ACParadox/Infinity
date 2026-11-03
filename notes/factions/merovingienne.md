@@ -10,13 +10,27 @@
 
 **FRRM is a mobile, mixed-range toolbox army—not an elite stat-check army.** The best recurring pattern is:
 
-**Cheap Métro orders and midfield roadblocks + one or two Moblot Tactical Awareness guns/utility pieces + a complementary angle opener (Para-Commando, Mirage-5 or a TAG) + enough specialists to score after the attack.**
+**A practical FRRM architecture** contains different jobs, not every premium option:
+
+- **Métro:** cheap Orders and midfield roadblocks.
+- **Moblot Tactical Awareness:** one or two efficient guns/specialists.
+- **Para-Commando / Mirage-5 / Anaconda:** one flank or angle-opening package.
+- **Specialists:** enough survivors to score after the first attack.
 
 - **Buy positioning, not fair gunfights.** Moblots bring Tactical Awareness on *every* loadout, Non-Hackable, WIP14, Shock immunity and Dodge (+1 Special Die). They can maneuver a Fireteam into a good AP Spitfire angle, or Dodge a bad encounter, rather than spending ordinary Orders trading into a stronger shooter. **But they still have only 1 Wound.** [Tactical Awareness S3E39 ~6–14m; WIP12 E197 ~33–41m; Loss of Lieutenant E157 ~84–90m]
 - **Make Turn 1 expensive for the opponent.** The 12/13/14-point one-use-camouflaged infiltrating Métros and 19–20-point Chasseurs create a mine/template/unknown-threat midfield *crumple zone*. Their purpose is chiefly to absorb opponent Orders and protect the real attackers; do not expect cheap Métros to hold forever. [WIP12 E197 ~27–33m; Tactical Awareness ~28–31m]
-- **Attack from a different direction.** **Para-Commando FO (21/0 SWC)** arrives at a useful angle with WIP14 and BS Attack (+1SD), then scores or marks for a Guided Kuryer/Traktor. **Mirage-5 (60/2 SWC)** is the larger commitment, bringing Margot's BS14/Tactical Awareness/specialist status and Duroc's smoke/close assault to the enemy deployment zone. [WIP12 ~56–62m; Tactical Awareness ~30–34m; LoL ~74–78m]
+- **Flank-entry choice:**
+  - **Para-Commando FO (21/0):** WIP14/+1 Special Die, scoring and Targeted support for Guided Kuryer/Traktor.
+  - **Mirage-5 (60/2):** larger rear assault:
+    - **Margot:** BS14, Tactical Awareness and specialist utility.
+    - **Duroc:** Smoke, templates and CC pressure.
+  - These require a credible route and mission purpose. [WIP12; Tactical Awareness; LoL]
 - **Solve visibility and range explicitly.** A **17-point Loup-Garou** has a *0-SWC* Smoke Grenade Launcher and Riotstopper; a linked **24/0.5 Viral Marksman** offers Marksmanship and X-Visor; **Vystrel** supplies a Sapper/Neurocinetics long-range ARO when the main force wants to fight inside Spitfire bands. [WIP12 ~22–26m; LoL ~71–74m, 107–111m]
-- **Watch the real bottlenecks:** **6 SWC, many 1-Wound pieces, no current Chain of Command, and off-table Orders.** Mirage-5 2 SWC + Moblot Spitfire 1.5 + Anaconda 1.5 leaves just 1 SWC for hacking/other guns. Decide which packages are *necessary* before adding nice-to-haves. [WIP12 ~97–101m; Tactical Awareness ~33–40m]
+- **Watch bottlenecks:** 6 SWC, fragile one-Wound pieces, no current Chain of Command and off-table Orders. Example weapon spend:
+  - **Mirage-5:** 2 SWC.
+  - **Moblot AP Spitfire:** 1.5 SWC.
+  - **Anaconda:** 1.5 SWC.
+  - **Total:** 5 SWC, leaving one for other weapons/hacking. Buy necessary packages first.
 
 **Vision-control choices:**
 
@@ -124,8 +138,17 @@ WIP12 E197 values Kuryer's wider utility but recognizes Traktor may suffice if G
   - **Briscard FO LT (26/0):** adds +1 Command Token.
   - **Bruant FTO LT (32/1):** +1 Lieutenant Order, if its special Orders and exposure actually fit the list.
   - **No current Chain of Command:** preserve command safety and avoid accidentally breaking a needed Fireteam when spending the LT Order.
-- **Orders:** **Moblot Tactical Awareness** is central, but do not double-count off-table Margot/Duroc/Para-Commandos as on-table Turn-1 Orders. A passive **5pt Traktor Baggage** can be a better third support piece than an isolated 3pt **Irregular Warcor** if flexible Orders matter.
-- **SWC constraint:** prioritize **one** of Moblot AP Spitfire, long-range Briscard HRL/Knauf/Vystrel autocannon, Anaconda or Mirage-5 *before* adding a guided battery or both Warddrivers. For example, Mirage-5 (**2**) + AP Spitfire Moblot (**1.5**) + Anaconda (**1.5**) = **5 SWC**, with just 1 SWC remaining.
+- **Order economy:** distinguish self-funded activity, off-table troops and support:
+  - **Moblot Tactical Awareness:** self-funded active Orders.
+  - **Margot / Duroc / Para-Commando:** off-table pieces, not on-table Turn-1 Orders.
+  - **Traktor Mul Baggage (5pt):** cheap Regular support.
+  - **Warcor (3pt):** Irregular observer, not interchangeable with Regular Orders.
+- **SWC constraint:** prioritize a main gun job before spending on a Guided battery or two Warddrivers:
+  - **Moblot AP Spitfire:** mobile anti-armor.
+  - **Briscard HRL / Knauf / Vystrel autocannon:** long-range options.
+  - **Anaconda:** TAG approach and operator scoring.
+  - **Mirage-5:** rear assault.
+  - **Example:** Mirage-5 (2) + Moblot AP Spitfire (1.5) + Anaconda (1.5) = **5 SWC**, leaving 1 SWC.
 - **Damage/defense:** most premium FRRM linked infantry have only **one Wound**. Defensive value often comes from Dodge Special Die, Mimetism/Warhorse, obscured fire lanes, Smoke/Disco, mines and the enemy's Orders lost to reposition—not surviving sustained direct hits.
 - **Avoid outdated N4 and initial-release Fireteam assumptions:**
   - **Apache FTO:** joins Loup-Garou; not a general Wildcard.
