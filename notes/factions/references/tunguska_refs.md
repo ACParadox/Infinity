@@ -4,7 +4,7 @@
 
 ## Scope, evidence, and current authority (22 October 2026)
 
-**Authoritative legality:** [Tunguska roster, profiles, AVA and canonical Fireteams]("../"): **N5.3**, Army revision **7.26246.158**, revised 3 September 2026, verified 15 October 2026. Forty-four standard units; **Core 1, Haris 1, Duo unlimited**. Consult [rules]("../") for exact timing, skills and peripheral behavior. This note interprets the roster; **dated speaker claims cannot replace current profiles**. For cross-faction TAG/REM comparisons, see [Vanilla Nomads]("../"), [Bakunin]("../") and [Corregidor]("../"). Their Fireteam permissions do **not** transfer.
+**Authoritative legality:** [Tunguska roster, profiles, AVA and canonical Fireteams](../../../sectorials/nomads/tunguska.md): **N5.3**, Army revision **7.26246.158**, revised 3 September 2026, verified 15 October 2026. Forty-four standard units; **Core 1, Haris 1, Duo unlimited**. Consult [rules](../../../rules/README.md) for exact timing, skills and peripheral behavior. This note interprets the roster; **dated speaker claims cannot replace current profiles**. For cross-faction TAG/REM comparisons, see [Vanilla Nomads](../vanilla-nomads.md), [Bakunin](../bakunin.md) and [Corregidor](../corregidor.md). Their Fireteam permissions do **not** transfer.
 
 ## Highest-value primary recordings (MCP transcript and source audit)
 
@@ -24,58 +24,58 @@
 
 ## N5.3 tactical cross-references, battle reports and purchasing audit
 
-The dated analysis below was transferred from the [Tunguska N5.3 reference]("../"). That reference remains authoritative for roster membership, profiles, costs, Fireteam permissions and validation. Statements below referring to roster tables or the Fireteam chart “above” refer to the linked reference, not this tactical note.
+The dated analysis below was transferred from the [Tunguska N5.3 reference](../../../sectorials/nomads/tunguska.md). That reference remains authoritative for roster membership, profiles, costs, Fireteam permissions and validation. Statements below referring to roster tables or the Fireteam chart “above” refer to the linked reference, not this tactical note.
 
 ### Command-unit apex/value cross-reference (2026-10-23)
 
 **Kulak CoC 23/0** is a practical attack-capable safety net when an aggressive Tunguska Lieutenant/Hacker risks the next turn's pooled Orders. Safe backline command/NCO may require less insurance if the LT is rarely exposed. **Shifta CoC 21/0 belongs to Vanilla Nomads**, not automatically Tunguska; do not import the parent's availability.
 
-See [cross-game Lieutenant, CoC and Order-economy tiers]("../"). **Refer to this pinned roster/Fireteam chart for profile legality.**
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
 ### Mission specialist / button-pusher choices (N5.3)
 
 **Interventor HD+18–23/.5 WIP15 BTS9** is spectacular low-cost network/button eligibility from safety, but is **not a midfield console runner** by itself. Build a real repeater/recon unit and a second forward Objective specialist to reach buttons; **Mary Problems** trades extra points for a Mimetism(-6) forward KHD/Pitcher hybrid. **Kulak CoC** gives command insurance when chosen profile and mission recognize it. Compare hacker duel value separately from actual physical objective access.
 
-[Cross-game apex and value specialist tier guide]("../"). The unit profiles/Fireteams above control exact legality.
+[Cross-game apex and value specialist tier guide](../../list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
 ### N5.3 airborne / backline-strike archetypes and trades (2026-10-23)
 
 **Meteor Zond19/0 or21/0** provides true AD **Repeater + Sensor + FO** at the enemy backline: the payoff comes from **Interventor/WIP15 hacker and guided/Trinity network** rather than its own weak BS11 gun. **Go-Pod VH** attacks across rooftops with aerial mobility but can be very exposed (No Cover) and is not Combat Jump; choose only when supported LoF/exit path exists. **Spektr Hidden/Infiltration** is a more controllable delayed attacker into risky Combat Jump sites. Never import **Corregidor Hellcats/Surface Bearcats** without current Tunguska roster permission.
 
-[Full N5.3 apex/value and delivery-probability tier guide]("../"). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
+[Full N5.3 apex/value and delivery-probability tier guide](../../list-building/airborne-and-enemy-dz-attackers-apex-value.md). Current roster/profile restrictions and canonical Fireteam chart above govern legal choices.
 
 ### Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn shooting choices:** **Kriza HMG45/1.5** gives premium **non-TAG** +1 Burst, BS Attack(-3) and ARM5/2W for repeated FtF; its Hackable S5 body needs safe movement. **Szalamandra HRMC68/2** is the heavy **TAG** AP Burst/ARM8/3W answer when raw firepower and multi-hit resilience justify extra points/SWC. **Grenzer Red Fury28/1** contributes cheaper midrange MSV1 gun; **Grenzer MULTI Sniper32/1.5 Marksmanship** is more of a long reactive/anti-Cover tool and not a Kriza-equivalent active HMG. [Separate non-TAG and TAG apex/value]("../").
+**Active-turn shooting choices:** **Kriza HMG45/1.5** gives premium **non-TAG** +1 Burst, BS Attack(-3) and ARM5/2W for repeated FtF; its Hackable S5 body needs safe movement. **Szalamandra HRMC68/2** is the heavy **TAG** AP Burst/ARM8/3W answer when raw firepower and multi-hit resilience justify extra points/SWC. **Grenzer Red Fury28/1** contributes cheaper midrange MSV1 gun; **Grenzer MULTI Sniper32/1.5 Marksmanship** is more of a long reactive/anti-Cover tool and not a Kriza-equivalent active HMG. [Separate non-TAG and TAG apex/value](../../list-building/active-turn-gunfighters-apex-and-value.md).
 
 ### Warbands and inexpensive trading roles — N5.3
 
 **Denma Connolly Chain(+1B)+Smoke/AP+DA12/0** is a high-value active/defensive speedbump with 15-5, CC23, Berserk and MetaChemistry(ReRoll) inside legal **Bounty Hunters team** context if selected; it is **not a Morlock6** and does not grant team-wide smoke otherwise. **Motorized Bounty Hunters8/0 shotgun+Riotstopper or9/0 SMG+Chain-colt** are faster cheap template/control flank traders, but 1W/Impetuous motorbikes can be eliminated by mines/side ARO. Strong Tunguska hackers can often immobilize a TAG without attempting an unprotected CC dive. Do not import Vanilla Nomads Morlocks unless listed.
 
-[Cross-game warband/cheap-trader apex and value tiers, targets and command packages]("../"). Profile-specific sectorial legality/Fireteams above control all selections.
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
 ### TAG tactical cross-reference (2026-10-23)
 
 **Szalamandra (68)** is the obvious HRMC long-range centerpiece and the current Tunguska profile gives **NCO**; it needs help navigating Hackers, Camo and close flanks. **Anaconda (59)** trades ceiling for an AP Spitfire/Thunderbolt and operator fallback, but is usually a more conditional investment. Do not copy Tunguska NCO into another faction's profile without checking.
 
-Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide]("../"). Current profile and Fireteam legality above remain authoritative.
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
 
 ### Vehicle (VH) tactical cross-reference (2026-10-23)
 
 **Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** preserves Szalamandra/Hollow-Men SWC; **32/1.5 HRL+AP SMG** buys a bigger attack. After those guns and the hacking network remove threats, its Jet Propulsion and Go-Bot create unusually deep flanks. **Robert Shepherd's detailed Tunguska review** strongly opposes treating it as a default opener: S7/ARM2/No Cover and Mimetism(-3) are hard to hide or maintain under MSV/warhorse/repeater opposition. It is not a Fireteam member.
 
-See [VH apex/value tier list and matchup guide]("../"). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+See [VH apex/value tier list and matchup guide](../../list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
 
 ### Hacker and KHD tactical cross-reference (2026-10-23)
 
 **Interventor HD+ 18–23/0.5 WIP15/BTS9**, alongside **KHD 18/0**, are premium cyber capability for near-budget prices. Use **Hollow-Men Pitcher/linked gun** and FastPandas to give them a real network; **Spektr KHD 30/0** supplies Hidden/Infiltration scoring. **Mary Problems 27/0.5** combines HD/KHD + FD/Mimetism(-6), but Shepherd's detailed faction review argues **two Interventors** better sustain a protected backfield net unless Mary must personally deploy forward. **Rounder HD+Trinity 21/0.5** and **Kulak KHD+Carbonite 20/0** make cheap hybrids. **Hollow Man HD 29/0.5 TinBot** needs legitimate link protection; do not confuse high BTS with hacking immunity.
 
-See the [cross-game apex/value Hacker/KHD tier guide]("../"). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+See the [cross-game apex/value Hacker/KHD tier guide](../../list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
 
 
 ### Cheerleader / Order-generation tactical cross-reference (2026-10-23)
 
-See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments]("../"). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
 
 - 7pt Transductor — cheap Regular Repeater/Flash REM (not a dedicated gunfighter); its S3 footprint and AVA constrain spam.
 - 8pt Salyut — Baggage/Repeater Regular Order; reload support and deployment-zone density determine marginal value.
@@ -88,7 +88,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 
 ### ARO apex/value cross-reference (2026-10-23)
 
-The [N5.3 cross-faction ARO apex/value and matchup study]("../") compares hidden missile traps, Neurocinetics/TR, cheap templates/mines, DZ guards and conflicting creator opinions. Consult the **roster and Fireteam chart above** for legally available profiles, SWC, Training and AVA.
+The [N5.3 cross-faction ARO apex/value and matchup study](../../list-building/aro-units-apex-and-value.md) compares hidden missile traps, Neurocinetics/TR, cheap templates/mines, DZ guards and conflicting creator opinions. Consult the **roster and Fireteam chart above** for legally available profiles, SWC, Training and AVA.
 
 - **Reaktion 0SWC Thunderbolt TR** — 19pt recoverable midrange guard, complements a separate expensive gun/hidden layer
 - **Triggerman Neurocinetics Sniper** — high-reactive-ceiling durable 47pt investment, but disputed versus cheaper TR + mine/hidden layers
@@ -102,87 +102,87 @@ The [N5.3 cross-faction ARO apex/value and matchup study]("../") compares hidden
 
 **Hidden Spektr 33/1 E/M+Shock Mine Minelayer** starts a credible concealed defense but is premium; **Spektr 28/0 E/M Mine + Deployable Repeater** is **not a Minelayer** and cannot predeploy its network without an activation. **Heckler Jammer+FastPanda 23/0** is a FD(+10) deterrent, but FastPanda placement is also not a free turn-zero deployment. **Counterpoint:** a 7pt Transductor and more active attack can outperform pricey forward Camo if the opponent has safe Sensor/Deactivator routes.
 
-[Cross-game apex/value and transcript analysis]("../"). This is tactical synthesis; exact loadouts and Fireteams remain above.
+[Cross-game apex/value and transcript analysis](../../list-building/midfield-area-denial-and-speed-bumps-apex-value.md). This is tactical synthesis; exact loadouts and Fireteams remain above.
 
 ### Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
-For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zondbot3** gives reliable repairs at modest cost, with **Remote Presence one-roll revive from either Unconscious level** and optional token reroll. **Daktari14** is enough for VITA wounds where rostered. When a specialist team can score and fight, evaluate its other tasks before buying another Engineer purely because it has a higher price tag. [Doctor/Engineer apex/value, odds and media disagreement]("../").
+For a **Szalamandra/Tsyklon/Vostok** technology shell, a **Clockmaker WIP15 + Zondbot3** gives reliable repairs at modest cost, with **Remote Presence one-roll revive from either Unconscious level** and optional token reroll. **Daktari14** is enough for VITA wounds where rostered. When a specialist team can score and fight, evaluate its other tasks before buying another Engineer purely because it has a higher price tag. [Doctor/Engineer apex/value, odds and media disagreement](../../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
-**Tunguska** generally **counters** a superior melee piece with **hacking, mines, Repeaters, templates and gunfire** rather than paying for a premium raw CC duelist. **Hollow Men/Kriza** have expensive shooting jobs; do not march them into MA4/Monofilament just to clear one cheap warband. If a roster-legal cheap warband/Perimeter screen can tie up the assassin, preserve it for that defensive role; Guard requires LoF+ZoC and is not the same as a visible Repeater network. [Dedicated CC assassin apex/value, delivery and counter-CC]("../").
+**Tunguska** generally **counters** a superior melee piece with **hacking, mines, Repeaters, templates and gunfire** rather than paying for a premium raw CC duelist. **Hollow Men/Kriza** have expensive shooting jobs; do not march them into MA4/Monofilament just to clear one cheap warband. If a roster-legal cheap warband/Perimeter screen can tie up the assassin, preserve it for that defensive role; Guard requires LoF+ZoC and is not the same as a visible Repeater network. [Dedicated CC assassin apex/value, delivery and counter-CC](../../list-building/dedicated-close-combat-assassins-apex-value.md).
 
 ### N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
 
 **Apex linked projector:** **Hollow Man MULTI Rifle+Pitcher26/0** in a correct team gains useful **Fireteam BS/SD**, while **Tsyklon FTO26/1 Spitfire or29/1 Feuerbach** combines **native Repeater, X-Visor, 360º and Pitcher**, with legal Wildcard access; standalone **FD Tsyklon31/1** is a different profile. **Interventor HD+FastPanda20–23/.5** provides WIP15, BTS9 short-throw node (no free Turn-0 FastPanda); **Heckler Jammer+FastPanda23/0** is a Forward Deployment alternative. **Meteor19/0** drops native Repeater; **Stempler15/0** is a mobile FO/Sensor network. **Opposing views:** Shepherd rates linked Pitchers better at achieving reach than Vanilla; MetaChemistry warns expensive Tunguska hackers/HI are highly exploitable by opposing Repeater/KHDs. Beware team/FT-only restrictions.
 
-[Cross-game apex/value guide, exact delivery cost and transcript disagreements]("../"). Profile and Fireteam tables above remain authoritative.
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
 
 ### Tactical cross-reference — toolbox units (2026-10-23)
 
-**Mary Problems27/.5** combines BOTH printed Hacking Device and Killer Hacking Device suites, Pitcher, Mimetism(-6), FD+10 and Climbing+: exceptional 27pt infowar toolbox, not an HMG. **Kulak KHD+Carbonite/Disco20/0** trades device breadth for cheaper physical visibility/mission routes. An older toolbox-unit video doubts that Elena Kovac can put Sensor/BS/TA skills to use at one location; verify her exact current profile and link before applying that opinion. [Role and cost guide]("../").
+**Mary Problems27/.5** combines BOTH printed Hacking Device and Killer Hacking Device suites, Pitcher, Mimetism(-6), FD+10 and Climbing+: exceptional 27pt infowar toolbox, not an HMG. **Kulak KHD+Carbonite/Disco20/0** trades device breadth for cheaper physical visibility/mission routes. An older toolbox-unit video doubts that Elena Kovac can put Sensor/BS/TA skills to use at one location; verify her exact current profile and link before applying that opinion. [Role and cost guide](../../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
 
 ### N5.3 rare abilities & unusual combinations — tactical synthesis
 
 **Puppetactica** is a rare **Peripheral(Control) + Transmutation(1) PuppetBot** approach: **Puppet Master11/0 + FO PuppetBot9/0 =20/0 minimum**, with a Counterintelligence controller and multi-Wound robot that becomes battle-ravaged when hurt. Not a standalone **9pt FO Regular Order**; activate per Control rules and protect Master. **Meteor19/0** is Combat Jump native Repeater+Sensor/FO (no independent Peripheral). **Opposing Shepherd/MetaChemistry:** puppet screening plus Interventor network increases strategic flexibility, but investment in bots and hacking can consume points when an ordinary 20–30pt scorer/attack unit is more efficient.
 
-[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts]("../"). Use current profile and Fireteam chart above.
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
 
 ### Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
-**Heckler20 E/Marat+BSG** defends a close route, **Securitate22 Feuerbach** provides affordable AP+DA anti-armor ARO, **Switcher27/0 Thunderbolt+E/M Carbine+grenades (+1B)** projects repeatable ranged/electronic control. **Tsyklon29/1 Feuerbach** is a longer-range robotic shooter, **Meteor Zond21 E/M Carbine** flank costs airborne delivery, **Miranda25/28 Monofilament+PARA Mine/E/Mitter** is an actual close kill tool at higher access cost. Don't send a K1 Triggerman43 into BS15 TAG unless its FD/Decoy yields favorable FTF. [Anti-TAG/HI non-hacking apex/value rankings]("../").
+**Heckler20 E/Marat+BSG** defends a close route, **Securitate22 Feuerbach** provides affordable AP+DA anti-armor ARO, **Switcher27/0 Thunderbolt+E/M Carbine+grenades (+1B)** projects repeatable ranged/electronic control. **Tsyklon29/1 Feuerbach** is a longer-range robotic shooter, **Meteor Zond21 E/M Carbine** flank costs airborne delivery, **Miranda25/28 Monofilament+PARA Mine/E/Mitter** is an actual close kill tool at higher access cost. Don't send a K1 Triggerman43 into BS15 TAG unless its FD/Decoy yields favorable FTF. [Anti-TAG/HI non-hacking apex/value rankings](../../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
 
 ### N5.3 objective holding, zone domination & carried-objective choices
 
 **Hollow Man Boarding Shotgun Specialist21/0** is extraordinary **W2/ARM4/BTS6/Remote Presence/Super-Jump** on legal Hollow Men team: durable 21pt package for Supplies and zones; **23/0 combi / 26/0 Pitcher** are *not* Specialist automatically. **Puppet Master11/0 + FO PuppetBot9/0 =20/0** is distributed resilient *Peripheral Control* package, battle-ravaged bot, not multiple pooled Regular Orders; keep Puppet Master in cover. **Szalamandra68/2** 3STR/ARM8/BTS9/HRMC flips quadrants hard but cannot normal Supplies. **Kriza Borac Mk12+360º48/0** W2 ARM5 durable area gun (not a box Specialist), contrasts 45/1.5 HMG attack. **Opposing Shepherd/MetaChemistry:** Hollow Men may be overlinked/expensive, but **one 21pt Specialist + defended Puppets** retains 2 zones cheaper than elite hacking/one TAG approach.
 
-[Whole-game objective holding/zone apex/value, scenario scoring and opposing media]("../"). Actual sectorial profiles and Fireteam chart remain authoritative.
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
 
 ### Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
 
 **Interventor HD+18–23/.5** is strong **White Noise** value when its Repeater network can place the template across enemy MSV/Marksmanship LoF; **KHD Kulak20/0 Disco** is Eclipse delivery, **not** an HD+ White Noise user. **Stempler FO/Sensor/Triangulated Fire REM** can actually reveal Camo/Hidden within ZoC; **Meteor Zond Sensor/AD** changes arrival angle but adds travel/entry risk. **Grenzer MSV gun / other linked marksman** are direct anti-Mimetism shots, yet vulnerable to enemy White Noise and Albedo. Take a non-visor fallback, not a whole army that depends on one visibility mode.
 
-[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints]("../").
+[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
 ### Force multipliers — N5.3 role/value cross-reference (2026-10-23)
 
-**Puppet Master11/0 Counterintelligence** is game-wide exceptional cheap buff: protected Regular Order + reduces first-turn Order stripping; a PuppetBot **costs extra and generates no own Order**. **Hollow Man Firewall(-3)24/0** and **Mobile Brigada Firewall(-6)33/0** protect legal members, not every Tunguska Hacker. **TAG-Treiber TAGCom** on the current roster adds only printed Dodge PH+3/GizmoKit PH+1 to same-group Szalamandra/other TAG; **Salyut8/0 Baggage or14/.5 EVO** best when Vostok/REM Supportware is planned. Compare 11pt Master to overpaying expensive decoy/command threats. [Global guide]("../").
+**Puppet Master11/0 Counterintelligence** is game-wide exceptional cheap buff: protected Regular Order + reduces first-turn Order stripping; a PuppetBot **costs extra and generates no own Order**. **Hollow Man Firewall(-3)24/0** and **Mobile Brigada Firewall(-6)33/0** protect legal members, not every Tunguska Hacker. **TAG-Treiber TAGCom** on the current roster adds only printed Dodge PH+3/GizmoKit PH+1 to same-group Szalamandra/other TAG; **Salyut8/0 Baggage or14/.5 EVO** best when Vostok/REM Supportware is planned. Compare 11pt Master to overpaying expensive decoy/command threats. [Global guide](../../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ### N5.3 peripheral / synchronized / multi-body apex-value update
 
 **Primary multi-body identity:** **Puppet Master11/0 + 2 FO PuppetBots9+9=29/0** is a strong Counterintelligence+2 remote ARO picket package. **+AP MMR14 =>43/0** gives short-/mid-field different Spearheads; **Red Fury16/1.5** buys B+1/active gun only if there is an EVO/Supportware plan, not all three guns firing together. **Control Unit** has ONE target-requiring **Spearhead** per Order, 3-body movement and shared Coherency to Spearhead; killing Master disconnects bots, unlike Cyberplug. **Zondnautica BSG17/0** has synchronized ZondMate after Transmutation/Auto and Smoke GL; rapid access but not extra Order. **Fiddler36/0 one JackBot or43/0 two** allows two simultaneous HFT/Vulkan-style attacks (different target with synchronized), while **FTO29/0** legal in team has **zero JackBots**. **2024 WIP12 vs recent Shepherd/TA/Meta:** PuppetBot FO and AP MMR outstanding at role/cost, but 11pt Master and lack of extra Regular Orders are real tax; spending all your points on Puppets limits Hollow Men/other real gun engines.
 
-[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide]("../"). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
 
 ### Battle-report effectiveness and combinations (qualitative, 2026-11-01)
 
-**Two battle-tested, distinct builds:** (A) **Mary Problems / Interventor HD+ + forward Repeaters + Spotlight/Guided + selective Raoul Spector parachute** pressured TAK suppression and order-support positions; (B) **Perseus + Hollow Men Hacker/TinBot**, screened by **Kulak KHD/Cybermines, Heckler Camo, Spectr**, can deny hacking approaches and **physically hold zones**. #166's tournament-winning list choices reflect different missions, not a requirement to field every name at once. [#166]("../").
+**Two battle-tested, distinct builds:** (A) **Mary Problems / Interventor HD+ + forward Repeaters + Spotlight/Guided + selective Raoul Spector parachute** pressured TAK suppression and order-support positions; (B) **Perseus + Hollow Men Hacker/TinBot**, screened by **Kulak KHD/Cybermines, Heckler Camo, Spectr**, can deny hacking approaches and **physically hold zones**. #166's tournament-winning list choices reflect different missions, not a requirement to field every name at once. [#166](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
 
-**Action-level evidence:** #197's Tunguska hacker/Cybermine net **bricked an overextended Achilles** while Kulak and specialists finished Akial tasks (7–3); #229's **Hollow Men + Heckler** held Crossing Lines scoring areas despite late Morat kills (8–0). #056 shows a Pitcher/Guided/Oblivion assault into Shinden's premium link, but such a sequence needs Order and repeater maintenance. [#056]("../") · [#197]("../") · [#229]("../").
+**Action-level evidence:** #197's Tunguska hacker/Cybermine net **bricked an overextended Achilles** while Kulak and specialists finished Akial tasks (7–3); #229's **Hollow Men + Heckler** held Crossing Lines scoring areas despite late Morat kills (8–0). #056 shows a Pitcher/Guided/Oblivion assault into Shinden's premium link, but such a sequence needs Order and repeater maintenance. [#056](../../battle-reports/051-060-n5-battle-report-tactical-analysis.md) · [#197](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#229](../../battle-reports/221-230-n5-battle-report-tactical-analysis.md).
 
 **Buying/playing implication:** Raoul and major Interventor upgrades have a clearer role in network-strike lists; **Hollow Men/Heckler/Kulak** deserve explicit consideration for zone/Classified coverage. Triggermen performance in #122 is a single trial, not an established automatic inclusion.
 
-[Cross-report synthesis and evidence cautions]("../").
+[Cross-report synthesis and evidence cautions](../../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
 
 ### Mission performance — battle-report evidence (2026-11-01)
 
 | Mission(s) | Tested composition / scoring mechanism | Evidence |
 |---|---|---|
-| **Akial Interference / Classifieds** | Mary Problems/Interventor and Raoul/GUIDED network or Perseus+Hollow Men Hacker/TinBot with Kulak KHD; latter stopped Achilles, won 7–3. | [#166]("../"), [#197]("../") |
-| **Crossing Lines / zone occupancy** | Hollow Men + Heckler + Spectr continuously held dead-zone scoring for 8–0 over Morats despite late enemy kills. | [#229]("../") |
-| **Hardlock / cyber denial** | Interventor/Heckler/Hollow Man network Isolated or immobilized major Steel Phalanx guns while maintaining specialist choices. | [#151]("../") |
+| **Akial Interference / Classifieds** | Mary Problems/Interventor and Raoul/GUIDED network or Perseus+Hollow Men Hacker/TinBot with Kulak KHD; latter stopped Achilles, won 7–3. | [#166](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#197](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Crossing Lines / zone occupancy** | Hollow Men + Heckler + Spectr continuously held dead-zone scoring for 8–0 over Morats despite late enemy kills. | [#229](../../battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Hardlock / cyber denial** | Interventor/Heckler/Hollow Man network Isolated or immobilized major Steel Phalanx guns while maintaining specialist choices. | [#151](../../battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
 
-**Limits:** Two different winner list builds are **alternatives**, not a demand to field every named unit together. Triggermen #122 were not the main success factor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit]("../").
+**Limits:** Two different winner list builds are **alternatives**, not a demand to field every named unit together. Triggermen #122 were not the main success factor. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../battle-reports/cross-report-mission-performance-by-sectorial.md).
 
 ### Counterplay — observed N5 battle-report responses (2026-11-02)
 
 | Threat / target | Observed response and limitation | Battle reports |
 |---|---|---|
-| **Vs Hackable TAG/HI** | Mary/Interventor Pitcher → Spotlight/Guided against TAK Veteran/Frontovik and linked Shinden Hatamoto; Interventor/Kulak Cybermines shut down overextended Achilles. | [#166]("../"), [#056]("../"), [#197]("../") |
-| **Vs elite defensive team** | Grenzer Sniper + cheap Bounty Hunter swept exposed Military Orders multi-Fireteam positions while specialists scored Firefight 7–0; Interventor Guided wrecked NCA support in Crossing Lines. | [#137]("../"), [#122]("../") |
-| **Protect own hacker grid** | Banshee KHD got rolls against Interventor but Firewall/BTS prevented damage; Clockmaker/Fiddler and Hollow Men with TinBot support preserve multiple backups. | [#115]("../"), [#166]("../") |
+| **Vs Hackable TAG/HI** | Mary/Interventor Pitcher → Spotlight/Guided against TAK Veteran/Frontovik and linked Shinden Hatamoto; Interventor/Kulak Cybermines shut down overextended Achilles. | [#166](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#056](../../battle-reports/051-060-n5-battle-report-tactical-analysis.md), [#197](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
+| **Vs elite defensive team** | Grenzer Sniper + cheap Bounty Hunter swept exposed Military Orders multi-Fireteam positions while specialists scored Firefight 7–0; Interventor Guided wrecked NCA support in Crossing Lines. | [#137](../../battle-reports/131-140-n5-battle-report-tactical-analysis.md), [#122](../../battle-reports/121-130-n5-battle-report-tactical-analysis.md) |
+| **Protect own hacker grid** | Banshee KHD got rolls against Interventor but Firewall/BTS prevented damage; Clockmaker/Fiddler and Hollow Men with TinBot support preserve multiple backups. | [#115](../../battle-reports/111-120-n5-battle-report-tactical-analysis.md), [#166](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
 
-**Limit:** #166 tournament list archetypes were **alternatives**; do not imply both full packages can be bought simultaneously. #197 had atypical Achilles overextension. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis]("../").
+**Limit:** #166 tournament list archetypes were **alternatives**; do not imply both full packages can be bought simultaneously. #197 had atypical Achilles overextension. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
 
 ---
 
@@ -192,7 +192,7 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 
 **Original audit title:** Nomads — Vanilla, Corregidor, Bakunin, Tunguska: Must-have / Go-to / Avoid
 
-*Source-backed list-building audit — 23 October 2026. Applies to the canonical [Vanilla Nomads]("../"), [Corregidor]("../"), [Bakunin]("../"), and [Tunguska]("../") N5.3 rosters, pinned to the **3 September 2026 Army data**. These are named-player tactical opinions and tested constructions, **not measured global tournament pick rates**. Latest main's profile/AVA/Fireteam source controls over any 2024–2026 video. Full tactical companions: [Vanilla]("../"), [CJC]("../"), [Bakunin]("../"), [Tunguska]("../").*
+*Source-backed list-building audit — 23 October 2026. Applies to the canonical [Vanilla Nomads](../../../sectorials/nomads/nomads.md), [Corregidor](../../../sectorials/nomads/corregidor.md), [Bakunin](../../../sectorials/nomads/bakunin.md), and [Tunguska](../../../sectorials/nomads/tunguska.md) N5.3 rosters, pinned to the **3 September 2026 Army data**. These are named-player tactical opinions and tested constructions, **not measured global tournament pick rates**. Latest main's profile/AVA/Fireteam source controls over any 2024–2026 video. Full tactical companions: [Vanilla](../vanilla-nomads.md), [CJC](../corregidor.md), [Bakunin](../bakunin.md), [Tunguska](../tunguska.md).*
 
 #### Classification standard
 
