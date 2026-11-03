@@ -90,7 +90,6 @@ All five are **legal construction concepts, not free-form mix-and-match**: Ōban
   - **Domaru LT (+1 Order):** supplies extra LT-order economy.
   - **Daiyōkai NCO:** can convert those command resources into attack Orders when paired with that Domaru.
   - **Keisotsu LT:** cheap alternative if the premium command shell is unnecessary.
-- **TAGs:** **O-Yoroi (AVA2)** gives **BS14 MULTI HMG, STR3, Tactical Awareness, CrazyKoala, combat melee and Kobaruto Ancillary**—a legitimate conventional long gun in an otherwise shorter-ranged toolbox. **No ordinary Ōban Fireteam access**; repairs and hacking defense must be funded.
 - **Defensive tricks and speed:**
   - **Ryūken HRL:** Mimetism(-6), Decoy, Minelayer, one-use Camo and HRL for awkward ARO lanes.
   - **Aragoto BSG 13pt:** unusually cheap motorcycle mobility.
