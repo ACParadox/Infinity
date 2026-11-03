@@ -17,8 +17,8 @@
 - **Top 10 — Warbands and Cheap Trading Units (value):** [**Denma Connolly Chain Rifle (+1B) + Smoke + AP+DA CCW 12/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L108) is **A** cheap-warband value with Berserk, Natural Born Warrior and MetaChemistry (ReRoll). Denma is **already Regular**; Wallace adds no new Regular Order from him. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 10 — ARO Units (value):** [**Cateran T2 Sniper 21/1 or AP Sniper 21/0.5**](../list-building/aro-units-apex-and-value.md#L116) is **S cheap reactive points value** in the cross-game Cateran comparison. The Irregular one-Wound body needs a deliberate defensive position, and this rating is not a Fireteam entitlement. [ARO rankings](../list-building/aro-units-apex-and-value.md).
 - **Other useful cross-faction support value:**
-  - [**Kazak Doktor 12/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L88) **S/A cost-to-recovery value**, particularly when a Rokot Fireteam needs an affordable Doctor without paying for an elite gun. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
-  - [**Dozer 13/0 + Remontnikbot 2/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L115) **S conditional engineering value** protecting a Chernobog/REM package; the servant has no Order of its own. [Engineer rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+  - [**Kazak Doktor 12/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L90) **S/A cost-to-recovery value**, particularly when a Rokot Fireteam needs an affordable Doctor without paying for an elite gun. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+  - [**Dozer 13/0 + Remontnikbot 2/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L117) **S conditional engineering value** protecting a Chernobog/REM package; the servant has no Order of its own. [Engineer rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Particularly useful Fireteams
 
