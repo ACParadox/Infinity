@@ -85,6 +85,26 @@
 
 **TAG Duo order trap:** A **Tik LT + Pathfinder TacAware Duo** looks like six potential activations from two Regular Orders + two TacAware Orders + two LT Orders. **Only the first four are naturally Duo activations**; the Tik's personal LT Orders do *not* automatically activate its partner and may split the Fireteam. Compare **solo Tik LT**, **non-LT Tik + Pathfinder** or **Squalos NCO + Pathfinder** before counting “six Duo Orders.” The 17-point TacAware Pathfinder is worth upgrading from 14 mainly when its extra team activation gets used.
 
+## Played Kestrel list skeletons and Fireteam legality audit (2026-11-03)
+
+The [current Kestrel chart](../../sectorials/panoceania/kestrel-colonial-force.md#fireteams) permits **one Core, one Haris and unlimited legal Duos**. Reports before the September 2026 Army revision are evidence of *usage*, not permission to override its formation families.
+
+### Tournament-proven shapes worth building around
+
+- **Economical four-body ARO Core:** [#002–#004 ITC 2025](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) reused **one list**, not three independent army builds: **Black A.I.R. FTO MULTI Sniper + Fennec Lieutenant + Fennec Decoy + Fennec FO** in a **four-person FENNECS Core**. Its independent moving pieces included **Griffin Feuerbach + Firefly Engineer Duo** and a **Hetkari + Pathfinder** attack pair; the latter was described as paired but its original Duo label was less explicit. These are current-chart-compatible **FENNECS** and **KESTREL** compositions when the named FTO and Wildcard profiles are selected.
+- **Mission Haris instead of a large Core:** [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) explicitly used **Fennec + Crux Knight FTO + Bipandra** as a **three-body FENNECS Haris**. This packages an Albedo assault specialist with Doctor and inexpensive mission support; the rest of the list can fund **Redeye, Black A.I.R. and forward specialists**. The report's suspected extra opposing REM is *not* a confirmed legal roster model.
+- **Five-person defensive Core with active Duos:** [#175 CanCon 2025](../battle-reports/171-180-n5-battle-report-tactical-analysis.md) documents **Griffin Feuerbach + Bipandra + three Fennecs** (two Thunderbolt/Minelayer profiles and one basic) as a **five-body FENNECS Core**, with **Hetkari + Firefly Duo** and **Magistrate + Jackal Duo** as other compact packages. The event-winning list should not be inflated with models from the player's second, separate tournament build.
+- **Flexible elite Wildcard Core:** [#158 AdeptiCon 2026](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) describes a **Black A.I.R. K1 specialist + Crux FTO + Fennec FO + basic Fennec** four-body attack candidate and an alternative **Black A.I.R. Neurocinetics Sniper** role. **Crux changes team assignment depending on the table**; never count it in both groups at once. A **Firefly HRL + Firefly Engineer Duo** is separately reported.
+- **TAG-plus-specialist Duo:** [#219 narrative 250pt](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) explicitly used **Squalos Mk-II + Pathfinder TacAware**; this has a **current ARMORED Duo route**, with **Squalos as required-choice** and **Pathfinder as Wildcard**. Keep the Tech-Bee and TAG support bot *outside* its Fireteam headcount. In [#218](../battle-reports/211-220-n5-battle-report-tactical-analysis.md), the **Black A.I.R./Griffin ranged shell** also forced the opponent to spend scarce Orders approaching.
+
+### Do not promote a historical link without rechecking it
+
+- **#175 illegal double-Haris:** the CanCon winner's alternate list reportedly ran **Crux/Bipandra/Firefly** and **Magistrate/two Jackals** as **simultaneous three-body Harises**, then acknowledged that the chart supported only **one Haris**. Correct by reducing the Magistrate/Jackal group to a **Duo**, not by citing the result as evidence two Harises are allowed.
+- **#206 apparent “Hecate”** is likely **Hetkari**, but **Hecate is not a Kestrel roster entry**. The described **Hetkari/Pathfinder/Bipandra/Fennec four-body activation** cannot be transcribed into either current **KESTREL** (Fennec is not in that family) or **FENNECS** (Hetkari is not in that family). The reported **Sforza + Fennec Duo** is likewise **not a current legal FENNECS Duo**: that family is Core/Haris only. Retain the game as historical narration, **not a present-day formation recommendation**.
+- **#218–#219 Griffin + Fennec “Duo”** was expressly announced at the table but **does not fit N5.3 chart types**: FENNECS permits **Core/Haris**, while KESTREL Duo has **no Fennec member**. For present-day lists, use **Griffin + Firefly/Hetkari** in a KESTREL Duo, or add an actual Fennec anchor to a **FENNECS Haris/Core** with at least the required minimum team size.
+
+**Actionable default:** the **four-body Black A.I.R./Fennec Core + one efficient elite/Firefly or Pathfinder Duo + several independent mission attackers** has multiple observed uses, while the **three-body Fennec/Crux/Bipandra Haris** is the more mobile alternative. Choose *one*, not an accidental mash-up of different historical lists.
+
 ## Key Fireteam and gunfighter choices
 
 | Choice | Why pick it | Why another player might not |
