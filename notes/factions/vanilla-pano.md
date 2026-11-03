@@ -6,6 +6,49 @@
 
 **Research provenance:** The tactical assessments, reviews, and opinions below originate in the uploaded source; this merge did not newly inspect the cited video/podcast transcripts. Existing transcript-backed tactical analysis also appears in the [Vanilla PanO roster's tactical section](references/vanilla-pano_refs.md#transcript-backed-competitive-tactics-research-2026-10-19).
 
+## Overview
+
+**What Vanilla PanO does exceptionally well:** combine **the best independent PanO shooting, command, marker, TAG and mission tools without a sectorial roster's narrower choices**. Swiss Guard Hidden guns, Cutter/Tikbalang/Squalos TAGs, cheap synchronized specialists and Camo/airborne alternatives give enormous choice. The fundamental cost is equally distinctive: **Vanilla PanO has no standard Fireteam chart**, so there are *no* normal Duo/Haris/Core shared activations or link bonuses.
+
+### Whole-game standouts — apex versus value
+
+**How to read Top 3 / Top 5 / Top 10:** these are *qualitative, role-specific cross-faction shortlist candidates* based on the repository's N5.3 apex (peak impact) and value (points/SWC/Orders) assessments—not measured win rates, official placements, or claims about the ten best units overall. Each rating applies to the **specified profile and task**, not every variant.
+
+| Whole-game shortlist (specific job) | Vanilla PanO unit/profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 candidate — cheap Strategos LT (value)** | **BCA Magistrate Strategos LT, 19/0** | [S+ LT value](../list-building/command-units-apex-and-value.md): Strategos L1, Counterintelligence and Specialist on a 19-point body. FT Master (Jackals) does **not** create Vanilla Fireteams; **CoC Magistrate 21/0** is a separate AVA1 alternative. |
+| **Top 3 candidate — synchronized double-FO scorer (value)** | **Drummer FO + Drumbot-5 FO, 21/0** | [S multi-FO package](../list-building/peripheral-synchronized-multibody-apex-value.md): two eligible FO attack origins from a synchronized activation plus bot HFT/Flash/360º, but **one pooled Order**, Peripheral Coherency and a fragile controller. |
+| **Top 3 candidate — Hidden long-range infantry gun (apex)** | **Swiss Guard HMG, 56/1.5** | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md): BS15, Hidden, Mimetism(-6) and two Wounds; expensive/Hackable, not an automatic mission specialist. |
+| **Top 3 candidate — Hidden reactive template (apex)** | **Swiss Guard ML(+1SD), 60/1.5** | [S Hidden ARO apex](../list-building/aro-units-apex-and-value.md); **different profile** from the Swiss HMG. |
+| **Top 5 candidate — concealed TAG attack (apex)** | **Cutter MULTI HMG, ~97/2** | [S TAG apex](../list-building/tags.md), only **B value** because of its huge opportunity cost and Sensor/hacking exposure. |
+| **Top 5 candidate — inexpensive TAG gun (value)** | **Squalos Mk-II MMR 55/1** or **NCO MULTI HMG 66/1.5** | [S TAG value](../list-building/tags.md): BS15 and Tactical Awareness, with NCO on one distinct loadout; **no Vanilla TAG Duo**. |
+| **Top 5 candidate — agile TAG value** | **Tikbalang HMG 69/1.5**, or **LT(+1 Order) 73/1.5** | [S TAG value](../list-building/tags.md): Climbing Plus, Mimetism(-3), Tactical Awareness and mine; LT bonus Orders are **personal**, not team activations. |
+| **Top 5 candidate — inexpensive durable Specialist (value)** | **Teutonic Knight SMG Specialist, 19/0** | [S+ objective-carrier value](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md): two-Wound scorer for 19 points; Impetuous/Limited Cover require careful positioning. |
+| **Top 5 candidate — front-line synchronized denial (value)** | **Peacemaker HSG + Auxbot 23/0** or **Minelayer + Auxbot 24/0.5** | [S+ peripheral value](../list-building/peripheral-synchronized-multibody-apex-value.md): forward Repeater, template/optional mine. Hackable and large. |
+| **Top 5 candidate — cheap TAG support (value)** | **Tech-Bee TAGCom, 9/0** | [S+ force-multiplier value](../list-building/force-multipliers-special-abilities-apex-value.md): same-group printed Dodge/GizmoKit support, **not** extra BS, an Engineer or global effect. |
+| **Top 10 candidate — cheap projected Eclipse/FO (value)** | **Fennec FO + Sensor + Disco, 13/0** | [S+ visibility value](../list-building/vision-control-units-apex-and-value.md) and **actual Vanilla roster access**, but lacks the Kestrel Fireteam benefit; limited-use and fragile. |
+| **Top 10 candidate — airborne specialist/hacker (value)** | **Banshee KHD, 23/0** | [Strong airborne role](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): Combat Jump, Super-Jump, MSV1, Pulzar and cyber-scoring access. Landing variance/W1 limit certainty. |
+
+### Particularly strong or unusual Fireteams
+
+**None.** The [Vanilla PanO reference](../../sectorials/panoceania/panoceania.md#fireteams) explicitly has **no standard Fireteam chart**; FTO labels do not unlock Duo/Haris/Core bonuses.
+
+Its best **unlinked synergies** are:
+
+- **Magistrate Strategos LT + independent gun:** flexible converted LT Order helps power a Swiss or TAG without claiming nonexistent Fireteam movements.
+- **Joan LT + eligible non-Religious Irregular troopers:** Inspiring Leadership converts Orders only when their actual rules and profiles permit it; Joan has no Vanilla Haris.
+- **Swiss Guard + Pathfinder/Peacemaker:** Hidden first-shot threat and independent Sensor/Repeater/forward denial cover different axes.
+- **Tikbalang or Squalos + Tech-Bee + Engineer:** a self-funding TAG backed by support; each separate model still costs its own activations.
+
+### Unusual access, gaps and trade-offs
+
+- **Broad premium roster:** **Cutter, Tikbalang, Squalos, Swiss, Zulu-Cobra, Drummer** can coexist as legal independent choices; **Jotum and Uhlan** remain absent from the Vanilla roster.
+- **Aerial VH and AD options:** **Redeye** supplies rare off-axis flight; **Banshee KHD** supplies a cheap landing hacker, with No Cover/hackability or Combat Jump risk respectively.
+- **Unusual low-cost tools:** **Fennec Disco/Sensor**, **Drummer double FO**, **Magistrate Strategos/CoC**, **Peacemaker Auxbot** and **Zulu-Cobra Jammer** offer many complementary niche solutions, but not one imaginary combined profile.
+- **Real CoC exists:** **Magistrate CoC 21** can insure an attacking LT, but **AVA1** prevents also taking its 19-point Strategos LT profile.
+- **Disco/Eclipse is not normal smoke-shooting:** the Eclipse template blocks friendly MSV too; do not import other PanO sectorials' link/smoke abilities.
+- **Fireteam absence is absolute:** a supposed Karhu Duo, Joan Haris or Bulleteer + Blade Duo in older source material is **only an unlinked tactic** under the pinned N5.3 chart.
+
 ## Core identity
 
 Current N5.3 Vanilla PanO is much broader than the old stereotype of **BS15 + TAG + cheap Orders**.

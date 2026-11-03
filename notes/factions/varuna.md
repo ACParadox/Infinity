@@ -6,6 +6,40 @@
 
 **Corrections to imported guidance:** Varuna's current 27-unit roster **does not include a Chain of Command profile**; in particular **Richard Quinn is FO/Disco Baller, not CoC**. Plan a protected Lieutenant rather than relying on a nonexistent Quinn succession model. Also, a Varuna Cutter **does not have Tactical Awareness**; Squalos Mk-II does.
 
+## Overview
+
+**What Varuna does exceptionally well:** **spend very little to force expensive enemy Orders in ARO**, then counterattack with linked MSV/Mimetism guns and independent Camo or fast specialists. **Helots, Kamau, Zulu-Cobras and Montesas** make a strong defensive-to-offensive sequence. Its redesigned mixed **Undertow, Cavalry and Varuna** teams are much more flexible than an obligatory oversized Kamau Core.
+
+### Whole-game standouts — apex versus value
+
+**How to read Top 3 / Top 5 / Top 10:** these are *qualitative, role-specific cross-faction shortlist candidates* based on the repository's N5.3 apex (peak impact) and value (points/SWC/Orders) assessments—not measured win rates, official placements, or claims about the ten best units overall. Each rating applies to the **specified profile and task**, not every variant.
+
+| Whole-game shortlist (specific job) | Varuna unit/profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 candidate — cheap reactive launcher (value)** | **Helot FTO SMG + LRL + Sensor, 10/0**, or **Camo(1 Use) LRL, 12/0** | [S+ non-TAG ARO value](../list-building/aro-units-apex-and-value.md): Neurocinetics on an extremely cheap entry tax. **FTO and Camo are separate profiles**; Irregular is not a transferable Order unless actually converted. |
+| **Top 5 candidate — linked long-range HMG per point (value)** | **Kamau HMG, 26/1** | [S/A+ ranged shooting value](../list-building/active-turn-gunfighters-apex-and-value.md): BS13/Mimetism(-3) at a low price if a legal team is already useful; a whole new expensive Core only for its HMG erases the value. |
+| **Top 5 candidate — concealed TAG gun (apex)** | **Cutter MULTI HMG, ~97/2** | [S TAG apex](../list-building/tags.md): Hidden/Camo, Mimetism(-6) and BS15 give very strong initial firing geometry. Its enormous price makes overall TAG **value B**. |
+| **Top 5 candidate — affordable TAG gun (value)** | **Squalos Mk-II MMR, 55/1**, or **HMG+GL, 62/1.5** | [S TAG value](../list-building/tags.md): BS15/Tactical Awareness with affordable independent pressure; not Cutter-like concealment. |
+| **Top 5 candidate — forward synchronized template/mine (value)** | **Peacemaker HSG + Auxbot, 23/0**, or **Minelayer + Auxbot, 24/0.5** | [S+ multi-body value](../list-building/peripheral-synchronized-multibody-apex-value.md): FD(+20), native Repeater and close template/optional mine support. S4, Hackable, Peripheral Coherency. |
+| **Top 10 candidate — linked anti-Mimetism sniper (apex/value)** | **Kamau MSV2 MULTI Sniper, 29/1.5** | [A+ linked reactive threat](../list-building/aro-units-apex-and-value.md): strong MSV2/Mimetism(-3) FtF defence in a legal team. W1 and White Noise/opening angles are counters. |
+| **Top 10 candidate — Camo midfield specialist (value)** | **Zulu-Cobra FO 24/0** or **KHD/Pitcher 26/0** | [A specialist value](../list-building/mission-specialists-and-button-pushers-apex-value.md): FD(+10), Camo/WIP13 and genuine independent button/hacker paths. The **23-point Jammer/Sensor** is another profile, not added to both. |
+
+### Particularly strong or unusual Fireteams
+
+- **Patsy + two Helot FTO Haris:** **Patsy Garnett 34 + two 10-point Helot FTO LRL = 54/0**, with **FT Master (Helots)** converting the two otherwise Irregular Helots at the *next Order Count* while a valid team exists. Useful mission/ARO shell, not cheapest possible Order farming. Non-FTO Camo Helots cannot join.
+- **Undertow Core/Haris:** **Kamau or Varuna ORC** required-choice gun, with **foot Montesa FTO** for specialist assault and **Varuna Machinist** counting as Kamau; pressure can continue after the first shootout.
+- **Cavalry Duo:** **Squalos Mk-II or motorized Montesa** is required-choice, with legal **Kamau/Bulleteer** support; a mobile alternative to a purely static Kamau shell.
+- **Forward Montesa Duo:** exactly **two foot Montesas**; don't replace either with the motorized profile.
+
+### Unusual access, gaps and trade-offs
+
+- **No Chain of Command profile in the 27-unit roster.** **Quinn FO/Disco is not CoC**; protect exposed ORC/Uma/Zulu/Cutter LTs accordingly.
+- **Disco/Eclipse:** **Quinn** offers projected anti-MSV crossing without providing one-sided shooting *through* Eclipse.
+- **Exceptional cheap Irregular ARO density:** Helot FTO Sensor launchers and independent Camo(1 Use) variants create different traps; AVA3, no general free Regular conversion.
+- **Anti-Mimetism and midfield denial:** **Kamau MSV2/MSV1** and **Zulu-Cobra Jammer/Pitcher/FO/KHD** cover different problems with mutually exclusive loadouts.
+- **Two TAGs, no Vehicle:** **Cutter** and **Squalos** are both legal, but **Redeye VH is not**, and Cutter does **not** inherit Squalos Tactical Awareness.
+- **N5.3 Fireteam redesign:** older Kamau Core assumptions and non-FTO Helot link assertions should not override [the current Varuna chart](../../sectorials/panoceania/varuna-immediate-reaction-division.md#fireteams).
+
 ## Core identity
 
 Current N5 Varuna is still a **defensive / counterattack PanO sectorial**, but it should not be built like old N3/N4 Varuna.

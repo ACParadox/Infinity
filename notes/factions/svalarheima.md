@@ -6,6 +6,42 @@
 
 **Factual source:** [current SWF roster, loadouts and canonical Fireteam chart](../../sectorials/panoceania/svalarheima-s-winter-force.md), status `current`, Army **7.26246.158** (data 2026-09-03), N5.3 + FAQ. Video/podcast commentary is opinion; historic costs, profiles and link assertions do **not** supersede the reference. Source judgments are attributed below. Particular care: **Blade FTO is linkable now; Pathfinder TacAware is not a SWF Wildcard; no SWF Vehicle (VH) entries; Jotum is the only TAG**.
 
+## Overview
+
+**What WinterFor does exceptionally well:** combine **oppressive conventional long-range AROs** with fast scoring and close-combat counterattack. A linked **Knight of Justice ML**, efficient Karhu NCO gun, or ultra-armored Jotum guards the first lane while Vargar Disco/Albedo, Hidden Locust and agile melee Wildcards solve the next. Particularly unusual is the allowance of **two Haris Fireteams**: WinterFor can split its attack into multiple credible modules.
+
+### Whole-game standouts — apex versus value
+
+**How to read Top 3 / Top 5 / Top 10:** these are *qualitative, role-specific cross-faction shortlist candidates* based on the repository's N5.3 apex (peak impact) and value (points/SWC/Orders) assessments—not measured win rates, official placements, or claims about the ten best units overall. Each rating applies to the **specified profile and task**, not every variant.
+
+| Whole-game shortlist (specific job) | WinterFor unit/profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 candidate — durable linked missile ARO (apex)** | **Knight of Justice ML(+1SD), 46/1.5** | [S linked reactive apex](../list-building/aro-units-apex-and-value.md): BS14, ARM5/BTS9/two Wounds, native +1SD plus legal link bonuses. Still costly and avoidable. |
+| **Top 5 candidate — extraordinary resistance to ordinary gunfire (conditional TAG apex)** | **Jotum MULTI HMG, 82/1.5** | [S/A+ conventional-fire ceiling](../list-building/active-turn-gunfighters-apex-and-value.md): ARM10/BTS9/three STR, Tactical Awareness and resilience to unprepared armies. Its broader [TAG points-value tier is B](../list-building/tags.md), as AP/E/M/hacking/CC bypass brute armor. |
+| **Top 5 candidate — low-cost same-group TAG buff (value)** | **Tech-Bee TAGCom, 9/0** | [S+ support value](../list-building/force-multipliers-special-abilities-apex-value.md): printed Dodge/GizmoKit benefits to an eligible same-group Jotum; not a BS buff or Engineer. |
+| **Top 5 candidate — forward two-body threat (value)** | **Peacemaker HSG + Auxbot, 23/0**, or **Minelayer + Auxbot, 24/0.5** | [S+ multi-body value](../list-building/peripheral-synchronized-multibody-apex-value.md): advance/deploy a Repeater, template fork and mine into routes a Jotum cannot guard. Hackable/fragile REM. |
+| **Top 5 candidate — cheap FO/Sensor/Repeater (value)** | **Pathfinder, 14/0**, or **TacAware 17/0** | [S+ mission-toolbox value](../list-building/mission-specialists-and-button-pushers-apex-value.md); valuable independently, but **the TA Pathfinder is not a WinterFor Wildcard**. |
+| **Top 10 candidate — dual-use MSV/Climbing NCO shooter (value)** | **Karhu Feuerbach(+1B), 34/1.5** | [A dual-role reactive gun](../list-building/aro-units-apex-and-value.md): MSV1, Mimetism(-3), Climbing Plus, NCO and legal team support; **one Wound** limits exposed exchanges. |
+| **Top 10 candidate — Eclipse plus scoring on a mobile carrier (value)** | **Vargar FO + Disco Baller, 24/0** | [A vision-control value](../list-building/vision-control-units-apex-and-value.md): Super-Jump, Albedo(-6), FO, Deactivator and projected Eclipse on one profile. Limited charges and W1. |
+| **Top 10 candidate — linked MSV2 reactive sniper (apex/value)** | **Nisse MSV2 MULTI Sniper, 29/1.5** | [High-grade linked ARO](../list-building/aro-units-apex-and-value.md): MSV2/Mimetism(-3) in a legal Nisse team; W1 and smoke/White Noise matchups matter. |
+
+### Particularly strong or unusual Fireteams
+
+- **Two Haris allowance:** WinterFor can use **one Core plus two Haris**, unlike the usual one-Haris restriction; this is an actual structural advantage for distributed attackers.
+- **Fusiliers Core/Haris + Knight of Justice ML:** required **Fusilier** plus Wildcard **KoJ** makes a relatively cheap, extremely hostile long-lane ARO.
+- **WinterFor Beta Haris:** required-choice **Karhu, Hospitaller FTO or Bøyg**, with eligible **Nisse/Hawkins** support; particularly good for a Karhu Feuerbach/NCO plus specialist/recovery work.
+- **WinterFor Alpha Core/Haris:** **Vargar or ORC WinterFor** required-choice base plus eligible **Karhu** and Wildcards such as **Shona or Valkyrie** for visibility denial and CC countercharge.
+- **Bulleteers Duo:** a **Bulleteer + Karhu** uses a fast REM and a capable NCO/Engineer without consuming either Haris.
+
+### Unusual access, gaps and trade-offs
+
+- **Only one TAG family: Jotum.** It is AVA2 but has no native TAG Fireteam; **no Redeye or other Vehicle-class** entry.
+- **Eclipse and anti-MSV tools:** **Vargar/Quinn/Bøyg Disco** block even friendly MSV; **Karhu MSV1, Nisse MSV2 and KoJ** instead win certain gun lanes directly.
+- **No standard Combat Jump package:** **Blade-Ops Parachutist** is not Combat Jump; most objective pressure advances from deployment or Hidden positions.
+- **Meaningful close assault:** **Shona, Hawkins, Valkyrie** complement guns and avoid needing to win every FtF at range.
+- **Recovery and command:** **Karhu Engineer/Machinist** plus eligible **Agnes CoC** can keep high-price pieces working; none makes a Jotum immune to appropriate counters.
+- **Fireteam-profile traps:** **Blade FTO** is allowed in Fusiliers; **Pathfinder TA** is *not* a SWF Wildcard and **Clipper FTO** has no SWF chart row. [Canonical WinterFor chart](../../sectorials/panoceania/svalarheima-s-winter-force.md#canonical-fireteam-chart).
+
 ## In one minute
 
 - **Identity:** unusually direct PanO with excellent long-range shooting **and** fast close assault; MSV/Mimetism/Albedo, Super-Jump/Climbing Plus and a very durable Jotum. Combine firepower with the specialist or melee piece that will *take the objective you just cleared*, rather than spending the whole first turn shooting (Shepherd/Lockie, ITS17).

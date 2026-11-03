@@ -2,6 +2,41 @@
 
 **Reference archive:** [Primary source recordings, N5.3 tactical cross-references, battle reports and purchasing audit](references/nca_refs.md).
 
+## Overview
+
+**What Neoterra does exceptionally well:** field **some of the game's strongest concealed first-shot guns** while keeping cheap, useful scoring infrastructure behind them. The Swiss Guard, camouflaged Uhlan and economical Squalos pose different problems; **Bolts, Blockers, Hexas, Auxilia and mobile REMs** prevent the entire plan from collapsing if one attacker loses its first exchange. NCA excels at *layered, recoverable threats*, not just BS15 spam.
+
+### Whole-game standouts — apex versus value
+
+**How to read Top 3 / Top 5 / Top 10:** these are *qualitative, role-specific cross-faction shortlist candidates* based on the repository's N5.3 apex (peak impact) and value (points/SWC/Orders) assessments—not measured win rates, official placements, or claims about the ten best units overall. Each rating applies to the **specified profile and task**, not every variant.
+
+| Whole-game shortlist (specific job) | Neoterra unit/profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 candidate — concealed long-range infantry gunfighter (apex)** | **Swiss Guard HMG, 56/1.5** | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md): BS15, Hidden Deployment, Mimetism(-6), Surprise and two Wounds. Excellent at choosing a decisive first shot; costly/Hackable. |
+| **Top 3 candidate — high-consequence Hidden ARO (apex)** | **Swiss Guard ML(+1SD), 60/1.5** | [S reactive apex](../list-building/aro-units-apex-and-value.md): a Hidden missile changes what the enemy can safely activate. **Separate** from the HMG profile. |
+| **Top 5 candidate — economical TAG assault (value)** | **Squalos Mk-II MMR, 55/1**, or **NCO MULTI HMG, 66/1.5** | [S TAG value](../list-building/tags.md): BS15 and Tactical Awareness; NCO makes an LT Order useful. Vulnerable to hacks and more visible than an Uhlan. |
+| **Top 5 candidate — forward synchronized screen (value)** | **Peacemaker HSG + Auxbot, 23/0**, or **Minelayer + Auxbot, 24/0.5** | [S+ synchronized value](../list-building/peripheral-synchronized-multibody-apex-value.md): FD(+20), Repeater, template and prepaid mine on eligible variant. Hackable S4/Peripheral limitations apply. |
+| **Top 5 candidate — fast FO/Sensor scorer (value)** | **Pathfinder FO/Sensor, 14/0**, or **TacAware 17/0** | [S+ specialist value](../list-building/mission-specialists-and-button-pushers-apex-value.md): mobile Repeaters, Camo detection and buttons. The extra Tactical Awareness is **not** another unrestricted pool Order. |
+| **Top 5 candidate — inexpensive cyber specialist (value)** | **Deva KHD, 20/0** | [S KHD value](../list-building/hackers-and-killer-hackers.md): WIP15 plus NWI at a manageable specialist price. Does not replace Hidden Hexa or Locust if concealment is the actual need. |
+| **Top 10 candidate — linked missile ARO value** | **Bolt Missile Launcher, 24/1.5** | [A+ linked ARO](../list-building/aro-units-apex-and-value.md): Marksmanship and legal Neoterra team bonuses for relatively few points; W1 and the cost of building the team limit it. |
+| **Top 10 candidate — camouflaged TAG opening (apex)** | **Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5** | [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.** |
+
+### Particularly strong or unusual Fireteams
+
+- **Ultima Ratio Duo:** **Squalos Mk-II** with Wildcard **Pathfinder TacAware** joins actual shooting to FO/Sensor/Repeater scoring and a personal activation. Native choices also include the **Maximus TAG**. This is **not** a legal Uhlan Duo.
+- **Neoterra Core/Haris:** **Bolt or ORC** required-choice gun base, with **Machinist NCA** (counts as Bolt), **Blockers**, and legal Wildcards such as **Black Friar, Quinn or Hannibal**. Excellent when linked Bolt ARO and repair/hacking help are both needed.
+- **Fusilier Core/Haris:** a cheap required **Fusilier** can support **Blocker** network defense and limited ORC/CSU firepower rather than tying the whole budget into elite infantry.
+- **CSU Duo:** **CSU + Deva** or eligible **Blocker** makes an economical independent scoring/hacker module.
+
+### Unusual access, gaps and trade-offs
+
+- **Swiss Hidden Deployment and Uhlan Camo are independent apexes**, not a Fireteam; build distinct routes so a Sensor or a strong ARO cannot answer every threat.
+- **Aerial Redeye VH access:** rare among PanO sectorials; fast vertical/off-angle attack, but **No Cover, S7, hacking and 1.5 SWC** are serious limitations.
+- **MSV3 plus projected Eclipse:** **Aquila Guard Disco** or **Quinn Disco** gives high-end vision-control access, but at much greater cost than a Kestrel Fennec.
+- **Hacking and CoC infrastructure:** **Blocker**, **Hexa** and **Locust** cover different cyber positions; **Quinn** or **Bolt CoC** protects an exposed fighting LT.
+- **Auxilia FO + Auxbot** is inexpensive synchronized objective defense; the two bodies do not create two Regular Orders.
+- **Profile-specific legal limits:** Aquila/Blade/Uma Wildcards have FTO restrictions; **Clipper FTO and Uhlan are not Fireteam-eligible** under NCA's chart. [Canonical NCA chart](../../sectorials/panoceania/neoterran-capitaline-army.md#fireteams).
+
 ## 2026-10-19 transcript synthesis — read this first
 
 **Status:** direct MCP transcript review of [WIP12 E201 (Trent; March 2026)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb), [Robert Shepherd's NCA faction focus (January 2026)](https://www.youtube.com/watch?v=axa19k7qE1E), [Swiss Miss Gaming's NCA tier list (October 2025)](https://www.youtube.com/watch?v=sEGUAe3ddrQ), and [Loss of Lieutenant E157 (October 2025)](https://www.youtube.com/watch?v=xTO7FjWO0KQ). For the shared Vehicle/TAG/REM ecosystem, also read MCP transcripts for [Shepherd's Aerial Vehicles ranking](https://www.youtube.com/watch?v=N6TYjMgU4ZM) and [Dice Gods' flyer balance discussion](https://www.youtube.com/watch?v=QscqX3hlUZU). Comparisons to shared PanO platforms are also available in [Kestrel's transcript-backed review](kestrel.md). **The pinned [NCA roster](../../sectorials/panoceania/neoterran-capitaline-army.md) takes priority over presenters' older point costs/skills.**

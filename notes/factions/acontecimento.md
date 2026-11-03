@@ -6,6 +6,40 @@
 
 **Factual authority:** [current SAA roster / profiles / Fireteam chart](../../sectorials/panoceania/shock-army-of-acontecimento.md), Army `7.26246.158` (data changed 2026-09-03), N5.3. Podcast/video rankings are opinions; their old rules or costs do **not** override that reference. In particular, the Regular hacker **no longer has a grenade launcher** (it has Cybermine/FastPanda instead), and the SAA Regular Sapper sniper is **20 points/1 SWC**, not the older N4 configuration.
 
+## Overview
+
+**What Acontecimento does exceptionally well:** combine **premium PanO shooting** with **very cheap home-zone mines/Sensor, independent infiltrating specialists, and genuine flexible Fireteams**. Its unusual **Guarda de Assalto + synchronized Eclipse Auxbot** crosses MSV-covered lanes, while a mobile Tikbalang or Dragão can advance with support rather than consuming the entire list's plan.
+
+### Whole-game standouts — apex versus value
+
+**How to read Top 3 / Top 5 / Top 10:** these are *qualitative, role-specific cross-faction shortlist candidates* based on the repository's N5.3 apex (peak impact) and value (points/SWC/Orders) assessments—not measured win rates, official placements, or claims about the ten best units overall. Each rating applies to the **specified profile and task**, not every variant.
+
+| Whole-game shortlist (specific job) | Acontecimento unit/profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 candidate — cheap DZ mine/Sensor defence (value)** | **Acontecimento Regular Minelayer + Sensor, 13/0** | [S+ area-denial value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md): a Regular Order, Sensor, Triangulated Fire and start-of-game Shock Mine at almost line-infantry price. **DZ defence, not Infiltration.** |
+| **Top 5 candidate — forward synchronized deterrence (value)** | **Peacemaker HSG + Auxbot, 23/0**, or **Auxbot/Minelayer, 24/0.5** | [S+ two-body value](../list-building/peripheral-synchronized-multibody-apex-value.md): FD(+20), native Repeater, flamethrower fork and optional prepaid mine; Hackable S4 and Peripheral geometry are liabilities. |
+| **Top 5 candidate — mobile TAG assault per point (value)** | **Tikbalang HMG, 69/1.5** | [S/A+ mobile TAG shooting value](../list-building/active-turn-gunfighters-apex-and-value.md): BS15, Mimetism(-3), Climbing Plus and Tactical Awareness. Its ordinary HMG still needs an anti-ARM plan. |
+| **Top 5 candidate — inexpensive scoring/Sensor package (value)** | **Pathfinder FO/Sensor/Repeater, 14/0**, or **TacAware 17/0** | [S+ FO value](../list-building/mission-specialists-and-button-pushers-apex-value.md): scores, detects Camo and moves a Repeater. SAA's **AVA1** means every Pathfinder commitment matters. |
+| **Top 10 candidate — concealed anti-premium mine (apex)** | **Naga Monofilament Minelayer, 26/0.5** | [A+ midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md): Camo/Infiltration and a Monofilament trap can tax TAGs/HI; less useful against inexpensive dispersed targets. |
+| **Top 10 candidate — premium anti-MSV route-making (apex/niche)** | **Guarda de Assalto, 40–44, with Eclipse Auxbot** | [Distinctive projected Eclipse](../list-building/vision-control-units-apex-and-value.md) on a BS15/two-Wound attacker. Excellent for a real crossing; too expensive if the Auxbot only throws one unnecessary template. |
+| **Top 10 candidate — hacker plus synchronized network package (value)** | **Scylla HD + Charybdis, 32/0.5** | [A+ network package](../list-building/network-projection-repeaters-pitchers-apex-value.md): Pitcher, Trinity and a synchronized Repeater/flamethrower body. The selectable **Scylla FTO + Charybdis FTO package (37/0.5)** differs in Fireteam and Order behavior. |
+
+### Particularly strong or unusual Fireteams
+
+- **Moto-mecanizados Duo:** a legal **Tikbalang or Dragão** anchor plus Wildcard **Pathfinder TacAware** combines long-range firepower with FO/Sensor/Repeater mission reach. The source required-choice set also includes motorized Montesa and Bulleteer; the exact combination matters.
+- **Acontecimento Core/Haris:** a required-choice **Bagh-Mari or ORC** can travel with **SAA Machinist (counts as Bagh-Mari)**, eligible **Montesa FTO** or **Bulleteer**. Strong when the same squad contains both a gun and the specialist who exploits the cleared lane.
+- **Forward Montesa Duo:** **two foot Montesas**, potentially **Forward Deployment (+20) Red Fury 32/1.5** plus **Paramedic 26/0**. This is a forward-scoring assault team, not the motorized model.
+- **Regulars Core/Haris:** a cheap **Regular** anchor can add limited **Bagh-Mari, ORC, Machinist or Beasthunter FTO** muscle without spending five premium-unit prices.
+
+### Unusual access, gaps and trade-offs
+
+- **Real projected Eclipse:** the Guarda's synchronized Auxbot blocks even MSV sight. It is not a faction-wide supply of cheap normal Smoke and has significant delivery cost.
+- **Unusual PanO midfield mix:** **Naga** Camo/Infiltration profiles and **Dart** give independent objective and denial paths rather than dependence on a Fireteam escort.
+- **Two TAG roles:** **Tikbalang** trades on Mimetism and climbing mobility; **Dragão** contributes an HRMC anti-armor gun. Neither is automatically strongest across all tables.
+- **No aerial Vehicle (VH):** no **Redeye** in SAA; motorized Montesa is HI, not VH.
+- **Command insurance exists:** **Agnes CoC** can protect a fighting LT; **Kirpal Singh CoC** depends on arrival timing if off-table.
+- **Chart restrictions matter:** **Beasthunter FTO** has an SAA Fireteam row but **Clipper FTO does not**. [Canonical SAA chart](../../sectorials/panoceania/shock-army-of-acontecimento.md#canonical-fireteam-chart).
+
 ## In one minute
 
 - **Identity:** unusually independent PanO combined arms: strong long-range BS guns, **WIP13–14 specialists**, cheap mines/Sapper defensive infrastructure, **Nagas/Dart**, AD Akalis, **Scylla hacking**, Eclipse from **Guarda's Auxbot**, and solid TAGs/REMs. More mission/position driven than simply rushing the opponent's DZ.
