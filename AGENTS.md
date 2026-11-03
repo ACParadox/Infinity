@@ -6,6 +6,12 @@
 - Before changing project files, read the specific relevant files first and preserve existing decisions unless the requested change explicitly supersedes them.
 - Do not rely on model memory for exact Infinity rules, profiles, points, SWC, AVA, or Fireteam legality when repository reference data exists.
 
+## Markdown heading hierarchy
+
+- Each Markdown file must have **exactly one top-level `#` heading**, placed at the very beginning of the file (apart from any required YAML front matter).
+- Do not add any other `#` headings anywhere in the same file. Use `##` for main sections, `###` for subsections, and deeper levels only as needed.
+- Preserve this heading hierarchy when creating, editing, or reorganizing Markdown files.
+
 ## Unit and profile list formatting
 
 When writing or editing faction analysis, tactical notes, or other explanatory Markdown:
