@@ -18,11 +18,21 @@
 | **Top 5 candidate — specialist TAG support (value)** | **Apsaras TAGCom 18/0** supporting same-group **Marut / Maximus** | **S support points-value tier:** KHD/specialist plus printed same-group Dodge PH+3 and GizmoKit PH+1 for a high-cost TAG. The **17pt KHD** is cheaper when there is no TAG to support; TAGCom does not buff VH or all REMs. |
 | **Top 10 candidate — cheap HD+ / Pitcher Hacker (value)** | **Danavas HD+ 22/0.5** | **S hacker value:** WIP15, Pitcher, White Noise and upgraded Oblivion. Better as a network enabler than as an unprotected frontline fighter. |
 | **Top 10 candidate — inexpensive linked network/Order seed (value)** | **Dikpala Repeater / Akrylat-Kanone 13/0** | A cheap Regular, Mimetism(-3) / ECM Hacker(-3) Repeater with **OperationS required-source access**, so one small body can help enable a much more useful Fireteam. Not the best pure Order floor versus a 6pt Netrod. |
+| **Top 10 candidate — rare airborne Eclipse/scoring toolkit (apex)** | **Kinnara Parachutist 24/0** | **S rare-capability tier:** Eclipse, Monofilament, Sensor/Decoy, Climbing Plus and Specialist Operative from a new angle. Its **25/.5 Infiltrating E/M Minelayer** is a separate **A+ denial profile**; 1 STR and approach Orders are real costs. |
+| **Top 10 candidate — mobile Repeater/deployable network (apex/value)** | **Pilot-X 23/.5 + RacerBot(s) 8/0** | **A+/A+ network package:** **31/.5** with one bot or **39/.5** with two; fast Mine Dispenser/Repeater projection. Dependent RacerBots are **not separately purchasable** and require Pilot-X's Combat Group. |
+| **Top 10 candidate — mobile ranged MOD/armor-breaker (apex/value)** | **Rudras FTO K1 Marksman 35/0** or **FTO Red Fury 37/1** | **A+/A+ BS-mod tier:** BS Attack(-3), BS Attack(SR-1), ARM4/2 STR, Climbing Plus, Repeater and legal FTO Wildcard access. **38/1 non-FTO Red Fury** is distinct; SR-1 changes enemy Saves, not BS. |
+| **Top 10 candidate — hidden lethal minefield (apex)** | **Dasyu Viral Minelayer 30/.5** | **S midfield-denial apex** against susceptible targets with Hidden Deployment, Infiltration (ReRoll) and Mimetism(-6). **FO 29/0 / KHD 31/0** are separate non-mine specialists. |
+| **Top 10 candidate — cheap airborne scorer/trader (value)** | **Garuda BSG 18/0** or **FO 20/0** | **S airborne-value tier:** Mimetism(-3), fast movement and Combat Jump/Parachutist for backline trades and mission scoring. PH11 Combat Jump and one STR constrain reliability. |
+| **Top 10 candidate — cheap mobile Sensor/FO (value)** | **Daleth FO/Sensor 15/0** (TA **18/0**) | **S+ inexpensive-specialist tier:** Climbing Plus, Repeater, Sensor, Triangulated Fire and FO; **only the 18pt profile** gains Tactical Awareness. A hackable one-STR REM, not a durable premium attacker. |
+| **Top 10 candidate — 0-SWC defensive REM (value)** | **Zayin Thunderbolt TR(+1B) 19/0** | **S cheap-ARO tier:** Total Reaction, 360° and Engineer-repairable defense at zero SWC. BS11/STR1 and hacker exposure reward layered angles over an unsupported castle. |
 
 **Other exceptional packages that do not need a forced global rank:**
 - **Pilot-X 23/0.5 + RacerBot(s) 8 each:** **31/0.5** with one or **39/0.5** with two, projecting a fast mobile Repeater/minelayer network; RacerBots cannot be separately purchased.
 - **Posthuman Mk.4 HMG 30/1.5:** S-rated *ranged value inside the paid G:Jumper package*; its supporting Proxies are not free.
 - **Marut 86/1.5 or 90/2 LT:** S TAG gun ceiling; OSS offers an eligible MAX-OP Duo, but lacks Vanilla's inexpensive native Smoke for shooting through it.
+- **Apsaras RemDriver 20/0:** S exceptional support value when its KHD/Repeater and a genuine REM buff both matter; distinct from 18pt TAGCom.
+- **Shukra CoC 21/0:** S inexpensive succession/Counterintelligence value for exposed premium Lieutenants.
+- **Satrah 24/0 MSV2 + Albedo / 20/0 KHD:** A+ rare visibility/cyber tool, but matchup-dependent.
 - **Deva KHD 20/0 / FO 21/0:** high-value WIP15 protected scoring and cyber support on distinct profiles.
 
 ### Particularly synergistic legal Fireteams

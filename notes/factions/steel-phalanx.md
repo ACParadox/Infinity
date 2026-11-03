@@ -17,12 +17,17 @@
 | **Top 5 candidate — combined command insurance + Eclipse delivery (apex)** | **Myrmidon Officer CoC 30–31/0.5** | One profile combines genuine **Eclipse Grenades**, Mimetism(-6), NWI and **Chain of Command**, enabling otherwise dangerous close approaches and protecting an aggressive LT. **A+ trade/command and S-tier vision-role comparisons**, though an expensive way to buy only a smoke template. |
 | **Top 10 candidate — cost-effective all-turn long-range reactive piece (value)** | **Phoenix HRL 32/1.5** | **A+ ARO grade:** Mimetism(-6), NWI, capable long-range HRL and legal Myrmidon Core membership. Excellent deterrence for the price, but not a universal anti-MSV/White Noise answer. |
 | **Top 5 candidate — cheapest pure Regular Order (value)** | **Netrod 6/0**, AVA2 | At the cross-game **S+ pure Order price floor**, freeing resources for expensive heroes. Must deploy by Combat Jump; contributes no separate mission, repair or fighting utility. |
+| **Top 10 candidate — synchronized hacking/Repeater assault (value)** | **Scylla HD + Charybdis 32/.5** | **A+/A+ network package:** Pitcher/Hacking Device with a synchronized mobile Repeater + Heavy Flamethrower offers cyber and close-range pressure. Charybdis provides **no separate Regular Order**; **Scylla FTO 25/.5** is a different linked option **without** its synchronized bot. |
+| **Top 10 candidate — economical concealed MSV2 ARO (value)** | **Agêma MULTI Sniper 27/1.5** or **ML 27/1.5** | **A+ ARO tier:** Hidden MULTI Sniper versus **one-use Camo + Decoy ML** are separate profiles with different ambush timings, both at a fraction of Atalanta's points. Neither is a full-on repeatable elite sniper. |
+| **Top 10 candidate — cheap Sensor/FO REM (value)** | **Daleth FO/Sensor 15/0** (TA **18/0**) | **S+ inexpensive-specialist tier:** mobile Climbing Plus, Repeater, Sensor, FO and Triangulated Fire. One STR/hackability and profile-specific TA limit its ceiling. |
+| **Top 10 candidate — Regular Smoke/CC assault screen (value)** | **Myrmidon Chain Rifle 16/0** | **A+ warband tier:** Mimetism(-6), Smoke, MA3/DA and legal Myrmidon Core access with a transferable Regular Order. **Normal Smoke, not Eclipse**; best at enabling a premium attacker rather than winning a fair long-range shot. |
+| **Top 10 candidate — vertical melee/Smoke assault (apex)** | **Hippolyta 37/0** | **S/A dedicated-CC role:** Super-Jump, Mimetism(-6), Smoke, Berserk, Martial Arts and EXP CC; tremendous attacker when the route exists, but expensive and exposed if crossing unprotected lanes. |
 
 **Other important pieces without a forced global rank:**
 - **Machaon 37/0.5:** WIP15 Doctor, normal Smoke and a mission-useful Myrmidon team member or Lieutenant choice by profile.
 - **Ajax FTO 39/0:** brutal close assault inside a legal Myrmidon Core; his **non-FTO** profile does not gain that membership.
 - **Alkê 27/0 NCO / Disco Baller:** uncommon projected vision denial plus Lieutenant-Order spending in a legal Thorakitai-oriented team.
-- **Agêma 27/1.5:** **Hidden MULTI Sniper** versus **one-use Camo + Decoy Missile Launcher** are separate asymmetric ARO options.
+- **Makhai 29/0 K1 FO / 31/1.5 ML:** self-funded Tactical Awareness, MSV1 and Mimetism(-3), with eligible team roles; good specialty value without an established whole-game Top 10.
 - **K2 Auxiliar FTO 11–12/0:** low-cost E/Marat, Flash Pulse or Mine Dispenser utility inside specifically eligible non-Myrmidon teams; not generic Myrmidon filler.
 
 ### Particularly powerful or unusual legal Fireteams

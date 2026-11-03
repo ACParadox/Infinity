@@ -18,12 +18,19 @@
 | **Top 5 candidate — solo combat Hacker / mission toolbox (apex)** | **Asura HD+ 63/0.5** | **S toolbox and S hacker apex:** MSV3, WIP15 HD+, gun, resilience and objective access in one model. No Mimetism and a 63pt single-point-of-failure risk; **the Vanilla Asura HD+ is not the OSS 67pt HD+ LT profile**. |
 | **Top 5 candidate — cheapest transferable Regular Order (value)** | **Netrod 6/0**, AVA3 | **S+ pure Order floor**, tying other 6pt legal Order options across the game. Warhorse, but **mandatory Combat Jump deployment** and no independent combat/scoring function. |
 | **Top 10 candidate — affordable HD+ / Pitcher network Hacker (value)** | **Danavas HD+ 22/0.5** | **S hacker points value:** WIP15, Pitcher, White Noise and improved Oblivion at low cost. Vulnerable one-Wound specialist; not a native Trinity duelist. |
+| **Top 10 candidate — rare airborne Eclipse/scoring toolkit (apex)** | **Kinnara Parachutist 24/0** | **S rare-capability tier:** Eclipse, Climbing Plus, Sensor/Decoy, Monofilament CC and Specialist Operative arrive from a flank. The 25/.5 Infiltrating E/M Minelayer is a **different profile**; PH12 placement, 1 STR and arrival Orders matter. |
+| **Top 10 candidate — inexpensive Sensor/FO specialist (value)** | **Daleth FO/Sensor 15/0** (or TA **18/0**) | **S+ cheap-specialist tier:** Repeater, Sensor, Climbing Plus, Triangulated Fire and FO in one mobile REM; only the 18pt variant adds Tactical Awareness. Hackable 1 STR can be removed cheaply. |
+| **Top 10 candidate — low-cost airborne specialist/trader (value)** | **Garuda BSG 18/0** or **FO 20/0** | **S airborne-value tier:** Mimetism(-3), Combat Jump/Parachutist and fast movement open late scoring or close-range raids. Distinct BSG/FO profiles; PH11 Combat Jump is not reliable without a safer arrival route. |
+| **Top 10 candidate — all-round Doctor/Engineer (value)** | **Sophotect 25/0** | **S/S recovery tier:** fast WIP15 Doctor + Engineer, NWI and Servant coverage, unusually effective for mixed wounded-infantry and damaged-REM/TAG forces. One support model cannot cover both distant flanks without planning. |
+| **Top 10 candidate — hidden lethal minefield (apex)** | **Dasyu Viral Minelayer 30/.5** | **S midfield-denial apex** into biological targets: Hidden Deployment, Infiltration, Mimetism(-6) and Viral Mines. **FO 29/0 / KHD 31/0** are separate scoring/cyber options; Viral is weaker into STR-heavy threats. |
+| **Top 10 candidate — cheap 0-SWC Total Reaction defence (value)** | **Zayin Thunderbolt TR 19/0** | **S cheap ARO tier:** 360° Total Reaction plus repairable threat coverage without SWC. BS11/STR1; vulnerable to hacking, Smoke and lane bypass. |
 
 **Other high-quality roles without forced whole-game ranks:**
 - **Shukra CoC 21/0:** Counterintelligence and succession insurance for a risky Marut/Asura Lieutenant.
 - **Myrmidon 16/0:** cheap normal Smoke, Mimetism(-6) and a credible melee screen.
 - **Dasyu FO 29/0 / KHD 31/0:** Hidden Deployment, Mimetism(-6) and mission reach at a significant cost.
-- **Parvati 36/0 / Sophotect 25/0:** different premium recovery packages; the cheap Posthuman Mk.1 often makes a second premium repairer unnecessary.
+- **Parvati 36/0:** S-apex Doctor(2W)/Engineer support and resilient forward specialist, but a premium cost versus Sophotect or Posthuman Mk.1.
+- **Satrah 24/0 MSV2 + Albedo / 20/0 KHD:** A+ rare dual-visibility tool in matchups with enemy MSV, Camouflage or Hackers, not an all-purpose gun.
 
 ### Particularly powerful synergies — but no standard Vanilla Fireteams
 
