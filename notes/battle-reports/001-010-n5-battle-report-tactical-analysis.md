@@ -30,6 +30,34 @@
 
 **Primary:** [Infinity the Dante, full 2026 Borderbash report](https://www.youtube.com/watch?v=Ux3_bYsFUQ4) (approximately 101 minutes). **Corroboration:** [Corvus Belli event retrospective](https://infinityuniverse.com/en/news/event-recap-borderbash). **Rules:** N5.2 + May 2026 Army; ITS17. **Opponents discussed:** including a Next Wave/Achilles mirror, updated Operations Subsection, and Corregidor Deepspace; report also describes a Su-Jian-centered opponent. **Packet:** Superiority, B-Pong, Akial Interference, Cutthroat and Radial Unmasking. **Result:** presenter won the event.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [Borderbash tournament report](https://www.youtube.com/watch?v=Ux3_bYsFUQ4), opening list walkthrough. The narrator describes **two distinct Next Wave builds** and several *optional on-the-fly formations*; an option or practice-game experiment is not proof that it was deployed in a tournament round.
+
+**List A — Superiority / B-Pong / Cutthroat (Achilles Key Ops):**
+
+| Fireteam or package | Identified members | Evidence / status |
+|---|---|---|
+| **Harbingers/Core package** | Teucer FTO (“Chucer/Chooser” in transcript) + usually **3 Harbinger Forward Observers** | **Explicit preferred configuration**: Teucer plus three Harbingers for the Discover benefit; its exact starting configuration varies by matchup. |
+| **Achilles attack Haris** | Achilles + usually **2 Harbinger FOs** | **Explicit preferred alternative** to leave three FOs with Teucer; narrator also considers Achilles + three FOs, with the other two accompanying Teucer. Do not count these as separate played lists. |
+| **Alternate Teucer-led Core / Achilles Duo** | Teucer with the Harbinger group; Achilles + Pandora elsewhere | **Explicit alternative** when the list needs Teucer shooting or Pandora's hacking/Pitcher. The player changes Fireteams in response to terrain and objectives. |
+| **Practice-only alternatives** | Achilles + Teucer + Pandora Haris; hypothetical Achilles + five Harbingers | **Not used at this event** according to the narrator. Do not count as tournament formations; the five-Harbinger suggestion also requires period-specific legality checking. |
+
+**Other identified List A bodies:** **five Harbinger FOs total**, two Ikadrons, Gearhead with **two Puzzlers**, T-Drone Guided, Satcha, Cliff-Jumper (Light Shotgun/Heavy Flamethrower), plus Achilles/Teucer/Pandora. The five FOs are a *roster total*, not a single five-FO Fireteam. Some orders are provided by support models or units in the second combat group.
+
+**List B — Akial Interference / Classifieds (Blackheart/Stinger):**
+
+| Fireteam | Identified members | Evidence / status |
+|---|---|---|
+| **Haris — 3** | Blackheart + Stinger HMG + Pandora | **Explicitly described**, including Pandora as the only ordinary Spotlight hacker in this build. |
+| Potential Harbinger link / shooting package | Teucer, Harbinger Lieutenant and decoy | **Roster identified**, but the narrator does not unambiguously state a starting team membership/size. No Core size assigned. |
+
+**Other identified List B bodies:** Gearhead Minelayer, Cliff-Jumper KHD, Glyph Warcor, Skyhound, two Ikadrons, an additional Gearhead, R-Drone and Tactical Awareness M-Drone. **No Doctor/Paramedic or conventional Engineer** in the narrator's stated Classified coverage; do not incorrectly treat the Gearhead Minelayer as an Engineer.
+
+**Opponent coverage:** The recap contains **multiple games with different opponents**, not one opposing list. An ISS opponent is described with **Sun Tze, Su-Jian Spitfire, a Kuang Shi Core and Satcha**. Other rounds mention OSS (Asura/Dikpala/Racerbot/Posthuman elements), another Next Wave/Achilles list and Corregidor, but **complete Fireteam memberships and final exported rosters cannot be reconstructed from the spoken recap alone**.
+
+**Counting note:** Record each real game/starting formation separately when known. The narrator's list-builder variants and practice experiments are **not observations** of four- or five-person Cores.
+
 ### Units and combinations
 
 - **[Player assessment] Achilles as Key Ops / center of the aggressive Next Wave list.** High personal impact, survivability and close combat make the expensive centerpiece attractive on Superiority and Cutthroat. However, fitting Achilles into Next Wave takes so many points that the rest of the list has **less redundancy** than the player would like. Multiple **Harbinger Forward Observers** supply cheap(ish) Regular Orders and real specialist bodies to restore some coverage; they are not merely cheerleaders. See video **0–13 min**.
@@ -53,6 +81,23 @@
 
 **Primary:** [Maslow R1 video](https://www.youtube.com/watch?v=gEHha2wc81Y); [tournament thread](https://forum.corvusbelli.com/threads/n5-tournament-itc-2025.43503/). **Played:** Apr 12–13, 2025. **N5.1 / ITS16.** **Result:** Kestrel win, per narrator.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [ITC round-one walkthrough](https://www.youtube.com/watch?v=gEHha2wc81Y). The Kestrel player explicitly says this **same List A was used in #002, #003 and #004**; count it once as a list archetype, but individual games may have different deployed Fireteams.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **Kestrel List A** | **Core — 4** | Black AIR FTO **MULTI Sniper**, Fennec **Lieutenant**, Fennec **Decoy**, Fennec **Forward Observer** | **Explicit four-member composition**; player values the specialist FO as the fourth/filler body. |
+| Kestrel | **Duo — 2** | Griffin **Feuerbach** + Firefly **Engineer/Deactivator** | **Explicit**. |
+| Kestrel | **Duo / paired attacker — 2** | Hetkari (“Head Carry”) + Pathfinder REM (Tactical Awareness/support) | **Pair explicitly described** as accompanying the attacker; the exact Fireteam label is less clear than for the Griffin/Firefly Duo. |
+| **White Banner opponent** | Core / heavy link | Haetae/Hwarang-type gun member, **Sulyong**, **Jujak** and possibly another team member | **Reconstructed from the player's memory**; the transcript distorts a unit name and **does not securely establish a four-person count**. |
+
+**Other identified Kestrel List A units:** Blink X-Visor Heavy Rocket Launcher, Banshee KHD, Yamabushi, Fugazi, baggage REM, Tech-Bee, Trauma-Doc and recovery support. These are roster pieces, **not automatically Core members**.
+
+**Other reconstructed White Banner units:** Gŭiláng/Gŭidàn Camo skirmishers (phonetics uncertain), Beast Hunter, Hundun, Tiger Soldier, Daofei AP Spitfire, Liang Kai, baggage/Flash REMs. The player explicitly warns that **opponent combat-group placement and some profiles were rebuilt from memory**.
+
+**Four-member evidence:** The **Kestrel Core** is confirmed. The White Banner link is not included in a strict four-/five-member count without a validated historical roster or clear team declaration.
+
 ### Units and combinations
 
 - **[Player assessment] Black A.I.R. MULTI Sniper in a Fennec team** was the principal long-range, hard-to-ignore ARO; **Fennec FO** gives the same architecture mission-scoring capability. The player stresses that **Albedo or White Noise** are actual gear checks for the MSV-dependent sniper. It is not literally unbeatable.
@@ -73,6 +118,19 @@
 ## #003 — ITC 2025 Round 2, Frostbyte — Kestrel vs White Banner
 
 **Primary:** [Maslow R2 video](https://www.youtube.com/watch?v=TvQU61YsPWw); [ITC thread](https://forum.corvusbelli.com/threads/n5-tournament-itc-2025.43503/). **Played:** Apr 12–13, 2025. **N5.1 / ITS16.** **Result:** Kestrel win, per narrator.
+
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [ITC round-two walkthrough](https://www.youtube.com/watch?v=TvQU61YsPWw). **Kestrel reused List A from #002**: Black AIR + three Fennecs (**four-person Core**), Griffin + Firefly Duo, Hetkari/Pathfinder attack pair, with Blink, Banshee KHD, Yamabushi and support. The narrator **does not introduce a new Kestrel list** in this video.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **White Banner** | **Core — 4** | **Dokkaebi** (transcribed “DB”), **Haetae**, **Hwarang**, **Jujak** | Presenter explicitly says **four-man Fireteam** and identifies these four phonetically; exact hacker profiles are uncertain. |
+| White Banner | **Haris — 3**, later possible Duo | **Jing Qo** + **2 Shaolin Monks**; player recalls splitting one monk off | **Haris stated**; the later Jing Qo + Shaolin pair is a recollection, not a separately purchased roster. |
+
+**Other White Banner units:** Long Ya Camo REMs/minelayers, Hundun long-range defender, Mech-Engineer and Yáozăo servant, additional support REMs and a protected Lieutenant. The four-person Core is described as providing **Pitcher/hacker, Jujak Firewall/Heavy Flamethrower and heavy-shooting options**, but the speaker himself is uncertain about **which hacker carried which program**.
+
+**Counting note:** The confirmed four-model White Banner Core is **one game observation**. It is **not** evidence that every listed model contributes to Fireteam Level 4; counts-as and historical profiles require separate checking.
 
 ### Units and combinations
 
@@ -96,6 +154,19 @@
 
 **Primary:** [Maslow R3 video](https://www.youtube.com/watch?v=py5_R6TU-hw); [ITC thread](https://forum.corvusbelli.com/threads/n5-tournament-itc-2025.43503/). **Played:** Apr 12–13, 2025. **N5.1 / ITS16.** **Result:** Kestrel win, per narrator.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [ITC round-three walkthrough](https://www.youtube.com/watch?v=py5_R6TU-hw). **Kestrel again reused the exact List A introduced in #002**, including the **Black AIR + Fennec Lt + Fennec Decoy + Fennec FO four-person Core**, Griffin/Firefly Duo and Hetkari/Pathfinder package.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **Torchlight Brigade** | **Four-member linked attack team / Core** | **Jamie Arantes Lieutenant + 3 Hellblazers** | **Explicitly called a four-man Fireteam**; player describes Jamie moving the three Hellblazers forward. |
+| Torchlight | **Duo — 2** | **2 Wreckers** | **Explicit**. |
+
+**Other identifiable Torchlight units:** Moonrakers screening the midfield, Nightshade Minelayer, defensive REMs and Beast Hunter. The narrator emphasizes the opponent **deliberately took no Specialists** in this Firefight-focused list; that is a **reported tournament choice**, not a recommended all-missions build.
+
+**Counting note:** The Jamie + three Hellblazers is a **confirmed physical four-person team**. Its exact formal Fireteam label and period-specific level/bonus should not be inferred from physical count alone.
+
 ### Units and combinations
 
 - **[Observed] Torchlight tested an extreme zero-specialist list**: **Jamie + Hellblazers** aggressive link, **Wreckers** as durable heavy attackers, **Nightshade/Moonrakers** for approach/midfield pressure. It is presented by both players as a deliberate stress test for the **Firefight** mission, not a representative all-comers Torchlight list.
@@ -117,6 +188,21 @@
 
 **Primary:** [Maslow R4 video](https://www.youtube.com/watch?v=8aj3Ueyvp3s); [ITC thread](https://forum.corvusbelli.com/threads/n5-tournament-itc-2025.43503/). **Played:** Apr 12–13, 2025. **N5.1 / ITS16.** **Result:** Kestrel comeback win, per narrator.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [ITC round-four walkthrough](https://www.youtube.com/watch?v=8aj3Ueyvp3s). This is **Kestrel List B**, not the four-person Black AIR/Fennec Core used in #002–#004. The same List B is also intended for round five.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **Kestrel List B** | **Haris — 3** | **Fennec + Crux Knight FTO + Bipandra** | **Explicitly described**; the Crux provides Albedo (-6) shooting while Bipandra and the Fennec add recovery/specialist utility. |
+| **Vanilla Combined Army opponent** | **Haris — 3** | **Vector + 2 Base Operators** | **Explicit three-model linked team** in narrated list/deployment. |
+
+**Other identified Kestrel List B units:** Black AIR FTO, Blink X-Visor HRL, Yamabushi, Scarecrow, Redeye, Fennec FO, Fennec Paramedic, another Fennec Minelayer/Triangulated Fire profile, Trauma-Doc with Palbot, Tech-Bee, Fugazi and other mission support. **No separately confirmed four-/five-member Kestrel Core** in this list.
+
+**Other reconstructed Combined units:** Sheskiin, Charontid (transcribed “currented”), Bit & Kiss, T-Drone Guided, Q-Drone, Daturazi, Ikadron/Imetron and support. The opponent's complete roster is **not verified from an Army export**.
+
+**Important legality/data caveat:** The narrator reconstructed a **307-point / 16-model deployment** after the event and suspected that an **extra R-Drone** had been placed accidentally. This is **the narrator's hypothesis**, not a verified official illegal-list ruling; exclude that REM from confirmed roster totals and do not convert the anecdote into a legal precedent.
+
 ### Units and combinations
 
 - **[Player assessment] Second Kestrel list was built for Supremacy/Supplies:** **Hidden Deployment Scarecrow** to start near a scoring zone/objective, **Yamabushi** as an independently deployed CC threat, **Crux FTO + Fennec + Bipandra Haris** for reliable mission access and high-value shooting, and **Redeye** as a fast reserve attacker/late-zone controller. Black A.I.R. + Blink still supplied defensive pressure.
@@ -137,6 +223,32 @@
 ## #006 — Burn City Brawl 2025: Qapu Khalqi five-round report
 
 **Primary:** [Infinity the Dante Qapu Khalqi tournament recap](https://www.youtube.com/watch?v=9BA7lqd1PMA). **Forum timestamps and opponents:** [Burn City Brawl post](https://forum.corvusbelli.com/threads/n5-tournament-burn-city-brawl-2025.43585/) — [list explanation 02:55](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=175s), [R1 Torchlight Brigade 19:39](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=1179s), [R2 Vanilla Combined 36:50](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=2210s), [R3 Vanilla Ariadna 49:54](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=2994s), [R4 White Banner 1:02:24](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=3744s), [R5 Shindenbutai 1:17:47](https://www.youtube.com/watch?v=9BA7lqd1PMA&t=4667s). **Played Sep 13–14, 2025.** **N5.1.1 / ITS16.5 (explicit in source)**. Custom Hammer of Dawn was played alongside B-Pong, Evacuation, Firefight and Capture & Protect.
+
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [Burn City Brawl Qapu Khalqi list walkthrough](https://www.youtube.com/watch?v=9BA7lqd1PMA). Two distinct lists were built for different missions; **do not multiply them by the number of rounds**.
+
+**List A — Hammer of Dawn / Evacuation / Capture & Protect (mobile scoring):**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Pure Duo — 2** | **Djanbazan AP/Shock Sniper + Djanbazan HMG** | **Explicit**, long-range ARO and Smoke/MSV shooting. |
+| **Optional Haris — 3** | Above Djanbazan pair **+ Leila Sharif KHD** | **Explicit option** for the same pair; **not a simultaneously separate Fireteam**. |
+| **Haris — 3** | **Azra'il AP HMG + Hafza Lieutenant + Laxmee** | **Explicit**; Hafza commonly Holomasked as a Mobile Brigada TinBot. |
+
+**Other List A units:** two Yuan Yuan (one per group), Samsa, Fiddler/Jackbots, two Thunderbolt Total Reaction REMs, Al'Hawwa FO, Bashi Bazouk, Flash REM. The player says **Samsa and Fiddler** carry much of the mission-delivery burden; none of these independent units should be added to a Core by assumption.
+
+**List B — B-Pong / Firefight (Iguana build):**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Pure Duo — 2** | **Djanbazan Sniper + Djanbazan HMG** | **Explicit** carryover from List A. |
+| **Haris — 3** | **Kaplan HRL + Hafza Lieutenant + Laxmee** | **Explicit** in place of List A's Azra'il Haris. |
+| **Optional Duo — 2** | **Iguana TAG + Leila Sharif** | **Explicit possible configuration**, not evidence the TAG was linked in all games. |
+
+**Other List B units:** two Yuan Yuan, Bashi Bazouk, Iguana/pilot, Engineer with Nasmat, Shakush Pilot, baggage REM, Shihab/Thunderbolt Total Reaction REM support. **No four- or five-model Qapu Core is confirmed** for either of the narrator's builds.
+
+**Opposing-team examples (each a different round, incomplete):** Torchlight **Hippolyta + Cludger Duo**, **Vidoc + Wave Rider + Hellblazer Haris**, and **Hellblazer + Wave Rider Duo**; Vanilla Combined with Achilles/Overdron/Bit & Kiss/Dartok support; White Banner with Haetae/Jujak/Hwarang plus hackers; Ariadna with Chernobog/Vystrel/Dynamo; Shindenbutai mission team not fully enumerated. These **cannot be merged into one opponent roster**.
 
 ### Units and combinations
 
@@ -163,6 +275,21 @@
 
 **Primary:** [Loss of Lieutenant full stream](https://www.youtube.com/watch?v=QM8zXEUi1Bg); [forum round index](https://forum.corvusbelli.com/threads/n5-tournament-burn-city-brawl-2025.43585/). **Played:** Sep 13–14, 2025. **N5.1.1 / ITS16.5.** **Source type:** actual livestream with commentary, not merely retrospective narration. **Participants:** Jacob on Bakunin, Ivory on White Banner.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [Burn City Brawl round-two livestream](https://www.youtube.com/watch?v=QM8zXEUi1Bg). Both players discuss their plans during deployment; **only formations explicitly described as played** belong in the counted dataset.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **Bakunin (Jacob)** | **Pure Duo — 2** | **2 Stigmaton TAGs** | **Explicit** (“pure duo”) during the opening player interview; both TAGs were fielded. |
+| **White Banner (Ivory)** | **Core — size unverified** | Linked heavy/mixed team with hacking/defensive pieces; exact four or five profiles not spoken clearly enough to confirm | **Core explicitly referenced**, full membership uncertain. |
+
+**Bakunin identifiable roster:** 2 Stigmatons, Fiddler with Jackbots and Zondbots, Cyclone Pitcher, Zero, EVO support, Transductor REMs, Morlock and a hacking network. The Cyclone's **linked Pitcher use** is mentioned, but no secure complete Cyclone Fireteam roster is given; **do not assign it to the Stigmaton Duo** without an Army/deployment check.
+
+**White Banner identifiable roster:** Daofei Spitfire/Lieutenant, Liang Kai, Shaolin Monk(s), Tiger Soldier Hacker, Haetae/other link support, Zhanshi-type Hacker/Engineer and defensive/Flash REMs. This is a **partial playable roster**, not an exact Army import.
+
+**Excluded alternative:** Jacob discusses a **four-person Core of 2 Reverend Custodiers + 2 Cenobites** from a **different list-building option**. He did **not play that Core in this game**, so count it only as a theoretical alternative, **not** a four-person Core observation.
+
 ### Units and combinations
 
 - **[Observed] Bakunin's linked **Cyclone Pitcher** projected a repeater far across the board.** The casters explicitly comment on the accuracy of the linked/X-Visor shot and the way it forces White Banner to respond. It can open Spotlight/Isolation routes, even without committing the orders to build a full Guided Missile engine.
@@ -184,6 +311,25 @@
 ## #008 — Burn City Brawl R3, Evacuation — Vanilla Combined Army vs Imperial Service
 
 **Primary:** [Loss of Lieutenant R3 stream](https://www.youtube.com/watch?v=LEHdLcZQDGI); [forum round listing](https://forum.corvusbelli.com/threads/n5-tournament-burn-city-brawl-2025.43585/). **Played:** Sep 13–14, 2025. **N5.1.1 / ITS16.5.** **Players:** Josh (Vanilla Combined Army), Dennis (Imperial Service).
+
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [Burn City Brawl round-three livestream](https://www.youtube.com/watch?v=LEHdLcZQDGI). The **Imperial Service player (Dennis)** states his complete starting structure aloud: **one Core, one Haris and four Duos**, and names their members.
+
+| Side | Fireteam | Members | Evidence |
+|---|---|---|---|
+| **ISS** | **Core — 3** | **Celestial Guard Monitor + 2 Kuang Shi** | **Explicit**. |
+| ISS | **Haris — 3** | **Wu Ming Boarding Shotgun/TinBot (-6) + Pheasant Killer Hacker + Zhànyīng Hacker/Pitcher** | **Explicit**. |
+| ISS | **Duo — 2** | **Adil Lieutenant + Bounty Hunter** | **Explicit**. |
+| ISS | **Duo — 2** | **Wu Ming AP HMG + Wu Ming AP SMG** | **Explicit**. |
+| ISS | **Duo — 2** | **Zhànyīng / officer-type model + CSU** | **Explicit Duo**, first member transcribed unclearly. |
+| ISS | **Duo — 2** | **Dakini Sniper + Dakini Paramedic** | **Explicit**. |
+| ISS | Independent | **Kunai Ninja (Hidden Deployment)** | Revealed later, **not** a member of the above teams. |
+| **Vanilla Combined (Josh)** | **Haris — 3** | **Vector + 2 Base Operators** | Player states a Level-2 Haris; three physical members supported by roster/game discussion. |
+
+**Other Combined identifiable units:** Achilles Lieutenant, Bit & Kiss, Dartok Hacker, Daturazi, T-Drone Guided, other REM/network support. Not every unit is guaranteed in the same Combat Group, and the speaker says he **changed Combined lists since earlier rounds**.
+
+**Counting note:** The ISS player supplies unusually strong source data, but **none of the specifically enumerated teams is four or five physical models**. Do not conflate four *Duos* with a four-model Fireteam.
 
 ### Units and combinations
 
@@ -208,6 +354,31 @@
 
 **Primary:** [Quiet Contender full tournament recap](https://www.youtube.com/watch?v=aGZ--rtGqXA); [forum index with timecodes](https://forum.corvusbelli.com/threads/n5-tournament-new-year-knockout-2026.43779/). Chapters: [Briefing 00:00](https://www.youtube.com/watch?v=aGZ--rtGqXA), [Game 1 12:38](https://www.youtube.com/watch?v=aGZ--rtGqXA&t=758s), [Game 2 21:03](https://www.youtube.com/watch?v=aGZ--rtGqXA&t=1263s), [Game 3 28:32](https://www.youtube.com/watch?v=aGZ--rtGqXA&t=1712s), [After-action 37:05](https://www.youtube.com/watch?v=aGZ--rtGqXA&t=2225s). **Jan 2026, N5.2 / ITS17 explicitly spoken by author.** **Player:** Military Orders, **third overall** among six participants. **Opponents:** Morat Aggression Forces (Critical Intervention), USARF, Oban (Evacuation).
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [New Year Knockout Military Orders introduction](https://www.youtube.com/watch?v=aGZ--rtGqXA). The player clearly explains **two list builds**, with some retained units and moved Combat Groups.
+
+**List A — two-HMG attack plan:**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Core — 3** | **Hospitaller HMG + de Fersen MULTI Rifle Lieutenant + Hospitaller MULTI Rifle/TinBot (-3)** | **Explicit** in the list introduction. |
+| **Haris — 3** | **Santiago KHD + Crosier MSV2 HMG + Crosier Paramedic** | **Explicit**. |
+| **Duo — 2** | **Crosier MULTI Sniper/Minelayer + Knight Commander Chain of Command** | **Explicit**. |
+
+**Other List A units:** Curator Engineer/Palbot, **two Trinitarian Forward Observer/Minelayers** with Deployable Repeaters, Crusader FO. **No four-/five-model Core in List A**.
+
+**List B — rebalanced shooting/Emitter response:**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Hospitaller Core — 3** | Hospitaller HMG + de Fersen Lieutenant + Hospitaller TinBot | **Retained from List A** and reassigned to another Combat Group; the narrator does not describe a fourth/fifth member. |
+| **Duo — 2** | **Hospitaller Boarding Shotgun/E/Mitter + Santiago KHD** | **Explicit**. |
+| **Haris — 3** | **Crosier Paramedic + Knight Commander CoC + Black Friar Thunderbolt (+1B)** | **Explicit**. |
+| Other | Crosier Sniper Duo and Trinitarian specialists remain part of the overall roster | **Presence/reorganization is discussed**, but exact starting Duo status in List B needs confirmation. |
+
+**Opponents:** Morats (Suryat HRL/Suryat AP HMG, Kornak, Daturazi, Oznat/Hungries, Zerat), USARF defensive gunline and Ōban/JSA (Yojimbo, Ryūken, Ninjas, Aragoto/Keisotsu). **Opponent starting team sizes are reconstructed only partially** from the narrator's postgame photos/memory; do not count a five-member Keisotsu Core merely because five line troopers are discussed.
+
 ### Units and combinations
 
 - **[Player assessment] The speaker deliberately brought two **HMG attack modes**:** a **Crosier MSV2 HMG + Santiago KHD + Crosier Paramedic Haris** and a **Knight Hospitaller HMG Core**. One responds to smoke/Mimetism/range exposure, the other supplies reliable long-range damage. Relying only on Spitfires leaves Military Orders struggling to reach some dangerous long-range AROs.
@@ -231,6 +402,32 @@
 
 **Primary:** [Infinity the Dante Arcfinity WhiteCo tournament report](https://www.youtube.com/watch?v=hiLOsN7c7zE); [forum index](https://forum.corvusbelli.com/threads/n5-tournament-arcfinity-2025.43524/). **Played by May 19, 2025. N5.1.1 / ITS16**, with event extras **Reinforced Command** (no Loss of Lieutenant in that event's format) and **Stealth Operations**. **Opponent examples:** Combined Army, Bakunin, Morats; the presenter states a **five-game win streak**, earning **best overall**, while the event also counted hobby/sportsmanship standings.
 
+### Army lists and Fireteams — transcript reconstruction
+
+**Source:** [Arcfinity White Company tournament list introduction](https://www.youtube.com/watch?v=hiLOsN7c7zE). The player uses **List A for every mission except Highly Classified** and **List B for Highly Classified**. These are **two lists, not five different list submissions**.
+
+**List A — Biotechvore / Mega Turret / Annihilation / Supremacy:**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Core — 5** | **Haidao MSV2 MULTI Sniper + Hawkwood K1 Sniper + Fusilier Rifleman + Laxmee + Señor Massacre** | **Explicit full five-member Core** in the opening walkthrough. |
+| **Haris — 3** | **Haidao MSV2 + Haidao KHD + Karhu Engineer** | **Explicit**. |
+| **Duo — 2** | **Shona Carano + Varangian Guard** | **Explicit**. |
+
+**Other List A units:** Liang Kai, second Varangian, Sierra Thunderbolt Total Reaction REM and Warcor. The sniper Core combines **MSV/Smoke and non-MSV/White Noise**, while Señor Massacre adds close protection and Eclipse.
+
+**List B — Highly Classified:**
+
+| Fireteam | Members | Evidence |
+|---|---|---|
+| **Core — 4** | **Haidao MSV2 Sniper + Haidao KHD + Kaplan Doctor + Beast Hunter FTO** | **Explicit**; narrator corrects himself when distinguishing Core from Haris. |
+| **Haris — 3** | **Hawkwood Lieutenant + Fusilier Paramedic + Laxmee** | **Explicit**. |
+| **Duo — 2** | **Karhu Feuerbach + Karhu Engineer** | **Explicit**. |
+
+**Other List B units:** Tiger Soldier Hacker, Varangians, Thunderbolt TR REM, Flash REM and Warcor. The Kaplan Doctor is the **fourth model** of the Classified-oriented Core and supplies recovery/mission utility rather than another premium gun.
+
+**Opponent coverage:** The five games face distinct armies (including Bakunin's Lizard/Observants and Combined/Morat attack packages), but no complete opponent Fireteam census is narrated across all rounds. **Do not merge units from different matches** or call every mentioned attack package a Core.
+
 ### Units and combinations
 
 - **[Player assessment]** **Varangian + Shona Carano Duo** is a compact smoke delivery system with a dedicated dangerous CC finisher. The Fireteam bonus improves smoke reliability; Shona can leave the Duo to pursue an assassination once the line is open, so a linked smoke unit need not tether an expensive assault model forever.
@@ -251,6 +448,27 @@
 ---
 
 ## Cross-report findings: good targets for future list-building analysis
+
+### Fireteam roster extraction index (reports #001–#010)
+
+This extraction uses spoken **list introductions** first, then deployment/activation evidence. **Physical model count is not Fireteam Bonus Level**; the current N5.3 counts-as and profile chart cannot retroactively validate the historical 2025–2026 builds. “Explicit” reflects what the video states, not an independent Infinity Army export.
+
+| Report | Main army list(s) | Four-/five-model evidence | Count/quality note |
+|---|---|---|---|
+| #001 | Next Wave: Achilles/Harbingers and alternative Blackheart–Stinger build | Flexible four-person Teucer + 3 Harbingers **option** | Preferred/potential arrangements discussed; actual starting team varies; **do not count practice-only ideas**. |
+| #002 | Kestrel List A | **4** — Black AIR + 3 Fennecs | **Explicit**. |
+| #003 | Same Kestrel List A; different White Banner opponent | **4** — White Banner Dokkaebi/Haetae/Hwarang/Jujak | **Explicit physical size**, exact profiles tentative. |
+| #004 | Same Kestrel List A; Torchlight opponent | **4** — Jamie + 3 Hellblazers | **Explicit**. |
+| #005 | Kestrel List B, Vanilla Combined opponent | **3** — Fennec/Crux/Bipandra; **3** — Vector + 2 Base Operators | **No new confirmed large Core**. |
+| #006 | Qapu mobility build and Iguana build | Duos and three-model Haris teams | No confirmed large Core. |
+| #007 | Bakunin double Stigmatons vs White Banner | **2** — Stigmatons; an **unplayed** 4-Custodier/Cenobite alternative | Exclude alternative from played count. |
+| #008 | ISS vs Vanilla Combined | ISS **3 Core + 3 Haris + 4×2 Duo**; Combined **3 Haris** | Sizes explicitly enumerated by ISS player. |
+| #009 | Military Orders two builds | 3-member Hospitaller Cores, Haris, Duos | No confirmed large Core. |
+| #010 | White Company two builds | **5** — Haidao/Hawkwood/Fusilier/Laxmee/Massacre; **4** — Haidao/Haidao/Kaplan/Beast Hunter | **Explicit**, separate submitted builds. |
+
+**Data quality rule:** A remembered opponent list, deployment marker, a linked group's **possible** composition, or a team that *could* form is not equivalent to a confirmed **deployed starting Fireteam**. For occurrence rates, deduplicate #002–#004's *identical submitted Kestrel List A* when analyzing list design, but retain the **distinct matches** when analyzing what players actually deployed. The narrated five-game tournament recaps do not by themselves supply ten complete opponent rosters.
+
+
 
 | Evidence repeated across reports | What it means in practice | Reports |
 |---|---|---|
