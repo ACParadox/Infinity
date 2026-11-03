@@ -802,3 +802,86 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Counter-counterplay** | Bakunin Custodier White Noise/Repeaters/Guided pressured WinterFor sniper lines, and a Nisse spent 5–6 Orders fighting a Cenobite HRL instead of scoring Supplies. | [#098](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md), [#194](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md) |
 
 **Limit:** A hard ARO must still defend the objective and protected specialists; mission rules/turret activations are episode-specific. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+## Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated source-backed tactical preferences and miniature purchasing priorities; opinions do not override N5.3 roster, profile or Fireteam data above.
+
+**Original audit title:** PanOceania N5.3 — Must-have, go-to, and avoid picks (transcript-evidenced)
+
+**Review:** 2026-10-23. **Authority:** [pinned PanO sectorial Army/Fireteam references]() (Army 7.26246.158, Sept 2026). The seven [tactical faction notes]() and MO roster research were compared with the direct YouTube/Spotify MCP transcripts linked below. **Only attribute a recommendation to a presenter when they actually say it.** Older footage is opinion and does not overrule N5.3 prices, profiles, AVA or Fireteams.
+
+**How to read:**
+- **Must-have** = author **explicitly describes** near-universal pick, or multiple transcripts repeatedly favor it; label **single-reviewer** where unsupported as a consensus. When no unit meets this bar, say **none established**. These are NOT tournament inclusion statistics.
+- **Go-to** = explicitly praised as good in broadly relevant roles, though architecture/missions choose the actual loadout.
+- **Avoid / near-never** = direct presenter condemnation *of that profile/use*, not a blanket assertion the whole unit is unusable. **Disputed** marks another published view. “No-chart FTO” means **cannot use an implied link**, not that the weapon/model is forbidden.
+- Costs are all-in **points/SWC** from pinned local roster when shown.
+
+### Quick decision table
+
+| Army | Credible must-have or closest | Go-to core | Strongest source-backed avoid |
+|---|---|---|---|
+| **Vanilla PanO** | **None established**; cheap Fugazi infrastructure (7) is closest | Joan/active command, Magistrate, Swiss/Tik/Cutter, Peacemaker | **Clipper Guided** as default attack plan without an actual Targeted engine (Dante/Tristan) |
+| **Kestrel** | **Magistrate LT + linked 6pt Jackals** *according to Irregular Order hosts*; Jackal cheap disruption | Fennec FO/Disco/Sensor13, Tik LT, Hetkari, Pathfinder TA17, Banshee | **Fennec LT10** in preference to 19pt Strategos Magistrate or Tik LT (Shepherd); **basic non-command Magistrate** contested low marginal value |
+| **Military Orders** | **Foot Montesa FTO Paramedic20** (Shepherd's explicit near-auto-include); not a requirement | Trinitarians, Teutonic19, Santiago KHD31, Commander LT+1 24, De Fersen, Holy Sepulchre | **Knight of Justice Hacker45/.5** in most lists (Shepherd directly rejects) |
+| **Neoterra (NCA)** | **None established literally**; Fugazi7 / Auxilia15–18 repeatedly praised as foundation | Blocker Specialist15, Pathfinder TA17, Uhlan70–80, Swiss, Squalos NCO | **Fusilier SWC guns and Hacker** outside specific budget reasons (Shepherd) |
+| **Varuna** | **Zulu-Cobra KHD26** (Dante says he starts every list with it) | Foot Montesa26, Helot cheap defense, Kamau / Varuna ORCs | **Clipper** as generic missile buy (Swiss Miss bottom C); **Croc Men over Zulu** disputed (TA vs Swiss Miss) |
+| **Shock Army of Acontecimento** | **None established unanimously**; MetaChemistry expects multiple Bagh-Mari, other lists use Regulars/Guarda/TAG | Regular Sensor Minelayer13, Sapper MSR20, foot Montesa FTO20, Pathfinder TA17, Naga utility | **Naga Monofilament Minelayer** considered gimmicky by Swiss Miss; **Clipper FTO** has no link row, and Guided has uncertain payoff |
+| **WinterFor / SWF** | **Peacemaker + Auxbot** (Swiss Miss says he would almost always bring one; single-reviewer), Fugazi7 near-default | Karhu Feuerbach34, Vargar FO/Disco24, Blade FTO Engineer23, Hawkins26–32, Locust | **Fusilier HMG / ML / Sniper** (Shepherd says basically never); **Bøyg44** often poorer utility/point than Vargar (disputed) |
+
+### 7. Svalarheima's Winter Force (SWF)
+
+- **Strongest near-auto from one presenter:** [Swiss Miss — WinterFor N5 tier list](https://www.youtube.com/watch?v=-pVR0OSVP4w) says they would **almost always take a Peacemaker with Auxbot**, emphasizing the forward Repeater, mine/flamethrower, nuisance ARO and route denial. **Fugazi7 AVA3** is also called S-tier, but **explicitly not always 3**. This is a documented reviewer preference, not a universal all-player rule.
+- **Go-to:** **Karhu Feuerbach34/1.5** (NCO, MSV1+Mimetism for favorable face-to-face shooting), **Karhu Engineer25** (repair/specialist as team partner), **Vargar FO+Disco24 / FO HRL22** (Albedo and mission-compatible screen), **Blade FTO Engineer23** (TacAware and Fusilier-team utility), **Kyle Hawkins Specialist26–32**, **hidden Locust Specialist24**, **Jotum82** as optional TAG bull, not mandatory. [Shepherd WinterFor focus](https://www.youtube.com/watch?v=oHeTzuV9WLY) · [Swiss Miss tier list](https://www.youtube.com/watch?v=-pVR0OSVP4w).
+- **Avoid, explicit:** [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) says **Fusilier HMG, ML and Sniper** are basically *never* the WinterFor purchase: buy Fusilier LT/decoy or occasional Paramedic instead and put serious guns on Karhu/other higher-quality troopers.
+- **Low-priority/contested, not never:** [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) finds **Bøyg44** difficult to justify against significantly cheaper Vargar Albedo+Disco, although he concedes its armor/extra wound and Beta-team potential; [Swiss Miss](https://www.youtube.com/watch?v=-pVR0OSVP4w) finds **unlinked Pathfinder TA17** C-tier, whereas Shepherd calls its Sensor/FO and personal Order useful despite no link access. **Neither is a guaranteed bad purchase.**
+
+### Practical verdict
+
+There are **only four direct source-backed near-universal assertions worth repeating as such**: **MO foot Montesa FTO20** (Shepherd), **Kestrel Magistrate+cheap Jackals** (Irregular Order speakers, with Tik LT exception), **Varuna Zulu KHD26** (Dante), and **SWF Peacemaker+Auxbot** (Swiss Miss). In **Vanilla, NCA and SAA**, the recording evidence supports **a highly efficient *role or package*** much more strongly than any individual compulsory profile.
+
+The strongest no-default profile rejection examples backed by an actual recording are **MO KoJ Hacker45 (Shepherd)**, **NCA Fusilier SWC guns/Hacker (Shepherd)**, **SWF Fusilier premium guns (Shepherd)**, **Kestrel Fennec LT (Shepherd)** and **Varuna Clipper (Swiss Miss; low-tier, not literally unplayable)**. For SAA the negative evidence is **weak/conditional**. Apply each to the named loadout, not every profile sharing its unit name.
+
+### Whole-unit purchasing audit — what can stay off the shopping list? (2026-10-30)
+
+A **whole-unit defer** applies to the *named unit across its usable current profiles* in a particular army, not just a discouraged HMG/ML/Hacker. **No absolute, all-list model ban** is established by the recordings.
+
+| Army | Whole model/unit purchase to defer | Why / when it is worth buying |
+|---|---|---|
+| **Vanilla PanO** | **Clipper — conditional defer if not building Spotlight/Targeted** | [Dante/Tristan](https://www.youtube.com/watch?v=qp458fqYq_s) do not normally favor generic missile-bot attack here; a deliberate guided network remains a reason to buy. Other cited avoids are not whole-unit judgments. |
+| **Kestrel** | **No substantiated full-unit skip** | Fennec **LT** is disfavored but its FO/Sensor/Disco profiles are go-tos. Drummer's expensive controller is criticized, but its cheaper FO + Drumbot and opposing reviewers prevent a unit ban. |
+| **Military Orders** | **No** | Knight of Justice **Hacker** is singled out; other KoJ command/combat loadouts must not be rejected on that evidence. |
+| **Neoterra** | **No** | Fusilier premium guns/Hacker are criticized; cheap Fusilier LT and decoy bodies still work. |
+| **Varuna** | **Clipper — low-priority / conditional**, **not** a proven never-buy | [Swiss Miss](https://www.youtube.com/watch?v=v3hhlSohHzg) rates it bottom C, while a planned linked missile/Guided configuration can still matter. Croc Men have directly opposing reviews, so **do not skip** them on one speaker's advice. |
+| **Shock Army of Acontecimento** | **Clipper — defer unless a real missile plan exists** | Weak generic Guided payoff; FTO **does not** have an SAA Fireteam slot. [Swiss Miss](https://www.youtube.com/watch?v=hlmVXGHskS4) is a preference, not proof of zero viable use. Naga's disliked Mono *profile* does not disqualify Naga. |
+| **WinterFor** | **Bøyg — optional low-priority buy**, disputed | [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) often prefers cheaper Vargar utility; Bøyg still offers armor, extra wound and specific Beta-team roles. Fusilier SWC criticism does **not** justify skipping Fusiliers. |
+
+**Collection note:** a Clipper miniature can serve other PanO rosters where the mission/network plan is different. These are **sectorial-specific purchasing priorities**, not sculpt-wide bans. See the [cross-faction shortlist](../../notes/factions/model-purchase-avoid-summary-2026.md).
+
+### Worst-value and rare/circumstantial picks — proxy-before-buy guide (2026-10-30)
+
+**Question answered:** Which *entire miniatures* deserve no immediate purchase, which **specific profiles** should be avoided despite the unit having good uses, and which useful-but-rare units are best represented by an existing model? This expands — and does **not** overturn — the whole-unit purchasing audit above.
+
+**Decision labels (not measured pick rates):**
+- **Avoid profile** = sourced criticism of a particular loadout or application; **do not infer that the whole sculpt is bad**.
+- **Proxy first** = *inference* from costly/redundant/narrow role, limited list demand or explicit published criticism. Not an assertion that a video presenter called every profile terrible.
+- **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
+- **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
+
+The source judgments below are anchored in the [PanO faction transcript audit above](panoceania.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../../notes/factions/kestrel.md), [NCA](../../notes/factions/nca.md), [Varuna](../../notes/factions/varuna.md), [SAA](../../notes/factions/acontecimento.md), [WinterFor](../../notes/factions/svalarheima.md) and the [current MO roster research](military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+
+#### Svalarheima's Winter Force (WinterFor / SWF)
+
+| Unit / choice | Why it is rarely the best default | Buy or proxy? |
+|---|---|---|
+| **Bøyg 44pt Mk12/ML** | **Direct/contested:** [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) prefers much cheaper **Vargar** Albedo/Disco for general utility; Bøyg retains **W2/ARM5**, serious gun and Beta-team advantages. | **Proxy first / lowest-priority named heavy-infantry purchase** unless its survival and specific Beta role matter. |
+| **Fusilier HMG, ML, Sniper** | **Direct — Shepherd:** generally weak SWC buys relative to Karhu/Nisse/Vargar/other legal guns. | **Avoid profiles; don't skip basic Fusilier LT/decoy**. One correctly based line-infantry miniature can cover rare weapon variants by declaration. |
+| **Clipper FTO or Guided** | **Direct:** poor Guided-network default and **no legal SWF FTO Fireteam row**. | **Proxy first** from Dronbot pool; buy only if actual Targeted plan is tested. |
+| **Oktavia Grímsdóttir; Gunnar FTO** | **Direct/contested:** [Swiss Miss](https://www.youtube.com/watch?v=-pVR0OSVP4w) and [Foxbringer](https://www.youtube.com/watch?v=RGInRCx1rRA) question their value versus Vargar / Shona / Valkyrie / other gun/CC utility. They have unique Albedo/Dogged/linked NCO-or-TacAware-related options. | **Proxy first** rather than buy two niche character sculpts; acquire one only after using her/him in a recurring legal Fireteam. |
+| **Blade-Ops 30pt Decoy Parachutist/forward deployment** | **Direct — Foxbringer 2026:** pays a lot for mobility without actual Hidden Deployment; **23pt FTO Engineer + Tactical Awareness** is strongly liked by other reviewers. | **Avoid expensive loadout as default; do not skip Blade-Ops**. Proxy alternate Blade profiles as needed. |
+| **Unlinked Pathfinder Tactical Awareness17** | **Contested:** Swiss Miss C-tier due to no SWF Fireteam access; Shepherd likes the independent Sensor/FO plus personal activation. | **Proxy/test one**; don't buy a second solely expecting a nonexistent linked activation. |
+| **Second Jotum** | **Inference:** first Jotum is a highly rated ARM10 centerpiece; second is a genuine skew, but usually removes Orders, specialists and alternate mission reach. | **Proxy-test the second TAG** before paying for another large kit. **The first Jotum is NOT a worst-unit pick.** |
+
+**Sources:** [Shepherd WinterFor](https://www.youtube.com/watch?v=oHeTzuV9WLY), [Swiss Miss WinterFor](https://www.youtube.com/watch?v=-pVR0OSVP4w), [Foxbringer 2026](https://www.youtube.com/watch?v=RGInRCx1rRA), [SWF tactical guide](../../notes/factions/svalarheima.md). Note that **SWF has no Redeye/VH**; don't proxy an illegal choice simply because another PanO sectorial uses it.

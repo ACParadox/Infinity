@@ -1090,3 +1090,105 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Known failure: defensive Fireteam** | A large elite multi-Knight/MO team lost 7–0 to Tunguska Grenzer/Bounty Hunter/Salamandra while failing Classifieds; an expensive Fireteam is not intrinsically safe from flanks or scoring denial. | [#137](../../notes/battle-reports/131-140-n5-battle-report-tactical-analysis.md) |
 
 **Limit:** Historical #181 Seraph results are a counterexample to treating any hacking grid as automatic TAG removal. These are game-era actions, not current N5.3 profile/Fireteam legality or faction win rates. [Cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+## Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated source-backed tactical preferences and miniature purchasing priorities; opinions do not override N5.3 roster, profile or Fireteam data above.
+
+**Original audit title:** PanOceania N5.3 — Must-have, go-to, and avoid picks (transcript-evidenced)
+
+**Review:** 2026-10-23. **Authority:** [pinned PanO sectorial Army/Fireteam references]() (Army 7.26246.158, Sept 2026). The seven [tactical faction notes]() and MO roster research were compared with the direct YouTube/Spotify MCP transcripts linked below. **Only attribute a recommendation to a presenter when they actually say it.** Older footage is opinion and does not overrule N5.3 prices, profiles, AVA or Fireteams.
+
+**How to read:**
+- **Must-have** = author **explicitly describes** near-universal pick, or multiple transcripts repeatedly favor it; label **single-reviewer** where unsupported as a consensus. When no unit meets this bar, say **none established**. These are NOT tournament inclusion statistics.
+- **Go-to** = explicitly praised as good in broadly relevant roles, though architecture/missions choose the actual loadout.
+- **Avoid / near-never** = direct presenter condemnation *of that profile/use*, not a blanket assertion the whole unit is unusable. **Disputed** marks another published view. “No-chart FTO” means **cannot use an implied link**, not that the weapon/model is forbidden.
+- Costs are all-in **points/SWC** from pinned local roster when shown.
+
+### Quick decision table
+
+| Army | Credible must-have or closest | Go-to core | Strongest source-backed avoid |
+|---|---|---|---|
+| **Vanilla PanO** | **None established**; cheap Fugazi infrastructure (7) is closest | Joan/active command, Magistrate, Swiss/Tik/Cutter, Peacemaker | **Clipper Guided** as default attack plan without an actual Targeted engine (Dante/Tristan) |
+| **Kestrel** | **Magistrate LT + linked 6pt Jackals** *according to Irregular Order hosts*; Jackal cheap disruption | Fennec FO/Disco/Sensor13, Tik LT, Hetkari, Pathfinder TA17, Banshee | **Fennec LT10** in preference to 19pt Strategos Magistrate or Tik LT (Shepherd); **basic non-command Magistrate** contested low marginal value |
+| **Military Orders** | **Foot Montesa FTO Paramedic20** (Shepherd's explicit near-auto-include); not a requirement | Trinitarians, Teutonic19, Santiago KHD31, Commander LT+1 24, De Fersen, Holy Sepulchre | **Knight of Justice Hacker45/.5** in most lists (Shepherd directly rejects) |
+| **Neoterra (NCA)** | **None established literally**; Fugazi7 / Auxilia15–18 repeatedly praised as foundation | Blocker Specialist15, Pathfinder TA17, Uhlan70–80, Swiss, Squalos NCO | **Fusilier SWC guns and Hacker** outside specific budget reasons (Shepherd) |
+| **Varuna** | **Zulu-Cobra KHD26** (Dante says he starts every list with it) | Foot Montesa26, Helot cheap defense, Kamau / Varuna ORCs | **Clipper** as generic missile buy (Swiss Miss bottom C); **Croc Men over Zulu** disputed (TA vs Swiss Miss) |
+| **Shock Army of Acontecimento** | **None established unanimously**; MetaChemistry expects multiple Bagh-Mari, other lists use Regulars/Guarda/TAG | Regular Sensor Minelayer13, Sapper MSR20, foot Montesa FTO20, Pathfinder TA17, Naga utility | **Naga Monofilament Minelayer** considered gimmicky by Swiss Miss; **Clipper FTO** has no link row, and Guided has uncertain payoff |
+| **WinterFor / SWF** | **Peacemaker + Auxbot** (Swiss Miss says he would almost always bring one; single-reviewer), Fugazi7 near-default | Karhu Feuerbach34, Vargar FO/Disco24, Blade FTO Engineer23, Hawkins26–32, Locust | **Fusilier HMG / ML / Sniper** (Shepherd says basically never); **Bøyg44** often poorer utility/point than Vargar (disputed) |
+
+### 3. Military Orders
+
+- **Must-have, presenter explicitly:** [Shepherd MO, July 2026](https://www.youtube.com/watch?v=JrMTA91V7wc) says **Knight of Montesa FTO Paramedic20** is high value and he would put one in essentially every list: two Wounds, ARM4/BTS6, Mimetism, BSG, Blitzen, +1 Special Die, Specialist and legal Wildcard. Not the same as a motorcycle or FD foot profile. This is a **speaker-backed auto-include**, not observed universal tournament use.
+- **Go-to:** **Trinitarian FO/KHD** for infiltrating mission work; **Teutonic Specialist19 or TinBot19** for cheap durable firefighting; **Santiago KHD/TinBot31** for a multifunction Fireteam specialist; **Knight Commander LT(+1)24 + NCO** for command economy; **De Fersen Hacker42/.5** when elite combat hacking matters. [Shepherd](https://www.youtube.com/watch?v=JrMTA91V7wc) · [Tactical Awareness Military Orders Redux](https://www.youtube.com/watch?v=RP6Uyyc447k) · [current roster](military-orders.md).
+- **Never/avoid, explicit and strong:** Shepherd says **not to take Knight of Justice HD/Pitcher45/.5** when an 18pt linkable Order Sergeant supplies cheap Pitcher and De Fersen supplies the better offensive Hacker. **Counterargument:** the KoJ is W2 ARM5 BTS9 and can combine a combat-ready Wildcard with a Pitcher; this matters in a narrow mixed-role plan, but does not erase Shepherd's direct negative judgment. He also regards **Hospitaller HMG** as a less attractive solo gun than some competing options. [Shepherd](https://www.youtube.com/watch?v=JrMTA91V7wc).
+
+### Practical verdict
+
+There are **only four direct source-backed near-universal assertions worth repeating as such**: **MO foot Montesa FTO20** (Shepherd), **Kestrel Magistrate+cheap Jackals** (Irregular Order speakers, with Tik LT exception), **Varuna Zulu KHD26** (Dante), and **SWF Peacemaker+Auxbot** (Swiss Miss). In **Vanilla, NCA and SAA**, the recording evidence supports **a highly efficient *role or package*** much more strongly than any individual compulsory profile.
+
+The strongest no-default profile rejection examples backed by an actual recording are **MO KoJ Hacker45 (Shepherd)**, **NCA Fusilier SWC guns/Hacker (Shepherd)**, **SWF Fusilier premium guns (Shepherd)**, **Kestrel Fennec LT (Shepherd)** and **Varuna Clipper (Swiss Miss; low-tier, not literally unplayable)**. For SAA the negative evidence is **weak/conditional**. Apply each to the named loadout, not every profile sharing its unit name.
+
+### Whole-unit purchasing audit — what can stay off the shopping list? (2026-10-30)
+
+A **whole-unit defer** applies to the *named unit across its usable current profiles* in a particular army, not just a discouraged HMG/ML/Hacker. **No absolute, all-list model ban** is established by the recordings.
+
+| Army | Whole model/unit purchase to defer | Why / when it is worth buying |
+|---|---|---|
+| **Vanilla PanO** | **Clipper — conditional defer if not building Spotlight/Targeted** | [Dante/Tristan](https://www.youtube.com/watch?v=qp458fqYq_s) do not normally favor generic missile-bot attack here; a deliberate guided network remains a reason to buy. Other cited avoids are not whole-unit judgments. |
+| **Kestrel** | **No substantiated full-unit skip** | Fennec **LT** is disfavored but its FO/Sensor/Disco profiles are go-tos. Drummer's expensive controller is criticized, but its cheaper FO + Drumbot and opposing reviewers prevent a unit ban. |
+| **Military Orders** | **No** | Knight of Justice **Hacker** is singled out; other KoJ command/combat loadouts must not be rejected on that evidence. |
+| **Neoterra** | **No** | Fusilier premium guns/Hacker are criticized; cheap Fusilier LT and decoy bodies still work. |
+| **Varuna** | **Clipper — low-priority / conditional**, **not** a proven never-buy | [Swiss Miss](https://www.youtube.com/watch?v=v3hhlSohHzg) rates it bottom C, while a planned linked missile/Guided configuration can still matter. Croc Men have directly opposing reviews, so **do not skip** them on one speaker's advice. |
+| **Shock Army of Acontecimento** | **Clipper — defer unless a real missile plan exists** | Weak generic Guided payoff; FTO **does not** have an SAA Fireteam slot. [Swiss Miss](https://www.youtube.com/watch?v=hlmVXGHskS4) is a preference, not proof of zero viable use. Naga's disliked Mono *profile* does not disqualify Naga. |
+| **WinterFor** | **Bøyg — optional low-priority buy**, disputed | [Shepherd](https://www.youtube.com/watch?v=oHeTzuV9WLY) often prefers cheaper Vargar utility; Bøyg still offers armor, extra wound and specific Beta-team roles. Fusilier SWC criticism does **not** justify skipping Fusiliers. |
+
+**Collection note:** a Clipper miniature can serve other PanO rosters where the mission/network plan is different. These are **sectorial-specific purchasing priorities**, not sculpt-wide bans. See the [cross-faction shortlist](../../notes/factions/model-purchase-avoid-summary-2026.md).
+
+### Worst-value and rare/circumstantial picks — proxy-before-buy guide (2026-10-30)
+
+**Question answered:** Which *entire miniatures* deserve no immediate purchase, which **specific profiles** should be avoided despite the unit having good uses, and which useful-but-rare units are best represented by an existing model? This expands — and does **not** overturn — the whole-unit purchasing audit above.
+
+**Decision labels (not measured pick rates):**
+- **Avoid profile** = sourced criticism of a particular loadout or application; **do not infer that the whole sculpt is bad**.
+- **Proxy first** = *inference* from costly/redundant/narrow role, limited list demand or explicit published criticism. Not an assertion that a video presenter called every profile terrible.
+- **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
+- **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
+
+The source judgments below are anchored in the [PanO faction transcript audit above](panoceania.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../../notes/factions/kestrel.md), [NCA](../../notes/factions/nca.md), [Varuna](../../notes/factions/varuna.md), [SAA](../../notes/factions/acontecimento.md), [WinterFor](../../notes/factions/svalarheima.md) and the [current MO roster research](military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+
+#### Military Orders
+
+| Unit / choice | Why usually low priority or specialized | Collection decision using your inventory |
+|---|---|---|
+| **Knight of Justice Hacker/Pitcher 45/.5** | **Direct, strong — Shepherd:** much of its networking job can be done by **Order Sergeant FTO hacker/Pitcher18/.5**, while **De Fersen** brings elite combat hacking. Other KoJ guns, mission and team jobs are genuinely different. | **Avoid the profile, NOT the model.** Your **1 KoJ** suffices; choose its appropriate role without buying a separate Hacker sculpt. |
+| **Additional Knights Hospitaller / HMG-heavy Crusade** | **Direct/contested:** Shepherd warns that several costly Hospitallers starve other MO roles; other reviewers demonstrate effective linked HMG + Doctor attacks. | **Buy no fifth by default**: you already own **4 Hospitallers**. Proxy any unusual extra configuration with an eligible S2 knight if you actually construct it. |
+| **Military Order Curator** | **Inference:** specialty mine/turret/Engineer and Order Sergeant-equivalence role; useful in *specific* defense/repair setups, but not an ordinary every-list body. | **Proxy first**, **0 owned**. Prefer unused owned **Trisha N33 (S2 LI Engineer)**; Order Sergeant is MO-legal and discouraged as a Curator donor. |
+| **Indigo Brother Konstantinos** | **Inference — specialty build, NOT bad:** **Disco/Eclipse plus legal Wildcard/Counts-as** is valuable exactly when a knight team needs protected crossing; otherwise its points compete with Montesa/Trinitarian or cheap FTO support. | **Proxy first**, **0 owned**. Older Hospitaller/Santiago suggestion is superseded: both are MO-legal HI; Konstantinos is S2 **LI**. Prefer non-MO **Trisha N33 / Fennec S2 LI**. Buy if you repeatedly depend on linked Disco; don't ignore the actual distinct utility. |
+| **Knight Hospitaller Kyle Hawkins** | **Inference — mission/team pick:** additional named specialist/attack flexibility, not an automatic need when you already have Joan, Santiago, De Fersen, Hospitaller and Montesa. | **Proxy first**, **0 owned**. Prefer **Kestrel Hetkari / Griffin S2 HI**: both match Hawkins's HI but are **not legal MO named units**; Hospitaller/Santiago are MO-legal and confusing as donors. |
+| **Dart (and optional Sharvara K9)** | **Inference:** excellent advanced-role possibility but not compulsory in a knight-heavy scoring plan; the dog profile adds a second physical requirement. | **Proxy first**, **0 Dart / 0 Sharvara**. Prefer the confirmed owned **Naga S2 SK** for **Dart S2 SK**, not the old **Asura HI** suggestion; use a **separate** peripheral proxy if selecting her K9 option. |
+| **Second Seraph, second motorized Montesa, third+ Crusader Brethren** | **Inference:** these are *duplicate specialty plans*, not weak troop families. Multi-TAG, double-bike and multiple Combat Jump loadouts require specific missions and enough Orders to fund them. | **One is enough to start**: you own **Seraph1 + Auxbot1**, **motorized Montesa1**, **Crusader1**. Proxy extra bodies only when testing simultaneous use. Do **not** use the foot Montesa model as though it were a motorcycle without a size-appropriate base/silhouette solution. |
+
+**Source anchors:** [Shepherd Military Orders](https://www.youtube.com/watch?v=JrMTA91V7wc); [Tactical Awareness MO Redux](https://www.youtube.com/watch?v=RP6Uyyc447k); [MO roster/list-construction evidence](military-orders.md). **Strong buying reasons remain** for foot Montesa FTO, Trinitarian, Teutonic, Santiago, De Fersen, Commander and the cheap team infrastructure.
+
+#### Proxy-first shopping priority for the **existing Kestrel + Military Orders collection**
+
+The [2026-10-30 Kestrel inventory](../../inventory/kestrel.md) and [MO inventory](../../inventory/military-orders.md) are the physical ownership authority. These are **model substitutions**, not extra models owned and not instructions to buy toward AVA.
+
+| No immediate dedicated purchase | Already available proxy / substitute | Why this saves a purchase |
+|---|---|---|
+| **Kestrel Emily Handelman; Richard Quinn** | Preferred: **owned Trisha N33 / MO Crosier (S2 LI)**; Fennec is itself Kestrel-legal and discouraged | The six owned Fennecs do not make them visually distinct Kestrel character proxies. Both alternative donors are non-Kestrel S2 LI; allocate one physical figure per role. **Do not count a Fennec twice in the same list**. |
+| **Kestrel Dr. Priya Harper; Ruby Monday; Sāchā** | **No universal candidate**: find correct-S/class non-Kestrel sculpts for each distinct unit; do not propose Kestrel-legal Fennec/Firefly by default | **0 dedicated**. Ruby lacks robust older N5.3 audio coverage, and Sāchā fills rare cheap FD/Irregular utility; test before purchasing. Priya may deserve a dedicated model later if her legal FTO/specialist role becomes common. |
+| **Kestrel Father Sforza FTO; Optimate Agent Maximus infantry** | A clearly distinct correctly sized PanO character for Sforza; preferred **MO Infirmarer (S2 MI)** for infantry Maximus; old Hoplite HI class mismatch | **0 dedicated**. Sforza is useful to some reviewers but discretionary. **Do not substitute your TAG Maximus sculpt as an infantry Maximus without correct silhouette/base**: these are separate unit entries. |
+| **Kestrel Dart / Sharvara K9** | preferred **owned OSS Naga (S2 SK)** for Dart (the Asura is HI); a separate dog/peripheral model for Sharvara if required | **0 Dart, 0 Sharvara**. Choose Dart profiles without Sharvara if you have no suitable peripheral, or arrange a second model. |
+| **MO Konstantinos; Kyle Hawkins; extra Teutonics** | Prefer **Kestrel Hetkari/Griffin S2 HI** for missing MO knights; **Trisha N33 / MO-external Fennec S2 LI** for Konstantinos | Current collection includes **4 Hospitallers / 2 Santiago / 1 Teutonic**. The older Hospitaller/Santiago/Teutonic donors are themselves MO-legal and should not be first-choice stand-ins for another MO unit. |
+| **MO Curator** | **Owned Trisha N33 (S2 LI Engineer)**, not MO-legal Order Sergeant | **0 Curator**; 3 Order Sergeants are also MO-legal and therefore not preferred as a donor. Useful only with intentional turret/mine/Engineer plan. |
+| **Any Clipper / alternate Pathfinder-Sierra-Fugazi configuration** | **Four shared Dronbot chassis total** | They are **4 physical models**, not separate AVA pools. Only buy more if a specific list needs **more than four Dronbots simultaneously**, or if agreed proxy/weapon representation is not sufficiently clear. |
+| **Alternate Bulleteer / Peacemaker models** | **Two pooled Armbot chassis total** | They are **two total**, not two of each. Need extra only to field more than two compatible chassis at once, or to meet a specific event-model requirement. |
+| **Second Blink, Black A.I.R., Drummer, Redeye, Tik, Squalos, Seraph or motorized Montesa** | **One already owned** of most named expensive options (exact counts in both inventories) | Treat AVA > owned as a *possible list* rather than a shopping obligation. Proxy a second with an uncommitted, visibly distinct, appropriate chassis if you ever test that particular duplication. |
+
+**Proxy legality, silhouette and clarity:** A gaming proxy still represents a **real legal current Army entry and its actual profile**. A weapon variant usually needs **no second miniature**. Verify current *silhouette, base diameter, quantity and peripheral count* against the roster before substituting: a TAG, vehicle, bike, REM or S2 soldier is **not automatically physically interchangeable**. Clearly tell your opponent which sculpt represents which troop; avoid visually identical proxies for several different units where there could be confusion. For official events, check the current [ITS Season 18 rules/download](https://experience.corvusbelli.com/en/infinity/its) and the organizer; previous [ITS17 proxy provisions](https://downloads.corvusbelli.com/infinity/organized-play/its-rules-season-17-en-v1.0.2.pdf) allowed Corvus Belli stand-ins with the correct base and disclosure but did not allow other manufacturers. **Season 18's specific proxy paragraph was not independently retrievable for this audit**, so don't present an older season's wording as verified 2026 law.
+
+**Final collection principle:** *(1)* buy common roles you actually use; *(2)* avoid the explicitly poor **profile** without blacklisting a useful troop; *(3)* **proxy** a named single-purpose unit or a second high-cost model for several games; *(4)* purchase its own miniature only if it repeatedly earns a distinct role or you want the sculpt for hobby reasons. **“Rare” and “never worth taking” are intentionally not synonyms.**
