@@ -27,17 +27,17 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla ALEPH](../../sectorials/aleph/aleph.md) | Access | Access | Access | Access | Access | Abundant | Limited | Abundant |
-| [Operations Subsection (OSS)](../../sectorials/aleph/operations-subsection.md) | no-access | no-access | Access | Access | Access | Access | Access | Abundant |
-| [Steel Phalanx](../../sectorials/aleph/steel-phalanx.md) | Abundant | Access | Access | Access | no-access | Access | Access | no-access |
+| [Vanilla ALEPH](../sectorials/aleph/aleph.md) | Access | Access | Access | Access | Access | Abundant | Limited | Abundant |
+| [Operations Subsection (OSS)](../sectorials/aleph/operations-subsection.md) | no-access | no-access | Access | Access | Access | Access | Access | Abundant |
+| [Steel Phalanx](../sectorials/aleph/steel-phalanx.md) | Abundant | Access | Access | Access | no-access | Access | Access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla ALEPH](../../sectorials/aleph/aleph.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
-| [Operations Subsection (OSS)](../../sectorials/aleph/operations-subsection.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
-| [Steel Phalanx](../../sectorials/aleph/steel-phalanx.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Vanilla ALEPH](../sectorials/aleph/aleph.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
+| [Operations Subsection (OSS)](../sectorials/aleph/operations-subsection.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
+| [Steel Phalanx](../sectorials/aleph/steel-phalanx.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
 
 **Providers and caveats**
 
@@ -66,23 +66,23 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Ariadna](../../sectorials/ariadna/vanilla-ariadna.md) | Abundant | Limited | no-access | Access | no-access | Abundant | no-access | no-access |
-| [USAriadna Ranger Force](../../sectorials/ariadna/usariadna.md) | Abundant | Limited | no-access | Access | no-access | Access | no-access | no-access |
-| [Tartary Army Corps (TAK)](../../sectorials/ariadna/tartary-army-corps.md) | Abundant | Limited | no-access | Access | no-access | no-access | no-access | no-access |
-| [Kosmoflot](../../sectorials/ariadna/kosmoflot.md) | Abundant | Limited | no-access | Access | no-access | Access | no-access | no-access |
-| [Caledonian Highlander Army](../../sectorials/ariadna/caledonian-highlander-army.md) | Abundant | no-access | no-access | Access | no-access | no-access | no-access | no-access |
-| [FRRM / Mérovingienne](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Access | Limited | no-access | Access | no-access | Access | Access | no-access |
+| [Vanilla Ariadna](../sectorials/ariadna/vanilla-ariadna.md) | Abundant | Limited | no-access | Access | no-access | Abundant | no-access | no-access |
+| [USAriadna Ranger Force](../sectorials/ariadna/usariadna.md) | Abundant | Limited | no-access | Access | no-access | Access | no-access | no-access |
+| [Tartary Army Corps (TAK)](../sectorials/ariadna/tartary-army-corps.md) | Abundant | Limited | no-access | Access | no-access | no-access | no-access | no-access |
+| [Kosmoflot](../sectorials/ariadna/kosmoflot.md) | Abundant | Limited | no-access | Access | no-access | Access | no-access | no-access |
+| [Caledonian Highlander Army](../sectorials/ariadna/caledonian-highlander-army.md) | Abundant | no-access | no-access | Access | no-access | no-access | no-access | no-access |
+| [FRRM / Mérovingienne](../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Access | Limited | no-access | Access | no-access | Access | Access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Ariadna](../../sectorials/ariadna/vanilla-ariadna.md) | Limited | Access | no-access | Access | no-access | no-access | Abundant | Access |
-| [USAriadna Ranger Force](../../sectorials/ariadna/usariadna.md) | Limited | no-access | no-access | no-access | no-access | no-access | Access | no-access |
-| [Tartary Army Corps (TAK)](../../sectorials/ariadna/tartary-army-corps.md) | Limited | no-access | no-access | no-access | no-access | no-access | Access | Access |
-| [Kosmoflot](../../sectorials/ariadna/kosmoflot.md) | Limited | Access | no-access | Access | no-access | no-access | Access | no-access |
-| [Caledonian Highlander Army](../../sectorials/ariadna/caledonian-highlander-army.md) | Limited | no-access | no-access | Access | no-access | no-access | no-access | no-access |
-| [FRRM / Mérovingienne](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Limited | Access | no-access | no-access | no-access | no-access | no-access | no-access |
+| [Vanilla Ariadna](../sectorials/ariadna/vanilla-ariadna.md) | Limited | Access | no-access | Access | no-access | no-access | Abundant | Access |
+| [USAriadna Ranger Force](../sectorials/ariadna/usariadna.md) | Limited | no-access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Tartary Army Corps (TAK)](../sectorials/ariadna/tartary-army-corps.md) | Limited | no-access | no-access | no-access | no-access | no-access | Access | Access |
+| [Kosmoflot](../sectorials/ariadna/kosmoflot.md) | Limited | Access | no-access | Access | no-access | no-access | Access | no-access |
+| [Caledonian Highlander Army](../sectorials/ariadna/caledonian-highlander-army.md) | Limited | no-access | no-access | Access | no-access | no-access | no-access | no-access |
+| [FRRM / Mérovingienne](../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Limited | Access | no-access | no-access | no-access | no-access | no-access | no-access |
 
 **Providers and caveats**
 
@@ -126,21 +126,21 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Combined Army](../../sectorials/combined-army/vanilla-combined-army.md) | Access | Access | Access | no-access | Access | Abundant | Abundant | Access |
-| [Morat Aggression Forces](../../sectorials/combined-army/morat-aggression-forces.md) | Abundant | Access | Access | no-access | no-access | Access | Access | no-access |
-| [Next Wave](../../sectorials/combined-army/next-wave.md) | Limited | Access | no-access | Access | no-access | Abundant | Abundant | no-access |
-| [Onyx Contact Force](../../sectorials/combined-army/onyx.md) | no-access | no-access | no-access | no-access | Access | Abundant | Abundant | no-access |
-| [Shasvastii Expeditionary Force](../../sectorials/combined-army/shasvastii.md) | Limited | Access | no-access | Access | Access | Abundant | no-access | no-access |
+| [Vanilla Combined Army](../sectorials/combined-army/vanilla-combined-army.md) | Access | Access | Access | no-access | Access | Abundant | Abundant | Access |
+| [Morat Aggression Forces](../sectorials/combined-army/morat-aggression-forces.md) | Abundant | Access | Access | no-access | no-access | Access | Access | no-access |
+| [Next Wave](../sectorials/combined-army/next-wave.md) | Limited | Access | no-access | Access | no-access | Abundant | Abundant | no-access |
+| [Onyx Contact Force](../sectorials/combined-army/onyx.md) | no-access | no-access | no-access | no-access | Access | Abundant | Abundant | no-access |
+| [Shasvastii Expeditionary Force](../sectorials/combined-army/shasvastii.md) | Limited | Access | no-access | Access | Access | Abundant | no-access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Combined Army](../../sectorials/combined-army/vanilla-combined-army.md) | Abundant | Abundant | no-access | no-access | Access | Abundant | Access | Access |
-| [Morat Aggression Forces](../../sectorials/combined-army/morat-aggression-forces.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
-| [Next Wave](../../sectorials/combined-army/next-wave.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
-| [Onyx Contact Force](../../sectorials/combined-army/onyx.md) | Abundant | Abundant | no-access | no-access | no-access | Limited | Access | no-access |
-| [Shasvastii Expeditionary Force](../../sectorials/combined-army/shasvastii.md) | Abundant | Access | no-access | no-access | no-access | Access | Access | Access |
+| [Vanilla Combined Army](../sectorials/combined-army/vanilla-combined-army.md) | Abundant | Abundant | no-access | no-access | Access | Abundant | Access | Access |
+| [Morat Aggression Forces](../sectorials/combined-army/morat-aggression-forces.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Next Wave](../sectorials/combined-army/next-wave.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
+| [Onyx Contact Force](../sectorials/combined-army/onyx.md) | Abundant | Abundant | no-access | no-access | no-access | Limited | Access | no-access |
+| [Shasvastii Expeditionary Force](../sectorials/combined-army/shasvastii.md) | Abundant | Access | no-access | no-access | no-access | Access | Access | Access |
 
 **Providers and caveats**
 
@@ -180,19 +180,19 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Haqqislam](../../sectorials/haqqislam/haqqislam.md) | Abundant | Access | no-access | no-access | no-access | Abundant | Access | Access |
-| [Hassassin Bahram](../../sectorials/haqqislam/hassassin-bahram.md) | Abundant | no-access | no-access | Access | no-access | Abundant | Access | no-access |
-| [Qapu Khalqi](../../sectorials/haqqislam/qapu-khalqi.md) | Access | Access | no-access | Access | no-access | Access | Abundant | no-access |
-| [Ramah Taskforce](../../sectorials/haqqislam/ramah-taskforce.md) | Access | Access | no-access | Access | no-access | Limited | Limited | Access |
+| [Vanilla Haqqislam](../sectorials/haqqislam/haqqislam.md) | Abundant | Access | no-access | no-access | no-access | Abundant | Access | Access |
+| [Hassassin Bahram](../sectorials/haqqislam/hassassin-bahram.md) | Abundant | no-access | no-access | Access | no-access | Abundant | Access | no-access |
+| [Qapu Khalqi](../sectorials/haqqislam/qapu-khalqi.md) | Access | Access | no-access | Access | no-access | Access | Abundant | no-access |
+| [Ramah Taskforce](../sectorials/haqqislam/ramah-taskforce.md) | Access | Access | no-access | Access | no-access | Limited | Limited | Access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Haqqislam](../../sectorials/haqqislam/haqqislam.md) | Abundant | Abundant | Abundant | no-access | Access | Access | Abundant | Access |
-| [Hassassin Bahram](../../sectorials/haqqislam/hassassin-bahram.md) | Access | Access | no-access | no-access | no-access | Access | Access | no-access |
-| [Qapu Khalqi](../../sectorials/haqqislam/qapu-khalqi.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | no-access |
-| [Ramah Taskforce](../../sectorials/haqqislam/ramah-taskforce.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
+| [Vanilla Haqqislam](../sectorials/haqqislam/haqqislam.md) | Abundant | Abundant | Abundant | no-access | Access | Access | Abundant | Access |
+| [Hassassin Bahram](../sectorials/haqqislam/hassassin-bahram.md) | Access | Access | no-access | no-access | no-access | Access | Access | no-access |
+| [Qapu Khalqi](../sectorials/haqqislam/qapu-khalqi.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | no-access |
+| [Ramah Taskforce](../sectorials/haqqislam/ramah-taskforce.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
 
 **Providers and caveats**
 
@@ -222,17 +222,17 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla JSA](../../sectorials/jsa/jsa.md) | Abundant | Limited | Access | Access | no-access | Access | no-access | no-access |
-| [Ōban](../../sectorials/jsa/oban.md) | Abundant | no-access | Access | Access | no-access | Access | no-access | no-access |
-| [Shindenbutai](../../sectorials/jsa/shindenbutai.md) | Access | Access | no-access | Access | no-access | Access | Access | no-access |
+| [Vanilla JSA](../sectorials/jsa/jsa.md) | Abundant | Limited | Access | Access | no-access | Access | no-access | no-access |
+| [Ōban](../sectorials/jsa/oban.md) | Abundant | no-access | Access | Access | no-access | Access | no-access | no-access |
+| [Shindenbutai](../sectorials/jsa/shindenbutai.md) | Access | Access | no-access | Access | no-access | Access | Access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla JSA](../../sectorials/jsa/jsa.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
-| [Ōban](../../sectorials/jsa/oban.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
-| [Shindenbutai](../../sectorials/jsa/shindenbutai.md) | Access | Abundant | no-access | no-access | no-access | no-access | Access | Access |
+| [Vanilla JSA](../sectorials/jsa/jsa.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Ōban](../sectorials/jsa/oban.md) | Access | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Shindenbutai](../sectorials/jsa/shindenbutai.md) | Access | Abundant | no-access | no-access | no-access | no-access | Access | Access |
 
 **Providers and caveats**
 
@@ -257,21 +257,21 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Dahshat Company](../../sectorials/na2/dahshat-company.md) | Abundant | Access | no-access | Access | no-access | no-access | Limited | Abundant |
-| [Ikari Company](../../sectorials/na2/ikari-company.md) | Abundant | Access | no-access | Access | no-access | Abundant | Access | no-access |
-| [White Company](../../sectorials/na2/white-company.md) | Access | Access | Access | no-access | Abundant | Access | Abundant | Access |
-| [Druze Bayram Security](../../sectorials/non-aligned-armies/druze.md) | Access | no-access | no-access | Access | no-access | Access | Access | Access |
-| [StarCo](../../sectorials/non-aligned-armies/starco-free-company-of-the-star.md) | Access | no-access | Access | Access | Access | Abundant | Access | Abundant |
+| [Dahshat Company](../sectorials/na2/dahshat-company.md) | Abundant | Access | no-access | Access | no-access | no-access | Limited | Abundant |
+| [Ikari Company](../sectorials/na2/ikari-company.md) | Abundant | Access | no-access | Access | no-access | Abundant | Access | no-access |
+| [White Company](../sectorials/na2/white-company.md) | Access | Access | Access | no-access | Abundant | Access | Abundant | Access |
+| [Druze Bayram Security](../sectorials/non-aligned-armies/druze.md) | Access | no-access | no-access | Access | no-access | Access | Access | Access |
+| [StarCo](../sectorials/non-aligned-armies/starco-free-company-of-the-star.md) | Access | no-access | Access | Access | Access | Abundant | Access | Abundant |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Dahshat Company](../../sectorials/na2/dahshat-company.md) | Access | Access | no-access | no-access | no-access | no-access | no-access | no-access |
-| [Ikari Company](../../sectorials/na2/ikari-company.md) | Access | Access | no-access | no-access | no-access | Access | Access | Access |
-| [White Company](../../sectorials/na2/white-company.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | Access |
-| [Druze Bayram Security](../../sectorials/non-aligned-armies/druze.md) | Access | Access | no-access | no-access | no-access | no-access | Access | Access |
-| [StarCo](../../sectorials/non-aligned-armies/starco-free-company-of-the-star.md) | Access | Access | no-access | no-access | no-access | no-access | no-access | no-access |
+| [Dahshat Company](../sectorials/na2/dahshat-company.md) | Access | Access | no-access | no-access | no-access | no-access | no-access | no-access |
+| [Ikari Company](../sectorials/na2/ikari-company.md) | Access | Access | no-access | no-access | no-access | Access | Access | Access |
+| [White Company](../sectorials/na2/white-company.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | Access |
+| [Druze Bayram Security](../sectorials/non-aligned-armies/druze.md) | Access | Access | no-access | no-access | no-access | no-access | Access | Access |
+| [StarCo](../sectorials/non-aligned-armies/starco-free-company-of-the-star.md) | Access | Access | no-access | no-access | no-access | no-access | no-access | no-access |
 
 **Providers and caveats**
 
@@ -312,19 +312,19 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Nomads](../../sectorials/nomads/nomads.md) | Abundant | Access | Access | Access | Access | Abundant | Abundant | Abundant |
-| [Bakunin](../../sectorials/nomads/bakunin.md) | Abundant | Access | Access | Access | Access | Access | Abundant | Abundant |
-| [Corregidor](../../sectorials/nomads/corregidor.md) | Access | Access | Access | Access | Access | Abundant | Access | Abundant |
-| [Tunguska](../../sectorials/nomads/tunguska.md) | Access | Access | no-access | Access | Access | Access | Abundant | Access |
+| [Vanilla Nomads](../sectorials/nomads/nomads.md) | Abundant | Access | Access | Access | Access | Abundant | Abundant | Abundant |
+| [Bakunin](../sectorials/nomads/bakunin.md) | Abundant | Access | Access | Access | Access | Access | Abundant | Abundant |
+| [Corregidor](../sectorials/nomads/corregidor.md) | Access | Access | Access | Access | Access | Abundant | Access | Abundant |
+| [Tunguska](../sectorials/nomads/tunguska.md) | Access | Access | no-access | Access | Access | Access | Abundant | Access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Nomads](../../sectorials/nomads/nomads.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | Access |
-| [Bakunin](../../sectorials/nomads/bakunin.md) | Abundant | Access | Access | no-access | no-access | no-access | no-access | Access |
-| [Corregidor](../../sectorials/nomads/corregidor.md) | Abundant | Abundant | no-access | no-access | no-access | no-access | Access | Access |
-| [Tunguska](../../sectorials/nomads/tunguska.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | Access |
+| [Vanilla Nomads](../sectorials/nomads/nomads.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | Access |
+| [Bakunin](../sectorials/nomads/bakunin.md) | Abundant | Access | Access | no-access | no-access | no-access | no-access | Access |
+| [Corregidor](../sectorials/nomads/corregidor.md) | Abundant | Abundant | no-access | no-access | no-access | no-access | Access | Access |
+| [Tunguska](../sectorials/nomads/tunguska.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | Access |
 
 **Providers and caveats**
 
@@ -368,17 +368,17 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla O-12](../../sectorials/o-12/o-12.md) | Access | Access | no-access | Access | Access | Abundant | Access | no-access |
-| [Starmada](../../sectorials/o-12/starmada.md) | Access | Access | no-access | Access | Access | Access | Access | no-access |
-| [Torchlight Brigade](../../sectorials/o-12/torchlight-brigade.md) | Limited | Limited | no-access | Access | no-access | Access | Access | no-access |
+| [Vanilla O-12](../sectorials/o-12/o-12.md) | Access | Access | no-access | Access | Access | Abundant | Access | no-access |
+| [Starmada](../sectorials/o-12/starmada.md) | Access | Access | no-access | Access | Access | Access | Access | no-access |
+| [Torchlight Brigade](../sectorials/o-12/torchlight-brigade.md) | Limited | Limited | no-access | Access | no-access | Access | Access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla O-12](../../sectorials/o-12/o-12.md) | Abundant | Access | Access | no-access | no-access | no-access | Abundant | Access |
-| [Starmada](../../sectorials/o-12/starmada.md) | Abundant | Access | Access | no-access | no-access | no-access | Abundant | Access |
-| [Torchlight Brigade](../../sectorials/o-12/torchlight-brigade.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
+| [Vanilla O-12](../sectorials/o-12/o-12.md) | Abundant | Access | Access | no-access | no-access | no-access | Abundant | Access |
+| [Starmada](../sectorials/o-12/starmada.md) | Abundant | Access | Access | no-access | no-access | no-access | Abundant | Access |
+| [Torchlight Brigade](../sectorials/o-12/torchlight-brigade.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
 
 **Providers and caveats**
 
@@ -404,25 +404,25 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla PanOceania](../../sectorials/panoceania/panoceania.md) | no-access | no-access | no-access | Access | no-access | Abundant | Abundant | Abundant |
-| [Kestrel Colonial Force](../../sectorials/panoceania/kestrel-colonial-force.md) | no-access | no-access | no-access | Access | no-access | Abundant | no-access | Abundant |
-| [Military Orders](../../sectorials/panoceania/military-orders.md) | no-access | no-access | no-access | Access | no-access | Abundant | Access | Access |
-| [Neoterran Capitaline Army](../../sectorials/panoceania/neoterran-capitaline-army.md) | no-access | no-access | no-access | Access | no-access | Access | Access | no-access |
-| [Shock Army of Acontecimento](../../sectorials/panoceania/shock-army-of-acontecimento.md) | no-access | no-access | Access | no-access | no-access | Abundant | Limited | Access |
-| [Svalarheima WinterFor](../../sectorials/panoceania/svalarheima-s-winter-force.md) | no-access | no-access | no-access | Access | no-access | no-access | Access | no-access |
-| [Varuna Immediate Reaction Division](../../sectorials/panoceania/varuna-immediate-reaction-division.md) | no-access | no-access | no-access | Access | no-access | Limited | Limited | Access |
+| [Vanilla PanOceania](../sectorials/panoceania/panoceania.md) | no-access | no-access | no-access | Access | no-access | Abundant | Abundant | Abundant |
+| [Kestrel Colonial Force](../sectorials/panoceania/kestrel-colonial-force.md) | no-access | no-access | no-access | Access | no-access | Abundant | no-access | Abundant |
+| [Military Orders](../sectorials/panoceania/military-orders.md) | no-access | no-access | no-access | Access | no-access | Abundant | Access | Access |
+| [Neoterran Capitaline Army](../sectorials/panoceania/neoterran-capitaline-army.md) | no-access | no-access | no-access | Access | no-access | Access | Access | no-access |
+| [Shock Army of Acontecimento](../sectorials/panoceania/shock-army-of-acontecimento.md) | no-access | no-access | Access | no-access | no-access | Abundant | Limited | Access |
+| [Svalarheima WinterFor](../sectorials/panoceania/svalarheima-s-winter-force.md) | no-access | no-access | no-access | Access | no-access | no-access | Access | no-access |
+| [Varuna Immediate Reaction Division](../sectorials/panoceania/varuna-immediate-reaction-division.md) | no-access | no-access | no-access | Access | no-access | Limited | Limited | Access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla PanOceania](../../sectorials/panoceania/panoceania.md) | Abundant | Abundant | Access | Access | no-access | no-access | Abundant | Access |
-| [Kestrel Colonial Force](../../sectorials/panoceania/kestrel-colonial-force.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | Access |
-| [Military Orders](../../sectorials/panoceania/military-orders.md) | Abundant | Access | no-access | Access | no-access | no-access | Access | no-access |
-| [Neoterran Capitaline Army](../../sectorials/panoceania/neoterran-capitaline-army.md) | Abundant | Abundant | Access | Access | no-access | no-access | Access | Access |
-| [Shock Army of Acontecimento](../../sectorials/panoceania/shock-army-of-acontecimento.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | no-access |
-| [Svalarheima WinterFor](../../sectorials/panoceania/svalarheima-s-winter-force.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | Access |
-| [Varuna Immediate Reaction Division](../../sectorials/panoceania/varuna-immediate-reaction-division.md) | Abundant | Access | no-access | no-access | no-access | no-access | no-access | no-access |
+| [Vanilla PanOceania](../sectorials/panoceania/panoceania.md) | Abundant | Abundant | Access | Access | no-access | no-access | Abundant | Access |
+| [Kestrel Colonial Force](../sectorials/panoceania/kestrel-colonial-force.md) | Abundant | Abundant | Access | no-access | no-access | no-access | Access | Access |
+| [Military Orders](../sectorials/panoceania/military-orders.md) | Abundant | Access | no-access | Access | no-access | no-access | Access | no-access |
+| [Neoterran Capitaline Army](../sectorials/panoceania/neoterran-capitaline-army.md) | Abundant | Abundant | Access | Access | no-access | no-access | Access | Access |
+| [Shock Army of Acontecimento](../sectorials/panoceania/shock-army-of-acontecimento.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [Svalarheima WinterFor](../sectorials/panoceania/svalarheima-s-winter-force.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | Access |
+| [Varuna Immediate Reaction Division](../sectorials/panoceania/varuna-immediate-reaction-division.md) | Abundant | Access | no-access | no-access | no-access | no-access | no-access | no-access |
 
 **Providers and caveats**
 
@@ -474,13 +474,13 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Tohaa](../../sectorials/tohaa/tohaa.md) | Access | Access | Access | Access | no-access | Access | no-access | no-access |
+| [Tohaa](../sectorials/tohaa/tohaa.md) | Access | Access | Access | Access | no-access | Access | no-access | no-access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Tohaa](../../sectorials/tohaa/tohaa.md) | Access | Access | no-access | no-access | no-access | Access | Access | Access |
+| [Tohaa](../sectorials/tohaa/tohaa.md) | Access | Access | no-access | no-access | no-access | Access | Access | Access |
 
 **Providers and caveats**
 
@@ -499,19 +499,19 @@
 
 | Army | Smoke | Smoke + MSV2+ | Eclipse | Disco Ball | White Noise | Enemy-DZ pressure | Pitcher projection | Turn-0 repeater |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Yu Jing](../../sectorials/yu-jing/vanilla-yu-jing.md) | Abundant | Access | no-access | Access | no-access | Access | Abundant | Access |
-| [Imperial Service](../../sectorials/yu-jing/imperial-service.md) | Access | Access | no-access | Access | no-access | Access | Access | Access |
-| [Invincible Army](../../sectorials/yu-jing/invincible-army.md) | no-access | no-access | no-access | Access | no-access | Access | Access | Access |
-| [White Banner](../../sectorials/yu-jing/white-banner.md) | Access | Access | no-access | Access | no-access | Access | Access | Access |
+| [Vanilla Yu Jing](../sectorials/yu-jing/vanilla-yu-jing.md) | Abundant | Access | no-access | Access | no-access | Access | Abundant | Access |
+| [Imperial Service](../sectorials/yu-jing/imperial-service.md) | Access | Access | no-access | Access | no-access | Access | Access | Access |
+| [Invincible Army](../sectorials/yu-jing/invincible-army.md) | no-access | no-access | no-access | Access | no-access | Access | Access | Access |
+| [White Banner](../sectorials/yu-jing/white-banner.md) | Access | Access | no-access | Access | no-access | Access | Access | Access |
 
 **Roster and command architecture**
 
 | Army | Hackers | TAGs | Vehicles (VH) | Inspiring Leadership | Strategos L2 | Impersonation | Chain of Command | Counterintelligence |
 |---|---|---|---|---|---|---|---|---|
-| [Vanilla Yu Jing](../../sectorials/yu-jing/vanilla-yu-jing.md) | Abundant | Abundant | Access | no-access | Access | no-access | Abundant | Access |
-| [Imperial Service](../../sectorials/yu-jing/imperial-service.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
-| [Invincible Army](../../sectorials/yu-jing/invincible-army.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | no-access |
-| [White Banner](../../sectorials/yu-jing/white-banner.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
+| [Vanilla Yu Jing](../sectorials/yu-jing/vanilla-yu-jing.md) | Abundant | Abundant | Access | no-access | Access | no-access | Abundant | Access |
+| [Imperial Service](../sectorials/yu-jing/imperial-service.md) | Abundant | Access | Access | no-access | Access | no-access | Access | Access |
+| [Invincible Army](../sectorials/yu-jing/invincible-army.md) | Abundant | Access | no-access | no-access | no-access | no-access | Access | no-access |
+| [White Banner](../sectorials/yu-jing/white-banner.md) | Abundant | Access | Access | no-access | no-access | no-access | Access | no-access |
 
 **Providers and caveats**
 
@@ -625,8 +625,8 @@
 
 ## Method and maintenance checks
 
-- Each row links to the specific [repository-normalized Army reference](../../sectorials/REFERENCE_DESIGN.md). **Unit details** establish Smoke, Eclipse, Disco, HD+, Pitchers, deployments and command skills; the **canonical Fireteam** section determines whether a Pitcher can actually be linked. Weapons and skill grades are not transferred between vanilla and sectorial copies automatically.
+- Each row links to the specific [repository-normalized Army reference](../sectorials/REFERENCE_DESIGN.md). **Unit details** establish Smoke, Eclipse, Disco, HD+, Pitchers, deployments and command skills; the **canonical Fireteam** section determines whether a Pitcher can actually be linked. Weapons and skill grades are not transferred between vanilla and sectorial copies automatically.
 - Network projection is **deployer/profile dependent**: `Infiltration` on one unit and `Deployable Repeater` on another does **not** create a turn-0 Repeater. Check whether each exact option includes or inherits both, and whether `Minelayer` applies to that type of Repeater.
 - The **Vanilla Yu Jing** reference is explicitly marked `status: partial` for full per-profile inline data (though its roster membership and canonical Fireteams are complete). Its ratings use the roster + sibling Yu Jing references and should be reconfirmed for profile-specific details before exact list construction.
 - Source versions may differ: **White Company** uses Army `7.26246.159`; other roster files generally use `7.26246.158`. An N5.3 update should re-run the access comparison, not just refresh points.
-- Local rule definitions: [Infiltration](../../rules/5b_Special%20Skills/Infiltration.md), [Hacking Device / White Noise](../../rules/5c_Equipment/Hacking_Device.md), [Disco Baller](../../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md), [Strategos](../../rules/5b_Special%20Skills/Strategos.md). Above matrices summarize **standard main-roster availability**, not every possible upgrade/mercenary/ITS edge case.
+- Local rule definitions: [Infiltration](../rules/5b_Special%20Skills/Infiltration.md), [Hacking Device / White Noise](../rules/5c_Equipment/Hacking_Device.md), [Disco Baller](../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md), [Strategos](../rules/5b_Special%20Skills/Strategos.md). Above matrices summarize **standard main-roster availability**, not every possible upgrade/mercenary/ITS edge case.
