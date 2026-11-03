@@ -6,6 +6,16 @@
 - Before changing project files, read the specific relevant files first and preserve existing decisions unless the requested change explicitly supersedes them.
 - Do not rely on model memory for exact Infinity rules, profiles, points, SWC, AVA, or Fireteam legality when repository reference data exists.
 
+## Unit and profile list formatting
+
+When writing or editing faction analysis, tactical notes, or other explanatory Markdown:
+
+- **If a prose paragraph mentions multiple distinct units or alternative profiles, use a Markdown bullet list**, preferably one bullet per unit/profile with its role, relevant statistics and trade-offs. Keep a short introductory sentence and any conclusion outside the list.
+- For comparisons, give each alternative its own bullet rather than packing several named units or profiles into a dense sentence.
+- Treat a **Fireteam or explicitly synergistic multi-unit package as one named combination** when its members must be understood together; present alternative packages as separate bullets. Nested bullets can distinguish individual members when useful.
+- Existing structured comparison tables or straightforward relationship statements (for example, who counts as whom in a Fireteam) do not need redundant lists. Do not sacrifice factual precision merely to force a list.
+- Preserve profile identifiers, points/SWC, legality caveats, source links and the original tactical meaning when reformatting.
+
 ## Local-reference-first policy
 
 For ordinary questions about a sectorial, its units, profiles, points/SWC, availability, or Fireteam access, **use the repository reference files first instead of searching the web or querying live APIs**.
