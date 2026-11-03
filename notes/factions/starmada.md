@@ -1,5 +1,61 @@
 # Starmada — N5.3 tactical analysis and collection decisions
 
+## Overview
+
+**What Starmada does especially well:** layered nonlethal defense, command/protection tools, climbing and repairable HI/REM teams, and **mission-focused Core/Haris/Duo flexibility**. Its signature is a *Security* screen holding objectives while an independent *Bronze*, *Betatrooper* or *Road* module attacks or scores. The limitation is points: a heavy Core, Zeta and premium midfield units cannot all be bought without losing Orders and backup scorers.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official world rankings, observed pick rates or universal autopicks.** Apex measures ceiling at the named job; value compares points/SWC and real Order support. Grounded in cross-faction [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [ARO](../list-building/aro-units-apex-and-value.md) and [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
+
+| Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
+|---|---|---|
+| **Top 3 candidate — Doctor/Engineer combined apex** | **Parvati 36/0** | WIP15, Doctor(2W), **Engineer(+3)** on the pinned Starmada profile, Super-Jump, Remote Presence/2STR and legal Wildcard access. Revive HI, repair REMs/TAG, then score; expensive if only one basic healer is needed. |
+| **Top 5 candidate — TAG ranged apex** | **Zeta LT70/2 or NCO73/2** | BS14 HMC, ARM8/3STR, Climbing Plus and ZetBot provide elite long-range shooting and a separate scoring body. **No Tactical Awareness**; Starmada may struggle to finance its Orders/support. |
+| **Top 5 candidate — Turn-0 Repeater-network apex** | **Saladin CoC33/0 or LT34/0** | Deployable Repeater with **Minelayer(2)** can seed two nodes before the first Order; WIP16, Decoy and command tools add payoff. LT/CoC are separate profiles; he does **not** gain Strategos, and is expensive if purchased only for Repeaters. |
+| **Top 10 candidate — cheap nonlethal close ARO value** | **Bluecoat Adhesive/Riotstopper 13/0** | S-tier budget roadblock in the cross-faction ARO guide, with Sixth Sense, Discover and sticky short-range threats. **Bluecoat Disco 16/0** adds limited-use projected Eclipse on a *different* profile. |
+| **Top 10 candidate — economical FO/Minelayer team support** | **Raveneye 12/0** | Regular Order, FO and E/M Minelayer within Security; unusual multiple duties at 12pts. W1/ARM1, so hide an LT version and avoid exposing the only mission backup. |
+| **Top 10 candidate — anti-Camo/Smoke ranged value** | **Epsilon HMG 34/1.5** | MSV2, Mimetism(-3), Climbing Plus with legal Nyoka/Betatrooper team access. Strong counter gun, but one Wound and meaningful SWC. |
+| **Top 10 candidate — rapid REM objective Duo value** | **RoadBot Paramedic 20 + Oko TA FO 18** | Legal *Road* Duo: Climbing Plus, transformation, Sensor, FO, Repeater and private Oko activation. The package still loses badly to an uncleared lane. |
+| **Top 10 candidate — Regular cheap Smoke/CC value** | **Varangian SMG+Chain+Smoke 12/0** | PH14 Smoke, Dogged, close trades, Regular Order; AVA2 and a Varangian Duo family. Not a premium gun or protected movement through exposed AROs. |
+
+**Starmada-specific contenders without an automatic whole-game Top 10 claim:** **Bronze** offers unusually tough close Fireteams, **Sekudroid** is efficient adhesive/recovery-oriented team glue, and **Šarko** provides infiltrating Camo/mission reach. Their role value is real but the 2025–26 transcript evidence disagrees on price efficiency.
+
+### Particularly strong or unusual Fireteams
+
+- **Security Haris/Core — adjustable defense-to-assault architecture:**
+  - **Kappa or Bluecoat:** at least one is required as the Security source.
+  - **Raveneye:** preplaced E/M mine and FO support.
+  - **Sekudroid:** one inexpensive repairable adhesive member.
+  - **Bronze / Ment / Jackboot / Vidocq FTO:** selected heavy gun, command insurance, technology or range/visor role.
+  - **Trade-off:** cheap security screens can support an expensive push; avoid turning every slot into premium HI.
+- **Bronze Duo/Haris — durable assault with recovery and command:**
+  - **Bronze:** required native HI, up to two in family.
+  - **Ment CoC / Sekudroid / Vidocq FTO:** economical protection/utility options.
+  - **Parvati Wildcard:** recovery-focused support when the price is justified.
+  - **Santiago FTO:** selected *linked* profiles only; its **Combat Jump** profiles cannot also be in this Fireteam.
+- **Betatrooper family — climb to favorable lanes with technical support:**
+  - **Betatrooper:** required for its Duo/Haris/Core.
+  - **Sekudroid:** adhesive/control and repairable team body.
+  - **Epsilon:** visored ranged solution.
+  - **Trade-off:** movement efficiency does not make an expensive HI block immune to hackers.
+- **RoadBot + Oko Road Duo:** **RoadBot** counts as a Lawkeeper-required source and **Oko** adds Sensor/FO/Repeater; supports rapid two-body scoring.
+- **Varangian + Ioann Bann Duo:** Ioann counts as Varangian in this family; durable assault plus Smoke, but no new pooled Regular Order from Ioann's Irregular training.
+
+### Unusual access, gaps and trade-offs
+
+- **Lots of modular Fireteams:** **one Core, one Haris and effectively unlimited Duos**, but *Security*, *Nyokas*, *Betatroopers*, *Bronzes*, *Varangians* and *Road* have different source and FTO requirements.
+- **Conventional Smoke, Eclipse and White Noise all available, via distinct carriers:**
+  - **Varangian / Ioann Bann:** normal Smoke.
+  - **Epsilon MSV2:** fires through conventional Smoke.
+  - **Bluecoat Disco 16:** limited-use projected Eclipse, including against MSV.
+  - **Cyberghost HD+ 21/0.5:** White Noise through a working Repeater/Pitcher network.
+- **Distinct command/network engine:** **Saladin LT/CoC** offers Minelayer(2) Repeaters; **Ment CoC 14** is cheaper succession insurance and cannot be assumed to share Saladin's equipment.
+- **Zeta is the only standard TAG family; Firebat is a VH:** **Wrecker** is *not* available in Starmada, so a TAG-heavy army has fewer distinct chassis choices.
+- **Important non-access:** no Vanilla **Gamma**, **Moonraker**, **Team Sirius** or **Razor**. **Šarko** partially fills the camouflaged-midfield gap at greater cost.
+- **Specific link restrictions matter:** **Nyoka FTO**, **Vidocq FTO** and **Santiago FTO** cannot be replaced by superficially similar non-FTO loadouts. The [N5.3 Starmada reference](../../sectorials/o-12/starmada.md) determines legal membership and points.
+
+
 **Authoritative reference:** [Starmada profile options, AVA, Fireteams, validation and source provenance](../../sectorials/o-12/starmada.md). This document contains tactical interpretations, rankings, battle-report evidence, competing media assessments and miniature-buying guidance. Current Army/profile legality is determined by the linked reference.
 
 **Reference archive:** [Primary recordings, cross-references, battle reports and purchasing audit](references/starmada_refs.md).
