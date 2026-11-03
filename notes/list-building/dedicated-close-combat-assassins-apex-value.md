@@ -10,7 +10,7 @@
 
 ## 30-second recommendation
 
-- **Best single-target assassination apex:** **Shinobu Kitsune44/0.5** (JSA/Ōban): CC25/MA5/**Monofilament**, Hidden Deployment, Infiltration with favorable target-specific profile, Climbing Plus, Smoke. **Oniwaban SMG29/0** is the **best less-expensive kill-the-TAG analogue**; CC24/MA4/Monofilament + E/M CCW, Hidden Deployment and Infiltration. **Saito Tōgan33/0** substitutes **EXP CCW + T2 Boarding Shotgun + Smoke/Bangbomb** for monofilament, effective against different target types.
+- **Best single-target assassination apex:** **Shinobu Kitsune44/0.5** (JSA/Ōban): CC25/MA5/**Monofilament**, Hidden Deployment, Infiltration with favorable target-specific profile, Climbing Plus, Smoke. **Oniwaban SMG29/0** is the **best less-expensive kill-the-TAG analogue**; CC24/MA4/Monofilament + E/M CCW, Hidden Deployment and Infiltration. **Monofilament's PS8/ARM=0 gives only a 60% immediate-Dead chance per ordinary uncancelled hit** (before crits/immunities); printed **PS=5 DA/AP+T2** alternatives can be more consistent for ordinary infantry. **Saito Tōgan33/0** substitutes **EXP CCW + T2 Boarding Shotgun + Smoke/Bangbomb** for monofilament, effective against different target types.
 - **Best raw melee dice for the price:** **Miyamoto Mushashi21/0 Irregular** or **25/0.5 Regular FTO** (Ōban), **CC25/MA5/EXP**. Almost unmatched face-to-face price/performance **once contact is made**; no Hidden Deployment or automatic safe entry, and 21pt version's Irregular Order is not interchangeable with Regular.
 - **Best reliable mobile repeated assault:** **Shikami42/0** (JSA/Ōban) — MOV15-5, **Mimetism(-6), Eclipse, Super-Jump, Climbing Plus, Forward Deployment+10, 2W, MA3, AP+DA**, plus **Specialist Operative**. Not as devastating on a pure one-roll Monofilament hit as Shinobu, but reaches, scores and exits more consistently.
 - **Best cheap *delivered* assassin:** **Fiday Boarding Shotgun23/0** (Bahram/Haqq, CC23/MA3, **Impersonation, Smoke, DA**) or **Speculo Killer BSG26/1** (Shas/Combined, **Impersonation, Monofilament, Regeneration**). **Hussein Al-Djabel33/0** raises Fiday reliability / target flexibility with CC23 MA4, WIP15 and **Viral CCW**, Climbing Plus. The Speculo's **1 SWC** and lower WIP14 carry a real cost; not always above cheaper Fiday.
@@ -40,12 +40,32 @@ Current Martial Arts level is **one chosen printed level**, **not** every lower 
 **Worked, *unopposed* dice comparison, not kill chance:** **CC25/MA5** yields CC **28**, two effective attack dice chosen from three rolls, and critical results on **1–8 and 20** in current N5. Under independent d20, chance of **at least one critical across the three rolled dice ≈83.36%** (before the mandatory discard; an actual FTF can change the outcome). **CC24/MA4** yields CC **27**, B2 and crit faces **1–7 and 20**, giving **64% chance of at least one crit in two rolled dice**. **Critical ≠ guaranteed target death**: ammo, weapon PS, saving rolls, wounds/STR, Immunity and enemy reaction matter. An Mimetism−6 stat is **ranged defense**, not a direct CC modifier.
 
 **Weapon must suit victim:**
-- **Monofilament** is the premier **high-cost TAG/HI one-hit threat** (check actual Save/Immunity rather than assuming automatic kill). It does **not** add a ranged gun or safe route.
+- **Monofilament** is an exceptional **multi-Wound/STR TAG/HI one-hit *kill* threat**, not an automatic hit-to-death conversion. Its **PS8, ARM=0, one SR** means an ordinary uncancelled hit kills on a roll of 9–20 (**60%**, no crit/save modifiers/immunity). **Low printed PS can make DA, AP+T2 or EXP preferable against many 1–2 Wound targets.** Immunity (ARM) also removes its ARM=0 and State: Dead traits. It does **not** improve delivery or FTF odds.
 - **E/M CCW** prefers **Hackable HI/TAG/REM**, where **Isolated/IMM** can disable an otherwise hard target more usefully than raw wounds; E/M does not equal a generic win against nonhackable LI.
 - **Viral** is for appropriate **VITA/BTS** targets, not a universal STR tank can-opener.
 - **EXP/AP+DA/DA/T2** convert winning the contest into multiple or high-impact Saves; evaluate PS and ARM/BTS matchup, **not** merely CC number.
 - **D-Charges** in legal CC/Guard are an excellent armor-target option, **not** the same as an EXP CCW under every profile/MA modifier. Some older podcast statements about damage bonuses refer to older MA rules.
 - **Protheion** heals/grows from **Wounds inflicted on VITA models** in CC; **not** automatically from STR; excess wounds beyond Dead state do not generate infinite health.
+
+### Why some competitive players prefer low-PS DA/AP+T2 over Monofilament
+
+**N5.3 check, independently verified from rules and unit profiles:** The generic [CC weapon chart](https://infinitythewiki.com/Weapon_Chart) lists **PS=8** for Monofilament, DA, AP+T2 and most melee weapons, but **unit-specific** entries override the generic PS: [Crux Father-Knight](https://www.human-sphere.com/Father_Knight) has **DA CC Weapon (PS=5)** and [Pavel McMannus](https://human-sphere.com/Pavel_Aleksei_McMannus) has **AP+T2 CC Weapon (PS=5)**. [Official modifier explanation](https://infinitythewiki.com/Rolls): an explicit Weapon (PS=5) uses PS5 rather than the generic weapon-chart PS. **Lower PS is stronger** because the defender passes an SR on d20 ≤ (effective ARM + PS + applicable MODs).
+
+**Conditional saving-roll comparison:** one ordinary, uncancelled melee hit, no critical, no Cover/SR MOD, no immunity. Percentages refer to **different outcomes**, as labeled; they are *not* whole CC win/assassination probabilities.
+
+| Target ARM | Monofilament **PS8, ARM=0**: immediate Dead (1 SR) | Crux **DA PS5**: ≥1 Wound (2 SRs) | Crux DA PS5: **2 Wounds** (both SRs fail) | Pavel **AP+T2 PS5**: **2 Wounds** (1 SR, ARM/2) |
+|---:|---:|---:|---:|---:|
+| 3 | **60%** | **84%** | **36%** | **65%** |
+| 6 | **60%** | **69.75%** | **20.25%** | **60%** |
+| 9 | **60%** | **51%** | **9%** | **50%** |
+
+**Example, ARM3:** Monofilament passes its save on 1–8, so the target dies on 9–20 = **60%**. Crux's DA PS5 makes **two ARM+5 = 8** saves: each fails 60%, so at least one fails **1 − (0.4²) = 84%**, but both fail only **0.6² = 36%**. Pavel's AP halves ARM3 to **2** (round up), then adds PS5 for a save of **7**; it fails **65%** of the time, inflicting **2 Wounds** through T2. See [Saving Rolls](https://infinitythewiki.com/Saving_Rolls), [T2](https://infinitythewiki.com/T2) and the [ammo summary](https://infinitythewiki.com/Ammunition_Summary_Chart).
+
+**Practical matchup decision:** Against many **1-Wound/VITA** models, low-PS DA removes a target from effectiveness more often after a hit than Monofilament (though results differ for Dogged/NWI, Shock and other states). Against **2-Wound** models, Pavel's AP+T2 can inflict both required Wounds on a single failed save; Crux needs **both** DA rolls to fail for two Wounds. Against a **3+ STR TAG or high-Wound elite**, **Monofilament's instant Dead** remains strategically special: two ordinary Wounds often do not eliminate that model. At very high ARM, Monofilament's 60% ARM-ignoring death chance becomes more attractive again. **Immunity (ARM)** strips Monofilament's ARM=0 and State: Dead traits, so verify the target's abilities before relying on it ([official Immunity examples](https://infinitythewiki.com/Immunity)).
+
+**Do not compare the columns as equal 'kill chances':** the Crux percentages report wounds, Pavel reports 2 Wounds, and Monofilament reports outright Dead. Criticals generate additional saves; the **extra T2 critical save only inflicts 1 extra Wound if failed**. Actual value further depends on **winning FTF** (Crux **CC22/MA2**; Pavel **CC23/MA3**; Shinobu **CC25/MA5**), being able to reach contact, Orders, risk, and whether the remaining model can score. **A profile with PS=5 does not automatically outrank a Hidden/Impersonation Monofilament specialist.**
+
+**Evidence boundary:** This is a **rules-backed check of the objection** that Monofilament's PS8 can make it less attractive than low-PS alternatives. A particular YouTube speaker/timestamp making the comparison was **not independently identified**; do not attribute the precise comparison to an unnamed video.
 
 ## 2) Actually reaching CC: expected Orders and opponent response
 
@@ -92,6 +112,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **A** | **Caliban BSG24/0, FO26/0** (Shas/Combined) | **Camo FD+20 MA3**, **Protheion** on VITA | 24pt cost and alternate mission/Engineer profiles; can build extra VITA off downed living victim. **Not a STR-healing engine**, and weak 1W if wrong target. |
 | **A** | **Igao Vulkan Shotgun23/0, Mirrorball26/0.5** (Tohaa) | **Camo + Infiltration MA3 CC23 DA**, short template | Cheaper concealed midfield fighter; 26pt Pheroware **Mirrorball** enables different vision route; Frenzy, 1W ARM0 and no Monofilament make anti-TAG less reliable. |
 | **A/B** | **Penthesilea28/0** (ALEPH/Steel eligible) | Bike **MOV20-15**, Smoke GL, **CC Attack(-6) Monofilament** | Fast anti-premium tech angle, Specialist operative; **S4, Impetuous and no Marker** can lose to layered ARO/doorways. |
+| **A/B** | **Pavel McMannus33/0** (TAK) | **CC23/MA3 + AP+T2 CCW (PS=5)**, Camo, FD+20, Berserk | **65% chance of 2 Wounds on a normal hit versus ARM3**, more dependable two-Wound conversion than PS8 Monofilament's *single-save odds*, but not an automatic kill of 3+ STR; **1W and 33pt** make delivery/trade efficiency contested. |
 | **B** | **Rasyat BSG25/0** (Combined/Morat) | **Enemy-DZ Parachutist arrival, Eclipse, MA2/NBW DA** | Exceptional *delivery to rear gun/support* even if raw melee is behind Shinobu. Usually a BSG/Eclipse attacker first, CC if the target is vulnerable and within approach. |
 
 ## 4) Frontline combatants: apex tier (sustain multiple fights)
@@ -106,6 +127,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **A+** | **Eudoros36/0** — Steel | **Mimetism−6 MA4 CC23, Mk12** and scoring tools, moves with team | Melee threatens exposed shooters while gun covers range; suffers if Smoke/Eclipse not supplied by another roster-legal enabler. |
 | **A** | **Hector61–65** — Steel | **MA4 CC24 EXP** with durable HI and legal attack team | Great CC *plus command/gun*; exceptionally poor budget if all you plan is one melee. |
 | **A** | **Hatamoto Plasma34/0, Red Fury40/1** — Shindenbutai/Vanilla JSA | **MA4 CC23 + NBW + Monofilament / E/M**, strong gun and Specialist | Best versatile HI defensive duelist in its 34pt band; no Hidden, and 15-5 + Mimetism−3 not auto-delivery. |
+| **A/B** | **Crux Father-Knight47/0 Hidden FD+20** — Kestrel/Vanilla PanO | **CC22/MA2, DA CCW (PS=5)**; 2W/ARM5, Specialist, and hidden deployment for approach | Two low-PS saves are very good at forcing at least one Wound on low-ARM infantry; **not two guaranteed Wounds**, and 47pt is high for a pure CC trade. Use his multi-role kit rather than forcing a bad duel. |
 | **A** | **Mendoza Heavy Shotgun40/0 FD+20** — Military Orders | Mimetism−6, 2W, forward burst and MA2 CC22 **DA** | Does more at **shooting** into midfield than pure CC apex; beware Transmutation, lack of Eclipse, and hacking. |
 | **A/B** | **Yojimbo bike20/0 or foot19/0** — Ōban | **MA4 CC24 DA + Smoke + CrazyKoala** screens premium pieces while threatening charge | Bike fast (20-15) but S4 exposed; foot safer around rooms. **Irregular+Impetuous**, only one Yojimbo across forms. |
 | **A/B** | **Asawira BSG32/0 / AP33/0** — Bahram | **2W ARM4, MA2 CC23, Berserk(+3), Regeneration** with strong gun | Very efficient into soft and mid-elite targets, but too valuable to deliberately eat ARO before mission work. |
@@ -130,6 +152,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **A** | **Caliban24** — Shas | Camo+FD+20, VITA snowball, cheap field problem | Protheion cannot grow from enemy TAG STR; killing CC tanks demands more than an ordinary PS5 CCW. |
 | **A** | **Yojimbo19–20** — Ōban | **Smoke, CrazyKoala, CC24 MA4** counter-CC screen and late attack | Irregular/Impetuous changes Order economics, physical delivery differs bike vs foot. |
 | **A** | **Varangian12 SMG/Chain Rifle** — O-12 (Regular) | **Smoke, Berserk(+3), Dogged, CC23** defend room / trade for defender | Many other rosters have different Regular/Irregular status; always check printed unit. |
+| **B/A** | **Pavel McMannus33** — TAK | Camo/FD+20, Specialist, **AP+T2 CCW (PS=5)** for two-Wound ambushes | Real low-PS damage edge versus soft/mid-armour targets, but **one Wound for 33pt** and contested approach means niche value rather than universal pickup. |
 | **B/A** | **Hatamoto34** — Shinden/JSA | Firearm + **NBW/MA4/Mono/E/M** + Specialist in durable 2W slot | Too expensive if only objective is killing one 10pt warband. |
 | **B** | **Rasyat25** — Morat/CA | Arrives in enemy rear via **Parachutist(DZ)**, carries Eclipse and CC backup | Value commonly from shotgun/DZ attack *before* MA2, not a universal melee executioner. |
 
@@ -183,7 +206,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 
 | Opponent/table/mission | Start with | When to reject |
 |---|---|---|
-| Enemy expensive TAG/HI with mediocre CC, room/corner reachable from Hidden | **Oniwaban29**, **Shinobu44**, **Speculo26** | Overlapping mines/screen; no close entry; NBW defense/Guard room |
+| Enemy expensive TAG/HI with mediocre CC, room/corner reachable from Hidden | **Oniwaban29**, **Shinobu44**, **Speculo26**; compare **Pavel33 AP+T2 PS5** if 2 Wounds suffice | Overlapping mines/screen; no close entry; NBW defense/Guard room; **Monofilament only kills on a failed ARM=0+PS8 save** |
 | Enemy isolated 1W specialist / vulnerable medic in DZ | **Fiday23**, **Saito33** (if roster legal), **Rasyat25** via edge | Kill requires five Orders; multiple cheap interceptors |
 | Room/objective likely needs 3+ attacks **and scoring** | **Shikami42**, **Hatamoto34**, **Caliban FO26** | List already has too few orders/scorers, hackable HI has no anti-hacker plan |
 | Enemy close-combat monster with NBW/Guard | **shoot at range**, mine, E/M, immobilize, multi-model CC only when safe | Assuming MA −3/Suprise remains against reactive NBW; dueling blindly |
@@ -191,4 +214,4 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | Need smoke and a cheap door-opening attack | **Makaul14 Eclipse**, **Dāturazi14 Regular Smoke/MA4**, **Myrmidon16**, **Galwegian5**, **Jaguar10** | Enemy MSV into ordinary Smoke, route lacks actual safety |
 | First-turn distant CC charge | **Usually don't**. Clear ARO with your gun, attack from new angle, or use a real marker/Impersonation delivery. | Count success only because "CC25" looks impressive. |
 
-**Bottom line:** rank an assassin by **target relevance × achievable contact × winning contest × useful result**, divided by **list points, Orders, resources and survival risk**. In ordinary game plans, a hidden **29pt Oniwaban**, a **21pt Mushashi kept as counter-charge** and a **42pt Shikami mission runner** may all be **S-tier**—but for three completely different reasons.
+**Bottom line:** rank an assassin by **target relevance × achievable contact × winning contest × useful result**, divided by **list points, Orders, resources and survival risk**. **Check printed weapon PS overrides and actual kill/Wound threshold before giving Monofilament automatic preference** over low-PS DA/AP+T2 alternatives. In ordinary game plans, a hidden **29pt Oniwaban**, a **21pt Mushashi kept as counter-charge** and a **42pt Shikami mission runner** may all be **S-tier**—but for three completely different reasons.
