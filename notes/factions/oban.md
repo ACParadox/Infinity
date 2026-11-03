@@ -172,7 +172,9 @@ The interaction is simple:
 1. Domaru supplies extra Lieutenant-order economy.
 2. Daiyōkai NCO turns those Orders into useful HMG activity.
 3. Tankō provides a way to deny dangerous LoF rather than forcing every advance through a normal gunfight.
-4. Once the team reaches useful distance, Domaru/Tankō become much more dangerous than their conventional shooting suggests.
+4. Once the team reaches useful distance, its close-range fighters become more dangerous than their conventional shooting suggests:
+   - **Domaru:** threatening melee/Berserk follow-through.
+   - **Tankō:** dangerous monofilament counter-charge/trading.
 
 #### Important qualification — this is an architecture, not an automatic default
 
@@ -432,7 +434,11 @@ Typical sequence:
 1. deny or block the important LoF;
 2. move HI/specialist safely into the midfield;
 3. reach the objective/corner/room;
-4. force the opponent to interact at ranges where Domaru/Tankō/Shikami/Karakuri are uncomfortable to attack.
+4. Force interactions at uncomfortable ranges for the opponent, using whichever threat holds the relevant ground:
+   - **Domaru:** short-range assault and close-combat pressure.
+   - **Tankō:** short-range trades and monofilament deterrence.
+   - **Shikami:** mobile Eclipse-backed approach and objective pressure.
+   - **Karakuri:** durable specialist presence and midrange control.
 
 Ōban has several distinct visibility plans:
 
