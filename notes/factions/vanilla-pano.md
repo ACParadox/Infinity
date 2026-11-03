@@ -34,8 +34,15 @@ The major listbuilding trap is buying too many excellent gunfighters. PanO can e
 
 ---
 
-- **Vanilla has independent Disco/Albedo access** via selected PanO profiles, but **does not gain Kestrel/Varuna/NCA Fireteam bonuses**. A cheap **Fennec 13pt FO/Sensor/Disco** is attractive in its Kestrel legal context; in Vanilla, verify its own roster availability and selected model before importing its cost or Order plan. Premium Aqua/Quinn/Vargar/Konstantinos Disco picks justify themselves when scoring or gunfighter mobility is also used.
-- **Vision difference:** PanO's powerful MSV shooter wants **normal Smoke**, while **Disco's Eclipse template blocks even friendly MSV**. Pick the desired interaction instead of assuming either grants safe one-sided firing. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+**Vision-control roles are independent, not Fireteam bonuses.** Vanilla can field suitable Disco/Albedo tools where listed but cannot borrow Kestrel/Varuna/NCA Fireteam permissions. Check each exact profile and roster entry before choosing:
+
+- **Fennec FO/Sensor/Disco (13 points in Kestrel):** that price and use are from its Kestrel context; verify Vanilla availability rather than importing its Order plan.
+- **Aquila:** premium visor/Disco option when the actual profile supports scoring or movement.
+- **Quinn:** alternative Disco specialist package where legal.
+- **Vargar:** projected Eclipse/utility option where rostered.
+- **Konstantinos:** another premium profile to evaluate for an actual scoring or mobility role.
+
+**Normal Smoke** can support friendly MSV shooting; **Disco/Eclipse** blocks even friendly MSV. Choose the appropriate effect rather than assuming either grants one-sided fire. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
 
 ## Recurring listbuilding archetypes
 

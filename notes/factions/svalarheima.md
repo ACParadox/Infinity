@@ -49,10 +49,23 @@
 | **Agnes Ferreira CoC 18 / RemDriver 16** | CoC protects an aggressive Jotum/HI LT. RemDriver **+1 BS** on a **Sierra REM** can meaningfully alter ARO odds, while Agnes remains a linkable Specialist; **Shepherd** suggests this less obvious REM package. | **Swiss Miss** prefers CoC for command safety. Don't pay 16 just for an irrelevant buff or assume RemDriver boosts Jotum (TAG ≠ REM). |
 | **Pilot-X Team 21/1 SWC + RacerBots 8 each** | WIP13 Zero Pain hacker/RemDriver plus **up to 2** fast RacerBots with PARA mine dispenser, deployable Repeater, 360º visor, Bangbomb; **Foxbringer (2026)** likes 37 points for the complete three-trooper toolbox and cheap orders. | Requires Pilot-X; bots cannot be bought independently; all in same Combat Group. The package adds multiple vulnerable bodies and a serious hacking SWC cost: **Knight of Justice hacker** or standalone Locust may do the needed cyber job better. |
 
-**Lieutenant and orders:** Cheapest reliable hideable command is **Fusilier LT 10**; Karhu **NCO** is valuable even if LT stays back. **Hospitaller FTO TinBot LT 27** can join eligible Beta, but a visible LT in the advancing team risks Loss of Lieutenant. **Jotum LT** costs **82/2 SWC** and has its printed **one LT Order plus TacAware**, *not* any invented `LT +1 Order` skill; consider **Agnes CoC** when wagering the whole attack plan on it. **Hannibal** provides Counterintelligence, not Chain of Command.
+**Lieutenant, command and Order options:**
 
-- **Vargar FO + Disco + Deactivator 24/0** combines projected Eclipse, Super-Jump/Albedo and scoring; **Quinn 26/0** offers Wildcard FO + Disco; **Bøyg 44/0–1.5** carries Disco on a much pricier durable shooter. **Baggage Mulebot 8** is relevant for reloading expended Disposable charges.
-- **Disagreement:** Shepherd rates Vargar's utility far above buying Bøyg only for Disco; Bøyg supporters value its 2W gun/ARO as a second job. If no MSV-proof crossing is needed, preserve Orders for the Karhu/KoJ instead. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
+- **Fusilier LT (10):** inexpensive, hideable default command.
+- **Karhu NCO:** turns the Lieutenant Order into useful work while the LT remains protected.
+- **Hospitaller FTO TinBot LT (27):** legal in eligible Beta structures, but an exposed advancing LT risks Loss of Lieutenant.
+- **Jotum LT (82/2 SWC):** printed one LT Order plus Tactical Awareness, **not** `LT +1 Order`.
+- **Agnes CoC:** succession insurance for a Jotum-led risk-heavy plan.
+- **Hannibal:** supplies Counterintelligence, **not** Chain of Command.
+
+**Projected Eclipse and vision-control alternatives:**
+
+- **Vargar FO + Disco + Deactivator (24/0):** combines projected Eclipse, Super-Jump/Albedo and mission scoring; Shepherd strongly favors its utility.
+- **Quinn (26/0):** Wildcard FO with Disco access.
+- **Bøyg (44/0–1.5):** more expensive Disco carrier, defended by supporters for its two-Wound gunfighter/ARO job.
+- **Mulebot Baggage (8):** reloads expended Disposable charges when legal and positioned appropriately.
+
+If no MSV-proof crossing is needed, invest the Orders in **Karhu** or **Knight of Justice** instead of overpaying for Bøyg's Eclipse alone. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
 
 ## TAG, Vehicle and REM research
 

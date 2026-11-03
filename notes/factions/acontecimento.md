@@ -43,8 +43,14 @@
 | **Akali / Kirpal Singh** | 21/0 **Akali BSG (+1B) specialist with repeater** is a serious enemy-DZ objective/attack contingency; KHD/hacker or 26/1.5 Spitfire for niches. **Kirpal 26/0 CoC** or 28/0 specialist offers an AD/command alternative. | **TA** notes newer PanO AD rivals can be more specialized. Off-table CoC is *not* an on-table security blanket until deployed; guard the LT/order budget and respect landing risk. |
 | **Agnes CoC / RemDriver** | **18/0 CoC** safeguards aggressive Rao/Tik LT plans; **16/0 RemDriver** can improve a key REM shooting plan when its rules permit. Wildcard adds flexible linking. | Support cost and single-target focus: don't purchase the RemDriver profile for a TAG without checking valid targets; it is a **REM** plan, not +1 BS for every unit. |
 
-- **Unique Eclipse route:** **Guarda de Assalto 40–44pts + synchronized Auxbot Eclipse launcher** is not a generic Smoke + visor package. It creates an MSV-proof crossing while the Guarda remains a BS15 active shooter; the synced delivery and base geometry cost Orders/positioning.
-- **Value split:** choose Guarda when a real objective/gunfighter needs the crossing and the Auxbot can survive; otherwise cheaper Nagas/Dart/Peacemaker lanes and conventional shooting may do more per point. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
+**Vision-control choices:**
+
+- **Guarda de Assalto (40–44 points) + synchronized Eclipse Auxbot:** creates an MSV-proof crossing while the Guarda remains a BS15 active shooter; delivery geometry, Orders and Auxbot survival matter.
+- **Naga:** offers an alternative midfield approach when Eclipse is unnecessary.
+- **Dart:** brings another independent approach and pressure route.
+- **Peacemaker:** provides REM-led board access or conventional attack lanes without requiring the Guarda's full package.
+
+Take Guarda when an objective or gunfighter actually needs Eclipse; otherwise compare those cheaper/different routes on their own merits. [Global vision-control comparison](../list-building/vision-control-units-apex-and-value.md).
 
 ## TAGs, Vehicles and REMs (cross-PanO research)
 
@@ -55,7 +61,14 @@
 | **Tikbalang 69/1.5; LT +1 Order 73/1.5** | BS15 HMG with Mimetism (-3), Climbing Plus, mine, TacAware and smaller S6 body: finds alternate attack angles and can retreat into safety. As solo **LT +1 Order** it can use its personal LT Orders for exceptional self-funding. **Historical Shepherd and TA** especially value practical mobility/deployment. | **Swiss Miss** questions whether a plain HMG earns 69–73 points versus tougher armored targets; **Dice Gods and TA** emphasize that a Dragão's HRMC breaks heavy armor more decisively. TAG LT risks Loss of Lieutenant if lost. **Personal LT Orders don't automatically move a Duo partner**; a two-model Fireteam may break if spent solo. |
 | **Dragão 76/1.5** | BS15 **Hyper-Rapid Magnetic Cannon** is the roster's premium high-burst anti-armor answer. ARM8, continuous-damage immunity, TacAware and heavy-flamethrower extra burst defend the investment. **Dante, Swiss Miss and TA** emphasize why the actual gun matters when normal HMGs bounce off armor. | **TA hosts explicitly dissent**: only +7 points but bulky S7 with no Mimetism or climbing, harder to hide or flank, and can be outplayed by visibility MODs. **MetaChemistry** instead describes it as a real heavy long-range threat; choose it when the mission/opposition needs raw armor killing more than Tik's movement and MODs. |
 
-**Repair/command package:** SAA **Machinist 17–20** is a Mimetism(-3) engineer and can join appropriate links; **Palbot 3** extends repair access. **Tech-Bee 9** supplies TAGCom **Dodge PH+3 / GizmoKit PH+1**, *not BS*. The TAG's own GizmoKit is not a replacement for a well-positioned engineer. Decide when paying for **Pathfinder TacAware 17** vs 14: the 3-point premium pays when the extra *team activation* actually saves orders.
+**Repair, command and REM support:**
+
+- **Machinist (17–20 points):** Mimetism (-3) engineer with access to appropriate Fireteams.
+- **Palbot (3):** extends the engineer's repair reach.
+- **Tech-Bee (9):** TAGCom **Dodge PH +3 / GizmoKit PH +1**, *not* a BS boost.
+- **Pathfinder Tactical Awareness (17 vs 14):** the 3-point premium is worthwhile only when its extra activation saves real Orders.
+
+The TAG's own GizmoKit is not a substitute for a well-positioned Engineer.
 
 **Vehicles:** SAA has **no VH entries**; don't copy **Redeye** (or other PanO flyers) into SAA lists. [Shepherd's PanO vehicle assessment](https://www.youtube.com/watch?v=N6TYjMgU4ZM) and [Dice Gods' aerial-vehicle discussion](https://www.youtube.com/watch?v=QscqX3hlUZU) are useful for *opponent threat assessment*, not SAA construction: flying side angles and Sensor can threaten exposed backfield pieces; flyers cannot rely on ordinary cover and can be vulnerable to hackers/long-range ARO. Both transcripts reviewed; no SAA vehicle was confirmed.
 

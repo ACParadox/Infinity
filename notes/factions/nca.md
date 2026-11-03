@@ -628,8 +628,13 @@ It is a genuine build-around LT rather than a passive command model.
 
 **Not consensus/default:** Robert Shepherd's 2026 transcript argues that the Aquila Disco Baller LT often costs too much compared with a protected Fusilier/Auxilia LT, with or without a separate decoy. Take the Aquila when the plan really uses its specialist, MSV3, Strategos, Disco Baller and Fireteam access—not simply because it has several premium abilities.
 
-- **Vision remains a premium problem:** **Aquila MSV3 / Disco Baller** and **Richard Quinn Disco** solve protected crossing or specialist routes, but consume more resources than Kestrel's 13pt Fennec. NCA should not be credited with cheap Fennec Disco access simply because both are PanO.
-- **Disagreement retained:** Gravitypool sees the Aquila FTO Disco spearhead as plausible; Shepherd calls the premium LT/vision purchase inefficient unless the mission actually requires it. The Mainfinity example of an Aquila using Disco for a late antenna illustrates the exceptional case. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+**Vision-control choices are expensive in NCA:**
+
+- **Aquila MSV3 / Disco Baller:** a premium specialist and protected-crossing solution. Gravitypool considers the FTO Disco spearhead plausible; Shepherd questions its price unless the mission demands it. A Mainfinity match illustrates its unusual late-antenna utility.
+- **Richard Quinn Disco:** another scoring/crossing route with a real cost.
+- **Fennec (13-point Disco in Kestrel):** **not** automatically an NCA option merely because both are PanO; do not import Kestrel's cheap Eclipse plan.
+
+[Whole-game vision-control tiers and opposing evaluations](../list-building/vision-control-units-apex-and-value.md).
 
 ## Lieutenant and command packages
 
