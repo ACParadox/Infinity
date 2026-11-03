@@ -293,7 +293,9 @@ The K-9 Antipode is an included Peripheral (Synchronized): `MOV 15-15 | CC 20 | 
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 33 | 0 | Ohotnik, D-Charges, Shock Mine, Boarding Pistol, AP+T2 CCW | — |
+| 1 | 33 | 0 | Ohotnik, D-Charges, Shock Mine, Boarding Pistol, AP+T2 CCW (PS=5) | — |
+
+**Profile-specific override:** Pavel's AP+T2 CC Weapon has **PS=5**, rather than the generic AP+T2 CC Weapon chart's PS=8 ([N5 unit profile](https://human-sphere.com/Pavel_Aleksei_McMannus); [N5.3 PS modifier rule](https://infinitythewiki.com/Rolls)).
 
 ### Antipode Assault Pack
 
