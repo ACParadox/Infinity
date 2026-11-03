@@ -196,7 +196,7 @@ Follow the [miniature proxy guidelines](../../miniature-proxy-guidelines.md): sa
 ## Low-priority buys / avoid the wrong purchases
 
 1. **Do not buy generic support/REMs again:** pooled four Dronbots, two Armbot chassis, two Mulebots and Palbots, Tech-Bee, Trauma-Doc, Machinist, Warcor are recorded. Only expand when intended *simultaneously* fielded bodies exceed actual models or peripherals.
-2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../../../sectorials/panoceania/svalarheima-s-winter-force.md#svalarheimas-winter-force-winterfor--swf).
+2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../svalarheima.md#svalarheimas-winter-force-winterfor--swf).
 3. **Fusilier HMG/ML/MSR premium-gun profiles: source-backed poor default**, not a reason to skip a **cheap Fusilier LT** or one proxy as team anchor. Shepherd explicitly criticizes the guns; Karhu/Nisse/Vargar/KoJ handle higher-value long-range work.
 4. **No need for more MO Hospitallers/KoJ/Infirmarers or another Locust** without a second-model test. **Kyle Hawkins remains missing**; prefer unused **Kestrel Hetkari/Griffin S2 HI** instead of a WinterFor-legal Hospitaller.
 5. **Do not buy Swiss Guard, Aquila, Tikbalang, Squalos, Maximus TAG, Redeye, Fennec Fusilier, Kamau or Akali to field as themselves in SWF**; none is a regular standard SWF troop. Owned sculpts are still acceptable declared proxies where correct silhouette.
