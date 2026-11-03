@@ -136,17 +136,17 @@ The list should not depend on one unique character doing every support task.
 
 ---
 
-#### Community tactical field guide — N5 transcript synthesis (2026-10-19)
+### Community tactical field guide — N5 transcript synthesis (2026-10-19)
 
 > **Opinion/analysis, not Army data.** The profile, point, SWC, AVA, Fireteam and rules facts **above** remain authoritative under the pinned N5.3 source. The analyses below come from recorded community discussions, chiefly January–July 2025 N5, and tournament retrospectives from N4. Verify any exact older rules/list suggestions against the current reference; do not copy podcast Army codes as current legal N5.3 lists. Speaker disagreements are retained.
 
-##### Fast evaluation
+#### Fast evaluation
 
 - **Identity:** an aggressive, flexible Ariadnan force built around cheap Rokot orders, unusually broad smoke/close-assault tools, infiltration, airborne flank attacks, and a few substantial long-range guns. Its price-efficient *breadth* lets it threaten several routes at once; it does not automatically win direct face-to-face shooting.
 - **Main weaknesses:** defensive ARO depth, scarce elite BS/visual mods, inconsistent Fireteam bonuses, limited hacking, and too many expensive *effectively ~1.5-Wound* gunfighters. An opponent can win by controlling approach lanes, layering repeaters against the TAG/HI, and trading for the few mission specialists.
 - **Practical principle:** first budget reliable button pushers, then one long-range problem-solver, one midfield attack, and one flank/close-assault plan. Several 2025 lists stacked bears, TAGs and Mirage-5 but had too little specialist coverage; the opponent need only protect objectives rather than kill everything.
 
-##### Useful list-building blocks — with reasons
+#### Useful list-building blocks — with reasons
 
 | Job | Candidate / package | Why it works; constraint |
 |---|---|---|
@@ -160,7 +160,7 @@ The list should not depend on one unique character doing every support task.
 | Sensor + deployable DZ defenses | **Kibervolk + Dozer KVP** patrol | Kibervolk's fast Sensor, Mimetism, close combat and optional CrazyKoala combine with Dozer Engineer and optional rifle turret to screen camo and airborne lanes. Buying both members is compulsory; it is a **compound patrol, not a REM Fireteam**. |
 | Specialist access on the move | **Motorized 112**, **Patchers**, **Raveneye** | The 19-pt motorcycle Doctor brings fast smoke and healing; Patchers bring resilient specialists; Raveneye provides FO + E/M/Cybermine protection. Motorized 112 is **LI on a motorcycle, not a standalone VH**. |
 
-##### Where experienced commentators disagree
+#### Where experienced commentators disagree
 
 | Decision | Case for | Counterargument / how to choose |
 |---|---|---|
@@ -172,7 +172,7 @@ The list should not depend on one unique character doing every support task.
 | **S.A.S. as ARO roadblock?** | *Counterintelligence* identifies camouflaged infiltrator templates as one of few available midfield speed bumps. | The same discussion warns trading a ~21-point objective-capable S.A.S. for one intruder can lose the mission. Favor active midfield tasks except on kill-focused missions or when other specialists remain. |
 | **How strong is Kosmoflot overall?** | *Tactical Awareness* and older *WIP12* tournament guests demonstrate high-order aggressive and unusual builds; cheap redundancy and multiple deployment angles can win games. | *Ryan4043* and some 2026 community players rate it below stronger sectorials/TAK: unreliable head-to-head gunfights, low-cost defense that folds to competent opponents, and premium units less durable than comparable heavy infantry. These are **opinions and meta-dependent**, not verified win-rate claims. |
 
-##### TAG, vehicle, REM and support architecture
+#### TAG, vehicle, REM and support architecture
 
 - **TAG — Chernobog (AVA 2):** current N5.3 **63-pt AP HMG + Heavy Flamethrower** or **70-pt AP HMG + Heavy Rocket Launcher (+1B)**, both 1.5 SWC, chest mine, **Tactical Awareness**, ancillary Samodelkin specialist, and an available **Chernobog Duo**. BS14/ARM8 is a rare Kosmoflot long-range answer. **Transmutation (2)** reduces BS14→13, ARM8→6 and BTS6→3 after damage; **Dodge PH=9** and low repair PH make reactive escape/recovery unreliable. Prefer lane-clearing from cover and avoid exposing it to hostile repeater webs without first removing the hacker/relay. Bring a suitable Engineer or accept that lost structure may not be recoverable. A 9-pt **Mekhamobilya** pilot/support specialist exists but is not automatically worth its cost; the Samodelkin already adds a mission-capable ancillary. **Older spoken claims that the TAG is unhackable or a brokenly efficient TAG are not rules evidence.**
 - **REM — Traktor Mul (AVA 2):** **5-pt Regular Baggage + Deactivator** is an outstanding order/area-support purchase; Baggage can restock eligible Disposable assets and helps order economy. **9-pt/1 SWC Katyusha** is a cheap **Guided** indirect-pressure option only if the list provides spotting/targeting and orders; do not overpay in orders for BS10 speculative guesses. **14-pt/1 SWC Uragan** has **Total Reaction + Guided** in the *current reference*, giving inexpensive ranged deterrence, but BS10 and S4 exposure are poor against dedicated gunfighters. *Counterintelligence/Yellow Snake* often prefer the cheap baggage order or other defenses over committing to a shaky artillery plan. **Disagreement check:** Yellow Snake's 2025 translated commentary describes an Uragan without Guided, **contrary to the current N5.3 profile above**—follow current data.
@@ -181,11 +181,28 @@ The list should not depend on one unique character doing every support task.
 - **Adjacent “robotic” pieces:** **Kibervolk Patrol is a two-member compound team**, not a REM; the **Chernobog Samodelkin is Ancillary**, and the **Mekhamobilya is an LI pilot**, not another TAG/vehicle. This distinction prevents imaginary order pools or Fireteam access.
 - **Shared Ariadna research:** *Tactical Awareness: Vanilla Ariadna SOUP* explicitly discusses **Traktor Mul Katyusha Guided with Chasseur FO**, 5-pt Baggage deactivation/reload utility, and Chernobog Duo ideas; **Chasseur and TAK Dynamo synergies may not be imported into Kosmoflot** unless they are on its roster. *Tactical Awareness: TAK* independently praises the **5-pt Traktor** as a cost-efficient Regular Baggage order and gives motorcycle benchmarks.
 
-##### Starting shells (roles, not imported Army codes)
+#### Starting shells (roles, not imported Army codes)
 
-1. **Balanced pressure:** Rokot orders + Patcher/Frontovik flexible link, an S.A.S./Uxía mission specialist, a Varangian/Irmandinho smoke piece, plus **one of** Mirage-5 / Bearpode / Chernobog. Why: leaves enough points for scoring even when the first attacker dies.
-2. **TAG anchor:** Chernobog + Engineer/optional Remontnikbot + 5-pt Traktor Baggage + midfield camo + smoke/short-range trade piece. Why: AP HMG breaks problem AROs while cheaper troops keep objectives live; avoid overinvesting in an exposed repair train.
-3. **No-TAG saturation:** Mirage-5 + Polaris and/or Varangians + Raveneye/Kibervolk DZ traps + multiple S.A.S./Rokot specialists. Why: diverse angles deny easy counterdeployment, but the opponent can exploit any shortfall in long-range guns or orders.
+1. **Balanced pressure:** a multi-vector list with scoring redundancy:
+   - **Rokot:** Order economy.
+   - **Patcher / Frontovik:** flexible link.
+   - **S.A.S. / Uxía:** mission specialist.
+   - **Varangian / Irmandinho:** Smoke/trading.
+   - **Choose one premium threat:** Mirage-5, Polaris Bearpode or Chernobog.
+   - **Why:** the first attacker's loss does not end the objective plan.
+2. **TAG anchor:** support a realistic Chernobog approach:
+   - **Chernobog:** AP HMG/long-range attack.
+   - **Engineer / Remontnikbot:** optional recovery.
+   - **Traktor Mul Baggage (5pt):** cheap utility Order.
+   - **Midfield Camo:** approach screen.
+   - **Smoke/short-range trade:** protected angle.
+   - **Avoid:** an overbuilt exposed repair train.
+3. **No-TAG saturation:** use independent pressure directions:
+   - **Mirage-5:** off-table attack.
+   - **Polaris / Varangians:** close pressure and Smoke.
+   - **Raveneye / Kibervolk:** DZ traps.
+   - **S.A.S. / Rokot:** scoring specialists.
+   - **Why:** avoid a single counterdeployment target while preserving long-range shooting and Order capacity.
 
 ## Strong recurring building blocks
 
@@ -367,7 +384,11 @@ Advantages:
 
 - extremely cheap;
 - easy to fit into ordinary infrastructure;
-- frees points for Mirage-5 / Bear / Kosmosoldat / Chernobog.
+- frees points for a deliberate premium threat:
+  - **Mirage-5:** rear attack.
+  - **Polaris Bear:** close pressure.
+  - **Kosmosoldat:** heavy infantry assault.
+  - **Chernobog:** TAG gun anchor.
 
 Weakness:
 
@@ -905,7 +926,11 @@ Less spectacular but often very mission-resilient.
 Before finalizing a Kosmoflot list, ask:
 
 1. **What is my primary frontal hammer?**
-2. **What attacks from a different vector?** Mirage-5, Uxia, SAS, Bear, etc.
+2. **What attacks from a different vector?**
+   - **Mirage-5:** rear entry.
+   - **Uxía:** infiltrating scoring/attack.
+   - **S.A.S.:** camouflaged midfield.
+   - **Polaris Bear:** fast close pressure.
 3. **Do I have enough Smoke, preferably from more than one source?**
 4. **If Wallace is LT, am I deliberately exploiting Irregular troops?**
 5. **If Kosmosoldat LT(+1) is present, how will it legally spend its additional personal Lieutenant Order, and what are the Fireteam consequences?**
