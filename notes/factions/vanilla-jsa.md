@@ -2,16 +2,57 @@
 
 **Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](../../sectorials/jsa/jsa.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
 
-## Scope
 
-This is the tactical/list-building note for **Vanilla JSA** under the repository's current **N5.3** baseline.
+## Overview
 
-Factual roster, points/SWC, AVA, profiles, and Fireteam legality come from:
+**What Vanilla JSA does exceptionally well:** assemble **a cross-sectorial collection of independently dangerous specialists, Hidden Deployment assassins, economical command support, and selective small Fireteams** that neither Ōban nor Shindenbutai can reproduce in full. Its defining threat mix is **Shinobu / Oniwaban / Saito assassination**, **Shikami's self-carried Eclipse and vertical scoring**, **Tankō's projected Disco/Eclipse**, **Hatamoto + Kempeitai command insurance**, **Karakuri staying power**, and **two distinct TAG choices**. The strongest approach is usually **concealment and route creation → one precise assault or ranged opening → mission conversion**, not paying for every elite melee character at once.
 
-- `sectorials/jsa/jsa.md` — authoritative current Vanilla JSA reference.
-- `rules/` — authoritative local rules reference.
+### Whole-game standouts — apex versus value
 
-Tournament/community examples are evidence for how the roster can be used, not authority for roster legality.
+**Top 3 / Top 5 / Top 10 are qualitative, job-specific cross-faction shortlist *candidates*, not official ranks, measured pick rates or claims that these are the best units overall.** **Apex** means exceptional ceiling at a given task; **value** means that effect relative to points, SWC and Orders. Comparisons draw on the repository's [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md) and [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) analyses, subject to the [pinned Vanilla JSA profiles](../../sectorials/jsa/jsa.md).
+
+| Whole-game role shortlist | Vanilla JSA profile | Why it stands out / trade-off |
+|---|---|---|
+| **Top 3 candidate — concealed single-target CC assassination (apex)** | **Shinobu Kitsune 44/0.5** | **CC25 / MA5 / Monofilament** with **Hidden Deployment, Infiltration (PH19), Mimetism(-6), Climbing Plus and Smoke**. Among the game's most dangerous ways to begin close to a valuable target and threaten lethal contact. Expensive, 1W, vulnerable to screening; Monofilament does not guarantee a kill. |
+| **Top 3 candidate — Hidden Monofilament assassin for points (value)** | **Oniwaban SMG 29/0** (BSG **30/0**) | **CC24 / MA4 / Monofilament + E/M**, **Hidden Deployment + Infiltration (PH18) + Mimetism(-6)** for under 30 points. Premium anti-HI/TAG contact threat for a much smaller budget than Shinobu; still 1W and needs a screened approach. |
+| **Top 3 candidate — high-mobility objective runner (apex)** | **Shikami Specialist 42/0** | Rare **Eclipse Grenades + Mimetism(-6) + Forward Deployment + Climbing Plus + Super-Jump + 2W + Specialist** package; reaches objectives despite dangerous MSV lanes and terrain. The **47/0 MULTI Rifle** version buys offense, not fundamentally better mission movement. |
+| **Top 3 candidate — durable 0-SWC objective holder (value)** | **Karakuri FO 31/0** (Mk12 **38/0**) | **STR3, Enhanced Immunity, Remote Presence, FO and Panzerfaust**; unusual resilience and button/zone utility at the price. Vanilla can field **two** and put them in an FT-II Haris, but not Ōban's AVA3. |
+| **Top 5 candidate — raw premium melee dice per point (value)** | **Miyamoto Mushashi 21/0 Irregular** or **25/0.5 Regular FTO** | **CC25 / MA5 / EXP**, No Wound Incapacitation and Immunity (ARM) at a remarkable cost. Among the most dangerous *once in contact*, but **no Hidden Deployment/Infiltration**; the 21pt choice is **Irregular**. Vanilla FT-I's chart lists both source-available options, unlike Ōban's stricter FTO-only construction. |
+| **Top 5 candidate — fighting Specialist Lieutenant (apex/value)** | **Hatamoto LT 36–39 / +1 SWC** (especially Red Fury **38/+1**) | **2W, Nanoscreen, Mimetism(-3), NCO, Specialist, MA4/NBW, Mono/E/M CC, LT(+1 Order)**. Exceptional command/assault/scoring compression; **Kempeitai CoC 17/0** makes aggressive use substantially safer. **AVA1** in vanilla, not Shinden's double-Hatamoto plan. |
+| **Top 5 candidate — projected Eclipse/visibility utility (value)** | **Tankō Disco Baller 19/0** | **2W, Blitzen, Monofilament and limited-use Disco Ball projected Eclipse** on a cheap fighting body. Creates a route even through MSV-covered fire lanes; **not ordinary Smoke**, not an unlimited template supply, and **Tankō is not a vanilla FT-II Haris member**. |
+| **Top 5 candidate — cheap Chain of Command (value)** | **Kempeitai CoC BSG 17/0** (Combi **20/0**) | High-impact insurance for Hatamoto, Domaru or TAG LT plans at low points/SWC. **Not a Vanilla Wildcard** and not a standalone premium attacker. |
+| **Top 10 candidate — low-order marker/ARO denial (value)** | **Ryūken HRL 23/1.5** | **Mimetism(-6), Decoy, Minelayer, one-use Camouflage and HRL** make a surprisingly costly lane to clear; **AVA2** enables layered threats. A **one-use** marker tool, not a permanent all-game Camo state. |
+| **Top 10 candidate — sub-20pt Smoke/ARO hybrid (value)** | **Garon TR Thunderbolt + Smoke GL 16/0** | A **Regular 360° Total Reaction** remote that also projects **normal Smoke** at zero SWC. Excellent role compression, but **BS11, ARM0, STR1** make it far from an apex durable shooter. |
+| **Top 10 candidate — low-cost concealed disposable trade (value)** | **Kyojin HFT + Flammenspeer 15/0** | **Forward Deployment (+20), Camo (1 Use), Mimetism(-3), Super-Jump** and two close/midrange templates for 15 points. **Irregular; vanilla AVA1**, not Shindenbutai AVA2. |
+
+**Top CC threats are not interchangeable.** **Shinobu** (CC25/MA5/Mono) is the premium *pre-positioned assassin*; **Oniwaban** (CC24/MA4/Mono+E/M) is the efficient version; **Mushashi** (CC25/MA5/EXP) is exceptional *raw melee value* if delivered; **Saito Tōgan 33/0** (CC24/MA4/EXP, Hidden/Infiltration/Smoke) brings a different ammo matchup; **Domaru 19–23/0** (CC24/MA3/Berserk, AP or E/M) are excellent cheap 2W melee trades; **Hatamoto** provides elite **MA4/NBW plus Mono/E/M** without forgoing shooting, scoring or durability. **Ioann Bann 30/0** adds an unusual **3W Irregular Dog-Warrior** with Berserk/MA3/AP+T2 and powerful short-range alternatives, but is not a stealth infiltrator. Printed CC alone does not determine the best target or delivery.
+
+**Concealed assassin distinction — rare Infiltration, *no Impersonation*.** **Shinobu, Oniwaban, Saito and Ninja** exploit **Hidden Deployment + Infiltration**, not Fiday/Speculo-style **Impersonation**. Hidden pre-positioning, Surprise Attack, Smoke and marker pressure are powerful; they do **not** grant Impersonation's deployment/state mechanics or bypass screening for free. **Shikami** reaches contact with **Eclipse + vertical mobility**, but is primarily a persistent scorer rather than a one-hit Monofilament assassin.
+
+### Particularly strong or unusual Fireteams
+
+Vanilla's N5.3 chart is **0 Core / 1 Haris / 2 Duos**, with only **FT-I Duo** and **FT-II Duo/Haris** families. These are **selective tools**, not the broad multi-link engines of the sectorials:
+
+- **FT-II Haris — Domaru LT (+1 Order, 23/0) + Daiyōkai HMG NCO (50/1) + Karakuri FO (31/0):** an unusual **Lieutenant Order → NCO gun**, tough melee counter-charge and **STR3 scoring anchor** package. Excellent economy for an expensive ~104-point Haris; protect it from hackers and avoid committing all three where one attack would do.
+- **FT-II Haris — Daiyōkai HMG NCO + two Karakuri** (FO **31/0** or Mk12 **38/0**): **real long-range firepower + up to two independent STR3 objective bodies**. This is the durable Haris archetype, but costs enough to demand a clear mission and Order plan; vanilla **Karakuri AVA2**.
+- **FT-II Haris — Rui Shi MSV2 Spitfire (23/1) + Karakuri FO + Yuriko Oda FTO:** **visor shooting + durable specialist + accompanying Engineer** in the *same legal team*. The **21/0.5 Rui Shi MSV1 Mine Dispenser** is a different control choice; Yuriko needs **FTO profile 1 or 2**, not her independent non-FTO version.
+- **FT-I Duo — O-Yoroi or Mechazoid TAG + Yuriko FTO:** unusually practical **TAG + Engineer** mobility/repair pairing. Either TAG can instead operate independently, and **Tactical Awareness/LT Orders cannot be assumed to move both Duo members for free**; protect the repair model and maintain team coherency.
+- **FT-I Duo — Miyamoto Mushashi + Domaru or Jizamurai:** a legitimate way to *deliver* one of the game's premier CC fighters alongside a second assault body. The **25/0.5 Regular FTO Mushashi** fits a cleaner Order economy; the vanilla chart also lists the **21pt Irregular** option, but don't silently treat its Order as Regular.
+
+**Critical legality boundaries:** **Tankō Disco, Shikami, Hatamoto, Kempeitai, Oniwaban and Shinobu are not automatically members of these vanilla teams.** The FT-II options above cannot be mixed with the FT-I-only **TAG/Shizoku/Mushashi** slots; **Shizoku FTO** fits FT-I only, **Yuriko FTO** fits both. Check the [canonical Fireteam definitions](../../sectorials/jsa/jsa.md#canonical-fireteam-definitions) rather than importing Ōban/Shinden Wildcards or unrestricted Duos.
+
+### Unusual access, missing tools and meaningful weaknesses
+
+- **Two different ways to block vision:** **Shikami carries Eclipse Grenades** for self-directed movement; **Tankō Disco 19/0 places projected Eclipse** to create a corridor for another piece. **Eclipse blocks MSV**; neither tool should be treated like normal Smoke that an MSV2 Rui Shi can shoot through. **Pangguling Baggage 8/0** can support eligible Disco reloads if positioning/Orders justify it.
+- **Normal Smoke + MSV2 shooting:** **Saito, Shinobu and Garon Smoke GL** provide ordinary Smoke; **Rui Shi MSV2 Spitfire 23/1** and **Kempeitai MSV2 Shock Marksman 22/1** can exploit it against suitable opponents. **Yojimbo and Kuroshi Rider are absent from the standard Vanilla JSA roster**—do not import their Smoke packages from Ōban/Shinden.
+- **High-quality command insurance:** **Hatamoto LT(+1 Order, +1 SWC)**, **Domaru LT(+1 Order)**, **Daiyōkai NCO** and **Kempeitai CoC 17/0** provide attractive, distinct command architectures. **No Tanuki CoC/Pitcher and no Metsuke Strategos** in the standard vanilla roster.
+- **Real TAG choice and small-link support:** **Mechazoid** (cheaper **66/1.5 AP HMG**, Climbing Plus) versus **O-Yoroi** (**78/1.5 MULTI HMG**, ARM7, CrazyKoala/Minelayer), **AVA1 each**, both with **Kobaruto Ancillary** and legal FT-I Duo options. **No Triphammer**, and **Ōban's AVA2 O-Yoroi** does not transfer. Large Hackable platforms still need a repair and anti-hacking plan.
+- **Strong but selective anti-marker/ARO tools:** **Ryūken** Decoy/Minelayer/HRL, **Raiden** Hidden heavy-weapon ARO, **Garon Total Reaction**, **Rui Shi MSV2** and **Atom Sensor** help defend the approach; these do not amount to a wide premium long-range gunline. **Shizoku FTO AP HMG 43/1.5** and **Daiyōkai HMG 50/1** are stronger conventional alternatives to forcing an assassin into a 32-inch firefight.
+- **Mission access outside Fireteams:** **Shikami** for dangerous traversal; **Karakuri** for occupation; **Ninja/Kurayami** for Hidden specialist access; **Teishin** for Combat Jump/Parachutist FO/KHD; cheap **Robio/Pangguling** for essential Regular Orders and limited Repeater/Baggage support. **No Shinden Tanuki Pitcher** means a **Uran Guided Missile Launcher** is available but does not automatically form a deep, efficient hacking network.
+- **Structural trade-offs:** no **Core**, only **one Haris and two Duos**, no standard **Impersonation**, **no Yojimbo/Tanuki**, and many premium choices are **Hackable or Order-hungry**. The distinctive vanilla payoff is running **Hatamoto + Shinobu/Oniwaban + Shikami/Karakuri + Tankō/Ryūken + TAG/REM support** in chosen combinations, not getting every sectorial's Fireteam boosts.
+
+**Practical build test:** start with **one funded command plan** (often Hatamoto LT + Kempeitai), **one vision/approach tool**, **one conventional ranged answer**, **one hidden threat *or* expensive Fireteam module**, and enough **Regular Orders and surviving specialists** to finish the mission. Use the second assassin or TAG only if it solves a specific matchup without hollowing out that budget.
+
 
 ## Research provenance and confidence (2025–2026)
 
@@ -934,3 +975,15 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 **Event safety:** choose a unit *legally present* in the selected current N5.3 roster, then proxy only with an appropriate, identifiable **silhouette/base and number of physical troopers**, with peripheral/ancillary bodies separately represented. Check current ITS/organizer policy for competitive games and agree substitutions with casual opponents. Proxies do **not** grant missing profiles, adjust SWC or AVA, revive obsolete Fireteams, or permit one sculpt to stand for two simultaneous troopers.
 
 **Condensed purchasing verdict:** Ōban's clearest **profile-only no-buy is Genbutai BSG18**; Shinden's clearest direct **profile traps are Aïda24 non-FTO and generic Senku HMG17**, while **Triphammer and surplus expensive model quantities** are test-before-buy; Vanilla's main **whole-model defers are Sōhei/Kyoshō/standalone Shurayuki**, plus extra elite assassins and alternative TAGs. **Tankō, Tanuki, Hatamoto, Ryūken, Karakuri, Shikami and well-planned support REMs remain strong choices**.
+
+
+## References
+
+This is the tactical/list-building note for **Vanilla JSA** under the repository's current **N5.3** baseline.
+
+Factual roster, points/SWC, AVA, profiles, and Fireteam legality come from:
+
+- `sectorials/jsa/jsa.md` — authoritative current Vanilla JSA reference.
+- `rules/` — authoritative local rules reference.
+
+Tournament/community examples are evidence for how the roster can be used, not authority for roster legality.
