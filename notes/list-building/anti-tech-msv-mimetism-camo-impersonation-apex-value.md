@@ -36,46 +36,48 @@ Related retained work: [vision control](vision-control-units-apex-and-value.md),
 
 ## 1. Apex — maximum *anti-tech* swing (not unconditional unit power)
 
-| Tier | Exact candidate | Apex use and why | When *not* apex |
-|---|---|---|---|
-| **S** | **Asura MSV3 + HD+ 63/.5** (ALEPH/OSS rostered) | **MSV3** solves legal Camo exposure, WIP15 HD+ projects White Noise against enemy visors and NWI/ARM5 remains an active gun/specialist | 63pt/hi hackability; huge cost if merely Discovering one 15pt infiltrator |
-| **S** | **Charontid MSV3 Plasma Rifle67/0 or AP HMG70/1.5** (Vanilla Combined Army, exact loadout) | Premium **MSV3** shooter that automatically Discovers visible Camo and can attack eligible Camo markers in its Active Turn; AP HMG option gives a conventional high-end Mimetism remover | Expensive Heavy Infantry; no Sensor ZoC sweep through walls; enemy White Noise/Albedo or better range/LoF can still win |
-| **S** | **Aquila Guard MSV3, BS15 52/1.5** (NCA) | Strong full-range gunfight against Mimetism, plus auto-Discover for visible Camo; best **direct anti-Camo shooter** case | White Noise/Albedo punishes own visor, no Sensor sweep through total cover |
-| **S** | **Marut MSV2 MULTI HMG86/1.5** (ALEPH) | Extremely strong Mimetism/Smoke gunfight, especially with supportive screen; can *remove* an elite visor gun after favorable angle | TAG cost/risk; **not** an MSV3 Camo auto-reveal; White Noise and hacked routes |
-| **S** | **Kriigel Mirrorball21/.5** / **Makaul Eclipse14/0** (Tohaa) | Repeatable no-LoF ZoC Eclipse or cheap Triad Eclipse+HFT: defeat an MSV ARO **without** fighting it | No score/assault follow-up; controller/throw route blocked; cheap normal gun unimportant |
-| **S** | **Bào Riotstopper16/0** (ISS) | **MSV2+Albedo(-3)+Biometric+Discover(+3)** compresses anti-Mimetism, anti-MSV, anti-IMP into one **Regular** body | Fragile 1W short gun; does not become premium long-range duelist or auto-Discover |
-| **S** | **Black Friar Thunderbolt24/0** (MO/NCA) | **MSV2+Albedo(-6)+Combat Instinct**, credible zero-SWC ranged attacker punishing visors and Mimetism together | Against normal shooter/longer better gun, Albedo does no work |
-| **A+** | **Satrah MSV2+Albedo24/0 gun or KHD20/0** (ALEPH/OSS) | Dual anti-MSV/anti-Mimetism plus specialist/cyber role; lower-cost premium two-way counter | KHD loadout is not the same high-quality long gun; opponent no visor |
-| **A+** | **Taagma MSV2 Viral Sniper22/1.5** (Tohaa) | Cheap long MSV2 lane, counter smoke and Mimetism, backed by deception/Counterintelligence | Many targets immune/resist Viral; vulnerable if discovered/flanked |
-| **A+** | **Jazz FTO HD+22/.5 / Interventor HD+18–23/.5 / Uhahu HD+19/.5**, with deployed network | White Noise *where actual threat is*, bypasses heavy MSV ARO; hacker remains valuable for independent cyber tasks | Network setup/reach makes apparent 18–22pt price misleading |
-| **A+** | **Yín-Shé Albedo(-6)22/0; Léi Gōng FTO MSV1+Albedo(-6)29/0** (White Banner) | Strong **anti-opposing MSV**; Léi Gōng adds mobile MSV1/NWI and Super-Jump; Yín-Shé is cheaper visor hunter | Opponent no MSV/Marksmanship, often better to buy ordinary shooter or scoring body |
-| **A+** | **Orphan MSV2 MULTI MMR25/0** (Bakunin) / **Crosier MSV2 HMG24/1** (MO) | Affordable actual anti-Mimetism **shooters** with useful Fireteam access; Orphan has Mimetism/other role utility | Don't infer they counter IMP without Biometric or reveal Hidden without Sensor |
-| **A+** | **Kaauri E/M Minelayer11/0** (Tohaa) / **Bluecoat13/0** (O-12/Starmada) | Unusually effective **anti-IMP rear guards** for an ordinary Order and little SWC; the Kaauri adds MSV1/Sixth Sense | Guarding one corridor is not sweeping enemy half |
-| **A** | **Kestrel Fennec FO/Sensor/Disco13/0**; **Pathfinder FO/Sensor14/0** | Low-cost two-domain tech counter: Sensor marker hunt + Disco vs visors / Triangulated Fire on Pathfinder | No major offensive firepower; must spend Orders to reach hidden enemies |
-| **A** | **SAA Regular Sensor+Shock Minelayer/Triangulated Fire13/0** | **Turn-zero DZ tripwire** with Sensor, a real Regular Order and fallback unmimetic attack | No infiltration; forward Camo out of ZoC remains unsolved |
-| **A** | **CJC Intruder MSV2 HMG38/1.5 + Jaguar Smoke10/0** | Real two-piece **anti-Mimetism** gun plan, Smoke creates favorable one-sided duel against non-MSV ARO | Need both units/Orders; opponent White Noise, counter-MSV, mine screen |
-| **A** | **Varuna Helot FTO Sensor+LRL10/0 / Zulu-Cobra Sensor23/0**, rostered | Cheap reactive discover or forward Sensor/Jammer; low-value body can spend Discover rather than exposed 30pt Kamau | Helot static/Irregular; Sensor alone doesn't win against IMP or MSV |
+| # | Tier | Exact candidate | Apex use and why | When *not* apex |
+|---|---|---|---|---|
+| 1 | **S** | **Asura MSV3 + HD+ 63/.5** (ALEPH/OSS rostered) | **MSV3** solves legal Camo exposure, WIP15 HD+ projects White Noise against enemy visors and NWI/ARM5 remains an active gun/specialist | 63pt/hi hackability; huge cost if merely Discovering one 15pt infiltrator |
+| 2 | **S** | **Charontid MSV3 Plasma Rifle67/0 or AP HMG70/1.5** (Vanilla Combined Army, exact loadout) | Premium **MSV3** shooter that automatically Discovers visible Camo and can attack eligible Camo markers in its Active Turn; AP HMG option gives a conventional high-end Mimetism remover | Expensive Heavy Infantry; no Sensor ZoC sweep through walls; enemy White Noise/Albedo or better range/LoF can still win |
+| 3 | **S** | **Aquila Guard MSV3, BS15 52/1.5** (NCA) | Strong full-range gunfight against Mimetism, plus auto-Discover for visible Camo; best **direct anti-Camo shooter** case | White Noise/Albedo punishes own visor, no Sensor sweep through total cover |
+| 4 | **S** | **Marut MSV2 MULTI HMG86/1.5** (ALEPH) | Extremely strong Mimetism/Smoke gunfight, especially with supportive screen; can *remove* an elite visor gun after favorable angle | TAG cost/risk; **not** an MSV3 Camo auto-reveal; White Noise and hacked routes |
+| 5 | **S** | **Kriigel Mirrorball21/.5** / **Makaul Eclipse14/0** (Tohaa) | Repeatable no-LoF ZoC Eclipse or cheap Triad Eclipse+HFT: defeat an MSV ARO **without** fighting it | No score/assault follow-up; controller/throw route blocked; cheap normal gun unimportant |
+| 6 | **S** | **Bào Riotstopper16/0** (ISS) | **MSV2+Albedo(-3)+Biometric+Discover(+3)** compresses anti-Mimetism, anti-MSV, anti-IMP into one **Regular** body | Fragile 1W short gun; does not become premium long-range duelist or auto-Discover |
+| 7 | **S** | **Black Friar Thunderbolt24/0** (MO/NCA) | **MSV2+Albedo(-6)+Combat Instinct**, credible zero-SWC ranged attacker punishing visors and Mimetism together | Against normal shooter/longer better gun, Albedo does no work |
+| 8 | **A+** | **Satrah MSV2+Albedo24/0 gun or KHD20/0** (ALEPH/OSS) | Dual anti-MSV/anti-Mimetism plus specialist/cyber role; lower-cost premium two-way counter | KHD loadout is not the same high-quality long gun; opponent no visor |
+| 9 | **A+** | **Taagma MSV2 Viral Sniper22/1.5** (Tohaa) | Cheap long MSV2 lane, counter smoke and Mimetism, backed by deception/Counterintelligence | Many targets immune/resist Viral; vulnerable if discovered/flanked |
+| 10 | **A+** | **Jazz FTO HD+22/.5 / Interventor HD+18–23/.5 / Uhahu HD+19/.5**, with deployed network | White Noise *where actual threat is*, bypasses heavy MSV ARO; hacker remains valuable for independent cyber tasks | Network setup/reach makes apparent 18–22pt price misleading |
+| 11 | **A+** | **Yín-Shé Albedo(-6)22/0; Léi Gōng FTO MSV1+Albedo(-6)29/0** (White Banner) | Strong **anti-opposing MSV**; Léi Gōng adds mobile MSV1/NWI and Super-Jump; Yín-Shé is cheaper visor hunter | Opponent no MSV/Marksmanship, often better to buy ordinary shooter or scoring body |
+| 12 | **A+** | **Orphan MSV2 MULTI MMR25/0** (Bakunin) / **Crosier MSV2 HMG24/1** (MO) | Affordable actual anti-Mimetism **shooters** with useful Fireteam access; Orphan has Mimetism/other role utility | Don't infer they counter IMP without Biometric or reveal Hidden without Sensor |
+| 13 | **A+** | **Kaauri E/M Minelayer11/0** (Tohaa) / **Bluecoat13/0** (O-12/Starmada) | Unusually effective **anti-IMP rear guards** for an ordinary Order and little SWC; the Kaauri adds MSV1/Sixth Sense | Guarding one corridor is not sweeping enemy half |
+| 14 | **A** | **Kestrel Fennec FO/Sensor/Disco13/0** | Low-cost two-domain tech counter: Sensor marker hunt + Disco vs visors / Triangulated Fire on Pathfinder | No major offensive firepower; must spend Orders to reach hidden enemies |
+| 15 | **A** | **Pathfinder FO/Sensor14/0** | Low-cost two-domain tech counter: Sensor marker hunt + Disco vs visors / Triangulated Fire on Pathfinder | No major offensive firepower; must spend Orders to reach hidden enemies |
+| 16 | **A** | **SAA Regular Sensor+Shock Minelayer/Triangulated Fire13/0** | **Turn-zero DZ tripwire** with Sensor, a real Regular Order and fallback unmimetic attack | No infiltration; forward Camo out of ZoC remains unsolved |
+| 17 | **A** | **CJC Intruder MSV2 HMG38/1.5 + Jaguar Smoke10/0** | Real two-piece **anti-Mimetism** gun plan, Smoke creates favorable one-sided duel against non-MSV ARO | Need both units/Orders; opponent White Noise, counter-MSV, mine screen |
+| 18 | **A** | **Varuna Helot FTO Sensor+LRL10/0 / Zulu-Cobra Sensor23/0**, rostered | Cheap reactive discover or forward Sensor/Jammer; low-value body can spend Discover rather than exposed 30pt Kamau | Helot static/Irregular; Sensor alone doesn't win against IMP or MSV |
 
 **Tier scores are conditional:** an apex 63pt Asura is **not** more cost-efficient at clearing two Camo markers than 13pt Fennec; a 16pt Bào is only apex against the tech *it has lanes and weapons to address*.
 
 ## 2. Points-value tiers — unit and *actual job* (the buying order)
 
-| Value tier | Profile | Why it earns that tier; which opponent | Main opportunity cost |
-|---|---|---|---|
-| **S+** | **Tohaa Kaauri11/0 E/M Minelayer** | Cheapest **Biometric + MSV1 + Sixth Sense + Discover + mine**: protects LT/support versus IMP/Camo, Regular Order | S1/1STR, DZ lane only; MSV1 still suffers -3 vs Mimetism(-6) |
-| **S+** | **O-12/Starmada Bluecoat13/0** | Biometric + Discover(+6) + close Adhesive/Riotstopper; tiny price to deny Fiday/Speculo assassination | No default 360º, Sensor or prepaid mine; depends on placement |
-| **S+** | **ISS Bào16/0** | **MSV2+Albedo+Biometric+Discover**, the most independent *multi-tech* points bargain | Fragile and short-ranged; active sniper has different costs |
-| **S+** | **Kestrel Fennec FO/Sensor+Disco13/0** | Regular scorer: **active anti-Camo sweep** and **projected Eclipse vs MSV/Marksmanship** for one slot | Two Disco shots and travel/throw Orders |
-| **S+** | **SAA Regular Sensor/Minelayer13/0** | Cheap prepaid mine/anti-Camo detector plus Triangulated Fire; no SWC and pooled Order | DZ-only without deliberate advance |
-| **S** | **Tohaa Chaksa Auxiliar FTO Sensor10/0** | Exceptional bare **Sensor + HFT + Baggage** price, independent Regular support | Linking FTO legality and limited movement/ZoC |
-| **S** | **Haqq Rafiq FO/Sensor/TF13/0**; **Wèibīng / Pathfinder14/0** | Fast repeatable Sensor/FO/Repeater and long-skill anti-Mimetism fallback, strong order-efficient *utility* | REM 1STR, weak direct BS duel; optional TA variants cost extra |
-| **S** | **Fennec Thunderbolt(+1B), Triangulated Fire, Mine14/0** | Long-skill BS ignores -6 Mimetism/range penalty, mine starts in place; useful *non-MSV* counter even into opposing Albedo | Not the 13pt Sensor+Disco profile; Long Skill opportunity cost |
-| **S** | **Makaul Eclipse14/0**, **Kriigel Mirrorball21/.5** | Ignore enemy visor lane instead of buying a 40pt gun; Makaul is multi-use Triad member, Kriigel is repeatable no-LoF placement | Entire recipient's movement/attack Orders must be counted |
-| **S** | **Uhahu19/.5, Jazz22/.5, Interventor18–23/.5** (specific HD+) | White Noise against a known dangerous MSV **or Marksmanship** ARO *and* otherwise useful hacker | Repeater/White Noise setup; KHD variant is not automatically HD+ |
-| **A+** | **Black Friar Thunderbolt24/0**, **Satrah KHD20/0 or MSV2 gun24/0**, **Orphan MSV2 gun25/0** | Visor tech counter **and** offensive or specialist job at moderate cost | Check chosen gun/profile and necessary Fireteam |
-| **A+** | **White Banner Yín-Shé22/0** | Albedo(-6) penalizes elite opponent visor/Marksmanship at budget cost | No matching enemy tech = mostly ordinary 22pt troop |
-| **A** | **Varuna Helot FTO LRL/Sensor10/0**, **Morat M-Drone Sensor**, **Starmada Oko Sensor15/0** | Low-impact-cost marker sweep/ARO or score and hunt with regular REM; builds a **second** answer | Irregular Helot versus vulnerable REM; only useful within ZoC and next-turn plan |
-| **B situational** | **CA Charontid MSV3 67–70pt, NCA Aquila MSV3 52/1.5 / ALEPH Asura HD+63/.5** | Pay when one model must actually win repeated fights and detect visible Camo; high apex not cheap | Massive cost for a task a 10–14pt Sensor often solves |
+| # | Value tier | Profile | Why it earns that tier; which opponent | Main opportunity cost |
+|---|---|---|---|---|
+| 1 | **S+** | **Tohaa Kaauri11/0 E/M Minelayer** | Cheapest **Biometric + MSV1 + Sixth Sense + Discover + mine**: protects LT/support versus IMP/Camo, Regular Order | S1/1STR, DZ lane only; MSV1 still suffers -3 vs Mimetism(-6) |
+| 2 | **S+** | **O-12/Starmada Bluecoat13/0** | Biometric + Discover(+6) + close Adhesive/Riotstopper; tiny price to deny Fiday/Speculo assassination | No default 360º, Sensor or prepaid mine; depends on placement |
+| 3 | **S+** | **ISS Bào16/0** | **MSV2+Albedo+Biometric+Discover**, the most independent *multi-tech* points bargain | Fragile and short-ranged; active sniper has different costs |
+| 4 | **S+** | **Kestrel Fennec FO/Sensor+Disco13/0** | Regular scorer: **active anti-Camo sweep** and **projected Eclipse vs MSV/Marksmanship** for one slot | Two Disco shots and travel/throw Orders |
+| 5 | **S+** | **SAA Regular Sensor/Minelayer13/0** | Cheap prepaid mine/anti-Camo detector plus Triangulated Fire; no SWC and pooled Order | DZ-only without deliberate advance |
+| 6 | **S** | **Tohaa Chaksa Auxiliar FTO Sensor10/0** | Exceptional bare **Sensor + HFT + Baggage** price, independent Regular support | Linking FTO legality and limited movement/ZoC |
+| 7 | **S** | **Haqq Rafiq FO/Sensor/TF13/0** | Fast repeatable Sensor/FO/Repeater and long-skill anti-Mimetism fallback, strong order-efficient *utility* | REM 1STR, weak direct BS duel; optional TA variants cost extra |
+| 8 | **S** | **Wèibīng / Pathfinder14/0** | Fast repeatable Sensor/FO/Repeater and long-skill anti-Mimetism fallback, strong order-efficient *utility* | REM 1STR, weak direct BS duel; optional TA variants cost extra |
+| 9 | **S** | **Fennec Thunderbolt(+1B), Triangulated Fire, Mine14/0** | Long-skill BS ignores -6 Mimetism/range penalty, mine starts in place; useful *non-MSV* counter even into opposing Albedo | Not the 13pt Sensor+Disco profile; Long Skill opportunity cost |
+| 10 | **S** | **Makaul Eclipse14/0**, **Kriigel Mirrorball21/.5** | Ignore enemy visor lane instead of buying a 40pt gun; Makaul is multi-use Triad member, Kriigel is repeatable no-LoF placement | Entire recipient's movement/attack Orders must be counted |
+| 11 | **S** | **Uhahu19/.5, Jazz22/.5, Interventor18–23/.5** (specific HD+) | White Noise against a known dangerous MSV **or Marksmanship** ARO *and* otherwise useful hacker | Repeater/White Noise setup; KHD variant is not automatically HD+ |
+| 12 | **A+** | **Black Friar Thunderbolt24/0**, **Satrah KHD20/0 or MSV2 gun24/0**, **Orphan MSV2 gun25/0** | Visor tech counter **and** offensive or specialist job at moderate cost | Check chosen gun/profile and necessary Fireteam |
+| 13 | **A+** | **White Banner Yín-Shé22/0** | Albedo(-6) penalizes elite opponent visor/Marksmanship at budget cost | No matching enemy tech = mostly ordinary 22pt troop |
+| 14 | **A** | **Varuna Helot FTO LRL/Sensor10/0**, **Morat M-Drone Sensor**, **Starmada Oko Sensor15/0** | Low-impact-cost marker sweep/ARO or score and hunt with regular REM; builds a **second** answer | Irregular Helot versus vulnerable REM; only useful within ZoC and next-turn plan |
+| 15 | **B situational** | **CA Charontid MSV3 67–70pt, NCA Aquila MSV3 52/1.5 / ALEPH Asura HD+63/.5** | Pay when one model must actually win repeated fights and detect visible Camo; high apex not cheap | Massive cost for a task a 10–14pt Sensor often solves |
 
 ## 3. Use the right counter, not just the highest tier
 
