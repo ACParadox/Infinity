@@ -6,14 +6,46 @@
 
 ## One-minute verdict
 
-**Bakunin wins through multiple mutually supporting problems:** cheap disposable **Morlock/Chimera melee**, midfield Camo/Para mines, **Mimetism(-6) Rev gunfighting**, **Riot Grrl/MSV1 guns**, **Stigmata/Orphan resilient hacking** *or* **Lizard direct gun**, and **Fireteam-supported REMs**. The opponent needs answers to **close combat, Eclipse/smoke, hacking, high ARM, Mimetism, MSV and mines**; they usually cannot answer all simultaneously.
+**Bakunin wins by combining threats that demand different answers:**
+
+- **Morlocks and Chimera/Pupniks:** disposable melee pressure, Smoke and Eclipse approaches.
+- **Zeros and Initiated Observants:** midfield Camo, mines and repeater pressure.
+- **Reverends/Moiras:** Mimetism(-6) shooting when the team structure suits them.
+- **Riot Grrls:** direct MSV1 gunfighting and durable Fireteam positions.
+- **Stigmata + Orphan:** resilient armored hacking and recovery, rather than a compulsory primary gun.
+- **Lizard:** a more conventional direct-fire TAG alternative.
+- **Vostok/Tsyklon and other supported REMs:** supplementary ranged attacks and network reach.
+
+The opponent must solve close combat, Eclipse/Smoke, hacking, ARM, Mimetism, MSV and mines without enough answers for all of them.
 
 **Main weakness:** excellent individual tools compete for **one Core, one Haris, and expensive SWC guns**, and some premium units have only **one wound**. Bakunin has versatile FTs but **not a free set of several Haris teams**. Plan which pair of missions a list serves instead of always buying whichever profile looks strongest.
 
 **Three legitimate build engines:**
-1. **Melee/control/area scoring:** Riot Grrl MSV1 ARO + **Orphan MSV2** / Rounder + Sin-Eater or Reaktion; **Cenobite / Chimera/Pupniks / Morlocks** push threats, Eclipse carries objectives. A December 2025 Bakunin tournament winner played roughly this with only **Uhahu** as the core hacking package; **no Stigmata, Go-Pod or Guided**.
-2. **Just-enough hacking + REM attack:** Moderator/Clockmaker + **Vostok FTO** or **Tsyklon FTO**, **Uhahu + Riot Grrl TinBot(-6)** or a Custodier; **Zeros and Initiated Observants** seed mines/repeaters, **Stempler** does independent Sensor/FO. Good because a supported attack REM shoots, then its Engineer can recover it, while your specialist network protects approaches.
-3. **Armored denial:** **Stigmata + Orphan Engineer/Repeater** Armored Duo, or **Lizard + Orphan/Marspider** as legal armored team. Add Morlocks, dense deployables and one **separate reliable active gun**. TAG survives, projects threat/repeater or punishes enemy formations while rest of list scores. The Stigmata is a durable **hacker/ARO problem**, **not necessarily your primary long-range gun**.
+
+1. **Melee/control/area scoring:**
+   - **Riot Grrl MSV1** with **Orphan MSV2** or **Rounder** for anti-Smoke/objective coverage.
+   - **Sin-Eater** or **Reaktion** for an ARO lane.
+   - **Cenobites, Chimera + Pupniks, and Morlocks** for close trades and Eclipse-enabled scoring.
+   - **Uhahu** as a compact hacking package. The December 2025 tournament winner used this style without **Stigmata, Go-Pod or Guided**.
+2. **Just-enough hacking + REM attack:**
+   - **Moderator + Clockmaker + Vostok FTO** or **Tsyklon FTO** as the supported, repairable attack core.
+   - **Uhahu + Riot Grrl TinBot(-6)** or **Custodier** for hacking and protection.
+   - **Zeros and Initiated Observants** for mines/repeaters; **Stempler** for independent Sensor/FO.
+   - An Engineer recovers the attack REM after its early shooting while the specialist network guards approaches.
+3. **Armored denial:**
+   - **Stigmata + Orphan Engineer/Repeater** or **Lizard + Orphan/Marspider** in a legal Armored team.
+   - **Morlocks** and deployables for pressure; one **separate reliable active gun** for hard AROs.
+   - The TAG survives, projects hacking or direct threat, and draws responses while other pieces score. **Stigmata is a durable hacker/ARO problem, not automatically the main long-range gun.**
+
+**Visibility-control choices (use the one the list needs):**
+
+- **Morlock 6/0 Smoke:** inexpensive but Irregular/Impetuous.
+- **Chimera + Pupniks 19/0 Eclipse:** high-ceiling assault and objective delivery.
+- **Uhahu HD+ 19/.5** or a legal **Reverend Custodier HD+:** White Noise versus visors/Marksmanship.
+- **Prowler Disco Baller 34/0:** an infiltrating scoring and alternative-angle tool.
+- **Orphan MSV2 / Rounder:** stop ordinary-Smoke objective theft; **Cenobites** retain threat when White Noise/Albedo shuts down visor AROs. Eclipse blocks both.
+
+The last contrast is supported by the MetaChemistry #132 winner's list; compare [whole-game vision-control roles](../list-building/vision-control-units-apex-and-value.md).
 
 ## Fireteam legality matters more than unit hype
 
@@ -29,7 +61,10 @@ Current [canonical chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-
 | **Armored** | **Duo only**, Stigmata or Lizard required-choice set; max one Orphan, Mobile Brigada, Marspider, Robin Hook. **Orphan Engineer** (17/21pt) or **Marspider Engineer** (22pt) adds TAG repair and mission capability. Neither makes every other Nomad TAG available. |
 | **Wildcards** | **Vostok only FTO opts 5/7**, and both Tsyklon selectable loadouts are FTO, plus Wolfgang counted as Moderator. **Stempler FTO label does not enable a Bakunin Fireteam**—there is no Stempler entry in this chart. |
 
-**Crucial 2026 correction:** the pinned Bakunin roster lists **Zoe + Π-Well only as 42pt or 45pt selectable FTO combinations**, with their Moderator FT condition. Shepherd's August 2025 suggestion to take **standalone 23pt Zoe Engineer/Hacker** reflects earlier/different Army availability and **is not an option in the pinned N5.3 reference**. Likewise the **standard Vostok FTO lacks Repeater**; the more expensive unlinked profile **has** it.
+**Crucial 2026 profile corrections:**
+
+- **Zoe + Π-Well:** the pinned Bakunin roster has only the **42pt or 45pt selectable FTO combination**, subject to the Moderator Fireteam condition. The older suggestion of a standalone **23pt Zoe Engineer/Hacker** is not currently legal.
+- **Vostok:** its standard **FTO variant lacks Repeater**; the more expensive unlinked profile retains one. Do not transfer the unlinked equipment to the team version.
 
 ## Units — what they buy, why, and when to leave them out
 
@@ -62,11 +97,21 @@ Current [canonical chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-
 | **Lizard** | **AVA1, 60–65pts/1.5SWC, ARM8 BS14, 3W**, 3 choices: **65pt MULTI HMG + Grenade/E/M GL** (long-range versatility and anti-null-deployment), **64pt MULTI HMG + Heavy Flamethrower** (direct-fire safety), **60pt AP Spitfire + E/M grenades/mines** (shorter-range economical control). **TacAware + Repeater + RobbyBot**, legal **Armored Duo** with Orphan/Marspider. Reliable *primary gun* when Stigmata's HRL won't remove key AROs. | **Robert** favors MULTI HMG+E/M GL due to *high-ceiling spec-fire disruption* against a cautious opponent, admits it can spend many Orders for no hits. **Pragmatic dissent:** 64pt HMG/HFT avoids betting your TAG's first turn on speculative grenade arcs; a 60pt Spitfire is for midrange/points pressure, not replacing HMG range. **LoL podcast** debates whether Bakunin already has enough repeaters, so Lizard Repeater is just a bonus rather than a reason to field it. |
 | **Why not both?** | Stigmata = resilient hacker/ARO/support anchor; Lizard = main direct gun. Both have **TacAware** and repair plans. Their strengths are **complementary**, not hierarchically better. | Together cost **116–121pts plus 3SWC** before any helper, smoke, hacker or second scoring specialist: valid specialist list concept, but means conceding midfield density or other strike pieces. **Armored is only Duo**, not an unrestricted Core. |
 
-**Repairs:** choose **17/21pt Orphan Engineer** if you want an Armored Duo specialist/repeater, **22pt Marspider Engineer** if its close assault/templates and Climbing Plus improve the TAG's path, or a separate **18pt Clockmaker WIP15 + Zondbot** if multiple REMs across table need repairs. **TAG-Treiber is Moderator FT support and TAGCom**, not a Stigmata's automatic armored partner.
+**Choose TAG/REM repair support by job:**
+
+- **Orphan Engineer 17/21pt:** Armored Duo specialist; the 21pt profile adds Repeater coverage.
+- **Marspider Engineer 22pt:** close-assault/templates and Climbing Plus when the TAG advances into awkward terrain.
+- **Clockmaker WIP15 18pt + Zondbot:** independent, long-reach repair for multiple REMs.
+- **TAG-Treiber:** Moderator Fireteam support and TAGCom, **not** an automatic partner in a Stigmata Armored Duo.
 
 ## Vehicle — Go-Pod: fast ceiling, high failure risk
 
-**Bakunin AVA1 VH: 33pts/0SWC MULTI Rifle+E/Mitter**, or **32pts/1.5SWC Heavy Rocket Launcher+AP SMG (BS Attack SR-1)**; 20-5 move, **Aerial, S7, ARM2, Mimetism(-3), No Cover, Super-Jump**, Tech-Recovery, **Go-Bot Peripheral**. No legal Fireteam row.
+**Go-Pod is Bakunin's AVA1 VH; choose a legal profile:**
+
+- **33pt/0SWC MULTI Rifle + E/Mitter** for lower SWC commitment.
+- **32pt/1.5SWC Heavy Rocket Launcher + AP SMG (BS Attack SR-1)** for the alternate attack job.
+
+Both use 20–5 move, Aerial, S7, ARM2, Mimetism(-3), No Cover, Super-Jump, Tech-Recovery and a Go-Bot Peripheral. Neither has a legal Fireteam row.
 
 - **Pro-vehicle:** amazing airborne flanking angles, ability to skip roadblocks with flight/super-jump, backline penetration once hackers/ARO pieces are neutralized; threatens missions requiring **rapid zone change**. In late 2025 a Korean opponent told MetaChemistry’s Bakunin winner Go-Pod was nearly auto-include locally.
 - **Opposing practice:** that winner excluded Go-Pod **partly because he lacked a model**, but *also* because his missions rewarded **static MSV-backed zone control and repeated scoring**, while the Go-Pod tends to be exposed after one spectacular attack run. This is **not conclusive evidence Go-Pod is bad**.
@@ -89,7 +134,13 @@ Current [canonical chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-
 | **Meteor** | **19pt shotgun or 21pt E/M**, Combat Jump/Parachutist, Sensor, FO, Repeater, Super-Jump | Deep-rear **network insertion and button-pushing** when Bakunin otherwise has limited reserve entry; high-payoff but vulnerable to failed jump or hostile AROs. |
 | **Zondbot / Go-Bot / JackBot** | Peripherals, not ordinary independently order-producing troopers | **Zondbot** extends Engineer/Doctor reach; **Go-Bot** included with vehicle; **Fiddler non-FTO** options include **1/2 JackBots**. Always check controller dependency, Fireteam compatibility and order source. |
 
-**What is not Bakunin:** Corregidor **Gecko, Gator, Iguana**, and vanilla **Szalamandra**. Conversely, **Tsyklon is current in Bakunin** even though removed from regular Corregidor following the 2026 update. **Go-Pod is Bakunin’s genuine VH**; it is not merely a Vanilla Nomads example. The pinned September 2026 roster has **no Lunokhod**; old N5 first-reaction discussions involving Lunokhod are no longer legal advice for Bakunin.
+**Do not import other Nomad roster options:**
+
+- **Corregidor TAGs:** Gecko, Gator and Iguana are not ordinary Bakunin choices.
+- **Vanilla TAG:** Szalamandra is not an ordinary Bakunin choice.
+- **Tsyklon:** **is legal in Bakunin**, even though it was removed from regular Corregidor in 2026.
+- **Go-Pod:** is Bakunin's actual VH option, not merely a vanilla comparison.
+- **Lunokhod:** absent from the pinned September 2026 Bakunin roster; older N5 discussions involving it are historical.
 
 ## Disagreements to test, not erase
 
@@ -119,9 +170,15 @@ Current [canonical chart](../../sectorials/nomads/bakunin.md#canonical-fireteam-
 - [ ] Verify **legal chosen unit profiles**, not just unit names: Vostok FTO only links; Tsyklon FTO links; Fiddler FTO loses JackBots; standalone Zoe not on this roster; Stempler does not link; correct VH is Go-Pod.
 - [ ] Against a tough opposing TAG/HI or hidden gun, test the answer from **E/M, close combat, White Noise, continuous AP, Spotlight, and Engineer repair** rather than expecting ballistic brute force alone.
 
-**Suggested starting philosophies, not Army-validated 300pt exports:** **List A (mission/area):** Riot Grrls + Uhahu/TinBot, Orphan MSV2 or Rounder, Sin-Eater or 0SWC Reaktion, a Chimera and Morlock assault package, plus Zeros/specialists. **List B (armored/network):** Stigmata + Orphan Engineer or Lizard+Marspider Armored Duo, Moderator+Clockmaker+Vostok/Tsyklon only if using Haris budget, KHD/Repeater backstop, Zeros and one finishing Specialist. Build exact lists after selecting missions, table density and current Army validation.
+**Suggested starting philosophies (concepts, not Army-validated 300-point exports):**
 
-## Vision control — role/value update (23 October 2026)
+- **List A — mission/area control:**
+  - **Riot Grrls + Uhahu/TinBot** for linked protection.
+  - **Orphan MSV2 or Rounder**, with **Sin-Eater or 0SWC Reaktion** to deny key lanes.
+  - **Chimera/Pupniks, Morlocks**, and **Zeros/specialists** for close trades and scoring.
+- **List B — armored/network:**
+  - **Stigmata + Orphan Engineer** or **Lizard + Marspider** in a legal Armored Duo.
+  - **Moderator + Clockmaker + Vostok/Tsyklon** if the single Haris slot and budget permit.
+  - **KHD/Repeater backstop, Zeros** and a finishing specialist.
 
-- **Cheap screens:** **Morlock 6/0 Smoke** is low-cost but Irregular/Impetuous; **Chimera + Pupniks 19/0 Eclipse** is the high-ceiling assault/mission-delivery option. **Uhahu HD+ 19/.5** or eligible Reverend Custodier HD+ supplies **White Noise** vs MSV/Marksmanship; **Prowler Disco 34/0** adds an infiltrating specialist/counter angle.
-- **Contrasting tournament evidence (MetaChemistry #132):** MSV Orphan/Rounder denies enemy ordinary-Smoke objective theft, but non-MSV Cenobites can keep fighting when White Noise/Albedo shuts off your visor lane. Eclipse blocks both. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+Build the actual lists after choosing missions, table density and current Army legality.
