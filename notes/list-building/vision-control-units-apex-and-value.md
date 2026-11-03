@@ -1,6 +1,14 @@
 # Vision Control — N5.3 Apex, Points-Value, and Matchup Guide
 
-**Vanilla O-12 source update — [Robert Shepherd, O-12 faction focus (22–25m, 40–43m, 54–56m, 66–69m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1320s), reviewed 26 Oct 2026:** **Regular Varangian12–13/0 (PH14 Smoke)** supports **Epsilon HMG34/1.5** MSV2/Mimetism(-3)/Climbing Plus for a credible TR-bot/ARO answer; **Ioann Bann32** can also supply Smoke while forming a *convenience Duo* with **Nimrod FTO Thunderbolt28/.5 MSV2**, stacking Mimetism and visor instead of raw Burst. **Cyberghost HD+21/.5** supplies WIP14 White Noise, but its BS11 Pitcher is **not automatic reliable network projection**: moving **Oko TA18 / RoadBot20 Repeater** into reach is often a more deliberate plan. **PSI-Cop KHD+Disco23 + MSV1 shooter27** is a powerful but **50pt fragile two-W1** Duo; if all you need is a Disco lane, **Bluecoat Disco16** costs much less, but loses duo and X-Visor accuracy. **Ordinary Smoke remains vulnerable to visors**, while Disco/White Noise have different counter interactions. Specific unit combinations require the current Vanilla Fireteam chart.
+**Vanilla O-12 source update — [Robert Shepherd, O-12 faction focus (22–25m, 40–43m, 54–56m, 66–69m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1320s), reviewed 26 Oct 2026:**
+
+- **Regular Varangian12–13/0 (PH14 Smoke)** supports **Epsilon HMG34/1.5** MSV2/Mimetism(-3)/Climbing Plus for a credible TR-bot/ARO answer
+- **Ioann Bann32** can also supply Smoke while forming a *convenience Duo* with **Nimrod FTO Thunderbolt28/.5 MSV2**, stacking Mimetism and visor instead of raw Burst.
+- **Cyberghost HD+21/.5** supplies WIP14 White Noise, but its BS11 Pitcher is **not automatic reliable network projection**: moving **Oko TA18 / RoadBot20 Repeater** into reach is often a more deliberate plan.
+- **PSI-Cop KHD+Disco23 + MSV1 shooter27** is a powerful but **50pt fragile two-W1** Duo
+- if all you need is a Disco lane, **Bluecoat Disco16** costs much less, but loses duo and X-Visor accuracy.
+
+**Ordinary Smoke remains vulnerable to visors**, while Disco/White Noise have different counter interactions. Specific unit combinations require the current Vanilla Fireteam chart.
 
 **Dedicated counter-role guide:** [Anti-Tech — MSV, Mimetism, Camouflage, Hidden and Impersonation: N5.3 apex/value](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) ranks the *opposing counters and carrier points costs*. This page remains authoritative for *creating* Smoke/Eclipse/White Noise lanes, rather than defeating enemy tech generally.
 

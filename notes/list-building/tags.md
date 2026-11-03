@@ -1,6 +1,12 @@
 # TAGs — N5.3 cross-faction tier list and field guide
 
-**Vanilla O-12 TAG counterpoint — [Robert Shepherd's faction focus (33–38m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1980s), reviewed 26 Oct 2026:** A **Gamma HMG Lt50/1.5 + Ment CoC14** offers BS14/high Burst, Warhorse, prone deployment and competent Heavy Pistol close defense without spending **Zeta Lt70/2** points. The **Zeta** remains an excellent TAG *ceiling* with AP HRMC, ARM8, **Climbing Plus** and its ZetBot Specialist, but this source argues its **20pt extra cost is worth it mainly on favorable vertical terrain/hard-armor matchups or when ZetBot mission access matters**. With a Ment already present, he favors **Lt70 over NCO73**. He **would not personally select a Wrecker in Vanilla** compared with the available Gamma/utility mix, **contrary to earlier cross-TAG value analyses and some Torchlight builds**. This is an explicit source disagreement, not a downgrade of verified profiles or a universal 'never take'.
+**Vanilla O-12 TAG counterpoint — [Robert Shepherd's faction focus (33–38m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1980s), reviewed 26 Oct 2026:**
+
+- A **Gamma HMG Lt50/1.5 + Ment CoC14** offers BS14/high Burst, Warhorse, prone deployment and competent Heavy Pistol close defense without spending **Zeta Lt70/2** points.
+- The **Zeta** remains an excellent TAG *ceiling* with AP HRMC, ARM8, **Climbing Plus** and its ZetBot Specialist, but this source argues its **20pt extra cost is worth it mainly on favorable vertical terrain/hard-armor matchups or when ZetBot mission access matters**.
+- With a Ment already present, he favors **Lt70 over NCO73**.
+
+He **would not personally select a Wrecker in Vanilla** compared with the available Gamma/utility mix, **contrary to earlier cross-TAG value analyses and some Torchlight builds**. This is an explicit source disagreement, not a downgrade of verified profiles or a universal 'never take'.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 

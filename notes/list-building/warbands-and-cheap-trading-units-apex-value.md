@@ -1,6 +1,13 @@
 # Warbands and Cheap Trading Units — N5.3 Apex, Value and Matchup Guide
 
-**O-12 new warband evidence — [Robert Shepherd's Vanilla faction focus (23–26m, 38–42m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1380s), reviewed 26 Oct 2026:** **Regular Varangian Guard12/0 (SMG + Chain + PH14 Smoke)** is a frequent 1–2-body starting purchase and can be run up to AVA4; the presenter prefers **13/0 Trench-Hammer** for one extra point if available, and **dislikes 13/0 Boarding Shotgun** because it forgoes the normal Chain template. At **32/0**, **Ioann Bann** is a *different premium assault tier*, not a cheap trader: **Irregular + Impetuous / No Cover** despite huge durability/3W forms; his **Chain Rifle(+1B), AP Heavy Pistol(+1B), Viral bow(+1SD), Smoke and CC** fork can defeat varied short-range reactions. **Legal Vanilla FT-01 Duo** with a Varangian can improve defensive dice; **Nimrod FTO** adds a Smoke/MSV2 shooter but is no guaranteed pure bonus. Older Hippolyta-first alternatives remain possible; speaker regards Ioann as frequently worth buying, but No Cover still exposes him. This is *O-12 Vanilla*, not the **Shindenbutai 30pt no-Smoke** variant or a license to transfer Irregular training.
+**O-12 new warband evidence — [Robert Shepherd's Vanilla faction focus (23–26m, 38–42m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1380s), reviewed 26 Oct 2026:**
+
+- **Regular Varangian Guard12/0 (SMG + Chain + PH14 Smoke)** is a frequent 1–2-body starting purchase and can be run up to AVA4; the presenter prefers **13/0 Trench-Hammer** for one extra point if available, and **dislikes 13/0 Boarding Shotgun** because it forgoes the normal Chain template.
+- At **32/0**, **Ioann Bann** is a *different premium assault tier*, not a cheap trader: **Irregular + Impetuous / No Cover** despite huge durability/3W forms; his **Chain Rifle(+1B), AP Heavy Pistol(+1B), Viral bow(+1SD), Smoke and CC** fork can defeat varied short-range reactions.
+- **Legal Vanilla FT-01 Duo** with a Varangian can improve defensive dice
+- **Nimrod FTO** adds a Smoke/MSV2 shooter but is no guaranteed pure bonus.
+- Older Hippolyta-first alternatives remain possible; speaker regards Ioann as frequently worth buying, but No Cover still exposes him.
+- This is *O-12 Vanilla*, not the **Shindenbutai 30pt no-Smoke** variant or a license to transfer Irregular training.
 
 **Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
@@ -140,7 +147,12 @@ Reliability has 3 separate factors: **(a) delivery** (free Impetuous Move, speed
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed warband/support conversion:** **Makaul Eclipse** moved Tohaa carriers even when its direct shooting failed (#217/#224); **McMurrough Smoke** enabled Hassassin anti-materiel D-Charges in #232; **Shaolin + Jing Qo** punished Kestrel's exposed support flank (#003); **Dāturazi Smoke + Yaogat MSV** was a credible Morat threat (#118), while **Chimera/Pupnik Eclipse** delivered mission boxes (#163). [#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#232](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+**Observed warband/support conversion:**
+
+- **Makaul Eclipse** moved Tohaa carriers even when its direct shooting failed (#217/#224)
+- **McMurrough Smoke** enabled Hassassin anti-materiel D-Charges in #232
+- **Shaolin + Jing Qo** punished Kestrel's exposed support flank (#003)
+- **Dāturazi Smoke + Yaogat MSV** was a credible Morat threat (#118), while **Chimera/Pupnik Eclipse** delivered mission boxes (#163). [#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#232](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Counterexamples:** #210's Bearpode consumed many Orders for a cheap REM; #216 notes **Varangian moving alongside Shona** sometimes slowed the real anti-materiel runner, even though it had useful Smoke/CC. [#210](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#216](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
 
