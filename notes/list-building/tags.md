@@ -73,7 +73,7 @@ A normal TAG is not a Specialist just because it is tough; check mission-specifi
 
 **Pricing:** points below are from specific current `sectorials/` files and represent **notable profiles**, not a claim that every faction has each option. A few uncommon profiles are left unpriced rather than guessing. TAG profiles can vary by sectorial (including NCO/LT, weapons and permitted Fireteams). Validate the chosen Army/Fireteam in its faction reference.
 
-## Tier lists — complete rostered TAG families
+## TAG tier distribution overview (grouped, not ordinal)
 
 | Tier | Apex / peak impact | Value / points efficiency |
 |---|---|---|
@@ -83,7 +83,7 @@ A normal TAG is not a Specialist just because it is tough; check mission-specifi
 | **C** | **Xeodron, Triphammer, Scarface & Cordelia, Anaconda** | **Sphinx, Maximus, Iguana, Anaconda** |
 | **D** | **—** | **—** |
 
-**Reading this correctly:** Sphinx at apex S / value C is *deliberate*: terrifying when hidden and uncontested, but 93 points and a Spitfire lacking AP is demanding. Wrecker at apex B / value S is the reverse: not a universal duel winner, but a low-cost template/HRL threat that leaves abundant support points. Rankings within a tier are **not strict ordinal positions**. **A TAG absent from your sectorial is not a list-building option**, however high its tier.
+**Reading this correctly:** Sphinx at apex S / value C is *deliberate*: terrifying when hidden and uncontested, but 93 points and a Spitfire lacking AP is demanding. Wrecker at apex B / value S is the reverse: not a universal duel winner, but a low-cost template/HRL threat that leaves abundant support points. The overview groups TAGs by broad tier; see the **ordinal TAG lists below** for individual positions. Within-tier differences remain close and mission-dependent. **A TAG absent from your sectorial is not a list-building option**, however high its tier.
 
 ## Individual TAG recommendations: when each is best
 
@@ -204,3 +204,93 @@ A normal TAG is not a Specialist just because it is tough; check mission-specifi
 **Required support accounting:** Name the **Engineer/Servant, second Specialist, repeater clearance, anti-CC/smoke screen and final-turn Orders** before rating TAG cost-effectiveness. Do not interpret unplayed **Avatar** (#155) or **Cutter** (#169) alternates as victories.
 
 [Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+## Cross-faction ordinal TAG rankings
+
+The rankings below expand the original S/A/B/C tier distribution into **one row per TAG**. Ordinal positions preserve the existing within-tier shortlist order as an editorial tie-break, not measured win rates. Apex and points value are ranked **separately**; compare exact legal profiles in the faction tables above.
+
+### Apex — unit-by-unit ranking
+
+| # | Tier | TAG |
+|---|---|---|
+| 1 | **S** | **Avatar** |
+| 2 | **S** | **Marut** |
+| 3 | **S** | **Cutter** |
+| 4 | **S** | **Zeta** |
+| 5 | **S** | **Sphinx** |
+| 6 | **A** | **Agamemnon** |
+| 7 | **A** | **Uhlan** |
+| 8 | **A** | **Jotum** |
+| 9 | **A** | **Tikbalang** |
+| 10 | **A** | **Seraph** |
+| 11 | **A** | **Szalamandra** |
+| 12 | **A** | **Gator** |
+| 13 | **A** | **Raicho** |
+| 14 | **A** | **Juggernaut** |
+| 15 | **A** | **Maghariba** |
+| 16 | **A** | **Blue Wolf** |
+| 17 | **A** | **Caskuda** |
+| 18 | **A** | **Lizard** |
+| 19 | **A** | **Squalos Mk-II** |
+| 20 | **A** | **Overdron** |
+| 21 | **B** | **Maximus** |
+| 22 | **B** | **Dragões** |
+| 23 | **B** | **Stigmata** |
+| 24 | **B** | **Wrecker** |
+| 25 | **B** | **Gūijiă** |
+| 26 | **B** | **O-Yoroi** |
+| 27 | **B** | **Longwang** |
+| 28 | **B** | **Gorgos** |
+| 29 | **B** | **Chernobog** |
+| 30 | **B** | **Bultrak** |
+| 31 | **B** | **Mechazoid** |
+| 32 | **B** | **Shakush** |
+| 33 | **B** | **Gecko** |
+| 34 | **B** | **Iguana** |
+| 35 | **C** | **Xeodron** |
+| 36 | **C** | **Triphammer** |
+| 37 | **C** | **Scarface & Cordelia** |
+| 38 | **C** | **Anaconda** |
+
+### Points value — unit-by-unit ranking
+
+| # | Tier | TAG |
+|---|---|---|
+| 1 | **S** | **Tikbalang** |
+| 2 | **S** | **Squalos Mk-II** |
+| 3 | **S** | **Agamemnon** |
+| 4 | **S** | **Overdron** |
+| 5 | **S** | **Lizard** |
+| 6 | **S** | **Zeta** |
+| 7 | **S** | **Wrecker** |
+| 8 | **S** | **Xeodron** |
+| 9 | **A** | **Uhlan** |
+| 10 | **A** | **Stigmata** |
+| 11 | **A** | **Gator** |
+| 12 | **A** | **Szalamandra** |
+| 13 | **A** | **Caskuda** |
+| 14 | **A** | **Maghariba** |
+| 15 | **A** | **Seraph** |
+| 16 | **A** | **Gorgos** |
+| 17 | **A** | **Raicho** |
+| 18 | **A** | **Gecko** |
+| 19 | **A** | **Shakush** |
+| 20 | **A** | **Chernobog** |
+| 21 | **A** | **Blue Wolf** |
+| 22 | **B** | **Marut** |
+| 23 | **B** | **Cutter** |
+| 24 | **B** | **Avatar** |
+| 25 | **B** | **Jotum** |
+| 26 | **B** | **Juggernaut** |
+| 27 | **B** | **O-Yoroi** |
+| 28 | **B** | **Gūijiă** |
+| 29 | **B** | **Bultrak** |
+| 30 | **B** | **Longwang** |
+| 31 | **B** | **Mechazoid** |
+| 32 | **B** | **Triphammer** |
+| 33 | **B** | **Scarface & Cordelia** |
+| 34 | **B** | **Dragões** |
+| 35 | **C** | **Sphinx** |
+| 36 | **C** | **Maximus** |
+| 37 | **C** | **Iguana** |
+| 38 | **C** | **Anaconda** |
