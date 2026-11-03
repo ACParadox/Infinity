@@ -20,7 +20,7 @@
 - **Other cross-faction value omissions:**
   - [**Beasthunter HFT + Panzerfaust Camo/FD(+20) 15/0:**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L75) **A+ apex / S value** as a hidden forward anti-heavy/short-template fork. The **9/0 FTO** that joins Volunteers does *not* have that same concealment/mobility package. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
   - [**Denma Connolly 12/0:**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L108) an **A-tier-type** Regular/Impetuous Smoke/Chain/CC trade using the same printed 12-point package. Its Order is already Regular in Caledonia, so Wallace does not regularize it. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L84) **S cheap recovery value** where a low-cost Regular Doctor matters; the **Motorized 19/0** version buys reach and Smoke instead. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L86) **S cheap recovery value** where a low-cost Regular Doctor matters; the **Motorized 19/0** version buys reach and Smoke instead. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Particularly useful Fireteams
 
