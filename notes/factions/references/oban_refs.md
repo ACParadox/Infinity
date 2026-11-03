@@ -4,7 +4,7 @@
 
 ## Best transcript-backed source order — updated 2026-10-23
 
-Source titles and direct recording links extracted from the original table in [Ōban tactics](../oban.md#transcript-backed-source-takeaways--updated-2026-10-23). The `Ref #` matches the companion takeaway/evidence table.
+Source titles and direct recording links extracted from the original table in [the transcript-backed source takeaways](#transcript-backed-source-takeaways--updated-2026-10-23). The `Ref #` matches the companion takeaway/evidence table.
 
 | Ref # | Source |
 |---|---|
@@ -17,6 +17,23 @@ Source titles and direct recording links extracted from the original table in [�
 | 7 | **[Champion of Terra — Svalarheima vs Ōban](https://www.youtube.com/watch?v=hshtP521nn4)** / [GMG — Corregidor vs Ōban (Supremacy)](https://www.youtube.com/watch?v=tatfQSad8Bs) |
 | Historical | **Historical / extra:** [MetaChemistry E90 — Faction Takedown: JSA](https://open.spotify.com/episode/7w3fhxekNrPWyKvwJQb5HL) (May 2024); [Tactical Awareness S3E18 — Vanilla JSA](https://open.spotify.com/episode/4IoGC1kGYyuVFhLXOjcEle) (Apr 2025); [Loss of Lieutenant E142 — N5 TAG Tier List](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN) (Apr 2025). |
 
+
+## Transcript-backed source takeaways — updated 2026-10-23
+
+Source titles, recordings and numbered IDs appear in the [primary source order](#best-transcript-backed-source-order--updated-2026-10-23) above. Match the `Ref #` below to that index.
+
+| Ref # | Best reason to use it | Evidence caveat |
+|---|---|---|
+| 1 | Best **single sectorial overview**: why Tankō Disco is better than raw BS13, how to use Ryūken Decoy/Minelayer, and why a linked **Kuroshi + Aragoto + Rui Shi** often does more ranged work than a costly all-samurai team. Strong *pro* argument for the MSV2 Rui Shi smoke-shooting Haris and *against* overpaying Musashi just for another CC killer. | **YouTube MCP transcript reviewed**; original N5 snapshot, not September 2026 Army. |
+| 2 | Three distinct list constructions, including **Shinobu / Shikami / Yuan Yuan** aggression, **two O-Yoroi** as an alternative, cheap **Garon Smoke GL**, **Pangguling Baggage**, and Karakuri strength. Hosts debate whether extra Musashi is necessary and how many elite CC pieces fit. | **YouTube + Podcast MCP transcripts reviewed.** Auto-captions garble names; older list codes and exact availability must be rechecked. |
+| 3 | Counterpoint on **Shikami Duo versus a single Shikami**, high cost of good long-range HMG alternatives, HI hacker exposure, static **Garon** AROs, and whether cheap REMs deserve slots. | **YouTube MCP transcript reviewed**, machine-translated/garbled: use for high-level opinions, **not** quotations/profile numbers. |
+| 4 | **Most recent shared-JSA competition account:** the winner credits cheap **Tankō Disco** with opening objective routes; reports strong **Karakuri Mk12** when suitably placed; describes spending substantial orders on *reloading Disco* and a mission win using Musashi for objectives rather than gratuitous kills (~18–22, 33–34, 62–64min). | **Podcast MCP transcript reviewed. Winner played *Vanilla JSA*, not Ōban.** Its Tankō/Karakuri principles transfer, but Hatamoto/Iōann Bann, JSA Fireteams/AVA and exact list construction may not. One player's tournament account ≠ global pick statistics. |
+| 5 | **Opposing rankings:** 2025 presenters think Ōban/Shinden closely matched, with Ōban's Hidden tools less dependent on one hackable gun. Summer 2026 discussion puts JSA Ōban in a **solid middle B-tier**, notes Tankō mono CC can disappoint and **cheap Domaru** may make an elite Musashi delivery unnecessary. | **Both YouTube MCP transcripts reviewed.** Tier commentary is subjective and 2026 video predates pinned September rules. |
+| 6 | **Best shared-faction Rui Shi context**: MSV2 Spitfire as smoke-shooting gun versus MSV1 Red Fury/Mine Dispenser as cheaper suppression/control; explores real **EVO, Engineer, group-slot and order overhead** of supporting REMs in JSA and other factions. | **YouTube MCP transcript reviewed.** Yu Jing/Shinden/Vanilla comparisons are *roles*, not transfer of links or AVA into Ōban. |
+| 7 | Actual table examples: **O-Yoroi LT + CoC + Shikami + Ryūken HRL + Garon/Robio/Pangguling** versus PanO, and TAG-versus-TAG terrain/activation trade-offs against Corregidor. The Ōban player explicitly wants O-Yoroi advancing into Suppressive Fire while Shikami runs specialist missions. | **Both YouTube MCP transcripts reviewed**, single games with visible tactical mistakes; do not generalize results into measured win rates. |
+| Historical | Historical opposing-player viewpoint, shared REM/TAG principles and cross-faction **opportunity costs**. | **Podcast MCP transcripts checked.** N4 JSA is not a modern Ōban guide; no reliably attributable O-Yoroi-specific ranking was recoverable from E142 transcript, so it is **not** cited as a Gorgos/O-Yoroi head-to-head. |
+
+**Evidence precedence:** committed N5.3 source for exact rules/AVA/profiles; actual video/podcast transcript for explicitly expressed views; battle reports for the specific games they show; interpretation marked as such. The 2025 videos generally **predate** the September 2026 roster; strong tactics can survive updates even where point values do not.
 
 ## N5.3 tactical cross-references, battle reports and purchasing audit
 
