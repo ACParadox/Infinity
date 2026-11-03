@@ -117,7 +117,7 @@ Typical jobs include:
 
 Do not pay premium prices for a model whose main purpose is to die while trading. The cheaper the trading piece, the more favorable the exchange can become.
 
-**Exception when buying multiple jobs:** **Motorized Yojimbo 20/0** (or mutually exclusive foot **19/0**) is not a substitute for a 5–10pt suicide warband. Its **Smoke, CrazyKoala Minelayer, NWI and CC24/MA4/DA** can protect an approach and threaten a later charge; evaluate the Orders/mission pressure from all those roles. He remains **Irregular+Impetuous**, has no specialist role, and the S4 motorcycle must have a safe route. Compare the [cross-faction Warband tiers](warbands-and-cheap-trading-units-apex-value.md).
+**Exception when buying multiple jobs:** **Motorized Yojimbo 20/0** (or mutually exclusive foot **19/0**, in **Shindenbutai/Ōban**; not the pinned Vanilla JSA roster) is not a substitute for a 5–10pt suicide warband. Its **Smoke, CrazyKoala Minelayer, NWI and CC24/MA4/DA** can protect an approach and threaten a later charge; evaluate the Orders/mission pressure from all those roles. He remains **Irregular+Impetuous**, has no specialist role, and the S4 motorcycle must have a safe route. Compare the [cross-faction Warband tiers](warbands-and-cheap-trading-units-apex-value.md).
 
 ## Cheerleaders
 
