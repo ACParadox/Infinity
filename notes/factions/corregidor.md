@@ -6,7 +6,12 @@
 
 ## Airborne DZ assault workshop — Infinity the Dante, 28 October 2026 transcript audit
 
-**Source:** [Infinity the Dante — *Deployment Zone Assault: Drop Troop Tactics (Infinity N5)*](https://www.youtube.com/watch?v=fzvUQPWBQKM) (~30m, complete timestamped transcript read). The demonstration compares **Hellcat, Bearcat, Carlota + Moriarty and Tomcat** against one **Svalarheima DZ** built to counter airborne entry (Pilot-X and RacerBots, an upgraded Thunderbolt TR REM, Karhu, Varg/Disco support, Shona, a linked Knight of Justice and command Decoy). **This is a single commentator's illustrative board, not a statistically established ordering of units or a legal combined Corregidor roster.** Use [current pinned Corregidor profiles](../../sectorials/nomads/corregidor.md), not verbal/auto-captioned loadout labels.
+**Airborne case-study source:** [Infinity the Dante — *Deployment Zone Assault: Drop Troop Tactics (Infinity N5)*](https://www.youtube.com/watch?v=fzvUQPWBQKM) (~30m, complete timestamped transcript read).
+
+- **Compared Corregidor attackers:** Hellcat, Bearcat, Carlota + Moriarty, and Tomcat, each tested as an alternative.
+- **Illustrative Svalarheima DZ defense:** Pilot-X + RacerBots; upgraded Thunderbolt TR REM; Karhu; Varg/Disco support; Shona; linked Knight of Justice; command Decoy.
+
+This is one commentator's illustrative board, **not** a statistically supported ranking or a legal mixed Corregidor roster. Verify profiles against the [pinned Corregidor reference](../../sectorials/nomads/corregidor.md), not automatic captions.
 
 ### Before bringing an airborne attacker: choose the job (0:00–5:30)
 
@@ -28,7 +33,13 @@
 | **Tomcat Paramedic17/0 / Engineer22/0 / Deployable Repeater19/.5 — Deepspace** | **Standard Parachutist + Climbing Plus**, no arbitrary enemy-DZ edge arrival, no Combat Jump. Distinct specialist and Repeater profiles. | **~25:30–27:40:** on this specific well-watched DZ, both side edges are covered by key guns. **Do not enter merely because off-table Orders are available.** Keep the Tomcat unrevealed until the guard is removed, a safer flank opens or a later scoring/rescue task becomes possible. | Cannot cross blocked/guarded entry geometry just by arriving; the **19pt DR Tomcat is not simultaneously the 17pt Paramedic**. |
 | **Meteor Zond — 19/0 BSG or 21/0 LSG/E-M** | **Combat Jump/Parachutist + native Repeater, Sensor, FO, Super-Jump**, not a standalone high-BS gun. | **~26:00–28:00:** video regards this harder to insert at the illustrated landing pockets; its real purpose is **Hacking Area projection or objective setup**, not copying a Hellcat's pure kills. | Hackable REM and exposed landing can cause immediate loss; no *free* kill from a Repeater without a living cooperating Hacker. |
 
-**Division legality:** **Bearcats = Surface**. **Hellcats, Tomcats and Carlota = Deepspace**. Video compares *alternative attackers against the same imaginary DZ*; **never combine Surface-exclusive Bearcat with Deepspace-exclusive Hellcat/Carlota/Tomcat in the same standard Corregidor list**. Check the [full current Army/Fireteam reference](../../sectorials/nomads/corregidor.md). Exact Combat Jump roll modifiers are not inferred from the video.
+**Division legality for those attackers:**
+
+- **Surface:** Bearcats.
+- **Deepspace:** Hellcats, Tomcats and Carlota.
+- **Not legal:** combining Surface Bearcat with Deepspace Hellcat/Carlota/Tomcat in the same standard CJC list.
+
+The video compares alternatives against one imaginary DZ; check the [current Army and Fireteam chart](../../sectorials/nomads/corregidor.md). The video does not establish exact Combat Jump roll modifiers.
 
 ### How to attack and defend a correctly screened DZ (4:00–12:00, 27:00–29:40)
 
@@ -50,6 +61,14 @@
 - **Do not auto-buy Guided:** Moran ×2 costs **1 SWC**, Vertigo **1.5**, Jazz **0.5** = **3 SWC before a main SWC gun**. Post-Mazebreaker list flexibility allows strong non-Guided builds; include the missile only where repeated Spotlight or Coyote/BambaBot Forward Observer tagging is a credible plan.
 - **Order discipline:** Hacking + landing forces + Irregular bandits/Diablos/McMurrough + Tactical Awareness and multiple small FTs produce impressive *apparent* order economy, but not a single transferable pool. Identify which group can pay for the decisive attacking sequence and which units actually generate Regular Orders.
 
+**Visibility plans with distinct purposes:**
+
+- **Jaguar Smoke 10/0 + Intruder MSV2:** aggressive smoke-assisted shooting.
+- **Jazz FTO HD+ 22/.5** or **Jazz + Billie 25/.5**, with **Moran Repeaters:** selective White Noise versus visors and Marksmanship.
+- **Shifta CoC + Disco 21/0** or **Lobo Disco 20–24/0:** Eclipse crossing and close-range mission progress in the relevant legal division.
+
+Smoke/MSV wins a lane by beating the target; Disco can bypass it instead. Do not buy all three engines for one small Order pool. [Whole-game comparison](../list-building/vision-control-units-apex-and-value.md).
+
 ## Pick a division and a plan
 
 | Division | Distinctive options | Why select it | Failure modes |
@@ -58,7 +77,18 @@
 | **Surface** | **Coyotes/BambaDroids, Territorials, Vigilantes, Shifta, Bearcats**; Surface **Gecko–Wildcat** and **Iguana Armored Duo** | Midfield **sensor/FO/Counterintelligence**, Strategic Deployment, efficient Tactical Awareness troops, **Bearcat attack from reserve**, and often an Iguana as independent firepower. | Cannot simply add a Gator or Deepspace Evader/Hellcat to this team; needs separate repair/hacking coverage. Bearcat is less ambiguous in reserve than a mix of airborne threats. |
 | **Both** | Moran, Jazz, Intruder, Jaguars, Mobile Brigada, Alguaciles, Wildcats, Vostok FTO, Stempler wildcard, Gecko, Iguana, Correctional units | Repeater control + mixed FTs with medical/support pieces + smoke/MSV + close-range roadblocks | Do not assume a particular FT row exists in *every* division; see actual chart. |
 
-**Important team facts pinned to N5.3:** **Core 1, Haris 1, Duo unlimited**. Main Surface and Deepspace Corregidor FTs permit **Core/Haris/Duo** and select required-choice anchors; **Surface Gecko FT** pairs up to three Geckos with max one **Wildcat**, whereas **Deepspace Gecko FT** can include up to one **Evader**. **Surface Armored** Duo is **Iguana + Wildcat/BambaDroid** family; **Deepspace Armored** Duo is **Gator + Gecko/Wildcat** family. **Stempler** can Wildcard in either without an FTO-only restriction; **Vostok FTO and Jazz FTO** specifically are restricted. **Shifta** is Surface Wildcard only; **TAG-Treiber** joins main Deepspace FT (not every Gecko/TAG group). The **Correctional** FT has its own Lobo/Diablo/Jaguar chart. A "counts as" or FTO label cannot substitute for membership/required rules.
+**Important N5.3 Fireteam constraints (Core 1, Haris 1, unlimited Duo):**
+
+- **Standard Surface/Deepspace teams:** Core/Haris/Duo, each subject to its required-choice anchor.
+- **Surface Gecko team:** up to three Geckos and at most one Wildcat.
+- **Deepspace Gecko team:** may include up to one Evader.
+- **Surface Armored Duo:** Iguana with eligible Wildcat/BambaDroid; **Deepspace Armored Duo:** Gator with eligible Gecko/Wildcat.
+- **Stempler:** Wildcard in either division without FTO-only restriction.
+- **Vostok FTO and Jazz FTO:** use their actual restricted Fireteam entries.
+- **Shifta:** Surface-only Wildcard; **TAG-Treiber:** joins the relevant main Deepspace team, not every TAG or Gecko team.
+- **Correctional team:** separate Lobo/Diablo/Jaguar chart.
+
+A "counts as" or FTO label never overrides required members or the actual Fireteam chart.
 
 ## Three repeatable list designs (not final Army exports)
 
@@ -99,6 +129,15 @@
 | **Hellcats / Tomcats / Carlota (Deepspace)** | **19pt Combat Jump+Super-Jump Hellcat** for cheap backline pressure; **17pt Tomcat Paramedic** for late objective climbing without extra SWC; Engineer Tomcat/Carlota for remote repairs from unexpected board edges. | **WIP12 dissent:** more expensive non-Combat-Jump Tomcats often compare poorly to Hellcats, except specific objectives/Engineer missions; reserve entrance timing and specialist path make the difference. |
 | **Sombras (Deepspace)** | Tougher NWI camo skirmisher for missions needing independent Forward Observer or KHD with more margin than Moran. | 29–40 pts, still modest firepower. WIP12 and Dante view as a niche/costly luxury versus cheaper Moroccan-style network + other specialists; use when durable forward presence specifically wins. |
 
+**Specialist toolbox distinctions (source-backed):**
+
+- **Evader 35pt/1.5SWC AP Spitfire Engineer:** WIP13 repair, Firewall(-3)/TinBot and Deactivator with a serious gun. The **31pt/1SWC AP Spitfire** is a **Specialist Operative, not an Engineer**.
+- **Evader 24pt BSG Engineer:** lower-cost choice when the main job is repairing a forward Gecko/REM.
+- **Gecko + Evader + Stempler:** strong Deepspace *team-level* toolbox (WIP12 E208), not a single-model points discount.
+- **Coyote 23pt/0SWC KHD + Carbonite FTO:** Surface-only team profile.
+
+Compare the [whole-game toolbox roles and opposing evidence](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
 ## TAGs: use-case first, not a tier label
 
 There are **three ordinary Corregidor TAG families** in the pinned combined roster; **division and Fireteam restrictions determine which combinations can be fielded**.
@@ -109,7 +148,13 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 | **Gecko** (both; AVA4) | **49pt Vulkan Shotgun/0SWC**, **54pt MULTI Marksman/1SWC**, **55pt Mk12/1SWC**; 3W, ARM6, TacAware, RobbyBot. **Best use:** a compact midrange TAG working objectives in a **Surface Gecko–Wildcat** team or **Deepspace Gecko–Evader** team, optionally with Stempler to complete a Haris. Dual Gecko/TacAware lets a heavy team do more per turn. | **WIP12 dispute:** the **Vulkan Shotgun** looks lethal but its short range forces the *whole Haris* into a dangerous part of the table. One panelist advocates trying it in room control/saturation; another tried it and found the Evader did all the work while Vulkan never reached its preferred engagement. Start with **MMR** when you need range and DA ammo. |
 | **Iguana** (Surface armored FT; ordinary roster AVA2) | **64pt Mine Dispenser** vs **68pt BS Attack(-3) variant**, both **1.5SWC**, 4W source TAG with **Repeater, Tactical Awareness, AP HMG + HFT(+1B), Escape System/Operator**. **Best use:** independent long-range gun and mobile repeater that persists as an Operator after the TAG body is defeated. **Surface Armored Duo** options include a Wildcat or a BambaDroid (subject to Coyote dependency), creating an unusual protected route. | **Strong disagreement:** Loss of Lieutenant in April 2025 *before major changes* called it weak and too fragile for its cost; WIP12 **post-May 2026** strongly favors **68pt BS Attack(-3)** as a capable attacker; some still select the 64pt mine variant when four points/control tools matter. **Current pinned source** distinguishes the two variants; never repeat the old “two-wound Iguana” claim as present rules. Escape Operator is **not automatically a mission Specialist**. |
 
-**TAG support package:** 18pt **Clockmaker WIP15** + **Zondbot**, or Deepspace **Evader Engineer** in a legal Gecko team, plus Baggage to replenish expendables. **TAG-Treiber** is an additional optional specialist/support profile; TAG-com/pilot benefits are not assumed automatically from fielding the TAG. If the opponent can easily reach a hacker through your TAG's own Repeater (especially Iguana), ensure friendly KHD/White Noise/Firewall backstop.
+**TAG support package:**
+
+- **Clockmaker WIP15 18pt + Zondbot:** independent repair reach.
+- **Evader Engineer (Deepspace):** in a legal Gecko team for forward repair and specialist duties.
+- **Baggage REM:** replenishes expendables where the rules permit.
+- **TAG-Treiber:** optional purchased specialist/support; TAGCom or pilot benefits are not free automatic TAG features.
+- **KHD / White Noise / Firewall:** protect a TAG whose Repeater, especially Iguana's, can let enemy hackers reach it.
 
 **Cross-sectorial comparison:** The [Vanilla Nomads guide](vanilla-nomads.md) evaluates **Szalamandra, Gator and Gecko** and [Robert’s Nomads faction focus](https://www.youtube.com/watch?v=dOtvw5FKOfo) discusses wider TAG choice. **Szalamandra and Go-Pod are not standard Corregidor picks.** Other Nomad sectorials’ Fireteam bonuses do not apply to CJC.
 
@@ -141,6 +186,17 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 - **Dedicated last-turn reserve:** **Bearcat (Surface)** vs **Tomcat/Hellcat/Carlota (Deepspace)**; choose based on where mission buttons are and whether Combat Jump risk is preferable to predictable Parachutist board-edge entry. **Tomcat 17pt Paramedic** is an exceptionally inexpensive late-scoring engineer/medical-adjacent piece, not a general main gun.
 - **Two order groups:** 2026 WIP12 example uses **large main group** for normal shooting and hacking, plus a **small Haris with Gecko + Evader + TacAware Stempler**; the latter has its own two TacAware activations without stealing as many Regular Orders from the main group. Always calculate *usable* orders, not raw bodies.
 
+**Other support multipliers by profile:**
+
+- **Mobile Brigada 33/0 Firewall(-6):** premium teamwide TinBot defense.
+- **Evader 23/0 Firewall(-3):** cheaper Deepspace link protection and scoring; different from the 35/1.5 Engineer + AP Spitfire profile.
+- **Shifta 17/0 Strategic Deployment:** advances its *legal Surface* team +4″ and remains a scoring/minelayer body.
+- **Salyut 8/0 Baggage:** inexpensive Regular Order, Repeater and resupply; **14/.5 EVO** only if the Vostok/REM/AD plan will use supportware.
+- **Vigilante 25–29 Counterintelligence:** debated; WIP12 E208 often prefers Shifta or a 15pt Moran. Forward Deployment is not Infiltration.
+- **TAG-Treiber 11–12:** same-group TAG support only via printed bonuses.
+
+[Support multiplier comparisons](../list-building/force-multipliers-special-abilities-apex-value.md).
+
 ## Disagreements worth preserving
 
 1. **Did the Surface/Deepspace split help?** WIP12 initial reaction: *negative*, Corregidor lost old remotes and access to half the new models compared to unsplit OSS. Later verdict: **the new Fireteam structure alone is a major improvement**, and two tactical versions broaden choices. Pros: distinctive builds, lower SWC commander tax. Cons: you cannot combine Bearcat+Coyote+Shifta with Evader+Gator+Hellcat; some opponent “hidden reserve” uncertainty is lost. [Official purpose and model-preservation argument](https://infinityuniverse.com/en/news/army-update-mazebreaker).
@@ -153,6 +209,14 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 8. **Intruder sniper vs HMG/KHD:** June 2026 reviewer calls **same-cost special-die sniper** a near-must; counterclaim: active HMG range and the infiltrating KHD's classification toolkit matter in certain missions. White Noise/Albedo and movement/corner exploitation still beat a static sniper.
 9. **Vigilantes vs cheaper Moran:** pre-release advocates value Counterintelligence, unusual sensor/turret/Camo; post-release skeptics call them **overpriced Forward Deployment** troops competing with two already-efficient Morans. Buy only for the additional job.
 10. **Lobo + Diablo melee raid:** Cheap disruptive melee units benefit from Correctional teams, but **current Diablos are Irregular/Impetuous** per source—do not blindly trust the transcript calling them Regular. That changes every group’s order arithmetic.
+
+**Guided versus direct fire, in list-building terms:**
+
+- **Two Moran Repeaters (15/.5 each) + Jazz HD+ (22–25/.5) + Vertigo (16/1.5)** consume **3 SWC** before a main gun; their turn-zero network remains useful without a missile.
+- **Tactical Awareness S3E23** favors missile area denial but cautions about repeated Spotlight/Save/Reset/Dodge expenditure.
+- **WIP12 E208 (2026)** favors the new Surface/Deepspace direct-fire alternatives over treating Vertigo as mandatory. Choose the missile only if the network would stand on its own.
+
+[Guided and speculative-fire alternatives](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
 ## Checklist for a 300-point pair of tournament lists
 
@@ -168,27 +232,15 @@ There are **three ordinary Corregidor TAG families** in the pinned combined rost
 - [ ] Test against **anti-hacking, Stealth, MSV/White Noise, mine-clearing, and boarding/airborne intrusion**, rather than a passive opponent.
 - [ ] Do not field absent **Tsyklon, Lunokhod, Raveneye or Go-Pod** in current regular CJC lists. Older source army examples require rebuilds.
 
-**Default starting pair (concepts, not verified Army codes):** **Deepspace:** Intruder + Jazz + 2 Morans + Gecko/Evader/Stempler Haris + cheap late Tomcat or Hellcat. **Surface:** Intruder + Jazz + 2 Morans + Territorial/Stempler/Shifta pressure + Coyote+BambaBot + Bearcat reserve; swap between that and **Iguana** if the mission demands heavy sustained direct fire. Adjust to actual mission objectives, terrain and legal points/SWC/group limits.
+**Two starting list concepts, not verified Army codes:**
 
-## Vision control — role/value update (23 October 2026)
+- **Deepspace:**
+  - **Intruder + Jazz + two Morans** as direct fire and network spine.
+  - **Gecko + Evader + Stempler Haris** for mobile mission work.
+  - **Tomcat or Hellcat** as late reserve.
+- **Surface:**
+  - **Intruder + Jazz + two Morans** as core pressure.
+  - **Territorial + Stempler + Shifta** as a legal support/advance package.
+  - **Coyote + BambaBot** and **Bearcat** reserve; consider **Iguana** instead for sustained heavy direct fire.
 
-- **Three distinct solutions:** **Jaguar Smoke 10/0 + Intruder MSV2** for aggressive shots; **Jazz FTO HD+ 22/.5 or Jazz+Billie 25/.5 + Moran Repeaters** for selective White Noise vs MSV/Marksmanship; **Shifta CoC + Disco 21/0** or **Lobo Disco 20–24/0** for MSV-proof crossing and close attack/mission progression.
-- **Counterpoint:** Smoke/MSV removes an ARO permanently if it wins the fight; Disco bypasses it for an objective at lower attack risk. Don't buy each engine if they all spend the same small Order pool. Correctional/Surface/Deepspace permissions differ. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Evader AP Spitfire Engineer35/1.5** is a genuine competent gun+WIP13 Engineer+TinBot(-3)/Deactivator toolbox (Dante transcript); **31/1 AP Spitfire Evader is Specialist Operative, NOT Engineer**. **24pt BSG Engineer** is usually better value if the actual job is repairing a forward Gecko/REM. **Gecko+Evader+Stempler** (WIP12 E208) has very high *module* utility, but not a single-model discount; it ties up resources and a legal Deepspace formation. **Coyote FTO KHD+Carbonite23/0** is Surface-only FTO.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Guided apex/controversy:** **Moran Repeater15/.5 ×2 + Jazz HD+22–25/.5 + Vertigo16/1.5** uses **3 SWC** before a main gun; its turn-zero network works even without missiles. Tactical Awareness S3E23 favors missile area denial but critiques excessive Spotlight/Save/Reset/Dodge rolls. **WIP12 E208 (2026)** stresses new Surface/Deepspace direct guns make old 'mandatory Vertigo' doctrine obsolete. Missile only when network would already be useful.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**TinBot:** Mobile Brigada **33/0 Firewall(-6)** is premium teamwide anti-hacking; **Evader 23/0 Firewall(-3)** is lower-cost Deepspace link protection and can score, whereas 35/1.5 Engineer+AP Spitfire is a different loadout. **Shifta 17/0 Strategic Deployment** brings its *legal Surface* team +4″ at setup and remains a scoring/minelayer body. **Salyut8/0 Baggage** buys cheap Regular+Repeater/reload; **14/.5 EVO** only where Vostok/REM/AD actively benefits. **Vigilante25–29 Counterintelligence** is contested: WIP12 E208 values Shifta but sees premium Vigilante as hard to justify over 15pt Moran; its FD is not Infiltration. TAG-Treiber11–12 supports same-group TAG only by exact printed bonus.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
+Adjust for mission objectives, terrain, SWC, points, Order groups and division permissions.
