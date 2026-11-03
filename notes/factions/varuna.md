@@ -43,17 +43,24 @@ Across current N5 discussion, redesign analysis, tournament-list material and co
 - **Machinist** when the list contains TAGs, REMs or expensive repairable pieces;
 - **Cutter or Squalos Mk-II** as optional centerpiece architectures rather than mandatory faction identity.
 
-The most important recurring pattern is that **Zulu + Montesa + ORC + Kamau** appears more consistently in current N5 discussion than “Cutter + giant Kamau link.”
+The recurring N5 foundation is often a combination of:
+
+- **Zulu-Cobra**;
+- **Montesa**;
+- **ORC**;
+- **Kamau**.
+
+It appears more consistently than a **Cutter with an oversized Kamau link**.
 
 ---
 
-# Zulu-Cobra
+## Zulu-Cobra
 
 Zulu-Cobra is probably the closest thing Varuna has to a genuine **auto-consider**.
 
 The important point is not that one Zulu profile is mandatory. It is that almost every profile solves a useful Varuna problem.
 
-## Sensor / Jammer
+### Sensor / Jammer
 
 This is the default board-control Zulu.
 
@@ -75,7 +82,7 @@ The Zulu does not have to kill models to be valuable. **Denying clean movement i
 
 ---
 
-## Pitcher / Hacker Zulu
+### Pitcher / Hacker Zulu
 
 Do not take this merely because Varuna can field a Hacker.
 
@@ -90,7 +97,7 @@ It is less attractive if the hacking network is otherwise shallow.
 
 ---
 
-## MULTI Marksman / X-Visor Zulu
+### MULTI Marksman / X-Visor Zulu
 
 This is one of the more easily overlooked Zulu profiles.
 
@@ -109,13 +116,13 @@ A useful rule:
 
 ---
 
-# Kamau
+## Kamau
 
 Kamau remain fundamental to Varuna, but current Varuna should not be understood as “build the army around a Kamau Core.”
 
 Their value now comes from being **excellent components inside mixed teams**.
 
-## MSV2 MULTI Sniper
+### MSV2 MULTI Sniper
 
 Still a signature long-range roadblock.
 
@@ -130,7 +137,7 @@ Do not deploy it merely because Varuna is “supposed” to have one. If the tab
 
 ---
 
-## HRL Kamau
+### HRL Kamau
 
 A strong alternative when you want:
 
@@ -143,7 +150,7 @@ The HRL often fits more naturally than the MSR when points are tight or the rest
 
 ---
 
-## Paramedic / Tactical Awareness Kamau
+### Paramedic / Tactical Awareness Kamau
 
 This is a very useful **active Fireteam utility** profile rather than a static ARO piece.
 
@@ -159,7 +166,7 @@ This is one of the profiles that demonstrates why current Varuna should not redu
 
 ---
 
-## Sensor / Triangulated Fire Kamau
+### Sensor / Triangulated Fire Kamau
 
 Worth considering when:
 
@@ -172,7 +179,7 @@ This can reduce the need to rely on a Pathfinder for every Sensor job.
 
 ---
 
-# Montesa
+## Montesa
 
 Montesa appears to be one of the biggest winners of the N5 Varuna redesign.
 
@@ -185,7 +192,7 @@ Its importance comes from the combination of:
 - useful Fireteam access;
 - strong efficiency for the role it performs.
 
-## FTO Montesa
+### FTO Montesa
 
 The FTO Paramedic / Blitzen style profile is one of the most coherent Varuna glue pieces.
 
@@ -196,7 +203,7 @@ Use it when you want:
 - strong reactive E/M deterrence;
 - a close/mid-range body that complements a longer-range Kamau.
 
-### Important +1SD note
+#### Important +1SD note
 
 Do **not** describe the Montesa as simply having “Burst 3 in ARO.”
 
@@ -204,7 +211,7 @@ Its Shadow Dice improve the reliability of the reactive roll, but they are not o
 
 ---
 
-## Motorized Montesa
+### Motorized Montesa
 
 The bike is a different architecture.
 
@@ -225,7 +232,7 @@ A useful distinction is:
 
 ---
 
-# Varuna ORCs
+## Varuna ORCs
 
 Do not import generic ORC prejudice into Varuna.
 
@@ -249,7 +256,7 @@ The key listbuilding lesson is:
 
 ---
 
-# Helots
+## Helots
 
 Helots remain classic Varuna defensive efficiency.
 
@@ -262,21 +269,21 @@ A Helot succeeds when it:
 - makes an opponent spend Orders clearing a cheap model;
 - protects the real army by creating uncertainty and pathing cost.
 
-## How many?
+### How many?
 
-### One Helot
+#### One Helot
 
 Very easy to justify.
 
 Use it as a cheap defensive speed bump that creates disproportionate reactive friction.
 
-### Two Helots
+#### Two Helots
 
 A meaningful layered shell.
 
 Good when your premium pieces are deliberately hidden during the opponent's first turn.
 
-### Maximum Helots
+#### Maximum Helots
 
 This is where you should check whether the army is becoming too reactive.
 
@@ -288,7 +295,7 @@ The principle is:
 
 ---
 
-# Clipper FTO
+## Clipper FTO
 
 The Clipper FTO is one of the more interesting less-obvious N5 Varuna pieces.
 
@@ -305,19 +312,33 @@ Do not reduce the Clipper to Guided Missile duty. Its FTO profile can be selecte
 
 ---
 
-# Quinn
+Compare full packages before buying an indirect-fire plan:
+
+- **Squalos Mk-II HMG + GL (62/1.5):** Speculative attacks at hidden support while keeping HMG primary.
+- **Clipper Guided (16/1.5):** Spotlight/Repeater/FO payoff, **not** the FTO +1B launcher.
+- **Kamau, a TAG or a fast scorer:** may return more value than an Order-intensive Guided engine.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Quinn
 
 Quinn is useful because he solves **specific structural problems** rather than because he is mandatory.
 
-## Command resilience — Quinn does not provide CoC
+### Command resilience — Quinn does not provide CoC
 
-In the pinned Varuna N5.3 roster, **Quinn has only the Forward Observer MULTI Marksman Rifle and Disco Baller/MULTI Rifle options**. There is **no Varuna Chain of Command profile**, so the imported suggestion of pairing an aggressive ORC / Uma / Cutter Lieutenant with "Quinn CoC" is not legal in this roster.
+The pinned Varuna roster gives **Quinn FO MULTI Marksman Rifle and Disco Baller/MULTI Rifle options**, **not Chain of Command**. Therefore Quinn cannot provide succession insurance to an aggressive:
+
+- **ORC Lieutenant**;
+- **Uma Lieutenant**;
+- **Cutter Lieutenant**.
+
+There is **no Varuna Chain of Command profile** in this roster.
 
 If using an active Lieutenant, mitigate the risk through **concealed deployment, carefully timed activation, alternate attacks and survivable command positioning**. Do not count on a nonexistent backup to prevent Loss of Lieutenant. The generic advice to keep command assets in different attack footprints remains sound, but does not grant a CoC option here.
 
 ---
 
-## Disco Baller Quinn
+### Disco Baller Quinn
 
 This is genuine Varuna-specific utility.
 
@@ -331,13 +352,20 @@ Do not take Disco Baller merely because it is unique. Take it when the table pla
 
 ---
 
-# Fireteam architectures
+- **Quinn FO + Disco 26/0** is Varuna's precision Eclipse option, especially when Smoke/MSV/strong Mimetism makes Kamau/ORC FtF odds poor. It does **not** provide Chain of Command. Use a protected Wildcard/score route after the cloud, not a decorative Disco throw.
+- **Opposing evaluations:** Dante treats Quinn/vision control as a solution to hard AROs; older gun-first evaluations prioritize another Kamau or a TAG. Buy Quinn only when a real scoring/attack route needs him. See [global comparison](../list-building/vision-control-units-apex-and-value.md).
+
+- **Toolbox cost:** Quinn's linked/Wildcard specialist and LoF utility can justify a physical objective route, not a Chain of Command role; on open tables where Disco is unused, extra Kamau/ORC or cheaper specialists may be more efficient.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+## Fireteam architectures
 
 The strongest current lesson is:
 
 > **Do not start a Varuna list by deciding on a five-model Core. Start with roles and build the smallest team that improves them.**
 
-## Kamau + Montesa Undertow
+### Kamau + Montesa Undertow
 
 This is probably the most characteristic N5 Varuna pairing.
 
@@ -351,7 +379,7 @@ This is particularly attractive when the rest of the army contains independent m
 
 ---
 
-## ORC + Kamau / Montesa package
+### ORC + Kamau / Montesa package
 
 Use when the Fireteam itself is supposed to advance.
 
@@ -366,7 +394,7 @@ Do not fill every legal slot with an expensive elite model unless each one solve
 
 ---
 
-## Fusilier + Kamau Duo
+### Fusilier + Kamau Duo
 
 A useful low-cost architecture when you want the Kamau gun without buying a full defensive brick.
 
@@ -378,7 +406,7 @@ Use when:
 
 ---
 
-## Montesa-focused teams
+### Montesa-focused teams
 
 Advanced Montesa Fireteam access makes it reasonable to build around the Montesa as more than a support model.
 
@@ -390,11 +418,11 @@ Use when:
 
 ---
 
-# Lieutenant architectures
+## Lieutenant architectures
 
 Current sources do **not** show a single strong Varuna LT consensus. Treat Lieutenant choice as an architecture decision.
 
-## Fusilier LT
+### Fusilier LT
 
 The simplest option.
 
@@ -412,7 +440,7 @@ Weakness:
 
 ---
 
-## Zulu-Cobra LT
+### Zulu-Cobra LT
 
 A much more functional LT profile.
 
@@ -430,7 +458,7 @@ There is **no Quinn CoC in Varuna**; an active Zulu Lieutenant requires a protec
 
 ---
 
-## Uma LT
+### Uma LT
 
 Use when:
 
@@ -442,7 +470,7 @@ This is a more aggressive architecture than Fusilier LT.
 
 ---
 
-## ORC LT
+### ORC LT
 
 Use when:
 
@@ -455,7 +483,7 @@ Do not make an ORC LT simply because it is durable. Make it LT because the rest 
 
 ---
 
-## Cutter LT
+### Cutter LT
 
 This is a deliberate all-in architecture.
 
@@ -469,13 +497,18 @@ The NCO Cutter is generally the cleaner option when the list wants a passive LT 
 
 ---
 
-# Cutter and Squalos Mk-II
+## Cutter and Squalos Mk-II
 
 TAG Varuna is viable, but **TAG Varuna is an archetype, not the faction default**.
 
-Current N5 discussion focuses much more heavily on Zulu, Montesa, ORC and Kamau than historical Varuna discussion did.
+Current N5 discussions emphasize these non-TAG units more than older Varuna material did:
 
-## Cutter
+- **Zulu-Cobra**;
+- **Montesa**;
+- **ORC**;
+- **Kamau**.
+
+### Cutter
 
 Take the Cutter when the TAG itself is intended to be the main problem-solving engine.
 
@@ -500,7 +533,7 @@ A useful heuristic:
 
 ---
 
-## Squalos Mk-II
+### Squalos Mk-II
 
 Squalos is better understood as a **cheaper conventional TAG embedded inside a Varuna army**.
 
@@ -518,7 +551,7 @@ Current linked tacticas do **not** repeatedly identify Squalos as a universal Va
 
 ---
 
-# Croc Men
+## Croc Men
 
 Croc Men are less frequently highlighted than Zulus, but they solve a qualitatively different problem.
 
@@ -539,7 +572,7 @@ Do not replace every Zulu with a Croc Man. The two profiles do different jobs:
 
 ---
 
-# Echo-Bravo
+## Echo-Bravo
 
 Echo-Bravo gives Varuna a lateral attack / mission vector that does not begin in the normal deployment shell.
 
@@ -554,11 +587,11 @@ Do not force an Echo-Bravo into every list. Its value increases when the rest of
 
 ---
 
-# REMs
+## REMs
 
 Varuna has enough faction-specific toys that it is easy to forget normal PanO REM efficiency.
 
-## Fugazi
+### Fugazi
 
 Excellent filler when:
 
@@ -571,7 +604,7 @@ Not mandatory.
 
 ---
 
-## Pathfinder
+### Pathfinder
 
 Use when the list wants:
 
@@ -585,17 +618,21 @@ It becomes less automatic when Zulu and Kamau already provide enough Sensor / mi
 
 ---
 
-## Sierra
+### Sierra
 
 Take for a specific reactive job, not because Varuna is a defensive sectorial.
 
-Varuna already has excellent ARO tools. A Sierra is most useful when it fills a lane or role the existing Helot / Kamau / Clipper shell does not cover.
+Add a **Sierra** only if it fills a gap left by an existing ARO shell involving:
+
+- **Helot**;
+- **Kamau**;
+- **Clipper**.
 
 The danger is **defensive overinvestment**.
 
 ---
 
-## Bulleteer
+### Bulleteer
 
 Still a strong inexpensive active attacker when the list needs a medium-range gun without paying ORC / TAG prices.
 
@@ -603,7 +640,16 @@ Take it because the list needs a cheap asymmetric secondary attack piece, not be
 
 ---
 
-# Machinist and recovery infrastructure
+Support profiles should solve a roster-legal problem:
+
+- **Baggage/Repeater bot (8) vs EVO (14/0.5):** choose EVO with repeated Assisted Fire or Controlled Jump utility.
+- **Tech-Bee TAGCom (9):** aids only eligible same-group Cutter/Squalos TAGs if actually rostered; not the Redeye Vehicle.
+- **TinBot:** only applies as printed, within legal Fireteams.
+- **Strategic Deployment:** requires the printed skill and usable deployment geometry; Kestrel Crux/Jackal Fireteam benefits do not transfer.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Machinist and recovery infrastructure
 
 Machinist becomes more valuable as the list adds:
 
@@ -623,11 +669,11 @@ If the list is mostly infantry and expendable Helots, Engineer tax becomes less 
 
 ---
 
-# Strong current listbuilding skeletons
+## Strong current listbuilding skeletons
 
 These are **architectures**, not fixed lists.
 
-## Balanced Varuna
+### Balanced Varuna
 
 Start with:
 
@@ -646,7 +692,7 @@ Then add:
 
 ---
 
-## ORC counterattack Varuna
+### ORC counterattack Varuna
 
 Start with:
 
@@ -660,7 +706,7 @@ This is one of the most coherent ways to avoid the “all defence, no active tur
 
 ---
 
-## Cutter Varuna
+### Cutter Varuna
 
 Start with:
 
@@ -675,7 +721,7 @@ Do **not** then buy another huge premium attacker unless the mission package exp
 
 ---
 
-## Squalos Varuna
+### Squalos Varuna
 
 Start with:
 
@@ -690,9 +736,9 @@ This preserves more roster flexibility than Cutter while retaining a TAG centerp
 
 ---
 
-# Common traps
+## Common traps
 
-## 1. Rebuilding old Kamau Core Varuna
+### 1. Rebuilding old Kamau Core Varuna
 
 Current Varuna Fireteams were deliberately redesigned.
 
@@ -700,9 +746,15 @@ Do not try to recreate an obsolete Kamau castle by buying expensive bodies whose
 
 ---
 
-## 2. Too many ARO pieces
+### 2. Too many ARO pieces
 
-Helot + Kamau MSR + Kamau HRL + Clipper + Sierra can look oppressive on paper.
+A full static ARO package can look oppressive on paper:
+
+- **Helot**;
+- **Kamau MULTI Sniper**;
+- **Kamau HRL**;
+- **Clipper**;
+- **Sierra**.
 
 It can also leave the active turn with too few Orders and too few mobile attackers.
 
@@ -710,15 +762,21 @@ The goal is **Order taxation**, not maximum reactive gun count.
 
 ---
 
-## 3. Too many premium guns competing for Orders
+### 3. Too many premium guns competing for Orders
 
-Cutter + ORC HMG + multiple Kamau shooters + Montesa + Bulleteer may contain many excellent profiles but still be a poor list if they all require the same active-turn Orders.
+A list can include individually strong units yet demand too many active-turn Orders from the same pool:
+
+- **Cutter**;
+- **ORC HMG**;
+- **Multiple Kamau shooters**;
+- **Montesa**;
+- **Bulleteer**.
 
 Choose one primary attack engine and one meaningfully different secondary vector.
 
 ---
 
-## 4. Taking a Hacker without a hacking architecture
+### 4. Taking a Hacker without a hacking architecture
 
 Zulu Pitcher and other hacking pieces are attractive, but they need:
 
@@ -730,21 +788,33 @@ Do not pay for token hacking that never affects table decisions.
 
 ---
 
-## 5. Treating TAGs as mandatory faction identity
+### 5. Treating TAGs as mandatory faction identity
 
 Historical Varuna advice often centered the Cutter.
 
-Current N5 Varuna has enough quality in Zulu / Montesa / ORC / Kamau that TAGs should be treated as optional archetypes.
+TAGs remain optional because Varuna can build credible lists around:
+
+- **Zulu-Cobra**;
+- **Montesa**;
+- **ORC**;
+- **Kamau**.
 
 ---
 
-## 6. Assuming a nonexistent CoC safety net
+### 6. Assuming a nonexistent CoC safety net
 
-An aggressive ORC, Uma, Zulu or Cutter Lieutenant can lose the game to Loss of Lieutenant. **Varuna Quinn is not CoC and the pinned Varuna roster offers no CoC option.** Deploy and activate the Lieutenant accordingly; do not construct a plan that depends on a legal command successor that is absent.
+Aggressive Lieutenants can expose Varuna to Loss of Lieutenant:
+
+- **ORC LT**;
+- **Uma LT**;
+- **Zulu-Cobra LT**;
+- **Cutter LT**.
+
+**Quinn is not CoC, and Varuna has no CoC profile in the pinned roster.** Do not rely on an unavailable successor.
 
 ---
 
-# Practical pregame checklist
+## Practical pregame checklist
 
 Before deploying Varuna, identify:
 
@@ -758,7 +828,7 @@ Before deploying Varuna, identify:
 
 ---
 
-# Current source-derived conclusions
+## Current source-derived conclusions
 
 The strongest conclusions supported repeatedly by the current material are:
 
@@ -773,31 +843,8 @@ The strongest conclusions supported repeatedly by the current material are:
 
 ---
 
-## Related repository strategy
+### Related repository strategy
 
 - [Defensive architecture](../Strategy/defensive-architecture-and-reactive-turn.md), [ARO units](../list-building/aro-units-apex-and-value.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md)
 - [Fireteam evaluation](../Strategy/fireteams-and-profile-evaluation.md), [Hacking](../list-building/hackers-and-killer-hackers.md), [Lieutenant and command](../Strategy/lieutenant-and-command-structure.md)
 - [Vanilla PanO tactical guide](vanilla-pano.md) — parent-faction tactics are transferable, but **vanilla roster/Fireteam permissions never transfer**.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Quinn FO + Disco 26/0** is Varuna's precision Eclipse option, especially when Smoke/MSV/strong Mimetism makes Kamau/ORC FtF odds poor. It does **not** provide Chain of Command. Use a protected Wildcard/score route after the cloud, not a decorative Disco throw.
-- **Opposing evaluations:** Dante treats Quinn/vision control as a solution to hard AROs; older gun-first evaluations prioritize another Kamau or a TAG. Buy Quinn only when a real scoring/attack route needs him. See [global comparison](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Quinn FO/Disco26** is a true linked/wildcard specialist plus LoF tool where a physical objective approach beats head-on Kamau shooting. It is **not** Chain of Command. Counter: extra Kamau/ORC and cheaper separate specialists can do more on open maps if Disco is never used.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Speculative** from **Squalos Mk-II HMG+GL62/1.5** helps remove hidden support when its HMG remains the main attack plan; **Clipper Guided16/1.5** is a separate Spotlight/Reptr/FO payoff, **not** the FTO+1B launcher. **Counter:** a fast scorer/TAG/Kamau gun can be a better SWC and Order investment than a dedicated multi-roll Guided engine. Rate the complete spotter/network, not just cheap missile.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**PanO cheap force multipliers:** 8pt basic Baggage/Repeater bot is often better value than 14/.5 EVO without repeated Assisted Fire/Controlled Jump; **TAGCom Tech-Bee9** benefits eligible same-group Cutter/Squalos TAGs only if included in actual Varuna roster, not Redeye VH. **TinBot** is a legal Fireteam effect, **Strategic Deployment** requires printed skill and safe deployment geometry. Avoid importing Kestrel Crux/Jackal FT Master benefits into Varuna just because PanO shares a parent faction.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).

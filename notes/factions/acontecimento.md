@@ -43,6 +43,9 @@
 | **Akali / Kirpal Singh** | 21/0 **Akali BSG (+1B) specialist with repeater** is a serious enemy-DZ objective/attack contingency; KHD/hacker or 26/1.5 Spitfire for niches. **Kirpal 26/0 CoC** or 28/0 specialist offers an AD/command alternative. | **TA** notes newer PanO AD rivals can be more specialized. Off-table CoC is *not* an on-table security blanket until deployed; guard the LT/order budget and respect landing risk. |
 | **Agnes CoC / RemDriver** | **18/0 CoC** safeguards aggressive Rao/Tik LT plans; **16/0 RemDriver** can improve a key REM shooting plan when its rules permit. Wildcard adds flexible linking. | Support cost and single-target focus: don't purchase the RemDriver profile for a TAG without checking valid targets; it is a **REM** plan, not +1 BS for every unit. |
 
+- **Unique Eclipse route:** **Guarda de Assalto 40–44pts + synchronized Auxbot Eclipse launcher** is not a generic Smoke + visor package. It creates an MSV-proof crossing while the Guarda remains a BS15 active shooter; the synced delivery and base geometry cost Orders/positioning.
+- **Value split:** choose Guarda when a real objective/gunfighter needs the crossing and the Auxbot can survive; otherwise cheaper Nagas/Dart/Peacemaker lanes and conventional shooting may do more per point. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
+
 ## TAGs, Vehicles and REMs (cross-PanO research)
 
 ### TAGs — Dragão versus Tikbalang is a genuine disagreement
@@ -77,8 +80,3 @@
 4. **Bagh-Mari vs ORC vs Montesa:** **MetaChemistry** sees broad, useful Bagh-Mari as characteristic SAA opponents must prepare for; **TA** highlights their price per Wound; **Swiss Miss** finds many ORC purchases hard to justify against cheaper Montesa. These are different jobs (MSV/MOD control, durable gun, close defensive specialist).
 5. **Dart and Naga spend:** **MetaChemistry/TA** see Dart and KHD Naga as legitimate stealth/objective threats; **Dante** dislikes several premium Naga guns; **Swiss Miss hosts** differ on Dart's opportunity cost. Avoid a compulsory expensive skirmisher package.
 6. **Defensive vs aggressive list:** SAA can win by suppression **then scoring**, not always by running a TAG/Guard to the enemy DZ. **Shepherd's N4 assessment** remains a useful strategic concept, but its old roster/Fireteam numbers are non-authoritative in N5.3.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Unique Eclipse route:** **Guarda de Assalto 40–44pts + synchronized Auxbot Eclipse launcher** is not a generic Smoke + visor package. It creates an MSV-proof crossing while the Guarda remains a BS15 active shooter; the synced delivery and base geometry cost Orders/positioning.
-- **Value split:** choose Guarda when a real objective/gunfighter needs the crossing and the Auxbot can survive; otherwise cheaper Nagas/Dart/Peacemaker lanes and conventional shooting may do more per point. [Global comparison](../list-building/vision-control-units-apex-and-value.md).

@@ -51,6 +51,9 @@
 
 **Lieutenant and orders:** Cheapest reliable hideable command is **Fusilier LT 10**; Karhu **NCO** is valuable even if LT stays back. **Hospitaller FTO TinBot LT 27** can join eligible Beta, but a visible LT in the advancing team risks Loss of Lieutenant. **Jotum LT** costs **82/2 SWC** and has its printed **one LT Order plus TacAware**, *not* any invented `LT +1 Order` skill; consider **Agnes CoC** when wagering the whole attack plan on it. **Hannibal** provides Counterintelligence, not Chain of Command.
 
+- **Vargar FO + Disco + Deactivator 24/0** combines projected Eclipse, Super-Jump/Albedo and scoring; **Quinn 26/0** offers Wildcard FO + Disco; **Bøyg 44/0–1.5** carries Disco on a much pricier durable shooter. **Baggage Mulebot 8** is relevant for reloading expended Disposable charges.
+- **Disagreement:** Shepherd rates Vargar's utility far above buying Bøyg only for Disco; Bøyg supporters value its 2W gun/ARO as a second job. If no MSV-proof crossing is needed, preserve Orders for the Karhu/KoJ instead. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
+
 ## TAG, Vehicle and REM research
 
 ### TAG: Jotum is strong, but the ranking genuinely splits
@@ -81,6 +84,14 @@
 | **Clipper 16/1.5 Guided ML; FTO-labelled 19/1.5 ML(+1B)** | Guided ML can punish marked enemies if the **Pathfinder FO / repeater / hacker** plan actually Targets reliably. | **Swiss Miss** rates it low: SWF isn't primarily a Guided network. **No canonical SWF Fireteam row for Clipper** despite FTO option name; don't invent a linked launcher. |
 | **Pilot-X Team / RacerBots, Palbots** | Pilot-X (above) builds a mobile repeater/mine and hacker network; **Palbot 3** stretches Doctor/Engineer access for Jotum and wounded MI/HI. | RacerBot purchase is tied to Pilot-X; **Palbot is a Servant, not an independent order generator**. Both need real deployment and order-budget planning. |
 
+Use support tools for defined jobs:
+
+- **TinBots / supportware:** protect a legal HI Fireteam or REM attacker; verify the exact Hospitaller/Santiago profile's SWF access.
+- **Mulebot Baggage (8) vs EVO (14/0.5):** reload utility versus eligible REM/AD supportware; EVO is not a standard HD Spotlight tool.
+- **Tech-Bee TAGCom:** where present, affects eligible same-group TAGs only, not an S7 aerial Vehicle.
+
+[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
+
 ## Dissent to remember
 
 1. **Mandatory Jotum?** Swiss Miss S-tier, Lockie WIP12 control-bully; Loss of Lieutenant debates high-B/A due to AP prevalence; Shepherd says skip if ITS17 objectives demand too many specialist Orders. **Test versus mission + anti-armor opposition**.
@@ -91,14 +102,3 @@
 6. **Blade FTO vs 30pt Parachutist/Decoy?** Shepherd/Swiss Miss love FTO Engineer/TacAware linked utility; Foxbringer (2026) judges 20pt bare FTO and 30pt independent versions inefficient next to cheaper/hidden mission tools.
 7. **Melee choices:** Swiss Miss prefers linked Shona/Valkyrie to Gunnar/Liang Kai; Shepherd argues scenario scoring makes Hawkins and a melee escort more valuable than a pure enemy-DZ murder run. **Pick your required objective before your preferred CC model**.
 8. **Older presenter vs current Fireteam data:** Dante's N5 initial video incorrectly remains true for old link-access discussion; 2026 pinned roster specifically allows **Blade FTO in Fusiliers**. WIP12 2024 uses N4 rules, not current costs/keywords. Protect current facts from automated transcript errors.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Vargar FO + Disco + Deactivator 24/0** combines projected Eclipse, Super-Jump/Albedo and scoring; **Quinn 26/0** offers Wildcard FO + Disco; **Bøyg 44/0–1.5** carries Disco on a much pricier durable shooter. **Baggage Mulebot 8** is relevant for reloading expended Disposable charges.
-- **Disagreement:** Shepherd rates Vargar's utility far above buying Bøyg only for Disco; Bøyg supporters value its 2W gun/ARO as a second job. If no MSV-proof crossing is needed, preserve Orders for the Karhu/KoJ instead. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**TinBots and supportware** are most valuable when protecting a substantial HI Fireteam or an actual active REM attacker; use exact N5.3 source options, never assume every Hospitaller/Santiago profile is Sval rostered. **Mulebot8 Baggage vs14/.5 EVO** supports reload vs active REM/AD Supportware; EVO is not normal HD Spotlight. **Tech-Bee TAGCom** in any roster where included affects only same-group TAG by listed MODs, not S7 aerial Vehicle/VH.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).

@@ -34,6 +34,9 @@ The major listbuilding trap is buying too many excellent gunfighters. PanO can e
 
 ---
 
+- **Vanilla has independent Disco/Albedo access** via selected PanO profiles, but **does not gain Kestrel/Varuna/NCA Fireteam bonuses**. A cheap **Fennec 13pt FO/Sensor/Disco** is attractive in its Kestrel legal context; in Vanilla, verify its own roster availability and selected model before importing its cost or Order plan. Premium Aqua/Quinn/Vargar/Konstantinos Disco picks justify themselves when scoring or gunfighter mobility is also used.
+- **Vision difference:** PanO's powerful MSV shooter wants **normal Smoke**, while **Disco's Eclipse template blocks even friendly MSV**. Pick the desired interaction instead of assuming either grants safe one-sided firing. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
+
 ## Recurring listbuilding archetypes
 
 ### Joan economy
@@ -151,7 +154,16 @@ The key principle is:
 
 ---
 
-# Joan v2
+Choose support purchases after defining the independently activating attack plan:
+
+- **Tech-Bee TAGCom (9/0):** printed PH +3 Dodge/GizmoKit +1 for eligible same-group TAGs.
+- **Mulebot Baggage (8/0) vs EVO (14/0.5):** reload/disposable utility versus actual eligible REM/Combat Jump supportware.
+- **Maximus FTO TinBot (Repeater) (45/1):** no Vanilla Fireteam or cross-group TinBot benefit can be inferred from FTO labeling.
+- **Squalos, Redeye and Tikbalang:** may justify saving 6 points/0.5 SWC on the basic Mulebot over EVO.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Joan v2
 
 Joan is one of the defining Vanilla PanO architecture pieces.
 
@@ -167,7 +179,7 @@ She contributes:
 - several useful LT configurations;
 - command economy that makes Irregular troops materially better.
 
-## Joan economy
+### Joan economy
 
 Joan increases the value of units such as:
 
@@ -186,7 +198,7 @@ Do not take cheap Irregular models simply because Joan can regularize them. Each
 
 ---
 
-## Joan + Chain of Command
+### Joan + Chain of Command
 
 The Magistrate CoC is one of the cleanest partners.
 
@@ -209,13 +221,13 @@ Chain of Command is most useful when succession survives whatever killed the Lie
 
 ---
 
-# Magistrate
+## Magistrate
 
 The Magistrate is one of Vanilla PanO's strongest low-profile command/support pieces.
 
 It supports two very different architectures.
 
-## Chain of Command Magistrate
+### Chain of Command Magistrate
 
 Use when:
 
@@ -228,7 +240,7 @@ The model remains useful because it is also a specialist and contributes Counter
 
 ---
 
-## Strategos Magistrate LT
+### Strategos Magistrate LT
 
 This is one of Vanilla's most easily overlooked Lieutenant options.
 
@@ -243,7 +255,7 @@ This is often a better default than automatically taking a Fusilier LT.
 
 ---
 
-# Karhu
+## Karhu
 
 Karhu are among Vanilla PanO's most generally useful independent NCO and gunfighter/support pieces.
 
@@ -256,7 +268,7 @@ Their attraction is the package of:
 - strong mobility;
 - good weapon and specialist choices.
 
-## Feuerbach + Engineer support pairing (unlinked)
+### Feuerbach + Engineer support pairing (unlinked)
 
 This is a complementary pair of **separate** vanilla troopers, not a legal Duo. The Engineer can recover the Feuerbach trooper or other valuable nearby assets, but both spend activations independently.
 
@@ -278,7 +290,7 @@ The two models naturally want to operate in similar parts of the board.
 
 ---
 
-## Cheap Karhu profiles
+### Cheap Karhu profiles
 
 Do not assume the Feuerbach is mandatory.
 
@@ -295,7 +307,7 @@ This is often a better use of points than adding a second or third expensive ran
 
 ---
 
-# Swiss Guard
+## Swiss Guard
 
 The Swiss Guard remains the classic Vanilla PanO hidden hammer.
 
@@ -307,7 +319,7 @@ Its core value comes from:
 - 2W / ARM5 durability;
 - excellent weapon profiles.
 
-## HMG Swiss
+### HMG Swiss
 
 The simplest role:
 
@@ -319,7 +331,7 @@ It is especially good in Vanilla because it needs no Fireteam support.
 
 ---
 
-## Missile Launcher Swiss
+### Missile Launcher Swiss
 
 Use when you want:
 
@@ -331,7 +343,7 @@ Do not expose it unnecessarily simply because it has a strong ARO weapon.
 
 ---
 
-## Forward / cheaper Swiss profiles
+### Forward / cheaper Swiss profiles
 
 The cheaper AP-SMG / forward profiles deserve consideration.
 
@@ -344,11 +356,11 @@ Use when:
 
 ---
 
-# Zulu-Cobra
+## Zulu-Cobra
 
 Zulu-Cobra is one of the cleanest Vanilla midfield/control pieces.
 
-## Sensor / Jammer
+### Sensor / Jammer
 
 This is the default utility choice.
 
@@ -363,7 +375,7 @@ The Zulu does not need to kill anything to be efficient. Making movement awkward
 
 ---
 
-## KHD / Pitcher
+### KHD / Pitcher
 
 Take when the list has a real hacking plan.
 
@@ -378,7 +390,7 @@ Do not take it merely to satisfy a vague idea that every list needs a Hacker.
 
 ---
 
-## Spitfire / combat Zulu
+### Spitfire / combat Zulu
 
 Useful as an independent Camo attack piece.
 
@@ -390,7 +402,7 @@ Take it when:
 
 ---
 
-## X-Visor MMR / Minelayer
+### X-Visor MMR / Minelayer
 
 A lesser-used but strong flexible choice.
 
@@ -405,11 +417,11 @@ This is particularly useful if the list already has a Sensor piece and wants ano
 
 ---
 
-# Fennec profile selection
+## Fennec profile selection
 
 Vanilla PanO often gets more from the specialized Fennecs than from generic Fusilier filler.
 
-## FO / Sensor / Disco Baller
+### FO / Sensor / Disco Baller
 
 Use when you want:
 
@@ -423,7 +435,7 @@ This is a very strong general-purpose support profile.
 
 ---
 
-## Thunderbolt / Minelayer
+### Thunderbolt / Minelayer
 
 Use when:
 
@@ -436,7 +448,7 @@ This is especially efficient in lists already taking Zulu or Pathfinder Sensor.
 
 ---
 
-## Hacker / FastPanda
+### Hacker / FastPanda
 
 Take only when the rest of the list gives the Hacker something worthwhile to do.
 
@@ -451,11 +463,11 @@ The FastPanda matters because it lets the Fennec create a hacking zone rather th
 
 ---
 
-# REMs
+## REMs
 
 Vanilla PanO repeatedly benefits from cheap REM infrastructure.
 
-## Fugazi
+### Fugazi
 
 One of the closest things to a generic staple.
 
@@ -472,7 +484,7 @@ Still, do not treat them as a sacred tax if the 15-model cap makes another cheap
 
 ---
 
-## Pathfinder
+### Pathfinder
 
 Much more than a Sensor bot.
 
@@ -489,7 +501,7 @@ This makes it particularly valuable in elite lists where every pooled Regular Or
 
 ---
 
-## Peacemaker
+### Peacemaker
 
 A strong midfield pressure / repeater / template package.
 
@@ -504,7 +516,7 @@ Two-Peacemaker architectures have appeared in concrete Vanilla sample lists.
 
 ---
 
-## Bulleteer
+### Bulleteer
 
 Still one of PanO's best cheap asymmetric attackers.
 
@@ -515,7 +527,7 @@ Use when:
 - Mimetism (-6) can create favourable FtF odds;
 - an Engineer can support it efficiently.
 
-### Bulleteer + Blade Engineer support (unlinked)
+#### Bulleteer + Blade Engineer support (unlinked)
 
 A useful low-cost pairing, **not a current vanilla Duo**:
 
@@ -527,11 +539,11 @@ Each model uses its own activation; do not budget the Engineer's order as a free
 
 ---
 
-# TAG choice
+## TAG choice
 
 Vanilla PanO has several genuinely distinct TAG architectures.
 
-## Tikbalang
+### Tikbalang
 
 Best thought of as the **efficiency / mobility TAG**.
 
@@ -549,7 +561,7 @@ Use when you want a TAG that fits inside a broader army rather than consuming th
 
 ---
 
-## Tikbalang LT(+1 Order)
+### Tikbalang LT(+1 Order)
 
 A very strong command / order-engine architecture.
 
@@ -563,7 +575,7 @@ The profile's strength is not simply that the Tik generates many Orders. It is t
 
 ---
 
-## Cutter
+### Cutter
 
 The apex assassin.
 
@@ -579,7 +591,7 @@ The Cutter is still fully viable, but it is an architecture rather than a defaul
 
 ---
 
-## Joan LT + Cutter NCO
+### Joan LT + Cutter NCO
 
 A particularly coherent Vanilla interaction.
 
@@ -598,11 +610,11 @@ Therefore the list must include a way to:
 
 ---
 
-## Squalos Mk-II
+### Squalos Mk-II
 
 A conventional but extremely efficient TAG family.
 
-### NCO MULTI HMG
+#### NCO MULTI HMG
 
 Use when:
 
@@ -610,7 +622,7 @@ Use when:
 - you want the TAG itself to convert them;
 - you want a conventional long-range gun without making the TAG the Lieutenant.
 
-### HMG + Grenade Launcher
+#### HMG + Grenade Launcher
 
 Use when indirect attack angles solve a real problem:
 
@@ -620,7 +632,7 @@ Use when indirect attack angles solve a real problem:
 
 Do not make speculative fire the main plan.
 
-### Budget MMR Squalos
+#### Budget MMR Squalos
 
 A very interesting lesser-used architecture.
 
@@ -634,7 +646,7 @@ It is not the apex gunfighter profile. It is the **cheap armored anchor**.
 
 ---
 
-## TAG selection heuristic
+### TAG selection heuristic
 
 - **Maximum raw assassin:** Cutter
 - **Best mobility / efficiency:** Tikbalang
@@ -643,7 +655,7 @@ It is not the apex gunfighter profile. It is the **cheap armored anchor**.
 
 ---
 
-# Black A.I.R.
+## Black A.I.R.
 
 Black A.I.R. is a legitimate self-contained reactive piece.
 
@@ -660,7 +672,7 @@ Use Black A.I.R. when you want **one roster slot to provide dedicated lane contr
 
 ---
 
-# Bipandra
+## Bipandra
 
 Bipandra is much more interesting in current N5 than her older-edition reputation suggests.
 
@@ -681,7 +693,7 @@ She is particularly attractive in elite Joan / Swiss / HI-heavy lists.
 
 ---
 
-# Teutonic Specialist
+## Teutonic Specialist
 
 A strong inexpensive active mission piece.
 
@@ -698,7 +710,7 @@ This kind of cheap 2W utility repeatedly appears in successful lists because it 
 
 ---
 
-# Blocker
+## Blocker
 
 Current Blockers are much more than generic WIP13 Hackers.
 
@@ -720,7 +732,7 @@ They are especially useful when:
 
 ---
 
-# Locust Hacker
+## Locust Hacker
 
 The current Locust gives Vanilla a very different hacking vector from a DZ Hacker.
 
@@ -742,7 +754,7 @@ Its higher cost means it should be selected for a deliberate mission / matchup r
 
 ---
 
-# Redeye
+## Redeye
 
 Redeye is a legitimate underused mobility / geometry piece.
 
@@ -766,7 +778,7 @@ Do not take it merely as another gunfighter. Its value is **mobility + geometry 
 
 ---
 
-# Aquila Guard
+## Aquila Guard
 
 Aquila is a strong meta call rather than a generic staple.
 
@@ -790,33 +802,38 @@ Use Aquila when:
 
 ---
 
-# Unlinked support architectures — formerly called Fireteams in older sources
+## Unlinked support architectures — formerly called Fireteams in older sources
 
 **N5.3 legality:** no standard vanilla Fireteam chart. All of the following are **independent models**, not Duos/Haris. Their value is complementary tools, not shared Orders, Fireteam bonuses or a dedicated link slot.
 
-## Karhu Feuerbach supported by Karhu Engineer
+### Karhu Feuerbach supported by Karhu Engineer
 
 Take both when the long-range AP/DA threat, specialist recovery and two NCO options are worth the price. Their compatible movement routes help an Engineer stay in repair range, but **they activate separately**.
 
-## Bolt sniper supported by a utility Bolt
+### Bolt sniper supported by a utility Bolt
 
-Useful if long-range MSV pressure and a Hacker or CoC each solve a problem. Do not buy two simply to imitate an outdated Bolt Duo; Black A.I.R., Swiss, Karhu or Helot may already cover the ARO role.
+A **Bolt sniper + utility Bolt** only makes sense if MSV pressure and the Hacker/CoC role are both needed. Do not buy a second model just to imitate an obsolete Bolt Duo; other ARO options include:
 
-## Bulleteer supported by Blade Engineer
+- **Black A.I.R.**;
+- **Swiss Guard**;
+- **Karhu**;
+- **Helot**.
+
+### Bulleteer supported by Blade Engineer
 
 The fast Mimetism (-6) attacker benefits from a nearby Engineer to recover it after a failed run. **No shared movement Orders**: budget the attack and subsequent support separately.
 
-## Joan command ecosystem — not a Haris
+### Joan command ecosystem — not a Haris
 
 Joan can anchor a distributed package of cheap Regularized Irregular troops (subject to Inspiring Leadership's actual restrictions), a protected CoC alternative and a separate NCO Order outlet. Keep successors **away from the attack footprint**. A historical Joan Haris is not validated in the pinned current vanilla roster.
 
 ---
 
-# Lieutenant architectures
+## Lieutenant architectures
 
 Vanilla PanO has several genuinely different LT plans.
 
-## Joan LT
+### Joan LT
 
 Use when:
 
@@ -826,7 +843,7 @@ Use when:
 
 ---
 
-## Magistrate Strategos LT
+### Magistrate Strategos LT
 
 Use when:
 
@@ -838,7 +855,7 @@ This is one of the best generic default choices.
 
 ---
 
-## Tikbalang LT(+1 Order)
+### Tikbalang LT(+1 Order)
 
 Use when:
 
@@ -849,7 +866,7 @@ Use when:
 
 ---
 
-## Zulu LT
+### Zulu LT
 
 Use when:
 
@@ -863,7 +880,7 @@ Tradeoff:
 
 ---
 
-## Aquila Strategos LT
+### Aquila Strategos LT
 
 Use when:
 
@@ -873,7 +890,7 @@ Use when:
 
 ---
 
-## Cutter LT
+### Cutter LT
 
 Use only when the list deliberately accepts the concentration of:
 
@@ -887,7 +904,7 @@ The model is difficult to kill conventionally, but command failure becomes catas
 
 ---
 
-## Fusilier LT
+### Fusilier LT
 
 Still useful when:
 
@@ -899,11 +916,16 @@ Do not default to it purely from old PanO habit. Magistrate, Joan, Zulu and Tik 
 
 ---
 
-# Common listbuilding traps
+## Common listbuilding traps
 
-## Too many premium guns
+### Too many premium guns
 
-Swiss + Cutter + Karhu Feuerbach + Black A.I.R. can all individually be excellent and collectively leave the army starved for Orders, specialists and midfield presence.
+Taking all of these premium pieces can starve the army of Orders, specialists and midfield coverage:
+
+- **Swiss Guard**;
+- **Cutter**;
+- **Karhu Feuerbach**;
+- **Black A.I.R.**.
 
 The question for every additional gun should be:
 
@@ -913,7 +935,7 @@ If the answer is only “it shoots well,” reconsider it.
 
 ---
 
-## Too much ARO investment
+### Too much ARO investment
 
 Vanilla has many attractive defensive pieces:
 
@@ -930,7 +952,7 @@ A list that spends too heavily on reactive pieces may successfully survive Turn 
 
 ---
 
-## TAG / HI stacking without hacking protection
+### TAG / HI stacking without hacking protection
 
 This is one of the most important practical warnings.
 
@@ -946,13 +968,19 @@ Build a plan to:
 
 ---
 
-## Confusing historical Fireteams with current vanilla support synergies
+### Confusing historical Fireteams with current vanilla support synergies
 
-The current generic PanO N5.3 roster has **no standard Fireteams**. A nominal "Karhu Duo", "Bulleteer + Blade Duo" or "Joan Haris" from earlier videos cannot be counted as a shared activation, Fireteam bonus or legal use of a vanilla link slot. Keep the underlying role complementarity; budget **every independent Order** needed for the package. To field an actual Fireteam, use the relevant sectorial chart.
+The current generic PanO N5.3 roster has **no standard Fireteams**. Older videos describe packages that can still offer complementary roles, but **not** shared movement or Fireteam bonuses:
+
+- **Karhu Duo**;
+- **Bulleteer + Blade Duo**;
+- **Joan Haris**.
+
+Budget **independent Orders** for those units. An actual Fireteam requires the corresponding sectorial chart.
 
 ---
 
-# Practical all-comers construction sequence
+## Practical all-comers construction sequence
 
 A useful generic build order is:
 
@@ -974,7 +1002,7 @@ The exact units should vary by mission.
 
 ---
 
-# Closest things to Vanilla PanO goodstuff
+## Closest things to Vanilla PanO goodstuff
 
 Not all of these belong in every list, but these are the strongest recurring considerations:
 
@@ -1012,9 +1040,9 @@ while preserving much of the same cheap command / REM / midfield structure.
 
 ---
 
-# Go-to combinations
+## Go-to combinations
 
-## Joan + Magistrate CoC + Irregular utility
+### Joan + Magistrate CoC + Irregular utility
 
 One of the most distinctively Vanilla PanO architectures.
 
@@ -1024,7 +1052,7 @@ Do not overbuy Irregular pieces just because Joan can convert their Orders.
 
 ---
 
-## Karhu Feuerbach + Karhu Engineer
+### Karhu Feuerbach + Karhu Engineer
 
 A useful **unlinked** combination that provides:
 
@@ -1036,7 +1064,7 @@ A useful **unlinked** combination that provides:
 
 ---
 
-## Tik LT(+1 Order) + NCO elsewhere
+### Tik LT(+1 Order) + NCO elsewhere
 
 A strong special-Order architecture.
 
@@ -1050,7 +1078,7 @@ NCO elsewhere prevents those LT Orders from becoming awkward when Tik should not
 
 ---
 
-## Joan LT + Cutter NCO
+### Joan LT + Cutter NCO
 
 High-end command / assassin architecture.
 
@@ -1064,7 +1092,7 @@ The list should always include another way to attack enemy hacking infrastructur
 
 ---
 
-## Bulleteer + Blade Engineer
+### Bulleteer + Blade Engineer
 
 Excellent inexpensive secondary attack package.
 
@@ -1072,9 +1100,9 @@ Use it when the army already has an expensive main attack piece and needs anothe
 
 ---
 
-# Source-derived consensus and disagreements
+## Source-derived consensus and disagreements
 
-## Strong consensus
+### Strong consensus
 
 Current sample lists and community material repeatedly support:
 
@@ -1086,7 +1114,7 @@ Current sample lists and community material repeatedly support:
 - TAGs as optional architectures rather than mandatory faction identity;
 - limiting expensive models that compete for the same Orders.
 
-## More player-dependent choices
+### More player-dependent choices
 
 There is less consensus on:
 
@@ -1101,7 +1129,7 @@ This is important because Vanilla's strength is **choice breadth**, not one solv
 
 ---
 
-# Bottom line
+## Bottom line
 
 Vanilla PanO is strongest when it cherry-picks the best concepts from several PanO subfactions without importing their restrictions.
 
@@ -1120,14 +1148,3 @@ Build it by asking:
 > **Which strong PanO profiles solve different problems while sharing the same Order economy efficiently?**
 
 ---
-
-## Vision control — role/value update (23 October 2026)
-
-- **Vanilla has independent Disco/Albedo access** via selected PanO profiles, but **does not gain Kestrel/Varuna/NCA Fireteam bonuses**. A cheap **Fennec 13pt FO/Sensor/Disco** is attractive in its Kestrel legal context; in Vanilla, verify its own roster availability and selected model before importing its cost or Order plan. Premium Aqua/Quinn/Vargar/Konstantinos Disco picks justify themselves when scoring or gunfighter mobility is also used.
-- **Vision difference:** PanO's powerful MSV shooter wants **normal Smoke**, while **Disco's Eclipse template blocks even friendly MSV**. Pick the desired interaction instead of assuming either grants safe one-sided firing. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Tech-Bee TAGCom9/0** offers PH+3 Dodge/GizmoKit+1 for same-group TAGs (where eligible); **Mulebot8/0** Baggage Regular and **14/.5 EVO** are utility depending on the disposable/REM/Combat Jump program. **Maximus FTO TinBot(Repeater)45/1** helps only a legal team; neither TinBot nor TAGCom works across groups indiscriminately. **Squalos/Redeye/Tik** direct attack options frequently deserve the 6pt/0.5SWC saved by 8pt Mulebot over EVO; compare after assembling actual list.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).

@@ -91,7 +91,7 @@ The useful principle is:
 
 If the opponent solves one layer, the others should still function.
 
-# Architecture A — premium combined-arms NCA
+## Architecture A — premium combined-arms NCA
 
 A broad, reliable structure is:
 
@@ -107,7 +107,7 @@ A common strong starting idea is:
 
 This gives conventional dominance, Hidden Deployment, Sensor/Pitcher utility, mission scoring, and enough cheap bodies to support the premium pieces.
 
-## Uhlan — current premium darling
+### Uhlan — current premium darling
 
 The current 70-point Feuerbach Uhlan is one of the most repeatedly praised current NCA profiles.
 
@@ -129,7 +129,7 @@ The community role is best described as:
 
 It can remain a marker until the right engagement, avoid being forced into reactive duty, and use Surprise Attack on the critical attack.
 
-### Double Uhlan is proven, not merely theoretical
+#### Double Uhlan is proven, not merely theoretical
 
 The September 2026 Satellite-winning NCA list used:
 
@@ -147,7 +147,7 @@ That makes **two Uhlans** a legitimate skew architecture rather than novelty dup
 
 The tactical reason is simple: each Uhlan is independently capable, self-funded by Tactical Awareness, and can pressure a separate lane.
 
-## Swiss Guard — still one of the defining NCA pieces
+### Swiss Guard — still one of the defining NCA pieces
 
 Current useful profiles include:
 
@@ -171,7 +171,7 @@ That means Swiss can function as:
 
 A Swiss does not need to kill its points to justify itself if Hidden Deployment forces the opponent to respect angles and network threats that may not actually exist.
 
-# Architecture B — Tactical Awareness / TAG compression
+## Architecture B — Tactical Awareness / TAG compression
 
 The 2026 Satellite-winning list provides strong evidence for a distinct NCA archetype:
 
@@ -193,7 +193,7 @@ The important lesson is not “three TAGs are good.” It is:
 
 This allows low-headcount lists to remain functional without paying for a conventional 14–15 Regular Order pool.
 
-## Fusilier LT → Squalos NCO
+### Fusilier LT → Squalos NCO
 
 This is one of NCA's cleanest command/economy packages.
 
@@ -208,7 +208,7 @@ A 10-point Fusilier LT therefore contributes a Lieutenant Order that can become 
 
 This package is particularly attractive in TAG-heavy lists where the Fusilier LT is otherwise just cheap command infrastructure.
 
-## Pathfinder Tactical Awareness
+### Pathfinder Tactical Awareness
 
 The 17-point Tactical Awareness Pathfinder is one of NCA's strongest quiet utility pieces.
 
@@ -231,7 +231,7 @@ That means it often self-funds the movement needed to:
 
 The Satellite-winning triple-TAG list used exactly this profile.
 
-# Blocker — core structural unit
+## Blocker — core structural unit
 
 Current Blocker chassis provides:
 
@@ -245,7 +245,7 @@ Current Blocker chassis provides:
 
 The current profile distinction is critical.
 
-## 15-point Specialist Blocker
+### 15-point Specialist Blocker
 
 Current role:
 
@@ -259,7 +259,7 @@ This is arguably the default structural profile.
 
 It does not need to win fights. Its job is to build the table state that lets the premium pieces and hackers work.
 
-## 19-point Hacker Blocker
+### 19-point Hacker Blocker
 
 Current role:
 
@@ -274,7 +274,7 @@ A useful current rule of thumb is:
 
 > **Start with the 15-point Specialist. Add/upgrade to the Hacker because the hacking plan needs it, not because old tacticas said the Hacker also launches Pitchers.**
 
-# NCA hacking — excellent geometry, not necessarily elite individual hackers
+## NCA hacking — excellent geometry, not necessarily elite individual hackers
 
 Current community discussion contains a useful disagreement:
 
@@ -313,7 +313,7 @@ The goal is:
 
 > **Make enemy HI/TAG movement through the midfield expensive and uncertain while your BS14–15 pieces dominate ordinary gunfights.**
 
-## Visible network + hidden hacker
+### Visible network + hidden hacker
 
 A particularly strong architecture is:
 
@@ -323,7 +323,16 @@ The opponent can see the Repeaters but may not know where the actual counter-hac
 
 That creates information pressure: trying to attack the network with their own hacker may reveal into a hidden KHD they could not account for.
 
-# Locust — substantially improved current role
+Compare complete indirect-fire packages, not just the launcher:
+
+- **Clipper Guided (16/1.5):** requires real Spotlight setup, SWC and appropriate linked hacking or FO/Repeater support (Fusilier, Fugazi, Pathfinder or Peacemaker when legal).
+- **Clipper FTO +1B Missile:** different *non-Guided* role where available.
+- **Squalos Mk-II HMG + GL (62/1.5):** an active shooter with optional Speculative attacks.
+- **Swiss Guard / Aquila:** conventional gun and command alternatives that avoid the full setup, save and Reset sequence.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Locust — substantially improved current role
 
 Current Locust brings:
 
@@ -346,7 +355,7 @@ This reduces the Order cost of moving a conventional hacker from the DZ.
 
 The cheap WildParrot profile is also a good sleeper pick: inexpensive Hidden Deployment disruption in an army where the opponent must already respect Swiss/Hexa-style hidden threats.
 
-# Hexa — hidden mission and counter-hacking piece
+## Hexa — hidden mission and counter-hacking piece
 
 Hexa retains:
 
@@ -355,7 +364,11 @@ Hexa retains:
 - Counterintelligence;
 - HD/KHD and gunfighter options.
 
-The 2026 Mainfinity list paired a Hexa KHD with a Blocker Pitcher and Locust Hacker.
+The 2026 Mainfinity list paired three different tools:
+
+- **Hexa KHD:** hidden counter-hacking.
+- **Blocker Pitcher:** network projection.
+- **Locust Hacker:** another hacking route.
 
 The useful lesson is:
 
@@ -370,7 +383,7 @@ A Hexa can remain hidden until:
 
 This makes Hidden Deployment part of NCA's mission resilience, not only its attack plan.
 
-# Fireteam philosophy — small purpose-built teams
+## Fireteam philosophy — small purpose-built teams
 
 Current NCA has unlimited Duos and an unusually flexible Wildcard pool.
 
@@ -386,13 +399,13 @@ The main Fireteam families are:
 - CSU;
 - Wildcards.
 
-## Fusilier teams
+### Fusilier teams
 
 At least one real Fusilier is required.
 
 Useful current small packages include:
 
-### Fusilier + Blocker + Bulleteer
+#### Fusilier + Blocker + Bulleteer
 
 Roles:
 
@@ -402,7 +415,7 @@ Roles:
 
 This is often a more efficient use of the Haris slot than filling a conventional five-Fusilier Core.
 
-### Fusilier + Blade Engineer + Bulleteer
+#### Fusilier + Blade Engineer + Bulleteer
 
 This packages:
 
@@ -413,7 +426,7 @@ This packages:
 
 It is particularly attractive in REM-heavy lists.
 
-### Fusilier + Blocker + Aquila FTO
+#### Fusilier + Blocker + Aquila FTO
 
 This provides:
 
@@ -424,7 +437,7 @@ This provides:
 
 Use when the Aquila is a central anti-marker/mission piece.
 
-# Bolt / Neoterra teams
+## Bolt / Neoterra teams
 
 Current Bolts remain strong because they combine:
 
@@ -435,7 +448,7 @@ Current Bolts remain strong because they combine:
 - Hacker/KHD/CoC/specialist options;
 - MSV1 MULTI Sniper.
 
-## Bolt MULTI Sniper — real current defensive anchor
+### Bolt MULTI Sniper — real current defensive anchor
 
 The 2026 Mainfinity tournament report provides concrete evidence:
 
@@ -445,7 +458,7 @@ The 2026 Mainfinity tournament report provides concrete evidence:
 
 This supports the current community recommendation of a **Bolt Sniper Duo/small Bolt team**.
 
-## Bolt MSR + Black Friar
+### Bolt MSR + Black Friar
 
 This is a particularly serious layered defensive package.
 
@@ -464,7 +477,7 @@ Black Friar contributes:
 
 The two models cover different visual/ARO problems instead of duplicating the same function.
 
-## Hannibal + Bolt / Blocker package
+### Hannibal + Bolt / Blocker package
 
 Hannibal adds:
 
@@ -477,7 +490,7 @@ Hannibal adds:
 
 He is useful when the Fireteam is expected to move and actively solve midfield problems rather than simply stand as a sniper nest.
 
-# ORCs — useful glue, not necessarily headline attackers
+## ORCs — useful glue, not necessarily headline attackers
 
 ORCs compete with much flashier NCA pieces, but current cheap profiles make them useful structural HI.
 
@@ -492,7 +505,7 @@ The Firewall BSG profile is especially useful as durable team glue in a hacking-
 
 Do not assume every ORC in NCA must be the team's primary shooter.
 
-# CSU Duo — cheap side module
+## CSU Duo — cheap side module
 
 Current CSU Fireteam allows:
 
@@ -502,11 +515,11 @@ Current CSU Fireteam allows:
 
 Useful small packages:
 
-## CSU + Blocker
+### CSU + Blocker
 
 Cheap control/scoring Duo.
 
-## CSU + Deva
+### CSU + Deva
 
 Deva brings unusually high-value utility for PanO:
 
@@ -518,7 +531,7 @@ Deva brings unusually high-value utility for PanO:
 
 This can form a self-contained secondary-group-style module without consuming a premium TAG/HI slot.
 
-# Bulleteer — near-default efficient attack consideration
+## Bulleteer — near-default efficient attack consideration
 
 Current Bulleteer profiles:
 
@@ -539,7 +552,7 @@ It pairs particularly well with:
 - Fusilier anchor;
 - broad Repeater support.
 
-# Redeye — exploitation piece, not default opener
+## Redeye — exploitation piece, not default opener
 
 Current Redeye provides:
 
@@ -557,13 +570,19 @@ The correct role is therefore better framed as:
 
 > **Use Redeye after another piece has opened the board.**
 
-Its speed lets it reach angles that a Swiss/Uhlan/Squalos may create but cannot efficiently exploit themselves.
+Redeye's speed can exploit routes opened by:
+
+- **Swiss Guard**;
+- **Uhlan**;
+- **Squalos Mk-II**.
+
+Those heavy guns may open lanes they cannot exploit efficiently themselves.
 
 A useful sequencing idea is:
 
 > **Swiss/Uhlan/Squalos opens the position → Redeye crosses the table and attacks the exposed secondary layer.**
 
-# Garuda — classic exploitation/airborne follow-up
+## Garuda — classic exploitation/airborne follow-up
 
 Current Garuda options provide cheap airborne pressure after the board has been disrupted.
 
@@ -575,7 +594,7 @@ Typical roles:
 
 Garuda is most valuable after a premium NCA gun has forced the opponent into awkward facing/deployment or removed long-range AROs.
 
-# Aquila — more than “BS15 MSV3 shooter”
+## Aquila — more than “BS15 MSV3 shooter”
 
 Current FTO Aquila profiles bring:
 
@@ -594,7 +613,7 @@ That means the Aquila's value is not merely winning FtFs.
 
 It can deliberately **decline the gunfight**, block visibility, and complete the mission.
 
-## Aquila Strategos LT
+### Aquila Strategos LT
 
 Use when the list wants:
 
@@ -609,9 +628,12 @@ It is a genuine build-around LT rather than a passive command model.
 
 **Not consensus/default:** Robert Shepherd's 2026 transcript argues that the Aquila Disco Baller LT often costs too much compared with a protected Fusilier/Auxilia LT, with or without a separate decoy. Take the Aquila when the plan really uses its specialist, MSV3, Strategos, Disco Baller and Fireteam access—not simply because it has several premium abilities.
 
-# Lieutenant and command packages
+- **Vision remains a premium problem:** **Aquila MSV3 / Disco Baller** and **Richard Quinn Disco** solve protected crossing or specialist routes, but consume more resources than Kestrel's 13pt Fennec. NCA should not be credited with cheap Fennec Disco access simply because both are PanO.
+- **Disagreement retained:** Gravitypool sees the Aquila FTO Disco spearhead as plausible; Shepherd calls the premium LT/vision purchase inefficient unless the mission actually requires it. The Mainfinity example of an Aquila using Disco for a late antenna illustrates the exceptional case. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
 
-## 1. Fusilier LT — cheapest/default command shell
+## Lieutenant and command packages
+
+### 1. Fusilier LT — cheapest/default command shell
 
 Still an excellent choice when the rest of the list does the fighting.
 
@@ -621,17 +643,17 @@ Best when paired with:
 
 so the LT Order becomes active-turn fuel.
 
-## 2. Auxilia LT
+### 2. Auxilia LT
 
 Useful when the list already wants Auxilia and values having the LT protected by/paired with an Auxbot rather than embedded in a Fireteam.
 
-## 3. Aquila Strategos LT
+### 3. Aquila Strategos LT
 
 Premium command architecture described above.
 
 Use when the LT is expected to actively shoot, score and manipulate LoF.
 
-## 4. Agent Maximus LT
+### 4. Agent Maximus LT
 
 Current Agent Maximus LT is a distinctive aggressive command option:
 
@@ -645,7 +667,7 @@ Current Agent Maximus LT is a distinctive aggressive command option:
 
 Use when the LT itself is part of the forward plan and the list benefits from Inspiring Leadership / aggressive command presence.
 
-## 5. Bolt / ORC / Uma LT
+### 5. Bolt / ORC / Uma LT
 
 All are valid role-based choices:
 
@@ -653,11 +675,15 @@ All are valid role-based choices:
 - ORC LT for a durable 2W command body;
 - Uma FTO LT for linked specialist command.
 
-These are normally chosen because they solve a composition problem, not because they are generally stronger than Fusilier/Aquila/Maximus command packages.
+Those Lieutenants solve specific composition problems; they do not automatically outperform:
 
-# Chain of Command
+- **Fusilier** inexpensive command;
+- **Aquila** premium visor/command;
+- **Maximus** aggressive command.
 
-## Quinn CoC
+## Chain of Command
+
+### Quinn CoC
 
 Quinn is the flexible default CoC consideration for aggressive-LT architectures.
 
@@ -671,17 +697,25 @@ Useful package:
 - Wildcard;
 - counts as Fusilier/Bolt.
 
-Use with aggressive Aquila / Maximus / ORC / Uma LT plans where succession insurance matters.
+Quinn's succession insurance becomes useful with aggressive Lieutenant plans involving:
+
+- **Aquila**;
+- **Maximus**;
+- **ORC**;
+- **Uma**.
 
 **Cost/placement caveat:** Quinn is a 24-point insurance purchase, not an automatic partner to a cheap hidden LT; Shepherd is skeptical of routine CoC spending. If protecting an aggressive LT, position Quinn **independently of that LT's attack Fireteam or vulnerable blast lane**, so one hostile attack cannot easily remove both.
 
-## Bolt CoC
+### Bolt CoC
 
 Makes more sense in a Bolt-centric team where the CoC body is already contributing to the Fireteam's primary structure.
 
-# Recovery architecture matters more than it looks
+## Recovery architecture matters more than it looks
 
-The Mainfinity game provides a good practical lesson: the NCA player lost both Bolt Sniper and Black Friar, then recovered both and returned them to the fight.
+The Mainfinity battle report illustrates recovery from losses of two separate gunfighters:
+
+- **Bolt Sniper:** returned to the fight after recovery.
+- **Black Friar:** likewise returned after recovery.
 
 That means recovery is not merely a safety net.
 
@@ -694,9 +728,9 @@ Prioritize support according to the list:
 - Trauma-Doc + Palbot for expensive organic shooters;
 - Tech-Bee as additional TAG/support infrastructure where useful.
 
-# Lesser-used / sleeper profiles
+## Lesser-used / sleeper profiles
 
-## Blade FTO Engineer
+### Blade FTO Engineer
 
 One of NCA's best support-glue profiles:
 
@@ -712,13 +746,18 @@ Excellent in lists with Bulleteers, Pathfinders, TAGs and other repairable asset
 
 The Satellite-winning triple-TAG list used it.
 
-## Sierra Thunderbolt
+### Sierra Thunderbolt
 
 The conventional instinct is HMG Total Reaction, but current NCA also has an **18-point / 0 SWC Thunderbolt (+1B) Total Reaction** profile.
 
-This is valuable when SWC is already consumed by Swiss/Uhlan/Bulleteer/Black Friar pieces.
+The Sierra's 0-SWC option is valuable when SWC is already committed to:
 
-## Black Friar
+- **Swiss Guard**;
+- **Uhlan**;
+- **Bulleteer**;
+- **Black Friar**.
+
+### Black Friar
 
 Current roles include:
 
@@ -726,11 +765,15 @@ Current roles include:
 - MULTI Rifle + Drop Bears + Discover support;
 - HRL.
 
-MSV2 + Albedo gives it a distinct matchup role even in an army already containing Aquila/Blocker/Sensor tools.
+Black Friar's **MSV2 + Albedo** can complement existing coverage from:
+
+- **Aquila** visors;
+- **Blocker** network/defensive tools;
+- **Sensor-equipped profiles** for marker detection.
 
 It is especially strong as a complementary piece rather than the only ARO.
 
-## Deva
+### Deva
 
 Easy to overlook because it is not a traditional PanO chassis.
 
@@ -743,7 +786,7 @@ Interesting current roles:
 
 WIP15 + NWI makes the Deva a good infowar/control specialist in the cheap CSU family.
 
-## Auxilia
+### Auxilia
 
 Still excellent low-cost NCA infrastructure.
 
@@ -758,9 +801,9 @@ Useful contributions:
 
 Auxilia is valuable because its battlefield contribution exceeds “one cheap Order.”
 
-# Practical NCA archetypes
+## Practical NCA archetypes
 
-## A. Uhlan / Swiss combined arms
+### A. Uhlan / Swiss combined arms
 
 Start with:
 
@@ -774,7 +817,7 @@ Start with:
 
 Use this as a broad all-comers structure.
 
-## B. Bolt defensive-control NCA
+### B. Bolt defensive-control NCA
 
 Start with:
 
@@ -786,7 +829,7 @@ Start with:
 
 The Fireteam controls space while the independent piece attacks.
 
-## C. Infowar NCA
+### C. Infowar NCA
 
 Start with:
 
@@ -797,7 +840,7 @@ Start with:
 
 The goal is not to build a pure hacking list. It is to make enemy HI/TAG movement expensive while conventional PanO shooting handles the rest.
 
-## D. Tactical Awareness / TAG compression
+### D. Tactical Awareness / TAG compression
 
 Start with:
 
@@ -811,33 +854,38 @@ Then choose whether to add another Uhlan/big body or broaden into mission pieces
 
 The proven extreme version is **Squalos + 2 Uhlans**.
 
-# Units / ideas not to take automatically
+## Units / ideas not to take automatically
 
-## Five Fusiliers
+### Five Fusiliers
 
 Current NCA's unlimited Duos and Wildcard flexibility mean a full Core is optional.
 
 Take five because the specific fireteam benefits matter, not because NCA traditionally used a Fusilier Core.
 
-## Sierra HMG
+### Sierra HMG
 
 Still useful, but no longer automatic. NCA has layered Hidden/Fireteam defence and the zero-SWC Thunderbolt Sierra can often fit better.
 
-## Blocker Hacker
+### Blocker Hacker
 
 Do not select it by habit based on old “Hacker + Pitcher” advice.
 
 The current Specialist carries the Pitcher.
 
-## Too many premium BS15 pieces
+### Too many premium BS15 pieces
 
-Aquila + Swiss + Uhlan + Squalos can easily consume points without producing mission coverage, network control, recovery or enough usable activations.
+Stacking these expensive choices can consume points without enough mission coverage, network control, recovery or useful activations:
+
+- **Aquila**;
+- **Swiss Guard**;
+- **Uhlan**;
+- **Squalos Mk-II**.
 
 The successful triple-TAG example works specifically because the expensive pieces self-fund with Tactical Awareness and the list still includes Engineer/network/support pieces.
 
-# Current go-to priority board
+## Current go-to priority board
 
-## Structural / first-pass considerations
+### Structural / first-pass considerations
 
 - **Blocker Specialist**
 - **Pathfinder Tactical Awareness**
@@ -845,7 +893,7 @@ The successful triple-TAG example works specifically because the expensive piece
 - appropriate Engineer/Doctor
 - cheap LT unless using an aggressive command package
 
-## Premium attack pieces
+### Premium attack pieces
 
 - **Uhlan**
 - **Swiss Guard**
@@ -853,14 +901,14 @@ The successful triple-TAG example works specifically because the expensive piece
 - **Redeye**
 - **Aquila**
 
-## Efficient secondary attackers
+### Efficient secondary attackers
 
 - **Bulleteer**
 - **Locust**
 - **Garuda**
 - Bolt sniper / Black Friar package
 
-## Fireteam glue / specialized support
+### Fireteam glue / specialized support
 
 - **Blade FTO Engineer**
 - **Hannibal**
@@ -868,14 +916,14 @@ The successful triple-TAG example works specifically because the expensive piece
 - **ORC Firewall profile**
 - **Deva in CSU team**
 
-## Command
+### Command
 
 - **Fusilier LT** — cheap/general
 - **Aquila Strategos LT** — premium active command
 - **Agent Maximus LT** — aggressive command / Inspiring Leadership
 - **Quinn CoC** — succession insurance for aggressive LT plans
 
-# High-value combinations to remember
+## High-value combinations to remember
 
 | Package | Purpose |
 |---|---|
@@ -894,7 +942,16 @@ The successful triple-TAG example works specifically because the expensive piece
 | **Aquila Strategos LT + Disco Baller** | command + anti-camo gun + late-game objective access |
 | **CSU + Deva** | cheap secondary control/infowar module |
 
-# Final list-building heuristic
+Each support choice needs an eligible beneficiary:
+
+- **Mulebot Baggage/Repeater (8) vs EVO (14/0.5):** pay for EVO only with a real eligible REM/Combat Jump supportware plan (such as Rui Shi/Bulleteer if rostered).
+- **Tech-Bee TAGCom (9):** assists eligible same-group Squalos/TAGs with printed Dodge/recovery bonuses, subject to roster availability.
+- **Maximus FTO TinBot (Repeater) (45/1):** enables shared Fireteam network only where the chart allows.
+- **Crux FTO Strategic Deployment:** access elsewhere in PanO does not establish NCA availability.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+## Final list-building heuristic
 
 A strong NCA list should normally answer these questions before filling the remaining points:
 
@@ -910,20 +967,3 @@ A strong NCA list should normally answer these questions before filling the rema
 The main modern NCA insight is:
 
 > **Do not judge the list only by raw Regular Orders or raw BS. Judge how many useful activations the army can produce, how many different attack vectors the opponent must respect, and how cheaply the support shell can create favorable engagements for the premium pieces.**
-
-## Vision control — role/value update (23 October 2026)
-
-- **Vision remains a premium problem:** **Aquila MSV3 / Disco Baller** and **Richard Quinn Disco** solve protected crossing or specialist routes, but consume more resources than Kestrel's 13pt Fennec. NCA should not be credited with cheap Fennec Disco access simply because both are PanO.
-- **Disagreement retained:** Gravitypool sees the Aquila FTO Disco spearhead as plausible; Shepherd calls the premium LT/vision purchase inefficient unless the mission actually requires it. The Mainfinity example of an Aquila using Disco for a late antenna illustrates the exceptional case. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Clipper Guided16/1.5** can use NCA's **Fusilier/linked hacking and Fugazi/Pathfinder/Peacemaker Repeater/FO** but requires real Spotlight setup and spare SWC; its **FTO +1B Missile** is a different *non-Guided* role if present. **Squalos Mk-II HMG+GL62/1.5** is a strong active shooter with supplementary Speculative capability. NCA's Swiss Guard/Aquila conventional gun and command alternatives may offer greater value without multiple setup/save/Reset stages.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Mulebot8 Baggage/Repeater and14/.5 EVO** compete on incremental effect: EVO only when a serious Rui Shi/Bulleteer/other eligible REM or Combat Jump is in use. **Tech-Bee TAGCom9** benefits same-group Squalos/other eligible TAG with printed Dodge/recovery bonus; requires actual NCA roster. **Maximus FTO TinBot(Repeater)45/1** creates shared Fireteam network where chart allows. **Crux FTO Strategic Deployment** in other PanO doesn't establish NCA access without its own exact source row.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
