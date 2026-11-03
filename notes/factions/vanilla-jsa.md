@@ -178,7 +178,7 @@ The original recording links, titles and dates are in the [Vanilla JSA source-or
 | **7** | Opposing opinion on **Kurayami HD**: speakers question its value versus a conventional Ninja/sectorial Tanuki because of weaker classic Ninja defenses; contrast with WIP12's preference for cheaper **Hidden HD + D-Charges + Super-Jump** (the Tanuki comparison is *not* a valid vanilla replacement). Much of episode is collection/lore, so lower gameplay priority. |
 | **Supporting** | Shared TAG/REM roles, list examples and historical cross-check only; **not evidence** to copy sectorial AVA, Wildcards or Fireteams. |
 
-**Confidence and baseline:** YouTube and Spotify MCP transcripts indexed in the [reference archive](references/vanilla-jsa_refs.md#best-transcript-backed-source-order--updated-2026-10-23) were retrieved/read for the named sources. Auto-transcription mangles terms (**Karakuri, Shizoku, Tankō, Mechazoid, Hatamoto**) and some 2025 comments describe N5 launch profiles or optional modes that changed. For **exact legality, AVA, points, SWC, weapons and tactical skills**, the repository's pinned [N5.3 vanilla JSA roster](../../sectorials/jsa/jsa.md) is the authority. **No dedicated current Mechazoid/O-Yoroi competitive tactica or 2026-specific vehicle review with a verifiable MCP transcript was located**; the TAG-specific notes below are profile-based evaluation plus identified shared-source discussion, not attributed fabricated verdicts.
+**Confidence and baseline:** YouTube and Spotify MCP transcripts indexed in the [reference archive](references/vanilla-jsa_refs.md#best-transcript-backed-source-order--updated-2026-10-23) were retrieved/read for the named sources. Auto-transcription can garble JSA unit names, and some 2025 comments describe N5 launch profiles or optional modes that changed. For **exact legality, AVA, points, SWC, weapons and tactical skills**, the repository's pinned [N5.3 vanilla JSA roster](../../sectorials/jsa/jsa.md) is the authority. **No dedicated current Mechazoid/O-Yoroi competitive tactica or 2026-specific vehicle review with a verifiable MCP transcript was located**; the TAG-specific notes below are profile-based evaluation plus identified shared-source discussion, not attributed fabricated verdicts.
 
 ## Transcript disputes — preserve both reasons
 
@@ -600,7 +600,13 @@ Episode S3E18 presented **three genuinely different Vanilla ideas**, useful for 
 | **Dan** | Double Shikami, O-Yoroi LT, two Rui Shi, EVO support and Keisotsu hackers | Mobile objective pressure plus a TAG and anti-Mimetism REM shooting is a coherent non-Ryūken approach | Reprice/rebuild in current Army; do not trust old coded lists unchanged |
 | **Ash** | Hatamoto LT, 2 Tankō Disco, 2 Ryūken HRL, 2 Raiden missile threats, Saito and Ninja KHD | Layered reactive defence and Hidden Deployment let a primarily short-range army force expensive enemy sequencing | Current roster must determine each profile; especially inspect the Raiden current options |
 
-Ash's defensive package converges notably with the later Krug winner's double Ryūken/Tankō/Hatamoto philosophy. It is **independent historical support for an archetype**, not a statistical meta sample.
+Ash's defensive package independently supports the later Krug winner's defensive/command archetype:
+
+- **Double Ryūken:** layered Decoy/HRL deployment pressure.
+- **Tankō:** vision denial and threatening advance routes.
+- **Hatamoto:** credible attacking Lieutenant and command anchor.
+
+This is **historical evidence for an archetype**, not a statistical metagame sample.
 
 ### WIP12 Pro Goblin: mission pack determines the package
 
