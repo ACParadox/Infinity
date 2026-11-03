@@ -31,18 +31,62 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 
 **Other genuinely dangerous profiles, without a forced global rank:**
 
-- **Shizoku 33/1.5 FTO HRL(+1B)** in Bushi-tai or **38/1.5 Strategic Deployment HRL(+1B)** in Sayō: elite **BS13, ARM5, Mimetism(-3), 2W** ranged pressure that a cheap link can help deliver. Only the **38pt Strategic Deployment** variant is eligible for Sayō; do not put the 33pt FTO there.
-- **Tanuki Chain of Command 18/0** is exceptional **aggressive-LT insurance for the price**, but it is a **different** profile from the 20pt Hacker. Tanuki **MSV2 HMG 29/1.5**, **MSV2 MULTI Sniper 27/1.5** and **Engineer 19/0** expand the same versatile troop family without inheriting each other's gear.
-- **Raiden HRL 25/1.5**, Hidden Deployment + Minelayer, is a strong **timing/layered-ARO** piece; **Missile Launcher 33/2** is a more expensive alternative. It is not a generic Burst-heavy ARO and should be backed by another threat.
-- **Mechazoid TAG 66–69/1.5** brings **S6, STR3, Climbing Plus, Tactical Awareness, strong CC and a Kobaruto specialist Ancillary**; **Triphammer 48–53 (including 0-SWC variants)** offers a cheaper S7 alternative. These are genuine TAG options, but not automatic purchases or a justification for overloading the list with Hackable heavies.
+- **Shizoku — separate HRL Fireteam profiles:**
+  - **FTO 33/1.5:** Bushi-tai ranged attacker.
+  - **Strategic Deployment 38/1.5:** Sayō ranged attacker.
+  
+  Both are BS13, ARM5, Mimetism(-3), 2W. Only the 38pt version can join Sayō.
+- **Tanuki — choose the role-specific profile:**
+  - **CoC 18/0:** aggressive-Lieutenant insurance.
+  - **Hacker 20/0.5:** Pitcher, Disco and Sayō anchor.
+  - **MSV2 HMG 29/1.5:** active visor gun.
+  - **MSV2 MULTI Sniper 27/1.5:** long-range visor gun.
+  - **Engineer 19/0:** repair specialist.
+  
+  Profiles do not inherit one another's equipment.
+- **Raiden — hidden reactive choices:**
+  - **HRL 25/1.5:** Hidden Deployment and Minelayer.
+  - **Missile Launcher 33/2:** more costly long-range alternative.
+  
+  Both benefit from layered AROs, not high native Burst.
+- **TAG alternatives:**
+  - **Mechazoid 66–69/1.5:** S6, STR3, Climbing Plus, Tactical Awareness, strong CC and Kobaruto Ancillary.
+  - **Triphammer 48–53:** cheaper S7 profile family, with some zero-SWC options.
+  
+  Both need a considered Hackable-heavy support plan.
 
 ### Particularly strong or unusual Fireteams
 
-- **Sayō Haris — Tanuki Hacker 20/.5 + Rui Shi MSV2 Spitfire 23/1 + Shizoku Strategic Deployment HRL 38/1.5:** probably the **signature Shinden toolbox Fireteam**. Pitcher/hacking, projected Eclipse, anti-Mimetism/MSV gun, long-range HRL and a scoring specialist in one compact package. Powerful but a substantial investment; Shizoku **must** use its Sayō-legal Strategic Deployment profile.
-- **Sayō Duo — Tanuki Hacker + Rui Shi MSV2 23/1** (or **Mine Dispenser Rui Shi 21/.5**): an unusually complete **two-model** team. The Mine Dispenser version pairs well with **Pangguling Baggage** and Monstrucker to generate persistent threats in turns when there is no favorable direct attack. Pangguling is **support outside the Fireteam**, not a legal member of Sayō.
-- **Bushi-tai Haris/Core — Jizamurai + Hatamoto + Shizoku FTO** (with a second Hatamoto possible in a larger Bushi-tai): credible **CC/short assault + serious long-range gun** in a separate family from Sayō. Requires a **Jizamurai** anchor; the **FTO** Shizoku is legal here, not the Strategic Deployment version.
-- **Senku Haris — cheap Senku FO/Paramedic + Senku + Hatamoto:** lets a premium NCO/specialist operate with inexpensive supporting bodies. The value is **Hatamoto plus Order-efficient team infrastructure**, not the Senku's BS11 shooting. Senku-family access is limited to **one Hatamoto**.
-- **Mechazoid Duo — Mechazoid + Tanuki** or **Mechazoid + Atom Sensor/FO/Repeater:** specialized TAG support without building a Core. **Mechazoid + Atom + Tanuki is not a legal three-member Mechazoid team**; it is a **Duo-only** family.
+- **Sayō Haris — compact multi-role team:**
+  - **Tanuki Hacker 20/0.5:** Pitcher, Disco and mission specialist.
+  - **Rui Shi MSV2 Spitfire 23/1:** midrange visor gun.
+  - **Shizoku Strategic Deployment HRL 38/1.5:** legal Sayō long-range gun.
+  
+  Powerful but costly; the 33pt Shizoku FTO is not eligible for this team.
+- **Sayō Duo — choose combat or control:**
+  - **Tanuki Hacker:** network, specialist and Disco.
+  - **Rui Shi MSV2 Spitfire 23/1** or **Rui Shi Mine Dispenser 21/0.5:** gun or board control.
+  - **Pangguling Baggage / Monstrucker:** separate support outside the team.
+  
+  Pangguling is not a Sayō member.
+- **Bushi-tai Haris/Core — alternative assault team:**
+  - **Jizamurai:** required source.
+  - **Hatamoto:** CC/short assault; a second may be eligible in a larger team.
+  - **Shizoku FTO:** long-range gun, not the Strategic Deployment variant.
+  
+  Validate the selected team and current profile limits.
+- **Senku Haris — inexpensive structure:**
+  - **Senku FO/Paramedic:** budget specialist.
+  - **Another Senku:** additional cheap Fireteam body.
+  - **Hatamoto:** main NCO/fighting specialist.
+  
+  Supports Hatamoto rather than relying on Senku BS11 shooting. Only one Hatamoto is permitted.
+- **Mechazoid Duo — TAG plus one partner:**
+  - **Mechazoid:** principal TAG.
+  - **Tanuki:** specialist/hacking/visibility; **or**
+  - **Atom Sensor/FO/Repeater:** utility and detection.
+  
+  Mechazoid + Atom + Tanuki is not a legal three-member team.
 
 **Structural Fireteam advantage:** Shindenbutai permits **one Core, one Haris and effectively unlimited Duos**, so multiple independent team modules can coexist:
 
