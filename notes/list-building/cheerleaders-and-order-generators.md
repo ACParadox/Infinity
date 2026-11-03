@@ -2,24 +2,67 @@
 
 **Vanilla O-12 Order economics — [Robert Shepherd faction focus (05–18m, 22–31m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=300s), reviewed 26 Oct 2026:**
 
-- Two **Moonraker Minelayers15/.5**, a **Ment CoC14**, **Varangians12–13 Regular**, **Raveneye Lt12/0**, **Kappa HD13/.5**, and **Oko Tactical Awareness18** are *extremely good utility per purchase*, but the faction's **12–15pt useful floor** makes it harder to support a second expensive Gamma/Zeta/Omega than factions with numerous 5–7pt **Regular** models.
-- Distinguish **Varangian Regular** from **Ioann Bann32 Irregular**, **Monstrucker Engineer12 Irregular**, and **Oko's personal Tactical Awareness Order** from transferable pooled Orders.
+- **Vanilla O-12 utility shell:**
+  - **Moonraker Minelayers15/.5** — two.
+  - **Ment CoC14**.
+  - **Regular Varangians12–13**.
+  - **Raveneye Lt12/0**.
+  - **Kappa HD13/.5**.
+  - **Oko Tactical Awareness18**.
+
+  These offer *excellent utility per purchase*, but the faction's **12–15pt useful floor** makes a second expensive Gamma/Zeta/Omega harder to fund than in factions with numerous 5–7pt **Regular** models.
+- **Order types are not interchangeable:**
+  - **Varangian** — Regular.
+  - **Ioann Bann32** — Irregular.
+  - **Monstrucker Engineer12** — Irregular.
+  - **Oko** — Tactical Awareness Order is personal, not a transferable pooled Order.
 - Shepherd prefers a clear primary attack plan instead of 'fifteen great small tools and no winning gun'.
-- In his sample list, **Gamma Lt+Ment** funds offense, **2 Moonrakers** protect it, and **Oko+RoadBot** score; the example is *one philosophy*, not a mandatory template.
+- **Sample list roles:**
+  - **Gamma Lt + Ment** — fund offense and secure command succession.
+  - **Two Moonrakers** — protect the attack plan.
+  - **Oko + RoadBot** — score.
+
+  The example is *one philosophy*, not a mandatory template.
 
 **Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
-**Body/Order accounting for rare mechanics:** [Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares **G:Jumper (2–3 Proxies, 1 Order)**, **Puppet Master+PuppetBot**, **Pilot-X+RacerBots**, synchronized Sirius/Coyote/Drummer peripherals and N5.3 autonomous Cyberplugs. Several bodies do not imply extra pooled Regular Orders.
+**Body/Order accounting for rare mechanics:** [Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares:
+
+- **G:Jumper** — 2–3 Proxies, one Order.
+- **Puppet Master + PuppetBot**.
+- **Pilot-X + RacerBots**.
+- **Sirius** synchronized peripherals.
+- **Coyote** synchronized peripherals.
+- **Drummer** synchronized peripherals.
+- **Autonomous Cyberplugs** under N5.3.
+
+Several bodies do not imply extra pooled Regular Orders.
 
 **Research: 23 October 2026.** This is a role guide, not an Army roster, legality document or tournament pick-rate study. **Authoritative prices, profile effects, AVA and Fireteams:** current committed [sectorial reference files](../../sectorials) (September 2026 Army data, N5.3 + FAQ v0.1). The tier ratings are subjective comparisons of **what an Order-generating slot achieves**, not mathematical win rates. A particular sectorial may have different costs, AVA, FT permissions or availability from its vanilla parent. Recheck the exact chosen roster.
 
 ## Short verdict
 
 1. **Best pure Orders for the points:** 6-point **Netrods / Ímetrons** (if legally available and deployed); **6-point Caledonian Volunteers** offer a much more usable *armed*, hideable Regular Order. An immobile Order source does not screen corridors or defend a Lieutenant.
-2. **Best universally useful cheap bodies:** **7-point Flash Pulse + Repeater REMs** (Fugazi, Transductor, Fanous, Kyttä, Chaīyì, R-Drone and appropriate faction equivalents). They produce a Regular Order **and** a Repeater, mobile Flash ARO and sometimes Mimetism (-3). They are not interchangeable in AVA or source profiles.
-3. **Best 8-point support filler:** basic **Baggage REM** (Mulebot, Salyut, Kameel, FuzzBot and equivalents). Cheap Regular Order + Repeater/Deactivator + reload support where the profile has them. One is often excellent; additional S4 bases may clog the DZ.
+2. **Best universally useful cheap bodies:** 7-point Flash Pulse + Repeater REMs, where legal:
+   - **Fugazi**
+   - **Transductor**
+   - **Fanous**
+   - **Kyttä**
+   - **Chaīyì**
+   - **R-Drone**
+   - **Other faction equivalents**
+
+   These produce a Regular Order **and** a Repeater, mobile Flash ARO and sometimes Mimetism (-3). They are not interchangeable in AVA or source profiles.
+3. **Best 8-point support filler:** basic Baggage REMs, where legal:
+   - **Mulebot**
+   - **Salyut**
+   - **Kameel**
+   - **FuzzBot**
+   - **Other faction equivalents**
+
+   Each offers a cheap Regular Order plus Repeater/Deactivator and reload support where the profile has them. One is often excellent; additional S4 bases may clog the DZ.
 4. **Best mass-Order *engine*:** Imperial Service **Kuang Shi Core**: 4 × 6-point Kuang Shi + 13-point Celestial Guard Monitor = **37 points / 0.5 SWC for five Regular Orders**, smoke and multiple direct-template threats. Exceptional efficiency, but **five Combat Group slots**, a required Monitor and Fireteam constraints. AVA 8 does not let one Monitor sustain eight members in a five-trooper Core.
 5. **Best command-fuel conversion:** an active **Inspiring Leadership Lieutenant** (e.g. Saladin in legal Haqq lists or Wallace where available) can make otherwise Irregular troopers generate Regular Orders. **FT Master** can regularize linked Irregular troops; these are *conditional package bonuses*, not unconditional profiles.
 6. **Best cheap Order-plus-tempo alternatives:** 8-point **Motorized Bounty Hunters** where Regular and roster-legal; **9-point RacerBots** where present; modest-cost line Specialists, light templates or Minelayers when they substitute for a pure filler *without costing a valuable extra slot*.
@@ -108,10 +151,27 @@
 - **ALEPH / Operations Subsection / Steel Phalanx:** Netrods are the 6pt pure floor where available; compare 13pt **Dikpala** in OSS for actual ARO/repeater/FT functionality and Posthuman/G: Jumper slot compression. Do not use pre-Mazebreaker Dakini-era profile assumptions for OSS.
 - **Combined / Onyx / Shasvastii / Next Wave / Morats:** Ímetron where available; **7pt R-Drone** where legal; **11pt Ikadron** trades pure low cost for Baggage, Repeater, Discover and a Light Flamethrower (+1B). Next Wave has expensive baseline Regular bodies and FT-Master cases—unit-count pressure is real. Don't assume one faction's AVA in another.
 - **PanO / Kestrel / NCA / Varuna / WinterFor / Acontecimento / Military Orders:** **7pt Fugazi** and **8pt Mulebot** where legal, then S2 Fusilier/Fennec and legal FT fillers. A necessary **10pt Fennec** is cheaper than its upgraded 12–16pt toolbox cousins; evaluate FB requirement and Lieutenant-decoy identity. Pathfinder is a useful *second job*, not basic filler.
-- **Nomads / Bakunin / Corregidor / Tunguska:** **7pt Transductor**, **8pt Salyut** where legal; **9pt Moderator**, **10pt Alguacil**, **11pt Puppet Master** in permitted lists. Tunguska **13pt Securitate** is a premium only if WIP/Warhorse/Repeater/team use is meaningful; 8pt Motorized Bounty Hunters are legal Regular tempo but not covert S2 guards.
+- **Nomads / Bakunin / Corregidor / Tunguska** (check legality per roster):
+  - **Transductor** — 7pt.
+  - **Salyut** — 8pt where legal.
+  - **Moderator** — 9pt.
+  - **Alguacil** — 10pt.
+  - **Puppet Master** — 11pt.
+  - **Securitate (Tunguska)** — 13pt premium only if WIP/Warhorse/Repeater/team value matters.
+  - **Motorized Bounty Hunter** — 8pt Regular tempo but not a covert S2 guard.
 - **Yu Jing / ISS / Invincible / White Banner:** **7pt Chaīyì** where legal; **ISS Kuang Shi Monitor Core** is a 37pt/0.5 package. For a non-ISS list, compare Zhanshi and cheap regular specialists instead; **do not transfer Kuang Shi Core to other factions**.
-- **Haqq / Hassassin / Qapu / Ramah:** **7pt Fanous**, **8pt Kameel** where legal, **11pt Ghulam** and **12pt Barid FO/Pitcher** (vanilla) for role compression. Only count Ghazi/Daylami as Regular if actual Inspiring Leadership or other legal conversion applies.
-- **O-12 / Starmada / Torchlight:** **7pt Kyttä**, **8pt FuzzBot** where legal; **12pt Kappa** small-base Generalist. Tactical Awareness on a linked/fast Waverider or mission piece can be worth much more than a parked extra Order.
+- **Haqq / Hassassin / Qapu / Ramah** (check legality per roster):
+  - **Fanous** — 7pt.
+  - **Kameel** — 8pt where legal.
+  - **Ghulam** — 11pt.
+  - **Barid FO/Pitcher** — 12pt in vanilla, for role compression.
+
+  Count **Ghazi** or **Daylami** as Regular only when an actual Inspiring Leadership or other legal conversion applies.
+- **O-12 / Starmada / Torchlight** (check legality per roster):
+  - **Kyttä** — 7pt.
+  - **FuzzBot** — 8pt where legal.
+  - **Kappa** — 12pt small-base generalist.
+  - **Waverider** — Tactical Awareness on a linked/fast variant can be worth more than a parked extra Order.
 - **Ariadna / Caledonia / TAK / Kosmoflot / USAriadna / FRRM:** no automatic PanO-style Flashbot/Baggage engine. **6pt Caledonian Volunteer** is an exceptional floor in its roster; other factions use their cheapest S2 line troops and Irregular warbands to guard/harass. Wallace Inspiring Leadership is a conditional force-multiplying engine. Do not equate a Warcor to a Regular order.
 - **JSA / Oban / Shindenbutai:** evaluate Keisotsu / cheap required Team bases, FO and chain-rifle defence against scarce cheap Regular slots; cheap Smoke/Warbands may be Irregular, so split passive economy from independent activation tempo.
 - **Tohaa:** assess Kamael and cheap supporting Triad/utility pieces as **Fireteam and battlefield enablers**, not just their base Regular cost; SymbioMates and peripherals do not produce extra pool Orders.
