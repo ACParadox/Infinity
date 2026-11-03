@@ -91,18 +91,19 @@ _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, pro
 |---|---|---|---|---|
 | 1 | **S+** | **Ghulam FO 12/0 — Haqq/Hassassin** | WIP14, Regular, Flash Pulse, 1pt above 11pt rifle, also Classified/Targeted option. | Low-cost near-side objective, not a solo central dash. |
 | 2 | **S+** | **Pathfinder 14/0 or TA17/0 — PanO** | WIP13, MOV15-10, FO/Sensor/Repeater/Triangulated Fire; +3pt Tactical Awareness funds its own scoring Order. Kestrel legal Wildcard context has extra move value. | Hackable one-STR bot; TA is personal except when legal Fireteam leader. |
-| 3 | **S+** | **Daleth / Combined M-Drone 15/0, TA18/0** | MOV15-10 FO/Sensor/Repeater, good second sensor anti-Camo role. Daleth **also has Climbing Plus**, M-Drone does *not*. | One STR, hacking/EM vulnerability; FTO/AVA differ by roster. |
-| 4 | **S** | **Posthuman Mk.5 FO 13/0.5 — ALEPH/OSS** | WIP15, FD+10, NWI, SMG/Flash Pulse/E/M grenades; terrific **marginal** Objective/denial body. | **G:Jumper selects 2–3 Proxies counted together, with activation/Order rules**: not independently available 13pt/Regular Order. |
-| 5 | **S** | **Barid FO 12/0 / KHD14/0 — Vanilla Haqq** | WIP14/Pitcher at very low price, Specialist and network utility. | Mostly backfield. Don't pay many Orders moving it when a Camo FO can start nearer. |
-| 6 | **S** | **Hunzakut FO15/0 or 19/0 — Vanilla Haqq** | Camouflage/Infiltration, mines/D-Charges; 15pt BSG FO cuts travel Orders dramatically. Saladin LT makes *eligible* Irregular Hunzakut produce Regular. | **Irregular normally**, not another transferable pooled Order. |
-| 7 | **S** | **Strelok FO 17/0 — Vanilla Ariadna** | Camo, FD+20, Decoy(1), Flash Pulse: easy cheap central button with private identity pressure. | Light armor WIP13; don't spend it fighting premium MSV. |
-| 8 | **A+** | **Naga FO 25/0 — ALEPH/OSS** | Infiltration/Camo, Dogged, Deployable Repeater and D-Charges; makes scoring/network routes. | Dogged helps final act, *not* safe extraction. |
-| 9 | **A+** | **Shrouded FO 24/0 — Shas/Combined** | Camouflage/Infiltration, mines and regeneration: multiple tasks without paying Malignos30. | Worse concealment/speed than hidden Malignos; 1W. |
-| 10 | **A+** | **Riksha FO 20/0 — ALEPH/OSS** | Fast ARM3/Mimetism(-3) REM with BS13, good lateral response and still an attackable support model. | Hackable one STR; FO is **not** the Red Fury/HRL profile. |
-| 11 | **A+** | **Deva FO 21/0 — ALEPH/OSS** | **WIP15, NWI, Immunity(Isolated), Number2**: durable-ish repeated button tests, excellent in a moving eligible team. | Foot MOV10-10; Sensor and KHD are other Deva profiles. |
-| 12 | **A+** | **Clipsos FO 26/0 — Tohaa** | Infiltration/Hidden/Mimetism(-6), strong concealed turn-3 reveal. | Less durable than Sukeul; harder to protect after carrying objective. |
-| 13 | **A** | **Coyote FO 27–33/0 — Corregidor** | MSV1, Warhorse, D-Charges, FO and chosen BambaBot; anti-Camo gun plus mission push. | Package costs and FD/Gun/BambaBot options differ. |
-| 14 | **A** | **Tai Sheng FO+NCO 33–37/0 — Invincible Army** | 2W/Warhorse, FO, NCO and link permission: Lieutenant Order can drive scoring team. | Expensive, and **CoC variant 36–40** is another profile. |
+| 3 | **S+** | **Daleth FO/Sensor 15/0 (TacAware 18/0) — ALEPH** | MOV15-10 FO/Sensor/Repeater, good second sensor anti-Camo role. Daleth **also has Climbing Plus**, M-Drone does *not*. | One STR, hacking/EM vulnerability; FTO/AVA differ by roster. |
+| 4 | **S+** | **M-Drone FO/Sensor 15/0 (TacAware 18/0) — Combined** | MOV15-10 FO/Sensor/Repeater, good second sensor anti-Camo role. Daleth **also has Climbing Plus**, M-Drone does *not*. | One STR, hacking/EM vulnerability; FTO/AVA differ by roster. |
+| 5 | **S** | **Posthuman Mk.5 FO 13/0.5 — ALEPH/OSS** | WIP15, FD+10, NWI, SMG/Flash Pulse/E/M grenades; terrific **marginal** Objective/denial body. | **G:Jumper selects 2–3 Proxies counted together, with activation/Order rules**: not independently available 13pt/Regular Order. |
+| 6 | **S** | **Barid FO 12/0 / KHD14/0 — Vanilla Haqq** | WIP14/Pitcher at very low price, Specialist and network utility. | Mostly backfield. Don't pay many Orders moving it when a Camo FO can start nearer. |
+| 7 | **S** | **Hunzakut FO15/0 or 19/0 — Vanilla Haqq** | Camouflage/Infiltration, mines/D-Charges; 15pt BSG FO cuts travel Orders dramatically. Saladin LT makes *eligible* Irregular Hunzakut produce Regular. | **Irregular normally**, not another transferable pooled Order. |
+| 8 | **S** | **Strelok FO 17/0 — Vanilla Ariadna** | Camo, FD+20, Decoy(1), Flash Pulse: easy cheap central button with private identity pressure. | Light armor WIP13; don't spend it fighting premium MSV. |
+| 9 | **A+** | **Naga FO 25/0 — ALEPH/OSS** | Infiltration/Camo, Dogged, Deployable Repeater and D-Charges; makes scoring/network routes. | Dogged helps final act, *not* safe extraction. |
+| 10 | **A+** | **Shrouded FO 24/0 — Shas/Combined** | Camouflage/Infiltration, mines and regeneration: multiple tasks without paying Malignos30. | Worse concealment/speed than hidden Malignos; 1W. |
+| 11 | **A+** | **Riksha FO 20/0 — ALEPH/OSS** | Fast ARM3/Mimetism(-3) REM with BS13, good lateral response and still an attackable support model. | Hackable one STR; FO is **not** the Red Fury/HRL profile. |
+| 12 | **A+** | **Deva FO 21/0 — ALEPH/OSS** | **WIP15, NWI, Immunity(Isolated), Number2**: durable-ish repeated button tests, excellent in a moving eligible team. | Foot MOV10-10; Sensor and KHD are other Deva profiles. |
+| 13 | **A+** | **Clipsos FO 26/0 — Tohaa** | Infiltration/Hidden/Mimetism(-6), strong concealed turn-3 reveal. | Less durable than Sukeul; harder to protect after carrying objective. |
+| 14 | **A** | **Coyote FO 27–33/0 — Corregidor** | MSV1, Warhorse, D-Charges, FO and chosen BambaBot; anti-Camo gun plus mission push. | Package costs and FD/Gun/BambaBot options differ. |
+| 15 | **A** | **Tai Sheng FO+NCO 33–37/0 — Invincible Army** | 2W/Warhorse, FO, NCO and link permission: Lieutenant Order can drive scoring team. | Expensive, and **CoC variant 36–40** is another profile. |
 
 **Rule warning:** Forward Observer is a WIP *attack requiring LoF* and can apply Targeted; being FO **does not** confer an automatic bonus on every Console action. Exact specialist types, WIP modifiers and Classified rules depend on **the mission**.
 
@@ -121,7 +122,9 @@ _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, pro
 | 9 | **A** | **A** | **Jazz FTO22/.5 or Jazz+Billie25/.5 — Corregidor** | HD+ Pitcher/Trinity, mines and network; paired profile includes **two actual Regular Orders**. | Two mutually exclusive packages; Billie is not a Servant scorer. |
 | 10 | **A** | **A** | **Kerr-Nau KHD30/0 — Onyx** | WIP14, Pitcher, Plasma gun, KHD with White Noise; can join eligible Unidron context. | Overkill without enemy hackers; no generic Onyx team access. |
 | 11 | **A** | **A** | **Nexus HD/Engineer/CoC 23–27 — Combined/Onyx** | NCO/Number2/Mimetism(-3)/EMitter and legal team supports specialist role. | **Cannot combine HD, Engineer and CoC on one Nexus**. |
-| 12 | **B/A** | **S** | **Basic Ghulam16 HD / Kappa13 HD / Fusilier15 HD** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
+| 12 | **B/A** | **S** | **Ghulam HD16 — Haqq** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
+| 13 | **B/A** | **S** | **Kappa HD13 — O-12** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
+| 14 | **B/A** | **S** | **Fusilier HD15 — PanO** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
 
 For other KHD/Hacker comparisons and program matchups, use [dedicated N5.3 Hacker tiers](hackers-and-killer-hackers.md). **KHD isn't automatically an HD+ or all-purpose anti-TAG tool.**
 
