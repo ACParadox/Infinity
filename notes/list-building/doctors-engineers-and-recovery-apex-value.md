@@ -34,7 +34,15 @@
 | 17 | 85% | **97.75%** | Ghulam WIP14 + Doctor(+3) |
 | 18 | 90% | **99%** | Rouhani/Hakim WIP15 + Doctor(+3); Parvati WIP15 + Engineer(+3) in applicable current roster |
 
-**Formula:** with one *allowed* repeat of the failed same-target roll, \`P(success) = p + (1-p)*p\`. Built-in **Doctor/Engineer (ReRoll WIP=X)** instead uses \`p + (1-p)*q\`, where \`q=X/20\` and the second result replaces the first; subsequent Command Token reroll is separately possible **where the target qualifies** and the resource remains. These are not extra free Orders or universal rerolls. **Cubes** allow Command Token repeat of **Doctor**; **Remote Presence** allows it for **Engineer**. Both use the *actual qualifying target*, not every ally.
+**Formula:**
+
+- with one *allowed* repeat of the failed same-target roll, \`P(success) = p + (1-p)*p\`.
+- Built-in **Doctor/Engineer (ReRoll WIP=X)** instead uses \`p + (1-p)*q\`, where \`q=X/20\` and the second result replaces the first; subsequent Command Token reroll is separately possible **where the target qualifies** and the resource remains.
+- These are not extra free Orders or universal rerolls.
+- **Cubes** allow Command Token repeat of **Doctor**
+- **Remote Presence** allows it for **Engineer**.
+
+Both use the *actual qualifying target*, not every ally.
 
 **Examples:**
 - **Trauma-Doc12** on Cubed, reachable elite VITA: 60% normally, **84% with one Command Token**; **Ghulam(+3)17**: 85%, **97.75% with token**. On a **non-Cube** troop, that Doctor token reroll is unavailable.
@@ -160,23 +168,75 @@ Three real disputes:
 
 ## 7) Sectorial quick-reference: what changes when choosing a healer
 
-**PanO/Kestrel/NCA/MO/Varuna/WinterFor/Acontecimento:** 14pt **Trauma-Doc WIP12** with **Palbot3** is cheap but failure risk is real (60%; 84% Cube+token); **Machinist WIP12** similarly wants Remote Presence token support. **Bipandra23–25** helps in linked Kestrel, but not a universal upgrade. NCA **Blade Parachutist Engineer** recovers Redeye on far flank, where a DZ Machinist cannot. Hospitaler Doctor is better inside a moving MO Knight team; **don't assume Servant-equipped Controller remains linked**.
+**PanO/Kestrel/NCA/MO/Varuna/WinterFor/Acontecimento:**
 
-**ALEPH/OSS/Steel:** **Sophotect25 + Yudbot(s)** is among best whole-list returns on a 300pt mixed army; **Parvati36** is better where 2W Doctor or mobile high-end Engineer is actually needed; **Posthuman Mk.1 Engineer** creates extra slot/mission economy **only inside a legal 2–3 Proxy package**. Do not count a Mk.1 as independently fieldable cheap Engineer.
+- 14pt **Trauma-Doc WIP12** with **Palbot3** is cheap but failure risk is real (60%; 84% Cube+token)
+- **Machinist WIP12** similarly wants Remote Presence token support.
+- **Bipandra23–25** helps in linked Kestrel, but not a universal upgrade.
+- NCA **Blade Parachutist Engineer** recovers Redeye on far flank, where a DZ Machinist cannot.
 
-**Nomads/Tunguska/Corregidor/Bakunin:** **Clockmaker18 + Zondbot3** often beats a 30pt toolbox repairer for pure REM/TAG infrastructure. **Evader** or **Orphan Engineer** works when it is also gun/Repeater/link utility. **Tomcat22/26 + Carlota28/32** bypass a far-flank movement tax; **Wildcat Engineer25** is controversial toolbox spending when its team doesn't use MSV or gear.
+Hospitaler Doctor is better inside a moving MO Knight team; **don't assume Servant-equipped Controller remains linked**.
 
-**Combined/Shas/Onyx/Next Wave/Morat:** **Med-Tech21 + 3pt Slave Drones** is standout cheap dual hub, but tall S3 deserves concealment; **Gearhead Cyberplug** can project engineering differently and **cannot** also take Servants. **Kurgat** buys combat-ready Morat engineer; cheap regular alternatives should be measured against actual need to repair TAG/REM versus spending more on weapons.
+**ALEPH/OSS/Steel:**
 
-**Haqq/Ramah/Hassassin/QK/Dahshat:** **Ghulam Doctor15(+3)** and **Rouhani21(+3)** deliver 85–90% with exact legal roster. **Hakim** wins where Parachutist/Nasmat A2 makes recovery physically possible; **Najjarun15** repairs STR; **Monstrucker12** sacrifices Regular Order for a cheaper technical specialist. **Claire** 33pt different **2W versus +3 FTO** profiles are situational, not interchangeable.
+- **Sophotect25 + Yudbot(s)** is among best whole-list returns on a 300pt mixed army
+- **Parvati36** is better where 2W Doctor or mobile high-end Engineer is actually needed
+- **Posthuman Mk.1 Engineer** creates extra slot/mission economy **only inside a legal 2–3 Proxy package**.
 
-**Yu Jing/White Banner/IA/IS:** **Mech-Engineer14 + Yáozăo3** is efficient normal recovery; **Krit Kokram37** moves with HI gun team, **Chung-Hee Jeong31** buys ReRoll/Repeater specialist protection, **Johnny Kao36** more durable frontline anti-tech. Every expensive Guijia/Blue Wolf TAG benefits from deliberate fallback and remote repair position.
+Do not count a Mk.1 as independently fieldable cheap Engineer.
 
-**Ariadna/TAK/Kosmoflot/USAriadna/Caledonia/FRRM:** **Irmandinho8** is an extraordinary cheap smoke/trading/engineering combination but not your only safe TAG mechanic; **Dozer13 + 2pt Remontnik** builds covered STR recovery cheaply. **112 Doctor11**, **Motorized112 19** and **Kazak Doktor12** are inexpensive medical choices, but **no-Cube** patients lose Doctor token re-roll security.
+**Nomads/Tunguska/Corregidor/Bakunin:**
 
-**O-12/Starmada/Torchlight:** **Lambda Engineer16 / Doctor variant** plus **Yudbot3** is enough for most Wrecker/Zeta/REM situations; **Parvati36** does something distinct with **2W Doctor, high Engineer, mobility, STR2**. **Kludger23**, **Vidocq FTO Doctor19**, **Delta forward support** win by arriving with legal team/route rather than by maximum backline WIP. For aerial **Firebat**, use ranged GizmoKit/Tech-Recovery when contact cannot be reached safely.
+- **Clockmaker18 + Zondbot3** often beats a 30pt toolbox repairer for pure REM/TAG infrastructure.
+- **Evader** or **Orphan Engineer** works when it is also gun/Repeater/link utility.
+- **Tomcat22/26 + Carlota28/32** bypass a far-flank movement tax
+- **Wildcat Engineer25** is controversial toolbox spending when its team doesn't use MSV or gear.
 
-**Tohaa/JSA/Oban/Shindenbutai:** **Kumotail21** dual role with Chaksa3 supports mixed Tohaa attack Triads; **Kosuil20–25** trades cheap backline Doctor/Engineer economy for a K1 assault Engineer actually in the midfield. **Tokusetsu14**, **Yáozăo3**, **Yuriko25** form JSA's economical recovery plan for **Karakuri Remote Presence / O-Yoroi**; do not spend extra on forward engineer if patient remains near DZ.
+**Combined/Shas/Onyx/Next Wave/Morat:**
+
+- **Med-Tech21 + 3pt Slave Drones** is standout cheap dual hub, but tall S3 deserves concealment
+- **Gearhead Cyberplug** can project engineering differently and **cannot** also take Servants.
+- **Kurgat** buys combat-ready Morat engineer; cheap regular alternatives should be measured against actual need to repair TAG/REM versus spending more on weapons.
+
+**Haqq/Ramah/Hassassin/QK/Dahshat:**
+
+- **Ghulam Doctor15(+3)** and **Rouhani21(+3)** deliver 85–90% with exact legal roster.
+- **Hakim** wins where Parachutist/Nasmat A2 makes recovery physically possible
+- **Najjarun15** repairs STR
+- **Monstrucker12** sacrifices Regular Order for a cheaper technical specialist.
+- **Claire** 33pt different **2W versus +3 FTO** profiles are situational, not interchangeable.
+
+**Yu Jing/White Banner/IA/IS:**
+
+- **Mech-Engineer14 + Yáozăo3** is efficient normal recovery
+- **Krit Kokram37** moves with HI gun team
+- **Chung-Hee Jeong31** buys ReRoll/Repeater specialist protection
+- **Johnny Kao36** more durable frontline anti-tech.
+
+Every expensive Guijia/Blue Wolf TAG benefits from deliberate fallback and remote repair position.
+
+**Ariadna/TAK/Kosmoflot/USAriadna/Caledonia/FRRM:**
+
+- **Irmandinho8** is an extraordinary cheap smoke/trading/engineering combination but not your only safe TAG mechanic
+- **Dozer13 + 2pt Remontnik** builds covered STR recovery cheaply.
+- **112 Doctor11**, **Motorized112 19** and **Kazak Doktor12** are inexpensive medical choices, but **no-Cube** patients lose Doctor token re-roll security.
+
+**O-12/Starmada/Torchlight:**
+
+- **Lambda Engineer16 / Doctor variant** plus **Yudbot3** is enough for most Wrecker/Zeta/REM situations
+- **Parvati36** does something distinct with **2W Doctor, high Engineer, mobility, STR2**.
+- **Kludger23**
+- **Vidocq FTO Doctor19**
+- **Delta forward support** win by arriving with legal team/route rather than by maximum backline WIP.
+- For aerial **Firebat**, use ranged GizmoKit/Tech-Recovery when contact cannot be reached safely.
+
+**Tohaa/JSA/Oban/Shindenbutai:**
+
+- **Kumotail21** dual role with Chaksa3 supports mixed Tohaa attack Triads
+- **Kosuil20–25** trades cheap backline Doctor/Engineer economy for a K1 assault Engineer actually in the midfield.
+- **Tokusetsu14**
+- **Yáozăo3**
+- **Yuriko25** form JSA's economical recovery plan for **Karakuri Remote Presence / O-Yoroi**; do not spend extra on forward engineer if patient remains near DZ.
 
 ### Final list-building test
 
@@ -190,7 +250,13 @@ Three real disputes:
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed enabling recoveries:** #003 Kestrel's **Engineer / Sensor REM recovery** restored access to a Frostbyte heater; #004 **Trauma-Doc** recovered **Black A.I.R.** under Torchlight pressure; #220 a recovered **Shikami** supported JSA's Hardlock winning route; #205 **Muyib Doctor** helped maintain HB's cargo-control formation; #227 NCA **Shona/CSU/Blocker** converted cleared lanes while other pieces carried recovery duties. [#003–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#205](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#220](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
+**Observed enabling recoveries:**
+
+- #003 Kestrel's **Engineer / Sensor REM recovery** restored access to a Frostbyte heater
+- #004 **Trauma-Doc** recovered **Black A.I.R.** under Torchlight pressure
+- #220 a recovered **Shikami** supported JSA's Hardlock winning route
+- #205 **Muyib Doctor** helped maintain HB's cargo-control formation
+- #227 NCA **Shona/CSU/Blocker** converted cleared lanes while other pieces carried recovery duties. [#003–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#205](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#220](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
 
 **Marginal value:** Spending Orders to repair an expended **Long Ya** that has already lost first-use missiles and Camo threat (#003 player's question) may be lower value than a newly needed console/pickup. An **EVO** sacrificing itself to clear a mine for **Kurnau** (#212) shows how cheap technical bodies sometimes produce more OP as expendables than as survivors. Choose repairs by **future mission ability restored**, not model cost alone.
 

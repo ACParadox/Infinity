@@ -1,8 +1,18 @@
 # Dedicated Close-Combat Assassins and Fighters — N5.3 Apex / Points Value
 
-**Vanilla O-12 premium melee/assault review — [Robert Shepherd (38–42m, 60–65m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=2280s), transcript reviewed 26 Oct 2026:** **Ioann Bann32/0** adds a very hard-to-answer **range/CC choice** to a Berserk/MA3 Dog-Warrior body: Viral Tactical Bow(+1SD), AP Heavy Pistol(+1B), Chain(+1B) and Smoke all contribute even before base contact. He is **Irregular/Impetuous / No Cover**, so the cost and delivery matter; **Varangian Duo** can grant SD reactive options by current FT-01 chart and **Nimrod FTO** can shoot across smoke. **Hippolyta37/0** has stronger high-end CC and Mimetism(-6), but this source thinks Ioann's durability/gun fork frequently justifies choosing him instead; two together is possible when points allow. **Cuervo Goldstein33/0** is an acknowledged **niche** Combat Jump/MA4 Monofilament assassination response, *not* an all-comers Specialist. Never label him universally unusable merely because he lacks buttons/long-range shots.
+**Vanilla O-12 premium melee/assault review — [Robert Shepherd (38–42m, 60–65m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=2280s), transcript reviewed 26 Oct 2026:**
 
-**Protheion and unusual CC delivery companion:** [Rare Abilities & Unusual Combinations — N5.3 apex/value](rare-capabilities-and-unique-combinations-apex-value.md) contrasts **Caliban Camo/FD/Protheion**, **Sheskiin gun+Protheion**, **Ko Dali Combat Jump/MSV2/Protheion**, **Rasyat AD+Eclipse**, **Kinnara AD/Eclipse/Monofilament** and **Shikami Eclipse/Climbing+/Super-Jump**. Protheion requires legal CC damage/Coup de Grâce against **VITA**, not STR.
+- **Ioann Bann32/0** adds a very hard-to-answer **range/CC choice** to a Berserk/MA3 Dog-Warrior body: Viral Tactical Bow(+1SD), AP Heavy Pistol(+1B), Chain(+1B) and Smoke all contribute even before base contact.
+- He is **Irregular/Impetuous / No Cover**, so the cost and delivery matter; **Varangian Duo** can grant SD reactive options by current FT-01 chart and **Nimrod FTO** can shoot across smoke.
+- **Hippolyta37/0** has stronger high-end CC and Mimetism(-6), but this source thinks Ioann's durability/gun fork frequently justifies choosing him instead; two together is possible when points allow.
+- **Cuervo Goldstein33/0** is an acknowledged **niche** Combat Jump/MA4 Monofilament assassination response, *not* an all-comers Specialist.
+
+Never label him universally unusable merely because he lacks buttons/long-range shots.
+
+**Protheion and unusual CC delivery companion:**
+
+- [Rare Abilities & Unusual Combinations — N5.3 apex/value](rare-capabilities-and-unique-combinations-apex-value.md) contrasts **Caliban Camo/FD/Protheion**, **Sheskiin gun+Protheion**, **Ko Dali Combat Jump/MSV2/Protheion**, **Rasyat AD+Eclipse**, **Kinnara AD/Eclipse/Monofilament** and **Shikami Eclipse/Climbing+/Super-Jump**.
+- Protheion requires legal CC damage/Coup de Grâce against **VITA**, not STR.
 
 *23 October 2026 · cross-game guide for 300-point Infinity N5.3. **Qualitative judgments, not simulated win rates.** Prices, profiles and legal sectorials from [pinned 2026 sectorial references](../../sectorials); the latest current roster wins over older recordings. Rules reviewed: [CC Attack](../../rules/3_Combat/CC_Attacks.md), [Martial Arts](../../rules/5b_Special%20Skills/Martial_Arts.md), [Berserk](../../rules/5b_Special%20Skills/Berserk.md), [Guard](../../rules/5b_Special%20Skills/Guard.md), [Natural Born Warrior](../../rules/5b_Special%20Skills/Natural_Born_Warrior.md), [Protheion](../../rules/5b_Special%20Skills/Protheion.md), [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md), [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md).*
 
@@ -63,7 +73,13 @@ Current Martial Arts level is **one chosen printed level**, **not** every lower 
 
 **Practical matchup decision:** Against many **1-Wound/VITA** models, low-PS DA removes a target from effectiveness more often after a hit than Monofilament (though results differ for Dogged/NWI, Shock and other states). Against **2-Wound** models, Pavel's AP+T2 can inflict both required Wounds on a single failed save; Crux needs **both** DA rolls to fail for two Wounds. Against a **3+ STR TAG or high-Wound elite**, **Monofilament's instant Dead** remains strategically special: two ordinary Wounds often do not eliminate that model. At very high ARM, Monofilament's 60% ARM-ignoring death chance becomes more attractive again. **Immunity (ARM)** strips Monofilament's ARM=0 and State: Dead traits, so verify the target's abilities before relying on it ([official Immunity examples](https://infinitythewiki.com/Immunity)).
 
-**Do not compare the columns as equal 'kill chances':** the Crux percentages report wounds, Pavel reports 2 Wounds, and Monofilament reports outright Dead. Criticals generate additional saves; the **extra T2 critical save only inflicts 1 extra Wound if failed**. Actual value further depends on **winning FTF** (Crux **CC22/MA2**; Pavel **CC23/MA3**; Shinobu **CC25/MA5**), being able to reach contact, Orders, risk, and whether the remaining model can score. **A profile with PS=5 does not automatically outrank a Hidden/Impersonation Monofilament specialist.**
+**Do not compare the columns as equal 'kill chances':**
+
+- the Crux percentages report wounds, Pavel reports 2 Wounds, and Monofilament reports outright Dead.
+- Criticals generate additional saves; the **extra T2 critical save only inflicts 1 extra Wound if failed**.
+- Actual value further depends on **winning FTF** (Crux **CC22/MA2**; Pavel **CC23/MA3**; Shinobu **CC25/MA5**), being able to reach contact, Orders, risk, and whether the remaining model can score.
+
+**A profile with PS=5 does not automatically outrank a Hidden/Impersonation Monofilament specialist.**
 
 **Evidence boundary:** This is a **rules-backed check of the objection** that Monofilament's PS8 can make it less attractive than low-PS alternatives. A particular YouTube speaker/timestamp making the comparison was **not independently identified**; do not attribute the precise comparison to an unnamed video.
 
@@ -168,7 +184,10 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **A** | **Yojimbo19/20, Domaru19/20, Makaul14, Dāturazi14** | Minelayers/Smoke, strong CC or expendable body screens premium shooter from base contact | Screen can be bypassed with Smoke, speculated mines or templates; don't bunch defender/support in one template. |
 | **B situational** | **cheap body joining melee / Coordinated assault** | Extra allied models **in base contact with target** can increase real CC Burst; one disposable body can delay a 70pt shooting machine without killing it | **Servant and Fireteam limitations** apply; not all 4 models can physically reach target; Command Token expense, geometry and AROs. |
 
-**Counterplay decision:** **shoot** a dangerous assassin from outside its contact/Guard range, **Discover/Sensor** Hidden/Camo markers with screening, use **Biometric** where appropriate against impersonation, **mine the final approach**, maintain an uncommitted **NBW/Guard** defender and **template watch** to stop single Order multi-kills. Against Guard **keep target out of LoF + ZoC**; **Aerial exception** is narrow, not general "immune to CC".
+**Counterplay decision:**
+
+- **shoot** a dangerous assassin from outside its contact/Guard range, **Discover/Sensor** Hidden/Camo markers with screening, use **Biometric** where appropriate against impersonation, **mine the final approach**, maintain an uncommitted **NBW/Guard** defender and **template watch** to stop single Order multi-kills.
+- Against Guard **keep target out of LoF + ZoC**; **Aerial exception** is narrow, not general "immune to CC".
 
 ## 7) TAGs that have strong CC — **separate category**
 

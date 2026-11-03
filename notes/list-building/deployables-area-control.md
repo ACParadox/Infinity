@@ -218,7 +218,12 @@ The target can still fight, but retreat and reinforcement now become more diffic
 
 Because a newly placed Drop Bear is infrastructure for later Orders rather than an immediate same-Order explosion, plan the **next activation** when placing it.
 
-**Choose the right mode:** Deployable Mode places a visible **Mine (-3) Token**, not a normal CAMO marker, beside the carrier via Place Deployable. BS Mode is a **Targetless PH-based throw** to a chosen location, even without an enemy target. A successful throw places the Mine in the **Conclusion step**, so it cannot detonate that Order. The two modes share **Disposable (3)**; see [Drop Bears](../../rules/4_Ammunition%20and%20Weaponry/Drop_Bears.md).
+**Choose the right mode:**
+
+- Deployable Mode places a visible **Mine (-3) Token**, not a normal CAMO marker, beside the carrier via Place Deployable.
+- BS Mode is a **Targetless PH-based throw** to a chosen location, even without an enemy target.
+- A successful throw places the Mine in the **Conclusion step**, so it cannot detonate that Order.
+- The two modes share **Disposable (3)**; see [Drop Bears](../../rules/4_Ammunition%20and%20Weaponry/Drop_Bears.md).
 
 ## 9. Mine Dispensers: ranged terrain modification
 
