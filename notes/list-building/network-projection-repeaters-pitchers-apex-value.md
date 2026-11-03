@@ -1,216 +1,166 @@
-# Network Projection — N5.3 Repeaters, Pitchers, FastPandas, TinBot and Delivery Units
+# Network Projection — N5.3 Best Pitchers, Turn-0 Networks, Mobile Repeaters and Packages
 
-**Airborne network seizure source — [Infinity the Dante, Corregidor DZ assault ~5–12m and ~16–20m](https://www.youtube.com/watch?v=fzvUQPWBQKM&t=300s) (transcript reviewed 28 Oct 2026):**
+_Research baseline: 23–28 October 2026. Qualitative **apex** (maximum achievable impact) and **value** (impact for points, SWC, Orders and risk), not simulated win rates. Profile prices, AVA and Fireteam permissions follow the repository's pinned September 2026 N5.3 [sectorial rosters](../../sectorials/); video and podcast commentary is supporting evidence, not a substitute for current profiles. These are **cross-faction comparisons**, not pieces of a legal mixed-faction army._
 
-- An AD piece is most valuable when its **legal** deployed/native Repeater appears *behind a protected corner* near an enemy key Hacker or active ARO dependency; the living friendly Hacker can then attempt targeted **Trinity / Carbonite / Spotlight**, and the node persists as an opponent Turn-1/2 removal tax.
-- A rear sentry with **Mine Dispenser/Repeater/defensive hacking** may make close entry dangerous even if its direct gun seems weak.
-- **Do not inherit an equipment item from a video scenario:** current **Hellcat Paramedic23 has NO Deployable Repeater** (nor do other listed Hellcat profiles).
-- The **Bearcat Paramedic27 Surface** does
-- **Tomcat DR19/.5 Deepspace** does
-- **Meteor Zond19–21** has **native Repeater**
-- the **Bearcat KHD29–30 Surface** has **Trinity/Firewall(-3)** but no DR and requires some other Hacking Area path.
-- **Two different sources of value:** landing an independent gun to kill **Pilot-X** can cripple enemy network/RemDriver; landing a Repeater only pays off with a surviving friendly Hacker/Orders.
+**Compare four different jobs, not one universal Repeater tier:**
 
-See [video-specific Corregidor guide](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+1. **[Best Pitchers](#1-best-pitchers)** — shoot a Repeater to an otherwise inaccessible location, preferably from safety.
+2. **[Best Turn-0 network](#2-best-turn-0-network)** — hacking coverage already established *at deployment*, before either player's first Active Turn.
+3. **[Best mobile Repeater](#3-best-mobile-repeater)** — physically move, arrive or place a Repeater where needed during the game.
+4. **[Best package](#4-best-package)** — a legal combination of projection, surviving hackers, protection, Order economy and a credible payoff.
 
-**Vanilla O-12 delivery update — [Robert Shepherd's Faction Focus (27–28m, 77–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1620s), reviewed 26 Oct 2026:**
+**What makes a projected network worth buying?** The resulting Hacking Area must enable a concrete action (Oblivion, Carbonite, Trinity, Spotlight, White Noise, denial or a Guided follow-up), while not donating a better counterhacking route to the opponent. A node is **not a Hacker**; a good Hacker is **not necessarily a good projector**. For program-by-program rankings see [Hackers and Killer Hackers](hackers-and-killer-hackers.md) and [hacking/network doctrine](hacking-and-network-projection.md).
 
-- **Kappa Hacking Device13/.5** is an excellent low-cost way to make the faction's ordinary **Kyttä/FO Oko/RoadBot Repeater** coverage an *active threat*.
-- **Cyberghost HD+21/.5** adds WIP14 **White Noise** to get Gamma, Ioann Bann and other non-MSVisored attackers past critical visual AROs, but its **BS11 Pitcher** is an *opportunistic* launch (often after positioning **Oko TA18 + RoadBot20 Duo**), not a substitute for deliberate native Repeater placement.
-- The presenter often prefers to move the Oko/RoadBot into hacking area before spending scarce Orders trying for Pitchers.
-- **Sirius FO21 + Repeater/Heavy Riotstopper SiriusBot** is another defensive forward net package, yet its controller cost and vulnerability make it a conditional purchase; **Hacker Sirius24/.5** in particular adds enemy KHD exposure.
+### Rules vocabulary — what is online and when?
 
-Current [Vanilla O-12](../../sectorials/o-12/o-12.md) profiles/AVA apply; do not generalize these Duos to Starmada/Torchlight.
-
-**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
-
-**Rare multi-body/projection interactions:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) covers **RemDriver Apsaras/Pilot-X**, Cyberplug autonomous versus connected, Coyote FO + dependent BambaDroid, and Team Sirius FO + Repeater SiriusBot. A bot possessing Repeater or a separate FO does not automatically grant those skills to its controller.
-
-_23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured win rates. Profile prices, SWC, AVA, package dependencies and Fireteam permissions are from the pinned **Sept 2026 N5.3 sectorial files on main**; earlier video/podcast advice is treated as interpretation. These are cross-faction benchmarks, **not a legal mixed-army list**._
-
-**Role:** Put a usable Hacking Area where it changes the enemy's movement or enables **Oblivion / Carbonite / Trinity / Spotlight / White Noise / Guided**. The strongest network creates an actual tactical consequence **before** the enemy can remove it, using few Orders, a safe launch position and a *real* compatible Hacker. Evaluate **network-delivery units separately from Hacker skill and from the Guided payoff**. [Dedicated hacker tiers](hackers-and-killer-hackers.md) cover the latter.
-
-## Verdict — which type wins?
-
-- **Best Turn-0 apex/value:** **Corregidor Moran Repeater+CrazyKoala Minelayer BSG 15/.5**. Infiltration + native Repeater + FO + perimeter disruption + Regular Order provide **free forward hacking coverage at deployment**. **AVA2 Corregidor, AVA1 vanilla Nomads**; its one-use Camo profiles **do not also have Repeater**. One Moran is worth buying even without committing to Guided.
-- **Best direct Pitcher reliability / ceiling:**
-  - **Yu Jing Fēiquán 28/0:** E/M Carbine(+1B), Pitcher, **BS13 + BS Attack(+1SD)**, MOV20-5/Aerial/Super-Jump/Sensor; a reliable ranged projector and nonlethal anti-heavy escort. **No Cover, S7, Hackable** make exposure critical.
-  - **Tunguska Hollow Man Pitcher 26/0:** high supported ceiling in a **legal Fireteam**.
-  - **Tsyklon 26–29/1:** X-Visor, 360º and legal Fireteam support make an alternative sustained Pitcher platform.
-
-  Verify the selected roster's exact support bonuses.
-- **Best immediate infiltrated remote node:**
-  - **Bakunin Initiated Observant 18/0** (one-use Camo, Infiltration, **Deployable Repeater + Minelayer**). Deploy a separate node without spending an Active-Turn Order
-  - **Zero 20/0** carries a repeater but **has no Minelayer** on that profile.
-  - **White Banner Guìláng 25/.5 Minelayer + Deployable Repeater** is an alternative for Yu Jing.
-- **Best cheap reactive/scoring network foundations** (faction-dependent):
-  - **Native-Repeater Flashbot 7/0:**
-    - **Transductor**
-    - **Fugazi**
-    - **Chaīyì**
-    - **Fanous**
-    - **R-Drone**
-  - **Baggage native-Repeater REM 8/0**
-  - **Sensor/FO native-Repeater REM 13–15/0:**
-    - **Rafiq**
-    - **Wèibīng**
-    - **M-Drone**
-    - **Stempler**
-    - **Pathfinder**
-
-  These add Regular Orders and often a second job, but start largely behind midfield and can die easily when used as “kamikaze” nodes.
-- **Best low-budget ranged Pitchers:**
-  - **Hassassin Barid FO+Pitcher 12/0**
-  - **KHD+Pitcher 14/0**
-  - **Bakunin Moderator Pitcher 10/0**, best *within a lawful fireteam* to improve low BS10
-  - **Corregidor Valerya Gromoz Pitcher/HD 19/.5**
-  - **Bakunin Uhahu HD+Pitcher 19/.5**
-
-  A 40pt Hacker is not required to fire the first Repeater.
-- **Best offensive hybrid per cost:**
-  - **White Banner Dokkaebi KHD+Spotlight+Pitcher 22/0**
-  - **Invincible Army Hǎidào KHD+Pitcher 22/0**
-  - **OSS/ALEPH Danavas HD++Pitcher 22/.5**
-  - **Corregidor Jazz FTO HD+/Trinity+Pitcher 22/.5** (or **Jazz+Billie 25/.5** including **two Regular Orders**, Billie native Repeater).
-  - **Counter:** some have only BS11, no +SD, and cost Orders/ammo to extend beyond 16″.
-- **Best “kamikaze” AD Repeater options:**
-  - **Meteor Zond 19/0:** native Repeater with Combat Jump/Parachutist, Sensor, FO and mobility; coverage begins on arrival.
-  - **Jīnyào 18/0 (Imperial Service):** Combat Jump/Parachutist, *Deployable* Repeater, Adhesive/Riotstopper; needs an Order to **place** the Repeater.
-
-  Both require legal insertion/roll and relevant Orders; distinguish native coverage from on-demand placement.
-- **Best land-delivered cheap rush node:**
-  - **Pilot-X + RacerBots Mk-III** in OSS/ALEPH: **Pilot-X 23/.5 plus each RacerBot 8/0**, up to two
-  - each RacerBot is **MOV20-10 with Deployable Repeater**, Mine Dispenser, 360º, Riotstopper.
-  - **Do not rank an 8pt RacerBot as independently purchasable**; the actual commitment is 23+8 (31/.5) for one, or 23+16 (39/.5) for two, plus a Pilot-X team and shared group limitation. [TA OSS transcript](https://www.youtube.com/watch?v=Jh4jVsFoHN4) contains genuine opposing views: a Danavas Pitcher may be redundant once cheap mobile bots are bought.
-- **Best TinBot (Repeater) *team carrier*:**
-  - **Optimate Agent Maximus FTO 45/1** (PanO/Kestrel/NCA/OSS/ALEPH where **current roster and chart** actually allow)
-  - costly as pure network equipment, but supplies **Repeater benefits to members of his legal Fireteam** plus a real combat platform. Do not conflate this with **TinBot Firewall(-3/-6)**: those **protect** members from Comms attacks; they do **not** create Repeater coverage.
-
-## Rules: do not confuse these 6 delivery modes
-
-| Mechanism | Turn-0? | Activation / delivery | Strength | Actual cost / failure |
-|---|---|---|---|---|
-| **Native Repeater** | **Yes** if carrier on table | Move carrier to project its **ZoC**; no Place Order | Cheap, continuous, can follow objectives | Carrier can die, be Isolated/Null; exposes Hackable REM to opposing cyberattack |
-| **Deployable Repeater alone** | **No** | **Place Deployable** in contact, usually after Move or infiltration | Exact corner position, no BS roll; lasts when carrier leaves | Requires setup Order; Disposable (3); STR1 node can be removed |
-| **Deployable Repeater + Minelayer** | **Yes**, with *correct profile* | Extra node deployed legally with carrier at deployment | Prepaid forward node, ideal going second | Position still constrained by legal Deployment/ZoC; preplacing it can betray location |
-| **Pitcher** | **No** | **BS Attack** to a supported landing surface (not vertical) | Projects beyond carrier's movement safely, can reach awkward Hacking Areas | Burst1, **Disposable (2)**, now **0 to 16″, −3 at 16–24″, −6 at 24–48″** (N5.2+); misses consume Orders/ammo. +SD/BS/X-Visor matter enormously |
-| **FastPanda** | **No** | **Place Deployable** anywhere fully inside user's ZoC | Deterministic **8″ remote placement**, no Pitcher BS roll, good around a corner | **Disposable (1)**, carrier has to approach; not an 8″ automatic free move and *not* a mine |
-| **TinBot (Repeater)** | **Yes**, while owner on table and functioning | Grants **Repeater equipment** to owner, and to *every model in the same legal Fireteam* under TinBot rules | Mobile **team-based** cyber presence without separate deployable | **Not a shooter, drop token, or Firewall**; expensive selected model/team, stops when owner Null/Isolated |
-
-**Actual N5.3 constraints:** Pitcher deployables must be fully supported by their landing surface; [Pitcher](https://infinitythewiki.com/Pitcher). Repeater extends the Hacking Area of **all** friendly Hackers, but exposing a node also provides an entry point for enemies to attack eligible friendly Hackers **inside its ZoC** with enemy-Repeater Firewall penalties: [Repeater](https://infinitythewiki.com/Repeater). TinBot gives its specified equipment/benefit to Fireteam members, not an additional miniature or separate token: [TinBot](https://infinitythewiki.com/TinBot). FastPanda **places** a Repeater in ZoC: [FastPanda](https://infinitythewiki.com/FastPanda). **Spotlight requires a successful AP PS5 saving-roll outcome, not automatic Targeted**; confirm program targets before paying for a Guided missile. White Noise is for relevant MSV/Marksmanship sightlines, not a generic anti-gun cloud.
-
-## 1. Apex tier — highest achievable *network-projection pressure*
-
-| Apex | Unit / legal context, points/SWC | Why it wins | When it loses |
+| Mechanism | Available at Turn 0? | How projection works | Principal trade-off |
 |---|---|---|---|
-| **S** | **Corregidor Moran Repeater BSG 15/.5**, up to 2 | 0-Order starting midfield native network + Koala+FO; supports Jazz/other hackers immediately | No hackers => mostly physical; Koala cannot Boost at Impersonation/Camo marker; vulnerable to clearance/Deactivator. Vanilla only AVA1 |
-| **S** | **Tunguska Hollow Man MULTI/Pitcher 26/0** in suitable Core/Haris/Duo; **Tsyklon 26–29/1** with linked X-Visor | Higher BS/Fireteam special dice/range reach with threatening gun, survivability and multiple compatible hackers | Needs *legal* Fireteam and right FT size; expensive enough that failed missiles/hacking counterattack hurt. Vanilla Tsyklon FTO has **no** FT row |
-| **S** | **Fēiquán E/M+Pitcher 28/0** — Imperial Service/White Banner/eligible Vanilla Yu Jing | BS13+1SD mobile Pitcher, MOV20-5, Aerial/Sensor and E/M follow-up; outstanding *projection* ceiling without SWC | S7/No Cover and Hackable: blocked/hacked before shooting, poorer if no safe launch lane |
-| **S/A+** | **Bit & KISS! 25/.5 with KISS Repeater** — Onyx/eligible Combined | Pitcher + Deployable Repeater + **native-Repeater KISS** peripheral + HD(Trinity) diversify 3 delivery vectors from one package | 22/.5 vanilla KHD/Oblivion or 24/.5 Onyx KHD package **does not also contain the Repeater KISS variant**. Peripheral is **not a second regular Order** |
-| **A+** | **Bakunin Initiated Observant 18/0** Infiltration/Minelayer+Deployable Repeater | Excellent zero-Order *independent* marker node supporting Uhahu/Custodier/linked shooters | One-use Camo W1; enemy KHD or deactivator kills/clears the node; pays Regular specialist slot |
-| **A+** | **White Banner Guìláng 25/.5** Deployable Repeater Minelayer | Camo, Infiltration, and a **free forward Repeater** without a risked long Pitcher shot | 25/.5 versus 7pt Chaīyì/14pt Wèibīng is a *premium* for midline position and marker pressure |
-| **A+** | **Meteor Zond 19/0** — Nomads branches with access | Combat Jump/Parachutist **native** repeater, Sensor+FO; an off-table threat to a Hacking Area the enemy thought safe | Arrival roll/missed opportunity, S3 and hackable, off-table Order restrictions, no free pooled Order until on table |
-| **A+** | **OSS RacerBot Mk-III 8/0 each** *inside Pilot-X package* | Multiple very fast, disposable ground repeaters plus close nonlethal and terrain modification | Real minimum **31/.5** package, no cover and only one pilot; don't cite standalone 8pt as unit value |
-| **A** | **Jīnyào 18/0** — Imperial Service | Combat Jump/Parachutist and adhesive/riotstopper **Deployable Repeater** delivered behind enemy lanes | Must *survive insertion and spend Order placing node*; not native continuous Repeater |
-| **A** | **Danavas HD+/Pitcher 22/.5**, OSS/Vanilla ALEPH | WIP15 White Noise/Oblivion cyber operator, Pitcher on same Regular specialist | BS11, one-Wound, limited path to enemy firing angle; if all reach comes from RacerBots, its Pitcher is backup |
-| **A** | **Dokkaebi KHD/Spotlight+Pitcher 22/0**, White Banner/Vanilla eligible; **Hǎidào KHD+Pitcher 22/0** IA/Vanilla | 0SWC anti-Hacker **and** ranged projection; Dokkaebi Spotlight upgrade can enable Targeted/Guided, Haidao in legally supported HI team | Solo BS shooting is not magically reliable; teams and protected HD/HD+ backup needed to stop non-Hacker heavies |
-| **A** | **Corregidor Jazz+Billie 25/.5** or FTO Jazz22/.5 | WIP14 HD+Trinity plus Pitcher; Billie is **native Repeater and separate pooled Regular Order** on **25/.5** option | Unlinked 25 package has two bodies to protect; FTO 22 has **no Billie**; CJC with 2 Morans + Vertigo can overspend SWC |
-| **A** | **PanO Optimate Maximus FTO 45/1 TinBot Repeater** | Makes *legally attached Fireteam members* into moving Repeater coverage while carrying serious active gun/defense | High opportunity cost, Fireteam dependence and placement; a 7pt Fugazi/23pt Peacemaker often wins network-per-point instead |
+| **Native Repeater** | **Yes**, if its carrier is already on the table | Continuous ZoC around a functioning carrier; move the carrier to move coverage | No placement roll or extra deployment Order, but the carrier can be killed or hacked |
+| **Deployable Repeater** | **No** unless a relevant deployment ability applies | Place a separate device in contact through the appropriate skill | Reliable corner placement, but needs an Order and the device can be removed |
+| **Deployable Repeater + Minelayer** | **Yes**, on the **specific legal profile** | Legally deploy a separate Repeater at setup | Zero Active-Turn Orders for a forward node; placement and profile restrictions remain |
+| **Pitcher** | **No** | BS Attack placing a supported Repeater on a valid surface | Ranged reach without advancing, but **Burst 1, Disposable (2)**, missed shots cost Orders/ammo |
+| **FastPanda** | **No** | Place the device fully within the user's ZoC | Deterministic remote placement to roughly 8″; **Disposable (1)**, carrier must first approach |
+| **TinBot (Repeater)** | **Yes** while owner functions on table | Provides its specified Repeater effect to owner and members of the **same legal Fireteam** | Moving team coverage, not a dropped token; **not** TinBot Firewall(-3/-6) |
 
-**Pure bandwidth is not army quality.** A 7pt Repeater bot with two unused Hackers and a clear retreat lane may be more useful than a 45pt TinBot package. A 28pt Pitcher vehicle is a poor play if it must die to expose a network for one mediocre Comms attempt.
+**Pitcher range (N5.2+):** 0 to 16″ normal, −3 at 16–24″, −6 at 24–48″; the Repeater must be fully supported by the landing surface. **BS, +1SD, X-Visor and actual Fireteam bonuses** are material differences between profiles. See [Pitcher](https://infinitythewiki.com/Pitcher), [Repeater](https://infinitythewiki.com/Repeater), [FastPanda](https://infinitythewiki.com/FastPanda) and [TinBot](https://infinitythewiki.com/TinBot).
 
-## 2. Value tiers — hacking reach per real resource
+**Counterplay applies to every category:** friendly Repeaters extend the Hacking Area of friendly Hackers, but may also provide enemy hackers a route to eligible friendly Hackers in the Repeater's ZoC. Check actual Firewall, BTS, AROs, enemy KHDs, disposable devices and the Orders required **after** network establishment. Spotlight and Guided still require their respective successful attacks/saving-roll outcomes; having a Repeater in place does not automatically Target a victim.
 
-| Value | Candidate / pts/SWC | Choose when | Precise caveat |
+## 1. Best Pitchers
+
+**Question:** Which model most efficiently lands a useful Repeater from a *safe firing position*? Rank shooting reliability and launch angles first, then points/SWC, Fireteam cost and other jobs. A cheap BS10 Pitcher and a supported +SD/X-Visor Pitcher are not interchangeable.
+
+| Pitcher tier (apex / value) | Unit and legal profile | Why choose it | When not to |
 |---|---|---|---|
-| **S+** | **Flash/Repeater REM 7/0** — Transductor, Fugazi, Chaīyì, Fanous, R-Drone | Need **Regular Order + defensive Flash + native hacking ZoC**; sacrifice one if an Order or two wins a key target | Weak S3 / 1STR and Hackable; do not lose easy Order unnecessarily |
-| **S+** | **Moran 15/.5** — Corregidor/Vanilla | Need valuable *Turn-0* midfield network and scoring/presence | CJC AVA2, Vanilla Nomads AVA1; Camo vs Repeater loadout exclusive |
-| **S+** | **Barid FO+Pitcher 12/0; KHD+Pitcher 14/0** — Bahram | Need a **0SWC Regular** 2-use ranged node from Ghulam Fireteam; KHD option supplies Trinity | Shooter BS11 without FT bonuses has poor long-range reliability; 16/.5 HD for Oblivion |
-| **S+** | **Moderator Combi+Pitcher 10/0** — Bakunin/Vanilla Nomads | Cheap **Regular** disposable 2-shot projector; linked Moderator can buy FT benefits | BS10 unlinked is not dependable at range; no hacking ability by itself |
-| **S+** | **Initiated Observant 18/0** — Bakunin | Infiltration+free deployable repeater with no projection Order | One-use marker and threat cleared by enemy; no native Repeater on body |
-| **S+** | **Dokkaebi KHD+Spotlight/Pitcher 22/0; Hǎidào KHD/Pitcher 22/0** | Need nonlethal/cyber defense plus *range extender at 0SWC* | Printed KHD program upgrades differ; don't import HD+ or unlisted FT bonuses |
-| **S** | **Baggage+Repeater REM 8/0** — Salyut/Mulebot/Pangguling/Kameel/Probot etc. | Recharge legal disposable tools, give Regular Order, **passive home hacking** | MOV/footprint/actual Baggage needs; not fast midboard penetration |
-| **S** | **Sensor/FO/native-Repeater REM ~13–15/0** — Wèibīng, Rafiq, M-Drone, Stempler, Pathfinder | Mobile **midfield** Repeater, button-pusher/Sensor; repeaters follow troop with no deploy Action | Can die or be hacked on approach, most have BS11/1STR |
-| **S** | **Corregidor Jazz+Billie 25/.5** | HD+Trinity/Pitcher plus **two Regular Orders** and an on-table native Repeater | FTO22/.5 is cheaper but loses Billie; two independent targetable units |
-| **S** | **Uhahu HD+Pitcher 19/.5; Valerya HD+Pitcher19/.5** | Cheap **functional cyber attack + projector** rather than a 10pt non-hacker | 1W/BS11 and short path; Uhahu benefits if actual Riot Grrl link is used |
-| **S** | **Danavas HD+Pitcher 22/.5** | Cheap WIP15/White Noise/Oblivion utility in ALEPH; paired with RacerBot/REM network | Opposing TA OSS view: Pitcher BS11 unreliable without +SD; alternative mobile nodes may be more efficient |
-| **S** | **Tsyklon FTO 26–29/1** — Tunguska/Bakunin, correctly linked | BS12/X-Visor + 360º, native Repeater and own gun; >16″ Pitcher attenuation reduced | 1SWC, and FTO legality not automatic outside sectorial; susceptible to hacking |
-| **S** | **Meteor Zond 19/0; Jīnyào 18/0** | Need an actual **backline network vector** bypassing ordinary LoF corridors | AD deployment cost/risk; Jīnyào must Place Deployable; no guarantee arrival or survival |
-| **A+** | **Fēiquán 28/0 +SD Pitcher** | Project at reliable BS13+SD across atypical angles and target elites with E/M/adhesive | S7 No Cover = bad kamikaze if a protected 7pt bot can already reach |
-| **A+** | **Scylla 32/.5 + Charybdis Repeater** / FTO25/.5 no peripheral — Steel Phalanx/SAA | Pitcher + upgraded hacker, **synchronized peripheral Repeater** and flamer; excellent role compression | No second Regular Order from Charybdis; Fireteam/Charybdis choices differ |
-| **A+** | **OSS Pilot-X23/.5 + one RacerBot8/0** | Need fast disposable placeable Repeater and nonlethal mine without BS attack; can expend bot | **31/.5 actual purchase**, 39/.5 with 2; dependent bots not standalone army list members |
-| **A+** | **Trinitarian FO+Deployable Repeater Minelayer 23/1** — Military Orders | Infiltrated Camo **Turn-0** network + FO/mission path; mobile off-angle despite no native Repeater | One SWC expensive for a deployable node; pick 22/0 FO if mission is just scoring |
-| **A** | **FastPanda users:** Interventor KHD18/0 / HD+20/.5; Fennec HD16/.5; SAA Regular HD17/.5; Kamau HD22/.5; Tunguska Heckler23/0 | Need **reliable near-8″ remote placement** around a protected corner while carrying another useful role | FastPanda generally **Disposable1**/requires an Order, not speculative long-range Pitcher or native Turn-0 node |
-| **B as network-only** | **Optimate Maximus FTO TinBot Repeater45/1** | Already buying expensive fighting agent in a useful, legal Fireteam | A terrible substitute for several 7–15pt native-Repeater nodes if all you want is hacking reach |
+| **S / A+** | **Fēiquán 28/0** — Imperial Service, White Banner, eligible Vanilla Yu Jing | **BS13 + BS Attack(+1SD)**, MOV20-5, Aerial/Super-Jump, Sensor, Pitcher and E/M Carbine(+1B): excellent independent ranged projection, with a genuine nonlethal combat follow-up | **S7, No Cover and Hackable**; do not expose it merely to save one cheap placement Order |
+| **S / S** | **Tunguska Hollow Man MULTI/Pitcher 26/0**, in a *legal supported Fireteam* | Excellent ceiling when the actual team grants shooting bonuses; credible gun/HI presence beyond the two projectiles | Team composition and support are real costs; unlinked profile must not inherit linked BS or +SD |
+| **S / S** | **Tsyklon FTO 26–29/1** — legal Tunguska/Bakunin team | **BS12, X-Visor, 360º**, native Repeater, Pitcher and own gun; X-Visor makes long projection less punishing | **1 SWC, Hackable** and actual Fireteam permissions; Vanilla Tsyklon FTO has **no automatic team** |
+| **A+ / S+** | **Torchlight Waverider KHD/Pitcher 20/0** or **HD/Pitcher 22/.5** | BS12, Mimetism(-3), BTS6; a 0-SWC KHD/Trinity projector or pricier HD with **Oblivion(+1B)**; Silverstars support when legal | KHD does **not** gain normal HD anti-HI/TAG programs merely by possessing a Pitcher |
+| **A / S+** | **Hassassin Barid FO/Pitcher 12/0**, KHD/Pitcher 14/0, HD/Pitcher 16/.5 | Outstanding entry price and Regular contribution; choose FO, Trinity or Oblivion based on exact profile, ideally with legitimate Ghulam FT support | BS11 unlinked is risky past 16″; **12pt FO is not an HD** |
+| **A / S+** | **Bakunin Moderator Combi/Pitcher 10/0** | Near-bottom-price Regular 2-shot projector, especially when **lawfully linked** | **BS10** unlinked; does not itself provide hacking programs |
+| **A / S+** | **White Banner Dokkaebi KHD/Spotlight/Pitcher 22/0**; **Invincible Army Hǎidào KHD/Pitcher 22/0** | 0SWC cyberdefense plus ranged projection; Dokkaebi's printed Spotlight upgrade adds Targeted/Guided potential | BS and Fireteam performance vary; do not import upgrades or FT bonuses across profiles |
+| **A / S** | **Corregidor Jazz FTO HD+/Trinity/Pitcher 22/.5**, **Uhahu HD+/Pitcher 19/.5** (Bakunin), **Valerya Gromoz HD/Pitcher 19/.5** (Corregidor) | Budget combined **Hacker + ranged projector**; Jazz's 25/.5 Billie option changes the package, not its Pitcher BS | Mostly **BS11** shots; a forward Moran or native bot may place the actual Hacking Area more cheaply |
+| **A / S** | **OSS/ALEPH Danavas HD+/Pitcher 22/.5** | WIP15, White Noise, Oblivion and a projectile in one Regular specialist; valuable even if Pitcher rarely fires | **BS11**, 1W; OSS may prefer Pilot-X/RacerBot placement for delivery |
+| **A / A+** | **Shindenbutai Tanuki Hacker/Pitcher/Disco Baller 20/.5** | **BS13**, Warhorse and a useful vision-control role as well as ranged projection | Only the printed HD and 1W; Shindenbutai permissions do not transfer to other JSA lists |
+| **A / S** | **O-12 Cyberghost HD+/Pitcher 21/.5** | WIP14, White Noise and a low-cost ranged option inside a supporting O-12 network | **BS11** makes opportunistic shots preferable to spending several Orders forcing a launch |
+| **A / A+** | **Scylla 32/.5 with Charybdis** — Steel Phalanx / eligible SAA; **FTO25/.5** separate profile | Pitcher on a potent hacker, with a Repeater peripheral on the **32pt** package | FTO option does not include Charybdis; peripheral does not generate another Regular Order |
+| **A / A** | **Bit & KISS! 25/.5 Repeater-KISS option**, legal Combined/Onyx | Adds Pitcher and Deployable Repeater alongside the **native Repeater** peripheral; useful even if one delivery method fails | **22/.5 Vanilla / 24/.5 Onyx KHD variants** are not the same Repeater-KISS loadout |
+| **A / niche** | **Umbra Legate FTO HD+/Pitcher 38/.5** — current legal Combined roster | **BS13**, personal Tactical Order and a real attacker/hacker on the Pitcher carrier | Expensive projection if one cheap node would produce the same tactical outcome |
 
-### Additional top-tier packages from the O-12/JSA roster audit
+**Practical Pitcher ranking:** for repeated *hard* long shots, **supported Tsyklon/Hollow Man** and **Fēiquán** lead; for an inexpensive attempt from a good short lane, **Barid/Moderator** lead value. For *self-sufficient hackers that happen to carry Pitchers*, look to **Waverider, Dokkaebi, Jazz, Uhahu, Danavas and Cyberghost**; they are not necessarily the best **shooter**. A 40pt hacker is not needed to fire the first Repeater.
 
-| Tier (apex / value) | Exact legal profile | Why it is better **in this circumstance** | Limit / opposing case |
+**Evidence / opposing interpretation:** [Robert Shepherd on Tunguska](https://www.youtube.com/watch?v=A2eKdenbcsw) (full YouTube transcript reviewed) distinguishes linked high-BS and X-Visor delivery from cheap Vanilla shots. [TA S3E44 on OSS](https://www.youtube.com/watch?v=Jh4jVsFoHN4) / [audio](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) explicitly questions the efficiency of Danavas' BS11 Pitcher when direct mobile delivery is available. The answer depends on the **safe launch lane, needed program and existing legal list**, not the Pitcher line in isolation.
+
+## 2. Best Turn-0 network
+
+**Question:** What Hacking Area exists *before the first Order*? Distinguish (a) a **forward native Repeater** or legally preplaced Minelayer device from (b) a cheap native Repeater that begins in your own DZ. An off-table AD model, undeployed FastPanda or merely carried Deployable Repeater **does not count**.
+
+| Turn-0 tier (apex / value) | Unit / exact option | Starting advantage | Limitation |
 |---|---|---|---|
-| **S / S** | **Team Sirius FO+SiriusBot Repeater 21/0** (vanilla O-12) | **Forward Deployment (+20)** gives a **native Repeater on the included synchronized bot at Turn 0**, with scoring FO; starts closer than a 7pt Kyttä while costing no network deployment Order | The bot shares controller Orders, is targetable and must follow synchronized/peripheral constraints; no extra Regular Order, and a 7pt Flashbot is much cheaper for pure DZ coverage |
-| **S / A+** | **Starmada Saladin CoC33/0 or Lieutenant34/0** — **Minelayer (2) + Deployable Repeater** | Can pre-position **two network tokens** while providing WIP16 leadership, Decoy(2), Counterintelligence and meaningful command role: premium **Turn-0** network *as a byproduct* | Don't buy 33–34pts solely for Repeaters, and don't invent Strategos/command on the CoC profile; choose LT or CoC separately |
-| **A+ / S+** | **Torchlight Waverider KHD+Trinity/Pitcher 20/0**, or **HD+Oblivion(+1B)/Pitcher22/.5** | 0SWC BS12/Mimetism(-3)/BTS6, Silverstars link support and anti-Hacker; cheap **KHD+Pitcher** benchmark on a durable-for-cost specialist | KHD default cannot Oblivion ordinary HI/TAG; choose 22pt HD if heavy control is the job, not the 20pt KHD |
-| **A / S** | **O-12 Cyberghost HD+/Pitcher 21/.5** | WIP14/HD+ White Noise and a cheap ranged network all in one Regular specialist; combines well with SiriusBot, Oko and Kyttä | Without a safe pitching lane BS remains a weakness; extra missile/Guided infrastructure is not always worthwhile |
-| **A / A+** | **Shindenbutai Tanuki Hacker/Pitcher+Disco Baller 20/.5** | BS13, Warhorse, **vision control and Repeater projection** from a single team-relevant MI | Only HD and 1W: do not buy because of a fantasy linked Firewall/TinBot or transport Shindenbutai rules into Vanilla JSA |
-| **A / S** | **Kestrel/MO/NCA Peacemaker native Repeater 23–27/0–.5** with FD(+20) and Auxbot options | Turn-0 *forward native* Repeater plus a close template/attack fork; can also trade physically if network targets absent | S4 placement, Hackable, usually too costly purely as kamikaze when Fugazi7/0 and Pathfinder/TechBee can do enough |
+| **S / S+** | **Corregidor Moran Repeater + CrazyKoala BSG 15/.5** | Infiltration, **native Repeater**, FO, Koala protection and Regular Order; elite *immediate midfield* presence; **AVA2 CJC, AVA1 Vanilla Nomads** | Specific **one-use Camo** Moran options do **not** also carry Repeater; vulnerable to clearing, deactivation and enemy counterhacking |
+| **A+ / S+** | **Bakunin Initiated Observant 18/0** — Infiltration, **Deployable Repeater + Minelayer** | Free forward *separate* Repeater at deployment, with one-use Camo and an independent Regular body | The **Repeater is not native on the Observant**; enemy can destroy the node |
+| **A+ / A+** | **White Banner Guìláng 25/.5** — Infiltration, Camo, **Deployable Repeater + Minelayer** | Legal upfront marker-area node without gambling a Pitcher; marker and mission utility persist | Costs far more than a backline 7pt Chaīyì; premium pays for *location* |
+| **A+ / A+** | **Military Orders Trinitarian FO 23/1** — Infiltration, Camo, **Deployable Repeater + Minelayer** | Off-angle node already present on Turn 0 while FO threatens objectives | **1 SWC** is material; **22/0 FO** scoring option is not equivalent network setup |
+| **S / A+** | **Starmada Saladin CoC 33/0 or LT 34/0**, **Minelayer (2) + Deployable Repeater** | Potentially **two predeployed network tokens**, with WIP16 command/Decoy/Counterintelligence value | LT and CoC are different options; do not buy 33–34pt Saladin **just for Repeaters**, or invent Strategos |
+| **S / S** | **Vanilla O-12 Team Sirius FO + Repeater SiriusBot 21/0** | **FD(+20)** and **native Repeater on included synchronized bot** from deployment; FO and Heavy Riotstopper contribute mission/defense | Controller + bot share Orders; bot is not a second Regular Order; Hacker Sirius 24/.5 is more exposed to KHD risk |
+| **A / S** | **PanO Peacemaker native Repeater 23–27/0–.5** — Kestrel/MO/NCA where legal | **FD(+20)** gives immediate forward native coverage with Auxbot/close assault function | S4/Hackable target; pay for its combat fork, not only the network |
+| **A / A** | **Torchlight Strider 28/.5**, **Deployable Repeater + Minelayer** | Predeployed device added to Torchlight's Waverider/Kyttä/Oko architecture | Far pricier than one home Repeater; use only exact Strider profile |
+| **B / S+ value** | **Flash + native-Repeater REM 7/0** — Transductor, Fugazi, Chaīyì, Fanous, R-Drone, **Kyttä** | Immediate home-network ZoC, **Regular Order + Flash ARO** at almost minimum cost | Excellent value, but **not automatically midfield coverage**; S3/1STR/Hackable |
+| **B / S** | **Baggage native-Repeater REM 8/0** — Salyut, Mulebot, Pangguling, Kameel, Probot, relevant roster | Home Repeater and Regular Order, with Baggage/resupply role | No free forward reach; mobility and footprint make it poor as an aggressive projector |
 
-**O-12 network architecture:**
+**Distinctions worth preserving:**
 
-- 7pt **Kyttä** (Regular native Repeater) + **15pt Oko** (Sensor/FO/native Repeater) supply budget coverage
-- **SiriusBot** comes with Team Sirius (20/0 BSG or 21/0 FO).
-- **Starmada** can use its **Saladin** version and **Cyberghost** but sectorial AVA/Fireteam restrictions differ
-- **Torchlight** makes **Waverider + Strider 28/.5 Deployable Repeater Minelayer** plus Kyttä/Oko a distinct strong plan.
+- **Zero 20/0:** carries a Repeater option but **not Minelayer on that same option**. A carried device should not be counted as a preplaced Turn-0 token.
+- **Sirius FO21 vs Sirius Hacker24/.5:** Repeater belongs to SiriusBot; no controller automatically inherits its equipment and no extra Regular Order is created.
+- **Moran Repeater vs Camo Moran:** select one real profile. The guide must not create a fictional Camo + Repeater + Koala option from distinct entries.
+- **Native Flashbot vs infiltrated Minelayer:** both are active on Turn 0, but only the latter **starts a separate forward token**. Rank by terrain, target Hacking Areas and whether the list goes second, not just cost.
 
-These corrections matter more than automatically pushing Nomads above every O-12 or Yu Jing option.
+**When this category wins:** going second into HI/TAG crossing the middle, needing a start-of-game hacking tripwire, or demanding that the opponent spend Orders clearing a node. **When it does not:** mainly unhackable opponents, an enemy KHD dominating exposed Repeater paths, or a scenario where the infiltrator's points are needed for objective work instead. Two Morans do not automatically justify buying Guided.
 
-## 3. Matchup & delivery decision
+## 3. Best mobile Repeater
 
-| Your situation | First choice | Reason / counterexample |
+**Question:** What can *reposition the Hacking Area after deployment*, either with a moving **native** Repeater or a carried **Deployable Repeater/FastPanda**? Reward reach, safety, delivery Orders and secondary mission work. This is intentionally **not** a second Pitcher ranking.
+
+| Mobile tier (apex / value) | Carrier / real cost | Delivery and additional value | Risk or dependency |
+|---|---|---|---|
+| **S / S** | **Meteor Zond 19/0** — eligible Nomads | **Combat Jump/Parachutist + native Repeater**: coverage turns on **immediately upon arrival**; Sensor, FO and mobility make strong backline pressure | Landing/insertion risk, S3/Hackable, Orders unavailable while off-table; no guaranteed free pooled Order |
+| **A+ / S** | **Imperial Service Jīnyào 18/0** | **Combat Jump/Parachutist + Deployable Repeater**, with Adhesive/Riotstopper utility; creates an unexpected node behind a defender | **Unlike Meteor, it must arrive, survive and spend an Order to Place** the Repeater |
+| **A+ / A+** | **OSS Pilot-X23/.5 + RacerBot Mk-III8/0 each** | RacerBots **MOV20-10**, 360º, Mine Dispenser, Riotstopper and Deployable Repeater; fast ground-delivered corner nodes | **Minimum 31/.5 for one**, **39/.5 for two**; dependent bots are **not separately purchasable 8pt units** |
+| **A+ / S** | **Sensor/FO native-Repeater REM ~13–15/0** — Wèibīng, Rafiq, M-Drone, Stempler, Pathfinder; **Oko 15/0** | Regular Orders, *continuous mobile* ZoC, Sensor/FO/objectives; cheap reusable midboard reach | Usually BS11/1STR, Hackable and fragile in overlapping AROs |
+| **A / S** | **7/0 native-Repeater Flash REM** — Transductor, Fugazi, Chaīyì, Fanous, R-Drone, Kyttä | Cheapest physically movable **native** node; flash defense and Regular Order remain useful | It may be better to preserve than suicide just for a single hacking attempt |
+| **A / S** | **O-12 Oko 15/0 + RoadBot 20/0** in **legal Duo**; RoadBot native Repeater as printed | Move into a critical Hacking Area more predictably than forcing **Cyberghost BS11 Pitcher**; Oko can contribute FO/Sensor | Legal Duo depends on selected roster, and moving two bodies still costs Orders and exposure |
+| **A / A+** | **Peacemaker 23–27/0–.5** (eligible PanO) / **SiriusBot in Team Sirius21/0** (O-12 FO package) | A forward native node can move to new corners and also threaten templates/riotstopper; complements Turn-0 utility | Peacemaker is Hackable/S4; SiriusBot is **synchronized**, not another independent Order generator |
+| **A / A** | **FastPanda users:** Interventor KHD18/0 or HD+20/.5; Kestrel Fennec HD16/.5; SAA Regular HD17/.5; Kamau HD22/.5; Tunguska Heckler23/0 | Reliable **ZoC-range remote placement** around a corner without a BS roll; user can still have a useful hacker/defense role | **Disposable (1)**, requires carrier proximity and a Place action; not a Turn-0 network or 24″+ Pitcher |
+| **A / A** | **Bakunin Zero 20/0** / other Infiltration profiles with *carried* Deployable Repeater | Camo/Infiltration reaches useful corners before an Order to place a device; more deterministic than a long Pitcher shot | **No free Minelayer node** on the identified Zero profile; still needs the placing Order |
+| **A / conditional** | **Corregidor Bearcat Paramedic 27** (Surface), **Tomcat DR19/.5** (Deepspace) | AD attacker **with printed Deployable Repeater** can land behind a wall and create an enemy-DZ network threat | Confirm exact insertion method and profile; both still need **Place** after arrival |
+| **B / support** | **8/0 Baggage native-Repeater REM** | Reposition home network/resupply and provide a Regular Order | Slow/rear-oriented for most practical aggressive projection; use as support not a suicide runner |
+
+**Important airborne correction from [Infinity the Dante — Corregidor DZ assault](https://www.youtube.com/watch?v=fzvUQPWBQKM&t=300s) (full transcript, ~5–12 and 16–20m, checked 28 October 2026):** **Hellcat Paramedic23 and the other listed Hellcats do not have Deployable Repeater**. The **Bearcat Paramedic27 Surface** and **Tomcat DR19/.5 Deepspace** do. **Bearcat KHD29–30 Surface** has Trinity/Firewall(-3) but **no DR** and needs network from someone else. Dropping a gun behind **Pilot-X** to kill the controller is a **different** attack from dropping a Repeater to let a surviving friendly Hacker attack.
+
+**Mobility decision:** choose **Meteor** when a native Repeater must function *as soon as it arrives*; **Jīnyào/Bearcat/Tomcat** when you can afford the extra placement Order; **RacerBot/REM/FastPanda** when a land route or protected corner exists. Sending a 19–39pt package into enemy DZ without hackers alive to exploit it is often worse than a conventional attacker.
+
+## 4. Best package
+
+**Question:** Which **actual legal roster combination** converts Repeater reach into game impact with the least vulnerable investment? A package includes its **projector**, the **Hacker that exploits the node**, and a **payoff/defense plan**; the same model can do multiple roles. Do not add a peripheral as if it creates a second Regular Order or treat an optional Guided launcher as mandatory.
+
+| Package tier (apex / value) | Legal core / distinct options | Why it works | Limit / counterview |
+|---|---|---|---|
+| **S / S** | **Corregidor:** 1–2 **Moran Repeater 15/.5** + **Jazz FTO HD+22/.5** *or* **Jazz+Billie25/.5**; **Vertigo Guided optional** | Turn-0 infiltration, Koalas, Trinity/HD+ and either a cheap FTO option or **Billie native Repeater plus two pooled Regular Orders** on the 25pt package; can threaten without ever purchasing Guided | 2 Morans spend SWC; **Jazz FTO22 has no Billie**; vulnerable KHD/exposure and Guided can starve gun/FT budget |
+| **S / A+** | **Tunguska:** legal **Hollow Man/Tsyklon Pitcher Fireteam** + protected **Interventor** or other eligible hacker | Strong shooting reliability at medium/long range, then high-end programs from protected hackers; X-Visor or actual FT bonuses mean fewer failed launches | Expensive/hackable team and opposing KHD/Repeater reach; never assume two unrelated FTOs can link |
+| **A+ / S** | **Bakunin:** **Initiated Observant18/0** preplaced network + **Uhahu HD+/Pitcher19/.5**, optional **Moderator Pitcher10/0** in a lawful team | Start midfield before Order 1, then add cheap hacking/Pitcher redundancy when desired; can win without a Guided missile | Additional Pitchers not automatically worth Orders/SWC; keep Uhahu and deployed network safe |
+| **A+ / S** | **White Banner:** **Guìláng DR+Minelayer25/.5** + **Dokkaebi KHD/Spotlight/Pitcher22/0** (plus legal support) | Upfront Camo network + anti-Hacker and Spotlight/Guided option from 0SWC hybrid projector | Strongly position-dependent; a KHD cannot substitute for an HD/HD+ when controlling ordinary heavy targets |
+| **A+ / S** | **Torchlight:** **Strider DR+Minelayer28/.5**, **Waverider KHD/Pitcher20/0 or HD22/.5**, and cheap **Kyttä/Oko** | Upfront node, mobile native backups and durable-for-cost projector/hacker; choose exact program and FT layout | Expensive Strider relative to low-cost bots; KHD/HD are alternatives, not one combined profile |
+| **A+ / S** | **Vanilla O-12:** **Kappa HD13/.5** + **Kyttä7/0 / Oko15/0 / RoadBot20/0**; optional legal **Oko/RoadBot Duo** or **Cyberghost HD+21/.5** | Low-cost functional Hacker makes native REM net dangerous; mobile Oko/RoadBot beats repeated poor-odds Pitcher shots, while Cyberghost adds **White Noise** | **BS11 Cyberghost Pitcher** is backup, not automatically primary; faction Duo permissions do not transfer |
+| **A+ / A+** | **Vanilla O-12:** **Team Sirius FO+Repeater SiriusBot21/0** + **Kappa HD/Cyberghost** | FD(+20) starts a native peripheral node forward with FO/riotstopper and a compatible protected Hacker | **SiriusBot ≠ independent Regular Order**; Sirius Hacker24/.5 changes KHD exposure |
+| **A+ / A+** | **Starmada:** **Saladin CoC33/0 or LT34/0 DR+Minelayer(2)** + legal **Cyberghost/other Hacker** | Premium Turn-0 reach bundled with command utility rather than a standalone projector | Buying Saladin just for network is poor value; never mix LT and CoC features |
+| **A+ / A+** | **OSS/ALEPH:** **Pilot-X23/.5 + RacerBot(s)8/0 each**, with **Danavas HD+/Pitcher22/.5** or another legal surviving Hacker | Ground rush establishes predictable corner nodes, Danavas supplies WIP15 White Noise/Oblivion; Pitcher can be a secondary route | **31/.5 / 39/.5** for Pilot-X bots *before* Danavas; shared/peripheral dependencies and survivability; BS11 Pitcher may be redundant |
+| **A+ / A+** | **Combined/Onyx:** **Bit & KISS!25/.5 specific Repeater-KISS package** + suitable support; alternatively legal **Umbra Legate FTO HD+/Pitcher38/.5** | Pitcher, placeable Repeater, and peripheral **native** node create multiple access methods; Umbra trades cost for BS13, Tactical Order and offense | Do not import **Repeater KISS** into 22/.5 or 24/.5 KHD options; expensive Umbra should not be expendable |
+| **A+ / A+** | **Steel Phalanx / eligible SAA:** **Scylla32/.5 with Charybdis Repeater** plus legal supporting combat piece | Hacking, Pitcher, synchronized mobile Repeater and flamer in one integrated investment | Charybdis gives **no second Regular Order**; separate **Scylla FTO25/.5** has no peripheral |
+| **A / A+** | **Military Orders:** **Trinitarian FO DR+Minelayer23/1**, and/or **Peacemaker native Repeater23–27** + actual compatible hacker | Turn-0 Camo node or forward Auxbot combat/Repeater fork without depending on cheap inaccurate Pitcher shooting | Need points/SWC and hacker support; not every MO list wants a 1SWC Trinitarian |
+| **A / situational** | **PanO/Kestrel/NCA/eligible OSS:** **Optimate Agent Maximus FTO45/1 with TinBot (Repeater)** in a **legal Fireteam** | Mobile Repeater equipment for legal team members *while* Maximus performs a legitimate active fighting role | **B as network-only**: 45pt/1SWC and Fireteam dependence versus 7–23pt REMs; TinBot **Firewall** is different equipment |
+| **A / S value** | **Hassassin Bahram:** **Barid FO+Pitcher12/0 / KHD14/0 / HD16/.5** plus legal protection/attack follow-up | Very low-cost network launch + a properly chosen FO, Trinity or Oblivion function; can be a light package rather than all-in Guided | Need a real hacker for desired target, favorable Pitcher range and sufficient Regular Orders; one 12pt FO cannot do every program |
+
+### What the package tier is measuring
+
+- **Projection:** one or two genuinely useful Hacking Areas, not the maximum number of repeaters on paper.
+- **Exploitation:** appropriate **living** Hacker and actual program: HD/HD+ against hackable heavies and vision targets; Trinity/KHD when fighting enemy Hackers; Spotlight plus real Guided infrastructure if purchased.
+- **Order/points/SWC cost:** Pitcher misses, deployment/Place actions, Baggage, TA, Regular Orders, Fireteam members and SWC displaced from attackers.
+- **Defense:** counter-Trinity exposure, neutralization/deactivation of deployed nodes, AROs, enemies walking around the network.
+- **Mission contribution:** FO, Sensor, objectives and guns/screening after the first hacking target disappears.
+
+### Which category should your list prioritize?
+
+| Matchup / intended play | Best starting point | Avoid |
 |---|---|---|
-| **Going second; enemy HI/TAG crosses midfield** | Moran, Initiated Observant, Guìláng, native FD Peacemaker; live **HD+KHD** | Start network on turn zero; don't wait to shoot a Pitcher *after* enemy has crossed. E/M/Mine/screen adds physical backup |
-| **Need a node behind an inaccessible wall** | **Pitcher** with +SD, X-Visor and safe launch lane; or infiltrator/fast deployer already near wall | Pitcher crosses distances without advancing hacker; **FastPanda** is more reliable within ZoC but carrier must physically approach |
-| **One target, one Order to make network, short range** | FastPanda or Deployable Repeater on forward carrier | Skip miss probability; if target will leave your ZoC before you arrive, ranged Pitcher is better |
-| **Want to fire long (24″+)** | Tsyklon X-Visor + linked BS bonus/+SD, Fēiquán BS13 +1SD, linked Hollow Man | N5.2 Pitcher now **−3 at 16–24, −6 at 24+**; BS10 Moderator unsupported is low-odds |
-| **Target already in range but not via your LoF** | 7pt native Repeater REM moved into ZoC, or Meteor arriving behind | Minimal investment can allow protected hackers to operate. You are spending the carrier's safety; assess exposure to active gun/hacking |
-| **Opponent hides hacking pieces in DZ** | Meteor native AD repeater or Jīnyào AD Deployable Repeater | Threatens from novel angle; landing can fail or carrier can die before deployable is placed |
-| **Heavy enemy counterhacking/KHD** | Kill their hacker first with **Trinity**, or suppress the node/bring protected firewall | Your own native Repeater is also a potential **enemy attack vector against friendly Hackers inside its ZoC**; avoid undefended front placement |
-| **Need White Noise to beat visors** | Danavas/Interventor/Jazz/other actual **HD+**, with reachable network | A plain 7pt bot or KHD cannot independently place White Noise; target must actually have MSV/Marksmanship value |
-| **Guided Missile plan** | Repeater + legitimate Spotlight-capable hacker + Guided launcher + enough Orders/SWC | Need **succeeded Spotlight/Saving Roll**, not simply opponent inside Hacking Area. Missile may lose to dispersion, Dodges, setup, firewall, no valuable target |
-| **Opponent mostly unhackable warbands/Ariadna** | One 7pt Flash REM for Orders/Flash, spend points on physical mines/sensors/objectives | Additional pitchers/expensive TinBot/multiple HDs without valid targets become dead points. Nonhackable hacking targets and hostile Hackers still matter |
-| **Own list primarily linked HI + moving gun** | **Maximus FTO TinBot Repeater** if buying him for combat, Tsyklon or Hollow Man Pitcher | A moving team benefits from network projection as byproduct; watch the TinBot **Null/Isolated** condition and cost of exposed elite model |
+| **Going second vs HI/TAG midfield rush** | **Turn-0** Moran, Observant, Guìláng, Trinitarian, SiriusBot or Peacemaker **plus live hacker** | A Pitcher plan that can only begin after the opponent's first turn |
+| **Need a node behind an inaccessible wall** | **Pitcher** from safe lane with +SD/X-Visor/legal FT; **FastPanda** if carrier can safely reach ZoC | Repeated BS10/11 long-range attempts without budget for misses |
+| **Enemy key Hacker hidden deep in DZ** | **Mobile** Meteor native AD or Jīnyào/Bearcat/Tomcat DR insertion | Calling a carried deployable an immediately active Repeater on landing |
+| **Already near a target / tight corner** | **Mobile** native REM or correctly placed DR/FastPanda | Paying for an expensive ranged launch when physical placement is safer |
+| **Want 24″+ Pitcher projection** | **Fēiquán**, supported **Tsyklon** or **Hollow Man** | Assuming unsupported Barid/Moderator BS is equivalent |
+| **Need White Noise vs MSV/Marksmanship ARO** | **Package** with a real HD+ (Cyberghost, Danavas, Jazz, etc.) and reachable node | Assuming every KHD, Flashbot or Pitcher carrier can use White Noise |
+| **Full Guided game plan** | **Package** with real Spotlight-capable hacker, legal forward network, Guided launcher and sufficient Orders/SWC | Treating a Repeater or a failed Spotlight attempt as guaranteed Targeted |
+| **Mainly unhackable warbands / Ariadna** | Often **one cheap native Flash/Repeater REM** for Order/Flash, more physical tools | Overbuying multiple Pitchers, hackers and 45pt TinBot purely for cyber offense |
+| **Heavy counterhacking/KHD opposition** | Protected hacker, Trinity/counterhacker plan, conservative node placement | Extending enemy attack vectors into your own hackers' ZoC |
+| **Need endgame objective scoring** | **FO/Sensor mobile REM**, Sirius FO, infiltration specialist, protected scoring package | Suiciding the only scorer for a speculative hacking trade |
 
-**Threat sequencing:** choose a vulnerable **enemy troop** and required program → project repeater without losing Hacker or core gun → check opponent KHD/ARO and Firewall → attempt the Comms Attack (and necessary Save) → capitalize with a protected gun/Guided follow-up **that can afford the Orders**. The best network is the one that creates the *winning follow-up*, not a pile of redundant circles.
+### What the battle reports and transcripts agree—or dispute
 
-## 4. Transcript-backed debates — watch/listen for the *why*
+1. **Tunguska high-quality projection versus cheap nodes:** [Shepherd's Tunguska review](https://www.youtube.com/watch?v=A2eKdenbcsw) favors linked Hollow Man/X-Visor Tsyklon reach; the counterpoint is the points in a vulnerable Fireteam. Best distinction: **Pitcher reliability**, not blanket network value.
+2. **Two Morans plus Guided versus flexible Corregidor:** [Infinity the Dante, updated Corregidor](https://www.youtube.com/watch?v=dNoJI8nPnIU) (YouTube transcript/translation imperfect), [Tactical Awareness Corregidor](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY), and [WIP12 E208 post-Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) disagree on how often to pay for Vertigo/Guided. **Moran remains an excellent Turn-0 purchase; Guided is an optional package.**
+3. **Danavas Pitcher versus RacerBot delivery:** [TA S3E44 OSS video](https://www.youtube.com/watch?v=Jh4jVsFoHN4) / [podcast](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) (both full transcripts reviewed, May 2026) presents both positions. **Correct accounting**: RacerBot comes with Pilot-X for **31–39pt**, rather than comparing an imaginary standalone 8pt bot to a 22pt Danavas.
+4. **Interventor/Mary hacking strength versus counterhacking vulnerability:** [MetaChemistry #129 Tunguska](https://open.spotify.com/episode/6XSTLXqQUFcjv9lYcDTZ6g) warns expensive Hackable assets can be attacked through enemy networks. Strong hackers need defensive positioning and a safe projected area.
+5. **One Pitcher can be sufficient:** [MetaChemistry #132 Bakunin winner discussion](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) describes a melee/board-control list without Guided that used a Pitcher for a decisive Isolation. Do not define package success as missile quantity.
+6. **Multiple tools on the same Combined carrier:** [Shepherd's Vanilla Combined review](https://www.youtube.com/watch?v=qoyylw0p0JM) discusses Umbra FTO Pitcher/Tactical Order and Bit & KISS alternatives. Good role compression, **but** opportunity cost and friendly hacking exposure are real.
+7. **Nomad list identities:** [Tactical Awareness Nomad Prime](https://open.spotify.com/episode/2PpxuDu2WlxipiqpVzHTdv) contrasts heavy infowar/Guided with gun/Gecko and EVO-REM plans; old rosters/Fireteams need current N5.3 verification. Networks can support gun-first scoring without maximal Guided investment.
+8. **O-12 grounded delivery:** [Shepherd O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1620s) (~27–28m, 77–81m) emphasizes **Kappa13/.5 + native Kyttä/Oko/RoadBot**, with Cyberghost HD+21/.5 **BS11 Pitcher** as a secondary path. [Vanilla O-12 pinned roster](../../sectorials/o-12/o-12.md) controls exact availability/Duos.
 
-1. **Tunguska linked Pitchers beat cheap Vanilla alternatives in *reliability***, not necessarily points. [Robert Shepherd — Tunguska N5](https://www.youtube.com/watch?v=A2eKdenbcsw) (**full YouTube MCP transcript checked**, 2025) explicitly contrasts **BS14 linked/Hollow Man +SD and Tsyklon X-Visor Pitcher** with Vanilla Nomads' cheaper hacker/network toys. **Against:** adding a heavy Fireteam for only a repeater is wasted; other Tunguska pieces are expensive and vulnerable to opponent hacking.
-2. **“Always two Morans + Guided” versus minimalist hacker/gun CJC.** [Infinity the Dante — Corregidor post-split](https://www.youtube.com/watch?v=dNoJI8nPnIU) (**YouTube MCP transcript checked**, translation/ASR imperfect) treats two 15pt Morans as a near-default turn-zero foundation but allows **one protected hacker and no Guided**. [Tactical Awareness — Corregidor](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY) (**Podcast MCP checked, 2025**) is stronger pro-Vertigo/guided. [WIP12 E208 post-Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) (**Podcast MCP checked, June 2026**) points out **SWC/Fireteam support** makes forcing Guided wrong in some builds. Choose **Moran** almost by default, **Guided** by actual targets/remaining SWC.
-3. **Cheap expendable mobile repeater versus fragile Danavas BS11 Pitcher.** [TA S3E44 — OSS update](https://www.youtube.com/watch?v=Jh4jVsFoHN4) / [audio](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) (**both MCP transcripts checked**, May 2026) debate **Danavas22/.5** versus **Pilot-X/RacerBot deployable-repeater rush**. Some see Danavas' 22pt HD+/White Noise an easy include, others say BS11 Pitcher requires +SD and 8pt RacerBot delivery makes its projection less special. **Our resolution:** RacerBot is *dependent* on **Pilot-X23/.5**, so judge 31–39pt combined purchase—not an imaginary standalone 8pt node.
-4. **Tunguska strongest hacking ≠ safe hacking.** [MetaChemistry #129 — Tunguska](https://open.spotify.com/episode/6XSTLXqQUFcjv9lYcDTZ6g) (**Podcast MCP transcript checked**, Nov 2025) calls Interventor/Mary excellent but argues **many expensive Hackable assets are exposed to enemy repeaters** and enemy KHDs; advocates targeting projected networks early. **Counter:** network fights can still be won by multiple BTS9 Interventors protected behind high-quality projection, if a legal Fireteam and missions support it.
-5. **Network helps even no Guided launcher.** [MetaChemistry #132 — Bakunin winner's discussion](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) (**Podcast MCP transcript checked**, Dec 2025) presents a **melee/board-control Bakunin list without Guided**, still used **one Pitcher to Isolate an expensive enemy** for the game. **Counterview:** maximal 2-Moran/Jazz/Guided lists win the right matchups, but this actual win illustrates why **not** every hacking-oriented roster should buy a missile boat.
-6. **Native Repeater rush versus risky high-mobility gun.** [Robert Shepherd — Combined Army 2026](https://www.youtube.com/watch?v=qoyylw0p0JM) (**YouTube MCP transcript checked**) supports **Umbra Legate FTO HD+/Pitcher 38/.5** when its BS13 and personal Tactical Order can build network while doing combat; notes Bit & KISS Pitcher multiroll alternative. **Counter:** dedicated elite assault model may be too expensive/fragile to project one node, and enemy KHD can attack the hacker through the network.
-7. **Nomad all-in Guided versus 3 useful list identities.** [Tactical Awareness — Nomad Prime](https://open.spotify.com/episode/2PpxuDu2WlxipiqpVzHTdv) (**Podcast MCP transcript checked**, June 2025) compares mass hacking/Guided with gun/Gecko and EVO-REM plans. **Counter:** a 7pt Transductor, 15pt Stempler and one 22pt specialist can win tempo/score without the extra Guided/SWC purchase. Its old references to removed units/Fireteams must be rechecked against September 2026 rosters.
+### Practical list audit
 
-### Best media queue
+1. **Turn 0:** Which *actual* native Repeaters/DR+Minelayer devices are on the table in useful positions? Distinguish DZ from midfield.
+2. **Safe projection:** What's the cheapest *credible* Pitcher/physical/AD solution for an inaccessible Hacking Area? Include misses and Place Orders.
+3. **Payoff:** Which hacker can actually attack the intended unit, which programs does its exact profile have, and is a Guided follow-up worth SWC?
+4. **Reverse attack:** Can an enemy KHD/Repeater use your extended network to reach an exposed expensive Hacker?
+5. **After the first trade:** Does a surviving FO/Sensor/bot still help win the mission, or did the package only exist for one speculative Isolation?
+6. **Legality and true cost:** Verify selected N5.3 roster, AVA, Fireteam chart, LT/CoC option, peripheral inclusion and SWC. **Billie, KISS, Charybdis, SiriusBot and RacerBots are not interchangeable standalone Order generators.**
 
-| Priority | Source | What to learn | Verified |
-|---|---|---|---|
-| **1** | [Shepherd — Tunguska](https://www.youtube.com/watch?v=A2eKdenbcsw) | **Highest quality +SD/X-Visor/BS Pitcher explanation** and opportunity cost | YouTube MCP |
-| **2** | [TA S3E44 — OSS](https://www.youtube.com/watch?v=Jh4jVsFoHN4) / [podcast](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) | Danavas vs fast disposable repeaters **explicit argument** | Both MCPs |
-| **3** | [WIP12 E208 — Corregidor](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) | Moran+Jazz network economics, Guided/SWC **counterview** | Podcast MCP |
-| **4** | [Dante — updated Corregidor](https://www.youtube.com/watch?v=dNoJI8nPnIU) | 2-Moran turn-zero core vs full hacking package | YouTube MCP, noisy ASR |
-| **5** | [MetaChemistry — Bakunin winner](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) | Why a **single Pitcher + melee army** may beat all-in Guided | Podcast MCP |
-| **6** | [MetaChemistry #129 — Tunguska](https://open.spotify.com/episode/6XSTLXqQUFcjv9lYcDTZ6g) | Opponent perspective: how to attack strong repeater networks | Podcast MCP |
-| **7** | [Shepherd — Vanilla Combined Army](https://www.youtube.com/watch?v=qoyylw0p0JM) | Umbra, Bit & KISS, high-quality multi-channel projected threat | YouTube MCP |
-| **8** | [TA Nomad Prime](https://open.spotify.com/episode/2PpxuDu2WlxipiqpVzHTdv) | Distinguish all-in infowar from TAG/gun-first mixed lists | Podcast MCP, old rosters |
-
-## Practical 25-second list audit
-
-1. **What's online before Order 1?** Native Repeaters or actual Deployable+Minelayer, not mines carried or undeployed FastPandas.
-2. **What's my one safe *projector*?** BS13+SD, linked X-Visor Pitcher, or a cheap physical/AD repeater. Include **missed Pitcher shots** in Order budget.
-3. **Who can exploit it?** One protected **HD/HD+** for heavies/White Noise and ideally **Trinity/KHD** to beat opponent Hacker; only add Guided if SWC/target board rewards it.
-4. **What's my cheapest network loss?** Avoid trading an elite TAG, Fēiquán, or a 4-model Fireteam to place one node that a 7–19pt REM could place.
-5. **What does the enemy's KHD do?** Model the **reverse hacking vector** through exposed Repeaters and the Firewall; don't set the primary hacker next to vulnerable nodes.
-6. **Does it score?** Prefer FO/Sensor/Engineer/Pitcher hybrid when you need midfield objectives after enemy HI is disabled.
-
-Related: [Hacking and network-projection doctrine](../Strategy/hacking-and-network-projection.md), [Hacker/KHD tiers](hackers-and-killer-hackers.md), [Deployables](../Strategy/deployables-area-control.md), [Midfield area denial](midfield-area-denial-and-speed-bumps-apex-value.md), [Mission specialists](mission-specialists-and-button-pushers-apex-value.md), [N5.3 rules](../../rules/README.md).
+Related cross-role guides: [Hacking and network projection](hacking-and-network-projection.md), [Hacker/KHD tiers](hackers-and-killer-hackers.md), [Deployables and area control](deployables-area-control.md), [Rare peripheral/multi-body capabilities](rare-capabilities-and-unique-combinations-apex-value.md), [Force multipliers and TinBots](force-multipliers-special-abilities-apex-value.md), [Mission specialists](mission-specialists-and-button-pushers-apex-value.md), [N5.3 rules index](../../rules/README.md).
