@@ -1,6 +1,6 @@
 # Tunguska — N5.3 Tactical and List-Building Guide
 
-**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](nomads-must-have-go-to-avoid-source-audit-2026.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
+**Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](../../sectorials/nomads/tunguska.md). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
 
 ## Scope, evidence, and current authority (22 October 2026)
 

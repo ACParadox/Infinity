@@ -1,6 +1,6 @@
 # Vanilla JSA — List-Building and Tactical Note
 
-**Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](jsa-must-have-go-to-avoid-source-audit-2026.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
+**Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](../../sectorials/jsa/jsa.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
 
 ## Scope
 
