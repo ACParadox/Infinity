@@ -1,10 +1,27 @@
 # List-Building Strategy — Target Priority and Attack Sequencing
 
-**DZ strike target-order case — [Infinity the Dante, Corregidor attack vs Svalarheima](https://www.youtube.com/watch?v=fzvUQPWBQKM) (28 Oct 2026 transcript audit):** The presenter sets **network control** first (a single **Pilot-X** and two supporting RacerBots), **decisive ARO/vision control** second (**Thunderbolt TR, Varg Disco Baller**), then key combat/command support, and only afterwards further damage. This is **dependency-focused**, not 'kill most expensive first'. A safely landed Hellcat/Carlota can *shoot an exposed Hacker*, opening multiple later routes, rather than challenging the Knight of Justice/RemDriver TR on the first Order. **Stopping criterion:** after disabling the important Hacker and/or ARO, if each additional shot risks the only surviving 1W intruder without opening a mission action, **leave it in Total Cover or preserve the off-table Tomcat for Turns 2–3**. Don't mistake the narrator's illustrative kill-chain for measured probability; some narrated Hellcat/Bearcat loadouts conflict with pinned profiles. [Full profile-checked scenario](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+**DZ strike target-order case — [Infinity the Dante, Corregidor attack vs Svalarheima](https://www.youtube.com/watch?v=fzvUQPWBQKM) (28 Oct 2026 transcript audit):** the presenter prioritizes dependencies in this order:
+
+1. **Network control:**
+   - **Pilot-X**, supporting **two RacerBots**
+2. **Decisive ARO / vision control:**
+   - **Thunderbolt Total Reaction REM**
+   - **Varg Disco Baller**
+3. **Key combat/command support**, followed only then by additional damage.
+
+A safely landed **Hellcat or Carlota** can shoot an exposed Hacker and open later routes rather than challenging **Knight of Justice** or **RemDriver TR** immediately. This is dependency-focused, not 'kill most expensive first'. **Stopping criterion:** after disabling the important Hacker or ARO, if further shots risk the only surviving W1 intruder without opening a mission action, leave it in Total Cover or preserve the off-table **Tomcat** for Turns 2–3. This illustrative kill chain is **not measured probability**; some narrated Hellcat/Bearcat loadouts conflict with pinned profiles. [Full profile-checked scenario](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-- Use [N5.3 Airborne/Enemy-DZ apex and value tiers](airborne-and-enemy-dz-attackers-apex-value.md) when picking the actual model for a backline kill chain: **Fiday23/0 or Speculo26/1**, **Rasyat25/0 or34/1.5**, **Van Zant33/0, Mirage60/2, low-cost Banshee/Hellcat/Garuda**, and the very risky **Caskuda64/1**.
+- Use [N5.3 Airborne/Enemy-DZ apex and value tiers](airborne-and-enemy-dz-attackers-apex-value.md) to select an actual backline attacker:
+  - **Fiday 23/0** or **Speculo 26/1**
+  - **Rasyat 25/0** or **34/1.5**
+  - **Van Zant 33/0**
+  - **Mirage 60/2**
+  - **Low-cost Banshee**
+  - **Hellcat**
+  - **Garuda**
+  - **Caskuda 64/1** — very high-risk insertion
 - Rank **Orders/support disabled and scenario swing**, not only enemy points killed.
 
 A successful one-target entry that strands a 60pt package can be worse than two independent 19pt entry threats.

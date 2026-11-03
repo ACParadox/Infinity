@@ -1,6 +1,17 @@
 # Rare Abilities & Unusual Combinations — N5.3 Apex / Points Value / When They Matter
 
-**Role-specific multi-body supplement:** [Peripherals/Synchronized Multi-Body — apex, value and why](peripheral-synchronized-multibody-apex-value.md) tests **G:Jumper versus real synchronized action compression, Control Spearhead, Cyberplug Autonomous, Drummer double FO, Puppetactica, Chimera Pupniks, Fiddler JackBots, and Coyote BambaBots**. Correctly costs all purchase dependencies and preserves divergent transcript opinions.
+**Role-specific multi-body supplement:** [Peripherals/Synchronized Multi-Body — apex, value and why](peripheral-synchronized-multibody-apex-value.md) compares the following mechanics and packages:
+
+- **G:Jumper** versus Synchronized action compression
+- **Control Spearhead**
+- **Cyberplug Autonomous**
+- **Drummer + double Forward Observer bodies**
+- **Puppetactica**
+- **Chimera + Pupniks**
+- **Fiddler + JackBots**
+- **Coyote + BambaBots**
+
+It counts purchase dependencies and preserves differing transcript opinions.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
@@ -112,7 +123,13 @@ _Research: 23 Oct 2026 · current committed **N5.3 September-2026** roster profi
 | **A+** | **O-12 Team Sirius FO21/0 + SiriusBot** | FO+native Repeater/FD+20 on synchronized model creates specialist and cyber forks | Need **two FO models** (only Sirius FO; SiriusBot is Repeater) |
 | **S+** | **Drummer FO + Drumbot-5 FO21/0** — Kestrel/eligible PanO | Two simultaneous FO-capable attack origins/targets under **one synchronized Order**, plus HFT/Flash 360º backstop | Must share declared Skill and stay within Coherency; not two Orders; bot WIP11 vulnerable |
 
-**Points denominator warning:** 13pt Proxy, 9pt PuppetBot, 8pt RacerBot are not all independent 13/9/8pt troops. They each have **composition, controller, group and order accounting** that materially change rank. **A 2-model FO solution** is not automatically a **2-Order solution**.
+**Points denominator warning:** never compare dependent bodies as if individually fieldable:
+
+- **Proxy 13pt:** G:Jumper composition and shared Order apply
+- **PuppetBot 9pt:** Puppet Master/controller and Order rules apply
+- **RacerBot 8pt:** Pilot-X parent and group requirements apply
+
+The **composition, controller, group and Order accounting** materially change rankings. A **two-model FO solution** does not automatically produce **two Orders**.
 
 ## 4. Matchups: when a rare combination wins
 

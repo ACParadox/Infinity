@@ -10,7 +10,19 @@ He **would not personally select a Wrecker in Vanilla** compared with the availa
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
-**TAGs as quadrant-VP mass versus actual Supply Box specialists:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) contrasts Avatar/Sphinx/Cutter apex concentration with **Gecko49/0, Xeodron49/.5, Squalos55/1, Gorgos63/1.5** efficient quadrant swings. Normal TAG is not a Specialist merely for being tough; check current scenario Baggage bonuses.
+**TAGs as quadrant-VP mass versus actual Supply Box specialists:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) contrasts high-cost TAG concentration with lower-cost quadrant swings:
+
+- **Apex concentration:**
+  - **Avatar**
+  - **Sphinx**
+  - **Cutter**
+- **More affordable quadrant swings:**
+  - **Gecko 49/0**
+  - **Xeodron 49/.5**
+  - **Squalos 55/1**
+  - **Gorgos 63/1.5**
+
+A normal TAG is not a Specialist just because it is tough; check mission-specific Baggage bonuses.
 
 **Scope:** all currently rostered Tactical Armored Gear in the repository's main-branch N5.3 references; evaluated for a typical 300-point game, not a promise that the same TAG is best for every mission. **Checked:** 2026-10-23. **Authority:** `sectorials/<faction>/<army>.md` for current profile, price, availability and Fireteam access; `notes/factions/` for existing tactical reviews. The April 2025 podcast tier list is **older commentary**, not authority on October 2026 profiles.
 
@@ -20,8 +32,26 @@ He **would not personally select a Wrecker in Vanilla** compared with the availa
 
 ## Executive answer
 
-- **Most oppressive ceiling ("apex")**: **Avatar, Marut, Cutter, Zeta, Sphinx**; the first two bring extraordinary gun/command packages, Cutter/Sphinx protect their investment through marker state, and Zeta combines HRMC with Climbing Plus. They are **not automatically best buys**.
-- **Best value for points in many lists**: **Tikbalang, Squalos Mk-II, Agamemnon, Overdron, Lizard, Zeta, Stigmata, Wrecker and Xeodron**. Their price and extra Orders/roles preserve a functioning army around them. Which is *actually* best depends on access, profile and match-up.
+- **Most oppressive ceiling ("apex"):**
+  - **Avatar** — extraordinary gun/command package
+  - **Marut** — extraordinary gun/command package
+  - **Cutter** — marker-state investment protection
+  - **Zeta** — HRMC and Climbing Plus
+  - **Sphinx** — marker-state investment protection
+
+  These are **not automatically the best buys**.
+- **Best value for points in many lists:**
+  - **Tikbalang**
+  - **Squalos Mk-II**
+  - **Agamemnon**
+  - **Overdron**
+  - **Lizard**
+  - **Zeta**
+  - **Stigmata**
+  - **Wrecker**
+  - **Xeodron**
+
+  Their price and extra Orders/roles can preserve a functioning army around them. The best choice depends on access, profile and matchup.
 - **Exceptional specialist answers**:
   - **Uhlan** for Camouflage + punishing long-range Feuerbach or forward assault
   - **Jotum** against conventional small-arms-heavy opponents
@@ -155,9 +185,21 @@ He **would not personally select a Wrecker in Vanilla** compared with the availa
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
-**Observed TAG value is mission-dependent:** **Double Seraph + Defersen + recovery** was used successfully in four of five games of #181, but the champion **switched lists** to face Morat anti-TAG tools. **Two Xeodrons + Kurnau/cheap REM** finished Countermeasures through Classifieds (#212). **Swiss Guard/Joan/Helot**, not an unused Cutter alternate, accounted for five played Borderbash wins (#169). [#181](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#212](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+**Observed TAG value is mission-dependent:**
 
-**Overinvestment countercases:** #214 **Cutter+Squalo+Tikbalang** won exchanges but lost Firefight 5–2 on Classifieds; #231's **Sphinx** spent 9–10 Orders for ~four kills but left Battleground zone and backline vulnerable; #189's Sphinx/Sheskiin could not deliver data collectors against a blocking HMG. [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+- **#181 — Double Seraph + De Fersen + recovery:** used successfully in four of five games, but the champion **switched lists** against Morat anti-TAG tools.
+- **#212 — Two Xeodrons + Kurnau / cheap REM:** completed Countermeasures through Classifieds.
+- **#169 — Swiss Guard + Joan + Helot:** accounted for five played Borderbash wins; the Cutter alternative was *not* played.
+
+[#181](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#212](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
+
+**Overinvestment countercases:**
+
+- **#214 — Cutter + Squalo + Tikbalang:** won exchanges but lost Firefight 5–2 on Classifieds.
+- **#231 — Sphinx:** spent 9–10 Orders for about four kills, leaving Battleground zone and backline vulnerable.
+- **#189 — Sphinx + Sheskiin:** failed to deliver data collectors against a blocking HMG.
+
+[#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Required support accounting:** Name the **Engineer/Servant, second Specialist, repeater clearance, anti-CC/smoke screen and final-turn Orders** before rating TAG cost-effectiveness. Do not interpret unplayed **Avatar** (#155) or **Cutter** (#169) alternates as victories.
 
