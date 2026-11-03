@@ -24,6 +24,52 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Related:** [Hidden/reactive architecture](../Strategy/defensive-architecture-and-reactive-turn.md), [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), and [Onyx contrast](onyx-contact-force.md).
 
+## Overview
+
+**What Shasvastii does exceptionally well:** turn **Impersonation, Camouflage, Hidden Deployment, Minelayers and surviving forward specialists** into enemy Order expenditure. Its strongest lists combine **uncertain threat positions with late-game mission scoring**; a good Shasvastii game often avoids a fair frontal firefight entirely.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
+
+- **Top 3 candidate — hidden missile ARO (apex): Noctifer Missile Launcher 30/1.5.** **S-tier** in the [ARO comparison](../list-building/aro-units-apex-and-value.md). Mimetism(-6), Hidden Deployment and a potential missile template change enemy movement before it appears; it supplies no normal Order while Hidden and may never reveal into the ideal attack.
+- **Top 3 candidate — enemy-DZ Impersonation assassin (apex): Speculo Killer BSG 26/1.** **S-tier** in the [airborne/DZ threat guide](../list-building/airborne-and-enemy-dz-attackers-apex-value.md). Monofilament, Smoke and early proximity can force deployment concessions or threaten a TAG/LT; prepared screens, SWC and single-Wound fragility prevent an automatic kill. The Combi and Minelayer variants are **different profiles**.
+- **Top 5 candidate — forward Camo mission/assault toolbox (value): Caliban.**
+  - **Forward Observer 26/0:** forward mission and close-combat threat.
+  - **Engineer 28/0:** tech/repair role on the same dangerous chassis.
+  - **Chain of Command 29/0:** command contingency.
+  - The [toolbox rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) rate this family **S for points value**, not an imaginary all-in-one FO+Engineer+CoC profile. Each starts with one Wound before a successful Protheion gain.
+- **Top 10 candidate — cheap camouflaged area denial (value): Shrouded Dazer Minelayer 21/0.** **A+** in the [midfield-denial ranking](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) for inexpensive marker/route pressure. **Shock Mine Minelayer 24/0.5** is a distinct loadout; Dazer needs meaningful approach terrain.
+- **Top 5 candidate — Hidden Deployment TAG first-strike ceiling (apex): Sphinx 93/2.** **S apex but C value** in the [TAG tiers](../list-building/tags.md). Fast Mimetism(-6), Climbing Plus and Hidden Deployment can dismantle an exposed flank; lack of general-purpose AP, price and retreat Orders make it **not** a top-five bargain.
+- **Exceptional mobile close-assault gun, not an elite 32-inch shooter: Sheskiin.** BS15, Nanoscreen, Protheion and CC can snowball through vulnerable infantry, but the [ranged gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md) caution against inflating her Red Fury's long-range rating.
+
+### Particularly strong or unusual Fireteams
+
+- **Shasvastii Shock — Gwailo, Victor and FTO REM:**
+  - **Gwailo HRL 39/1.5:** Albedo/Nanoscreen **and MSV2 on this exact HRL option**; the HMG does **not** carry MSV2.
+  - **Victor Messer:** White Noise/hacking and specialist support, Wildcard **in Shock only**.
+  - **M-Drone FTO:** legal Sensor/repeater-support member **only on the FTO profile**.
+  - A **Gwailo** or **Jayth FTO** is the qualifying Shock foundation.
+- **Shasvastii Shock — Jayth crossing package:**
+  - **Jayth FTO:** specialist or template/E/M profile with **Disco Baller (projected Eclipse)**.
+  - **Victor Messer or M-Drone FTO:** complementary permitted support.
+  - Useful for moving through a defended lane without accepting the usual shooting fight; the Jayth chassis is still fragile.
+- **Nox Core/Haris — mission and weapon scaffolding:**
+  - **Nox:** mandatory member.
+  - **T-Drone FTO:** legal remote-weapon choice **only with its FTO profile**.
+  - **Tensho / Oktavia / eligible Wildcards:** alternate mission or reactive utility.
+  - This is a scenario-coverage team, not a universal five-model gun bonus.
+- **Haiduk Duo/Haris:** unusual affordable **MSV2 Sapper** pair/trio for fixed-lane defense; much less mobile than the marker pressure plan.
+
+### Unusual access, gaps and trade-offs
+
+- **Two visibility tools, not a mass Smoke army:** **Speculo** has **normal Smoke**; **Jayth FTO Disco Baller** creates **Eclipse** that blocks even visors. Neither provides the abundant cheap **Regular Smoke** found in Morat.
+- **MSV/Albedo is profile-dependent:** **Gwailo HRL** gains MSV2, **Gwailo HMG does not**; **Haiduk** provides MSV2 Sapper. Gwailo Albedo itself counters enemy visors rather than projecting Smoke.
+- **Command options:** **Mentor LT** supplies a protected/decoy-style command shell. **Caliban CoC** can protect an aggressive Lieutenant, but the CoC model is **not also the Caliban FO/Engineer**.
+- **Rare availability:** **Sphinx AVA2** and **Q-Drone AVA2** are genuine sectorial advantages. The standard roster offers a TAG but **no distinct VH**; do not import these AVA numbers into Vanilla/Onyx.
+- **Weakness:** no effortless large Pitcher network or abundant premium long-range guns. Sensor, direct templates, anti-marker tools and an opponent's first-turn tempo can collapse multiple one-Wound specialists, so preserve genuine Regular Orders and final-turn scorers.
+
+
 ## Core identity: make the opponent spend Orders solving uncertainty
 
 Shasvastii win by **turning hidden information into tempo**, then exploiting the gap with a small number of lethal pieces. They are **not** a faction that must table the enemy.
