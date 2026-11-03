@@ -4,6 +4,19 @@
 
 > **Verification status: PARTIAL — ORIGINAL BATTLE PLAY-BY-PLAY NOT ACCESSIBLE.** The video title/ID/channel were verified through YouTube search and the repository index, **but the original transcript could not be retrieved**: both the normal and chunked YouTube transcript requests returned “Failed to fetch transcript. Ensure yt-dlp is installed,” the video-frame fallback returned “No storyboards available,” and targeted public searches did not reveal a reliable independent play-by-play. Therefore **the actual winner, objective score, played unit lists, kills, movement sequences and final tactical outcome are UNKNOWN.** The document below provides the **verified mission framework** and **explicitly labeled conditional matchup analysis**, cross-referencing other indexed reports. **Do not treat those hypotheses as observations from #241**, do not insert a guessed score, and do not count this video in faction performance statistics until the report can be inspected. The title alone cannot identify an N5 patch.
 
+## Army lists and Fireteams — #241 (not verified)
+
+**Original source:** [Boomers Wargames — WinterFor vs Shindenbutai, 300pt Hardlock](https://www.youtube.com/watch?v=CR23-lE6mJo). **Rechecked November 3, 2026:** the original YouTube full-transcript request still failed, including chunked retrieval. The existing dossier documents unavailable source frames/storyboards; no reliable independent published Army list or roster transcript was established. The title verifies **Svalarheima Winter Force vs Shindenbutai, N5, 300 points, Hardlock** but **does not identify any actual unit profiles or Fireteam membership**.
+
+- **Svalarheima Winter Force army list:** **Not verified.** No reliable played-model inventory, loadouts, Lieutenant, combat groups, or list export available from the source.
+- **WinterFor Fireteams:** **Not verified.** No source-backed Core/Haris/Duo declaration, formation size, or members. Any Nisse, Jotum, ORC or other WinterFor unit mentioned elsewhere in this dossier is a **conditional matchup hypothesis**, not an observed inclusion in #241.
+- **Shindenbutai army list:** **Not verified.** No reliable played-model inventory, loadouts, Lieutenant, combat groups, or list export available from the source.
+- **Shindenbutai Fireteams:** **Not verified.** No source-backed Core/Haris/Duo declaration, formation size, or members. Hatamoto, Tanuki, Yamabushi, Yojimbo and other named Shinden units in the conditional tactical analysis are **not established as played in this video**.
+- **Four-/five-model Fireteam audit:** **Unknown**, not "none." The missing evidence cannot establish either presence or absence of a large team; do not infer members from contemporary faction charts, suggested lists, or other battle reports.
+- **Evidence necessary to finish:** an accessible opening roster and deployment segment, original Army exports/list screenshots, or direct creator-published team notes. Verify actual membership and whether a formation was active in this game before converting these rows into claims.
+
+**Outcome:** This entry has been audited for source availability but **cannot be reconstructed honestly** beyond the confirmed matchup/mission/points. Retain the existing **PARTIAL** designation. This is the sole unresolved primary-source case among #221–#241.
+
 ## Match and evidence ledger
 
 | Attribute | Evidence and status |
