@@ -129,7 +129,7 @@ _Additional contenders ranked for **this role only**; compare the points spent o
 | **Additional** | [Infinity the Dante — Ōban Initial N5/Disco](https://www.youtube.com/watch?v=1PxoXoeJ2vs) | Contrasting hot takes on 2× Shikami versus one; early-2025 opinions still require 2026 profile checks |
 | **Additional** | [Shepherd + Jordan — June/July 2026 faction tier discussion](https://www.youtube.com/watch?v=1dW3i9dpI34) | Cross-faction evidence that a **single 23pt Disco platform** can govern otherwise strong faction CC/advance options; discussion is subjective |
 
-_All four podcasts above and the selected videos were queried through the corresponding transcript connectors. Podcast/web dates and machine captions are not rules authority; cost/ability judgments use repository current references. For wider role overlap see [Warbands](warbands-and-cheap-trading-units-apex-value.md), [Hacking/KHD](hackers-and-killer-hackers.md), [Movement/vision](movement-positioning-and-vision-control.md), [ARO architecture](aro-units-apex-and-value.md), [Disruption/deployables](../deployables-area-control.md), and [TAGs](tags.md)._
+_All four podcasts above and the selected videos were queried through the corresponding transcript connectors. Podcast/web dates and machine captions are not rules authority; cost/ability judgments use repository current references. For wider role overlap see [Warbands](warbands-and-cheap-trading-units-apex-value.md), [Hacking/KHD](hackers-and-killer-hackers.md), [Movement/vision](movement-positioning-and-vision-control.md), [ARO architecture](aro-units-apex-and-value.md), [Disruption/deployables](deployables-area-control.md), and [TAGs](tags.md)._
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 

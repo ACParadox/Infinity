@@ -144,4 +144,4 @@ _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured wi
 5. **What does the enemy's KHD do?** Model the **reverse hacking vector** through exposed Repeaters and the Firewall; don't set the primary hacker next to vulnerable nodes.
 6. **Does it score?** Prefer FO/Sensor/Engineer/Pitcher hybrid when you need midfield objectives after enemy HI is disabled.
 
-Related: [Hacking and network-projection doctrine](hacking-and-network-projection.md), [Hacker/KHD tiers](hackers-and-killer-hackers.md), [Deployables](../deployables-area-control.md), [Midfield area denial](midfield-area-denial-and-speed-bumps-apex-value.md), [Mission specialists](mission-specialists-and-button-pushers-apex-value.md), [N5.3 rules](../../rules/README.md).
+Related: [Hacking and network-projection doctrine](hacking-and-network-projection.md), [Hacker/KHD tiers](hackers-and-killer-hackers.md), [Deployables](deployables-area-control.md), [Midfield area denial](midfield-area-denial-and-speed-bumps-apex-value.md), [Mission specialists](mission-specialists-and-button-pushers-apex-value.md), [N5.3 rules](../../rules/README.md).

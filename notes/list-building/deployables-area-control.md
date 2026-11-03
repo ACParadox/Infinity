@@ -1,10 +1,10 @@
 # Deployables and Area Control
 
-**Network-delivery tier companion:** [N5.3 Network Projection — apex, value, matchup](list-building/network-projection-repeaters-pitchers-apex-value.md) compares **Pitcher** (BS roll, N5.2 range penalties), **FastPanda** (place in ZoC), **Deployable Repeater + Minelayer** (Turn-0), **native Repeater**, **TinBot(Repeater)** teams and fast cheap repeater sacrifices. Includes opposing tactical opinions and exact current profiles.
+**Network-delivery tier companion:** [N5.3 Network Projection — apex, value, matchup](network-projection-repeaters-pitchers-apex-value.md) compares **Pitcher** (BS roll, N5.2 range penalties), **FastPanda** (place in ZoC), **Deployable Repeater + Minelayer** (Turn-0), **native Repeater**, **TinBot(Repeater)** teams and fast cheap repeater sacrifices. Includes opposing tactical opinions and exact current profiles.
 
-**Close backline defense companion:** [DZ Defenders — anti-alpha-strike and Impersonation tier guide](list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md) applies Minelayer, mines, perimeter Boost restrictions, 360º/Flash and nonlethal weapons to protecting cheerleaders. Key distinction: mines trigger on eligible enemy Markers; Boost weapons do not trigger while an enemy is in IMP/Camo marker state.
+**Close backline defense companion:** [DZ Defenders — anti-alpha-strike and Impersonation tier guide](dz-defenders-alpha-strike-and-impersonation-apex-value.md) applies Minelayer, mines, perimeter Boost restrictions, 360º/Flash and nonlethal weapons to protecting cheerleaders. Key distinction: mines trigger on eligible enemy Markers; Boost weapons do not trigger while an enemy is in IMP/Camo marker state.
 
-**Current N5.3 unit choices:** [Midfield Area Denial & Speed Bumps — apex/value and matchups](list-building/midfield-area-denial-and-speed-bumps-apex-value.md) compares turn-zero Minelayer/Camo/Hidden packages against Order-fed mine dispensers, repeaters and perimeter networks, with profile costs, counters and transcript disagreements.
+**Current N5.3 unit choices:** [Midfield Area Denial & Speed Bumps — apex/value and matchups](midfield-area-denial-and-speed-bumps-apex-value.md) compares turn-zero Minelayer/Camo/Hidden packages against Order-fed mine dispensers, repeaters and perimeter networks, with profile costs, counters and transcript disagreements.
 
 ## Core principle
 
@@ -171,7 +171,7 @@ Mine the **easy alternative** so the enemy is pushed toward the gun.
 
 Mines only trigger if their Small Teardrop Template can affect the enemy **without affecting any ally, including an Unconscious ally**. An ally accidentally inside that template can disable an otherwise strong mine position; conversely, careful friendly positioning can shape which approach the Mine threatens.
 
-Before placing a Mine, also check its Trigger Area for enemy Camouflage Markers: normal deployment is prohibited if one is inside unless there is also a valid non-camouflaged enemy or the applicable Intuitive Attack is used. A Mine's Small Teardrop is blocked by **Total Cover** from the Blast Focus; apparent coverage through a wall is not actual coverage. See the [Mine rules](../rules/4_Ammunition%20and%20Weaponry/Mines.md).
+Before placing a Mine, also check its Trigger Area for enemy Camouflage Markers: normal deployment is prohibited if one is inside unless there is also a valid non-camouflaged enemy or the applicable Intuitive Attack is used. A Mine's Small Teardrop is blocked by **Total Cover** from the Blast Focus; apparent coverage through a wall is not actual coverage. See the [Mine rules](../../rules/4_Ammunition%20and%20Weaponry/Mines.md).
 
 ## 7. Mines as Order-tax pieces
 
@@ -218,7 +218,7 @@ The target can still fight, but retreat and reinforcement now become more diffic
 
 Because a newly placed Drop Bear is infrastructure for later Orders rather than an immediate same-Order explosion, plan the **next activation** when placing it.
 
-**Choose the right mode:** Deployable Mode places a visible **Mine (-3) Token**, not a normal CAMO marker, beside the carrier via Place Deployable. BS Mode is a **Targetless PH-based throw** to a chosen location, even without an enemy target. A successful throw places the Mine in the **Conclusion step**, so it cannot detonate that Order. The two modes share **Disposable (3)**; see [Drop Bears](../rules/4_Ammunition%20and%20Weaponry/Drop_Bears.md).
+**Choose the right mode:** Deployable Mode places a visible **Mine (-3) Token**, not a normal CAMO marker, beside the carrier via Place Deployable. BS Mode is a **Targetless PH-based throw** to a chosen location, even without an enemy target. A successful throw places the Mine in the **Conclusion step**, so it cannot detonate that Order. The two modes share **Disposable (3)**; see [Drop Bears](../../rules/4_Ammunition%20and%20Weaponry/Drop_Bears.md).
 
 ## 9. Mine Dispensers: ranged terrain modification
 
@@ -243,7 +243,7 @@ but:
 
 > Where can I place a future problem the enemy cannot conveniently clear?
 
-**Spend Double Shot intentionally.** Mine Dispensers use the Drop Bear BS-mode placement rules, use the carrier's **BS** for the shot, and have **Double Shot / Disposable (2)**. Use multiple Mine placements when they cover distinct exits or trap both sides of cover; keep the remaining use if a single Mine already does the job. Fired Mine Dispenser tokens (also fired Drop Bears, Pitchers, and Disco Balls) must be **fully supported on a horizontal surface**—never attached to a vertical wall. See [Mine Dispenser](../rules/4_Ammunition%20and%20Weaponry/Mine_Dispenser.md) and [N5 FAQ v0.1 placement](../rules/4_Ammunition%20and%20Weaponry/N5_FAQ_0.1_Deployable_Placement.md).
+**Spend Double Shot intentionally.** Mine Dispensers use the Drop Bear BS-mode placement rules, use the carrier's **BS** for the shot, and have **Double Shot / Disposable (2)**. Use multiple Mine placements when they cover distinct exits or trap both sides of cover; keep the remaining use if a single Mine already does the job. Fired Mine Dispenser tokens (also fired Drop Bears, Pitchers, and Disco Balls) must be **fully supported on a horizontal surface**—never attached to a vertical wall. See [Mine Dispenser](../../rules/4_Ammunition%20and%20Weaponry/Mine_Dispenser.md) and [N5 FAQ v0.1 placement](../../rules/4_Ammunition%20and%20Weaponry/N5_FAQ_0.1_Deployable_Placement.md).
 
 ## 10. Perimeter weapons: project the device forward
 
@@ -290,7 +290,7 @@ Particularly strong locations:
 
 **Physical path matters:** a Deployable + Perimeter item may be placed wholly inside the carrier's ZoC, but there must be a traversable path to the placement point for its Silhouette; sealed doors, impassable walls, and narrow gaps can invalidate apparently attractive locations.
 
-**Boost is not universal to all Perimeter items.** Boost weapons such as CrazyKoalas and MadTraps pursue **enemy Models**, not CAMO or Impersonation Markers; a successful **Normal Dodge** avoids their Boost attack. Pair them with Discover, Sensor, a guard or an objective interaction that makes an intruding Marker reveal. A FastPanda provides a Repeater instead of chasing a target. See [Perimeter Weapons](../rules/4_Ammunition%20and%20Weaponry/Perimeter_Weapons.md).
+**Boost is not universal to all Perimeter items.** Boost weapons such as CrazyKoalas and MadTraps pursue **enemy Models**, not CAMO or Impersonation Markers; a successful **Normal Dodge** avoids their Boost attack. Pair them with Discover, Sensor, a guard or an objective interaction that makes an intruding Marker reveal. A FastPanda provides a Repeater instead of chasing a target. See [Perimeter Weapons](../../rules/4_Ammunition%20and%20Weaponry/Perimeter_Weapons.md).
 
 ## 12. Repeaters are virtual minefields
 
@@ -333,7 +333,7 @@ Good spots include:
 
 The best Deployable Repeater is one that makes the enemy's desirable final position tactically unacceptable.
 
-**Network deployment notes:** standard Deployable Repeaters have **Disposable (3)**, are placed in Silhouette contact and only start functioning after the **Conclusion step**; they cannot extend a same-Order hack. Hide the device behind Total Cover where its ZoC still covers the valuable destination, and keep the actual Hacker safe elsewhere. A non-Hackable attacker, or eligible Stealth movement outside LoF, can bypass parts of the network, so combine it with physical threats. When placing several, cover the forward route, lateral bypass, and inner objective/DZ approach instead of wasting Orders on near-identical bubbles. See [Deployable Repeater](../rules/5c_Equipment/Deployable_Repeater.md).
+**Network deployment notes:** standard Deployable Repeaters have **Disposable (3)**, are placed in Silhouette contact and only start functioning after the **Conclusion step**; they cannot extend a same-Order hack. Hide the device behind Total Cover where its ZoC still covers the valuable destination, and keep the actual Hacker safe elsewhere. A non-Hackable attacker, or eligible Stealth movement outside LoF, can bypass parts of the network, so combine it with physical threats. When placing several, cover the forward route, lateral bypass, and inner objective/DZ approach instead of wasting Orders on near-identical bubbles. See [Deployable Repeater](../../rules/5c_Equipment/Deployable_Repeater.md).
 
 ## 14. Repeaters become stronger when combined with physical threats
 
@@ -371,7 +371,7 @@ Do not expect them to function like a durable Total Reaction REM.
 
 They are usually better when they control **small, important spaces** rather than long open fire lanes.
 
-An Armed Turret is a **stationary STR 1, 360º Visor + Total Reaction ARO node**, not a Mine: it automatically responds with BS Attack against active enemy **Models in LoF** (or CC Attack in Silhouette contact), but not against Markers. Since it has real shots, can be destroyed and cannot move, shelter it until the target crosses the final short lane. See [Armed Turret](../rules/4_Ammunition%20and%20Weaponry/Armed_Turret.md).
+An Armed Turret is a **stationary STR 1, 360º Visor + Total Reaction ARO node**, not a Mine: it automatically responds with BS Attack against active enemy **Models in LoF** (or CC Attack in Silhouette contact), but not against Markers. Since it has real shots, can be destroyed and cannot move, shelter it until the target crosses the final short lane. See [Armed Turret](../../rules/4_Ammunition%20and%20Weaponry/Armed_Turret.md).
 
 ## 16. Restrict a Turret's exposure
 
@@ -429,7 +429,7 @@ It is:
 
 A well-placed Disco Ball can turn a defended objective into a local fight instead of a whole-table fight.
 
-**Preserve reactivation access.** A successful Disco Baller shot deploys a persistent Disco Ball at the **Conclusion step** with an Eclipse Circular Template, removed at the **start of the States Phase**. The Ball itself stays until destroyed or game end. An allied trooper with a **Deactivator** can later reactivate an **allied** Ball within LoF or ZoC with a **WIP +3 Normal Roll, modified by Deactivator range**; the Eclipse template returns at Conclusion until the next States Phase. Position the Ball so a Deactivator carrier can safely reach it for a later objective push. See [Disco Baller / Activate Disco Ball](../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md).
+**Preserve reactivation access.** A successful Disco Baller shot deploys a persistent Disco Ball at the **Conclusion step** with an Eclipse Circular Template, removed at the **start of the States Phase**. The Ball itself stays until destroyed or game end. An allied trooper with a **Deactivator** can later reactivate an **allied** Ball within LoF or ZoC with a **WIP +3 Normal Roll, modified by Deactivator range**; the Eclipse template returns at Conclusion until the next States Phase. Position the Ball so a Deactivator carrier can safely reach it for a later objective push. See [Disco Baller / Activate Disco Ball](../../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md).
 
 ## 19. Build deployable depth
 
@@ -512,7 +512,7 @@ Important distinctions:
 - It does not duplicate or refill pieces already sitting on the table.
 - Non-Reloadable equipment such as current Armed Turrets cannot be replenished this way.
 
-In addition to the Reload Skill, the **States Phase** automatically replenishes compatible expended Disposable uses for eligible allied troops within a non-Null Baggage trooper's ZoC. Previously placed items **remain deployed**; the carrier regains the ability to place more. This is a timing and movement benefit, not a way to reload **Non-Reloadable** equipment. See [Baggage](../rules/5c_Equipment/Baggage.md) and [Reload](../rules/5a_Common%20Skills/Reload.md).
+In addition to the Reload Skill, the **States Phase** automatically replenishes compatible expended Disposable uses for eligible allied troops within a non-Null Baggage trooper's ZoC. Previously placed items **remain deployed**; the carrier regains the ability to place more. This is a timing and movement benefit, not a way to reload **Non-Reloadable** equipment. See [Baggage](../../rules/5c_Equipment/Baggage.md) and [Reload](../../rules/5a_Common%20Skills/Reload.md).
 
 This creates a useful recurring pattern:
 
@@ -536,7 +536,7 @@ A mobile Baggage REM can gradually advance behind the army and keep disposable i
 
 Deactivator is one of the cleanest answers to enemy deployables.
 
-**Know its constraints:** it targets a deployed enemy weapon/piece of Equipment in the user's **LoF or ZoC**, never an unrevealed CAMO Marker. It removes the item on a successful **Normal WIP Roll** (with only Deactivator range MODs, not Mimetism/Cover), but success **does not prevent the item from triggering in the same Order**. An Engineer moving into a Mine's Trigger Area to use Deactivator may therefore still suffer its blast. Reveal a CAMO Mine first, or approach a visible device from a position where it cannot trigger. See [Deactivator](../rules/5c_Equipment/Deactivator.md).
+**Know its constraints:** it targets a deployed enemy weapon/piece of Equipment in the user's **LoF or ZoC**, never an unrevealed CAMO Marker. It removes the item on a successful **Normal WIP Roll** (with only Deactivator range MODs, not Mimetism/Cover), but success **does not prevent the item from triggering in the same Order**. An Engineer moving into a Mine's Trigger Area to use Deactivator may therefore still suffer its blast. Reveal a CAMO Mine first, or approach a visible device from a position where it cannot trigger. See [Deactivator](../../rules/5c_Equipment/Deactivator.md).
 
 Therefore, do not merely protect the deployable itself.
 
@@ -751,4 +751,4 @@ Before placing a deployable, ask:
 
 ## Cross-game N5.3 ARO tier and deployment study
 
-The [ARO apex/value tier list and matchup guide](list-building/aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.
+The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) compares premium hidden missile ambushes, durable MSV/neurocinetics shooters, low-SWC Total Reaction REMs, Panzerfaust/Flash/DTW disposable AROs, mines and anti-DZ screens. It explicitly ranks **maximum reactive impact separately from cost effectiveness**, reconciles current N5.3 profiles with competing video/podcast views, and explains serial defence and when to decline an ARO. Exact profiles and Fireteams remain in the authoritative `sectorials/` files.

@@ -904,7 +904,7 @@ It is:
 ## Related notes
 
 - [Defensive architecture / Reactive Turn](defensive-architecture-and-reactive-turn.md)
-- [Deployables and area control](../deployables-area-control.md)
+- [Deployables and area control](deployables-area-control.md)
 - [Movement, positioning and vision control](movement-positioning-and-vision-control.md)
 - [Deployment, Initiative and Reserve strategy](deployment-initiative-and-reserve-strategy.md)
 - [Target priority and attack sequencing](target-priority-and-attack-sequencing.md)

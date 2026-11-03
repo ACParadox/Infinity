@@ -172,6 +172,7 @@ The list-building strategy notes are split by related subject so individual topi
   - plan the counterattack around the attacker's likely ending square
   - MISSION → PLAN → ENGINE → ROUTE → PAYOFF → PIVOT checklist
 
+- [Deployables and area control](list-building/deployables-area-control.md): placement, mines, repeaters, perimeter weapons, Armed Turrets, Baggage, Deactivators, and layered Order-tax defenses.
 - [Defensive architecture and the Reactive Turn](list-building/defensive-architecture-and-reactive-turn.md)
   - whole-table defence rather than only DZ defence
   - layered information, approach, long-range, mid-range, breach, core, and recovery defence
