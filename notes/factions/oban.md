@@ -2,52 +2,49 @@
 
 **Companion decision table:** [Source-backed JSA/Ōban/Shindenbutai must-have, go-to and avoid audit](../../sectorials/jsa/oban.md). Specific `never take` claims are scoped to profiles and attributed to direct video/podcast transcripts.
 
-## Scope
+## Overview
 
-This is the tactical/list-building note for **Ōban** under the repository's current **N5.3 + ITS18** baseline.
+**What Ōban does exceptionally well:** deliver high-end close-combat threats and resilient objective specialists *through* dangerous firing lanes, then keep the midfield difficult to reclaim. Its signature is the combination of **projected Eclipse (Tankō Disco Baller), self-carried Eclipse (Shikami), normal Smoke, Hidden Deployment/Infiltration assassins, and linkable two-/three-STR mission pieces**. This is an army for **route creation → selective assassination or scoring → durable position holding**, not a faction that must win every fight in melee.
 
-Factual roster, points/SWC, AVA, Lieutenant options, profiles, and Fireteam legality come from:
+### Whole-game standouts — apex versus value
 
-- `sectorials/jsa/oban.md` — authoritative current Ōban reference.
-- `rules/` — authoritative local rules reference.
+The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-faction shortlists**, inferred from the repository's N5.3 [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective-holder](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), and [command](../list-building/command-units-apex-and-value.md) comparisons. They are **not official placements, exhaustive statistical rankings, or win-rate data**; rank *within the named job*, never as overall best units in Infinity.
 
-Community/video/tournament material is used to identify repeated construction patterns and practical uses, not to override current Army data.
+| Whole-game shortlist (specific job) | Ōban profile | Why it belongs / apex-versus-value trade-off |
+|---|---|---|
+| **Top 3 candidate — mobile objective-running apex** | **Shikami Specialist 42/0** (or **47/0** MULTI Rifle) | Very rare **Eclipse + Mimetism(-6) + Forward Deployment + Climbing Plus + Super-Jump + 2W + Specialist**. Crosses visor-covered lanes and vertical terrain, takes an objective and retreats; the 42pt version is the value pick for scoring. Vulnerable to hacking and an expensive one-button solution. |
+| **Top 3 candidate — durable 0-SWC objective-holder value** | **Karakuri FO 31/0** (Mk12 **38/0** for extra offense) | **STR3, Enhanced Immunity, Remote Presence, Panzerfaust and FO**, linkable in Ōban (AVA3). One of the strongest price-to-survivability carriers/zone holders. Slower than Shikami and still hackable. |
+| **Top 5 candidate — projected Eclipse/vision-control value** | **Tankō Disco Baller 19/0** | One of the game's standout **linkable, 2W, 0-SWC projected Eclipse** enablers, with Blitzen, Monofilament, Deactivator and cheap assault-team glue. Disco is a **limited-use placement tool**, not freely repeatable smoke. |
+| **Top 5 candidate — concealed premium CC assassination apex** | **Shinobu Kitsune 44/0.5** | **CC25, MA5, Hidden Deployment, Infiltration (PH19), Mimetism(-6), Climbing Plus, Smoke and Monofilament**. One of the most threatening heavy-target contact packages; costly and still only 1W. |
+| **Top 3 candidate — Hidden Monofilament assassin *for points*** | **Oniwaban SMG 29/0** (BSG **30/0**) | **CC24/MA4 + Hidden Deployment + Infiltration (PH18) + Mimetism(-6) + Monofilament/E/M** under 30 points. Often stronger *value* than Shinobu when the task is one premium kill. |
+| **Top 5 candidate — raw melee lethality per point** | **Miyamoto Mushashi 21/0 Irregular** (or **25/0.5 Regular FTO**) | **CC25/MA5, EXP CC, NWI and Immunity(ARM)** are extraordinary at this price, including as counter-CC. Unlike the Oniwaban he has **no Hidden Deployment/Infiltration**; the FTO is the linked Banzai option. |
+| **Top 5 candidate — cheap Chain of Command insurance** | **Kempeitai CoC BSG 17/0** (Combi **20/0**) | Excellent price for protecting an aggressive Lieutenant and a broadly usable Wildcard. Not a high-end infiltrating CoC scorer; protect the successor rather than exposing it. |
+| **Top 10 candidate — concealed mission-access specialist** | **Ninja KHD 26/0** (FO **30/0**) | **Hidden Deployment + Infiltration + Mimetism(-6)** allows a late console appearance; the KHD has a real anti-hacker job, though 1W and WIP13 limit reliability. |
 
-Material reviewed for this note included:
+**Especially dangerous CC bench:** Shinobu (CC25/MA5/Monofilament), Mushashi (CC25/MA5/EXP), **Oniwaban** (CC24/MA4/Monofilament+E/M), **Saito Tōgan** (CC24/MA4/EXP, Hidden/Infiltration/Smoke), **Yojimbo** (CC24/MA4/DA+Smoke+CrazyKoala), **Domaru** (CC24/MA3/Berserk and cheap E/M or AP), and **Tankō** (Monofilament on a 2W 18–19pt link body). These are different jobs: *best duelist*, *best delivered assassin*, *best cheap trade*, and *best counter-charge* should not be collapsed into one CC ranking.
 
-- **Robert Shepherd — Infinity N5 Faction Focus: JSA Ōban** and the associated Bureau Aegis transcript-derived discussion.
-- **Infinity Dante — Ōban tactica**; its Bureau Aegis summary was explicitly checked against the video and is more reliable than unreviewed automatic summaries.
-- **Tactical Awareness — Ōban** and its published raw Army lists, especially Owen's Domaru/Daiyōkai construction.
-- Dedicated current tactica/debate threads for **Yojimbo, Ninja, and Aragoto**.
-- Current 2025–26 player/listbuilding discussions.
-- The **IGL 2025/26 “Shika-kuri”** tournament list and related battle-report discussion.
+**Concealment caveat:** **Shinobu, Oniwaban, Saito and Ninja have Hidden Deployment + Infiltration, *not Impersonation*.** Ōban does **not** have an ordinary-roster Impersonation assassin analogous to a Fiday or Speculo Killer. Its assassins threaten from a concealed pre-positioned starting point; they do not bypass deployment screening by using the Impersonation State.
 
-Useful research links:
+### Particularly strong Fireteam combinations
 
-- JSA tactica index: `https://forum.corvusbelli.com/threads/n5-recap-jsa-tacticas.43447/`
-- Robert Shepherd/Bureau Aegis discussion: `https://www.bureau-aegis.org/forum/index.php?topic=17665.20`
-- Tactical Awareness Ōban discussion/list: `https://www.bureau-aegis.org/forum/index.php?topic=17690.0`
-- IGL 2025/26 list index: `https://forum.corvusbelli.com/threads/igl-2025-26-battle-report-index-videos-articles.43643/page-2`
-- IGL related battle-report discussion: `https://www.bureau-aegis.org/forum/index.php?topic=17992.20`
-- Yojimbo tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-yojimbo.43441/`
-- Ninja tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-ninja.43440/`
-- Aragoto tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-aragoto.43424/`
+- **Domaru Haris — Domaru LT (+1 Order, 23/0) + Daiyōkai HMG NCO (50/1) + Tankō Disco (19/0):** unusually clean **LT-order economy → NCO gun → projected Eclipse → serious close combat**. Potent but expensive and vulnerable to hacking; not an automatic default.
+- **Ōban Haris — Shikami + Karakuri + Karakuri:** unusual combination of **mobile Mimetism(-6)/Eclipse vertical scorer** with **two STR3, 0-SWC specialist anchors**. A scoring/holding package, rather than a conventional long-range gun link. One Shikami + one Karakuri as Duo is a leaner alternative.
+- **Aragoto Haris — Aragoto + Kuroshi Rider + Rui Shi MSV2 Spitfire:** fast **Smoke Grenade Launcher + MSV2 shoot-through-normal-Smoke** offensive package, with a mobile FO and hacker/shotgun choices on the Aragoto slot. Large motorcycle/REM bases and terrain can be a real limitation.
+- **Banzai Duo/Haris — Tankō + Miyamoto Mushashi *FTO* (optional additional Tankō):** projected Eclipse helps **deliver MA5/EXP** to the relevant target. **Only the 25/.5 Regular Mushashi FTO** is legal in this family; his cheaper Irregular profile is not.
+- **Keisotsu Core/Haris with Daiyōkai HMG + Kempeitai Wildcard:** a cost-controlled **ranged anchor plus command/MSV/utility** shell that leaves the more aggressive samurai or Shikami module independent.
 
-### Source-quality note
+All five are **legal construction concepts, not free-form mix-and-match**: Ōban allows **1 Core, 1 Haris, and multiple Duos**; check each family, required source member, FTO and maximum count in the [canonical Fireteam chart](../../sectorials/jsa/oban.md#canonical-fireteams).
 
-Several launch-era Bureau Aegis pages are transcript/AI summaries and are not equally reliable. For tactical conclusions, prefer:
+### Unusual access, gaps and trade-offs
 
-1. actual published Army-list dumps;
-2. battle reports / player descriptions of what was actually used;
-3. manually reviewed transcript summaries;
-4. unreviewed auto-summaries.
+- **Eclipse and Disco:** exceptional access for a JSA assault army: **Tankō Disco Baller 19/0**, plus **Shikami Eclipse Grenades**. **Eclipse blocks even normal MSV sight**; the Disco Ball is deployed equipment with limited shots and possible Deactivator reactivation, **not ordinary Smoke**, and cannot be shot through by friendly Rui Shi MSV2.
+- **Ordinary Smoke and visors:** **Kuroshi** and **Garon** Smoke GL; **Yojimbo, Shinobu, Saito and Yuan Yuan** Smoke sources. **Rui Shi MSV2 Spitfire 23/1** and **Kempeitai MSV2 Shock Marksman 22/1** can exploit *ordinary* Smoke; **Lù Duān MSV1** offers a separate Holoprojector/anti-Mimetism angle. Shooting through Smoke and blocking all sight with Eclipse are **two different game plans**.
+- **Chain of Command and LT-order engine:** **Kempeitai CoC 17/0** is unusually affordable; **Domaru LT(+1 Order) + Daiyōkai NCO** can convert command resources into actual attack Orders. Ōban also has cheap **Keisotsu LT**, so a premium command shell is a choice, not an obligation.
+- **TAGs:** **O-Yoroi (AVA2)** gives **BS14 MULTI HMG, STR3, Tactical Awareness, CrazyKoala, combat melee and Kobaruto Ancillary**—a legitimate conventional long gun in an otherwise shorter-ranged toolbox. **No ordinary Ōban Fireteam access**; repairs and hacking defense must be funded.
+- **Defensive tricks and speed:** **Ryūken HRL** packages Mimetism(-6), Decoy, Minelayer, one-use Camo and HRL into an awkward ARO; **13pt Aragoto BSG** buys unusually cheap motorcycle speed; **Yuan Yuan** bring low-cost Parachutist/Combat Jump pressure and Smoke. **Garon** has Total Reaction/360º, but no unlimited pool of premium ranged ARO bodies.
+- **Structural limits:** no standard **Impersonation**; relatively limited **premium long-/medium-range gunfighter** selection compared with shooting-focused sectorials; many of the best HI/REM/TAG pieces are **hackable**; and multiple impressive assassins/mobility specialists compete for the same Orders. Ōban wins by coordinating *one* decisive route with enough Regular Orders left to score.
 
-Current repository data always wins on exact profiles and Fireteam legality. In particular:
-
-- **Miyamoto Mushashi may only join Banzai as the FTO profile**; his normal profile is not Fireteam legal.
-- **O-Yoroi has no normal Ōban Fireteam access** under the current chart.
-- **Pangguling FTO has no Ōban Fireteam row**.
-- **Yuriko Wildcard access is FTO profiles only**.
+**Practical identity:** start with a **vision-control plan**, **one reliable conventional shooter**, **one or two mission routes**, and **a cheap command backbone**; then add the assassin or deluxe Fireteam that serves the mission.
 
 ## N5.3 quick read — decisions first (transcript update: 2026-10-23)
 
@@ -1343,3 +1340,50 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 **Event safety:** choose a unit *legally present* in the selected current N5.3 roster, then proxy only with an appropriate, identifiable **silhouette/base and number of physical troopers**, with peripheral/ancillary bodies separately represented. Check current ITS/organizer policy for competitive games and agree substitutions with casual opponents. Proxies do **not** grant missing profiles, adjust SWC or AVA, revive obsolete Fireteams, or permit one sculpt to stand for two simultaneous troopers.
 
 **Condensed purchasing verdict:** Ōban's clearest **profile-only no-buy is Genbutai BSG18**; Shinden's clearest direct **profile traps are Aïda24 non-FTO and generic Senku HMG17**, while **Triphammer and surplus expensive model quantities** are test-before-buy; Vanilla's main **whole-model defers are Sōhei/Kyoshō/standalone Shurayuki**, plus extra elite assassins and alternative TAGs. **Tankō, Tanuki, Hatamoto, Ryūken, Karakuri, Shikami and well-planned support REMs remain strong choices**.
+
+## References
+
+This is the tactical/list-building note for **Ōban** under the repository's current **N5.3 + ITS18** baseline.
+
+Factual roster, points/SWC, AVA, Lieutenant options, profiles, and Fireteam legality come from:
+
+- `sectorials/jsa/oban.md` — authoritative current Ōban reference.
+- `rules/` — authoritative local rules reference.
+
+Community/video/tournament material is used to identify repeated construction patterns and practical uses, not to override current Army data.
+
+Material reviewed for this note included:
+
+- **Robert Shepherd — Infinity N5 Faction Focus: JSA Ōban** and the associated Bureau Aegis transcript-derived discussion.
+- **Infinity Dante — Ōban tactica**; its Bureau Aegis summary was explicitly checked against the video and is more reliable than unreviewed automatic summaries.
+- **Tactical Awareness — Ōban** and its published raw Army lists, especially Owen's Domaru/Daiyōkai construction.
+- Dedicated current tactica/debate threads for **Yojimbo, Ninja, and Aragoto**.
+- Current 2025–26 player/listbuilding discussions.
+- The **IGL 2025/26 “Shika-kuri”** tournament list and related battle-report discussion.
+
+Useful research links:
+
+- JSA tactica index: `https://forum.corvusbelli.com/threads/n5-recap-jsa-tacticas.43447/`
+- Robert Shepherd/Bureau Aegis discussion: `https://www.bureau-aegis.org/forum/index.php?topic=17665.20`
+- Tactical Awareness Ōban discussion/list: `https://www.bureau-aegis.org/forum/index.php?topic=17690.0`
+- IGL 2025/26 list index: `https://forum.corvusbelli.com/threads/igl-2025-26-battle-report-index-videos-articles.43643/page-2`
+- IGL related battle-report discussion: `https://www.bureau-aegis.org/forum/index.php?topic=17992.20`
+- Yojimbo tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-yojimbo.43441/`
+- Ninja tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-ninja.43440/`
+- Aragoto tactica: `https://forum.corvusbelli.com/threads/n5-tactica-debate-aragoto.43424/`
+
+### Source-quality note
+
+Several launch-era Bureau Aegis pages are transcript/AI summaries and are not equally reliable. For tactical conclusions, prefer:
+
+1. actual published Army-list dumps;
+2. battle reports / player descriptions of what was actually used;
+3. manually reviewed transcript summaries;
+4. unreviewed auto-summaries.
+
+Current repository data always wins on exact profiles and Fireteam legality. In particular:
+
+- **Miyamoto Mushashi may only join Banzai as the FTO profile**; his normal profile is not Fireteam legal.
+- **O-Yoroi has no normal Ōban Fireteam access** under the current chart.
+- **Pangguling FTO has no Ōban Fireteam row**.
+- **Yuriko Wildcard access is FTO profiles only**.
