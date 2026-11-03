@@ -121,8 +121,7 @@ Purchasing **another TAG** for anti-TAG duty is a **separate, 60–110pt list-co
 | 19 | **A** | **Tohaa Kosuil Panzerfaust Engineer20/0** | Mid-cost trade: ranged armor denial + credible Close range/specialist durability. | Cannot mix different loadout profiles; every option has its own FT/Order permissions. |
 | 20 | **A** | **Onyx Kurgat Portable Autocannon30/1** | Best **repeatable lethal** answer when a real active firefight is expected and one cheap template cannot reach. | Higher opportunity cost and SWC; susceptible to Mimetism/cover/LoF, sometimes a cheap temporary IMM wins mission sooner. |
 | 21 | **A** | **Ariadna TankHunter AP HMG33/1.5** | Best **repeatable lethal** answer when a real active firefight is expected and one cheap template cannot reach. | Higher opportunity cost and SWC; susceptible to Mimetism/cover/LoF, sometimes a cheap temporary IMM wins mission sooner. |
-| 22 | **B situational** | **Yu Jing White Banner Fēiquán 28/0 VH E/M Carbine(+1B)+Akrylat** | Airborne vehicle projecting B2 E/M without hacking, good flank geometry where huge aerial base is legal. | Aerial No Cover, significant exposure, legality/arrival constraints; risky to sacrifice into a 70pt TAG firing lane. |
-| 23 | **B situational** | **Imperial Service Fēiquán28/0** | Airborne vehicle projecting B2 E/M without hacking, good flank geometry where huge aerial base is legal. | Aerial No Cover, significant exposure, legality/arrival constraints; risky to sacrifice into a 70pt TAG firing lane. |
+| 22 | **B situational** | **Yu Jing White Banner Fēiquán 28/0 VH E/M Carbine(+1B)+Akrylat; Imperial Service Fēiquán 28/0** | Airborne vehicle projecting B2 E/M without hacking, good flank geometry where huge aerial base is legal. | Aerial No Cover, significant exposure, legality/arrival constraints; risky to sacrifice into a 70pt TAG firing lane. |
 
 *Other notable conditional options:*
 
