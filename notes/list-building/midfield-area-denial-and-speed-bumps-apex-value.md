@@ -2,7 +2,13 @@
 
 **From denial to actual scored territory:** [Objective Holding / Zone Domination / Carried Objectives — apex/value](objective-holding-zone-domination-and-carriers-apex-value.md) explains whether forward Minelayer/Repeater/Hidden guard leaves a **non-Null model in the scoring quadrant**, blocks the enemy's final contact with a carrier, or only spends enemy Orders. Distinguishes Baggage/Embryo exceptions by mission.
 
-**Network-specific tiers:** [N5.3 Network Projection — Pitchers, Repeaters, TinBots and kamikaze carriers](network-projection-repeaters-pitchers-apex-value.md) explains why Moran/Initiated/Guìláng can start an active Repeater zone before Order 1, while fast native REMs, Pitcher, FastPanda and Drop/Place nodes have different setup and survival costs.
+**Network-specific tiers:** [N5.3 Network Projection — Pitchers, Repeaters, TinBots and kamikaze carriers](network-projection-repeaters-pitchers-apex-value.md) compares these sources of early Repeater coverage:
+
+- **Moran** — potential Turn-0 network projection
+- **Initiated Observant** — potential Turn-0 network projection
+- **Guìláng** — potential Turn-0 network projection
+- **Fast native-Repeater REMs** — mobile coverage with an approach cost
+- **Pitcher, FastPanda or Drop/Place carriers** — placement-dependent projection and survival costs
 
 _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SWC, profile skills, army availability and Fireteam restrictions come from this repository's **current N5.3 September 2026 sectorial references** (Army 7.26246.158/.159). Media are interpretations, not profile authority. No cross-faction entry implies that the same loadout is legal in every army._
 
@@ -24,7 +30,11 @@ _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SW
   - **Tohaa Kaauri E/M Minelayer 11/0** (DZ, not midfield)
   - **Kestrel Fennec Thunderbolt+Mine Minelayer 14/0** (DZ)
   - **Acontecimento Regular Mine+Sensor 13/0** (DZ).
-- **Best contingent route denial:** **Shrouded Dazer Minelayer 21/0** slows a *route* rather than simply threatening damage; **Naga Monofilament Minelayer 26/.5** punishes expensive troops that must pass one choke. Both need terrain and mission geometry to justify their specialist tool.
+- **Best contingent route denial:**
+  - **Shrouded Dazer Minelayer 21/0** — slows a *route* rather than directly threatening damage
+  - **Naga Monofilament Minelayer 26/.5** — threatens expensive troops that must pass a choke
+
+  Both need terrain and mission geometry to justify their specialist tool.
 - **Best zero-Order threat that is not merely a mine:** **Ōban Ryūken-9 HRL 23/1.5** — one-use Camo, Mimetism(-6), Decoy(1), deployment mine and scary reactive HRL. Strong **DZ/long-lane ambush**, not an infiltrating skirmisher; the 22/.5 SMG option is its **distinct FD(+20) midfield profile**.
 
 ## How to rate the role (avoid misleading rankings)
@@ -110,7 +120,14 @@ A zero-Order defense is not synonymous with “all infiltrators have Minelayer.�
 2. **Shrouded mine saturation versus pricier Malignos.** [Robert Shepherd — Shasvastii faction focus](https://www.youtube.com/watch?v=mtqHMuHmjjo) (**YouTube MCP transcript reviewed; N4-era**) explains how cheap Shrouded markers protect Caliban and Hidden attackers through ambiguity. Shrouded Dazer is much more situational; paying for Malignos Hidden is worthwhile only if its concealment wins the scenario. **Current prices above override old audio.**
 3. **Ryūken high-ARO ambush versus SMG midfield option.** [Robert Shepherd — Ōban faction focus](https://www.youtube.com/watch?v=AhicCreNCUQ) (**YouTube MCP transcript reviewed**) prefers the HRL's long-lived “discover-or-leave-it” pressure and often finds FD SMG harder to convert to value. **Counterview:** SMG/FD is cheaper in SWC and explicitly better for dense objectives and Suppressive Fire deployment.
 4. **“Cheap regular mines fix DZ” versus attack/skirmisher investment.** [Robert Shepherd — Shock Army of Acontecimento](https://www.youtube.com/watch?v=RnP9fVZRb_Q) (**YouTube MCP transcript reviewed; older N4-era**) stresses 13pt Regular mine/Sensor protecting bad defensive tables. [MetaChemistry #135 — Acontecimento](https://open.spotify.com/episode/2J6ByFT0PJGKB0DiSQ55AC) (**Podcast MCP transcript reviewed, 2026**) finds it neat but gives much more attention to Sapper sniper and Naga/Dart attack options. **Use cheap DZ miners** when rear defense is fragile; otherwise spend the 3–4pt upgrade on mission roles.
-5. **High-tech Yaksha/Kinnara versus simply buying cheaper bodies.** [Loss of Lieutenant E168 — Mazebreaker previews](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d) (**Podcast MCP transcript reviewed, 2026; preview assumptions superseded by pinned profiles**) likes Naga new Monofilament Minelayer and revised specialist networks. [Existing OSS analysis](../factions/operations-subsection.md) preserves the disagreement: durable Yaksha MadTrap/minefield versus **Pilot-X + RacerBots or Naga/Dasyu/Dart**, when 25+pts are too much for a passive screen. **Choose Yaksha** when armor, FD and E/M close fire truly combine; not merely because it's new.
+5. **High-tech Yaksha/Kinnara versus cheaper bodies.** [Loss of Lieutenant E168 — Mazebreaker previews](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d) (**Podcast MCP transcript reviewed, 2026; preview assumptions superseded by pinned profiles**) likes Naga's new Monofilament Minelayer and revised specialist networks. [Existing OSS analysis](../factions/operations-subsection.md) preserves these competing investments:
+   - **Yaksha** — durable MadTrap/minefield, with armor, FD and E/M close fire
+   - **Pilot-X + RacerBots** — a different multi-body network/screen investment
+   - **Naga** — cheaper marker/minelayer route
+   - **Dasyu** — alternate hidden/marker utility
+   - **Dart** — alternate specialist/attack pressure
+
+   Choose Yaksha only when its combined defenses justify paying 25+ points for a passive screen, not merely because it is new.
 6. **Two Moran hacking setup vs SWC-efficient direct shooting.** [WIP12 E208 — Corregidor post-Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) (**Podcast MCP transcript reviewed, 2026**) sees Moran/Jazz as a powerful but **SWC-expensive** path once Vertigo joins it. **Counterview:** take the 15pt Moran for cheap *passive clearance tax* even **without Guided**. CJC can run a gun-first list supported by physical Koalas/hacking AROs.
 7. **Mine dispensers and deployable saturation can be oppressive but cost Orders.** [Tactical Awareness — N5 launch, Equipment/Deployables](https://open.spotify.com/episode/1XVRK5M5O8SLoQT099V2pu) (**Podcast MCP transcript reviewed, 2024 rules discussion**) emphasizes remotely generated minefields/Koalas/MadTraps and how multiple hazards force slow clearing. Its speculative coordinated-place interactions should **not** override N5.3 rules text. **Tradeoff:** invest Orders building a *harder future table* only if doing so prevents more enemy Orders or scoring.
 8. **Chasseur/Foxtrot/Camo trap versus guns and proactive pressure.** [Robert Shepherd — Ariadna CanCon 2026](https://www.youtube.com/watch?v=zTqYE_FddwQ) (**YouTube MCP transcript reviewed**) emphasizes Strelok Decoy/Scout mine and passive camouflage saturation as a way to support aggressive guns and Speculative Fire. **Counterview:** too many nonlethal or one-shot roadblocks can leave no credible counterattack. [Defensive architecture](defensive-architecture-and-reactive-turn.md) favors **serial layers** rather than one massive uniform first line.

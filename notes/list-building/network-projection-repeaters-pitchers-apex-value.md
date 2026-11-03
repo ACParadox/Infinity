@@ -33,24 +33,51 @@ _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured wi
 ## Verdict — which type wins?
 
 - **Best Turn-0 apex/value:** **Corregidor Moran Repeater+CrazyKoala Minelayer BSG 15/.5**. Infiltration + native Repeater + FO + perimeter disruption + Regular Order provide **free forward hacking coverage at deployment**. **AVA2 Corregidor, AVA1 vanilla Nomads**; its one-use Camo profiles **do not also have Repeater**. One Moran is worth buying even without committing to Guided.
-- **Best direct Pitcher reliability / ceiling:** **Yu Jing Fēiquán 28/0** E/M Carbine(+1B), Pitcher, **BS13 + BS Attack(+1SD)**, MOV20-5/Aerial/Super-Jump/Sensor: high-reliability ranged projector and nonlethal anti-heavy escort. **No Cover, S7, Hackable** make exposure/return-fire critical. An equally compelling *supported* ceiling is a **Tunguska Hollow Man Pitcher 26/0 in a legal Fireteam** (or **Tsyklon 26–29/1 with X-Visor, 360º and legal Fireteam support**); specific source roster bonuses matter.
+- **Best direct Pitcher reliability / ceiling:**
+  - **Yu Jing Fēiquán 28/0:** E/M Carbine(+1B), Pitcher, **BS13 + BS Attack(+1SD)**, MOV20-5/Aerial/Super-Jump/Sensor; a reliable ranged projector and nonlethal anti-heavy escort. **No Cover, S7, Hackable** make exposure critical.
+  - **Tunguska Hollow Man Pitcher 26/0:** high supported ceiling in a **legal Fireteam**.
+  - **Tsyklon 26–29/1:** X-Visor, 360º and legal Fireteam support make an alternative sustained Pitcher platform.
+
+  Verify the selected roster's exact support bonuses.
 - **Best immediate infiltrated remote node:**
   - **Bakunin Initiated Observant 18/0** (one-use Camo, Infiltration, **Deployable Repeater + Minelayer**). Deploy a separate node without spending an Active-Turn Order
   - **Zero 20/0** carries a repeater but **has no Minelayer** on that profile.
   - **White Banner Guìláng 25/.5 Minelayer + Deployable Repeater** is an alternative for Yu Jing.
-- **Best cheap reactive/scoring net foundation:** **Flashbot with native Repeater 7/0** (Transductor/Fugazi/Chaīyì/Fanous/R-Drone depending on faction), **Baggage native-Repeater REM 8/0**, or **sensor/FO native-Repeater REM 13–15/0** (Rafiq/Wèibīng/M-Drone/Stempler/Pathfinder). These add Regular Orders, move to threaten a route, and often have a second job—but start primarily behind the midfield and are **easy to lose as “kamikaze” pieces**.
+- **Best cheap reactive/scoring network foundations** (faction-dependent):
+  - **Native-Repeater Flashbot 7/0:**
+    - **Transductor**
+    - **Fugazi**
+    - **Chaīyì**
+    - **Fanous**
+    - **R-Drone**
+  - **Baggage native-Repeater REM 8/0**
+  - **Sensor/FO native-Repeater REM 13–15/0:**
+    - **Rafiq**
+    - **Wèibīng**
+    - **M-Drone**
+    - **Stempler**
+    - **Pathfinder**
+
+  These add Regular Orders and often a second job, but start largely behind midfield and can die easily when used as “kamikaze” nodes.
 - **Best low-budget ranged Pitchers:**
   - **Hassassin Barid FO+Pitcher 12/0**
   - **KHD+Pitcher 14/0**
   - **Bakunin Moderator Pitcher 10/0**, best *within a lawful fireteam* to improve low BS10
-  - **Corregidor Valerya Gromoz Pitcher/HD 19/.5**, **Bakunin Uhahu HD+Pitcher 19/.5**. You do not need a 40pt hacker to fire the first repeater.
+  - **Corregidor Valerya Gromoz Pitcher/HD 19/.5**
+  - **Bakunin Uhahu HD+Pitcher 19/.5**
+
+  A 40pt Hacker is not required to fire the first Repeater.
 - **Best offensive hybrid per cost:**
   - **White Banner Dokkaebi KHD+Spotlight+Pitcher 22/0**
   - **Invincible Army Hǎidào KHD+Pitcher 22/0**
   - **OSS/ALEPH Danavas HD++Pitcher 22/.5**
   - **Corregidor Jazz FTO HD+/Trinity+Pitcher 22/.5** (or **Jazz+Billie 25/.5** including **two Regular Orders**, Billie native Repeater).
   - **Counter:** some have only BS11, no +SD, and cost Orders/ammo to extend beyond 16″.
-- **Best “kamikaze” AD Repeater:** **Meteor Zond 19/0** native Repeater + Combat Jump/Parachutist, Sensor, FO, mobility. **Jīnyào 18/0** Combat Jump/Parachutist + *Deployable* Repeater, Adhesive/Riotstopper (Imperial Service) is a close rival for an *on-demand placement*. Both require legal insertion/roll and Orders; Meteor native coverage appears on arrival, while Jīnyào must spend to **place** its repeater.
+- **Best “kamikaze” AD Repeater options:**
+  - **Meteor Zond 19/0:** native Repeater with Combat Jump/Parachutist, Sensor, FO and mobility; coverage begins on arrival.
+  - **Jīnyào 18/0 (Imperial Service):** Combat Jump/Parachutist, *Deployable* Repeater, Adhesive/Riotstopper; needs an Order to **place** the Repeater.
+
+  Both require legal insertion/roll and relevant Orders; distinguish native coverage from on-demand placement.
 - **Best land-delivered cheap rush node:**
   - **Pilot-X + RacerBots Mk-III** in OSS/ALEPH: **Pilot-X 23/.5 plus each RacerBot 8/0**, up to two
   - each RacerBot is **MOV20-10 with Deployable Repeater**, Mine Dispenser, 360º, Riotstopper.

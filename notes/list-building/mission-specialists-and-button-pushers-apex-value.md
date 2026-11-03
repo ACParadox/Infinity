@@ -12,9 +12,26 @@ Check the canonical [Vanilla FT-01](../../sectorials/o-12/o-12.md#ft-01--o-12-fi
 
 **Holding the result, not just pushing:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) ranks **survival through the opposing turn**, box control, 19pt Teutonic/21pt Hollow Man/31pt Karakuri value, TAG zone swings and why a Hidden/Camo retriever becomes visible after picking up a box.
 
-**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares exact Kuryer/Traktor/Haetae/Vertigo/Son-Bae/Samekh/Redeye/Jackal profiles, **when Speculative beats Guided on Orders**, and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+**Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares these profiles:
 
-**Multi-body/rare-skill scorer supplement:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) distinguishes **Posthuman Mk.1+Mk.5 two-location specialist/one Order**, **Coyote FO + separately purchasable BambaDroid FO**, **Sirius FO + non-FO Repeater bot**, **Drummer FO + synchronized Drumbot-5 FO (both have FO, legal dual-target FO in one Order)**, and **Eclipse/vertical-access Shikami/Kinnara**.
+- **Kuryer**
+- **Traktor**
+- **Haetae**
+- **Vertigo**
+- **Son-Bae**
+- **Samekh**
+- **Redeye**
+- **Jackal**
+
+It examines **when Speculative beats Guided on Orders** and preserves opposing MCP-reviewed opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
+
+**Multi-body/rare-skill scorer supplement:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares:
+
+- **Posthuman Mk.1 + Mk.5** — specialists in two locations, one shared Order
+- **Coyote FO + separately purchasable BambaDroid FO** — separate scoring body and purchase
+- **Sirius FO + Repeater SiriusBot** — the bot does **not** have FO
+- **Drummer FO + synchronized Drumbot-5 FO** — both have FO and can legally choose different FO targets in one Order
+- **Shikami / Kinnara** — Eclipse and vertical-access scoring alternatives
 
 _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, profiles, AVA and team access derive from the pinned N5.3 Army (Sept 2026), not older media. [Mission and scoring framework](mission-scoring-and-specialist-strategy.md) · [Hacker/KHD detailed tiers](hackers-and-killer-hackers.md) · [Lieutenant/CoC command tiers](command-units-apex-and-value.md) · [Order economy](order-efficiency.md) · [Fireteams](fireteams-and-profile-evaluation.md). **This adds specific cross-game unit rankings, not a replacement for the existing mission guide.**_
 
@@ -23,9 +40,18 @@ _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, pro
 ## One-minute decisions
 
 - **Best apex carrier and turn-3 closer:** **Shikami 42/0 or 47/0 (JSA)** — 15-5 MOV, 2W/ARM3, Mimetism(-6), Eclipse, Climbing Plus, Super-Jump and Martial Arts. Can **reach, take, leave and survive** a dangerous objective. **42** if mission-scoring comes first; **47** when additional gun/D-Charge matters. Expensive hackable HI: avoid making it the only scorer.
-- **Best hidden/infiltrating opener:** **Dasyu FO 29/0 (ALEPH), Malignos FO 30/0 (Shas/Combined), Ninja KHD 26/0 (JSA)**. Hidden Deployment, Infiltration and Mimetism(-6) bypass early attack lanes and keep the option to push a distant button later. **A carrier generally cannot reenter Marker State while holding the mission object**; risk increases after pickup.
+- **Best hidden/infiltrating openers:**
+  - **Dasyu FO 29/0 (ALEPH)**
+  - **Malignos FO 30/0 (Shas/Combined)**
+  - **Ninja KHD 26/0 (JSA)**
+
+  Hidden Deployment, Infiltration and Mimetism(-6) can bypass early attack lanes and preserve a distant button-push option. **A carrier generally cannot reenter Marker State while holding the mission object**; exposure increases after pickup.
 - **Best apex all-round combat hacker scorer:** **Asura HD+ 63/0.5 (ALEPH/OSS)** — WIP15, ARM5/NWI, MSV3, hacking/vision control and ranged presence. Outstanding **when those combat/cyber tools solve the same objective path**; otherwise two 20–30pt scorers are safer.
-- **Best apex medical/technical scorer:** **Parvati Doctor+Engineer 36/0 (ALEPH)** for durable, mobile recovery and two specialist categories. **Best value two-role support:** **Sophotect 25/0 (ALEPH), Med-Tech Obsidon 21/0 (Combined)**. **Posthuman Mk.1 Engineer/Doctor 13/0** is exceptional *inside legal G:Jumper package*; not an independent 13pt troop plus free extra Order.
+- **Best medical/technical scorer and value support alternatives:**
+  - **Parvati Doctor+Engineer 36/0 (ALEPH)** — durable mobile recovery across two specialist categories; strongest apex
+  - **Sophotect 25/0 (ALEPH)** — efficient dual-role support
+  - **Med-Tech Obsidon 21/0 (Combined)** — efficient dual-role support
+  - **Posthuman Mk.1 Engineer/Doctor 13/0** — exceptional *inside a legal G:Jumper package*, not an independently fieldable troop or free extra Order
 - **Best budget button infrastructure:**
   - **Ghulam FO 12/0 (Haqq)**
   - **Pathfinder 14/0, TA 17/0 (PanO)**
