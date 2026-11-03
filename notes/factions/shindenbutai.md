@@ -484,7 +484,12 @@ Current Mechazoid Duo can include:
 
 This supports TAG-centric lists without requiring a traditional Core shell.
 
-A Mechazoid + Atom package can add Sensor/FO/Repeater utility; a Mechazoid + Tanuki package can attach specialist/network support directly to the TAG's movement axis.
+**Mechazoid support-Duo choices:**
+
+- **Mechazoid + Atom:** Sensor, Forward Observer and Repeater coverage.
+- **Mechazoid + Tanuki:** specialist/network support moving along the TAG's attack axis.
+
+Pick the Duo by the needed support job; neither combines both partners into a three-model Mechazoid Fireteam.
 
 ### 5. Yamabushi Duo
 
