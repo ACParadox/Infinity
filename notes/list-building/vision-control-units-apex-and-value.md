@@ -4,9 +4,15 @@
 
 - **Regular Varangian12–13/0 (PH14 Smoke)** supports **Epsilon HMG34/1.5** MSV2/Mimetism(-3)/Climbing Plus for a credible TR-bot/ARO answer
 - **Ioann Bann32** can also supply Smoke while forming a *convenience Duo* with **Nimrod FTO Thunderbolt28/.5 MSV2**, stacking Mimetism and visor instead of raw Burst.
-- **Cyberghost HD+21/.5** supplies WIP14 White Noise, but its BS11 Pitcher is **not automatic reliable network projection**: moving **Oko TA18 / RoadBot20 Repeater** into reach is often a more deliberate plan.
-- **PSI-Cop KHD+Disco23 + MSV1 shooter27** is a powerful but **50pt fragile two-W1** Duo
-- if all you need is a Disco lane, **Bluecoat Disco16** costs much less, but loses duo and X-Visor accuracy.
+- **Cyberghost / mobile Repeater White Noise setup:**
+  - **Cyberghost HD+ 21/.5:** WIP14 White Noise, but its BS11 Pitcher is **not automatically reliable** network projection
+  - **Oko TA 18:** mobile Repeater setup alternative
+  - **RoadBot 20:** accompanying Repeater mobility option
+
+  Moving the Repeater into reach can be more deliberate than relying solely on the BS11 Pitcher.
+- **Disco and MSV shooting package versus a simpler Disco lane:**
+  - **PSI-Cop KHD + Disco 23 + MSV1 shooter 27:** powerful but fragile 50pt Duo with two W1 bodies
+  - **Bluecoat Disco 16:** cheaper lane creation when the Duo and X-Visor accuracy are unnecessary.
 
 **Ordinary Smoke remains vulnerable to visors**, while Disco/White Noise have different counter interactions. Specific unit combinations require the current Vanilla Fireteam chart.
 

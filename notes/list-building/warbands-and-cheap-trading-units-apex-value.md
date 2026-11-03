@@ -182,7 +182,11 @@ Reliability has 3 separate factors: **(a) delivery** (free Impetuous Move, speed
   - **14pt Eclipse provider:** enable a scorer's crossing
   - **21pt Dog-Warrior:** Speculative Fire into a dug-in ARO
 - **Pick a realistic path and Order source:** Irregular+Impetuous self-funds only itself; a Regular warband can contribute to *other models*, and a linked **FT Master** follows its specific chart and team leader restrictions.
-- **Check weapon/profile:** E/Marat vs Jammer vs Smoke **not bundled**; Gaki 4 has AP CC and Explode **not Chain Rifle**; Preta7 has Chain+Dogged; Shaolin5 Shock versus Shaolin6 DA.
+- **Check the actual weapon/profile:** E/Marat, Jammer and Smoke are **not automatically bundled**.
+  - **Gaki 4pt:** AP CC and Explode, **not Chain Rifle**
+  - **Preta 7pt:** Chain Rifle + Dogged
+  - **Shaolin 5pt:** Shock CC weapon
+  - **Shaolin 6pt:** DA CC weapon
 - **Check reactive counter:** 360°/templates/mines, MSV vs ordinary Smoke, Warhorse vs Isolated, hacker/Engineer repair, enemy MA/NBW/Guard. **Berserk extends threat but does not automatically survive AROs**.
 - **Calculate the trade at mission time:** 2 killed cheap Orders on Turn 1 may deny ~4 later activations, but killing two on Turn 3 may score nothing. Does your attack **expose your last scorer or another irreplaceable unit**?
 - **End the attack when value falls:** if it takes 3 pooled Orders for a fragile 6pt body to reach one 10pt Order, save it as a screen rather than feed an irrelevant target.
@@ -194,7 +198,10 @@ Reliability has 3 separate factors: **(a) delivery** (free Impetuous Move, speed
 - **Makaul Eclipse** moved Tohaa carriers even when its direct shooting failed (#217/#224)
 - **McMurrough Smoke** enabled Hassassin anti-materiel D-Charges in #232
 - **Shaolin + Jing Qo** punished Kestrel's exposed support flank (#003)
-- **Dāturazi Smoke + Yaogat MSV** was a credible Morat threat (#118), while **Chimera/Pupnik Eclipse** delivered mission boxes (#163). [#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#232](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+- **Dāturazi Smoke + Yaogat MSV** was a credible Morat threat (#118).
+- **Chimera + Pupnik Eclipse** helped deliver mission boxes (#163).
+
+[#003](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#163](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#217](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#232](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Counterexamples:** #210's Bearpode consumed many Orders for a cheap REM; #216 notes **Varangian moving alongside Shona** sometimes slowed the real anti-materiel runner, even though it had useful Smoke/CC. [#210](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#216](../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
 
