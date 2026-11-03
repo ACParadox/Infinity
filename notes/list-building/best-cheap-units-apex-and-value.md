@@ -6,7 +6,9 @@
   - **Moonraker Minelayer15/.5 ×2** (ambush/Adhesive entry lanes)
   - **Ment CoC14/0** (fighting-LT insurance)
   - **Varangian Chain+Smoke12/0 or Trench-Hammer13/0** (Regular PH14 smoke + Dogged screen)
-  - **Kappa HD13/.5** (cheap active repeater-net Hacker) and **Raveneye Lt12/0** (FO E/M Minelayer, NCO fuel) as O-12's premier **12–15pt** shell.
+  - **Kappa HD13/.5** (cheap active repeater-net Hacker)
+  - **Raveneye Lt12/0** (FO E/M Minelayer, NCO fuel)
+- The presenter treats these as O-12's premier **12–15pt** shell.
 - Crucial trade-off: despite high **utility per model**, these relatively expensive floor pieces make it difficult to buy more than one or two premium guns—*not* the same economy as 5–7pt cheap Regular Orders in other factions.
 - The presenter disfavors the **Varangian Boarding Shotgun13** without Chain template and prefers **Trench-Hammer13** when one extra point remains.
 

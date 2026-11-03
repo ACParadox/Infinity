@@ -2,11 +2,43 @@
 
 **Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
-**Cheap Repeater projection / disposable carriers:** [Network Projection — whole-game apex/value](network-projection-repeaters-pitchers-apex-value.md) compares 7pt native Flashbot, 8pt Baggage, FO/Sensor REM, Moran/Initiated/Guìláng Turn-0, Meteor/Jīnyào delivery and Pilot-X + mandatory RacerBot costs. Do not value an 8pt RacerBot independently of the required Pilot-X.
+**Cheap Repeater projection / disposable carriers:** [Network Projection — whole-game apex/value](network-projection-repeaters-pitchers-apex-value.md) compares these options and delivery packages:
+
+- **7pt native Flashbot**
+- **8pt Baggage**
+- **FO/Sensor REM**
+- **Moran** (Turn-0)
+- **Initiated** (Turn-0)
+- **Guìláng** (Turn-0)
+- **Meteor** (delivery)
+- **Jīnyào** (delivery)
+- **Pilot-X + mandatory RacerBot** (combined cost)
+
+Do not value an 8pt RacerBot independently of the required Pilot-X.
 
 ## N5.3 Warband / cheap-trader profile comparisons (2026-10-23)
 
-[Warbands and Cheap Trading Units — Apex/Value tiers](warbands-and-cheap-trading-units-apex-value.md) compares **5pt Ghazi/Galwegian/Shaolin, 6pt Morlock E/M, 8pt Irmandinho/Diablo, 10pt Regular Varangian/Jaguar, 14pt Dāturazi/Makaul, and multi-Wound Dog-Warriors**. Each entry identifies *the target it trades into, its Order cost, reliability and when an enabler beats a disposable attacker*. The generic list-building principles below remain valid.
+[Warbands and Cheap Trading Units — Apex/Value tiers](warbands-and-cheap-trading-units-apex-value.md) compares the following example profiles and cost bands:
+
+- **5pt**
+  - Ghazi
+  - Galwegian
+  - Shaolin
+- **6pt**
+  - Morlock E/M
+- **8pt**
+  - Irmandinho
+  - Diablo
+- **10pt Regular**
+  - Varangian
+  - Jaguar
+- **14pt**
+  - Dāturazi
+  - Makaul
+- **Multi-Wound**
+  - Dog-Warriors
+
+Each entry identifies *the target it trades into, its Order cost, reliability and when an enabler beats a disposable attacker*. The generic list-building principles below remain valid.
 
 ## Weak troopers: minimize cost or create trade-up threats
 

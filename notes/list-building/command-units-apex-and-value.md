@@ -150,7 +150,9 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
   - **Léi Gōng FTO 34/0**
   - **Tai Sheng CoC 36–40**
   - **Hǎidào 24**
-- White Company **Emily Handelman 28/0** (CoC and grenade launcher), **Hawkwood 40/0**
+- White Company:
+  - **Emily Handelman 28/0** (CoC and grenade launcher)
+  - **Hawkwood 40/0**
 - **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL).
 
 These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.

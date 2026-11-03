@@ -74,7 +74,8 @@ Against ARM8 in Partial Cover, AP reduces **ARM8→4**, **then** adds +3 cover (
 
 **TAG/VH gun platforms:** These can have even higher raw apex:
 
-- **Zeta / Overdron:** HRMC B5 AP.
+- **Zeta:** HRMC B5 AP.
+- **Overdron:** HRMC B5 AP.
 - **Dragoons:** AP-capable platforms.
 - **Maghariba:** E/M Carbine.
 - **Bultrak:** Portable Autocannon(+1B).
