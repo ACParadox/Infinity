@@ -9,7 +9,18 @@
 
 **Rare support and anti-vision unit combinations:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) explains **Apsaras/Pilot-X RemDriver** buffing an eligible REM at deployment, **Léi Gōng/Satrah anti-MSV tools** and **Protheion target limits**. RemDriver is one chosen REM with printed MODs and ends if the driver enters Null—not all REMs in the group.
 
-**Research:** 2026-10-23. **Mode:** ordinary 300-point games. **Roster authority:** the current N5.3 / pinned Infinity Army references in `sectorials/`, not videos. **Coverage:** all **eight VH unit families** currently listed in main-branch standard rosters: **Skyhound, Tarkshya, Redeye, Zeybek, Firebat, Haytham, Go-Pod, Fēiquán**. Sectorial availability and profiles differ; no ordinary Fireteam access is implied by the vehicle classification. **Tarkshya is newer than the October 2025 all-flyer video**: its placement is an editorial extrapolation from the 2026 pinned profile, not a claim that the presenter ranked it.
+**Research:** 2026-10-23. **Mode:** ordinary 300-point games. **Roster authority:** the current N5.3 / pinned Infinity Army references in `sectorials/`, not videos. **Coverage:** eight VH unit families in current standard rosters:
+
+- **Skyhound**
+- **Tarkshya**
+- **Redeye**
+- **Zeybek**
+- **Firebat**
+- **Haytham**
+- **Go-Pod**
+- **Fēiquán**
+
+Sectorial availability and profiles differ; the vehicle classification does not imply ordinary Fireteam access. **Tarkshya is newer than the October 2025 all-flyer video**: its ranking is extrapolated from the 2026 pinned profile, not attributed to that presenter.
 
 ## Quick decisions
 
@@ -67,7 +78,24 @@
 | **ALEPH (Vanilla)** | Tarkshya AVA1 |
 | **Operations Subsection** | Tarkshya AVA1 |
 
-**No current standard VH entry** in Military Orders, Varuna, Svalarheima, Shock Army, Invincible Army, Ramah, Hassassin, Corregidor, most Combined sectorials beyond Next Wave, Steel Phalanx, Ariadna, JSA, Tohaa or NA2, based on the pinned main-branch rosters. Do not confuse motorcycles, Garuda Tacbot, TAGs, HI with Jet Propulsion, or fast REMs with **VH troop type**.
+**No current standard VH entry** in the following armies, based on pinned main-branch rosters:
+
+- **Military Orders**
+- **Varuna**
+- **Svalarheima**
+- **Shock Army of Acontecimento**
+- **Invincible Army**
+- **Ramah**
+- **Hassassin**
+- **Corregidor**
+- **Most Combined Army sectorials other than Next Wave**
+- **Steel Phalanx**
+- **Ariadna**
+- **JSA**
+- **Tohaa**
+- **NA2**
+
+Motorcycles, Garuda Tacbot, TAGs, HI with Jet Propulsion, and fast REMs are **not automatically VH troop types**.
 
 ## When a VH is actually better
 
@@ -106,7 +134,14 @@
 ## Transcript and provenance index
 
 **Direct MCP transcript reads performed for this guide** (not just titles):
-1. [Robert Shepherd — *Infinity Explained: Aerial Vehicles Analysis and Ranking* (Oct 2025)](https://www.youtube.com/watch?v=N6TYjMgU4ZM): **all seven contemporaneous real VH** and honorable #1 **Garuda Tacbot (REM, not VH)**; capabilities, movement/repair, ranking and explicit faction-context warnings. **His ordered true VH list:** Zeybek, Skyhound, Haytham, Redeye, Firebat, Go-Pod, Fēiquán; not the order used above, which uses a different rubric.
+1. [Robert Shepherd — *Infinity Explained: Aerial Vehicles Analysis and Ranking* (Oct 2025)](https://www.youtube.com/watch?v=N6TYjMgU4ZM): covers seven contemporary VHs, movement/repair, faction context and honorable #1 **Garuda Tacbot (REM, not VH)**. **His ordered VH ranking** (different from the rubric above):
+   1. **Zeybek**
+   2. **Skyhound**
+   3. **Haytham**
+   4. **Redeye**
+   5. **Firebat**
+   6. **Go-Pod**
+   7. **Fēiquán**
 2. [Dice Gods — *Does Infinity Have a Flyer Problem?* (Oct 2025)](https://www.youtube.com/watch?v=QscqX3hlUZU): full YouTube transcript, strong pro-flyer warning and tabletop counterplay; predates Tarkshya.
 3. [Irregular Order #52 — Kestrel Sectorial (Sep 2026)](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9): full podcast transcript, **~183–187 min** double Redeye list and enthusiasm.
 4. [WIP12 #201 — Neoterra (Mar 2026)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb): full podcast transcript, **~82–93 min** Redeye Blitzen/GL, Engineer reach and ARO-null-deployment angles.
