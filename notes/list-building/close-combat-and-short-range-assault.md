@@ -24,6 +24,25 @@ The **delivery/survival** test matters more than bare CC stat.
 
 This file remains the detailed procedure/positioning guide.
 
+## Active-turn **short-range assault** roles — companion to ranged gunfighter tiers (2026-11-02)
+
+This guide is the home for **0–16in breaches, room/doorway clearance, 8–24in gun-to-CC transitions, template trades, mobile kill chains and CC**. Its grades are **conditional qualitative apex/value** at that *short-assault* job, not gunfight ratings: S means exceptional short-assault peak; A strong; B situational; C expensive/narrow. Consider route, reactive templates/ARO, damage conversion, surviving to exploit, **and Orders still needed to score**. A 16–24in Spitfire/Red Fury can have a place here *and* a **lower separate** [ranged gunfighter](active-turn-gunfighters-apex-and-value.md) grade.
+
+| Short-assault profile / package | Apex | Value | What it actually offers / why not a long-range S gun |
+|---|---|---|---|
+| **Sheskiin MULTI Rifle48/0 or Red Fury50/1 — Shas/Combined** | **S** | **A+** | BS15, 15-10 movement, Nanoscreen/2W, CC and **Protheion** enable an elite **delivered** target-to-target push. Red Fury is threatening at midrange; neither profile replaces a 24–32in HMG. **Ranged grade B** (Red Fury only). |
+| **Achilles AP Spitfire62/1.5 / Plasma Rifle63/0 — Next Wave** | **S** | **B/A (mission)** | High speed/3W, elite CC and multimodal breach, especially when Key Ops or a pre-cleared route favors him. Needs backup scorer/anti-hacker plan; **#197** was cyber-stopped. **Ranged grade B for AP Spitfire.** |
+| **Sphinx Spitfire93/2 — Shas** | **A+ (ambush)** | **C** | Hidden/Mimetism−6/Climbing create lethal first-contact *close-mid* flanks. **#231** ~four kills in ~9–10 Orders did not secure Battleground; not a long gun and costly mission opportunity. **Ranged grade B.** |
+| **Asawira Boarding Shotgun(+1B)32/0 — Hassassin/Haqq** | **A** | **A+** | Durable short-range breach and strong CC; different job from **AP Spitfire38/1.5**, which is **A** in medium-range gunfighter value. |
+| **Mukhtar Viral Rifle25/0 — Ramah** | **A** | **A+** | Fast FD/NWI close cleanup against vulnerable BTS/VITA targets and scoring support by profile; its **MSV2 Red Fury34/1** is a separate **B+ ranged-value** choice. |
+| **Hatamoto Plasma Carbine34/0 — Shindenbutai** | **A** | **A** | Mobile NCO/Nanoscreen/CC and Specialist plus close plasma clearing; not an HMG-class medium/long attacker. **Red Fury40/1** can be considered separately for mid-band shooting. |
+| **Redeye Spitfire37/1.5 — Kestrel/NCA** | **B (flank)** | **B** | Aerial Mimetism−6 flank and anti-armor alternate tools, but S7 No Cover/Hackable and **#005** order burn make frontal gunplay poor; **#158** paired pressure was better. |
+| **Skyhound Thunderbolt33/0 — Next Wave** | **A (flank)** | **A (table)** | Excellent flying/vertical delivery, but #036 E/M failure and No Cover mean the path/support are part of the price. It remains **A** as a ranged geometry shooter, not a blank-check S. |
+
+**Battle-report calibration:** [#182 Sheskiin's forward pressure](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) is relevant to her *short-assault* ceiling; [#202 Sheskiin > Gwailo](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) was only a player's preference, **not an equal tested comparison**. [#001/#156 Achilles](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) and [#197 Achilles counterexample](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) require measuring support, role and Orders. [#005 Redeye](../battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#158 Redeye](../battle-reports/151-160-n5-battle-report-tactical-analysis.md), and [#231 Sphinx](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) show why kills/flanks must be followed by scoring.
+
+**Role boundary:** Pure melee assassins (Shinobu, Oniwaban, Musashi, Fiday, Speculo) keep their deeper [dedicated CC tiers](dedicated-close-combat-assassins-apex-value.md); this table focuses on **shoot/CC hybrids and close-range guns** previously overrated as general active-turn gunfighters. The [ranged guide](active-turn-gunfighters-apex-and-value.md) now weights **40% FtF range, 25% conversion at range, 15% repeat survivability, 10% angle economy, 10% price/support** and **does not credit CC/Protheion to ranged apex**.
+
 Close Combat in Infinity is not simply a contest between models with high CC Attributes. Its strategic value is that it can **change the type of contest**, shut down a powerful shooter, exploit vision control, convert cheap bodies into control pieces, or finish a target that has already been disabled by hacking, E/M, PARA, or other effects.
 
 The central question is therefore not:
