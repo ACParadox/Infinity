@@ -29,6 +29,19 @@
 
 [Current chart](../../sectorials/na2/ikari-company.md#canonical-fireteam-definitions): one Core, one Haris and multiple legal Duos, not arbitrary cross-NA2 joins.
 
+### Battle-report-derived army shells and Fireteam ideas (2026-11-03)
+
+Use the reports below as **historically observed or explicitly reconstructed list modules**, not verified current 300-point Army exports. Current permissions follow the [Ikari Fireteam chart](../../sectorials/na2/ikari-company.md#canonical-fireteam-definitions): **one Core, one Haris, unlimited Duos**. Brawlers are Wildcards/count as Druze; **ordinary Druze are not Wú Míng Fireteam members**.
+
+| Plan | Reported army / Fireteam | Current interpretation |
+|---|---|---|
+| **Brawler sniper + Druze Hacker Duo and cheap scorers** | [#075 Area of Interest](../battle-reports/071-080-n5-battle-report-tactical-analysis.md): **Brawler MSV2 Sniper + Druze Hacker Duo** directly declared, supported by independent **Yojimbo, Tankō, Ninja KHD, Bashi, Táowù and REMs**. [#067 Superiority](../battle-reports/061-070-n5-battle-report-tactical-analysis.md) shows another activated **Brawler/Druze Duo**, but its second profile is reconstructed. | An efficient **Druze-family Duo** for long ARO + hacking while leaving the Haris available. Prioritize **Ninja/fast specialist/late antenna access**; these closely scored games were not decided by the ability to buy another expensive gun. |
+| **Wú Míng assault Haris + independent sniper/TAG** | [#185 Akial Interference](../battle-reports/181-190-n5-battle-report-tactical-analysis.md): explicitly **two Wú Míng (BSG/GL and TinBot) + Brawler Hacker Haris**; Armand Le Muet and Triphammer were independent. | Legal **Wú Míng + Wú Míng + Brawler Wildcard** Haris with protected hacking/close-range shooting. The Triphammer is **not a fourth member**; use it only if its added cost still leaves scoring Orders. |
+| **Tankō/Daiyōkai attack Haris** | [#138 Provisioning](../battle-reports/131-140-n5-battle-report-tactical-analysis.md): explicitly **Tankō SMG + Tankō Light Shotgun + Daiyōkai HMG Haris**. A supposed additional Brawler/Tankō support team's exact membership was not recovered. | Legal **Tankō-family Haris** for forward fighting. This **replaces**, rather than adds to, the Wú Míng Haris because of the one-Haris limit. Do not invent a five-body team from the other deployed units. |
+| **Scarface/Cordelia mechanized Duo as a second axis** | [#140 Akial Interference](../battle-reports/131-140-n5-battle-report-tactical-analysis.md): **Scarface + Cordelia Duo** confirmed, plus independent **Yuan Yuan, Pathfinder, Brawler/Druze and Wú Míng**. | Engineer-backed TAG Duo can be combined with *one* normal infantry Haris. The commentator's **two Wú Míng + Brawler + ordinary Druze + Digger** five-model grouping was **not certified as one Fireteam** and is **not** a legal Wú Míng-family template. |
+
+**Starting recommendation:** For a balanced 300-point build, test **Brawler/Druze Duo + one of Wú Míng/Brawler Haris or Tankō/Daiyōkai Haris**, then fill the remaining Orders and specialists. Alternatively shift points to **Scarface/Cordelia** and a smaller support shell. [#067](../battle-reports/061-070-n5-battle-report-tactical-analysis.md) and [#075](../battle-reports/071-080-n5-battle-report-tactical-analysis.md) show that late mission access matters more than an impressive unlinked heavy roster; neither is a general win-rate sample. Profile AVA/SWC and historical bonus descriptions need rechecking in N5.3.
+
 ### Unusual access, gaps and trade-offs
 
 - **Smoke:** **Yojimbo, Desperadoes, Yuan Yuan** and selected **Al Fasid** give credible normal Smoke; **Rui Shi and Brawler MSV2** can benefit.
