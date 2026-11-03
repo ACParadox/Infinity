@@ -38,9 +38,9 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 
 **Other genuinely dangerous profiles, without a forced global rank:**
 
-- **Ioann Bann 30/0 — multi-Wound dog-warrior:** [A-tier warband matchup](../list-building/warbands-and-cheap-trading-units-apex-value.md#L139), Viral Tactical Bow, Grenades, AP+T2 CC and counter-charge. The Shinden profile **does not include Smoke**; do not import 32pt variants from other rosters.
+- **Ioann Bann 30/0 — multi-Wound dog-warrior:** [A-tier warband matchup](../list-building/warbands-and-cheap-trading-units-apex-value.md#L144), Viral Tactical Bow, Grenades, AP+T2 CC and counter-charge. The Shinden profile **does not include Smoke**; do not import 32pt variants from other rosters.
 
-- **Shizoku — separate HRL Fireteam profiles ([A+ Strategic Deployment tier](../list-building/force-multipliers-special-abilities-apex-value.md#L49)):**
+- **Shizoku — separate HRL Fireteam profiles ([A+ Strategic Deployment tier](../list-building/force-multipliers-special-abilities-apex-value.md#L53)):**
   - **FTO 33/1.5:** Bushi-tai ranged attacker.
   - **Strategic Deployment 38/1.5:** Sayō ranged attacker.
   
@@ -53,11 +53,11 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
   - **Engineer 19/0:** repair specialist.
   
   Profiles do not inherit one another's equipment.
-- **Pangguling Baggage 8/0:** **S+ low-cost Regular Order/Repeater/Baggage** [value class](../list-building/force-multipliers-special-abilities-apex-value.md#L59); can reload eligible Mine Dispensers/Discos and support area control, but only if positioning makes reloads possible.
-- **Monstrucker Engineer 12/0:** [B/A apex; conditional S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L114) cost-efficient repair/trading support near a TAG or combat REM; **Irregular Order** rather than a transferable Regular support Order.
+- **Pangguling Baggage 8/0:** **S+ low-cost Regular Order/Repeater/Baggage** [value class](../list-building/force-multipliers-special-abilities-apex-value.md#L73); can reload eligible Mine Dispensers/Discos and support area control, but only if positioning makes reloads possible.
+- **Monstrucker Engineer 12/0:** [B/A apex; conditional S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L119) cost-efficient repair/trading support near a TAG or combat REM; **Irregular Order** rather than a transferable Regular support Order.
 - **TAG alternatives:**
-  - **Mechazoid 66–69/1.5:** [B/B TAG tier](../list-building/tags.md#L100); S6, STR3, Climbing Plus, Tactical Awareness, strong CC and Kobaruto Ancillary.
-  - **Triphammer 48–53:** [C/B TAG tier](../list-building/tags.md#L100); cheaper S7 profile family, with some zero-SWC options.
+  - **Mechazoid 66–69/1.5:** [B/B TAG tier](../list-building/tags.md#L138); S6, STR3, Climbing Plus, Tactical Awareness, strong CC and Kobaruto Ancillary.
+  - **Triphammer 48–53:** [C/B TAG tier](../list-building/tags.md#L141); cheaper S7 profile family, with some zero-SWC options.
   
   Both need a considered Hackable-heavy support plan.
 
@@ -67,41 +67,41 @@ Direct links point to the **rated row** (or to a clearly labelled *package* row)
 
 | Shindenbutai roster unit | External tier/ranking reference | Scope / qualification |
 |---|---|---|
-| **Tokusetsu Butai** | [B/A apex, A+ value (Doctor)](../list-building/doctors-engineers-and-recovery-apex-value.md#L84); [Engineer comparison](../list-building/doctors-engineers-and-recovery-apex-value.md#L104) | Doctor/Engineer comparison |
+| **Tokusetsu Butai** | [B/A apex, A+ value (Doctor)](../list-building/doctors-engineers-and-recovery-apex-value.md#L87); [Engineer comparison](../list-building/doctors-engineers-and-recovery-apex-value.md#L120) | Doctor/Engineer comparison |
 | **Senku Troops** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Nokizaru Unit** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Shurayuki** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Kurayami Ninjas** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
-| **Mechazoid Sōkōrentai** | [B / B TAG ranking](../list-building/tags.md#L100) | TAG |
+| **Mechazoid Sōkōrentai** | [B / B TAG ranking](../list-building/tags.md#L138) | TAG |
 | **Robio Aibōt** | [B+ JSA Guided package (not individual)](../list-building/indirect-fire-speculative-guided-apex-value.md#L93) | Only as part of a network package |
-| **Hatamoto Imperial Guard** | [S/A fighting specialist LT](../list-building/mission-specialists-and-button-pushers-apex-value.md#L173) | Fighting LT and specialist |
+| **Hatamoto Imperial Guard** | [S/A fighting specialist LT](../list-building/mission-specialists-and-button-pushers-apex-value.md#L176) | Fighting LT and specialist |
 | **Warcors** | [S+ 3pt defensive value](../list-building/aro-units-apex-and-value.md#L103) | Defensive value |
 | **Metsuke Officers** | [A+ value command shell](../list-building/force-multipliers-special-abilities-apex-value.md#L70) | Command support |
 | **Yáoxiè Rui Shi** | [A Smoke/MSV2 combination (not standalone)](../list-building/vision-control-units-apex-and-value.md#L99) | Only the Smoke/MSV2 combination ranked |
-| **Monstruckers** | [B/A apex, S conditional value](../list-building/doctors-engineers-and-recovery-apex-value.md#L114) | Engineer |
-| **Uran Aibōt** | [B+ JSA Guided package](../list-building/indirect-fire-speculative-guided-apex-value.md#L93); [A+ generic missile chassis](../list-building/indirect-fire-speculative-guided-apex-value.md#L93) | Guided package and generic chassis |
+| **Monstruckers** | [B/A apex, S conditional value](../list-building/doctors-engineers-and-recovery-apex-value.md#L119) | Engineer |
+| **Uran Aibōt** | [B+ JSA Guided package](../list-building/indirect-fire-speculative-guided-apex-value.md#L106); [A+ generic missile chassis](../list-building/indirect-fire-speculative-guided-apex-value.md#L106) | Guided package and generic chassis |
 | **Yamabushi** | [A apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L80) | Midfield trade |
-| **Shizoku Kōgeki-tai** | [A+ Strategic Deployment group](../list-building/force-multipliers-special-abilities-apex-value.md#L49) | Strategic Deployment; no Top 10 ranking |
-| **Kaizoku Yuriko Oda** | [B/A apex, A+/A value (shared Engineer comparison)](../list-building/doctors-engineers-and-recovery-apex-value.md#L115) | Combined Engineer row |
+| **Shizoku Kōgeki-tai** | [A+ Strategic Deployment group](../list-building/force-multipliers-special-abilities-apex-value.md#L53) | Strategic Deployment; no Top 10 ranking |
+| **Kaizoku Yuriko Oda** | [B/A apex, A+/A value (shared Engineer comparison)](../list-building/doctors-engineers-and-recovery-apex-value.md#L121) | Combined Engineer row |
 | **Motorized Yojimbo** | [A+ trading/Smoke](../list-building/warbands-and-cheap-trading-units-apex-value.md#L98) | Bike, 20pt |
 | **Saito Tōgan** | [A+ CC assassin](../list-building/dedicated-close-combat-assassins-apex-value.md#L170) | Close-combat assassin |
 | **Foot Yojimbo** | [A+ trading/Smoke](../list-building/warbands-and-cheap-trading-units-apex-value.md#L98) | Foot, 19pt |
-| **Garon Aibōt** | [S value (ARO/Smoke)](../list-building/aro-units-apex-and-value.md#L103) | Reactive/Smoke |
-| **Triphammer** | [C / B TAG ranking](../list-building/tags.md#L100) | TAG |
-| **Teishin Guntai** | [S value airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L131) | Airborne attack |
-| **Taguraidā TAG Support Pilots** | [A TAGCom pilot tier](../list-building/force-multipliers-special-abilities-apex-value.md#L79) | TAGCom |
-| **Yáoxiè Lù Duān** | [A+ related White Banner 20pt E/M profile (not Shinden-specific)](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L71) | Cross-faction example is a different faction |
+| **Garon Aibōt** | [S value (ARO/Smoke)](../list-building/aro-units-apex-and-value.md#L107) | Reactive/Smoke |
+| **Triphammer** | [C / B TAG ranking](../list-building/tags.md#L141) | TAG |
+| **Teishin Guntai** | [S value airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) | Airborne attack |
+| **Taguraidā TAG Support Pilots** | [A TAGCom pilot tier](../list-building/force-multipliers-special-abilities-apex-value.md#L102) | TAGCom |
+| **Yáoxiè Lù Duān** | [A+ related White Banner 20pt E/M profile (not Shinden-specific)](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L80) | Cross-faction example is a different faction |
 | **Jizamurai Hanryodan** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Atom Aibōt** | [B+ JSA Guided package (not individual)](../list-building/indirect-fire-speculative-guided-apex-value.md#L93) | Only as part of a network package |
 | **Aïda Swanson** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
-| **S.T.R.S. Tanuki Team** | [A / A+ network ranking](../list-building/network-projection-repeaters-pitchers-apex-value.md#L44) | Hacker/Pitcher profile |
-| **Yáopú Pangguling** | [S+ Baggage/Repeater value](../list-building/force-multipliers-special-abilities-apex-value.md#L72) | Basic 8pt Baggage profile |
+| **S.T.R.S. Tanuki Team** | [A / A+ network ranking](../list-building/network-projection-repeaters-pitchers-apex-value.md#L48) | Hacker/Pitcher profile |
+| **Yáopú Pangguling** | [S+ Baggage/Repeater value](../list-building/force-multipliers-special-abilities-apex-value.md#L73) | Basic 8pt Baggage profile |
 | **Kyojin Killers** | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L76) | HFT/Flammenspeer profile |
 | **Yáozăo** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Raiden Seibutai** | [A+ reactive threat](../list-building/aro-units-apex-and-value.md#L71) | Hidden ML/HRL |
 | **Ninjas** | [A+ midfield objective specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md#L79); [A / A hidden KHD](../list-building/hackers-and-killer-hackers.md#L160) | KHD/FO ranking |
 | **Sāchā, Xenotech Hunters** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
-| **Ioann Bann** | [A premium warband](../list-building/warbands-and-cheap-trading-units-apex-value.md#L139) | Shinden 30pt profile |
+| **Ioann Bann** | [A premium warband](../list-building/warbands-and-cheap-trading-units-apex-value.md#L144) | Shinden 30pt profile |
 | **Kazurabā Ruby Monday** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 
 ### Particularly strong or unusual Fireteams
