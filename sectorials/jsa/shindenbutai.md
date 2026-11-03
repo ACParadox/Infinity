@@ -467,7 +467,7 @@ Transmutation; Tactical Awareness; each current profile includes a **TurtleMek A
 ### Kyojin Killers
 
 **Unit ID:** 1827 · **Slug:** `kyojin-killers` · **AVA:** 2 · **SK / Spec. Trained / Irregular**  
-`MOV 10-10 | CC 21 | BS 11 | PH 13 | WIP 12 | ARM 0 | BTS 0 | W 1 | S 2`. Forward Deployment (+20), Mimetism (-3), Surprise Attack (-3), Stealth, Super-Jump, Religious Troop.
+`MOV 10-10 | CC 21 | BS 11 | PH 13 | WIP 12 | ARM 0 | BTS 0 | W 1 | S 2`. CC Attack (+1B), Camouflage (1 Use), Forward Deployment (+20), Mimetism (-3), Surprise Attack (-3), Stealth, Super-Jump, Terrain (Total), Religious Troop.
 
 | Profile ID | Pts | SWC | Loadout |
 |---:|---:|---:|---|
