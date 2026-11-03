@@ -315,7 +315,7 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 
 **On-table test:** _Which enemy can it remove in 1–3 well-placed Orders? What does that remove from their next turn? What mission lane opens? Can it retreat/reload/recover, and what other gun/scorer did I give up buying it?_ If these answers are weak, even the highest-apex gun is wrong for the list.
 
-## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
+## Battle-report checks — observed unit effectiveness and combinations (updated 2026-11-02)
 
 **Mission-adjusted gun value, not kills-only — and do not mistake kill-run evidence for a ranged duel:**
 
