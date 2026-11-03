@@ -21,7 +21,7 @@
 - **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** support value and can reload appropriate expended weapons in the proper range; the **Guided 9/1** is distinct. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
 - **Useful narrow-cost standouts, not unconditional top picks:**
   - [**Métro Grenade Launcher 10/0.5:**](../list-building/indirect-fire-speculative-guided-apex-value.md#L50) **A** inexpensive opportunistic Speculative shots, but ordinary BS/range and opponent spacing limit its ceiling. The infiltrating **14/0.5** option is a different profile. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L84) **S cheap medical value**; **Motorized Doctor 19/0** has a different speed/Smoke job and can escort an ETB when roster-legal. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L86) **S cheap medical value**; **Motorized Doctor 19/0** has a different speed/Smoke job and can escort an ETB when roster-legal. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Particularly useful Fireteams
 
