@@ -18,7 +18,7 @@ coverage: "Standard Corregidor roster, standard loadouts, canonical Surface/Deep
 
 ## Overview and provenance
 
-**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](../../notes/factions/nomads-must-have-go-to-avoid-source-audit-2026.md). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
+**Unit selection evidence (23 Oct 2026):** [Nomads source-backed four-roster must-have / go-to / avoid audit](#must-have--go-to--avoid--source-backed-recommendations-2026). Tactical opinion only; the roster and Fireteam chart in this file remain authoritative.
 
 
 Repository-native reference for **Corregidor** roster, profiles, points/SWC, AVA, dependencies, and Fireteam access.
@@ -864,3 +864,154 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../notes/list-buildin
 | **Vs hidden/endgame attacker** | McMurrough Smoke/Jaguar flanking plus Wildcat/Evader engineer and Vostok recovery are alternatives, but a failed McMurrough late LT strike did not flip Decapitation vs ALEPH. | [#126](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md), [#211](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limit:** #078 Iguana received a card granting temporary Specialist; this is **not** baseline Iguana. Distinguish Surface versus Deep Space historical rosters. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+## Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated source-backed tactical preferences and miniature purchasing priorities; opinions do not override N5.3 roster, profile or Fireteam data above.
+
+**Original audit title:** Nomads — Vanilla, Corregidor, Bakunin, Tunguska: Must-have / Go-to / Avoid
+
+*Source-backed list-building audit — 23 October 2026. Applies to the canonical [Vanilla Nomads](nomads.md), [Corregidor](corregidor.md), [Bakunin](bakunin.md), and [Tunguska](tunguska.md) N5.3 rosters, pinned to the **3 September 2026 Army data**. These are named-player tactical opinions and tested constructions, **not measured global tournament pick rates**. Latest main's profile/AVA/Fireteam source controls over any 2024–2026 video. Full tactical companions: [Vanilla](../../notes/factions/vanilla-nomads.md), [CJC](../../notes/factions/corregidor.md), [Bakunin](../../notes/factions/bakunin.md), [Tunguska](../../notes/factions/tunguska.md).*
+
+### Classification standard
+
+- **Must-have / near-must:** a recorded presenter explicitly says “every list”, “always” or “auto-include”; or independently supported recurrent list core. Only “near-must” when credible examples omit it. The *job* can be essential without a particular unit being compulsory.
+- **Go-to:** outstanding reliable value for its **actual job**, but list architecture, mission, terrain or overlapping tools can make it unnecessary. Do not assume all go-tos go into one 300-point list.
+- **Never take / strong avoid:** direct recorded critique **of the named profile**, preferably comparing a same-faction replacement. Mark **contested/conditional** where a different speaker defends it, a current changed roster undermines the critique, or it has a real special use. None of the four armies has a supported universal ban covering every profile of an entire multi-role unit.
+- Evidence marks: **explicit** = reviewer states the near-auto/negative claim; **repeat** = published list examples, not population statistics; **reasoned** = synthesis of reviewer observations + current roster, and therefore *not* pretended to be a direct podcast verdict.
+
+### 2. Corregidor (Army 502, **Surface OR Deepspace**)
+
+**Near-must/default**
+
+| Unit | Why and qualification | Evidence |
+|---|---|---|
+| **Moran Repeater BSG15/.5**, usually **two** (AVA2) | Excellent Turn-0 midfield Repeater/CrazyKoala board control; two separately cover approaches to give the hacker real projection. 0.5 SWC each can squeeze direct-fire SWC, and some mission-specific non-Guide lists replace one. | **[WIP12 E208 — Post-Mazebreaker CJC (June 2026)](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9)** repeatedly builds two Moran network shells; [Tactical Awareness CJC](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY). **High-confidence archetype default**, not verbatim "all lists" statistical claim. |
+| **Jazz & Billie25/.5 or Jazz FTO22/.5** | HD+/Pitcher/Trinity makes forward Morans dangerous. Billie = **two Regular Orders** and autonomous utility; **FTO-only** = Fireteam/TinBot option (not Billie). **Very compelling backbone if paying for two Repeaters**, not mandated in a smoke/straight-gun mission. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9); [Tactical Awareness CJC](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY). |
+
+**Go-to**
+
+| Unit | Why and matchup | Evidence |
+|---|---|---|
+| **Intruder MULTI Sniper38/1.5 (+1 Special Die, MSV2/Camo)** | Reliable reactive **and** active long lane, combines especially well with Jaguar/McMurrough Smoke; use HMG when long/active range and no sniper lane. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) at ~82 and 121m explicitly calls the *MULTI Sniper* auto-include in its own builds; comments on opposing Orders spent routing around it. *One host's list style, not all CJC.* |
+| **Deepspace Gecko MMR54/1 + Evader Engineer + Stempler TacAware18** | Paired independent extra orders and direct shooting, Engineer recovery, third specialist and Sensor/repeater. **Do not import into Surface**: Surface Gecko team uses **Wildcat** in place of Evader. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) ~41–55m, ~121–124m worked team example. |
+| **Vostok FTO34–35**, with relevant legal Fireteam | Mimetism(-6)/2W attack REM gets meaningful link/Engineer backstop. **FTO variant loses Repeater**; use separate standalone 37–38 version to project network. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) ~43–46m says its original N5 weakness was overturned by **2026 team changes**. |
+| **Intruder smoke escort: Jaguar**, **Wildcat hacker/Engineer**, **Transductor7**, **Salyut8**, **Stempler Sensor/TacAware**, **Bandit minelayer** | Jobs include enabling MSV2 smoke fights, Combat Instinct/Stealth defense, cheap Orders, extra midfield mine/deployable network. Bandit is **Irregular**, despite forward-control quality. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) ~75m explicitly calls Wildcat hacker a staple and ~122m includes Bandit minelayer as an auto in *sample* list; [Dante Corregidor after split](https://www.youtube.com/watch?v=dNoJI8nPnIU). |
+| **Surface: Coyote+BambaBot, Territorial29 AP MMR+TacAware, Shifta Strategic Deployment, Bearcat AD**; **Deepspace: Gator, Evader, Hellcat/Tomcat/Carlota** | Strong **division-dependent**, not interchangeable. Surface pressure uses peripherals/TA/AD, Deepspace better heavy engineering and traditional airborne scoring. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9); [Shepherd + Ollie 2026 faction update](https://www.youtube.com/watch?v=NRRP4Fects8) was a preview and may have superseded details. |
+
+**Strong avoids (profile + job, not blanket unit bans)**
+
+| Profile | Verdict / same-army alternative | Recorded basis and exception |
+|---|---|---|
+| **Surface Territorial AP Red Fury32/1.5** as all-purpose gun | **Prefer 29/0 AP Marksman Rifle with X-Visor + same TacAware** when long/mixed ranges or SWC pressure dominate; **Red Fury's higher Burst** has a real active-turn payoff and its 32pt LT option is separate. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) favors MMR cost/value; **not strict outclassing** because of Burst/range. |
+| **Costlier generic Tomcat** bought merely to attack rear with a gun | **19/0 Hellcat BSG/Adhesive Combat Jump** often attacks cheaper; **17pt Tomcat Paramedic**, Engineer22–26, Doctor22–26, Carlota each solve real missions. Not a ban on Tomcats. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) ~123–128m *self-corrects* an earlier “never Tomcat profile” claim after discussing a mission which makes one valuable. **This is an explicit counterexample to literal “never”.** |
+| **Gecko Vulkan Shotgun49/0** as your **sole range opener** | Shotgun short-band cannot force a 24–32in defensive ARO; use **Gecko MMR54/1**, Intruder, another long gun when the actual first lane requires it. Vulkan can dominate dense rooms. | [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) panel split: one tested a Vulkan and found Evader did the fighting, other sees close-table utility. **Contested, not never.** |
+
+**Strict legality:** choose **Surface or Deepspace**. **Gator and Evader** are the Deepspace plan; **Coyote, Territorial, Shifta, Bearcat** are Surface. The joint canonical roster alone does not make those formations legal together. **Jazz FTO/Vostok FTO** link only as permitted by division chart.
+
+### Fast starting template (not a fixed shopping list)
+
+| Army | **Near-default consideration** | Add **one** game plan | First cuts when over budget |
+|---|---|---|---|
+| **Vanilla** | Morlock ×1–2; Moran Repeater ×1; a hacker (Interventor/Jazz) and cheap Regular support | Szalamandra/Gator/Gecko gun, Guided network, or solo assisted Vostok + mission specialists | Unlinked Grenzer sniper; Go-Pod if acting as first ARO gun; duplicate high-price hackers |
+| **Corregidor** | Moran Repeater ×1–2, Jazz, a real long gun (Intruder sniper often) | Deepspace Gecko/Evader/Stempler **or** Surface Territorial/Coyote/Bearcat; smoke/MSV | Territorial AP Red Fury when 0SWC MMR suffices; unnecessary Tomcat vs Hellcat overlap; Guided without targets |
+| **Bakunin** | Morlock ×1, one path-control/CC threat, a real gun and a specialist | Chimera/Cenobite zone assault; Riot/Uhahu protected network; Vostok/Clockmaker or Lizard/Stigmata gun/denial | Generic Zellen as duplicate Morlock role; Moderator Spitfire; unplanned Go-Pod |
+| **Tunguska** | Puppet Master11, Interventor HD+, cheap Transductors/warband screen | Hollow Men/Perseus team; Kriza/Szalamandra gun; Pitcher/Heckler/Meteor program | 40+pt Triggermen with no distinct role; unlinked Grenzer costly gun; Go-Pod before safer first attacker |
+
+### Primary evidence queue — directly checked with connected video/podcast transcripts
+
+| Priority | Recording | Most important directly grounded point |
+|---|---|---|
+| 1 | **[Robert Shepherd — Vanilla Nomads, 2026](https://www.youtube.com/watch?v=dOtvw5FKOfo)** | Explicit **two Morlocks**, Moran baseline; explicit Grenzer-sniper skepticism; network versus real guns |
+| 2 | **[WIP12 E208 — Corregidor Post-Mazebreaker, June 2026](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9)** | Intruder MULTI Sniper near-auto speaker's list; 2026 Vostok reappraisal; Gecko-Evader-Stempler; Surface Territorial MMR; **self-corrected “never Tomcat”** |
+| 3 | **[Shepherd — Bakunin N5](https://www.youtube.com/watch?v=firJVr1eDWg)** | Morlock-over-Zellenkrieger explicit; Moderator Spitfire explicit avoid; Chimera strong but high-skill; Vostok teams |
+| 4 | **[MetaChemistry #132 — Bakunin tournament winner](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g)** | **No Stigmata/Go-Pod/Guided**, minimal hacking, Orphan MSV2 anti-smoke; third-party Go-Pod auto-include claim **and** winner's own nonuse |
+| 5 | **[Shepherd — Tunguska N5](https://www.youtube.com/watch?v=A2eKdenbcsw)** | Explicit Puppet Master **basically always**; Interventor/Hollow Men; Go-Pod low-floor and Triggermen criticism |
+| 6 | **[MetaChemistry #129 — Tunguska Takedown](https://open.spotify.com/episode/6XSTLXqQUFcjv9lYcDTZ6g)** | Elite Interventor hacking, expensive guns, **Denma/Zellen nearly every list**, opponents beat hacking/CC exposure |
+| 7 | **[Tactical Awareness Tunguska](https://www.youtube.com/watch?v=PFAewbgodZc)** | Competing ambitious Go-Pod, Puppet-Red-Fury, Kriza and Triggermen ideas |
+| 8 | **[Tactical Awareness Nomad Prime](https://open.spotify.com/episode/2PpxuDu2WlxipiqpVzHTdv)** | Gecko gun, mass hacking/Guided, EVO REM as three valid but mutually competing Vanila approaches |
+| 9 | **[Dante Vanilla N5](https://www.youtube.com/watch?v=hJKOZF1Je_g)** · **[Dante Bakunin](https://www.youtube.com/watch?v=DVOHynBsg6o)** | Older opposing views on nomad hacker/REM utility and Riot-versus-Reverend efficiency |
+| 10 | **[Tactical Awareness CJC](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY)** · **[Loss of Lieutenant TAG debate](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN)** | Mixed TAG and infrastructure builds; premium gun opportunity costs |
+
+#### N5.3 guardrails
+
+- **Do not transplant list legality across ships**. Corregidor **Surface and Deepspace are different selectable divisions**; Vostok/Jazz **FTO** variants are not always the same as their independent profile. Vanilla has **0 Core / 1 Haris / 2 Duo**; no general Fireteam privilege follows from the string `FTO`.
+- **Lunokhod** footage in older Nomad analyses does **not** describe a unit in the pinned ordinary rosters; don't suggest the removed model as current go-to. **Bakunin Zoe standalone 23pt** in older footage is not current ordinary roster access: pinned Bakunin has paired Zoe+Π-Well FTO instead.
+- **Go-Pod** and premium hackers have real, explicit opposing opinions. **Do not flatten** them into unambiguous auto-include or never-purchase verdicts.
+- An interviewer calling a piece "auto-include" in **their personal event list** is **not** proof it is on every successful list. A unit absent from one tournament winner is likewise **not proof it is bad**.
+
+### Whole-unit purchasing audit — skip the model, not one loadout (2026-10-30)
+
+**No uncontested full-unit never-buy** is established for any of these four rosters. The following **model-level deferrals** are useful when choosing what to *purchase first*, but the stated niche or dissent prevents a categorical ban.
+
+| Army | Entire model/unit to defer | Why / when to buy instead |
+|---|---|---|
+| **Vanilla Nomads** | **No supported whole-unit skip** | Grenzer **unlinked sniper** competes poorly with Intruder; Grenzer's other profiles/sectorial links remain different. Go-Pod as first-turn linebreaker is risky, but late mobility is a real role. |
+| **Corregidor** | **No supported whole-unit skip** | Territorial AP Red Fury versus MMR, Tomcat versus Hellcat and Gecko Vulkan versus MMR are **loadout/role** comparisons, not reasons to avoid the whole unit. |
+| **Bakunin — Zellenkrieger** | **Defer generic Zellenkrieger purchase** if you already use **Morlocks** for smoke/trades | [Shepherd Bakunin](https://www.youtube.com/watch?v=firJVr1eDWg) directly favors 6pt Morlock to generic 8pt Zellen. **Do not label all Zellenkrieger forbidden:** the FTO's Taskmaster/Riot synergies and Natural Born Warrior/other attributes create genuine choices. **Extreme Zellenkrieger** is *a different unit* and not covered by this verdict. |
+| **Tunguska — Triggermen** | **Defer as a first premium gun/ARO miniature; disputed** | [Shepherd Tunguska](https://www.youtube.com/watch?v=A2eKdenbcsw) prefers Kriza HMG or much cheaper Reaktion for common roles; **K1 Decoy/Forward Deploy** and Tactical Awareness sniper experiments provide special uses. |
+| **Tunguska — Go-Pod** | **Defer if you need a Turn-1 main attacker** | No Cover/S7/hackability is a bad ARO-breaking floor, but fast late flanking/Go-Bot tricks are unique; [Tactical Awareness](https://www.youtube.com/watch?v=PFAewbgodZc) offers an opposing positive interpretation. |
+
+**Not model-level:** Moderator Spitfire and Grenzer Sniper are weapon/profile negatives; don't skip the whole Moderator/Grenzer miniature family. [Cross-faction shortlist](../../notes/factions/model-purchase-avoid-summary-2026.md).
+
+### Worst-value, rarely necessary and proxy-first miniature purchases by army (2026-10-30)
+
+**Question answered:** which entire Nomads *miniatures* are a low-priority buy, which profiles should usually be avoided even though their unit has good options, and which **perfectly useful** miniatures or extra copies can be **proxied before buying**? This is a *shopping order*, not a new “never take” consensus or a claim about measured tournament frequency. **“Rare / circumstantial” here means not needed for ordinary first-choice list architectures in the recorded commentary**; the source videos/podcasts do not provide a reliable pick-rate survey. Latest [N5.3 army/sectorial data]() is the authority for profiles, availability, silhouette and Fireteam memberships.
+
+**Strength of the verdict:** **Skip by default; proxy if needed** is a genuine *whole-model purchasing* deferral grounded in a speaker’s negative everyday-role comparison. **Proxy/test before buying** is an *inference* from credible niches and opportunity cost, **not** a speaker's assertion of overall weakness. **Avoid profile only** means the *other loadouts/sculpts of the unit remain worthwhile*. **Proxy another copy** refers to duplicate physical models or weapon sculpts, not a ban on a legal simultaneous AVA. **Contested** keeps materially opposing speaker/tournament evidence visible.
+
+#### 2. Corregidor — Surface versus Deepspace purchases must be separate
+
+The two current Corregidor divisions have **different roster/chart permissions** even though the repository's index aggregates the unit families. **Surface**: Coyotes, Territorials, Shifta and the relevant Iguana team routes. **Deepspace**: Evaders, Gator and its distinct Gecko/Evader team, and traditional mobile recovery/airborne plans. Do **not** buy a unit solely for a team that belongs to the *other* division. [Corregidor current roster](corregidor.md); [WIP12 E208, post-Mazebreaker June 2026](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9).
+
+**Surface-specific weaker/rare buying cases**
+
+| Unit / role | Weak point or competing purchase | Verdict |
+|---|---|---|
+| **Territorial AP Red Fury 32/1.5 as generic all-range gun** | **Direct — WIP12 E208** strongly prefers **29pt/0SWC AP Marksman Rifle + X-Visor / TacAware** for range and SWC efficiency. Red Fury’s higher Burst / aggressive shorter range is a *real* reason to take it, not strict dominance. | **Avoid *Red Fury profile* by default; proxy its sculpt/loadout** using a distinct Territorial. **Do not skip Territorials**; the MMR/Engineer/command roles can be excellent. |
+| **Coyote purchased without its BambaDroid/BambaBot payload plan** | **Reasoned:** Coyote FO/MSV1 + mine/repeater peripheral is a strong Surface fork but often depends on *both* main operator and extra physical unit. The **23pt Coyote FTO KHD** for a link is *not* the same body-count configuration as the independent peripheral build. | **Proxy/test exact package before buying extra Coyote and BambaDroids**. Buy when that **forward fork / linked specialist** is repeatedly used. Do not treat the first Coyote as weak. |
+| **Second Iguana or Gecko TAG in a list already buying a Territorial/Coyote main attack** | **Contestable:** 2026 reworked **Iguana** gained a better attack/survival case than outdated 2025 ratings; Gecko MMR/utility also have normal uses. TAG/Tactical Awareness can be a central plan, but three competing expensive shooters strain objectives and support. | **Proxy another TAG**; buy only after a **legal Surface Armored or Gecko** concept repeatedly works. **Do not apply old pre-buff “Iguana bad” verdict.** |
+| **Large Surface-linked Mobile Brigada/Wildcat gun brick with redundant heavy guns** | **Reasoned — [CJC guide](../../notes/factions/corregidor.md):** Wildcats have MSV1/Combat Instinct and Engineers, Mobile Brigada can provide TinBot defense; a full expensive team *just to give one fighter more guns* often costs too many Orders. Cheap Alguaciles/Morans/Transductors remain useful. | **Proxy extra HI/MI gun sculpts**, not the first required/missing support member. Buy the exact **legal** team once the useful member count is known. |
+
+**Deepspace-specific weaker/rare buying cases**
+
+| Unit / role | Source critique and valid exception | Verdict |
+|---|---|---|
+| **Gecko Vulkan Shotgun49/0 as the only ARO opener** | **Direct and contested — WIP12 E208**: a short-range gun struggles to open 24–32in lanes; **MMR54/1** usually handles long fire better. On dense/close tables the Vulkan can be excellent. | **Avoid the *Vulkan-as-long-range-opener profile*, not Gecko**; **proxy alternate weapon option** on the same appropriate TAG model. |
+| **Generic costly Tomcat gun where a Hellcat attack is the objective** | **Direct with reviewer's self-correction — WIP12 E208** prefers **19pt Hellcat BSG Combat Jump** for economical rear-entry attack; but **Tomcat Paramedic17, Engineer/Doctor22–26 or Carlota** can rescue/scoring from different access lanes. **Tomcat is not Combat Jump.** | **Proxy-test a gun-only Tomcat**, not “never buy Tomcat.” A dedicated **Engineer, Doctor, Paramedic or Carlota** model is useful if your scenario needs its skill or deployment. |
+| **Sombra as a routine second midfield skirmisher instead of Moran/Bandit** | **Recorded skeptical comparison in [CJC guide](../../notes/factions/corregidor.md):** expensive ~29–40pt one-model midfield NWI/FO/KHD often unnecessary after Morans project the network, cheap Bandit mines/FO and other scoring cover. **Durable independent specialist is a genuine niche.** | **Proxy first**, especially if buying a second Sombra. Buy for a specific **survivable infiltrating/scoring** plan; **not** a mathematically bad unit. |
+| **Second premium Gator, Gecko or Evader body when the Deepspace repair/attack team is already complete** | **Reasoned:** a **Gecko MMR + Evader Engineer + Stempler TacAware** is an evidenced package; spare large guns/Engineers without a distinct mission role inflate cost. Gator and additional Evaders can be valid in different teams. | **Proxy the *additional* expensive body/chassis**. Do **not** skip a first **Evader** if it is the repair/Fireteam piece that makes your chosen TAG work. |
+
+**Shared Corregidor choices across both division plans**
+
+| Model or scheme | Main downside | Shopping action |
+|---|---|---|
+| **Third/fourth Intruder long-gun sculpt; sniper/HMG variants in the same list** | **Inferred:** [WIP12 E208](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9) **loves the MULTI Sniper** as a real threat, often taking one. Buying many high-cost MSV2 guns just because **Intruders AVA5** may neglect scoring and leave few attacking Orders. | **Proxy extra Intruders and profile variants first**; **do not skip the first strong MSV2 MULTI Sniper**. |
+| **Jazz FTO and Jazz+Billie purchased as though one model does both** | **Legality/body count:** Jazz FTO gets specific Fireteam access **without Billie**; Jazz+Billie is a distinct two-model **two-Regular-Order** selection with no automatic link. Both use similar lead Jazz sculpts. | **Buy one Jazz representation before duplicates**; proxy loadout. If choosing Jazz+Billie, **physically supply Billie**; do not purchase Billie for an FTO list. |
+| **Vostok FTO versus unlinked Vostok; separate second Vostok chassis** | **Current N5.3:** FTO gives legal CJC Wildcard/team utility but **does not have the standalone Repeater**. WIP12's earlier skepticism was updated after 2026 team improvements. | **Do not skip Vostok for obsolete ratings**. **Proxy the second chassis / gun loadout** if never used simultaneously; buy for a specific link or independent repeater. |
+| **Vertigo Guided without a maintained Moran/Jazz/FO Targeted plan** | **Reasoned:** good hacking pressure if the whole network and Order sequence are present, but **1.5SWC** directly competes with the Intruder sniper's SWC. | **Avoid unsupported Guided strategy**, not the Vertigo model in all possible lists; proxy/test before buying another missile REM. |
+| **Ruby Monday, extra Bearcat/Carlota/other named off-table attackers without a planned second approach** | **Lower-confidence inference:** very specialized drop/mission/payload packages; [newer DZ-attack discussion](../../notes/factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit) explains entry-angle and opponent DZ screens. Their simultaneous inclusion is not routine. | **Proxy individual unusual sculpt before buying**, with correct body size and team/peripheral count. **Do not call Bearcat/Hellcat inherently bad or confuse Combat Jump vs Parachutist.** |
+
+**Preserve positive evidence:** first **Moran Repeater (often two in CJC)**, **Jazz chosen mode**, **Intruder MULTI Sniper**, **Gecko MMR**, **Vostok FTO**, **Wildcat/Engineer** and **Surface Territorial MMR/Coyote** each have strongly evidenced uses; the weak verdicts above target **role, *extra copies* or an unsuitable division**, not the unit family.
+
+#### Across the four Nomads armies — additional proxy-first miniatures, even when good
+
+**There is no checked-in Nomads physical inventory** under the obvious \`inventory/nomads.md\`, \`inventory/corregidor.md\`, \`inventory/bakunin.md\` or \`inventory/tunguska.md\` paths. **No claimed Nomads owned counts** are used here. A missing inventory file does not mean that you own none.
+
+| Miniature somebody might buy | Better initial proxy/test option | Buy a separate model when… |
+|---|---|---|
+| **Named infantry/hackers** (Mary Problems, Jelena Kovač, Uhahu, Valerya Gromoz, Raoul Spector, Lupe Balboa, Perseus, Wolfgang, Cassandra Kusanagi, Agatha, Sforza) | An unused **correct-base/silhouette Corvus Belli infantry figure**, visibly distinct from the rest of your list, with the declared role written down. Do not assume two named AVA1 characters can be represented simultaneously by the same model. | The named capability is recurrent, *or* two similar-sized named characters are used concurrently and need unambiguous identities. A highly useful character can still be an excellent purchase even when testing by proxy is cheaper. |
+| **Alternate hacker/gun sculpts** (Interventor HD+/KHD, Riot Grrl TinBot, Grenzer gun, Wildcats, Territorials, Evader, Moderator, Hollow Men, Stempler, Vostok) | Use one **same-unit/same-compatible-size miniature** and explicitly declare the chosen current N5.3 **profile/loadout**. FTO, Repeater, TacAware, TinBot and Counterintelligence are **profile-specific**. | You repeatedly field *two physically different bodies simultaneously*, or your event's proxy rules/readability demand dedicated representation. |
+| **Morlocks/Zellen/Jaguars/Denma/Überfallkommando** | Borrow spare warband/CC sculpts when silhouette and unit count match; **Bakunin Morlock can initially represent generic Bakunin Zellen if allowed** but this does **not** make the Zellen unit or its rules identical. **Chimera requires three separately represented Pupniks**. | Your list has simultaneous multiple CC models beyond the available distinct pool, or a specific FTO body matters. **Do not proxy a solo Chimera as a complete squad.** |
+| **Puppetactica Master + PuppetBots; Jazz + Billie; Zoe + Π-Well; Fiddler + Jackbots; Coyote + BambaDroids** | Test the whole **controller + required subordinate body count** with appropriately sized/scaled spare models; physical servants are not Regular Orders unless the chosen profile explicitly grants an independent Order. Check versions with/without extras. | You often field a two-or-more-body selection, or cannot meet separate body/silhouette count with spare proxies. **Jazz FTO has no Billie**; **Fiddler FTO has no Jackbots**; **Bakunin Zoe + Π-Well is paired in current standard roster**. |
+| **Alternative Reaktion/Vertigo/Stempler/Salyut/Transductor/Meteor/Tsyklon/Vostok REMs** | Temporarily use an unused **correctly sized REM chassis**, with visible assignment to a specific trooper type. **S1 PuppetBots, S2 support remotes and larger combat REMs cannot be assumed interchangeable**; validate actual base and Silhouette. | Need distinct REM bodies in the **same list** (e.g., two Transductors, Stempler plus Vertigo), or the proposed chassis cannot reproduce the required footprint. |
+| **TAG alternatives** (Gecko, Gator, Szalamandra, Stigmata, Lizard, Iguana, Anaconda) | Before purchasing a large kit, **borrow/proxy one correctly based/silhouetted TAG** and play several legal lists. Match gun/Engineer support concept; **not every TAG belongs to each sectorial**. | The specific armoured platform repeatedly earns the main-gun slot; buy extra *only* if multi-TAG/dual-Gecko lists are routine. |
+| **Go-Pod aerial VH / Zondnautica / other mounted units** | Use a matching **Vehicle/appropriate motorcycle or composite-body** stand-in; these are **not** ordinary S2 troopers or generic TAGs. Respect **Zondnautica's transformation/body rules** and Go-Pod's applicable Go-Bot. | You choose the mobility strategy repeatedly and have proper physical forms/companions for that profile. |
+| **Corregidor division-specific miniatures** | Proxy Surface **Coyote/Territorial/Shifta** and Deepspace **Gator/Evader** *from different lists*, never from the same made-up Surface+Deepspace blend. | You have actually selected one **current legal division and team**; only then fill any simultaneous physical gaps. |
+| **Additional AVA copies for rare tools** (Triggermen, Sin-Eater, Grenzer, Sombra, Switcher, expensive second Hacker/Engineer) | Use the first suitable model or a distinct appropriately sized proxy. AVA is a legal maximum, *not a model-shopping goal*. | Multiple copies have already appeared **simultaneously and often** in your mission-driven lists. |
+
+**Event/ownership caveats:** Reveal proxy substitutions and check current **Silhouette, base diameter, required partners, counts, and organized-play/organizer policy**. Ordinary infantry, heavy infantry, remotes, TAGs and S7 Vehicles **cannot automatically stand in for one another**. No separate plastic miniature is needed for a profile option **unless simultaneous distinct bodies or a stricter event rule calls for it**. Older ITS-season proxy language is not proof of current seasonal policy. **A proxy cannot grant a unit permission to join a Fireteam or a division in which it is not legal.**
+
+**Practical buying shortlist:** **Strongest direct whole-model deferrals** are **Bakunin generic Zellenkrieger if Morlocks already do its only job**; **Tunguska Triggermen if bought as a generic first premium shooter**; and **Go-Pod in any army if bought solely as a Turn-1 ARO breaker** (contested by positive flank uses). **Strongest *profile-only* avoids** are **Vanilla unlinked Grenzer MULTI Sniper**, **Bakunin Moderator Spitfire**, **Corregidor Surface Territorial AP Red Fury where MMR is better**, **Deepspace Gecko Vulkan as a long-lane opener**, and **unsupported Vertigo Guided builds**. **Generally best proxy-first *good* purchases:** second TAG/alternate TAG chassis, extra Vostok/Tsyklon/REM, extra PuppetBot/Chimera/Coyote package beyond owned body counts, second/third premium character and fourth/fifth Fireteam gun sculpt. Keep the original positive/dissenting media opinions above when making an actual list.
