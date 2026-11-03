@@ -63,8 +63,12 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 
 - **Best whole-army command engine:** **Saladin LT 39/0** in Vanilla Haqq with multiple useful **Irregular** troops. Strategos L2 + Inspiring Leadership + Counterintelligence convert a normally scattered army into a flexible Order pool, add reserves and Command Token efficiencies. In a mostly-Regular army, pay much less for a normal Lieutenant.
 - **Best inexpensive general Strategos:** **BCA Magistrate LT 19/0** in Kestrel or Vanilla PanO: Counterintelligence, Specialist Operative, Jackal Fireteam Master and Strategos L1 at a very low cost; fragility is the downside. **Magistrate CoC 21/0 is a mutually exclusive profile**, not simultaneously the LT.
-- **Best combat/command ceiling:** **Avatar LT 122/3 SWC** (Strategos L2, Mnemonica, TA, Sepsitor) for sheer power; **Marut LT 90/2** (Strategos L2, MSV2, TA, premium gun) often wins **value** among expensive command TAGs because much more budget remains for specialists.
-- **Best Morat fighting LT:** **Sogarat LT 56/0.5–1** (discounted heavy gun) because the *Warhorse members* of its army stay Regular after a command disaster. **Kornak LT 42/0** (Strategos L1 and LT+1) is still preferable when two **flexible** Orders outperform another big gun.
+- **Best combat/command ceiling:**
+  - **Avatar LT 122/3 SWC** — Strategos L2, Mnemonica, Tactical Awareness and Sepsitor give the highest raw command/combat ceiling.
+  - **Marut LT 90/2** — Strategos L2, MSV2, Tactical Awareness and a premium gun; often better **value** among command TAGs because more budget remains for specialists.
+- **Best Morat fighting LT alternatives:**
+  - **Sogarat LT 56/0.5–1** — discounted heavy gun; actual *Warhorse* allies remain Regular after a command disaster.
+  - **Kornak LT 42/0** — Strategos L1 and LT(+1), preferable when two **flexible** Orders outperform another big gun.
 - **Best cheap command insurance:**
   - **O-12 Ment CoC 14/0** (Vanilla/eligible O-12)
   - **Kempeitai CoC 17/0** (JSA)
@@ -205,19 +209,43 @@ These alternatives can be better when a **specific required team, gun, hacker or
 - **Strategos vs NCO** compete for the **same** LT resource: after Strategos converts to Regulars there is **no Special LT Order** for NCO. If the LT has +1 Order, both Special Orders get converted under Strategos.
 - **NCO** can use a generated Special LT Order even if LT subsequently enters Null during the turn. An **Isolated NCO can't** convert/use it. Tactical Awareness Order is separate.
 - **Warhorse** does **not** ignore Mimetism, range, Cover, templates, Immobilized, or hacking damage; only its specific LoL/Retreat/Isolation/BS Attack(-X) interactions. Morat `Religious Troop` is not a substitute for Warhorse.
-- **SWC rebates** from certain Joan/Aquila/Hsien/Hatamoto/Neema Lieutenant options are part of command value only when they unlock an additional useful expensive weapon. The **+1 SWC option** and other LT options may be mutually exclusive.
-- **Don't invent CoC** for **Quinn (Kestrel/Varuna)** or **Emily Handelman in Kestrel**: pinned profiles lack it, despite some older upload claims. **Emily CoC is real in White Company**—different roster.
+- **SWC rebates** can improve command value when they unlock another useful expensive weapon. Check the exact Lieutenant option for:
+  - **Joan**
+  - **Aquila**
+  - **Hsien**
+  - **Hatamoto**
+  - **Neema**
+
+  The **+1 SWC option** and other LT options may be mutually exclusive.
+- **Don't invent CoC** for these roster-specific profiles, despite some older upload claims:
+  - **Quinn (Kestrel / Varuna)** — no CoC on pinned profiles
+  - **Emily Handelman (Kestrel)** — no CoC on pinned profile
+  - **Emily Handelman (White Company)** — **does** have CoC; it is a different roster.
 - **No generic army-wide CoC**: the listed faction/model permission and specific Fireteam profile decide legality.
 
 ## Opposing opinions — transcript-grounded, not forced into one verdict
 
-1. **Morat Sogarat vs Kornak**: [Robert Shepherd (2025)](https://www.youtube.com/watch?v=QwcqdXMtDXI) strongly prefers Sogarat LT's gun, discounted SWC, disco-ball and Warhorse LoL resilience over formerly ubiquitous Kornak. [Tactical Awareness Morats S3E13 (Mar 2025)](https://open.spotify.com/episode/7HZuzXo3FDUr6Eqp08TzjR) treats **Kornak42 Strategos(+1)** as superb for a mixed-team list and notes Morat CoC often unnecessary. **Choose Sogarat for hard fighting; Kornak for two pooled Orders**, or Sogarat+NCO when a compact armored duo justifies it.
+1. **Morat Sogarat versus Kornak:** the sources disagree on the best LT purchase:
+   - **Sogarat LT:** [Robert Shepherd (2025)](https://www.youtube.com/watch?v=QwcqdXMtDXI) prefers the heavy gun, discounted SWC, disco-ball and Warhorse LoL resilience; choose for hard fighting or with an NCO armored Duo.
+   - **Kornak LT 42/0:** [Tactical Awareness Morats S3E13 (Mar 2025)](https://open.spotify.com/episode/7HZuzXo3FDUr6Eqp08TzjR) praises Strategos(+1) and two pooled Orders in mixed-team lists, and considers Morat CoC often unnecessary.
 2. **Saladin versus plain Haqq LT**: [Shepherd Haqq (Nov 2025)](https://www.youtube.com/watch?v=Dmv4pfdTbc0) calls Saladin one of the strongest commander archetypes while explicitly resisting a direct comparison to Marut. [Opponents discussing Saladin Dec 2025](https://www.reddit.com/r/InfinityTheGame/comments/1px4kn4/how_to_tackle_the_new_haqq_a_bit_of_a_rant/) describe oppressive cheap-Regular conversions. **Counter:** obvious decapitation point and less value without several useful Irregular allies; use Hafza/Hassassin alternatives.
 3. **Cheap 'concession' LT vs brawler/commander LT**: existing [N5 transcript *A Guide to Lieutenants*](../../rules/Youtube%20rules-strats/A%20Guide%20to%20Lieutenants.txt) defines concession, synergizer, brawler and commander roles and favors high-ceiling brawlers/commanders. [WiseKensai's *Learning Lieutenants*](../../rules/Youtube%20rules-strats/Learning%20Lieutenants.txt) instead stresses that an obvious protected LT is sometimes too expensive to assassinate, and mission utility trumps reflexively hunting it. **Both depend on the enemy's approach and the LT's opportunity cost.**
-4. **Avatar/Aspect versus inexpensive middleweight command**: [Shepherd Vanilla Combined Apr 2026](https://www.youtube.com/watch?v=qoyylw0p0JM) prefers Nexus/Vector and other midsize pieces in many current lists because expensive Aspect LT leaves too little squad. [Loss of Lieutenant N5 TAG tier panel Apr 2025](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN) disputes Avatar's actual return after opponent kills the cheap Orders. **Apex ≠ points value**.
+4. **Avatar/Aspect versus inexpensive middleweight command:** [Shepherd Vanilla Combined Apr 2026](https://www.youtube.com/watch?v=qoyylw0p0JM) highlights cheaper alternatives to a premium Aspect LT:
+   - **Nexus** — midsize command/CoC option
+   - **Vector** — midsize fighting piece
+   - **Avatar / other expensive Aspect LT** — tremendous apex but can leave too little squad
+
+   [Loss of Lieutenant N5 TAG tier panel Apr 2025](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN) likewise disputes Avatar's return once the opponent removes cheap Orders. **Apex ≠ points value**.
 5. **Nexus CoC marginal value**: [Irregular Order #56 Onyx Oct 17 2026](https://open.spotify.com/episode/7b2QJ494pgPp6NY6WQ9QWF) explicitly praises **Nexus23 CoC + NCO + BS13/Mimetism**. **Counter:** if the list doesn't need Unidron Fireteam/member, the entire 23 points is real tax and a concealed cheaper backup may do better.
-6. **Ariadna commander/CoC choice**: [Loss of Lieutenant #164 Feb 2026](https://open.spotify.com/episode/0X4QIoP24cKONtltxClHMH) recounts **CoC Wallace** as a played independent attack and successor, *not* necessarily an army-wide Inspiring engine. Wallace LT versus Voronin22 Strategos should be settled by number of truly Irregular useful models and the mission.
-7. **Next Wave cheap LT versus Achilles prestige package**: [Loss of Lieutenant E172 Aug 2026](https://open.spotify.com/episode/5cVwqFnBxM9xYIskCHHuDt) praises **Harbinger LT + decoy** for funding Blackhearts, while Achilles/Pandora and other premium teams threaten early wins but may lose objective support. **Pandora29 CoC** better if also serving Research/hacking; not the cheapest succession.
+6. **Ariadna commander/CoC choice:** [Loss of Lieutenant #164 Feb 2026](https://open.spotify.com/episode/0X4QIoP24cKONtltxClHMH) distinguishes:
+   - **Wallace CoC** — played as an independent attacker and successor, *not* automatically an army-wide Inspiring engine
+   - **Wallace LT** — assess by the number of useful, genuinely Irregular models to convert
+   - **Voronin 22 Strategos** — command alternative where flexible Orders or deployment control better serve the mission
+7. **Next Wave cheap LT versus premium team:** [Loss of Lieutenant E172 Aug 2026](https://open.spotify.com/episode/5cVwqFnBxM9xYIskCHHuDt) discusses:
+   - **Harbinger LT + decoy** — cheap command that funds other pieces
+   - **Blackhearts** — one possible use of the saved points
+   - **Achilles / Pandora premium teams** — early-win pressure, but risk reduced objective support
+   - **Pandora 29 CoC** — useful when also providing Research/hacking, not the cheapest pure succession
 8. **Strategos L2 FAQ detail**: [Loss of Lieutenant E174 N5.3 rules Sept 2026](https://open.spotify.com/episode/7jgbqpLcjwbOlbgZ94Ucxm) specifically notes group-transfer clarification **including Peripherals**. Recheck older claims that the controller moves alone.
 
 ## Best source queue — actual MCP transcript audit
