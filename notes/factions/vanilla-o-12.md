@@ -1,5 +1,56 @@
 # Vanilla O-12 — N5.3 tactical analysis and collection decisions
 
+## Overview
+
+**What Vanilla O-12 does especially well:** unusually broad access to high-quality long-range guns, MSV, hacking, hidden midfield specialists, and multiple fast objective routes. More unusually, **this Vanilla army can field one Haris and two Duos**. It opens a lane with a premium attacker or visibility control, then scores with an independent specialist rather than committing everything to one expensive model. The drawback is a high points floor: too many 30–70pt tools can starve Orders, screens and late-game scoring.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 below are editorial, role-specific cross-faction *shortlist candidates*, not official absolute ranks or measured win rates.** Apex means peak impact in the indicated job; value considers points, SWC and Orders. The relevant cross-faction comparisons are [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield defense](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [networks](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+
+| Whole-game shortlist (specific role) | Unit / profile | Exceptional job and main limitation |
+|---|---|---|
+| **Top 3 candidate — combined Doctor/Engineer apex** | **Parvati 36/0** | Doctor (2W), WIP15, Engineer and durable Super-Jump/Remote Presence make one of the strongest combined recovery-and-scoring pieces. Premium cost; check the exact army's Engineer modifier. |
+| **Top 5 candidate — non-TAG HMG apex** | **Gamma HMG 50/1.5** | BS14, BS Attack (+1B), ARM6, 2W+NWI and FT-II access. A world-class sustained HMG gun at lower cost than a TAG, but Hackable and not naturally anti-Mimetism. |
+| **Top 5 candidate — TAG ranged apex** | **Zeta LT70/2 or NCO73/2** | BS14 HMC, Climbing Plus, ARM8/3STR and ZetBot specialist make a top-tier anti-armour, high-angle centerpiece. No Tactical Awareness; the premium over Gamma needs a reason. |
+| **Top 5 candidate — inexpensive forward denial value** | **Moonraker Minelayer 15/0.5** | A+ apex / S value in the midfield guide: FD(+20), one-use Camo, prepaid Shock Mine, Adhesive Launcher Rifle and Heavy Shotgun. Fragile STR1; not permanent Camo. |
+| **Top 10 candidate — long-range MSV2 value** | **Epsilon HMG 34/1.5** | MSV2, Mimetism(-3) and Climbing Plus for anti-Camo and Smoke-assisted shooting. A one-Wound gun, not an invincible ARO. |
+| **Top 10 candidate — cheap Regular Smoke value** | **Varangian SMG + Chain Rifle + Smoke 12/0** | Regular Order, PH14 Smoke, Dogged and close defense. Strong enabling unit; Impetuous routes are still dangerous. |
+| **Top 10 candidate — forward native-Repeater/scorer value** | **Team Sirius FO + SiriusBot 21/0** | FO controller plus synchronized forward Repeater/riotstopper bot. The two bodies share Orders; Hacker Sirius is a more vulnerable alternative. |
+| **Top 10 candidate — mobile mission-support value** | **Oko Tactical Awareness 18/0** | FO, Sensor, Repeater, Climbing Plus and one personal activation; **15pt non-TA** profile is cheaper if it rarely acts. |
+
+### Particularly strong or unusual Fireteams
+
+- **Gamma FT-II Haris — a legitimate Vanilla premium shooting package:**
+  - **Gamma HMG:** primary shooter, maximum one Gamma.
+  - **Vidocq FTO:** low-cost escort or Doctor profile.
+  - **Ment CoC / Jackboot / Omega:** choose a legal third member for succession, technical support or a second attack role.
+  - **Trade-off:** expensive and Hackable; this is a Haris, not a Core.
+- **RoadBot + Oko FT-I Duo — an excellent mobile mission module:**
+  - **RoadBot Paramedic 20:** fast climbing and transformed mobility.
+  - **Oko FO 15 or TA 18:** Sensor, Repeater, scoring and possibly an independent Tactical Awareness activation.
+- **Ioann Bann + Varangian FT-I Duo — uncommon close-assault/Smoke combination:**
+  - **Ioann Bann 32:** durable Irregular/Impetuous dog-warrior attacker with Smoke.
+  - **Varangian 12:** inexpensive Regular Smoke/trading partner.
+  - **Rule caveat:** the Duo does not convert Ioann's Irregular Order into a pooled Regular one.
+- **Other tailored FT-I/FT-II Duos:** eligible **Omega**, **Silverstar**, **Jackboot**, **PSI-Cop**, **Nimrod FTO** and **Sonya** combinations offer alternatives. Apply the [current member limits and FTO restrictions](../../sectorials/o-12/o-12.md#canonical-fireteam-definitions).
+
+### Unusual access, gaps and trade-offs
+
+- **Unexpected Vanilla Fireteams:** **no Core, one Haris, up to two Duos**; do not import Starmada/Torchlight Wildcards.
+- **Two TAG families and a separate Vehicle:**
+  - **Zeta:** premium HMC, climbing, resilience, ancillary scorer.
+  - **Wrecker:** cheaper Tactical Awareness, AP threat and ancillary scorer.
+  - **Firebat:** aerial **Vehicle (VH)**, not a TAG.
+- **Smoke, Eclipse and White Noise are distinct:**
+  - **Varangian / Hippolyta / Ioann Bann:** conventional Smoke.
+  - **Epsilon / Nimrod:** MSV2 guns exploiting normal Smoke.
+  - **Bluecoat Disco 16:** limited-use *projected Eclipse* that blocks MSV as well.
+  - **Cyberghost HD+ 21/0.5:** White Noise and Pitcher/Repeater network; its BS11 Pitcher is a fallback, not free reliable projection.
+- **Excellent command insurance:** **Ment CoC 14** protects aggressive Lieutenants; **Alpha LT24** instead offers Strategos L1 and Counterintelligence. These are separate units.
+- **Extensive midfield options, not infinite budget:** **Razor**, **Lynx**, **Nightshade**, **Gangbuster**, **Moonraker** and **Team Sirius** serve different hidden, adhesive and network roles. Focus on what the mission needs rather than buying all of them.
+
+
 **Authoritative reference:** [Vanilla O-12 profile options, AVA, Fireteams, validation and source provenance](../../sectorials/o-12/o-12.md). This document contains tactical interpretations, rankings, battle-report evidence, competing media assessments and miniature-buying guidance. Current Army/profile legality is determined by the linked reference.
 
 **Reference archive:** [Primary recordings, cross-references, battle reports and purchasing audit](references/vanilla-o-12_refs.md).
