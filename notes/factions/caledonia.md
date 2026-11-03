@@ -372,7 +372,12 @@ Add Beasthunter or McMurrough only if the list still has specialist/ranged/scori
 
 **Grey HMG + cheap Volunteer shell**
 
-Purpose: obtain an efficient primary gun/order structure while leaving points for SAS/Uxía, dogs, Caterans, Wulver, etc.
+Purpose: preserve an efficient gun/Order foundation while leaving points for independent mission tools:
+
+- **SAS / Uxía:** forward objectives.
+- **Caterans:** independent ranged delay.
+- **Wulver:** short/midrange assault.
+- **Dogs:** mobile Smoke and trading.
 
 ### Heavy Haris
 
@@ -410,7 +415,13 @@ Purpose: create a limited cyber-threat/defensive zone in a faction opponents may
 
 ### Wallace
 
-Wallace is not a universal tax. He is excellent when the army is intentionally exploiting Irregular profiles. If the list is mostly Mormaers, Greys, Wulvers, Volunteers, SAS and other Regular pieces, his economy effect may not justify replacing a cheaper or more directly useful Lieutenant.
+Wallace is not a universal tax. His economy effect pays when the army genuinely exploits Irregular troops. A mostly Regular formation may be better led by another LT, especially if it is built around:
+
+- **Mormaers**
+- **Highlander Greys**
+- **Wulvers**
+- **Volunteers**
+- **SAS**
 
 ### McMurrough
 
@@ -545,8 +556,20 @@ Both are coherent. What is inefficient is sitting in the middle with Wallace whi
 
 #### Game plan: solve shooting problems, then flood the midfield
 
-- **Vision denial → favorable engagement → trade:** Cheap Galwegian/112/Grey/Cameronian smoke and a Wardriver **Disco Baller** disrupt exposed firelanes and MSV threats. Use the opening for **Uxia/SAS** objectives and attack angles, **Mormaer** AP HMG gunfights, or **Cameronians/McMurrough** close-range templates/CC. **Why:** CHA has great close assault and powerful select guns, but comparatively little durable, versatile, long-range ARO and limited sophisticated hacking.
-- **Prioritize orders on the real attacker.** 6-point regular Volunteers, 5-point Baggage Traktor Muls and cheap warbands keep the list functional while paying for Mormaer + Wulver/Cadin/Uxia. The cheap pieces are useful only if the primary attack, objectives, protection and order allocation still fit.
+- **Vision denial → favorable engagement → trade:** give each unit a distinct part of the sequence:
+  - **Galwegian / Motorized 112 / Highlander Grey / Cameronian:** Smoke lanes.
+  - **Wardriver Disco Baller:** alternative sightline denial.
+  - **Uxía / SAS:** objectives and attack angles.
+  - **Mormaer AP HMG:** direct armor-piercing fire.
+  - **Cameronian / McMurrough:** short-range template and CC follow-through.
+  - **Why:** great close threats and selected guns, but less reliable broad long-range ARO and sophisticated hacking.
+- **Prioritize Orders on the actual attacker:**
+  - **Volunteer (6pt):** Regular Order base.
+  - **Traktor Mul Baggage (5pt):** affordable utility Order.
+  - **Mormaer:** primary ranged attacker.
+  - **Wulver / Cadin:** second assault/link option.
+  - **Uxía:** independent scoring.
+  - The support is useful only if missions, protection and Order allocation remain funded.
 - **Choose an actual plan, not every attractive model.** Podcasts repeatedly praise Uxia, Mormaer, dogs and Wardriver, but note that taking all of them plus multiple full Fireteams leaves little room for specialists/backup attacks. Reserve a credible second attack axis.
 - **Don't force 6 SWC.** Caledonia's strength is often low-SWC T2/AP, smoke, melee and templates. Filling unused SWC with unnecessary HMGs can weaken the order pool or mission coverage. (Loss of Lieutenant ~49–52m.)
 
@@ -592,7 +615,13 @@ Both are coherent. What is inefficient is sitting in the middle with Wallace whi
 - **14 pts / 1 SWC Uragan Guided MRL with Total Reaction:** choose for a dedicated defensive/template or Guided mission plan; BS10, one wound, ARM2, no camouflage, and supply costs make it a weak general replacement for Mormaer/Cateran ARO. Protect/position it and price in Dozer access if repair matters.
 - **Dozer Engineer (13–15 pts)** is available; weigh its Engineer-objective role, turret/deployable-cover loadouts, and ability to recover Muls against cheaper bodies. No normal Servant-bot / TAG recovery web is implied by this roster.
 - **Vehicles/TAGs: none on CHA's standard 23-unit N5.3 roster.** **Motorized 112 (19 pts)** is a mobile **LI Doctor on motorcycle**, not a VH trooper or TAG; smoke movement/rapid medical access is its contribution. No Chernobog, Vystrel, Kuryer, or other Ariadna/Mérovignian/Kosmoflot vehicle/TAG/REM can be assigned to CHA just because it exists elsewhere.
-- **Against enemy TAGs:** Mormaer **AP HMG** punches ARM; **Cadin E/M grenades** or Wardriver Disco Ballers can disable/deny; **Cameronian T2** and McMurrough **AP+DA CCW** threaten from melee. Deliver them using smoke and lateral movement; avoid pure BS10–12 open-field gunfights.
+- **Against enemy TAGs:** choose an answer that can actually reach the target:
+  - **Mormaer AP HMG:** direct ARM pressure.
+  - **Cadin E/M grenades:** potential electronic disabling.
+  - **Wardriver Disco Baller:** denial rather than damage.
+  - **Cameronian T2:** close-range damage.
+  - **McMurrough AP+DA CCW:** melee follow-up.
+  - Deliver by Smoke and lateral movement rather than poor open-field BS exchanges.
 - **Cross-sectorial REM transcript check (Tactical Awareness N5, February 2025):** [Tartary Part 2](https://open.spotify.com/episode/2VCGfZZhXpth6ahryGhPyw) (~20m) recommends the **5-point Baggage Mul** as inexpensive Regular-order support, and (~32m) considers two **Total Reaction Uragans** as a niche overlapping ARO/artillery shell. [Kosmoflot Part 3](https://open.spotify.com/episode/0FZYrBdbYi3bNLX0Xbdl3l) (~11–16m) uses **Katyusha Guided MRL** plus artillery/board-state interactions; speakers explicitly warn that its unassisted speculative fire is poor. [Vanilla Ariadna Part 4](https://open.spotify.com/episode/3WYxtimNdXjHDsMOWvEWw6) (~2–4m) pairs an FO with Katyusha Guided and a cheap Deactivator/Baggage Mul for reloads and mine clearing. [USAriadna Part 1](https://open.spotify.com/episode/4wIT3UwMB9LldCtHdfLU6k) (~14–15m) uses Baggage to reload disposable ARO weapons. **Transferable CHA lesson:** first buy the 5-point Mul for orders/Baggage; upgrade to Katyusha when you have a reliable FO + order plan; buy Uragan TR only for a specific defensive firelane/artillery plan. These other sectorials' non-CHA units, FOs and Fireteams are **not** CHA list options.
 - **Source-scope check:** No separate, substantial post-2025 Caledonia-exclusive Vehicle/TAG analysis was found; broader Ariadna episodes concern platforms not necessarily selectable in CHA. Transfer **role principles**, never illegal roster entries.
 
@@ -601,7 +630,12 @@ Both are coherent. What is inefficient is sitting in the middle with Wallace whi
 Current starting assumptions for future Caledonia analysis:
 
 - **Wallace is a proactive list-building engine, not a patch for a list that accidentally contains Irregulars.**
-- In a Wallace list, deliberately test **Cameronians, 5-point Galwegians, Caterans, McMurrough and Beasthunter** as discounted Order-generating value pieces.
+- **Wallace Irregular-economy candidates:** evaluate their actual utility before adding them for conversion:
+  - **Cameronians**
+  - **Galwegians (5pt)**
+  - **Caterans**
+  - **McMurrough**
+  - **Beasthunter**
 - **Isobel Chain of Command is not a current option**; old advice relying on that package must be discarded.
 - **Uxía + SAS** is the strongest default midfield/scoring starting point.
 - **Mormaer HMG** and **linked Grey HMG** are the cleanest primary ranged starting points.
