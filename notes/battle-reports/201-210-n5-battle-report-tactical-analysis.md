@@ -37,7 +37,7 @@ Ten **previously unindexed, distinct videos** were found and their original YouT
 **Nomads — named opening list:**
 - **GoPod flyer + GoBots** (vehicle-associated models; not a Fireteam).
 - **Gecko TAG**, Mark 12; **Wolfgang Amadeus Wolff**; **Chimera with three Pupnik Peripherals**.
-- **Interventor Lieutenant**, **Mary Problems/another named Hacker** (caption ambiguous), **Clockmaker with Zondbot**, and a midfield **Moran/CrazyKoala** package.
+- **Interventor Lieutenant**, **an additional electronic-support unit** (nickname compared with Mary Problems; exact identity unclear), **Clockmaker with Zondbot**, and a midfield **Moran/CrazyKoala** package.
 - **Two Morlocks** (one with Climbing Plus), **two Transductor Zonds**, **Thunderbolt Total-Reaction REM**, and **Warcor**.
 - **Starting Fireteams:** **none named**. The Chimera's three Pupnik companions are **Peripherals** and do **not** make a four-model Fireteam. A lone Gecko is not a Duo.
 
@@ -166,7 +166,7 @@ Ten **previously unindexed, distinct videos** were found and their original YouT
 **Hassassin Bahram — two explicitly separate three-body links:**
 - **Haris A — 3 confirmed:** **Asawira AP Spitfire**, **Muyib Doctor**, **Govad Killer Hacker**.
 - **Haris B — 3 confirmed:** **Ghulam** (possibly Lieutenant), **Barid Killer Hacker**, **Barid regular Hacker** (the first list voiceover says Yara Haddad is being proxied by a Barid; deployment identifies **two Barid profiles plus Ghulam**; precise legal troop identities **uncertain**, but all three are clearly linked). Do **not** silently add Yara to make a four-man group.
-- **Independent specialists/defense:** **Nazarene Engineer**, **EVO Kameel**, **Thunderbolt Total-Reaction REM**, **Iguana/Igao-type independent model** (auto-caption uncertain), **Sunduqbut AP Spitfire Neurocinetics**, **Ghazī Muttawi'ah**, and **three infiltrating Daylami Panzerfaust**, several deployed as Camo markers.
+- **Independent specialists/defense:** **Nazarene Engineer**, **EVO Kameel**, **Thunderbolt Total-Reaction REM**, **Sunduqbut AP Spitfire Neurocinetics**, **Ghazī Muttawi'ah**, and **three infiltrating Daylami Panzerfaust**, several deployed as Camo markers.
 - **Large formation:** none. The two three-model Harises are **not** one six-model Core.
 
 **Vanilla ALEPH — starting inventory by group:**
@@ -362,7 +362,7 @@ Ten **previously unindexed, distinct videos** were found and their original YouT
 |---|---|---|---|
 | **201** | **Yu Jing 3-Zhuyong Haris**; vanilla Nomads Chimera/Pupnik, GoPod, Gecko independent | **No** | Chimera + 3 Pupnik are not a Core |
 | **202** | **Druze Core 4**, **Brawler Haris 3**, **Scarface/Cordelia Duo 2**; **Shas Gwailo+2 Jayth Haris 3** | **YES — Druze 4** | Early concession; concealed slots unverified |
-| **203** | **Varuna Fusilier Core 5**; **USARF Grunt/Montie/Rosie Core 5**, **Minuteman+Unknown Ranger Haris 3**, **Maverick Duo 2** | **YES — two separate Cores of 5** | USARF non-linked forward-deploying Grunts are extra models |
+| **203** | **Varuna Fusilier Core 5**; **USARF Grunt/Minuteman/Rosie Core 5**, **Minuteman+Unknown Ranger Haris 3**, **Maverick Duo 2** | **YES — two separate Cores of 5** | USARF non-linked forward-deploying Grunts are extra models |
 | **204** | **Next Wave Pandora+Stinger+Blackheart Haris 3**, **Patroclus/Harbinger Duo 2**; **Steel Thorakitai/Makhai link 3**, Scylla package link type uncertain | **No** | Four Myrmidons in roster do not mean a 4-Core on defender turn |
 | **205** | **Hassassin Asawira/Muyib/Govad Haris 3**, **Ghulam/Barid/Barid Haris 3**; vanilla ALEPH no link | **No** | Barid/Yara proxy descriptions conflict |
 | **206** | **Kestrel Pathfinder/Hecate/Bipandra/Fennec linked team 4**, **Sforza/Fennec Duo 2**; **Corregidor Jaguar pair and Alguacil Duo** | **YES — Kestrel 4** | Exact 4-team category unclear; actual mission **Neutralization** |
