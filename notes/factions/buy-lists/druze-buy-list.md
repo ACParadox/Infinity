@@ -1,6 +1,6 @@
 # Druze Bayram Security — miniatures buy list (Infinity N5.3)
 
-**Created 2026-10-30 against latest `main`; does not modify inventory.** Current [N5.3 canonical roster/AVA/Fireteams](../../../sectorials/non-aligned-armies/druze.md); purchase ratings from [Mercenary must-have/go-to/avoid source audit](../../../sectorials/non-aligned-armies/druze.md), with [strict proxy guidelines](../../miniature-proxy-guidelines.md). N5.3 Army reference `7.26246.159` (September 2026). Actual ownership: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Shindenbutai](../../../inventory/shindenbutai.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Other](../../../inventory/other-units.md). **A recommended buy in another buy list is not proof of ownership.**
+**Created 2026-10-30 against latest `main`; does not modify inventory.** Current [N5.3 canonical roster/AVA/Fireteams](../../../sectorials/na2/druze.md); purchase ratings from [Mercenary must-have/go-to/avoid source audit](../../druze.md#must-have--go-to--avoid--source-backed-recommendations-2026), with [strict proxy guidelines](../../miniature-proxy-guidelines.md). N5.3 Army reference `7.26246.159` (September 2026). Actual ownership: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Shindenbutai](../../../inventory/shindenbutai.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Other](../../../inventory/other-units.md). **A recommended buy in another buy list is not proof of ownership.**
 
 ## What is owned and what to buy first
 
@@ -90,7 +90,7 @@ Under [the proxy policy](../../miniature-proxy-guidelines.md), a proxy **must ma
 
 ## Complete pinned N5.3 standard roster — actual ownership (37 units)
 
-Source: [canonical roster](../../../sectorials/non-aligned-armies/druze.md). All standard named entries are included; **optional Spec-Ops/Team-Ops and reinforcement-only content excluded**. AVA is the army limit, **not the number you must buy**. White Company uses a profile digest in its source instead of a troop-type column.
+Source: [canonical roster](../../../sectorials/na2/druze.md). All standard named entries are included; **optional Spec-Ops/Team-Ops and reinforcement-only content excluded**. AVA is the army limit, **not the number you must buy**. White Company uses a profile digest in its source instead of a troop-type column.
 
 | N5.3 standard legal unit | AVA | Troop type | Exact owned or donor pool | Purchase/proxy judgement |
 |---|---:|---|---|---|
