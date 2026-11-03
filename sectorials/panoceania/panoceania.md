@@ -336,12 +336,14 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
-| 1 | 47 | 0 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Pistol, DA CCW; Surprise Attack (-3), Forward Deployment (+20), Hidden Deployment |
-| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, Armed Turret (Combi Rifle), Pistol, DA CCW; Surprise Attack (-3), Forward Deployment (+20), Hidden Deployment |
-| 3 | 54 | 0 | MULTI Marksman Rifle, D-Charges, CrazyKoala, MULTI Pistol, DA CCW; Forward Deployment (+20) |
-| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW |
-| 5 | 49 | 1.5 | **CRUX KNIGHT FTO**; Spitfire, Drop Bears, D-Charges, MULTI Pistol, DA CCW |
+| 1 | 47 | 0 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Pistol, DA CCW (PS=5); Surprise Attack (-3), Forward Deployment (+20), Hidden Deployment |
+| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, Armed Turret (Combi Rifle), Pistol, DA CCW (PS=5); Surprise Attack (-3), Forward Deployment (+20), Hidden Deployment |
+| 3 | 54 | 0 | MULTI Marksman Rifle, D-Charges, CrazyKoala, MULTI Pistol, DA CCW (PS=5); Forward Deployment (+20) |
+| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) |
+| 5 | 49 | 1.5 | **CRUX KNIGHT FTO**; Spitfire, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) |
 | 6 | 50 | 0 | **CRUX KNIGHT FTO**; as 4; Strategic Deployment |
+
+**Profile-specific override:** all Crux DA CC Weapon variants have **PS=5** instead of the generic DA CC Weapon chart's PS=8 ([N5 unit profile](https://www.human-sphere.com/Father_Knight); [PS modifier rule](https://infinitythewiki.com/Rolls)).
 
 ### Fusilier Indigo Bipandra
 
