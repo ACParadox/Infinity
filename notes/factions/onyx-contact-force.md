@@ -19,6 +19,46 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Related:** [Combined TAG evaluation](../list-building/tags.md), [REM utility](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Onyx/Vanilla contrast](vanilla-combined-army.md).
 
+## Overview
+
+**What Onyx does exceptionally well:** combine **repairable Unidron attrition**, a credible Repeater/KHD network, several distinctly priced TAGs and hidden or airborne secondary threats. It has exceptionally good **TAG gun value and Fireteam-supported REM pressure**, not Morat-style cheap Smoke.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
+
+- **Top 5 candidate — long-range TAG gun per point (value): Overdron HRMC 62/1.5.** **S for value** in the [TAG tiers](../list-building/tags.md) and **S/A+ ranged shooting** in the [gunfighter comparison](../list-building/active-turn-gunfighters-apex-and-value.md): AP HRMC, Albedo, Tactical Awareness and recovery on a comparatively affordable TAG. The **HRL(+1B) 51/1.5** and **Plasma Sniper(+1B) 59/1.5** are distinct choices, not free extra guns.
+- **Top 5 candidate — inexpensive mobile TAG (value): Xeodron, roughly 49–50 points.** **S value but C raw TAG apex** in the [TAG guide](../list-building/tags.md); K1/MULTI, Super-Jump and Tactical Awareness make it a strong mobile midrange problem, especially in a legal Duo/Haris. It is not an automatic long-range ARO remover.
+- **Top 3 candidate — Hidden Deployment missile ARO (apex): Noctifer ML 30/1.5.** **S-tier** in [reactive-unit rankings](../list-building/aro-units-apex-and-value.md) for Mimetism(-6), Hidden Deployment and the threat of a punishing template. It does not contribute its normal Order while Hidden and can fail to find a favorable reveal.
+- **Top 5 candidate — combined hacking/CC/anti-armor toolbox (apex): Nourkias 48/1.** **S-tier** in the [toolbox comparison](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) for WIP15 hacking, K1, Protheion/CC, Super-Jump and NCO. Delivery, exposure and the support tax can make a straightforward gun more economical.
+- **Top 10 candidate — affordable linked command/mission support (value): Nexus.** Separate **Engineer, Hacker and Chain of Command** profiles support Unidron defense, recovery or the Lieutenant plan; no single Nexus possesses all three loadouts. The [mission-specialist comparison](../list-building/mission-specialists-and-button-pushers-apex-value.md) favors that role compression when the *team* is useful.
+- **Distinctive value without a guaranteed Top-10 position: Unidron 14-point basic REM.** Remote Presence, Dogged, weapons and linked specialists support a stubborn **Engineer recovery loop**, rather than being the cheapest possible Regular Order.
+
+### Particularly strong or unusual Fireteams
+
+- **Unidrons Core/Haris — the defining attrition network:**
+  - **Native Unidron:** required; linkable gun and scoring options.
+  - **Nexus Engineer/Hacker:** Unidron-family Wildcard for recovery or protection.
+  - **Kerr-Nau:** alternative Unidron-family KHD/plasma specialist.
+  - **Q-Drone:** supports the same defense plan **independently**, not as an assumed Fireteam member.
+- **Xeodron Duo/Haris — mobile TAG + Umbra toolkit:**
+  - **Xeodron:** required native TAG.
+  - **Nourkias:** Wildcard eligible in this family.
+  - **Umbra Samaritan:** another legal close-assault partner.
+  - Multiple expensive Hackable members reward careful protection and geometry.
+- **Onyx Core/Haris/Duo — elite infantry alternatives:** select a legal **Umbra Legate**, **Umbra Samaritan**, **Suryat** or **Kurgat** required-choice foundation; **Maakrep** may join within chart restrictions. A strong mixed-role package, but points-intensive.
+- **Overdron Duo — unusual double-gun skew:** two Overdrons can legally form the team; **Nexus and Nourkias are not automatically Onyx Overdron partners**. Their Vanilla Duo access does not transfer.
+- **Exrah Duo/Haris:** legal **Base or Void Operator** foundation with a **Vector Operator** as a profile-specific MSV2/anti-visual addition.
+
+### Unusual access, gaps and trade-offs
+
+- **Very little standard Smoke/Eclipse:** unlike Morat/Vanilla, the pinned Onyx standard roster lacks the cheap **Dāturazi normal Smoke**, independent Eclipse carrier or Shasvastii **Jayth Disco Baller** shell. **Overdron Albedo** counters enemy MSV personally; it is **not** a projected Zero Visibility zone.
+- **MSV/hacking:** selected **Vector, Ko Dali and Maakrep MSV2** profiles offer anti-Mimetism routes; **Bit & KISS, Kerr-Nau, Nexus** and other hackers supply genuine Repeater/KHD depth. There is no standard **MSV3 Charontid**.
+- **Command safety:** **Nexus CoC** and selected **Umbra Legate FTO CoC** are real, **different** profiles. A Nexus Wildcard is restricted to Unidron context; Nourkias to specific Umbra/Xeodron contexts.
+- **Four different TAG attack types:** **Overdron** long gun, **Xeodron** mobile midrange, **Sphinx** Hidden Deployment flank and **Caskuda** Combat Jump. These are TAGs rather than distinct **VH** Vehicles; **Avatar is not in standard Onyx**.
+- **Mission gap:** fewer cheap independent infiltrating scorers and less inexpensive Smoke than Vanilla/Shasvastii. A multi-TAG list may have Tactical Awareness Orders yet too few **freely assignable** Regular Orders or specialists to finish the mission.
+
+
 ## Executive take: the role structure
 
 Onyx is the **Combined Army's robotic combined-arms / mobile TAG + Umbra sectorial**. The good lists combine a hard-to-remove REM/order backbone, a premium *problem solver*, and a separate mission plan. The faction's unusual strength is that **many supporting pieces are simultaneously Orders, weapons, specialists and recoverable REMs**.
