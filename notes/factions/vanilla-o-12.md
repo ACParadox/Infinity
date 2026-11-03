@@ -33,18 +33,69 @@ This section is analytical and non-authoritative; source profile data and Firete
 
 ## Community tactics and transcript synthesis (2026-10-23)
 
-**26 Oct 2026 Vanilla-only tactical update:** [Robert Shepherd's complete O-12 faction focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U) (full transcript reviewed) argues that O-12 has **very few capability gaps but severe points/opportunity-cost constraints**. Its default crumple zone is **two 15pt/.5SWC Moonraker Minelayers**, deployed for overlapping **Adhesive Launcher Rifle 8–16in approach AROs**, supported as needed by 12–13pt **Regular Varangians**, a 14pt Ment CoC, cheap Kappa HD13/.5, Raveneye LT12 or Alpha LT24, and a deliberate premium gun (often **Gamma HMG50**). Distinct strengths include **Ioann Bann32**, **Kyra Sharma45**, **RoadBot20 + Oko18 TA** mobile mission play and **Epsilon34 HMG smoke shooting**. Source differences: presenter *prefers Gamma to default Zeta70*, *Razor FO29 over Mono Minelayer31*, *Sirius FO21 over Hacker24*, *Vidocq FTO15/Doctor19 escort over automatic FTO Sniper26* and does **not** personally choose Wrecker as Vanilla default. **These are opinions, not new N5.3 profiles**, and other podcast/TAG views differ. See the [fully reconciled opinion-by-opinion audit](references/vanilla-o-12_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). Neither the Starmada/Torchlight Fireteam rosters nor optional Team-Ops are implicitly changed.
+**26 Oct 2026 Vanilla-only tactical update:** [Robert Shepherd's complete O-12 faction focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U) (full transcript reviewed) argues that O-12 has **very few capability gaps but severe points/opportunity-cost constraints**.
+
+**Recommended starting infrastructure:**
+- **Moonraker:** two 15pt/.5 SWC Minelayers providing overlapping Adhesive Launcher Rifle 8–16in approach AROs.
+- **Varangian Guard:** 12–13pt Regular smoke and cheap counter-assault as needed.
+- **Ment CoC:** 14pt command insurance when taking an aggressive Lieutenant.
+- **Kappa HD:** 13/.5 cheap hacking and objective support.
+- **Raveneye LT / Alpha LT:** 12pt budget or 24pt command option, respectively.
+- **Gamma HMG:** 50pt example of the deliberate premium gun purchase.
+
+**Distinct strengths and mission packages:**
+- **Ioann Bann (32)** and **Kyra Sharma (45):** close attack / mobile scoring options.
+- **RoadBot (20) + Oko Tactical Awareness (18):** mobile objective work.
+- **Epsilon HMG (34):** MSV shooting through conventional smoke.
+
+**Source disagreements (specific profiles, not faction-wide rules):**
+- **Gamma vs Zeta (70):** the presenter prefers Gamma as the default primary gun.
+- **Razor:** FO (29) preferred over Monofilament Minelayer (31).
+- **Sirius:** FO (21) preferred over Hacker (24).
+- **Vidocq:** FTO (15) or Doctor (19) escort preferred over an automatic FTO Sniper (26).
+- **Wrecker:** not the presenter's default Vanilla TAG choice.
+
+These are opinions, not new N5.3 profiles; other podcast/TAG reviews disagree. See the [fully reconciled opinion-by-opinion audit](references/vanilla-o-12_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). Starmada/Torchlight Fireteams and optional Team-Ops are unaffected.
 
 
 
 
 ### Play plan: why Vanilla O-12 works
 
-- **Build a delivery plan, not a catalogue of expensive toys.** O-12 has excellent *separate* answers—BS14 Gamma/Omega, the Zeta HMC, Wrecker rockets, MSV, hacking, midfield control and fast specialists—but Gamma/Omega/TAG costs quickly leave too few Orders, screens or mission scorers. Pick one primary attack package, one credible second angle, cheap midfield delay, and the specialist/network support needed for the actual mission. This is the main constraint highlighted in the June 2026 all-faction discussion, which put Vanilla O-12 around **B tier** despite praising its tools.
-- **Exploit Vanilla's actual 2 Duo + 1 Haris allowance.** The Haris gives Gamma/Omega/Jackboot/Silverstar and other eligible FT-II profiles mobile support and potentially better attack/ARO output. Duos can save movement Orders pairing complementary models (e.g. eligible RoadBot/Oko movement, Jackboots, or other legal FT-I/II members). A Duo does *not* mean a Core, and formation still requires the canonical Fireteam table in the linked authoritative reference.
-- **Make gunfights fair *before* taking them.** Cyberghost **HD+ Pitcher/White Noise**, a repeater web, Varangian/Hippolyta smoke, MSV pieces and camo pressure each solve a different opponent. White Noise especially helps *non-MSV* Gamma/TAG guns bypass an enemy visor; an MSV attacker may lose a useful sighting advantage under the same White Noise. Do not rely on a single high-BS weapon to defeat every Mimetism/MSV/Template defense.
-- **Win tempo with cheap pieces.** Moonrakers, Kyttä, inexpensive Kappas/FuzzBots, a selectively placed Peeler, and a mission-running Oko force the opponent to waste Orders before your main striker activates. O-12 has many specialists almost incidentally, but buying every premium utility upgrade wastes points unless the mission makes it useful.
-- **Command structure is a strategic choice.** Alpha offers Strategos/Counterintelligence or CoC; Cho and Ment offer other continuity options; Sonya's Lieutenant option provides **+1 SWC**, while NCO alternatives can convert available Lt Orders. A Zeta Lt plan should budget CoC, engineer access and protection against Immobilized/Isolated/possessed situations instead of treating high ARM as complete safety. Verify how Orders reach each NCO under the current rules and profile.
+- **Build a delivery plan, not a catalogue of expensive toys.** Select one primary attack package, a credible second angle, cheap midfield delay, and mission-specific specialists/network support. O-12 has strong but differently priced options:
+  - **Gamma/Omega:** BS14 heavy-infantry shooting, at considerable point and Order cost.
+  - **Zeta:** premium HMC TAG.
+  - **Wrecker:** rockets and armor pressure.
+  - **MSV, hacking, midfield control, fast specialists:** supporting solutions, not substitutes for a coherent plan.
+  
+  Gamma/Omega/TAG-heavy builds can leave too few Orders, screens or mission scorers. The June 2026 all-faction discussion rated Vanilla O-12 around **B tier** despite praising its toolkit.
+- **Exploit Vanilla's actual 2 Duo + 1 Haris allowance.** A Haris improves mobility and potentially shooting/ARO output for eligible FT-II members:
+  - **Gamma / Omega:** premium lead attackers.
+  - **Jackboot / Silverstar:** eligible partners or alternative attack/support roles, subject to exact profiles.
+  - **RoadBot + Oko:** one example of efficient coordinated movement where legal.
+  
+  Additional legal FT-I/II Duos can save movement Orders. A Duo is not a Core; all membership follows the [canonical Fireteam chart](../../sectorials/o-12/o-12.md).
+- **Make gunfights fair *before* taking them.** Match the tool to the opponent:
+  - **Cyberghost HD+ Pitcher / White Noise:** visibility and hacking lanes; White Noise helps non-MSV Gamma/TAG guns against hostile visors but can impair friendly MSV attacks.
+  - **Repeater web:** extend hacker reach instead of accepting an unfavorable gun duel.
+  - **Varangian / Hippolyta Smoke:** change movement and normal-visibility engagement routes.
+  - **MSV pieces:** counter conventional Smoke and some visual MODs.
+  - **Camouflage pressure:** distract and tax defenders.
+  
+  Do not expect a single high-BS gun to beat every Mimetism/MSV/template defense.
+- **Win tempo with cheap pieces.** Layer cheap Orders, detection, defense and mission reach before spending on another premium upgrade:
+  - **Moonrakers:** pre-placed midfield delay.
+  - **Kyttä / Kappa / FuzzBot:** inexpensive Order and utility bodies.
+  - **Peeler:** selective ARO coverage.
+  - **Oko:** mobile mission runner and Sensor/Repeater support.
+  
+  These pieces force inefficient enemy Orders before the main striker activates. Premium specialist upgrades must justify their marginal cost for the actual mission.
+- **Command structure is a strategic choice.** Pick the command mechanism that supports your intended attack:
+  - **Alpha:** Strategos/Counterintelligence or Chain of Command, depending on profile.
+  - **Cho / Ment:** succession and command-continuity alternatives.
+  - **Sonya Lieutenant:** +1 SWC, not an interchangeable +1 Lt Order.
+  - **NCO recipients:** spend available Lieutenant Orders only when their actual rules/profile permit.
+  - **Zeta Lieutenant:** requires CoC planning, Engineer access, and protection from Immobilized/Isolated/possession risks; high ARM is not enough.
 
 ### Which pieces earn their points?
 
@@ -75,7 +126,11 @@ These are the *Vanilla* availability and costs in the current reference; Torchli
 | **Kyttä / FuzzBot / Dikpala REMs** | **Kyttä 7**: mobile Mimetism (-3) Flash Pulse and Repeater. **FuzzBot 8/14/17**: Baggage+Repeater, EVO, or cheap TR combi respectively. **Dikpala 13 Repeater/15 Paramedic**: mobile mimetic objective/network pieces, plus inexpensive alternate guns. | Kyttä's BS8 is a deterrent, not attack. EVO needs a specific program/use. FuzzBot TR-combi is controversial versus Peeler. Dikpala's expensive weapon options should solve a matchup, not duplicate your heavy gun. |
 | **Moonraker / StormBot / Millicent REMs** | **Moonraker 14/15**: FD(+20), one-use camo, shotgun/adhesive and mines delay a push; **StormBot HRL 31** is a compact 2-STR rocket/Reptr threat; **Millicent** is a guided threat that can punish *established* Targeted states through a proper Spotlight network. | Moonraker will not win sustained gun duels; StormBot spends 1.5 SWC and competes with Wrecker/Gamma; Guided is not free value without targets, legal Orders and protection. **FTO** wording on StormBot is not itself Vanilla Fireteam permission. |
 
-**TAG/REM package checks:** Zeta/Wrecker + engineer + safe ancillary Zetbot routes; Cyberghost + repeater(s) + FuzzBot if Pitcher resupply is actually valuable; Oko TA + Moonraker/Peeler for mission tempo and early defense. The **Wrecker Zetbot and Zeta Zetbot are *Ancillary***, not independent Order generators. Do not confuse those with standalone RoadBots/Oko/Dikpala or the **Firebat Vehicle**.
+**TAG/REM package checks:**
+- **Zeta or Wrecker:** coordinate an Engineer, protection and a safe route for the **ZetBot Ancillary**. Neither TAG's ZetBot generates an independent Regular Order.
+- **Cyberghost:** invest in Repeaters and **FuzzBot Baggage** only when Pitcher reloads support a real hacking plan.
+- **Oko Tactical Awareness + Moonraker / Peeler:** mission tempo paired with early defensive tax.
+- **RoadBot / Oko / Dikpala:** standalone REM roles, distinct from a TAG's Ancillary; the **Firebat** is a Vehicle, not a REM.
 
 ### Important disagreements — retain both views
 

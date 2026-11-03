@@ -10,11 +10,46 @@
 
 ### Starmada in five decisions (the "why")
 
-1. **Start with the link's job, then buy its members.** Starmada trades Vanilla O-12's Gamma/Omega/Wrecker/Moonraker options for a **Security Core**, Betatroopers, Bronzes, Nyokas, Road Duos and distinctive command/CC tools. Its good but relatively expensive 20–40+ point models can leave too few Orders if you buy every toolbox. Decide first whether the list's main plan is **Bronze/Security fighting**, **Betatrooper mobility**, **Hector/Nyoka combined arms**, or a **Zeta-centric TAG**.
-2. **Security is the adjustable economy/defense Core.** A legal Security Haris/Core needs **at least one Kappa or Bluecoat**. Cheap Kappas, Bluecoats' Sixth Sense/Discover/glue, Raveneye mines and optional PSI-Cop/Vidocq/Jackboot/Bronze/Parvati pieces create defensive depth without committing five expensive HI. Retain the right Kappa/Bluecoat source member after casualties; do not infer access from Wildcard/FTO alone.
-3. **Put *mobility* where it saves Orders.** Betatroopers and Sekudroids share **Climbing Plus + Remote Presence**; Betatrooper+Sekudroid or Betatrooper+Epsilon teams get a dangerous rifle/specialist to the right angle while the second model contributes adhesion/ARO/repairable structure. Separately, the **RoadBot/Oko Duo** makes a 20–24pt fast Paramedic plus a 15/18pt Sensor/FO/Repeater a small objective package. Route around towers/walls, not into an opponent's prepared ARO lane.
-4. **Nonlethal control creates the attack.** Bluecoat Heavy Riotstopper/adhesive, Sekudroid adhesive, a Bronze's E/M/para CC, Raveneye E/M mines, Cyberghost's Pitcher/HD+ White Noise, Shona/Varangian smoke, and Šarko mines/WildParrot can **force Dodges, Resets and movement** before a premium weapon commits. Stacking several complementary threats is stronger than repeating a single gun at every defensive piece.
-5. **Protect mission capacity after the fighting piece falls.** Starmada has useful specialist options but limited very cheap Regular bodies and lacks Vanilla's Moonraker mine layer. Budget a backup scoring lane (Oko, RoadBot, Šarko, cheap Kappa/PSI-Cop) and defenses rather than relying on one 60–73pt hero/TAG. The 2026 comparative review's chief objection is exactly this *opportunity cost*.
+1. **Start with the link's job, then buy its members.** Starmada's 20–40+ point units can starve an army of Orders. Choose a primary plan before buying every toolbox:
+   - **Security Core:** economical defense and Order support.
+   - **Betatroopers / Sekudroids:** climbing mobility and specialist delivery.
+   - **Bronzes / Nyokas:** heavier assault and lane control.
+   - **RoadBot + Oko Duo:** objective mobility.
+   - **Hector:** command and combined-arms package.
+   - **Zeta:** TAG-centric strategy.
+   
+   These replace Vanilla-specific **Gamma, Omega, Wrecker and Moonraker** options; do not import those unavailable units.
+2. **Security is the adjustable economy/defense Core.** A legal Security Haris/Core must retain at least one **Kappa or Bluecoat** source member. Build layers from eligible options:
+   - **Kappas:** cheap Regular Orders and specialists.
+   - **Bluecoats:** Sixth Sense, Discover and glue.
+   - **Raveneye:** mines and deployment-zone control.
+   - **PSI-Cop / Vidocq / Jackboot:** optional technical, visor and shooting roles.
+   - **Bronze / Parvati:** premium push or recovery.
+   
+   Do not buy five expensive HI by habit or infer eligibility solely from a Wildcard/FTO label.
+3. **Put *mobility* where it saves Orders.** Spend movement efficiencies on scoring or favorable angles:
+   - **Betatrooper + Sekudroid:** Climbing Plus/Remote Presence mobility with adhesive/ARO support and a repairable structure.
+   - **Betatrooper + Epsilon:** alternative team when the MSV gun opens the route.
+   - **RoadBot + Oko Duo:** 20–24pt fast Paramedic with a 15/18pt Sensor/FO/Repeater for objective reach.
+   
+   Route around towers and walls, not through prepared enemy ARO lanes.
+4. **Nonlethal control creates the attack.** Combine different disabling threats to force Dodges, Resets and inefficient movement:
+   - **Bluecoat:** Heavy Riotstopper / adhesive.
+   - **Sekudroid:** adhesive threats.
+   - **Bronze:** E/M and PARA close combat.
+   - **Raveneye:** E/M mines.
+   - **Cyberghost:** Pitcher and HD+ White Noise.
+   - **Shona / Varangian:** smoke and close-range pressure.
+   - **Šarko:** mines and WildParrot.
+   
+   These are complementary setup pieces; repeating one premium gun is not equivalent.
+5. **Protect mission capacity after the fighting piece falls.** Starmada has fewer cheap Regular bodies than Vanilla and no Moonraker Minelayer. Plan a backup scoring lane rather than relying on a 60–73pt hero/TAG:
+   - **Oko:** economical Sensor/FO.
+   - **RoadBot:** mobile Paramedic.
+   - **Šarko:** camouflaged midfield specialist.
+   - **Kappa / PSI-Cop:** alternate mission support.
+   
+   The June 2026 comparative criticism focused on this opportunity cost and the need to protect your surviving Orders.
 
 ### Practical Fireteam packages (verify exact source restrictions in the linked authoritative reference)
 
@@ -42,7 +77,11 @@
 
 ### TAG, Vehicle and *all* REMs in Starmada
 
-**Roster boundary:** Starmada has the **Zeta TAG** and **Firebat Vehicle**, but **not** the Wrecker TAG, StormBot, Moonraker or Gamma from other O-12 lists. Shared O-12 commentaries on the Zeta/Firebat/Oko/RoadBot/Peeler still apply tactically; parent-faction/other-sectorial AVA and Fireteams **do not**.
+**Roster boundary (current Starmada options):**
+- **Available flagship:** Zeta TAG.
+- **Available Vehicle:** Firebat.
+- **Not available:** Wrecker TAG, StormBot, Moonraker or Gamma from other O-12 rosters.
+- **Shared tactical comparisons:** Zeta, Firebat, Oko, RoadBot and Peeler insights may transfer; other armies' AVA and Fireteam permissions never do.
 
 | Platform (current Starmada profile) | Why / operating role | Tradeoff and support |
 |---|---|---|
@@ -60,7 +99,11 @@
 **Practical platform shells:**
 - **Zeta shell:** Zeta Lt/NCO + Ment/Cho CoC when appropriate + Lambda/Parvati/Yudbot engineering + cheap Road/Oko scorer + denial pieces. Challenge: too many points in support for one TAG; do the Order math first.
 - **Mobility shell:** Beta Spitfire/KHD + **one Sekudroid** (or linked Epsilon for MSV problem) and a separate RoadBot/Oko Duo; obstacles become alternate routes, not dead ends.
-- **Network shell:** Cyberghost HD+ Pitcher + 7pt Kyttä / 15–18pt Oko / 8pt FuzzBot Baggage + separate hacker/KHD cover and optional Millicent. Challenge: the network only matters if a Spotlight/White Noise/Oblivion route is valuable for the mission.
+- **Network shell:** use only network elements that create a relevant Spotlight / White Noise / Oblivion route:
+  - **Cyberghost HD+ Pitcher:** establishes active projection.
+  - **Kyttä (7), Oko (15–18), FuzzBot Baggage (8):** distinct Repeater or reload infrastructure.
+  - **Separate Hacker/KHD protection:** protects the investment.
+  - **Millicent (optional):** Guided follow-through if the list can reliably produce Targeted.
 - **Cheap defense shell:** 13–17pt Bluecoats and 12pt Raveneyes near objectives + 19pt Peeler; avoid standing a 40+pt Bronze in an easy long-range ARO unless that trade is intentional.
 
 ### Real disagreements, with reasons

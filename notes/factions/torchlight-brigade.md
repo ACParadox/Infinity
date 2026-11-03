@@ -10,11 +10,44 @@
 
 ### Why Torchlight succeeds — and why it disappoints
 
-1. **Pay for an attack plan, not for all the heavy infantry.** Torchlight has outstanding *individual* tools (Silverstar Prime, Wrecker, Waverider, Moonraker, Hippolyta, Kludger) but only a thin supply of truly cheap Regular Orders. A stack of Silverstar Rovers, Jamie, Prime and Wrecker may look intimidating and still be outactivated. Begin with **one reliable long-range gun**, one compact supporting team, a midfield scoring plan and enough surviving Orders to finish missions.
-2. **The faction's distinct identity is a layered middle, not a five-HI Core.** Two 14–15pt Moonrakers, one or two 27–29pt Striders, Raveneye mines, a 9/15pt Beasthunter and hacking repeaters can **pre-place uncertainty and delay**. The expensive attack piece then shoots a hole; the remaining midfield units score after the enemy spends Orders clearing mines and Camo. This is the positive *why* behind the 2024 tournament-winning construction.
-3. **Treat an efficient Silverstars team as an assembled toolkit.** A **Hellblazer (18–19)** supplies the compulsory native source cheaply, a **Waverider (20–23)** supplies Pitcher/hacking, and a **Vidoc FTO MSV1 sniper (26)** or **PSI-Cop (26–30)** supplies actual gunfighting. This uses the sectorial's Fireteam access without buying several expensive Silverstar Rovers just to make the same link.
-4. **Spend the extra Lieutenant Orders purposefully.** Raveneye **17pt Lt (+1 Order)**, Jamie Handler/Rover Lt (+1 Order) and NCO recipients (Strider, Vidoc, Jackboot, Sonya, Firebat, Jamie) can make an apparently smaller pool play bigger. Include **Ment CoC (14–20)** when the Lt is exposed: a lost Lt can undo the entire economy advantage. NCO orders are not an excuse to spend all Orders on gunfighting rather than objectives.
-5. **Hackers enable difficult approaches, but do not magically fix the army's shooting costs.** Waverider **Pitcher + upgraded Oblivion/Trinity**, Kappa/PSI-Cop/Ment hackers, Kyttä/Oko/Fuzz repeaters and StormBot's Repeater force armor and hacker decisions; the **Disco Baller** on a Kludger engineer or PSI-Cop KHD offers visibility control. However, unlike Vanilla O-12, **Torchlight lacks the Cyberghost HD+ White Noise/Pitcher package**. Do not silently borrow Vanilla's hacking coverage.
+1. **Pay for an attack plan, not for all the heavy infantry.** Torchlight has few truly cheap Regular Orders. Choose one main gun, compact support, mission coverage and a viable late-game Order pool:
+   - **Silverstar Prime / Wrecker:** competing premium long-range or armor-breaking guns.
+   - **Waverider:** linked hacking and network projection.
+   - **Moonraker:** cheap delayed midfield control.
+   - **Hippolyta:** smoke and assault.
+   - **Kludger:** technical support.
+   
+   Adding multiple **Silverstar Rovers**, **Jamie**, **Prime** and **Wrecker** at once can leave the list outactivated.
+2. **The faction's distinct identity is a layered middle, not a five-HI Core.** Pre-place uncertainty and delay with:
+   - **Moonraker:** two 14–15pt early threats.
+   - **Strider:** one or two 27–29pt infiltration/mission pieces.
+   - **Raveneye:** mines and defensive control.
+   - **Beasthunter:** 9/15pt cheap screen.
+   - **Repeaters:** protect or extend the hacking corridor.
+   
+   The expensive attack piece opens the lane and the surviving midfield tools score after the opponent spends Orders clearing Camo and mines. This is the positive lesson from the 2024 tournament-winning construction.
+3. **Treat an efficient Silverstars team as an assembled toolkit.** Use the faction's legal team access without automatically purchasing several Rovers:
+   - **Hellblazer (18–19):** inexpensive compulsory native team source.
+   - **Waverider (20–23):** Pitcher and Hacking Device support.
+   - **Vidoc FTO MSV1 Sniper (26):** linked range and visor option.
+   - **PSI-Cop (26–30):** alternative specialist/attacker.
+   
+   These are role options, not a claim that every combination is legal; follow the canonical chart.
+4. **Spend the extra Lieutenant Orders purposefully.** Match your command source and NCO recipients:
+   - **Raveneye Lieutenant (17):** +1 Lt Order.
+   - **Jamie Handler/Rover Lieutenant:** +1 Lt Order on the legal chosen version.
+   - **Strider / Vidoc / Jackboot / Sonya / Firebat / Jamie:** possible NCO routes by selected profile.
+   - **Ment CoC (14–20):** succession protection if the Lieutenant is exposed.
+   
+   **Prime Lieutenant (53)** is a hard gunfighter **without Lt (+1 Order)**; **Sonya Lieutenant (28)** provides +1 SWC, **not** an additional Lt Order. NCO stops paying off if its source or recipient is lost, and Orders still need to fund objectives.
+5. **Hackers enable difficult approaches, but do not magically fix the army's shooting costs.** Assign distinct roles:
+   - **Waverider:** Pitcher, upgraded Oblivion/Trinity.
+   - **Kappa / PSI-Cop / Ment:** eligible Hacker profiles and local defense.
+   - **Kyttä / Oko / FuzzBot:** Repeater coverage.
+   - **StormBot:** tougher Repeater platform.
+   - **Kludger Engineer / PSI-Cop KHD:** available Disco Baller visibility package by selected profile.
+   
+   Unlike Vanilla O-12, Torchlight **does not have the Cyberghost HD+ White Noise/Pitcher package**. Do not import that capability.
 6. **Two competing overall assessments matter.** Tactical Awareness S3 Ep28 emphasizes how much control, hacking, defensive geometry, and mission coverage Torchlight can combine. [Robert Shepherd's June 2025 dedicated review](https://www.youtube.com/watch?v=PZKCQAupCMs) and his [June 2026 review with Jordan](https://www.youtube.com/watch?v=1dW3i9dpI34) argue the roster has too many merely *fairly priced* units, with expensive Silverstars/Yellowjackets and fragile attack plans. **Both** are plausible: competent list filtering makes the sectorial more competitive than buying its most thematic models indiscriminately.
 
 ### Fireteam modules (all checked against the *current* N5.3 chart)
@@ -29,7 +62,13 @@
 | **Small Silverstars / reactive link:** Hellblazer + Waverider + Vidoc/PSI/StormBot FTO | Can split defense across the table; Rocket ARO, Pitcher coverage and specialist order income without requiring a full 5-model HI Core. | StormBot Wildcard is **options 2/3 only**; option 1 HRL(+1B) **cannot** join. Vidoc Wildcard **options 1/2/3**, Jamie Rover **options 1/3 and Silverstars-only**, Sonya **Silverstars-only**; Hippolyta **Silverstars/Mobility only**. |
 | **Solo Silverstar Prime with separate small link** | **53pt BS14, ARM5/BTS9, MSV1, HMG, Tactical Awareness** is more reliable at *winning* FtF rolls than Wrecker; it clears sightlines for cheaper linked hackers/specialists. Can take the Lt variant when defense/CoC makes sense. | **Prime has NO Fireteam access in current Torchlight**, notwithstanding its name and **older N4 discussions**. Do not rely on linked extra Burst/BS or transplant a pre-N5 build. |
 
-**Commander option comparison:** Raveneye Lt (+1 Order) with Ment CoC turns **Strider NCO** and/or **Vidoc NCO** into strong specialists/shooters; Jamie Lt (+1 Order) costs 49 and can spend Orders aggressively but puts 49pts and command in harm's way; Prime Lt 53 is a hard gunfighter **without Lt (+1 Order)**; Sonya Lt 28 offers **+1 SWC, not an extra Lt Order**. Select based on which Lt Orders your list can actually exploit; NCO stops being useful if its recipient dies/gets disabled or its command source fails.
+**Commander option comparison:**
+- **Raveneye Lt (+1 Order) + Ment CoC:** supports Strider/Vidoc NCO plans with safer succession.
+- **Jamie Lieutenant (+1 Order, 49 pts):** aggressive Order use, but exposes an expensive command model.
+- **Prime Lieutenant (53):** primary gunfighter **without** Lt (+1 Order).
+- **Sonya Lieutenant (28):** +1 SWC, **not** an extra Lieutenant Order.
+
+Choose according to which additional Orders the rest of the list can use; NCO loses value if the recipient is disabled or command access fails.
 
 ### Standalone mission and support pieces
 
@@ -50,7 +89,11 @@
 
 ### TAG / Vehicle / REM quick decisions — Torchlight **only**
 
-**Roster boundary:** **Wrecker** is the Torchlight TAG (AVA2, may Duo), **Firebat is a Vehicle (VH), not TAG or REM**, and the rest below are remotes or peripherals. **Zeta, RoadBot, Sekudroid and other O-12 machines available in Vanilla and/or Starmada are NOT in the current Torchlight roster**. Vanilla O-12 and Starmada opinions inform *performance*, not these sectorials' availability or Fireteams.
+**Current Torchlight machine roster boundaries:**
+- **Wrecker:** the available TAG, AVA2, with a possible Duo.
+- **Firebat:** Vehicle (VH), not TAG or REM.
+- **Not legal in Torchlight:** Zeta, RoadBot, Sekudroid and other machines available only to Vanilla/Starmada.
+- **Cross-faction commentary:** useful for performance comparison, not proof of this sectorial's availability or Fireteam access.
 
 | Platform, exact N5.3 cost | What the platform does and *why* | Role / trade |
 |---|---|---|
@@ -66,10 +109,27 @@
 | **Yudbot servant REM — 3/0 (AVA2)** | Extends **Lambda/Kludger/other compatible Doctor-Engineer support** across the table where permitted; keeps repair/rescue specialists behind the front and lets TAG/HI investment recover. | **Peripheral (Servant), not an independent Order**. Do not confuse it with the Wrecker's included **ZetBot Ancillary** (a separate scoring tool tied to the TAG). |
 
 **Model-independent machine packages:**
-- **Ranged attack + scoring:** **Prime (53)** *or* **Wrecker HRL (51)** + two Moonrakers + Strider NCO + cheap backup scorer. Select Prime when facing strong Mimetism/visors/ARO FtF; Wrecker when AP template and the ZetBot's specialist reach solve the mission.
+- **Ranged attack + scoring:** choose the primary attack and complement it with an inexpensive mission screen:
+  - **Silverstar Prime (53):** favored into strong Mimetism/visor/ARO Face-to-Face battles.
+  - **Wrecker HRL (51):** favored when AP templates and ZetBot specialist reach matter.
+  - **Two Moonrakers:** pre-placed defense.
+  - **Strider NCO and cheap backup scorer:** objective reach after the fight.
 - **TAG rescue:** Wrecker + Kludger Engineer **Wreckers Duo** + 8pt FuzzBot + Yudbot/Lambda where support-legal. Don't spend a second full repair suite automatically; test whether the TAG's route actually benefits from one.
-- **Camo/hacking net:** two Moonrakers / one Strider Minelayer or repeater / Kyttä / Oko + Waverider HD/KHD Pitcher + possibly StormBot Repeater and a FuzzBot Baggage supply. **Moonrakers aren't repeaters**; a Camo screen and a hacking screen complement rather than duplicate each other.
-- **Defensive cheap screen:** 12pt Raveneye E/M Mine + 14–15pt Moonraker(s) + 19pt Peeler and a legal Silverstars cheap anchor. Opponent cannot remove one firing lane without committing to mines, Cyber/EM control and possible glue.
+- **Camo/hacking net:** combine separate concealment and repeater layers:
+  - **Two Moonrakers:** Camo/mine speed bumps, **not Repeaters**.
+  - **Strider Minelayer or Repeater:** the selected profile determines its contribution.
+  - **Kyttä / Oko:** Repeater coverage.
+  - **Waverider HD/KHD Pitcher:** active hacking-network projection.
+  - **StormBot Repeater / FuzzBot Baggage:** optional network extension and refill.
+  
+  A Camo screen and a hacking screen complement rather than duplicate each other.
+- **Defensive cheap screen:** layer individually inexpensive threats:
+  - **Raveneye (12):** E/M Mine control.
+  - **Moonraker (14–15):** midfield delay.
+  - **Peeler (19):** long-lane ARO.
+  - **Legal cheap Silverstars anchor:** team-based backup defense.
+  
+  Opponents must solve mines, Cyber/E/M control and glue rather than clearing one firing lane.
 - **Airborne disruption:** Yellowjacket specialist after the main shooter opens a landing lane; prefer a clearly identified classified/backfield objective over attempting to shoot down long-range defenses with its SMG.
 
 ### Contested judgments — *both* views and decisive circumstances
