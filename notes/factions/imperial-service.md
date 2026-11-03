@@ -4,6 +4,39 @@
 
 **Reference archive:** [Imperial Service source recordings, cross-references, battle reports and purchasing audit](references/imperial-service_refs.md).
 
+## Overview
+
+**What Imperial Service does especially well:** ISS combines very cheap Regular Orders, premium command/deployment control, normal Smoke plus MSV2, and numerous ways to disable rather than simply shoot enemy pieces. Its strength is combining *different* tactical answers without committing every Order to one heavy gun.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official rankings, measured win rates, or claims that a troop is top-ten *overall*. **Apex** measures peak impact in the named job; **value** accounts for points, SWC and Order cost. Cross-faction comparisons: [command](../list-building/command-units-apex-and-value.md), [Order generation](../list-building/cheerleaders-and-order-generators.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [active guns](../list-building/active-turn-gunfighters-apex-and-value.md).
+
+| Whole-game role shortlist | Unit / exact package | Exceptional value or capability; limits |
+|---|---|---|
+| **Top 3 candidate — low-cost five-Regular-Order Core (value)** | **4 × Kuang Shi 6/0 + Celestial Guard Monitor 13/0.5 = 37/0.5** | One of the standout five-body Order/Smoke/Chain Rifle packages. A Morat Oznat/Gaki package is cheaper on raw price; the Monitor must survive, and five slots plus the sole Core are committed. |
+| **Top 5 candidate — premium command/deployment apex** | **Sun Tze Strategos L2 LT 53/0** | WIP17, Decoy(2), Counterintelligence and Strategos L2 give unusual reserve, deception and command control. LT(+1 Order) and LT(+1 Command Token) are different profiles. Expensive, not a primary gun. |
+| **Top 10 candidate — airborne Repeater delivery (value)** | **Jīnyào 18/0 Deployable Repeater** | **A+ apex / S value** in the network analysis: Combat Jump/Parachutist enables an unexpected node with Adhesive/Riotstopper follow-up. The REM must arrive, survive, and **spend an Order to place** the Repeater. |
+| **Top 10 candidate — mobile anti-heavy/Pitcher network (value)** | **Fēiquán E/M Carbine(+1B) + Pitcher 28/0** | Sensor, aerial mobility and Mimetism(-6) create strong **A+/S network** utility. S7, No Cover and a nonlethal main gun mean it is not an independent lethal opener. |
+| **Top 10 candidate — durable anti-Mimetism HMG (apex)** | **Hsien HMG 49/1.5** | BS14, MSV2 and two-Wound HI durability: **A+** cross-faction long-range gunfighter when backed by normal Smoke. Expensive compared with lighter visor guns. |
+
+**Additional go-to value:** the **Celestial Guard WIP14 Hacker 14/0.5**, **Sù-Jiàn** mobile Remote Presence HI, and **Koga Ninja** concealed E/M/KHD attacker are strong but solve different jobs; do not assign a universal rank solely for their flexibility.
+
+### Particularly strong or unusual Fireteams
+
+- **Kuang Shi Monitor Core:** 2–4 Kuang Shi plus exactly one Celestial Guard Monitor; four Kuang Shi make the full 37/0.5 five-Regular-Order package. **Monitor loss cancels the Fireteam**.
+- **Zhian Duo/Haris:** **Hsien + Bào** or other eligible Zhian combinations provide MSV2 gunfighting, Albedo/Discover coverage and specialist options. Smoke generally comes from **outside** the team; the source's required-choice members still matter.
+- **Wú Míng Core/Haris:** an actual Wú Míng anchors durable AP/HRL/TinBot HI, with **Zhànyīng** network options and **Pheasant** specialist/CoC utility. **Two Haris slots** give ISS unusually flexible smaller-team planning.
+- **ALEPH Support Duo/Haris:** **Deva + Dikpala** offers atypical ALEPH specialist/REM combinations in a Yu Jing army. Choose legal required-choice profiles; the Fireteam chart does not make their equipment interchangeable.
+
+### Unusual access, gaps and trade-offs
+
+- **Projected Eclipse:** **Bayara Disco Baller 18/0** or **Xi Zhuang Disco Baller 21/0** can block even MSV sight. This is distinct from ordinary Smoke and does **not** support shooting through the template.
+- **Smoke + MSV2:** **Celestial Guard/Monitor Smoke GL** supports **Hsien or Bào** conventional Smoke shooting, with separate costs and positioning.
+- **Succession:** **Pheasant** and **Táowù** offer Chain of Command profile choices; **Sun Tze** offers advanced Lieutenant protection and control instead.
+- **Armoured diversity:** **Lóngwáng** is ISS's TAG, **Fēiquán** its vehicle (VH), and **Sù-Jiàn** a Remote Presence **HI**, not a TAG. **Gūijiă and Blue Wolf** are not ISS main-roster TAGs.
+- **Opportunity cost:** a full Kuang Shi Core rules out a simultaneous Wú Míng/Celestial Guard Core; do not mistake broad E/M, Adhesive and hacking access for unlimited Orders to exploit every system.
+
 ## Tactical tags
 
 Derived analysis aids, not official characteristics.

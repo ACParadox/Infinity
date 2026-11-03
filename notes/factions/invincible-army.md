@@ -4,6 +4,39 @@
 
 **Reference archive:** [Invincible Army source recordings, cross-references, battle reports and purchasing audit](references/invincible-army_refs.md).
 
+## Overview
+
+**What Invincible Army does especially well:** IA stacks **Tactical Awareness, LT-to-NCO Order use, multiple-Wound heavy infantry, strong long-range/ARO shooting, and protected HI Fireteams**. Its distinctive trade-off is that expensive Hackable pieces can dominate combat yet leave insufficient independent scoring and midfield protection if the list overconcentrates.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits |
+|---|---|---|
+| **Top 3 candidate — durable reactive HI Missile Launcher (apex)** | **Yān Huǒ Neurocinetics(+1B) ML 42/1.5** | **S-tier ARO**: BS14, ARM5, two Wounds and strong reactive Missile output. The **non-FTO Neuro** profile is not the separately linkable **FTO ML(+1B)** variant. S5 and no native visor/Mimetism constrain placement. |
+| **Top 5 candidate — camouflaged LT/NCO engine (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command economy**: a concealed LT with two LT Orders for eligible NCO spenders. Those are **not** interchangeable pooled Regular Orders; the recipient must be able to exploit them. |
+| **Top 5 candidate — Hidden heavy HMG (apex)** | **Hac Tao NCO HMG 59/1.5** | **S/A+ long-range gun** with BS14, Hidden Deployment, Mimetism(-6), ARM5 and two Wounds. Expensive and Hackable. Do **not** import an MSV claim from conflicting older gunfighter notes; the pinned IA profile does not list it. |
+| **Top 10 candidate — 0-SWC anti-hacker/Repeater (value)** | **Hǎidào KHD + Pitcher 22/0** | **S-tier hacker value**, scoring and ranged network projection inside a suitable HI team. Hǎidào Engineer/MSV2 Sniper/CoC are **different** profiles. |
+| **Top 10 candidate — concealed anti-HI cheap defence (value)** | **Gūdǎn SMG + Zapper 12/0** | Forward Deployment(+10), one-use Camo and E/M direct template with **A+ apex / S value**; the Shock Mine is carried, **not** a free Minelayer placement. |
+
+**Other notable roles:** **Shàng Jí AP HMG/TinBot** makes a strong protected team gun; **Mówáng NCO + Disco Baller** combines Order use and lane denial; **Zhēnchá** provides independent Infiltrating mission access. These are not one combined troop profile.
+
+### Particularly strong or unusual Fireteams
+
+- **Invincible Core/Haris:** an eligible **Zúyǒng or Shàng Jí** foundation, with **Hǎidào KHD/Pitcher** and a legal **Yān Huǒ FTO ML**, **Rui Shi**, or specialist Wildcard, creates a durable gun/hacking/scoring module. The Neurocinetics Yān Huǒ is *not* the linkable FTO; respect the current chart's required-choice flags.
+- **Shock Duo:** selected **Mówáng/Gūijiă** options give independent armoured move-together pressure. The Army chart's unusual required-choice/minimum fields are not permission for arbitrary pairings.
+- **Forward Duo:** **Húláng FTO-2 + optional Krit Kokram FTO-2** can combine forward attack and Engineer utility; **no Wildcards** can join this family.
+- **Structural flexibility:** one Core, one Haris and unlimited legal Duos, rather than a compulsory all-HI five-member team.
+
+### Unusual access, gaps and trade-offs
+
+- **Exceptional reactive fire:** **Yān Huǒ Neuro ML** works as an independent ARO; the **FTO ML** has a separate team-oriented role.
+- **Disco/Eclipse route:** **Mówáng Disco Baller** profiles can block a dangerous line, but IA does not have a cheap **Shaolin-style conventional Smoke** warband engine.
+- **HI hacking defence:** **TinBots, Hǎidào KHD/Pitcher, EVO Pangguling and Engineers** are consequential; a Firewall in one team does not cover solo HI elsewhere.
+- **TAG/VH limits:** **Gūijiă AVA2** is the **only** standard IA TAG family; **no VH** appears. **Sù-Jiàn and Fēiquán are unavailable** in IA's main roster.
+- **Main structural weakness:** high average troop costs and hacking exposure. Spend on real objectives and lane screens as well as elite guns.
+
 ## Tactical research — Invincible Army N5 (2026-10-22)
 
 > **Interpretive tactics, not authoritative profile data.** Use the N5.3 roster and canonical Fireteam chart above (Army version 7.26246.158, 2026-09-03) whenever a speaker describes older options or values. The dedicated N5 sources below date to Jan–Nov 2025. The Robert Shepherd *Invincible Army* faction-focus video is **N4, June 2024**, not N5, and is retained only as historical dissent. Auto-transcripts sometimes mishear unit names.

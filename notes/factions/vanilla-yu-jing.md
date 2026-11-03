@@ -4,6 +4,41 @@
 
 **Reference archive:** [Vanilla Yu Jing source recordings, cross-references, battle reports and purchasing audit](references/vanilla-yu-jing_refs.md).
 
+## Overview
+
+**What Vanilla Yu Jing does especially well:** Vanilla combines **independent elite HI, broad Camo/Hidden Deployment, inexpensive screening, efficient LT/NCO Orders, multiple TAG and VH roles and functional REM specialists** without forcing a single Fireteam architecture. Its advantage is buying very different threats from the Yu Jing catalogue to work on separate flanks, rather than expecting a five-model Core to solve everything.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
+
+| Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits |
+|---|---|---|
+| **Top 5 candidate — Hidden premium HI HMG attack (apex)** | **Hac Tao NCO HMG 59/1.5** | **S/A+** cross-faction gunfighter: BS14, Hidden Deployment, Mimetism(-6), ARM5/two Wounds and meaningful long-range damage. Hackable and expensive; do **not** assume MSV from contradictory older summaries without checking the pinned profile. |
+| **Top 5 candidate — concealed cheap LT/NCO engine (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command efficiency** from a camouflaged LT and two LT Orders. Requires a useful legal NCO recipient; personal LT Orders are not pooled Regular Orders. |
+| **Top 10 candidate — inexpensive Regular E/M screen (value)** | **Gūdǎn SMG + Zapper 12/0** | **A+ apex / S value** forward Camo(1 Use) plus short E/M direct template. Its Shock Mine is carried, not placed for free. |
+| **Top 10 candidate — rapid cheap Regular Order (value)** | **RacerBot Mk-I 9/0** | **A-tier** cheap Order piece with MOV20-10 and practical control instead of passive filler. Fragile, Hackable; unlike an **OSS Pilot-X's peripheral RacerBot**, this is a standalone vanilla roster unit. |
+| **Top 10 candidate — Sensor/FO/Repeater mission REM (value)** | **Wèibīng 14/0** | **S-tier** reusable Sensor, Forward Observer and Repeater at low cost. The 17/0 Tactical Awareness version is a distinct upgrade; a one-STR REM can be cleared. |
+| **Top 10 candidate — long-angle E/M/Pitcher VH (value)** | **Fēiquán 28/0** | Strong **A+/S** network projection through Aerial movement, Sensor and a Pitcher. S7/No Cover and nonlethal primary gun require an actual follow-up shooter or hacker. |
+
+**Other especially useful options:** **Sù-Jiàn** is fast, durable Remote Presence HI rather than a TAG; **Zhēnchá/Guìláng/Dàofěi** give distinct midfield marker-specialist choices; **Sun Tze** buys a premium alternative command plan to Dāoyīng. Their strengths are role- and mission-dependent, not a single combined loadout.
+
+### Particularly strong or unusual Fireteams
+
+- **FT-02 Haris — Zúyǒng + Zúyǒng + Dokkaebi:** a smaller HI/Spotlight/Pitcher team without a five-model Core. Use the exact vanilla FT-02 profiles, not White Banner bonuses.
+- **FT-01 Duo — Mówáng + Hǎidào:** mobile NCO/Disco pressure beside a selectable KHD/Pitcher or Engineer support piece; Hǎidào does **not** carry every version's equipment together.
+- **FT-01 Duo — Sù-Jiàn / Gūijiă / Blue Wolf with an eligible partner:** useful for moving heavy guns and specialists together; only combinations permitted by the chart count. **Lóngwáng and Fēiquán are not linkable in Vanilla.**
+- **Distinctive restriction:** **no Core**, only **one Haris and two Duos**; **Johnny Kao** is the only main-force global Wildcard. Vanilla is not an unlimited-Duo sectorial.
+
+### Unusual access, gaps and trade-offs
+
+- **Broad heavy platforms:** **Gūijiă TAG AVA2, Blue Wolf TAG AVA1, Lóngwáng TAG AVA1** and **Fēiquán VH AVA1** span different roles. More TAG families do not imply universal TAG superiority.
+- **Separate Remote Presence HI:** **Sù-Jiàn** is powerful mobile HI/repair utility, **not** a fourth TAG.
+- **Smoke, MSV and Disco:** **Shaolin normal Smoke** enables **Rui Shi/Hsien** visor shooting; selected **Mówáng Disco Baller** provides a different projected Eclipse lane denial. Keep the equipment and Orders separate.
+- **Succession:** a legal **Pheasant CoC** profile can protect aggressive Lieutenant play; **Sun Tze** offers a distinct expensive command architecture.
+- **Main limitation:** no sectorial Core shooting bonus and substantial hacking risk across independent HI/TAGs. Do not copy White Banner, ISS or IA Fireteam legality into Vanilla.
+- **Source status:** the [canonical Vanilla reference](../../sectorials/yu-jing/vanilla-yu-jing.md) has verified roster/Fireteam coverage but some loadout projections remain partial; recheck exact selected profiles.
+
 ## Transcript-backed tactics — Vanilla Yu Jing N5 (2026-10-22)
 
 > **Interpretive research, not Army data.** The pinned **N5.3 / 2026-09-03** vanilla Army source controls unit availability, AVA, loadouts and Fireteam eligibility. Earlier N5 discussions (mainly April–June 2025) are opinions/strategies, not proof a profile has the same equipment in 2026. This reference remains **status: partial** because full vanilla loadout projections are still outstanding. Do not transplant an identically named Imperial Service, White Banner or Invincible Army profile without checking its *vanilla* projection. Main-force and Daebak Reinforcement charts are separate.

@@ -4,6 +4,40 @@
 
 **Reference archive:** [White Banner source recordings, cross-references, battle reports and purchasing audit](references/white-banner_refs.md).
 
+## Overview
+
+**What White Banner does especially well:** White Banner layers **exceptionally cheap forward E/M/Camo screens**, conventional Smoke, projected Eclipse/Disco, **Albedo against MSV**, and a high-utility mixed **HI/MI Fireteam** able to shoot, hack and score. It often wins by forcing the opponent to solve several different sightline and midfield problems before reaching the expensive team.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits |
+|---|---|---|
+| **Top 3 candidate — cheapest effective Smoke/CC trade (value)** | **Shaolin Chain Rifle + Smoke 5/0** | **S+** cost efficiency: extremely cheap credible Smoke and MA3 close combat. The **6/0 DA CCW** variant is separate; Irregular/Impetuous does not mean a free pooled Regular Order. |
+| **Top 5 candidate — economical three-Regular-Order assault Haris (value)** | **Liang Kai 21/0 + 2 × Shaolin 5/0 = 31/0** | **FT Master(Shaolin)** can turn the two *legally linked* monks Regular at Order Count while Liang Kai attacks. **S-/A+** in the Order-engine comparison; the team and Master must survive. |
+| **Top 5 candidate — all-in-one cyber/missions (value)** | **Dokkaebi KHD + Spotlight + Pitcher 22/0** | **S-tier hacker/specialist value**, 0-SWC Trinity defence plus scoring and Spotlight/Guided support. Spotlight has a saving roll; **HD/Carbonite 23/0.5** is a different anti-heavy profile. |
+| **Top 10 candidate — forward Regular E/M speed bump (value)** | **Gūdǎn SMG + Zapper 12/0** | **A+ apex / S value** from one-use Camo, FD(+10), E/M direct template and a carried Shock Mine. **Not** Minelayer; limited range. |
+| **Top 10 candidate — affordable anti-opponent-MSV (apex/value)** | **Yín-Shé Albedo(-6) 22/0** | **A+** matchup tool, with access to the mixed team. Albedo is **not itself MSV** and gives little advantage if the opponent lacks visors/Marksmanship. |
+| **Top 10 candidate — vertical Pitcher/E/M delivery (value)** | **Fēiquán E/M + Pitcher 28/0** | Aerial/Sensor/Mimetism(-6) create a strong network-angle tool. It is a large, Hackable **S7/No Cover** vehicle, with no standard lethal primary gun on that profile. |
+
+**Further standout access:** **Haetae** brings TacAware/Guided ranged support; **Hwarang Disco Baller** supplies Eclipse routes; **Léi Gōng** combines MSV1, Albedo and Super-Jump for a late counter-visor attack. Choose distinct profiles for these jobs.
+
+### Particularly strong or unusual Fireteams
+
+- **White Banner mixed Core/Haris:** an eligible **Jujak Firewall(-6) + Hwarang Disco + Haetae HRL/Guided/TacAware + Dokkaebi KHD/Pitcher** shell can combine strong guns, hacking defence, Eclipse movement and specialist/Guided pressure. A **Shàng Jí, Jujak, Yě Māo or Yín-Shé** required-choice member satisfies the appropriate chart condition; **not all four** are mandatory.
+- **Shaolin Haris:** **Liang Kai + two Shaolin** creates the 31/0 FT Master assault/Order package. The single Haris slot forces a decision against a mixed White Banner Haris.
+- **Yě Māo / Yín-Shé team:** MSV1/Mimetism guns and **Albedo(-6)** provide a different anti-visor plan from expensive Jujak-heavy links.
+- **Blue Wolf Duo:** **Blue Wolf + legal Shàng Jí** or another Blue Wolf pairs a TAG with an armoured companion; its own eligibility is separate from the mixed Core.
+
+### Unusual access, gaps and trade-offs
+
+- **Smoke and Eclipse:** **Shaolin** has inexpensive *normal Smoke*; **Hwarang Disco Baller** projects Eclipse, which blocks MSV too and is not a smoke-shooting shortcut.
+- **Anti-visor access, limited MSV2:** **Yín-Shé Albedo** and **Léi Gōng MSV1+Albedo** counter visor defenders. **Rui Shi MSV2** can shoot through normal Smoke but is fragile and **unlinked** here.
+- **TAG/vehicle choices:** **Blue Wolf AVA2** and **Gūijiă AVA1** are TAG families, plus **Fēiquán VH AVA1**. The interesting difference is gun ranges and **Blue Wolf Duo**, not that two TAG families is intrinsically rare.
+- **CoC:** **Léi Gōng Chain of Command** is a separate profile from its cheaper FTO attacker.
+- **Fireteam exclusions:** **Son-Bae and Pangguling** FTO names do not make either eligible to join White Banner teams; one Core and one Haris remain hard limits.
+
 ## Tactical research — White Banner N5 (2026-10-22)
 
 > **Interpretation, not replacement Army data.** The canonical N5.3 roster and Fireteam chart below (Army 7.26246.158, September 2026) take precedence over speaker recollections, older points and N4 examples. Opinions are identified by source. In particular, the current White Banner roster has **Blue Wolf TAG (AVA 2), Gūijiă TAG (AVA 1), Fēiquán vehicle/VH (AVA 1)**, and *neither Son-Bae nor Pangguling FTO can Fireteam in this sectorial* despite their FTO names.
