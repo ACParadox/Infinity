@@ -29,6 +29,55 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Related:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Hacking/KHD](../list-building/hackers-and-killer-hackers.md), [Lieutenant orders](../Strategy/lieutenant-and-command-structure.md).
 
+## Overview
+
+**What Vanilla Combined Army does exceptionally well:** present **more different attack and control problems than an opponent can screen at once**—Impersonation, Hidden Deployment, high-end hacking, MSV-through-Smoke, Eclipse, airborne insertion and four very different TAGs. Its identity is *toolbox breadth plus compact mixed teams*, **not** a sectorial-style five-model Core.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
+
+- **Top 5 candidate — TAG combat/command ceiling (apex): Avatar 122/3.** **S apex but only B value** in the [TAG guide](../list-building/tags.md). BS15, Mimetism(-6), ARM9/BTS9, Mnemonica, Strategos L2 and Sepsitor create a near-solo threat. Opponents may attack its scarce cheap Orders and specialists instead of fighting it.
+- **Top 5 candidate — long-range TAG shooting for cost (value): Overdron HRMC 62/1.5.** **S value** in the [TAG rankings](../list-building/tags.md), combining AP HRMC, Albedo, Tactical Awareness and recoverability. **HRL 51/1.5** and **Plasma Sniper 59/1.5** are distinct, situational profiles.
+- **Top 3 candidate — enemy-DZ Impersonation attacker (apex): Speculo Killer BSG 26/1.** **S-tier** in the [DZ/airborne guide](../list-building/airborne-and-enemy-dz-attackers-apex-value.md). Early Monofilament, Smoke and proximity pressure force deployment concessions; good screening can still prevent the desired assassination.
+- **Top 3 candidate — hidden missile ARO (apex): Noctifer ML 30/1.5.** **S-tier** in the [ARO rankings](../list-building/aro-units-apex-and-value.md). Its uncertain location often costs enemy Orders before it reveals; it cannot provide its normal Order while Hidden.
+- **Top 5 candidate — hacking + anti-armor + CC toolbox (apex): Nourkias 48/1.** **S-tier** in the [all-rounder comparison](../list-building/jack-of-all-trades-toolbox-units-apex-value.md). WIP15 Hacking Device, K1, NCO, MA4/Protheion, Super-Jump and NWI offer unusual role breadth, but not at a discount to a simple button pusher.
+- **Top 10 candidate — protected hacker Lieutenant (apex): Anathematic LT hacker 70–74.** **A+** in the [command guide](../list-building/command-units-apex-and-value.md), with WIP16, Camouflage/Mimetism, Trinity and Mnemonica. The LT is **not** automatically entitled to a non-LT Hidden Deployment profile's choices, and its price is substantial.
+- **Outstanding cost-effective enabler:** **Dāturazi Chain(+1B) + Smoke 14/0**, **S-tier** in the [warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md), supplies a useful Regular Order, robust CC threat and the Smoke needed for selected visor gunfire.
+
+### Particularly strong or unusual Fireteams
+
+- **Combined Army Haris/Duo — MSV gun plus robotic/command tools:**
+  - **Vector Operator MSV2 Plasma Sniper:** asymmetric ranged shooting.
+  - **Unidrons:** inexpensive linked gun/mission bodies.
+  - **Nexus:** selected Engineer, Hacker or command support.
+  - **Nourkias, EXO, Base and Void:** additional legal choices in this source family, **not** a claim they all fit together or cost-effectively.
+- **Morat Haris/Duo — mixed direct fire and hacking:**
+  - **Yaogat MSV2:** primary visor shooter.
+  - **Dartok:** hacking/Pitcher.
+  - **Rindak FTO:** legal specialist on the explicitly permitted FTO profile.
+  - **Dāturazi:** supplies normal Smoke **outside** the team; it is not a member of this Vanilla Fireteam.
+- **Overdron Duo — unusually good heavy + utility pairing:**
+  - **Overdron:** mandatory single native TAG.
+  - **Nexus:** Engineer/command partner where selected.
+  - **Nourkias:** alternative hacking/close-combat partner.
+  - It is a **Duo**, so take **one** partner. Onyx's two-Overdron Duo composition does **not** transfer to Vanilla.
+- **Structural caveat:** the pinned Vanilla chart allows **no standard Core, one Haris and two Duos**. Its mixed links support roles and movement, not giant sectorial Fireteam bonuses.
+
+### Unusual access, gaps and trade-offs
+
+- **Several genuinely different visibility answers:**
+  - **Dāturazi:** efficient **Regular normal Smoke**.
+  - **Rasyat:** **Eclipse Grenades** for bypassing even MSV guns from a flank.
+  - **Umbra Legate HD+:** **White Noise** in relevant visor matchups.
+  - **Overdron:** **Albedo(-6)** against enemy MSV, a personal effect rather than a shared Smoke cloud.
+  - **Charontid MSV3 gun profiles:** premium visor shooting. Its **HD+/Sepsitor LT option is a different loadout that does not have MSV3**.
+- **Hidden/infiltration/Impersonation breadth:** **Speculo, Noctifer, Malignos** and other legally selected infiltrating threats impose different screening problems; this breadth is not available to visible Morat/Onyx armies in the same way.
+- **Command insurance:** **Avatar/Anathematic/Charontid Mnemonica**, **Nexus CoC** and **Umbra Legate FTO CoC** permit distinct LT/recovery approaches. **Isolated is not Null** and does not trigger Mnemonica.
+- **Four standard TAG families:** **Avatar, Overdron, Sphinx and Caskuda** (Combat Jump). No distinct standard-roster **VH/Skyhound**, nor **Raicho, Bultrak, Xeodron or Juggernaut** borrowed from sectorials.
+- **Real gap:** unlimited small Fireteams or an efficient cheap Core are not available; an Aspect/TAG/Hidden-heavy roster can lack the flexible Regular Orders and surviving specialists required to score.
+
+
 ## What wins games in Vanilla Combined
 
 **Visibility control (N5.3):**
