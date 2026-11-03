@@ -4,6 +4,38 @@
 
 **Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](references/tunguska_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.
 
+## Overview
+
+**What Tunguska does exceptionally well:** it fields some of Nomads' strongest **hacker quality per point**, backed by excellent Pitcher/Repeater projection, recoverable mobile heavy-infantry teams, efficient Counterintelligence, and serious independent long-range guns. It can win by network control without forcing a Guided missile or TAG into every list.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units-apex-and-value.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
+
+| Whole-game role shortlist | Tunguska unit/profile | Why it stands out; caveat |
+|---|---|---|
+| **Top 3 candidate — versatile forward cyber specialist (apex/value)** | **Mary Problems HD+KHD hybrid, 27/0.5** | WIP14, Mimetism(-6), FD, Climbing Plus and Pitcher with offensive and counter-hacking programs; **S/S** in the cross-faction hacker analysis. Exposure is greater than for a protected backline hacker. |
+| **Top 3 candidate — cheap Counterintelligence/order shell (value)** | **Puppet Master, 11/0** | Very inexpensive Regular Order plus Counterintelligence and an optional remotely controlled defense package. **PuppetBots cost extra** and do not provide their own Regular Orders. |
+| **Top 5 candidate — budget protected HD+ controller (value)** | **Interventor HD+, 18–23/0.5** | WIP15/BTS9, White Noise and optional FastPanda, with a separate KHD profile available. Exceptional behind a projected network; one wound and HD+ does not automatically supply Trinity. |
+| **Top 5 candidate — long-range Pitcher/Repeater projection in a Fireteam** | **Tsyklon FTO Spitfire 26/1 or Feuerbach 29/1** | Native Repeater, Pitcher, X-Visor and legal Tunguska Wildcard access can make reliable long-range network delivery. Costs SWC and requires an actual permitted team. |
+| **Top 10 candidate — sustained infantry HMG gunfighting (apex/value)** | **Kriza Borac HMG, 45/1.5** | BS13, +1B and BS Attack(-3) create dangerous FtF odds without a mandatory full Core. Hackable S5 and expensive compared with cheap trading alternatives. |
+| **Top 10 candidate — affordable premium direct-fire TAG** | **Szalamandra HRMC, 68/2** | BS14/AP HRMC, ARM8/BTS9/3W offer a potent long-lane opener. It is **solo** in Tunguska and has **NCO, not Tactical Awareness**. |
+
+### Particularly strong or unusual Fireteams
+
+- **Hollow Men Core/Haris:** **Hollow Man Pitcher + Hacker/TinBot + Missile or specialist**, with a legal **Perseus** and/or **Kriza** addition. Combines vertical movement, hacking projection and resilient guns, but requires an **outside Engineer**; no Clockmaker/Fiddler in the Hollow Men chart.
+- **Securitate + Interventor + Tsyklon FTO:** protective backline hacker/Repeater with a linked Pitcher gun; legal composition and Wildcard restrictions matter more than taking maximum bodies.
+- **VATRA Duo — Kriza + Kulak KHD/CoC**, or an eligible **Anaconda + partner:** combines premium shooting with counter-hacking, command insurance or TAG mission utility. **Anaconda is not a Hollow Men member.**
+- **Nayemnik/Spetskorp specialist combinations:** conditional **Fiddler FTO**, **Perseus**, **Stempler FTO** and eligible **Raoul FTO** give several small-team architectures, not universal Wildcards.
+
+### Unusual access, gaps and trade-offs
+
+- **Hacking plus visibility:** **Interventor HD+ White Noise** requires useful Repeaters/Pitchers; **Kulak KHD/Disco Baller 20/0** creates a projected Eclipse screen but **does not gain White Noise**; **Perseus/Zondnautica/Denma** provide normal Smoke routes.
+- **Command and defense:** **Puppet Master Counterintelligence** is unusually cheap; **Kulak CoC** protects risky Lieutenants; **Heckler E/Marat or Jammer/FastPanda** threatens an advancing Hackable unit. These are profile-specific choices.
+- **No Corregidor-style Moran start:** Tunguska lacks the **AVA2 infiltrating Moran Repeater+Koala** network; it builds reach through Fireteams, Pitchers, FastPandas and REMs instead. Cheap MSV2 answers are relatively limited.
+- **Heavy/vehicle constraints:** **Szalamandra** is an unlinked HRMC TAG (NCO, not TacAware); **Anaconda** is a VATRA-linkable alternate TAG; **Go-Pod** is a real aerial **VH**. **Gator, Gecko, Iguana, Stigmata and Lizard** are not standard Tunguska options.
+- **Fireteam budget:** one Core, one Haris and unlimited Duos, with actual [Tunguska required-choice chart](../../sectorials/nomads/tunguska.md#canonical-fireteam-chart).
+
 ## Executive recommendation
 
 **Tunguska's main complementary modules:**
