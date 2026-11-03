@@ -2,11 +2,17 @@
 
 **O-12 updated LT decision tree — [Robert Shepherd's Vanilla O-12 faction focus (25–37m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s), reviewed 26 Oct 2026:**
 
-- The **Ment Agent CoC 14/0** is a strikingly cheaper command-insurance option than most of this guide's listed alternatives, enabling **Gamma HMG Lt50/1.5**, **Zeta HRMC Lt70/2** or another fighting Lt without an extreme succession tax.
+- **Ment Agent CoC14/0:** inexpensive succession insurance for aggressive fighting Lieutenants, including:
+  - **Gamma HMG Lt50/1.5**
+  - **Zeta HRMC Lt70/2**
+
+  This avoids the extreme succession tax of more expensive backup options.
 - **Raveneye Lt12/0** (FO + E/M Minelayer) fuels a useful NCO
 - **Alpha Lt24/0** buys Strategos L1, Counterintelligence and a Command Token without making a gunfighter the commander.
 - The video argues for **Zeta Lt70 + Ment** over the **NCO73** by default when the cheap successor is already in the list.
-- This is **Vanilla-specific**: Torchlight's **Raveneye Lt(+1)17** and **Raveneye CoC18** are separate legal loadouts.
+- **Vanilla-specific caveat:** Torchlight has distinct Raveneye loadouts:
+  - **Raveneye Lt(+1)17**
+  - **Raveneye CoC18**
 - Existing Zephyr WIP12 **Ment-not-always-needed** view remains valid for protected LTs, so 'near-must with visible/fighting LT' is more precise than absolute must.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
@@ -20,13 +26,31 @@
 - [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks:
   - **Saladin LT39 with eligible Ghazi/Daylami regularization**
   - **Wallace LT38 versus CoC38**
-  - **Myrmidon Officer LT25–26 versus CoC30–31** and **Machaon/Phoenix** fighter LTs.
+  - **Myrmidon Officer LT25–26 versus CoC30–31**
+  - **Machaon / Phoenix** fighter LTs.
 
 **Religious Troop Inspiring Leadership exclusion** changes the Order economics. This existing guide remains the broader LT/CoC source.
 
 ## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
-**Mission-specialist cross-check:** [N5.3 Button Pusher Apex/Value tiers](mission-specialists-and-button-pushers-apex-value.md) separately ranks **CoC as an objective role** (Farzan, Caliban, Nexus, Magistrate, Raveneye, Kempeitai, Kaeltar) and **actual specialist LTs** (Magistrate, Hatamoto, Barid FO, Vassily FO, Sukeul FO). **CoC (Non Specialist)** does not qualify for Specialist-only mission tasks merely from CoC; **LT alone** is also not an ordinary button-pusher.
+**Mission-specialist cross-check:** [N5.3 Button Pusher Apex/Value tiers](mission-specialists-and-button-pushers-apex-value.md) separately ranks:
+
+- **CoC as an objective role:**
+  - Farzan
+  - Caliban
+  - Nexus
+  - Magistrate
+  - Raveneye
+  - Kempeitai
+  - Kaeltar
+- **Lieutenants with actual specialist profiles:**
+  - Magistrate
+  - Hatamoto
+  - Barid FO
+  - Vassily FO
+  - Sukeul FO
+
+**CoC (Non Specialist)** does not qualify for Specialist-only mission tasks merely from CoC; **LT alone** is also not an ordinary button-pusher.
 
 [Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam chart in this file remain authoritative.**
 
@@ -222,12 +246,31 @@ These alternatives can be better when a **specific required team, gun, hacker or
 - **Haqq/Qapu:** Saladin39 (Vanilla Haqq only) transforms qualifying Irregular Orders; **Hafza19 LT(+1)/20 CoC** are separate, cheaper plans in eligible rosters.
 - **Imperial Service:** Sun Tze53 Strategos2/Decoy vs Hsien fighting LT; Pheasant/Táowù insure succession.
 - **Invincible Army:** Dāoyīng23 LT(+1) with Tai Sheng NCO/CoC or Hǎidào24 CoC; the best use is two extra NCO team activations while LT stays hidden.
-- **ALEPH/Steel Phalanx:** Marut90 Strategos2 + Shukra21 CoC; Hector64–65 Strategos1 + Myrmidon Officer30–31 CoC; choose flexible Orders vs melee/hero risk.
-- **Morat:** Kornak42 Strategos or Sogarat56 active LT, often less mandatory CoC where enough actual Warhorse models remain; **Raktorak25 CoC** still protects more fragile Order infrastructure.
+- **ALEPH / Steel Phalanx:**
+  - **Marut90 Strategos2 + Shukra21 CoC**
+  - **Hector64–65 Strategos1 + Myrmidon Officer30–31 CoC**
+
+  Choose flexible Orders versus melee/hero risk.
+- **Morat:**
+  - **Kornak42 Strategos**
+  - **Sogarat56 active LT**
+  - **Raktorak25 CoC** protects more fragile Order infrastructure
+
+  CoC is often less mandatory when enough actual Warhorse models remain.
 - **Vanilla Combined/Onyx:** EI Mnemonica cannot beat Isolation; **Nexus23 CoC** excellent only in roster-legal pool/Fireteam context.
-- **Torchlight:** Raveneye17 LT(+1), separately Raveneye18 CoC or Ment; actual NCO/linked Order budget required.
+- **Torchlight:**
+  - **Raveneye17 LT(+1)**
+  - **Raveneye18 CoC**
+  - **Ment** as an alternative backup where legal
+
+  Budget for the actual NCO/linked Order economy.
 - **Kosmoflot/Ariadna:** Wallace LT converts Irregular Irmandinhos but not already-Regular Varangian/Denma; **Scots Guard FTO NCO doesn't exist** in pinned Kosmoflot chart. Voronin22 Strategos applies to Vanilla Ariadna.
-- **Tohaa:** Kaeltar21/28 SymbioMate+CoC, Neema36/+1 SWC LT and Taqeul35 LT(+1); count compatible SymbioMate loadout.
+- **Tohaa:**
+  - **Kaeltar21/28 SymbioMate+CoC**
+  - **Neema36/+1 SWC LT**
+  - **Taqeul35 LT(+1)**
+
+  Count the compatible SymbioMate loadout.
 - **JSA:** Hatamoto LT(+1/+1 SWC) benefits greatly from **Kempeitai17 CoC**; active LT risk determines value.
 - **Nomads:** Shifta21 CoC on **Vanilla Nomads roster** doesn't grant it to Corregidor/Bakunin/Tunguska by association.
 

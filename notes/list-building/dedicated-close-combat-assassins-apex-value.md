@@ -11,7 +11,13 @@ Never label him universally unusable merely because he lacks buttons/long-range 
 
 **Protheion and unusual CC delivery companion:**
 
-- [Rare Abilities & Unusual Combinations — N5.3 apex/value](rare-capabilities-and-unique-combinations-apex-value.md) contrasts **Caliban Camo/FD/Protheion**, **Sheskiin gun+Protheion**, **Ko Dali Combat Jump/MSV2/Protheion**, **Rasyat AD+Eclipse**, **Kinnara AD/Eclipse/Monofilament** and **Shikami Eclipse/Climbing+/Super-Jump**.
+- [Rare Abilities & Unusual Combinations — N5.3 apex/value](rare-capabilities-and-unique-combinations-apex-value.md) contrasts:
+  - **Caliban:** Camo/FD/Protheion
+  - **Sheskiin:** gun+Protheion
+  - **Ko Dali:** Combat Jump/MSV2/Protheion
+  - **Rasyat:** AD+Eclipse
+  - **Kinnara:** AD/Eclipse/Monofilament
+  - **Shikami:** Eclipse/Climbing+/Super-Jump
 - Protheion requires legal CC damage/Coup de Grâce against **VITA**, not STR.
 
 *23 October 2026 · cross-game guide for 300-point Infinity N5.3. **Qualitative judgments, not simulated win rates.** Prices, profiles and legal sectorials from [pinned 2026 sectorial references](../../sectorials); the latest current roster wins over older recordings. Rules reviewed: [CC Attack](../../rules/3_Combat/CC_Attacks.md), [Martial Arts](../../rules/5b_Special%20Skills/Martial_Arts.md), [Berserk](../../rules/5b_Special%20Skills/Berserk.md), [Guard](../../rules/5b_Special%20Skills/Guard.md), [Natural Born Warrior](../../rules/5b_Special%20Skills/Natural_Born_Warrior.md), [Protheion](../../rules/5b_Special%20Skills/Protheion.md), [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md), [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md).*
@@ -29,22 +35,44 @@ Never label him universally unusable merely because he lacks buttons/long-range 
   - **Saito Tōgan33/0** substitutes **EXP CCW + T2 Boarding Shotgun + Smoke/Bangbomb** for monofilament, effective against different target types.
 - **Best raw melee dice for the price:** **Miyamoto Mushashi21/0 Irregular** or **25/0.5 Regular FTO** (Ōban), **CC25/MA5/EXP**. Almost unmatched face-to-face price/performance **once contact is made**; no Hidden Deployment or automatic safe entry, and 21pt version's Irregular Order is not interchangeable with Regular.
 - **Best reliable mobile repeated assault:** **Shikami42/0** (JSA/Ōban) — MOV15-5, **Mimetism(-6), Eclipse, Super-Jump, Climbing Plus, Forward Deployment+10, 2W, MA3, AP+DA**, plus **Specialist Operative**. Not as devastating on a pure one-roll Monofilament hit as Shinobu, but reaches, scores and exits more consistently.
-- **Best cheap *delivered* assassin:** **Fiday Boarding Shotgun23/0** (Bahram/Haqq, CC23/MA3, **Impersonation, Smoke, DA**) or **Speculo Killer BSG26/1** (Shas/Combined, **Impersonation, Monofilament, Regeneration**). **Hussein Al-Djabel33/0** raises Fiday reliability / target flexibility with CC23 MA4, WIP15 and **Viral CCW**, Climbing Plus. The Speculo's **1 SWC** and lower WIP14 carry a real cost; not always above cheaper Fiday.
-- **Best anti-elite *midfield* bully:** **Andromeda30/0** (ALEPH/Steel, **Guard + MA3 + Infiltration + NWI + D-Charges**) wins a *distinct* game: project CC **inside LoF+ZoC without base contact**, force poor ARO commitments and retain Specialist utility. **Caliban BSG24/0** (Shas/Combined, **Camo, FD+20, MA3, Protheion**) is cheaper and can snowball on **VITA** targets but not on **STR**.
+- **Best cheap *delivered* assassins:**
+  - **Fiday Boarding Shotgun23/0** (Bahram/Haqq): CC23/MA3, Impersonation, Smoke, DA
+  - **Speculo Killer BSG26/1** (Shas/Combined): Impersonation, Monofilament, Regeneration
+  - **Hussein Al-Djabel33/0**: higher Fiday reliability/target flexibility with CC23/MA4, WIP15, Viral CCW, Climbing Plus
+
+  The Speculo's **1 SWC** and lower WIP14 have a real cost; it is not automatically preferable to cheaper Fiday.
+- **Best anti-elite *midfield* bullies:**
+  - **Andromeda30/0** (ALEPH/Steel): Guard + MA3 + Infiltration + NWI + D-Charges; projects CC **inside LoF+ZoC without contact** and retains Specialist utility
+  - **Caliban BSG24/0** (Shas/Combined): Camo + FD+20 + MA3 + Protheion; cheaper, can snowball on **VITA**, but not **STR**, targets
 - **Best independent full-assault ceiling, not pure assassin value:**
   - **Achilles62/1.5 AP Spitfire / 63/0 Plasma Rifle** (Next Wave) CC24 MA4, 3W, MOV15-10, high BS, EXP CCW
   - **Ajax39/0 FTO or 45/0 FD+20**
   - **Hippolyta37/0**
-  - **Sheskiin48/0** and **Eudoros36/0** can also close fights after shooting/Smoke. A 60pt warrior must generate several impactful actions, not just stab one 15pt defender.
+  - **Sheskiin48/0** — closes fights after shooting
+  - **Eudoros36/0** — closes fights after Smoke
+
+  A 60pt warrior must generate several impactful actions, not just stab one 15pt defender.
 - **Best cost-effective fighting infantry:**
   - **Domaru E/M CCW20/0 or AP19/0**
   - **Teutonic18/0**
   - **Dāturazi14/0 Regular+Smoke**
   - **Makaul14/0 Eclipse + Viral/DA**
   - **Myrmidon16/0 Smoke/Mimetism(-6)/MA3**
-  - **Galwegian5/0** or **Diablo8/0** (cheap Berserk/Trench-Hammer). These are *trade/controller tiers* unless a legal team or geometry provides the approach.
-- **Best Guard bubble/counter-assassination:** **Andromeda30** actively; **O-12 Alpha24** defensively. Guard **requires LoF + ZoC**, *does not* form Engaged at distance and **cannot target a non-Unconscious Aerial troop**.
-- **TAGs are a different category**: **O-Yoroi, Sphinx, other melee-capable TAGs** are not ranked against a 21pt Mushashi or a 29pt Oniwaban. They buy armor, gunfire, STR, Baggage/ancillary and a lot of points; melee is a **fallback/finisher**, not their primary purchased assassination economy.
+  - **Galwegian5/0** — cheap trading role
+  - **Diablo8/0** — Berserk/Trench-Hammer threat
+
+  These are *trade/controller tiers* unless a legal team or geometry provides the approach.
+- **Best Guard bubble/counter-assassination:**
+  - **Andromeda30** — active control
+  - **O-12 Alpha24** — defensive control
+
+  Guard **requires LoF + ZoC**, *does not* form Engaged at distance and **cannot target a non-Unconscious Aerial troop**.
+- **TAGs are a different category:**
+  - **O-Yoroi**
+  - **Sphinx**
+  - Other melee-capable TAGs
+
+  These are not ranked directly against **Mushashi21** or **Oniwaban29**. They also buy armor, gunfire, STR, possible Baggage/ancillary roles and a large points commitment; melee is a **fallback/finisher**, not their primary purchased assassination economy.
 
 **Tiers:** S = exceptional role ceiling/value, A = excellent but some target or approach restriction, B = effective when table/roster suits, C = tactical niche. **Apex** ignores some points pressure to ask how many target types one profile can reach/defeat; **value** counts cost *and the chance/orders of actually arriving*. Tier scores are **editorial** and never imply a universal percent chance to kill a TAG.
 
