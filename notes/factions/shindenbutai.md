@@ -100,10 +100,32 @@ The modular, mixed-technology ecosystem matters more than a universal five-model
 ### Unusual access, missing tools and meaningful weaknesses
 
 - **Projected Eclipse but not general-purpose Eclipse Grenades:** **Tanuki Hacker's Disco Baller** creates an **Eclipse template** that blocks even MSV sight, unlike normal Smoke. It is **Disposable (2)**, requires successful placement and uses **Disco Ball activation/deactivation rules**; Shinden is *not* Ōban with Shikami's self-carried Eclipse. Use it to deny a superior firing lane or deliver a close assault rather than trying to win every FtF.
-- **Normal Smoke + MSV2 is available:** **Motorized Yojimbo 20/0** (or mutually exclusive **foot Yojimbo 19/0**) and **Saito Tōgan 33/0** carry Smoke; **Garon 16/0** can launch Smoke. **Rui Shi MSV2 Spitfire** and **Tanuki MSV2 HMG/sniper** exploit normal Smoke. This is **real access**, but not the mass of cheap Smoke warbands found in some other armies; **normal Smoke does not block MSV in the same way as Eclipse**.
-- **Above-average command safety *and* aggression:** **Metsuke** brings Counterintelligence/Strategos; **Hatamoto** provides NCO and potentially LT(+1 Order) with SWC rebate; **Tanuki CoC 18/0** specifically supports risky attack-LT plans. Do not import Ōban/vanilla-only **Kempeitai CoC** into Shinden.
-- **Unusual combined mission/network toolkit:** **Tanuki Pitcher** extends a **small**, not expansive, repeater network (Robio/Atom/Pangguling); **Uran Guided Missile 16/1.5** creates a consequence for Targeted. **Teishin Combat Jump/Parachutist 19–23** supplies airborne FO/Hacker/KHD options; **Ninja, Kurayami and Saito** supply Hidden Deployment/Infiltration rather than a fireteam-delivered solution.
-- **Real TAG and repair access:** both **Mechazoid** and **Triphammer**, plus **Tokusetsu, Tanuki Engineer, Monstrucker, Yuriko, Pangguling Baggage** and specialist Ancillaries. However, **O-Yoroi is not in this Main roster**, and a TAG's Ancillary is **not** an extra independent Regular Order.
+- **Normal Smoke / MSV2 access — different roles:**
+  - **Motorized Yojimbo 20/0** or mutually exclusive **foot Yojimbo 19/0:** Smoke carrier.
+  - **Saito Tōgan 33/0:** Smoke carrier.
+  - **Garon 16/0:** ranged Smoke Grenade Launcher.
+  - **Rui Shi MSV2 Spitfire:** visor gun.
+  - **Tanuki MSV2 HMG / Sniper:** alternative visor fire.
+  
+  Conventional Smoke can be exploited by MSV, unlike Disco/Eclipse. This is not mass cheap warband access.
+- **Command safety and aggression:**
+  - **Metsuke:** Counterintelligence and Strategos.
+  - **Hatamoto:** NCO, LT(+1 Order) and SWC-rebate options.
+  - **Tanuki CoC 18/0:** succession cover for an attacking Lieutenant.
+  
+  Shinden does not gain Ōban/Vanilla Kempeitai CoC.
+- **Mission/network choices:**
+  - **Tanuki Pitcher:** small projected Repeater web.
+  - **Robio / Atom / Pangguling:** supporting network/REM options.
+  - **Uran Guided 16/1.5:** conditional Targeted punishment.
+  - **Teishin 19–23:** airborne FO, Hacker or KHD.
+  - **Ninja / Kurayami / Saito:** Hidden Deployment/Infiltration.
+- **TAG and repair tools:**
+  - **Mechazoid / Triphammer:** legal TAG families with their own Ancillaries.
+  - **Tokusetsu / Tanuki Engineer / Monstrucker / Yuriko:** technical recovery.
+  - **Pangguling Baggage:** resupply.
+  
+  O-Yoroi is not available in the standard roster; a TAG Ancillary does not create an extra Regular Order.
 - **No ordinary Impersonation assassin:** Shinden has Hidden Deployment and some **Mimetism(-6)** Ninjas/Saito, **not** a Fiday/Speculo-style Impersonation starting state. It also lacks Ōban's Oniwaban/Shinobu assassination package; do not transfer them across rosters.
 - **Its conspicuous bad baseline is Senku combat quality:** **BS11, WIP12, PH10, ARM0, W1**, with an **HMG at 17/1 SWC**. As a **fighting line trooper**, Senku is among the weakest offerings and the **HMG is an especially poor primary-gun choice** compared with Shizoku, Rui Shi and Hatamoto. But a **9pt/0 Regular Order**, **10pt FO**, **11pt Commlink specialist** or **11pt Paramedic** is **useful budget team material**; calling every Senku profile one of the game's worst *value* picks would be misleading.
 - **Costs and vulnerabilities:** premium Hatamoto/Shizoku/TAG modules are **Hackable**, and a Tanuki-based team loses multiple roles if its Tanuki is isolated or removed. Several excellent cheap trades are **one-use Camo** (Kyojin, Yamabushi), **not** reusable marker-state engines. Build **redundant objective access, long-range answers and deployment-zone protection**, rather than investing the entire plan in one aggressive Haris.
@@ -906,15 +928,36 @@ Current canonical Fireteam chart does not include it.
 
 A useful Shinden list-building process is:
 
-1. **Choose command architecture.** Metsuke Strategos, Metsuke + NCO, aggressive Hatamoto LT/CoC, or TAG LT.
-2. **Choose primary opening piece.** Hatamoto, Shizoku, Mechazoid, or another deliberate plan.
+1. **Choose command architecture:**
+   - **Metsuke Strategos:** reserve/deployment advantage.
+   - **Metsuke + NCO:** Lieutenant Order economy.
+   - **Hatamoto LT + Tanuki CoC:** aggressive protected command.
+   - **Mechazoid LT:** TAG-centric plan.
+2. **Choose primary opening piece:**
+   - **Hatamoto:** fighting specialist.
+   - **Shizoku:** long-range shooting.
+   - **Mechazoid:** TAG assault.
+   - **Alternative:** another deliberate attack plan.
 3. **Choose Sayō module(s).** At least ask whether Tanuki Hacker + Rui Shi improves the list.
-4. **Add distributed cheap pressure.** Kyojin, Camo Yamabushi, Yojimbo, Raiden as appropriate.
-5. **Check vision control.** Disco Ball, Smoke, MSV, Sensor.
+4. **Add distributed cheap pressure:**
+   - **Kyojin:** disposable forward threat.
+   - **Camo Yamabushi:** independent marker.
+   - **Yojimbo:** smoke/CC movement.
+   - **Raiden:** hidden ARO.
+5. **Check vision control:**
+   - **Disco Ball:** projected Eclipse.
+   - **Normal Smoke:** lane denial/visors.
+   - **MSV:** favorable shooting.
+   - **Sensor:** Camo detection.
 6. **Check long-range answer.** Do not discover after deployment that every attacker wants to be inside 24 inches.
 7. **Check hacking defence/recovery.** Especially if multiple HI/TAGs are present.
 8. **Check mission specialists.** Ensure some are expected to survive to Turn 3.
-9. **Use remaining slots for infrastructure.** Monstrucker, Pangguling, Uran, Lù Duān, cheap REMs according to the architecture.
+9. **Use remaining slots for infrastructure:**
+   - **Monstrucker:** repair/deployables.
+   - **Pangguling:** Baggage or EVO.
+   - **Uran:** Guided consequence.
+   - **Lù Duān:** mobile control.
+   - **Cheap REMs:** efficient mission/network filler.
 10. **Only then decide whether a bigger Core actually adds more than another independent module.**
 
 ## References
