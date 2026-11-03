@@ -1,5 +1,65 @@
 # Torchlight Brigade — N5.3 tactical analysis and collection decisions
 
+## Overview
+
+**What Torchlight Brigade does especially well:** strong *self-funding heavy guns* supported by cheap **Moonraker** Camo/adhesive speed bumps, a powerful **Raveneye Lt(+1 Order) / NCO** economy and unusually modular **Silverstars, Mobility and Wrecker** teams. It can shield the midfield with cheap threats, open one gun lane, and score using an independent specialist. Its biggest failure mode is filling the list with costly Silverstar Rovers and support pieces until too few Orders and scoring bodies remain.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
+
+| Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
+|---|---|---|
+| **Top 3 candidate — 0-SWC Hacker/Pitcher value** | **Waverider KHD + Pitcher 20/0** | A+ projector ceiling / S+ points value: BS12, Mimetism(-3), KHD Trinity and a Pitcher with Silverstars access. **HD + Oblivion(+1B) 22/0.5** is a *different* profile; the KHD does not inherit its anti-HI/TAG programs. |
+| **Top 5 candidate — concealed adhesive/minelayer value** | **Moonraker Minelayer 15/0.5** | A+ apex / S value as a forward roadblock: FD(+20), Camo(1 Use), prepaid Shock Mine, Adhesive Launcher Rifle and Heavy Shotgun. Fragile STR1 and one-use Camo. |
+| **Top 5 candidate — affordable armored TAG gun value** | **Wrecker HMG 57/1.5 or Spitfire 55/1.5** | STR3, ARM6, AP, Tactical Awareness and ZetBot support put it in the ranged guide's S/A+ TAG value tier. **HRL 51/1.5** is an excellent *different* burst/template role, not a long-range HMG clone. |
+| **Top 5 candidate — cheap Lt(+1 Order) command value** | **Raveneye LT(+1 Order) 17/0** | S-tier command value when supported by NCO: Holomask, FO, E/M Minelayer and two personal LT Orders. Without a useful NCO recipient, the extra Orders are largely stranded. **CoC18** is a different profile. |
+| **Top 10 candidate — Engineer + projected Eclipse utility** | **Kludger Engineer + Disco Baller 23/0** | WIP14, Warhorse, Mimetism(-3), Super-Jump, Engineer/Deactivator and Disco/Eclipse on one legal team supporter. Costs much more than a disposable smoke warband; choose for both repair and lane control. |
+| **Top 10 candidate — inexpensive Sensor/FO/Repeater value** | **Oko Tactical Awareness 18/0** | FO, Sensor, Repeater, mobility and a personal activation. **15/0** cheaper option if it seldom acts; **no RoadBot/Oko Duo in Torchlight**. |
+
+**Distinctly strong in Torchlight, without a forced whole-game Top 5/10 label:**
+- **Silverstar Prime HMG 53/1.5:** BS14, MSV1, Tactical Awareness and a strong independent gun; **cannot join a Silverstars Fireteam**.
+- **Strider SO27/FO29:** Camo, FD(+20), NCO and independent mission pressure; points compete with other midfield specialists.
+- **Nimrod MSV2 28–29:** visor and vertical mobility with a distinctive Mobility-family route; remains a one-Wound midrange gun.
+
+### Particularly strong or unusual Fireteams
+
+- **Silverstars Haris/Core — economical source plus specialized support:**
+  - **Hellblazer 18–19** or **Silverstar Rover:** a *required* native Silverstar source; the inexpensive Hellblazer avoids starting with multiple premium Rovers.
+  - **Waverider KHD/HD:** Pitcher, hacking and mission-role support.
+  - **Vidocq FTO MSV1 Sniper / PSI-Cop:** permitted Wildcard ranged or specialist role, by exact profile.
+  - **Hippolyta:** legal Silverstars Wildcard with Smoke and strong CC.
+  - **Trade-off:** membership limits and required sources still apply. **Silverstar Prime is not legal in this Fireteam** despite its name.
+- **Mobility Duo/Haris — Engineer, visor and Smoke:**
+  - **Kludger:** at least one required, carrying Engineer/Disco or Doctor tools.
+  - **Nimrod:** MSV2, Super-Jump and an appropriate selected weapon; all listed Nimrod profiles have current Mobility chart access.
+  - **Hippolyta:** legal Mobility Wildcard; conventional Smoke helps Nimrod shoot through visors.
+  - **Trade-off:** this flexible package is not cheap or automatically better than one independently deployed gun.
+- **Wrecker + Kludger Duo — TAG with its own recovery escort:**
+  - **Wrecker:** Tactical Awareness/AP TAG with a separate ZetBot ancillary specialist body.
+  - **Kludger:** legal repair and scoring support.
+  - **Trade-off:** Wreckers is **Duo only**, not a Core; the ancillary is not another pooled Regular Order.
+- **Command shell across modules:**
+  - **Raveneye Lt(+1)17:** two LT Orders.
+  - **Strider NCO / eligible Vidocq, Jackboot or Jamie NCO:** selected recipients for useful attacks/team movement.
+  - **Ment CoC14:** protection if a fighting LT or command engine is exposed.
+
+### Unusual access, non-access and tactical trade-offs
+
+- **TAG and VH distinctions:** **Wrecker (AVA2)** is the standard TAG; **no Zeta**. **Firebat** is an aerial **Vehicle (VH)**. **Silverstar Prime** is a powerful *HI*, not another TAG, and it cannot join Fireteams.
+- **Real Disco/Eclipse, but no cheap Varangian Smoke engine:**
+  - **Kludger Engineer/Disco 23** and **PSI-Cop KHD/Disco 23:** projected, limited-use **Eclipse** that can block even MSV.
+  - **Hippolyta 37:** genuine conventional Smoke and strong close attack, but not a cheap expendable smoke source.
+  - **Nimrod MSV2 / Vidocq FTO MSV1:** different visor tools; Nimrod can exploit Hippolyta's normal Smoke.
+  - **Absent:** the cheap **Regular Varangian** roster entry available to Vanilla/Starmada.
+- **Hacking and network availability:**
+  - **Waverider KHD/HD Pitcher:** primary projection specialist.
+  - **Kyttä / Oko / StormBot / Strider Deployable Repeater:** complementary Repeater nodes, chosen by exact profile.
+  - **Absent:** Vanilla's **Cyberghost HD+ White Noise/Pitcher**; a KHD or Pitcher alone cannot substitute for HD+ White Noise.
+- **Distinctive hidden command:** **Raveneye LT(+1)17** and **Raveneye CoC18** are mutually exclusive profiles; **Ment CoC14** is another succession option. NCO utility depends on surviving recipients and actually usable LT Orders.
+- **Constrained team sources despite unusual volume:** **one Core, one Haris, effectively unlimited Duos**; Silverstars requires **Hellblazer/Rover**, Mobility requires **Kludger**, and Wreckers requires **Wrecker**. No **RoadBot**, **Zeta**, **Varangian** or **Starmada Security/Bronze Fireteam**. See the [N5.3 Torchlight roster and chart](../../sectorials/o-12/torchlight-brigade.md).
+
+
 **Authoritative reference:** [Torchlight Brigade profile options, AVA, Fireteams, validation and source provenance](../../sectorials/o-12/torchlight-brigade.md). This document contains tactical interpretations, rankings, battle-report evidence, competing media assessments and miniature-buying guidance. Current Army/profile legality is determined by the linked reference.
 
 **Reference archive:** [Primary recordings, cross-references, battle reports and purchasing audit](references/torchlight-brigade_refs.md).
