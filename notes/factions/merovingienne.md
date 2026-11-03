@@ -1,5 +1,40 @@
 # FRRM / Mérovingienne — List-Building and Tactical Guide (Infinity N5.3)
 
+## Overview
+
+**What FRRM does exceptionally well:** it combines **infiltrating one-use-Camo Métro roadblocks, non-Hackable Tactical Awareness Moblots, mixed-range MSV/Viral support and surprising off-axis attack**. The most successful architecture buys positioning, repeatable specialist work and multiple arrival angles rather than relying on superior baseline BS.
+
+### Whole-game standouts — apex and points value
+
+**Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
+
+- **Top 3 candidate — non-Hackable objective holder with self-funded Orders:** **Moblot Paramedic 29/0 / Engineer 31/0** are S+ objective-holding value: Mimetism(-3), Tactical Awareness, relevant immunities and mission utility. They still have just **one Wound**. [Objective-holder rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
+- **Top 5 candidate — 0.5-SWC long-range ARO value:** **Vystrel Neurocinetics AP Sniper 26/0.5** ranks S points value; **Portable Autocannon 32/1.5** increases the anti-heavy threat at additional SWC. Both depend on deployment and recoverability. [ARO rankings](../list-building/aro-units-apex-and-value.md).
+- **Top 10 candidate — hidden midfield corner denial:** **Chasseur Shock Minelayer 20/0.5** is A+: Camo, Infiltration, Sixth Sense and Light Flamethrower make close approaches expensive. **Chasseur FO 20/0** is a separate scoring profile. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+- **Strong unusual support profiles, without a forced global rank:**
+  - **Loup-Garou Smoke GL + Riotstopper 17/0:** a Regular ranged Smoke enabler with short-range control.
+  - **Para-Commando FO 21/0:** lateral WIP14 (+1 Special Die) scoring and potential Guided setup.
+  - **Kuryer Katyusha 15/1:** Guided/Speculative option with Baggage, Warhorse and a minelayer role; valuable when the whole package matters.
+
+### Particularly useful Fireteams
+
+- **Loup-Garou–Apache Haris — unusually dense cheap utility:**
+  - **Loup-Garou Smoke GL 17/0** for ranged Smoke and Riotstopper.
+  - **Loup-Garou Viral Marksman 24/0.5** for Marksmanship/Viral fire.
+  - **Apache FTO 14/0** for a close-assault follow-through.
+  - **55 points / 0.5 SWC** if the route and targets fit; the Smoke does not automatically defeat MSV.
+- **Métros Core/Haris — low-cost specialist and gun carrier:**
+  - **Native Métro** anchors the team.
+  - **Up to two Moblots** can bring Tactical Awareness guns or an Engineer.
+  - **Wardriver / Knauf FTO / 112 FTO** offer conditional network, sniper and medical alternatives in legal slots.
+- **ETB Duo:** **Anaconda TAG + Moblot Engineer** (or eligible **112 Motorized/Kuryer**) is a legitimate recovery/armor flank. It is *conditional*, not a whole-game top TAG Fireteam; **Anaconda itself is rated C/C** in current cross-TAG comparisons. [TAG tiers](../list-building/tags.md).
+
+### Unusual access, gaps and trade-offs
+
+- **Anaconda is a TAG**, but standard FRRM has **no VH-class Vehicle**. Having this one TAG does not by itself make the army exceptional.
+- **No current Chain of Command** in the standard roster; protect a chosen Métro/Moblot/Briscard Lieutenant. **Briscards and Knauf** bring MSV1, not a native MSV2 Smoke-shooting package.
+- **Normal Smoke plus projected Eclipse:** **Loup-Garou Smoke GL 17/0**, Duroc and Motorized 112 supply Smoke; **Wardriver Disco Baller 16/1** provides a separately paid Eclipse-style line-of-sight interruption. The hacking grid is limited, despite an optional Wardriver Pitcher.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/merovingienne_refs.md).
 
 **Research:** 2026-10-22. **Scope:** standard Force de Réponse Rapide Merovingienne (FRRM/MRRF), not L'Équipe Argent Reinforcements. This note records practical list patterns, alternatives, and *why* they work; it is not an Army-data replacement.

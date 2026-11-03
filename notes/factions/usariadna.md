@@ -1,5 +1,37 @@
 # USAriadna Ranger Force (USARF) — N5.3 tactical guide
 
+## Overview
+
+**What USAriadna does especially well:** cheap **motorcycle Smoke, regular midfield mines, non-Hackable mission fighters and several small legal Fireteams** force an opponent to solve many modest threats instead of one premium gun. The October 2025 Minuteman/Blackjack improvements matter; early-2025 tier opinions should not be treated as current profile verdicts.
+
+### Whole-game standouts — apex and points value
+
+**Top 3 / Top 5 / Top 10** are qualitative, **role-specific shortlist candidates** inferred from the cross-faction tiers, not official global places.
+
+- **Top 3 candidate — cheapest high-speed Smoke/trade:** **Desperado Chain Rifle + Smoke GL 7/0** is S+ cost value, with a 20-10 motorcycle and cheap lateral line-of-fire denial. It is Irregular/Impetuous, not a transferable Regular Order. [Warband value](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 5 candidate — non-Hackable objective defender for ~25 points:** **Minuteman FO/NCO T2 Rifle 25/0** is S+ value in carried-objective defense: specialist, T2/LFT, BS Attack (+1SD), NCO and protection from some electronic threats. Still only one Wound. [Objective-holder tiers](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
+- **Top 10 candidate — cheap midfield Minelayer:** **Foxtrot Boarding Shotgun Minelayer 18/0.5** is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+- **Strong sectorial attackers, without an unsupported global Top 10 claim:** **Unknown Ranger MSV1 Mk12 42/0 or AP Spitfire 45/1** has Tactical Awareness, NWI and specialist/gunfighter utility; **Blackjack AP HMG or T2 Sniper 35** provides protected long-range pressure. Their rankings are contested and their price/route costs matter.
+
+### Particularly useful Fireteams
+
+- **Blackjack Haris with support Wildcards:**
+  - **Blackjack AP HMG 35/1.5** as the anchored heavy gun.
+  - **Rosie 21/0** and **112 FTO 11/0** as eligible Wildcards counting as Grunts.
+  - **67 points / 1.5 SWC**, with useful specialist/recovery support and possible composition synergy; a Blackjack is **HI**, not a TAG.
+- **USARF assault Duo:**
+  - **Minuteman FO/NCO 25/0**
+  - **Unknown Ranger MSV1 Mk12 42/0**
+  - The Minuteman supplies inexpensive specialist/NCO support; the Ranger supplies a more independently capable attacker.
+- **Mavericks Haris:** **Maverick FO 17/0**, **AP Spitfire 26/1** and **112 Motorized 19/0** can deliver fast Smoke, shooting and medical/mission coverage for **62 points / 1 SWC**, if bike routes are available.
+
+### Unusual access, gaps and trade-offs
+
+- **No standard TAG and no VH-class Vehicle.** **Blackjack** is S5 Hackable HI, and the **Traktor Mul** is the sectorial's only standard REM.
+- **Projected Eclipse on a very cheap carrier:** **Sāchā Disco Baller 8/0**, an Irregular specialist-style support piece, is unusual; **Wardriver Disco Baller 16/1** is another route. Both differ from ordinary Smoke and cost setup Orders.
+- **Chain of Command exists:** **Rosie CoC 26/0** is a specific paid profile, so do not mistakenly describe USARF as having no CoC.
+- **Vision and hacking gaps:** **Desperado/Maverick/Devil Dog** provide normal Smoke, **Marauder/Unknown Ranger** provide MSV1 options, but no native MSV2-based Smoke-shooting engine; hacking and repeaters remain thin.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/usariadna_refs.md).
 
 **Research checked:** 2026-10-22. **Purpose:** concise list-building choices, competing opinions, and *why*; not a substitute for the current [USAriadna reference](../../sectorials/ariadna/usariadna.md) and [rules](../../rules/README.md). Standard USARF Army **304**, N5.3, pinned Army **7.26246.158** (2026-09-03; reference verified 2026-10-15). Army metadata says *discontinued*, but standard roster/Fireteam data remains present and playable. **L'Équipe Argent Reinforcements use a different chart**, not the lists below.

@@ -1,5 +1,35 @@
 # Tartary Army Corps (TAK) — List-building and tactical notes
 
+## Overview
+
+**What Tartary Army Corps does exceptionally well:** it combines **efficient Camo gunfighters, decoy/mine layers and a rare integrated artillery Fireteam ecosystem**. Enemy Orders are spent discovering markers and suppressing reactive guns before a protected Spetsnaz, TankHunter or Veteran Kazak counterattacks.
+
+### Whole-game standouts — apex and points value
+
+**Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
+
+- **Top 3 candidate — 8-point Engineer/Smoke trader:** **Irmandinho Engineer + Chain Rifle + Smoke 8/0** is S+ value: it can trade, screen, repair or score technical objectives. Its personal Irregular Order cannot simply be spent on a premium gun. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 5 candidate — affordable active-turn HMG:** **Kazak Spetsnaz Camo HMG 36/1.5** ranks S in cross-game gunfighter value, using Marksmanship, Mimetism and Surprise. It is still a one-Wound attacker. [Gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md).
+- **Top 5 candidate — cheap reactive sniper value:** **Vystrel Neurocinetics AP Sniper 26/0.5** is S for ARO points value, with Sapper and 2 STR; the **Portable Autocannon 32/1.5** is A+ for a heavier reactive punch. [ARO rankings](../list-building/aro-units-apex-and-value.md).
+- **Top 10 candidate — inexpensive Camo/Decoy home defence:** **Barsuk HFT/Light Shotgun 11/0** has S points value and a one-use Camo/Decoy trap. This **11-point profile does not Forward Deploy**; the **12-point FD HFT** is different. [Midfield/denial rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+- **Top 10 candidate — repeatable non-hacking anti-heavy fire:** **TankHunter AP HMG 33/1.5** receives an S anti-armor role assessment; TAK's ordinary **Portable Autocannon 36** must not inherit Vanilla Ariadna's extra Burst. [Anti-heavy tiers](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+### Particularly useful Fireteams
+
+- **Gunnery Duo/Haris — an unusual artillery/recovery module:**
+  - **Vystrel** for Neurocinetics long-lane denial.
+  - **Kuryer / Traktor Mul** as alternative required-choice artillery or Baggage options.
+  - **Dozer** for legal Engineer support, or an eligible **Barsuk FTO Wildcard** where appropriate.
+  - Gunnery **must include a required-choice artillery unit**; not every combination of three support models qualifies.
+- **Veterans Core/Haris/Duo:** a legal **Veteran Kazak and/or Frontovik** required-choice foundation, with up to two eligible **112 FTOs**, can make a difficult ranged problem and preserve specialist/recovery options.
+- **Mobility Duo/Haris:** a **Dynamo and/or Ratnik** foundation with eligible **112 Motorized, Frontovik or Ioann Bann** provides a faster, very different attack axis. It competes for points with the Gunnery shell.
+
+### Unusual access, gaps and trade-offs
+
+- **No standard TAG or VH-class Vehicle:** **Ratnik** is heavy infantry and **Dynamo** is motorcycle LI; **Vystrel/Kuryer/Traktor** are REMs.
+- **Real CoC protection:** **TankHunter CoC Minelayer 25/0** and **Vassily CoC** allow some more aggressive command choices. **TAK Voronin has Counterintelligence but not Strategos**, unlike Vanilla's version.
+- **Visibility:** **Wardriver Disco Baller 16/1** gives projected Eclipse utility, alongside Warband Smoke, but there is no broad native MSV2 or advanced hacking grid. **Scouts' E/M Minelayer(2)** is a particularly useful anti-heavy deterrent.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/tak_refs.md).
 
 **Authoritative N5.3 roster and Fireteams:** [Tartary Army Corps (TAK) reference](../../sectorials/ariadna/tartary-army-corps.md).

@@ -1,5 +1,39 @@
 # Vanilla Ariadna — Listbuilding Guide (Infinity N5.3)
 
+## Overview
+
+**What Vanilla Ariadna does exceptionally well:** it assembles an unusually broad **non-Hackable Camo, mine/Decoy, hard-ammunition and independent-attack toolbox** without relying on a large Fireteam. Camouflaged guns force Discover decisions while fast bikes, warbands and enemy-DZ entrants attack different routes. Its flexibility, rather than a universally dominant link, is the main advantage.
+
+### Whole-game standouts — apex and points value
+
+The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
+
+- **Top 3 candidate — cheapest Regular Baggage support:** **Traktor Mul Baggage 5/0** is S+ value: an exceptionally cheap Regular Order with conditional disposable-ammunition reloads. Its Guided/Total Reaction variants are *different paid profiles*. [Support tiers](../list-building/force-multipliers-special-abilities-apex-value.md).
+- **Top 5 candidate — infantry anti-TAG gun (apex/value):** **TankHunter Portable Autocannon (+1B) 36/1.5** delivers exceptional armor-killing bursts from Camo; the +1B *Vanilla* profile should not be silently substituted for TAK's plain autocannon. [Non-hacking anti-heavy tiers](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+- **Top 5 candidate — medium-cost active-turn HMG value:** **Kazak Spetsnaz Camo HMG 36/1.5**, rated S, combines Marksmanship, Mimetism and Surprise Attack to challenge targets in Cover. One Wound and extreme ARM remain limitations. [Gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md).
+- **Top 10 candidate — budget midfield specialist:** **Strelok FO 17/0**, rated S, brings Camo, FD(+20), Decoy and Forward Observation without paying premium-soldier prices. [Specialist tiers](../list-building/mission-specialists-and-button-pushers-apex-value.md).
+- **Top 10 candidate — multi-body Sensor/CC scouting:** **Antipode Assault Pack 26/0** is S+/S in its role: a Handler plus three Antipodes with Camo/Sensor and a Tactical Awareness activation. **One Spearhead** attacks on an Order; these are not three freely acting Regular troops. [Multi-body tiers](../list-building/peripheral-synchronized-multibody-apex-value.md).
+- **Other standout, not a forced global rank:** **Voronin Strategos LT 22/0** is A+ command value; **Wallace CoC 38/0** provides succession and a dangerous independent attacker. They offer an unusually meaningful command choice. [Command tiers](../list-building/command-units-apex-and-value.md).
+
+### Particularly useful Fireteams
+
+- **Dynamo Duo — the clearest signature:** 
+  - **Dynamo AP Spitfire 25/1**
+  - **Dynamo Paramedic 16/0.5**
+  - **41 points / 1.5 SWC** buys fast Smoke, shooting, mine delivery and objective coverage in a compact package.
+- **FT-02 viral/visor Duo or Haris — situational specialist alternative:**
+  - **Briscard MSV1** for visual-mod interactions.
+  - **Loup-Garou Viral** for BTS-focused attacks.
+  - **Frontovik / eligible Moblot / Bruant FTO** to cover specific guns or tasks within the chart.
+  - More expensive and less universally compelling than the Dynamo package; **no Core**, only **one Haris and two Duos** under the pinned vanilla chart.
+
+### Unusual access, gaps and trade-offs
+
+- **True TAG access:** **Chernobog** supplies an AP-HMG heavy gun; it is **B apex / A value**, not a top-tier all-game TAG. Other Ariadna armies cannot automatically copy its roster access. [TAG comparison](../list-building/tags.md).
+- **Chain of Command:** **Wallace, Vassily and selected TankHunter/other profiles** supply meaningful protection; check exact profiles, as Wallace is *not* a Vanilla LT.
+- **Vision:** plenty of normal **Smoke**, plus a **Wardriver Disco Baller 16/1** for projected Eclipse-like sight denial; Disco requires successful placement and is not a free Eclipse Grenade. Native **MSV2 is notably absent** in the pinned standard roster.
+- **Limits:** thin hacking and few Repeaters; many infantry attacks are non-Hackable, but **Chernobog and REMs are Hackable**. The lack of a Core is the main Fireteam drawback.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/vanilla-ariadna_refs.md).
 
 **Purpose:** practical choices, why they work, and competing opinions. **Research checked 2026-10-19.** Video and podcast transcripts are used as tactical evidence, **not** authority for unit costs, Army legality or tournament usage. Current profiles/Fireteams come from the [N5.3 Vanilla Ariadna reference](../../sectorials/ariadna/vanilla-ariadna.md) (Army **7.26246.158**, 2026-09-03 data; verified 2026-10-15). Older 2025 opinions can predate roster/rules changes.

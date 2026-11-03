@@ -1,5 +1,36 @@
 # Kosmoflot — listbuilding and profile selection
 
+## Overview
+
+**What Kosmoflot does exceptionally well:** it combines **fast conventional heavy shooting, very cheap Regular Smoke, dangerous close assault and Mirage-5 airborne pressure** in one army. Its best lists force a front-lane, a midfield and an enemy-DZ problem at once rather than just building a bigger gun team.
+
+### Whole-game standouts — apex and points value
+
+**Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
+
+- **Top 3 candidate — budget Engineer/Smoke value:** **Irmandinho Engineer + Chain Rifle + Smoke 8/0** is S+ in the cheap multi-role category; use the Irregular Order and engineering utility, not merely its suicide attack. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 5 candidate — two-vector enemy-DZ assault ceiling:** **Mirage-5, Margot + Duroc 60/2**, is S/A in cross-game airborne apex/value. Margot's BS14 specialist attack and Duroc's Smoke/close violence pressure separate targets, but 60 points and 2 SWC are a substantial linked purchase. [Airborne tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
+- **Top 10 candidate — cheap Regular Smoke screen:** **Varangian Chain Rifle + Smoke 10/0** is S in cheap regular Smoke value: a **Regular**, Impetuous, Dogged CC deterrent that both funds the group and opens routes. Its Regular Training is not produced by Wallace. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Strong packages without an imposed global rank:** **Polaris Alpha Masha + Bearpode 32/0** supplies **two distinct Regular Orders**, unlike a synchronized Peripheral; **Chernobog 63–70/1.5** gives a true AP-HMG TAG (B apex / A value), but should not be sold as a top-five TAG. [Multi-body comparison](../list-building/peripheral-synchronized-multibody-apex-value.md) · [TAG rankings](../list-building/tags.md).
+
+### Particularly useful Fireteams
+
+- **Varangian Guard Core/Haris/Duo — unusually flexible close-range family:**
+  - **Varangian Guard** is the mandatory native anchor and provides inexpensive Regular Smoke/CC pressure.
+  - **Wallace / Denma Connolly / Wolfgang / Ioann Bann** count as Varangians in the chart, adding distinct fighting or command jobs.
+  - This can support a cheap screen or an aggressive close-assault team; the extra heroes are not automatic value.
+- **Rokots Core/Haris — budget utility shell:**
+  - **Rokot** anchors the team.
+  - **Patcher** Wildcards count as Rokots; eligible **Frontovik/Mekhanik/Kazak Doktor/Wardriver** choices supply a gun, repair, medical support or hacking.
+  - Keeps the main attack Order pool available for Mirage-5 or the TAG.
+- **Kosmosoldat Duo/Haris:** **one or two Kosmosoldats** with a permitted **Frontovik** is a heavy direct-attack package. **Chernobog Duo** also exists, but the mere ability to field two TAGs is not itself an exceptional advantage.
+
+### Unusual access, gaps and trade-offs
+
+- **Chernobog TAG, Polaris and Mirage-5** give unusual diversity for Ariadna, backed by very cheap normal Smoke. **Wardriver Disco Baller 16/1** adds limited projected Eclipse coverage; normal Smoke cannot always bypass enemy MSV.
+- **Wallace LT Inspiring Leadership** regularizes *genuinely Irregular* troopers (for example Irmandinhos). **Varangians and Denma are already Regular**; do not count an extra Order from them. Wallace also has a separate CoC option.
+- **Scots Guard FTO has no current NCO**; do not claim Lieutenant Orders can be routed through it. Hacking/Repeater depth and high-end MSV2 remain significant gaps.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md).
 
 **N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), and [local rules](../../rules/README.md). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.

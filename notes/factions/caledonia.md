@@ -1,5 +1,35 @@
 # Caledonia — List-Building and Tactical Note
 
+## Overview
+
+**What Caledonia does exceptionally well:** it offers some of the game's **cheapest useful Regular Orders and Smoke/CC trades**, then amplifies genuinely Irregular attackers with **Wallace's Inspiring Leadership**. The resulting warband saturation can protect a Camo specialist advance while a Mormaer or Wulver opens the necessary lane.
+
+### Whole-game standouts — apex and points value
+
+**Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
+
+- **Top 3 candidate — cheapest Smoke/template trade:** **45th Highlander Galwegian Chain Rifle + Smoke 5/0** is S+ points value. It can force several enemy Orders for almost no cost, but remains Irregular/Impetuous and vulnerable when exposed. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 3 candidate — cheapest armed Regular Order:** **Caledonian Volunteer Chain Rifle/Light Shotgun 6/0** is S+ as a troop-slot/Order floor; it funds the premium assault plan without pretending to be a strong gunfighter. [Cheap-unit rankings](../list-building/best-cheap-units-apex-and-value.md).
+- **Top 5 candidate — multi-trade Smoke/CC warband:** **McMurrough 23/0** rates S/A for sustained close-pressure ceiling and cost, with two Wounds, Smoke, Chain(+1B) and AP+DA melee. It is not a disposable five-point equivalent. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 10 candidate — cheap multi-wound close assault:** **Cameronian 18/0** is A+ in heavy-warband pressure; it offers far more repeated attacks and screening than a single Galwegian. [Warband comparisons](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+- **Top 10 candidate — camouflaged midfield Minelayer:** **SAS Minelayer 22/0.5** rates A+ for area denial. Its Forward Observer is a separate profile; do not combine both loadouts into one model. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+- **Sectorial-defining force multiplier:** **Wallace LT 38/0** can transform a deliberately selected Irregular roster into flexible pooled Regular Orders, but is conditional on preserving the Lieutenant. [Command tiers](../list-building/command-units-apex-and-value.md).
+
+### Particularly useful Fireteams
+
+- **Galwegian Core + Wallace — an unusual cheap-order/close-assault shell:**
+  - **At least one native 45th Highlander** anchors the Core.
+  - **Wallace** is a Wildcard counting as Highlander and can join legally; additional Galwegians supply cheap Smoke/CC coverage.
+  - Excellent when the wider roster genuinely exploits Inspiring Leadership, not simply because five inexpensive bodies can link.
+- **Heavy Caledonians Haris/Duo:** **Mormaer and/or Highlander Grey** form the required-choice foundation, with an eligible **Scot Guard FTO** as a distinct long-gun/specialist option.
+- **Wulver Core/Haris/Duo:** **Wulver** anchors, with eligible **Scot Guard FTO** and **Cadin Wildcard** for a violent room-clearing and scoring module. **Volunteer + Highlander Grey** can instead form a cheaper conventional Core.
+
+### Unusual access, gaps and trade-offs
+
+- **No standard TAG or VH-class Vehicle**, but unusually deep **cheap Smoke, Dog-Warrior-style assault and AP/T2/CC** answers. Its **5-point Galwegian + 6-point Volunteer + Wallace** economy is the more distinctive capability.
+- **No Chain of Command in the pinned Caledonia roster:** using Wallace aggressively risks both command succession and his Irregular-to-Regular conversion. **Isobel** is not the old CoC model described in some 2025 discussions.
+- **Wardriver Disco Baller 16/1** gives limited projected Eclipse, distinct from normal Smoke. The army has some MSV1 but no native MSV2 shooting backbone, and its hacking/Repeater infrastructure is modest.
+
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/caledonia_refs.md).
 
 ## Core identity
