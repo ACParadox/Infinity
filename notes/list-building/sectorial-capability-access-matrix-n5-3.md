@@ -319,22 +319,30 @@
 **Providers and caveats**
 
 - **Vanilla Nomads:**
-  - Morlock smoke, Intruder MSV2, Chimera Eclipse
+  - **Morlock:** Smoke
+  - **Intruder:** MSV2
+  - **Chimera:** Eclipse
   - Interventor HD+
   - Moran/Zero/Spektr early Repeaters
   - broad pitcher suite
   - Gecko/Gator/Szalamandra TAGs.
 - **Bakunin:**
-  - Morlocks/Zellenkrieger smoke, Orphan MSV2, Chimera Eclipse
+  - **Morlocks / Zellenkrieger:** Smoke
+  - **Orphan:** MSV2
+  - **Chimera:** Eclipse
   - Custodier HD+, Moderator/Zoe/Tsyklon Pitchers
   - Initiated/Zero early Repeaters.
 - **Corregidor:**
-  - Jaguars smoke, Intruder MSV2, Señor Massacre Eclipse
+  - **Jaguars:** Smoke
+  - **Intruder:** MSV2
+  - **Señor Massacre:** Eclipse
   - Jazz HD+
   - Moran/Bandit T0 Repeaters
   - Carlota, Hellcat, Bearcat backline.
 - **Tunguska:**
-  - Zondnautica smoke, Cheerkiller MSV2, Interventor HD+
+  - **Zondnautica:** Smoke
+  - **Cheerkiller:** MSV2
+  - **Interventor:** HD+
   - Spektr infiltrating DR, Hollow Men/Tsyklon pitcher setups
   - Szalamandra/Anaconda.
 
@@ -405,10 +413,16 @@
 - **Vanilla PanOceania:**
   - No normal Smoke
   - Fennec/Aquila Disco instead (blocks MSV too)
-  - Joan Inspiring Leadership, Scarecrow initial Repeater, Black AIR DZ entry and Banshee CJ.
+  - **Joan:** Inspiring Leadership
+  - **Scarecrow:** initial Repeater
+  - **Black AIR:** Deployment Zone entry
+  - **Banshee:** Combat Jump
 - **Kestrel Colonial Force:**
   - No Smoke or Pitcher
-  - Fennec/Richard Quinn Disco, Scarecrow infiltrating Repeaters, Black AIR DZ entry, Magistrate Strategos L1.
+  - **Fennec / Richard Quinn:** Disco
+  - **Scarecrow:** infiltrating Repeaters
+  - **Black AIR:** Deployment Zone entry
+  - **Magistrate:** Strategos L1
 - **Military Orders:**
   - Joan Inspiring Leadership
   - Black Friar MSV2 has no Smoke pairing
@@ -427,7 +441,10 @@
   - Scylla limited Pitcher.
 - **Svalarheima WinterFor:**
   - No ordinary Smoke or confirmed enemy-DZ-entry attacker
-  - Vargar/Bøyg/Quinn Disco, Nisse MSV2, Locust Pitcher, Jotum TAG.
+  - **Vargar / Bøyg / Quinn:** Disco
+  - **Nisse:** MSV2
+  - **Locust:** Pitcher
+  - **Jotum:** TAG
 - **Varuna Immediate Reaction Division:**
   - No normal Smoke, no White Noise
   - Quinn Disco, Kamau MSV2
@@ -482,7 +499,12 @@
 **Providers and caveats**
 
 - **Vanilla Yu Jing:**
-  - Shaolin Smoke, Hsien/Rui Shi MSV2, Sun Tze Strategos L2, Tiger CJ, Guiláng deployable Repeaters. Vanilla profile projection is marked PARTIAL
+  - **Shaolin:** Smoke
+  - **Hsien / Rui Shi:** MSV2
+  - **Sun Tze:** Strategos L2
+  - **Tiger:** Combat Jump
+  - **Guiláng:** Deployable Repeater
+  - **Vanilla profile projection remains PARTIAL**; cross-check exact loadouts
   - cross-check exact loadouts.
 - **Imperial Service:**
   - Kuang Shi/Celestial Guard smoke + Hsien/Bào MSV2
@@ -492,24 +514,97 @@
   - Jīnyào Combat Jump.
 - **Invincible Army:**
   - Rare smoke absence despite Yu Jing parent
-  - Mówáng/Húláng Disco, Hǎidào linked Pitcher, Zhēnchá initial DR, Liú Xīng CJ and Gūijiă TAG.
+  - **Mówáng / Húláng:** Disco
+  - **Hǎidào:** linked Pitcher
+  - **Zhēnchá:** initial Deployable Repeater
+  - **Liú Xīng:** Combat Jump
+  - **Gūijiă:** TAG
 - **White Banner:**
   - Shaolin smoke + Rui Shi MSV2
-  - Dokkaebi/Fēiquán Pitcher, Guiláng infiltrating Repeater, Tiger CJ
+  - **Dokkaebi / Fēiquán:** Pitcher
+  - **Guiláng:** infiltrating Repeater
+  - **Tiger:** Combat Jump
   - Blue Wolf/Gūijiă TAG, Fēiquán VH.
 
 ## Rare absences and cross-faction consequences
 
-1. **No standard TAG choices:** **USAriadna, Tartary Army Corps, Caledonia.** All other rows have at least one TAG (including named/mercenary options where the current main roster actually includes them). Having a TAG does **not** mean the army can efficiently support every TAG build.
-2. **No ordinary Smoke:** **Operations Subsection, Onyx, Kestrel, Military Orders, Neoterra, Vanilla PanO, Acontecimento, Svalarheima, Varuna, Invincible Army**. Eclipse/Disco might still provide a *different* visibility screen. **Torchlight is only Limited** (Hippolyta).
-3. **No MSV2+ smoke shooting despite abundant Smoke:** notably **Caledonia, Hassassin Bahram, Ōban, Druze, StarCo**. Ariadna lists with only **MSV1** are marked Limited, not falsely described as MSV2 smoke shooters.
-4. **No reliable in-deployment network projection:** All Ariadna armies, Onyx, Shasvastii, Morat, Next Wave, Haqq Hassassin/Qapu, all three JSA lists, most O-12, etc. Some can **advance a Repeater Turn 1** with bikes/REM/FD, which is *not* Turn-0 Infiltration.
+1. **No standard TAG choices:**
+   - **USAriadna**
+   - **Tartary Army Corps**
+   - **Caledonia**
+
+   All other rows have at least one TAG, including named/mercenary options where the current main roster permits them. Having access does **not** mean a faction can efficiently support every TAG build.
+2. **No ordinary Smoke:**
+   - **Operations Subsection**
+   - **Onyx**
+   - **Kestrel**
+   - **Military Orders**
+   - **Neoterra**
+   - **Vanilla PanO**
+   - **Acontecimento**
+   - **Svalarheima**
+   - **Varuna**
+   - **Invincible Army**
+
+   Eclipse/Disco may still provide a *different* visibility screen. **Torchlight is only Limited** (Hippolyta).
+3. **No MSV2+ Smoke shooting despite abundant Smoke:** notable examples:
+   - **Caledonia**
+   - **Hassassin Bahram**
+   - **Ōban**
+   - **Druze**
+   - **StarCo**
+
+   Ariadna lists with only **MSV1** are marked Limited, not misidentified as MSV2 Smoke shooters.
+4. **No reliable in-deployment network projection:** includes:
+   - **All Ariadna armies**
+   - **Onyx**
+   - **Shasvastii**
+   - **Morat**
+   - **Next Wave**
+   - **Hassassin Bahram and Qapu Khalqi**
+   - **All three JSA lists**
+   - **Most O-12 lists**
+
+   Other cases exist; consult the matrix for exact grading. Some armies can **advance a Repeater on Turn 1** with bikes, REMs or Forward Deployment, which is *not* Turn-0 Infiltration.
 5. **No standard Hacker at all:** **none asserted**. Even Ariadna armies have Wardriver access in the current pinned roster; **Limited** marks the lack of a broad native suite rather than claiming they are literally hackerless.
 6. **No standard VH / Vehicles:** common, **not rare**. Do not equate a **motorcycle**, **TAG** or **REM** with the newer **VH** troop type; the matrix tracks them separately.
-7. **Strategos L2 is genuinely scarce:** **Vanilla ALEPH / OSS (Marut LT), Vanilla Combined (Avatar LT), Vanilla Haqqislam (Saladin LT), Vanilla Yu Jing / Imperial Service (Sun Tze)**. **Voronin, Hector, Alpha, Hannibal, Magistrates, Aquila and Metsuke are not Strategos L2** in the current local references.
-8. **Inspiring Leadership is more common than Strategos L2 but still narrow:** **Vanilla Ariadna / Kosmoflot / Caledonia (Wallace), Vanilla PanO / Military Orders (Joan), NCA (Maximus LT profile)**. Do not count these profiles if taking a non-LT version.
-9. **Impersonation is not generic camo:** available on **Vanilla Combined, Shasvastii, Onyx (limited Greif), Vanilla Haqqislam, Hassassin Bahram, Ikari and Tohaa**. Ordinary Infiltration/Decoy is not Impersonation.
-10. **Eclipse and Disco Ball are separate counters:** an army can lack both (e.g. **Onyx**) or have only Disco (e.g. **Kestrel, Neoterra, Invincible Army**). Neither lets MSV see through the Eclipse zone. 
+7. **Strategos L2 is genuinely scarce:**
+   - **Vanilla ALEPH / OSS:** Marut LT
+   - **Vanilla Combined:** Avatar LT
+   - **Vanilla Haqqislam:** Saladin LT
+   - **Vanilla Yu Jing / Imperial Service:** Sun Tze
+
+   These named alternatives are **not Strategos L2** in the current local references:
+   - **Voronin**
+   - **Hector**
+   - **Alpha**
+   - **Hannibal**
+   - **Magistrates**
+   - **Aquila**
+   - **Metsuke**
+8. **Inspiring Leadership is more common than Strategos L2 but still narrow:**
+   - **Vanilla Ariadna / Kosmoflot / Caledonia:** Wallace
+   - **Vanilla PanO / Military Orders:** Joan
+   - **NCA:** Maximus LT profile
+
+   Do not count a non-LT version as the qualifying profile.
+9. **Impersonation is not generic Camo:** available in:
+   - **Vanilla Combined**
+   - **Shasvastii**
+   - **Onyx** (limited Greif)
+   - **Vanilla Haqqislam**
+   - **Hassassin Bahram**
+   - **Ikari**
+   - **Tohaa**
+
+   Ordinary Infiltration/Decoy is not Impersonation.
+10. **Eclipse and Disco Ball are separate counters:**
+    - **Onyx:** example without either
+    - **Kestrel:** Disco only
+    - **Neoterra:** Disco only
+    - **Invincible Army:** Disco only
+
+    Neither lets MSV see through the Eclipse zone. 
 
 ## Method and maintenance checks
 
