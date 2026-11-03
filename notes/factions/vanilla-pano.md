@@ -25,6 +25,7 @@
 | **Top 5 — TAGs (value)** | **Tikbalang HMG 69/1.5**, or **LT(+1 Order) 73/1.5** | [S TAG value](../list-building/tags.md): Climbing Plus, Mimetism(-3), Tactical Awareness and mine; LT bonus Orders are **personal**, not team activations. |
 | **Top 3 — Objective Holding / Zone Domination / Carried Objectives (value)** | **Teutonic Knight SMG Specialist, 19/0** | [S+ objective-carrier value](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md): two-Wound scorer for 19 points; Impetuous/Limited Cover require careful positioning. |
 | **Top 5 — Peripherals, Synchronized & Multi-Body Packages (value)** | **Peacemaker HSG + Auxbot 23/0** or **Minelayer + Auxbot 24/0.5** | [S+ peripheral value](../list-building/peripheral-synchronized-multibody-apex-value.md): forward Repeater, template/optional mine. Hackable and large. |
+| **Top 5 — Best mobile Repeater (apex)** | [**Pilot-X 21/1 + RacerBot Mk-III 8/0 ×1 or ×2, 29/1 or 37/1**](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) | [**#4 A+ apex / A conditional value**](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater): **WIP13 Zero Pain Hacker** and **RemDriver** for one eligible REM, plus one/two MOV20-10 Regular Mk-III with Deployable Repeater, PARA Mine Dispenser and Riotstopper. **Two/three Regular Orders**, but **1 SWC** and active placement cost; [Force Multipliers ranks #15 apex / #25 value](../list-building/force-multipliers-special-abilities-apex-value.md). **Mk-III requires Pilot-X; independent Mk-I/Mk-II profiles are distinct.** |
 | **Top 5 — Force Multipliers (value)** | **Tech-Bee TAGCom, 9/0** | [S+ force-multiplier value](../list-building/force-multipliers-special-abilities-apex-value.md): same-group printed Dodge/GizmoKit support, **not** extra BS, an Engineer or global effect. |
 | **Top 5 — Vision Control (value)** | **Fennec FO + Sensor + Disco, 13/0** | [S+ visibility value](../list-building/vision-control-units-apex-and-value.md) and **actual Vanilla roster access**, but lacks the Kestrel Fireteam benefit; limited-use and fragile. |
 | **Top 10 — Airborne, Infiltrating and Enemy-DZ Attackers (apex+value)** · [**KHD: B apex / A value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **Banshee KHD, 23/0** | [Strong airborne role](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): Combat Jump, Super-Jump, MSV1, Pulzar and cyber-scoring access. Landing variance/W1 limit certainty. **Revised Hacker guide:** Banshee KHD 23/0 is B apex/A value as a Hacker; the Top 10 claim is about its independently S-tier airborne mission access, not top cyber-dueling apex. |
@@ -565,6 +566,16 @@ It can provide:
 - Tactical Awareness where the current profile provides it.
 
 This makes it particularly valuable in elite lists where every pooled Regular Order is contested.
+
+---
+
+### Pilot-X + RacerBot Mk-III — hybrid REM support
+
+**Pilot-X 21/1** is a **WIP13 Hacking Device (Zero Pain)** troop with RemDriver for one eligible **REM**, **not** for a TAG. A legal Pilot-X Team can add **one Mk-III for 29/1** or **two for 37/1**, each an 8-point Regular REM with **MOV20-10**, Deployable Repeater, PARA Mine Dispenser, Light Riotstopper and 360º Visor. The package supplies **two/three Regular Orders** if all are eligible/deployed, not one synchronized controller Order. Team members stay in the **same Combat Group**.
+
+**Best when:** Vanilla wants a REM enhancement (e.g. Sierra), a defensive Hacker, and one/two independently positionable ground network/denial routes. Repeaters are carried, **not predeployed**; reaching cover and placing them costs Orders. **Why not automatic:** 1 SWC competes with attack guns, the parent has only one Wound, and 8-point Mk-III bots can be removed by hacking or ordinary attacks. A Fugazi, Pathfinder or Peacemaker is often a cheaper single-purpose solution. [Whole-game #4 Best mobile Repeater](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater); [hybrid force-multiplier tradeoff](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+**Profile distinction:** RacerBot **Mk-III** is Pilot-X-dependent; **standalone Mk-I and Mk-II**, where legal, are distinct orders/support profiles and do **not** inherit the Mk-III toolkit or the Pilot-X dependency. The OSS/ALEPH Pilot-X version **23/.5** is not the PanO **21/1** loadout.
 
 ---
 
