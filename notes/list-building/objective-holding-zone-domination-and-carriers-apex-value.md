@@ -1,6 +1,14 @@
 # Objective Holding / Zone Domination / Carried Objectives — N5.3 Apex & Value
 
-**Independent defensive bodies versus shared activations:** [N5.3 Peripheral and Multi-Body apex/value](peripheral-synchronized-multibody-apex-value.md) distinguishes **Sirius+SiriusBot, Drummer+FO Drumbot, Raptor+Devabot, Puppetactica pickets and multi-Proxy Posthumans**, which can occupy different real physical places but do **not each produce pooled Regular Orders**. Count costs/Null state separately for zone control.
+**Independent defensive bodies versus shared activations:** [N5.3 Peripheral and Multi-Body apex/value](peripheral-synchronized-multibody-apex-value.md) compares packages occupying distinct physical locations:
+
+- **Sirius + SiriusBot**
+- **Drummer + FO Drumbot**
+- **Raptor + Devabot**
+- **Puppetactica pickets**
+- **Multi-Proxy Posthumans**
+
+These bodies do **not each generate a pooled Regular Order**. Count each component's costs and Null state correctly for zone control.
 
 _23 October 2026 · whole-game **qualitative** rankings, not measured tournament win rates. Current Sep 2026 N5.3 profiles, AVA and legal Fireteams are sourced from [sectorial roster files](../../sectorials); dated video/podcast transcripts supply tactical opinions, not roster authority. These cross-faction examples **cannot** be combined in one normal list._
 
@@ -10,7 +18,12 @@ _23 October 2026 · whole-game **qualitative** rankings, not measured tournament
 
 - **Best no-nonsense carried-objective value:** **JSA Karakuri FO 31/0** — **STR3, ARM3, BTS6, Immunity(Enhanced), Remote Presence**, self-GizmoKit(PH12), shotgun/Chain Rifle/Panzerfaust. 0SWC and survives multiple failed saves. **Cannot enter Marker State**, but doesn't depend on one. **Ōban** AVA3 vs **Vanilla JSA** AVA2, legal Fireteams change.
 - **Best carried-objective apex, movement/safety:** **JSA Shikami 42/0** — Specialist, 2W, Mimetism(-6), **Eclipse**, Super-Jump, Climbing Plus, FD(+10), Dodges. Safely reaches and escapes a pickup across rooftop/visor lanes; **not more durable than 3STR Karakuri** when caught in the open or hacked. Choose 47/0 gun profile when fighting matters.
-- **Best loaded specialist/zone combined:** **ALEPH/OSS Asura HD+ 63/.5**, **Ramah Namurr 41/0** and **White Banner/IA Shang Ji FO36/0**. Asura: **MSV3/ARM5/W2+NWI/WIP15** with HD+ and anti-hacker pressure. Namurr: **W2, Immunity(Enhanced), Climbing Plus, Specialist Operative, Tactical Awareness** (Breaker Rifle41/0). Shang Ji: **W2/ARM4/BTS6, FO, Tactical Awareness**, with link/Firewall support in actual sectorial. Each can carry an objective **and stay relevant**.
+- **Best loaded specialist/zone combined:**
+  - **ALEPH/OSS Asura HD+ 63/.5:** MSV3/ARM5/W2+NWI/WIP15, HD+ and anti-hacker pressure
+  - **Ramah Namurr 41/0 (Breaker Rifle):** W2, Immunity(Enhanced), Climbing Plus, Specialist Operative, Tactical Awareness
+  - **White Banner/IA Shang Ji FO36/0:** W2/ARM4/BTS6, FO, Tactical Awareness, and potential link/Firewall support in the legal sectorial
+
+  Each can carry an objective **and remain relevant**.
 - **Best elite zone *swing* by points in one movement:**
   - **Avatar 122/3**
   - **Sphinx93/2**
@@ -38,7 +51,10 @@ _23 October 2026 · whole-game **qualitative** rankings, not measured tournament
   - **O-12 Sirius FO+Repeater SiriusBot21/0**
   - **PanO Drummer FO + Drumbot-5 FO21/0**
   - **Kestrel/other Peacemaker23/0 + Auxbot**
-  - **Nomads Puppet Master11/0 + PuppetBot FO9/0 (20/0 minimum)** and **Shasvastii Shrouded/Seed bodies**. Distributed positions and physical ARO forks are useful; **not multiple pooled Orders**, and peripheral/Proxy VP must be handled as specified by mission rules.
+  - **Nomads Puppet Master11/0 + PuppetBot FO9/0** — 20/0 minimum purchase
+  - **Shasvastii Shrouded / Seed bodies** — separate dispersed presence
+
+  Distributed positions and physical ARO forks are useful, **not multiple pooled Orders**; calculate Peripheral/Proxy VP per mission.
 - **Best medium-budget covered holding in Ariadna:**
   - **USAriadna Minuteman FO25/0** (Non-Hackable, T2/LFT, immunity)
   - **FRRM Moblot Paramedic29/0 / Engineer31/0** (Non-Hackable, Mimetism, Tactical Awareness)
@@ -195,7 +211,13 @@ _23 October 2026 · whole-game **qualitative** rankings, not measured tournament
 ## 6. 20-second decision test
 
 1. **Which scoring check?** End of each round **VP majority**, last-player-turn pickup, or end-game **non-Null Specialist box holder**? Check actual scenario, **Baggage** and **Shasvastii** exceptions.
-2. **What do I need: reach, survive, or stop enemy touching me?** Shikami (reach), Karakuri (absorb), Asawira/Namurr (recover/immunity), Moran/Devabot (defend). Don't buy only one function for all three.
+2. **Which actual objective role do I need?**
+   - **Shikami:** reach the objective
+   - **Karakuri:** absorb punishment while holding it
+   - **Asawira / Namurr:** recovery or immunity
+   - **Moran / Devabot:** defend the carrier or its approach
+
+   Don't buy one function and assume it covers reach, survival and denial.
 3. **How many real points survive in the zone, and what flips it?** A 31pt Karakuri may beat a 20pt deficit without exposing a 93pt Sphinx. Count separate Proxy/peripheral cost contributions legally, never duplicate parent total.
 4. **Can the enemy contest without killing?** Supplies control fails if enemy Model in Silhouette contact; plan a guarded *contact square* and exit path, not simply Suppressive Fire into an irrelevant street.
 5. **Which unit can actually pick up?** Specialist required; TAG/guard normally can't. A camouflaged Specialist must stay a visible Model to carry the box; check legal handoff.

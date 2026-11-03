@@ -13,12 +13,13 @@ _Research: 2026-10-23 · **qualitative** whole-game tiers, **not simulated win r
 **Question:**
 
 - which purchase creates the most **useful separate threats, ARO forks and physical defense per Order**, without misleadingly treating four bodies as four Independent Regular Orders?
-- **Short answer:** **Chimera+3 Pupniks19/0** for cheap assault/vision control
-- **Antipode Handler+3 Antipodes26/0** for scouting/CC and **Regular+Tactical Awareness**
-- **Puppet Master11/0+3 PuppetBots27–48 additional** for rotating expendable active Spearheads and defensive pickets
-- **Drummer FO+FO Drumbot-5 21/0** for *two genuine synchronized FO origins*
-- **Gearhead13/0+one/two Puzzler12–13 each** for *Autonomous* remote defense
-- **ALEPH Posthumans (2–3 Proxies)** for unequalled alternate locations/roles on one shared Order.
+- **Short answer — choose the package for its job:**
+  - **Chimera + 3 Pupniks19/0:** cheap assault/vision control
+  - **Antipode Handler + 3 Antipodes26/0:** scouting/CC and Regular + Tactical Awareness
+  - **Puppet Master11/0 + 3 PuppetBots (27–48 additional):** rotating active Spearheads and defensive pickets
+  - **Drummer FO + FO Drumbot-5 21/0:** two genuine synchronized FO origins
+  - **Gearhead13/0 + one/two Puzzlers (12–13 each):** Autonomous remote defense
+  - **ALEPH Posthumans (2–3 Proxies):** alternate locations/roles sharing one Order.
 
 None wins every metric.
 
@@ -129,8 +130,17 @@ None wins every metric.
 7. **Tunguska 2024 opposing list-building:** [WIP12 E164 — Tunguska](https://open.spotify.com/episode/0cPQp2gQmRPxL2PqhlU0Vr), Podcast transcript, high marks to FO/AP MMR Puppets, but argues **Red Fury PuppetBot SWC/total team cost** can be hard to fit; some lists settle for one or two Puppets. Pre-N5.3; **not** reliable current pricing.
 8. **Cyberplug current-edge autonomy:** [Robert Shepherd — Next Wave N5 Faction Focus](https://www.youtube.com/watch?v=52aFgWpv8es), YouTube transcript, says **Gearhead+two Puzzlers** is often the strongest practical Next Wave purchase; **12pt Puzzler over pricier Ranter** for ambush/denial, and corrects that Autonomous exists after Controller dies. **Counter:** their Autonomous BS drops and two don't generate two pooled Regular Orders; one area template can still remove a close pair.
 9. **Proxies and RacerBots value split:** [Tactical Awareness — OSS Mazebreaker N5.3](https://www.youtube.com/watch?v=Jh4jVsFoHN4) / [podcast](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG), both MCP transcripts. Proxies praised for cheap **13pt WIP15 specialist positions**, **Pilot-X+two 8pt RacerBots** projected as strong multiple fast tools. **Counter:** don't compare **8pt RacerBot in isolation**—the package needs **Pilot-X23/.5**, so **31/.5 for one, 39/.5 for two**.
-10. **Tohaa heavy versus cheap peripheral geometry:** [Tactical Awareness — S3 Ep37 Tohaa](https://www.youtube.com/watch?v=i1tcqWpV9jQ) / [Podcast episode](https://open.spotify.com/episode/5zhPiR44EzbQ4GFKkICRvG), both MCP transcripts. **Gorgos+Chaksa** can threaten different targets when Synchronized, **Rasail/Kerail** shift risk into cheap close bodies. **Opposing:** 67–70pt Gorgos big gun + extra bot is premium; 25–33pt Kerail or 27pt Rasail creates lower-cost attack forks.
-11. **New CJC BambaBot vs separate BambaDroid debate:** [WIP12 E208 — Corregidor post-Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9), Podcast transcript (~36, 67, 114min), favors **Coyote attached BambaBot** or **13pt independent BambaDroid** by matchup: FO/Repeater vs Mines/AP and a more active MULTI-MMR parent. **Counter:** these are different paid/delivery architectures; Coyote+independent BambaDroid is a **40pt+** team, not 27pt two-FO for free.
+10. **Tohaa heavy versus cheap Peripheral geometry:** [Tactical Awareness — S3 Ep37 Tohaa](https://www.youtube.com/watch?v=i1tcqWpV9jQ) / [Podcast episode](https://open.spotify.com/episode/5zhPiR44EzbQ4GFKkICRvG), both MCP transcripts, contrast:
+    - **Gorgos + Chaksa:** synchronized different-target pressure from a premium 67–70pt TAG + bot package
+    - **Kerail:** 25–33pt lower-cost attack forks using close Peripheral bodies
+    - **Rasail:** 27pt alternative shifting risk into close bodies
+
+    The expensive Gorgos gun-and-bot package is not automatically preferable to the cheaper geometries.
+11. **New CJC BambaBot versus separately purchased BambaDroid:** [WIP12 E208 — Corregidor post-Mazebreaker](https://open.spotify.com/episode/342lz18SRGSZ8QWf1Zg3Z9), Podcast transcript (~36, 67, 114min), compares:
+    - **Coyote + attached BambaBot:** an integrated parent/Peripheral architecture for FO/Repeater or Mines/AP duties, depending on profile
+    - **Independent BambaDroid13pt:** separate purchase and delivery; can accompany an active MULTI-MMR parent
+
+    These are different architectures. Coyote plus separately purchased BambaDroid is a **40pt+** commitment, not a free 27pt double-FO team.
 12. **Combined Peripheral caution:** [Robert Shepherd — Tunguska](https://www.youtube.com/watch?v=A2eKdenbcsw) and [MetaChemistry Tunguska](https://open.spotify.com/episode/6XSTLXqQUFcjv9lYcDTZ6g) both emphasize opponent can use **backfield assassination** or hacking rather than chew through individual PuppetBots. This supports investing in protected Controller position / AD screen over paying for a fourth gun that cannot be independently activated.
 
 ## 5. 30-second list check

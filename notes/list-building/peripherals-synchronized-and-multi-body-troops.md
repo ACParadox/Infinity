@@ -5,9 +5,22 @@
 **Current unit packages and independent-threat tiers:**
 
 - [Peripherals & Synchronized Multi-Body — N5.3 apex/value](peripheral-synchronized-multibody-apex-value.md) separates **Synchronized multi-target ARO forks**, **Control one-Spearhead targeting**, **Cyberplug Autonomous ARO/pool activity**, **Posthuman one-active-Proxy positions** and **Ancillary/Servant**.
-- Includes actual 19pt Chimera, 21pt double-FO Drummer, 26pt Antipodes, Puppet Master tax, Gearhead+Puzzlers, and 12 MCP transcript arguments.
+- Includes current example packages:
+  - **Chimera 19pt**
+  - **Drummer double-FO 21pt**
+  - **Antipodes 26pt**
+  - **Puppet Master** and required bot cost
+  - **Gearhead + Puzzlers**
 
-**Multi-body zone control and carrier accounting:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) explains per-Proxy points/Null scoring, one shared G:Jumper Order, synchronized Drummer/Sirius/Coyote screens, the proper ancillary/Controller distinction and **why multiple bases do not grant multiple pooled Regular Orders**.
+  Also documents 12 MCP transcript arguments.
+
+**Multi-body zone control and carrier accounting:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) covers per-Proxy points/Null scoring, one shared G:Jumper Order and several synchronized screening packages:
+
+- **Drummer + Drumbot**
+- **Sirius + SiriusBot**
+- **Coyote + BambaBot**
+
+It also distinguishes Ancillary/Controller status and explains **why multiple bases do not grant multiple pooled Regular Orders**.
 
 **Concrete verified double-FO exception:**
 
