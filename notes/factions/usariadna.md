@@ -73,7 +73,13 @@ They are alternatives with different destinations, not a mandatory three-piece p
 - **112 Motorized:** motorcycle LI, not a VH.
 - **Traktor Mul:** the only standard USARF REM (AVA2).
 
-Do not import **Chernobog, Anaconda, Vystrel, Kuryer or Dynamo** merely because a different Ariadna roster has them.
+Do not import the following from other Ariadna rosters:
+
+- **Chernobog**
+- **Anaconda**
+- **Vystrel**
+- **Kuryer**
+- **Dynamo**
 
 ### Traktor Mul — the shared Ariadna REM
 
@@ -97,15 +103,27 @@ Treat the Blackjack as a **heavy-gun platform**, not an expensive TAG with remot
 
 ## Fireteam and command traps
 
-- **Limits:** **1 Core, 1 Haris, unlimited Duos**. Native **Grunt Core/Haris** needs ≥1 actual Grunt (FD Grunt excluded). **USARF Core/Haris/Duo** uses a **Minuteman-or-Marauder required-choice foundation**. **Blackjack Haris/Duo** needs ≥1 Blackjack. **Mavericks Haris/Duo** needs ≥1 Maverick, up to 2 Mavericks and 1 Motorized 112. **USAMC Duo** = **Devil Dog FTO only**. Wildcards (112 FTO, Rosie, Unknown Ranger) can join an otherwise eligible formation, but do not erase a native requirement.
-- **An FTO label doesn't authorize a Fireteam:** 9pt **Beasthunter FTO** has **no entry** in the USAriadna chart. The normal Devil Dog + K-9 is *not* USAMC FTO. The **12pt Forward Deployment Grunt** explicitly cannot join.
+- **Fireteam limits:** 1 Core, 1 Haris and unlimited Duos, with different required-choice models:
+  - **Grunt Core/Haris:** requires a native Grunt, excluding the Forward Deployment variant.
+  - **USARF Core/Haris/Duo:** a Minuteman-or-Marauder foundation.
+  - **Blackjack Haris/Duo:** requires a Blackjack.
+  - **Mavericks Haris/Duo:** requires a Maverick and observes the actual maximum.
+  - Check canonical profile/FTO and composition restrictions.
+- **An FTO label alone never establishes membership:**
+  - **Beasthunter FTO (9pt):** absent from the USARF chart.
+  - **Devil Dog + K-9:** normal package is not the USAMC FTO.
+  - **Forward Deployment Grunt (12pt):** explicitly cannot join.
 - **Lieutenant choices:**
   - **Grunt LT (10):** cheap concealed command.
   - **Minuteman T2 FO LT (27/0):** +1 Command Token and a tougher-looking body, but exposing it risks command.
   - **Marauder LT (19/0):** alternative with midfield exposure risk.
   - **Foxtrot Camo LT (17/1):** hidden identity at an SWC premium.
   - Choose for command safety as well as shooting; a cheap LT is not necessarily protected.
-- **Composition:** 112 FTO/Rosie count as **Grunts**; Unknown Ranger counts as **USARF**. Composition bonuses require the actual current chart/keyword combination: do not assert “all Wildcards count as everyone.” **Rosie + 112 + Blackjack** is a useful tested Haris shape, not a license to bring a solo Blackjack into any Fireteam regardless of constraints.
+- **Composition counting rules:**
+  - **112 FTO / Rosie:** count as Grunts.
+  - **Unknown Ranger:** counts as USARF.
+  - **Rosie + 112 + Blackjack:** one tested Haris configuration, not general solo-Blackjack permission.
+  - Wildcard status does not automatically grant every family keyword.
 - **Off-table Orders:** Van Zant and 6th Airborne arrive later. Balance surprise with enough starting-on-table ARO/specialist pieces; losing two important Regular Orders before an airborne plan comes online is a real cost.
 - **SWC exercise:** a heavy-weapon shopping list can spend nearly everything:
   - **Blackjack AP HMG:** 1.5 SWC
@@ -117,7 +135,11 @@ Treat the Blackjack as a **heavy-gun platform**, not an expensive TAG with remot
 ## Where the analysts disagree (short version)
 
 1. **How strong is updated USARF?** Shepherd **May 2025** / TA **Jan 2025**: underpowered compared with opponents, limited redundancy, poor mission flexibility. Swiss Miss **Oct 2025**: recent upgrades give genuinely compelling Minuteman/Blackjack/Devil Dog choices. **Different dates** are a major part of the disagreement; don't copy pre-update ratings verbatim.
-2. **Best main gun: Minuteman vs Blackjack vs Unknown Ranger?** **Swiss Miss:** Unknown Ranger near S; 2025+1SD Minutemen near top A; Blackjack solid A. **LoL Nov 2025**: Blackjack **low B/high C** due mobility, BTS collapse; Minuteman ML can be a more oppressive ARO. **Shepherd pre-update**: Blackjack usable if linked but not a premium gun; Unknown Ranger no longer N4's default superstar. **Practical rule:** Minuteman for special-die/NCO/FO utility, Blackjack for 2-Wound assault/ARO, Ranger for MSV+Tactical Awareness+scoring.
+2. **Main gun comparison (opinions from different dates):**
+   - **Unknown Ranger:** Swiss Miss rated near S for its role.
+   - **Minuteman:** Swiss Miss rated updated +1SD profiles highly; LoL valued the ML ARO.
+   - **Blackjack:** Swiss Miss rated solid A, whereas LoL argued low B/high C due to mobility/BTS collapse.
+   - Earlier Shepherd commentary predates those reworks; do not treat it as the same balance snapshot.
 3. **Grunt brick vs distributed links:** Old USARF fans like HFT/line infantry stacking; Shepherd advocates **minimal** Grunt support and many small independent attacks. Grunts cost less; opponents also have easier tools to kill static W1 BS11 links. Choose based on table/mission, not nostalgia.
 4. **Hardcase vs Beasthunter vs Foxtrot:** Hardcase is cheap decoy distraction but Irregular; Beasthunter presents a more serious AP mine/HFT/CC threat; Foxtrot is a Regular on-table scoring/mine asset. Which one matters depends on whether **Order pool, midfield defense, or disposable assassination** is missing.
 5. **Devil Dog FTO vs K-9:** Solo 22pt FTO can form USAMC Duo and threaten with grenades; **23pt K-9 team** compresses Sensor/multiple bodies and better CC/mine clearing. **Shepherd** prefers K-9; **Swiss Miss** sees genuine upside to the new FTO Duo as a different list idea, not simply a cheaper replacement.
