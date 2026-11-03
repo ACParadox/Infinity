@@ -120,21 +120,27 @@ The modular, mixed-technology ecosystem matters more than a universal five-model
   - **Tanuki CoC 18/0:** succession cover for an attacking Lieutenant.
   
   Shinden does not gain Ōban/Vanilla Kempeitai CoC.
-- **Mission/network choices:**
-  - **Tanuki Pitcher:** small projected Repeater web.
-  - **Robio / Atom / Pangguling:** supporting network/REM options.
-  - **Uran Guided 16/1.5:** conditional Targeted punishment.
-  - **Teishin 19–23:** airborne FO, Hacker or KHD.
-  - **Ninja / Kurayami / Saito:** Hidden Deployment/Infiltration.
-- **TAG and repair tools:**
-  - **Mechazoid / Triphammer:** legal TAG families with their own Ancillaries.
-  - **Tokusetsu / Tanuki Engineer / Monstrucker / Yuriko:** technical recovery.
-  - **Pangguling Baggage:** resupply.
-  
-  O-Yoroi is not available in the standard roster; a TAG Ancillary does not create an extra Regular Order.
-- **No ordinary Impersonation assassin:** Shinden has Hidden Deployment and some **Mimetism(-6)** Ninjas/Saito, **not** a Fiday/Speculo-style Impersonation starting state. It also lacks Ōban's Oniwaban/Shinobu assassination package; do not transfer them across rosters.
-- **Its conspicuous bad baseline is Senku combat quality:** **BS11, WIP12, PH10, ARM0, W1**, with an **HMG at 17/1 SWC**. As a **fighting line trooper**, Senku is among the weakest offerings and the **HMG is an especially poor primary-gun choice** compared with Shizoku, Rui Shi and Hatamoto. But a **9pt/0 Regular Order**, **10pt FO**, **11pt Commlink specialist** or **11pt Paramedic** is **useful budget team material**; calling every Senku profile one of the game's worst *value* picks would be misleading.
-- **Costs and vulnerabilities:** premium Hatamoto/Shizoku/TAG modules are **Hackable**, and a Tanuki-based team loses multiple roles if its Tanuki is isolated or removed. Several excellent cheap trades are **one-use Camo** (Kyojin, Yamabushi), **not** reusable marker-state engines. Build **redundant objective access, long-range answers and deployment-zone protection**, rather than investing the entire plan in one aggressive Haris.
+- **No ordinary Impersonation assassin:** Shinden's concealment does not grant Impersonation.
+  - **Ninja:** Hidden Deployment/Infiltration, with Mimetism(-6) on the chassis.
+  - **Saito:** another concealed Infiltration attacker, not an Impersonator.
+  - **Fiday and Speculo:** Impersonation assassins that are **not** available.
+  - **Oniwaban and Shinobu:** Ōban-only assassins, also **not** available.
+- **Senku has weak combat statistics:** BS11, WIP12, PH10, ARM0, W1. The HMG at 17/1 SWC is poor as a primary gun, even though cheap utility options matter.
+  - **Senku basic 9/0:** inexpensive Regular Order and team support.
+  - **Senku FO 10/0:** budget objective specialist.
+  - **Senku Commlink 11/0:** budget specialist.
+  - **Senku Paramedic 11/0:** budget support.
+  - **Shizoku:** stronger heavy gunfighter.
+  - **Rui Shi:** inexpensive mobile visor gunfighter.
+  - **Hatamoto:** premium fighting specialist.
+- **Costs and vulnerabilities:**
+  - **Hatamoto:** Hackable premium combat model.
+  - **Shizoku:** another Hackable premium combat model.
+  - **TAGs:** Hackable and require a real recovery/defence plan.
+  - **Tanuki:** losing a central Sayō anchor removes multiple capabilities.
+  - **Kyojin:** one-use Camo for cheap forward trading.
+  - **Yamabushi:** one-use Camo and Dogged for asymmetric trading.
+  - **List response:** protect independent scoring, long-range attack options and deployment-zone security.
 
 **Prioritize distinct jobs:**
 - **Command:** Metsuke or Hatamoto LT protected by Tanuki CoC.
@@ -152,15 +158,21 @@ The strongest repeated Shindenbutai list-building theme is:
 
 Current Shindenbutai has **1 Core, 1 Haris, and unlimited Duos**. That unlimited-Duo access is not trivia; it strongly supports the sectorial's practical identity.
 
-A good Shinden list often looks more like:
+A good Shinden list distributes its resources across:
 
-> **command package + 1–2 Sayō modules + independent midfield threats + visibility/control tools + long-range answer + mission specialists**
+- **Command:** a sustainable LT/Order engine.
+- **Fireteams:** one or two compact Sayō modules.
+- **Midfield:** independent threats.
+- **Visibility control:** an alternative to fair shooting fights.
+- **Long range:** a credible lane-opening gun or denial plan.
+- **Mission:** specialists that can survive to score.
 
-than:
+This is more flexible than assuming a compulsory five-model Core around a single attacker.
 
-> **five-model Core + primary Rambo + cheerleaders.**
+Both sample-list constructions illustrate the army's modular strength:
 
-Robert Shepherd explicitly demonstrates that a good Shinden list can contain **no Senku and no Hatamoto at all**. Tactical Awareness demonstrates the opposite extreme with **two Hatamoto**. Both constructions work because the army's strength is the modular architecture rather than one mandatory premium troop.
+- **Robert Shepherd:** no Senku or Hatamoto.
+- **Tactical Awareness:** two Hatamoto.
 
 ## The most repeated go-to pieces
 
@@ -521,7 +533,10 @@ Pick the Duo by the needed support job; neither combines both partners into a th
 
 ### 5. Yamabushi Duo
 
-Current FTO Yamabushi can form a Duo, with Ioann Bann eligible as a Yamabushi-counting member.
+Yamabushi Duo eligibility includes:
+
+- **FTO Yamabushi:** native anchor.
+- **Ioann Bann:** counts as a Yamabushi teammate.
 
 This is niche compared with the Camo versions because using FTO Yamabushi consumes limited AVA that could otherwise provide independent midfield markers.
 
@@ -610,7 +625,11 @@ Use it to:
 
 ### Smoke + MSV
 
-Motorized Yojimbo provides conventional Smoke, while Rui Shi/Tanuki have MSV options.
+The ordinary-Smoke/visor roles are complementary:
+
+- **Motorized Yojimbo:** conventional Smoke delivery.
+- **Rui Shi MSV2:** shoot-through-normal-Smoke weapon.
+- **Tanuki MSV2 profiles:** alternate visor guns.
 
 This creates the opposite interaction:
 
@@ -714,7 +733,10 @@ Current Teishin provides Combat Jump/Parachutist access with:
 - KHD;
 - Forward Observer.
 
-Tanuki creates the network from the front. Teishin can attack from a different axis, especially with the KHD or objective-focused FO profile.
+The two network approaches differ:
+
+- **Tanuki:** projects the network from the main battle line.
+- **Teishin:** attacks an unexpected axis with KHD or objective-focused FO options.
 
 Use Teishin when the matchup rewards:
 
@@ -804,7 +826,7 @@ These are alternatives, not mandatory bodyguards. See [force-multiplier guide](.
 - **Garon Smoke Grenade Launcher:** a supporting piece that places repeated ranged Smoke and guards a lane.
 - **Tanuki Disco Baller:** an Eclipse approach that handles enemy MSV differently from ordinary Smoke.
 
-Both Yojimbo and Garon can be useful, but a list short on Regular Orders may prefer Garon/Disco support rather than another independent trading piece.
+These are alternative investments; if Regular Orders are tight, prioritize the Garon/Disco support approach rather than adding an independent Yojimbo trade piece by default.
 
 ### Opponent-side checks: why a powerful Shinden list can still fail
 
@@ -850,7 +872,13 @@ A list should have some plan for long-range opening or denial, such as:
 
 ### 2. Protect the hacking exposure of expensive pieces
 
-Hatamoto, Shizoku and TAGs are hackable. Do not interpret Shinden's own Pitcher access as meaning it automatically wins a hacking contest.
+The key premium units are Hackable:
+
+- **Hatamoto:** attacking specialist HI.
+- **Shizoku:** ranged HI.
+- **Mechazoid and Triphammer:** TAGs with high investment.
+
+Shinden's own Pitcher access does not imply dominance in hacking contests.
 
 Useful counterplay inside the roster includes:
 
@@ -863,7 +891,12 @@ Useful counterplay inside the roster includes:
 
 ### 3. Preserve real Turn 3 specialists
 
-Kyojin, Yojimbo and other trade pieces are excellent at dying profitably. A list made entirely of efficient violence can still lose the mission after clearing the table.
+Cheap trade pressure is useful but may not survive to score:
+
+- **Kyojin:** forward template/disposable threat.
+- **Yojimbo:** Smoke, Koalas and CC trading.
+
+A list built only for efficient violence can still lose after clearing the table.
 
 Keep enough surviving mission capability through:
 
