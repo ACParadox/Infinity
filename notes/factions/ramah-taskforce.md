@@ -12,7 +12,13 @@ The dated assessments below were moved from the [Ramah Taskforce N5.3 reference]
 
 #### One-minute read
 
-- **Strength:** highly mobile *problem-solvers* (Tarik/Khawarij, Namurr, Mukhtar, Nahab), strong burst/modifier infantry shooting (Janissary, Zhayedan), efficient cheap orders (Ghulam/Naffatûn/Fanous), an excellent **Haytham flyer**, and **Maghariba/Shakush** TAG access. You often have the right offensive *tool*; the challenge is paying for it without destroying your order/defense budget.
+- **Strength:** many excellent independent pieces, but each consumes real attack Orders:
+  - **Tarik / Khawarij:** mobility, Super-Jump and combat.
+  - **Namurr / Mukhtar / Nahab:** specialized mission and flank tools.
+  - **Janissary / Zhayedan:** strong infantry shooting.
+  - **Ghulam / Naffatûn / Fanous:** inexpensive Order economy.
+  - **Haytham:** specialized fast aerial threat.
+  - **Maghariba / Shakush:** two different TAG packages.
 - **Weakness:** premium models are costly, and many fast super-soldiers are only one Wound or lack defense in the enemy active turn. Limited infiltrating midfield, thin expendable screening, narrow long-range anti-armor outside TAGs, and easy-to-attack expensive pieces make Ramah a **positioning and target-selection army**, not a simple shove-everything-forward elite faction.
 - **Best general solution:** one premium active attacker **plus** a practical mission/defense backbone, not four unsupported premium units. Build deliberately for **going second**: a couple of Shihabs/Flash REMs, a Monstrucker/Nasmat to repair them, inexpensive template defenders, and depth protecting elite models from alpha strikes.
 - **Sectorial identity disagreement:** Tactical Awareness emphasizes the unusually tough, efficient and fast *individual* super-soldiers, especially Tarik. Robert Shepherd considers post-October Ramah one of N5's **challenge factions** due to expensive profiles, structural gaps and required defense spending. Burlesford enjoys its improved N5 options but agrees it punishes sloppy list building. These are compatible observations: *excellent highlight models do not automatically make an effortless army*.
@@ -48,7 +54,12 @@ The dated assessments below were moved from the [Ramah Taskforce N5.3 reference]
 - **Armored Assault Duo:** **Maghariba/Shakush + Rafiq FTO** to bring Sensor/Repeater/Red Fury and a special-purpose team while the TAG goes active. **Rafiq 13-point non-FTO cannot take the FT-04 slot**. Alternatives include a TAG + a permitted Wildcard such as Namurr when the role and cost make sense.
 - **Balanced 15-model concept:** main-group active gun and objective piece(s); **second combat group** Shihab(s), **Monstrucker (+Nasmat)**, three Fanous if affordable, plus Ghulam NCO smoke / Zhayedan for productive spare Orders. The 1-Haris limit means not stacking several Haris regardless of what a recorded example list says.
 
-**Order-budget test:** Before adding a second expensive attack troop or TAG, calculate actual **Regular Orders in each combat group**. Monstrucker and Hunzakut are Irregular; TacAware and NCO have restrictions. The cost of Tarik + Namurr + Mukhtar + Maghariba in one list is the deployment/ARO plan you no longer can afford. Multiple vectors matter only when they can each receive Orders.
+**Order-budget test:** count usable Regular Orders per group before purchasing additional attackers:
+- **Monstrucker / Hunzakut:** Irregular, so their Orders are not freely spendable by other troopers.
+- **Tarik + Namurr + Mukhtar + Maghariba:** a costly illustrative pile-up that can remove the deployment and ARO budget.
+- **Tactical Awareness / NCO:** only fund permitted activations.
+
+Multiple threats matter only when each can actually receive Orders.
 
 #### TAG, VH, REM and repair ecosystem — Ramah-specific
 
@@ -64,7 +75,14 @@ The dated assessments below were moved from the [Ramah Taskforce N5.3 reference]
 | **Fanous REM (AVA3)** 7pt Flash Pulse + Repeater | Probably Ramah's most consistent low-cost route to 15 models with **cheap defensive AROs and hacking coverage**; AVA3 means spam is legal here unlike narrower sibling sectorials. | Orders and models count, but a Flash bot is **not** a midfield specialist or a reliable stop against hard assault pieces. |
 | **Nasmat / Jandab peripherals and Sayiq pilot** | **Nasmat** extends doctors/engineers; **Jandab** is bundled with Maghariba/Shakush and contributes scenario/screening tasks; **Sayiq pilot** is bought separately as current roster and supports TAG mobility/repair. | Peripherals **do not add Regular Orders**. A TAG's Jandab isn't a second independently purchased TAG or Fireteam member. Sayiq **belongs to FT-01 Ramah team**, *not* automatically FT-04 Armored Assault. |
 
-**Across Haqqislam:** [Robert Shepherd's Vanilla Haqqislam N5 guide](https://www.youtube.com/watch?v=Dmv4pfdTbc0) corroborates Shakush's price-to-shooting value and Maghariba's Baggage/area denial, but he emphasizes **S8 concealment**. The [Aerial Vehicles Analysis & Ranking](https://www.youtube.com/watch?v=N6TYjMgU4ZM) explains flyer risk and Haytham's favorable vehicle-on-vehicle matchup. Other Vanilla units (e.g. **Scarface, Triphammer and Zeybek**) are **not** in pinned Ramah's 37-unit standard roster. **Iguana** is likewise unavailable. Some 2025 auto-transcripts call Zeybek **“Shaykh Bakr”** phonetically; this does not establish a separate roster entry. Do not import units or another sectorial's Fireteams/AVA.
+**Cross-Haqq tactical comparisons** (Ramah's pinned 37-unit roster remains authoritative):
+- **Shakush:** [Vanilla review](https://www.youtube.com/watch?v=Dmv4pfdTbc0) discusses cost-effective shooting.
+- **Maghariba:** the same review explains Baggage, area denial and difficulty hiding an S8 model.
+- **Haytham:** [Vehicle review](https://www.youtube.com/watch?v=N6TYjMgU4ZM) discusses its hacking/exposure risk and anti-flyer use.
+- **Scarface, Triphammer and Zeybek:** Vanilla examples **not** available in Ramah's pinned standard roster.
+- **Iguana:** unavailable in Ramah.
+
+Auto-captions and historic roster claims are not N5.3 authority.
 
 #### Opposing opinions — keep both, choose by mission
 

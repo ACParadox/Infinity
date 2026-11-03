@@ -2,7 +2,11 @@
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/qapu-khalqi_refs.md). **Roster and Fireteams:** [Qapu Khalqi N5.3 reference](../../sectorials/haqqislam/qapu-khalqi.md).
 
-**Critical N5.3 reconciliation:** Contrary to the uploaded post-N5.2 chronology, **Rafiq Remote FTO (19/0.5, Red Fury) is currently a legal QK Wildcard (max 1)**; the 13-point non-FTO Rafiq has no Fireteam access. The pinned Odalisque entries have **15-5 MOV, Sixth Sense, NWI and Combat Instinct**, with individual Paramedic, +1B, Viral MMR/Marksmanship and Disco Baller choices. **Discover (+6), Natural Born Warrior, Stealth and “MediKit PH15” are not confirmed on the pinned Odalisque profile** and are not relied upon in the tactical recommendations. Sekban's Doctor option is **Doctor (+1)**, not Doctor (+3).
+**Critical N5.3 reconciliation** (pinned Army reference overrides older video claims):
+- **Rafiq Remote FTO 19/0.5 (Red Fury):** legal Wildcard, maximum one; **13pt non-FTO Rafiq** is not linkable.
+- **Odalisque:** 15-5 MOV, Sixth Sense, NWI and Combat Instinct; Paramedic, +1B, Viral MMR/Marksmanship and Disco Baller are distinct profile choices.
+- **Unconfirmed Odalisque attributes:** Discover (+6), Natural Born Warrior, Stealth and “MediKit PH15” are not verified on the pinned card.
+- **Sekban Doctor:** Doctor (+1), not Doctor (+3).
 
 ## Core identity
 
@@ -68,9 +72,9 @@ This note distinguishes **reported post-N5.2 testing**, **older N5 discussion**,
 
 ---
 
-# Command architecture: Hafza and Sekban
+## Command architecture: Hafza and Sekban
 
-## Hafza LT (+1 Order) + Sekban NCO
+### Hafza LT (+1 Order) + Sekban NCO
 
 This is one of QK's clearest **post-N5.2 default starting packages**.
 
@@ -94,7 +98,7 @@ Do not buy an NCO just to say you have one. If the NCO is deployed too far from 
 
 ---
 
-## Hafza Holomask and the shell game
+### Hafza Holomask and the shell game
 
 Holomask in QK should create **wrong decisions and delayed certainty**, not simply a funny reveal.
 
@@ -119,31 +123,31 @@ Useful discipline:
 
 ---
 
-## Lieutenant options
+### Lieutenant options
 
-### Hafza LT (+1 Order) — preferred general starting point
+#### Hafza LT (+1 Order) — preferred general starting point
 
 Choose this when the list has a valuable Sekban NCO outlet and wants safe, cheap command. The LT itself should not be required to expose itself to make the roster work.
 
-### Ordinary Hafza LT
+#### Ordinary Hafza LT
 
 Use when points are tight or the extra LT resource would go largely unused. It still offers the Holomask command shell.
 
-### Ghulam LT
+#### Ghulam LT
 
 Simple low-cost option, especially if several Ghulams already make the true identity hard to identify. Useful for a cheap backfield shell, although normally less attractive than a good Hafza command package.
 
-### Janissary LT
+#### Janissary LT
 
 A much tougher combat LT option. Consider when you already intend to buy the Janissary as a serious attacker and the rest of the list accepts aggressive-LT risk.
 
 **Hafza CoC** becomes significantly more attractive here. Keep the succession model **outside the same likely lethal attack footprint**; putting LT and CoC next to each other or in the same exposed Fireteam undermines the insurance.
 
-### Sekban LT
+#### Sekban LT
 
 A functional combat / utility LT, but it exposes command when used to solve midfield problems. Buy it for an intentional aggressive plan, not because the profile seems generically efficient.
 
-### Other cheap or exotic LTs
+#### Other cheap or exotic LTs
 
 Consider alternate available cheap LTs only for a specific roster construction, points break or command deception plan. Check current Army availability and actual profiles before selecting them. No strong evidence of a universal alternative LT consensus.
 
@@ -151,7 +155,7 @@ Consider alternate available cheap LTs only for a specific roster construction, 
 
 ---
 
-# Laxmee and the hacking network
+## Laxmee and the hacking network
 
 Laxmee is a high-priority QK toolkit piece:
 
@@ -163,7 +167,7 @@ Laxmee is a high-priority QK toolkit piece:
 
 The point is not simply “QK should have a Hacker.” It is that a good QK list can exploit **multiple forward hacking access points** while its actual gunfighter attacks from a different position.
 
-## Laxmee + Odalisque
+### Laxmee + Odalisque
 
 A particularly coherent **small-team / escort concept**, subject to the current Fireteam chart and selected profiles.
 
@@ -172,7 +176,7 @@ A particularly coherent **small-team / escort concept**, subject to the current 
 
 This remains attractive even when the final legal formation is different from an older posted Duo recipe. The idea is that Laxmee is easier to project toward useful midfield positions when another model can clear the danger.
 
-## Druze Pitcher + Laxmee / Al Hawwa
+### Druze Pitcher + Laxmee / Al Hawwa
 
 A classic combined-arms QK sequence:
 
@@ -183,17 +187,17 @@ A classic combined-arms QK sequence:
 
 **Druze is often best as a capability purchase, not a compulsory Druze Core.** Paying for one useful Hacker / KHD or Pitcher platform can be much more efficient than making five Druze the principal attack element.
 
-## Iguana / Laxmee network-support concept (verify exact Repeater source)
+### Iguana / Laxmee network-support concept (verify exact Repeater source)
 
 An advancing Iguana can benefit from Laxmee's Pitcher and other actual Repeater coverage while contributing AP-HMG pressure. **Do not assume the Iguana itself automatically has a Repeater: the pinned QK loadout does not explicitly list one on the TAG.** Identify which equipped trooper/deployable is providing coverage before counting this as a network engine. The standard caveat remains: a Repeater helps only when Hackers can exploit its area and can also expose your network to enemy interference.
 
-## Hacker redundancy
+### Hacker redundancy
 
 Al Hawwa can contribute forward specialist / hacking presence. Druze or other hackers expand the network. Do not overinvest in hacking if the mission, terrain and expected opponents mostly reward conventional gunfighting; do not stop at one expensive Hacker if the whole battle plan requires projected repeater coverage.
 
 ---
 
-# Yuan Yuan and asymmetric Order economy
+## Yuan Yuan and asymmetric Order economy
 
 The QK habit worth testing first is **two Yuan Yuan**, not because two are mathematically compulsory but because they perform several distinct jobs:
 
@@ -211,7 +215,7 @@ This is a meaningful alternative to deploying both for immediate suicide attacks
 
 Recent QK testing explicitly cautioned **against throwing Yuan Yuan away just to template the maximum number of models**. Killing one vulnerable 1W model and then remaining alive to consume future enemy Orders can provide more total value than attempting an ambitious trade against several tough targets.
 
-### Impetuous and Irregular sequencing
+#### Impetuous and Irregular sequencing
 
 - Check whether the Impetuous activation is safe or worth declining.
 - Put the Yuan Yuan where its own Irregular Order can genuinely produce smoke, movement or an attack.
@@ -219,7 +223,7 @@ Recent QK testing explicitly cautioned **against throwing Yuan Yuan away just to
 - Place self-funding warbands in a secondary group when they don't compete for normal Regular Orders needed by the main attack engine.
 - Budget Orders and arrival rolls for airborne or lateral deployment realistically rather than assuming an ideal alpha strike.
 
-### Yuan Yuan + Djanbazan
+#### Yuan Yuan + Djanbazan
 
 One of QK's most iconic packages:
 
@@ -238,7 +242,7 @@ Don't take Djanbazan solely because “QK is supposed to smoke-shoot”; take it
 
 ---
 
-# Odalisques: N5.2's standout winners
+## Odalisques: N5.2's standout winners
 
 Odalisques gained enough value in N5.2 to move from supporting role to **high-priority building block**.
 
@@ -253,7 +257,7 @@ Relevant **pinned N5.3** strengths:
 - **Paramedic** specialist;
 - **Disco Baller** tool.
 
-## Viral MMR + Marksmanship
+### Viral MMR + Marksmanship
 
 One of the clearest post-N5.2 recommendations. The positive field report singled out this profile as reliable and useful even as a **midfield reactive piece** in a Duo.
 
@@ -264,7 +268,7 @@ Prefer when:
 - Viral ammunition and Marksmanship attack a relevant target set;
 - the army has enough close-range safety elsewhere.
 
-## +1B short-range profiles
+### +1B short-range profiles
 
 Use when:
 
@@ -275,7 +279,7 @@ Use when:
 
 Useful Burst options plus Sixth Sense, NWI and Combat Instinct make these a different unit from an ordinary cheap rifle carrier; do not budget an absent Discover+6 bonus.
 
-## Paramedic
+### Paramedic
 
 Often very efficient when:
 
@@ -284,19 +288,19 @@ Often very efficient when:
 - MediKit utility matters;
 - you want a second scoring piece rather than another dedicated gun.
 
-## Disco Baller
+### Disco Baller
 
 This is an **enabling utility purchase**. It becomes valuable when the visual-control / support effect actually enables an expensive team to move, fight or claim an objective. Do not pay for novelty without a table plan.
 
-### Odalisque principle
+#### Odalisque principle
 
 > **In modern QK, ask whether an Odalisque can fill the team's missing role before buying a much more expensive third elite model.**
 
 ---
 
-# Main attack engines — choose one first
+## Main attack engines — choose one first
 
-## Iguana: TAG / hacking / Engineer architecture
+### Iguana: TAG / hacking / Engineer architecture
 
 One of QK's most coherent signature aggressive plans, especially after its 2025 improvement.
 
@@ -320,7 +324,7 @@ The September 2025 Burn City Brawl QK tournament report is the best linked pract
 
 ---
 
-## Janissary: conventional tough gunfighter
+### Janissary: conventional tough gunfighter
 
 Janissaries offer:
 
@@ -338,7 +342,7 @@ A post-update report found even a **Janissary ML in a Duo** surprisingly useful 
 
 ---
 
-## Azra'il: major heavy-weapon threat
+### Azra'il: major heavy-weapon threat
 
 Azra'il is the threat you select when its heavy weapon can make a key hard target very expensive to keep exposed.
 
@@ -359,7 +363,7 @@ That describes complementary roles, **not** a claim that every listed model can 
 
 ---
 
-# Fireteam architectures
+## Fireteam architectures
 
 **Validate the exact composition in live Army.** The N5.2 Bekçileri restructure and corrections invalidate a number of older printed and video lists.
 
@@ -367,7 +371,7 @@ The guiding rule is:
 
 > **Start with what the team must do; build the smallest legal team that improves its job.**
 
-## Bekçileri Janissary + Odalisque / Kaplan Duo
+### Bekçileri Janissary + Odalisque / Kaplan Duo
 
 One of the cleanest post-N5.2 constructions:
 
@@ -377,7 +381,7 @@ One of the cleanest post-N5.2 constructions:
 
 Use to give a premium gunfighter Fireteam movement and support without committing five models.
 
-## Bekçileri Haris / compact Core
+### Bekçileri Haris / compact Core
 
 Buy a third model when it adds a *different* job:
 
@@ -388,11 +392,11 @@ Buy a third model when it adds a *different* job:
 
 Avoid paying 100+ points for three similar guns that all want the same Orders.
 
-## Laxmee + Odalisque small-team / escort package
+### Laxmee + Odalisque small-team / escort package
 
 A good hacking + close/mid-range escort architecture. In any particular list verify whether the chosen Laxmee and Odalisque entries share a valid Fireteam; otherwise keep the same complementary roles without declaring a link.
 
-## Sekban-focused Duo / Haris
+### Sekban-focused Duo / Haris
 
 Good all-rounder team when the list benefits from an **NCO activator** that can also fight or contribute specialist and recovery work.
 
@@ -405,13 +409,13 @@ Profile selection should answer:
 
 Don't conflate mutually exclusive Sekban profiles.
 
-## Ghulam shell / Core
+### Ghulam shell / Core
 
 Still useful as **cheap Regular Orders, Lieutenant ambiguity, specialist support and defensive friction**. Odalisque integration after N5.2 makes some Ghulam-based packages more mobile / functional.
 
 A cheap Core is sound when you are spending heavily on Iguana / Azra'il / Janissary plus Laxmee and infiltration; it is less sound if its members become so passive that no one can score.
 
-## Djanbazan ranged / MSV package
+### Djanbazan ranged / MSV package
 
 The reason to include Djanbazan is usually **MSV2 combined with the list's Smoke and visual-control plan**.
 
@@ -421,11 +425,18 @@ The reason to include Djanbazan is usually **MSV2 combined with the list's Smoke
 
 Do **not** assume the corrected-away (Qapu Khalqi) tag exists.
 
-## Druze package
+### Druze package
+
+**Conditional artillery choices:**
+- **Druze GL + E/M GL 24/1:** Speculative/E/M pressure in the appropriate legal team.
+- **Shaytaniyah Guided 16/1.5:** payoff for Laxmee HD+, Al Hawwa' FO or Druze Pitchers/Repeaters.
+- **Shaytaniyah 19pt +1B Guided:** QK has a Guided option at this cost, unlike Ramah's non-Guided 19pt variant.
+
+Prefer direct fire/linked specialists when a Targeted setup would waste too many Orders. See [indirect-fire comparisons](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
 A small Druze presence for Pitchers, KHD / Hacker and E/M is often more compelling than making Druze the main combat block. A Druze team can be fine when the mission and ranges reward it, but do not treat it as obligatory.
 
-## Large five-person combat Core
+### Large five-person combat Core
 
 Take only when it has a measurable return from the specific team bonuses, terrain and mission.
 
@@ -440,7 +451,7 @@ Modern QK looks unusually able to gain most of the practical value from smaller 
 
 ---
 
-# Djanbazan: the MSV2 problem-solver
+## Djanbazan: the MSV2 problem-solver
 
 The unit is not mandatory on raw profile efficiency alone; it is strategically special because it provides an answer to **Smoke and strong visual MODs**.
 
@@ -454,9 +465,9 @@ Choose a Djanbazan if the alternative list would struggle to approach an MSV-rel
 
 ---
 
-# Secondary and lesser-used useful pieces
+## Secondary and lesser-used useful pieces
 
-## Al Hawwa
+### Al Hawwa
 
 One of QK's most important **midfield deployment answers**.
 
@@ -469,7 +480,7 @@ Use Hacker / Forward Observer / mine-oriented variants to:
 
 Recent player evidence included a Forward Observer *posing strategically as a likely Hacker* to influence opposing movement. The model does not need to kill anything for its position to alter the game.
 
-## Bashi Bazouk
+### Bashi Bazouk
 
 A genuinely interesting, easily underrated **scalpel** rather than a default suicide unit.
 
@@ -481,13 +492,13 @@ Use when:
 
 A recent play report specifically valued its ability to **injure rather than necessarily overkill**, including leaving a target Unconscious when that is tactically useful.
 
-## Korsan
+### Korsan
 
 Provides an unusual off-axis / deployment-zone pressure vector. It becomes much more threatening when the opponent also needs to respect a Yuan Yuan and your conventional on-table attack.
 
 Do not take merely to attempt a spectacular first-turn arrival. Sometimes holding an arrival threat or using it for a late objective angle is more productive.
 
-## Burkut
+### Burkut
 
 A high-value **combat Engineer**, not simply the cheapest repair tax.
 
@@ -502,7 +513,7 @@ A field report explicitly praised Burkut but noted a weapon-choice issue: the LR
 
 Prefer Burkut when the Engineer itself must advance and fight. Prefer a cheaper dedicated Engineer / Servant arrangement if it accomplishes the repair task without consuming vital attack points.
 
-## Kaplan
+### Kaplan
 
 The post-N5.2 Bekçileri integration matters more than imagining a self-contained old Kaplan Fireteam.
 
@@ -516,7 +527,7 @@ Consider Kaplan when:
 
 Avoid choosing it merely from old KTS nostalgia.
 
-## Hafza Forward Observer / HRL
+### Hafza Forward Observer / HRL
 
 These are exceptional *information value* profiles.
 
@@ -524,37 +535,45 @@ These are exceptional *information value* profiles.
 - HRL creates a surprise ranged / template threat.
 - Their value comes from the opponent's false deployment or threat evaluation.
 
-## Zeybek and other post-update specialty profiles
+### Zeybek and other post-update specialty profiles
 
 The N5.2 update improved Zeybek and its operator. Interesting to test as a different gun / mission package, but the retrieved QK evidence is too thin to rank it with Hafza, Odalisque or Laxmee.
 
-## Djanbazan Hacker
+### Djanbazan Hacker
 
 An under-discussed hybrid: MSV2 plus hacking / specialist utility can compress two match-relevant roles into one trooper. Don't buy it if both roles are already covered more efficiently.
 
 ---
 
-# REMs, cheap Orders and recovery
+## REMs, cheap Orders and recovery
 
 QK can easily run out of **roster space** before it runs out of possible good units.
 
-## Fanous
+### Fanous
 
 Cheap Regular support with Flash Pulse / Repeater utility; strong candidate to fill an otherwise weak Order slot. Not mandatory if the slot would be better spent on mission reach.
 
-## Rafiq
+### Rafiq
 
 Fast utility / Sensor / specialist and repeater contributions. Buy for its actual on-table role; **do not rely on pre-N5.2 Rafiq FTO Fireteam templates**.
 
-## Shihab
+### Shihab
 
 TR-style reactive lane holder. Valuable when the main list lacks a credible stop sign, but easy to overpay for additional static ARO in an army already buying Djanbazan, Janissary ML or disposable interference.
 
-## Kameel and other utility REMs
+### Kameel and other utility REMs
+
+**Conditional force multipliers:**
+- **Kameel Baggage 8pt:** Regular Order, Reload and Repeater for reachable Druze Pitcher/E/M resources.
+- **Kameel EVO 14/.5:** actual air/REM Supportware; not inherent Spotlight.
+- **TinBot Firewall:** only while its legal Fireteam carrier is operational and non-Isolated.
+- **Hafza Holomask / Decoy:** LT uncertainty, not extra Regular Orders.
+
+See [force-multiplier tradeoffs](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 Can improve support / baggage and Order economy. Their value depends on mission, available points and how the rest of the list handles defense and repeaters.
 
-## Engineer / Doctor selection
+### Engineer / Doctor selection
 
 A repairable centerpiece (Iguana, other TAG, valuable REM) sharply improves the value of a nearby Engineer and Servant plan. An infantry-dominant list may care more about a **Sekban Doctor / other Doctor** and objective capability.
 
@@ -562,33 +581,41 @@ Do not pay for multiple redundant support models without enough valuable targets
 
 ---
 
-# Matchup and deployment planning
+## Matchup and deployment planning
 
-## Versus strong visual modifiers / Smoke
+### Versus strong visual modifiers / Smoke
+
+**Specific visibility answers:**
+- **Yuan Yuan 6pt Smoke:** cheap entry/trading and visual disruption, with an Irregular Order.
+- **Djanbazan MSV2:** shoot through normal Smoke.
+- **Laxmee HD+ White Noise:** deal with MSV/Marksmanship when her Hacking Area covers the enemy.
+- **Odalisque Disco:** selected Eclipse-style approach to cross a lane or score.
+
+Normal Smoke + MSV is an attack route; Disco is a movement route; White Noise needs a relevant target. See [vision-control comparisons](../list-building/vision-control-units-apex-and-value.md).
 
 - Test whether **Djanbazan MSV2** earns its cost.
 - Test whether Laxmee's **White Noise** is relevant against enemy MSV pieces.
 - Avoid building a plan that assumes Smoke alone neutralizes *all* lines of attack.
 
-## Versus heavy hacking
+### Versus heavy hacking
 
 - Do not concentrate Iguana / Azra'il / Janissary and their Engineer in one hackable choke point.
 - Use Stealth, White Noise, short non-Hackable escorts and alternate routes as allowed by individual profiles.
 - Consider disabling opposing repeaters / Hackers before taking an expensive HI team forward.
 
-## Versus strong midfield Camo
+### Versus strong midfield Camo
 
 - Odalisque's **Sixth Sense, NWI and close-range profiles** matter; **do not presume Discover+6** in the pinned N5.3 profile.
 - Al Hawwa and mines create friction.
 - Sensor / Rafiq can be worth more than a redundant extra HMG.
 
-## Versus dense DZ defense or weak rear protection
+### Versus dense DZ defense or weak rear protection
 
 - Yuan Yuan, Bashi and Korsan present multiple different angles.
 - One off-axis attacker arriving at the right time can be better than exhausting the main Fireteam attacking a protected front.
 - Do not spend Orders through every model: choose the attack vector with the lowest expected Order cost.
 
-## Going second
+### Going second
 
 - Protect Hafza LT and CoC from the same attack footprint.
 - Present **layered cheap AROs**, not one exposed premium sniper to be picked off.
@@ -597,7 +624,7 @@ Do not pay for multiple redundant support models without enough valuable targets
 
 ---
 
-# Traps and misleading advice
+## Traps and misleading advice
 
 1. **Old Fireteam guides copied into N5.2:** Kaplan / Bekçileri changed; Rafiq FTO removal and the Djanbazan tag correction matter.
 2. **Overbuying a full combat Core:** multiple costly bodies competing to deliver one gun.
@@ -616,11 +643,11 @@ Do not pay for multiple redundant support models without enough valuable targets
 
 ---
 
-# Practical starting list architectures
+## Practical starting list architectures
 
 These are **role templates, not exact legal Army exports**.
 
-## A. Generic 15-trooper QK toolbox
+### A. Generic 15-trooper QK toolbox
 
 Start with:
 
@@ -638,7 +665,7 @@ Start with:
 
 Don't treat every entry above as mandatory simultaneously; this is the **order of considerations**, not a finished 300-point list.
 
-## B. Iguana pressure / hacking
+### B. Iguana pressure / hacking
 
 - Iguana main attacker.
 - Laxmee and projected repeater support.
@@ -649,7 +676,7 @@ Don't treat every entry above as mandatory simultaneously; this is the **order o
 
 **Plan:** TAG breaks / projects → Hacker exploits routes → specialists score on the damaged board.
 
-## C. Bekçileri combined arms
+### C. Bekçileri combined arms
 
 - Janissary HMG / ML as primary ranged threat.
 - One or two complementary Odalisque / Kaplan / other legal Bekçileri members.
@@ -660,7 +687,7 @@ Don't treat every entry above as mandatory simultaneously; this is the **order o
 
 **Plan:** efficient elite small-team shooting, with the rest of the roster free to score and attack from unexpected angles.
 
-## D. Azra'il heavy-weapon package
+### D. Azra'il heavy-weapon package
 
 - Azra'il selected for the expected targets.
 - Securing movement / hacking / Engineer access.
@@ -670,7 +697,7 @@ Don't treat every entry above as mandatory simultaneously; this is the **order o
 
 **Plan:** solve a critical hard target with Azra'il, without making the entire army hostage to delivering it.
 
-## E. Djanbazan visual-counter package
+### E. Djanbazan visual-counter package
 
 - Djanbazan MSV2 profile.
 - Smoke via Yuan Yuan where usable.
@@ -682,11 +709,11 @@ Don't treat every entry above as mandatory simultaneously; this is the **order o
 
 ---
 
-# Practical QK playbook: how the packages operate together
+## Practical QK playbook: how the packages operate together
 
 These are **sequencing templates**, not rigid turn scripts. They combine the role conclusions above into practical decisions for deployment and game turns. None of the examples implies an unverified Fireteam membership.
 
-## Deployment: identify the attack path before placing the pieces
+### Deployment: identify the attack path before placing the pieces
 
 Begin with four questions:
 
@@ -699,7 +726,7 @@ Begin with four questions:
 
 **Going second:** hide the premium attackers more aggressively. Cheap AROs, templates, mines and uncertainty should cause enemy Orders to be spent before they can threaten the command and scoring models. Do not expose the Hafza LT just because Holomask obscures its identity.
 
-## Order groups: buy activations, not just trooper count
+### Order groups: buy activations, not just trooper count
 
 A 10-Regular-Order primary group plus a secondary group with disposable or self-funding pieces can be a productive starting point, but don't force a particular split without checking the mission.
 
@@ -711,9 +738,9 @@ A 10-Regular-Order primary group plus a secondary group with disposable or self-
 
 **Practical test:** write down your probable Turn 1 first six activations. If four different premium units are all expecting to attack, the list may need either consolidation or better staged roles.
 
-## Three sample attack sequences
+### Three sample attack sequences
 
-### A. Conventional gun opens; asymmetry finishes
+#### A. Conventional gun opens; asymmetry finishes
 
 1. Use **Iguana / Janissary / Azra'il** to remove or bypass the defender preventing access to an important area.
 2. Check whether an enemy reactive model or mine is still covering the route. Do not advance the scoring specialist into the first available ARO.
@@ -723,7 +750,7 @@ A 10-Regular-Order primary group plus a secondary group with disposable or self-
 
 **When this fails:** a strong initial gunfight consumes too many Orders. Switch to the alternate attack angle instead of reflexively repeating low-probability FtF rolls.
 
-### B. Hacking network forces a bad choice
+#### B. Hacking network forces a bad choice
 
 1. Identify a Hackable enemy piece that must cross a specific corridor or controls the objective.
 2. Project coverage with **Druze Pitcher**, **Iguana repeater**, or the forward position of **Al Hawwa** when the actual profiles allow.
@@ -733,7 +760,7 @@ A 10-Regular-Order primary group plus a secondary group with disposable or self-
 
 **When this is preferable to shooting:** the enemy would otherwise receive a favorable direct gunfight, but cannot ignore a hacking corridor without giving up ground.
 
-### C. Smoke plus Djanbazan
+#### C. Smoke plus Djanbazan
 
 1. Identify a **genuine long-range MSV2 payoff** before spending an Order on smoke.
 2. Put the Yuan Yuan where its smoke can be deployed without immediately trading away the smoke source.
@@ -743,15 +770,21 @@ A 10-Regular-Order primary group plus a secondary group with disposable or self-
 
 **When not to do it:** the board has no profitable firing lane, the important target is protected by another response, or an independent close-range attacker can solve the position for fewer Orders.
 
-## Midgame and Turn 3 handoff
+### Midgame and Turn 3 handoff
 
 **Turn 1 — change the board:** trade Orders for access, remove the opponent's primary threat where feasible, and establish an awkward repeater / template / arrival problem. Keeping your main attacker alive for another turn is often better than taking one final uncertain shot.
 
-**Turn 2 — exploit the damaged board:** allow a previously protected **Odalisque, Al Hawwa, Laxmee or Sekban** to shift from support into objective work. If the first gunfighter is gone, the surviving small-team structure should still be able to attack; that is the real reward of QK's distributed threat model.
+**Turn 2 — preserve a scorer after the first gun goes down:**
+- **Odalisque:** mobile Fireteam specialist.
+- **Al Hawwa:** midfield infiltrating scoring.
+- **Laxmee:** hacking-network utility.
+- **Sekban:** recovery and mission profile.
+
+Distributed surviving small teams are the point of QK's attack/mission architecture.
 
 **Turn 3 — score and deny:** let expendable warbands or flank attackers die if that is the cheapest way to remove an ARO or prevent enemy scoring. Don't protect a remaining Order generator purely for a future turn that no longer exists. Preserve a specialist only if it has a scoring task left.
 
-## Quick selection: what should the next 20–35 points do?
+### Quick selection: what should the next 20–35 points do?
 
 | Existing weakness | Preferred thing to examine | Why |
 | --- | --- | --- |
@@ -769,7 +802,7 @@ The right choice is the **first missing job**, not the most impressive remaining
 
 ---
 
-# Compact listbuilding audit
+## Compact listbuilding audit
 
 Before locking the list, answer:
 
@@ -786,23 +819,29 @@ Before locking the list, answer:
 11. **Fireteam legality:** did I recheck post-N5.2 Army combinations?
 12. **Resilience:** if the first attacker or NCO dies, what is the fallback plan?
 
-## Overall takeaway
+### Overall takeaway
 
 > **Qapu Khalqi is strongest when the opponent has to solve several small, different problems—not when the entire army is one visible Janissary / Azra'il / Iguana problem.**
 
-Its strong form is **Hafza command deception; LT-to-NCO economy; Odalisque and Bekçileri efficiency; Laxmee / Druze control; Yuan Yuan / Bashi / Korsan alternate angles; and a deliberately chosen heavy hitter.**
+A strong QK force makes these **different modules** cooperate:
+- **Hafza:** command deception.
+- **LT to NCO:** efficient Order conversion.
+- **Odalisque / Bekçileri:** linked utility.
+- **Laxmee / Druze:** network control.
+- **Yuan Yuan / Bashi / Korsan:** asymmetric entry/angles.
+- **Chosen heavy hitter:** an answer to the specific shooting/armour problem.
 
 ---
 
-# Sources, evidence and viewing leads
+## Sources, evidence and viewing leads
 
-### Particularly relevant post-N5.2 sources
+#### Particularly relevant post-N5.2 sources
 
 - [October 15, 2025 N5.2 Haqq profile + Fireteam changes and October 16 Djanbazan correction (Bureau Aegis)](https://www.bureau-aegis.org/forum/index.php?topic=17664.20) — higher-priority for corrected roster details than older videos.
 - [Official forum: Learning to play QK, page 9](https://forum.corvusbelli.com/threads/learning-to-play-qk.35112/page-9) — firsthand post-update testing: Viral MMR Odalisque, Janissary ML Duo, Burkut, Hafza FO, Laxmee, Bashi, Yuan Yuan, Sekban NCO vulnerabilities.
 - [Bureau Aegis N5 QK tactica/resource index](https://www.bureau-aegis.org/forum/index.php?topic=17829.0) — chronological links, older/newer advice and update boundaries.
 
-### Older N5 tactical material: useful ideas, revalidate Fireteams
+#### Older N5 tactical material: useful ideas, revalidate Fireteams
 
 - [Qapu Khalqi Tournament Report — Burn City Brawl 2025, Infinity the Dante](https://www.youtube.com/watch?v=9BA7lqd1PMA) — video list breakdown at **2:55**; concrete Iguana tournament-list lead (published September 2025, pre-N5.2).
 - [N5 Haqqislam tacticas and QK video pointers: Robert Shepherd (Aug 2025), Tactical Awareness (Aug 2025), Infinity Dante (Sep 2025)](https://www.bureau-aegis.org/forum/index.php?topic=17664.20).
@@ -812,36 +851,19 @@ Its strong form is **Hafza command deception; LT-to-NCO economy; Odalisque and B
 
 **Evidence interpretation:** repeated high-level roles and the 2025–2026 field discussion justify the **architectures** in this note. A single positive test is a reason to test a profile, not a claim that it is mandatory or tournament-proven. Full YouTube transcripts were not independently mined here.
 
-## Vision control — role/value update (23 October 2026)
-
-- **QK's main options:** **Yuan Yuan 6pt Smoke** can deliver cheap visual disruption/AD trading, **Djanbazan MSV2** can turn normal Smoke into favorable shooting, **Laxmee HD+ White Noise** handles MSV/Marksmanship screens when her Hacking Area/network reaches them, and **Odalisque Disco** supplies a different Eclipse-style approach by selected loadout.
-- **Choice:** use cheap Smoke + MSV to *kill* a gun, Disco to *avoid* it for an objective, White Noise only if that particular gun has MSV/Marksmanship. Check Yuan Yuan Irregularity and QK Fireteam-specific legality. [Global comparison](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Dual artillery:** **Druze GL+E/M GL24/1** gives actual offensive speculative state pressure while a legal link/FO works; **Shaytaniyah Guided16/1.5** converts **Laxmee HD+, Al Hawwa' FO, Druze Pitchers and Repeaters** into remote strikes. **19pt +1B Guided** is source-listed in QK (unlike Ramah's 19pt non-Guided); don't transfer profile flags. This is matchup-dependent: multiple cheap strong direct guns/linked specialists can make missile network SWC inefficient.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — N5.3 apex/value update (2026-10-23)
-
-**Kameel Baggage8** is cheap Regular+Reload/repeater support for **Druze Pitchers/E/M gear**; **14/.5 EVO** is a conditional investment for actual REM/AD Supportware, not an innate Spotlight attack. **TinBot Firewall** needs a legal team and an alive non-Isolated carrier. Holomask/Decoy effects are asymmetric LT/deployment uncertainty, not extra regular orders. Reserve spare points for Druze/Kaplan offensive and mission tools if reloads aren't realistically reachable.
-
-[Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
-
 ## N5.3 tactical assessments transferred from the sectorial reference
 
 The dated assessments below were moved from the [Qapu Khalqi N5.3 reference](../../sectorials/haqqislam/qapu-khalqi.md). For legal profiles, exact costs, AVA, Fireteams, and provenance, that reference remains authoritative. Mentions of roster tables or Fireteams “above” mean the linked reference, not this analysis note.
 
-### Expanded faction tactical guide
+#### Expanded faction tactical guide
 
 This file contains the full practical Qapu Khalqi list-building and profile-selection guide. It consolidates the uploaded N5/N5.2 source leads, Holomask/command choices, small-team profiles and plays; **this roster remains authoritative**. Its N5.3 reconciliation explicitly preserves the current **Rafiq Remote FTO Wildcard** and the pinned **Odalisque/Sekban** skills.
 
-### Community tactics — N5 transcript research (2026-10-22)
+#### Community tactics — N5 transcript research (2026-10-22)
 
 > **Status and precedence:** Tactical opinions only; keep the **N5.3 / Army 7.26246.158** roster, points, skills and **canonical Fireteam chart above** authoritative. Qapu Khalqi is **marked discontinued in the pinned Army metadata**, despite retaining the full 38-unit N5 reference. Most primary videos are August–September 2025 (**before** the October N5.2 update) and the original 2023 podcasts discuss **N4**. Their list compositions/point claims must be checked against the reference before reuse.
 
-#### Fast read: what wins, and why
+##### Fast read: what wins, and why
 
 - **QK = asymmetric combined-arms Fireteams:** choose one strong gun and economical linkable support; use **smoke versus ordinary shooters, White Noise versus appropriate MSV threats, AP/Continuous Damage versus armor, and airborne entries versus rear-zone defenses**. It is not a faction that typically wins by brute-force CC or elite statlines.
 - **Prefer several small functional teams:** a gunfighter + NCO/specialist + Hafza often gets more useful jobs and Orders than a single cumbersome maximum Core. QK permits **one Core, two Haris, unlimited Duo**; don't build illegal three-Haris examples copied from older audio.
@@ -849,7 +871,7 @@ This file contains the full practical Qapu Khalqi list-building and profile-sele
 - **Preferred guns are conditional:** **Azra'il** for sustained AP/high-impact damage; **Janissary** for BS14 and reliable modifier play; **Djanbazan** when smoke + MSV2 gets the useful matchup. You can field one or more, but each consumes SWC/Orders that could support scoring.
 - **Midfield and close-combat are weaker than the roster breadth suggests:** Al Hawwa' and Samsa do useful scenario work, but not a deep hidden/camo midfield; Yuan Yuan and Bashi Bazouk give inexpensive disruptive entry angles, not dependable elite CC assassination.
 
-#### Unit and link module choices (current Army 403)
+##### Unit and link module choices (current Army 403)
 
 | Option | Why it works | When to leave it out / tactical limit |
 |---|---|---|
@@ -879,7 +901,7 @@ This file contains the full practical Qapu Khalqi list-building and profile-sele
 - **Zırhlı Duo:** Iguana / Scarface / Shakush / Triphammer with an eligible support member or second TAG. **Zırhlı is Duo-only**; its legal member set differs from the Qapu Khalqi shooter family.
 - **Mission skeleton:** one primary gunfighting team + a secondary specialist/network team + Al Hawwa' + a few cheap orders/smoke/airborne threats; add a TAG if Orders and specialist reach remain healthy.
 
-#### TAGs, Vehicle and REMs — use the actual QK roster
+##### TAGs, Vehicle and REMs — use the actual QK roster
 
 | Profile (N5.3 reference) | Why choose it | Competing opinion / constraint |
 |---|---|---|
@@ -894,9 +916,14 @@ This file contains the full practical Qapu Khalqi list-building and profile-sele
 | **Kameel** — AVA2, 8-point support/Baggage, 14-point EVO, 16-point TR | Baggage reloads the pieces central to QK's **Pitcher + Iguana mines/deployables** plan. EVO buys supportware when needed; cheap bodies still help Order and repeater coverage. | EVO is not mandatory and paying for excess support can starve the assault. |
 | **Fanous** — cheap Flash Pulse/Repeater, plus **Nasmat** servant | Efficient deployment-zone Repeater / emergency Flash ARO; Nasmat extends engineer/doctor work without risking the parent. | Nasmat is a Peripheral **without an Order**; no amount of support robots replaces a decent attack plan. |
 
-**Cross-faction source interpretation:** **Vanilla Haqqislam** analysis helps value Shakush, Rafiq, Fanous and Baggage; **Nomad / Corregidor** material helps explain the shared Iguana's rework and vulnerabilities. **Do not** transplant Vanilla-only vehicles, TAG choices (Maghariba etc.), Fireteam combinations or REM AVA into QK. Zeybek is confirmed by this QK reference itself.
+**Cross-faction reading informs tactics, not QK roster legality:**
+- **Vanilla Haqqislam:** Shakush, Rafiq, Fanous and Baggage roles.
+- **Nomads / Corregidor:** the shared Iguana's changes and limitations.
+- **QK pinned roster:** Zeybek access is confirmed independently.
 
-#### Differences of opinion and date-sensitive contradictions
+Do not import Vanilla-only Vehicles/Maghariba, foreign Fireteams or non-QK REM AVA.
+
+##### Differences of opinion and date-sensitive contradictions
 
 1. **"Strong flexible generalist" vs "mid-tier fragile legacy faction":** Robert Shepherd and Dante praise many good-value coordinated vectors and the reworked Iguana; the December 2025 **O-12 Podcast report** considers QK a capable, tricky, *mid-tier* faction whose links and low-stat guns can collapse when opponents break the right support. **Both useful:** QK has breadth, but a large collection of answers is not the same as guaranteed execution.
 2. **Djanbazan smoke shooter vs Janissary reliability:** Djanbazan MSV2 + smoke can skew a fight at surprisingly low cost, and Dante likes AP Sniper/HMG combinations; Robert sometimes spends more for Janissary BS14 and better modifier play because BS12 can fail to convert favorable shots. **Pick by matchup**, not a blanket best gun.

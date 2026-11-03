@@ -28,6 +28,13 @@ These are *archetypes to test*, not proof that each is widespread or best.
 
 ## Saladin — go-to command engine, not an automatic inclusion in every list
 
+**Force-multiplier tradeoffs:**
+- **Saladin LT 39/0:** Strategos L2, Inspiring Leadership and Counterintelligence need a real eligible Irregular base; Religious and mostly-Regular lists dilute the premium.
+- **Kameel Baggage 8/0:** inexpensive Repeater and reload infrastructure; **Kameel EVO 14/.5** supports specific air/REM plans, not innate Spotlight or Oblivion.
+- **Bashi Holomask:** can impersonate an apparent Saladin threat but does not create free Decoy/Regular Orders.
+
+See [force-multiplier analysis](../list-building/force-multipliers-special-abilities-apex-value.md).
+
 **Current reference:** Saladin Lieutenant with Strategos L2 and +1 Command Token is **39 pts / 0 SWC**; also has Counterintelligence and Inspiring Leadership. The separate **38-point Chain of Command** option is **not** the same Lieutenant profile.
 
 Why he matters:
@@ -92,11 +99,37 @@ Why he matters:
 
 **Global cap:** **Core 0; Haris 1; Duo 2**. Both pools have no mandatory anchor according to the current pinned source, but individual entries are capped. **All recommendations below use the canonical `sectorials/haqqislam/haqqislam.md` Fireteam table.**
 
-**Haqqislam Fireteams I — Duo ONLY.** Members drawn from: Naffatûn (max 2), Zhayedan (max 2), Mukhtar (max 2), Djanbazan (max 2), Hafza (max 1), Azra'il (max 1), Najjarun (max 1), Maghariba (max 1), Shakush (max 1), Rouhani (max 1), Yara Haddad (max 1).
+**Haqqislam Fireteams I — Duo ONLY.** Member caps:
+- **Naffatûn:** max 2.
+- **Zhayedan:** max 2.
+- **Mukhtar:** max 2.
+- **Djanbazan:** max 2.
+- **Hafza:** max 1.
+- **Azra'il:** max 1.
+- **Najjarun:** max 1.
+- **Maghariba:** max 1.
+- **Shakush:** max 1.
+- **Rouhani:** max 1.
+- **Yara Haddad:** max 1.
 
-**Haqqislam Fireteams II — Duo OR Haris.** Members drawn from: Burkut (max 2), Korsan **FTO only** (max 2), Odalisque (max 2), Sekban (max 2), Khawarij (max 1), Muyib (max 2), Janissary (max 1), Leila Sharif (max 1).
+**Haqqislam Fireteams II — Duo OR Haris.** Member caps:
+- **Burkut:** max 2.
+- **Korsan FTO only:** max 2.
+- **Odalisque:** max 2.
+- **Sekban:** max 2.
+- **Khawarij:** max 1.
+- **Muyib:** max 2.
+- **Janissary:** max 1.
+- **Leila Sharif:** max 1.
 
 ### Most useful Duo / Haris modules
+
+**Related solo/toolbox decisions:**
+- **Mukhtar MSV2 Red Fury + Mukhtar Doctor/Hacker/FO:** legal two-model Duo; choose one actual second profile, not an impossible all-in-one loadout.
+- **Zeybek 33/1.5:** a separate Smoke/Albedo/Operator attack package, vulnerable as a hackable S7 Vehicle.
+- **Hunzakut FO 15:** cheaper marker, objective and network utility. Independently coordinated Mukhtars can outperform an obligatory Duo in some Saladin plans.
+
+See [cross-faction toolbox analysis](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
 
 | Legal team | Job | Reason / alternative |
 |---|---|---|
@@ -148,7 +181,22 @@ Plan a *specific, realistic* Fiday target: TR REM, fragile engineer, isolated ha
 
 ### 3. Hunzakut deployable repeater + hacker
 
-Camo infiltration with deployable repeater can extend a hacker's control without initially walking a fragile hacker into the center. The Hunzakut is a self-sufficient marker objective piece even with no hacker in list; a separate Barid / Mukhtar Hacker / Leila package can exploit a projected repeater network. Plan defense against enemy KHD/repeater attacks.
+**Indirect fire is a conditional extension of the network:**
+- **Shaytaniyah Guided 16/1.5:** payoff for Barid HD + Pitcher (16/.5), Hunzakut FO/Repeater or Rafiq Repeater/FO when Targeted is realistic.
+- **Shaytaniyah 19pt +1B Guided:** listed for Vanilla; confirm sectorial-specific legality (Ramah differs).
+- **Hunzakut GL 18/.5 / Daylami GL 10/.5:** inexpensive Speculative threats.
+- **Muyib or Ghulam GL / Maghariba HMG+GL 71/1.5:** independent no-Targeted fire; a premium TAG should not be chosen solely for B1 Speculative attacks.
+
+See [indirect-fire comparisons](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+Camo Infiltration and a deployable Repeater project network control without exposing the Hacker. **Hunzakut** remains an independent Camouflage objective piece even without one.
+
+Choose an actual network consumer:
+- **Barid Hacker:** economical projected hacking.
+- **Mukhtar Hacker:** mobile mission support.
+- **Leila Sharif:** character utility and a different legal profile.
+
+Protect the network from enemy KHD/Repeater counterplay.
 
 ### 4. Double-direction attack — Zeybek plus Fiday / Haytham / airborne
 
@@ -184,6 +232,9 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 **Explicit correction:** **Al Fasid is not on the current 56-unit Vanilla Haqqislam standard roster** in the pinned reference (even though some generic Haqq coverage recommends it). Do not write an Al Fasid Vanilla list from old/video summaries. Likewise, Lasiq's current listed armaments are Viral, not a generic AP Marksman as suggested by one secondary synopsis.
 
 ## Matchup and counter-plan checklist
+
+- **Smoke and anti-MSV:** Vanilla's 5–6pt Ghazi Smoke or Kum bike screen can support **Mukhtar MSV2 Red Fury (34/1)** and **Djanbazan MSV2**. Choose the exact Vanilla Ghazi profile, not Bahram's different loadout.
+- **Visibility counterplay:** normal Smoke cannot safely mask an objective runner from MSV; Fiday, alternate angles and other visibility tools may be preferable. See [vision-control analysis](../list-building/vision-control-units-apex-and-value.md).
 
 1. **Opposing MSV2 / Sixth Sense controlling smoke:** Have an alternative direct shooting angle, Fiday, template, or non-smoke maneuver. A smoke-dependent assault plan can be countered by one well-placed visor ARO.
 2. **Warhorse (and special-state immunity):** Jammer/Isolated may not work at all. Warhorse cannot enter Isolated and ignores BS Attack(-X); other IMM or damaging effects can still apply as defined. Include direct-damage/positioning alternatives.
@@ -236,29 +287,6 @@ Because Strategos and the Inspiring Leadership special coordinated activation co
 6. Protect the **Lieutenant**, separate CoC insurance, preserve order economy going second.
 7. Identify the **opponent's likely Turn 1 attack**, defend that route, and know which friendly piece still scores on Turn 3.
 8. Verify Army legality, points/SWC, loadout and Fireteam state against `sectorials/haqqislam/haqqislam.md` before making an export.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Best value:** 5–6pt **Ghazi Smoke** (read *Vanilla's exact profile*, not the different Bahram Ghazi loadout) and cheap Kum bikes screen **34pt/1SWC Mukhtar MSV2 Red Fury** or Djanbazan MSV2 for smoke-shooting. These packages are strong but Irregular activation/Orders and the gunfighter's opportunity cost still matter.
-- **Against MSV/White Noise:** don't assume normal Smoke will shield a scoring piece from visors; Fiday or another angle can work better. [Global guide and profile caveats](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Mukhtar MSV2 Red Fury34/1 + Mukhtar Doctor/Hacker/FO** in a legal Duo creates a versatile *two-model* attack/scoring package; not one imaginary Mukhtar with four profiles. **Zeybek33/1.5** is a different solo combat+Smoke/Albedo/Operator toolbox but large/hackable. **Hunzakut FO15** is the value choice when objective/repeater/marker work matters more than the premium gun. Shepherd prefers independently coordinated Mukhtars in some vanilla Saladin lists, so a Duo is not automatic.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Guided:** **Shaytaniyah16/1.5** is an optional missile payoff for **Barid HD+Pitcher16/.5**, infiltrated **Hunzakut FO/Repeater** or **Rafiq Repeater/FO**. Current vanilla also lists a **19pt +1B Guided** variant, but verify each sectorial separately (Ramah differs). **Speculative:** Hunzakut GL18/.5, Daylami GL10/.5, Muyib/Ghulam and **Maghariba HMG+GL71/1.5** offer different no-Targeted options. Saladin's cheap troop economy makes low-cost extras attractive; an elite TAG should never be bought merely for B1 speculative.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Saladin LT39/0** is apex whole-army support only with real eligible Irregular density: **Strategos L2 + Inspiring Leadership + Counterintelligence**. Religious models and mostly-Regular forces weaken its premium. **Kameel8/0** is cheap Baggage/Repeater; **14/.5 EVO** supports actual air/REM plans and **cannot Spot/Oblivion** natively. **Bashi Holomask** gives an optional fake Saladin threat, not a true free Decoy Order; Decoy static markers also produce no Orders. Shepherd recommends Saladin often but explicitly notes alternatives can buy another real attacker.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ## N5.3 tactical assessments transferred from the sectorial reference
 
@@ -322,7 +350,12 @@ The dated assessments below were moved from the [Vanilla Haqqislam N5.3 referenc
 | **RacerBots (AVA2)** 9pt Adhesive Launcher/PARA Mine or Riotstopper/PARA Mine Dispenser | **20-10 MOV**: fast cheap disruption, counter-rush and temporary area-denial against elite bodies, including targets too tough for routine bullets. | They're specialist tools, not default cheap attack guns. No Fireteam row; avoid depending on a PARA trade to defeat a prepared opponent. |
 | **Nasmat peripheral + separate Sayiq pilot** | Nasmat extends Engineer/Doctor reach; 9pt Shakush / 10pt Maghariba Sayiq pilot helps a TAG-specific support plan; included Jandabs have their own ancillary mission functions. | **Peripheral and bundled Jandab do not create Regular Orders**. Spending points on a pilot/repair package must be justified by keeping your expensive TAG working. |
 
-**Parent-faction crossover is for tactics, not roster changes.** [Ramah N5](https://www.youtube.com/watch?v=dvSrZU73hxA) provides Haytham/Maghariba/Shakush, Shihab and repair discussion; [Qapu Khalqi N5](https://www.youtube.com/watch?v=rOy0x0BLuNU) provides TAG comparison and Pitcher+Baggage examples; [Hassassin Bahram N5](https://www.youtube.com/watch?v=yHpAnRDw_E8) gives Fiday/mine/repeater positional insights. **Do not** import their Fireteam sizes, high REM AVA, Iguana, Tarik, or sectorial-only profiles into current Vanilla.
+**Parent-faction lessons are tactical, not roster permissions:**
+- **Ramah:** [N5 review](https://www.youtube.com/watch?v=dvSrZU73hxA) on Haytham, Maghariba, Shakush, Shihab and repair.
+- **Qapu Khalqi:** [N5 review](https://www.youtube.com/watch?v=rOy0x0BLuNU) on TAG comparisons, Pitchers and Baggage.
+- **Hassassin Bahram:** [N5 review](https://www.youtube.com/watch?v=yHpAnRDw_E8) on Fiday, mines and Repeater positions.
+
+Do not import Fireteam sizes, high REM AVA, Iguana, Tarik or other sectorial-only profiles into Vanilla.
 
 #### Debated conclusions (include all relevant views)
 

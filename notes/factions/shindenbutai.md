@@ -6,7 +6,14 @@
 
 ## Overview
 
-**What Shindenbutai does exceptionally well:** combine **compact, unusually versatile Fireteams** with independent midfield ambushers, a credible **fighting Lieutenant who can also score**, and several ways to avoid an unfavorable firefight. The signature is **Tanuki Hacker (Pitcher + Disco Baller) + Sayō Duo/Haris**, complemented by **Hatamoto NCO/Lieutenant**, **one-use Camo speed bumps**, **MSV2 guns**, and **unlimited Duos**. It plays best as a collection of overlapping, self-contained modules, **not** as a compulsory five-Senku Core or an army of nothing but samurai charging into CC.
+**What Shindenbutai does exceptionally well:** modular combined arms, rather than a compulsory five-Senku Core.
+
+The standout independent modules are:
+- **Tanuki Hacker + Sayō Duo/Haris:** Pitcher, Disco and specialist network.
+- **Hatamoto LT/NCO:** effective fighting commander and scoring piece.
+- **Yamabushi / Kyojin / Raiden:** several distinct cheap midfield/marker defenses.
+- **Tanuki / Rui Shi MSV2:** anti-visibility shooting.
+- **Unlimited legal Duos:** distribute threat and mission coverage.
 
 ### Whole-game standouts — apex versus value
 
@@ -50,7 +57,13 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 - **Its conspicuous bad baseline is Senku combat quality:** **BS11, WIP12, PH10, ARM0, W1**, with an **HMG at 17/1 SWC**. As a **fighting line trooper**, Senku is among the weakest offerings and the **HMG is an especially poor primary-gun choice** compared with Shizoku, Rui Shi and Hatamoto. But a **9pt/0 Regular Order**, **10pt FO**, **11pt Commlink specialist** or **11pt Paramedic** is **useful budget team material**; calling every Senku profile one of the game's worst *value* picks would be misleading.
 - **Costs and vulnerabilities:** premium Hatamoto/Shizoku/TAG modules are **Hackable**, and a Tanuki-based team loses multiple roles if its Tanuki is isolated or removed. Several excellent cheap trades are **one-use Camo** (Kyojin, Yamabushi), **not** reusable marker-state engines. Build **redundant objective access, long-range answers and deployment-zone protection**, rather than investing the entire plan in one aggressive Haris.
 
-**One-line list-building heuristic:** pick **a command engine** (Metsuke or Hatamoto LT + Tanuki CoC), **one Sayō toolbox module**, **one independent midfield/hidden threat**, **one real long-range answer**, and **enough living specialists for the final turn**; use other Duos and support pieces only to solve a specific mission or matchup.
+**Prioritize distinct jobs:**
+- **Command:** Metsuke or Hatamoto LT protected by Tanuki CoC.
+- **Sayō:** one functional toolbox team.
+- **Midfield:** one hidden/marker or cheap trading vector.
+- **Long range:** a real distant-ARO answer.
+- **Turn 3:** survivors who can score.
+- **Extra Duos/support:** only when the mission warrants them.
 
 ## Core identity — modular teams, not a mandatory Core
 
@@ -359,7 +372,14 @@ Sayō is the Fireteam family most aligned with Shinden's “small module” iden
 
 ### 2. Senku Haris/Core — cheap structural material
 
-Current Senku family allows Senku plus limited Jizamurai, Hatamoto and Taguraidā, with Shurayuki/Yuriko Wildcard options.
+The current Senku Fireteam family can include:
+- **Senku:** base family.
+- **Jizamurai:** limited eligible members.
+- **Hatamoto:** limited eligible member.
+- **Taguraidā:** limited eligible member.
+- **Shurayuki / Yuriko:** Wildcard options.
+
+Confirm exact caps in the current Fireteam chart.
 
 The repeated tactical lesson is:
 
@@ -669,7 +689,15 @@ She does not invalidate the older tactical architectures; she adds another compa
 - **The Dice Gods (Jan 2026)** actually builds a post-Sandtrap **Triphammer** list rather than automatically upgrading to Mechazoid. The appeal is a self-funding Tactical Awareness heavy threat that leaves points for Sayō, specialists and smoke.
 - **Practical resolution:** start with the **role**. Need an independent long-range AP gun and high-mobility TAG? Mechazoid AP HMG. Need a midfield assault TAG? MULTI Spitfire. Need affordable redundancy, SWC relief or a second attack axis? Triphammer. *Do not force either TAG into a list already solving those problems.*
 
-**TAG support:** Taguraidā is **12/0**, a **Regular specialist** and TAGCom source (**Dodge PH +3, GizmoKit PH +1**) for TAGs in its **combat group**. Cheap insurance plus a mission body, not a compulsory "TAG tax." [The cross-faction force-multiplier guide](../list-building/force-multipliers-special-abilities-apex-value.md) also compares when those PH/GizmoKit bonuses are worth an extra support model. Put a Tokusetsu Engineer / Monstrucker and possibly Yáozăo where they can actually recover the TAG. Mechazoid's **Kobaruto** and Triphammer's **TurtleMek** are ancillary specialists, **not separate army slots**; they offer objective reach while letting the big chassis pursue its main job. The Mechazoid can make a **Duo with Atom or Tanuki** under the current chart: Atom adds Sensor/FO/Repeater utility; Tanuki adds the wider specialist/hacking/visibility toolkit. These partners are alternatives, not mandatory bodyguards.
+**TAG support jobs** (no compulsory TAG tax):
+- **Taguraidā TAGCom 12/0:** Regular specialist; Dodge PH +3 and GizmoKit PH +1 bonuses to eligible same-group TAGs.
+- **Tokusetsu Engineer / Monstrucker + possible Yáozăo:** position the actual repair team within reach.
+- **Mechazoid's Kobaruto:** ancillary objective specialist, not a separate roster slot.
+- **Triphammer's TurtleMek:** another ancillary objective specialist, also not a separate slot.
+- **Mechazoid + Atom Duo:** Sensor/FO/Repeater support.
+- **Mechazoid + Tanuki Duo:** separate specialist/hacking/visibility utility.
+
+These are alternatives, not mandatory bodyguards. See [force-multiplier guide](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ### REM priority by actual job, not by chassis
 

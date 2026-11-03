@@ -29,7 +29,16 @@ The strongest conceptual lesson from the Attack on Atlanta 2025 winner: **build 
 | Attack branch | **Asawira / Bokhtar / McMurrough / Fiday** | Pick for intended attack vector rather than including all | Compete for budget and Orders |
 | Useful optional modules | **Lasiq, Muyib TA, Govad hacker, Leila, Ragik, Rafiq/Fanous, Sunduqbut** | Solutions to specific ranges/missions/network needs | Not mandatory together |
 
-**Not an auto-take list:** the Fiday, McMurrough, Asawira, Sunduqbut, Shakush, full Core, and Guided missile package are all *choices*. Their absence can be deliberate, not an omission.
+These are **choices**, not a mandatory combined purchase list:
+- **Fiday:** impersonation.
+- **McMurrough:** fast trading and Smoke.
+- **Asawira:** direct fighting.
+- **Sunduqbut:** defensive saturation.
+- **Shakush:** TAG plan.
+- **Full Core:** concentrated linked fighting.
+- **Shaytaniyah Guided:** network-dependent indirect fire.
+
+Their absence may be deliberate.
 
 ## Shujae — first defensive anchor to price in
 
@@ -81,6 +90,13 @@ The standard disruptive marker option is **8pt Camo (1 Use) + Infiltration + Pan
 - Intermingle with Sunduqbut threats when appropriate; a marker/decoy shell rewards ambiguity.
 
 ### Ghazi Muttawi'ah
+
+**Visibility choices by actual profile:**
+- **5pt E/Marat Ghazi:** no Smoke.
+- **6pt Jammer Ghazi:** no Smoke.
+- **7–8pt shotgun Ghazi:** combined Smoke profiles.
+- **Ghulam NCO Smoke GL 15/1 / Muyib Smoke GL:** projected corridors and linked utility.
+- **Disco-equipped profile:** Eclipse-like answer to MSV lanes. Compare Smoke/Eclipse by the tactical job. See [vision-control analysis](../list-building/vision-control-units-apex-and-value.md).
 
 Current options range **5–8pts**, AVA 4, Irregular + Impetuous, Dogged. Profile-specific distinctions matter:
 
@@ -148,7 +164,17 @@ Examples to consider:
 - **Bokhtar FTO + another Bahram native or Wildcard:** mobile premium TA package, but stay within Bokhtar FTO restriction.
 - **Shakush + Muyib** or **Shakush + Avicenna**: a *different Shakush-specific Duo family*, not a Bahram-family mix.
 
-**Not legal simply because of naming:** Áyyār, Shujae, Fiday, Ragik, Daylami and Muttawi'ah do not acquire Fireteam access; nor do **Rafiq FTO** or **Claire Lazhari FTO** merely by saying FTO. Always distinguish a coordinated battlefield *combo* from a Fireteam.
+**These names/FTO suffixes do not independently confer Bahram Fireteam access:**
+- **Áyyār**
+- **Shujae**
+- **Fiday**
+- **Ragik**
+- **Daylami**
+- **Muttawi'ah**
+- **Rafiq FTO**
+- **Claire Lazhari FTO**
+
+A coordinated battlefield combination is not automatically a Fireteam.
 
 ## Lieutenant and succession packages
 
@@ -298,19 +324,42 @@ Current **24pt Farzan BSG + Shock Mine + CoC**, Camouflage/Infiltration. AVA 3 o
 
 ### Owen — “defense” saturation
 
-Published roster features approximately **2 Sunduqbut + 2 Shujae + 2 Lasiq + 3 Daylami + 3 Muttawi'ah**, with Asawira, Barid and support.
+The published defensive roster uses approximately:
+- **Sunduqbut:** 2.
+- **Shujae:** 2.
+- **Lasiq:** 2.
+- **Daylami:** 3.
+- **Muttawi'ah:** 3.
+- **Asawira / Barid / other support:** according to the source roster.
 
 **Why it matters:** clearly demonstrates an extreme **area-denial/multiple-marker defensive design**, with unusually many Irregular pieces. It is deliberately *not* the baseline recommendation for a balanced HB list. On missions where the opponent must advance through limited paths, such saturation can be a coherent plan.
 
 ### Ash — “TAC AWARE” diversified threats
 
-Published list combines **2 Áyyār, 2 Lasiq, 2 Barid, 2 Ghulam, Leila, Fiday, McMurrough, Shaytaniyah and cheap support**.
+The published example list combines:
+- **Áyyār:** 2.
+- **Lasiq:** 2.
+- **Barid:** 2.
+- **Ghulam:** 2.
+- **Leila**
+- **Fiday**
+- **McMurrough**
+- **Shaytaniyah**
+- Inexpensive support.
 
 **Why it matters:** a single list can threaten via Triangulated/Viral fire, hacking/Pitchers/Guided, impersonation and close assault. It also shows why even a flexible powerhouse is not a reason to buy every option every game.
 
 ### Robert Shepherd — an Asawira-centric alternate
 
-A separately published 2025 Hassassin sample includes **2 Asawira + 2 Barid + 2 Shujae + Áyyār + Leila + Ghulam/Daylami support** and no Fiday.
+A separate published 2025 Hassassin list includes:
+- **Asawira:** 2.
+- **Barid:** 2.
+- **Shujae:** 2.
+- **Áyyār**
+- **Leila**
+- **Ghulam / Daylami:** support.
+
+There is no Fiday in this sample.
 
 **Why it matters:** a conventional active shooting package can be backed by hidden AROs without buying a Fiday. Modern HB is not exclusively an assassination list.
 
@@ -320,7 +369,19 @@ The published example list labels include **two-Fiday assassination**, **“card
 
 ### Attack on Atlanta 2025 — result-backed benchmark
 
-The 56-player winning report's **main** Bahram list: **2 Áyyār, 2 Shujae, Barid HD + KHD, 2 Ghulam, 2 Muttawi'ah, McMurrough, Asawira, Shaytaniyah, Rafiq, Kameel**. Notably **no Fiday in that main list**. This was early N5, so check current points/profiles before rebuilding it.
+The 56-player winner's **main** Bahram list included:
+- **Áyyār:** 2.
+- **Shujae:** 2.
+- **Barid:** one HD and one KHD.
+- **Ghulam:** 2.
+- **Muttawi'ah:** 2.
+- **McMurrough**
+- **Asawira**
+- **Shaytaniyah**
+- **Rafiq**
+- **Kameel**
+
+No Fiday appeared in that main list. This is early-N5 evidence, not present-day pricing/roster validation.
 
 **Transferable principle:** build a robust going-second network, with enough diverse attackers/specialists to score after ambushes have slowed the enemy. Don't confuse a winning early-meta roster with the only current solution.
 
@@ -353,6 +414,14 @@ The 56-player winning report's **main** Bahram list: **2 Áyyār, 2 Shujae, Bari
 **Objective:** trade away some deception density for reliable direct damage.
 
 ### D. Network / Guided control
+
+**Indirection choices:**
+- **Shaytaniyah Guided 16/1.5:** payoff when Barid HD + Pitcher and FO/Repeater access actually apply.
+- **Daylami GL 10/.5:** economical Speculative harassment, not a complete offensive engine.
+- **Muyib Rifle GL + Smoke GL 21/1:** projected pressure in a legal team.
+- **Fiday / Asawira / other direct attackers:** may remove a critical enemy with fewer setup Orders.
+
+See [whole-game indirect-fire decisions](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
 - **Barid HD + KHD; Repeater geometry; Shaytaniyah Guided**.
 - 1–2 Shujae E/M mines; Mutt Jammers or E/Marat; selective Áyyār or Ragik.
@@ -415,17 +484,6 @@ The 56-player winning report's **main** Bahram list: **2 Áyyār, 2 Shujae, Bari
 
 **Three legitimate different ways to win:** (1) double-hidden ambush/control; (2) compact Ghulam/Barid + conventional Asawira/Lasiq fighting; (3) heavy Sunduqbut/Daylami defensive saturation. **Don't force them all into one list.**
 
-## Vision control — role/value update (23 October 2026)
-
-- **Current-profile trap:** **5pt E/Marat** and **6pt Jammer Ghazi** in Bahram do **not** carry Smoke, despite similarly named Vanilla loadouts. **7–8pt shotgun Ghazi** do; **Ghulam NCO Smoke GL 15/1**, Muyib Smoke GL and the selected Disco Baller profile offer other corridors. Never assume all Ghazi have Smoke.
-- **When better:** cheaper disposable Smoke if the chosen model can use it safely; linked Smoke GL when its NCO/mission package earns the extra SWC; Disco/Eclipse against an MSV-controlled lane. [Global vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Shaytaniyah Guided16/1.5** is a payoff for **Barid HD+Pitcher, Ghazi/Daylami constraints and useful FO/Repeater access**. **Daylami Grenade Launcher10/.5** is cheap speculative harassment but shouldn't become the army's entire attack; **Muyib Rifle GL+Smoke GL21/1** in a legal team buys versatile projected pressure. **Opposing plan:** Fiday/Asawira/Mukhtar-type direct attackers remove key models more reliably when Targeted setup costs too many Orders.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
 ## N5.3 tactical assessments transferred from the sectorial reference
 
 The dated assessments below were moved from the [Hassassin Bahram N5.3 reference](../../sectorials/haqqislam/hassassin-bahram.md). For legal profiles, exact costs, AVA, Fireteams, and provenance, that reference remains authoritative. Mentions of roster tables or Fireteams “above” mean the linked reference, not this analysis note.
@@ -474,7 +532,13 @@ The dated assessments below were moved from the [Hassassin Bahram N5.3 reference
 | **Nasmat** 3-point servant | Extends Najjarun/doctor support reach without moving the parent specialist to the exposed repair/healing target. | Peripheral, **no Order**. |
 | **Vehicle (VH)** | **None in the pinned 33-unit Bahram main roster.** | **Haytham**, **Shaykh Bakr**, and other vehicles discussed for *Vanilla* or other Haqq sectorials are **not** Bahram options merely because they share a faction. Confirm a new Army revision before changing this conclusion. |
 
-**Repair/support sequence:** If taking Shakush, evaluate Jandab positioning, a Najjarun Engineer (possibly with Nasmat), Kameel Baggage/Repeater and Barid/Fanous network. Each piece has a separate job; do not add all of them automatically. TAG order/STR density and mission dictate support investment.
+**Shakush support choices** (purchase only for a real job):
+- **Jandab:** position for useful recovery/mission work.
+- **Najjarun Engineer / optional Nasmat:** practical repair reach.
+- **Kameel Baggage/Repeater:** refill and network support.
+- **Barid / Fanous:** actual hacking/repeater access.
+
+TAG Order/STR density and the mission determine which are worth bringing.
 
 #### Real disagreements — retain both sides
 
