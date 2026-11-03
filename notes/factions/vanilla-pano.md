@@ -31,7 +31,7 @@
 | **Top 3 — ARO Units (value)** | **Helot FTO SMG + LRL + Sensor, 10/0; or Camo(1 Use) LRL, 12/0** | [Varuna Top 3 ARO value](../list-building/aro-units-apex-and-value.md#L102): both identical Neurocinetics loadouts are legal in Vanilla (AVA2). Still Irregular; FTO does **not** grant Vanilla Fireteams. |
 | **Top 5 — Mission Specialists / Button Pushers (value)** | **Pathfinder FO/Sensor/Repeater **TacAware, 17/0**** | [Top 5 Sensor/FO scoring value](../list-building/mission-specialists-and-button-pushers-apex-value.md#L93): the same TacAware profile as all eligible PanO sectorials. In Vanilla it is unlinked; 14pt non-TA is separate. |
 | **Top 5 — Deployment-Zone Defenders (value)** | **Fennec Thunderbolt(+1B) + Shock Minelayer, 14/0** | [Kestrel Top 5 DZ defense](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md): Triangulated Fire and prepaid mine on the same Vanilla loadout, without sectorial linking. |
-| **Top 5 — Vehicles (VH / Aerial) (value)** | **Redeye 37/1.5 Blitzen, or 38/1.5 Continuous-Damage GL** | [Kestrel aerial Vehicle value](../list-building/vehicles-vh.md): Mimetism(-6), Sensor and aerial approach are retained on both Vanilla profiles (AVA1). |
+| **Top 5 — Vehicles (VH / Aerial) (apex)** | **Redeye 37/1.5 Blitzen, or 38/1.5 Continuous-Damage GL** | [Kestrel aerial Vehicle value](../list-building/vehicles-vh.md): Mimetism(-6), Sensor and aerial approach are retained on both Vanilla profiles (AVA1). |
 | **Top 10 — Active-Turn Gunfighters (apex)** | **Hetkari MULTI Red Fury, 48/1.5** | [Kestrel Top 10 shooting](../list-building/active-turn-gunfighters-apex-and-value.md): BS14, 2W, ARM5, Marksmanship; no Kestrel Fireteam bonuses in Vanilla. |
 | **Top 10 — ARO Units (apex)** | **Hetkari Missile Launcher, 47/1.5** | [Kestrel Top 10 reactive profile](../list-building/aro-units-apex-and-value.md): durable heavy launcher, unlinked in Vanilla. |
 | **Top 10 — ARO Units (apex)** | **Black A.I.R. FTO Neurocinetics MULTI Sniper, 33/1.5** | [Kestrel Top 10 ARO](../list-building/aro-units-apex-and-value.md): MSV2 + Mimetism(-3), native Neurocinetics; FTO loadout is separately legal in Vanilla without a team. |
@@ -40,7 +40,10 @@
 | **Top 10 — ARO Units (apex+value)** | **Nisse MSV2 MULTI Sniper, 29/1.5** | [Svalarheima Top 10 reactive shortlist](../list-building/aro-units-apex-and-value.md): BS13, MSV2 and Mimetism(-3), but no link bonuses. |
 | **Top 10 — Mission Specialists / Button Pushers (value)** | **Zulu-Cobra FO 24/0 or KHD/Pitcher 26/0** | [Varuna Top 10 midfield specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md#L85): Camo and FD(+10); FO and KHD are different profiles, and the KHD's [A/A hacker rating](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) is not the FO rating. |
 | **Top 10 — Command Units (apex)** | **Joan of Arc v2 Mobility LT AP Spitfire, 45/1; +1 CT 49/1** | [Military Orders Top 10 commander](../list-building/command-units-apex-and-value.md): Inspiring Leadership, Tactical Awareness and mobile LT. Vanilla has the same v2 profile but no Joan Haris. |
-| **Top 10 — Airborne, Infiltrating and Enemy-DZ Attackers (value)** | **Crux Knight FTO MULTI Marksman, 46/0** | [Kestrel Top 10 close-pressure role](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): durable specialist. FTO is legal in Vanilla but unlinked; not the distinct Hidden-Deployment Crux loadout. |
+
+
+
+**Additional strong option, without a verified cross-faction Top 10 tier:** **Crux Knight FTO MULTI Marksman 46/0** is a durable zero-SWC specialist, but the [47-point Hidden Deployment Crux's airborne ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L103) cannot be transferred to this separate FTO profile. In Vanilla it is unlinked.
 
 ### Particularly strong or unusual Fireteams
 
