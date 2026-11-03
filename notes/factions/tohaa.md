@@ -4,6 +4,40 @@
 
 **Evidence method:** Full YouTube MCP transcripts were obtained for Tactical Awareness's dedicated review, Robert Shepherd's October 2025 and summer 2026 tier discussions, and two Tohaa battle reports. Podcast MCP transcripts were obtained for Tactical Awareness S3 E37, Loss of Lieutenant's N5 TAG tier list, MetaChemistry E70, WIP12 E34 and the **July 2026 Mexican Tohaa-player interview** (Spanish). Do not treat untranscribed podcasts or 2023–25 snapshots as verified current rules. Auto-transcription often renders *Tohaa, Taqeul, Sukeul, Kaeltar, Kriigel, Reex, Chaksa* incorrectly. The source files below resolve unit names and **September 2026** costs/legality.
 
+## Overview
+
+**Identity:** Tohaa excels at controlling **which firefights occur**. Genuine Eclipse, repeatable **Mirrorball/Pheroware**, Symbiont Transmutation, **SymbioMates**, and flexible Triads let its units cross bad lanes and survive to score. Its standout quality is **role compression and cost**, not universally superior BS.
+
+### Whole-game standouts — apex versus value
+
+**Top 3/5/10** are qualitative shortlist *candidates within stated roles*, never an overall unit ranking or win-rate statistic. **Apex** means peak role impact; **value** weighs cost and Orders. See [cheap units](../list-building/best-cheap-units-apex-and-value.md), [DZ defence](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [CoC](../list-building/command-units-apex-and-value.md) and [scoring](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 3 candidate — cheap anti-Impersonator DZ guard (value)** | **Kaauri E/M Minelayer 11/0** | **S+/S** in cross-faction guard guides: Regular, Biometric, Sixth Sense, MSV1, Nanopulser and starting E/M mine; not an open-lane shooter. |
+| **Top 3 candidate — cheap linked anti-MSV Eclipse/CC (value)** | **Makaul HFT + Eclipse 14/0** | **S+/S** rare-capability/vision value: Regular Triad member, HFT, Viral/DA CC and MSV-proof approach; still exposed at close range. |
+| **Top 5 candidate — repeatable no-LoF Eclipse (apex/value)** | **Kriigel Mirrorball + Eraser 21/0.5** | **S** vision-control/toolbox value, repeated ZoC denial; must survive and have a partner to exploit it. |
+| **Top 5 candidate — CoC plus protection (value)** | **Kaeltar CoC + SymbioMate 21/0.5** | **S CoC value**; successor insurance while protecting a combat body. The 28/.5 profile gets two limited-use Mates. |
+| **Top 10 candidate — durable gun/scorer (apex/value)** | **Sukeul HMG 33/1.5; K1 FO 29/0** | **A+** gunfighting and **A+** mission FO roles in separate profiles; Mimetism, Symbiont and Triad eligibility. |
+| **Top 10 candidate — very cheap repeatable anti-armour (value)** | **Reex K1 Marksman 16/0** | **S armour-denial value**; BS11/STR1 constrain its peak. |
+
+### Particularly strong or unusual Fireteams
+
+- **Sukeul HMG + Makaul + Kamael FO/Paramedic Triad:** Gun, Eclipse/HFT/CC screen and scoring combine without a five-model Core.
+- **Taqeul + Kriigel + Kaeltar Triad:** Command/CoC, Mate support and repeatable Pheroware control; profile choice matters.
+- **Gao-Rael MSV2 + Makaul + Kumotail Triad:** Visor, visibility/CC screen and Doctor/Engineer coverage.
+- **Reex Escort + Kriigel Duo/Haris:** Low-cost controller delivery, but **one actual Reex minimum** remains required.
+- **Entire faction:** **No Core, unlimited Haris/Triads, maximum two Duos**, subject to [canonical source restrictions](../../sectorials/tohaa/tohaa.md#canonical-fireteam-definitions).
+
+### Unusual access, gaps and trade-offs
+
+- **Repeated anti-MSV Eclipse:** **Kriigel, Taqeul, Kaauri and Igao Mirrorball**, plus **Makaul Eclipse Grenades**.
+- **Durable scores/CoC:** **Sukeul/Sakiel** with **Kaeltar** mates and succession protection.
+- **Limited normal-tech network:** Pheroware attacks W, not STR; no full EVO/Guided/flash-REM/Repeater-bot ecosystem.
+- **One TAG:** **Gorgos** with AP HMG, optional support body; **no VH or standard combat-REM roster**.
+- **Other exceptional access:** **Clipsos Hidden Deployment, Draal Dazer, Jaan Staar/Kiiutan/Greif Impersonation**, and **Ioann Bann** normal Smoke/CC. Jaan Staar and Kiiutan cannot coexist in current roster.
+- **Weakness:** Expensive triads and SymbioMate support can leave few Orders, while direct heavy-gun and conventional hacking options are narrow.
+
 ## One-minute assessment
 
 - **Identity:**

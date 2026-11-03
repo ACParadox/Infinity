@@ -2,6 +2,37 @@
 
 **Source of truth:** [Ikari Company roster, profiles, AVA, Fireteams and validation](../../sectorials/na2/ikari-company.md). This guide contains interpretation, ranked unit assessments, mission planning, battle-report evidence and miniature purchasing guidance. Exact profile and Fireteam legality must be checked against the linked reference.
 
+## Overview
+
+**Identity:** Ikari fields **cheap Smoke and CC pressure, durable independent objective holders, and unusually varied mixed mercenary Fireteams**. The best construction keeps a second attack route after a cheap forward model trades.
+
+### Whole-game standouts — apex versus value
+
+**Top 3/5/10** denote qualitative shortlist *candidates for the specified role*, not an overall global ranking. **Apex** is peak matchup output; **value** includes points and Orders. Compare [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 5 candidate — durable 0-SWC objective holder (value)** | **Karakuri FO 31/0** | Cross-faction **S+ value**: STR3, Enhanced Immunity and real scoring. **AVA2 in Ikari, but not Fireteam-linkable**; hacking/transit still matter. |
+| **Top 5 candidate — ~20pt Smoke/perimeter/CC hybrid (value)** | **Motorized Yojimbo 20/0** | Smoke, CrazyKoala Minelayer, NWI, CC24/MA4/DA and mobility: **A+ cross-faction** value. Irregular/Impetuous, mutually exclusive with foot form. |
+| **Top 5 candidate — 6pt AD Smoke trade (value)** | **Yuan Yuan 6/0** | Extremely inexpensive flank/smoke/Chain Rifle threat; Irregular, not a reliable scoring specialist. |
+| **Strong value link attacker; not a global Top 10 claim** | **Wú Míng AP HMG 33/1.5** | Affordable AP pressure relative to the 50pt Daiyōkai HMG; dependent on proper Fireteam and range. |
+
+### Particularly strong or unusual Fireteams
+
+- **Wú Míng Haris/Core + Clipper FTO profile 5:** An **AP HMG**, durable HI and a linked **direct Missile Launcher (+1B)**. **Clipper FTO is not Guided**.
+- **Keisotsu Haris/Core + Tankō:** Inexpensive Regular team supporting a **Tankō ML** for ranged ARO while Keisotsu specialists still score.
+- **Tankō Haris + Daiyōkai:** More expensive mobile NCO/CC/fighting alternative. **Krakot Duo** adds a separate short-range pressure option.
+
+[Current chart](../../sectorials/na2/ikari-company.md#canonical-fireteam-definitions): one Core, one Haris and multiple legal Duos, not arbitrary cross-NA2 joins.
+
+### Unusual access, gaps and trade-offs
+
+- **Smoke:** **Yojimbo, Desperadoes, Yuan Yuan** and selected **Al Fasid** give credible normal Smoke; **Rui Shi and Brawler MSV2** can benefit.
+- **Limited Disco:** **Wardriver, Arslan and Tankō** have profile-specific Disco Baller access, not unlimited Eclipse grenades.
+- **CoC:** **Táowù 21/0** is optional succession cover.
+- **TAGs:** **Scarface & Cordelia** and **Triphammer**; **no VH** (bikes are WB/LI).
+- **Weakness:** Irregular heavy trading + HI/Tag investments can starve the real mission specialists of spendable Regular Orders. Karakuri cannot borrow JSA Fireteam access.
+
 ## Derived tactical index
 
 This section is analytical and non-authoritative; the source profile data and Fireteam chart above take precedence.

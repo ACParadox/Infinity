@@ -32,6 +32,8 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 | **Top 10 candidate — sub-20pt Smoke + ARO hybrid (value)** | **Garon Aibōt Total Reaction Thunderbolt + Smoke GL 16/0** | Rarely does a **Regular, 360°/TR** remote also offer a **Smoke Grenade Launcher** at zero SWC. This is a role-compression pick, **not** an S-tier sniper: ARM0/STR1 and BS11 leave it fragile, and Smoke placement costs Orders. |
 | **Top 10 candidate — affordable linked MSV2 midrange gun (value)** | **Rui Shi MSV2 Spitfire 23/1** in a legal **Sayō** | A reasonably cheap **MSV2 offensive answer to Mimetism/normal Smoke**, while Tanuki supplies the Hacker/Disco half of the module. Its **21/0.5 MSV1 Red Fury + Mine Dispenser** is a different, board-control profile, not a cheaper MSV2. Both have one STR and are Hackable. |
 
+| **Top 10 candidate — ~20pt mobile Smoke/perimeter/CC hybrid (value)** | **Motorized Yojimbo 20/0** (or mutually exclusive foot 19/0) | **A+ cross-faction** role compression: Smoke, CrazyKoala Minelayer, NWI and CC24/MA4/DA. Unlike disposable 5–8pt warbands it can screen and counterattack, but it is Irregular/Impetuous and a bike has terrain constraints. |
+
 **Other genuinely dangerous profiles, without a forced global rank:**
 
 - **Shizoku — separate HRL Fireteam profiles:**

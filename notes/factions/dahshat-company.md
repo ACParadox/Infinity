@@ -2,6 +2,38 @@
 
 **Source of truth:** [Dahshat Company roster, profiles, AVA, Fireteams and validation](../../sectorials/na2/dahshat-company.md). This guide contains interpretation, ranked unit assessments, mission planning, battle-report evidence and miniature purchasing guidance. Exact profile and Fireteam legality must be checked against the linked reference.
 
+## Overview
+
+**Identity:** Dahshat excels at combining inexpensive forward traders, abundant Smoke, a linked MSV2 attacker, and accessible TAG/REM support. It wins through several independent routes rather than treating the Maghariba as mandatory.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** are qualitative shortlist *candidates within the named role*, not measured overall rankings. **Apex** means peak matchup impact; **value** weighs points, SWC and Orders. The [Hacker](../list-building/hackers-and-killer-hackers.md), [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [TAG](../list-building/tags.md) cross-faction guides provide the comparisons.
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 10 candidate — budget hacking/projector (value)** | **Valerya Gromoz HD 19/0.5** | WIP14, Pitcher, Total Control(+1B); **S value** among Hackers, but no KHD and not a complete Guided list alone. |
+| **Top 10 candidate — 8pt forward Camo trade (value)** | **Libertos SMG + Chain-colt 8/0** | One-use Camo, forward trade and dangerous template at exceptionally low cost; **Irregular**. The 9pt Mimetism and 9/1 Minelayer are separate alternatives. |
+| **Top 10 candidate — 20pt-class Smoke/CC attack (apex)** | **McMurrough 23/0** | Multi-Wound close pressure, Super-Jump, Smoke and AP+DA melee; expensive in Orders and exposure compared with tiny disposable warbands. |
+| **Strong TAG, not a claimed global Top 10** | **Maghariba MULTI HMG 71–72/1.5** | BS14, ARM8, Tactical Awareness and multiple weapons; large S8 base, hacking risk and repair needs. |
+
+### Particularly strong or unusual Fireteams
+
+- **Zúyŏng Haris/Core with Rui Shi MSV2 Spitfire (23/1):** Tactical Awareness HMG opens long lanes while Rui Shi exploits Smoke and Mimetism. The chart allows **Rui Shi** in this family, not arbitrary REMs.
+- **Brawler Duo/Haris/Core with Monstrucker:** Affordable Sixth Sense Hacker/HRL protection, Engineer recovery and legal wildcard utility such as a Digger. Strong support efficiency; modest raw firepower.
+- **Ghulam Core/Haris with Fiddler FTO option 1:** Budget order/specialist shell. **Standalone Jackbot Fiddler variants do not link**.
+
+[Current Fireteam chart](../../sectorials/na2/dahshat-company.md#canonical-fireteam-definitions) controls profile restrictions and the Assault Duo source ambiguity.
+
+### Unusual access, gaps and trade-offs
+
+- **Normal Smoke + MSV2:** **McMurrough, Kum, Saito and Ghulam NCO Smoke GL** support **Rui Shi/Brawler MSV2**.
+- **Limited projected Eclipse:** **Odalisque Disco Baller** and a **Húláng** profile, not repeatable Tohaa-style Mirrorball.
+- **TAGs:** **Maghariba** and cheaper **Triphammer**; **no VH-class Vehicles**.
+- **Network/Guided:** **Valerya**, cheap Repeaters, **Shaytaniyah** and **Traktor Mul** support Targeted payoffs when the rest of the plan justifies them.
+- **Missing Chain of Command:** The current standard roster has no CoC profile; cheap Lt security is more important.
+- **Order pressure:** Irregular trades consume slots and cannot supply the Regular pool for a flagship Zúyŏng/TAG attack.
+
 ## Derived tactical index
 
 This section is analytical and non-authoritative; source profile data and the canonical Fireteam chart above take precedence.

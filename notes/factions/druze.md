@@ -2,6 +2,38 @@
 
 **Source of truth:** [Druze Bayram Security roster, profiles, AVA, Fireteams and validation](../../sectorials/na2/druze.md). This guide contains interpretation, ranked unit assessments, mission planning, battle-report evidence and miniature purchasing guidance. Exact profile and Fireteam legality must be checked against the linked reference.
 
+## Overview
+
+**Identity:** Druze concentrates unusually good **network projection, E/M threats, cheap mercenary trades and compact mixed Fireteams** into a force whose ordinary BS12 infantry are not elite gunfighters. Prefer making the enemy solve multiple small problems over investing in a single heroic link.
+
+### Whole-game standouts — apex versus value
+
+**Top 3/5/10** indicate qualitative, **role-specific** cross-faction shortlist *candidates*, not an overall-unit ladder or win-rate metric. **Apex** means ceiling; **value** includes points, SWC and Orders. See [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [objective holding](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 5 candidate — ultra-cheap AD Smoke trade (value)** | **Yuan Yuan Chain Rifle + Smoke 6/0** | **S-value** cheap airborne disruption; Irregular, Impetuous, and risky Combat Jump (edge deployment often safer). |
+| **Top 10 candidate — expendable Camo midfield (value)** | **Libertos SMG + Chain-colt 8/0** | Extremely cheap forward one-use Camo/template problem; no pooled Regular Order. |
+| **Top 10 candidate — low-cost scoring and recovery (value)** | **Brawler Engineer 19/0** | **S+ value** in objective holding: real Specialist, repairs, Sixth Sense and legal team membership; still W1. |
+| **Top 10 candidate — compact Hacker/projector (value)** | **Valerya HD 19/0.5** | WIP14, Pitcher and Total Control(+1B); **S-value** hacker, but competing with native Druze HD/KHD. |
+
+### Particularly strong or unusual Fireteams
+
+- **Druze/Brawler mixed Duo/Haris/Core:** Combine **Druze KHD+Pitcher or E/M GL**, **Brawler Hacker/HRL/MSV2 sniper**, and optional support. The source demands **at least one Druze or Brawler required-source member**.
+- **Clipper FTO Wildcard:** A legal linked **direct Missile Launcher (+1B)** option, **not the unlinked Guided missile profile**.
+- **Fast Attack Duo:** **Bulleteer + Motorized Bounty Hunter** adds a fast small attack axis. **Mechanized Duo** uses its own **Anaconda/Scarface required-source** set.
+
+[Canonical roster Fireteams](../../sectorials/na2/druze.md#fireteams) override older FTO naming and list codes.
+
+### Unusual access, gaps and trade-offs
+
+- **Smoke:** **Yuan Yuan** and **Saito** among several cheap mercenary options; **Brawler MSV2** can exploit it.
+- **Network and E/M:** **Druze Pitchers, Valerya, Hunzakut/Peacemaker Repeaters, E/M GL** provide a credible disruption game.
+- **Limited Disco/Eclipse:** **Arslan Disco Baller** is not Tohaa's repeatable Mirrorball.
+- **Chain of Command:** **Táowù 21/0** provides optional Lt insurance.
+- **TAG choices:** **Anaconda, Scarface & Cordelia, Triphammer**; **no VH-class unit**. None merits an invented Top 3 TAG claim.
+- **Weakness:** Expensive W1/BS12 link bodies, expensive TAG packages and network Orders compete with the basic Regular order pool.
+
 ## Tactical research — Druze Bayram Security (reviewed 2026-10-23)
 
 **Evidence boundary:** This is a tactical interpretation of videos, podcasts, and reported games—not a replacement for the N5.3 Army profiles and canonical Fireteam chart above. Sources from 2022 (N4) and the December 2024 N5 launch can explain *why* a plan works, but their prices, hacking interactions, Fireteam bonuses, profile availability, and list codes are **not** authoritative in October 2026. The roster above remains verified to Army 7.26246.159 / N5.3.

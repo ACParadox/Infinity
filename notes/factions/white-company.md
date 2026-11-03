@@ -2,6 +2,39 @@
 
 **Source of truth:** [White Company roster, profiles, AVA, Fireteams and validation](../../sectorials/na2/white-company.md). This guide contains interpretation, ranked unit assessments, mission planning, battle-report evidence and miniature purchasing guidance. Exact profile and Fireteam legality must be checked against the linked reference.
 
+## Overview
+
+**Identity:** White Company excels at **long-range precision, layered visibility control, unusually flexible Chain of Command and useful specialists in multiple Fireteam families**. It can field a Fusilier-supported sniper, a K2 Karhu/Kaplan package, a tougher ORC/Jujak team, or independent forward REMs without relying on any one architecture.
+
+### Whole-game standouts — apex versus value
+
+**Top 3/5/10** are qualitative shortlist *candidates for particular jobs*, not overall rankings. **Apex** is ceiling; **value** counts points, SWC and Orders. See [Hackers](../list-building/hackers-and-killer-hackers.md), [command units](../list-building/command-units-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [ARO guns](../list-building/aro-units-apex-and-value.md).
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 5 candidate — ~22pt HD+ Pitcher (value)** | **Danavas HD+ 22/0.5** | WIP15, White Noise, Pitcher and Oblivion(+1B) rate **S Hacker value**; W1 and network-dependent. |
+| **Top 10 candidate — linked succession/anti-Hacker (value)** | **Hǎidào CoC 24/0; KHD+Pitcher 22/0** | **A+ CoC value / S KHD value**, NWI and Wildcard AVA3; these are **separate** profiles, not combined with the MSV2 sniper. |
+| **Top 10 candidate — linked anti-armour gun (apex/value)** | **Karhu Feuerbach 34/1.5** | MSV1, Mimetism(-3), NCO and good anti-armour reach; **A-tier ARO**, not an automatic global Top 3 shooter. |
+| **Additional distinctive efficiency** | **Peacemaker + Auxbot 23/0** | Forward Repeater/controller + template bot geometry at modest cost; not a full specialist/recovery plan by itself. |
+
+### Particularly strong or unusual Fireteams
+
+- **K2 Duo/Haris/Core — Karhu + Kaplan:** **Karhu Feuerbach/Engineer** for reach, **Kaplan Doctor/Engineer** for recovery/scoring; maximum **two Karhu** in the family.
+- **Fusilier Core/Haris + Hawkwood:** Cheap Fusilier support around a K1 sniper or Hawkwood CoC/Lt option, with eligible Wildcards such as Hǎidào.
+- **White Company ORC/Jujak Duo/Haris/Core:** Durable HI gun, Jujak Engineer/Firewall, legal Nisse MSV2 or Blade FTO support, balanced against Hacking exposure.
+- **Varangian + Shona Duo:** Smoke and a dangerous close-combat companion. **WhiteCo Varangians are Irregular**.
+
+[Fireteam chart](../../sectorials/na2/white-company.md#canonical-fireteam-definitions) retains unusual required-source fields; do not invent a pure-team anchor rule.
+
+### Unusual access, gaps and trade-offs
+
+- **Multiple CoC profiles:** **Hǎidào, Hawkwood, Táowù, Emily** can protect a fighting Lt, but stacking all of them is wasteful.
+- **Three visibility modes:** **Varangian/Carmen Smoke**, **Señor Massacre Eclipse**, **Danavas/Laxmee White Noise**; **Nisse/Hǎidào MSV2** shoot through ordinary Smoke.
+- **TAGs:** **Gūijiă, Scarface & Cordelia, Anaconda**, alongside independent **Bulleteer/Peacemaker** attack REMs.
+- **No VH-class unit:** Carmen is a motorcycle profile, not a Vehicle.
+- **Mission range:** **Guiláng Infiltration, Nøkken FD/Mimetism, Tiger/Cube Jäger AD**, and several linkable specialist profiles.
+- **Weakness:** Buying every appealing 25–40pt gun, hacker and specialist can leave too little deployed midfield and too few Regular Orders.
+
 ## Derived tactical index
 
 This section is analytical and non-authoritative; source profile data and the canonical Fireteam chart above take precedence.

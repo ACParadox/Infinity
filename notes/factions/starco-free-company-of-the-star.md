@@ -2,6 +2,39 @@
 
 **Source of truth:** [StarCo — Free Company of the Star roster, profiles, AVA, Fireteams and validation](../../sectorials/na2/starco-free-company-of-the-star.md). This guide contains interpretation, ranked unit assessments, mission planning, battle-report evidence and miniature purchasing guidance. Exact profile and Fireteam legality must be checked against the linked reference.
 
+## Overview
+
+**Identity:** StarCo combines **elite individual support characters** with **small, purpose-built Fireteam families**. Its signature solutions are **Uhahu/Knauf Outrage**, **Avicenna-backed Riot Grrls**, and inexpensive PMC specialists, with mobile Bandit/Hellcat network delivery.
+
+### Whole-game standouts — apex versus value
+
+**Top 3/5/10** are qualitative shortlist *candidates within specific roles*, not universal rankings or measured results. **Apex** is the role ceiling; **value** considers cost/Orders. Sources include [doctors](../list-building/doctors-engineers-and-recovery-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+| Whole-game role shortlist | Unit / profile | Why; caveat |
+|---|---|---|
+| **Top 5 candidate — forward Fireteam Doctor (apex)** | **Avicenna 28/0** | **S Doctor apex**: WIP15, Doctor(+3), NWI and legal Riot Grrl team; only as useful as reachable casualties. |
+| **Top 10 candidate — compact HD+ Pitcher (value)** | **Uhahu 19/0.5** | WIP14 HD+, Pitcher and NWI at a low cost, but requires a real Repeater use and protection. |
+| **Top 10 candidate — budget team Engineer/scorer (value)** | **Brawler Engineer 19/0** | **S+ objective-holding value**, useful team membership and repair; W1/ARM2. |
+| **Top 10 candidate — cheap E/M indirect/specialist (value)** | **Emily E/M GL + FO 24/0** | 0-SWC indirect disruption and scoring; **22/0 FO-only** is another profile. Indirect attacks cost Orders. |
+
+### Particularly strong or unusual Fireteams
+
+- **Outrage Duo/Haris — Uhahu + Knauf FTO option 2:** Hacking/Pitcher plus an **MSV1/Mimetism sniper**. **Emily** is another legal required-source option; non-FTO Knauf cannot join.
+- **Riot Grrl Core/Haris/Duo + Avicenna and Fiddler FTO option 1:** Durable attackers supported by an exceptional Doctor and legal Engineer; standalone Jackbot Fiddler profiles do not link.
+- **PMC Duo/Haris — Brawler + CSU/Digger:** Cheap Sixth Sense Hacker, Engineer, scoring and defensive utility without a full Core.
+- **Armored Duo/Haris — Anaconda or Triphammer:** Real heavy attack plus eligible Brawler/Irmandinho support, at a substantial cost.
+
+[Canonical StarCo families](../../sectorials/na2/starco-free-company-of-the-star.md#fireteams) define source and profile restrictions.
+
+### Unusual access, gaps and trade-offs
+
+- **Eclipse:** **Señor Massacre** carries genuine Eclipse Grenades; **Jaguars/Irmandinho** provide normal Smoke for **Brawler MSV2**.
+- **Guided/network:** **Uhahu/Tsyklon Pitchers**, **Bandit/Hellcat Repeaters** and **Vertigo** supply a credible, Order-hungry threat.
+- **Airborne distinction:** **Hellcat Paramedic** can deliver a Repeater; **Raoul AD** and **Regular Raoul FTO** are different roles/profiles.
+- **TAGs:** **Anaconda** and **Triphammer**; **no VH**, and no imported Nomad Iguana/Gecko/Lizard.
+- **Command gap:** No broad CoC safety suite comparable to White Company; protect a known inexpensive Lt.
+- **Weakness:** Outrage, a full Riot Grrl team, a TAG and off-table attackers all compete for scarce Regular Orders.
+
 ## Tactical research — StarCo (reviewed 2026-10-23)
 
 **Read the roster and canonical Fireteams above first.** [S1] is an October 6, 2025 initial review; [S2] is the later October 28, 2025 Loss of Lieutenant debate and substantially revisits its TAG conclusions. Tactical testimony is not authoritative for rules: the **N5.3 Army 7.26246.159 snapshot above wins**. Shared Nomad, Corregidor, Bakunin and NA2 discussions explain overlapping units, not StarCo legality.
