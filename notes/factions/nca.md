@@ -842,6 +842,17 @@ Useful contributions:
 
 Auxilia is valuable because its battlefield contribution exceeds “one cheap Order.”
 
+## Battle-report-backed compact Fireteams and army modules (2026-11-03)
+
+These are additions to the existing Uhlan/Swiss/TAG archetypes, not replacements for them. Both linked examples use a **Bolt anchor** in the [current NCA Neoterra family](../../sectorials/panoceania/neoterran-capitaline-army.md#fireteams); **Aquila must be an allowed FTO loadout** and Wildcards do not eliminate the required ORC/Bolt choice.
+
+- **Hannibal forward attack Haris — [#044](../battle-reports/041-050-n5-battle-report-tactical-analysis.md):** **Hannibal (Strategic Deployment) + Shona Carano + Bolt Killer Hacker** was expressly identified as a three-member link. It combines forward positioning, credible CC deterrence and a Hacker without purchasing three expensive guns. The reporter also mentions a *second* three-body group, but **does not identify all three members**; do **not** certify its composition or claim NCA ran two Harises.
+- **Aquila anti-marker mission Haris — [#227](../battle-reports/221-230-n5-battle-report-tactical-analysis.md):** **Aquila Guard FTO + Bolt MSV1 Sniper + Shona Carano**, **three-body team explicitly activated together**. Complementary pieces in that actual **7–1 Evacuation** list included **Uhlan Feuerbach, Tech-Bee, Fugazi, Hexa KHD, Blocker Hacker, Quinn CoC, CSU and support REMs**. The mission was won by **surviving specialist/civilian deliveries and board control**, not a presumed five-Bolt Core.
+- **Two alternatives for the one Haris slot:** **Hannibal/Bolt/Shona** prioritizes early aggressive positioning; **Aquila/Bolt/Shona** prioritizes MSV3 precision and reactive containment while **Uhlan** supplies the second attack axis. They **cannot be fielded as separate Harises simultaneously** in current NCA, and **Shona is unique**. Replace her with another chart-legal support option if a different list requires both offensive and defensive teams.
+- **Full-list takeaway from #227:** an **Uhlan + compact Bolt-centered Haris + cheap mission Specialists + actual engineering/hacking defence** can outperform a low-body-count high-Order opponent by keeping multiple scoring routes alive. This complements, rather than contradicts, the existing **double-Uhlan/triple-TAG** skew; one played **7–1** is not a general matchup rating.
+
+**Legality trap:** current **Fusiliers** teams still require an actual Fusilier, and a named **Aquila FTO** in a Bolt-based Neoterra team does **not** make it a Fusilier Core. Check **Aquila FTO options 5/7/8** and profile-specific Hacker/Firewall coverage in the authoritative reference before buying the models.
+
 ## Practical NCA archetypes
 
 ### A. Uhlan / Swiss combined arms
