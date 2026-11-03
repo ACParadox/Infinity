@@ -54,6 +54,7 @@ _Researched 23 Oct 2026. **Qualitative tactical rankings, not measured win rates
     - **Dāturazi — 14/0**
     - **Jaguar — 10/0**
     - **Varangian — 10–12/0**
+- **Best ~20pt mobile normal-Smoke carrier with another job:** **Yojimbo bike20/0 / foot19/0** (mutually exclusive) adds **CrazyKoala Minelayer, NWI and CC24/MA4/DA**. Excellent when the smoke carrier also screens an approach; **Irregular+Impetuous**, and Smoke remains vulnerable to MSV.
 - **Best cheap White Noise providers:**
   - **Interventor HD+ (Tunguska) — 18–23/.5**
   - **Uhahu HD+ (Bakunin) — 19/.5**
@@ -122,6 +123,7 @@ _**S** exceptional ceiling in an appropriate legal roster, **A** very strong, **
 | **A+** | **Shifta CoC/Disco 21/0; Lobo Disco 20–24/0; Tanuki HD/Disco 20/.5; Kulak KHD/Disco 20/0** | Dual/triple-duty profiles, not a premium standalone smoke tax | Link and device differences are material; no universal Fireteam import |
 | **A+** | **Kaauri 14/.5 Mirrorball (Tohaa)** | Small cheap repeatable Eclipse source | Vulnerable to close approach, may compete with 11pt E/M mine version |
 | **A** | **Vargar FO 24/0; Quinn FO 26/0; Konstantinos FTO Disco + Deactivator 23/0** | Projected Eclipse without sacrificing mission or link roles; Konstantinos may reactivate | Worth the premium only if mobility/FT/wildcard/command value actually pays |
+| **A** | **Yojimbo motorized20/0 / foot19/0** — Shindenbutai/Ōban/JSA where legal | PH14 **normal Smoke**, with CrazyKoala Minelayer, NWI and elite melee threat so the enabler can perform other jobs | **Irregular+Impetuous**, bike S4 needs clear lanes; not Eclipse or a Regular pool Order. Count the Rui Shi MSV2 gun's **separate** cost in a Smoke-shooting package |
 | **A** | **Myrmidon Officer CoC Eclipse 30–31/.5; Shikami 42/0** | Exceptional **apex**, but much of price buys insurance/scoring/assault, not just smoke | Choose lower-cost Smoke/Makaul in eligible rosters for simple crossings |
 | **B** | **Taqeul 35–36/0; premium Disco gunfighter; Asura HD+ 63/.5** | Capable multi-role pieces, but large proportion of budget if purchased solely for LoF control | Buy when other command/attack objectives justify price, not solely for one template |
 
