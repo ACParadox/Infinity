@@ -207,14 +207,15 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | 9 | **S/A** | **Galwegian5** — Caledonia | Smoke + CC22 AP into vulnerable body; disposable pin | **One W, Impetuous/Irregular**, less reliable armor murder than Monofilament; great tempo trade, not full elimination certainty. |
 | 10 | **A+** | **Teutonic Knight18** — Military Orders | **2W, MA2 DA**, assault corner with Panzerfaust/Light Shotgun backup | Good 18pt rugged close threat when team/cover supports approach; Impetuous is not always a free benefit. |
 | 11 | **A+** | **Jaguar10** — Corregidor | Regular team scaffold, **Smoke + Dogged + DA**, melee screen for Intruder and correctional assault | MA1 B1; worse pure combat dice than Dāturazi, but excellent package/faction context. |
-| 12 | **A+** | **Cameronian18** / **McMurrough23** — Caledonia / eligible | Fast **15-10 Smoke 2W** body with T2 or AP+DA and template | Size S6, Impetuous/Irregular, and mines/templates punish direct route; ideal opening a short lane and surviving first exchange. |
-| 13 | **A** | **Igao23** — Tohaa | **Infiltration+Camo+MA3** ambush of objective-room infantry | Good initial position, but one-Wound ARM0, no Monofilament; treat VITA/LI targets preferentially. |
-| 14 | **A** | **Caliban24** — Shas | Camo+FD+20, VITA snowball, cheap field problem | Protheion cannot grow from enemy TAG STR; killing CC tanks demands more than an ordinary PS5 CCW. |
-| 15 | **A** | **Yojimbo19–20** — Shindenbutai/Ōban | **Smoke, CrazyKoala Minelayer, NWI, CC24 MA4 DA** counter-CC screen and late attack; value increases if Koalas already protect useful routes. | **Irregular+Impetuous** changes Order economy; reaching CC is not automatic, and bike/foot silhouette and movement differ. |
-| 16 | **A** | **Varangian12 SMG/Chain Rifle** — O-12 (Regular) | **Smoke, Berserk(+3), Dogged, CC23** defend room / trade for defender | Many other rosters have different Regular/Irregular status; always check printed unit. |
-| 17 | **B/A** | **Pavel McMannus33** — TAK | Camo/FD+20, Specialist, **AP+T2 CCW (PS=5)** for two-Wound ambushes | Real low-PS damage edge versus soft/mid-armour targets, but **one Wound for 33pt** and contested approach means niche value rather than universal pickup. |
-| 18 | **B/A** | **Hatamoto34** — Shinden/JSA | Firearm + **NBW/MA4/Mono/E/M** + Specialist in durable 2W slot | Too expensive if only objective is killing one 10pt warband. |
-| 19 | **B** | **Rasyat25** — Morat/CA | Arrives in enemy rear via **Parachutist(DZ)**, carries Eclipse and CC backup | Value commonly from shotgun/DZ attack *before* MA2, not a universal melee executioner. |
+| 12 | **A+** | **Cameronian18** | Fast **15-10 Smoke 2W** body with T2 or AP+DA and template | Size S6, Impetuous/Irregular, and mines/templates punish direct route; ideal opening a short lane and surviving first exchange. |
+| 13 | **A+** | **McMurrough23** — Caledonia / eligible | Fast **15-10 Smoke 2W** body with T2 or AP+DA and template | Size S6, Impetuous/Irregular, and mines/templates punish direct route; ideal opening a short lane and surviving first exchange. |
+| 14 | **A** | **Igao23** — Tohaa | **Infiltration+Camo+MA3** ambush of objective-room infantry | Good initial position, but one-Wound ARM0, no Monofilament; treat VITA/LI targets preferentially. |
+| 15 | **A** | **Caliban24** — Shas | Camo+FD+20, VITA snowball, cheap field problem | Protheion cannot grow from enemy TAG STR; killing CC tanks demands more than an ordinary PS5 CCW. |
+| 16 | **A** | **Yojimbo19–20** — Shindenbutai/Ōban | **Smoke, CrazyKoala Minelayer, NWI, CC24 MA4 DA** counter-CC screen and late attack; value increases if Koalas already protect useful routes. | **Irregular+Impetuous** changes Order economy; reaching CC is not automatic, and bike/foot silhouette and movement differ. |
+| 17 | **A** | **Varangian12 SMG/Chain Rifle** — O-12 (Regular) | **Smoke, Berserk(+3), Dogged, CC23** defend room / trade for defender | Many other rosters have different Regular/Irregular status; always check printed unit. |
+| 18 | **B/A** | **Pavel McMannus33** — TAK | Camo/FD+20, Specialist, **AP+T2 CCW (PS=5)** for two-Wound ambushes | Real low-PS damage edge versus soft/mid-armour targets, but **one Wound for 33pt** and contested approach means niche value rather than universal pickup. |
+| 19 | **B/A** | **Hatamoto34** — Shinden/JSA | Firearm + **NBW/MA4/Mono/E/M** + Specialist in durable 2W slot | Too expensive if only objective is killing one 10pt warband. |
+| 20 | **B** | **Rasyat25** — Morat/CA | Arrives in enemy rear via **Parachutist(DZ)**, carries Eclipse and CC backup | Value commonly from shotgun/DZ attack *before* MA2, not a universal melee executioner. |
 
 ## 6) Guard and counter-CC — separate defensive category
 
@@ -224,9 +225,10 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 |---|---|---|---|---|
 | 1 | **S** | **Andromeda30** (ALEPH/Steel) | Guard + MA3 + D-Charges, NWI, Infiltration: offense and reactive melee-control in a mission corridor | Lacks LoF or facing Aerial, has to expose herself to get first ZoC + LoF, or opponent shoots from outside. |
 | 2 | **A** | **Alpha24** (O-12) | Guard+MA2/CC21 + DA, **Biometric Visor** counters some impersonator positioning near protected DZ assets | Passive 24pt body with little long-range reach; CC attacker might instead kill Alpha with templates/remote shooting. |
-| 3 | **A** | **Musashi21, Hatamoto34**, **Ajax39/45** | MA5 huge active/reactive quality (Mushashi), **NBW** on Hatamoto/Ajax defeats attacker-applied **MA/Surprise penalty** | No LoF/position to countercharge; NBW does not grant auto-win or stop AP/Monofilament saves. |
-| 4 | **A** | **Yojimbo19/20, Domaru19/20, Makaul14, Dāturazi14** | Minelayers/Smoke, strong CC or expendable body screens premium shooter from base contact | Screen can be bypassed with Smoke, speculated mines or templates; don't bunch defender/support in one template. |
-| 5 | **B situational** | **cheap body joining melee / Coordinated assault** | Extra allied models **in base contact with target** can increase real CC Burst; one disposable body can delay a 70pt shooting machine without killing it | **Servant and Fireteam limitations** apply; not all 4 models can physically reach target; Command Token expense, geometry and AROs. |
+| 3 | **A** | **Musashi21, Hatamoto34** | MA5 huge active/reactive quality (Mushashi), **NBW** on Hatamoto/Ajax defeats attacker-applied **MA/Surprise penalty** | No LoF/position to countercharge; NBW does not grant auto-win or stop AP/Monofilament saves. |
+| 4 | **A** | **Ajax39/45** | MA5 huge active/reactive quality (Mushashi), **NBW** on Hatamoto/Ajax defeats attacker-applied **MA/Surprise penalty** | No LoF/position to countercharge; NBW does not grant auto-win or stop AP/Monofilament saves. |
+| 5 | **A** | **Yojimbo19/20, Domaru19/20, Makaul14, Dāturazi14** | Minelayers/Smoke, strong CC or expendable body screens premium shooter from base contact | Screen can be bypassed with Smoke, speculated mines or templates; don't bunch defender/support in one template. |
+| 6 | **B situational** | **cheap body joining melee / Coordinated assault** | Extra allied models **in base contact with target** can increase real CC Burst; one disposable body can delay a 70pt shooting machine without killing it | **Servant and Fireteam limitations** apply; not all 4 models can physically reach target; Command Token expense, geometry and AROs. |
 
 **Counterplay decision:**
 
