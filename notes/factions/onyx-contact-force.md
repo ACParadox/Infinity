@@ -34,6 +34,18 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 - **Top 10 candidate — affordable linked command/mission support (value): Nexus.** Separate **Engineer, Hacker and Chain of Command** profiles support Unidron defense, recovery or the Lieutenant plan; no single Nexus possesses all three loadouts. The [mission-specialist comparison](../list-building/mission-specialists-and-button-pushers-apex-value.md) favors that role compression when the *team* is useful.
 - **Distinctive value without a guaranteed Top-10 position: Unidron 14-point basic REM.** Remote Presence, Dogged, weapons and linked specialists support a stubborn **Engineer recovery loop**, rather than being the cheapest possible Regular Order.
 
+- **Top 5 candidate — specialist with MSV2, delivery and Protheion (rare-capability apex): Ko Dali.**
+  - **Forward Deployment (+20) 34/0:** advanced start with Mimetism(-3).
+  - **Combat Jump/Parachutist 37/0:** an off-table attack route instead.
+  - **S-tier rare combination** in the [cross-faction guide](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) for BS14, MSV2, Protheion, CC and Specialist Operative. These are **different profiles**, and Combat Jump can fail; do not count a guaranteed Protheion snowball.
+- **Top 5 candidate — affordable cyber-toolbox (value): Bit & KISS! Hacking Device 25/0.5.** **S value in the [toolbox comparison](../list-building/jack-of-all-trades-toolbox-units-apex-value.md)** for Pitcher, hacking/Trinity, deployable network and a separately positioned Repeater peripheral. The **24/0.5 KHD/Oblivion** option has distinct KISS! equipment; neither package earns free extra Regular Orders.
+- **Top 5 candidate — concealed button pusher (apex): Malignos FO 30/0 / KHD 32/0.** Rated **S for hidden objective access** in [mission-specialist tiers](../list-building/mission-specialists-and-button-pushers-apex-value.md), which list the identical Shas/Vanilla profiles; the pinned **Onyx roster also explicitly includes these profiles**. Hidden Deployment, Infiltration and Mimetism(-6) are premium safety, but cost more than a basic specialist.
+- **Top 5 candidate — dual Doctor/Engineer (value): Med-Tech Obsidon 21/0.** **S value** in [recovery comparisons](../list-building/doctors-engineers-and-recovery-apex-value.md). Its WIP14 Doctor/Engineer with separately purchased Slave Drones is especially effective behind Unidron/Overdron/Xeodron repairable threats; the Controller is still vulnerable.
+- **Top 10 candidates — cheap REM answers, different jobs:**
+  - **Unidron K1 Combi 14/0:** **S for armor penetration per point**, according to the [non-hacking anti-TAG rankings](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md); BS11 and short range make it a *threat to an exposed TAG*, not a reliable solo duel against one.
+  - **Q-Drone TR Thunderbolt(+1B) 20/0.5:** **S in cheap reactive-defense comparisons** with Mimetism(-3), but Hackable and repair-dependent.
+  - **Vector Operator MMR / Plasma Sniper:** **A+/A+ BS-mod stacking** in the [cross-faction comparison](../list-building/bs-mod-stacking-units-apex-and-value.md); MSV2 and Mimetism(-3) are useful at BS12, especially in the legal Exrah team context. It is not a universal elite HMG replacement.
+
 ### Particularly strong or unusual Fireteams
 
 - **Unidrons Core/Haris — the defining attrition network:**
