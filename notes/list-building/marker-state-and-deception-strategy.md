@@ -1146,6 +1146,10 @@ The [ARO apex/value tier list and matchup guide](aro-units-apex-and-value.md) co
 
 **Observed marker value:** **Strelok Decoys near hidden Tankhunters + Scout mines** (#161/#237 are one tournament account), **Shrouded/Malignos/Speculo** Camo/hidden cluster (#159/#196), and Kestrel **Scarecrow + Banshee** alternative access (#005/#158) tax Discover or force uncertain attack paths. The best result can be **time/position saved**, even when a mine or hidden gun never fires (#190's unfired Tankhunter). [#161](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#159](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#190](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#196](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md).
 
-**Counters:** #158's Redeye **Sensor** unmasked Caledonian Camo; #155's hidden **Anathematic** faced an unexpected **M-Drone Sensor**; concentrated markers without an actual console-carrying Specialist can produce a beautiful but non-scoring defense. Link all current **Hidden/Camo/Decoy/Sensor** claims to the sectorial/rules references, not video paraphrase.
+**Counters:**
+
+- #158's Redeye **Sensor** unmasked Caledonian Camo
+- #155's hidden **Anathematic** faced an unexpected **M-Drone Sensor**; concentrated markers without an actual console-carrying Specialist can produce a beautiful but non-scoring defense.
+- Link all current **Hidden/Camo/Decoy/Sensor** claims to the sectorial/rules references, not video paraphrase.
 
 [Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).

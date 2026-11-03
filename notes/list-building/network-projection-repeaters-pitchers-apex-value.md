@@ -1,8 +1,26 @@
 # Network Projection — N5.3 Repeaters, Pitchers, FastPandas, TinBot and Delivery Units
 
-**Airborne network seizure source — [Infinity the Dante, Corregidor DZ assault ~5–12m and ~16–20m](https://www.youtube.com/watch?v=fzvUQPWBQKM&t=300s) (transcript reviewed 28 Oct 2026):** An AD piece is most valuable when its **legal** deployed/native Repeater appears *behind a protected corner* near an enemy key Hacker or active ARO dependency; the living friendly Hacker can then attempt targeted **Trinity / Carbonite / Spotlight**, and the node persists as an opponent Turn-1/2 removal tax. A rear sentry with **Mine Dispenser/Repeater/defensive hacking** may make close entry dangerous even if its direct gun seems weak. **Do not inherit an equipment item from a video scenario:** current **Hellcat Paramedic23 has NO Deployable Repeater** (nor do other listed Hellcat profiles). The **Bearcat Paramedic27 Surface** does; **Tomcat DR19/.5 Deepspace** does; **Meteor Zond19–21** has **native Repeater**; the **Bearcat KHD29–30 Surface** has **Trinity/Firewall(-3)** but no DR and requires some other Hacking Area path. **Two different sources of value:** landing an independent gun to kill **Pilot-X** can cripple enemy network/RemDriver; landing a Repeater only pays off with a surviving friendly Hacker/Orders. See [video-specific Corregidor guide](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+**Airborne network seizure source — [Infinity the Dante, Corregidor DZ assault ~5–12m and ~16–20m](https://www.youtube.com/watch?v=fzvUQPWBQKM&t=300s) (transcript reviewed 28 Oct 2026):**
 
-**Vanilla O-12 delivery update — [Robert Shepherd's Faction Focus (27–28m, 77–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1620s), reviewed 26 Oct 2026:** **Kappa Hacking Device13/.5** is an excellent low-cost way to make the faction's ordinary **Kyttä/FO Oko/RoadBot Repeater** coverage an *active threat*. **Cyberghost HD+21/.5** adds WIP14 **White Noise** to get Gamma, Ioann Bann and other non-MSVisored attackers past critical visual AROs, but its **BS11 Pitcher** is an *opportunistic* launch (often after positioning **Oko TA18 + RoadBot20 Duo**), not a substitute for deliberate native Repeater placement. The presenter often prefers to move the Oko/RoadBot into hacking area before spending scarce Orders trying for Pitchers. **Sirius FO21 + Repeater/Heavy Riotstopper SiriusBot** is another defensive forward net package, yet its controller cost and vulnerability make it a conditional purchase; **Hacker Sirius24/.5** in particular adds enemy KHD exposure. Current [Vanilla O-12](../../sectorials/o-12/o-12.md) profiles/AVA apply; do not generalize these Duos to Starmada/Torchlight.
+- An AD piece is most valuable when its **legal** deployed/native Repeater appears *behind a protected corner* near an enemy key Hacker or active ARO dependency; the living friendly Hacker can then attempt targeted **Trinity / Carbonite / Spotlight**, and the node persists as an opponent Turn-1/2 removal tax.
+- A rear sentry with **Mine Dispenser/Repeater/defensive hacking** may make close entry dangerous even if its direct gun seems weak.
+- **Do not inherit an equipment item from a video scenario:** current **Hellcat Paramedic23 has NO Deployable Repeater** (nor do other listed Hellcat profiles).
+- The **Bearcat Paramedic27 Surface** does
+- **Tomcat DR19/.5 Deepspace** does
+- **Meteor Zond19–21** has **native Repeater**
+- the **Bearcat KHD29–30 Surface** has **Trinity/Firewall(-3)** but no DR and requires some other Hacking Area path.
+- **Two different sources of value:** landing an independent gun to kill **Pilot-X** can cripple enemy network/RemDriver; landing a Repeater only pays off with a surviving friendly Hacker/Orders.
+
+See [video-specific Corregidor guide](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+
+**Vanilla O-12 delivery update — [Robert Shepherd's Faction Focus (27–28m, 77–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1620s), reviewed 26 Oct 2026:**
+
+- **Kappa Hacking Device13/.5** is an excellent low-cost way to make the faction's ordinary **Kyttä/FO Oko/RoadBot Repeater** coverage an *active threat*.
+- **Cyberghost HD+21/.5** adds WIP14 **White Noise** to get Gamma, Ioann Bann and other non-MSVisored attackers past critical visual AROs, but its **BS11 Pitcher** is an *opportunistic* launch (often after positioning **Oko TA18 + RoadBot20 Duo**), not a substitute for deliberate native Repeater placement.
+- The presenter often prefers to move the Oko/RoadBot into hacking area before spending scarce Orders trying for Pitchers.
+- **Sirius FO21 + Repeater/Heavy Riotstopper SiriusBot** is another defensive forward net package, yet its controller cost and vulnerability make it a conditional purchase; **Hacker Sirius24/.5** in particular adds enemy KHD exposure.
+
+Current [Vanilla O-12](../../sectorials/o-12/o-12.md) profiles/AVA apply; do not generalize these Duos to Starmada/Torchlight.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
@@ -92,7 +110,14 @@ _23 October 2026 · Whole-game **qualitative** apex/value tiers, not measured wi
 | **A / A+** | **Shindenbutai Tanuki Hacker/Pitcher+Disco Baller 20/.5** | BS13, Warhorse, **vision control and Repeater projection** from a single team-relevant MI | Only HD and 1W: do not buy because of a fantasy linked Firewall/TinBot or transport Shindenbutai rules into Vanilla JSA |
 | **A / S** | **Kestrel/MO/NCA Peacemaker native Repeater 23–27/0–.5** with FD(+20) and Auxbot options | Turn-0 *forward native* Repeater plus a close template/attack fork; can also trade physically if network targets absent | S4 placement, Hackable, usually too costly purely as kamikaze when Fugazi7/0 and Pathfinder/TechBee can do enough |
 
-**O-12 network architecture:** 7pt **Kyttä** (Regular native Repeater) + **15pt Oko** (Sensor/FO/native Repeater) supply budget coverage; **SiriusBot** comes with Team Sirius (20/0 BSG or 21/0 FO). **Starmada** can use its **Saladin** version and **Cyberghost** but sectorial AVA/Fireteam restrictions differ; **Torchlight** makes **Waverider + Strider 28/.5 Deployable Repeater Minelayer** plus Kyttä/Oko a distinct strong plan. These corrections matter more than automatically pushing Nomads above every O-12 or Yu Jing option.
+**O-12 network architecture:**
+
+- 7pt **Kyttä** (Regular native Repeater) + **15pt Oko** (Sensor/FO/native Repeater) supply budget coverage
+- **SiriusBot** comes with Team Sirius (20/0 BSG or 21/0 FO).
+- **Starmada** can use its **Saladin** version and **Cyberghost** but sectorial AVA/Fireteam restrictions differ
+- **Torchlight** makes **Waverider + Strider 28/.5 Deployable Repeater Minelayer** plus Kyttä/Oko a distinct strong plan.
+
+These corrections matter more than automatically pushing Nomads above every O-12 or Yu Jing option.
 
 ## 3. Matchup & delivery decision
 

@@ -67,7 +67,14 @@ _Research: 2026-10-23. **Qualitative tiers, not measured win rates.** Prices, SW
 | **A** | **Strelok SMG+AP Mine 16/0; Decoy(1)** — Ariadna | Get a **cheap plausible Camo/decoy speed bump** for no setup Orders. Excellent for bluff/screen density. | Minelayer: its mine generally costs an Order to place later. |
 | **A** | **Draal Dazer 32/0** or **Shock Minelayer 33/1** — Tohaa | Mission needs terrain obstruction / durable 2W approach pressure, rather than a 1W expendable mine. | An actual **Minelayer Dazer**: the Dazer-bearing 32pt profile does **not** have Minelayer. |
 
-**Network/system outliers:** Tunguska **Heckler Jammer+FastPanda 23/0** starts FD(+10) but deploying FastPanda later costs Orders; **Spektr E/M Mine+Deployable Repeater 28/0** begins Hidden/infiltrated but does **not** have Minelayer on that profile (Spektr dual-mine **33/1** does). **Long Yá** Camo/mines, **Guìláng** infiltrators and **Zhēnchá** are strong Yu Jing alternatives; compare selected exact roster profiles rather than assigning an unverified mixed loadout here. **Krit Kokram FTO-2** Minelayer in vanilla Yu Jing is **not** its Duo-legal FTO profile. A zero-Order defense is not synonymous with “all infiltrators have Minelayer.”
+**Network/system outliers:**
+
+- Tunguska **Heckler Jammer+FastPanda 23/0** starts FD(+10) but deploying FastPanda later costs Orders
+- **Spektr E/M Mine+Deployable Repeater 28/0** begins Hidden/infiltrated but does **not** have Minelayer on that profile (Spektr dual-mine **33/1** does).
+- **Long Yá** Camo/mines, **Guìláng** infiltrators and **Zhēnchá** are strong Yu Jing alternatives; compare selected exact roster profiles rather than assigning an unverified mixed loadout here.
+- **Krit Kokram FTO-2** Minelayer in vanilla Yu Jing is **not** its Duo-legal FTO profile.
+
+A zero-Order defense is not synonymous with “all infiltrators have Minelayer.”
 
 ## 3. Pick by opponent and table
 
