@@ -44,7 +44,14 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 - **Senku Haris — cheap Senku FO/Paramedic + Senku + Hatamoto:** lets a premium NCO/specialist operate with inexpensive supporting bodies. The value is **Hatamoto plus Order-efficient team infrastructure**, not the Senku's BS11 shooting. Senku-family access is limited to **one Hatamoto**.
 - **Mechazoid Duo — Mechazoid + Tanuki** or **Mechazoid + Atom Sensor/FO/Repeater:** specialized TAG support without building a Core. **Mechazoid + Atom + Tanuki is not a legal three-member Mechazoid team**; it is a **Duo-only** family.
 
-**Structural advantage:** Shindenbutai permits **1 Core, 1 Haris and effectively unlimited Duos**, allowing **a Sayō Haris plus separate Sayō/Mechazoid/Bushi-tai Duos** while other pieces act independently. That **modular, mixed-technology Fireteam ecosystem** is more exceptional than any blanket five-model Fireteam bonus. Validate required anchors, profile restrictions and Wildcards against the [canonical chart](../../sectorials/jsa/shindenbutai.md#canonical-fireteam-definitions).
+**Structural Fireteam advantage:** Shindenbutai permits **one Core, one Haris and effectively unlimited Duos**, so multiple independent team modules can coexist:
+
+- **Sayō Haris:** Tanuki/Rui Shi/Shizoku central toolbox.
+- **Separate Sayō Duo:** secondary network or mission-support pair.
+- **Mechazoid Duo:** TAG plus Atom or Tanuki for a different support role.
+- **Bushi-tai Duo:** independent assault or ranged pressure.
+
+The modular, mixed-technology ecosystem matters more than a universal five-model bonus. Confirm required anchors, profiles and Wildcards in the [canonical chart](../../sectorials/jsa/shindenbutai.md#canonical-fireteam-definitions).
 
 ### Unusual access, missing tools and meaningful weaknesses
 
@@ -714,7 +721,13 @@ These are alternatives, not mandatory bodyguards. See [force-multiplier guide](.
 | **Uran** | **16/1.5**, Guided Missile | Makes Tanuki Pitchers/Targeted more punishing; **disputed value** because its points, SWC and Orders may crowd out the actual attack plan. Dice Gods is sceptical of building a dedicated Guided plan; network-heavy lists can justify it as a consequence tool. |
 | **Yáozăo** | Servant peripheral, not a standalone Regular order | Extends the reach of linked Doctor/Engineer support; plan paths and controller availability, not just nominal inclusion. |
 
-**Vehicle/mobility overlap:** Motorized Yojimbo is the closest bike-style unit in the standard roster. Compare **Yojimbo's self-propelled smoke + Koalas + rapid CC threat** against **Garon's repeated ranged smoke**. Yojimbo trades and pressures the enemy independently; Garon stays behind to place smoke and protect a lane. You can take both for redundancy, but a list short on Regular Orders may prefer the Garon/Disco Baller plan.
+**Mobility and visibility alternatives:**
+
+- **Motorized Yojimbo:** a Warband on a bike that delivers self-propelled Smoke, Koalas and fast CC pressure.
+- **Garon Smoke Grenade Launcher:** a supporting piece that places repeated ranged Smoke and guards a lane.
+- **Tanuki Disco Baller:** an Eclipse approach that handles enemy MSV differently from ordinary Smoke.
+
+Both Yojimbo and Garon can be useful, but a list short on Regular Orders may prefer Garon/Disco support rather than another independent trading piece.
 
 ### Opponent-side checks: why a powerful Shinden list can still fail
 
