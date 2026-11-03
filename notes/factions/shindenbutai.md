@@ -86,13 +86,13 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
   - **Another Senku:** additional cheap Fireteam body.
   - **Hatamoto:** main NCO/fighting specialist.
   
-  Supports Hatamoto rather than relying on Senku BS11 shooting. Only one Hatamoto is permitted.
+  This Fireteam supports the premium attacker; the cheap bodies are not the primary guns. Only one Hatamoto is permitted.
 - **Mechazoid Duo — TAG plus one partner:**
   - **Mechazoid:** principal TAG.
   - **Tanuki:** specialist/hacking/visibility; **or**
   - **Atom Sensor/FO/Repeater:** utility and detection.
   
-  Mechazoid + Atom + Tanuki is not a legal three-member team.
+  **Restriction:** this Fireteam family is Duo-only; a three-member combination is illegal.
 
 **Structural Fireteam advantage:** Shindenbutai permits **one Core, one Haris and effectively unlimited Duos**, so multiple independent team modules can coexist:
 
@@ -211,7 +211,10 @@ His published example list is especially informative because it has:
 - Monstrucker + servant;
 - Lù Duān.
 
-The notable absence is **Hatamoto**. The list proves that Tanuki/Sayō infrastructure can be the real structural heart of Shinden.
+The important composition distinction is:
+
+- **Hatamoto:** absent from the published list.
+- **Tanuki/Sayō:** the team's utility network forms the army's structural heart.
 
 ### Tanuki Hacker — closest thing to a structural staple
 
@@ -304,7 +307,10 @@ It can manufacture board control before the main attack group commits.
 
 Current Uran is a 16-point Guided Missile REM.
 
-In a Tanuki-heavy network, Uran is less interesting as a dedicated “Guided list” and more interesting as a consequence attached to the hacking network.
+Within this package:
+
+- **Tanuki:** creates hacking/Targeted opportunities through network projection.
+- **Uran:** adds a conditional Guided consequence rather than justifying an entire dedicated missile list.
 
 Pitchers and Repeaters become harder to ignore because a successful Targeted state can now lead to a Guided attack. Even when Uran never fires, it changes how safely an opponent can tolerate the network.
 
@@ -425,7 +431,7 @@ Use it as a **budget command solution** when the saved points materially improve
 
 Current Tanuki has an HMG MSV2 Lieutenant profile.
 
-This can work when the list specifically wants the LT to be a ranged MSV piece, but it is more exposed and less structurally distinctive than Metsuke/Hatamoto command packages.
+This can work when the list specifically wants the LT to be a ranged MSV piece, but it is more exposed and less structurally distinctive than the safer deployment-control or protected fighting-LT plans.
 
 ## Go-to Fireteam structures
 
@@ -685,7 +691,7 @@ In Shinden it can support:
 
 while also converting spare Orders into deployables.
 
-This makes the Monstrucker especially good in lists where Group 2 already contains the Mine Rui Shi / Pangguling package.
+This makes the Engineer particularly useful when Group 2 is already invested in ranged mines and Baggage support.
 
 ## Pangguling — infrastructure, not Fireteam filler
 
@@ -826,7 +832,7 @@ These are alternatives, not mandatory bodyguards. See [force-multiplier guide](.
 - **Garon Smoke Grenade Launcher:** a supporting piece that places repeated ranged Smoke and guards a lane.
 - **Tanuki Disco Baller:** an Eclipse approach that handles enemy MSV differently from ordinary Smoke.
 
-These are alternative investments; if Regular Orders are tight, prioritize the Garon/Disco support approach rather than adding an independent Yojimbo trade piece by default.
+These are alternative investments. If Regular Orders are tight, prioritize ranged Smoke and vision-denial support rather than adding another independent trading piece by default.
 
 ### Opponent-side checks: why a powerful Shinden list can still fail
 
@@ -838,7 +844,12 @@ Direct **Sneaky Snake Military Orders matchup** and **MetaChemistry takedown** t
 - **Cheap exposed one-Wound/STR1 support** can be removed more easily than Shinden's standout HI suggest. **Answer:** layer protection for Tanuki, the cheap remotes and Turn 3 specialists; preserve mission capability after trading away Irregular pressure.
 - **Hard-to-snipe LTs** (Metsuke Holoprojector/Strategos or aggressive Hatamoto plus Tanuki CoC) mean *opponents* may be better off removing order infrastructure than chasing the obvious LT.
 
-These are **matchup tendencies**, not universal counters. Notably the old videos sometimes omit current **Shurayuki Wildcard**, **Ruby Monday**, or post-N5 launch roster differences. The current sectorial reference controls legality.
+These are **matchup tendencies**, not universal counters. The older videos can omit current additions:
+
+- **Shurayuki:** now has Wildcard access.
+- **Ruby Monday:** not included in some older reviews.
+
+The current sectorial reference controls legality, not older video-era assumptions.
 
 ### Contrasting list-construction opinions — keep all three
 
@@ -957,7 +968,7 @@ Its value depends on hidden timing and layered defence. Conversely, do not assum
 
 ### Do not import old Shurayuki Fireteam conclusions
 
-Current Shurayuki has explicit Senku-counting Wildcard access.
+- **Shurayuki:** explicitly counts as Senku as a current Wildcard.
 
 ### Do not treat Pangguling's FTO profile label as actual Shinden Fireteam access
 
