@@ -136,7 +136,17 @@ Both use the *actual qualifying target*, not every ally.
 
 ## 5) Servant positioning and true Order efficiency
 
-- **Standard Servant 3pt**: **Palbot, Zondbot, Nasmat, Yudbot, Yáozăo, Slave Drone, Chaksa** as rostered. **Ariadna Remontnikbot 2pt** where rostered. Common movement **15-10**, tiny S1, Mimetism−3; no independent Order.
+- **Standard Servant options** (as permitted by the selected roster):
+  - **Palbot** — 3pt
+  - **Zondbot** — 3pt
+  - **Nasmat** — 3pt
+  - **Yudbot** — 3pt
+  - **Yáozăo** — 3pt
+  - **Slave Drone** — 3pt
+  - **Chaksa** — 3pt
+  - **Ariadna Remontnikbot** — 2pt where rostered
+
+  Common movement **15-10**, tiny S1, Mimetism−3; these do not provide an independent Order.
 - **A Doctor/Engineer Controller may take at most two Servants** and activate only **one** at a time; Servant is not a new unit/Order, and **the Controller's WIP performs the skill roll**.
 - Put **Servant A one protected Move away from expensive ARO shelf; Servant B one protected Move away from a TAG's likely fallback angle.** Do **not** leave both beside Controller, beside each other, or within a single template/repeater kill zone.
 - **Turn 1** preposition while the expensive shooter moves in an orderly route; then use a second combat group's spare Orders for rescue where available. Two Servants in one combat group **do not** provide two support activations simultaneously.
@@ -188,8 +198,14 @@ Do not count a Mk.1 as independently fieldable cheap Engineer.
 **Nomads/Tunguska/Corregidor/Bakunin:**
 
 - **Clockmaker18 + Zondbot3** often beats a 30pt toolbox repairer for pure REM/TAG infrastructure.
-- **Evader** or **Orphan Engineer** works when it is also gun/Repeater/link utility.
-- **Tomcat22/26 + Carlota28/32** bypass a far-flank movement tax
+- **Multirole Engineer options:**
+  - **Evader** — when its gun/Repeater/link utility matters
+  - **Orphan Engineer** — for the same type of role compression.
+- **Far-flank recovery:**
+  - **Tomcat22/26**
+  - **Carlota28/32**
+
+  Both can bypass a long movement tax where their deployment modes are legal.
 - **Wildcat Engineer25** is controversial toolbox spending when its team doesn't use MSV or gear.
 
 **Combined/Shas/Onyx/Next Wave/Morat:**
@@ -200,7 +216,11 @@ Do not count a Mk.1 as independently fieldable cheap Engineer.
 
 **Haqq/Ramah/Hassassin/QK/Dahshat:**
 
-- **Ghulam Doctor15(+3)** and **Rouhani21(+3)** deliver 85–90% with exact legal roster.
+- **High-reliability Haqq Doctors** (check exact legal roster):
+  - **Ghulam Doctor15(+3)**
+  - **Rouhani21(+3)**
+
+  Their recovery success probabilities span approximately 85–90% under the stated modifiers.
 - **Hakim** wins where Parachutist/Nasmat A2 makes recovery physically possible
 - **Najjarun15** repairs STR
 - **Monstrucker12** sacrifices Regular Order for a cheaper technical specialist.
@@ -219,11 +239,20 @@ Every expensive Guijia/Blue Wolf TAG benefits from deliberate fallback and remot
 
 - **Irmandinho8** is an extraordinary cheap smoke/trading/engineering combination but not your only safe TAG mechanic
 - **Dozer13 + 2pt Remontnik** builds covered STR recovery cheaply.
-- **112 Doctor11**, **Motorized112 19** and **Kazak Doktor12** are inexpensive medical choices, but **no-Cube** patients lose Doctor token re-roll security.
+- **Inexpensive Ariadna medical choices:**
+  - **112 Doctor11**
+  - **Motorized 11219**
+  - **Kazak Doktor12**
+
+  **No-Cube** patients lack Doctor token reroll protection.
 
 **O-12/Starmada/Torchlight:**
 
-- **Lambda Engineer16 / Doctor variant** plus **Yudbot3** is enough for most Wrecker/Zeta/REM situations
+- **O-12 low-cost support package:**
+  - **Lambda Engineer16** or the distinct **Lambda Doctor** variant
+  - **Yudbot3** as the accompanying Servant
+
+  This is sufficient for many Wrecker/Zeta/REM recovery needs.
 - **Parvati36** does something distinct with **2W Doctor, high Engineer, mobility, STR2**.
 - **Kludger23**
 - **Vidocq FTO Doctor19**

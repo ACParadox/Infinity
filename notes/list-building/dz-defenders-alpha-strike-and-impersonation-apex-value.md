@@ -1,11 +1,32 @@
 # Deployment-Zone Defenders — N5.3 Apex, Value, and Anti-Alpha-Strike Guide
 
-**Concrete anti-Drop case — [Infinity the Dante, Corregidor vs Svalarheima DZ walkthrough](https://www.youtube.com/watch?v=fzvUQPWBQKM) (28 Oct 2026 transcript audit):** A defender that *expects* airborne attacks can place **Pilot-X + two RacerBots** across rear/side approach pockets, a **Thunderbolt TR bot supported by RemDriver** in a separate lane, and a **Karhu/Varg/Shona/linked Knight of Justice** screen so the dropper must first address a Repeater/Mine/Emitter/long gun before reaching the exposed backline. This is a **scenario-dependent sample**, not a universal list or proof these exact units are optimal. Place cheap REMs to cover **landing *and subsequent two-Order approach***, not merely the perimeter; protect the single important Hacker and Lieutenant separately from their repair/control dependencies. Beware **Carlota Parachutist(DZ)** entering from a **legal enemy-DZ edge** and **Bearcat KHD marker-assisted movement**, but the video correctly notes **standard Tomcat Parachutist can be deterred by guarding both side edges**, forcing a later arrival. Source also warns a RacerBot can be more dangerous than its points suggest because deployables, Repeater and cheap template/ARO options punish a strike run. [Loadout/Surface-vs-Deepspace warnings](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+**Concrete anti-Drop case — [Infinity the Dante, Corregidor vs Svalarheima DZ walkthrough](https://www.youtube.com/watch?v=fzvUQPWBQKM) (28 Oct 2026 transcript audit):** A defender expecting airborne attacks can position several different defensive layers:
+
+- **Pilot-X + two RacerBots:** watch rear/side arrival pockets and hacking approaches.
+- **Thunderbolt Total Reaction REM + RemDriver:** cover a separate shooting lane.
+- **Karhu:** one possible direct-fire screen.
+- **Varg:** another guard or vision-control option.
+- **Shona:** close-assault countercharge.
+- **Linked Knight of Justice:** a further defensive gun/approach gate.
+
+This is a **scenario-dependent sample**, not a universal list or proof the whole combination is optimal. Place cheap REMs to cover **landing *and the next two-Order approach***, not merely the perimeter; separate the important Hacker and Lieutenant from their repair/control dependencies.
+
+**Attack vectors to anticipate:**
+
+- **Carlota Parachutist(DZ):** legal enemy-DZ-edge arrival.
+- **Bearcat KHD:** marker-assisted movement.
+- **Standard Tomcat Parachutist:** can be deterred by guarding both side edges and forcing a later arrival.
+
+A RacerBot can be more dangerous than its points suggest because deployables, Repeater and cheap template/ARO options punish a strike run. [Loadout/Surface-vs-Deepspace warnings](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
 
 **Vanilla O-12 DZ-layering example — [Robert Shepherd's faction focus (18–24m, 77–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1080s), 26 Oct 2026:**
 
 - Deploy **two Moonraker Minelayers15/.5** for overlapping near-DZ **Adhesive Launcher Rifle** approach lines (the threat is 8–16in ambush/interference, not merely a Shock Mine); each attacker may need to clear/avoid multiple possible camo marker AROs.
-- Behind them, **Regular PH14 Smoke Varangians 12–13pts**, **Raveneye Lt12 E/M Mine/Minelayer**, **Peeler TR Thunderbolt19/0 plus Monstrucker12 Engineer (Irregular)** or the **RoadBot20 Paramedic** can buy surviving Turns/repair capacity.
+- Behind the two Moonrakers, the surviving-Turn/recovery layer can include:
+  - **Regular PH14 Smoke Varangians12–13pt**
+  - **Raveneye Lt12 E/M Mine/Minelayer**
+  - **Peeler TR Thunderbolt19/0** supported by **Monstrucker12 Engineer (Irregular)**
+  - **RoadBot20 Paramedic** as another support option.
 - Speaker warns this is **delay-focused 'crumple-zone' defence**, not an endless lethal missile wall; immobilized attackers may still be freed, so use the opportunity to damage, displace or score.
 - This pertains to **Vanilla O-12** rather than Starmada's Bluecoat-based security screen or Torchlight's own link-based AROs.
 
@@ -20,13 +41,29 @@ _23 October 2026 · Tactical **qualitative tiers**, not tournament win rates. Ex
 - **Best anti-Impersonator small defender (apex + value): Tohaa Kaauri 11/0 E/M Minelayer.** Biometric Visor, Sixth Sense, MSV1, enhanced Discover, Nanopulser(+1B), SMG and a turn-zero E/M mine all on an ordinary **Regular** body. Guards a *corner and reveal square*, not an entire back edge; 1 STR makes it fragile.
 - **Best anti-Impersonator nonlethal alternative: O-12/Starmada Bluecoat Adhesive + Heavy Riotstopper 13/0.** Biometric, Sixth Sense, Discover(+6), Natural Born Warrior and close-range capture options; Regular Order. More about **punishing the reveal/CC approach** than killing an armored dropper at range. Starmada **AVA4**, vanilla O-12 **AVA2**.
 - **Best cheap all-round rear/side ARO: Warcor 3/0 with 360º Visor.** A Flash Pulse from every arc can waste an elite attacker’s Order. **Irregular**: it does *not* provide a shared Regular Order. The **3pt Sixth Sense Warcor is another option**, **not** a simultaneous 360º+Sixth Sense Warcor.
-- **Best persistent 360º escort/gun: Sierra or Hùsòng Thunderbolt(+1B) 18/0, Zayin/Reaktion 19/0, Q-Drone 20/.5** (army-dependent). **Total Reaction + 360º** contests normal flank and airborne attackers, remains a Regular Order and can be repaired; heavy expenditure/hacking/smoke or pie-slicing can still remove it. Put it in an actual crossfire, not on an isolated sacrificial roof.
+- **Best persistent 360º escort/gun** (army-dependent):
+  - **Sierra Thunderbolt(+1B)18/0**
+  - **Hùsòng Thunderbolt(+1B)18/0**
+  - **Zayin19/0**
+  - **Reaktion19/0**
+  - **Q-Drone20/.5**
+
+  **Total Reaction + 360º** contests flank and airborne attackers, provides a Regular Order and permits repair; hacking, Smoke or pie-slicing can still remove it. Place it in a useful crossfire, not on an isolated sacrificial roof.
 - **Best mine + utility at home:**
   - **O-12/Starmada/Military Orders Raveneye 12/0 E/M or Cybermine Minelayer+FO+Deactivator**
   - **Acontecimento Regular 13/0 Shock Minelayer+Sensor+Triangulated Fire**
-  - **Kestrel Fennec 14/0 Shock Minelayer+Thunderbolt(+1B)**. All buy turn-zero denial and an on-table Regular Order for little or no SWC.
-- **Best two-body close escort:** **NCA Auxilia 15/0 with Auxbot** (FO+Auxbot also 15/0; alternate FO 18/0), or **Tohaa Chaksa Auxiliar FTO 10/0 HFT+Sensor+Baggage**. Auxilia **Controller + synchronized peripheral** covers two angles but *not two independent Regular Orders*; Chaksa guards and reloads from the rear while supporting scoring/classified roles.
-- **Best disposable “kill only a cheap thing” screen:** **Varuna Helot LRL 10/0 FTO**, or **12/0 one-use Camo LRL**, and **Hassassin Daylami LSG+Panzerfaust 6/0** / **5/0 LSG** or **Kestrel Jackal LRL/Panzerfaust 6/0**. **Irregular** units are excellent sacrifices but are not equal to 10–14pt Regular support troops for Order economy.
+  - **Kestrel Fennec 14/0 Shock Minelayer+Thunderbolt(+1B)**
+
+  All three options buy turn-zero denial and an on-table Regular Order for little or no SWC.
+- **Best two-body close escort / support:**
+  - **NCA Auxilia15/0 + Auxbot:** FO+Auxbot also 15/0; alternate FO18/0; synchronized Controller/Peripheral covers two angles but yields only one Regular Order.
+  - **Tohaa Chaksa Auxiliar FTO10/0:** HFT+Sensor+Baggage, guarding and reloading from the rear while supporting scoring/Classified roles.
+- **Best disposable “kill only a cheap thing” screens:**
+  - **Varuna Helot LRL10/0 FTO** or separate **12/0 one-use Camo LRL**
+  - **Hassassin Daylami LSG+Panzerfaust6/0** or **5/0 LSG**
+  - **Kestrel Jackal LRL/Panzerfaust6/0**
+
+  **Irregular** units are excellent sacrifices but do not match 10–14pt Regular support troops for Order economy.
 - **Best budget flexible two-body 360º option:** **Kestrel Drummer FO+Drumbot-5 21/0**: 360º controller, synchronized 360º/Mimetism bot, FO/Flash and midgame actions. Competes with **28/1.5 FO+MULTI Sniper** and premium 40pt gunbots. Use if the second body can actually cover a different angle or mission.
 - **Best full defense is a *three-layer package*:** perimeter/marker/mine *before* arrival, 360º or short-ranged ARO at arrival/extraction, nonlethal/template + second defender covering the **next** square, with vital cheerleaders out of chained shotgun/template lines.
 
