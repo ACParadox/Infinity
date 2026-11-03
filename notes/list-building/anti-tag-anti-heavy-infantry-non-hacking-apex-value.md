@@ -72,7 +72,15 @@ Against ARM8 in Partial Cover, AP reduces **ARM8→4**, **then** adds +3 cover (
 | **A (multi-threat assault)** | **Combined/Onyx Umbra Legate K1 Combi33**, **Tohaa Reex K1 Marksman16**, **Combined Unidron K1 Combi14** | Medium/short range angle safe; armor high and enemy FTF weaker | ARM=0 conversion strong, but a slow BS11 1W Unidron may lose to elite TAG ranged FtF; no automatic win. |
 | **A (anti-armor deterrent)** | **Haqq Sunduqbut Feuerbach Neurocinetics47/1.5**, **Onyx Noctifer ML30/1.5**, **NCA Swiss Guard ML60/1.5** | Need to deny a TAG's turn rather than actively chase it | Concealment/ARO timing beats pure statline. Expensive weapons or single-Burst shots aren't automatically better active. |
 
-**TAG/vh gun platforms:** **Zeta/Overdron HRMC B5 AP, Dragoons AP-capable platforms, Maghariba E/M Carbine, Bultrak Portable Autocannon(+1B), Gorgos AP HMG** can have even higher raw apex, but purchasing **another TAG** for anti-TAG duty is a **separate, 60–110pt list-construction decision**, not a value comparison with a 5pt E/Marat or 33pt TankHunter. [Full TAG guide](tags.md) retains its own apex/value ranking.
+**TAG/VH gun platforms:** These can have even higher raw apex:
+
+- **Zeta / Overdron:** HRMC B5 AP.
+- **Dragoons:** AP-capable platforms.
+- **Maghariba:** E/M Carbine.
+- **Bultrak:** Portable Autocannon(+1B).
+- **Gorgos:** AP HMG.
+
+Purchasing **another TAG** for anti-TAG duty is a **separate, 60–110pt list-construction decision**, not a value comparison with a 5pt E/Marat or 33pt TankHunter. [Full TAG guide](tags.md) retains its own apex/value ranking.
 
 ## 3. Points-value tiers — affordable answers that actually exist
 
@@ -96,7 +104,16 @@ Against ARM8 in Partial Cover, AP reduces **ARM8→4**, **then** adds +3 cover (
 | **A** | **Onyx Kurgat Portable Autocannon30/1**, **Ariadna TankHunter AP HMG33/1.5** | Best **repeatable lethal** answer when a real active firefight is expected and one cheap template cannot reach. | Higher opportunity cost and SWC; susceptible to Mimetism/cover/LoF, sometimes a cheap temporary IMM wins mission sooner. |
 | **B situational** | **Yu Jing White Banner Fēiquán 28/0 VH E/M Carbine(+1B)+Akrylat**, **Imperial Service Fēiquán28/0** | Airborne vehicle projecting B2 E/M without hacking, good flank geometry where huge aerial base is legal. | Aerial No Cover, significant exposure, legality/arrival constraints; risky to sacrifice into a 70pt TAG firing lane. |
 
-*Other notable conditional options:* **PanO Kestrel Firefly SMG+Panzerfaust19**, **Haqq Ghulam Panzerfaust12**, **Morat Anyat K1 Combi+E/M Grenades22**, **Tohaa Sukeul K1 Combi FO29**, **Starmada Bluecoat/E/M control** and **ALEPH Mk.4 / missile platform** where those legal profiles are verified. For durable HI, count **2W and NWI separately**, not as automatic protection from E/M.
+*Other notable conditional options:*
+
+- **PanO Kestrel Firefly SMG+Panzerfaust19**
+- **Haqq Ghulam Panzerfaust12**
+- **Morat Anyat K1 Combi+E/M Grenades22**
+- **Tohaa Sukeul K1 Combi FO29**
+- **Starmada Bluecoat/E/M control**
+- **ALEPH Mk.4 / missile platform**
+
+These are conditional on the legal profile being verified. For durable HI, count **2W and NWI separately**, not as automatic protection from E/M.
 
 ## 4. Which weapon/package beats *which* armor?
 

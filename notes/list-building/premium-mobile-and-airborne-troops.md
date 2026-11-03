@@ -1,6 +1,16 @@
 # List-Building Strategy — Premium, Mobile, and Airborne Troops
 
-**Practical AD choice — [Infinity the Dante, *Deployment Zone Assault: Drop Troop Tactics*](https://www.youtube.com/watch?v=fzvUQPWBQKM), full transcript checked 28 Oct 2026:** Before buying an AD model, distinguish **Turn-1 network/ARO disruption** from **late-game scoring/repair**. In Corregidor the **Surface Bearcat Paramedic27/0** is a tougher hackable NWI/Warhorse **Deployable-Repeater specialist**, while **Surface Bearcat KHD29–30/0** trades that equipment for **Trinity/Firewall(-3)/Cybermask marker movement**. **Deepspace Hellcat Paramedic23/0** is cheaper and unhackable but W1, **Carlota28–32/0** attacks a **legal enemy-DZ edge** and can add Moriarty, and **Tomcat17–22** should often **wait** when entry is fully covered. **The speaker incorrectly attributes a deployed repeater to current Hellcat Paramedic and Adhesive to Bearcat Paramedic**; always read the real profile. Landing legally is not landing *profitably*: map first encounter, second ARO, targets that unlock follow-up and the exit before spending the drop Order. [Unit-by-unit, profile-checked case](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
+**Practical AD choice — [Infinity the Dante, *Deployment Zone Assault: Drop Troop Tactics*](https://www.youtube.com/watch?v=fzvUQPWBQKM), full transcript checked 28 Oct 2026:**
+
+Before buying an AD model, distinguish **Turn-1 network/ARO disruption** from **late-game scoring/repair**. Corregidor options:
+
+- **Surface Bearcat Paramedic27/0:** tougher, hackable NWI/Warhorse **Deployable-Repeater specialist**.
+- **Surface Bearcat KHD29–30/0:** trades that equipment for **Trinity/Firewall(-3)/Cybermask marker movement**.
+- **Deepspace Hellcat Paramedic23/0:** cheaper and unhackable but W1.
+- **Carlota28–32/0:** attacks a **legal enemy-DZ edge** and can add Moriarty.
+- **Tomcat17–22:** should often **wait** when entry is fully covered.
+
+**Profile caution:** The speaker incorrectly attributes a deployed repeater to current Hellcat Paramedic and Adhesive to Bearcat Paramedic; always read the real profile. Landing legally is not landing *profitably*: map first encounter, second ARO, targets that unlock follow-up and the exit before spending the drop Order. [Unit-by-unit, profile-checked case](../factions/corregidor.md#airborne-dz-assault-workshop--infinity-the-dante-28-october-2026-transcript-audit).
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
