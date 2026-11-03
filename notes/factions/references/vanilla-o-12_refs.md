@@ -167,6 +167,22 @@ The N5.3 [cheerleader/order-generator apex and value guide](../../list-building/
 
 [Cross-game N5.3 Peripheral & Multi-Body tiers](../../list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
 
+### Reconstructed army-list and Fireteam evidence ledger (2026-11-03)
+
+**Method:** [numbered battle-report dossiers](../../battle-reports/) were searched for played O-12 rosters; **explicit link declaration**, **supported reconstruction**, **unlinked troop inventory** and **scenario-only rules** are separate evidence types. Original recordings range from launch-day N5 to later ITS17; **the [N5.3 FT-I/FT-II chart](../../../sectorials/o-12/o-12.md#canonical-fireteam-definitions) remains authoritative**. See the [playable shells in the tactical guide](../vanilla-o-12.md#battle-report-derived-army-shells-and-fireteam-ideas-2026-11-03).
+
+| Report | Army / Fireteam recovered | Evidence level and what *not* to infer |
+|---|---|---|
+| [#107 — B-Pong](../../battle-reports/101-110-n5-battle-report-tactical-analysis.md) | Gamma HMG + **two Vidocqs** (one Doctor); two Razor variants, two Moonrakers/Varangians, RoadBot, Cyberghost, Epsilon, Ment, Kappa | **Three linked members strongly reconstructed**, not a five-model Core. Rebuild with **FTO Vidocq Doctor + FTO escort** under present FT-II; the non-FTO Camo Sniper cannot replace the linked one. |
+| [#239 — Area of Interest](../../battle-reports/231-240-n5-battle-report-tactical-analysis.md) | Alpha/Ment command + Razor/Gangbuster/Nightshade/Moonraker concealment + Cyberghost/Kappa hacking. Narrator reports **TA REM + Paramedic REM Duo** | **Duo reported, unit identity unresolved**; a **RoadBot + Oko TA** is a *separately sourced legal suggestion*, not two guaranteed original models. |
+| [#082 — Critical Intervention](../../battle-reports/081-090-n5-battle-report-tactical-analysis.md) | Gamma/Cyberghost/Raveneye/Bluecoat/Gangbuster/SiriusBot room defense, Lambda, two Varangians and Cuervo | **No Vanilla Fireteam announced.** Sirius and SiriusBot are controller/Peripheral, not Duo. |
+| [#124 — Hunting Party](../../battle-reports/121-130-n5-battle-report-tactical-analysis.md) and [#128 — Biotechvore](../../battle-reports/121-130-n5-battle-report-tactical-analysis.md) | Alpha/Cyberghost/Hippolyta/Cuervo and defensive REMs; respectively Varangian/Gamma/Epsilon/Cyberghost rush | **Both unlinked**. Cuervo's failed Combat Jump in #124 is a risk, not an expected landing mechanic; Biotechvore's rushing incentive is mission-specific. |
+| [#234 — Uplink Center](../../battle-reports/231-240-n5-battle-report-tactical-analysis.md) | Gamma/Alpha/Ment + Cyberghost/Raptor/Sirius hacking vs Blue Wolf, independent Lawkeeper/Varangians | **No O-12 link established.** Possession slowed the TAG but did not decide late objective scoring. |
+| [#222 — custom Blocking Zone](../../battle-reports/221-230-n5-battle-report-tactical-analysis.md) | Gamma + **free scenario-granted Sonya** in an explicit Duo | **Custom-only costs/deployment**; do not claim this pair won a normal ITS list on ordinary points. |
+| [#133 — 150pt launch-day Supplies](../../battle-reports/131-140-n5-battle-report-tactical-analysis.md) / [#041 — mixed O-12-family](../../battle-reports/041-050-n5-battle-report-tactical-analysis.md) | Small unlinked Omega/PSI-Cop/Bluecoat demo; separate Epsilon/Betatrooper-style linked example with uncertain actual faction | **Not valid as a 300pt Vanilla Core observation**; #041's likely Starmada links cannot be imported as Vanilla permissions. |
+
+**Practical inference:** Results favor **one premium attack solution plus two independent scoring routes**, with an actual **Gamma + two Vidocq FTO Haris** as the best documented Vanilla linked example. **No report in this O-12 group proves a Vanilla four- or five-body starting Fireteam.** Avoid counting auxiliary bots, pilots, Minelayer tokens or a proposed team as played personnel.
+
 ### Mission performance — battle-report evidence (2026-11-01)
 
 | Mission(s) | Tested composition / scoring mechanism | Evidence |
