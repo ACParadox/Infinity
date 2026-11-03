@@ -27,7 +27,7 @@
 | **Top 5 — Peripherals, Synchronized & Multi-Body Packages (value)** | **Peacemaker HSG + Auxbot 23/0** or **Minelayer + Auxbot 24/0.5** | [S+ peripheral value](../list-building/peripheral-synchronized-multibody-apex-value.md): forward Repeater, template/optional mine. Hackable and large. |
 | **Top 5 candidate — cheap TAG support (value)** | **Tech-Bee TAGCom, 9/0** | [S+ force-multiplier value](../list-building/force-multipliers-special-abilities-apex-value.md): same-group printed Dodge/GizmoKit support, **not** extra BS, an Engineer or global effect. |
 | **Top 10 candidate — cheap projected Eclipse/FO (value)** | **Fennec FO + Sensor + Disco, 13/0** | [S+ visibility value](../list-building/vision-control-units-apex-and-value.md) and **actual Vanilla roster access**, but lacks the Kestrel Fireteam benefit; limited-use and fragile. |
-| **Top 10 candidate — airborne specialist/hacker (value)** | **Banshee KHD, 23/0** | [Strong airborne role](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): Combat Jump, Super-Jump, MSV1, Pulzar and cyber-scoring access. Landing variance/W1 limit certainty. |
+| **Top 10 candidate — airborne specialist/hacker (value)** · [**KHD: B apex / A value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **Banshee KHD, 23/0** | [Strong airborne role](../list-building/airborne-and-enemy-dz-attackers-apex-value.md): Combat Jump, Super-Jump, MSV1, Pulzar and cyber-scoring access. Landing variance/W1 limit certainty. **Revised Hacker guide:** Banshee KHD 23/0 is B apex/A value as a Hacker; the Top 10 claim is about its independently S-tier airborne mission access, not top cyber-dueling apex. |
 
 ### Particularly strong or unusual Fireteams
 
