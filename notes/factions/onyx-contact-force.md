@@ -1,6 +1,6 @@
 # Onyx Contact Force — N5/N5.3 tactics, TAGs, vehicles and REMs
 
-**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../list-building/combined-army-must-have-go-to-avoid-transcript-evidence.md).
+**Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../../sectorials/combined-army/onyx.md).
 
 _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awareness S3E14 (Mar 2025), Robert Shepherd's older Onyx focus, and Concilium Watch's army-building discussion; Podcast MCP transcripts of **Irregular Order #56 (Oct 17, 2026)**, MetaChemistry #38 (2022), WIP12 E176 Vanilla Combined (Jan 2025) and Loss of Lieutenant E142 N5 TAG tier list (Apr 2025). N5.3 is current; **check Infinity Army for exact points, Fireteam legality, AVA, Skills and weapons**. Older recordings are evidence for tactical tradeoffs, not current profile exports._
 
