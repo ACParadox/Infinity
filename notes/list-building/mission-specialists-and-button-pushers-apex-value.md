@@ -68,79 +68,79 @@ _Reviewed 2026-10-23. Tactical judgments, **not measured win rates**. Costs, pro
 
 ## 1. Best objective runners — apex tier
 
-| Tier | Unit / pinned current cost | Best circumstance and second job | Anti-case |
-|---|---|---|---|
-| **S** | **Shikami Specialist Operative 42 or 47/0 — JSA** | **Carrier, hostile console, lateral turn-3 flip**. Eclipse/Climbing/Super-Jump plus 2W/Mimetism(-6), CC attack; unlike a passive hacker can cross and exit enemy fire lanes. | 42–47pts, hackable, may be too much for a single permanent button. |
-| **S** | **Dasyu FO 29/0, KHD 31/0 — ALEPH/OSS** | Infiltration/Hidden/Mimetism(-6), 15-5 MOV, AP SMG, D-Charges; FO has Deployable Repeater, KHD protects against hackers. Great **surprise flank and repeated Classified access**. | One W, 29+pts; once carrying scenario object, hiding may not work. |
-| **S** | **Malignos FO 30/0, KHD 32/0 — Shas/Vanilla Combined** | Infiltration/Hidden/Mimetism(-6), 15-5, Shock Mine, D-Charges, Regeneration; **foothold behind midfield AROs**. KHD option has Dazer. | Significant price versus Shrouded FO24, one W; mission and concealment matter. |
-| **S/A** | **Asura HD+ 63/0.5 — ALEPH/OSS** | WIP15, MSV3, NWI/ARM5, gun, cyber-attack/White Noise and Specialist eligibility; **fights through defenses then scores**. | 63pts tied to one hackable piece; cheap specialists across flanks win many button missions. |
-| **A+** | **Farzan FO 22/0 or CoC 24/0 — Hassassin/eligible Haqq** | WIP14, Camo+Infiltration, Shock Mines and D-Charges: **midfield point access plus either FO Classified or command succession**. | FO and CoC are *different profiles*. CoC model must stay alive. |
-| **A+** | **Caliban FO 26/0, Engineer 28/0, CoC 29/0 — Shasvastii** | Camouflage, FD+20, Protheion and martial threat; pick **FO for Targeted/Classified**, Engineer for repair/tech, CoC for hidden succession. Best when small enemy troopers guard objective. | Never combine those three mutually exclusive loadouts; Protheion growth not guaranteed. |
-| **A+** | **Ninja KHD 26/0, FO 30/0 — JSA** | Infiltration/Hidden/Mimetism(-6), climbing and combat: **safe turn-3 console appearance**, possibly remove hacker/guard. | WIP13, one W, KHD not an ordinary anti-TAG HD. |
-| **A+** | **Razor FO 29/0 / HD+Trinity 34/0.5 — O-12** | Hidden/infiltrating Mimetism(-6); button and role-specific Classified/infowar on enemy flank. | FO and Hacker are separate options; limited 1W survival. |
-| **A+** | **Sukeul FO 29/0 — Tohaa** | 2W Symbiont, Warhorse, K1 Combi + Deployable Repeater + Triad; **stays alive to retain/control the area**. | More visible and costly than Clipsos FO26 hidden infiltrator. |
-| **A** | **Hatamoto SO 34/0 — JSA** | 2W, 15-5, NCO, Mimetism(-3), CC/Plasma and specialist label: attack route doubles as scoring. | Expensive HI; the 36–39pt LT variants risk LoL when attacking. |
-| **A** | **Arjuna SO + Tactical Awareness — ALEPH** | WIP14, mobility, Mimetism(-3), self-funded extra activation, KiranBot support where selected. | Peripheral **is not extra independent objective runner**; escort tax and hacking exposure. |
-| **A** | **Strider SO 27/0 / FO29/0 — Torchlight** | Camouflage, FD+20, NWI, NCO, Shock Mines/D-Charges: physically gets to objective and can spend Raveneye LT(+1) Order as NCO. | Cyber/HI exposure; don't assume NCO Orders are pooled Regulars. |
-| **A** | **Zulu-Cobra FO24/0 or KHD26/0 — Vanilla PanO/Varuna** | Camo/FD+10, WIP13 and second role; stronger independent lateral access than backline specialist. | Expensive versus Pathfinder14; FO, KHD, Jammer are *different loadouts*. |
-| **A** | **Moran FO15–18/0.5 — Corregidor** | Infiltration + CrazyKoala + optional Repeater or 1-use Camo; **button and midfield area/repeater network in same body**. | Vulnerable in forward spot; SWC and loadout choice matter. |
+| # | Tier | Unit / pinned current cost | Best circumstance and second job | Anti-case |
+|---|---|---|---|---|
+| 1 | **S** | **Shikami Specialist Operative 42 or 47/0 — JSA** | **Carrier, hostile console, lateral turn-3 flip**. Eclipse/Climbing/Super-Jump plus 2W/Mimetism(-6), CC attack; unlike a passive hacker can cross and exit enemy fire lanes. | 42–47pts, hackable, may be too much for a single permanent button. |
+| 2 | **S** | **Dasyu FO 29/0, KHD 31/0 — ALEPH/OSS** | Infiltration/Hidden/Mimetism(-6), 15-5 MOV, AP SMG, D-Charges; FO has Deployable Repeater, KHD protects against hackers. Great **surprise flank and repeated Classified access**. | One W, 29+pts; once carrying scenario object, hiding may not work. |
+| 3 | **S** | **Malignos FO 30/0, KHD 32/0 — Shas/Vanilla Combined** | Infiltration/Hidden/Mimetism(-6), 15-5, Shock Mine, D-Charges, Regeneration; **foothold behind midfield AROs**. KHD option has Dazer. | Significant price versus Shrouded FO24, one W; mission and concealment matter. |
+| 4 | **S/A** | **Asura HD+ 63/0.5 — ALEPH/OSS** | WIP15, MSV3, NWI/ARM5, gun, cyber-attack/White Noise and Specialist eligibility; **fights through defenses then scores**. | 63pts tied to one hackable piece; cheap specialists across flanks win many button missions. |
+| 5 | **A+** | **Farzan FO 22/0 or CoC 24/0 — Hassassin/eligible Haqq** | WIP14, Camo+Infiltration, Shock Mines and D-Charges: **midfield point access plus either FO Classified or command succession**. | FO and CoC are *different profiles*. CoC model must stay alive. |
+| 6 | **A+** | **Caliban FO 26/0, Engineer 28/0, CoC 29/0 — Shasvastii** | Camouflage, FD+20, Protheion and martial threat; pick **FO for Targeted/Classified**, Engineer for repair/tech, CoC for hidden succession. Best when small enemy troopers guard objective. | Never combine those three mutually exclusive loadouts; Protheion growth not guaranteed. |
+| 7 | **A+** | **Ninja KHD 26/0, FO 30/0 — JSA** | Infiltration/Hidden/Mimetism(-6), climbing and combat: **safe turn-3 console appearance**, possibly remove hacker/guard. | WIP13, one W, KHD not an ordinary anti-TAG HD. |
+| 8 | **A+** | **Razor FO 29/0 / HD+Trinity 34/0.5 — O-12** | Hidden/infiltrating Mimetism(-6); button and role-specific Classified/infowar on enemy flank. | FO and Hacker are separate options; limited 1W survival. |
+| 9 | **A+** | **Sukeul FO 29/0 — Tohaa** | 2W Symbiont, Warhorse, K1 Combi + Deployable Repeater + Triad; **stays alive to retain/control the area**. | More visible and costly than Clipsos FO26 hidden infiltrator. |
+| 10 | **A** | **Hatamoto SO 34/0 — JSA** | 2W, 15-5, NCO, Mimetism(-3), CC/Plasma and specialist label: attack route doubles as scoring. | Expensive HI; the 36–39pt LT variants risk LoL when attacking. |
+| 11 | **A** | **Arjuna SO + Tactical Awareness — ALEPH** | WIP14, mobility, Mimetism(-3), self-funded extra activation, KiranBot support where selected. | Peripheral **is not extra independent objective runner**; escort tax and hacking exposure. |
+| 12 | **A** | **Strider SO 27/0 / FO29/0 — Torchlight** | Camouflage, FD+20, NWI, NCO, Shock Mines/D-Charges: physically gets to objective and can spend Raveneye LT(+1) Order as NCO. | Cyber/HI exposure; don't assume NCO Orders are pooled Regulars. |
+| 13 | **A** | **Zulu-Cobra FO24/0 or KHD26/0 — Vanilla PanO/Varuna** | Camo/FD+10, WIP13 and second role; stronger independent lateral access than backline specialist. | Expensive versus Pathfinder14; FO, KHD, Jammer are *different loadouts*. |
+| 14 | **A** | **Moran FO15–18/0.5 — Corregidor** | Infiltration + CrazyKoala + optional Repeater or 1-use Camo; **button and midfield area/repeater network in same body**. | Vulnerable in forward spot; SWC and loadout choice matter. |
 
 ## 2. Best FO / basic Specialist points value
 
-| Value | Legal example | Why this specific purchase matters | Best use / risk |
-|---|---|---|---|
-| **S+** | **Ghulam FO 12/0 — Haqq/Hassassin** | WIP14, Regular, Flash Pulse, 1pt above 11pt rifle, also Classified/Targeted option. | Low-cost near-side objective, not a solo central dash. |
-| **S+** | **Pathfinder 14/0 or TA17/0 — PanO** | WIP13, MOV15-10, FO/Sensor/Repeater/Triangulated Fire; +3pt Tactical Awareness funds its own scoring Order. Kestrel legal Wildcard context has extra move value. | Hackable one-STR bot; TA is personal except when legal Fireteam leader. |
-| **S+** | **Daleth / Combined M-Drone 15/0, TA18/0** | MOV15-10 FO/Sensor/Repeater, good second sensor anti-Camo role. Daleth **also has Climbing Plus**, M-Drone does *not*. | One STR, hacking/EM vulnerability; FTO/AVA differ by roster. |
-| **S** | **Posthuman Mk.5 FO 13/0.5 — ALEPH/OSS** | WIP15, FD+10, NWI, SMG/Flash Pulse/E/M grenades; terrific **marginal** Objective/denial body. | **G:Jumper selects 2–3 Proxies counted together, with activation/Order rules**: not independently available 13pt/Regular Order. |
-| **S** | **Barid FO 12/0 / KHD14/0 — Vanilla Haqq** | WIP14/Pitcher at very low price, Specialist and network utility. | Mostly backfield. Don't pay many Orders moving it when a Camo FO can start nearer. |
-| **S** | **Hunzakut FO15/0 or 19/0 — Vanilla Haqq** | Camouflage/Infiltration, mines/D-Charges; 15pt BSG FO cuts travel Orders dramatically. Saladin LT makes *eligible* Irregular Hunzakut produce Regular. | **Irregular normally**, not another transferable pooled Order. |
-| **S** | **Strelok FO 17/0 — Vanilla Ariadna** | Camo, FD+20, Decoy(1), Flash Pulse: easy cheap central button with private identity pressure. | Light armor WIP13; don't spend it fighting premium MSV. |
-| **A+** | **Naga FO 25/0 — ALEPH/OSS** | Infiltration/Camo, Dogged, Deployable Repeater and D-Charges; makes scoring/network routes. | Dogged helps final act, *not* safe extraction. |
-| **A+** | **Shrouded FO 24/0 — Shas/Combined** | Camouflage/Infiltration, mines and regeneration: multiple tasks without paying Malignos30. | Worse concealment/speed than hidden Malignos; 1W. |
-| **A+** | **Riksha FO 20/0 — ALEPH/OSS** | Fast ARM3/Mimetism(-3) REM with BS13, good lateral response and still an attackable support model. | Hackable one STR; FO is **not** the Red Fury/HRL profile. |
-| **A+** | **Deva FO 21/0 — ALEPH/OSS** | **WIP15, NWI, Immunity(Isolated), Number2**: durable-ish repeated button tests, excellent in a moving eligible team. | Foot MOV10-10; Sensor and KHD are other Deva profiles. |
-| **A+** | **Clipsos FO 26/0 — Tohaa** | Infiltration/Hidden/Mimetism(-6), strong concealed turn-3 reveal. | Less durable than Sukeul; harder to protect after carrying objective. |
-| **A** | **Coyote FO 27–33/0 — Corregidor** | MSV1, Warhorse, D-Charges, FO and chosen BambaBot; anti-Camo gun plus mission push. | Package costs and FD/Gun/BambaBot options differ. |
-| **A** | **Tai Sheng FO+NCO 33–37/0 — Invincible Army** | 2W/Warhorse, FO, NCO and link permission: Lieutenant Order can drive scoring team. | Expensive, and **CoC variant 36–40** is another profile. |
+| # | Value | Legal example | Why this specific purchase matters | Best use / risk |
+|---|---|---|---|---|
+| 1 | **S+** | **Ghulam FO 12/0 — Haqq/Hassassin** | WIP14, Regular, Flash Pulse, 1pt above 11pt rifle, also Classified/Targeted option. | Low-cost near-side objective, not a solo central dash. |
+| 2 | **S+** | **Pathfinder 14/0 or TA17/0 — PanO** | WIP13, MOV15-10, FO/Sensor/Repeater/Triangulated Fire; +3pt Tactical Awareness funds its own scoring Order. Kestrel legal Wildcard context has extra move value. | Hackable one-STR bot; TA is personal except when legal Fireteam leader. |
+| 3 | **S+** | **Daleth / Combined M-Drone 15/0, TA18/0** | MOV15-10 FO/Sensor/Repeater, good second sensor anti-Camo role. Daleth **also has Climbing Plus**, M-Drone does *not*. | One STR, hacking/EM vulnerability; FTO/AVA differ by roster. |
+| 4 | **S** | **Posthuman Mk.5 FO 13/0.5 — ALEPH/OSS** | WIP15, FD+10, NWI, SMG/Flash Pulse/E/M grenades; terrific **marginal** Objective/denial body. | **G:Jumper selects 2–3 Proxies counted together, with activation/Order rules**: not independently available 13pt/Regular Order. |
+| 5 | **S** | **Barid FO 12/0 / KHD14/0 — Vanilla Haqq** | WIP14/Pitcher at very low price, Specialist and network utility. | Mostly backfield. Don't pay many Orders moving it when a Camo FO can start nearer. |
+| 6 | **S** | **Hunzakut FO15/0 or 19/0 — Vanilla Haqq** | Camouflage/Infiltration, mines/D-Charges; 15pt BSG FO cuts travel Orders dramatically. Saladin LT makes *eligible* Irregular Hunzakut produce Regular. | **Irregular normally**, not another transferable pooled Order. |
+| 7 | **S** | **Strelok FO 17/0 — Vanilla Ariadna** | Camo, FD+20, Decoy(1), Flash Pulse: easy cheap central button with private identity pressure. | Light armor WIP13; don't spend it fighting premium MSV. |
+| 8 | **A+** | **Naga FO 25/0 — ALEPH/OSS** | Infiltration/Camo, Dogged, Deployable Repeater and D-Charges; makes scoring/network routes. | Dogged helps final act, *not* safe extraction. |
+| 9 | **A+** | **Shrouded FO 24/0 — Shas/Combined** | Camouflage/Infiltration, mines and regeneration: multiple tasks without paying Malignos30. | Worse concealment/speed than hidden Malignos; 1W. |
+| 10 | **A+** | **Riksha FO 20/0 — ALEPH/OSS** | Fast ARM3/Mimetism(-3) REM with BS13, good lateral response and still an attackable support model. | Hackable one STR; FO is **not** the Red Fury/HRL profile. |
+| 11 | **A+** | **Deva FO 21/0 — ALEPH/OSS** | **WIP15, NWI, Immunity(Isolated), Number2**: durable-ish repeated button tests, excellent in a moving eligible team. | Foot MOV10-10; Sensor and KHD are other Deva profiles. |
+| 12 | **A+** | **Clipsos FO 26/0 — Tohaa** | Infiltration/Hidden/Mimetism(-6), strong concealed turn-3 reveal. | Less durable than Sukeul; harder to protect after carrying objective. |
+| 13 | **A** | **Coyote FO 27–33/0 — Corregidor** | MSV1, Warhorse, D-Charges, FO and chosen BambaBot; anti-Camo gun plus mission push. | Package costs and FD/Gun/BambaBot options differ. |
+| 14 | **A** | **Tai Sheng FO+NCO 33–37/0 — Invincible Army** | 2W/Warhorse, FO, NCO and link permission: Lieutenant Order can drive scoring team. | Expensive, and **CoC variant 36–40** is another profile. |
 
 **Rule warning:** Forward Observer is a WIP *attack requiring LoF* and can apply Targeted; being FO **does not** confer an automatic bonus on every Console action. Exact specialist types, WIP modifiers and Classified rules depend on **the mission**.
 
 ## 3. Hackers/KHD — apex versus points value *as scorers*
 
-| Apex | Value | Profile | When it wins; second job | Why another scorer can be better |
-|---|---|---|---|---|
-| **S** | **A** | **Asura HD+ 63/0.5 — ALEPH** | WIP15, MSV3, NWI, gun+White Noise+Trinity; contested objectives with opposing hackers/ARO. | 63pt hacker gun is a costly single point of failure. |
-| **S/A** | **S** | **Dokkaebi KHD+Spotlight 22/0 — White Banner** | HI/NWI + Pitcher + Spotlight + Trinity: specialist and cyber control. | Versus hackable TAG/HI without enemy Hacker prefer distinct **HD Carbonite 23/.5** variant. |
-| **A+** | **S** | **Danavas HD+ 22/0.5 — ALEPH/OSS** | WIP15 Pitcher, White Noise and upgraded Oblivion; excellent ranged cyber access. | Fragile backfield, forward physical button needs escort or another model. |
-| **A+** | **S** | **Interventor HD+ 18–23/.5 — Tunguska** | WIP15/BTS9, White Noise and safe hacking from DZ/repeaters. | Stationary specialist lacks Camo/Infiltration; better support for a Moran than solo scorer. |
-| **A+** | **S** | **Deva KHD20/0 — ALEPH/OSS** | WIP15, NWI, immune to Isolation, cyber protection and objective. | KHD only; not conventional HD anti-TAG/White Noise. |
-| **A+** | **A+** | **Tuareg KHD28/0 or HD33/.5 — Haqq** | WIP15 hidden/infiltrating hacker: can appear near disputed central Console. | Barid14 is far cheaper for *stationary* network hacking. |
-| **A+** | **A** | **De Fersen HD+Trinity(+1SD) 42/.5 — Military Orders** | Two-Wound HI combat/hacker plus eligible team scoring; fights path open. | Still a hackable 42pt model; cheap enemy KHD can contest him. |
-| **A** | **A+** | **Aragoto KHD19/0 or HD21/.5 — JSA** | 20-15 Motorcycle creates huge late flanking reach to unguarded side button. | Impetuous/exposed; no Mimetism(-6) or hidden approach. |
-| **A** | **A** | **Jazz FTO22/.5 or Jazz+Billie25/.5 — Corregidor** | HD+ Pitcher/Trinity, mines and network; paired profile includes **two actual Regular Orders**. | Two mutually exclusive packages; Billie is not a Servant scorer. |
-| **A** | **A** | **Kerr-Nau KHD30/0 — Onyx** | WIP14, Pitcher, Plasma gun, KHD with White Noise; can join eligible Unidron context. | Overkill without enemy hackers; no generic Onyx team access. |
-| **A** | **A** | **Nexus HD/Engineer/CoC 23–27 — Combined/Onyx** | NCO/Number2/Mimetism(-3)/EMitter and legal team supports specialist role. | **Cannot combine HD, Engineer and CoC on one Nexus**. |
-| **B/A** | **S** | **Basic Ghulam16 HD / Kappa13 HD / Fusilier15 HD** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
+| # | Apex | Value | Profile | When it wins; second job | Why another scorer can be better |
+|---|---|---|---|---|---|
+| 1 | **S** | **A** | **Asura HD+ 63/0.5 — ALEPH** | WIP15, MSV3, NWI, gun+White Noise+Trinity; contested objectives with opposing hackers/ARO. | 63pt hacker gun is a costly single point of failure. |
+| 2 | **S/A** | **S** | **Dokkaebi KHD+Spotlight 22/0 — White Banner** | HI/NWI + Pitcher + Spotlight + Trinity: specialist and cyber control. | Versus hackable TAG/HI without enemy Hacker prefer distinct **HD Carbonite 23/.5** variant. |
+| 3 | **A+** | **S** | **Danavas HD+ 22/0.5 — ALEPH/OSS** | WIP15 Pitcher, White Noise and upgraded Oblivion; excellent ranged cyber access. | Fragile backfield, forward physical button needs escort or another model. |
+| 4 | **A+** | **S** | **Interventor HD+ 18–23/.5 — Tunguska** | WIP15/BTS9, White Noise and safe hacking from DZ/repeaters. | Stationary specialist lacks Camo/Infiltration; better support for a Moran than solo scorer. |
+| 5 | **A+** | **S** | **Deva KHD20/0 — ALEPH/OSS** | WIP15, NWI, immune to Isolation, cyber protection and objective. | KHD only; not conventional HD anti-TAG/White Noise. |
+| 6 | **A+** | **A+** | **Tuareg KHD28/0 or HD33/.5 — Haqq** | WIP15 hidden/infiltrating hacker: can appear near disputed central Console. | Barid14 is far cheaper for *stationary* network hacking. |
+| 7 | **A+** | **A** | **De Fersen HD+Trinity(+1SD) 42/.5 — Military Orders** | Two-Wound HI combat/hacker plus eligible team scoring; fights path open. | Still a hackable 42pt model; cheap enemy KHD can contest him. |
+| 8 | **A** | **A+** | **Aragoto KHD19/0 or HD21/.5 — JSA** | 20-15 Motorcycle creates huge late flanking reach to unguarded side button. | Impetuous/exposed; no Mimetism(-6) or hidden approach. |
+| 9 | **A** | **A** | **Jazz FTO22/.5 or Jazz+Billie25/.5 — Corregidor** | HD+ Pitcher/Trinity, mines and network; paired profile includes **two actual Regular Orders**. | Two mutually exclusive packages; Billie is not a Servant scorer. |
+| 10 | **A** | **A** | **Kerr-Nau KHD30/0 — Onyx** | WIP14, Pitcher, Plasma gun, KHD with White Noise; can join eligible Unidron context. | Overkill without enemy hackers; no generic Onyx team access. |
+| 11 | **A** | **A** | **Nexus HD/Engineer/CoC 23–27 — Combined/Onyx** | NCO/Number2/Mimetism(-3)/EMitter and legal team supports specialist role. | **Cannot combine HD, Engineer and CoC on one Nexus**. |
+| 12 | **B/A** | **S** | **Basic Ghulam16 HD / Kappa13 HD / Fusilier15 HD** | Cheap hacker button plus Regular Order and anti-HI programs. | Low forward reach; must have real repeater support or objective route. |
 
 For other KHD/Hacker comparisons and program matchups, use [dedicated N5.3 Hacker tiers](hackers-and-killer-hackers.md). **KHD isn't automatically an HD+ or all-purpose anti-TAG tool.**
 
 ## 4. Doctors and Engineers — apex and value
 
-| Apex | Value | Profile | Why/when worth it beyond buttons | Counter-case |
-|---|---|---|---|---|
-| **S** | **A** | **Parvati 36/0 — ALEPH** | WIP15 Doctor+Engineer, STR2/Remote Presence, 15-5 and Super-Jump: resilient **forward healer+TAG repair+scorer**. | With few premium targets, 36pt overinvestment. |
-| **S** | **S** | **Sophotect25/0 — ALEPH** | WIP15, MOV15-10, NWI, **Doctor+Engineer, MediKit/GizmoKit/D-Charges**: excellent two-role support and speed. | Can be overcommitted to both opposite flanks; use a real Yudbot coverage plan. |
-| **S** | **S** | **Med-Tech Obsidon21/0 — Combined/Onyx/Shas** | Doctor+Engineer WIP14 MOV15-10, Slave Drone relay, Zapper and D-Charges, repairs TAG/REM while also covering medical Classifieds. | Slave Drone cannot independently press console, and model itself is vulnerable W1. |
-| **A+** | **S** | **Posthuman Mk.1 Doctor13/0 or Engineer13/0 — ALEPH/OSS** | WIP15/NWI, huge **marginal** value coupled with Mk.4 gun/Mk.5 FO. | G:Jumper 2–3 Proxies **not independent Orders or independent list slots**. |
-| **A+** | **A** | **Artalis Engineer23–27/0 or Doctor23/0 — OSS** | NCO/NWI, K1/MULTI weapons and D-Charges: forward specialist in real fireteam/REM gun corridor. | Expensive if backline-only repairs; own guns need use. |
-| **A+** | **A** | **Evader Engineer24–29/0 / Specialist Operative23–31 — Corregidor** | NWI, Climbing Plus, Mines/TinBot/Fireteam; genuine fighting and repairing alongside missions. | **AP Spitfire SO vs Engineer are different loadouts**; don't buy unused gun. |
-| **A+** | **A** | **Asawira Doctor(+3)35–37/0 — Hassassin** | 2W ARM4 BTS9, Regeneration, powerful melee and ranged gun, frontline high-quality Doctor. | 20pt above Ghulam15 Doctor. Better only when going up table to shoot/heal/score. |
-| **A** | **S** | **Ghulam Doctor15/0 — Haqq/Hassassin** | WIP14 Doctor (+1 or +3 as actual faction profile), 4pt above normal Ghulam, cheap Order and Classified. | Footspeed; not as tough as Asawira when reaching contested point. |
-| **A** | **S/A** | **Bipandra Doctor23/0 / TA25/0 — PanO/Kestrel** | Doctor, MediKit(+1B), eligible Kestrel link, or +2pt personal TA scoring activation. | TA isn't global Order; profile differences in current factions. |
-| **A** | **A** | **Krit Kokram Engineer35–40 — Invincible Army** | WIP14, NCO, HI 2W, D-Charges/E/M; **37pt FTO-2 has FD+20**, can repair along a real attack route. | Cost and Fireteam anchor rules. |
-| **A** | **A** | **Hǎidào Engineer25/0 — Invincible Army** | NWI/HI linkable body, D-Charges and actual repair support; also a stable late button piece. | KHD22 and CoC24 are *separate* profiles. |
-| **A** | **A** | **Caliban Engineer28/0 — Shas** | Camo/FD+20 and Protheion, fixes forward tech/states while contesting console. | Repair may reveal hidden position; fragile before Protheion boost. |
+| # | Apex | Value | Profile | Why/when worth it beyond buttons | Counter-case |
+|---|---|---|---|---|---|
+| 1 | **S** | **A** | **Parvati 36/0 — ALEPH** | WIP15 Doctor+Engineer, STR2/Remote Presence, 15-5 and Super-Jump: resilient **forward healer+TAG repair+scorer**. | With few premium targets, 36pt overinvestment. |
+| 2 | **S** | **S** | **Sophotect25/0 — ALEPH** | WIP15, MOV15-10, NWI, **Doctor+Engineer, MediKit/GizmoKit/D-Charges**: excellent two-role support and speed. | Can be overcommitted to both opposite flanks; use a real Yudbot coverage plan. |
+| 3 | **S** | **S** | **Med-Tech Obsidon21/0 — Combined/Onyx/Shas** | Doctor+Engineer WIP14 MOV15-10, Slave Drone relay, Zapper and D-Charges, repairs TAG/REM while also covering medical Classifieds. | Slave Drone cannot independently press console, and model itself is vulnerable W1. |
+| 4 | **A+** | **S** | **Posthuman Mk.1 Doctor13/0 or Engineer13/0 — ALEPH/OSS** | WIP15/NWI, huge **marginal** value coupled with Mk.4 gun/Mk.5 FO. | G:Jumper 2–3 Proxies **not independent Orders or independent list slots**. |
+| 5 | **A+** | **A** | **Artalis Engineer23–27/0 or Doctor23/0 — OSS** | NCO/NWI, K1/MULTI weapons and D-Charges: forward specialist in real fireteam/REM gun corridor. | Expensive if backline-only repairs; own guns need use. |
+| 6 | **A+** | **A** | **Evader Engineer24–29/0 / Specialist Operative23–31 — Corregidor** | NWI, Climbing Plus, Mines/TinBot/Fireteam; genuine fighting and repairing alongside missions. | **AP Spitfire SO vs Engineer are different loadouts**; don't buy unused gun. |
+| 7 | **A+** | **A** | **Asawira Doctor(+3)35–37/0 — Hassassin** | 2W ARM4 BTS9, Regeneration, powerful melee and ranged gun, frontline high-quality Doctor. | 20pt above Ghulam15 Doctor. Better only when going up table to shoot/heal/score. |
+| 8 | **A** | **S** | **Ghulam Doctor15/0 — Haqq/Hassassin** | WIP14 Doctor (+1 or +3 as actual faction profile), 4pt above normal Ghulam, cheap Order and Classified. | Footspeed; not as tough as Asawira when reaching contested point. |
+| 9 | **A** | **S/A** | **Bipandra Doctor23/0 / TA25/0 — PanO/Kestrel** | Doctor, MediKit(+1B), eligible Kestrel link, or +2pt personal TA scoring activation. | TA isn't global Order; profile differences in current factions. |
+| 10 | **A** | **A** | **Krit Kokram Engineer35–40 — Invincible Army** | WIP14, NCO, HI 2W, D-Charges/E/M; **37pt FTO-2 has FD+20**, can repair along a real attack route. | Cost and Fireteam anchor rules. |
+| 11 | **A** | **A** | **Hǎidào Engineer25/0 — Invincible Army** | NWI/HI linkable body, D-Charges and actual repair support; also a stable late button piece. | KHD22 and CoC24 are *separate* profiles. |
+| 12 | **A** | **A** | **Caliban Engineer28/0 — Shas** | Camo/FD+20 and Protheion, fixes forward tech/states while contesting console. | Repair may reveal hidden position; fragile before Protheion boost. |
 
 **Fundamental distinction:** Doctor restores **VITA**; Engineer restores **STR** and clears listed states (Isolated, IMM, Targeted, etc.). A **Peripheral (Servant)** can extend Doctor/Engineer contact but has **no independent Order** and normally **cannot perform the mission's Specialist-only interaction for that Doctor or Engineer**; consult exact packet. Healing/repair rerolls, Doctor(+3), MediKit(+1B) **do not automatically improve Console WIP**.
 
@@ -148,32 +148,32 @@ For other KHD/Hacker comparisons and program matchups, use [dedicated N5.3 Hacke
 
 [Separate full command insurance tiers](command-units-apex-and-value.md) rank succession and LT risk rather than button value.
 
-| Specialist apex | Value | CoC profile | Why / circumstance |
-|---|---|---|---|
-| **S** | **S/A** | **Farzan24/0 — Hassassin/Haqq** | Camo/Infiltration/WIP14. Costs just +2 over **FO22** for private Lt insurance and the ability to push a central Console. **FO is better if specific FO Classified is needed**. |
-| **S** | **A** | **Caliban29/0 — Shasvastii** | FD+20/Camo/Protheion/D-Charges; genuine midfield scorer and CC threat, *if not suicided*. |
-| **A+** | **S** | **Nexus23/0 — Onyx/Combined** | NCO, Number2, Mimetism(-3), E/Mitter and *eligible Unidron team* move; valuable **linked specialist and LT succession**. |
-| **A+** | **S** | **Magistrate21/0 — Kestrel/Vanilla PanO** | Specialist Operative already, Counterintelligence, Jackal Fireteam Master and CoC; very cheap reliable backfield/linked button. |
-| **A** | **S** | **Kempeitai17/0 — JSA** | Cheap second specialist/successor, protected if deployment covers different ingress from attacking Hatamoto. |
-| **A** | **S** | **Raveneye18/0 — Torchlight** | FO/Minelayer/Holomask + CoC in 18pt stealth command and mission support. |
-| **A** | **A+** | **Shukra21/0 — ALEPH** | Counterintelligence plus backup for active Marut LT, safe support scorer. |
-| **A** | **A** | **Kaeltar21/0.5 or 28/0.5 — Tohaa** | 1/2 SymbioMates support surviving forward button/carrier plus CoC; slower than Clipsos FO. |
-| **A** | **A** | **Tai Sheng36–40/0 — Invincible Army** | FO/Warhorse/NCO 2W fighter and CoC in a real team; scores, spends command Order and guards leader. |
-| **A** | **A** | **Myrmidon Officer30–31/.5 — Steel Phalanx** | Eclipse and Mimetism(-6)/NWI give protected objective lane, but expensive for simple console. |
-| **B/A** | **A** | **Hafza20/0 — Haqq/Qapu** | Holomask cheap hidden succession; button near backfield, but no Infiltration. |
-| **B/A** | **A** | **Hǎidào24/0 — Invincible Army/WhiteCo** | NWI/linked support/D-Charges. |
+| # | Specialist apex | Value | CoC profile | Why / circumstance |
+|---|---|---|---|---|
+| 1 | **S** | **S/A** | **Farzan24/0 — Hassassin/Haqq** | Camo/Infiltration/WIP14. Costs just +2 over **FO22** for private Lt insurance and the ability to push a central Console. **FO is better if specific FO Classified is needed**. |
+| 2 | **S** | **A** | **Caliban29/0 — Shasvastii** | FD+20/Camo/Protheion/D-Charges; genuine midfield scorer and CC threat, *if not suicided*. |
+| 3 | **A+** | **S** | **Nexus23/0 — Onyx/Combined** | NCO, Number2, Mimetism(-3), E/Mitter and *eligible Unidron team* move; valuable **linked specialist and LT succession**. |
+| 4 | **A+** | **S** | **Magistrate21/0 — Kestrel/Vanilla PanO** | Specialist Operative already, Counterintelligence, Jackal Fireteam Master and CoC; very cheap reliable backfield/linked button. |
+| 5 | **A** | **S** | **Kempeitai17/0 — JSA** | Cheap second specialist/successor, protected if deployment covers different ingress from attacking Hatamoto. |
+| 6 | **A** | **S** | **Raveneye18/0 — Torchlight** | FO/Minelayer/Holomask + CoC in 18pt stealth command and mission support. |
+| 7 | **A** | **A+** | **Shukra21/0 — ALEPH** | Counterintelligence plus backup for active Marut LT, safe support scorer. |
+| 8 | **A** | **A** | **Kaeltar21/0.5 or 28/0.5 — Tohaa** | 1/2 SymbioMates support surviving forward button/carrier plus CoC; slower than Clipsos FO. |
+| 9 | **A** | **A** | **Tai Sheng36–40/0 — Invincible Army** | FO/Warhorse/NCO 2W fighter and CoC in a real team; scores, spends command Order and guards leader. |
+| 10 | **A** | **A** | **Myrmidon Officer30–31/.5 — Steel Phalanx** | Eclipse and Mimetism(-6)/NWI give protected objective lane, but expensive for simple console. |
+| 11 | **B/A** | **A** | **Hafza20/0 — Haqq/Qapu** | Holomask cheap hidden succession; button near backfield, but no Infiltration. |
+| 12 | **B/A** | **A** | **Hǎidào24/0 — Invincible Army/WhiteCo** | NWI/linked support/D-Charges. |
 
 **Legality warning:** **CoC (Non Specialist)** doesn't qualify as scenario Specialist from that skill (e.g., CoC **Joan or Wallace**). Being a **Lieutenant alone** also doesn't make a model a generic Specialist—only a mission's specifically worded condition might use LT.
 
 ## 6. Lieutenant profiles that **actually score**
 
-| Apex | Value | Example | Best use / real risk |
-|---|---|---|---|
-| **A+** | **S** | **Magistrate Strategos LT19/0 (Kestrel/Vanilla PanO)** | Base **Specialist Operative** and Counterintelligence, convert Special LT Order to **Regular in LT's group** to fund *other* scorers. Emergency backfield button only; W1 LT exposed if sent midtable. |
-| **S/A** | **A** | **Hatamoto LT36–39/+1 SWC (JSA)** | SO, strong CC, 2W, NCO and **LT(+1) Orders**, active last-turn fighter/scorer; **Kempeitai17 CoC** makes risk manageable. |
-| **A** | **A+** | **Vassily LT+FO35/0–1 (Vanilla Ariadna)** | Camo/Decoy(2), WIP14 FO and T2 rifle/sniper; command and Classified without expensive extra model. Not automatically a safe midfield dash. |
-| **A/B** | **S** | **Barid LT+FO12/0 (Vanilla Haqq)** | Cheap FO/Pitcher Specialist LT frees lots of list points; if needing frontline scorer, use a *separate* infiltrating Hunzakut/Farzan. |
-| **A** | **A** | **Sukeul LT+FO29/0 (Tohaa)** | 2W K1/Warhorse and FO for durable scoring; protecting an actual LT can matter more than attacking. |
+| # | Apex | Value | Example | Best use / real risk |
+|---|---|---|---|---|
+| 1 | **A+** | **S** | **Magistrate Strategos LT19/0 (Kestrel/Vanilla PanO)** | Base **Specialist Operative** and Counterintelligence, convert Special LT Order to **Regular in LT's group** to fund *other* scorers. Emergency backfield button only; W1 LT exposed if sent midtable. |
+| 2 | **S/A** | **A** | **Hatamoto LT36–39/+1 SWC (JSA)** | SO, strong CC, 2W, NCO and **LT(+1) Orders**, active last-turn fighter/scorer; **Kempeitai17 CoC** makes risk manageable. |
+| 3 | **A** | **A+** | **Vassily LT+FO35/0–1 (Vanilla Ariadna)** | Camo/Decoy(2), WIP14 FO and T2 rifle/sniper; command and Classified without expensive extra model. Not automatically a safe midfield dash. |
+| 4 | **A/B** | **S** | **Barid LT+FO12/0 (Vanilla Haqq)** | Cheap FO/Pitcher Specialist LT frees lots of list points; if needing frontline scorer, use a *separate* infiltrating Hunzakut/Farzan. |
+| 5 | **A** | **A** | **Sukeul LT+FO29/0 (Tohaa)** | 2W K1/Warhorse and FO for durable scoring; protecting an actual LT can matter more than attacking. |
 
 **Mutually exclusive LT vs CoC/FO options must be chosen individually.** Don't mistake Tikbalang/Sogarat/Avatar LT for generic Specialist Troops unless a listed profile or specific mission supplies eligibility.
 
