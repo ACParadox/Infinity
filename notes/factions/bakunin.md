@@ -24,6 +24,8 @@
 | **Top 10 candidate — durable linked missile ARO** | **Riot Grrl ML 30/1.5** | **A+ reactive**: two wounds, BS13/MSV1 and legal Fireteam coverage. Visible, and not immune to active-turn pie slicing. [ARO tiers](../list-building/aro-units-apex-and-value.md). |
 | **Top 10 candidate — synchronized Engineer/attack fork** | **Fiddler + JackBot(s) 36/0 or 43/0** | **A+ peripheral package:** WIP14 Engineer plus one/two Vulkan/Explode bots. **29/0 Fiddler FTO has no JackBots** and is a separate linked profile. [Peripheral tiers](../list-building/peripheral-synchronized-multibody-apex-value.md). |
 | **Top 10 candidate — mobile Mimetism(-6) REM fire** | **Vostok Mk12 FTO 35/0** or **unlinked Repeater 38/0** | **A+/A+ BS-mod value**, Climbing Plus and two STR. FTO trades native Repeater for legal team access; EVO buffs cost support. [BS-mod tiers](../list-building/bs-mod-stacking-units-apex-and-value.md). |
+| **Top 10 candidate — inexpensive WIP15 repair/recovery (value)** | **Clockmaker Engineer 18/0** | **A+ apex / S engineer value**, particularly with Zondbots and Remote Presence TAG/REM recovery; a safe repair route is necessary. [Engineer tiers](../list-building/doctors-engineers-and-recovery-apex-value.md). |
+| **Top 10 candidate — cheap multi-role hacker (value)** | **Rounder HD + Trinity 21/0.5** | **A apex / S hacker value**, with MSV1/Marksmanship on a different shooting job; it is **HD, not HD+**. [Hacker tiers](../list-building/hackers-and-killer-hackers.md). |
 
 **Other distinctive apex option:** **Stigmata 56/1.5** is an unusually durable **hacking TAG / ARO anchor** with an Armored Duo and recovery plan, rather than a mandatory long-range gun.
 
