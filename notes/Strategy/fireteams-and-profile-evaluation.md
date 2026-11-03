@@ -4,7 +4,9 @@
 
 ## Core Fireteam size
 
-Five-trooper Core Fireteams are relatively rare because they are very unwieldy to maneuver and position efficiently. The most common Core configuration is a three-trooper Core.
+A **three-trooper Core** is a useful starting point for compact movement and role coverage, but neither three nor five models is universally optimal. **Four** is attractive when another qualifying trooper unlocks the Level 4 **+1 BS** bonus or adds an independently useful specialist, weapon, or support role. **Five** is attractive when a genuinely qualifying fifth member grants **Sixth Sense**, or inexpensive line troops create a useful defensive/Order platform. Large mobile teams must account for Coherency, templates, hacking exposure, Order demands, and the independent scoring pieces the rest of the army loses.
+
+See the [dedicated three-/four-/five-member Core strategy](core-fireteams-three-vs-four-vs-five.md), derived from the [#001–#241 battle-report extraction](../battle-reports/n5-four-and-five-model-fireteams-vs-three-model-cores.md). The archive supports conditional list architectures, **not** a reliable frequency ranking or a causal team-size win rate.
 
 ## Prefer Fireteam Level 2
 
