@@ -9,7 +9,7 @@
 
 **One-each total for 82 listings: USD $1,058.35.** The **81 entries marked Add to cart total USD $1,037.65** (excluding the $20.70 Tankō). These are catalogue sums **not recommended purchase budgets**: character packs overlap, several items have alternative sculpts, and the category includes other factions.
 
-**Scope:** This is the retailer's broad *Mercenary* category, **not a declaration that every product is a mercenary, legal in the same NA2 sectorial, or purchasable for JSA**. Example category mismatches: PanO Dronbots, Yu Jing Guijia, Tohaa Kiel-Saan, and JSA Domaru/Tankō. Check actual N5.3 [NA2 sectorial references](../../sectorials/na2) and [JSA roster references](../../sectorials/jsa).
+**Scope:** This is the retailer's broad *Mercenary* category, **not a declaration that every product is a mercenary, legal in the same NA2 sectorial, or purchasable for JSA**. Example category mismatches: PanO Dronbots, Yu Jing Guijia, Tohaa Kiel-Saan, and JSA Domaru/Tankō. Check actual N5.3 [NA2 sectorial references](../../../sectorials/na2) and [JSA roster references](../../../sectorials/jsa).
 
 ## Quoted catalogue listings — USD
 
@@ -106,7 +106,7 @@
 - **Warcors**: **Flash Pulse ($8.40)** and **Stun Pistol ($5.20)** are distinct sculpt/listing variants of a model playable in current Vanilla JSA, Ōban and Shindenbutai, not unique unit identities.
 - **JSA relevance (original 36-row batch):** 11 entries in that batch are also recorded in [the JSA price reference](jsa-miniatures-market-prices-usd.md). **Sāchā / Monstruckers** are Shindenbutai, **Tankō / Yuan Yuan** Ōban only; **Domaru / Shinobu / Shikami / Karakuri** Vanilla and Ōban; **Mechazoid** Vanilla and Shindenbutai; Warcor across all three. The **Mechazoid Sokorentai** product's description incorrectly identifies a **GŬILÁNG Hacker**, so do not purchase without independently checking the listing.
 - **Exclusive releases:** Shikami Limited Edition and Cube Jager OOP Limited Edition are edition-labelled by seller. Check physical versions rather than treating them as different army profiles.
-- **No source confirms listed box contents for several lore-only entries** (Oktavia, Monstruckers, Karakuri, Guijia, etc.). Do not invent quantities; proxy choices require correct silhouettes and faction-appropriate recognizable models per [proxy guidelines](../miniature-proxy-guidelines.md).
+- **No source confirms listed box contents for several lore-only entries** (Oktavia, Monstruckers, Karakuri, Guijia, etc.). Do not invent quantities; proxy choices require correct silhouettes and faction-appropriate recognizable models per [proxy guidelines](../../miniature-proxy-guidelines.md).
 
 ## Second-batch reconciliation (2026-10-30)
 

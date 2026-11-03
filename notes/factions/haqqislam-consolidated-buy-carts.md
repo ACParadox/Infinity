@@ -4,7 +4,7 @@
 
 **Buying principle:** At least one useful real sculpt per troop type when reasonably priced, with justified extras for regular list constructions (**3 Ghulam, 3 Daylami, 2–3 Muyib, 2 Govad, 2 Barid, 2 Sekban, 2 Odalisque**), not the unit's full AVA or one of every weapon. Rare heroes / premium or OOP sculpts / unusual motorized or large models are proxy-first or deferred. Everyday four S3 robot roles, baggage S4 and S1 servants may use existing ordinary **non-Combined-looking** PanO/ALEPH robots matching the *target* silhouette and base, not four of every chassis type.
 
-**Prices:** Historical, user-captured [Miniatures Market Haqqislam USD](haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD](ultimate-toy-zone-infinity-prices-usd.md) are **U — unverified live stock, checkout prices and ship-from countries**. USD→CAD at **1.3985** (2026-10-29); round individual product amounts to cents. Canadian **V** price records come from 401 Games (Toronto/Vaughan ON), Tistaminis (Hamilton ON) or current indexed Canadian product comparisons, **not checkout commitments**. The quoted CAD total is **before GST/QST, shipping, credit-card FX spreads, customs/duties and brokerage**; it is not one confirmed orderable cart.
+**Prices:** Historical, user-captured [Miniatures Market Haqqislam USD](market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD](market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **U — unverified live stock, checkout prices and ship-from countries**. USD→CAD at **1.3985** (2026-10-29); round individual product amounts to cents. Canadian **V** price records come from 401 Games (Toronto/Vaughan ON), Tistaminis (Hamilton ON) or current indexed Canadian product comparisons, **not checkout commitments**. The quoted CAD total is **before GST/QST, shipping, credit-card FX spreads, customs/duties and brokerage**; it is not one confirmed orderable cart.
 
 ## Individual army budget — from actual current ownership
 
@@ -78,7 +78,7 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 
 ## Sources and ordering checks
 
-- [Full Haqq Miniatures Market price archive (USD)](haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone (USD)](ultimate-toy-zone-infinity-prices-usd.md)
+- [Full Haqq Miniatures Market price archive (USD)](market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone (USD)](market-prices/ultimate-toy-zone-infinity-prices-usd.md)
 - [Human Sphere — Haqqislam starter and boxed-set contents](https://human-sphere.com/Haqqislam_Starters)
 - Canadian retail: [401 Games Hassassin Action](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), [401 Beta](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-expansion-pack-beta), [401 Ramah Alpha](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha), [Tistaminis Haqq category](https://tistaminis.com/collections/haqqislam)
 - [Owner inventory and proxy references](../../inventory) and [miniature proxy rules](../miniature-proxy-guidelines.md), including exact physical sizes and no same-roster donor when ambiguous

@@ -25,7 +25,7 @@
 
 ## Additional JSA-relevant listings from the Mercenary category (2026-10-30)
 
-This second source snapshot contains **11 new price listings for distinct JSA-usable or JSA-named models** not yet present in the table above; these are additional **product listings**, not 11 different units and not additions to owned inventory. The current N5.3 [Vanilla JSA](../../sectorials/jsa/jsa.md), [Ōban](../../sectorials/jsa/oban.md) and [Shindenbutai](../../sectorials/jsa/shindenbutai.md) rosters were checked individually. **Stock:** 10 listings say “Add to cart”; the last Tankō entry has **no displayed stock status**. No source item was explicitly marked out of stock. 
+This second source snapshot contains **11 new price listings for distinct JSA-usable or JSA-named models** not yet present in the table above; these are additional **product listings**, not 11 different units and not additions to owned inventory. The current N5.3 [Vanilla JSA](../../../sectorials/jsa/jsa.md), [Ōban](../../../sectorials/jsa/oban.md) and [Shindenbutai](../../../sectorials/jsa/shindenbutai.md) rosters were checked individually. **Stock:** 10 listings say “Add to cart”; the last Tankō entry has **no displayed stock status**. No source item was explicitly marked out of stock. 
 
 | Additional product | Price (USD) | Supplied contents/excerpt | Pasted status | Current N5.3 sectorial access and caveats |
 |---|---:|---|---|---|
@@ -50,7 +50,7 @@ This second source snapshot contains **11 new price listings for distinct JSA-us
 - The **JSA Booster Pack Alpha already includes Oyama**, so the standalone Oyama is an additional/alternative figure rather than a required character purchase.
 - **Shindenbutai Expansion Pack Alpha** and the **Operation: Sandtrap Shindenbutai set** both list a **Jizamurai with Light Shotgun**. Do not mistake them for a single model or assume their sculpts are identical without checking photographs.
 - The **Pre-order Exclusive Yamabushi** has a special-edition label. Do not assume it is currently obtainable, or that the normal FTO Yamabushi is the same sculpt.
-- This reference does **not** change [Shindenbutai owned inventory](../../inventory/shindenbutai.md), and it is **not** a buy list. When building a buy list, reconcile the entries against the owned collection, the relevant [JSA](../../sectorials/jsa/jsa.md), [Oban](../../sectorials/jsa/oban.md), and [Shindenbutai](../../sectorials/jsa/shindenbutai.md) rosters, and [proxy guidelines](../miniature-proxy-guidelines.md).
+- This reference does **not** change [Shindenbutai owned inventory](../../../inventory/shindenbutai.md), and it is **not** a buy list. When building a buy list, reconcile the entries against the owned collection, the relevant [JSA](../../../sectorials/jsa/jsa.md), [Oban](../../../sectorials/jsa/oban.md), and [Shindenbutai](../../../sectorials/jsa/shindenbutai.md) rosters, and [proxy guidelines](../../miniature-proxy-guidelines.md).
 
 
 ## Additional previously unrecorded listings from broad catalogue (2026-10-30)

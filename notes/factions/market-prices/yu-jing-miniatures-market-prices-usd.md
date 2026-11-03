@@ -118,7 +118,7 @@ Descriptions in the following table are the **supplied seller excerpts**. Many a
 
 ## Duplicates, competing packages and unusual products
 
-- **Yaoxie remotes:** newer/other **Rui Shi + Lù Duān** plastic pair **$21.10** (#9) versus older/similarly named pair **$20.60** (#87). Both advertise the same two unit identities; compare actual components before buying. The user's [Shindenbutai inventory](../../inventory/shindenbutai.md) already lists shared Yaoxie chassis, so do not treat recommendations as new ownership.
+- **Yaoxie remotes:** newer/other **Rui Shi + Lù Duān** plastic pair **$21.10** (#9) versus older/similarly named pair **$20.60** (#87). Both advertise the same two unit identities; compare actual components before buying. The user's [Shindenbutai inventory](../../../inventory/shindenbutai.md) already lists shared Yaoxie chassis, so do not treat recommendations as new ownership.
 - **Blue Wolf TAG:** **$22.70** metal Blue Wolf (#4) versus **$21.60** Blue Wolf (#35); **Guijia TAG:** **$32.40** (#26), **$27.30** (#86), and **$19.40** unboxed/no bases (#95). Product year, scale, original packaging, and sculpt equivalence require photos/SKUs, not mere name equality.
 - **Characters and mission packs:** standalone **Qiang Gāo** **$6.40** (#21) is listed in **Dire Foes: Failsafe** **$17.60** (#22), with PanO Uma Sørensen and a civilian pilot. **Adil Mehmut** occurs twice at **$7.90** (#37 and #43); **Cheong-Hee Jeong** ($7.90) and Adil may overlap **Betrayal Characters Pack** ($30.40), whose contents are not given. **Liang Kai** is listed at **$8.70** and **$11.50**, and **Dragon Lady** at **$12.90 Event Exclusive** and **$6.80** standard; do not presume identical sculpts.
 - **Starter/split duplication:** Yu Jing **Beyond Kaldstrøm side ($16.20)** is potentially contained in the **$32.40 cross-faction Beyond Kaldstrøm**. The **Operation Kaldstrøm Yu Jing side ($32.40)** explicitly lists seven Yu Jing models. Older **Operation: Red Veil full box ($54.70)** vs **Yu Jing-only seven-model split ($27.30)** are alternative buying routes. The Invincible Army and Imperial Service starters are older releases; verify their actual contents before relying on them.
@@ -128,7 +128,7 @@ Descriptions in the following table are the **supplied seller excerpts**. Many a
 
 ## Applying these prices
 
-This file records prices only; it **does not change owned inventory** or assert purchase recommendations. When comparing sectorials or buying models, use [Yu Jing must-have/go-to/avoid reference](yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), [existing faction buy lists](), [sectorial roster references](../../sectorials/yu-jing) and [proxy guidelines](../miniature-proxy-guidelines.md).
+This file records prices only; it **does not change owned inventory** or assert purchase recommendations. When comparing sectorials or buying models, use [Yu Jing must-have/go-to/avoid reference](../yu-jing-must-have-go-to-avoid-transcript-evidence-2026.md), [existing faction buy lists](), [sectorial roster references](../../../sectorials/yu-jing) and [proxy guidelines](../../miniature-proxy-guidelines.md).
 
 Other USD price snapshots: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md).
 

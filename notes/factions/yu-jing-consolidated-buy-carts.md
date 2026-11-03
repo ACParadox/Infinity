@@ -4,7 +4,7 @@
 
 **Policy:** Aim at least one usable physical representation of worthwhile units, and more than one **only when repeated bodies make sense** (e.g. 3 Zúyǒng, 2–3 Shàng Jí, 3 Wú Míng, 2 Bào, 2 Gūdǎn, 2 Shaolin, 4 Kuang Shi, 2 Hwarang/Sulyong). Use correctly sized **non-roster donor proxies** for other rarely used or expensive/OOP units, and do not buy entire rarely used unit identities just to finish a spreadsheet. Do not buy four separate families of standard Yu Jing Yáokòng remotes or baggage remotes when the owned ordinary PanO robots can proxy: the **physical chassis pool is shared**, not four of each named robot.
 
-**Price basis:** The [104-item Miniatures Market Yu Jing archive](yu-jing-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archive](ultimate-toy-zone-infinity-prices-usd.md) contain dated **user-captured USD** price leads (**U**, not live verified stock). CAD conversion uses **USD 1 = CAD 1.3985** on 2026-10-29, each line rounded to cents. **V** means a Canadian retailer catalogue/web price; 401 Games is in **Toronto/Vaughan, Ontario**, while UTZ dispatch origin and MM specific fulfillment location are not established. Tax, delivery, duty/broker fees and payment conversion spreads **excluded**. Some older MM links have failed and UTZ checkout/access was not verified, so figures are **planning estimates rather than a confirmed orderable cart**.
+**Price basis:** The [104-item Miniatures Market Yu Jing archive](market-prices/yu-jing-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archive](market-prices/ultimate-toy-zone-infinity-prices-usd.md) contain dated **user-captured USD** price leads (**U**, not live verified stock). CAD conversion uses **USD 1 = CAD 1.3985** on 2026-10-29, each line rounded to cents. **V** means a Canadian retailer catalogue/web price; 401 Games is in **Toronto/Vaughan, Ontario**, while UTZ dispatch origin and MM specific fulfillment location are not established. Tax, delivery, duty/broker fees and payment conversion spreads **excluded**. Some older MM links have failed and UTZ checkout/access was not verified, so figures are **planning estimates rather than a confirmed orderable cart**.
 
 ## Standalone army budgets from current owned miniatures
 
@@ -29,17 +29,17 @@ These **17 priced lines** are the union of all four core baskets. Each box is pu
 | **Mówáng S5** | **$17.62** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-mowang-troops-multi-rifle-red-fury-blister/) USD12.60; **1** for IA + Vanilla |
 | **Sù-Jiàn two-form box** | **$27.69** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-su-jian-immediate-action-unit-boxed/) USD19.80; **S3/S5 models for 1 playable unit**, ISS + Vanilla |
 | **White Banner Expansion Beta** | **$39.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-beta); **2 Gūdǎn** (IA/WB/Vanilla) + **1 Yín-Shé** (WB/Vanilla, not IA) |
-| **Shaolin Warrior Monks ×2** | **$20.98** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) **two single blisters, USD7.50 each**. 2 real smoke/CC models, WB + Vanilla |
+| **Shaolin Warrior Monks ×2** | **$20.98** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) **two single blisters, USD7.50 each**. 2 real smoke/CC models, WB + Vanilla |
 | **Shàng Jí three-trooper pack + TinBot** | **$27.69** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-shang-ji-invincibles/) USD19.80; 3 soldiers (IA, WB, Vanilla), **not 4 soldiers** |
 | **Yān Huǒ S5 HMC** | **$13.43** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-yan-huo-invincibles-hmc-blister/) USD9.60; IA + Vanilla |
-| **Krit Kokram** | **$12.73** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD9.10; IA (+ Vanilla) Engineer/NCO specialist, not included in **2025** Essentials |
+| **Krit Kokram** | **$12.73** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD9.10; IA (+ Vanilla) Engineer/NCO specialist, not included in **2025** Essentials |
 | **Imperial Service 2025 Action Pack** | **$99.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-yu-jing-imperial-service-action-pack), SKU 281348-1140; **3 Celestial**, Crane, Pheasant, Bayara, Koga, Wu Ming, Jinyao. **Advertised '10 miniatures' vs 9 itemized soldiers — confirm physical contents** |
 | **Imperial Service Expansion Alpha** | **$49.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-yu-jing-imperial-service-expansion-pack-alpha); 2 Wú Míng + 1 Zhànyīng + TinBot; with starter gives **3 Wú Míng** |
-| **Imperial Service Expansion Delta** | **$36.36** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD26.00; **2 Bào + 1 Kǎnrèn** |
-| **Kuang Shi four-trooper box** | **$26.29** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD18.80; ISS + Vanilla; **4 Kuang Shi** (not full ISS AVA8) |
-| **Hsien HMG single** | **$11.05** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD7.90; ISS + Vanilla |
-| **Reinforcements: Yu Jing Alpha (White Banner)** | **$51.74** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD37.00; **2 Hwarang + 2 Sulyong + Dokkaebi + Sulsa**, all **6 ordinary White Banner legal** even though labeled Reinforcements |
-| **Haetae HMG S5** | **$22.94** | **U:** [MM](yu-jing-miniatures-market-prices-usd.md) USD16.40; 1 White Banner (also Vanilla) size-specific S5 |
+| **Imperial Service Expansion Delta** | **$36.36** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD26.00; **2 Bào + 1 Kǎnrèn** |
+| **Kuang Shi four-trooper box** | **$26.29** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD18.80; ISS + Vanilla; **4 Kuang Shi** (not full ISS AVA8) |
+| **Hsien HMG single** | **$11.05** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD7.90; ISS + Vanilla |
+| **Reinforcements: Yu Jing Alpha (White Banner)** | **$51.74** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD37.00; **2 Hwarang + 2 Sulyong + Dokkaebi + Sulsa**, all **6 ordinary White Banner legal** even though labeled Reinforcements |
+| **Haetae HMG S5** | **$22.94** | **U:** [MM](market-prices/yu-jing-miniatures-market-prices-usd.md) USD16.40; 1 White Banner (also Vanilla) size-specific S5 |
 | **White Banner Expansion Alpha** | **$26.85** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-white-banner-expansion-pack-alpha/) USD19.20; Yě Māo Hacker + Hùndùn HRL + Hac Tao Hacker (duplicate *unit types* from old WB pack for two, distinct profiles) |
 | **DEDUPLICATED TOTAL — all four Yu Jing cores** | **$623.98** | **Saves $284.95** against adding four standalone cores of $908.93; before tax/delivery/imports |
 
@@ -77,7 +77,7 @@ These **17 priced lines** are the union of all four core baskets. Each box is pu
 
 ## Price/source links
 
-- [MM Yu Jing historical USD captures](yu-jing-miniatures-market-prices-usd.md) — complete source prices, older sculpts, notes about stock and variants
-- [Ultimate Toy Zone historical USD captures](ultimate-toy-zone-infinity-prices-usd.md) — source prices and exact URL where captured
+- [MM Yu Jing historical USD captures](market-prices/yu-jing-miniatures-market-prices-usd.md) — complete source prices, older sculpts, notes about stock and variants
+- [Ultimate Toy Zone historical USD captures](market-prices/ultimate-toy-zone-infinity-prices-usd.md) — source prices and exact URL where captured
 - [Human Sphere — Yu Jing Starters and box contents](https://human-sphere.com/Yu_Jing_Starters) — check **SKU/physical troop count** against seller titles
 - [401 Games Canada — modern 2025 Essentials](https://store.401games.ca/products/infinity-yu-jing-essentials-action-pack), [Imperial Service Action](https://store.401games.ca/products/infinity-yu-jing-imperial-service-action-pack), [ISS Alpha](https://store.401games.ca/products/infinity-yu-jing-imperial-service-expansion-pack-alpha), [White Banner Beta](https://store.401games.ca/products/infinity-yu-jing-yu-jing-white-banner-expansion-pack-beta) — prices change; compare checkout before buying

@@ -8,7 +8,7 @@
 
 ## Collection completion — core and optional purchases (CAD)
 
-**Current buying policy (2026-10-30):** one distinctive figure per worthwhile missing type, but practical **3 Karhu + 3 Vargar** for Fireteam composition; regular humanoid-style bots and baggage bots are existing/proxy-only. Existing sources: [Miniatures Market PanO USD file](../panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD file](../ultimate-toy-zone-infinity-prices-usd.md), and Canadian store listings below. USD1 = CAD1.3985 (2026-10-29). **U** means dated user-captured/historical USD quote, not confirmed live, while **V** means Canadian catalogue price (possibly out of stock). Tax, shipping, card FX and brokerage extra.
+**Current buying policy (2026-10-30):** one distinctive figure per worthwhile missing type, but practical **3 Karhu + 3 Vargar** for Fireteam composition; regular humanoid-style bots and baggage bots are existing/proxy-only. Existing sources: [Miniatures Market PanO USD file](../market-prices/panoceania-miniatures-market-prices-usd.md), [Ultimate Toy Zone USD file](../market-prices/ultimate-toy-zone-infinity-prices-usd.md), and Canadian store listings below. USD1 = CAD1.3985 (2026-10-29). **U** means dated user-captured/historical USD quote, not confirmed live, while **V** means Canadian catalogue price (possibly out of stock). Tax, shipping, card FX and brokerage extra.
 
 | Purchase | CAD | Where and quantity reason |
 |---|---:|---|
@@ -61,9 +61,9 @@
 | Model / number as given | User's assumed USD | **Conditional CAD** | Quantity, use and version flag |
 |---|---:|---:|---|
 | Nøkken, single | **$5.80** | **$8.11** | Standard current metal Spitfire blister exists; Action Pack also has BSG Nøkk. **0 owned**; test one. |
-| Karhu (3) | **$17.40** | **$24.33** | [Miniatures Market PanO USD snapshot](../panoceania-miniatures-market-prices-usd.md) explicitly lists this 3-sculpt set: Engineer MULTI, Feuerbach, MULTI. **0 owned**. Prior unassigned $17.00 quote is superseded as the primary comparator, not claimed as a live price change. |
+| Karhu (3) | **$17.40** | **$24.33** | [Miniatures Market PanO USD snapshot](../market-prices/panoceania-miniatures-market-prices-usd.md) explicitly lists this 3-sculpt set: Engineer MULTI, Feuerbach, MULTI. **0 owned**. Prior unassigned $17.00 quote is superseded as the primary comparator, not claimed as a live price change. |
 | Nisses, option A (each) | **$7.90** | **$11.05** | 2 user options at this price, maybe older weapons; exact sculpt/weapon SKU unverified. |
-| Nisse Icestorm exclusive (single) | **$7.20** | **$10.07** | [Miniatures Market PanO USD snapshot](../panoceania-miniatures-market-prices-usd.md) explicitly calls this an **exclusive Icestorm** sculpt. Alternative/collector miniature, not a new rules profile. |
+| Nisse Icestorm exclusive (single) | **$7.20** | **$10.07** | [Miniatures Market PanO USD snapshot](../market-prices/panoceania-miniatures-market-prices-usd.md) explicitly calls this an **exclusive Icestorm** sculpt. Alternative/collector miniature, not a new rules profile. |
 | Jotum **old metal** | **$32.40** | **$45.31** | OOP metal **REF `280254-0338`**; **not** current 2025 Unicool SKU. Inspect photo/base, missing parts and metal condition. |
 | Liang Kai (option A) | **$8.50** | **$11.89** | One S2 CC model; ordinary and 2020 promotional LE versions exist. |
 | Liang Kai (option B) | **$11.50** | **$16.08** | Alternate lead, not additive to option A. |
@@ -207,7 +207,7 @@ Follow the [miniature proxy guidelines](../../miniature-proxy-guidelines.md): sa
 
 ## Shared PanO retailer snapshot reconciliation (Oct 30, 2026)
 
-The **[Miniatures Market PanO USD reference](../panoceania-miniatures-market-prices-usd.md)** is the first price source when the name and weapon appear; the [Ultimate Toy Zone USD snapshot](../ultimate-toy-zone-infinity-prices-usd.md) supplies additional multi-army offers. **USD 1 = CAD 1.3985**, converted/rounded cents, before tax/foreign shipping. **U** = historical user-captured price with warehouse/stock not confirmed (MM international/non-EU warehouse unknown; UTZ online dispatch unknown). Canadian fallback sellers: **Tistaminis Hamilton**, **401 Games Toronto/Vaughan**, **Meeplemart Toronto**.
+The **[Miniatures Market PanO USD reference](../market-prices/panoceania-miniatures-market-prices-usd.md)** is the first price source when the name and weapon appear; the [Ultimate Toy Zone USD snapshot](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) supplies additional multi-army offers. **USD 1 = CAD 1.3985**, converted/rounded cents, before tax/foreign shipping. **U** = historical user-captured price with warehouse/stock not confirmed (MM international/non-EU warehouse unknown; UTZ online dispatch unknown). Canadian fallback sellers: **Tistaminis Hamilton**, **401 Games Toronto/Vaughan**, **Meeplemart Toronto**.
 
 | Candidate / SWF relevance | Primary USD → CAD | Source/location and edition detail | Buying guidance |
 |---|---:|---|---|

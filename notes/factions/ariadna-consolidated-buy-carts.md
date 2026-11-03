@@ -7,7 +7,7 @@
 
 **Buying policy:** Have one real sculpt for useful missing and hard-to-proxy unit identities, with sensible extra counts for units actually fielded together; do **not** buy to maximum AVA, duplicate owned units, collect low-use special characters, chase OOP and limited sculpts at high prices, or buy routine ordinary-looking REMs and baggage bots. Correct silhouette, class, peripherals and clearly identified different donor models still matter. Current collection already includes substantial TAK and Caledonia forces; **recommendations are not proof of additional inventory ownership**.
 
-**Prices and evidence:** Principal [Miniatures Market Ariadna archived USD prices](ariadna-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archived USD prices](ultimate-toy-zone-infinity-prices-usd.md) are **user-captured historical catalogue quotes (U)**, not validated current stock, checkout country/currency or shipping origin. Convert at **USD 1 = CAD 1.3985** from 2026-10-29. **V** prices are dated Canadian retailer listing/stock observations: Montréal **Abyss**, Ontario **401 Games** / **Tistaminis** / **The Sword & Board** as specified. **All estimates are before Québec GST/QST, international postage, card FX spreads, customs/duties and brokerage**. Combining multi-seller historical offers into one budget does not mean one actual checkout basket is available.
+**Prices and evidence:** Principal [Miniatures Market Ariadna archived USD prices](market-prices/ariadna-miniatures-market-prices-usd.md) and [Ultimate Toy Zone archived USD prices](market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **user-captured historical catalogue quotes (U)**, not validated current stock, checkout country/currency or shipping origin. Convert at **USD 1 = CAD 1.3985** from 2026-10-29. **V** prices are dated Canadian retailer listing/stock observations: Montréal **Abyss**, Ontario **401 Games** / **Tistaminis** / **The Sword & Board** as specified. **All estimates are before Québec GST/QST, international postage, card FX spreads, customs/duties and brokerage**. Combining multi-seller historical offers into one budget does not mean one actual checkout basket is available.
 
 ## Standalone budgets from the existing physical collection
 
@@ -27,7 +27,7 @@
 
 | Purchase, paid once | CAD | Store/source; coverage |
 |---|---:|---|
-| **Operation Crimson Stone Ariadna-only starter (7)** | **$44.47** | [Miniatures Market Ariadna](ariadna-miniatures-market-prices-usd.md) **USD31.80 U**; Kosmoflot **3 Rokots, Para-Commando, SAS, Volkolak, Zenit-7**. One SAS already owned; the new figure can represent a second. Not the complete Nomads/Ariadna 2-player box |
+| **Operation Crimson Stone Ariadna-only starter (7)** | **$44.47** | [Miniatures Market Ariadna](market-prices/ariadna-miniatures-market-prices-usd.md) **USD31.80 U**; Kosmoflot **3 Rokots, Para-Commando, SAS, Volkolak, Zenit-7**. One SAS already owned; the new figure can represent a second. Not the complete Nomads/Ariadna 2-player box |
 | **Beyond Operation Crimson Stone Ariadna-only trio (3)** | **$25.59** | Miniatures Market **USD18.30 U**; **William Wallace + 1 Scots Guard + 1 Kosmosoldat**. **Caledonia** gains Wallace and Scot; **Kosmoflot** gains all three. One physical box, not one for each sectorial |
 | **Patchers Structural Response Team (2)** | **$23.90** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-patchers-structural-response-team/) **USD17.09 U**; 2 properly armoured Kosmoflot HI models (HFT, Vulkan). No ordinary LI substitutes counted |
 | **Équipe Mirage-5** | **$23.90** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) **USD17.09 U**; Margot + Duroc, **two figures** for one combined unit identity, shared **Vanilla/Kosmoflot** |
@@ -79,7 +79,7 @@
 
 ## Sources and checkout hygiene
 
-1. [Saved Miniatures Market Ariadna prices (USD; U)](ariadna-miniatures-market-prices-usd.md), [saved Ultimate Toy Zone prices (USD; U)](ultimate-toy-zone-infinity-prices-usd.md)
+1. [Saved Miniatures Market Ariadna prices (USD; U)](market-prices/ariadna-miniatures-market-prices-usd.md), [saved Ultimate Toy Zone prices (USD; U)](market-prices/ultimate-toy-zone-infinity-prices-usd.md)
 2. [Caledonia miniature inventory](../../inventory/caledonia.md), [TAK miniature inventory](../../inventory/tak.md)
 3. [Human Sphere starters and package contents](https://human-sphere.com/Starter_Boxes)
 4. [401 Games](https://store.401games.ca/), [Abyss, Montréal](https://abyssgamestore.ca/collections/infinity-ariadna-1), [Tistaminis](https://tistaminis.com/collections/ariadna), [The Sword & Board](https://www.theswordandboardtoronto.com/) — compare actual checkout, box generation and stock before purchase

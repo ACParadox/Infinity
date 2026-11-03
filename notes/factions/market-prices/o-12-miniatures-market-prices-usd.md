@@ -40,7 +40,7 @@
 - **Zeta #4** is specifically labelled **Limited edition / Tournament Exclusive**, not a standard release; compare against ordinary sculpts before paying a collector premium.
 - **Torchlight Brigade #2, Lambda Support #9, Booster Beta #11, Dire Foes #13 and Starmada #14** have incomplete or absent contents in the supplied snippets. Their quoted prices are kept intact without inventing models.
 - Quoted **Reinforcement** labels do not establish which normal or reinforcement rosters are legal. Consult the repository's current O-12 sectorial reference files before constructing a list.
-- This file is a **price snapshot**, **not an ownership inventory or purchase recommendation**. No figures are added to the user's inventory. Apply [miniature-proxy guidelines](../miniature-proxy-guidelines.md) and [O-12 must-have / go-to / avoid analysis](o-12-must-have-go-to-avoid-transcript-evidence-2026.md) when using it for future buy lists.
+- This file is a **price snapshot**, **not an ownership inventory or purchase recommendation**. No figures are added to the user's inventory. Apply [miniature-proxy guidelines](../../miniature-proxy-guidelines.md) and [O-12 must-have / go-to / avoid analysis](../o-12-must-have-go-to-avoid-transcript-evidence-2026.md) when using it for future buy lists.
 
 ## Other Miniatures Market price snapshots
 

@@ -73,7 +73,7 @@ The following entries require individual product/price coverage and an exact own
 
 ## Source files
 
-- [Saved Miniatures Market faction price files](nomads-miniatures-market-prices-usd.md) and [saved Ultimate Toy Zone archive](ultimate-toy-zone-infinity-prices-usd.md); per-faction and mercenary price archives are linked from the individual buy lists.
+- [Saved Miniatures Market faction price files](market-prices/nomads-miniatures-market-prices-usd.md) and [saved Ultimate Toy Zone archive](market-prices/ultimate-toy-zone-infinity-prices-usd.md); per-faction and mercenary price archives are linked from the individual buy lists.
 - [Recorded physical inventories](../../inventory) and [proxy policy](../miniature-proxy-guidelines.md).
 - [Roster N5.3 source](../../sectorials) and [tactical Avoid evidence](model-purchase-avoid-summary-2026.md).
 

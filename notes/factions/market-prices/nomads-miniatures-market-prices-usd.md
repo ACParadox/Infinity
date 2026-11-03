@@ -100,7 +100,7 @@
 
 ## Use with repository research
 
-This is a **USD cataloguing reference**, **not a sectorial buy list, order recommendation, or an owned-miniatures inventory change**. Compare against the existing [Nomads roster references](../../sectorials/nomads), [faction tactical documents]() and [proxy guidelines](../miniature-proxy-guidelines.md) before buying. The same physical model shared by multiple Nomads sectorials should be counted once, not re-purchased for each sectorial.
+This is a **USD cataloguing reference**, **not a sectorial buy list, order recommendation, or an owned-miniatures inventory change**. Compare against the existing [Nomads roster references](../../../sectorials/nomads), [faction tactical documents]() and [proxy guidelines](../../miniature-proxy-guidelines.md) before buying. The same physical model shared by multiple Nomads sectorials should be counted once, not re-purchased for each sectorial.
 
 Related prices: [JSA](jsa-miniatures-market-prices-usd.md), [O-12](o-12-miniatures-market-prices-usd.md), [PanOceania](panoceania-miniatures-market-prices-usd.md), [Yu Jing](yu-jing-miniatures-market-prices-usd.md), [Ariadna](ariadna-miniatures-market-prices-usd.md), [Haqqislam](haqqislam-miniatures-market-prices-usd.md).
 

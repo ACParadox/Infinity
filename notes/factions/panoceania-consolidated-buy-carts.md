@@ -7,7 +7,7 @@
 
 **Method:** For Vanilla, NCA, Acontecimento, WinterFor and Varuna, retain the existing buy/proxy plans. **Kestrel and Military Orders are now proxy-only with $0 required and $0 planned optional purchases**; any missing bodies or desired multiples are represented with suitable existing miniatures or omitted from a particular list. Do not buy generic PanO Dronbots, Armbots or Mulebots; use existing models or matching robot proxies. The prices below are **before tax, shipping, currency-card charges and customs/brokerage**.
 
-**Pricing caution:** USD 1 = CAD 1.3985 (2026-10-29 reference). Most USD prices are **U: historical, user-supplied 2026-10-30 catalogue snapshots, not verified live listings or checkout stock**, from [Miniatures Market PanO](panoceania-miniatures-market-prices-usd.md) or [Ultimate Toy Zone](ultimate-toy-zone-infinity-prices-usd.md). Exact dispatch origin for these two online sellers is unverified. Canadian **V** catalogue prices likewise do not guarantee stock. The former Miniatures Market Infinity category has returned 404 and the Ultimate Toy Zone site could not be independently read during the prior price checks: this is a planning budget, not an orderable cart.
+**Pricing caution:** USD 1 = CAD 1.3985 (2026-10-29 reference). Most USD prices are **U: historical, user-supplied 2026-10-30 catalogue snapshots, not verified live listings or checkout stock**, from [Miniatures Market PanO](market-prices/panoceania-miniatures-market-prices-usd.md) or [Ultimate Toy Zone](market-prices/ultimate-toy-zone-infinity-prices-usd.md). Exact dispatch origin for these two online sellers is unverified. Canadian **V** catalogue prices likewise do not guarantee stock. The former Miniatures Market Infinity category has returned 404 and the Ultimate Toy Zone site could not be independently read during the prior price checks: this is a planning budget, not an orderable cart.
 
 ## Targeted cart: Neoterra + Acontecimento + partial Vanilla + Cutter (no WinterFor or Varuna)
 
@@ -17,15 +17,15 @@
 
 | Purchase / model count | CAD | Purpose and price provenance |
 |---|---:|---|
-| PanO Reinforcements **Alpha** (6 boxed minis, including **2 Bolts**) | **$29.37** | **NCA:** 2 Neoterra Bolts; other Alpha figures are incidental, not a Blade-Ops/Blocker/Agnes purchase recommendation. [Ultimate Toy Zone snapshot](ultimate-toy-zone-infinity-prices-usd.md) **USD $21.00 U** |
-| PanO Reinforcements **Beta** (ORC HMG, Richard Quinn, Shona) | **$18.46** | **NCA:** all three legal; **Vanilla:** ORC only is standard-legal. [Ultimate Toy Zone snapshot](ultimate-toy-zone-infinity-prices-usd.md) **USD $13.20 U** |
+| PanO Reinforcements **Alpha** (6 boxed minis, including **2 Bolts**) | **$29.37** | **NCA:** 2 Neoterra Bolts; other Alpha figures are incidental, not a Blade-Ops/Blocker/Agnes purchase recommendation. [Ultimate Toy Zone snapshot](market-prices/ultimate-toy-zone-infinity-prices-usd.md) **USD $21.00 U** |
+| PanO Reinforcements **Beta** (ORC HMG, Richard Quinn, Shona) | **$18.46** | **NCA:** all three legal; **Vanilla:** ORC only is standard-legal. [Ultimate Toy Zone snapshot](market-prices/ultimate-toy-zone-infinity-prices-usd.md) **USD $13.20 U** |
 | **Essentials Booster Alpha** (Swiss Guard, Aquila Guard, Nisse) | **$43.00** | **NCA:** Swiss + Aquila; **Vanilla:** all three including Nisse. Tistaminis (Hamilton, ON) historical **CAD $43.00 V** catalogue |
-| **Akali Spitfire** (1) | **$12.87** | **SAA** airborne trooper. [Miniatures Market snapshot](panoceania-miniatures-market-prices-usd.md) **USD $9.20 U** |
+| **Akali Spitfire** (1) | **$12.87** | **SAA** airborne trooper. [Miniatures Market snapshot](market-prices/panoceania-miniatures-market-prices-usd.md) **USD $9.20 U** |
 | **Guarda de Assalto** (1; confirm the necessary Auxbot) | **$18.04** | **SAA** Eclipse specialist package; one generic Auxbot is already owned but cannot be used twice concurrently. Miniatures Market **USD $12.90 U** |
 | **Lt. Stephen Rao** (1) | **$18.04** | **SAA** commander / NCO, older buyer **USD $12.90 U** lead, exact seller not established |
 | **Cutter TAG, S7** (1) | **$47.95** | **Vanilla PanO:** current Essentials model. 401 Games (Toronto/Vaughan, ON) **CAD $47.95 V** historical listing. Existing S6 PanO TAGs do **not** match its silhouette |
 | **Subtotal — NCA + SAA + Cutter, partial Vanilla via overlap** | **$187.73** | 7 distinct purchases; no WinterFor/Varuna-specific items, no full Vanilla add-ons |
-| **Recommended Vanilla-only enhancement: Karhu Special Team (3 figures)** | **+$24.33** | [Miniatures Market USD snapshot](panoceania-miniatures-market-prices-usd.md) **USD $17.40 U**. Vanilla AVA **2**, so two Karhu may play together; third is another sculpt, **not** a third concurrently legal vanilla Karhu |
+| **Recommended Vanilla-only enhancement: Karhu Special Team (3 figures)** | **+$24.33** | [Miniatures Market USD snapshot](market-prices/panoceania-miniatures-market-prices-usd.md) **USD $17.40 U**. Vanilla AVA **2**, so two Karhu may play together; third is another sculpt, **not** a third concurrently legal vanilla Karhu |
 | **TARGETED PARTIAL-VANILLA CART WITH KARHU** | **$212.06** | **8 unique purchases**, no duplicate pack across armies |
 | Further Vanilla-only option: **Helot Militia 4-pack** | **+$27.69** | Miniatures Market **USD $19.80 U**; only **2** may be fielded concurrently in Vanilla, no Varuna purchase intended |
 | Further Vanilla-only option: **Croc Man sniper** (1) | **+$12.87** | Miniatures Market **USD $9.20 U**; can be proxied with an owned MO Trinitarian S2 SK otherwise |
