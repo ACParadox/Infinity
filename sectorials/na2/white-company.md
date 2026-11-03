@@ -620,4 +620,4 @@ Army links White Company to Reinforcement roster ID **999**. Reinforcement-only 
 
 Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If future Army revisions change roster entries, AVA, profiles, Fireteam chart semantics, optional modes or Reinforcement linkage, update this file and its `army_source_version`/verification metadata together.
 
-**Tactical and purchasing analysis:** [${p.name} tactical guide](../../notes/factions/${p.file}). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
+**Tactical and purchasing analysis:** [White Company tactical guide](../../notes/factions/white-company.md). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.

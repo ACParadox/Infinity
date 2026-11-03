@@ -785,4 +785,4 @@ Army links Ikari Company to Reinforcement roster ID **999**. Reinforcement-only 
 - InfinityDB commit: `4e2662be3f43387fbae42b3790a711b3e98570c4`
 - Rules baseline: N5.3 + N5 FAQ v0.1
 
-**Tactical and purchasing analysis:** [${p.name} tactical guide](../../notes/factions/${p.file}). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
+**Tactical and purchasing analysis:** [Ikari Company tactical guide](../../notes/factions/ikari-company.md). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.

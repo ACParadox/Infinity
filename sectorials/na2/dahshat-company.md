@@ -826,4 +826,4 @@ The source identity relations for Sforza and Miranda explicitly cross this bound
 
 Validated against the pinned N5.3 Army-derived source on **2026-10-16**. If future Army revisions change roster entries, AVA, profiles, Fireteam chart semantics, relation records, or Reinforcement linkage, update this file and its `army_source_version`/verification metadata together.
 
-**Tactical and purchasing analysis:** [${p.name} tactical guide](../../notes/factions/${p.file}). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
+**Tactical and purchasing analysis:** [Dahshat Company tactical guide](../../notes/factions/dahshat-company.md). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.

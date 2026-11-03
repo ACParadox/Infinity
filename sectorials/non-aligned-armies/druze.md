@@ -693,4 +693,4 @@ Validated against Army snapshot `7.26246.159`:
 - Fireteam source: Army snapshot canonical `fireteamChart`, normalized using repository Fireteam conventions.
 - Generated/verified: **2026-10-16**.
 
-**Tactical and purchasing analysis:** [${p.name} tactical guide](../../notes/factions/${p.file}). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
+**Tactical and purchasing analysis:** [Druze Bayram Security tactical guide](../../notes/factions/druze.md). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.

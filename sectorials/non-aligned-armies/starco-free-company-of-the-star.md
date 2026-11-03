@@ -652,4 +652,4 @@ Validated against Army snapshot `7.26246.159`:
 - Fireteam source: Army `fireteamChart` normalized into repository semantics.
 - Generated/verified: 2026-10-16.
 
-**Tactical and purchasing analysis:** [${p.name} tactical guide](../../notes/factions/${p.file}). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
+**Tactical and purchasing analysis:** [StarCo — Free Company of the Star tactical guide](../../notes/factions/starco-free-company-of-the-star.md). Profile costs, AVA, Fireteams, source provenance and validation remain authoritative here.
