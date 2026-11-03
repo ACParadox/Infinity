@@ -110,7 +110,7 @@ Prices are for each **complete named product**, not each miniature. The pasted d
 
 ## How to use this reference
 
-This is a **historical USD price snapshot**, **not a buy list** and **not an owned miniatures inventory update**. Check the [PanO N5.3 must-have / go-to / avoid analysis](../panoceania-must-have-go-to-avoid-transcript-evidence.md), existing [PanO buying files]() and [proxy guidelines](../../miniature-proxy-guidelines.md), and reconcile with owned [Kestrel](../../../inventory/kestrel.md) and [Military Orders](../../../inventory/military-orders.md) figures before ordering. Purchases in overlapping boxes must not be counted twice.
+This is a **historical USD price snapshot**, **not a buy list** and **not an owned miniatures inventory update**. Check the [PanO N5.3 must-have / go-to / avoid analysis](../buy-lists/vanilla-pano-buy-list.md), existing [PanO buying files]() and [proxy guidelines](../../miniature-proxy-guidelines.md), and reconcile with owned [Kestrel](../../../inventory/kestrel.md) and [Military Orders](../../../inventory/military-orders.md) figures before ordering. Purchases in overlapping boxes must not be counted twice.
 
 Related price snapshots: [JSA](jsa-miniatures-market-prices-usd.md) and [O-12](o-12-miniatures-market-prices-usd.md).
 
