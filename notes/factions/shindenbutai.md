@@ -88,7 +88,7 @@ These are not literal auto-includes, but they recur because they compress multip
 
 The faction-defining distinction is not “which one is mandatory?” but **which packages you want to assemble around them**.
 
-# Architecture A — Sayō network / toolbox Shinden
+## Architecture A — Sayō network / toolbox Shinden
 
 This is the architecture most strongly represented in Robert Shepherd's material.
 
@@ -109,7 +109,7 @@ His published example list is especially informative because it has:
 
 The notable absence is **Hatamoto**. The list proves that Tanuki/Sayō infrastructure can be the real structural heart of Shinden.
 
-## Tanuki Hacker — closest thing to a structural staple
+### Tanuki Hacker — closest thing to a structural staple
 
 Current profile:
 
@@ -131,7 +131,7 @@ The value is not “WIP13 Hacker wins hacking wars.” The value is that a singl
 
 Robert's material treats the profile as an unusually dense utility package, and his sample list takes **two**.
 
-## Signature fighting Sayō Haris
+### Signature fighting Sayō Haris
 
 A major go-to team is:
 
@@ -141,7 +141,7 @@ Current legality:
 
 - Sayō requires a Tanuki.
 - Rui Shi is legal.
-- The **Strategic Deployment Shizoku profile** is the Sayō-legal Shizoku.
+- The **Strategic Deployment Shizoku profile** is the Sayō-legal Shizoku. Its Strategic Deployment advances the **legal Sayō team by +4 inches**, not +8 inches through an unrelated member's personal Forward Deployment. Value depends on whether the terrain actually rewards that starting line.
 
 This small team covers an unusually large decision tree:
 
@@ -156,7 +156,7 @@ The point is not merely “good Haris.” It is:
 
 > **maximize the number of ways the team can refuse the opponent's preferred interaction.**
 
-## Compact Sayō Duo — do not add a third member automatically
+### Compact Sayō Duo — do not add a third member automatically
 
 Because Shinden has unlimited Duos, the two-model team is a real endpoint rather than an unfinished Haris.
 
@@ -168,7 +168,7 @@ A third model should be added because it provides a needed role, not because “
 
 This is especially important with Yamabushi: consuming one of only two Yamabushi to gain a third Fireteam body may be worse than retaining an independent midfield Camo threat.
 
-## Utility Sayō Duo — Tanuki Hacker + Mine Dispenser Rui Shi
+### Utility Sayō Duo — Tanuki Hacker + Mine Dispenser Rui Shi
 
 Current Rui Shi profiles:
 
@@ -188,7 +188,7 @@ When Group 2 does not have an attractive target, its Orders can still become per
 5. deploy Drop Bears or an Armed Turret through the Monstrucker;
 6. repair a damaged REM later if needed.
 
-This is one of Shinden's best “less obvious” list-building packages.
+This is one of Shinden's best “less obvious” list-building packages. **Pangguling Baggage 8/0** provides eligible reloads; its **14/0.5 EVO** alternative is a *different single AVA1 selection*, most useful if the list is explicitly using Supportware. Neither is a Sayō member. See the [force-multiplier comparison](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 The key concept is:
 
@@ -196,7 +196,7 @@ The key concept is:
 
 It can manufacture board control before the main attack group commits.
 
-## Uran as a consequence layer
+### Uran as a consequence layer
 
 Current Uran is a 16-point Guided Missile REM.
 
@@ -206,7 +206,14 @@ Pitchers and Repeaters become harder to ignore because a successful Targeted sta
 
 Do not overbuild around this unless the mission/matchup supports it; Shinden's network is useful even without committing to a Guided plan.
 
-# Architecture B — aggressive double-Hatamoto command package
+- **Uran Guided 16/1.5:** a conditional payoff if Spotlight/Targeted already exists, particularly on a successful reactive Spotlight.
+- **Tanuki Hacker:** direct hacking pressure, including repeat Trinity attempts where appropriate, may yield more than forcing missile shots.
+- **Robio/Atom Repeaters:** extend limited network coverage, but do not create a deep Guided engine automatically.
+- **Mechazoid or Rui Shi:** alternative direct-fire investments when reliable Targeted access is absent.
+
+See the [indirect-fire and Guided cost/benefit analysis](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+## Architecture B — aggressive double-Hatamoto command package
 
 Tactical Awareness demonstrates a very different Shinden list.
 
@@ -227,7 +234,7 @@ This is the strongest evidence for a second major Shinden construction principle
 
 > **If an efficient profile is central to the plan, duplication can be better than broad toolbox diversity.**
 
-## Hatamoto is an unusually complete premium attacker
+### Hatamoto is an unusually complete premium attacker
 
 Current Hatamoto chassis:
 
@@ -244,7 +251,7 @@ Current Hatamoto chassis:
 
 The value of the chassis is not merely raw shooting. Nanoscreen reduces dependence on ordinary Cover geometry, while the CC/equipment package gives the model answers after it closes distance.
 
-### Double Hatamoto is not just redundancy for redundancy's sake
+#### Double Hatamoto is not just redundancy for redundancy's sake
 
 The package:
 
@@ -260,9 +267,9 @@ creates several layers of value:
 
 This is expensive, but it is a coherent architecture rather than a gimmick.
 
-# Lieutenant and command packages
+## Lieutenant and command packages
 
-## 1. Metsuke Strategos — safest general default
+### 1. Metsuke Strategos — safest general default
 
 Current profile: 22 points, Lieutenant + Strategos L1, with Counterintelligence and Holoprojector on the chassis.
 
@@ -273,9 +280,9 @@ Use when the list values:
 - Counterintelligence;
 - a generic command benefit that does not require a specific attacker.
 
-This is the clean “when in doubt” LT.
+This is the clean “when in doubt” LT. **The 22pt Strategos LT and 23pt Lieutenant (+1 Order) profiles are different alternatives; do not grant one the other's command skill.**
 
-## 2. Metsuke +1 Lt Order → Hatamoto NCO
+### 2. Metsuke +1 Lt Order → Hatamoto NCO
 
 Current Metsuke also has a 23-point **Lieutenant (+1 Order)** profile.
 
@@ -287,7 +294,7 @@ A practical decision rule:
 
 > **Strategos if you value deployment/control more; +1 Order if the NCO economy is central to the list.**
 
-## 3. Hatamoto LT + Tanuki CoC
+### 3. Hatamoto LT + Tanuki CoC
 
 Current Hatamoto LT profiles all provide +1 Lt Order and an SWC rebate.
 
@@ -298,25 +305,25 @@ This is the aggressive command plan:
 
 The full double-Hatamoto version adds an NCO partner to exploit the Order economy more aggressively.
 
-## 4. Mechazoid LT
+### 4. Mechazoid LT
 
 Current Mechazoid LT is a 69-point MULTI Spitfire TAG with Tactical Awareness.
 
 This is a distinct TAG architecture rather than a normal Shinden default. Use it because the list genuinely wants the TAG as a central attack/command piece, not merely because it generates efficient Orders.
 
-## 5. Senku LT
+### 5. Senku LT
 
 Current Senku LT is 9 points / 0.5 SWC.
 
 Use it as a **budget command solution** when the saved points materially improve the rest of the list. Do not treat Senku LT as a defining Shinden command package.
 
-## 6. Tanuki HMG MSV2 LT
+### 6. Tanuki HMG MSV2 LT
 
 Current Tanuki has an HMG MSV2 Lieutenant profile.
 
 This can work when the list specifically wants the LT to be a ranged MSV piece, but it is more exposed and less structurally distinctive than Metsuke/Hatamoto command packages.
 
-# Go-to Fireteam structures
+## Go-to Fireteam structures
 
 Current canonical chart is in `sectorials/jsa/shindenbutai.md`. Important current facts:
 
@@ -328,7 +335,7 @@ Current canonical chart is in `sectorials/jsa/shindenbutai.md`. Important curren
 - Shurayuki is an explicit Wildcard counting as **Senku**;
 - Yuriko FTO is a Wildcard counting as **Senku/Sayō**.
 
-## 1. Sayō Duo/Haris — default modular family
+### 1. Sayō Duo/Haris — default modular family
 
 Current legal members include:
 
@@ -350,7 +357,7 @@ Best practical uses:
 
 Sayō is the Fireteam family most aligned with Shinden's “small module” identity.
 
-## 2. Senku Haris/Core — cheap structural material
+### 2. Senku Haris/Core — cheap structural material
 
 Current Senku family allows Senku plus limited Jizamurai, Hatamoto and Taguraidā, with Shurayuki/Yuriko Wildcard options.
 
@@ -364,7 +371,7 @@ A simple cheap structure is:
 
 Use a larger Senku Core only when the actual list needs what it provides. A completely Senku-free list is normal.
 
-## 3. Bushi-tai — specialized Core-slot package
+### 3. Bushi-tai — specialized Core-slot package
 
 Bushi-tai requires at least one Jizamurai and can include:
 
@@ -381,7 +388,7 @@ This permits a list to retain:
 - additional Sayō Duos;
 - a separate Bushi-tai Core.
 
-## Jizamurai — useful tax, not default goodstuff
+### Jizamurai — useful tax, not default goodstuff
 
 Jizamurai is the admission price for Bushi-tai.
 
@@ -396,7 +403,7 @@ The E/Mitter is especially useful when a mandatory team body needs to create a c
 
 Do not add Jizamurai merely because they can link. Add them because the Bushi-tai structure itself solves a list problem.
 
-## 4. Mechazoid Duo
+### 4. Mechazoid Duo
 
 Current Mechazoid Duo can include:
 
@@ -408,13 +415,13 @@ This supports TAG-centric lists without requiring a traditional Core shell.
 
 A Mechazoid + Atom package can add Sensor/FO/Repeater utility; a Mechazoid + Tanuki package can attach specialist/network support directly to the TAG's movement axis.
 
-## 5. Yamabushi Duo
+### 5. Yamabushi Duo
 
 Current FTO Yamabushi can form a Duo, with Ioann Bann eligible as a Yamabushi-counting member.
 
 This is niche compared with the Camo versions because using FTO Yamabushi consumes limited AVA that could otherwise provide independent midfield markers.
 
-# Yamabushi — default to independent midfield pressure first
+## Yamabushi — default to independent midfield pressure first
 
 Current Shinden has AVA2 Yamabushi.
 
@@ -434,7 +441,7 @@ This supports a strong default rule:
 
 A three-member Fireteam bonus is not automatically worth sacrificing an independent marker.
 
-# Kyojin — AVA2 cheap trading package
+## Kyojin — AVA2 cheap trading package
 
 Current Kyojin are Irregular, AVA2, with Forward Deployment (+20), Mimetism and Super-Jump.
 
@@ -454,7 +461,7 @@ Use Kyojin to:
 
 One is easy to justify; two is a normal deliberate architecture rather than an indulgence.
 
-# Raiden — genuine player-style divider
+## Raiden — genuine player-style divider
 
 Current Raiden are:
 
@@ -467,11 +474,11 @@ Current Raiden are:
 
 The main disagreement in the tacticas is not whether Raiden can work, but **how much support/geometry they need**.
 
-### Cautious view
+#### Cautious view
 
 Robert's concern is that a single Burst-1 Raiden does not automatically stop a determined attacker. Its mine may also hint that something is present. Therefore the model is strongest when its reveal is layered with another ARO/problem.
 
-### Aggressive view
+#### Aggressive view
 
 Tactical Awareness's Owen likes the profile enough to take **2× HRL Raiden**.
 
@@ -481,11 +488,11 @@ So the right conclusion is:
 
 Do not deploy it as though Hidden Deployment alone makes B1 invincible.
 
-# Visibility control — use both kinds
+## Visibility control — use both kinds
 
 Shinden has two distinct visibility-control plans.
 
-## Disco Ball
+### Disco Ball
 
 Tanuki Hacker can create a zone where conventional shooting interaction is denied.
 
@@ -497,7 +504,7 @@ Use it to:
 - protect movement of an expensive Fireteam;
 - force the opponent to reposition instead of simply winning a FtF.
 
-## Smoke + MSV
+### Smoke + MSV
 
 Motorized Yojimbo provides conventional Smoke, while Rui Shi/Tanuki have MSV options.
 
@@ -508,7 +515,14 @@ This creates the opposite interaction:
 
 A robust list should know which visibility-control axis it is using rather than simply taking all the tools by habit.
 
-# Yojimbo — motorized version as the default starting evaluation
+- **Tanuki Hacker 20/0.5:** combines Pitcher/hacking with projected Disco/Eclipse.
+- **Garon Smoke GL 16/0:** cheaper normal-Smoke projection when the hacking/Disco package is unnecessary.
+- **Yojimbo or Saito:** ordinary carried Smoke for approach routes.
+- **Rui Shi or Tanuki MSV2:** shoot through ordinary Smoke, **not Eclipse**.
+
+Do not import Ōban's linked Tankō Disco into Shinden. See the [cross-faction vision-control guide](../list-building/vision-control-units-apex-and-value.md).
+
+## Yojimbo — motorized version as the default starting evaluation
 
 Current Motorized Yojimbo is 20 points and brings:
 
@@ -529,7 +543,7 @@ Use him for:
 - enabling MSV attack lines;
 - late-turn objective-area disruption after the premium attackers have moved on.
 
-# Monstrucker + support infrastructure
+## Monstrucker + support infrastructure
 
 The Monstrucker is easy to misread as “the cheap Engineer.”
 
@@ -550,7 +564,7 @@ while also converting spare Orders into deployables.
 
 This makes the Monstrucker especially good in lists where Group 2 already contains the Mine Rui Shi / Pangguling package.
 
-# Pangguling — infrastructure, not Fireteam filler
+## Pangguling — infrastructure, not Fireteam filler
 
 Current Shinden Pangguling is AVA1 and has Baggage on the chassis.
 
@@ -567,7 +581,7 @@ Important current-rules point:
 
 Its value in the tactica architecture is primarily Baggage, Repeater/EVO support, and enabling disposable-ammunition plans.
 
-# Lù Duān — useful sleeper REM
+## Lù Duān — useful sleeper REM
 
 Robert's example includes a Lù Duān despite already having substantial REM infrastructure.
 
@@ -587,7 +601,7 @@ This fits Shinden's layered-control identity well:
 
 It is not a default staple, but it is a good off-meta candidate when the list needs a mobile midrange/control REM rather than another premium HI.
 
-# Teishin — attack the hacking network from another angle
+## Teishin — attack the hacking network from another angle
 
 Current Teishin provides Combat Jump/Parachutist access with:
 
@@ -605,7 +619,7 @@ Use Teishin when the matchup rewards:
 - forcing DZ defence to respect airborne entry;
 - D-Charge mission work.
 
-# Shurayuki — reevaluate older negative reviews
+## Shurayuki — reevaluate older negative reviews
 
 Early Shinden reviews often criticized Shurayuki partly because of weak Fireteam integration.
 
@@ -617,7 +631,7 @@ Current profile is a 30-point NWI/MA4/Holomask/X-Visor model with MULTI Rifle, N
 
 She is still not an automatic include, but older “doesn't fit the teams” conclusions should not be copied forward without adjustment.
 
-# Ruby Monday — newer option absent from early tacticas
+## Ruby Monday — newer option absent from early tacticas
 
 Ruby Monday was not part of the early Shinden video ecosystem.
 
@@ -634,11 +648,11 @@ She should be evaluated as a cheap independent mission/control piece rather than
 
 She does not invalidate the older tactical architectures; she adds another compact specialist/control option to them.
 
-# TAGs, REMs and motorbike — transcript-tested decision guide
+## TAGs, REMs and motorbike — transcript-tested decision guide
 
-The sectorial has **two TAG families (Mechazoid, Triphammer), no standard-roster VH-class entry**, and several complementary REM roles. Motorized **Yojimbo** is a fast **Warband** on a bike, not a VH. This section combines direct MCP transcripts with the current N5.3 source; older videos cannot establish today's points, SWC or Fireteam legality.
 
-## Mechazoid vs Triphammer — genuine disagreement
+
+### Mechazoid vs Triphammer — genuine disagreement
 
 | Choice | Current N5.3 profile(s) | Why pick it / why hesitate |
 |---|---|---|
@@ -655,9 +669,9 @@ The sectorial has **two TAG families (Mechazoid, Triphammer), no standard-roster
 - **The Dice Gods (Jan 2026)** actually builds a post-Sandtrap **Triphammer** list rather than automatically upgrading to Mechazoid. The appeal is a self-funding Tactical Awareness heavy threat that leaves points for Sayō, specialists and smoke.
 - **Practical resolution:** start with the **role**. Need an independent long-range AP gun and high-mobility TAG? Mechazoid AP HMG. Need a midfield assault TAG? MULTI Spitfire. Need affordable redundancy, SWC relief or a second attack axis? Triphammer. *Do not force either TAG into a list already solving those problems.*
 
-**TAG support:** Taguraidā is **12/0**, a **Regular specialist** and TAGCom source (**Dodge PH +3, GizmoKit PH +1**) for TAGs in its **combat group**. Cheap insurance plus a mission body, not a compulsory "TAG tax." Put a Tokusetsu Engineer / Monstrucker and possibly Yáozăo where they can actually recover the TAG. Mechazoid's **Kobaruto** and Triphammer's **TurtleMek** are ancillary specialists, **not separate army slots**; they offer objective reach while letting the big chassis pursue its main job. The Mechazoid can make a **Duo with Atom or Tanuki** under the current chart: Atom adds Sensor/FO/Repeater utility; Tanuki adds the wider specialist/hacking/visibility toolkit. These partners are alternatives, not mandatory bodyguards.
+**TAG support:** Taguraidā is **12/0**, a **Regular specialist** and TAGCom source (**Dodge PH +3, GizmoKit PH +1**) for TAGs in its **combat group**. Cheap insurance plus a mission body, not a compulsory "TAG tax." [The cross-faction force-multiplier guide](../list-building/force-multipliers-special-abilities-apex-value.md) also compares when those PH/GizmoKit bonuses are worth an extra support model. Put a Tokusetsu Engineer / Monstrucker and possibly Yáozăo where they can actually recover the TAG. Mechazoid's **Kobaruto** and Triphammer's **TurtleMek** are ancillary specialists, **not separate army slots**; they offer objective reach while letting the big chassis pursue its main job. The Mechazoid can make a **Duo with Atom or Tanuki** under the current chart: Atom adds Sensor/FO/Repeater utility; Tanuki adds the wider specialist/hacking/visibility toolkit. These partners are alternatives, not mandatory bodyguards.
 
-## REM priority by actual job, not by chassis
+### REM priority by actual job, not by chassis
 
 | REM / package | Current profile(s) | When worth the slot — and trade-off |
 |---|---|---|
@@ -674,7 +688,7 @@ The sectorial has **two TAG families (Mechazoid, Triphammer), no standard-roster
 
 **Vehicle/mobility overlap:** Motorized Yojimbo is the closest bike-style unit in the standard roster. Compare **Yojimbo's self-propelled smoke + Koalas + rapid CC threat** against **Garon's repeated ranged smoke**. Yojimbo trades and pressures the enemy independently; Garon stays behind to place smoke and protect a lane. You can take both for redundancy, but a list short on Regular Orders may prefer the Garon/Disco Baller plan.
 
-## Opponent-side checks: why a powerful Shinden list can still fail
+### Opponent-side checks: why a powerful Shinden list can still fail
 
 Direct **Sneaky Snake Military Orders matchup** and **MetaChemistry takedown** transcripts emphasize:
 
@@ -686,7 +700,7 @@ Direct **Sneaky Snake Military Orders matchup** and **MetaChemistry takedown** t
 
 These are **matchup tendencies**, not universal counters. Notably the old videos sometimes omit current **Shurayuki Wildcard**, **Ruby Monday**, or post-N5 launch roster differences. The current sectorial reference controls legality.
 
-## Contrasting list-construction opinions — keep all three
+### Contrasting list-construction opinions — keep all three
 
 - **Robert Shepherd:** Tanuki + Rui Shi toolbox with multiple independent modules and **zero Hatamoto**. *Why:* each Order can choose hacking, mine/visibility denial, gunfighting or scoring instead of paying for one all-purpose HI.
 - **Tactical Awareness / Owen:** **two Hatamoto**, NCO/LT/CoC and disposable screening troops. *Why:* Nanoscreen, Mimetism, specialist/CC and order efficiency make each Hatamoto a formidable self-contained assault piece; redundancy beats over-reliance on one hero.
@@ -694,16 +708,16 @@ These are **matchup tendencies**, not universal counters. Notably the old videos
 
 **Default choice:** decide whether the list needs **(a) multiple utility choices, (b) overwhelming two-piece assault, or (c) a cheap Core boosting one attacker**. Then add TAG/REM packages only if they fix a missing role.
 
-### Direct transcript sources (MCP reviewed, 2026-10-19)
+#### Direct transcript sources (MCP reviewed, 2026-10-19)
 
 The original source titles, links and evidence qualifications are maintained in the [Shindenbutai reference archive](references/shindenbutai_refs.md#best-transcript-backed-source-order).
 
 
-# Weaknesses to account for during construction
+## Weaknesses to account for during construction
 
 Opponent-side analysis consistently identifies a few Shinden pressure points.
 
-## 1. Do not rely only on short/midrange HI
+### 1. Do not rely only on short/midrange HI
 
 Shinden's premium pieces often want to work inside the table rather than simply dominate every 32-inch gunfight.
 
@@ -716,7 +730,7 @@ A list should have some plan for long-range opening or denial, such as:
 - Tanuki MSV2 HMG/Sniper;
 - Garon depending role/table.
 
-## 2. Protect the hacking exposure of expensive pieces
+### 2. Protect the hacking exposure of expensive pieces
 
 Hatamoto, Shizoku and TAGs are hackable. Do not interpret Shinden's own Pitcher access as meaning it automatically wins a hacking contest.
 
@@ -729,7 +743,7 @@ Useful counterplay inside the roster includes:
 - routing expensive HI outside the enemy network;
 - Engineers positioned to recover states.
 
-## 3. Preserve real Turn 3 specialists
+### 3. Preserve real Turn 3 specialists
 
 Kyojin, Yojimbo and other trade pieces are excellent at dying profitably. A list made entirely of efficient violence can still lose the mission after clearing the table.
 
@@ -743,7 +757,7 @@ Keep enough surviving mission capability through:
 - Yuriko/Tokusetsu/Taguraidā;
 - Sāchā/Ruby Monday where appropriate.
 
-# Repeated list-building recipes
+## Repeated list-building recipes
 
 These are the combinations worth checking first when constructing a list.
 
@@ -764,41 +778,41 @@ These are the combinations worth checking first when constructing a list.
 | **Tanuki Pitcher + Uran** | network threat with Guided consequence |
 | **Mechazoid + Atom/Tanuki Duo** | TAG attack package with sensor/network or specialist support |
 
-# Things not to do automatically
+## Things not to do automatically
 
-## Do not automatically build a five-model Senku Core
+### Do not automatically build a five-model Senku Core
 
 Senku are cheap structural models. Use as many as the actual list needs.
 
-## Do not automatically maximize every Duo into a Haris
+### Do not automatically maximize every Duo into a Haris
 
 Unlimited Sayō Duos are one of the sectorial's advantages. Two models may already solve the job.
 
-## Do not automatically spend Yamabushi AVA on Fireteam filler
+### Do not automatically spend Yamabushi AVA on Fireteam filler
 
 The independent Camo versions are often more strategically valuable.
 
-## Do not assume Tanuki must win through hacking
+### Do not assume Tanuki must win through hacking
 
 Pitcher, Disco Ball, specialist status, and Fireteam access retain value even in bad hacking matchups.
 
-## Do not assume Hatamoto is mandatory
+### Do not assume Hatamoto is mandatory
 
 Robert's published example has none; Tactical Awareness takes two. This is exactly the faction's architectural flexibility.
 
-## Do not assume Raiden is bad because the ARO is Burst 1
+### Do not assume Raiden is bad because the ARO is Burst 1
 
 Its value depends on hidden timing and layered defence. Conversely, do not assume Hidden Deployment makes it self-sufficient.
 
-## Do not import old Shurayuki Fireteam conclusions
+### Do not import old Shurayuki Fireteam conclusions
 
 Current Shurayuki has explicit Senku-counting Wildcard access.
 
-## Do not treat Pangguling's FTO profile label as actual Shinden Fireteam access
+### Do not treat Pangguling's FTO profile label as actual Shinden Fireteam access
 
 Current canonical Fireteam chart does not include it.
 
-# Practical build order
+## Practical build order
 
 A useful Shinden list-building process is:
 
@@ -813,42 +827,7 @@ A useful Shinden list-building process is:
 9. **Use remaining slots for infrastructure.** Monstrucker, Pangguling, Uran, Lù Duān, cheap REMs according to the architecture.
 10. **Only then decide whether a bigger Core actually adds more than another independent module.**
 
-## Short version
-
-If building Shinden blind, the first questions should be:
-
-> **What is my LT/order package?**  
-> **Which Sayō module am I using?**  
-> **What opens long range?**  
-> **Which cheap pieces tax the midfield?**  
-> **How do I manipulate LoF instead of taking fair fights?**  
-> **Which specialists survive after the attackers trade?**
-
-That sequence captures the strongest repeated insight from the Shindenbutai video/list material: **the sectorial wins by stacking small complementary modules and forcing the opponent to solve multiple different interaction types, not by building one dominant Fireteam and pushing it forward.**
-
-## Vision control — role/value update (23 October 2026)
-
-- **Tanuki HD + Pitcher + Disco 20/.5** is Shinden's combined hacking/Eclipse lane tool. **Garon Smoke GL 16/0**, **Yojimbo/Saito normal Smoke** and **MSV2 Tanuki/Rui Shi** provide the separate *shoot-through-Smoke* package. Disco/Eclipse instead blocks MSV too.
-- **Do not import Ōban Tankō Fireteam access**: a named Tankō in JSA is not proof it is an eligible Shinden link. A 20pt Tanuki has better role compression when the Pitcher/hacking job also matters; if not, 16pt Garon may suffice. [Global tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Uran Guided16/1.5** turns Tanuki HD/Pitcher and Robio/Atom networks into a secondary threat; Shepherd argues repeated **Trinity** against an enemy hacker may be more decisive than repeated missiles, and calls the Uran *conditional* rather than core. When Spotlight comes for free as an ARO, missile payoff is excellent; when no targets can be marked, buy a mobile Mechazoid/Shikami/Rui Shi instead.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Metsuke LT22/0** adds Strategos1/Counterintelligence/Holoprojector and is a strong cheap command shell; **23pt LT(+1 Order)** is a *different* profile when there is a practical NCO use. **Shizoku HRL Strategic38/1.5** moves only a **legal Sayō** team forward **+4″**; not +8″ merely because Yamabushi has personal FD. **Taguraidā12 TAGCom** benefits same-group Mechazoid by its actual bracketed PH/GizmoKit bonuses; **Pangguling8/0 Baggage vs14/.5 EVO** helps Rui Shi+mine dispensers if Supportware is used. Shepherd warns paying for strategic deployment can be wasteful on the wrong terrain.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
-
----
-
-## N5.3 tactical cross-references, battle reports and purchasing audit
-
-The complete tactical index, evidence and purchasing audit (including **Highest-value primary recordings**) have moved to the [Shindenbutai reference archive](references/shindenbutai_refs.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit).
-
 ## References
 
-See [source recordings, provenance and source-quality notes](references/shindenbutai_refs.md#references).
+- [Source recordings, provenance and evidence-quality notes](references/shindenbutai_refs.md#references).
+- [N5.3 tactical cross-references, battle reports and purchasing audit](references/shindenbutai_refs.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit), including the highest-value primary recordings.
