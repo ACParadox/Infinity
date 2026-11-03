@@ -32,6 +32,20 @@
   - Keeps the main attack Order pool available for Mirage-5 or the TAG.
 - **Kosmosoldat Duo/Haris:** **one or two Kosmosoldats** with a permitted **Frontovik** is a heavy direct-attack package. **Chernobog Duo** also exists, but the mere ability to field two TAGs is not itself an exceptional advantage.
 
+### Battle-report audit — confirmed Kosmoflot links and alternate army shells
+
+The [battle-report analyses](../battle-reports/n5-battle-reports-and-tournament-reports.md) show several useful architectures, but commentary on *possible* links is not starting-team evidence. Use the [N5.3 Kosmoflot chart](../../sectorials/ariadna/kosmoflot.md#fireteams) for any present-day reproduction.
+
+| Source | Reported list or link | Lesson / evidence boundary |
+|---|---|---|
+| [#045 Countermeasures vs vanilla Ariadna](../battle-reports/041-050-n5-battle-report-tactical-analysis.md#L157) | **Explicit five-body Core** with **2 Patchers + Wolfgang**. **Rokot Paramedic likely fourth**; fifth profile **unverified**. Patcher described as first link leader. | A **Rokot-anchored Core with two Patcher specialists** can blend durability and inexpensive Orders. Current Rokot row **requires at least one native Rokot**; do not invent the fifth member or treat two Patchers alone as that anchor. |
+| [#230 Uplink Center vs vanilla Nomads](../battle-reports/221-230-n5-battle-report-tactical-analysis.md#L208) | **Confirmed Haris 3:** Kosmosoldat MSV1 HMG + **2 Stranniks** (Doctor/other). **Confirmed Core 3:** Scot Guard FTO FO/Paramedic + **2 Volkolaks** (HMG/T2-AP Paramedic). Separate Uxía, SAS Minelayers, Denma, Dozer/Kövlk, Rokots. | **MSV1 assault + medic escort** and **Scot Guard-anchored Volkolak defensive Core** create two small useful teams. The **3–3 draw** hinged on a contested central objective, not a need for a five-body gun deathstar. |
+| [#150 Outbreak vs ISS](../battle-reports/141-150-n5-battle-report-tactical-analysis.md#L284) | List with **2 Volkolaks (one Paramedic), Rokot Lt/decoy, Kosmosoldat PAC, 2 Patchers**, Polaris, Uxía, SAS and Paracommando Paramedic. Commentator **suggests** link possibilities but does not verify starting teams. | **Medical coverage + Polaris/Volkolak protection** supported a **10–1** special-mission result. Do **not** attribute the outcome to conjectured links. |
+| [#178 Amañecer third-place roster exports](../battle-reports/171-180-n5-battle-report-tactical-analysis.md#L210) | One list includes **Volkolak ML, Rokots, Kosmosoldat PAC, Strannik specialist/Doctor, Kibervolk, Dozer, Mirage-5, Polaris**; alternative adds Wallace/Unknown Ranger. **No deployed team assignments given.** | Useful **anti-armor + doctor + airborne** design reference, *not* confirmed Core/Haris membership or a per-round list record. |
+| [#012 Talvisota opponent mention](../battle-reports/011-020-n5-battle-report-tactical-analysis.md#L82) and [#015 German championship](../battle-reports/011-020-n5-battle-report-tactical-analysis.md#L223) | Wallace near **two Kosmosoldats** is not verified linked. #015 **explicitly admits two Rokot+Frontovik Duos were illegal and removed**. | **Never copy Rokot/Frontovik Duo**: Rokot family is Core/Haris only. Wallace is not a Kosmosoldat Wildcard merely because they moved near one another. |
+
+**Build two different variants:** **(A)** #230-style **Kosmosoldat/2 Strannik Haris** and **Scot Guard FTO/2 Volkolak Core**, plus independent SAS/Uxía scoring. **(B)** #045-style **Rokot Core** with up to two Patchers and Wolfgang, plus a separate attack/mission route; confirm the actual fifth model. Do **not** silently combine every premium body from #150/#178 with both linked packages. **Mirage-5 and Polaris are compound units, not Fireteams.**
+
 ### Unusual access, gaps and trade-offs
 
 - **Chernobog TAG, Polaris and Mirage-5** give unusual diversity for Ariadna, backed by very cheap normal Smoke. **Wardriver Disco Baller 16/1** adds limited projected Eclipse coverage; normal Smoke cannot always bypass enemy MSV.
