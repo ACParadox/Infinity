@@ -21,6 +21,50 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 **Related studies:** [TAGs](../list-building/tags.md), [REMs](../list-building/rems.md), [Order economy](../list-building/cheerleaders-and-order-generators.md), and [command resilience](../Strategy/lieutenant-and-command-structure.md).
 
+## Overview
+
+**What Morats do exceptionally well:** use an unusually efficient **Regular-Order engine**, Warhorse-equipped fighting troops, multiple Smoke routes and compact mixed Fireteams to force favorable, direct engagements. Morats are largely **visible**; they win through Order economy, resilience, and several complementary attack lanes rather than a Camo/Impersonation shell.
+
+### Whole-game standouts — apex versus value
+
+**Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
+
+- **Top 3 candidate — cheap pooled Regular-Order Fireteam (value): Oznat FTO + Gakis.**
+  - **Haris:** Oznat FTO 15/0 + two Gakis 4/0 = **23 points, 0 SWC for three Regular Orders** with the qualifying Fireteam Master interaction.
+  - **Core:** Oznat FTO + four Gakis = **31/0 for five Regular Orders**.
+  - The [Order-engine comparison](../list-building/cheerleaders-and-order-generators.md) calls these **S+** engines on price. The W1 Oznat is a failure point; the chart also allows mixed Pretas, and unlinked Hungries remain Irregular.
+- **Top 5 candidate — Regular Smoke + CC warband (value): Dāturazi Chain Rifle (+1B) 14/0.** **S-tier** in the [warband comparison](../list-building/warbands-and-cheap-trading-units-apex-value.md): Regular PH14 Smoke, Warhorse, MA4 and DA close-combat threat. Its best use may be enabling Yaogat shooting rather than charging alone.
+- **Top 5 candidate — heavily armored fighting Lieutenant (apex): Sogarat LT 56/0.5–1.** **S/A** in the [command tiers](../list-building/command-units-apex-and-value.md), with Warhorse, resilient gunfighting, Discord-style visibility denial and Lieutenant Orders that a legal NCO Sogarat can use. High cost and exposure mean it still needs specialists and support.
+- **Top 10 candidate — Smoke/MSV offensive module (value): Yaogat MSV2 Spitfire or MULTI Sniper.** Backed by **independently activated Dāturazi Smoke**, the package shifts FtF odds efficiently; this is a **package/role** shortlist, not a claim that a solo Yaogat beats the game's best long-range HMGs. See [vision control](../list-building/vision-control-units-apex-and-value.md).
+- **Not an automatic global Top-5 hacker: Dartok FTO Hacker 18/0.5.** A particularly efficient **Pitcher + Trinity + legal Fireteam** specialist; the ordinary Dartok is a separate price/profile. The hacking network is useful even without investing in a Guided T-Drone.
+
+### Particularly strong or unusual Fireteams
+
+- **Hungries Haris/Core — the standout Order engine:**
+  - **Oznat FTO:** mandatory Fireteam Master anchor.
+  - **Gaki or Preta:** inexpensive linked members; mixed compositions are allowed.
+  - **Trade-off:** converting their Orders depends on the qualifying legal team remaining intact; it is not free extra activity from unlinked Irregular troopers.
+- **Morat/Tarlok shooting modules — role compression rather than a compulsory large Core:**
+  - **Yaogat MSV2:** primary shooting.
+  - **Dartok FTO:** Pitcher/hacking.
+  - **Rindak FTO:** mobile specialist in the **Morat** family specifically, not Tarlok.
+  - **Dāturazi:** **independent** Smoke enabler outside the team.
+- **Rodoks Haris/Duo — mobile range-and-hacking complement:**
+  - **Rodok Thunderbolt:** long-range pressure.
+  - **Rodok Hacker:** technical backup.
+  - **Krakot:** close-range trading.
+  - Use an actually legal Rodok/Krakot composition and check its Order tax.
+- **Armored Duo:** **Sogarat LT + NCO Sogarat** can sustain a very hard two-piece gun/command plan. **Raicho** and **Bultrak** are additional TAG foundations under the *same chart family*, not license for arbitrary cross-faction TAG links.
+
+### Unusual access, gaps and trade-offs
+
+- **Visibility:** **Dāturazi** provide efficient Regular **normal Smoke** and **Oznat** can launch Smoke. **Rasyat Eclipse** and **Sogarat Disco Ball** enable different **Eclipse-style crossing**; those effects are not ordinary MSV-shoot-through-Smoke.
+- **MSV and direct fire:** **Yaogat MSV2** is the key visor shooter; much of the rest of the roster succeeds through Warhorse, imposed BS penalties and range positioning.
+- **Lieutenant and CoC:** **Sogarat** offers fighting LT pressure, **Kornak** a more flexible Strategos command approach and **Raktorak CoC** a separate succession tool. Warhorse is **not** inherited by every TAG, REM or allied piece.
+- **Heavy hardware:** **Raicho and Bultrak are TAGs**; no distinct standard-roster **Vehicle (VH)**. Buying both may be redundant if the Sogarat engine already solves the attack problem.
+- **Real gap:** little conventional Camo/Hidden Deployment/Impersonation compared with Shasvastii or Vanilla. Deployment geometry, Smoke and diversified direct threats must compensate.
+
+
 ## Core identity
 
 **Morats are visible, aggressive, surprisingly resilient combined-arms soldiers**, not merely a rush/CC sectorial. Build around **good angles + stacked defensive modifiers + small Fireteams + cheap smoke + real hacking + mission coverage**.
