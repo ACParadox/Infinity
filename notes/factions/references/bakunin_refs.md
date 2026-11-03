@@ -4,7 +4,7 @@
 
 ## Scope, sources, and what changed
 
-**Authoritative profiles:** [Bakunin N5.3 roster and Fireteam chart]("../"), Army `7.26246.158` (source 3 September 2026, verified 15 October 2026), **48 standard units**; this guide provides interpretations rather than overwriting points, weapons, legality, or [rules]("../"). [Vanilla Nomads]("../") and [Corregidor]("../") are complementary comparisons, **not legal ways to mix their rosters or Fireteams**. Sources from N4/early N5 are explicitly dated. Avoid extrapolating their old lists without an Army rebuild, especially for FTO profiles and hacking programs.
+**Authoritative profiles:** [Bakunin N5.3 roster and Fireteam chart](../../../sectorials/nomads/bakunin.md), Army `7.26246.158` (source 3 September 2026, verified 15 October 2026), **48 standard units**; this guide provides interpretations rather than overwriting points, weapons, legality, or [rules](../../../rules/README.md). [Vanilla Nomads](../vanilla-nomads.md) and [Corregidor](../corregidor.md) are complementary comparisons, **not legal ways to mix their rosters or Fireteams**. Sources from N4/early N5 are explicitly dated. Avoid extrapolating their old lists without an Army rebuild, especially for FTO profiles and hacking programs.
 
 ## Highest-value primary recordings (MCP transcript and source audit)
 
@@ -25,58 +25,58 @@
 
 ## N5.3 tactical cross-references, battle reports and purchasing audit
 
-The dated analysis below was transferred from the [Bakunin N5.3 reference]("../"). That reference remains authoritative for roster membership, profiles, costs, Fireteam permissions and validation. Statements below referring to roster tables or the Fireteam chart “above” refer to the linked reference, not this tactical note.
+The dated analysis below was transferred from the [Bakunin N5.3 reference](../../../sectorials/nomads/bakunin.md). That reference remains authoritative for roster membership, profiles, costs, Fireteam permissions and validation. Statements below referring to roster tables or the Fireteam chart “above” refer to the linked reference, not this tactical note.
 
 ### Command-unit apex/value cross-reference (2026-10-23)
 
 **Daemonist Observant LT(+1) 36/0** provides two Special Lieutenant Orders, but they are **not two generic Regular pool Orders** unless a legitimate NCO or other mechanism actually spends/converts them. Balancing an exposed Daemonist commander against protected cheap LT/another specialist remains mission-specific; avoid assuming **Shifta CoC** from Vanilla Nomads is available in Bakunin.
 
-See [cross-game Lieutenant, CoC and Order-economy tiers]("../"). **Refer to this pinned roster/Fireteam chart for profile legality.**
+See [cross-game Lieutenant, CoC and Order-economy tiers](../../list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
 ### Mission specialist / button-pusher choices (N5.3)
 
 **Moderator cheap Hacking Device**, supported by **Pupnik/Observance/Bran** actual midfield specialist options, can cover console/infowar while premium fighters clear lanes. A static hacker remains poor on far-side objectives without a Repeater/forward physical path. In a Doctor/Engineer-heavy Classified mission, verify actual **Daktari or other roster-legal medical/technical** categories. **Do not import Vanilla Shifta CoC** solely on faction relationship; current mission packet governs specialist permissions.
 
-[Cross-game apex and value specialist tier guide]("../"). The unit profiles/Fireteams above control exact legality.
+[Cross-game apex and value specialist tier guide](../../list-building/mission-specialists-and-button-pushers-apex-value.md). The unit profiles/Fireteams above control exact legality.
 
 ### N5.3 airborne / enemy-DZ profile and value choices (2026-10-23)
 
 **Initiated Observant ordinary Parachutist BSG19/0 or KHD22/0** is an economical side-entry gun/hacker threat; the **18pt Camo(1 use) Infiltration** versions are separate loadouts for predictable midfield positioning. **Meteor Zond19–21/0** has Combat Jump+FO/Sensor/Repeater, but best value is an enabled hacking network, not its own weak gun. **Prowler Hidden/Infiltration** creates a protected delayed attacker at higher cost. Do not import **Corregidor Hellcats or Bearcats** without Bakunin roster access. Enemy DZ direct edge arrival requires explicit DZ variation.
 
-[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers]("../"). **Use this roster and canonical Fireteam chart for exact legality.**
+[Cross-game N5.3 airborne/rear-strike apex-value and landing-risk tiers](../../list-building/airborne-and-enemy-dz-attackers-apex-value.md). **Use this roster and canonical Fireteam chart for exact legality.**
 
 ### Active-turn gunfighter cross-reference (2026-10-23)
 
-**Active-turn shooting choices:** **Riot Grrl Spitfire31/1.5** provides BS13/MSV1/2W **non-TAG** midrange pressure in a legal Fireteam; **Taskmaster HMG40/1.5** provides heavier 2W assault and useful escorts. **Lizard MULTI HMG64–65/1.5** is a separate **TAG** with ARM8/3STR and TacAware for sustained long-lane fights; its E/M Grenade Launcher is a target-specific disabling option rather than free damage. Choose a 30-point-class team gun when the rest of the saved TAG budget secures more useful attack/scoring angles. [Separate TAG/non-TAG ceiling and value]("../").
+**Active-turn shooting choices:** **Riot Grrl Spitfire31/1.5** provides BS13/MSV1/2W **non-TAG** midrange pressure in a legal Fireteam; **Taskmaster HMG40/1.5** provides heavier 2W assault and useful escorts. **Lizard MULTI HMG64–65/1.5** is a separate **TAG** with ARM8/3STR and TacAware for sustained long-lane fights; its E/M Grenade Launcher is a target-specific disabling option rather than free damage. Choose a 30-point-class team gun when the rest of the saved TAG budget secures more useful attack/scoring angles. [Separate TAG/non-TAG ceiling and value](../../list-building/active-turn-gunfighters-apex-and-value.md).
 
 ### Warbands and inexpensive trading roles — N5.3
 
 **Morlock Chain+Smoke+E/M CC6/0** has extreme pure trade value versus an exposed TAG/HI; **MetaChemistry/MA2/CC23** makes it threatening but does not guarantee contact. **Denma Connolly12/0** adds mobility, Berserk/AP+DA and Taskmaster legal-team context; use if independent reach matters. **Chimera/Pupnik** assault package requires controller/peripheral rules and actual current roster access; evaluate group Order/reaction rules rather than treating Pupnik as ordinary 5pt independent Regular model. **Vanilla Nomads Morlock AVA2** differs from Bakunin **AVA Total**. Preserve expensive Riot Grrls/Bakunin gun support for actual scoring.
 
-[Cross-game warband/cheap-trader apex and value tiers, targets and command packages]("../"). Profile-specific sectorial legality/Fireteams above control all selections.
+[Cross-game warband/cheap-trader apex and value tiers, targets and command packages](../../list-building/warbands-and-cheap-trading-units-apex-value.md). Profile-specific sectorial legality/Fireteams above control all selections.
 
 ### TAG tactical cross-reference (2026-10-23)
 
 **Lizard (60–65)** is the more conventional ARM8 Repeater/MULTI gun with useful E/M/GL variants; **Stigmata (56)** is unusually useful as a *hacking TAG* with Carbonite and heavy close/mid templates. They solve different problems: Lizard for ranged suppression and armor, Stigmata to exploit Bakunin's hacking net and contest dense objectives. **Podcast disagreement:** Lizard praised as practical top-tier value; Stigmata is not a straight gunfight replacement.
 
-Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide]("../"). Current profile and Fireteam legality above remain authoritative.
+Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
 
 ### Vehicle (VH) tactical cross-reference (2026-10-23)
 
 **Go-Pod AVA1:** **33/0 MULTI Rifle/E/Mitter+Go-Bot** is SWC efficient; **32/1.5 HRL+AP SMG** competes with Vostok/Lizard/Stigmata guns. Synchronized attack forks give an enormous mobility ceiling, but **ARM2/W2/Mimetism(-3)/S7/No Cover** make counter-fire lethal. **MetaChemistry #132 (Dec 2025)** reports regional auto-include enthusiasm versus a successful player omitting it partly due to model availability and **area-control missions**; Shepherd strongly emphasizes the low survival floor. Bring it as a late-game flanker with clear retreat.
 
-See [VH apex/value tier list and matchup guide]("../"). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
+See [VH apex/value tier list and matchup guide](../../list-building/vehicles-vh.md). **This sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative.**
 
 ### Hacker and KHD tactical cross-reference (2026-10-23)
 
 **Reverend Custodier HD+ (24–28/0.5)** adds **White Noise/Cybermask** and Mimetism(-6); its **HD/Carbonite(+1B) 26/0.5** is the more aggressive anti-heavy profile. **Rounder HD+Trinity 21/0.5** offers unusually cheap all-target hybrid control, and **Zero KHD 22/0 / Prowler KHD 30/0** defend the hacking net while scoring. **Uhahu HD 19/0.5** is economical if her Pitcher/role is sufficient; **Zoe & Π-Well** supplies engineer/remote network support at much higher total points. **Disagreement:** tournament Bakunin can succeed using CC/MSV area-control without committing to expensive Guided/KHD infrastructure. Start with useful mission specialists; add a cyber package only if Repeaters and target payoffs justify it.
 
-See the [cross-game apex/value Hacker/KHD tier guide]("../"). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+See the [cross-game apex/value Hacker/KHD tier guide](../../list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
 
 
 ### Cheerleader / Order-generation tactical cross-reference (2026-10-23)
 
-See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments]("../"). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
+See the N5.3 [cross-game apex/value rankings and transcript-backed competing assessments](../../list-building/cheerleaders-and-order-generators.md). The current roster and official Fireteam definitions above remain authoritative; unit access/cost may differ from vanilla.
 
 - 7pt Transductor — cheap Regular Repeater/Flash REM (not a dedicated gunfighter); its S3 footprint and AVA constrain spam.
 - 8pt Salyut — Baggage/Repeater Regular Order; reload support and deployment-zone density determine marginal value.
@@ -89,7 +89,7 @@ See the N5.3 [cross-game apex/value rankings and transcript-backed competing ass
 
 ### ARO apex/value cross-reference (2026-10-23)
 
-See [Best ARO Units — N5.3 apex and cost-value tiers]("../") for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
+See [Best ARO Units — N5.3 apex and cost-value tiers](../../list-building/aro-units-apex-and-value.md) for gunfighter vs hidden-trap vs cheap Order-tax comparisons, when each wins, transcript disagreements and counterplay. **The roster, prices/AVA and canonical Fireteam chart above remain authoritative**; a shared unit's permissions do not transfer between armies.
 
 - **Sin-Eater Neurocinetics** — reactive-dice specialist, excellent Mk12 zero-SWC midlane alternative to expensive MSR
 - **Riot Grrl ML** — 2W/MSV1/Combat Instinct, durable visored linked missile role; check exact allowed Fireteam
@@ -102,80 +102,80 @@ See [Best ARO Units — N5.3 apex and cost-value tiers]("../") for gunfighter vs
 
 **Value denial:** **Zero BSG Shock/PARA Minelayer 18/.5** is a Regular Camo/Infiltration speed bump; **Initiated Observant 18/0** starts an *infiltrated Deployable Repeater* with Minelayer and one-use Camo, best when allied hackers can exploit the node. **Counterpoint:** the Observant's starting Repeater is not a direct-damage Mine, and the Zero's 20/0 FO / 22/0 KHD are separate choices; too much static Camo control can leave too few gunfighters or scoring specialists.
 
-[Cross-game apex/value, matchups, and video/podcast disagreements]("../"). Qualitative tactics; the unit profile tables above remain authoritative.
+[Cross-game apex/value, matchups, and video/podcast disagreements](../../list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the unit profile tables above remain authoritative.
 
 ### Doctor / Engineer / Recovery cross-reference (2026-10-23)
 
-**Orphan Engineer** can supply Repeater/Fireteam utility and local **Lizard/REM** repair; a cheap **Zondbot** hub protects a long ARO route while the Orphan advances. **Reverend Healer/Avicenna** are stronger moving medical investments only when multiple valuable VITA models are actually recoverable. Do not buy a costly Doctor merely to attempt revival of 9–15pt disposable Moderators, and do not assume Orphan carrying Servant stays in a Fireteam. [Doctor/Engineer apex/value, odds and media disagreement]("../").
+**Orphan Engineer** can supply Repeater/Fireteam utility and local **Lizard/REM** repair; a cheap **Zondbot** hub protects a long ARO route while the Orphan advances. **Reverend Healer/Avicenna** are stronger moving medical investments only when multiple valuable VITA models are actually recoverable. Do not buy a costly Doctor merely to attempt revival of 9–15pt disposable Moderators, and do not assume Orphan carrying Servant stays in a Fireteam. [Doctor/Engineer apex/value, odds and media disagreement](../../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
-**Morlock6/0 E/M CCW + Smoke**, where rostered, is **anti-hackable armor trade**, not a premier raw MA5 assassin; a **Reverend/Morlock** screen lets expensive Bakunin firearms survive enemy CC approaches. Choose **templates, E/M, mines/Repeaters** against enemy CC monsters when a head-on engagement would cost more Orders than shooting. Any combat-ready Fireteam Engineer/Doctor is still principally a scoring/support model, not a dedicated mono killer. [Dedicated CC assassin apex/value, delivery and counter-CC]("../").
+**Morlock6/0 E/M CCW + Smoke**, where rostered, is **anti-hackable armor trade**, not a premier raw MA5 assassin; a **Reverend/Morlock** screen lets expensive Bakunin firearms survive enemy CC approaches. Choose **templates, E/M, mines/Repeaters** against enemy CC monsters when a head-on engagement would cost more Orders than shooting. Any combat-ready Fireteam Engineer/Doctor is still principally a scoring/support model, not a dedicated mono killer. [Dedicated CC assassin apex/value, delivery and counter-CC](../../list-building/dedicated-close-combat-assassins-apex-value.md).
 
 ### N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
 
 **Initiated Observant Deployable Repeater+Minelayer18/0**: Camo(1 use)/Infiltration starts an actual **forward Repeater token without an Order**. **Moderator Pitcher10/0**, BS10, benefits from a **legal** team to increase range reliability; **Uhahu HD+/Pitcher19/.5** and **Reverend Custodier HD+/Pitcher28/.5** are more capable individual cyber packages; **Tsyklon FTO26–29/1** adds native Repeater, X-Visor, 360º and better BS in a legal Wildcard team. **Meteor19/0** offers native Combat Jump network. **Opposing MetaChemistry winner:** no Guided launcher required; a single Pitcher isolated a critical enemy while melee/mission units did the rest. **Zero E/M Mine+Deployable Repeater20/0** has **no Minelayer** on that profile.
 
-[Cross-game apex/value guide, exact delivery cost and transcript disagreements]("../"). Profile and Fireteam tables above remain authoritative.
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../../list-building/network-projection-repeaters-pitchers-apex-value.md). Profile and Fireteam tables above remain authoritative.
 
 ### N5.3 rare abilities & unusual combinations — tactical synthesis
 
 **Chimera+3 Pupniks19/0** is exceptional cheap **Eclipse+Viral CC+NBW+Climbing+**, plus synchronized multi-angle assaults (not 4 Regular Orders). A 14pt Makaul in Tohaa provides different *Regular Triad* Eclipse value. **Puppetactica not in Bakunin by sibling access**; don't import Tunguska Puppet Master/Control special rules. **Zoe+Π-Well FTO45/.5** is a rare **Engineer+hacker with separate native-Repeater/FO/Sensor/linked Pitcher REM** when exact partner profile permits; the **42/.5** alternate changes Zoe gun, not necessarily a second ordinary Order or independent Π-Well purchase. **Opposing MetaChemistry winner:** minimalist hacking with powerful direct melee Bakunin successfully avoids Guided and expensive REM swarms; Chimera can still be vulnerable to mines/templates/anti-CC.
 
-[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts]("../"). Use current profile and Fireteam chart above.
+[Whole-game rare capability apex/value, rules, matchups and opposing MCP transcripts](../../list-building/rare-capabilities-and-unique-combinations-apex-value.md). Use current profile and Fireteam chart above.
 
 ### Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
 
-**Moderator9 Boarding Shotgun+E/M Carbine** is exceptional repeatable budget E/M control when close range can be reached; **TAG-Treiber Pilot10 E/Mitter** has a specific pilot/package context. **Marspider18 HFT(+1B)+Panzerfaust** threatens both B1 AP+EXP and approaching support, **Robin Hook20 E/Mitter/PARA** serves short-area denial; **Tsyklon Feuerbach29/1** is reusable long-range AP+DA. **Meteor Zond21 E/M Carbine** flank works only after legal airborne placement. Avoid treating ordinary Morlock CC as a reliable solo TAG execution. [Anti-TAG/HI non-hacking apex/value rankings]("../").
+**Moderator9 Boarding Shotgun+E/M Carbine** is exceptional repeatable budget E/M control when close range can be reached; **TAG-Treiber Pilot10 E/Mitter** has a specific pilot/package context. **Marspider18 HFT(+1B)+Panzerfaust** threatens both B1 AP+EXP and approaching support, **Robin Hook20 E/Mitter/PARA** serves short-area denial; **Tsyklon Feuerbach29/1** is reusable long-range AP+DA. **Meteor Zond21 E/M Carbine** flank works only after legal airborne placement. Avoid treating ordinary Morlock CC as a reliable solo TAG execution. [Anti-TAG/HI non-hacking apex/value rankings](../../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
 
 ### N5.3 objective holding, zone domination & carried-objective choices
 
 **Riot Grrl Specialist29/0** = **W2, MSV1, Combat Instinct, Dodge bonus**, legal Riot Grrl team; carries Supply Box while its linked Firewall/avicenna recovery layer screens engagement. **Taskmaster Red Fury39/1** ARM5/W2 Minelayer/CrazyKoala/TinBot offers a hard *zone guard*, not automatically Specialist. **Puppetactica isn't in Bakunin just because Tunguska/VNomads can field it**. **Chimera+3 Pupniks19/0** Eclipse makes box retrieval possible for *other Specialist*, but it is Impetuous and a swarm screen rather than final carrier. **Sin-Eater Mk12 25/0** Neurocinetics is cheap overwatch layer, yet doesn't physically prevent opponent Eclipse/DTW reaching objective; place mine/DTW closer to pickup square. **Opposing MetaChemistry:** CC and zone denial without Guided can win; avoid overpaying on static defensive castle instead of mobile Riot Grrl plus scoring support.
 
-[Whole-game objective holding/zone apex/value, scenario scoring and opposing media]("../"). Actual sectorial profiles and Fireteam chart remain authoritative.
+[Whole-game objective holding/zone apex/value, scenario scoring and opposing media](../../list-building/objective-holding-zone-domination-and-carriers-apex-value.md). Actual sectorial profiles and Fireteam chart remain authoritative.
 
 ### Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
 
 **Uhahu HD+19/.5** / **Reverend Custodier HD+** can project **White Noise** against enemy MSV/Marksmanship, but need real Hacking Area and a separate scoring/attacking model. **Orphan MSV2 MULTI MMR25/0** is an efficient linked *actual anti-Mimetism shot*, **Riot Grrl MSV1** checks ordinary smoke/−3 and **Chimera+3 Pupniks19 Eclipse** can bypass a visor entirely. **MetaChemistry Bakunin winner disagreement:** premium MSV AROs stop Smoke objective theft, but keeping **non-MSV Cenobites** prevents one enemy White Noise/Albedo trick from invalidating the entire defense. Buy both kinds of coverage only if they protect distinct lanes.
 
-[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints]("../").
+[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
 ### N5.3 peripheral / synchronized / multi-body apex-value update
 
 **19pt/0SWC Überfallkommando = Chimera + THREE Pupniks, included**, best cheap four-body physical assault and **Eclipse-assisted** extraction in Nomads; Chimera Viral/CC24/Climbing+ with fast DA Pupnik Spearhead. **Control**, so multiple models Move but Chimera + **one Spearhead** make target-requiring attacks—NOT 3 Pupnik CC attacks simultaneously. **Fiddler36/0 with one JackBot or43/0 with two** = *Synchronized* multiple target forks with Vulkan/Explode, but **Fiddler FTO29/0** in Riot Grrl team is a different option with no bots. **Doctor/Engineer + 3pt Zondbot** repairs/recoveries on separate flank, not extra attack piece. **TA Bakunin and MetaChemistry tournament winner disagree on use:** treat Chimera both as CC assassin **and Eclipse/screen that protects retrieved objective**; 19pt melee kill alone understates mission value, but massing every pup on one template lane can wipe the package.
 
-[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide]("../"). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../../list-building/peripheral-synchronized-multibody-apex-value.md). Source profiles, dependency and Fireteam tables above remain authoritative; media are opinions.
 
 ### Battle-report effectiveness and combinations (qualitative, 2026-11-01)
 
-**Observed effective alternatives:** Tournament winners used **Chimera/Pupnik Eclipse delivery + Orphans/Cenobites/Riot Grrls** to reach boxes and deny recovery, with enough **Uhahu/Custodier/Initiate hacker/repeater** coverage for tech and Classifieds. #163's winner explicitly **did not** rely on a maximal Guided/Gator build: his close-range specialists and Eclipse-delivered Chimera secured Provisioning boxes. #157 describes **Penitent Continuous Damage** and a fast flyer as table-dependent anti-ARO/extraction additions. [#157]("../") · [#163]("../").
+**Observed effective alternatives:** Tournament winners used **Chimera/Pupnik Eclipse delivery + Orphans/Cenobites/Riot Grrls** to reach boxes and deny recovery, with enough **Uhahu/Custodier/Initiate hacker/repeater** coverage for tech and Classifieds. #163's winner explicitly **did not** rely on a maximal Guided/Gator build: his close-range specialists and Eclipse-delivered Chimera secured Provisioning boxes. #157 describes **Penitent Continuous Damage** and a fast flyer as table-dependent anti-ARO/extraction additions. [#157](../../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#163](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
 
-**Fireteam and recovery:** #208 reports **Cenobite HRL + Penitent Red Fury + Orphan Engineer** and **Riot Grrl + Uhahu**, backed by mines/Zero/Initiate network, as a formidable Hardlock defense; OSS nonetheless took late consoles in the presented result. **That final's Order-count integrity is disputed; do not count it as clean win/loss evidence.** #217's **Stigmata + other TAGs, Morlock/Überfall distraction** won reported Mindwipe scoring, but its score is provisional and it exposes objective/hacker dependency. [#208]("../") · [#217]("../").
+**Fireteam and recovery:** #208 reports **Cenobite HRL + Penitent Red Fury + Orphan Engineer** and **Riot Grrl + Uhahu**, backed by mines/Zero/Initiate network, as a formidable Hardlock defense; OSS nonetheless took late consoles in the presented result. **That final's Order-count integrity is disputed; do not count it as clean win/loss evidence.** #217's **Stigmata + other TAGs, Morlock/Überfall distraction** won reported Mindwipe scoring, but its score is provisional and it exposes objective/hacker dependency. [#208](../../battle-reports/201-210-n5-battle-report-tactical-analysis.md) · [#217](../../battle-reports/211-220-n5-battle-report-tactical-analysis.md).
 
 **Selection principle:** A hacking network is good when it creates safe movements/objective contact, not just when it produces kills. Use scenario geometry to choose a TAG-focused or Chimera/Orphan specialist approach.
 
-[Cross-report synthesis and evidence cautions]("../").
+[Cross-report synthesis and evidence cautions](../../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
 
 ### Mission performance — battle-report evidence (2026-11-01)
 
 | Mission(s) | Tested composition / scoring mechanism | Evidence |
 |---|---|---|
-| **Provisioning / objective-carry and recovery denial** | Chimera/Pupnik Eclipse collected a box while mines/Suppression/CC interceptors denied enemy retrieval, with Riot Grrl/Uhahu a compact backup network. | [#163]("../") |
-| **Armory / close rooms** | Orphans/Cenobites/Chimera short-range attackers and a few useful Hackers/FOs; choose range-dependent list rather than only a maximum Guided package. | [#163]("../"), [#040]("../") |
-| **Hardlock** | Cenobite/Penitent/Orphan and Riot Grrl/Uhahu network looked durable but lost late consoles to OSS in a **disputed-Order** final. | [#208]("../") |
-| **Mindwipe** | Stigmata hacker + TAG support + Morlock/Überfall disruption attacked AI objectives against Tohaa, provisional 9–2. | [#217]("../") |
+| **Provisioning / objective-carry and recovery denial** | Chimera/Pupnik Eclipse collected a box while mines/Suppression/CC interceptors denied enemy retrieval, with Riot Grrl/Uhahu a compact backup network. | [#163](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Armory / close rooms** | Orphans/Cenobites/Chimera short-range attackers and a few useful Hackers/FOs; choose range-dependent list rather than only a maximum Guided package. | [#163](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md), [#040](../../battle-reports/031-040-n5-battle-report-tactical-analysis.md) |
+| **Hardlock** | Cenobite/Penitent/Orphan and Riot Grrl/Uhahu network looked durable but lost late consoles to OSS in a **disputed-Order** final. | [#208](../../battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Mindwipe** | Stigmata hacker + TAG support + Morlock/Überfall disruption attacked AI objectives against Tohaa, provisional 9–2. | [#217](../../battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
-**Limits:** #208 has severe unresolved Order-count allegations and #217's score is provisional. Do not treat those as independent robust win probabilities. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit]("../").
+**Limits:** #208 has severe unresolved Order-count allegations and #217's score is provisional. Do not treat those as independent robust win probabilities. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../../battle-reports/cross-report-mission-performance-by-sectorial.md).
 
 ### Counterplay — observed N5 battle-report responses (2026-11-02)
 
 | Threat / target | Observed response and limitation | Battle reports |
 |---|---|---|
-| **Vs premium gun/HI** | Initiate Repeater → Zoe Carbonite immobilized threatening WinterFor REM, enabling late Supplies majority; Custodier White Noise/Spotlight/Vertigo pressured Nisse/Uma. | [#194]("../"), [#098]("../") |
-| **Vs room gunline/expensive ARO** | Chimera+Pupnik Eclipse and CC/mines retrieved and retained Provisioning boxes behind Riot Grrl/Cenobite screens without maximal Guided package. | [#163]("../") |
-| **Counter-counterplay: late mission** | Asura/Proxies/Kyra crossed Bakunin mine+Repeater defenses for Hardlock consoles in #208 **Order-disputed final**; protect WIP task after deploying the static screen. | [#208]("../") |
+| **Vs premium gun/HI** | Initiate Repeater → Zoe Carbonite immobilized threatening WinterFor REM, enabling late Supplies majority; Custodier White Noise/Spotlight/Vertigo pressured Nisse/Uma. | [#194](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md), [#098](../../battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Vs room gunline/expensive ARO** | Chimera+Pupnik Eclipse and CC/mines retrieved and retained Provisioning boxes behind Riot Grrl/Cenobite screens without maximal Guided package. | [#163](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: late mission** | Asura/Proxies/Kyra crossed Bakunin mine+Repeater defenses for Hardlock consoles in #208 **Order-disputed final**; protect WIP task after deploying the static screen. | [#208](../../battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
 
-**Limit:** The #208 reported result's Order count is unresolved. Score effectiveness by preserved boxes/consoles rather than hacked kills alone. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis]("../").
+**Limit:** The #208 reported result's Order count is unresolved. Score effectiveness by preserved boxes/consoles rather than hacked kills alone. These are historical qualitative interactions, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
 
 ---
 
@@ -185,7 +185,7 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 
 **Original audit title:** Nomads — Vanilla, Corregidor, Bakunin, Tunguska: Must-have / Go-to / Avoid
 
-*Source-backed list-building audit — 23 October 2026. Applies to the canonical [Vanilla Nomads]("../"), [Corregidor]("../"), [Bakunin]("../"), and [Tunguska]("../") N5.3 rosters, pinned to the **3 September 2026 Army data**. These are named-player tactical opinions and tested constructions, **not measured global tournament pick rates**. Latest main's profile/AVA/Fireteam source controls over any 2024–2026 video. Full tactical companions: [Vanilla]("../"), [CJC]("../"), [Bakunin]("../"), [Tunguska]("../").*
+*Source-backed list-building audit — 23 October 2026. Applies to the canonical [Vanilla Nomads](../../../sectorials/nomads/nomads.md), [Corregidor](../../../sectorials/nomads/corregidor.md), [Bakunin](../../../sectorials/nomads/bakunin.md), and [Tunguska](../../../sectorials/nomads/tunguska.md) N5.3 rosters, pinned to the **3 September 2026 Army data**. These are named-player tactical opinions and tested constructions, **not measured global tournament pick rates**. Latest main's profile/AVA/Fireteam source controls over any 2024–2026 video. Full tactical companions: [Vanilla](../vanilla-nomads.md), [CJC](../corregidor.md), [Bakunin](../bakunin.md), [Tunguska](../tunguska.md).*
 
 #### Classification standard
 
@@ -282,7 +282,7 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 | **Generic Zellenkrieger8/0 bought for ordinary smoke/Chain Rifle/CC trading** | **Direct strongest *whole-model* warning — [Shepherd Bakunin](https://www.youtube.com/watch?v=firJVr1eDWg):** **Morlock6/0** typically fulfils cheap Smoke/template attack **for 2pt less**. Zellen has distinct Natural Born Warrior, PH and reroll MetaChemistry, and **FTO** brings legal Taskmaster/Riot synergy. **Extreme Zellenkrieger is a different unit.** | **Skip dedicated generic Zellen purchase by default / proxy first** if you already have Morlocks. Buy Zellen FTO/other variant for its **actual legal Fireteam matchup**, not to duplicate a Morlock. **Never transfer this skip to Tunguska**, where Morlocks are unavailable. |
 | **Moderator Spitfire15/.5 as a primary gun** | **Direct — Shepherd Bakunin** says **do not take the Spitfire** on BS10 fragile Moderator LI: **Riot Grrl, Vostok FTO, Penitent/Observance** bring stronger fire. **Moderator9 Order/FO and Pitcher10** are valuable in legal teams. | **Avoid *Spitfire profile* only** and **proxy a weapon sculpt** if a corner-case budget list wants it. **Do not skip Moderator models**. |
 | **Sin-Eater bought as a universal long-range defender** | **Contested — [Shepherd Bakunin](https://www.youtube.com/watch?v=firJVr1eDWg) calls it a specialized reactive luxury** that can be bypassed and contributes little on active turns. [Dante Bakunin](https://www.youtube.com/watch?v=DVOHynBsg6o) rates stronger N5 Neurocinetics ARO coverage. **Reaktion** is a cheaper active/recoverable alternative with different geometry. | **Proxy-test first** where the map has an **unavoidable long ARO lane**. A worthwhile first Sin-Eater on a compatible table; do not buy three simply to fill AVA3 or classify it dead. |
-| **Full Reverend Moira/Custodier/Healer team or additional elite Observance shooters simply because available** | **Cross-source dissent:** [Bakunin guide]("../") contrasts **Riot Grrl/Uhahu/TinBot**, **Moderator+Clockmaker+Vostok** and expensive Observance as *different* team styles. A single costly 1W Reverend gun team can be more fragile than the same point budget of Cenobites, Riot Grrls and Zeros. **Custodier Pitcher/KHD/HD+ are distinctive.** | **Proxy expensive second/third Reverend or Penitent/Custodier gun sculpts** until you establish one actual legal team; **do not skip needed first Custodier, Healer or Penitent simply because Riot links are popular**. |
+| **Full Reverend Moira/Custodier/Healer team or additional elite Observance shooters simply because available** | **Cross-source dissent:** [Bakunin guide](../bakunin.md) contrasts **Riot Grrl/Uhahu/TinBot**, **Moderator+Clockmaker+Vostok** and expensive Observance as *different* team styles. A single costly 1W Reverend gun team can be more fragile than the same point budget of Cenobites, Riot Grrls and Zeros. **Custodier Pitcher/KHD/HD+ are distinctive.** | **Proxy expensive second/third Reverend or Penitent/Custodier gun sculpts** until you establish one actual legal team; **do not skip needed first Custodier, Healer or Penitent simply because Riot links are popular**. |
 | **Mother Agatha or Daemonist as an unnecessary specialized named/religious command purchase** | **Inferred:** Agatha WIP14 Doctor(2W)/Mimetism(-6) acts as elite resilient recovery/CC, but 31pt is a lot versus Healer/Avicenna for simple healing. Daemonist Counterintelligence/Decoy is expensive as a mere safe LT when cheap orders and a mission Specialist matter more. | **Proxy first** unless the specialized **Doctor/control or command protection** is central. **Not speaker-supported Z-tier**; do not ignore their unique skills. |
 | **Robin Hook, Wolfgang, extra Denma or second short-range named combat figure in a saturated CC list** | **Low-confidence inference:** useful Drop Bear/E/Mitter/Transmutation, Smoke and melee/Fireteam abilities, but **Morlock/Chimera/Cenobite** already provide exceptional early violence. There may be little room for another attack-only body. | **Proxy extra specialty fighter** to test its *unique* role. **Robin’s BS11 is not a normal gunfighter reason to buy**. |
 | **Überfallkommando / second Chimera package** | **Very strong but physically specialized:** Chimera needs **three Pupniks**. Multiple packages can be genuinely dangerous, but every extra group costs multiple models and positional complexity; **Eclipse** cannot be replaced by ordinary Smoke for all visibility problems. | **Buy first if its proven Eclipse/multibody assault is central**; **proxy a second full squad** instead of buying all AVA3 for a casual collection. Do not field only Chimera with imaginary Pupniks. |
