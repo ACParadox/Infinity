@@ -64,6 +64,26 @@ The [pinned QK Fireteam chart](../../sectorials/haqqislam/qapu-khalqi.md#canonic
 - **Unconfirmed Odalisque attributes:** Discover (+6), Natural Born Warrior, Stealth and “MediKit PH15” are not verified on the pinned card.
 - **Sekban Doctor:** Doctor (+1), not Doctor (+3).
 
+## Battle-report-derived Qapu army lists and Fireteam ideas (N5; checked against N5.3)
+
+The [battle-report archive](../battle-reports/n5-battle-reports-and-tournament-reports.md) includes a five-round Qapu tournament recap and several filmed games. The examples below are **historical Fireteam observations and roster fragments, not points/SWC-validated N5.3 Army exports**. The [current Qapu chart](../../sectorials/haqqislam/qapu-khalqi.md#canonical-fireteam-chart) permits **one Core, two Harises and unlimited Duos**. Do not count an optional reforming as a second simultaneous Fireteam.
+
+### Observed combinations to test or adapt
+
+- **Djanbazan AP/Shock Sniper + Djanbazan HMG — two-person Qapu Duo.** Explicit in **both different lists** in [#006 Burn City Brawl](../battle-reports/001-010-n5-battle-report-tactical-analysis.md). The player discusses **adding Leila Sharif KHD for a Haris as an alternative**, not a third simultaneous formation. A compact MSV2 ranged base plus **Yuan Yuan smoke** is the key role; anti-MSV vision tools and Camo counterplay prevent assuming invulnerability.
+- **Azra'il AP HMG + Hafza Lieutenant + Laxmee — three-person Qapu Haris.** Explicit *mobile-scoring* list in [#006](../battle-reports/001-010-n5-battle-report-tactical-analysis.md). Azra'il meets the Qapu-family foundation and the other two use present-day **Hafza/Laxmee Wildcard** access. The player Holomasked Hafza as a heavier protector. This combines anti-armor shooting, Lieutenant concealment and projected hacking but is vulnerable if the hidden Lieutenant and hacker share the same blast lane.
+- **Kaplan HRL + Hafza Lieutenant + Laxmee — three-person Bekçileri Haris.** Explicit *B-Pong/Firefight* **substitution for the Azra'il Haris** in [#006](../battle-reports/001-010-n5-battle-report-tactical-analysis.md), not a team fielded simultaneously with it. Current Kaplan is a Bekçileri required-choice foundation. The alternate list includes **Iguana + Leila Sharif as an optional Zırhlı Duo**, not a proven link in all rounds.
+- **Janissary Missile Launcher + Laxmee — two-person Bekçileri Duo.** Explicit opening in [#025 Resilience Operations](../battle-reports/021-030-n5-battle-report-tactical-analysis.md). Janissary is eligible Bekçileri foundation; Laxmee is a Wildcard, combining ARO with hacking protection. That same filmed report calls **Odalisque Disco + Claire Lazhari + probable Rafiq** a Haris. **Do not copy the latter three names into a current Qapu Fireteam**: Claire lacks Qapu Fireteam membership or Wildcard access in the canonical chart, and Rafiq's third-member identity/profile is reconstructed rather than explicitly stated.
+- **Avoid triple-heavy attack with no mission Hacker as an all-comers baseline.** [#148 Area of Interest](../battle-reports/141-150-n5-battle-report-tactical-analysis.md) fielded **Scarface/Cordelia + Iguana + Shakush/Zabek-style** high-cost threats, but **no Hacker**, and lost **8–2** to Ōban's better button/specialist coverage. The speaker only suggested Scarface/Cordelia might Duo; no actually formed TAG Duo or three-TAG Haris was established.
+
+### Distinct army constructions from the reports
+
+- **#006 mobile scoring:** Djanbazan Duo + Azra'il/Hafza/Laxmee Haris, with **Samsa/Fiddler**, Al Hawwa FO, Bashi Bazouk, two Yuan Yuan and ranged support as **independent** mission assets. The player identified the scoring/courier roles, not the ranged Fireteams, as the packet's biggest build tax.
+- **#006 B-Pong/Firefight:** Djanbazan Duo + **Kaplan/Hafza/Laxmee Haris** with **Iguana and Engineer/Nasmat/baggage support**. This is a **second list**, not all units in the mobile-scoring list plus more TAGs.
+- **#025 Res Ops:** Janissary/Laxmee Duo + separate Yuan Yuan Smoke routes. **Noctifer hidden ARO and an Albedo flyer** punished reliance on one visible firing lane; the game discussed edition-specific **Shasvastii Embryo zone scoring**, which should not be treated as a universal ITS18 interaction.
+
+**Evidence safeguards:** [#031](../battle-reports/031-040-n5-battle-report-tactical-analysis.md) repeats [#006](../battle-reports/001-010-n5-battle-report-tactical-analysis.md), so is **not independent evidence**. The September 2025 Burn City Brawl used **N5.1.1/ITS16.5**, and the narrator acknowledged an HVT-placement mistake in one Capture & Protect round. Today, start with **one specialist/courier route, one guarded hacker and only the Fireteam guns the mission needs**.
+
 ## Core identity
 
 Qapu Khalqi (QK) is best approached as a **deception / asymmetric toolbox sectorial** that uses inexpensive regular infrastructure, Hafza identity games, compact mixed Fireteams, mobile specialists, mercenary attack vectors, and one or two substantial gunfighters.
