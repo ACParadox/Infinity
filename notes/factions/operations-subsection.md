@@ -125,3 +125,261 @@ Supporting but obsolete: [Robert Shepherd N4 OSS faction focus](https://www.yout
 ## N5.3 Posthuman / remote-body value (23 October 2026)
 
 **Posthumans Mk.1 Engineer13 + Mk.5 FO13 = 26/.5** covers two independent locations with **one shared Regular Order**, not two simultaneous attacks. A third **Mk.4 HMG30/1.5** creates a pre-positioned combat alternative at **56/2**, but only one reacting Proxy makes an unrestricted ARO against the same enemy Order. **Pilot-X23/.5 + one RacerBot8 =31/.5 / two =39/.5** gives fast area-control bodies, not standalone 8pt Order generators. Tactical Awareness favors the flexible cheap-specialist architecture; the counterargument is that losing a particular Proxy still removes that function and a broader list can buy more genuine Regular Orders. See [global Peripheral apex/value tiers](../list-building/peripheral-synchronized-multibody-apex-value.md).
+
+---
+
+## N5.3 tactical cross-references, battle reports and collection audit
+
+The sections below were moved from the [Operations Subsection authoritative Army reference](../../sectorials/aleph/operations-subsection.md) to keep source rosters, profile data, Fireteam legality, provenance, and validation separate from tactical judgments. The linked reference is the authority on rules and profiles; analysis and purchasing advice here may be provisional or contested.
+
+### Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
+
+**Mission benchmark:** **Posthuman Mk.1 Doctor/Engineer 13, Mk.5 FO13/.5** give G:Jumper slot-efficient task coverage; don't treat them as two independent Orders. **Dasyu FO29/Naga FO25** are Camo scoring; **Deva KHD20/FO21** WIP15 NWI, **Artalis Doctor/Engineer23** is NCO frontline support, **Riksha FO20**, **Daleth FO15/TA18** provides cheap mobile sensor/button work. **Asura HD+** combines gun/hacker/score but can starve independent routes. Source MAX-OP requirements still govern linked scoring.
+
+[Cross-game specialist and button-pusher tiers](../list-building/mission-specialists-and-button-pushers-apex-value.md). **The linked authoritative roster and Fireteam chart govern legality.**
+
+### Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn shooting choices:** **Posthuman Mk.4 HMG30/1.5** is an extraordinary BS14/ARM5/2W **non-TAG** gun only inside its required **2–3 Proxy G:Jumper package**; Mk.1 Engineer can make the package useful even if the HMG fails. **Asura AP Spitfire61/1.5** wins anti-armor/Mimetism mids, while **HD+ MULTI MMR63/0.5** is a different hack/mission build; **Marut86/1.5** is the much more expensive **TAG** long-lane MSV2 solution. **A 2026 OSS podcast disagreement:** Asura revision raised practical floor, some say reduced ceiling; Mk.4 remains an efficient purchased package. [Gunfighter combat tiers, TAG separated](../list-building/active-turn-gunfighters-apex-and-value.md).
+
+### TAG tactical cross-reference (2026-10-23)
+
+**Marut** is the premier MSV2 big gun, with an optional Strategos LT price/risk tradeoff. **Maximus TAG** is a tougher close-range/CC answer but gives up Marut's visor/long-range efficiency. Both fill high-priced required-choice slots in their permitted MAX-OP team; check canonical members and do not infer extra legal links from name alone. OSS's REM/specialist support can justify either without replacing the objective plan.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../list-building/tags.md). The linked authoritative unit profiles and Fireteam chart take precedence over tactical opinions.
+
+### Vehicle (VH) tactical cross-reference (2026-10-23)
+
+**Tarkshya AVA1:** **34/0 MULTI MMR+Chain Rifle(+1B)** gives OSS exceptional low-SWC **MSV1/Mimetism(-6) aerial angle creation** and retains a strong **post-shell FO(+1SD) Operator** after the correct transition. **38/0 MMR+AP SMG** covers close armor, **41/1.5 MULTI Red Fury** takes valuable SWC. The **Garuda is a REM**, not a VH (despite aerial-style movement), and RacerBots are REMs. The **2025 global VH ranking predates Tarkshya**; high tier is provisional, based on the pinned current roster and OSS tactical note.
+
+See [VH apex/value tier list and matchup guide](../list-building/vehicles-vh.md). **The linked authoritative profiles, AVA and Fireteam chart remain authoritative.**
+
+### Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Asura HD+ + Trinity(+1SD) 63/0.5** (or **LT(+1 Order) 67/0** where printed) is an apex **WIP15, ARM5/NWI, MSV3** active and reactive cyber duelist with White Noise. **Danavas HD+ + Oblivion(+1B) 22/0.5** is superior *cost value* for stationary network/visors. **Apsaras KHD + Firewall(-3)/Deployable Repeater 17/0**, optional TAGCom18 or RemDriver20, is a highly efficient defensive/specialist hybrid; **Deva KHD 20/0**, **Satrah KHD 20/0** and **Naga KHD27/0** provide different cover/mission plans. **Shakti KHD 35/0** brings a real gun and survival at higher cost. An **Asura / Danavas / Apsaras** combination covers anti-HI, White Noise and Trinity with redundancy; the expensive Asura is not automatically best value.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../list-building/hackers-and-killer-hackers.md). **The linked authoritative profiles, AVA and Fireteam chart remain authoritative; device upgrades are profile-specific.**
+
+
+### Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../list-building/cheerleaders-and-order-generators.md). The linked authoritative roster profiles, AVA and Fireteam legality take precedence.
+
+- **6pt Netrod**: cheapest Regular pool Order where roster-legal, but its mandatory deployment and stationary non-combat body are a risk
+- **Authorized Bounty Hunter**: choose cheap Regular profiles for Booty and a close-range threat; do not assume all Bounty Hunter variants have the same price or link access
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+### ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Zayin Thunderbolt TR** — 19pt/0SWC reactive volume and regular Order; protected Engineer/Yudbot route makes defeating it a repeat job
+- **Riksha HRL** — 20pt/1.5SWC launcher, inexpensive but limited durability; Fireteam source permissions control bonus dice
+- **Samekh FTO ML** — linked launcher only when the canonical chart permits this precise profile; Guided version is not automatically a linked ARO
+- **Dikpala Mimetism Repeater/akrylat** — backstop/Fireteam troop with reactive control and support, not a generic passive TR piece
+- **Posthuman/Proxy screen** — distributed positions and cheap Engineer recovery can outvalue a single static sniper; remember G: Jumper ARO restrictions
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+### N5.3 midfield area denial / speed bumps (tactical synthesis)
+
+**Highest-threat passive mines:** **Dasyu 30/.5 Viral Minelayer (2)** combines Hidden/Infiltration(ReRoll)/Mimetism(-6), but Viral is matchup-sensitive and Hidden loses its Order. **Naga 26/.5 Monofilament Minelayer** punishes elite passage (25/.5 Shock is cheaper for ordinary troops); **Kinnara 25/.5** adds E/M Mine/Decoy(2)/Sensor; **Yaksha 25/.5** brings FD(+20) ARM4 MadTraps plus E/M Carbine. **Disagreement:** durable Yaksha vs cheaper RacerBots/Pilot-X or Naga/Dasyu/Dart—buy the body only when its defensive position and weapon reach actually add value. **Yaksha 23/0 Mine Dispenser is not a zero-Order Minelayer**.
+
+[Cross-game apex/value, matchups, and video/podcast disagreements](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Qualitative tactics; the authoritative sectorial profile tables remain authoritative.
+
+### Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Sophotect25 WIP15 + Yudbot3** is excellent mixed **Posthuman/REM + Asura** recovery: 75% first-roll WIP and fast 15-10 reposition. **Parvati36** earns its higher price when **Doctor(2W), advanced Engineer and mobility** all matter. **Proxy Mk.1 Engineer** adds repair and objective capability *inside the paid legal 2–3 Proxy/G:Jumper package*, not a standalone extra Order. [Recovery support tiers, probabilities and transcript disputes](../list-building/doctors-engineers-and-recovery-apex-value.md).
+
+### Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Andromeda30 Guard + Infiltration + MA3 + D-Charges** (if selected in this OSS roster) is the distinctly offensive CC-on-approach threat that can swing a console/room; unlike normal melee, she only needs **LoF + ZoC**. **Posthuman Mk.2** is a hidden gun/mission skirmisher, not automatically the same as a true MA4/Monofilament executioner; count legal Proxy package first. Choose visible guns and specialist route over an expensive melee race when no safe arrival can be identified. [Cross-game CC assassin apex/value, Guard and delivery disputes](../list-building/dedicated-close-combat-assassins-apex-value.md).
+
+### N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Danavas HD+22/.5** projects White Noise/Oblivion through **BS11 Pitcher**, whereas **Pilot-X HD23/.5 + RacerBots Mk-III 8/0 each** rush into enemy space at MOV20-10 and place Deployable Repeaters; **31/.5 minimum**, not an independent 8pt model. **Naga FO25/0 or HD29/.5** physically places Repeaters from Infiltration, **Dasyu FO29/0** from Hidden/Infiltration; **Arjuna KiranBot** provides native Repeater or Deployable Repeater on selected synchronized bot. **Opposing TA OSS hosts** disagree whether Danavas 22pt is indispensable or the cheap bots offer more reliable network and turn-after utility. **Optimate Maximus FTO45/1 TinBot(Repeater)** can extend a legal Fireteam network, but is not an efficient *pure* network purchase. Use actual separate profile/FT option.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../list-building/network-projection-repeaters-pitchers-apex-value.md). The linked authoritative profile and Fireteam tables remain authoritative.
+
+### N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Posthumans G:Jumper** are not a linked team: choose 2–3 (Mk.1 Engineer/Doctor13/0, Mk.5 FO13/.5, Mk.2 hacker22/.5, Mk.4 HRL26/1.5 or HMG30/1.5) sharing **one Order**; enemy can force only one fully effective Proxy ARO in a single Order. **Apsaras KHD+Deployable Repeater+RemDriver20/0** supplies a free **one-REM buff** while safe; **Pilot-X23/.5 + 8pt RacerBot(s)** gives RemDriver/Hacker plus 20-10 autonomous-looking *team-dependent* delivery bots (not independent 8pt roster picks). **Kinnara24/0 Parachutist+Eclipse+Monofilament+Sensor/Decoy**, **Satrah24/0 MSV2+Albedo or KHD20/0**, and **Tarkshya34/0 MSV1+Mimetism(-6)+surviving FO Operator** address completely different threats. **Opposing TA 2026:** cheap posthuman specialist value widely praised; costly cockpit/REM and Kinnara purchases need exact task; don't treat Tarkshya as **Albedo** (it is Mimetism).
+
+[Cross-faction rare abilities apex/value, mechanics, and MCP source debates](../list-building/rare-capabilities-and-unique-combinations-apex-value.md). The linked roster and Fireteam profile tables are authoritative.
+
+### Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**Thorakitai12 E/Mitter** (when legal exact profile), **K2 Auxiliary11 E/Marat**, **Artalis23 K1 Combi+Engineer**, **Kinnara24 Eclipse+Monofilament Parachutist /25 infiltrating E/M Mine+Mono**, and **Naga26 Monofilament Minelayer** offer layered anti-TAG control. **Johnny Kao36 Monofilament Mine** adds high-cost engineering and forward denial, not automatic instant TAG death. The very cheap E/M weapons have better points ratio; Kinnara's legal arrival/ROUTE is crucial before Mono contact. [Non-hacking anti-TAG/HI apex/value and target matchups](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+### Tactical cross-reference — indirect fire (2026-10-23)
+
+**Profile difference (critical):** **Samekh non-FTO Guided Missile16/1.5** converts Danavas/Asura/Pilot-X/RacerBots/Daleth target marking into off-angle threat; **Samekh FTO Missile+Flash15/1.5** is a **separate non-Guided** Fireteam gun. Do not merge their equipment or claim a +1 Special Die for a non-FTO Guided platform. Asura/Marut may be better consuming Orders in active shooting if Targeted setup is contested. [Indirect fire guide, media debate](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+### N5.3 objective holding, zone domination & carried-objective choices
+
+**Posthuman G:Jumper Mk.1 Engineer13/0 + Mk.5 FO13/.5 =26/.5** excels **distributed scoring positions but one Regular Order**, each Proxy's cost attributable separately by mission VP rules, and only one unrestricted ARO per enemy Order. **Asura HD+63/.5** W2+NWI/ARM5/MSV3 gives hard central box holder with anti-hacker; **Yadu FO27/0** NWI/Warhorse/Albedo(-6) is cheaper and linked where chart permits. **Marut86/1.5** and **Maximus TAG80/1** can flip a quadrant after your Specialists solve console/box; neither automatically picks up normal Supply Boxes. **Opposing TA 2026:** high damage/survival elite vs enough 13pt specialist redundancy; protect actual carrier after first turn.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md). The linked authoritative roster and Fireteam chart take precedence over tactical comparisons.
+
+### Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Asura HD+63/.5 MSV3+White Noise** has the largest single-soldier anti-tech ceiling, but **Danavas HD+22/.5 Pitcher+White Noise** supplies the specific anti-MSV screen at much lower cost if a real Repeater is already forward. **Satrah KHD20/0 or MSV2 gun24/0** carries Albedo for visors while seeing through Mimetism; **Deva21/0 Sensor+Triangulated Fire** is a cheap marker-finding specialist alternative. **Forward Kinnara Sensor** can reach Hidden/Camo clusters, whereas **Marut MSV2** wins actual ranged fights. **Disagreement (Tactical Awareness OSS):** 22pt White Noise is excellent *against visors/Marksmanship* and an overbuy against ordinary defenders; count Pitcher travel and remaining Orders.
+
+[Anti-Tech N5.3 apex/value tiers, matchup rules and opposing MCP viewpoints](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+### Force multipliers — N5.3 role/value cross-reference (2026-10-23)
+
+**Apsaras TAGCom18/0** carries KHD+Deployable Repeater and grants **TAG Dodge PH+3 and GizmoKit PH+1** in the **same Combat Group** (Marut/Maximus); 17pt KHD is cheaper without TAG. **Probot8/0 Baggage versus14/.5 EVO** supports repeaters/reloading or genuine Assisted Fire/Enhanced Reaction/Controlled Jump: native EVO is **not** a normal Spotlight HD. **Shukra CoC21/0 Counterintel / LT24 Strategos1** are distinct profiles. **Maximus FTO45/1 TinBot(Repeater)** propagates only within legal Fireteam; doesn't itself mean Firewall. [Role/value and debate](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+### N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Posthumans G:Jumper** buy **2–3 differently specialized Proxies, one Regular Order/Trooper slot**; cheap **Mk.1 Engineer13+Mk.5 FO13 =26/.5** with alternate physical positions, not a two-origin synchronized gunfork. A third **Mk.4 HMG30/1.5** gives **56/2** and reactive AP-resistant heavy body; opponent can force 2 Proxies to ARO in same enemy Order—only one gets normal ARO, others Dodge/Reset. **Pilot-X23/.5 + 0–2 RacerBots Mk-III8/0 each** is **31/.5 one /39/.5 two**, same group; their 20-10 movement and PARA/Repeater area denial only cheap **marginally**, not as stand-alone 8pt cheerleaders. **Apsaras20/0 RemDriver** helps ONE eligible REM persistently at deployment; **Apsaras17/0 KHD** and **18/0 TAGCom** distinct choices. **TA/Shepherd:** sell as spatial optionality and rem buffs; do not silently count extra Orders or AVA from Vanilla.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../list-building/peripheral-synchronized-multibody-apex-value.md). The linked authoritative profiles, dependency and Fireteam tables remain authoritative; media are opinions.
+
+### Battle-report effectiveness and combinations (qualitative, 2026-11-01)
+
+**Repeatable winning structure:** **Asura Lieutenant/Hacker** is an elite attack/network node, but **Posthuman Mk2/Mk4 and mobile specialists** (Dart, Kaira/Kyra Sharma) are essential for parallel objectives. #154's OSS tournament winner chose Asura + Posthumans + Dart; #208's presented final credits preserved **Posthuman + Kyra** console actions after Asura fixed enemy attention. **#208 has contested Order-count integrity and is not clean statistical proof.** [#154](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [#208](../battle-reports/201-210-n5-battle-report-tactical-analysis.md).
+
+**Alternative tools:** #001, #074 and #079 show **Dikpala/Racerbots + Engineer/Shukra** as mobile long-gun, hacking and button support. #205's losing ALEPH list concentrated **Maximus/Penny** investment while its specialists and second group could not complete Provisioning; expensive elite weapons did not fix a blocked cargo route.
+
+**Build constraint:** Do not buy/field every expensive hero at once: preserve genuine classified/FO/Engineer/Doctor coverage and final-turn Orders. Check current profiles rather than assuming game-era Asura/Proxy options.
+
+[Cross-report synthesis and evidence cautions](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+### Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Evacuation / Last Launch / Classified-heavy packets** | Asura Lt/Hacker + Posthumans Mk2/Mk4 + Dart or Kaira/Optimates provided multiple specialist routes in a five-round winning event. | [#154](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) |
+| **Hardlock** | Asura absorbed attention while Proxy and Kyra/Kaira flipped late consoles. Tactical sequence documented, but final #208 Order counts are disputed. | [#208](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Supremacy** | Marut + Asura + Dasyu/Deva and Parvati/REM support drew 4–4 with Tunguska by preserving scoring weight. | [#213](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** #146 Neutralization illustrates high kill count with insufficient Orders for the required pick-up/delivery. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+### Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Counter mines and Camo** | Asura's MSV3 engaged a camouflaged mine; Proxy and Kyra/Kaira remained independent console workers. #208 final contains serious Order-count disputes. | [#208](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) |
+| **Hacking and denial** | Asura Hacker/Proxies/Danavas can threaten heavy opponent while Dart/Shukra/Racerbots pursue scoring; preserve multiple profiles versus Midfield anti-hacker traps. | [#154](../battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#079](../battle-reports/071-080-n5-battle-report-tactical-analysis.md) |
+| **Counterexample: over-fighting** | OSS removed more PanO pieces in Neutralization but lacked time to move/neutralize the objective; #237 Scout E/M trapped Marut after poorly defended deployment (concession and rules caveat). | [#146](../battle-reports/141-150-n5-battle-report-tactical-analysis.md), [#237](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** The anti-Camo mechanism is documented even though #208 is not clean win-rate evidence. N5.3 skill and profile versions control. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+### Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated media-backed tactical judgments and miniature purchasing advice. These are qualitative opinions, **not roster/profile/Fireteam authority**; use the canonical N5.3 data above for legality.
+
+**Original audit title:** ALEPH N5.3 — Must-have / Go-to / Avoid (YouTube and podcast evidence)
+
+**Audit:** 23 October 2026. **Armies:** [Vanilla ALEPH](../../sectorials/aleph/aleph.md), [Operations Subsection (OSS)](../../sectorials/aleph/operations-subsection.md), and [Steel Phalanx](../../sectorials/aleph/steel-phalanx.md). Current legality, profile, points, SWC, and Fireteams come from pinned **N5.3 / Army 7.26246.159 (3 September 2026)**, not video captions. Cross-check the detailed [Vanilla guide](../factions/vanilla-aleph.md), [OSS guide](../factions/operations-subsection.md), and [Steel guide](../factions/steel-phalanx.md). Podcast and YouTube statements are **players' assessments**, not measured inclusion rates.
+
+**Method:** Independently retrieved via MCP the [June 2026 Robert Shepherd/Jordan faction-tier transcript](https://www.youtube.com/watch?v=1dW3i9dpI34), [Tactical Awareness S3 E44 OSS YouTube](https://www.youtube.com/watch?v=Jh4jVsFoHN4) and [podcast transcript](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG), [Tactical Awareness Owen's Adepticon Vanilla ALEPH interview](https://open.spotify.com/episode/0YhA9K7K2xJkiCzqI7PcbV), [MetaChemistry OSS first impressions](https://open.spotify.com/episode/5ynZcV8kOHiVfemyiaOLak), [WIP12 OrderMonkey OSS](https://open.spotify.com/episode/1lx8buKkqrLgCwZB6CaSLZ), [CNN Steel Phalanx N5 deep dive](https://www.youtube.com/watch?v=6RBi4U3t-WQ), and [Robert Shepherd Steel Phalanx N4 focus](https://www.youtube.com/watch?v=764JXbnQ3jQ). The [Yellow Snake/RXron Oct 2025 Steel episode](https://www.youtube.com/watch?v=DcCXt508-CU) **failed direct YouTube transcript retrieval in this audit**; its published example lists and prior guide's notes can corroborate, but are *not* independently transcript-confirmed here. Earlier N4 material describes enduring play patterns only.
+
+**Labels:** **Must / near-must** means a speaker calls it almost automatic or it recurs as a backbone across distinct builds; a strategically coherent omission is still possible. **Go-to** means widely useful, not “take every row.” **Avoid** means a *particular build, profile, or use* is directly criticized by a presenter or defeated by a current rules/profile check. **No confirmed never-take** is better than inventing a dominated whole unit. All three armies need Orders, meaningful attacks, and specialists; not necessarily the same named purchase.
+
+#### At a glance
+
+| Roster | Most defensible near-must | General go-to purchases | Source-supported avoidance |
+|---|---|---|---|
+| **Vanilla ALEPH** | **Posthumans Mk1 Engineer13 + Mk4 HMG30**; 6pt Netrod / 7pt Lamedh cheap-order base; **Apsaras LT20** *when not using a premium LT architecture* | Pilot-X23 + RacerBots8, Tarkshya34/41, Myrmidon Smoke16, Penthesilea28, Marut86/90, Danavas22, Naga FO25, Zayin19 | No universally condemned current unit. Do not pay for vanilla **FTO** solely expecting a Fireteam. Old Dakini recommendations are illegal. |
+| **OSS / OperationS** | **Posthumans Mk1 + Mk4**; **Pilot-X + RacerBots** is the clearest *explicit “auto-include” opinion*; cheap Lamedh/Netrod infrastructure | Sharvara15, Dikpala13, Apsaras LT20/TAGCom18, Tarkshya34/41, Asura HD+63/67, Zayin19/24, Riksha20/24, Artalis23, Naga25–29 | **Naga MULTI Sniper29** is *criticized* against Dasyu34 in the May 2026 podcast but **not strictly dominated** after checking full N5.3 profiles; **Samekh FTO** is **not Guided**. No defensible blanket never-take. |
+| **Steel Phalanx** | **Netrods6 / Lamedh7** cheap-order shell; **Myrmidon Officer** near-default *when Eclipse/CoC is needed*. **No individual hero** qualifies as universal. | Ajax FTO39, Phoenix, Machaon, Agamemnon63/65, Thorakitai FO13, Dactyl19–20/Acmon, Agêma ML/Atalanta, Scylla32, Eudoros | Avoid **redundant expensive hero bricks** or an unsupported **Scylla FTO** profile taken for its link label; no verified current universally bad whole unit. |
+
+#### 2. Operations Subsection (OSS)
+
+##### Must / near-must
+
+| Choice | Why; exceptions | Direct recording |
+|---|---|---|
+| **Posthumans Mk1 Engineer13 + Mk4 HMG30** | Same extraordinary one-slot utility/combat package as Vanilla, with even more repairable OSS REM synergy and options for Mk5 FO13 or Mk2 hacker22. Shepherd/Jordan call Mk4's output for 30 points exceptional and defend the 2–3 Proxy structure emphatically. The third Proxy is optional: Jordan sometimes uses only two to buy Naga/Dart/more specialists. | [Shepherd/Jordan 2026 ~3:18–3:28](https://www.youtube.com/watch?v=1dW3i9dpI34); [TA S3 E44 ~29–31m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) |
+| **Pilot-X23/.5 + optional RacerBots8** | **Explicit opinion:** TA S3 E44 ~24m says Pilot-X looks like an **auto-include in every list** because of cheap orders, fast repeater delivery and useful hacker/RemDriver package. Later at ~98m says it will appear constantly. **Qualification:** full trio costs 39/.5 and is especially fragile if opponent can exploit forward repeaters; do not convert one host's expectation to observed 100% tournament usage. | [TA S3 E44, podcast transcript ~24m and ~98m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) |
+| **6pt Netrod, 7pt Lamedh and/or 8pt Baggage Probot shell** | Highly efficient Regular orders, Flash Pulse/Repeater, Warhorse and refill. It is the *role* that approaches mandatory; proportions vary with Apsaras/RemDriver and other support demands. | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34); [TA S3 E44](https://www.youtube.com/watch?v=Jh4jVsFoHN4) |
+
+##### Go-to
+
+| Unit/profile | Why, and limits | Evidence |
+|---|---|---|
+| **Sharvara15/0 adhesive/riotstopper/E/Marat** | **Closest additional near-must.** TA S3 E44 ~73–77m calls the 15pt model extremely strong and says the cheaper profile is the one to bring; another speaker explicitly agrees it will appear constantly. Forward deployment, Super-Jump, Stealth, Mimetism and several disabling templates force difficult close-range decisions. Shotgun17/19 if lethal damage matters. **Some FT allies reduce its movement advantage**, so not literally every list. | [TA S3 E44 ~75m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG); [Shepherd/Jordan](https://www.youtube.com/watch?v=1dW3i9dpI34) |
+| **Dikpala13 repeater / Deva20 KHD or 21 Sensor** | Current inexpensive OperationS-team seeds and specialist/network support replacing outdated Dakini architecture. Repeater can also expose your own hackable swarm. Never assume any arbitrary unit can join the Fireteam; use canonical chart. | [TA S3 E44 first 12m](https://www.youtube.com/watch?v=Jh4jVsFoHN4); [OSS research guide](../factions/operations-subsection.md) |
+| **Apsaras LT20, RemDriver20/0, TAGCom18** | LT frees budget for an actual scorer/gun; RemDriver/repairable Zayin gives sustained reactive coverage; TAGCom boosts Marut/Maximus dodge/recovery. Select by *job*, not three unneeded support profiles. | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34); [TA S3 E44 ~12–15m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) |
+| **Tarkshya34/0 or 41/1.5; Zayin TR19/0 or 24/1** | Tarkshya solves otherwise inaccessible angles; an assisted BS13 Zayin makes a repairable ARO tax. Neither should become the whole list, and hacking/no-cover weaknesses remain. | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34) |
+| **Asura HD+63/.5 or LT67/0 + Yadu NCO** | Elite WIP15 hacking/MSV3 provides a different answer to opposing networks and feeds a Yadu gun with LT orders. **Contested:** LoL prefers HD+ strategic versatility; Shepherd notes hacker Asura can bounce off BTS6/Firewall and values AP-Spitfire61/1.5 as alternative anti-armor output. Do not turn a *viable architecture* into a compulsory 67pt tax. | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34); [Loss of Lieutenant E168](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d) |
+| **Riksha HRL20/1.5 + Artalis Engineer23; Rudra K1 35/0; Naga FO25/Minelayer26** | Very reliable specialist, cheap responsive ARO/repair, anti-armor fire and midfield threat options. Take the *correct* subset: too many REM bases and SWC guns impede hiding and scoring. | [TA S3 E44](https://www.youtube.com/watch?v=Jh4jVsFoHN4); [OSS guide](../factions/operations-subsection.md) |
+| **Claire Lazhari, Maximus TAG, Marut** | High-end support/attack structures supported by MAX-OP/Optimates team choices; choose one capital investment and enough mission infrastructure rather than stacking all named characters. TA especially praises Claire's varied support/disco-ball contribution. | [TA S3 E44 ~18–23m, ~40–70m, ~98m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) |
+
+##### “Never take” audit
+
+- **Naga MULTI Sniper29/1.5 versus Dasyu MULTI Sniper34/1.5 — disputed recommendation, not a hard veto.** TA S3 E44 ~90m says the Naga sniper seems an inferior Dasyu for only five points saved, favoring Dasyu's Hidden Deployment, BS13 and Mimetism(-6). **Important current-profile counterpoint:** Naga sniper has **BS Attack (+1SD)** and is cheaper, while pinned Dasyu sniper does **not** carry that exact bonus; they are **not strictly profile-identical/dominated**. Naga can still be the preferred budget/Special Die long-range attack. Source [TA ~90m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG); current [Naga/Dasyu reference](../../sectorials/aleph/operations-subsection.md).
+- **Samekh FTO15/1.5 is not the Guided Samekh16/1.5.** If the plan requires Spotlight → Guided, **avoid FTO**; if the goal is link-compatible missile ARO, the FTO is still legitimate. This is an Army-profile trap, **not a commentator's universal “never take.”**
+- **Avoid presenting 2025 Dakini/Dakini fireteams as current OSS:** they were removed in May 2026 and do not appear in the September reference. [Official May 2026 Army update](https://infinityuniverse.com/en/news/army-update-mazebreaker).
+- **No credible universal OSS whole-unit never-take established**. Yaksha versus cheaper Pilot-X/Naga/Dasyu area-denial is disputed, not definitively outclassed.
+
+#### Cross-army takeaways
+
+1. **The least debatable generic ALEPH value is Posthumans where available, cheap Regular Order infrastructure, and a repair/network plan.** Steel Phalanx substitutes its compact, complementary Myrmidon/Thorakitai architecture for the OSS/Vanilla Posthuman engine.
+2. **Most credible explicit “auto-include” claims in retrieved *modern* media:** Pilot-X in the May 2026 [Tactical Awareness OSS episode](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG); **15pt Sharvara** is emphatically favored around 75m; the June [Shepherd/Jordan](https://www.youtube.com/watch?v=1dW3i9dpI34) review calls Posthumans extraordinary but *does not establish literal 100% tournament usage*.
+3. **Profile-specific versus unit-level “never”:** A bad support purchase (EVO without targets, FTO without a legal/useful link, expensive hacker redundant with an Asura, Guided missile without Spotlight), or a duplicate gun, **does not prove the parent unit is universally bad**. Preserve disagreement, especially the Naga sniper/Dasyu sniper comparison.
+4. **Current rules beat old voices on legality:** No Dakini in September ALEPH/OSS; Mk4 HMG and Mk5 FO; OSS Asura HD+ LT exists whereas **Vanilla's Asura LT is AP Spitfire**, not HD+; Steel's Agamemnon is its sole standard TAG; current Core member cap and FTO restrictions apply.
+
+#### Whole-unit purchasing audit — entire model, not single profile (2026-10-30)
+
+**Result: no defensible all-profile, current-roster whole-unit avoid** in Vanilla ALEPH, Operations Subsection or Steel Phalanx based on the sources above. That is a positive outcome of checking the actual alternatives, **not** a missing category.
+
+| Army | Full-model purchasing decision | Why the apparent “avoid” is not a model ban |
+|---|---|---|
+| **Vanilla ALEPH** | **No unit to blacklist** | FTO Maximus/Rudra cannot gain a non-existent Vanilla team bonus, but may still have a viable standalone profile. Post-update Maximus has real improved combat options; old Dakini is **unavailable** rather than an avoidable *current* model. |
+| **OSS** | **No unit to blacklist** | Naga sniper versus Dasyu is disputed (+1SD versus Hidden/BS); Samekh **FTO** lacks Guided while normal Samekh **has Guided**. Yaksha's cost is contested, not all-profile dominated. |
+| **Steel Phalanx** | **No unit to blacklist** | Scylla FTO sacrifices Charybdis, but standard Scylla + Charybdis and supported FTO configurations remain useful. Expensive duplicate hero teams are a **shopping/list architecture** problem, not proof an individual hero sculpt is bad. |
+
+**Practical collection advice:** defer a pricey hero or TAG when you already own another **for the same battlefield job**, but label that as **redundancy**, not “never take” evidence. [Cross-faction buying shortlist](../factions/model-purchase-avoid-summary-2026.md).
+
+#### Worst-value, rarely needed and proxy-first miniature purchases by army (2026-10-30)
+
+This section answers a **miniature-buying** question separately from Army list selection: which **complete units** are low-priority purchases, which **specific profiles** are weak without making their parent unit bad, which **legitimate but mission-dependent models** merit a proxy before buying, and which **extra copies** are not worth purchasing merely because AVA allows them? Cover all three N5.3 armies: **Vanilla ALEPH, Operations Subsection (OSS), Steel Phalanx**. *Rare* means situational or not needed for the source-backed standard list structures—not a measured frequency or tournament pick-rate claim. **No unit in the checked evidence is conclusively worthless across all current profiles**.
+
+**Confidence labels:** **Strong profile avoid** is a direct negative reviewer comparison or a demonstrated profile/Fireteam mismatch; **Defer whole miniature** means its usual niche is less important to an initial collection, not mathematical domination; **Proxy first** is a **reasoned collection recommendation**, not a claimed literal podcast quote; **Contested** explicitly preserves contrary opinion or a post-review update; **Extra-copy defer** means the first model may be excellent. Roster, profile, availability and Fireteam facts use the [September 2026 Vanilla](../../sectorials/aleph/aleph.md), [OSS](../../sectorials/aleph/operations-subsection.md) and [Steel](../../sectorials/aleph/steel-phalanx.md) references; dated commentators provide preferences. The linked [whole-model purchase audit](#whole-unit-purchasing-audit--entire-model-not-single-profile-2026-10-30) continues to apply.
+
+##### 2. Operations Subsection (OSS / OperationS) — specialized units whose usual role already has a cheaper competitor
+
+| Unit / specific profile | Speaker critique, competition, or unusual payoff | Buy/proxy verdict |
+|---|---|---|
+| **Naga MULTI Sniper29/1.5 if buying purely for Dasyu-style Hidden Deployment** | **Direct criticism, explicitly disputed:** [Tactical Awareness S3 E44 ~90m](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG) favors **Dasyu MULTI Sniper34/1.5** for Hidden Deployment, BS13 and Mimetism(-6). But **Naga sniper has BS Attack(+1SD)** and lower cost; **not mathematically dominated**. | **Proxy the competing *sniper sculpt* first**, evaluate exact mission/Special Die and camouflage/Hidden differences. **Do not skip Naga FO/Minelayer or the entire Naga family.** |
+| **Samekh FTO15/1.5 as a Guided missile platform** | **Verified roster trap:** **Samekh FTO lacks Guided**; **ordinary Samekh16/1.5 has Guided**. A link-eligible FTO missile ARO and a long-range *Guided* plan are different jobs; **FTO** is not an automatic substitute for Spotlight → missile. [OSS roster](../../sectorials/aleph/operations-subsection.md). | **Strong profile avoid for the *Guided plan*, not a whole-model skip**. **Proxy one suitable missile Rebot for both alternatives** when not fielded together; verify actual link membership. |
+| **Yaksha (23–31pt) instead of Naga/FO or Pilot-X network when no trap lane exists** | **Explicit disagreement reported in [Tactical Awareness OSS](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG):** advanced Camo/ARM4/E/M MadTrap minelayer can secure a sector, but it's expensive for mere button-pushing compared with **Naga, Dasyu, Dart or Pilot-X/RacerBots**. | **Defer whole miniature / proxy first** when buying an ordinary specialist. **Buy Yaksha** if its hard forward denial position is actually pivotal in the mission and a cheaper FO would not hold it. |
+| **Asura HD+ LT67 + Yadu NCO gun purchased as the only possible command plan** | **Contested:** [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34) and [LoL E168](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d) split over the 67pt elite hacker into high-BTS/Firewall and **61pt AP-Spitfire Asura** as a more direct anti-armor attacker. **Apsaras LT20** and separate guns can free a large mission budget. | **Proxy the *alternative* expensive Asura/Yadu weapon/team build** before buying multiple expensive gun sculpts. **No source supports skipping an Asura entirely** when the list wants MSV3/hacking/extra LT Orders. |
+| **Maximus TAG, Marut TAG, Agent Maximus, or extra MAX-OP/Optimates named models to complete both teams** | **Direct opportunity-cost theme** in [Tactical Awareness May 2026](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG), [LoL pre-release debate](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d): special supported TAG teams are meaningful, but a **33–42pt character solely for a modest team buff** may be poorer than an Engineer/specialist. **TAG Maximus vs Agent Maximus is an exclusivity choice**, not two inclusions. | **Proxy the entire costly alternative TAG/team architecture** before buying both sets of characters and large models. **Buy your preferred single centerpiece with the required exact team bodies**; never invent simultaneous TAG+Agent Maximus. |
+| **Apsaras TAGCom18 / RemDriver20 / LT20 bought as if all support effects apply simultaneously** | **Different mutually exclusive profiles**: TAGCom is particularly valuable *with* a Marut/Maximus, while **RemDriver** supports applicable REMs and **LT** pays for itself as command. **OSS profile costs/SWC differ from Vanilla**. [OSS guide](../factions/operations-subsection.md). | **One Apsaras sculpt is generally enough** when only one Apsaras selected; **proxy exact chosen support loadout**. Buy extra bodies only for legal simultaneous lists. Apsaras itself is a strong purchase. |
+| **Riksha HRL20/1.5 and Artalis Engineer23 built as mandatory ARO battery; second Zayin or expensive TR Probot** | **Inferred, not bad units:** **Riksha/Artalis** is a credible supported REM defense; **Zayin Thunderbolt19/0** or HMG24/1, **Lamedh7**, **Sharvara15** cover alternative defensive and scoring niches. Filling every defensive gun slot with SWC missiles/repair can remove forward scoring. | **Proxy extra large REM/Engineer sculpts first**, then buy only the 2–3 pieces your actual list regularly fields simultaneously. **Do not skip first Zayin, Riksha or Artalis** if it is your real ARO plan. |
+| **Rudra FTO vs ordinary Rudra; duplicate V-shaped fireteam anchor** | **Legality:** current OSS **Rudra FTO options 2/4** are Wildcards, not every Rudra profile. Its normal **K1 anti-armor/repeater and durable REM shooting** differ from FTO/team buffs; don't buy a “linked” sculpt expecting the independent profile's equipment automatically. | **Proxy chosen Rudra profile on the same suitable REM chassis** if non-simultaneous. Buy when the actual team legality and anti-armor job are understood, not because the name includes FTO. |
+| **Dart with Sharvara K-9, Arjuna with KiranBot, or Pilot-X plus two RacerBots all treated as one cheap infantry purchase** | **Physical model count matters:** several ALEPH operators depend on paired/bot package equipment. **Pilot-X23 + two RacerBots8** is **39pts/.5**, not 23; its extra orders come from **actual purchased independent RacerBot troopers**, unlike a Puppet or Servant that has no Order. **Arjuna KiranBots and Dart K-9** have their own required representations when the selected loadout includes them. | **Proxy-test the *complete* package with distinct matching-size bodies**, and do not buy an isolated controller model assuming peripherals materialize for free. **Pilot-X is highly rated**, not an avoid. |
+| **Older Dakini-centered OSS starter or five Dakini 'cheerleaders'** | **Source/edition failure, not tactical opinion:** the current September OSS roster removed Dakini with the 2026 change; it instead contains **Dikpala, Riksha, Dawon and other** robot families. [Official Mazebreaker update](https://infinityuniverse.com/en/news/army-update-mazebreaker). | **Do not buy Dakini for current OSS legality**; proxy the old models **only as a legal substitute** for the actually selected present-day troop with correct representation. |
+| **Expensive extra character team members: Claire/Johnny Kao/John Hawkwood/Agent Maximus/Ruby Monday** | **Lower-confidence inference:** they can provide real Doctor(2W), Engineer, CoC, special deploy/anti-hacking or Fireteam jobs; the reviewed recordings do **not** prove one is a universal “worst.” **Hawkwood CoC40** especially competes with **Shukra CoC21** if insurance is the *only* objective. | **Proxy-test additional named character sculpts**, not a roster-wide “never buy.” Buy for a documented repair/mission/Fireteam demand, not because the slot is available. |
+| **Samekh Guided + Probot EVO + every other support REM without a target chain** | **Inferred:** 1.5SWC and setup may be better invested in **Posthuman Mk4**, **Marut**, **Asura** or a scoring specialist if the opponent can clear/avoid Targeted. **Probot8 Baggage** is a separate excellent cheap utility, **14/.5 EVO** only needs buying for actual Supportware use. | **Proxy extra missile/EVO REM chassis**, buy the second physical model only when simultaneously deployed, and **avoid a speculative Guided shopping list** without a real Danavas/Pilot-X/FO plan. |
+
+**What is genuinely common and *not* a low-priority first buy?** The **Posthuman Mk1/Mk4 package**, **Pilot-X** with the number of RacerBots you actually intend, **Netrods/Lamedh/Probot cheap support**, selected **Sharvara15**, **Dikpala/Deva/Apsaras** mission/order structure, and **one suitable attack gun**. **No supported OSS whole-unit mathematical veto** emerged. Sources: [Tactical Awareness OSS May 2026](https://www.youtube.com/watch?v=Jh4jVsFoHN4), [its podcast transcript](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG), [2026 ALEPH tier discussion](https://www.youtube.com/watch?v=1dW3i9dpI34), [LoL E168](https://open.spotify.com/episode/4MxU8qsoJlbZkYCLt1fo6d), [OSS guide](../factions/operations-subsection.md).
+
+##### Cross-ALEPH — good units, rare loadouts and economical proxy substitutions
+
+**Owned-model coverage:** Steel Phalanx counts above come from the checked-in [actual inventory](../../inventory/steel-phalanx.md). No equally authoritative current **Vanilla ALEPH or OSS inventory** was found at the expected paths; thus no ALEPH/OSS owned unit counts are inferred. A suggested **“spare OSS model”** for Hippolyta does **not establish** which OSS models are physically owned.
+
+| Buying opportunity | Better initial proxy or reuse | When a separate miniature becomes sensible |
+|---|---|---|
+| **Posthuman Mk1/Mk2/Mk4/Mk5 / extra Proxy sculpts** | Use distinct appropriately sized *G:Jumper body* stand-ins, each declared as Mk1 Engineer, Mk2 specialist, Mk4 HMG or Mk5 FO. Their exact silhouettes may differ and are **not one freely interchangeable physical base**. | Buy the exact Proxy Mk bodies that appear **together** in the 2–3-body combination you routinely field; **one proxy selection doesn't make 3 independent Regular Orders**. |
+| **Named S2-scale heroes and support characters** (Apsaras, Sophotect, Danavas, Parvati, Claire, Shukra, Thamyris, Hippolyta, Atalanta, Ajax, Phoenix, Machaon, etc.) | Use a *distinct*, correctly based/silhouetted legal Corvus Belli miniature from the same collection, with named identity and profile stated. Check especially **large HI** and any non-S2 Silhouettes rather than assuming all heroes are S2. | When using multiple named characters **simultaneously**, the proxy isn't visually distinct, event demands closer match, or the character becomes a regular purchased favourite. |
+| **Common Fireteam gun/scoring variants** (Myrmidon, Officer, Thorakitai, Yadu, Deva, Makhai, Hoplite, Posthuman Mk) | Declare the equipped profile clearly and reuse a correct-size mini **of the same troop family** for an alternate rifle/HMG/Doctor/FO/FTO card where allowed. **Only use troop families actually available in the selected ALEPH roster**; never treat a proxy as granting faction access. | Only buy another exact weapon sculpt when the chosen team needs **different bodies simultaneously**, or the organizer requires greater WYSIWYG clarity. |
+| **REM chassis** (Lamedh, Daleth, Zayin, Samekh, Probot, Riksha, Dikpala, Rudra) | Test with spare compatible-size bots: **Steel has two ALEPH Rebots plus four shared PanO Dronbots, and two PanO Mulebots as potential Probot stand-ins**. Specialized support bots **may differ in size** from large combat REMs and tiny RacerBots. | Buy a distinct chassis if its **silhouette/base or simultaneous count** cannot be met, or you play REM-skew lists often. Do not assume every REM uses the same base. |
+| **Multi-body teams and peripherals**: Scylla + Charybdis, Pilot-X + RacerBot(s), Arjuna + KiranBot(s), Dart + Sharvara K-9, Agamemnon + Karkata, Engineer/Doctor + Yudbot | Declare/physically represent **each fielded model and its controller**; the main figure cannot “stand for” all extras at once. **RacerBot additional Regular Orders differ from ordinary Servant/KiranBot/Charybdis order accounting**; consult exact current options. | Buy complete partners once you regularly field the combination and lack enough correctly based stand-ins. **Steel Charybdis1 and Yudbots2 already exist; Karkata0 has Crabbot proxy; Arjuna0/KiranBots0**. |
+| **Heavy/TAG models**: Marut, Maximus TAG, Agamemnon; **Tarkshya Vehicle** | Proxy/borrow **correct silhouette and base** models to test a TAG-heavy list. **Steel already has Agamemnon1**; it is **not a Marut/Maximus TAG legal listing** and one large model cannot be two separate TAGs simultaneously. Tarkshya is a **Vehicle**, not a TAG. | Buy a new large model when its **specific legal roster, physical size and attack role** recur. A large TAG model with the wrong silhouette isn't a drop-in substitute at an organized event. |
+| **Scylla variants / Agent Maximus vs TAG Maximus / Apsaras options / Samekh FTO vs Guided** | Most are **profile choices**, not simultaneously fielded separate named models. **Scylla FTO without Charybdis** is not the same as the **paired** option; **Agent/TAG Maximus** cannot both be selected; **Samekh FTO does not become Guided**. | Buy alternate sculpts only if a second separate legal body is needed concurrently and current event proxy rules require it. Models cannot create missing traits or legal permissions. |
+| **Retired Dakini miniatures, extraneous FTO sculpts, Spec-Ops/Team-Ops** | Reuse Dakini **only as a clearly declared legal trooper proxy** with suitable Silhouette/base; optional game modes require explicit event permission. FTO status requires current roster profile and a real **sectorial Fireteam**. | No reason to buy **illegal old Dakini or optional-mode-only minis for current standard ALEPH/OSS**. |
+| **Sculpt quantity to AVA** (Steel Myrmidon6, Ekdromoi4, Thorakitai6, etc.) | Start from your **actual 300pt list** and physical **simultaneous model count**. One real Myrmidon Officer represents one trooper; it cannot physically represent two different units deployed simultaneously. | Buy duplicates when proven necessary in repeated, legal list builds, not because a spreadsheet has “missing to AVA.” |
+
+**Proxy safety and legal limits:** announce all substitutes before play; verify selected N5.3 **unit access, exact Fireteam option, Silhouette, base, physically represented secondary figures and troop count**. Check current tournament/ITS/organizer proxy conditions for organized play rather than claiming any old season's blanket rule. A model can be a proxy for another unit when legally represented and accepted; **it cannot lend weapons/skills, faction access, an unavailable Fireteam, extra Orders or missing extra bodies**.
+
+**Bottom line for purchases:** There are **no transcript-proven universal ALEPH whole-model “never buys.”** Best direct **profile-only** skips are **OSS Samekh FTO *if the objective is Guided***, **Steel Scylla FTO *if the expectation is included Charybdis*** and **Vanilla/OSS imaginary FTO Fireteams**; the **Naga sniper vs Dasyu** is *contested*, not a settled Naga verdict. Best **whole-model deferral / proxy-first tests** are **OSS Yaksha when a cheap infiltrator suffices**, **Tarkshya when bought only as an early ARO breaker**, **additional expensive Asura/TAG/hero alternatives**, and **Steel Hippolyta/Arjuna+KiranBot/Sāchā / surplus AVA copies** given the actual inventory. Do **not** convert a weak loadout into advice to skip **Posthumans, Myrmidons, Deva/Yadu, Scylla, Agamemnon or ordinary ALEPH scoring/support REMs**.

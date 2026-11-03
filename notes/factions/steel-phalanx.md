@@ -1085,3 +1085,280 @@ Sources: [Shepherd N4 focus](https://www.youtube.com/watch?v=764JXbnQ3jQ) (trans
 **Joan-style Strategic Deployment should not be assumed in Steel Phalanx without a current roster skill**. A premium Achilles/Agamemnon offense may benefit more from **cheap Baggage/EVO (where actually rostered)** only when relevant REM/airborne Supportware exists; **TinBot Firewall and CoC** are legal-team/profile-specific and do not stack with identical bonuses. Compared with a costly buff-only package, a cheap Myrmidon Smoke/Eclipse (exact profile!) and actual mission specialist are often more reliable.
 
 [Whole-game support apex/value and reviewed opposing opinions](../list-building/force-multipliers-special-abilities-apex-value.md).
+
+---
+
+## N5.3 tactical cross-references, battle reports and collection audit
+
+The sections below were moved from the [Steel Phalanx authoritative Army reference](../../sectorials/aleph/steel-phalanx.md) to keep source rosters, profile data, Fireteam legality, provenance, and validation separate from tactical judgments. The linked reference is the authority on rules and profiles; analysis and purchasing advice here may be provisional or contested.
+
+### Tactical tags
+These tags are analytical conveniences, not rules text.
+
+- **Vision control:** Myrmidons, Myrmidon Officer, Machaon, Ajax, Hippolyta, Penthesilea; Eclipse specifically on Myrmidon Officers.
+- **Long-range / ARO:** Atalanta, Agêma, Phoenix, Makhai ML, Thorakitai Feuerbach/HMG, Zayin, Samekh.
+- **Close assault:** Ajax, Hippolyta, Myrmidons, Eudoros, Machaon, Phoenix, Penthesilea, Thyreos, Andromeda.
+- **Airborne / vertical attack:** Ekdromoi; K2 non-FTO specialist profile; Netrods are deployment-only Combat Jump order pieces.
+- **Hacking / network:** Myrmidon Hacker, Ekdromoi HD/KHD, Scylla, Thamyris, Thorakitai Hacker, Thyreos HD/KHD, Probot EVO; Lamedh/Daleth/Probots and KiranBots contribute Repeaters or deployable network tools.
+- **Engineers:** Dactyls, Acmon, Hoplites Engineer profiles; Yudbots extend support reach.
+- **Doctors/medical:** Machaon, Dactyl Doctor, Thorakitai Paramedic; Yudbots extend support reach.
+- **Orders/economy:** Netrods, Hector Lieutenant (+1 Order), Makhai Tactical Awareness, Arjuna Tactical Awareness, Acmon Tactical Awareness, Daleth Tactical Awareness, Agamemnon Tactical Awareness, NCO Eudoros/Alkê, Baggage Probot.
+- **Midfield:** Andromeda, Thyreos, non-FTO Arjuna, Sāchā.
+
+### Expanded faction tactical guide
+
+For comprehensive hero/utility choices, Myrmidon and Thorakitai architecture, Officer Eclipse, Agamemnon and alternative attacks, see the [Steel Phalanx tactical/list-building guide](../factions/steel-phalanx.md). **Read the current Fireteam chart in the linked sectorial reference first:** Scylla FTO requires a legal Steel Phalanx Duo/Haris foundation, and cannot join a Thorakitai Core; Ajax requires the FTO profile for Myrmidon Core.
+
+### Command-unit apex/value cross-reference (2026-10-23)
+
+**Hector LT(+1) 64–65** makes both personal Lieutenant Orders **Regular** through Strategos L1, improving a hero-focused force's cross-unit order flexibility. **Myrmidon Officer CoC 30–31/0.5** contributes Eclipse, Mimetism(-6) and close-range utility as an actual backup, but loses insurance value if sent into the same deadly assault as Hector. Compare **Alkê/Eudoros NCO and Makhai/Arjuna/Acmon Tactical Awareness** based on which teams really receive useful activations; L1 does not grant the L2 free group transfer.
+
+See [cross-game Lieutenant, CoC and Order-economy tiers](../list-building/command-units-apex-and-value.md). **The linked authoritative roster and Fireteam chart govern legality.**
+
+### Mission specialist / button-pusher choices (N5.3)
+
+**Dactyl Engineer19–20 + Yudbot3**, or **Daleth FO15/TA18**, gives cheap tech/FO Classifieds beside expensive Myrmidon assault. **Myrmidon Officer CoC30–31/.5** is both Eclipse lane-opener and Specialist where the mission permits, but must survive if acting as LT backup. **Acmon/Artalis or legal Dactyl** lets combat links heal/repair and score as allowed; **Agamemnon Karkata** is a bundled ancillary specialist with strict activation/Order restrictions. Hector LT Strategos doesn't itself make every nearby hero a Specialist.
+
+[Cross-game apex and value specialist tier guide](../list-building/mission-specialists-and-button-pushers-apex-value.md). The linked authoritative unit profiles and Fireteams control exact legality.
+
+### Airborne and enemy-DZ attack choices — N5.3 (2026-10-23)
+
+**Ekdromoi Chain Rifle18/0, HD23/.5, KHD25/0 and Spitfire32/1.5** are actual Combat Jump/ordinary Parachutist profiles: ideal to hit soft support or score behind the main Myrmidon/Agamemnon lane, and they add MA3/CC22 if close. Without legal Parachutist(DZ), a safe side entry may need more movement. **Hector LT64–65 Strategos** is an *on-table* hero commander; **Myrmidon Officer CoC30–31** protects succession while opening Eclipse route but should not be the disposable backline diver. **Agamemnon TAG TacAware** is ground fire support, not Combat Jump.
+
+See [current cross-game apex/value, landing odds and expected-trade tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md). **The linked authoritative roster and Fireteam chart control exact loadouts and availability.**
+
+### Active-turn gunfighter cross-reference (2026-10-23)
+
+**Active-turn shooting choices:** **Agamemnon AP HMG65/1.5** is a lower-cost **TAG** BS14/3STR/TacAware long-range armor-killer, but has no built-in MSV/Mimetism for unfair openings. **Achilles** is the elite **non-TAG** close/medium breakthrough and exploitation piece; it wins more useful attacks when a separate gun first eliminates strong Mimetism/long-range AROs. A legal Fireteam moves specialists up behind the attacker in the same Orders, but its required bodies add genuine cost. [Separate non-TAG and TAG attack rankings](../list-building/active-turn-gunfighters-apex-and-value.md).
+
+### Warbands and cheap high-upside trading — N5.3
+
+**Myrmidon Chain Rifle16/0** is a Regular/Mimetism(-6)/MA3 **Smoke+template trade** and legal team scaffolding; **current basic Myrmidon/Machaon normal Smoke is NOT Eclipse**. **Myrmidon Officer CoC30–31/.5** *does* bring **Eclipse+NWI** and command continuity; **Officer LT25–26/0** is a **different variant**. **Ajax39 FTO/45 FD+20, Machaon LT37/.5, Phoenix LT32/1.5** are premium fighting heroes, not 5pt disposable trades. Prefer a 16pt warband delivering a hero safely over throwing 37pt Doctor-LT into a speculative melee exchange.
+
+[Current cross-game warband apex/value, target counters and LT/CoC tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md). Pinned profile choices and canonical Fireteam chart in this roster remain authoritative.
+
+### TAG tactical cross-reference (2026-10-23)
+
+**Agamemnon (63–65)** is one of the strongest pure **points-value** TAGs: AP HMG, TacAware, useful CC deterrence, and enough budget left for independent Steel Phalanx pressure. It is not an Avatar-style unkillable solo plan (ARM6 and hacking vulnerability). The 2025 tier-list hosts debate high-A versus S **peak** ranking; practical points efficiency is much less disputed.
+
+Across all factions, compare **apex power** separately from **points value**, counterplay and mission fit: [N5.3 TAG guide](../list-building/tags.md). The linked authoritative unit profiles and Fireteam chart take precedence over tactical opinions.
+
+### Hacker and KHD tactical cross-reference (2026-10-23)
+
+**Scylla HD + Trinity (32/0.5 with Charybdis Devabot)** pairs Pitcher/anti-Hacker attacks with a **Synchronized Repeater + flamethrower** fork; **25/0.5 FTO** drops the peripheral and relies on the canonical team chart. **Ekdromoi HD 23/0.5 or KHD 25/0** is a parachute/Combat Jump specialist, especially valuable when target consoles are far beyond the initial network. **Myrmidon HD 29/0.5** combines smoke/Mimetism(-6) and scoring in a fast assault group. Scylla's **EVO variant** is for supportware, not a replacement for HD or KHD. **Why:** Steel Phalanx spends heavily on Myrmidon combat and smoke; take a linked network when it improves their approach, but avoid paying twice for hackers who cannot project beyond the team.
+
+See the [cross-game apex/value Hacker/KHD tier guide](../list-building/hackers-and-killer-hackers.md). **The linked authoritative profiles, AVA and Fireteam chart remain authoritative; device upgrades are profile-specific.**
+
+
+### Cheerleader / Order-generation tactical cross-reference (2026-10-23)
+
+For cross-faction **apex** and **points-value** rankings, the Order types, situational counterexamples and transcript-backed disagreements, see [Cheerleaders and Order Generators — N5.3](../list-building/cheerleaders-and-order-generators.md). The linked authoritative roster profiles, AVA and Fireteam legality take precedence.
+
+- **6pt Netrod**: cheapest Regular pool Order where roster-legal, but its mandatory deployment and stationary non-combat body are a risk
+
+**List-building test:** count *transferable* Regular Orders by Combat Group after deployment; include required link members/command enablers, physical DZ footprint, and the unit's actual ARO/mission contribution. Do not treat Irregular, Tactical, Lieutenant or Peripheral activations as interchangeable generic Orders.
+
+
+### ARO apex/value cross-reference (2026-10-23)
+
+See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matchups](../list-building/aro-units-apex-and-value.md). The **current profile details here** control exact cost/SWC, Training and Fireteam eligibility; do not import another faction's link or specialist upgrades.
+
+- **Zayin Thunderbolt TR** — 19pt/0SWC reactive volume and regular Order; protected Engineer/Yudbot route makes defeating it a repeat job
+- **Samekh FTO ML** — linked launcher only when the canonical chart permits this precise profile; Guided version is not automatically a linked ARO
+- **Lamedh Flash/Repeater** — cheap order/secondary ARO; better as first/last gate than primary exposed hard gun
+- **Myrmidon smoke / concealed flank** — smoke/Close Assault complicates gun lanes; guard objective approaches rather than depend only on sniper
+- **Thorakite link/short guard** — cheap defensive body; pair with active high-Burst shooter rather than overbuild all-static fireteams
+
+**Choose by circumstance:** a hard long gun matters only when the opponent must cross its arc; cheaper mines, Camo markers, templates, Flash, DTWs and hacking force movement or risk without committing an entire attack plan. Budget a second layer and preserved counterattack, check pie-slicing, hidden Order cost, anti-visual bypass and repair routes.
+
+### Doctor / Engineer / Recovery cross-reference (2026-10-23)
+
+**Recovery:** For expensive VITA assault troops, a roster-legal **Doctor(2W)** can restore useful durability in one roll; **Sophotect** is a flexible high-WIP Doctor/Engineer if available. For the **Agamemnon TAG** or STR support, stage an eligible **Engineer/Yudbot** along the *return* route. A fast Achilles/Myrmidon assault that leaves the network cannot be counted as cheaply recoverable. [Doctor/Engineer apex and recovery odds](../list-building/doctors-engineers-and-recovery-apex-value.md).
+
+### Close-combat assassins and counter-CC — N5.3 (2026-10-23)
+
+**Ajax39 FTO vs 45 FD+20** is different legal delivery with MA3, NBW, Berserk, EXP and 2W/NWI; **Eudoros36** is MA4/Mimetism−6 Mk12 assault, **Hippolyta37** brings Super-Jump/Smoke/Berserk/EXP. **Andromeda30 Guard** covers LoF+ZoC around midfield corners; **Myrmidon16** is often the best *supporting* CC value by providing Regular Smoke/Mimetism−6. Opposing view: don't throw a premium melee character into enemy NBW/guard just because it has MA4; shooting the counter-piece first may be cheaper. [Cross-game CC assassin apex/value, Guard and delivery disputes](../list-building/dedicated-close-combat-assassins-apex-value.md).
+
+### N5.3 network projection — Pitchers, Repeaters, TinBots and disposable delivery
+
+**Scylla Hacking Device with Trinity upgrade, Pitcher and Charybdis32/.5** is a strong multi-vector package: Pitcher plus synchronized close **Repeater + flamethrower**; **FTO Scylla25/.5** has no Charybdis and team legality must be verified. **Thamyris Pitcher/Minelayer/Cybermine21/.5** combines cheap ranged projection and prepaid mine (the **27/.5** option is a distinct profile). **Arjuna KiranBots** provide selected native/Deployable Repeaters behind fast synchronized pressure. **Dispute:** building an expensive hacking network is unnecessary if Phalanx wins through Eclipse/CC and specialists; buy projection only when opponent Hackable/visors make a real program outcome likely.
+
+[Cross-game apex/value guide, exact delivery cost and transcript disagreements](../list-building/network-projection-repeaters-pitchers-apex-value.md). The linked authoritative profile and Fireteam tables remain authoritative.
+
+### N5.3 rare abilities & unusual combinations — tactical synthesis
+
+**Eclipse is not interchangeable with ordinary Smoke**: **Myrmidon Officer CoC+Eclipse30–31/.5** moves and insures Lieutenant; **Scylla32/.5 + synchronized Charybdis** doubles threat origins (Pitcher + Repeater/template) for one controller; **Arjuna+KiranBot** similarly gives a rare synchronized body that may have native/Deployable Repeater. **Andromeda Guard+Infiltration30/0** makes CC threat inside legal LoF+ZoC without base contact, unlike mere Martial Arts 4. **Opposing choice:** ordinary Myrmidons16/0 and a gun/mission specialist are more points efficient if neither Eclipse-assisted push nor peripheral activation is planned. Steel Phalanx **does not have OSS G:Jumper Proxies by implication**.
+
+[Cross-faction rare abilities apex/value, mechanics, and MCP source debates](../list-building/rare-capabilities-and-unique-combinations-apex-value.md). The linked roster and Fireteam profile tables are authoritative.
+
+### Anti-TAG / Anti-HI without hacking — N5.3 (2026-10-23)
+
+**K2 Auxiliary11 E/Marat** and **Thorakitai12 E/Mitter** are inexpensive hard-target *state* threats; **Thyreos21 SMG/Monofilament** is a mid-priced assassin, and **Penthesilea28 Monofilament on fast motorcycle** is a high-mobility but exposed can-opener. **Myrmidon Smoke, Myrmidon Officer Eclipse** create safe approach only when the extra Orders and ammo are accounted for. **Agamemnon TAG AP HMG** and other premium assault units should not be scored as better points value than a genuinely deliverable 11pt E/Marat. [Non-hacking anti-TAG/HI apex/value and target matchups](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md).
+
+### N5.3 objective holding, zone domination & carried-objective choices
+
+**Eclipse-supported durable carrier** rather than raw STR: **Myrmidon Officer CoC/Eclipse30–31/.5** (eligible CoC Specialist) or other current Specialist with Myrmidon Smoke/Eclipse cover can retreat from dangerous objective lane. **Andromeda30/0 Guard/MA/Infiltration** can prevent enemy close reclaim but Guard does not mean she is automatically a normal box-carrier; check current Specialist Operative and scenario rules. **Achilles62/1.5 or Ajax39/0** are excellent **zone VP combat guards** (when non-Null) but don't silently claim Specialist where absent. **Contrary view:** compared with a 42pt Shikami elsewhere, Steel's best objective-holder is often a **separate cheap specialist** behind two complimentary Eclipse/CC bodies, not a single pricey duel hero.
+
+[Cross-game zone-holder and carrier apex/value guide, rules, and transcript disagreements](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md). The linked authoritative roster and Fireteam chart take precedence over tactical comparisons.
+
+### Anti-Tech — enemy visors, Mimetism, markers and Impersonation (2026-10-23)
+
+**Daleth/rostered Sensor FO REM** is the low-cost **Camo/Hidden ZoC** sweep; **Agêma MSV2** and other rostered visor guns can actually threaten revealed Mimetism/Smoke targets, while **Myrmidon Smoke** provides the classic MSV firing opportunity. **Myrmidon Officer Eclipse** / rostered **Disco Baller** profiles bypass a *hostile MSV/Marksmanship* ARO rather than trying to beat it in a straight contest. **Counter:** Smoke does not deny LoF to MSV2, and enemy White Noise shuts down your MSV gun; keep an ordinary gun and a mission-focused path. Not all ALEPH/OSS Satrah/Asura profiles are legal in Steel Phalanx.
+
+[Non-hacking & tech-specific counter-selection, N5.3 anti-tech apex/value and opposing MCP transcripts](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+
+### N5.3 peripheral / synchronized / multi-body apex-value update
+
+**Steel Phalanx multi-body** role comes primarily from **Servant recovery** rather than importing OSS Posthuman G:Jumper or Tunguska Puppetactica. Pair source-legal **Doctor (such as Machaon) or source-legal Engineer with cheap Servants**, allowing a safe support controller to affect casualty contact elsewhere; **one target per Doctor/Engineer Order, only one Servant active**. **Fireteam + support** gives multi-model coverage but is NOT Peripheral-Synchronized, nor a single controller creating two attacks on one Order. **Opposing choice:** spend ~3–6pt on two far-flank Servants when recovering Achilles/other elite is core plan; otherwise buy an independent guard or second mission specialist over unused healbots.
+
+[Whole-game N5.3 Peripheral & Multi-Body Apex/Value guide](../list-building/peripheral-synchronized-multibody-apex-value.md). The linked authoritative profiles, dependency and Fireteam tables remain authoritative; media are opinions.
+
+### Mission performance — battle-report evidence (2026-11-01)
+
+| Mission(s) | Tested composition / scoring mechanism | Evidence |
+|---|---|---|
+| **Double Bind / anti-materiel** | Andromeda + Hoplite/Myrmidon assault and multiple real D-Charge/anti-materiel options completed objectives for 8–6 over TAK. | [#190](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Area of Interest / room entry** | Phoenix/Myrmidon smoke/Mimetism and resilient close fighters pressure access and can challenge a Cutter-style gun, but this is matchup/table-dependent. | [#092](../battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| **Critical Intervention / vulnerability** | Expensive Ajax/Phoenix/Eudoros attackers can lose their mission package if an early ARO removes a key hero. | [#225](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limits:** Do not extrapolate a generalized Steel Phalanx win rate from these single matches. Game-era qualitative evidence, not a win-rate or current Fireteam claim. [Full mission evidence audit](../battle-reports/cross-report-mission-performance-by-sectorial.md).
+
+### Counterplay — observed N5 battle-report responses (2026-11-02)
+
+| Threat / target | Observed response and limitation | Battle reports |
+|---|---|---|
+| **Against hidden gun and zone ARO** | Andromeda flanking and Myrmidon/Hoplite fast close action carried anti-materiel D-Charges through TAK Vystrel/Tankhunter denial in Double Bind 8–6. | [#190](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) |
+| **Counter-counterplay: hacking and E/M** | Tunguska Interventor/Heckler/Hollow Man bricked Phalanx heroes in Hardlock 5–0; Combined hidden Puzzler E/M isolated Eudoros and Vector sniper removed Ajax. | [#151](../battle-reports/151-160-n5-battle-report-tactical-analysis.md), [#225](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+| **Defensive link protection** | Avoid clustering Phoenix/Myrmidon/Ajax in one accessible vector and preserve Dactyl/independent Specialist; Converted Steel bodies from Charontid Sepsitor became AROs against their own troops. | [#225](../battle-reports/221-230-n5-battle-report-tactical-analysis.md) |
+
+**Limit:** #225 depends on exceptionally bad early dice and historical Sepsitor rules; check current N5.3 availability/target legality. These are historical qualitative interactions, not present N5.3 unit, Fireteam, or win-rate claims. [Full cross-report counterplay analysis](../battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+### Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated media-backed tactical judgments and miniature purchasing advice. These are qualitative opinions, **not roster/profile/Fireteam authority**; use the canonical N5.3 data above for legality.
+
+**Original audit title:** ALEPH N5.3 — Must-have / Go-to / Avoid (YouTube and podcast evidence)
+
+**Audit:** 23 October 2026. **Armies:** [Vanilla ALEPH](../../sectorials/aleph/aleph.md), [Operations Subsection (OSS)](../../sectorials/aleph/operations-subsection.md), and [Steel Phalanx](../../sectorials/aleph/steel-phalanx.md). Current legality, profile, points, SWC, and Fireteams come from pinned **N5.3 / Army 7.26246.159 (3 September 2026)**, not video captions. Cross-check the detailed [Vanilla guide](../factions/vanilla-aleph.md), [OSS guide](../factions/operations-subsection.md), and [Steel guide](../factions/steel-phalanx.md). Podcast and YouTube statements are **players' assessments**, not measured inclusion rates.
+
+**Method:** Independently retrieved via MCP the [June 2026 Robert Shepherd/Jordan faction-tier transcript](https://www.youtube.com/watch?v=1dW3i9dpI34), [Tactical Awareness S3 E44 OSS YouTube](https://www.youtube.com/watch?v=Jh4jVsFoHN4) and [podcast transcript](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG), [Tactical Awareness Owen's Adepticon Vanilla ALEPH interview](https://open.spotify.com/episode/0YhA9K7K2xJkiCzqI7PcbV), [MetaChemistry OSS first impressions](https://open.spotify.com/episode/5ynZcV8kOHiVfemyiaOLak), [WIP12 OrderMonkey OSS](https://open.spotify.com/episode/1lx8buKkqrLgCwZB6CaSLZ), [CNN Steel Phalanx N5 deep dive](https://www.youtube.com/watch?v=6RBi4U3t-WQ), and [Robert Shepherd Steel Phalanx N4 focus](https://www.youtube.com/watch?v=764JXbnQ3jQ). The [Yellow Snake/RXron Oct 2025 Steel episode](https://www.youtube.com/watch?v=DcCXt508-CU) **failed direct YouTube transcript retrieval in this audit**; its published example lists and prior guide's notes can corroborate, but are *not* independently transcript-confirmed here. Earlier N4 material describes enduring play patterns only.
+
+**Labels:** **Must / near-must** means a speaker calls it almost automatic or it recurs as a backbone across distinct builds; a strategically coherent omission is still possible. **Go-to** means widely useful, not “take every row.” **Avoid** means a *particular build, profile, or use* is directly criticized by a presenter or defeated by a current rules/profile check. **No confirmed never-take** is better than inventing a dominated whole unit. All three armies need Orders, meaningful attacks, and specialists; not necessarily the same named purchase.
+
+#### At a glance
+
+| Roster | Most defensible near-must | General go-to purchases | Source-supported avoidance |
+|---|---|---|---|
+| **Vanilla ALEPH** | **Posthumans Mk1 Engineer13 + Mk4 HMG30**; 6pt Netrod / 7pt Lamedh cheap-order base; **Apsaras LT20** *when not using a premium LT architecture* | Pilot-X23 + RacerBots8, Tarkshya34/41, Myrmidon Smoke16, Penthesilea28, Marut86/90, Danavas22, Naga FO25, Zayin19 | No universally condemned current unit. Do not pay for vanilla **FTO** solely expecting a Fireteam. Old Dakini recommendations are illegal. |
+| **OSS / OperationS** | **Posthumans Mk1 + Mk4**; **Pilot-X + RacerBots** is the clearest *explicit “auto-include” opinion*; cheap Lamedh/Netrod infrastructure | Sharvara15, Dikpala13, Apsaras LT20/TAGCom18, Tarkshya34/41, Asura HD+63/67, Zayin19/24, Riksha20/24, Artalis23, Naga25–29 | **Naga MULTI Sniper29** is *criticized* against Dasyu34 in the May 2026 podcast but **not strictly dominated** after checking full N5.3 profiles; **Samekh FTO** is **not Guided**. No defensible blanket never-take. |
+| **Steel Phalanx** | **Netrods6 / Lamedh7** cheap-order shell; **Myrmidon Officer** near-default *when Eclipse/CoC is needed*. **No individual hero** qualifies as universal. | Ajax FTO39, Phoenix, Machaon, Agamemnon63/65, Thorakitai FO13, Dactyl19–20/Acmon, Agêma ML/Atalanta, Scylla32, Eudoros | Avoid **redundant expensive hero bricks** or an unsupported **Scylla FTO** profile taken for its link label; no verified current universally bad whole unit. |
+
+#### 3. Steel Phalanx
+
+##### Must / near-must
+
+| Choice | Why; exception | Direct recording |
+|---|---|---|
+| **6pt Netrods and 7pt Lamedh** | **Closest true repeating near-must.** Two Netrods + two Lamedh occur in all three example lists documented in the Oct 2025 [Yellow Snake/RXron review](https://www.youtube.com/watch?v=DcCXt508-CU), and the independent [CNN N5 list](https://www.youtube.com/watch?v=6RBi4U3t-WQ) uses two Lamedh. High-cost Greeks need a cheap Regular order floor; first models also supply Repeater/Flash Pulse. **Do not call the exact 2+2 split compulsory**: special orders, Thorakitai, specialists and board space can justify a different shell. | [CNN N5 transcript](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [Steel guide source/list reconciliation](../factions/steel-phalanx.md) — Yellow Snake *transcript failed* this audit |
+| **Myrmidon Officer — conditional near-default** | When LT is a fighting Machaon/Hector/Agamemnon or Eclipse is important, Officer **CoC + Eclipse** creates strong command/approach insurance. **Not automatic** when a protected LT or different visual plan makes an extra ~30pt officer poorer than another scoring body. N5 Smoke/Eclipse allocation is not the old N4 Machaon package. | [CNN N5 deep dive](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [Shepherd N4 tactical explanation, corrected for current Army](https://www.youtube.com/watch?v=764JXbnQ3jQ) |
+
+**No individual premium hero meets “in almost any Steel Phalanx list.”** Different credible builds center Ajax/Phoenix/Machaon, Agamemnon, Hector command, or Thorakitai/Scylla/Hoplite combined arms.
+
+##### Go-to
+
+| Unit/profile | Why / when | Evidence |
+|---|---|---|
+| **Ajax FTO39** | Compact Myrmidon Core assault/CC/short-middle-range battering ram; exceptionally hard to punish if paired with Smoke/Eclipse and protection. **Only Ajax FTO** joins this Core; the separate forward-deployed profile is a different deployment choice. Not compulsory if TAG/Thorakitai is main combat engine. | [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [Yellow Snake listed builds](https://www.youtube.com/watch?v=DcCXt508-CU); [Steel guide](../factions/steel-phalanx.md) |
+| **Phoenix** | Long-range heavy rocket/ARO threat in difficult-to-engage Myrmidon team; extraordinarily credible against ordinary guns, but not an auto-include once Agamemnon/Hoplite/Agêma already anchors ranged play. | [Shepherd Steel Phalanx focus (N4)](https://www.youtube.com/watch?v=764JXbnQ3jQ), *N5.3 access verified separately*; [Steel guide](../factions/steel-phalanx.md) |
+| **Machaon** | WIP15 Doctor and resilient close specialist/possible LT; supports aggressive Myrmidon pieces. **Do not assume old N4 personal Eclipse access**. Skip in favor of cheaper Doctor/engineer and other LT structure if primarily buying him for an obsolete trick. | [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [Steel guide](../factions/steel-phalanx.md) |
+| **Agamemnon63–65/1.5** | Remote Presence, Tactical Awareness and AP weaponry: serious independently funded TAG that opens long/midrange lanes while infantry scores. Shepherd/Jordan (June 2026) explicitly call it one of the best TAGs. Dactyl/Yudbot repair support strongly improves its value. Obvious hackable large investment; can forgo if hero/Thorakitai attack structure has enough range. | [Shepherd/Jordan 2026, Steel segment](https://www.youtube.com/watch?v=1dW3i9dpI34); [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ) |
+| **Thorakitai FO13, other 12–17pt Thorakitai; Alkê NCO** | ARM3 efficient Regular mission/utility bodies, E/M, smoke-alternative, varied Thorakitai Core; Alkê converts LT orders and supports a combined-arms Core. CNN explicitly builds around this route. | [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ) |
+| **Agêma Missile27/1.5, Atalanta; Zayin19/24** | Anti-Mimetism/sniper/ARO lane, cheap recoverable TR backup. June 2026 reviewers specifically praise **Agêma ML Camo+Decoy** while **sniper retains Hidden Deployment**; avoid mixing versions. | [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34) |
+| **Dactyl19–20 / Acmon, Scylla32 with Charybdis** | Engineer repairs Agamemnon and Zayin; Scylla projects hacking/Pitcher plus flamethrower Repeater peripheral; supports diversified plans without another expensive CC hero. **Scylla FTO25 lacks synchronized Charybdis** unless taking the explicit independent FTO pair (37/.5). | [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [TA Steel guide (N4 conceptual)](https://open.spotify.com/episode/4z0CSbXz8AwSubquKnZuPC) |
+| **Eudoros, Hector, Thyreos/Arjuna FTO** | Distinct purpose: mobile NCO/flank; LT/Strategos command economy; early mission reach or a more economical combined-arms link. Good *when relevant*; none is a universal buy. | [CNN N5](https://www.youtube.com/watch?v=6RBi4U3t-WQ); [Steel guide](../factions/steel-phalanx.md) |
+
+##### “Never take” audit
+
+- **No source-backed absolute veto against any whole currently legal Steel Phalanx unit.** This army has mutually exclusive good archetypes; calling Phoenix, Eudoros, Machaon or Agamemnon “must” makes the other credible builds impossible.
+- **Avoid buying two costly, redundant Greek hero Fireteams** with no Orders, independent attack vector, or objective pieces left. Shepherd's older focus and the N5 CNN sample illustrate different viable architectures. It is a **list-construction trap**, not an intrinsically weak named unit.
+- **Avoid Scylla FTO25 solely because the label looks linkable** if the chosen team does not qualify. It sacrifices the synchronized Charybdis compared with **non-FTO Scylla32**. Valid FTO teams and the **Scylla FTO + independent Charybdis FTO37** are legitimate separate choices; current canonical [Steel Phalanx Fireteam chart](../../sectorials/aleph/steel-phalanx.md#canonical-fireteam-chart) takes precedence.
+- **Avoid old assumptions** that Achilles is in current Steel Phalanx, that Machaon personally gives the old Eclipse package, that a five-person Core is legal, or that non-FTO Ajax can join a Myrmidon Core. These are **legality/edition errors**, not current 'bad units'.
+
+#### Cross-army takeaways
+
+1. **The least debatable generic ALEPH value is Posthumans where available, cheap Regular Order infrastructure, and a repair/network plan.** Steel Phalanx substitutes its compact, complementary Myrmidon/Thorakitai architecture for the OSS/Vanilla Posthuman engine.
+2. **Most credible explicit “auto-include” claims in retrieved *modern* media:** Pilot-X in the May 2026 [Tactical Awareness OSS episode](https://open.spotify.com/episode/3E6Og0ydRErBokXHYOG6PG); **15pt Sharvara** is emphatically favored around 75m; the June [Shepherd/Jordan](https://www.youtube.com/watch?v=1dW3i9dpI34) review calls Posthumans extraordinary but *does not establish literal 100% tournament usage*.
+3. **Profile-specific versus unit-level “never”:** A bad support purchase (EVO without targets, FTO without a legal/useful link, expensive hacker redundant with an Asura, Guided missile without Spotlight), or a duplicate gun, **does not prove the parent unit is universally bad**. Preserve disagreement, especially the Naga sniper/Dasyu sniper comparison.
+4. **Current rules beat old voices on legality:** No Dakini in September ALEPH/OSS; Mk4 HMG and Mk5 FO; OSS Asura HD+ LT exists whereas **Vanilla's Asura LT is AP Spitfire**, not HD+; Steel's Agamemnon is its sole standard TAG; current Core member cap and FTO restrictions apply.
+
+#### Whole-unit purchasing audit — entire model, not single profile (2026-10-30)
+
+**Result: no defensible all-profile, current-roster whole-unit avoid** in Vanilla ALEPH, Operations Subsection or Steel Phalanx based on the sources above. That is a positive outcome of checking the actual alternatives, **not** a missing category.
+
+| Army | Full-model purchasing decision | Why the apparent “avoid” is not a model ban |
+|---|---|---|
+| **Vanilla ALEPH** | **No unit to blacklist** | FTO Maximus/Rudra cannot gain a non-existent Vanilla team bonus, but may still have a viable standalone profile. Post-update Maximus has real improved combat options; old Dakini is **unavailable** rather than an avoidable *current* model. |
+| **OSS** | **No unit to blacklist** | Naga sniper versus Dasyu is disputed (+1SD versus Hidden/BS); Samekh **FTO** lacks Guided while normal Samekh **has Guided**. Yaksha's cost is contested, not all-profile dominated. |
+| **Steel Phalanx** | **No unit to blacklist** | Scylla FTO sacrifices Charybdis, but standard Scylla + Charybdis and supported FTO configurations remain useful. Expensive duplicate hero teams are a **shopping/list architecture** problem, not proof an individual hero sculpt is bad. |
+
+**Practical collection advice:** defer a pricey hero or TAG when you already own another **for the same battlefield job**, but label that as **redundancy**, not “never take” evidence. [Cross-faction buying shortlist](../factions/model-purchase-avoid-summary-2026.md).
+
+#### Worst-value, rarely needed and proxy-first miniature purchases by army (2026-10-30)
+
+This section answers a **miniature-buying** question separately from Army list selection: which **complete units** are low-priority purchases, which **specific profiles** are weak without making their parent unit bad, which **legitimate but mission-dependent models** merit a proxy before buying, and which **extra copies** are not worth purchasing merely because AVA allows them? Cover all three N5.3 armies: **Vanilla ALEPH, Operations Subsection (OSS), Steel Phalanx**. *Rare* means situational or not needed for the source-backed standard list structures—not a measured frequency or tournament pick-rate claim. **No unit in the checked evidence is conclusively worthless across all current profiles**.
+
+**Confidence labels:** **Strong profile avoid** is a direct negative reviewer comparison or a demonstrated profile/Fireteam mismatch; **Defer whole miniature** means its usual niche is less important to an initial collection, not mathematical domination; **Proxy first** is a **reasoned collection recommendation**, not a claimed literal podcast quote; **Contested** explicitly preserves contrary opinion or a post-review update; **Extra-copy defer** means the first model may be excellent. Roster, profile, availability and Fireteam facts use the [September 2026 Vanilla](../../sectorials/aleph/aleph.md), [OSS](../../sectorials/aleph/operations-subsection.md) and [Steel](../../sectorials/aleph/steel-phalanx.md) references; dated commentators provide preferences. The linked [whole-model purchase audit](#whole-unit-purchasing-audit--entire-model-not-single-profile-2026-10-30) continues to apply.
+
+##### 3. Steel Phalanx — expensive hero overlap, rare support bodies and known collection
+
+For Steel Phalanx there **is** an actual checked-in [owned miniature inventory](../../inventory/steel-phalanx.md), dated **2026-10-30**. Recommendations here distinguish a model that is **bad to buy** from one that is already owned and worth *proxying in a different role*, and do not count the same shared PanO miniature twice.
+
+| Unit / profile / buying proposal | Specific value concern or real alternative | Purchase versus proxy — **your current inventory** |
+|---|---|---|
+| **A second complete premium Greek hero Fireteam** (Ajax/Phoenix/Machaon/Eudoros/Hector/Officer) | **Direct architecture warning** from [CNN N5 Steel deep dive](https://www.youtube.com/watch?v=6RBi4U3t-WQ), [Steel guide](../factions/steel-phalanx.md) and older [Shepherd Steel](https://www.youtube.com/watch?v=764JXbnQ3jQ): two expensive formations compete for the same Orders and leave too few cheap scorers, even though **each hero is strong**. | **Buy none of these characters again as alternatives**: inventory already has **Ajax1, Phoenix1, Machaon1, Eudoros1, Hector1, Myrmidon Officer1, Thrasymedes1, Alkê1 and Acmon1**. Build/declare the chosen team and **proxy extra generic Myrmidon/Officer profiles only if simultaneous body count demands it**. |
+| **Myrmidon and Thorakitai to AVA solely to fill a 'full Core'** | **Source Fireteam cap:** current Steel **Core max four**, even though **Myrmidon AVA6** and **Thorakitai AVA6**. Need actual required team members/missing support, not an AVA completion exercise. | **Extra-copy defer:** you own **4 Myrmidons**, **3 Thorakitai**, **1 Officer**, **2 Dactyls**, plus other eligible named models. **No automatic reason to buy Myrmidons5–6, Thorakitai4–6, Officers2–3**. Proxy the precise extra simultaneous profile when a specific legal four-body build needs it. |
+| **A second Agêma or extra Atalanta/Phoenix/Ajax ranged sculpt** | **Role overlap:** **Agêma MSV2** sniper vs hidden missile, **Atalanta** high-precision long lane, **Phoenix** HRL/ARO, **Agamemnon** independent main gun; all useful but multiple costly exposed/reactive guns don't always add value. [Shepherd/Jordan 2026](https://www.youtube.com/watch?v=1dW3i9dpI34), [Steel guide](../factions/steel-phalanx.md). | **Proxy extra Agêma** rather than purchase now: you own **Agêma1/AVA2, Atalanta1, Phoenix1 and Agamemnon1**. A possible spare OSS Agêma proxy is **unconfirmed**, not counted as owned. Buy second Agêma only for a proven **two-Agêma simultaneous list**. |
+| **Agamemnon TAG without Karkata / engineer or an additional TAG** | **Agamemnon is highly praised**, not a weak purchase; but the selected ancillary **Karkata**, repair plan and distinct TAG body matter. Steel's only standard TAG is **Agamemnon**, not Vanilla Marut or OSS Maximus. | **No Agamemnon purchase needed: owned1/AVA1.** Inventory reports **Karkata0** and suggests your **existing PanO Crabbot1** as a proxy; check silhouette/acceptance. **Dactyl2 + Acmon1 + Yudbots2** cover repair concepts. Do **not** buy a second/illegal Steel TAG. |
+| **Unplanned extra Ekdromoi, Makhai, Hoplites or Thyreos to AVA** | **Reasoned role distinctions:** Ekdromoi flanking/Combat Jump, Makhai specialist team support, Hoplite resilient HI fighting, Thyreos camo midfield — all useful but their second/third copies cannot automatically share the attacking Order budget. | **Proxy extras first.** Owned **Ekdromos1/AVA4, Makhai2/3, Hoplite1/3, Thyreos1/2**. These gaps alone are **not a shopping list**. Buy only when a **specific simultaneous second body/Fireteam** is recurring. |
+| **Scylla FTO25 purchased for automatic Charybdis + link** | **Strong loadout/legality trap:** current [Steel roster](../../sectorials/aleph/steel-phalanx.md) distinguishes **Scylla FTO25 with NO synchronized Charybdis**, **ordinary Scylla32 with Charybdis**, and **Scylla FTO + independent Charybdis FTO37/.5** where legal. A suffix doesn't give the cheaper version all the partner's effects. | **Avoid mistaken FTO *profile* assumption; buy no duplicates.** You already own **Scylla1 and Charybdis1**, each physically distinct. Choose one **legal configuration**, and deploy Charybdis only with a profile that fields it. |
+| **Arjuna as a generic extra linked gun** | **Niche but useful:** optional FTO Wildcard and unique KiranBot perimeter/specialist packages; a standalone Arjuna without a plan may be less urgent than a cheap Thorakitai/K2 or a known hero. **A selected KiranBot needs its own physical figure**. | **Proxy first, don't buy blind:** inventory has **Arjuna0 and KiranBot0**. If the list needs Arjuna **and** a bot, represent **both separately** before committing to sculpts. |
+| **K2 Auxiliary FTO / ordinary K2 model missing** | **Positive role, not 'worst':** cheap E/M/mine/Fireteam support can protect Greek heroes and contest hard attack targets at lower cost than another 30–40pt character. **FTO-only** team legality must be observed. | **Best modest missing-model test:** inventory **K2 Auxiliars0/AVA2**, with a proposed **generic bot proxy**, not yet counted as owned. **Proxy suitable K2 body first**; buy a dedicated model if it routinely solves your *actual* team/defense gap. |
+| **Hippolyta as extra expensive Myrmidon-style close-combat hero** | **Inferred:** powerful Mimetism(-6)/Smoke/CC and Wildcard/Counts-as roles, but your **Ajax/Eudoros/Penthesilea/Myrmidon** collection already offers a lot of fast close pressure. She could become worthwhile for a very specific Smoke/CC/legality interaction. | **Low-priority dedicate purchase; proxy first.** Inventory has **Hippolyta0/AVA1**; suggested **spare OSS model** is **unconfirmed physically**, so do not count a spare copy as guaranteed. |
+| **Sāchā Xenotech Hunters for an ordinary all-comers Steel list** | **Unranked mission-specific option:** current **Steel roster explicitly includes Sāchā AVA1**, but neither the Steel recordings nor normal attacking cores establish a required model. “Rare purchase” ≠ unit is bad or illegal. | **Skip buying by default / proxy if mission needs it.** Inventory records **Sāchā0**, no concrete proxy designated. Borrow/choose a distinct appropriate body if testing. |
+| **Probot Baggage/EVO as a special-purpose additional REM** | **Conditional:** cheap Baggage/Repeater is good but full **EVO** should support actual remotes/airborne units; an unused support REM can crowd an army's small deployment zone and score fewer objectives than cheap infantry. | **No dedicated Probot; proxy first.** Inventory has **Probot0/AVA1** but **2 shared PanO Mulebots** proposed as proxies. They are **the same models already counted under PanO**; verify silhouette and avoid simultaneously assigning one to two roles. |
+| **A second Daleth, Lamedh, Samekh or Zayin miniature / 'all four complete Rebot lines'** | **Cheap/strong or situational:** **Lamedh7** often a best buy; **Daleth Sensor/FO**, **Zayin TR19/24** and **Samekh Guided** have distinct jobs. **Guided** needs real Targeted/Orders; don't buy separate launchers or EVO just for the possibility of using them once. | **Existing shared pool**: **2 ALEPH Rebot chassis plus 4 PanO Dronbots** potentially cover distinct Rebots **in simultaneous lists** if silhouettes/proxy rules fit. **Buy no additional Rebot as a default**. Don't count “2 ALEPH Rebots” as two *of each* family; assign a different physical chassis for each concurrently fielded REM. |
+| **More Netrods, Yudbots, Dactyls or additional peripherals bought to hit AVA** | **All useful in real support context**; four Yudbots, a full Dactyl set or multiple Servants are not compulsory for every list. **Netrod cheap Orders are unusually strong** but your max count is already supplied. | Inventory: **Netrods2/AVA2, Yudbots2/AVA4, Dactyls2/AVA2**. **No Netrod/Dactyl purchases needed**; proxy a third/fourth Yudbot if a particular Doctor/Engineer plan actually needs multiple independent Servant bodies. |
+| **Extra named character Thamyris, Penthesilea, Andromeda, Acmon, Atalanta etc. only to own alternate loadouts** | **Source-based shopping inference:** a single character miniature can represent different *non-simultaneous* legal loadouts; these are credible unique tools and do not need second named sculpts for normal AVA1 play. **Thamyris** provides an alternate support/Fireteam angle, not universal must or hard avoid. | **Already owned: Thamyris1, Penthesilea1, Andromeda1, Acmon1, Atalanta1**, plus named heroes above. **Use existing sculpts, proxy weapon/card variation**, and do not buy duplicates to fill imaginary profile variants. |
+
+**Steel Phalanx purchasing priority for your *reported* collection** ([inventory, 2026-10-30](../../inventory/steel-phalanx.md)):
+
+| Priority | What to do | Why |
+|---|---|---|
+| **Do not buy now** | Additional **Phoenix/Ajax/Machaon/Hector/Eudoros**, **Agamemnon**, two more **Myrmidons**, extra **Thorakitai/Officers**, extra **Agêma**, duplicate **Dactyls/Netrods** | Most needed major heroes and supporting bodies are already owned. A roster gap to **AVA** is *not* evidence of needing more models. |
+| **Use already-owned shared proxies** | **PanO Crabbot → Karkata**, **PanO Mulebot → Probot**, **PanO Dronbots → suitable Rebots**; **2 owned ALEPH Rebots** assigned between actual selected types | Reuses physical models rather than buying redundant support. Check correct silhouette, base size and table-by-table collision with PanO inventory. |
+| **Try by proxy if a *specific* list needs them** | **K2 Auxiliary**, **Hippolyta**, **Arjuna + KiranBot**, **Sāchā**, second **Agêma**, more **Ekdromoi/Makhai/Hoplites/Thyreos** | These are genuine missing minis/duplicate-unit possibilities, *not* guaranteed best buys. The K2 support role is particularly worth testing; Arjuna+KiranBot needs **two separate represented bodies** for that loadout. |
+| **Buy after repeated play** | The **one** missing unit or peripheral whose distinct role wins missions and cannot be represented by an accepted, correctly based proxy | Avoids buying every named unit simply because the army's roster contains it. |
+
+**High-confidence existing Steel assets not to downgrade:** **Ajax, Phoenix, Machaon, Officer, the real Myrmidon squad, Dactyl/Acmon, two Netrods, Lamedh-capable Rebots, Agamemnon, a credible Agêma/Atalanta ranged plan, Scylla with optional Charybdis**. [CNN current-version deep dive](https://www.youtube.com/watch?v=6RBi4U3t-WQ), [2026 broader ALEPH review](https://www.youtube.com/watch?v=1dW3i9dpI34), [full Steel guide](../factions/steel-phalanx.md).
+
+##### Cross-ALEPH — good units, rare loadouts and economical proxy substitutions
+
+**Owned-model coverage:** Steel Phalanx counts above come from the checked-in [actual inventory](../../inventory/steel-phalanx.md). No equally authoritative current **Vanilla ALEPH or OSS inventory** was found at the expected paths; thus no ALEPH/OSS owned unit counts are inferred. A suggested **“spare OSS model”** for Hippolyta does **not establish** which OSS models are physically owned.
+
+| Buying opportunity | Better initial proxy or reuse | When a separate miniature becomes sensible |
+|---|---|---|
+| **Posthuman Mk1/Mk2/Mk4/Mk5 / extra Proxy sculpts** | Use distinct appropriately sized *G:Jumper body* stand-ins, each declared as Mk1 Engineer, Mk2 specialist, Mk4 HMG or Mk5 FO. Their exact silhouettes may differ and are **not one freely interchangeable physical base**. | Buy the exact Proxy Mk bodies that appear **together** in the 2–3-body combination you routinely field; **one proxy selection doesn't make 3 independent Regular Orders**. |
+| **Named S2-scale heroes and support characters** (Apsaras, Sophotect, Danavas, Parvati, Claire, Shukra, Thamyris, Hippolyta, Atalanta, Ajax, Phoenix, Machaon, etc.) | Use a *distinct*, correctly based/silhouetted legal Corvus Belli miniature from the same collection, with named identity and profile stated. Check especially **large HI** and any non-S2 Silhouettes rather than assuming all heroes are S2. | When using multiple named characters **simultaneously**, the proxy isn't visually distinct, event demands closer match, or the character becomes a regular purchased favourite. |
+| **Common Fireteam gun/scoring variants** (Myrmidon, Officer, Thorakitai, Yadu, Deva, Makhai, Hoplite, Posthuman Mk) | Declare the equipped profile clearly and reuse a correct-size mini **of the same troop family** for an alternate rifle/HMG/Doctor/FO/FTO card where allowed. **Only use troop families actually available in the selected ALEPH roster**; never treat a proxy as granting faction access. | Only buy another exact weapon sculpt when the chosen team needs **different bodies simultaneously**, or the organizer requires greater WYSIWYG clarity. |
+| **REM chassis** (Lamedh, Daleth, Zayin, Samekh, Probot, Riksha, Dikpala, Rudra) | Test with spare compatible-size bots: **Steel has two ALEPH Rebots plus four shared PanO Dronbots, and two PanO Mulebots as potential Probot stand-ins**. Specialized support bots **may differ in size** from large combat REMs and tiny RacerBots. | Buy a distinct chassis if its **silhouette/base or simultaneous count** cannot be met, or you play REM-skew lists often. Do not assume every REM uses the same base. |
+| **Multi-body teams and peripherals**: Scylla + Charybdis, Pilot-X + RacerBot(s), Arjuna + KiranBot(s), Dart + Sharvara K-9, Agamemnon + Karkata, Engineer/Doctor + Yudbot | Declare/physically represent **each fielded model and its controller**; the main figure cannot “stand for” all extras at once. **RacerBot additional Regular Orders differ from ordinary Servant/KiranBot/Charybdis order accounting**; consult exact current options. | Buy complete partners once you regularly field the combination and lack enough correctly based stand-ins. **Steel Charybdis1 and Yudbots2 already exist; Karkata0 has Crabbot proxy; Arjuna0/KiranBots0**. |
+| **Heavy/TAG models**: Marut, Maximus TAG, Agamemnon; **Tarkshya Vehicle** | Proxy/borrow **correct silhouette and base** models to test a TAG-heavy list. **Steel already has Agamemnon1**; it is **not a Marut/Maximus TAG legal listing** and one large model cannot be two separate TAGs simultaneously. Tarkshya is a **Vehicle**, not a TAG. | Buy a new large model when its **specific legal roster, physical size and attack role** recur. A large TAG model with the wrong silhouette isn't a drop-in substitute at an organized event. |
+| **Scylla variants / Agent Maximus vs TAG Maximus / Apsaras options / Samekh FTO vs Guided** | Most are **profile choices**, not simultaneously fielded separate named models. **Scylla FTO without Charybdis** is not the same as the **paired** option; **Agent/TAG Maximus** cannot both be selected; **Samekh FTO does not become Guided**. | Buy alternate sculpts only if a second separate legal body is needed concurrently and current event proxy rules require it. Models cannot create missing traits or legal permissions. |
+| **Retired Dakini miniatures, extraneous FTO sculpts, Spec-Ops/Team-Ops** | Reuse Dakini **only as a clearly declared legal trooper proxy** with suitable Silhouette/base; optional game modes require explicit event permission. FTO status requires current roster profile and a real **sectorial Fireteam**. | No reason to buy **illegal old Dakini or optional-mode-only minis for current standard ALEPH/OSS**. |
+| **Sculpt quantity to AVA** (Steel Myrmidon6, Ekdromoi4, Thorakitai6, etc.) | Start from your **actual 300pt list** and physical **simultaneous model count**. One real Myrmidon Officer represents one trooper; it cannot physically represent two different units deployed simultaneously. | Buy duplicates when proven necessary in repeated, legal list builds, not because a spreadsheet has “missing to AVA.” |
+
+**Proxy safety and legal limits:** announce all substitutes before play; verify selected N5.3 **unit access, exact Fireteam option, Silhouette, base, physically represented secondary figures and troop count**. Check current tournament/ITS/organizer proxy conditions for organized play rather than claiming any old season's blanket rule. A model can be a proxy for another unit when legally represented and accepted; **it cannot lend weapons/skills, faction access, an unavailable Fireteam, extra Orders or missing extra bodies**.
+
+**Bottom line for purchases:** There are **no transcript-proven universal ALEPH whole-model “never buys.”** Best direct **profile-only** skips are **OSS Samekh FTO *if the objective is Guided***, **Steel Scylla FTO *if the expectation is included Charybdis*** and **Vanilla/OSS imaginary FTO Fireteams**; the **Naga sniper vs Dasyu** is *contested*, not a settled Naga verdict. Best **whole-model deferral / proxy-first tests** are **OSS Yaksha when a cheap infiltrator suffices**, **Tarkshya when bought only as an early ARO breaker**, **additional expensive Asura/TAG/hero alternatives**, and **Steel Hippolyta/Arjuna+KiranBot/Sāchā / surplus AVA copies** given the actual inventory. Do **not** convert a weak loadout into advice to skip **Posthumans, Myrmidons, Deva/Yadu, Scylla, Agamemnon or ordinary ALEPH scoring/support REMs**.
