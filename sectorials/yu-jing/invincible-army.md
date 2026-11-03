@@ -877,3 +877,155 @@ See [Best ARO Units in N5.3 — apex, cost-value, Hidden Deployment, reactive tr
 | **Failure: limited Specialist coverage** | Onyx Kurnau/Xeodron + cheap mine-sweeping EVO completed Countermeasures 6–0 against compact Shang Ji/Bi Xiè/Haidao split Orders; heavy shooting lacked diverse Classified routes. | [#212](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md) |
 
 **Limit:** The #100 Area of Interest result was introductory/tutorial evidence, not a dependable elite-versus-camo counter ranking. Game-era tactical evidence, not current N5.3 profile/Fireteam or faction win-rate claims. [Full cross-report counterplay analysis](../../notes/battle-reports/n5-cross-report-counterplay-tags-hi-hacking-camo-impersonators-fireteams.md).
+
+---
+
+## Must-have / Go-to / Avoid — source-backed recommendations (2026)
+
+Dated source-backed tactical preferences and miniature purchasing priorities; opinions do not override N5.3 roster, profile or Fireteam data above.
+
+**Original audit title:** Yu Jing N5.3 — Must-have / Go-to / Avoid (YouTube + podcast evidence)
+
+**Audit:** 25 October 2026. **Armies:** [Vanilla Yu Jing](vanilla-yu-jing.md), [Imperial Service](imperial-service.md), [Invincible Army](invincible-army.md) and [White Banner](white-banner.md). Canonical N5.3 Army reference is **7.26246.158, dated 3 September 2026**; these files, not a video's earlier printed costs or old Fireteam chart, establish current legality, availability, profile loadouts, AVA and Fireteam restrictions. **The Vanilla file is marked partial** for full inline loadout projection, though its roster/Fireteam data and listed Vanilla-specific distinctions are recorded; verify unprojected loadouts against the pinned source.
+
+**Evidence method:** Rankings synthesize named-player opinions from the directly retrieved YouTube and podcast transcripts listed below, plus the sectorial files' earlier documented transcript audits. An individual player saying a model is nearly always in *their* lists is **not** measured tournament inclusion. A recurring team package is not a universal mandatory combination. Earlier N5 reviews are especially useful for tactical reasoning; the 2026 N5.3 references take priority for present-day rule/profile specifics.
+
+**Labels**
+- **Must / near-must:** presenter calls it near-automatic, or independent sources repeatedly promote the same reliable core. All choices here are *near*-must/defaults unless explicitly described as compulsory in a particular list archetype.
+- **Go-to:** reliable, well-explained role choice; the list only needs to include it when that role is required.
+- **Avoid / “never take”:** direct reviewer criticism of a particular *profile or job*, with the better-value competitor and source identified. Mark **contested** wherever another credible speaker advocates it. **No confirmed whole-unit universal never-take verdict** emerges for these four armies.
+- **Evidence:** “explicit” means a creator gives a clear personal positive/negative evaluation; “repeated” means multiple presented lists/voices support the choice; “synthesis” means a conclusion drawn from those views and the current roster, not a direct spoken quote.
+
+### At a glance
+
+| Army | Closest to must-have, with scope | Go-to examples | Strongest supported caution |
+|---|---|---|---|
+| **Vanilla Yu Jing** | **Dāoyīng LT(+1 Order)** in NCO-based armies; cheap **Gūdǎn** defence; **Hǎidào KHD/Pitcher** where the network matters | Mówáng NCO + Hǎidào Duo, Zhēnchá, Hac Tao, Sù-Jiàn, Yān Huǒ/Haetae, Shaolin | **Do not automatically fill four slots with Kuang Shi**; expensive Hac Tao hacker for ordinary button work; generic solo Shàng Jí over clearer gun choices — all situational |
+| **Imperial Service** | **No independently established universal model**; Celestial Guard hacker or Kuang Shi + Monitor are compelling *architecture-specific* staples | Adil, Koga, Qiánfēng, Hsien/Bào, Wu Míng, Jìnwèi, Sù-Jiàn, Jīnyào, Lóngwáng | **Generic Crane Rank** often loses its everyday-role value comparison with Adil; plain Celestial Guard rifles are weak filler choices |
+| **Invincible Army** | **Dāoyīng LT(+1 Order)**, **Gūdǎn** screens, **Hǎidào** in link/network plans are recurrent defaults, not universal obligations | Shàng Jí AP HMG/TinBot, Zúyǒng specialist/TacAware, Mówáng, Zhēnchá, Yān Huǒ, Krit, Bìxié | **Qiang Gāo** and **Tai Sheng** cost premiums, Zhanshi Doctor over embedded Paramedics, unsupported EVO: *weak defaults, not unusable units* |
+| **White Banner** | **Gūdǎn** cheap Camo screen; **Haetae** and **Jujak/Hwarang/Dokkaebi** link package in the standard core archetype | Yín-Shé/Yě Māo, Shaolin/Liang Kai, Lóng Yá, Guìláng, Kunai, Blue Wolf/Gūijiă | Generic **Shàng Jí** vs Jujak/Haetae, unsupported Rui Shi, expensive Dàofěi or Hac Tao hacker when mission does not use their premium abilities — **disputed** |
+
+### 3. Invincible Army (IA)
+
+**Direct media:** [Swiss Miss Gaming — N5 Invincible Army Tier List](https://www.youtube.com/watch?v=SvycUWMYKr4) (Nov 2025; transcript retrieved here, explicit unit tiers), [Infinity the Dante — CanCon Invincible Army podium player discussion](https://www.youtube.com/watch?v=rJJ4PamI-hE) (previously transcript-audited), [Tactical Awareness S3E20 — IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS) (May 2025; podcast transcript retrieved here), and [Loss of Lieutenant E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) (~47–65m; podcast transcript retrieved here, includes hosts **correcting an initially illegal proposed Fireteam**). All examples require current N5.3 Fireteam checks; do **not** repeat that rejected double-Pangguling Haris.
+
+#### Must-have / near-must
+
+| Unit | Why / qualification | Direct evidence |
+|---|---|---|
+| **Dāoyīng LT(+1 Order)** | Camo commander producing two LT Orders for Mówáng/Krit/Tai Sheng/Bìxié/Hac Tao NCO. All three LT options receive explicit praise. A non-NCO build can choose another LT. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~11–13m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). **Explicit top personal recommendation.** |
+| **Gūdǎn Camo Zapper/HFT** | Cheap Regular screening needed especially when the rest of IA is an expensive hackable group; choose Zapper versus heavy infantry/TAGs, HFT versus vulnerable infantry. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~1m; [Loss E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) ~49–59m; [Dante CanCon](https://www.youtube.com/watch?v=rJJ4PamI-hE). **Repeated.** |
+| **Hǎidào KHD/Pitcher or MSV2 sniper** | Cheap valuable Wildcard that solves network protection/extension or Camo long ARO. KHD and MSV2 are **different loadouts**: paying for one does not grant both jobs. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~18m; [Loss E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) ~49–59m. |
+
+#### Go-to
+
+| Unit/profile | Why, and why not compulsory | Evidence |
+|---|---|---|
+| **Shàng Jí AP HMG + TacAware/TinBot** | High-confidence linked attack and Firewall engine, even without Mimetism; one of Swiss Miss's A-tier profiles. Loss E169's revised IA lists repeatedly pivot to it. Don't force BS13 into bad visual-modifier fights. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~13–15m; [Loss E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) ~49–59m. |
+| **Zúyǒng Paramedic/TacAware / Number 2** | Two-Wound short-range gun and durable specialist, often better team glue than another expensive gun. Tactical Awareness order efficiency builds; special role rather than a universal second HMG. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~16–17m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). |
+| **Mówáng NCO** | Tough, Mimetism, extra-LT-order-consuming assault body with Disco Baller; Swiss Miss ranks near the top of A. Competes with other costly solo guns. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~25m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). |
+| **Zhēnchá KHD/FO or Minelayer** | Camo Infiltration mission piece outside the HI team; KHD for target hacking, mines for defence (not all variants score). | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~18–20m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). |
+| **Yān Huǒ HRMC / specific missile ARO** | BS14 heavy armour answer; choose HRMC active long-ranged power versus static missile counterplay. ARO-heavy builds can lose the mission if every Order stays at home. | [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS); [Loss E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) ~52–55m ultimately favors the HRMC over its initially proposed illegal fireteam. |
+| **Krit Kokram Engineer/NCO; Bìxié** | Krit keeps HI/TAGs functioning, links, and consumes LT Orders; Bìxié contributes Climbing Plus, FO, close combat and a different attack geometry. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~25–28m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). |
+| **Rui Shi MSV2 / Mine Dispenser with EVO** | Specialist visor gun or second-layer area denial; CanCon players value REM mine control. Not mandatory without smoke, EVO or an MSV problem. | [Dante CanCon](https://www.youtube.com/watch?v=rJJ4PamI-hE); [IA reference](invincible-army.md). |
+
+#### Never take / avoid
+
+| Choice or role | Criticism and meaningful exception | Evidence |
+|---|---|---|
+| **Captain Qiang Gāo as generic expensive gun instead of Shàng Jí** | Swiss Miss puts him in **C tier**, favoring Shàng Jí's ordinary efficiency. Special defensive immunities/abilities can justify Qiang in targeted matchups. **Not a model-wide veto.** | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~25–26m. **Explicit.** |
+| **Zhanshi Yīshēng Doctor purely as default recovery** | Swiss Miss places it low: little output beyond Doctor, and linked Paramedics can fit IA's attack teams better. Take if reliable Doctor coverage is actually valuable for the mission/squad. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~6m. **Explicit.** |
+| **Tai Sheng premium when the slot needs no distinct NCO/CoC/FO/TinBot role** | Swiss Miss praises her improvements but warns the points cost makes her hard to afford versus simple HI efficiency; not strictly dominated because her unique kit differs. | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) ~28–29m; [TA IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS). |
+| **EVO just for a single Liú Xīng landing** | Loss E169 panel prefers multiple EVO uses (e.g. Rui Shi support/other hacking defence) before dedicating it merely to a better drop roll. EVO remains valid if its program mix serves the army. | [Loss E169](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) ~61–64m. |
+
+**Crucial verdict:** Swiss Miss concludes its IA review that **“there's no real duds anymore.”** Treat C-tier recommendations as *relative opportunity cost*, not as universal “never pick this trooper” rulings. [Swiss Miss IA ending ~34m](https://www.youtube.com/watch?v=SvycUWMYKr4).
+
+### Disagreements that must remain visible
+
+1. **Guìláng and Dàofěi:** tournament-proven scenario deployment (Axel/BT Sherman) versus Shepherd's higher priority on cheap Gūdǎn and ordinary attack efficiency. **Do not label either “never take.”**
+2. **Gūijiă versus Blue Wolf:** close-range five-shot AP attack fork versus the safety of an ARM8 long-range MULTI HMG and stronger melee deterrence. **Irregular Order August 2026 favors Gūijiă**; other reviews like Blue Wolf's output.
+3. **Lóng Yá:** defensive area-denial return per point (Axel/Irregular Order) versus BS11 exposure to newer N5 gunfighters (Shepherd).
+4. **Full Kuang Shi support in Vanilla:** efficient discount Orders to buy a TAG-heavy plan (Tactical Awareness) versus taking scarce slots from independent cheap troopers (Shepherd).
+5. **IA profile “duds”:** Swiss Miss's negative C-tier judgments for specific expensive roles do **not** contradict that reviewer's explicit end statement that IA has no whole-unit dead picks.
+6. **ISS generic Crane vs Adil:** the strongest direct everyday-role cost criticism; still inspect Crane's *specific* hacker/LT/gun/Fireteam profile before calling one strictly dominated.
+
+### Ready-made list starting points — conceptual, NOT verified exported Army codes
+
+- **Vanilla:** Dāoyīng LT(+1) → Mówáng NCO + Hǎidào KHD/Pitcher Duo; a long anti-armour gun (Yān Huǒ/Haetae); Gūdǎn, Shaolin or Libertos protection and a separate Zhēnchá/Wèibīng scorer.
+- **Imperial Service:** Celestial Guard hacker; select *one* Smoke+Hsien/Bào or Wu Míng/Adil or Lóngwáng/Sù-Jiàn central threat architecture; add Koga/Qiánfēng asymmetry and affordable regular defence.
+- **Invincible Army:** Dāoyīng LT(+1) + Shàng Jí AP HMG/TinBot, Hǎidào, Zúyǒng/Krit support; 1–2 Gūdǎn screens; Zhēnchá or Liú Xīng as a separate scoring flank; avoid simultaneous overinvestment in multiple expensive HI guns.
+- **White Banner:** Gūdǎn defenders + **one** team spine (Jujak/Hwarang/Haetae/Dokkaebi **or** Yě Māo/Yín-Shé). Add a midfield Guìláng/Kunai, Shaolin/close-trader or TAG/engineer only if that mission needs the role.
+
+### Primary recording and edition audit
+
+| Evidence | Scope and limitations |
+|---|---|
+| [Robert Shepherd — N5 Vanilla Yu Jing](https://www.youtube.com/watch?v=mn4yHSNxsnA) | Full YouTube transcript retrieved and reviewed; excellent general HI/TAG economy and Dāoyīng/Mówáng/Hǎidào thesis. Early N5, not current numerical rules. |
+| [Robert Shepherd — N5 Imperial Service](https://www.youtube.com/watch?v=Yskl69PVzWA) | Full YouTube transcript retrieved and reviewed; **explicitly theory-first**, so use actual-player discussions to challenge confident negative rankings. |
+| [Robert Shepherd — White Banner N5](https://www.youtube.com/watch?v=-hB_mGBSuMY) | Full YouTube transcript retrieved; prices and legal links must defer to current September 2026 Army snapshot. Explicit conflicting views on Guìláng/Dàofěi and unexpected Shàng Jí results. |
+| [Swiss Miss Gaming — N5 Invincible Army](https://www.youtube.com/watch?v=SvycUWMYKr4) | Full YouTube transcript retrieved; direct positive tiers and narrow negative profile appraisals. Presenter says there are no real overall duds. |
+| [Tactical Awareness S3E19 ISS](https://open.spotify.com/episode/0nIc1Ub4zoXpKxb1PyTJl3), [S3E20 IA](https://open.spotify.com/episode/4uGhKYeMBabBftl1gwXhpS), [S3E21 WB](https://open.spotify.com/episode/6kMFfOEsfoblAwlulWPEbd) | Full Podcast MCP transcripts retrieved; actual builds, dissent and reasons. Earlier N5 Fireteam/cost examples are not current rules. |
+| [Tactical Awareness S3E22 Vanilla](https://open.spotify.com/episode/6SExmNQGYYnzbf8vsodN0A) | **Previously full-transcript-audited in repository Vanilla guide**. Direct podcast transcript attempt during this audit was unavailable; claims relying on that episode are flagged as repository's earlier audit, **not falsely represented as freshly retrieved**. |
+| [Irregular Order ISS Oct 2025](https://open.spotify.com/episode/2HyPR3PEKVSLh2iWkBdbXo), [White Banner Aug 2026](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE), [WIP12 E183 Axel](https://open.spotify.com/episode/5JPLqx5tJz0aduXl35WrYv) | Full podcast transcripts retrieved. More recent White Banner analysis and tournament-based counterexamples to broad “avoid” claims. |
+| [Loss of Lieutenant E169 May 2026](https://open.spotify.com/episode/7fhSbt1XOU69pXVhLnZEmu) | Full transcript retrieved; IA list critique ~47–65m; Vanilla Yu Jing ~162–170m. Includes an **acknowledged illegal** proposed IA Pangguling/Yān Huǒ Fireteam, corrected by hosts—do not copy it. |
+| [Infinity the Dante — CanCon IA podium interviews](https://www.youtube.com/watch?v=rJJ4PamI-hE) | Previously full-transcript-audited in [Invincible Army reference](invincible-army.md), with real-game examples of Gūdǎn, Lù Duān and support strategy; corroboration, not a global usage survey. |
+
+**Maintenance:** If the roster/rules revision changes, re-check September 2026 N5.3 profile IDs, AVA, Fireteams and relevant unit revisions before updating these labels. Do not silently transplant White Banner or Imperial Service profile weapons, Wildcards or link bonuses into Vanilla or Invincible Army.
+
+### Whole-unit purchasing audit — complete models, not loadouts (2026-10-30)
+
+**No hard whole-unit “never buy”** follows from the recorded N5.3 opinions. A model can be **deferred** if every reason to buy it is currently niche in *your* army; this is not a ban in another sectorial.
+
+| Army | Whole-unit purchasing decision | Evidence / condition |
+|---|---|---|
+| **Vanilla Yu Jing** | **No verified entire unit to avoid** | Hac Tao Hacker, standalone Shàng Jí and four-Kuang-Shi criticism is about roles/packages; cheaper or different profiles remain effective. |
+| **Imperial Service** | **No verified entire unit to avoid** | Crane ordinary close-fighting value is poor, but gun/hacker/LT/link jobs survive. Bayara is explicitly disputed. |
+| **Invincible Army** | **Defer Captain Qiang Gāo** as a general gun purchase; **conditional** | [Swiss Miss IA](https://www.youtube.com/watch?v=SvycUWMYKr4) places him in C tier relative to Shàng Jí. Buy for a **specific immunity/defensive matchup** or preferred team design. Also **defer Zhanshi Yīshēng Doctor** if existing linked Paramedics cover recovery; Doctor is a real separate capability. The same reviewer says IA has **“no real duds anymore.”** |
+| **White Banner** | **No verified entire unit to avoid** | Dàofěi is disputed with successful mission uses; Shàng Jí/TinBot, Rui Shi+Smoke/EVO and specialist Hac Tao all have distinct jobs. |
+
+**Avoid-by-profile ≠ avoid-by-miniature:** especially do not turn a *standalone* Shàng Jí gun criticism in White Banner into a whole-unit skip in Invincible Army. [Cross-faction buying shortlist](../../notes/factions/model-purchase-avoid-summary-2026.md).
+
+### Worst-value, rare/circumstantial and proxy-first models by army (2026-10-30)
+
+**Purpose:** distinguish (1) an actually **weak profile**, (2) a **rarely justified or mission-dependent whole unit**, and (3) a **good unit that is still better proxied before purchasing** because it overlaps with already-covered roles or requires a specialized list. This is a **collection-buying guide**, not a statistical rarity survey: the cited recordings and battle reports do **not** establish actual inclusion percentages. Recommendations refer to the **September 2026 N5.3 standard rosters**, not optional Spec-Ops/Team-Ops or Reinforcements. In particular, a poor **White Banner Shàng Jí** purchasing case does **not** invalidate **Invincible Army Shàng Jí**.
+
+**Labels and evidence standard:**
+- **Skip purchase; proxy first** = strongest *shopping* recommendation, usually based on an explicit negative reviewer assessment; a niche or dissent may still exist. It is **not** “unplayable.”
+- **Proxy/test before buying** = potentially excellent in an intentional build, but an uncommon *requirement* for generic lists or an expensive single-role/duplicate kit. This is a **reasoned purchasing inference**, **not a claimed presenter quote about frequency**.
+- **Avoid profile only** = there are **other valuable profiles in the same unit**. **Do not blacklist the model.**
+- **One is enough / proxy the second** = a quantity recommendation, **not** an AVA or legality change. **Contested** flags other reviewers, tournament use or different valid roles.
+
+#### Invincible Army (IA) — lowest-priority named kits and redundant HI
+
+| Unit or profile | Why it tends to lose the purchasing comparison | Recommendation |
+|---|---|---|
+| **Captain Qiang Gāo, if bought as an ordinary primary shooter** | **Direct — [Swiss Miss IA tier list](https://www.youtube.com/watch?v=SvycUWMYKr4) ~25–26m:** **C tier** compared with Shàng Jí gun and team utility. He retains **Warhorse, IMM-B immunity, ECM, anti-E/M and other matchup tech**; Tactical Awareness is more receptive. | **Skip dedicated purchase / proxy first** for a normal all-comers list. Buy when the *immunity/defensive matchup* or specific legal team is the actual reason. **Not mathematically dominated.** |
+| **Zhanshi Yīshēng Doctor as default support body** | **Direct — Swiss Miss ~6m:** less role compression than existing **Zúyǒng/Hǎidào** paramedics/specialists, especially in the key advancing team. A Doctor's recovery mechanics remain different from a Paramedic. | **Proxy/test first** from an appropriately based **Zhanshi/other LI support model**; buy a dedicated Doctor only if you repeatedly need that independent recovery service. |
+| **Tai Sheng when selected for nothing beyond an expensive gun/second NCO** | **Direct but qualified:** Swiss Miss likes the improvements but notes cost relative to cheaper Zúyǒng/Shàng Jí and to Krit; distinct **NCO/FO/CoC/TinBot** variants can matter a great deal. | **Proxy first**, particularly if **Krit Kokram** already covers Engineer/NCO and your main team has enough specialists. Not a whole-unit never-buy. |
+| **Chief Engineer Chung-Hee Jeong / Johnny Kao as extra premium repair characters** | **Inference based on [IA tactical comparison](invincible-army.md):** great specialty engineer/toolbox value, but **Krit** plus affordable **Mech-Engineer/Hǎidào Engineer/servants** may already repair everything important. Johnny is an expensive separate support/body. | **Proxy before buying** the named character if you already have sufficient repairs. Acquire only when the **turret/network, durable Engineer or unusual specialist** abilities change the game. |
+| **Léi Gōng as another premium attack/anti-visor body** | **Direct/contested:** [IA guide](invincible-army.md) notes Swiss Miss's efficiency concerns versus Shàng Jí and Tactical Awareness's interest in **Albedo/MSV1/Super-Jump**. | **Proxy first**. Buy when enemy MSV/visibility or lateral engagement routes make his specialized kit materially better than a regular gun. |
+| **Hac Tao Hacker instead of Zhēnchá KHD for ordinary objectives** | **Contested:** 58pt-class Hidden/ARM specialist versus infiltrating cheaper camouflaged scorer. Hac Tao's guns, hidden ARO, resilience and late deployment remain distinct. | **Avoid that narrow loadout as default, NOT the Hac Tao miniature**. A properly distinguished Hac Tao proxy can cover rare hacker tests while primary Hac Tao gun profiles remain good. |
+| **Second Mówáng, second/third Yān Huǒ, duplicate premium Shàng Jí shooter** | **Inference, with recorded alternate builds:** multiple hard targets can work, but static/reactive guns and repeated short-range attackers compete with **Gūdǎn, Zhēnchá** and mission scoring. Swiss Miss and Tactical Awareness disagree on concentration. | **One of each primary-role attacker is often enough for collecting first**; proxy **additional** bodies before buying toward AVA. This is **not** a veto on any of those first copies. |
+| **Gūijiă TAG, especially an extra copy, in a saturated-HI roster** | **Contested:** ARM8/CC/MULTI HMG/TacAware can own zones, but a 77pt TAG often substitutes for more flexible **Shàng Jí/Mówáng + specialist + second angle**. | **Proxy/test the TAG** if its large chassis isn't already in your collection; buy only if it becomes a repeated centerpiece. Extra TAG is a skew, not compulsory. |
+| **Liú Xīng in multiple slots / EVO bought only for one Combat Jump** | **Direct/synthesis — Loss E169:** Combat Jump is a real backline threat but unprotected landing and a specialized EVO support package consume points. Other use of EVO/Rui Shi or objective-breaking roles can justify the plan. | **One Liú Xīng is enough initially; proxy extra**. **Do not buy EVO exclusively for one landing-roll improvement**. Other Liú Xīng mission/hacker options remain legitimate. |
+| **Sāchā 6pt filler and other under-reviewed new utility** | **Unrated, not a criticism:** very cheap Irregular/FD utility can be good when its deployment and troop slot are actually helpful; presence in the roster does not prove either high use or low use. | **Proxy first only if deciding whether the niche matters**; do not label Sāchā a confirmed worst unit without new source evidence. |
+
+**Do not confuse the IA purchasing list with a “bad IA army” tier list.** The [Swiss Miss review](https://www.youtube.com/watch?v=SvycUWMYKr4) explicitly concludes **“no real duds anymore.”** First copies of **Dāoyīng, Gūdǎn, Hǎidào, Shàng Jí, a scoring Zhēnchá and useful Zúyǒng/Krit** are **not** the proxy-first bad-purchase category. The [IA guide](invincible-army.md) documents contrary successful linked-ARO and multi-HI designs.
+
+#### Cross-army “proxy rather than buy” decision checklist
+
+This section applies **even if the model itself is excellent**—for example, when its *second* copy or a weapon-sculpt duplicate is unlikely to be fielded. There is **no Yu Jing miniature inventory in the repository** comparable to the [Kestrel](../../inventory/kestrel.md) and [Military Orders](../../inventory/military-orders.md) inventories, so **no Yu Jing ownership counts are assumed**.
+
+| Model you are considering buying | Proxy-first substitute or test | What actually triggers buying it |
+|---|---|---|
+| **Qiang Gāo, Tai Sheng, Jing Qo, Adil, Léi Gōng, Sforza and other AVA1 named character figures** | Use a **visibly distinct, correctly based Corvus Belli figure** of comparable troop size from an *unused* Yu Jing/JSA/other collection, as allowed at the event. Do not simultaneously use it for its original troop. | Their distinctive command, immunity, anti-visor or Fireteam role appears often enough that a dedicated recognizable character becomes useful. **Adil is a good unit in ISS—proxying initially is about cost, not weakness.** |
+| **Expensive HI specialist/hacker variant of a unit you already have** (Hac Tao, Crane, Shàng Jí, Zúyǒng, Hǎidào, Jujak) | Declare a clearly distinguishable same-unit or compatible correctly based HI figure as that **profile**. | You repeatedly field two differently configured **simultaneous** troopers, or an official event's model/readability rules make the substitute unsuitable. |
+| **Rare infiltrator / specialist body** (Dàofěi, Guìláng, Koga, Qiánfēng, Sulsa) | An *unused*, size/base-compatible **camo/ninja/skirmisher** figure. Compare **body/silhouette**: armored Dàofěi is not automatically the same visual class as ordinary light camo infantry. | A particular deployment state, weapon, specialist requirement or multiple concurrent infiltrators actually warrants owning its own identifiable model. |
+| **Second/third REM variant** (Chaīyì, Hùsòng, Wèibīng, Son-Bae, Rui Shi, Lù Duān, Pangguling, etc.) | Reuse **appropriately based/silhouetted** Yaokong/other REM chassis for declared loadouts; some REM types have *different* sizes/shapes and are **not interchangeable without checking**. | Need *simultaneous* distinct chassis exceeding available substitutes, or a different physical footprint is required. **Guided and FTO are not interchangeable Fireteam permissions.** |
+| **Big centerpiece alternative** (Blue Wolf vs Gūijiă vs Lóngwáng, extra Mówáng/Yān Huǒ, Fēiquán) | Test with a **correctly sized and distinct TAG/VH/HI proxy**, not a normal 25mm infantry marker by default. Fēiquán is a **Vehicle**, not a standard infantry unit. | Your normal 300pt lists choose that chassis repeatedly, or require two independent ones at once. Do not buy a whole expensive alternate chassis solely for occasional matchup uncertainty. |
+| **A Sù-Jiàn model specifically to experiment** | Use suitably distinguishable representations that respect its **two transformation geometries** and Remote Presence/HI status; check the actual silhouette rules before proxying. | Its fast mode-changing attack is a core recurring plan. **Not a weak unit**—this is a particularly specialized physical miniature. |
+| **Spec-Ops / Team-Ops models** | Use ordinary roster models/proxies only when **that event specifically enables the optional mode**. | You actually play optional Spec-Ops/Team-Ops regularly; **not** part of the ordinary 300pt Yu Jing buying list. |
+
+**Proxy-use restrictions:** Always disclose substitutions to opponents and confirm current **base size, silhouette, profile, number of bodies/peripherals and event restrictions**. Match the actual current roster and legal Fireteam chart, not a YouTube list from an older patch. The [ITS Season 17 rules PDF](https://downloads.corvusbelli.com/infinity/organized-play/its-rules-season-17-en-v1.0.2.pdf) permitted another **Corvus Belli** miniature with the appropriate base and disclosure; **verify Season 18 wording and organizer policy** rather than claiming the older wording remains controlling. In casual games, agree on nonstandard substitutes beforehand. A proxy never creates a second physical miniature.
+
+**Bottom line for buying:** **Most concrete low-priority *whole-unit* purchases** are **generic Crane in ISS**, **Bayara without a defense plan**, **Qiang Gāo as a generic gun in IA**, **Zhanshi Doctor if embedded Paramedics already suffice**, and **Dàofěi / Jing Qo without matching White Banner missions**. **Highest-confidence *profile* avoids** are **Hac Tao Hacker for routine buttons**, **unsupported Rui Shi**, **plain Celestial Guard or generic Shàng Jí when their premium roles are redundant**, and **imaginary FTO link configurations**. **This is a shopping priority list, not a universal “never take” tier**, and the full tables above preserve opponents' counterarguments.
