@@ -13,6 +13,13 @@
 - **Top 10 candidate — cheap midfield Minelayer:** **Foxtrot Boarding Shotgun Minelayer 18/0.5** is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 - **Strong sectorial attackers, without an unsupported global Top 10 claim:** **Unknown Ranger MSV1 Mk12 42/0 or AP Spitfire 45/1** has Tactical Awareness, NWI and specialist/gunfighter utility; **Blackjack AP HMG or T2 Sniper 35** provides protected long-range pressure. Their rankings are contested and their price/route costs matter.
 
+- **Top 5 candidate — self-funded enemy-DZ assassination/trading:** **Van Zant AP Rifle 33/0** is **S airborne value**; the **T2 Boarding Shotgun 35/0** is a harder-target alternative. Deployment Zone entry, Tactical Awareness and Dogged create disproportionate pressure when the opponent leaves several vulnerable supports at the edge. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
+- **Top 10 candidate — inexpensive side-entry specialist:** **6th Airborne Ranger FO 20/0** (or **SMG 19/0 / BSG 20/0**) earns **A+ value** for ordinary Parachutist scoring and trades. It **cannot** use Van Zant's enemy-DZ edge access. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
+- **Top 10 candidate — 5-point Regular support/order floor:** **Traktor Mul Baggage 5/0** is **S+** for Order value and conditional disposable-ammo reloads. The **9/1 Guided** and **14/1 Total Reaction** versions cost more and solve different jobs. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
+- **Further A+/S value not previously ranked in this Overview:**
+  - **Devil Dog + K-9 23/0:** **A+** durable Smoke/template and synchronized Sensor/close-pressure package. **Devil Dog FTO 22/0** is the *separate, no-K-9* link option, not the same package. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+  - **Beasthunter HFT + Panzerfaust, Camo/FD(+20), 15/0:** **A+ apex / S points value** for a concealed forward anti-heavy/template fork. Its **9-point FTO** profile has *neither the same Camo/FD package nor a USAriadna Fireteam entry*. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
 ### Particularly useful Fireteams
 
 - **Blackjack Haris with support Wildcards:**

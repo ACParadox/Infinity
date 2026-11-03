@@ -15,6 +15,13 @@
 - **Top 10 candidate — camouflaged midfield Minelayer:** **SAS Minelayer 22/0.5** rates A+ for area denial. Its Forward Observer is a separate profile; do not combine both loadouts into one model. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 - **Sectorial-defining force multiplier:** **Wallace LT 38/0** can transform a deliberately selected Irregular roster into flexible pooled Regular Orders, but is conditional on preserving the Lieutenant. [Command tiers](../list-building/command-units-apex-and-value.md).
 
+- **Top 5 candidate — cheap camouflaged hard-ammo ARO:** **Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** rates **S points value** as a reactive lane tax. It is Irregular and has one Wound, so the positioning/Wallace Order plan matters. [ARO rankings](../list-building/aro-units-apex-and-value.md).
+- **Top 5 candidate — five-point Regular Baggage support:** **Traktor Mul Baggage 5/0** is **S+** incremental Order/reload value and combines unusually well with Caledonia's 6-point Volunteers and cheap Warbands. Do not treat its 9/1 artillery option as the same profile. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
+- **Other cross-faction value omissions:**
+  - **Beasthunter HFT + Panzerfaust Camo/FD(+20) 15/0:** **A+ apex / S value** as a hidden forward anti-heavy/short-template fork. The **9/0 FTO** that joins Volunteers does *not* have that same concealment/mobility package. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+  - **Denma Connolly 12/0:** an **A-tier-type** Regular/Impetuous Smoke/Chain/CC trade using the same printed 12-point package. Its Order is already Regular in Caledonia, so Wallace does not regularize it. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
+  - **112 Emergency Service Doctor 11/0:** **S cheap recovery value** where a low-cost Regular Doctor matters; the **Motorized 19/0** version buys reach and Smoke instead. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+
 ### Particularly useful Fireteams
 
 - **Galwegian Core + Wallace — an unusual cheap-order/close-assault shell:**

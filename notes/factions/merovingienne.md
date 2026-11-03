@@ -14,7 +14,14 @@
 - **Strong unusual support profiles, without a forced global rank:**
   - **Loup-Garou Smoke GL + Riotstopper 17/0:** a Regular ranged Smoke enabler with short-range control.
   - **Para-Commando FO 21/0:** lateral WIP14 (+1 Special Die) scoring and potential Guided setup.
-  - **Kuryer Katyusha 15/1:** Guided/Speculative option with Baggage, Warhorse and a minelayer role; valuable when the whole package matters.
+
+- **Top 3 candidate — 15-point independent Speculative/Guided artillery value:** **Kuryer Katyusha 15/1** is **S+ conditional indirect-fire value** and **S Speculative Fire**: Warhorse, mines and Baggage give it work before or without Targeted. Its Fireteam option is **ETB-only**, not a general Wildcard slot. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
+- **Top 5 candidate — two-entry-vector enemy-DZ strike:** **Mirage-5, Margot + Duroc 60/2** is **S/A airborne apex/value** in the cross-game comparison, and FRRM's pinned roster carries the full package too. Spend it when rear-entry scoring and two complementary attacks justify the 60-point/2-SWC investment. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
+- **Top 10 candidate — forward Smoke/Sensor/Speculative trade:** **Carmen & Bâtard 17/0** is **A+ cheap-warband / S conditional Speculative** value: smoke movement, synchronized Sensor and Bâtard's grenades present different problems at once. It is one purchase with a Peripheral, not two independent Regular Orders. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md) · [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
+- **Top 10 candidate — five-point pooled Order/Baggage:** **Traktor Mul Baggage 5/0** is **S+** support value and can reload appropriate expended weapons in the proper range; the **Guided 9/1** is distinct. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
+- **Useful narrow-cost standouts, not unconditional top picks:**
+  - **Métro Grenade Launcher 10/0.5:** **A** inexpensive opportunistic Speculative shots, but ordinary BS/range and opponent spacing limit its ceiling. The infiltrating **14/0.5** option is a different profile. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
+  - **112 Emergency Service Doctor 11/0:** **S cheap medical value**; **Motorized Doctor 19/0** has a different speed/Smoke job and can escort an ETB when roster-legal. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
 
 ### Particularly useful Fireteams
 
