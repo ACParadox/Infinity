@@ -160,73 +160,73 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 
 ## 3) Assassins: apex tier (target-specific ceiling)
 
-| Tier | Profile and current cost | Best actual attack | Why it ranks there / failure mode |
-|---|---|---|---|
-| **S** | **Shinobu Kitsune44/0.5** (Ōban/Vanilla JSA) | **Monofilament** premium removal, Hidden + high Infiltration, climbing and Smoke | **MA5 CC25** plus delivery, pressure from Turn 0; fragile 1W, and 44pts can be wasted if only 10pt screens are reachable. |
-| **S** | **Oniwaban SMG29/0, BSG30/0** (Ōban/Vanilla JSA) | **Monofilament** high-armor assassin; **E/M** alternative for tech | **MA4 CC24 Hidden/Infiltration/Mimetism−6** at ~2/3 Shinobu cost; generally better single-elimination **points value**, lacks Shinobu's MA5/Climbing/smoke. |
-| **S/A** | **Hussein Al-Djabel33/0** (Bahram) | **Impersonation + Viral CCW**, Smoke, **MA4 CC23** | Climbing Plus and **WIP15** enable assassination around protected flank; Viral target specificity, 1W, and screening makes 33pts expensive. |
-| **S/A** | **Speculo Killer BSG26/1** (Shas/Combined) | **Impersonation + Monofilament** into premium heavy target | Costs 3pt and **1 SWC** above Fiday BSG; 1W/Regeneration and enemy screening make high ceiling volatile. |
-| **A+** | **Fiday BSG23/0, Rifle25/0** (Bahram/Haqq) | **DA CCW, Smoke, Impersonation** on vulnerable support/elite VITA | Cheaper, SWC-free way to create immediate deployment nightmare; **not** an intrinsic Monofilament TAG-delete profile. |
-| **A+** | **Saito Tōgan33/0** (Ōban/Vanilla JSA) | **EXP CCW**, **T2 Boarding Shotgun**, Hidden + Infiltration, Smoke, Bangbomb | More flexible anti-infantry transition than "all or nothing Monofilament"; 1W and must respect enemy anti-marker screens. |
-| **A+** | **Andromeda30/0 BSG or SMG** (ALEPH/Steel) | **MA3 + Guard + D-Charges** from LoF+ZoC, with **Infiltration(PH=15)** | Projects a unique ranged-CC attack and 2-state survival via NWI; WIP13 specialist bonus and good corner pressure. Requires actual LoF and zone; not a hidden Marker assassin. |
-| **A** | **Caliban BSG24/0, FO26/0** (Shas/Combined) | **Camo FD+20 MA3**, **Protheion** on VITA | 24pt cost and alternate mission/Engineer profiles; can build extra VITA off downed living victim. **Not a STR-healing engine**, and weak 1W if wrong target. |
-| **A** | **Igao Vulkan Shotgun23/0, Mirrorball26/0.5** (Tohaa) | **Camo + Infiltration MA3 CC23 DA**, short template | Cheaper concealed midfield fighter; 26pt Pheroware **Mirrorball** enables different vision route; Frenzy, 1W ARM0 and no Monofilament make anti-TAG less reliable. |
-| **A/B** | **Penthesilea28/0** (ALEPH/Steel eligible) | Bike **MOV20-15**, Smoke GL, **CC Attack(-6) Monofilament** | Fast anti-premium tech angle, Specialist operative; **S4, Impetuous and no Marker** can lose to layered ARO/doorways. |
-| **A/B** | **Pavel McMannus33/0** (TAK) | **CC23/MA3 + AP+T2 CCW (PS=5)**, Camo, FD+20, Berserk | **65% chance of 2 Wounds on a normal hit versus ARM3**, more dependable two-Wound conversion than PS8 Monofilament's *single-save odds*, but not an automatic kill of 3+ STR; **1W and 33pt** make delivery/trade efficiency contested. |
-| **B** | **Rasyat BSG25/0** (Combined/Morat) | **Enemy-DZ Parachutist arrival, Eclipse, MA2/NBW DA** | Exceptional *delivery to rear gun/support* even if raw melee is behind Shinobu. Usually a BSG/Eclipse attacker first, CC if the target is vulnerable and within approach. |
+| # | Tier | Profile and current cost | Best actual attack | Why it ranks there / failure mode |
+|---|---|---|---|---|
+| 1 | **S** | **Shinobu Kitsune44/0.5** (Ōban/Vanilla JSA) | **Monofilament** premium removal, Hidden + high Infiltration, climbing and Smoke | **MA5 CC25** plus delivery, pressure from Turn 0; fragile 1W, and 44pts can be wasted if only 10pt screens are reachable. |
+| 2 | **S** | **Oniwaban SMG29/0, BSG30/0** (Ōban/Vanilla JSA) | **Monofilament** high-armor assassin; **E/M** alternative for tech | **MA4 CC24 Hidden/Infiltration/Mimetism−6** at ~2/3 Shinobu cost; generally better single-elimination **points value**, lacks Shinobu's MA5/Climbing/smoke. |
+| 3 | **S/A** | **Hussein Al-Djabel33/0** (Bahram) | **Impersonation + Viral CCW**, Smoke, **MA4 CC23** | Climbing Plus and **WIP15** enable assassination around protected flank; Viral target specificity, 1W, and screening makes 33pts expensive. |
+| 4 | **S/A** | **Speculo Killer BSG26/1** (Shas/Combined) | **Impersonation + Monofilament** into premium heavy target | Costs 3pt and **1 SWC** above Fiday BSG; 1W/Regeneration and enemy screening make high ceiling volatile. |
+| 5 | **A+** | **Fiday BSG23/0, Rifle25/0** (Bahram/Haqq) | **DA CCW, Smoke, Impersonation** on vulnerable support/elite VITA | Cheaper, SWC-free way to create immediate deployment nightmare; **not** an intrinsic Monofilament TAG-delete profile. |
+| 6 | **A+** | **Saito Tōgan33/0** (Ōban/Vanilla JSA) | **EXP CCW**, **T2 Boarding Shotgun**, Hidden + Infiltration, Smoke, Bangbomb | More flexible anti-infantry transition than "all or nothing Monofilament"; 1W and must respect enemy anti-marker screens. |
+| 7 | **A+** | **Andromeda30/0 BSG or SMG** (ALEPH/Steel) | **MA3 + Guard + D-Charges** from LoF+ZoC, with **Infiltration(PH=15)** | Projects a unique ranged-CC attack and 2-state survival via NWI; WIP13 specialist bonus and good corner pressure. Requires actual LoF and zone; not a hidden Marker assassin. |
+| 8 | **A** | **Caliban BSG24/0, FO26/0** (Shas/Combined) | **Camo FD+20 MA3**, **Protheion** on VITA | 24pt cost and alternate mission/Engineer profiles; can build extra VITA off downed living victim. **Not a STR-healing engine**, and weak 1W if wrong target. |
+| 9 | **A** | **Igao Vulkan Shotgun23/0, Mirrorball26/0.5** (Tohaa) | **Camo + Infiltration MA3 CC23 DA**, short template | Cheaper concealed midfield fighter; 26pt Pheroware **Mirrorball** enables different vision route; Frenzy, 1W ARM0 and no Monofilament make anti-TAG less reliable. |
+| 10 | **A/B** | **Penthesilea28/0** (ALEPH/Steel eligible) | Bike **MOV20-15**, Smoke GL, **CC Attack(-6) Monofilament** | Fast anti-premium tech angle, Specialist operative; **S4, Impetuous and no Marker** can lose to layered ARO/doorways. |
+| 11 | **A/B** | **Pavel McMannus33/0** (TAK) | **CC23/MA3 + AP+T2 CCW (PS=5)**, Camo, FD+20, Berserk | **65% chance of 2 Wounds on a normal hit versus ARM3**, more dependable two-Wound conversion than PS8 Monofilament's *single-save odds*, but not an automatic kill of 3+ STR; **1W and 33pt** make delivery/trade efficiency contested. |
+| 12 | **B** | **Rasyat BSG25/0** (Combined/Morat) | **Enemy-DZ Parachutist arrival, Eclipse, MA2/NBW DA** | Exceptional *delivery to rear gun/support* even if raw melee is behind Shinobu. Usually a BSG/Eclipse attacker first, CC if the target is vulnerable and within approach. |
 
 ## 4) Frontline combatants: apex tier (sustain multiple fights)
 
-| Tier | Profile | Best circumstance | Why / cost of failure |
-|---|---|---|---|
-| **S** | **Shikami42/0, 47/0** — Ōban/JSA | Climb/jump + Eclipse + Mimetism−6 to hit a backline defender, **take objective and escape** | **MA3 CC23, AP+DA, 2W**; extraordinarily flexible, but 42pt is not a 29pt single-hit Monofilament investment. |
-| **S** | **Achilles62/1.5 or 63/0** — Next Wave | Long turn through multiple damaged defenders after firing lane cleared | **MA4 CC24, 3W, AP Spitfire/Plasma, EXP, MOV15-10**, legal team; expensive Hackable/No Cover and vulnerable to E/M/hacker net. |
-| **S/A** | **Ajax39/0 FTO or 45/0 FD+20** — Steel | Force a corridor and beat counter-CC with **NBW + MA3 + EXP/Berserk** | ARM5, 2W/NWI and high PH; 39 FTO and 45 forward **are not the same profile**; Impetuous exposure/ARO risk. |
-| **S/A** | **Hippolyta37/0** — Steel/ALEPH/O-12 as rostered | **MOV15-5 Super-Jump, Mimetism−6, Smoke, Berserk, MA3 EXP** combined assault | Versatile 2W, but No-Cover/Impetuous approach requires intentional route. |
-| **A+** | **Sheskiin MULTI Rifle48/0 or Red Fury50/1** — Shas/Combined | BS15 clears approach, **MA4 CC24 DA**, Protheion extends VITA attack | One of few that can win meaningful gunfight *and* melee afterward; extra Wounds from Protheion require target **VITA**, not STR. |
-| **A+** | **Eudoros36/0** — Steel | **Mimetism−6 MA4 CC23, Mk12** and scoring tools, moves with team | Melee threatens exposed shooters while gun covers range; suffers if Smoke/Eclipse not supplied by another roster-legal enabler. |
-| **A** | **Hector61–65** — Steel | **MA4 CC24 EXP** with durable HI and legal attack team | Great CC *plus command/gun*; exceptionally poor budget if all you plan is one melee. |
-| **A** | **Hatamoto Plasma34/0, Red Fury40/1** — Shindenbutai/Vanilla JSA | **MA4 CC23 + NBW + Monofilament / E/M**, strong gun and Specialist | Best versatile HI defensive duelist in its 34pt band; no Hidden, and 15-5 + Mimetism−3 not auto-delivery. |
-| **A/B** | **Crux Father-Knight47/0 Hidden FD+20** — Kestrel/Vanilla PanO | **CC22/MA2, DA CCW (PS=5)**; 2W/ARM5, Specialist, and hidden deployment for approach | Two low-PS saves are very good at forcing at least one Wound on low-ARM infantry; **not two guaranteed Wounds**, and 47pt is high for a pure CC trade. Use his multi-role kit rather than forcing a bad duel. |
-| **A** | **Mendoza Heavy Shotgun40/0 FD+20** — Military Orders | Mimetism−6, 2W, forward burst and MA2 CC22 **DA** | Does more at **shooting** into midfield than pure CC apex; beware Transmutation, lack of Eclipse, and hacking. |
-| **A/B** | **Yojimbo bike20/0 or foot19/0** — Shindenbutai/Ōban | **MA4 CC24 DA + Smoke + CrazyKoala Minelayer + NWI** screen valuable pieces while threatening a countercharge; his broad value is higher than pure melee tier suggests. | Bike 20-15 but S4 exposed; foot S2 fits rooms. **Irregular+Impetuous**, no forward deployment, and only one Yojimbo identity across forms. |
-| **A/B** | **Asawira BSG32/0 / AP33/0** — Bahram | **2W ARM4, MA2 CC23, Berserk(+3), Regeneration** with strong gun | Very efficient into soft and mid-elite targets, but too valuable to deliberately eat ARO before mission work. |
+| # | Tier | Profile | Best circumstance | Why / cost of failure |
+|---|---|---|---|---|
+| 1 | **S** | **Shikami42/0, 47/0** — Ōban/JSA | Climb/jump + Eclipse + Mimetism−6 to hit a backline defender, **take objective and escape** | **MA3 CC23, AP+DA, 2W**; extraordinarily flexible, but 42pt is not a 29pt single-hit Monofilament investment. |
+| 2 | **S** | **Achilles62/1.5 or 63/0** — Next Wave | Long turn through multiple damaged defenders after firing lane cleared | **MA4 CC24, 3W, AP Spitfire/Plasma, EXP, MOV15-10**, legal team; expensive Hackable/No Cover and vulnerable to E/M/hacker net. |
+| 3 | **S/A** | **Ajax39/0 FTO or 45/0 FD+20** — Steel | Force a corridor and beat counter-CC with **NBW + MA3 + EXP/Berserk** | ARM5, 2W/NWI and high PH; 39 FTO and 45 forward **are not the same profile**; Impetuous exposure/ARO risk. |
+| 4 | **S/A** | **Hippolyta37/0** — Steel/ALEPH/O-12 as rostered | **MOV15-5 Super-Jump, Mimetism−6, Smoke, Berserk, MA3 EXP** combined assault | Versatile 2W, but No-Cover/Impetuous approach requires intentional route. |
+| 5 | **A+** | **Sheskiin MULTI Rifle48/0 or Red Fury50/1** — Shas/Combined | BS15 clears approach, **MA4 CC24 DA**, Protheion extends VITA attack | One of few that can win meaningful gunfight *and* melee afterward; extra Wounds from Protheion require target **VITA**, not STR. |
+| 6 | **A+** | **Eudoros36/0** — Steel | **Mimetism−6 MA4 CC23, Mk12** and scoring tools, moves with team | Melee threatens exposed shooters while gun covers range; suffers if Smoke/Eclipse not supplied by another roster-legal enabler. |
+| 7 | **A** | **Hector61–65** — Steel | **MA4 CC24 EXP** with durable HI and legal attack team | Great CC *plus command/gun*; exceptionally poor budget if all you plan is one melee. |
+| 8 | **A** | **Hatamoto Plasma34/0, Red Fury40/1** — Shindenbutai/Vanilla JSA | **MA4 CC23 + NBW + Monofilament / E/M**, strong gun and Specialist | Best versatile HI defensive duelist in its 34pt band; no Hidden, and 15-5 + Mimetism−3 not auto-delivery. |
+| 9 | **A/B** | **Crux Father-Knight47/0 Hidden FD+20** — Kestrel/Vanilla PanO | **CC22/MA2, DA CCW (PS=5)**; 2W/ARM5, Specialist, and hidden deployment for approach | Two low-PS saves are very good at forcing at least one Wound on low-ARM infantry; **not two guaranteed Wounds**, and 47pt is high for a pure CC trade. Use his multi-role kit rather than forcing a bad duel. |
+| 10 | **A** | **Mendoza Heavy Shotgun40/0 FD+20** — Military Orders | Mimetism−6, 2W, forward burst and MA2 CC22 **DA** | Does more at **shooting** into midfield than pure CC apex; beware Transmutation, lack of Eclipse, and hacking. |
+| 11 | **A/B** | **Yojimbo bike20/0 or foot19/0** — Shindenbutai/Ōban | **MA4 CC24 DA + Smoke + CrazyKoala Minelayer + NWI** screen valuable pieces while threatening a countercharge; his broad value is higher than pure melee tier suggests. | Bike 20-15 but S4 exposed; foot S2 fits rooms. **Irregular+Impetuous**, no forward deployment, and only one Yojimbo identity across forms. |
+| 12 | **A/B** | **Asawira BSG32/0 / AP33/0** — Bahram | **2W ARM4, MA2 CC23, Berserk(+3), Regeneration** with strong gun | Very efficient into soft and mid-elite targets, but too valuable to deliberately eat ARO before mission work. |
 
 ## 5) Cheap CC value tier — cost + realistic delivery, not printed CC score
 
-| Value | Profile | Best for the points | Why / anti-case |
-|---|---|---|---|
-| **S** | **Fiday BSG23** | Already near enemy support/shotgun victim | Impersonation/DA/Smoke, 0 SWC, forces enemy DZ planning before any attacks. |
-| **S** | **Oniwaban SMG29** | Premium TAG/HI execution after a short marker move | **One of few sub-30pt Hidden/Monofilament packages**; more reliable *delivery* than Mushashi, not a more powerful raw MA level. |
-| **S** | **Musashi21 Irregular / 25 FTO Regular** — Ōban | **Counter-charge**, defend DZ, cheap 25+ MA5 EXP bully | 21pt Irregular version has extraordinarily high *one-target impact at contact*, but no hidden/infiltration, making long-distance active assassination worse. |
-| **S** | **Makaul14** — Tohaa | **Eclipse + HFT + CC23 MA2 Viral/DA** to join a Triad / contest room | Eclipse enables whole army; MA2 B1 less lethal than MA4/5 and Impetuous No Cover needs protected path. |
-| **S** | **Dāturazi Chain Rifle(+1B)14** — Morat/CA | **Regular Smoke + CC23 MA4 DA** cheap assault/vision tool | 2 real CC dice and excellent critical threat, plus Regular order; one W and depends on LoF/screening. |
-| **S/A** | **Diablo8/0 Trench-Hammer** — Corregidor | **Berserk/NBW, 2W Transmutation** threatens expensive target if legal Correctional team covers delivery | Impetuous+Irregular, fragile to templates/E/M and a **missed Berserk distance yields Idle**. |
-| **S/A** | **Domaru AP19 or E/M20** — Ōban | **CC24 MA3, Berserk, 2W**, E/M versus enemy HI/TAG | Strong cheap armored body in a **legal Fireteam**; alone, crossing ARO corridor costs more than its melee advantage. |
-| **S/A** | **Myrmidon chain16** — Steel/ALEPH | **Mimetism−6 + Smoke + MA3 DA** Regular attack screen | If one safe template trade / smoke route enables Achilles, it's better value than a second 60pt melee star. |
-| **S/A** | **Galwegian5** — Caledonia | Smoke + CC22 AP into vulnerable body; disposable pin | **One W, Impetuous/Irregular**, less reliable armor murder than Monofilament; great tempo trade, not full elimination certainty. |
-| **A+** | **Teutonic Knight18** — Military Orders | **2W, MA2 DA**, assault corner with Panzerfaust/Light Shotgun backup | Good 18pt rugged close threat when team/cover supports approach; Impetuous is not always a free benefit. |
-| **A+** | **Jaguar10** — Corregidor | Regular team scaffold, **Smoke + Dogged + DA**, melee screen for Intruder and correctional assault | MA1 B1; worse pure combat dice than Dāturazi, but excellent package/faction context. |
-| **A+** | **Cameronian18** / **McMurrough23** — Caledonia / eligible | Fast **15-10 Smoke 2W** body with T2 or AP+DA and template | Size S6, Impetuous/Irregular, and mines/templates punish direct route; ideal opening a short lane and surviving first exchange. |
-| **A** | **Igao23** — Tohaa | **Infiltration+Camo+MA3** ambush of objective-room infantry | Good initial position, but one-Wound ARM0, no Monofilament; treat VITA/LI targets preferentially. |
-| **A** | **Caliban24** — Shas | Camo+FD+20, VITA snowball, cheap field problem | Protheion cannot grow from enemy TAG STR; killing CC tanks demands more than an ordinary PS5 CCW. |
-| **A** | **Yojimbo19–20** — Shindenbutai/Ōban | **Smoke, CrazyKoala Minelayer, NWI, CC24 MA4 DA** counter-CC screen and late attack; value increases if Koalas already protect useful routes. | **Irregular+Impetuous** changes Order economy; reaching CC is not automatic, and bike/foot silhouette and movement differ. |
-| **A** | **Varangian12 SMG/Chain Rifle** — O-12 (Regular) | **Smoke, Berserk(+3), Dogged, CC23** defend room / trade for defender | Many other rosters have different Regular/Irregular status; always check printed unit. |
-| **B/A** | **Pavel McMannus33** — TAK | Camo/FD+20, Specialist, **AP+T2 CCW (PS=5)** for two-Wound ambushes | Real low-PS damage edge versus soft/mid-armour targets, but **one Wound for 33pt** and contested approach means niche value rather than universal pickup. |
-| **B/A** | **Hatamoto34** — Shinden/JSA | Firearm + **NBW/MA4/Mono/E/M** + Specialist in durable 2W slot | Too expensive if only objective is killing one 10pt warband. |
-| **B** | **Rasyat25** — Morat/CA | Arrives in enemy rear via **Parachutist(DZ)**, carries Eclipse and CC backup | Value commonly from shotgun/DZ attack *before* MA2, not a universal melee executioner. |
+| # | Value | Profile | Best for the points | Why / anti-case |
+|---|---|---|---|---|
+| 1 | **S** | **Fiday BSG23** | Already near enemy support/shotgun victim | Impersonation/DA/Smoke, 0 SWC, forces enemy DZ planning before any attacks. |
+| 2 | **S** | **Oniwaban SMG29** | Premium TAG/HI execution after a short marker move | **One of few sub-30pt Hidden/Monofilament packages**; more reliable *delivery* than Mushashi, not a more powerful raw MA level. |
+| 3 | **S** | **Musashi21 Irregular / 25 FTO Regular** — Ōban | **Counter-charge**, defend DZ, cheap 25+ MA5 EXP bully | 21pt Irregular version has extraordinarily high *one-target impact at contact*, but no hidden/infiltration, making long-distance active assassination worse. |
+| 4 | **S** | **Makaul14** — Tohaa | **Eclipse + HFT + CC23 MA2 Viral/DA** to join a Triad / contest room | Eclipse enables whole army; MA2 B1 less lethal than MA4/5 and Impetuous No Cover needs protected path. |
+| 5 | **S** | **Dāturazi Chain Rifle(+1B)14** — Morat/CA | **Regular Smoke + CC23 MA4 DA** cheap assault/vision tool | 2 real CC dice and excellent critical threat, plus Regular order; one W and depends on LoF/screening. |
+| 6 | **S/A** | **Diablo8/0 Trench-Hammer** — Corregidor | **Berserk/NBW, 2W Transmutation** threatens expensive target if legal Correctional team covers delivery | Impetuous+Irregular, fragile to templates/E/M and a **missed Berserk distance yields Idle**. |
+| 7 | **S/A** | **Domaru AP19 or E/M20** — Ōban | **CC24 MA3, Berserk, 2W**, E/M versus enemy HI/TAG | Strong cheap armored body in a **legal Fireteam**; alone, crossing ARO corridor costs more than its melee advantage. |
+| 8 | **S/A** | **Myrmidon chain16** — Steel/ALEPH | **Mimetism−6 + Smoke + MA3 DA** Regular attack screen | If one safe template trade / smoke route enables Achilles, it's better value than a second 60pt melee star. |
+| 9 | **S/A** | **Galwegian5** — Caledonia | Smoke + CC22 AP into vulnerable body; disposable pin | **One W, Impetuous/Irregular**, less reliable armor murder than Monofilament; great tempo trade, not full elimination certainty. |
+| 10 | **A+** | **Teutonic Knight18** — Military Orders | **2W, MA2 DA**, assault corner with Panzerfaust/Light Shotgun backup | Good 18pt rugged close threat when team/cover supports approach; Impetuous is not always a free benefit. |
+| 11 | **A+** | **Jaguar10** — Corregidor | Regular team scaffold, **Smoke + Dogged + DA**, melee screen for Intruder and correctional assault | MA1 B1; worse pure combat dice than Dāturazi, but excellent package/faction context. |
+| 12 | **A+** | **Cameronian18** / **McMurrough23** — Caledonia / eligible | Fast **15-10 Smoke 2W** body with T2 or AP+DA and template | Size S6, Impetuous/Irregular, and mines/templates punish direct route; ideal opening a short lane and surviving first exchange. |
+| 13 | **A** | **Igao23** — Tohaa | **Infiltration+Camo+MA3** ambush of objective-room infantry | Good initial position, but one-Wound ARM0, no Monofilament; treat VITA/LI targets preferentially. |
+| 14 | **A** | **Caliban24** — Shas | Camo+FD+20, VITA snowball, cheap field problem | Protheion cannot grow from enemy TAG STR; killing CC tanks demands more than an ordinary PS5 CCW. |
+| 15 | **A** | **Yojimbo19–20** — Shindenbutai/Ōban | **Smoke, CrazyKoala Minelayer, NWI, CC24 MA4 DA** counter-CC screen and late attack; value increases if Koalas already protect useful routes. | **Irregular+Impetuous** changes Order economy; reaching CC is not automatic, and bike/foot silhouette and movement differ. |
+| 16 | **A** | **Varangian12 SMG/Chain Rifle** — O-12 (Regular) | **Smoke, Berserk(+3), Dogged, CC23** defend room / trade for defender | Many other rosters have different Regular/Irregular status; always check printed unit. |
+| 17 | **B/A** | **Pavel McMannus33** — TAK | Camo/FD+20, Specialist, **AP+T2 CCW (PS=5)** for two-Wound ambushes | Real low-PS damage edge versus soft/mid-armour targets, but **one Wound for 33pt** and contested approach means niche value rather than universal pickup. |
+| 18 | **B/A** | **Hatamoto34** — Shinden/JSA | Firearm + **NBW/MA4/Mono/E/M** + Specialist in durable 2W slot | Too expensive if only objective is killing one 10pt warband. |
+| 19 | **B** | **Rasyat25** — Morat/CA | Arrives in enemy rear via **Parachutist(DZ)**, carries Eclipse and CC backup | Value commonly from shotgun/DZ attack *before* MA2, not a universal melee executioner. |
 
 ## 6) Guard and counter-CC — separate defensive category
 
 **Guard** is not automatically "best melee": it bypasses **contact** only when the **target is in LoF and ZoC**, lets both participants use CC-contact skills, and can ARO with CC; but **does not physically pin/Engage** distant victim. It is a small local **control bubble**, not an unrestricted ranged Monofilament attack.
 
-| Tier | Counter / price | Why it works | When it fails |
-|---|---|---|---|
-| **S** | **Andromeda30** (ALEPH/Steel) | Guard + MA3 + D-Charges, NWI, Infiltration: offense and reactive melee-control in a mission corridor | Lacks LoF or facing Aerial, has to expose herself to get first ZoC + LoF, or opponent shoots from outside. |
-| **A** | **Alpha24** (O-12) | Guard+MA2/CC21 + DA, **Biometric Visor** counters some impersonator positioning near protected DZ assets | Passive 24pt body with little long-range reach; CC attacker might instead kill Alpha with templates/remote shooting. |
-| **A** | **Musashi21, Hatamoto34**, **Ajax39/45** | MA5 huge active/reactive quality (Mushashi), **NBW** on Hatamoto/Ajax defeats attacker-applied **MA/Surprise penalty** | No LoF/position to countercharge; NBW does not grant auto-win or stop AP/Monofilament saves. |
-| **A** | **Yojimbo19/20, Domaru19/20, Makaul14, Dāturazi14** | Minelayers/Smoke, strong CC or expendable body screens premium shooter from base contact | Screen can be bypassed with Smoke, speculated mines or templates; don't bunch defender/support in one template. |
-| **B situational** | **cheap body joining melee / Coordinated assault** | Extra allied models **in base contact with target** can increase real CC Burst; one disposable body can delay a 70pt shooting machine without killing it | **Servant and Fireteam limitations** apply; not all 4 models can physically reach target; Command Token expense, geometry and AROs. |
+| # | Tier | Counter / price | Why it works | When it fails |
+|---|---|---|---|---|
+| 1 | **S** | **Andromeda30** (ALEPH/Steel) | Guard + MA3 + D-Charges, NWI, Infiltration: offense and reactive melee-control in a mission corridor | Lacks LoF or facing Aerial, has to expose herself to get first ZoC + LoF, or opponent shoots from outside. |
+| 2 | **A** | **Alpha24** (O-12) | Guard+MA2/CC21 + DA, **Biometric Visor** counters some impersonator positioning near protected DZ assets | Passive 24pt body with little long-range reach; CC attacker might instead kill Alpha with templates/remote shooting. |
+| 3 | **A** | **Musashi21, Hatamoto34**, **Ajax39/45** | MA5 huge active/reactive quality (Mushashi), **NBW** on Hatamoto/Ajax defeats attacker-applied **MA/Surprise penalty** | No LoF/position to countercharge; NBW does not grant auto-win or stop AP/Monofilament saves. |
+| 4 | **A** | **Yojimbo19/20, Domaru19/20, Makaul14, Dāturazi14** | Minelayers/Smoke, strong CC or expendable body screens premium shooter from base contact | Screen can be bypassed with Smoke, speculated mines or templates; don't bunch defender/support in one template. |
+| 5 | **B situational** | **cheap body joining melee / Coordinated assault** | Extra allied models **in base contact with target** can increase real CC Burst; one disposable body can delay a 70pt shooting machine without killing it | **Servant and Fireteam limitations** apply; not all 4 models can physically reach target; Command Token expense, geometry and AROs. |
 
 **Counterplay decision:**
 
