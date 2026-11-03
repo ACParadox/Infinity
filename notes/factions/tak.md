@@ -35,6 +35,21 @@
 - **Veterans Core/Haris/Duo:** a legal **Veteran Kazak and/or Frontovik** required-choice foundation, with up to two eligible **112 FTOs**, can make a difficult ranged problem and preserve specialist/recovery options.
 - **Mobility Duo/Haris:** a **Dynamo and/or Ratnik** foundation with eligible **112 Motorized, Frontovik or Ioann Bann** provides a faster, very different attack axis. It competes for points with the Gunnery shell.
 
+### Battle-report audit — observed TAK Core/Haris/Duo structures
+
+The [report reconstructions](../battle-reports/n5-battle-reports-and-tournament-reports.md) support **three different list architectures**. Historical played formations are tactical evidence; the [N5.3 TAK Fireteam chart](../../sectorials/ariadna/tartary-army-corps.md#canonical-fireteam-chart) controls current legality.
+
+| Source | Played links and other elements | Application |
+|---|---|---|
+| [#087 Acquisition vs WinterFor](../battle-reports/081-090-n5-battle-report-tactical-analysis.md#L176) | **Five-member Line Kazak Core:** 4 Line Kazaks (including Lt) + Frontovik AP Sniper; **three-member Veterans Haris:** Veteran Kazak HMG + Vet FO + Frontovik Engineer. Independent Strelok, Vystrel, Carmen and Spetsnaz. | Cheap ranged/Order **Core + mobile scoring/recovery Haris**. Engineer servant is not a fourth linked model. |
+| [#058 Frontline vs JSA](../battle-reports/051-060-n5-battle-report-tactical-analysis.md#L247) | **Five-member Veterans Core:** Veteran Kazak FO + Frontovik sniper + **2 Frontovik Engineers** + Frontovik HRL; separate **three Line Kazaks Haris**, Camo and airborne Spetsnaz. | Specialists in the gun team **won Frontline/Classified tasks**. The **9–1** was a learning game against an under-specialized JSA roster, not a matchup tier. |
+| [#035 Frostbyte](../battle-reports/031-040-n5-battle-report-tactical-analysis.md#L194) and [#127 tutorial](../battle-reports/121-130-n5-battle-report-tactical-analysis.md#L204) | **Voronin/Line/Frontovik Core** variants: #035 likely five with inferred Lt; #127 named **Voronin + 3 Line Kazaks + Frontovik Sniper**, five physical members. #035 also reconstructs **Veteran HMG + Vet FO + Frontovik Engineer Haris**. | Voronin can legally join the Line Kazak family, but #035's fifth identity remains inferred and #127 is a coached deployment, not tournament validation. |
+| [#064 Hardlock vs Combined](../battle-reports/061-070-n5-battle-report-tactical-analysis.md#L112) and [#067 Superiority vs Ikari](../battle-reports/061-070-n5-battle-report-tactical-analysis.md#L209) | **Two distinct Vystrel + Traktor Mul Courier Gunnery Duos**, **one Dynamo Duo**, plus Scout E/M, Strelok Decoys/FOs, Tankhunter and warbands. #064's third Dynamo was **unlinked**. | **Artillery/Camo saturation** rather than an expensive Core: two spread-out reactive/reload nodes plus mobile bikes. Results **5–5** and **3–2** emphasize the *last HVT/antenna scorer* over attrition. |
+| [#039](../battle-reports/031-040-n5-battle-report-tactical-analysis.md#L356) / [#043 ITS18](../battle-reports/041-050-n5-battle-report-tactical-analysis.md#L92) | Dynamo Duo confirmed, **Gunnery Haris discussed but membership uncertain**, Voronin/Line/Veteran shell incomplete. | Preserve a Camo Scout for late consoles; **do not copy an apparent three-Traktor claim** from translated speech (current Traktor AVA2). |
+| [#190 ITS18 Double Bind](../battle-reports/181-190-n5-battle-report-tactical-analysis.md#L265) | Veteran Kazaks, hidden Tankhunter autocannon, Strelok/Camo and Spetsnaz; **no starting TAK Fireteam established**. | The **8–6** defeat underlines D-Charges/anti-materiel and HVT scoring; an unfired hidden autocannon is not automatically successful defense. |
+
+**Choose one shell to build around:** **Line Core + Veterans Haris** (protected Orders and specialist gun), **Veterans Core + small Line Haris** (objective-zone occupation), or **dual Vystrel/Courier Duos + Dynamo Duo** (distributed ARO/Camo pressure). These are **alternatives**, not one observed mega-list. Recheck Army AVA, SWC and the allowed Core/Haris count before assembling a new 300-point version.
+
 ### Unusual access, gaps and trade-offs
 
 - **No standard TAG or VH-class Vehicle:** **Ratnik** is heavy infantry and **Dynamo** is motorcycle LI; **Vystrel/Kuryer/Traktor** are REMs.
