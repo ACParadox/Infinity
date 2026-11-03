@@ -77,11 +77,32 @@ Disco can screen ordinary guns while White Noise selectively denies visors; do n
 
 ## TAGs: Szalamandra versus Anaconda
 
-**Szalamandra** — **68pts / 2SWC, AVA2, 3W ARM8 BTS9, BS14, HRMC, HFT, NCO, ECM:Guided(-6), RobbyBot**; **no Tactical Awareness** on this pinned profile. **Why take it:** the HRMC is one of Tunguska's best serious long-range weapons; high burst/AP and strong range bands let it dismantle hard AROs and hide behind thick armor. Linked to an Interventor HD+ and a cheap NCO/Lt engine (if relevant), it can exploit Lt Orders **as NCO** without stealing the whole pool. The attendant RobbyBot can score as an Ancillary Specialist under rules. **Why not:** **2SWC** plus a pure premium gun chassis, vulnerable to close combat and opposing hackers; Robert often chooses Kriza, Hollow Men, and more Specialists instead of TAG. WIP12 N4 compared it favorably with Gator because **HRMC** outranges HMG and does not pay for much extra kit. **It is not a Tunguska Fireteam member.**
+**Szalamandra — a premium long-range TAG:**
 
-**Anaconda** — **59pts / 1.5SWC, AVA1, 3W ARM7 BS13 BTS6, Tactical Awareness, Immunity(AP), Warhorse, Escape System(-2)**, choice of **AP Spitfire+HFT(+1B)+AP Thunderbolt** or **HMG+Light Shotgun(+2B)+Panzerfaust**. **Can form a VATRA Duo** with allowed Kriza/Kulak/Grenzer. Its **Operator** keeps **Specialist Operative, Tactical Awareness, Mimetism(-3), Smoke Grenade Launcher** after Escape. **Why take it:** saves **9pts/0.5SWC** compared with Szalamandra, generates own TacAware, anti-AP/Warhorse has special matchups, and can score after its TAG body fails. HMG/Panzerfaust for open lanes, AP Spitfire/templates for close control; choose the precise objective and terrain. **Why not:** Robert, Tactical Awareness and some MetaChemistry discussion all question price/reliability compared to **Szalamandra's HRMC** or **45pt Kriza**, despite the useful Operator. Its 59pt cost is *not* the cheap “sub-50 TAG” fantasy heard in older audio.
+- **Pinned profile:** 68pt/2SWC, AVA2, 3W, ARM8/BTS9, BS14, HRMC, HFT, NCO, ECM:Guided(-6) and RobbyBot; **no Tactical Awareness**.
+- **Why take it:** the high-Burst/AP HRMC, long range and armor pressure hard AROs. Its **RobbyBot Ancillary** can score under the appropriate rules.
+- **Order support:** NCO can use an available Lieutenant Order; **Interventor HD+** can provide separate hacking support, but it does not make the TAG a linked troop.
+- **Why hesitate:** 2SWC, high cost, CC and hacker exposure, plus an opportunity cost versus **Kriza, Hollow Men and additional specialists**. Robert often prefers those wider packages.
+- **Dated comparison:** N4 WIP12 favored the HRMC against **Gator's HMG**, but old comparative pricing is not current Fireteam authority.
 
-**A TAG does not automatically receive two Order engines:** Szalamandra has **NCO, not TacAware**; Anaconda has **TacAware**, not NCO. Anaconda is linkable only by VATRA chart, not with Securitate or Hollow Men. **TAG-Treiber** is a separately purchased **10pt Szalamandra Pilot/KHD** in Securitate, not a free gun platform or a Fireteam bonus for the Szalamandra.
+**Szalamandra is not a Tunguska Fireteam member.**
+
+**Anaconda — flexible TAG with Escape System:**
+
+- **Pinned profile:** 59pt/1.5SWC, AVA1, 3W, ARM7/BTS6, BS13, Tactical Awareness, Immunity(AP), Warhorse and Escape System(-2).
+- **Weapon choice:** AP Spitfire + HFT(+1B) + AP Thunderbolt **or** HMG + Light Shotgun(+2B) + Panzerfaust; prefer the former for nearer control and the latter for open lanes.
+- **VATRA Duo partners:** eligible **Kriza, Kulak or Grenzer**, subject to the actual chart.
+- **After Escape:** the Operator retains Specialist Operative, Tactical Awareness, Mimetism(-3) and Smoke Grenade Launcher.
+- **Why take it:** saves 9pt/0.5SWC compared with Szalamandra; brings its own TacAware, anti-AP/Warhorse matchup utility and a surviving scoring operator.
+- **Why hesitate:** Robert, Tactical Awareness and some MetaChemistry discussion dispute its reliability versus **Szalamandra HRMC** or a **45pt Kriza**.
+
+Do not treat the current 59pt TAG as an old cheap sub-50-point option.
+
+**TAG Order engines and Fireteams are distinct:**
+
+- **Szalamandra:** NCO, **not** Tactical Awareness; always solo under the pinned Tunguska Fireteam chart.
+- **Anaconda:** Tactical Awareness, **not** NCO; linkable only through the VATRA chart, not with the Securitate or Hollow Men team.
+- **TAG-Treiber:** separately purchased 10pt Szalamandra Pilot/KHD in Securitate, not free firepower or an automatic Szalamandra Fireteam bonus.
 
 **TAG and REM support choices:**
 
