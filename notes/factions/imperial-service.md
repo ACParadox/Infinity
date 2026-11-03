@@ -51,10 +51,27 @@ Derived analysis aids, not official characteristics.
 
 **Thesis:** ISS wins through *interlocking complementary tools*, not a single mandatory death star: inexpensive Regular orders; smoke + MSV / Albedo; flexible Duo/Haris packages; credible mobile HI/TAGs; and an unusually wide supply of E/M, adhesive, PARA, mines, hacking and repeaters. Robert Shepherd's pre-play review is optimistic about breadth and warns that a list which merely crams in every gimmick can lose focus. Tactical Awareness's game-informed reviews show viable but very different ISS builds (Sun Tze/TAG, Hsien/bounty-hunter teams, or network-control packages), yet the hosts disagree on the faction's overall efficiency.
 
-1. **Choose one primary attack plan and its answer to armour:** Hsien/Bào visibility control; Lóngwáng with repairs and orders; fast Sù-Jiàn; Wu Míng HI trading; or hidden/airborne E/M and hacking. A secondary attack vector prevents one counter or lost gun from ending the turn.
+1. **Choose one primary attack plan and its answer to armour:**
+   - **Hsien/Bào:** MSV and visibility control.
+   - **Lóngwáng:** TAG pressure supported by repairs and Orders.
+   - **Sù-Jiàn:** fast independent HI assault.
+   - **Wu Míng:** linked HI trading.
+   - **Hidden/airborne E/M and hacking:** an indirect disabling or flanking route.
+
+   Include a second attack vector so a lost gun or single counter cannot end the turn.
 2. **Buy only the Kuang Shi you need.** A Monitor + two Kuang Shi is a compact, linked smoke/Core and three Regular-order package; more cheap bodies can fuel a costly threat, but using the sole Core for this denies a Wu Míng/Celestial alternative. Kuang Shi lost Dogged in N5: treat them as disposable trading pieces, not guaranteed survivors.
-3. **Cheap hacking is unusually efficient.** The 14-point, WIP 14 Celestial Guard hacker (0.5 SWC) pairs well with Wèibīng, Rui Shi, Pangguling, Jīnyào deployable repeaters and Zhànyīng Pitchers. Consider a Jìnwèi for Firewall/Sensor and as tougher link glue. **An ordinary Celestial Guard Duo is *not* on the current chart:** use a legal Core/Haris, e.g. a third eligible member, or keep them separate.
-4. **Solve Lieutenant safety explicitly.** Sun Tze's Strategos L2, Decoys, Counterintelligence and Lieutenant (+1 Order) option are excellent but cost 53 points; a cheap Celestial Guard LT preserves more attackers but is easier to identify/attack. Pheasant Chain of Command and Táowù's CoC option buy insurance at real opportunity cost.
+3. **Cheap hacking is unusually efficient.** The **Celestial Guard hacker (14 points, WIP14, 0.5 SWC)** benefits from several network partners:
+   - **Wèibīng:** Sensor/FO Repeater.
+   - **Rui Shi / Pangguling:** REM Repeaters and support infrastructure.
+   - **Jīnyào:** airborne deployable Repeater.
+   - **Zhànyīng:** Pitcher projection.
+   - **Jìnwèi:** Firewall, Sensor and durable link glue.
+
+   An ordinary Celestial Guard Duo is **not** legal; use a legal Core/Haris with another eligible member or keep them separate.
+4. **Solve Lieutenant safety explicitly:**
+   - **Sun Tze (53 points):** Strategos L2, Decoys, Counterintelligence and LT(+1 Order) options, but expensive.
+   - **Celestial Guard LT:** cheap and frees points for attackers, but more identifiable.
+   - **Pheasant / Táowù Chain of Command:** succession insurance at a real cost.
 5. **Use immobilization to gain tempo, not automatically a kill.** E/M, Adhesive, PARA and Carbonite can stop an advance or expose a target to follow-up AP/viral/normal damage. Opponents may Reset, engineer, or use recovery rules, so specify *who will finish the target* or whether a turn of denial already wins the mission.
 
 ### Fast unit decisions: why, counters and competing opinions
@@ -76,7 +93,14 @@ Derived analysis aids, not official characteristics.
 
 ### Vehicle, TAG, Remote Presence HI, and REMs
 
-**Actual ISS category coverage:** **Lóngwáng** is the roster's TAG; **Fēiquán** is its vehicle (VH); **Sù-Jiàn** is a Remote Presence **HI, not a TAG/REM unit type**. Standard Yu Jing REMs and Jīnyào/Dikpala provide the rest. Shared profiles were also discussed in Vanilla Yu Jing and general N5 TAG/REM coverage; don't copy unavailable Vanilla tools (e.g. Blue Wolf) into ISS.
+**Actual ISS category coverage:**
+
+- **Lóngwáng:** TAG.
+- **Fēiquán:** vehicle (VH).
+- **Sù-Jiàn:** Remote Presence **HI**, not a TAG/REM unit type.
+- **Jīnyào, Dikpala and standard Yu Jing REMs:** other attack/support coverage.
+
+Other Yu Jing factions share some chassis, but Vanilla-only tools (for example Blue Wolf) must not be copied into ISS.
 
 | Platform | Best employment and the “why” | Tradeoff / support |
 |---|---|---|
@@ -88,7 +112,14 @@ Derived analysis aids, not official characteristics.
 | **Dikpala / Wèibīng / Hùsòng / Son-Bae** | Dikpala linkable HMG/MSR (+ Mimetism-3) and 13-point repeater/akrylat option; Wèibīng is Sensor + FO + Repeater, optional Tactical Awareness; Hùsòng Total Reaction protects a lane; Son-Bae guided missile punishes previously Spotlighted targets. | Keep the network viable, and do not mistake *availability* of guided missiles for reliable Spotlight coverage. Hùsòng and MSR bots can be bypassed/flanked; Son-Bae FTO Wildcard is **loadout-limited**. |
 | **Pangguling / Shénjī / Yáozăo** | 8-point Baggage Pangguling is a useful Regular-order/repeater/reload support; EVO, Total Reaction and 12-point FTO Wildcard versions each fill a distinct job. Shénjī Engineer (WIP14), turret/deployable cover and Counts-as Hsien Wildcard helps repair TAG/REM/VH plans while adding area denial. Yáozăo 3-point servant extends repair reach. | Regular Pangguling is not automatically a Wildcard: only **FTO option 4** is. The Shénjī is an Engineer, not free healing; place it where it survives and can reach damaged assets. |
 
-**Practical combined-arms packages (illustrations, not ready-made legal lists):** (a) **Kuang Shi Monitor smoke Core → Hsien/MSV assault**, plus inexpensive hacker and repeater; (b) **Lóngwáng + Shénjī Engineer + Pangguling Baggage**, with a separate objective specialist; (c) **Jīnyào/Wèibīng repeater → Celestial/Zhànyīng hackers → Son-Bae guided** with a close-range Sù-Jiàn/Qiánfēng finisher; (d) **Fēiquán E/M → mobile lethal gun**, using the vehicle to disable or reveal—not to replace a main gun. Validate Fireteam composition and combat-group Orders against the tables above.
+**Practical combined-arms packages** (illustrations, not Army-verified lists):
+
+- **Kuang Shi Monitor Smoke Core → Hsien/MSV attack:** add cheap hacker and Repeater support.
+- **Lóngwáng + Shénjī Engineer + Pangguling Baggage:** keep a separate mission specialist.
+- **Jīnyào/Wèibīng Repeater → Celestial Guard/Zhànyīng hackers → Son-Bae Guided:** add a close-range **Sù-Jiàn or Qiánfēng** finisher.
+- **Fēiquán E/M → independent lethal gun:** the vehicle disables or reveals rather than replacing an attacker.
+
+Verify exact Fireteam and group Orders in the [N5.3 reference](../../sectorials/yu-jing/imperial-service.md).
 
 ### Where reviewers genuinely disagree
 
