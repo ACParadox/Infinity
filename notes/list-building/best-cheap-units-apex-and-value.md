@@ -104,7 +104,12 @@ References below were checked using the connected YouTube/Podcast transcript too
 
 ### Contradictions and confidence
 
-- **Confirmed roster distinctions:** Ghazi E/Marat and Jammer do **not** automatically include Smoke; White Company Varangians are **Irregular** unlike eligible O-12/Kosmoflot variants; Corregidor Diablos are printed **Irregular/Impetuous**. The price of a companion peripheral or Fireteam anchor is not included in the cheap model's price.
+- **Confirmed roster distinctions:**
+  - **Ghazi E/Marat/Jammer:** do **not** automatically include Smoke.
+  - **White Company Varangians:** **Irregular**, unlike eligible O-12/Kosmoflot variants.
+  - **Corregidor Diablos:** printed **Irregular/Impetuous**.
+
+  A companion Peripheral or Fireteam anchor is not included in the cheap model's price.
 - **Top evidence confidence:** high for these media-explicit unit packages:
   - **Ikadron**
   - **Puppet Master**

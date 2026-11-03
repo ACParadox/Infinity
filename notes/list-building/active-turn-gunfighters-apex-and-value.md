@@ -311,9 +311,11 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 
 **Mission-adjusted gun value, not kills-only:**
 
-- #169's **Hidden Swiss Guard HMG + Joan/Helot screen** succeeded by selectively removing defenders while keeping a viable mission floor; #003–#004's **Griffin/Hetkari** attacks required earlier repeater/vision clearance.
-- By contrast #005's **Redeye** wasted an early Order pool into Q-Drone
-- #231's **Sphinx** killed ~four targets in ~9–10 Orders and still lost the Battleground objective; #214's **triple PanO TAGs** shot well but lost on Classified OP.
+- **#169 — Hidden Swiss Guard HMG + Joan/Helot screen:** selectively removed defenders while keeping a viable mission-scoring floor.
+- **#003–#004 — Griffin/Hetkari:** attacks required earlier Repeater/vision clearance.
+- **#005 — Redeye:** wasted an early Order pool into a Q-Drone.
+- **#231 — Sphinx:** killed roughly four targets in ~9–10 Orders but lost the Battleground objective.
+- **#214 — Triple PanO TAGs:** shot well but lost on Classified OP.
 
 These are specific games, not a universal tier revision. [#002–#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 

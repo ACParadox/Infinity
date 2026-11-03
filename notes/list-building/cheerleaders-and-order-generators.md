@@ -148,9 +148,23 @@ Several bodies do not imply extra pooled Regular Orders.
 
 ## Sectorial and faction selection notes (non-transferable roster permissions)
 
-- **ALEPH / Operations Subsection / Steel Phalanx:** Netrods are the 6pt pure floor where available; compare 13pt **Dikpala** in OSS for actual ARO/repeater/FT functionality and Posthuman/G: Jumper slot compression. Do not use pre-Mazebreaker Dakini-era profile assumptions for OSS.
-- **Combined / Onyx / Shasvastii / Next Wave / Morats:** Ímetron where available; **7pt R-Drone** where legal; **11pt Ikadron** trades pure low cost for Baggage, Repeater, Discover and a Light Flamethrower (+1B). Next Wave has expensive baseline Regular bodies and FT-Master cases—unit-count pressure is real. Don't assume one faction's AVA in another.
-- **PanO / Kestrel / NCA / Varuna / WinterFor / Acontecimento / Military Orders:** **7pt Fugazi** and **8pt Mulebot** where legal, then S2 Fusilier/Fennec and legal FT fillers. A necessary **10pt Fennec** is cheaper than its upgraded 12–16pt toolbox cousins; evaluate FB requirement and Lieutenant-decoy identity. Pathfinder is a useful *second job*, not basic filler.
+- **ALEPH / Operations Subsection / Steel Phalanx** (where roster-legal):
+  - **Netrod** — 6pt pure Order floor.
+  - **Dikpala (OSS)** — 13pt for actual ARO/Repeater/Fireteam functions.
+  - **Posthuman / G:Jumper** — slot compression rather than another ordinary filler.
+
+  Do not use pre-Mazebreaker Dakini-era profile assumptions for OSS.
+- **Combined / Onyx / Shasvastii / Next Wave / Morats** (check availability/AVA per roster):
+  - **Ímetron** — cheap Order source where available.
+  - **R-Drone** — 7pt where legal.
+  - **Ikadron** — 11pt, offering Baggage, Repeater, Discover and Light Flamethrower (+1B) instead of minimum cost.
+
+  Next Wave has expensive baseline Regular bodies and FT-Master cases—unit-count pressure is real. Don't transfer AVA between factions.
+- **PanO / Kestrel / NCA / Varuna / WinterFor / Acontecimento / Military Orders** (check availability per roster):
+  - **Fugazi** — 7pt.
+  - **Mulebot** — 8pt where legal.
+  - **Fusilier / Fennec** — S2 line troops and Fireteam fillers; a necessary **10pt Fennec** is cheaper than its 12–16pt toolbox upgrades (check FB requirement and Lieutenant-decoy identity).
+  - **Pathfinder** — useful secondary mission role, not basic filler.
 - **Nomads / Bakunin / Corregidor / Tunguska** (check legality per roster):
   - **Transductor** — 7pt.
   - **Salyut** — 8pt where legal.
@@ -159,7 +173,12 @@ Several bodies do not imply extra pooled Regular Orders.
   - **Puppet Master** — 11pt.
   - **Securitate (Tunguska)** — 13pt premium only if WIP/Warhorse/Repeater/team value matters.
   - **Motorized Bounty Hunter** — 8pt Regular tempo but not a covert S2 guard.
-- **Yu Jing / ISS / Invincible / White Banner:** **7pt Chaīyì** where legal; **ISS Kuang Shi Monitor Core** is a 37pt/0.5 package. For a non-ISS list, compare Zhanshi and cheap regular specialists instead; **do not transfer Kuang Shi Core to other factions**.
+- **Yu Jing / ISS / Invincible / White Banner:**
+  - **Chaīyì** — 7pt where legal.
+  - **ISS Kuang Shi Monitor Core** — 37pt/0.5SWC package in its legal roster.
+  - **Zhanshi / cheap Regular specialists** — alternatives in non-ISS lists.
+
+  **Do not transfer the Kuang Shi Core to other factions.**
 - **Haqq / Hassassin / Qapu / Ramah** (check legality per roster):
   - **Fanous** — 7pt.
   - **Kameel** — 8pt where legal.

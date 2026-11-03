@@ -230,7 +230,13 @@ TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usu
 
 The shared advantage is *uncertainty and layered responses*, not one invincible overwatch.
 
-**Failure mode:** #002's elite sniper did not stop White Banner reaching Unmasking HVTs by another path; #231's Shasvastii backfield REM network was breached by Jamie/Moonraker after a Sphinx assault; #189's single TR HMG accidentally watched both delivery circles and dominated Orders, showing **table/mission geometry determines value**. [#002–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#161, #169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
+**Observed ARO failure modes and exceptions:**
+
+- **#002 — Elite sniper:** failed to stop White Banner reaching the Unmasking HVTs by another path.
+- **#231 — Shasvastii backfield REM network:** breached by Jamie/Moonraker after a Sphinx assault.
+- **#189 — Single Total Reaction HMG:** accidentally covered both delivery circles and dominated Orders, an exception illustrating why **table and mission geometry determine value**.
+
+[#002–#004](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) · [#161, #169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
 
 **Checklist:** What specific scoring corridor does this ARO protect? What if the enemy uses a side route, Smoke/Eclipse/Disco, Sensor or Parachutist? Can the lost piece be recovered, and is it worth the Orders?
 
