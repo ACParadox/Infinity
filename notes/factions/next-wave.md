@@ -12,15 +12,39 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 **Next Wave is a high-quality, low-slack Combined Army force built around small hero-led Fireteams, durable Tekdrakens, versatile guns and unusual anti-approach peripherals.** It has many outstanding 20–70-point profiles **but cannot afford all of them**: few disposable Regular Orders, competing expensive leaders, restricted Fireteam Master combinations, and limited cheap mission/hacking coverage force compromises. Build **one credible hammer, two complementary support/attack teams, a real scoring solution, and cheap Orders**. Winning is less about the biggest dinosaur and more about **making each model solve a different problem**.
 
-**What makes Next Wave different from Vanilla Combined Army:** hero-specific link options, Fireteam Master converting applicable Tekdraken Irregular Orders within the linked team, Gearhead–Sartroid Cyberplug architecture, distinctive **Skyhound Vehicle** and **Juggernaut TAG**, and a mixed MSV/Albedo/BS(-3)/Mimetism gun roster. Shared Combined Army remotes do **not** confer Vanilla Fireteams or premium TAG availability.
+**What differentiates Next Wave from Vanilla Combined Army:**
+- **Fireteam Master:** converts eligible linked Tekdraken Irregular Orders.
+- **Gearhead/Sartroid:** Cyberplug controller and peripheral architecture.
+- **Skyhound:** Vehicle (VH).
+- **Juggernaut:** TAG.
+- **Ironside, Drakios, Stinger and Teucer:** distinct MSV, Albedo, BS Attack (-3) and Mimetism tools.
+Shared REMs do not give Next Wave the other sectorials' TAGs or Fireteams.
 
 ### Listbuilding checklist, in order
 
 1. **Orders/LT:** first budget affordable Harbingers and Ikadrons, secure the LT (Harbinger LT plus decoy is common) and count actual *assignable* Orders rather than just models and Tactical Awareness.
-2. **One core threat:** a Patroclus/Pandora + Blackheart/Stinger package, **Achilles**, **Ironside**, or **Juggernaut**. The first is easiest to support; the larger packages demand sacrificed specialists/order count.
+2. **Select a main attacker:**
+   - **Patroclus/Pandora + Blackheart/Stinger:** modular Fireteam.
+   - **Achilles:** elite attack.
+   - **Ironside:** heavy anti-MSV/hacking plan.
+   - **Juggernaut:** expensive TAG.
+   The bigger the package, the fewer cheap Orders and specialists remain.
 3. **Two different attack lanes:** long-range MSV/Albedo gun plus shorter-range Smoke, Tekdraken, Skyhound, hidden Puzzler or Cliff-Jumper flank. Do not buy three guns with identical rangebands and no solution to MSV/hacking.
-4. **Mission:** Harbinger FO/hacker, Pandora, Sāchā, Contrabandolero, Wraith-1, Nexus, Drakios/Patroclus specialist or Staldron as available and legal.
-5. **Defense:** Puzzler(s)/Cyberplug, Tekdraken mines, Ikadron corner coverage and optionally Q-Drone/M-Drone Sensor; if taking a big TAG or Skyhound, protect it against hacking and a direct first-turn shot.
+4. **Mission:** select legally available specialists:
+   - Harbinger FO/hacker
+   - Pandora
+   - Sāchā
+   - Contrabandolero
+   - Wraith-1
+   - Nexus
+   - Drakios/Patroclus specialist
+   - Staldron as available
+5. **Defense:** assign complementary defensive jobs:
+   - **Puzzler/Cyberplug:** electronic denial.
+   - **Tekdraken:** mines/templates.
+   - **Ikadron:** cheap corner guard.
+   - **Q-Drone/M-Drone:** ARO/Sensor where useful.
+   Protect an expensive TAG or Skyhound against hacking and direct turn-one fire.
 6. **Check format:** Army AVA, Fireteam purity/Master, Cyberplug control state, 15-trooper counting, current ITS mission and **N5.3 change to Sāchā AVA**.
 
 ## Profile shortlist — take X because Y, avoid because Z
@@ -46,6 +70,18 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 | **Cliff-Jumper** | Mimetism, +Burst, Combat Jump/Parachutist angles, useful weapons and specialist profiles. Can kill the support piece behind an ARO or arrive onto an uncovered objective. | EVO support can help arrival but costs points; don't stack Cliff-Jumper with multiple other off-table investments without sufficient Orders. |
 | **Raindancer** | Agile Shadow link option, often less expensive than other specialists/warbands; can support short assault. | Aug 2026 reviewers often prefer Steeljaws for added protection and utility; Raindancer is good but not always the best use of the slot. |
 
+**Fireteam Master and Cyberplug economics:**
+- **Pandora 24–29/.5:** Fireteam Master on selected legal profiles.
+- **Patroclus FTO 31–40:** another eligible Master.
+- **Drakios FTO 31–33:** further Master option.
+- **Gearhead controller 13 + Puzzler 12:** total **25 points**; with two Puzzlers **37**. Neither Puzzler creates an extra Regular Order.
+  - Connected uses the Controller's activation.
+  - Autonomous spends pooled Orders at weaker stats.
+  - In the reactive turn, Gearhead can declare its own legal ARO while both Cyberplugs ARO independently as Autonomous, subject to control-state rules.
+  - Shepherd favors Puzzler denial over Ranter shooting; use current Army for actual deployment skills.
+- **Ikadron/Echodron Baggage:** refill eligible mines/Pitchers, not Non-Reloadable turrets.
+- **Counterplay:** kill Fireteam Master or disable Gearhead to break the synergies; do not buy a support engine if its effect is irrelevant. [Force multipliers](../list-building/force-multipliers-special-abilities-apex-value.md) · [Peripheral rules](../../rules/5b_Special%20Skills/Peripheral_N5.3_Update.md).
+
 ### Opposing views to keep in mind
 
 - **Juggernaut: excellent TAG, poor fit?** Robert Shepherd's Dec 2025 view: genuinely excellent Guard, Climbing Plus, NCO/MULTI HMG or close-range Plasma chassis **but ~80 points break the economy**; he frequently prefers a 30-ish-point Skyhound. MetaChemistry's Jul 2026 opposing-faction view: an enemy still has to *plan around* Juggernaut and a Double-Juggernaut threat, though it is seen less than at release. **Use it when Guard + durable sustained attack actually matter; not just because the profile is efficient in isolation.**
@@ -58,7 +94,12 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 ## Vehicle, TAG, REM: don't mix the troop types
 
-**Official current [Next Wave roster](https://infinityuniverse.com/en/factions/combined-army/next-wave):** **Juggernaut = TAG**; **Skyhound = Vehicle (VH)**; **Sartroid Puzzler/Ranter, Unidron, Q/M/T/E/R-Drones, Ikadron, Slave Drones = REM/support**. *Do not assume* Sphinx, Overdron, Xeodron, Cascuda, Morat Bultrak/Raicho or other Combined Army TAGs are in Next Wave simply because they appear in Vanilla/Onyx/Shasvastii.
+**[Next Wave roster](https://infinityuniverse.com/en/factions/combined-army/next-wave) — do not mix these troop types:**
+- **Juggernaut:** TAG.
+- **Skyhound:** Vehicle (VH).
+- **Sartroid Puzzler/Ranter:** Cyberplug peripherals.
+- **Unidron, Q-/M-/T-/E-/R-Drones, Ikadron, Slave Drones:** REM/support.
+- **Not automatically available:** Sphinx, Overdron, Xeodron, Caskuda, Bultrak or Raicho from adjacent rosters.
 
 | Platform | Role and **why** | Main failure mode |
 | --- | --- | --- |
@@ -83,13 +124,38 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 
 ## Three usable list approaches
 
-1. **Balanced Pandora Research + Shadow:** cheap Harbinger LT/decoy and FO; Pandora + Stinger + Blackheart(s) as appropriate; Patroclus FTO + Steeljaw/Harbinger Shadow (**no Smoke on this linked Patroclus**); Gearhead + one/two Puzzlers; Ikadron(s) and an independent specialist. **Why:** good anti-MSV, disposable mine pressure, close templates, protected Orders and actual button pushers. **Robert's favored architecture** is close to this, with multiple Blackhearts, a Stinger, Patroclus, Pandora and two Puzzlers.
-2. **Achilles attack + insurance:** Achilles and a compact Patroclus/Drakios duo/Haris (confirm exact linking); Pandora CoC if Achilles LT; Harbingers / Ikadron for Orders; inexpensive specialist plus Puzzler/Blackheart ARO. **Why:** few enemy pieces can solve an efficiently delivered Achilles, but it must have **CoC, scoring and support**. **Do not assume Smoke on the accompanying Patroclus FTO**; only the separate non-FTO Holoprojector HRL version carries it. **MetaChemistry's Dec 2025 event winner** successfully leaned on Achilles, Patroclus, Teucer and auxiliary specialists, while conceding early opponents did not fully know Next Wave.
-3. **Ironside + Skyhound pressure:** Ironside AP HMG or anti-hacker build plus Pandora/Gearhead support, Skyhound, Blackheart mines and Puzzler defense; affordable Harbingers and scoring plan. **Why:** Ironside contests opposing **MSV and hacker protection** so Skyhound can exploit vertical angles. **Risk:** the flyer may still die in one bad FTF, so the mission cannot depend solely on it.
+1. **Balanced Pandora Research + Shadow:**
+   - **Harbinger:** LT/decoy and FO.
+   - **Pandora + Stinger + Blackheart(s):** Research module.
+   - **Patroclus FTO + Steeljaw/Harbinger:** Shadow module (**linked Patroclus has no Smoke**).
+   - **Gearhead + Puzzlers:** defensive Cyberplug.
+   - **Ikadron + independent specialist:** Orders/scoring.
+   **Why:** anti-MSV, mine pressure and protected Orders without a huge Core.
+2. **Achilles attack + insurance:**
+   - **Achilles:** primary fighting piece.
+   - **Patroclus/Drakios:** legal compact team, chart-dependent.
+   - **Pandora CoC:** insurance with Achilles LT.
+   - **Harbinger/Ikadron:** Orders.
+   - **Puzzler/Blackheart + specialist:** defense/scoring.
+   **Why:** deploy premium attack power without sacrificing every mission fallback.
+3. **Ironside + Skyhound pressure:**
+   - **Ironside:** anti-MSV gun or hacking route.
+   - **Skyhound:** vertical attack and mines.
+   - **Pandora/Gearhead:** support.
+   - **Blackheart/Puzzler:** area denial.
+   - **Harbinger + specialist:** command/scoring.
+   **Why:** Ironside addresses key Skyhound counters.
 
 **Juggernaut variant:** replace one premium attacking package with Juggernaut and at least one defensive/Engineer/mission tool; test on mission layout before building a double-Juggernaut list. **Do not silently treat the Oct 2025 first-impression plans as proven 2026 tournament lists.**
 
 ## Counterplay and robustness checks
+
+- **N5.3 visibility profile split:**
+  - **Unlinked Patroclus 35/1 Holoprojector HRL:** has Smoke.
+  - **Patroclus FTO:** no Smoke even when linked with Achilles/Shadow.
+  - **Drakios/Ironside Albedo:** personal anti-MSV, not a shared obscuring zone.
+  - **Teucer MSV2:** anti-Smoke/Mimetism tool.
+  - Account for separate Orders if Smoke comes from unlinked Patroclus; Albedo is less distinctive without enemy MSV. [Global vision tiers](../list-building/vision-control-units-apex-and-value.md).
 
 - **Opponent has MSV/long sniper?** Don't deploy Skyhound where one return shot can decide the game; remove it with Ironside/Drakios/Teucer or reframe the lane with **unlinked Patroclus Holoprojector HRL Smoke** where actually selected (**not FTO Smoke**).
 - **Opponent has hacking/repeaters?** Kill/avoid the net before advancing Achilles, Ironside, Juggernaut, Skyhound or TAG-connected peripherals. Invest in a **real** KHD, Firewall or removal plan, not just “I have a hacker.”
@@ -129,21 +195,6 @@ _Last researched: 2026-10-22. Latest main-branch source of truth for this guide 
 - N5.3 rules specify that **Aerial troops do not trigger Boost-property weapons** (not immunity to other direct attacks). Validate Vehicle placement and Cyberplug use with [current official rules Wiki](https://infinitythewiki.com/Category:N5.3_Update).
 - In older podcasts, “Puzzlers” sometimes described as independent troopers. **Cyberplug peripherals cost points but are not automatically extra Regular Orders**. Connected/Autonomous modes have distinct limitations. Consult current Army/current Peripheral text.
 - **Term normalization:** Tekdrakens are Blackhearts and Steeljaws (not “tech dragons”), Wraith-1, Sartroid Puzzlers/Ranters, Skyhounds (VH), Juggernauts (TAG). No extra Sphinx/Cascuda/Overdron/Xeodron is claimed legal in Next Wave.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Strict profile split:** Patroclus **unlinked 35/1 Holoprojector HRL has Smoke**; **FTO link-capable Patroclus has no Smoke**. Do not construct an imagined linked Achilles + Patroclus Smoke engine. **Drakios/Ironside Albedo** punishes MSV directly but is not a shared blocking zone; Teucer MSV2 is the reverse matchup tool.
-- **Disagreement:** N5 reviewers value Albedo's hard-ARO answer, but question the price of Drakios if the opponent has no MSV; if Smoke is only available by unlinked Patroclus, account for the independent Order cost. [Vision-control guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**Apex FT Master:** **Pandora24–29/.5, Patroclus FTO31–40, Drakios FTO31–33** turn legal Irregular Blackheart/Steeljaw team members into Regular Order contributors. **Gearhead Cyberplug13 + Puzzler12–13** starts at **25pts**, not a standalone 12pt Regular Order; Connected works at any distance, Autonomous spends pooled Orders and has weaker stats. **Ikadron/Echodron Baggage** reloads mines/Pitchers, not Non-Reloadable turrets. **For:** devastating flexible teams (Shepherd/LoL). **Against:** MetaChemistry opponent advice specifically kills FT Masters and Gearhead controller to dismantle economy; if links already Regular or controller can't safely operate, don't pay for special rules.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
-
-## N5.3 multi-body / Cyberplug choice (23 October 2026)
-
-**Gearhead Cyberplug13/0 + Puzzler12/0 =25/0; with two =37/0**. The key advantage is not extra Orders: one Connected Peripheral takes the Controller's activation while the other can be Autonomous. **In the reactive turn, Gearhead can instead declare its own legal ARO and both Cyberplugs independently ARO as Autonomous**; alternatively one uses Connected while Gearhead Idles. **Shepherd favors the Puzzler's denial/ambush over the Ranter's gun**, but Autonomous stats deteriorate and an extra bot competes for scarce pooled Orders. Do not carry the recording's Hidden Deployment claim over the pinned Army roster without verifying that specific deployment rule. See [global Peripheral apex/value tiers](../list-building/peripheral-synchronized-multibody-apex-value.md); [N5.3 Peripheral rules](../../rules/5b_Special%20Skills/Peripheral_N5.3_Update.md).
 
 ## References
 

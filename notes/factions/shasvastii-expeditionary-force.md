@@ -19,12 +19,24 @@ Shasvastii win by **turning hidden information into tempo**, then exploiting the
 
 - **Marker saturation:** Camo, Hidden Deployment, Impersonation, decoys, Mines, and seed-state uncertainties force Discover, Sensor, cautious movement, and inconvenient lines of approach. A model in marker state may do more work by *remaining ambiguous* than by shooting.
 - **Late-game scoring:** infiltrating specialists and Shasvastii Embryos can preserve scenario-relevant presence. In N5, Shasvastii Embryos have *specific timing and mission-scoring rules*; **do not assume dead/Unconscious models count for every objective**. Check the mission.
-- **Skewed fighting:** Speculo, Noctifer, Caliban, Sheskiin, and occasionally Sphinx can attack from positions that bypass opponents' preferred gunfights. Preserve your expensive gun until that lane exists.
+- **Skewed fighting:** different asymmetrical attack vectors rather than one frontal duel:
+  - **Speculo:** Impersonation.
+  - **Noctifer:** Hidden ARO/active turn.
+  - **Caliban:** Camo, forward specialist and Protheion.
+  - **Sheskiin:** reliable fighting gun.
+  - **Sphinx:** optional hidden TAG.
+  Preserve the premium gun for a favorable opening.
 - **Fragile once revealed:** many important skirmishers are one-wound/low-ARM. Direct templates, Sensor, Discover, strong MSV and concentrated hacking can collapse the marker game quickly.
 - **Economy constraint:** the best pieces are expensive, and Irregular Taighas or unrevealed Hidden Deployment cannot substitute blindly for active-turn Regular Orders. A list with too many specialists/ambushes and too little ordinary infrastructure can run out of Orders before scoring.
 - **Vanilla Combined Army competition:** Vanilla takes many Shasvastii stars while offering other inexpensive orders, Smoke, heavy weapons and premium hackers. SEF should deliberately exploit **higher availability, specific Fireteams, marker density, or unique profiles**, not merely replicate a Vanilla roster.
 
-> **Default plan:** protect an efficient command shell → secure 1 genuine active-turn gun → conceal 1–2 credible asymmetric attack pieces → buy enough cheap Regular Orders and scoring specialists → add ARO/recovery/REM support → reserve Orders for the final scoring turn.
+**Default list plan:**
+- Keep an efficient command shell.
+- Choose one genuine active-turn gun.
+- Conceal one or two asymmetric threats.
+- Buy real specialists and affordable Regular Orders.
+- Add ARO/recovery/REM infrastructure.
+- Reserve Orders for the final scoring turn.
 
 ## Highest-value pieces: why, and what displaces them
 
@@ -43,20 +55,45 @@ Shasvastii win by **turning hidden information into tempo**, then exploiting the
 | **Taigha Creatures** | Cheap fast close-assault threat to consume enemy AROs, punish approaches and defend awkward corners; self-contained Irregular activity | They do not repair weak Regular-order pools. Berserk/CC trades can be excellent but are also predictable once the opponent knows the geometry |
 | **Nox, Tensho, Seed-Soldiers, Corax** | Mission-capable Fireteam scaffolding, disposable bodies, specialists, Seed pressure and specialized fireteam access | Resist taking a huge link just to earn a bonus; prioritize **what the link must do** and whether the troop can still do it after the main attacker leaves |
 
+**Caliban toolbox profiles — distinguish the actual loadouts:**
+- **Caliban FO 26:** forward Camo/Protheion objective model.
+- **Caliban Engineer 28:** tech/repair variant.
+- **Caliban CoC 29:** Lieutenant succession insurance.
+- **Triple Caliban:** the 2026 MetaChemistry #139 winner used multiple independent angles and late survival, but each starts at one wound and no single profile combines all three specialist roles.
+- **Sheskiin:** stronger uncomplicated gunfighter but not a Specialist or hacker. [Global toolbox comparisons](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
 ### Recommended first-pass architecture
 
 1. **Command:** Mentor LT for safety or Sheskiin LT for tempo with meaningful CoC/contingency support. Choose deliberately; there is no universal LT.
 2. **One central fighting route:** Sheskiin **or** Gwailo team **or** Sphinx, plus one inexpensive alternative. Three expensive centerpieces starve scenario support.
 3. **A hidden tax:** Speculo *or* Noctifer (sometimes both). Build for the mission, not for maximizing scary markers.
-4. **A scoring shell:** Shrouded / Caliban specialists, Nox/Tensho / Victor where the particular mission needs them.
-5. **Keep the gears running:** Ikadron, R-Drone, Q-Drone as appropriate and accessible Engineer/Doctor support (Caliban or Med-Tech); enough Regular Orders for a planned round-three push.
+4. **Scoring shell:** buy the relevant roles:
+   - **Shrouded:** Camo scoring
+   - **Caliban:** forward toolbox/scorer
+   - **Nox/Tensho:** linked specialists
+   - **Victor:** hacker/mission specialist
+5. **Reliable support and Order pool:**
+   - **Ikadron:** cheap Baggage/Orders
+   - **R-Drone:** repeater/Flash-Pulse
+   - **Q-Drone:** reactive defense
+   - **Caliban Engineer or Med-Tech:** repair/recovery
 
 ## 2026 tournament evidence: two different lists, both valid
 
 **MetaChemistry E139 (Apr 2026), Brian “Nazeen,” winner of Battle by the Beach satellite:** one of the strongest **post-N5.2 played-event** perspectives. These are patterns he reported, not universal prescriptions.
 
-- **“Face-down” / sneak list:** **2 Speculo + 3 Caliban + Shrouded + economical order bots**. Add a **solo Jayth with disco balls** kept for the late-game run. Why: make the opponent burn its first turns attacking uncertain markers, then reveal/stage specialists to win late.
-- **“Face-up” / mission list:** **Sheskiin + Nox/Tensho specialists**, **Gwailo with Victor** and supporting utility. Why: some missions require repeated box retrieval, destruction, or long pushes into defended positions. A specialist-dense attack package is better than trying to score with one surviving Camo operative.
+- **“Face-down” / sneak list:** build uncertainty before scoring late:
+  - **Two Speculo:** deployment tax.
+  - **Three Caliban:** independently threatening Camo toolboxes.
+  - **Shrouded:** mission specialist.
+  - **Cheap Order bots:** spending power.
+  - **Solo Jayth:** Disco Ball for a final-turn objective run.
+  The 2026 winner's purpose was to make the opponent lose early Orders solving markers.
+- **“Face-up” / mission list:** more direct repeated scoring:
+  - **Sheskiin:** primary attack.
+  - **Nox/Tensho:** specialists.
+  - **Gwailo + Victor:** linkable gun/hacker support.
+  Use when boxes, destruction or repeated pushes cannot be solved by one Camo survivor.
 - **Defensive innovation:** with **R-Drone repeaters + Victor + cyber mines**, the deployment zone becomes inconvenient for opposing hackable attackers. This protects Sheskiin/Gwailo without overextending a fragile hacking network.
 - **Against flyers and Sensor:** he deliberately returned to **Caliban MSV Spitfire** and Victor defense to answer the new aerial/vertical approach problem. A flyer/Detector can rapidly turn a field of anonymous markers into exposed one-wound troops; terrain height and roof access strongly affect that risk.
 - **Actual game lesson:** Dukash entered from the flank, killed critical targets and forced Loss of Lieutenant in one match; in other missions **disco-ball coverage** let surviving Caliban and specialists reach turn-three objectives. This is the core tactical loop: **delay early, trade only when necessary, spend decisive Orders scoring last**.
@@ -164,12 +201,6 @@ Shasvastii win by **turning hidden information into tempo**, then exploiting the
 - **Sept 1, 2026 N5.3 / ITS18** added **Shasvastii Corax Spec-ops and Shasvastii Team-ops**, revised Fireteam charts, and adjusted Camo, Firewalls, Protheion interpretation, climbing and several movement/Hacking/Baggage-related interactions. Spec-ops are **not** simply ordinary ITS models; consult event packet. [Official update](https://infinityuniverse.com/en/news/infinity-rules-update-5-3).
 - **Do not silently port** pre-N5 Nox full-Core bonuses, old E/M / Baggage / Evo Supportware effects, old Climbing Plus, or old Impersonation/Protheion interactions to N5.3.
 - Rankings are **conditional role evaluations**, not strict tier claims. Sample lists are role blueprints, *not* current legality-tested Army exports.
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Caliban FO26, Engineer28, CoC29** are global top-value *profile-specific* toolbox threats: Camo/FD+20/Protheion/MA3/CC23 plus mission/tech/insurance. **Triple Caliban** in the 2026 MetaChemistry #139 winner supplied independent angles and late survivability; counter: starting 1W and short gun, cannot combine all options on one profile. **Sheskiin** is a better effortless primary attacker but **not** a Specialist/hacker.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
 
 ## References
 
