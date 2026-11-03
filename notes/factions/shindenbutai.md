@@ -11,8 +11,11 @@
 The standout independent modules are:
 - **Tanuki Hacker + Sayō Duo/Haris:** Pitcher, Disco and specialist network.
 - **Hatamoto LT/NCO:** effective fighting commander and scoring piece.
-- **Yamabushi / Kyojin / Raiden:** several distinct cheap midfield/marker defenses.
-- **Tanuki / Rui Shi MSV2:** anti-visibility shooting.
+- **Yamabushi:** independent marker/close-combat pressure.
+- **Kyojin:** cheap forward template trades.
+- **Raiden:** hidden reactive fire and layered Minelayer threat.
+- **Tanuki MSV2:** visor gun profile choices.
+- **Rui Shi MSV2:** mobile visor attacker.
 - **Unlimited legal Duos:** distribute threat and mission coverage.
 
 ### Whole-game standouts — apex versus value
@@ -65,8 +68,10 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
   Powerful but costly; the 33pt Shizoku FTO is not eligible for this team.
 - **Sayō Duo — choose combat or control:**
   - **Tanuki Hacker:** network, specialist and Disco.
-  - **Rui Shi MSV2 Spitfire 23/1** or **Rui Shi Mine Dispenser 21/0.5:** gun or board control.
-  - **Pangguling Baggage / Monstrucker:** separate support outside the team.
+  - **Rui Shi MSV2 Spitfire 23/1:** direct gunfighter; **or**
+  - **Rui Shi Mine Dispenser 21/0.5:** board-control variant. Select one Rui Shi profile for this Duo.
+  - **Pangguling Baggage:** reload support outside the Fireteam.
+  - **Monstrucker:** repair and deployables outside the Fireteam.
   
   Pangguling is not a Sayō member.
 - **Bushi-tai Haris/Core — alternative assault team:**
@@ -76,7 +81,8 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
   
   Validate the selected team and current profile limits.
 - **Senku Haris — inexpensive structure:**
-  - **Senku FO/Paramedic:** budget specialist.
+  - **Senku Forward Observer:** budget specialist.
+  - **Senku Paramedic:** alternate budget specialist.
   - **Another Senku:** additional cheap Fireteam body.
   - **Hatamoto:** main NCO/fighting specialist.
   
@@ -99,13 +105,13 @@ The modular, mixed-technology ecosystem matters more than a universal five-model
 
 ### Unusual access, missing tools and meaningful weaknesses
 
-- **Projected Eclipse but not general-purpose Eclipse Grenades:** **Tanuki Hacker's Disco Baller** creates an **Eclipse template** that blocks even MSV sight, unlike normal Smoke. It is **Disposable (2)**, requires successful placement and uses **Disco Ball activation/deactivation rules**; Shinden is *not* Ōban with Shikami's self-carried Eclipse. Use it to deny a superior firing lane or deliver a close assault rather than trying to win every FtF.
 - **Normal Smoke / MSV2 access — different roles:**
   - **Motorized Yojimbo 20/0** or mutually exclusive **foot Yojimbo 19/0:** Smoke carrier.
   - **Saito Tōgan 33/0:** Smoke carrier.
   - **Garon 16/0:** ranged Smoke Grenade Launcher.
   - **Rui Shi MSV2 Spitfire:** visor gun.
-  - **Tanuki MSV2 HMG / Sniper:** alternative visor fire.
+  - **Tanuki MSV2 HMG:** alternate active visor gun.
+  - **Tanuki MSV2 Sniper:** alternate long-range visor gun.
   
   Conventional Smoke can be exploited by MSV, unlike Disco/Eclipse. This is not mass cheap warband access.
 - **Command safety and aggression:**
