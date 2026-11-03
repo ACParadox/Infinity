@@ -5,10 +5,31 @@
 ## The short answer
 
 - **Identity:** A deep toolbox of *hackable but efficient* REMs supporting elite WIP hackers, a very cost-efficient Posthuman package, flexible Fireteams, and two very different TAG choices. Most lists cannot afford *every* good new named character.
-- **What changed:** **Dikpala replaced old Dakini-centered plans**; **Pilot-X + two RacerBots** introduced cheap orders and very fast deployable-repeaters; **Sharvara** made close assault/trading realistic; **Kinnara** added Decoy/Sensor and *Eclipse*; **Tarkshya** supplies a serious Vehicle; **Maximus/Asura** gained meaningful offensive upgrades.
-- **Recurring efficient base:** **Posthuman Mk1 Engineer + one/two other proxies**, **Lamedh 7pt**, **Probot Baggage 8pt**, **Pilot-X + RacerBots** where points permit, and a **Dikpala/Deva** or **Samarthan** link. Cheap orders must fit the *actual combat group* that will attack. Pilot-X's dependent RacerBots are in the **same group**.
-- **Pick your expensive axis:** (a) **Asura HD+ Lieutenant(+1 Order)**, often plus **Yadu NCO**; (b) **Marut** gun/Strategos; (c) **Maximus TAG + Johnny Kao/Claire MAX-OP**; or (d) an **Optimates / Agent Maximus** specialist assault. The rest of the army should cover that axis's weaknesses.
+- **What changed in the current roster:**
+  - **Dikpala** replaces old Dakini-centered Fireteam plans.
+  - **Pilot-X + two RacerBots** add cheap Orders and fast deployable Repeaters.
+  - **Sharvara** improves close assault/trading.
+  - **Kinnara** adds Sensor, Decoy and Eclipse.
+  - **Tarkshya** adds a capable Vehicle.
+  - **Maximus / Asura** gained offensive upgrades.
+- **Recurring efficient base:**
+  - **Posthuman Mk1 Engineer** with one/two additional Proxies.
+  - **Lamedh 7pt** and **Probot Baggage 8pt** cheap infrastructure.
+  - **Pilot-X + RacerBots** when the whole package fits; dependent RacerBots stay in Pilot-X's Combat Group.
+  - **Dikpala / Deva** or **Samarthan** link where legal.
+  - Cheap Regular Orders belong to the Combat Group that will spend them.
+- **Pick one premium attack/command axis:**
+  - **Asura HD+ Lieutenant (+1 Order)** with eligible **Yadu NCO**.
+  - **Marut** gun and Strategos.
+  - **Maximus TAG** with legal **Johnny Kao / Claire MAX-OP**.
+  - **Optimates / Agent Maximus** specialist assault.
+  - Cover the chosen axis's weaknesses with the remaining points.
 - **Exposed weaknesses:** Repeater/Pitcher hacking is dangerous despite ECM; a crowded set of large REM bases is hard to conceal; most premium pieces are expensive; Lieutenant camouflage is awkward; OSS **lacks native ordinary smoke to smoke-shoot with the Marut/Asura**. Eclipse and Disco Balls *deny vision*, not the same as allied smoke-shooting.
+
+**Visibility plans without cheap general-purpose Smoke:**
+
+- **Local alternatives to missing native ordinary Smoke:** **Yadu Disco 28/0** (FO/NCO/mission utility by specific profile), **Claire Lazhari Disco + Doctor(2W) 33/0**, **Kinnara Parachutist Eclipse 24/0**; **Asura HD+** projects *White Noise* when the target is MSV/Marksmanship and the Hacking Area reaches the intended zone.
+- **2026 Tactical Awareness disagreement:** value the cheaper 22pt HD+ / Pitcher White Noise option against specific visors, but some hosts prefer paying for a more broadly useful unit if those targets are absent; Yadu is cheaper Disco than Claire, Claire repairs/heals valuable bodies. [Vision tier guide](../list-building/vision-control-units-apex-and-value.md).
 
 ## Useful list-building packages
 
@@ -22,7 +43,33 @@
 | **Kyra FTO + up to two Sharvara in an eligible Optimates team** | Super-Jump/high movement pushes multiple E/M/Adhesive threats around a corner while Kyra covers ranged combat/paramedic. The opponent can counter via hacking, isolation, range and templates. **Kyra's 52pt AD profile is not FTO**; she cannot join the same team under that profile. |
 | **MAX-OP (Marut or Maximus TAG) + Johnny Kao / Claire FTO / Artalis / other eligible member** | Large primary attacker gets a legal Duo and attached Engineer/Doctor/control or fire support. **TAGs do not automatically count as a bonus member of arbitrary teams**; MAX-OP has its own required-source restrictions. Prefer a compact Duo over an overinvested expensive “superfriends” ball if objectives need bodies. |
 
-**Lieutenant safety:** Deva LT **20–24**, Shukra LT Strategos L1 **24**, Shakti/Yadu LT, Asura (+1 Order), Marut Strategos L2, and TAG/Agent Maximus variants offer distinct choices. A **21pt Shukra CoC + Counterintelligence** is a concrete hedge for obvious expensive LTs; **Hawkwood 40pt Chain of Command** may be worth its separate combat/FT value but is a costly alternative. A FTO Sforza and an appropriate visible lieutenant/decoy can create deployment uncertainty, but do not rely on perfect deception once costs/roster are known. Agent Maximus and TAG Maximus **cannot coexist**.
+**Lieutenant safety:**
+
+- Deva LT **20–24**, Shukra LT Strategos L1 **24**, Shakti/Yadu LT, Asura (+1 Order), Marut Strategos L2, and TAG/Agent Maximus variants offer distinct choices.
+- A **21pt Shukra CoC + Counterintelligence** is a concrete hedge for obvious expensive LTs
+- **Hawkwood 40pt Chain of Command** may be worth its separate combat/FT value but is a costly alternative.
+- A FTO Sforza and an appropriate visible lieutenant/decoy can create deployment uncertainty, but do not rely on perfect deception once costs/roster are known.
+- Agent Maximus and TAG Maximus **cannot coexist**.
+
+**Asura toolbox versus specialist distribution:**
+
+- **Asura HD+63/.5** is the top toolbox anchor (visors, strong guns, WIP15 hacking, scorer, resilience), but **Asura AP Spitfire61** is NOT the hacker.
+- If the list needs redundancy or fewer hackable premium bodies, **Posthuman proxy+Danavas/Dawon/Claire/Artalis** can distribute repair, hacking, scoring and gunfighting at the cost of coordination.
+- The OSS Fireteam bonuses cannot be imported to vanilla.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
+
+**Support-multiplier spending:**
+
+**TAGCom value:**
+
+- **Apsaras TAGCom18/0** (KHD, Deployable Repeater) grants **printed Dodge PH+3 and GizmoKit PH+1** to same-group **Marut/Maximus**, vs **Apsaras KHD17** when no TAG.
+- **Probot8 Baggage versus14/.5 EVO**: EVO only if REM guns/flyers use Supportware; don't claim it has standard HD Spotlight.
+- **Maximus FTO45/1 TinBot(Repeater)** makes legal teammates Repeaters, *not Firewall*.
+- **Shukra CoC21/0 Counterintelligence or LT24/0 Strategos1** compete with multiple cheap scoring units
+- TA OSS May 2026 values TAGCom highly but warns novel TinBot team interactions require exact rules.
+
+[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
 
 ## Vehicles and TAGs — what actually earns the investment
 
@@ -33,7 +80,10 @@
 | **Maximus TAG** | **82/1.5 AP HMG**, **80/1 AP Thunderbolt(+2B)**; **82/0 LT AP HMG** | 4 STR, TacAware, strong ARM/CC/Dodge and upgraded **AP weapons** make it a real anti-TAG threat rather than simply a durable close-range deterrent. **Johnny Kao Engineer** and **Apsaras TAGCom** increase resilience/utility; MAX-OP team adds further support. Still a premium hackable body and large target. The **2025 “Maximus underperforms” criticism predates the AP/TAGCom overhaul**; May hosts are markedly more positive. |
 | **Agent Maximus (not a TAG)** | **48/1** plus Minimus; **45/1 FTO TinBot(Repeater)**, LT variants generating **+1 SWC** | Choose this instead of TAG Maximus to keep order/mission flexibility, specialist skills, ranged AP Thunderbolt(+2B), and a network/Minimus or FTO TinBot role. **Mutually exclusive with TAG Maximus**, and FTO specifically locks to opts 2/4; some optimistic older Fireteam proposals ignore this. |
 
-**Shared ALEPH coverage:** [Vanilla ALEPH reference](../../sectorials/aleph/aleph.md) also includes **Marut, Maximus, Tarkshya, Pilot-X, Dikpala, Riksha, Dawon, Zayin, Lamedh, etc.** The [Steel Phalanx reference](../../sectorials/aleph/steel-phalanx.md) is useful for shared Aleph REM/control concepts, but roster, AVA, Pilot-X eligibility and Fireteams are **not transferrable**. In particular, vanilla's potential smoke carriers change *Marut* assessment materially; do not add Penthesilea to OSS.
+**Shared ALEPH coverage:**
+
+- [Vanilla ALEPH reference](../../sectorials/aleph/aleph.md) also includes **Marut, Maximus, Tarkshya, Pilot-X, Dikpala, Riksha, Dawon, Zayin, Lamedh, etc.** The [Steel Phalanx reference](../../sectorials/aleph/steel-phalanx.md) is useful for shared Aleph REM/control concepts, but roster, AVA, Pilot-X eligibility and Fireteams are **not transferrable**.
+- In particular, vanilla's potential smoke carriers change *Marut* assessment materially; do not add Penthesilea to OSS.
 
 ## REMs — build a network that pays for itself
 
@@ -51,6 +101,21 @@
 | **Samekh** | **16/1.5 Guided Missile non-FTO** for a *deliberate* Spotlight/Guided plan versus **15/1.5 Missile + Flash Pulse FTO** for **linkable ARO, no Guided on that profile**. **This distinction defeats the old “free Guided with linked missile” assumption.** One Samekh in OSS (AVA1); choose the job before paying 1.5 SWC. |
 | **Lamedh / Probots** | **Lamedh 7pt** regular Flash Pulse + Repeater is cheap order and perimeter; **Probot 8pt Baggage + Repeater** is similarly cheap plus reload ecosystem; **14/.5 EVO Probot** offers supportware (e.g. Fairy Dust/REM buffs); **17pt TR Probot** more niche. Physical DZ congestion and enemy hackers limit blindly maxing large bases. |
 | **Daleth / Garuda** | **Daleth 15pt** FO/Sensor/Triangulated Fire/Repeater, or **18pt Tactical Awareness** for repeat mobility/projection; **Garuda 20pt FO** fast AD scoring and **25/1.5 Spitfire** threatens an unprotected flank. Lack of FT is compensated by *arrival route* and objective leverage; leave orders in the group that will use AD. |
+
+**Guided versus direct gunfighting:**
+
+**Critical split:**
+
+- **Samekh Guided16/1.5** is **non-FTO**
+- **Samekh FTO15/1.5 direct Missile/Flash** is *not Guided*.
+- OSS Danavas/Asura + Pilot-X/RacerBots/Daleth can build fast Spotlight but a main Marut/Asura/Rudra gun may be more reliable than several setup/save/Reset rolls.
+- Add Guided only when cheap repeaters and spare Orders already exist.
+
+[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
+**Posthuman and dependent-REM accounting:**
+
+**Posthumans Mk.1 Engineer13 + Mk.5 FO13 = 26/.5** covers two independent locations with **one shared Regular Order**, not two simultaneous attacks. A third **Mk.4 HMG30/1.5** creates a pre-positioned combat alternative at **56/2**, but only one reacting Proxy makes an unrestricted ARO against the same enemy Order. **Pilot-X23/.5 + one RacerBot8 =31/.5 / two =39/.5** gives fast area-control bodies, not standalone 8pt Order generators. Tactical Awareness favors the flexible cheap-specialist architecture; the counterargument is that losing a particular Proxy still removes that function and a broader list can buy more genuine Regular Orders. See [global Peripheral apex/value tiers](../list-building/peripheral-synchronized-multibody-apex-value.md).
 
 ## Arguments worth preserving, not flattening
 
@@ -82,30 +147,3 @@
 - **Maximus Agent and TAG Maximus are mutually exclusive**; beware old previews claiming both.
 - **Kinnara Eclipse does not substitute for ordinary smoke-shooting with an MSV Marut**; **Tarkshya is VH, not TAG** and TAGCom isn't a generic Vehicle buff.
 - May 12 source videos are **pre-release conjecture**; refer to the [current canonical OSS Fireteam section](../../sectorials/aleph/operations-subsection.md#fireteams) for actual Wildcard/FTO/required-source access.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Local alternatives to missing native ordinary Smoke:** **Yadu Disco 28/0** (FO/NCO/mission utility by specific profile), **Claire Lazhari Disco + Doctor(2W) 33/0**, **Kinnara Parachutist Eclipse 24/0**; **Asura HD+** projects *White Noise* when the target is MSV/Marksmanship and the Hacking Area reaches the intended zone.
-- **2026 Tactical Awareness disagreement:** value the cheaper 22pt HD+ / Pitcher White Noise option against specific visors, but some hosts prefer paying for a more broadly useful unit if those targets are absent; Yadu is cheaper Disco than Claire, Claire repairs/heals valuable bodies. [Vision tier guide](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Asura HD+63/.5** is the top toolbox anchor (visors, strong guns, WIP15 hacking, scorer, resilience), but **Asura AP Spitfire61** is NOT the hacker. If the list needs redundancy or fewer hackable premium bodies, **Posthuman proxy+Danavas/Dawon/Claire/Artalis** can distribute repair, hacking, scoring and gunfighting at the cost of coordination. The OSS Fireteam bonuses cannot be imported to vanilla.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Critical split:** **Samekh Guided16/1.5** is **non-FTO**; **Samekh FTO15/1.5 direct Missile/Flash** is *not Guided*. OSS Danavas/Asura + Pilot-X/RacerBots/Daleth can build fast Spotlight but a main Marut/Asura/Rudra gun may be more reliable than several setup/save/Reset rolls. Add Guided only when cheap repeaters and spare Orders already exist.
-
-[Global apex/value tiers, when-to-use decisions, and MCP-reviewed opposing views](../list-building/indirect-fire-speculative-guided-apex-value.md).
-
-## Force multipliers — special-ability apex/value (23 October 2026)
-
-**TAGCom value:** **Apsaras TAGCom18/0** (KHD, Deployable Repeater) grants **printed Dodge PH+3 and GizmoKit PH+1** to same-group **Marut/Maximus**, vs **Apsaras KHD17** when no TAG. **Probot8 Baggage versus14/.5 EVO**: EVO only if REM guns/flyers use Supportware; don't claim it has standard HD Spotlight. **Maximus FTO45/1 TinBot(Repeater)** makes legal teammates Repeaters, *not Firewall*. **Shukra CoC21/0 Counterintelligence or LT24/0 Strategos1** compete with multiple cheap scoring units; TA OSS May 2026 values TAGCom highly but warns novel TinBot team interactions require exact rules.
-
-[Global apex/value tiers, practical cases and opposing MCP transcripts](../list-building/force-multipliers-special-abilities-apex-value.md).
-
-## N5.3 Posthuman / remote-body value (23 October 2026)
-
-**Posthumans Mk.1 Engineer13 + Mk.5 FO13 = 26/.5** covers two independent locations with **one shared Regular Order**, not two simultaneous attacks. A third **Mk.4 HMG30/1.5** creates a pre-positioned combat alternative at **56/2**, but only one reacting Proxy makes an unrestricted ARO against the same enemy Order. **Pilot-X23/.5 + one RacerBot8 =31/.5 / two =39/.5** gives fast area-control bodies, not standalone 8pt Order generators. Tactical Awareness favors the flexible cheap-specialist architecture; the counterargument is that losing a particular Proxy still removes that function and a broader list can buy more genuine Regular Orders. See [global Peripheral apex/value tiers](../list-building/peripheral-synchronized-multibody-apex-value.md).

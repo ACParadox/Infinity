@@ -5,11 +5,27 @@
 ## One-minute faction assessment
 
 - **Core identity:** A **Posthuman/cheap-order/REM infrastructure** like OSS, plus **Myrmidon smoke, Hippolyta/Penthesilea CC, Greek MSV/ARO, K2 flank utility**, all selectable together with elite hacking and a premium TAG. **No normal Fireteams**, so the cost is losing the link bonuses/support combinations that make OSS more concentrated.
-- **Best generic skeleton:** **Apsaras LT 20/0** (or choose another legitimate LT), **Posthuman Mk1 Engineer 13** + **Mk4 HMG 30** + optional **Mk5 FO 13 / Mk2 hacker 22**, **Netrod 6** (AVA3), **Lamedh 7** (AVA2), **Probot Baggage 8**, and **one smoke delivery solution** if fielding Marut or other MSV. Then decide which extra attacker, hacker, or midfield package your missions require.
-- **Principal extra axis over OSS:** **16pt Myrmidon smoke**, **28pt Penthesilea Smoke GL + monofilament CC + specialist bike**, **37pt Hippolyta smoke/CC/vertical attacks**. Vanilla Marut can **smoke-shoot** rather than depend on naked BS15 and MSV. Smoke still costs orders and can fail; watch enemy MSV, templates and counter-hacking.
+- **Best generic skeleton (choose the mission-specific options):**
+  - **Apsaras LT 20/0**, or another legal Lieutenant.
+  - **Posthuman Mk1 Engineer 13 + Mk4 HMG 30**, with optional **Mk5 FO 13** or **Mk2 Hacker 22**.
+  - **Netrod 6** (AVA3) for cheap Orders.
+  - **Lamedh 7** (AVA2) for Flash Pulse/Repeater duty.
+  - **Probot Baggage 8** for support and reloads.
+  - **Smoke delivery** if fielding **Marut** or another MSV attack piece.
+  - Spend the remainder on the mission's extra attacker, hacker or midfield package.
+- **Vanilla's additional smoke/CC access:**
+  - **Myrmidon 16pt:** efficient normal Smoke.
+  - **Penthesilea 28pt:** Smoke GL, monofilament CC and specialist bike.
+  - **Hippolyta 37pt:** Smoke, close combat and vertical assault.
+  - **Marut:** can smoke-shoot using MSV instead of relying on an unobstructed BS15 gunfight. Smoke still costs Orders and can fail against enemy MSV, templates or counter-hacking.
 - **Strengths:** dense Regular Order floor, very efficient one-slot G:Jumper support/firepower, the elite BS15 TAG with smoke, WIP15 hackers and specialists, cheap sensor/repeater bots, many independent surgical strikes, and unusual redundancy.
 - **Weaknesses:** big hackable REM/TAG population; no link-based Sixth Sense/extra dice; many one-STR robots and relatively vulnerable hidden/deployed LT; cramped protected S3/S4/S7 bases; inefficient overinvestment in character-heavy lists; high SWC if buying Guided + several long guns.
 - **Why Vanilla rather than OSS:** Shepherd/Jordan (June 2026) lean Vanilla for **smoke + Greek melee**: sometimes a fast Penthesilea attack solves a repeater fortress better than another hacker or REM. **Why OSS instead:** Fireteam specialists/bonuses, more concentrated Asura/Optimates building and some different AVAs/loadouts; not every Vanilla unit is a downgrade or upgrade.
+
+**Vision-control implications:**
+
+- **Vanilla signature:** **16pt Myrmidon normal Smoke + Marut MSV2**, or Hippolyta/Penthesilea Smoke with Asura/other visor attacker. The smoke carrier is cheap compared with the Marut; the **whole package** still risks huge active-turn investment. **Asura HD+ White Noise** selectively blocks enemy visors/Marksmanship, not ordinary guns.
+- **Against strong MSV lanes:** ordinary Smoke does not guarantee passage; build a different gun/marker angle, Eclipse profile where legal, or White Noise where reachable. This is a principal advantage over OSS, which uses Yadu/Claire Disco and Kinnara Eclipse instead of broad cheap Smoke. [Apex/value tiers](../list-building/vision-control-units-apex-and-value.md).
 
 ## Actual current list-building packages
 
@@ -43,7 +59,12 @@
 | **Agent Maximus — NOT TAG** | **48/1 (+Minimus)** or **45/1 FTO**, LT variants **+1 SWC**. TacAware specialist, AP Thunderbolt(+2B), E/M/CC pressure. Attractive in a list needing durable mobile scoring without consuming full TAG price. | 45pt FTO provides **no vanilla Fireteam permission**, and buying that profile purely because “FTO” is a trap. **No Agent+TAG Maximus together**. |
 | **Tarkshya Interception Wing — VH, not TAG** | **34/0 MULTI Marksman+Chain Rifle**, **38/0 MULTI Marksman+AP SMG**, **41/1.5 MULTI Red Fury**, BS13 MSV1 Mimetism(-6), Aerial/fast Jet Propulsion, Tech-Recovery, STR3. **34/0** is absurdly efficient angle creation; **41/1.5** adds firepower when SWC available. On transmutation an **Operator** keeps serious gun/MSV/Mimetism and FO potential; Engineer can rescue the operator. Shepherd/Jordan **June 2026** call it top-tier and question whether recovery leaves too much value. | **No Cover on the VH**, huge S7 footprint, ECM(-3) doesn't negate hacking, and a Flyer must survive the exposed final position. Need Engineer recovery *access*, not just having one somewhere. **October 2025 aerial rankings predate it**. |
 
-**Decision:** Buy **Marut** for MSV2+smoke+Strategos command and sustained superior gunfights; **Maximus** for CC/suppression/AP/TAGCom resilience without MSV; **Tarkshya** for *fast, comparatively low-cost directional attack* and surprising post-vehicle utility. Running both premium TAGs/vehicles needs exceptionally disciplined orders and repair; don't conflate 34pt VH with an 80–90pt TAG's role.
+**Decision:**
+
+- Buy **Marut** for MSV2+smoke+Strategos command and sustained superior gunfights
+- **Maximus** for CC/suppression/AP/TAGCom resilience without MSV
+- **Tarkshya** for *fast, comparatively low-cost directional attack* and surprising post-vehicle utility.
+- Running both premium TAGs/vehicles needs exceptionally disciplined orders and repair; don't conflate 34pt VH with an 80–90pt TAG's role.
 
 ## REMs and peripherals — what actually does the work
 
@@ -65,17 +86,45 @@
 | **Garuda Tacbot** | **20/0 FO** excellent late mission AD; **25/1.5 Spitfire** aggressive flank, **18/0 BSG** trading. MOV20-5 + Super-Jump changes angles without long walk. | Competitors include Ekdromoi **23/.5 hacker / 25/0 KHD**, Kinnara Parachutist and the solo objective midfield. Protect orders in its arrival group. |
 | **Yudbot / Karkata / KiranBot** | Yudbot Servants extend Mk1/Sophotect repair/doctor; Karkata accompanies Marut; Arjuna's **KiranBots** add forked repeater/E-M and multiple bodies with Tactical Awareness. | Peripherals are **not independent cheap Regular Orders** and are subject to parent/dependency rules. Can't trade group/order accounting as though each had a full pool order. |
 
+**Guided and direct-shooting decisions:**
+
+- **Samekh Guided16/1.5** is a payoff for **Danavas HD+ WIP15, Pilot-X/RacerBots/Repeater delivery and Dasyu/Daleth FO**.
+- But **Marut/Asura/other elite gun** often benefits from **Targeted's direct shooting +3** more predictably than a remote missile; a second score-capable specialist may exceed Guided on missions that spread wide.
+- **Samekh FTO direct Missile** does not become Guided from nearby hacker support.
+
+[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
+
 ## Characters and specialists that make Vanilla different
 
 - **Penthesilea 28/0:** fast Specialist/Smoke Grenade Launcher/Monofilament bike; solves a hostile hacking-repeater fortress by **taking a physical flank** and, in a Marut list, can create smoke. **Disagreement:** Shepherd values her highly, but using her exclusively as a “smoke taxi” wastes the fast attack and scoring she was purchased for; sometimes the **16pt Myrmidon** is the better smoke source.
 - **Hippolyta 37/0:** W2 Mimetism(-6) high-CC Super-Jump + Smoke, answers close threats and vertical cover cheaply compared with buying another giant robot. Costs more than Myrmidon and competes with TAG support points.
 - **Myrmidons 16–30:** very useful **16pt Chain Rifle Smoke** baseline; Hacker **29/.5** if mission/hack goals demand. More than one is plausible with an MSV-focused Marut/Agêma gun plan. Unlike older N4 sources **there is no ordinary Vanilla Fireteam**.
-- **Naga / Dasyu / Dart / Thyreos / Samsa:** use distinct jobs: **Naga 25/0 FO**, **Dasyu 29/0 FO+repeater or 30/.5 viral minelayer/34/1.5 Hidden MSR**, **Dart 42/.5 with K-9** for an independently threatening midfield fork (expensive!), **Thyreos 22/0 FO** cheap forward mission access, **Samsa 26/0** forward Plasma specialist/decoy. Dasyu is expensive but now has meaningful HD/BS/Mimetism; older dismissal of Dasyu as “overpriced” predates the update. Buy only the missions' required set rather than all five.
+- **Midfield choices — buy the mission's required jobs, not all five:**
+  - **Naga FO 25/0:** economical forward specialist.
+  - **Dasyu FO 29/0**, viral minelayer **30/.5**, or Hidden MSR **34/1.5:** expensive but meaningful HD/BS/Mimetism after the update; older blanket dismissals are outdated.
+  - **Dart 42/.5 with K-9:** dangerous independent midfield fork at a premium.
+  - **Thyreos FO 22/0:** cheap forward scoring.
+  - **Samsa 26/0:** forward Plasma specialist with Decoy.
 - **Agêma 27/1.5:** Hidden MULTI Sniper or Camo/Decoy Missile, MSV2. **Vanilla** grants access to this anti-Mimetism ARO without needing the Steel Phalanx link; expensive one-STR investment and must be placed where the enemy spends orders to solve it.
 - **Apsaras LT 20/0 versus Deva LT 20+:** This is the most important vanilla list-construction improvement. Apsaras supplies a cheap, useful hacker/RemDriver LT, with Firewall but one wound; Deva is safer against dedicated KHD alpha and offers Devabot/Sensor variants. Vanilla **Apsaras RemDriver 20/1** (non-LT), unlike OSS **20/0**. **TAGCom Apsaras 18/0** improves Marut/Maximus without link assumptions.
 - **Danavas 22/.5 HD+ Pitcher:** still the most straightforward WIP15 ranged-network projection and White Noise plan if Asura isn't in list; **Pilot-X** is a different axis (fast bot-delivered Repeaters, Zero Pain), not proof Danavas has become obsolete. More Pitchers means more Baggage payoff, but forward Repeaters can expose own REMs.
 - **Shukra CoC 21/0:** Counterintelligence and continuity are valuable behind an expensive Lieutenant; a 21pt insurance policy is not free. **Hawkwood CoC 40/0** trades cost for fighting ability. Make LoL decisions *before* buying every extra REM.
-- **Parvati 36/0 vs Sophotect 25/0 vs Mk1 13/0 vs Artalis 23/0 vs Johnny 36+:** Parvati brings robust Doctor/Engineer combined care, Sophotect handles both with WIP15/NWI and optional turret, Mk1 is unbeatable entry-value WIP15 Engineer once the G:Jumper package is bought, Artalis offers a useful **NCO/K1** engineer, and Johnny brings tougher defensive specials. **Do not pay for two premium fixers just to support one REM** unless missions need two distant repair zones.
+- **Recovery specialists — compare actual roles:**
+  - **Parvati 36/0:** durable combined Doctor/Engineer.
+  - **Sophotect 25/0:** WIP15/NWI Doctor/Engineer, optional turret.
+  - **Posthuman Mk1 13/0:** efficient WIP15 Engineer once G:Jumper is funded.
+  - **Artalis 23/0:** NCO/K1 Engineer and frontline utility.
+  - **Johnny 36+:** durable defensive specialism.
+  - Avoid two premium repairers for one REM unless distant mission requirements warrant them.
+
+**Asura toolbox versus distributed specialist packages:**
+
+- **Asura HD+ 63/.5** is an apex solo gun+WIP15 hacker+MSV3+scorer: buy when combat, cyber and objective work lie on one approach.
+- **AP Spitfire61/1.5** is a separate non-hacker gun profile.
+- The counterview (2026 Shepherd/LoL) is that no Mimetism forces fair gunfights and 63pts could buy multiple independent specialists.
+- **Parvati/Sophotect/Posthuman** instead compress recovery and scoring for less, but do not acquire Asura gun power.
+
+**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
 
 ## Keep disagreements instead of averaging them
 
@@ -113,20 +162,3 @@
 - **Only one Maximus version** in a normal list: choose **Agent Maximus OR Maximus TAG**.
 - **Sharvara HoundBots AVA1 Vanilla vs 2 OSS**; **Riksha/Dawon AVA5 Vanilla**, so read faction-specific indexes before transplanting counts.
 - **Aerial tier review from 2025 does not rate Tarkshya**, which did not yet exist. New ratings come from **2026 review**, not that older chart.
-
-## Vision control — role/value update (23 October 2026)
-
-- **Vanilla signature:** **16pt Myrmidon normal Smoke + Marut MSV2**, or Hippolyta/Penthesilea Smoke with Asura/other visor attacker. The smoke carrier is cheap compared with the Marut; the **whole package** still risks huge active-turn investment. **Asura HD+ White Noise** selectively blocks enemy visors/Marksmanship, not ordinary guns.
-- **Against strong MSV lanes:** ordinary Smoke does not guarantee passage; build a different gun/marker angle, Eclipse profile where legal, or White Noise where reachable. This is a principal advantage over OSS, which uses Yadu/Claire Disco and Kinnara Eclipse instead of broad cheap Smoke. [Apex/value tiers](../list-building/vision-control-units-apex-and-value.md).
-
-## Toolbox / jack-of-all-trades assessment (2026-10-23)
-
-**Asura HD+ 63/.5** is an apex solo gun+WIP15 hacker+MSV3+scorer: buy when combat, cyber and objective work lie on one approach. **AP Spitfire61/1.5** is a separate non-hacker gun profile. The counterview (2026 Shepherd/LoL) is that no Mimetism forces fair gunfights and 63pts could buy multiple independent specialists. **Parvati/Sophotect/Posthuman** instead compress recovery and scoring for less, but do not acquire Asura gun power.
-
-**Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
-
-## Indirect fire — Speculative and Guided (2026-10-23)
-
-**Samekh Guided16/1.5** is a payoff for **Danavas HD+ WIP15, Pilot-X/RacerBots/Repeater delivery and Dasyu/Daleth FO**. But **Marut/Asura/other elite gun** often benefits from **Targeted's direct shooting +3** more predictably than a remote missile; a second score-capable specialist may exceed Guided on missions that spread wide. **Samekh FTO direct Missile** does not become Guided from nearby hacker support.
-
-[Whole-game apex/value, situational decisions, reviewed disagreements](../list-building/indirect-fire-speculative-guided-apex-value.md).
