@@ -173,37 +173,7 @@ A fair comparison includes **(1) opportunity to deploy, (2) legal landing/deploy
 
 **Combat Group:** off-table airborne models **don't provide normal pooled Orders until on table** and spend their own Order to enter; [Tactical Awareness](../../rules/5b_Special%20Skills/Tactical_Awareness.md) on an entering Margot/Van Zant/Caskuda generates a **separate personal Tactical Order immediately on arrival**. A source may discuss more personal activations, but not extra unrestricted group Orders. Put **cheap one-and-done traders in a secondary group**, large sustained run in a group that can fund it, and preserve enough late Orders for mission.
 
-## 5. Aggressive Lieutenants and Chain of Command — apex versus value
-
-**No broad 'airborne LT and airborne CoC' tier exists:** most **Combat Jump/Parachutist attack options above are not legal Lieutenant variants**. Compare the **legal attack LT / independent CoC packages** below; don't import a command ability to a different loadout. As explained by [current Loss of Lieutenant rules](../../rules/1_Basic%20Rules/Loss_of_Lieutenant.md), an LT **off-table (including Hidden Deployment)** at your Tactical Phase LoL check is **not a deployed LT**; this is a powerful *risk warning* for Shinobu/Oniwaban LT options.
-
-### Lieutenant apex / marginal value *in a DZ strike architecture*
-
-| Apex | Value | LT profile | Why take it; safe plan | Why not |
-|---|---|---|---|---|
-| **S/A** | **A** | **Sheskiin LT48/0 MULTI Rifle or50/.5 Red Fury — Shas/Combined** | 15-10, BS15, Protheion, CC24/MA4 makes a viable **on-table** route-clearing LT; Speculo/Caliban can open a path to rear or defend later. | Can be cut down by hacking/CC/ARO; **Caliban CoC29 provides succession in Shasvastii SEF**, but is **not listed on the pinned Vanilla Combined Caliban options**; don't import it. Keep the backup alive. |
-| **A+** | **A** | **Tikbalang LT(+1)73/1.5 — Kestrel/Vanilla PanO** | Fast Climbing Plus/Mimetism TAG clears flank and uses personal LT Orders for a sustained route; **Magistrate CoC21** separate. | 73pt/LoL target, cannot teleport past backline screen; don't assume personal LT Order lets its Pathfinder Duo move. |
-| **A+** | **A** | **Bokhtar LT45/0 Paramedic or46/1.5 Red Fury — Hassassin** | 2W/Mimetism/MSV1/Tactical Awareness on chosen **FTO LT option**, can hit through forward route with **Farzan CoC24** keeping tempo. | **Parachutist 49/52 options are NOT LT**—no combining off-table insertion with Bokhtar LT. |
-| **A** | **B** | **Shinobu LT44/.5, JSA** | Exceptional Hidden/Infiltration melee threat and threat before opponent acts; on-table **Camouflage marker** for LT continuity is possible; **Kempeitai CoC17** helps command risk if chosen. | **Leaving LT in Hidden Deployment on Tactical Phase check causes LoL**, undermining key attraction. Expensive to sacrifice merely for kill. |
-| **A** | **B** | **Oniwaban LT30/1, JSA** | Cheaper HD/Infiltration/MA4 monofilament commander; if physically deployed as marker and approached carefully, punishes expensive gun. | 1 SWC for LT that may be cut down, same **Hidden Deployment LoL** trap; non-LT29/0 often far better assassination value. |
-| **A** | **S/A** | **Magistrate Strategos LT19/0 — Kestrel/Vanilla PanO** | **Safe backfield LT**, Regularizes its Order and Counterintelligence; funds **independent Banshee/Crux/Tik attack group** without being the assassin. | Can't also purchase the **same model as CoC**; low ARM/W1 needs protection. |
-| **A** | **A** | **Sun Tze Strategos LT53/0 — Imperial Service** | Strong deployment reserve/control allows different infiltrator/drop plan; forces opponent to protect multiple possible attack vectors. | 53pt commander adds no actual Combat Jump or lethal DZ strike itself. |
-
-### CoC apex / value *behind a forward assassin*
-
-| Apex | Value | CoC | Why pair it; what to guard |
-|---|---|---|---|
-| **S** | **A** | **Caliban CoC29/0 — Shasvastii SEF (not pinned Vanilla Combined)** | Camo/FD+20/Protheion **midfield scored backup** for active Sheskiin LT. Keep it **out of the same exposed attack lane** and near an objective, *not* the first suicide piece. |
-| **S** | **A+** | **Farzan CoC24/0 — Hassassin/Haqq** | Infiltrating Camo CoC behind Bokhtar LT or any active command; still can push buttons. **Don't sacrifice for cheap cheerleader** or lose insurance. |
-| **A+** | **S** | **Magistrate CoC21/0 — Kestrel/Vanilla PanO** | Specialist+Counterintelligence backline **insurance for Tik LT or another gun**; 19pt Magistrate Strategos LT is **different** profile. |
-| **A** | **S** | **Kempeitai CoC17/0 — JSA** | Cheap private succession lets an **on-table** high-exposure Oniwaban/Shinobu/Hatamoto LT fight; don't place successor by same blast zone. |
-| **A** | **A** | **Myrmidon Officer CoC30–31/.5 — Steel Phalanx** | Protected Eclipse path opener and succession for Hector/Machaon assault LT; expensive if it never uses Smoke/CC/mission role. |
-| **A** | **A** | **Shukra CoC21/0 — ALEPH** | Safe backfield successor if expensive attack LT/Hero actually breaches; unlike an AD drop it contributes from initial turn. |
-| **A** | **A** | **Kaeltar CoC21/.5 — Tohaa** | Triad/SymbioMate protection while *other* forward attack piece penetrates; surviving succession plus protecting a true carrier often beats a spare assassin. |
-
-**CoC is a *recovery mechanism*, not permission to kill your only Specialist.** It only triggers if on-table (Model/Marker), not Null or Isolated at the LT check. **CoC (Non Specialist)** doesn't confer specialist eligibility. Where a faction has *no CoC* (for example current Varuna), price the chance of a genuine LoL turn into its attack LT choice.
-
-## 6. Opposing expert opinions — actual transcript research
+## 5. Opposing expert opinions — actual transcript research
 
 1. **Drop troopers stronger in N5 vs still high variance.** [Loss of Lieutenant E160 *Drop Troops*, Nov 23 2025](https://open.spotify.com/episode/568dRYavTxtTUkPTLFJn4i), ~5–9, 40–75 min: presenters argue N5's arrival/TA and altered profiles make AD worth considering again; favor **Banshee**, **Garuda** and 12–14pt **Bashi** as cheap opportunity threats. **Counter in same episode** (~82–90): stacking a landing gamble *and* a lethal attack gamble can be too much risk; don't drop unsupported Caskuda into one hard defender.
 2. **Hellcat mission/repeater vs pure gunfire.** [Infinity the Dante — Corregidor post-Mazebreaker review](https://www.youtube.com/watch?v=dNoJI8nPnIU), ~66–71m: very positive on **Hellcat HD/Paramedic repeater delivery and Carlota Parachutist(DZ)**; considers 1.5 SWC Hellcat Spitfire less appealing. [Tactical Awareness Corregidor S3E23](https://open.spotify.com/episode/1ngCemrrDVMMDgvWjNBMYY), ~40–45m: hosts also favor cheaper Hellcats/Tomcats/Carlota but debate **BS12** for taking actual gunfights and the EVO/landing investment. **Resolution:** choose 19–23pt utility/Hacker to supply alternate win path; buy Spitfire26/1.5 only if multiple good 8–16in targets are plausible.
