@@ -110,7 +110,10 @@ The distinctly current TAK defensive team. Build it to create a lane problem and
 
 Typical logic:
 
-- one Vystrel/Kuryer/Traktor required-choice piece;
+- one legal required-choice support/ARO unit:
+  - **Vystrel**
+  - **Kuryer**
+  - **Traktor Mul**
 - optionally a Dozer for repair, Deactivator/GizmoKit and mission work;
 - Barsuk FTO can join as a cheap Wildcard and adds a Heavy Flamethrower/Light Shotgun body.
 
@@ -308,8 +311,18 @@ For a generic 300-point TAK list, check for the following before optimizing indi
 1. **Command plan:** who is the LT, and does that LT need CoC?
 2. **One credible long-range defensive problem:** Vystrel/Gunnery/Frontovik or another deliberate ARO architecture.
 3. **Two to four meaningful midfield problems:** Scouts, Streloks, mines, Barsuks, Konduktor, Beasthunter.
-4. **At least one protected active gun:** TankHunter, Spetsnaz, Veteran Kazak or a deliberate Ratnik package.
-5. **A pressure/trading piece:** Dog-Warrior, Antipodes, Carmen, Dynamo, Irmandinho or Ioann depending on the mission.
+4. **At least one protected active gun:**
+   - **TankHunter**
+   - **Spetsnaz**
+   - **Veteran Kazak**
+   - **Ratnik**, when the list supports that package.
+5. **Choose a pressure/trading piece for the mission:**
+   - **Dog-Warrior**
+   - **Antipodes**
+   - **Carmen**
+   - **Dynamo**
+   - **Irmandinho**
+   - **Ioann Bann**
 6. **Mission specialists that can survive to Turn 2/3:** do not spend every specialist as an early attacker.
 7. **Recovery if the expensive package justifies it:** Dozer/Doctor/112 rather than support by habit.
 8. **Range diversity:** do not make every important attack depend on one long-range gun or one close-range marker.
@@ -326,7 +339,12 @@ A strong TAK list should usually be able to answer: **what does the opponent hav
 
 - **Plan from a defensive base, then counterattack.** Robert Shepherd and MetaChemistry describe TAK's current strength as Sapper/Neurocinetics REMs + mines/Decoys that consume enemy Orders before TankHunters, Scouts or a mobile piece act. The “why” is information and Order denial, **not** that every TAK gun wins straight-up fights.
 - **A bad matchup is high-Mimetism shooting backed by Sensor/MSV.** WIP12 and MetaChemistry stress that a Vystrel can be fearsome against ordinary gunfighters yet fold quickly when an Mimetism (-6) attacker forces poor BS numbers. Retain markers, use short-range templates/Beasthunters, smoke to *avoid* the lane, and play the mission rather than insisting on a sniper duel. A Frontovik MSV1 shooter is a limited active-turn answer, **not** a durable universal ARO solution.
-- **Avoid overbuying “efficient” S4 models.** Vystrel, Traktor/Kuryer, Voronin and Dynamo compete for *physical deployment space*, even when the points fit. Their separate tactical jobs can justify several, but plan hiding positions before selecting all of them.
+- **Avoid overbuying efficient, space-consuming profiles:**
+  - **Vystrel:** lane-covering REM.
+  - **Traktor Mul / Kuryer:** support/artillery footprints.
+  - **Voronin:** protected command placement.
+  - **Dynamo:** mobile deployment space.
+  - Even when points fit, allocate hiding positions and distinct missions first.
 - **TAK's marker shell has a known counter:** MetaChemistry advises opponents to Sensor the important area or *ignore* low-priority markers and complete objectives; wasting an entire pool Discovering Decoys is exactly the TAK player's desired outcome. As TAK, position real mines and important guns where simply ignoring them has consequences.
 
 ##### Actual Vehicle / TAG / REM coverage
