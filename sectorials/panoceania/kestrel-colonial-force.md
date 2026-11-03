@@ -390,12 +390,14 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 1 | 47 | 0 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Pistol, DA CCW; Surprise Attack (-3), FD (+20), Hidden Deployment | — |
-| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Armed Turret (Combi Rifle), Pistol, DA CCW; Hidden Deployment, FD (+20) | — |
-| 3 | 54 | 0 | MULTI Marksman Rifle, D-Charges, CrazyKoala, MULTI Pistol, DA CCW; FD (+20) | — |
-| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW | Wildcard max 1 |
-| 5 | 49 | 1.5 | **FTO**; Spitfire, Drop Bears, D-Charges, MULTI Pistol, DA CCW | Wildcard max 1 |
-| 6 | 50 | 0 | **FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW; Strategic Deployment | Wildcard max 1 |
+| 1 | 47 | 0 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Pistol, DA CCW (PS=5); Surprise Attack (-3), FD (+20), Hidden Deployment | — |
+| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Armed Turret (Combi Rifle), Pistol, DA CCW (PS=5); Hidden Deployment, FD (+20) | — |
+| 3 | 54 | 0 | MULTI Marksman Rifle, D-Charges, CrazyKoala, MULTI Pistol, DA CCW (PS=5); FD (+20) | — |
+| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) | Wildcard max 1 |
+| 5 | 49 | 1.5 | **FTO**; Spitfire, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) | Wildcard max 1 |
+| 6 | 50 | 0 | **FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5); Strategic Deployment | Wildcard max 1 |
+
+**Profile-specific override:** the Crux DA CC Weapon has **PS=5**, rather than the generic DA CC Weapon chart's PS=8 ([current N5 unit profile](https://www.human-sphere.com/Father_Knight); [N5.3 PS modifier rule](https://infinitythewiki.com/Rolls)).
 
 ### Hetkari Shooters
 
