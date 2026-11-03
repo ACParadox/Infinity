@@ -79,7 +79,7 @@ Direct links point to the **rated row** (or to a clearly labelled *package* row)
 | **Metsuke Officers** | [A+ value command shell](../list-building/force-multipliers-special-abilities-apex-value.md#L70) | Command support |
 | **Yáoxiè Rui Shi** | [A Smoke/MSV2 combination (not standalone)](../list-building/vision-control-units-apex-and-value.md#L99) | Only the Smoke/MSV2 combination ranked |
 | **Monstruckers** | [B/A apex, S conditional value](../list-building/doctors-engineers-and-recovery-apex-value.md#L119) | Engineer |
-| **Uran Aibōt** | [B+ JSA Guided package](../list-building/indirect-fire-speculative-guided-apex-value.md#L106); [A+ generic missile chassis](../list-building/indirect-fire-speculative-guided-apex-value.md#L106) | Guided package and generic chassis |
+| **Uran Aibōt** | [B+ JSA Guided package](../list-building/indirect-fire-speculative-guided-apex-value.md#L93); [A+ generic missile chassis](../list-building/indirect-fire-speculative-guided-apex-value.md#L106) | Guided package and generic chassis |
 | **Yamabushi** | [A apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L80) | Midfield trade |
 | **Shizoku Kōgeki-tai** | [A+ Strategic Deployment group](../list-building/force-multipliers-special-abilities-apex-value.md#L53) | Strategic Deployment; no Top 10 ranking |
 | **Kaizoku Yuriko Oda** | [B/A apex, A+/A value (shared Engineer comparison)](../list-building/doctors-engineers-and-recovery-apex-value.md#L121) | Combined Engineer row |
