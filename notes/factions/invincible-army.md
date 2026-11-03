@@ -12,12 +12,40 @@
 
 **Thesis:** Invincible Army (IA) trades broad cheap board control for **durable multiple-Wound HI, active-turn Order concentration, and flexible specialist/attack Fireteams**. Its challenge is to **win missions after winning gunfights**, particularly when facing hacking/E/M, visual mods, and attacks around its expensive HI. The 2025 CanCon 2nd-/3rd-place IA players (Peter Henry and Jacob Ridley) attribute their success to board-control buffers and mission-specific defensive architecture, not just a giant Fireteam. Tactical Awareness shows both NCO-heavy 10-model lists and broader defensive lists.
 
-1. **Build around the order engine:** A **Dāoyīng Lieutenant (+1 Order)** (23-pt boarding shotgun, 28-pt hacker, or 34-pt sniper/Minelayer) offers two Lieutenant Orders for an **NCO** such as Mówáng, Tai Sheng, Krit, Bìxié or Hac Tao. Hide Dāoyīng until its own shooting, hacking or button-pushing matters. Don't buy every NCO if only one can use the extra orders effectively.
-2. **Select the primary problem-solver:** **Shàng Jí AP HMG + TinBot Firewall(-6)** for a protected HI attack; **Mówáng NCO** for independent durable advance; **Yān Huǒ** for long-range attack or denial; **Gūijiă TAG** for heavy shooting, Super-Jump and melee defence. Avoid paying for all four if that leaves no orders and specialists.
-3. **Plan a second angle and actual scoring:** **Zhēnchá** camo/infiltration, **Húláng** forward attack, **Liú Xīng** airborne, or **Lù Duān/Rui Shi** as secondary threats; **Gūdǎn** and **Libertos** stop opponents simply running around a predictable HI block. CanCon guests said inexpensive Gūdǎn forward camouflage, Shock Mines and templates materially improved the protection of their main team.
+1. **Build around the order engine.** **Dāoyīng LT(+1 Order)** comes in different profiles and fuels particular NCO recipients:
+   - **23pt Boarding Shotgun:** inexpensive LT shell.
+   - **28pt Hacker:** hacking and late objective access.
+   - **34pt Sniper/Minelayer:** defensive command option.
+   - **Mówáng, Tai Sheng, Krit, Bìxié or Hac Tao:** NCO candidates when the selected profile actually supports it.
+
+   Keep Dāoyīng hidden until its own shooting, hacking or button-pushing matters; avoid buying more NCOs than the Orders use.
+2. **Select the primary problem-solver:**
+   - **Shàng Jí AP HMG + TinBot Firewall(-6):** protected team attack.
+   - **Mówáng NCO:** durable independent advance.
+   - **Yān Huǒ:** long-range offence or denial.
+   - **Gūijiă TAG:** Super-Jump, heavy shooting and CC defence.
+
+   Buying all four may leave too few Orders and objective specialists.
+3. **Plan a second angle and actual scoring:**
+   - **Zhēnchá:** camouflaged infiltrating specialist.
+   - **Húláng:** forward assault.
+   - **Liú Xīng:** airborne attack or objective work.
+   - **Lù Duān / Rui Shi:** alternative REM attacking angles.
+   - **Gūdǎn / Libertos:** inexpensive Camo, mines, Shock Mines and templates that protect an HI block.
+
+   CanCon players specifically credited Gūdǎn forward defence with keeping the primary team effective.
 4. **Allocate 10 vs 15 troopers deliberately:** Extra Tactical Awareness and LT→NCO activations allow compact IA builds to act like larger groups, but a low model count concentrates risk and coverage. One 5-man attack squad that cannot cross a hacking network is not efficient, regardless of its theoretical order count.
-5. **Protect HI from counter-tech:** EVO Pangguling (Fairy Dust when appropriate), link TinBots, Hǎidào KHD/Pitcher, mines and an Engineer/servant are high-value. Firewall on one Fireteam does not protect independent solo troops automatically. Recovery support must be positioned to reach the expensive piece.
-6. **Fireteam legality matters:** Current chart records **Core 1 / Haris 1 / Duo source value 256 (unlimited)**. In **Invincible**, both Zúyǒng and Shàng Jí rows carry required=true with min=0; **Shock Duo** similarly marks both Mówáng and Gūijiă required=true with min=0. The source is ambiguous: don't infer any arbitrary pair works without checking the current Army builder. **Forward Duo** requires Húláng FTO-2, optionally Krit FTO-2 and explicitly bans Wildcards. Only **FTO** Son-Bae/Pangguling profiles have Wildcard access.
+5. **Protect HI from counter-tech:**
+   - **EVO Pangguling:** Fairy Dust where appropriate.
+   - **Link TinBots:** Firewall for the protected team, not automatically for unrelated troops.
+   - **Hǎidào KHD/Pitcher:** anti-hacker pressure and reach.
+   - **Mines plus Engineer/servant:** local denial and usable recovery routes.
+6. **Fireteam legality matters:**
+   - **Limits:** Core 1, Haris 1, Duo source value 256 (unlimited).
+   - **Invincible family:** Zúyǒng and Shàng Jí required=true/min=0 entries are ambiguous; check actual Army pairings.
+   - **Shock Duo:** Mówáng and Gūijiă similarly show required=true/min=0; do not assume any arbitrary pair works.
+   - **Forward Duo:** requires Húláng FTO-2, optionally Krit FTO-2; Wildcards are explicitly banned.
+   - **Son-Bae/Pangguling:** only qualifying FTO profiles have Wildcard access.
 
 ### Short unit choices: why / tradeoff
 
@@ -37,7 +65,14 @@
 
 ### TAG, vehicle and shared Yu Jing REM research
 
-**Source-correct availability:** The main IA roster contains **one TAG family — Gūijiă (AVA 2)** and **no VH-class vehicles**. Sù-Jiàn and Fēiquán appear in other Yu Jing sectorials, **not** this IA roster. Gūijiă's Shàngdiào ancillary is a specialist companion, not a separate TAG. Shared Yu Jing REM profiles should be assessed with IA Fireteam access, not copied wholesale from Vanilla.
+**Source-correct availability:**
+
+- **Gūijiă:** IA's only TAG family (AVA2); Shàngdiào is an ancillary specialist, not a second TAG.
+- **Fēiquán:** a vehicle from other Yu Jing rosters, **not IA**.
+- **Sù-Jiàn:** Remote Presence HI in other Yu Jing rosters, **not IA**.
+- **Shared Yu Jing REMs:** use only IA's actual roster and Fireteam permissions.
+
+There is **no VH-class vehicle** in IA.
 
 | Unit | Best use and why | Weakness / opposing opinion |
 |---|---|---|
@@ -49,7 +84,14 @@
 | **Hùsòng / Son-Bae** | Hùsòng Total Reaction HMG or 18-pt Thunderbolt(+1B) protects DZ lanes; Son-Bae 16-pt Guided can capitalize on Spotlight, while 19-pt **FTO Missile(+1B)** is a Wildcard for long-range ARO. | Build **overlapping** angles, not a single exposed stationary ARO. Son-Bae guided loadout is not the linked FTO loadout; only **option 2** is Wildcard. |
 | **Mech-Engineer / Jeong / Hǎidào Engineer / Krit / Yáozăo / Qíshì** | Choose recoverability that suits your primary piece: embedded Hǎidào/Krit repairs a moving HI team, servants extend repair reach, Jeong/turrets defend approach, and Qíshì TAG-support pilot can accompany a Guijia plan. | A repairer unable to reach the TAG/HI is wasted. Don't over-invest in Engineers instead of having enough Orders and objective specialists. |
 
-**Four concise list skeletons (not verified Army codes):** (A) Dāoyīng + **Shàng Jí AP HMG/TinBot** + **Krit NCO Engineer** + **Hǎidào KHD/Pitcher** + Zúyǒng Paramedic + Gūdǎn; (B) Dāoyīng → **Mówáng NCO Disco Baller** with Rui Shi Mine Dispenser, Zhēnchá specialist, cheap order screens; (C) **Yān Huǒ FTO Missile + Invincible protection**, supporting Hùsòng/Pangguling and a *real* forward specialist; (D) **Gūijiă + Engineer/servant + Shàngdiào/Qíshì** with an independent anti-hacking and midfield mission plan. Confirm Fireteam legality and combat groups before treating any skeleton as an actual list.
+**Four concise list skeletons** (not Army-verified codes):
+
+- **HI attack team:** Dāoyīng + Shàng Jí AP HMG/TinBot + Krit NCO Engineer + Hǎidào KHD/Pitcher + Zúyǒng Paramedic + Gūdǎn.
+- **Independent NCO:** Dāoyīng → Mówáng Disco Baller, Rui Shi Mine Dispenser, Zhēnchá and cheap screens.
+- **Long-range defence:** Yān Huǒ FTO Missile, legal Invincible protection, Hùsòng/Pangguling and a forward specialist.
+- **TAG shell:** Gūijiă + Engineer/servant + Shàngdiào/Qíshì, plus independent anti-hacking and scoring.
+
+Confirm Fireteams and groups before treating these as legal lists.
 
 ### Disagreements worth retaining
 
