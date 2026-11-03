@@ -269,11 +269,29 @@ These alternatives can be better when a **specific required team, gun, hacker or
 
 ## Immediate list-building and sectorial audit
 
-- **Kestrel/Vanilla PanO:** Magistrate19 Strategos vs Magistrate21 CoC; aggressive Tikbalang LT needs real succession or independent NCO plan. No Quinn CoC.
-- **Military Orders:** Knight Commander24 LT(+1) + NCO can beat Joan's *order economy* in Religious-heavy lists; Joan is stronger in armies with qualifying Irregular troops and when her own attack matters.
-- **Haqq/Qapu:** Saladin39 (Vanilla Haqq only) transforms qualifying Irregular Orders; **Hafza19 LT(+1)/20 CoC** are separate, cheaper plans in eligible rosters.
-- **Imperial Service:** Sun Tze53 Strategos2/Decoy vs Hsien fighting LT; Pheasant/Táowù insure succession.
-- **Invincible Army:** Dāoyīng23 LT(+1) with Tai Sheng NCO/CoC or Hǎidào24 CoC; the best use is two extra NCO team activations while LT stays hidden.
+- **Kestrel / Vanilla PanO:**
+  - **Magistrate LT 19:** Strategos command engine
+  - **Magistrate CoC 21:** distinct succession profile
+  - **Tikbalang LT:** aggressive commander requiring genuine CoC protection or an independent NCO plan
+  - **Quinn:** no CoC on the pinned roster
+- **Military Orders:**
+  - **Knight Commander 24 LT(+1) + a legal NCO:** often better Order economy in Religious-heavy lists
+  - **Joan LT:** stronger when eligible Irregular troops benefit from Inspiring Leadership or her own attacks matter
+- **Haqq / Qapu:**
+  - **Saladin 39 (Vanilla Haqq only):** converts qualifying Irregular Orders
+  - **Hafza LT(+1) 19:** cheaper alternative in eligible rosters
+  - **Hafza CoC 20:** distinct cheaper succession option where legal
+- **Imperial Service:**
+  - **Sun Tze 53:** Strategos L2 and Decoy
+  - **Hsien LT:** fighting-first alternative
+  - **Pheasant:** succession insurance
+  - **Táowù:** succession insurance
+- **Invincible Army:**
+  - **Dāoyīng 23 LT(+1):** protected commander supplying two LT Orders
+  - **Tai Sheng NCO/CoC:** potential NCO activation and succession outlet
+  - **Hǎidào 24 CoC:** alternative backup
+
+  The preferred plan often uses two NCO Fireteam activations while the LT stays concealed.
 - **ALEPH / Steel Phalanx:**
   - **Marut90 Strategos2 + Shukra21 CoC**
   - **Hector64–65 Strategos1 + Myrmidon Officer30–31 CoC**
@@ -285,14 +303,21 @@ These alternatives can be better when a **specific required team, gun, hacker or
   - **Raktorak25 CoC** protects more fragile Order infrastructure
 
   CoC is often less mandatory when enough actual Warhorse models remain.
-- **Vanilla Combined/Onyx:** EI Mnemonica cannot beat Isolation; **Nexus23 CoC** excellent only in roster-legal pool/Fireteam context.
+- **Vanilla Combined / Onyx:**
+  - **EI Aspect LT with Mnemonica:** succession does not bypass Isolation
+  - **Nexus 23 CoC:** excellent only with roster-legal pool/Fireteam utility
 - **Torchlight:**
   - **Raveneye17 LT(+1)**
   - **Raveneye18 CoC**
   - **Ment** as an alternative backup where legal
 
   Budget for the actual NCO/linked Order economy.
-- **Kosmoflot/Ariadna:** Wallace LT converts Irregular Irmandinhos but not already-Regular Varangian/Denma; **Scots Guard FTO NCO doesn't exist** in pinned Kosmoflot chart. Voronin22 Strategos applies to Vanilla Ariadna.
+- **Kosmoflot / Ariadna:**
+  - **Wallace LT:** converts eligible Irregular troops
+  - **Irmandinhos:** benefit when Irregular and eligible
+  - **Varangians / Denma:** already Regular in the cited Kosmoflot roster, so no extra converted Order
+  - **Scots Guard FTO:** no NCO on the pinned Kosmoflot profile
+  - **Voronin 22:** Strategos option for Vanilla Ariadna
 - **Tohaa:**
   - **Kaeltar21/28 SymbioMate+CoC**
   - **Neema36/+1 SWC LT**
