@@ -26,7 +26,7 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 - **S / A+ durable exposed anchors:** Yān Huǒ **42/1.5 Neurocinetics(+1B) Missile Launcher**, Knight of Justice **46/1.5 ML(+1SD)** in a legal WinterFor Fireteam, Hetkari **47/1.5 ML**, and Sunduqbut **47/1.5 Neurocinetics Feuerbach**. They have very different reactive dice, visors, team requirements and anti-armor ammunition.
 - **A+ reactive-specialist omissions:** Teucer **37/1.5 Neurocinetics Plasma Sniper**; TAK Vystrel **32/1.5 Neurocinetics Portable Autocannon** or **26/0.5 Neurocinetics AP Sniper**; Drummer **40/1 with Drumbot-3 Neurocinetics Feuerbach Peripheral**; and Varuna **Helot Neurocinetics** options. At lower apex they may offer much better *value* than 40–60pt anchors.
 - **Best Fireteam AROs are not simply the highest-BS models.** Black A.I.R. FTO Neuro MSR, Kamau MSV2 MSR, Nisse MSV2 MSR, Hǎidào MSV2 MSR, Riot Grrl ML, Neoterra Bolt ML, and Sukeul ML are serious **only in their legally supported team configurations**. Native +1SD (e.g. Al Fasid HRL, Naga/Dasyu sniper, Intruder sniper, Major Lunah) can function independently, but is not extra Burst.
-- **Routine value remains cheap and layered:** 18–20pt 0SWC Thunderbolt TR REMs, 16pt JSA Garon smoke/Thunderbolt TR, 10/12pt Helot LRL, 6pt Panzerfaust roadblocks, 3pt Warcor, mines and reliable objective defenders. Do not spend the attacker's SWC and Orders on an exposed 1W sniper unless it protects a lane that matters.
+- **Routine value remains cheap and layered:** 18–20pt 0SWC Thunderbolt TR REMs, 16pt JSA Garon smoke/Thunderbolt TR, 16pt Lóng Yá dual launcher, 10/12pt Helot LRL, 6pt Panzerfaust roadblocks, 3pt Warcor, mines and reliable objective defenders. Do not spend the attacker's SWC and Orders on an exposed 1W sniper unless it protects a lane that matters.
 
 **Core correction:** Total Reaction and Neurocinetics permit the weapon's **full native Burst** in ARO; Neurocinetics also cuts active BS weapon Burst to 1. **BS Attack (+1 SD) rolls an extra die and discards one; it does not add a hit, a target or a point of Burst**, and cannot improve a direct-template attack with no Roll. A Fireteam with the required same-Unit level gains +1 SD, later +1 BS and Sixth Sense under the N5 chart; a five-model team does not automatically receive all bonuses just from model count.
 
@@ -44,9 +44,9 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 
 ## ARO tier rankings split by range — non-TAG
 
-**N5.3 range policy:** **Long-range** is credible HMG-style +3 at **16–32in** (HMG, Thunderbolt, Feuerbach, Heavy Rocket Launcher, Portable Autocannon), sniper extension beyond 32in, or Missile Launcher reach. **Medium-range** is credible Mk12/Spitfire/Marksman/Red Fury/LRL-style +3 at **8–24in**. The [weapon chart](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) and [N5.3 Thunderbolt/Red Fury changes](../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) take precedence over weapon nicknames. In particular, **Thunderbolt and HRL are long-range**, while **Uragan and Light Rocket Launcher are medium-range**. A 16–24in overlap alone does **not** put every sniper in both lists.
+**N5.3 range policy:** **Long-range** is credible HMG-style +3 at **16–32in** (HMG, Thunderbolt, Feuerbach, Heavy Rocket Launcher, Portable Autocannon), sniper extension beyond 32in, or Missile Launcher reach. **Medium-range** is credible Mk12/Spitfire/Marksman/Red Fury/LRL/Contender-style +3 at **8–24in**. **Ohotnik** has a +3 band from **8–32in** and belongs in both. Long disposable/state options also include Panzerfaust, Flammenspeer and E/Mitter (+3 at 16–32in). The [weapon chart](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) and [N5.3 Thunderbolt/Red Fury changes](../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) take precedence over weapon nicknames. In particular, **Thunderbolt and HRL are long-range**, while **Uragan and Light Rocket Launcher are medium-range**. A 16–24in overlap alone does **not** put every sniper in both lists.
 
-**Apex** values a worst-case reactive lane commitment; **points-value** includes SWC, Order, Fireteam and repair costs. The same **unit** can rank in both ranges when different supported loadouts genuinely perform both roles; the same **model does not carry both profiles at once**. All Fireteam boosts require a verified legal team. TAGs remain in the separate section below.
+**Apex** values a worst-case reactive lane commitment; **points-value** includes SWC, Order, Fireteam and repair costs. A unit can rank in both ranges with different legal loadouts, one profile spanning both effective bands (Ohotnik), or two weapons on a single profile (Tankō). Do not combine alternative profiles on one model. All Fireteam boosts require a verified legal team. TAGs remain in the separate section below.
 
 ### Long-range Apex — HMG / Thunderbolt / HRL / Feuerbach / sniper / ML
 | # | Apex | Trooper and exact relevant profile | Why it ranks here | Important liability |
@@ -98,18 +98,27 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 | 45 | **A** | **StormBot FTO 29/1.5 Heavy Rocket Launcher — Torchlight** | BS13/STR2 long HRL on a legal FTO team | Not the +1B profile; Fireteam eligibility required |
 | 46 | **A** | **Cateran 21/1 T2 Sniper — Caledonia** | Cheap camouflaged long-range T2 ammo | Irregular W1 |
 | 47 | **A** | **Cateran 21/0.5 AP Sniper — Caledonia** | Cheap camouflaged AP lane with lower SWC | Irregular W1 |
-| 48 | **A** | **Sierra TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 49 | **A** | **Hùsòng TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 50 | **A** | **Zayin TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 51 | **A** | **Reaktion TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 52 | **A** | **Shihab TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 53 | **A** | **Peeler TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 54 | **A** | **Q-Drone TR Thunderbolt(+1B) 20/0.5 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in, with Mim(-3) | Low BS/STR1; hackable, Engineer/LoF dependent |
-| 55 | **A** | **Garon 16/0 TR Thunderbolt + Smoke GL — JSA** | +3 at 16–32in, full reactive Thunderbolt Burst and smoke utility | BS11/STR1; distinct from Mk12/HMG |
-| 56 | **A / B** | **Garon 23pt TR HMG — JSA** | Full reactive HMG +3 at 16–32in | Higher list cost than 16pt Thunderbolt |
-| 57 | **B/A (niche)** | **Chaksa Auxiliary 24/1 Neuro HMG — Tohaa** | Full HMG Burst from an inexpensive 360º body | BS11, ARM0/W1 and significant opportunity cost versus stronger Tohaa Triad choices |
-| 58 | **B/A (trap)** | **Daylami Panzerfaust 6/0 — Haqq** | 6pt Panzerfaust hard-ammo lane, +3 at 16–32in | Disposable shot; not repeatable TR |
-| 59 | **B/A (trap)** | **Minescorp Jackal Panzerfaust 6/0 — Kestrel** | 6pt Panzerfaust +3 at 16–32in, eligible FTO only | Irregular W1; not reusable TR |
+| 48 | **A** | **Lóng Yá 16/0 Panzerfaust (+1B) + Flammenspeer (+1B) — White Banner** | Camo, FD(+10), AP Mine and two enhanced-Burst disposable 16–32in launcher threats | BS11/STR1, finite Disposable(2); no repeatable long gun |
+| 49 | **A** | **Miranda Ashcroft 28/0 E/Mitter (+1B) — eligible rosters** | Mim(-6), Marksmanship, improved reactive E/M Burst in the 16–32in band | BS12/W1; E/M is nonlethal and target-dependent |
+| 50 | **A** | **Hassassin Nadhir 20/0 Hidden Flammenspeer — Hassassin Bahram** | Hidden/Mim(-6), FD(+10), surprise Continuous Damage template in long band | BS12/W1/B1, Disposable(2), Hidden Order cost |
+| 51 | **A** | **Hassassin Shujae 27/0 Hidden Flammenspeer + E/M Mine — Bahram** | BS13, Mim(-6), Hidden, FD(+20), Minelayer(2) and long disposable fire | W1, B1/Disposable(2); mines are separate route pressure |
+| 52 | **A** | **TAK Scout 27/0 Ohotnik — Tartary Army Corps** | Infiltration, Camo/Mim(-3), BS12 and T2 +3 from 8–32in, plus mines | W1 and one native reactive shot |
+| 53 | **A** | **Pavel McMannus 33/0 Ohotnik — TAK/Kosmoflot** | Camo/Mim(-3), FD(+20), T2 +3 through 8–32in and CC deterrence | W1/BS12/B1; CC does not improve ranged FtF |
+| 54 | **A** | **Sierra TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 55 | **A** | **Hùsòng TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 56 | **A** | **Zayin TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 57 | **A** | **Reaktion TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 58 | **A** | **Shihab TR Thunderbolt(+1B) 18/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 59 | **A** | **Peeler TR Thunderbolt(+1B) 19/0 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 60 | **A** | **Q-Drone TR Thunderbolt(+1B) 20/0.5 — roster-legal faction** | 360º full-Burst reactive Thunderbolt at +3 from 16–32in, with Mim(-3) | Low BS/STR1; hackable, Engineer/LoF dependent |
+| 61 | **A** | **Garon 16/0 TR Thunderbolt + Smoke GL — JSA** | +3 at 16–32in, full reactive Thunderbolt Burst and smoke utility | BS11/STR1; distinct from Mk12/HMG |
+| 62 | **A / B** | **Garon 23pt TR HMG — JSA** | Full reactive HMG +3 at 16–32in | Higher list cost than 16pt Thunderbolt |
+| 63 | **A / B** | **Tankō Zensenbutai 19/0 Flammenspeer + Contender — JSA/Oban** | W2/BS13, long Flammenspeer with complementary T2 medium weapon | Impetuous/No Cover; finite launcher and ordinary B1 ARO; team legality matters |
+| 64 | **B/A (niche)** | **Chaksa Auxiliary 24/1 Neuro HMG — Tohaa** | Full HMG Burst from an inexpensive 360º body | BS11, ARM0/W1 and significant opportunity cost versus stronger Tohaa Triad choices |
+| 65 | **B/A (trap)** | **Daylami Panzerfaust 6/0 — Haqq** | 6pt Panzerfaust hard-ammo lane, +3 at 16–32in | Disposable shot; not repeatable TR |
+| 66 | **B/A (trap)** | **Minescorp Jackal Panzerfaust 6/0 — Kestrel** | 6pt Panzerfaust +3 at 16–32in, eligible FTO only | Irregular W1; not reusable TR |
+| 67 | **B / A (trap)** | **Konduktor 12/0 Camo(1 Use) Flammenspeer — TAK** | Cheap infiltrating Camo 16–32in Continuous Damage surprise | BS10/W1, Disposable(2); not the FTO Shock Marksman profile |
+| 68 | **B / A (utility)** | **Thorakitai 12/0 E/Mitter — ALEPH/OSS/Steel Phalanx** | Regular 0SWC 16–32in E/M state threat, with SMG and Pulzar backup | Nonlethal B1 reactive shot, not high-Burst long fire |
 
 ### Medium-range Apex — Spitfire / Mk12 / MMR / Red Fury / LRL
 | # | Apex | Trooper and exact relevant profile | Why it ranks here | Important liability |
@@ -121,59 +130,74 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 | 5 | **A** | **Helot 15/1 Neuro Camo(1 Use) Red Fury — Varuna** | Full reactive Red Fury with 8–24in +3 and marker-state uncertainty | W1, non-FTO; no linked bonuses |
 | 6 | **A** | **Helot FTO 11/0 Neuro Shock Marksman Rifle + Sensor — Varuna** | 0SWC +3 from 8–24in Neuro MMR, compatible with legal FTO team | W1/Irregular, lower Burst than Red Fury |
 | 7 | **A** | **Helot 13/0 Neuro Camo(1 Use) Shock Marksman Rifle — Varuna** | 0SWC concealed Neuro MMR at +3 from 8–24in | W1/Irregular, non-FTO |
-| 8 | **A / B trap** | **Helot FTO 10/0 Neuro Light Rocket Launcher — Varuna** | +3 at 8–24in cheap impact template with eligible team support | Irregular W1; not Camo profile |
-| 9 | **A / B trap** | **Helot 12/0 Neuro Camo(1 Use) Light Rocket Launcher — Varuna** | +3 at 8–24in marker threat; SMG also guards corner | Irregular W1; non-FTO |
-| 10 | **A / B trap** | **Minescorp Jackal FTO 6/0 Light Rocket Launcher — Kestrel** | Very cheap +3 8–24in launcher; legal COLCORP FTO if supported | Irregular W1; no repeatable main gun |
-| 11 | **B / A niche** | **Kuryer 18/1 TR Uragan MRL — Ariadna** | Uragan +3 at 8–24in; reactive artillery | Not conventional direct-fire HMG |
-| 12 | **B / A niche** | **Traktor Mul 14/1 TR Uragan MRL — Ariadna** | Cheap +3 8–24in TR artillery | LoF, weapon mode and scenario dependent |
-| 13 | **B / A utility** | **Warcor 3/0 Flash Pulse — eligible factions** | WIP nonlethal Stun +3 at 8–24in, exceptional delay per point | Irregular W1; not lethal |
-| 14 | **B / niche** | **Sunduqbut 42/0 Neuro(+1B) Viral Rifle — Haqq/Hassassin** | Durable tight-medium reactive Rifle, strongest at 8–16in | Rifle -3 at 16–24in: not a true 8–24in Spitfire |
+| 8 | **A / B** | **TAK Scout 27/0 Ohotnik — Tartary Army Corps** | Camouflaged infiltrator with T2 +3 from 8–24in and mine-backed routes | W1/native B1, vulnerable to elite active Burst |
+| 9 | **A / B** | **Pavel McMannus 33/0 Ohotnik — TAK/Kosmoflot** | T2 +3 8–24in with Camouflage/FD and CC/mission utility | W1/B1, 33pt is more than a medium ARO investment |
+| 10 | **A / B trap** | **Helot FTO 10/0 Neuro Light Rocket Launcher — Varuna** | +3 at 8–24in cheap impact template with eligible team support | Irregular W1; not Camo profile |
+| 11 | **A / B trap** | **Helot 12/0 Neuro Camo(1 Use) Light Rocket Launcher — Varuna** | +3 at 8–24in marker threat; SMG also guards corner | Irregular W1; non-FTO |
+| 12 | **A / B trap** | **Minescorp Jackal FTO 6/0 Light Rocket Launcher — Kestrel** | Very cheap +3 8–24in launcher; legal COLCORP FTO if supported | Irregular W1; no repeatable main gun |
+| 13 | **A / B (utility)** | **Yojimbo (on foot) 19/0 Contender (+1B) — JSA/Oban** | Reactive T2 +1B at 8–24in plus CrazyKoala, smoke and CC threat | Irregular/Impetuous/No Cover; not a covered tower |
+| 14 | **A / B (utility)** | **Fiddler FTO 29/0 Contender (+1B) — Ramah/eligible rosters** | Reactive T2 +1B 8–24in with Drop Bears, Super-Jump and Engineer | Not TR/Neuro; Fireteam bonus only on a legal team |
+| 15 | **B / A niche** | **Kuryer 18/1 TR Uragan MRL — Ariadna** | Uragan +3 at 8–24in; reactive artillery | Not conventional direct-fire HMG |
+| 16 | **B / A niche** | **Traktor Mul 14/1 TR Uragan MRL — Ariadna** | Cheap +3 8–24in TR artillery | LoF, weapon mode and scenario dependent |
+| 17 | **B / A utility** | **Warcor 3/0 Flash Pulse — eligible factions** | WIP nonlethal Stun +3 at 8–24in, exceptional delay per point | Irregular W1; not lethal |
+| 18 | **B (utility)** | **Tankō Zensenbutai 19/0 Contender + Flammenspeer — JSA/Oban** | Repeatable T2 +3 at 8–24in plus W2 and a separate long launcher | Impetuous/No Cover; normal Contender native B1 reactive shot |
+| 19 | **B (utility)** | **Makaul Troop 14/0 Contender + Heavy Flamethrower — Tohaa** | T2 +3 8–24in, Eclipse, template and legal Triad/CC pressure | BS11/W1, Impetuous/No Cover; utility rather than gunfighter |
+| 20 | **B / niche** | **Sunduqbut 42/0 Neuro(+1B) Viral Rifle — Haqq/Hassassin** | Durable tight-medium reactive Rifle, strongest at 8–16in | Rifle -3 at 16–24in: not a true 8–24in Spitfire |
 
-**Medium caveats:** The 42pt Sunduqbut Viral **Rifle** is a tight-medium **8–16in** niche, not a Viral Spitfire. Uragan is artillery rather than a straightforward direct-fire Mk12. For Helots, FTO/Sensor and Camo(1 Use) are **different, mutually exclusive profiles**, with link eligibility only on FTO.
+**Medium caveats:** Ohotnik has +3 through 8–32in but a native B1 reactive shot; Tankō's same profile carries Flammenspeer (long, Disposable) and Contender (medium, T2). Contender (+1B) on Yojimbo/Fiddler does not transfer to Tankō/Makaul. The 42pt Sunduqbut Viral **Rifle** is a tight-medium **8–16in** niche, not a Viral Spitfire. Uragan is artillery rather than a straightforward direct-fire Mk12. For Helots, FTO/Sensor and Camo(1 Use) are **different, mutually exclusive profiles**, with link eligibility only on FTO.
 
 ### Long-range points-value — non-TAG
 | # | Value | Unit and profile | Why it earns this value; important qualifier |
 |---|---|---|---|
 | 1 | **S+** | **6pt Daylami Panzerfaust; 8pt camo variant** | Expendable anti-heavy lane + camouflage uncertainty; Irregular |
 | 2 | **S+** | **6pt Kestrel Jackal FTO Panzerfaust** | +3 at 16–32in hard-ammo trade; Irregular/FTO restrictions |
-| 3 | **S** | **16pt Garon TR Thunderbolt + Smoke GL — JSA** | Full reactive +3 16–32in, 0SWC; Mk12 is medium, HMG long but pricier |
-| 4 | **S** | **Sierra TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
-| 5 | **S** | **Hùsòng TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
-| 6 | **S** | **Shihab TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
-| 7 | **S** | **Zayin TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
-| 8 | **S** | **Reaktion TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
-| 9 | **S** | **Peeler TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
-| 10 | **S** | **20pt Q-Drone TR Thunderbolt(+1B)** | Mim(-3) materially improves FtF, but charges 0.5SWC |
-| 11 | **S** | **26pt Vystrel Neuro AP Sniper (0.5SWC)** | Sapper, STR2, better native ARO shooting than routine non-TR 1W rifle; can fit Gunnery shell |
-| 12 | **S** | **21pt Cateran T2/AP Sniper** | Camo/hard ammo threat at low points; Irregular order economics matter |
-| 13 | **A+** | **17pt Helot Neuro Camo(1 Use) MULTI Sniper (1.5SWC)** | Very cheap full-Burst long sniper; Irregular W1/ARM0 and SWC tax |
-| 14 | **A+ / A** | **26pt Sin-Eater Neuro MULTI Sniper — Bakunin** | Full reactive sniper, 1.5SWC/W1 lowers value vs Mk12 |
-| 15 | **A / niche** | **28pt Sin-Eater Neuro HMG — Bakunin** | Strong long reactive HMG but 1.5SWC and W1 |
-| 16 | **A+** | **27pt Agêma Hidden MULTI Sniper — Steel Phalanx** | Concealed long shot, W1 and Hidden Order loss |
-| 17 | **A+** | **27pt Agêma Camo(1 Use)+Decoy Missile Launcher — Steel Phalanx** | Cheap missile deception; Camo, not Hidden |
-| 18 | **A+** | **30pt Noctifer hidden ML** | Exceptional decisive template value; missing initial Hidden Order changes complete-list efficiency |
-| 19 | **A+** | **24pt Bolt ML in a team already fielded — NCA** | Marksmanship and cheap linked special-die pressure; avoid buying a full Fireteam solely to get the ARO |
-| 20 | **A+** | **29pt Hǎidào MSV2 MSR in a supported Invincible team** | Better resilience via NWI and useful visor; team tax counts |
-| 21 | **A+** | **29pt Kamau MSV2 MULTI Sniper — Varuna** | Strong when supported by already-funded legal team; W1 |
-| 22 | **A+** | **23pt Kamau MSV1 Heavy Rocket Launcher — Varuna** | Cheaper linked +3 16–32in launcher; distinct from MSV2 sniper |
-| 23 | **A+** | **22pt Black Friar MSV2 HRL — Military Orders** | Affordable long visor template, 1.5SWC |
-| 24 | **A+** | **15pt Order Sergeant FTO HRL — Military Orders** | Cheap long linked template if Fireteam already present; not Neuro Escort |
-| 25 | **A+** | **22pt Escort Sergeant Neuro HRL+Auxbot — MO** | Multiple-angle defense for moderate points, but **unlinked** and has synchronized Peripheral vulnerabilities |
-| 26 | **A+** | **32pt Vystrel Neuro Portable Autocannon** | Stronger anti-heavy damage than AP Sniper at modest incremental spend, but costs 1.5SWC |
-| 27 | **A+** | **28pt/1 Sukeul K1 Sniper — Tohaa** | Long anti-heavy ammo on mission-capable Triad member |
-| 28 | **A+** | **34pt/1.5 Sukeul Missile Launcher — Tohaa** | Durable long template with legal Triad, but higher cost |
-| 29 | **A** | **37pt Teucer Neuro Plasma Sniper — Next Wave** | Very high FtF ceiling, but large 1.5SWC spend and no Fireteam on Neuro loadout |
-| 30 | **A** | **40pt Drummer + Neuro Feuerbach Drumbot-3** | Two-body reactive geometry and specialist controller choices, but the controller/peripheral package is not two free independent troopers |
-| 31 | **A** | **41pt Atalanta TR sniper** | S apex for a needed long lane; W1/41pt/1.5SWC is a real trade when the enemy can bypass |
-| 32 | **A** | **42pt Yān Huǒ Neuro ML** | Massive reactive damage and resilience; S5/1.5SWC/limited flexibility costs list space |
-| 33 | **A** | **44pt Al Fasid HRL(+1SD)** | Strong durable anti-cluster anchor; more attractive as a useful team member than as a pure ARO tax |
-| 34 | **A** | **Son-Bae FTO ML(+1B) 19pt** | Good only when legal actual Fireteam chart supports it; **FTO is not the Guided variant by default** |
-| 35 | **A** | **Samekh FTO ML 24pt** | Good only when legal actual Fireteam chart supports it; **FTO is not the Guided variant by default** |
-| 36 | **B / niche** | **24pt Chaksa Auxiliary Neuro HMG** | Inexpensive on paper but low BS/W1/ARM0 and 1SWC; Tohaa has stronger Triad alternatives |
-| 37 | **B / niche** | **23pt Garon TR HMG — JSA** | Full reactive HMG, lower points-value than 16pt 0SWC Thunderbolt |
-| 38 | **B** | **Knight of Justice 46pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
-| 39 | **B** | **Hetkari 47pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
-| 40 | **B** | **Swiss Guard 60pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
+| 3 | **S+** | **16pt Lóng Yá Panzerfaust(+1B) + Flammenspeer(+1B) (0SWC)** | Camo, FD, AP Mine and two full reactive-modifier disposable tools; STR1 repairable, finite ammo |
+| 4 | **S** | **16pt Garon TR Thunderbolt + Smoke GL — JSA** | Full reactive +3 16–32in, 0SWC; Mk12 is medium, HMG long but pricier |
+| 5 | **S** | **Sierra TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
+| 6 | **S** | **Hùsòng TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
+| 7 | **S** | **Shihab TR Thunderbolt(+1B) 18/0** | Full-Burst 360º, 0SWC, repairable; 23pt HMG variant usually costs SWC |
+| 8 | **S** | **Zayin TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
+| 9 | **S** | **Reaktion TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
+| 10 | **S** | **Peeler TR Thunderbolt(+1B) 19/0** | Same cheap formula; 0SWC and strong sectorial support options |
+| 11 | **S** | **20pt Q-Drone TR Thunderbolt(+1B)** | Mim(-3) materially improves FtF, but charges 0.5SWC |
+| 12 | **S** | **26pt Vystrel Neuro AP Sniper (0.5SWC)** | Sapper, STR2, better native ARO shooting than routine non-TR 1W rifle; can fit Gunnery shell |
+| 13 | **S** | **21pt Cateran T2/AP Sniper** | Camo/hard ammo threat at low points; Irregular order economics matter |
+| 14 | **A+** | **20pt Hassassin Nadhir Hidden Flammenspeer (0SWC)** | Mim(-6) concealed Continuous Damage trade at 16–32in, but Hidden Order and finite shots |
+| 15 | **A+** | **27pt TAK Scout Ohotnik (0SWC)** | Infiltration/Camo and repeatable T2 from 8–32in, with mines; only B1 in ARO |
+| 16 | **A+** | **28pt Miranda Ashcroft E/Mitter(+1B) (0SWC)** | Mim(-6), Marksmanship, +1B E/M threat and Specialist Operative; nonlethal |
+| 17 | **A+** | **12pt Konduktor Camo(1 Use) Flammenspeer (0SWC)** | Infiltrating cheap concealed Continuous Damage trap; BS10/W1/Disposable |
+| 18 | **A+** | **27pt Hassassin Shujae Hidden Flammenspeer + E/M Mine (0SWC)** | BS13, Hidden, Mim(-6), Minelayer(2) and mission flexibility; Hidden Order tax |
+| 19 | **A+** | **33pt Pavel McMannus Ohotnik (0SWC)** | Wide T2 band, Camouflage/FD and specialist/CC utility; pricier B1 platform |
+| 20 | **A+** | **17pt Helot Neuro Camo(1 Use) MULTI Sniper (1.5SWC)** | Very cheap full-Burst long sniper; Irregular W1/ARM0 and SWC tax |
+| 21 | **A+ / A** | **26pt Sin-Eater Neuro MULTI Sniper — Bakunin** | Full reactive sniper, 1.5SWC/W1 lowers value vs Mk12 |
+| 22 | **A / niche** | **28pt Sin-Eater Neuro HMG — Bakunin** | Strong long reactive HMG but 1.5SWC and W1 |
+| 23 | **A+** | **27pt Agêma Hidden MULTI Sniper — Steel Phalanx** | Concealed long shot, W1 and Hidden Order loss |
+| 24 | **A+** | **27pt Agêma Camo(1 Use)+Decoy Missile Launcher — Steel Phalanx** | Cheap missile deception; Camo, not Hidden |
+| 25 | **A+** | **30pt Noctifer hidden ML** | Exceptional decisive template value; missing initial Hidden Order changes complete-list efficiency |
+| 26 | **A+** | **24pt Bolt ML in a team already fielded — NCA** | Marksmanship and cheap linked special-die pressure; avoid buying a full Fireteam solely to get the ARO |
+| 27 | **A+** | **29pt Hǎidào MSV2 MSR in a supported Invincible team** | Better resilience via NWI and useful visor; team tax counts |
+| 28 | **A+** | **29pt Kamau MSV2 MULTI Sniper — Varuna** | Strong when supported by already-funded legal team; W1 |
+| 29 | **A+** | **23pt Kamau MSV1 Heavy Rocket Launcher — Varuna** | Cheaper linked +3 16–32in launcher; distinct from MSV2 sniper |
+| 30 | **A+** | **22pt Black Friar MSV2 HRL — Military Orders** | Affordable long visor template, 1.5SWC |
+| 31 | **A+** | **15pt Order Sergeant FTO HRL — Military Orders** | Cheap long linked template if Fireteam already present; not Neuro Escort |
+| 32 | **A+** | **22pt Escort Sergeant Neuro HRL+Auxbot — MO** | Multiple-angle defense for moderate points, but **unlinked** and has synchronized Peripheral vulnerabilities |
+| 33 | **A+** | **32pt Vystrel Neuro Portable Autocannon** | Stronger anti-heavy damage than AP Sniper at modest incremental spend, but costs 1.5SWC |
+| 34 | **A+** | **28pt/1 Sukeul K1 Sniper — Tohaa** | Long anti-heavy ammo on mission-capable Triad member |
+| 35 | **A+** | **34pt/1.5 Sukeul Missile Launcher — Tohaa** | Durable long template with legal Triad, but higher cost |
+| 36 | **A** | **37pt Teucer Neuro Plasma Sniper — Next Wave** | Very high FtF ceiling, but large 1.5SWC spend and no Fireteam on Neuro loadout |
+| 37 | **A** | **40pt Drummer + Neuro Feuerbach Drumbot-3** | Two-body reactive geometry and specialist controller choices, but the controller/peripheral package is not two free independent troopers |
+| 38 | **A** | **41pt Atalanta TR sniper** | S apex for a needed long lane; W1/41pt/1.5SWC is a real trade when the enemy can bypass |
+| 39 | **A** | **42pt Yān Huǒ Neuro ML** | Massive reactive damage and resilience; S5/1.5SWC/limited flexibility costs list space |
+| 40 | **A** | **44pt Al Fasid HRL(+1SD)** | Strong durable anti-cluster anchor; more attractive as a useful team member than as a pure ARO tax |
+| 41 | **A** | **Son-Bae FTO ML(+1B) 19pt** | Good only when legal actual Fireteam chart supports it; **FTO is not the Guided variant by default** |
+| 42 | **A** | **Samekh FTO ML 24pt** | Good only when legal actual Fireteam chart supports it; **FTO is not the Guided variant by default** |
+| 43 | **A** | **19pt Tankō Flammenspeer + Contender (0SWC)** | W2 and two credible bands with T2/Continuous Damage; Impetuous/No Cover |
+| 44 | **A** | **12pt Thorakitai E/Mitter (0SWC)** | Regular cheap long E/M ARO and Pulzar backup, but nonlethal B1 |
+| 45 | **B / niche** | **24pt Chaksa Auxiliary Neuro HMG** | Inexpensive on paper but low BS/W1/ARM0 and 1SWC; Tohaa has stronger Triad alternatives |
+| 46 | **B / niche** | **23pt Garon TR HMG — JSA** | Full reactive HMG, lower points-value than 16pt 0SWC Thunderbolt |
+| 47 | **B** | **Knight of Justice 46pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
+| 48 | **B** | **Hetkari 47pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
+| 49 | **B** | **Swiss Guard 60pt** | S apex but heavy points/SWC and active-turn opportunity cost; prioritize when position/mission justifies them |
 
 ### Medium-range points-value — non-TAG
 | # | Value | Unit and profile | Why it earns this value; important qualifier |
@@ -188,10 +212,16 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 | 8 | **A+** | **25pt Sin-Eater Neuro Mk12 (0SWC) — Bakunin** | Strong full reactive 8–24in gun; W1/low active Burst |
 | 9 | **A+** | **13pt Helot FTO Neuro Red Fury — Varuna** | Full reactive Shock Burst 4, +3 8–24in; 1 SWC |
 | 10 | **A+** | **15pt Helot Camo(1 Use) Neuro Red Fury — Varuna** | Cheap concealed reactive 8–24in Red Fury; non-FTO/1 SWC |
-| 11 | **A** | **18pt Kuryer TR Uragan MRL — Ariadna** | 8–24in +3 artillery, 1 SWC; not conventional direct-fire |
-| 12 | **A** | **14pt Traktor Mul TR Uragan MRL — Ariadna** | Very cheap +3 8–24in artillery; not normal HMG |
-| 13 | **B / niche** | **50pt Sunduqbut Neuro AP Spitfire — Haqq/Hassassin** | Strong AP reactive apex, but 50pt/1.5SWC expensive for pure ARO |
-| 14 | **B / niche** | **42pt Sunduqbut Neuro(+1B) Viral Rifle — Haqq/Hassassin** | Durable 0SWC 8–16in pressure; -3 at 16–24in |
+| 11 | **A+** | **27pt TAK Scout Ohotnik (0SWC)** | Infiltration, Camouflage, T2 +3 at 8–24in and mines; native B1 |
+| 12 | **A+** | **33pt Pavel McMannus Ohotnik (0SWC)** | T2 8–24in plus camouflage, FD(+20), specialist/CC roles; more costly |
+| 13 | **A** | **18pt Kuryer TR Uragan MRL — Ariadna** | 8–24in +3 artillery, 1 SWC; not conventional direct-fire |
+| 14 | **A** | **14pt Traktor Mul TR Uragan MRL — Ariadna** | Very cheap +3 8–24in artillery; not normal HMG |
+| 15 | **A (utility)** | **19pt Yojimbo (on foot) Contender(+1B) (0SWC)** | Improved reactive T2, CrazyKoala and smoke; Irregular/Impetuous/No Cover |
+| 16 | **A (utility)** | **19pt Tankō Flammenspeer + Contender (0SWC)** | W2, T2 medium plus separate long launcher; Impetuous/No Cover |
+| 17 | **A (utility)** | **14pt Makaul Contender + Heavy Flamethrower (0SWC)** | Cheap T2 medium, Eclipse, template and Triad/CC threat; BS11/No Cover |
+| 18 | **A (utility)** | **29pt Fiddler FTO Contender(+1B) (0SWC)** | Reactive T2 +1B, Drop Bears, Super-Jump/Engineer; only actual legal FT bonuses |
+| 19 | **B / niche** | **50pt Sunduqbut Neuro AP Spitfire — Haqq/Hassassin** | Strong AP reactive apex, but 50pt/1.5SWC expensive for pure ARO |
+| 20 | **B / niche** | **42pt Sunduqbut Neuro(+1B) Viral Rifle — Haqq/Hassassin** | Durable 0SWC 8–16in pressure; -3 at 16–24in |
 
 ### Close-in and utility defenders — deliberately not in gun-band tiers
 
@@ -202,7 +232,7 @@ This revision checks **current N5.3 roster profiles in every faction/sectorial**
 | Close 360º security | **16–17pt TR Combi baggage REMs** (Kameel, Mulebot, Probot, Pangguling, Salyut, FuzzBot) | Useful at 0–16in; poor extension across 16–24in; exact roster/profile varies |
 | Layers and marker traps | **Moonraker, mines, E/M, chain rifles and hacking AROs** | Mission-route / objective denial, not long or medium open-lane shooting |
 
-**Dual-range units, by legitimate alternative profiles:** Sin-Eater (MSR/HMG vs Mk12), Sunduqbut (Feuerbach vs AP Spitfire), Helot (MSR vs MMR/Red Fury/LRL), Garon (Thunderbolt/HMG vs Mk12), Jackal (Panzerfaust vs LRL).
+**Dual-range units:** **Different profiles** — Sin-Eater, Sunduqbut, Helot, Garon, Jackal (see rows). **Same profile** — TAK Scout/Pavel (Ohotnik +3 from 8–32in), Tankō (Flammenspeer and Contender).
 
 **Rules distinction:** Total Reaction and Neurocinetics allow full native weapon Burst in ARO; +1 SD is an additional die to roll/discard, not an extra hit, and a weapon's +1B is not Neuro. Linked models receive only bonuses of their **actual** legal Fireteam level.
 ### Mechanism-by-mechanism completeness audit
