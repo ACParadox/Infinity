@@ -14,6 +14,16 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Entries below #10 are retained outside the standout table.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 5 (#4) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L102) | **Nisse HMG31/1.5** | **Former A → A+:** inexpensive BS13/MSV2/Mimetism−3 *long* gun. **Limit:** 1W and smoke/White Noise positioning limits; no claim of universal #241 performance. |
+| **Top 10 (#9) — Non-TAG medium-range value (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L152) | **Hannibal MULTI MMR29–30/0** | BS13, +1SD, Tactical Awareness, NWI and 0SWC combine useful repeat 8–24in fire with Order economy. **Limit:** +1SD is not extra Burst; 1W+NWI and MMR −3 at 24–32in, points differ by roster. |
+| **Top 10 (#7) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L248) | **Jotum MULTI HMG82/1.5** | **BS15, ARM10/BTS9/3W, TacAware and Immunity(Critical)**: punishes ordinary massed ballistic fire even when opponent has high Burst. **Limit:** E/M/hacking/CC bypass armor advantage; high S7 opportunity cost. |
+
 | Whole-game shortlist (specific job) | WinterFor unit/profile | Why it stands out / limits |
 |---|---|---|
 | **Top 3 (#2) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Karhu Feuerbach(+1B) 34/1.5** | B3 AP+DA with MSV1/Mimetism(-3), Climbing Plus and NCO; **eligible WinterFor Fireteam** changes the firing platform, but not its 1W vulnerability [[rank #2]](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L73). |
