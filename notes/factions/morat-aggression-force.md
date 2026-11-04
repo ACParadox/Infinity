@@ -35,6 +35,7 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 |---|---|---|
 | **Top 3 (#2) — Budget CC Value (value; ≤22 pts)** | [**Dāturazi Chain(+1B) 14/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L178) | CC23/MA4, DA, Regular+Impetuous, Smoke, Warhorse; Two actual attack dice plus smoke/Regular support make exceptional whole-game CC value. |
 
+- **Top 10 (#9) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Kurgat Portable Autocannon, 30/1**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L80) — Morat foundation Engineer with repeatable B2 AP+EXP, D-Charges and 1 SWC; BS12/one Wound make support and safe lanes important.
 - **Top 3 — Cheerleaders and Order Generators (value): Oznat FTO + Gakis.** ([cross-faction S+ Order engine](../list-building/cheerleaders-and-order-generators.md#L166))
   - **Haris:** ([cross-faction S+ three-Order Haris](../list-building/cheerleaders-and-order-generators.md#L167)) Oznat FTO 15/0 + two Gakis 4/0 = **23 points, 0 SWC for three Regular Orders** with the qualifying Fireteam Master interaction.
   - **Core:** ([cross-faction S+ five-Order Core](../list-building/cheerleaders-and-order-generators.md#L166)) Oznat FTO + four Gakis = **31/0 for five Regular Orders**.
