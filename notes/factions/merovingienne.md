@@ -27,8 +27,8 @@
 
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
-| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Ranking #119](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
-| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke/Chain/Sensor pressure; Bâtard is Synchronized, **not** a free extra Order or DZ entry; [Ranking #215](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
+| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
+| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke/Chain/Sensor pressure; Bâtard is Synchronized, **not** a free extra Order or DZ entry; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
 
 ### Particularly useful Fireteams
 
