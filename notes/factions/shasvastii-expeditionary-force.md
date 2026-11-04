@@ -32,8 +32,13 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
 
-- **Top 5 (#5) — Frontline CC combatants (apex): Sheskiin MULTI Rifle 48/0.** [#5 frontline CC](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L152): CC24/MA4, 2W, DA and Protheion, supported by BS15 rifle attacks that clear a route to continued melee.
-- **Top 5 (#4) — Dedicated CC assassins (apex): Speculo Killer BSG 26/1.** [#4 CC assassin](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L127): Impersonation and Monofilament create an immediate premium-target threat. It remains a one-Wound model and spends one SWC.
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
+|---|---|---|
+| **Top 5 (#4) — Dedicated CC Assassins (apex)** | [**Speculo Killer BSG 26/1**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L127) | CC22/MA3, Impersonation, Monofilament, Smoke; Exceptional deployment proximity and anti-premium damage; 1 SWC and screening are major costs. |
+| **Top 5 (#5) — Frontline CC Combatants (apex)** | [**Sheskiin MULTI Rifle 48/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L152) | CC24/MA4, DA, BS15, 2W, Protheion; Strong gun clears contact route; melee snowballs only against VITA victims. |
+
 - **Top 3 — ARO Units (apex): Noctifer Missile Launcher 30/1.5.** ([cross-faction S hidden ARO](../list-building/aro-units-apex-and-value.md#L53)) **S-tier** in the [ARO comparison](../list-building/aro-units-apex-and-value.md). Mimetism(-6), Hidden Deployment and a potential missile template change enemy movement before it appears; it supplies no normal Order while Hidden and may never reveal into the ideal attack.
 - **Top 3 — Airborne, Infiltrating and Enemy-DZ Attackers (apex): Speculo Killer BSG 26/1.** ([cross-faction S impersonation](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L93)) **S-tier** in the [airborne/DZ threat guide](../list-building/airborne-and-enemy-dz-attackers-apex-value.md). Monofilament, Smoke and early proximity can force deployment concessions or threaten a TAG/LT; prepared screens, SWC and single-Wound fragility prevent an automatic kill. The Combi and Minelayer variants are **different profiles**.
 - **Top 5 — Jack-of-All-Trades / Toolbox Units (value): Caliban.** ([cross-faction S profile value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54))
