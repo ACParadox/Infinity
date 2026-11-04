@@ -12,7 +12,7 @@
 
 | Whole-game shortlist (specific job) | Neoterra unit/profile | Why it stands out / limits |
 |---|---|---|
-| **Top 3 (#1) — Active-Turn Gunfighters (apex)** | [**Swiss Guard HMG, 56/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L66) | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md#L66): BS15, Hidden Deployment, Mimetism(-6), Surprise and two Wounds. Excellent at choosing a decisive first shot; costly/Hackable. |
+| **Top 3 (#1) — Active-Turn Gunfighters (apex)** | [**Swiss Guard HMG, 56/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L34) | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md#L34): BS15, Hidden Deployment, Mimetism(-6), Surprise and two Wounds. Excellent at choosing a decisive first shot; costly/Hackable. |
 | **Top 3 (#2) — ARO Units (apex)** | [**Swiss Guard ML(+1SD), 60/1.5**](../list-building/aro-units-apex-and-value.md#L52) | [S reactive apex](../list-building/aro-units-apex-and-value.md#L52): a Hidden missile changes what the enemy can safely activate. **Separate** from the HMG profile. |
 | **Top 3 (#2) — TAGs (value)** | [**Squalos Mk-II MMR, 55/1**, or **NCO MULTI HMG, 66/1.5**](../list-building/tags.md#L260) | [S TAG value](../list-building/tags.md#L260): BS15 and Tactical Awareness; NCO makes an LT Order useful. Vulnerable to hacks and more visible than an Uhlan. |
 | **Top 10 (#6) — Peripherals, Synchronized & Multi-Body Packages (value)** | [**Peacemaker HSG + Auxbot, 23/0**, or **Minelayer + Auxbot, 24/0.5**](../list-building/peripheral-synchronized-multibody-apex-value.md#L86) | [S+ synchronized value](../list-building/peripheral-synchronized-multibody-apex-value.md#L86): FD(+20), Repeater, template and prepaid mine on eligible variant. Hackable S4/Peripheral limitations apply. |
@@ -22,7 +22,7 @@
 
 **Other noteworthy profiles outside the current Top 10:**
 - **#21 — ARO Units (value)**: [**Bolt Missile Launcher, 24/1.5**](../list-building/aro-units-apex-and-value.md#L123) — [A+ linked ARO](../list-building/aro-units-apex-and-value.md#L123): Marksmanship and legal Neoterra team bonuses for relatively few points; W1 and the cost of building the team limit it.
-- **#18 — Active-Turn Gunfighters (apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L355) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L355): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
+- **#18 — Active-Turn Gunfighters (apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L269) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L269): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
 
 
 ### Particularly strong or unusual Fireteams
