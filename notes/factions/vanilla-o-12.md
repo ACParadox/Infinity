@@ -8,6 +8,18 @@
 
 **Top 3 / Top 5 / Top 10 below are editorial, role-specific cross-faction *shortlist candidates*, not official absolute ranks or measured win rates.** Apex means peak impact in the indicated job; value considers points, SWC and Orders. The relevant cross-faction comparisons are [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield defense](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [networks](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#3) — Non-TAG long-range apex (S/A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L38) | **Gamma HMG50/1.5** | BS14, BS Attack(+1B) for active B5, ARM6/2W+NWI and Warhorse; outstanding repeated HMG FtF volume. **Limit:** No innate Mimetism or MSV; Hackable 50pt centerpiece. |
+| **Top 5 (#5) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L40) | **Omega HMG42/1.5** | BS14 HMG, persistent Mimetism−6 and ARM4/2W: strong repeated FtF math. **Limit:** Hackable, normal HMG ammo and visored opponents diminish the edge. |
+| **Top 3 (#3) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L244) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. |
+| **Top 10 (#7) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L292) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. |
+| **Top 10 (#8) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L293) | **Wrecker HMG57/1.5 + Zetbot** | BS13, ARM6/3STR, Tactical Awareness and ancillary Zetbot for only 57pt/1.5SWC; HMG reaches credible long lanes without a premium TAG price. **Limit:** No native MSV/Mimetism or primary AP ammo, and hacking/E/M screening still needed. Ancillary does not produce an extra pooled Order. |
+
 
 **Source-link precision:** each linked name opens a cross-faction tier/ranking row. Some categories rank the **base unit or package**, not every optional upgrade independently (notably **Oko 15pt** versus **Oko Tactical Awareness 18pt**); do not read the linked tier as a separately proven rank for that exact upgrade.
 
