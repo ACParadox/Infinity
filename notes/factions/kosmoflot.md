@@ -18,7 +18,7 @@
 
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
-| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Ranking #119](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
+| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
 
 
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ in the cheap multi-role category; use the Irregular Order and engineering utility, not merely its suicide attack. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
