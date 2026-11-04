@@ -24,6 +24,7 @@
 | **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Beasthunter Camo + FD(+20) HFT/Panzerfaust 15/0** | **A+/S** in [cross-faction tier](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md): reusable Camo, HFT, Panzerfaust and mine options. **9pt K2 FTO is separate and does not inherit Camo.** | [A+/S Beasthunter](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L75) |
 | **Strong Smoke/CC value — not a Regular Order** | **Varangian SMG + Chain Rifle + Smoke 12/0** | **S/A warband value** in [cross-faction tier](../list-building/warbands-and-cheap-trading-units-apex-value.md), with legal Shona Duo. **White Company version is Irregular**, unlike O-12/Kosmoflot Regular variants. | [S/A WhiteCo Varangian](../list-building/warbands-and-cheap-trading-units-apex-value.md#L143) |
 | **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value: fast Smoke/Chain with synchronized Bâtard Sensor and CC; no independent companion Order or direct DZ entry | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
+| **Top 5 (#5) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Blocker Sensor/Pitcher/Adhesive 15/0** | Cheap active Sensor plus Pitcher network, immobilization, and Specialist Operative; White Company AVA1, exact 15pt option | [#5 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L92) |
 
 ### Particularly strong or unusual Fireteams
 
