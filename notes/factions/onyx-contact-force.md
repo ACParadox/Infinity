@@ -27,11 +27,11 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
+**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+| Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
 | **Top 5 (#5) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L246) | **Overdron AP HRMC62/1.5** | **Albedo, AP HRMC, 3W, TacAware/Firewall**, excellent long-fight anti-MSV/anti-armor for modest TAG price; **Plasma Sniper59/1.5** is an alternate save-profile, not interchangeable. **Limit:** BS13, lesser cover/close range flexibility; less payoff into lists without MSV. |
 | **Top 3 (#1) — TAG ranged value (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L286) | **Overdron AP HRMC62/1.5** | **Albedo, AP HRMC, 3W, TacAware/Firewall**, excellent long-fight anti-MSV/anti-armor for modest TAG price; **Plasma Sniper59/1.5** is an alternate save-profile, not interchangeable. **Limit:** BS13, lesser cover/close range flexibility; less payoff into lists without MSV. |
