@@ -40,6 +40,7 @@ The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-facti
 | **Top 10 — ARO Units (apex)** | [**Raiden HRL 25/1.5**](../list-building/aro-units-apex-and-value.md?plain=1#L71) or **Hidden ML 33/2** | **A+ ARO apex**, Hidden Deployment, Mimetism(-3) and a Minelayer layer; Missile variant costs 2 SWC, and neither is a full-Burst standing ARO. [ARO tiers](../list-building/aro-units-apex-and-value.md). |
 | **Top 10 (#10) — Airborne/DZ attackers (apex)** | **Saito Tōgan T2 BSG + EXP CCW 33/0** | A+ apex: Hidden/Infiltration, Mimetism(-6), MA4, Smoke; must approach through enemy-DZ screens; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L124) |
 | **Top 10 (#6) — Fast-ground/VH enemy-DZ breakthrough** | **Motorized Yojimbo 20/0** | A apex / S value for fast Smoke/CrazyKoala/CC approach; Irregular/Impetuous and no Parachutist(DZ); [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L214) |
+| **Top 3 (#3) — Nanoscreen / Albedo (A+ / A+)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#nanoscreen-albedo-and-asymmetric-protection--their-own-niche) | **Hatamoto Red Fury NCO 40/1** | Mimetism (-3) + Nanoscreen, W2, X-Visor and NCO for resilient medium-range pressure. **Limit:** BS13, Red Fury band; Spitfire41/1.5 separate. |
 
 **Other genuinely dangerous profiles, without a forced global rank:**
 
