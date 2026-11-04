@@ -26,7 +26,7 @@
 - **Top 5 — Warbands and Cheap Trading Units (value):** [**McMurrough 23/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L133) rates S/A for sustained close-pressure ceiling and cost, with two Wounds, Smoke, Chain(+1B) and AP+DA melee. It is not a disposable five-point equivalent. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 10 — Warbands and Cheap Trading Units (value):** [**Cameronian 18/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L134) is A+ in heavy-warband pressure; it offers far more repeated attacks and screening than a single Galwegian. [Warband comparisons](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**SAS Minelayer 22/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L104) rates A+ for area denial. Its Forward Observer is a separate profile; do not combine both loadouts into one model. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
-- **Long-range gunfighter, lower ceiling:** [**Mormaer HMG Tactical Awareness 49/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L70) rates **B+ apex (#31)** and [**B+ value (#60)**](../list-building/active-turn-gunfighters-apex-and-value.md#L178). Its HMG/X-Visor, ARM5 and personal activation support Heavy Caledonians; **BS13, only 1W/BTS0 and no persistent visual MOD** keep it below the best long-lane duelists. This is separate from its T2 Rifle and LT variants.
+- **Top-tier long-range gunfighter (apex #12):** [**Mormaer HMG Tactical Awareness 49/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L47) is **A+ apex** near the Veteran Kazak; [**B+ ranged points value (#61)**](../list-building/active-turn-gunfighters-apex-and-value.md#L167) reflects its 49pt/1.5SWC opportunity cost, not a weak gun. BS13, **BS Attack(−3)**, **AP HMG with SR−2 (effective PS3)**, ARM5, Immunity(ARM), **W1+NWI**, non-hackability and Tactical Awareness create a credible repeat attacker. Its BTS0, no Mimetism/MSV and premium price are limits; the **HMG has no X-Visor** (separate T2 Rifle profile does).
 - **Sectorial-defining force multiplier:** [**Wallace LT 38/0**](../list-building/command-units-apex-and-value.md#L103) can transform a deliberately selected Irregular roster into flexible pooled Regular Orders, but is conditional on preserving the Lieutenant. [Command tiers](../list-building/command-units-apex-and-value.md).
 
 - **Top 5 — ARO Units (value):** [**Cateran T2 Sniper 21/1 or AP Sniper 21/0.5**](../list-building/aro-units-apex-and-value.md#L116) rates **S points value** as a reactive lane tax. It is Irregular and has one Wound, so the positioning/Wallace Order plan matters. [ARO rankings](../list-building/aro-units-apex-and-value.md).
@@ -217,9 +217,10 @@ The **49-point HMG with Tactical Awareness** is one of the defining current Cale
 
 It provides:
 
-- BS13 HMG reach;
-- ARM5 body;
-- X-Visor;
+- BS13 **AP HMG** reach through **BS Attack(AP)**, with **BS Attack(SR−2)** reducing effective saving-roll PS from 5 to **3**;
+- persistent **BS Attack(−3)** in ranged Face-to-Face attacks;
+- **ARM5, Immunity(ARM), 1W+NWI** and non-hackability, with BTS0 still a weakness;
+- **no X-Visor on the HMG option** (the T2 Rifle option has it);
 - a Tactical Awareness Order;
 - Heavy Caledonian Fireteam access.
 
