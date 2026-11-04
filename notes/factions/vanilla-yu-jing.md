@@ -12,17 +12,11 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L37) | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. |
-| **Top 10 (#8) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L43) | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. |
 
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
+| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L37) |
+| **Top 10 (#8) — Non-TAG long-range apex (A+)** | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L43) |
 | **Top 10 (#7) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Yáofáng Lóng Yá Panzerfaust(+1B), 16/0** | Camouflage, FD(+10), B2 AP+EXP ARO and a second Flammenspeer(+1B) response; **17pt Minelayer is different**; no White Banner links in Vanilla | [#7 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L136) |
 | **Top 10 (#10) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Haetae AP HMG, 40/1.5** | BS14 B4 AP, ARM5/2W, Tactical Awareness. Vanilla roster confirms this member; **do not assume White Banner Fireteam** in Vanilla | [#10 apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L81) |
 | **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
