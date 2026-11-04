@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
 
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
+|---|---|---|
+| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | The 32/0 Smoke-bearing Dog-Warrior has 3W, MA3, Berserk, Super-Jump and AP+T2; effective in multiple close fights, but Irregular/Impetuous. |
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ in the cheap multi-role category; use the Irregular Order and engineering utility, not merely its suicide attack. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 5 — Airborne, Infiltrating and Enemy-DZ Attackers (apex):** [**Mirage-5, Margot + Duroc 60/2**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L96), is S/A in cross-game airborne apex/value. Margot's BS14 specialist attack and Duroc's Smoke/close violence pressure separate targets, but 60 points and 2 SWC are a substantial linked purchase. [Airborne tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
 - **Top 10 — Warbands and Cheap Trading Units (value):** [**Varangian Chain Rifle + Smoke 10/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L128) is S in cheap regular Smoke value: a **Regular**, Impetuous, Dogged CC deterrent that both funds the group and opens routes. Its Regular Training is not produced by Wallace. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
@@ -38,7 +44,6 @@ The [battle-report analyses](../battle-reports/n5-battle-reports-and-tournament-
 
 | Source | Reported list or link | Lesson / evidence boundary |
 |---|---|---|
-| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
 | [#045 Countermeasures vs vanilla Ariadna](../battle-reports/041-050-n5-battle-report-tactical-analysis.md#L157) | **Explicit five-body Core** with **2 Patchers + Wolfgang**. **Rokot Paramedic likely fourth**; fifth profile **unverified**. Patcher described as first link leader. | A **Rokot-anchored Core with two Patcher specialists** can blend durability and inexpensive Orders. Current Rokot row **requires at least one native Rokot**; do not invent the fifth member or treat two Patchers alone as that anchor. |
 | [#230 Uplink Center vs vanilla Nomads](../battle-reports/221-230-n5-battle-report-tactical-analysis.md#L208) | **Confirmed Haris 3:** Kosmosoldat MSV1 HMG + **2 Stranniks** (Doctor/other). **Confirmed Core 3:** Scot Guard FTO FO/Paramedic + **2 Volkolaks** (HMG/T2-AP Paramedic). Separate Uxía, SAS Minelayers, Denma, Dozer/Kövlk, Rokots. | **MSV1 assault + medic escort** and **Scot Guard-anchored Volkolak defensive Core** create two small useful teams. The **3–3 draw** hinged on a contested central objective, not a need for a five-body gun deathstar. |
 | [#150 Outbreak vs ISS](../battle-reports/141-150-n5-battle-report-tactical-analysis.md#L284) | List with **2 Volkolaks (one Paramedic), Rokot Lt/decoy, Kosmosoldat PAC, 2 Patchers**, Polaris, Uxía, SAS and Paracommando Paramedic. Commentator **suggests** link possibilities but does not verify starting teams. | **Medical coverage + Polaris/Volkolak protection** supported a **10–1** special-mission result. Do **not** attribute the outcome to conjectured links. |
