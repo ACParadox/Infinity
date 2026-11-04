@@ -38,6 +38,8 @@
 | **Top 10 — Deployment-Zone Defenders (value)** | **Raveneye FO Minelayer, 12/0, E/M Mine or Cybermine** | [Starmada Top 10 DZ defense](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md): the 12pt Vanilla defensive/FO profile is legal. **Do not import Torchlight's distinct 17pt LT(+1 Order) or 18pt CoC + Holomask** (not on Vanilla roster). |
 | **Top 10 — ARO Units (value)** | **Peeler Total Reaction Thunderbolt(+1B), 19/0** | [Starmada Top 10 ARO value](../list-building/aro-units-apex-and-value.md): inexpensive 360° REM reactive coverage, same independent Vanilla loadout. |
 | **Top 10 — Best Cheap Units in Infinity N5.3 (value)** | **Kyttä Flash Pulse / Repeater, 7/0** | [Torchlight Top 10 cheap support](../list-building/best-cheap-units-apex-and-value.md): low-cost Mimetism(-3) Flash Pulse and repeater on the same Vanilla REM, one STR. |
+| **Top 10 (#9) — Fast-ground/VH enemy-DZ breakthrough** | **Firebat MULTI Rifle 35/0** | A apex / S value for NCO aerial route and Mimetism(-6), but No Cover/Hackable; ranked on-table breakthrough, not airborne insertion; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L217) |
+| **Top 10 (#10) — Fast-ground/VH enemy-DZ breakthrough** | **Hippolyta 37/0** | A+ apex / A value for Smoke, Mimetism(-6), Super-Jump and EXP CC; on-table breakthrough rather than enemy-DZ deployment; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L218) |
 
 ### Particularly strong or unusual Fireteams
 
