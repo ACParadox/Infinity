@@ -22,7 +22,7 @@ The standout independent modules are:
 
 The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-faction shortlist *candidates***, **not** official ranks, tournament win-rate statistics, or a claim that a unit is among the ten best units *overall*. The job and price bracket matter: *best support Hacker*, *best fighting Lieutenant*, and *best cheap trade* are different rankings. These assessments are anchored to the repository's [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) comparisons. **Apex** means maximum impact in the right matchup; **value** means capability relative to points/SWC and Orders.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
