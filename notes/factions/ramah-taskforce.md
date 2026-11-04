@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10 are qualitative editorial *role-specific* candidates**, not official overall ranks or measured win rates. *Apex* means maximum conditional impact, *value* means cost efficiency. This roster has **fewer defensible universal S-tier apex claims** than Vanilla/Hassassin; do not inflate every elite. See [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md), [Vehicle](../list-building/vehicles-vh.md), [vision-control](../list-building/vision-control-units-apex-and-value.md) and [hacking](../list-building/hackers-and-killer-hackers.md) comparisons.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
