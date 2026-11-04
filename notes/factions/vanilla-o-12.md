@@ -48,6 +48,7 @@
 | **Top 5 (#5) — Active-turn BS stacking (S / S (16–32in))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) | **Nimrod FTO Thunderbolt (+1B) 28/.5** | BS13 + BS Attack (+3) + MSV2 + Mimetism (-3), B3 Thunderbolt and little SWC; excellent repeated medium/long accuracy. **Limit:** W1; selected FTO weapon, not the 27pt Hidden AP-SMG; cannot assume a free legal Fireteam. |
 | **Top 5 (#5) — Mimetism (-6) apex (A+ / A)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) | **Omega HMG 42/1.5** | BS14, Mim6, W2/ARM4 and full HMG reach. **Limit:** No visor, hackable and positional risk. |
 | **Top 10 (#10) — Mimetism (-6) value (A / A (missions))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#best-mim6-points-value-midfield-and-mobility) | **Lynx Shock Marksman 28/0** | Mim6 + Hidden/Camo and mission network access. **Limit:** W1; specialist versus gun-profile selection. |
+| **Top 5 (#4) Apex — Cheerleaders / Order Generators** | **Varangian Guard SMG + Chain Rifle + Smoke 12/0** | One native pooled Regular Order with PH14 Smoke, ARM2, Dogged and CC23/AP CCW trading. Supports an assault/mission plan; Impetuous/No Cover and W1 are real survival limits. Not the **Irregular White Company** profile. [Pinned roster](../../sectorials/o-12/o-12.md) [Apex #4](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) |
 
 ### Particularly strong or unusual Fireteams
 
