@@ -44,7 +44,7 @@ Several bodies do not imply extra pooled Regular Orders.
 
 ## Short verdict
 
-1. **Best pure Orders for the points:** 6-point **Netrods / Ímetrons** (if legally available and deployed); **6-point Caledonian Volunteers** offer a much more usable *armed*, hideable Regular Order. An immobile Order source does not screen corridors or defend a Lieutenant.
+1. **Cheapest pure Regular Order:** **Traktor Mul 5/0** (eligible Ariadna, Baggage, native Regular; S4/Hackable and nearly unarmed) undercuts **6pt Netrods / Ímetrons** and **6pt Caledonian Volunteers**. The beacons have placement risk and no board utility; the Volunteer is the smallest armed S2 corner guard. Count protected Orders and faction AVA rather than comparing only sticker price.
 2. **Best universally useful cheap bodies:** 7-point Flash Pulse + Repeater REMs, where legal:
    - **Fugazi**
    - **Transductor**
@@ -55,17 +55,17 @@ Several bodies do not imply extra pooled Regular Orders.
    - **Other faction equivalents**
 
    These produce a Regular Order **and** a Repeater, mobile Flash ARO and sometimes Mimetism (-3). They are not interchangeable in AVA or source profiles.
-3. **Best 8-point support filler:** basic Baggage REMs, where legal:
+3. **Cheapest support filler:** **5pt Traktor Mul** (Ariadna), then **8pt basic Baggage REMs** where legal:
    - **Mulebot**
    - **Salyut**
    - **Kameel**
    - **FuzzBot**
    - **Other faction equivalents**
 
-   Each offers a cheap Regular Order plus Repeater/Deactivator and reload support where the profile has them. One is often excellent; additional S4 bases may clog the DZ.
+   Each offers a cheap Regular Order plus faction-specific Deactivator/Repeater tools and reload support where the profile has them. **Traktor Mul 5pt has a Deactivator, Baggage and ECM: Guided (-6), but no automatic Repeater**. One Baggage REM is often excellent; additional S4 bases may clog the DZ.
 4. **Best verified five-Order FT Master engine by sticker price:** **Morat Oznat FTO15 + 4 × Gaki4 = 31pts / 0 SWC / five Regular Orders** when formed as a legal Hungries Core at Order Count. This beats Imperial Service's **4 × Kuang Shi6 + Celestial Guard Monitor13 = 37pts / 0.5 SWC** on raw cost, but relies on an exposed 1W Master and four Irregular/Impetuous bodies; the Kuang Shi package has a different Smoke/Chain Rifle defensive role. Both consume **five Group slots**.
 5. **Best conditional Irregular-to-Regular conversion:** Inspiring Leadership can regularize eligible Irregular troopers armywide; **FT Master** converts only its legal Fireteam members at Order Count. Particularly strong **three-order** packages are **Magistrate + 2 Jackal FTO (29pts)**, **Liang Kai + 2 Shaolin (31pts)** and **Lobo + 2 Diablos (36pts)**. **Pandora + Stingers does not generate extra Regular Orders**: Stingers are already Regular.
-6. **Best cheap Order-plus-tempo alternatives:** 8-point **Motorized Bounty Hunters** where Regular and roster-legal; **9-point RacerBots** where present; modest-cost line Specialists, light templates or Minelayers when they substitute for a pure filler *without costing a valuable extra slot*.
+6. **Best armed/utility cheap Regular bodies:** **7pt Konduktor FTO** (TAK/Vanilla Ariadna; Chain Rifle + Light Shotgun + Shock Mine), **8pt Métro Chain-colt** (FRRM), **9pt Tech-Bee** (eligible PanO), **9pt Mekhamobilya Support Pilot** (Ariadna/Kosmoflot), **9pt Sayiq Shakush Pilot** (Haqq/Hassassin), **9pt independent RacerBot Mk-I/Mk-II** (Vanilla Haqq) and roster-legal **8pt Motorized Bounty Hunter**. **PanO RacerBot Mk-III costs 8pts only inside a Pilot-X Team**, requiring **Pilot-X 21pts/1SWC**: 29pts for two native Regular Orders or 37pts for three; it is **not a standalone 8pt Order**. [Full ranked comparison](best-cheap-units.md#1-cheap-bodies-that-fund-or-multiply-the-rest-of-the-army).
 7. **Not a Regular cheerleader:** **3-point Warcor**, standalone **Irregular** warband, peripheral/Servant, PuppetBot or off-table Combat Jump/Hidden Deployment trooper before it starts its Active Turn deployed on-table. They may be superb *defence or role compression*, but they cannot be counted as an ordinary shared Regular Order.
 
 ## What counts, and what does not?
@@ -127,35 +127,39 @@ Several bodies do not imply extra pooled Regular Orders.
 
 | # | Value | Profiles and package | Decision rule |
 |---|---|---|---|
-| 1 | **S+ — pure minimum** | **6pt Volunteer** | Best points per Regular Order. Take the beacon only with acceptable deployment/zero-combat limitations; Volunteer if useful S2 defence or forward body matters |
-| 2 | **S+ — pure minimum** | **6pt Netrod** | Best points per Regular Order. Take the beacon only with acceptable deployment/zero-combat limitations; Volunteer if useful S2 defence or forward body matters |
-| 2 | **S+ — pure minimum** | **6pt Ímetron** | Best points per Regular Order. Take the beacon only with acceptable deployment/zero-combat limitations; Volunteer if useful S2 defence or forward body matters |
-| 4 | **S — cheap utility floor** | **7pt Flash/Repeater REM** | Usually first two or three filler buys, if present in that roster and if there is protected S3/S4 deployment space |
-| 5 | **S — cheap utility floor** | **8pt basic Baggage REM** | Usually first two or three filler buys, if present in that roster and if there is protected S3/S4 deployment space |
-| 6 | **S — exceptional package** | **Oznat FTO15 + 4 Gakis4 = 31/0 for five** | Compare complete engines including anchor, SWC, Group slots, attack/defence and Master safety; do not double-count Impetuous activations |
-| 7 | **S — native-Regular package** | **Kuang Shi6 × 4 + Monitor13 = 37/0.5 for five** | Five already-Regular troopers in pinned N5.3 Imperial Service; **+0 converted by FT Master**. Compare anchor, SWC, slots and defences; do not double-count Impetuous activations |
-| 8 | **S — exceptional package** | **Inspiring Leadership LT + eligible low-cost Irregulars** (conditional Order conversion) | Compare complete engines including anchor, SWC, Group slots, attack/defence and Master safety; do not double-count Impetuous activations |
-| 9 | **S/A — FT Master three-order modules** | **Magistrate17 + 2 Jackal FTO6 = 29/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
-| 10 | **S/A — FT Master three-order modules** | **Liang Kai21 + 2 Shaolin5 = 31/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
-| 11 | **S/A — FT Master three-order modules** | **Lobo20 + 2 Diablo8 = 36/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
-| 12 | **A — unusually functional cheap Regular** | **8pt Motorized Bounty Hunter** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 13 | **A — unusually functional cheap Regular** | **9pt RacerBot** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 14 | **A — unusually functional cheap Regular** | **9pt Moderator** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 15 | **A — unusually functional cheap Regular** | **Fennec 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 16 | **A — unusually functional cheap Regular** | **Fusilier 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 17 | **A — unusually functional cheap Regular** | **Alguacil 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 18 | **A — unusually functional cheap Regular** | **11pt Ghulam** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 19 | **A — unusually functional cheap Regular** | **11pt Ikadron** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
-| 20 | **A-/B — role compression** | **11pt Puppet Master** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 21 | **A-/B — role compression** | **12pt Barid FO/Pitcher** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 22 | **A-/B — role compression** | **13pt Securitate Repeater** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 23 | **A-/B — role compression** | **13pt Dikpala Repeater/Akrylat** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 24 | **A-/B — role compression** | **13pt Fennec Sensor/FO** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 25 | **A-/B — role compression** | **Ghulam FO/Doctor** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
-| 26 | **B/C — expensive for doing nothing** | Ordinary 14–20pt line infantry, over-upgraded Fireteam fillers, non-activated 20+pt troopers | Pay that premium for **proven** Specialist, ARO, link, anti-armor or mission function—not to generate one idle Order |
-| 27 | **Not comparable** | Warcor, Irregular warbands, off-table undeployed AD, PuppetBots, Servants, TacAware bonus and LT Orders | Different restrictions and contribution; rank in distinct engine/tempo/support categories |
+| 1 | **S+ — absolute Regular floor** | **5pt Traktor Mul (Baggage)** | Lowest price for native Regular Order in eligible Ariadna rosters; S4/Hackable, Deactivator and ECM: Guided (-6). Better sticker cost than beacon, but much larger footprint and very weak fighting |
+| 2 | **S+ — armed S2 floor** | **6pt Caledonian Volunteer** | Cheap native Regular with Chain Rifle/Light Shotgun utility, but **not** the cheapest Regular Order across factions |
+| 3 | **S+ — beacon floor** | **6pt Netrod** | Cheap stationary Regular Order, but more expensive than Traktor Mul; obligatory deployment/placement and no fighting |
+| 3 | **S+ — beacon floor** | **6pt Ímetron** | Functional equivalent to Netrod, rank tied; more expensive than Traktor Mul and no fighting |
+| 5 | **S — cheap utility floor** | **7pt Flash/Repeater REM** | Usually first two or three filler buys, if present in that roster and if there is protected S3/S4 deployment space |
+| 6 | **S — cheap utility floor** | **8pt basic Baggage REM** | Usually first two or three filler buys, if present in that roster and if there is protected S3/S4 deployment space |
+| 7 | **S — exceptional package** | **Oznat FTO15 + 4 Gakis4 = 31/0 for five** | Compare complete engines including anchor, SWC, Group slots, attack/defence and Master safety; do not double-count Impetuous activations |
+| 8 | **S — native-Regular package** | **Kuang Shi6 × 4 + Monitor13 = 37/0.5 for five** | Five already-Regular troopers in pinned N5.3 Imperial Service; **+0 converted by FT Master**. Compare anchor, SWC, slots and defences; do not double-count Impetuous activations |
+| 9 | **S — exceptional package** | **Inspiring Leadership LT + eligible low-cost Irregulars** (conditional Order conversion) | Compare complete engines including anchor, SWC, Group slots, attack/defence and Master safety; do not double-count Impetuous activations |
+| 10 | **S/A — FT Master three-order modules** | **Magistrate17 + 2 Jackal FTO6 = 29/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
+| 11 | **S/A — FT Master three-order modules** | **Liang Kai21 + 2 Shaolin5 = 31/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
+| 12 | **S/A — FT Master three-order modules** | **Lobo20 + 2 Diablo8 = 36/0** | Conditional +2 transferable Orders versus the same bodies' unconverted characteristics; also usable smoke/CC, threats or specialist utility |
+| 13 | **A — unusually functional cheap Regular** | **8pt Motorized Bounty Hunter** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 14 | **A — unusually functional cheap Regular** | **9pt RacerBot** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 15 | **A — unusually functional cheap Regular** | **9pt Moderator** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 16 | **A — unusually functional cheap Regular** | **Fennec 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 17 | **A — unusually functional cheap Regular** | **Fusilier 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 18 | **A — unusually functional cheap Regular** | **Alguacil 10pt** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 19 | **A — unusually functional cheap Regular** | **11pt Ghulam** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 20 | **A — unusually functional cheap Regular** | **11pt Ikadron** | Choose when extra mobility, non-hackable troop, Fireteam membership, smoke/guard duty, special missions or reusable Baggage is worth the premium |
+| 21 | **A-/B — role compression** | **11pt Puppet Master** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 22 | **A-/B — role compression** | **12pt Barid FO/Pitcher** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 23 | **A-/B — role compression** | **13pt Securitate Repeater** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 24 | **A-/B — role compression** | **13pt Dikpala Repeater/Akrylat** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 25 | **A-/B — role compression** | **13pt Fennec Sensor/FO** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 26 | **A-/B — role compression** | **Ghulam FO/Doctor** | These beat pure filler only if the second job or Command effect is *actually in your plan*. Puppet Master is often apex utility at a tiny extra price |
+| 27 | **B/C — expensive for doing nothing** | Ordinary 14–20pt line infantry, over-upgraded Fireteam fillers, non-activated 20+pt troopers | Pay that premium for **proven** Specialist, ARO, link, anti-armor or mission function—not to generate one idle Order |
+| 28 | **Not comparable** | Warcor, Irregular warbands, off-table undeployed AD, PuppetBots, Servants, TacAware bonus and LT Orders | Different restrictions and contribution; rank in distinct engine/tempo/support categories |
 
 **Mechanical floor check:** 6pt = 0.167 Regular Orders/pt; 7pt = 0.143; 8pt = 0.125; 10pt = 0.100; 13pt = 0.077. That arithmetic **excludes** weapons, survivability, safe DZ space, threat, delivery and later-turn Order loss. One **6pt** model is not mathematically *twice as useful* as a **12pt** specialist.
+
+
+**Further native-Regular Order candidates (cross-role comparisons):** **7pt Konduktor FTO** (TAK/Vanilla Ariadna; FTO does not grant a vanilla team); **8pt Métro Chain-colt** (FRRM); **9pt Tech-Bee** (eligible PanO); **9pt Mekhamobilya Support Pilot** (Kosmoflot/Vanilla Ariadna); **9pt Sayiq Shakush Pilot** (Haqq/Hassassin); **9pt Haqq RacerBot Mk-I/Mk-II**; **8pt PanO RacerBot Mk-III only with Pilot-X 21/1**. These are valuable because each adds an actual Regular Order **and** a specific template, control, scoring, or TAG-support job. Profile-by-profile rank and cost/AVA caveats: [Best Cheap Units](best-cheap-units.md#1-cheap-bodies-that-fund-or-multiply-the-rest-of-the-army).
 
 ## FT Master — complete package cost and Order audit (2 Nov 2026)
 
@@ -262,7 +266,7 @@ Several bodies do not imply extra pooled Regular Orders.
   - **FuzzBot** — 8pt where legal.
   - **Kappa** — 12pt small-base generalist.
   - **Waverider** — Tactical Awareness on a linked/fast variant can be worth more than a parked extra Order.
-- **Ariadna / Caledonia / TAK / Kosmoflot / USAriadna / FRRM:** no automatic PanO-style Flashbot/Baggage engine. **6pt Caledonian Volunteer** is an exceptional floor in its roster; other factions use their cheapest S2 line troops and Irregular warbands to guard/harass. Wallace Inspiring Leadership is a conditional force-multiplying engine. Do not equate a Warcor to a Regular order.
+- **Ariadna / Caledonia / TAK / Kosmoflot / USAriadna / FRRM:** **5pt Traktor Mul (Baggage) is the lowest-cost native Regular Order where roster-legal** (not PanO-style Flash/Repeater support). **7pt TAK/Vanilla Konduktor FTO** and **8pt FRRM Métro Chain-colt** are cheap armed S2 alternatives. The **6pt Caledonian Volunteer** remains another exceptional armed floor. Wallace Inspiring Leadership conditionally regularizes Irregular warbands where he is actually Lieutenant. Do not count a Warcor as Regular without conversion.
 - **JSA / Oban / Shindenbutai:** evaluate Keisotsu / cheap required Team bases, FO and chain-rifle defence against scarce cheap Regular slots; cheap Smoke/Warbands may be Irregular, so split passive economy from independent activation tempo.
 - **Tohaa:** assess Kamael and cheap supporting Triad/utility pieces as **Fireteam and battlefield enablers**, not just their base Regular cost; SymbioMates and peripherals do not produce extra pool Orders.
 - **NA2 and other Non-Aligned:** roster-legal line infantry, Flashbot, Bounty Hunter and tech support vary dramatically; use each individual roster rather than assuming all mercenary profiles are allowed.
