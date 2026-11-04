@@ -8,6 +8,14 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#10) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L45) | **Caledonian Mormaer HMG Tactical Awareness49/1.5** | **BS13, BS Attack(−3)** and **BS Attack(AP) + BS Attack(SR−2)** turn its active B4 HMG into AP with effective **PS3** for saves; ARM5, Immunity(ARM), W1+NWI, non-hackable body and own Tactical Awareness Order. **Limit:** Functionally two-stage Wound resilience, **not literal 2W**; BTS0, NWI-state risks, no Mimetism/MSV and 49pt/1.5SWC. **BS Attack(−3) does not affect Warhorse defenders.** HMG profile should **not** inherit the T2 Rifle option's X-Visor. |
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
