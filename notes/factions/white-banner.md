@@ -12,16 +12,10 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L37) | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. |
 
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
+| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L37) |
 | **Top 10 (#7) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Yáofáng Lóng Yá Panzerfaust(+1B), 16/0** | Camo, FD(+10), B2 Disposable AP+EXP and reserve Flammenspeer(+1B); independent REM, not a Fireteam troop | [#7 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L136) |
 | **Top 10 (#10) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Haetae AP HMG, 40/1.5** | BS14 B4 AP, ARM5/2W and Tactical Awareness; White Banner mixed-link potential changes support, but AP HMG and Guided HRL are separate options | [#10 apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L81) |
 | **Top 10 (#7) — Budget CC Value (value; ≤22 pts)** | **Shaolin Monk DA CCW 6/0** | CC23/MA3, DA(PS5), Smoke; Outstanding literal cheap close combat; W1, Irregular+Impetuous and No Cover. | [#7 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L183) |
