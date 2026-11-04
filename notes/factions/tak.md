@@ -14,6 +14,13 @@
 |---|---|---|
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | 32/0 Smoke-bearing Dog-Warrior: 3W, CC23/MA3, Berserk, Super-Jump and AP+T2; a resilient attack/defense option, despite Irregular/Impetuous. |
 
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke, Chain and Synchronized Sensor/CC; Bâtard is not an independent Order and there is no DZ insertion skill; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
+
+
 - **Top 5 (#4) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**TankHunter AP HMG, 33/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L75) — Camo/Mimetism(-3) and B4 AP; its **#35 value** placement no longer qualifies for the Top 10. TAK's Portable Autocannon 36/1.5 is **plain**, not Vanilla's +1B.
 - **Top 10 (#8) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Veteran Kazak AP HMG, 45/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L79) — two-stage NWI durability and a high-quality repeatable AP gun; LT option has different SWC.
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ value: it can trade, screen, repair or score technical objectives. Its personal Irregular Order cannot simply be spent on a premium gun. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
