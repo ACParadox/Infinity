@@ -12,6 +12,15 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L37) | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. |
+| **Top 10 (#8) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L43) | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. |
+
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
 | **Top 3 — ARO Units (apex)** | **Yān Huǒ Neurocinetics(+1B) ML 42/1.5** | **S-tier ARO**: BS14, ARM5, two Wounds and strong reactive Missile output. The **non-FTO Neuro** profile is not the separately linkable **FTO ML(+1B)** variant. S5 and no native visor/Mimetism constrain placement. | [S — reactive ARO](../list-building/aro-units-apex-and-value.md#L54) |
