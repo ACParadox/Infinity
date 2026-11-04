@@ -26,9 +26,9 @@
 | **Top 10 (#10) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (apex)** | **Black Friar MSV2/Albedo(-6) Thunderbolt(+1B) 24/0** | 0-SWC shooter fights Mimetism and opposing MSV/Marksmanship; Biometric/Discover(+3) belongs to a distinct 27pt MULTI Rifle profile [#10 apex](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L43) |
 | **Top 5 (#5) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Blocker Sensor/Pitcher/Adhesive 15/0** | Very economical combined Sensor, Pitcher, immobilizer and Specialist Operative, with legal NCA support; Biometric alone is not why it ranks [#5 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L92) |
 
-**Other noteworthy profiles outside the current Top 10:**
+**Other noteworthy profiles (including TAG apex):**
 - **#21 — ARO Units (value)**: [**Bolt Missile Launcher, 24/1.5**](../list-building/aro-units-apex-and-value.md#L123) — [A+ linked ARO](../list-building/aro-units-apex-and-value.md#L123): Marksmanship and legal Neoterra team bonuses for relatively few points; W1 and the cost of building the team limit it.
-- **#18 — Active-Turn Gunfighters (apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L293) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L293): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
+- **#8 — Active-Turn Gunfighters (TAG apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L293) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L293): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
 
 
 ### Particularly strong or unusual Fireteams
