@@ -37,6 +37,7 @@
 | **Top 10 — Jack-of-All-Trades / Toolbox Units (apex+value)** | **Kulak KHD + Carbonite / Disco Baller, 20/0** | [Tunguska Top 10 cyber-toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md): inexpensive hacker/vision mix; treat printed cyber upgrades as profile-specific, not a full HD. |
 | **Top 10 — ARO Units (apex+value)** | **Triggerman Neurocinetics MULTI Sniper, 47/1.5** | [Tunguska Top 10 ARO](../list-building/aro-units-apex-and-value.md): independent hard sniper on Vanilla roster, without Tunguska Fireteam bonuses. |
 | **Top 10 (#9) — Airborne/DZ attackers (value)** | **Hellcat BSG + Adhesive 19/0 (Paramedic 23/0 alternative)** | S value: Combat Jump or ordinary Parachutist, zero-SWC backline trade and mission options; **Hellcat does not carry a Deployable Repeater**; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L160) |
+| **Top 10 (#8) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Chimera + 3 Pupniks with Eclipse 19/0** | An inexpensive multi-body close assault with Eclipse to bypass MSV corridors; Irregular/Impetuous and multi-body movement demand careful approach Orders [#8 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L95) |
 
 ### Particularly strong or unusual Fireteams
 
