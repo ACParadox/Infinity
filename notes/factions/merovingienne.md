@@ -16,12 +16,19 @@
   - [**Para-Commando FO 21/0:**](../list-building/indirect-fire-speculative-guided-apex-value.md#L17) lateral WIP14 (+1 Special Die) scoring and potential Guided setup. **The linked source ranks its FO + Guided architecture, not the trooper by itself.**
 
 - **Top 3 — Indirect Fire (value):** [**Kuryer Katyusha 15/1**](../list-building/indirect-fire-speculative-guided-apex-value.md#L67) is **S+ conditional indirect-fire value** and **S Speculative Fire**: Warhorse, mines and Baggage give it work before or without Targeted. Its Fireteam option is **ETB-only**, not a general Wildcard slot. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-- **Top 5 — Airborne, Infiltrating and Enemy-DZ Attackers (value):** [**Mirage-5, Margot + Duroc 60/2**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L96) is **S/A airborne apex/value** in the cross-game comparison, and FRRM's pinned roster carries the full package too. Spend it when rear-entry scoring and two complementary attacks justify the 60-point/2-SWC investment. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
 - **Top 10 — Warbands and Cheap Trading Units (value):** [**Carmen & Bâtard 17/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L131) is **A+ cheap-warband / S conditional Speculative** value: smoke movement, synchronized Sensor and Bâtard's grenades present different problems at once. It is one purchase with a Peripheral, not two independent Regular Orders. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md) · [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
 - **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** support value and can reload appropriate expended weapons in the proper range; the **Guided 9/1** is distinct. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
 - **Useful narrow-cost standouts, not unconditional top picks:**
   - [**Métro Grenade Launcher 10/0.5:**](../list-building/indirect-fire-speculative-guided-apex-value.md#L50) **A** inexpensive opportunistic Speculative shots, but ordinary BS/range and opponent spacing limit its ceiling. The infiltrating **14/0.5** option is a different profile. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
   - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L86) **S cheap medical value**; **Motorized Doctor 19/0** has a different speed/Smoke job and can escort an ETB when roster-legal. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+
+
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Ranking #119](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
+| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke/Chain/Sensor pressure; Bâtard is Synchronized, **not** a free extra Order or DZ entry; [Ranking #215](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
 
 ### Particularly useful Fireteams
 
