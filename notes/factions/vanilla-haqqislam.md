@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
