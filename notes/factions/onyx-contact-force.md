@@ -27,7 +27,12 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
 
-- **Top 10 (#8) — Frontline CC combatants (apex): Nourkias 48/1.** [#8 frontline close-combat ranking](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L155): CC25/MA4, Vorpal/E/M, Protheion, Super-Jump, NWI and NCO. A high-ceiling close-quarters controller with hacking, but vulnerable to long exposed approach and counter-hacking.
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
+|---|---|---|
+| **Top 10 (#8) — Frontline CC Combatants (apex)** | [**Nourkias 48/1**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L155) | CC25/MA4, Vorpal/E/M, Protheion, Super-Jump, NWI, NCO, Hacker; Very high sustained CC/toolbox ceiling; expensive, short range and vulnerable to cyber counterplay. |
+
 - **Top 5 — Active-Turn Gunfighters (value): Overdron HRMC 62/1.5.** ([cross-faction S/A+ gun/value](../list-building/active-turn-gunfighters-apex-and-value.md#L249)) **S for value** in the [TAG tiers](../list-building/tags.md) and **S/A+ ranged shooting** in the [gunfighter comparison](../list-building/active-turn-gunfighters-apex-and-value.md): AP HRMC, Albedo, Tactical Awareness and recovery on a comparatively affordable TAG. The **HRL(+1B) 51/1.5** and **Plasma Sniper(+1B) 59/1.5** are distinct choices, not free extra guns.
 - **Top 5 — TAGs (value): Xeodron, roughly 49–50 points.** ([cross-faction C apex / S value](../list-building/tags.md#L110)) **S value but C raw TAG apex** in the [TAG guide](../list-building/tags.md); K1/MULTI, Super-Jump and Tactical Awareness make it a strong mobile midrange problem, especially in a legal Duo/Haris. It is not an automatic long-range ARO remover.
 - **Top 3 — ARO Units (apex): Noctifer ML 30/1.5.** ([cross-faction S hidden ARO](../list-building/aro-units-apex-and-value.md#L53)) **S-tier** in [reactive-unit rankings](../list-building/aro-units-apex-and-value.md) for Mimetism(-6), Hidden Deployment and the threat of a punishing template. It does not contribute its normal Order while Hidden and can fail to find a favorable reveal.
