@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are qualitative, **role-specific shortlist candidates** inferred from the cross-faction tiers, not official global places.
 
+#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
+
+| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
+|---|---|---|---|
+| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/usariadna.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Desperado Chain Rifle + Smoke GL 7/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L120) is S+ cost value, with a 20-10 motorcycle and cheap lateral line-of-fire denial. It is Irregular/Impetuous, not a transferable Regular Order. [Warband value](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 5 — Objective Holding / Zone Domination / Carried Objectives (value):** [**Minuteman FO/NCO T2 Rifle 25/0**](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L179) is S+ value in carried-objective defense: specialist, T2/LFT, BS Attack (+1SD), NCO and protection from some electronic threats. Still only one Wound. [Objective-holder tiers](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
 - **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Foxtrot Boarding Shotgun Minelayer 18/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L98) is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
