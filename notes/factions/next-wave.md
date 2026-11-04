@@ -26,7 +26,7 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 | Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
 |---|---|---|
-| **Top 3 (#1) — Frontline CC Combatants (apex)** | [**Achilles 62/1.5 or 63/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L148) | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons; Highest sustained direct-combat ceiling; huge Hackable investment and vulnerable to control networks. |
+| **Top 3 (#1) — Frontline CC Combatants (apex)** | [**Achilles 62/1.5 or 63/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L148) | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons; Highest sustained direct-combat ceiling; [**A+ Medium-range gunfighter apex (#9)**](../list-building/active-turn-gunfighters-apex-and-value.md#L80) with the **AP Spitfire 62/1.5**, but only [**B+ ranged-only value (#36)**](../list-building/active-turn-gunfighters-apex-and-value.md#L213) owing to 62pt, No Cover, hacking and 1.5SWC. His overall CC/Key Ops ceiling is a different role; huge Hackable investment and vulnerable to control networks. |
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
 
 #### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
