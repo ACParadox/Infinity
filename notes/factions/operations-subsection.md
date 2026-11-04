@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10 mean editorial candidates *for the named role*, not official overall rankings or measured tournament results.** **Apex** means maximum effect in the right matchup; **value** includes entire package cost, SWC and real Order economy. The [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [VH](../list-building/vehicles-vh.md), [hackers](../list-building/hackers-and-killer-hackers.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) guides supply the cross-faction comparisons.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
