@@ -8,6 +8,15 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
 
+#### BS Mod-Stacking — verified cross-faction Top 10
+
+These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
+
+| Cross-faction role and rank | Legal faction profile | Why it matters and its limit |
+|---|---|---|
+| **Top 10 (#10) — Reactive BS stacking (A / A (sniper))** | **Knauf MULTI Sniper 31/1.5** | MSV1 + Mimetism (-3), Surprise Attack and Decoy on a BS13 sniper. **Limit:** W1/ARM1; Surprise is an eligible active marker opening, not free every shot. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
+
+
 - **Top 3 — Objective Holding / Zone Domination / Carried Objectives (value):** [**Moblot Paramedic 29/0 / Engineer 31/0**](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L180) are S+ objective-holding value: Mimetism(-3), Tactical Awareness, relevant immunities and mission utility. They still have just **one Wound**. [Objective-holder rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
 - **Top 5 — ARO Units (value):** [**Vystrel Neurocinetics AP Sniper 26/0.5**](../list-building/aro-units-apex-and-value.md#L115) ranks S points value; [**Portable Autocannon 32/1.5**](../list-building/aro-units-apex-and-value.md#L128) increases the anti-heavy threat at additional SWC. Both depend on deployment and recoverability. [ARO rankings](../list-building/aro-units-apex-and-value.md).
 - **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Chasseur Shock Minelayer 20/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L102) is A+: Camo, Infiltration, Sixth Sense and Light Flamethrower make close approaches expensive. **Chasseur FO 20/0** is a separate scoring profile. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
