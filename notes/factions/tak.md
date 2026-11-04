@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
+|---|---|---|
+| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | 32/0 Smoke-bearing Dog-Warrior: 3W, CC23/MA3, Berserk, Super-Jump and AP+T2; a resilient attack/defense option, despite Irregular/Impetuous. |
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ value: it can trade, screen, repair or score technical objectives. Its personal Irregular Order cannot simply be spent on a premium gun. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 5 — Active-Turn Gunfighters (value):** [**Kazak Spetsnaz Camo HMG 36/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L88) ranks S in cross-game gunfighter value, using Marksmanship, Mimetism and Surprise. It is still a one-Wound attacker. [Gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md).
 - **Top 5 — ARO Units (value):** [**Vystrel Neurocinetics AP Sniper 26/0.5**](../list-building/aro-units-apex-and-value.md#L115) is S for ARO points value, with Sapper and 2 STR; the [**Portable Autocannon 32/1.5**](../list-building/aro-units-apex-and-value.md#L128) is A+ for a heavier reactive punch. [ARO rankings](../list-building/aro-units-apex-and-value.md).
@@ -41,7 +47,6 @@ The [report reconstructions](../battle-reports/n5-battle-reports-and-tournament-
 
 | Source | Played links and other elements | Application |
 |---|---|---|
-| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
 | [#087 Acquisition vs WinterFor](../battle-reports/081-090-n5-battle-report-tactical-analysis.md#L176) | **Five-member Line Kazak Core:** 4 Line Kazaks (including Lt) + Frontovik AP Sniper; **three-member Veterans Haris:** Veteran Kazak HMG + Vet FO + Frontovik Engineer. Independent Strelok, Vystrel, Carmen and Spetsnaz. | Cheap ranged/Order **Core + mobile scoring/recovery Haris**. Engineer servant is not a fourth linked model. |
 | [#058 Frontline vs JSA](../battle-reports/051-060-n5-battle-report-tactical-analysis.md#L247) | **Five-member Veterans Core:** Veteran Kazak FO + Frontovik sniper + **2 Frontovik Engineers** + Frontovik HRL; separate **three Line Kazaks Haris**, Camo and airborne Spetsnaz. | Specialists in the gun team **won Frontline/Classified tasks**. The **9–1** was a learning game against an under-specialized JSA roster, not a matchup tier. |
 | [#035 Frostbyte](../battle-reports/031-040-n5-battle-report-tactical-analysis.md#L194) and [#127 tutorial](../battle-reports/121-130-n5-battle-report-tactical-analysis.md#L204) | **Voronin/Line/Frontovik Core** variants: #035 likely five with inferred Lt; #127 named **Voronin + 3 Line Kazaks + Frontovik Sniper**, five physical members. #035 also reconstructs **Veteran HMG + Vet FO + Frontovik Engineer Haris**. | Voronin can legally join the Line Kazak family, but #035's fifth identity remains inferred and #127 is a coached deployment, not tournament validation. |
