@@ -8,6 +8,14 @@
 
 **Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#9) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L44) | **Kosmosoldat AP HMG44/1.5** | BS13, MSV1, BS Attack(−3), **AP HMG PS4**, ARM6 and NWI offer strong repeatable active FtF plus armor conversion. **Limit:** Hackable, slow 10-10 and 1W+NWI (not 2W); choose clear long-lane approach. |
+
 #### BS Mod-Stacking — verified cross-faction Top 10
 
 These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
