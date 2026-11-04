@@ -17,7 +17,8 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
 | **Top 10 (#7) — Non-TAG medium-range apex (A+ (matchup))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L73) | **Zeybek AP Spitfire33/1.5** | BS13 **AP Spitfire and Albedo** with 20–5 aerial movement threaten MSV/Marksmanship-dependent defensive lanes; W3, Smoke GL and an included post-shell Operator make its angle/armor matchup unusually persistent. **Limit:** No native Mimetism versus ordinary shooters, S7 No Cover, Hackable and **1.5SWC**. Operator and Smoke are conditional abilities, not bonus BS/Burst; VH apex S is for the full package. |
-| **Top 10 (#9) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L294) | **Shakush HMG (Continuous Damage)58/1.5** | 58pt/1.5SWC HMG with Continuous Damage, Tactical Awareness and Heavy Flamethrower offers an inexpensive repeated **long-range** TAG attack. **Limit:** Hackable/visibility counterplay; unlike the separate 56pt AP-Spitfire profile, this gun has ordinary HMG range, not AP primary ammo. |
+
+**Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
 
 | Whole-game role shortlist | Profile | Why; limitation | Cross-faction tier / ranking source |
 |---|---|---|---|
