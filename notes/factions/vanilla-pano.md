@@ -42,8 +42,8 @@
 | **Top 3 (#1) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Fennec FO/Sensor/Disco 13/0** | Regular specialist and active Sensor with cheap projected Eclipse; Vanilla PanO has no Kestrel Fennec Fireteam bonuses [#1 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L88) |
 | **Top 5 (#5) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Blocker Sensor/Pitcher/Adhesive 15/0** | Sensor/Repeater projection via Pitcher plus adhesive/control and Specialist Operative; no Neoterra Fireteam in Vanilla [#5 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L92) |
 
-**Other notable PanO profiles outside their listed cross-faction Top 10:**
-- **#15 — Active-Turn Gunfighters (apex)**: **Hetkari MULTI Red Fury, 48/1.5** — [Kestrel cross-faction shooting](../list-building/active-turn-gunfighters-apex-and-value.md): BS14, 2W, ARM5, Marksmanship; no Kestrel Fireteam bonuses in Vanilla.
+**Other notable PanO profiles and additional cross-faction rankings:**
+- **#7 — Active-Turn Gunfighters (medium-range apex)**: **Hetkari MULTI Red Fury, 48/1.5** — [Kestrel cross-faction shooting](../list-building/active-turn-gunfighters-apex-and-value.md#L78): BS14, 2W, ARM5, Marksmanship; no Kestrel Fireteam bonuses in Vanilla.
 - **#21 — ARO Units (value)**: **Bolt Missile Launcher, 24/1.5** — [Neoterra cross-faction ARO value](../list-building/aro-units-apex-and-value.md): Warhorse/Marksmanship and a low-cost missile; no Neoterra Fireteam bonuses.
 - **#28 — ARO Units (value)**: **Karhu Feuerbach(+1B), 34/1.5** — [Svalarheima cross-faction ARO value](../list-building/aro-units-apex-and-value.md): MSV1, Mimetism(-3), NCO; independent in Vanilla.
 - **#15 — ARO Units (apex+value)**: **Nisse MSV2 MULTI Sniper, 29/1.5** — [Svalarheima cross-faction reactive shortlist](../list-building/aro-units-apex-and-value.md): BS13, MSV2 and Mimetism(-3), but no link bonuses.
