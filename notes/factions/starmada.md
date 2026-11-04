@@ -8,17 +8,11 @@
 
 **Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official world rankings, observed pick rates or universal autopicks.** Apex measures ceiling at the named job; value compares points/SWC and real Order support. Grounded in cross-faction [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [ARO](../list-building/aro-units-apex-and-value.md) and [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 3 (#3) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L244) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. The Starmada Zeta HRMC includes a Zetbot and NCO; use its own 73pt/2SWC profile. |
-| **Top 10 (#7) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L292) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. |
 
 | Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
 |---|---|---|
+| **Top 3 (#3) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L244) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. The Starmada Zeta HRMC includes a Zetbot and NCO; use its own 73pt/2SWC profile. |
+| **Top 10 (#7) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L292) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. |
 | **Top 10 (#9) — Dedicated CC Assassins (apex)** | [**Nightshades SMG 31/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L132) | CC22/MA3, Hidden, FD(+20), Mimetism(-6), E/M(PS6) and PARA(-6); Excellent concealed disabling ambush against hackable heavies; E/M/PARA is not automatic lethality. |
 | **Top 3 (#3) — Frontline CC Combatants (apex)** | [**Hector Plasma 61/0 or LT 65/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L150) | CC24/MA4, EXP, ARM5, 2W+NWI, Plasma, Strategos as LT; Elite repeated fighting plus command and shooting; not efficient if activated for one victim. |
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
