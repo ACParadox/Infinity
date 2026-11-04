@@ -455,7 +455,7 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 - **Combined/Shas/Onyx/Next Wave/Morat:**
   - **Overdron62** is anti-MSV/armor long gun
   - **Avatar122** maximum ceiling expensive purchase
-  - **Sheskiin48/50** mobile *short-assault* attacker (see companion; only Red Fury is a B-tier ranged candidate)
+  - **Sheskiin50/1 Red Fury** is an **A+ medium-range apex (#9) / A medium-value (#18)** shooter on its own merits; the **48/0 MULTI Rifle** and Protheion/CC kill chains remain separate *short-assault* jobs.
   - **Skyhound33** aerial angle
   - **Stinger30** backup HMG
   - **Suryat43** gun+personal activation vs **Sogarat52–58** heavy armor and AP/Feuerbach.
