@@ -14,7 +14,8 @@
 
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
-| **Top 10 (#8) — Budget CC Value (≤22pt)** | **Makaul HFT + Eclipse + Viral CCW 14/0** | An effective cheap CC threat and Regular Triad vision escort; MA2 is less strong in face-to-face than MA3–MA5. | [#8 budget CC](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L184) |
+| **Top 10 (#8) — Budget CC Value (value; ≤22 pts)** | **Makaul HFT/Eclipse/Viral 14/0** | CC23/MA2, Viral/DA, Eclipse, HFT, Triad; Approach plus melee support for a team; weaker contested CC dice than MA3/MA4. | [#8 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L184) |
+| **Top 10 (#7) — Frontline CC Combatants (apex)** | **Ioann Bann 32/0** | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. | [#7 F](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) |
 | **Top 3 — Deployment-Zone Defenders (value)** | **Kaauri E/M Minelayer 11/0** | **S+/S** in cross-faction guard guides: Regular, Biometric, Sixth Sense, MSV1, Nanopulser and starting E/M mine; not an open-lane shooter. | [S+ DZ defence](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md#L117) |
 | **Top 3 — Rare Abilities & Unusual Combinations (value)** | **Makaul HFT + Eclipse 14/0** | **S+/S** rare-capability/vision value: Regular Triad member, HFT, Viral/DA CC and MSV-proof approach; still exposed at close range. | [S+ Makaul](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L120) |
 | **Top 5 — Vision Control (apex+value)** | **Kriigel Mirrorball + Eraser 21/0.5** | **S** vision-control/toolbox value, repeated ZoC denial; must survive and have a partner to exploit it. | [S Kriigel](../list-building/vision-control-units-apex-and-value.md#L131) |
