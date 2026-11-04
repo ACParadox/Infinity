@@ -12,7 +12,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
