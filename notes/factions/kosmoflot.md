@@ -8,6 +8,16 @@
 
 **Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
 
+#### BS Mod-Stacking — verified cross-faction Top 10
+
+These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
+
+| Cross-faction role and rank | Legal faction profile | Why it matters and its limit |
+|---|---|---|
+| **Top 10 (#8) — Reactive BS stacking (A / A (ARO))** | **Frontovik MSV1 AP Sniper 28/.5** | Mimetism (-3) + **AP Sniper-profile MSV1** + Warhorse, possible legal TAK Fireteam. **Limit:** W1; long sniper but not MSV2 or Neuro. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
+| **Top 5 (#5) — BS Attack (-3) (A+ / A (anti-heavy))** | **Kosmosoldat AP HMG 44/1.5** | BS13 + BS Attack (-3) + MSV1, Warhorse, ARM6/W1+NWI on a credible AP HMG. **Limit:** Hackable premium HI; only opposed FtF is suppressed; also has distinct Portable Autocannon profile. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#bs-attack--3--opponent-ftf-suppression-rather-than-passive-mimetism) |
+
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
