@@ -12,6 +12,7 @@
 
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
+| **Top 10 (#6) — Dedicated CC Assassins (apex)** | **Saito Tōgan 33/0** | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun; Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. | [#6 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L129) |
 | **Top 5 — Airborne, Infiltrating and Enemy-DZ Attackers (value)** | **Yuan Yuan Chain Rifle + Smoke 6/0** | **S-value** cheap airborne disruption; Irregular, Impetuous, and risky Combat Jump (edge deployment often safer). | [S+ airborne niche](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L123) |
 | **Top 10 — Warbands and Cheap Trading Units (value)** | **Libertos SMG + Chain-colt 8/0** | Extremely cheap forward one-use Camo/template problem; no pooled Regular Order. | [S cheap trade](../list-building/warbands-and-cheap-trading-units-apex-value.md#L138) |
 | **Top 10 — Objective Holding / Zone Domination / Carried Objectives (value)** | **Brawler Engineer 19/0** | **S+ value** in objective holding: real Specialist, repairs, Sixth Sense and legal team membership; still W1. | [S+ Engineer](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L176) |
