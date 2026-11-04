@@ -14,8 +14,14 @@
 |---|---|---|
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | The 32/0 Smoke-bearing Dog-Warrior has 3W, MA3, Berserk, Super-Jump and AP+T2; effective in multiple close fights, but Irregular/Impetuous. |
 
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Ranking #119](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
+
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ in the cheap multi-role category; use the Irregular Order and engineering utility, not merely its suicide attack. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 5 — Airborne, Infiltrating and Enemy-DZ Attackers (apex):** [**Mirage-5, Margot + Duroc 60/2**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L96), is S/A in cross-game airborne apex/value. Margot's BS14 specialist attack and Duroc's Smoke/close violence pressure separate targets, but 60 points and 2 SWC are a substantial linked purchase. [Airborne tiers](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
 - **Top 10 — Warbands and Cheap Trading Units (value):** [**Varangian Chain Rifle + Smoke 10/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L128) is S in cheap regular Smoke value: a **Regular**, Impetuous, Dogged CC deterrent that both funds the group and opens routes. Its Regular Training is not produced by Wallace. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Strong packages without an imposed global rank:** [**Polaris Alpha Masha + Bearpode 32/0**](../list-building/peripheral-synchronized-multibody-apex-value.md#L75) supplies **two distinct Regular Orders**, unlike a synchronized Peripheral; [**Chernobog 63–70/1.5**](../list-building/tags.md#L146) gives a true AP-HMG TAG (B apex / A value), but should not be sold as a top-five TAG. [Multi-body comparison](../list-building/peripheral-synchronized-multibody-apex-value.md) · [TAG rankings](../list-building/tags.md).
 
