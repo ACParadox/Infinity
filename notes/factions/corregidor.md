@@ -12,6 +12,15 @@
 
 **Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#3) — Non-TAG medium-range value (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L146) | **Corregidor Surface Territorial AP MMR29/0** | Marksmanship, TacAware, X-Visor, AP and 0SWC: very strong **midrange** repeated fire in the right roster. **Limit:** **Former S → A+ ranged** because MMR is not a full HMG lane substitute; team costs apply. |
+| **Top 10 (#10) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L295) | **Gator MULTI HMG73/1.5** | BS14, ARM8/3STR, Tactical Awareness and NCO enable long-fire activity with points left for an alternative plan. **Limit:** S7 Hackable, ordinary visual FtF into high Mimetism. |
+
 | Whole-game role shortlist | Corregidor unit/profile | Why it stands out; caveat |
 |---|---|---|
 | **Top 10 (#9) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Lupe Balboa E/Mitter + Panzerfaust + Smoke, 19/0** | Regular Specialist Operative with Mimetism(-3) and both repeatable E/M and limited AP+EXP. **23pt Chain of Command** is a separate loadout; Surface/Deepspace Fireteam permissions differ [[source #9]](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L138). |
