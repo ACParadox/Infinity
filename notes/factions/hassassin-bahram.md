@@ -30,6 +30,7 @@
 | **Top 5 (#4) — Airborne/DZ attackers (apex)** | **Hussein Al-Djabel 33/0** | A+ apex: IMP-1, Smoke, MA4/CC23 and Viral CCW; one Wound and higher cost limit value versus Fiday | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L118) |
 | **Top 10 (#7) — Airborne/DZ attackers (value)** | **Hassassin Ragik BSG(+1B) 23/0** | S value: Dogged, strong airborne shotgun and ordinary Parachutist fallback; HD25/.5 is a separate profile | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L158) |
 | **Top 3 (#3) — Fast-ground/VH enemy-DZ breakthrough** | **McMurrough 23/0** | A+ apex / S value for on-table backline breach: 2W, Smoke, templates and AP+DA CC; Irregular/Impetuous and **no DZ insertion** | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L211) |
+| **Top 10 (#10) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Rafiq FO/Sensor/Triangulated Fire 13/0** | Sensor/Repeater/FO and Triangulated Fire on a mobile 13pt REM; needs to get into ZoC without being traded away | [#10 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L97) |
 
 **Other notable pieces, without forced global ranks:**
 - **Leila Sharif KHD 22/0:** [S points-value anti-hacker](../list-building/hackers-and-killer-hackers.md) with Firewall(-3), Carbonite and legal Wildcard access; pricier than Barid but handles other kinds of targets.
