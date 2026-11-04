@@ -14,6 +14,13 @@
 |---|---|---|
 | **Top 10 (#6) — Contact Counter-Assault / Anti-Elite CC (apex)** | [**9th Wulver 29/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L223) | CC23, MA3, Natural Born Warrior, 2W/ARM3, Berserk and AP+Shock PS5 make the 29pt T2 Rifle Wulver a reliable anti-elite contact defender. |
 
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 3 (#3) — Fast-ground/VH enemy-DZ breakthrough** | **McMurrough 23/0** | A+ apex / S value for on-table backline breach: 2W, Smoke, templates and AP+DA CC; Irregular/Impetuous and **no DZ insertion**; [Ranking #211](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L211) |
+
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**45th Highlander Galwegian Chain Rifle + Smoke 5/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L117) is S+ points value. It can force several enemy Orders for almost no cost, but remains Irregular/Impetuous and vulnerable when exposed. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 3 — Best Cheap Units in Infinity N5.3 (value):** [**Caledonian Volunteer Chain Rifle/Light Shotgun 6/0**](../list-building/best-cheap-units-apex-and-value.md#L48) is S+ as a troop-slot/Order floor; it funds the premium assault plan without pretending to be a strong gunfighter. [Cheap-unit rankings](../list-building/best-cheap-units-apex-and-value.md).
 - **Top 5 — Warbands and Cheap Trading Units (value):** [**McMurrough 23/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L133) rates S/A for sustained close-pressure ceiling and cost, with two Wounds, Smoke, Chain(+1B) and AP+DA melee. It is not a disposable five-point equivalent. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
