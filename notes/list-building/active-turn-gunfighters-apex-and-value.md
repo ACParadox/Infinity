@@ -11,7 +11,7 @@ _Updated 2026-11-04, strict non-TAG ranged-apex and Portable Autocannon re-audit
 | Job | Strong choices | **Why / when** |
 |---|---|---|
 | **Best infantry/REM sustained 16–32in shooting ceiling** | <ul><li><strong>Swiss Guard HMG</strong></li><li><strong>Hac Tao HMG</strong></li><li><strong>Gamma HMG</strong></li><li><strong>Silverstar Prime HMG</strong></li><li><strong>Charontid AP HMG</strong></li><li><strong>Aquila Guard HMG</strong></li><li><strong>Yan Huǒ HRMC</strong></li><li><strong>Mormaer AP HMG (effective PS3)</strong></li></ul> | Long-range positive bands, effective FtF dice and repeat fire; the Swiss Guard has the clearest asymmetric apex. Sheskiin/Achilles are short-assault threats, not S-tier long guns. |
-| **Best infantry/REM ranged points value** | <ul><li><strong>Posthuman Mk.4 HMG (legal package)</strong></li><li><strong>Kazak Spetsnaz HMG</strong></li><li><strong>Tankhunter AP HMG</strong></li><li><strong>Crosier MSV2 HMG (existing legal team)</strong></li><li><strong>Satrah Thunderbolt(+1B)</strong></li><li><strong>Bào Thunderbolt(+1B)</strong></li><li><strong>Kamau HMG</strong></li><li><strong>Kriza HMG</strong></li><li><strong>Tanuki HMG</strong></li><li><strong>Zhayedan HMG</strong></li></ul> | Credible long-lane shots with an affordable package; Hetkari Red Fury/Territorial AP MMR are strong *medium-range* alternatives, not universal 32in replacements. |
+| **Best infantry/REM ranged points value** | <ul><li><strong>Kriza HMG</strong></li><li><strong>Kosmosoldat AP HMG</strong></li><li><strong>Veteran Kazak AP HMG</strong></li><li><strong>Caledonian Mormaer AP HMG</strong></li><li><strong>Posthuman Mk.4 HMG (legal package)</strong></li><li><strong>Tankhunter AP HMG</strong></li><li><strong>Vanilla Tankhunter Portable Autocannon(+1B), armor-selective</strong></li><li><strong>Kazak Spetsnaz HMG</strong></li><li><strong>Kamau HMG</strong></li><li><strong>Nisse HMG</strong></li></ul> | Ranked for full-roster long-range points and Order value, not general gunfight ceiling. The Spetsnaz remains a strong cheap covered-ARO opener, but its 1W/BS12/normal HMG has limits; the Mormaer's 49pt price is offset in part by Tactical Awareness. Portable Autocannon's B3 AP+EXP is a hard-target specialist, not an all-purpose HMG. |
 | **Best mobile medium-range support fire** | <ul><li><strong>Skyhound AP/Plasma Thunderbolt</strong></li><li><strong>Firebat Thunderbolt</strong></li><li><strong>Vostok Mk12/Spitfire</strong></li><li><strong>Redeye Spitfire (high-impact flank gun)</strong></li></ul> | **Redeye's BS14/Mimetism−6 aerial angles** can be outstanding for 16–24in attacks; however, No Cover, hacking and shorter weapon bands prevent assuming elite *long-range* performance from any flyer. |
 | **Best TAG maximum gun ceiling** | <ul><li><strong>Marut</strong></li><li><strong>Cutter</strong></li><li><strong>Avatar</strong></li><li><strong>Zeta</strong></li><li><strong>Overdron</strong></li><li><strong>Maximus TAG</strong></li><li><strong>Jotum (vs conventional fire)</strong></li></ul> | Premium high-volume fire and often powerful MSV, hidden timing, armor, Climbing, Albedo or unconventional ammo. |
 | **Best TAG value** | <ul><li><strong>Squalos Mk-II</strong></li><li><strong>Overdron</strong></li><li><strong>Tikbalang</strong></li><li><strong>Agamemnon</strong></li><li><strong>Gator</strong></li><li><strong>Lóngwáng</strong></li><li><strong>Wrecker</strong></li><li><strong>Lizard</strong></li></ul> | Enough gun and durability without suppressing the rest of a 300-point army; extra self-funded activations matter when actually used. |
@@ -456,7 +456,7 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 - **Combined/Shas/Onyx/Next Wave/Morat:**
   - **Overdron62** is anti-MSV/armor long gun
   - **Avatar122** maximum ceiling expensive purchase
-  - **Sheskiin50/1 Red Fury** is an **A+ medium-range apex (#9) / A medium-value (#18)** shooter on its own merits; the **48/0 MULTI Rifle** and Protheion/CC kill chains remain separate *short-assault* jobs.
+  - **Sheskiin50/1 Red Fury** is an **A+ medium-range apex (#9) / A medium-value (#23)** shooter on its own merits; the **48/0 MULTI Rifle** and Protheion/CC kill chains remain separate *short-assault* jobs.
   - **Skyhound33** aerial angle
   - **Stinger30** backup HMG
   - **Suryat43** gun+personal activation vs **Sogarat52–58** heavy armor and AP/Feuerbach.
@@ -472,9 +472,12 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
   - **Intruder38** smoke/MSV2
   - **Riot Grrl31** team Spitfire, **Lizard64–65** durable armored gun
   - **Surface Territorial29/0** can be better value than 32pt/1.5SWC Red Fury for repeated midfield firing.
-- **Ariadna/Kosmoflot:**
-  - **Spetsnaz36** camouflaged Cover-solver
-  - **Veteran Kazak45 AP** durable anti-armor nonhackable
+- **Ariadna/TAK/Kosmoflot/Caledonia:**
+  - **Kosmosoldat44 AP HMG** persistent FtF pressure and PS4 AP; **Portable Autocannon44** sacrifices B4 for B2 AP+EXP
+  - **Veteran Kazak45 AP HMG** resilient non-hackable all-round gun, ranked above the Spetsnaz for repeat shooting
+  - **Mormaer49 AP HMG** BS Attack(−3)/SR−2/Immunity(ARM)/NWI, non-hackable and Tactical Awareness; premium solo or Heavy Caledonians gun
+  - **Vanilla Tankhunter36 Portable Autocannon(+1B)** B3 AP+EXP hard-target ambush; **TAK** version is only B2
+  - **Spetsnaz36 HMG** affordable camouflaged Marksmanship Cover-solver, with lower sustained apex
   - **Chernobog** bigger TacAware armored breach
   - **Mirage-5** solves backline problems by position rather than winning a long frontal duel.
 - **Haqq/Ramah/Hassassin:**
