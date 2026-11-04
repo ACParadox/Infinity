@@ -12,7 +12,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official rankings, measured win rates, or claims that a troop is top-ten *overall*. **Apex** measures peak impact in the named job; **value** accounts for points, SWC and Order cost. Cross-faction comparisons: [command](../list-building/command-units-apex-and-value.md), [Order generation](../list-building/cheerleaders-and-order-generators.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [active guns](../list-building/active-turn-gunfighters-apex-and-value.md).
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
