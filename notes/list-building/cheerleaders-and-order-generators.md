@@ -24,7 +24,7 @@
 
   The example is *one philosophy*, not a mandatory template.
 
-**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
+**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Cross-Faction Value](best-cheap-units.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 

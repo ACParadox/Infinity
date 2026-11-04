@@ -10,7 +10,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Top 3/5/10** are qualitative shortlist *candidates within stated roles*, never an overall unit ranking or win-rate statistic. **Apex** means peak role impact; **value** weighs cost and Orders. See [cheap units](../list-building/best-cheap-units-apex-and-value.md), [DZ defence](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [CoC](../list-building/command-units-apex-and-value.md) and [scoring](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
+**Top 3/5/10** are qualitative shortlist *candidates within stated roles*, never an overall unit ranking or win-rate statistic. **Apex** means peak role impact; **value** weighs cost and Orders. See [cheap units](../list-building/best-cheap-units.md), [DZ defence](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [CoC](../list-building/command-units-apex-and-value.md) and [scoring](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
 
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|

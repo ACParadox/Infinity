@@ -8,7 +8,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
+**Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
 
 | Whole-game role shortlist | Unit/profile | Why; limitation | Cross-faction tier / ranking source |
 |---|---|---|---|

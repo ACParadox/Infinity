@@ -9,7 +9,7 @@
 - Older Hippolyta-first alternatives remain possible; speaker regards Ioann as frequently worth buying, but No Cover still exposes him.
 - This is *O-12 Vanilla*, not the **Shindenbutai 30pt no-Smoke** variant or a license to transfer Irregular training.
 
-**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
+**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Cross-Faction Value](best-cheap-units.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
 **Multiple cheap CC bodies are not three independent attackers:** [N5.3 Peripheral and Multi-Body Apex/Value](peripheral-synchronized-multibody-apex-value.md) compares these **Control** packages:
 

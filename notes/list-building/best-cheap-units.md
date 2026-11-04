@@ -1,18 +1,4 @@
-# Best Cheap Units in Infinity N5.3 — Cross-Faction Apex and Value
-
-**Additional transcript-verified Vanilla O-12 budget package (26 Oct 2026):**
-
-- [Robert Shepherd, *O-12 Faction Focus* (18–32m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1080s) treats:
-  - **Moonraker Minelayer15/.5 ×2** (ambush/Adhesive entry lanes)
-  - **Ment CoC14/0** (fighting-LT insurance)
-  - **Varangian Chain+Smoke12/0 or Trench-Hammer13/0** (Regular PH14 smoke + Dogged screen)
-  - **Kappa HD13/.5** (cheap active repeater-net Hacker)
-  - **Raveneye Lt12/0** (FO E/M Minelayer, NCO fuel)
-- The presenter treats these as O-12's premier **12–15pt** shell.
-- Crucial trade-off: despite high **utility per model**, these relatively expensive floor pieces make it difficult to buy more than one or two premium guns—*not* the same economy as 5–7pt cheap Regular Orders in other factions.
-- The presenter disfavors the **Varangian Boarding Shotgun13** without Chain template and prefers **Trench-Hammer13** when one extra point remains.
-
-This note is a **faction-specific shortlist, not a new universal ranking**; all prices/AVA from [current O-12 roster](../../sectorials/o-12/o-12.md).
+# Best Cheap Units in Infinity N5.3 — Cross-Faction Value
 
 _Research: 2026-10-26. **Community-informed editorial tiers, not tournament win rates or simulated combat odds.** Current profiles, points, Order training, availability and legal Fireteams must come from the [pinned September 2026 sectorial reference files](../../sectorials) and [current rules/FAQ](../../rules/README.md), **not** older commentary. Videos and podcasts supply tactical arguments and counterarguments; they do not automatically endorse every ranking here._
 
@@ -134,3 +120,21 @@ References below were checked using the connected YouTube/Podcast transcript too
 - **Changing roster caution:** video/podcast dates range 2025–Aug 2026; recheck the pinned repo's September 2026 exact legal **profile + faction** before treating a cost, Order or Fireteam combination as currently fieldable.
 
 **Final selection principle:** the strongest 5–15pt unit is the one that *buys a necessary Order, saves movement/setup Orders, protects a critical model, or threatens something far more expensive* **without making the 300pt list unable to score or execute its primary attack**.
+
+---
+
+## Vanilla O-12 — transcript-verified budget package (26 Oct 2026)
+
+**Additional transcript-verified Vanilla O-12 budget package (26 Oct 2026):**
+
+- [Robert Shepherd, *O-12 Faction Focus* (18–32m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1080s) treats:
+  - **Moonraker Minelayer15/.5 ×2** (ambush/Adhesive entry lanes)
+  - **Ment CoC14/0** (fighting-LT insurance)
+  - **Varangian Chain+Smoke12/0 or Trench-Hammer13/0** (Regular PH14 smoke + Dogged screen)
+  - **Kappa HD13/.5** (cheap active repeater-net Hacker)
+  - **Raveneye Lt12/0** (FO E/M Minelayer, NCO fuel)
+- The presenter treats these as O-12's premier **12–15pt** shell.
+- Crucial trade-off: despite high **utility per model**, these relatively expensive floor pieces make it difficult to buy more than one or two premium guns—*not* the same economy as 5–7pt cheap Regular Orders in other factions.
+- The presenter disfavors the **Varangian Boarding Shotgun13** without Chain template and prefers **Trench-Hammer13** when one extra point remains.
+
+This note is a **faction-specific shortlist, not a new universal ranking**; all prices/AVA from [current O-12 roster](../../sectorials/o-12/o-12.md).

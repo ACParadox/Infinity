@@ -1,6 +1,6 @@
 # List-Building Strategy — Cheap, Midfield, and Support Troops
 
-**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Apex and Value](best-cheap-units-apex-and-value.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
+**Cross-role cheap-unit rankings (26 Oct 2026):** [Best Cheap Units in Infinity N5.3 — Cross-Faction Value](best-cheap-units.md) compares sub-15pt Order fillers, defensive screens, scoring specialists, technical support and cost-efficient attack/trade threats; video and podcast transcript evidence is differentiated from editorial cross-guide synthesis.
 
 **Cheap Repeater projection / disposable carriers:** [Network Projection — whole-game apex/value](network-projection-repeaters-pitchers-apex-value.md) compares these options and delivery packages:
 

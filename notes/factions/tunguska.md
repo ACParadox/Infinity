@@ -10,7 +10,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units-apex-and-value.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
+**Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
 
 | Whole-game role shortlist | Tunguska unit/profile | Why it stands out; caveat |
 |---|---|---|
