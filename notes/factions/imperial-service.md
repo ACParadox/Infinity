@@ -12,17 +12,11 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official rankings, measured win rates, or claims that a troop is top-ten *overall*. **Apex** measures peak impact in the named job; **value** accounts for points, SWC and Order cost. Cross-faction comparisons: [command](../list-building/command-units-apex-and-value.md), [Order generation](../list-building/cheerleaders-and-order-generators.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [active guns](../list-building/active-turn-gunfighters-apex-and-value.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#8) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L106) | **Bào Thunderbolt(+1B)23/0** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. **Limit:** BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. |
-| **Top 3 (#2) — Non-TAG medium-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L145) | **Bào Thunderbolt(+1B)23/0** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. **Limit:** BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. |
 
 | Whole-game role shortlist | Unit / exact package | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
+| **Top 10 (#8) — Non-TAG long-range value (A+)** | **Bào Thunderbolt(+1B)23/0** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. **Limit:** BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L106) |
+| **Top 3 (#2) — Non-TAG medium-range value (A+)** | **Bào Thunderbolt(+1B)23/0** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. **Limit:** BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L145) |
 | **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
 | **Top 3 — Cheerleaders and Order Generators (value)** | **4 × Kuang Shi 6/0 + Celestial Guard Monitor 13/0.5 = 37/0.5** | One of the standout five-body Order/Smoke/Chain Rifle packages. A Morat Oznat/Gaki package is cheaper on raw price; the Monitor must survive, and five slots plus the sole Core are committed. | [S — Order engine](../list-building/cheerleaders-and-order-generators.md#L136) |
 | **Top 5 — Command Units (apex)** | **Sun Tze Strategos L2 LT 53/0** | WIP17, Decoy(2), Counterintelligence and Strategos L2 give unusual reserve, deception and command control. LT(+1 Order) and LT(+1 Command Token) are different profiles. Expensive, not a primary gun. | [S — command apex](../list-building/command-units-apex-and-value.md#L96) |
