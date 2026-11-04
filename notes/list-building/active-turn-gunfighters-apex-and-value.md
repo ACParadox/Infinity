@@ -1,16 +1,5 @@
 # Active-Turn Gunfighters — N5.3 Apex and Points-Value Tier Guide
 
-**New source disagreement — Vanilla O-12 (26 Oct 2026):**
-
-- [Robert Shepherd's O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1920s) explicitly makes **Gamma HMG50** his primary gun and fighting LT: BS14, +1B, Warhorse/NWI and relatively low 50pt cost; a 14pt Ment insures LT.
-- **Zeta Lt70/2** shares the fundamental BS/Burst but earns its **20pt premium only when Climbing Plus, AP HRMC or deployable ZetBot creates additional angles/scoring**; otherwise Gamma is easier to fund.
-- He also **positively recommends Epsilon HMG34/1.5 + Regular PH14 Varangian Smoke** to beat TR bots and Mimetic defenders despite Epsilon's W1 fragility, unlike more anti-Epsilon Tactical Awareness views.
-- **Omega HMG42:** viable Mimetism(-6) companion with **Oko TA18 Duo** or **Vidocq 15+19 Haris**.
-- **Nimrod FTO Thunderbolt28/.5:** can shoot through Smoke with **Ioann Bann32** as its partner.
-- **Wrecker:** not this presenter's favored Vanilla gun, although earlier TAG panel reviews value Wrecker's Tactical Awareness and mission utility.
-
-This source is **conditional faction build advice**, not a global apex re-grade.
-
 _Updated 2026-11-03, second-pass roster-filter value audit. Ranged-role tier rebalance using battle-report synthesis and 2026 profiles; original source review begun 2026-10-23. Cross-faction **editorial, conditional** ratings, not official unit grades, measured tournament win rates, or simulated damage statistics. Current profile/points/AVA/Fireteam authority: September 2026 pinned Army references in [sectorials](../../sectorials); [N5.3 rules and FAQ](../../rules/README.md) supersede historical commentary. Prices shown are examples of a **specific profile in a specific legal roster**. A unit may rank S for peak impact and B for value._
 
 **Scope:** **active-turn medium- and long-range shooting** (especially 16–32in, with meaningful 24–32in capability), **not all-purpose assault**. Close-range 0–16in sweeps, boarding shotguns, rifles, template attacks, melee, Protheion, assassination runs and mobility without a useful ranged engagement belong in [close-combat and short-range assault](../Strategy/close-combat-and-short-range-assault.md). This guide excludes defensive AROs, command structure or deployment tricks in isolation. **TAGs have their own apex and value categories below** and are **not mixed into infantry/REM/VH rankings**. Other relevant guides: [TAGs](tags.md) · [VH vehicles](vehicles-vh.md) · [ARO](aro-units-apex-and-value.md) · [weapons/ammunition](../Strategy/weapons-ammunition-and-engagement-selection.md) · [face-to-face odds](../Strategy/probability-and-face-to-face-decision-framework.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Order efficiency](../Strategy/order-efficiency.md) · [target sequencing](../Strategy/target-priority-and-attack-sequencing.md).
@@ -408,6 +397,15 @@ Use current 2026 roster for facts; opinion evidence below is from actual **MCP t
 | **[Irregular Order E52 — Kestrel](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9)** | **~112–136min** direct **Griffin HMG37 vs Hetkari Red Fury48** debate, linked shooting, Cover and Mimetism. | Griffin supporters like cheap MSV1 + HMG range; Hetkari supporters pay +11 for strong Cover FtF; Squalos repeatedly praised for affordable TAG performance. |
 | **[Loss of Lieutenant E142 — TAG review](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN)** | **~22m Tik/Squalos; ~94–115m Overdron/Avatar/Marut** discusses **apex ≠ best purchase** and redundancy. | Some hosts rate 122pt Avatar **very poorly for value**, while others prize unmatched capability. This **2025** review predates current 2026 weapon/profile updates. |
 | **[WIP12 E180 — Kestrel](https://open.spotify.com/episode/3JXkarf51Os0UUopYrM7IW)** | The practical **Squalos/Pathfinder** and **Redeye** packages and balancing damage against objective coverage. | **Redeye Blitzen vs Grenade Launcher** depends on expected armored targets/terrain; not one universal best profile. |
+
+### Robert Shepherd — Vanilla O-12 (26 Oct 2026)
+
+- [Robert Shepherd's O-12 focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1920s) explicitly makes **Gamma HMG50** his primary gun and fighting LT: BS14, +1B, Warhorse/NWI and relatively low 50pt cost; a 14pt Ment insures LT.
+- **Zeta Lt70/2** shares the fundamental BS/Burst but earns its **20pt premium only when Climbing Plus, AP HRMC or deployable ZetBot creates additional angles/scoring**; otherwise Gamma is easier to fund.
+- He also **positively recommends Epsilon HMG34/1.5 + Regular PH14 Varangian Smoke** to beat TR bots and Mimetic defenders despite Epsilon's W1 fragility, unlike more anti-Epsilon Tactical Awareness views.
+- **Omega HMG42:** viable Mimetism(-6) companion with **Oko TA18 Duo** or **Vidocq 15+19 Haris**.
+- **Nimrod FTO Thunderbolt28/.5:** can shoot through Smoke with **Ioann Bann32** as its partner.
+- **Wrecker:** not this presenter's favored Vanilla gun, although earlier TAG panel reviews value Wrecker's Tactical Awareness and mission utility.
 
 Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operations-subsection.md), [Combined](../factions/vanilla-combined-army.md), [Ariadna](../factions/vanilla-ariadna.md), [Kestrel](../factions/kestrel.md), [Tunguska](../factions/tunguska.md), [Tohaa](../factions/tohaa.md). These were used as **prior research**; not every historical media citation in those files was re-transcribed on this revision. Source speech has occasional misrecognized model names. **No unsupported probability numbers.**
 
