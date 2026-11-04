@@ -37,6 +37,12 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
+#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
+
+| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
+|---|---|---|---|
+| **Top 3 (#3) value — Cheerleaders / Order Generators** | **Ímetron 6/0 — passive Regular Order beacon** | Six-point native Regular Order after mandatory Combat Jump deployment. Stationary and unarmed: excellent economy, but failure/early loss and no tactical utility beyond providing the Order. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md) | [Value #3](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+
 **Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
