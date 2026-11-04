@@ -13,6 +13,8 @@
 
 | Whole-game shortlist (specific role) | Unit / profile | Exceptional job and main limitation |
 |---|---|---|
+| **Top 10 (#9) — Dedicated CC assassins (apex)** | [**Nightshades SMG 31/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L132) | Hidden Deployment, FD(+20), Mimetism(-6) and E/M/PARA melee make a powerful anti-heavy disabling ambush; not raw Monofilament destruction. |
+| **Top 10 (#7) — Dedicated CC assassins (apex)** | [**Cuervo Goldstein 33/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L130) | CC23/MA4, Monofilament, NWI and Combat Jump enable a dangerous airborne assassination; landing/entry and follow-up contact are not automatic. |
 | **Top 3 — Doctors, Engineers & Recovery Support (apex)** | **[Parvati 36/0](../list-building/doctors-engineers-and-recovery-apex-value.md#L78)** | Doctor (2W), WIP15, Engineer and durable Super-Jump/Remote Presence make one of the strongest combined recovery-and-scoring pieces. Premium cost; check the exact army's Engineer modifier. |
 | **Top 5 — Active-Turn Gunfighters (apex)** | **[Gamma HMG 50/1.5](../list-building/active-turn-gunfighters-apex-and-value.md#L79)** | BS14, BS Attack (+1B), ARM6, 2W+NWI and FT-II access. A world-class sustained HMG gun at lower cost than a TAG, but Hackable and not naturally anti-Mimetism. |
 | **Top 5 — TAGs (apex)** | **[Zeta LT70/2 or NCO73/2](../list-building/tags.md#L143)** | BS14 HMC, Climbing Plus, ARM8/3STR and ZetBot specialist make a top-tier anti-armour, high-angle centerpiece. No Tactical Awareness; the premium over Gamma needs a reason. |
