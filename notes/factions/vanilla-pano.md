@@ -14,11 +14,8 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each retained entry uses the narrowest applicable band and displays its numbered source position. These are editorial orderings, not measured win rates or universal overall-unit ranks; profiles below #10 appear separately.
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+| Whole-game shortlist (specific job) | Vanilla PanO unit/profile | Why it stands out / limits |
 |---|---|---|
 | **Top 3 (#1) — Non-TAG long-range apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L36) | **Swiss Guard HMG56/1.5** | BS15, Hidden/Camouflage, Mimetism−6, Surprise and ARM5/2W make a benchmark asymmetric 16–32in active attacker. **Limit:** 56pt, Hackable; Surprise is one opening, not a permanent enemy MOD. |
 | **Top 10 (#7) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L42) | **Aquila Guard HMG52/1.5** | BS15/MSV3, ARM4/2W and HMG range: exceptional visual-defender remover. **Limit:** No native Mimetism/AP; White Noise, Albedo and Hackable exposure still matter. |
@@ -35,13 +32,9 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | **Top 3 (#3) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L288) | **Squalos Mk-II MULTI HMG NCO66/1.5** | BS15, ARM6/3W, Tactical Awareness and MULTI HMG AP mode give strong repeat long-lane fire. NCO can convert a usable LT order if the roster supports that sequence. **Limit:** Costs 66pt/1.5SWC (11 more than MMR); Hackable, NCO has no value without a usable LT Order and no universal Kestrel +1SD. |
 | **Top 5 (#4) — TAG ranged value (A+ (medium/budget))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L289) | **Squalos Mk-II MULTI MMR55/1** | 55pt/1SWC BS15 MULTI Marksman Rifle B3 AP/Shock, ARM6/3W and Tactical Awareness are excellent **medium-range budget TAG** performance. **Kestrel** specifically prints BS Attack(+1SD), giving that sectorial a higher gun ceiling. **Limit:** The MMR is −3 at 24–32in and is **not** a generic long-lane equal of Overdron/Zeta/HMG versions. Vanilla/NCA do not inherit Kestrel's +1SD; S6/Hackable and Crabbot is not an extra pooled Order. |
 | **Top 5 (#5) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L290) | **Tikbalang HMG69/1.5** | **BS15, Mimetism−3, Climbing Plus, 3W, TacAware**, repeated advantageous LoF and strong safe exit positions. **Limit:** Plain HMG needs alternate AP/E/M answer to very high ARM. |
-
-| Whole-game shortlist (specific job) | Vanilla PanO unit/profile | Why it stands out / limits |
-|---|---|---|
 | **Top 3 (#2) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Karhu Feuerbach(+1B) 34/1.5** | BS13, MSV1, Mimetism(-3), Climbing Plus and NCO; B3 AP+DA. **No WinterFor Fireteam bonuses in Vanilla** [[rank #2]](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L73). |
 | **Top 3 (#1) — Command Units (value)** | **BCA Magistrate Strategos LT, 19/0** | [S+ LT value](../list-building/command-units-apex-and-value.md#L111): Strategos L1, Counterintelligence and Specialist on a 19-point body. FT Master (Jackals) does **not** create Vanilla Fireteams; **CoC Magistrate 21/0** is a separate AVA1 alternative. |
 | **Top 5 (#4) — Peripherals, Synchronized & Multi-Body Packages (value)** | **Drummer FO + Drumbot-5 FO, 21/0** | [S multi-FO package](../list-building/peripheral-synchronized-multibody-apex-value.md#L84): two eligible FO attack origins from a synchronized activation plus bot HFT/Flash/360º, but **one pooled Order**, Peripheral Coherency and a fragile controller. |
-| **Top 3 (#1) — Active-Turn Gunfighters (apex)** | **Swiss Guard HMG, 56/1.5** | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md#L36): BS15, Hidden, Mimetism(-6) and two Wounds; expensive/Hackable, not an automatic mission specialist. |
 | **Top 3 (#2) — ARO Units (apex)** | **Swiss Guard ML(+1SD), 60/1.5** | [S Hidden ARO apex](../list-building/aro-units-apex-and-value.md#L52); **different profile** from the Swiss HMG. |
 | **Top 3 (#3) — TAGs (apex)** | **Cutter MULTI HMG, ~97/2** | [S TAG apex](../list-building/tags.md#L218), only **B value** because of its huge opportunity cost and Sensor/hacking exposure. |
 | **Top 3 (#2) — TAGs (value)** | **Squalos Mk-II MMR 55/1** or **NCO MULTI HMG 66/1.5** | [S TAG value](../list-building/tags.md#L260): BS15 and Tactical Awareness, with NCO on one distinct loadout; **no Vanilla TAG Duo**. |
