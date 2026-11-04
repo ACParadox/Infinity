@@ -24,6 +24,7 @@
 | **Top 10 (#10) — Airborne/DZ attackers (apex)** | **Saito Tōgan T2 BSG + EXP CCW 33/0** | A+ apex: Hidden/Infiltration, Mimetism(-6), Smoke and MA4; must still reach the actual enemy-DZ target | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L124) |
 | **Top 3 (#3) — Fast-ground/VH enemy-DZ breakthrough** | **McMurrough 23/0** | A+ apex / S value for on-table backline breach: 2W, Smoke, templates and AP+DA CC; Irregular/Impetuous and **no DZ insertion** | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L211) |
 | **Top 10 (#10) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Rafiq FO/Sensor/Triangulated Fire 13/0** | Dahshat gains a fast Sensor/Repeater/FO/TF counter without committing to a visor attacker; different from 19/.5 FTO Red Fury | [#10 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L97) |
+| **Top 10 (#6) — Mimetism (-6) value (A / A+ (mission))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#best-mim6-points-value-midfield-and-mobility) | **Miranda MULTI Rifle 27/0** | Mim6 + Marksmanship + Specialist, stronger than generic Mim6 midfield scorer into Cover. **Limit:** BS12/W1, limited range. | [#6 Mimetism (-6) value](../list-building/bs-mod-stacking-units-apex-and-value.md#best-mim6-points-value-midfield-and-mobility) |
 
 ### Particularly strong or unusual Fireteams
 
