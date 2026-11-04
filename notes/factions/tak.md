@@ -8,6 +8,13 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
+#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
+
+| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
+|---|---|---|---|
+| **Top 3 (#1) Apex · Top 5 (#5) value — Cheerleaders / Order Generators** | **Konduktor FTO 7/0 — Chain Rifle, Light Shotgun, Shock Mine** | 7pt native Regular Order plus strong short-range template/mine guard. TAK allows the FTO in a Line Kazak team; Vanilla Ariadna does not gain Fireteams from the FTO label alone. [Roster](../../sectorials/ariadna/tartary-army-corps.md) | [Apex #1](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) · [Value #5](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/tartary-army-corps.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+
 **Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
