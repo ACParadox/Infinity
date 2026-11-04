@@ -37,6 +37,18 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#1) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L67) | **Achilles AP Spitfire 62/2 — Vanilla Combined** | BS15, Mimetism−3, AP Spitfire, 15-10 mobility, 3W and Nanoscreen combine superior midrange FtF/penetration with repeat engagements; **above Hetkari** despite its Marksmanship against Cover. CC contributes no ranged credit. **Limit:** **62pt/1.5SWC**, Hackable and **No Cover**; price rules out an automatic S grade. Nanoscreen is not Mimetism−6; hacking, cybermines and 24–32in Spitfire penalties prevent an S ranged ceiling despite his outstanding overall assault value. **Roster variant:** Vanilla Combined costs 2 SWC, versus 1.5 SWC in Next Wave; the shooting ceiling transfers, not the 1.5-SWC efficiency. |
+| **Top 5 (#4) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L70) | **Sheskiin Red Fury50/1** | BS15, B4 Red Fury, **BS Attack (SR−2)**, Nanoscreen and 2W give an outstanding **8–24in shooting ceiling**. Nanoscreen creates a defensive penalty for attackers even where ordinary Cover is unavailable. **Limit:** 50pt/1SWC non-LT, **No Cover** and poor Red Fury bands beyond 24in. CC/Protheion/delivery remain separate short-assault credits; not a 24–32in long gun. |
+| **Top 5 (#4) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L245) | **Avatar MULTI HMG122/3** | **BS15, Mimetism−6, ARM9/BTS9, TacAware**: extraordinary sustained long-gun ceiling; **Sepsitor is excluded from this ranged grade**. **Limit:** 122pts/3SWC devastates redundancy; opponent can kill its Orders/support and avoid shooting center mass. Very disputed value. |
+| **Top 5 (#5) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L246) | **Overdron AP HRMC62/1.5** | **Albedo, AP HRMC, 3W, TacAware/Firewall**, excellent long-fight anti-MSV/anti-armor for modest TAG price; **Plasma Sniper59/1.5** is an alternate save-profile, not interchangeable. **Limit:** BS13, lesser cover/close range flexibility; less payoff into lists without MSV. |
+| **Top 3 (#1) — TAG ranged value (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L286) | **Overdron AP HRMC62/1.5** | **Albedo, AP HRMC, 3W, TacAware/Firewall**, excellent long-fight anti-MSV/anti-armor for modest TAG price; **Plasma Sniper59/1.5** is an alternate save-profile, not interchangeable. **Limit:** BS13, lesser cover/close range flexibility; less payoff into lists without MSV. |
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
