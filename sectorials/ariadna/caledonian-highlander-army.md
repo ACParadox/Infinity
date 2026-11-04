@@ -241,13 +241,13 @@ Optional-mode units:
 
 ### Caledonian Mormaers
 
-**ID 251 · AVA 3 · HI** — `MOV 10-10 | CC 17 | BS 13 | PH 13 | WIP 13 | ARM 5 | BTS 0 | W 1 | S 2`. X Visor. Non-Lieutenant profiles generate Tactical Awareness.
+**ID 251 · AVA 3 · HI** — `MOV 10-10 | CC 17 | BS 13 | PH 13 | WIP 13 | ARM 5 | BTS 0 | W 1 | S 2`. Unit-wide **BS Attack (−3), BS Attack (AP), BS Attack (SR−2), Courage, Immunity (ARM), Immunity (IMM-B), No Wound Incapacitation**; non-hackable. **X-Visor is on the T2 Rifle options, not the HMG options.** Non-Lieutenant profiles generate Tactical Awareness.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 41 | 0 | T2 Rifle, Chain-colt, Heavy Pistol, AP CC Weapon; Tactical Awareness | Heavy Caledonians required-choice, max 3 |
+| 1 | 41 | 0 | T2 Rifle, Chain-colt, Heavy Pistol, AP CC Weapon; **X-Visor**, Tactical Awareness | Heavy Caledonians required-choice, max 3 |
 | 2 | 49 | 1.5 | HMG, Chain-colt, Heavy Pistol, AP CC Weapon; Tactical Awareness | same |
-| 3 | 41 | 0 | T2 Rifle, Chain-colt, Heavy Pistol, AP CC Weapon; Lieutenant (+1 Lt Order) | same |
+| 3 | 41 | 0 | T2 Rifle, Chain-colt, Heavy Pistol, AP CC Weapon; **X-Visor**, Lieutenant (+1 Lt Order) | same |
 | 4 | 49 | 1 | HMG, Chain-colt, Heavy Pistol, AP CC Weapon; Lieutenant (+1 Lt Order) | same |
 
 ### McMurrough, Mercenary Dog-Warrior
