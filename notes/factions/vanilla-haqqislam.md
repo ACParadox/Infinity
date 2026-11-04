@@ -10,6 +10,16 @@
 
 **Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#7) — Non-TAG medium-range apex (A+ (matchup))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L73) | **Zeybek AP Spitfire33/1.5** | BS13 **AP Spitfire and Albedo** with 20–5 aerial movement threaten MSV/Marksmanship-dependent defensive lanes; W3, Smoke GL and an included post-shell Operator make its angle/armor matchup unusually persistent. **Limit:** No native Mimetism versus ordinary shooters, S7 No Cover, Hackable and **1.5SWC**. Operator and Smoke are conditional abilities, not bonus BS/Burst; VH apex S is for the full package. |
+| **Top 10 (#9) — Non-TAG medium-range apex (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L75) | **Asawira AP Spitfire38/1.5** | BS14, ARM4/2W, BTS9 and AP threaten armored targets in positive **middle bands**. **Limit:** **Former A+ → A:** BSG(+1B)32/0 is an excellent but **short-assault**, not long-gun, profile. |
+| **Top 10 (#9) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L294) | **Shakush HMG (Continuous Damage)58/1.5** | 58pt/1.5SWC HMG with Continuous Damage, Tactical Awareness and Heavy Flamethrower offers an inexpensive repeated **long-range** TAG attack. **Limit:** Hackable/visibility counterplay; unlike the separate 56pt AP-Spitfire profile, this gun has ordinary HMG range, not AP primary ammo. |
+
 | Whole-game role shortlist | Unit/profile | Why; limitation | Cross-faction tier / ranking source |
 |---|---|---|---|
 | **Top 3 (#1) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Muttawi'ah E/Marat + Smoke, 5/0** | Vanilla's same-cost **E/Marat + Smoke** carrier differs from Bahram's 5pt **no-Smoke** profile; Irregular/Impetuous, direct-template reach required | [#1 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L130) |
