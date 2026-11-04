@@ -13,6 +13,8 @@
 | Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
 |---|---|---|
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | 32/0 Smoke-bearing Dog-Warrior: 3W, CC23/MA3, Berserk, Super-Jump and AP+T2; a resilient attack/defense option, despite Irregular/Impetuous. |
+| **Top 3 (#1) — Active-turn BS stacking (S / S)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) | **Kazak Spetsnaz Camo HMG 36/1.5** | Marksmanship + Mimetism (-3) + Camouflage/Surprise; HMG can repeatedly remove covered long-range AROs. **Limit:** W1; MSV/anti-visor tech, weak high-ARM conversion. |
+| **Top 10 (#8) — Reactive BS stacking (A / A (ARO))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) | **Frontovik MSV1 AP Sniper 28/.5** | Mimetism (-3) + **AP Sniper-profile MSV1** + Warhorse, possible legal TAK Fireteam. **Limit:** W1; long sniper but not MSV2 or Neuro. |
 
 #### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
 
