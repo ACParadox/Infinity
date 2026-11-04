@@ -10,18 +10,12 @@
 
 **Top 3 / Top 5 / Top 10 are editorial *role-specific* cross-faction candidates**, not universal all-unit ranks, measured win rates or official tiers. *Apex* is peak matchup impact; *value* compares points/SWC/Orders. Anchors: [command](../list-building/command-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [Vehicles](../list-building/vehicles-vh.md), [vision control](../list-building/vision-control-units-apex-and-value.md) and [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#7) — Non-TAG medium-range apex (A+ (matchup))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L73) | **Zeybek AP Spitfire33/1.5** | BS13 **AP Spitfire and Albedo** with 20–5 aerial movement threaten MSV/Marksmanship-dependent defensive lanes; W3, Smoke GL and an included post-shell Operator make its angle/armor matchup unusually persistent. **Limit:** No native Mimetism versus ordinary shooters, S7 No Cover, Hackable and **1.5SWC**. Operator and Smoke are conditional abilities, not bonus BS/Burst; VH apex S is for the full package. |
 
 **Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
 
 | Whole-game role shortlist | Profile | Why; limitation | Cross-faction tier / ranking source |
 |---|---|---|---|
+| **Top 10 (#7) — Non-TAG medium-range apex (A+ (matchup))** | **Zeybek AP Spitfire33/1.5** | BS13 **AP Spitfire and Albedo** with 20–5 aerial movement threaten MSV/Marksmanship-dependent defensive lanes; W3, Smoke GL and an included post-shell Operator make its angle/armor matchup unusually persistent. **Limit:** No native Mimetism versus ordinary shooters, S7 No Cover, Hackable and **1.5SWC**. Operator and Smoke are conditional abilities, not bonus BS/Burst; VH apex S is for the full package. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L73) |
 | **Top 3 (#3) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Azra'il Feuerbach(+1B), 41/1.5** | B3 AP+DA from ARM5/2W; legal QK Fireteam potential, with SWC/position costs | [#3 apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L74) |
 | **Top 10 (#7) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Azra'il AP HMG, 37/1.5** | B4 AP for sustained heavy-target fights, different option; **#7** not joint Top 5 | [#7 apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L78) |
 | **Top 5 — Vehicles (VH / Aerial) (apex)** | **Zeybek AP Spitfire/Smoke GL 33/1.5** | **S apex VH**: Albedo, armor-piercing fire, Smoke and an Operator. Hackable S7/No Cover can make it very risky. | [S/A Vehicle](https://github.com/ACParadox/Infinity/blob/main/notes/list-building/vehicles-vh.md#L51); [A+ medium gun apex #7](../list-building/active-turn-gunfighters-apex-and-value.md#L73); [A under-40pt value #11](../list-building/active-turn-gunfighters-apex-and-value.md#L154) |
