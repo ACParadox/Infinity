@@ -10,17 +10,11 @@
 
 **Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#9) — Non-TAG medium-range apex (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L75) | **Asawira AP Spitfire38/1.5** | BS14, ARM4/2W, BTS9 and AP threaten armored targets in positive **middle bands**. **Limit:** **Former A+ → A:** BSG(+1B)32/0 is an excellent but **short-assault**, not long-gun, profile. |
-| **Top 10 (#9) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L294) | **Shakush HMG (Continuous Damage)58/1.5** | 58pt/1.5SWC HMG with Continuous Damage, Tactical Awareness and Heavy Flamethrower offers an inexpensive repeated **long-range** TAG attack. **Limit:** Hackable/visibility counterplay; unlike the separate 56pt AP-Spitfire profile, this gun has ordinary HMG range, not AP primary ammo. |
 
 | Whole-game role shortlist | Profile | Why; limitation | Cross-faction tier / ranking source |
 |---|---|---|---|
+| **Top 10 (#9) — Non-TAG medium-range apex (A+ (mid))** | **Asawira AP Spitfire38/1.5** | BS14, ARM4/2W, BTS9 and AP threaten armored targets in positive **middle bands**. **Limit:** **Former A+ → A:** BSG(+1B)32/0 is an excellent but **short-assault**, not long-gun, profile. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L75) |
+| **Top 10 (#9) — TAG ranged value (A+)** | **Shakush HMG (Continuous Damage)58/1.5** | 58pt/1.5SWC HMG with Continuous Damage, Tactical Awareness and Heavy Flamethrower offers an inexpensive repeated **long-range** TAG attack. **Limit:** Hackable/visibility counterplay; unlike the separate 56pt AP-Spitfire profile, this gun has ordinary HMG range, not AP primary ammo. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L294) |
 | **Top 3 (#1) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Ghazi Muttawi'ah E/Marat, 5/0** | The **5pt Bahram E/Marat profile has no Smoke**; Irregular/Impetuous close-range disable is extremely cheap but fragile | [#1 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L130) |
 | **Top 5 (#5) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Daylami Camo(1 Use) + Infiltration + Panzerfaust, 8/0** | Forward AP+EXP trap for 8pt, but BS11/Disposable(2) and camouflage is one use | [#5 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L134) |
 | **Top 10 (#6) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Daylami Panzerfaust, 6/0** | 6pt AP+EXP ARO without Camo/Infiltration; separate option from #5 | [#6 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L135) |
