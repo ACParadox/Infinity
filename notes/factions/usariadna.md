@@ -13,12 +13,17 @@
 - **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Foxtrot Boarding Shotgun Minelayer 18/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L98) is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 - **Strong sectorial attackers, without an unsupported global Top 10 claim:** **Unknown Ranger MSV1 Mk12 42/0 or AP Spitfire 45/1** has Tactical Awareness, NWI and specialist/gunfighter utility; **Blackjack AP HMG or T2 Sniper 35** provides protected long-range pressure. Neither exact gun build has a standalone cross-faction tier; these remain sectorial recommendations. A *different* [39-point Unknown Ranger Specialist](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L62) appears in the objective-carrying discussion.
 
-- **Top 5 — Airborne, Infiltrating and Enemy-DZ Attackers (apex):** [**Van Zant AP Rifle 33/0**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L98) is **S airborne value**; the [**T2 Boarding Shotgun 35/0**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L98) is a harder-target alternative. Deployment Zone entry, Tactical Awareness and Dogged create disproportionate pressure when the opponent leaves several vulnerable supports at the edge. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
-- **Top 10 — Airborne, Infiltrating and Enemy-DZ Attackers (value):** [**6th Airborne Ranger FO 20/0**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L131) (or [**SMG 19/0 / BSG 20/0**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L131)) earns **A+ value** for ordinary Parachutist scoring and trades. It **cannot** use Van Zant's enemy-DZ edge access. [Airborne rankings](../list-building/airborne-and-enemy-dz-attackers-apex-value.md).
 - **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** for Order value and conditional disposable-ammo reloads. The **9/1 Guided** and **14/1 Total Reaction** versions cost more and solve different jobs. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
 - **Further notable profiles, distinguishing ranked from unranked:**
   - **Devil Dog + K-9 23/0:** durable Smoke/template and synchronized Sensor/close-pressure package; **not independently tiered in the current cross-faction warband table**. **Devil Dog FTO 22/0** is the *separate, no-K-9* link option, not the same package.
   - [**Beasthunter HFT + Panzerfaust, Camo/FD(+20), 15/0:**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L75) **A+ apex / S points value** for a concealed forward anti-heavy/template fork. Its **9-point FTO** profile has *neither the same Camo/FD package nor a USAriadna Fireteam entry*. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+
+
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 10 (#7) — Airborne/DZ attackers (apex)** | **Van Zant AP Rifle 33/0 (T2 BSG 35/0 alternative)** | A+ apex: Parachutist(DZ), Tactical Awareness and Dogged create a no-roll support raid; 33–35pts means one cheap target is poor payback; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L121) |
 
 ### Particularly useful Fireteams
 
