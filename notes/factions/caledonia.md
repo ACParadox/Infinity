@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
 
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
+|---|---|---|
+| **Top 10 (#6) — Contact Counter-Assault / Anti-Elite CC (apex)** | [**9th Wulver 29/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L223) | CC23, MA3, Natural Born Warrior, 2W/ARM3, Berserk and AP+Shock PS5 make the 29pt T2 Rifle Wulver a reliable anti-elite contact defender. |
+
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**45th Highlander Galwegian Chain Rifle + Smoke 5/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L117) is S+ points value. It can force several enemy Orders for almost no cost, but remains Irregular/Impetuous and vulnerable when exposed. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 3 — Best Cheap Units in Infinity N5.3 (value):** [**Caledonian Volunteer Chain Rifle/Light Shotgun 6/0**](../list-building/best-cheap-units-apex-and-value.md#L48) is S+ as a troop-slot/Order floor; it funds the premium assault plan without pretending to be a strong gunfighter. [Cheap-unit rankings](../list-building/best-cheap-units-apex-and-value.md).
 - **Top 5 — Warbands and Cheap Trading Units (value):** [**McMurrough 23/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L133) rates S/A for sustained close-pressure ceiling and cost, with two Wounds, Smoke, Chain(+1B) and AP+DA melee. It is not a disposable five-point equivalent. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
@@ -37,7 +43,6 @@ The [numbered N5 reports](../battle-reports/n5-battle-reports-and-tournament-rep
 
 | Source | Actual Scottish list / Fireteam evidence | List-building implication |
 |---|---|---|
-| **Top 10 (#6) — Contact Counter-Assault / Anti-Elite CC (apex)** | [**9th Wulver T2 Rifle 29/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L223) | MA3 + NBW, CC23, AP+Shock(PS5), 2W, ARM3; Strong defensive duel and climb/countercharge; not automatically a top assassin. |
 | [#086 Critical Intervention vs White Banner](../battle-reports/081-090-n5-battle-report-tactical-analysis.md#L148) | Defending roster: **Wallace + 2 Galwegians**, **Mormaer HMG + Isobel** (*probable Duo*), **Kaden/Wulver**, **McMurrough**, **2 Cameronians**, **Uxía**, Wardriver Disco and support. **No explicitly declared Wallace/Galwegian Core.** | Defend a central room through **doorway Smoke, templates, hard CC and a heavy ranged backstop**; Mormaer+Isobel is a plausible current-chart legal **Heavy Caledonians Duo**, but still not a confirmed played pair. Special defender deployment rules **cannot be copied to ordinary missions**. |
 | [#021 Corregidor tournament report](../battle-reports/021-030-n5-battle-report-tactical-analysis.md#L27) | Opposing **Wallace, McMurrough, Cameronians, Mormaer/Isobel** pressure, but **no full Scottish starting Fireteam** recovered. | Reinforces the **warband wave + heavy-gun backbone** concept, not a fixed 300-point export. Do not spend all regular Orders killing if late specialist/mission reach is missing. |
 | [#016 multi-game German podcast](../battle-reports/011-020-n5-battle-report-tactical-analysis.md#L259) | Mentions **Wallace, Mormaer and a Level-2 Duo** plus dog/wolf threats; **second Duo member and side allocation are unclear**. | Do not invent a precise Mormaer Duo or combine distinct speakers' accounts into one played list. |
