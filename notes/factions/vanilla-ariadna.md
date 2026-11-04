@@ -17,7 +17,7 @@ The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for th
 | **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/vanilla-ariadna.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
 | **Top 10 (#7) value — Cheerleaders / Order Generators** | **Rokot 8/0 — Chain Rifle + Light Shotgun** | Native Regular, cheap S2 corner defence. Kosmoflot allows Rokot teams; Vanilla Ariadna has AVA2 and the FTO label of other troops does not automatically create a link. [Roster](../../sectorials/ariadna/vanilla-ariadna.md) | [Value #7](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
 
-**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
+#### Active-turn gunfighter and other role standouts (2026-11-04)
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
