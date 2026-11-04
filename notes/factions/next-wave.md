@@ -22,6 +22,16 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#1) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L67) | **Achilles AP Spitfire62/1.5** | BS15, Mimetism−3, AP Spitfire, 15-10 mobility, 3W and Nanoscreen combine superior midrange FtF/penetration with repeat engagements; **above Hetkari** despite its Marksmanship against Cover. CC contributes no ranged credit. **Limit:** **62pt/1.5SWC**, Hackable and **No Cover**; price rules out an automatic S grade. Nanoscreen is not Mimetism−6; hacking, cybermines and 24–32in Spitfire penalties prevent an S ranged ceiling despite his outstanding overall assault value. |
+| **Top 10 (#6) — Non-TAG medium-range value (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L149) | **Wraith-1 Hidden MULTI MMR27/0.5** | BS12, MSV1, Mimetism−3, Marksmanship, Hidden/Surprise and FD+10 give unusual Cover-ignoring midfield first-shot value. **Limit:** W1 and MMR's poor 24–32in band; **25pt FTO** does not also have Hidden/Surprise. |
+| **Top 10 (#7) — Non-TAG medium-range value (A+ (geometry-conditional))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L150) | **Skyhound AP/Plasma Thunderbolt33/0** | **33pt/0SWC** Plasma Carbine(+1B), AP Thunderbolt and Mine Dispenser, BS14/Mimetism−6 with 20–5 aerial access: unusually efficient selectable **8–24in** attacks plus area shaping. The vehicle guide's S value reflects the complete package. **Limit:** **Conditional on safe aerial staging/recovery:** S7 No Cover/Hackable, and #036 documents E/M isolation; don't treat the 0SWC plasma/AP setup as a guaranteed head-on ARO breaker. |
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
