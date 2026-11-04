@@ -14,6 +14,15 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#6) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L247) | **Tikbalang HMG69/1.5** | **BS15, Mimetism−3, Climbing Plus, 3W, TacAware**, repeated advantageous LoF and strong safe exit positions. **Limit:** Plain HMG needs alternate AP/E/M answer to very high ARM. |
+| **Top 5 (#5) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L290) | **Tikbalang HMG69/1.5** | **BS15, Mimetism−3, Climbing Plus, 3W, TacAware**, repeated advantageous LoF and strong safe exit positions. **Limit:** Plain HMG needs alternate AP/E/M answer to very high ARM. |
+
 | Whole-game shortlist (specific job) | Acontecimento unit/profile | Why it stands out / limits |
 |---|---|---|
 | **Top 3 (#3) — Midfield Area Denial & Speed Bumps (value)** | [**Acontecimento Regular Minelayer + Sensor, 13/0**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L94) | [S+ area-denial value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L94): a Regular Order, Sensor, Triangulated Fire and start-of-game Shock Mine at almost line-infantry price. **DZ defence, not Infiltration.** |
