@@ -12,7 +12,7 @@
 
 **Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
