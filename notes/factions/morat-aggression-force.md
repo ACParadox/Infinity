@@ -29,6 +29,12 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
 
+#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
+
+| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
+|---|---|---|---|
+| **Top 10 (#7) Apex · Top 5 (#4) value — Cheerleaders / Order Generators** | **Morat Hungries Core: Oznat FTO15 + 4 Gakis4 = 31/0** | Five pooled Regular Orders (**6.20pts/Order**), including **four FT Master conversions** at Order Count. Legal Hungries Core only; W1 Oznat, vulnerable Impetuous members and five Group slots. The old 23pt two-Gaki Haris was removed from the current shortlist. [Pinned roster](../../sectorials/combined-army/morat-aggression-forces.md) | [Apex #7](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) · [Value #4](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
@@ -43,10 +49,6 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 
 - **Top 10 (#9) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Kurgat Portable Autocannon, 30/1**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L80) — Morat foundation Engineer with repeatable B2 AP+EXP, D-Charges and 1 SWC; BS12/one Wound make support and safe lanes important.
-- **Top 3 — Cheerleaders and Order Generators (value): Oznat FTO + Gakis.** ([cross-faction S+ Order engine](../list-building/cheerleaders-and-order-generators.md#L166))
-  - **Haris:** ([cross-faction S+ three-Order Haris](../list-building/cheerleaders-and-order-generators.md#L167)) Oznat FTO 15/0 + two Gakis 4/0 = **23 points, 0 SWC for three Regular Orders** with the qualifying Fireteam Master interaction.
-  - **Core:** ([cross-faction S+ five-Order Core](../list-building/cheerleaders-and-order-generators.md#L166)) Oznat FTO + four Gakis = **31/0 for five Regular Orders**.
-  - The [Order-engine comparison](../list-building/cheerleaders-and-order-generators.md) calls these **S+** engines on price. The W1 Oznat is a failure point; the chart also allows mixed Pretas, and unlinked Hungries remain Irregular.
 - **Top 5 — Warbands and Cheap Trading Units (value): Dāturazi Chain Rifle (+1B) 14/0.** ([cross-faction S warband](../list-building/warbands-and-cheap-trading-units-apex-value.md#L94)) **S-tier** in the [warband comparison](../list-building/warbands-and-cheap-trading-units-apex-value.md): Regular PH14 Smoke, Warhorse, MA4 and DA close-combat threat. Its best use may be enabling Yaogat shooting rather than charging alone.
 - **Top 5 — Command Units (apex): Sogarat LT 56/0.5–1.** ([cross-faction S/A commander](../list-building/command-units-apex-and-value.md#L97)) **S/A** in the [command tiers](../list-building/command-units-apex-and-value.md), with Warhorse, resilient gunfighting, Disco Ball visibility denial and Lieutenant Orders that a legal NCO Sogarat can use. High cost and exposure mean it still needs specialists and support.
 - **Top 10 — Vision Control (value): Yaogat MSV2 Spitfire or MULTI Sniper.** ([cross-faction A+ Smoke/MSV package](../list-building/vision-control-units-apex-and-value.md#L99)) Backed by **independently activated Dāturazi Smoke**, the package shifts FtF odds efficiently; this is a **package/role** shortlist, not a claim that a solo Yaogat beats the game's best long-range HMGs. See [vision control](../list-building/vision-control-units-apex-and-value.md).
