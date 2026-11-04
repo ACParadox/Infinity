@@ -33,7 +33,7 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
-| **Top 3 (#1) — Fast-ground/VH enemy-DZ breakthrough** | **Skyhound Plasma + AP Thunderbolt 33/0** | S apex / S value for practical flying rear-angle attacks: Mimetism(-6), Plasma/AP guns and Mine Dispenser; Hackable VH with No Cover, not deployment bypass; [Ranking #209](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L209) |
+| **Top 3 (#1) — Fast-ground/VH enemy-DZ breakthrough** | **Skyhound Plasma + AP Thunderbolt 33/0** | S apex / S value for practical flying rear-angle attacks: Mimetism(-6), Plasma/AP guns and Mine Dispenser; Hackable VH with No Cover, not deployment bypass; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L209) |
 
 
 - **Top 3 — Peripherals, Synchronized & Multi-Body Packages (apex+value): Gearhead + Sartroid Puzzlers.** ([cross-faction S Cyberplug package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62))
