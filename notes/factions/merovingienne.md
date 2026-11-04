@@ -8,6 +8,13 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
 
+#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
+
+| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
+|---|---|---|---|
+| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+| **Top 10 (#9) value — Cheerleaders / Order Generators** | **Métro 8/0 — Rifle + Chain-colt** | Native Regular S2, cheap template guard and FRRM Métro Fireteam base; limited reach and durability. [Roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | [Value #9](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
+
 #### BS Mod-Stacking — verified cross-faction Top 10
 
 These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
