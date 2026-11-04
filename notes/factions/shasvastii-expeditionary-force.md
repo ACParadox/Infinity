@@ -38,6 +38,7 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 |---|---|---|
 | **Top 5 (#4) — Dedicated CC Assassins (apex)** | [**Speculo Killer BSG 26/1**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L127) | CC22/MA3, Impersonation, Monofilament, Smoke; Exceptional deployment proximity and anti-premium damage; 1 SWC and screening are major costs. |
 | **Top 5 (#5) — Frontline CC Combatants (apex)** | [**Sheskiin MULTI Rifle 48/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L152) | CC24/MA4, DA, BS15, 2W, Protheion; Strong gun clears contact route; melee snowballs only against VITA victims. |
+| **Top 10 (#9) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (apex)** | **Gwailo MSV2 Heavy Rocket Launcher 39/1.5** | The 39pt HRL option combines MSV2, Albedo(-6) and Nanoscreen for anti-Mimetism/anti-visor exchanges; other Gwailo guns do not all carry MSV2 [#9 apex](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L42) |
 
 #### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
 
