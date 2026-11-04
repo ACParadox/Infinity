@@ -10,7 +10,7 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates for particular jobs*, not overall rankings. **Apex** is ceiling; **value** counts points, SWC and Orders. See [Hackers](../list-building/hackers-and-killer-hackers.md), [command units](../list-building/command-units-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [ARO guns](../list-building/aro-units-apex-and-value.md).
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
