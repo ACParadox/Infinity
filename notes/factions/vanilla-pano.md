@@ -16,6 +16,7 @@
 
 | Whole-game shortlist (specific job) | Vanilla PanO unit/profile | Why it stands out / limits |
 |---|---|---|
+| **Top 3 (#2) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Karhu Feuerbach(+1B) 34/1.5** | BS13, MSV1, Mimetism(-3), Climbing Plus and NCO; B3 AP+DA. **No WinterFor Fireteam bonuses in Vanilla** [[rank #2]](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L73). |
 | **Top 3 (#1) — Command Units (value)** | **BCA Magistrate Strategos LT, 19/0** | [S+ LT value](../list-building/command-units-apex-and-value.md#L111): Strategos L1, Counterintelligence and Specialist on a 19-point body. FT Master (Jackals) does **not** create Vanilla Fireteams; **CoC Magistrate 21/0** is a separate AVA1 alternative. |
 | **Top 5 (#4) — Peripherals, Synchronized & Multi-Body Packages (value)** | **Drummer FO + Drumbot-5 FO, 21/0** | [S multi-FO package](../list-building/peripheral-synchronized-multibody-apex-value.md#L84): two eligible FO attack origins from a synchronized activation plus bot HFT/Flash/360º, but **one pooled Order**, Peripheral Coherency and a fragile controller. |
 | **Top 3 (#1) — Active-Turn Gunfighters (apex)** | **Swiss Guard HMG, 56/1.5** | [S ranged infantry apex](../list-building/active-turn-gunfighters-apex-and-value.md#L34): BS15, Hidden, Mimetism(-6) and two Wounds; expensive/Hackable, not an automatic mission specialist. |
