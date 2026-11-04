@@ -8,7 +8,7 @@
 
 **Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
@@ -39,7 +39,6 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | **Top 10 (#10) — Fast-ground/VH enemy-DZ breakthrough** | **Hippolyta 37/0** | A+ apex / A value in breakthrough table: Mimetism(-6), Smoke, Super-Jump, EXP CC and 2W; costly on-table route, not AD; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L218) |
 
 **Distinctly strong in Torchlight, without a forced whole-game Top 5/10 label:**
-- **Silverstar Prime HMG 53/1.5:** now properly recorded above at **#4 non-TAG long-range gunfighter apex**; BS14/MSV1/BS Attack(-3)/Tactical Awareness, but **cannot join a Silverstars Fireteam**.
 - **Strider SO27/FO29:** Camo, FD(+20), NCO and independent mission pressure; points compete with other midfield specialists.
 - **Nimrod MSV2 28–29:** visor and vertical mobility with a distinctive Mobility-family route; remains a one-Wound midrange gun.
 
