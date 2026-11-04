@@ -12,6 +12,7 @@
 
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
+| **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
 | **Top 5 — Objective Holding / Zone Domination / Carried Objectives (value)** | **Karakuri FO 31/0** | Cross-faction **S+ value**: STR3, Enhanced Immunity and real scoring. **AVA2 in Ikari, but not Fireteam-linkable**; hacking/transit still matter. | [S+ Ikari Karakuri](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L174) |
 | **Top 5 — Warbands and Cheap Trading Units (value)** | **Motorized Yojimbo 20/0** | Smoke, CrazyKoala Minelayer, NWI, CC24/MA4/DA and mobility: **A+ cross-faction** value. Irregular/Impetuous, mutually exclusive with foot form. | [A+ Yojimbo](../list-building/warbands-and-cheap-trading-units-apex-value.md#L132) |
 | **Top 5 — Warbands and Cheap Trading Units (value)** | **Yuan Yuan 6/0** | Extremely inexpensive flank/smoke/Chain Rifle threat; Irregular, not a reliable scoring specialist. | [S Yuan Yuan](../list-building/warbands-and-cheap-trading-units-apex-value.md#L125) |
