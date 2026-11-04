@@ -29,6 +29,13 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 | **Top 3 (#1) — Frontline CC Combatants (apex)** | [**Achilles 62/1.5 or 63/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L148) | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons; Highest sustained direct-combat ceiling; huge Hackable investment and vulnerable to control networks. |
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
 
+#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
+
+| Cross-game rank / specific role | Legal profile | Why / limitations |
+|---|---|---|
+| **Top 3 (#1) — Fast-ground/VH enemy-DZ breakthrough** | **Skyhound Plasma + AP Thunderbolt 33/0** | S apex / S value for practical flying rear-angle attacks: Mimetism(-6), Plasma/AP guns and Mine Dispenser; Hackable VH with No Cover, not deployment bypass; [Ranking #209](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L209) |
+
+
 - **Top 3 — Peripherals, Synchronized & Multi-Body Packages (apex+value): Gearhead + Sartroid Puzzlers.** ([cross-faction S Cyberplug package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62))
   - **Gearhead Cyberplug 13/0 + Puzzler 12/0 = 25/0** ([cross-faction S one-Puzzler package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62)).
   - **Gearhead + two Puzzlers = 37/0** ([cross-faction S two-Puzzler package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62)).
