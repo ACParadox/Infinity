@@ -12,6 +12,17 @@
 
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#6) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L41) | **Kriza Borac HMG45/1.5** | BS13, active B5 via +1B and a persistent enemy BS Attack(−3), ARM5/2W: a repeatable long-lane FtF specialist. **Limit:** S5/Hackable and normal HMG ammo; heavy armored targets can save too many hits. |
+| **Top 3 (#3) — Non-TAG medium-range value (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L146) | **Corregidor Surface Territorial AP MMR29/0** | Marksmanship, TacAware, X-Visor, AP and 0SWC: very strong **midrange** repeated fire in the right roster. **Limit:** **Former S → A+ ranged** because MMR is not a full HMG lane substitute; team costs apply. |
+| **Top 10 (#10) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L251) | **Szalamandra HRMC68/2** | **BS14 AP HRMC, ARM8/BTS9/3W**, excellent front-breach raw fire for smaller investment than Marut/Cutter. **Limit:** 2SWC and hackable, lacks their strong first-shot MOD/asymmetric deployment. |
+| **Top 10 (#10) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L295) | **Gator MULTI HMG73/1.5** | BS14, ARM8/3STR, Tactical Awareness and NCO enable long-fire activity with points left for an alternative plan. **Limit:** S7 Hackable, ordinary visual FtF into high Mimetism. |
+
 | Whole-game role shortlist | Vanilla Nomads unit/profile | Why it stands out; caveat |
 |---|---|---|
 | **Top 3 (#1) — Budget CC Value (value; ≤22 pts)** | [**Chimera + 3 Pupniks 19/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L177) | CC24, NBW, Viral(PS6), Eclipse, three DA(PS7) Pupniks; Strong synchronized close-combat package and delivery; Impetuous/Irregular, templates and positioning matter. |
