@@ -12,15 +12,10 @@ The **delivery/survival** test matters more than bare CC stat.
 
 **Current N5.3 profile-by-profile tiers:** [Dedicated close-combat assassins/fighters — apex, value, delivery and Guard counters](../list-building/dedicated-close-combat-assassins-apex-value.md). That companion compares these units and roles with current costs and transcript evidence:
 
-- **Shinobu**
-- **Oniwaban**
-- **Musashi**
-- **Shikami**
-- **Fiday**
-- **Speculo**
-- **Andromeda**
-- **Cheap warbands**
-- **Anti-CC defenders**
+- **Dedicated assassins:** Shinobu, Oniwaban, Hussein, Speculo, Fiday, Saito, Cuervo, Kinnara, Nightshades, Ninjas and Nahab.
+- **Frontline contact fighters:** Achilles, Ajax, Hector, Shikami, Sheskiin, Hatamoto, Ioann Bann, Nourkias, Hippolyta and Mushashi.
+- **Budget melee value (≤22pt):** Chimera/Pupniks, Dāturazi, Mushashi, Liang Kai, Shona, Domaru, Shaolin, Makaul, Yamabushi and Hwarang.
+- **Guard and counter-CC:** Andromeda and Alpha for Guard; Hatamoto, Ajax, Mushashi, Señor Massacre, Valkyrie and Wulvers for contact defense.
 
 This file remains the detailed procedure/positioning guide.
 
@@ -41,7 +36,7 @@ This guide is the home for **0–16in breaches, room/doorway clearance, 8–24in
 
 **Battle-report calibration:** [#182 Sheskiin's forward pressure](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) is relevant to her *short-assault* ceiling; [#202 Sheskiin > Gwailo](../battle-reports/201-210-n5-battle-report-tactical-analysis.md) was only a player's preference, **not an equal tested comparison**. [#001/#156 Achilles](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) and [#197 Achilles counterexample](../battle-reports/191-200-n5-battle-report-tactical-analysis.md) require measuring support, role and Orders. [#005 Redeye](../battle-reports/001-010-n5-battle-report-tactical-analysis.md), [#158 Redeye](../battle-reports/151-160-n5-battle-report-tactical-analysis.md), and [#231 Sphinx](../battle-reports/231-240-n5-battle-report-tactical-analysis.md) show why kills/flanks must be followed by scoring.
 
-**Role boundary:** Pure melee assassins (Shinobu, Oniwaban, Musashi, Fiday, Speculo) keep their deeper [dedicated CC tiers](../list-building/dedicated-close-combat-assassins-apex-value.md); this table focuses on **shoot/CC hybrids and close-range guns** previously overrated as general active-turn gunfighters. The [ranged guide](../list-building/active-turn-gunfighters-apex-and-value.md) now weights **40% FtF range, 25% conversion at range, 15% repeat survivability, 10% angle economy, 10% price/support** and **does not credit CC/Protheion to ranged apex**.
+**Role boundary:** Dedicated contact assassins (Shinobu, Oniwaban, Fiday, Speculo, Cuervo) and frontline melee fighters (including Mushashi) keep their deeper [dedicated CC tiers](../list-building/dedicated-close-combat-assassins-apex-value.md); this table focuses on **shoot/CC hybrids and close-range guns** previously overrated as general active-turn gunfighters. The [ranged guide](../list-building/active-turn-gunfighters-apex-and-value.md) now weights **40% FtF range, 25% conversion at range, 15% repeat survivability, 10% angle economy, 10% price/support** and **does not credit CC/Protheion to ranged apex**.
 
 Close Combat in Infinity is not simply a contest between models with high CC Attributes. Its strategic value is that it can **change the type of contest**, shut down a powerful shooter, exploit vision control, convert cheap bodies into control pieces, or finish a target that has already been disabled by hacking, E/M, PARA, or other effects.
 
