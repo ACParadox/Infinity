@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official ranks, tournament pick rates or claims that a unit is among the ten best overall.** **Apex** is the peak capability for the named job; **value** includes points, SWC and Order investment. The cross-faction [ARO](../list-building/aro-units-apex-and-value.md), [TAG](../list-building/tags.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Doctor/recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [close combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [cheap units](../list-building/best-cheap-units.md), and [Order economy](../list-building/cheerleaders-and-order-generators.md) analyses support the comparisons. A **Top 5 cheap defender** below refers to the **cheap defensive-enabler subgroup**, not to fourth overall across all inexpensive troops.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
