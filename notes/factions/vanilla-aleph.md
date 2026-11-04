@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial candidates *within the specific job named*, not measured pick-rate rankings, tournament statistics, or claims that these are the best units overall.** **Apex** measures the capability ceiling; **value** measures that capability for the *complete* points/SWC/Order investment. These shortlists draw on the repository's [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [TAG](../list-building/tags.md), [Vehicle](../list-building/vehicles-vh.md), [toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), and [cheap-Order](../list-building/cheerleaders-and-order-generators.md) comparisons.
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
@@ -20,6 +20,8 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | **Top 10 (#8) — Non-TAG medium-range apex (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L74) | **Asura AP Spitfire61/1.5** | BS14, MSV3 and AP make **16–24in** anti-Mimetism/anti-armor exchanges excellent. **Limit:** Not an HMG at 24–32in; high points/hackability and mission-specialist opportunity cost prevent S ranged grade. |
 | **Top 5 (#4) — Non-TAG medium-range value (A+ (aerial, conditional))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L147) | **Tarkshya MULTI MMR34/0** | **34pt/0SWC**, BS13/MSV1, Mimetism−6, STR3 Remote Presence, aerial angles and a bundled Operator are unusual **all-in** midrange efficiency. MMR/Chain Rifle is this profile; **38/0 MMR + AP SMG** trades points for short armor access. **Limit:** S7 No Cover, Hackable; 16–24in MMR is not 24–32in HMG. The 41pt MULTI Red Fury is **excluded** by the under-40pt value cutoff. The 34pt MULTI MMR is legal here; do not copy OSS Fireteam bonuses. |
 | **Top 3 (#1) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L242) | **Marut MULTI HMG86/1.5** | **BS15, MSV2, ARM8/BTS9, TacAware**, one of the strongest solutions to high-Mimetism/Smoke **long** ARO gunlines. **Limit:** No special payoff when enemy has no Mimetism/visual defense; expensive Hackable and Engineer dependency. Use the Vanilla ALEPH Marut profile without importing OSS team support. |
+
+**Profile exclusion:** Vanilla ALEPH's Satrah has a plain Thunderbolt 24/0 rather than OSS's Thunderbolt (+1B) 24/0, so the OSS-only #7 long-range value / #1 medium-range value placement is **not** transferred.
 
 | Whole-game role shortlist | Standout legal Vanilla profile/package | Why it merits the shortlist — and the limit | Cross-faction ranking evidence |
 |---|---|---|---|
