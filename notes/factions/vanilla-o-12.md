@@ -8,7 +8,7 @@
 
 **Top 3 / Top 5 / Top 10 below are editorial, role-specific cross-faction *shortlist candidates*, not official absolute ranks or measured win rates.** Apex means peak impact in the indicated job; value considers points, SWC and Orders. The relevant cross-faction comparisons are [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield defense](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [networks](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
-#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
