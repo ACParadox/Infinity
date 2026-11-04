@@ -14,6 +14,7 @@
 
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
+| **Top 10 (#7) — Budget CC value (≤22pt)** | **Shaolin Chain Rifle + Smoke + DA CCW 6/0** | CC23/MA3, Smoke and DA PS5 offer excellent low-cost melee threat, with Irregular+Impetuous/No Cover costs. | [#7 budget CC](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L183) |
 | **Top 5 — BS Mod-Stacking Units (apex)** | **Hac Tao NCO HMG 59/1.5** | **S/A+** cross-faction gunfighter: BS14, Hidden Deployment, Mimetism(-6), ARM5/two Wounds and meaningful long-range damage. Hackable and expensive; do **not** assume MSV from contradictory older summaries without checking the pinned profile. | [S apex / A value](../list-building/bs-mod-stacking-units-apex-and-value.md#L139) |
 | **Top 5 — Command Units (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command efficiency** from a camouflaged LT and two LT Orders. Requires a useful legal NCO recipient; personal LT Orders are not pooled Regular Orders. | [S — LT value](../list-building/command-units-apex-and-value.md#L113) |
 | **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Gūdǎn SMG + Zapper 12/0** | **A+ apex / S value** forward Camo(1 Use) plus short E/M direct template. Its Shock Mine is carried, not placed for free. | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L77) |
