@@ -10,6 +10,14 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates for particular jobs*, not overall rankings. **Apex** is ceiling; **value** counts points, SWC and Orders. See [Hackers](../list-building/hackers-and-killer-hackers.md), [command units](../list-building/command-units-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [ARO guns](../list-building/aro-units-apex-and-value.md).
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 5 (#4) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L102) | **Nisse HMG31/1.5** | **Former A → A+:** inexpensive BS13/MSV2/Mimetism−3 *long* gun. **Limit:** 1W and smoke/White Noise positioning limits; no claim of universal #241 performance. This Nisse HMG is legal in White Company; it is the **Nisse** #4 long-range value placement, not Hannibal's NCA/WinterFor-only +1SD value assessment. |
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 5 (#4) — Budget CC Value (value; ≤22 pts)** | **Liang Kai 21/0** | CC23/MA4, EXP, Berserk, FD(+10), Super-Jump, NWI; Strong penetrating melee with modest forward start; one Wound plus NWI. | [#4 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L180) |
