@@ -8,6 +8,17 @@
 
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
+#### BS Mod-Stacking — verified cross-faction Top 10
+
+These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
+
+| Cross-faction role and rank | Legal faction profile | Why it matters and its limit |
+|---|---|---|
+| **Top 3 (#1) — Active-turn BS stacking (S / S)** | **Kazak Spetsnaz Camo HMG 36/1.5** | Marksmanship + Mimetism (-3) + Camouflage/Surprise; HMG can repeatedly remove covered long-range AROs. **Limit:** W1; MSV/anti-visor tech, weak high-ARM conversion. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) |
+| **Top 10 (#8) — Reactive BS stacking (A / A (ARO))** | **Frontovik MSV1 AP Sniper 28/.5** | Mimetism (-3) + **AP Sniper-profile MSV1** + Warhorse, possible legal TAK Fireteam. **Limit:** W1; long sniper but not MSV2 or Neuro. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
+| **Top 10 (#10) — Reactive BS stacking (A / A (sniper))** | **Knauf MULTI Sniper 31/1.5** | MSV1 + Mimetism (-3), Surprise Attack and Decoy on a BS13 sniper. **Limit:** W1/ARM1; Surprise is an eligible active marker opening, not free every shot. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
+
+
 - **Top 3 (#1) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**TankHunter Portable Autocannon(+1B), 36/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L72) — Vanilla-only B2 AP+EXP from Camouflage/Mimetism(-3); the TAK autocannon has no +1B. **This is not a Top-10 points-value placement (#35 AP HMG is separate).**
 - **Top 5 (#4) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**TankHunter AP HMG, 33/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L75) — B4 AP from Camo is the repeatable active-turn anti-armor counterpart; it is **#35 in the separate points-value table**.
 - **Top 10 (#8) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Veteran Kazak AP HMG, 45/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L79) — AP HMG with NWI, Mimetism(-3), Sixth Sense and Immunity(IMM-B); no automatic 2-Wound upgrade.
