@@ -39,7 +39,7 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
-| **Top 3 (#3 apex / #2 value) — Airborne/DZ attackers** | **Rasyat BSG 25/0 (Spitfire 34/1.5 apex alternative)** | S apex / S+ value: guaranteed legal enemy-DZ edge entry with Eclipse, reliable no-drop-roll backline pressure; edge AROs still matter; [Apex #117](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L117) / [Value #2](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L153) |
+| **Top 3 (#3 apex / #2 value) — Airborne/DZ attackers** | **Rasyat BSG 25/0 (Spitfire 34/1.5 apex alternative)** | S apex / S+ value: guaranteed legal enemy-DZ edge entry with Eclipse, reliable no-drop-roll backline pressure; edge AROs still matter; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L117) / [Value #2](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L153) |
 
 
 - **Top 10 (#9) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Kurgat Portable Autocannon, 30/1**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L80) — Morat foundation Engineer with repeatable B2 AP+EXP, D-Charges and 1 SWC; BS12/one Wound make support and safe lanes important.
