@@ -12,17 +12,11 @@
 
 **Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#6) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L41) | **Kriza Borac HMG45/1.5** | BS13, active B5 via +1B and a persistent enemy BS Attack(−3), ARM5/2W: a repeatable long-lane FtF specialist. **Limit:** S5/Hackable and normal HMG ammo; heavy armored targets can save too many hits. |
-| **Top 10 (#10) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L251) | **Szalamandra HRMC68/2** | **BS14 AP HRMC, ARM8/BTS9/3W**, excellent front-breach raw fire for smaller investment than Marut/Cutter. **Limit:** 2SWC and hackable, lacks their strong first-shot MOD/asymmetric deployment. |
 
 | Whole-game role shortlist | Tunguska unit/profile | Why it stands out; caveat |
 |---|---|---|
+| **Top 10 (#6) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L41) | **Kriza Borac HMG45/1.5** | BS13, active B5 via +1B and a persistent enemy BS Attack(−3), ARM5/2W: a repeatable long-lane FtF specialist. **Limit:** S5/Hackable and normal HMG ammo; heavy armored targets can save too many hits. |
+| **Top 10 (#10) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L251) | **Szalamandra HRMC68/2** | **BS14 AP HRMC, ARM8/BTS9/3W**, excellent front-breach raw fire for smaller investment than Marut/Cutter. **Limit:** 2SWC and hackable, lacks their strong first-shot MOD/asymmetric deployment. |
 | **Top 10 (#7) — Contact Counter-Assault / Anti-Elite CC (apex)** | [**Raoul Spector Combat Jump 33/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L224) | MA3 + NBW, CC22, E/M(PS6), 2W, Mimetism(-6); Excellent melee deterrent after landing/positioning; premium cost and Irregular AD option. |
 | **Top 3 — Hybrid Hackers (apex+value)** · [**dual HD/KHD hybrid: S apex / S value**](../list-building/hackers-and-killer-hackers.md#strongest-hybrid-profiles--apex) | **Mary Problems HD + KHD hybrid, 27/0.5** | WIP14, Mimetism(-6), FD, Climbing Plus and Pitcher with offensive and counter-hacking programs; **S/S** in the cross-faction hacker analysis. Exposure is greater than for a protected backline hacker. **Revised Hacker guide:** Mary carries both HD and KHD program packages in the same profile (HD with Oblivion upgrade plus KHD with Trinity upgrade), not an automatically implied HD+ suite. S/S is the hybrid rating. |
 | **Top 3 — Cheerleaders and Order Generators (value)** · [S command value](../list-building/cheerleaders-and-order-generators.md#L149) | **Puppet Master, 11/0** | Very inexpensive Regular Order plus Counterintelligence and an optional remotely controlled defense package. **PuppetBots cost extra** and do not provide their own Regular Orders. |
