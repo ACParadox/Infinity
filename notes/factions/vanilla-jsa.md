@@ -51,6 +51,7 @@ The usual payoff is **concealment and route creation → one precise assault or 
 | **Top 10 (#6) — Airborne/DZ attackers (apex)** | **Shinobu Kitsune 44/.5** | A+ apex: Hidden Deployment, Infiltration, Mimetism(-6), MA5/Monofilament and Smoke; W1, must cross DZ defenses; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L120) |
 | **Top 10 (#9) — Airborne/DZ attackers (apex)** | **Oniwaban SMG 29/0** | A+ apex: Hidden/Infiltration, MA4, Monofilament, Mimetism(-6); far cheaper than Shinobu but cannot assume free DZ insertion; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L123) |
 | **Top 10 (#10) — Airborne/DZ attackers (apex)** | **Saito Tōgan T2 BSG + EXP CCW 33/0** | A+ apex: Hidden/Infiltration and Smoke offer strong attack geometry; one Wound and screens constrain repeat kills; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L124) |
+| **Top 3 (#3) — Nanoscreen / Albedo (A+ / A+)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#nanoscreen-albedo-and-asymmetric-protection--their-own-niche) | **Hatamoto Red Fury NCO 40/1** | Mimetism (-3) + Nanoscreen, W2, X-Visor and NCO for resilient medium-range pressure. **Limit:** BS13, Red Fury band; Spitfire41/1.5 separate. |
 
 **Top CC threats are not interchangeable:**
 
