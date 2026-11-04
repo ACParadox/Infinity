@@ -8,6 +8,15 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#1) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L99) | **Tankhunter Camo AP HMG33/1.5** | BS13, Camouflage/Surprise, Mimetism−3 and AP HMG combine a credible asymmetric 24–32in opener with armor conversion for just 33pts. **Limit:** W1/BTS0; unlike Spetsnaz, has no Marksmanship, so covered defenders still impose −3. |
+| **Top 3 (#3) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L101) | **Kazak Spetsnaz Camo HMG36/1.5** | BS12, Marksmanship, Mimetism−3, Camo and Surprise offer a great 36pt covered-ARO opener; **value remains high but sustained all-comers shooting trails Veteran Kazak/Kosmosoldat**. **Limit:** 1W/BTS0, no AP and no durable repeat shots once revealed; do not confuse value with apex. |
+
 #### Cross-faction Top 10 CC standings
 
 | Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
