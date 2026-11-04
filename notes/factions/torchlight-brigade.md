@@ -8,6 +8,15 @@
 
 **Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 5 (#4) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L39) | **Silverstar Prime HMG53/1.5** | BS14, MSV1, BS Attack(−3), HMG PS4, ARM5/2W, Tactical Awareness stack repeatable shooting and staying power. **Limit:** S5/Hackable; do not grant the Prime a nonexistent Silverstars Fireteam slot. |
+| **Top 10 (#8) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L293) | **Wrecker HMG57/1.5 + Zetbot** | BS13, ARM6/3STR, Tactical Awareness and ancillary Zetbot for only 57pt/1.5SWC; HMG reaches credible long lanes without a premium TAG price. **Limit:** No native MSV/Mimetism or primary AP ammo, and hacking/E/M screening still needed. Ancillary does not produce an extra pooled Order. |
+
 
 **Source-link precision:** each linked name opens a cross-faction tier/ranking row. Some categories rank the **base unit or package**, not every optional upgrade independently (notably **Oko 15pt** versus **Oko Tactical Awareness 18pt**); do not read the linked tier as a separately proven rank for that exact upgrade.
 
@@ -30,7 +39,7 @@
 | **Top 10 (#10) — Fast-ground/VH enemy-DZ breakthrough** | **Hippolyta 37/0** | A+ apex / A value in breakthrough table: Mimetism(-6), Smoke, Super-Jump, EXP CC and 2W; costly on-table route, not AD; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L218) |
 
 **Distinctly strong in Torchlight, without a forced whole-game Top 5/10 label:**
-- **Silverstar Prime HMG 53/1.5:** BS14, MSV1, Tactical Awareness and a strong independent gun; **cannot join a Silverstars Fireteam**.
+- **Silverstar Prime HMG 53/1.5:** now properly recorded above at **#4 non-TAG long-range gunfighter apex**; BS14/MSV1/BS Attack(-3)/Tactical Awareness, but **cannot join a Silverstars Fireteam**.
 - **Strider SO27/FO29:** Camo, FD(+20), NCO and independent mission pressure; points compete with other midfield specialists.
 - **Nimrod MSV2 28–29:** visor and vertical mobility with a distinctive Mobility-family route; remains a one-Wound midrange gun.
 
