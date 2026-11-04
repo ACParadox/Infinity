@@ -28,7 +28,7 @@
 
 **Other noteworthy profiles (including TAG apex):**
 - **#21 — ARO Units (value)**: [**Bolt Missile Launcher, 24/1.5**](../list-building/aro-units-apex-and-value.md#L123) — [A+ linked ARO](../list-building/aro-units-apex-and-value.md#L123): Marksmanship and legal Neoterra team bonuses for relatively few points; W1 and the cost of building the team limit it.
-- **#8 — Active-Turn Gunfighters (TAG apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L293) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L293): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
+- **#8 — Active-Turn Gunfighters (TAG apex)**: [**Uhlan Feuerbach, 70/1.5**, or **Spitfire/AP HRL, 80/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L304) — [A+ camouflaged TAG ceiling](../list-building/active-turn-gunfighters-apex-and-value.md#L304): Surprise and unusual attack geometry. Feuerbach favors long lanes; Spitfire/HRL buys a forward push. **Uhlan has no NCA Fireteam access.**
 
 
 ### Particularly strong or unusual Fireteams
