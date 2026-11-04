@@ -8,6 +8,16 @@
 
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 3 (#1) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L99) | **Tankhunter Camo AP HMG33/1.5** | BS13, Camouflage/Surprise, Mimetism−3 and AP HMG combine a credible asymmetric 24–32in opener with armor conversion for just 33pts. **Limit:** W1/BTS0; unlike Spetsnaz, has no Marksmanship, so covered defenders still impose −3. The reference ranks the same AP HMG profile using TAK as exemplar. |
+| **Top 3 (#2) — Non-TAG long-range value (A+ (armor-selective))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L100) | **Vanilla Ariadna Tankhunter Portable Autocannon(+1B)36/1.5** | BS13, Camo/Mimetism−3, Surprise and **active B3 AP+EXP** make a 36pt long-band anti-TAG specialist with excellent lethal returns for successful FtF hits. **Limit:** Not the TAK B2 profile. Only 1W/BTS0, fewer dice than AP HMG and no Marksmanship; specialized damage is not universal clearing value. |
+| **Top 3 (#3) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L101) | **Kazak Spetsnaz Camo HMG36/1.5** | BS12, Marksmanship, Mimetism−3, Camo and Surprise offer a great 36pt covered-ARO opener; **value remains high but sustained all-comers shooting trails Veteran Kazak/Kosmosoldat**. **Limit:** 1W/BTS0, no AP and no durable repeat shots once revealed; do not confuse value with apex. |
+
 #### BS Mod-Stacking — verified cross-faction Top 10
 
 These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
