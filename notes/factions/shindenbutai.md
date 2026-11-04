@@ -22,6 +22,15 @@ The standout independent modules are:
 
 The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-faction shortlist *candidates***, **not** official ranks, tournament win-rate statistics, or a claim that a unit is among the ten best units *overall*. The job and price bracket matter: *best support Hacker*, *best fighting Lieutenant*, and *best cheap trade* are different rankings. These assessments are anchored to the repository's [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) comparisons. **Apex** means maximum impact in the right matchup; **value** means capability relative to points/SWC and Orders.
 
+#### Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
+
+| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+|---|---|---|
+| **Top 10 (#10) — Non-TAG medium-range apex (A+ (mid))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L76) | **Hatamoto Red Fury NCO40/1** | BS13 B4 Red Fury, Mimetism−3, Nanoscreen, X-Visor, 2W, NCO and 15-5 mobility make reliable **general midrange** attacks; providing strong independent midrange angles without paying for long-lane reach. **Limit:** No MSV/Marksmanship/AP on this **40/1 Red Fury** profile. NCO, Specialist and CC23/MA4/Monofilament improve the whole unit but must not raise its ranged apex above actual shooting. |
+| **Top 10 (#9) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L107) | **Tanuki MSV2 HMG29/1.5** | Very economical BS13/MSV2 HMG; excellent affordable anti-Mimetism full-length lane gun. **Limit:** Only W1; team/opponent support and Smoke/White Noise matter. |
+
 | Whole-game role shortlist | Shindenbutai unit / profile | Why it stands out; limits |
 |---|---|---|
 | **Top 10 (#6) — Dedicated CC Assassins (apex)** | [**Saito Tōgan 33/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L129) | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun; Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. |
