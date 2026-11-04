@@ -10,56 +10,24 @@ _Updated 2026-11-03, second-pass roster-filter value audit. Ranged-role tier reb
 
 | Job | Strong choices | **Why / when** |
 |---|---|---|
-| **Best infantry/REM sustained 16–32in shooting ceiling** | **Swiss Guard HMG, Hac Tao HMG, Gamma HMG, Silverstar Prime HMG, Charontid AP HMG, Aquila Guard HMG, Yan Huǒ HRMC** | Long-range positive bands, effective FtF dice and repeat fire; the Swiss Guard has the clearest asymmetric apex. Sheskiin/Achilles are short-assault threats, not S-tier long guns. |
-| **Best infantry/REM ranged points value** | **Posthuman Mk.4 HMG (legal package), Kazak Spetsnaz HMG, Tankhunter AP HMG, Crosier MSV2 HMG (existing legal team), Satrah Thunderbolt(+1B), Bào Thunderbolt(+1B), Kamau HMG, Kriza HMG, Tanuki HMG, Zhayedan HMG** | Credible long-lane shots with an affordable package; Hetkari Red Fury/Territorial AP MMR are strong *medium-range* alternatives, not universal 32in replacements. |
-| **Best mobile medium-range support fire** | **Skyhound AP/Plasma Thunderbolt, Firebat Thunderbolt, Vostok Mk12/Spitfire; Redeye Spitfire only situationally** | Mobility can solve angles, but a short gun on a No Cover, hackable flier is not automatically an elite *long-range* gun. |
-| **Best TAG maximum gun ceiling** | **Marut, Cutter, Avatar, Zeta, Overdron, Maximus TAG**, with **Jotum** into mostly conventional fire | Premium high-volume fire and often powerful MSV, hidden timing, armor, Climbing, Albedo or unconventional ammo. |
-| **Best TAG value** | **Squalos Mk-II, Overdron, Tikbalang, Agamemnon, Gator, Lóngwáng, Wrecker, Lizard** | Enough gun and durability without suppressing the rest of a 300-point army; extra self-funded activations matter when actually used. |
-| **Best anti-camouflage** | **Asura/Charontid/Aquila MSV3; Marut MSV2; Epsilon, Hsien, Mukhtar MSV2; Nisse, Intruder** | Reduce an opposing -3/-6 visibility problem rather than trying to roll more losing dice. |
-| **Best anti-Cover gun** | **Hetkari, Kazak Spetsnaz, Corregidor Territorial; REM with already-justified Assisted Fire** | Marksmanship ignores **-3 to shooting for Partial Cover**, not the defender's saving benefit; it can be countered by White Noise/Albedo. |
-| **Best hard-armor gun** | **Overdron/Zeta HRMC, Yan Huǒ HRMC, Charontid AP HMG, Agamemnon AP HMG, Veteran Kazak AP HMG, Maximus Agent AP Thunderbolt** | AP or selectable MULTI ammunition converts hits into effects; a plain high-Burst HMG may just create saved hits. |
+| **Best infantry/REM sustained 16–32in shooting ceiling** | <ul><li><strong>Swiss Guard HMG</strong></li><li><strong>Hac Tao HMG</strong></li><li><strong>Gamma HMG</strong></li><li><strong>Silverstar Prime HMG</strong></li><li><strong>Charontid AP HMG</strong></li><li><strong>Aquila Guard HMG</strong></li><li><strong>Yan Huǒ HRMC</strong></li></ul> | Long-range positive bands, effective FtF dice and repeat fire; the Swiss Guard has the clearest asymmetric apex. Sheskiin/Achilles are short-assault threats, not S-tier long guns. |
+| **Best infantry/REM ranged points value** | <ul><li><strong>Posthuman Mk.4 HMG (legal package)</strong></li><li><strong>Kazak Spetsnaz HMG</strong></li><li><strong>Tankhunter AP HMG</strong></li><li><strong>Crosier MSV2 HMG (existing legal team)</strong></li><li><strong>Satrah Thunderbolt(+1B)</strong></li><li><strong>Bào Thunderbolt(+1B)</strong></li><li><strong>Kamau HMG</strong></li><li><strong>Kriza HMG</strong></li><li><strong>Tanuki HMG</strong></li><li><strong>Zhayedan HMG</strong></li></ul> | Credible long-lane shots with an affordable package; Hetkari Red Fury/Territorial AP MMR are strong *medium-range* alternatives, not universal 32in replacements. |
+| **Best mobile medium-range support fire** | <ul><li><strong>Skyhound AP/Plasma Thunderbolt</strong></li><li><strong>Firebat Thunderbolt</strong></li><li><strong>Vostok Mk12/Spitfire</strong></li><li><strong>Redeye Spitfire (situational)</strong></li></ul> | Mobility can solve angles, but a short gun on a No Cover, hackable flier is not automatically an elite *long-range* gun. |
+| **Best TAG maximum gun ceiling** | <ul><li><strong>Marut</strong></li><li><strong>Cutter</strong></li><li><strong>Avatar</strong></li><li><strong>Zeta</strong></li><li><strong>Overdron</strong></li><li><strong>Maximus TAG</strong></li><li><strong>Jotum (vs conventional fire)</strong></li></ul> | Premium high-volume fire and often powerful MSV, hidden timing, armor, Climbing, Albedo or unconventional ammo. |
+| **Best TAG value** | <ul><li><strong>Squalos Mk-II</strong></li><li><strong>Overdron</strong></li><li><strong>Tikbalang</strong></li><li><strong>Agamemnon</strong></li><li><strong>Gator</strong></li><li><strong>Lóngwáng</strong></li><li><strong>Wrecker</strong></li><li><strong>Lizard</strong></li></ul> | Enough gun and durability without suppressing the rest of a 300-point army; extra self-funded activations matter when actually used. |
+| **Best anti-camouflage** | <ul><li><strong>Asura MSV3</strong></li><li><strong>Charontid MSV3</strong></li><li><strong>Aquila MSV3</strong></li><li><strong>Marut MSV2</strong></li><li><strong>Epsilon MSV2</strong></li><li><strong>Hsien MSV2</strong></li><li><strong>Mukhtar MSV2</strong></li><li><strong>Nisse</strong></li><li><strong>Intruder</strong></li></ul> | Reduce an opposing -3/-6 visibility problem rather than trying to roll more losing dice. |
+| **Best anti-Cover gun** | <ul><li><strong>Hetkari</strong></li><li><strong>Kazak Spetsnaz</strong></li><li><strong>Corregidor Territorial</strong></li><li><strong>REM with already-justified Assisted Fire</strong></li></ul> | Marksmanship ignores **-3 to shooting for Partial Cover**, not the defender's saving benefit; it can be countered by White Noise/Albedo. |
+| **Best hard-armor gun** | <ul><li><strong>Overdron HRMC</strong></li><li><strong>Zeta HRMC</strong></li><li><strong>Yan Huǒ HRMC</strong></li><li><strong>Charontid AP HMG</strong></li><li><strong>Agamemnon AP HMG</strong></li><li><strong>Veteran Kazak AP HMG</strong></li><li><strong>Maximus Agent AP Thunderbolt</strong></li></ul> | AP or selectable MULTI ammunition converts hits into effects; a plain high-Burst HMG may just create saved hits. |
 
 **Apex** asks: _How effectively does the specified weapon/profile win medium/long ranged fights against realistic defenders?_ **Value** asks: _Is that ranged performance worth its own points + SWC + approach Orders + team/support/recovery + roster slot?_ **S** is an exceptional ranged ceiling, **A** strong, **B** conditional/secondary, **C** poor relative fit. **Apex and value are distinct**, and rows within a tier are not strict ordering.
 
-### Ranged-first assessment rubric (revised 2026-11-02)
-
-This is a **qualitative weighting policy**, not pretend measured percentages or unit win rates:
-
-| Weight | Ranged evaluation axis | What counts / does not count |
-|---|---|---|
-| **40%** | **16–32in ranged FtF, with emphasis on credible 24–32in engagements** | Printed weapon bands, active Burst/SD, BS, Cover/Mimetism/MSV/Marksmanship, enemy ARO. A Red Fury or Spitfire may be strong at 16–24in but does not inherit HMG-quality 24–32in play. |
-| **25%** | **Damage/conversion and target diversity at that range** | AP/HRMC/MULTI or appropriate ammunition versus HI/TAG; ability to remove more than cheap light infantry. Close-range templates, Protheion and CC kill chains **earn no credit here**. |
-| **15%** | **Survival for repeat ranged engagements** | ARM/Wounds/STR, Mimetism, Hidden entry, safe extraction/recovery. No Cover, hackers, E/M and exposed return fire are real penalties. |
-| **10%** | **Reaching/repositioning between useful ranged lines** | Climbing, height, deployment and movement, **only** insofar as they create or improve 16–32in shots. Speed to reach base contact is short-assault value instead. |
-| **10%** | **Ranged contribution per full roster cost** | Actual points/SWC, existing legal Fireteam, support and usable activations; value tier applies an additional explicit opportunity-cost check. |
-
-**Hard separation:** A model that cannot credibly contest a medium/long firelane must **not** receive an S or A+ ranged ranking merely for having elite BS, CC, speed, a short-range gun, or a spectacular first-turn alpha. Rate **individual gun profiles**, not blended fictional combinations. For 0–16in or mixed close/midrange play, see the [short-assault comparison](../Strategy/close-combat-and-short-range-assault.md). Report evidence informs *context and confidence*, not unsupported statistical grades.
-
-## 1. Firepower versus **actual** Order efficiency
-
-A good gunfighter wins the **right** Face-to-Face fight, converts hits to consequences, and still contributes after the first target dies. Compare six steps:
-
-1. **Reach:** count Orders to get into positive weapon range and a workable angle. A 20-5 flyer, infiltrator, or Climbing unit may pay **zero or one** approach Order where a BS15 heavy gun pays three.
-2. **Win the FtF:** use the **real active Burst**, modified BS/PH target number, range, Cover, Mimetism, MSV, Marksmanship and enemy ARO. High Burst improves *consistency*, while high target numbers help defeat a strong enemy die.
-3. **Convert hits:** account for current **PS/ammunition** and target armor/BTS/Wounds/STR/Immunities. In N5 **lower PS is more lethal**; AP, DA, EXP, K1, Plasma, Viral and E/M have **different** ideal victims.
-4. **Continue:** after target one, can the same position hit exposed support, Specialist, Repeater, Engineer, second gun or scoring lane—or must it move through another three Orders?
-5. **Survive/exit:** ending prone, out of LoF, behind screen, or recoverable near Engineer may be worth an Order. An exposed 50pt one-wound shooter is not automatically value because it killed 20 points first.
-6. **Pay full list cost:** add 2–4 required Fireteam fillers, smoke, hacking, Engineer, EVO, SWC and the fact that 90–122pt TAGs can prevent buying an independent second attack plan.
-
-**Fast heuristic:** _useful enemy Orders denied + objectives opened + attacks won_, divided by _setup + movement + attack + exit Orders_; compare catastrophic losses and alternative shooters. This is a **decision aid**, not a fake precise score or unsupported mathematical kill percentage.
-
-**Rules traps:**
-- **+1 Special Die (SD) is not +1 Burst.** Roll the extra die and discard one before resolving; it improves the FtF but does not generate another effective hit. A legal Fireteam activates its members together, **one nominated leader makes the active attack**.
-- **Marksmanship** ignores the negative BS MOD from Partial Cover/Nanoscreen, **not** Cover's improved save. It does **not** ignore Mimetism or range. Marksmanship itself is affected by White Noise/Albedo/Reflective interactions; do not silently score it as universal +3.
-- **MSV** answers suitable visual MODs; **Albedo and White Noise** can invert the matchup. Mimetism has less value into the correct MSV level.
-- **A profile with a personal extra Order** only increases efficiency if that activation is **actually usable** on the shooter or its legal team; it does not become a free pooled Order. Count Fireteam **composition** and mobility restrictions, not just printed bonuses.
-- Avoid assigning fake weapon Burst or success probabilities from a video. Current [weapon chart and update](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) and explicit active/reactive dice decide a particular exchange.
-
----
-
-## 2. Non-TAG gunfighters — **ranged apex** ceilings
+## 1. Non-TAG gunfighters — **ranged apex** ceilings
 
 Infantry/REMs/VH only. **S** requires an exceptional plan for repeated medium/long shooting, not simply a devastating assault turn. The 16–24in mid-band remains useful, but lack of credible 24–32in play caps an otherwise excellent *shorter-ranged* attacker. VH still suffer **No Cover** and specialist recovery risk; see [vehicles](vehicles-vh.md).
+
+**Range classification:** Long-range covers reliable 24–32in or farther engagements (HMG, HRMC, sniper, Feuerbach and 16–32in Thunderbolt). Medium-range prioritizes 8–24in or 16–24in attacks (Marksman Rifle, Red Fury, Spitfire, Mk12). Strong 16–32in Thunderbolt platforms appear in **both** lists intentionally; the same profile is not an additional army-list option. **# ranks restart within each range** and preserve the source tier order, not measured win rates.
+
+### Long-range — 24–32in and farther
 
 | # | Apex | Current example / roster | **Ranged case** | **Constraint / what belongs in short assault** |
 |---|---|---|---|---|
@@ -80,27 +48,39 @@ Infantry/REMs/VH only. **S** requires an exceptional plan for repeated medium/lo
 | 15 | **A+** | **Intruder HMG38/1.5 — Nomads/Corregidor** | MSV2 with Camo/Mimetism−3 and separately funded smoke gives asymmetric **long-range** attacks. | 1W, smoke costs Orders and White Noise can shut down the preferred fight. |
 | 16 | **A+** | **Epsilon HMG34/1.5 — O-12** | MSV2, Mimetism−3, Climbing Plus: affordable ranged counter to Mimetism and Smoke-dependent defenders. #041 shows the smoke/visor *mechanism*, not an automatic TAG kill. | 1W, weak solo recovery, not Gamma-level raw Burst. |
 | 17 | **A+ (long, selective)** | **Atalanta MULTI Sniper38/1.5 — Steel** | BS15/MSV2, Marksmanship, Hidden Deployment and Surprise Attack: excellent selective long first-contact FtF through Cover/Mimetism. | Sniper active Burst2; 1W, close-range dead zone and poor repeated anti-swarm efficiency; 41pt Total Reaction is a *different* primarily reactive profile. |
-| 18 | **A+ (mid)** | **Asura AP Spitfire61/1.5 — ALEPH/OSS** | BS14, MSV3 and AP make **16–24in** anti-Mimetism/anti-armor exchanges excellent. | Not an HMG at 24–32in; high points/hackability and mission-specialist opportunity cost prevent S ranged grade. |
-| 19 | **A** | **Haetae AP HMG40/1.5 — White Banner** | BS14 AP HMG, ARM5/2W and Tactical Awareness produce strong conventional long-range repeat shots for 40pt. | No native anti-Mimetism/anti-Cover modifier; Hackable S5. |
-| 20 | **A** | **5th Minutemen AP HMG34/1.5 NCO — USARF** | BS13, BS Attack(+1SD), AP HMG, nonhackable heavy infantry at only 34pt. | W1 and ordinary range geometry; +1SD is not an extra successful hit/Burst. |
-| 21 | **A** | **Ironsides AP HMG44/1.5 — Next Wave** | AP HMG, Albedo−3 and Tactical Awareness on a 2W mobile HI; useful into MSV-backed lines. | BS13/ARM3; Albedo is opponent-dependent, not universal Mimetism. |
-| 22 | **A** | **Azra'il AP HMG37/1.5 — Haqq/Qapu** | AP HMG, ARM5/2W on a compact 37pt chassis: capable long-range hard-target gun, not just an armored speed bump. | BS13, no visor or strong FtF MOD; Hackable S5 and limited mobility. |
-| 23 | **A** | **Tanuki HMG29/1.5 MSV2 — Shindenbutai** | BS13/MSV2 full HMG bands at 29pt, with a credible legal team route. | 1W, no intrinsic Mimetism, Fireteam purchase/coverage cost. |
-| 24 | **A** | **Karhu Feuerbach(+1B)34/1.5 — PanO/White Company** | MSV1, Mimetism−3, Climbing Plus and NCO with a long-range anti-armor Feuerbach: efficient specialized lane control. | Fewer active dice than HMG specialists; cannot merge its Feuerbach and another profile's loadout. |
-| 25 | **A** | **Knight Hospitaller HMG32/1.5 FTO — MO** | BS14, ARM4/2W and 32pt HMG create an affordable legal Fireteam long gun. | No native visor/Mimetism; actual Fireteam support must be paid for. |
-| 26 | **A** | **ORC HMG34/1.5 — PanO/NCA** | BS14, ARM4/2W and genuine long-band HMG at 34pt. | Straight stat gun without Mimetism/MSV/AP; avoid treating Fireteam access as a free buff. |
-| 27 | **A** | **Sogarat AP HMG — Morats** | BS13, ARM6/2W and NCO option deliver resilient repeatable AP fire from long range. | Expensive S5/Hackable, no intrinsic visor/Mimetism or enemy attack penalty; exact loadout/points vary by profile. |
-| 28 | **A (two-body)** | **Drummer + Drumbot-2 HRMC42/1.5 — PanO/Kestrel** | 42pt controller package delivers a synchronized HRMC-equipped REM for hard-target long fire from a second position. | Controller and Peripheral declare the **same Skills** in one Order and may each make a BS Attack with their own weapon/Burst against different targets; neither contributes a separate pooled Order. Vulnerable controller and Coherency matter. |
-| 29 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Next Wave/eligible Combined** | BS14, 20-5 aerial and Mimetism−6 can create strong *medium/long* angles; good ammunition for 0SWC. | S7 No Cover/Hackable; #036 documents E/M/control collapse despite mobility. Geometry-dependent, **not S on paper**. |
-| 30 | **A (geometry)** | **Firebat Thunderbolt/LRL36/0 — Torchlight** | BS13, Mimetism−6, +1SD, NCO and 20-5 can open secondary firing lines at 0SWC. | S7 No Cover, hacking and recovery costs reduce head-on sustained-gun value. |
-| 31 | **B+ (mid)** | **Mukhtar MSV2 Red Fury34/1 — Ramah** | Strong 16–24in moving MSV2 gun with Mimetism−3, FD+10, NWI. | Does not cover a 24–32in lane like an HMG; Viral Rifle assassination is a different [short-assault](../Strategy/close-combat-and-short-range-assault.md) job. |
-| 32 | **B (mid)** | **Sheskiin Red Fury50/1 — Combined/Shas** | BS15/Nanoscreen/2W makes a **delivered** Red Fury dangerous within its preferred bands. | **Former S → B ranged:** not a 24–32in lane solver; MULTI Rifle48/0, Protheion, 15-10 and CC are [S-caliber close-assault traits](../Strategy/close-combat-and-short-range-assault.md), **not ranged scoring bonuses**. |
-| 33 | **B (mid)** | **Achilles AP Spitfire62/1.5 — Next Wave** | Fast tough AP shooting if 16–24in geometry is already accessible. | **Former S/A+ → B ranged:** his decisive special value is *delivery, breaching and CC*. #197 shows cyber-denial cost; see [short assault](../Strategy/close-combat-and-short-range-assault.md). |
-| 34 | **B (geometry)** | **Redeye Spitfire37/1.5 — Kestrel/NCA eligible** | Mimetism−6, aerial 20-5 and BS14 can create flank shots; Blitzen/GL handles separate jobs. | 1.5SWC, S7 No Cover/Hackable and Spitfire range; #005 failed Q-Drone alpha versus #158 complementary threat. Not a premium long gun. |
+| 18 | **A** | **Haetae AP HMG40/1.5 — White Banner** | BS14 AP HMG, ARM5/2W and Tactical Awareness produce strong conventional long-range repeat shots for 40pt. | No native anti-Mimetism/anti-Cover modifier; Hackable S5. |
+| 19 | **A** | **5th Minutemen AP HMG34/1.5 NCO — USARF** | BS13, BS Attack(+1SD), AP HMG, nonhackable heavy infantry at only 34pt. | W1 and ordinary range geometry; +1SD is not an extra successful hit/Burst. |
+| 20 | **A** | **Ironsides AP HMG44/1.5 — Next Wave** | AP HMG, Albedo−3 and Tactical Awareness on a 2W mobile HI; useful into MSV-backed lines. | BS13/ARM3; Albedo is opponent-dependent, not universal Mimetism. |
+| 21 | **A** | **Azra'il AP HMG37/1.5 — Haqq/Qapu** | AP HMG, ARM5/2W on a compact 37pt chassis: capable long-range hard-target gun, not just an armored speed bump. | BS13, no visor or strong FtF MOD; Hackable S5 and limited mobility. |
+| 22 | **A** | **Tanuki HMG29/1.5 MSV2 — Shindenbutai** | BS13/MSV2 full HMG bands at 29pt, with a credible legal team route. | 1W, no intrinsic Mimetism, Fireteam purchase/coverage cost. |
+| 23 | **A** | **Karhu Feuerbach(+1B)34/1.5 — PanO/White Company** | MSV1, Mimetism−3, Climbing Plus and NCO with a long-range anti-armor Feuerbach: efficient specialized lane control. | Fewer active dice than HMG specialists; cannot merge its Feuerbach and another profile's loadout. |
+| 24 | **A** | **Knight Hospitaller HMG32/1.5 FTO — MO** | BS14, ARM4/2W and 32pt HMG create an affordable legal Fireteam long gun. | No native visor/Mimetism; actual Fireteam support must be paid for. |
+| 25 | **A** | **ORC HMG34/1.5 — PanO/NCA** | BS14, ARM4/2W and genuine long-band HMG at 34pt. | Straight stat gun without Mimetism/MSV/AP; avoid treating Fireteam access as a free buff. |
+| 26 | **A** | **Sogarat AP HMG — Morats** | BS13, ARM6/2W and NCO option deliver resilient repeatable AP fire from long range. | Expensive S5/Hackable, no intrinsic visor/Mimetism or enemy attack penalty; exact loadout/points vary by profile. |
+| 27 | **A (two-body)** | **Drummer + Drumbot-2 HRMC42/1.5 — PanO/Kestrel** | 42pt controller package delivers a synchronized HRMC-equipped REM for hard-target long fire from a second position. | Controller and Peripheral declare the **same Skills** in one Order and may each make a BS Attack with their own weapon/Burst against different targets; neither contributes a separate pooled Order. Vulnerable controller and Coherency matter. |
+| 28 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Next Wave/eligible Combined** | BS14, 20-5 aerial and Mimetism−6 can create strong *medium/long* angles; good ammunition for 0SWC. | S7 No Cover/Hackable; #036 documents E/M/control collapse despite mobility. Geometry-dependent, **not S on paper**. |
+| 29 | **A (geometry)** | **Firebat Thunderbolt/LRL36/0 — Torchlight** | BS13, Mimetism−6, +1SD, NCO and 20-5 can open secondary firing lines at 0SWC. | S7 No Cover, hacking and recovery costs reduce head-on sustained-gun value. |
 
-## 3. Non-TAG gunfighters — **ranged points / Order value**
+### Medium-range — 8–24in and 16–32in crossover
+
+| # | Apex | Current example / roster | **Ranged case** | **Constraint / what belongs in short assault** |
+|---|---|---|---|---|
+| 1 | **A+** | **Optimate Agent Maximus AP Thunderbolt48/1 — ALEPH/OSS** | AP Thunderbolt **(+2B)**, +3 at 16–32in, Albedo−3, Tactical Awareness and NWI: sustained *B4* AP shooting in the key band. | 1W+NWI MI; 48pt non-FTO profile includes Minimus, whereas 45pt FTO does **not**; mutually exclusive with Maximus TAG. |
+| 2 | **A+ (mid)** | **Asura AP Spitfire61/1.5 — ALEPH/OSS** | BS14, MSV3 and AP make **16–24in** anti-Mimetism/anti-armor exchanges excellent. | Not an HMG at 24–32in; high points/hackability and mission-specialist opportunity cost prevent S ranged grade. |
+| 3 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Next Wave/eligible Combined** | BS14, 20-5 aerial and Mimetism−6 can create strong *medium/long* angles; good ammunition for 0SWC. | S7 No Cover/Hackable; #036 documents E/M/control collapse despite mobility. Geometry-dependent, **not S on paper**. |
+| 4 | **A (geometry)** | **Firebat Thunderbolt/LRL36/0 — Torchlight** | BS13, Mimetism−6, +1SD, NCO and 20-5 can open secondary firing lines at 0SWC. | S7 No Cover, hacking and recovery costs reduce head-on sustained-gun value. |
+| 5 | **B+ (mid)** | **Mukhtar MSV2 Red Fury34/1 — Ramah** | Strong 16–24in moving MSV2 gun with Mimetism−3, FD+10, NWI. | Does not cover a 24–32in lane like an HMG; Viral Rifle assassination is a different [short-assault](../Strategy/close-combat-and-short-range-assault.md) job. |
+| 6 | **B (mid)** | **Sheskiin Red Fury50/1 — Combined/Shas** | BS15/Nanoscreen/2W makes a **delivered** Red Fury dangerous within its preferred bands. | **Former S → B ranged:** not a 24–32in lane solver; MULTI Rifle48/0, Protheion, 15-10 and CC are [S-caliber close-assault traits](../Strategy/close-combat-and-short-range-assault.md), **not ranged scoring bonuses**. |
+| 7 | **B (mid)** | **Achilles AP Spitfire62/1.5 — Next Wave** | Fast tough AP shooting if 16–24in geometry is already accessible. | **Former S/A+ → B ranged:** his decisive special value is *delivery, breaching and CC*. #197 shows cyber-denial cost; see [short assault](../Strategy/close-combat-and-short-range-assault.md). |
+| 8 | **B (geometry)** | **Redeye Spitfire37/1.5 — Kestrel/NCA eligible** | Mimetism−6, aerial 20-5 and BS14 can create flank shots; Blitzen/GL handles separate jobs. | 1.5SWC, S7 No Cover/Hackable and Spitfire range; #005 failed Q-Drone alpha versus #158 complementary threat. Not a premium long gun. |
+
+## 2. Non-TAG gunfighters — **ranged points / Order value**
 
 Full cost includes an existing **legal** team/G:Jumper package, SWC, attack setup and enough usable mission Orders. A 0SWC short-range specialist is not automatically higher value **as a 16–32in gun** than an inexpensive HMG. **Value grades here are for the named ranged profile, not the troop family.**
+
+**Range classification:** Long-range covers reliable 24–32in or farther engagements (HMG, HRMC, sniper, Feuerbach and 16–32in Thunderbolt). Medium-range prioritizes 8–24in or 16–24in attacks (Marksman Rifle, Red Fury, Spitfire, Mk12). Strong 16–32in Thunderbolt platforms appear in **both** lists intentionally; the same profile is not an additional army-list option. **# ranks restart within each range** and preserve the source tier order, not measured win rates.
+
+### Long-range — 24–32in and farther
 
 | # | Value | Specific profile | **Why this is worth buying for ranged shooting** | **When the value falls** |
 |---|---|---|---|---|
@@ -141,59 +121,68 @@ Full cost includes an existing **legal** team/G:Jumper package, SWC, attack setu
 | 35 | **A+** | **Janissary HMG38/1.5 — Haqq** | BS14/2W HMG at 38pt, durable baseline for existing team architecture. | No intrinsic -3/MSV/AP; Hackable. |
 | 36 | **A+** | **Shàng Jí AP HMG TA45/1.5 — Invincible Army** | AP HMG, ARM4/2W, Tactical Awareness and Firewall support: useful repeat long fire. | Requires a meaningful team/Order path, 45pt and hackable. |
 | 37 | **A+** | **Omega HMG42/1.5 — O-12** | BS14 and Mimetism−6 with ARM4/2W for 42pt: unusually strong stand-alone long gun. | No native AP/MSV; Hackable. |
-| 38 | **A+ (mid)** | **Hetkari MULTI Red Fury48/1.5 — Kestrel** | Marksmanship/BS14/ARM5/2W; exceptional **16–24in Cover** firefight, with legal team support. | **Former S/A+ → A+:** costly and lacks Griffin's HMG-length reach. |
-| 39 | **A+ (mid)** | **Corregidor Surface Territorial AP MMR29/0** | Marksmanship, TacAware, X-Visor, AP and 0SWC: very strong **midrange** repeated fire in the right roster. | **Former S → A+ ranged** because MMR is not a full HMG lane substitute; team costs apply. |
-| 40 | **A+ (mid)** | **Black A.I.R. K1 Marksman29/0.5 — Kestrel** | BS13/MSV2/Mimetism−3 with K1 MMR and Forward Observer in a legal Fennecs context: great cheap *8–24in* anti-armor and camouflage breaker. | K1 MMR is −3 at 24–32in and W1; cannot substitute for a 32in +3 HMG. |
-| 41 | **A+ (mid)** | **Wraith-1 Hidden MULTI MMR27/0.5 — Next Wave** | BS12, MSV1, Mimetism−3, Marksmanship, Hidden/Surprise and FD+10 give unusual Cover-ignoring midfield first-shot value. | W1 and MMR's poor 24–32in band; **25pt FTO** does not also have Hidden/Surprise. |
-| 42 | **A+ (mid)** | **Hannibal MULTI MMR29–30/0 — NCA/WinterFor** | BS13, +1SD, Tactical Awareness, NWI and 0SWC combine useful repeat 8–24in fire with Order economy. | +1SD is not extra Burst; 1W+NWI and MMR −3 at 24–32in, points differ by roster. |
-| 43 | **A+ (mid)** | **Hortlak Janissary K1 MMR31/0.5 — Ramah** | BS13, MSV1/Mimetism−3, NWI and K1 ammo offer a strong low-SWC anti-armor/visual-defender midrange attack in a legal Janissary team. | W1+NWI, MMR −3 at 24–32in; hacking/support exposure must be assessed. |
-| 44 | **A (mid)** | **Vostok Mk12 38/0 / Spitfire37/1 — Vanilla Nomads** | Mimetism−6, Climbing Plus, 2STR/recovery and reachable middle lanes. | Requires suitable 16–24in angles; EVO-assisted Marksmanship costs setup; FTO tag alone creates no Vanilla team. |
-| 45 | **A (mid)** | **Asawira AP Spitfire38/1.5 — Haqq/Hassassin** | BS14, ARM4/2W, BTS9 and AP threaten armored targets in positive **middle bands**. | **Former A+ → A:** BSG(+1B)32/0 is an excellent but **short-assault**, not long-gun, profile. |
-| 46 | **A (mid)** | **Neoterra Bolt Marksmanship Spitfire25/1.5 — NCA** | BS13/Marksmanship plus cheap B4 16–24in fire, useful when filling an already required NCA team. | One Wound and significant SWC; no visor/Mimetism or positive 24–32in reach. |
-| 47 | **A (mid)** | **Frontovik AP Spitfire30/1 — TAK/Kosmoflot** | BS12/Mimetism−3 and AP conversion at 16–24in for 30pt with relevant legal team routes. | W1/BTS0; AP Spitfire is not HMG-range gunfire. |
-| 48 | **A (mid)** | **Coyote FTO MULTI MMR26/0 — Corregidor** | BS13/MSV1, X-Visor and 0SWC MULTI MMR plus Forward Observer: unusually useful mixed shooting/scoring in a funded Surface team. | This **26pt FTO has no bundled BambaDroid**; 33pt solo + BambaBot is a different profile/package. MMR is not a normal HMG 32in lane. |
-| 49 | **A (mid)** | **Casino Rounder Red Fury26/1 — Bakunin/Tunguska** | MSV1, Marksmanship, NCO and B4 Red Fury help crack covered targets in 16–24in for 26pts. | BS12/W1; 24pt/0.5SWC MULTI MMR is a different, shorter-volume alternative. |
-| 50 | **A (mid)** | **Deva MSV2 Spitfire29/1 — ALEPH/OSS** | BS12/MSV2 with NWI in a 29pt/1SWC Spitfire answers medium-band Camo/Mimetism cheaply. | W1+NWI and 24–32in disadvantage; other Deva loadouts do not inherit the visor. |
-| 51 | **A (mid)** | **WCD Vector MULTI MMR24/0.5 — Combined/Onyx** | BS12, MSV2/Mimetism−3, Super-Jump and MMR selectable ammo at just 24pt; changes angles without buying a premium HI. | W1/BTS0 and MMR range. The 26pt Spitfire is an alternate profile, not the MMR's gun. |
-| 52 | **A (mid)** | **Briscard AP MMR Forward Observer22/0 — Merovingienne** | MSV1, Climbing Plus, AP Marksman Rifle and 0SWC specialist utility at 22pt; low-cost 8–24in active probe. | BS12/W1 and −3 at 24–32in; 24pt AP sniper is a distinct low-Burst profile. |
-| 53 | **A (mid)** | **Richard Quinn MULTI MMR Forward Observer26/0 — NCA/Varuna/Kestrel/WinterFor** | BS13/MSV1 with 0SWC MMR, Forward Observer and useful Wildcard/team access; cheap flexible 8–24in midlane specialist shooter. | W1/ARM2, no Mimetism or Marksmanship; MMR cannot win sustained 24–32in firefights like an HMG, and team legality varies by roster. |
-| 54 | **A (mid)** | **Loup-Garou Viral MMR Marksmanship24/0.5 — Merovingienne** | Cheap Cover-neutral Viral Marksman Rifle attacks BTS at 8–24in for a funded Loup-Garou team. | BS12/W1, 24–32in at −3; 24pt Viral Sniper is a different B2 long-lane role. |
-| 55 | **A (mid)** | **Silver Snake K1 MMR26/0 — White Banner** | BS13, Albedo−6, K1 Marksman Rifle and 0SWC make a cheap anti-ARM midrange gun into MSV-covered positions. | W1, no native Mimetism, and MMR is disadvantaged at 24–32in; K1 sniper27/0.5 is a different long-band profile. |
-| 56 | **A (mid)** | **Odalisque Viral MMR Marksmanship26/0 — Qapu/Haqq** | BS12, Marksmanship, NWI and Viral Marksman Rifle at 0SWC combine anti-Cover and BTS attacks at modest cost. | W1+NWI; short MMR bands and Fireteam cost prevent treating as a universal long attacker. |
-| 57 | **A (mid)** | **Léi Gōng FTO MULTI MMR34/0 — Invincible/White Banner** | BS13/MSV1, Albedo−6, NWI, Super-Jump and 0SWC MULTI MMR offer useful anti-visor/geometry attacks in a real Fireteam. | 34pt and midrange; do not assign FTO team bonuses when unlinked, or import Parachutist from different profile. |
-| 58 | **A (mid)** | **Corax Hasht AP Spitfire33/1 — Shasvastii** | BS13, AP Spitfire, NWI/Nanoscreen and legal link support make a sturdy midband attack option for 33pt. | No Cover chassis and 24–32in disadvantage; different 30pt Red Fury is a separate profile. |
-| 59 | **A** | **Holy Sepulchre NCO AP HMG53/1 — MO** | Reliable AP full-band opening with BS14, Holoprojector, Surprise and available LT-order conversion. | No new personal Order; 53pt investment, Hackable. |
-| 60 | **A** | **Yan Huǒ HRMC47/1.5 — IA/Yu Jing** | BS14 high-volume long gun and ARM5/2W for lower points than many top-tier HI. | No visual defense; 45pt MULTI HMG **FTO** is a separately costed team option. |
-| 61 | **A** | **Ironsides AP HMG TA44/1.5 — Next Wave** | AP reach, Albedo−3 and personal Tactical Awareness on a 2W body. | Only BS13/ARM3 and Albedo situational. |
-| 62 | **A** | **Atalanta Hidden MULTI Sniper38/1.5 — Steel** | MSV2, Marksmanship, BS15 and Hidden/Surprise uniquely solve distant defended AROs. | Active Burst2 and 1W make it a specialized tool, not a generic HMG substitute. |
-| 63 | **A (sniper)** | **Grenzer Marksmanship MULTI Sniper32/1.5 — Nomads/Tunguska** | BS13, MSV1 and Marksmanship provide effective Cover-ignoring long attacks at an accessible 32pt price. | Active sniper Burst2 and W1; stronger as targeted long-lane tool than as multi-kill HMG replacement. |
-| 64 | **A (sniper)** | **Agêma Hidden MULTI Sniper27/1.5 — Steel** | BS13/MSV2, Hidden Deployment and Surprise Attack enable cheap first-contact sniping into high-Mimetism AROs. | B2/W1 with low sustained active-turn volume; separate missile/ARO loadouts do not inherit Hidden. |
-| 65 | **A** | **Drummer + HRMC Drumbot-2 42/1.5 — PanO** | Affordable synchronized high-caliber long-range presence without buying a whole TAG. | Controller and Peripheral can both attack with the same declared BS Attack Skill (possibly different targets), but still consume **one shared Order**; Coherency and controller survival matter. |
-| 66 | **A** | **Silverstar Prime HMG TA53/1.5 — Torchlight** | BS14/MSV1/BS Attack(−3), PS4 HMG and own Tactical Awareness: apex tools on an armored body. | S5 Hackable and 53pt; cannot be inserted into Silverstars Core merely by name. |
-| 67 | **A** | **Aquila Guard HMG52/1.5 — PanO** | BS15/MSV3 is an elite independent ranged answer to camouflage/smoke. | 52pt 1.5SWC, no persistent Mimetism/attacker penalty. |
-| 68 | **A** | **Optimate Agent Maximus AP Thunderbolt48/1 — OSS/ALEPH** | AP Thunderbolt(+2B) has +3 at 24–32in, personal Tactical Awareness, NWI, Albedo and bundled Minimus. | 1W+NWI and 48pt; 45pt FTO loses Minimus; TAG Maximus mutually exclusive. |
-| 69 | **A (mid)** | **Makhai Red Fury31/1 — Steel** | MSV1/Mimetism−3, Tactical Awareness and viable 16–24in firing angles for 31pt. | Red Fury penalized at 24–32in; 1W and poor extreme armor conversion. |
-| 70 | **A (mid)** | **Rudras Red Fury38/1 — OSS** | BS Attack(−3), Climbing Plus, ARM4/2STR/repair and 16–24in Red Fury pressure. | Worse 24–32in than HMG; FTO37 and solo38 are distinct; full support cost applies. |
-| 71 | **A** | **Reverend Moira HMG33/1.5 — Bakunin** | Mimetism−6, NCO and real HMG lanes for 33pt; can profit from an existing legal Observance team. | BS12/1W, Religious and team investment; weak into appropriate visor opponents. |
-| 72 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Combined eligible** | Cheap 0SWC, Mimetism−6 and powerful side/vertical shooting when table favors air. | **Former S/A+ → A:** No Cover/Hackable and #036 E/M collapse make sustained ranged output unreliable. |
-| 73 | **B+ (mid)** | **Mukhtar MSV2 Red Fury34/1 — Ramah** | Good mobile anti-Mimetism and 16–24in clearing on a modest chassis. | **Former A+ (mixed) → B+:** the 25pt Viral Rifle/FO role belongs in the short-assault or specialist analysis, not as a long gun. |
-| 74 | **B+ (mid)** | **Khawarij MSV2 Mk12 38/0 — Ramah** | 0SWC visor shooting where 16–24in is reachable. | Cannot force open 24–32in HMG lanes; needs another long gun. |
-| 75 | **B+ (mid)** | **Gao-Rael MSV2 Spitfire30/1.5 — Tohaa** | 16–24in visor+Symbiont in a relevant Triad. | BS12 and range disadvantage versus opposing long HMG. |
-| 76 | **B+ (mid)** | **Riot Grrl Spitfire31/1.5 — Bakunin** | 2W/MSV1 and legal team movement make effective middle-lane fighting. | Midrange, not a premier long-range ARO-clearing gun. |
-| 77 | **B+ (mid)** | **Rasail Spitfire34/1.5 + Chaksa — Tohaa** | 34pt BS12 Spitfire package with Symbiont durability and a bundled synchronized Chaksa can force short/midrange engagements while maintaining a second attack angle. | Nanoscreen/No Cover, 10-10 and BS12; peripheral contributes only when it can declare the same Skill within Coherency, not an extra pooled Order. |
-| 78 | **B+** | **Sogarat AP HMG / NCO — Morats** | Hard-wearing ARM6/2W long AP gun when Morat list wants its NCO order access. | Higher points than Azra'il/Haetae/Kosmosoldat; no visor/Mimetism. |
-| 79 | **B+ (selective)** | **Hǎidào MSV2 MULTI Sniper29/1.5 — Invincible/White Company** | MSV2 and NWI help a relatively cheap, selectable-ammo long sniper remove a specific Camo/Mim defender. | Sniper active B2, W1+NWI and no native −3 to shooter; team-dependent value. |
-| 80 | **B+ (selective)** | **Major Lunah Viral Sniper(+1SD)29/1.5 — eligible rosters** | BS13/MSV1, Camouflage(1 Use), Mimetism−3, Surprise and +1SD help a selective Viral long-lane first shot. | +1SD is not +1 Burst; W1 and limited repeat volume. |
-| 81 | **B+ (selective)** | **Hassassin Lasiq Viral Sniper25/1 — Bahram** | Marksmanship, Mimetism−3, Climbing Plus and Viral sniper threaten BTS and Cover at only 25pt. | BS12/W1, sniper B2 and a target-dependent Viral matchup; separate Viral MMR25/0.5 lacks long sniper band. |
-| 82 | **B+ (selective)** | **Cateran T2 Sniper21/1 — CHA/Kosmoflot** | Camouflage(1 Use), Surprise, Mimetism−3, Climbing and T2 long shots at only 21pt make a cheap selective attacker. | Irregular/W1/ARM0; sniper active B2, little repeat clearing of many targets. |
-| 83 | **B+ (selective)** | **Brawler MSV2 MULTI Sniper25/1.5 — NA2 eligible** | 25pt/MSV2 selectable sniper is useful into targeted Mimetism threats when the required roster context exists. | BS12/W1, no Mimetism or HMG Burst; team cost and 1.5SWC are meaningful. |
-| 84 | **B+ (selective)** | **Nikoul Viral Sniper25/1.5 — Tohaa** | MSV1/Sapper and Viral Sniper at 25pt can punish a specific exposed BTS target from long lanes. | Mostly an entrenched ARO/zone-holder; W1 and B2 make generic active-turn clearing weaker. |
-| 85 | **B+ (mid)** | **Jayth Red Fury34/1 FTO — Shasvastii** | MSV1, Mimetism−6 and Red Fury offer midlane aggressive shots inside an already legal Shas Shock team. | BS12/W1/ARM0 and short weapon bands; the model's warband/CC role must not inflate ranged rank. |
-| 86 | **B+ (geometry)** | **Haytham Red Fury33/1.5 — Ramah** | BS13/MSV1, Mimetism−6, aerial positioning and Continuous Damage can create favorable 16–24in flank fights. | S7 No Cover with tech-recovery, hacking and 1.5SWC; vulnerable head-on into strong AROs. |
-| 87 | **B+** | **Caledonian Mormaer HMG TA49/1.5 — CHA** | ARM5, X-Visor, Tactical Awareness and HMG can contribute sustained lane coverage with a compatible heavy team. | BS13/W1/BTS0 at 49pt means poor protection and value versus several cheaper AP/Mimetism guns. |
-| 88 | **B (mid)** | **Ratnik AP Spitfire TA46/1.5 — TAK** | BS Attack(+1B), ARM6/transmutation and Tactical Awareness are excellent delivered 16–24in pressure. | No premium 24–32in HMG band, S5 Hackable and costly repositioning; not a long-gun value leader. |
-| 89 | **B** | **Charontid AP HMG70/1.5 — Combined** | MSV3, AP HMG, NWI and Mnemonica make spectacular anti-visual ceiling. | 70pt/1.5SWC for a single Hackable ranged body hurts value relative to cheaper visors/HMGs. |
-| 90 | **B (geometry)** | **Redeye Spitfire37/1.5 — Kestrel/NCA** | Threatens side angles and exposed support if terrain is favorable. | **Former B/A → B:** #005 Q-Drone order burn, No Cover/Hackable and SWC; #158 shows a different successful supporting use. |
+| 38 | **A** | **Holy Sepulchre NCO AP HMG53/1 — MO** | Reliable AP full-band opening with BS14, Holoprojector, Surprise and available LT-order conversion. | No new personal Order; 53pt investment, Hackable. |
+| 39 | **A** | **Yan Huǒ HRMC47/1.5 — IA/Yu Jing** | BS14 high-volume long gun and ARM5/2W for lower points than many top-tier HI. | No visual defense; 45pt MULTI HMG **FTO** is a separately costed team option. |
+| 40 | **A** | **Ironsides AP HMG TA44/1.5 — Next Wave** | AP reach, Albedo−3 and personal Tactical Awareness on a 2W body. | Only BS13/ARM3 and Albedo situational. |
+| 41 | **A** | **Atalanta Hidden MULTI Sniper38/1.5 — Steel** | MSV2, Marksmanship, BS15 and Hidden/Surprise uniquely solve distant defended AROs. | Active Burst2 and 1W make it a specialized tool, not a generic HMG substitute. |
+| 42 | **A (sniper)** | **Grenzer Marksmanship MULTI Sniper32/1.5 — Nomads/Tunguska** | BS13, MSV1 and Marksmanship provide effective Cover-ignoring long attacks at an accessible 32pt price. | Active sniper Burst2 and W1; stronger as targeted long-lane tool than as multi-kill HMG replacement. |
+| 43 | **A (sniper)** | **Agêma Hidden MULTI Sniper27/1.5 — Steel** | BS13/MSV2, Hidden Deployment and Surprise Attack enable cheap first-contact sniping into high-Mimetism AROs. | B2/W1 with low sustained active-turn volume; separate missile/ARO loadouts do not inherit Hidden. |
+| 44 | **A** | **Drummer + HRMC Drumbot-2 42/1.5 — PanO** | Affordable synchronized high-caliber long-range presence without buying a whole TAG. | Controller and Peripheral can both attack with the same declared BS Attack Skill (possibly different targets), but still consume **one shared Order**; Coherency and controller survival matter. |
+| 45 | **A** | **Silverstar Prime HMG TA53/1.5 — Torchlight** | BS14/MSV1/BS Attack(−3), PS4 HMG and own Tactical Awareness: apex tools on an armored body. | S5 Hackable and 53pt; cannot be inserted into Silverstars Core merely by name. |
+| 46 | **A** | **Aquila Guard HMG52/1.5 — PanO** | BS15/MSV3 is an elite independent ranged answer to camouflage/smoke. | 52pt 1.5SWC, no persistent Mimetism/attacker penalty. |
+| 47 | **A** | **Optimate Agent Maximus AP Thunderbolt48/1 — OSS/ALEPH** | AP Thunderbolt(+2B) has +3 at 24–32in, personal Tactical Awareness, NWI, Albedo and bundled Minimus. | 1W+NWI and 48pt; 45pt FTO loses Minimus; TAG Maximus mutually exclusive. |
+| 48 | **A** | **Reverend Moira HMG33/1.5 — Bakunin** | Mimetism−6, NCO and real HMG lanes for 33pt; can profit from an existing legal Observance team. | BS12/1W, Religious and team investment; weak into appropriate visor opponents. |
+| 49 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Combined eligible** | Cheap 0SWC, Mimetism−6 and powerful side/vertical shooting when table favors air. | **Former S/A+ → A:** No Cover/Hackable and #036 E/M collapse make sustained ranged output unreliable. |
+| 50 | **B+** | **Sogarat AP HMG / NCO — Morats** | Hard-wearing ARM6/2W long AP gun when Morat list wants its NCO order access. | Higher points than Azra'il/Haetae/Kosmosoldat; no visor/Mimetism. |
+| 51 | **B+ (selective)** | **Hǎidào MSV2 MULTI Sniper29/1.5 — Invincible/White Company** | MSV2 and NWI help a relatively cheap, selectable-ammo long sniper remove a specific Camo/Mim defender. | Sniper active B2, W1+NWI and no native −3 to shooter; team-dependent value. |
+| 52 | **B+ (selective)** | **Major Lunah Viral Sniper(+1SD)29/1.5 — eligible rosters** | BS13/MSV1, Camouflage(1 Use), Mimetism−3, Surprise and +1SD help a selective Viral long-lane first shot. | +1SD is not +1 Burst; W1 and limited repeat volume. |
+| 53 | **B+ (selective)** | **Hassassin Lasiq Viral Sniper25/1 — Bahram** | Marksmanship, Mimetism−3, Climbing Plus and Viral sniper threaten BTS and Cover at only 25pt. | BS12/W1, sniper B2 and a target-dependent Viral matchup; separate Viral MMR25/0.5 lacks long sniper band. |
+| 54 | **B+ (selective)** | **Cateran T2 Sniper21/1 — CHA/Kosmoflot** | Camouflage(1 Use), Surprise, Mimetism−3, Climbing and T2 long shots at only 21pt make a cheap selective attacker. | Irregular/W1/ARM0; sniper active B2, little repeat clearing of many targets. |
+| 55 | **B+ (selective)** | **Brawler MSV2 MULTI Sniper25/1.5 — NA2 eligible** | 25pt/MSV2 selectable sniper is useful into targeted Mimetism threats when the required roster context exists. | BS12/W1, no Mimetism or HMG Burst; team cost and 1.5SWC are meaningful. |
+| 56 | **B+ (selective)** | **Nikoul Viral Sniper25/1.5 — Tohaa** | MSV1/Sapper and Viral Sniper at 25pt can punish a specific exposed BTS target from long lanes. | Mostly an entrenched ARO/zone-holder; W1 and B2 make generic active-turn clearing weaker. |
+| 57 | **B+** | **Caledonian Mormaer HMG TA49/1.5 — CHA** | ARM5, X-Visor, Tactical Awareness and HMG can contribute sustained lane coverage with a compatible heavy team. | BS13/W1/BTS0 at 49pt means poor protection and value versus several cheaper AP/Mimetism guns. |
+| 58 | **B** | **Charontid AP HMG70/1.5 — Combined** | MSV3, AP HMG, NWI and Mnemonica make spectacular anti-visual ceiling. | 70pt/1.5SWC for a single Hackable ranged body hurts value relative to cheaper visors/HMGs. |
+
+### Medium-range — 8–24in and 16–32in crossover
+
+| # | Value | Specific profile | **Why this is worth buying for ranged shooting** | **When the value falls** |
+|---|---|---|---|---|
+| 1 | **A+** | **Satrah Thunderbolt(+1B)24/0 — OSS confirmed** | In the **OSS** reference, BS13/MSV2, Albedo−6, Climbing Plus and **B3** Thunderbolt with a +3 band at 16–32in: premium visual matchups at zero SWC. | One Wound, Thunderbolt PS6/less damage than an HMG; **Vanilla ALEPH source omits +1B**, so do not assume that boost there; 24pt MMR is separate. |
+| 2 | **A+** | **Bào Thunderbolt(+1B)23/0 — Imperial Service** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. | BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. |
+| 3 | **A+ (mid)** | **Hetkari MULTI Red Fury48/1.5 — Kestrel** | Marksmanship/BS14/ARM5/2W; exceptional **16–24in Cover** firefight, with legal team support. | **Former S/A+ → A+:** costly and lacks Griffin's HMG-length reach. |
+| 4 | **A+ (mid)** | **Corregidor Surface Territorial AP MMR29/0** | Marksmanship, TacAware, X-Visor, AP and 0SWC: very strong **midrange** repeated fire in the right roster. | **Former S → A+ ranged** because MMR is not a full HMG lane substitute; team costs apply. |
+| 5 | **A+ (mid)** | **Black A.I.R. K1 Marksman29/0.5 — Kestrel** | BS13/MSV2/Mimetism−3 with K1 MMR and Forward Observer in a legal Fennecs context: great cheap *8–24in* anti-armor and camouflage breaker. | K1 MMR is −3 at 24–32in and W1; cannot substitute for a 32in +3 HMG. |
+| 6 | **A+ (mid)** | **Wraith-1 Hidden MULTI MMR27/0.5 — Next Wave** | BS12, MSV1, Mimetism−3, Marksmanship, Hidden/Surprise and FD+10 give unusual Cover-ignoring midfield first-shot value. | W1 and MMR's poor 24–32in band; **25pt FTO** does not also have Hidden/Surprise. |
+| 7 | **A+ (mid)** | **Hannibal MULTI MMR29–30/0 — NCA/WinterFor** | BS13, +1SD, Tactical Awareness, NWI and 0SWC combine useful repeat 8–24in fire with Order economy. | +1SD is not extra Burst; 1W+NWI and MMR −3 at 24–32in, points differ by roster. |
+| 8 | **A+ (mid)** | **Hortlak Janissary K1 MMR31/0.5 — Ramah** | BS13, MSV1/Mimetism−3, NWI and K1 ammo offer a strong low-SWC anti-armor/visual-defender midrange attack in a legal Janissary team. | W1+NWI, MMR −3 at 24–32in; hacking/support exposure must be assessed. |
+| 9 | **A (mid)** | **Vostok Mk12 38/0 / Spitfire37/1 — Vanilla Nomads** | Mimetism−6, Climbing Plus, 2STR/recovery and reachable middle lanes. | Requires suitable 16–24in angles; EVO-assisted Marksmanship costs setup; FTO tag alone creates no Vanilla team. |
+| 10 | **A (mid)** | **Asawira AP Spitfire38/1.5 — Haqq/Hassassin** | BS14, ARM4/2W, BTS9 and AP threaten armored targets in positive **middle bands**. | **Former A+ → A:** BSG(+1B)32/0 is an excellent but **short-assault**, not long-gun, profile. |
+| 11 | **A (mid)** | **Neoterra Bolt Marksmanship Spitfire25/1.5 — NCA** | BS13/Marksmanship plus cheap B4 16–24in fire, useful when filling an already required NCA team. | One Wound and significant SWC; no visor/Mimetism or positive 24–32in reach. |
+| 12 | **A (mid)** | **Frontovik AP Spitfire30/1 — TAK/Kosmoflot** | BS12/Mimetism−3 and AP conversion at 16–24in for 30pt with relevant legal team routes. | W1/BTS0; AP Spitfire is not HMG-range gunfire. |
+| 13 | **A (mid)** | **Coyote FTO MULTI MMR26/0 — Corregidor** | BS13/MSV1, X-Visor and 0SWC MULTI MMR plus Forward Observer: unusually useful mixed shooting/scoring in a funded Surface team. | This **26pt FTO has no bundled BambaDroid**; 33pt solo + BambaBot is a different profile/package. MMR is not a normal HMG 32in lane. |
+| 14 | **A (mid)** | **Casino Rounder Red Fury26/1 — Bakunin/Tunguska** | MSV1, Marksmanship, NCO and B4 Red Fury help crack covered targets in 16–24in for 26pts. | BS12/W1; 24pt/0.5SWC MULTI MMR is a different, shorter-volume alternative. |
+| 15 | **A (mid)** | **Deva MSV2 Spitfire29/1 — ALEPH/OSS** | BS12/MSV2 with NWI in a 29pt/1SWC Spitfire answers medium-band Camo/Mimetism cheaply. | W1+NWI and 24–32in disadvantage; other Deva loadouts do not inherit the visor. |
+| 16 | **A (mid)** | **WCD Vector MULTI MMR24/0.5 — Combined/Onyx** | BS12, MSV2/Mimetism−3, Super-Jump and MMR selectable ammo at just 24pt; changes angles without buying a premium HI. | W1/BTS0 and MMR range. The 26pt Spitfire is an alternate profile, not the MMR's gun. |
+| 17 | **A (mid)** | **Briscard AP MMR Forward Observer22/0 — Merovingienne** | MSV1, Climbing Plus, AP Marksman Rifle and 0SWC specialist utility at 22pt; low-cost 8–24in active probe. | BS12/W1 and −3 at 24–32in; 24pt AP sniper is a distinct low-Burst profile. |
+| 18 | **A (mid)** | **Richard Quinn MULTI MMR Forward Observer26/0 — NCA/Varuna/Kestrel/WinterFor** | BS13/MSV1 with 0SWC MMR, Forward Observer and useful Wildcard/team access; cheap flexible 8–24in midlane specialist shooter. | W1/ARM2, no Mimetism or Marksmanship; MMR cannot win sustained 24–32in firefights like an HMG, and team legality varies by roster. |
+| 19 | **A (mid)** | **Loup-Garou Viral MMR Marksmanship24/0.5 — Merovingienne** | Cheap Cover-neutral Viral Marksman Rifle attacks BTS at 8–24in for a funded Loup-Garou team. | BS12/W1, 24–32in at −3; 24pt Viral Sniper is a different B2 long-lane role. |
+| 20 | **A (mid)** | **Silver Snake K1 MMR26/0 — White Banner** | BS13, Albedo−6, K1 Marksman Rifle and 0SWC make a cheap anti-ARM midrange gun into MSV-covered positions. | W1, no native Mimetism, and MMR is disadvantaged at 24–32in; K1 sniper27/0.5 is a different long-band profile. |
+| 21 | **A (mid)** | **Odalisque Viral MMR Marksmanship26/0 — Qapu/Haqq** | BS12, Marksmanship, NWI and Viral Marksman Rifle at 0SWC combine anti-Cover and BTS attacks at modest cost. | W1+NWI; short MMR bands and Fireteam cost prevent treating as a universal long attacker. |
+| 22 | **A (mid)** | **Léi Gōng FTO MULTI MMR34/0 — Invincible/White Banner** | BS13/MSV1, Albedo−6, NWI, Super-Jump and 0SWC MULTI MMR offer useful anti-visor/geometry attacks in a real Fireteam. | 34pt and midrange; do not assign FTO team bonuses when unlinked, or import Parachutist from different profile. |
+| 23 | **A (mid)** | **Corax Hasht AP Spitfire33/1 — Shasvastii** | BS13, AP Spitfire, NWI/Nanoscreen and legal link support make a sturdy midband attack option for 33pt. | No Cover chassis and 24–32in disadvantage; different 30pt Red Fury is a separate profile. |
+| 24 | **A** | **Optimate Agent Maximus AP Thunderbolt48/1 — OSS/ALEPH** | AP Thunderbolt(+2B) has +3 at 24–32in, personal Tactical Awareness, NWI, Albedo and bundled Minimus. | 1W+NWI and 48pt; 45pt FTO loses Minimus; TAG Maximus mutually exclusive. |
+| 25 | **A (mid)** | **Makhai Red Fury31/1 — Steel** | MSV1/Mimetism−3, Tactical Awareness and viable 16–24in firing angles for 31pt. | Red Fury penalized at 24–32in; 1W and poor extreme armor conversion. |
+| 26 | **A (mid)** | **Rudras Red Fury38/1 — OSS** | BS Attack(−3), Climbing Plus, ARM4/2STR/repair and 16–24in Red Fury pressure. | Worse 24–32in than HMG; FTO37 and solo38 are distinct; full support cost applies. |
+| 27 | **A (geometry)** | **Skyhound AP/Plasma Thunderbolt33/0 — Combined eligible** | Cheap 0SWC, Mimetism−6 and powerful side/vertical shooting when table favors air. | **Former S/A+ → A:** No Cover/Hackable and #036 E/M collapse make sustained ranged output unreliable. |
+| 28 | **B+ (mid)** | **Mukhtar MSV2 Red Fury34/1 — Ramah** | Good mobile anti-Mimetism and 16–24in clearing on a modest chassis. | **Former A+ (mixed) → B+:** the 25pt Viral Rifle/FO role belongs in the short-assault or specialist analysis, not as a long gun. |
+| 29 | **B+ (mid)** | **Khawarij MSV2 Mk12 38/0 — Ramah** | 0SWC visor shooting where 16–24in is reachable. | Cannot force open 24–32in HMG lanes; needs another long gun. |
+| 30 | **B+ (mid)** | **Gao-Rael MSV2 Spitfire30/1.5 — Tohaa** | 16–24in visor+Symbiont in a relevant Triad. | BS12 and range disadvantage versus opposing long HMG. |
+| 31 | **B+ (mid)** | **Riot Grrl Spitfire31/1.5 — Bakunin** | 2W/MSV1 and legal team movement make effective middle-lane fighting. | Midrange, not a premier long-range ARO-clearing gun. |
+| 32 | **B+ (mid)** | **Rasail Spitfire34/1.5 + Chaksa — Tohaa** | 34pt BS12 Spitfire package with Symbiont durability and a bundled synchronized Chaksa can force short/midrange engagements while maintaining a second attack angle. | Nanoscreen/No Cover, 10-10 and BS12; peripheral contributes only when it can declare the same Skill within Coherency, not an extra pooled Order. |
+| 33 | **B+ (mid)** | **Jayth Red Fury34/1 FTO — Shasvastii** | MSV1, Mimetism−6 and Red Fury offer midlane aggressive shots inside an already legal Shas Shock team. | BS12/W1/ARM0 and short weapon bands; the model's warband/CC role must not inflate ranged rank. |
+| 34 | **B+ (geometry)** | **Haytham Red Fury33/1.5 — Ramah** | BS13/MSV1, Mimetism−6, aerial positioning and Continuous Damage can create favorable 16–24in flank fights. | S7 No Cover with tech-recovery, hacking and 1.5SWC; vulnerable head-on into strong AROs. |
+| 35 | **B (mid)** | **Ratnik AP Spitfire TA46/1.5 — TAK** | BS Attack(+1B), ARM6/transmutation and Tactical Awareness are excellent delivered 16–24in pressure. | No premium 24–32in HMG band, S5 Hackable and costly repositioning; not a long-gun value leader. |
+| 36 | **B (geometry)** | **Redeye Spitfire37/1.5 — Kestrel/NCA** | Threatens side angles and exposed support if terrain is favorable. | **Former B/A → B:** #005 Q-Drone order burn, No Cover/Hackable and SWC; #158 shows a different successful supporting use. |
 
 ### Which non-TAG unit wins its *particular* shootout?
 
@@ -247,82 +236,7 @@ Full cost includes an existing **legal** team/G:Jumper package, SWC, attack setu
 
 ---
 
-
-### Second-pass requested-unit value audit — 2026-11-03
-
-**Source and scope:** user-provided list of filtered units, checked against pinned N5.3 roster/profile tables. This audit concerns **active-turn ranged points/Order value**, not overall soldier quality, minimum-model cost, or reactive/ARO ceiling. Headline ranking rows above deliberately preserve **HMG/Thunderbolt 16–32in guns**, **8–24in midrange MMR/Red Fury/Spitfire**, and **sniper B2 selective shots** as different jobs. A model can be superb in one category and B+ in another. Points/SWC refer to **specific profiles** and accessible legal teams, not any model with a similar name.
-
-**Newly included:** Richard Quinn; Rasail; Tankhunter; Coadjutor Crosier; Zhayedan; Maakrep; Satrah; Bào; Knauf; Armand Le Muet; Black A.I.R.; Wraith-1; Hannibal; Hortlak; Neoterra Bolt; Frontovik; Coyote; Casino Security Rounder; Deva; WCD Vector; Briscard; Loup-Garou; Silver Snake; Odalisque; Léi Gōng; Corax Hasht; Grenzer; Agêma; Hǎidào; Major Lunah; Hassassin Lasiq; Cateran; Brawler; Nikoul; Jayth; Haytham.
-
-**Already explicitly ranked from the supplied candidates:** Tanuki, Djanbazan, Hassassin Govad, Bagh-Mari, Kamau, Karhu, Epsilon, Kazak Spetsnaz, Reverend Moira, Makhai, Gao-Rael, Griffin, Intruder, Kosmosoldat and Corregidor Territorial. **Other qualifying profile families** (e.g. MSV1, MSV2, Marksmanship) are **not** automatically premium active gunfighters merely because their catalogue filter matched.
-
-| Screened but not promoted to the main ranged-value table | Profile-specific reason |
-|---|---|
-| Banshee, Gangbuster, Dart, Indigo Brother Konstantinos, Bayara Palace Guard, Wild Bill, Miranda Ashcroft, Samsa, Greif Operator, Kempeitai | Close-range, infiltration, specialist or pistol work dominates; no strong **sustained 16–32in** active shooting case comparable to the main picks. |
-| Stephen Rao, Priya Harper, Kaauri, Dokkaebi, M-Drone, Kerr-Nau, Nexus, Victor Messer, Odalisque non-MMR | Mostly support/utility/Order/FO/hacker picks or limited midband guns. Dokkaebi **Mk12 Marksmanship28/0.5** is a credible 8–24in specialist but not a premier repeat gun compared with cheaper, stronger raw shooters. |
-| Kaitok Feuerbach, Kyosot, Patroclus HRL(+1B), Shasvastii Corax non-AP-Spitfire, Neoterra Bolt MSV sniper, Hùndùn sniper, Gŭiláng sniper, Makhai missile | Valuable specialized anti-armor, reactive lane, Fireteam or close-support options, but their standard sustained active gun value is conditional. **Patroclus HRL FTO31/1.5** particularly merits testing in a funded Team Achilles/Shadow Fireteam; no unverified blanket grade. |
-| MAJOR LUNAH/AGÊMA/Nikoul/Cateran/Grenzer/Armand sniper families | Some *are* included above, but only as **selective active snipers** rather than HMG-style repeated clearing. Defensive reactive use belongs in the separate [ARO ranking](aro-units-apex-and-value.md). |
-| Sin-Eater, reactive Neurocinetics sniper/Missile profiles, Kaauri Sniper, low-BS Brawler sniper outside existing legal teams | Their reactive value or low cost does not generate high active Burst; compare in the [ARO guide](aro-units-apex-and-value.md) instead of silently inflating their active-turn grade. |
-| ALEPH / Haqqislam / JSA / Shasvastii / PanO Team-Ops and Spec-Ops | Optional game-mode entries, **not** standard matched-play picks. Do not rank these as independent ordinary faction options. |
-
-**Important profile corrections from this pass:**
-
-- [Tankhunter](../../sectorials/ariadna/tartary-army-corps.md): **AP HMG33/1.5** has Camouflage/Surprise/Mimetism−3; its **Portable Autocannon36/1.5** is a separate, lower-volume anti-armor weapon profile, not an additional weapon on the HMG trooper.
-- [Black A.I.R.](../../sectorials/panoceania/kestrel-colonial-force.md): K1 MMR **29/0.5 is FTO/FO**, distinct from the **MULTI Sniper33/1.5 Neurocinetics** reactive profile.
-- [Crosier](../../sectorials/panoceania/military-orders.md): the **MSV2 HMG costs 24/1**. Its 19pt MULTI Sniper Minelayer is a different profile and is **not MSV2**.
-- [Satrah](../../sectorials/aleph/operations-subsection.md): the **OSS** 24/0 Thunderbolt has **+1B (B3)**, and 24/0 MMR is a separate loadout. The [Vanilla ALEPH reference](../../sectorials/aleph/aleph.md) currently omits +1B on its Thunderbolt row. **Source discrepancy: verify against pinned Army data before rating the Vanilla profile as B3.** Its Albedo−6/MSV2 are primarily matchup advantages, not permanent offensive bonuses.
-- [Hannibal](../../sectorials/panoceania/neoterran-capitaline-army.md): MULTI MMR **29/0** has +1SD and Tactical Awareness. NCA and [WinterFor](../../sectorials/panoceania/svalarheima-s-winter-force.md) differ by 1 point; +1SD is not +1B.
-- [Wraith-1](../../sectorials/combined-army/next-wave.md): 27/0.5 **Hidden** MMR versus 25/0.5 **FTO** MMR; the FTO version loses the Hidden/Surprise setup.
-- [Coyote](../../sectorials/nomads/corregidor.md): 26/0 **FTO MULTI MMR** is distinct from a 33/0 Forward-Deployed MULTI MMR *with BambaBot package*. A 13pt **BambaDroid Thunderbolt** is a subordinate model, not a standalone Coyote at 13pts.
-- [Zhayedan](../../sectorials/haqqislam/ramah-taskforce.md): the **31pt HMG** is BS12 **Marksmanship**; unlike the Djanbazan's MSV2 it does **not** cancel Mimetism. [Maakrep](../../sectorials/combined-army/onyx.md) is a **29pt BS12/MSV2 HMG** with Regeneration.
-- [Knauf](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) has **BS Attack(+1B)** for B3 active MULTI Sniper; [Major Lunah](../../sectorials/yu-jing/imperial-service.md) instead has **+1SD**, not an extra Burst.
-- [Armand Le Muet](../../sectorials/combined-army/vanilla-combined-army.md) MSV1 version costs 34/1.5; the 33/1.5 Minelayer alternative is not simultaneously MSV1. Symbiont/Transmutation and Mimetism−6 are common profile capabilities; check active/inactive state.
-- [Silver Snake](../../sectorials/yu-jing/white-banner.md) **K1 MMR26/0** and **K1 Sniper Marksmanship27/0.5** are separate 8–24in versus long-range options. [Loup-Garou](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) **Viral MMR24/0.5** and **Viral Sniper24/1** likewise have different bands/Burst.
-
-**Data-quality limit:** the uploaded list has unit names and sectorial memberships, not per-profile point/weapon records; all numeric ratings above are verified against cited local roster references. No battle-report-derived performance percentages have been invented. This is a roster-profile/role audit, not a claim of measured tournament ranking.
-
-### Qualifying-profile coverage audit — added 2026-11-03
-
-**Method:** scanned all 45 current [sectorial roster references](../../sectorials/) for relevant ranged profiles and screened **MSV1/2/3, Mimetism−6, BS Attack(−3), Marksmanship, BS14+, and HI**, including combinations. **These are discovery filters, not automatic S/A grades.** A 24–32in weapon, actual Burst/PS/ammunition, Cover/visual FtF, survival, points/SWC, team legality and role cost determine inclusion. Profiles and accessibility are roster-specific; the latest pinned Army tables take priority over the editorial grades. Within a tier row order is *not* a measured win-rate ranking. **Unlisted qualifying HI/visors remain eligible for a fresh profile review**; the sweep is of published roster sections, not a guarantee that every disabled or alternate Army profile was covered.
-
-| Explicitly requested candidate | Cross-faction ruling after profile check |
-|---|---|
-| **[Mormaer](../../sectorials/ariadna/caledonian-highlander-army.md)** | **Added value B+** HMG49/1.5/Tactical Awareness, also an eligible but lower-ceiling active gun; W1/BTS0 and 49pt prevent top tier. |
-| **Veteran Kazak** | **Already in both** tables: AP HMG45/1.5, Mimetism−3, NWI, nonhackable. |
-| **[Shizoku](../../sectorials/jsa/shindenbutai.md)** | **Added both:** FTO AP HMG43/1.5, Mimetism−3, 2W. Fireteam only where legal. |
-| **[Holy Sepulchre](../../sectorials/panoceania/military-orders.md)** | **Added both:** NCO AP HMG53/1, BS14/Holoprojector/Surprise. No automatic permanent surprise penalty. |
-| **Crux Knight** | **Screened, strong 16–24in alternative:** FTO Spitfire49/1.5, BS14, Albedo−6 and +1SD; MMR/Hidden AP SMG are *different* profiles. Shorter weapon bands cap long-gun ranking. |
-| **Knight of Justice** | **Screened, good team fighter, not elite long:** Spitfire42/1.5 or MULTI MMR41–45; BS14/2W, but little native FtF MOD or full HMG reach. |
-| **Joan of Arc v1** | **Screened out of full-length long:** BS15 MULTI Rifle47, Tactical Awareness and command value, but not an HMG/24–32in attacker. |
-| **Joan of Arc v2** | **Screened as midrange:** BS15 AP Spitfire45/1–1.5, Tactical Awareness and NWI; strong 16–24in, not a full HMG-band substitute. |
-| **De Fersen** | **Screened as midrange:** BS14 Spitfire46/1.5 plus Hacking Device; the price buys hybrid network/CC work too, not a superior long gun. |
-| **Mendoza** | **Screened as short/mid assassin:** BS14, Mimetism−6, MULTI Rifle45 or shotgun40 and FD+20; not a 24–32in sustained gun. |
-| **[Yān Huǒ](../../sectorials/yu-jing/invincible-army.md)** | **Added both for HRMC47/1.5**; MULTI HMG45/1.5 **FTO** is a distinct legal linked choice. Do not merge HRMC and FTO. |
-| **Hac Tao** | **Already ranked apex** HMG59/1.5 Hidden/Mimetism−6; non-HMG loadouts do not inherit its range. |
-| **Hector** | **Screened midrange/command:** Spitfire60–64 or Plasma Rifle61–65, BS13, NWI/Strategos, not premium 24–32in repeated shooting. |
-| **Achilles** | **Already B ranged** AP Spitfire, separately dominant in assault/CC; do not promote only for BS15/W3. |
-| **[Aquila Guard](../../sectorials/panoceania/panoceania.md)** | **Added both:** BS15/MSV3 HMG52/1.5. MSV3 does not answer White Noise. |
-| **[Ratnik](../../sectorials/ariadna/tartary-army-corps.md)** | **Added value B(mid):** AP Spitfire46/1.5, +1B, Tactical Awareness, Transmutation; not an HMG-range weapon. |
-| **Asuras** | **Already apex** AP Spitfire61/1.5 MSV3, with 24–32in limits. HD+ MULTI MMR63 is an alternate specialist, not equivalent AP Spitfire. |
-| **[Drummer](../../sectorials/panoceania/panoceania.md)** | **Added both:** HRMC Drumbot-2 package42/1.5. Synchronized controller and bot declare the same Skill and may attack separate targets on that single shared Order; no extra pooled Order. |
-| **Hatamoto** | **Screened midrange:** Spitfire41/1.5 or Red Fury40/1, NCO/X-Visor/Nanoscreen; no full HMG-range positive band, even with X-Visor. |
-| **Bokhtar** | **Screened midrange:** Red Fury46/1.5 + Tactical Awareness, or Parachutist52; speed/deployment and Viral Rifle are other roles. |
-| **[Kosmosoldat](../../sectorials/ariadna/kosmoflot.md)** | **Added both:** AP HMG44/1.5, MSV1, BS Attack(−3), ARM6/NWI. |
-| **[Optimate Agent Maximus](../../sectorials/aleph/operations-subsection.md)** | **Added both:** AP Thunderbolt(+2B), TA, Albedo; 48pt solo with Minimus versus 45pt FTO without; mutually exclusive with TAG Maximus. |
-| **[Ironsides](../../sectorials/combined-army/next-wave.md)** | **Added both:** AP HMG44/1.5, Tactical Awareness, Albedo−3. |
-| **[Sogarat](../../sectorials/combined-army/morat-aggression-forces.md)** | **Added both:** AP HMG/NCO variant; heavy armor and 2W buy repeat shots but not top point-efficiency. |
-
-**Additional newly scored long-gun comparisons:** [Charontid](../../sectorials/combined-army/vanilla-combined-army.md) AP HMG/MSV3; [Silverstar Prime](../../sectorials/o-12/torchlight-brigade.md) HMG/MSV1/−3; [Omega](../../sectorials/o-12/o-12.md) HMG/Mimetism−6; [Atalanta](../../sectorials/aleph/steel-phalanx.md) MSV2/Marksmanship Hidden sniper; [Haetae](../../sectorials/yu-jing/white-banner.md) AP HMG/TA; [5th Minutemen](../../sectorials/ariadna/usariadna.md) AP HMG/+1SD; [Tanuki](../../sectorials/jsa/shindenbutai.md) MSV2 HMG; [Azra'il](../../sectorials/haqqislam/haqqislam.md) AP HMG; [Karhu](../../sectorials/panoceania/panoceania.md) Feuerbach(+1B)/MSV1/Mimetism−3; [Moblots](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) HMG/TA/Mimetism−3; [Djanbazan](../../sectorials/haqqislam/haqqislam.md) MSV2 HMG; [Hassassin Govads](../../sectorials/haqqislam/hassassin-bahram.md) MSV1 HMG; [ORC](../../sectorials/panoceania/neoterran-capitaline-army.md) BS14 HMG; [Knight Hospitaller](../../sectorials/panoceania/military-orders.md) BS14 HMG; [Janissary](../../sectorials/haqqislam/haqqislam.md) BS14 HMG; [Shàng Jí](../../sectorials/yu-jing/invincible-army.md) AP HMG/TA; [Makhai](../../sectorials/aleph/steel-phalanx.md) Red Fury MSV1/TA; [Rudras](../../sectorials/aleph/operations-subsection.md) Red Fury/BS Attack(−3).
-
-**Other qualifying profiles screened but not added as independent entries here:** Reverend Kusanagi AP Spitfire, Guarda de Assalto Spitfire, PanOceanian Black Friar Thunderbolt, Bøyg Mk12(+1B), Rui Shi MSV2 Spitfire, Lù Duān MSV1 Mk12/Thunderbolt, Dàofěi AP Spitfire, Tarik Mansuri AP Spitfire, Al Fasid HMG/smoke, Yaogat sniper/Spitfire, Nøkken Spitfire, Dasyu/Hexa/Trinitarian/Malignos Hidden snipers, Mòwáng Spitfire, Starmada Betatrooper Spitfire, and Gao-Rael Spitfire. Some are *excellent at shorter-range, ARO, smoke-lane, Fireteam or specialist jobs*; that alone is not a higher **sustained 24–32in active-turn** grade. Their links and complete loadouts remain in the faction references, not a merged fictional super-profile.
-
-**Rules-sensitive Drumbot check:** [N5.3 Peripheral](https://infinitythewiki.com/Peripheral) allows a Synchronized controller and bot to declare BS Attack together on one Order (even at separate targets), each using its own gun and Burst; it does **not** grant an extra pooled Order. This differs from Fireteam leader-only shooting.
-
-**TAG sweep:** newly includes Maximus, Juggernaut, Gator, Lóngwáng, Guǐjiǎ, Iguana and Raicho as **separate TAG rows**. Blue Wolf AP Spitfire and similar shorter-band TAGs remain a different 16–24in case.
-
----
-
-## 4. TAG gunfighters — **separate apex and value rankings**
+## 3. TAG gunfighters — **separate apex and value rankings**
 
 **Apples-to-apples within TAGs:** a 3STR TAG's ability to survive, receive Engineer repair and claim a second attack angle matters; so do hacking exposure, S6–S8 base footprint, ammo and points left for the other 200–245 points of the army. These are **active-turn** ratings, **not a full ranking of TAGs in all roles** ([dedicated TAG field guide](tags.md)).
 
@@ -369,7 +283,7 @@ Full cost includes an existing **legal** team/G:Jumper package, SWC, attack setu
 
 ---
 
-## 5. Matchup-driven switchboard: which category wins?
+## 4. Matchup-driven switchboard: which category wins?
 
 | Situation | Non-TAG answer | TAG answer | **Actual decision** |
 |---|---|---|---|
@@ -382,7 +296,7 @@ Full cost includes an existing **legal** team/G:Jumper package, SWC, attack setu
 | **End of turn / objective scoring** | Mukhtar FO, Sukeul FO, Posthuman companion, Stinger team specialist | TAG escorts, ancillary specialist if legal | Gunfire is only good insofar as the cleared route is **scored/occupied/defended**. |
 | **Limited army points/SWC** | 25–45pt gun + mission bodies | Squalos55, Wrecker55, Overdron62 | Choose cheap TAG **only if it outperforms a non-TAG plus useful Specialist/second angle**. |
 
-## 6. Transcript-reviewed videos, podcasts, and **opposing opinions**
+## 5. Transcript-reviewed videos, podcasts, and **opposing opinions**
 
 Use current 2026 roster for facts; opinion evidence below is from actual **MCP transcript reads**, not guessed opinions from titles. These are sources for tactics/disagreement, not verified statistics.
 
@@ -409,7 +323,7 @@ Use current 2026 roster for facts; opinion evidence below is from actual **MCP t
 
 Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operations-subsection.md), [Combined](../factions/vanilla-combined-army.md), [Ariadna](../factions/vanilla-ariadna.md), [Kestrel](../factions/kestrel.md), [Tunguska](../factions/tunguska.md), [Tohaa](../factions/tohaa.md). These were used as **prior research**; not every historical media citation in those files was re-transcribed on this revision. Source speech has occasional misrecognized model names. **No unsupported probability numbers.**
 
-## 7. Sectorial implications — gun choices, not universal faction imports
+## 6. Sectorial implications — gun choices, not universal faction imports
 
 - **Kestrel:**
   - **Griffin HMG37** when lower price/MSV1 and longer range matter
@@ -501,3 +415,41 @@ Specific games inform these **role-based** tier changes, not universal win rates
 **Evaluation checkpoint:** Count defender/Order/console access removed **per attack Order**, remaining own **Specialists and scoring Orders**, vulnerability to counter-hacking/edge strikes, and whether an equally priced flexible attack would do more. A high-ceiling unit can be *good at fighting* and still be the wrong purchase or selection for a specific mission.
 
 [Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+---
+
+## 7. Ranged evaluation framework and Order efficiency
+
+### Ranged-first assessment rubric (revised 2026-11-02)
+
+This is a **qualitative weighting policy**, not pretend measured percentages or unit win rates:
+
+| Weight | Ranged evaluation axis | What counts / does not count |
+|---|---|---|
+| **40%** | **16–32in ranged FtF, with emphasis on credible 24–32in engagements** | Printed weapon bands, active Burst/SD, BS, Cover/Mimetism/MSV/Marksmanship, enemy ARO. A Red Fury or Spitfire may be strong at 16–24in but does not inherit HMG-quality 24–32in play. |
+| **25%** | **Damage/conversion and target diversity at that range** | AP/HRMC/MULTI or appropriate ammunition versus HI/TAG; ability to remove more than cheap light infantry. Close-range templates, Protheion and CC kill chains **earn no credit here**. |
+| **15%** | **Survival for repeat ranged engagements** | ARM/Wounds/STR, Mimetism, Hidden entry, safe extraction/recovery. No Cover, hackers, E/M and exposed return fire are real penalties. |
+| **10%** | **Reaching/repositioning between useful ranged lines** | Climbing, height, deployment and movement, **only** insofar as they create or improve 16–32in shots. Speed to reach base contact is short-assault value instead. |
+| **10%** | **Ranged contribution per full roster cost** | Actual points/SWC, existing legal Fireteam, support and usable activations; value tier applies an additional explicit opportunity-cost check. |
+
+**Hard separation:** A model that cannot credibly contest a medium/long firelane must **not** receive an S or A+ ranged ranking merely for having elite BS, CC, speed, a short-range gun, or a spectacular first-turn alpha. Rate **individual gun profiles**, not blended fictional combinations. For 0–16in or mixed close/midrange play, see the [short-assault comparison](../Strategy/close-combat-and-short-range-assault.md). Report evidence informs *context and confidence*, not unsupported statistical grades.
+
+### Firepower versus **actual** Order efficiency
+
+A good gunfighter wins the **right** Face-to-Face fight, converts hits to consequences, and still contributes after the first target dies. Compare six steps:
+
+1. **Reach:** count Orders to get into positive weapon range and a workable angle. A 20-5 flyer, infiltrator, or Climbing unit may pay **zero or one** approach Order where a BS15 heavy gun pays three.
+2. **Win the FtF:** use the **real active Burst**, modified BS/PH target number, range, Cover, Mimetism, MSV, Marksmanship and enemy ARO. High Burst improves *consistency*, while high target numbers help defeat a strong enemy die.
+3. **Convert hits:** account for current **PS/ammunition** and target armor/BTS/Wounds/STR/Immunities. In N5 **lower PS is more lethal**; AP, DA, EXP, K1, Plasma, Viral and E/M have **different** ideal victims.
+4. **Continue:** after target one, can the same position hit exposed support, Specialist, Repeater, Engineer, second gun or scoring lane—or must it move through another three Orders?
+5. **Survive/exit:** ending prone, out of LoF, behind screen, or recoverable near Engineer may be worth an Order. An exposed 50pt one-wound shooter is not automatically value because it killed 20 points first.
+6. **Pay full list cost:** add 2–4 required Fireteam fillers, smoke, hacking, Engineer, EVO, SWC and the fact that 90–122pt TAGs can prevent buying an independent second attack plan.
+
+**Fast heuristic:** _useful enemy Orders denied + objectives opened + attacks won_, divided by _setup + movement + attack + exit Orders_; compare catastrophic losses and alternative shooters. This is a **decision aid**, not a fake precise score or unsupported mathematical kill percentage.
+
+**Rules traps:**
+- **+1 Special Die (SD) is not +1 Burst.** Roll the extra die and discard one before resolving; it improves the FtF but does not generate another effective hit. A legal Fireteam activates its members together, **one nominated leader makes the active attack**.
+- **Marksmanship** ignores the negative BS MOD from Partial Cover/Nanoscreen, **not** Cover's improved save. It does **not** ignore Mimetism or range. Marksmanship itself is affected by White Noise/Albedo/Reflective interactions; do not silently score it as universal +3.
+- **MSV** answers suitable visual MODs; **Albedo and White Noise** can invert the matchup. Mimetism has less value into the correct MSV level.
+- **A profile with a personal extra Order** only increases efficiency if that activation is **actually usable** on the shooter or its legal team; it does not become a free pooled Order. Count Fireteam **composition** and mobility restrictions, not just printed bonuses.
+- Avoid assigning fake weapon Burst or success probabilities from a video. Current [weapon chart and update](../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) and explicit active/reactive dice decide a particular exchange.
