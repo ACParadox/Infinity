@@ -25,7 +25,7 @@ _Updated 2026-11-04, dedicated medium-weapon apex and price-aware long-range ape
 
 Infantry/REMs/VH only. **Apex** means maximum credible active-turn gunfighting against realistic defenders in the stated range, not merely short-assault efficiency. VH still suffer **No Cover**; see [vehicles](vehicles-vh.md).
 
-**Range policy:** Long-range means credible repeated **24–32in or farther** fire (HMG/HRMC/Feuerbach/sniper and 16–32in Thunderbolt). Medium-range apex is restricted to **native 8–24in weapon choices** (MMR, Red Fury, Spitfire, Mk12, Plasma Rifle): **no HMGs, Thunderbolts or Portable Autocannons**, even when their bands overlap. Those profiles remain assessed in long-range and/or points-value tables. Ratings reflect the listed profile in each context. **G:Jumper rankings must count the complete minimum legal Proxy package, not only the incremental gun body.** **Ranks restart within each range and follow grade first**, with qualitative tie-breaking within grades; no measured tournament win-rate ordering.
+**Range policy:** Long-range means credible repeated **24–32in or farther** fire (HMG/HRMC/Feuerbach/sniper and 16–32in Thunderbolt). Medium-range apex is restricted to **native 8–24in weapon choices** (MMR, Red Fury, Spitfire, Mk12, Plasma Rifle): **no HMGs, Thunderbolts or Portable Autocannons**, even when their bands overlap. Those profiles remain assessed in long-range and/or points-value tables. Ratings reflect the listed profile in each context. **G:Jumper rankings must count the complete minimum legal Proxy package, not only the incremental gun body.** **Ranks restart within each range and follow grade first**, breaking close performance ties with points, SWC, delivery/independent activation, and expected repeat engagements; no measured tournament win-rate ordering.
 
 ### Long-range — 24–32in and farther
 
@@ -440,7 +440,7 @@ Additional unit analysis in [NCA](../factions/nca.md), [OSS](../factions/operati
 - **Combined/Shas/Onyx/Next Wave/Morat:**
   - **Overdron62** is anti-MSV/armor long gun
   - **Avatar122** maximum ceiling expensive purchase
-  - **Sheskiin50/1 Red Fury** is an **A+ medium-range apex (#9) / A medium-value (#23)** shooter on its own merits; the **48/0 MULTI Rifle** and Protheion/CC kill chains remain separate *short-assault* jobs.
+  - **Sheskiin50/1 Red Fury** is an **A+ medium-range apex (#3) / A medium-value (#23)** shooter on its own merits; the **48/0 MULTI Rifle** and Protheion/CC kill chains remain separate *short-assault* jobs.
   - **Skyhound33** aerial angle
   - **Stinger30** backup HMG
   - **Suryat43** gun+personal activation vs **Sogarat52–58** heavy armor and AP/Feuerbach.
@@ -524,7 +524,7 @@ This is a **qualitative weighting policy**, not pretend measured percentages or 
 
 | Weight | Ranged evaluation axis | What counts / does not count |
 |---|---|---|
-| **40%** | **Range-specific ranged FtF: Long 16–32in (emphasis 24–32in); Medium 8–24in (emphasis 16–24in)** | Use printed weapon bands, real active Burst/SD, BS, Cover/Mimetism/MSV/Marksmanship and enemy ARO. Rate a Red Fury/Spitfire on its **actual medium bands**, not as a hypothetical HMG. Crossovers qualify only when the **same profile** is strong in both roles. |
+| **40%** | **Range-specific ranged FtF: Long 16–32in (emphasis 24–32in); Medium 8–24in (emphasis 16–24in)** | Use printed weapon bands, real active Burst/SD, BS, Cover/Mimetism/MSV/Marksmanship and enemy ARO. Rate a Red Fury/Spitfire on its **actual medium bands**, not as a hypothetical HMG. The **non-TAG medium apex** table evaluates native medium guns only: HMG, Thunderbolt and Portable Autocannon profiles remain in long-range/points-value rankings even if their 16–24in bands are strong. |
 | **25%** | **Damage/conversion and target diversity at that range** | AP/HRMC/MULTI or appropriate ammunition versus HI/TAG; ability to remove more than cheap light infantry. Close-range templates, Protheion and CC kill chains **earn no credit here**. |
 | **15%** | **Survival for repeat ranged engagements** | ARM/Wounds/STR, Mimetism, Hidden entry, safe extraction/recovery. No Cover, hackers, E/M and exposed return fire are real penalties. |
 | **10%** | **Reaching/repositioning between useful ranged lines** | Climbing, height, deployment and movement, **only** insofar as they create or improve 16–32in shots. Speed to reach base contact is short-assault value instead. |
