@@ -38,6 +38,8 @@
 | **Top 3 (#2) — Fast-ground/VH enemy-DZ breakthrough** | **Tarkshya MULTI Marksman Rifle 34/0** | S apex / S value: 0SWC aerial MSV1/Mimetism(-6) + 3STR, useful Operator fallback; Hackable S7 and No Cover | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L210) |
 | **Top 5 (#4) — Fast-ground/VH enemy-DZ breakthrough** | **Penthesilea motorcycle 28/0** | A+ apex / A+ value: high-speed Smoke GL, Mimetism(-3), Monofilament and mission utility; S4 exposed approach, no DZ skill | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L212) |
 | **Top 10 (#10) — Fast-ground/VH enemy-DZ breakthrough** | **Hippolyta 37/0** | A+ apex / A value in breakthrough table: Mimetism(-6), Smoke, Super-Jump, EXP CC and 2W; costly on-table route, not AD | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L218) |
+| **Top 3 (#1) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (apex)** | **Asura MSV3 + HD+ 63/.5** | WIP15 White Noise plus MSV3 active Camo response on a resilient scoring gun; costly, hackable, and no Sensor-through-wall sweep | [#1 apex](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L34) |
+| **Top 3 (#2) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (apex)** | **Marut MSV2 MULTI HMG 86/1.5** | BS15, armor and Tactical Awareness make a premier anti-Mimetism/ordinary-Smoke gun; not MSV3, vulnerable to White Noise/hacking | [#2 apex](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L35) |
 
 **Other high-quality roles without forced whole-game ranks:**
 - **Shukra CoC 21/0:** Counterintelligence and succession insurance for a risky Marut/Asura Lieutenant.
