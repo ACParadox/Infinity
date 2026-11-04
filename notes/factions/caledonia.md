@@ -16,7 +16,7 @@
 | **Top 10 (#9) Apex — Cheerleaders / Order Generators** | **Denma Connolly 12/0 — Smoke, Chain Rifle (+1B), AP+DA CCW** | Native Regular plus Impetuous Smoke/CC trade with NBW and MetaChemistry; useful assault enabler but No Cover and 1W make it risky to leave exposed. [Roster](../../sectorials/ariadna/caledonian-highlander-army.md) | [Apex #9](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) |
 | **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/caledonian-highlander-army.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
 
-**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
+#### Active-turn gunfighter and other role standouts (2026-11-04)
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
