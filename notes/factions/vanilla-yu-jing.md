@@ -14,6 +14,8 @@
 
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
+| **Top 10 (#7) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (value)** | **Yáofáng Lóng Yá Panzerfaust(+1B), 16/0** | Camouflage, FD(+10), B2 AP+EXP ARO and a second Flammenspeer(+1B) response; **17pt Minelayer is different**; no White Banner links in Vanilla | [#7 value](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L136) |
+| **Top 10 (#10) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)** | **Haetae AP HMG, 40/1.5** | BS14 B4 AP, ARM5/2W, Tactical Awareness. Vanilla roster confirms this member; **do not assume White Banner Fireteam** in Vanilla | [#10 apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L81) |
 | **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
 | **Top 10 (#7) — Budget CC Value (value; ≤22 pts)** | **Shaolin Monk DA CCW 6/0** | CC23/MA3, DA(PS5), Smoke; Outstanding literal cheap close combat; W1, Irregular+Impetuous and No Cover. | [#7 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L183) |
 | **Top 10 (#10) — Budget CC Value (value; ≤22 pts)** | **Hwarang LSG+Panzerfaust 19/0** | CC22/MA3, EXP, 2W, ARM3, Albedo(-3); Unusually durable and lethal for 19pt; less independent vision delivery than Smoke warbands. | [#10 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L186) |
