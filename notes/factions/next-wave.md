@@ -22,6 +22,13 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
+#### Cross-faction Top 10 CC standings
+
+| Whole-game role / exact cross-faction rank | Legal profile | What it contributes to the CC role |
+|---|---|---|
+| **Top 3 (#1) — Frontline CC Combatants (apex)** | [**Achilles 62/1.5 or 63/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L148) | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons; Highest sustained direct-combat ceiling; huge Hackable investment and vulnerable to control networks. |
+| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
+
 - **Top 3 — Peripherals, Synchronized & Multi-Body Packages (apex+value): Gearhead + Sartroid Puzzlers.** ([cross-faction S Cyberplug package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62))
   - **Gearhead Cyberplug 13/0 + Puzzler 12/0 = 25/0** ([cross-faction S one-Puzzler package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62)).
   - **Gearhead + two Puzzlers = 37/0** ([cross-faction S two-Puzzler package](../list-building/peripheral-synchronized-multibody-apex-value.md#L62)).
@@ -32,7 +39,6 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 - **Top 10 — Active-Turn Gunfighters (value): Stinger HMG 30/1.** ([cross-faction A+ ranged value](../list-building/active-turn-gunfighters-apex-and-value.md#L113)) **A+** in the [active gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md) as a cost-effective backup gun. It remains one Wound and cannot inherit another Stinger's MSV2/Multi Marksman loadout.
 - **High-upside but not universal Top-5 gun: Skyhound AP/Plasma Thunderbolt 33/0.** ([cross-faction A geometry](../list-building/active-turn-gunfighters-apex-and-value.md#L61)) **A for geometry**, not S, in the [revised gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md). The aerial 0-SWC angle and Mimetism(-6) are excellent, but a large **VH without Cover** remains Hackable and vulnerable to E/M.
 
-- **Top 3 (#1) — Frontline CC Combatants (apex): Achilles 62-point AP Spitfire / 63-point Plasma Rifle.** ([cross-faction S close assault](../list-building/dedicated-close-combat-assassins-apex-value.md#L148)) **S for close-combat/frontline follow-through** in the [dedicated assault guide](../list-building/dedicated-close-combat-assassins-apex-value.md): 3W, CC24/MA4, fast movement and a legal Team Achilles package. The [long-range gunfighter regrade](../list-building/active-turn-gunfighters-apex-and-value.md) rates his AP Spitfire only **B as sustained ranged fire**; he must reach the desired range and defend against hacking/E/M.
 - **Top 3 — Vehicles (VH / Aerial) (value): Skyhound AP/Plasma Thunderbolt + Mine Dispenser 33/0.** ([cross-faction S apex / S value](../list-building/vehicles-vh.md#L48)) **S apex / S value within the [Vehicle guide](../list-building/vehicles-vh.md)** for BS14, Mimetism(-6), unusual vertical approaches and 0-SWC dual-role fire. The more specific [ranged gun guide](../list-building/active-turn-gunfighters-apex-and-value.md) grades it **A for geometry**, not S for sustained long-lane fighting: S7 **No Cover**, Hackable and an easy E/M target remain severe weaknesses.
 - **Top 5 — Rare Abilities & Unusual Combinations (apex): Ko Dali.** ([cross-faction S rare capability](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L88))
   - **FD(+20) 34/0** ([cross-faction S Ko Dali profiles](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L88)) and **Combat Jump 37/0** are alternative stand-alone profiles.
