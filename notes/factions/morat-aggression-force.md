@@ -29,6 +29,7 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
 
+- **Top 3 (#2) — Budget CC value (≤22pt): Dāturazi Chain(+1B) 14/0.** [#2 budget close-combat ranking](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L178): CC23/MA4, two actual CC attack dice, DA, Regular Smoke and Warhorse. Its assault value is **not** solely the Yaogat Smoke-shooting combination.
 - **Top 3 — Cheerleaders and Order Generators (value): Oznat FTO + Gakis.** ([cross-faction S+ Order engine](../list-building/cheerleaders-and-order-generators.md#L166))
   - **Haris:** ([cross-faction S+ three-Order Haris](../list-building/cheerleaders-and-order-generators.md#L167)) Oznat FTO 15/0 + two Gakis 4/0 = **23 points, 0 SWC for three Regular Orders** with the qualifying Fireteam Master interaction.
   - **Core:** ([cross-faction S+ five-Order Core](../list-building/cheerleaders-and-order-generators.md#L166)) Oznat FTO + four Gakis = **31/0 for five Regular Orders**.
