@@ -8,11 +8,11 @@
 
 **Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
 
-**Active-turn gunfighters — cross-faction Top 10 reconciliation (2026-11-04)**
+**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
-| Exact cross-faction placement | Legal local gunfighter / profile | Shooting case and limitations |
+| Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
 | **Top 10 (#9) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L44) | **Kosmosoldat AP HMG44/1.5** | BS13, MSV1, BS Attack(−3), **AP HMG PS4**, ARM6 and NWI offer strong repeatable active FtF plus armor conversion. **Limit:** Hackable, slow 10-10 and 1W+NWI (not 2W); choose clear long-lane approach. |
 | **#13 — Non-TAG long-range apex (A+, armor-selective)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L48) | **Kosmosoldat Portable Autocannon44/1.5** | Promoted directly below Charontid AP HMG: active **B2 AP+EXP**, BS13, MSV1, BS Attack(−3) and ARM6/NWI yield a durable hard-target breaker. **Limit:** B2 is less consistent than AP HMG B4 against several AROs or light targets; this is a distinct 44pt/1.5SWC loadout, and #13 is outside the strict Top 10. |
