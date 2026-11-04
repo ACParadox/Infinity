@@ -30,9 +30,8 @@
 | **Top 10 — Best Cheap Units in Infinity N5.3 (value)** | **Dikpala Repeater / Akrylat-Kanone, 13/0** | [OSS Top 10 cheap REM value](../list-building/best-cheap-units-apex-and-value.md): inexpensive Regular REM/Repeater; Vanilla can field it unlinked rather than in an OSS Fireteam. | [Shared N5.3 role ranking](../list-building/best-cheap-units-apex-and-value.md) |
 | **#19 — ARO Units (apex+value; below Top 10)** | **Agêma MULTI Sniper 27/1.5 or Missile Launcher 27/1.5** | [Steel Phalanx ranked ARO (not Top 10)](../list-building/aro-units-apex-and-value.md#L69): independent Hidden sniper vs one-use Camouflage/Decoy missile options; distinct loadouts, no assumed link bonuses. | [Shared N5.3 role ranking](../list-building/aro-units-apex-and-value.md#L69) |
 | **Top 10 — Warbands and Cheap Trading Units (value)** | **Myrmidon Chain Rifle + normal Smoke, 16/0** | [Steel Phalanx Top 10 value](../list-building/warbands-and-cheap-trading-units-apex-value.md#L104): Mimetism(-6), MA3, cheap smoke screen; Vanilla has the same independent unit but not the Core bonus. | [Shared N5.3 role ranking](../list-building/warbands-and-cheap-trading-units-apex-value.md#L104) |
-| **Top 10 — Dedicated Close-Combat Assassins and Fighters (apex)** | **Penthesilea motorcycle 28/0** | **#10 assassin apex:** extremely fast MOV20-15, Smoke Grenade Launcher, Monofilament CC with CC Attack(-6) and Specialist Operative. Same legal Vanilla ALEPH profile as Steel; **unlinked**, S4 bike geometry, Impetuous/limited cover and no marker state limit survival. | [#10 — assassin apex](../list-building/dedicated-close-combat-assassins-apex-value.md#L174) |
 | **Top 5 — Best Cheap Units in Infinity N5.3 (value: defensive-enabler subgroup)** | **K2 Auxiliar FTO E/Marat 11/0** or **Mine Dispenser 12/0** | **#4 cheap defensive enablers:** Regular ARM2/BTS3 HI/STR body with NWI, Remote Presence and Flash Pulse plus E/Marat or Order-consuming Mine Dispenser. Vanilla ALEPH can take the eligible profile **without a Fireteam**; no free Minelayer mine or 18pt airborne Specialist's equipment. | [#4 — cheap defensive enablers](../list-building/best-cheap-units-apex-and-value.md#L88) |
-| **Top 10 — Dedicated Close-Combat Assassins and Fighters (apex)** | **Hippolyta 37/0** | [Steel Phalanx Top 10 CC](../list-building/dedicated-close-combat-assassins-apex-value.md#L185): Super-Jump, Mimetism(-6), normal Smoke and dangerous EXP CC; the same Vanilla attacker, without Fireteam support. | [Shared N5.3 role ranking](../list-building/dedicated-close-combat-assassins-apex-value.md#L185) |
+| **Top 10 — Dedicated Close-Combat Assassins and Fighters (apex)** | **Hippolyta 37/0** | [Steel Phalanx Top 10 CC](../list-building/dedicated-close-combat-assassins-apex-value.md#L157): Super-Jump, Mimetism(-6), normal Smoke and dangerous EXP CC; the same Vanilla attacker, without Fireteam support. | [Shared N5.3 role ranking](../list-building/dedicated-close-combat-assassins-apex-value.md#L157) |
 
 **Other high-quality roles without forced whole-game ranks:**
 - **Shukra CoC 21/0:** Counterintelligence and succession insurance for a risky Marut/Asura Lieutenant.
@@ -40,6 +39,8 @@
 - **Dasyu FO 29/0 / KHD 31/0:** Hidden Deployment, Mimetism(-6) and mission reach at a significant cost.
 - **Parvati 36/0:** S-apex Doctor(2W)/Engineer support and resilient forward specialist, but a premium cost versus Sophotect or Posthuman Mk.1.
 - **Satrah 24/0 MSV2 + Albedo / 20/0 KHD:** A+ rare dual-visibility tool in matchups with enemy MSV, Camouflage or Hackers, not an all-purpose gun.
+
+**Outside the Top 10 assassin tier:** Penthesilea motorcycle 28/0 is **#15** ([CC assassin tiers](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L138)), due to S4/exposed approach despite her Smoke GL, speed and Monofilament.
 
 ### Particularly powerful synergies — but no standard Vanilla Fireteams
 
