@@ -8,6 +8,14 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: Sapper/STR2 Neurocinetics, full reactive Sniper or PAC Burst. **FRRM has no TAK Gunnery Fireteam**; both loadouts are independent options, with AP Sniper cheaper and PAC anti-heavy. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
