@@ -10,6 +10,14 @@
 
 **Top 3 / Top 5 / Top 10** are qualitative shortlist *candidates within the named role*, not measured overall rankings. **Apex** means peak matchup impact; **value** weighs points, SWC and Orders. The [Hacker](../list-building/hackers-and-killer-hackers.md), [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [TAG](../list-building/tags.md) cross-faction guides provide the comparisons.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: 21pt T2 or AP Camouflage(1 Use) long sniper at a low purchase cost; distinct options, Irregular W1. Useful disposable route denial alongside Dahshat's heavier guns. |
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 10 (#6) — Dedicated CC Assassins (apex)** | **Saito Tōgan 33/0** | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun; Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. | [#6 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L129) |
