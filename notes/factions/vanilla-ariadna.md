@@ -8,6 +8,16 @@
 
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#10) Apex · Top 3 (#2) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine threaten high-ARM lanes; #223 documents an anti-heavy reactive trade. **Vanilla roster prints +1B, source guide provisionally +1SD**—do not silently treat the modifier as resolved. |
+| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: standalone Neurocinetics, Sapper, STR2, with AP Sniper offering lower SWC and Autocannon specializing versus armor. In Vanilla, **no TAK Gunnery Fireteam bonus**. |
+| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: low-cost camouflaged long hard-ammo lane; the T2 and AP Sniper are **separate Irregular 1W profiles**, not two weapons on the same model. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
