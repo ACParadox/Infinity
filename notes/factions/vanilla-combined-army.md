@@ -37,7 +37,7 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
