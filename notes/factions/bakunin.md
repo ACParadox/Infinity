@@ -12,7 +12,7 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 The [current ARO ranking](../list-building/aro-units-apex-and-value.md) covers exact profiles; printed faction equipment and genuinely legal Fireteams take precedence over generic capability descriptions.
 
