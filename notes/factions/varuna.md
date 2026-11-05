@@ -15,6 +15,14 @@
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Entries below #10 are retained outside the standout table.
 
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Positions are **role-specific** in the [current ARO rankings](../list-building/aro-units-apex-and-value.md); roster legality and printed Fireteam access take precedence over generic faction examples.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#7) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Helot Neuro LRL / Shock MMR / Red Fury 10–15pt** | S Value #7: full reactive B2 LRL, B3 Shock Marksman or B4 Red Fury at low cost; FTO/Sensor and one-use Camo are **mutually exclusive profiles**. Irregular W1; only eligible FTOs receive link bonuses. |
+
 | Whole-game shortlist (specific job) | Varuna unit/profile | Why it stands out / limits |
 |---|---|---|
 | **Top 5 (#5) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L103) | **Kamau HMG26/1** | In an already purchased *legal* team, cheap Mimetism−3 BS13 long gun. **Limit:** A newly built expensive Core just for Kamau eliminates much of the headline value. |
@@ -22,7 +30,6 @@
 | **Top 3 (#2) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L287) | **Squalos Mk-II HMG62/1.5** | BS15, ARM6/3W, Tactical Awareness and a genuine 16–32in HMG plus Grenade Launcher. A distinct 62pt long-gun choice, not the 55pt MMR or 66pt MULTI HMG. **Limit:** Plain HMG lacks selectable AP ammunition, and 62pt/1.5SWC still demands an anti-hacking plan. Do not import Kestrel-specific +1SD automatically. |
 | **Top 3 (#3) — TAG ranged value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L288) | **Squalos Mk-II MULTI HMG NCO66/1.5** | BS15, ARM6/3W, Tactical Awareness and MULTI HMG AP mode give strong repeat long-lane fire. NCO can convert a usable LT order if the roster supports that sequence. **Limit:** Costs 66pt/1.5SWC (11 more than MMR); Hackable, NCO has no value without a usable LT Order and no universal Kestrel +1SD. |
 | **Top 5 (#4) — TAG ranged value (A+ (medium/budget))** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L289) | **Squalos Mk-II MULTI MMR55/1** | 55pt/1SWC BS15 MULTI Marksman Rifle B3 AP/Shock, ARM6/3W and Tactical Awareness are excellent **medium-range budget TAG** performance. **Kestrel** specifically prints BS Attack(+1SD), giving that sectorial a higher gun ceiling. **Limit:** The MMR is −3 at 24–32in and is **not** a generic long-lane equal of Overdron/Zeta/HMG versions. Vanilla/NCA do not inherit Kestrel's +1SD; S6/Hackable and Crabbot is not an extra pooled Order. |
-| **Top 5 (#4) — ARO Units (value)** | [**Helot FTO SMG + LRL + Sensor, 10/0**, or **Camo(1 Use) LRL, 12/0**](../list-building/aro-units-apex-and-value.md#L106) | [S+ non-TAG ARO value](../list-building/aro-units-apex-and-value.md#L106): Neurocinetics on an extremely cheap entry tax. **FTO and Camo are separate profiles**; Irregular is not a transferable Order unless actually converted. |
 | **Top 3 (#3) — TAGs (apex)** | [**Cutter MULTI HMG, ~97/2**](../list-building/tags.md#L218) | [S TAG apex](../list-building/tags.md#L218): Hidden/Camo, Mimetism(-6) and BS15 give very strong initial firing geometry. Its enormous price makes overall TAG **value B**. |
 | **Top 3 (#2) — TAGs (value)** | [**Squalos Mk-II MMR, 55/1**, or **HMG+GL, 62/1.5**](../list-building/tags.md#L260) | [S TAG value](../list-building/tags.md#L260): BS15/Tactical Awareness with affordable independent pressure; not Cutter-like concealment. |
 | **Top 10 (#6) — Peripherals, Synchronized & Multi-Body Packages (value)** | [**Peacemaker HSG + Auxbot, 23/0**, or **Minelayer + Auxbot, 24/0.5**](../list-building/peripheral-synchronized-multibody-apex-value.md#L86) | [S+ multi-body value](../list-building/peripheral-synchronized-multibody-apex-value.md#L86): FD(+20), native Repeater and close template/optional mine support. S4, Hackable, Peripheral Coherency. |
