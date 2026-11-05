@@ -13,7 +13,7 @@
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 The [current ARO ranking](../list-building/aro-units-apex-and-value.md) covers exact profiles; printed faction equipment and genuinely legal Fireteams take precedence over generic capability descriptions.
 
