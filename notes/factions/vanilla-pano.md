@@ -15,7 +15,7 @@
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each retained entry uses the narrowest applicable band and displays its numbered source position. These are editorial orderings, not measured win rates or universal overall-unit ranks; profiles below #10 appear separately.
 
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Positions are **role-specific** in the [current ARO rankings](../list-building/aro-units-apex-and-value.md); roster legality and printed Fireteam access take precedence over generic faction examples.
 
