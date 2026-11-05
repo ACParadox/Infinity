@@ -19,6 +19,15 @@
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Positions are **role-specific** in the [current ARO rankings](../list-building/aro-units-apex-and-value.md); roster legality and printed Fireteam access take precedence over generic faction examples.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 5 (#4) — ARO Units (apex)** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) | **Knight of Justice Missile Launcher (+1SD) 46/1.5** | S linked Apex #4: BS14, ARM5/2W, BTS9 and native +1SD; extra team bonuses require a **legal MO link** (counts as Hospitaller), not the FTO label alone. |
+| **Top 10 (#9) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Escort Sergeant Neuro HRL + Auxbot 22/1.5** | S Value #9: independent Neurocinetics HRL with synchronized Auxbot for a second protective angle. **Not FTO/linkable**; controller/peripheral ARO and coherency restrictions apply. |
+
 | Whole-game role / cross-faction positioning | Military Orders unit and **current profile** | Why it is exceptional / reason not to auto-include |
 |---|---|---|
 | **Top 5 (#5) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L71) | **Joan of Arc v2 LT AP Spitfire45/1** | BS15, **AP Spitfire**, X-Visor, 2W+NWI and Tactical Awareness yield excellent mid-lane Burst and armor conversion; LT version is the **45pt/1SWC** profile. **Limit:** No permanent Mimetism or BS Attack(−3); ARM3 and the fighting-LT risk matter. Command/CC/Strategic Deployment are separate contributions, not imaginary extra shooting dice. |
