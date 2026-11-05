@@ -22,11 +22,7 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
-**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
@@ -34,6 +30,10 @@ Cross-faction placements from the [current ARO guide](../list-building/aro-units
 |---|---|---|
 | **Top 10 (#6) Apex · Top 3 (#1) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Teucer Neurocinetics Plasma Sniper 37/1.5** | A+ Apex #6 / S+ Value #1: BS14, MSV2, Mimetism(-3), NWI and full reactive Plasma Sniper Burst. **Unlinked Neuro** option; 35pt Feuerbach FTO is a different legal profile. |
 | **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor and full TR Thunderbolt ARO; repairable STR1 but BS11/ARM0 and vulnerable to hacking. |
+
+**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
+
+These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
 | Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
