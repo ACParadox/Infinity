@@ -1,51 +1,98 @@
 # Chain of Command — N5.3 Apex and Points-Value Tier Guide
 
-Rankings and roster-specific choices for **Chain of Command (CoC) succession**, moved from the [Lieutenant and command units guide](command-units-apex-and-value.md). See that guide for shared rules on Loss of Lieutenant, Mnemonica, Strategos, NCO and the command economy.
+**48 eligible or provisionally eligible named entries ranked individually, plus one explicitly excluded unit.** This replaces the older top-20 ranking and unranked appendix. Each listed unit has **independent apex and value positions**: the table is sorted by apex; the `Value #` column is a full second ordering. These are qualitative list-building judgments, not tournament win rates.
 
-_Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fireteam legality use the pinned September 2026 Army 7.26246.158/159 files under [sectorials](../../sectorials/combined-army/vanilla-combined-army.md); [local N5.3 rules](../../rules/README.md) and FAQ v0.1 override historical media. Rankings are tactical judgments, not tournament win rates. Check each named unit’s actual faction/sectorial and exact profile._
+**Scope:** Chain of Command (CoC) succession **while the model is on the table and not Null/Isolated at the Loss of Lieutenant check**. CoC (Non Specialist) does not count as a Specialist merely because of CoC. A trooper's **Lieutenant profile is not its CoC profile**; do not pool equipment/skills/bonuses from different options. Always check the actual faction/sectorial selection and Fireteam chart. See [Lieutenant command rankings and economy](command-units-apex-and-value.md), [mission specialists](mission-specialists-and-button-pushers-apex-value.md), and [local N5.3 rules](../../rules/README.md).
 
-**Related:** [Lieutenant command rankings](command-units-apex-and-value.md), [Mission specialists](mission-specialists-and-button-pushers-apex-value.md), [Lieutenant and command strategy](../Strategy/lieutenant-and-command-structure.md).
+_Updated 2026-11-05 against the repository's pinned September 2026 Army 7.26246.158/159 sectorial profiles. Availability below names **verified example rosters**, not an exhaustive or transferable wildcard permission. For current CoC timing and Non Specialist restriction, see the [official Infinity wiki](https://infinitythewiki.com/Chain_of_Command). Items marked † have a source discrepancy, explained below._
 
-## Chain of Command tiers — apex and value rankings
+## Whole-game standouts — apex versus value
 
-**Apex = successor also performs important battlefield work; value = cheap reliable backup per point/SWC.** CoC cannot be bought in another sectorial merely because the same faction offers it. **Non Specialist** CoC does not count as a Specialist where CoC normally would.
+**Apex** weights the successor's useful contribution *even if the Lieutenant survives*: team integration, objectives, attack/defense, survivability and command continuity. **Value** weights reliable insurance plus other use per points/SWC and the cost of protecting it. An inexpensive safe CoC can beat a combat hero on value without matching its battlefield ceiling. Grades: **S** exceptional in a suitable roster, **A+** excellent, **A** strong, **B+** useful/situational, **B** niche, **C** poor insurance efficiency in normal lists. Neither position implies universal army eligibility.
 
-| # | Apex | Value | CoC model, roster price | **Why and best use** | Main tradeoff |
-|---|---|---|---|---|---|
-| 1 | **S** | **S** | **Nexus 23/0 — Onyx/Vanilla Combined** | BS13, Mimetism(-3), NCO, Number 2, E/Mitter and D-Charges; excellent **linkable mission/attack infrastructure plus succession**. Very small marginal increase if it replaces a Unidron slot. | Onyx Wildcard **Unidron context only**; don't invent a Nexus/Xeodron Fireteam. |
-| 2 | **S** | **S** | **Kaeltar 21/0.5 or 28/0.5 — Tohaa** | CoC **plus one/two SymbioMates** gives two jobs; protection of prime combat units partly pays for insurance. | 0.5 SWC and weak direct combat; two mates belong only to 28pt loadout. |
-| 3 | **S** | **A+** | **Caliban 29/0 — Shasvastii** | Camo, Forward Deployment, Protheion, close assault and valuable midfield/scenario access. Pick when **still positioned to survive the LT assassination**, not sent as lone disposable attacker. | Opportunity cost versus Shrouded if only a backline CoC is needed. |
-| 4 | **S** | **A+** | **Farzan 24/0 — Haqq/Hassassin** | Camo/forward threat, mines, scoring and LT succession. Excellent insurance for aggressive Bokhtar/other premium LT or protecting Saladin engines. | Discover/Sensor/template pressure may expose it; keep away from LT footprint. |
-| 5 | **A+** | **S** | **BCA Magistrate 21/0 — Kestrel/Vanilla PanO** | Counterintelligence, Specialist Operative, Fireteam Master and a plausible alternative LT appearance. Ideal Tik/active LT backup. | W1; *CoC Magistrate is not Strategos LT Magistrate*. |
-| 6 | **A+** | **S** | **Shukra 21/0 — ALEPH** | Counterintelligence and inexpensive, hidden/defensive successor for Marut/Asura. | Less combat value; expensive if never using the command insurance. |
-| 7 | **A+** | **S** | **Raveneye 18/0 — Torchlight** | Holomask + Forward Observer/Minelayer gives clandestine, mission-capable successor at low price. | Can be threatened by AD; don't stack with the LT. |
-| 8 | **A** | **S** | **Kempeitai 17/0 BSG, 20/0 Combi — JSA** | The 17pt profile is top raw points insurance and provides corner/approach protection. Supports Hatamoto/Domaru attack LTs. | No strong marker defense; opponent targeting a known DZ unit may remove it cheaply. |
-| 9 | **A** | **S** | **Hafza 20/0 — Qapu/Haqq** | Holomask and Fireteam filler/low cost protects an aggressive LT without telegraphing succession. | Profile/Fireteam restrictions and identity deception still matter. |
-| 10 | **A** | **A+** | **Myrmidon Officer 30–31/0.5 — Steel Phalanx** | Eclipse, Mimetism(-6), NWI and CC give actual assault-screen utility; viable backup for Hector/Machaon plans. | Expensive/exposed if treated as first attacker. |
-| 11 | **A** | **A+** | **Firefly 23/0 — Kestrel/Vanilla PanO** | Mines/Panzerfaust/D-Charges deny attack routes, enough alternative value if LT never dies. | Wants to advance; movement can undermine backup role. |
-| 12 | **A** | **A+** | **Hǎidào 24/0 — Invincible Army/WhiteCo** | Linkable succession with specialist/combat utility; suits expensive HI LT plans. | Not universally available across Yu Jing sectorials. |
-| 13 | **A** | **A+** | **Shifta 21/0 — Vanilla Nomads** | Nonhackable backup, E/Marat/Disco/area control; different kind of useful safe trooper. | Vanilla-only roster; no free transfer to Bakunin/Tunguska. |
-| 14 | **A** | **A** | **EXO 19/0.5 — Onyx** | Lower-cost alternative to Nexus with Plasma Carbine and Exrah-style plans. | SWC expenditure and less flexible mission utility. |
-| 15 | **A** | **A** | **Pheasant Agent — Imperial Service** | Strategic Deployment and additional doctor/hacking options; when protected backup and scenario utility need to coincide. | Higher price than Táowù 21/0.5 in simple insurance role. |
-| 16 | **A** | **B/A** | **Wallace 38/0 CoC — Kosmoflot/Ariadna where legal** | Real 2W smoke/close combatant **also** succeeds LT, can continue fighting independently. | CoC Wallace **does not provide Inspiring Leadership conversion unless he becomes LT**. Price and exposure high. |
-| 17 | **A** | **B/A** | **Taqeul 36/0 CoC — Tohaa** | Viral gun/Pheroware and succession; productive even without LT casualty. | Kaeltar is cheaper and supplies SymbioMates. |
-| 18 | **A** | **B** | **Joan 45–47+ CoC — relevant PanO/MO** | Expensive strong personal fighting profile as backup to another LT; can become strong commander if promoted. | Poor *pure* insurance value; her Inspiring Leadership LT-only effects do not apply until she becomes LT. |
-| 19 | **B/A** | **S/A** | **Táowù 21/0.5 — Imperial Service/WhiteCo** | Cheap Holomask succession and short-range ARO distraction, good ambiguous backline placement. | 0.5 SWC, modest offensive output. |
-| 20 | **B/A** | **A** | **TankHunter 25/0 — Vanilla Ariadna** | Camo + Minelayer + Panzerfaust means protective CoC also taxes enemy advance. | Must stay alive; not available in every Ariadna sectorial. |
+| Apex # | Value # | Apex tier | Value tier | CoC model / profile (points/SWC) | Confirmed roster examples | Why it earns the rank | Important limitation |
+|---:|---:|:---:|:---:|---|---|---|---|
+| 1 | 9 | **S** | **S** | [**Nexus Operative**](../../sectorials/combined-army/onyx.md) — 23/0 | Onyx; Vanilla Combined | BS13, Mimetism(-3), NCO, Number 2, E/Mitter, D-Charges; unusually efficient Unidron-linked command/mission support. | Onyx Fireteam permissions are Unidron-context, not an unrestricted Xeodron team. |
+| 2 | 4 | **S** | **S** | [**Kaeltar Specialist**](../../sectorials/tohaa/tohaa.md) — 21/0.5; 28/0.5 | Tohaa | One or two SymbioMates protect key attackers while the CoC trooper supplies genuine succession. | Two SymbioMates only on 28-point option; 0.5 SWC and weak direct gun. |
+| 3 | 24 | **S** | **A** | [**Caliban**](../../sectorials/combined-army/shasvastii.md) — 29/0 | Shasvastii | Camouflage, forward presence, Protheion and scenario/assault utility. | Must survive rather than trade away the only successor. |
+| 4 | 5 | **S** | **S** | [**Hassassin Farzan**](../../sectorials/haqqislam/hassassin-bahram.md) — 24/0 | Vanilla Haqq; Hassassin | Camouflaged midfield mine/scoring presence plus cost-efficient succession. | Protect from Discover, Sensor and templates; not every Haqq sectorial. |
+| 5 | 45 | **A+** | **B** | [**Joan of Arc v2 (Mobility Armor)**](../../sectorials/panoceania/military-orders.md) — 45/1.5; 51/1.5 Strategic Deployment | PanO; Military Orders | BS15 AP Spitfire, Tactical Awareness, 2W/NWI and melee threat: high combat ceiling as successor. | CoC is **Non Specialist**; 1.5 SWC; Inspiring Leadership's LT-wide economy waits for promotion. |
+| 6 | 41 | **A+** | **B** | [**Patroclus FTO**](../../sectorials/combined-army/next-wave.md) — 36/1 HRL; 40/0 MULTI Marksman | Next Wave | NWI, Nanoscreen, FT Master and strong active contribution within Team Achilles/Shadow. | Only the named FTO options have CoC; do not combine unrelated Holoprojector/Smoke profiles. |
+| 7 | 40 | **A+** | **B** | [**Umbra Legate FTO**](../../sectorials/combined-army/onyx.md) — 38/0 | Onyx; Vanilla Combined | NWI, Mimetism(-3), Tactical Awareness, K1 Combi Rifle and Fireteam utility. | FTO and 38-point commitment; exposed killer cannot also be the sole safe backup. |
+| 8 | 35 | **A+** | **A** | [**Myrmidon Officer**](../../sectorials/aleph/steel-phalanx.md) — 30–31/0.5 | Steel Phalanx | Eclipse, Mimetism(-6), NWI and CC create active utility and an escape screen. | Consumes SWC and is easy to overcommit as an attacker. |
+| 9 | 34 | **A+** | **A** | [**Pandora, Team Achilles' Field Researcher**](../../sectorials/combined-army/next-wave.md) — 29/0.5 | Next Wave | NWI, hacking/research support, Team Achilles/Research participation and succession. | Verify exact hacker/Fireteam option rather than transferring abilities between profiles. |
+| 10 | 42 | **A+** | **B** | [**Joan of Arc (v1)**](../../sectorials/panoceania/military-orders.md) — 47/0; 53/0 Strategic Deployment | PanO; Military Orders | BS15, ARM5, 2W/NWI, Tactical Awareness, strong close assault and a very durable successor. | CoC is **Non Specialist**; costly when used merely as dormant succession insurance. |
+| 11 | 39 | **A+** | **B** | [**Vassily Plushenko**](../../sectorials/ariadna/tartary-army-corps.md) — 39/0 T2 Marksman; 39/1 T2 Sniper | Vanilla Ariadna; TAK | Camouflage plus T2 reach and an effective skirmishing/ARO option. | 39-point exposed investment; do not use the separate LT/FO option as CoC. |
+| 12 | 43 | **A+** | **B** | [**Taqeul Officer**](../../sectorials/tohaa/tohaa.md) — 36/0 | Tohaa | Viral Combi Rifle, Pheroware and Triad-compatible combat/mission support. | Kaeltar is generally cheaper insurance and also buys SymbioMates. |
+| 13 | 7 | **A+** | **S** | [**BCA Magistrate**](../../sectorials/panoceania/kestrel-colonial-force.md) — 21/0; 25/0 alternative | PanO; Kestrel | Counterintelligence, Specialist Operative and useful FENNECS/COLCORP command-team support. | W1; Strategos applies only to the separate Lieutenant profile. |
+| 14 | 25 | **A** | **A** | [**Hortlak Janissary**](../../sectorials/haqqislam/ramah-taskforce.md) — 29/0 | Ramah | NWI, Mimetism(-3), MSV1, Blitzen/Pulzar and Janissary team access provide robust utility. | One-Wound NWI unit can still be overwhelmed; not a 2W Janissary. |
+| 15 | 6 | **A** | **S** | [**Raveneye Officer**](../../sectorials/o-12/torchlight-brigade.md) — 18/0 | Torchlight | Holomask and a low-cost mission/defensive option behind active command pieces. | Different from Raveneye LT(+1); do not stack in the LT's danger zone. |
+| 16 | 10 | **A** | **S** | [**Shukra Consultant**](../../sectorials/aleph/operations-subsection.md) — 21/0; 26/0 | Vanilla ALEPH; OSS | Counterintelligence and low-cost succession; 26-point MULTI Rifle adds usable defense. | Low active-turn ceiling; distinguish the two actual loadouts. |
+| 17 | 31 | **A** | **A** | [**Zenit-7 Detachment**](../../sectorials/ariadna/kosmoflot.md) — 30/0.5 | Vanilla Ariadna; Kosmoflot | Camouflage, Decoy, Mimetism(-3) and AP Marksman Rifle create resilient gun/mission insurance. | Spends SWC and a camo marker can still be cleared. |
+| 18 | 16 | **A** | **A+** | [**Alguacil Vortex Lupe Balboa**](../../sectorials/nomads/corregidor.md) — 23/0 | Corregidor | Mimetism(-3), E/Mitter, Panzerfaust, Smoke Grenades and wildcard utility. | Only CoC profile, not the cheaper Specialist Operative loadout. |
+| 19 | 30 | **A** | **A** | [**Emily Handelman**](../../sectorials/na2/white-company.md) — 28/0 | White Company | Forward Observer, Number 2, Mimetism(-3), Dogged and E/M Grenade Launcher; active-value successor. | **White Company CoC profile verified**; do not assume universal CoC across all factions listed in catalogues. |
+| 20 | 44 | **A** | **B** | [**William Wallace**](../../sectorials/ariadna/kosmoflot.md) — 38/0 | Kosmoflot; eligible Ariadna | Two-wound smoke/CC fighter who can keep contributing after succession. | CoC profile is Non Specialist; LT-only Inspiring Leadership conversion starts on promotion. |
+| 21 | 14 | **A** | **A+** | [**Imperial Agent, Pheasant Rank**](../../sectorials/yu-jing/imperial-service.md) — 23/0 Minelayer; 26/0 KHD; 27/0 Doctor; 28/0.5 HD; 28/1 Red Fury | Imperial Service | CoC is on the unit chassis: choose Mines, Doctor, KHD or Tactical Awareness gun according to list. | Chassis CoC does not make all options identical in SWC/mission role. |
+| 22 | 32 | **A** | **A** | [**Saladin, Naval Liaison Officer**](../../sectorials/o-12/starmada.md) — 33/0 | Starmada | NWI, Decoy(2), Counterintelligence, Deployable Repeater and Thunderbolt for resilient utility. | Not the 34-point Starmada Lieutenant/Strategos profile. |
+| 23 | 20 | **A** | **A+** | [**Shifta Insertion Group**](../../sectorials/nomads/corregidor.md) — 21/0 | Vanilla Nomads; Corregidor | Strategic Deployment, Specialist Operative, E/Marat/Disco Baller and role flexibility. | Corregidor is legal; keep successor safe instead of trading forward. |
+| 24 | 38 | **A** | **A** | [**Khawarij**](../../sectorials/haqqislam/ramah-taskforce.md) — 33/0 | Ramah | Super-Jump, competent gun, Pulzar, Disco Baller and strong CC for mobile defense. | No CoC import to unrelated Haqq sectorials; higher price than Farzan/Hafza. |
+| 25 | 18 | **A** | **A+** | [**Firefly Clandestine Demo Squad**](../../sectorials/panoceania/kestrel-colonial-force.md) — 23/0 | PanO; Kestrel | AP Mine, Panzerfaust, D-Charges and midfield/DZ lane denial at low cost. | The CoC option is not simultaneously its separate Engineer/NCO profile. |
+| 26 | 19 | **A** | **A+** | [**Hǎidào Special Support Group**](../../sectorials/yu-jing/invincible-army.md) — 24/0 | Invincible Army; White Company | NWI, linkable specialist/succession role and D-Charges. | Not every Yu Jing sectorial; check the specific Wildcard chart. |
+| 27 | 29 | **A** | **A** | [**Neoterra Bolt**](../../sectorials/panoceania/neoterran-capitaline-army.md) — 26/0 | PanO; Neoterra | Warhorse, Marksmanship, Drop Bears and Fireteam security. | Costlier than bare CoC; does not inherit equipment from a different Bolt loadout. |
+| 28 | 36 | **A** | **A** | [**Tai Sheng**](../../sectorials/yu-jing/invincible-army.md) — 36/0; 40/0 | Invincible Army | Durable NCO/Invincible Wildcard fighting and command-role support. | CoC options are not automatically every NCO/LT option; significant point tax. |
+| 29 | 33 | **A** | **A** | [**Léi Gōng FTO**](../../sectorials/yu-jing/invincible-army.md) — 34/0 | Invincible Army; White Banner | Maneuverable character fighter and linkable successor for HI command packages. | FTO-specific CoC; avoid claiming it for vanilla Yu Jing without a roster option. |
+| 30 | 17 | **A** | **A+** | [**Kulak Payback Unit**](../../sectorials/nomads/tunguska.md) — 23/0 Tunguska; 23/0.5 Vanilla Nomads | Tunguska; Vanilla Nomads | Mimetism(-3), Boarding Shotgun(+1B), D-Charges and Securitate/VATRA integration. | Actual SWC differs by roster, and Fireteam access is not universal. |
+| 31 | 23 | **A** | **A+** | [**TankHunter**](../../sectorials/ariadna/tartary-army-corps.md) — 25/0 | Vanilla Ariadna; TAK | Camouflage, AP SMG, Panzerfaust and Minelayer make a credible defensive screen. | Needs to stay alive; not a generic all-Ariadna sectorial profile. |
+| 32 | 21 | **B+** | **A+** | [**Táowù**](../../sectorials/na2/ikari-company.md) — 21/0 Druze/Ikari; 21/0.5 ISS/WhiteCo | Imperial Service; Druze; Ikari; White Company | Holomask, Counterintelligence, Specialist Operative and short-range area denial. | Verify roster-specific SWC and eligible Fireteam; modest offensive reach. |
+| 33 | 26 | **B+** | **A** | [**Volunteer Intel Isobel McGregor †**](../../sectorials/ariadna/caledonian-highlander-army.md) — 25/0 (provisional) | Caledonian Highlander Army | Warhorse, T2 Rifle, E/M Mine and Wildcard; strong backup if CoC is confirmed. | **Profile conflict:** Human Sphere N5 shows CoC, but pinned Caledonian roster omits CoC label. Reverify Army before relying on her. |
+| 34 | 37 | **B+** | **A** | [**Raktorak, Morat Sergeant Major**](../../sectorials/combined-army/morat-aggression-forces.md) — 25/0 | Morat Aggression Forces | Wildcard Morat support and cheap succession around combat-heavy Warhorse units. | Warhorse preserves individual Regular status during LoL; CoC still helps other models. |
+| 35 | 15 | **B+** | **A+** | [**EXO, Exrah Executive Officer**](../../sectorials/combined-army/onyx.md) — 19/0.5; 22/0.5 | Onyx | Plasma Carbine or MULTI Rifle options provide compact specialist/successor presence. | SWC cost and less versatile team support than Nexus. |
+| 36 | 22 | **B+** | **A+** | [**Alpha Unit**](../../sectorials/o-12/o-12.md) — 24/0 | O-12 | Counterintelligence, Biometric Visor, Guard and difficult-to-trade backline successor. | The CoC option **does not have Strategos L1**; that's the other LT profile. |
+| 37 | 28 | **B+** | **A** | [**Fusilier Indigo Richard Quinn**](../../sectorials/panoceania/neoterran-capitaline-army.md) — 24/0 | Neoterra | Warhorse, MSV1, E/Mitter, D-Charges and Wildcard/line-link contribution. | Confirmed Neoterra profile; do not infer access in every PanO sectorial. |
+| 38 | 27 | **B+** | **A** | [**Grunt Intel Rosalind 'Rosie' Munroe**](../../sectorials/ariadna/usariadna.md) — 26/0 | USAriadna | Dogged, Specialist Operative, Light Rocket Launcher and Grunt team support. | Forward Deployment is useful but can overexpose the sole successor. |
+| 39 | 46 | **B+** | **B** | [**John Hawkwood, Mercenary Officer**](../../sectorials/na2/white-company.md) — 40/0 | White Company; ALEPH/OSS | X-Visor, Combi Rifle(+1B), Nanopulser and DA CCW give independent fighting ability. | Mercenary catalog faction list is not universal CoC legality; expensive insurance. |
+| 40 | 11 | **B+** | **A+** | [**Knight Commander**](../../sectorials/panoceania/military-orders.md) — 23/0 | Military Orders | Holomask, cheap Crosier-counts-as Fireteam support and a viable Knight LT backup. | Separate LT(+1) and CoC options; one trooper cannot be both profiles. |
+| 41 | 8 | **B+** | **S** | [**Flight Officer Agnes Ferreira**](../../sectorials/panoceania/svalarheima-s-winter-force.md) — 18/0 | Acontecimento; Svalarheima Winter Force | Specialist Operative, Sixth Sense, Nanopulser(+1B) and Wildcard support at bargain cost. | One-wound backline model; avoid clustering with LT. |
+| 42 | 3 | **B** | **S** | [**S.T.R.S. Tanuki Team**](../../sectorials/jsa/shindenbutai.md) — 18/0 | Shindenbutai | Warhorse, Number 2, Immunity(Shock), BSG and Chain-colt on an inexpensive trooper. | CoC option is distinct from Engineer/hacker and heavy gun profiles. |
+| 43 | 2 | **B** | **S** | [**Kempeitai**](../../sectorials/jsa/jsa.md) — 17/0 BSG; 20/0 Combi | JSA; Ōban | Very low insurance cost and short-range defense for aggressive JSA LTs. | No Camo/marker protection; 17-point loadout is primarily close defense. |
+| 44 | 12 | **B** | **A+** | [**Hafza Unit**](../../sectorials/haqqislam/qapu-khalqi.md) — 20/0 | Vanilla Haqq; Qapu Khalqi | Holomask, useful cheap Fireteam filler and protected LT succession. | Hafza Lieutenant(+1) is separate; do not borrow its extra order. |
+| 45 | 13 | **B** | **A+** | [**Ensign Katherine Cho**](../../sectorials/o-12/starmada.md) — 20/0 | O-12; Starmada | Holomask, MULTI Rifle and WIP14 for a low-cost successor. | 15-point LT is a different profile and does not have CoC. |
+| 46 | 1 | **B** | **S** | [**Ment Agent, PSID**](../../sectorials/o-12/starmada.md) — 14/0 FTO; 15/0; 20/0.5 hacker | O-12; Starmada | Cheapest verified CoC here, Number 2 and Biometric Visor; excellent hidden insurance per point. | 14-point option is FTO and has a different weapon package; no generic 14-point non-FTO. |
+| 47 | 47 | **B** | **C** | [**Saladin, O-12 Liaison Officer**](../../sectorials/haqqislam/haqqislam.md) — 38/0 | Vanilla Haqq | Decent E/M/close-defense package and succession without sacrificing a protected LT. | No Strategos/Inspiring-LT conversion until promoted; competes with cheaper Farzan/Hafza. |
+| 48 | 48 | **B** | **C** | [**Kirpal Singh, Akalis Sergeant**](../../sectorials/panoceania/shock-army-of-acontecimento.md) — 26/0 | Acontecimento | NCO, Combat Jump/Parachutist, Boarding Shotgun(+1SD) and E/M CCW support. | **CoC requires an on-table model/marker at the LT check**; reserve deployment cannot insure an early LT loss. |
 
-**Extra strong roster-bound options:**
+## Top 10 — strict CoC points-value ordering
 
-- O-12:
-  - **Katherine Cho 20/0**
-  - **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit)
-  - **Ment** with CoC
-- Invincible Army:
-  - **Léi Gōng FTO 34/0**
-  - **Tai Sheng CoC 36–40**
-  - **Hǎidào 24**
-- White Company:
-  - **Emily Handelman 28/0** (CoC and grenade launcher)
-  - **Hawkwood 40/0**
-- **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL).
+The independent value ranking above is summarized here for easier budget comparisons.
 
-These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
+| Value # | CoC profile | Apex # |
+|---:|---|---:|
+| 1 | **Ment Agent, PSID** 14/0 FTO; 15/0; 20/0.5 hacker | #46 |
+| 2 | **Kempeitai** 17/0 BSG; 20/0 Combi | #43 |
+| 3 | **S.T.R.S. Tanuki Team** 18/0 | #42 |
+| 4 | **Kaeltar Specialist** 21/0.5; 28/0.5 | #2 |
+| 5 | **Hassassin Farzan** 24/0 | #4 |
+| 6 | **Raveneye Officer** 18/0 | #15 |
+| 7 | **BCA Magistrate** 21/0; 25/0 alternative | #13 |
+| 8 | **Flight Officer Agnes Ferreira** 18/0 | #41 |
+| 9 | **Nexus Operative** 23/0 | #1 |
+| 10 | **Shukra Consultant** 21/0; 26/0 | #16 |
+
+## Eligibility and source-audit exceptions
+
+- **Maximus, Optimate and HexaDome Legend — NOT RANKED.** The pinned [PanO TAG](../../sectorials/panoceania/panoceania.md) and [Optimate Agent Maximus](../../sectorials/aleph/operations-subsection.md) roster options have **no Chain of Command profile**. They have Lieutenant/Tactical Awareness options instead. A long cross-faction character listing does not create CoC legality.
+- **† Isobel McGregor — provisional #33 apex / #26 value.** The [Caledonian repository profile](../../sectorials/ariadna/caledonian-highlander-army.md) lists the 25/0 weapon loadout but **omits the CoC skill on the option**. The external [Human Sphere N5 profile](https://human-sphere.com/Isobel_McGregor) explicitly assigns **Chain of Command to 25/0**. Preserve and resolve the discrepancy against the actual Army export **before relying on her CoC eligibility**; her rank is conditional.
+- **Emily Handelman and John Hawkwood are not globally selectable CoC profiles.** Emily CoC 28/0 is [verified in White Company](../../sectorials/na2/white-company.md). Hawkwood CoC 40/0 is verified there and in [ALEPH/OSS](../../sectorials/aleph/operations-subsection.md). An index naming nearly all sectorials is not proof of legal CoC availability in each.
+- **Roster-specific SWC must not be normalized away.** Kulak CoC is 23/**0** in [Tunguska](../../sectorials/nomads/tunguska.md) but 23/**0.5** in [Vanilla Nomads](../../sectorials/nomads/nomads.md); Táowù CoC is 21/**0** in [Druze](../../sectorials/na2/druze.md)/[Ikari](../../sectorials/na2/ikari-company.md), versus 21/**0.5** in [Imperial Service](../../sectorials/yu-jing/imperial-service.md)/[White Company](../../sectorials/na2/white-company.md).
+- **Joan v1 versus v2** are separately ranked, but the roster's single-Joan constraint prohibits taking both. Their CoC options are **Non Specialist**; the LT-only value of Inspiring Leadership's Order conversion cannot be credited to the CoC trooper before promotion.
+- **Kirpal Singh's AD deployment is anti-synergistic with emergency CoC** if he is still off-table. The official skill requires the successor be on the game table as a model or marker when the Loss of Lieutenant check occurs; do not count a reserve-drop CoC as turn-one insurance.
+- **Raveneye, Quinn, Nexus, Ment, etc.:** only attribute CoC to an actual option in that faction's roster. A common unit name, reinforcement/side-mode or cross-faction database category is not a blanket permission.
+- **Specialist/command interactions:** CoC is generally a mission-specialist skill unless marked Non Specialist; a CoC option with no Strategos does **not** gain it from the same unit's LT option. Separate Fireteam variants (FTO) and profile weapons are not automatically interchangeable.
+
+## List-building takeaways
+
+- For **cheap, mostly passive insurance**, start with **Ment**, **Kempeitai**, **Tanuki**, **Agnes** or **Raveneye** in rosters where they exist.
+- For **insurance that meaningfully advances the mission**, compare **Kaeltar** (SymbioMates), **Nexus** (NCO/Number 2/team), **Farzan** (Camo/midfield), **BCA Magistrate** (Counterintelligence/specialist) and **Pheasant** (role-flexible unit-wide CoC).
+- For **an attacking CoC**, consider **Joan**, **Patroclus**, **Umbra**, **Myrmidon Officer**, **Vassily** or **Hortlak**, but budget for the risk that your only successor is killed before the Lieutenant.
+
+**Research status:** Tactical ranking and profile-coverage audit only. Sectorial data are pinned to September 2026, not claimed as post-snapshot live Army availability. Avoid expanding source-specific faction access without checking the exact current Army profile.
