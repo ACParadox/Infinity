@@ -26,6 +26,15 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#6) Apex · Top 3 (#1) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Teucer Neurocinetics Plasma Sniper 37/1.5** | A+ Apex #6 / S+ Value #1: BS14, MSV2, Mimetism(-3), NWI and full reactive Plasma Sniper Burst. **Unlinked Neuro** option; 35pt Feuerbach FTO is a different legal profile. |
+| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor and full TR Thunderbolt ARO; repairable STR1 but BS11/ARM0 and vulnerable to hacking. |
+
 | Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
 | **Top 3 (#1) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L67) | **Achilles AP Spitfire62/1.5** | BS15, Mimetism−3, AP Spitfire, 15-10 mobility, 3W and Nanoscreen combine superior midrange FtF/penetration with repeat engagements; **above Hetkari** despite its Marksmanship against Cover. CC contributes no ranged credit. **Limit:** **62pt/1.5SWC**, Hackable and **No Cover**; price rules out an automatic S grade. Nanoscreen is not Mimetism−6; hacking, cybermines and 24–32in Spitfire penalties prevent an S ranged ceiling despite his outstanding overall assault value. |
