@@ -27,6 +27,15 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 5 (#5) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Mimetism(-6) and Hidden Deployment provide a powerful single B1 missile ambush and route tax; W1/1.5SWC and lost Hidden Order limit reuse. |
+| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: 20pt/0.5SWC TR Thunderbolt with Mimetism(-3), 360º Visor and Remote Presence; unlinked, BS11, STR1 and hackable. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
