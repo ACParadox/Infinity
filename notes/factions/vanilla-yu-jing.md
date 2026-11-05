@@ -13,7 +13,7 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
 
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
 
