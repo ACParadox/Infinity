@@ -10,6 +10,14 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates within specific roles*, not universal rankings or measured results. **Apex** is the role ceiling; **value** considers cost/Orders. Sources include [doctors](../list-building/doctors-engineers-and-recovery-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: StarCo legal AVA1 Irregular camouflaged long sniper. T2 costs 1SWC, AP costs 0.5SWC, both 21pt; W1/BS12 and limited marker timing. |
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 5 (#4) — Contact Counter-Assault / Anti-Elite CC (apex)** | **Señor Massacre BSG 25/0** | MA3 + NBW, CC24, E/M, Eclipse; Strong specialist into hackable melee threats and protected contact; one Wound. | [#4 C](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L221) |
