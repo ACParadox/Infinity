@@ -8,6 +8,15 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#10) Apex · Top 3 (#2) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine. TAK pinned roster **omits the PAC modifier** while the ARO guide uses provisional +1SD; effectiveness and reactive dice must be checked against current Army. |
+| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: Sapper/STR2 Neurocinetics artillery; #064/#067 support actual Vystrel/Courier defensive Order tax. **Gunnery team benefits require the legal TAK composition**. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
