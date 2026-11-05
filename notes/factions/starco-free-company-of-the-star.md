@@ -10,7 +10,7 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates within specific roles*, not universal rankings or measured results. **Apex** is the role ceiling; **value** considers cost/Orders. Sources include [doctors](../list-building/doctors-engineers-and-recovery-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
 
