@@ -36,6 +36,15 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 5 (#5) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Shasvastii hidden/Mimetism(-6) ML with consequential reveal timing; not a second Surprise Attack in reactive turn. W1, 1.5SWC, Hidden Order cost. |
+| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º and native Total Reaction Thunderbolt on a repairable 20pt/0.5SWC chassis; BS11/STR1 and opponent tech counterplay. |
+
 | Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
 |---|---|---|
 | **Top 5 (#4) — Non-TAG medium-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L70) | **Sheskiin Red Fury50/1** | BS15, B4 Red Fury, **BS Attack (SR−2)**, Nanoscreen and 2W give an outstanding **8–24in shooting ceiling**. Nanoscreen creates a defensive penalty for attackers even where ordinary Cover is unavailable. **Limit:** 50pt/1SWC non-LT, **No Cover** and poor Red Fury bands beyond 24in. CC/Protheion/delivery remain separate short-assault credits; not a 24–32in long gun. |
