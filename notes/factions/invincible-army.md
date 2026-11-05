@@ -13,11 +13,18 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 (#3) — ARO Units (apex)** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) | **Yān Huǒ Neurocinetics(+1B) Missile Launcher 42/1.5** | S Apex #3: BS14/ARM5/2W and enhanced reactive ML volume. **Non-FTO Neuro** is not automatically linkable; the separate FTO Missile Launcher(+1B) is a different profile. |
+
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
 | **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L37) |
 | **Top 10 (#8) — Non-TAG long-range apex (A+)** | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L43) |
-| **Top 3 — ARO Units (apex)** | **Yān Huǒ Neurocinetics(+1B) ML 42/1.5** | **S-tier ARO**: BS14, ARM5, two Wounds and strong reactive Missile output. The **non-FTO Neuro** profile is not the separately linkable **FTO ML(+1B)** variant. S5 and no native visor/Mimetism constrain placement. | [S — reactive ARO](../list-building/aro-units-apex-and-value.md#L54) |
 | **Top 5 — Command Units (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command economy**: a concealed LT with two LT Orders for eligible NCO spenders. Those are **not** interchangeable pooled Regular Orders; the recipient must be able to exploit them. | [S — LT value](../list-building/command-units-apex-and-value.md#L113) |
 | **Top 10 — Killer Hackers (value)** · [**KHD: A apex / S value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **Hǎidào KHD + Pitcher 22/0** | **S-tier hacker value**, scoring and ranged network projection inside a suitable HI team. Hǎidào Engineer/MSV2 Sniper/CoC are **different** profiles. **Revised Hacker guide:** The Hǎidào KHD + Pitcher is A-apex/S-value in the pure KHD tables; its separate Engineer, CoC and sniper variants do not inherit these programs. | [A apex / S value](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) |
 | **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Gūdǎn SMG + Zapper 12/0** | Forward Deployment(+10), one-use Camo and E/M direct template with **A+ apex / S value**; the Shock Mine is carried, **not** a free Minelayer placement. | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L77) |
