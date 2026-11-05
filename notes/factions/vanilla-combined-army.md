@@ -37,6 +37,15 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 5 (#5) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Hidden Deployment/Mimetism(-6) creates an expensive route-commitment trap for a 30pt/1.5SWC missile. W1 and no Regular Order while Hidden; no Fireteam. |
+| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor, repairable Remote Presence and full TR Thunderbolt ARO. BS11/STR1, exposed to hacking and counter-angles. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
