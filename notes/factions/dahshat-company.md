@@ -10,7 +10,7 @@
 
 **Top 3 / Top 5 / Top 10** are qualitative shortlist *candidates within the named role*, not measured overall rankings. **Apex** means peak matchup impact; **value** weighs points, SWC and Orders. The [Hacker](../list-building/hackers-and-killer-hackers.md), [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [TAG](../list-building/tags.md) cross-faction guides provide the comparisons.
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
 
