@@ -11,7 +11,7 @@
 **Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
 
