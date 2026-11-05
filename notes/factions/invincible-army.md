@@ -13,7 +13,7 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
 
