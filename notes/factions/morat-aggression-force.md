@@ -29,6 +29,14 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | **Conditional S Value #8:** Morat roster prints the same 20pt TR Thunderbolt but **omits Mimetism(-3) and 360º Visor** in its unit summary, unlike Vanilla/other Combined rosters. Do not transfer the generic #8 FtF benefit uncritically; confirm the local Army profile before treating it as equal. |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
