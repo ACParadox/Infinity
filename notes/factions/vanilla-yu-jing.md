@@ -13,6 +13,14 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
 
 
+#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+
+Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
+
+| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+|---|---|---|
+| **Top 3 (#3) — ARO Units (apex)** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) | **Yān Huǒ Neurocinetics(+1B) Missile Launcher 42/1.5** | S Apex #3: standalone BS14/ARM5/2W S5 neuro missile with strong reactive Burst; Vanilla has no Invincible Fireteam. **Non-FTO Neuro** differs from the FTO ML(+1B) profile. |
+
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
 | **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L37) |
@@ -26,7 +34,6 @@
 | **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Gūdǎn SMG + Zapper 12/0** | **A+ apex / S value** forward Camo(1 Use) plus short E/M direct template. Its Shock Mine is carried, not placed for free. | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L77) |
 | **Top 10 — Network Projection (value)** | **Fēiquán 28/0** | Strong **A+/S** network projection through Aerial movement, Sensor and a Pitcher. S7/No Cover and nonlethal primary gun require an actual follow-up shooter or hacker. | [S apex / A+ value](../list-building/network-projection-repeaters-pitchers-apex-value.md#L35) |
 | **Top 3 — Warbands and Cheap Trading Units (value)** | **Shaolin Chain Rifle + Smoke, 5/0** | [White Banner Top 3 value](../list-building/warbands-and-cheap-trading-units-apex-value.md): same 5-point profile in Vanilla, cheap normal Smoke and CC threat; no Liang Kai + linked Shaolin engine. | [Cross-faction evidence](../list-building/warbands-and-cheap-trading-units-apex-value.md) |
-| **Top 3 — ARO Units (apex)** | **Yān Huǒ Neurocinetics(+1B) Missile Launcher, 42/1.5** | [Invincible Army Top 3 reactive apex](../list-building/aro-units-apex-and-value.md): the exact durable standalone heavy launcher is on Vanilla roster, without its sectorial Fireteam. | [Cross-faction evidence](../list-building/aro-units-apex-and-value.md) |
 | **Top 5 — Command Units (apex)** | **Sun Tze Strategos L2 Lieutenant, 53/0** | [Imperial Service Top 5 command ceiling](../list-building/command-units-apex-and-value.md): Strategos command effect belongs to the same Vanilla LT profile; do not add Imperial Fireteam support. | [Cross-faction evidence](../list-building/command-units-apex-and-value.md) |
 | **Top 5 — Hybrid Hackers (value)** | **Dokkaebi KHD + Spotlight + Pitcher, 22/0** | [White Banner Top 5 limited hybrid](../list-building/hackers-and-killer-hackers.md#best-value-hybrid-profiles): the KHD/Spotlight upgrade is a single legal Vanilla loadout; do not conflate full HD/Oblivion access or White Banner teams. | [Cross-faction evidence](../list-building/hackers-and-killer-hackers.md#best-value-hybrid-profiles) |
 | **Top 10 — Killer Hackers (value)** | **Hǎidào KHD + Pitcher, 22/0** | [Invincible Army Top 10 KHD value](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles): A-apex/S-value cyber option with native Pitcher; no IA Fireteam firewall/bonus in Vanilla. | [Cross-faction evidence](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) |
