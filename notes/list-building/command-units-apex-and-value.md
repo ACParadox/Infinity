@@ -17,7 +17,7 @@
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
-**Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide remains responsible for commander roles, succession, and the related economy decisions.
+**Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-apex-and-value.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide covers Lieutenant roles and command economy; [Chain of Command tiers](chain-of-command-apex-and-value.md) separately rank succession units.
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
@@ -57,7 +57,7 @@
 
 _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fireteam legality use the pinned September 2026 Army 7.26246.158/159 files under [sectorials](../../sectorials/combined-army/vanilla-combined-army.md); [local N5.3 rules](../../rules/README.md) and FAQ v0.1 override historical media. The rankings are tactical **judgments, not tournament win rates**. Each named unit is available only in the faction/sectorial where its profile exists._
 
-**Related:** [Existing Lieutenant/command strategy](../Strategy/lieutenant-and-command-structure.md), [Order efficiency](../Strategy/order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](../Strategy/fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game tiers and researched profile-specific circumstances instead of replacing the existing command primer.**
+**Related:** [Chain of Command rankings](chain-of-command-apex-and-value.md), [Existing Lieutenant/command strategy](../Strategy/lieutenant-and-command-structure.md), [Order efficiency](../Strategy/order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](../Strategy/fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game tiers and researched profile-specific circumstances instead of replacing the existing command primer.**
 
 ## The fast verdict
 
@@ -141,49 +141,7 @@ _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fir
 
 **Risk test:** estimate (A) probability the opponent removes/Isolates the LT, × (B) *number of useful pooled activations and scenario pushes you would lose* on the following turn, × (C) how safely a live CoC/Mnemonica host changes that outcome. This is a **decision aid, not a calibrated probability model**. When premium attacking LT cannot profitably use its extra Order or still needs a costly backup, a cheaper protected LT may outperform it.
 
-## Chain of Command tiers — separate apex and value rankings
-
-**Apex = successor also performs important battlefield work; value = cheap reliable backup per point/SWC.** CoC cannot be bought in another sectorial merely because the same faction offers it. **Non Specialist** CoC does not count as a Specialist where CoC normally would.
-
-| # | Apex | Value | CoC model, roster price | **Why and best use** | Main tradeoff |
-|---|---|---|---|---|---|
-| 1 | **S** | **S** | **Nexus 23/0 — Onyx/Vanilla Combined** | BS13, Mimetism(-3), NCO, Number 2, E/Mitter and D-Charges; excellent **linkable mission/attack infrastructure plus succession**. Very small marginal increase if it replaces a Unidron slot. | Onyx Wildcard **Unidron context only**; don't invent a Nexus/Xeodron Fireteam. |
-| 2 | **S** | **S** | **Kaeltar 21/0.5 or 28/0.5 — Tohaa** | CoC **plus one/two SymbioMates** gives two jobs; protection of prime combat units partly pays for insurance. | 0.5 SWC and weak direct combat; two mates belong only to 28pt loadout. |
-| 3 | **S** | **A+** | **Caliban 29/0 — Shasvastii** | Camo, Forward Deployment, Protheion, close assault and valuable midfield/scenario access. Pick when **still positioned to survive the LT assassination**, not sent as lone disposable attacker. | Opportunity cost versus Shrouded if only a backline CoC is needed. |
-| 4 | **S** | **A+** | **Farzan 24/0 — Haqq/Hassassin** | Camo/forward threat, mines, scoring and LT succession. Excellent insurance for aggressive Bokhtar/other premium LT or protecting Saladin engines. | Discover/Sensor/template pressure may expose it; keep away from LT footprint. |
-| 5 | **A+** | **S** | **BCA Magistrate 21/0 — Kestrel/Vanilla PanO** | Counterintelligence, Specialist Operative, Fireteam Master and a plausible alternative LT appearance. Ideal Tik/active LT backup. | W1; *CoC Magistrate is not Strategos LT Magistrate*. |
-| 6 | **A+** | **S** | **Shukra 21/0 — ALEPH** | Counterintelligence and inexpensive, hidden/defensive successor for Marut/Asura. | Less combat value; expensive if never using the command insurance. |
-| 7 | **A+** | **S** | **Raveneye 18/0 — Torchlight** | Holomask + Forward Observer/Minelayer gives clandestine, mission-capable successor at low price. | Can be threatened by AD; don't stack with the LT. |
-| 8 | **A** | **S** | **Kempeitai 17/0 BSG, 20/0 Combi — JSA** | The 17pt profile is top raw points insurance and provides corner/approach protection. Supports Hatamoto/Domaru attack LTs. | No strong marker defense; opponent targeting a known DZ unit may remove it cheaply. |
-| 9 | **A** | **S** | **Hafza 20/0 — Qapu/Haqq** | Holomask and Fireteam filler/low cost protects an aggressive LT without telegraphing succession. | Profile/Fireteam restrictions and identity deception still matter. |
-| 10 | **A** | **A+** | **Myrmidon Officer 30–31/0.5 — Steel Phalanx** | Eclipse, Mimetism(-6), NWI and CC give actual assault-screen utility; viable backup for Hector/Machaon plans. | Expensive/exposed if treated as first attacker. |
-| 11 | **A** | **A+** | **Firefly 23/0 — Kestrel/Vanilla PanO** | Mines/Panzerfaust/D-Charges deny attack routes, enough alternative value if LT never dies. | Wants to advance; movement can undermine backup role. |
-| 12 | **A** | **A+** | **Hǎidào 24/0 — Invincible Army/WhiteCo** | Linkable succession with specialist/combat utility; suits expensive HI LT plans. | Not universally available across Yu Jing sectorials. |
-| 13 | **A** | **A+** | **Shifta 21/0 — Vanilla Nomads** | Nonhackable backup, E/Marat/Disco/area control; different kind of useful safe trooper. | Vanilla-only roster; no free transfer to Bakunin/Tunguska. |
-| 14 | **A** | **A** | **EXO 19/0.5 — Onyx** | Lower-cost alternative to Nexus with Plasma Carbine and Exrah-style plans. | SWC expenditure and less flexible mission utility. |
-| 15 | **A** | **A** | **Pheasant Agent — Imperial Service** | Strategic Deployment and additional doctor/hacking options; when protected backup and scenario utility need to coincide. | Higher price than Táowù 21/0.5 in simple insurance role. |
-| 16 | **A** | **B/A** | **Wallace 38/0 CoC — Kosmoflot/Ariadna where legal** | Real 2W smoke/close combatant **also** succeeds LT, can continue fighting independently. | CoC Wallace **does not provide Inspiring Leadership conversion unless he becomes LT**. Price and exposure high. |
-| 17 | **A** | **B/A** | **Taqeul 36/0 CoC — Tohaa** | Viral gun/Pheroware and succession; productive even without LT casualty. | Kaeltar is cheaper and supplies SymbioMates. |
-| 18 | **A** | **B** | **Joan 45–47+ CoC — relevant PanO/MO** | Expensive strong personal fighting profile as backup to another LT; can become strong commander if promoted. | Poor *pure* insurance value; her Inspiring Leadership LT-only effects do not apply until she becomes LT. |
-| 19 | **B/A** | **S/A** | **Táowù 21/0.5 — Imperial Service/WhiteCo** | Cheap Holomask succession and short-range ARO distraction, good ambiguous backline placement. | 0.5 SWC, modest offensive output. |
-| 20 | **B/A** | **A** | **TankHunter 25/0 — Vanilla Ariadna** | Camo + Minelayer + Panzerfaust means protective CoC also taxes enemy advance. | Must stay alive; not available in every Ariadna sectorial. |
-
-**Extra strong roster-bound options:**
-
-- O-12:
-  - **Katherine Cho 20/0**
-  - **Alpha 24/0** (Strategos non-LT skill is not automatically an army benefit)
-  - **Ment** with CoC
-- Invincible Army:
-  - **Léi Gōng FTO 34/0**
-  - **Tai Sheng CoC 36–40**
-  - **Hǎidào 24**
-- White Company:
-  - **Emily Handelman 28/0** (CoC and grenade launcher)
-  - **Hawkwood 40/0**
-- **Morat Raktorak CoC 25/0** is another insurance option in MAF (often less mandatory because individual Warhorse troopers survive LoL).
-
-These alternatives can be better when a **specific required team, gun, hacker or mission role** justifies their cost; they are not blanket cross-faction imports.
+**Chain of Command rankings:** [CoC apex, points-value and roster-specific successor tiers](chain-of-command-apex-and-value.md). The detailed successor table and additional options are maintained in that separate guide.
 
 ## Rules and command-package interactions
 
