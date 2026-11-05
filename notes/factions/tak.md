@@ -8,7 +8,7 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
-#### ARO Units — verified cross-faction Top 10 (5 November 2026)
+**ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
 
