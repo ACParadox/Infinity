@@ -4,7 +4,7 @@
 
 **Current counter unit tiers:** [Anti-Tech — N5.3 apex/value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md) compares affordable Sensor, MSV2/3, Biometric, Triangulated Fire, White Noise, Albedo and Eclipse carriers by *which technology they counter, Orders to deliver it, and opposing opinions*. This page retains the underlying marker and deception mechanics.
 
-**Profile-specific N5.3 companion:** [Midfield Area Denial & Speed Bumps — apex/value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) differentiates cheap Decoy/Camo bluff (Strelok), Hidden double-mine (Shujae/Dasyu), Camo Minelayer (Chasseur/Foxtrot/Naga), and perimeter/Re​peater control (Moran/Gangbuster), including Sensor and Deactivator counters.
+**Profile-specific N5.3 companion:** [Midfield Defenders & Speed Bumps — apex/value](../list-building/midfield-defenders-and-speed-bumps.md) differentiates cheap Decoy/Camo bluff (Strelok), Hidden double-mine (Shujae/Dasyu), Camo Minelayer (Chasseur/Foxtrot/Naga), and perimeter/Re​peater control (Moran/Gangbuster), including Sensor and Deactivator counters.
 
 Marker-state play in Infinity is not mainly about getting one Surprise Attack. Its larger strategic value is that it converts **uncertainty into Orders, restricted movement, awkward ARO declarations, bad target selection, and deployment mistakes**.
 
