@@ -13,6 +13,14 @@
 **Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
 
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
+|---|---|---|---|
+| **Top 10 (#8) — Force multipliers** | **Puppet Master11/0, no PuppetBots required** | **B+ / S+** | An inexpensive Regular Counterintelligence trooper with SMG/Shock Mine and optional Puppetactica access. An FO9/other PuppetBot is paid separately and generates no extra Order. |
+
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 The [current ARO ranking](../list-building/aro-units-apex-and-value.md) covers exact profiles; printed faction equipment and genuinely legal Fireteams take precedence over generic capability descriptions.
