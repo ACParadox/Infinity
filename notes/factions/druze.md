@@ -10,6 +10,14 @@
 
 **Top 3/5/10** indicate qualitative, **role-specific** cross-faction shortlist *candidates*, not an overall-unit ladder or win-rate metric. **Apex** means ceiling; **value** includes points, SWC and Orders. See [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [objective holding](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
+|---|---|---|---|
+| **Top 10 (#9) — Force multipliers** | **Táowù16/0 — Contender/Pulzar Counterintelligence** | **B+ / S** | Legal Druze-counts-as-Druze specialist with Holomask, Pulzar and Counterintelligence; its 19/0 E/Marat or 21/0 CoC alternatives are different loadouts. |
+
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 10 (#6) — Dedicated CC Assassins (apex)** | **Saito Tōgan 33/0** | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun; Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. | [#6 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L129) |
