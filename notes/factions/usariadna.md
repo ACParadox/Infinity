@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are qualitative, **role-specific shortlist candidates** inferred from the cross-faction tiers, not official global places.
 
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 10 (#6) — DZ defenders (value, S+)** | **USAriadna Grunt HFT/LSG 10/0** | Native Regular ARM3/Immunity(Shock) heavy-template guard; local Grunt teams can use the **10pt non-FD** profile. The 12/.5 Forward Deployment version cannot join Fireteams. | [#6 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
 | Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
