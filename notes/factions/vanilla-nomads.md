@@ -13,6 +13,14 @@
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
+|---|---|---|---|
+| **Top 10 (#8) — Force multipliers** | **Puppet Master11/0, no PuppetBots required** | **B+ / S+** | Cheap Regular body with Counterintelligence, SMG and Shock Mine. PuppetBots remain **optional separately paid peripherals** with no generated Regular Orders; this ranking applies to the 11pt support carrier. |
+
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 The [current ARO ranking](../list-building/aro-units-apex-and-value.md) covers exact profiles; printed faction equipment and genuinely legal Fireteams take precedence over generic capability descriptions.
