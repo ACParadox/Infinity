@@ -12,6 +12,14 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates within stated roles*, never an overall unit ranking or win-rate statistic. **Apex** means peak role impact; **value** weighs cost and Orders. See [cheap units](../list-building/best-cheap-units.md), [DZ defence](../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [CoC](../list-building/command-units-apex-and-value.md) and [scoring](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
+|---|---|---|---|
+| **Top 10 (#10) — Force multipliers** | **Taagma Schemer15/0 — Counterintelligence/Holomask** | **B+ / S** | An inexpensive Regular Triad member with Holomask and passive first-turn Counterintelligence; the **22/1.5 MSV2 Viral Sniper** loadout is a separate option and not the ranked 15pt value shell. |
+
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 10 (#8) — Budget CC Value (value; ≤22 pts)** | **Makaul HFT/Eclipse/Viral 14/0** | CC23/MA2, Viral/DA, Eclipse, HFT, Triad; Approach plus melee support for a team; weaker contested CC dice than MA3/MA4. | [#8 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L184) |
