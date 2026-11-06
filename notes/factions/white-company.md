@@ -11,6 +11,14 @@
 **Top 3/5/10** are qualitative shortlist *candidates for particular jobs*, not overall rankings. **Apex** is ceiling; **value** counts points, SWC and Orders. See [Hackers](../list-building/hackers-and-killer-hackers.md), [command units](../list-building/command-units-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [ARO guns](../list-building/aro-units-apex-and-value.md).
 
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
+|---|---|---|---|
+| **Top 10 (#9) — Force multipliers** | **Táowù16/0 — Contender/Pulzar Counterintelligence** | **B+ / S** | Holomask, Pulzar, Specialist Operative and Counterintelligence in a legal White Company Fusilier-family member. The separately listed 21/.5 CoC variant has a different price/SWC. |
+
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 5 (#4) — Non-TAG long-range value (A+)** | **Nisse HMG31/1.5** | **Former A → A+:** inexpensive BS13/MSV2/Mimetism−3 *long* gun. **Limit:** 1W and smoke/White Noise positioning limits; no claim of universal #241 performance. This Nisse HMG is legal in White Company; it is the **Nisse** #4 long-range value placement, not Hannibal's NCA/WinterFor-only +1SD value assessment. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L102) |
