@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
 
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 3 (#3) — DZ defenders (value, S+)** | **Caledonian Volunteer Chain Rifle/LSG 6/0** | One of the lowest-cost **native Regular Orders** with an immediate Chain Rifle corner guard; fragile and not a reliable long-range ARO. Caledonian Volunteer teams are legal under the local chart. | [#3 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
