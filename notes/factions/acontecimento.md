@@ -15,6 +15,15 @@
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** Source: [combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value). Rankings refer to the **exact non-Lieutenant profile** and legal faction.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; limitation |
+|---|---|---|---|
+| **Top 3 (#1) — Force multipliers** | **Scylla EVO32/.5 + synchronized Charybdis** | **S / A+** | Nonstandard EVO + Trinity (SR-2), Pitcher and HFT/Repeater peripheral. This is the 32/.5 option, **not** the 37/.5 FTO two-Order package. |
+| **Top 5 (#5) — Force multipliers** | **Flight Officer Agnes Ferreira RemDriver16/0** | **A / S+** | For +3pts over her 13pt Specialist, gives +1 BS/+5 CC to one eligible REM. Wildcard/Second-role utility; cannot buff a Tikbalang TAG. |
+
+
 | Whole-game shortlist (specific job) | Acontecimento unit/profile | Why it stands out / limits |
 |---|---|---|
 | **Top 10 (#6) — TAG ranged apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L247) | **Tikbalang HMG69/1.5** | **BS15, Mimetism−3, Climbing Plus, 3W, TacAware**, repeated advantageous LoF and strong safe exit positions. **Limit:** Plain HMG needs alternate AP/E/M answer to very high ARM. |
