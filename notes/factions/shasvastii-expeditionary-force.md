@@ -32,6 +32,14 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
+|---|---|---|---|
+| **Top 10 (#6) — Force multipliers** | **Shasvastii Mentor20/0, non-Lieutenant** | **A / S-** | Counterintelligence on a hard-to-locate Camo/Mimetism(-3)/Decoy(1) Vulkan Shotgun unit. The similarly priced Lieutenant is a separate profile and not credited here. |
+
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
