@@ -8,6 +8,13 @@
 
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 3 (#1) — DZ defenders (value, S+)** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Native Regular 7pt Chain Rifle/LSG, carried Shock Mine (**not Minelayer**). FTO name gives **no automatic vanilla Fireteam**. | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+| **Top 10 (#9) — DZ defenders (value, S+)** | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3 Regular HFT/LSG DZ ambush. Vanilla's 10pt FTO has a **restricted Barsuk Fireteam slot**; non-FTO 11pt Camo/Decoy does not gain that slot. 12pt FD is different. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
