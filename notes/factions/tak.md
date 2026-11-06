@@ -8,13 +8,6 @@
 
 **Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
 
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 3 (#1) — DZ defenders (value, S+)** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Regular 7pt Chain Rifle and Light Shotgun guard; Shock Mine is **carried, not Minelayer**. TAK: FTO can join Line Kazaks (max 2). | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-| **Top 10 (#9) — DZ defenders (value, S+)** | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3/Immunity(Shock) Regular HFT ambush. 11pt Camo/Decoy is DZ-only; the 10pt FTO may join TAK Line Kazak/Gunnery teams. 12pt FD is separate. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
@@ -23,6 +16,13 @@ These are exact **role- and profile-specific** positions in the [current ARO ran
 |---|---|---|
 | **Top 10 (#10) Apex · Top 3 (#2) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine. TAK pinned roster **omits the PAC modifier** while the ARO guide uses provisional +1SD; effectiveness and reactive dice must be checked against current Army. |
 | **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: Sapper/STR2 Neurocinetics artillery; #064/#067 support actual Vystrel/Courier defensive Order tax. **Gunnery team benefits require the legal TAK composition**. |
+
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 3 (#1) — DZ defenders (value, S+)** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Regular 7pt Chain Rifle and Light Shotgun guard; Shock Mine is **carried, not Minelayer**. TAK: FTO can join Line Kazaks (max 2). | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+| **Top 10 (#9) — DZ defenders (value, S+)** | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3/Immunity(Shock) Regular HFT ambush. 11pt Camo/Decoy is DZ-only; the 10pt FTO may join TAK Line Kazak/Gunnery teams. 12pt FD is separate. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
 
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
