@@ -8,6 +8,12 @@
 
 **Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
 
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 5 (#5) — DZ defenders (value, S+)** | **Raveneye FO/E/Marat/E/M Mine Minelayer 12/0** | Kosmoflot AVA1: native Regular with a **preplaced E/M Mine**, live E/Marat/Flash Pulse and FO. Cybermine is the alternative 12pt loadout; no LT/CoC benefits on this profile. | [#5 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
