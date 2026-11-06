@@ -10,6 +10,14 @@
 
 **Top 3/5/10** denote qualitative shortlist *candidates for the specified role*, not an overall global ranking. **Apex** is peak matchup output; **value** includes points and Orders. Compare [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
+|---|---|---|---|
+| **Top 10 (#9) — Force multipliers** | **Táowù16/0 — Contender/Pulzar Counterintelligence** | **B+ / S** | Legal Ikari Táowù with Holomask, Pulzar, Specialist Operative and Counterintelligence. **16/0** is the ranked profile; 19pt E/Marat and 21pt CoC variants differ. |
+
+
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
