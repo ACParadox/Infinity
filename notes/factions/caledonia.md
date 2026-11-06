@@ -8,12 +8,6 @@
 
 **Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
 
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 3 (#3) — DZ defenders (value, S+)** | **Caledonian Volunteer Chain Rifle/LSG 6/0** | One of the lowest-cost **native Regular Orders** with an immediate Chain Rifle corner guard; fragile and not a reliable long-range ARO. Caledonian Volunteer teams are legal under the local chart. | [#3 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
@@ -21,6 +15,12 @@ These are exact **role- and profile-specific** positions in the [current ARO ran
 | Whole-game ARO placement | Legal local profile | Why it stands out / limits |
 |---|---|---|
 | **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: Irregular camouflaged long-ranged anti-elite trade at 21pt. T2 and AP ammo are **different sniper profiles**; W1, avoid spending Orders protecting a disposable lane. |
+
+#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
+
+| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
+|---|---|---|---|
+| **Top 3 (#3) — DZ defenders (value, S+)** | **Caledonian Volunteer Chain Rifle/LSG 6/0** | One of the lowest-cost **native Regular Orders** with an immediate Chain Rifle corner guard; fragile and not a reliable long-range ARO. Caledonian Volunteer teams are legal under the local chart. | [#3 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
 
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
