@@ -13,6 +13,14 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official rankings, measured win rates, or claims that a troop is top-ten *overall*. **Apex** measures peak impact in the named job; **value** accounts for points, SWC and Order cost. Cross-faction comparisons: [command](../list-building/command-units-apex-and-value.md), [Order generation](../list-building/cheerleaders-and-order-generators.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [active guns](../list-building/active-turn-gunfighters-apex-and-value.md).
 
 
+
+**Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
+
+| Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
+|---|---|---|---|
+| **Top 10 (#9) — Force multipliers** | **Táowù16/0 — Contender/Pulzar Counterintelligence** | **B+ / S** | The non-Lieutenant 16/0 profile brings Holomask, Specialist Operative, Dodge(+3), Natural Born Warrior and Counterintelligence. The 19/0 E/Marat and 21/.5 CoC versions are separate, so do not combine their weapons. |
+
+
 | Whole-game role shortlist | Unit / exact package | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
 | **Top 10 (#8) — Non-TAG long-range value (A+)** | **Bào Thunderbolt(+1B)23/0** | B3 Thunderbolt at +3 through 16–32in, MSV2 and Albedo−3 for 23pt/0SWC; affordable targeted counter-ARO gun. **Limit:** BS12/W1, usually best with an already funded legal Zhian team; does not inherit Mimetism. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L106) |
