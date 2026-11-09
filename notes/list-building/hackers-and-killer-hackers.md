@@ -1,39 +1,5 @@
 # Hackers, Killer Hackers and hybrid programs — N5.3 cross-faction tier guide
 
-**O-12 device value and vulnerability — [Robert Shepherd's 2026 Vanilla focus (25–28m, 63–71m, 79–81m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1500s):**
-
-- **Kappa HD13/.5** is a good **minimum viable regular Hacker** to make native Repeaters threaten HI/REM
-- **Cyberghost HD+21/.5** provides essential **White Noise at WIP14**, with a **BS11 Pitcher** that should not be presumed to land reliably without setup.
-- A **Razor HD34/.5 with Trinity upgrade** is interesting precisely because it combines Hidden Deployment/Infiltration with a standard HD capable of an anti-Hacker program
-- **Razor FO29** is often the safer scoring choice when another Hacker already exists.
-- The video **disfavors Team Sirius Hacker24/.5**: its **BTS0 W1 controller** becomes a straightforward enemy-KHD target, risking both controller and SiriusBot.
-- **Sirius FO21** preserves a less exposed scoring/Repeater-defence package.
-
-This qualifies other guides rating Sirius KHD/HD or aerial hackers universally; source is **one presenter's conditional advice**, not a revised legality fact.
-
-**Projection companion:** [N5.3 Network Projection apex/value — Pitchers, Repeaters, TinBots, fast/airborne carriers](network-projection-repeaters-pitchers-apex-value.md). This page ranks the actual **Hackers and programs**; the linked guide ranks **how to deliver Hacking Area** and whether a 10–22pt projector, 7pt native bot or Turn-0 Infiltration node is worth the setup Orders and danger.
-
-## Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
-
-**Scoring-specific companion:** [N5.3 Mission Specialists and Button Pushers](mission-specialists-and-button-pushers-apex-value.md) compares the ability of these specialists to *physically reach and survive* objectives, not merely their Trinity/Oblivion efficiency:
-
-- **Asura**
-- **Deva**
-- **Danavas**
-- **Tuareg**
-- **Dokkaebi**
-- **Razor**
-- **Ninja**
-- **Jazz**
-- **Basic HD/KHD troops**
-
-A backline apex Hacker is not necessarily the best turn-three button runner.
-
-[Cross-game specialist and button-pusher tiers](mission-specialists-and-button-pushers-apex-value.md). **Current profile options and Fireteam charts in the linked sectorial rosters remain authoritative.**
-
-
-**Research and inventory: 2026-11-06 (expanded candidate audit, reranked against main-branch N5.3 sectorial rosters; Laxmee checked against her separate [N5 profile](https://www.human-sphere.com/Laxmee)).** Standard 300-point play, latest committed `main` N5.3 sectorial references. **Scope:** Hacking Device (**HD**), Hacking Device Plus (**HD+**), Killer Hacking Device (**KHD**), *hybrids* (HD with Trinity, KHD with Spotlight/Carbonite/Oblivion/White Noise, and relevant program-only profiles). **EVO** is rated separately as a support infrastructure investment: its baseline programs do a different job. **Tier lists are qualitative play judgments**, not official win rates. Point costs are a **sample eligible roster profile**, not universal faction costs; consult the linked actual sectorial for profile variants and Fireteam restrictions.
-
 ## The 30-second decision
 
 1. **Want to stop ordinary HI/TAG/REM/VH?** Start with **HD/HD+** for **Oblivion, Carbonite**, and possibly **Total Control vs TAGs**. The right choice depends on **Repeater reach**, not just WIP.
