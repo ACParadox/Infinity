@@ -24,7 +24,7 @@
 
 | KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
 |---|---|---|---|
-| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago **FTO** KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. Link only in a permitted Military Orders/Order Sergeants/Crusade composition. [Pinned local roster](../../sectorials/panoceania/military-orders.md). |
+| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago FTO KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. Link only in a permitted Military Orders/Order Sergeants/Crusade composition. [Pinned local roster](../../sectorials/panoceania/military-orders.md). |
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
