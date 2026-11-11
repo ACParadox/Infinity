@@ -12,6 +12,13 @@
 
 **Source-link precision:** each linked name opens a cross-faction tier/ranking row. Some categories rank the **base unit or package**, not every optional upgrade independently (notably **Oko 15pt** versus **Oko Tactical Awareness 18pt**); do not read the linked tier as a separately proven rank for that exact upgrade.
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/o-12/torchlight-brigade.md) are counted.
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| — | **[Top 10 (#8) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Waverider KHD + Trinity(SR-1)/Pitcher 20/0** | WIP13/BTS6, Mimetism(-3), MOV15-5, printed Trinity(SR-1) and Pitcher; Silverstars Fireteam access. The upgraded Oblivion on the 22pt HD is not on this KHD. [Pinned local roster](../../sectorials/o-12/torchlight-brigade.md). |
+
 | Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
 |---|---|---|
 | **Top 5 (#5) — DZ Defenders & Trade Pieces (value, S+)** · [rank](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) | **Raveneye FO/E/Marat/E/M Minelayer 12/0** | **S+ global DZ value**: paid Regular Order, predeployed E/M Mine (Cybermine alternative), Flash Pulse and FO. **This is the 12pt defensive option, not Torchlight's distinct 17pt Lt(+1 Order) or 18pt CoC versions**; Silverstars team access is roster-dependent. |
