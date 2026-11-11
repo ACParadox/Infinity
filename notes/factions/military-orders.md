@@ -19,6 +19,13 @@
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/panoceania/military-orders.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago **FTO** KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. Link only in a permitted Military Orders/Order Sergeants/Crusade composition. [Pinned local roster](../../sectorials/panoceania/military-orders.md). |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Positions are **role-specific** in the [current ARO rankings](../list-building/aro-units-apex-and-value.md); roster legality and printed Fireteam access take precedence over generic faction examples.
