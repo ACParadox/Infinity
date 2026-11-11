@@ -12,15 +12,14 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/panoceania/shock-army-of-acontecimento.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
 | **[Top 10 (#6) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Scylla HD + Trinity(SR-2) — 32/0.5** | WIP13/BTS6, ECM:Hacker(-3), Pitcher and synchronized Repeater/HFT Charybdis; the 25/0.5 FTO lacks this bot, while the 37/0.5 FTO+Charybdis package is a distinct two-order selection. The FTO + Charybdis is purchased as a **37/0.5 two-miniature package**, not a standalone 25/0.5 Scylla plus a free bot. [Pinned roster](../../sectorials/panoceania/shock-army-of-acontecimento.md). |
-
-**Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
-
-
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** Source: [combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value). Rankings refer to the **exact non-Lieutenant profile** and legal faction.
 
@@ -28,7 +27,6 @@
 |---|---|---|---|
 | **Top 3 (#1) — Force multipliers** | **Scylla EVO32/.5 + synchronized Charybdis** | **S / A+** | Nonstandard EVO + Trinity (SR-2), Pitcher and HFT/Repeater peripheral. This is the 32/.5 option, **not** the 37/.5 FTO two-Order package. |
 | **Top 5 (#5) — Force multipliers** | **Flight Officer Agnes Ferreira RemDriver16/0** | **A / S+** | For +3pts over her 13pt Specialist, gives +1 BS/+5 CC to one eligible REM. Wildcard/Second-role utility; cannot buff a Tikbalang TAG. |
-
 
 | Whole-game shortlist (specific job) | Acontecimento unit/profile | Why it stands out / limits |
 |---|---|---|
@@ -46,8 +44,7 @@
 | **Top 10 (#10) value — Cheerleaders / Order Generators** | **Tech-Bee 9/0 — Specialist / TAGCom** | Native Regular Order and affordable Specialist Operative, Deployable Repeater, GizmoKit, Adhesive Launcher Rifle/Flash defence. TAGCom affects only eligible **same-Combat-Group TAGs**; fragile ARM0, and **not** an Engineer. [Pinned roster](../../sectorials/panoceania/shock-army-of-acontecimento.md) [Value #10](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
 
 **Noteworthy choices outside the current Top 10 in the cited role:**
-- **#17 — Network Projection (value) · [HD + Trinity hybrid: A apex / A value](../list-building/hackers-and-killer-hackers.md#strongest-hybrid-profiles--apex)**: [**Scylla HD + Charybdis, 32/0.5**](../list-building/network-projection-repeaters-pitchers-apex-value.md#L51) — [A+ network package](../list-building/network-projection-repeaters-pitchers-apex-value.md#L51): Pitcher, Trinity and a synchronized Repeater/flamethrower body. The selectable **Scylla FTO + Charybdis FTO package (37/0.5)** differs in Fireteam and Order behavior. **Revised Hacker guide:** Scylla is an HD + Trinity hybrid (A/A as a hacker); the separately ranked synchronized Charybdis network package remains A+ in network projection.
-
+- **#17 — Network Projection (value) · [Hybrid Apex #6; Value outside Top 10](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)**: [**Scylla HD + Charybdis, 32/0.5**](../list-building/network-projection-repeaters-pitchers-apex-value.md#L51) — [A+ network package](../list-building/network-projection-repeaters-pitchers-apex-value.md#L51): Pitcher, Trinity and a synchronized Repeater/flamethrower body. The selectable **Scylla FTO + Charybdis FTO package (37/0.5)** differs in Fireteam and Order behavior. **Revised Hacker guide:** Scylla is an HD + Trinity hybrid (A/A as a hacker); the separately ranked synchronized Charybdis network package remains A+ in network projection.
 
 ### Particularly strong or unusual Fireteams
 
