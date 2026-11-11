@@ -10,6 +10,14 @@
 
 **Top 3/5/10** denote qualitative shortlist *candidates for the specified role*, not an overall global ranking. **Apex** is peak matchup output; **value** includes points and Orders. Compare [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned ikari-company roster](../../sectorials/na2/ikari-company.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Pitcher Apex #4 · S** | **Druze Shock Team KHD/Pitcher 23/0 or HD/Pitcher 25/.5** — Druze / Qapu / Ikari as legal | **BS12 + X-Visor** on a team-capable shooter; can project from beyond standard favorable Pitcher bands, then use the printed Hacker **Limit:** Team bonuses and Fireteam eligibility depend on sectorial; do not combine KHD and HD profiles | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| **Pitcher Value #4 · S** | **Druze KHD/Pitcher 23/0; HD25/.5** — Druze / Qapu / Ikari | **BS12 + X-Visor** and legal Fireteam options; unusually efficient accurate thrower plus Hacker **Limit:** More expensive than line launchers; watch SWC on HD | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
+| **Mobile Repeater Value #5 · S** | **Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0** — PanO / WinterFor where legal | **MOV15-10**, native Repeater active throughout movement, FO/Sensor and its **own Tactical Awareness Order** to advance without consuming a normal pooled Order **Limit:** **17pt TA profile only**; ordinary 14pt Pathfinder is deliberately excluded | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
 
