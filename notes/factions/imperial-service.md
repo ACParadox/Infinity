@@ -14,6 +14,13 @@
 
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/yu-jing/imperial-service.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 3 (#3) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 3 (#3) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Deva KHD 20/0** | WIP15, NWI, Immunity(Isolated) and no SWC. Boarding Shotgun KHD is separate from the 25/0.5 HD. [Pinned local roster](../../sectorials/yu-jing/imperial-service.md). |
+
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
