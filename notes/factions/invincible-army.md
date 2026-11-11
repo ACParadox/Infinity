@@ -17,6 +17,10 @@
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
 
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD with Trinity / MULTI Rifle 58/0.5** · [N5.3 roster](../../sectorials/yu-jing/invincible-army.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
+
 
 **Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/yu-jing/invincible-army.md) qualify. These are role-specific placements, not overall unit ranks.
 
@@ -24,10 +28,6 @@ These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades
 |---|---|---|---|
 | — | **[Top 5 (#4) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Gūdǎn SMG/Zapper + Shock Mine, one-use Camo, 12/0** | FD(+10) and Regular Order provide a live E/M template, but the carried Shock Mine is not predeployed; 11pt FTO is DZ-only. |
 | — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
-
-| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
-|---|---|---|---|
-| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD with Trinity / MULTI Rifle 58/0.5** · [N5.3 roster](../../sectorials/yu-jing/invincible-army.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/yu-jing/invincible-army.md) controls profiles, SWC and Fireteam eligibility.
 
