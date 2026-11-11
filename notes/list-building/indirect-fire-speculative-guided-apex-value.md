@@ -8,7 +8,7 @@ _Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixe
 |---|---|---|
 | **Apex sustained safe Speculative Fire** | **Kuryer Katyusha 15pt/1SWC** (TAK/FRRM and other *eligible* rosters) | Cheap **Warhorse, Baggage, Minelayer, chest/shock mine and Guided** chassis; Katyusha has an excellent **+3 range band to 24″**. Spend Orders on a support model behind cover, forcing enemy defenders to leave their safe position; **not** a great exposed direct gun |
 | **Apex mobile/forward Speculative Fire** | **Dog-Warrior grenades** (Ariadna), **Carmen & Bâtard** (PH-based grenades; available by roster), **Margot (Mirage-5) GL** | Unusual short-range delivery, high PH or strong alternate combat function; **best when the model is already forward**. Margot is part of the whole **Mirage-5** purchase, not a stand-alone 36pt slot |
-| **Best cheap offensive Speculative utility** | **Kestrel Jackal E/M GL 11pt/.5 SWC**, **Emily Handelman E/M GL 22pt/0**, **FRRM Métro GL 10pt/.5** | Off-angle **state/area effect** or residual-Order threat at low price; Jackal is **Irregular, infiltrating and Minelayer**, not a cheap shared Regular Order |
+| **Best cheap offensive Speculative utility** | **Kestrel Jackal E/M GL 11pt/.5 SWC**, **FRRM infiltrating Métro GL 14pt/.5**, **Hunzakut GL 18pt/.5** | **Infiltration** creates immediate off-angle attacks; Jackal is Irregular with Minelayer, and the standard 10pt Métro GL is a *different, backfield* profile |
 | **Best expensive attack+indirect hybrid** | **Redeye Continuous-Damage GL 38/1.5** (eligible PanO), **Squalos Mk-II HMG+GL 62/1.5**, **Maghariba Guard GL+MULTI HMG 71/1.5** | Primary attack plan and ability to threaten otherwise unreachable troops; inefficient if the premium chassis is bought *only* to lob B1 grenades |
 | **Apex Guided as part of a fighting unit** | **White Banner Haetae HRL (+1B)/Guided 36/1.5, Tactical Awareness** | BS14, 2W/ARM5 and a real reactive/active heavy rocket gun **in addition** to Guided; strongest role compression once Dokkaebi/Pitcher/FO produces Targeted |
 | **Best cheap Guided payoff** | **Traktor Mul Katyusha Guided 9/1** (Ariadna); **Kuryer Katyusha 15/1** where permitted | Nine points is exceptionally cheap *if a forward Observer already creates Targeted*. Kuryer pays +6 for Warhorse/mine/Baggage/dual speculative and Guided capability |
@@ -31,51 +31,59 @@ _Research: 2026-10-23. **Tactical relative tiers, not measured win rates or fixe
 
 Sources: [N5.3 Guided / BS Attack](https://infinitythewiki.com/Guided), [Spotlight](https://infinitythewiki.com/Spotlight), [Speculative Attack](https://infinitythewiki.com/Speculative_Attack), [repository Speculative guide](../Strategy/speculative-fire.md), [hacker rules/FAQ corrections](hackers-and-killer-hackers.md). **Do not carry N4 auto-Targeted Spotlight or flat +6 Guided into N5.3.**
 
-## 2. **Speculative Fire APEX** tier list — maximum useful on-table impact
+## 2. **Speculative Fire APEX** — maximum useful battlefield impact
 
-_Rate the ability to impose repeated off-angle threats **without risking a valuable model**; an expensive GL backup cannot outrank a cheap artillery piece simply because its chassis is a better HMG._
+Rank peak speculative effectiveness by **attribute and range, ammunition, delivery, defensive staying power and combat alternatives**. Price alone is **not** an Apex criterion. The **Apex cutline is rank 10**; lower-ranked entries are retained as non-Apex comparisons. Kuryer remains near the top despite being inexpensive because its 24″ favorable reach lets it fire effectively without a forward start.
 
-| # | Apex | Troop / chosen loadout | Why; when it wins | Where it loses |
+| # | Apex tier | Troop / chosen loadout | Deployment / reach | Strengths | Limits |
+|---|---|---|---|---|---|
+| 1 | **S** | **Kuryer Katyusha 15/1 (TAK; FRRM ETB)** | Standard DZ; long reach | Unique +3 Katyusha band through 24″; safe repeatable fire, Minelayer, Warhorse, Baggage, Guided alternate | Beyond favorable band or if exposed |
+| 2 | **S** | **Dog-Warrior grenades (legal Ariadna roster)** | Standard DZ; 15-10, Super-Jump | PH16 in Dog-Warrior form, durable assault and close-range off-angle grenade pressure | Must cross table; Order-intensive approach |
+| 3 | **S** | **Kestrel Redeye Continuous Damage GL 38/1.5** | Standard DZ; Aerial 20-5, Super-Jump | BS14, STR2 and Mimetism(-6), formidable Continuous Damage mobile launcher | S7/No Cover and 1.5SWC |
+| 4 | **A+** | **Mirage-5: Margot GL + Duroc grenades 60/2** | Parachutist (Deployment Zone), both | Rear/flank arrival with Margot BS14 GL and Duroc PH16 grenades; strong direct alternatives | 60pt/2SWC two-model purchase |
+| 5 | **A+** | **Carmen & Bâtard 17/0** | Standard DZ; Motorcycle 20-10 / Bâtard 15-15 | Fast Bâtard PH15 grenade delivery, Sensor, smoke and close-combat threat | Irregular/Impetuous, very short band |
+| 6 | **A+** | **Squalos Mk-II HMG + GL 62/1.5** | Standard DZ; TAG | BS15, survivable Tactical Awareness gunfighter with secondary indirect pressure | Too expensive to buy just for B1 GL |
+| 7 | **A+** | **Maghariba Guard MULTI HMG + GL 71/1.5** | Standard DZ; TAG | BS14 armored Baggage/Tactical Awareness platform and indirect backup | Huge investment; GL still needs suitable range |
+| 8 | **A** | **Emily Handelman E/M GL 22/0 or dual GL 24/0** | Standard DZ; 10-10, X-Visor | BS13, E/M or lethal GL, FO, Dogged and versatile linked support | Short delivery, E/M not inherently lethal |
+| 9 | **A** | **Wú Míng dual GL 27/0 — Imperial Service** | Standard DZ; 10-10 | BS13, 2W/ARM4 and normal+E/M launchers with Fireteam access | Needs team or personal Orders to reach bands |
+| 10 | **A** | **Druze GL + E/M GL 24/1 — Qapu/Druze** | Standard DZ; 10-10, X-Visor | Two indirect effect types, X-Visor, Warhorse and team utility | BS12, W1 and 1SWC |
+| 11 | **B+** | **Al Hawwa' GL + Minelayer 21/.5** | Infiltration + Camouflage | Immediate forward angle; Regular, SMG, Shock Mine and Minelayer | BS11, W1/ARM1; value more than Apex |
+| 12 | **B+** | **Hunzakut GL + Repeater 18/.5** | Infiltration + Camouflage | Early flank pressure, mine and Deployable Repeater utility | Irregular; fragile modest-BS launcher |
+| 13 | **B** | **FRRM Métro Infiltrating GL 14/.5** | Infiltration + Camouflage (1 Use) | Forward GL delivery and Regular order at tiny cost | BS11/PH11; not elite indirect fire |
+| 14 | **B** | **Kestrel Jackal E/M GL + Minelayer 11/.5** | Infiltration | Early E/M lane and Shock Mine at outstanding price | Irregular, BS11, ARM0/W1, nonlethal E/M |
+| 15 | **B** | **Ghulam NCO GL + Smoke GL 15/1** | Standard DZ; 10-10 | Can convert LT Orders into grenade/smoke utility | BS11, short reach, 1SWC |
+| 16 | **B−** | **FRRM Métro GL 10/.5** | Standard DZ; 10-10 | Cheap Regular body and backfield residual-Order launcher | No Infiltration on this option |
+| 17 | **B−** | **Caledonian Volunteer GL 8/.5** | Standard DZ; 10-10 | Very cheap Regular filler with occasional GL threat | Poor forward delivery and BS11 |
+| 18 | **C+** | **Haqq Daylami GL 10/.5** | Standard DZ; 10-10 | Low-cost incidental GL | Irregular; this GL has neither Infiltration nor Camouflage |
+
+**Cheap profiles at ranks 13–18 are intentionally below the true Apex contenders.** They excel by cost or early positioning, not maximum shot quality or survivability.
+
+## 3. **Speculative Fire POINTS VALUE** — prioritize useful starting range
+
+The value list rewards **Infiltration, flanking Parachutist arrival, high mobility and strong secondary roles**. A cheap GL that starts in the DZ and moves only 10-10 often costs several Orders before its short band matters. **Kuryer is the deliberate exception**: long Katyusha range allows useful fire from the backfield. “Standard DZ” means the specific listed loadout does not print an advanced deployment skill.
+
+| # | Value tier | Troop / exact GL loadout | Deployment / reach | Value assessment |
 |---|---|---|---|---|
-| 1 | **S** | **Kuryer Katyusha 15/1** (TAK; FRRM ETB) | Strong +3 Katyusha range out to **24″**, repeatable B1 pressure behind a wall, Warhorse/Minelayer/Baggage plus Guided as alternate mode; cheap to reserve several Orders for | Out-of-band target, clustered enemies absent, vulnerable if forced into open, SWC |
-| 2 | **S** | **Dog-Warrior grenade profiles** (Ariadna / TAK / Kosmoflot / appropriate roster) | High-PH **forward** Speculative into backfield / hidden supports while Smoke/close attack create another decision; pressures an enemy who hides safely from direct fire | Needs short approach, can overinvest Orders reaching grenade distance, not a sniper substitute |
-| 3 | **A+** | **Carmen & Bâtard 17/0** (eligible Ariadna/Haqq/other lists) | Bâtard's **PH15 grenades** threaten protected short-range enemies; Sensor and fast aggressive duo serve as other roles | Irregular/Impetuous, close delivery risk, very short useful band; don't use Carmen's *Smoke Grenade Launcher* as an ordinary damaging GL |
-| 4 | **A+** | **Kestrel Redeye Continuous Damage GL 38/1.5** | Fast aerial LOS bypass + unusual attritional GL while Spitfire/Chain Rifle remain good active alternatives; attacks a target no conventional gun wants to expose to | Sky-high cost relative to cheap grenade, S7/no Partial Cover and hacking danger; **37pt Blitzen** profile better for opposing heavy VH/TAG |
-| 5 | **A+** | **Squalos Mk-II HMG + GL 62/1.5** (PanO/Varuna/Kestrel etc.) | BS15, durable TA TAG, HMG clears lanes while GL forces a hidden defender to move | B1 speculative can't be its whole plan; expensive S6/W3 asset, expensive compared with 55pt MMR version |
-| 6 | **A** | **Maghariba Guard MULTI HMG+GL 71/1.5** (Haqq/Ramah) | BS14, Baggage and TA armored chassis with useful off-angle option when moving HMG would be dangerous | Huge TAG and one GL don't guarantee good speculative range/Orders; other loadouts and cheaper artillery may be better |
-| 7 | **A** | **Margot Berthier GL in Mirage-5 60/2** (Ariadna/Kosmoflot/FRRM) | Backline arrival and BS14 gun/GL pressure, complemented by Duroc Smoke/template; doesn't have to walk a shooter across midfield | **Package is 60/2**, not a 36pt standalone shooter; arrival/activation geometry and heavy SWC |
-| 8 | **A** | **Emily Handelman E/M GL 22/0 or dual GL24/0** (Kestrel) | Zero SWC on a Regular flexible linked unit; isolate/cripple a hidden HI/TAG or block an objective while a stronger gun scores | E/M isn't a direct lethal answer to every target; game state and enemy Warhorse/equipment matter |
-| 9 | **A** | **Druze GL+E/M GL 24/1 — Qapu/Druze** | Linked medium-range repeated off-angle E/M or grenade fork; opponent cannot just wait behind the obvious long-fireline | If not positioned in the right band, buying SWC/HI for B1 spam is inefficient |
-| 10 | **A** | **Wú Míng dual GL 27/0 — Imperial Service** | Linked medium-range repeated off-angle E/M or grenade fork; opponent cannot just wait behind the obvious long-fireline | If not positioned in the right band, buying SWC/HI for B1 spam is inefficient |
-| 11 | **A** | **FRRM Métro GL 10/.5** | Very cheap residual-Order speculative shots and defensive cheap bodies; cheap enough not to be the whole plan | BS/PH and range reliability poor against dispersed premium targets; Regularity/Fireteam-specific caveats |
-| 12 | **A** | **Caledonia Volunteer GL 8/.5** | Very cheap residual-Order speculative shots and defensive cheap bodies; cheap enough not to be the whole plan | BS/PH and range reliability poor against dispersed premium targets; Regularity/Fireteam-specific caveats |
-| 13 | **A** | **Haqq Daylami GL 10/.5** | Very cheap residual-Order speculative shots and defensive cheap bodies; cheap enough not to be the whole plan | BS/PH and range reliability poor against dispersed premium targets; Regularity/Fireteam-specific caveats |
-| 14 | **B+** | **Kestrel Jackal E/M GL + Shock Mine Minelayer 11/.5** | Exceptional **cheap forward deployment/Irregular** off-angle control; mine laid for free creates a complementary early threat | Fragile, Irregular Order not pool-wide; E/M doesn't always kill and Infiltration/Minelayer not universal across Jackal profiles |
-| 15 | **B+** | **Haqq Hunzakut Grenade Launcher + Deployable Repeater 18/.5** | Infiltrated/camouflaged off-angle grenade pressure plus real objective/network/denial role | Usually lower damage reliability than Kuryer; strong only when already forward and close |
-| 16 | **B+** | **Al Hawwa' GL 21/.5** | Infiltrated/camouflaged off-angle grenade pressure plus real objective/network/denial role | Usually lower damage reliability than Kuryer; strong only when already forward and close |
-| 17 | **B** | **Ghulam NCO GL + Smoke GL 15/1** (Haqq/Hassassin/Ramah where legal) | Spend otherwise idle LT Orders on indirect pressure, cover placement or link movement; no extra dedicated artillery chassis | Pays 1 SWC; ordinary smoke's purpose is blocking fire, not damaging troops |
+| 1 | **S+** | **Kuryer Katyusha 15/1** | Standard DZ; long +3 band to 24″ | Exceptional no-advance fire and Guided/mine/Baggage/Warhorse backup; explicit reach exception |
+| 2 | **S+** | **Jackal E/M GL + Minelayer 11/.5** | Infiltration; 10-10 | Cheap immediate E/M area denial + mine; Irregular and low-BS |
+| 3 | **S+** | **Métro camouflaged GL 14/.5** | Infiltration + Camouflage (1 Use); 10-10 | Regular midfield grenade threat rather than 10pt backfield variant |
+| 4 | **S** | **Carmen & Bâtard 17/0** | Standard DZ; bike 20-10, Bâtard 15-15 | Fast PH15 grenades, smoke, Sensor and aggressive roles; Irregular/Impetuous |
+| 5 | **S** | **Hunzakut GL + Deployable Repeater 18/.5** | Infiltration + Camouflage | Midfield grenade access, mine and Repeater roles; Irregular |
+| 6 | **S** | **Al Hawwa' SMG + GL + Minelayer 21/.5** | Infiltration + Camouflage | Regular forward launcher, Shock Mine and SMG; more costly than Hunzakut |
+| 7 | **S** | **Dog-Warrior grenades (e.g. TAK 21/0)** | Standard DZ; 15-10 + Super-Jump | PH16 on transformed warband, durable close pressure; approach still consumes Orders |
+| 8 | **A+** | **Redeye Continuous Damage GL 38/1.5** | Standard DZ; Aerial 20-5 + Super-Jump | Outstanding fast BS14 combat hybrid, but expensive as a B1-only investment |
+| 9 | **A+** | **Emily E/M GL 22/0 or dual GL 24/0** | Standard DZ; 10-10 + X-Visor | 0SWC, BS13 and FO/team versatility; X-Visor helps range but no early forward angle |
+| 10 | **A** | **Mirage-5: Margot GL + Duroc grenades 60/2** | Parachutist (Deployment Zone), both | Strong flank arrival and PH16/BS14 grenade options; full 60pt/2SWC package |
+| 11 | **A** | **Wú Míng dual GL 27/0** | Standard DZ; 10-10, Fireteam option | 2W, normal+E/M GLs and 0SWC; needs several Orders for close-range delivery |
+| 12 | **A−** | **Druze GL + E/M GL 24/1** | Standard DZ; 10-10, X-Visor/Fireteam | Dual effects and role compression, reduced by 1SWC and slow start |
+| 13 | **B+** | **Ghulam NCO GL + Smoke GL 15/1** | Standard DZ; 10-10 | NCO and smoke support justify some cost; 1SWC and backfield reach limit pressure |
+| 14 | **B** | **Métro standard GL 10/.5** | Standard DZ; 10-10; no Infiltration | Regular cheap body; inferior attack geometry to its distinct 14pt infiltrating GL |
+| 15 | **B** | **Volunteer GL 8/.5** | Standard DZ; 10-10 | Very cheap Regular GL; low real impact without advancing |
+| 16 | **B−** | **Daylami GL 10/.5** | Standard DZ; 10-10; no Infiltration/Camouflage | Low price offset by Irregularity and lack of range access; special deployment belongs to other Daylami options |
 
-**Ranking is conditional on weapon range.** A Kuryer in a useful +3 band can outproduce Guided after including all Targeted setup Orders; a very distant, isolated high-value enemy may reverse the comparison.
+**Profile-specific deployment:** the **14pt Métro GL** has Infiltration and one-use Camouflage; its **10pt GL** does **not**. The **11pt Jackal E/M GL**, **Hunzakut GL** and **Al Hawwa' GL** have Infiltration. **Margot and Duroc** have *Parachutist (Deployment Zone)*. **Redeye Aerial/Super-Jump** and **Carmen's Motorcycle** add speed, not Infiltration. The **10pt Daylami GL** does not gain Camouflage from other Daylami options.
 
-## 3. **Speculative Fire POINTS VALUE** (not absolute firepower)
-
-| # | Value | Troop | Best reason to include it; alternative |
-|---|---|---|---|
-| 1 | **S+** | **Volunteer GL 8/.5** | Low incremental points; cheap threat **in addition** to Order/body/mine/camo. Jackal Irregular and source-specific |
-| 2 | **S+** | **Métro GL 10/.5** | Low incremental points; cheap threat **in addition** to Order/body/mine/camo. Jackal Irregular and source-specific |
-| 3 | **S+** | **Jackal E/M GL 11/.5** | Low incremental points; cheap threat **in addition** to Order/body/mine/camo. Jackal Irregular and source-specific |
-| 4 | **S+** | **Kuryer Katyusha 15/1** | A real main artillery plan at 15pts with Baggage/mines/Warhorse and Guided alternative; outvalues many larger pure Spec shooters |
-| 5 | **S** | **Carmen & Bâtard 17/0** | PH-based grenades are one of several close-pressure roles; excellent 0SWC **if** forward delivery already desired |
-| 6 | **S** | **Dog-Warrior grenades** | No extra speculative-only spend if you were buying its smoke/trade/speed anyway; otherwise mobile close pressure can be Order-hungry |
-| 7 | **A+** | **Emily 22–24/0** | Role compression, mission control, team utility; don't buy a dedicated link for a speculative-only B1 attack |
-| 8 | **A+** | **Druze GL/E/M 24/1** | Role compression, mission control, team utility; don't buy a dedicated link for a speculative-only B1 attack |
-| 9 | **A+** | **Wú Míng dual GL 27/0** | Role compression, mission control, team utility; don't buy a dedicated link for a speculative-only B1 attack |
-| 10 | **A** | **Hunzakut GL18/.5** | Surprise/midfield delivery with FO/Repeater/mine other job; range and Order funding decide |
-| 11 | **A** | **Daylami GL10/.5** | Surprise/midfield delivery with FO/Repeater/mine other job; range and Order funding decide |
-| 12 | **A** | **Al Hawwa' GL21/.5** | Surprise/midfield delivery with FO/Repeater/mine other job; range and Order funding decide |
-| 13 | **A** | **Redeye Continuous GL38/1.5** | Good if using the fast aerial gun *and* occasional GL; Blitzen37 better if anti-heavy ARO expected |
-| 14 | **B** | **Squalos HMG+GL62/1.5** | Strong **total TAGs**, but B1 indirect is too small a slice of premium price to rank S for Spec alone |
-| 15 | **B** | **Maghariba HMG+GL71/1.5** | Strong **total TAGs**, but B1 indirect is too small a slice of premium price to rank S for Spec alone |
+**Removed from Speculative Fire Value:** Squalos Mk-II and Maghariba Guard; they remain high-end combat hybrids in Apex, but are not points-efficient dedicated speculative attackers.
 
 ## 4. **Guided APEX** — rank the *combined* system, then the launcher
 
