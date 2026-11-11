@@ -10,14 +10,14 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/corregidor.md) controls profiles, SWC and Fireteam eligibility.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | **[Top 10 (#8) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 3 (#1) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Jazz HDplus + Trinity(SR-1) — 25/0.5** | Full HDplus and upgraded Trinity, Pitcher/Cybermine. Jazz+Billie gains a second Regular Order and Repeater; 22/0.5 FTO replaces Billie with legal Fireteam access. Billie pair cannot inherit Jazz FTO Surface/Deepspace Wildcard rights. [Pinned roster](../../sectorials/nomads/corregidor.md). |
-
-**Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
-
 
 | Whole-game role shortlist | Corregidor unit/profile | Why it stands out; caveat |
 |---|---|---|
