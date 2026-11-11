@@ -26,6 +26,7 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 ### Whole-game standouts — apex versus value
 
 **Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/onyx.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
@@ -34,9 +35,6 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 | — | **[Top 5 (#4) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. [Pinned roster](../../sectorials/combined-army/onyx.md). |
 | — | **[Top 5 (#5) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rodok HD + Trinity — 24/0** | 0-SWC standard HD with Trinity on ARM3/BTS6, Mimetism(-3), Super-Jump and Fireteam eligibility where permitted. [Pinned roster](../../sectorials/combined-army/onyx.md). |
 | — | **[Top 10 (#7) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! KHD + Oblivion — 24/0.5** | KHD Trinity/Cybermask plus separately printed Oblivion and Pitcher/KISS network. No automatic Carbonite, Spotlight or entire HD suite. **Local cost:** 24/0.5; Combined Vanilla has a different 22/0.5 parent option. [Pinned roster](../../sectorials/combined-army/onyx.md). |
-
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/combined-army/onyx.md) are counted.
 
