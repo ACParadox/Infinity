@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 3 (#2) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Al Hawwa' FO 19/0 or KHD 22/0** · [pinned local roster](../../sectorials/haqqislam/haqqislam.md) | WIP14, Camo/Infiltration and zero SWC; FO19/KHD22 are distinct profiles, with StarCo/Qapu/vanilla roster permissions checked. |
+
 
 **Top 3 / Top 5 / Top 10 are editorial cross-faction shortlist *candidates within the stated job***, not overall top-ten units, measured win rates or official rankings. *Apex* is the role's peak impact; *value* is impact per points/SWC/Orders. Based on the [command](../list-building/command-units-apex-and-value.md), [cheap-unit](../list-building/best-cheap-units.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [Vehicle](../list-building/vehicles-vh.md) analyses.
 
