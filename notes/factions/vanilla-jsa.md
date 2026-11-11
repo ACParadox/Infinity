@@ -23,6 +23,13 @@ The usual payoff is **concealment and route creation → one precise assault or 
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/jsa/jsa.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 3 (#1) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Shikami Specialist Operative 42/0 (or MULTI Rifle SO 47/0)** · [local roster](../../sectorials/jsa/jsa.md) | 2W, FD(+10), Eclipse, Mimetism(-6), Climbing Plus/Super-Jump; independent assault-to-button route. 42pt and 47pt loadouts are distinct. |
+| — | [Top 10 (#9) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Teishin Guntai FO 19/0 or KHD 21/0** · [local roster](../../sectorials/jsa/jsa.md) | Regular Combat Jump/Parachutist plus Super-Jump and D-Charges; FO and KHD are distinct choices. |
+
 **Top 3 / Top 5 / Top 10 are qualitative, job-specific cross-faction shortlist *candidates*, not official ranks, measured pick rates or claims that these are the best units overall.** **Apex** means exceptional ceiling at a given task; **value** means that effect relative to points, SWC and Orders. Comparisons draw on the repository's [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md) and [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md) analyses, subject to the [pinned Vanilla JSA profiles](../../sectorials/jsa/jsa.md).
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
