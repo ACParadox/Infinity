@@ -14,7 +14,7 @@
 
 | KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
 |---|---|---|---|
-| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago **FTO** KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. The legal FTO joins the Bronzes family, not an arbitrary Fireteam. [Pinned local roster](../../sectorials/o-12/starmada.md). |
+| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago FTO KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. The legal FTO joins the Bronzes family, not an arbitrary Fireteam. [Pinned local roster](../../sectorials/o-12/starmada.md). |
 | — | **[Top 10 (#6) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Cyberghost KHD + Pitcher 18/0** | WIP14/BTS6, KHD Trinity/Cybermask, Pitcher and zero SWC; the 21/0.5 HDplus/White Noise profile is a **separate** option. [Pinned local roster](../../sectorials/o-12/starmada.md). |
 
 | Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
