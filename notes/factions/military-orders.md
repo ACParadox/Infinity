@@ -16,15 +16,14 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/panoceania/military-orders.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
 | **[Top 3 (#3) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Gabriele De Fersen HD + Trinity(+1SD) — 42/0.5** | WIP14, BTS6, ARM4, 2W and reactive +1SD Trinity; only eligible MO Fireteams can supply linked TinBot protection. [Pinned roster](../../sectorials/panoceania/military-orders.md). |
-
-**Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/panoceania/military-orders.md).
 
@@ -63,7 +62,6 @@ Positions are **role-specific** in the [current ARO rankings](../list-building/a
 
 **Other noteworthy profiles outside the current Top 10:**
 - **#24 Order Sergeant FTO / #25 Escort Sergeant — ARO Units (value)**: [**Order Sergeant FTO HRL 15/1.5**](../list-building/aro-units-apex-and-value.md#L126); [**Escort Sergeant Neurocinetics HRL + Auxbot 22/1.5**](../list-building/aro-units-apex-and-value.md#L127) — Cheap legal linked HRL on the **FTO**; independent Neurocinetics and synchronized close-template deterrent on the **Escort**. **Escort cannot link**, and the Auxbot does not inherit controller Neurocinetics. A Black Friar HRL adds MSV/Albedo at different cost. **Escort Sergeant (different profile):** [Neurocinetics HRL + Auxbot, A+ defensive value](../list-building/aro-units-apex-and-value.md#L127).
-
 
 **Additional noteworthy choices:** **Raveneye FO + E/M Mine/Cybermine 12/0** is an excellent inexpensive DZ deterrent; **Crosier MSV2 HMG 24/1** is unusual budget anti-camo firepower; **Sierra Thunderbolt Total Reaction 18/0** is efficient 360º home ARO; **Pathfinder FO/Sensor/Repeater TacAware 17/0** is a high-grade independent mission tool; **Motorized Montesa Paramedic 23/0** is an extremely fast late-game scorer; and **Joan v1 LT (+1 SWC)** is a distinct, more armored command alternative to Mobility v2. Its **v1 MULTI Rifle 47/0** was removed from the medium-range apex ranking; the **separate 47pt CoC option** is [excluded from under-40pt ranged value](../list-building/active-turn-gunfighters-apex-and-value.md#L91), not a substitute for v2 AP Spitfire. These are role-dependent, not mutually interchangeable.
 
