@@ -11,12 +11,10 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 5 (#4) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 5 (#5) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Raptor HSG + HFT Devabot 32/0** · [local roster](../../sectorials/o-12/o-12.md) | W2, BS14, 360° Visor and NCO plus synchronized HFT helper; **Vanilla AVA2**, no additional Regular Order or duplicated parent VP. |
-
 | [Top 10 (#7) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Omega FO MULTI Rifle/Heavy Riotstopper 37/0** · [local roster](../../sectorials/o-12/o-12.md) | W2, ARM4, Mimetism(-6), heavy nonlethal close threat and 37VP; **FO 37pt option**, not HMG42 or TinBot non-FO. |
-
 | [Top 10 (#9) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Gamma HMG 50/1.5** · [local roster](../../sectorials/o-12/o-12.md) | W2+NWI/ARM6/BTS6, BS14 and BS Attack(+1B): high-VP surviving lane defender; S5 and hacking/AP risk, no mine or Guard. |
-
 | — | [Top 10 (#7) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Silverstar Combi/Light Riotstopper 27/0** · [local roster](../../sectorials/o-12/o-12.md) | W2/ARM3/BTS6 with live Light Riotstopper; **AVA2**. The 27pt TinBot Specialist and 27pt FO with D-Charges are separate, and Vanilla gains no Torchlight Silverstars Core. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
