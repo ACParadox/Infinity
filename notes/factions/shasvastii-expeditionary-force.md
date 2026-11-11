@@ -30,6 +30,12 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/shasvastii.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| **[Top 5 (#5) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 10 (#10) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Victor Messer HDplus + Trinity(PS5)/Zero Pain — 31/0.5** | WIP14, 2W, Nanoscreen, Zero Pain, White Noise, Cybermine and Deployable Repeater; BTS3 remains a direct hacking vulnerability. Wildcard only in Shasvastii Shock context; 30/0.5 Minelayer is a different profile. [Pinned roster](../../sectorials/combined-army/shasvastii.md). |
+
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
 
 
