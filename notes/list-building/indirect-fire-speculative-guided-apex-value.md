@@ -33,7 +33,7 @@ Sources: [N5.3 Guided / BS Attack](https://infinitythewiki.com/Guided), [Spotlig
 
 ## 2. **Speculative Fire APEX** — maximum useful battlefield impact
 
-Rank peak speculative effectiveness by **attribute and range, ammunition, delivery, defensive staying power and combat alternatives**. Price alone is **not** an Apex criterion. The **Apex cutline is rank 10**; lower-ranked entries are retained as non-Apex comparisons. Kuryer remains near the top despite being inexpensive because its 24″ favorable reach lets it fire effectively without a forward start.
+Rank peak speculative effectiveness by **attribute and range, ammunition, delivery, defensive staying power and combat alternatives**. Price alone is **not** an Apex criterion. Only the **top 10 Apex contenders** are included; lower-tier speculative options appear in the Points Value table. Kuryer remains near the top despite being inexpensive because its 24″ favorable reach lets it fire effectively without a forward start.
 
 | # | Apex tier | Troop / chosen loadout | Deployment / reach | Strengths | Limits |
 |---|---|---|---|---|---|
@@ -47,16 +47,7 @@ Rank peak speculative effectiveness by **attribute and range, ammunition, delive
 | 8 | **A** | **Emily Handelman E/M GL 22/0 or dual GL 24/0** | Standard DZ; 10-10, X-Visor | BS13, E/M or lethal GL, FO, Dogged and versatile linked support | Short delivery, E/M not inherently lethal |
 | 9 | **A** | **Wú Míng dual GL 27/0 — Imperial Service** | Standard DZ; 10-10 | BS13, 2W/ARM4 and normal+E/M launchers with Fireteam access | Needs team or personal Orders to reach bands |
 | 10 | **A** | **Druze GL + E/M GL 24/1 — Qapu/Druze** | Standard DZ; 10-10, X-Visor | Two indirect effect types, X-Visor, Warhorse and team utility | BS12, W1 and 1SWC |
-| 11 | **B+** | **Al Hawwa' GL + Minelayer 21/.5** | Infiltration + Camouflage | Immediate forward angle; Regular, SMG, Shock Mine and Minelayer | BS11, W1/ARM1; value more than Apex |
-| 12 | **B+** | **Hunzakut GL + Repeater 18/.5** | Infiltration + Camouflage | Early flank pressure, mine and Deployable Repeater utility | Irregular; fragile modest-BS launcher |
-| 13 | **B** | **FRRM Métro Infiltrating GL 14/.5** | Infiltration + Camouflage (1 Use) | Forward GL delivery and Regular order at tiny cost | BS11/PH11; not elite indirect fire |
-| 14 | **B** | **Kestrel Jackal E/M GL + Minelayer 11/.5** | Infiltration | Early E/M lane and Shock Mine at outstanding price | Irregular, BS11, ARM0/W1, nonlethal E/M |
-| 15 | **B** | **Ghulam NCO GL + Smoke GL 15/1** | Standard DZ; 10-10 | Can convert LT Orders into grenade/smoke utility | BS11, short reach, 1SWC |
-| 16 | **B−** | **FRRM Métro GL 10/.5** | Standard DZ; 10-10 | Cheap Regular body and backfield residual-Order launcher | No Infiltration on this option |
-| 17 | **B−** | **Caledonian Volunteer GL 8/.5** | Standard DZ; 10-10 | Very cheap Regular filler with occasional GL threat | Poor forward delivery and BS11 |
-| 18 | **C+** | **Haqq Daylami GL 10/.5** | Standard DZ; 10-10 | Low-cost incidental GL | Irregular; this GL has neither Infiltration nor Camouflage |
 
-**Cheap profiles at ranks 13–18 are intentionally below the true Apex contenders.** They excel by cost or early positioning, not maximum shot quality or survivability.
 
 ## 3. **Speculative Fire POINTS VALUE** — prioritize useful starting range
 
