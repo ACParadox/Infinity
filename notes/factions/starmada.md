@@ -12,7 +12,7 @@
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
 |---|---|---|---|
-| **Mobile Repeater Value #8 · S** | **Oko FO/Sensor/native Repeater + Tactical Awareness 18/0** — O-12 / Torchlight as legal | **MOV15-10**, native node, Sensor/FO and Tactical Awareness for an Order-efficient route **Limit:** 15pt basic Oko excluded; do not count a RoadBot as having its own Repeater | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+| **Mobile Repeater Value #8 · S** | **Oko FO/Sensor/native Repeater + Tactical Awareness 18/0** — Starmada | **MOV15-10**, native node, Sensor/FO and Tactical Awareness for an Order-efficient route **Limit:** 15pt basic Oko excluded; do not count a RoadBot as having its own Repeater | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
 | **Network package #8 · A+** | **Starmada:** **Saladin CoC33/0 or LT34/0 DR+Minelayer(2)** + legal **Cyberghost/other Hacker** | Premium Turn-0 reach bundled with command utility rather than a standalone projector **Limit:** Buying Saladin just for network is poor value; never mix LT and CoC features | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#4-best-package) |
 
 
