@@ -8,15 +8,14 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/hassassin-bahram.md), with explicit caveats where its upgrade detail is abbreviated.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | — | **[Top 3 (#3) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Leila Sharif KHD + Carbonite/Firewall(-3) — 22/0** | WIP14, 0SWC and upgraded KHD support against both Hackers and HI; no HDplus, Oblivion or Spotlight. Team permissions are faction-specific. Hassassin Wildcard, counts as Ghulam/Bahram where specified. [Pinned roster](../../sectorials/haqqislam/hassassin-bahram.md). |
-
-**Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/haqqislam/hassassin-bahram.md).
 
