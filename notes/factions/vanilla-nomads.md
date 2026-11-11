@@ -13,6 +13,14 @@
 
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-defenders-and-speed-bumps.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These labels are exact [toolbox Apex and Value rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not overall-army standings. Only legal local profiles qualify, with package costs and mutually exclusive loadouts kept separate.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 10 (#6) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Moran BSG/Re­peater/CrazyKoala 15/0.5** · [N5.3 roster](../../sectorials/nomads/nomads.md) | Infiltration, **Vanilla Nomads AVA1**, FO, Repeater + CrazyKoala on a 15/0.5 model; not a second free Order or its Camo alternative. |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/nomads.md) controls profiles, SWC and Fireteam eligibility.
 
 
@@ -68,8 +76,6 @@ The [current ARO ranking](../list-building/aro-units-apex-and-value.md) covers e
 | **Top 10 — Peripherals, Synchronized & Multi-Body Packages (value)** · [A+ peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md#L72) | **Coyote FO + attached BambaBot 27/0** | **A+ multi-body value**, FD(+10), MSV1 and separate angles; the 13pt independent **BambaDroid FO** is an additional purchase with Coyote dependency. [Peripheral tiers](../list-building/peripheral-synchronized-multibody-apex-value.md#L72). |
 | **Top 10 — Doctors, Engineers & Recovery Support (value)** · [A+ apex / S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L105) | **Clockmaker 18/0** | **A+ apex / S engineer value** for repairing exposed TAG/REM assets with legal Zondbot reach. A separate Engineer is not free in a Gecko Duo. [Engineer tiers](../list-building/doctors-engineers-and-recovery-apex-value.md#L105). |
 | **Top 5 — Network Projection (apex+value)** | **Tsyklon FTO Spitfire, 26/1, or Feuerbach, 29/1** | [Tunguska Top 5 projected Repeater](../list-building/network-projection-repeaters-pitchers-apex-value.md): same Vanilla REM and native Repeater; FTO does not produce a Tunguska Fireteam or linked shooting bonus. |
-| **Top 5 — Jack-of-All-Trades / Toolbox Units (value)** | **Evader BSG Engineer, 24/0, or AP Spitfire Engineer, 35/1.5** | [Corregidor Top 5 toolbox value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md): same independent engineering and fighting profiles exist in Vanilla; no Deepspace Fireteam bonus. |
-| **Top 10 — Jack-of-All-Trades / Toolbox Units (apex+value)** | **Kulak KHD + Carbonite / Disco Baller, 20/0** | [Tunguska Top 10 cyber-toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md): inexpensive hacker/vision mix; treat printed cyber upgrades as profile-specific, not a full HD. |
 | **Top 10 (#9) — Airborne/DZ attackers (value)** | **Hellcat BSG + Adhesive 19/0 (Paramedic 23/0 alternative)** | S value: Combat Jump or ordinary Parachutist, zero-SWC backline trade and mission options; **Hellcat does not carry a Deployable Repeater**; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L160) |
 | **Top 10 (#8) — Anti-Tech — MSV/Mimetism/Camo/Impersonation (value)** | **Chimera + 3 Pupniks with Eclipse 19/0** | An inexpensive multi-body close assault with Eclipse to bypass MSV corridors; Irregular/Impetuous and multi-body movement demand careful approach Orders [#8 value](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md#L95) |
 | **Top 3 (#2) — Active-turn BS stacking (S / A+)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) | **Intruder HMG 38/1.5** | MSV2 + Mimetism (-3) + Camouflage/Surprise; a separately paid Smoke source creates asymmetric gunfights. **Limit:** W1; Smoke costs Orders; White Noise/Albedo. |
