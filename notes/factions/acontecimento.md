@@ -12,6 +12,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/panoceania/shock-army-of-acontecimento.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| **[Top 10 (#6) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Scylla HD + Trinity(SR-2) — 32/0.5** | WIP13/BTS6, ECM:Hacker(-3), Pitcher and synchronized Repeater/HFT Charybdis; the 25/0.5 FTO lacks this bot, while the 37/0.5 FTO+Charybdis package is a distinct two-order selection. The FTO + Charybdis is purchased as a **37/0.5 two-miniature package**, not a standalone 25/0.5 Scylla plus a free bot. [Pinned roster](../../sectorials/panoceania/shock-army-of-acontecimento.md). |
+
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
 
