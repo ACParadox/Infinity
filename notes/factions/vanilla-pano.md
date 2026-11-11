@@ -14,6 +14,13 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each retained entry uses the narrowest applicable band and displays its numbered source position. These are editorial orderings, not measured win rates or universal overall-unit ranks; profiles below #10 appear separately.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Apex / Good Value source](../list-building/classified-objective-runners-apex-and-value.md), matched to the [pinned vanilla roster](../../sectorials/panoceania/panoceania.md). Each rank is role-specific and belongs to the selected profile or explicitly priced multi-body package; no unrelated profile skills or Fireteam privileges are transferred.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it qualifies; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 3 (#3) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Black A.I.R. FTO Hacking Device 26/0.5** · [roster](../../sectorials/panoceania/panoceania.md) | **15/20** | Elite MI, MSV2, Mimetism(-3), D-Charges, full HD. FTO status does **not** grant a vanilla Fireteam bonus; KHD31 and FO29 are separate. |
+| [Top 5 (#5) · A+](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | [Top 10 (#6)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Fireflies Hacking Device + D-Charges 24/0.5** · [roster](../../sectorials/panoceania/panoceania.md) | **15/20** | Veteran MI with NCO, Albedo, D-Charges and HD; both Apex and Value Top 10. No free sectorial Fireteam bonus in vanilla, and CoC/Engineer profiles are different. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned vanilla-pano roster](../../sectorials/panoceania/panoceania.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
