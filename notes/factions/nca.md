@@ -10,6 +10,15 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#8) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Swiss Guard Hidden HD + MULTI Rifle/X-Visor 56/0.5** · [N5.3 roster](../../sectorials/panoceania/neoterran-capitaline-army.md) | BS15, 2W ARM5, Hidden/Mimetism(-6), MULTI Rifle, Flammenspeer, Pulzar and HD scoring; the FD+10 47pt KHD is a different loadout. |
+| — | [Top 3 (#2) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Blocker Specialist/Pitcher 15/0** · [N5.3 roster](../../sectorials/panoceania/neoterran-capitaline-army.md) | BS12 + BS Attack(+1B), X-Visor Pitcher, Sensor, Adhesive Launcher Rifle, Pulzar and Specialist Operative; **19/0.5 Firewall Hacker has no Pitcher**. |
+
 
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/panoceania/neoterran-capitaline-army.md).
