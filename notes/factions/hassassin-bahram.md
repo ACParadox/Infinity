@@ -11,6 +11,14 @@
 **Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/haqqislam/hassassin-bahram.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 10 (#9) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 10 (#7) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Leila Sharif KHD + Carbonite / Firewall(-3), 22/0** | WIP14, upgraded KHD/Carbonite, defensive Firewall(-3) and Combat Instinct. Zero-SWC linked specialist where legal; no default HD Oblivion/Spotlight. [Pinned local roster](../../sectorials/haqqislam/hassassin-bahram.md). |
+| — | **[Top 3 (#2) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Hassassin Barid KHD + Trinity(-3)/Pitcher 14/0** | WIP14, upgraded Trinity(-3), Pitcher, zero SWC and low cost; its 12pt FO and 16pt standard HD are distinct purchases. [Pinned local roster](../../sectorials/haqqislam/hassassin-bahram.md). |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
