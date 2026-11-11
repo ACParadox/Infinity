@@ -16,6 +16,13 @@
 
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/panoceania/panoceania.md) are counted.
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 10 (#6) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Swiss Guard KHD + TinBot Firewall(-3), 47/0** | WIP13, Hidden Deployment, Mimetism(-6), ARM5/BTS6/2W, and intrinsic TinBot. Not the 56pt HMG/HD or 60pt Missile Launcher loadout. In Vanilla PanO it is a solo/independent unit, not linked. [Pinned local roster](../../sectorials/panoceania/panoceania.md). |
+
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** Source: [combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value). Rankings refer to the **exact non-Lieutenant profile** and legal faction.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; limitation |
