@@ -16,6 +16,12 @@ This is an army for **route creation → selective assassination or scoring → 
 
 #### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/jsa/oban.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 3 (#1) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Shikami Specialist Operative 42/0 (or MULTI Rifle SO 47/0)** · [local roster](../../sectorials/jsa/oban.md) | 2W, FD(+10), Eclipse, Mimetism(-6), Climbing Plus/Super-Jump; independent assault-to-button route. 42pt and 47pt loadouts are distinct. |
+
 The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-faction shortlists**, inferred from the repository's N5.3 [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective-holder](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [ARO](../list-building/aro-units-apex-and-value.md), and [cheap-trading](../list-building/warbands-and-cheap-trading-units-apex-value.md) comparisons. They are **not official placements, exhaustive statistical rankings, or win-rate data**; rank *within the named job*, never as overall best units in Infinity.
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
