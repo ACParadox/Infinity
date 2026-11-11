@@ -17,6 +17,11 @@
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
 
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD MULTI Rifle 58/0.5 (Vanilla Yu Jing; no printed Trinity upgrade)** · [N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
+| [Top 10 (#9) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Dàofěi AVA1 in vanilla roster; White Banner has 52/0.5 HD MULTI Rifle; local selectable loadout not expanded** · [N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md) | Vanilla Yu Jing confirms the **unit** but does not expand Dàofěi's weapon/price rows in its pinned source; do not silently copy White Banner's exact loadout. |
+
 
 **Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/yu-jing/vanilla-yu-jing.md) qualify. These are role-specific placements, not overall unit ranks. **Roster caveat:** Vanilla Yu Jing is marked `partial`; common exact profiles have been cross-checked with the current White Banner/Invincible Army references and must be revalidated if the vanilla profile snapshot changes.
 
@@ -26,11 +31,6 @@ These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades
 | — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
 | — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo and Heavy Flamethrower/Panzerfaust; mine is carried, not preplaced, and the 9pt FTO is DZ-only. |
 | — | **[Top 10 (#10) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Yáofáng Lóng Yá SMG/Panzerfaust/Flammenspeer/AP Mine, 16/0** | FD(+10), Camo, Regular REM and disposable long threats; mine is carried (17/0.5 Minelayer is distinct); +1B does not raise normal ARO Burst. |
-
-| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
-|---|---|---|---|
-| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD MULTI Rifle 58/0.5 (Vanilla Yu Jing; no printed Trinity upgrade)** · [N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
-| [Top 10 (#9) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Dàofěi AVA1 in vanilla roster; White Banner has 52/0.5 HD MULTI Rifle; local selectable loadout not expanded** · [N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md) | Vanilla Yu Jing confirms the **unit** but does not expand Dàofěi's weapon/price rows in its pinned source; do not silently copy White Banner's exact loadout. |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md), with explicit caveats where its upgrade detail is abbreviated.
 
