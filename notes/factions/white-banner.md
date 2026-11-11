@@ -13,6 +13,15 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao HD with Trinity MULTI Rifle 58/1 (White Banner)** · [N5.3 roster](../../sectorials/yu-jing/white-banner.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
+| [Top 10 (#9) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Dàofěi Infiltrating HD MULTI Rifle 52/0.5 (White Banner)** · [N5.3 roster](../../sectorials/yu-jing/white-banner.md) | BS13, 2W ARM4, Camo/Infiltration/Mimetism(-3) and HD in an advanced fighting scorer; 52/1.5 AP Spitfire Specialist Operative is an alternative. |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/yu-jing/white-banner.md) controls profiles, SWC and Fireteam eligibility.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
