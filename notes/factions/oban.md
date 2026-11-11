@@ -21,6 +21,7 @@ This is an army for **route creation → selective assassination or scoring → 
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 3 (#2) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 3 (#1) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Karakuri FO HSG or E/Mitter 31/0** · [local roster](../../sectorials/jsa/oban.md) | STR3, Enhanced Immunity, Remote Presence, self-GizmoKit, Chain Rifle and Panzerfaust; **Ōban AVA3**, legal Ōban Fireteam under its required-source choice. Do not combine HSG with E/Mitter. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/jsa/oban.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
