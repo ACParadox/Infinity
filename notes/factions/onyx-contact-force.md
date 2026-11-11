@@ -27,6 +27,13 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Top 3 / Top 5 / Top 10** are **qualitative candidates for the specified cross-faction role**, not official global ranks or tournament win-rate data. Each rating applies to a real profile/package, not every profile on the chassis.
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/combined-army/onyx.md) are counted.
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 10 (#8) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Kerr-Nau KHD + White Noise, 30/0** | WIP14, KHD upgraded with White Noise, X-Visor Pitcher, NCO and Plasma Rifle. Onyx Wildcard only in a permitted Unidron context; 35/0 Nanoscreen is an alternative profile. [Pinned local roster](../../sectorials/combined-army/onyx.md). |
+
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
