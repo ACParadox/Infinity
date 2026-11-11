@@ -18,6 +18,10 @@
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
 
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 3 (#3) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0** · [N5.3 roster](../../sectorials/panoceania/svalarheima-s-winter-force.md) | FD+20, Mimetism(-6), Bangbomb and close fighting plus scoring or cyber work; the 22pt FO has Panzerfaust, the 25pt KHD has Combi/LSG. |
+
 
 **Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/panoceania/svalarheima-s-winter-force.md) qualify. These are role-specific placements, not overall unit ranks.
 
@@ -25,10 +29,6 @@ These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades
 |---|---|---|---|
 | **[Top 5 (#4) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Peacemaker Heavy Shotgun/Pulzar + Auxbot-3, 23/0** | FD(+20) native Repeater and included Heavy-Flamethrower Auxbot cover separate approach angles; 23pt BSG(+1B) no-Auxbot is not this package. |
 | — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo and Heavy Flamethrower/Panzerfaust; mine is carried, not preplaced, and the 9pt FTO is DZ-only. |
-
-| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
-|---|---|---|---|
-| — | [Top 3 (#3) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0** · [N5.3 roster](../../sectorials/panoceania/svalarheima-s-winter-force.md) | FD+20, Mimetism(-6), Bangbomb and close fighting plus scoring or cyber work; the 22pt FO has Panzerfaust, the 25pt KHD has Combi/LSG. |
 
 
 
