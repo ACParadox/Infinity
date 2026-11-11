@@ -6,6 +6,12 @@
 
 ### Whole-game standouts — apex and points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/usariadna.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 3 (#3) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Foxtrot Ranger FO 18/0** · [local roster](../../sectorials/ariadna/usariadna.md) | Regular Camouflage/Infiltration, Flash Pulse and Shock Mine: low-cost 0-SWC midfield objectives. |
+
 **Top 3 / Top 5 / Top 10** are qualitative, **role-specific shortlist candidates** inferred from the cross-faction tiers, not official global places.
 
 #### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
