@@ -9,6 +9,14 @@
 **Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official world rankings, observed pick rates or universal autopicks.** Apex measures ceiling at the named job; value compares points/SWC and real Order support. Grounded in cross-faction [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [ARO](../list-building/aro-units-apex-and-value.md) and [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/o-12/starmada.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 10 (#7) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Knight of Santiago **FTO** KHD + TinBot Firewall(-3), 31/0** | WIP13/ARM4/BTS3/2W, 360º and Firewall(-3) in a legal Fireteam. The 38pt Combat Jump KHD **cannot** claim FTO/TinBot team rights. The legal FTO joins the Bronzes family, not an arbitrary Fireteam. [Pinned local roster](../../sectorials/o-12/starmada.md). |
+| — | **[Top 10 (#6) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Cyberghost KHD + Pitcher 18/0** | WIP14/BTS6, KHD Trinity/Cybermask, Pitcher and zero SWC; the 21/0.5 HDplus/White Noise profile is a **separate** option. [Pinned local roster](../../sectorials/o-12/starmada.md). |
+
 | Whole-game shortlist (specific role) | Unit / profile | Why exceptional; limits |
 |---|---|---|
 | **Top 3 (#3) — TAG ranged apex (S)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L244) | **Zeta HRMC73/2** | **BS14 AP HRMC, ARM8/3STR, Climbing Plus**: high Burst, real armor conversion and repeated angle changes for less than premium 90+pt TAGs. **Limit:** Hackable, still costs 2SWC and strong E/M/hacker screening. The Starmada Zeta HRMC includes a Zetbot and NCO; use its own 73pt/2SWC profile. |
