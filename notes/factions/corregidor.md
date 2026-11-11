@@ -11,9 +11,16 @@
 ### Whole-game standouts — apex versus value
 
 
-**Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
+**Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-defenders-and-speed-bumps.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/corregidor.md) controls profiles, SWC and Fireteam eligibility.
+
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/nomads/corregidor.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 3 (#3) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | **[Top 3 (#3) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Moran BSG/Repeater + CrazyKoala Minelayer, 15/0.5** | Infiltrating Regular FO layers prepaid Koalas with a native Repeater; this exact Repeater profile has no one-use Camo. |
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
