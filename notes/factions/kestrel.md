@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches the [cross-faction Apex, dedicated Protheion Apex, and Value rankings](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against this [pinned N5.3 roster](../../sectorials/panoceania/kestrel-colonial-force.md). Ranks are **role-specific**, not universal unit ranks; only selected legal profiles, dependent bodies and their full points costs qualify.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | — | [Top 3 (#3) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Drummer FO + FO Drumbot-5 21/0** | Two synchronized Forward Observers, two legal attack origins, one shared Order and required Coherency; not the 47pt double-bot profile. |
+
+
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** Exact **Apex / Good Value** rankings from the [cross-faction Classified guide](../list-building/classified-objective-runners-apex-and-value.md), checked against this faction's [pinned roster](../../sectorials/panoceania/kestrel-colonial-force.md). These are role-specific eligibility shortlists, **not** overall unit rankings; only the legal *selected profile* earns the placement.

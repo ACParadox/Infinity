@@ -10,6 +10,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matched to the [general Apex, dedicated Protheion Apex and Value ranking tables](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) and the [pinned local N5.3 roster](../../sectorials/tohaa/tohaa.md). These are **role-specific cross-faction ranks**, not overall unit ratings; profile loadouts and roster restrictions remain separate.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | — | [Top 10 (#9) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Makaul HFT + Eclipse + Viral/DA CCW 14/0** | Regular, Triad-eligible Eclipse template/CC utility for 14pt; Viral and DA are separate profile variants. |
+
+
 **Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. These are role-specific placements, not overall army ratings; separate loadouts and Fireteam rights do not combine.
 
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
@@ -46,7 +53,7 @@
 | **Top 10 (#8) — Budget CC Value (value; ≤22 pts)** | **Makaul HFT/Eclipse/Viral 14/0** | CC23/MA2, Viral/DA, Eclipse, HFT, Triad; Approach plus melee support for a team; weaker contested CC dice than MA3/MA4. | [#8 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L184) |
 | **Top 10 (#7) — Frontline CC Combatants (apex)** | **Ioann Bann 32/0** | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. | [#7 F](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) |
 | **Top 3 (#2) — DZ Defenders & Trade Pieces (value, S+)** | **Kaauri Sentinel SMG/Nanopulser(+1B)/E/M Mine Minelayer 11/0** | **S+ global DZ value #2**: native Regular, Biometric Visor, MSV1, Sixth Sense and **predeployed E/M Mine** deter intruders; S1/STR1 and short-range guns remain vulnerabilities. The 14/.5 Mirrorball Kaauri is a distinct profile. | [#2 current DZ ranking](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-| **Top 3 — Rare Abilities & Unusual Combinations (value)** | **Makaul HFT + Eclipse 14/0** | **S+/S** rare-capability/vision value: Regular Triad member, HFT, Viral/DA CC and MSV-proof approach; still exposed at close range. | [S+ Makaul](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L120) |
+| **Top 3 — Rare Abilities & Unusual Combinations (value)** | **Makaul HFT + Eclipse 14/0** | **S+/S** rare-capability/vision value: Regular Triad member, HFT, Viral/DA CC and MSV-proof approach; still exposed at close range. | [S+ Makaul](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) |
 | **Top 5 — Vision Control (apex+value)** | **Kriigel Mirrorball + Eraser 21/0.5** | **S** vision-control/toolbox value, repeated ZoC denial; must survive and have a partner to exploit it. | [S Kriigel](../list-building/vision-control-units-apex-and-value.md#L131) |
 | **Top 5 — Command Units (value)** | **Kaeltar CoC + SymbioMate 21/0.5** | **S CoC value**; successor insurance while protecting a combat body. The 28/.5 profile gets two limited-use Mates. | [S CoC](../list-building/command-units-apex-and-value.md#L151) |
 | **A+ — Active-Turn Gunfighters (long-range value, #22); separate FO mission role** | **Sukeul HMG 33/1.5; K1 FO 29/0** | **A+** gunfighting and **A+** mission FO roles in separate profiles; Mimetism, Symbiont and Triad eligibility. | [A+ Sukeul HMG](../list-building/active-turn-gunfighters-apex-and-value.md#L120); [A+ Sukeul FO](../list-building/mission-specialists-and-button-pushers-apex-value.md#L81) |

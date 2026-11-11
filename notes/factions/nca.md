@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches the [cross-faction Apex, dedicated Protheion Apex, and Value rankings](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against this [pinned N5.3 roster](../../sectorials/panoceania/neoterran-capitaline-army.md). Ranks are **role-specific**, not universal unit ranks; only selected legal profiles, dependent bodies and their full points costs qualify.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| [Top 10 (#9) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Aquila Guard MSV3 — HMG 52/1.5 or Specialist MULTI MMR 49/0** | BS15 anti-Camo gunfighter; the specialist MMR and HMG are separate selections. |
+
+
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned nca roster](../../sectorials/panoceania/neoterran-capitaline-army.md).

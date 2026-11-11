@@ -10,6 +10,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matched to the [general Apex, dedicated Protheion Apex and Value ranking tables](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) and the [pinned local N5.3 roster](../../sectorials/yu-jing/imperial-service.md). These are **role-specific cross-faction ranks**, not overall unit ratings; profile loadouts and roster restrictions remain separate.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | — | [Top 5 (#4) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Bào Riotstopper 16/0 — MSV2 + Albedo(-3)** | MSV2, Albedo(-3), Biometric Visor and Discover(+3) at a small cost; Riotstopper is the 16pt selection, not the unrelated sniper loadout. |
+
+
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official rankings, measured win rates, or claims that a troop is top-ten *overall*. **Apex** measures peak impact in the named job; **value** accounts for points, SWC and Order cost. Cross-faction comparisons: [command](../list-building/command-units-apex-and-value.md), [Order generation](../list-building/cheerleaders-and-order-generators.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [active guns](../list-building/active-turn-gunfighters-apex-and-value.md).
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned imperial-service roster](../../sectorials/yu-jing/imperial-service.md).

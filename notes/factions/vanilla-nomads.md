@@ -10,6 +10,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matched to the [general Apex, dedicated Protheion Apex and Value ranking tables](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) and the [pinned local N5.3 roster](../../sectorials/nomads/nomads.md). These are **role-specific cross-faction ranks**, not overall unit ratings; profile loadouts and roster restrictions remain separate.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | — | [Top 5 (#5) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Chimera + three Synchronized Pupniks 19/0** | Eclipse + Viral CC with three DA-CCW Pupniks using synchronized activations. Impetuous/Irregular and fragile: four bodies do not generate four Orders. |
+
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |

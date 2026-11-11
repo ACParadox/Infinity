@@ -6,6 +6,13 @@
 
 ### Whole-game standouts — apex and points value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches [cross-faction general Apex, separate Protheion Apex, and Value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against the [pinned N5.3 faction roster](../../sectorials/ariadna/vanilla-ariadna.md). These are **role-specific ranks**, not overall unit ratings; profile options, Fireteam privileges, and dependent-body purchases cannot be combined.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | — | [Top 10 (#6) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Antipode Assault Pack 26/0 — Handler + three Control Antipodes** | Smoke-GL/Tactical-Awareness Handler plus three Camouflaged Sensor/AP-CC Spearheads. Only one Spearhead carries out targeted Skills. |
+
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/vanilla-ariadna.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |

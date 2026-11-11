@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches the [cross-faction Apex, dedicated Protheion Apex, and Value rankings](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against this [pinned N5.3 roster](../../sectorials/aleph/steel-phalanx.md). Ranks are **role-specific**, not universal unit ranks; only selected legal profiles, dependent bodies and their full points costs qualify.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| [Top 5 (#5) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Atalanta MSV2 + Marksmanship — MULTI Sniper 38/1.5 or 41/1.5** | BS15 and Marksmanship; 38pt Hidden Deployment and 41pt Total Reaction options cannot be combined. |
+
+
 **Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. Positions refer to this particular role, not an overall army tier; alternative loadouts and Fireteam access are never pooled.
 
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |

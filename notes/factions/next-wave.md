@@ -20,6 +20,14 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 ### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches [cross-faction general Apex, separate Protheion Apex, and Value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against the [pinned N5.3 faction roster](../../sectorials/combined-army/next-wave.md). These are **role-specific ranks**, not overall unit ratings; profile options, Fireteam privileges, and dependent-body purchases cannot be combined.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| [Top 10 (#8) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Achilles Nanoscreen + Mimetism(-3) — AP Spitfire 62/1.5 or Plasma Rifle 63/0 (Next Wave costs)** | BS15, 3W, rapid movement and MA4 under Nanoscreen; two different weapon profiles, not a combined loadout. |
+| — | [Top 3 (#2) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Ko Dali FD(+20) 34/0 or Combat Jump 37/0** | MSV2 + Protheion + Specialist: either a forward deployed or airborne attack route, not both on one profile. |
+
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
@@ -95,8 +103,8 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 - **High-upside but not universal Top-5 gun: Skyhound AP/Plasma Thunderbolt 33/0.** ([cross-faction A long-range points value (geometry)](../list-building/active-turn-gunfighters-apex-and-value.md#L131)) **A for long-lane geometry/value** and [**A+ medium-range value (#7)**](../list-building/active-turn-gunfighters-apex-and-value.md#L150) in favorable 8–24in angles, rather than an elite head-on long-range apex, in the [revised gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md). The aerial 0-SWC angle and Mimetism(-6) are excellent, but a large **VH without Cover** remains Hackable and vulnerable to E/M.
 
 - **Top 3 — Vehicles (VH / Aerial) (value): Skyhound AP/Plasma Thunderbolt + Mine Dispenser 33/0.** ([cross-faction S apex / S value](../list-building/vehicles-vh.md#L48)) **S apex / S value within the [Vehicle guide](../list-building/vehicles-vh.md)** for BS14, Mimetism(-6), unusual vertical approaches and 0-SWC dual-role fire. The more specific [ranged gun guide](../list-building/active-turn-gunfighters-apex-and-value.md) grades it **A for geometry**, not S for sustained long-lane fighting: S7 **No Cover**, Hackable and an easy E/M target remain severe weaknesses.
-- **Top 5 — Rare Abilities & Unusual Combinations (apex): Ko Dali.** ([cross-faction S rare capability](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L88))
-  - **FD(+20) 34/0** ([cross-faction S Ko Dali profiles](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L88)) and **Combat Jump 37/0** are alternative stand-alone profiles.
+- **Top 3 (#2) — Protheion Apex: Ko Dali.** ([cross-faction S rare capability](../list-building/rare-capabilities-and-unique-combinations-apex-value.md))
+  - **FD(+20) 34/0** ([cross-faction S Ko Dali profiles](../list-building/rare-capabilities-and-unique-combinations-apex-value.md)) and **Combat Jump 37/0** are alternative stand-alone profiles.
   - **FTO / FTO-2:** separately priced **Fireteam-specific profiles** with distinct eligibility, not the same model automatically gaining airborne deployment.
   - The [rare-capability rankings](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) grade the 34/37pt mission/assault versions **S** for role compression, but screening and inability to feed Protheion from STR targets constrain payoff.
 - **Top 10 — Doctors, Engineers & Recovery Support (value): Med-Tech Obsidon 21/0.** ([cross-faction A+ apex / S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L81)) **S value** in [recovery tiers](../list-building/doctors-engineers-and-recovery-apex-value.md), particularly when repairing REM/VH/TAG targets and covering medical objectives with optional Slave Drones. Its own one-Wound body is not a frontline defender.

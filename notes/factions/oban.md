@@ -16,6 +16,13 @@ This is an army for **route creation → selective assassination or scoring → 
 
 #### Whole-game standouts — apex versus value
 
+**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matched to the [general Apex, dedicated Protheion Apex and Value ranking tables](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) and the [pinned local N5.3 roster](../../sectorials/jsa/oban.md). These are **role-specific cross-faction ranks**, not overall unit ratings; profile loadouts and roster restrictions remain separate.
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| [Top 3 (#3) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Shikami Eclipse/Mimetism(-6) Specialist — Contender 42/0 or MULTI Rifle 47/0** | Climbing Plus, Super-Jump, Forward Deployment(+10), Eclipse and two Wounds; the two selected loadouts differ in weapons. |
+
+
 **Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. These are role-specific placements, not overall army ratings; separate loadouts and Fireteam rights do not combine.
 
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
