@@ -10,13 +10,14 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/bakunin.md) controls profiles, SWC and Fireteam eligibility.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | — | **[Top 10 (#8) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rounder HD + Trinity — 21/0.5** | Standard HD and Trinity, MSV1 and Marksmanship; no native HDplus White Noise. Can enter an eligible Moderator Fireteam (max one Rounder, counting as Moderator); it is not an HDplus. [Pinned roster](../../sectorials/nomads/bakunin.md). |
-
-**Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
