@@ -28,7 +28,7 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 
 ## 1. Best Pitchers
 
-**Apex measures the quality of the throw, not the strength of the Hacker using the node.** First consider **BS Attack (+1SD)**, **Pitcher Burst**, **X-Visor**, **BS**, and **actual legal Fireteam bonuses**; then safe firing angles from Forward Deployment, Hidden Deployment, mobility and survivability. A regular BS10–11 Pitcher is not Apex merely because its Hacker has excellent programs. An X-Visor removes the relevant range penalties but does not add a die; +1B gives another die but can consume both Disposable (2) charges in one attack. Fireteam bonuses apply only when the chosen profile is in an eligible, properly composed team.
+**Apex measures the quality of the throw, not the strength of the Hacker using the node.** First consider **BS Attack (+1SD)**, **Pitcher Burst**, **X-Visor**, **BS**, and **actual legal Fireteam bonuses**; then safe firing angles from Forward Deployment, Hidden Deployment, mobility and survivability. A regular BS10–11 Pitcher is not Apex merely because its Hacker has excellent programs. An X-Visor mitigates negative range MODs but does not add a die; +1B gives another die but can consume both Disposable (2) charges in one attack. Fireteam bonuses apply only when the chosen profile is in an eligible, properly composed team.
 
 ### Pitchers — Apex
 
