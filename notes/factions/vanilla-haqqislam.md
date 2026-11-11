@@ -13,6 +13,7 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | — | [Top 10 (#10) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Asawira Doctor BSG 35/0** · [local roster](../../sectorials/haqqislam/haqqislam.md) | W2/ARM4/BTS9, Regeneration, shotgun/CC and Doctor(+1) on Vanilla roster; **AVA1**, no Hassassin Wildcard privileges. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
