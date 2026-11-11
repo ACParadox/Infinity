@@ -13,6 +13,13 @@
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/na2/dahshat-company.md) controls profiles, SWC and Fireteam eligibility.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/na2/dahshat-company.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; strong 8pt trade but Irregular and costs 1 SWC. |
+
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | **[Top 10 (#9) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Zhēnchá HD + Trinity — 34/0.5** | WIP13, ARM3/BTS6, NWI, Infiltration, Camouflage and Trinity; a concealed midfield controller, not a high-WIP duelist. Only AVA1 locally; the separate FO and Minelayer alternatives do not carry this HD+Trinity package. [Pinned roster](../../sectorials/na2/dahshat-company.md). |
