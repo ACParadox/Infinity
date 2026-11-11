@@ -22,6 +22,14 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#10) · S-](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | [Top 10 (#8) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Ko Dali FD+20 34/0 or Combat Jump 37/0 (**33pt FTO / 30pt FTO-2 are distinct**)** · [N5.3 roster](../../sectorials/combined-army/next-wave.md) | BS14/MSV2, MULTI Rifle, Specialist Operative, MA3/Protheion and either Mimetism(-3) forward deployment or airborne entry; delivery options are exclusive. |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/next-wave.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
