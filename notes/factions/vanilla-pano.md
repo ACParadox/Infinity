@@ -14,6 +14,18 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each retained entry uses the narrowest applicable band and displays its numbered source position. These are editorial orderings, not measured win rates or universal overall-unit ranks; profiles below #10 appear separately.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#8) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Swiss Guard Hidden HD + MULTI Rifle/X-Visor 56/0.5** · [N5.3 roster](../../sectorials/panoceania/panoceania.md) | BS15, 2W ARM5, Hidden/Mimetism(-6), MULTI Rifle, Flammenspeer, Pulzar and HD scoring; the FD+10 47pt KHD is a different loadout. |
+| — | [Top 3 (#1) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Fennec FO/Sensor/Disco 13/0 (Vanilla: no standard Fireteams)** · [N5.3 roster](../../sectorials/panoceania/panoceania.md) | Regular WIP12 Forward Observer with Sensor and deployable Eclipse vision control for 13 points; body is not an elite gunfighter. |
+| — | [Top 3 (#2) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Blocker Specialist/Pitcher 15/0** · [N5.3 roster](../../sectorials/panoceania/panoceania.md) | BS12 + BS Attack(+1B), X-Visor Pitcher, Sensor, Adhesive Launcher Rifle, Pulzar and Specialist Operative; **19/0.5 Firewall Hacker has no Pitcher**. |
+| — | [Top 3 (#3) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0** · [N5.3 roster](../../sectorials/panoceania/panoceania.md) | FD+20, Mimetism(-6), Bangbomb and close fighting plus scoring or cyber work; the 22pt FO has Panzerfaust, the 25pt KHD has Combi/LSG. |
+| — | [Top 5 (#4) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Drummer FO + Drumbot-5 FO 21/0** · [N5.3 roster](../../sectorials/panoceania/panoceania.md) | BS13 Marksman Rifle controller and **synchronized second Forward Observer** (HFT/Flash Pulse, 360°/Mimetism), widening attack and scoring origins; **not two Regular Orders**. |
+
 
 
 
