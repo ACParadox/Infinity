@@ -13,6 +13,14 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD with Trinity / MULTI Rifle 58/0.5** · [N5.3 roster](../../sectorials/yu-jing/invincible-army.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/yu-jing/invincible-army.md) controls profiles, SWC and Fireteam eligibility.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
