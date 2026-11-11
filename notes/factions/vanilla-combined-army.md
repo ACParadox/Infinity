@@ -36,6 +36,7 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 ### Whole-game standouts — apex versus value
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/vanilla-combined-army.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
@@ -46,15 +47,11 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 | — | **[Top 5 (#5) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rodok HD + Trinity — 24/0** | 0-SWC standard HD with Trinity on ARM3/BTS6, Mimetism(-3), Super-Jump and Fireteam eligibility where permitted. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
 | — | **[Top 10 (#7) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! KHD + Oblivion — 22/0.5** | KHD Trinity/Cybermask plus separately printed Oblivion and Pitcher/KISS network. No automatic Carbonite, Spotlight or entire HD suite. **Local cost:** 22/0.5 with standard KISS!; the 24/0.5 Onyx alternative is a different parent option. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
 
-
-
-
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
 |---|---|---|---|
 | **Top 10 (#6) — Force multipliers** | **Mentor20/0, non-Lieutenant** | **A / S-** | Counterintelligence on a Camo/Mimetism(-3)/Decoy carrier with a Vulkan Shotgun; the Vanilla Combined Army roster includes the 20/0 non-Lieutenant profile. |
-
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
@@ -111,7 +108,6 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 |---|---|---|
 | **Top 3 (#1 apex / #3 value) — Airborne/DZ attackers** | **Speculo Killer BSG 26/1** | S apex / S+ value: IMP-1, Smoke and Monofilament force costly screens, but 1 SWC and W1 keep outcomes variable; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L115) / [Value ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L154) |
 | **Top 3 (#3 apex / #2 value) — Airborne/DZ attackers** | **Rasyat BSG 25/0 (Spitfire 34/1.5 apex alternative)** | S apex / S+ value: Parachutist(DZ) + Eclipse for reliable legal enemy-DZ edge entry; still has to survive edge AROs; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L117) / [Value ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L153) |
-
 
 - **Top 5 — TAGs (apex): Avatar 122/3.** ([cross-faction S apex / B value](../list-building/tags.md#L107)) **S apex but only B value** in the [TAG guide](../list-building/tags.md). BS15, Mimetism(-6), ARM9/BTS9, Mnemonica, Strategos L2 and Sepsitor create a near-solo threat. Opponents may attack its scarce cheap Orders and specialists instead of fighting it.
 - **Top 5 — TAGs (value): Overdron HRMC 62/1.5.** ([cross-faction A apex / S value](../list-building/tags.md#L109)) **S value** in the [TAG rankings](../list-building/tags.md), combining AP HRMC, Albedo, Tactical Awareness and recoverability. **HRL 51/1.5** and **Plasma Sniper 59/1.5** are distinct, situational profiles.
