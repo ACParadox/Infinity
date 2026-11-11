@@ -10,6 +10,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 10 (#8) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Dàofěi HD 52/0.5 or AP Spitfire SO 52/1.5** · [pinned local roster](../../sectorials/yu-jing/vanilla-yu-jing.md) | Camouflage/Infiltration and 2W ARM4 let a forward HI fight to a console; **Hacker and AP Spitfire SO are separate profiles**. |
+
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-defenders-and-speed-bumps.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
 
