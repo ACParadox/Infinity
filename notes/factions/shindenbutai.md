@@ -20,6 +20,12 @@ The standout independent modules are:
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/jsa/shindenbutai.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 10 (#9) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Teishin Guntai FO 19/0 or KHD 21/0** · [local roster](../../sectorials/jsa/shindenbutai.md) | Regular Combat Jump/Parachutist, Super-Jump and D-Charges for a low-cost remote objective; FO/KHD are different profiles. |
+
 The **Top 3 / Top 5 / Top 10** tags are **qualitative, role-specific cross-faction shortlist *candidates***, **not** official ranks, tournament win-rate statistics, or a claim that a unit is among the ten best units *overall*. The job and price bracket matter: *best support Hacker*, *best fighting Lieutenant*, and *best cheap trade* are different rankings. These assessments are anchored to the repository's [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [vision control](../list-building/vision-control-units-apex-and-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) comparisons. **Apex** means maximum impact in the right matchup; **value** means capability relative to points/SWC and Orders.
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/jsa/shindenbutai.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
