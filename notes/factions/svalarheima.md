@@ -14,6 +14,14 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Entries below #10 are retained outside the standout table.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 3 (#3) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0** · [N5.3 roster](../../sectorials/panoceania/svalarheima-s-winter-force.md) | FD+20, Mimetism(-6), Bangbomb and close fighting plus scoring or cyber work; the 22pt FO has Panzerfaust, the 25pt KHD has Combi/LSG. |
+
 
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
