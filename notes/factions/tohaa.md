@@ -10,6 +10,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 10 (#6) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Draal SO 32/0 Dazer or SO 33/0 Viral Mine** · [local roster](../../sectorials/tohaa/tohaa.md) | FD(+20), Mimetism(-6) and active two-Wound Symbiont; Dazer/Mine are **alternative** profiles. |
+
 **Top 3/5/10** are qualitative shortlist *candidates within stated roles*, never an overall unit ranking or win-rate statistic. **Apex** means peak role impact; **value** weighs cost and Orders. See [cheap units](../list-building/best-cheap-units.md), [DZ defence](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking), [vision control](../list-building/vision-control-units-apex-and-value.md), [CoC](../list-building/command-units-apex-and-value.md) and [scoring](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
 
 
