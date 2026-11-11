@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/aleph/operations-subsection.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 3 (#2) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Dasyu FO 29/0, KHD 31/0 or HD 33/0.5** · [local roster](../../sectorials/aleph/operations-subsection.md) | Hidden Deployment, Infiltration and Mimetism(-6) support late scoring. FO, KHD and HD are **mutually exclusive**; FO alone carries the Deployable Repeater. |
+| [Top 5 (#5) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Andromeda SO 30/0 (SMG/Zapper, PH15 Infiltration)** · [local roster](../../sectorials/aleph/operations-subsection.md) | Forward Specialist with NWI, Guard/MA3 and D-Charges; 33pt BSG option is distinct. |
+
 **Top 3 / Top 5 / Top 10 mean editorial candidates *for the named role*, not official overall rankings or measured tournament results.** **Apex** means maximum effect in the right matchup; **value** includes entire package cost, SWC and real Order economy. The [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [VH](../list-building/vehicles-vh.md), [hackers](../list-building/hackers-and-killer-hackers.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) guides supply the cross-faction comparisons.
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** Exact **Apex / Good Value** rankings from the [cross-faction Classified guide](../list-building/classified-objective-runners-apex-and-value.md), checked against this faction's [pinned roster](../../sectorials/aleph/operations-subsection.md). These are role-specific eligibility shortlists, **not** overall unit rankings; only the legal *selected profile* earns the placement.
