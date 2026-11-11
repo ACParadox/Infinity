@@ -13,6 +13,13 @@
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/yu-jing/white-banner.md) are counted.
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| — | **[Top 10 (#9) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Dokkaebi Cyberteam KHD + Spotlight/Pitcher/Cybermine 22/0** | WIP13/BTS6, Remote Presence/NWI, Pitcher and unusual KHD Spotlight for 0 SWC. The 28/0.5 Mk12 + Deployable Repeater is a **different** loadout. [Pinned local roster](../../sectorials/yu-jing/white-banner.md). |
+
 | Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
 |---|---|---|---|
 | **Top 10 (#7) — DZ Defenders & Trade Pieces (value, S+)** | **Gūdǎn FTO LSG/Heavy Flamethrower 11/0 (SMG/Zapper alternative)** | **S+ global DZ value**: native Regular and Warhorse with a ready Heavy Flamethrower corner template; the 11pt Zapper is an alternative, **not both weapons together**. White Banner permits eligible FTOs in Zhanshi teams; the 12–13pt FD/Camo Shock Mine versions are separate midfield troops. | [#7 current DZ ranking](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
