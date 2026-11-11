@@ -6,6 +6,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 10 (#9) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Nightshade KHD 34/0** · [local roster](../../sectorials/o-12/torchlight-brigade.md) | Hidden Deployment, FD(+20), Mimetism(-6) and Super-Jump; non-KHD 31pt loadout is not the ranked Hacker profile. |
+
 **Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned torchlight-brigade roster](../../sectorials/o-12/torchlight-brigade.md).
