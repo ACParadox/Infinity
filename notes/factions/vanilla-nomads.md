@@ -10,6 +10,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 3 (#1) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Moran FO 15–18/0.5 (Repeater BSG15 or one-use Camo BSG16)** · [pinned local roster](../../sectorials/nomads/nomads.md) | Native FO, regular Infiltration and CrazyKoalas give extraordinary cost-to-midfield control. Repeater and 1-use Camo belong to **different profiles**. |
+| — | [Top 5 (#4) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Zero FO 20/0 or KHD 22/0** · [pinned local roster](../../sectorials/nomads/nomads.md) | Regular Camo/Infiltration with Shock Mine and a low-cost scoring route; FO20 and KHD22 are **alternative** roles. |
+
 
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-defenders-and-speed-bumps.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
