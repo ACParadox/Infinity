@@ -1,296 +1,84 @@
-# TAGs — N5.3 cross-faction tier list and field guide
+# TAGs — N5.3 Best overall (Apex + Value)
 
-**Vanilla O-12 TAG counterpoint — [Robert Shepherd's faction focus (33–38m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1980s), reviewed 26 Oct 2026:**
+**Updated:** 11 Nov 2026. **Format:** one cross-faction, ordinal **Best** ranking rather than separate Apex and points-value lists. All 38 TAG entries from the previous guide are retained. This is an **editorial ranking for a typical 300-point N5.3 game**, not a statistical win-rate table or an official Corvus Belli tier list.
 
-- A **Gamma HMG Lt50/1.5 + Ment CoC14** offers BS14/high Burst, Warhorse, prone deployment and competent Heavy Pistol close defense without spending **Zeta Lt70/2** points.
-- The **Zeta** remains an excellent TAG *ceiling* with AP HRMC, ARM8, **Climbing Plus** and its ZetBot Specialist, but this source argues its **20pt extra cost is worth it mainly on favorable vertical terrain/hard-armor matchups or when ZetBot mission access matters**.
-- With a Ment already present, he favors **Lt70 over NCO73**.
+**Ranking method:** weigh (1) peak shooting / delivery / threat suppression, (2) points and SWC efficiency and the list remaining after purchase, (3) mobility, durability, recovery and anti-hacking exposure, (4) extra Orders / command impact, and (5) mission relevance and required support. **Best is not an arithmetic average of the old Apex and Value ranks.** A spectacular 100+pt TAG can still rank highly, but a 55–75pt TAG that does nearly as much while preserving specialists, a second gun and an Engineer may rank above it. Rankings are **across the whole game**: a faction can have a much different local best choice.
 
-He **would not personally select a Wrecker in Vanilla** compared with the available Gamma/utility mix, **contrary to earlier cross-TAG value analyses and some Torchlight builds**. This is an explicit source disagreement, not a downgrade of verified profiles or a universal 'never take'.
+**Tiers:** **S** = exceptional overall build-around across many tables; **A** = excellent, with meaningful matchup or list constraints; **B** = good but more specialized / less efficient; **C** = hard to prioritize over accessible alternatives. Ordinal gaps inside a tier are small.
 
-**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+**Price note:** sample points / SWC are from the previous main-branch N5.3 profile review (23 Oct 2026), not a claim that all sectorials share a loadout. “Profile-dependent” means no verified sample price is supplied; do not infer a price. Always check the current army profile and Fireteam chart before buying into a build.
 
-**TAGs as quadrant-VP mass versus actual Supply Box specialists:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) contrasts high-cost TAG concentration with lower-cost quadrant swings:
+## Best — cross-faction TAG ranking
 
-- **Apex concentration:**
-  - **Avatar**
-  - **Sphinx**
-  - **Cutter**
-- **More affordable quadrant swings:**
-  - **Gecko 49/0**
-  - **Xeodron 49/.5**
-  - **Squalos 55/1**
-  - **Gorgos 63/1.5**
-
-A normal TAG is not a Specialist just because it is tough; check mission-specific Baggage bonuses.
-
-**Scope:** all currently rostered Tactical Armored Gear in the repository's main-branch N5.3 references; evaluated for a typical 300-point game, not a promise that the same TAG is best for every mission. **Checked:** 2026-10-23. **Authority:** `sectorials/<faction>/<army>.md` for current profile, price, availability and Fireteam access; `notes/factions/` for existing tactical reviews. The April 2025 podcast tier list is **older commentary**, not authority on October 2026 profiles.
-
-**Repair investment for 50–122pt TAGs:** [Doctor/Engineer/Servant recovery apex and value](doctors-engineers-and-recovery-apex-value.md) compares WIP success, Remote Presence rerolls and Order-to-contact cost rather than treating an Engineer as free insurance.
-
-**How to counter TAGs without hacking:** [2026 N5.3 anti-TAG/HI apex/value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) compares cheap 5–20pt E/M/K1/disposable weapons, active B4 AP and Monofilament with real reset/Engineer recovery, not only TAG-vs-TAG gunfights.
-
-## Executive answer
-
-- **Most oppressive ceiling ("apex"):**
-  - **Avatar** — extraordinary gun/command package
-  - **Marut** — extraordinary gun/command package
-  - **Cutter** — marker-state investment protection
-  - **Zeta** — HRMC and Climbing Plus
-  - **Sphinx** — marker-state investment protection
-
-  These are **not automatically the best buys**.
-- **Best value for points in many lists:**
-  - **Tikbalang**
-  - **Squalos Mk-II**
-  - **Agamemnon**
-  - **Overdron**
-  - **Lizard**
-  - **Zeta**
-  - **Stigmata**
-  - **Wrecker**
-  - **Xeodron**
-
-  Their price and extra Orders/roles can preserve a functioning army around them. The best choice depends on access, profile and matchup.
-- **Exceptional specialist answers**:
-  - **Uhlan** for Camouflage + punishing long-range Feuerbach or forward assault
-  - **Jotum** against conventional small-arms-heavy opponents
-  - **Caskuda** for Combat Jump disruption
-  - **Maghariba** for multiple weapons and S8 dominance
-  - **Gorgos** for Tohaa's fast multi-wound pressure
-  - **Longwang** for nonlethal control.
-- **Do not confuse maximum lethality with win rate.** A cheaper TAG plus a Hacker/KHD, Engineer, actual specialist, and secondary attacker often wins more scenarios than one unsupported superstar. The choice is not just "TAG A versus TAG B"; it is **TAG A + the rest of the list** versus **TAG B + the rest**.
-
-## How the tiers are defined
-
-**Apex = absolute combat and game-plan ceiling** if supported and piloted well (gunfight quality, board reach, asymmetric delivery, survivability, command impact); points are a *secondary* consideration. **Value = expected useful contribution per point and opportunity cost** in an ordinary scenario list (including TacAware/NCO/LT economy, profile SWC, support requirements and failure state). These are **editorial tiers**, not official game ratings.
-
-- **S:** can change how the opponent is allowed to play / unusually efficient for cost.
-- **A:** consistently excellent; a credible list foundation.
-- **B:** good, but mission/faction/competition determines whether to field it.
-- **C:** specialized, expensive for its output, or crowded out by superior choices.
-- **D:** hard to justify competitively unless exploiting a specific setup or preference.
-
-**Pricing:** points below are from specific current `sectorials/` files and represent **notable profiles**, not a claim that every faction has each option. A few uncommon profiles are left unpriced rather than guessing. TAG profiles can vary by sectorial (including NCO/LT, weapons and permitted Fireteams). Validate the chosen Army/Fireteam in its faction reference.
-
-## TAG tier distribution overview (grouped, not ordinal)
-
-| Tier | Apex / peak impact | Value / points efficiency |
-|---|---|---|
-| **S** | **Avatar, Marut, Cutter, Zeta, Sphinx** | **Tikbalang, Squalos Mk-II, Agamemnon, Overdron, Lizard, Zeta, Wrecker, Xeodron** |
-| **A** | **Agamemnon, Uhlan, Jotum, Tikbalang, Seraph, Szalamandra, Gator, Raicho, Juggernaut, Maghariba, Blue Wolf, Caskuda, Lizard, Squalos Mk-II, Overdron** | **Uhlan, Stigmata, Gator, Szalamandra, Caskuda, Maghariba, Seraph, Gorgos, Raicho, Gecko, Shakush, Chernobog, Blue Wolf** |
-| **B** | **Maximus, Dragões, Stigmata, Wrecker, Gūijiă, O-Yoroi, Longwang, Gorgos, Chernobog, Bultrak, Mechazoid, Shakush, Gecko, Iguana** | **Marut, Cutter, Avatar, Jotum, Juggernaut, O-Yoroi, Gūijiă, Bultrak, Longwang, Mechazoid, Triphammer, Scarface & Cordelia, Dragões** |
-| **C** | **Xeodron, Triphammer, Scarface & Cordelia, Anaconda** | **Sphinx, Maximus, Iguana, Anaconda** |
-| **D** | **—** | **—** |
-
-**Reading this correctly:** Sphinx at apex S / value C is *deliberate*: terrifying when hidden and uncontested, but 93 points and a Spitfire lacking AP is demanding. Wrecker at apex B / value S is the reverse: not a universal duel winner, but a low-cost template/HRL threat that leaves abundant support points. The overview groups TAGs by broad tier; see the **ordinal TAG lists below** for individual positions. Within-tier differences remain close and mission-dependent. **A TAG absent from your sectorial is not a list-building option**, however high its tier.
-
-## Individual TAG recommendations: when each is best
-
-### PanOceania
-
-| # | TAG; sample current cost | Apex / value | Best circumstances — why | Main argument against |
+| # | Tier | TAG (main army / context) | Representative pts / SWC | Why it ranks here; principal limitation |
 |---|---|---|---|---|
-| 1 | **Cutter** 95–97 / 2–2.5 SWC | **S / B** | Open avenues to a decisive MULTI HMG attack but dangerous enemy AROs: Camouflage, Hidden Deployment and Mimetism (-6) preserve the huge investment and enable a reserve/late reveal. | No TacAware; ~third of the army; bad discovery/attack or hacking game can leave few alternative guns. **Podcast split:** low-S apex versus merely high-A due to opportunity cost. |
-| 2 | **Tikbalang** 69; **LT +1 Order** 73 / 1.5 | **A / S** | Mobile sustained attacks and vertical tables: BS15, Mimetism (-3), Climbing Plus, HFT and Shock Mine cover both attack and self-defence. Kestrel LT supplies Regular + TacAware + two *personal* LT Orders when solo. | Normal HMG can struggle into very high ARM; exposing the LT threatens command. In a Duo, LT Orders do **not** become two free Fireteam activations. **MO Montesa version** 68 / 1.5 has NCO and different loadout. |
-| 3 | **Squalos Mk-II** 55 MMR, 62 HMG+GL, 66 NCO MULTI HMG | **A / S** | Reliable cheap premium long gun (BS15, extra shooting die, S6, TacAware). Pick **NCO MULTI** for armor/AP and unused LT Order, **GL** for inaccessible targets, **MMR** for tight budgets/second TAG. | No Mimetism or Climbing Plus; exposed to hacking. **Disagreement:** Shepherd values GL alongside Strategos; others prefer NCO MULTI's direct lethality. |
-| 4 | **Clausewitz Uhlan** 70 Feuerbach, 80 Spitfire+AP HRL | **A / A** | **70** for camouflaged ranged fire-support/ARO with +1 Burst; **80** for forward attacks that need both Spitfire and AP HRL. Camo/Surprise protects initial approach. | The 80-point build buys a different mission, not a straight upgrade; no Fireteam right simply from another PanO TAG's eligibility. |
-| 5 | **Jotum** 82 / 1.5–2 | **A / B** | Opponents with few AP/E/M/anti-armor solutions; ARM10/BTS9, Remote Presence, MULTI HMG and HFT can dominate a lane once counters die. | Armor is bypassed or halved; high points for mostly straightforward shooting, and anti-TAG hacks still work. |
-| 6 | **Seraph** 72–74 / 1.5 | **A / A** | MO needs **NCO** and mobility/CC counterplay: Super-Jump, Pulzar, AP Spitfire+Auxbot or MULTI HMG, plus EXP CCW. Medium-range vertical approaches favor AP Spitfire. | Super-Jump route costs and MO's tighter cheap-Order base can make it an unsupported centerpiece. **Debate:** some prefer Tik's Mimetism/HMG efficiency; others Seraph's AP/NCO/multiple close tools. |
-| 7 | **Maximus TAG** 80–84 | **B / C** | Counterassault, aggressive CC and specific anti-armor damage: Immunity (ARM), 4 STR, AP shooting, E/M Carbine and strong close-combat rules are exceptional. | Expense/Order concentration and often inferior gun/range-to-cost compared with Tik/Squalos/Uhlan; an expensive CC counter may never be engaged. TAG versus Agent Maximus are different units. |
-| 8 | **Dragões** (Acontecimento only) | **B / B** | Want a dedicated ranged anchor with heavy firepower, using Acontecimento's own cover, Engineer and specialists to keep the gun relevant. | Less universally flexible than Tik's Climbing Plus/Mimetism/mine; use current Shock Army profile rather than old edition prices. |
+| 1 | **S** | **Zeta** — O-12 / Torchlight | 70 Lt, 73 NCO / 2 | Rare complete package: HRMC, Climbing Plus, ARM8, ECM: Guided (-8), strong long-lane reach and a useful ZetBot Specialist. Price is remarkably reasonable for this ceiling; must solve S7 staging, hacking and Lt/NCO-order structure. The 2025 LoL discussion and [2026 Zeta review](https://sambino123infinity.wordpress.com/2026/09/07/from-alpha-to-zeta/) strongly support a top placing, though Robert Shepherd disputes paying the upgrade over Gamma in vanilla O-12. |
+| 2 | **S** | **Tikbalang** — PanO / Kestrel / MO / Shock Army | 69; Kestrel Lt +1 Order 73 / 1.5 | BS15 HMG, Mimetism (-3), Climbing Plus, mine, HFT and very good cost efficiency; the Kestrel Lieutenant order package can be exceptional when legal. Normal HMG lacks AP and the MO NCO build is a *different* profile; Lt personal Orders do not freely activate a Duo. |
+| 3 | **S** | **Squalos Mk-II** — PanO | 55 MMR, 62 HMG+GL, 66 NCO MULTI HMG | BS15 affordable premium shooting, S6 footprint, TacAware and several useful profiles; NCO MULTI brings anti-armor while GL offers indirect pressure. Less tricky than the Tik/Cutter: no Mimetism / Climbing Plus and exposed to counter-hacking. LoL discussed high-A and potential S-level utility rather than one unanimous grade. |
+| 4 | **S** | **Lizard** — Nomads / Bakunin | 60–65 | Cheap ARM8 TAC-aware TAG with strong anti-armor configurations, a Repeater and close defence; particularly coherent with Nomad hacking and repair support. The **Jan 2026 d6min podcast names it as a top practical TAG**. S7/BS14 and the risk of bringing a Repeater into enemy hacking range keep it below the first three. |
+| 5 | **S** | **Marut** — ALEPH | 86; Strategos Lt 90 | One of the game's clearest high-ceiling weapons: BS15, MSV2, MULTI HMG and optional Strategos command value. Smoke/Mimetism matchups can justify its premium. High cost and Lieutenant-loss risk make it a less flexible default than cheaper top-ranked TAGs. |
+| 6 | **S** | **Agamemnon** — Steel Phalanx | 63–65 | Exceptionally efficient AP-HMG heavyweight, TacAware and meaningful close defence; often leaves room for a second Steel Phalanx threat and mission specialists. The 2025 LoL tier debate rates its firepower/cost especially highly. ARM6 and limited concealment make it killable despite the bargain. |
+| 7 | **S** | **Cutter** — PanO | 95–97 / 2–2.5 | Camouflage, Hidden Deployment, Mimetism (-6) and MULTI HMG create one of the highest gunfighting and survival ceilings. It ranks below the efficient all-rounders for support/specialist opportunity cost and lack of TacAware; LoL's panel split between low-S and high-A. |
+| 8 | **S** | **Avatar** — Combined Army | 122 / 3 | Highest-end combination of BS15, Mimetism (-6), ARM9/BTS9, MULTI HMG, Sepsitor Plus, Mnemonica and Strategos L2. Can dominate an entire game, but tying over 40% of a 300pt list into one model is a larger strategic risk than other S TAGs. |
+| 9 | **S** | **Overdron** — Combined / Onyx | 51 HRL, 59 Plasma Sniper, 62 HRMC | Very strong price-to-threat ratio: TacAware, potent long-range builds, Albedo against MSV and a TinBot support role where applicable. BS13 and less universal movement/duel strength prevent it passing the premier platforms; judge legal Onyx Duo options independently. |
+| 10 | **A** | **Seraph** — PanO / Military Orders | 72–74 / 1.5 | Super-Jump, NCO, AP Spitfire + Auxbot or MULTI HMG, Pulzar and powerful CC deterrence provide multiple attack axes. **The Jan 2026 d6min discussion argues it may be better than Lizard after buffs**, and the [Feb 2026 MO review](https://swissmissgaming.com/2026/02/02/essential-purchases-for-infinity-military-orders-players/) prefers it within MO. Needs favorable routes and expensive MO support. |
+| 11 | **A** | **Clausewitz Uhlan** — PanO | 70 Feuerbach, 80 Spitfire+AP HRL | Camouflage / Surprise Attack and flexible concealed delivery; Feuerbach is punishing ranged support, while the 80pt loadout supports direct assault. Expensive version does not automatically replace the cheaper one; less universally self-sufficient than Tik/Squalos. |
+| 12 | **A** | **Szalamandra** — Nomads / Tunguska | 68 / 2 | HRMC, ARM8/BTS9 and HFT at an excellent price, with NCO in the relevant Tunguska profile. Extremely strong on open long lanes; S7, absence of Mimetism and SWC/route dependency create matchup swings. |
+| 13 | **A** | **Gator** — Nomads | 73 / 1.5 | ARM8 MULTI HMG, NCO/TacAware, double chain templates, Mine Dispenser and CC defence make a versatile assault-and-hold TAG. Its BS14 shooting is strong but not unfair, and it must still be screened against specialists in E/M/hacking. |
+| 14 | **A** | **Caskuda** — Combined Army | 64 / 1 | Combat Jump plus a heavy attack package and TacAware open a uniquely disruptive backline angle. Opponent screens, landing space and lack of first-turn on-board protection restrict reliability; still one of the most distinct top TAG roles. |
+| 15 | **A** | **Raicho** — Morat / Combined | 75 NCO HFT, 85 Mine Dispenser | ARM8 MULTI HMG, good close defence and NCO or mine-control builds; a durable attack anchor in Morat lists. The expensive mine build is not an automatic upgrade; anti-TAG counters and route planning matter. |
+| 16 | **A** | **Stigmata** — Nomads / Bakunin | 56 / 1.5 | A rare TAG Hacker with native Carbonite, ECM: Hacker, strong template weapons and Bakunin synergy. Outstanding when the game rewards a flexible hacking/area-denial presence; less convincing as a raw long-lane conventional gun. The 2025 LoL panel debated S versus high-A. |
+| 17 | **A** | **Maghariba Guard** — Haqqislam / Dashat | 71–72 | BS14/ARM8 mobile gun platform with unusual weapon coverage and a large presence; strong where the army needs reliable high-power fire. The S8 base can make deployment and actual line-of-fire access significantly harder. |
+| 18 | **A** | **Wrecker** — O-12 / Torchlight | 51 HRL, 55 Spitfire, 57 HMG | Extremely cheap TacAware TAG, with the HRL +1B/template profile particularly good in Torchlight lists. This is a *list-efficiency* rank, not a claim it beats Zeta in direct combat. [Robert Shepherd's 2026 vanilla O-12 review](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1980s) prefers Gamma/utility over Wrecker there: material sectorial disagreement. |
+| 19 | **A** | **Xeodron** — Combined / Onyx | 49–50 / 0.5–1 | Cheap TacAware S6 TAG with K1/MULTI Marksman or Red Fury options, Super-Jump and productive legal Onyx team options. Strong double-TAG/mission-area value, but BS13 and short/mid range make it unreliable against distant apex AROs. |
+| 20 | **A** | **Jotum** — PanO | 82 / 1.5–2 | ARM10/BTS9, Remote Presence, MULTI HMG and HFT can be oppressive when opponents lack AP/E/M or hacking access. Its premium buys little concealment or order flexibility; proper counters can negate the armor advantage quickly. |
+| 21 | **A** | **Blue Wolf** — Yu Jing / White Banner | Profile-dependent | Flexible mobile shooting with credible anti-CC pressure and sectorial support; punishes opponents who cannot screen medium-range approaches. Treat dangerous melee as a deterrent rather than an automatic reason to charge into opposing anti-TAG tools. |
+| 22 | **A** | **Gorgos** — Tohaa | 63; 67–70 with Chaksa | Efficient AP HMG and close-support package in Tohaa; Chaksa peripheral broadens threat management. Evaluate with the chosen Chaksa price, symbiont transitions and actual access to objectives rather than just the bare TAG line. |
+| 23 | **A** | **Shakush** — Haqqislam | 56–58 | Affordable Continuous Damage HMG / AP Spitfire option that fills a crucial durable ranged-gun gap, especially in Hassassin. In a vacuum it is less exceptional; **sectorial need** lifts it above some technically stronger expensive TAGs. |
+| 24 | **A** | **Gecko** — Nomads / Corregidor | 49–55 / 0–1 | One of the cheapest genuinely armored objective-zone threats with TacAware, Panzerfaust/Blitzen and useful short/mid weapons; Corregidor link access helps. BS13, ARM6 and 15–5 movement punish head-on TAG duels. |
+| 25 | **B** | **Iguana** — Nomads / Corregidor | 64–68 / 1.5 | AP HMG, Repeater, mine utility and Escape System create more follow-through than an ordinary gun platform; **the Jan 2026 d6min episode specifically highlights its improved survivability**. Rating remains conditional on loss of the shell, operator usefulness and competition from Lizard/Gator. **Do not reuse old N5 wound counts:** current Corregidor reference identifies a TAG W4 profile. |
+| 26 | **B** | **Sphinx** — Combined / Shasvastii | 93 / 2 | Very high asymmetric ceiling with Hidden Deployment, Mimetism (-6), fast 15–15, Climbing Plus, Spitfire and HFT (+1B). Its 93pt cost and no-AP main gun can lose games into hard armor or mission pressure; **LoL's 2025 panel was sharply divided**. Former Apex S does not equal balanced overall S. |
+| 27 | **B** | **Chernobog** — Ariadna / Kosmoflot | 63 HFT, 70 HRL | ARM8 AP HMG plus templates gives Ariadna a rare conventional heavy-gun option. Transmutation and E/M/anti-armor exposure can reduce expected durability; especially attractive where the rest of the list lacks equivalent ranged punch. |
+| 28 | **B** | **Juggernaut** — Next Wave | 78–82 | Unusually fast assault chassis with ARM8, Climbing Plus, Guard and hard-hitting HRL/plasma or MULTI HMG NCO options. High investment and staging / support demand push it below similarly hard-hitting cheaper TAGs. |
+| 29 | **B** | **O-Yoroi** — JSA | Profile-dependent | Useful armored long-range axis in JSA with Kobaruto/Fireteam possibilities; strong when the rest of the army otherwise prefers skirmishing/CC. Opportunity cost, hacking and cheap CC counters make the big gun less plug-and-play. |
+| 30 | **B** | **Lóngwáng** — Yu Jing / Imperial Service | 68–72 | Distinct nonlethal/board-control role with AP HMG or Mk12 and Adhesive Launcher Rifle/Riotstopper; possible NCO lets it convert Lieutenant Orders into pressure. Less reliable as a pure lethal heavy-gun solution than higher TAGs. |
+| 31 | **B** | **Bultrak** — Combined / Morats | 69 | HRMC / portable autocannon, TacAware and potential Armored Duo provide a second attack lane. ARM5 and overlap with more durable/effective Morat attack choices limit return on the investment. |
+| 32 | **B** | **Gūijiă** — Yu Jing | Profile-dependent | Straightforward MULTI heavy shooting with Yu Jing support and specific legal Shock team potential. Solid where the roster wants a direct armored gun, but usually fewer distinctive tricks than Blue Wolf or the leading TAGs. |
+| 33 | **B** | **Mechazoid** — JSA / Shindenbutai | Profile-dependent | Mission-oriented mobile TAG alternative whose TacAware and legal team package can matter more than raw gun stats. Grade the **whole team price** and the specific JSA list, not isolated chassis output. |
+| 34 | **B** | **Dragões** — Shock Army of Acontecimento | Profile-dependent | Dedicated heavy fire-support anchor with competent ranged output and normal PanO support. More one-dimensional than the Tikbalang and less attractive if ARO angles / support are poor; check the current Shock Army profile instead of obsolete edition costs. |
+| 35 | **B** | **Triphammer** — Haqq / NA2 | 48–53 | Cheap TacAware AP Spitfire/HRL/HSG budget choice; can be an effective supplemental armored threat. Battle Ravaged is variable and its attack consistency lags more expensive purpose-built guns. |
+| 36 | **B** | **Scarface & Cordelia** — Haqq / NA2 | 76–80 combined bundle | A TAG plus an actual Engineer can make strong sense when Cordelia's service is needed even without repairs. Do not compare combined bundle points to a bare TAG or overstate its single-model gunfight efficiency. |
+| 37 | **C** | **Maximus TAG** — PanO | 80–84 | 4 STR, Immunity (ARM), serious close combat and E/M/AP equipment create impressive counterassault situations. Yet expensive short-range/CC investment often contributes less to ordinary mission wins than a more versatile gun; distinct from Agent Maximus. |
+| 38 | **C** | **Anaconda** — Nomads / mercenary access | 59 / 1.5 | AP Spitfire/Thunderbolt options, close tools and post-shell operator give some utility. Usually outcompeted by similarly priced TAGs/HI and loses too much frontline role after its shell is compromised. |
 
-### Combined Army
+## How to interpret the unified ranking
 
-| # | TAG; sample current cost | Apex / value | Best circumstances — why | Main argument against |
-|---|---|---|---|---|
-| 1 | **Avatar** 122 / 3 | **S / B** | A near-solo offensive/command plan: BS15, Mimetism (-6), ARM9/BTS9, MULTI HMG, Sepsitor Plus, Strategos L2 and Mnemonica. Strong if you can deny enemy anti-TAG routes and preserve a scoring skeleton. | Extreme concentration; hackers, E/M, objective pressure and lucky FtF rolls threaten >40% of 300 points. |
-| 2 | **Sphinx** 93 / 2 | **S / C** | Hidden/side-angle attack or objective zone where Camouflage + Hidden Deployment, Mimetism (-6), fast 15–15, Climbing Plus and HFT (+1B) can dismantle a flank. | Expensive Spitfire with no AP; opponent can contest with high ARM and hunt the rest of the army. **Podcast sharply divided** on whether it is elite or a trap. |
-| 3 | **Overdron** 51 HRL, 59 Plasma sniper, 62 HRMC | **A / S** | Best inexpensive heavy-gun foundation: TacAware plus HRMC or cheap +1B HRL/Plasma; Albedo helps against MSV and TinBot Firewall can protect eligible nearby/link partners. | BS13/limited mobility, and Albedo is matchup-dependent. Onyx can exploit legal Overdron Duo; check the specific chart. |
-| 4 | **Xeodron** 49–50 / 0.5–1 | **C / S** | Cheap Tactical Awareness, S6, K1 or MULTI Marksman / Red Fury, Super-Jump and legal Onyx Duo/Haris allow two complementary midrange bodies at tolerable price. | Shorter-ranged weapons and BS13 cannot win every long ARO duel; treat them as objective-area / flank pressure, not Avatar substitutes. |
-| 5 | **Raicho** 75 NCO HFT, 85 Mine Dispenser | **A / A** | Durable ARM8 MULTI HMG attacker in Morats; NCO version turns otherwise unused LT Order into real pressure, mine build secures midfield/reverse lanes. | Higher-price version is not automatically better; support and cover still required against E/M/hacking. |
-| 6 | **Bultrak** 69 | **B / B** | A second Morat heavy gun (HRMC / portable autocannon) with TacAware and Armored Duo access that can create a second angle. | ARM5 and 69 points reduce the value of "armored" durability; competing Raicho/other guns may cover the same lane more efficiently. |
-| 7 | **Caskuda** 64 / 1 | **A / A** | Combat Jump threat: forces the opponent to defend the rear, can surprise key support/ARO units and create a new attack axis with TacAware. | Off-table investment does not defend the first turn or score until arrival; landing plan and counter-AD screens matter more than raw statline. |
-| 8 | **Juggernaut** 78–82 | **A / B** | Next Wave brawler when you can exploit 20–5 movement, ARM8, Climbing Plus, Guard and plasma/HRL or MULTI HMG NCO in a planned assault. | Very expensive assault chassis; the rest of the list must still handle objectives and long-range counters. |
+**The top nine are not interchangeable.** Pick Zeta/Szalamandra/Overdron for long HRMC or plasma lines; Tikbalang, Zeta, Sphinx or Uhlan for vertical routing / flank delivery; Marut for strong MSV2 versus smoke and Mimetism; Cutter or Sphinx for hidden marker-state attacks; Lizard, Stigmata or Gator where Nomad hacking and Engineer infrastructure makes the TAG much more resilient. **Albedo protects against MSV; it does not counter smoke like MSV2.**
 
-### Nomads
+**Mission pressure changes priorities.** In console/classified-heavy missions, a 50–70pt TAG plus separately funded specialists often beats a 95–122pt centerpiece. Ordinary TAGs are not specialists merely because they are large and expensive; ZetBot and a legally linked specialist must be assessed under the actual mission rules. For quadrants/zone control, Geekos, Xeodrons, Squalos and Gorgos can swing points efficiently, while a high-end TAG concentrates much more VP in one target. See [zone domination and protected area denial](objective-holding-zone-domination-and-carriers-apex-value.md) and [mission specialists](mission-specialists-and-button-pushers-apex-value.md).
 
-| # | TAG; sample current cost | Apex / value | Best circumstances — why | Main argument against |
-|---|---|---|---|---|
-| 1 | **Lizard** 60–65 | **A / S** | Powerful inexpensive all-rounder; ARM8, Repeater and TacAware, multiple AP/MULTI or E/M GL configurations. Especially strong when Bakunin's hacking, Engineer and midfield assets already exist. | S7 silhouette and BS14; must not rely on its own Repeater to survive enemy hacker attacks. |
-| 2 | **Stigmata** 56 / 1.5 | **B / A** | Bakunin needs a mobile *Hacker* TAG: native Carbonite, ECM: Hacker, very strong HFT/HRL templates, cheap enough for redundant attackers. | Short/medium-range and less impressive conventional gun; uniquely good in a hacking-rich environment, less good in an empty open table. |
-| 3 | **Szalamandra** 68 / 2 | **A / A** | Long-lane HRMC and HFT package at a surprisingly modest price, with ARM8/BTS9; Tunguska reference gives NCO. | No Mimetism, large S7, big SWC demand and position dependency. Check vanilla versus sectorial profile before assuming NCO. |
-| 4 | **Gator** 73 / 1.5 | **A / A** | ARM8 direct attack, NCO/TacAware, MULTI HMG, double chain templates, Mine Dispenser and anti-CC tools: ideal for clearing long and medium approaches then holding them. | Its support cost/role can duplicate Nomads' already strong hackers/guns; ordinary BS14 still gives opponents a route in. |
-| 5 | **Gecko** 49–55 / 0–1 | **B / A** | Cheap multi-purpose TAG with TacAware, short/mid shooting and Panzerfaust/Blitzen; Corregidor's numerous legal link options make double-Gecko pressure plausible. | BS13, ARM6 and 15–5 speed reward conservative lanes, not a heavy-TAG frontal charge. |
-| 6 | **Iguana** 64–68 / 1.5 | **B / C** | Repeater/AP HMG, mine pressure, and Escape System allow a second-stage operator plan; more options than a bare gun. | Transmutation means losing the shell can degrade the original combat role. **Important:** the 2025 podcast complains it has "two wounds"; the **current Corregidor roster explicitly lists TAG W4**, so do **not** repeat that older claim as the current profile. |
-| 7 | **Anaconda** 59 / 1.5 | **C / C** | Useful if the list specifically needs its AP Spitfire/Thunderbolt + short-range package and operator after shell loss. | Generally outcompeted by more effective or cheaper TAGs/HI in its factions. Loss of Lieutenant calls it bottom-tier, but the specific mission and available competitors matter. |
+**Order economy is profile-specific.** Tactical Awareness generates its appropriate extra activation; NCO uses **available** Lieutenant Orders; Strategos may change how that economy is used. Do not double-count one Order or treat a Lieutenant's personal Orders as universal Duo activations. The Kestrel Tikbalang, MO NCO Tikbalang, NCO Squalos and vanilla/sectorial Zeta are not interchangeable builds.
 
-### Other factions
+**Survivability is more than ARM.** Marker states, approach geometry, anti-CC screening, KHD/Firewall, Engineer access and having a second attacker can matter more than +2 ARM. A Repeater on Lizard/Iguana can help a friendly network **and** create exposure; avoid treating it as anti-hacking immunity. [Engineer and Servant recovery](doctors-engineers-and-recovery-apex-value.md), [anti-TAG non-hacking tools](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) and [force multipliers](force-multipliers-special-abilities-apex-value.md) give the relevant support tradeoffs.
 
-| # | TAG; sample current cost | Apex / value | Best circumstances — why | Main argument against |
-|---|---|---|---|---|
-| 1 | **Marut (ALEPH)** 86; LT Strategos 90 | **S / B** | MSV2 + BS15 MULTI HMG punishes smoke/Mimetism and Strategos LT amplifies command flexibility; excellent with ALEPH's repair/security support. | 90 points and a valuable LT are painful to lose; different counters from Cutter's marker defense. |
-| 2 | **Agamemnon (Steel Phalanx)** 63–65 | **A / S** | Exceptionally cheap AP-HMG heavy shooter with TacAware and potent close defence; build a *second* SP threat alongside it instead of sinking the entire list into one model. | ARM6 and no Camo; cheaper price buys power, not invulnerability. Podcast argues both S and high-A apex. |
-| 3 | **Gūijiă (Yu Jing)** | **B / B** | Direct MULTI-weapon ranged TAG when Yu Jing order/Engineer/Firewall network and a legal Shock Duo are already part of the list. | Straightforward big-gun profile competing with more flexible Blue Wolf/Longwang and HI teams. |
-| 4 | **Blue Wolf (Yu Jing)** | **A / A** | Mobile direct pressure with close-combat threat plus TAG gun; White Banner can support its Team access. Effective when close/medium attack lanes are available. | Berserk/CC threat is often **defensive deterrence**, not a reason to charge an anti-TAG defender. |
-| 5 | **Lóngwáng (Yu Jing)** 68–72 | **B / B** | Imperial Service control TAG: AP HMG or high-Burst Mk12, Adhesive Launcher Rifle/Riotstopper, Biometric Visor, NCO variant. Strong into enemies vulnerable to glue/nonlethal ARO control. | Less explosive damage than apex guns and depends on the target's ranges/Reset routes. |
-| 6 | **O-Yoroi (JSA)** | **B / B** | Japanese heavy-gun attack with Kobaruto and JSA Fireteam support; lets a close-combat-centric army bring a ranged armored axis. | Strong JSA skirmishers/fast attackers compete for the same Orders; protect the large TAG from hacking and cheap CC. |
-| 7 | **Mechazoid (JSA)** | **B / B** | Shindenbutai/JSA mobile TAG alternative when TacAware and a real Fireteam/order plan give better mission coverage than another expensive brawler. | Lower natural punch relative to top gun platforms; evaluate the *full* linked team cost. |
-| 8 | **Shakush (Haqqislam)** 56–58 | **B / A** | Efficient long-range **Continuous Damage HMG** / AP Spitfire that supplies armor and range to Hassassin or Ramah without consuming 80+ points. | Budget HI can fulfill a similar gun role; rating rises in **Hassassin** where a tough, reliable long shooter is otherwise scarce. Podcast undervalues this in that context according to counterarguments. |
-| 9 | **Maghariba Guard (Haqqislam)** 71–72 | **A / A** | ARM8, BS14, good weapon mix, multi-tool board presence; best when objectives/terrain permit huge S8 base and Engineer support. | S8 movement/deployment congestion and high visibility; always measure access to the actual shooting/staging positions. |
-| 10 | **Triphammer (mercenary)** 48–53 | **C / B** | Low-cost AP Spitfire/HRL/HSG profile, TacAware, and possible post-damage spike make it a flexible NA2/Haqq budget TAG. | Swingy Battle Ravaged usefulness and weaker long-range shooting than top-tier counterparts; do not let a lucky upgrade define expected value. |
-| 11 | **Scarface & Cordelia (Haqq/NA2)** 76–80 *combined bundle* | **C / B** | TAG gun + an accompanying Engineer in one package; strongest where the list genuinely needs Cordelia's repair utility anyway. | Do **not** compare bundle price to bare TAG prices without crediting the Engineer; still a substantial investment. |
-| 12 | **Zeta (O-12)** 70 LT, 73 NCO / 2 | **S / S** | HRMC, Climbing Plus, ARM8 and unusual ECM Guided (-8) for strong long-lane + vertical assaults. Excellent when O-12 can provide protected support and a viable NCO/LT-order structure. | Large S7, no blanket protection against hacking; LT selection can add failure risk. Podcast explicitly argues O-12 should bring Zeta to tournament lists. |
-| 13 | **Wrecker (O-12 / TLB)** 51 HRL, 55 Spitfire, 57 HMG | **B / S** | TLB's bargain TacAware TAG: HRL +1B and close templates punish clustered AROs and armor; very low entry cost lets O-12 add a second attacker and specialists. | Does not behave like an HRMC long-range apex unit; HRL version especially needs position and template opportunities. |
-| 14 | **Gorgos (Tohaa)** 63; 67–70 with Chaksa | **B / A** | Strong AP HMG plus Flammenspeer/Pulzar and Tohaa support; peripheral upgrade adds **a different route to handle close threats**, not free damage. | Cost with Chaksa and symbiont-state transition must be evaluated together; some reviewers rarely face it, not reliable evidence of weakness. |
-| 15 | **Chernobog (Ariadna/Kosmoflot)** 63 HFT / 70 HRL | **B / A** | Rare Ariadnan true armored gun: AP HMG and templates, ARM8 chassis, plus Transmutation; excellent when an army lacking broad hacking/anti-TAG tooling needs ranged punch. | Battle-ravaged/Transmutation and lack of conventional repeater-based support; easier to jam with E/M/anti-armor than ordinary Ariadna infantry. |
+**Deployment footprint matters.** A large S7/S8 TAG may have nominally dominant guns but no safe place to deploy, cross terrain or reach meaningful sight lines. Before selecting a second TAG, make sure it buys a different range/angle or a different mission role, not a second copy of the same 24–32-inch HMG plan.
 
-## Choose by mission and table, not by the most impressive stat
+## YouTube and podcast reference check
 
-| Situation | Prefer | Why / cost |
-|---|---|---|
-| **Open long firing lanes, enemy strong ARO** | Zeta, Overdron HRMC, Szalamandra, Marut, Cutter, Uhlan Feuerbach | Range + Burst/quality. HMG alone may lose an expensive exchange if target stacks Mimetism/cover; Marut MSV2 and Cutter Camo attack via different solutions. |
-| **Tall buildings, roofs and weird paths** | Tikbalang, Uhlan, Sphinx, Zeta, Juggernaut; Seraph on jumping lanes | Climbing Plus or Super-Jump converts otherwise impossible movement into attacks; count travel Orders, not just speed. |
-| **Enemy has AP/E/M and a dense hacking net** | Cheap TAG (Squalos/Overdron/Xeodron/Wrecker) **with** Engineer, KHD/Firewall and second plan—or no TAG | An ARM10 82-point anchor still loses to the appropriate tool. A cheaper chassis limits the points at risk; support costs can reverse apparent efficiency. |
-| **Skirmisher / melee / template threat near the TAG** | Tik mine + HFT, Seraph Pulzar/Auxbot, Gator/Gecko templates, Lizard HFT, Jotum HFT, Raicho HFT | A close defence matters even if the premium HMG is stronger at 24–32 inches. Screen with other troopers; avoid unfavorable trades against a 10-point attacker. |
-| **Smoke/Mimetism-heavy enemy** | Marut MSV2; camouflaged TAG that can pick other angles; Overdron Albedo *versus MSV* | MSV2 answers smoke/Mimetism; **Albedo counters visors rather than smoke**. Do not treat them as equivalent. |
-| **Widespread objective/specialist tasks** | Squalos/Gecko/Xeodron/Overdron/Wrecker + extra specialists; TAG with a *legally* linked specialist | Multiple separate scoring bodies beat paying 100+ points for a gun that cannot operate consoles. |
-| **Kill key backline piece / break static defence** | Caskuda (Combat Jump), Cutter/Sphinx (marker-state flank), Uhlan (Camo approach) | Delivery angles beat straight statistical superiority; these choices are weaker when deployment/discovery screens deny the entry. |
-| **Enemy mostly conventional small arms; can remove anti-armor early** | Jotum, Avatar, Maghariba, Raicho, Lizard | High ARM/BTS/Remote Presence makes the opponent pay Orders if their actual counters are removed first. |
-| **Thin Order pool, LT Orders otherwise unused** | Kestrel Tik LT, Squalos NCO, Seraph NCO, Gator NCO, Juggernaut NCO, Zeta NCO | Count **legal usable** extra Orders. Strategos may convert the LT Order instead; the same LT Order cannot be used twice. |
-| **Many large REMs/VH/bikes already in DZ** | S6 TAG, or delay adding the second large model | Deployment footprint and safe staging positions are real opportunity costs alongside points/SWC. |
+- **[Loss of Lieutenant #142 — N5 TAG Tier List (YouTube, 6 Apr 2025)](https://www.youtube.com/watch?v=dZo_gQWQYSY)** and [podcast episode](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN): compared the entire TAG field and discussed price, faction support and role. The presenters disagreed on **Cutter** (low-S versus high-A), **Squalos** (high-A / maybe S), **Seraph** (stronger in isolation than its MO support), **Sphinx** (extreme opinions), **Stigmata** and **Zeta** (especially strong tournament option). Reviewed as *qualitative 2025-era input*, **not** copied as the N5.3 ranking or as a current profile source.
+- **[Loss of Lieutenant #141 — Tactical Armored Gear's (31 Mar 2025)](https://open.spotify.com/episode/6zPRTbn2cilgMyuHtODvf7):** underscores cheap-TAG list construction, close defence, engineers and enough scoring Orders instead of only maximum gun power.
+- **[Dice Over Everything / d6min #140 — Best Infinity TAG (1 Jan 2026)](https://open.spotify.com/episode/3GwiFRnpPyfAiXvd5GUDqd):** Lizard chosen for its low cost, lethal weapon options, ARM and Repeater fit; another presenter argues a newly improved **Seraph** may surpass it, and the discussion calls attention to the improved **Iguana**. This is an informal best-TAG discussion, *not* a full ordinal tier list.
+- **[Robert Shepherd — Vanilla O-12 faction focus, TAG discussion (26 Oct 2026)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=1980s):** prefers a cheaper **Gamma HMG Lieutenant + Ment Chain of Command** package to **Zeta** in several vanilla lists, despite Zeta's HRMC/Climbing Plus/ZetBot ceiling. He does not personally favor Wrecker in vanilla versus available alternatives; both are **faction/list-conditional disagreements**, not a claim their profiles became weaker.
+- **[From Alpha to Zeta (7 Sep 2026)](https://sambino123infinity.wordpress.com/2026/09/07/from-alpha-to-zeta/)** argues Zeta may be the best N5 TAG, while documenting its drawbacks; **[Swiss Miss Gaming's MO purchases review (2 Feb 2026)](https://swissmissgaming.com/2026/02/02/essential-purchases-for-infinity-military-orders-players/)** puts Seraph ahead of Tikbalang *within Military Orders*. Cross-army and intra-sectorial rankings need not match.
 
-## Fielding rules of thumb
+**Source priority:** the latest committed roster in **sectorials/** and legal Fireteam charts control costs/profiles/availability; current mission rules control scoring; YouTube/podcast community rankings are **opinions** and inform evaluation only. The ranking above includes newer source judgments without silently reverting post-2025 profile changes.
 
-1. **Buy the problem-solver, not the chassis.** Identify the ARO, armor, hacking grid, or route the TAG actually beats; check its weapon bands, SWC and the required support.
-2. **Plan a first attack and a failure line.** If the TAG dies before its second activation, can remaining specialists still score? Can a second attacker clear the counter?
-3. **Protect the approach.** TAGs are hackable targets unless a current profile says otherwise; remove enemy Pitchers/Repeaters or set Firewall/KHD/Engineer support *before* the expensive push. A Repeater on your own TAG may help your network but is not universal anti-hacking immunity.
-4. **Prioritize cheap close defence.** Mine, HFT/Pulzar/Chain Rifle, E/M, screening perimeter, and prudent staging prevent a 10–20-point unit trading upward.
-5. **Treat Remote Presence and Engineers as an Order tax on the opponent, not invulnerability.** A repaired Unconscious TAG may re-enter play; a dead or isolated/immobilized one still costs tempo.
-6. **Extra Orders are conditional.** Tactical Awareness self-activates the TAG (or its valid Fireteam), NCO uses otherwise available LT Orders, Strategos changes the order economy, and an LT's personal Orders cannot be assumed to move a Duo.
-7. **Double TAG can work** when each gives a different angle and your cheap-Order/specialist infrastructure survives. Do not pay twice for the same 24–32-inch HMG and call it redundancy.
-8. **Tier is not the probability of winning a duel.** It is a combined game-plan judgment. Re-evaluate for mission, terrain, specific opponent anti-TAG tools, and Fireteam access.
+## Battle-report reality checks
 
-## Transcript-reviewed sources and disagreements
+- **[#181 — Double Seraph + De Fersen + recovery](../battle-reports/181-190-n5-battle-report-tactical-analysis.md):** used successfully in four of five games, but the champion changed lists against Morat anti-TAG tools.
+- **[#212 — Two Xeodrons + Kurnau / cheap REM](../battle-reports/211-220-n5-battle-report-tactical-analysis.md):** completed Countermeasures through Classifieds; supports efficient multiple-body TAG plans.
+- **[#214 — Cutter + Squalos + Tikbalang](../battle-reports/211-220-n5-battle-report-tactical-analysis.md):** won exchanges but lost Firefight 5–2 on Classifieds. Peak gun package did not automatically win the mission.
+- **[#231 — Sphinx](../battle-reports/231-240-n5-battle-report-tactical-analysis.md):** spent roughly 9–10 Orders for four kills while conceding zone/backline pressure. **[#189 — Sphinx + Sheskiin](../battle-reports/181-190-n5-battle-report-tactical-analysis.md)** also failed its delivery objective against a blocking gun.
+- **[#169 — Swiss Guard / Joan / Helot](../battle-reports/161-170-n5-battle-report-tactical-analysis.md):** five played Borderbash wins; unplayed Cutter alternative is **not evidence of a Cutter victory**.
 
-**Direct MCP transcript reads:**
-- [Loss of Lieutenant #141 — Tactical Armored Gear's (31 Mar 2025)](https://open.spotify.com/episode/6zPRTbn2cilgMyuHtODvf7): cheapest TAGs are more viable in N5, but Engineer/hacking cover, close defence, scoring and enough Regular Orders matter more than the biggest gun. Speakers caution that even a very expensive Seraph can leave the rest of MO cramped.
-- [Loss of Lieutenant #142 — N5 TAG Tier List (6 Apr 2025)](https://www.youtube.com/watch?v=dZo_gQWQYSY) ([podcast](https://open.spotify.com/episode/1h5CJfZC5zBPxdg66o7xIN)): broad family-by-family debate. Especially useful because **presenters contradict each other** on Cutter (low-S vs high-A), Tik versus Squalos, Seraph, Sphinx, the pricing of Maximus, and whether the Shakush fits its *sectorial*. Their **published list is 2025-era**, not an October 2026 official ranking.
-- [d6min episode 140 — Best Infinity TAG (1 Jan 2026)](https://open.spotify.com/episode/3GwiFRnpPyfAiXvd5GUDqd): one host favors **Lizard** as the top practical TAG because a cheap resilient Repeater platform already synergizes with the Nomad hacking game. This is **different ranking logic** from choosing the most lethal Avatar/Marut.
-- The YouTube MCP transcript for **Loss of Lieutenant #142** was also retrieved independently, cross-checking the podcast version.
-
-**Supplementary community disagreement:** [N5 TAG tier list discussion (Apr 2025)](https://www.reddit.com/r/InfinityTheGame/comments/1jswb3k/) argues **Shakush is more valuable in Hassassin** than a generic cross-faction comparison suggests, because of the sectorial's lack of durable long-range platforms. [MO Tik versus Seraph debate (Jan 2025)](https://www.reddit.com/r/InfinityTheGame/comments/1i8qobt/) values Seraph AP and NCO versus Tik's more consistent Mimetism. These opinions supplement, not override, pinned current profiles.
-
-**Repository analyses reused:** `notes/factions/{kestrel,nca,svalarheima,acontecimento,vanilla-aleph,vanilla-haqqislam,vanilla-nomads,oban,shindenbutai,tohaa,bakunin,corregidor,...}.md` and `notes/list-building/{rems,hacking-and-network-projection,order-efficiency,list-robustness-and-threat-coverage}.md`. Sectorial-specific field notes and current roster references take precedence when this cross-faction comparison is less precise.
-
-## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
-
-**Observed TAG value is mission-dependent:**
-
-- **#181 — Double Seraph + De Fersen + recovery:** used successfully in four of five games, but the champion **switched lists** against Morat anti-TAG tools.
-- **#212 — Two Xeodrons + Kurnau / cheap REM:** completed Countermeasures through Classifieds.
-- **#169 — Swiss Guard + Joan + Helot:** accounted for five played Borderbash wins; the Cutter alternative was *not* played.
-
-[#181](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#212](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#169](../battle-reports/161-170-n5-battle-report-tactical-analysis.md).
-
-**Overinvestment countercases:**
-
-- **#214 — Cutter + Squalo + Tikbalang:** won exchanges but lost Firefight 5–2 on Classifieds.
-- **#231 — Sphinx:** spent 9–10 Orders for about four kills, leaving Battleground zone and backline vulnerable.
-- **#189 — Sphinx + Sheskiin:** failed to deliver data collectors against a blocking HMG.
-
-[#214](../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [#189](../battle-reports/181-190-n5-battle-report-tactical-analysis.md) · [#231](../battle-reports/231-240-n5-battle-report-tactical-analysis.md).
-
-**Required support accounting:** Name the **Engineer/Servant, second Specialist, repeater clearance, anti-CC/smoke screen and final-turn Orders** before rating TAG cost-effectiveness. Do not interpret unplayed **Avatar** (#155) or **Cutter** (#169) alternates as victories.
-
-[Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
-
-## Cross-faction ordinal TAG rankings
-
-The rankings below expand the original S/A/B/C tier distribution into **one row per TAG**. Ordinal positions preserve the existing within-tier shortlist order as an editorial tie-break, not measured win rates. Apex and points value are ranked **separately**; compare exact legal profiles in the faction tables above.
-
-### Apex — unit-by-unit ranking
-
-| # | Tier | TAG |
-|---|---|---|
-| 1 | **S** | **Avatar** |
-| 2 | **S** | **Marut** |
-| 3 | **S** | **Cutter** |
-| 4 | **S** | **Zeta** |
-| 5 | **S** | **Sphinx** |
-| 6 | **A** | **Agamemnon** |
-| 7 | **A** | **Uhlan** |
-| 8 | **A** | **Jotum** |
-| 9 | **A** | **Tikbalang** |
-| 10 | **A** | **Seraph** |
-| 11 | **A** | **Szalamandra** |
-| 12 | **A** | **Gator** |
-| 13 | **A** | **Raicho** |
-| 14 | **A** | **Juggernaut** |
-| 15 | **A** | **Maghariba** |
-| 16 | **A** | **Blue Wolf** |
-| 17 | **A** | **Caskuda** |
-| 18 | **A** | **Lizard** |
-| 19 | **A** | **Squalos Mk-II** |
-| 20 | **A** | **Overdron** |
-| 21 | **B** | **Maximus** |
-| 22 | **B** | **Dragões** |
-| 23 | **B** | **Stigmata** |
-| 24 | **B** | **Wrecker** |
-| 25 | **B** | **Gūijiă** |
-| 26 | **B** | **O-Yoroi** |
-| 27 | **B** | **Longwang** |
-| 28 | **B** | **Gorgos** |
-| 29 | **B** | **Chernobog** |
-| 30 | **B** | **Bultrak** |
-| 31 | **B** | **Mechazoid** |
-| 32 | **B** | **Shakush** |
-| 33 | **B** | **Gecko** |
-| 34 | **B** | **Iguana** |
-| 35 | **C** | **Xeodron** |
-| 36 | **C** | **Triphammer** |
-| 37 | **C** | **Scarface & Cordelia** |
-| 38 | **C** | **Anaconda** |
-
-### Points value — unit-by-unit ranking
-
-| # | Tier | TAG |
-|---|---|---|
-| 1 | **S** | **Tikbalang** |
-| 2 | **S** | **Squalos Mk-II** |
-| 3 | **S** | **Agamemnon** |
-| 4 | **S** | **Overdron** |
-| 5 | **S** | **Lizard** |
-| 6 | **S** | **Zeta** |
-| 7 | **S** | **Wrecker** |
-| 8 | **S** | **Xeodron** |
-| 9 | **A** | **Uhlan** |
-| 10 | **A** | **Stigmata** |
-| 11 | **A** | **Gator** |
-| 12 | **A** | **Szalamandra** |
-| 13 | **A** | **Caskuda** |
-| 14 | **A** | **Maghariba** |
-| 15 | **A** | **Seraph** |
-| 16 | **A** | **Gorgos** |
-| 17 | **A** | **Raicho** |
-| 18 | **A** | **Gecko** |
-| 19 | **A** | **Shakush** |
-| 20 | **A** | **Chernobog** |
-| 21 | **A** | **Blue Wolf** |
-| 22 | **B** | **Marut** |
-| 23 | **B** | **Cutter** |
-| 24 | **B** | **Avatar** |
-| 25 | **B** | **Jotum** |
-| 26 | **B** | **Juggernaut** |
-| 27 | **B** | **O-Yoroi** |
-| 28 | **B** | **Gūijiă** |
-| 29 | **B** | **Bultrak** |
-| 30 | **B** | **Longwang** |
-| 31 | **B** | **Mechazoid** |
-| 32 | **B** | **Triphammer** |
-| 33 | **B** | **Scarface & Cordelia** |
-| 34 | **B** | **Dragões** |
-| 35 | **C** | **Sphinx** |
-| 36 | **C** | **Maximus** |
-| 37 | **C** | **Iguana** |
-| 38 | **C** | **Anaconda** |
+These are **illustrative reports**, not a representative statistical sample. See the [cross-report synthesis](../battle-reports/cross-report-unit-effectiveness-and-combinations.md). Before choosing a TAG, budget a compatible Engineer/Servant, actual specialists, repeater clearance and a contingency attacker; rate the *complete list*, not the chassis in isolation.
