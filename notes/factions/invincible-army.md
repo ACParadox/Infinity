@@ -13,6 +13,14 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md).
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned invincible-army roster](../../sectorials/yu-jing/invincible-army.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Pitcher Apex #8 · A+** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company as rostered | **BS13**, NWI and legal Wildcard support; reliable linked or independent shot and KHD protection **Limit:** Boarding Shotgun (+1B) is **not** +1B to the Pitcher; no Dokkaebi Spotlight upgrade | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| **Pitcher Value #7 · S** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company | BS13, NWI, Wildcard + KHD for 0 SWC **Limit:** No Spotlight upgrade | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
+| **Mobile Repeater Value #6 · S** | **Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0** — Yu Jing / White Banner where legal | **MOV15-10** with native node, FO/Sensor and a Tactical Awareness Order to drive it forward **Limit:** 14pt basic FO/Sensor variant is excluded | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
