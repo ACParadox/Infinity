@@ -5,7 +5,7 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 **Compare four different jobs, not one universal Repeater tier:**
 
 1. **[Best Pitchers](#1-best-pitchers)** — separate **Apex shot quality** from **points value**, projecting from a safe firing position.
-2. **[Best Turn-0 network](#2-best-turn-0-network)** — a single **Best** ranking balancing impact and price for coverage already established *at deployment*.
+2. **[Best Turn-0 network](#2-best-turn-0-network)** — **Best** ranking for native and preplaced Minelayer nodes already online at deployment, plus a separate **early-turn Value** shortlist of forward DR carriers that must still place their devices.
 3. **[Best mobile Repeater](#3-best-mobile-repeater)** — **Value-only** ranking for moving, arriving with or placing a Repeater.
 4. **[Best package](#4-best-package)** — a legal combination of projection, surviving hackers, protection, Order economy and a credible payoff.
 
@@ -96,31 +96,61 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 
 ## 2. Best Turn-0 network
 
-**Question:** What Hacking Area exists *before the first Order*? Distinguish (a) a **forward native Repeater** or legally preplaced Minelayer device from (b) a cheap native Repeater that begins in your own DZ. An off-table AD model, undeployed FastPanda or merely carried Deployable Repeater **does not count**.
+**Question:** Which *actual* Repeater network is already functioning **at the end of deployment, before the first Order**? Count only (a) **native Repeaters on deployed carriers/peripherals**, or (b) **Deployable Repeaters legally prepositioned through Minelayer**. An infiltrator or Forward Deployment model carrying a DR **without Minelayer is not Turn-0 coverage**, even if it can place the device as its first Order or ARO. All rankings mix coverage quality, deployment reach, survivability and price; this is one **Best** table, not separate Apex/Value lists.
 
-| # | Best tier | Unit / exact option | Starting advantage | Limitation |
+| # | Best tier | Unit / exact option | Why it is active at Turn 0 | Cost / limitation |
 |---|---|---|---|---|
-| 1 | **S+** | **Corregidor Moran Repeater + CrazyKoala BSG 15/.5** | Infiltration, **native Repeater**, FO, Koala protection and Regular Order; elite *immediate midfield* presence; **AVA2 CJC, AVA1 Vanilla Nomads** | Specific **one-use Camo** Moran options do **not** also carry Repeater; vulnerable to clearing, deactivation and enemy counterhacking |
-| 2 | **S+** | **Bakunin Initiated Observant 18/0** — Infiltration, **Deployable Repeater + Minelayer** | Free forward *separate* Repeater at deployment, with one-use Camo and an independent Regular body | The **Repeater is not native on the Observant**; enemy can destroy the node |
-| 3 | **S** | **White Banner Guìláng 25/.5** — Infiltration, Camo, **Deployable Repeater + Minelayer** | Legal upfront marker-area node without gambling a Pitcher; marker and mission utility persist | Costs far more than a backline 7pt Chaīyì; premium pays for *location* |
-| 4 | **S** | **Military Orders Trinitarian FO 23/1** — Infiltration, Camo, **Deployable Repeater + Minelayer** | Off-angle node already present on Turn 0 while FO threatens objectives | **1 SWC** is material; **22/0 FO** scoring option is not equivalent network setup |
-| 5 | **A+** | **Starmada Saladin CoC 33/0 or LT 34/0**, **Minelayer (2) + Deployable Repeater** | Potentially **two predeployed network tokens**, with WIP16 command/Decoy/Counterintelligence value | LT and CoC are different options; do not buy 33–34pt Saladin **just for Repeaters**, or invent Strategos |
-| 6 | **S** | **Vanilla O-12 Team Sirius FO + Repeater SiriusBot 21/0** | **FD(+20)** and **native Repeater on included synchronized bot** from deployment; FO and Heavy Riotstopper contribute mission/defense | Controller + bot share Orders; bot is not a second Regular Order; Hacker Sirius 24/.5 is more exposed to KHD risk |
-| 7 | **S** | **PanO Peacemaker native Repeater 23–27/0–.5** — Kestrel/MO/NCA where legal | **FD(+20)** gives immediate forward native coverage with Auxbot/close assault function | S4/Hackable target; pay for its combat fork, not only the network |
-| 8 | **A+** | **Torchlight Strider 28/.5**, **Deployable Repeater + Minelayer** | Predeployed device added to Torchlight's Waverider/Kyttä/Oko architecture | Far pricier than one home Repeater; use only exact Strider profile |
+| 1 | **S+** | **Moran Repeater + CrazyKoala BSG 15/.5** — Corregidor / eligible Nomads | **Infiltration + native Repeater**, FO, Koalas and Regular Order: immediate midfield Hacking Area | AVA2 CJC / AVA1 Vanilla; distinct one-use Camo options do **not** also have the Repeater |
+| 2 | **S+** | **Initiated Observant DR + Minelayer 18/0** — Bakunin | **Infiltration + preplaced separate Repeater**, 0 SWC and one-use Camo | Device can be cleared; the Observant itself does **not** have a native Repeater |
+| 3 | **S+** | **Robin Hook 20/0** — Bakunin | **Forward Deployment (+10) + native Repeater**, plus 2 STR, Super-Jump and Climbing Plus, so its network is live and highly mobile from deployment | FD reaches less far than Infiltration; Hackable and can be attacked through opposing networks |
+| 4 | **S** | **Guìláng DR + Minelayer 25/.5** — White Banner / eligible Yu Jing | **Infiltration + Camo + preplaced DR** gives a protected forward Hacking Area | Pay 25/.5 for coverage and infiltration utility, not a cheap 7pt home bot |
+| 5 | **S** | **Trinitarian FO + DR + Minelayer 23/1** — Military Orders | **Infiltration + Camo + preplaced DR**, plus FO for scenario play | **1 SWC**; 22/0 FO and 23/0 SMG(+1SD) FO are different *non-DR* profiles |
+| 6 | **S** | **Team Sirius FO21/0 + Repeater SiriusBot** — Vanilla O-12 | **FD(+20) + native Repeater on included synchronized bot**; FO/Heavy Riotstopper contribute immediately | The bot gives no separate Regular Order; controller's equipment is not the bot's |
+| 7 | **S** | **Corregidor Bandit DR + Minelayer 25/.5** — Corregidor / StarCo | **Infiltration + Camo + preplaced DR**, plus SMG and Shock Mine; credible midboard disruption | **Irregular**, consumes .5 SWC; not the distinct 23pt/24pt/28pt Bandit options |
+| 8 | **S** | **Sulsa Warrior DR + Minelayer 29/0** — White Banner | **Infiltration + Camo (1 Use) + preplaced DR** at 0 SWC; excellent CC threat | More expensive than Observant; 31pt KHD and 29pt FO are different, non-DR profiles |
+| 9 | **S** | **Peacemaker native Repeater 23–27/0–.5** — eligible PanO | **FD(+20) + native Repeater**, with Auxbot and short-range combat/defense | S4 Hackable footprint; select actual loadout, not a combined fictional profile |
+| 10 | **A+** | **Arjuna FD(+20) + KiranBot-2 (native Repeater) 32/0**, or AP-SMG **33/0** — ALEPH/OSS/Steel Phalanx as legal | **KiranBot-2** starts forward as a synchronized **native** Repeater, while Arjuna has Specialist Operative, Tactical Awareness and combat utility | **KiranBot-1 has Deployable Repeater instead** and does *not* start a Turn-0 node; no extra Regular Order from either bot |
+| 11 | **A+** | **Starmada Saladin CoC33/0 or LT34/0 + DR/Minelayer (2)** | Can **preplace two Repeater tokens** before Turn 1 while also contributing command tools | Costly; LT and CoC are alternative options |
+| 12 | **A+** | **Torchlight Strider DR + Minelayer 28/.5** | FD(+20), Camo, NWI and **a preplaced DR** on the **specific 28/.5 DR profile** | Other 28/.5 Shock-Mine Minelayer variant **does not** preplace a Repeater |
+| 13 | **A+** | **Krit Kokram FTO-2 DR + Minelayer 37/0** — Invincible Army / Vanilla Yu Jing | FD(+20), **preplaced DR**, 2W and Engineer/NCO combat utility; the node is active at setup | Premium 37pt investment; **FTO-2** does not gain Vanilla Yu Jing's **FTO-only Fireteam access** |
 
-**Distinctions worth preserving:**
+**Profile distinctions that affect Turn 0:**
 
-- **Zero 20/0:** carries a Repeater option but **not Minelayer on that same option**. A carried device should not be counted as a preplaced Turn-0 token.
-- **Sirius FO21 vs Sirius Hacker24/.5:** Repeater belongs to SiriusBot; no controller automatically inherits its equipment and no extra Regular Order is created.
-- **Moran Repeater vs Camo Moran:** select one real profile. The guide must not create a fictional Camo + Repeater + Koala option from distinct entries.
-- **Backline native Repeater vs infiltrated Minelayer:** a native node in your DZ is active on Turn 0, but a forward Minelayer starts a **separate forward token**. Rank by terrain, target Hacking Areas and whether the list goes second, not just cost.
+- **Robin Hook:** the pinned [Bakunin roster](../../sectorials/nomads/bakunin.md#robin-hook-outlaw-ai) and [N5 profile](https://human-sphere.com/Robin_Hook) establish FD(+10) and native Repeater. The equipment works immediately even if Robin never declares Place Deployable.
+- **Arjuna + KiranBots:** **KiranBot-2** is the native-Repeater option (preactive when forward-deployed); **KiranBot-1** only *carries* a Deployable Repeater and must Place it in a later Order/ARO. KiranBots are synchronized and included in the selected package, not independently purchased 7pt Order generators.
+- **Bandit / Sulsa / Guìláng / Trinitarian / Observant / Strider / Krit:** only the **same exact DR + Minelayer option** supplies a free Repeater at deployment; Mines, Cybermines, KHDs, and carried DR on alternative profiles are not interchangeable.
+- **Moran:** Repeater + Koala and one-use Camo choices are mutually exclusive on the relevant profiles. **SiriusBot** has the Repeater, not the FO controller.
 
-**When this category wins:** going second into HI/TAG crossing the middle, needing a start-of-game hacking tripwire, or demanding that the opponent spend Orders clearing a node. **When it does not:** mainly unhackable opponents, an enemy KHD dominating exposed Repeater paths, or a scenario where the infiltrator's points are needed for objective work instead. Two Morans do not automatically justify buying Guided.
+### Forward / infiltrating Deployable Repeater carriers — early-turn Value (not Turn 0)
+
+These troops start in useful forward positions and can place Repeaters **from the first Order onward**, but **do not establish any Repeater coverage at deployment solely by carrying the device**. For a Reactive-Turn **Place Deployable ARO**, they must have **LoF to the active enemy**; ZoC alone is insufficient. Placement is in Silhouette contact, requires no roll, and the Repeater becomes active **at the conclusion of that Order**, not in time for a same-Order Hacking ARO. Distinguish this from the DR + Minelayer options in the main Turn-0 table.
+
+| # | Value | Profile / sectorial examples | Forward delivery advantage | Why not Turn 0? |
+|---|---|---|---|---|
+| 1 | **S+** | **Hunzakut DR 18/.5** — Haqq / Ramah / Druze / Dahshat as legal; **FO+DR 19/0** — Ramah / Druze / Dahshat | **Infiltration + Camo**, cheap, efficient corner placement; FO version scores | **Irregular** and must Place DR. **Vanilla Haqq 19/0 FO** is recorded **without DR** in its pinned roster |
+| 2 | **S+** | **Zero DR 20/0** — Bakunin / Vanilla Nomads | **Infiltration + Camo**, low SWC/points, E/M Mine utility | Its **20pt DR** profile has **no Minelayer** |
+| 3 | **S** | **Naga FO+DR 25/0**, or HD+DR 29/.5 — ALEPH / OSS | **Infiltration + Camo + Dogged**, FO or upgraded HD utility as selected | Both DR options must Place; the Naga Minelayers carry **other** weapons |
+| 4 | **S** | **Scarecrow DR 26/0** — Kestrel / eligible Vanilla PanO | **Infiltration + Hidden Deployment + Mimetism(-6)**, D-Charges and a relatively inexpensive Repeater carrier | DR profile has **no Minelayer**; a Hidden Deployment trooper is not an active node |
+| 5 | **S** | **Spektr DR 28/0** — Tunguska / Vanilla Nomads | **Infiltration + Hidden Deployment + Mimetism(-6)**; protected angle, SMG/E/M Mine | The DR option has **no Minelayer** |
+| 6 | **S** | **Dasyu FO+DR 29/0** — ALEPH / OSS | **Infiltration + Hidden Deployment + Mimetism(-6)**, FO plus strong second-stage mobility | 30/.5 Viral-Mine Minelayer is another profile; no free DR |
+| 7 | **S** | **Croc Man FO+DR 30/0** — Varuna / eligible Vanilla PanO | **Infiltration + Hidden Deployment + Mimetism(-6)**, FO and X-Visor | Its 26/.5 Shock-Mine Minelayer is **not DR + Minelayer** |
+| 8 | **A+** | **Koga Ninja KHD+DR 30/0** — Imperial Service | **FD(+20) + Camo + Climbing Plus**, capable close-range KHD/CC specialist | The 28/.5 E/M-Mine Minelayer option has **no DR** |
+| 9 | **A+** | **Zhēnchá FO+DR 31/0** — Invincible Army | **Infiltration + Camo**, NWI, Climbing Plus and FO on an armored carrier | Its **32/.5 Minelayer** profile carries mines, not DR |
+| 10 | **A+** | **Arjuna + KiranBot-1 DR 32/0** (BSG), **33/0** (AP SMG), or **42/1.5** (Spitfire) — ALEPH/OSS/SP as legal | **FD(+20) on the synchronized DR-equipped KiranBot**, protected E/Marat/attacker package | Bot-1 must Place its carried DR; **Bot-2** is the distinct native-Repeater Turn-0 option |
+| 11 | **A (premium)** | **Umbra Legate HD+ + DR 42/.5** — Combined / Onyx | **FD(+20), NWI, Tactical Awareness**, own Hacker and physical forward reach | **42/.5 FD** option has DR but **no Minelayer**; 38/.5 **FTO Pitcher** is separate |
+| 12 | **A (package)** | **BambaDroid-3 DR/FO 13/0 + required Coyote** — Corregidor / eligible Nomads | Cheap **independent** DR/FO bot, but only legal with a Coyote in its Combat Group; **Coyote FTO19 + BambaDroid13 = at least 32pt** | BambaDroid-3 **does not have Forward Deployment printed**; non-FTO Coyote FD(+10) starts at **27pt** before the bot, so no automatic forward DR from the cheap 13pt sticker price |
+
+**Not misclassified as deployable-Repeater carriers:**
+
+- **Sartroids: Puzzlers** — Next Wave has Cyberplugged/infiltrating Peripheral capability, but its pinned **12–13pt** Puzzler options do **not print Repeater or Deployable Repeater**. Do not assign one without a different, verified parent effect.
+- **Krit Kokram FTO-2**, **Corregidor Bandit DR Minelayer**, **Sulsa DR Minelayer**, **Initiated Observant DR Minelayer**, **Guìláng DR Minelayer**, **Trinitarian FO DR Minelayer**, **Strider DR Minelayer** — already ranked in **Turn 0** above, rather than duplicating those same profiles as merely first-Order carriers.
+- **Arjuna KiranBot-2** and **Robin Hook** — **native** Repeaters, already active at deployment; no Place Order is needed to create the first coverage bubble.
+
+**Decision:** when going second, buy a **live Turn-0** node if it creates a meaningful Hacking Area. When going first or needing a precise wall/corner placement, a **Zero20/0, Hunzakut18/.5, Naga FO25/0** or similar forward DR carrier can be more efficient. A native Repeater never requires a placement Order, but can expose its carrier to counterhacking.
 
 ## 3. Best mobile Repeater
 
-**Value only.** Which piece most efficiently *moves a native Repeater* or *delivers a separate Deployable Repeater/FastPanda* after deployment? Reward cheap Regular Orders, starting position, safe delivery, useful non-network jobs and **actual total package cost**. A carried device is not online before its Place action; an off-table native Repeater becomes active only after arrival. This is **not** another Pitcher list.
+**Value only.** Which piece most efficiently *moves a native Repeater* or *delivers a separate Deployable Repeater/FastPanda* after deployment? See also the [forward/infiltrating DR carrier shortlist](#forward--infiltrating-deployable-repeater-carriers--early-turn-value-not-turn-0) directly above for profile-level comparisons without repeating every infiltrator in this list. Reward cheap Regular Orders, starting position, safe delivery, useful non-network jobs and **actual total package cost**. A carried device is not online before its Place action; an off-table native Repeater becomes active only after arrival. This is **not** another Pitcher list.
 
 | # | Value tier | Carrier / legal cost | Why it is good value | Dependency / downside |
 |---|---|---|---|---|
@@ -135,8 +165,8 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 | 9 | **S** | **Peacemaker native Repeater 23–27/0–.5** — eligible PanO | FD(+20) starts useful network forward; Auxbot and combat denial justify moving it | S4, Hackable; exact Minelayer/weapon profile matters |
 | 10 | **S** | **Team Sirius FO + Repeater SiriusBot 21/0** — Vanilla O-12 | FD(+20) synchronized native node, heavy Riotstopper and FO job | Bot has **no separate Regular Order** |
 | 11 | **S** | **Bulleteer native Repeater 19/0 BSG or 22/1 Spitfire** — eligible PanO | Fast gun/Repeater role in one active REM; can exploit legal Fireteams | Dedicated shooter risks exposure; verify team and selected variant |
-| 12 | **S** | **Hunzakut FO + carried Deployable Repeater 19/0** — Haqq | Infiltration + Camo allows short, protected Place Orders near targets | **Irregular** as rostered; does not preplace Turn-0 token |
-| 13 | **A+** | **Zero carried Deployable Repeater 20/0** — Bakunin / eligible Nomads | Infiltration, Camo and inexpensive corner placement | **No Minelayer** on the identified DR option |
+| 12 | **S** | **Hunzakut DR 18/.5**, or **FO+DR 19/0** where rostered (Ramah/Druze/Dahshat) | Infiltration + Camo allows a cheap protected Place Order near targets | **Irregular**; Vanilla Haqq **19/0 FO lacks DR in pinned roster**; no Turn-0 node |
+| 13 | **A+** | **Zero carried Deployable Repeater 20/0** — Bakunin / eligible Nomads | Infiltration, Camo and inexpensive corner placement | **No Minelayer** on the identified DR option; consult forward carrier table for Naga, Scarecrow, Spektr, Dasyu, Croc Man, Koga, Zhēnchá and Arjuna/KiranBot-1 |
 | 14 | **A+** | **Interventor KHD/FastPanda18/0 or HD+20/.5** — Tunguska | Cheap protected Hacker with reliable ZoC-range FastPanda delivery | Must approach and Place; Disposable (1) |
 | 15 | **A+** | **Fennec HD/FastPanda 16/.5** — Kestrel | Very cheap Hacker plus reliable around-corner node | Requires approach and placement Order |
 | 16 | **A+** | **SAA Regular HD/FastPanda 17/.5** — Acontecimento | Affordable team-compatible Hacker with deterministic nearby placement | No instant ranged Pitcher reach |
@@ -191,7 +221,7 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 
 | Matchup / intended play | Best starting point | Avoid |
 |---|---|---|
-| **Going second vs HI/TAG midfield rush** | **Turn-0** Moran, Observant, Guìláng, Trinitarian, SiriusBot or Peacemaker **plus live hacker** | A Pitcher plan that can only begin after the opponent's first turn |
+| **Going second vs HI/TAG midfield rush** | **Turn-0** Moran, Observant, Robin Hook, Bandit Minelayer, Guìláng, Trinitarian, SiriusBot or Peacemaker **plus live hacker** | A Pitcher plan that can only begin after the opponent's first turn |
 | **Need a node behind an inaccessible wall** | **Pitcher** from safe lane with +SD/X-Visor/legal FT; **FastPanda** if carrier can safely reach ZoC | Repeated BS10/11 long-range attempts without budget for misses |
 | **Enemy key Hacker hidden deep in DZ** | **Mobile** Meteor native AD or Jīnyào/Bearcat/Tomcat DR insertion | Calling a carried deployable an immediately active Repeater on landing |
 | **Already near a target / tight corner** | **Mobile** native REM or correctly placed DR/FastPanda | Paying for an expensive ranged launch when physical placement is safer |
