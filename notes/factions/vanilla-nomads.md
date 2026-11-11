@@ -13,6 +13,15 @@
 
 **Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-defenders-and-speed-bumps.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Apex / Good Value source](../list-building/classified-objective-runners-apex-and-value.md), matched to the [pinned vanilla roster](../../sectorials/nomads/nomads.md). Each rank is role-specific and belongs to the selected profile or explicitly priced multi-body package; no unrelated profile skills or Fireteam privileges are transferred.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it qualifies; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 10 (#10) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | [Top 3 (#2)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Hellcat Hacking Device + D-Charges 22/0.5** · [roster](../../sectorials/nomads/nomads.md) | **14/20** | Elite MI with Combat Jump/Parachutist: unusually good ability to enter the relevant enemy half for 22pts. W1 and landing exposure; different from Paramedic23/0. |
+| — | [Top 5 (#4)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Kulak FO + D-Charges 19/0** · [roster](../../sectorials/nomads/nomads.md) | **12/20** | Veteran MI, Mimetism(-3), 0SWC, FO and D-Charges. This is **not** the 20pt KHD option. |
+| — | [Top 10 (#7)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Casino Security Rounders HD 21/0.5** · [roster](../../sectorials/nomads/nomads.md) | **13/20** | Veteran **LI**, MSV1, Biometric Visor, NCO, HD and Marksmanship. **LI cannot claim Follow Up/Vigilance**; vanilla team bonuses are not presumed. |
+| — | [Top 10 (#9)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Kulak Killer Hacker + Carbonite 20/0** · [roster](../../sectorials/nomads/nomads.md) | **12/20** | Veteran MI, D-Charges, 0 SWC and Cybermine; **Carbonite is not Spotlight**, so different coverage from FO19. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned vanilla-nomads roster](../../sectorials/nomads/nomads.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
