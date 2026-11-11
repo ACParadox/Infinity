@@ -32,6 +32,15 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 10 (#7) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Caliban FO Vulkan26/0, Engineer28/0 or CoC29/0 (alternative Shasvastii profiles)** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Camo, FD+20, Protheion, martial assault and protected scoring; Engineer28/CoC29 only where explicitly printed in the sectorial roster. |
+| — | [Top 10 (#10) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Malignos FO 30/0 or KHD+Dazer 32/0** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Hidden Infiltration, Mimetism(-6), Regeneration, mines and either FO scoring or KHD/Dazer denial; not the same loadout. |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/shasvastii.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
@@ -81,11 +90,6 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | **Top 3 (#1 apex / #3 value) — Airborne/DZ attackers** | **Speculo Killer BSG 26/1** | S apex / S+ value: IMP-1, Smoke, Monofilament and deployment pressure; high SWC opportunity cost and screen vulnerability; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L115) / [Value ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L154) |
 
 - **Top 3 — ARO Units (apex): Noctifer Missile Launcher 30/1.5.** ([cross-faction S hidden ARO](../list-building/aro-units-apex-and-value.md#L53)) **S-tier** in the [ARO comparison](../list-building/aro-units-apex-and-value.md). Mimetism(-6), Hidden Deployment and a potential missile template change enemy movement before it appears; it supplies no normal Order while Hidden and may never reveal into the ideal attack.
-- **Top 5 — Jack-of-All-Trades / Toolbox Units (value): Caliban.** ([cross-faction S profile value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54))
-  - **Forward Observer 26/0:** ([cross-faction S Caliban FO](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54)) forward mission and close-combat threat.
-  - **Engineer 28/0:** ([cross-faction S Caliban Engineer](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54)) tech/repair role on the same dangerous chassis.
-  - **Chain of Command 29/0:** ([cross-faction S Caliban CoC](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54)) command contingency.
-  - The [toolbox rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) rate this family **S for points value**, not an imaginary all-in-one FO+Engineer+CoC profile. Each starts with one Wound before a successful Protheion gain.
 - **Top 10 — Midfield Area Denial & Speed Bumps (value): Shrouded Dazer Minelayer 21/0.** ([cross-faction A+ denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L103)) **A+** in the [midfield-denial ranking](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) for inexpensive marker/route pressure. **Shock Mine Minelayer 24/0.5** is a distinct loadout; Dazer needs meaningful approach terrain.
 - **Top 5 — TAGs (apex): Sphinx 93/2.** ([cross-faction S apex / C value](../list-building/tags.md#L108)) **S apex but C value** in the [TAG tiers](../list-building/tags.md). Fast Mimetism(-6), Climbing Plus and Hidden Deployment can dismantle an exposed flank; lack of general-purpose AP, price and retreat Orders make it **not** a top-five bargain.
 - **Sheskiin is an A+ Medium-range gunfighter apex (#4), but her 50pt Red Fury is outside the under-40pt ranged value table and is not an elite 32-inch gun.** ([cross-faction S rare assault](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#L87)) BS15, Nanoscreen, Protheion and CC can snowball through vulnerable infantry, and the [Red Fury 50/1 gunfighter apex](../list-building/active-turn-gunfighters-apex-and-value.md#L70) credits its BS15/Nanoscreen shooting; the [value-table cutoff](../list-building/active-turn-gunfighters-apex-and-value.md#L91) excludes this profile; the **MULTI Rifle 48/0** is a distinct close-assault profile, and Red Fury range does not make it an HMG.
