@@ -16,6 +16,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 10 (#10) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | [Top 10 (#7) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Trinitarian FO 22/0 or KHD 24/0** · [pinned local roster](../../sectorials/panoceania/military-orders.md) | Regular Camouflage/Infiltration/Mimetism(-6) and D-Charges; FO and KHD are distinct. **Military Orders legal**, not assumed available to vanilla PanO. |
+
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
