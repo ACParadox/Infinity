@@ -13,6 +13,12 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md).
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/yu-jing/invincible-army.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
+
+| Classified Apex | Classified Value | Legal local profile | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 10 (#8) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Hac Tao Hidden HD + Trinity 58/0.5** · [roster](../../sectorials/yu-jing/invincible-army.md) | **14/20** | This is the **exact** ranked loadout: Elite HI, WIP14/BS14, 2W, Mimetism(-6), Hidden Deployment, MSV1 and upgraded Trinity. The HMG/ML options do not inherit the hacking coverage. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned invincible-army roster](../../sectorials/yu-jing/invincible-army.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
