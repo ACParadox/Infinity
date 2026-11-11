@@ -9,16 +9,12 @@
 ### Whole-game standouts — apex versus points value
 
 **Top 3 / Top 5 / Top 10 mean editorial candidates *for the named role*, not official overall rankings or measured tournament results.** **Apex** means maximum effect in the right matchup; **value** includes entire package cost, SWC and real Order economy. The [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [VH](../list-building/vehicles-vh.md), [hackers](../list-building/hackers-and-killer-hackers.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) guides supply the cross-faction comparisons.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/aleph/operations-subsection.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
 | **[Top 3 (#1) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Asura HDplus + Trinity(+1SD) — 63/0.5** | WIP15, BTS6, ARM5, 2W+NWI, ECM:Hacker(-3), White Noise and upgraded Trinity; 67/0 Lieutenant(+1 Order) is an **OSS-only** alternative. [Pinned roster](../../sectorials/aleph/operations-subsection.md). |
-
-
-
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/aleph/operations-subsection.md).
 
@@ -35,7 +31,6 @@
 | **Top 3 (#2) — Force multipliers** | **Pilot-X RemDriver23/.5; +Mk-III RacerBot8/0 each** | **A+ / A+** | WIP14 Zero Pain Hacker, one REM buff, and separately paid mobile network/denial REMs; full package 31/.5 or 39/.5. RacerBots add native Regular Orders but must share Pilot-X's Combat Group. |
 | **Top 5 (#4) — Force multipliers** | **Apsaras RemDriver20/0** | **A+ / S** | Just +3pts versus the KHD17/0, adding a passive one-REM buff to a Firewall(-3) KHD/Deployable Repeater; different from the 18pt TAGCom variant or Vanilla ALEPH's 20/1 profile. |
 | **Top 10 (#7) — Force multipliers** | **Shukra Consultant CoC21/0** | **A- / A** | Counterintelligence + Chain of Command; WIP14, Biometric Visor and Discover(+3) add specialist command protection. It is not a Lieutenant profile. |
-
 
 | Whole-game role shortlist | Standout legal OSS profile/package | Why it merits the shortlist — and the limit | Cross-faction ranking evidence |
 |---|---|---|---|
