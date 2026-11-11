@@ -27,6 +27,12 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| — | **[Top 5 (#5) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rodok HD + Trinity — 24/0** | 0-SWC standard HD with Trinity on ARM3/BTS6, Mimetism(-3), Super-Jump and Fireteam eligibility where permitted. **Roster caveat:** Morat's abbreviated 24/0 Hacker entry does not explicitly name Trinity, while the same Rodok family in Onyx/Vanilla Combined does; rank conditional on the upgrade being present. [Pinned roster](../../sectorials/combined-army/morat-aggression-forces.md). |
+
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
