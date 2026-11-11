@@ -1,0 +1,108 @@
+# Classified Objective Runners — N5.3 Apex and Good Value
+
+_Updated 2026-11-11. Editorial list-building rankings, not measured win rates. Based primarily on the supplied **20-card Classified Objectives worksheet** and the current committed [sectorial/vanilla profiles](../../sectorials) and [N5.3 rules](../../rules/README.md). Related: [mission specialists](mission-specialists-and-button-pushers-apex-value.md), [toolbox units](jack-of-all-trades-toolbox-units-apex-value.md), [hackers](hackers-apex-and-value.md), [CoC](chain-of-command-apex-and-value.md), [Doctors/Engineers](doctors-engineers-and-recovery-apex-value.md)._
+
+## Scope and ranking method
+
+This ranking asks **which troop or purchased multi-body package can complete Classified cards**, not which unit is generally best at pushing buttons or fighting. Prioritize:
+
+1. **Real card coverage on the selected profile**, including troop **classification** (Veteran/Elite), troop type (MI/HI), and explicitly printed skills/equipment. Do **not** combine distinct FO / Hacker / Engineer / CoC profiles as if one model had all four.
+2. **Access to the required place and target:** Infiltration, Forward Deployment, Camo/Hidden, fast MOV, smoke/Eclipse, Climbing/Super-Jump, Fireteam delivery, and multiple bodies often matter more than 1 extra WIP.
+3. **Chance to finish and survive:** WIP14–15, NWI/2W, marker states, protected paths, ability to remove a guard, and the Orders left after arrival. A difficult enemy-HVT contact card is not equivalent to a safe near-side console.
+4. **List price versus opportunity cost:** Value includes points, SWC, Order pool, necessary teammates, how often the profile also earns its keep when a different Classified is drawn, and risk to the Lieutenant/succession plan.
+
+**Apex** ranks the strongest *practical* Classified packages; **Good Value** separately rewards cost-to-coverage and sensible deployment. A model can appear in both lists. Grades are comparative: **S** exceptional, **A+** particularly strong, **A** strong but conditional. These are not probability estimates.
+
+**Important:** The *Veteran Troops / Elite Troops* **troop classification** is different from the **Veteran skill**, and **Spec. Trained Troops** or **Character** does not automatically qualify. **Specialist Operative** by itself is not a substitute for Doctor, Engineer, Hacker, FO, CoC, Veteran, or Elite on these cards. Do not credit an ordinary KHD with Spotlight unless the actual option grants it. The generic HD/HD+ Spotlight program does count for the two Spotlight Classifieds; the [official N5 ITS FAQ](https://infinitythewiki.com/ITS_FAQ) confirms successful Spotlight rolls are what count, **not** whether the target ends up Targeted.
+
+## Which capabilities unlock the 20 cards?
+
+_Counts are **potentially eligible cards**, not independent bonuses; one card can be covered by several skills. The CSV's category counts are retained below. A unit must still meet its card's actual target, position, roll, timing, and equipment conditions._
+
+| Printed skill/type | Cards it can qualify for | Why it matters |
+|---|---:|---|
+| **Hacker with Spotlight** | **6** | Suspected Infiltration, Mapping, HVT: Designation, Telemetry, Data Scan, HVT: Espionage. A KHD without Spotlight covers fewer. |
+| **Veteran or Elite classification** | **5** | Suspected Infiltration, Industrial Espionage, Capture, HVT: Kidnapping, Net Undermine. Physical access and keeping a target in the relevant state matter. |
+| **Chain of Command** | **4** | HVT: Assassination, Capture, HVT: Kidnapping, Net Undermine. Also a command-insurance cost, not a license to risk the only successor. |
+| **Doctor** | **4** | Suspected Infiltration, HVT: Inoculation, Combat Support, Nanoespionage. |
+| **Engineer** | **4** | Combat Support, Nanoespionage, HVT: Reverse Engineering, Industrial Espionage. |
+| **Forward Observer** | **4** | Industrial Espionage, Mapping, HVT: Designation, Telemetry. |
+| **Paramedic** | **3** | HVT: Inoculation, Combat Support, Nanoespionage. |
+| **MI or HI troop type** | **2** | HVT: Follow Up and Vigilance. Being a specialist is not required by these two. |
+| **Biometric Visor / MSV / Sensor** | **1** | HVT: Identity Check. |
+| **D-Charges** | **1** | Sabotage: physically place them on valid scenery in the enemy half. |
+| **Lieutenant / NCO** | **1** | HVT: Assassination (also covered by CoC); a Lieutenant is usually a bad unit to expose for it. |
+| **CC attacks** | **1** | Predator requires **two enemies** put into the relevant state by CC Attacks; almost everyone can theoretically attempt it, but true CC delivery should be weighted heavily. |
+
+**Overlap examples:** Doctor + Engineer covers **six** distinct cards before D-Charges/MI/HI; FO + Hacker overlaps on Mapping/Designation/Telemetry; CoC + Veteran/Elite overlaps on Capture/Kidnapping/Net Undermine. An ordinary Specialist Operative cannot be counted as a wildcard for the whole deck. An attached Servant, synchronized bot, G:Jumper proxy and Fireteam member have their own activation, contact, and scoring restrictions.
+
+## Classified Objectives — Apex ranking
+
+_Ordered by practical combination of card breadth, access, task reliability, survival, and second job—not raw card count alone. Prices are **pts/SWC** from the linked main-branch profiles._
+
+| # | Tier | Unit / **exact qualifying option** | Standout access and Classified jobs | Main limitation |
+|---:|:---:|---|---|---|
+| 1 | **S** | [**Zoe FTO + Π-Well FTO 42–45/0.5**](../../sectorials/nomads/bakunin.md) — Bakunin / [Nomads](../../sectorials/nomads/nomads.md) | A **paid two-body package**: Zoe WIP15 **HD + Engineer + D-Charges**, Π-Well MOV15-10 **FO + Sensor + Repeater**. Exceptional spread across hacking, repair, Targeted, HVT Identity and Sabotage, with different bodies reaching different places. | Do **not** project Zoe's Engineer or D-Charges through Π-Well, or give Π-Well Zoe's hacking. Zoe is W1; FTO/linked composition and exact 42 vs 45 gun matter. |
+| 2 | **S** | [**Dàofěi HD 52/0.5**](../../sectorials/yu-jing/white-banner.md) — White Banner / [Yu Jing](../../sectorials/yu-jing/vanilla-yu-jing.md) | **Veteran HI + full Hacker + D-Charges**, 2W, Infiltration/Camouflage, 15-5 and MULTI Rifle. An unusually broad *single forward body* for the enemy half, HVT, hacking and Sabotage. | 52pts and hackable; **Lieutenant Hacker** is a distinct same-price option that adds one qualifying role but puts command at risk. |
+| 3 | **S** | [**Strider FO 29/0**](../../sectorials/o-12/torchlight-brigade.md) — Torchlight | **Veteran HI + FO + NCO + D-Charges** with FD(+20), Camo, NWI and Shock Mine: covers Veteran/Elite-type, HI, FO, HVT assassination and Sabotage roles while starting near them. | WIP13, 1W+NWI, hackable and no actual Hacking Device; FO **29** is not the **27** Specialist Operative. |
+| 4 | **S** | [**Shikami 47/0 D-Charges**](../../sectorials/jsa/jsa.md) — JSA / Ōban | **Elite HI**, FD(+10), Eclipse, Mimetism(-6), Climbing Plus, Super-Jump, 2W and MA3. Excellent at *physically completing* Capture, Kidnapping, Net Undermine, HI cards, Sabotage and potentially Predator. | **42/0** alternative lacks D-Charges. Neither profile is a Hacker/FO/Doctor; 47pt opportunity cost. |
+| 5 | **S** | [**Malignos HD 34/0.5**](../../sectorials/combined-army/shasvastii.md) / [**Onyx**](../../sectorials/combined-army/onyx.md) | **Veteran SK + HD + D-Charges** behind Hidden Deployment, Infiltration, Mimetism(-6), 15-5 and Regeneration. Hard-to-prevent entry into the HVT/enemy-half area with broader program access than its KHD. | W1; **KHD 32/0** and **FO 30/0** are different options; do not credit their Dazer or FO to HD. |
+| 6 | **A+** | [**Pheasant Agent HD 28/0.5**](../../sectorials/yu-jing/imperial-service.md) — Imperial Service | **CoC + HD + MI** on one WIP14 model: CoC contact cards, Spotlight/other Hacker cards, and MI cards; potentially moves with an eligible team. Unusually concentrated card eligibility. | Not a Veteran/Elite merely because of officer title; W1, no personal advanced deployment. KHD26 and Doctor27 are **other** CoC options. |
+| 7 | **A+** | [**Bagh-Mari HD 29/0.5**](../../sectorials/panoceania/shock-army-of-acontecimento.md) — Acontecimento | **Veteran MI + HD + MSV1 + NCO**, WIP13, Mimetism(-3), Warhorse; tremendous category breadth in a team escort, including HVT: Identity Check and HVT: Assassination. | Needs a safe move up-table for enemy-half/HVT cards; the **FO22 D-Charges** option is separate. |
+| 8 | **A+** | [**Wildcat HD 27/0.5**](../../sectorials/nomads/corregidor.md) — Corregidor | **Veteran MI + HD + MSV1 + D-Charges**, Zero Pain upgrade and Deployable Repeater, with credible BS13/link-supported advance. Extremely broad for 27pts. | Foot delivery and W1; Engineer25 / KHD26 **cannot** be merged into the HD profile. |
+| 9 | **A+** | [**Sophotect Doctor+Engineer 25/0**](../../sectorials/aleph/operations-subsection.md) — ALEPH/OSS | WIP15, MOV15-10, NWI, **Doctor + Engineer + D-Charges + MI**: fast, robust enough for repeated technical/HVT cards and useful on ordinary recovery turns. | No Hacker/FO; most medical/Engineer interactions require the *actual* bearer to reach the target, not just a Servant. |
+| 10 | **A+** | [**Black A.I.R. FTO HD 26/0.5**](../../sectorials/panoceania/panoceania.md) — PanO | **Veteran MI + HD + MSV2 + D-Charges**, Mimetism(-3), BS13; outstanding theoretical eligibility with practical vision help for an exposed HVT route. | One Wound and no personal FD; **FO 29/0.5** and parachuting **KHD31/0** are separate, not upgrades to HD26. |
+| 11 | **A+** | [**Tai Sheng CoC+FO 36/0 / 40/0**](../../sectorials/yu-jing/invincible-army.md) — Invincible Army | **HI + CoC + FO + NCO**, WIP14, 2W and Warhorse: excellent protected contact/HVT/FO scorer inside the right advance. | Do not mix **36pt Thunderbolt** with **40pt TinBot**; no D-Charges or Hacking Device. |
+| 12 | **A+** | [**Asura HDplus 63/0.5**](../../sectorials/aleph/operations-subsection.md) — ALEPH/OSS | **Elite HI + HDplus + MSV3**, WIP15, 2W+NWI, ARM5 and a gun that can open its scoring corridor. Exceptional survivability and category spread if already an attacker. | Immense investment, hackable, and **not** naturally Infiltrating. **67pt LT hacker** is a different riskier eligibility choice. |
+| 13 | **A** | [**Sukeul FO 29/0**](../../sectorials/tohaa/tohaa.md) — Tohaa | **Veteran classification + FO + D-Charges**, active 2W Symbiont, K1 Combi and Triad delivery. Strong repeated scoring while remaining dangerous in combat. | No Camo/forward start like Clipsos; WIP13 and needs a Triad or clear route to enemy-half targets. |
+| 14 | **A** | [**Caliban Engineer28 / FO26 / CoC29, all 0 SWC**](../../sectorials/combined-army/shasvastii.md) — Shasvastii | FD(+20), Camo, Protheion, CC23/MA3 and D-Charges make a surprisingly practical physical HVT/Sabotage/Predator threat. Pick **Engineer**, **FO** or **CoC** for the specific Classified mix. | **Never combine their qualifications on one Caliban**. WIP13, W1 before Protheion and no Hacking Device. |
+| 15 | **A** | [**Parvati Doctor+Engineer 36/0**](../../sectorials/o-12/starmada.md) — Starmada / eligible ALEPH | WIP15 dual technical scorer, STR2/Remote Presence, Super-Jump, and excellent frontline recovery/repair; can survive the trip and return to general mission work. | Fewer *categories* than Veteran/Hacker hybrids, costs 36, and Doctor(2W)/Engineer(+3) do **not** modify unrelated Classified rolls. |
+
+**Apex distinction:** The 26–29pt Veteran/MI hackers are genuinely high-coverage models, but they lose time to distance; the more expensive Dàofěi/Shikami and concealed Malignos are stronger at completing hostile-half cards. The Zoe package wins on distributed skills, **not** because either half can perform every task. No Team-Ops/Spec-Ops-only builds are ranked here.
+
+## Classified Objectives — Good Value ranking
+
+_These are independent **value** judgments. A 15pt cheap FO may cover fewer cards but still be optimal as the second/third specialist. The best bargain is not necessarily the best unsupported solo HVT runner._
+
+| # | Value | Unit / exact profile | Why it earns a slot | Trade-off |
+|---:|:---:|---|---|---|
+| 1 | **S+** | [**Wildcat HD27/0.5**](../../sectorials/nomads/corregidor.md) — Corregidor | Veteran MI / Hacker / MSV1 / D-Charges and a Repeater at very reasonable cost; one of the most concentrated single-body solutions. | Requires travel/team support. |
+| 2 | **S+** | [**Black A.I.R. HD26/0.5**](../../sectorials/panoceania/panoceania.md) — PanO | One point cheaper than Wildcat, better MSV2 and Mimetism(-3), with Veteran MI, Hacker and D-Charges. | FTO and W1; lacks a self-delivery trick. |
+| 3 | **S+** | [**Strider FO29/0**](../../sectorials/o-12/torchlight-brigade.md) — Torchlight | Exceptional Veteran HI / FO / NCO / D-Charges overlap, Camo, FD(+20) and NWI for 29/0. | Not a Hacker; high temptation to risk NCO scorer. |
+| 4 | **S+** | [**Ment Agent FTO HD+CoC20/0.5**](../../sectorials/o-12/starmada.md) — O-12/Starmada/Torchlight where legal | **CoC + full Hacker + Biometric Visor** for 20pts, broad eligibility, cheap protected reserve and useful Specialist. | W1, low mobility; FTO/Fireteam route and exact army access matter. |
+| 5 | **S+** | [**Pheasant Agent HD+CoC28/0.5**](../../sectorials/yu-jing/imperial-service.md) — ISS | WIP14 HD, CoC and MI on **one** profile; strong coverage for under 30. | Usually advances via a team, not solo Camo. |
+| 6 | **S+** | [**Raveneye FO+CoC18/0**](../../sectorials/o-12/torchlight-brigade.md) — Torchlight | FO is a base skill even on the **18pt CoC** Holomask option; adds both FO and CoC card families at zero SWC. | WIP13/W1 and no FD; ensure HVT contact is achievable without revealing the succession piece too early. |
+| 7 | **S** | [**Bagh-Mari HD29/0.5**](../../sectorials/panoceania/shock-army-of-acontecimento.md) — Acontecimento | Veteran MI + Hacker + MSV1 + NCO; broadest roles for a moderate linked model. | Not an independent infiltrator. |
+| 8 | **S** | [**Sophotect25/0**](../../sectorials/aleph/aleph.md) — ALEPH/OSS | WIP15, rapid Doctor/Engineer, D-Charges and MI tasks for 25pts; also prevents expensive unit losses. | 1W+NWI; no Hacker. |
+| 9 | **S** | [**Med-Tech Obsidon21/0**](../../sectorials/combined-army/onyx.md) — Combined/Shas/Onyx | MOV15-10 Doctor+Engineer+D-Charges, WIP14, **21pts**. Strong cheap technical answer with normal healing/repair utility. | LI and W1; a Slave Drone is not an independent Classified scorer. |
+| 10 | **S** | [**Kumotail21/0**](../../sectorials/tohaa/tohaa.md) — Tohaa | Doctor + Engineer + D-Charges in a Triad-eligible WIP14 body, with a natural support role. | MOV10-10, W1 and no hacking; Triad use is a paid list decision. |
+| 11 | **S** | [**Makhai FO29/0**](../../sectorials/aleph/steel-phalanx.md) — Steel Phalanx | **Veteran MI**, FO and D-Charges, MSV1 and Tactical Awareness; the extra personal Order helps reach a task while keeping the normal pool. | No Camo/FD; K1 gun and link must justify the 29pts. |
+| 12 | **S** | [**Posthuman Mk.1 Engineer13/0 + Mk.5 FO13/0.5**](../../sectorials/aleph/operations-subsection.md) — ALEPH/OSS | 26/0.5 buys forward FO and a WIP15 Engineer with D-Charges in **different** Proxy bodies; great combined eligibility and second jobs. | Minimum two proxies, **one G:Jumper trooper**; they are not two independent Orders, and Mk.1 Doctor is a different choice. |
+| 13 | **S** | [**Zoe+Π-Well 42–45/0.5**](../../sectorials/nomads/bakunin.md) — Bakunin / Nomads | Costly in absolute terms, but unparalleled breadth and a real Engineer/Hacker plus FO/Sensor Repeater two-body contribution. | Must buy package and respect two-body positioning/activation rules. |
+| 14 | **A+** | [**Dokkaebi KHD+Spotlight22/0**](../../sectorials/yu-jing/white-banner.md) — White Banner | Zero-SWC KHD **explicitly with Spotlight**, HI-type cards and a Pitcher; more Classified flexibility than normal KHD. | **HD23/0.5** is separate; one-STR/NWI hackable body. |
+| 15 | **A+** | [**Moran FO+Repeater 15–17/0.5**](../../sectorials/nomads/corregidor.md) — Corregidor | Infiltrating regular FO with Koalas and a Repeater, **17pt** Combi variant adds D-Charges. Very low Orders-to-target cost. | 15pt BSG **has no D-Charges**; Camo versions drop Repeater. |
+| 16 | **A+** | [**Farzan FO22/0 / CoC24/0**](../../sectorials/haqqislam/hassassin-bahram.md) — Hassassin/Haqq | Two inexpensive Camo/Infiltrating choices: **FO22 brings D-Charges**, **CoC24 brings Capture/Kidnapping/Net/Assassination** eligibility. | **Spec. Trained is NOT Veteran/Elite**, so do not claim all five Veteran cards; no combination of the two roles on one profile. |
+| 17 | **A+** | [**Fennec FO+Sensor13/0**](../../sectorials/panoceania/kestrel-colonial-force.md) — Kestrel | Two useful sets for only 13pt: FO card group and Identity Check via Sensor, with a Regular pooled Order. | WIP12, rear start, fragile; no D-Charges/Hacking Device. |
+| 18 | **A+** | [**Ghulam HD16/0.5**](../../sectorials/haqqislam/hassassin-bahram.md) / [**FO12/0**](../../sectorials/haqqislam/hassassin-bahram.md) — Haqq/Hassassin | WIP14 cheap full Hacker (with Spotlight) or FO; buys many theoretical cards and a Regular Order for modest points. | No concealment/FD, and the two options are **alternatives**; hard HVT or enemy-DZ jobs may cost several movement Orders. |
+| 19 | **A** | [**Fiddler FTO Engineer29/0**](../../sectorials/nomads/tunguska.md) — Tunguska | MOV15-10, NWI, Super-Jump, Engineer, D-Charges and CC attack: excellent fast Sabotage/Reverse Engineering runner. | Engineer-only classification family; **36/43pt JackBot packages** are distinct and bots do not gain Engineer. |
+| 20 | **A** | [**Caliban Engineer28/0, FO26/0 or CoC29/0**](../../sectorials/combined-army/shasvastii.md) — Shasvastii | Camo/FD(+20)/D-Charges/CC plus one chosen role gives excellent Order economy near HVTs or enemy-half scenery. | No single 26–29pt Caliban possesses all three role skills. |
+
+### Practical decisions by Classified type
+
+| Drawn card(s) | Favor | Avoid |
+|---|---|---|
+| **Capture, HVT: Kidnapping, Net Undermine** | Already-forward **Veteran/Elite/CoC** with protection: Strider, Malignos, Dàofěi, Shikami, Farzan CoC, Caliban CoC | A slow cheap CoC hidden in DZ if moving it loses the command plan |
+| **Mapping, Designation, Telemetry, Data Scan, HVT: Espionage** | A **full HD/HDplus with Spotlight**, a Spotlight-upgraded KHD, or a forward FO for the FO-eligible subset | A plain KHD credited with Spotlight; a backline Hacker asked to walk into enemy DZ |
+| **Combat Support, Nanoespionage, Inoculation, Reverse Engineering** | Sophotect, Med-Tech, Kumotail, Parvati, or a suitably positioned Doctor/Engineer/Paramedic for the exact card | Assuming the Servant can automatically perform **all** the controller's Classified actions |
+| **Sabotage** | D-Charges with FD/Infiltration/MOV (Strider, Malignos, Caliban, Dàofěi); Zoe when a protected route exists | A listed profile that lacks charges, or a multi-body package using the wrong body |
+| **Identity Check, Follow Up, Vigilance, Assassination** | Correct **MSV/Sensor/Biometric**, **MI/HI**, or **LT/NCO/CoC** respectively, with a genuinely reachable HVT/enemy troop | Confusing **Specialist Operative** with the specific printed requirement |
+| **Predator** | A real **CC assault** package such as Shikami or Caliban with two reachable targets and enough Orders | Treating a 1-CCW technical specialist's theoretical eligibility as reliable execution |
+
+## Rules and evidence guardrails
+
+- **20-card source:** the supplied “List of Classifieds - Sheet1.csv” is the input inventory. This guide intentionally does **not** republish card text as an authoritative tournament document; check the current ITS packet and exact conditions before play.
+- **Official FAQ:** [ITS FAQ](https://infinitythewiki.com/ITS_FAQ) says successful **Spotlight rolls** complete Telemetry/Designation as required, even without imposing Targeted. [Hacking Device rules](https://infinitythewiki.com/Hacking_Device) distinguish HD/HDplus from KHD upgrades.
+- **Independent check:** [Infinity: The Classifieds profile leaderboard](https://www.infinitytheclassifieds.com/rankings) independently flags Zoe+Π-Well and many Veteran MI/Hacker combinations as exceptionally broad. Its public index identifies **v5.7.3**, whereas this repository's guides are pinned as **N5.3**. **Do not import website-specific point costs, troop upgrades or exact 20-card scores into the repository without reconciling the version.** These rankings prioritize the current **committed main-branch** profile text.
+- **Classification audit:** linked roster summaries sometimes abbreviate unit data to MI/HI/SK. Veteran/Elite entries were checked against the current unit classification where explicit (e.g., Striders and Shikami) or cross-checked against the external unit/classification index; **reconfirm in the official Army builder for your active tournament version**, especially when moving a model across sectorials.
+- **Concealment and position:** Hidden Deployment gives access but may withhold its Order until revealing. Camouflage does not eliminate the need to meet LoF/contact/HVT movement/target-state requirements.
+- **Matchups matter:** An opponent with no valid enemy specialists, high-value HVT exposure, or isolated enemy-DZ scenery can make a theoretically broad candidate practically unhelpful. Build **two complementary runners** rather than relying on one expensive universal answer.
