@@ -13,6 +13,7 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 3 (#2) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 3 (#1) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Karakuri FO HSG or E/Mitter 31/0** · [local roster](../../sectorials/na2/ikari-company.md) | STR3, ARM3/BTS6, Enhanced Immunity and self-GizmoKit with Chain Rifle/Panzerfaust; **Ikari AVA2**, not automatically linkable. Distinct 31pt gun options. |
+
 **Top 3/5/10** denote qualitative shortlist *candidates for the specified role*, not an overall global ranking. **Apex** is peak matchup output; **value** includes points and Orders. Compare [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned ikari-company roster](../../sectorials/na2/ikari-company.md).
