@@ -15,7 +15,7 @@
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
 |---|---|---|---|
-| **Pitcher Value #2 · S+** | **Barid FO/Pitcher 12/0; KHD14/0; HD16/.5** — Hassassin | Cheapest practical projector/Hacker role choice with legitimate Ghulam Fireteam support **Limit:** **BS11** unlinked; 12pt FO does not hack | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
+| **Pitcher Value #2 · S+** | **Barid FO/Pitcher 12/0; KHD14/0; HD16/.5** — Vanilla Haqqislam | Cheapest practical projector/Hacker role choice with legitimate Ghulam Fireteam support **Limit:** **BS11** unlinked; 12pt FO does not hack | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/haqqislam.md), with explicit caveats where its upgrade detail is abbreviated.
 
