@@ -10,6 +10,13 @@
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/yu-jing/invincible-army.md) controls profiles, SWC and Fireteam eligibility.
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
+|---|---|---|---|
+| **[Top 5 (#4) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Hac Tao HD + Trinity — 58/0.5** | WIP14, ARM5/BTS6 and 2W; Hidden Deployment plus complete HD/Trinity control. The HMG/ML are other loadouts.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
+| **[Top 10 (#9) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Zhēnchá HD + Trinity — 34/0.5** | WIP13, ARM3/BTS6, NWI, Infiltration, Camouflage and Trinity; a concealed midfield controller, not a high-WIP duelist.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
+
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
 
 
