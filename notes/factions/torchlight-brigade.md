@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
+**Top 3 / Top 5 / Top 10 mean editorial, role-specific cross-faction shortlist *candidates*, not measured universal rankings, win rates or guarantees.** Apex means high ceiling in the stated role; value means points, SWC and useful Orders. Compare the [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [TAG shooting](../list-building/active-turn-gunfighters-apex-and-value.md) and [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md) guides.
 
 
 
@@ -14,6 +14,14 @@
 
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/o-12/torchlight-brigade.md) are counted.
+
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/o-12/torchlight-brigade.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 10 (#9) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | **[Top 10 (#9) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Moonraker Adhesive Launcher Rifle + Shock Minelayer, 15/0.5** | FD(+20), one-use Camo, prepaid Shock Mine and live Adhesive disablement; Regular but STR1. |
+| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo and Heavy Flamethrower plus anti-heavy shot; carried AP Mine is not prepaid, and the 9pt FTO is DZ-only. |
 
 | KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
 |---|---|---|---|
@@ -27,7 +35,6 @@
 | **Top 10 (#9) — Dedicated CC Assassins (apex)** | [**Nightshades SMG 31/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L132) | CC22/MA3, Hidden, FD(+20), Mimetism(-6), E/M(PS6) and PARA(-6); Excellent concealed disabling ambush against hackable heavies; E/M/PARA is not automatic lethality. |
 | **Top 10 (#10) — Frontline CC Combatants (apex)** | [**Hippolyta 37/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L157) | CC24/MA3, EXP, Berserk, Mimetism(-6), Smoke, Super-Jump, 2W, Limited Cover; Exceptional independently mobile assault, but less resilient/useful after contact than several higher-ranked hybrids. |
 | **Top 3 — Network Projection (value)** · [**KHD (HD separate): A apex / S value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **[Waverider KHD + Pitcher 20/0](../list-building/network-projection-repeaters-pitchers-apex-value.md#L39)** | A+ projector ceiling / S+ points value: BS12, Mimetism(-3), KHD Trinity and a Pitcher with Silverstars access. **HD + Oblivion(+1B) 22/0.5** is a *different* profile; the KHD does not inherit its anti-HI/TAG programs. **Revised Hacker guide:** Waverider KHD20/0 is A apex/S value as a KHD; its separate 22/0.5 HD with Oblivion(+1B) is also A apex/S value in standard Hacker rankings. Top 3 refers to the independent network/Pitcher value shortlist, not a numbered KHD ranking. |
-| **Top 5 — Midfield Area Denial & Speed Bumps (value)** | **[Moonraker Minelayer 15/0.5](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L101)** | A+ apex / S value as a forward roadblock: FD(+20), Camo(1 Use), prepaid Shock Mine, Adhesive Launcher Rifle and Heavy Shotgun. Fragile STR1 and one-use Camo. |
 | **Top 5 — Command Units (value)** | **[Raveneye LT(+1 Order) 17/0](../list-building/command-units-apex-and-value.md#L112)** | S-tier command value when supported by NCO: Holomask, FO, E/M Minelayer and two personal LT Orders. Without a useful NCO recipient, the extra Orders are largely stranded. **CoC18** is a different profile. |
 | **Top 10 — Vision Control (value)** | **[Kludger Engineer + Disco Baller 23/0](../list-building/vision-control-units-apex-and-value.md#L169)** | WIP14, Warhorse, Mimetism(-3), Super-Jump, Engineer/Deactivator and Disco/Eclipse on one legal team supporter. Costs much more than a disposable smoke warband; choose for both repair and lane control. |
 | **Top 10 — Network Projection (value)** | **[Oko Tactical Awareness 18/0](../list-building/network-projection-repeaters-pitchers-apex-value.md#L102)** | FO, Sensor, Repeater, mobility and a personal activation. **15/0** cheaper option if it seldom acts; **no RoadBot/Oko Duo in Torchlight**. |
