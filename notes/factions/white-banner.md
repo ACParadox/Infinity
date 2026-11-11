@@ -11,11 +11,20 @@
 ### Whole-game standouts — apex versus value
 
 
-**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/yu-jing/white-banner.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 5 (#4) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Gūdǎn SMG/Zapper + Shock Mine, one-use Camo, 12/0** | FD(+10) and Regular Order provide a live E/M template, but the carried Shock Mine is not predeployed; 11pt FTO is DZ-only. |
+| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo and Heavy Flamethrower/Panzerfaust; mine is carried, not preplaced, and the 9pt FTO is DZ-only. |
+| — | **[Top 10 (#10) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Yáofáng Lóng Yá SMG/Panzerfaust/Flammenspeer/AP Mine, 16/0** | FD(+10), Camo, Regular REM and disposable long threats; mine is carried (17/0.5 Minelayer is distinct); +1B does not raise normal ARO Burst. |
 
 | Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
 |---|---|---|---|
@@ -45,7 +54,6 @@ These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades
 | **Top 10 (#10) — Budget CC Value (value; ≤22 pts)** | **Hwarang LSG+Panzerfaust 19/0** | CC22/MA3, EXP, 2W, ARM3, Albedo(-3); Unusually durable and lethal for 19pt; less independent vision delivery than Smoke warbands. | [#10 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L186) |
 | **Top 5 (#4) — Budget CC Value (value; ≤22 pts)** | **Liang Kai 21/0** | CC23/MA4, EXP, Berserk, FD(+10), Super-Jump, NWI; Strong penetrating melee with modest forward start; one Wound plus NWI. | [#4 B](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L180) |
 | **Top 3 — Warbands and Cheap Trading Units (value)** | **Shaolin Chain Rifle + Smoke 5/0** | **S+** cost efficiency: extremely cheap credible Smoke and MA3 close combat. The **6/0 DA CCW** variant is separate; Irregular/Impetuous does not mean a free pooled Regular Order. | [S+ — cheap warband value](../list-building/warbands-and-cheap-trading-units-apex-value.md#L118) |
-| **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Gūdǎn SMG + Zapper 12/0** | **A+ apex / S value** from one-use Camo, FD(+10), E/M direct template and a carried Shock Mine. **Not** Minelayer; limited range. | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L77) |
 | **Top 10 — Network Projection (value)** | **Fēiquán E/M + Pitcher 28/0** | Aerial/Sensor/Mimetism(-6) create a strong network-angle tool. It is a large, Hackable **S7/No Cover** vehicle, with no standard lethal primary gun on that profile. | [S apex / A+ value](../list-building/network-projection-repeaters-pitchers-apex-value.md#L35) |
 | **Top 10 (#8) — Nanoscreen / Albedo (A+ / A (vs MSV))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#nanoscreen-albedo-and-asymmetric-protection--their-own-niche) | **Yín-Shé Marksmanship K1 Sniper 27/.5** | Albedo (-6) + **Marksmanship only on K1 Sniper option**; BS13/low SWC premium anti-visor cover-duel specialization. **Limit:** 22pt Combi/26pt MMR options lack Marksmanship; no native MSV. | [#8 Nanoscreen / Albedo](../list-building/bs-mod-stacking-units-apex-and-value.md#nanoscreen-albedo-and-asymmetric-protection--their-own-niche) |
 
