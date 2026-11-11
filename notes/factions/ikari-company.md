@@ -8,6 +8,11 @@
 
 ### Whole-game standouts — apex versus value
 
+**Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. These are role-specific placements, not overall army ratings; separate loadouts and Fireteam rights do not combine.
+
+| Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|
+| [Top 3 (#2) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 3 (#1) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Karakuri FO HSG or E/Mitter 31/0** · [local roster](../../sectorials/na2/ikari-company.md) | STR3, ARM3/BTS6, Enhanced Immunity and self-GizmoKit with Chain Rifle/Panzerfaust; **Ikari AVA2**, not automatically linkable. Distinct 31pt gun options. |
 **Top 3/5/10** denote qualitative shortlist *candidates for the specified role*, not an overall global ranking. **Apex** is peak matchup output; **value** includes points and Orders. Compare [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned ikari-company roster](../../sectorials/na2/ikari-company.md).
@@ -29,7 +34,6 @@
 | Whole-game role shortlist | Unit / profile | Why; caveat | Ranking evidence in another guide |
 |---|---|---|---|
 | **Top 10 (#10) — Dedicated CC Assassins (apex)** | **Ninja Tactical Bow 24/0** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6); Strong low-price concealed CC delivery; no Monofilament and only one Wound. | [#10 A](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L133) |
-| **Top 5 — Objective Holding / Zone Domination / Carried Objectives (value)** | **Karakuri FO 31/0** | Cross-faction **S+ value**: STR3, Enhanced Immunity and real scoring. **AVA2 in Ikari, but not Fireteam-linkable**; hacking/transit still matter. | [S+ Ikari Karakuri](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L174) |
 | **Top 5 — Warbands and Cheap Trading Units (value)** | **Motorized Yojimbo 20/0** | Smoke, CrazyKoala Minelayer, NWI, CC24/MA4/DA and mobility: **A+ cross-faction** value. Irregular/Impetuous, mutually exclusive with foot form. | [A+ Yojimbo](../list-building/warbands-and-cheap-trading-units-apex-value.md#L132) |
 | **Top 5 — Warbands and Cheap Trading Units (value)** | **Yuan Yuan 6/0** | Extremely inexpensive flank/smoke/Chain Rifle threat; Irregular, not a reliable scoring specialist. | [S Yuan Yuan](../list-building/warbands-and-cheap-trading-units-apex-value.md#L125) |
 | **Strong value link attacker; not a global Top 10 claim** | **Wú Míng AP HMG 33/1.5** | Affordable AP pressure relative to the 50pt Daiyōkai HMG; dependent on proper Fireteam and range. | **AP HMG not independently tiered.** Related profile: [A+ Wú Míng GL, not AP HMG](../list-building/indirect-fire-speculative-guided-apex-value.md#L72) |
