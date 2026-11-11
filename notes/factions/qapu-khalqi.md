@@ -8,17 +8,16 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 are editorial *role-specific* cross-faction candidates**, not universal all-unit ranks, measured win rates or official tiers. *Apex* is peak matchup impact; *value* compares points/SWC/Orders. Anchors: [command](../list-building/command-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [Vehicles](../list-building/vehicles-vh.md), [vision control](../list-building/vision-control-units-apex-and-value.md) and [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md).
+
+**Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/qapu-khalqi.md), with explicit caveats where its upgrade detail is abbreviated.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | — | **[Top 3 (#3) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Leila Sharif KHD + Carbonite/Firewall(-3) — 22/0** | WIP14, 0SWC and upgraded KHD support against both Hackers and HI; no HDplus, Oblivion or Spotlight. Team permissions are faction-specific. Qapu Wildcard, counts as Ghulam. **Roster caveat:** its abbreviated 22/0 KHD option omits the Carbonite/Firewall details that are explicit in Ramah/Hassassin; hybrid rank is conditional on the matching upgraded profile. [Pinned roster](../../sectorials/haqqislam/qapu-khalqi.md). |
-
-**Top 3 / Top 5 / Top 10 are editorial *role-specific* cross-faction candidates**, not universal all-unit ranks, measured win rates or official tiers. *Apex* is peak matchup impact; *value* compares points/SWC/Orders. Anchors: [command](../list-building/command-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [Vehicles](../list-building/vehicles-vh.md), [vision control](../list-building/vision-control-units-apex-and-value.md) and [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md).
-
-
-**Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only the exact KHD profiles placed **#1–10 in Apex or Value** by the [KHD guide](../list-building/killer-hackers-apex-and-value.md) qualify; **these are role ranks, not all-unit ranks**. Check profile option and team permissions against the [pinned roster](../../sectorials/haqqislam/qapu-khalqi.md).
 
@@ -75,7 +74,6 @@ The [pinned QK Fireteam chart](../../sectorials/haqqislam/qapu-khalqi.md#canonic
 - **Mercenaries:** **Yuan Yuan, Bashi, Korsan, Druze, Alguaciles** plus **Al Hawwa** infiltration give nonstandard approaches.
 - **Armored range:** **Iguana, Shakush, Triphammer, Scarface & Cordelia TAGs** and **Zeybek VH**. **No Maghariba, Haytham or Fiday** in the current QK roster.
 - **Risks:** many attractive mid-price profiles can consume a list's Orders; don't pay for a large Core and two premium side attackers without actual scoring/defense remaining.
-
 
 **Critical N5.3 reconciliation** (pinned Army reference overrides older video claims):
 - **Rafiq Remote FTO 19/0.5 (Red Fury):** legal Wildcard, maximum one; **13pt non-FTO Rafiq** is not linkable.
