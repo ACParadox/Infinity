@@ -10,6 +10,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 10 (#8) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Dàofěi HD 52/0.5 or AP Spitfire SO 52/1.5** · [pinned local roster](../../sectorials/yu-jing/white-banner.md) | Camouflage/Infiltration and 2W ARM4 let a forward HI fight to a console; **Hacker and AP Spitfire SO are separate profiles**. |
+
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
