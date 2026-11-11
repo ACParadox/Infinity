@@ -15,6 +15,12 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** Exact **Apex / Good Value** rankings from the [cross-faction Classified guide](../list-building/classified-objective-runners-apex-and-value.md), checked against this faction's [pinned roster](../../sectorials/panoceania/shock-army-of-acontecimento.md). These are role-specific eligibility shortlists, **not** overall unit rankings; only the legal *selected profile* earns the placement.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 10 (#6) · A+](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Bagh-Mari HD 29/0.5** · [roster](../../sectorials/panoceania/shock-army-of-acontecimento.md) | **15/20** | Veteran MI, MSV1, NCO, Mimetism(-3), HD and solid Fireteam shooting. **No D-Charges on the HD**; the 22pt FO/D-Charges option is separate. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned acontecimento roster](../../sectorials/panoceania/shock-army-of-acontecimento.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
