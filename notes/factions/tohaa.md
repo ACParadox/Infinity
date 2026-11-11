@@ -15,10 +15,9 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 3 (#3) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 3 (#2) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Rasail BSG + Shock Mine + Chaksa 27/0** · [local roster](../../sectorials/tohaa/tohaa.md) | W3 active Symbiont/Nanoscreen, synchronized HFT Chaksa and BSG support an enduring room anchor; Shock Mine **requires deployment Order** and no doubled parent VP. |
-
 | [Top 5 (#5) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 10 (#9) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Draal Shock Mine Minelayer 33/1** · [local roster](../../sectorials/tohaa/tohaa.md) | W2 active Symbiont, Mimetism(-6), FD(+20), Pulzar and **preplaced Shock Mine**. **Not** the 32pt Dazer or 33pt non-Minelayer Viral Mine option. |
-
 | — | [Top 10 (#8) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Sakiel Viral Combi/E/M Grenades 19/0** · [local roster](../../sectorials/tohaa/tohaa.md) | W2 active Symbiont, Viral+E/M threats and economical Triad presence; **19pt gun profile**, not the 20pt FO or 21pt Paramedic. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
