@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/na2/starco-free-company-of-the-star.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 3 (#2) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Al Hawwa' FO 19/0 or KHD 22/0** · [local roster](../../sectorials/na2/starco-free-company-of-the-star.md) | Regular WIP14 Camo/Infiltration, 0 SWC and immediate scoring access; StarCo explicitly lists the **19pt FO** and **22pt KHD** as distinct options. |
+
 **Top 3/5/10** are qualitative shortlist *candidates within specific roles*, not universal rankings or measured results. **Apex** is the role ceiling; **value** considers cost/Orders. Sources include [doctors](../list-building/doctors-engineers-and-recovery-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Classified source](../list-building/classified-objective-runners-apex-and-value.md); this [StarCo roster](../../sectorials/na2/starco-free-company-of-the-star.md) contains the exact locally legal Hacker. Ranks apply to the specific role/profile, not an overall army rating.
