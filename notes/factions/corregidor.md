@@ -19,7 +19,7 @@ These labels are exact [toolbox Apex and Value rankings](../list-building/jack-o
 
 | Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
 |---|---|---|---|
-| — | [Top 10 (#6) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Moran BSG/Re­peater/CrazyKoala 15/0.5** · [N5.3 roster](../../sectorials/nomads/corregidor.md) | Infiltration, **CJC AVA2**, native Repeater + CrazyKoala threat and FO scoring. The one-use Camo alternative does not combine both features. |
+| — | [Top 10 (#6) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Moran BSG/Repeater/CrazyKoala 15/0.5** · [N5.3 roster](../../sectorials/nomads/corregidor.md) | Infiltration, **CJC AVA2**, native Repeater + CrazyKoala threat and FO scoring. The one-use Camo alternative does not combine both features. |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/corregidor.md) controls profiles, SWC and Fireteam eligibility.
 
