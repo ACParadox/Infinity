@@ -15,6 +15,13 @@
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/tohaa/tohaa.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
+
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
 |---|---|---|---|
 | **Top 10 (#10) — Force multipliers** | **Taagma Schemer15/0 — Counterintelligence/Holomask** | **B+ / S** | An inexpensive Regular Triad member with Holomask and passive first-turn Counterintelligence; the **22/1.5 MSV2 Viral Sniper** loadout is a separate option and not the ranked 15pt value shell. |
