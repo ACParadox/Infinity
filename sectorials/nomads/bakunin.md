@@ -480,7 +480,7 @@ The selectable Bakunin Army options are the two FTO combinations below. The sour
 
 ### Robin Hook, outlaw AI
 
-**ID 1607 · AVA 1 · HI** — Full Power `MOV 15-5 | CC 13 | BS 11 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 2 | S 2`; Battle-Ravaged `CC 9 | PH 10 | ARM 0`. Remote Presence, Booty, Courage, Forward Deployment (+10), Stealth, Climbing Plus, Immunity (Enhanced), Transmutation, Super-Jump.
+**ID 1607 · AVA 1 · HI** — Full Power `MOV 15-5 | CC 13 | BS 11 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 2 | S 2`; Battle-Ravaged `CC 9 | PH 10 | ARM 0`. **Equipment (both states):** ECM: Hacker (-3), **native Repeater**. **Skills:** Remote Presence, Booty, Courage, Forward Deployment (+10), Stealth, Climbing Plus, Immunity (Enhanced), Transmutation, Super-Jump. **Battle-Ravaged** retains the native Repeater but loses Booty and Forward Deployment after Transmutation; these are Full Power/deployment-state details.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
