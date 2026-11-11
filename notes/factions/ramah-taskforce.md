@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/ramah-taskforce.md), with explicit caveats where its upgrade detail is abbreviated.
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
+|---|---|---|---|
+| — | **[Top 3 (#3) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Leila Sharif KHD + Carbonite/Firewall(-3) — 22/0** | WIP14, 0SWC and upgraded KHD support against both Hackers and HI; no HDplus, Oblivion or Spotlight. Team permissions are faction-specific. Ramah Wildcard counts as Ghulam in eligible links. [Pinned roster](../../sectorials/haqqislam/ramah-taskforce.md). |
+
 **Top 3 / Top 5 / Top 10 are qualitative editorial *role-specific* candidates**, not official overall ranks or measured win rates. *Apex* means maximum conditional impact, *value* means cost efficiency. This roster has **fewer defensible universal S-tier apex claims** than Vanilla/Hassassin; do not inflate every elite. See [specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md), [Vehicle](../list-building/vehicles-vh.md), [vision-control](../list-building/vision-control-units-apex-and-value.md) and [hacking](../list-building/hackers-and-killer-hackers.md) comparisons.
 
 
