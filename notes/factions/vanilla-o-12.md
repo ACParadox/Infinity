@@ -8,6 +8,14 @@
 
 **Top 3 / Top 5 / Top 10 below are editorial, role-specific cross-faction *shortlist candidates*, not official absolute ranks or measured win rates.** Apex means peak impact in the indicated job; value considers points, SWC and Orders. The relevant cross-faction comparisons are [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [midfield defense](../list-building/midfield-defenders-and-speed-bumps.md), [networks](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These labels are exact [toolbox Apex and Value rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not overall-army standings. Only legal local profiles qualify, with package costs and mutually exclusive loadouts kept separate.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 5 (#5) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Team Sirius FO + SiriusBot 21/0 or HD + bot 24/0.5** · [N5.3 roster](../../sectorials/o-12/o-12.md) | FD+20, Mimetism(-3), an included synchronized **native Repeater** body, and either a Forward Observer BSG controller or a hacker; bot is **not** itself an FO or extra Regular Order. |
+
 
 
 **Source-link precision:** each linked name opens a cross-faction tier/ranking row. Some categories rank the **base unit or package**, not every optional upgrade independently (notably **Oko 15pt** versus **Oko Tactical Awareness 18pt**); do not read the linked tier as a separately proven rank for that exact upgrade.
