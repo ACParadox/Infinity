@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/aleph/operations-subsection.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| **[Top 3 (#1) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Asura HDplus + Trinity(+1SD) — 63/0.5** | WIP15, BTS6, ARM5, 2W+NWI, ECM:Hacker(-3), White Noise and upgraded Trinity; 67/0 Lieutenant(+1 Order) is an **OSS-only** alternative. [Pinned roster](../../sectorials/aleph/operations-subsection.md). |
+
 **Top 3 / Top 5 / Top 10 mean editorial candidates *for the named role*, not official overall rankings or measured tournament results.** **Apex** means maximum effect in the right matchup; **value** includes entire package cost, SWC and real Order economy. The [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [VH](../list-building/vehicles-vh.md), [hackers](../list-building/hackers-and-killer-hackers.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), and [force-multiplier](../list-building/force-multipliers-special-abilities-apex-value.md) guides supply the cross-faction comparisons.
 
 
