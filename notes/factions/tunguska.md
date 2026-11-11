@@ -13,6 +13,14 @@
 
 **Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/nomads/tunguska.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
+
+| Classified Apex | Classified Value | Legal local profile | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| — | [Top 5 (#4)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Kulak FO + D-Charges 19/0** · [roster](../../sectorials/nomads/tunguska.md) | **12/20** | Veteran MI, Mimetism(-3), Shotgun, 0 SWC and strong low-cost FO/physical coverage; 10-10 MOV and W1. |
+| — | [Top 10 (#7)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Casino Security Rounders HD + Trinity 21/0.5** · [roster](../../sectorials/nomads/tunguska.md) | **13/20** | Veteran **LI** with MSV1, Biometric Visor, NCO and Marksmanship. Full HD/Trinity; no MI/HI-classified eligibility. |
+| — | [Top 10 (#9)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Kulak KHD + Carbonite 20/0** · [roster](../../sectorials/nomads/tunguska.md) | **12/20** | Veteran MI, Mimetism(-3), D-Charges, 0SWC KHD with Carbonite. **KHD lacks Spotlight**, so not the 19pt FO or a full HD. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned tunguska roster](../../sectorials/nomads/tunguska.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
