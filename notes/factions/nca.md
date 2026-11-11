@@ -14,6 +14,13 @@
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/panoceania/neoterran-capitaline-army.md).
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/panoceania/neoterran-capitaline-army.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 5 (#4) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Peacemaker Heavy Shotgun/Pulzar + Auxbot-3, 23/0** | FD(+20) native Repeater, second flamer-bearing Auxbot and two approach angles; 23pt BSG(+1B) no-Auxbot option is distinct. |
+
 | KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
 |---|---|---|---|
 | **[Top 3 (#3) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 3 (#3) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Deva KHD 20/0** | WIP15, NWI, Immunity(Isolated) and no SWC. Boarding Shotgun KHD is separate from the 25/0.5 HD. [Pinned local roster](../../sectorials/panoceania/neoterran-capitaline-army.md). |
