@@ -10,6 +10,15 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates for particular jobs*, not overall rankings. **Apex** is ceiling; **value** counts points, SWC and Orders. See [Hackers](../list-building/hackers-and-killer-hackers.md), [command units](../list-building/command-units-apex-and-value.md), [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md) and [ARO guns](../list-building/aro-units-apex-and-value.md).
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These labels are exact [toolbox Apex and Value rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not overall-army standings. Only legal local profiles qualify, with package costs and mutually exclusive loadouts kept separate.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 3 (#2) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Blocker Specialist Operative/Pitcher 15/0** · [N5.3 roster](../../sectorials/na2/white-company.md) | BS12, X-Visor, BS Attack(+1B), Sensor, Adhesive Launcher Rifle/Pulzar and a reliable budget Pitcher + scoring body; **19/0.5 Hacker has no Pitcher**. |
+| — | [Top 3 (#3) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0** · [N5.3 roster](../../sectorials/na2/white-company.md) | FD+20, Mimetism(-6), Bangbomb, and either serious close-range fighting/FO/Panzerfaust or 25pt KHD. **These are different weapon options**. |
+
 
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
