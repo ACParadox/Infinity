@@ -13,6 +13,13 @@
 
 **Top 3 / Top 5 / Top 10 indicate role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-defenders-and-speed-bumps.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [Order](../list-building/cheerleaders-and-order-generators.md), [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) and [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md) analyses. These are not official all-unit rankings; *apex* and *cost value* are different measures.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** Exact **Apex / Good Value** rankings from the [cross-faction Classified guide](../list-building/classified-objective-runners-apex-and-value.md), checked against this faction's [pinned roster](../../sectorials/nomads/corregidor.md). These are role-specific eligibility shortlists, **not** overall unit rankings; only the legal *selected profile* earns the placement.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 3 (#1) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Wildcat Hacking Device 27/0.5** · [roster](../../sectorials/nomads/corregidor.md) | **15/20** | Veteran MI, MSV1, Zero Pain HD, D-Charges and Repeater; Fireteam-capable BS13 combat/mission hybrid. W1 and no personal forward deployment. |
+| [Top 10 (#10) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | [Top 3 (#2)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Hellcat Hacking Device 22/0.5** · [roster](../../sectorials/nomads/corregidor.md) | **14/20** | Elite MI, Combat Jump/Parachutist, HD and D-Charges make it a cheap direct entry near enemy-side cards. Arrival risk and W1. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned corregidor roster](../../sectorials/nomads/corregidor.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
