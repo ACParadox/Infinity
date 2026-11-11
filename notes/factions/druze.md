@@ -13,6 +13,14 @@
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); only the precise roster-legal non-Lieutenant profile is credited.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/na2/druze.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 5 (#4) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Peacemaker Heavy Shotgun/Pulzar + Auxbot-3, 23/0** | FD(+20), native Repeater and included flamer Auxbot make two close angles; 23pt BSG(+1B) lacking Auxbot is a different profile. |
+| — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; strong 8pt trade but Irregular and costs 1 SWC. |
+
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; profile limits |
 |---|---|---|---|
 | **Top 10 (#9) — Force multipliers** | **Táowù16/0 — Contender/Pulzar Counterintelligence** | **B+ / S** | Legal Druze-counts-as-Druze specialist with Holomask, Pulzar and Counterintelligence; its 19/0 E/Marat or 21/0 CoC alternatives are different loadouts. |
