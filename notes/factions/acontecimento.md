@@ -15,6 +15,13 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned acontecimento roster](../../sectorials/panoceania/shock-army-of-acontecimento.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Turn-0 network #7 · S** | **Peacemaker native Repeater 23–27/0–.5** — eligible PanO | **FD(+20) + native Repeater**, with Auxbot and short-range combat/defense **Limit:** S4 Hackable footprint; select actual loadout, not a combined fictional profile | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#2-best-turn-0-network) |
+| **Mobile Repeater Value #5 · S** | **Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0** — PanO / WinterFor where legal | **MOV15-10**, native Repeater active throughout movement, FO/Sensor and its **own Tactical Awareness Order** to advance without consuming a normal pooled Order **Limit:** **17pt TA profile only**; ordinary 14pt Pathfinder is deliberately excluded | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/panoceania/shock-army-of-acontecimento.md).
 
 
