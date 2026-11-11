@@ -14,6 +14,15 @@
 
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/nomads/nomads.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 3 (#1) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 3 (#1) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Tunguska Interventor KHD 18/0** | WIP15/BTS9 and upgraded Trinity(-3), with FastPanda. A fragile W1 network duelist; this is **not** the HDplus Interventor. Vanilla Nomads cannot inherit Tunguska Securitate links. [Pinned local roster](../../sectorials/nomads/nomads.md). |
+| **[Top 3 (#2) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 5 (#4) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Mary Problems dual HD/KHD 27/0.5** | WIP14/BTS6, AP Trinity, Oblivion(+1B), Pitcher and Mimetism(-6). Strong hybrid; still W1 and not a generic HDplus. [Pinned local roster](../../sectorials/nomads/nomads.md). |
+| **[Top 10 (#10) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Spektr KHD 30/0** | WIP14, Hidden Deployment, Infiltration, Mimetism(-6) and Cybermine give a strong Trinity ambush, not a repeatable high-BTS duel. [Pinned local roster](../../sectorials/nomads/nomads.md). |
+
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
