@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. Positions refer to this particular role, not an overall army tier; alternative loadouts and Fireteam access are never pooled.
+
+| Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|
+| [Top 10 (#8) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Asura HDplus MULTI Marksman 63/0.5** · [local roster](../../sectorials/aleph/aleph.md) | W2+NWI/ARM5/BTS6, MSV3 and HDplus; substantial durable VP plus network-dependent hacking denial. No assumed OSS Fireteam. |
+
+| — | [Top 3 (#3) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **K2 Auxiliar FTO E/Marat/Flash 11/0** · [local roster](../../sectorials/aleph/aleph.md) | STR1+NWI/ARM2, Remote Presence and immediate E/Marat make a cheap resilient corner blocker; **AVA1 in Vanilla ALEPH**, no automatic Steel Phalanx Fireteam. |
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/aleph/aleph.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
