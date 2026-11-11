@@ -11,8 +11,8 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 3 (#1) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Jamie Arantes Netroid Handler 49/0** · [local roster](../../sectorials/o-12/torchlight-brigade.md) | W2/ARM4/BTS9, Guard, FD(+20), NCO, Mimetism(-3) and Decoy, Plasma Rifle/Akrylat-Kanone. **Handler only**: the Jamie Rover FTO is not a Guard/FD profile; alternate versions mutually exclusive. |
-
 | — | [Top 10 (#7) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Silverstar Combi/Light Riotstopper 27/0** · [local roster](../../sectorials/o-12/torchlight-brigade.md) | W2/ARM3/BTS6 and a live disabling template; **Torchlight AVA5**, legal Silverstars team support. 27pt TinBot Specialist and 27pt FO are distinct loadouts. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
