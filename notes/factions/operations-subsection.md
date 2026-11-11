@@ -13,7 +13,6 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 10 (#8) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Asura HDplus MULTI Marksman 63/0.5** · [local roster](../../sectorials/aleph/operations-subsection.md) | MSV3, W2+NWI/ARM5, WIP15 and HDplus; possible OSS Asura Fireteam where legal, but strong denial still needs hacking coverage. |
-
 | [Top 10 (#10) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 10 (#6) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Andromeda SMG/Zapper 30/0** · [local roster](../../sectorials/aleph/operations-subsection.md) | Infiltration, Guard (LoF+ZoC), MA3, Mim(-3), NWI and Zapper: defensible forward zone; W1+NWI, not W2. |
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/aleph/operations-subsection.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
 
