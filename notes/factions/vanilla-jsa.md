@@ -28,6 +28,7 @@ The usual payoff is **concealment and route creation → one precise assault or 
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 3 (#2) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 3 (#1) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Karakuri FO HSG or E/Mitter 31/0** · [local roster](../../sectorials/jsa/jsa.md) | STR3, Enhanced Immunity, Remote Presence and self-GizmoKit plus Chain Rifle/Panzerfaust; **AVA2** and JSA Fireteams II as allowed. HSG/E/Mitter are alternative 31pt profiles. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/jsa/jsa.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
