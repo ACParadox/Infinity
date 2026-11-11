@@ -10,6 +10,12 @@
 
 **Top 3/5/10** are qualitative shortlist *candidates within specific roles*, not universal rankings or measured results. **Apex** is the role ceiling; **value** considers cost/Orders. Sources include [doctors](../list-building/doctors-engineers-and-recovery-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [hackers](../list-building/hackers-and-killer-hackers.md) and [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md).
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Classified source](../list-building/classified-objective-runners-apex-and-value.md); this [StarCo roster](../../sectorials/na2/starco-free-company-of-the-star.md) contains the exact locally legal Hacker. Ranks apply to the specific role/profile, not an overall army rating.
+
+| Classified Apex | Classified Value | Rostered local unit / option | Eligible cards | Cross-faction comparison; local legality limit |
+|---|---|---|---:|---|
+| [Top 10 (#10) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | [Top 3 (#2)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Hellcat HD + D-Charges 22/0.5** · [roster](../../sectorials/na2/starco-free-company-of-the-star.md) | **14/20** | Elite MI, Combat Jump (+3), Parachutist, Super-Jump (Jet Propulsion), HD and D-Charges: strong enemy-HVT/DZ access for 22pts. The 23pt Paramedic and 19pt non-Hacker are separate options. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned starco-free-company-of-the-star roster](../../sectorials/na2/starco-free-company-of-the-star.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
