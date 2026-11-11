@@ -20,6 +20,12 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 5 (#4) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
+
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned next-wave roster](../../sectorials/combined-army/next-wave.md).
