@@ -10,6 +10,9 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/yu-jing/vanilla-yu-jing.md), with explicit caveats where its upgrade detail is abbreviated.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
@@ -17,10 +20,6 @@
 | **[Top 5 (#4) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Hac Tao HD + Trinity — 58/0.5** | WIP14, BTS6, ARM5 and 2W; Hidden Deployment and full HD + Trinity if the upgrade is present. **Conditional:** Vanilla Yu Jing's local 58/0.5 HD profile does not explicitly mention Trinity, unlike Invincible Army and White Banner.  [Pinned roster](../../sectorials/yu-jing/vanilla-yu-jing.md). |
 | **[Top 10 (#9) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Zhēnchá HD + Trinity — 34/0.5** | Camouflaged infiltrating WIP13, BTS6, ARM3/NWI HD+Trinity midfielder. **Conditional:** Vanilla Yu Jing lists Zhēnchá and all standard profiles but does not print the full 34/0.5 weapon/program line; IA/Dahshat do.  [Pinned roster](../../sectorials/yu-jing/vanilla-yu-jing.md). |
 | — | **[Top 10 (#9) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Dokkaebi KHD + Spotlight/Pitcher — 22/0** | WIP13/BTS6, KHD with Spotlight, Pitcher/Cybermine and Remote Presence/NWI. Vanilla lists standard Dokkaebi ID1756; do **not** substitute ISS/IA reinforcement-only ID1715.  [Pinned roster](../../sectorials/yu-jing/vanilla-yu-jing.md). |
-
-**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official placements or claims to a universal top-ten list. **Apex** is peak effectiveness for the job; **value** includes points, SWC and Orders. Benchmarks: [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [midfield defence](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [Sensor/anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [cheap Order utility](../list-building/cheerleaders-and-order-generators.md).
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/yu-jing/vanilla-yu-jing.md) are counted.
 
