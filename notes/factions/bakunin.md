@@ -10,6 +10,12 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Only the legal selected profile earns its exact rank in the [global Mission Specialist Apex/Value guide](../list-building/mission-specialists-and-button-pushers-apex-value.md); this is a role-specific shortlist, not an overall-unit ranking.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 5 (#4) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Zero FO 20/0 or KHD 22/0** · [pinned local roster](../../sectorials/nomads/bakunin.md) | Regular Camo/Infiltration with Shock Mine and a low-cost scoring route; FO20 and KHD22 are **alternative** roles. |
+
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
 
