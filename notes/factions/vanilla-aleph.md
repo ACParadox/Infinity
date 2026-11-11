@@ -14,6 +14,14 @@
 **Profile exclusion:** Vanilla ALEPH's Satrah has a plain Thunderbolt 24/0 rather than OSS's Thunderbolt (+1B) 24/0, so the OSS-only #7 long-range value / #1 medium-range value placement is **not** transferred.
 
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/aleph/aleph.md).
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| **[Top 3 (#3) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | **[Top 3 (#3) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Deva KHD 20/0** | WIP15, NWI, Immunity(Isolated) and no SWC. Boarding Shotgun KHD is separate from the 25/0.5 HD. [Pinned local roster](../../sectorials/aleph/aleph.md). |
+| — | **[Top 5 (#5) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Apsaras KHD 17/0** | WIP14, 17/0 KHD and Deployable Repeater; the Vanilla profile summary does **not explicitly list** OSS's Firewall(-3), so do not import that modifier without verification. [Pinned local roster](../../sectorials/aleph/aleph.md). |
+
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** Source: [combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value). Rankings refer to the **exact non-Lieutenant profile** and legal faction.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; limitation |
