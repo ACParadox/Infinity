@@ -25,6 +25,14 @@ The usual payoff is **concealment and route creation → one precise assault or 
 
 **Top 3 / Top 5 / Top 10 are qualitative, job-specific cross-faction shortlist *candidates*, not official ranks, measured pick rates or claims that these are the best units overall.** **Apex** means exceptional ceiling at a given task; **value** means that effect relative to points, SWC and Orders. Comparisons draw on the repository's [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective holders](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md) and [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md) analyses, subject to the [pinned Vanilla JSA profiles](../../sectorials/jsa/jsa.md).
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 5 (#4) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Shikami Specialist 42/0 or MULTI Rifle 47/0** · [N5.3 roster](../../sectorials/jsa/jsa.md) | FD+10, Mimetism(-6), Eclipse, Super-Jump/Climbing Plus, 2W, high CC and scoring; the 42pt and 47pt guns are different. |
+
 
 **Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/jsa/jsa.md) qualify. These are role-specific placements, not overall unit ranks.
 
