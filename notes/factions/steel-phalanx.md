@@ -8,6 +8,13 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. Positions refer to this particular role, not an overall army tier; alternative loadouts and Fireteam access are never pooled.
+
+| Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|
+| [Top 10 (#10) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 10 (#6) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Andromeda SMG/Zapper 30/0** · [local roster](../../sectorials/aleph/steel-phalanx.md) | Infiltration, Guard (LoF+ZoC), MA3, NWI, Mim(-3) and Zapper provide advanced short-range protection; exposed W1+NWI cannot tank repeated hits. |
+
+| — | [Top 3 (#3) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **K2 Auxiliar FTO E/Marat/Flash 11/0** · [local roster](../../sectorials/aleph/steel-phalanx.md) | STR1+NWI and Remote Presence with live E/Marat/Flash for 11pts; **12pt Mine Dispenser is separate and does not predeploy a mine**. Steel Phalanx AVA2. |
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
