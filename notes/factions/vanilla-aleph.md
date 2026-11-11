@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/aleph/aleph.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| **[Top 3 (#1) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Asura HDplus + Trinity(+1SD) — 63/0.5** | WIP15, BTS6, ARM5, 2W+NWI, ECM:Hacker(-3), White Noise and upgraded Trinity; 67/0 Lieutenant(+1 Order) is an **OSS-only** alternative. **Roster caveat:** Vanilla ALEPH lists the 63/0.5 HDplus Asura but does not explicitly print the Trinity(+1SD) upgrade; hybrid #1 is conditional on that matching profile. No OSS-only 67/0 LT. [Pinned roster](../../sectorials/aleph/aleph.md). |
+
 **Top 3 / Top 5 / Top 10 are editorial candidates *within the specific job named*, not measured pick-rate rankings, tournament statistics, or claims that these are the best units overall.** **Apex** measures the capability ceiling; **value** measures that capability for the *complete* points/SWC/Order investment. These shortlists draw on the repository's [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [TAG](../list-building/tags.md), [Vehicle](../list-building/vehicles-vh.md), [toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), and [cheap-Order](../list-building/cheerleaders-and-order-generators.md) comparisons.
 
 
