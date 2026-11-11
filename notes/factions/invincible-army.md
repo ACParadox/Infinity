@@ -11,11 +11,19 @@
 ### Whole-game standouts — apex versus value
 
 
-**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md).
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/yu-jing/invincible-army.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 5 (#4) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Gūdǎn SMG/Zapper + Shock Mine, one-use Camo, 12/0** | FD(+10) and Regular Order provide a live E/M template, but the carried Shock Mine is not predeployed; 11pt FTO is DZ-only. |
+| — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
 
 | Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
 |---|---|---|---|
@@ -43,7 +51,6 @@ Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply 
 | **Top 10 (#8) — Non-TAG long-range apex (A+)** | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L43) |
 | **Top 5 — Command Units (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command economy**: a concealed LT with two LT Orders for eligible NCO spenders. Those are **not** interchangeable pooled Regular Orders; the recipient must be able to exploit them. | [S — LT value](../list-building/command-units-apex-and-value.md#L113) |
 | **Top 10 — Killer Hackers (value)** · [**KHD: A apex / S value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **Hǎidào KHD + Pitcher 22/0** | **S-tier hacker value**, scoring and ranged network projection inside a suitable HI team. Hǎidào Engineer/MSV2 Sniper/CoC are **different** profiles. **Revised Hacker guide:** The Hǎidào KHD + Pitcher is A-apex/S-value in the pure KHD tables; its separate Engineer, CoC and sniper variants do not inherit these programs. | [A apex / S value](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) |
-| **Top 10 — Midfield Area Denial & Speed Bumps (value)** | **Gūdǎn SMG + Zapper 12/0** | Forward Deployment(+10), one-use Camo and E/M direct template with **A+ apex / S value**; the Shock Mine is carried, **not** a free Minelayer placement. | [A+ apex / S value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L77) |
 | **Top 5 (#4) — Airborne/DZ attackers (value)** | **Liú Xīng BSG 24/0** | S value: Combat Jump(PH14, Explosion), BS13, ARM3 and NWI, plus normal Parachutist; Hackable and 30% base landing failure | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L155) |
 | **Top 3 (#2) — Mimetism (-6) apex (S / A)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) | **Hac Tao HMG NCO 59/1.5** | BS14, Mim6, Hidden, W2/ARM5: high-end independent long shooter. **Limit:** Hacking and MSV2; pinned IA roster does not list MSV. | [#2 Mimetism (-6) apex](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) |
 
