@@ -31,21 +31,18 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 ### Whole-game standouts — apex versus value
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/shasvastii.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
 | **[Top 5 (#5) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 10 (#10) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Victor Messer HDplus + Trinity(PS5)/Zero Pain — 31/0.5** | WIP14, 2W, Nanoscreen, Zero Pain, White Noise, Cybermine and Deployable Repeater; BTS3 remains a direct hacking vulnerability. Wildcard only in Shasvastii Shock context; 30/0.5 Minelayer is a different profile. [Pinned roster](../../sectorials/combined-army/shasvastii.md). |
 
-
-
-
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
 |---|---|---|---|
 | **Top 10 (#6) — Force multipliers** | **Shasvastii Mentor20/0, non-Lieutenant** | **A / S-** | Counterintelligence on a hard-to-locate Camo/Mimetism(-3)/Decoy(1) Vulkan Shotgun unit. The similarly priced Lieutenant is a separate profile and not credited here. |
-
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
@@ -82,7 +79,6 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
 | **Top 3 (#1 apex / #3 value) — Airborne/DZ attackers** | **Speculo Killer BSG 26/1** | S apex / S+ value: IMP-1, Smoke, Monofilament and deployment pressure; high SWC opportunity cost and screen vulnerability; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L115) / [Value ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L154) |
-
 
 - **Top 3 — ARO Units (apex): Noctifer Missile Launcher 30/1.5.** ([cross-faction S hidden ARO](../list-building/aro-units-apex-and-value.md#L53)) **S-tier** in the [ARO comparison](../list-building/aro-units-apex-and-value.md). Mimetism(-6), Hidden Deployment and a potential missile template change enemy movement before it appears; it supplies no normal Order while Hidden and may never reveal into the ideal attack.
 - **Top 5 — Jack-of-All-Trades / Toolbox Units (value): Caliban.** ([cross-faction S profile value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#L54))
