@@ -12,6 +12,14 @@
 
 **Source-link precision:** each linked name opens a cross-faction tier/ranking row. Some categories rank the **base unit or package**, not every optional upgrade independently (notably **Oko 15pt** versus **Oko Tactical Awareness 18pt**); do not read the linked tier as a separately proven rank for that exact upgrade.
 
+
+**Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/o-12/o-12.md) are counted.
+
+| KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
+|---|---|---|---|
+| — | **[Top 10 (#6) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Cyberghost KHD + Pitcher 18/0** | WIP14/BTS6 with Pitcher and zero-SWC Trinity/Cybermask; 21/0.5 HDplus is the separate White Noise/anti-heavy choice. [Pinned local roster](../../sectorials/o-12/o-12.md). |
+| — | **[Top 10 (#10) — KHD value](../list-building/killer-hackers-apex-and-value.md#best-value-khd-profiles)** | **Gangbuster KHD + MadTraps Minelayer 22/0** | WIP13 and Infiltration plus predeployed MadTraps, MSV1 and Mimetism(-3) give strong midfield counter-hacking and scoring. It is not the 23pt non-hacker Minelayer. [Pinned local roster](../../sectorials/o-12/o-12.md). |
+
 | Whole-game shortlist (specific role) | Unit / profile | Exceptional job and main limitation |
 |---|---|---|
 | **Top 3 (#3) — Non-TAG long-range apex (S/A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L38) | **Gamma HMG50/1.5** | BS14, BS Attack(+1B) for active B5, ARM6/2W+NWI and Warhorse; outstanding repeated HMG FtF volume. **Limit:** No innate Mimetism or MSV; Hackable 50pt centerpiece. |
