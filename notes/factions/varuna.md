@@ -19,6 +19,13 @@
 
 Positions are **role-specific** in the [current ARO rankings](../list-building/aro-units-apex-and-value.md); roster legality and printed Fireteam access take precedence over generic faction examples.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/panoceania/varuna-immediate-reaction-division.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 5 (#4) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Peacemaker Heavy Shotgun/Pulzar + Auxbot-3, 23/0** | FD(+20) native Repeater and included Heavy-Flamethrower Auxbot cover separate approach angles; 23pt BSG(+1B) no-Auxbot is not this package. |
+
 | Whole-game ARO placement | Legal local profile | Why it stands out / limits |
 |---|---|---|
 | **Top 10 (#7) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Helot Neuro LRL / Shock MMR / Red Fury 10–15pt** | S Value #7: full reactive B2 LRL, B3 Shock Marksman or B4 Red Fury at low cost; FTO/Sensor and one-use Camo are **mutually exclusive profiles**. Irregular W1; only eligible FTOs receive link bonuses. |
