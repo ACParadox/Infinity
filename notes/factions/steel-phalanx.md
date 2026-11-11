@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 5 (#5) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Andromeda SO 30/0 SMG + Zapper (Infiltration PH15)** · [local roster](../../sectorials/aleph/steel-phalanx.md) | NWI, Guard, Mimetism(-3), D-Charges and aggressive early objective access; 33pt BSG profile is separate. |
+
 
 **Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official ranks, tournament pick rates or claims that a unit is among the ten best overall.** **Apex** is the peak capability for the named job; **value** includes points, SWC and Order investment. The cross-faction [ARO](../list-building/aro-units-apex-and-value.md), [TAG](../list-building/tags.md), [vision control](../list-building/vision-control-units-apex-and-value.md), [warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Doctor/recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [close combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [cheap units](../list-building/best-cheap-units.md), and [Order economy](../list-building/cheerleaders-and-order-generators.md) analyses support the comparisons. A **Top 5 cheap defender** below refers to the **cheap defensive-enabler subgroup**, not to fourth overall across all inexpensive troops.
 
