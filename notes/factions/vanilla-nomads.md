@@ -10,19 +10,17 @@
 
 ### Whole-game standouts — apex versus value
 
+
+**Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/nomads/nomads.md) controls profiles, SWC and Fireteam eligibility.
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
-| **[Top 10 (#7) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 3 (#2) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Mary Problems dual HD(Oblivion+1B) / KHD(Trinity AP) — 27/0.5** | WIP14/BTS6; Pitcher, Forward Deployment and Mimetism(-6) provide dual anti-heavy/anti-Hacker threats, but W1.  [Pinned roster](../../sectorials/nomads/nomads.md). |
+| **[Top 10 (#7) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 3 (#2) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Mary Problems dual HD(Oblivion+1B) / KHD(Trinity AP) — 27/0.5** | WIP14/BTS6; Pitcher, Forward Deployment and Mimetism(-6) provide dual anti-heavy/anti-Hacker threats, but W1. [Pinned roster](../../sectorials/nomads/nomads.md). |
 | **[Top 10 (#8) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 3 (#1) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Jazz HDplus + Trinity(SR-1) — 25/0.5** | Full HDplus and upgraded Trinity, Pitcher/Cybermine. Jazz+Billie gains a second Regular Order and Repeater; 22/0.5 FTO replaces Billie with legal Fireteam access. Only the **FTO** selection joins eligible Vanilla Fireteams I; no Corregidor-specific Surface/Deepspace rights. [Pinned roster](../../sectorials/nomads/nomads.md). |
 | — | **[Top 10 (#6) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Kulak KHD + Carbonite — 20/0** | KHD Trinity/Cybermask plus Carbonite, Cybermine, Disco Baller and Mimetism(-3); no full HD or White Noise. **Conditional:** Vanilla abbreviates the 20/0 KHD without printing Carbonite; Tunguska confirms the matching profile upgrade. [Pinned roster](../../sectorials/nomads/nomads.md). |
 | — | **[Top 10 (#8) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rounder HD + Trinity — 21/0.5** | Standard HD and Trinity, MSV1 and Marksmanship; no native HDplus White Noise. **Conditional:** Vanilla omits the printed Trinity upgrade from the 21/0.5 HD summary; it is explicit in Tunguska/Bakunin. [Pinned roster](../../sectorials/nomads/nomads.md). |
-
-**Top 3 / Top 5 / Top 10 describe editorial, role-specific shortlist *candidates*** from the repository's [midfield](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), [cheap support](../list-building/best-cheap-units.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) reviews. They are not an official ranking of all Infinity units; *apex* and *cost value* differ.
-
-
-
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). Only profiles that occupy **#1–10 in Apex or Value** of the [KHD guide](../list-building/killer-hackers-apex-and-value.md) are included; rankings are **role-specific**, not general unit ranks. Full profile costs, deployment, and Fireteam rights must match the [local roster](../../sectorials/nomads/nomads.md).
 
@@ -37,7 +35,6 @@
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
 |---|---|---|---|
 | **Top 10 (#8) — Force multipliers** | **Puppet Master11/0, no PuppetBots required** | **B+ / S+** | Cheap Regular body with Counterintelligence, SMG and Shock Mine. PuppetBots remain **optional separately paid peripherals** with no generated Regular Orders; this ranking applies to the 11pt support carrier. |
-
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
