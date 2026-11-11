@@ -13,6 +13,13 @@
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/haqqislam.md), with explicit caveats where its upgrade detail is abbreviated.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/haqqislam/haqqislam.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 3 (#1) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Daylami Light Shotgun/Panzerfaust + one-use Camo, 8/0** | Infiltrating Irregular disposable anti-heavy roadblock; 6pt Panzerfaust has no Infiltration or Camo. |
+
 | Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
 |---|---|---|---|
 | — | **[Top 3 (#3) — value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Leila Sharif KHD + Carbonite/Firewall(-3) — 22/0** | WIP14, 0SWC and upgraded KHD support against both Hackers and HI; no HDplus, Oblivion or Spotlight. Team permissions are faction-specific. Only legal Vanilla Haqqislam Fireteam II membership, not automatically a Hassassin/Qapu Wildcard. [Pinned roster](../../sectorials/haqqislam/haqqislam.md). |
