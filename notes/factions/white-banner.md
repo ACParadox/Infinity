@@ -13,6 +13,14 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official ranks, win rates or a claim to be among the best ten *overall*. **Apex** means highest impact at the job; **value** accounts for price and SWC. Benchmarks: [cheap warbands](../list-building/warbands-and-cheap-trading-units-apex-value.md), [Order engines](../list-building/cheerleaders-and-order-generators.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [anti-tech](../list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/yu-jing/white-banner.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
+
+| Classified Apex | Classified Value | Legal local profile | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 10 (#7) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Dàofěi HD / MULTI Rifle + D-Charges 52/0.5** · [roster](../../sectorials/yu-jing/white-banner.md) | **14/20** | Veteran HI, 2W and Camo/Infiltration place a real HD+D-Charges threat near hostile Classifieds. The Spitfire Specialist Operative and Lieutenant options are distinct. |
+| [Top 10 (#8) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Hac Tao Hidden HD + Trinity 58/1** · [roster](../../sectorials/yu-jing/white-banner.md) | **14/20** | Elite HI, 2W ARM5, Mimetism(-6), MSV1 and Hidden Deployment. **White Banner uses 1 SWC**, not the **58/0.5 Invincible Army** variant cited in the source rank; same card eligibility. |
+| — | [Top 3 (#3)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Sulyong FO + D-Charges 22/0** · [roster](../../sectorials/yu-jing/white-banner.md) | **14/20** | Veteran MI with NCO, MSV1, D-Charges, FO and Thunderbolt, strong coverage/point ratio. W1, no innate advanced deployment. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned white-banner roster](../../sectorials/yu-jing/white-banner.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
