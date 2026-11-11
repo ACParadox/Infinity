@@ -28,7 +28,7 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 | Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
 |---|---|---|---|
-| **[Top 3 (#2) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Dasyu Viral Mine Minelayer (2), 30/0.5** | Infiltration, Hidden Deployment and Mimetism(-6) guard a Viral corridor; FO and KHD are different profiles, and Viral is matchup-sensitive. |
+| **[Top 3 (#2) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Dasyu Viral Mine Minelayer (2), 30/0.5** | Infiltration, Hidden Deployment and Mimetism(-6) guard a Viral corridor; FO and KHD are different profiles, and Viral is matchup-sensitive. **Roster precision:** Vanilla ALEPH prints Minelayer without the '(2)' count that the cross-faction guide assumes, unlike OSS; confirm the two-mine rule on the exact vanilla profile before treating the #2 ceiling as fully verified. |
 | **[Top 10 (#6) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Kinnara E/M Mine Minelayer, 25/0.5** | Infiltrating Vulkan Shotgun/HFT REM adds Sensor, Decoy and a prepaid E/M trap; only STR1 and Hackable. |
 | **[Top 10 (#7) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Yaksha E/M Carbine + MadTraps Minelayer, 25/0.5** | FD(+20), ARM4 and one-use Camo support a prepaid perimeter threat; STR1, Hackable and costly for a passive screen. |
 
