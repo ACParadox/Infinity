@@ -8,6 +8,12 @@
 
 ### Whole-game standouts — apex versus points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/aleph/aleph.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 3 (#2) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Dasyu FO 29/0, KHD 31/0 or HD 33/0.5** · [local roster](../../sectorials/aleph/aleph.md) | Hidden Deployment, Infiltration and Mimetism(-6) support late scoring. FO, KHD and HD are **mutually exclusive**; FO alone carries the Deployable Repeater. |
+
 **Top 3 / Top 5 / Top 10 are editorial candidates *within the specific job named*, not measured pick-rate rankings, tournament statistics, or claims that these are the best units overall.** **Apex** measures the capability ceiling; **value** measures that capability for the *complete* points/SWC/Order investment. These shortlists draw on the repository's [multi-body](../list-building/peripheral-synchronized-multibody-apex-value.md), [TAG](../list-building/tags.md), [Vehicle](../list-building/vehicles-vh.md), [toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), [hacker](../list-building/hackers-and-killer-hackers.md), and [cheap-Order](../list-building/cheerleaders-and-order-generators.md) comparisons.
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Apex / Good Value source](../list-building/classified-objective-runners-apex-and-value.md), matched to the [pinned vanilla roster](../../sectorials/aleph/aleph.md). Each rank is role-specific and belongs to the selected profile or explicitly priced multi-body package; no unrelated profile skills or Fireteam privileges are transferred.
