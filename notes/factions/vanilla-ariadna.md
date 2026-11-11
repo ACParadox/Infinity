@@ -6,6 +6,15 @@
 
 ### Whole-game standouts — apex and points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/vanilla-ariadna.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 3 (#3) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Foxtrot Ranger FO 18/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camouflage/Infiltration, Flash Pulse and Shock Mine: low-cost 0-SWC midfield objectives. |
+| — | [Top 5 (#5) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **1st Highlanders S.A.S. FO 21/0 (SO 25/0 separate)** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo/Infiltration and Chain Rifle/D-Charges give resilient short-range scoring for 21pts. |
+| — | [Top 10 (#6) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Chasseur FO 20/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Infiltration/Camo, Sixth Sense, LFT and mine: a cheap Regular scorer and defensive speed bump. |
+| — | [Top 10 (#8) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Strelok FO 17/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo, FD(+20) and Decoy(1); **not** Infiltration. K-9 SO26 is a separate synchronized package. |
+
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
