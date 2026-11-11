@@ -11,10 +11,9 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | [Top 5 (#4) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 5 (#5) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Raptor HSG + HFT Devabot 32/0** · [local roster](../../sectorials/o-12/starmada.md) | W2/BS14, 360°/NCO and synchronized HFT cover adjoining approaches. **Starmada AVA4**; helper has no independent Order/full parent VP. |
-
 | [Top 10 (#6) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | — | **Bronze Specialist MULTI Rifle/Heavy Riotstopper 43/0** · [local roster](../../sectorials/o-12/starmada.md) | W2, ARM4/BTS6, Enhanced Immunity, 360° Visor, Climbing Plus, E/M melee and Heavy Riotstopper; **Bronzes Duo/Haris** only if legal. |
-
 | [Top 10 (#10) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#1-combined-zone-domination--protected-area-denial--apex) | [Top 10 (#6) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Andromeda SMG/Zapper 30/0** · [local roster](../../sectorials/o-12/starmada.md) | Infiltration, Guard, MA3, NWI, Mim(-3), Zapper and D-Charges; **Starmada AVA1** and Guard must see target within ZoC. W1+NWI. |
+
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
