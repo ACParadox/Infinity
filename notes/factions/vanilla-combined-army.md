@@ -35,6 +35,16 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 ### Whole-game standouts — apex versus value
 
+**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/vanilla-combined-army.md).
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| **[Top 3 (#2) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Anathematics HD + Trinity(+1B) — 72/0.5** | WIP16, BTS6, ARM5, 2W+NWI and Hidden Deployment; full HD with stronger active Trinity. Lieutenant builds are separate. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
+| **[Top 5 (#5) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 10 (#10) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Victor Messer HDplus + Trinity(PS5)/Zero Pain — 31/0.5** | WIP14, 2W, Nanoscreen, Zero Pain, White Noise, Cybermine and Deployable Repeater; BTS3 remains a direct hacking vulnerability. **Roster detail:** Vanilla Combined abbreviates the HDplus upgrade names; Shasvastii's pinned 31/0.5 Victor profile explicitly confirms Trinity(PS5) and Zero Pain. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
+| — | **[Top 5 (#4) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
+| — | **[Top 5 (#5) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rodok HD + Trinity — 24/0** | 0-SWC standard HD with Trinity on ARM3/BTS6, Mimetism(-3), Super-Jump and Fireteam eligibility where permitted. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
+| — | **[Top 10 (#7) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! KHD + Oblivion — 22/0.5** | KHD Trinity/Cybermask plus separately printed Oblivion and Pitcher/KISS network. No automatic Carbonite, Spotlight or entire HD suite. **Local cost:** 22/0.5 with standard KISS!; the 24/0.5 Onyx alternative is a different parent option. [Pinned roster](../../sectorials/combined-army/vanilla-combined-army.md). |
+
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
 
