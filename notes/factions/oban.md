@@ -18,6 +18,13 @@ This is an army for **route creation → selective assassination or scoring → 
 
 The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-faction shortlists**, inferred from the repository's N5.3 [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective-holder](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [ARO](../list-building/aro-units-apex-and-value.md), and [cheap-trading](../list-building/warbands-and-cheap-trading-units-apex-value.md) comparisons. They are **not official placements, exhaustive statistical rankings, or win-rate data**; rank *within the named job*, never as overall best units in Infinity.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/jsa/oban.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 10 (#10) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Ryūken-9 SMG/Shock Minelayer, 22/0.5** | FD(+20), Mimetism(-6), Decoy and prepaid Shock Mine; SMG option has no Camo, while the HRL does not start forward. |
+
 | Whole-game shortlist (specific job) | Ōban profile | Why it belongs / apex-versus-value trade-off |
 |---|---|---|
 | **Top 3 (#1) — Dedicated CC Assassins (apex)** | [**Shinobu Kitsune 44/0.5**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L124) | CC25/MA5, Monofilament, Hidden + Infiltration(PH19), Smoke, Climbing Plus; Highest single-target CC ceiling with excellent concealed delivery; 44pt/1W and screens restrict trades. |
