@@ -19,6 +19,13 @@
 
 **Killer Hackers — verified current cross-faction Top 10** (10 November 2026). The [KHD apex/value comparison](../list-building/killer-hackers-apex-and-value.md) qualifies profiles at **#1–10 in either table**, with role-specific (not overall-unit) rankings. Only the loadouts and Fireteam arrangements confirmed in the [pinned local roster](../../sectorials/panoceania/panoceania.md) are counted.
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/panoceania/panoceania.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| **[Top 5 (#4) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Peacemaker Heavy Shotgun/Pulzar + Auxbot-3, 23/0** | FD(+20) native Repeater, second flamer-bearing Auxbot and two approach angles; 23pt BSG(+1B) no-Auxbot option is distinct. |
+
 | KHD Apex rank | KHD Value rank | Legal local profile | Reason / profile constraint |
 |---|---|---|---|
 | **[Top 10 (#6) — KHD apex](../list-building/killer-hackers-apex-and-value.md#strongest-khd-profiles--apex)** | — | **Swiss Guard KHD + TinBot Firewall(-3), 47/0** | WIP13, Hidden Deployment, Mimetism(-6), ARM5/BTS6/2W, and intrinsic TinBot. Not the 56pt HMG/HD or 60pt Missile Launcher loadout. In Vanilla PanO it is a solo/independent unit, not linked. [Pinned local roster](../../sectorials/panoceania/panoceania.md). |
