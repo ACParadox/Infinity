@@ -35,6 +35,14 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/combined-army/vanilla-combined-army.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 3 (#3) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Malignos FO 30/0 or KHD 32/0 (HD option separate)** · [local roster](../../sectorials/combined-army/vanilla-combined-army.md) | Hidden/Infiltration/Mimetism(-6), Regeneration and Shock Mine; the 30pt FO and 32pt KHD cannot be combined. |
+| [Top 5 (#4) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/vanilla-combined-army.md) | BS14/MSV2, Protheion and two distinct deployment modes let her clear and score. FTO 33/0 and FTO-2 30/0 in Next Wave are **different** options. |
+| — | [Top 10 (#10) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Shrouded FO 24/0** · [local roster](../../sectorials/combined-army/vanilla-combined-army.md) | Camo/Infiltration, Regeneration, Shock Mines and a Regular Order; 24pt FO is distinct from HD/KHD. |
+
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned vanilla-combined-army roster](../../sectorials/combined-army/vanilla-combined-army.md).
