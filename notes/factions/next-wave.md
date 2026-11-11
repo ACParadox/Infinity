@@ -20,13 +20,14 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 ### Whole-game standouts — apex versus value
 
+**Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/next-wave.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
-| — | **[Top 5 (#4) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Reapter package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
+| — | **[Top 5 (#4) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Repeater package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
 
-**Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
+
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
