@@ -10,6 +10,15 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| — | [Top 3 (#1) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Fennec FO+Sensor+Disco Baller 13/0** · [N5.3 roster](../../sectorials/panoceania/kestrel-colonial-force.md) | Regular WIP12 Forward Observer with Sensor and deployable Eclipse vision control for 13 points; body is not an elite gunfighter. |
+| — | [Top 5 (#4) · S+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Drummer FO + Drumbot-5 FO 21/0** · [N5.3 roster](../../sectorials/panoceania/kestrel-colonial-force.md) | BS13 Marksman Rifle controller and **synchronized second Forward Observer** (HFT/Flash Pulse, 360°/Mimetism), widening attack and scoring origins; **not two Regular Orders**. |
+
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
@@ -71,7 +80,7 @@ Positions are **role-specific** in the [current ARO rankings](../list-building/a
 - **#12 — Command Units (value)**: [**Tikbalang LT (+1 Order), 73/1.5**](../list-building/command-units-apex-and-value.md#L104) — **BS15, Mimetism(-3), Climbing Plus, Shock Mine, Tactical Awareness** and two personal LT Orders. When solo it can have **four self-funded activations** (Regular + TacAware + two LT Orders), producing unusually high attack tempo. Losing it also loses the LT; **personal LT Orders are not automatic Duo activations**.
 
 
-**Additional standout value pieces:** **Crux Knight FTO MULTI Marksman 46/0** is an effective BS14, +1SD, Albedo, ARM5/BTS6, two-Wound Specialist and Wildcard with Drop Bears, but **does not have a separately documented cross-faction Top 10 tier**; the [47pt Hidden Deployment variant](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L103) has a distinct A-tier airborne assessment. **Griffin HMG 37/1.5** remains a strong [**A+ long-range points-value choice (#10)**](../list-building/active-turn-gunfighters-apex-and-value.md#L108) with BS14/MSV1/2W and legal Fireteam support, but **is no longer in the strict ranged-apex list**; its ordinary HMG lacks the sustained stacking of top apex specialists. **Pathfinder FO/Sensor/Repeater TacAware 17/0** is an **S+ mission-toolbox** piece, particularly valuable in a Duo.
+**Additional standout value pieces:** **Crux Knight FTO MULTI Marksman 46/0** is an effective BS14, +1SD, Albedo, ARM5/BTS6, two-Wound Specialist and Wildcard with Drop Bears, but **is currently Apex #11 in the toolbox ranking, just outside its Top 10**; the [47pt Hidden Deployment variant](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L103) has a distinct A-tier airborne assessment. **Griffin HMG 37/1.5** remains a strong [**A+ long-range points-value choice (#10)**](../list-building/active-turn-gunfighters-apex-and-value.md#L108) with BS14/MSV1/2W and legal Fireteam support, but **is no longer in the strict ranged-apex list**; its ordinary HMG lacks the sustained stacking of top apex specialists. **Pathfinder FO/Sensor/Repeater TacAware 17/0** is an **S+ mission-toolbox** piece, particularly valuable in a Duo.
 
 **Redeye ranking reconciliation:** **S apex in [Vehicles / VH](../list-building/vehicles-vh.md) and A value** rates its complete **aerial vehicle** ceiling, not a conventional head-on gunfight. The [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md) rates **A+ geometry apex (#3) / conditional A+ medium-range shooting value (#8)** for effective 16–24in Spitfire flanking (but not head-on HMG duels), while [indirect fire](../list-building/indirect-fire-speculative-guided-apex-value.md) rates its Continuous-Damage GL **A+** at specialized speculative pressure. These evaluate different jobs rather than disagreeing on the profile's rules. The S apex depends on useful vertical or side lanes, safe S7 concealment, and handling enemy MSV, hacking and long-range AROs; **Kestrel AVA2 is a double-flyer option, not a universal two-Redeye recommendation**.
 
