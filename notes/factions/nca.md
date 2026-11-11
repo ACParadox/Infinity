@@ -10,6 +10,16 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and displays its exact rank. These are editorial orderings, not measured win rates or universal overall-unit ranks. Profiles below #10 are kept outside the standout table.
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned nca roster](../../sectorials/panoceania/neoterran-capitaline-army.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Pitcher Apex #2 · S+** | **Blocker Specialist Operative 15/0** — NCA / eligible White Company / PanO | **BS12 + X-Visor + BS Attack (+1B)**, plus eligible legal teams; extremely strong shot quality independent of its low price **Limit:** Burst can consume both Pitcher shots; **19/.5 Blocker Hacker has no Pitcher** | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| **Pitcher Value #1 · S+** | **Blocker Specialist Operative 15/0** — NCA / eligible White Company | BS12, X-Visor, **Pitcher (+1B via BS Attack)**, specialist and Fireteam utility for 15pt/0SWC **Limit:** Only Disposable (2); different 19/.5 Hacker has no Pitcher | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
+| **Pitcher Apex #10 · A+** | **Locust KHD/Pitcher 27/0 or HD/Pitcher 29/.5** — eligible PanO lists | **BS12**, Hidden Deployment, FD(+20), Mimetism(-6) and enhanced climbing: can reveal for a hard-to-access projection lane **Limit:** Higher price and a vulnerable revealed Hacker; no Fireteam bonus | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| **Turn-0 network #7 · S** | **Peacemaker native Repeater 23–27/0–.5** — eligible PanO | **FD(+20) + native Repeater**, with Auxbot and short-range combat/defense **Limit:** S4 Hackable footprint; select actual loadout, not a combined fictional profile | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#2-best-turn-0-network) |
+| **Mobile Repeater Value #5 · S** | **Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0** — PanO / WinterFor where legal | **MOV15-10**, native Repeater active throughout movement, FO/Sensor and its **own Tactical Awareness Order** to advance without consuming a normal pooled Order **Limit:** **17pt TA profile only**; ordinary 14pt Pathfinder is deliberately excluded | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
 These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
