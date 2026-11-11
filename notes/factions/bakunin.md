@@ -13,6 +13,12 @@
 
 **Top 3 / Top 5 / Top 10 are editorial, role-specific *candidates*** based on the repository's [warband](../list-building/warbands-and-cheap-trading-units-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [peripheral](../list-building/peripheral-synchronized-multibody-apex-value.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md) and [ARO](../list-building/aro-units-apex-and-value.md) comparisons—not official overall ranks or measured win rates. **Apex** means ceiling in the right matchup; **value** means strength relative to points, SWC and Orders.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Apex / Good Value source](../list-building/classified-objective-runners-apex-and-value.md), matched to the [pinned sectorial roster](../../sectorials/nomads/bakunin.md). Each rank is role-specific and belongs to the selected profile or explicitly priced multi-body package; no unrelated profile skills or Fireteam privileges are transferred.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it qualifies; exact-profile limit |
+|---|---|---|---:|---|
+| — | [Top 10 (#7)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Casino Security Rounders HD + Trinity 21/0.5** · [roster](../../sectorials/nomads/bakunin.md) | **13/20** | Veteran **LI**, MSV1, Biometric Visor, NCO, Marksmanship; strong 13-card overlap for a cheap Fireteam-capable Hacker. No MI/HI-specific cards, and not an HDplus. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned bakunin roster](../../sectorials/nomads/bakunin.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
