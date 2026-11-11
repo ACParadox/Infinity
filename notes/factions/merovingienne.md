@@ -6,6 +6,12 @@
 
 ### Whole-game standouts — apex and points value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| — | [Top 10 (#6) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Chasseur FO 20/0** · [local roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Infiltration/Camo, Sixth Sense, LFT and mine: a cheap Regular scorer and defensive speed bump. |
+
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
