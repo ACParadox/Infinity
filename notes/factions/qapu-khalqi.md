@@ -11,6 +11,13 @@
 
 **Top 3 / Top 5 / Top 10 are editorial *role-specific* cross-faction candidates**, not universal all-unit ranks, measured win rates or official tiers. *Apex* is peak matchup impact; *value* compares points/SWC/Orders. Anchors: [command](../list-building/command-units-apex-and-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [Vehicles](../list-building/vehicles-vh.md), [vision control](../list-building/vision-control-units-apex-and-value.md) and [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md).
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned qapu-khalqi roster](../../sectorials/haqqislam/qapu-khalqi.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Pitcher Apex #4 · S** | **Druze Shock Team KHD/Pitcher 23/0 or HD/Pitcher 25/.5** — Druze / Qapu / Ikari as legal | **BS12 + X-Visor** on a team-capable shooter; can project from beyond standard favorable Pitcher bands, then use the printed Hacker **Limit:** Team bonuses and Fireteam eligibility depend on sectorial; do not combine KHD and HD profiles | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| **Pitcher Value #4 · S** | **Druze KHD/Pitcher 23/0; HD25/.5** — Druze / Qapu / Ikari | **BS12 + X-Visor** and legal Fireteam options; unusually efficient accurate thrower plus Hacker **Limit:** More expensive than line launchers; watch SWC on HD | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
+
 **Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Top 10 Apex/Value are **role-specific** positions from the [hybrid hacker guide](../list-building/hybrid-hackers-apex-and-value.md); apply only to legally matching profiles in the [pinned N5.3 roster](../../sectorials/haqqislam/qapu-khalqi.md), with explicit caveats where its upgrade detail is abbreviated.
