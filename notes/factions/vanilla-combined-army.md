@@ -37,6 +37,13 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official rankings or tournament win-rate measurements. A model can be apex for combat but poor value once its support, Orders and specialist displacement are counted.
 
+**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned vanilla-combined-army roster](../../sectorials/combined-army/vanilla-combined-army.md).
+
+| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|
+| **Mobile Repeater Value #7 · S** | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Combined / Next Wave as legal | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+| **Network package #10 · A+ / A+** | **Combined/Onyx:** **Bit & KISS!25/.5 specific Repeater-KISS package** + suitable support; alternatively legal **Umbra Legate FTO HD+/Pitcher38/.5** | Pitcher, placeable Repeater, and peripheral **native** node create multiple access methods; Umbra trades cost for BS13, Tactical Order and offense **Limit:** Do not import **Repeater KISS** into 22/.5 or 24/.5 KHD options; expensive Umbra should not be expendable | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#4-best-package) |
+
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
 The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
