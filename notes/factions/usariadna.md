@@ -10,6 +10,13 @@
 
 #### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
 
+
+**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/ariadna/usariadna.md) qualify. These are role-specific placements, not overall unit ranks.
+
+| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
+|---|---|---|---|
+| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo, Heavy Flamethrower and Panzerfaust; mine carried, not preplaced, and 9pt FTO lacks FD/Camo. |
+
 | Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
 |---|---|---|---|
 | **Top 10 (#6) — DZ defenders (value, S+)** | **USAriadna Grunt HFT/LSG 10/0** | Native Regular ARM3/Immunity(Shock) heavy-template guard; local Grunt teams can use the **10pt non-FD** profile. The 12/.5 Forward Deployment version cannot join Fireteams. | [#6 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
@@ -24,13 +31,13 @@
 
 - **Top 3 — Warbands and Cheap Trading Units (value):** [**Desperado Chain Rifle + Smoke GL 7/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L120) is S+ cost value, with a 20-10 motorcycle and cheap lateral line-of-fire denial. It is Irregular/Impetuous, not a transferable Regular Order. [Warband value](../list-building/warbands-and-cheap-trading-units-apex-value.md).
 - **Top 5 — Objective Holding / Zone Domination / Carried Objectives (value):** [**Minuteman FO/NCO T2 Rifle 25/0**](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L179) is S+ value in carried-objective defense: specialist, T2/LFT, BS Attack (+1SD), NCO and protection from some electronic threats. Still only one Wound. [Objective-holder tiers](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
-- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Foxtrot Boarding Shotgun Minelayer 18/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L98) is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Foxtrot Boarding Shotgun Minelayer 18/0.5**](../list-building/midfield-defenders-and-speed-bumps.md) is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-defenders-and-speed-bumps.md).
 - **Strong sectorial attackers, without an unsupported global Top 10 claim:** **Unknown Ranger MSV1 Mk12 42/0 or AP Spitfire 45/1** has Tactical Awareness, NWI and specialist/gunfighter utility; **Blackjack AP HMG or T2 Sniper 35** provides protected long-range pressure. Neither exact gun build has a standalone cross-faction tier; these remain sectorial recommendations. A *different* [39-point Unknown Ranger Specialist](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L62) appears in the objective-carrying discussion.
 
 - **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** for Order value and conditional disposable-ammo reloads. The **9/1 Guided** and **14/1 Total Reaction** versions cost more and solve different jobs. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
 - **Further notable profiles, distinguishing ranked from unranked:**
   - **Devil Dog + K-9 23/0:** durable Smoke/template and synchronized Sensor/close-pressure package; **not independently tiered in the current cross-faction warband table**. **Devil Dog FTO 22/0** is the *separate, no-K-9* link option, not the same package.
-  - [**Beasthunter HFT + Panzerfaust, Camo/FD(+20), 15/0:**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L75) **A+ apex / S points value** for a concealed forward anti-heavy/template fork. Its **9-point FTO** profile has *neither the same Camo/FD package nor a USAriadna Fireteam entry*. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
+  - [**Beasthunter HFT + Panzerfaust, Camo/FD(+20), 15/0:**](../list-building/midfield-defenders-and-speed-bumps.md) **A+ apex / S points value** for a concealed forward anti-heavy/template fork. Its **9-point FTO** profile has *neither the same Camo/FD package nor a USAriadna Fireteam entry*. [Midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md).
 
 
 #### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
