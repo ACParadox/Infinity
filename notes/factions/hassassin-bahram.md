@@ -8,7 +8,11 @@
 
 ### Whole-game standouts — apex versus value
 
+**Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. Positions refer to this particular role, not an overall army tier; alternative loadouts and Fireteam access are never pooled.
 
+| Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|
+| — | [Top 10 (#10) · S](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Asawira Doctor BSG(+1B) 35/0** · [local roster](../../sectorials/haqqislam/hassassin-bahram.md) | W2/ARM4/BTS9, Regeneration, excellent close-room deterrence and Doctor(+3); legal **Hassassin Wildcard** if a permitted team is fielded. |
 **Top 3 / Top 5 / Top 10 are editorial shortlist *candidates within a named cross-faction job***, not universal all-unit ranks or recorded win rates. *Apex* means peak board impact; *value* means price/SWC/Order efficiency. See [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md), [cheap units](../list-building/best-cheap-units.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [airborne](../list-building/airborne-and-enemy-dz-attackers-apex-value.md), [command](../list-building/command-units-apex-and-value.md) and [specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned hassassin-bahram roster](../../sectorials/haqqislam/hassassin-bahram.md).
