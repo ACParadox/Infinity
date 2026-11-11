@@ -28,13 +28,12 @@ _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (t
 ### Whole-game standouts — apex versus value
 
 **Top 3 / Top 5 / Top 10** mean **qualitative, role-specific cross-faction shortlist candidates**, not official overall ranks, simulated odds or measured win rates. Distinguish *apex* (highest matchup ceiling) from *value* (what the entire package buys for points, SWC and Orders).
+
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
 | — | **[Top 5 (#5) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Rodok HD + Trinity — 24/0** | 0-SWC standard HD with Trinity on ARM3/BTS6, Mimetism(-3), Super-Jump and Fireteam eligibility where permitted. **Roster caveat:** Morat's abbreviated 24/0 Hacker entry does not explicitly name Trinity, while the same Rodok family in Onyx/Vanilla Combined does; rank conditional on the upgrade being present. [Pinned roster](../../sectorials/combined-army/morat-aggression-forces.md). |
-
-
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
@@ -61,7 +60,6 @@ Cross-faction placements from the [current ARO guide](../list-building/aro-units
 | Cross-game rank / specific role | Legal profile | Why / limitations |
 |---|---|---|
 | **Top 3 (#3 apex / #2 value) — Airborne/DZ attackers** | **Rasyat BSG 25/0 (Spitfire 34/1.5 apex alternative)** | S apex / S+ value: guaranteed legal enemy-DZ edge entry with Eclipse, reliable no-drop-roll backline pressure; edge AROs still matter; [Apex ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L117) / [Value #2](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L153) |
-
 
 - **Top 10 (#9) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Kurgat Portable Autocannon, 30/1**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L80) — Morat foundation Engineer with repeatable B2 AP+EXP, D-Charges and 1 SWC; BS12/one Wound make support and safe lanes important.
 - **Top 5 — Warbands and Cheap Trading Units (value): Dāturazi Chain Rifle (+1B) 14/0.** ([cross-faction S warband](../list-building/warbands-and-cheap-trading-units-apex-value.md#L94)) **S-tier** in the [warband comparison](../list-building/warbands-and-cheap-trading-units-apex-value.md): Regular PH14 Smoke, Warhorse, MA4 and DA close-combat threat. Its best use may be enabling Yaogat shooting rather than charging alone.
