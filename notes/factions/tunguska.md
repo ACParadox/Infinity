@@ -15,6 +15,7 @@
 | Zone/Denial Apex | Zone/Denial Value | Eligible local profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|
 | — | [Top 5 (#4) · S+](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#2-combined-zone-domination--protected-area-denial--value) | **Hollow Man BSG Specialist 21/0** · [local roster](../../sectorials/nomads/tunguska.md) | W2, ARM4/BTS6, Remote Presence, Super-Jump and Chain-colt make a durable 21pt room blocker; **Tunguska Hollow Men Fireteam** is roster-specific and 26pt Pitcher is a different non-specialist loadout. |
+
 **Top 3 / Top 5 / Top 10 are role-specific editorial *candidates*** supported by the repository's [hacking](../list-building/hackers-and-killer-hackers.md), [network](../list-building/network-projection-repeaters-pitchers-apex-value.md), [cheap-unit](../list-building/best-cheap-units.md), [Order](../list-building/cheerleaders-and-order-generators.md) and [gunfighter](../list-building/active-turn-gunfighters-apex-and-value.md) comparisons. They are not official overall ranks; distinguish *apex* from *points efficiency*.
 
 **Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/nomads/tunguska.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
