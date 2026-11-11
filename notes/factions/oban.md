@@ -18,6 +18,14 @@ This is an army for **route creation → selective assassination or scoring → 
 
 The **Top 3 / Top 5 / Top 10** bands below are **editorial, role-specific cross-faction shortlists**, inferred from the repository's N5.3 [mission-specialist](../list-building/mission-specialists-and-button-pushers-apex-value.md), [objective-holder](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md), [vision-control](../list-building/vision-control-units-apex-and-value.md), [close-combat](../list-building/dedicated-close-combat-assassins-apex-value.md), [command](../list-building/command-units-apex-and-value.md), [ARO](../list-building/aro-units-apex-and-value.md), and [cheap-trading](../list-building/warbands-and-cheap-trading-units-apex-value.md) comparisons. They are **not official placements, exhaustive statistical rankings, or win-rate data**; rank *within the named job*, never as overall best units in Infinity.
 
+**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
+
+The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [Top 5 (#4) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Shikami Specialist 42/0 or MULTI Rifle 47/0** · [N5.3 roster](../../sectorials/jsa/oban.md) | FD+10, Mimetism(-6), Eclipse, Super-Jump/Climbing Plus, 2W, high CC and scoring; the 42pt and 47pt guns are different. |
+
 
 **Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/jsa/oban.md) qualify. These are role-specific placements, not overall unit ranks.
 
