@@ -10,6 +10,13 @@
 
 **Ranking rule:** Top 3 = positions #1–3, Top 5 = #1–5, and Top 10 = #1–10 in the cited **cross-faction role and criterion** (apex or value). Each row uses the narrowest applicable band and shows its exact rank in parentheses. These are editorial orderings, not measured win rates or universal overall-unit ranks; different profiles and roles are evaluated separately. Entries ranked below #10 appear outside the shortlist.
 
+**Classified objective runners — verified whole-game Top 10 (11 November 2026).** Exact **Apex / Good Value** rankings from the [cross-faction Classified guide](../list-building/classified-objective-runners-apex-and-value.md), checked against this faction's [pinned roster](../../sectorials/panoceania/kestrel-colonial-force.md). These are role-specific eligibility shortlists, **not** overall unit rankings; only the legal *selected profile* earns the placement.
+
+| Classified Apex | Classified Value | Legal local profile / package | Eligible cards | Why it earns the rank; exact-profile limit |
+|---|---|---|---:|---|
+| [Top 3 (#3) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Black A.I.R. FTO HD 26/0.5** · [roster](../../sectorials/panoceania/kestrel-colonial-force.md) | **15/20** | Elite MI with MSV2, Mimetism(-3), HD and D-Charges. The FO29 and parachutist KHD31 options are **not** this profile. |
+| [Top 5 (#5) · A+](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | [Top 10 (#6)](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--good-value-ranking) | **Fireflies HD 24/0.5** · [roster](../../sectorials/panoceania/kestrel-colonial-force.md) | **15/20** | Veteran MI with NCO, Albedo, D-Charges and a full HD for exceptional cost-to-coverage. No forward start; other Engineer/CoC/Paramedic variants are different. |
+
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned kestrel roster](../../sectorials/panoceania/kestrel-colonial-force.md).
 
 | Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
