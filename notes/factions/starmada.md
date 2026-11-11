@@ -6,6 +6,14 @@
 
 ### Whole-game standouts — apex versus value
 
+**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [Top 5 (#5) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Andromeda SO 30/0 SMG + Zapper (Infiltration PH15)** · [local roster](../../sectorials/o-12/starmada.md) | NWI, Guard, Mimetism(-3), D-Charges and aggressive early objective access; 33pt BSG profile is separate. |
+| [Top 10 (#7) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Casanova SO 31/0 FD(+20) Minelayer or SO 32/0 Infiltration** · [local roster](../../sectorials/o-12/starmada.md) | Decoy, Mimetism(-6), NWI and Monofilament CC; 31pt predeployment and 32pt PH15 Infiltration are mutually exclusive. |
+| [Top 10 (#9) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Nightshade KHD 34/0** · [local roster](../../sectorials/o-12/starmada.md) | Hidden Deployment, FD(+20), Mimetism(-6) and Super-Jump; non-KHD 31pt loadout is not the ranked Hacker profile. |
+
 **Top 3 / Top 5 / Top 10 are editorial role-specific shortlist *candidates*, not official world rankings, observed pick rates or universal autopicks.** Apex measures ceiling at the named job; value compares points/SWC and real Order support. Grounded in cross-faction [recovery](../list-building/doctors-engineers-and-recovery-apex-value.md), [gunfighters](../list-building/active-turn-gunfighters-apex-and-value.md), [network projection](../list-building/network-projection-repeaters-pitchers-apex-value.md), [ARO](../list-building/aro-units-apex-and-value.md) and [mission specialists](../list-building/mission-specialists-and-button-pushers-apex-value.md).
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned starmada roster](../../sectorials/o-12/starmada.md).
