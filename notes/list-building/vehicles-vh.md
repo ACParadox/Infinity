@@ -1,152 +1,48 @@
-# Vehicles (VH / Aerial) — N5.3 cross-faction field guide and tier lists
+# Vehicles (VH / Aerial) — N5.3 Best overall (Apex + Value)
 
-**2026 Vanilla O-12 Firebat reassessment — [Robert Shepherd, O-12 focus (58–61m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=3480s), full transcript reviewed:**
+**Updated:** 11 Nov 2026. **Format:** one cross-faction, ordinal **Best** ranking, combining peak effectiveness (**Apex**) and points/SWC efficiency (**Value**). Eight current standard-roster VH families are covered, one row per family; representative profiles are examples rather than a claim of shared sectorial loadouts. This is editorial judgment for a typical **300-point game**, not tournament win-rate data.
 
-- He calls the Firebat an **okay, situational** Vehicle rather than a list staple and prefers **35/0 MULTI Rifle + Heavy Riotstopper + Akrylat-Kanone + Blitzen**: shorter rifle engagements exploit VH angles and nonlethal ARO ammunition with **BS Attack(+1SD)** can threaten costly models without winning the raw gunfight.
-- A **Raveneye Lt12 + Firebat NCO** is an actual use case; NCO can finance approach or Suppressive Fire.
-- He generally prefers **Kyra Sharma45** for mission mobility and reliable Specialist work without S7/No Cover exposure.
-- **Opposing view** in this file rates 35–36pt/0SWC Firebat as **S value** and another video calls it #4–6 VH; retain these as competing *conditional* assessments instead of silently replacing the tier or inventing universal community consensus.
+**Ranking method:** weigh (1) ability to create otherwise impossible attack angles and remove important targets, (2) efficiency after points, SWC and faction opportunity cost, (3) durability / reactive-turn safety, (4) useful secondary roles such as NCO, Sensor, Repeaters, peripherals, or post-shell Operators, and (5) practical support and deployment requirements. This is **not** the arithmetic average of the former Apex/Value grades. **S** = exceptional all-round pick or offensive rate; **A** = excellent but with a more material list/matchup constraint; **B** = useful specialist or high-risk pick rather than a broadly efficient default. Within-tier gaps are small.
 
-**Rare support and anti-vision unit combinations:** [N5.3 Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) explains **Apsaras/Pilot-X RemDriver** buffing an eligible REM at deployment, **Léi Gōng/Satrah anti-MSV tools** and **Protheion target limits**. RemDriver is one chosen REM with printed MODs and ends if the driver enters Null—not all REMs in the group.
+**Primary profile authority:** current N5.3 / pinned Infinity Army material in this repository's `sectorials/` and `rules/` trees. Commentary from video and podcast tier discussions informs judgment, but outdated points or faction access do not override the current roster. The best dedicated **pre-Tarkshya** vehicle ranking is [Robert Shepherd's Oct-2025 aerial-vehicle analysis](https://www.youtube.com/watch?v=N6TYjMgU4ZM), which ranked the seven then-available *actual VHs* **Zeybek > Skyhound > Haytham > Redeye > Firebat > Go-Pod > Fēiquán** (Garuda is a REM, not VH). Its ranking deliberately emphasizes faction context. **Tarkshya was introduced later** and its placement below is an independent N5.3 judgment, not an attributed video placement.
 
-**Research:** 2026-10-23. **Mode:** ordinary 300-point games. **Roster authority:** the current N5.3 / pinned Infinity Army references in `sectorials/`, not videos. **Coverage:** eight VH unit families in current standard rosters:
+## Best — cross-faction VH ranking
 
-- **Skyhound**
-- **Tarkshya**
-- **Redeye**
-- **Zeybek**
-- **Firebat**
-- **Haytham**
-- **Go-Pod**
-- **Fēiquán**
+| # | Tier | Vehicle — legal armies | Representative pts / SWC | Why it ranks here; main limitation |
+|---|---|---|---|---|
+| **1** | **S** | **Skyhound** — Combined Army: Next Wave | **33 / 0** plasma carbine + AP Thunderbolt + Mine Dispenser; 31 / 0 MULTI Rifle | Best mix of *raw attacking ceiling* and low list cost: BS14, Mimetism (-6), plasma/AP coverage, mine projection and **zero SWC** let it threaten many target types without displacing a premium heavy gun. Shepherd considered its raw profile arguably the best flyer, though ranked it second among actual VHs for faction-fit reasons. **Counterweight:** ARM4/W2, No Cover, hacking vulnerability and Next Wave's expensive supporting roster make early losses painful. Prefer the 33-point build when the extra offensive reach matters. |
+| **2** | **S** | **Tarkshya** — ALEPH / Operations Subsection (OSS) | **34 / 0** MULTI Marksman Rifle + Chain Rifle (+1B); 38 / 0 MMR + AP SMG; 41 / 1.5 MULTI Red Fury | Outstanding *complete package for cost*: MSV1 for enemy Mimetism, own Mimetism (-6), **STR3**, Remote Presence and a surviving **Operator** state with useful weapons/FO possibilities. The **34/0** profile is the best default for most balanced lists. Edges Skyhound on endurance and follow-through, but not on raw gun versatility. **Counterweight:** S7/No Cover/Hackable; Operator scoring is conditional on the legal transition. **Provisional** relative to older video lists, which predate it. |
+| **3** | **S** | **Zeybek** — Haqqislam / Qapu Khalqi | **33 / 1.5** AP Spitfire + Smoke Grenade Launcher + Operator | High-impact **Albedo** and smoke package counters MSV-dependent defenses, while AP Spitfire gives genuine punch and the post-shell Operator can preserve an Order and become a specialist. In smoke-reliant Haqq, this can be the *best faction-specific VH*, matching Shepherd's **#1**. **Counterweight:** no native Mimetism against ordinary shooters, No Cover, and **1.5 SWC**; value drops in matchups with few MSV targets. Haqq can field Haytham too, but they are not automatically a legal Duo. |
+| **4** | **A** | **Redeye** — PanOceania / Kestrel / Neoterran Capitaline Army | **37 / 1.5** Spitfire + Blitzen; **38 / 1.5** Spitfire + Continuous Damage GL | Highest **raw staying power among the classic VHs**: BS14, ARM6, Mimetism (-6), STR2 Remote Presence and Sensor. A powerful finisher and vertical-angle problem solver; Blitzen adds E/M deterrence, while the GL pressures null deployment. **Kestrel and NCA AVA2** can make double Redeye especially potent, as highlighted by [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) and [WIP12 #201](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb). **Counterweight:** 1.5 SWC for a Spitfire competes with PanO's better conventional hard-ARO guns; Shepherd ranked it **#4 of seven actual VHs** for this reason. Could move above Zeybek in Kestrel/NCA lists built around its angles. |
+| **5** | **A** | **Firebat** — O-12 / Starmada / Torchlight Brigade | **36 / 0** AP SMG + Thunderbolt + LRL; **35 / 0** MULTI Rifle + Riotstopper/Akrylat/Blitzen | Extremely attractive **0-SWC NCO** utility attacker, with Mimetism (-6), BS Attack (+1SD), wide weapon bands and a credible Suppressive Fire plan. Raveneye Lieutenant Orders are a useful resource in the right Torchlight build. The 35-point version emphasizes disabling enemies; 36 emphasizes lethal attacks. **Counterweight:** BS13 and generally lower Burst do not make it a premium frontal gunfighter. [Shepherd's 2026 vanilla O-12 reassessment](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=3480s) treats it as *situational*, not automatic, and favors the 35-point control profile; its ranking here weights low SWC and NCO more heavily than his older #5 placement. |
+| **6** | **A** | **Haytham** — Haqqislam (Vanilla) | **29 / 0** Heavy Shotgun (+1B) + Chain Rifle + Panzerfaust; **33 / 1.5** Red Fury + Panzerfaust | Strong **MSV1 + Mimetism (-6)** mix gives it excellent anti-flyer/anti-camo attack potential, and the 29/0 profile is one of the cheapest credible VH flank threats. The 33-point option upgrades to a more independent Red Fury gunfighter. Shepherd ranked it **#3** among older VHs, above both Redeye and Firebat, based on Haqq faction fit. **Counterweight:** ARM3/W2, No Cover, and no Zeybek-style smoke or Operator; the pricier profile also consumes 1.5 SWC. **No current pinned Ramah access.** Could exceed Firebat when MSV hunting is the actual list gap. |
+| **7** | **B** | **Go-Pod** — Nomads / Bakunin / Tunguska | **33 / 0** MULTI Rifle + E/Mitter + Go-Bot; **32 / 1.5** HRL + AP SMG + Go-Bot | A unique **Synchronized Go-Bot fork** adds template-vs-gun ARO pressure and creates unusually sharp close-range attack puzzles. Either weapon build can produce a high ceiling with advance planning; 33/0 preserves scarce SWC. **Counterweight:** ARM2/W2, Mimetism (-3), S7/No Cover and significant Nomad competition for secure staging space; the peripheral is **not an independent Order**. Shepherd is skeptical, while [MetaChemistry #132's Bakunin winner discussion](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) notes local enthusiasm without a universal inclusion verdict. Bring it when a safe attack *and exit* are available. |
+| **8** | **B** | **Fēiquán** — Yu Jing / White Banner / Imperial Service | **28 / 0** E/M Carbine (+1B), Akrylat, Flash Pulse, **Pitcher (+1SD)**; **27 / 0** MULTI Rifle (+1B) + X-Visor | Arguably the game's most distinct **aerial Pitcher**: reach above/beyond cover, plus Sensor and E/M control, can enable Spotlight/Oblivion/KHD/Guided lines that cheaper ordinary Repeaters cannot. It may jump above Go-Pod **in a purpose-built hacking list**, especially Imperial Service; see [Irregular Order #47](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE) and [Loss of Lieutenant #161's Pitcher tier discussion (from 34:20)](https://www.iheart.com/podcast/338-loss-of-lieutenant-an-infi-98037657/episode/episode-161-pitcher-tierlist-310782388/). **Counterweight:** the 28-point Pitcher build has **no lethal weapon** and depends on another model exploiting the network; ARM3/W2/BTS3/No Cover and S7 make its cost steep if the network is unnecessary. Shepherd ranked it last on broad applicability, not because the Pitcher is weak. |
 
-Sectorial availability and profiles differ; the vehicle classification does not imply ordinary Fireteam access. **Tarkshya is newer than the October 2025 all-flyer video**: its ranking is extrapolated from the 2026 pinned profile, not attributed to that presenter.
+## Ranking interpretation and useful swaps
 
-## Quick decisions
+- **Skyhound vs Tarkshya:** Skyhound wins *first-attack lethality and weapon coverage*; Tarkshya wins *staying power, MSV matchup, operator continuity*. If a list is already light on repair, redundancy or ground specialists, Tarkshya may be the practical #1.
+- **Zeybek vs Redeye:** Zeybek's Albedo, smoke and Operator make it unusually valuable in Haqq; Redeye is the better raw armored flyer and moves up in PanO lists exploiting Kestrel/NCA **AVA2**. Neither is an automatic replacement for a long-range ARO-breaker.
+- **Firebat vs Haytham:** Firebat wins on NCO, 0-SWC toolbox fire and recurring order use; Haytham wins on **29-point entry**, MSV1 and a cleaner aggressive hunt. They are close, and Shepherd's faction-context ordering favors Haytham.
+- **Go-Pod vs Fēiquán:** Go-Pod has a more direct kill-and-disrupt plan; Fēiquán is exceptional **only when its aerial Repeater projection feeds actual hackers/guided weapons**. Treat the latter as role-dependent rather than universally weak.
+- **Tradeoffs matter more than 1–3 places of rank.** A 0-SWC vehicle leaves a premium weapon available; a 1.5-SWC vehicle must improve your plan enough to justify the gun/SWC it displaces. Every VH also needs S7 staging space that might otherwise belong to a TAG.
 
-- **Peak gun / apex:**
-  - **Skyhound** (33/0, plasma/AP Thunderbolt/mine + BS14/Mimetism -6)
-  - **Tarkshya** (34–41, MSV1 + Mimetism -6 + 3 STR + surviving Operator)
-  - **Redeye** (37–38, BS14/ARM6/Mimetism -6 + Sensor and Spitfire)
-  - **Zeybek** (33, AP Spitfire/Albedo/Smoke and post-shell Operator). *Which dominates depends on targets, MSV, terrain, and whether the faction can clear hard AROs.*
-- **Best rate / cost:**
-  - **Skyhound 33/0**
-  - **Tarkshya 34/0**
-  - **Firebat 35–36/0**. Free SWC and highly distinct utility make these easier to fit beside a real heavy long-range gun. Skyhound is less automatic in **Next Wave** because its army has expensive support bodies.
-- **Most useful situational buys:**
-  - **Fēiquán 28/0** for an aerial Pitcher + Sensor + E/M network
-  - **Haytham 29/0** for cheap flanking (or 33/1.5 for better independent shooting)
-  - **Go-Pod 33/0** for peripheral fork without SWC (32/1.5 rocket for higher attack potential).
-- **Main cost isn't points alone:** **S7 + No Cover + Hackable + no direct contact repair**, plus sometimes **1.5 SWC** for a weapon that cannot solve a hard entrenched ARO. Take a VH to exploit or create an *angle*, not to imitate a TAG's armored frontal assault.
+## Employment, restrictions and counterplay
 
-## Tier definitions
+**Use a VH to make a new angle, not to substitute for a TAG's frontal gunfight.** They are large **S7, No Cover, Hackable** models that cannot go Prone, so park in **Total Cover**, not partial cover; consider the *entire Jump trajectory* for ARO exposure. Remove MSV/high-Burst AROs, Pitchers and Hackers before launching. Budget Orders not only for reaching and defeating a target, but also for retreating to Total Cover.
 
-**Apex** = the highest tactical ceiling against worthwhile targets with sensible support: reach, gun quality, defense, utility and independent ability to create new attacks. **Value** = tactical contribution compared with **points + SWC + support + deployment footprint**, in a typical faction list. Tiers are editorial, not tournament win-rate data or official stats. **S** exceptional, **A** strong, **B** conditional, **C** narrow/poor without a specific plan. The rows are **not strict rank order within a tier**, and a conditional ranking can change by mission.
+**They cannot make Silhouette contact while Aerial.** An active VH therefore normally cannot touch objectives, grab mission items, engage in CC, or receive normal contact-based Engineer repairs. **Ranged GizmoKit + Tech-Recovery** can remove eligible states; Unconscious repair uses ordinary GizmoKit recovery rather than the extra state-clearing effect. See [Aerial](../../rules/5b_Special%20Skills/Aerial.md), [Tech-Recovery](../../rules/5b_Special%20Skills/Tech-Recovery.md) and [GizmoKit](../../rules/5c_Equipment/GizmoKit.md) for details. The **Tarkshya/Zeybek Operator** may gain different scoring options *only after* its specified legal transition.
 
-| # | Vehicle (current sample) | Apex | Value | Best scenario / why | Why not |
-|---|---|---|---|---|---|
-| 1 | **Skyhound** 33/0 BS14 plasma carbine + AP Thunderbolt + Mine Dispenser, or 31/0 MULTI Rifle | **S** | **S** | **Next Wave** attack and area shaping: Mimetism(-6), dual-purpose plasma and AP, valuable mine shot during a move, 0 SWC. Better *raw* offensive rate than most flyers. | ARM4 / W2 / No Cover, easily neutralized by hacking. **Faction-support tax:** Next Wave may lack cheap redundancy; one early loss is costly. Prefer **33** to **31** when the +1B plasma/AP gun adds independent attack power. |
-| 2 | **Tarkshya** 34/0 MULTI MMR + Chain Rifle(+1B), 38/0 MMR + AP SMG, 41/1.5 MULTI Red Fury | **S** | **S** | **ALEPH/OSS** all-rounder: **MSV1 counters common Mimetism**, Mimetism(-6) protects return fire, STR3 + Remote Presence and an Operator that keeps meaningful weapon/FO utility after shell damage. **34/0** is a superb low-SWC default. | Still S7/No Cover/Hackable; do not count future Operator specialist actions before the actual transmutation conditions occur. **41** worth SWC only if the longer-range high-Burst role is truly missing. **Not in 2025 vehicle rankings**, added in later Army data. |
-| 3 | **Redeye** 37/1.5 Spitfire + Blitzen, or 38/1.5 Spitfire + Continuous Damage GL | **S** | **A** | **Vanilla PanO, Kestrel, NCA:** BS14, ARM6, Mimetism(-6), STR2 Remote Presence, Sensor, 20–5/Jet Propulsion; solves prone/hidden angles and punishes stranded units after an HMG clears the long lane. **Blitzen** for anti-TAG/HI/VH reactive E/M; **GL** for indirect attacks on inaccessible targets. | **1.5 SWC for a Spitfire** competes with the premium PanO gun that is needed to clear elite ARO. S7/No Cover even with ARM6. **Major disagreement:** Shepherd ranked it below less impressive pure shooters due to PanO opportunity cost, while Sep-2026 Irregular Order calls it top-tier and advocates **Kestrel AVA2/double Redeye**; WIP12 #201 prizes its ability to break null deployment. |
-| 4 | **Zeybek** 33/1.5 AP Spitfire + Smoke GL + Zeybek Operator | **S** | **A** | **Vanilla Haqq/Qapu:** **Albedo + BS Attack defensive MODs** counter MSV/Marksmanship, which are especially dangerous to smoke-based plans; AP Spitfire is serious gun. Operator after shell damage may become a **specialist** and preserve a Regular Order. Combined with cheap smoke/White Noise the opponent must answer different visibility lanes. | **No native Mimetism** against ordinary non-MSV shooting; No Cover, 1.5 SWC; its operator does not appear *until* correct damage/transmutation occurs. **Context reversal:** exceptional in smoke-reliant Haqq, much less dominant when the opponent already has no MSV to suppress. |
-| 5 | **Firebat** 36/0 AP SMG + Thunderbolt + LRL, or 35/0 MULTI Rifle + Riotstopper/Akrylat/Blitzen | **A** | **S** | **O-12/Starmada/Torchlight:** 0 SWC, Mimetism(-6), **NCO**, BS Attack(+1SD), useful short/mid/long weapon suite, defensive Suppressive Fire option. Converts an otherwise unused LT Order into deployment/attack/reposition; good support gun without crowding HMG/TAG SWC. | BS13 and mostly limited weapon Burst; don't lead against a superior protected long-range ARO. **36** for lethal bands, **35** for adhesive/riotstopper control. **Opinion difference:** Shepherd only ranked #6 in Oct 2025 but explicitly considered #4–6 nearly interchangeable. |
-| 6 | **Haytham** 33/1.5 Red Fury + Panzerfaust + AP heavy pistol(+1B), or 29/0 Heavy Shotgun(+1B) + Chain Rifle + Panzerfaust | **A** | **A** | **Vanilla Haqq:** MSV1, Mimetism(-6), Continuous Damage shooting, flanking and anti-flyer hunting; **33** for a full midrange attack plan, **29/0** for a low-SWC flank/template ambush. Counter other Mimetism-reliant VHs via MSV1. | ARM3/W2 and S7/No Cover; does not bring the Zeybek's smoke or operator-based objective path. The 2025 video also mentions **Ramah**, but the **pinned current Ramah reference has no Haytham**: do not import outdated roster access. |
-| 7 | **Go-Pod** 33/0 MULTI Rifle + E/Mitter, or 32/1.5 HRL + AP SMG; both with Go-Bot | **A** | **B** | **Vanilla Nomads/Bakunin/Tunguska:** huge Super-Jump angles plus **Synchronized Go-Bot** can force a template-vs-gun ARO dilemma; budget **33/0** preserves SWC, **32/1.5** adds serious rocket/short-range shooting. Useful as a protected *finisher* after hackers/MSV guns are eliminated. | **ARM2/W2, Mimetism(-3), S7/No Cover** make it fragile even versus ordinary shooters. Go-Bot needs valid controller/peripheral order/coherency—not an independent Order. **Disagreement:** local players call it near-auto-include; Robert Shepherd and a Bakunin event winner point to poor survival after the first run and conflicting S7 TAG/REM staging space. |
-| 8 | **Fēiquán** 28/0 E/M carbine(+1B)/Flash Pulse/Akrylat/Pitcher (+1SD), or 27/0 MULTI Rifle(+1B)/Akrylat/Blitzen/X-Visor | **B** | **A** *when network is needed*; **C** without payoff | **Vanilla Yu Jing/White Banner/Imperial Service:** exceptionally flexible **high/long-angle Pitcher** plus Sensor and E/M control; enables KHD/Spotlight/Oblivion/Guided without buying a conventional weak repeater runner. **28** for a clear network plan, **27** only when cheap direct gun + X-Visor actually matters. | ARM3/BTS3/W2/S7/No Cover and often **no lethal weapons at all on the 28-point option**. Cannot be the sole attacker. **Aug-2026 Irregular Order disagreement:** Pitcher especially important for ISS's less developed forward network; White Banner already has other Repeaters, so some prefer its 27-point gun or skip it. |
+**Matchups:** into hard MSV, consider Zeybek's Albedo; into Mimetism-heavy targets, prioritize Tarkshya/Haytham MSV1; into prone rooftops, seek Redeye/Skyhound angles; into a thin hacking network, Fēiquán's Pitcher can open the map; into dense Repeaters and long-range covered AROs, **sometimes no VH is the correct answer**. Sensor is valuable, but a Sensor model with a poor combat route is still a poor attack piece.
 
-**Apples-to-apples warning:** A sky-high-value 0-SWC VH cannot be compared with a 1.5-SWC flyer without counting what premium SWC gun must be removed. Likewise, **Go-Pod** and **Tarkshya/Zeybek** carry **distinct included support/alternate states**; do not rank just the initial flying gun. **Cross-guide reconciliation:** The [dedicated medium-range gunfighter rankings](active-turn-gunfighters-apex-and-value.md) now place **Redeye #3 apex / #8 value**, **Tarkshya #6 / #4**, **Zeybek #7 / #11**, **Haytham #14 / #15**, and **Firebat #19 / #14**. **Skyhound is #7 medium value only** because its Thunderbolt-equipped profile is excluded from the stricter medium *apex* weapon table. These are conditional *shooting-role* ranks, not replacements for the full-VH apex/value grades here; other VHs focused on utility or short-range peripherals do not automatically qualify.
+**Legal roster boundaries:** Redeye is Vanilla PanO AVA1 but Kestrel/NCA AVA2; Skyhound belongs to Next Wave; Tarkshya to Vanilla ALEPH/OSS; Zeybek to Vanilla Haqq/Qapu; Haytham to Vanilla Haqq only; Firebat to Vanilla O-12/Starmada/Torchlight; Go-Pod to Vanilla Nomads/Bakunin/Tunguska; and Fēiquán to Vanilla Yu Jing/White Banner/Imperial Service. Ordinary Fireteam permission does **not** follow from being a VH. Garuda Tacbot, motorcycles, TAGs and jumping HI are not VH entries.
 
-## Availability — pinned standard roster only
+## Video / podcast evidence and disagreements
 
-| Parent/sectorial | Vehicles actually available |
-|---|---|
-| **PanOceania (Vanilla)** | Redeye AVA1 |
-| **Kestrel Colonial Force** | Redeye AVA2 |
-| **Neoterran Capitaline Army** | Redeye AVA2 |
-| **Yu Jing (Vanilla)** | Fēiquán AVA1 |
-| **White Banner** | Fēiquán AVA1 |
-| **Imperial Service** | Fēiquán AVA1 |
-| **Nomads (Vanilla)** | Go-Pod AVA1 |
-| **Bakunin** | Go-Pod AVA1 |
-| **Tunguska** | Go-Pod AVA1 |
-| **Haqqislam (Vanilla)** | Haytham AVA1 + Zeybek AVA1, **not a Duo** |
-| **Qapu Khalqi** | Zeybek AVA1 **only** |
-| **O-12 (Vanilla)** | Firebat AVA1 |
-| **Starmada** | Firebat AVA1 |
-| **Torchlight Brigade** | Firebat AVA1 |
-| **Combined Army — Next Wave** | Skyhound AVA1 |
-| **ALEPH (Vanilla)** | Tarkshya AVA1 |
-| **Operations Subsection** | Tarkshya AVA1 |
+- **Dedicated VH tier list:** [Robert Shepherd — *Aerial Vehicles Analysis and Ranking* (Oct 2025)](https://www.youtube.com/watch?v=N6TYjMgU4ZM). Transcript reviewed. His order among actual VHs was **Zeybek, Skyhound, Haytham, Redeye, Firebat, Go-Pod, Fēiquán**; the video's special honorary top placement of **Garuda** is excluded because it is a REM. He weights *marginal contribution to each faction*, whereas this page also weighs individual chassis efficiency. **Tarkshya was not yet in the comparison.**
+- **Competing flyer perspective:** [Dice Gods — *Does Infinity Have a Flyer Problem?* (Oct 2025)](https://www.youtube.com/watch?v=QscqX3hlUZU) argues for taking the new flyer threat seriously; it is a tactics discussion, **not** an independently verified eight-way VH ranking.
+- **Redeye evidence:** [Irregular Order #52 — Kestrel (Sep 2026)](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) and [WIP12 #201 — NCA (Mar 2026)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) support its unusual angles, Sensor/GL/Blitzen uses and high Kestrel/NCA roster value. They do **not** establish that all factions would rank Redeye #1.
+- **Lower-table role evidence:** [Irregular Order #47 — White Banner (Aug 2026)](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE) discusses Fēiquán's 27/28-point choice and the different Repeater needs of White Banner vs Imperial Service; [Loss of Lieutenant #161 — Pitcher Tierlist (Dec 2025)](https://www.iheart.com/podcast/338-loss-of-lieutenant-an-infi-98037657/episode/episode-161-pitcher-tierlist-310782388/) includes Fēiquán among its **Pitcher** choices, not a VH-wide list. [MetaChemistry #132 — Bakunin winner interview (Dec 2025)](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) provides real-list caution about Go-Pod and observed Skyhound disruption.
+- **Firebat counterview:** [Robert Shepherd's 2026 Vanilla O-12 review, Firebat segment](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=3480s) describes a useful but situational aircraft and favors 35/0 control. This is a deliberate counterweight to its very high 0-SWC points-value appraisal in this guide.
 
-**No current standard VH entry** in the following armies, based on pinned main-branch rosters:
-
-- **Military Orders**
-- **Varuna**
-- **Svalarheima**
-- **Shock Army of Acontecimento**
-- **Invincible Army**
-- **Ramah**
-- **Hassassin**
-- **Corregidor**
-- **Most Combined Army sectorials other than Next Wave**
-- **Steel Phalanx**
-- **Ariadna**
-- **JSA**
-- **Tohaa**
-- **NA2**
-
-Motorcycles, Garuda Tacbot, TAGs, HI with Jet Propulsion, and fast REMs are **not automatically VH troop types**.
-
-## When a VH is actually better
-
-| Battlefield problem | Favor | Reason / limitation |
-|---|---|---|
-| **Prone rooftop / null deployment, weak hard-ARO coverage** | Redeye, Skyhound, Tarkshya, Haytham | One **20–5 MOV / jet-propulsion Jump** creates unexpected plunging LoF; pop-up shots can bypass traditional parapets. But your *full jump trajectory* creates AROs; a long-range missile/visor can kill you mid-leap. |
-| **Opponent has dangerous MSV/Marksmanship, your own army relies on Smoke** | Zeybek | **Albedo** punishes visors, AP Spitfire and own smoke unlock the otherwise blocked plan. Albedo isn't the same as native Mimetism against basic troops. |
-| **Opposing Mimetism(-6), Camo and enemy aircraft** | Tarkshya, Haytham | **MSV1** reduces a key defense, letting airborne shooters attack other S7 flyers that cannot readily hide from a jump; Tarkshya adds shell/Operator endurance. |
-| **Multiple high-ARM enemies in difficult positions** | Skyhound AP Thunderbolt/plasma, Zeybek AP Spitfire, Tarkshya with AP SMG | Attack from *nonstandard angles* and use appropriate AP/plasma bands. **Don't** charge a deployed heavy ML/Feuerbach just because you can jump. |
-| **Your army already has heavy guns but lacks fast follow-up** | Redeye, Firebat, Haytham | The heavy attacker opens the lane, the VH crosses the table in one jump to hunt support, Unconscious threats, or remove/force an objective defender out. |
-| **0 SWC left / want to preserve 1.5 SWC premium guns** | Skyhound 33, Tarkshya 34, Firebat 35–36, Fēiquán 28, Haytham 29, Go-Pod 33 | SWC efficiency is often more decisive than a 2–5 point difference. Redeye/Zeybek/Go-Pod HRL need explicit SWC justification. |
-| **Hacking network can't reach deep prone defenders** | Fēiquán 28 Pitcher | Jump into vertical placement line and deposit Pitchers for nearby KHD/Spotlight/Oblivion. **No direct lethal weapon on this profile**; omit without usable hacker/guided payoff. |
-| **Need an aircraft to remain useful after shell damage** | Tarkshya, Zeybek | Their **specific Operator states** can retain substantial weapons and/or scoring functionality after correct Transmutation/Escape transition. Do not invent an Operator for other VHs. |
-| **Dense opposing repeaters, many long-range AROs, very little total cover for S7** | **Often don't bring a VH** | Their no-cover, hackability and large footprint remove the main advantages of aerial movement. Bring a smaller AD/HD/Skirmisher/Mimetism attack or remove the blockers first. |
-| **Mission needs touching/picking up consoles, loot, antennas, beacons** | **A ground specialist, not an active VH** | **Aerial cannot make Silhouette contact**, so many scenario interactions are impossible. An eligible *post-transmutation* Operator may be able to interact; check the mission and its resulting state. |
-
-## Operating procedure and rules that most often decide the game
-
-1. **Stage in Total Cover, not Partial Cover.** All eight are S7, have **No Cover**, and cannot go Prone; raw ARM is no substitute for blocking LoF. Placement of other large TAGs/REMs can make safe DZ real estate scarce.
-2. **Clear before the launch.** Kill/suppress hard MSV, long-range high-Burst ARO, Pitchers and Hackers first. **Jet Propulsion** allows direction changes during Jump, and N5 Super-Jump can pair its **first Short-Skill Jump** with an attack/Discover; the full exact trajectory must be declared so all AROs can be made.
-3. **Count the full run:** deployment → first jump/angle → attack retries → objective impact → **exit to Total Cover**. The last retreat Order is usually the difference between a persistent threat and a 30–40-point disposable trade.
-4. **Hacking and E/M are still severe.** No Cover and flying do **not** equal unhackable; Aerial status is a major target for roaming repeaters. Treat a 33-point aircraft as an investment in angle creation, not a model to tank an unknown Repeater network.
-5. **Recovery requires ranged GizmoKit LoF while airborne.** Normal **Silhouette-contact Engineer** repair cannot touch an *active Aerial* troop. The official **Tech-Recovery** rule lets a successfully hit troop clear all **Engineer-cancelable non-Unconscious states** via one successful PH roll. **Unconscious is recovered under ordinary GizmoKit rules** (which can fail and add a wound), not through the non-Unconscious Tech-Recovery state-clearing effect. For a converted/Unconscious trooper, check current state-specific contact rules. Source: `rules/5b_Special Skills/{Aerial,Tech-Recovery}.md` and `rules/5c_Equipment/GizmoKit.md`.
-6. **Do not overspend on defensive ARO flying.** Most VHs are active-turn predators. **Firebat's NCO + ranged shooting/Suppression options** is a rare plan for holding a lane; Redeye Blitzen is a deterrent but still wants concealment.
-7. **Check video context against September 2026 roster.** August–October 2025 references may show costs/skills/availability now replaced. In particular the **Haytham is not present in pinned Ramah**, **Tarkshya was not yet in the Oct-2025 ranking**, and Garuda is **REM**, not VH. Vehicle status never gives Fireteam permissions.
-8. **Counterplay against enemy VH:** screen and stage in positions beyond jump-LoF where possible; cover multiple elevations and 360-degree arcs; reserve MSV/Warhorse and hacker Repeater responses; prioritize first successful isolation/immobilization; force it to land in an exposed place and attack during its next active/reactive exposure. A profile with *Sensor* can find markers, but cannot always safely exploit them when elite AROs are active.
-
-## Opposing testimony — do not collapse opinions
-
-- **Redeye ceiling versus price:** [Robert Shepherd's 2025 video](https://www.youtube.com/watch?v=N6TYjMgU4ZM) ranks it **#5/7 real VHs** because 1.5 SWC and only a B4 Spitfire competes with PanO premium firepower. [Dice Gods' 2025 opposing vehicle discussion](https://www.youtube.com/watch?v=QscqX3hlUZU), [Irregular Order #52 Kestrel (Sep 2026)](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) and [WIP12 #201 NCA (Mar 2026)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) emphasize high-BS/armor/Mimetism, Sensor, **double Redeye** and the ability to reach positions a PanO HMG cannot. **Both right in different lists:** use as an enabler/exploiter rather than default sole ARO-breaker.
-- **Go-Pod high ceiling versus low floor:** [Shepherd's Tunguska talk](https://www.youtube.com/watch?v=A2eKdenbcsw) and the dedicated vehicle ranking warn that ARM2/no cover/MSV counters + S7 parking make it a frequent disappointment. [MetaChemistry #132 winner interview (Dec 2025)](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) reports some local players treat it as near-auto-include; the winner **omitted** it largely because he did not own the model **and** because area-control objectives favored stationary defenders. **Not a blanket ban or auto-include**: use when the attack exit and Go-Bot forks are planned.
-- **Fēiquán role changes by sectorial:** [Robert Shepherd's full 2025 ranking](https://www.youtube.com/watch?v=N6TYjMgU4ZM) ranks it **#8 including REM Garuda** and views its 28pt aerial Pitcher as unique yet too much to pay unless the network will be used. [Irregular Order #47 White Banner (Aug 2026)](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE) explicitly says Pitcher matters more in **Imperial Service** where native network projection is thinner, while White Banner has other Repeaters/Sensor and may prefer 27pt gun.
-- **Skyhound raw value versus Next Wave list consistency:** [Shepherd's 2025 ranking](https://www.youtube.com/watch?v=N6TYjMgU4ZM) calls its 33/0 package potentially the strongest *raw* VH but ranks it **#3 of eight including non-VH Garuda** because Next Wave's expensive lower-end support cannot easily afford wasted activations. [MetaChemistry #132 winner's experience](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g) describes Skyhound's terrifying plasma against infantry, yet a simple Pitcher+Isolate plan pinned it for most of the game.
-- **New Tarkshya:** `sectorials/aleph/{aleph,operations-subsection}.md` (pinned September 2026 Army data) adds MSV1, Mimetism(-6), STR3, 34/0 MMR and operator transition. [Prior ALEPH/OSS faction analysis](../factions/vanilla-aleph.md) judges the low-SWC loadout especially efficient, while the older general-purpose VH video cannot rank an unreleased profile. Its **S apex/S value** is an **editorial provisional placement** pending dedicated post-2026 competitive reviews.
-
-## Transcript and provenance index
-
-**Direct MCP transcript reads performed for this guide** (not just titles):
-1. [Robert Shepherd — *Infinity Explained: Aerial Vehicles Analysis and Ranking* (Oct 2025)](https://www.youtube.com/watch?v=N6TYjMgU4ZM): covers seven contemporary VHs, movement/repair, faction context and honorable #1 **Garuda Tacbot (REM, not VH)**. **His ordered VH ranking** (different from the rubric above):
-   1. **Zeybek**
-   2. **Skyhound**
-   3. **Haytham**
-   4. **Redeye**
-   5. **Firebat**
-   6. **Go-Pod**
-   7. **Fēiquán**
-2. [Dice Gods — *Does Infinity Have a Flyer Problem?* (Oct 2025)](https://www.youtube.com/watch?v=QscqX3hlUZU): full YouTube transcript, strong pro-flyer warning and tabletop counterplay; predates Tarkshya.
-3. [Irregular Order #52 — Kestrel Sectorial (Sep 2026)](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9): full podcast transcript, **~183–187 min** double Redeye list and enthusiasm.
-4. [WIP12 #201 — Neoterra (Mar 2026)](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb): full podcast transcript, **~82–93 min** Redeye Blitzen/GL, Engineer reach and ARO-null-deployment angles.
-5. [Irregular Order #47 — White Banner (Aug 2026)](https://open.spotify.com/episode/2w4tX9v1goAozQSh7HqGUE): full podcast transcript, **~194–197 min** Fēiquán X-Visor vs Pitcher in WB versus ISS.
-6. [MetaChemistry #132 — Bakunin tournament winner (Dec 2025)](https://open.spotify.com/episode/1S2sIe6nlefj4TZlZuII9g): full podcast transcript, **~13–23 min**, regional Go-Pod enthusiasm vs competitive player's objective-specific exclusion and actual Skyhound counterplay.
-7. [Tactical Awareness S3 E27 — Starmada (Jul 2025)](https://open.spotify.com/episode/4gwxsTu15Mc2Tp3wAsuLHr) and [S3 E29 Vanilla O-12 (Jul 2025)](https://open.spotify.com/episode/630rsGHb33HMTOrGmx3sIS): podcast transcripts cross-checked for O-12 attack infrastructure and Firebat context; older costs and lists are not authoritative.
-
-**Existing repo analysis reused:** `notes/factions/{kestrel,nca,vanilla-haqqislam,vanilla-nomads,bakunin,tunguska,vanilla-aleph,operations-subsection,...}.md`; `notes/list-building/{premium-mobile-and-airborne-troops,order-efficiency,hacking-and-network-projection,mission-scoring-and-specialist-strategy,tags}.md`. Sectorial `status: current` roster/profile/FT data remains the factual authority.
+**Sources of truth for rules and profiles:** pinned current `sectorials/` data, `rules/5b_Special Skills/{Aerial,Tech-Recovery}.md`, `rules/5c_Equipment/GizmoKit.md`, plus cross-role discussion in [active-turn gunfighters](active-turn-gunfighters-apex-and-value.md), [network projection](network-projection-repeaters-pitchers-apex-value.md) and [rare combinations](rare-capabilities-and-unique-combinations-apex-value.md). Earlier videos may show obsolete points or access; the current pinned roster wins.
