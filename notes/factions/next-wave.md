@@ -38,9 +38,9 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned next-wave roster](../../sectorials/combined-army/next-wave.md).
 
-| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
-|---|---|---|---|
-| **Mobile Repeater Value #7 · S** | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Combined / Next Wave as legal | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+| Network role | Rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|---|
+| Mobile Repeater Value | #7 | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Combined / Next Wave as legal | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
@@ -60,10 +60,10 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+| ARO ranking (Apex / Value) | Legal local profile | Why it stands out / limits |
 |---|---|---|
-| **Top 10 (#6) Apex · Top 3 (#1) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Teucer Neurocinetics Plasma Sniper 37/1.5** | A+ Apex #6 / S+ Value #1: BS14, MSV2, Mimetism(-3), NWI and full reactive Plasma Sniper Burst. **Unlinked Neuro** option; 35pt Feuerbach FTO is a different legal profile. |
-| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor and full TR Thunderbolt ARO; repairable STR1 but BS11/ARM0 and vulnerable to hacking. |
+| #6 / **#1** | **Teucer Neurocinetics Plasma Sniper 37/1.5** | A+ Apex #6 / S+ Value #1: BS14, MSV2, Mimetism(-3), NWI and full reactive Plasma Sniper Burst. **Unlinked Neuro** option; 35pt Feuerbach FTO is a different legal profile. |
+| #8 | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor and full TR Thunderbolt ARO; repairable STR1 but BS11/ARM0 and vulnerable to hacking. |
 
 **Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 

@@ -46,11 +46,11 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned onyx-contact-force roster](../../sectorials/combined-army/onyx.md).
 
-| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
-|---|---|---|---|
-| **Pitcher Apex #7 · S** | **Kerr-Nau KHD/White Noise/Pitcher 30/0** — Onyx | **BS12 + X-Visor**, useful NCO and **Unidron-context Wildcard** option; reliable shooting and independent hacking payoff **Limit:** 35/0 Nanoscreen alternative is pricier; Wildcard does not permit arbitrary Fireteams | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
-| **Mobile Repeater Value #7 · S** | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Onyx Contact Force | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
-| **Network package #10 · A+ / A+** | **Combined/Onyx:** **Bit & KISS!25/.5 specific Repeater-KISS package** + suitable support; alternatively legal **Umbra Legate FTO HD+/Pitcher38/.5** | Pitcher, placeable Repeater, and peripheral **native** node create multiple access methods; Umbra trades cost for BS13, Tactical Order and offense **Limit:** Do not import **Repeater KISS** into 22/.5 or 24/.5 KHD options; expensive Umbra should not be expendable | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#4-best-package) |
+| Network role | Rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|---|
+| Pitcher Apex | #7 | **Kerr-Nau KHD/White Noise/Pitcher 30/0** — Onyx | **BS12 + X-Visor**, useful NCO and **Unidron-context Wildcard** option; reliable shooting and independent hacking payoff **Limit:** 35/0 Nanoscreen alternative is pricier; Wildcard does not permit arbitrary Fireteams | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
+| Mobile Repeater Value | #7 | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Onyx Contact Force | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+| Network package | #10 | **Combined/Onyx:** **Bit & KISS!25/.5 specific Repeater-KISS package** + suitable support; alternatively legal **Umbra Legate FTO HD+/Pitcher38/.5** | Pitcher, placeable Repeater, and peripheral **native** node create multiple access methods; Umbra trades cost for BS13, Tactical Order and offense **Limit:** Do not import **Repeater KISS** into 22/.5 or 24/.5 KHD options; expensive Umbra should not be expendable | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#4-best-package) |
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
@@ -81,10 +81,10 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+| ARO ranking (Apex / Value) | Legal local profile | Why it stands out / limits |
 |---|---|---|
-| **Top 5 (#5) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Mimetism(-6) and Hidden Deployment provide a powerful single B1 missile ambush and route tax; W1/1.5SWC and lost Hidden Order limit reuse. |
-| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: 20pt/0.5SWC TR Thunderbolt with Mimetism(-3), 360º Visor and Remote Presence; unlinked, BS11, STR1 and hackable. |
+| **#5** | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Mimetism(-6) and Hidden Deployment provide a powerful single B1 missile ambush and route tax; W1/1.5SWC and lost Hidden Order limit reuse. |
+| #8 | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: 20pt/0.5SWC TR Thunderbolt with Mimetism(-3), 360º Visor and Remote Presence; unlinked, BS11, STR1 and hackable. |
 
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 

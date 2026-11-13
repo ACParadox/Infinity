@@ -49,9 +49,9 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned shasvastii-expeditionary-force roster](../../sectorials/combined-army/shasvastii.md).
 
-| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
-|---|---|---|---|
-| **Mobile Repeater Value #7 · S** | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Shasvastii Expeditionary Force | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+| Network role | Rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|---|
+| Mobile Repeater Value | #7 | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Shasvastii Expeditionary Force | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
 
 **Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
 
@@ -78,10 +78,10 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+| ARO ranking (Apex / Value) | Legal local profile | Why it stands out / limits |
 |---|---|---|
-| **Top 5 (#5) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Shasvastii hidden/Mimetism(-6) ML with consequential reveal timing; not a second Surprise Attack in reactive turn. W1, 1.5SWC, Hidden Order cost. |
-| **Top 10 (#8) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º and native Total Reaction Thunderbolt on a repairable 20pt/0.5SWC chassis; BS11/STR1 and opponent tech counterplay. |
+| **#5** | **Noctifer Hidden Missile Launcher 30/1.5** | S Value #5: Shasvastii hidden/Mimetism(-6) ML with consequential reveal timing; not a second Surprise Attack in reactive turn. W1, 1.5SWC, Hidden Order cost. |
+| #8 | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º and native Total Reaction Thunderbolt on a repairable 20pt/0.5SWC chassis; BS11/STR1 and opponent tech counterplay. |
 
 **Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
 
