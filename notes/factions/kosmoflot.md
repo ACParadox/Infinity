@@ -4,81 +4,35 @@
 
 **What Kosmoflot does exceptionally well:** it combines **fast conventional heavy shooting, very cheap Regular Smoke, dangerous close assault and Mirage-5 airborne pressure** in one army. Its best lists force a front-lane, a midfield and an enemy-DZ problem at once rather than just building a bigger gun team.
 
-### Whole-game standouts — apex and points value
+### Whole-game standouts — apex versus value
 
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/kosmoflot.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+**Sectorial tier / overall rank: B — #30 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
 
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| — | [Top 5 (#5) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **1st Highlanders S.A.S. FO 21/0 (SO 25/0 separate)** · [local roster](../../sectorials/ariadna/kosmoflot.md) | Regular Camo/Infiltration and Chain Rifle/D-Charges give resilient short-range scoring for 21pts. |
+**Ranking rule:** Entries are cross-faction role standings, not overall unit ranks. Apex values peak impact; Value weighs points efficiency. Bold denotes only top #1–5 positions and their exact profiles; #6–10 and unranked observations stay plain. Role-specific rankings are not independently sourced Apex/Value rankings. The [pinned Kosmoflot roster](../../sectorials/ariadna/kosmoflot.md) controls availability, points and Fireteam legality.
 
-**Top 3 / Top 5 / Top 10** are **role- and cost-specific qualitative shortlist candidates**, not overall placements or win-rate statistics.
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
-
-These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
-
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
-|---|---|---|
-| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: 21pt one-use-Camo/Mimetism(-3) long sniper with T2 or AP alternatives; Irregular/W1 and **no generic TAK Fireteam**. |
-
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 5 (#5) — DZ defenders (value, S+)** | **Raveneye FO/E/Marat/E/M Mine Minelayer 12/0** | Kosmoflot AVA1: native Regular with a **preplaced E/M Mine**, live E/Marat/Flash Pulse and FO. Cybermine is the alternative 12pt loadout; no LT/CoC benefits on this profile. | [#5 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
-#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
-
-| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
-|---|---|---|---|
-| **Top 5 (#4) Apex — Cheerleaders / Order Generators** | **Varangian Guard 10/0 — Chain Rifle, Smoke** | Kosmoflot's 10pt native Regular + Impetuous Smoke/CC/Chain profile. Dogged and CC23 make it more than passive fuel; fragile in open lines. [Roster](../../sectorials/ariadna/kosmoflot.md) | [Apex #4](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) |
-| **Top 10 (#9) Apex — Cheerleaders / Order Generators** | **Denma Connolly 12/0 — Smoke, Chain Rifle (+1B), AP+DA CCW** | Native Regular plus Impetuous Smoke/CC trade with NBW and MetaChemistry; useful assault enabler but No Cover and 1W make it risky to leave exposed. [Roster](../../sectorials/ariadna/kosmoflot.md) | [Apex #9](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) |
-| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/kosmoflot.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-| **Top 10 (#7) value — Cheerleaders / Order Generators** | **Rokot 8/0 — Chain Rifle + Light Shotgun** | Native Regular, cheap S2 corner defence. Kosmoflot allows Rokot teams; Vanilla Ariadna has AVA2 and the FTO label of other troops does not automatically create a link. [Roster](../../sectorials/ariadna/kosmoflot.md) | [Value #7](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-
-#### Active-turn gunfighter and other role standouts (2026-11-04)
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#9) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L44) | **Kosmosoldat AP HMG44/1.5** | BS13, MSV1, BS Attack(−3), **AP HMG PS4**, ARM6 and NWI offer strong repeatable active FtF plus armor conversion. **Limit:** Hackable, slow 10-10 and 1W+NWI (not 2W); choose clear long-lane approach. |
-| **#13 — Non-TAG long-range apex (A+, armor-selective)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L48) | **Kosmosoldat Portable Autocannon44/1.5** | Promoted directly below Charontid AP HMG: active **B2 AP+EXP**, BS13, MSV1, BS Attack(−3) and ARM6/NWI yield a durable hard-target breaker. **Limit:** B2 is less consistent than AP HMG B4 against several AROs or light targets; this is a distinct 44pt/1.5SWC loadout, and #13 is outside the strict Top 10. |
-
-#### BS Mod-Stacking — verified cross-faction Top 10
-
-These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
-
-| Cross-faction role and rank | Legal faction profile | Why it matters and its limit |
-|---|---|---|
-| **Top 10 (#8) — Reactive BS stacking (A / A (ARO))** | **Frontovik MSV1 AP Sniper 28/.5** | Mimetism (-3) + **AP Sniper-profile MSV1** + Warhorse, possible legal TAK Fireteam. **Limit:** W1; long sniper but not MSV2 or Neuro. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
-| **Top 5 (#5) — BS Attack (-3) (A+ / A (anti-heavy))** | **Kosmosoldat AP HMG 44/1.5** | BS13 + BS Attack (-3) + MSV1, Warhorse, ARM6/W1+NWI on a credible AP HMG. **Limit:** Hackable premium HI; only opposed FtF is suppressed; also has distinct Portable Autocannon profile. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#bs-attack--3--opponent-ftf-suppression-rather-than-passive-mimetism) |
-
-
-#### Cross-faction Top 10 CC standings
-
-| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
-|---|---|---|
-| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | The 32/0 Smoke-bearing Dog-Warrior has 3W, MA3, Berserk, Super-Jump and AP+T2; effective in multiple close fights, but Irregular/Impetuous. |
-
-#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
-
-| Cross-game rank / specific role | Legal profile | Why / limitations |
-|---|---|---|
-| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
-
-
-- **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ in the cheap multi-role category; use the Irregular Order and engineering utility, not merely its suicide attack. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 10 — Warbands and Cheap Trading Units (value):** [**Varangian Chain Rifle + Smoke 10/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L128) is S in cheap regular Smoke value: a **Regular**, Impetuous, Dogged CC deterrent that both funds the group and opens routes. Its Regular Training is not produced by Wallace. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Strong packages without an imposed global rank:** [**Polaris Alpha Masha + Bearpode 32/0**](../list-building/peripheral-synchronized-multibody-apex-value.md#L75) supplies **two distinct Regular Orders**, unlike a synchronized Peripheral; [**Chernobog 63–70/1.5**](../list-building/tags.md#L146) gives a true AP-HMG TAG (B apex / A value), but should not be sold as a top-five TAG. [Multi-body comparison](../list-building/peripheral-synchronized-multibody-apex-value.md) · [TAG rankings](../list-building/tags.md).
-
-- **Top 3 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** incremental value, a cheap pooled Order and conditional reload for applicable Disposable ammunition. Do not import the additional cost and SWC of its Guided artillery profile into this rating. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
-- **Top 10 — Warbands and Cheap Trading Units (value):** [**Denma Connolly Chain Rifle (+1B) + Smoke + AP+DA CCW 12/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L108) is **A** cheap-warband value with Berserk, Natural Born Warrior and MetaChemistry (ReRoll). Denma is **already Regular**; Wallace adds no new Regular Order from him. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 10 — ARO Units (value):** [**Cateran T2 Sniper 21/1 or AP Sniper 21/0.5**](../list-building/aro-units-apex-and-value.md#L116) is **S cheap reactive points value** in the cross-game Cateran comparison. The Irregular one-Wound body needs a deliberate defensive position, and this rating is not a Fireteam entitlement. [ARO rankings](../list-building/aro-units-apex-and-value.md).
-- **Other useful cross-faction support value:**
-  - [**Kazak Doktor 12/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L90) **S/A cost-to-recovery value**, particularly when a Rokot Fireteam needs an affordable Doctor without paying for an elite gun. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
-  - [**Dozer 13/0 + Remontnikbot 2/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L117) **S conditional engineering value** protecting a Chernobog/REM package; the servant has no Order of its own. [Engineer rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+| Whole-game role / source | Apex | Value | Legal Kosmoflot profile (pts/SWC) | Why it stands out; profile-specific limitation |
+|---|---|---|---|---|
+| Mission specialists / [value](../list-building/mission-specialists-and-button-pushers-apex-value.md) | — | **#5 · S+** | **1st Highlanders S.A.S. FO (21/0); SO (25/0) separate** | Camo/Infiltration and Chain Rifle/D-Charges for cost-effective midfield scoring. Separate specialist profiles. |
+| ARO — long range / [value](../list-building/aro-units-apex-and-value.md) | — | #10 · A+ | Highlander Cateran T2 Sniper (21/1) or AP Sniper (21/0.5) | Irregular, one-Wound Camo sniper; distinct ammunition options, no generic TAK Fireteam privileges. |
+| Cheap DZ defenders / [value](../list-building/cheap-dz-defenders-and-trade-pieces.md) | — | **#5 · S+** | **Raveneye FO/E/Marat/E/M Minelayer (12/0)** | AVA1 native Regular specialist with prelaid E/M mine and active short-range deterrence; Cybermine is an alternative loadout. |
+| Cheerleaders / [apex](../list-building/cheerleaders-and-order-generators.md) | **#4 · Apex** | — | **Varangian Guard Chain Rifle/Smoke (10/0)** | Native Regular and Impetuous Smoke/CC attack with Dogged; liable to die if exposed in open lanes. |
+| Cheerleaders / [apex](../list-building/cheerleaders-and-order-generators.md) | #9 · Apex | — | Denma Connolly Smoke/Chain Rifle (+1B) (12/0) | Native Regular Smoke and CC support; Impetuous/No Cover and one Wound. Wallace does not regularize an already Regular Order. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | **#1 · Value** | **Traktor Mul Baggage/Deactivator (5/0)** | Cheapest native Regular Order and ammo reload option; Hackable S4 and almost unarmed. Not its missile variant. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | #7 · Value | Rokot Chain Rifle + LSG (8/0) | Low-cost Regular S2 corner guard and eligible Rokot Fireteam body; FTO rules from other armies do not transfer. |
+| Long-range active gunfighters / [apex](../list-building/active-turn-gunfighters-apex-and-value.md) | #9 · A+ | — | Kosmosoldat AP HMG (44/1.5) | BS13, MSV1, BS Attack(-3), AP HMG PS4, ARM6 and W1+NWI; slow, Hackable and not literally 2W. |
+| Long-range active gunfighters / [apex](../list-building/active-turn-gunfighters-apex-and-value.md) | #13 · A+ (outside Top 10) | — | Kosmosoldat Portable Autocannon (44/1.5) | B2 AP+EXP armor breaker rather than AP HMG B4; premium, slow and a different loadout. |
+| Reactive BS MOD stacking / [role ranking](../list-building/bs-mod-stacking-units-apex-and-value.md) | Role-specific #8 · A | — | Frontovik MSV1 AP Sniper (28/0.5) | Mimetism(-3) plus MSV1, Warhorse and potential legal link; one Wound and no MSV2. |
+| BS Attack(-3) / [role ranking](../list-building/bs-mod-stacking-units-apex-and-value.md) | **Role-specific #5 · A+** | **Role-specific #5 · A** | **Kosmosoldat AP HMG (44/1.5)** | FtF suppression with BS13, MSV1 and AP HMG. Hackable, expensive and slower than the fast scoring elements. |
+| Close combat — frontline / [apex](../list-building/dedicated-close-combat-assassins-apex-value.md) | #7 · Apex | — | Ioann Bann (32/0) | 3W Smoke Dog-Warrior with MA3, Berserk, Super-Jump and AP+T2; Irregular/Impetuous. |
+| Airborne / enemy-DZ attacks / [apex](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | **#5 · A+** | — | **Mirage-5 Margot + Duroc (60/2)** | Two Parachutist(DZ) models as one package: Margot BS14 specialist/TA and Duroc Smoke/CC. Cannot buy either half independently. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | **Top 3 · S+** | **Irmandinho Engineer/Chain Rifle/Smoke (8/0)** | Extremely cheap trading and engineering utility, but personal Order remains Irregular absent legal conversion. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | Top 10 · S | Varangian Guard Chain Rifle/Smoke (10/0) | Native Regular Order and Dogged close pressure with cheap Smoke; already Regular without Wallace. |
+| Force multipliers / [value](../list-building/force-multipliers-special-abilities-apex-value.md) | — | **Top 3 · S+** | **Traktor Mul Baggage/Deactivator (5/0)** | Pooled Regular Order and conditional disposable-ammunition reload; not the 9pt Guided artillery build. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | Top 10 · A | Denma Connolly (12/0) | Regular Smoke/Chain(+1B)/CC trade; lacks strong passive Cover defense. |
+| Synchronized and multi-body / [role source](../list-building/peripheral-synchronized-multibody-apex-value.md) | Unranked package | — | Polaris Alpha Masha + Bearpode (32/0) | Two distinct Regular Orders, unlike a Synchronized peripheral. Strong independent package but no forced global rank. |
+| TAGs / [role source](../list-building/tags.md) | B-tier; outside Top 10 | A-tier; outside Top 10 | Chernobog AP HMG TAG (63–70/1.5) | Genuine armor-piercing TAG threat, but no claim to a top-five whole-game TAG rank. |
+| Recovery / [value](../list-building/doctors-engineers-and-recovery-apex-value.md) | — | S/A; no exact Top-10 place | Kazak Doktor (12/0) | Affordable Regular healing for Rokot-linked structures rather than a premium gun. |
+| Recovery / [value](../list-building/doctors-engineers-and-recovery-apex-value.md) | — | S-tier; no exact Top-10 place | Dozer (13/0) + Remontnikbot (2/0) | Conditional repair for Chernobog and REMs. Servant adds no independent Order. |
 
 ### Particularly useful Fireteams
 
@@ -111,10 +65,6 @@ The [battle-report analyses](../battle-reports/n5-battle-reports-and-tournament-
 - **Chernobog TAG, Polaris and Mirage-5** give unusual diversity for Ariadna, backed by very cheap normal Smoke. **Wardriver Disco Baller 16/1** adds limited projected Eclipse coverage; normal Smoke cannot always bypass enemy MSV.
 - **Wallace LT Inspiring Leadership** regularizes *genuinely Irregular* troopers (for example Irmandinhos). **Varangians and Denma are already Regular**; do not count an extra Order from them. Wallace also has a separate CoC option.
 - **Scots Guard FTO has no current NCO**; do not claim Lieutenant Orders can be routed through it. Hacking/Repeater depth and high-end MSV2 remain significant gaps.
-
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md).
-
-**N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), and [local rules](../../rules/README.md). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.
 
 **Three crucial roster corrections:**
 
@@ -1057,3 +1007,9 @@ The general principle is:
 > **Kosmoflot wins by forcing the opponent to solve several different problems at once, not by concentrating every point into the strongest direct gunfight.**
 
 ---
+
+## Sources, research dates and factual authority
+
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md).
+
+**N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), and [local rules](../../rules/README.md). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.
