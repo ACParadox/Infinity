@@ -34,16 +34,16 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 | Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|---|
-| — | [Top 3 (#1) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Sheskiin MULTI Rifle 48/0 or Red Fury 50/1** | Nanoscreen, BS15, MA4 and Protheion feed on VITA victims in CC, never on STR or from ordinary shooting. |
-| — | [Top 5 (#4) · A+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | [Top 10 (#7) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Caliban BSG 24/0, FO 26/0, Engineer 28/0 or CoC 29/0** | Camouflage/FD(+20)/MA3/Protheion. Cost-effective FO has the same core utility; Engineer and CoC options exist only where the local roster lists them. |
+| — | [**#1**](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Sheskiin MULTI Rifle 48/0 or Red Fury 50/1** | Nanoscreen, BS15, MA4 and Protheion feed on VITA victims in CC, never on STR or from ordinary shooting. |
+| — | [**#4**](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | [#7](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Caliban BSG 24/0, FO 26/0, Engineer 28/0 or CoC 29/0** | Camouflage/FD(+20)/MA3/Protheion. Cost-effective FO has the same core utility; Engineer and CoC options exist only where the local roster lists them. |
 
 
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** These are exact **role-specific** Apex/Value positions from the [global Mission Specialist rankings](../list-building/mission-specialists-and-button-pushers-apex-value.md), only for profiles confirmed in the [pinned local roster](../../sectorials/combined-army/shasvastii.md). A Top 10 ranking is **not** an overall unit rank; mutually exclusive loadouts and restricted Fireteams cannot transfer abilities.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
 |---|---|---|---|
-| [Top 3 (#3) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Malignos FO 30/0 or KHD 32/0 (HD option separate)** · [local roster](../../sectorials/combined-army/shasvastii.md) | Hidden/Infiltration/Mimetism(-6), Regeneration and Shock Mine; the 30pt FO and 32pt KHD cannot be combined. |
-| — | [Top 10 (#10) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Shrouded FO 24/0** · [local roster](../../sectorials/combined-army/shasvastii.md) | Camo/Infiltration, Regeneration, Shock Mines and a Regular Order; 24pt FO is distinct from HD/KHD. |
+| [**#3**](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Malignos FO 30/0 or KHD 32/0 (HD option separate)** · [local roster](../../sectorials/combined-army/shasvastii.md) | Hidden/Infiltration/Mimetism(-6), Regeneration and Shock Mine; the 30pt FO and 32pt KHD cannot be combined. |
+| — | [#10](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Shrouded FO 24/0** · [local roster](../../sectorials/combined-army/shasvastii.md) | Camo/Infiltration, Regeneration, Shock Mines and a Regular Order; 24pt FO is distinct from HD/KHD. |
 
 **Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates in the named cross-faction role**, not official overall ranks or tournament win-rate estimates. Expensive apex threats and inexpensive specialists are not interchangeable.
 
@@ -59,20 +59,20 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 | Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
 |---|---|---|---|
-| — | [Top 10 (#7) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Caliban FO Vulkan26/0, Engineer28/0 or CoC29/0 (alternative Shasvastii profiles)** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Camo, FD+20, Protheion, martial assault and protected scoring; Engineer28/CoC29 only where explicitly printed in the sectorial roster. |
-| — | [Top 10 (#10) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Malignos FO 30/0 or KHD+Dazer 32/0** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Hidden Infiltration, Mimetism(-6), Regeneration, mines and either FO scoring or KHD/Dazer denial; not the same loadout. |
+| — | [#7](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Caliban FO Vulkan26/0, Engineer28/0 or CoC29/0 (alternative Shasvastii profiles)** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Camo, FD+20, Protheion, martial assault and protected scoring; Engineer28/CoC29 only where explicitly printed in the sectorial roster. |
+| — | [#10](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Malignos FO 30/0 or KHD+Dazer 32/0** · [N5.3 roster](../../sectorials/combined-army/shasvastii.md) | Hidden Infiltration, Mimetism(-6), Regeneration, mines and either FO scoring or KHD/Dazer denial; not the same loadout. |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/shasvastii.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
-| **[Top 5 (#5) Apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | **[Top 10 (#10) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Victor Messer HDplus + Trinity(PS5)/Zero Pain — 31/0.5** | WIP14, 2W, Nanoscreen, Zero Pain, White Noise, Cybermine and Deployable Repeater; BTS3 remains a direct hacking vulnerability. Wildcard only in Shasvastii Shock context; 30/0.5 Minelayer is a different profile. [Pinned roster](../../sectorials/combined-army/shasvastii.md). |
+| [**#5**](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex) | [#10](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles) | **Victor Messer HDplus + Trinity(PS5)/Zero Pain — 31/0.5** | WIP14, 2W, Nanoscreen, Zero Pain, White Noise, Cybermine and Deployable Repeater; BTS3 remains a direct hacking vulnerability. Wildcard only in Shasvastii Shock context; 30/0.5 Minelayer is a different profile. [Pinned roster](../../sectorials/combined-army/shasvastii.md). |
 
 **Force multipliers — verified cross-faction Top 10 (5 November 2026).** [Combined apex/value ranking](../list-building/force-multipliers-special-abilities-apex-value.md#global-combined-ranking--apex-and-points-value); these are exact **non-Lieutenant profiles**.
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Reason and constraint |
 |---|---|---|---|
-| **Top 10 (#6) — Force multipliers** | **Shasvastii Mentor20/0, non-Lieutenant** | **A / S-** | Counterintelligence on a hard-to-locate Camo/Mimetism(-3)/Decoy(1) Vulkan Shotgun unit. The similarly priced Lieutenant is a separate profile and not credited here. |
+| **Top 10 (#6) — Force multipliers** | **Shasvastii Mentor20/0, non-Lieutenant** | — | Counterintelligence on a hard-to-locate Camo/Mimetism(-3)/Decoy(1) Vulkan Shotgun unit. The similarly priced Lieutenant is a separate profile and not credited here. |
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
