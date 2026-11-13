@@ -1,72 +1,34 @@
 # Invincible Army — Tactical and purchasing analysis
 
-**N5.3 source of truth:** [Invincible Army roster, profiles, Fireteams, and validation](../../sectorials/yu-jing/invincible-army.md). The following dated tactics, battle-report observations, unit-value rankings, and purchasing advice are interpretive material moved from the reference. Statements referring to roster tables or Fireteam charts “above” or “below” refer to the linked reference, not to this analysis file. The authoritative source takes precedence over dated evaluations.
-
-**Reference archive:** [Invincible Army source recordings, cross-references, battle reports and purchasing audit](references/invincible-army_refs.md).
-
 ## Overview
 
 **What Invincible Army does especially well:** IA stacks **Tactical Awareness, LT-to-NCO Order use, multiple-Wound heavy infantry, strong long-range/ARO shooting, and protected HI Fireteams**. Its distinctive trade-off is that expensive Hackable pieces can dominate combat yet leave insufficient independent scoring and midfield protection if the list overconcentrates.
 
 ### Whole-game standouts — apex versus value
 
+**Sectorial tier / overall rank: B+ — #19 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Tactical Awareness and NCO sustain excellent linked heavy-infantry gunfights; expensive Hackable bodies can leave thin independent scoring and screens.
 
-**Top 3 / Top 5 / Top 10 are editorial, role-specific whole-game shortlist candidates**, not official or measured placements. **Apex** means maximum impact in a defined matchup; **value** considers points, SWC and Orders. Cross-faction comparisons: [ARO units](../list-building/aro-units-apex-and-value.md), [command](../list-building/command-units-apex-and-value.md), [guns](../list-building/active-turn-gunfighters-apex-and-value.md), [hackers](../list-building/hackers-and-killer-hackers.md), [midfield denial](../list-building/midfield-defenders-and-speed-bumps.md).
+**Ranking rule:** These are independent **cross-faction role rankings**, not a universal unit power list. Apex rewards peak impact; Value rewards performance per point. A Top 3/Top 5/Top 10 label refers to the named source ranking only. Only **Top 1–5** placements and corresponding legal profiles are bolded; #6–10 and unverified or different-loadout comparisons are not. Combined and role-specific placements are distinguished from separate Apex/Value standings. The [pinned Invincible Army roster](../../sectorials/yu-jing/invincible-army.md) controls exact costs, loadouts and team permissions.
 
-**Classified objective runners — verified whole-game Top 10 (11 November 2026).** [Cross-faction Apex and Good Value source](../list-building/classified-objective-runners-apex-and-value.md); verify the precise locally selectable option in the [pinned roster](../../sectorials/yu-jing/invincible-army.md). The bands reflect role-specific rankings, not overall unit power; alternate loadouts may cover different cards.
-
-| Classified Apex | Classified Value | Legal local profile | Eligible cards | Why it earns the rank; exact-profile limit |
-|---|---|---|---:|---|
-| [Top 10 (#8) · S](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | — | **Hac Tao Hidden HD + Trinity 58/0.5** · [roster](../../sectorials/yu-jing/invincible-army.md) | **14/20** | This is the **exact** ranked loadout: Elite HI, WIP14/BS14, 2W, Mimetism(-6), Hidden Deployment, MSV1 and upgraded Trinity. The HMG/ML options do not inherit the hacking coverage. |
-
-**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned invincible-army roster](../../sectorials/yu-jing/invincible-army.md).
-
-| Network role rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
-|---|---|---|---|
-| **Pitcher Apex #8 · A+** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company as rostered | **BS13**, NWI and legal Wildcard support; reliable linked or independent shot and KHD protection **Limit:** Boarding Shotgun (+1B) is **not** +1B to the Pitcher; no Dokkaebi Spotlight upgrade | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) |
-| **Pitcher Value #7 · S** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company | BS13, NWI, Wildcard + KHD for 0 SWC **Limit:** No Spotlight upgrade | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) |
-| **Mobile Repeater Value #6 · S** | **Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0** — Yu Jing / White Banner where legal | **MOV15-10** with native node, FO/Sensor and a Tactical Awareness Order to drive it forward **Limit:** 14pt basic FO/Sensor variant is excluded | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
-
-**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
-
-These are the exact [toolbox Apex and Value](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) positions, not overall-unit ranks. Prices and special equipment are legal **only for the locally selected profile**; unused alternatives and unrelated Fireteam benefits are excluded.
-
-| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
-|---|---|---|---|
-| [Top 10 (#7) · A+](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | — | **Hac Tao Hidden HD with Trinity / MULTI Rifle 58/0.5** · [N5.3 roster](../../sectorials/yu-jing/invincible-army.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
-
-
-**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/yu-jing/invincible-army.md) qualify. These are role-specific placements, not overall unit ranks.
-
-| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
-|---|---|---|---|
-| — | **[Top 5 (#4) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Gūdǎn SMG/Zapper + Shock Mine, one-use Camo, 12/0** | FD(+10) and Regular Order provide a live E/M template, but the carried Shock Mine is not predeployed; 11pt FTO is DZ-only. |
-| — | **[Top 10 (#6) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Libertos Light Shotgun + Shock Minelayer, 8/1** | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
-
-**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact Top 10 Apex or Value positions from the [hybrid hacking rankings](../list-building/hybrid-hackers-apex-and-value.md); role-specific, not all-unit rankings. The [local roster](../../sectorials/yu-jing/invincible-army.md) controls profiles, SWC and Fireteam eligibility.
-
-| Hybrid Apex | Hybrid Value | Legal local profile | Reason and constraints |
-|---|---|---|---|
-| **[Top 5 (#4) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Hac Tao HD + Trinity — 58/0.5** | WIP14, ARM5/BTS6 and 2W; Hidden Deployment plus complete HD/Trinity control. The HMG/ML are other loadouts.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
-| **[Top 10 (#9) — apex](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex)** | — | **Zhēnchá HD + Trinity — 34/0.5** | WIP13, ARM3/BTS6, NWI, Infiltration, Camouflage and Trinity; a concealed midfield controller, not a high-WIP duelist.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
-
-Current [ARO role rankings](../list-building/aro-units-apex-and-value.md) apply only to the **exact legal profile**, with Fireteam effects checked separately.
-
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
-|---|---|---|
-| **Top 3 (#3) — ARO Units (apex)** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) | **Yān Huǒ Neurocinetics(+1B) Missile Launcher 42/1.5** | S Apex #3: BS14/ARM5/2W and enhanced reactive ML volume. **Non-FTO Neuro** is not automatically linkable; the separate FTO Missile Launcher(+1B) is a different profile. |
-
-| Whole-game role shortlist | Unit / profile | Exceptional value or capability; limits | Cross-faction tier reference |
-|---|---|---|---|
-| **Top 10 (#7) — DZ Defenders & Trade Pieces (value, S+)** | **Gūdǎn FTO LSG/Heavy Flamethrower 11/0 (SMG/Zapper alternative)** | **S+ global DZ value**: native Regular Warhorse plus Heavy Flamethrower home-zone protection, with alternate 11pt Zapper profile. Invincible Army lists the **FTO in its Zhanshi team**, max 2; its 12–13pt FD/Camo mine options are distinct. | [#7 current DZ ranking](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-| **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. **Limit:** 59pt and Hackable; need a safe route and useful reveal timing. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L37) |
-| **Top 10 (#8) — Non-TAG long-range apex (A+)** | **Yān Huǒ HRMC47/1.5** | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. **Limit:** S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. | [Gunfighter ranking](../list-building/active-turn-gunfighters-apex-and-value.md#L43) |
-| **Top 5 — Command Units (value)** | **Dāoyīng LT(+1 Order) 23/0** | **S-tier command economy**: a concealed LT with two LT Orders for eligible NCO spenders. Those are **not** interchangeable pooled Regular Orders; the recipient must be able to exploit them. | [S — LT value](../list-building/command-units-apex-and-value.md#L113) |
-| **Top 10 — Killer Hackers (value)** · [**KHD: A apex / S value**](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | **Hǎidào KHD + Pitcher 22/0** | **S-tier hacker value**, scoring and ranged network projection inside a suitable HI team. Hǎidào Engineer/MSV2 Sniper/CoC are **different** profiles. **Revised Hacker guide:** The Hǎidào KHD + Pitcher is A-apex/S-value in the pure KHD tables; its separate Engineer, CoC and sniper variants do not inherit these programs. | [A apex / S value](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) |
-| **Top 5 (#4) — Airborne/DZ attackers (value)** | **Liú Xīng BSG 24/0** | S value: Combat Jump(PH14, Explosion), BS13, ARM3 and NWI, plus normal Parachutist; Hackable and 30% base landing failure | [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L155) |
-| **Top 3 (#2) — Mimetism (-6) apex (S / A)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) | **Hac Tao HMG NCO 59/1.5** | BS14, Mim6, Hidden, W2/ARM5: high-end independent long shooter. **Limit:** Hacking and MSV2; pinned IA roster does not list MSV. | [#2 Mimetism (-6) apex](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) |
+| Whole-game role / source | Apex | Value | Legal local profile / package (pts/SWC) | Why it stands out; profile-specific limitation |
+|---|---|---|---|---|
+| [Classified objective runners](../list-building/classified-objective-runners-apex-and-value.md#classified-objectives--apex-ranking) | Top 10 (#8) · S | — | Hac Tao Hidden HD + Trinity 58/0.5 · [roster](../../sectorials/yu-jing/invincible-army.md) | 14/20 eligible cards. This is the exact ranked loadout: Elite HI, WIP14/BS14, 2W, Mimetism(-6), Hidden Deployment, MSV1 and upgraded Trinity. The HMG/ML options do not inherit the hacking coverage. |
+| [Network — Pitcher](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--apex) | Pitcher Apex #8 · A+ | — | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company as rostered | BS13, NWI and legal Wildcard support; reliable linked or independent shot and KHD protection Limit: Boarding Shotgun (+1B) is not +1B to the Pitcher; no Dokkaebi Spotlight upgrade |
+| [Network — Pitcher](../list-building/network-projection-repeaters-pitchers-apex-value.md#pitchers--points-value) | — | Pitcher Value #7 · S | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company | BS13, NWI, Wildcard + KHD for 0 SWC Limit: No Spotlight upgrade |
+| [Network — Mobile Repeater](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) | — | Mobile Repeater Value #6 · S | Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0 — Yu Jing / White Banner where legal | MOV15-10 with native node, FO/Sensor and a Tactical Awareness Order to drive it forward Limit: 14pt basic FO/Sensor variant is excluded |
+| [Jack-of-all-trades / toolbox](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | Top 10 (#7) · A+ | — | Hac Tao Hidden HD with Trinity / MULTI Rifle 58/0.5 · [N5.3 roster](../../sectorials/yu-jing/invincible-army.md) | BS14, WIP14, 2W ARM5/BTS6, Hidden Deployment, Mimetism(-6), MULTI Rifle and standard HD objective access; 59pt HMG and 60pt ML are separate non-hacker profiles. |
+| [Midfield defense](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck) | — | **Top 5 (#4) — value** | **Gūdǎn SMG/Zapper + Shock Mine, one-use Camo, 12/0** | FD(+10) and Regular Order provide a live E/M template, but the carried Shock Mine is not predeployed; 11pt FTO is DZ-only. |
+| [Midfield defense](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck) | — | Top 10 (#6) — value | Libertos Light Shotgun + Shock Minelayer, 8/1 | FD(+20), one-use Camo, prepaid Shock Mine and Dogged; Irregular and costs 1 SWC. |
+| [Hybrid hackers](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex) | **Top 5 (#4) — apex** | — | **Hac Tao HD + Trinity — 58/0.5** | WIP14, ARM5/BTS6 and 2W; Hidden Deployment plus complete HD/Trinity control. The HMG/ML are other loadouts.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
+| [Hybrid hackers](../list-building/hybrid-hackers-apex-and-value.md#strongest-hybrid-profiles--apex) | Top 10 (#9) — apex | — | Zhēnchá HD + Trinity — 34/0.5 | WIP13, ARM3/BTS6, NWI, Infiltration, Camouflage and Trinity; a concealed midfield controller, not a high-WIP duelist.  [Pinned roster](../../sectorials/yu-jing/invincible-army.md). |
+| [ARO units](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) | **Top 3 (#3) — ARO Units (apex) · Apex** | — | **Yān Huǒ Neurocinetics(+1B) Missile Launcher 42/1.5** | S Apex #3: BS14/ARM5/2W and enhanced reactive ML volume. Non-FTO Neuro is not automatically linkable; the separate FTO Missile Launcher(+1B) is a different profile. |
+| [DZ Defenders & Trade Pieces (value, S+)](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) | — | Top 10 (#7) — DZ Defenders & Trade Pieces (value, S+) | Gūdǎn FTO LSG/Heavy Flamethrower 11/0 (SMG/Zapper alternative) | S+ global DZ value: native Regular Warhorse plus Heavy Flamethrower home-zone protection, with alternate 11pt Zapper profile. Invincible Army lists the FTO in its Zhanshi team, max 2; its 12–13pt FD/Camo mine options are distinct. |
+| [Non-TAG long-range apex (S/A+)](../list-building/active-turn-gunfighters-apex-and-value.md#L37) | **Top 3 (#2) — Non-TAG long-range apex (S/A+)** | — | **Hac Tao HMG59/1.5** | BS14, MSV1, Hidden, Mimetism−6, ARM5/2W: premium first contact with repeat-shot visual defense. Limit: 59pt and Hackable; need a safe route and useful reveal timing. |
+| [Non-TAG long-range apex (A+)](../list-building/active-turn-gunfighters-apex-and-value.md#L43) | Top 10 (#8) — Non-TAG long-range apex (A+) | — | Yān Huǒ HRMC47/1.5 | BS14, high-volume HRMC, ARM5/2W and Immunity(ARM) make a very damaging durable conventional long gun. Limit: S5 Hackable; no innate visual MOD. MULTI HMG FTO45/1.5 is a different profile. |
+| [Command Units (value)](../list-building/command-units-apex-and-value.md#L113) | — | **Top 5 — Command Units (value)** | **Dāoyīng LT(+1 Order) 23/0** | S-tier command economy: a concealed LT with two LT Orders for eligible NCO spenders. Those are not interchangeable pooled Regular Orders; the recipient must be able to exploit them. |
+| [Killer Hackers (value) · KHD: A apex / S value](../list-building/hackers-and-killer-hackers.md#best-value-khd-profiles) | Top 10 — Killer Hackers (value) · KHD: A apex / S value | Top 10 — Killer Hackers (value) · KHD: A apex / S value | Hǎidào KHD + Pitcher 22/0 | S-tier hacker value, scoring and ranged network projection inside a suitable HI team. Hǎidào Engineer/MSV2 Sniper/CoC are different profiles. Revised Hacker guide: The Hǎidào KHD + Pitcher is A-apex/S-value in the pure KHD tables; its separate Engineer, CoC and sniper variants do not inherit these programs. |
+| [Airborne/DZ attackers (value)](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L155) | — | **Top 5 (#4) — Airborne/DZ attackers (value)** | **Liú Xīng BSG 24/0** | S value: Combat Jump(PH14, Explosion), BS13, ARM3 and NWI, plus normal Parachutist; Hackable and 30% base landing failure |
+| [Mimetism (-6) apex (S / A) · rank](../list-building/bs-mod-stacking-units-apex-and-value.md#high-end-mim6-guns-and-reactive-traps) | **Top 3 (#2) — Mimetism (-6) apex (S / A) · rank** | — | **Hac Tao HMG NCO 59/1.5** | BS14, Mim6, Hidden, W2/ARM5: high-end independent long shooter. Limit: Hacking and MSV2; pinned IA roster does not list MSV. |
 
 **Other notable roles:** **Shàng Jí AP HMG/TinBot** makes a strong protected team gun; **Mówáng NCO + Disco Baller** combines Order use and lane denial; **Zhēnchá** provides independent Infiltrating mission access. These are not one combined troop profile.
 
@@ -198,3 +160,13 @@ Confirm Fireteams and groups before treating these as legal lists.
 - **Yān Huǒ ARO bunker vs mobile scoring:** Multiple ML/HRMC are oppressive on open tables, but low mobility and expensive static pieces can lose objective missions to smoke, hacking, mine bypass and forward scoring.
 - **Hac Tao hacker vs Zhēnchá hacker:** N5 podcast guests dispute the price premium: Hidden Deployment and durable BS14 armour are real, but infiltration gives earlier buttons and more affordable Trinity.
 - **EVO/repair investment:** Valuable in Rui Shi, Liú Xīng, Gūijiă, firewall-heavy lists; not automatically worth its costs if the list only wants generic heavy infantry guns.
+
+## Research provenance
+
+**Reference archive:** [Invincible Army source recordings, cross-references, battle reports and purchasing audit](references/invincible-army_refs.md).
+
+**Research date:** 2026-10-22 for the tactical research; cited cross-faction role checks from November 2026. **Faction ranking last reviewed:** 2026-11-13.
+
+**Factual authority:** [Invincible Army roster, profiles, Fireteams, and validation](../../sectorials/yu-jing/invincible-army.md). The following dated tactics, battle-report observations, unit-value rankings, and purchasing advice are interpretive material moved from the reference. Statements referring to roster tables or Fireteam charts “above” or “below” refer to the linked reference, not to this analysis file. The authoritative source takes precedence over dated evaluations.
+
+**Ranking authority:** [N5.3 overall faction and sectorial ranking](../sectorial-rankings-n5-3.md#overall-rankings). These are editorial ranks, not official tournament win-rate measurements.
