@@ -4,68 +4,31 @@
 
 **What FRRM does exceptionally well:** it combines **infiltrating one-use-Camo Métro roadblocks, non-Hackable Tactical Awareness Moblots, mixed-range MSV/Viral support and surprising off-axis attack**. The most successful architecture buys positioning, repeatable specialist work and multiple arrival angles rather than relying on superior baseline BS.
 
-### Whole-game standouts — apex and points value
+### Whole-game standouts — apex versus value
 
-**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches [cross-faction general Apex, separate Protheion Apex, and Value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against the [pinned N5.3 faction roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md). These are **role-specific ranks**, not overall unit ratings; profile options, Fireteam privileges, and dependent-body purchases cannot be combined.
+**Sectorial tier / overall rank: C — #39 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
 
-| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+**Ranking rule:** Cross-faction rankings apply to a named role and exact profile, not to a whole army or every loadout. Apex reflects peak contribution; Value reflects performance per point. Only Top #1–5 ranks and matching profiles are bold; #6–10 and unranked options remain plain. Broad Top 3/5/10 labels are preserved without guessing an exact position. The [pinned FRRM roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) is authoritative for legal availability and Fireteams.
+
+| Whole-game role / source | Apex | Value | Legal Mérovingienne profile (pts/SWC) | Why it stands out; profile-specific limit |
 |---|---|---|---|---|
-| [Top 10 (#10) · A+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | [Top 3 (#2) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Kuryer Katyusha MRL 15/1** | Speculative B1 with +3 Katyusha range to 24 inches and BS Attack(-3) **against enemy Face-to-Face rolls**, not an own BS bonus; requires real trajectory and Orders. |
-
-
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
-
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| — | [Top 10 (#6) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Chasseur FO 20/0** · [local roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | Infiltration/Camo, Sixth Sense, LFT and mine: a cheap Regular scorer and defensive speed bump. |
-
-**Top 3 / Top 5 / Top 10** are **qualitative shortlist candidates within the named job and cost bracket**, not verified overall ranks.
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
-
-These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
-
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
-|---|---|---|
-| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: Sapper/STR2 Neurocinetics, full reactive Sniper or PAC Burst. **FRRM has no TAK Gunnery Fireteam**; both loadouts are independent options, with AP Sniper cheaper and PAC anti-heavy. |
-
-#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
-
-| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
-|---|---|---|---|
-| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-| **Top 10 (#9) value — Cheerleaders / Order Generators** | **Métro 8/0 — Rifle + Chain-colt** | Native Regular S2, cheap template guard and FRRM Métro Fireteam base; limited reach and durability. [Roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | [Value #9](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-
-#### BS Mod-Stacking — verified cross-faction Top 10
-
-These are **profile-specific, role-relative ranks** from the N5.3 [BS modifier comparison](../list-building/bs-mod-stacking-units-apex-and-value.md), not overall army-list rankings.
-
-| Cross-faction role and rank | Legal faction profile | Why it matters and its limit |
-|---|---|---|
-| **Top 10 (#10) — Reactive BS stacking (A / A (sniper))** | **Knauf MULTI Sniper 31/1.5** | MSV1 + Mimetism (-3), Surprise Attack and Decoy on a BS13 sniper. **Limit:** W1/ARM1; Surprise is an eligible active marker opening, not free every shot. [Cross-faction rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) |
-
-
-- **Top 3 — Objective Holding / Zone Domination / Carried Objectives (value):** [**Moblot Paramedic 29/0 / Engineer 31/0**](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L180) are S+ objective-holding value: Mimetism(-3), Tactical Awareness, relevant immunities and mission utility. They still have just **one Wound**. [Objective-holder rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
-- **Top 5 — ARO Units (value):** [**Vystrel Neurocinetics AP Sniper 26/0.5**](../list-building/aro-units-apex-and-value.md#L115) ranks S points value; [**Portable Autocannon 32/1.5**](../list-building/aro-units-apex-and-value.md#L128) increases the anti-heavy threat at additional SWC. Both depend on deployment and recoverability. [ARO rankings](../list-building/aro-units-apex-and-value.md).
-- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Chasseur Shock Minelayer 20/0.5**](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md#L102) is A+: Camo, Infiltration, Sixth Sense and Light Flamethrower make close approaches expensive. **Chasseur FO 20/0** is a separate scoring profile. [Midfield rankings](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md).
-- **Strong unusual support profiles, without a forced global rank:**
-  - **Loup-Garou Smoke GL + Riotstopper 17/0:** a Regular ranged Smoke enabler with short-range control. **No independent cross-faction tier found for this profile.**
-  - [**Para-Commando FO 21/0:**](../list-building/indirect-fire-speculative-guided-apex-value.md#L17) lateral WIP14 (+1 Special Die) scoring and potential Guided setup. **The linked source ranks its FO + Guided architecture, not the trooper by itself.**
-
-- **Top 3 — Indirect Fire (value):** [**Kuryer Katyusha 15/1**](../list-building/indirect-fire-speculative-guided-apex-value.md#L67) is **S+ conditional indirect-fire value** and **S Speculative Fire**: Warhorse, mines and Baggage give it work before or without Targeted. Its Fireteam option is **ETB-only**, not a general Wildcard slot. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-- **Top 10 — Warbands and Cheap Trading Units (value):** [**Carmen & Bâtard 17/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L131) is **A+ cheap-warband / S conditional Speculative** value: smoke movement, synchronized Sensor and Bâtard's grenades present different problems at once. It is one purchase with a Peripheral, not two independent Regular Orders. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md) · [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-- **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** support value and can reload appropriate expended weapons in the proper range; the **Guided 9/1** is distinct. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
-- **Useful narrow-cost standouts, not unconditional top picks:**
-  - [**Métro Grenade Launcher 10/0.5:**](../list-building/indirect-fire-speculative-guided-apex-value.md#L50) **A** inexpensive opportunistic Speculative shots, but ordinary BS/range and opponent spacing limit its ceiling. The infiltrating **14/0.5** option is a different profile. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L86) **S cheap medical value**; **Motorized Doctor 19/0** has a different speed/Smoke job and can escort an ETB when roster-legal. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
-
-
-#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
-
-| Cross-game rank / specific role | Legal profile | Why / limitations |
-|---|---|---|
-| **Top 5 (#5) — Airborne/DZ attackers (apex)** | **Mirage-5 Margot + Duroc 60/2** | A+ apex: two Parachutist(DZ) models, BS14 Margot Specialist/TA and Duroc Smoke/CC; inseparable 60pt/2SWC package; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L119) |
-| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke/Chain/Sensor pressure; Bâtard is Synchronized, **not** a free extra Order or DZ entry; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
+| Rare capabilities / [apex and value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) | #10 · A+ | **#2 · S+** | **Kuryer Katyusha MRL (15/1)** | Strong Speculative B1 range band, Baggage and Warhorse; BS Attack(-3) affects enemy FtF, not own BS. ETB-only Fireteam, not Wildcard. |
+| Mission specialists / [value](../list-building/mission-specialists-and-button-pushers-apex-value.md) | — | #6 · S+ | Chasseur Forward Observer (20/0) | Infiltration/Camo, Sixth Sense, Light Flamethrower and mine enable a cheap Regular scorer and roadblock; distinct from Minelayer. |
+| ARO — long range / [value](../list-building/aro-units-apex-and-value.md) | — | #6 · S | Vystrel Neuro AP Sniper (26/0.5) / PAC (32/1.5) | Sapper/STR2 Neurocinetics, different range/anti-heavy roles; no TAK Gunnery Fireteam access in FRRM. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | **#1 · Value** | **Traktor Mul Baggage/Deactivator (5/0)** | Minimal-cost native Regular Order, Baggage and Deactivator; almost unarmed, Hackable S4, not Guided variant. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | #9 · Value | Métro Rifle + Chain-colt (8/0) | Cheap Regular S2 close guard and Métro team base; limited ranged combat and durability. |
+| Reactive BS MOD stacking / [role ranking](../list-building/bs-mod-stacking-units-apex-and-value.md) | Role-specific #10 · A | — | Knauf MULTI Sniper (31/1.5) | MSV1, Mimetism(-3), Surprise and Decoy on BS13 sniper; W1/ARM1 and Surprise only on eligible marker opening. |
+| Zone domination / objective defense / [value](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) | — | **Top 3 · S+** | **Moblot Paramedic (29/0) / Engineer (31/0)** | Mimetism(-3), Tactical Awareness, immunities and scoring utility for the cost; both still only one Wound. |
+| Midfield area denial / [value](../list-building/midfield-area-denial-and-speed-bumps-apex-value.md) | — | Top 10 · A+ | Chasseur Shock Minelayer (20/0.5) | Camo/Infiltration, Sixth Sense and Light Flamethrower with initial mine; FO (20/0) is a separate scoring profile. |
+| Indirect fire / [value](../list-building/indirect-fire-speculative-guided-apex-value.md) | — | **Top 3 · S+** | **Kuryer Katyusha MRL (15/1)** | Conditional guided/Speculative artillery; Baggage, mines and Warhorse work independently of Targeted status. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | Top 10 · A+ | Carmen Johns + Bâtard (17/0) | Fast Smoke, synchronized Sensor and grenade threat; Bâtard has no independent Regular Order. |
+| Force multipliers / [value](../list-building/force-multipliers-special-abilities-apex-value.md) | — | Top 10 · S+ | Traktor Mul Baggage (5/0) | Cheap support Order and appropriate disposable-ammo reload, distinct from Guided 9/1. |
+| Airborne / enemy-DZ attacks / [apex](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | **#5 · A+** | — | **Mirage-5 Margot + Duroc (60/2)** | Two Parachutist(DZ) models as one 60pt/2SWC package; Margot specialist/TA and Duroc Smoke/CC. |
+| Fast-ground / enemy-DZ breakthrough / [role ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | Role-specific #7 · A | Role-specific #7 · S | Carmen Johns + Bâtard (17/0) | On-table backline approach via Smoke/Chain/Sensor; synchronized Bâtard, no airborne arrival. |
+| Indirect fire / [value](../list-building/indirect-fire-speculative-guided-apex-value.md) | — | A-tier; no exact Top-10 place | Métro Grenade Launcher (10/0.5) | Cheap opportunistic Speculative shot, but normal BS/range and scatter constraints; infiltrating 14/0.5 is a separate profile. |
+| Recovery / [value](../list-building/doctors-engineers-and-recovery-apex-value.md) | — | S-tier; no exact Top-10 place | 112 Emergency Service Doctor (11/0) | Very low-cost medical support; motorized 19pt alternative has a different speed/Smoke role. |
+| Visibility / local evaluation | Unranked | — | Loup-Garou Smoke GL + Riotstopper (17/0) | Regular Smoke and short-range control without a verified whole-game independent tier. |
+| Objective access / [architecture source](../list-building/indirect-fire-speculative-guided-apex-value.md) | Unranked trooper | — | Para-Commando Forward Observer (21/0) | WIP14 with +1 Special Die and off-axis mission/Guided setup; source ranks the FO+Guided architecture, not this trooper alone. |
 
 ### Particularly useful Fireteams
 
@@ -97,12 +60,6 @@ Three **current-chart test ideas**, **not observed tournament lists**, follow fr
 - **Anaconda is a TAG**, but standard FRRM has **no VH-class Vehicle**. Having this one TAG does not by itself make the army exceptional.
 - **No current Chain of Command** in the standard roster; protect a chosen Métro/Moblot/Briscard Lieutenant. **Briscards and Knauf** bring MSV1, not a native MSV2 Smoke-shooting package.
 - **Normal Smoke plus projected Eclipse:** **Loup-Garou Smoke GL 17/0**, Duroc and Motorized 112 supply Smoke; **Wardriver Disco Baller 16/1** provides a separately paid Eclipse-style line-of-sight interruption. The hacking grid is limited, despite an optional Wardriver Pitcher.
-
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/merovingienne_refs.md).
-
-**Research:** 2026-10-22. **Scope:** standard Force de Réponse Rapide Merovingienne (FRRM/MRRF), not L'Équipe Argent Reinforcements. This note records practical list patterns, alternatives, and *why* they work; it is not an Army-data replacement.
-
-**Factual authority:** [current FRRM roster, loadouts, AVA, and canonical Fireteam chart](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md), Army `7.26246.158` (2026-09-03), checked 2026-10-15; [N5.3 rules](../../rules/README.md). Community/video advice below is interpretation, not authority on profile legality. In particular, old N4 discussions and spring-2025 TAG ratings predate the returning-sectorial rework.
 
 ## Quick read — how FRRM wins
 
@@ -256,3 +213,11 @@ WIP12 E197 values Kuryer's wider utility but recognizes Traktor may suffice if G
   - **Infiltrating Bruant:** not FTO.
   - **L'Équipe Argent Reinforcements:** uses a different Fireteam chart.
 - **N5.3 first:** A 2024 Robert Shepherd MRRF battle report correctly illustrates old Chasseur screening and combined Fireteams, but mentions an earlier smoke deficit and other N4 assumptions that no longer apply. Current FRRM has Loups/Disco/Carmen smoke/visibility tools and reworked Moblots.
+
+## Sources, research dates and factual authority
+
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/merovingienne_refs.md).
+
+**Research:** 2026-10-22. **Scope:** standard Force de Réponse Rapide Merovingienne (FRRM/MRRF), not L'Équipe Argent Reinforcements. This note records practical list patterns, alternatives, and *why* they work; it is not an Army-data replacement.
+
+**Factual authority:** [current FRRM roster, loadouts, AVA, and canonical Fireteam chart](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md), Army `7.26246.158` (2026-09-03), checked 2026-10-15; [N5.3 rules](../../rules/README.md). Community/video advice below is interpretation, not authority on profile legality. In particular, old N4 discussions and spring-2025 TAG ratings predate the returning-sectorial rework.
