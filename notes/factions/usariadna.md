@@ -4,53 +4,26 @@
 
 **What USAriadna does especially well:** cheap **motorcycle Smoke, regular midfield mines, non-Hackable mission fighters and several small legal Fireteams** force an opponent to solve many modest threats instead of one premium gun. The October 2025 Minuteman/Blackjack improvements matter; early-2025 tier opinions should not be treated as current profile verdicts.
 
-### Whole-game standouts — apex and points value
+### Whole-game standouts — apex versus value
 
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/usariadna.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+**Sectorial tier / overall rank: C — #37 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
 
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| — | [Top 3 (#3) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Foxtrot Ranger FO 18/0** · [local roster](../../sectorials/ariadna/usariadna.md) | Regular Camouflage/Infiltration, Flash Pulse and Shock Mine: low-cost 0-SWC midfield objectives. |
+**Ranking rule:** Cross-faction placements are role- and profile-specific, not general unit rankings. Apex = peak impact; Value = cost effectiveness. Only Top #1–5 ranks and their profiles are bold; #6–10 and unranked observations remain regular. Old Top 3/5/10 labels without an exact place are kept as ranges, not assigned invented numbers. Verify loadouts and team rights against the [pinned USARF roster](../../sectorials/ariadna/usariadna.md).
 
-**Top 3 / Top 5 / Top 10** are qualitative, **role-specific shortlist candidates** inferred from the cross-faction tiers, not official global places.
-
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-
-**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/ariadna/usariadna.md) qualify. These are role-specific placements, not overall unit ranks.
-
-| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
-|---|---|---|---|
-| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo, Heavy Flamethrower and Panzerfaust; mine carried, not preplaced, and 9pt FTO lacks FD/Camo. |
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 10 (#6) — DZ defenders (value, S+)** | **USAriadna Grunt HFT/LSG 10/0** | Native Regular ARM3/Immunity(Shock) heavy-template guard; local Grunt teams can use the **10pt non-FD** profile. The 12/.5 Forward Deployment version cannot join Fireteams. | [#6 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
-#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
-
-| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
-|---|---|---|---|
-| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/usariadna.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-
-#### Other whole-game role standouts
-
-- **Top 3 — Warbands and Cheap Trading Units (value):** [**Desperado Chain Rifle + Smoke GL 7/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L120) is S+ cost value, with a 20-10 motorcycle and cheap lateral line-of-fire denial. It is Irregular/Impetuous, not a transferable Regular Order. [Warband value](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 5 — Objective Holding / Zone Domination / Carried Objectives (value):** [**Minuteman FO/NCO T2 Rifle 25/0**](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L179) is S+ value in carried-objective defense: specialist, T2/LFT, BS Attack (+1SD), NCO and protection from some electronic threats. Still only one Wound. [Objective-holder tiers](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md).
-- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Foxtrot Boarding Shotgun Minelayer 18/0.5**](../list-building/midfield-defenders-and-speed-bumps.md) is S in area-denial value, with real Camo/Infiltration and an initial mine. The **FO 18/0** is a *separate* scoring profile, not a Minelayer FO hybrid. [Midfield tiers](../list-building/midfield-defenders-and-speed-bumps.md).
-- **Strong sectorial attackers, without an unsupported global Top 10 claim:** **Unknown Ranger MSV1 Mk12 42/0 or AP Spitfire 45/1** has Tactical Awareness, NWI and specialist/gunfighter utility; **Blackjack AP HMG or T2 Sniper 35** provides protected long-range pressure. Neither exact gun build has a standalone cross-faction tier; these remain sectorial recommendations. A *different* [39-point Unknown Ranger Specialist](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md#L62) appears in the objective-carrying discussion.
-
-- **Top 10 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** for Order value and conditional disposable-ammo reloads. The **9/1 Guided** and **14/1 Total Reaction** versions cost more and solve different jobs. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
-- **Further notable profiles, distinguishing ranked from unranked:**
-  - **Devil Dog + K-9 23/0:** durable Smoke/template and synchronized Sensor/close-pressure package; **not independently tiered in the current cross-faction warband table**. **Devil Dog FTO 22/0** is the *separate, no-K-9* link option, not the same package.
-  - [**Beasthunter HFT + Panzerfaust, Camo/FD(+20), 15/0:**](../list-building/midfield-defenders-and-speed-bumps.md) **A+ apex / S points value** for a concealed forward anti-heavy/template fork. Its **9-point FTO** profile has *neither the same Camo/FD package nor a USAriadna Fireteam entry*. [Midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md).
-
-
-#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
-
-| Cross-game rank / specific role | Legal profile | Why / limitations |
-|---|---|---|
-| **Top 10 (#7) — Airborne/DZ attackers (apex)** | **Van Zant AP Rifle 33/0 (T2 BSG 35/0 alternative)** | A+ apex: Parachutist(DZ), Tactical Awareness and Dogged create a no-roll support raid; 33–35pts means one cheap target is poor payback; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L121) |
+| Whole-game role / source | Apex | Value | Legal USAriadna profile (pts/SWC) | Why it stands out; profile-specific limit |
+|---|---|---|---|---|
+| Mission specialists / [value](../list-building/mission-specialists-and-button-pushers-apex-value.md) | — | **#3 · S+** | **Foxtrot Ranger Forward Observer (18/0)** | Regular Camo/Infiltration, Flash Pulse and Shock Mine for a cheap objective specialist; Minelayer version is different. |
+| Midfield defense / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | #7 · S | Beasthunter HFT/Panzerfaust/AP Mine + Camo (15/0) | FD(+20) Camo anti-heavy/template fork; mine carried not prelaid. 9pt FTO has different equipment and no USARF Fireteam row. |
+| Cheap DZ defenders / [value](../list-building/cheap-dz-defenders-and-trade-pieces.md) | — | #6 · S+ | USAriadna Grunt HFT/LSG (10/0) | Regular ARM3 and Shock immunity with template defense; 12/.5 FD version cannot join Grunt Fireteams. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | **#1 · Value** | **Traktor Mul Baggage/Deactivator (5/0)** | Cheapest native Regular Order, reload and Deactivator utility; Hackable S4 and almost unarmed, not artillery variant. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | **Top 3 · S+** | **Desperado Chain Rifle + Smoke GL (7/0)** | Fast 20–10 motorcycle Smoke and lateral denial at minimal cost; Irregular/Impetuous, not a transferable Regular Order. |
+| Zone domination / objective defense / [value](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) | — | **Top 5 · S+** | **Minuteman FO/NCO T2 Rifle (25/0)** | Specialist with T2/LFT, BS Attack(+1SD), NCO and useful electronic resistance. Only one Wound; an older source also describes carried-objective defense. |
+| Midfield area denial / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | Top 10 · S | Foxtrot Boarding Shotgun Minelayer (18/0.5) | Camo/Infiltration and a prepaid mine. Not the 18/0 FO specialist profile. |
+| Force multipliers / [value](../list-building/force-multipliers-special-abilities-apex-value.md) | — | Top 10 · S+ | Traktor Mul Baggage/Deactivator (5/0) | Cheap pooled Regular Order and reload for appropriate Disposable weapons. Guided and Total Reaction versions are different purchases. |
+| Airborne / enemy-DZ attack / [apex](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | #7 · A+ | — | Van Zant AP Rifle (33/0); T2 BSG (35/0) alternative | Parachutist(DZ), Tactical Awareness and Dogged without a Combat Jump roll; too costly for one cheap target. |
+| Multi-body / [role source](../list-building/peripheral-synchronized-multibody-apex-value.md) | Unranked package | — | Devil Dog + K-9 (23/0); FTO solo (22/0) separate | Smoke/template and synchronized Sensor/CC package; 22pt FTO has no K-9 and is a separate USAMC Duo option. |
+| Active attackers / local evaluation | Unranked | — | Unknown Ranger MSV1 Mk12 (42/0) / AP Spitfire (45/1) | Strong Tactical Awareness, NWI and gunfighter/specialist utility, but no confirmed matching global Top 10 gun ranking. |
+| Long-range defense / local evaluation | Unranked | — | Blackjack AP HMG or T2 Sniper (35pts) | Armored ranged anchor, but no standalone verified global Top 10 rank for these exact profiles. |
 
 ### Particularly useful Fireteams
 
@@ -85,12 +58,6 @@ The [numbered N5 reports](../battle-reports/n5-battle-reports-and-tournament-rep
 - **Projected Eclipse on a very cheap carrier:** **Sāchā Disco Baller 8/0**, an Irregular specialist-style support piece, is unusual; **Wardriver Disco Baller 16/1** is another route. Both differ from ordinary Smoke and cost setup Orders.
 - **Chain of Command exists:** **Rosie CoC 26/0** is a specific paid profile, so do not mistakenly describe USARF as having no CoC.
 - **Vision and hacking gaps:** **Desperado/Maverick/Devil Dog** provide normal Smoke, **Marauder/Unknown Ranger** provide MSV1 options, but no native MSV2-based Smoke-shooting engine; hacking and repeaters remain thin.
-
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/usariadna_refs.md).
-
-**Research checked:** 2026-10-22. **Purpose:** concise list-building choices, competing opinions, and *why*; not a substitute for the current [USAriadna reference](../../sectorials/ariadna/usariadna.md) and [rules](../../rules/README.md). Standard USARF Army **304**, N5.3, pinned Army **7.26246.158** (2026-09-03; reference verified 2026-10-15). Army metadata says *discontinued*, but standard roster/Fireteam data remains present and playable. **L'Équipe Argent Reinforcements use a different chart**, not the lists below.
-
-**Evidence priority:** pinned local profiles/Fireteam chart, [official Oct 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-2025-part2), then up-to-date media and tournament examples. The Oct 2025 update changed Minutemen, Blackjacks, Devil Dogs, Van Zant and USARF teams materially; **Jan–May 2025 reviews predate those buffs**. Tactical video timestamps approximate (automatic captions sometimes garble names).
 
 ## 30-second assessment
 
@@ -230,3 +197,11 @@ Treat the Blackjack as a **heavy-gun platform**, not an expensive TAG with remot
 4. **Hardcase vs Beasthunter vs Foxtrot:** Hardcase is cheap decoy distraction but Irregular; Beasthunter presents a more serious AP mine/HFT/CC threat; Foxtrot is a Regular on-table scoring/mine asset. Which one matters depends on whether **Order pool, midfield defense, or disposable assassination** is missing.
 5. **Devil Dog FTO vs K-9:** Solo 22pt FTO can form USAMC Duo and threaten with grenades; **23pt K-9 team** compresses Sensor/multiple bodies and better CC/mine clearing. **Shepherd** prefers K-9; **Swiss Miss** sees genuine upside to the new FTO Duo as a different list idea, not simply a cheaper replacement.
 6. **Motorcycles:** Swiss Miss likes Mavericks' fast MSV/AP Spitfire, Shepherd warns motorcycle cover/positioning gives little error margin. Desperado smoke consistently useful but spamming Irregular bikes consumes regular-shooting/scoring slots.
+
+## Sources, research dates and factual authority
+
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/usariadna_refs.md).
+
+**Research checked:** 2026-10-22. **Purpose:** concise list-building choices, competing opinions, and *why*; not a substitute for the current [USAriadna reference](../../sectorials/ariadna/usariadna.md) and [rules](../../rules/README.md). Standard USARF Army **304**, N5.3, pinned Army **7.26246.158** (2026-09-03; reference verified 2026-10-15). Army metadata says *discontinued*, but standard roster/Fireteam data remains present and playable. **L'Équipe Argent Reinforcements use a different chart**, not the lists below.
+
+**Evidence priority:** pinned local profiles/Fireteam chart, [official Oct 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-2025-part2), then up-to-date media and tournament examples. The Oct 2025 update changed Minutemen, Blackjacks, Devil Dogs, Van Zant and USARF teams materially; **Jan–May 2025 reviews predate those buffs**. Tactical video timestamps approximate (automatic captions sometimes garble names).
