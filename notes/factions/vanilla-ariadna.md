@@ -10,17 +10,17 @@
 
 | Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|---|
-| — | — | [Top 10 (#6) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Antipode Assault Pack 26/0 — Handler + three Control Antipodes** | Smoke-GL/Tactical-Awareness Handler plus three Camouflaged Sensor/AP-CC Spearheads. Only one Spearhead carries out targeted Skills. |
+| — | — | [#6](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Antipode Assault Pack 26/0 — Handler + three Control Antipodes** | Smoke-GL/Tactical-Awareness Handler plus three Camouflaged Sensor/AP-CC Spearheads. Only one Spearhead carries out targeted Skills. |
 
 
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/vanilla-ariadna.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
 |---|---|---|---|
-| — | [Top 3 (#3) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Foxtrot Ranger FO 18/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camouflage/Infiltration, Flash Pulse and Shock Mine: low-cost 0-SWC midfield objectives. |
-| — | [Top 5 (#5) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **1st Highlanders S.A.S. FO 21/0 (SO 25/0 separate)** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo/Infiltration and Chain Rifle/D-Charges give resilient short-range scoring for 21pts. |
-| — | [Top 10 (#6) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Chasseur FO 20/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Infiltration/Camo, Sixth Sense, LFT and mine: a cheap Regular scorer and defensive speed bump. |
-| — | [Top 10 (#8) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Strelok FO 17/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo, FD(+20) and Decoy(1); **not** Infiltration. K-9 SO26 is a separate synchronized package. |
+| — | [**#3**](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Foxtrot Ranger FO 18/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camouflage/Infiltration, Flash Pulse and Shock Mine: low-cost 0-SWC midfield objectives. |
+| — | [**#5**](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **1st Highlanders S.A.S. FO 21/0 (SO 25/0 separate)** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo/Infiltration and Chain Rifle/D-Charges give resilient short-range scoring for 21pts. |
+| — | [#6](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Chasseur FO 20/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Infiltration/Camo, Sixth Sense, LFT and mine: a cheap Regular scorer and defensive speed bump. |
+| — | [#8](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Strelok FO 17/0** · [local roster](../../sectorials/ariadna/vanilla-ariadna.md) | Regular Camo, FD(+20) and Decoy(1); **not** Infiltration. K-9 SO26 is a separate synchronized package. |
 
 The **Top 3 / Top 5 / Top 10** labels below mean **qualitative candidates for the stated role and price band**, not official overall unit rankings or measured win rates.
 
@@ -33,21 +33,21 @@ These are exact **role- and profile-specific** positions in the [current ARO ran
 
 | Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
 |---|---|---|---|
-| — | **[Top 5 (#5) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Konduktor Rifle/Chain-colt/Flammenspeer + one-use Camo, 12/0** | Infiltrating Regular Order with a live close template and disposable ranged threat; 7pt FTO variant is DZ-only. |
-| **[Top 10 (#8) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Ariadna Scout Ohotnik + E/M Mine Minelayer (2), 28/0.5** | Infiltration, Camo, AP Ohotnik and two prepaid E/M mines; 1W and mine-clearance geometry limit the ceiling. |
+| — | [**#5**](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck) | **Konduktor Rifle/Chain-colt/Flammenspeer + one-use Camo, 12/0** | — |
+| [#8](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems) | — | **Ariadna Scout Ohotnik + E/M Mine Minelayer (2), 28/0.5** | — |
 
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
+| ARO ranking (Apex / Value) | Legal local profile | Why it stands out / limits |
 |---|---|---|
-| **Top 10 (#10) Apex · Top 3 (#2) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine threaten high-ARM lanes; #223 documents an anti-heavy reactive trade. **Vanilla roster prints +1B, source guide provisionally +1SD**—do not silently treat the modifier as resolved. |
-| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: standalone Neurocinetics, Sapper, STR2, with AP Sniper offering lower SWC and Autocannon specializing versus armor. In Vanilla, **no TAK Gunnery Fireteam bonus**. |
-| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: low-cost camouflaged long hard-ammo lane; the T2 and AP Sniper are **separate Irregular 1W profiles**, not two weapons on the same model. |
+| #10 / **#2** | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine threaten high-ARM lanes; #223 documents an anti-heavy reactive trade. **Vanilla roster prints +1B, source guide provisionally +1SD**—do not silently treat the modifier as resolved. |
+| #6 | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: standalone Neurocinetics, Sapper, STR2, with AP Sniper offering lower SWC and Autocannon specializing versus armor. In Vanilla, **no TAK Gunnery Fireteam bonus**. |
+| #10 | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: low-cost camouflaged long hard-ammo lane; the T2 and AP Sniper are **separate Irregular 1W profiles**, not two weapons on the same model. |
 
 #### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
 
 | Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
 |---|---|---|---|
-| **Top 3 (#1) — DZ defenders (value, S+)** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Native Regular 7pt Chain Rifle/LSG, carried Shock Mine (**not Minelayer**). FTO name gives **no automatic vanilla Fireteam**. | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-| **Top 10 (#9) — DZ defenders (value, S+)** | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3 Regular HFT/LSG DZ ambush. Vanilla's 10pt FTO has a **restricted Barsuk Fireteam slot**; non-FTO 11pt Camo/Decoy does not gain that slot. 12pt FD is different. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+| **#1** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Native Regular 7pt Chain Rifle/LSG, carried Shock Mine (**not Minelayer**). FTO name gives **no automatic vanilla Fireteam**. | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
+| #9 | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3 Regular HFT/LSG DZ ambush. Vanilla's 10pt FTO has a **restricted Barsuk Fireteam slot**; non-FTO 11pt Camo/Decoy does not gain that slot. 12pt FD is different. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
 
 #### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
 
