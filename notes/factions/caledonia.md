@@ -4,80 +4,33 @@
 
 **What Caledonia does exceptionally well:** it offers some of the game's **cheapest useful Regular Orders and Smoke/CC trades**, then amplifies genuinely Irregular attackers with **Wallace's Inspiring Leadership**. The resulting warband saturation can protect a Camo specialist advance while a Mormaer or Wulver opens the necessary lane.
 
-### Whole-game standouts — apex and points value
+### Whole-game standouts — apex versus value
 
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/caledonian-highlander-army.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
+**Sectorial tier / overall rank: B+ — #22 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
 
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| — | [Top 5 (#5) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **1st Highlanders S.A.S. FO 21/0 (SO 25/0 separate)** · [local roster](../../sectorials/ariadna/caledonian-highlander-army.md) | Regular Camo/Infiltration and Chain Rifle/D-Charges give resilient short-range scoring for 21pts. |
+**Ranking rule:** These are distinct cross-faction *role* placements, not a universal unit power ranking. Apex rewards peak contribution; Value rewards effectiveness per point. Only ranks #1–5 (and their exact profiles) are bold; #6–10 and unranked observations are not. A role-specific or approximate placement is not relabelled as a separate Apex/Value ranking. Always use the [pinned Caledonia roster](../../sectorials/ariadna/caledonian-highlander-army.md) for legal profiles and Fireteams.
 
-**Top 3 / Top 5 / Top 10** are **qualitative role-specific shortlist candidates**, not official overall unit rankings.
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
-
-These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
-
-
-**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/ariadna/caledonian-highlander-army.md) qualify. These are role-specific placements, not overall unit ranks.
-
-| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
-|---|---|---|---|
-| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo, Heavy Flamethrower and Panzerfaust; mine carried, not preplaced, and 9pt FTO lacks FD/Camo. |
-
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
-|---|---|---|
-| **Top 10 (#10) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Highlander Cateran T2 Sniper 21/1 or AP Sniper 21/0.5** | A+ Value #10: Irregular camouflaged long-ranged anti-elite trade at 21pt. T2 and AP ammo are **different sniper profiles**; W1, avoid spending Orders protecting a disposable lane. |
-
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 3 (#3) — DZ defenders (value, S+)** | **Caledonian Volunteer Chain Rifle/LSG 6/0** | One of the lowest-cost **native Regular Orders** with an immediate Chain Rifle corner guard; fragile and not a reliable long-range ARO. Caledonian Volunteer teams are legal under the local chart. | [#3 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
-#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
-
-| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
-|---|---|---|---|
-| **Top 3 (#3) Apex · Top 3 (#2) value — Cheerleaders / Order Generators** | **Caledonian Volunteer 6/0 — Chain Rifle + Light Shotgun** | One of the cheapest native Regular S2 armed Orders; Volunteer Fireteam baseline. Low BS, almost no long-lane pressure. [Roster](../../sectorials/ariadna/caledonian-highlander-army.md) | [Apex #3](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) · [Value #2](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-| **Top 10 (#9) Apex — Cheerleaders / Order Generators** | **Denma Connolly 12/0 — Smoke, Chain Rifle (+1B), AP+DA CCW** | Native Regular plus Impetuous Smoke/CC trade with NBW and MetaChemistry; useful assault enabler but No Cover and 1W make it risky to leave exposed. [Roster](../../sectorials/ariadna/caledonian-highlander-army.md) | [Apex #9](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) |
-| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/caledonian-highlander-army.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-
-#### Active-turn gunfighter and other role standouts (2026-11-04)
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 10 (#10) — Non-TAG long-range apex (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L45) | **Caledonian Mormaer HMG Tactical Awareness49/1.5** | **BS13, BS Attack(−3)** and **BS Attack(AP) + BS Attack(SR−2)** turn its active B4 HMG into AP with effective **PS3** for saves; ARM5, Immunity(ARM), W1+NWI, non-hackable body and own Tactical Awareness Order. **Limit:** Functionally two-stage Wound resilience, **not literal 2W**; BTS0, NWI-state risks, no Mimetism/MSV and 49pt/1.5SWC. **BS Attack(−3) does not affect Warhorse defenders.** HMG profile should **not** inherit the T2 Rifle option's X-Visor. |
-
-#### Cross-faction Top 10 CC standings
-
-| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
-|---|---|---|
-| **Top 10 (#6) — Contact Counter-Assault / Anti-Elite CC (apex)** | [**9th Wulver 29/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L223) | CC23, MA3, Natural Born Warrior, 2W/ARM3, Berserk and AP+Shock PS5 make the 29pt T2 Rifle Wulver a reliable anti-elite contact defender. |
-
-#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
-
-| Cross-game rank / specific role | Legal profile | Why / limitations |
-|---|---|---|
-| **Top 3 (#3) — Fast-ground/VH enemy-DZ breakthrough** | **McMurrough 23/0** | A+ apex / S value for on-table backline breach: 2W, Smoke, templates and AP+DA CC; Irregular/Impetuous and **no DZ insertion**; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L211) |
-
-
-- **Top 3 — Warbands and Cheap Trading Units (value):** [**45th Highlander Galwegian Chain Rifle + Smoke 5/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L117) is S+ points value. It can force several enemy Orders for almost no cost, but remains Irregular/Impetuous and vulnerable when exposed. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 3 — Best Cheap Units in Infinity N5.3 (value):** [**Caledonian Volunteer Chain Rifle/Light Shotgun 6/0**](../list-building/best-cheap-units.md#L48) is S+ as a troop-slot/Order floor; it funds the premium assault plan without pretending to be a strong gunfighter. [Cheap-unit rankings](../list-building/best-cheap-units.md).
-- **Top 5 — Warbands and Cheap Trading Units (value):** [**McMurrough 23/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L133) rates S/A for sustained close-pressure ceiling and cost, with two Wounds, Smoke, Chain(+1B) and AP+DA melee. It is not a disposable five-point equivalent. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 10 — Warbands and Cheap Trading Units (value):** [**Cameronian 18/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L134) is A+ in heavy-warband pressure; it offers far more repeated attacks and screening than a single Galwegian. [Warband comparisons](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**SAS Minelayer 22/0.5**](../list-building/midfield-defenders-and-speed-bumps.md) rates A+ for area denial. Its Forward Observer is a separate profile; do not combine both loadouts into one model. [Midfield tiers](../list-building/midfield-defenders-and-speed-bumps.md).
-- **Top-tier long-range gunfighter (apex #10):** [**Mormaer HMG Tactical Awareness 49/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L45) is **A+ apex** near the Veteran Kazak; its **49pt/1.5SWC** cost puts it [outside the under-40pt gunfighter value table](../list-building/active-turn-gunfighters-apex-and-value.md#L91), not outside strong apex shooting. BS13, **BS Attack(−3)**, **AP HMG with SR−2 (effective PS3)**, ARM5, Immunity(ARM), **W1+NWI**, non-hackability and Tactical Awareness create a credible repeat attacker. Its BTS0, no Mimetism/MSV and premium price are limits; the **HMG has no X-Visor** (separate T2 Rifle profile does).
-- **Sectorial-defining force multiplier:** [**Wallace LT 38/0**](../list-building/command-units-apex-and-value.md#L103) can transform a deliberately selected Irregular roster into flexible pooled Regular Orders, but is conditional on preserving the Lieutenant. [Command tiers](../list-building/command-units-apex-and-value.md).
-
-- **Top 5 — ARO Units (value):** [**Cateran T2 Sniper 21/1 or AP Sniper 21/0.5**](../list-building/aro-units-apex-and-value.md#L116) rates **S points value** as a reactive lane tax. It is Irregular and has one Wound, so the positioning/Wallace Order plan matters. [ARO rankings](../list-building/aro-units-apex-and-value.md).
-- **Top 5 — Force Multipliers (value):** [**Traktor Mul Baggage 5/0**](../list-building/force-multipliers-special-abilities-apex-value.md#L78) is **S+** incremental Order/reload value and combines unusually well with Caledonia's 6-point Volunteers and cheap Warbands. Do not treat its 9/1 artillery option as the same profile. [Force-multiplier rankings](../list-building/force-multipliers-special-abilities-apex-value.md).
-- **Other cross-faction value omissions:**
-  - [**Beasthunter HFT + Panzerfaust Camo/FD(+20) 15/0:**](../list-building/midfield-defenders-and-speed-bumps.md) **A+ apex / S value** as a hidden forward anti-heavy/short-template fork. The **9/0 FTO** that joins Volunteers does *not* have that same concealment/mobility package. [Midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md).
-  - [**Denma Connolly 12/0:**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L108) an **A-tier-type** Regular/Impetuous Smoke/Chain/CC trade using the same printed 12-point package. Its Order is already Regular in Caledonia, so Wallace does not regularize it. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-  - [**112 Emergency Service Doctor 11/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L86) **S cheap recovery value** where a low-cost Regular Doctor matters; the **Motorized 19/0** version buys reach and Smoke instead. [Doctor rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+| Whole-game role / source | Apex | Value | Legal Caledonia profile (pts/SWC) | Why it stands out; profile-specific limit |
+|---|---|---|---|---|
+| Mission specialists / [value](../list-building/mission-specialists-and-button-pushers-apex-value.md) | — | **#5 · S+** | **1st Highlanders S.A.S. FO (21/0); SO (25/0) separate** | Regular Camo/Infiltration specialist with Chain Rifle and D-Charges. The SO is a different loadout. |
+| Midfield defense / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | #7 · S | Beasthunter HFT/Panzerfaust/AP Mine, Camo (15/0) | FD (+20) Camo template and anti-heavy fork; mine is carried, not prelaid. The 9pt FTO lacks this deployment package. |
+| ARO — long-range / [value](../list-building/aro-units-apex-and-value.md) | — | #10 · A+ | Highlander Cateran T2 Sniper (21/1) or AP Sniper (21/0.5) | Irregular one-Wound Camo sniper; different ammunition profiles. The earlier Top-5 shorthand conflicts with the explicit #10 ARO ranking. |
+| Cheap DZ defenders / [value](../list-building/cheap-dz-defenders-and-trade-pieces.md) | — | **#3 · S+** | **Caledonian Volunteer Chain Rifle/LSG (6/0)** | Very cheap native Regular Order with a Chain Rifle corner guard; fragile and limited at range. |
+| Cheerleaders / [apex and value](../list-building/cheerleaders-and-order-generators.md) | **#3 · Apex** | **#2 · Value** | **Caledonian Volunteer Chain Rifle/LSG (6/0)** | One of the least expensive native Regular S2 Order providers; strong economy but poor BS and durability. |
+| Cheerleaders / [apex](../list-building/cheerleaders-and-order-generators.md) | #9 · Apex | — | Denma Connolly Smoke/Chain Rifle (+1B) (12/0) | Native Regular, Impetuous Smoke and CC trade; No Cover and one Wound. Wallace does not generate an extra Regular Order from Denma. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | **#1 · Value** | **Traktor Mul Baggage/Deactivator (5/0)** | Lowest-cost native Regular Order and reload support; nearly unarmed, Hackable S4. Not the artillery versions. |
+| Long-range active gunfighters / [apex](../list-building/active-turn-gunfighters-apex-and-value.md) | #10 · A+ | — | Caledonian Mormaer HMG Tactical Awareness (49/1.5) | BS13, AP HMG with SR(-2), BS Attack(-3), ARM5, Immunity(ARM) and W1+NWI. HMG lacks the T2 Rifle option's X-Visor; outside under-40pt Value bracket. |
+| Close combat — anti-elite contact / [apex](../list-building/dedicated-close-combat-assassins-apex-value.md) | #6 · Apex | — | 9th Wulver T2 Rifle/AP+Shock CCW (29/0) | CC23, MA3, Natural Born Warrior, Berserk and 2W/ARM3 make it an effective contact counterattacker. |
+| Fast-ground enemy-DZ breakthrough / [role ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | **Role-specific #3 · A+** | **Role-specific #3 · S** | **McMurrough (23/0)** | 2W, Smoke, close templates and AP+DA melee; on-table breakthrough, not airborne insertion. Irregular and Impetuous. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | **Top 3 · S+** | **45th Highlander Galwegian Chain Rifle + Smoke (5/0)** | Exceptionally cheap Irregular/Impetuous Smoke and trading; susceptible to exposure and slot constraints. |
+| Best cheap units / [value](../list-building/best-cheap-units.md) | — | **Top 3 · S+** | **Caledonian Volunteer Chain Rifle/LSG (6/0)** | Premium-order funding at minimal cost, not a premium fighter. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | **Top 5 · S/A** | **McMurrough (23/0)** | Sustained 2W Smoke/CC pressure rather than a disposable five-point trade. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | Top 10 · A+ | Cameronian (18/0) | Harder-to-remove repeated close pressure and Smoke screening; Irregular/Impetuous. |
+| Midfield area denial / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | Top 10 · A+ | S.A.S. Minelayer (22/0.5) | Infiltrating Camo and mine threat; the FO 21/0 is a separate profile. |
+| Force multipliers / [value](../list-building/force-multipliers-special-abilities-apex-value.md) | — | **Top 5 · S+** | **Traktor Mul Baggage (5/0)** | Very cheap regular Order and conditional ammunition reloading; do not substitute the 9pt guided version. |
+| Command / [role source](../list-building/command-units-apex-and-value.md) | Role standout (unranked here) | — | William Wallace Lieutenant (38/0) | Inspiring Leadership can regularize a deliberately Irregular roster; losing him compromises both command and economy. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | A-tier; no exact Top-10 position | Denma Connolly (12/0) | Regular Smoke/CC/Chain utility; independent of Wallace conversion. |
+| Recovery / [value](../list-building/doctors-engineers-and-recovery-apex-value.md) | — | S-tier; no exact Top-10 position | 112 Emergency Service Doctor (11/0) | Low-cost native Regular Doctor. The motorized 19pt Doctor buys mobility and Smoke instead. |
 
 ### Particularly useful Fireteams
 
@@ -107,8 +60,6 @@ The [numbered N5 reports](../battle-reports/n5-battle-reports-and-tournament-rep
 - **No standard TAG or VH-class Vehicle**, but unusually deep **cheap Smoke, Dog-Warrior-style assault and AP/T2/CC** answers. Its **5-point Galwegian + 6-point Volunteer + Wallace** economy is the more distinctive capability.
 - **No Chain of Command in the pinned Caledonia roster:** using Wallace aggressively risks both command succession and his Irregular-to-Regular conversion. **Isobel** is not the old CoC model described in some 2025 discussions.
 - **Wardriver Disco Baller 16/1** gives limited projected Eclipse, distinct from normal Smoke. The army has some MSV1 but no native MSV2 shooting backbone, and its hacking/Repeater infrastructure is modest.
-
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/caledonia_refs.md).
 
 ## Core identity
 
@@ -766,3 +717,7 @@ Current starting assumptions for future Caledonia analysis:
 - When the 9-point Beasthunter FTO is better than the 15–17 point camouflaged profiles.
 - Whether Wardriver/Isobel/Guided packages are strong enough to justify their slots in current tournament missions.
 - Two-list pairing: Wallace horde/control list paired with a more elite Mormaer/Wulver list.
+
+## Sources, research dates and factual authority
+
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/caledonia_refs.md).
