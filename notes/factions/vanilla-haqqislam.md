@@ -51,6 +51,8 @@
 | [Mimetism (-6) value (A / A (flank)) · rank](../list-building/bs-mod-stacking-units-apex-and-value.md#best-mim6-points-value-midfield-and-mobility) | — | Top 10 (#8) — Mimetism (-6) value (A / A (flank)) · rank | Haytham Red Fury 33/1.5 | Mimetism (-6), MSV1, Continuous Damage on a 2-STR aerial Red Fury with good attack angles. Limit: S7 No Cover; 8–24in Red Fury, 1.5 SWC and hackable. |
 | [Cheerleaders / Order Generators](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) | Apex #6 (Top 10) | Value #8 (Top 10) | RacerBot Mk-I / Mk-II 9/0 — independent Regular REM | MOV20-10; Mk-I Adhesive Launcher Rifle/PARA Mine, Mk-II Heavy Riotstopper/PARA Mine Dispenser. Independent, unlike Pilot-X-dependent Mk-III. One pooled Regular Order each, plus disposable disruption; Hackable/fragile. [Pinned roster](../../sectorials/haqqislam/haqqislam.md) |
 
+**BS-mod profile audit (4 Nov 2026):** Vanilla Haqqislam Janissary HMG is available, but the pinned roster does **not document BS Attack (-3)**; the #3 suppression rank is for the explicitly documented Ramah version. [Pinned roster](../../sectorials/haqqislam/haqqislam.md).
+
 **Profile-level non-transfer:** Hassassin/Ramah entries describing **Asawira Doctor(+3)**, **Rahman Rouhani Doctor(+3)** or **Ghulam Doctor(+3)** are **not** copied into the Vanilla shortlist: the pinned [Vanilla Haqqislam loadouts](../../sectorials/haqqislam/haqqislam.md) list the corresponding 35/37pt, 21pt and 15pt Doctor profiles with **Doctor(+1)**. Identical unit names do not establish identical upgrades or preserve a cross-faction rank.
 
 ### Particularly strong or unusual Fireteams
