@@ -24,15 +24,15 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 | Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
 |---|---|---|---|---|
-| — | [Top 3 (#2) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Ko Dali FD(+20) 34/0 or Combat Jump 37/0** | MSV2 + Protheion + Specialist: either a forward deployed or airborne attack route, not both on one profile. |
-| [Top 10 (#8) · S](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Achilles Nanoscreen + Mimetism(-3) — AP Spitfire 62/1.5 or Plasma Rifle 63/0 (Next Wave costs)** | BS15, 3W, rapid movement and MA4 under Nanoscreen; two different weapon profiles, not a combined loadout. |
+| — | [**#2**](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Ko Dali FD(+20) 34/0 or Combat Jump 37/0** | MSV2 + Protheion + Specialist: either a forward deployed or airborne attack route, not both on one profile. |
+| [#8](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Achilles Nanoscreen + Mimetism(-3) — AP Spitfire 62/1.5 or Plasma Rifle 63/0 (Next Wave costs)** | BS15, 3W, rapid movement and MA4 under Nanoscreen; two different weapon profiles, not a combined loadout. |
 
 
 **Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
 |---|---|---|---|
-| [Top 5 (#4) · S](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
+| [**#4**](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
@@ -48,13 +48,13 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 | Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
 |---|---|---|---|
-| [Top 10 (#10) · S-](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | [Top 10 (#8) · S](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Ko Dali FD+20 34/0 or Combat Jump 37/0 (33pt FTO / 30pt FTO-2 are distinct)** · [N5.3 roster](../../sectorials/combined-army/next-wave.md) | BS14/MSV2, MULTI Rifle, Specialist Operative, MA3/Protheion and either Mimetism(-3) forward deployment or airborne entry; delivery options are exclusive. |
+| [#10](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | [#8](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Ko Dali FD+20 34/0 or Combat Jump 37/0 (33pt FTO / 30pt FTO-2 are distinct)** · [N5.3 roster](../../sectorials/combined-army/next-wave.md) | BS14/MSV2, MULTI Rifle, Specialist Operative, MA3/Protheion and either Mimetism(-3) forward deployment or airborne entry; delivery options are exclusive. |
 
 **Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/next-wave.md).
 
 | Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
 |---|---|---|---|
-| — | **[Top 5 (#4) Value](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles)** | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Repeater package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
+| — | [**#4**](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles) | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Repeater package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
 
