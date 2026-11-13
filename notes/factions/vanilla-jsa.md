@@ -1,6 +1,5 @@
 # Vanilla JSA — List-Building and Tactical Note
 
-
 ## Overview
 
 **What Vanilla JSA does exceptionally well:** combine cross-sectorial independent threats, concealed assassins, affordable command insurance and a few carefully chosen small Fireteams. Its distinctive jobs are:
