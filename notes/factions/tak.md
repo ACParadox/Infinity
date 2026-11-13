@@ -4,97 +4,43 @@
 
 **What Tartary Army Corps does exceptionally well:** it combines **efficient Camo gunfighters, decoy/mine layers and a rare integrated artillery Fireteam ecosystem**. Enemy Orders are spent discovering markers and suppressing reactive guns before a protected Spetsnaz, TankHunter or Veteran Kazak counterattacks.
 
-### Whole-game standouts — apex and points value
+### Whole-game standouts — apex versus value
 
-**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches [cross-faction general Apex, separate Protheion Apex, and Value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against the [pinned N5.3 faction roster](../../sectorials/ariadna/tartary-army-corps.md). These are **role-specific ranks**, not overall unit ratings; profile options, Fireteam privileges, and dependent-body purchases cannot be combined.
+**Sectorial tier / overall rank: A — #14 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
 
-| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+**Ranking rule:** Rankings are cross-faction, role- and loadout-specific, not universal unit ranks. Apex is ceiling; Value is effectiveness per point. Only Top #1–5 ranks and their profiles are bold; #6–10 and unranked notes remain regular. Role-specific standings are not independent Apex/Value rankings. [Pinned TAK roster and Fireteam chart](../../sectorials/ariadna/tartary-army-corps.md) govern legality and profile details.
+
+| Whole-game role / source | Apex | Value | Legal TAK profile (pts/SWC) | Why it stands out; profile-specific limitation |
 |---|---|---|---|---|
-| [Top 10 (#10) · A+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | [Top 3 (#2) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Kuryer Katyusha MRL 15/1** | Speculative B1 with +3 Katyusha range to 24 inches and BS Attack(-3) **against enemy Face-to-Face rolls**, not an own BS bonus; requires real trajectory and Orders. |
-| — | — | [Top 10 (#6) · S+](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#3-points-value-list-who-gets-rare-capability-cheaply) | **Antipode Assault Pack 26/0 — Handler + three Control Antipodes** | Smoke-GL/Tactical-Awareness Handler plus three Camouflaged Sensor/AP-CC Spearheads. Only one Spearhead carries out targeted Skills. |
-
-
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** Exact ranked profiles in the [global Mission Specialist guide](../list-building/mission-specialists-and-button-pushers-apex-value.md), cross-checked against the [pinned N5.3 roster](../../sectorials/ariadna/tartary-army-corps.md). Top 3 / Top 5 / Top 10 are **role-specific** and apply only to the correct selected specialist loadout, not a generic unit family.
-
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| — | [Top 10 (#8) · S+](../list-building/mission-specialists-and-button-pushers-apex-value.md#2-value-specialists--best-bang-for-buck-all-types) | **Strelok FO 17/0** · [local roster](../../sectorials/ariadna/tartary-army-corps.md) | Regular Camo, FD(+20) and Decoy(1); **not** Infiltration. K-9 SO26 is a separate synchronized package. |
-
-**Top 3 / Top 5 / Top 10** denote **qualitative candidates within a specific role/price class**, not official unit-wide rankings.
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
-
-These are exact **role- and profile-specific** positions in the [current ARO ranking](../list-building/aro-units-apex-and-value.md); other sectorials' Fireteam advantages do not transfer.
-
-
-**Midfield defenders — verified cross-faction Top 10 (11 November 2026).** Exact Apex/Value positions from the [current midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md); only matching loadouts in the [pinned local roster](../../sectorials/ariadna/tartary-army-corps.md) qualify. These are role-specific placements, not overall unit ranks.
-
-| Midfield Apex rank | Midfield Value rank | Legal local profile | Defensive ceiling / value trade-off |
-|---|---|---|---|
-| **[Top 10 (#8) — apex](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-apex--strongest-forward-starting-problems)** | — | **Ariadna Scout Ohotnik + E/M Mine Minelayer (2), 28/0.5** | Infiltration, Camo, AP Ohotnik and two prepaid E/M mines; 1W and mine-clearance geometry limit the ceiling. |
-| — | **[Top 5 (#5) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Konduktor Rifle/Chain-colt/Flammenspeer + one-use Camo, 12/0** | Infiltrating Regular Order with a live close template and disposable ranged threat; 7pt FTO variant is DZ-only. |
-| — | **[Top 10 (#7) — value](../list-building/midfield-defenders-and-speed-bumps.md#midfield-defender-points-value--cheapest-effective-defence--best-bang-for-buck)** | **Beasthunter HFT/Panzerfaust/AP Mine + Camo, 15/0** | FD(+20), reusable Camo, Heavy Flamethrower and Panzerfaust; mine carried, not preplaced, and 9pt FTO lacks FD/Camo. |
-
-| Whole-game ARO placement | Legal local profile | Why it stands out / limits |
-|---|---|---|
-| **Top 10 (#10) Apex · Top 3 (#2) Value — ARO Units** · [Apex](../list-building/aro-units-apex-and-value.md#mediumlong-range-apex--hmg--thunderbolt--hrl--feuerbach--sniper--ml) · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Tankhunter Portable Autocannon 36/1.5** | A+ Apex #10 / S+ Value #2: Camo/Mimetism(-3), AP+EXP and AP Mine. TAK pinned roster **omits the PAC modifier** while the ARO guide uses provisional +1SD; effectiveness and reactive dice must be checked against current Army. |
-| **Top 10 (#6) — ARO Units (value)** · [Value](../list-building/aro-units-apex-and-value.md#mediumlong-range-points-value--non-tag) | **Vystrel Neuro AP Sniper 26/0.5 / Portable Autocannon 32/1.5** | S Value #6: Sapper/STR2 Neurocinetics artillery; #064/#067 support actual Vystrel/Courier defensive Order tax. **Gunnery team benefits require the legal TAK composition**. |
-
-#### DZ Defenders & Trade Pieces — verified cross-faction Top 10 (6 November 2026)
-
-| Whole-game DZ value rank | Legal local profile / package | Why it qualifies; restrictions | Ranking source |
-|---|---|---|---|
-| **Top 3 (#1) — DZ defenders (value, S+)** | **Konduktor FTO Chain Rifle/LSG/Shock Mine 7/0** | Regular 7pt Chain Rifle and Light Shotgun guard; Shock Mine is **carried, not Minelayer**. TAK: FTO can join Line Kazaks (max 2). | [#1 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-| **Top 10 (#9) — DZ defenders (value, S+)** | **Barsuk 11/0 Camo(1 Use)/Decoy HFT/LSG (preferred); FTO 10/0** | ARM3/Immunity(Shock) Regular HFT ambush. 11pt Camo/Decoy is DZ-only; the 10pt FTO may join TAK Line Kazak/Gunnery teams. 12pt FD is separate. | [#9 DZ value](../list-building/cheap-dz-defenders-and-trade-pieces.md#whole-game-standouts--one-combined-defensive-bang-for-buck-ranking) |
-
-#### Cheerleaders and Order Generators — current Top 10 (2026-11-04)
-
-| Whole-game role / exact rank | Legal profile or package | Why it merits the Order-generating shortlist | Ranking source |
-|---|---|---|---|
-| **Top 3 (#1) Apex · Top 5 (#5) value — Cheerleaders / Order Generators** | **Konduktor FTO 7/0 — Chain Rifle, Light Shotgun, Shock Mine** | 7pt native Regular Order plus strong short-range template/mine guard. TAK allows the FTO in a Line Kazak team; Vanilla Ariadna does not gain Fireteams from the FTO label alone. [Roster](../../sectorials/ariadna/tartary-army-corps.md) | [Apex #1](../list-building/cheerleaders-and-order-generators.md#apex--best-total-battlefield-impact-in-the-order-generation-role) · [Value #5](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-| **Top 3 (#1) value — Cheerleaders / Order Generators** | **Traktor Mul Baggage 5/0 — Deactivator** | Cheapest full-price native Regular Order in this roster; Baggage/ECM and reload utility, but S4, Hackable and nearly unarmed. Not the 9pt/14pt missile profiles. [Roster](../../sectorials/ariadna/tartary-army-corps.md) | [Value #1](../list-building/cheerleaders-and-order-generators.md#points-value-tiers--when-buying-a-passive-transferable-regular-order) |
-
-#### Active-turn gunfighter and other role standouts (2026-11-04)
-
-These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
-
-| Whole-game role and exact cross-faction rank | Legal local gunfighter / profile | Shooting case and limitations |
-|---|---|---|
-| **Top 3 (#1) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L99) | **Tankhunter Camo AP HMG33/1.5** | BS13, Camouflage/Surprise, Mimetism−3 and AP HMG combine a credible asymmetric 24–32in opener with armor conversion for just 33pts. **Limit:** W1/BTS0; unlike Spetsnaz, has no Marksmanship, so covered defenders still impose −3. |
-| **Top 3 (#3) — Non-TAG long-range value (A+)** · [rank](../list-building/active-turn-gunfighters-apex-and-value.md#L101) | **Kazak Spetsnaz Camo HMG36/1.5** | BS12, Marksmanship, Mimetism−3, Camo and Surprise offer a great 36pt covered-ARO opener; **value remains high but sustained all-comers shooting trails Veteran Kazak/Kosmosoldat**. **Limit:** 1W/BTS0, no AP and no durable repeat shots once revealed; do not confuse value with apex. |
-
-#### Cross-faction Top 10 CC standings
-
-| Whole-game role / exact cross-faction rank | Legal profile | CC reason and main constraint |
-|---|---|---|
-| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | 32/0 Smoke-bearing Dog-Warrior: 3W, CC23/MA3, Berserk, Super-Jump and AP+T2; a resilient attack/defense option, despite Irregular/Impetuous. |
-| **Top 3 (#1) — Active-turn BS stacking (S / S)** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) | **Kazak Spetsnaz Camo HMG 36/1.5** | Marksmanship + Mimetism (-3) + Camouflage/Surprise; HMG can repeatedly remove covered long-range AROs. **Limit:** W1; MSV/anti-visor tech, weak high-ARM conversion. |
-| **Top 10 (#8) — Reactive BS stacking (A / A (ARO))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) | **Frontovik MSV1 AP Sniper 28/.5** | Mimetism (-3) + **AP Sniper-profile MSV1** + Warhorse, possible legal TAK Fireteam. **Limit:** W1; long sniper but not MSV2 or Neuro. |
-
-#### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
-
-| Cross-game rank / specific role | Legal profile | Why / limitations |
-|---|---|---|
-| **Top 10 (#7) — Fast-ground/VH enemy-DZ breakthrough** | **Carmen Johns + Bâtard 17/0** | A apex / S value for fast on-table Smoke, Chain and Synchronized Sensor/CC; Bâtard is not an independent Order and there is no DZ insertion skill; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L215) |
-
-
-- **Top 5 (#4) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**TankHunter AP HMG, 33/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L75) — Camo/Mimetism(-3) and B4 AP; its **#35 value** placement no longer qualifies for the Top 10. TAK's Portable Autocannon 36/1.5 is **plain**, not Vanilla's +1B.
-- **Top 10 (#8) — Anti-TAG / Anti-Heavy Infantry — Non-Hacking (apex)**: [**Veteran Kazak AP HMG, 45/1.5**](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md#L79) — two-stage NWI durability and a high-quality repeatable AP gun; LT option has different SWC.
-- **Top 3 — Warbands and Cheap Trading Units (value):** [**Irmandinho Engineer + Chain Rifle + Smoke 8/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L121) is S+ value: it can trade, screen, repair or score technical objectives. Its personal Irregular Order cannot simply be spent on a premium gun. [Warband tiers](../list-building/warbands-and-cheap-trading-units-apex-value.md).
-- **Top 5 (#3) — Active-Turn Gunfighters (long-range value):** [**Kazak Spetsnaz Camo HMG 36/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L101) ranks A+ in cross-game gunfighter value, using Marksmanship, Mimetism and Surprise. It is still a one-Wound attacker. [Gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md).
-- **Top 5 — ARO Units (value):** [**Vystrel Neurocinetics AP Sniper 26/0.5**](../list-building/aro-units-apex-and-value.md#L115) is S for ARO points value, with Sapper and 2 STR; the [**Portable Autocannon 32/1.5**](../list-building/aro-units-apex-and-value.md#L128) is A+ for a heavier reactive punch. [ARO rankings](../list-building/aro-units-apex-and-value.md).
-- **Top 10 — Midfield Area Denial & Speed Bumps (value):** [**Barsuk HFT/Light Shotgun 11/0**](../list-building/midfield-defenders-and-speed-bumps.md) has S points value and a one-use Camo/Decoy trap. This **11-point profile does not Forward Deploy**; the **12-point FD HFT** is different. [Midfield/denial rankings](../list-building/midfield-defenders-and-speed-bumps.md).
-
-- **Top 3 — Indirect Fire (value):** [**Kuryer Katyusha 15/1**](../list-building/indirect-fire-speculative-guided-apex-value.md#L67) is **S+ points value / S Speculative Fire**: Baggage, Warhorse, Minelayer and a good Katyusha range band remain useful even when a Guided Targeted state never materializes. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-- **Top 5 — Peripherals, Synchronized & Multi-Body Packages (value):** [**Antipode Assault Pack 26/0**](../list-building/peripheral-synchronized-multibody-apex-value.md#L82) is **S+ multi-body value**: Handler and three fast Camo/Sensor Antipodes plus a Tactical Awareness activation. Only the chosen Spearhead performs the relevant Attack; three models do not mean three independent Orders. [Multi-body rankings](../list-building/peripheral-synchronized-multibody-apex-value.md).
-- **Top 20 (#11) — Active-Turn Gunfighters (long-range apex):** [**Veteran Kazak AP HMG 45/1.5**](../list-building/active-turn-gunfighters-apex-and-value.md#L46) is **A+ active-turn** anti-armor value, with Mimetism, NWI, Sixth Sense and resistance to several electronic attacks. Expensive relative to a Camo Spetsnaz and not a free Sniper replacement. [Gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md).
-- **Top 10 — Warbands and Cheap Trading Units (value):** [**Carmen & Bâtard 17/0**](../list-building/warbands-and-cheap-trading-units-apex-value.md#L131) is **A+ warband / S conditional close Speculative value**, packing Smoke, Sensor and Bâtard's PH-based grenades. Bâtard is a Peripheral, not a second independent Regular Order. [Warband rankings](../list-building/warbands-and-cheap-trading-units-apex-value.md) · [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-- **Other cross-faction A/A+ value omissions:**
-  - [**Scout E/M Minelayer (2) + Ohotnik 28/0.5:**](../list-building/midfield-defenders-and-speed-bumps.md) **A** anti-heavy midfield corridor denial via two E/M mines and real Camo/Infiltration. [Midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md).
-  - [**Strelok K-9 26/0:**](../list-building/peripheral-synchronized-multibody-apex-value.md#L97) **A+** Camo/Decoy and synchronized Sensor with close-counterattack utility; unlike the **17/0 FO**, the K-9 is purchased with this specific profile. [Multi-body rankings](../list-building/peripheral-synchronized-multibody-apex-value.md).
-  - [**Konduktor Camo (1 Use) Infiltrator 12/0:**](../list-building/midfield-defenders-and-speed-bumps.md) **A+ points value** as a Regular low-cost Chain-colt/Flammenspeer marker; its one-use Camo and BS10 prevent it replacing every Strelok. [Midfield rankings](../list-building/midfield-defenders-and-speed-bumps.md).
-  - [**Dog-Warrior grenade profile (21/0):**](../list-building/indirect-fire-speculative-guided-apex-value.md#L69) **S** forward Speculative Fire against Total Cover while still supplying Smoke and hard close pressure. [Indirect-fire rankings](../list-building/indirect-fire-speculative-guided-apex-value.md).
-  - [**Dozer 13/0 + Remontnikbot 2/0:**](../list-building/doctors-engineers-and-recovery-apex-value.md#L117) **S contextual support value** for real REM repair/recovery lanes, especially with Vystrel/Kuryer; the Servant provides no independent Regular Order. [Recovery rankings](../list-building/doctors-engineers-and-recovery-apex-value.md).
+| Rare capabilities / [apex and value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) | #10 · A+ | **#2 · S+** | **Kuryer Katyusha MRL (15/1)** | Unique Speculative Fire range advantage, Baggage and Warhorse; B1 and limited trajectory, while BS Attack(-3) affects opponent FtF rolls, not own BS. |
+| Rare multi-body packages / [value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) | — | #6 · S+ | Antipode Assault Pack (26/0) | Handler with Smoke GL/Tactical Awareness plus three Camo/Sensor/AP-CC Antipodes; one Spearhead acts, not three independent Orders. |
+| Mission specialists / [value](../list-building/mission-specialists-and-button-pushers-apex-value.md) | — | #8 · S+ | Strelok Forward Observer (17/0) | Regular, Camo, FD(+20), Decoy(1), not Infiltration. K-9 SO (26/0) is a separate package. |
+| Midfield defense / [apex](../list-building/midfield-defenders-and-speed-bumps.md) | #8 · Apex | — | Ariadna Scout Ohotnik + E/M Mine Minelayer (2) (28/0.5) | Camo, Infiltration, long gun and two prepaid E/M mines; one Wound and vulnerable to mine clearing. |
+| Midfield defense / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | **#5 · Value** | **Konduktor Camo (1 Use) Infiltrator (12/0)** | Regular Chain-colt/Flammenspeer marker; different from DZ-only 7pt FTO version. |
+| Midfield defense / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | #7 · Value | Beasthunter HFT/Panzerfaust/AP Mine, Camo (15/0) | FD(+20), reusable Camo and short-range anti-heavy fork; carried mine is not a prelaid mine. 9pt FTO is distinct. |
+| ARO — long range / [apex and value](../list-building/aro-units-apex-and-value.md) | #10 · A+ | **#2 · S+** | **Tankhunter Portable Autocannon (36/1.5)** | Camo AP+EXP ARO, AP Mine and Mimetism(-3). Pinned TAK roster does not show the provisional +1SD in the ARO guide; verify dice in Army. |
+| ARO — long range / [value](../list-building/aro-units-apex-and-value.md) | — | #6 · S | Vystrel Neuro AP Sniper (26/0.5) / PAC (32/1.5) | Sapper/STR2 Neurocinetics; Gunnery Fireteam support requires legal TAK composition. Distinct AP sniper and PAC loadouts. |
+| Cheap DZ defenders / [value](../list-building/cheap-dz-defenders-and-trade-pieces.md) | — | **#1 · S+** | **Konduktor FTO Chain Rifle/LSG/Shock Mine (7/0)** | Very cheap native Regular guard, mine carried not prelaid; can join eligible Line Kazak teams. |
+| Cheap DZ defenders / [value](../list-building/cheap-dz-defenders-and-trade-pieces.md) | — | #9 · S+ | Barsuk HFT/LSG Camo(1 Use)/Decoy (11/0), or FTO (10/0) | Durable low-cost Regular template ambush; 11pt Camo profile is DZ-only, and 10pt FTO has different equipment. |
+| Cheerleaders / [apex and value](../list-building/cheerleaders-and-order-generators.md) | **#1 · Apex** | **#5 · Value** | **Konduktor FTO Chain Rifle/LSG/Shock Mine (7/0)** | Seven-point Regular Order, close defense and TAK link eligibility. Its Fireteam privilege does not transfer to Vanilla Ariadna. |
+| Cheerleaders / [value](../list-building/cheerleaders-and-order-generators.md) | — | **#1 · Value** | **Traktor Mul Baggage/Deactivator (5/0)** | Cheap native Regular Order, Baggage reload and Deactivator; nearly unarmed, Hackable S4, not missile variant. |
+| Active-turn long-range gunfighters / [value](../list-building/active-turn-gunfighters-apex-and-value.md) | — | **#1 · A+** | **Tankhunter Camo AP HMG (33/1.5)** | BS13, Mimetism(-3), Surprise and AP B4 for efficient armor conversion. One Wound/BTS0; no Marksmanship. |
+| Active-turn long-range gunfighters / [value](../list-building/active-turn-gunfighters-apex-and-value.md) | — | **#3 · A+** | **Kazak Spetsnaz Camo HMG (36/1.5)** | Marksmanship, Mimetism(-3) and Camo/Surprise for covered ARO removal; W1/BTS0 and no AP. |
+| Close combat — frontline / [apex](../list-building/dedicated-close-combat-assassins-apex-value.md) | #7 · Apex | — | Ioann Bann (32/0) | Smoke-bearing 3W Dog-Warrior with MA3, Berserk, Super-Jump and AP+T2. Irregular/Impetuous. |
+| Active BS MOD stacking / [role ranking](../list-building/bs-mod-stacking-units-apex-and-value.md) | **Role-specific #1 · S** | **Role-specific #1 · S** | **Kazak Spetsnaz Camo HMG (36/1.5)** | Marksmanship plus Mimetism(-3), Camo and Surprise; exposed after opening and weak against MSV or high ARM. |
+| Reactive BS MOD stacking / [role ranking](../list-building/bs-mod-stacking-units-apex-and-value.md) | Role-specific #8 · A | — | Frontovik MSV1 AP Sniper (28/0.5) | Mimetism(-3), MSV1 on sniper profile, Warhorse and possible TAK link; one Wound, not MSV2. |
+| Fast-ground enemy-DZ breakthrough / [role ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) | Role-specific #7 · A | Role-specific #7 · S | Carmen Johns + Bâtard (17/0) | Smoke, Chain and synchronized Sensor/CC enable on-table backline entry; no airborne insertion or separate Bâtard Order. |
+| Anti-TAG/HI, non-hacking / [apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) | **#4 · Apex** | — | **Tankhunter Camo AP HMG (33/1.5)** | B4 AP from a Mimetism(-3) Camo shooter. The same guide ranks its Value #35, outside Top 10; PAC in TAK is not Vanilla's +1B. |
+| Anti-TAG/HI, non-hacking / [apex](../list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) | #8 · Apex | — | Veteran Kazak AP HMG (45/1.5) | Durable NWI/AP gun; Lieutenant variant has different SWC. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | **Top 3 · S+** | **Irmandinho Engineer/Chain Rifle/Smoke (8/0)** | Cheap technical specialist and trade unit; its personal Irregular Order does not feed a premium gun. |
+| Midfield area denial / [value](../list-building/midfield-defenders-and-speed-bumps.md) | — | Top 10 · S | Barsuk HFT/LSG Camo(1 Use) (11/0) | One-use marker/Decoy defensive trap, no FD; 12pt Forward Deployment version is different. |
+| Indirect fire / [value](../list-building/indirect-fire-speculative-guided-apex-value.md) | — | **Top 3 · S+** | **Kuryer Katyusha MRL (15/1)** | Speculative B1 and potential Guided setup, plus Baggage/Warhorse/Minelayer utility even without Targeted. |
+| Synchronized/multi-body packages / [value](../list-building/peripheral-synchronized-multibody-apex-value.md) | — | **Top 5 · S+** | **Antipode Assault Pack (26/0)** | Fast Camo/Sensor/AP CC group, Handler and Tactical Awareness; one Spearhead attacks. |
+| Warbands / [value](../list-building/warbands-and-cheap-trading-units-apex-value.md) | — | Top 10 · A+ | Carmen Johns + Bâtard (17/0) | Smoke, Sensor and Bâtard grenades; synchronized Peripheral is not another independent Order. |
+| Long-range gunfighters / [apex](../list-building/active-turn-gunfighters-apex-and-value.md) | #11 · A+ (Top 20) | — | Veteran Kazak AP HMG (45/1.5) | Repeatable AP platform with Mimetism and NWI; premium compared with the Camo attackers. |
+| Peripheral packages / [value](../list-building/peripheral-synchronized-multibody-apex-value.md) | — | A+; no exact Top-10 position | Strelok K-9 (26/0) | Purchased synchronized Sensor body with Camo/Decoy controller, not the Strelok FO (17/0). |
+| Indirect fire / [value](../list-building/indirect-fire-speculative-guided-apex-value.md) | — | S-tier; no exact Top-10 position | Dog-Warrior grenades (21/0) | Forward Speculative Fire behind Total Cover and Smoke close pressure. |
+| Recovery / [value](../list-building/doctors-engineers-and-recovery-apex-value.md) | — | S-tier; no exact Top-10 position | Dozer (13/0) + Remontnikbot (2/0) | REM repair support for Vystrel/Kuryer; Servant supplies no Order. |
 
 ### Particularly useful Fireteams
 
@@ -127,15 +73,7 @@ The [report reconstructions](../battle-reports/n5-battle-reports-and-tournament-
 - **Real CoC protection:** **TankHunter CoC Minelayer 25/0** and **Vassily CoC** allow some more aggressive command choices. **TAK Voronin has Counterintelligence but not Strategos**, unlike Vanilla's version.
 - **Visibility:** **Wardriver Disco Baller 16/1** gives projected Eclipse utility, alongside Warband Smoke, but there is no broad native MSV2 or advanced hacking grid. **Scouts' E/M Minelayer(2)** is a particularly useful anti-heavy deterrent.
 
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/tak_refs.md).
-
-**Authoritative N5.3 roster and Fireteams:** [Tartary Army Corps (TAK) reference](../../sectorials/ariadna/tartary-army-corps.md).
-
 ## Strategy and listbuilding research
-
-**Authority:** [N5.3 TAK roster and Fireteams](../../sectorials/ariadna/tartary-army-corps.md) remain definitive; historical tactical interpretations do not override exact profiles or legality.
-
-Research synthesis updated **2026-10-16**. This section is strategic guidance rather than rules data; when older commentary conflicts with the canonical N5.3 roster or Fireteam chart above, the pinned Army data wins.
 
 ### Source handling
 
@@ -519,3 +457,13 @@ Shared Vanilla and other Ariadna media are not evidence that TAK gains an unlist
 6. **Tactical Awareness S3 E09**, *ZEROES & HEROES – TAK* (3 Feb 2025): https://open.spotify.com/episode/2VCGfZZhXpth6ahryGhPyw — pre-October-2025 alternative emphasizing max Spetsnaz + T2 Strelok spam (~3–8m) and broad Camo deception. **Old roster details, including a Strategos claim for Voronin, conflict with the N5.3 snapshot above**.
 
 **Confidence boundary:** Transcript claims about preference and practical play are attributed; weapon rules, costs and available Fireteams defer to this file's pinned 2026-09-03 Army snapshot. Full transcripts were read with the connected YouTube/podcast tools; the short clips above are navigation aids, not separate primary material.
+
+## Sources, research dates and factual authority
+
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/tak_refs.md).
+
+**Authoritative N5.3 roster and Fireteams:** [Tartary Army Corps (TAK) reference](../../sectorials/ariadna/tartary-army-corps.md).
+
+**Authority:** [N5.3 TAK roster and Fireteams](../../sectorials/ariadna/tartary-army-corps.md) remain definitive; historical tactical interpretations do not override exact profiles or legality.
+
+Research synthesis updated **2026-10-16**. This section is strategic guidance rather than rules data; when older commentary conflicts with the canonical N5.3 roster or Fireteam chart above, the pinned Army data wins.
