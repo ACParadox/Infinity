@@ -30,6 +30,10 @@
 
 **Profile exclusion:** Qapu Khalqi's pinned Shakush HMG 58/1.5 does **not** list Continuous Damage, unlike the specifically ranked **#9 TAG ranged-value Shakush HMG (Continuous Damage)** in Vanilla Haqqislam, Hassassin Bahram and Ramah. Do not inherit that #9 placement without a roster/profile correction.
 
+**BS-mod profile audit (4 Nov 2026):** Qapu Khalqi fields a Janissary HMG, but its pinned roster does **not document BS Attack (-3)**; do not transplant the Ramah-specific #3 suppression ranking without confirming that skill. [Pinned roster](../../sectorials/haqqislam/qapu-khalqi.md).
+
+**Airborne ranking correction (2026-11-03):** **Bashi Bazouk SMG12/0 or T2 BSG14/0 is now #17 value** ([current entry](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L168)); **Yuan Yuan 6–7/0 is #22 value (conditional/niche)** ([current entry](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L173)). Both can be efficient flank distractions but **neither qualifies for this guide's cross-faction Top 10**. Qapu's standard Parachutist does not grant enemy-DZ edge entry or Druze-only Combat Jump capabilities.
+
 **Other unusually synergistic profiles, without forced ranks:**
 - **Laxmee HD+ 24/.5:** Pitcher, White Noise and Wildcard network utility.
 - **Djanbazan MSV2:** smoke-supported ranged answer.
