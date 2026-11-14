@@ -34,6 +34,14 @@
 - **Forward Montesa Duo:** **two foot Montesas**, potentially **Forward Deployment (+20) Red Fury 32/1.5** plus **Paramedic 26/0**. This is a forward-scoring assault team, not the motorized model.
 - **Regulars Core/Haris:** a cheap **Regular** anchor can add limited **Bagh-Mari, ORC, Machinist or Beasthunter FTO** muscle without spending five premium-unit prices.
 
+### Unique capabilities (PanO sectorials, N5.3)
+
+| Unit | Distinctive capability | How unique? | Competitive significance |
+|---|---|---|---|
+| **Acontecimento Regular** | **MULTI Sniper + Sapper, 20/1** | Only Sapper in PanO sectorials | Inexpensive entrenched long-range ARO that still generates a Regular Order. |
+| **Guarda de Assalto** | **Auxbot Eclipse Grenade Launcher, 40–44 pts** | The only Eclipse Grenade Launcher in the game's pinned N5.3 references | Projects Eclipse at range, enabling approaches even against MSV. Expensive, but unusual delivery capability. |
+| **Dragão** | **HRMC TAG, 76/1.5** | Only HRMC-equipped PanO TAG | BS15, ARM8, 3 Wounds and Tactical Awareness make it a formidable sustained gunfighter. |
+
 ### Unusual access, gaps and trade-offs
 
 - **Unique Eclipse Grenade Launcher:** the Guarda's synchronized **Auxbot** carries the **only Eclipse Grenade Launcher in the game (N5.3)**, allowing projected Eclipse that blocks even MSV sight. The weapon belongs to the Auxbot, not the Guarda, and is distinct from thrown Eclipse Grenades or Disco Ballers. It is not a faction-wide supply of cheap normal Smoke and has significant delivery cost.
