@@ -297,7 +297,7 @@ These are **individual die target numbers, not a full Face-to-Face win percentag
 
 **Profile disagreements requiring maintenance (selected legacy checks):**
 
-- **Hac Tao MSV:** the current [Invincible Army pinned roster](../../sectorials/yu-jing/invincible-army.md) lists Mimetism(-6)/Hidden but **does not print MSV**. The older [active gunfighter note](active-turn-gunfighters-apex-and-value.md) calls it MSV1. **Do not silently award MSV1** in this guide until the source inconsistency is resolved.
+- **Hac Tao MSV — roster-specific distinction resolved:** the [Invincible Army pinned roster](../../sectorials/yu-jing/invincible-army.md) lists Hidden Deployment/Mimetism(-6) **without MSV**; the [Vanilla Yu Jing projection](../../sectorials/yu-jing/vanilla-yu-jing.md) prints **MSV1**. The [active gunfighter ranking](active-turn-gunfighters-apex-and-value.md) scopes its MSV1-based #2 Hac Tao entry specifically to **Vanilla**, while the IA HMG remains #2 in this guide's dedicated Mim6 ranking. Do not transfer a visor between rosters.
 - **Selected-profile-only skills:** Gwailo's MSV2 is on its **39pt HRL**, Mukhtar's MSV2 is on **34pt Red Fury**, Miranda's Marksmanship is persistent, Black Friar and Satrah have specific 24pt guns, and a 28pt Drummer's -3 is not shared by every Drummer.
 - **No automatic stacked EVO benefit:** Assisted Fire gives **Marksmanship to one eligible REM** after a real program/setup cost; it isn't printed on a vanilla Vostok or every REM.
 - **Mixed historical data:** tournament transcripts and older factions can predate Sept-2026 Army prices, Fireteam legality and MSV/Nanoscreen changes; current roster and rule files win.
