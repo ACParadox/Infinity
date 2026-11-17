@@ -18,45 +18,30 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **What Next Wave does exceptionally well:** combine **hero-led compact Fireteams, Fireteam Master Order conversion, Cyberplug peripheral autonomy and vertical Vehicle threats**. It has extraordinary individual utility but relatively few disposable Regular Orders; supporting the key Master/controller and preserving mission specialists matter more than buying every premium attacker.
 
+### Unique capabilities — whole-game and Combined Army comparison
+
+**Scope:** Distinguish *game-wide rarity of a capability or exact combination* from *access exclusive to Next Wave within Combined Army*. The [pinned N5.3 Next Wave roster and Fireteam chart](../../sectorials/combined-army/next-wave.md), [Vanilla Combined Army roster](../../sectorials/combined-army/vanilla-combined-army.md), and [N5.3 Cyberplug rules](../../rules/5b_Special%20Skills/Peripheral_N5.3_Update.md) take precedence over pre-patch profiles. "Rare" does **not** mean no other faction has the underlying skill.
+
+| Unit / package | Whole-game distinction | Compared with Vanilla Combined Army | Competitive significance and limits |
+|---|---|---|---|
+| **Gearhead + Sartroid Puzzlers/Ranters (Cyberplug)** | **Very rare control architecture:** Cyberplugs have distinct Connected/Autonomous profiles, no Controller-distance limit, and independent pooled-Order activations/AROs while Autonomous. One of up to two peripherals may be Connected at a time. | **Not exclusive to Next Wave:** Vanilla has Puzzler/Ranter **AVA1 each**, and a **24/0 Med-Tech Cyberplug** controller. Next Wave has **AVA2 each** and a **13/0 Gearhead Cyberplug** option: **25 pts** with one 12-point Puzzler or **37 pts** with two. | Hidden/infiltrating **12–13pt Puzzlers** threaten E/Marat, adhesion and hacking-area denial; **12–19pt Ranters** provide Mimetism(-6) forward guns. Cyberplugs cost points but **generate no Regular Orders**; Autonomous actions spend pooled Orders. The cheap **Gearhead controller** is not automatically a Wildcard/FTO profile. |
+| **Fireteam Master + Tekdraken Blackhearts/Steeljaws** | **Very unusual** ability to make otherwise Irregular **2-Wound**, Mimetism(-3) fighting troops Regular in qualifying Fireteams. | **Next Wave only** within Combined Army: Pandora Research, Patroclus FTO Shadow and Drakios FTO Dragon provide distinct Master-led access; Vanilla cannot form these teams. | Converts substantial gun/denial power into an effective Order base. **Only eligible linked Irregular members convert**; Regular Stingers do not create bonus Orders, and not every Master joins every Tekdraken. |
+| **Achilles-led Core/Haris/Duo** | Exceptionally powerful BS15/CC24, MA4, 3-Wound Nanoscreen/Mimetism(-3) combatant eligible for **Core** links; other Next Wave Fireteams can also take him. | Vanilla has independent Achilles but **no Core**. Next Wave has Team Achilles, Research, Harbingers and Dragon options; **Team Achilles prohibits Wildcards**. | Premium combat power with Fireteam support. Next Wave AP Spitfire **62/1.5** and Plasma **63/0** have lower SWC than Vanilla's **62/2** and **63/1**, but their printed skills differ: **not** a strict profile-for-profile upgrade. |
+| **Skyhound — Aerial Vehicle 33/0** | **Unique exact package:** BS14, Mimetism(-6), Aerial S7 Vehicle, Plasma Carbine(+1B), AP Thunderbolt and Mine Dispenser for **0 SWC**. | **Next Wave exclusive**; Vanilla CA has no Skyhound. | One of the game's most distinctive vertical-angle attackers; **No Cover**, Hackable and E/M vulnerability constrain its open-lane reliability. **Vehicle, not TAG.** |
+| **Teucer Neurocinetics Plasma Sniper 37/1.5** | **Exceptional reactive-fire combination:** BS14, MSV2, Mimetism(-3), NWI and Neurocinetics Plasma Sniper. | Teucer is **Next Wave exclusive**. | **ARO Apex #6 / ARO Value #1** in the repository's role-specific rankings. **Neurocinetics version is unlinked**; his 35pt Feuerbach FTO is a different profile. |
+| **Juggernaut TAG — 78–82/1.5** | Unusual **ARM8, 3-Wound, Guard, Climbing Plus, Tactical Awareness** TAG with Staldron, and legal Heavies Duo/possible double-Juggernaut package. | **Next Wave exclusive**; Vanilla has other TAGs, not Juggernauts. | Guard resists CC tie-up and climbing changes attack routes; exceptionally expensive and Hackable. **TAG, not Vehicle.** |
+| **Wraith-1 Hidden MULTI Marksman Rifle 27/0.5** | Rare **Hidden Deployment + Surprise + MSV1 + Mimetism(-3) + Marksmanship + FD(+10)** combination. | **Next Wave exclusive**. | **#6 medium-range gunfighter value**. The **25pt FTO** gains link eligibility but **not Hidden Deployment/Surprise**. |
+| **Ironside Heavy Infantry** | Unusual **Albedo(-3) + Combat Instinct + Tactical Awareness** on 2-Wound HI; Disco Baller, AP HMG and KHD alternatives. | **Next Wave exclusive**. | Anti-MSV threat and independent extra Order; do not combine mutually exclusive loadouts. |
+| **Patroclus / Drakios special profiles** | Distinctive Holoprojector deception, Smoke or Albedo and Fireteam Master/CoC/utility possibilities. | Both **Next Wave exclusive**. | **Patroclus 35/1 unlinked HRL has Smoke; FTO has no Smoke.** Independent Drakios includes Kydoimos, **Drakios FTO does not**. These benefits cannot be combined on one profile. |
+| **Ko Dali linked variants / Harbinger infrastructure** | An elite MSV2/Protheion specialist can join teams; **13pt Harbinger FO** combines AP SMG, Flash Pulse(+1B), WildParrot and Regular Order. | Vanilla has Ko Dali, but **FTO 33/0** (Harbingers/Heavies/Control) and **FTO-2 30/0** (Team Achilles) are **Next Wave-only**. Harbingers themselves are exclusive. | Linkable role compression plus affordable scoring/team foundations; Ko Dali's FD(+20) and Combat Jump versions are **separate unlinked profiles**. |
+
+**What is not Next Wave-exclusive:** Cyberplug technology itself, Ko Dali's stand-alone attack/specialist roles, Achilles as a solo gunfighter, and shared Combined remotes (Q-/M-/E-/R-/T-Drones, Ikadrons). Next Wave's distinctive value is their *specific Fireteam access, controller economics, AVA and supporting roster*. Compared with Vanilla, it sacrifices the Avatar/Sphinx/Overdron/Caskuda and premier Impersonation/hacking breadth for hero-led Core teams, converted durable Irregulars and vertical Vehicle pressure.
+
 ### Whole-game standouts — apex versus value
 
-**Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026).** Matches [cross-faction general Apex, separate Protheion Apex, and Value](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) against the [pinned N5.3 faction roster](../../sectorials/combined-army/next-wave.md). These are **role-specific ranks**, not overall unit ratings; profile options, Fireteam privileges, and dependent-body purchases cannot be combined.
+**Sorted by strongest role-specific placement first:** #1 positions, then Top 3, Top 5 and Top 10. Apex and Value are distinct rankings; listed ranks are not overall unit strength or win rates.
 
-| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
-|---|---|---|---|---|
-| — | [**#2**](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Ko Dali FD(+20) 34/0 or Combat Jump 37/0** | MSV2 + Protheion + Specialist: either a forward deployed or airborne attack route, not both on one profile. |
-| [#8](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Achilles Nanoscreen + Mimetism(-3) — AP Spitfire 62/1.5 or Plasma Rifle 63/0 (Next Wave costs)** | BS15, 3W, rapid movement and MA4 under Nanoscreen; two different weapon profiles, not a combined loadout. |
-
-
-**Mission Specialists — verified cross-faction Top 10 (11 November 2026).** The exact **role-specific** Top 10 [Apex and Value ranks](../list-building/mission-specialists-and-button-pushers-apex-value.md) are shown for locally legal N5.3 profiles. Separate loadouts, Fireteam privileges, and deployment options cannot be combined; these are not overall unit rankings.
-
-| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
-|---|---|---|---|
-| [**#4**](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
-
-**Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
-
-**Network projection — verified whole-game Top 10 placements (11 November 2026).** These are **role-specific** positions, not all-unit ratings. Only the locally legal profile and permitted Fireteam/package may claim the rank; see the [pinned next-wave roster](../../sectorials/combined-army/next-wave.md).
-
-| Network role | Rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
-|---|---|---|---|---|
-| Mobile Repeater Value | #7 | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Combined / Next Wave as legal | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
-
-**Jack-of-All-Trades / Toolbox Units — verified cross-faction Top 10 (11 November 2026)**
-
-The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
-
-| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
-|---|---|---|---|
-| [#10](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | [#8](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Ko Dali FD+20 34/0 or Combat Jump 37/0 (33pt FTO / 30pt FTO-2 are distinct)** · [N5.3 roster](../../sectorials/combined-army/next-wave.md) | BS14/MSV2, MULTI Rifle, Specialist Operative, MA3/Protheion and either Mimetism(-3) forward deployment or airborne entry; delivery options are exclusive. |
-
-**Hybrid Hackers — current cross-faction Top 10** (10 November 2026). Exact **Top 10 Apex and/or Value** placements from the [hybrid hacker rankings](../list-building/hybrid-hackers-apex-and-value.md); these are role-specific, not overall-unit rankings. Parent profiles, variant costs and Fireteam rights follow the [local N5.3 roster](../../sectorials/combined-army/next-wave.md).
-
-| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
-|---|---|---|---|
-| — | [**#4**](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles) | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Repeater package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
-
-**ARO Units — verified cross-faction Top 10 (5 November 2026)**
+#### ARO units — verified cross-faction Top 10 (5 November 2026)
 
 Cross-faction placements from the [current ARO guide](../list-building/aro-units-apex-and-value.md); **sectorial roster and loadout are authoritative**, including any differences in printed skills.
 
@@ -65,7 +50,7 @@ Cross-faction placements from the [current ARO guide](../list-building/aro-units
 | #6 / **#1** | **Teucer Neurocinetics Plasma Sniper 37/1.5** | A+ Apex #6 / S+ Value #1: BS14, MSV2, Mimetism(-3), NWI and full reactive Plasma Sniper Burst. **Unlinked Neuro** option; 35pt Feuerbach FTO is a different legal profile. |
 | #8 | **Q-Drone Total Reaction Thunderbolt(+1B) 20/0.5** | S Value #8: Mimetism(-3), 360º Visor and full TR Thunderbolt ARO; repairable STR1 but BS11/ARM0 and vulnerable to hacking. |
 
-**Whole-game standouts — active-turn gunfighter apex/value placements (2026-11-04)**
+#### Active-turn gunfighters — whole-game apex/value placements (2026-11-04)
 
 These are **job-specific, profile-specific** rankings from the [active-turn gunfighter guide](../list-building/active-turn-gunfighters-apex-and-value.md), not overall-unit placements. Local roster, printed loadout, SWC and Fireteam access take precedence over a different faction's exemplar.
 
@@ -83,8 +68,9 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 | **Top 3 (#1) — Nanoscreen / Albedo (S (mid) / B (long))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#nanoscreen-albedo-and-asymmetric-protection--their-own-niche) | **Achilles AP Spitfire 62/1.5** | BS15 + Mimetism (-3) + Nanoscreen, 3W and mobile AP Spitfire: a conventional incoming shot can suffer -6. **Limit:** High cost, hacking and limited HMG-distance reach; No Cover does not mean two Cover penalties. |
 | **Top 3 (#3) — Mimetism (-6) value (A+ / S (angles))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#best-mim6-points-value-midfield-and-mobility) | **Skyhound AP Thunderbolt 33/0** | BS14 + Mim6, aerial attack with excellent 0-SWC ammo/range option. **Limit:** S7 No Cover, hackable and trajectory-dependent. |
 | **Top 5 (#5) — Reactive BS stacking (A+ / A (ARO))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#reactive-turn-ranking--independent-and-supported-aros) | **Teucer Neuro Plasma Sniper 37/1.5** | MSV2 + Mimetism (-3), NWI, Neurocinetics and plasma saves punish long exposed attacks. **Limit:** Expensive 1.5 SWC and restricted active Burst; non-Neuro option differs. |
-| **Top 10 (#7) — Frontline CC Combatants (apex)** | [**Ioann Bann 32/0**](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L154) | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options; Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
 | **Top 10 (#7) — Active-turn BS stacking (A+ / A+ (mission))** · [rank](../list-building/bs-mod-stacking-units-apex-and-value.md#active-turn-ranking--repeatable-ranged-pressure) | **Stinger MSV2 MULTI Marksman 29/.5** | MSV2 on this profile + Mimetism (-3), BS13, NCO, Warhorse and an eligible Research team. **Limit:** 1W; marksman rifle loses long HMG-band reach. |
+
+**Local roster correction:** Next Wave's **Ioann Bann is 30/0 without Smoke**. The 32-point Smoke-equipped profile cited by the cross-faction CC ranking is not locally legal, so its #7 placement is **not** counted here.
 
 #### Current airborne and fast-breakthrough Top 10 placements (2026-11-03)
 
@@ -92,19 +78,64 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 |---|---|---|
 | **Top 3 (#1) — Fast-ground/VH enemy-DZ breakthrough** | **Skyhound Plasma + AP Thunderbolt 33/0** | S apex / S value for practical flying rear-angle attacks: Mimetism(-6), Plasma/AP guns and Mine Dispenser; Hackable VH with No Cover, not deployment bypass; [Source ranking](../list-building/airborne-and-enemy-dz-attackers-apex-value.md#L209) |
 
-- **Top 5 — Force Multipliers (apex): Pandora 24–29/0.5.** ([cross-faction S Fireteam Master](../list-building/force-multipliers-special-abilities-apex-value.md#L42)) **S-tier** in the [force-multiplier tiers](../list-building/force-multipliers-special-abilities-apex-value.md) when a legal Research team includes eligible Irregular **Blackhearts/Steeljaws**. **Stingers are already Regular**: a team of regular members does not manufacture additional Regular Orders. **Hacker-tier reconciliation:** Pandora's Hacker/Zero Pain loadouts are not individually ranked in the revised HD/KHD guide. The cited S-tier grade is for Fireteam Master and Order conversion, not a general Hacker tier.
-- **Top 5 — ARO Units (apex): Teucer Neurocinetics 37/1.5.** ([cross-faction A+ reactive plasma](../list-building/aro-units-apex-and-value.md#L59)) **A+** in the [ARO ranking](../list-building/aro-units-apex-and-value.md). MSV2, Mimetism(-3) and full reactive Plasma Burst punish long-lane exposure; **unlinked Neuro** is distinct from a legal linked FTO/Feuerbach choice.
-- **Top 10 — Best Cheap Units in Infinity N5.3 (value): Harbinger FO 13/0.** ([cross-faction S line soldier](../list-building/best-cheap-units.md#L86)) **S-tier faction standout** in the [best-cheap-units guide](../list-building/best-cheap-units.md): AP SMG, Flash Pulse(+1B), WildParrot, scenario scoring and Fireteam foundation. At 13 points it is useful, not disposable.
-- **A+ — Active-Turn Gunfighters (long-range value): Stinger HMG 30/1.** ([cross-faction A+ ranged value](../list-building/active-turn-gunfighters-apex-and-value.md#L119)) **A+** in the [active gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md) as a cost-effective backup gun. It remains one Wound and cannot inherit another Stinger's MSV2/Multi Marksman loadout.
-- **High-upside but not universal Top-5 gun: Skyhound AP/Plasma Thunderbolt 33/0.** ([cross-faction A long-range points value (geometry)](../list-building/active-turn-gunfighters-apex-and-value.md#L131)) **A for long-lane geometry/value** and [**A+ medium-range value (#7)**](../list-building/active-turn-gunfighters-apex-and-value.md#L150) in favorable 8–24in angles, rather than an elite head-on long-range apex, in the [revised gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md). The aerial 0-SWC angle and Mimetism(-6) are excellent, but a large **VH without Cover** remains Hackable and vulnerable to E/M.
+#### Rare abilities and unusual combinations — verified whole-game Top 10 (11 November 2026)
+
+| Rare Apex | Protheion Apex | Rare Value | Locally eligible profile / package | Why it qualifies; exact-profile limitation |
+|---|---|---|---|---|
+| — | [**#2**](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2a-protheion--apex-only-ranking) | — | **Ko Dali FD(+20) 34/0 or Combat Jump 37/0** | MSV2 + Protheion + Specialist: either a forward deployed or airborne attack route, not both on one profile. |
+| [#8](../list-building/rare-capabilities-and-unique-combinations-apex-value.md#2-apex-tier--highest-distinct-game-changing-ceiling) | — | — | **Achilles Nanoscreen + Mimetism(-3) — AP Spitfire 62/1.5 or Plasma Rifle 63/0 (Next Wave costs)** | BS15, 3W, rapid movement and MA4 under Nanoscreen; two different weapon profiles, not a combined loadout. |
+
+#### Mission specialists — verified cross-faction Top 10 (11 November 2026)
+
+| Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
+|---|---|---|---|
+| [**#4**](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
+
+**Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
+
+#### Hybrid hackers — current cross-faction Top 10 (10 November 2026)
+
+| Hybrid Apex | Hybrid Value | Legal local profile | Strengths and profile restrictions |
+|---|---|---|---|
+| — | [**#4**](../list-building/hybrid-hackers-apex-and-value.md#best-value-hybrid-profiles) | **Bit & KISS! HD + Trinity — 25/0.5** | WIP13 full HD/Trinity, Bit's Pitcher and Deployable Repeater, and included Repeater KISS!; **not** the alternate KHD/Oblivion loadout. **Roster caveat:** Next Wave confirms the 25/0.5 Bit & KISS! Hacker/Repeater package but omits the exact HD/Trinity program list; Top 5 hybrid-value match is conditional. Its KHD+Oblivion variant is not listed. [Pinned roster](../../sectorials/combined-army/next-wave.md). |
+
+#### Network projection — verified whole-game Top 10 (11 November 2026)
+
+| Network role | Rank | Local unit / distinct loadout or package | Why it qualifies; exact-profile limit | Cross-faction evidence |
+|---|---|---|---|---|
+| Mobile Repeater Value | #7 | **M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0** — Combined / Next Wave as legal | **MOV15-10**, native node, Total Terrain, FO/Sensor and TA movement Order **Limit:** 15pt basic M-Drone excluded; 1STR Hackable REM | [Rank](../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater) |
+
+#### Jack-of-all-trades / toolbox units — verified cross-faction Top 10 (11 November 2026)
+
+The labels below are **exact Apex/Value positions** from the [current toolbox ranking](../list-building/jack-of-all-trades-toolbox-units-apex-value.md), not whole-army rankings. Only locally rostered profiles appear; prices, Fireteam rights and alternatives follow the linked N5.3 roster.
+
+| Toolbox Apex | Toolbox Value | Legal local profile / package | Why it qualifies; profile-specific limitation |
+|---|---|---|---|
+| [#10](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-apex-tiers--maximum-actual-versatility) | [#8](../list-building/jack-of-all-trades-toolbox-units-apex-value.md#global-points-value-tiers) | **Ko Dali FD+20 34/0 or Combat Jump 37/0 (33pt FTO / 30pt FTO-2 are distinct)** · [N5.3 roster](../../sectorials/combined-army/next-wave.md) | BS14/MSV2, MULTI Rifle, Specialist Operative, MA3/Protheion and either Mimetism(-3) forward deployment or airborne entry; delivery options are exclusive. |
+
+#### Additional ranked standouts — stronger categories first
 
 - **Top 3 — Vehicles (VH / Aerial) (value): Skyhound AP/Plasma Thunderbolt + Mine Dispenser 33/0.** ([cross-faction S apex / S value](../list-building/vehicles-vh.md#L48)) **S apex / S value within the [Vehicle guide](../list-building/vehicles-vh.md)** for BS14, Mimetism(-6), unusual vertical approaches and 0-SWC dual-role fire. The more specific [ranged gun guide](../list-building/active-turn-gunfighters-apex-and-value.md) grades it **A for geometry**, not S for sustained long-lane fighting: S7 **No Cover**, Hackable and an easy E/M target remain severe weaknesses.
+
 - **Top 3 (#2) — Protheion Apex: Ko Dali.** ([cross-faction S rare capability](../list-building/rare-capabilities-and-unique-combinations-apex-value.md))
   - **FD(+20) 34/0** ([cross-faction S Ko Dali profiles](../list-building/rare-capabilities-and-unique-combinations-apex-value.md)) and **Combat Jump 37/0** are alternative stand-alone profiles.
   - **FTO / FTO-2:** separately priced **Fireteam-specific profiles** with distinct eligibility, not the same model automatically gaining airborne deployment.
   - The [rare-capability rankings](../list-building/rare-capabilities-and-unique-combinations-apex-value.md) grade the 34/37pt mission/assault versions **S** for role compression, but screening and inability to feed Protheion from STR targets constrain payoff.
-- **Top 10 — Doctors, Engineers & Recovery Support (value): Med-Tech Obsidon 21/0.** ([cross-faction A+ apex / S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L81)) **S value** in [recovery tiers](../list-building/doctors-engineers-and-recovery-apex-value.md), particularly when repairing REM/VH/TAG targets and covering medical objectives with optional Slave Drones. Its own one-Wound body is not a frontline defender.
+
+- **Top 5 — Force Multipliers (apex): Pandora 24–29/0.5.** ([cross-faction S Fireteam Master](../list-building/force-multipliers-special-abilities-apex-value.md#L42)) **S-tier** in the [force-multiplier tiers](../list-building/force-multipliers-special-abilities-apex-value.md) when a legal Research team includes eligible Irregular **Blackhearts/Steeljaws**. **Stingers are already Regular**: a team of regular members does not manufacture additional Regular Orders. **Hacker-tier reconciliation:** Pandora's Hacker/Zero Pain loadouts are not individually ranked in the revised HD/KHD guide. The cited S-tier grade is for Fireteam Master and Order conversion, not a general Hacker tier.
+
+- **Top 5 — ARO Units (apex): Teucer Neurocinetics 37/1.5.** ([cross-faction A+ reactive plasma](../list-building/aro-units-apex-and-value.md#L59)) **A+** in the [ARO ranking](../list-building/aro-units-apex-and-value.md). MSV2, Mimetism(-3) and full reactive Plasma Burst punish long-lane exposure; **unlinked Neuro** is distinct from a legal linked FTO/Feuerbach choice.
+
 - **Additional Top 5 force-multiplier candidate: Drakios FTO Fireteam Master.** ([cross-faction S FT Master](../list-building/force-multipliers-special-abilities-apex-value.md#L42)) Together with Pandora and Patroclus FTO, it is **S for permitted Irregular-to-Regular conversion** in [force-multiplier comparisons](../list-building/force-multipliers-special-abilities-apex-value.md). The Master only converts *eligible linked* Irregular members; no additional Regular Orders are created when all teammates were already Regular.
+
+- **Top 10 — Best Cheap Units in Infinity N5.3 (value): Harbinger FO 13/0.** ([cross-faction S line soldier](../list-building/best-cheap-units.md#L86)) **S-tier faction standout** in the [best-cheap-units guide](../list-building/best-cheap-units.md): AP SMG, Flash Pulse(+1B), WildParrot, scenario scoring and Fireteam foundation. At 13 points it is useful, not disposable.
+
+- **Top 10 — Doctors, Engineers & Recovery Support (value): Med-Tech Obsidon 21/0.** ([cross-faction A+ apex / S value](../list-building/doctors-engineers-and-recovery-apex-value.md#L81)) **S value** in [recovery tiers](../list-building/doctors-engineers-and-recovery-apex-value.md), particularly when repairing REM/VH/TAG targets and covering medical objectives with optional Slave Drones. Its own one-Wound body is not a frontline defender.
+
+- **A+ — Active-Turn Gunfighters (long-range value): Stinger HMG 30/1.** ([cross-faction A+ ranged value](../list-building/active-turn-gunfighters-apex-and-value.md#L119)) **A+** in the [active gunfighter tiers](../list-building/active-turn-gunfighters-apex-and-value.md) as a cost-effective backup gun. It remains one Wound and cannot inherit another Stinger's MSV2/Multi Marksman loadout.
+
+- **High-upside but not universal Top-5 gun: Skyhound AP/Plasma Thunderbolt 33/0.** ([cross-faction A long-range points value (geometry)](../list-building/active-turn-gunfighters-apex-and-value.md#L131)) **A for long-lane geometry/value** and [**A+ medium-range value (#7)**](../list-building/active-turn-gunfighters-apex-and-value.md#L150) in favorable 8–24in angles, rather than an elite head-on long-range apex, in the [revised gunfighter rankings](../list-building/active-turn-gunfighters-apex-and-value.md). The aerial 0-SWC angle and Mimetism(-6) are excellent, but a large **VH without Cover** remains Hackable and vulnerable to E/M.
+
 - **Additional cheap infrastructure:** **Ikadron 11/0** ([cross-faction S cheap support](../list-building/best-cheap-units.md#L61)) is **S for list-filler utility** in the [cheap-unit comparison](../list-building/best-cheap-units.md), because its Regular Order, Baggage/reloads, Repeater and light-flamethrower corner defense help fund these expensive hero packages.
 
 ### Particularly strong or unusual Fireteams
