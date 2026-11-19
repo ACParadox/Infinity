@@ -698,3 +698,19 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Army source. Any `FTO` text above is part of a profile/loadout name only and does not grant Fireteam access in generic PanOceania.
 
 **Tactical and purchasing analysis:** [Vanilla PanOceania faction notes](../../notes/factions/vanilla-pano.md). The factual roster and Fireteam data above remain authoritative.
+
+## Fireteam audit and best unlinked compositions — N5.3
+
+**No legal Fireteam compositions exist in pinned Vanilla PanOceania.** The main-roster source contains **no Core, Haris or Duo chart**, so there is no eligible 2–5 member Fireteam and **FT Level is N/A**, even when two models are of the same Unit. FTO labels, Tactical Awareness and close proximity do **not** create a Fireteam. Sectorial-only Wildcards and Counts-as relationships do not transfer into Vanilla. [N5.3 Fireteam chart rules](https://infinitythewiki.com/Fireteams_Chart) require the army's own chart.
+
+The following are **unlinked alternative tactical packages**, not candidates to score FT2/FT3 bonuses. They use exact option numbers and prices from the profiles above (reviewed 2026-11-19); totals are **pts/SWC** for listed independent models only. Peripherals (e.g., Peacemaker Auxbot) are not independent Fireteam members and are already covered by their controller's printed price.
+
+| Priority | Exact independent models (pinned option: pts/SWC) | Size | FT level | Total pts/SWC | Why useful / limitation | Evidence |
+|---|---|---|---|---:|---|---|
+| **Best affordable TAG maintenance** | Tikbalang HMG (opt 1: 69/1.5)<br>Tech-Bee TAGCom (opt 2: 9/0) | 2 independent models | **N/A — no FT** | **78/1.5** | Tikbalang assault with Tech-Bee TAGCom support. Separate Orders; no Fireteam leader, bonuses or shared activation. | [Vanilla PanO guide](../../notes/factions/vanilla-pano.md); recommendation. |
+| **Best layered hidden gun / network** | Swiss Guard Hidden HMG (opt 2: 56/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0)<br>Peacemaker HSG + Auxbot (opt 1: 23/0) | 3 independent models | **N/A — no FT** | **96/1.5** | Swiss Hidden HMG + fast Pathfinder repeater/FO + Peacemaker forward template threat; Auxbot is peripheral, not fourth team member. | [Vanilla PanO guide](../../notes/factions/vanilla-pano.md); independent threat architecture. |
+| **Best broad TAG support** | Squalos MULTI HMG NCO (opt 3: 66/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0)<br>Tech-Bee TAGCom (opt 2: 9/0) | 3 independent models | **N/A — no FT** | **92/1.5** | Squalos NCO gun, Pathfinder scoring and Tech-Bee TAGCom are separate units, even if operating together. | [Vanilla PanO guide](../../notes/factions/vanilla-pano.md); recommendation. |
+| **Best premium hidden TAG package** | Cutter NCO MULTI HMG (opt 1: 97/2)<br>Tech-Bee TAGCom (opt 2: 9/0) | 2 independent models | **N/A — no FT** | **106/2** | Cutter NCO + Tech-Bee offers independent concealed firepower and inexpensive TAGCom; not a Duo. | [Vanilla PanO guide](../../notes/factions/vanilla-pano.md); recommendation. |
+| **Best anti-armor repair package** | Karhu Feuerbach(+1B) (opt 3: 34/1.5)<br>Karhu Engineer (opt 4: 25/0)<br>Pathfinder FO/Sensor (opt 1: 14/0) | 3 independent models | **N/A — no FT** | **73/1.5** | Karhu Feuerbach(+1B), Karhu Engineer and a Pathfinder sensor/repeater; no Fireteam despite two Karhu from same unit. | [Vanilla PanO guide](../../notes/factions/vanilla-pano.md); recommendation. |
+
+**Evidence distinction:** An opponent moving nearby or a narrator calling something a “team” is **not** proof of linked orders. This file does not attribute any Vanilla PanO Fireteam to a battle report or podcast. More on legal Vanilla list architecture: [Vanilla PanO tactical guide](../../notes/factions/vanilla-pano.md).
