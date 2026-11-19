@@ -598,7 +598,7 @@ Coverage notes:
 
 ### Hassassin Nadhir
 
-**ID 1545 · AVA 1 · LI** — Concealed reactive / ambush infantry.
+**ID 1545 · AVA 1 · LI** — Concealed reactive / ambush infantry. **Forward Observer is a shared Nadhir base-profile skill on all five loadouts**, not a standalone loadout-specific upgrade.
 
 | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---|---|
