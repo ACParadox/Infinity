@@ -40,13 +40,13 @@
 | **Patcher — budget specialist HI** | **18/0** Heavy Flamethrower (+1B), Adhesive Launcher Rifle and Continuous-Damage Grenades, or **24/0** Vulkan Shotgun (+1B)/Akrylat-Kanone. Specialist Operative, Climbing Plus and Transmutation; **AVA2**; Wildcard counting as Rokot. | **Whole-game Kosmoflot-exclusive unit**; unique combination of affordable specialist HI, weapons and linked access, not unique equipment mechanics. | **High.** Compact mission and close-range trades for Rokot Fireteams, with no SWC cost. ARM3/2W is the **full state**, not unchanging toughness. |
 | **Strannik — low-cost Wildcard scoring and Doctor** | **16/0** SMG + Adhesive Launcher Rifle Specialist Operative; **18/0** T2 Boarding Shotgun specialist or **18/0** SMG/Light Riotstopper Doctor. **AVA2**; Wildcard. | **Whole-game Kosmoflot-exclusive unit**, including the **Kosmosoldat + Strannik** small-team pairing. Specialist/Doctor rules themselves are common. | **High.** Enables a premium attack Haris with inexpensive scoring or recovery models rather than another costly gun. |
 | **Mekhanik — Engineer with E/M/adhesive defense** | **17/0** SMG/E/M Minelayer, **19/0** Boarding Shotgun/PARA Mine or **20/0** Rifle/Armed Turret (Adhesive Launcher Rifle). **AVA2**; Engineer, counts as Rokot in Rokot Core/Haris. | **Whole-game Kosmoflot-exclusive unit**; an unusual mixed defensive Engineer profile family, not exclusive Engineering. | **Medium–high.** Adds repair, immobilization threats and anti-approach coverage to cheap Regular Fireteams. |
-| **Scot Guard FTO / Frontovik Core with Volkolak Wildcards** | Kosmoflot Core/Haris/Duo requires **at least one Scot Guard FTO or Frontovik**; eligible Volkolak Wildcards add HMG/ML/T2 and Drop Bears. **Non-FTO Camouflage Scot Guards cannot join this row.** | **Whole-game unique legal Kosmoflot Fireteam composition.** Scot Guards and Frontoviks are shared with Ariadna armies, Volkolaks are not. | **High.** Strong linked ranged attack or ARO backed by close denial and versatile support, without inventing Fireteam access for non-FTO loadouts. |
+| **Scot Guard FTO / Frontovik Core with Volkolak Wildcards** | Kosmoflot Core/Haris/Duo requires **at least one Scot Guard FTO or Frontovik**; Scots Guards have **NCO + Forward Observer as common unit skills**, and eligible Volkolak Wildcards add HMG/ML/T2 and Drop Bears. **Non-FTO Camouflage Scots Guards cannot join this row.** | **Whole-game unique legal Kosmoflot Fireteam composition.** Scots Guards' NCO/FO also exists in Caledonia and is not exclusive by itself; Volkolaks are Kosmoflot-specific. | **High.** A legal Scots Guard FTO Team Leader can spend converted Lieutenant Orders to activate the team, including across Combat Groups. FO plus linked ranged attack and area denial create mission utility without waiving FT-02 member requirements. |
 | **Chernobog Duo / AVA2** | Can select **two** 63–70/1.5 Tactical Awareness AP HMG TAGs and form a native Duo, with HFT or HRL (+1B) as distinct loadouts. | **Kosmoflot-only double-Chernobog option within Ariadna**; Vanilla has **AVA1** and cannot form the pair. Chernobog itself and TAG Duos are not whole-game exclusive. | **Medium.** Doubles down on an efficient armored shooter, but two Hackable S7 TAGs compete with the army's independent pressure and specialist budget. |
 | **Wallace Lieutenant + AVA4 Irmandinhos** | **38/0 Wallace LT Inspiring Leadership** plus up to four **8/0 Irmandinho** Irregular/Impetuous Smoke/Chain Rifle Engineers; converts their existing Irregular Orders under the skill's conditions. | **Unique Kosmoflot combination within Ariadna:** Vanilla has Irmandinhos but **no Wallace Lieutenant**; Caledonia has Wallace Lieutenant but **no Irmandinhos**. Inspiring Leadership and cheap Irregular economies are not exclusive. | **Medium–high.** Converts useful independent trades into pooled Orders without creating extra Orders; Caledonia has a deeper set of cheap Irregular troop types. |
 | **Raveneye Officer — cheap prelaid E/M defense** | **12/0** Regular Forward Observer/Minelayer with E/Marat, E/M Mine (or separate Cybermine loadout); **AVA1**. | **Only Kosmoflot within Ariadna**, but **not whole-game exclusive**: also rostered in O-12, Starmada, Torchlight and Military Orders. | **Medium–high.** Cheap order, DZ deterrence and emergency scoring in a combination missing from Vanilla Ariadna. |
 | **S.A.S. AVA3 + Mirage-5 / Uxía** | Up to three S.A.S. Infiltrating Camo specialists, plus Uxía and Margot+Duroc Parachutist (DZ) package; S.A.S. **21/0 FO** and **25/0 SO** are separate options. | **Ariadna roster concentration, not a globally exclusive unit:** Vanilla S.A.S. **AVA1**, Caledonia **AVA4** but no Mirage-5. Mirage-5 and Uxía are also available to Vanilla. | **Medium–high.** Keeps independent infiltration and enemy-DZ paths alongside conventional linked pressure. |
 
-**Why take Kosmoflot over Vanilla Ariadna:** prioritize **Kosmosoldat linked shooting**, **Varangian Core/Haris**, and flexible **Volkolak/Patcher/Strannik** mixed teams. Wallace-LT/Irmandinho order conversion and double Chernobog are more situational advantages. **Mirage-5, Polaris, single Chernobog and Varangians are shared with Vanilla**, so are not standalone reasons to choose the sectorial. The opportunity cost is Vanilla's broader independent toolbox, notably **TankHunters, Spetsnaz, Streloks, Chasseurs, Vystrel and Dynamos**.
+**Why take Kosmoflot over Vanilla Ariadna:** prioritize **Kosmosoldat linked shooting**, **Scots Guard FTO NCO/FO Order-conversion teams**, **Varangian Core/Haris**, and flexible **Volkolak/Patcher/Strannik** mixed teams. Wallace-LT/Irmandinho order conversion and double Chernobog are more situational advantages. **Mirage-5, Polaris, single Chernobog and Varangians are shared with Vanilla**, so are not standalone reasons to choose the sectorial. The opportunity cost is Vanilla's broader independent toolbox, notably **TankHunters, Spetsnaz, Streloks, Chasseurs, Vystrel and Dynamos**.
 
 ### Particularly useful Fireteams
 
@@ -58,7 +58,7 @@
   - **Rokot** anchors the team.
   - **Patcher** Wildcards count as Rokots; eligible **Frontovik/Mekhanik/Kazak Doktor/Wardriver** choices supply a gun, repair, medical support or hacking.
   - Keeps the main attack Order pool available for Mirage-5 or the TAG.
-- **Kosmosoldat Duo/Haris:** **one or two Kosmosoldats** with a permitted **Frontovik** is a heavy direct-attack package. **Chernobog Duo** also exists, but the mere ability to field two TAGs is not itself an exceptional advantage.
+- **Kosmosoldat Duo/Haris:** **one or two Kosmosoldats** with a permitted **Frontovik** is a heavy direct-attack package. A **separate Scots Guard NCO Duo/Haris** can spend the Kosmosoldat LT(+1)'s Special Orders as Tactical Orders, even across Combat Groups. The Scots Guards do **not** need to join the Kosmosoldat's Fireteam. **Chernobog Duo** also exists, but the mere ability to field two TAGs is not itself an exceptional advantage.
 
 ### Battle-report audit — confirmed Kosmoflot links and alternate army shells
 
@@ -78,11 +78,11 @@ The [battle-report analyses](../battle-reports/n5-battle-reports-and-tournament-
 
 - **Chernobog TAG, Polaris and Mirage-5** give unusual diversity for Ariadna, backed by very cheap normal Smoke. **Wardriver Disco Baller 16/1** adds limited projected Eclipse coverage; normal Smoke cannot always bypass enemy MSV.
 - **Wallace LT Inspiring Leadership** regularizes *genuinely Irregular* troopers (for example Irmandinhos). **Varangians and Denma are already Regular**; do not count an extra Order from them. Wallace also has a separate CoC option.
-- **Scots Guard FTO has no current NCO**; do not claim Lieutenant Orders can be routed through it. Hacking/Repeater depth and high-end MSV2 remain significant gaps.
+- **Scots Guard common skills include NCO and Forward Observer**, as corroborated by the user-supplied Infinity Army screen and [Corvus Belli's October 2025 update](https://infinityuniverse.com/en/news/army-update-october-25). A Scots Guard NCO can convert an LT Special Order to a Tactical Order; an NCO Team Leader can use it to activate a legal Fireteam, even in another Combat Group. Hacking/Repeater depth and high-end MSV2 remain significant gaps.
 
-**Three crucial roster corrections:**
+**Three crucial roster checks:**
 
-1. **Current Scots Guard FTO does NOT list NCO** in the pinned Army profile, contrary to repeated NCO claims in the uploaded material. **Do not count a Wallace or Kosmosoldat Lieutenant Order as transferable through a Scots Guard NCO.** The LT Order belongs to its LT under current rules unless another *actually legal* mechanism applies.
+1. **Scots Guards have NCO and Forward Observer as common unit skills** (confirmed by the Army screenshot and October 2025 official update). **NCO can convert Lieutenant Special Orders into Tactical Orders across Combat Groups**; if a Scots Guard NCO is designated Fireteam Leader, that Tactical Order can activate the legal Fireteam. **Correction of a previous transcription error:** the September 2026 pinned roster omitted shared unit skills, but this has now been restored. Scots Guard FTO availability still controls who may join a Fireteam.
 2. **Kosmoflot Varangian Guard and Denma Connolly are already Regular** (Varangians/Denma also Impetuous). **Wallace's Inspiring Leadership does not newly regularize their Orders.** Its regularization benefit applies to genuinely **Irregular** troopers, such as Irmandinhos, eligible Ioann Bann/Caterans/Warcor (subject to that skill's exceptions and list membership).
 3. **Kibervolk Patrol is a bundled two-model team: one Kibervolk + one Dozer KVP**, same Combat Group; it is **not** two independently selectable options or a normal Fireteam. This matters when evaluating the two-Kibervolk/two-Dozer example roster.
 
@@ -292,8 +292,8 @@ The list should not depend on one unique character doing every support task.
 | [Defense by layered deployables (07:00–10:50)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=420s) | The army does not have TAK's deep Camo shell game, but can establish E/M mines, Drop Bears, CrazyKoalas and turrets that force multiple approach decisions. | **Raveneye 12/0 E/M Minelayer**, **Mekhanik 17/0 E/M Minelayer**, **Volkolak Drop Bears (+1B)**, **Kibervolk 12/0 CrazyKoala**, optional KVP Dozer turret and Traktor Baggage are complementary, not one interchangeable weapon. Favor crossings and access lanes rather than scattering deployables randomly. |
 | [Irmandinho role flexibility and Wallace (11:00–16:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=660s) | The 8-point Irmandinho can trade, repair a Chernobog, clear mines with Deactivator or complete Engineer tasks. Two Irmandinhos can work without Wallace because they often spend their own Irregular and Impetuous activations. | **AVA4, Irregular + Impetuous, Engineer/Deactivator.** Wallace LT changes their pool contribution when Inspiring Leadership is applicable; do **not** take 38-point Wallace purely to convert one or two self-funding warbands. Already-Regular Varangians and Denma do not provide additional conversions. |
 | [Volkolak utility (18:30–24:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1110s) | Reviewers especially favor the T2 Rifle Paramedic and Missile Launcher; they find the non-AP HMG harder to justify into heavy armor. Dodge and close-defense modifiers made a Volkolak consume several opposing Orders in one reported tournament game. | **Paramedic 33/0** has BS Attack (AP), T2 Rifle, MediKit and Drop Bears (+1B); **ML 35/1.5** is an ARO/template alternative; **HMG 38/1** remains a volume-of-fire option. Its NWI, Dodge (-3)/Dodge (+5), Immunity (ARM/IMM-B) and CC (+1B) matter, but one anecdote is not a measured average Order tax. |
-| [Kosmosoldat plus Strannik (24:00–27:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1440s) | A Portable Autocannon Kosmosoldat can stand behind cheap Strannik specialist/Doctor escorts; it should often be kept hidden until later turns rather than offered into an intact plasma/sniper ARO. | **44/1.5 PAC + 16/0 Strannik Specialist + 18/0 Strannik Doctor = 78 points/1.5 SWC** for a legal Kosmosoldat-anchored Haris with two eligible Wildcards. This protects against overspending on premium teammates; it does not confer NCO on anybody. |
-| [Scots Guard excitement and LT-Order claims (24:00–35:00; 88:00–90:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1680s) | Speakers repeatedly recommend Scots Guard NCO converting the Kosmosoldat LT(+1)'s Orders and describe the HRL as a Forward Observer. They value the MSV1 HRL and Paramedic in small teams. | **Critical source conflict:** current **Scot Guard FTO HRL is 26/1.5 with MSV1 but neither NCO nor FO**; **FTO Paramedic is 23/0** with MediKit, AP SMG (+1B) and Panzerfaust. **No pinned FTO has NCO or FO.** Do not build the episode's cross-combat-group Lieutenant-Order engine; a Kosmosoldat LT(+1) spends its LT Orders under actual N5 rules. The two FTOs may still provide a useful FT-02 Duo. |
+| [Kosmosoldat plus Strannik (24:00–27:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1440s) | A Portable Autocannon Kosmosoldat can stand behind cheap Strannik specialist/Doctor escorts; it should often be kept hidden until later turns rather than offered into an intact plasma/sniper ARO. | **44/1.5 PAC + 16/0 Strannik Specialist + 18/0 Strannik Doctor = 78 points/1.5 SWC** for a legal Kosmosoldat-anchored Haris with two eligible Wildcards. This protects against overspending on premium teammates; the Stranniks themselves do not gain NCO. A separate Scots Guard NCO team may still exploit Lieutenant Orders. |
+| [Scots Guard NCO/FO Lieutenant-Order tactics (24:00–35:00; 88:00–90:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1680s) | Speakers recommend Scots Guard NCO using the Kosmosoldat LT(+1)'s Orders and describe MSV1 HRL/Paramedic profiles as versatile linked FOs. | **Confirmed, not contradicted:** the Army screenshot and [Corvus Belli October 2025 changes](https://infinityuniverse.com/en/news/army-update-october-25) establish **NCO and Forward Observer as common Scots Guard skills** omitted from the earlier pinned local transcription. **26/1.5 FTO HRL** additionally has MSV1; **23/0 FTO Paramedic** adds MediKit, AP SMG (+1B) and Panzerfaust. Per [current N5.3 NCO](https://infinitythewiki.com/NCO), NCO can replace Lieutenant Special Orders with Tactical Orders even across Combat Groups; a linked NCO Team Leader can activate its team. **Use a legal FT-02 composition; do not put a Scots Guard in the Kosmosoldat's FT-03 by assumption.** |
 | [Para-Commandos vs Mirage-5 (35:00–43:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2100s) | Most lists should choose **Mirage-5 or Para-Commandos** to avoid overcommitting the 15-trooper economy to off-table entry. An all-in **Supremacy** anecdote used two Para-Commandos plus Mirage-5 for late quadrant dominance; this is a mission skew, not the default. Duroc can pull enemy facing while Margot attacks the other side. | **Mirage-5 60/2** is a fixed two-model package, with Margot's Specialist Operative/Tactical Awareness and Duroc's close pressure. **Para-Commando FO Boarding Shotgun 21/0** has BS Attack (+1SD), WIP14, D-Charges; **Paramedic 19/0** is another mission tool. The FO offers a potential **Katyusha Guided** targeting plan when legal conditions are satisfied. |
 | [Uragan as an unexpected rear guard (43:30–47:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2610s) | An Uragan placed over a table edge can deter parachutists/rear attacks; the hosts prefer it as late-turn area denial rather than an exposed turn-one sniper stand-in. | **Traktor Uragan 14/1**, **Total Reaction + Guided**, BS10. **Katyusha 9/1** is a different Guided option, and **5/0 Baggage/Deactivator** is a different profile again. Check actual line of fire, range, ammunition and templates rather than assuming the anecdotal hits are guaranteed. |
 | [Ioann Bann/Varangian instead of Polaris (49:00–55:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2940s) | A 32-point Bann plus 10-point Varangian Duo offers a different close-assault package: Smoke, Berserk, Viral Tactical Bow and dangerous CC. Reviewers prefer this to their current Polaris builds, and sometimes use Wallace LT to support its Order economy. | **42/0** before any Wallace cost. Bann is **Irregular** and counts as Varangian; a native Varangian anchor is still required. Spending Bann's personal Irregular Order while linked invokes **Fireteam Integrity** rules, so Wallace LT may improve its practicality by regularizing eligible Orders; don't treat any quoted burst/modifier interaction as proven without the current Fireteam/smoke rules. |
@@ -309,7 +309,7 @@ The list should not depend on one unique character doing every support task.
 1. **Build a layered DZ defense, not just a single visible ARO:** pair a predeployed **Raveneye E/M mine** with a **Kibervolk CrazyKoala Patrol** or **Mekhanik E/M mine**, add a **Volkolak Drop Bear lane** if its team naturally traverses the midfield, and place an optional **Uragan** to discourage a particular table edge. A 5-point **Baggage Traktor** supports eligible reloads and a Regular Order, but is not itself a gun. Check deployment and disposable/reload rules; do not assume every item is refillable.
 2. **Choose one off-table budget consciously:** **Mirage-5** creates a strong two-model enemy-DZ threat; a **21-point Para-Commando FO** is a cheaper alternative and enables a potential **Katyusha Guided** plan. Combining both with additional Para-Commandos can work for quadrant missions but makes the starting-table Order and defense plan more fragile.
 3. **Distinguish assault pieces by jobs:** **Volkolak Paramedic** = midfield T2/anti-armor plus scoring; **Cadin** = E/M/short-range breach; **Bann + Varangian** = smoke-supported Berserk and CC; **Polaris** = separate fast, durable close-angle threat; **Kosmosoldat PAC + Stranniks** = sustained frontal gun plus Doctor/scoring escort. None is always the best purchase.
-4. **Avoid building around the podcast's unsupported Scots Guard Order engine.** The video explicitly spends a Kosmosoldat Lieutenant(+1)'s orders using Scots Guard NCO in another Combat Group. That is **not legal under the pinned Scots Guard FTO data**. Likewise the quoted FTO HRL is **MSV1, not FO**. Prefer a functional **Scots Guard FTO Duo** or legal **Scot Guard/Frontovik-anchored mixed team** on its own merits, and spend the LT Orders only through an actual legal rule.
+4. **Build the Scots Guard NCO engine deliberately:** **Kosmosoldat Lieutenant (+1 Order)** can supply **two Lieutenant Special Orders** for a **Scots Guard FTO NCO** to convert into Tactical Orders, including when that NCO is in another Combat Group. As a Fireteam Leader, it can activate its **legal FT-02** team with those Orders. Scots Guards also bring **Forward Observer** on their shared profile; the **MSV1 HRL** and **Paramedic** are loadout-specific extras. Preserve required FT-02 anchors and distinguish this NCO team from any separate Kosmosoldat Haris.
 5. **Take the negative rankings as marginal-cost judgments:** Zenit-7 and Pavel are not forbidden picks; Frontovik's SWC-efficient sniper still covers a different lane from Scots HRL; base Dozer can still be the right remote repair point; and Polaris may still earn its points on a mission/table where a second fast threat cannot be duplicated.
 
 **Rules cross-check:** [Inspiring Leadership](https://infinitythewiki.com/Inspiring_Leadership), [Fireteam Integrity](https://infinitythewiki.com/Fireteam_Integrity), and [current pinned Kosmoflot Fireteams](../../sectorials/ariadna/kosmoflot.md#fireteams). **Transcript uncertainty:** unit names and short tactical modifiers in speech are sometimes misrecognized; all exact profile numbers above were taken from the pinned roster, not automatically transcribed speech.
@@ -535,9 +535,9 @@ It is:
 
 The more good Irregular profiles you intentionally buy, the more Wallace changes the army's economy.
 
-#### Wallace command economy — no pinned Scots Guard NCO
+#### Wallace command economy — Inspiring Leadership plus Scots Guard NCO
 
-The uploaded source proposes Wallace LT + a Scots Guard FTO NCO. **That interaction is unsupported by the pinned Kosmoflot N5.3 roster:** current Scots Guard FTO rows list no NCO skill. Wallace's confirmed economy benefit is **Inspiring Leadership applied to eligible truly Irregular troopers**. Spend the LT Order legally on Wallace or find an explicitly legal mechanism; **do not budget a nonexistent NCO conversion**.
+Wallace LT can both **regularize eligible genuinely Irregular troopers through Inspiring Leadership** and supply **one Lieutenant Special Order** to a legal Scots Guard FTO with **NCO**. Under N5.3, NCO converts it to a Tactical Order, even across Combat Groups; an NCO Fireteam Leader may use that Tactical Order to activate its team. Wallace is still an expensive LT, so justify the opportunity cost of adding him rather than a cheap Rokot or aggressive Kosmosoldat.
 
 ---
 
@@ -546,12 +546,12 @@ The uploaded source proposes Wallace LT + a Scots Guard FTO NCO. **That interact
 Use when:
 
 - the list wants an aggressive, durable Lieutenant;
-- you have a realistic plan to use the extra Lieutenant Order **on the Lieutenant itself** (no pinned Scots Guard NCO);
+- you have a realistic plan to use its extra Lieutenant Order **personally or through a Scots Guard NCO**, including a separately organized FTO Duo/Haris;
 - the Kosmosoldat is already one of the main ranged pieces.
 
-**Correction:** the current roster has **no NCO Scots Guard FTO**, so the previously suggested LT→Scots Guard conversion **cannot be counted**.
+**Confirmed Order engine:** Scots Guards' shared **NCO** can convert the Kosmosoldat Lieutenant (+1 Order) Special Orders into Tactical Orders. The NCO and Lieutenant may be in different Combat Groups; if the NCO is Fireteam Leader, it can use those converted Orders to activate its legal Fireteam. This follows the current [N5.3 NCO rule](https://infinitythewiki.com/NCO).
 
-A Kosmosoldat LT(+1 Order) is a deliberate **aggressive Lieutenant** option: its extra command resource is valuable only when the Kosmosoldat itself can productively use it, with the usual Fireteam Integrity consequences if it spends a personal LT Order while linked. Otherwise a cheaper Rokot LT or a different command architecture can be safer and more efficient.
+A Kosmosoldat LT(+1 Order) can be either an **aggressive self-activating Lieutenant** or a **back-line command battery for Scots Guard NCO**. If it spends its own special Order while linked, account for Fireteam Integrity; if an eligible Scots Guard NCO instead converts it to a Tactical Order, it can activate its own legal FT-02 team when leading it. Otherwise a cheaper Rokot LT may be safer and more efficient.
 
 ---
 
@@ -644,20 +644,20 @@ That advice is now partly stale.
 
 The pinned N5.3 Scots Guard FTO options instead offer distinct jobs:
 
-- **26/1.5 Heavy Rocket Launcher with MSV1**: ranged/template defense, but **not a Forward Observer**;
-- **23/0 AP SMG (+1B), Panzerfaust, MediKit, Paramedic**: short-range specialist and disposable anti-armor threat;
+- **Common skills on all Scots Guard profiles:** **Forward Observer**, **NCO**, Courage, Mimetism (-3), Stealth and Terrain (Total), confirmed by the Infinity Army screenshot and [Corvus Belli October 2025 update](https://infinityuniverse.com/en/news/army-update-october-25).
+- **26/1.5 Heavy Rocket Launcher with MSV1**: ranged/template defense **plus common FO/NCO**;
+- **23/0 AP SMG (+1B), Panzerfaust, MediKit, Paramedic**: short-range specialist and disposable anti-armor threat **plus common FO/NCO**;
 - other FTO guns and Flash Pulse/D-Charges as listed in the pinned profile;
-- **no NCO or Forward Observer on any pinned Scots Guard FTO entry**;
-- Mimetism (-3), but only the eligible FTO IDs may enter FT-02.
+- only eligible FTO IDs may enter FT-02; non-FTO Camouflage options still cannot join that team.
 
-The November 2026 WIP12 episode describes an NCO/FO Scots Guard combination; **that is not supported by the pinned N5.3 profile and must not be used for LT-Order transfers or Forward Observer scoring**.
+The November 2026 WIP12 episode's NCO/FO Scouts Guard combination **is supported**. The earlier September 2026 local transcription omitted unit-wide skills and produced a false rejection; the pinned local reference has been corrected. **NCO transforms Lieutenant Special Orders into Tactical Orders; an NCO Team Leader may activate its legal Fireteam, even across Combat Groups.**
 
 This makes Scots Guard much more interesting as:
 
-- specialist on an eligible profile;
+- **Forward Observer scoring and targeting on any profile**;
 - economical Fireteam body;
-- **NOT an NCO Order converter** in the pinned current roster;
-- secondary gun.
+- **Lieutenant-Order conversion via NCO**, including the 2-Order Kosmosoldat LT(+1) engine;
+- secondary gun or MSV1 HRL defensive leader.
 
 Do not evaluate current Scots Guard solely through early-2025 reviews.
 
@@ -867,15 +867,16 @@ This is a deliberate architecture, not an incidental synergy.
 
 ---
 
-### Kosmosoldat LT(+1) supported by Scots Guard gun/specialist (NOT NCO)
+### Kosmosoldat LT(+1) + Scots Guard NCO Fireteam
 
 Purpose:
 
-- aggressive / durable command model;
-- additional **personal** Lieutenant Order when worth spending;
-- Scots Guard FTO provides a legal **specialist/secondary gun** in an eligible Kosmoflot Fireteam, **not NCO**.
+- one tough Kosmosoldat Lieutenant carrying **two Lieutenant Special Orders**;
+- **Scots Guard FTO NCO** converts each chosen Lieutenant Special Order into a Tactical Order under N5.3, even across Combat Groups;
+- if the **Scots Guard NCO is Team Leader**, those converted Orders may activate its legal **FT-02 Duo/Haris/Core**;
+- **Forward Observer** on Scots Guards enables mission play and Targeted setup, while a **26/1.5 MSV1 HRL** or **23/0 Paramedic** adds secondary roles.
 
-**Do not** model Scots Guard as routing either of the Kosmosoldat's LT Orders; this was an outdated or unsupported assumption in the uploaded source.
+**Legality:** the Scots Guard must use FT-02's eligible options and required-choice anchor rules; it does **not** join an FT-03 Kosmosoldat Haris by default. Putting the NCO team in a second Combat Group is explicitly allowed by [N5.3 NCO](https://infinitythewiki.com/NCO).
 
 ---
 
@@ -997,7 +998,7 @@ Use when you want to maximize Kosmoflot's excellent cheap Irregular profiles.
 Core idea:
 
 - Kosmosoldat LT(+1) or primary gun;
-- Scots Guard **FTO specialist/secondary gun**, if useful; **no current NCO interaction**;
+- Scots Guard **FTO NCO/Forward Observer team**, if useful, to spend Kosmosoldat Lieutenant (+1)'s Orders on a different activation plan;
 - 1–2 Patchers;
 - Rokot infrastructure;
 - Mirage-5 or Uxia/SAS;
@@ -1047,12 +1048,12 @@ Before finalizing a Kosmoflot list, ask:
    - **Polaris Bear:** fast close pressure.
 3. **Do I have enough Smoke, preferably from more than one source?**
 4. **If Wallace is LT, am I deliberately exploiting Irregular troops?**
-5. **If Kosmosoldat LT(+1) is present, how will it legally spend its additional personal Lieutenant Order, and what are the Fireteam consequences?**
+5. **If Kosmosoldat LT(+1) is present, will it use the two Lieutenant Special Orders personally, or will a Scots Guard NCO convert them to Tactical Orders for a separate legal Fireteam, even across Combat Groups?**
 6. **Does my Fireteam contain useful support bodies rather than four models competing to be Team Leader?**
 7. **Who handles the mission while the premium attackers fight?**
 8. **Who protects the DZ / support shell after the aggressive pieces leave?**
 9. **Am I paying for a second premium gun that duplicates the first?**
-10. **Have I checked current Army legality rather than copying an early-2025 Fireteam verbatim?** In particular, no pinned Scots Guard FTO has NCO or Forward Observer, despite those claims in WIP12 E214.
+10. **Have I checked current Army legality rather than copying an early-2025 Fireteam verbatim?** Scots Guards have **NCO and Forward Observer as common skills**; only eligible FTO profiles may enter FT-02, whose anchor requirements still apply.
 11. **Can my opponent solve my HI/TAG/REM concentration with a single pitcher/repeater/hacker network?** Have I budgeted routes or support to mitigate it?
 12. **What is my deployable-defense plan?** Raveneye E/M, Mekhanik mines, Volkolak Drop Bears, Kibervolk/CrazyKoalas, Dozer KVP turret, Traktor Baggage and/or Uragan each cover different approaches.
 13. **If I reserve airborne troops, how much of my Order economy starts off-table?** Mirage-5 and Para-Commandos are valuable but not free in deployment slots or opportunity cost.
@@ -1067,4 +1068,4 @@ The general principle is:
 
 **Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md). **New source reviewed 19 November 2026:** [WIP12 Podcast E214: Kosmoflot](https://www.youtube.com/watch?v=S7KbRRQuh5A), with timestamped discussion and explicit profile-conflict audit in the section above.
 
-**N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), and [local rules](../../rules/README.md). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.
+**N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), [local rules](../../rules/README.md), and the **November 2026 Scots Guard skill correction** based on the user-supplied Army screenshot and [Corvus Belli's official October 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-25). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.
