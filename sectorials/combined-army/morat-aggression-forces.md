@@ -134,7 +134,7 @@ The lines below preserve the pinned Morat profile stats and all standard option 
 
 ### Q-Drones
 
-**ID 509 · AVA 1 · REM** — `MOV 15-10 | CC 13 | BS 11 | PH 10 | WIP 13 | ARM 0 | BTS 3 | W 1 | S 3`. Remote Presence, Total Reaction.
+**ID 509 · AVA 1 · REM** — `MOV 15-10 | CC 13 | BS 11 | PH 10 | WIP 13 | ARM 0 | BTS 3 | W 1 | S 3`. Remote Presence, Total Reaction, **Mimetism (-3)**; **360º Visor** is shared base equipment.
 
 **Options:** HMG `25/1`; Plasma Rifle `24/1`; Thunderbolt (+1B) `20/0.5`. No standard Fireteam access.
 
@@ -220,7 +220,7 @@ The lines below preserve the pinned Morat profile stats and all standard option 
 
 **ID 497 · AVA 5 · MI** — `MOV 10-10 | CC 17 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`.
 
-**Options:** `29/1.5` Missile Launcher, `23/0` Thunderbolt, `24/0`, `24/0` Hacker, `21/0` Paramedic, `29/1.5` Spitfire. **FT:** Rodok required-choice foundation, max 3.
+**Options:** `29/1.5` Missile Launcher, `23/0` Thunderbolt, `24/0`, `24/0` Hacker (**Hacking Device with Upgrade: Trinity**), `21/0` Paramedic, `29/1.5` Spitfire. **FT:** Rodok required-choice foundation, max 3.
 
 ### Treitak Anyat
 
@@ -333,6 +333,8 @@ The lines below preserve the pinned Morat profile stats and all standard option 
 **ID 1573 · AVA 3 · HI** — `MOV 15-5 | CC 16 | BS 12 | PH 14 | WIP 13 | ARM 5 | BTS 3 | W 2 | S 5`.
 
 **Options:** `19/0` Chain Rifle / Flammenspeer; `20/1.5` Heavy Rocket Launcher; `34/1.5` Feuerbach + TinBot. **FT:** Morat + Tarlok foundation.
+
+**Role-ranking cross-reference (editorial, not Army data):** the **Kaitok 19/0 Chain Rifle / Flammenspeer** is ranked **#8 Value** in [Zone Domination & Protected Area Denial](../../notes/list-building/objective-holding-zone-domination-and-carriers-apex-value.md). It is **not** ranked in the Apex Top 10; Frenzy, hacking exposure and limited ranged defence matter.
 
 ### Raicho Armored Brigade
 
@@ -542,5 +544,6 @@ The Reinforcement source exposes global `fireteamChart.spec` values of **Core 0;
 - Raktorak, Kornak, and Anyat are the canonical standard Wildcards and retain their Morat counts-as labels.
 - Linked Reinforcement army resolves to **The Exrah Comissariat (699)**. Its chart is kept separate, including the source combination of global `spec` 0/0/0 and explicitly typed Fireteam rows.
 - Source data and Fireteam normalization were rechecked on **2026-10-15** against the pinned Army snapshot and InfinityDB commit listed in the front matter.
+- **Focused 2026-11-19 source reconciliation:** the Morat Q-Drone has base-profile **Mimetism (-3)** and base-equipment **360º Visor**; the Rodok 24/0 Hacker has **Hacking Device (Upgrade: Trinity)** on the selected option's equipment. These were checked against `n5/morat/7.26246.158.json` at the pinned `d4329bb596ffea5d568eb2435f74366c305a7630` commit, merging shared profile skills/equipment with option-specific values. This is not a claim that every other underlying skill was reaudited.
 
 **Tactical and purchasing analysis:** [Morat Aggression Forces faction guide](../../notes/factions/morat-aggression-force.md#n53-tactical-cross-references-battle-reports-and-purchasing-audit). This reference remains authoritative for roster, profiles, Fireteams and validation.
