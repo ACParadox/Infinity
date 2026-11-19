@@ -125,7 +125,7 @@ The lines below preserve the pinned Morat profile stats and all standard option 
 
 ### Bultrak, Mobile Armored Regiment
 
-**ID 1577 · AVA 2 · TAG** — `MOV 15-10 | CC 21 | BS 13 | PH 15 | WIP 12 | ARM 5 | BTS 6 | W 3 | S 7`. Tactical Awareness; Rakdron ancillary remote.
+**ID 1577 · AVA 2 · TAG** — `MOV 15-10 | CC 21 | BS 13 | PH 15 | WIP 12 | ARM 5 | BTS 6 | W 3 | S 7`. **Tactical Awareness and NCO** are shared Bultrak TAG base-profile skills; Rakdron is a separate ancillary remote and does not inherit NCO.
 
 | Pts | SWC | Profile summary | FT |
 |---:|---:|---|---|
