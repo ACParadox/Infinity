@@ -20,6 +20,8 @@ coverage: "Complete current Shindenbutai main roster, exact standard loadouts an
 ## Overview and provenance
 
 **Faction pick/avoid research (23 Oct 2026):** [Transcript-backed three-JSA-sectorial must-have, go-to and avoid comparison](../../notes/factions/shindenbutai.md#must-have--go-to--avoid--source-backed-recommendations-2026). Opinions are tactical evidence, not alterations to the canonical roster and Fireteam rules.
+
+**N5.3 cross-faction Top X results (editorial analysis):** [Shindenbutai whole-game standout table](../../notes/factions/shindenbutai.md#whole-game-standouts--apex-versus-value) lists the confirmed profile-specific Apex/Value rankings, including Metsuke #6 Command LT Value, Tanuki #7 Pitcher Value, Yamabushi #10 Midfield Value, and Lù Duān #10 anti-heavy Value. The table is **not** a change to Army profiles, Fireteam permissions, or the pinned reference data; [source provenance](#overview-and-provenance) remains authoritative.
 **Current editorial Top X unit comparisons (19 Nov 2026):** [Shindenbutai whole-game Apex/Value standouts](../../notes/factions/shindenbutai.md#whole-game-standouts--apex-versus-value). Competitive ranks are maintained in the tactical guide and do **not** modify the N5.3 Army-derived roster, points, Fireteams or source provenance.
 
 
