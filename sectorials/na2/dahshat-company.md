@@ -726,6 +726,26 @@ This table records Army’s source representation; normal Fireteam size/type rul
 
 Do not import additional Wildcards or Fireteam permissions from older Dahshat references, Haqqislam, Yu Jing, Ikari, Druze Bayram Security, or another NA2 sectorial.
 
+## N5.3 costed Fireteam compositions and field evidence
+
+**Status:** Derived list-building examples from the pinned `7.26246.159` standard profiles and the canonical chart above; **not** additional Fireteam permissions. The `#` is the loadout/profile ID, `pts/SWC` is per selected profile, and totals are for the team only (not a full 300-point list). **Best** is a tactical recommendation, not an official tier. `FT L1–L5` counts models of one Unit or of an explicit chart `counts as`/bracket equivalence; **five bodies need not mean Level 5**. See [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses) and [Fireteams Chart](https://infinitythewiki.com/Fireteams_Chart). Listed report connections verify the **formation/role shell** only unless exact historical loadouts are independently recorded; listed profile selections are current N5.3 rebuilds.
+
+| Pick | Chart family / type (bodies) | FT level | Exact profiles (pts/SWC) | Team pts / SWC | Role, report evidence and legal boundary |
+|---|---|---|---|---:|---|
+| **Best — Brawler utility Duo** | Brawlers · Duo 2 | **L2** | Brawler #5 Hacker **16/0.5** · Digger #2 Chain Rifle **14/0** | **30 / 0.5** | Recommended low-cost hacking + CC screen; Digger Wildcard counts as Brawler. |
+| Odalisque extraction Duo | Odalisques · Duo 2 | **L2** | Odalisque #16 Paramedic **21/0** · Miranda #2 Boarding Shotgun **25/0** | **46 / 0** | Miranda is a Wildcard counting as Odalisque; both are specialists. |
+| **Best — Brawler sniper/control Haris** | Brawlers · Haris 3 | **L3** | Brawler #3 MSV2 MULTI Sniper **25/1.5** · Brawler #5 Hacker **16/0.5** · Digger #2 Chain Rifle **14/0** | **55 / 2** | Observed three-body unit package in [report #129](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md); profile IDs are N5.3 reconstruction. |
+| **Best — Odalisque breach Haris** | Odalisques · Haris 3 | **L3** | Odalisque #15 Viral Marksman **26/0** · Odalisque #16 Paramedic **21/0** · Miranda #2 Boarding Shotgun **25/0** | **72 / 0** | Two Odalisques + Miranda explicitly played in [report #183](../../notes/battle-reports/181-190-n5-battle-report-tactical-analysis.md); chosen loadouts are current rebuild. |
+| Fiddler budget Haris | Ghulam · Haris 3 | **L2** | Ghulam #1 Rifle **11/0** · Ghulam #9 Forward Observer **12/0** · Fiddler #1 FTO Engineer **29/0** | **52 / 0** | Fiddler **#1 FTO only**; Jackbot-controller profiles #2/#3 cannot join. Level is 2, not 3. |
+| **Best — Reported command Core** | Ghulam · Core 4 | **L2** | Ghulam #11 Lieutenant **11/0** · Ghulam #8 Doctor **15/0** · Valerya #1 Pitcher Hacker **19/0.5** · Miranda #2 Boarding Shotgun **25/0** | **70 / 0.5** | Four-member Ghulam/Valerya/Miranda structure reported in [#117](../../notes/battle-reports/111-120-n5-battle-report-tactical-analysis.md); two Wildcards do not count as Ghulam. |
+| **Best — Zúyŏng shooting Haris** | Zúyŏng · Haris 3 | **L2** | Zúyŏng #12 Tactical Awareness HMG **33/1.5** · Zúyŏng #8 Tactical Awareness TinBot **27/0** · Rui Shi #1 MSV2 Spitfire **23/1** | **83 / 2.5** | Rui Shi is a native Zúyŏng-family member, not an equivalence; only two models contribute to Level 2. |
+| Zúyŏng ranged Core | Zúyŏng · Core 4 | **L3** | Zúyŏng #12 Tactical Awareness HMG **33/1.5** · Zúyŏng #8 Tactical Awareness TinBot **27/0** · Zúyŏng #11 Paramedic **26/0** · Rui Shi #1 MSV2 Spitfire **23/1** | **109 / 2.5** | Four models but Level 3: Rui Shi does not count as Zúyŏng. |
+| **Best — Mixed Brawler Core** | Brawlers · Core 5 | **L5** | Brawler #3 MSV2 MULTI Sniper **25/1.5** · Brawler #5 Hacker **16/0.5** · Brawler #7 Doctor **19/0** · Digger #2 Chain Rifle **14/0** · Digger #2 Chain Rifle **14/0** | **88 / 2** | All five count as Brawler (both Diggers via explicit Wildcard equivalence); uses both Digger AVA slots. |
+| Five-body Ghulam Core | Ghulam · Core 5 | **L5** | Ghulam #11 Lieutenant **11/0** · Ghulam #9 Forward Observer **12/0** · Ghulam #8 Doctor **15/0** · Ghulam #2 HMG **20/1** · Ghulam #1 Rifle **11/0** | **69 / 1** | Budget pure Core at Level 5, but the BS11 HMG is not a premium attack piece. |
+
+**Assault Duo source ambiguity:** the Al Fasid/Rafiq FTO/Maghariba/Triphammer/Motorized Bounty Hunter rows all have `required: true, min: 0`. The pinned chart does not establish a single unambiguous anchor interpretation; **no Assault Duo is certified by this example table**. Rafiq needs **#3 FTO**, and Maghariba plus another eligible model is an illustrative source candidate, not a validated Army export. All Haris and Core samples above are alternatives subject to the **one Haris/one Core** simultaneous cap.
+
+
 ## Unit → Fireteam access index
 
 | Unit | Fireteam | Types | Access | Profile restriction | Min–max / notes |
