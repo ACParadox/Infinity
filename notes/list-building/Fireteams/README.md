@@ -24,3 +24,7 @@ Rankings belong in separate Markdown files in this folder; do not treat unverifi
 
 - [Close Assault / Breakthrough — Apex & Value](close-assault-breakthrough-apex-value.md): exact 2–5-member assault and breach teams, independent Apex/Value tables, N5.3 points/SWC, Fireteam Levels and evidence.
 - [Combined-Arms / Toolbox — Apex & Value](combined-arms-toolbox-apex-and-value.md): separate cross-sectorial Apex/Value ranks, 18 exact N5.3 costed profiles, Fireteam levels, chart constraints and report-evidence distinctions.
+
+## Category rankings
+
+- [Order Economy / Force Multipliers — Fireteam Apex & Value](order-economy-force-multipliers-apex-value.md): whole-game Top 10, exact legal packages, Order accounting and independent Apex/Value rankings.
