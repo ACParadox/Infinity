@@ -19,3 +19,7 @@ This folder contains cross-sectorial Fireteam comparisons and rankings for Infin
 | >150 | Normally excluded | Consider only when extraordinary Order generation or mission flexibility offsets the cost |
 
 Rankings belong in separate Markdown files in this folder; do not treat unverified compositions as confirmed legal entries.
+
+## Role rankings
+
+- [Close Assault / Breakthrough — Apex & Value](close-assault-breakthrough-apex-value.md): exact 2–5-member assault and breach teams, independent Apex/Value tables, N5.3 points/SWC, Fireteam Levels and evidence.
