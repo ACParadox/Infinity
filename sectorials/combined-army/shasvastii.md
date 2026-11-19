@@ -483,7 +483,7 @@ Shasvastii standard limits are **Core 1; Haris 1; Duo unlimited**. **Only Nox** 
 
 ### Battle-report and recorded discussion evidence
 
-The [Shasvastii guide](../../notes/factions/shasvastii.md) provides tactical/media-derived context; none of these exact new 2–5 member sets has been independently confirmed as played, so they are labelled **recommendations** rather than battle-report-tested facts. Legacy Jayth/Gwailo/Seed-era video lists must not override N5.3 FTO permissions.
+The [Shasvastii media and tournament guide](../../notes/factions/shasvastii-expeditionary-force.md) summarizes **Tactical Awareness S3E12 (2025)**, a **MetaChemistry E139 (2026) tournament-winner interview**, and other recorded Shasvastii discussions. The documented tournament testimony includes successful **Gwailo-led teams**, but does not establish the exact profiles and membership of any particular row above. Accordingly these are N5.3 **recommended constructs**, not invented battle-report exports. Legacy Jayth/Gwailo/Seed-era videos do not override current FTO permissions.
 
 ## Reverse Fireteam index
 
