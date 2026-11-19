@@ -601,6 +601,25 @@ All rows below are in the chart's **Wildcards** Fireteam row. Parenthetical valu
 
 Wildcard status does not remove a Fireteam's native minimum/required-choice conditions.
 
+## Recommended Fireteam compositions — N5.3 audited
+
+**Non-canonical tactical evaluation** derived from the canonical chart and individual profiles above (reviewed 2026-11-19). Each row is an **alternative**, not a combined deployable list. Individual and total prices are pts/SWC; options refer to the exact pinned roster. FT level counts members of the same Unit or shared chart *Counts-as* identity, not just the number of members ([N5.3 Fireteam bonus rules](https://infinitythewiki.com/Fireteam_Bonuses)). FT2 = BS Attack (+1 SD), FT3 = +3 Discover/+1 Dodge, FT4 = +1 BS, FT5 = Sixth Sense.
+
+**Limits and restrictions:** 1 Core, 1 Haris, unlimited Duos. FENNECS needs one native Fennec; KESTREL needs Griffin/Firefly/Hetkari; COLCORP needs a native Magistrate; ARMORED needs Tikbalang/Squalos. FTO-only Black A.I.R., Crux and Jackals must use the named options. The two Haris recommendations **cannot be taken as two Harises**. Jackals are Irregular unless FT Master (Jackals) converts their Orders under the applicable conditions. Wildcards do not waive native anchors. Do not import Clipper/Yamabushi FTO labels with no Fireteam chart access.
+
+| Priority | Exact members (option: individual pts/SWC) | Fireteam / size | FT level | Total pts/SWC | Benefit / caveat | Evidence |
+|---|---|---|---|---:|---|---|
+| **Best value — regularized warband orders** | Magistrate Specialist (opt 1: 17/0)<br>Jackal FTO Panzerfaust (opt 1: 6/0)<br>Jackal FTO LRL (opt 2: 6/0) | COLCORP Haris · 3 | **FT3** | **29/0** | Magistrate FT Master + two Jackal FTO; all three count as ColCorp. | [Guide](../../notes/factions/kestrel.md#particularly-strong-or-unusual-fireteams); proposed. |
+| **Best low-cost command Duo** | Magistrate Strategos LT (opt 5: 19/0)<br>Jackal FTO Panzerfaust (opt 1: 6/0) | COLCORP Duo · 2 | **FT2** | **25/0** | Strategos Lieutenant + Jackal; apply FT Master Order-count conditions. | [Guide](../../notes/factions/kestrel.md); proposed. |
+| **Best pure-bonus ranged Core** | Fennec FO/Disco/Sensor (opt 9: 13/0)<br>Fennec LRL (opt 4: 12/0)<br>Fennec Thunderbolt (opt 5: 14/0)<br>Fennec LT (opt 11: 10/0)<br>Griffin Feuerbach (opt 3: 38/1.5) | FENNECS Core · 5 | **FT5** | **87/1.5** | Four Fennecs + Griffin counting as Fennec: full FT5, Feuerbach. | [Official example](https://infinitythewiki.com/Fireteam_Bonuses) explains Griffin counts-as; constructed. |
+| **Tested architecture — defensive Core** | Griffin Feuerbach (opt 3: 38/1.5)<br>Bipandra Doctor (opt 1: 23/0)<br>Fennec Thunderbolt (opt 5: 14/0)<br>Fennec Thunderbolt (opt 5: 14/0)<br>Fennec Combi (opt 1: 10/0) | FENNECS Core · 5 | **FT5** | **99/1.5** | Griffin + Bipandra + three Fennecs: five Fennec-equivalent bodies, FT5. | [Report #175](../../notes/battle-reports/171-180-n5-battle-report-tactical-analysis.md): played shape, current-profile rebuild. |
+| **Tested architecture — compact ARO** | Fennec FO (opt 9: 13/0)<br>Fennec LT (opt 11: 10/0)<br>Fennec Combi (opt 1: 10/0)<br>Black A.I.R. FTO Neurocinetics sniper (opt 3: 33/1.5) | FENNECS Core · 4 | **FT3** | **66/1.5** | Three Fennecs + Black A.I.R. sniper; FT3, NOT FT4. | [Reports #002–004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md): played shape; pre-update Decoy replaced with legal basic profile. |
+| **Tested architecture — scoring Haris** | Fennec FO/Disco (opt 9: 13/0)<br>Crux FTO MULTI Marksman (opt 4: 46/0)<br>Bipandra Tactical Awareness Doctor (opt 2: 25/0) | FENNECS Haris · 3 | **FT2** | **84/0** | Fennec + Fennec-counting Bipandra + Crux FTO: FT2. | [Report #005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md): played trio, options reconstructed. |
+| **Best elite attack Duo** | Hetkari MULTI Red Fury (opt 2: 48/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0) | KESTREL Duo · 2 | **FT1** | **65/1.5** | Hetkari + Tactical Awareness Pathfinder; FT1, since Pathfinder is not Kestrel-equivalent. | [Reports #002–004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md): reportedly paired, exact Duo declaration unconfirmed. |
+| **Best TAG/specialist Duo** | Squalos MULTI HMG NCO (opt 3: 66/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0) | ARMORED Duo · 2 | **FT1** | **83/1.5** | Squalos NCO + Tactical Awareness Pathfinder. Extra activations do not elevate FT1. | [Report #219](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md): linked type confirmed; profile choices reconstructed. |
+
+**Evidence boundary:** Battle reports establish some historical members and team shapes, not the post-September-2026 exact options/prices. Rows marked reconstructed are modern legal candidates, **not claims of identical historical exports**. [Full Kestrel analysis](../../notes/factions/kestrel.md).
+
 ## Unit → Fireteam access index
 
 | Unit | Access |
