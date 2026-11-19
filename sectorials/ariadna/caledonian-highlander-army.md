@@ -306,6 +306,8 @@ In Heavy Caledonians, Highlander Greys carry the Army-chart `(Mormaers)` equival
 
 **ID 261 · AVA 5 · MI** — `MOV 10-10 | CC 16 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 0 | W 1 | S 2`.
 
+**Shared Scots Guard skills (all options):** Courage, **Forward Observer**, **NCO**, Mimetism (-3), Stealth and Terrain (Total). The unit also lists MediKit (PH=14), equipped on the FTO Paramedic profile; individual Camo/MSV1 differences remain in the table. Verified against the November 2026 Infinity Army screenshot and [official October 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-25). Under [N5.3 NCO](https://infinitythewiki.com/NCO), Lieutenant Special Orders can be converted into Tactical Orders across Combat Groups; an NCO Fireteam Leader may use one to activate its Fireteam.
+
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
 | 1 | 31 | 1.5 | **SCOT GUARD FTO**; AP Spitfire, Flash Pulse, D-Charges, Pistol, CC Weapon | Scots Guards; Heavy Caledonians max 1; 9th Wulvers max 1 |
