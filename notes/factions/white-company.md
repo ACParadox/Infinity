@@ -36,7 +36,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A− — #17 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed **13 November 2026**). PanO shooting, Guiláng midfield networking and versatile mixed-team packages offer broad answers, although few individual efficiencies reach the highest tier.
+**Sectorial tier / overall rank: B+ — #20 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). PanO shooting, Guiláng midfield networking and versatile mixed-team packages offer broad answers, although few individual efficiencies reach the highest tier. **Provisional standard N5.3 / ITS 18 assessment:** relative band **3–4** among these four; the A−/B+ table cut is tentative and all four remain borderline B+ to A− rather than statistically separated.
 
 **Ranking rule:** Rankings are cross-faction **role-specific** comparisons, not universal unit power scores. Apex measures peak impact; Value measures cost efficiency. **Only Top 1–5 ranks and their exact legal profiles are bolded**; #6–10 and unranked entries stay plain. Role-specific and combined standings do not become separately ranked Apex or Value lists simply by appearing in the column. A Top 3/5/10 band without an exact position is retained as a band, not assigned an invented number. Check the [pinned N5.3 NA2 roster](../../sectorials/na2/white-company.md) for exact points, loadouts, Fireteam eligibility and selected-profile restrictions.
 
