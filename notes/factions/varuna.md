@@ -49,6 +49,11 @@
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/varuna-immediate-reaction-division.md#recommended-fireteam-compositions--n53-audited). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+Best starting tests: **four Fusiliers + Quinn Core 73/0.5 (FT5)** for TAG-support economy; **Patsy + Helot FTO LRL + Helot FTO Red Fury three-member Core 57/1 (FT3)** for Helot command/control; **Kamau HRL + two foot Montesa FTO + Pathfinder four-member Undertow Core 80/1.5 (FT3)** for midfield attack. The Patsy/Helots three-member group consumes the **Core** slot if you simultaneously field an Undertow Haris; a second Haris would be illegal.
+
+
 - **Patsy + two Helot FTO Haris:** **Patsy Garnett 34 + two 10-point Helot FTO LRL = 54/0**, with **FT Master (Helots)** converting the two otherwise Irregular Helots at the *next Order Count* while a valid team exists. Useful mission/ARO shell, not cheapest possible Order farming. Non-FTO Camo Helots cannot join.
 - **Undertow Core/Haris:** **Kamau or Varuna ORC** required-choice gun, with **foot Montesa FTO** for specialist assault and **Varuna Machinist** counting as Kamau; pressure can continue after the first shootout.
 - **Cavalry Duo:** **Squalos Mk-II or motorized Montesa** is required-choice, with legal **Kamau/Bulleteer** support; a mobile alternative to a purely static Kamau shell.
