@@ -115,6 +115,10 @@ NCA's distinctiveness comes primarily from **exclusive roster access and strong 
 
 ---
 
+## Swiss Miss 2026 comparison — lower-weight NCA anecdote (29–35m)
+
+In the [Brookhurst Blast Zone discussion](https://www.youtube.com/watch?v=WOvaahZlyQE), reviewed 2026-11-19, one PanO player says recent **NCA** games were enjoyable and considers returning to NCA rather than **Varuna**. The video supplies **no complete NCA list, new NCA unit analysis or tournament outcome**. Retain this as a favorable personal experience, **not a sectorial tier change**. For the event, contrast NCA's independent gun and hacking-network options below against Varuna's Cutter NCO, Helots, Kamau/Montesa and Zulu-Cobra LT, then check classified, area-holding and kill missions separately.
+
 ## Core identity — specialist pieces and effective activations
 
 The strongest repeated modern NCA theme is:

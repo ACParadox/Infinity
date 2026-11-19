@@ -105,6 +105,18 @@ The [numbered N5 reports](../battle-reports/n5-battle-reports-and-tournament-rep
 
 They are alternatives with different destinations, not a mandatory three-piece package. USARF's MSV1 pieces are not an MSV2 Smoke-shoot package; conventional Smoke may fail against opposing MSV. See [vision-control tiers](../list-building/vision-control-units-apex-and-value.md).
 
+## Brookhurst Blast Zone 2026 list clinic — competing USARF constructions (06–08m, 24–51m)
+
+[Swiss Miss tournament discussion](https://www.youtube.com/watch?v=WOvaahZlyQE), transcript reviewed 2026-11-19. **No final exported list or battle result** is shown. One speaker initially had ~40–50 unused points after filling desired slots, but reconsidered with a pricier Minuteman-centric team; the speakers disagree about USARF's overall quality. Neither position changes the validated tier.
+
+| Idea | Construction insight | Structural warning |
+| --- | --- | --- |
+| **Minuteman-heavy USARF Core** | Current **Minutemen** have **BS Attack (+1 Special Die)** and Combat Instinct; the **27pt Missile Launcher**, **34pt NCO AP HMG**, **25pt NCO FO** supply distinct ARO, armor and scoring roles. A Grunt AP Sniper can supply cheaper ARO pressure. | **Grunt Core allows max one Minuteman**; the separate **USARF Core/Haris/Duo** uses a Minuteman/Marauder required-choice foundation. Check Counts-as bonuses and how a 4–5-body team degrades after casualties rather than assuming all models qualify as Grunts. |
+| **Distributed Foxtrot / bike / Ranger shell** | Foxtrot FO/Minelayer, Minuteman NCO + Unknown Ranger, Maverick AP Spitfire/FO, Desperado or Devil Dog, and a possible **Van Zant** present multiple attack routes. | Test **with and without Van Zant** (33+ points and off-table investment); do not cram every bike, Devil Dog and smoke piece into the same limited deployment corridor. |
+| **Grunt ARO / smaller links** | Separate Grunt AP Snipers, Minuteman launcher and midfield pieces can tax Orders while scoring specialists move. | A visible hedgehog can be attacked from a single solved angle; layer mines, Smoke and defense of the LT instead of maximizing identical guns. |
+
+**Apply four stress tests from the discussion:** (1) Can the list attack **heavy Camouflage**? (2) Does it have AP/T2 or other anti-armor/anti-materiel delivery on the *actual target*? (3) Are the 15 trooper slots generating usable **Regular Orders**, not merely isolated Irregular activity? (4) Is there an independent surviving Specialist and protected Lieutenant? The Minuteman buffs are pinned facts; claims that USARF is weak, fun or soon to be reworked are **opinion/speculation**.
+
 ## Start with one of five architectures
 
 | Architecture | Example legal nucleus (current 300-point-relevant costs) | Why / drawback |

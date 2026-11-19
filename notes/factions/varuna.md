@@ -416,6 +416,17 @@ Do not take Disco Baller merely because it is unique. Take it when the table pla
 
 **Cross-faction verdict and opposing transcripts:** [toolbox apex/value guide](../list-building/jack-of-all-trades-toolbox-units-apex-value.md).
 
+## Brookhurst Blast Zone 2026 — Cutter shell versus classified shell (30–40m)
+
+**Source:** [Swiss Miss tournament workshop](https://www.youtube.com/watch?v=WOvaahZlyQE), transcript reviewed 2026-11-19. These are **proposed examples rather than validated 300-point exports**; check the pinned N5.3 roster/Fireteam chart.
+
+| List objective | Proposed pieces | Why it matters |
+| --- | --- | --- |
+| **Killing and end-game control** | **Cutter NCO 97/2**, protected **Zulu-Cobra LT 23/0**, **Kamau HMG**, **Kamau Paramedic (Tactical Awareness)**, Montesa Paramedic, Varuna Machinist/Palbot, **Zulu-Cobra KHD**, plus cheap **Helot** ARO layers. | The Cutter takes advantage of **Lieutenant Order via NCO**, Hidden Deployment and long-range power, but **does not have Tactical Awareness**. Other troopers must still score. |
+| **Classified / spread objectives** | Reduce or remove Cutter cost to add **Croc Men, Echo-Bravo, Kamau hacker/FO/paramedic, Montesa** and independent scoring routes, retaining cheap reactive cover. | Hosts explicitly prefer **no Cutter** when the packet needs broad classified access (~36–39m). Check specific classified abilities and late-game reachable objectives, not the raw number of gunfighters. |
+
+**Correct the spoken cost:** **Zulu-Cobra LT costs 23 points, not 13**, and has 0 SWC, Camouflage and Forward Deployment. A hidden LT is valuable but can be inferred from the rest of the roster; do not mistake marker safety for Chain of Command. **Kamau Paramedic 25pt** has Tactical Awareness, which other Kamau profiles do not inherit. **Montesa FTO** must satisfy its Undertow/Forward Montesa team rules; **Pathfinder Wildcard** still requires a legal host. **Helots are Irregular**, not extra transferable Regular Orders. [Mission packet framework](../Strategy/mission-scoring-and-specialist-strategy.md#16-tournament-packet-analysis).
+
 ## Fireteam architectures
 
 The strongest current lesson is:

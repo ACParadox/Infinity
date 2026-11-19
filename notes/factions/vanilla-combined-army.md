@@ -196,6 +196,19 @@ Choose the enabling path based on the opponent rather than buying all of them. [
 5. **Defense/recovery:** Q-Drone or Noctifer, area denial, Baggage, Engineer/Doctor, cheap Orders, and a plan if the centerpiece falls.
 6. **Scoring:** at least two real mission-capable units; expensive guns with no route to the button are not enough.
 
+## Brookhurst Blast Zone 2026 list clinic — Swiss Miss (07–24m)
+
+**Source:** [Swiss Miss tournament list discussion](https://www.youtube.com/watch?v=WOvaahZlyQE), full transcript reviewed 2026-11-19. These are **proposed player lists, not tournament results or validated 300-point exports**. Current N5.3 profiles and Fireteams in the pinned roster take priority.
+
+| Proposed shell | Role and reason | Test before importing |
+| --- | --- | --- |
+| **Anathematic LT hacker + Speculo Killer BSG + Ranter/Puzzler + EVO** (~07–18m) | Anathematic brings elite command/hacking; Speculo threatens a different deployment vector; Dāturazi provide Smoke; Ranter Spitfire and Hidden Puzzler provide different attack/area-denial channels. Med-Tech Cyberplug, E-Drone, Imetrons, Ikadrons, R-Drone, Mentor and Dartok provide support or Orders. | The first group's main threats absorb Orders while the sample second group has two **Irregular Preta/Gaki**. The speakers propose moving the Regular **E-Drone** to Group 2 and moving a warband toward the attack group to reduce stranded Orders. Examine actual liquidity before making the swap. |
+| **Charontid AP HMG + Noctifer Missile Launcher + Puzzler + Smoke** (~18–24m) | Premium armor-piercing shooting, concealed missile ARO and a different hidden E/Marat / deployable option, with Dāturazi Smoke and Med-Tech recovery. | A **Seed-Soldier** specialist may be replaced with another Dāturazi in a killing-focused list, but only if the mission's classified/console coverage survives that cut. A Noctifer **Missile Launcher** is not the Spitfire profile. |
+
+**Rules distinctions the conversation blurs:** **Ranter and Puzzler are Cyberplug Peripherals and contribute no separate Orders**; Puzzler options have a **Deployable Repeater**, not a permanent native Repeater that automatically projects the hacking area. Budget its placement and legal ARO timing. Anathematic LT hacker / Hidden Deployment profiles, and Charontid **MSV3 gun** / **HD+ Sepsitor** profiles, are distinct. Do not copy capabilities between options.
+
+**General lesson:** A small number of active threats can simplify tournament execution, but losing the Anathematic/Charontid can remove command, hacking and killing simultaneously. A hidden missile + E/M fork can force different reactions only when LoF, range and ARO eligibility permit both. [Hacking guide](../Strategy/hacking-and-network-projection.md) · [Group economy](../Strategy/impetuous-and-irregular-troop-sequencing.md).
+
 ## Roles and go-to packages — with the why
 
 | Trooper / package | Why choose it | Main counterargument or opportunity cost |
