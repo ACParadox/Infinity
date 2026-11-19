@@ -93,6 +93,16 @@
 
 See the [canonical OSS Fireteam chart](../../sectorials/aleph/operations-subsection.md#fireteams) before assigning FTO profiles, required members or link bonuses.
 
+**Exact 2–5-member N5.3 list-building options:** [OSS 24-composition matrix](../../sectorials/aleph/operations-subsection.md#derived-exact-profile-fireteam-compositions--n53) identifies the specific profile options, points/SWC, required family, eligible Wildcards, member limits, calculated **Fireteam Level L1–L5**, and battle-report evidence. Useful starting points:
+
+- **Best-value OperationS Core (5):** Dikpala HMG 21/1 + Dikpala Repeater 13/0 + Dikpala Commlink Specialist 15/0 + Deva KHD 20/0 + Sharvara Adhesive/Riotstopper 15/0 = **84pts/1SWC, L5**. Deva/Sharvara count as Dikpala *in this family*.
+- **Best-value Samarthan Core (5):** Riksha FO 20/0 + Riksha BSG 18/0 + Dawon Pulzar/Blitzen 18/0 + Dawon Chain/Flammenspeer 19/0 + Artalis Engineer K1 23/0 = **98pts/0SWC, L5**; all share Samarthan equivalence.
+- **Played OperationS Haris (3):** Dikpala MULTI Sniper 19/1 + Dikpala Repeater 13/0 + Danavas HD+ Pitcher 22/0.5 = **54pts/1.5SWC, L2**. [#146](../battle-reports/141-150-n5-battle-report-tactical-analysis.md#L172) reports this membership structure; modern exact loadouts are reconstructed.
+- **Played Asuras Duo (2):** Asura HD+ MMR 63/0.5 + Yadu NCO HMG 34/1.5 = **97pts/2SWC, L2**, adapting the declared [#144](../battle-reports/141-150-n5-battle-report-tactical-analysis.md#L109) pairing.
+- **Played compact Optimates Duo (2):** Claire Doctor 33/0 + Pilot-X Hacker 23/0.5 = **56pts/0.5SWC, L2**, with RacerBots paid separately if selected. The same [#146](../battle-reports/141-150-n5-battle-report-tactical-analysis.md#L172) identified this second team.
+
+**Level is not size:** the equivalent identities in the chart determine L1–L5. A five-member Optimates group with Johnny + Claire + Pilot-X + two Sharvaras is **L3**, not L5, because neither Sharvara counts as an Optimate. Marut + Johnny is a legal **MAX-OP Duo but only L1**. FTO is a *profile restriction*, not automatic access in other families. Consult the [N5.3 level definitions](https://infinitythewiki.com/Fireteam_Bonuses) and keep the probable #145 four-body reconstruction separate from actually declared teams.
+
 ### Unusual access, meaningful absences and costs
 
 - **No broad native ordinary Smoke package:** OSS cannot simply reproduce **Vanilla Myrmidon Smoke + Marut MSV2**. Its alternative vision tools are:
