@@ -579,6 +579,29 @@ Wildcards may join subject to the Wildcard rules below.
 
 Wildcard means the listed profile may join any otherwise legal StarCo Fireteam unless another rule prevents it. The source `Counts as` labels are preserved separately because they can matter to composition requirements.
 
+## N5.3 costed Fireteam compositions and field evidence
+
+**Status:** Derived, profile-costed **standard-mode** examples from pinned Army `7.26246.159` and the canonical chart above; they do not grant extra Fireteam permissions. A `#` indicates the exact source profile ID; each profile shows **pts/SWC** and the final column totals the Fireteam, not the complete list. **Best** marks a tactical choice, not an official rank. `FT L1–L5` is calculated using the largest same-unit/explicit `counts as` group, **not total bodies**; see [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses). Report evidence identifies observed unit combinations, while selected current profile IDs are **reconstructions**, not claims of archived Army exports.
+
+| Pick | Chart family / type (bodies) | FT level | Specific loadouts (pts/SWC) | Total pts / SWC | Why / observed evidence / limits |
+|---|---|---|---|---:|---|
+| **Best — PMC budget-specialist Duo** | PMC · Duo 2 | **L2** | CSU #4 Specialist Operative **11/0** · Brawler #5 Hacker **16/0.5** | **27 / 0.5** | One required-source CSU/Brawler present (indeed both); both have PMC equivalence and thus Level 2. |
+| **Best — Outrage sniper-network Duo** | Outrage · Duo 2 | **L2** | Uhahu #1 Hacking Device Plus/Pitcher **19/0.5** · Knauf #2 FTO MULTI Sniper **30/1.5** | **49 / 2** | Uhahu is the required-source-set member, Knauf needs **#2 FTO**; both count as Outrage. |
+| Riot Grrl/Doctor Duo | Riot Grrls · Duo 2 | **L2** | Riot Grrl #6 Spitfire **31/1.5** · Avicenna #1 Doctor(+3) **28/0** | **59 / 1.5** | Avicenna counts as Riot Grrl; duo remains Level 2. |
+| TAG and smoke-assault Duo | Armored · Duo 2 | **L1** | Anaconda #1 AP Spitfire **59/1.5** · Irmandinho #2 Chain Rifle/Smoke **8/0** | **67 / 1.5** | Anaconda meets the Armored required-source set; two distinct units give Level 1. |
+| **Best — Outrage full Haris** | Outrage · Haris 3 | **L3** | Emily #3 E/M Grenade Launcher **24/0** · Uhahu #1 Hacker/Pitcher **19/0.5** · Knauf #2 FTO MULTI Sniper **30/1.5** | **73 / 2** | All three count as Outrage, and Emily/Uhahu required-source set is satisfied; no other Knauf profile may link. |
+| **Best — PMC flexible Haris** | PMC · Haris 3 | **L3** | CSU #4 Specialist Operative **11/0** · Brawler #5 Hacker **16/0.5** · Digger #2 Chain Rifle **14/0** | **41 / 0.5** | Digger Wildcard has PMC equivalence; all three count for Level 3. |
+| **Best — Riot Grrl/Avicenna/Fiddler Haris** | Riot Grrls · Haris 3 | **L3** | Riot Grrl #6 Spitfire **31/1.5** · Avicenna #1 Doctor(+3) **28/0** · Fiddler #1 FTO Engineer **29/0** | **88 / 1.5** | Both named support models count as Riot Grrl; **Fiddler #1 only**, not Jackbot-controller #2/#3. |
+| StarCo mixed assault Haris | StarCo · Haris 3 | **L1** | Alguacil #6 Hacker **15/0.5** · Mobile Brigada #2 HMG **38/1.5** · Señor Massacre #2 Eclipse/Boarding Shotgun **25/0** | **78 / 2** | Legal StarCo required-source set via Alguacil/Brigada, but all three different equivalence groups: **Level 1**. |
+| **Best — Reported Anaconda/Brawler/Digger Haris** | Armored · Haris 3 | **L2** | Anaconda #2 HMG **59/1.5** · Brawler #5 Hacker **16/0.5** · Digger #2 Chain Rifle **14/0** | **89 / 2** | Opening deployment explicitly identifies these three in [#049](../../notes/battle-reports/041-050-n5-battle-report-tactical-analysis.md), [video](https://www.youtube.com/watch?v=V6Nt3yS3WCE); played army called **StarCo-style**, not independently verified Army code. Two count as Brawler ⇒ Level 2. Profile IDs are current rebuild. |
+| Alguacil command Core (four) | StarCo · Core 4 | **L3** | Alguacil #10 Lieutenant **10/0** · Alguacil #6 Hacker **15/0.5** · Daktari #1 Doctor **14/0** · Emily #3 E/M Grenade Launcher **24/0** | **63 / 0.5** | Daktari counts as Alguacil; Emily is a Wildcard but does not count as Alguacil: **Level 3**. |
+| Riot Grrl four-body recovery Core | Riot Grrls · Core 4 | **L4** | Riot Grrl #6 Spitfire **31/1.5** · Riot Grrl #7 Specialist Operative **29/0** · Avicenna #1 Doctor(+3) **28/0** · Fiddler #1 FTO Engineer **29/0** | **117 / 1.5** | Two natural Riot Grrls plus two counts-as support models give full Level 4. |
+| **Best — Alguacil five-body scoring Core** | StarCo · Core 5 | **L5** | Alguacil #10 Lieutenant **10/0** · Alguacil #6 Hacker **15/0.5** · Alguacil #8 Forward Observer **12/0** · Alguacil #2 HMG **18/1** · Daktari #1 Doctor **14/0** | **69 / 1.5** | Daktari counts as Alguacil, so five-body Core is Level 5 despite mixed unit names. |
+| **Best — Riot Grrl five-body maximum Core** | Riot Grrls · Core 5 | **L5** | Riot Grrl #6 Spitfire **31/1.5** · Riot Grrl #5 Missile Launcher **30/1.5** · Riot Grrl #7 Specialist Operative **29/0** · Avicenna #1 Doctor(+3) **28/0** · Fiddler #1 FTO Engineer **29/0** | **147 / 3** | All five count as Riot Grrls for Level 5, but **147 pts/3 SWC** is a major investment and leaves little room for other active pieces. |
+
+**StarCo restrictions:** one Core and one Haris simultaneously; the PMC, Outrage, StarCo and Armored **required-source choice sets** still apply. Fiddler **#1 FTO**, Knauf **#2 FTO**, Raoul **#3 FTO** and Tsyklon **#1/#2 FTO** are the only eligible versions where the chart lists them. Peripheral Jackbots and Anaconda Operator are never counted as extra team members. An Irregular linked Irmandinho/Digger does not generate an ordinary Regular Order; report #049 is explicitly an **older StarCo-style** deployment with no independently verified exact Army code.
+
+
 ## Unit → Fireteam access index
 
 This is a derivative lookup table. If it conflicts with the canonical Fireteam section above, the canonical section wins.
