@@ -68,6 +68,11 @@ These are **distinctive legal packages or combinations**, not a claim that every
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/kestrel-colonial-force.md#recommended-fireteam-compositions--n53-audited). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+Best starting tests: **Magistrate + two Jackal FTO Haris 29/0 (FT3)** for value; **four Fennecs + Griffin Core 87/1.5 (FT5)** for a maximum-bonus gunline; **Squalos NCO + Pathfinder TacAware Duo 83/1.5 (FT1)** for mixed-role TAG pressure. Report-tested shapes are separately labelled from options reconstructed under September 2026 N5.3.
+
+
 - **COLCORP Haris — Magistrate + two 6-point Jackal FTO:** the signature **29/0 three-Regular-Order module**, or **31/0 with 19-point Strategos LT**. Converts Orders **only if FT Master and the eligible Fireteam are intact at Order Count**. Panzerfaust/LRL Jackals offer meaningful cheap reactive trade tools, and a separate **CoC Magistrate** can protect an aggressive LT. **This and an elite KESTREL Haris compete for the one Haris allowance.**
 - **FENNECS Core — Fennec Disco/FO/Sensor + Griffin HMG/Feuerbach + Black A.I.R. FTO sniper**, with Fennecs and/or permitted Wildcard specialist(s) to complete the team: combines **projected Eclipse, MSV1 mobile offense, MSV2/Neurocinetics ARO and cheap mission utility**. Requires at least one actual Fennec; **Black A.I.R. must use its FTO profile** and is capped at two in the FENNECS family. Don't conflate **Eclipse route-making** with shooting through ordinary Smoke.
 - **KESTREL Duo — Hetkari Red Fury or ML + 17-point TacAware Pathfinder:** a hard gun with a **fast FO/Sensor/Repeater specialist** and a potential extra team activation. It is a **non-pure** link, so price the real team bonus instead of assuming pure composition. A smaller **Griffin + Bipandra TacAware** Duo similarly adds a Doctor and additional activation.
