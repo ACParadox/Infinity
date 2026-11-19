@@ -39,6 +39,8 @@ This is a **separate #1–#11 ranking of the parent factions/army families**, ju
 | 3–4 | [**Military Orders**](factions/military-orders.md) | B+ to A− | #19 |
 | 3–4 | [White Company](factions/white-company.md) | B+ to A− | #20 |
 
+**Standout-count synchronization (19 November 2026):** Shindenbutai has **2/36 Top 3, 3/36 Top 5 and 11/36 Top 10 distinct ranked units** when including role-specific Apex/Value tables (count each unit at most once per cutoff). Vanilla JSA also gains Teishin's airborne-objective-specialist Value #4 (**6/43 Top 5**). The other 43 armies' percentage columns are retained from their earlier editorial snapshot; the newly added airborne-scoring Top 5 also affects other rosters, so the table is **not yet a fully synchronized all-45 recount**. Do not treat small differences as statistical win-rate data.
+
 | # | Tier | Army | Roster units | Top 3 % | Top 5 % | Top 10 % | Why it ranks here |
 | ---: | :---: | --- | ---: | ---: | ---: | ---: | --- |
 | 1 | S | [**Vanilla PanOceania**](factions/vanilla-pano.md) | 51 | 27.5% | 31.4% | 45.1% | The broadest independent PanO gun/TAG/Hidden Deployment toolbox, with strong command and Repeater support; wins across many matchups despite having no conventional Fireteams. |
@@ -66,12 +68,12 @@ This is a **separate #1–#11 ranking of the parent factions/army families**, ju
 | 23 | B+ | [Qapu Khalqi](factions/qapu-khalqi.md) | 38 | 7.9% | 15.8% | 15.8% | Hafza deception, Sekban NCO, Laxmee/White Noise and varied mercenary Fireteams create several viable routes, but less raw pressure than higher tiers. |
 | 24 | B+ | [Tunguska](factions/tunguska.md) | 44 | 11.4% | 15.9% | 31.8% | Interventors, Pitchers, Puppetbots and affordable Hollow Men support a formidable hacking game; robust passive defense is harder to assemble. |
 | 25 | B+ | [Ōban](factions/oban.md) | 35 | 5.7% | 11.4% | 28.6% | Fast melee attackers and resilient objective troops hit hard after the lane opens; more matchup-sensitive into prepared long-range or template defenses. |
-| 26 | B | [**Shindenbutai**](factions/shindenbutai.md) | 36 | 2.8% | 5.6% | 19.4% | Tanuki Pitcher/Disco/MSV combinations, Hatamoto Order tricks and flexible Duos provide clever midfield pressure, but limited brute-force reach. |
+| 26 | B | [**Shindenbutai**](factions/shindenbutai.md) | 36 | 5.6% | 8.3% | 30.6% | **11 distinct Top 10-rated units** across specific Apex/Value roles (including Metsuke, Teishin, Yamabushi and Lù Duān); Tanuki/Pitcher/Disco, Hatamoto command and modular Duos are strong, but raw long-range shooting and hackable-elite commitments limit consistency. |
 | 27 | B | [Imperial Service](factions/imperial-service.md) | 43 | 9.3% | 11.6% | 18.6% | Cheap Regular Orders, Smoke/MSV shooting and strong command/disabling tools are efficient; lacks some of the broad elite attack ceiling of Vanilla Yu Jing. |
 | 28 | B | [Starmada](factions/starmada.md) | 42 | 4.8% | 14.3% | 35.7% | Nonlethal denial, mission-oriented teams and durable O-12 pieces make objective play sound; expensive configurations quickly erode spare Orders. |
 | 29 | B | [White Banner](factions/white-banner.md) | 46 | 8.7% | 13.0% | 26.1% | Cheap forward E/M/Camo screens, Smoke/Eclipse, Albedo and flexible mixed HI/MI teams make it versatile, though the strongest pieces compete for points. |
 | 30 | B | [Kosmoflot](factions/kosmoflot.md) | 36 | 5.6% | 22.2% | 30.6% | Fast shooting, very cheap Smoke and Mirage-5 threaten front, midfield and enemy DZ simultaneously; staying power and scenario breadth are less secure. |
-| 31 | B− | [Vanilla JSA](factions/vanilla-jsa.md) | 43 | 7.0% | 11.6% | 25.6% | Concealed assassins, CC specialists and selective small teams offer strong ambush play; consistent ranged support and breadth lag stronger Vanilla armies. |
+| 31 | B− | [Vanilla JSA](factions/vanilla-jsa.md) | 43 | 7.0% | 14.0% | 25.6% | Concealed assassins, CC specialists and selective small teams offer strong ambush play; consistent ranged support and breadth lag stronger Vanilla armies. |
 | 32 | B− | [Bakunin](factions/bakunin.md) | 48 | 8.3% | 20.8% | 35.4% | Cheap Smoke/Eclipse assault, midfield trading, protected hacking and linked REM guns are dangerous, but balancing the packages takes work. |
 | 33 | C+ | [Ramah Taskforce](factions/ramah-taskforce.md) | 37 | 2.7% | 13.5% | 27.0% | Tarik/Khawarij mobility, Mukhtars and Namurr specialists can win missions aggressively; high model costs leave screens and defense stretched. |
 | 34 | C+ | [Vanilla O-12](factions/vanilla-o-12.md) | 49 | 10.2% | 24.5% | 57.1% | Excellent individual guns, hacking, hidden specialists and even small-team access, but premium pricing makes efficient multi-layer lists harder. |
