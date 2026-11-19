@@ -20,6 +20,12 @@ It also evaluates **when Speculative beats Guided on Orders** and MCP-reviewed o
 
 **Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](../list-building/network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
 
+## Live Combined Army example — Puzzler is delivery, not an automatic network (Swiss Miss ~09–21m)
+
+[Brookhurst list clinic](https://www.youtube.com/watch?v=WOvaahZlyQE) (transcript reviewed 2026-11-19) combines **Anathematic LT hacker**, **Dartok**, **E-Drone EVO**, **Sartroid Ranter** and **Sartroid Puzzler**. One speaker warns against treating the Sartroids as native Repeaters. The pinned **Puzzler does carry a Deployable Repeater**, but someone must place it legally: it is **not an always-on Repeater from list submission**. Ranter/Puzzler are **Cyberplug Peripherals and do not generate separate Orders**; the EVO device does not itself fill the network's projection gap.
+
+**Five-step check:** choose the hacker/program; mark existing native Repeaters; budget the actual Pitcher/Deployable Repeater or forward delivery activation; decide whether Puzzler's **Hidden E/Marat ambush** is worth more than a Repeater; then test target access and opposing KHD/Reset. A proposed **Noctifer Missile Launcher + Puzzler E/Marat** fork can impose two defense types only if LoF, legal ARO windows and distances support both. Do not assume a target is hackable just because a Puzzler appears on the army roster.
+
 ## Hacking is hacker quality multiplied by network quality
 
 **Vision-control dependency:** White Noise is useful against **MSV/Marksmanship**, not every enemy gun. A reachable Repeater/Hacking Area and a model that exploits that cleared path are prerequisites for good value. See the [N5.3 Vision Control apex/value guide](../list-building/vision-control-units-apex-and-value.md) for contrasts with Smoke, Eclipse, Disco Baller and Mirrorball.

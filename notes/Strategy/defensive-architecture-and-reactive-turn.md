@@ -586,6 +586,10 @@ Examples:
 
 ---
 
+### 2026 Swiss Miss case study — orthogonal hidden threats versus an exposed hedge
+
+The [Brookhurst workshop](https://www.youtube.com/watch?v=WOvaahZlyQE) (~18–21m, 24–29m; reviewed 2026-11-19) proposes a **Noctifer Missile Launcher** and **Hidden Puzzler E/Marat / deployable** as different answer types on one approach. It also considers **Grunt AP Snipers** and **Minuteman Missile Launchers** for USARF ARO. The transferable test is **how many different safe positions the enemy must reach to solve each gate**. Multiple identical visible snipers that can be pie-sliced from one square are worse than staggered gun/mine/E/M lanes. A concealed Puzzler and Noctifer **do not automatically get simultaneous AROs**: check deployment, LoF/ZoC, distances and ARO timing. No Order tax or kill rate is guaranteed by the transcript.
+
 # 15. Defend against Smoke, Eclipse, and White Noise by protecting movement space
 
 LoF-based defence can be switched off or bypassed.

@@ -273,6 +273,10 @@ This is why a small secondary group often functions better with at least a small
 
 ---
 
+### 2026 tournament-list example — liquidity before equal group size
+
+The [Swiss Miss Combined Army clinic](https://www.youtube.com/watch?v=WOvaahZlyQE) (~12–14m; reviewed 2026-11-19) questions a support group containing **two Irregular Gaki/Preta** and too few flexible Regular Orders. The speakers propose **moving E-Drone EVO into Group 2 and one warband into Group 1**. The point is to put spendable Regular Orders beside the pieces that expect to act; it is **not** a universal rule that EVO should be in Group 2. Reassess if the warbands have useful autonomous actions or EVO requires several setup Orders. **Puzzler and Ranter Cyberplug Peripherals add no independent Orders to either group.**
+
 ## 9. Build Group 2 around troops that largely self-fund
 
 A strong secondary Combat Group can contain several pieces whose normal role requires little shared funding.

@@ -55,6 +55,12 @@ A useful principle is:
 
 This is why Combat Group architecture is part of Order efficiency rather than merely list organization.
 
+### Concrete 2026 list clinic — distinguish points, slots and liquid Orders
+
+In the [Brookhurst discussion](https://www.youtube.com/watch?v=WOvaahZlyQE) (~09–15m, 24–29m; reviewed 2026-11-19), a Combined draft with **Gaki/Preta Irregular Orders in a small Group 2** may be improved by relocating a Regular **E-Drone** to that group and shifting a warband into the main pool. Recalculate **Regular activations, Irregular self-use, LT/NCO access, expected EVO activations and target positions** after the swap; the Sartroid Cyberplug Peripherals are not extra Order-generating bodies.
+
+By contrast, the **USARF** builder at one point had ~40–50 *unspent points* while already occupying desired troop slots. The response was to consider **more capable Minuteman guns and differently priced Fireteams**, not to claim the army needed more cheap Order generators. **Available points, 15 trooper slots and spendable Orders are three different constraints.**
+
 ## 3. Command Token efficiency
 
 Command Tokens are a secondary Order-economy resource. They usually do not generate Orders directly; instead they **deny, convert, redistribute, or compress** activations.

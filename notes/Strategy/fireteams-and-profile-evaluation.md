@@ -135,6 +135,12 @@ A strong small team commonly combines roles that want to travel to roughly the s
 
 Avoid linking profiles whose preferred movement routes are fundamentally incompatible. If a Super-Jump, Climbing Plus, very fast, or otherwise highly mobile model is constantly forced to travel at the pace and route of ordinary infantry, the Fireteam may be destroying much of the value paid for that mobility.
 
+## 2026 tournament clinic — host-team legality before bonus arithmetic
+
+The [Swiss Miss Brookhurst list workshop](https://www.youtube.com/watch?v=WOvaahZlyQE) (~24–29m, 40–46m) weighs **Grunt AP Snipers** against a **Minuteman-heavy USARF Core** carrying Missile Launcher, NCO AP HMG or FO. The canonical Grunt team allows **max one Minuteman**, while the separate USARF Core/Haris/Duo uses a **Minuteman/Marauder required-choice foundation**. Current Minutemen have **BS Attack (+1 Special Die)**; do not transform spoken “extra dice” shorthand into a Fireteam bonus. Recalculate which profiles count for composition and **how the team degrades after losing one or two troops**.
+
+The same recording (~30–36m) considers **Varuna Undertow Kamau / Montesa FTO** and **Pathfinder Wildcard** packages. Undertow's required-choice set is **ORC/Kamau**; its Montesa entry is **FTO-only**, and Pathfinder still needs a valid host. Compare a better linked ARO gun against buying **an independent Montesa/hacker specialist**. A team that combines every threat and scoring model can lose the whole plan in a single engagement. These were brainstormed compositions, not proven exports.
+
 # Advanced Fireteam Tactics
 
 The most useful advanced mental model is:

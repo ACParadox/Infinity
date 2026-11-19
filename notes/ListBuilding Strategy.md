@@ -2,6 +2,8 @@
 
 The list-building strategy notes are split by related subject so individual topics can be maintained without turning this file into one very large reference.
 
+**Swiss Miss / Brookhurst Blast Zone 2026 clinic (reviewed 2026-11-19):** [Video](https://www.youtube.com/watch?v=WOvaahZlyQE) compares proposed **Vanilla Combined Army** Anathematic versus Charontid, **USARF** Minuteman versus Foxtrot/bike/Van Zant, and **Varuna** Cutter NCO versus classified-scoring lists. Reusable conclusions are integrated into [list robustness](Strategy/list-robustness-and-threat-coverage.md), [mission scoring](Strategy/mission-scoring-and-specialist-strategy.md), [hacking projection](Strategy/hacking-and-network-projection.md), [Irregular group sequencing](Strategy/impetuous-and-irregular-troop-sequencing.md), [Fireteam evaluation](Strategy/fireteams-and-profile-evaluation.md), [order efficiency](Strategy/order-efficiency.md) and [ARO defense](Strategy/defensive-architecture-and-reactive-turn.md). **Player proposals are not verified 300-point exports or rules authority.**
+
 ## Strategy files
 
 - [Anti-TAG / Anti-HI without hacking — N5.3 apex/value](list-building/anti-tag-anti-heavy-infantry-non-hacking-apex-value.md): E/M, K1, AP, AP+EXP, Monofilament and PARA ranked by *delivery, target saves and real cost*

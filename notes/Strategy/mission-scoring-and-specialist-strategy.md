@@ -577,6 +577,18 @@ Prioritize:
 
 Do not automatically remove all Specialist investment. Many tournaments use two lists across a multi-mission packet, and even kill missions may reward Specialist survival or contain Classifieds.
 
+## Tournament packet example — Brookhurst Blast Zone 2026 (Swiss Miss ~02–06m)
+
+The [video's mission discussion](https://www.youtube.com/watch?v=WOvaahZlyQE) mentions **Uplink Center**, a **shared-secret / classified-style interference** mission and **Double Bind**. Its automatic captions garble some rule names, and the speakers themselves are unsure about secret-objective cancellation and Team Operations. **Verify the event packet and scenario rules** before relying on scoring timing, destroyed antenna interactions or optional-mode units.
+
+| Reported scoring emphasis | What a list must test | Impact on the proposed faction shells |
+| --- | --- | --- |
+| **Uplink Center** — late antenna and central-objective control, with killing also relevant | Which piece holds at game end after the long gun stops attacking? | Cutter/Charontid may clear defenders, but an actual surviving holder and last-turn denial plan still matter. |
+| **Classified / shared-secret tasks** — several skill categories and possibly opponent interference | Can **two independent models** meet each exact skill/position requirement? | Less Cutter; more Kamau hacking/paramedic, Montesa, Croc Men or other mission tools. In Combined, don't cut the only affordable specialist for another Dāturazi blindly. |
+| **Double Bind** — antennas plus influence/area control, with a choice of objectives | Does scoring recur each Game Round? Which objective branch was chosen, and which zone can be contested? | Reserve mobile scoring, durable zone presence and enough Orders for a late flip, not only killing. |
+
+**Use two lists for complementary mission failures, not simply two favorite attackers:** e.g., a kill-and-control shell (Noctifer Missile Launcher, AP-HMG Charontid, Cutter NCO) versus a specialist-rich and independent-access shell. This is a *packet-analysis example*, not an assertion of exact event scoring.
+
 ## 16. Tournament-packet analysis
 
 Before building the two lists, create a mission matrix.

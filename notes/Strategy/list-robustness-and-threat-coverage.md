@@ -482,6 +482,17 @@ Can provide:
 
 The more checklist boxes a troop covers **without making all those functions depend on that one troop surviving**, the better.
 
+## Tournament-list case study — CA, USARF and Varuna (Swiss Miss 2026)
+
+[Brookhurst list clinic](https://www.youtube.com/watch?v=WOvaahZlyQE), ~07–50m (transcript reviewed 2026-11-19), supplies four useful tests:
+
+1. **Delete the expensive commander.** An **Anathematic LT** brings exceptional command/hacking and may be supported by Speculo, Ranter and Dartok, but losing it can remove several win conditions. Mnemonica is not equivalent to replacing the lost gun, Hacker or scoring route. Name the surviving independent attacker and Specialist.
+2. **Delete the preferred firing lane.** A **USARF Grunt/Minuteman** long-gun hedge may be imposing but still struggle versus heavy Camouflage, missing anti-armor delivery, or a flank its bikes cannot reach. Keep a second geometry: Foxtrot Minelayer, Maverick/Desperado Smoke, mobile Ranger or off-table Van Zant.
+3. **Delete the expensive killing investment.** A **Varuna Cutter NCO** may justify its points for a kill/hold mission; the speakers prefer reallocating it to **Croc Man / Echo-Bravo / Kamau / Montesa** mission tools in classified-heavy scenarios. Count two *independent* ways to complete the actual objectives.
+4. **Spend each Combat Group on paper.** The proposed **E-Drone into Group 2; Gaki/Preta into Group 1** swap solves stranded Irregular Orders in one Combined draft, not in every list. Include LT/NCO access, genuine Regular Orders and the actual Cyberplug Peripheral rules.
+
+**Cut weak overlap before cutting mission coverage:** the third gun covering the same lane, the unused specialist too far from the action, the redundant expensive attacker, or the support model with no budgeted activation. Opinions from a pre-event list workshop do not establish new army rankings.
+
 ## Failure-mode audit
 
 Before declaring a list finished, run several imaginary failures.
