@@ -676,7 +676,7 @@ Army's raw Opt 7 payload contains two weapon-id `0` placeholder rows; they are n
 | 2 | 38 | 0 | MULTI Marksman Rifle, AP SMG; bundled Operator |
 | 3 | 34 | 0 | MULTI Marksman Rifle, Chain Rifle; bundled Operator |
 
-Army's option label spells the unit `TARKSIA`; this reference uses the canonical `Tarkshya` name.
+**Tarkshya Operator alternate state (not the Vehicle):** the pinned Army source gives the Operator **Forward Observer (+1SD)** as a base-profile skill, along with Flash Pulse (+1SD) on its internal loadout. Do **not** attribute the Operator's FO skill to the primary Tarkshya Vehicle. Army's option label spells the unit `TARKSIA`; this reference uses the canonical `Tarkshya` name.
 
 ### Pilot-X Team
 
