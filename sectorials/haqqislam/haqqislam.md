@@ -791,6 +791,8 @@ This is a **derived list-building matrix**, not a replacement for the canonical 
 
 **Vanilla constraints:** **Core 0; Haris 1; Duo 2**. Pools I and II cannot be mixed in a single team. Pool I is **Duo only**; Pool II is **Duo/Haris**. The pinned vanilla member caps are at most **two of any one unit per pool**, with several units limited to one; none has a counts-as equivalence. **Consequently a vanilla Haris tops out at Level 2; Level 3 is not available**, and there are no legal new 4- or 5-body Vanilla Fireteams. No FTO label by itself grants access (notably Fiddler/Claire/Rafiq).
 
+**Ancillary-Peripheral restriction — important TAG exception:** Shakush HMG/AP-Spitfire profiles and **Maghariba option 1 with Jandab** may be linked only while their Jandab **Peripheral (Ancillary)** has **not been deployed**, or is **Disconnected or in a Null State**. Deploying/reconnecting the Jandab causes its Controller to leave the Fireteam. Thus V2 and V5 are **conditional** while Jandab is inactive; the Engineer is not an exception. Other Maghariba options without Jandab can avoid this limitation. [N5.3 Peripheral rule](https://infinitythewiki.com/Peripheral).
+
 **Evidence key:** **Played** = the named structural team was actually described in a repository battle-report analysis; a listed modern option may be reconstructed. **Recommended** = legal construction from the chart, but not claimed as an independently verified played list. **Best** = tactical editorial preference, not statistical win-rate evidence.
 
 | ID | Formation / size | Exact profiles (each pts/SWC) | Total pts/SWC | FT Level | Evidence and use |
