@@ -69,6 +69,11 @@ The following are **MO-only units or combinations among PanO armies**, alongside
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/military-orders.md#recommended-fireteam-compositions--n53-audited). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+Best starting tests: **four Crosiers + Knight Commander Core 84/1 (FT5)** for efficient full bonuses; **two Teutonics + Black Friar Haris 59/1.5 (FT2)** for cheap anti-armor; **Hospitaller HMG + Hospitaller TinBot + De Fersen Crusade Haris 101/2 (FT3)** for durable premium pressure. The played #009/#160/#221 shapes are distinguished from reconstructed exact options.
+
+
 - **Military Orders cheap-control Core/Duo:** **Crosier(s) + Knight Commander + Black Friar HRL/Thunderbolt or Crosier MSV2 HMG**, with optional **Order Sergeant FTO Pitcher** and an appropriate Wildcard. The **Military Orders** family must satisfy a required-choice member: **Crosier, Teutonic or Santiago FTO** (and applicable chart Counts-as). The goal is a protected command/order shell with a cheap ranged answer, not five premium Knights by default.
 - **Military Orders combat Haris:** **Teutonic Specialist or TinBot 19 + Santiago FTO KHD/TinBot 31 + Crux FTO MULTI Marksman 46**, or substitute **Montesa FTO 20** when team composition/mission supports it. Real two-Wound threats plus short-range specialist/cyber defense; **very expensive**, and the only Haris slot must genuinely advance the mission.
 - **Order Sergeants Haris/Duo:** **Order Sergeant FTO Hacker/Pitcher 18 + Black Friar HRL 22** and optionally **Infirmarer Doctor 17–20**, **Curator Engineer 17–20** or **Bulleteer Spitfire 22**. **At least one actual Order Sergeant FTO** is mandatory; the **Escort Sergeant + Auxbot is not FTO**. This is an economical support or independent anti-visual/repeater formation.
