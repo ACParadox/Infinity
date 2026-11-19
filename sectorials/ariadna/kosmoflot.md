@@ -716,7 +716,7 @@ A Kibervolk Patrol is composed of **1 Kibervolk and 1 Dozer KVP**. Both must bel
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 10-10 | 16 | 12 | 12 | 13 | 3 | 0 | 1 | 2 |
 
-Loadout-specific skills/equipment are preserved below; **only rows named `SCOT GUARD FTO` qualify for FT-02**.
+**Common Scots Guard Special Skills (all profiles):** Courage; **Forward Observer**; **NCO**; Mimetism (-3); Stealth; Terrain (Total). The unit also lists MediKit (PH=14), which applies when equipped (the FTO Paramedic is the listed MediKit carrier). Profile-specific Camouflage/Surprise Attack/Forward Deployment and MSV1 differences remain below. Only rows named `SCOT GUARD FTO` qualify for FT-02. **NCO can convert Lieutenant Special Orders into Tactical Orders even across Combat Groups**; if the NCO is Fireteam Leader, that Tactical Order can activate its legal team. Source check: [user-supplied Infinity Army profile image, 19 Nov 2026] and [Corvus Belli October 2025 Army update](https://infinityuniverse.com/en/news/army-update-october-25).
 
 | Profile ID | FTO | SWC | Points | Weapons / equipment | Skills / differences |
 |---:|---|---:|---:|---|---|
