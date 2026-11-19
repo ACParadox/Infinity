@@ -462,6 +462,29 @@ The Jayth and Gwailo `required-choice` rows form a required-choice set from the 
 | AÏDA SWANSON | 1 | FTO profile only; Nox context only |
 | AGENT DUKASH FTO | 1 | FTO profile only |
 
+## Recommended 2–5-member Fireteam compositions (N5.3)
+
+**Interpretation:** Team type and legality come from the canonical chart immediately above. **Fireteam Level (L1–L5)** is the maximum number of same-unit / explicitly `Counts as`-equivalent troopers, **not** automatically team size. L2 grants BS Attack (+1 SD), L3 adds Discover +3/Dodge +1, L4 adds BS +1, and L5 adds Sixth Sense; bonuses are cumulative. Totals below include **only listed member profiles** (not the rest of a 300-point army, mandatory peripheral/support purchases, or optional reinforcements). All points/SWC are N5.3 pinned roster figures; a row being recommended is not proof that it was played in a recorded game. Full profiles and source IDs are in the unit sections above. [Fireteam bonus rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Fireteam creation/eligibility rules](../../rules/6_Command%20and%20Fireteams/Fireteams__Basic_Rules.md).
+
+Shasvastii standard limits are **Core 1; Haris 1; Duo unlimited**. **Only Nox** provide four-/five-member Cores (Nox 1–5 required); Tensho, Oktavia and **T-Drone FTO 15/1.5** carry Nox equivalence for Level. **Shasvastii Shock** are **Duo/Haris** with Jayth **FTO** or Gwailo required-choice foundation; M-Drone **FTO 23/0** only in that family. **Haiduk** are Duo/Haris only. **Aïda FTO** is a Nox-only Wildcard; Victor Messer is Shock-only; Corax Hasht may join Nox or Shock; **Dukash FTO** is profile-restricted. No standard Shock/Haiduk 4-/5-member Core.
+
+| Priority / composition | FT family and type | Exact profiles (each member: points/SWC) | Total points | Total SWC | FT Level | Interpretation |
+|---|---|---|---:|---:|---:|---|
+| **Best budget Shock Duo** (2) | Shasvastii Shock Duo | Jayth opt 1 FTO Disco Baller **21/0**; Gwailo opt 3 MSV2 HRL **39/1.5** | **60** | **1.5** | **L2** | L2 by Shock equivalence; advanced screen plus MSV2 reactive gun. |
+| Haiduk overwatch Duo (2) | Haiduks Duo | Haiduk opt 2 AP marksman/X-Visor **21/0.5**; Haiduk opt 3 MULTI sniper **23/1.5** | **44** | **2** | **L2** | L2; no Core access. |
+| **Best Nox budget specialist Haris** (3) | Nox Haris | Nox opt 2 HMG **21/1**; Nox opt 7 Forward Observer **15/0**; Tensho opt 5 E/Mitter + Disco **16/0** | **52** | **1** | **L3** | L3: Tensho counts as Nox. |
+| Nox guided-ARO Haris (3) | Nox Haris | Nox opt 11 guided MULTI sniper **21/1**; T-Drone opt 2 FTO missile/Flash Pulse **15/1.5**; Nox opt 8 Paramedic **16/0** | **52** | **2.5** | **L3** | L3; T-Drone must be FTO, not ordinary guided T-Drone. |
+| **Best shock pressure Haris** (3) | Shasvastii Shock Haris | Jayth opt 3 FTO Red Fury **34/1**; Gwailo opt 3 MSV2 HRL **39/1.5**; M-Drone opt 2 FTO Nanoscreen/TA **23/0** | **96** | **2.5** | **L2** | L2 by two Shock equivalents; specialist/repeater drone does not automatically count as Shock. |
+| Shock utility Haris (3) | Shasvastii Shock Haris | Gwailo opt 1 HMG **44/1.5**; Jayth opt 1 FTO Disco Baller **21/0**; Victor Messer opt 2 Vulkan/Minelayer **30/0.5** | **95** | **2** | **L2** | L2; Victor is a Shock-context Wildcard. |
+| Haiduk pure Haris (3) | Haiduks Haris | Haiduk opt 3 MULTI sniper **23/1.5**; Haiduk opt 2 AP marksman **21/0.5**; Haiduk opt 2 AP marksman **21/0.5** | **65** | **2.5** | **L3** | L3; three Haiduks, AVA permitting. |
+| Four-member Nox ARO Core (4) | Nox Core | Nox opt 4 MULTI sniper **19/1**; Nox opt 1 Combi **14/0**; Nox opt 7 Forward Observer **15/0**; Tensho opt 3 shotgun **14/0** | **62** | **1** | **L4** | L4; all count as Nox. |
+| **Best full-level defensive Nox Core** (5) | Nox Core | Nox opt 2 HMG **21/1**; Nox opt 6 Hacker **14/0.5**; Nox opt 7 Forward Observer **15/0**; T-Drone opt 2 FTO missile **15/1.5**; Oktavia opt 2 HRL/Sixth Sense **26/1.5** | **91** | **4.5** | **L5** | L5; every member explicitly counts as Nox. |
+| Mixed Sheskiin spearhead Core (5) | Nox Core | Nox opt 1 Combi **14/0**; Nox opt 7 Forward Observer **15/0**; Nox opt 8 Paramedic **16/0**; Aïda opt 2 FTO Minelayer **21/0**; Sheskiin opt 2 Red Fury **50/1** | **116** | **1** | **L3** | L3; five models **do not** imply L5; neither Aïda nor Sheskiin is recorded as Nox-equivalent. |
+
+### Battle-report and recorded discussion evidence
+
+The [Shasvastii guide](../../notes/factions/shasvastii.md) provides tactical/media-derived context; none of these exact new 2–5 member sets has been independently confirmed as played, so they are labelled **recommendations** rather than battle-report-tested facts. Legacy Jayth/Gwailo/Seed-era video lists must not override N5.3 FTO permissions.
+
 ## Reverse Fireteam index
 
 | Unit | Fireteam access |
