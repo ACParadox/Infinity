@@ -182,7 +182,7 @@ Coverage notes:
 
 ### Meteor Zonds
 
-**ID 411 · AVA 1 · REM** — `MOV 15-10 | CC 14 | BS 11 | PH 12 | WIP 13 | ARM 0 | BTS 6 | W 1 | S 3`. Airborne Repeater / Sensor REM with Combat Jump and Super-Jump.
+**ID 411 · AVA 1 · REM** — `MOV 15-10 | CC 14 | BS 11 | PH 12 | WIP 13 | ARM 0 | BTS 6 | W 1 | S 3`. Airborne Repeater / Sensor REM with Combat Jump and Super-Jump. **Forward Observer** is a shared base-profile skill on both Meteor Zond loadouts.
 
 | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---|---|
@@ -521,7 +521,7 @@ Coverage notes:
 
 ### Zoe & Π-Well
 
-**ID 413 · AVA 1 team · LI + REM** — Zoe `MOV 10-10 | CC 16 | BS 11 | PH 10 | WIP 15 | ARM 1 | BTS 3 | W 1 | S 2`; elite Engineer / Hacker paired with Π-Well.
+**ID 413 · AVA 1 team · LI + REM** — Zoe `MOV 10-10 | CC 16 | BS 11 | PH 10 | WIP 15 | ARM 1 | BTS 3 | W 1 | S 2`; elite Engineer / Hacker paired with Π-Well. **The Π-Well FTO component has Forward Observer** as a base-profile skill; Zoe does not, and the separate Π-Well Sync profile is not automatically an FO.
 
 | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---|---|
@@ -530,7 +530,7 @@ Coverage notes:
 
 ### Szalamandra Squad
 
-**ID 420 · AVA 1 · TAG** — `MOV 15-10 | CC 17 | BS 14 | PH 16 | WIP 13 | ARM 8 | BTS 9 | W 3 | S 7`. Heavy TAG with Robbybot.
+**ID 420 · AVA 1 · TAG** — `MOV 15-10 | CC 17 | BS 14 | PH 16 | WIP 13 | ARM 8 | BTS 9 | W 3 | S 7`. Heavy TAG with Robbybot. **NCO** is a Szalamandra TAG base-profile skill, not a Robbybot skill.
 
 | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---|---|
