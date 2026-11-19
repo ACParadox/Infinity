@@ -12,6 +12,8 @@ This folder contains cross-sectorial Fireteam comparisons and rankings for Infin
 - **Value:** competitive contribution relative to points, SWC, Order economy, and opportunity cost.
 - Rank **Apex** and **Value** separately while presenting them together where practical.
 - Record exact legal 2–5 member profiles, Fireteam level, total points and SWC, role, and pinned Fireteam-chart/roster source for each ranked composition.
+- In every Fireteam comparison table, give **one bullet per physical model** in the **Units / exact profiles** column (including individually repeated copies), plus separate **# units**, **FT level**, and **points / SWC** columns; member count and Fireteam level are not interchangeable.
+- Use descriptive Fireteam names rather than arbitrary composition IDs in headings and rankings; preserve links to canonical sectorial references and note if an exact team is theorycrafted rather than battle-report tested.
 
 ### Apex investment bands
 
@@ -25,6 +27,9 @@ This folder contains cross-sectorial Fireteam comparisons and rankings for Infin
 Rankings belong in separate Markdown files in this folder; do not treat unverified compositions as confirmed legal entries.
 
 ## Role rankings
+
+- [Board Control / Area Denial — Apex & Value](board-control-area-denial-fireteams-apex-value.md): linked denial, E/M, mines, networks and specialist control.
+- [Mission Specialists / Objective Play — Apex & Value](mission-specialists-objective-play-apex-and-value.md): mission scoring, recovery, specialists and objective access.
 
 - [Close Assault / Breakthrough — Apex & Value](close-assault-breakthrough-apex-value.md): exact 2–5-member assault and breach teams, independent Apex/Value tables, N5.3 points/SWC, Fireteam Levels and evidence.
 - [Combined-Arms / Toolbox — Apex & Value](combined-arms-toolbox-apex-and-value.md): separate cross-sectorial Apex/Value ranks, 18 exact N5.3 costed profiles, Fireteam levels, chart constraints and report-evidence distinctions.
