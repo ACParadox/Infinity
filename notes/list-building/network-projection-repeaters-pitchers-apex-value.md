@@ -63,9 +63,9 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 | 4 | **S** | **Druze KHD/Pitcher 23/0; HD25/.5** — Druze / Qapu / Ikari | **BS12 + X-Visor** and legal Fireteam options; unusually efficient accurate thrower plus Hacker | More expensive than line launchers; watch SWC on HD |
 | 5 | **A+** | **Order Sergeant FTO HD/Pitcher 18/.5** — MO | BS12 and proper Fireteam eligibility, plus a useful HD | Costs .5 SWC and an FTO slot |
 | 6 | **S** | **Waverider KHD/Pitcher 20/0; HD/Pitcher 22/.5** — Torchlight | BS12, Mimetism(-3), legal Silverstars team and hacker utility | Needs a viable firing lane; KHD and HD do different jobs |
-| 7 | **S** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company | BS13, NWI, Wildcard + KHD for 0 SWC | No Spotlight upgrade |
+| 7 | **S** | **Tanuki HD/Pitcher/Disco 20/.5** — Shindenbutai | BS13 Pitcher with a full HD, Warhorse and disposable Eclipse (Disco Baller), plus legal Sayō support, on one 20pt Regular specialist | Only two Pitcher shots and finite Disco; no X-Visor or +1SD, W1 and legal team context matter |
 | 8 | **A+** | **Fēiquán 28/0** — Yu Jing | Printed **+1SD**, BS13 and exceptional independent mobility | Large Hackable/no-cover body; no Hacker |
-| 9 | **S** | **Tanuki HD/Pitcher/Disco 20/.5** — Shindenbutai | BS13 with Hacker and vision-control role at 20pts | No X-Visor or +1SD |
+| 9 | **S** | **Hǎidào KHD/Pitcher 22/0** — Invincible Army / White Company | BS13, NWI, Wildcard + KHD for 0 SWC | No Spotlight upgrade |
 | 10 | **S** | **Dokkaebi KHD/Spotlight/Pitcher 22/0** — White Banner | BS12, robust remote-presence Hacker and printed Spotlight upgrade | **28/.5 Mk12** option has Deployable Repeater **instead of** Pitcher |
 | 11 | **S** | **Hollow Man MULTI/Pitcher 26/0** — Tunguska | BS13, 2W and strong supported Fireteam delivery | Team cost; lack of X-Visor |
 | 12 | **S** | **Tsyklon FTO 26–29/1** — eligible Nomad / StarCo teams | X-Visor, native Repeater, 360º and linked shooter | 1 SWC, bulky Hackable REM |
