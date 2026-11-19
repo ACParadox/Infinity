@@ -2,38 +2,27 @@
 
 **Reviewed:** 19 November 2026 · **Format:** standard 300-point all-comers / ITS 18 · **Scope:** legally linked 2–5-trooper *main-force* Fireteams from the pinned sectorial rosters. This is a qualitative, cross-sectorial **defensive/ARO** comparison, not a tournament win-rate or dice-simulation ranking. Individual ARO troopers and unlinked defensive packages are covered separately in [ARO units — Apex and Value](../aro-units-apex-and-value.md).
 
-## Ranking method and guardrails
-
-**Apex** asks how hard the complete team is to dislodge from consequential lanes or scoring approaches, considering actual reactive dice, visors/Mimetism, ammunition, wounds, multispectral coverage, anti-hacking, staggered angles, medical/engineering recovery and enemy Orders consumed. **Value** weighs those effects against *all* linked members' points, SWC, Order opportunity cost, Core/Haris slot, loss of flexibility and the risk of template/clustering trades. A high-volume **active-turn** attack team is not automatically a top ARO team.
-
-- The [N5.3 bonus chart](../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) calculates **FT level from matching unit identity or explicit chart counts-as**, not the physical headcount: L2 = BS Attack (+1 SD); L3 = +3 Discover and +1 Dodge; L4 = +1 BS; L5 = Sixth Sense. Levels are cumulative and must be recalculated when members leave.
-- Ordinary ARO attacks remain **B1**: `BS Attack (+1B)` on a weapon does not grant extra ARO Burst. **+1 SD** means roll an additional die and discard one; it is **not** extra Burst and can stack with a native +1 SD, as on the Knight of Justice Missile Launcher. **Neurocinetics** is an actual reactive-Burst exception. See [reactive ARO](../../../rules/6_Command%20and%20Fireteams/Fireteam_ARO.md).
-- In the reactive turn, individual team members only ARO when individually eligible, and their declared ARO Skills must obey [Fireteam ARO coordination](../../../rules/6_Command%20and%20Fireteams/Fireteam_ARO.md). A clustered five-body team does not make five free missile shots at every opponent's Order.
-- **Fireteam cost bands:** ≤120 points = **Preferred Apex**; 121–135 = **Conditional Apex**; 136–150 = **Exceptional Apex** (substantial justification required); >150 = normally **exclude** from a standard all-comers Apex recommendation. SWC, competing Core/Haris slots and independent mission runners remain critical even below 120.
-- Each linked composition below is **one alternative**, not a complete legal 300-point list. Do not combine mutually exclusive Cores or ignore AVA, SWC, required-source members, FTO option restrictions, member caps, Peripheral/Ancillary limits or Reinforcement-chart separation. A Wildcard never waives a compulsory native/required-choice anchor.
-- **Source policy:** the [current pinned sectorial chart and profile table](../../../sectorials) are authoritative for the costs, legal families and levels listed below. Where a battle report names a formation, the exact option selections below may be a **2026 N5.3 reconstruction**, not the original game's exported list. `Constructed` never means independently battle-report-tested.
-
 ## Apex — maximum defensive/ARO impact
 
-All ranked constructions stay inside the preferred ≤120-point band **except D10**, which is a **Conditional Apex** at 121. Rankings compare defensive jobs, not a universally best player-independent lane.
+All ranked constructions stay inside the preferred ≤120-point band **except Morat heavy MSV/Feuerbach Core**, which is a **Conditional Apex** at 121. Rankings compare defensive jobs, not a universally best player-independent lane.
 
-| Rank | Tier | Fireteam (see costed build) | Bodies / FT level | Pts / SWC | ARO rationale and principal liability |
-|---:|:---:|---|:---:|---:|---|
-| 1 | **S** | [D01 — WinterFor Knight of Justice ML / Fusilier Core](#d01) | 5 / **L4** | **90 / 1.5** | Native ML **+1 SD** stacks with FT bonus; FT4 adds +1 BS, giving an unusually punishing, ARM5/W2 missile anchor for under 100. No visor or FT5 Sixth Sense; four soft supports must survive. |
-| 2 | **S** | [D02 — Varuna five-Kamau Undertow Core](#d02) | 5 / **L5** | **120 / 3** | Mimetism(-3), MSV2 MULTI Sniper, MSV1 HRL, FO/Sensor, Tactical Awareness Paramedic, full bonuses. High 3 SWC, W1 models and no embedded Engineer. |
-| 3 | **S** | [D03 — Kestrel Black A.I.R. Neuro Fennecs Core](#d03) | 4 / **L3** | **66 / 1.5** | Native Neurocinetics MULTI Sniper, MSV2/Mimetism(-3), extra Fireteam SD; unusually concentrated reactive FtF for the spend. Only **L3**, not L4; fragile sniper. |
-| 4 | **S** | [D04 — Neoterra Bolt missile/recovery Core](#d04) | 5 / **L5** | **108 / 1.5** | Marksmanship ML, CoC, KHD, Drop Bears/BSG and Engineer in a full-bonus team. No MSV2; multiple one-Wound MI and valuable models clustered. |
-| 5 | **A+** | [D05 — Kestrel Griffin Feuerbach Fennecs Core](#d05) | 5 / **L5** | **99 / 1.5** | ARM4/W2 BS14 MSV1 Feuerbach, two Thunderbolt lanes and Doctor, full L5 for 99. Exposed, predictable anchor; not simultaneous with D03's Core. |
-| 6 | **A+** | [D06 — Onyx Unidron ML/plasma/network Core](#d06) | 5 / **L5** | **112 / 3** | Missile, plasma sniper, Engineer and Kerr-Nau KHD/White Noise form a layered reactive/hacking screen; 3 SWC and hacker/network dependence. |
-| 7 | **A+** | [D07 — Bakunin Riot Grrl ML/Avicenna Core](#d07) | 4 / **L4** | **111 / 1.5** | W2/ARM3 MSV1 missile and a Doctor(+3), specialist and close guard; FT4 +BS. Only four members: no L5 Sixth Sense; templates and smoke/control remain counters. |
-| 8 | **A+** | [D08 — Steel Phalanx Phoenix/Machaon Myrmidon Core](#d08) | 4 / **L4** | **115 / 2.5** | Mimetism(-6) HRL Phoenix, strong Doctor, CoC, Eclipse/CC approaches and L4. No L5 possible in this sectorial; less direct MSV answer, smoke-dependent counterplay. |
-| 9 | **A+** | [D11 — Tohaa Sukeul K1 Sniper / double Kaeltar Triad](#d11) | 3 / **L3** | **64 / 1.5** | K1 long-range denial, two SymbioMate options and CoC offer defensive persistence; lacks L4 +BS and a built-in MSV. |
-| 10 | **A+ (conditional)** | [D10 — Morat heavy MSV/Feuerbach Core](#d10) | 5 / **L5** | **121 / 3.5** | Heavy missile/Feuerbach/Flammenspeer and FTO hacking, real played structure; just above preferred band and 3.5 SWC constrains the remaining list. |
-| 11 | **A** | [D15 — Tohaa Gao-Rael/MSV2 recovery Triad](#d15) | 3 / **L3** | **64 / 1** | Economical MSV2 sniper, Eclipse/HFT close screen, Doctor/Engineer; only three linked bodies, so no +BS/Sixth Sense. |
-| 12 | **A** | [D20 — Morat Yaogat/Dartok/Vanguard Haris](#d20) | 3 / **L3** | **65 / 2** | Visor sniper plus Pitcher hacker and FO, all Morat-equivalent; `+1B` sniper modifier is *active-turn only*, 2 SWC. |
-| 13 | **A** | [D09 — White Company Hawkwood/Emily Fusilier Core](#d09) | 5 / **L5** | **100 / 1.5** | FT5 K1 sniper alongside E/M, CoC, hacking and FO; significant toolbox depth, but shooter is still one exposed model and no MSV2. |
-| 14 | **A** | [D14 — TAK Vystrel Neuro artillery Haris](#d14) | 3 / **L3** | **41 / 0.5** | Full reactive-Burst AP sniper on Sapper/STR2 chassis, same-identity L3 and nearby HFT; limited raw BS and opponent can approach around the lane. |
-| 15 | **A** | [D19 — Qapu double-Djanbazan sniper/HMG Duo](#d19) | 2 / **L2** | **58 / 2** | Tested visor sniper/HMG pairing gives serious long lanes and L2 SD; only two bodies, no dedicated recovery, expensive SWC for its coverage. |
+| Rank | Tier | Fireteam | Units / exact profiles | # units | FT level | Pts / SWC | ARO rationale and principal liability |
+| ---: | --- | --- | --- | --- | --- | --- | --- |
+| 1 | **S** | [WinterFor Knight of Justice ML / Fusilier Core](#d01) | <ul><li>Knight of Justice **opt 1**, Missile Launcher **BS Attack (+1 SD)** — **46/1.5**</li><li>Fusilier **opt 1**, Combi Rifle — **10/0 each**</li><li>Fusilier **opt 1**, Combi Rifle — **10/0 each**</li><li>Fusilier **opt 8**, Forward Observer/Repeater — **12/0**</li><li>Fusilier **opt 9**, Paramedic — **12/0**</li></ul> | 5 | L4 | **90 / 1.5** | Native ML **+1 SD** stacks with FT bonus; FT4 adds +1 BS, giving an unusually punishing, ARM5/W2 missile anchor for under 100. No visor or FT5 Sixth Sense; four soft supports must survive. |
+| 2 | **S** | [Varuna five-Kamau Undertow Core](#d02) | <ul><li>Kamau **opt 6**, MSV2 MULTI Sniper — **29/1.5**</li><li>Kamau **opt 5**, MSV1 Heavy Rocket Launcher — **23/1.5**</li><li>Kamau **opt 4**, Tactical Awareness Paramedic — **25/0**</li><li>Kamau **opt 7**, Forward Observer/Sensor — **23/0**</li><li>Kamau **opt 1**, Combi Rifle/E/M Carbine — **20/0**</li></ul> | 5 | L5 | **120 / 3** | Mimetism(-3), MSV2 MULTI Sniper, MSV1 HRL, FO/Sensor, Tactical Awareness Paramedic, full bonuses. High 3 SWC, W1 models and no embedded Engineer. |
+| 3 | **S** | [Kestrel Black A.I.R. Neuro Fennecs Core](#d03) | <ul><li>Black A.I.R. **FTO opt 3**, Neurocinetics MSV2 MULTI Sniper — **33/1.5**</li><li>Fennec **opt 9**, FO/Disco/Sensor — **13/0**</li><li>Fennec **opt 11**, Lieutenant — **10/0**</li><li>Fennec **opt 1**, Combi Rifle — **10/0**</li></ul> | 4 | L3 | **66 / 1.5** | Native Neurocinetics MULTI Sniper, MSV2/Mimetism(-3), extra Fireteam SD; unusually concentrated reactive FtF for the spend. Only **L3**, not L4; fragile sniper. |
+| 4 | **S** | [Neoterra Bolt missile/recovery Core](#d04) | <ul><li>Bolt **opt 4**, Marksmanship Missile Launcher — **24/1.5**</li><li>Bolt **opt 6**, Chain of Command/Drop Bears — **26/0**</li><li>Bolt **opt 8**, Killer Hacker/E/M Mine — **22/0**</li><li>Bolt **opt 3**, Boarding Shotgun (+1B)/Drop Bears — **19/0**</li><li>Machinist NCA **opt 4**, Engineer — **17/0**</li></ul> | 5 | L5 | **108 / 1.5** | Marksmanship ML, CoC, KHD, Drop Bears/BSG and Engineer in a full-bonus team. No MSV2; multiple one-Wound MI and valuable models clustered. |
+| 5 | **A+** | [Kestrel Griffin Feuerbach Fennecs Core](#d05) | <ul><li>Griffin **opt 3**, Feuerbach/MSV1 — **38/1.5**</li><li>Bipandra **opt 1**, Doctor — **23/0**</li><li>Fennec **opt 5**, Thunderbolt — **14/0 each**</li><li>Fennec **opt 5**, Thunderbolt — **14/0 each**</li><li>Fennec **opt 1**, Combi Rifle — **10/0**</li></ul> | 5 | L5 | **99 / 1.5** | ARM4/W2 BS14 MSV1 Feuerbach, two Thunderbolt lanes and Doctor, full L5 for 99. Exposed, predictable anchor; not simultaneous with Kestrel Black A.I.R. Neuro Fennecs Core's Core. |
+| 6 | **A+** | [Onyx Unidron ML/plasma/network Core](#d06) | <ul><li>Unidron **opt 5**, Missile Launcher — **20/1.5**</li><li>Unidron **opt 4**, Plasma Sniper — **24/1.5**</li><li>Unidron **opt 7**, Forward Observer — **15/0**</li><li>Nexus **opt 5**, Engineer — **23/0**</li><li>Kerr-Nau **opt 1**, KHD/White Noise/Pitcher — **30/0**</li></ul> | 5 | L5 | **112 / 3** | Missile, plasma sniper, Engineer and Kerr-Nau KHD/White Noise form a layered reactive/hacking screen; 3 SWC and hacker/network dependence. |
+| 7 | **A+** | [Bakunin Riot Grrl ML/Avicenna Core](#d07) | <ul><li>Riot Grrl **opt 5**, Missile Launcher — **30/1.5**</li><li>Riot Grrl **opt 3**, BSG/TinBot Firewall(-6) — **24/0**</li><li>Riot Grrl **opt 7**, E/Mitter Specialist Operative — **29/0**</li><li>Avicenna **opt 1**, Doctor(+3)/Flash Pulse — **28/0**</li></ul> | 4 | L4 | **111 / 1.5** | W2/ARM3 MSV1 missile and a Doctor(+3), specialist and close guard; FT4 +BS. Only four members: no L5 Sixth Sense; templates and smoke/control remain counters. |
+| 8 | **A+** | [Steel Phalanx Phoenix/Machaon Myrmidon Core](#d08) | <ul><li>Phoenix **opt 1**, Heavy Rocket Launcher/Mimetism(-6) — **32/1.5**</li><li>Machaon **opt 1**, Doctor — **37/0.5**</li><li>Myrmidon Officer **opt 2**, Chain of Command AP SMG — **30/0.5**</li><li>Myrmidon **opt 4**, Chain Rifle — **16/0**</li></ul> | 4 | L4 | **115 / 2.5** | Mimetism(-6) HRL Phoenix, strong Doctor, CoC, Eclipse/CC approaches and L4. No L5 possible in this sectorial; less direct MSV answer, smoke-dependent counterplay. |
+| 9 | **A+** | [Tohaa Sukeul K1 Sniper / double Kaeltar Triad](#d11) | <ul><li>Sukeul **#3**, K1 Sniper — **28/1**</li><li>Kaeltar **#1**, SymbioMate — **15/0**</li><li>Kaeltar **#3**, Chain of Command/SymbioMate — **21/0.5**</li></ul> | 3 | L3 | **64 / 1.5** | K1 long-range denial, two SymbioMate options and CoC offer defensive persistence; lacks L4 +BS and a built-in MSV. |
+| 10 | **A+ (conditional)** | [Morat heavy MSV/Feuerbach Core](#d10) | <ul><li>Suryat **HRL/MSV1** — **36/1.5**</li><li>Kaitok **Feuerbach/TinBot** — **34/1.5**</li><li>Kaitok **Flammenspeer** — **19/0**</li><li>Morat Vanguard **Lieutenant** — **14/0**</li><li>Dartok **FTO Hacker/Pitcher** — **18/0.5**</li></ul> | 5 | L5 | **121 / 3.5** | Heavy missile/Feuerbach/Flammenspeer and FTO hacking, real played structure; just above preferred band and 3.5 SWC constrains the remaining list. |
+| 11 | **A** | [Tohaa Gao-Rael/MSV2 recovery Triad](#d15) | <ul><li>Gao-Rael **#1**, MSV2 Sniper — **29/1**</li><li>Makaul **#1**, HFT/Eclipse/Viral CCW — **14/0**</li><li>Kumotail **sole Doctor+Engineer profile** — **21/0**</li></ul> | 3 | L3 | **64 / 1** | Economical MSV2 sniper, Eclipse/HFT close screen, Doctor/Engineer; only three linked bodies, so no +BS/Sixth Sense. |
+| 12 | **A** | [Morat Yaogat/Dartok/Vanguard Haris](#d20) | <ul><li>Yaogat **MULTI Sniper (+1B)** — **32/1.5**</li><li>Morat Vanguard **Forward Observer** — **15/0**</li><li>Dartok **FTO Hacker/Pitcher** — **18/0.5**</li></ul> | 3 | L3 | **65 / 2** | Visor sniper plus Pitcher hacker and FO, all Morat-equivalent; `+1B` sniper modifier is *active-turn only*, 2 SWC. |
+| 13 | **A** | [White Company Hawkwood/Emily Fusilier Core](#d09) | <ul><li>Hawkwood **opt 6**, K1 Sniper — **35/1**</li><li>Emily Handelman **opt 2**, Chain of Command/E/M Grenade Launcher — **28/0**</li><li>Fusilier **opt 6**, Hacker — **15/0.5**</li><li>Fusilier **opt 10**, Lieutenant — **10/0**</li><li>Fusilier **opt 8**, Forward Observer — **12/0**</li></ul> | 5 | L5 | **100 / 1.5** | FT5 K1 sniper alongside E/M, CoC, hacking and FO; significant toolbox depth, but shooter is still one exposed model and no MSV2. |
+| 14 | **A** | [TAK Vystrel Neuro artillery Haris](#d14) | <ul><li>Vystrel **opt 3**, Neurocinetics AP Sniper — **26/0.5**</li><li>Traktor Mul **opt 1**, Baggage/Deactivator — **5/0**</li><li>Barsuk **FTO opt 1**, Heavy Flamethrower — **10/0**</li></ul> | 3 | L3 | **41 / 0.5** | Full reactive-Burst AP sniper on Sapper/STR2 chassis, same-identity L3 and nearby HFT; limited raw BS and opponent can approach around the lane. |
+| 15 | **A** | [Qapu double-Djanbazan sniper/HMG Duo](#d19) | <ul><li>Djanbazan **AP/Shock Sniper** — **27/0.5**</li><li>Djanbazan **HMG** — **31/1.5**</li></ul> | 2 | L2 | **58 / 2** | Tested visor sniper/HMG pairing gives serious long lanes and L2 SD; only two bodies, no dedicated recovery, expensive SWC for its coverage. |
 
 **Apex omissions are deliberate:** a bargain ML Core may be top-tier *value* without challenging native Neuro, stacked SD, MSV or durable premium shooters on maximum single-lane FtF quality. Conversely a large 121pt Core must demonstrably outperform smaller teams to justify the tax.
 
@@ -41,23 +30,23 @@ All ranked constructions stay inside the preferred ≤120-point band **except D1
 
 Value rewards useful ARO pressure *plus* remaining Orders and scoring. It penalizes Fireteams that consume the sole Core to gain a modest shooting bonus, or commit several expensive troops to one template-prone lane.
 
-| Rank | Tier | Fireteam (see build) | Bodies / FT level | Pts / SWC | Why the investment works |
-|---:|:---:|---|:---:|---:|---|
-| 1 | **S** | [D14 — TAK Vystrel Neuro Gunnery Haris](#d14) | 3 / **L3** | **41 / 0.5** | Neuro AP sniper, cheap artillery member, HFT, preserves Core and pays only 0.5 SWC. |
-| 2 | **S** | [D13 — White Banner Zhanshi ML Core](#d13) | 5 / **L5** | **61 / 1.5** | Five true Zhanshi-equivalent models: ML, Doctor, FO, FTO flame coverage, full Sixth Sense. |
-| 3 | **S** | [D03 — Black A.I.R. Fennecs Core](#d03) | 4 / **L3** | **66 / 1.5** | Premium Neuro+visor reactive shot and three cheap order-bearing Fennecs; trades away FT4/FT5. |
-| 4 | **A+** | [D18 — IA Hǎidào Zhanshi Haris](#d18) | 3 / **L2** | **53 / 1.5** | MSV2 MULTI Sniper and Doctor/support at Haris cost; only L2, but preserves Core. |
-| 5 | **A+** | [D15 — Gao-Rael/Makaul/Kumotail Triad](#d15) | 3 / **L3** | **64 / 1** | MSV2 long gun + Eclipse/HFT + Doctor/Engineer, no Core slot in Tohaa. |
-| 6 | **A+** | [D05 — Griffin/Fennecs full Core](#d05) | 5 / **L5** | **99 / 1.5** | Durable Feuerbach, two cheap Thunderbolts, Doctor and full levels at low SWC. |
-| 7 | **A+** | [D12 — Qapu Ghulam medical/ARO Core](#d12) | 5 / **L5** | **86 / 1.5** | Missile, Doctor, Disco, KHD and cheap Lt; valuable layered mission denial. |
-| 8 | **A+** | [D04 — Bolt ML + Machinist Core](#d04) | 5 / **L5** | **108 / 1.5** | Stronger and safer than most budget line-infantry missile walls; useful CoC and KHD. |
-| 9 | **A+** | [D11 — Sukeul/Kaeltar Triad](#d11) | 3 / **L3** | **64 / 1.5** | A real K1 anti-heavy firelane backed by two SymbioMate options and CoC. |
-| 10 | **A** | [D17 — IA Zhanshi/Gūdǎn/Chief Jeong Core](#d17) | 5 / **L5** | **78 / 1.5** | Cheap full-level ML plus Doctor, HFT and Chief Jeong engineer; more utility than a pure line Core. |
-| 11 | **A** | [D20 — Yaogat/Vanguard/Dartok Haris](#d20) | 3 / **L3** | **65 / 2** | FT3 visor shooter and hacking/FO tools in a Haris; 2 SWC is the price. |
-| 12 | **A** | [D16 — OSS Dikpala-equivalent Core](#d16) | 5 / **L5** | **84 / 1** | L5 HMG/Repeater, Commlink specialist, Deva KHD and close deterrent without 1.5-SWC sniper tax. |
-| 13 | **A** | [D21 — WinterFor Nisse/Machinist Duo](#d21) | 2 / **L2** | **46 / 1.5** | MSV2 Mimetism sniper with Engineer, leaves the entire Core and Haris allocation untouched. |
-| 14 | **A** | [D01 — KoJ missile / cheap Fusiliers Core](#d01) | 5 / **L4** | **90 / 1.5** | Elite double-SD missile threat for a surprisingly low total; value falls quickly if soft Fusiliers are removed. |
-| 15 | **A** | [D09 — White Company Hawkwood/Emily Core](#d09) | 5 / **L5** | **100 / 1.5** | K1 long-range ARO plus functional CoC/E/M, FO and hacking; five fully equivalent members. |
+| Rank | Tier | Fireteam | Units / exact profiles | # units | FT level | Pts / SWC | Why the investment works |
+| ---: | --- | --- | --- | --- | --- | --- | --- |
+| 1 | **S** | [TAK Vystrel Neuro Gunnery Haris](#d14) | <ul><li>Vystrel **opt 3**, Neurocinetics AP Sniper — **26/0.5**</li><li>Traktor Mul **opt 1**, Baggage/Deactivator — **5/0**</li><li>Barsuk **FTO opt 1**, Heavy Flamethrower — **10/0**</li></ul> | 3 | L3 | **41 / 0.5** | Neuro AP sniper, cheap artillery member, HFT, preserves Core and pays only 0.5 SWC. |
+| 2 | **S** | [White Banner Zhanshi ML Core](#d13) | <ul><li>Zhanshi **opt 5**, Missile Launcher — **15/1.5**</li><li>Zhanshi **opt 8**, Forward Observer — **11/0**</li><li>Zhanshi **opt 1**, Combi Rifle — **10/0**</li><li>Zhanshi Yīshēng **opt 1**, Doctor — **14/0**</li><li>Gūdǎn **FTO opt 1**, Heavy Flamethrower — **11/0**</li></ul> | 5 | L5 | **61 / 1.5** | Five true Zhanshi-equivalent models: ML, Doctor, FO, FTO flame coverage, full Sixth Sense. |
+| 3 | **S** | [Black A.I.R. Fennecs Core](#d03) | <ul><li>Black A.I.R. **FTO opt 3**, Neurocinetics MSV2 MULTI Sniper — **33/1.5**</li><li>Fennec **opt 9**, FO/Disco/Sensor — **13/0**</li><li>Fennec **opt 11**, Lieutenant — **10/0**</li><li>Fennec **opt 1**, Combi Rifle — **10/0**</li></ul> | 4 | L3 | **66 / 1.5** | Premium Neuro+visor reactive shot and three cheap order-bearing Fennecs; trades away FT4/FT5. |
+| 4 | **A+** | [IA Hǎidào Zhanshi Haris](#d18) | <ul><li>Hǎidào **opt 6**, MSV2 MULTI Sniper — **29/1.5**</li><li>Zhanshi Yīshēng **opt 1**, Doctor — **14/0**</li><li>Zhanshi **opt 1**, Combi Rifle — **10/0**</li></ul> | 3 | L2 | **53 / 1.5** | MSV2 MULTI Sniper and Doctor/support at Haris cost; only L2, but preserves Core. |
+| 5 | **A+** | [Gao-Rael/Makaul/Kumotail Triad](#d15) | <ul><li>Gao-Rael **#1**, MSV2 Sniper — **29/1**</li><li>Makaul **#1**, HFT/Eclipse/Viral CCW — **14/0**</li><li>Kumotail **sole Doctor+Engineer profile** — **21/0**</li></ul> | 3 | L3 | **64 / 1** | MSV2 long gun + Eclipse/HFT + Doctor/Engineer, no Core slot in Tohaa. |
+| 6 | **A+** | [Griffin/Fennecs full Core](#d05) | <ul><li>Griffin **opt 3**, Feuerbach/MSV1 — **38/1.5**</li><li>Bipandra **opt 1**, Doctor — **23/0**</li><li>Fennec **opt 5**, Thunderbolt — **14/0 each**</li><li>Fennec **opt 5**, Thunderbolt — **14/0 each**</li><li>Fennec **opt 1**, Combi Rifle — **10/0**</li></ul> | 5 | L5 | **99 / 1.5** | Durable Feuerbach, two cheap Thunderbolts, Doctor and full levels at low SWC. |
+| 7 | **A+** | [Qapu Ghulam medical/ARO Core](#d12) | <ul><li>Ghulam **Missile Launcher** — **17/1.5**</li><li>Ghulam **Doctor(+1)** — **15/0**</li><li>Ghulam **Lieutenant/rifle** — **11/0**</li><li>Odalisque **Disco Baller** — **21/0**</li><li>Leila Sharif **KHD** — **22/0**</li></ul> | 5 | L5 | **86 / 1.5** | Missile, Doctor, Disco, KHD and cheap Lt; valuable layered mission denial. |
+| 8 | **A+** | [Bolt ML + Machinist Core](#d04) | <ul><li>Bolt **opt 4**, Marksmanship Missile Launcher — **24/1.5**</li><li>Bolt **opt 6**, Chain of Command/Drop Bears — **26/0**</li><li>Bolt **opt 8**, Killer Hacker/E/M Mine — **22/0**</li><li>Bolt **opt 3**, Boarding Shotgun (+1B)/Drop Bears — **19/0**</li><li>Machinist NCA **opt 4**, Engineer — **17/0**</li></ul> | 5 | L5 | **108 / 1.5** | Stronger and safer than most budget line-infantry missile walls; useful CoC and KHD. |
+| 9 | **A+** | [Sukeul/Kaeltar Triad](#d11) | <ul><li>Sukeul **#3**, K1 Sniper — **28/1**</li><li>Kaeltar **#1**, SymbioMate — **15/0**</li><li>Kaeltar **#3**, Chain of Command/SymbioMate — **21/0.5**</li></ul> | 3 | L3 | **64 / 1.5** | A real K1 anti-heavy firelane backed by two SymbioMate options and CoC. |
+| 10 | **A** | [IA Zhanshi/Gūdǎn/Chief Jeong Core](#d17) | <ul><li>Zhanshi **opt 5**, Missile Launcher — **15/1.5**</li><li>Zhanshi **opt 8**, Forward Observer — **11/0**</li><li>Zhanshi Yīshēng **opt 1**, Doctor — **14/0**</li><li>Gūdǎn **FTO opt 1**, Heavy Flamethrower — **11/0**</li><li>Chief Jeong **opt 2**, K1 Combi/Engineer — **27/0**</li></ul> | 5 | L5 | **78 / 1.5** | Cheap full-level ML plus Doctor, HFT and Chief Jeong engineer; more utility than a pure line Core. |
+| 11 | **A** | [Yaogat/Vanguard/Dartok Haris](#d20) | <ul><li>Yaogat **MULTI Sniper (+1B)** — **32/1.5**</li><li>Morat Vanguard **Forward Observer** — **15/0**</li><li>Dartok **FTO Hacker/Pitcher** — **18/0.5**</li></ul> | 3 | L3 | **65 / 2** | FT3 visor shooter and hacking/FO tools in a Haris; 2 SWC is the price. |
+| 12 | **A** | [OSS Dikpala-equivalent Core](#d16) | <ul><li>Dikpala **opt 2**, HMG — **21/1**</li><li>Dikpala **opt 5**, SMG/Repeater — **13/0**</li><li>Dikpala **opt 4**, Commlink Specialist — **15/0**</li><li>Deva **opt 5**, KHD/BSG — **20/0**</li><li>Sharvara **opt 3**, Adhesive/Riotstopper — **15/0**</li></ul> | 5 | L5 | **84 / 1** | L5 HMG/Repeater, Commlink specialist, Deva KHD and close deterrent without 1.5-SWC sniper tax. |
+| 13 | **A** | [WinterFor Nisse/Machinist Duo](#d21) | <ul><li>Nisse **opt 3**, MSV2 MULTI Sniper — **29/1.5**</li><li>Machinist **opt 2**, Engineer — **17/0**</li></ul> | 2 | L2 | **46 / 1.5** | MSV2 Mimetism sniper with Engineer, leaves the entire Core and Haris allocation untouched. |
+| 14 | **A** | [KoJ missile / cheap Fusiliers Core](#d01) | <ul><li>Knight of Justice **opt 1**, Missile Launcher **BS Attack (+1 SD)** — **46/1.5**</li><li>Fusilier **opt 1**, Combi Rifle — **10/0 each**</li><li>Fusilier **opt 1**, Combi Rifle — **10/0 each**</li><li>Fusilier **opt 8**, Forward Observer/Repeater — **12/0**</li><li>Fusilier **opt 9**, Paramedic — **12/0**</li></ul> | 5 | L4 | **90 / 1.5** | Elite double-SD missile threat for a surprisingly low total; value falls quickly if soft Fusiliers are removed. |
+| 15 | **A** | [White Company Hawkwood/Emily Core](#d09) | <ul><li>Hawkwood **opt 6**, K1 Sniper — **35/1**</li><li>Emily Handelman **opt 2**, Chain of Command/E/M Grenade Launcher — **28/0**</li><li>Fusilier **opt 6**, Hacker — **15/0.5**</li><li>Fusilier **opt 10**, Lieutenant — **10/0**</li><li>Fusilier **opt 8**, Forward Observer — **12/0**</li></ul> | 5 | L5 | **100 / 1.5** | K1 long-range ARO plus functional CoC/E/M, FO and hacking; five fully equivalent members. |
 
 ## Exact costed compositions and legality
 
@@ -65,7 +54,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d01"></a>
 
-### D01 — WinterFor KoJ missile / Fusilier Core
+### WinterFor KoJ missile / Fusilier Core
 
 **WinterFor Fusiliers Core · 5 models · FT L4 · 90 pts / 1.5 SWC · Constructed.** One real Fusilier is required; four native Fusiliers count together, while the Knight of Justice is a legal non-counting Wildcard. [SWF chart and profiles](../../../sectorials/panoceania/svalarheima-s-winter-force.md).
 
@@ -78,7 +67,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d02"></a>
 
-### D02 — Varuna five-Kamau Undertow Core
+### Varuna five-Kamau Undertow Core
 
 **Undertow Core · 5 models · FT L5 · 120 pts / 3 SWC · Constructed.** Five Kamau (max five) share Undertow identity and satisfy the Kamau/ORC required-choice foundation. [Varuna chart and profiles](../../../sectorials/panoceania/varuna-immediate-reaction-division.md).
 
@@ -92,7 +81,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d03"></a>
 
-### D03 — Kestrel Black A.I.R. Neuro Fennecs Core
+### Kestrel Black A.I.R. Neuro Fennecs Core
 
 **FENNECS Core · 4 models · FT L3 · 66 pts / 1.5 SWC · Played unit architecture, N5.3 options reconstructed.** The Black A.I.R. must be **FTO opt 3**; it does **not** count as a Fennec. [Kestrel audited builds](../../../sectorials/panoceania/kestrel-colonial-force.md) / [reports #002–004](../../battle-reports/001-010-n5-battle-report-tactical-analysis.md).
 
@@ -101,11 +90,11 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 - Fennec **opt 11**, Lieutenant — **10/0**.
 - Fennec **opt 1**, Combi Rifle — **10/0**.
 
-**Role:** reactive full-Burst sniper with L2's +1 SD. **Only three** Fennecs match; four physical members provide **L3**, not L4. Mutually exclusive as the one Core with D05.
+**Role:** reactive full-Burst sniper with L2's +1 SD. **Only three** Fennecs match; four physical members provide **L3**, not L4. Mutually exclusive as the one Core with Kestrel Griffin Feuerbach Fennecs Core.
 
 <a id="d04"></a>
 
-### D04 — Neoterra Bolt missile/recovery Core
+### Neoterra Bolt missile/recovery Core
 
 **Neoterra Core · 5 models · FT L5 · 108 pts / 1.5 SWC · Constructed.** Bolt/ORC required-choice met; Machinist explicitly counts as Bolt. [NCA chart and audited builds](../../../sectorials/panoceania/neoterran-capitaline-army.md).
 
@@ -119,7 +108,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d05"></a>
 
-### D05 — Kestrel Griffin Feuerbach Fennecs Core
+### Kestrel Griffin Feuerbach Fennecs Core
 
 **FENNECS Core · 5 models · FT L5 · 99 pts / 1.5 SWC · Played unit architecture #175, options reconstructed.** Griffin and Bipandra explicitly count as Fennec; at least one real Fennec is present. [Kestrel audited builds](../../../sectorials/panoceania/kestrel-colonial-force.md) / [report #175](../../battle-reports/171-180-n5-battle-report-tactical-analysis.md).
 
@@ -128,11 +117,11 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 - 2 × Fennec **opt 5**, Thunderbolt — **14/0 each**.
 - Fennec **opt 1**, Combi Rifle — **10/0**.
 
-**Role:** BS14, ARM4/W2 main gun with affordable secondary lanes and actual recovery. This uses the same **single Kestrel Core slot** as D03.
+**Role:** BS14, ARM4/W2 main gun with affordable secondary lanes and actual recovery. This uses the same **single Kestrel Core slot** as Kestrel Black A.I.R. Neuro Fennecs Core.
 
 <a id="d06"></a>
 
-### D06 — Onyx Unidron ML/plasma/network Core
+### Onyx Unidron ML/plasma/network Core
 
 **Unidron Core · 5 models · FT L5 · 112 pts / 3 SWC · Constructed.** Three native Unidrons meet minimum; Nexus and Kerr-Nau count as Unidron in this Fireteam. [Onyx chart and costed builds](../../../sectorials/combined-army/onyx.md).
 
@@ -146,7 +135,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d07"></a>
 
-### D07 — Bakunin Riot Grrl ML/Avicenna Core
+### Bakunin Riot Grrl ML/Avicenna Core
 
 **Riot Grrls Core · 4 models · FT L4 · 111 pts / 1.5 SWC · Constructed.** One native Riot Grrl required; Avicenna is a legal Riot Grrl-counting member. [Bakunin chart and option table](../../../sectorials/nomads/bakunin.md).
 
@@ -159,7 +148,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d08"></a>
 
-### D08 — Steel Phalanx Phoenix/Machaon Myrmidon Core
+### Steel Phalanx Phoenix/Machaon Myrmidon Core
 
 **Myrmidons Core · 4 models (sectorial maximum) · FT L4 · 115 pts / 2.5 SWC · Constructed; three-body architecture seen #190.** Phoenix/Machaon/Officer count as Myrmidon. [Steel Phalanx chart and builds](../../../sectorials/aleph/steel-phalanx.md).
 
@@ -172,7 +161,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d09"></a>
 
-### D09 — White Company Hawkwood/Emily Fusilier Core
+### White Company Hawkwood/Emily Fusilier Core
 
 **Fusiliers Core · 5 models · FT L5 · 100 pts / 1.5 SWC · Report #112 inspired, pinned options reconstructed.** Hawkwood and Emily count as Fusilier; real Fusilier present. [White Company chart and costed builds](../../../sectorials/na2/white-company.md).
 
@@ -186,7 +175,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d10"></a>
 
-### D10 — Morat heavy MSV/Feuerbach Core
+### Morat heavy MSV/Feuerbach Core
 
 **MORAT Core · 5 models · FT L5 · 121 pts / 3.5 SWC · Conditional Apex · Played #198, profiles reconstructed.** Source members share the Morat bracket identity and satisfy the foundation. [Morat chart and played five](../../../sectorials/combined-army/morat-aggression-forces.md).
 
@@ -200,7 +189,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d11"></a>
 
-### D11 — Tohaa Sukeul Sniper/Kaeltar Triad
+### Tohaa Sukeul Sniper/Kaeltar Triad
 
 **Triad Haris · 3 models · FT L3 · 64 pts / 1.5 SWC · Played unit architecture #200, N5.3 loadouts reconstructed.** All three are Triad-equivalent; Tohaa has **no Core**. [Tohaa costed compositions](../../../sectorials/tohaa/tohaa.md).
 
@@ -212,7 +201,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d12"></a>
 
-### D12 — Qapu Ghulam missile/medical Core
+### Qapu Ghulam missile/medical Core
 
 **Ghulam Core · 5 models · FT L5 · 86 pts / 1.5 SWC · Constructed.** Three native Ghulams; Odalisque and Leila count as Ghulam in this chart. [Qapu compositions Q17](../../../sectorials/haqqislam/qapu-khalqi.md).
 
@@ -226,7 +215,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d13"></a>
 
-### D13 — White Banner Zhanshi missile Core
+### White Banner Zhanshi missile Core
 
 **Zhanshi Core · 5 models · FT L5 · 61 pts / 1.5 SWC · Constructed.** Native Zhanshi required; Yīshēng and **Gūdǎn FTO opt 1** count as Zhanshi. [White Banner validated builds](../../../sectorials/yu-jing/white-banner.md).
 
@@ -240,7 +229,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d14"></a>
 
-### D14 — TAK Vystrel Neuro artillery Haris
+### TAK Vystrel Neuro artillery Haris
 
 **Gunnery Haris · 3 models · FT L3 · 41 pts / 0.5 SWC · Constructed, Gunnery Duo architecture appeared in #064/#067.** The Vystrel satisfies required Gunnery foundation; Barsuk must be **FTO**. [TAK audited Fireteams](../../../sectorials/ariadna/tartary-army-corps.md).
 
@@ -252,7 +241,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d15"></a>
 
-### D15 — Tohaa Gao-Rael/MSV2 recovery Triad
+### Tohaa Gao-Rael/MSV2 recovery Triad
 
 **Triad Haris · 3 models · FT L3 · 64 pts / 1 SWC · Constructed.** Three Triad-equivalent members, not a Core. [Tohaa exact examples](../../../sectorials/tohaa/tohaa.md).
 
@@ -264,7 +253,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d16"></a>
 
-### D16 — OSS Dikpala network Core
+### OSS Dikpala network Core
 
 **OperationS Core · 5 models · FT L5 · 84 pts / 1 SWC · Constructed.** Dikpala/Deva/Sharvara share applicable OperationS identity. [OSS audited combinations](../../../sectorials/aleph/operations-subsection.md).
 
@@ -278,7 +267,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d17"></a>
 
-### D17 — Invincible Army Zhanshi/Chief Jeong Core
+### Invincible Army Zhanshi/Chief Jeong Core
 
 **Zhanshi Core · 5 models · FT L5 · 78 pts / 1.5 SWC · Constructed.** Native Zhanshi present; Yīshēng, Gūdǎn FTO and Chief Jeong count as Zhanshi. [IA audited compositions](../../../sectorials/yu-jing/invincible-army.md).
 
@@ -292,7 +281,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d18"></a>
 
-### D18 — Invincible Army Hǎidào Zhanshi Haris
+### Invincible Army Hǎidào Zhanshi Haris
 
 **Zhanshi Haris · 3 models · FT L2 · 53 pts / 1.5 SWC · Played #212 architecture, current options reconstructed.** At least one native Zhanshi is present; Hǎidào is Wildcard but not Zhanshi-equivalent. [IA audited compositions](../../../sectorials/yu-jing/invincible-army.md).
 
@@ -304,7 +293,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d19"></a>
 
-### D19 — Qapu double-Djanbazan Duo
+### Qapu double-Djanbazan Duo
 
 **Qapu Khalqi Duo · 2 models · FT L2 · 58 pts / 2 SWC · Played #006 architecture, pinned options reconstructed.** Two Djanbazan are eligible in Qapu Khalqi; same Unit gives L2. [Qapu compositions Q1](../../../sectorials/haqqislam/qapu-khalqi.md).
 
@@ -315,7 +304,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d20"></a>
 
-### D20 — Morat Yaogat/Dartok/Vanguard Haris
+### Morat Yaogat/Dartok/Vanguard Haris
 
 **MORAT Haris · 3 models · FT L3 · 65 pts / 2 SWC · Constructed.** Three models carry Morat identity; Dartok is **FTO**. [Morat costed formations](../../../sectorials/combined-army/morat-aggression-forces.md).
 
@@ -327,7 +316,7 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 <a id="d21"></a>
 
-### D21 — WinterFor Nisse/Machinist Duo
+### WinterFor Nisse/Machinist Duo
 
 **Nisses Duo · 2 models · FT L2 · 46 pts / 1.5 SWC · Played #012 architecture, pinned options reconstructed.** Nisse is compulsory; WinterFor Machinist counts as Nisse. [SWF audited formations](../../../sectorials/panoceania/svalarheima-s-winter-force.md).
 
@@ -338,9 +327,9 @@ Profile option IDs, per-model costs, team family and starting FT level are liste
 
 ## Competition, evidence and deployment notes
 
-- **Kestrel D03 vs D05:** these are **alternative FENNECS Cores**, not two simultaneous Cores. D03 buys native Neuro and MSV2 at L3; D05 buys the W2 Griffin, secondary guns, Doctor and L5 at higher cost.
-- **Cheap full-level Cores vs premium shooters:** White Banner D13 and IA D17 excel on budget, but a B1 Zhanshi ML cannot be called equivalent to a Neuro sniper or a KoJ with two stacked Special Dice. Strong *value* does not automatically confer top *apex*.
-- **Tohaa:** D11 and D15 are **Haris/Triads**, because Tohaa's current chart has **no Core**, unlimited eligible Haris/Triads and at most two Duos. Three matching bodies max out at **L3**. They can be useful in multiple lanes without surrendering a nonexistent Core slot.
+- **Kestrel Kestrel Black A.I.R. Neuro Fennecs Core vs Kestrel Griffin Feuerbach Fennecs Core:** these are **alternative FENNECS Cores**, not two simultaneous Cores. Kestrel Black A.I.R. Neuro Fennecs Core buys native Neuro and MSV2 at L3; Kestrel Griffin Feuerbach Fennecs Core buys the W2 Griffin, secondary guns, Doctor and L5 at higher cost.
+- **Cheap full-level Cores vs premium shooters:** White Banner White Banner Zhanshi missile Core and IA Invincible Army Zhanshi/Chief Jeong Core excel on budget, but a B1 Zhanshi ML cannot be called equivalent to a Neuro sniper or a KoJ with two stacked Special Dice. Strong *value* does not automatically confer top *apex*.
+- **Tohaa:** Tohaa Sukeul Sniper/Kaeltar Triad and Tohaa Gao-Rael/MSV2 recovery Triad are **Haris/Triads**, because Tohaa's current chart has **no Core**, unlimited eligible Haris/Triads and at most two Duos. Three matching bodies max out at **L3**. They can be useful in multiple lanes without surrendering a nonexistent Core slot.
 - **Black A.I.R., Haidào, Machinist and Wildcards:** verify the exact FTO/options and actual counts-as identity before changing members. A five-model Core with only three equivalent members remains L3; Sixth Sense and +BS must never be awarded from headcount alone.
 - **Layered coverage beats a picturesque firing squad:** stagger LoF, avoid letting one template trade into several linked members, protect a retreat/Guts square and keep short-range/deployable defenses for camo, impersonation, AD and smoke/White Noise bypass. Most ranked gunlines are **not** substitutes for separate close-DZ guards.
 - **Report provenance:** ranked entries supported by reports explicitly distinguish **observed team architecture** from **modern priced options**; a single observed match is neither a demonstrated win rate nor a proof of all-comers superiority. [Battle-report index](../../battle-reports/n5-battle-reports-and-tournament-reports.md) and each sectorial's pinned source/provenance are the validation entry points.
