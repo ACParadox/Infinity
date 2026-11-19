@@ -37,7 +37,22 @@ Coverage notes:
 - Army encodes **AVA Total** as raw value `255`; this file renders it as `Total`.
 - Source spelling/label oddities such as `TARKSIA` option labels are normalized to the unit's canonical `Tarkshya` name while noted where useful.
 
-## Faction summary
+## Fireteams — no legal standard 2–5-member formations
+
+**Vanilla ALEPH has no ordinary Fireteam chart** in the pinned Army 7.26246.159 source. It cannot newly create Core, Haris or Duo Fireteams, even with an FTO-labelled profile also available in OSS or Steel Phalanx. No standard Fireteam type, level, linked points total, SWC total or Fireteam bonus can be assigned to a Vanilla ALEPH list.
+
+| Proposed number of linked members | Standard Vanilla legality | Fireteam level |
+|---:|---|---|
+| 2 | **Not legal** — no Duo chart | — |
+| 3 | **Not legal** — no Haris/Core chart | — |
+| 4 | **Not legal** — no Core chart | — |
+| 5 | **Not legal** — no Core chart | — |
+
+**Do not confuse combined packages with Fireteams:** Pilot-X + RacerBots are a dependent team record, not a Duo/Haris/Core; Posthumans are G:Jumper bodies sharing a Trooper/Order, not a Fireteam; a TAG with an Engineer, Apsaras TAGCom or Myrmidon Smoke support remains independent. The N5.3 [Fireteam creation rules](https://infinitythewiki.com/Fireteams:_Basic_Rules) and [Fireteam bonus levels](https://infinitythewiki.com/Fireteam_Bonuses) apply only when a legal chart authorizes the formation. Historical army links from OSS/Steel reports cannot be transferred here.
+
+For role-specific costed non-linked combinations and battle reports, see the [Vanilla ALEPH tactical guide](../../notes/factions/vanilla-aleph.md#particularly-powerful-synergies--but-no-standard-vanilla-fireteams).
+
+
 
 | Field | Value |
 |---|---|
