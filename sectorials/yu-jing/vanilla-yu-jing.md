@@ -249,7 +249,7 @@ This section is authoritative for main-force Fireteam legality in this file. The
 | Johnny Kao | 1892 | 1 | — | all vanilla profiles | May join an otherwise legal main-force Yu Jing Fireteam; does not remove chart/team requirements |
 
 
-## Validated Fireteam composition examples (N5.3; 2–3 members)
+## Curated Fireteam composition examples (N5.3; 2–3 members)
 
 **Composition review:** 2026-11-19. Main-force curated composition menu; **not** every possible permutation. Costs are for the precisely named **pinned vanilla** options at Army 7.26246.158. The underlying option IDs were checked against the Yu Jing snapshot rather than importing sectorial-exclusive profiles. A Fireteam's **physical size** does not establish its **Fireteam Level**: count members from the same unit or applicable chart-equivalent unit. `L1` means grouped movement with no Level-2 Special Die. See the [N5.3 Fireteam bonus rules](https://infinitythewiki.com/Fireteam_Bonuses) and [Fireteam chart restrictions](https://infinitythewiki.com/Fireteams_Chart).
 
