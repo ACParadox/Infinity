@@ -442,6 +442,31 @@ The three marked armored entries form a required-choice set.
 | KORNAK | 0 | 1 | Morat |
 | ANYAT | 0 | 1 | Morat |
 
+## Recommended 2–5-member Fireteam compositions (N5.3)
+
+**Interpretation:** Team type and legality come from the canonical chart immediately above. **Fireteam Level (L1–L5)** is the maximum number of same-unit / explicitly `Counts as`-equivalent troopers, **not** automatically team size. L2 grants BS Attack (+1 SD), L3 adds Discover +3/Dodge +1, L4 adds BS +1, and L5 adds Sixth Sense; bonuses are cumulative. Totals below include **only listed member profiles** (not the rest of a 300-point army, mandatory peripheral/support purchases, or optional reinforcements). All points/SWC are N5.3 pinned roster figures; a row being recommended is not proof that it was played in a recorded game. Full profiles and source IDs are in the unit sections above. [Fireteam bonus rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Fireteam creation/eligibility rules](../../rules/6_Command%20and%20Fireteams/Fireteams__Basic_Rules.md).
+
+Morat main chart: **Core 1; Haris 2; Duo unlimited**. Morat and Tarlok teams require at least one of their chart-marked foundation choices; `(Morat)` or `(Tarlok)` equivalence controls bonus Level. Rodoks are **Duo/Haris only** (Rodok/Krakot foundation), Dāturazi are Duo/Haris/Core, Hungries are **Haris/Core** requiring **Oznat FTO**, and armored teams are **Duo only** with a Raicho/Bultrak/Sogarat anchor. **Dartok FTO 18/0.5**, **Rindak FTO 24/0**, and **Oznat FTO 15/0 or 17/0** are not interchangeable with their unlinked profiles; the ordinary Oznat + synchronized Preta is not a Fireteam member. Tarlok gives all its members Terrain (Jungle).
+
+| Priority / composition | FT family and type | Exact profiles (each member: points/SWC) | Total points | Total SWC | FT Level | Interpretation |
+|---|---|---|---:|---:|---:|---|
+| **Best cheap smoke Duo** (2) | Dāturazi Duo | Dāturazi chain rifle + smoke **14/0**; Dāturazi chain rifle + smoke **14/0** | **28** | **0** | **L2** | L2; cheap close-range smoke and CC. |
+| Armored fire-support Duo (2) | Morat Armored Duo | Bultrak HRMC + Tactical Awareness/NCO **69/1.5**; Raicho MULTI HMG + NCO **75/2** | **144** | **3.5** | **L1** | L1; expensive dual TAG, distinct units; Tactical Awareness Orders remain personal. |
+| **Best mixed MSV/Hacker Haris** (3) | MORAT Haris | Yaogat MULTI sniper (+1B) **32/1.5**; Vanguard Forward Observer **15/0**; Dartok FTO hacker + Pitcher **18/0.5** | **65** | **2** | **L3** | L3; three `(Morat)` members; genuine smoke/visor and repeater-toolbox platform. |
+| **Best Tarlok assault Haris** (3) | Tarlok Haris | Suryat HMG + TA/TinBot **44/1.5**; Kaitok chain rifle/Flammenspeer **19/0**; Dartok FTO hacker + Pitcher **18/0.5** | **81** | **2** | **L3** | L3; all `(Tarlok)` and gain Terrain (Jungle). |
+| Rodok mobile ARO Haris (3) | Rodoks Haris | Rodok missile launcher **29/1.5**; Rodok Paramedic **21/0**; Krakot basic assault profile **14/0** | **64** | **1.5** | **L2** | L2: two Rodoks share the name, the Krakot is an allowed foundation alternative. |
+| Hungries trade Haris (3) | Hungries Haris | Oznat FTO Vulkan Shotgun + smoke **17/0**; Preta basic **7/0**; Preta basic **7/0** | **31** | **0** | **L2** | L2 from two Pretas; Oznat FTO is compulsory. |
+| **Best concentrated Morat Core** (5) | MORAT Core | Yaogat MULTI sniper (+1B) **32/1.5**; Suryat HRL/MSV1/TinBot **36/1.5**; Kaitok chain rifle/Flammenspeer **19/0**; Dartok FTO hacker + Pitcher **18/0.5**; Raktorak Red Fury/NCO **27/1** | **132** | **4.5** | **L5** | L5 from `(Morat)` members including Raktorak; very expensive but strong visor, hacking and reactive coverage. |
+| Four-member Morat utility Core (4) | MORAT Core | Yaogat MULTI sniper (+1B) **32/1.5**; Vanguard Combi **14/0**; Vanguard Forward Observer **15/0**; Raktorak Chain of Command **25/0** | **86** | **1.5** | **L4** | L4; durable command backup and specialist, all count as Morat. |
+| Mixed five-member Core (lower FT Level) (5) | MORAT Core | Vanguard HMG **23/1**; Vanguard Forward Observer **15/0**; Vanguard Paramedic **16/0**; Kyosot basic 23pt option **23/0**; Faredak TAG-support Pilot **14/0** | **91** | **1** | **L3** | L3: three `(Morat)` Vanguard; Kyosot/Faredak do not inherit `(Morat)` automatically. |
+| Pure Dāturazi smoke Core (5) | Dāturazi Core | Dāturazi chain rifle + smoke **14/0**; Dāturazi chain rifle + smoke **14/0**; Dāturazi chain rifle + smoke **14/0**; Dāturazi alternate 15pt profile **15/0**; Dāturazi 18pt special-weapon profile **18/0.5** | **75** | **0.5** | **L5** | L5; reaches full bonuses without costly elite guns. |
+| Hungries five-member Core (5) | Hungries Core | Oznat FTO basic **15/0**; Gaki basic **4/0**; Gaki basic **4/0**; Gaki basic **4/0**; Gaki basic **4/0** | **31** | **0** | **L4** | L4 from four Gakis, not L5; chart caps Gakis at four. |
+| Five-member Tarlok heavy shell (5) | Tarlok Core | Vanguard Combi **14/0**; Vanguard Combi **14/0**; Vanguard Forward Observer **15/0**; Suryat Vulkan Shotgun **34/0**; Suryat MULTI Rifle **36/0** | **113** | **0** | **L5** | L5; all count as Tarlok, unlike arbitrary non-Tarlok Wildcards. |
+
+### Battle-report and recorded discussion evidence
+
+Published N5 Morat tournament rosters corroborate competitive **unit packages**, not the exact links formed in every game: [Critical Intervention vs Ariadna](https://forum.corvusbelli.com/threads/igl-2025-26-battle-report-index-videos-articles.43643/) includes **Suryat HRL 36/1.5 + Kurgat Drop Bears 19/0 + two Dartok FTO 18/0.5**; the later **B-Pong vs Shindenbutai** roster includes **Kornak 42/0, Yaogat MULTI sniper 32/1.5, Kyosot 31/0, two Kaitok 19/0 and a Dartok FTO 18/0.5**. Those are observed **list entries**, not independently verified Fireteam membership; above rows are recalculated legal N5.3 recommendations.
+
 ## Reverse Fireteam access index
 
 | Troop / profile | Pool | Types | Max | Notes |
