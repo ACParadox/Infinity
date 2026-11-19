@@ -650,7 +650,7 @@ The pinned N5.3 Scots Guard FTO options instead offer distinct jobs:
 - other FTO guns and Flash Pulse/D-Charges as listed in the pinned profile;
 - only eligible FTO IDs may enter FT-02; non-FTO Camouflage options still cannot join that team.
 
-The November 2026 WIP12 episode's NCO/FO Scouts Guard combination **is supported**. The earlier September 2026 local transcription omitted unit-wide skills and produced a false rejection; the pinned local reference has been corrected. **NCO transforms Lieutenant Special Orders into Tactical Orders; an NCO Team Leader may activate its legal Fireteam, even across Combat Groups.**
+The November 2026 WIP12 episode's NCO/FO Scots Guard combination **is supported**. The earlier September 2026 local transcription omitted unit-wide skills and produced a false rejection; the pinned local reference has been corrected. **NCO transforms Lieutenant Special Orders into Tactical Orders; an NCO Team Leader may activate its legal Fireteam, even across Combat Groups.**
 
 This makes Scots Guard much more interesting as:
 
