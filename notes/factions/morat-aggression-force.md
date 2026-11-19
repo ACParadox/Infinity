@@ -180,7 +180,7 @@ Keep a healthy Regular Order pool; a 15-model template is not compulsory.
 
 - **Why:** another high-investment, heavily armed alternative with distinct weapon/loadout decision making. Compare **actual rangebands, burst, movement, resilience, command economy and points** to Raicho/Sogarat, not just silhouette or model aesthetics.
 - **Counterargument:** in his July 2025 N5 faction focus, Robert says the Sogarat pressures both Bultrak and Raicho out of his typical list. Neither is ruled out; establish the specific matchup/mission in which the Bultrak does something the cheaper setup cannot.
-- **Rules warning:** the pinned Morat roster explicitly classifies Bultrak as a **TAG**; apply TAG (not VH) mechanics. Future Army revisions should still be rechecked.
+- **Rules/command:** the pinned Morat roster explicitly classifies Bultrak as a **TAG**, with **NCO** on its shared TAG base profile (not its ancillary Rakdron). A usable Lieutenant Special Order can power Bultrak when this is the chosen command plan; apply TAG (not VH) mechanics. Future Army revisions should still be rechecked.
 
 ### Shared Combined Army REM infrastructure
 
