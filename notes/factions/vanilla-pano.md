@@ -193,6 +193,11 @@ These are **individual standout units and profiles**, not Vanilla-exclusive unit
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/panoceania.md#fireteam-audit-and-best-unlinked-compositions--n53). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+**Vanilla PanO has no standard Core/Haris/Duo chart and therefore no legal FT levels (N/A).** The audit instead prices independent packages, such as Tikbalang + Tech-Bee **78/1.5**, Swiss Guard HMG + Pathfinder TacAware + Peacemaker **96/1.5**, and Squalos NCO + Pathfinder TacAware + Tech-Bee **92/1.5**. These are **not Fireteams**, and do not share Orders or FT bonuses.
+
+
 **None.** The [Vanilla PanO reference](../../sectorials/panoceania/panoceania.md#fireteams) explicitly has **no standard Fireteam chart**; FTO labels do not unlock Duo/Haris/Core bonuses.
 
 Its best **unlinked synergies** are:
