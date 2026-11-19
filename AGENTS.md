@@ -32,7 +32,7 @@ Sectorial reference format:
 - Sectorial files: `sectorials/<parent-faction>/<sectorial-slug>.md`
 - Index, when present: `sectorials/INDEX.md`
 
-A sectorial reference file with `status: current` is the default factual authority for normal analysis and list building. Read the relevant sectorial file before using an external source.
+A sectorial reference file with `status: current` is the default factual authority for normal analysis and list building. Read the relevant sectorial file before using an external source. **`status: current` does not prove every common/base skill was transcribed**: before asserting a role-defining skill is absent (especially NCO, Forward Observer, Chain of Command or Tactical Awareness), inspect the exact pinned GitHub Army JSON.
 
 Do **not** perform external verification merely because the question asks about exact unit data or Fireteam legality if the required fact is already present in a `current` repository reference.
 
@@ -68,6 +68,24 @@ For modular army-block analysis, answer from these reference files whenever poss
 
 Use these sources primarily to **create, refresh, or verify repository reference files**, or when the local-reference-first exceptions above apply.
 
+### Pinned Infinity Army data on GitHub — roster audit authority
+
+For any N5.3 reference **creation, refresh, correction, or skill audit**, start from [`massayoshi/infinity-army-backup`](https://github.com/massayoshi/infinity-army-backup). Fetch `n5/<army-slug>/<army_source_version>.json` **at the precise backup commit stated in that roster's provenance**. Do not assume all faction sources use one commit/version: Kosmoflot/Caledonia/Vanilla Ariadna pin `d4329bb596ffea5d568eb2435f74366c305a7630` and `7.26246.158`, while some other rosters pin `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b` and some use `7.26246.159`. Example: `https://raw.githubusercontent.com/massayoshi/infinity-army-backup/d4329bb596ffea5d568eb2435f74366c305a7630/n5/kosmoflot/7.26246.158.json`.
+
+Use [`frankysan/InfinityDB`](https://github.com/frankysan/InfinityDB) **at the file's `infinitydb_commit`** as a secondary normalization and Fireteam/identity cross-check, not as a replacement for raw source data. Unpinned live InfinityDB or Army API data may have moved on; identify version/date differences before importing them. Corvus Belli's official Army updates, Wiki and FAQ provide independent evidence of changed rules/skills.
+
+**Mandatory base-versus-loadout merge:** `units[].profileGroups[].profiles[]` records the underlying statline, **shared/base skills** and equipment. `units[].profileGroups[].options[]` (and any applicable `units[].options[]`) provides **loadout-specific additions/overrides**. Empty `options[].skills` does **not** imply a trooper has no skills. Check which profile group a selected option uses; combine that group's base skills/equipment with applicable loadout additions/overrides. Do not extrapolate skills across distinct base profiles, weapon options or FTO statuses without source evidence. Keep source parameters, IDs, unit membership, AVA, required members, Wildcards, compound bodies, Reinforcements and Fireteam rules intact.
+
+**Checklist before publishing a `current` roster, auditing it, or rejecting a historical claim:**
+
+1. Match the source GitHub commit, version, faction slug, unit ID, profile group and option ID in the roster provenance.
+2. Compare **all applicable base-profile skills and equipment** as well as all loadout skills/equipment to the Markdown. Explicitly inspect NCO, Forward Observer, Chain of Command, Tactical Awareness, Lieutenant, Engineer/Doctor/Paramedic, Hacker/KHD, vision/marker/deployment and other mission-critical skills.
+3. Confirm whether a capability is unit-wide or option-/group-specific and whether it can join the stated Fireteam. A skill can apply to a non-FTO troop even when that troop cannot link.
+4. Independently investigate conflicting screenshots, official change logs and recordings. Mark unresolved discrepancies `partial`/`stale`, and propagate verified corrections to tactical/list-building and purchasing notes rather than leaving contradictory claims.
+5. **Never conclude "skill removed" merely because a Markdown roster or `options[].skills` omitted it.** Validate negative claims against the pinned source.
+
+**Regression example (19 Nov 2026):** Scots Guards' NCO and Forward Observer were present in `profileGroups[].profiles[].skills`, but a local transcription used only empty `options[].skills` and erroneously rejected the NCO/FO combination. Corrected Kosmoflot and Caledonian rosters document both shared skills, while only Scots Guard **FTO** options can join the relevant Fireteams. Corvus Belli's October 2025 Army update separately confirms these additions.
+
 ### Corvus Belli Infinity Army API
 
 The official Army API is available under:
@@ -77,7 +95,7 @@ The official Army API is available under:
 
 Direct requests may return `403` unless made with browser-like request headers. InfinityDB's downloader is a useful reference implementation; it sends headers such as `Origin: https://infinityuniverse.com`, an Infinity Universe `Referer`, and a normal browser `User-Agent`.
 
-Prefer the official Army API for direct source verification when necessary, but do not spend time reverse-engineering access if InfinityDB already exposes the same source data in a normalized form.
+For live/current Army verification or update detection, use the official Army API when accessible. To reproduce or audit a **pinned roster**, fetch the pinned GitHub raw snapshot above instead of silently substituting live data.
 
 ### InfinityDB
 
@@ -86,7 +104,7 @@ Primary references:
 - Site: `https://infinitydb.tsudao.com/`
 - Source: `https://github.com/frankysan/InfinityDB`
 
-InfinityDB ingests Infinity Army data and normalizes units, profiles, loadouts, army membership, and Fireteam relationships. It is the preferred structured interface for generating and updating sectorial reference files.
+InfinityDB ingests Infinity Army data and normalizes units, profiles, loadouts, army membership, and Fireteam relationships. It is a **secondary structured normalization/Fireteam reference** for generating and updating sectorial files; the exact pinned raw Army GitHub snapshot is primary for verifying common/base skills and profile loadouts.
 
 For Fireteams, InfinityDB exposes application API endpoints equivalent to:
 
@@ -147,9 +165,10 @@ For ordinary sectorial/unit/list-building work:
 1. Relevant `sectorials/...` file with `status: current`.
 2. Repository `rules/` files for rules semantics.
 3. Repository `units/` change references when historical/update context matters.
-4. Current Corvus Belli Army/rules data when local data is insufficient or requires verification.
-5. Current InfinityDB normalized data for structured reconciliation or refresh.
-6. Historical Army snapshots for before/after comparisons.
-7. Reliable community analysis for discovery, interpretation, or undocumented-hotfix detection; verify against structured data whenever possible.
+4. **The exact pinned** `massayoshi/infinity-army-backup` JSON at its recorded commit/version for roster corrections and negative-skill audits.
+5. **Pinned** `frankysan/InfinityDB` commit for semantic normalization and Fireteam reconciliation.
+6. Current official Corvus Belli Army/API, Wiki, changelog and FAQ to verify later/live changes, clearly distinguishing them from the pinned baseline.
+7. Other historical snapshots for before/after comparisons.
+8. Reliable community analysis for discovery, interpretation, or undocumented-hotfix detection; verify against structured data whenever possible.
 
 For Fireteams specifically, use the sectorial file's canonical `## Fireteams` section first. Use InfinityDB's current structured Fireteam chart only when the local-reference-first policy calls for external verification or when generating/updating that sectorial file.
