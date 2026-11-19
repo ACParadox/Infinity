@@ -748,6 +748,28 @@ This section is authoritative for standard vanilla Combined Army Fireteam legali
 | UMBRA LEGATE | 495 | 1 | source comment `FTO` | options 3, 4, 5, 6, 9 only |
 | VICTOR MESSER | 1299 | 1 | unrestricted Wildcard row | all vanilla options |
 
+## Recommended 2–5-member Fireteam compositions (N5.3)
+
+**Interpretation:** Team type and legality come from the canonical chart immediately above. **Fireteam Level (L1–L5)** is the maximum number of same-unit / explicitly `Counts as`-equivalent troopers, **not** automatically team size. L2 grants BS Attack (+1 SD), L3 adds Discover +3/Dodge +1, L4 adds BS +1, and L5 adds Sixth Sense; bonuses are cumulative. Totals below include **only listed member profiles** (not the rest of a 300-point army, mandatory peripheral/support purchases, or optional reinforcements). All points/SWC are N5.3 pinned roster figures; a row being recommended is not proof that it was played in a recorded game. Full profiles and source IDs are in the unit sections above. [Fireteam bonus rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Fireteam creation/eligibility rules](../../rules/6_Command%20and%20Fireteams/Fireteams__Basic_Rules.md).
+
+Standard Vanilla Combined Army only: **no Core**, **one Haris maximum**, **two Duos maximum**; therefore no legal four- or five-member example. The Combined Army, MORAT, and Overdron families are separate. Unidron-counting Nexus belongs to the Combined Army family; vanilla's Dartok is the **ordinary 23/0.5 profile**, not Morat-sectorial Dartok FTO. Only **Umbra Legate FTO** may use its Wildcard row. Victor Messer is the other available Wildcard. An Overdron Duo must contain exactly one Overdron and can take the listed Nexus/Nourkias partner, subject to the chart.
+
+| Priority / composition | FT family and type | Exact profiles (each member: points/SWC) | Total points | Total SWC | FT Level | Interpretation |
+|---|---|---|---:|---:|---:|---|
+| **Best economical scoring Duo** (2) | Combined Army Duo | Unidron opt 7 FO, plasma carbine **15/0**; Nexus opt 5 Engineer **23/0** | **38** | **0** | **L2** | L2 from Nexus (Unidron); FO plus engineering recovery. |
+| **Best low-cost linked ARO Haris** (3) | Combined Army Haris | Unidron opt 5 missile launcher **20/1.5**; Unidron opt 7 Forward Observer **15/0**; Nexus opt 5 Engineer **23/0** | **58** | **1.5** | **L3** | L3; repairable ML, scoring, and native Engineer. |
+| Budget mixed Exrah Haris (3) | Combined Army Haris | WCD Base opt 5 Engineer **17/0**; WCD Void opt 4 KHD **20/0**; EXO opt 3 Specialist Operative **19/0** | **56** | **0** | **L1** | L1; genuine mobility/specialist toolbox, not a homogeneous link. |
+| MSV2 shooting Duo (2) | Combined Army Duo | WCD Vector opt 4 plasma sniper **29/1.5**; Nexus opt 2 HD/Oblivion **24/0.5** | **53** | **2** | **L1** | L1; an independent visor sniper escorted by hacker. |
+| Mobile Morat specialist Duo (2) | MORAT Duo | Yaogat opt 3 MULTI sniper (+1B) **32/1.5**; Dartok opt 2 Hacker + Pitcher **23/0.5** | **55** | **2** | **L1** | L1; does not use the Morat-only Dartok FTO cost. |
+| **Best homogeneous Morat Haris** (3) | MORAT Haris | Rodok opt 4 missile launcher **29/1.5**; Rodok opt 7 hacker/Trinity **24/0**; Rodok opt 8 Paramedic **21/0** | **74** | **1.5** | **L3** | L3; three Rodoks, not a Rodok Core. |
+| Budget Vanguard Haris (3) | MORAT Haris | Morat Vanguard HMG **23/1**; Morat Vanguard FO **15/0**; Morat Vanguard Combi **14/0** | **52** | **1** | **L3** | L3; 0 Core access in vanilla. |
+| **Best Overdron utility Duo** (2) | Overdron Duo | Overdron opt 1 HRMC **62/1.5**; Nexus opt 1 Chain of Command **23/0** | **85** | **1.5** | **L1** | L1; Overdron is the sole TAG anchor; Nexus is not its identity-equivalent. |
+| Aggressive Overdron Duo (2) | Overdron Duo | Overdron opt 3 HRL (+1B) **51/1.5**; Nourkias opt 2 hacker/Protheion **48/1** | **99** | **2.5** | **L1** | L1; costly anti-approach/CC partner; **not** an Onyx double-Overdron Duo. |
+
+### Battle-report and recorded discussion evidence
+
+The [IGL 2025/26 Combined Army vs Ramah battle-report index](https://forum.corvusbelli.com/threads/igl-2025-26-battle-report-index-videos-articles.43643/) documents a played vanilla Combined Army list but exposes the list primarily as an encoded Army export. It does **not** independently establish any precise Duo/Haris composition above. All rows here are chart-legal **recommended/illustrative constructs**, not falsely attributed observed links.
+
 ## Reverse Fireteam index
 
 | Unit | Effective vanilla Fireteam access |
