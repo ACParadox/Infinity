@@ -70,7 +70,7 @@ The standout independent modules are:
   - **Engineer 19/0:** repair specialist.
   
   Profiles do not inherit one another's equipment.
-- **Pangguling Baggage 8/0:** **S+ low-cost Regular Order/Repeater/Baggage** [value class](../list-building/force-multipliers-special-abilities-apex-value.md?plain=1#L73); can reload eligible Mine Dispensers/Discos and support area control, but only if positioning makes reloads possible.
+- **Pangguling Baggage 8/0:** efficient low-cost Regular Order/Repeater/Baggage [support profile](../../sectorials/jsa/shindenbutai.md#yaopu-pangguling); can reload eligible Mine Dispensers/Discos and support area control, but only if positioning makes reloads possible. This is **not an independently ranked force-multiplier Top 10**.
 - **Monstrucker Engineer 12/0:** [B/A apex; conditional S value](../list-building/doctors-engineers-and-recovery-apex-value.md?plain=1#L119) cost-efficient repair/trading support near a TAG or combat REM; **Irregular Order** rather than a transferable Regular support Order.
 - **TAG alternatives:**
   - **Mechazoid 66–69/1.5:** [B/B TAG tier](../list-building/tags.md?plain=1#L138); S6, STR3, Climbing Plus, Tactical Awareness, strong CC and Kobaruto Ancillary.
@@ -98,7 +98,7 @@ Direct links point to the **rated row** (or to a clearly labelled *package* row)
 | **Monstruckers** | [B/A apex, S conditional value](../list-building/doctors-engineers-and-recovery-apex-value.md?plain=1#L119) | Engineer |
 | **Uran Aibōt** | [B+ JSA Guided package](../list-building/indirect-fire-speculative-guided-apex-value.md?plain=1#L93); [A+ generic missile chassis](../list-building/indirect-fire-speculative-guided-apex-value.md?plain=1#L106) | Guided package and generic chassis |
 | **Yamabushi** | [A apex / S value](../list-building/midfield-defenders-and-speed-bumps.md) | Midfield trade |
-| **Shizoku Kōgeki-tai** | [A+ Strategic Deployment group](../list-building/force-multipliers-special-abilities-apex-value.md?plain=1#L53) | Strategic Deployment; no Top 10 ranking |
+| **Shizoku Kōgeki-tai** | [Strategic Deployment legality and limitations](../list-building/force-multipliers-special-abilities-apex-value.md#rules-and-eligibility-that-change-the-ranking) | Useful Sayō team enabler; **not numerically ranked** in the Lieutenant-excluding force-multiplier table |
 | **Kaizoku Yuriko Oda** | [B/A apex, A+/A value (shared Engineer comparison)](../list-building/doctors-engineers-and-recovery-apex-value.md?plain=1#L121) | Combined Engineer row |
 | **Motorized Yojimbo** | [A+ trading/Smoke](../list-building/warbands-and-cheap-trading-units-apex-value.md?plain=1#L98) | Bike, 20pt |
 | **Saito Tōgan** | [A+ CC assassin](../list-building/dedicated-close-combat-assassins-apex-value.md?plain=1#L129) | Close-combat assassin |
@@ -112,7 +112,7 @@ Direct links point to the **rated row** (or to a clearly labelled *package* row)
 | **Atom Aibōt** | [B+ JSA Guided package (not individual)](../list-building/indirect-fire-speculative-guided-apex-value.md?plain=1#L93) | Only as part of a network package |
 | **Aïda Swanson** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **S.T.R.S. Tanuki Team** | [A / A+ network ranking](../list-building/network-projection-repeaters-pitchers-apex-value.md?plain=1#L48) | Hacker/Pitcher profile |
-| **Yáopú Pangguling** | [S+ Baggage/Repeater value](../list-building/force-multipliers-special-abilities-apex-value.md?plain=1#L73) | Basic 8pt Baggage profile |
+| **Yáopú Pangguling** | [Pinned 8pt Baggage/Repeater order-support profile](../../sectorials/jsa/shindenbutai.md#yaopu-pangguling) | Efficient infrastructure, but **no verified Top 10 placement** in the force-multiplier ranking |
 | **Kyojin Killers** | [A+ apex / S value](../list-building/midfield-defenders-and-speed-bumps.md) | HFT/Flammenspeer profile |
 | **Yáozăo** | No explicit cross-faction tier found | Not yet ranked in the reviewed cross-faction guides |
 | **Raiden Seibutai** | [A+ reactive threat](../list-building/aro-units-apex-and-value.md?plain=1#L71) | Hidden ML/HRL |
