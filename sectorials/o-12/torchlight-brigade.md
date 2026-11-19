@@ -561,6 +561,46 @@ Effective Wildcards for Mobility exclude Sonya and Jamie Rover but include Hippo
 | Sonya Lacroix | 1787 | 1 | Silverstar | none | **Silverstars only** |
 | Jamie Rover | 1864 | 1 | Silverstar | **FTO options 1, 3 only** | **Silverstars only** |
 
+### Validated 2–5-member Fireteam composition library — N5.3 / ITS18 (2026-11-19)
+
+**Authority:** [pinned Torchlight Army `7.26246.159`](https://github.com/massayoshi/infinity-army-backup/blob/6b79f39a3abbf5cd3d837fb9dc65e411fc35244b/n5/torchlight-brigade/7.26246.159.json), canonical FT-01/02/03 chart above and the [N5 Fireteam Level rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md). Profile **#n** means the exact local option ID; every selected member has its own **pts/SWC**, followed by the summed *Fireteam-only* cost. **Physical team size does not equal Fireteam Level** unless the members share the same Unit name or **identical bracketed chart identity**. A three-body **Core** is legal, and the army is limited to **one Core, one Haris**, with multiple Duos (still subject to AVA/member maximums).
+
+#### FT-01 — Silverstars (Duo, Haris, Core)
+
+**At least one Silverstar Rover or Hellblazer is mandatory**. Both count as **(Silverstar)**, as does a Waverider. A Kappa, Raveneye, Kludger, Jackboot or other Wildcard may join but cannot *replace* the source member. Hippolyta, Sonya and Jamie Rover FTO are **Silverstars-only or Silverstars/Mobility-specific Wildcards**, not unconditional members of all Fireteam families.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Hellblazer **#1 Flammenspeer/LSG (18/0)** + Waverider **#3 KHD/Pitcher (20/0)** | **38/0** | **2** | **Best budget hacking/pressure Duo**; both count as Silverstar, and Hellblazer supplies required source. |
+| 3 Core | Silverstar **#5 HMG/Tactical Awareness (37/1.5)** + Hellblazer **#1 Flammenspeer (18/0)** + Waverider **#2 HD/Pitcher/Oblivion(+1B) (22/0.5)** | **77/2** | **3** | **Played three-member Core:** [#014, N5.3 B-Pong](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md#014--protocol-banshee-r1-b-pong-torchlight-brigade-vs-corregidor) / [video](https://www.youtube.com/watch?v=OVnBkDX7bVk). Player explicitly corrects its label to **Core**; Waverider exact HD weapon choice is a current legal identification. |
+| 4 Core | Hellblazer **#1 Flammenspeer (18/0)** + Waverider **#2 HD/Pitcher (22/0.5)** + Jackboot **#6 NCO HMG (29/1)** + Kludger **#2 Engineer/Disco (23/0)** | **92/1.5** | **2** | **Played four-body Core:** [#231, Battleground 10–0](../../notes/battle-reports/231-240-n5-battle-report-tactical-analysis.md#231--shasvastii-vs-torchlight-brigade-its17-battleground-torchlight-100) / [video](https://www.youtube.com/watch?v=80Cxu4nfTz8). **Only two** have the Silverstar label; therefore **Level 2, not Level 4**. |
+| 4 Core | Silverstar **#5 HMG/Tactical Awareness (37/1.5)** + Silverstar **#4 Paramedic (28/0)** + Hellblazer **#1 Flammenspeer (18/0)** + Waverider **#3 KHD/Pitcher (20/0)** | **103/1.5** | **4** | **Best compact Level-4 active Core** with shooting, recovery and hacking. |
+| 5 Core | 2× Hellblazer **#1 Flammenspeer (18/0 each)** + Silverstar **#5 HMG/Tactical Awareness (37/1.5)** + Silverstar **#4 Paramedic (28/0)** + Waverider **#2 HD/Pitcher (22/0.5)** | **123/2** | **5** | **Played five-member pattern:** [#053, Frontline vs Nomads](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md); good full bonuses but lost mission against hacking/zone pressure. |
+
+A three-member Silverstars **Haris** is also possible using any legal three-body Core row above, but **Core** is intentionally used for the [#014](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md) report: it matters because the simultaneously fielded Mobility Haris occupies the sole Haris slot.
+
+#### FT-02 — Mobility (Duo or Haris; no Core)
+
+**Mandatory:** one Kludger. Nimrod is permitted on **all three current options** (the chart reads `NIMROD`, not `NIMROD FTO`), but non-FTO **#1 Hidden Deployment** must be **deployed visibly, without a Marker/Hidden state**, to join a Fireteam. **Hippolyta may join Mobility**; Sonya and Jamie Rover **cannot**. StormBot must be **FTO #2/#3** to use its general Wildcard permission.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Kludger **#1 Engineer/Panzerfaust (23/0)** + Nimrod **#3 FTO MSV2 Thunderbolt(+1B) (28/0.5)** | **51/0.5** | **1** | **Best compact Engineer/MSV2 escort**, but different Units give Level 1. |
+| 3 Haris | Kludger **#3 Doctor (23/0)** + Nimrod **#2 FTO MSV2 AP Marksman (29/0.5)** + Hippolyta **#1 Smoke/EXP CCW (37/0)** | **89/0.5** | **1** | **Corrected legal analogue of the played Mobility Haris in [#014](../../notes/battle-reports/011-020-n5-battle-report-tactical-analysis.md)** / [video](https://www.youtube.com/watch?v=OVnBkDX7bVk). Transcript says **“Nimrod FTO AP Sniper”**, but the pinned source has **AP Marksman #2**, not an FTO AP Sniper; do not present this exact option as transcript-confirmed. |
+| 3 Haris | Kludger **#1 Engineer/Panzerfaust (23/0)** + Kludger **#3 Doctor (23/0)** + StormBot **#2 FTO HRL/E/M Mine (29/1.5)** | **75/1.5** | **2** | **Played Mobility shell:** [#199, Outbreak](../../notes/battle-reports/191-200-n5-battle-report-tactical-analysis.md); StormBot is a legal FTO Wildcard. |
+| 3 Haris | Kludger **#1 Engineer/Panzerfaust (23/0)** + Kludger **#3 Doctor (23/0)** + Nimrod **#3 FTO Thunderbolt(+1B) (28/0.5)** | **74/0.5** | **2** | **Best double-recovery/MSV2 Haris**; the two Kludgers determine Level 2. Compatible with the [#052](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) team pattern. |
+
+#### FT-03 — Wreckers (Duo only; never Haris or Core)
+
+**Mandatory:** one Wrecker. Wrecker AVA is 2; may field a second Wrecker or one Kludger (or an eligible Wildcard). Every Wrecker profile includes a **ZetBot Peripheral (Ancillary)**, but the [N5 Peripheral rule](../../rules/5b_Special%20Skills/Peripheral.md) specifically **permits the Controller to join Fireteams only while that ancillary is undeployed, Disconnected or Null**. **Deploying a connected ancillary causes the Wrecker to leave its Duo**; the ancillary never contributes a Fireteam body, Order or level.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Wrecker **#3 HRL(+1B), ZetBot undeployed (51/1.5)** + Kludger **#1 Engineer/Panzerfaust (23/0)** | **74/1.5** | **1** | **Best repair/score escort for one TAG.** Must keep ancillary undeployed while linked; compare standalone Wrecker when ZetBot scoring is needed. |
+| 2 Duo | 2× Wrecker **#3 HRL(+1B), ZetBots undeployed (51/1.5 each)** | **102/3** | **2** | **Played expensive double-TAG pattern** in [#004 Firefight](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md); preserving the Duo excludes deployed ancillaries. |
+
+**Global restrictions / anti-patterns:** No five-member Mobility or Wrecker formation, no Wrecker Core, and **Silverstar Prime is not a Silverstars Fireteam member**. Beasthunter FTO, Kyra Sharma FTO, and non-FTO Vidocq #4 cannot gain Fireteam membership merely from “FTO” text or similar troop names. Jamie **Rover** #1/#3 FTO may join **Silverstars only**; Jamie **Handler** is a different, non-Fireteam alternate roster entry. Directly fielding **two Haris in different combat groups does not bypass the one-Haris cap** (see [#210 report conflict](../../notes/battle-reports/201-210-n5-battle-report-tactical-analysis.md)). All profiles, AVA, member caps, and Marker/Airborne/Peripheral restrictions must be rechecked when adjusting a package. **Battle-report examples are evidence of use, not proof of general competitive strength or a certified contemporary 300-point roster.**
+
 ## Unit → Fireteam access index
 
 | Unit | Effective Fireteam access |
