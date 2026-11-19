@@ -200,7 +200,7 @@ These are **strict ordinal recommendations for typical N5.3 tables**, *not measu
 | 49 | **A** | **Greif Operator IMP-2 Breaker Combi21/.5 — Onyx/Combined/Tohaa** | At 21/.5, IMP-2 and Surprise Attack(-3) demand a screen and may reach a soft backline support piece. | BS11, CC17, W1, .5SWC; **not a Fiday/Speculo-grade IMP-1 assassin**. 23/25pt FD(+20) Greif is a separate non-IMP profile. |
 | 50 | **C (conditional)** | **Caskuda Combat Jump TAG64/1 — Onyx/Vanilla Combined** | Landing Explosion and 3STR/ARM7/TA occasionally create a backline multikill that smaller attackers cannot. | PH14 unsupported roll fails **30%** and retreats to own DZ; 64pts, 1 SWC, large Hackable/no-Mimetism platform with limited range. Low typical-game trade efficiency. |
 
-### 3a. Airborne objective specialists — points-value Top 5 (distinct scoring role)
+### Airborne objective specialists — points-value Top 5 (distinct scoring role)
 
 **Scope:** This separate role-specific Value ranking measures delivering an eligible **Specialist** to a far console/classified with few Orders: cost, Regular contribution, deployment choice, mobility and a plausible attack/escape route. It is **not** the global enemy-DZ assassination or attack value table above; retaining Teishin at **#14** there is intentional. Select only the named specialist loadout, not alternative guns or devices.
 
@@ -214,7 +214,7 @@ These are **strict ordinal recommendations for typical N5.3 tables**, *not measu
 
 **Counting note:** the focused scoring Top 5 is a **new role category** and does not silently promote its members' existing enemy-DZ attack Value ranks; the faction-count summary should count each unit **at most once** in any Top 3/5/10 band.
 
-### 3b. Motorcycles, fast walkers and VH — distinct on-table breakthrough ranking
+### 3a. Motorcycles, fast walkers and VH — distinct on-table breakthrough ranking
 
 The **# rank is practical enemy-DZ breakthrough usefulness on a reasonably screened table** (reach, ability to survive approach, meaningful targets and overall investment). *Apex* and *value* remain separate qualitative columns and are not a sorting key individually. Fast MOVE/VH never grants automatic enemy-DZ insertion.
 
