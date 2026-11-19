@@ -2,6 +2,10 @@
 
 This folder contains cross-sectorial Fireteam comparisons and rankings for Infinity N5.3.
 
+## Ranking files
+
+- [Gunfighting Fireteams — N5.3 Apex and Points-Value Rankings](gunfighting-fireteams-apex-and-value.md) — separate Top 10 Apex and Value rankings, costed compositions, Fireteam Levels, legality sources and expensive-elite comparisons.
+
 ## Ranking conventions
 
 - **Apex:** maximum competitive impact in a practical 300-point all-comers list, not raw power without regard to investment.
