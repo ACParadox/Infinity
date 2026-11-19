@@ -94,7 +94,7 @@ These are **job-specific, profile-specific** rankings from the [active-turn gunf
 
 | Mission Specialist Apex | Mission Specialist Value | Legal profile / package | Why it qualifies; exact-profile limit |
 |---|---|---|---|
-| [**#4**](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
+| [#9](../list-building/mission-specialists-and-button-pushers-apex-value.md#1-apex-specialists--all-types) | — | **Ko Dali SO 34/0 FD(+20), or SO 37/0 Combat Jump** · [local roster](../../sectorials/combined-army/next-wave.md) | MSV2/BS14 and Protheion permit clearing defended scoring routes; Next Wave FTO33 and FTO-2 30 are **different** Fireteam choices. |
 
 **Top 3 / Top 5 / Top 10** are **qualitative, role-specific cross-faction shortlist candidates**, not official all-model rankings or measured win rates. For Next Wave in particular, **package cost and legal Fireteam membership** change the rating.
 
