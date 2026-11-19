@@ -1,0 +1,107 @@
+# Combined-Arms / Toolbox Fireteams — N5.3 Apex and Value Rankings
+
+**Baseline:** N5.3 / ITS 18; reviewed 2026-11-19. **Scope:** standard 300-point all-comers Army lists, **main-roster Fireteams only**; not Reinforcements or Spec-Ops. This is a **qualitative cross-sectorial ranking**, not a measured tournament win-rate table. The linked sectorial reference's **canonical Fireteam chart and pinned profiles** govern legality; the costed team examples are derived tactical constructions.
+
+## What counts as a combined-arms / toolbox Fireteam?
+
+A genuine toolbox package has **multiple complementary jobs in the same legal Fireteam** rather than merely several guns or several specialists. Its combined capabilities should alter how the opponent must respond. Consider: (1) credible active/ARO shooting or anti-heavy offense; (2) scoring, Classifieds and specialists; (3) cyberwarfare, E/M, Eclipse/Disco/Smoke, Pitcher/Repeater, or other protection/board control; (4) Doctor/Engineer/command resilience; (5) cost, SWC, Order availability, and the team's ability to function after a casualty.
+
+**Ranking method.** Apex ranks the best *combined tactical ceiling within a realistic list budget*, with flexibility and resilience favored over one-dimensional raw damage. Value ranks *toolbox capability delivered per point/SWC/Fireteam slot*, penalizing expensive redundant specialists, exposed critical Lieutenants, SWC-intensive bundles and teams that monopolize a large share of an army. The two ladders intentionally differ. Do **not** treat the displayed rank gaps as a measured statistical advantage.
+
+### Apex investment thresholds
+
+| Linked team cost | Assessment |
+|---:|---|
+| **≤120 pts** | Preferred Apex; default all-comers consideration |
+| **121–135 pts** | **Conditional Apex**; unusually broad capability or strong support required |
+| **136–150 pts** | **Exceptional Apex**; substantial list-level justification |
+| **>150 pts** | Normally exclude from all-comers Apex; exceptional Order/mission compensation required |
+
+Totals include the named linked profiles **only**. Some units require separate paid support or have nonlinked peripherals; those are not silently counted as extra Fireteam members. **Level (L1–L5) is based on same-Unit / explicit chart equivalence, NOT number of bodies**: L2 grants **BS Attack (+1 SD)** (not +1 Burst); L3 adds Discover +3 and Dodge +1; L4 adds BS +1; L5 adds Sixth Sense, cumulatively. A 3-member Haris can be L1, and a mixed five-member Core can be L5 if all five share chart equivalence. See [repo Fireteam bonuses](../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md).
+
+## Apex ranking — best all-comers combined-arms packages
+
+| Rank | Build ID / Fireteam | Team | Pts / SWC | Level | Why here / constraint |
+|---:|---|:---:|---:|:---:|---|
+| **1** | **ON-1 · Onyx Unidron combined Core** | Core (5) | **112 / 3** | **L5** | Missile + plasma sniper + FO, Engineer and Kerr-Nau KHD/White Noise/Pitcher, all full bonus; high SWC and Hackable REM concentration |
+| **2** | **QK-1 · Qapu full-spectrum Core** | Core (5) | **114 / 1.5** | **L5** | NCO assault, Doctor, Disco, extra-order Lieutenant and HD+ in one all-matching team; LT exposure and no standout anti-TAG gun |
+| **3** | **DR-1 · Druze network/control Core** | Core (5) | **117 / 2.5** | **L5** | HMG, E/M grenade launcher, KHD/Pitcher, Paramedic and full bonuses; no true Engineer/Doctor inside |
+| **4** | **WC-1 · White Company Fusilier command Core** | Core (5) | **100 / 1.5** | **L5** | K1 sniper, E/M GL, Chain of Command, Hacker, FO and Lieutenant; efficient but several members are fragile |
+| **5** | **SP-1 · Steel Phalanx Myrmidon utility Core** | Core (4) | **115 / 2.5** | **L4** | Phoenix ranged threat, Machaon Doctor, Officer CoC, Eclipse/CC protection; Core max four in this sectorial and no native hacker |
+| **6** | **HB-1 · Hassassin full-Bahram Core** | Core (5) | **128 / 2** | **L5** | Tactical Awareness Spitfire, Viral, KHD coverage and Doctor (+3); **conditional Apex**, no direct Engineer or FO in package |
+| **7** | **OS-1 · OSS Dikpala-equivalent Core** | Core (5) | **84 / 1** | **L5** | HMG, Repeater, KHD, adhesive/riot control and Commlink for little investment; lacks top-end anti-armor and medical recovery |
+| **8** | **ST-1 · Starmada Betatrooper response Core** | Core (4) | **115 / 3** | **L4** | Two guns including MSV2, Doctor and adhesive/flash control; high SWC, Hackable models, no embedded hacker |
+| **9** | **TO-1 · Tohaa Sukeul command/recovery Triad** | Haris (3) | **89 / 1.5** | **L3** | HMG, Lieutenant (+1 Order/Mirrorball), combined Doctor+Engineer; compact but risks Lieutenant in the attack team |
+| **10** | **OS-2 · OSS Samarthan objective/repair Core** | Core (5) | **98 / 0** | **L5** | FO, Engineer/K1, anti-tech and multiple attack templates, zero SWC; limited premium long-range shooting |
+| **11** | **WB-1 · White Banner Yě Māo/Yín-Shé Haris** | Haris (3) | **76 / 0.5** | **L3** | K1 sniper, Engineer, specialist and compatible equivalents, excellent reach per SWC; lighter than full Core |
+| **12** | **WC-2 · White Company Karhu/Kaplan sustain Haris** | Haris (3) | **83 / 1.5** | **L2** | NCO Feuerbach, NCO Engineer and Doctor; only two Karhu match, and no embedded cyberwarfare |
+| **13** | **ON-2 · Onyx Unidron compact network Haris** | Haris (3) | **73 / 1.5** | **L3** | Missile, Engineer, KHD/White Noise/Pitcher all Unidron-equivalent; relatively static attack game |
+| **14** | **ST-2 · Starmada Betatrooper/Epsilon response Haris** | Haris (3) | **80 / 1.5** | **L3** | Doctor, MSV2 HMG and adhesive/flash in three same-label members; less versatile than its full Core |
+
+**Close Apex alternatives:** **TO-2** replaces the Tohaa Lieutenant with Eclipse and MSV2 defense at only 64 points; **QK-2** is a command/vision-control Haris without an elite gun; **DR-2** is a 67-point gun+hacking Haris; **HB-2** is a 64-point Ghulam utility Core. These tend to rank better on Value. A 121–135-point Core is never promoted automatically just for reaching L5.
+
+## Value ranking — most versatile effects for the investment
+
+| Rank | Build ID / Fireteam | Pts / SWC | Level | Value thesis / opportunity cost |
+|---:|---|---:|:---:|---|
+| **1** | **OS-1 · OSS Dikpala Core** | **84 / 1** | **L5** | Outstanding five-level attack, hacker, comms and denial mix for 28% of a 300-point list |
+| **2** | **TO-2 · Tohaa Gao-Rael/Eclipse/recovery Triad** | **64 / 1** | **L3** | MSV2 sniper, Eclipse screen and Doctor+Engineer; cheap modular counterplay |
+| **3** | **QK-2 · Qapu command Haris** | **64 / 0** | **L3** | Specialist/NCO, Disco and +1 Order Lieutenant interaction without SWC; no major gun |
+| **4** | **ON-2 · Onyx Unidron network Haris** | **73 / 1.5** | **L3** | Missile, Engineer, hacking/White Noise and Pitcher in a compact fully matched Haris |
+| **5** | **WC-1 · White Company Fusilier command Core** | **100 / 1.5** | **L5** | Rare K1 + E/M + CoC + Hacker + FO/Lt mix, 100-point full-level Core |
+| **6** | **WB-1 · White Banner Haris** | **76 / 0.5** | **L3** | Efficient K1, Engineer and objective work; short of full-Core durability |
+| **7** | **HB-2 · Hassassin Ghulam mission Core** | **64 / 1** | **L4** | Smoke NCO, Doctor (+3), FO and Leila KHD at low cost |
+| **8** | **DR-2 · Druze HMG/Pitcher/Hacker Haris** | **67 / 2** | **L3** | Genuine shoot-and-hack package; SWC heavier for its three models |
+| **9** | **OS-2 · OSS Samarthan Core** | **98 / 0** | **L5** | Full matching bonuses, Forward Observer and Engineer with zero SWC |
+| **10** | **QK-1 · Qapu full-spectrum Core** | **114 / 1.5** | **L5** | Very strong NCO/Doctor/HD+/command saturation; more points and exposed LT |
+| **11** | **ST-2 · Starmada Betatrooper Haris** | **80 / 1.5** | **L3** | MSV2 HMG, Doctor and control in a compact three-person link |
+| **12** | **TO-1 · Tohaa Sukeul command/recovery Triad** | **89 / 1.5** | **L3** | Powerful HMG + Doctor/Engineer + order bonus; deploying LT forward is a risk |
+| **13** | **ON-1 · Onyx Unidron Core** | **112 / 3** | **L5** | Apex-winning breadth, but three SWC and five linked orders are a meaningful cost |
+| **14** | **WC-2 · White Company K2 Haris** | **83 / 1.5** | **L2** | NCO ranged fire and both repair and healing; only L2 and few denial tools |
+
+Value is not purely cheapest-first: **TO-2** is cheap yet has genuine offensive, visibility and repair/healing jobs, whereas a cheap Duo that only moves two attackers would not qualify. Neither ladder assumes Fireteam orders are additional free Regular Orders.
+
+## Exact legal profile registry (all ranked builds)
+
+Each line is a **complete selected 2–5-member Fireteam**, not a whole Army list. Notation is `unit [option] role (points/SWC)`; `sole` means a unique profile in the pinned reference. Source links go to the self-contained, `status: current` N5.3 sectorial files. **R** = chart-legal recommendation; **B** = report-supported *membership/structure*, with modern profile choices reconstructed where necessary. **B does not mean a verified current Army export.**
+
+| ID | Sectorial / chart family / type | Exact members — individual points / SWC | Total | FT level | Source and evidence |
+|---|---|---|---:|:---:|---|
+| **ON-1** | Onyx · Unidrons Core (5) | Unidron **#5 ML (20/1.5)** + Unidron **#4 plasma sniper (24/1.5)** + Unidron **#7 FO (15/0)** + Nexus **#5 Engineer (23/0)** + Kerr-Nau **#1 KHD/White Noise/Pitcher (30/0)** | **112/3** | **L5** | [Onyx](../../../sectorials/combined-army/onyx.md#recommended-25-member-fireteam-compositions-n53), R; Nexus/Kerr-Nau count as Unidron |
+| **QK-1** | Qapu Khalqi · Qapu Core (5) | Sekban **NCO Red Fury (27/1)** + Sekban **NCO Doctor (+1) (23/0)** + Odalisque **Disco Baller (21/0)** + Hafza **Lieutenant (+1 Order) (19/0)** + Laxmee **HD+ (24/0.5)** | **114/1.5** | **L5** | [Qapu](../../../sectorials/haqqislam/qapu-khalqi.md#costed-fireteam-construction-and-fireteam-levels--n53-19-november-2026), R, Q16; all count as Qapu |
+| **DR-1** | Druze Bayram Security · Druze Core (5) | Druze **#4 E/M GL (24/1)** + Druze **#2 HMG (28/1.5)** + Druze **#7 KHD/Pitcher (23/0)** + Druze **#1 Combi (20/0)** + Druze **#11 Paramedic (22/0)** | **117/2.5** | **L5** | [Druze](../../../sectorials/na2/druze.md#n53-costed-fireteam-compositions-and-field-evidence), B: five-Druze role structure in [#138](../../battle-reports/131-140-n5-battle-report-tactical-analysis.md), profile reconstruction |
+| **WC-1** | White Company · Fusiliers Core (5) | Hawkwood **#6 K1 Sniper (35/1)** + Emily **#2 CoC/E/M GL (28/0)** + Fusilier **#6 Hacker (15/0.5)** + Fusilier **#10 Lt (10/0)** + Fusilier **#8 FO (12/0)** | **100/1.5** | **L5** | [White Company](../../../sectorials/na2/white-company.md#n53-costed-fireteam-compositions-and-field-evidence), B: adapted [#112](../../battle-reports/111-120-n5-battle-report-tactical-analysis.md); Hawkwood/Emily count as Fusilier |
+| **SP-1** | Steel Phalanx · Myrmidons Core (4) | Phoenix **#1 HRL (32/1.5)** + Machaon **#1 Doctor (37/0.5)** + Myrmidon Officer **#2 CoC/AP SMG (30/0.5)** + Myrmidon **#4 Chain Rifle (16/0)** | **115/2.5** | **L4** | [Steel Phalanx](../../../sectorials/aleph/steel-phalanx.md#derived-exact-profile-fireteam-compositions--n53), R; max-four Core |
+| **HB-1** | Hassassin Bahram · Bahram Core (5) | Muyib **Tactical Awareness Spitfire (32/1.5)** + Govad **KHD (23/0)** + Lasiq **Viral Marksman (25/0.5)** + Muyib **Doctor (+3) (26/0)** + Leila Sharif **KHD (22/0)** | **128/2** | **L5** | [Bahram](../../../sectorials/haqqislam/hassassin-bahram.md#costed-fireteam-construction-and-fireteam-levels--n53-19-november-2026), R, H11; conditional Apex |
+| **OS-1** | OSS · OperationS Core (5) | Dikpala **#2 HMG (21/1)** + Dikpala **#5 SMG/Repeater (13/0)** + Dikpala **#4 Commlink (15/0)** + Deva **#5 KHD BSG (20/0)** + Sharvara **#3 Adhesive/Riotstopper (15/0)** | **84/1** | **L5** | [OSS](../../../sectorials/aleph/operations-subsection.md#derived-exact-profile-fireteam-compositions--n53), R; all Dikpala-equivalent |
+| **ST-1** | Starmada · Betatroopers Core (4) | Betatrooper **#2 Spitfire (35/1.5)** + Betatrooper **#5 Doctor BSG (27/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **115/3** | **L4** | [Starmada](../../../sectorials/o-12/starmada.md#validated-25-member-fireteam-composition-library--n53--its18-2026-11-19), R; inspired by [#041](../../battle-reports/041-050-n5-battle-report-tactical-analysis.md), exact historical fourth member unresolved |
+| **TO-1** | Tohaa · Triad Haris (3) | Sukeul **#2 HMG (33/1.5)** + Taqeul **#2 Lt (+1 Order)/Mirrorball (35/0)** + Kumotail **sole Doctor+Engineer (21/0)** | **89/1.5** | **L3** | [Tohaa](../../../sectorials/tohaa/tohaa.md#n53-costed-fireteam-compositions-and-field-evidence), B: structure in [#113](../../battle-reports/111-120-n5-battle-report-tactical-analysis.md); current Kumotail is *not* a Paramedic |
+| **OS-2** | OSS · Samarthan Core (5) | Riksha **#4 FO (20/0)** + Riksha **#1 BSG (18/0)** + Dawon **#5 Pulzar/Blitzen (18/0)** + Dawon **#4 Chain/Flammenspeer (19/0)** + Artalis **#2 K1 Engineer (23/0)** | **98/0** | **L5** | [OSS](../../../sectorials/aleph/operations-subsection.md#derived-exact-profile-fireteam-compositions--n53), R; full Samarthan equivalence |
+| **WB-1** | White Banner · White Banner Haris (3) | Yě Māo **#6 Engineer/MULTI Rifle (27/0)** + Yín-Shé **#7 K1 Sniper (27/0.5)** + Yín-Shé **#4 Specialist Operative (22/0)** | **76/0.5** | **L3** | [White Banner](../../../sectorials/yu-jing/white-banner.md#fireteam-composition-benchmarks--25-bodies-exact-profiles-and-n53-levels), R; Yín-Shé count as Yě Māo |
+| **WC-2** | White Company · K2 Haris (3) | Karhu **#3 NCO Feuerbach (34/1.5)** + Karhu **#4 NCO Engineer (25/0)** + Kaplan **#7 Doctor (24/0)** | **83/1.5** | **L2** | [White Company](../../../sectorials/na2/white-company.md#n53-costed-fireteam-compositions-and-field-evidence), R; K2 Karhu cap 2, Kaplan does not count as Karhu |
+| **ON-2** | Onyx · Unidrons Haris (3) | Unidron **#5 ML (20/1.5)** + Nexus **#5 Engineer (23/0)** + Kerr-Nau **#1 KHD/White Noise/Pitcher (30/0)** | **73/1.5** | **L3** | [Onyx](../../../sectorials/combined-army/onyx.md#recommended-25-member-fireteam-compositions-n53), R; one actual Unidron required |
+| **ST-2** | Starmada · Betatroopers Haris (3) | Betatrooper **#5 Doctor BSG (27/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **80/1.5** | **L3** | [Starmada](../../../sectorials/o-12/starmada.md#validated-25-member-fireteam-composition-library--n53--its18-2026-11-19), R; #078 similar shell but historic 'Paramedic' not in pinned Betatrooper profiles |
+| **TO-2** | Tohaa · Triad Haris (3) | Gao-Rael **#1 MSV2 Sniper (29/1)** + Makaul **#1 HFT/Eclipse/Viral CCW (14/0)** + Kumotail **sole Doctor+Engineer (21/0)** | **64/1** | **L3** | [Tohaa](../../../sectorials/tohaa/tohaa.md#n53-costed-fireteam-compositions-and-field-evidence), R; three Triad-equivalents |
+| **QK-2** | Qapu Khalqi · Qapu Haris (3) | Sekban **NCO Specialist Operative (24/0)** + Odalisque **Disco Baller (21/0)** + Hafza **Lt (+1 Order) (19/0)** | **64/0** | **L3** | [Qapu](../../../sectorials/haqqislam/qapu-khalqi.md#costed-fireteam-construction-and-fireteam-levels--n53-19-november-2026), R, Q9; all Qapu-equivalent |
+| **DR-2** | Druze Bayram Security · Druze Haris (3) | Druze **#2 HMG (28/1.5)** + Druze **#7 KHD/Pitcher (23/0)** + Brawler **#5 Hacker (16/0.5)** | **67/2** | **L3** | [Druze](../../../sectorials/na2/druze.md#n53-costed-fireteam-compositions-and-field-evidence), R; Brawler counts as Druze |
+| **HB-2** | Hassassin Bahram · Ghulam Core (4) | Ghulam **NCO Smoke GL (15/1)** + Ghulam **Doctor (+3) (15/0)** + Ghulam **FO (12/0)** + Leila Sharif **KHD (22/0)** | **64/1** | **L4** | [Bahram](../../../sectorials/haqqislam/hassassin-bahram.md#costed-fireteam-construction-and-fireteam-levels--n53-19-november-2026), R, H10; Leila counts as Ghulam |
+
+### Legality and evidence guardrails
+
+- **Main-chart anchors are mandatory:** Onyx Unidrons need a real Unidron; OSS OperationS needs Dikpala or Deva, Samarthan needs Yadu/Riksha/Dawon; White Company Fusiliers needs a real Fusilier, K2 at least one Kaplan or Karhu; Bahram Ghulam needs a real Ghulam, Bahram team at least one Govad/Muyib/Lasiq/Bokhtar FTO. Tohaa Triad uses its Haris chart (not a nonexistent five-person Core). Source-choice, max-per-team, unit AVA and Wildcards remain binding.
+- **Family/type limits differ:** Tohaa has **no Core**, unlimited legal Haris/Triads and at most two Duos; Steel Phalanx Core has a **four-member cap**; each other ranked Core uses its sectorial's legal Core slot. Consult linked sectorial headers before trying two listed alternatives in the same Army list. A legal Fireteam is **not** a verified full 300-point deployment.
+- **Counts-as is contextual:** White Company Karhu+Kaplan remain L2 in WC-2; Starmada Epsilon/Sekudroid explicitly count as Betatrooper; Onyx Nexus/Kerr-Nau explicitly count as Unidron; Qapu's Sekban/Odalisque/Hafza/Laxmee share the Qapu label. Do not infer the match across unrelated families.
+- **Hacking is usually projected through the wider repeater network.** A linked hacker earns a place here for safe movement, gun/Engineer escort or Pitcher projection; being in a Fireteam does not make hacking stronger by itself, and an exposed hacker can be a liability.
+- **Lieutenant + NCO is not a free-order generator.** QK-1 and QK-2 are rated for mission/command flexibility, not for fabricating an extra Regular Order from each linked model. A Command/Doctor-loaded Core may tie up models that would otherwise spread across the table.
+- **Visual and deployment restrictions:** keep marker-state/Infiltration/Airborne troopers and prohibited Peripheral Controllers out unless the exact profile and rules support eligibility. FTO wording on an Army profile is **not alone** Fireteam permission. No attendant peripheral is ever a sixth linked body.
+- **Historical evidence:** `B` denotes documented membership/formation as summarized in the cited battle reports, **not confirmed identical 2026 loadouts**; `R` denotes a chart-legal build without such a report claim. None of these placements is supported by measured win-rate or matchup-performance data.
+
+## Practical selection
+
+**For a single expensive centerpiece:** pick an **Apex** Core if the remainder of the 300-point list can still buy independent midfield specialists, trading pieces and Orders. **For distributed play:** use a **Value** Haris or a cheaper Core and preserve points for separate attack axes. A 128-point HB-1 is **Conditional Apex** by policy; 115-point SP-1 and ST-1 remain Preferred but require justification of their SWC and list architecture. Keep specialist redundancy **across the whole list** rather than locking every important job into one vulnerable formation.
+
+### Reference hierarchy
+
+- [Fireteams folder conventions](README.md); [sectorial reference design](../../../sectorials/REFERENCE_DESIGN.md); [Fireteam rules and bonuses](../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md).
+- Costed formation, legality/FTO/Counts-as, pinned Army version and battle-report links: the **sectorial references linked on each profile-registry row**. They cite the pinned [Infinity Army backup](https://github.com/massayoshi/infinity-army-backup) revisions appropriate to their individual Army files; never substitute a single version for every faction.
+- Battle-report claims are identified per registry row. Recommendations without identified reports must remain **untested competitive suggestions**, not certified tournament selections.
