@@ -204,7 +204,7 @@ The labels below are **exact Apex/Value positions** from the [current toolbox ra
 
 ### Particularly powerful synergies — but no standard Vanilla Fireteams
 
-**Vanilla ALEPH has no normal Core, Haris or Duo Fireteam chart in the pinned N5.3 roster.** An FTO label, a unit named a "Team", or an OSS/Steel Phalanx chart does **not** grant Vanilla linking. Its standout *non-Fireteam* combinations are:
+**Vanilla ALEPH has no normal Core, Haris or Duo Fireteam chart in the pinned N5.3 roster.** An FTO label, a unit named a "Team", or an OSS/Steel Phalanx chart does **not** grant Vanilla linking. [The canonical Vanilla Fireteam audit](../../sectorials/aleph/aleph.md#fireteams--no-legal-standard-25-member-formations) confirms **no legal 2-, 3-, 4- or 5-member standard Fireteam**, so **no FT L1–L5** or Fireteam bonus can be claimed. Independent two- and three-unit synergies still pay their individual points/SWC and Orders; they must not be costed as a linked squad. Its standout *non-Fireteam* combinations are:
 
 - **Marut + 16pt Myrmidon Smoke:** exceptionally high anti-Mimetism shooting ceiling, paid for with smoke/setup Orders and substantial TAG points.
 - **Posthuman Mk.1 Engineer + Mk.4 HMG / Mk.5 FO:** repair, long-range attack and scoring spread across the table without buying separate troop slots or separate Regular Orders.
