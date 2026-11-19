@@ -200,20 +200,6 @@ These are **strict ordinal recommendations for typical N5.3 tables**, *not measu
 | 49 | **A** | **Greif Operator IMP-2 Breaker Combi21/.5 — Onyx/Combined/Tohaa** | At 21/.5, IMP-2 and Surprise Attack(-3) demand a screen and may reach a soft backline support piece. | BS11, CC17, W1, .5SWC; **not a Fiday/Speculo-grade IMP-1 assassin**. 23/25pt FD(+20) Greif is a separate non-IMP profile. |
 | 50 | **C (conditional)** | **Caskuda Combat Jump TAG64/1 — Onyx/Vanilla Combined** | Landing Explosion and 3STR/ARM7/TA occasionally create a backline multikill that smaller attackers cannot. | PH14 unsupported roll fails **30%** and retreats to own DZ; 64pts, 1 SWC, large Hackable/no-Mimetism platform with limited range. Low typical-game trade efficiency. |
 
-### Airborne objective specialists — points-value Top 5 (distinct scoring role)
-
-**Scope:** This separate role-specific **Value** Top 5 ranks the ability of an airborne **Specialist** to reach a far console/classified with few Orders, weighing price, Order type, safe Parachutist alternatives, mobility, mission utility and survival. It does **not** replace the general enemy-DZ attack Value ranking above. In particular, **Teishin remains #14** there.
-
-| Value # | Specialist loadout | Why it earns this position | Limit |
-|---:|---|---|---|
-| 1 | **[Akalis BSG(+1B) Specialist Operative 21/0](../../sectorials/panoceania/shock-army-of-acontecimento.md)** — Acontecimento | BS13, D-Charges and Deployable Repeater on a Regular Combat Jump/Parachutist scoring unit for 21pts | PH11 jump risk; W1, no guaranteed enemy-DZ-edge entry |
-| 2 | **[Garuda FO 20/0](../../sectorials/aleph/operations-subsection.md)** — ALEPH/OSS/NCA where legal | MOV20-5, Mimetism(-3) and Combat Jump/Parachutist create long-distance FO reach at a low price | Hackable 1STR REM, PH11 unsupported jump and enemy entry screens |
-| 3 | **[Gao-Tarsos Paramedic 24/0](../../sectorials/tohaa/tohaa.md)** — Tohaa | Zero-SWC airborne Paramedic with a two-Wound Symbiont profile is harder to remove after scoring than most light jumpers | PH12 jump, 24pt commitment; Paramedic is the specific scoring option |
-| 4 | **[Teishin Guntai FO 19/0](../../sectorials/jsa/shindenbutai.md#teishin-guntai)** — JSA/Shindenbutai | Regular Combat Jump/Parachutist, Super-Jump, FO, Flash Pulse and D-Charges at 19pts; **KHD21/0** is an alternate hacker scorer | BS11/W1 and no Mimetism; landing/edge access and return route are not guaranteed, and the KHD has no FO |
-| 5 | **[Cliff-Jumper FO 22/0](../../sectorials/combined-army/next-wave.md)** — Next Wave | Combat Jump(PH13), Mimetism(-3), low SWC and mission-ready FO access offer efficient aerial scoring | W1 and jump risk; FO and KHD are distinct loadouts |
-
-**Counting rule:** These are role-specific Value rankings, not promotion in the general airborne-attack category; count each unit only once per Top 3/5/10 cutoff across all ranking categories.
-
 ### 3a. Motorcycles, fast walkers and VH — distinct on-table breakthrough ranking
 
 The **# rank is practical enemy-DZ breakthrough usefulness on a reasonably screened table** (reach, ability to survive approach, meaningful targets and overall investment). *Apex* and *value* remain separate qualitative columns and are not a sorting key individually. Fast MOVE/VH never grants automatic enemy-DZ insertion.
