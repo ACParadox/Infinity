@@ -29,6 +29,11 @@
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/shock-army-of-acontecimento.md#recommended-fireteam-compositions--n53-audited). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+Best starting tests: **five Regulars Core 67/1.5 (FT5)** for price and bonuses; **Bagh-Mari HMG + Rao + SAA Machinist Haris 74/1.5 (FT3)** for combined attack/engineering; **two foot Montesas Duo 58/1.5 (FT2)** for forward mission pressure. Reports #116/#149 include proposals and partially verified links; they are not silently presented as fully deployed current options.
+
+
 - **Moto-mecanizados Duo:** a legal **Tikbalang or Dragão** anchor plus Wildcard **Pathfinder TacAware** combines long-range firepower with FO/Sensor/Repeater mission reach. The source required-choice set also includes motorized Montesa and Bulleteer; the exact combination matters.
 - **Acontecimento Core/Haris:** a required-choice **Bagh-Mari or ORC** can travel with **SAA Machinist (counts as Bagh-Mari)**, eligible **Montesa FTO** or **Bulleteer**. Strong when the same squad contains both a gun and the specialist who exploits the cleared lane.
 - **Forward Montesa Duo:** **two foot Montesas**, potentially **Forward Deployment (+20) Red Fury 32/1.5** plus **Paramedic 26/0**. This is a forward-scoring assault team, not the motorized model.
