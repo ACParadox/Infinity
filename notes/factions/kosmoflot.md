@@ -2,7 +2,7 @@
 
 ## Overview
 
-**What Kosmoflot does exceptionally well:** it combines **fast conventional heavy shooting, very cheap Regular Smoke, dangerous close assault and Mirage-5 airborne pressure** in one army. Its best lists force a front-lane, a midfield and an enemy-DZ problem at once rather than just building a bigger gun team.
+**What Kosmoflot does exceptionally well:** it combines **conventional heavy shooting, very cheap Regular Smoke, dangerous close assault, Mirage-5 airborne pressure and layered deployable defense** in one army. Its best lists force a front-lane, a midfield and an enemy-DZ problem at once rather than just building a bigger gun team. The major counterweight is unusually concentrated **Hackable HI/TAG/REM targets with thin friendly hacking coverage**.
 
 ### Whole-game standouts — apex versus value
 
@@ -155,7 +155,7 @@ A common Kosmoflot structure is therefore:
 
 Margot contributes gunfighting and specialist utility; Duroc contributes disposable violence, Smoke and board disruption.
 
-Do not evaluate Mirage-5 as “58 points of guns.” Evaluate it as a deployment and defensive-tax package.
+Do not evaluate the **60-point/2-SWC Mirage-5 package** as just guns. Evaluate it as a deployment and defensive-tax package.
 
 ---
 
@@ -280,6 +280,40 @@ The list should not depend on one unique character doing every support task.
    - **S.A.S. / Rokot:** scoring specialists.
    - **Why:** avoid a single counterdeployment target while preserving long-range shooting and Order capacity.
 
+
+## WIP12 Podcast E214: Kosmoflot — November 2026 source audit
+
+**Reviewed:** 19 November 2026. **Primary source:** [WIP12 Podcast, E214: Kosmoflot (Raymon and Logan)](https://www.youtube.com/watch?v=S7KbRRQuh5A), approximately 120 minutes; transcript reviewed directly. This is a **player-experience and tournament-anecdote source**, not an official Army export or proof of a legal 300-point list. The speakers sometimes discuss an apparently different profile snapshot. The [pinned N5.3 Kosmoflot roster](../../sectorials/ariadna/kosmoflot.md) remains authoritative for exact costs, skills, availability and Fireteams. Timestamps below link to the discussed segments.
+
+### High-value tactical findings and current-profile checks
+
+| Topic | Episode observation | N5.3-checked use / evidence boundary |
+|---|---|---|
+| [Defense by layered deployables (07:00–10:50)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=420s) | The army does not have TAK's deep Camo shell game, but can establish E/M mines, Drop Bears, CrazyKoalas and turrets that force multiple approach decisions. | **Raveneye 12/0 E/M Minelayer**, **Mekhanik 17/0 E/M Minelayer**, **Volkolak Drop Bears (+1B)**, **Kibervolk 12/0 CrazyKoala**, optional KVP Dozer turret and Traktor Baggage are complementary, not one interchangeable weapon. Favor crossings and access lanes rather than scattering deployables randomly. |
+| [Irmandinho role flexibility and Wallace (11:00–16:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=660s) | The 8-point Irmandinho can trade, repair a Chernobog, clear mines with Deactivator or complete Engineer tasks. Two Irmandinhos can work without Wallace because they often spend their own Irregular and Impetuous activations. | **AVA4, Irregular + Impetuous, Engineer/Deactivator.** Wallace LT changes their pool contribution when Inspiring Leadership is applicable; do **not** take 38-point Wallace purely to convert one or two self-funding warbands. Already-Regular Varangians and Denma do not provide additional conversions. |
+| [Volkolak utility (18:30–24:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1110s) | Reviewers especially favor the T2 Rifle Paramedic and Missile Launcher; they find the non-AP HMG harder to justify into heavy armor. Dodge and close-defense modifiers made a Volkolak consume several opposing Orders in one reported tournament game. | **Paramedic 33/0** has BS Attack (AP), T2 Rifle, MediKit and Drop Bears (+1B); **ML 35/1.5** is an ARO/template alternative; **HMG 38/1** remains a volume-of-fire option. Its NWI, Dodge (-3)/Dodge (+5), Immunity (ARM/IMM-B) and CC (+1B) matter, but one anecdote is not a measured average Order tax. |
+| [Kosmosoldat plus Strannik (24:00–27:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1440s) | A Portable Autocannon Kosmosoldat can stand behind cheap Strannik specialist/Doctor escorts; it should often be kept hidden until later turns rather than offered into an intact plasma/sniper ARO. | **44/1.5 PAC + 16/0 Strannik Specialist + 18/0 Strannik Doctor = 78 points/1.5 SWC** for a legal Kosmosoldat-anchored Haris with two eligible Wildcards. This protects against overspending on premium teammates; it does not confer NCO on anybody. |
+| [Scots Guard excitement and LT-Order claims (24:00–35:00; 88:00–90:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=1680s) | Speakers repeatedly recommend Scots Guard NCO converting the Kosmosoldat LT(+1)'s Orders and describe the HRL as a Forward Observer. They value the MSV1 HRL and Paramedic in small teams. | **Critical source conflict:** current **Scot Guard FTO HRL is 26/1.5 with MSV1 but neither NCO nor FO**; **FTO Paramedic is 23/0** with MediKit, AP SMG (+1B) and Panzerfaust. **No pinned FTO has NCO or FO.** Do not build the episode's cross-combat-group Lieutenant-Order engine; a Kosmosoldat LT(+1) spends its LT Orders under actual N5 rules. The two FTOs may still provide a useful FT-02 Duo. |
+| [Para-Commandos vs Mirage-5 (35:00–43:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2100s) | Most lists should choose **Mirage-5 or Para-Commandos** to avoid overcommitting the 15-trooper economy to off-table entry. An all-in **Supremacy** anecdote used two Para-Commandos plus Mirage-5 for late quadrant dominance; this is a mission skew, not the default. Duroc can pull enemy facing while Margot attacks the other side. | **Mirage-5 60/2** is a fixed two-model package, with Margot's Specialist Operative/Tactical Awareness and Duroc's close pressure. **Para-Commando FO Boarding Shotgun 21/0** has BS Attack (+1SD), WIP14, D-Charges; **Paramedic 19/0** is another mission tool. The FO offers a potential **Katyusha Guided** targeting plan when legal conditions are satisfied. |
+| [Uragan as an unexpected rear guard (43:30–47:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2610s) | An Uragan placed over a table edge can deter parachutists/rear attacks; the hosts prefer it as late-turn area denial rather than an exposed turn-one sniper stand-in. | **Traktor Uragan 14/1**, **Total Reaction + Guided**, BS10. **Katyusha 9/1** is a different Guided option, and **5/0 Baggage/Deactivator** is a different profile again. Check actual line of fire, range, ammunition and templates rather than assuming the anecdotal hits are guaranteed. |
+| [Ioann Bann/Varangian instead of Polaris (49:00–55:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=2940s) | A 32-point Bann plus 10-point Varangian Duo offers a different close-assault package: Smoke, Berserk, Viral Tactical Bow and dangerous CC. Reviewers prefer this to their current Polaris builds, and sometimes use Wallace LT to support its Order economy. | **42/0** before any Wallace cost. Bann is **Irregular** and counts as Varangian; a native Varangian anchor is still required. Spending Bann's personal Irregular Order while linked invokes **Fireteam Integrity** rules, so Wallace LT may improve its practicality by regularizing eligible Orders; don't treat any quoted burst/modifier interaction as proven without the current Fireteam/smoke rules. |
+| [Kibervolk screening (55:00–63:30)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=3300s) | CrazyKoalas, Sensor, Biometric Visor and fast movement let the Patrol detect hidden threats, contest rear objectives and consume late enemy Orders. Optional Dozer KVP turrets add another distraction; nearby Baggage supports eligible reloads. | **Every Patrol includes one Kibervolk plus one Dozer KVP in the same Combat Group**; AVA2 teams. CrazyKoala Kibervolk **12/0**, basic Dozer KVP **11/0** or turret version **14/0**. A common **12+14 = 26-point package**, *not* a 12-point independent defender. The Sensor/Biometric combination is particularly relevant against Camo/Impersonation. |
+| [Wallace Chain of Command (66:00–71:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=3960s) | Reviewer experiments include aggressive Kosmosoldat Lieutenant backed by Wallace Chain of Command to avoid an immediate command collapse, then use Wallace's combat profile and potentially regularize Irregulars after succession. | Wallace **38/0 Chain of Command (Non Specialist)** is **not** a button-pusher by virtue of Chain of Command. Inspiring Leadership requires Wallace to **actually be the Lieutenant, on-table and non-Null**, so it does not convert an army's Orders while another LT is alive. This is an expensive insurance/CC architecture, not free Order conversion. |
+| [Cadin's post-update close assault (72:00–77:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=4320s) | The speakers re-evaluate Cadin “FirstStrike” Donn after noticing his new T2 shotgun, E/M grenades and Flammenspeer; they prefer him over some Wolfgang applications and discuss Rokot-led mixed assaults. | **Cadin 30/0** has **T2 Boarding Shotgun, E/M Grenades (+1B), Flammenspeer, Berserk (+6), AP+T2 CCW** and is a Wildcard. Plan an actual approach and supporting anchors; he is close-range destructive, not a replacement for a safe long-range ARO. |
+| [Zenit-7 / Pavel / Frontovik (78:00–91:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=4680s) | Hosts rank Zenit-7 as inefficient compared with other camo pieces, prefer Uxía/S.A.S. over Pavel in many lists, and often favor Scots Guard over Frontoviks except for a Rokot Core's MSV1 AP sniper. | **Zenit-7 CoC 30/0.5**, AP Marksman 25/0.5, FO AP Sniper 27/1; **Pavel 33/0** starts with Forward Deployment, *not Infiltration*. **Frontovik MSV1 AP Sniper 28/0.5** remains an affordable long-lane, Rokot-compatible option; the **FTO Scots HRL 26/1.5** costs more SWC and is a different engagement profile. Keep these rankings as commentary, not automatic cuts. |
+| [Polaris downgrade and overlapping pressure (91:00–95:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=5460s) | Both reviewers call Polaris weak relative to current alternatives after N5 changes to Smoke, defensive immunity and access to other assault pieces. | The pinned **Polaris Alpha 32/0** and **Beta 40/0** remain legal compound Bearpode+Masha packages producing two Regular Orders. Earlier source lists used them productively; treat this as **a meaningful disagreement**, and buy Polaris only for a distinct fast attack role not already filled by Bann, Duroc, Varangians, Cadin or Wolfgang. |
+| [Hacking is the central structural weakness (100:00–106:00)](https://www.youtube.com/watch?v=S7KbRRQuh5A&t=6000s) | Kosmosoldat, Patcher, Chernobog and Traktor can expose several attractive targets to a projected enemy network, while friendly hacking cannot cover them all. | **Wardriver AVA1** (14/1 HD, **16/1 Disco Baller**) has limited reach; the proposed universal anti-hacking ECM fixes are **speaker wishes, not existing rules**. Build in repeater-avoidance lanes, disposable short-range answers, redundancy and positioning. Do not treat Smoke as protection against every MSV/repeater threat. |
+
+### Transfer the review into listbuilding choices
+
+1. **Build a layered DZ defense, not just a single visible ARO:** pair a predeployed **Raveneye E/M mine** with a **Kibervolk CrazyKoala Patrol** or **Mekhanik E/M mine**, add a **Volkolak Drop Bear lane** if its team naturally traverses the midfield, and place an optional **Uragan** to discourage a particular table edge. A 5-point **Baggage Traktor** supports eligible reloads and a Regular Order, but is not itself a gun. Check deployment and disposable/reload rules; do not assume every item is refillable.
+2. **Choose one off-table budget consciously:** **Mirage-5** creates a strong two-model enemy-DZ threat; a **21-point Para-Commando FO** is a cheaper alternative and enables a potential **Katyusha Guided** plan. Combining both with additional Para-Commandos can work for quadrant missions but makes the starting-table Order and defense plan more fragile.
+3. **Distinguish assault pieces by jobs:** **Volkolak Paramedic** = midfield T2/anti-armor plus scoring; **Cadin** = E/M/short-range breach; **Bann + Varangian** = smoke-supported Berserk and CC; **Polaris** = separate fast, durable close-angle threat; **Kosmosoldat PAC + Stranniks** = sustained frontal gun plus Doctor/scoring escort. None is always the best purchase.
+4. **Avoid building around the podcast's unsupported Scots Guard Order engine.** The video explicitly spends a Kosmosoldat Lieutenant(+1)'s orders using Scots Guard NCO in another Combat Group. That is **not legal under the pinned Scots Guard FTO data**. Likewise the quoted FTO HRL is **MSV1, not FO**. Prefer a functional **Scots Guard FTO Duo** or legal **Scot Guard/Frontovik-anchored mixed team** on its own merits, and spend the LT Orders only through an actual legal rule.
+5. **Take the negative rankings as marginal-cost judgments:** Zenit-7 and Pavel are not forbidden picks; Frontovik's SWC-efficient sniper still covers a different lane from Scots HRL; base Dozer can still be the right remote repair point; and Polaris may still earn its points on a mission/table where a second fast threat cannot be duplicated.
+
+**Rules cross-check:** [Inspiring Leadership](https://infinitythewiki.com/Inspiring_Leadership), [Fireteam Integrity](https://infinitythewiki.com/Fireteam_Integrity), and [current pinned Kosmoflot Fireteams](../../sectorials/ariadna/kosmoflot.md#fireteams). **Transcript uncertainty:** unit names and short tactical modifiers in speech are sometimes misrecognized; all exact profile numbers above were taken from the pinned roster, not automatically transcribed speech.
+
 ## Strong recurring building blocks
 
 ### Mirage-5
@@ -387,7 +421,7 @@ If taking Wallace, actively shop for the best Irregular profiles.
 
 ### Varangian
 
-Varangians are another excellent Wallace target but remain useful without him.
+Varangians are excellent battlefield support for Wallace but **are not Inspiring Leadership Order-conversion targets**, because they are already Regular. They remain useful without him.
 
 They provide:
 
@@ -525,11 +559,13 @@ A Kosmosoldat LT(+1 Order) is a deliberate **aggressive Lieutenant** option: its
 
 A Wallace list should look meaningfully different from a non-Wallace list.
 
-Good candidates to exploit include:
+Good candidates for **actual Order regularization** include:
 
 - Irmandinhos;
-- Varangians;
-- other useful Irregular troops that already perform real battlefield jobs.
+- Irregular Caterans and Warcor, where their roles justify the slots;
+- other eligible genuinely Irregular models (for example Ioann Bann), if useful in the particular list.
+
+**Varangians and Denma contribute useful already-Regular Smoke/CC support but do not increase Wallace's number of converted Orders.**
 
 A reasonable Wallace shell might begin with:
 
@@ -606,13 +642,15 @@ Early N5 videos often preferred Frontoviks and were lukewarm on Scots Guard beca
 
 That advice is now partly stale.
 
-Later updates gave current Scots Guard FTO profiles important utility including:
+The pinned N5.3 Scots Guard FTO options instead offer distinct jobs:
 
-- Forward Observer on the specific listed option;
-- MediKit / Paramedic on the specific listed option;
-- **no NCO shown on current FTO entries**;
-- Mimetism(-3);
-- useful differentiated weapon packages.
+- **26/1.5 Heavy Rocket Launcher with MSV1**: ranged/template defense, but **not a Forward Observer**;
+- **23/0 AP SMG (+1B), Panzerfaust, MediKit, Paramedic**: short-range specialist and disposable anti-armor threat;
+- other FTO guns and Flash Pulse/D-Charges as listed in the pinned profile;
+- **no NCO or Forward Observer on any pinned Scots Guard FTO entry**;
+- Mimetism (-3), but only the eligible FTO IDs may enter FT-02.
+
+The November 2026 WIP12 episode describes an NCO/FO Scots Guard combination; **that is not supported by the pinned N5.3 profile and must not be used for LT-Order transfers or Forward Observer scoring**.
 
 This makes Scots Guard much more interesting as:
 
@@ -685,7 +723,7 @@ This is much harder to defend efficiently than simply buying another heavy shoot
 
 ## Polaris Bear
 
-Bear is common and good, but the video lists prove it is **not mandatory**.
+Bear is **optional and contested**, not mandatory. Earlier Tactical Awareness sample lists featured it, while the later WIP12 E214 reviewers explicitly put Polaris among their weaker choices because its approach and Smoke delivery were nerfed and Ioann Bann/Varangian or other assault packages compete at similar cost.
 
 Two of the three Tactical Awareness lists include one; the Wallace / double-Chernobog list does not.
 
@@ -717,7 +755,7 @@ Kibervolk deserves more attention than its glamour level suggests.
 
 One Tactical Awareness list takes **two Kibervolk Patrol packages**—each includes a Kibervolk **and** one Dozer KVP in the same Combat Group.
 
-Kibervolk's best role is often not as a primary attacker but as a **goalkeeper / rear-area control piece**.
+Kibervolk's best role is often not as a primary attacker but as a **goalkeeper / rear-area control piece**. WIP12 E214 also highlights its **Sensor and Biometric Visor** for identifying camouflaged and Impersonation threats: do not assess it solely by the number of CrazyKoalas it deploys.
 
 Use Kibervolk to protect:
 
@@ -795,7 +833,7 @@ Take him when you specifically need:
 
 Do not take him solely because older N4 Kosmoflot advice treated him as an automatic inclusion.
 
-Current competition for those points is much stronger.
+Current competition for those points is much stronger. WIP12 E214 additionally notes that the current Unknown Ranger **lacks its former MSV1**, reducing its attractiveness into Mimetism-heavy opposition; the pinned profile still gives it Tactical Awareness and strong self-funded shooting.
 
 ---
 
@@ -803,7 +841,7 @@ Current competition for those points is much stronger.
 
 Early N5 reviews were often lukewarm on Volkolak.
 
-The October 2025 balance update materially changed that evaluation with improvements to movement, Dodge / CC utility, immunity / profile options, weapon quality and costs.
+The October 2025 balance update materially changed that evaluation with improvements to movement, Dodge / CC utility, immunity / profile options, weapon quality and costs. WIP12 E214 emphasizes the **33/0 T2 Rifle Paramedic with BS Attack (AP)**: a linked, mobile objective/CC and damage threat that also carries **Drop Bears (+1B)**. The **35/1.5 Missile Launcher** is the reviewers' favored long-range/ARO option; they are less enthusiastic about the **38/1 HMG** because it lacks AP in an armor-heavy environment. These are role-dependent preferences, not a rule that the HMG is unusable.
 
 Therefore:
 
@@ -1014,7 +1052,10 @@ Before finalizing a Kosmoflot list, ask:
 7. **Who handles the mission while the premium attackers fight?**
 8. **Who protects the DZ / support shell after the aggressive pieces leave?**
 9. **Am I paying for a second premium gun that duplicates the first?**
-10. **Have I checked current Army legality rather than copying an early-2025 Fireteam verbatim?**
+10. **Have I checked current Army legality rather than copying an early-2025 Fireteam verbatim?** In particular, no pinned Scots Guard FTO has NCO or Forward Observer, despite those claims in WIP12 E214.
+11. **Can my opponent solve my HI/TAG/REM concentration with a single pitcher/repeater/hacker network?** Have I budgeted routes or support to mitigate it?
+12. **What is my deployable-defense plan?** Raveneye E/M, Mekhanik mines, Volkolak Drop Bears, Kibervolk/CrazyKoalas, Dozer KVP turret, Traktor Baggage and/or Uragan each cover different approaches.
+13. **If I reserve airborne troops, how much of my Order economy starts off-table?** Mirage-5 and Para-Commandos are valuable but not free in deployment slots or opportunity cost.
 
 The general principle is:
 
@@ -1024,6 +1065,6 @@ The general principle is:
 
 ## Sources, research dates and factual authority
 
-**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md).
+**Reference archive:** [Transcripts, cross-references, battle reports and purchasing audit](references/kosmoflot_refs.md). **New source reviewed 19 November 2026:** [WIP12 Podcast E214: Kosmoflot](https://www.youtube.com/watch?v=S7KbRRQuh5A), with timestamped discussion and explicit profile-conflict audit in the section above.
 
 **N5.3 authority:** [Kosmoflot pinned roster and canonical Fireteams](../../sectorials/ariadna/kosmoflot.md), Army **7.26246.158** (Sept 2026), and [local rules](../../rules/README.md). This is the supplied tactical synthesis, with older 2025 video opinions retained as evidence of *ideas*, not current-profile facts. The transcript/source characterizations are inherited from the upload; this merge did **not** retrieve new transcripts.
