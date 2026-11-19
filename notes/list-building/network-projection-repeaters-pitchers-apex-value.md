@@ -86,6 +86,8 @@ _Research baseline: 23–28 October 2026; roster and rankings rechecked 11 Novem
 | 27 | **A** | **Bit & KISS! 24–25/.5 selected loadout** — Combined / Onyx / Next Wave as legal | Multiple network delivery methods; some **KISS!** peripheral variants have **Pitcher (+1B)** | Bit's Pitcher and KISS!'s Pitcher are different shooters; verify the selected parent/peripheral option |
 | 28 | **A** | **Zoe & Π-Well FTO combination 42–45/.5** — Bakunin | Π-Well adds **Pitcher and native Repeater** to a strong Zoe support/Hacker package | Total package is expensive and Π-Well **BS11**; Flash Pulse (+1B) is not Pitcher Burst |
 
+**Morat audit (19 November 2026):** **Dartok FTO 18/0.5 remains #18 in Pitcher points-value** despite its excellent cheap linkable Hacker/Pitcher role compression. Its **#9 Hacker Value** standing is a different broad-role comparison, not justification to promote it to a newly invented Top 5 Pitcher subcategory. The ordinary 23/0.5 Dartok cannot inherit FTO access.
+
 **Other legitimate but lower-value/less reliable shooters:** Scylla with/without Charybdis (distinct 32/.5 vs 25/.5 FTO), Umbra Legate FTO HD+/Pitcher 38/.5, and Knight of Justice HD/Pitcher 45/.5 deliver important *package* roles, but are rarely efficient when bought **only** to shoot a Repeater. A **Locust KHD27/0**, **Mary27/.5**, or **NCA Blocker15/0** may still be preferable when their distinct infiltration, hacking, or Fireteam role is needed.
 
 **Profile correction:** **Dokkaebi** has the printed Spotlight upgrade; **Hǎidào** does **not**. **Waverider HD** has Oblivion (+1B), whereas Waverider KHD has the Trinity (SR-1) upgrade. Neither upgrade changes Pitcher BS or Burst.
