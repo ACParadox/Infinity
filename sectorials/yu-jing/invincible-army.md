@@ -578,7 +578,7 @@ Wildcards cannot be added to this special Fireteam.
 Wildcard status does not remove a Fireteam's native minimum, required-choice, type, or profile restrictions. Parenthetical Army-chart comments such as `(Invincible)` and `(Zhanshi)` are preserved here as Counts-as/equivalence labels.
 
 
-## Verified Fireteam builds — exact 2–5 models, points, SWC and Levels
+## Fireteam composition examples — exact 2–5 models, points, SWC and Levels
 
 **Composition review:** 2026-11-19. Curated **standard main-force N5.3** designs using this file's pinned IA options. *Level* means the count of same-unit / chart-equivalent members, **not** the physical count: `Invincible`-equivalent members can reach L5, whereas Hǎidào/KHD and Rui Shi are useful mismatched additions. A 2-model Duo is not automatically L2. [Official Fireteam levels](https://infinitythewiki.com/Fireteam_Bonuses) and [N5.3 chart restrictions](https://infinitythewiki.com/Fireteams_Chart).
 
