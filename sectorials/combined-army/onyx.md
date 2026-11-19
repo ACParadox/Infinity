@@ -562,6 +562,32 @@ The Base/Void `required: true` rows are treated as a required-choice set rather 
 | NOURKIAS | 1513 | 1 | Umbra Samaritan, Umbra Legate, and Xeodron contexts only |
 | `--` | — | 1 | `Spec-Ops` optional-mode placeholder exactly as exposed by source chart |
 
+## Recommended 2–5-member Fireteam compositions (N5.3)
+
+**Interpretation:** Team type and legality come from the canonical chart immediately above. **Fireteam Level (L1–L5)** is the maximum number of same-unit / explicitly `Counts as`-equivalent troopers, **not** automatically team size. L2 grants BS Attack (+1 SD), L3 adds Discover +3/Dodge +1, L4 adds BS +1, and L5 adds Sixth Sense; bonuses are cumulative. Totals below include **only listed member profiles** (not the rest of a 300-point army, mandatory peripheral/support purchases, or optional reinforcements). All points/SWC are N5.3 pinned roster figures; a row being recommended is not proof that it was played in a recorded game. Full profiles and source IDs are in the unit sections above. [Fireteam bonus rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Fireteam creation/eligibility rules](../../rules/6_Command%20and%20Fireteams/Fireteams__Basic_Rules.md).
+
+Onyx standard limits: **Core 1; Haris 2; Duo unlimited**. Unidron Haris/Core requires **at least one actual Unidron**, while Nexus and Kerr-Nau Wildcards only join that Unidron context and count as Unidron for Level. Onyx mixed Duo/Haris/Core needs a **Suryat, Kurgat, Umbra Samaritan, or Umbra Legate** chart foundation; Maakrep max 1. Exrah Duo/Haris requires Base or Void; Rodoks only Duo/Haris; Xeodron **Duo/Haris** requires at least one Xeodron, with Samaritans counting as Xeodron; Overdron is **Duo only** with 1–2 Overdrons (no Nexus partner on the Onyx chart). Nourkias is a contextual Wildcard for Umbra/Xeodron, **not** a universal Wildcard. No 4–5 TAG Fireteam.
+
+| Priority / composition | FT family and type | Exact profiles (each member: points/SWC) | Total points | Total SWC | FT Level | Interpretation |
+|---|---|---|---:|---:|---:|---|
+| **Best Xeodron attack Duo** (2) | Xeodron Duo | Xeodron opt 3 Red Fury **50/1**; Umbra Samaritan opt 6 plasma rifle/Protheion **37/0** | **87** | **1** | **L2** | L2; Samaritan explicitly counts as Xeodron. |
+| **Best anti-MSV TAG Duo** (2) | Overdron Duo | Overdron opt 1 HRMC **62/1.5**; Overdron opt 3 HRL (+1B) **51/1.5** | **113** | **3** | **L2** | L2; Onyx-only double-Overdron option, costly and hackable. |
+| Exrah specialist/visor Duo (2) | Exrah Duo | WCD Base opt 5 Engineer **17/0**; WCD Vector opt 4 plasma sniper/MSV2 **29/1.5** | **46** | **1.5** | **L1** | L1; includes required Base foundation. |
+| Rodok independent Duo (2) | Rodoks Duo | Rodok opt 4 missile launcher **29/1.5**; Rodok opt 8 Paramedic **21/0** | **50** | **1.5** | **L2** | L2; Rodok teams have no Core. |
+| **Best cheap Unidron Haris** (3) | Unidron Haris | Unidron opt 5 missile launcher **20/1.5**; Nexus opt 5 Engineer **23/0**; Kerr-Nau opt 1 KHD/White Noise/Pitcher **30/0** | **73** | **1.5** | **L3** | L3: Nexus and Kerr-Nau count as Unidron, native Unidron required. |
+| Xeodron heavy Haris (3) | Xeodron Haris | Xeodron opt 3 Red Fury **50/1**; Xeodron opt 1 K1 marksman **49/0.5**; Umbra Samaritan opt 7 hacker **43/0.5** | **142** | **2** | **L3** | L3; two Tactical Awareness TAGs and a Protheion/hacking escort. |
+| Exrah toolbox Haris (3) | Exrah Haris | WCD Base opt 5 Engineer **17/0**; WCD Void opt 4 KHD **20/0**; WCD Vector opt 2 MSV2 marksman **24/0.5** | **61** | **0.5** | **L1** | L1; mixed mobility with required Base/Void foundation. |
+| Rodok pure gun Haris (3) | Rodoks Haris | Rodok opt 4 missile launcher **29/1.5**; Rodok opt 5 Thunderbolt **23/0**; Rodok opt 8 Paramedic **21/0** | **73** | **1.5** | **L3** | L3; straightforward attrition and specialist utility. |
+| Onyx premium mixed Haris (3) | Onyx Haris | Suryat opt 6 HMG/Tactical Awareness **43/1.5**; Kurgat opt 2 Engineer/Drop Bears **19/0**; Maakrep opt 4 MSV2 sniper **27/1.5** | **89** | **3** | **L1** | L1; each is a distinct non-equivalent unit. |
+| Four-member Unidron ARO Core (4) | Unidron Core | Unidron opt 5 missile launcher **20/1.5**; Unidron opt 1 plasma carbine **14/0**; Unidron opt 7 Forward Observer **15/0**; Nexus opt 5 Engineer **23/0** | **72** | **1.5** | **L4** | L4; Nexus counts as Unidron. |
+| **Best five-member mixed Unidron Core** (5) | Unidron Core | Unidron opt 5 missile launcher **20/1.5**; Unidron opt 4 plasma sniper **24/1.5**; Unidron opt 7 Forward Observer **15/0**; Nexus opt 5 Engineer **23/0**; Kerr-Nau opt 1 White Noise/KHD **30/0** | **112** | **3** | **L5** | L5, despite mixed identities; total of 5 eligible Unidron-equivalent troopers. |
+| Five-member Unidron/Umbra alternative (5) | Unidron Core | Unidron opt 5 missile launcher **20/1.5**; Unidron opt 7 Forward Observer **15/0**; Unidron opt 1 plasma carbine **14/0**; Unidron opt 1 plasma carbine **14/0**; Umbra Legate opt 6 FTO HD+Pitcher **38/0.5** | **101** | **2** | **L4** | L4: only four models count as Unidron; Umbra remains a distinct unit. |
+| Mixed Onyx Core, partial bonus (5) | Onyx Core | Suryat opt 2 Vulkan Shotgun **34/0**; Suryat opt 6 HMG/Tactical Awareness **43/1.5**; Kurgat opt 2 Engineer/Drop Bears **19/0**; Umbra Legate opt 3 FTO K1 rifle **33/0**; Maakrep opt 3 boarding shotgun **19/0** | **148** | **1.5** | **L2** | L2, not L5; only two Suryats match under the pinned Onyx chart. |
+
+### Battle-report and recorded discussion evidence
+
+The [Onyx transcript/media research guide](../../notes/factions/onyx-contact-force.md) covers the enduring **Unidron + engineering/White Noise** and **Xeodron + Umbra/Protheion** strategies using Tactical Awareness and other recorded discussion. An [Onyx vs Haqqislam N5 battle report (February 2026)](https://www.youtube.com/watch?v=coGTW8gvgP8) is also available, but its exact Fireteam membership has **not** been verified here. Do not treat the example compositions as literal exports from those recordings.
+
 ## Reverse Fireteam index
 
 | Unit | Fireteam access |
