@@ -28,3 +28,7 @@ Rankings belong in separate Markdown files in this folder; do not treat unverifi
 ## Category rankings
 
 - [Order Economy / Force Multipliers — Fireteam Apex & Value](order-economy-force-multipliers-apex-value.md): whole-game Top 10, exact legal packages, Order accounting and independent Apex/Value rankings.
+
+## Ranking files
+
+- [Defensive / ARO Fireteams — Apex and Value](defensive-aro-fireteams-apex-and-value.md) — separate Top 15 rankings and 21 pinned, costed defensive compositions.
