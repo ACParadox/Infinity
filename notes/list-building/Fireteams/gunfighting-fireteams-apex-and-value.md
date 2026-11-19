@@ -295,7 +295,7 @@ These **do not take a Top 10 slot**. They explain meaningful alternatives, espec
 - Harbinger Hacker/Minelayer — **current hacker: 18 pts / 0.5 SWC**
 - Nexus Specialist Operative — **current SO: 22 pts / 0 SWC**
 
-**Gunfight case:** 88-point L5 Core with a real HMG, Pitcher-adjacent network/scoring roles and multiple cheap bodies: unusually complete basic-gun package.
+**Gunfight case:** 88-point L5 Core with a real HMG, hacking/minelayer and scoring roles and multiple cheap bodies: unusually complete basic-gun package.
 
 **Limitation:** The HMG is a comparatively modest standalone gun, rather than a Kriza or Epsilon; area-control utility helps value more than raw Apex.
 
