@@ -74,7 +74,7 @@ See [ARO units: N5.3 apex/value tiers, hidden-versus-visible and deployment/matc
 
 ### Command-unit apex/value cross-reference (2026-10-23)
 
-**Wallace LT 38/0** converts qualifying Irregular warbands with Inspiring Leadership and unlocks a special coordinated assault, whereas **Mormaer LT(+1) 41/0 T2 or 49/1 HMG** deliberately funds a tougher fighting-LT plan. Older **Scots Guard NCO** advice must be checked against this specific faction's chart (do not import Kosmoflot assumptions). Choose Wallace with many useful Irregulars, Mormaer when extra personal combat Orders and armor matter more.
+**Wallace LT 38/0** converts qualifying Irregular warbands with Inspiring Leadership and unlocks a special coordinated assault, whereas **Mormaer LT(+1) 41/0 T2 or 49/1 HMG** deliberately funds a tougher fighting-LT plan. **Scots Guards have NCO and Forward Observer on their shared base profile** in the pinned Caledonian roster; only eligible **FTO** profiles enter its specific Fireteams. Use the Caledonian chart for exact composition instead of importing Kosmoflot team memberships. Choose Wallace with many useful Irregulars, Mormaer when extra personal combat Orders and armor matter more.
 
 See [cross-game Lieutenant, CoC and Order-economy tiers](../../list-building/command-units-apex-and-value.md). **Refer to this pinned roster/Fireteam chart for profile legality.**
 
