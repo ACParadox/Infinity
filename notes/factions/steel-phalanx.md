@@ -65,6 +65,16 @@
 
 The [canonical chart](../../sectorials/aleph/steel-phalanx.md#canonical-fireteam-chart) distinguishes these families, the **four-model Core cap**, required sources and FTO restrictions.
 
+**Exact 2–4-member N5.3 options, including per-model points/SWC and calculated Fireteam Level:** [Steel Phalanx composition matrix](../../sectorials/aleph/steel-phalanx.md#derived-exact-profile-fireteam-compositions--n53). Its fifteen rows span Duo, Haris and Core; **no legal five-member SP Fireteam** is available. Shortlist:
+
+- **Best balanced Myrmidon Core (4):** Phoenix HRL 32/1.5 + Machaon Doctor 37/0.5 + Myrmidon Officer CoC/SMG 30/0.5 + Myrmidon Chain Rifle 16/0 = **115pts/2.5SWC, L4**. All count as Myrmidon.
+- **Tested dual-team attacker (3):** Hoplite HMG 40/1.5 + Scylla HD FTO 25/0.5 + Alkê MULTI/NCO 27/0 = **92pts/2SWC, L2**. #190 explicitly deployed the trio, but the modern loadouts here are reconstructed; Alkê is not a third Steel-Phalanx-counting model.
+- **Tested Dactyl denial Duo (2):** Dactyl Engineer/Deployable Cover 20/0 + K2 Auxiliar FTO Mine Dispenser 12/0 = **32pts/0SWC, L2**. K2 counts as Dactyl; [#151](../battle-reports/151-160-n5-battle-report-tactical-analysis.md#L26) directly calls this a Level 2 Duo.
+- **Efficient four-model Thorakitai Core:** SMG 12/0 + FO 13/0 + Paramedic 14/0 + Feuerbach 23/1.5 = **62pts/1.5SWC, L4**.
+- **Hector/Eudoros tested Myrmidon Core (4):** Hector Plasma LT 65/0 + Eudoros Mk12 36/0 + Chain Rifle Myrmidon 16/0 + Acmon Engineer 31/0 = **148pts/0SWC, L2**, despite four bodies. [#052](../battle-reports/051-060-n5-battle-report-tactical-analysis.md#L57) names all members; pinned loadouts are a costed adaptation.
+
+**Rules distinction:** L1–L4 depend on actual matching-unit/chart equivalences rather than total membership. L2 grants an **extra success die**, not extra Burst; L3 adds Discover/Dodge, L4 adds +1 BS. A report-tested *team structure* does not automatically authenticate the exact modern profile or cost. The [N5.3 level chart](https://infinitythewiki.com/Fireteam_Bonuses) provides the official bonus definitions.
+
 ### Unusual access, meaningful absences and costs
 
 - **Multiple, noninterchangeable vision tools:**
