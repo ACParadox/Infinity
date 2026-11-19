@@ -700,6 +700,75 @@ This section is authoritative for Starmada Fireteam legality. The reverse index 
 | Parvati | 1534 | — | all | 1 | Wildcard |
 | Tian Gǒu | 1536 | — | **FTO options `1,3,4,6` only** | 1 | Wildcard |
 
+### Validated 2–5-member Fireteam composition library — N5.3 / ITS18 (2026-11-19)
+
+**Authority:** [pinned Starmada Army `7.26246.159`](https://github.com/massayoshi/infinity-army-backup/blob/6b79f39a3abbf5cd3d837fb9dc65e411fc35244b/n5/starmada/7.26246.159.json), canonical family charts above, and the [Fireteam Level rules](../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md). The **#n** is the option ID in this file's Unit details; individual **pts/SWC** and total **pts/SWC** are explicit. *Level depends on the largest same-Unit or same parenthetical-label subgroup, not physical team size.* Core = **3–5 members**, Haris = **3**, Duo = **2**. Starmada may have **one Core, one Haris and multiple Duos** concurrently, subject to model AVA and each chart's member caps.
+
+#### FT-01 — Security (Haris/Core; no Security Duo)
+
+**Required at creation:** at least one **Kappa or Bluecoat**. Kappa, Bluecoat, Raveneye, Sekudroid, Cho and PSI-Cop Wildcards with **(Security)** share the Security level label. A Jackboot, Bronze, Ment, Vidocq FTO, Shona, Parvati or Tian Gǒu FTO can be legal but **does not** count as Security unless its chart explicitly says so.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 3 Haris | Bluecoat **#3 Adhesive/Riotstopper (13/0)** + Raveneye **#1 FO/E/M Minelayer (12/0)** + PSI-Cop **#5 KHD/Disco (23/0)** | **48/0** | **3** | **Best compact security/midfield control:** all three count as Security; Bluecoat satisfies source requirement. |
+| 4 Core | Kappa **#1 Combi (12/0)** + Raveneye **#1 FO/E/M Mine (12/0)** + PSI-Cop **#5 KHD/Disco (23/0)** + Jackboot **#6 NCO HMG (29/1)** | **76/1** | **3** | **Played/reconstructed four-member Core:** [#078](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md#078--corregidor-surface-vs-starmada-evacuation) / [video](https://www.youtube.com/watch?v=U2A2Y5BxMVs); **Level 3**, because Jackboot is not Security. |
+| 5 Core | Kappa **#1 Combi (12/0)** + Kappa **#5 HD (13/0.5)** + Raveneye **#1 FO/E/M Mine (12/0)** + Bluecoat **#3 Adhesive/Riotstopper (13/0)** + PSI-Cop **#5 KHD/Disco (23/0)** | **73/0.5** | **5** | **Best inexpensive Level-5 defensive Core.** All five count as Security; lacks a premier long-range attack piece. |
+| 5 Core | Kappa **#1 Combi (12/0)** + Raveneye **#1 FO/E/M Mine (12/0)** + Bluecoat **#3 Adhesive/Riotstopper (13/0)** + PSI-Cop **#5 KHD/Disco (23/0)** + Jackboot **#6 NCO HMG (29/1)** | **89/1** | **4** | **Best NCO-gun Security Core:** four Security-equivalent members + Jackboot for NCO HMG. |
+
+#### FT-02 — Nyokas (Duo/Haris/Core)
+
+**Mandatory:** at least one **Nyoka FTO #3 HRL or #4 FO**. Bronze **(Nyoka)** raises the FT Level; Epsilon and Hector do not. **Nyoka #5/#6 Parachutists are never legal substitutes**, even if represented by the same miniatures.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Nyoka **#3 FTO HRL (18/1)** + Bronze **#3 Red Fury (47/1)** | **65/2** | **2** | **Played:** [#102 Starmada vs NCA](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md); Bronze counts as Nyoka. |
+| 3 Haris | Nyoka **#3 FTO HRL (18/1)** + Nyoka **#4 FTO FO MULTI Rifle (22/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** | **74/2.5** | **2** | Flexible FO/visor and anti-armor shooting; the Epsilon is a different Unit. |
+| 4 Core | Nyoka **#3 FTO HRL (18/1)** + 2× Nyoka **#4 FTO FO MULTI Rifle (22/0 each)** + Epsilon **#1 MSV2 HMG (34/1.5)** | **96/2.5** | **3** | Three Nyoka members + one Epsilon; good capabilities but fewer bonuses than a same-label five. |
+| 5 Core | Nyoka **#3 FTO HRL (18/1)** + 3× Nyoka **#4 FTO FO MULTI Rifle (22/0 each)** + Bronze **#4 Paramedic Shotgun (41/0)** | **125/1** | **5** | **Highest-Level assault/scoring Nyoka option** (Bronze counts as Nyoka); costly, no Epsilon visor. |
+
+#### FT-03 — Betatroopers (Duo/Haris/Core)
+
+**Mandatory:** one actual Betatrooper. Epsilon and Sekudroid carry the **(Betatrooper)** label, so three different models of these three Units can still generate Level 3; Hector and Bìxié do **not** raise that count. Max one Epsilon and one Sekudroid per Fireteam.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Betatrooper **#4 KHD SMG (25/0)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **44/0** | **2** | **Best low-cost climbing/control Duo.** Sekudroid counts as Betatrooper. |
+| 3 Haris | Betatrooper **#5 Doctor BSG (27/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **80/1.5** | **3** | **Corrected playable analogue of [#078](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md)**. The video called its Betatrooper a *Paramedic*, but **there is no pinned N5.3 Betatrooper Paramedic profile**; Doctor #5 is a verified substitute, not a certified exact reconstruction. |
+| 4 Core | Betatrooper **#2 Spitfire (35/1.5)** + Betatrooper **#5 Doctor BSG (27/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **115/3** | **4** | **Legal reconstructed four-body option** inspired by [#041](../../notes/battle-reports/041-050-n5-battle-report-tactical-analysis.md); that video's **fourth identity is unresolved**, so do not call this a completely confirmed played list. |
+| 5 Core | Betatrooper **#2 Spitfire (35/1.5)** + Betatrooper **#4 KHD (25/0)** + Betatrooper **#5 Doctor (27/0)** + Epsilon **#1 MSV2 HMG (34/1.5)** + Sekudroid **#1 Adhesive/Flash (19/0)** | **140/3** | **5** | **Highest linked attack/recovery ceiling**; unusually heavy investment in Hackable bodies and limited backup scoring. |
+
+#### FT-04 — Bronzes (Duo/Haris only; never Core)
+
+**Mandatory:** at least one Bronze (maximum two). Knight of Santiago must be **FTO #1/#2/#5/#6**, **not Combat Jump #3/#4**. Vidocq can enter only on **FTO #1/#2/#3**. Ment options #1–4 are permitted because the chart says `MENT`, not `MENT FTO`. Parvati and other legal Wildcards do not change their Unit label.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Bronze **#5 Specialist MULTI Rifle (43/0)** + Santiago **#2 FTO KHD/TinBot (31/0)** | **74/0** | **1** | **Best all-purpose Bronze Duo** for specialist/anti-hacking work. Different Units → Level 1. |
+| 3 Haris | Bronze **#3 Red Fury (47/1)** + Santiago **#2 FTO KHD/TinBot (31/0)** + Ment **#3 FTO CoC/Riotstopper (14/0)** | **92/1** | **1** | **Best command-protected gun Haris**, but three distinct labels give only Level 1. |
+| 3 Haris | Bronze **#4 Paramedic Shotgun (41/0)** + Bronze **#5 Specialist MULTI Rifle (43/0)** + Santiago **#2 FTO KHD/TinBot (31/0)** | **115/0** | **2** | Dual-Bronze durability, highest Bronze-only matching level; pricey. |
+
+#### FT-05 — Varangian Guards (Duo only)
+
+**Mandatory:** a real Varangian; Shona's Wildcard permission does **not** count as Varangian, while Ioann **(Varangian)** does.
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | Varangian **#4 SMG/Smoke (12/0)** + Shona **#1 SMG/AP+EXP CCW (22/0)** | **34/0** | **1** | **Battle-tested assault Duo:** [#102](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) and [#216](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md); Shona does not grant Level 2. |
+| 2 Duo | Varangian **#4 SMG/Smoke (12/0)** + Ioann **#1 AP+T2/Smoke (32/0)** | **44/0** | **2** | Heavy close assault; Ioann counts as Varangian but remains Irregular. |
+| 2 Duo | 2× Varangian **#4 SMG/Smoke (12/0 each)** | **24/0** | **2** | Cheapest linked pair of Regular smoke/trade pieces. |
+
+#### FT-06 — Road (Duo only)
+
+**Mandatory-source set:** at least one Lawkeeper or RoadBot. RoadBots and Okos carry **(Lawkeepers)** and count toward Level 2. **No SideBot-bearing profile is used below.**
+
+| Size/type | Exact selected profiles (each pts/SWC) | Combined pts/SWC | FT Level | Use / evidence |
+|---|---|---:|---:|---|
+| 2 Duo | RoadBot **#5 Paramedic/Heavy Riotstopper (20/0)** + Oko **#2 FO/Sensor/TacAware (18/0)** | **38/0** | **2** | **Best mobile mission Duo:** both count as Lawkeepers. |
+| 2 Duo | Lawkeeper **#1 BSG/Chain Rifle (18/0)** + Oko **#1 FO/Sensor (15/0)** | **33/0** | **2** | Cheapest linked biker/Repeater-sensor scoring escort. |
+| 2 Duo | RoadBot **#2 Red Fury (27/1)** + RoadBot **#5 Paramedic/Heavy Riotstopper (20/0)** | **47/1** | **2** | Speed and gun pressure; two identical Unit names. |
+
+**Global legality checks:** a five-model team is not automatically Level 5. FTO and Wildcard limits are **per family**, and Army AVA and the **one-Core/one-Haris** caps remain binding across teams. Peripherals do not count as team members. A **Lawkeeper/RoadBot profile with a deployed or attached Synchronized SideBot cannot join**, because the Controller is ineligible; only the no-SideBot options are shown. Raptors and their Devabots cannot masquerade as a Duo; a team in Marker/Hidden state is likewise ineligible. A legal formation in this table is **not itself a complete 300-point Army list**; report reconstructions are separately labelled as confirmed, strongly supported, or adapted.
+
 ## Unit → Fireteam access index
 
 This index is generated from the canonical chart above. If it ever conflicts with `## Fireteams`, the canonical chart wins.
