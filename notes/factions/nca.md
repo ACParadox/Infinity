@@ -56,6 +56,11 @@ NCA's distinctiveness comes primarily from **exclusive roster access and strong 
 
 ### Particularly strong or unusual Fireteams
 
+**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../sectorials/panoceania/neoterran-capitaline-army.md#recommended-fireteam-compositions--n53-audited). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+
+Best starting tests: **four Bolts + Machinist Core 108/1.5 (FT5)** for attrition defense; **Hannibal + Bolt KHD + Shona Haris 70/0 (FT2)** for forward mission pressure; **Aquila FTO + Bolt sniper + Shona Haris 97/1.5 (FT1)** for anti-marker shooting. The #044 and #227 teams were reported as actual links, with their current profile options reconstructed.
+
+
 - **Ultima Ratio Duo:** **Squalos Mk-II** with Wildcard **Pathfinder TacAware** joins actual shooting to FO/Sensor/Repeater scoring and a personal activation. Native choices also include the **Maximus TAG**. This is **not** a legal Uhlan Duo.
 - **Neoterra Core/Haris:** **Bolt or ORC** required-choice gun base, with **Machinist NCA** (counts as Bolt), **Blockers**, and legal Wildcards such as **Black Friar, Quinn or Hannibal**. Excellent when linked Bolt ARO and repair/hacking help are both needed.
 - **Fusilier Core/Haris:** a cheap required **Fusilier** can support **Blocker** network defense and limited ORC/CSU firepower rather than tying the whole budget into elite infantry.
