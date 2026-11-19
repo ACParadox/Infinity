@@ -639,6 +639,30 @@ The following two rows are the **Army-1101 vanilla chart**. They are authoritati
 - Kempeitai are **not** vanilla Wildcards in this chart; their Ōban Wildcard status does not carry into generic JSA.
 - Sectorial-specific counts-as or Wildcard rules from Ōban/Shindenbutai do not apply unless explicitly reproduced above.
 
+## Validated competitive Fireteam examples — 2026-11-19
+
+**Calculation baseline:** [Pinned Army backup 7.26246.159](https://github.com/massayoshi/infinity-army-backup/tree/6b79f39a3abbf5cd3d837fb9dc65e411fc35244b/n5), N5.3/ITS 18; [Fireteam formation](https://infinitythewiki.com/Fireteams%3A_Basic_Rules), [levels](https://infinitythewiki.com/Fireteam_Bonuses), [chart restrictions](https://infinitythewiki.com/Fireteams_Chart), [Peripheral (Ancillary)](https://infinitythewiki.com/Peripheral). An exact option ID is provided for every model; each quoted price is **points/SWC**. Team total is not an entire 300-point roster. `+1 SWC` Lieutenant options **increase army SWC allowance** and are not expenditure.
+
+**Bonus level = most models with the same Unit name or matching bracketed counts-as label**, not automatically the number of models. L1 linked Orders; L2 BS Attack (+1 SD); L3 +3 Discover/+1 Dodge; L4 +1 BS; L5 Sixth Sense. Duo is **2** at creation, Haris **3**, Core **3–5**. Surviving two-model Haris is still a Haris, not a newly created Duo. Same Combat Group, coherency, no eligible marker/infiltration/airborne/suppressive/Null/Isolated troopers; deployed active Peripherals and their Controllers cannot be in a team (Ancillary exception described below).
+
+**Legality:** maximum **2 Duos, 1 Haris, 0 Core**. FT-I is Duo only (Jizamurai, Domaru, Daiyōkai, Shizoku **FTO opt 1–2**, O-Yoroi, Mechazoid, Yuriko **FTO opt 1–2**, Mushashi, Shurayuki, Ioann). FT-II is Duo/Haris (Domaru, Karakuri, Rui Shi, Daiyōkai, Yuriko FTO, Oyama, Shurayuki). No Wildcards; **Kempeitai, Hatamoto, Tankō and Shikami cannot link**. No legal four- or five-model Vanilla starting team.
+
+**Battle-report evidence:** [#153 Krug winner](../../notes/battle-reports/151-160-n5-battle-report-tactical-analysis.md) explicitly discusses Musashi/Ioann and a two-Karakuri approach, but **does not establish an exact Karakuri+Yuriko three-model Haris**. [#051](../../notes/battle-reports/051-060-n5-battle-report-tactical-analysis.md) suggests the Daiyōkai/Jizamurai Duo with loadouts not fully narrated. [#109](../../notes/battle-reports/101-110-n5-battle-report-tactical-analysis.md) is an Ōban battle report, so its exact double-Karakuri Duo shows a *played package* but is **not direct evidence of fielding it in Vanilla**. See [Vanilla JSA tactical audit](../../notes/factions/vanilla-jsa.md#battle-report-tested-list-shells-and-fireteam-ideas-2026-11-03).
+
+**Evidence categories:** Explicit/Reported = a team was narrated in an indexed report; Adapted = rules-legal choice inspired by that report without asserting identical loadouts; Proposed = validated option and rules theorycraft, not a proven match result. **Best** is an editorial judgment, not win-rate data. Costs below are drawn from the pinned Army options, and level from the current chart's equivalence labels.
+
+| Members | Formation | Exact profiles, per-member points/SWC and option ID | Team total | FT level | Tactical role and evidence |
+|---:|---|---|---|:---:|---|
+| 2 | Duo: JSA Fireteams I | **Best CC — Mushashi/Ioann** — Musashi Irregular Chain Rifle/Tactical Bow **(21/0, option 1)**; Ioann Bann Viral Bow **(30/0, option 2)** | **51 pts / 0 SWC** | **L1** | Two Irregular attackers; the pairing is a tactical assault module, not a source of Regular Orders. **Evidence:** Reported #153. |
+| 2 | Duo: JSA Fireteams I | **Daiyōkai/Jizamurai** — Daiyōkai HMG NCO **(50/1, option 3)**; Jizamurai Thunderbolt **(24/0, option 4)** | **74 pts / 1 SWC** | **L1** | Distinct Units give only L1. Good HMG with midrange escort. **Evidence:** Reported family #051; options adapted. |
+| 2 | Duo: JSA Fireteams I | **Budget specialist escort** — Jizamurai SMG **(22/0, option 5)**; Yuriko FTO Panzerfaust Engineer **(23/0, option 2)** | **45 pts / 0 SWC** | **L1** | FTO-only Yuriko; low-SWC mission support. **Evidence:** Proposed. |
+| 2 | Duo: JSA Fireteams I | **Domaru matching pair** — Domaru Chain Rifle E/M CCW **(20/0, option 2)**; Domaru Combi Forward Observer **(27/0, option 6)** | **47 pts / 0 SWC** | **L2** | Two matching Domaru for L2 and objective coverage. **Evidence:** Proposed. |
+| 2 | Duo: JSA Fireteams II | **Best zero-SWC Karakuri Duo** — Karakuri E/Mitter FO **(31/0, option 5)**; Karakuri Mk12 FO **(38/0, option 4)** | **69 pts / 0 SWC** | **L2** | Two Structure 3 Forward Observers; robust zero-SWC scoring. **Evidence:** Reported #109. |
+| 2 | Duo: JSA Fireteams II | **Daiyōkai and Rui Shi** — Daiyōkai HMG NCO **(50/1, option 3)**; Rui Shi MSV2 Spitfire **(23/1, option 1)** | **73 pts / 2 SWC** | **L1** | Separate high-quality gunfighters, only L1. **Evidence:** Proposed. |
+| 3 | Haris: JSA Fireteams II | **Best objective Karakuri Haris** — Karakuri E/Mitter FO **(31/0, option 5)**; Karakuri Mk12 FO **(38/0, option 4)**; Yuriko FTO Panzerfaust Engineer **(23/0, option 2)** | **92 pts / 0 SWC** | **L2** | Two Structure 3 scorers plus Engineer. L2, not L3; Yuriko is a different Unit in Vanilla. **Evidence:** #153 two-Karakuri winner archetype; third member adapted. |
+| 3 | Haris: JSA Fireteams II | **Three distinct specialists** — Karakuri Heavy Shotgun FO **(31/0, option 1)**; Domaru Combi FO **(27/0, option 6)**; Yuriko FTO E/Mitter Engineer **(25/0, option 1)** | **83 pts / 0 SWC** | **L1** | All three different Units: L1 despite being a three-model Haris. **Evidence:** Proposed. |
+| 3 | Haris: JSA Fireteams II | **Domaru command Haris** — Domaru LT +1 Order E/M **(23/0, option 7)**; Domaru Combi FO **(27/0, option 6)**; Daiyōkai HMG NCO **(50/1, option 3)** | **100 pts / 1 SWC** | **L2** | Two Domaru provide L2; NCO can use eligible LT Orders. **Evidence:** Proposed. |
+
 ## Unit → Fireteam access index
 
 This table is derivative. If it conflicts with the canonical rows above, the canonical Fireteam definitions win.
