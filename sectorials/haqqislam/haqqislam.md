@@ -783,6 +783,31 @@ The pinned Army chart gives every member row below `required: false` and `min: 0
 | JANISSARY | 0 | 1 | — |
 | LEILA SHARIF | 0 | 1 | — |
 
+## Costed Fireteam construction and Fireteam Levels — N5.3 (19 November 2026)
+
+This is a **derived list-building matrix**, not a replacement for the canonical Army chart immediately above. Profile prices/SWC are from this file's **pinned Army 7.26246.158** unit options; totals are for the listed members **only** (not a 300-point roster). Observed reports may precede the pinned revision: where a video/report names a unit but not its precise current Army option, the price is explicitly a **current-profile reconstruction**, not a claimed historical roster export.
+
+**Fireteam Level is the largest matching same-Unit / parenthetical counts-as group, not total bodies** ([N5.3 Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses), [Fireteams Chart](https://infinitythewiki.com/Fireteams_Chart)). Level 1 = shared activation; Level 2 = BS Attack (+1 SD), **not +1 Burst**; Level 3 = +3 Discover/+1 Dodge; Level 4 = +1 BS; Level 5 = Sixth Sense. All benefits through the attained level are cumulative. A legal team may still be only Level 1, and losing a member recalculates the level. Created Duos have **2**, Harises **3**, Cores **3–5** members. Infiltration, Airborne Deployment, markers, Peripherals and their Controllers, and the other published restrictions still apply; compare the selected option, not only the unit name.
+
+**Vanilla constraints:** **Core 0; Haris 1; Duo 2**. Pools I and II cannot be mixed in a single team. Pool I is **Duo only**; Pool II is **Duo/Haris**. The pinned vanilla member caps are at most **two of any one unit per pool**, with several units limited to one; none has a counts-as equivalence. **Consequently a vanilla Haris tops out at Level 2; Level 3 is not available**, and there are no legal new 4- or 5-body Vanilla Fireteams. No FTO label by itself grants access (notably Fiddler/Claire/Rafiq).
+
+**Evidence key:** **Played** = the named structural team was actually described in a repository battle-report analysis; a listed modern option may be reconstructed. **Recommended** = legal construction from the chart, but not claimed as an independently verified played list. **Best** = tactical editorial preference, not statistical win-rate evidence.
+
+| ID | Formation / size | Exact profiles (each pts/SWC) | Total pts/SWC | FT Level | Evidence and use |
+|---|---|---|---:|---:|---|
+| V1 | **Duo** · I · Mukhtar MSV2 Red Fury + Hacker | Mukhtar MSV2 Red Fury **34/1** + Mukhtar Hacking Device **29/0.5** | **63/1.5** | **2** | **Best mobile gun + hacker**; [played #076](../../notes/battle-reports/071-080-n5-battle-report-tactical-analysis.md) and [#081](../../notes/battle-reports/081-090-n5-battle-report-tactical-analysis.md) |
+| V2 | **Duo** · I · Maghariba + repair | Maghariba MULTI HMG / E/M Carbine **72/1.5** + Najjarun Engineer rifle **15/0** | **87/1.5** | **1** | **Best TAG recovery Duo**; [played TAG/Engineer #126](../../notes/battle-reports/121-130-n5-battle-report-tactical-analysis.md); selected TAG option is a current-profile reconstruction |
+| V3 | **Duo** · I · Mukhtar surgical scoring | Mukhtar MSV2 Red Fury **34/1** + Mukhtar Forward Observer **25/0** | **59/1** | **2** | Recommended alternative to a hacker where immediate button access matters |
+| V4 | **Duo** · I · Djanbazan visor + medic | Djanbazan HMG **31/1.5** + Djanbazan Doctor (+1) **26/0** | **57/1.5** | **2** | Recommended ranged MSV2 and recovery pair |
+| V5 | **Duo** · I · Shakush escort | Shakush HMG (Continuous Damage) **58/1.5** + Najjarun Engineer rifle **15/0** | **73/1.5** | **1** | Recommended TAG + engineer; keep repair reach protected |
+| V6 | **Duo** · II · Economy/utility | Odalisque Paramedic **21/0** + Korsan FTO Chain Rifle/Drop Bears **13/0** | **34/0** | **1** | Recommended cheap escort; **Korsan FTO**, not its Forward Deployment/Parachutist alternatives |
+| V7 | **Duo** · II · Compact independent guns | Burkut E/Marat **26/0** + Sekban Boarding Shotgun (NCO) **19/0** | **45/0** | **1** | Recommended E/M/template support; cross-unit pair stays Level 1 |
+| V8 | **Haris** · II · Janissary + Odalisque mission | Janissary HMG **38/1.5** + Odalisque Disco Baller **21/0** + Odalisque Paramedic **21/0** | **80/1.5** | **2** | **Best mission-protection Haris**; [played #096](../../notes/battle-reports/091-100-n5-battle-report-tactical-analysis.md) |
+| V9 | **Haris** · II · Burkut + Odalisque mission | Burkut E/Marat **26/0** + Odalisque Paramedic **21/0** + Odalisque Viral Marksman Rifle **26/0** | **73/0** | **2** | **Best light scoring/utility Haris**; [reconstructed/played #141](../../notes/battle-reports/141-150-n5-battle-report-tactical-analysis.md) |
+| V10 | **Haris** · II · Janissary NCO attack | Janissary HMG **38/1.5** + Sekban Red Fury (NCO) **27/1** + Sekban Doctor (+1; NCO) **23/0** | **88/2.5** | **2** | Recommended Hafza LT(+1 Order) outlet; NCO is a **base Sekban skill**, not an exclusive loadout |
+| V11 | **Haris** · II · Muyib smoke/support | Muyib Smoke Grenade Launcher **21/1** + Muyib Doctor (+1) **26/0** + Leila Sharif KHD **22/0** | **69/1** | **2** | Recommended smoke, medical and KHD; two Muyibs set Level 2 |
+| V12 | **Haris** · II · Burkut and Korsan breach | Burkut Boarding Shotgun/Panzerfaust **28/0** + Korsan FTO Chain Rifle/Drop Bears **13/0** + Korsan FTO Submachine Gun/Grenades **18/0** | **59/0** | **2** | Recommended short-range breach; only the FTO Korsan options qualify |
+
 ## Reverse Fireteam access index
 
 | Troop / profile | Pool | Types | Max | Notes |
