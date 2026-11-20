@@ -6,6 +6,8 @@
 
 **ARO mechanics:** Only the eligible reacting trooper shoots in its ARO; linked guns do not all fire for free. L2 gives **BS Attack (+1 Special Die)** rather than +1 Burst; L3 also improves Discover/Dodge, L4 adds +1 BS, L5 adds Sixth Sense. A normal weapon **(+1B)** is not extra reactive Burst; Total Reaction/Neurocinetics specifically change reactive Burst. Favor exposed-lane quality, ARO durability, template/close defense, MSV versus Mimetism, alternative non-MSV lines, and actual defensive job of the supporting members. An Engineer does **not** medically heal a living sniper just by being linked to it.
 
+**Positional compatibility rule:** Build around an ARO anchor and teammates that can **hold the same position**. A dedicated active-turn assault gun tends to push forward while a sniper/launcher wants to keep its reactive lane; pairing both in one Fireteam creates a movement and Coherency conflict even when both are individually excellent. A **short-range defensive gun or template** is different: it screens nearby approaches without abandoning the ARO anchor's position. A mobile **advance-then-hold** group is a possible exception where both models genuinely benefit from occupying the same final area.
+
 ## Apex and Value — independently ranked
 
 **Apex** ranks the peak credible reactive defense in a normal 300-point list, accounting for 3–5-SWC opportunity costs; **Value** rewards defensive threat per model/points, alternate jobs and not overspending on backfield bodies. The table is sorted by Apex; a lower Value number is better. The rare five-member exception is labeled.
