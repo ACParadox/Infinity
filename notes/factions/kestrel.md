@@ -157,7 +157,7 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 ### Lieutenant (LT)
 
 - **BCA Magistrate:** Strategos L1 Lieutenant (19 pts), Counterintelligence and FT Master (Jackals); a **separate** Magistrate CoC profile can insure the LT.
-- **Fennec Fusilier:** cheap 10-point Lieutenant; **no Decoy or NCO** on the current LT profile.
+- **Fennec Fusilier:** cheap 10-point Lieutenant; field a **second, ordinary 10-point Combi Rifle Fennec with the identical visible loadout as an LT lookalike (a tactical decoy, not the Decoy skill)**. Pair with a **separate NCO** (e.g., Firefly, Sforza or the 66-point Squalos) to exploit the LT Order; neither Fennec has NCO.
 - **Tikbalang:** Lieutenant (+1 Order), 73 pts; pair with a separate CoC model to protect succession.
 - **Griffin:** HMG Lieutenant, 37 pts/**1 SWC** (0.5 SWC less than the 1.5-SWC non-LT HMG); separate CoC support recommended.
 - **Hetkari:** Missile Launcher or MULTI Red Fury Lieutenant; separate CoC support recommended.
@@ -323,7 +323,7 @@ The [current Kestrel chart](../../sectorials/panoceania/kestrel-colonial-force.m
 
 ### Tournament-proven shapes worth building around
 
-- **Economical four-body ARO Core:** [#002–#004 ITC 2025](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) reused **one list**, not three independent army builds: **Black A.I.R. FTO MULTI Sniper + Fennec Lieutenant + Fennec Decoy + Fennec FO** in a **four-person FENNECS Core**. Its independent moving pieces included **Griffin Feuerbach + Firefly Engineer Duo** and a **Hetkari + Pathfinder** attack pair; the latter was described as paired but its original Duo label was less explicit. These are current-chart-compatible **FENNECS** and **KESTREL** compositions when the named FTO and Wildcard profiles are selected.
+- **Economical four-body ARO Core:** [#002–#004 ITC 2025](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) reused **one list**, not three independent army builds: **Black A.I.R. FTO MULTI Sniper + Fennec Lieutenant + ordinary Combi Rifle Fennec serving as an LT lookalike + Fennec FO** in a **four-person FENNECS Core**. Its independent moving pieces included **Griffin Feuerbach + Firefly Engineer Duo** and a **Hetkari + Pathfinder** attack pair; the latter was described as paired but its original Duo label was less explicit. These are current-chart-compatible **FENNECS** and **KESTREL** compositions when the named FTO and Wildcard profiles are selected.
 - **Mission Haris instead of a large Core:** [#005](../battle-reports/001-010-n5-battle-report-tactical-analysis.md) explicitly used **Fennec + Crux Knight FTO + Bipandra** as a **three-body FENNECS Haris**. This packages an Albedo assault specialist with Doctor and inexpensive mission support; the rest of the list can fund **Redeye, Black A.I.R. and forward specialists**. The report's suspected extra opposing REM is *not* a confirmed legal roster model.
 - **Five-person defensive Core with active Duos:** [#175 CanCon 2025](../battle-reports/171-180-n5-battle-report-tactical-analysis.md) documents **Griffin Feuerbach + Bipandra + three Fennecs** (two Thunderbolt/Minelayer profiles and one basic) as a **five-body FENNECS Core**, with **Hetkari + Firefly Duo** and **Magistrate + Jackal Duo** as other compact packages. The event-winning list should not be inflated with models from the player's second, separate tournament build.
 - **Flexible elite Wildcard Core:** [#158 AdeptiCon 2026](../battle-reports/151-160-n5-battle-report-tactical-analysis.md) describes a **Black A.I.R. K1 specialist + Crux FTO + Fennec FO + basic Fennec** four-body attack candidate and an alternative **Black A.I.R. Neurocinetics Sniper** role. **Crux changes team assignment depending on the table**; never count it in both groups at once. A **Firefly HRL + Firefly Engineer Duo** is separately reported.
@@ -484,7 +484,7 @@ These are **purpose-specific disagreements, not a popularity vote**. The fact th
 5. **Decide defensive architecture:** cheap mines and Panzerfaust crossfires first; add Black A.I.R., Sierra or Blink only if they cover *different* attack approaches. Use reserve deployments to put a disruptive piece opposite the enemy plan.
 6. **Account for anti-hacking and recovery:** don't expose every HI/REM/TAG to one Turn-1 Pitcher. Put a deactivator/engineer/KHD/disposable close-assault route where it can actually answer an advancing repeater or hacker.
 7. **Sequence your activations:** clear key ARO → pressure critical enemy piece → exploit gap with specialist/Redeye/Banshee → **spend a TacAware partner's Order to retreat the TAG/link**. Preserve a score-on-Turn-3 piece rather than winning unnecessary firefights.
-8. **Audit SWC, silhouette and exact Fireteam composition in the live Army app.** Older YouTube and podcasts include pre-N5.3 unit prices, Fennec LT Decoy claims and turret/reload assumptions that do not survive the current reference.
+8. **Audit SWC, silhouette and exact Fireteam composition in the live Army app.** Older YouTube and podcasts include pre-N5.3 unit prices and turret/reload assumptions that do not survive the current reference. A second ordinary Combi Rifle Fennec can **look like** the Fennec LT; that is a tactical decoy, **not** the Decoy skill.
 
 ## Related notes
 
