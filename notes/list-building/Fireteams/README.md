@@ -2,18 +2,27 @@
 
 This folder contains cross-sectorial Fireteam comparisons and rankings for Infinity N5.3.
 
-## Ranking files
+## Mandatory evidence policy — no invented Fireteams
 
-- [Gunfighting Fireteams — N5.3 Apex and Points-Value Rankings](gunfighting-fireteams-apex-and-value.md) — separate Top 10 Apex and Value rankings, costed compositions, Fireteam Levels, legality sources and expensive-elite comparisons.
+**All seven category rankings are now evidence-only.** A named Fireteam is eligible only when its linked **member identities and physical headcount** are stated/used in an [indexed battle report](../../battle-reports/n5-battle-reports-and-tournament-reports.md), a linked YouTube recording or a first-person podcast/tournament retrospective. A legal N5.3 chart combination **alone is not evidence that the team was mentioned or played**.
+
+- **Every ranked row must carry its own battle-report, YouTube or podcast reference.** Keep the [source-backed occurrence register](OBSERVED-COMPOSITIONS.md) synchronized. A sectorial chart/roster, without primary game or player-discussion evidence, is insufficient.
+- **No composed/fabricated members.** Do not change a two-member source Duo into a three-member Haris, pad three bodies to a five-model Core, substitute similar units, infer an extra FTO, or merge separately played groups. Do not count Peripherals, Decoys, pilots, combat-group members or unplayed alternative drafts as teammates.
+- **No invented profile choices.** Show *only* weapons and specialist roles actually recoverable from the source. For unspoken weapon options, show the named unit with **profile unknown**. Provide a physical-model bullet for every **explicitly documented body**, including separate bullets for repeated units.
+- **Keep historical evidence separate from N5.3 legality.** A played N5 Fireteam is not automatically eligible under today's chart. Recheck AVA, chart requirements, Counts-as, FTO versions, Fireteam limits, equipment, current profiles and source-era quirks before creating any present-day list.
+- **Do not fake precise points/SWC or levels.** Only assign a current N5.3 total when the original source identifies all relevant loadouts and they match current pinned profiles. Otherwise display **— / not verified**. Fireteam level is *not* physical model count; only display a level supported by the current chart, never by extrapolating from bodies.
+- **Document evidentiary boundaries.** Differentiate an explicitly played or first-hand reported team from a hypothetical option the player merely discussed. Mark custom formats, concessions, tutorials, unusual missions, incomplete transcripts and historical rules versions. No single report establishes win rates.
+- **No padding rankings to arbitrary Top 10/15 lengths.** A file may have fewer qualifying cases; Apex and Value remain distinct qualitative comparisons among **source-backed entries only**.
+
+The [70 documented occurrence records](OBSERVED-COMPOSITIONS.md) are the shared evidence pool. If a future video or podcast establishes a new exact formation, add the primary source and recorded members **before** inserting it into a ranking.
 
 ## Ranking conventions
 
-- **Apex:** maximum competitive impact in a practical 300-point all-comers list, not raw power without regard to investment.
-- **Value:** competitive contribution relative to points, SWC, Order economy, and opportunity cost.
-- Rank **Apex** and **Value** separately while presenting them together where practical.
-- Record exact legal 2–5 member profiles, Fireteam level, total points and SWC, role, and pinned Fireteam-chart/roster source for each ranked composition.
-- In every Fireteam comparison table, give **one bullet per physical model** in the **Units / exact profiles** column (including individually repeated copies), plus separate **# units**, **FT level**, and **points / SWC** columns; member count and Fireteam level are not interchangeable.
-- Use descriptive Fireteam names rather than arbitrary composition IDs in headings and rankings; preserve links to canonical sectorial references and note if an exact team is theorycrafted rather than battle-report tested.
+- **Apex:** strongest observed mission-specific capability in a realistic 300-point list; broader N5.3 extrapolations remain conditional.
+- **Value:** documented practical contribution relative to physical footprint, opportunity cost, and **verified** points/SWC where available. Missing exact current profiles make Value judgments **provisional**, never a mathematical points-efficiency statistic.
+- Use **one bullet for each reported physical member**, plus **# units**, **Fireteam Level (if independently verified)** and **points/SWC (if verified)**. Do not invent extra bullets solely to complete a table.
+- Compare **range-band and counter coverage** only for weapons/tools actually identified; evaluate complementary attack, scoring, hacking/repeater access and recovery within the linked group, not outside support silently added to the team.
+- Rank distinct actually played configurations as distinct if the source does so. A roster's proposed/rebuilt loadouts are **not** second verified formations.
 
 ### Apex investment bands
 
@@ -24,7 +33,7 @@ This folder contains cross-sectorial Fireteam comparisons and rankings for Infin
 | 136–150 | Exceptional Apex | Requires substantial justification |
 | >150 | Normally excluded | Consider only when extraordinary Order generation or mission flexibility offsets the cost |
 
-Rankings belong in separate Markdown files in this folder; do not treat unverified compositions as confirmed legal entries.
+**The Apex point bands apply only where an entire modern N5.3 Fireteam cost has been verified; they do not authorize filling in unreported profiles.**
 
 
 ## Cross-role Fireteam evaluation guidelines
@@ -95,18 +104,15 @@ Suggested **value scouting ranges**, not eligibility cutoffs: Duo **25–65 pts*
 **Ranking application:** keep Apex and Value independent; assess role accomplishment first, then practical **range coverage** and **counter coverage** as separate cross-role criteria. Reward only capabilities that can be employed in realistic turns, including after likely casualties. Do not allow broad coverage to overwhelm the team's core purpose or justify an inefficient extra model.
 
 
-## Role rankings
+## Ranking files and occurrence register
 
-- [Board Control / Area Denial — Apex & Value](board-control-area-denial-fireteams-apex-value.md): linked denial, E/M, mines, networks and specialist control.
-- [Mission Specialists / Objective Play — Apex & Value](mission-specialists-objective-play-apex-and-value.md): mission scoring, recovery, specialists and objective access.
+- [Observed Fireteam compositions — source register](OBSERVED-COMPOSITIONS.md): 70 separately referenced observed or first-person-reported Fireteams; exact member identities, historical source, gaps and qualified modern costs.
+- [Gunfighting — source-backed Apex & Value](gunfighting-fireteams-apex-and-value.md)
+- [Defensive / ARO — source-backed Apex & Value](defensive-aro-fireteams-apex-and-value.md)
+- [Mission Specialists / Objective Play — source-backed Apex & Value](mission-specialists-objective-play-apex-and-value.md)
+- [Board Control / Area Denial — source-backed Apex & Value](board-control-area-denial-fireteams-apex-value.md)
+- [Order Economy / Force Multipliers — source-backed Apex & Value](order-economy-force-multipliers-apex-value.md)
+- [Combined-Arms / Toolbox — source-backed Apex & Value](combined-arms-toolbox-apex-and-value.md)
+- [Close Assault / Breakthrough — source-backed Apex & Value](close-assault-breakthrough-apex-value.md)
 
-- [Close Assault / Breakthrough — Apex & Value](close-assault-breakthrough-apex-value.md): exact 2–5-member assault and breach teams, independent Apex/Value tables, N5.3 points/SWC, Fireteam Levels and evidence.
-- [Combined-Arms / Toolbox — Apex & Value](combined-arms-toolbox-apex-and-value.md): separate cross-sectorial Apex/Value ranks, 18 exact N5.3 costed profiles, Fireteam levels, chart constraints and report-evidence distinctions.
-
-## Category rankings
-
-- [Order Economy / Force Multipliers — Fireteam Apex & Value](order-economy-force-multipliers-apex-value.md): whole-game Top 10, exact legal packages, Order accounting and independent Apex/Value rankings.
-
-## Ranking files
-
-- [Defensive / ARO Fireteams — Apex and Value](defensive-aro-fireteams-apex-and-value.md) — separate Top 15 rankings and 21 pinned, costed defensive compositions.
+**Scope:** these are **observed-formation comparisons**, not an exhaustive optimization of every legal N5.3 Fireteam. Candidate teams suggested by a legal chart alone belong in a clearly separate *theorycrafting* document, not in these verified rankings.
