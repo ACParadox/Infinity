@@ -150,6 +150,149 @@ Start with **three-body FENNECS Haris/Core candidates** for compact ranged shoot
 - **Main weaknesses:** aggressive enemy Pitchers/hacking grids into your HI/TAGs; a visible Magistrate LT; Albedo/White Noise versus over-reliance on MSV; off-table pieces reducing Turn-1 Orders; one expensive brawler that cannot score objectives. Build a second attack/scoring route.
 - **Disagreement is substantial.** Shepherd likes a distributed-link, high-order all-rounder. The 2026 Irregular Order hosts favor very different units and plans—one prizes Black A.I.R. ARO and a defensive Hetkari ML; the other likes more aggressive pieces and unusual Fireteams. Daboarder (WIP12) emphasizes *scenario contingencies*, Redeye and cheap disruption instead of a fixed shopping list.
 
+## Sectorial Inventory
+
+Quick role-based index for Kestrel list building. Entries identify **alternative profiles**, not simultaneous abilities on a single model. Costs, SWC, AVA and profile legality follow the [pinned N5.3 Kestrel roster](../../sectorials/panoceania/kestrel-colonial-force.md).
+
+### Lieutenant (LT)
+
+- **BCA Magistrate:** Strategos L1 Lieutenant (19 pts), Counterintelligence and FT Master (Jackals); a **separate** Magistrate CoC profile can insure the LT.
+- **Fennec Fusilier:** cheap 10-point Lieutenant; **no Decoy or NCO** on the current LT profile.
+- **Tikbalang:** Lieutenant (+1 Order), 73 pts; pair with a separate CoC model to protect succession.
+- **Griffin:** HMG Lieutenant, 37 pts/**1 SWC** (0.5 SWC less than the 1.5-SWC non-LT HMG); separate CoC support recommended.
+- **Hetkari:** Missile Launcher or MULTI Red Fury Lieutenant; separate CoC support recommended.
+
+### Chain of Command (CoC)
+
+- **BCA Magistrate:** 21 pts (Combi Rifle option; MULTI Marksman CoC is 25).
+- **Firefly:** 23 pts.
+
+### NCO
+
+- **Firefly:** 19–25 pts across its profiles; NCO is a troop-wide skill.
+- **Squalos Mk-II:** **66-point MULTI HMG profile only**; 55-point MMR and 62-point HMG/GL profiles do not have NCO.
+- **Sforza:** 26-point solo or Albedo FTO profiles; 23-point FTO also has NCO.
+
+### Warhorse
+
+- **Richard Quinn:** 26 pts (both Forward Observer profiles).
+
+### Gunfighters
+
+- **Bulleteer:** Spitfire, Mimetism (-6).
+- **Redeye:** aerial Spitfire vehicle and strong flanking angles.
+- **Griffin:** HMG.
+- **Crux Father-Knight:** MULTI Marksman Rifle or Spitfire FTO; alternate hidden-deployment attack profiles.
+- **Hetkari:** MULTI Red Fury.
+- **Squalos Mk-II:** MULTI Marksman Rifle, HMG/GL or NCO MULTI HMG.
+- **Tikbalang:** HMG, Mimetism (-3), Climbing Plus.
+- **Knauf:** MULTI Sniper Rifle, MSV1.
+- **Drummer:** Drumbot-1 MULTI HMG or Drumbot-2 HRMC.
+- **Black A.I.R.:** K1 Marksman Rifle FTO.
+
+### ARO
+
+- **Fennec Fusilier:** Thunderbolt (+1B), Shock Minelayer.
+- **Blink Team:** Heavy Rocket Launcher or MULTI Sniper Rifle.
+- **Sierra Dronbot:** Total Reaction HMG.
+- **Black A.I.R.:** FTO Neurocinetics MULTI Sniper, MSV2.
+- **Drummer:** Drumbot-3 Neurocinetics Feuerbach.
+- **Sforza:** BS Attack (+1SD), Viral Rifle, Adhesive Launcher Rifle, Nanopulser.
+- **Firefly:** Heavy Rocket Launcher.
+- **Firefly:** Armed Turret Minelayer **or** Engineer support (different profiles).
+- **Griffin:** Feuerbach.
+- **Hetkari:** Missile Launcher.
+- **Crux Father-Knight:** MULTI Marksman Rifle (particularly a legal FTO link).
+
+### Midfield Defense
+
+- **Jackals:** infiltrating E/M Grenade Launcher Shock Minelayer.
+- **Beasthunter:** Forward Deployment Camouflage profile.
+- **Peacemaker:** forward-deployed REM with Repeater and Auxbot options.
+- **Scarecrow:** infiltrating Camouflage Minelayer.
+- **Sāchā:** forward E/M Grenades and Flash Pulse.
+- **Dart:** Camouflage, mines and optional Sharvara K9.
+- **Yamabushi:** forward-close defence and disposable Camouflage.
+
+### Deployment Zone (DZ) Defense
+
+- **Fennec:** Thunderbolt (+1B) Shock Minelayer.
+- **Fugazi:** Flash Pulse and Repeater.
+- **Warcor / Sāchā:** low-cost Flash Pulse coverage.
+- **Peacemaker:** forward defensive screen.
+- **Firefly:** Armed Turret Minelayer.
+
+### Hackers
+
+- **Firefly:** Hacking Device.
+- **Scarecrow:** Hacking Device.
+- **Fennec Fusilier:** Hacking Device with FastPanda.
+
+### Killer Hackers
+
+- **Scarecrow:** Killer Hacking Device.
+- **Banshee:** Killer Hacking Device; Combat Jump/Parachutist access.
+
+### Network Projection
+
+- **Fennec Fusilier:** Hacker with FastPanda.
+- **Pathfinder:** MOV 15-10, Tactical Awareness (17 pts), native Repeater.
+- **Peacemaker:** Forward Deployment (+20), native Repeater.
+- **Scarecrow:** Infiltration and Deployable Repeater (specific 26-point profile).
+- **Tech-Bee:** Deployable Repeater.
+- **Firefly:** Deployable Repeater (19-point profile).
+- **Optimate Agent Maximus:** TinBot (Repeater) on the 45-point FTO profile, not the Minimus Peripheral profile.
+
+### Cheerleaders / Order Generation
+
+- **Magistrate + Jackal FTO:** 21 + 6 pts with the CoC Magistrate, or 17 + 6 with the basic Magistrate; FT Master can make linked Jackal Orders Regular at Order Count under its conditions.
+- **Fennec Fusilier:** 10+ pts, AVA 5.
+- **Fugazi:** 7 pts, AVA 1.
+- **Tech-Bee:** 9 pts, AVA 1.
+- **Mulebot:** 8-point Baggage option, AVA 2.
+- **Pathfinder:** 17-point Tactical Awareness option, AVA 2 (Wildcard max 1 per legal Fireteam).
+
+### Close Combat (CC)
+
+- **Dart + Sharvara K9:** optional Peripheral package.
+- **Optimate Agent Maximus:** strong CC/anti-heavy combat.
+- **Yamabushi:** Martial Arts L3, DA CCW.
+- **Crux Father-Knight:** Martial Arts L2, DA CCW.
+
+### Vision Control
+
+- **Fennec Forward Observer:** Sensor + Disco Baller.
+- **Richard Quinn Forward Observer:** 26-point MULTI Rifle profile with Disco Baller (the MULTI Marksman Rifle FO profile has no Disco Baller).
+
+### Doctor
+
+- **Trauma-Doc:** budget Doctor.
+- **Bipandra:** Doctor; Tactical Awareness option.
+
+### Engineer
+
+- **Machinist:** Engineer, with optional Deployable Cover or Armed Turret variants.
+- **Firefly:** 23-point Engineer profile (distinct from its turret/CoC/Hacker profiles).
+
+### Deployment Zone (DZ) Attack
+
+- **Redeye:** fast aerial angles into enemy backfield.
+- **Black A.I.R.:** Killer Hacker with Parachutist (Deployment Zone).
+- **TAGs:** Tikbalang / Squalos / Maximus for breakthrough; **Redeye is a Vehicle, not a TAG**.
+- **Jackal:** infiltrating E/M Grenade Launcher for Speculative Fire.
+- **Banshee:** Combat Jump assault or Parachutist entry.
+
+### Specialists / Objective Play
+
+- **Pathfinder:** Forward Observer + Tactical Awareness.
+- **Drummer:** Forward Observer controller + Drumbot-5 Forward Observer.
+- **Scarecrow:** Hacker, Killer Hacker or Forward Observer profiles; Infiltration + Camouflage.
+- **Dart:** Specialist Operative, Forward Deployment (+20), Camouflage.
+- **Fennec:** cheap Forward Observer / Sensor / Disco Baller utility or other specialist profiles.
+- **Banshee:** Hacker or Killer Hacker; Combat Jump and Parachutist.
+- **Crux Father-Knight:** elite Specialist Operative with combat capability.
+- **Firefly:** Engineer, Hacker, CoC or other utility profile as required.
+
 ## Start with one of five architectures
 
 | Plan | Core construction | Why / cost of choosing it |
