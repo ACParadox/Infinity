@@ -21,7 +21,7 @@ _Reviewed 19 November 2026. Standard N5.3 / ITS 18, 300-point all-comers lists. 
 | **6** | **S** | **[Steel Phalanx](#sp-myrmidon)** | <ul><li>Phoenix HRL — **opt 1: 32 pts / 1.5 SWC**</li><li>Machaon Doctor — **opt 1: 37 pts / 0.5 SWC**</li><li>Myrmidon Officer CoC AP SMG — **opt 2: 30 pts / 0.5 SWC**</li><li>Myrmidon Chain Rifle — **opt 4: 16 pts / 0 SWC**</li></ul> | 4 | L4 | Myrmidons Core | **115 / 2.5** | Preferred | Phoenix HRL, Eclipse/Smoke, CC and frontline Doctor enable alternate engagement routes and recovery; L4 helps, but 115/2.5 and limited anti-MSV shooting narrow its all-comers efficiency. |
 | **7** | **S** | **[Next Wave](#nw-achilles)** | <ul><li>Achilles AP Spitfire — **standard Achilles option: 62 pts / 1.5 SWC**</li><li>Patroclus FTO MULTI Marksman/MediKit — **FTO: 35 pts / 0 SWC**</li></ul> | 2 | L2 | Team Achilles Duo | **97 / 1.5** | Preferred | Elite AP assault ceiling in a 97-point Duo. |
 | **8** | **A+** | **[Morat Aggression Forces](#mor-tarlok)** | <ul><li>Suryat HMG/Tactical Awareness/TinBot — **current 44-point HMG profile: 44 pts / 1.5 SWC**</li><li>Kaitok Chain Rifle/Flammenspeer — **current 19-point profile: 19 pts / 0 SWC**</li><li>Dartok FTO Hacker/Pitcher — **FTO 18-point profile: 18 pts / 0.5 SWC**</li></ul> | 3 | L3 | Tarlok Haris | **81 / 2** | Preferred | Tactical Awareness HMG and layered hacking/anti-armor utility. |
-|**9**| **A+** |[Shasvastii — Gwailo/Jayth Shock Haris](../../../sectorials/combined-army/shasvastii.md)|<ul><li>Gwailo MSV2 Heavy Rocket Launcher — **39 pts / 1.5 SWC**</li><li>Jayth FTO Red Fury — **34 pts / 1 SWC**</li><li>Jayth FTO dual Chain Rifles/Disco Baller — **21 pts / 0 SWC**</li></ul>|3|L3|Shasvastii Shock Haris|**94 / 2.5**|Preferred|MSV2 HRL checks Mimetism at range; Red Fury covers mobile midfield fire and Disco/dual templates protect close approaches. Three matching bodies beat the larger static Onyx Core for this active-gun slot; no Doctor and 2.5 SWC.|
+| **9** | **A+** | [Shasvastii — Gwailo/Jayth Shock Haris](../../../sectorials/combined-army/shasvastii.md) | <ul><li>Gwailo MSV2 Heavy Rocket Launcher — **39 pts / 1.5 SWC**</li><li>Jayth FTO Red Fury — **34 pts / 1 SWC**</li><li>Jayth FTO dual Chain Rifles/Disco Baller — **21 pts / 0 SWC**</li></ul> | 3 | L3 | Shasvastii Shock Haris | **94 / 2.5** | Preferred | MSV2 HRL checks Mimetism at range; Red Fury covers mobile midfield fire and Disco/dual templates protect close approaches. Three matching bodies beat the larger static Onyx Core for this active-gun slot; no Doctor and 2.5 SWC. |
 | **10** | **A+** | **[Operations Subsection](#oss-asura)** | <ul><li>Asura HD+ MULTI Marksman — **opt 3: 63 pts / 0.5 SWC**</li><li>Yadu HMG/NCO — **opt 8: 34 pts / 1.5 SWC**</li><li>Shakti KHD — **opt 1: 35 pts / 0 SWC**</li></ul> | 3 | L3 | Asuras Haris | **132 / 2** | Conditional | MSV/hacking/strong HMG toolbox justifies 132 only with sufficient Orders. |
 
 **Reading the upper rows:** The Kriza/Vostok/Betatrooper/Riot/Myrmidon packages are **different tactical solutions**, not head-to-head simulation results. An Eclipse-assisted close approach can beat a numerically stronger HMG shell on an obstructed table. A 141-point defensive Core can have a higher static ARO peak than a cheaper active Duo while still failing the practical all-comers Apex hurdle.
@@ -38,10 +38,10 @@ This ranks **contribution of the complete paid Fireteam**, not the points-effici
 | **4** | **S** | **[Operations Subsection](#oss-deva)** | <ul><li>Deva KHD BSG — **opt 5: 20 pts / 0 SWC**</li><li>Deva FO — **opt 8: 21 pts / 0 SWC**</li><li>Deva MSV2 Spitfire — **opt 9: 29 pts / 1 SWC**</li></ul> | 3 | L3 | OperationS Haris | **70 / 1** | 70-point MSV2 Spitfire, BSG KHD and FO combination addresses Mimetism, close defense and scoring without a Core-sized footprint. |
 | **5** | **S** | **[Starmada](#st-beta-haris)** | <ul><li>Betatrooper Doctor BSG — **opt 5: 27 pts / 0 SWC**</li><li>Epsilon MSV2 HMG — **opt 1: 34 pts / 1.5 SWC**</li><li>Sekudroid Adhesive/Flash — **opt 1: 19 pts / 0 SWC**</li></ul> | 3 | L3 | Betatroopers Haris | **80 / 1.5** | 80-point MSV2 HMG plus BSG Doctor and adhesive/Flash coverage gives long/short answers and recovery; modest L3 rather than an L4 accuracy boost. |
 | **6** | **S** | **[Military Orders](#mo-crosier)** | <ul><li>Crosier MSV2 HMG — **opt 6: 24 pts / 1 SWC**</li><li>Crosier Commlink Specialist — **opt 7: 13 pts / 0 SWC**</li><li>Crosier Paramedic — **opt 5: 13 pts / 0 SWC**</li><li>Crosier basic — **opt 1: 11 pts / 0 SWC**</li><li>Knight Commander Chain of Command — **opt 1: 23 pts / 0 SWC**</li></ul> | 5 | L5 | Military Orders Core | **84 / 1** | L5 MSV2 HMG with CoC and scoring for 84/1. |
-|**7**| **S** |[WinterFor — Nisse HMG / Uma FTO Duo](../../../sectorials/panoceania/svalarheima-s-winter-force.md)|<ul><li>Nisse MSV2 HMG — **opt 2: 31 pts / 1.5 SWC**</li><li>Uma FTO Breaker Combi — **opt 2: 25 pts / 0 SWC**</li></ul>|2|L2|Nisses Duo|**56 / 1.5**|Two-model L2 MSV2 HMG counters Mimetism; Uma's Breaker Combi supplies a shorter-range alternative. Excellent shooting utility per point, but no Doctor and only one premium attack gun.|
+| **7** | **S** | [WinterFor — Nisse HMG / Uma FTO Duo](../../../sectorials/panoceania/svalarheima-s-winter-force.md) | <ul><li>Nisse MSV2 HMG — **opt 2: 31 pts / 1.5 SWC**</li><li>Uma FTO Breaker Combi — **opt 2: 25 pts / 0 SWC**</li></ul> | 2 | L2 | Nisses Duo | **56 / 1.5** | Two-model L2 MSV2 HMG counters Mimetism; Uma's Breaker Combi supplies a shorter-range alternative. Excellent shooting utility per point, but no Doctor and only one premium attack gun. |
 | **8** | **A+** | **[Kestrel Colonial Force](#ke-fennecs)** | <ul><li>Fennec FO/Disco/Sensor — **opt 9: 13 pts / 0 SWC**</li><li>Fennec LRL — **opt 4: 12 pts / 0 SWC**</li><li>Fennec Thunderbolt — **opt 5: 14 pts / 0 SWC**</li><li>Fennec Lieutenant — **opt 11: 10 pts / 0 SWC**</li><li>Griffin Feuerbach — **opt 3: 38 pts / 1.5 SWC**</li></ul> | 5 | L5 | Fennecs Core | **87 / 1.5** | L5 Feuerbach and specialist/support bodies for 87/1.5. |
 | **9** | **A+** | **[Neoterran Capitaline Army](#nca-orc)** | <ul><li>Fusilier Combi — **opt 1: 10 pts / 0 SWC**</li><li>Fusilier FO/Repeater — **opt 8: 12 pts / 0 SWC**</li><li>Fusilier Paramedic — **opt 9: 12 pts / 0 SWC**</li><li>Blocker Pitcher Specialist — **opt 1: 15 pts / 0 SWC**</li><li>ORC HMG — **opt 3: 34 pts / 1.5 SWC**</li></ul> | 5 | L4 | Fusiliers Core | **83 / 1.5** | L4 ORC HMG, Pitcher and objectives for 83/1.5. |
-|**10**| **A+** |[Merovingienne — Métro/Moblot/112 FTO Core](../../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md)|<ul><li>Métro Rifle — **8 pts / 0 SWC**</li><li>Métro Paramedic — **10 pts / 0 SWC**</li><li>Métro Rifle — **8 pts / 0 SWC**</li><li>Moblot AP Spitfire — **32 pts / 1.5 SWC**</li><li>112 FTO Doctor — **11 pts / 0 SWC**</li></ul>|5|L5|Métros Core|**69 / 1.5**|Very inexpensive L5 AP Spitfire plus Paramedic/Doctor and three expendable supports; good armor answer in the midboard, though little true long-range or anti-MSV counterplay.|
+| **10** | **A+** | [Merovingienne — Métro/Moblot/112 FTO Core](../../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) | <ul><li>Métro Rifle — **8 pts / 0 SWC**</li><li>Métro Paramedic — **10 pts / 0 SWC**</li><li>Métro Rifle — **8 pts / 0 SWC**</li><li>Moblot AP Spitfire — **32 pts / 1.5 SWC**</li><li>112 FTO Doctor — **11 pts / 0 SWC**</li></ul> | 5 | L5 | Métros Core | **69 / 1.5** | Very inexpensive L5 AP Spitfire plus Paramedic/Doctor and three expendable supports; good armor answer in the midboard, though little true long-range or anti-MSV counterplay. |
 
 ## Expensive Apex and specialized gunfight contenders
 
@@ -465,6 +465,31 @@ These **do not take a Top 10 slot**. They explain meaningful alternatives, espec
 **Gunfight case:** 46-point L2 MSV2 sniper/Engineer ARO module preserving Core and Haris allowances.
 
 **Limitation:** Only two models and L2; sniper is 1W and can be circumvented with White Noise/templates.
+
+
+### Additional newly ranked current-chart compositions (discovery pass)
+
+**Shasvastii — Gwailo/Jayth Shock Haris (3, L3, 94 pts / 2.5 SWC).** [Pinned Shasvastii chart and options](../../../sectorials/combined-army/shasvastii.md). 
+- Gwailo MSV2 Heavy Rocket Launcher — **39/1.5**
+- Jayth FTO Red Fury — **34/1**
+- Jayth FTO dual Chain Rifles / Disco Baller — **21/0**
+
+**Evidence:** [Report #200](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md) describes the Gwailo/dual-Jayth Haris structure. The selected Gwailo HRL weapon is a modern reconstruction.
+
+**WinterFor — Nisse HMG / Uma FTO Duo (2, L2, 56 pts / 1.5 SWC).** [Pinned WinterFor chart and options](../../../sectorials/panoceania/svalarheima-s-winter-force.md).
+- Nisse HMG/MSV2 — **opt 2: 31/1.5**
+- Uma FTO Breaker Combi — **opt 2: 25/0**
+
+**Evidence:** [Report #012](../../battle-reports/011-020-n5-battle-report-tactical-analysis.md) includes Nisse active-Duo architecture; the current precise options are reconstructed, not a verified export.
+
+**Merovingienne — Métro/Moblot/112 FTO Core (5, L5, 69 pts / 1.5 SWC).** [Pinned FRRM chart and options](../../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md).
+- Métro Rifle — **8/0**
+- Métro Paramedic — **10/0**
+- Métro Rifle — **8/0**
+- Moblot AP Spitfire — **32/1.5**
+- 112 FTO Doctor — **11/0**
+
+**Evidence:** Constructed current-chart recommendation; not independently verified as played with these five modern options.
 
 ## Reliability, legality, and comparison notes
 
