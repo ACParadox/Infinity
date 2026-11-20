@@ -25,6 +25,7 @@ Sources used:
 - Army-derived Kestrel source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
 - InfinityDB Fireteam normalization/semantics at commit `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Rules baseline: N5.3 + N5 FAQ v0.1.
+- **Verified profile correction (20 Nov 2026):** Squalos Mk-II's imported BS Attack (+1SD) skill was replaced with current **BS Attack (SR-1)**; this explicit override is documented at its profile, while the remainder of the pinned source provenance is retained.
 
 Coverage notes:
 
@@ -434,13 +435,15 @@ Equivalence labels: **Counts as Fennec** in the FENNECS row; **Counts as Kestrel
 
 ### Squalos Mk-II
 
-**ID 1651 · AVA 2 · TAG** — `MOV 15-10 | CC 18 | BS 15 | PH 15 | WIP 13 | ARM 6 | BTS 6 | W 3 | S 6`. ECM: Guided (-6), BS Attack (+1SD), Courage, Dodge, Combat Instinct, Remote Presence, Tactical Awareness.
+**ID 1651 · AVA 2 · TAG** — `MOV 15-10 | CC 18 | BS 15 | PH 15 | WIP 13 | ARM 6 | BTS 6 | W 3 | S 6`. ECM: Guided (-6), BS Attack (SR-1), Courage, Dodge (+1\"), Dodge (PH=11), GizmoKit (PH=13), Combat Instinct, Remote Presence, Tactical Awareness.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
 | 1 | 55 | 1 | MULTI Marksman Rifle, MULTI Pistol (+1B), CCW; Crabbot | ARMORED required-choice max 2 |
 | 2 | 62 | 1.5 | HMG, Grenade Launcher, MULTI Pistol (+1B), CCW | ARMORED required-choice max 2 |
 | 3 | 66 | 1.5 | MULTI HMG, MULTI Pistol (+1B), CCW; NCO | ARMORED required-choice max 2 |
+
+**N5.3 correction (20 Nov 2026):** Squalos Mk-II has **BS Attack (SR-1), not native BS Attack (+1SD)** ([current unit profile](https://human-sphere.com/Squalos_MK-II); [BS Attack rules](https://infinitythewiki.com/BS_Attack)). SR-1 worsens the opponent's Saving Roll MOD; it does **not** add a selectable die. A **two-Squalos ARMORED Duo** still qualifies for **FT2 (+1SD) from its same-unit Fireteam**, which does not require or imply native +1SD. This is an explicit verification correction to the imported snapshot, not a change in points or Fireteam access.
 
 ### Banshees Airborne Assault Unit
 
@@ -617,6 +620,8 @@ Wildcard status does not remove a Fireteam's native minimum/required-choice cond
 | **Tested architecture — scoring Haris** | Fennec FO/Disco (opt 9: 13/0)<br>Crux FTO MULTI Marksman (opt 4: 46/0)<br>Bipandra Tactical Awareness Doctor (opt 2: 25/0) | FENNECS Haris · 3 | **FT2** | **84/0** | Fennec + Fennec-counting Bipandra + Crux FTO: FT2. | [Report #005](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md): played trio, options reconstructed. |
 | **Best elite attack Duo** | Hetkari MULTI Red Fury (opt 2: 48/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0) | KESTREL Duo · 2 | **FT1** | **65/1.5** | Hetkari + Tactical Awareness Pathfinder; FT1, since Pathfinder is not Kestrel-equivalent. | [Reports #002–004](../../notes/battle-reports/001-010-n5-battle-report-tactical-analysis.md): reportedly paired, exact Duo declaration unconfirmed. |
 | **Best TAG/specialist Duo** | Squalos MULTI HMG NCO (opt 3: 66/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0) | ARMORED Duo · 2 | **FT1** | **83/1.5** | Squalos NCO + Tactical Awareness Pathfinder. Extra activations do not elevate FT1. | [Report #219](../../notes/battle-reports/211-220-n5-battle-report-tactical-analysis.md): linked type confirmed; profile choices reconstructed. |
+
+**Recommendation filter (20 Nov 2026):** Do **not** recommend a double-Squalos Duo solely for FT2. Two TAGs cost at least 110 points (two MMRs) or 117 points (MMR + HMG/GL), share a large, hackable linked footprint and may be better independent; a mixed TAG+Firefly or TAG+Pathfinder **FT1** Duo often adds more useful roles. Likewise no Squalos + Crux MMR Duo recommendation: it is legal via the Crux FTO Wildcard and Squalos anchor, but 101/1 FT1 compresses two expensive shooters with incompatible pacing. **Maximus TAG + Squalos/Tikbalang is legal FT1 only** (requires the Squalos/Tikbalang anchor); the 80pt Thunderbolt Maximus + 55pt Squalos MMR costs 135/2, while Maximus 80 + Tikbalang69 costs 149/2.5. Reserve this for deliberately costly two-TAG mission builds, not routine list efficiency. **Squalos MMR + Firefly Engineer = 78/1 FT1** is serviceable with NCO and onboard repair, but slow 10-10 Firefly movement can constrain TAG redeployment; compare the **72/1 Squalos MMR + Pathfinder TA FT1** and an independent Engineer/Palbot.
 
 **Evidence boundary:** Battle reports establish some historical members and team shapes, not the post-September-2026 exact options/prices. Rows marked reconstructed are modern legal candidates, **not claims of identical historical exports**. [Full Kestrel analysis](../../notes/factions/kestrel.md).
 
