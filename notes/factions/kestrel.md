@@ -190,6 +190,7 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 - **Tikbalang:** Lieutenant (+1 Order), 73 pts; pair with a separate CoC model to protect succession.
 - **Griffin:** HMG Lieutenant, 37 pts/**1 SWC** (0.5 SWC less than the 1.5-SWC non-LT HMG); separate CoC support recommended.
 - **Hetkari:** Missile Launcher or MULTI Red Fury Lieutenant; separate CoC support recommended.
+- **Maximus TAG:** 82-point AP HMG Lieutenant (0 SWC), Tactical Awareness and heavy CC threat; **only one Maximus** across the TAG and Agent profiles.
 
 ### Chain of Command (CoC)
 
@@ -218,12 +219,13 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 - **Knauf:** MULTI Sniper Rifle, MSV1.
 - **Drummer:** Drumbot-1 MULTI HMG or Drumbot-2 HRMC.
 - **Black A.I.R.:** K1 Marksman Rifle FTO.
+- **Maximus TAG:** 82-point AP HMG (1.5 SWC) or 80-point AP Thunderbolt (+2B) (1 SWC); Tactical Awareness, high durability and strong CC. Distinct from Agent Maximus.
 
 ### ARO
 
 - **Fennec Fusilier:** Thunderbolt (+1B), Shock Minelayer.
 - **Blink Team:** Heavy Rocket Launcher or MULTI Sniper Rifle.
-- **Sierra Dronbot:** Total Reaction HMG.
+- **Sierra Dronbot:** Total Reaction HMG (23 pts/1 SWC) **or Thunderbolt (+1B) (18 pts/0 SWC)**; alternative ARO profiles.
 - **Black A.I.R.:** FTO Neurocinetics MULTI Sniper, MSV2.
 - **Drummer:** Drumbot-3 Neurocinetics Feuerbach.
 - **Sforza:** BS Attack (+1SD), Viral Rifle, Adhesive Launcher Rifle, Nanopulser.
@@ -235,7 +237,7 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 
 ### Midfield Defense
 
-- **Jackals:** infiltrating E/M Grenade Launcher Shock Minelayer.
+- **Jackals:** infiltrating Shock Minelayer for forward mine coverage; E/M attack and speculative-fire options indexed separately under Anti-TAG and Indirect Fire.
 - **Beasthunter:** Forward Deployment Camouflage profile.
 - **Peacemaker:** forward-deployed REM with Repeater and Auxbot options.
 - **Scarecrow:** infiltrating Camouflage Minelayer.
@@ -261,6 +263,7 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 
 - **Scarecrow:** Killer Hacking Device.
 - **Banshee:** Killer Hacking Device; Combat Jump/Parachutist access.
+- **Black A.I.R.:** **31 pts/0 SWC** Killer Hacking Device with **Parachutist (Deployment Zone)**; distinct from the FTO gunfighter and sniper profiles.
 
 ### Network Projection
 
@@ -285,6 +288,7 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 
 - **Dart + Sharvara K9:** optional Peripheral package.
 - **Optimate Agent Maximus:** strong CC/anti-heavy combat.
+- **Maximus TAG:** CC24, Natural Born Warrior, AP+DA CCW and CC Attack (-6); a distinct, much more expensive close-assault chassis.
 - **Yamabushi:** Martial Arts L3, DA CCW.
 - **Crux Father-Knight:** Martial Arts L2, DA CCW.
 
@@ -293,22 +297,25 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 - **Fennec Forward Observer:** Sensor + Disco Baller.
 - **Richard Quinn Forward Observer:** 26-point MULTI Rifle profile with Disco Baller (the MULTI Marksman Rifle FO profile has no Disco Baller).
 
-### Doctor
+### Doctor / Paramedics
 
-- **Trauma-Doc:** budget Doctor.
-- **Bipandra:** Doctor; Tactical Awareness option.
+- **Trauma-Doc:** 14-point Doctor.
+- **Bipandra:** 23-point Doctor with MediKit (+1B), or **25-point Tactical Awareness** Doctor; Wildcard with Fennec/Kestrel counts-as.
+- **Fennec Fusilier:** **12-point Paramedic** with MediKit; inexpensive medical coverage in a FENNECS Fireteam.
+- **Firefly:** **25-point Paramedic** with MediKit, NCO and Albedo; KESTREL member / optional ARMORED support.
+- **Yamabushi:** **16-point Paramedic FTO** with MediKit; despite the FTO label it has **no Kestrel Fireteam chart row**.
 
-### Engineer
+### Engineer / Repair Support
 
 - **Machinist:** Engineer, with optional Deployable Cover or Armed Turret variants.
 - **Firefly:** 23-point Engineer profile (distinct from its turret/CoC/Hacker profiles).
+- **Palbot:** **3-point Peripheral (Servant)**, AVA 2; extends a Machinist's repair reach to TAGs/REMs while the Engineer remains protected. **No independent Order.**
 
 ### Deployment Zone (DZ) Attack
 
 - **Redeye:** fast aerial angles into enemy backfield.
-- **Black A.I.R.:** Killer Hacker with Parachutist (Deployment Zone).
+- **Black A.I.R.:** **31-point Killer Hacker with Parachutist (Deployment Zone)**; distinct from the FTO options.
 - **TAGs:** Tikbalang / Squalos / Maximus for breakthrough; **Redeye is a Vehicle, not a TAG**.
-- **Jackal:** infiltrating E/M Grenade Launcher for Speculative Fire.
 - **Banshee:** Combat Jump assault or Parachutist entry.
 
 ### Specialists / Objective Play
@@ -320,7 +327,40 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 - **Fennec:** cheap Forward Observer / Sensor / Disco Baller utility or other specialist profiles.
 - **Banshee:** Hacker or Killer Hacker; Combat Jump and Parachutist.
 - **Crux Father-Knight:** elite Specialist Operative with combat capability.
-- **Firefly:** Engineer, Hacker, CoC or other utility profile as required.
+- **Firefly:** Engineer, Hacker, CoC, **Paramedic**, or other utility profile as required.
+- **Emily Handelman:** **22–24-point WIP14 Forward Observer**, Number 2 and Wildcard; counts as Fennec or ColCorp, with E/M/GL payloads detailed under Anti-TAG and Indirect Fire.
+- **Tech-Bee TAGCom:** **9-point Specialist Operative** with Deployable Repeater and GizmoKit; TAGCom boosts eligible TAGs in the same Combat Group (see Force Multipliers).
+- **Dr. Priya Harper:** **32-point FTO** or **35-point Forward Deployment (+20)** Specialist Operative; Tactical Awareness, NWI, Nanoscreen and **+1 SWC**.
+- **Black A.I.R.:** **29-point K1 Marksman Rifle FTO Forward Observer**, or **31-point DZ Parachutist Killer Hacker**.
+
+### Anti-TAG / E/M / Disabling
+
+- **Minescorp Jackals:** **10-point Infiltration E/M Carbine**, **10-point Infiltration Blitzen**, or **11-point Infiltration E/M Grenade Launcher + Shock Minelayer**; these are distinct Irregular profiles. The **6-point Jackal FTO Panzerfaust** is a different, non-Infiltrating COLCORP option.
+- **Emily Handelman:** **22-point E/M Grenade Launcher** or **24-point Grenade Launcher + E/M Grenade Launcher**, both 0 SWC; Regular FO/Number 2 Wildcard support.
+- **Redeye:** **37-point Spitfire + Blitzen** aerial anti-heavy flank; the **38-point Continuous-Damage GL** profile is an alternative, not an additional weapon.
+- **Firefly:** Panzerfaust and D-Charges on its applicable support profiles; some profiles also offer a deployable mine or turret. The HRL variant is a different loadout.
+- **Crux Father-Knight:** **Drop Bears** on linked FTO profiles, or **CrazyKoala** on forward/Hidden Deployment profiles; D-Charges and strong close combat.
+- **Optimate Agent Maximus / Maximus TAG:** E/M Carbine plus strong AP/CC follow-up; choose **Agent or TAG**, not both.
+- **Hetkari MULTI Red Fury:** E/Marat as a short-range anti-heavy deterrent (distinct from the Missile Launcher profile).
+- **Sforza:** Viral Rifle and **Adhesive Launcher Rifle**; a separate disabling approach from E/M.
+- **Dart / Sāchā:** forward E/M Grenades; situational close-range disruption.
+
+### Indirect Fire / Guided
+
+- **Minescorp Jackal:** **11 pts/0.5 SWC**, Infiltration + E/M Grenade Launcher + Shock Minelayer; inexpensive Irregular Speculative Fire pressure.
+- **Emily Handelman:** **22 pts/0 SWC** E/M Grenade Launcher, or **24 pts/0 SWC** Grenade Launcher + E/M Grenade Launcher; Regular, WIP14 Forward Observer and eligible Wildcard.
+- **Redeye:** **38 pts/1.5 SWC** Spitfire + Continuous-Damage Grenade Launcher; mobile indirect-fire angle, distinct from the 37-point Blitzen option.
+- **Squalos Mk-II:** **62 pts/1.5 SWC** HMG + Grenade Launcher; combines long-range direct shooting and speculative-fire access.
+- **Clipper Dronbot:** **16 pts/1.5 SWC Guided Missile Launcher**; requires a reliable Targeted setup for Guided attacks. Its **19-point FTO Missile Launcher (+1B)** is a different, **non-Guided** profile with **no Kestrel Fireteam chart access**.
+
+### Force Multipliers / Supportware
+
+- **BCA Magistrate:** **19-point Strategos L1 LT**, Counterintelligence and FT Master (Jackals); eligible linked Jackals become Regular at Order Count while FT Master conditions hold.
+- **Tech-Bee TAGCom:** **9-point Specialist Operative**; grants **Dodge (PH+3)** and **GizmoKit (PH+1)** to eligible TAGs in the **same Combat Group**, not to Redeye Vehicles or REMs. Also carries a Deployable Repeater.
+- **Dr. Priya Harper:** **+1 SWC**, Tactical Awareness and Specialist Operative; **32-point FTO Wildcard** or **35-point Forward Deployment (+20)** alternative, with Nanoscreen/NWI.
+- **Mulebot EVO:** **14 pts/0.5 SWC**, EVO Hacking Device and Baggage; Supportware option for plans built around REMs or airborne deployment. Distinct from the 8-point Repeater/Baggage cheerleader.
+- **Pathfinder:** **17-point Tactical Awareness** FO/Sensor/Repeater; extra activation for objective movement or an eligible Fireteam.
+- **Bipandra:** **25-point Tactical Awareness** Doctor; extra activation plus medical recovery in an eligible team.
 
 ## Start with one of five architectures
 
