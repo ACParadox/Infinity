@@ -426,12 +426,12 @@ Equivalence labels: **Counts as Fennec** in the FENNECS row; **Counts as Kestrel
 
 ### Bipandra
 
-**ID 46 · AVA 1 · LI** — `MOV 10-10 | CC 17 | BS 12 | PH 11 | WIP 13 | ARM 2 | BTS 3 | W 1 | S 2`. Dodge, Immunity (Shock), Doctor, MediKit (+1B).
+**ID 46 · AVA 1 · LI** — `MOV 10-10 | CC 17 | BS 12 | PH 11 | WIP 13 | ARM 2 | BTS 3 | W 1 | S 2`. Dodge (+1"), Immunity (Shock), Doctor (ReRoll -3), MediKit (+1B).
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
 | 1 | 23 | 0 | Combi Rifle, Nanopulser (+1B), Pistol, CCW | Wildcard max 1; Counts as Fennec, Kestrel |
-| 2 | 25 | 0 | Same; Tactical Awareness | Wildcard max 1; Counts as Fennec, Kestrel |
+| 2 | 25 | 0 | Combi Rifle, Nanopulser, Pistol, CCW; Tactical Awareness | Wildcard max 1; Counts as Fennec, Kestrel |
 
 ### Squalos Mk-II
 
