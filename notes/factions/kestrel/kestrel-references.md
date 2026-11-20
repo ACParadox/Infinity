@@ -1,6 +1,8 @@
-# Kestrel Colonial Force — Sources, Cross-References, Battle Reports and Purchasing Audit
+# Kestrel Colonial Force — References, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Kestrel Colonial Force — Listbuilding Guide](../kestrel.md). **Authoritative roster:** [Kestrel N5.3 sectorial reference](../../../sectorials/panoceania/kestrel-colonial-force.md). The historical transcript assessments, audit details and source caveats below are maintained separately from the tactical guide.
+**Tactical companions:** [Kestrel overview](kestrel-overview.md), [sectorial inventory](kestrel-inventory.md), and [Kestrel listbuilding](kestrel-listbuilding.md). **Authoritative roster:** [Kestrel N5.3 sectorial reference](../../../sectorials/panoceania/kestrel-colonial-force.md). The historical transcript assessments, audit details and source caveats below are maintained separately from the tactical guide.
+
+**Kestrel guides:** [Overview](kestrel-overview.md) · [Sectorial Inventory](kestrel-inventory.md) · [Listbuilding](kestrel-listbuilding.md) · [References](kestrel-references.md).
 
 ## Best transcript-backed source order — updated 2026-10-23
 
@@ -332,3 +334,12 @@ The [2026-10-30 Kestrel inventory](../../../inventory/kestrel.md) and [MO invent
 **Purpose:** practical choices, the reason each works, and disagreements worth testing. **As of 2026-10-19.** This guide consolidates Kestrel-specific video/podcast research instead of retaining repeated transcripts and historical discussion.
 
 **Rules authority:** [Kestrel roster and Fireteam chart](../../../sectorials/panoceania/kestrel-colonial-force.md), Army revision **7.26246.158**; local N5.3 rules/FAQ supersede older videos. Costs below refer to that pinned roster, not necessarily the version a presenter recorded against. Advice attributed to a presenter is an *opinion*, not a proven tournament usage rate.
+
+## Related notes
+
+- Canonical Kestrel: [sectorials/panoceania/kestrel-colonial-force.md](../../../sectorials/panoceania/kestrel-colonial-force.md).
+- [Fireteam construction](../../Strategy/fireteams-and-profile-evaluation.md), [Lieutenant and command](../../Strategy/lieutenant-and-command-structure.md), [Hacking/network projection](../../Strategy/hacking-and-network-projection.md), [Support/recovery](../../Strategy/peripherals-synchronized-and-multi-body-troops.md), [Opponent-plan identification](../../Strategy/opponent-plan-identification-and-matchup-planning.md).
+
+## Research provenance
+
+**Source archive:** This file preserves the primary transcripts, cross-references, battle reports and purchasing audit. **Roster and Fireteams:** [Kestrel N5.3 sectorial reference](../../../sectorials/panoceania/kestrel-colonial-force.md).
