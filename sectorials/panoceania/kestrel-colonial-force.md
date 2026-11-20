@@ -341,7 +341,7 @@ In the COLCORP row Magistrates carry **Counts as: ColCorp**.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 1 | 22 | 0 | E/M Grenade Launcher, Nanopulser, Flash Pulse, Assault Pistol, CCW | Wildcard max 1; Counts as Fennec, ColCorp |
+| 1 | 22 | 0 | Breaker Combi Rifle, Nanopulser, Flash Pulse, Assault Pistol, CCW | Wildcard max 1; Counts as Fennec, ColCorp |
 | 3 | 24 | 0 | Combi Rifle, Grenade Launcher, E/M Grenade Launcher, Nanopulser, Flash Pulse (+1B), Assault Pistol, CCW | Wildcard max 1; Counts as Fennec, ColCorp |
 
 ### Optimate Agent Maximus
@@ -692,7 +692,7 @@ Derived analysis aids, not official characteristics.
 | Banshee | airborne attacker/specialist, hacker/KHD |
 | Redeye | fast aerial attack/support, Sensor, Mimetism (-6) |
 | Crux Knight | premium HI specialist, hidden-deployment options, FTO Wildcard |
-| Emily | E/M grenade launcher, FO, Wildcard, Fennec/ColCorp equivalence |
+| Emily | Breaker Combi Rifle (22pt) or Grenade Launcher + E/M Grenade Launcher (24pt), FO, Wildcard, Fennec/ColCorp equivalence |
 | Quinn | MSV1 gunfighter/FO, Disco Baller option, Wildcard, Fennec/Kestrel equivalence |
 | Bipandra | Doctor, TacAware option, Wildcard, Fennec/Kestrel equivalence |
 | Dr. Harper | specialist, TacAware, FTO Wildcard |
