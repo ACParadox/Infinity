@@ -182,6 +182,41 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 The cheap **Firefly Minelayer Duo** is the sensible first test if you want ARO plus area denial at an affordable price. The **97pt Firefly/Quinn Haris** is the clearest high-investment option for protecting a valuable missile launcher with FT2 and genuinely different counters. These are proposed builds, not exact battle-report observations.
 
+
+#### Crux Father-Knight — viable Duos and selective Harises
+
+**The recommended linked Crux remains the 46pt/0SWC MULTI Marksman FTO**, BS14, MOV15-5 (~6in first), ARM5/W2, Albedo, Specialist Operative, Drop Bears and **native +1SD**. Only the FTO profile is eligible as Wildcard; the 47pt Hidden Deployment Crux is not linkable. **Crux + Pathfinder alone is illegal** because neither supplies a required KESTREL anchor; FENNECS has no Duo. With other KESTREL native gunfighter anchors, a **Duo is normally FT1**, but Crux still has his native +1SD.
+
+| Composition | Formation | Total pts/SWC | Evaluation |
+|---|---|---|---|
+| **Crux MMR46 + Griffin MULTI Rifle31** | KESTREL Duo **FT1** | **77/0** | **Best 0-SWC fast Duo:** both first MOV15, Albedo (Crux) plus MSV1, Pulzar close template and AP/Shock Rifle (Griffin). Their effective midrange overlaps, but counters differ. |
+| **Crux MMR46 + Griffin HMG37** | KESTREL Duo **FT1** | **83/1.5** | **Best long/mid moving Duo:** both first MOV15, HMG can clear long lanes while Crux scores and attacks MSV-based AROs. Two expensive shooters but genuinely different range bands. |
+| **Crux MMR46 + Firefly Engineer23** | KESTREL Duo **FT1** | **69/0** | Affordable NCO/Albedo/tech-support Duo, but Firefly MOV10-10 slows Crux; Engineer cannot heal Crux's Wounds. |
+| **Crux MMR46 + Griffin HMG37 + Firefly Engineer23** | KESTREL Haris **FT2** | **106/1.5** | Firefly+Griffin count Kestrel, giving Crux **+1SD on top of native +1SD**; Engineer protects against technical problems. Two expensive guns and sole Haris commitment. |
+| **Crux MMR46 + Griffin HMG37 + Bipandra TA25** | KESTREL Haris **FT2** | **108/1.5** | Griffin+Bipandra match, +2SD total for Crux, Doctor/TacAware for recovery and a long gun; Bipandra slow 10-10. |
+| **Crux MMR46 + Fennec FO/Disco13 + Bipandra Doctor23** | FENNECS Core/Haris **FT2** | **82/0** | **Preferred 0SWC specialist trio:** Fennec+Bipandra match, +2SD total for Crux, Eclipse/FO and Doctor. Member identities reported in [#005](../../battle-reports/001-010-n5-battle-report-tactical-analysis.md); current profiles a reconstruction. TA Doctor25 makes **84/0**. |
+| **Crux MMR46 + Fennec Minelayer14 + Quinn Disco26** | FENNECS Core/Haris **FT2** | **86/0** | Minelayer deploys mine, Quinn adds FO/MSV1/Eclipse, Fennec+Quinn match, Crux +2SD total. Multiple scoring tools, so pick when mission rewards that. |
+
+**Pathfinder as a third member:** Crux46 + Griffin HMG37 + Pathfinder TA17 = **100/1.5 KESTREL Haris FT1** is legal and all three move 15 on their first movement. However, Crux already has a specialist role, and the Haris still earns no +SD from matching names; in ordinary 300pt lists prefer a **Crux + Griffin Duo** and put Pathfinder in another useful Duo.
+
+#### Fast Pathfinder Tactical Awareness — MOV15 first-move gunfighter partners
+
+**Pathfinder** is MOV15-10 (approximately 6in/4in), WIP13 FO/Sensor/Repeater/Deactivator, with a **17pt/0SWC Tactical Awareness profile**. These recommended native anchors also move at least **15cm / approximately 6in** on their first move (Griffin and Hetkari MOV15-5; Tikbalang and Squalos MOV15-10). All these **two-member teams are FT1** because Pathfinder is a non-counting Wildcard; the extra *Tactical* Order is not a second unrestricted pooled Regular Order. One Pathfinder per Fireteam; AVA2 across the list.
+
+| Duo | First MOV each | Total pts/SWC | Reason to choose |
+|---|---|---|---|
+| **Griffin MULTI Rifle31 + Pathfinder TA17** | 15 + 15 | **48/0** | **Best cheap, fast 0SWC Duo:** BS14/MSV1/Pulzar short/mid attacker plus fast FO/Sensor/Repeater and another activation. |
+| **Griffin HMG37 + Pathfinder TA17** | 15 + 15 | **54/1.5** | **Best long-range infantry partner:** HMG clears lanes, Pathfinder scores/projects network without a third body. |
+| **Griffin Feuerbach38 + Pathfinder TA17** | 15 + 15 | **55/1.5** | Legal and fast, but reactive gun often wants to stay on its lane; use only when team advances to a final position, then separates. |
+| **Hetkari MULTI Red Fury48 + Pathfinder TA17** | 15 + 15 | **65/1.5** | Premium active gun and scoring REM; superior fit to static Hetkari ML. |
+| **Squalos MMR55 + Pathfinder TA17** | 15 + 15 | **72/1** | Budget TAG, moving specialist, Repeater/Deactivator and an extra linked activation. |
+| **Squalos HMG/GL62 + Pathfinder TA17** | 15 + 15 | **79/1.5** | Long-range TAG plus mission access; occasional indirect attack without second TAG. |
+| **Squalos MULTI HMG NCO66 + Pathfinder TA17** | 15 + 15 | **83/1.5** | Anti-ARM long gun; NCO may use available LT Order while Pathfinder brings TacAware. |
+| **Tikbalang HMG69 + Pathfinder TA17** | 15 + 15 | **86/1.5** | Mobile Mimetism/Climbing Plus TAG with matching-speed mission REM. |
+| **Tikbalang LT73 + Pathfinder TA17** | 15 + 15 | **90/1.5** | LT has two personal LT Orders which **do not directly activate an intact Duo**; for solo aggression, a solo LT Tik may be superior. |
+
+**Fast Duo recommendation order:** Griffin MULTI Rifle + Pathfinder (48/0), Griffin HMG + Pathfinder (54/1.5), Hetkari Red Fury + Pathfinder (65/1.5), then Squalos/Tikbalang + Pathfinder for TAG-centered lists. **Crux+Pathfinder and Agent Maximus+Pathfinder are not legal two-model Duos**; neither supplies the required KESTREL/ARMORED native anchor, and FENNECS does not permit Duos. A KESTREL Haris adding Griffin to Crux+Pathfinder is legal but typically inefficient.
+
 #### ARMORED — do not link two TAGs just for +SD
 
 | Formation | Total | FT | Verdict |
