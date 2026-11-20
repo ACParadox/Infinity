@@ -94,7 +94,7 @@ Suggested **value scouting ranges**, not eligibility cutoffs: Duo **25–65 pts*
 | Category | Sizes to scrutinize first | Leading criteria and common traps |
 | --- | --- | --- |
 | **Gunfighting** | 2–3; 4 if L4 genuinely pays | FtF quality, complementary ranges, MSV/Albedo/visibility or armor counters, attack delivery. Avoid duplicate expensive guns with overlapping jobs. |
-| **Defensive / ARO** | 2–3 **and** 4–5 | Strong reactive shot(s), staggered lanes, close screens, counterplay coverage, recovery and survival after losing an anchor. A large Core does not grant free group AROs. |
+| **Defensive / ARO** | **2–3 by default**; 4–5 only for exceptional, evidenced gains | Prioritize the quality of the actual reacting ARO unit, +SD/Neuro/TR where legal, MSV/Mimetism/White Noise counterplay, short-range screens, relevant recovery and resilience. Do not pay for a five-model Core merely for its size: linked teammates do not all shoot in one ARO. |
 | **Mission Specialists / Objective Play** | 2–3 | Qualified specialist(s), route protection, speed, recovery and ability to score after clearing resistance. Avoid five bodies that escort just one useful button pusher. |
 | **Board Control / Area Denial** | 3; 4–5 if coverage is broad | Persistent mines/E/M/adhesive/templates, Repeater + hacker projection, multiple approaches and sustainable denial. Pure lane shooting alone is not full board control. |
 | **Order Economy / Force Multipliers** | 2–3, or *cheap* 5 | Net pooled Regular Orders, FT Master conversion, TA/NCO activations, specialist/support compression; distinguish personal Tactical Orders from transferable pool Orders. |
@@ -106,7 +106,7 @@ Suggested **value scouting ranges**, not eligibility cutoffs: Duo **25–65 pts*
 
 ## Ranking files and occurrence register
 
-- [Observed Fireteam compositions — source register](OBSERVED-COMPOSITIONS.md): 73 separately referenced observed or first-person-reported Fireteams; exact member identities, historical source, gaps and qualified modern costs.
+- [Observed Fireteam compositions — source register](OBSERVED-COMPOSITIONS.md): 79 separately referenced observed or first-person-reported Fireteams; exact member identities, historical source, gaps and qualified modern costs.
 - [Gunfighting — source-backed Apex & Value](gunfighting-fireteams-apex-and-value.md)
 - [Defensive / ARO — source-backed Apex & Value](defensive-aro-fireteams-apex-and-value.md)
 - [Mission Specialists / Objective Play — source-backed Apex & Value](mission-specialists-objective-play-apex-and-value.md)
