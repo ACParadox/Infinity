@@ -139,6 +139,33 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 **Default:** Magistrate Strategos LT19 + one Jackal FTO6 = **25/0 COLCORP Duo FT2**, or Magistrate CoC21 + Jackal6 = **27/0 FT2**. If the Haris slot is free and three converted Regular Orders matter, add a second Jackal FTO6: **31/0 Strategos Haris FT3** or **33/0 CoC Haris FT3**. A base Magistrate17 makes these **23/0 Duo** and **29/0 Haris**. The **FTO** Jackals qualify for FT Master; infiltrating Irregular Jackals do not.
 
+
+#### Character-centered Fireteams — Maximus Agent, Bipandra, Dr. Harper, Quinn, Sforza, Emily
+
+**N5.3 construction, not claimed observed use:** All cases below use the [pinned profiles and chart](../../../sectorials/panoceania/kestrel-colonial-force.md#fireteams). Agent Maximus **45pt FTO without Minimus** can join FENNECS **Core/Haris, never Duo**. Bipandra/Quinn count as Fennec or Kestrel, Emily counts as Fennec or ColCorp, but Harper/Sforza have **no Counts-as**. Match the native family anchor and do not sacrifice the one Haris for filler. Agent Maximus may not coexist in one list with the Maximus TAG.
+
+| Role | Legal exact composition | Family / FT | Points / net SWC | Value and caveat |
+|---|---|---|---|---|
+| **Agent Maximus cheap escort — preferred** | Maximus Agent FTO45 + Fennec FO/Disco13 + Fennec Paramedic12 | FENNECS Core/Haris **FT2** | **70/1** | AP Thunderbolt, Albedo(-6), NWI, Tactical Awareness, TinBot (Repeater), Eclipse, medic; Fennecs move 10-10 versus Agent 15-5. |
+| **Agent Maximus Doctor** | Maximus Agent FTO45 + Fennec FO/Disco13 + Bipandra TA Doctor25 | FENNECS Core/Haris **FT2** | **83/1** | Doctor, Disco and two Tactical Awareness members. Strong recovery, pricier than Paramedic. |
+| **Agent Maximus + Quinn** | Maximus Agent FTO45 + Fennec Minelayer14 + Quinn Disco FO26 | FENNECS Core/Haris **FT2** | **85/1** | Quinn adds MSV1/Disco FO, Minelayer pre-deploys mine; high cost/slow escort. |
+| **Bipandra mobile gun-Doctor — preferred** | Griffin HMG37 + Bipandra TA25 | KESTREL Duo **FT2** | **62/1.5** | FT2 HMG, WIP13 Doctor, MediKit and a further team Tactical activation; Bipandra 10-10 versus Griffin 15-5. |
+| **Bipandra defensive gun-Doctor** | Griffin Feuerbach38 + Bipandra Doctor23 | KESTREL Duo **FT2** | **61/1.5** | Long ARO plus nearby recovery. Only pay +2 for TA if its extra activation is genuinely usable. |
+| **Bipandra + Crux** | Crux FTO MMR46 + Fennec FO/Disco13 + Bipandra Doctor23 | FENNECS Core/Haris **FT2** | **82/0** | Crux native +1SD combines with team +1SD, medic, Eclipse and specialist play. [#005](../../battle-reports/001-010-n5-battle-report-tactical-analysis.md) used the three member identities, not necessarily these selected profiles; TA Bipandra makes **84/0**. |
+| **Harper defensive close screen — preferred** | Griffin Feuerbach38 + Fennec Minelayer14 + Dr. Harper FTO32 | FENNECS Core/Haris **FT2** | **84 / net 0.5** | Feuerbach long ARO, Shock Mine pre-deployed, Harper Plasma Carbine/E/M Mine/Viral Pistol for short threats, Nanoscreen/NWI and Tactical Awareness. |
+| **Harper offensive close screen** | Griffin HMG37 + Fennec FO/Disco13 + Dr. Harper FTO32 | FENNECS Core/Haris **FT2** | **82 / net 0.5** | HMG for long, Harper Plasma/E/M for close, Fennec Eclipse and Sensor; Harper slower than Griffin and expensive. |
+| **Quinn Disco + Griffin — preferred** | Quinn MULTI Rifle/Disco FO26 + Griffin HMG37 | KESTREL Duo **FT2** | **63/1.5** | Eclipse for opening lanes, FO, MSV1, Warhorse, mid-close backup. |
+| **Quinn MMR alternative** | Quinn MULTI Marksman FO26 + Griffin HMG37 | KESTREL Duo **FT2** | **63/1.5** | Choose MMR if Disco is already covered and longer positive medium-range shooting matters; second MSV1 overlaps Griffin. |
+| **Quinn low-SWC toolbox** | Quinn Disco FO26 + Firefly Engineer23 | KESTREL Duo **FT2** | **49/0** | Eclipse, FO, Albedo, NCO and Engineer; not a long-range primary gun. |
+| **Sforza NCO Duo** | Sforza Viral FTO23 + Griffin HMG37 | KESTREL Duo **FT1** | **60/1.5** | NCO, native +1SD, X-Visor Viral/Adhesive and HMG for long; only Griffin counts as Kestrel. |
+| **Sforza + proper FT2 support** | Sforza Viral FTO23 + Griffin HMG37 + Firefly Engineer23 | KESTREL Haris **FT2** | **83/1.5** | Firefly+Griffin match, Sforza adds NCO/native +1SD and a genuinely different gun. Firefly/Sforza both have NCO; one LT resource cannot be spent twice. |
+| **Sforza cheap control** | Sforza Viral FTO23 + Emily E/M GL22 + Fennec FO/Disco13 | FENNECS Core/Haris **FT2** | **58/0** | Fennec+Emily match; native Sforza +1SD, Viral/Adhesive and indirect E/M. No HMG-length ranged gun and static/control bias. |
+| **Emily command Duo** | Emily E/M GL22 + Magistrate Strategos LT19 | COLCORP Duo **FT2** | **41/0** | Emily counts ColCorp, E/M GL/FO/Number 2 with command anchor; base Magistrate17 is **39/0**, without LT. |
+| **Emily upgraded Order engine — preferred** | Emily E/M GL22 + Magistrate Specialist17 + Jackal FTO6 | COLCORP Haris **FT3** | **45/0** | Strong 3-Regular-Order engine, Jackal FT Master conversion, WIP14 FO and E/M GL. Strategos LT Magistrate19 makes **47/0**. Costs sole Haris. |
+| **Emily HMG toolbox** | Emily E/M GL22 + Griffin HMG37 + Fennec FO/Disco13 | FENNECS Core/Haris **FT3** | **72/1.5** | All count as Fennec: HMG/Disco/E/M indirect complement rather than duplicate. |
+
+**Harper's +1 SWC is a credit**, not an expenditure: the 32pt FTO profile grants +1 available SWC, offsetting a Griffin HMG/Feuerbach 1.5 to **net 0.5 SWC**. She is **Specialist Operative, not a Doctor/Engineer**. E/M Mine is carried, not automatically pre-placed without Minelayer; her 35pt Forward Deployment profile **cannot** join because only Harper FTO is Wildcard. [Pinned profile](../../../sectorials/panoceania/kestrel-colonial-force.md#dr-priya-harper).
+
 #### ARMORED — do not link two TAGs just for +SD
 
 | Formation | Total | FT | Verdict |
