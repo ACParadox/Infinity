@@ -173,12 +173,14 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 | Composition | Size / FT | Total pts/SWC | Role synergy and trade-off |
 |---|---|---|---|
-| **Hetkari ML47 + Firefly Minelayer24** | KESTREL Duo **FT1** | **71/1.5** | **Preferred budget defense:** prelaid AP Mine, Armed Turret and Firefly SMG cover close approaches to the ML. No +SD on ML. |
+| **Hetkari ML47 + Firefly Minelayer24** | KESTREL Duo **FT1** | **71/1.5** | **Preferred budget defense:** **one** deployable pre-placed by Minelayer (AP Mine **or** Armed Turret), plus Firefly SMG cover close approaches to the ML. No +SD on ML. |
 | **Hetkari ML47 + Griffin MULTI Rifle31** | KESTREL Duo **FT1** | **78/1.5** | Durable close escort: Griffin BS14/MSV1/W2/ARM4, MULTI Rifle AP/Shock, Pulzar template. No +SD on ML. |
 | **Hetkari ML47 + Quinn Disco MULTI Rifle26** | KESTREL Duo **FT1** | **73/1.5** | FO/Disco and close/mid rifle complement long ARO, but avoid projecting Eclipse over your own missile lane. |
 | **Hetkari ML47 + Firefly Minelayer24 + Quinn Disco26** | KESTREL Haris **FT2** | **97/1.5** | **Preferred premium ARO:** Firefly+Quinn count Kestrel, earn the ML +1SD, with prelaid mine/turret, near-threat MULTI Rifle and Eclipse/FO. Uses sole Haris. |
-| **Hetkari ML47 + Firefly Minelayer24 + Bipandra Doctor23** | KESTREL Haris **FT2** | **94/1.5** | Mine/turret plus Doctor to recover Hetkari; less aggressive close defense than Griffin/Quinn, but can save the ARO gun. |
+| **Hetkari ML47 + Firefly Minelayer24 + Bipandra Doctor23** | KESTREL Haris **FT2** | **94/1.5** | One pre-placed mine **or** turret plus Doctor to recover Hetkari; less aggressive close defense than Griffin/Quinn, but can save the ARO gun. |
 | **Hetkari ML47 + Griffin MULTI Rifle31 + Firefly Minelayer24** | KESTREL Haris **FT2** | **102/1.5** | Griffin+Firefly match, Pulzar/MULTI Rifle and mine cover true close threats; costs 102pts and concentrates Hackable models. Not default. |
+
+**Minelayer rule check:** Firefly carries both AP Mine and Armed Turret, but its unnumbered Minelayer skill permits **one** deployable placed at deployment, not a free mine **and** a free turret. Choose the appropriate one, then place the other later using the normal Orders/equipment rules. [Current Minelayer rule](https://infinitythewiki.com/Minelayer).
 
 The cheap **Firefly Minelayer Duo** is the sensible first test if you want ARO plus area denial at an affordable price. The **97pt Firefly/Quinn Haris** is the clearest high-investment option for protecting a valuable missile launcher with FT2 and genuinely different counters. These are proposed builds, not exact battle-report observations.
 
