@@ -60,7 +60,7 @@ The dated tactical evaluations below were moved from the [Kestrel Colonial Force
 
 **BCA Magistrate LT Strategos L1 19/0** is an exceptional low-price general Order+Counterintelligence engine; **Magistrate CoC 21/0** is a different profile for a Tikbalang LT(+1) or other exposed leader. **Tik LT personal Orders can break an Armored Duo**; an eligible NCO Team Leader converts LT Orders into linked Tactical activations. CoC must survive away from the LT's attack footprint.
 
-See [cross-faction Lieutenant, CoC and Order package tiers](../../list-building/command-units-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
+See [cross-faction Lieutenant, CoC and Order package tiers](../../list-building/LT-apex-and-value.md). **Current roster and canonical Fireteam chart above remain authoritative.**
 
 ### Mission specialists — N5.3 apex and value cross-reference (2026-10-23)
 
@@ -86,7 +86,7 @@ See [cross-faction Lieutenant, CoC and Order package tiers](../../list-building/
 
 ### TAG tactical cross-reference (2026-10-23)
 
-**Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](../kestrel.md).
+**Default decision:** solo **Tikbalang LT (+1 Order)** for an aggressive high-order mobile gun *when the LT can be protected*; **Squalos NCO MULTI HMG** into armor or **HMG+GL** for inaccessible opponents; **Maximus TAG** only for CC/Immunity matchups. A **Tik LT + Pathfinder Duo does not gain two extra Duo activations** from the Tik's personal LT Orders. Compare the full partner cost and retain mission specialists. [Existing deeper tactical review](kestrel-listbuilding.md).
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
 
@@ -100,7 +100,7 @@ See [VH apex/value tier list and matchup guide](../../list-building/vehicles-vh.
 
 **Best rate:** **Fennec HD + FastPanda 16/0.5** cheaply moves the network forward, but WIP12 requires a backup. **Black A.I.R. FTO HD 26/0.5** adds **Combat Instinct** and MSV2/Mimetism(-3): with a real Repeater net it can deny Stealth and defend the Fennec link. **Scarecrow Camo KHD 27/0 vs HD 29/0.5** trades points for midfield mission safety; **Banshee KHD 23/0 vs HD 25/0.5** is an AD scoring/late hacker attack, not a Turn-0 network member. **Why:** don't confuse defending a wide network (Black A.I.R.) with cheaply projecting it (Fennec) or crossing the table (Banshee/Scarecrow). Check FTO chart before claiming a TinBot/bonus.
 
-See the [cross-game apex/value Hacker/KHD tier guide](../../list-building/hackers-and-killer-hackers.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
+See the [cross-game apex/value Hacker/KHD tier guide](../../list-building/hackers-apex-and-value.md). **The sectorial's current profiles, AVA and canonical Fireteam chart above remain authoritative; device upgrades are profile-specific.**
 
 
 ### Cheerleader / Order-generation tactical cross-reference (2026-10-23)
@@ -136,13 +136,13 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../list-building/aro-
 
 **11/.5 infiltrating Jackal** brings a **Shock Mine Minelayer plus E/M Grenade Launcher** before spending any Orders; it is **Irregular** and not COLCORP FTO. Critically, the mine is **Shock, not E/M**. Two cover independent approaches when SWC allows. **Fennec Thunderbolt+Shock Minelayer 14/0** is 0-SWC *DZ* security, not Infiltration; **Peacemaker 24/.5 with Auxbot-3B** adds FD, mine, template and Repeater, but needs S4/base space. **Counterview:** 6pt FTO Jackal supports legal COLCORP Fireteams differently; 27pt +1B Peacemaker may win more actively than the passive mine version.
 
-[Cross-game apex/value, matchups, and transcript disagreements](../../list-building/midfield-area-denial-and-speed-bumps-apex-value.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
+[Cross-game apex/value, matchups, and transcript disagreements](../../list-building/midfield-defenders-and-speed-bumps.md). Tactical evaluation, not a modification to Army profiles or Fireteam legality.
 
 ### N5.3 DZ defense / anti-alpha-strike tactical choices
 
 **Fennec 14/0 Thunderbolt(+1B) + Shock Mine Minelayer** gives a prepaid **DZ mine, 0-SWC backup gun and legal Fennec team member**; **Fennec FO+Sensor+Disco13/0** is a distinct mission/marker alternative. **Sierra TR/360º Thunderbolt18/0** watches airborne or rear-edge arrival; **Drummer FO+Drumbot-5 21/0** provides 360º **controller + synchronized bot** and a useful Forward Observer. **Jackal LRL/Panzerfaust FTO6/0 is Irregular**, not an automatic shared Order. **Disagreement (Shepherd/Irregular Order):** Fennec is exceptional cheap static insurance, whereas Drummer/Peacemaker packages merit their price only if they contest a second angle or score; keep premium attackers safe until own turn.
 
-[Whole-game DZ-defender apex/value tiers and media disagreements](../../list-building/dz-defenders-alpha-strike-and-impersonation-apex-value.md).
+[Whole-game DZ-defender apex/value tiers and media disagreements](../../list-building/cheap-dz-defenders-and-trade-pieces.md).
 
 ### Close-combat assassins and counter-CC — N5.3 (2026-10-23)
 
@@ -192,7 +192,7 @@ See [Best ARO Units — N5.3 apex and cost-value tiers](../../list-building/aro-
 
 **Drummer FO+Drumbot-5 FO21/0** is the best *two genuine Specialist origins/one Order*, plus HFT bot; **47/1 FO+Drumbot-1 or3 gun+FO bot** creates **3 synchronized bodies** but owner is W1/ARM1 and 47VP lost if controller removed. **40/1 MULTI HMG**, **42/1.5 HRMC**, **40/1 Feuerbach Neuro** Drummer options are alternate profiles, not cheaper 21pt dual FO. **Peacemaker23/0 HSG+Auxbot** 2-body native Repeater/FD+20 fork, **24/.5 Minelayer** adds prepaid mine, **27/0 BSG+Auxbot** active assault; **23/0 BSG(+1B) has NO Auxbot**. **Squalos/Tikbalang Crabbot Ancillary** requires active deployment, not free starting troop. **Shepherd/Dante views:** 21pt Drummer obvious value, 47pt triple-body intriguing but vulnerable to one kill on Drummer; Peacemaker is often better when mission needs guaranteed Turn-0 threat.
 
-[Cross-game N5.3 Peripheral & Multi-Body tiers](../../list-building/peripheral-synchronized-multibody-apex-value.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
+[Cross-game N5.3 Peripheral & Multi-Body tiers](../../Strategy/peripherals-synchronized-and-multi-body-troops.md). Do not substitute another sectorial's AVA, profile or Fireteam access.
 
 ### Battle-report effectiveness and combinations (qualitative, 2026-11-01)
 
@@ -256,7 +256,7 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 
 - **Must/near-must (not unanimous):** [Irregular Order #52 (September 2026)](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) speakers explicitly recommend **Magistrate LT and CoC with linked 6pt Jackals in their own lists**, to convert cheap Irregular Jackals into Regular Orders and insure the revealed Strategos LT. [Robert Shepherd Kestrel focus](https://www.youtube.com/watch?v=8lyUk12Ed28) calls the **Magistrate + two Jackals =31pt** package extremely efficient but explicitly says **Tikbalang LT can displace Magistrate**. Thus *strongest repeated default*, not universal rule.
 - **Go-to:** **Fennec FO/Disco/Sensor13** for cheap scoring+visibility+Camo counter; **Jackal E/M GL Minelayer11/.5** for cheap pre-deployed denial; **Tik LT** for self-funded solo gun; **Hetkari/Griffin** for core active/ARO piece; **Pathfinder TA17** as useful Duo partner; **Banshee** for cheap unexpected AD threat. [Shepherd](https://www.youtube.com/watch?v=8lyUk12Ed28) · [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9).
-- **Avoid:** **Fennec Lieutenant10** is a profile Shepherd says players will "almost never take" because better command packages exist; **Drummer expensive W1 controllers** are described as costly vs the benefits from multi-body bots. [Shepherd](https://www.youtube.com/watch?v=8lyUk12Ed28). **Opposing:** [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) reports meaningful Drummer/Sierra/hidden-ARO experiments; don't mark all Drummers as unplayable. The **FO + Drumbot21** is a different more economical profile. [Kestrel tactical note](../kestrel.md).
+- **Avoid:** **Fennec Lieutenant10** is a profile Shepherd says players will "almost never take" because better command packages exist; **Drummer expensive W1 controllers** are described as costly vs the benefits from multi-body bots. [Shepherd](https://www.youtube.com/watch?v=8lyUk12Ed28). **Opposing:** [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9) reports meaningful Drummer/Sierra/hidden-ARO experiments; don't mark all Drummers as unplayable. The **FO + Drumbot21** is a different more economical profile. [Kestrel tactical note](kestrel-listbuilding.md).
 
 #### Practical verdict
 
@@ -290,7 +290,7 @@ A **whole-unit defer** applies to the *named unit across its usable current prof
 - **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
 - **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
 
-The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](kestrel-overview.md), [NCA](../nca.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
 
 ##### Kestrel Colonial Force
 
@@ -301,13 +301,13 @@ The source judgments below are anchored in the [PanO faction transcript audit ab
 | **Premium Drummer** (HRMC/Neurocinetics/full combat package) | **Direct/contested:** costs roughly **40–47 points** with a W1 controller; can be effective in selected gun/ARO or multi-body strategies but is not default goodstuff. The economical **21pt FO+Drumbot** is a different profile. | **One is enough; proxy extra**. You own **1 Drummer**. Avoid buying up toward AVA4 without a proven multi-controller list. |
 | **Second Redeye** | **Direct/contested:** two flyers are a legitimate skew but 1.5 SWC each and S7/No Cover create fragile exposure; a Tik/Hetkari/Pathfinder route is often safer. [Dice Gods](https://www.youtube.com/watch?v=QscqX3hlUZU) advocates the aggressive alternative. | **Proxy second; do not buy by default**. You already own **1**. |
 | **Second/third Black A.I.R.** | **Direct/contested:** Neurocinetics MULTI Sniper33/1.5 strong into relevant visors/smoke yet W1 and SWC-limited; extra profiles may overlap with Hetkari/Griffin/Knauf and repeat the same counterplay vulnerability. | **One is enough initially** (you have **1**). Test another by proxy if your list actually wants multiple simultaneous Black A.I.R.s. |
-| **Emily Handelman, Richard Quinn, Dr. Priya Harper** | **Inference:** all have distinct specialty and legal team roles, but linked E/M delivery, Disco/visor or premium specialist utility must beat **Fennec/Jackal/Firefly** alternatives. Sforza versus Quinn/Harper is disputed in the [Kestrel guide](../kestrel.md). | **Proxy first**; **0 dedicated** of each, and the older surplus **Fennec** proxy proposal is superseded: Fennec is a Kestrel-legal unit; prefer unused **Trisha N33/MO Crosier (S2 LI)** for Emily/Quinn. Use another identifiable PanO specialist for Harper after confirming base/silhouette and collision constraints. |
+| **Emily Handelman, Richard Quinn, Dr. Priya Harper** | **Inference:** all have distinct specialty and legal team roles, but linked E/M delivery, Disco/visor or premium specialist utility must beat **Fennec/Jackal/Firefly** alternatives. Sforza versus Quinn/Harper is disputed in the [Kestrel guide](kestrel-listbuilding.md). | **Proxy first**; **0 dedicated** of each, and the older surplus **Fennec** proxy proposal is superseded: Fennec is a Kestrel-legal unit; prefer unused **Trisha N33/MO Crosier (S2 LI)** for Emily/Quinn. Use another identifiable PanO specialist for Harper after confirming base/silhouette and collision constraints. |
 | **Father Lucien Sforza (FTO); Knauf** | **Contested / role overlap:** Sforza is actually favored by one Irregular Order host for **NCO, Viral and X-Visor**, while Knauf fills an unlinked independent sniper niche. Neither is a compulsory default when the army already has Hetkari/Griffin/Black A.I.R. | **Sforza: proxy first** (0 owned) *then consider buying if he proves recurrent*. **Knauf: already own 1**; don't buy additional variants merely for alternate loadouts. **Neither is labeled bad.** |
 | **Sāchā, Ruby Monday; Optimate Agent Maximus infantry; Dart** | **Low-confidence inference / unproven-frequency models:** Sāchā's 6pt Irregular FD utility is a filler for very specific missions; Ruby is not assessed by most older recordings; infantry Maximus and Dart compete for costly solo roles with other Kestrel attacks. Don't mistake *lack of source coverage* for bad rules. | **Proxy first**. All are currently **0 dedicated** in [Kestrel inventory](../../../inventory/kestrel.md). **Corrected substitutes:** MO **Infirmarer (S2 MI)** for *infantry* Agent Maximus and owned **Naga (S2 SK)** for Dart; **Hoplite HI** and **Asura HI** were poor class matches. No specific suitable donor confirmed yet for Sāchā/Ruby; check each one's troop class and silhouette first. **TAG Maximus is a separate entry and you own one**. Dart's optional **Sharvara K9 is 0** and needs its **own** appropriate model if that profile is used. |
 
 **Do not proxy by necessity:** Jackals, Fennec FO/Sensor/Disco, Fireflies, Scarecrows, Hetkari, Griffin and Tik are not “worst” picks; several are core choices. Your [Kestrel inventory](../../../inventory/kestrel.md) has 6 Fennecs (AVA5), 4 Jackals (AVA4), 3 Fireflies, 2 Scarecrows, 1 Hetkari, 2 Griffins and 1 Tik. **Only a miniature not simultaneously used as its original unit can act as a character proxy.**
 
-**Recorded source anchors:** [Shepherd Kestrel](https://www.youtube.com/watch?v=8lyUk12Ed28), [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9), [WIP12 #180 and other sources in Kestrel guide](../kestrel.md). Do not classify **all** Drummers, Fireflies or Banshees as universally weak.
+**Recorded source anchors:** [Shepherd Kestrel](https://www.youtube.com/watch?v=8lyUk12Ed28), [Irregular Order #52](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9), [WIP12 #180 and other sources in the Kestrel reference archive](#best-transcript-backed-source-order--updated-2026-10-23). Do not classify **all** Drummers, Fireflies or Banshees as universally weak.
 
 ##### Proxy-first shopping priority for the **existing Kestrel + Military Orders collection**
 
