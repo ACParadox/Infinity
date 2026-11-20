@@ -43,6 +43,7 @@ The [98 documented occurrence records](OBSERVED-COMPOSITIONS.md) are the shared 
 | Quality | What to evaluate | Priority |
 | --- | --- | --- |
 | **Role synergy and counter coverage** | Complementary members that solve different problems; tools that directly compensate for the main attacker's vulnerabilities rather than redundant premium profiles. | Very high |
+| **Positional compatibility / shared movement plan** | Members should want compatible positions and movement. A backfield long-range ARO anchor and forward-driving active-turn gunfighter usually pull in opposite directions; a short-range defensive weapon that protects the advancing team is a better complement. | Very high |
 | **Range-band coverage** | Relevant short-, mid- and long-range options; no easily exploitable gap on the routes and lanes the team must contest. | Very high |
 | **Points / SWC efficiency** | Contribution of *every* paid member, Fireteam slot, Combat Group slot and outside support requirement; avoid a fifth-model tax. | Very high |
 | **Action / Order efficiency** | Useful repositioning with one Order, productive alternate Leaders, and genuine restricted/pooled Order interactions where present. | Very high |
@@ -58,6 +59,12 @@ Assess **effective positive range bands and realistic access**, not just the num
 - Prefer **complementary** ranges to buying multiple expensive guns that want exactly the same engagements. A single good gun covering an essential band is often enough.
 - Do not penalize a specialized team for lacking a band it should *avoid*, provided it has a credible route, screen or alternate answer. Weigh which bands matter for its primary mission and map position.
 - Range coverage is only real if the relevant model can feasibly reach and use that band while the team stays functional.
+
+### Positional compatibility: active gunfighters versus dedicated ARO anchors
+
+**Default: avoid combining a dedicated static/backfield ARO shooter and a dedicated active-turn assault gunfighter in the same Fireteam.** The attacker wants to advance, change angles and exploit openings; the ARO anchor often wants to hold a selected lane. Shared activations, Coherency, movement exposure and paid but unused roles can make the combination worse than separate units, even if both guns are individually excellent.
+
+**Useful exception:** a **short-range defensive weapon** (shotgun, direct template, SMG or similar on an actual selected profile) can move alongside the active gunfighter to protect *the same position* from close threats. A deliberate **mobile advance-then-hold** Fireteam may also make effective use of a reactive gun if both models genuinely want the same destination. Evaluate **where members want to finish their Orders and turns**, not merely their overlapping range bands. Do not reward an expensive ARO-plus-active pair simply for containing two individually strong guns.
 
 ### Role synergy: counterplay coverage
 
@@ -93,12 +100,12 @@ Suggested **value scouting ranges**, not eligibility cutoffs: Duo **25–65 pts*
 
 | Category | Sizes to scrutinize first | Leading criteria and common traps |
 | --- | --- | --- |
-| **Gunfighting** | 2–3; 4 if L4 genuinely pays | FtF quality, complementary ranges, MSV/Albedo/visibility or armor counters, attack delivery. Avoid duplicate expensive guns with overlapping jobs. |
-| **Defensive / ARO** | **2–3 by default**; 4–5 only for exceptional, evidenced gains | Prioritize the quality of the actual reacting ARO unit, +SD/Neuro/TR where legal, MSV/Mimetism/White Noise counterplay, short-range screens, relevant recovery and resilience. Do not pay for a five-model Core merely for its size: linked teammates do not all shoot in one ARO. |
+| **Gunfighting** | 2–3; 4 if L4 genuinely pays | FtF quality, complementary ranges, MSV/Albedo/visibility or armor counters, attack delivery. Penalize a static ARO anchor paired with a forward-moving active shooter; favor mobile close defense. Avoid duplicate expensive guns with overlapping jobs. |
+| **Defensive / ARO** | **2–3 by default**; 4–5 only for exceptional, evidenced gains | Prioritize the quality of the actual reacting ARO unit, +SD/Neuro/TR where legal, MSV/Mimetism/White Noise counterplay, short-range screens, relevant recovery and resilience. Avoid attaching a premium forward-moving active shooter that wants to abandon the defensive position; close-defense teammates should protect the same lane. Do not pay for a five-model Core merely for its size: linked teammates do not all shoot in one ARO. |
 | **Mission Specialists / Objective Play** | 2–3 | Qualified specialist(s), route protection, speed, recovery and ability to score after clearing resistance. Avoid five bodies that escort just one useful button pusher. |
 | **Board Control / Area Denial** | 3; 4–5 if coverage is broad | Persistent mines/E/M/adhesive/templates, Repeater + hacker projection, multiple approaches and sustainable denial. Pure lane shooting alone is not full board control. |
 | **Order Economy / Force Multipliers** | 2–3, or *cheap* 5 | Net pooled Regular Orders, FT Master conversion, TA/NCO activations, specialist/support compression; distinguish personal Tactical Orders from transferable pool Orders. |
-| **Combined-Arms / Toolbox** | 3–4; 5 if unusually efficient | Complementary gun, specialist and technical/control tools; **range and counter coverage are particularly important**. Avoid paying for unrelated skills unlikely to be used together. |
+| **Combined-Arms / Toolbox** | 3–4; 5 if unusually efficient | Complementary gun, specialist and technical/control tools; **range, counter and positional compatibility are particularly important**. Avoid a stationary ARO anchor plus a forward-moving attack gun without a credible shared end position. Avoid paying for unrelated skills unlikely to be used together. |
 | **Close Assault / Breakthrough** | 2–3; 4 when extra staying power pays | Reliable protected delivery, short-range and CC tools, anti-screen/anti-armor counters, then scoring or holding the breach. Pure CC lethality without a route is insufficient. |
 
 **Ranking application:** keep Apex and Value independent; assess role accomplishment first, then practical **range coverage** and **counter coverage** as separate cross-role criteria. Reward only capabilities that can be employed in realistic turns, including after likely casualties. Do not allow broad coverage to overwhelm the team's core purpose or justify an inefficient extra model.
