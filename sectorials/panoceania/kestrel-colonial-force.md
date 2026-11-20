@@ -354,7 +354,7 @@ In the COLCORP row Magistrates carry **Counts as: ColCorp**.
 | 3 | 48 | +1 | MAXIMUS AGENT; option 1 + Lieutenant; Minimus Peripheral | FENNECS max 1; chart has no FTO marker |
 | 4 | 45 | +1 | **MAXIMUS AGENT FTO**; option 2 + Lieutenant; no Minimus | FENNECS max 1 |
 
-**Fireteam source note:** the FENNECS chart member is named `MAXIMUS AGENT` with no `FTO` marker/comment. InfinityDB therefore does not project a chart-level loadout restriction for this row. Preserve that distinction rather than inferring an FTO-only restriction from the existence of FTO loadouts.
+**Fireteam source note:** the FENNECS chart member is named `MAXIMUS AGENT` with no `FTO` marker/comment. InfinityDB therefore does not project a chart-level loadout restriction for this row; preserve the *raw source* distinction. **Separate N5.3 rule-level exclusion:** the 48-point (and 48-point LT) Agent profiles include **Minimus, a Peripheral (Synchronized)** ([profile](https://human-sphere.com/Maximus)). [Fireteam Basic Rules](https://infinitythewiki.com/Fireteams:_Basic_Rules) and [Peripheral restrictions](https://infinitythewiki.com/Peripheral) prohibit Peripherals **and their Controllers** from joining Fireteams. Therefore the **45-point Agent FTO without Minimus** (or its FTO Lieutenant variant) is the operationally eligible FENNECS link option, irrespective of the permissive-looking chart row. This does **not** alter the underlying chart data.
 
 **Selection constraint:** the Army source states: `There can only be one Maximus in each Army List.`
 
@@ -605,7 +605,7 @@ Wildcard status does not remove a Fireteam's native minimum/required-choice cond
 
 **Non-canonical tactical evaluation** derived from the canonical chart and individual profiles above (reviewed 2026-11-19). Each row is an **alternative**, not a combined deployable list. Individual and total prices are pts/SWC; options refer to the exact pinned roster. FT level counts members of the same Unit or shared chart *Counts-as* identity, not just the number of members ([N5.3 Fireteam bonus rules](https://infinitythewiki.com/Fireteam_Bonuses)). FT2 = BS Attack (+1 SD), FT3 = +3 Discover/+1 Dodge, FT4 = +1 BS, FT5 = Sixth Sense.
 
-**Limits and restrictions:** 1 Core, 1 Haris, unlimited Duos. FENNECS needs one native Fennec; KESTREL needs Griffin/Firefly/Hetkari; COLCORP needs a native Magistrate; ARMORED needs Tikbalang/Squalos. FTO-only Black A.I.R., Crux and Jackals must use the named options. The two Haris recommendations **cannot be taken as two Harises**. Jackals are Irregular unless FT Master (Jackals) converts their Orders under the applicable conditions. Wildcards do not waive native anchors. Do not import Clipper/Yamabushi FTO labels with no Fireteam chart access.
+**Limits and restrictions:** 1 Core, 1 Haris, unlimited Duos. FENNECS needs one native Fennec; KESTREL needs Griffin/Firefly/Hetkari; COLCORP needs a native Magistrate; ARMORED needs Tikbalang/Squalos. FTO-only Black A.I.R., Crux and Jackals must use the named options. The 48-point Agent Maximus carrying Synchronized Minimus is ruled out as a Fireteam member by the general Peripheral restriction even though the chart row lacks an FTO suffix; use the 45-point no-Minimus Agent FTO. The two Haris recommendations **cannot be taken as two Harises**. Jackals are Irregular unless FT Master (Jackals) converts their Orders under the applicable conditions. Wildcards do not waive native anchors. Do not import Clipper/Yamabushi FTO labels with no Fireteam chart access.
 
 | Priority | Exact members (option: individual pts/SWC) | Fireteam / size | FT level | Total pts/SWC | Benefit / caveat | Evidence |
 |---|---|---|---|---:|---|---|
@@ -707,7 +707,7 @@ Derived analysis aids, not official characteristics.
 - Parenthetical source comments are stored as Counts-as/equivalence labels.
 - FTO restrictions are applied only where the Fireteam member row itself contains an FTO marker/comment.
 - No Fireteam access is inferred solely from a loadout having `FTO` in its name.
-- Agent Maximus is deliberately **not** marked FTO-only because its chart row is `MAXIMUS AGENT` without an FTO marker.
+- Agent Maximus is deliberately **not** marked FTO-only **in the source chart** because its row is `MAXIMUS AGENT` without an FTO marker. The general Fireteam/Peripheral restriction nevertheless excludes its 48-point Minimus (Synchronized) profile from actual linked play; the 45-point FTO is the linked option.
 - Yamabushi is deliberately shown with no Fireteam access despite having FTO-labelled profiles because there is no Kestrel chart row for Yamabushi.
 - Maximus unique-character constraint is recorded.
 - Linked Reinforcement section Code: Capital (`army_id: 199`) has no pinned `fireteamChart` to merge.
