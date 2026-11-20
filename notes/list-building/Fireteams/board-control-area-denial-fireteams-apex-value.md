@@ -8,6 +8,8 @@
 
 **Mechanics:** [N5.3 Fireteam Level bonuses](https://infinitythewiki.com/Fireteam_Bonuses) give **BS Attack (+1 Special Die)** at L2 **including reactive shots** (roll one extra die, then discard one; **not +1 reactive Burst**), Discover/Dodge at L3, +1 BS at L4 and Sixth Sense at L5. Only members with the appropriate LoF, ZoC or hacking coverage may declare the applicable AROs; do not count every teammate as a simultaneous sniper or assume all Hackers share a Pitcher. A deployed or fired device needs the **actual equipped profile and legal placement/Order**. An Engineer cannot Doctor a living teammate.
 
+**Positional compatibility rule:** A team that denies a lane or holds an objective normally wants its reactive members to remain in the same defensive area. Do **not** attach a dedicated mobile active-turn attacker to a static ARO anchor simply because both have powerful guns; their desired positions and activations conflict. **Short-range defensive weapons/templates**, mines, hacking or recovery that protect the *same area* are more natural complements. A deliberately mobile **advance-then-hold** team can be an exception when its destination suits both roles.
+
 ## Apex and Value — independently ranked, 2–3 bodies first
 
 | Apex # | Value # | Observed Fireteam / role anchors | Reported linked members | # | FT level | N5.3 pts / SWC | Battle report / primary recording | Board-control / ARO case and limitation |
