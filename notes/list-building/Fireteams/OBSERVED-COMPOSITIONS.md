@@ -113,6 +113,14 @@ This register replaces chart-legal **hypothetical compositions** with **Fireteam
 
 | **Steel Phalanx · Dactyl/K2 Auxiliar Duo** | <ul><li>Dactyl Engineer/Deployable Cover</li><li>K2 Auxiliar FTO Mine Dispenser/Flammenspeer</li></ul> | 2 | L2 | 32 / 0 | [Battle report #151](../../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [Original video](https://www.youtube.com/watch?v=OdKrlYTWSRM) · Played; FTO and two distinct models confirmed |
 
+| **Ōban · Mushashi/Tankō Banzai Haris** | <ul><li>Miyamoto Mushashi (linked; specific original profile unconfirmed)</li><li>Tankō</li><li>Tankō</li></ul> | 3 | L3 | — | [Battle report #164](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [MetaChemistry tournament interview](https://open.spotify.com/episode/0LGgTnDoYFXhEYswjRdjbL) · First-person opponent formation reported in Crossing Lines; requires current Mushashi FTO option 2 (25/0.5); source does not certify original option |
+
+| **Ōban · Shikami/Shikami Duo** | <ul><li>Shikami</li><li>Shikami</li></ul> | 2 | L2 | — | [Battle report #164](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md) · [MetaChemistry tournament interview](https://open.spotify.com/episode/0LGgTnDoYFXhEYswjRdjbL) · First-person opponent formation reported; individual weapons unconfirmed |
+
+| **Starmada · Shona/Varangian Duo** | <ul><li>Shona Carano</li><li>Varangian Guard (Smoke)</li></ul> | 2 | L1 | — | [Battle report #216](../../battle-reports/211-220-n5-battle-report-tactical-analysis.md) · [Original video](https://www.youtube.com/watch?v=9s8sX_wqdRo) · Played; early N5 Mindwipe, 10–1 Starmada; current chart legal, but Shona does not count as Varangian |
+
+| **Bakunin · Cenobite/Custodier Haris** | <ul><li>Cenobite Heavy Rocket Launcher</li><li>Cenobite Flash Pulse/Chain Rifle</li><li>Reverend Custodier Hacker</li></ul> | 3 | L3 | — | [Battle report #194](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md) · [Original video](https://www.youtube.com/watch?v=VmYyESZx9WU) · Played; 200-point N5.1.1 Supplies match; all three share Reverend Fireteam identity in current chart |
+
 ## Use in the category rankings
 
 The role ranking files should refer only to source-backed memberships recorded here and include a separate battle-report/episode link on **every ranked row**. A historical recording confirms that a team was described or used; it does not demonstrate the best possible N5.3 loadout, a sectorial win rate, or whether those specific current point costs remain legal after chart changes. [Fireteam evaluation criteria](README.md) are applied qualitatively within this restricted evidence sample. Missing points, SWC, member names and specific FTO options must be resolved from the **original source**, never invented to make a ranking table appear complete.
