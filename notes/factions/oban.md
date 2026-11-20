@@ -34,7 +34,7 @@ This is an army for **route creation → selective assassination or scoring → 
 
 #### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #25 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Fast melee attackers and resilient objective troops hit hard after the lane opens; more matchup-sensitive into prepared long-range or template defenses.
+**Sectorial tier / overall rank: B+ — #26 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Fast melee attackers and resilient objective troops hit hard after the lane opens; more matchup-sensitive into prepared long-range or template defenses.
 
 **Ranking rule:** Entries are ordered by their **best explicitly listed numeric Apex or Value placement** (**#1 first, then #2, #3, etc.**); ties place an Apex-ranked entry before a Value-only entry, and unspecified ≤#5/≤#10 group placements do not become invented exact rankings. These are **role-specific cross-faction rankings**, not universal troop-strength lists or measured tournament win rates. Apex rewards peak impact; Value considers points, SWC and Orders. Only Top 1–5 placements and associated profiles are bolded; #6–10 entries are regular text. Combined and role-specific placements do not imply independently established Apex or Value ranks. Exact N5.3 costs, loadouts and Fireteam legality follow the [pinned Ōban roster](../../sectorials/jsa/oban.md).
 

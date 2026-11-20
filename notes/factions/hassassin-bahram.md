@@ -46,7 +46,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #21 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Impersonators, Hidden Deployment, mines, Jammers and Pitchers heavily punish mistakes; Order economy and high-level opponents limit consistency.
+**Sectorial tier / overall rank: B+ — #22 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Impersonators, Hidden Deployment, mines, Jammers and Pitchers heavily punish mistakes; Order economy and high-level opponents limit consistency.
 
 **Ranking rule:** Rows are sorted by their **best (lowest-numbered) published placement**, starting at #1, then #2/#3, then Top 5 and Top 10; combined rows remain intact, and ties keep their prior relative order. Placements are editorial rankings within each linked **cross-faction role**, not universal unit rankings or measured win rates. **Apex** measures peak impact; **Value** weighs points, SWC and Orders. Top 1–5 placements and their matching profiles are bold; #6–10 entries are regular text. A combined or role-specific placement is explicitly identified and does not imply a separate Apex/Value rank. Exact N5.3 unit profiles, skills, costs and Fireteam permissions follow the [pinned hassassin bahram roster](../../sectorials/haqqislam/hassassin-bahram.md).
 

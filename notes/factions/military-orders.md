@@ -14,7 +14,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #19 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). **Provisional standard N5.3 / ITS 18 assessment:** relative band **3–4** among these four; the A−/B+ table cut is tentative and all four remain borderline B+ to A− rather than statistically separated.
+**Sectorial tier / overall rank: B+ — #20 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). **Comparative note:** The earlier four-army provisional order remains a close qualitative call; the separate Bakunin benchmark now places Bakunin ahead of this cluster.
 
 **Ranking rule:** Entries are ordered by their strongest listed placement (**#1 first, then #2, #3, and so on**); ties retain their previous relative order. The #1–#10 placements below are **cross-faction role-specific** rankings, not an overall unit power list. Apex measures maximum role impact; Value measures efficiency per point. Combined or unclassified role positions are labeled rather than treated as separate Apex or Value results. **Only Top 1–5 placements and their corresponding unit profiles are bolded**; #6–10 remain regular text. Each row refers only to the legal selected N5.3 profile and valid Fireteam or Peripheral package; the [pinned Military Orders roster](../../sectorials/panoceania/military-orders.md) controls legality and costs.
 

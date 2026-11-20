@@ -28,7 +28,7 @@ The table separates **ISS-specific access within Yu Jing** from combinations tha
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B — #27 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Cheap Regular Orders, Smoke/MSV shooting and strong command/disabling tools are efficient; lacks some of the broad elite attack ceiling of Vanilla Yu Jing.
+**Sectorial tier / overall rank: B — #28 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Cheap Regular Orders, Smoke/MSV shooting and strong command/disabling tools are efficient; lacks some of the broad elite attack ceiling of Vanilla Yu Jing.
 
 **Ranking rule:** These are independent **cross-faction role rankings**, not a universal unit power list. Apex rewards peak impact; Value rewards performance per point. A Top 3/Top 5/Top 10 label refers to the named source ranking only. Only **Top 1–5** placements and corresponding legal profiles are bolded; #6–10 and unverified or different-loadout comparisons are not. Combined and role-specific placements are distinguished from separate Apex/Value standings. The [pinned Imperial Service roster](../../sectorials/yu-jing/imperial-service.md) controls exact costs, loadouts and team permissions.
 
