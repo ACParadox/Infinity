@@ -166,6 +166,22 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 **Harper's +1 SWC is a credit**, not an expenditure: the 32pt FTO profile grants +1 available SWC, offsetting a Griffin HMG/Feuerbach 1.5 to **net 0.5 SWC**. She is **Specialist Operative, not a Doctor/Engineer**. E/M Mine is carried, not automatically pre-placed without Minelayer; her 35pt Forward Deployment profile **cannot** join because only Harper FTO is Wildcard. [Pinned profile](../../../sectorials/panoceania/kestrel-colonial-force.md#dr-priya-harper).
 
+
+#### Hetkari Missile Launcher — ARO plus genuine close-range screens
+
+**Hetkari ML47/1.5 is a static long-range ARO**, not a forward-moving Pathfinder escort. It does **not count as Kestrel** for Fireteam Level; a Hetkari + one partner Duo is **FT1**, while an FT2 defensive Haris needs **two Kestrel-equivalent supports** (Griffin, Firefly, Quinn or Bipandra). Prefer the supporting member that can handle the ML's 0–16in approaches, not another missile/sniper gun.
+
+| Composition | Size / FT | Total pts/SWC | Role synergy and trade-off |
+|---|---|---|---|
+| **Hetkari ML47 + Firefly Minelayer24** | KESTREL Duo **FT1** | **71/1.5** | **Preferred budget defense:** prelaid AP Mine, Armed Turret and Firefly SMG cover close approaches to the ML. No +SD on ML. |
+| **Hetkari ML47 + Griffin MULTI Rifle31** | KESTREL Duo **FT1** | **78/1.5** | Durable close escort: Griffin BS14/MSV1/W2/ARM4, MULTI Rifle AP/Shock, Pulzar template. No +SD on ML. |
+| **Hetkari ML47 + Quinn Disco MULTI Rifle26** | KESTREL Duo **FT1** | **73/1.5** | FO/Disco and close/mid rifle complement long ARO, but avoid projecting Eclipse over your own missile lane. |
+| **Hetkari ML47 + Firefly Minelayer24 + Quinn Disco26** | KESTREL Haris **FT2** | **97/1.5** | **Preferred premium ARO:** Firefly+Quinn count Kestrel, earn the ML +1SD, with prelaid mine/turret, near-threat MULTI Rifle and Eclipse/FO. Uses sole Haris. |
+| **Hetkari ML47 + Firefly Minelayer24 + Bipandra Doctor23** | KESTREL Haris **FT2** | **94/1.5** | Mine/turret plus Doctor to recover Hetkari; less aggressive close defense than Griffin/Quinn, but can save the ARO gun. |
+| **Hetkari ML47 + Griffin MULTI Rifle31 + Firefly Minelayer24** | KESTREL Haris **FT2** | **102/1.5** | Griffin+Firefly match, Pulzar/MULTI Rifle and mine cover true close threats; costs 102pts and concentrates Hackable models. Not default. |
+
+The cheap **Firefly Minelayer Duo** is the sensible first test if you want ARO plus area denial at an affordable price. The **97pt Firefly/Quinn Haris** is the clearest high-investment option for protecting a valuable missile launcher with FT2 and genuinely different counters. These are proposed builds, not exact battle-report observations.
+
 #### ARMORED — do not link two TAGs just for +SD
 
 | Formation | Total | FT | Verdict |
