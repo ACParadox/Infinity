@@ -14,7 +14,7 @@ This folder contains cross-sectorial Fireteam comparisons and rankings for Infin
 - **Document evidentiary boundaries.** Differentiate an explicitly played or first-hand reported team from a hypothetical option the player merely discussed. Mark custom formats, concessions, tutorials, unusual missions, incomplete transcripts and historical rules versions. No single report establishes win rates.
 - **No padding rankings to arbitrary Top 10/15 lengths.** A file may have fewer qualifying cases; Apex and Value remain distinct qualitative comparisons among **source-backed entries only**.
 
-The [73 documented occurrence records](OBSERVED-COMPOSITIONS.md) are the shared evidence pool. If a future video or podcast establishes a new exact formation, add the primary source and recorded members **before** inserting it into a ranking.
+The [89 documented occurrence records](OBSERVED-COMPOSITIONS.md) are the shared evidence pool. If a future video or podcast establishes a new exact formation, add the primary source and recorded members **before** inserting it into a ranking.
 
 ## Ranking conventions
 
