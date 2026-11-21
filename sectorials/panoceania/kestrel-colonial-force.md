@@ -28,6 +28,7 @@ Sources used:
 - **Verified profile correction (20 Nov 2026):** Squalos Mk-II's imported BS Attack (+1SD) skill was replaced with current **BS Attack (SR-1)**; this explicit override is documented at its profile, while the remainder of the pinned source provenance is retained.
 - **Dart profile correction (21 Nov 2026):** User-provided current Army screenshot verifies distinct E/M Grenades versus Shock Mine variants, Viral Tactical Bow (+1SD), the 42pt Minelayer + Sharvara K-9 option, and Sharvara's standalone equipment/stat line.
 - **Agent Maximus correction (21 Nov 2026):** Albedo is **(-3)**, not the previously recorded **(-6)**. Explicit current-profile correction; the remaining pinned Army provenance is retained.
+- **Hetkari profile correction (21 Nov 2026):** Added the omitted **BS Attack (-3)** to the shared Hetkari skills, as listed on the [current N5 profile](https://human-sphere.com/Hetkari_Shooters). Applies to all four options; other pinned profile data retained.
 
 Coverage notes:
 
@@ -404,7 +405,7 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 ### Hetkari Shooters
 
-**ID 1811 · AVA 2 · HI** — `MOV 15-5 | CC 17 | BS 14 | PH 14 | WIP 12 | ARM 5 | BTS 6 | W 2 | S 2`. Marksmanship, Combat Instinct.
+**ID 1811 · AVA 2 · HI** — `MOV 15-5 | CC 17 | BS 14 | PH 14 | WIP 12 | ARM 5 | BTS 6 | W 2 | S 2`. BS Attack (-3), Marksmanship, Combat Instinct.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
