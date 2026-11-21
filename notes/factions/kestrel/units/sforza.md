@@ -6,7 +6,7 @@
 
 ## Current pinned Kestrel profiles
 
-Source: [pinned N5.3 Kestrel roster](../../../sectorials/panoceania/kestrel-colonial-force.md#father-lucien-sforza), checked 20 Nov 2026.
+Source: [pinned N5.3 Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#father-lucien-sforza), checked 20 Nov 2026.
 
 **Shared:** AVA 1, Regular MI, MOV 10-10, CC19, BS13, PH11, WIP13, ARM2, BTS3, W1, S2; X-Visor, BS Attack (+1SD), Immunity (ARM), Combat Instinct, Stealth, NCO, Dogged, Religious Troop. **Weapons on all options:** Viral Rifle, Adhesive Launcher Rifle, Nanopulser, Heavy Pistol, PARA CCW.
 
@@ -65,7 +65,7 @@ These are **not** 5 or 4 actual Burst; the surplus dice are discarded. FT2 benef
 | **Sforza Albedo26 + Griffin HMG37** (KESTREL Duo) | **63/1.5** | **FT1** | Rarely preferred over Griffin HMG37 + Firefly Engineer23 (**60/1.5 FT2**). |
 | **Sforza Albedo26 + Griffin HMG37 + Firefly Engineer23** (KESTREL Haris) | **86/1.5** | **FT2** | Powerful Sforza personal dice, but NCO duplication, no FT3, and spends the only Haris slot; niche. |
 
-Kestrel cannot legally form **Sforza + one Fennec** as a FENNECS Duo: FENNECS only forms Core/Haris, and a KESTREL Duo requires its native anchor. Always check the [Fireteam guide](../kestrel-fireteams.md) and [canonical chart](../../../sectorials/panoceania/kestrel-colonial-force.md#fireteams).
+Kestrel cannot legally form **Sforza + one Fennec** as a FENNECS Duo: FENNECS only forms Core/Haris, and a KESTREL Duo requires its native anchor. Always check the [Fireteam guide](../kestrel-fireteams.md) and [canonical chart](../../../../sectorials/panoceania/kestrel-colonial-force.md#fireteams).
 
 ## Which 26-point version: Albedo FTO or solo Holoprojector?
 
@@ -88,6 +88,6 @@ Kestrel cannot legally form **Sforza + one Fennec** as a FENNECS Duo: FENNECS on
 ## Evidence and rules caveats
 
 - [N5.3 X-Visor](https://infinitythewiki.com/X-Visor), [Weapons Chart](https://infinitythewiki.com/Weapon_Chart), [Albedo](https://infinitythewiki.com/Albedo), [Combat Instinct](https://infinitythewiki.com/Combat_Instinct), [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses), [Holoprojector](https://infinitythewiki.com/Holoprojector), [Immunity](https://infinitythewiki.com/Immunity), [NCO](https://infinitythewiki.com/NCO).
-- **[DefectiveDice #206 Kestrel vs Corregidor](https://www.youtube.com/watch?v=hJdOJpSoZlc)** ([repository report](../../../../battle-reports/201-210-n5-battle-report-tactical-analysis.md#206--kestrel-colonial-force-vs-corregidor-attrition-and-deployment-traps)): Sforza's Viral/Albedo threats contributed and players considered the exchange favorable. **Historical observation, not a proof of competitive strength.** The reported Sforza + Fennec Duo should **not** be copied under the pinned current chart (illegal).
+- **[DefectiveDice #206 Kestrel vs Corregidor](https://www.youtube.com/watch?v=hJdOJpSoZlc)** ([repository report](../../../battle-reports/201-210-n5-battle-report-tactical-analysis.md#206--kestrel-colonial-force-vs-corregidor-attrition-and-deployment-traps)): Sforza's Viral/Albedo threats contributed and players considered the exchange favorable. **Historical observation, not a proof of competitive strength.** The reported Sforza + Fennec Duo should **not** be copied under the pinned current chart (illegal).
 - **[Irregular Order #52 — Kestrel faction review, 18 Sep 2026](https://open.spotify.com/episode/4RNxiaI1k5xXBVzVHxwnB9)**: hosts are positive on X-Visor Viral + native +1SD, repeatable adhesive, and paying +3 for Albedo; ~1:23–1:28 discussion and ~3:08 discussion of a played list with Agent Maximus/Bipandra/Fennec/Sforza. That latter Sforza is described as a **luxury secondary gun**, not a mandatory selection.
 - This analysis uses **current N5.3 profiles** including the 2026 changes to Sforza's native +1SD; do not import older N4 Holomask/Holoprojector claims or earlier weapon costs.
