@@ -29,6 +29,7 @@ Sources used:
 - **Dart profile correction (21 Nov 2026):** User-provided current Army screenshot verifies distinct E/M Grenades versus Shock Mine variants, Viral Tactical Bow (+1SD), the 42pt Minelayer + Sharvara K-9 option, and Sharvara's standalone equipment/stat line.
 - **Agent Maximus correction (21 Nov 2026):** Albedo is **(-3)**, not the previously recorded **(-6)**. Explicit current-profile correction; the remaining pinned Army provenance is retained.
 - **Hetkari profile correction (21 Nov 2026):** Added the omitted **BS Attack (-3)** to the shared Hetkari skills, as listed on the [current N5 profile](https://human-sphere.com/Hetkari_Shooters). Applies to all four options; other pinned profile data retained.
+- **Crux Knight profile correction (21 Nov 2026):** Current [N5 profile](https://human-sphere.com/Father_Knight) supplies Albedo (-6), Natural Born Warrior (no separate Courage), MULTI Marksman Rifle (PS=5), Surprise Attack (-3) on both Hidden Deployment options, and the Armed Turret replacing CrazyKoala on option 2. Source-specific override; remaining pinned Army provenance retained.
 
 Coverage notes:
 
@@ -390,18 +391,18 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 ### Team Crux Father-Knights
 
-**ID 1815 · AVA 1 · HI** — `MOV 15-5 | CC 22 | BS 14 | PH 14 | WIP 13 | ARM 5 | BTS 6 | W 2 | S 2`. Albedo, Martial Arts L2, BS Attack (+1SD), Berserk, Courage, Specialist Operative, Stealth, Religious Troop.
+**ID 1815 · AVA 1 · HI** — `MOV 15-5 | CC 22 | BS 14 | PH 14 | WIP 13 | ARM 5 | BTS 6 | W 2 | S 2`. Albedo (-6), Martial Arts L2, BS Attack (+1SD), Berserk, Natural Born Warrior, Specialist Operative, Stealth, Religious Troop.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
 | 1 | 47 | 0 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Pistol, DA CCW (PS=5); Surprise Attack (-3), FD (+20), Hidden Deployment | — |
-| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, CrazyKoala, Armed Turret (Combi Rifle), Pistol, DA CCW (PS=5); Hidden Deployment, FD (+20) | — |
-| 3 | 54 | 0 | MULTI Marksman Rifle, D-Charges, CrazyKoala, MULTI Pistol, DA CCW (PS=5); FD (+20) | — |
-| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) | Wildcard max 1 |
+| 2 | 48 | 0.5 | AP SMG, Flash Pulse, D-Charges, Armed Turret (Combi Rifle), Pistol, DA CCW (PS=5); Surprise Attack (-3), Hidden Deployment, FD (+20) | — |
+| 3 | 54 | 0 | MULTI Marksman Rifle (PS=5), D-Charges, CrazyKoala, MULTI Pistol, DA CCW (PS=5); FD (+20) | — |
+| 4 | 46 | 0 | **CRUX KNIGHT FTO**; MULTI Marksman Rifle (PS=5), Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) | Wildcard max 1 |
 | 5 | 49 | 1.5 | **FTO**; Spitfire, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5) | Wildcard max 1 |
-| 6 | 50 | 0 | **FTO**; MULTI Marksman Rifle, Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5); Strategic Deployment | Wildcard max 1 |
+| 6 | 50 | 0 | **FTO**; MULTI Marksman Rifle (PS=5), Drop Bears, D-Charges, MULTI Pistol, DA CCW (PS=5); Strategic Deployment | Wildcard max 1 |
 
-**Profile-specific override:** the Crux DA CC Weapon has **PS=5**, rather than the generic DA CC Weapon chart's PS=8 ([current N5 unit profile](https://www.human-sphere.com/Father_Knight); [N5.3 PS modifier rule](https://infinitythewiki.com/Rolls)).
+**Current-profile corrections (21 Nov 2026):** Albedo is **(-6)**; Natural Born Warrior is shared, and Courage is not separately listed. Both Hidden Deployment options have Surprise Attack (-3); the 48-point Armed Turret option replaces rather than adds to the CrazyKoala. All MULTI Marksman Rifle options and the DA CC Weapon have **PS=5**, rather than their generic chart values of PS7 and PS8 respectively ([current N5 unit profile](https://www.human-sphere.com/Father_Knight); [N5.3 PS modifier rule](https://infinitythewiki.com/Rolls)).
 
 ### Hetkari Shooters
 
