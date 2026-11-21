@@ -19,7 +19,7 @@ The [pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-f
 
 ## Best overall use: 24/0.5 Auxbot-3B as a forward speed bump
 
-The 3B package threatens a section of the midfield from Deployment, even if you never spend an active Order on it:
+The 3B package threatens a section of the midfield from Deployment, even if you never spend an active Order on it. Its three elements can either **overlap at a chokepoint** or **stretch laterally into a wide ~32\" potential threat footprint**:
 
 1. **Peacemaker controller:** S4, Mimetism (-3), BS12 Heavy Shotgun and Pulzar; requires an opponent to respect short firing lanes. The Repeater projects hacking coverage if Kestrel has a suitable Hacker.
 2. **Auxbot-3B:** A separately positioned, synchronized **Heavy Flamethrower** ready to punish movement through tight corridors and corners. A direct template is particularly relevant against targets that rely on impressive BS and Mimetism.
@@ -30,6 +30,32 @@ This is the useful meaning of **“three threats in Forward Deployment (+8")”*
 A fourth, **conditional layer** is the advanced **Repeater**: Carbonite/Oblivion/Spotlight pressure requires an appropriate friendly Hacker and relevant program. The Peacemaker's Repeater by itself does not immobilize anything.
 
 **Placement matters more than raw coverage.** Place controller, bot, and mine to pressure *different parts* of a short approach instead of lining all three up for the same enemy template or allowing the enemy to bypass the lot. Give the opponent unattractive choices: discover/remove the mine, trade into the Auxbot's flamethrower, or expose themselves to the shotgun/repeater.
+
+### Wide lateral coverage: Peacemaker → Auxbot → Mine
+
+**An important alternative to stacking the three threats on one corner is to string them out *sideways*, along the forward-deployment line.** Because the **Auxbot-3B itself is the Minelayer**, the distance between the controller and the mine can be much greater than a single 8" Zone of Control:
+
+```text
+← Peacemaker's close shotgun threat                     Mine's trigger reach →
+    ~8"         up to 8"              up to 8"                ~8"
+←───────── [Peacemaker] ───────── [Auxbot-3B] ───────── [Shock Mine] ─────────→
+```
+
+- **Controller → Auxbot:** Keep the Auxbot **within 8" of the Peacemaker**, measured by Coherency/Zone of Control; a separation of almost 8" is legal when positioning allows.
+- **Auxbot → Mine:** When deploying with Minelayer, place the Shock Mine **within 8" of the Auxbot**, not necessarily within 8" of the Peacemaker. Another almost-8" lateral displacement is possible.
+- **Outer threats:** The Peacemaker's Heavy Shotgun has its **+6 close-range band within 8"** on the left; the mine can threaten movement to the right using its **Small Teardrop Template** (roughly another 8" of outward reach in favourable geometry). The Auxbot's Heavy Flamethrower adds a broad template threat from its intermediate position.
+
+**Result: roughly 32" of *potential lateral influence from one 24-point / 0.5-SWC purchase*** (8" close-shotgun reach + 8" controller-to-Auxbot + 8" Auxbot-to-mine + approximately 8" mine template). The three physical positions themselves span **up to roughly 16"**. This is an illustrative footprint, **not 32" of uninterrupted, automatic ARO or mine-trigger coverage**: facing, LoF, terrain, templates, rangebands, and enemy approach routes determine the actual danger. The shotgun can still shoot beyond its preferred range, and the mine's trigger area is its template, **not an 8"-radius ZoC**.
+
+**Deployment rules and caveats:**
+
+- Peacemaker's **Forward Deployment (+8")** describes how far forward of the normal Deployment Zone it can start; it does **not** add another 8" to each horizontal gap. All three placements must remain in their **individually legal deployment areas**, including the Minelayer rule that the mine must remain within the area where its Minelayer trooper could deploy.
+- **Controller–Auxbot Coherency** is mandatory: do not accidentally exceed the controller's ZoC. **Minelayer's mine placement** is measured from the Auxbot; a placed mine is not a Peripheral and does not need to maintain later Coherency.
+- The mine cannot be placed during Minelayer deployment with an enemy trooper or Camouflage Marker in its trigger area. Once deployed, it only triggers if its Small Teardrop Template can hit a valid enemy without catching a friendly model, and Total Cover can block its trigger area.
+- Spreading the pieces increases breadth but can reduce **overlapping defense**: the enemy may isolate and remove the Peacemaker or Auxbot separately. If the controller enters Null or Isolated, the Auxbot disconnects; the already deployed mine remains.
+- Best on **dense midfield tables with two or three lateral lanes**. Concentrate the pieces instead when a single vital chokepoint deserves overlapping shotgun, flamethrower, and mine coverage.
+
+This **wide-fence setup** is a major reason to favor the 3B profile for passive defense: few other Kestrel purchases establish several separated midfield threats and a Repeater without spending a single active-turn Order.
 
 **Important mine restriction:** A mine does **not** detonate if its template would hit a friendly model, even an Unconscious one. Do not tuck the mine so tightly beside the Peacemaker/Auxbot that your own models prevent it from triggering. Minelayer placement must also obey its allowed deployment area, zone-of-control, and enemy-in-trigger-area restrictions. The mine is already a deterrent before either player spends Orders; it is *not* an extra ARO from the Auxbot.
 
@@ -112,7 +138,7 @@ Do not consider one categorically superior; buy the role the list is missing.
 
 ## Final selection rule
 
-1. **Default speed bump:** **Peacemaker Heavy Shotgun + Auxbot-3B, 24/0.5 — A-tier**. Especially strong into dense-table midfield routes; the most distinctive Kestrel use.
+1. **Default speed bump:** **Peacemaker Heavy Shotgun + Auxbot-3B, 24/0.5 — A-tier**. Especially strong into dense-table midfield routes; place threats together for layered defense or string controller → Auxbot → mine across lanes for ~32\" of potential lateral influence.
 2. **For a planned active assault:** **Boarding Shotgun (+1B) + Auxbot-3, 27/0 — A-/B+ depending on attack geometry**. Better attack Burst, two shooting origins, no SWC.
 3. **SWC-saving support option:** **Heavy Shotgun + Auxbot-3, 23/0 — B+**. Fine if 0.5 SWC is genuinely needed elsewhere.
 4. **Usually skip:** **Boarding Shotgun (+1B) without Auxbot, 23/0 — C+/niche**. Loses the reason most lists select a Peacemaker.
