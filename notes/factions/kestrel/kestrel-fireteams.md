@@ -108,7 +108,7 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 | Role | Legal exact composition | Family / FT | Points / net SWC | Value and caveat |
 |---|---|---|---|---|
-| **Agent Maximus cheap escort — preferred** | Maximus Agent FTO45 + Fennec FO/Disco13 + Fennec Paramedic12 | FENNECS Core/Haris **FT2** | **70/1** | AP Thunderbolt, Albedo(-6), NWI, Tactical Awareness, TinBot (Repeater), Eclipse, medic; Fennecs move 10-10 versus Agent 15-5. |
+| **Agent Maximus cheap escort — preferred** | Maximus Agent FTO45 + Fennec FO/Disco13 + Fennec Paramedic12 | FENNECS Core/Haris **FT2** | **70/1** | AP Thunderbolt, Albedo(-3), NWI, Tactical Awareness, TinBot (Repeater), Eclipse, medic; Fennecs move 10-10 versus Agent 15-5. |
 | **Agent Maximus Doctor** | Maximus Agent FTO45 + Fennec FO/Disco13 + Bipandra TA Doctor25 | FENNECS Core/Haris **FT2** | **83/1** | Doctor, Disco and two Tactical Awareness members. Strong recovery, pricier than Paramedic. |
 | **Agent Maximus + Quinn** | Maximus Agent FTO45 + Fennec Minelayer14 + Quinn Disco FO26 | FENNECS Core/Haris **FT2** | **85/1** | Quinn adds MSV1/Disco FO, Minelayer pre-deploys mine; high cost/slow escort. |
 | **Bipandra mobile gun-Doctor — preferred** | Griffin HMG37 + Bipandra TA25 | KESTREL Duo **FT2** | **62/1.5** | FT2 HMG, WIP13 Doctor, MediKit and a further team Tactical activation; Bipandra 10-10 versus Griffin 15-5. |
@@ -224,7 +224,7 @@ Start with **three-body FENNECS Core candidates** using **one** main shooter (Gr
 
 **Bipandra:** The 23pt Doctor or 25pt Tactical Awareness Doctor counts as Fennec/Kestrel; especially useful near a W2 expensive attacker. **Griffin HMG + Bipandra TA = 62/1.5 KESTREL FT2 Duo**, a strong shooter/Doctor/extra-activation package. Compare against a 12pt Fennec Paramedic in a FENNECS team when price matters.
 
-**Agent Maximus:** Only **45pt FTO without Minimus** belongs in FENNECS; a 48pt Agent with Synchronized Minimus is not linkable. Strong AP Thunderbolt, Albedo(-6), NWI and own Tactical Awareness. It is **MOV15-5**, while its obligatory Fennec escort is MOV10-10. **Agent FTO + FO/Disco + Paramedic = 70/1 FT2** is the efficient starting point; **+Bipandra TA instead = 83/1 FT2** for Doctor and additional Tactical activation.
+**Agent Maximus:** Only **45pt FTO without Minimus** belongs in FENNECS; a 48pt Agent with Synchronized Minimus is not linkable. Strong AP Thunderbolt, Albedo(-3), NWI and own Tactical Awareness. It is **MOV15-5**, while its obligatory Fennec escort is MOV10-10. **Agent FTO + FO/Disco + Paramedic = 70/1 FT2** is the efficient starting point; **+Bipandra TA instead = 83/1 FT2** for Doctor and additional Tactical activation.
 
 
 ## Key Fireteam and gunfighter choices
