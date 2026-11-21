@@ -1,8 +1,8 @@
 # Emily Handelman — Kestrel Colonial Force (Infinity N5.3)
 
-**Verdict: 24-point GL/E/M GL profile A-tier (situationally strong); 22-point Breaker Combi profile C-tier (generally skip).** Emily's distinctive contribution to Kestrel is a **long-ranged, zero-SWC speculative E/M attack** that can threaten a TAG or Heavy Infantry without a hacking network or direct Line of Fire. She is particularly attractive **independently in Group 2** when a few spare Regular Orders would otherwise have little offensive use. Defensive FENNECS support is the secondary role; advancing with an active HMG Fireteam is less compelling.
+**Verdict: 24-point GL/E/M GL profile B-tier (situational utility, not a default purchase); 22-point Breaker Combi profile C-tier (generally skip).** **E/M Grenade Launcher Speculative Attack is not a unique contribution to Kestrel:** the **11-point / 0.5 SWC infiltrating Minescorp Jackal** already provides it, plus Minelayer and a Shock Mine, at less than half Emily's points. For the specific job of threatening midfield TAGs/HI from an infiltrated position, the Jackal is **usually the better-value choice**. Emily is more accurate and reaches farther thanks to BS13/X-Visor, is Regular/0 SWC, and offers a normal GL, FO, Flash Pulse (+1B) and FENNECS/ColCorp Fireteam utility; buy her for that combined package, not because Kestrel otherwise lacks indirect E/M. Independent Group 2 spare-Order support remains a narrower use case.
 
-**Default selection: 24 points / 0 SWC.** Do not buy Emily just as another Regular Order, generic riflewoman or Forward Observer; cheaper Fennecs and similarly priced Fireflies usually provide better value in those roles.
+**If choosing Emily, select the 24-point / 0 SWC GL profile; do not default to Emily for E/M Speculative Attack alone.** The infiltrating Jackal is usually a cheaper way to obtain that threat. Do not buy Emily just as another Regular Order, generic riflewoman or Forward Observer; cheaper Fennecs and similarly priced Fireflies usually provide better value in those roles.
 
 ## Pinned N5.3 profiles
 
@@ -15,9 +15,9 @@
 
 **The upgrade is not merely +1 Burst Flash Pulse.** For +2 points, Emily changes from a Breaker Combi Rifle to a regular Combi Rifle **and both a lethal and E/M circular-template launcher**, as well as Flash Pulse (+1B). The normal GL helps against ordinary infantry that E/M would not wound.
 
-## Primary recommendation — independent Group 2 indirect-fire support
+## Limited use case — independent Group 2 indirect-fire support
 
-A standalone **24pt Emily in Group 2** can spend otherwise underused Group 2 pooled Orders making speculative E/M or normal GL attacks while Group 1 keeps its Orders for a TAG, Griffin, Redeye or other premium attacker.
+A standalone **24pt Emily in Group 2** can spend otherwise underused Group 2 pooled Orders making speculative E/M or normal GL attacks while Group 1 keeps its Orders for a TAG, Griffin, Redeye or other premium attacker. **This is an opportunity-cost justification, not a unique Kestrel capability:** an infiltrating 11pt Jackal E/M GL already threatens many midfield targets far more cheaply using its own Irregular Order.
 
 - **Anti-TAG/HI threat without a Repeater network:** E/M ammunition forces **two Saving Rolls against halved BTS** per hit. A failed roll causes **Isolated**, and HI/TAG/REM/VH also become **Immobilized-B**. The target may Dodge, resist the saves or later be repaired/recovered: Emily is a deterrent and threat, not a guaranteed TAG killer.
 - **Up to 48\" reach:** X-Visor helps her attack sheltered enemies from a safe deployment-zone position, subject to a **legal grenade trajectory** and the weapon's range limit. Neither LoF nor an established hacking network is needed for Speculative Attack.
@@ -25,9 +25,9 @@ A standalone **24pt Emily in Group 2** can spend otherwise underused Group 2 poo
 - **Actual Order economy:** Emily adds **one Regular Order** to her Combat Group. She has **no Tactical Awareness**. Her speculative attacks spend that group's pooled Orders, one **Long Skill** per shot. Group 2 is attractive **when it already has 1–3 spare Orders**, not because her profile intrinsically generates extra attacks.
 - **Low SWC tax:** 0 SWC leaves the list's SWC for long-range guns, ARO pieces, TAGs and other priority weapons.
 
-**Good conditions:** enemy expensive Hackable targets shelter behind terrain; a TAG/HI threatens to push through a corridor; enemies cluster near an objective; Emily can use several genuinely spare Orders; the main group has a better active attacker and cannot afford to spend its own Orders on speculative fire.
+**Good conditions:** enemy expensive Hackable targets shelter behind terrain **outside an infiltrating Jackal's effective 0–24\" envelope**; enemies cluster near an objective where the **normal** GL matters; Emily can use several genuinely spare Regular Orders; the main group has a better active attacker and cannot afford to spend its own Orders on speculative fire.
 
-**Avoid or de-prioritize:** Group 2 rarely has spare Orders; tables prevent useful trajectories; enemy targets can readily Dodge; enemy Engineer/recovery support is very accessible; targets are cheap/dispersed; a 24-point investment would cost the list a more essential specialist or defensive piece. It is typically inefficient to build an entire offensive plan around repeated low-odds Speculative Attacks.
+**Avoid or de-prioritize:** an infiltrating Jackal can cover the same priority E/M targets; Group 2 rarely has spare Orders; tables prevent useful trajectories; enemy targets can readily Dodge; enemy Engineer/recovery support is very accessible; targets are cheap/dispersed; a 24-point investment would cost the list a more essential specialist or defensive piece. It is typically inefficient to build an entire offensive plan around repeated low-odds Speculative Attacks.
 
 ### Speculative accuracy — useful threat, not a reliable one-shot solution
 
@@ -42,6 +42,18 @@ N5.3 Speculative Attack is a **Long Skill**, **Burst 1**, with **-6** plus range
 These percentages are **before** enemy Dodge/Face-to-Face resolution, E/M Saving Rolls, impact geometry and other situational factors. Three independent BS7 attempts produce a 72.5% chance of **at least one passing attack roll**, not a 72.5% chance of disabling a TAG. The Targeted state can improve eligible attacks if another piece sets it up, but that support also costs resources.
 
 **Fireteam rule:** FT2's **BS Attack (+1 SD)** explicitly does **not** apply when declaring Long Skills, so a linked Emily does **not** gain an extra die for Speculative Attack. FT4's +1 BS, where achieved, can apply. Thus **linking her does not automatically make the GL plan more accurate**.
+
+## X-Visor: why it matters (compared with Jackal)
+
+Emily's **BS13 vs Jackal BS11** and X-Visor produce a real range/accuracy advantage, but this does **not** make E/M speculative fire exclusive to her. The Jackal can start infiltrated near the midfield targets Emily would otherwise spend Orders reaching, and its 11pt/0.5 SWC profile adds a pre-deployed Shock Mine. Jackal is Irregular, cannot join a Fireteam and lacks a normal GL; Emily is Regular, 0 SWC and more versatile.
+
+| E/M speculative shot distance | Emily (BS13, X-Visor) | Infiltrating Jackal (BS11) |
+|---|---:|---:|
+| 0–24\" | BS7, **35%** | BS5, **25%** |
+| 24–32\" | BS7, **35%** | BS2, **10%** |
+| 32–48\" | BS4, **20%** | BS-1, **no successful roll without further modifiers** |
+
+**Selection consequence:** If the plan is merely an infiltrated E/M bombardment threat, **take the Jackal first**. Emily earns her extra 13pts mainly through longer-range shots, multiple spare Regular Orders, normal grenades and defensive/Fireteam utility—not by introducing a new tool to Kestrel.
 
 ## X-Visor: why it matters
 
@@ -72,16 +84,17 @@ In a defensive linked group, a gunfighter can cover a firing lane while Emily th
 
 These are **rules-based candidates**, not battle-report claims. **Do not promote Magistrate + Jackal FTO + Emily into a default COLCORP Haris**: it dilutes the cheap Jackal/FT Master Order-engine advantage. Defensive sniper + Emily is more positionally coherent than advancing Griffin HMG + Emily.
 
-## Profile opportunity cost — why Breaker Emily is a skip
+## Profile opportunity cost — Jackal competes with GL Emily; Breaker Emily is a skip
 
 | Alternative | Pts / SWC | Preferred reason |
 |---|---:|---|
+| **Jackal Infiltration / E/M GL / Minelayer** | **11 / 0.5** | **Usually better-value E/M Speculative Attack**, with midfield deployment, Shock Mine and its own Irregular Order; no link or X-Visor |
 | **Fennec FO / Sensor / Disco** | **13 / 0** | Cheap actual Fennec, objective specialist, Sensor and Eclipse projection |
 | **Fennec Thunderbolt (+1B) Minelayer** | **14 / 0** | Inexpensive link body, pre-deployed Shock Mine, Triangulated Fire and useful defense |
 | **Firefly Deployable Repeater** | **19 / 0** | NCO, Albedo, Panzerfaust, Repeater and D-Charges |
 | **Emily Breaker Combi** | **22 / 0** | WIP14 FO, Mimetism (-3), Dogged, X-Visor, Breaker damage against BTS/2 |
 | **Firefly Engineer / Chain of Command** | **23 / 0** | Genuine Engineer or CoC utility, NCO, Albedo and Panzerfaust |
-| **Emily GL/E/M GL** | **24 / 0** | Distinctive long-range E/M Speculative Attack, normal GL, reactive Flash Pulse (+1B) |
+| **Emily GL/E/M GL** | **24 / 0** | Longer-ranged/more accurate E/M Speculative Attack than Jackal, normal GL, Regular Order, reactive Flash Pulse (+1B) and Fireteam access; **not unique E/M coverage** |
 | **Bipandra Tactical Awareness Doctor** | **25 / 0** | High-value healing, extra activation and mobile Fireteam support |
 | **Richard Quinn** | **26 / 0** | MSV1, FO, Disco/Eclipse or MULTI Marksman Rifle |
 
@@ -94,13 +107,14 @@ These are **rules-based candidates**, not battle-report claims. **Do not promote
 
 ## Final selection rule
 
-- **Default: 24pt Emily GL/E/M GL** if a list genuinely wants a **Group 2 spare-Order sink** that threatens TAGs/HI without LoF, or needs **defensive FENNECS Flash Pulse +1B** and Number 2 utility. She is **A-tier in those defined roles**, not a universal auto-include.
+- **Default for an E/M speculative threat: 11pt infiltrating Jackal E/M GL**, not Emily. The Jackal supplies the same fundamental attack from forward deployment for less than half the points, with an Irregular Order and Shock Mine; pay 0.5 SWC for that efficiency.
+- **Take 24pt Emily GL/E/M GL selectively** for a genuine **Group 2 spare-Regular-Order sink**, better long-range E/M accuracy/reach, the normal GL, or **defensive FENNECS Flash Pulse +1B** / Number 2 utility. **B-tier overall for Kestrel: useful combination, no unique indirect E/M role.**
 - **Usually skip 22pt Breaker Emily** (**C-tier Kestrel opportunity value**); prefer 14pt Fennec Minelayer or an appropriate 19–23pt Firefly if buying inexpensive defense/support, and pay the additional 2 points for GL Emily if buying Emily at all.
-- **Skip Emily entirely** if her speculative shots are unlikely to be available/useful and her Fireteam job can be accomplished by a less expensive Fennec. She is not a replacement for a genuine mobile attacking specialist or primary gunfighter.
+- **Skip Emily entirely** if a Jackal already supplies sufficient E/M threat, her speculative shots are unlikely to be useful, or a cheaper Fennec does the Fireteam job. She is not a replacement for a genuine mobile attacking specialist or primary gunfighter.
 
 ## References
 
-- [Pinned Kestrel roster / Emily profile](../../../../sectorials/panoceania/kestrel-colonial-force.md#emily-handelman)
+- [Pinned Kestrel roster / Emily and Minescorp Jackal profiles](../../../../sectorials/panoceania/kestrel-colonial-force.md)
 - [Kestrel Fireteam constructions and access](../kestrel-fireteams.md)
 - [Infinity N5.3 Speculative Attack](https://infinitythewiki.com/Speculative_Attack)
 - [Infinity N5.3 X-Visor](https://infinitythewiki.com/X-Visor)
