@@ -26,6 +26,7 @@ Sources used:
 - InfinityDB Fireteam normalization/semantics at commit `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Rules baseline: N5.3 + N5 FAQ v0.1.
 - **Verified profile correction (20 Nov 2026):** Squalos Mk-II's imported BS Attack (+1SD) skill was replaced with current **BS Attack (SR-1)**; this explicit override is documented at its profile, while the remainder of the pinned source provenance is retained.
+- **Dart profile correction (21 Nov 2026):** User-provided current Army screenshot verifies distinct E/M Grenades versus Shock Mine variants, Viral Tactical Bow (+1SD), the 42pt Minelayer + Sharvara K-9 option, and Sharvara's standalone equipment/stat line.
 
 Coverage notes:
 
@@ -496,14 +497,19 @@ Only one Maximus may be selected across Agent Maximus and TAG Maximus.
 
 ### Dart, Optimate Huntress
 
-**ID 1130 · AVA 1 · SK** — `MOV 10-10 | CC 16 | BS 13 | PH 13 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. MSV1, Surprise Attack (-3), Camouflage, Courage, Forward Deployment (+20), Mimetism (-3), Immunity (Shock), Stealth, NWI, Terrain (Total), Climbing Plus, Specialist Operative, Decoy (1).
+**ID 1130 · AVA 1 · SK** — `MOV 10-10 | CC 16 | BS 13 | PH 13 | WIP 13 | ARM 1 | BTS 3 | VITA 1 | S 2`. Multispectral Visor L1; Camouflage, Climbing Plus, Courage, Decoy (1), Forward Deployment (+20 cm / +8 in), Immunity (Shock), Mimetism (-3), No Wound Incapacitation, Specialist Operative, Stealth, Surprise Attack (-3), Terrain (Total).
 
-| Opt | Pts | SWC | Loadout | FT |
+| Opt | Pts | SWC | Loadout / role | FT |
 |---:|---:|---:|---|---|
-| 1 | 35 | 0 | AP SMG, Pistol, CCW, Viral Tactical Bow, E/M Grenades | — |
-| 2 | 35 | 0 | Same; Shock Mine | — |
-| 3 | 36 | 0.5 | Same; Shock Mine, Minelayer | — |
-| 4 | 42 | 0.5 | Same; Minelayer; Sharvara K9 Peripheral | — |
+| 1 | 35 | 0 | AP Submachine Gun, Viral Tactical Bow (+1SD), **E/M Grenades**, Pistol, CC Weapon | — |
+| 2 | 35 | 0 | AP Submachine Gun, Viral Tactical Bow (+1SD), **Shock Mine**, Pistol, CC Weapon | — |
+| 3 | 36 | 0.5 | **DART (Minelayer)**; AP Submachine Gun, Viral Tactical Bow (+1SD), **Shock Mine**, Pistol, CC Weapon; Minelayer | — |
+| 4 | 42 | 0.5 | **DART (Minelayer)**; AP Submachine Gun, Viral Tactical Bow (+1SD), **Shock Mine**, Pistol, CC Weapon; Minelayer; **Sharvara K-9 HoundBot Peripheral (Synchronized)** | — |
+
+**Profile clarification (Army screenshot, 2026-11-21):** The 35-point E/M Grenades profile is **not** the Shock Mine profile; the 35-point Shock Mine, 36-point Minelayer and 42-point Minelayer + Sharvara profiles **do not carry E/M Grenades**. The 42-point profile retains Dart's Shock Mine and Minelayer, and adds Sharvara. All Dart profiles have Viral Tactical Bow **(+1SD)**.
+
+**Sharvara K-9 HoundBots** (included only with Dart option 4; not an independently selectable Kestrel unit): `MOV 15-10 | CC 22 | BS 11 | PH 12 | WIP 12 | ARM 0 | BTS 3 | STR 1 | S 3`. Camouflage, CC Attack (-6), Courage, Dodge (+3), Dodge (+2"), Forward Deployment (+20 cm / +8 in), Mimetism (-3), Natural Born Warrior, Peripheral (Synchronized), Stealth. **Weapons:** Flash Pulse, Heavy Riotstopper, E/Marat; DA CC Weapon (PS=7), PARA CC Weapon. Sharvara does not generate a separate Order.
+
 
 ### Sāchā Xenotech Hunters
 
