@@ -6,7 +6,7 @@
 
 ## Pinned Kestrel N5.3 profile and provenance
 
-The [repository's pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#optimate-agent-maximus) is authoritative for Kestrel Army options: **AVA 1, Regular MI, MOV 15–5 cm (6–2\"), CC22, BS13, PH13, WIP13, ARM3, BTS3, W1 + NWI, S2**. Skills/equipment: **Albedo (-6) in the pinned roster**, CC Attack (-6), Courage, Dodge (+2.5 cm / +1\"), Natural Born Warrior, Immunity (ARM), Number 2, Specialist Operative, Tactical Awareness and Cube 2.0. All four share **AP Thunderbolt (+2B), E/M Carbine, Heavy Pistol, AP+DA CC Weapon**.
+The [repository's pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#optimate-agent-maximus) is authoritative for Kestrel Army options: **AVA 1, Regular MI, MOV 15–5 cm (6–2\"), CC22, BS13, PH13, WIP13, ARM3, BTS3, W1 + NWI, S2**. Skills/equipment: **Albedo (-3)**, CC Attack (-6), Courage, Dodge (+2.5 cm / +1\"), Natural Born Warrior, Immunity (ARM), Number 2, Specialist Operative, Tactical Awareness and Cube 2.0. All four share **AP Thunderbolt (+2B), E/M Carbine, Heavy Pistol, AP+DA CC Weapon**.
 
 | Profile | Points | SWC | Difference | Main recommendation |
 |---|---:|---:|---|---|
@@ -19,7 +19,7 @@ All four have **Tactical Awareness**. Lieutenant does **not** give Maximus a sec
 
 **Fireteam restriction:** The 48-point version **cannot join** any Fireteam because Maximus is the Controller of synchronized **Minimus**. The 45-point **FTO** without Minimus is eligible in **FENNECS Core/Haris** (at least one actual Fennec required). The canonical Fennec chart row ambiguously lacks an FTO marker, but the general [Peripheral](https://infinitythewiki.com/Peripheral) and [Fireteam basic rules](https://infinitythewiki.com/Fireteams:_Basic_Rules) resolve the restriction. Maximus Agent is **not a Wildcard** and cannot simply join KESTREL/COLCORP/ARMORED Fireteams. The separate Maximus TAG is a different unit sharing the **one-Maximus-per-list** limit.
 
-**External profile difference, not silently imported:** [Human Sphere](https://human-sphere.com/Maximus) currently shows **Albedo (-3)** rather than the pinned Kestrel **(-6)** and lists a **47-point Inspiring Leadership FTO Lieutenant**. The pinned repository's Kestrel source contains only the four options above. Verify against the latest official Army before treating the extra option or revised Albedo as legal/current for Kestrel; this article retains the pinned roster rather than inventing an unverified fifth Kestrel choice.
+**Profile correction and remaining discrepancy (21 Nov 2026):** Agent Maximus's **Albedo is (-3)**; the earlier Kestrel (-6) value was incorrect and is now corrected in the pinned repository reference. [Human Sphere](https://human-sphere.com/Maximus) also lists a **47-point Inspiring Leadership FTO Lieutenant**, whereas the repository's pinned Kestrel source contains only the four options above. Confirm that additional option's legality in official Army before adding it; do not invent a fifth pinned Kestrel choice.
 
 ## The AP Thunderbolt (+2B): a long-range AP HMG alternative
 
@@ -160,4 +160,4 @@ This is a **four-member Core**, not a Haris (only 3 members permitted for Haris)
 - [N5.3 weapon chart](https://infinitythewiki.com/Weapon_Chart)
 - [NCO](https://infinitythewiki.com/NCO), [Tactical Awareness](https://infinitythewiki.com/Tactical_Awareness), [Fireteam active-turn activation](https://infinitythewiki.com/Fireteams_in_the_Active_Turn)
 - [Fireteam Integrity](https://infinitythewiki.com/Fireteam_Integrity), [Peripheral](https://infinitythewiki.com/Peripheral), [Strategos](https://infinitythewiki.com/Strategos)
-- [Human Sphere Agent Maximus (live profile; differences from pinned roster flagged above)](https://human-sphere.com/Maximus)
+- [Human Sphere Agent Maximus (Albedo -3 confirmed; additional profile discrepancy flagged above)](https://human-sphere.com/Maximus)
