@@ -69,6 +69,29 @@ The two 6pt choices are both viable, but attack different lanes:
 - **Option 1, SMG + Panzerfaust (6/0):** Preferred **hard-target/open-lane** defense. Panzerfaust is **AP+EXP**, Disposable (2), **+3 at 16–32"**. Against a TAG/HI, the cost-to-threat ratio is excellent, but a BS11, W1 ARO remains unreliable if challenged on favorable enemy terms. SMG remains for close defense and later turns. The Boarding Pistol also allows a direct-template close trade.
 - **Option 2, Light Rocket Launcher (6/0):** Preferred **infantry/airborne-entry/cross-lane** defense. The LRL is **reusable**, projects Continuous Damage and has a **Circular Impact Template** mode; good at **8–24"**. Its Blast attack is an **impact template**, **not** an automatic Direct Template. The Boarding Pistol provides the separate close Direct Template.
 
+### Booty: substantial free upside on 6pt FTOs
+
+**Only options 1–2 (the 6pt Jackal FTOs) have Booty.** None of the three **Infiltrating** profiles rolls Booty. Under the [N5 Booty chart](../../../../rules/5b_Special%20Skills/Booty.md), the FTO rolls **D20 after deploying its model**, receiving an extra item or effect *without replacing* the LRL/Panzerfaust or Boarding Pistol. Do not deploy expecting to learn the roll first.
+
+For the **LRL FTO guarding the DZ**, a deliberately conservative assessment of all 20 equally likely results:
+
+| Evaluation | D20 results | Count | Raw chance |
+|---|---|---:|---:|
+| **Strong defensive or complementary upgrade** | **3–4:** Light Flamethrower; **9:** MSV1; **11:** Adhesive Launcher Rifle; **12:** +2 ARM; **13:** Panzerfaust; **17:** MULTI Sniper Rifle; **18:** +4 ARM; **19:** Mimetism (-6) | **9/20** | **45%** |
+| **Situationally useful** | **16:** MULTI Rifle; **20:** HMG | **2/20** | **10%** |
+| **Marginal or niche for stationary DZ defense** | **1–2:** +1 ARM; **5–6:** Grenades; **7–8:** DA CCW; **10:** EXP CCW; **14:** Monofilament CCW; **15:** MOV 8-4 | **9/20** | **45%** |
+
+**Weighted usefulness ≈ 50%** when strong outcomes count at **full value** and situational outcomes at **half value**: **45% + (10% × 0.5) = 50%**. This is a tactical *utility-weighted estimate*, **not** the literal chance of one of those outcomes: the chance of rolling *either* a strong or situational result is **55%**. All rolls have some possible use, and the weighting depends on the table and opponent.
+
+The **Adhesive Launcher Rifle (11)** belongs in the **strong** tier, not merely situational. Its **B2 active / B1 ARO PARA** attack can immobilize a much more expensive heavy attacker via a **PH−6** saving roll; even threatening such an ARO can constrain a TAG's approach. It is not an automatic disable: BS11, the opponent's Dodge and possible later recovery still apply. **Mimetism (-6)** and **+4 ARM** are the biggest pure defensive boosts; Light Flamethrower adds a close **Continuous Damage Direct Template**, particularly valuable versus AD or DZ intruders. MSV1 improves relevant obscured/mimetism matchups.
+
+**Why this slightly favors LRL over the Panzerfaust FTO as a blind defensive choice:**
+
+- **LRL Jackal:** The native **reusable LRL** covers infantry, grouped targets and 8–24" lines; **Booty 13 (5%) adds a Panzerfaust** and gives it an **AP+EXP anti-heavy weapon** *without sacrificing the rocket launcher*. An Adhesive Launcher or MULTI Sniper similarly adds a distinct deterrent. Thus its random equipment has more room to complement the existing loadout.
+- **SMG + Panzerfaust Jackal:** Starts with the best cheap long-range anti-heavy weapon and short-range SMG; **Booty 13 is largely redundant** rather than a new role, though extra ammunition may sometimes help. Still a better guaranteed pick when a 16–32" heavy-hunting ARO is essential and you cannot rely on a 5% roll.
+
+**Practical result:** Give the **LRL a *slight* default edge** for general Magistrate-Duo DZ protection thanks to reusable attacks **and** more complementary Booty outcomes. Retain the **native Panzerfaust** profile whenever reliable anti-TAG/HI coverage matters more than the high-variance bonus. **FT2 +1 Special Die** improves *rolled* shooting attacks from Booty weapons; never apply it to automatic direct templates.
+
 **FT2** (Magistrate + one Jackal counting as ColCorp) confers **+1 Special Die** to applicable BS attacks: roll one extra die and discard one, **not +1 Burst**. It can improve a launcher ARO but **not** a direct-template Boarding Pistol attack. **FT3** adds Discover/Dodge benefits, not the FT4 +1 BS bonus.
 
 **Defensive setup:** Put the Magistrate/CoC or LT behind Total Cover, keeping it alive at Order Count; use the Jackal as the disposable guard. Duo Coherency means the two models cannot defend opposite DZ corners independently. Do not reveal the Magistrate to take marginal gunfights merely because it is linked.
@@ -86,7 +109,7 @@ The two 6pt choices are both viable, but attack different lanes:
 
 \*The Jackal conversions require the appropriate Fireteam at **Order Count**; the Strategos value counts a converted LT Order, which **cannot also be spent by NCO**. See [Magistrate details](magistrate.md).
 
-**Selection:** Start with **one 6pt FTO in a Duo**; include a second only when no better Core/Haris mission plan needs that Haris slot. Between the FTO weapons, select **Panzerfaust** if a long anti-heavy ARO is missing, and **LRL** if close/medium-range infantry and AD entry coverage matters more. Neither is universally superior; both retain the Boarding Pistol's cheap close trade.
+**Selection:** Start with **one 6pt FTO in a Duo**; include a second only when no better Core/Haris mission plan needs that Haris slot. Give the **LRL a slight blind-pick edge** for infantry/AD protection and more complementary Booty outcomes—including the **5% chance to gain a Panzerfaust**—but select the **native Panzerfaust** when a guaranteed long anti-heavy ARO is the priority. Both retain the Boarding Pistol's close direct-template trade.
 
 ## How many infiltrators, and which Combat Group?
 
@@ -150,7 +173,7 @@ The last is a **legal constructed command/order package**, but the Haris slot an
 1. **Infiltrating E/M GL + Shock Minelayer — 11pts/0.5SWC (opt 5):** Best one-model midfield denial and repeat optional self-funded speculative pressure; **not automatic if SWC tight**.
 2. **Infiltrating BSG + E/M Carbine + Shock Mine — 10pts/0SWC (opt 3):** **Best zero-SWC infiltrator** and a great second partner; mine placement and repeatable short-range E/M can justify the Irregular Order every turn.
 3. **FTO Panzerfaust/SMG — 6pts/0SWC (opt 1):** Excellent anti-heavy **Magistrate Duo** guard and Order conversion.
-4. **FTO Light Rocket Launcher — 6pts/0SWC (opt 2):** Equally compelling **Magistrate Duo** guard for clustered/infantry entry coverage; choose by threatened approach, not by universal rank.
+4. **FTO Light Rocket Launcher — 6pts/0SWC (opt 2):** **Slight default edge over Panzerfaust FTO** as a general-purpose Magistrate-Duo DZ guard: reusable anti-infantry blast and ~**50% utility-weighted Booty boost**, including a **5% chance to add a Panzerfaust**. It does not replace a *guaranteed* native anti-heavy Panzerfaust when that specific ARO is needed.
 5. **Infiltrating Combi/Blitzen — 10pts/0SWC (opt 4):** Situational 16–32" E/M defense; normally loses to the Carbine's carried mine and repeatable direct attack.
 
 **Bottom line:** **One** autonomous infiltrator is a strong balanced-list starting point; **two** are a defensible, sometimes excellent Group 2 area-denial package, particularly a **11/.5 GL Minelayer + 10/0 E/M Carbine** pair. In parallel, **one 6pt FTO Jackal linked to a Magistrate** remains among Kestrel's most efficient backfield command/Order packages. Do not call either the infiltrators or the Magistrate link mandatory, and never confuse the Infiltrating profiles with the FTO profiles.
