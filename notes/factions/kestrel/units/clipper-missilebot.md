@@ -1,3 +1,5 @@
+**Niche pick/skip**
+
 # Clipper Dronbot (Missilebot) — Kestrel Colonial Force (Infinity N5.3)
 
 **Verdict: C-tier for the 16-point Guided Clipper, full stop.** Do not upgrade its rating for hypothetical Forward Observer-heavy or hacker-heavy Kestrel builds. **The 19-point non-Guided FTO Missile Launcher (+1B) is also a poor Kestrel pick**: despite its FTO label, it has **no entry in Kestrel's Fireteam chart**. Neither Clipper is a recommended standard selection.
