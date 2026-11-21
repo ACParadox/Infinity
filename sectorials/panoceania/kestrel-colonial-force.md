@@ -27,6 +27,7 @@ Sources used:
 - Rules baseline: N5.3 + N5 FAQ v0.1.
 - **Verified profile correction (20 Nov 2026):** Squalos Mk-II's imported BS Attack (+1SD) skill was replaced with current **BS Attack (SR-1)**; this explicit override is documented at its profile, while the remainder of the pinned source provenance is retained.
 - **Dart profile correction (21 Nov 2026):** User-provided current Army screenshot verifies distinct E/M Grenades versus Shock Mine variants, Viral Tactical Bow (+1SD), the 42pt Minelayer + Sharvara K-9 option, and Sharvara's standalone equipment/stat line.
+- **Agent Maximus correction (21 Nov 2026):** Albedo is **(-3)**, not the previously recorded **(-6)**. Explicit current-profile correction; the remaining pinned Army provenance is retained.
 
 Coverage notes:
 
@@ -347,7 +348,7 @@ In the COLCORP row Magistrates carry **Counts as: ColCorp**.
 
 ### Optimate Agent Maximus
 
-**ID 1862 · AVA 1 · MI** — `MOV 15-5 | CC 22 | BS 13 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`. Albedo (-6), CC Attack (-6), Courage, Dodge (+2.5), Natural Born Warrior, Immunity (ARM), Number 2, Specialist Operative, Tactical Awareness, NWI, Cube 2.0.
+**ID 1862 · AVA 1 · MI** — `MOV 15-5 | CC 22 | BS 13 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`. Albedo (-3), CC Attack (-6), Courage, Dodge (+2.5), Natural Born Warrior, Immunity (ARM), Number 2, Specialist Operative, Tactical Awareness, NWI, Cube 2.0.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
