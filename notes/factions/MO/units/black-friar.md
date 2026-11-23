@@ -1,6 +1,6 @@
 # Black Friars — Military Orders (Infinity N5.3)
 
-**Verdict: A overall; A+ anti-visual-tech counter in its ideal matchups.** Black Friars are **not mandatory**, but the 24pt/0SWC **Thunderbolt (+1B)** and 22pt/1.5SWC **Heavy Rocket Launcher** are particularly efficient ways to add **MSV2 + Albedo (-6) + Combat Instinct** to Military Orders. The 27pt MULTI Rifle/Biometric/Drop Bears specialist is genuinely useful against Impersonation, but usually a matchup pick rather than the default. Most lists should consider **0–1 Friar**, not automatically buy two.
+**Verdict: A overall; A+ anti-visual-tech counter in its ideal matchups. In most MO lists, favor the 24pt/0SWC Thunderbolt (+1B) over the same-cost 24pt/1SWC Crosier MSV2 HMG.** Black Friars are **not mandatory**, but the 24pt/0SWC **Thunderbolt (+1B)** and 22pt/1.5SWC **Heavy Rocket Launcher** are particularly efficient ways to add **MSV2 + Albedo (-6) + Combat Instinct** to Military Orders. The 27pt MULTI Rifle/Biometric/Drop Bears specialist is genuinely useful against Impersonation, but usually a matchup pick rather than the default. Most lists should consider **0–1 Friar**, not automatically buy two.
 
 **Sources:** [Pinned MO roster / exact Black Friar options](../../../../sectorials/panoceania/military-orders.md#panoceanian-black-friars) · [MO Fireteam chart](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams guide](../military-orders-fireteams.md) · [MO listbuilding guide](../military-orders-listbuilding.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Combat Instinct](../../../../rules/5b_Special%20Skills/Combat_Instinct.md) · [N5.3 weapon updates](../../../../rules/4_Ammunition%20and%20Weaponry/N5.3_Weapon_Updates.md) · [Albedo](https://infinitythewiki.com/Albedo) · [MSV](https://infinitythewiki.com/Multispectral_Visor) · [Biometric Visor](https://infinitythewiki.com/Biometric_Visor). Reviewed 22 November 2026. Ratings and example teams are tactical judgments, not tournament win rates.
 
@@ -44,6 +44,37 @@ The normal Thunderbolt is **B2, PS6, N ammo, ARM save**, with its preferred **+3
 **When not to bring:** If the only missing job is **anti-ARM/AP**, this non-AP Thunderbolt is not the solution. If the army already has MSV2/anti-Mimetism coverage and SWC is available for a more decisive heavy gun, 24 points may be better spent on another specialist, midfield obstacle, or Orders.
 
 **Deployment/use:** A second-stage gun: let the TAG/HMG open the obvious long-range lane, then bring the Friar into a favorable 16–32-inch engagement with mimetic, visor-equipped or otherwise exposed troops. After fighting, avoid leaving the one-Wound Friar in a plain gunfight ARO.
+
+## Direct comparison: 24pt/0SWC Black Friar Thunderbolt vs 24pt/1SWC Crosier MSV2 HMG
+
+**Default MO recommendation: Black Friar Thunderbolt (+1B) > Crosier MSV2 HMG for most lists.** They cost **exactly the same 24 points** and both have MSV2 and access to legal Military Orders Fireteams. Choosing the Crosier solely because it has an HMG overlooks the Friar's much stronger overall cost/tech package. The Crosier is not an automatic must-take or required Core filler; MO can build legal Core/Haris combinations around **Teutonics** or **Santiago FTO**, and a dedicated Order Sergeants Duo/Haris does not need any Crosier.
+
+| Dimension | Black Friar Thunderbolt (+1B) | Crosier MSV2 HMG | Practical edge |
+|---|---|---|---|
+| Pts / SWC | **24 / 0** | **24 / 1** | **Friar saves 1 SWC**, very relevant with TAG, missile, or linked Knight gun |
+| BS / weapon PS | **BS13 / PS6** | BS12 / PS5 | **Friar** |
+| Active weapon Burst | B3 (native Thunderbolt B2 +1B) | **B4** | **Crosier**, especially into ordinary gunfighters |
+| Reactive weapon Burst | B1 | B1 | Tie |
+| 16–32" | +3 | +3 | Tie |
+| 32–48" | **0** | -3 | **Friar**, which has *at least as useful* long range, not shorter range |
+| MSV | MSV2 | MSV2 | Tie |
+| Protection | **ARM2, BTS3, Albedo (-6), Combat Instinct** | ARM1, BTS0; no Albedo/Combat Instinct | **Friar**, especially versus MSV/Marksmanship opponents |
+| Emergency tool | **Nanopulser** | None beyond pistol | Friar |
+| Link families | Military Orders Core/Haris/Duo **and Order Sergeants Haris/Duo** | Military Orders Core/Haris/Duo | Friar for **join flexibility** |
+| FT level contribution | **Not** a Crosier or Order Sergeant Counts-as | **Native Crosier** | Crosier for economical FT2/FT4/FT5 |
+| Generic anti-ARM | **Normal Thunderbolt, not AP** | **Normal HMG, not AP** | Neither is a dedicated armored-target killer |
+
+**Albedo caveat:** The -6 applies to the specified **MSV/Marksmanship** enemy BS Attack/Discover interactions that require LoF, **not** to every enemy gun. Even without Albedo triggering, the Friar retains higher BS, higher PS, slightly better ARM/BTS, Nanopulser, wider range utility and a whole-SWC saving. In a straight active-turn duel against an ordinary, non-MSV shooter, however, **Crosier B4** can outweigh those advantages by winning more Face-to-Face exchanges and causing more separate hits; there is no universal damage win rate without specifying target BS, ARM, cover and range.
+
+**Fireteam rules matter as much as profile stats:**
+- **Crosier HMG24 + Order Sergeant FTO Hacker/Pitcher18** is a **42pt / 1.5SWC Military Orders Duo at FT2**, because FTO Order Sergeants count as Crosiers *in this row*. The HMG gets **B4 +1 Success Die** (roll 5, discard 1), and the Hacker's eligible BS attacks can use FT2 as leader.
+- **Black Friar TB24 + Order Sergeant FTO Hacker18** is a **42pt / 0.5SWC Order Sergeants Duo at FT1** (or another legal MO Duo if a required-choice member is provided): **not FT2**, because the Friar does *not* count as a Sergeant or Crosier. The Friar keeps its natural BS13/B3/PS6/Albedo and saves 1 SWC; the Hacker loses the FT2 bonus in the two-body setup.
+- **Black Friar TB24 + two Teutonic Knights18+19** is a **61pt / 0SWC Military Orders Haris at FT2**; the Friar benefits from FT2 **+1SD**, while the Knights provide two-Wound close assault, Panzerfaust/Blitzen choices and a Specialist on the 19pt profile. This occupies the only Haris, so the rest of the list must benefit from that assignment.
+- **Black Friar TB24 + three basic Crosiers33 + Knight Commander CoC23** is an **80pt / 0SWC Military Orders Core at FT4**: Friar gun at **BS14, B3+1SD, PS6**, but **no FT5/Sixth Sense**. Replace Friar with **Crosier HMG24** for the same **80pts / 1SWC**, reaching **FT5** and an HMG at **BS13, B4+1SD, PS5**. This is the clearest real linked reason to prefer the Crosier.
+
+**MO roster implications:** Unless the HMG's extra B and native Crosier FT equivalence are central to the list, buy the **Friar Thunderbolt** as the default economical MSV2 answer. The Crosier's narrower remaining jobs are (1) cheap **11pt Regular** or **12pt Blitzen** order/ARO filler; (2) **13pt Paramedic** specialist and native required-choice/FT-level filler; and (3) a deliberately built **FT2 HMG Duo or FT5 Core**. A Crosier Core is **optional**; do not consume the Core slot just because Crosiers have AVA Total. Cheap **7pt Fugazi, 8pt Mulebot, 9pt Tech-Bee, 12pt Raveneye** can supply more economical orders or different useful jobs within their AVA/availability constraints.
+
+**Ranking:** **Black Friar Thunderbolt A+/first choice** as general MSV2 utility; **Crosier HMG A in a planned FT2/FT5 shooting team, B+ standalone**. Keeping both is justifiable if you need separate active-visor coverage or genuinely leverage a Fireteam; otherwise prefer the Friar's no-SWC flexibility.
 
 ## Profile 4: Heavy Rocket Launcher — premier reactive choice (22/1.5)
 
@@ -97,7 +128,7 @@ N5.3 FT2 grants **BS Attack (+1 SD)**; FT3 grants **+3 Discover/+1 Dodge**; FT4 
 | **Order Sergeant FTO Hacker/Pitcher 18 + Curator AP Mine 17 + Thunderbolt Friar 24**, Order Sergeants Haris | **59 / 0.5** | **FT2** | **B+:** +1SD Pitcher and Friar gun, Engineer support; Haris tax, Curator is an Order Sergeant count-as |
 | **Order Sergeant FTO Hacker/Pitcher 18 + HRL Friar 22**, Order Sergeants Duo | **40 / 2** | **FT1** | **C for Pitcher plan:** legal, **but no +1SD Pitcher**, expensive SWC; favor Hacker + Curator/Infirmarer/FTO Sergeant if network delivery is why you linked |
 
-**The strongest case for a Friar in Fireteam is when it adds anti-tech coverage to a team you already wanted**, rather than purchasing a full team solely to activate an inexpensive 22–24pt shooter. The MSV2/Albedo package also works **solo**, so a Fireteam is not mandatory.
+**The strongest case for a Friar in Fireteam is when it adds anti-tech coverage to a team you already wanted**, rather than purchasing a full team solely to activate an inexpensive 22–24pt shooter. **The Thunderbolt is the default 24pt MSV2 buy over the Crosier HMG**: save 1 SWC and gain PS6, Albedo, Combat Instinct, stronger ARM/BTS and wider Fireteam access, unless the Crosier's B4 and native FT-level contribution specifically matter. The MSV2/Albedo package also works **solo**, so a Fireteam is not mandatory.
 
 ### Tactical combinations worth testing
 
