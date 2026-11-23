@@ -129,7 +129,7 @@ In the Order Sergeants Fireteam row, Curator counts as **Order Sergeant**. That 
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 1 | 19 | 0 | Heavy Shotgun, PARA CCW (-3) | Order Sergeants max 1; Velox max 2 |
+| 1 | 19 | 0 | Heavy Shotgun (+1B), PARA CCW (-3) | Order Sergeants max 1; Velox max 2 |
 | 2 | 22 | 1 | Spitfire, PARA CCW (-3) | same |
 
 ### Tikbalang of Montesa
