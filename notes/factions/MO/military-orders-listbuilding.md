@@ -16,14 +16,57 @@ Use the [role inventory](military-orders-inventory.md) for profile alternatives 
 
 ## Command and cheap Orders
 
+### Preferred Lieutenant selection doctrine
+
+**Two default command architectures: decide whether Joan belongs in the list first, then whether an NCO has a productive role.** Do not pay for an aggressive Lieutenant and a separate CoC automatically when a protected Commander LT can instead fuel a dedicated attacker.
+
+| List composition | Preferred command | Rationale |
+|---|---|---|
+| **Joan v2, with or without NCO** | **Joan LT 45/1 + Knight Commander CoC 23/0**; normally add Warcor 3/0 | Preserve Inspiring Leadership, gain flexible orders and protect succession. Joan CoC is normally inferior to making her LT. |
+| **No Joan, with Seraph / Holy Sepulchre AP HMG / Teutonic NCO Spitfire** | **Knight Commander LT(+1 Order) 24/0** | Default: two Special LT Orders for productive NCO use, protected Holomask LT, no separate CoC tax. |
+| **No Joan, no productive NCO** | **Knight Commander basic LT 20/0**, or another mission-specific LT | Do not pay four extra points for a second LT Order that will normally go unused. |
+| **Other aggressive LT** | Niche; evaluate SWC savings and mission needs | Santiago Spitfire LT 33/0 saves 1.5 SWC, but CoC 23/0 is a substantial opportunity cost. Most other aggressive LTs offer insufficient unique benefits to justify the insurance. |
+
+#### If taking Joan, make her Lieutenant by default
+
+Compare the same three bodies, including a Warcor:
+
+| | Joan v2 LT + Commander CoC + Warcor | Commander LT(+1) + Joan v2 CoC + Warcor |
+|---|---:|---:|
+| Points / SWC | **71 / 1** | 72 / 1.5 |
+| Regular pooled Orders | **3** | 2 |
+| Special LT Orders | 1 | **2** |
+| Joan Tactical Awareness | 1 | 1 |
+| Warcor Irregular Order | 0 | 1 |
+| Useful offensive/flexible orders, excluding other troopers, without NCO and assuming Commander stays defensive | **5** | 3 |
+| Useful offensive/flexible orders with NCO available to spend LT Orders (excluding the NCO's own Orders) | **5** | **5** |
+| Initiative WIP | **15** | 13 |
+| Inspiring Leadership while Joan is eligible LT | **Yes** | No |
+
+Even with NCO, Joan's Regular Warcor offsets the lost second LT Order with a more flexible pooled Order. The remaining LT Order can be spent on Joan, by NCO, or on an Inspiring Leadership Coordinated Order — **not all three in the same turn**. Joan's LT profile saves 0.5 SWC and the CoC Commander costs one point less than the LT(+1) Commander. The same broad preference applies to Joan v1, whose LT provides +1 SWC.
+
+**Coordinated Order value:** [Inspiring Leadership](https://infinitythewiki.com/Inspiring_Leadership) permits a Coordinated Order using Joan's Special LT Order without spending a Command Token. Joan must participate; follow the [Coordinated Orders](https://infinitythewiki.com/Coordinated_Orders) eligibility and declaration restrictions, including same Combat Group and no linked Fireteam participants. When two, three or four participating troopers all need the same legal activation, this replaces two, three or four separate activations respectively: **one to three individual Orders saved**, potentially nine across three turns, plus up to three Command Tokens saved compared with ordinary coordination. These are conditional activation savings, **not extra pooled Orders**. Prioritize mass repositioning (Move + Move), retreating into cover, coordinated attacks or Suppressive Fire where legal and tactically useful. A permanent Fireteam reduces the opportunity to use this ability; Tactical Awareness can activate Joan's legal Fireteam when she leads, but her ordinary LT Order cannot normally activate the whole team.
+
+**Risk trade-off:** Joan is an advancing gunfighter, but the Holomask Commander is a naturally protected CoC carrier. Reversing the roles puts the succession carrier on the frontline and sacrifices Joan's active LT benefits. Prefer that reversal only for an unusually strong mission-specific need to conceal and preserve the original LT. If Joan falls or becomes ineligible, CoC prevents Loss of Lieutenant subject to its conditions but does not preserve Joan's Inspiring Leadership. Keep the Commander separate from Joan's attack route.
+
+#### If not taking Joan, default to Commander LT(+1) with NCO
+
+- **Seraph AP Spitfire 72/1.5 or MULTI HMG 74/1.5:** 96–98 points including Commander. Two LT-via-NCO activations plus one personal Tactical Awareness Order each turn; ideal independent TAG spearhead.
+- **Holy Sepulchre AP HMG 53/1:** 77 points including Commander; two extra LT-via-NCO activations for an independent long-range gun.
+- **Teutonic NCO Spitfire 29/1.5:** 53 points including Commander; two LT-via-NCO activations can move/attack with its legal Fireteam when leading it.
+
+The Commander stays protected and the NCO accepts combat risk. Losing the sole NCO may strand both LT Orders, so consider a second NCO only when it independently fits the list. **Do not add Joan merely to improve the command engine:** Joan LT + Commander CoC + Warcor + Seraph MULTI HMG costs 145/2.5 versus 98/1.5 for Commander LT(+1) + Seraph. The 47-point difference could instead fund Trinitarian FO22, Pathfinder TacAware17 and Mulebot8, subject to combat group and troop limits. Joan is an army-wide force multiplier and gunfighter; Commander LT(+1) is a compact dedicated NCO engine.
+
+### Other command and order considerations
+
 | Decision | Actual mechanics and value | Avoid this mistake |
 |---|---|---|
 | **Teutonic LT 18/0** | Cheapest durable LT and actual assault/short-range presence; saves 6 points versus Commander LT(+1). | **Impetuous** plus an identifiable aggressive unit is an LT risk. |
 | **Knight Commander LT 20/0 vs LT(+1)24/0** | Holomask-protected MI/Crosier equivalence; +1 option provides **two** Special LT Orders to an NCO. | The +1 variant is not two general Regulars. Without NCO, 4pt premium does not buy flexible Orders. |
 | **Knight Commander CoC 23/0** | Separate protected successor for aggressive LT (Joan/Hospitaller/Teutonic/Knight of Justice) plans. | It is not an LT simultaneously; keep CoC physically away from the threatened front. |
-| **Joan LT or Joan v2 LT** | Fighting LT, Tactical Awareness and Inspiring Leadership; some variants add +1 Command Token or Strategic Deployment. | Conversion is **not general MO army-wide Regularisation of Religious troopers**. Losing Joan threatens both attacker and command. |
+| **Joan LT or Joan v2 LT** | Fighting LT, Tactical Awareness and Inspiring Leadership; some variants add +1 Command Token or Strategic Deployment. | Inspiring Leadership converts eligible Irregular troops (notably Warcor), not a general bonus Order for Religious troopers. Losing Joan threatens both attacker and army-wide LT benefits; CoC protects succession. |
 | **NCO: Sepulchre / Seraph / Teutonic Spitfire** | Converts appropriate Special LT Order into a Tactical activation; a **Fireteam leader** can use relevant Tactical Order to activate its legal team. **MO Tikbalang is not an NCO.** | Cannot convert an Order twice; losing the NCO can strand an otherwise expensive Commander package. Tactical Awareness alone cannot spend LT Orders. |
-| **7pt Fugazi; 8pt Mulebot; 11pt Crosier; 12pt Raveneye** | Cheap regular infrastructure with distinct Flash/Repeater, Baggage, link/utility or mine/FO defensive jobs. | **Warcor is Irregular**; Palbot/Auxbot do not give independent transferable Orders; off-table AD/Hidden options affect early practical pool. |
+| **7pt Fugazi; 8pt Mulebot; 11pt Crosier; 12pt Raveneye** | Cheap regular infrastructure with distinct Flash/Repeater, Baggage, link/utility or mine/FO defensive jobs. | **Warcor is normally Irregular (Regular with eligible Joan LT)**; Palbot/Auxbot do not give independent transferable Orders; off-table AD/Hidden options affect early practical pool. |
 
 **Plan group placement explicitly.** A TAG in one group does not receive Tech-Bee TAGCom from another; an NCO's personal Tactical Orders do not become regular pool fuel. The [N5.3 Order rules](https://infinitythewiki.com/Tactical_Order) control the activation and timing details.
 
