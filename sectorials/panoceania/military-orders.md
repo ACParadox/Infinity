@@ -396,12 +396,12 @@ AUXBOT_3 carries Heavy Flamethrower, Shock Mine, PARA CCW (-3); AUXBOT_3B adds M
 
 ### Indigo Brother Konstantinos
 
-**ID 47 · AVA 1 · LI** — `MOV 10-10 | CC 18 | BS 12 | PH 12 | WIP 13 | ARM 2 | BTS 0 | W 1 | S 2`. MSV1, Mimetism (-3), Specialist Operative, Sensor, Religious Troop.
+**ID 47 · AVA 1 · LI** — `MOV 10-10 | CC 18 | BS 12 | PH 12 | WIP 13 | ARM 2 | BTS 0 | W 1 | S 2`. MSV1, CC Attack (-3), Mimetism (-3), Specialist Operative, Sensor, Religious Troop.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
 | 1 | 23 | 0 | **BROTHER KONSTANTINOS FTO**; MULTI Rifle, D-Charges, Disco Baller, Boarding Pistol, CCW; Deactivator | Wildcard max 1; counts as Crosier and Order Sergeant |
-| 2 | 26 | 0 | AP SMG, Flammenspeer, D-Charges, Boarding Pistol, CCW; Infiltration, Surprise Attack (-3), Deactivator | — |
+| 2 | 26 | 0 | AP SMG, Flammenspeer, D-Charges, Boarding Pistol, CCW; Surprise Attack (-3), Hidden Deployment, Infiltration | — |
 
 ### Knight Hospitaller Kyle Hawkins
 
