@@ -1,6 +1,6 @@
 # Neoterran Capitaline Army — Sources, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Neoterran Capitaline Army tactical analysis](../nca.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/neoterran-capitaline-army.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
+**Tactical companion:** [Neoterran Capitaline Army tactical analysis](../NCA/README.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/neoterran-capitaline-army.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
 
 ## Scope
 
@@ -118,7 +118,7 @@ See [Mission Specialists / Button Pushers apex and value tiers](../../list-build
 
 ### TAG tactical cross-reference (2026-10-23)
 
-**Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../nca.md).
+**Uhlan Feuerbach (70)** is a camouflaged +1B standoff/ARO piece; **Uhlan Spitfire+AP HRL (80)** is an advancing attacker. **Squalos NCO MULTI HMG (66) + tactical Pathfinder** makes a purposeful Ultima Ratio Duo (gun + Sensor/FO + movement Order); **Maximus TAG** is a very different close-assault/Immunity investment. Uhlan does **not** inherit Squalos Fireteam rights. See [NCA tactical analysis](../NCA/README.md).
 
 Cross-faction **apex vs points-value** comparisons, matchup table, and direct MCP-reviewed podcast/video sources: [N5.3 TAG field guide](../../list-building/tags.md). Current profile and Fireteam legality above remain authoritative.
 
@@ -308,7 +308,7 @@ A **whole-unit defer** applies to the *named unit across its usable current prof
 - **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
 - **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
 
-The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../NCA/README.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
 
 ##### Neoterran Capitaline Army (NCA)
 
@@ -321,4 +321,4 @@ The source judgments below are anchored in the [PanO faction transcript audit ab
 | **Aquila Strategos/Disco LT; Richard Quinn CoC by habit** | **Direct/contested:** Shepherd favors cheap hidden Fusilier/Auxilia LTs and limited insurance; WIP12/Swiss Miss like some premium Aquila builds. | **Proxy first** for specific premium command architecture, not as mandatory buys. |
 | **Hannibal / extra Bolt team luxury; Maximus TAG as a second gun plan** | **Inference / recorded dissent:** Hannibal and Bolts are well-regarded, but a *second expensive Fireteam package* or TAG crowds an Uhlan/Swiss/Squalos plan. **Not weak units.** | **Test an actual legal team by proxy first**. Buy the named sculpts when they recur in lists, not merely to complete the roster. |
 
-**Sources:** [Shepherd NCA](https://www.youtube.com/watch?v=axa19k7qE1E), [Swiss Miss NCA](https://www.youtube.com/watch?v=sEGUAe3ddrQ), [NCA guide](../nca.md). **Do not skip** Auxilia, Fugazi, Blocker, Swiss, Bolt, Bulleteer or Uhlan just because some builds prefer a different elite anchor.
+**Sources:** [Shepherd NCA](https://www.youtube.com/watch?v=axa19k7qE1E), [Swiss Miss NCA](https://www.youtube.com/watch?v=sEGUAe3ddrQ), [NCA guide](../NCA/README.md). **Do not skip** Auxilia, Fugazi, Blocker, Swiss, Bolt, Bulleteer or Uhlan just because some builds prefer a different elite anchor.
