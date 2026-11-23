@@ -49,6 +49,65 @@ Even with NCO, Joan's Regular Warcor offsets the lost second LT Order with a mor
 
 **Risk trade-off:** Joan is an advancing gunfighter, but the Holomask Commander is a naturally protected CoC carrier. Reversing the roles puts the succession carrier on the frontline and sacrifices Joan's active LT benefits. Prefer that reversal only for an unusually strong mission-specific need to conceal and preserve the original LT. If Joan falls or becomes ineligible, CoC prevents Loss of Lieutenant subject to its conditions but does not preserve Joan's Inspiring Leadership. Keep the Commander separate from Joan's attack route.
 
+#### Inspiring Leadership in practice — coordinate independent support, not just gunfighters
+
+**Primary value: logistics and layered defense, rather than coordinated shooting.** A normal MO list already contains independent Raveneye, Tech-Bee, 1–2 Trinitarians, REMs, and potentially a Curator, Crux, Montesa, airborne attacker or solo Teutonic. There is no need to deliberately buy four guns that can see the same target. Keep enough of these pieces in Joan's Combat Group; a protected Commander CoC in a defensive Core remains a natural complement to independent Joan.
+
+| Coordinated activation | Priority | Practical use |
+|---|---|---|
+| **Move + Move** | **S** | Advance/reposition independent attackers, specialists, support and cheerleaders along separate routes. |
+| **Suppressive Fire** | **S** | Finish the turn with up to four separate defensive positions; cheap rifle/SMG cheerleaders are useful too. |
+| **Move + Place Deployable** | **A+** | Reposition Joan while other participants lay mines, repeaters, turrets or cover in different locations. |
+| **Move + Dodge** | **A** | Advance cautiously when exposure or enemy templates make Dodge useful; each participant resolves its own legal movement/roll. |
+| Coordinated BS Attack | B | Opportunistic same-target ARO removal, particularly with disposable Panzerfausts or AP guns; uncommon geometry for four solo shooters. |
+| Coordinated Reset / Discover | B | Situational recovery or same-marker discovery, subject to eligibility and each Skill's requirements. |
+| Coordinated Camouflage / CC Attack | C | Few MO camouflage carriers, and gathering multiple Knights into contact with one enemy is uncommon. |
+
+**Rules:** [Coordinated Orders](https://infinitythewiki.com/Coordinated_Orders), [Inspiring Leadership](https://infinitythewiki.com/Inspiring_Leadership), [Fireteams](https://infinitythewiki.com/Fireteams_Module), [Peripheral](https://infinitythewiki.com/Peripheral). Up to four participants of matching Training in the same Combat Group; no Fireteam members or Peripheral controllers. Joan must be one of the participants in her free LT-funded coordination; she need not be Spearhead. Everyone declares the same Skills, but an ineligible participant Idles for the relevant Skill. No Fireteam-style coherency requirement. A trooper/marker/objective targeted by the coordinated Skill must be the same target, whereas targetless/deployable equipment may use distinct locations. Hidden and off-table airborne troops have special participation rules and forfeit their own Order that turn if selected while in those states. Do not assume an off-table trooper can move or place equipment before arriving. A linked Joan cannot use this coordination without leaving the link; weigh the loss of Fireteam bonuses and potential reconstruction cost. Suppressive Fire also prevents Fireteam membership.
+
+##### Deployable carriers and independent candidates
+
+**Ten distinct unit types** directly carry defensive deployables on at least one MO profile (excluding D-Charges, BS-only Pitcher placement and Peripheral-carried mines). Costs below follow the [pinned roster](../../../sectorials/panoceania/military-orders.md); selected profiles, not combined loadouts.
+
+| Unit | Points / SWC | Deployable | Suppressive Fire candidates |
+|---|---|---|---|
+| **Tech-Bee** | 9/0 | Deployable Repeater | None |
+| **Raveneye** | 12/0 | E/M Mine or Cybermine | SMG |
+| **Curator** | 17–20/0 | AP Mine on all; 18pt adds Deployable Cover, 20pt adds MMR Armed Turret | Combi Rifle; coordinate only without Palbot |
+| Crosier | 19/1 | E/M Mine (MSR Minelayer) | Combi, Spitfire or HMG on other profiles; MSR not eligible |
+| **Trinitarian** | 22–24/0–1 | Shock Mine (FO/KHD/SMG or Minelayer), or DR Minelayer 23/1; MSR has neither | FO SMG 23/0 |
+| Black Friar | 27/0 | Drop Bears (MULTI Rifle) | MULTI Rifle |
+| Foot Montesa | 35/1.5 | Drop Bears (FD Spitfire) | Spitfire, Red Fury |
+| Dart | 35–36/0–0.5 | Shock Mine (selected profiles) | AP SMG; no coordination with Sharvara attached |
+| Santiago Combat Jump | 36–38/0 | Shock Mine | None on airborne BSG profiles |
+| **Crux** | 46–54/0–1.5 | CrazyKoala, Combi Rifle Armed Turret or Drop Bears, according to profile | AP SMG, MMR, Spitfire |
+
+Raveneye + Tech-Bee + 1–2 Trinitarians already yields **3–4 deployable carriers** in a conventional list; add Curator or Crux as required for their actual mission role. Since Joan carries no defensive deployable, her free Move + Place Deployable can move her and place up to **three** pieces of equipment, not four. Use [Place Deployable](https://infinitythewiki.com/Place_Deployable), including [Drop Bears' deployable mode](https://infinitythewiki.com/Drop_Bears), not their rolled BS mode. Native REM Repeaters move with the REM and are not placeable equipment. Auxbot Peacemakers, Escort Sergeants, Palbot Curators and Auxbot Seraphs are excluded from coordination while controlling their Peripherals.
+
+##### Suppressive Fire priorities
+
+- **Best:** Bulleteer Spitfire 22/1 and Mendoza FD MULTI Rifle 45/0 (Mimetism -6), Trinitarian SMG 23/0 (Mimetism -6); in Partial Cover, SF and Mimetism may stack to -12 against ordinary BS attacks.
+- **Strong:** Hidden Konstantinos AP SMG 26/0 once revealed, Dart AP SMG (Mimetism -3), Joan AP Spitfire, Crux (AP SMG/MMR/Spitfire), Holy Sepulchre, Tikbalang and other eligible independent heavy guns.
+- **Cheap useful bodies:** Raveneye SMG, Curator Combi, Pathfinder Combi, solo Crosier/Order Sergeant Combi, and suitable deployed Crusader MULTI Rifle/Spitfire. Sierra HMG already has Total Reaction; SF trades its normal longer-range B4 ARO for the SF mode and is rarely worthwhile.
+- **Impetuous:** Motorized Montesa MULTI Rifle/Red Fury and foot Montesa Spitfire/Red Fury, Teutonic SMG/Spitfire. Their Limited Cover removes the enemy's usual -3 BS cover penalty, but SF still works; Montesa Mimetism stacks with SF. Joan and Mendoza also lose the cover BS penalty once Frenzy triggers Limited Cover. Use optional Impetuous activations first if useful, and finish with SF; skip later Impetuous activations if preserving SF matters.
+- Shotgun-only, Flash Pulse-only and Tech-Bee profiles lack an SF weapon. Use the actual [weapon chart](https://infinitythewiki.com/Weapons_Chart) and [Suppressive Fire State](https://infinitythewiki.com/Suppressive_Fire_State); the latter replaces the normal range/Burst with SF mode (0–24 inches, B3). Do not assume +1B bonuses or normal weapon range bands carry over unchanged.
+
+**Illustrative sequence:** T1 use Joan + Bulleteer + Tech-Bee + solo Curator to advance safely; T2 use Joan + Trinitarian + Tech-Bee + Raveneye for movement and up to three placements; T3 (or any turn with a forthcoming enemy turn) use Joan + Bulleteer + Trinitarian SMG + Raveneye to establish four separate SF positions. Select a different order each turn as the board demands; do not rigidly script the sequence. The remaining Regular pool and Joan's TacAware activation can fund direct combat.
+
+##### Command Tokens — spend the savings on the actual game plan
+
+Inspiring Leadership conserves Command Tokens normally spent on coordination, Warcor conversion and Retreat mitigation. The baseline Joan LT has four tokens; the 49/1 LT(+1 Command Token) has five. The four-point upgrade is optional, not a prerequisite for the leadership engine.
+
+| Token use | Priority / timing |
+|---|---|
+| **Combat Group transfers** | High in two-group lists: during your Tactical Phase, move surviving Regular troops (and their Peripherals) into the depleted main group before counting Orders, respecting the ten-member limit. A T2 transfer can strengthen the main pool in T2 and T3 without creating new army-wide Orders. |
+| **Fireteam creation/reconstruction** | High if running a support Core or assault Haris; preserve options after casualties or intentional restructuring. |
+| **Doctor / Engineer rerolls** | High when recovering a valuable Cube trooper or Remote Presence TAG/REM respectively; do not assume all healing rolls qualify. |
+| **Strategic deployment / denial** | Extra reserve going first; going second choose legal first-turn Order removal, enemy CT restriction or pregame SF. Order removal is conditional on enemy Order count. Optional Speedball acquisition is a separate strategic use. |
+| **Emergency uses** | Cancel TAG Possession in the Executive step; control a Guts Roll in the active turn; ordinary coordinated orders beyond Joan's free one when worthwhile. |
+
+See [Command Tokens](https://infinitythewiki.com/Command_Tokens) for timing and restrictions. **Practical listbuilding principle:** retain the natural independent units, deliberately share their Combat Group with Joan, and keep a good Fireteam when it offers more value than her free coordination. Do not force a four-unit activation every turn merely to maximize theoretical efficiency.
+
 #### If not taking Joan, default to Commander LT(+1) with NCO
 
 - **Seraph AP Spitfire 72/1.5 or MULTI HMG 74/1.5:** 96–98 points including Commander. Two LT-via-NCO activations plus one personal Tactical Awareness Order each turn; ideal independent TAG spearhead.
