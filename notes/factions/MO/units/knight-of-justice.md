@@ -148,7 +148,7 @@ Neither profile gets native Mimetism, MSV, AP Spitfire, NCO or Tactical Awarenes
 | **FO MMR LT (9)** | 41 / 0 | Niche fighting/scoring Lieutenant; otherwise prefer non-LT FO or safer command |
 | **Spitfire LT (5)** | 42 / 1.5 | Aggressive Lieutenant with risk of Loss of Lieutenant; rarely default |
 
-Both carry standard LT duties **without +1 LT Order**. Compare the **Knight Commander LT (+1 Order) 24/0** backed by a purposeful NCO such as **Teutonic Spitfire, Seraph, Tikbalang or Sepulchre AP HMG**. If using an aggressive KoJ LT, a **Knight Commander CoC 23/0** can provide succession but should be **deployed apart**, not in the same threatened link/cluster. An expensive 41–42pt LT in the same forward firing lane as the rest of the attack team invites preventable command loss.
+Both carry standard LT duties **without +1 LT Order**. Compare the **Knight Commander LT (+1 Order) 24/0** backed by a purposeful NCO such as **Teutonic Spitfire, Seraph or Sepulchre AP HMG** (MO Tikbalang has no NCO). If using an aggressive KoJ LT, a **Knight Commander CoC 23/0** can provide succession but should be **deployed apart**, not in the same threatened link/cluster. An expensive 41–42pt LT in the same forward firing lane as the rest of the attack team invites preventable command loss.
 
 ## Fireteam legality, Counts-as and examples
 
