@@ -31,7 +31,7 @@ Use the [role inventory](military-orders-inventory.md) for profile alternatives 
 
 | Gun / profile | Best job | Why not another option? |
 |---|---|---|
-| **Holy Sepulchre AP HMG NCO 53/1** | Efficient self-funded **S5 long-range armor opener**; uses Knight Commander Orders; relatively less committed points budget | Holoprojector/Surprise Attack are *conditional*; no persistent Mimetism or team bonus. **53/0 MMR(+1B)+Repeater** sacrifices long-range AP HMG to save SWC. |
+| **Holy Sepulchre AP HMG NCO 53/1** | Efficient self-funded **S5 long-range armor opener**; uses Knight Commander Orders; relatively less committed points budget | Holoprojector/Surprise Attack are *conditional*; no persistent Mimetism or team bonus. **53/0 MMR(+1B)+MSV1** saves 1 SWC and gains a visor, but sacrifices the AP HMG's long-range reach and NCO Order use. |
 | **Tikbalang68/1.5** | **Mimetism(-3) + Climbing Plus** creates favorable ranged angles on a smaller S6 TAG; HFT and TacAware/NCO | No AP HMG and less brute-force range/ARM combination than Seraph; still hackable. |
 | **Seraph MULTI HMG74/1.5** | Long-range **BS15** Super-Jump attack from elevated/side firing positions; 3 STR, high armor, TacAware/NCO | No Mimetism; huge S7 footprint and vulnerable when left visible. Most transcript commentators prefer **HMG reach** to maximize jumps. |
 | **Seraph AP Spitfire+Auxbot72/1.5** | Dense maps, 16–24-inch armored targets and synchronized template pressure | AP and Auxbot are valuable, but shorter range makes elevated long shots worse; **not** an interchangeable HMG profile. |
