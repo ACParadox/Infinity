@@ -84,7 +84,7 @@ The **14pt / 0.5SWC EVO Mulebot** can make the REM much stronger:
 | **Black Friar Thunderbolt (+1B)** | 24/0 | Better Mimetism defense and speed | MSV2 + Albedo anti-visual tech, alternate ammo/range, link access |
 | **Peacemaker HSG + Auxbot** | 23/0 | Better Mimetism (−6), higher HSG active Burst on Bulleteer, Velox access | **Forward Deployment + synchronized Heavy Flamethrower** and optional mine variant; more turn-zero midfield control |
 | **Pathfinder TacAware** | 17/0 | Much better gunfighting | **Forward Observer, Sensor, Repeater, Triangulated Fire and Tactical Awareness** in a mission-support role |
-| **Tikbalang / Seraph / Sepulchre** | 53–74 | Cheap throwaway attack, second axis | Serious long-range gun and durability; two are NCO/TacAware TAG platforms, Sepulchre brings AP HMG/NCO |
+| **Tikbalang / Seraph / Sepulchre** | 53–74 | Cheap throwaway attack, second axis | Serious long-range gun and durability; Seraph has NCO+TacAware, Tikbalang has TacAware **without NCO**, and Sepulchre brings AP HMG/NCO |
 
 **Bulleteer vs Peacemaker is the important REM decision:** take the Bulleteer to **win face-to-face gunfights** with Mimetism (−6); take Peacemaker to **start the hacking/template/minelayer threat in the midfield without using Orders to get there**. Both carry Repeaters. When the plan is De Fersen network projection and stopping a rush, the Peacemaker may solve more problems; when the plan is an economic second attack, the Bulleteer wins.
 
