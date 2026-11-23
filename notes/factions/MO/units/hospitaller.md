@@ -118,7 +118,7 @@ These are **legal construction concepts**, not claims of exact tournament lists.
 | **Hosp Doctor30 + Hawkins BSG26** | **56 / 0** | **FT2 Duo** | Fast-fighting close specialist paired with durable recovery |
 | **Hosp TinBot27 + De Fersen HD42** | **69 / 0.5** | **FT2 Duo** | **Best small premium-hacker Crusade**; no need for a third pricey body |
 | **Hosp BSG26 + Hosp Doctor30 + Hawkins BSG26** | **82 / 0** | **FT3 Haris/Core** | Efficient elite close assault, specialist and medical recovery |
-| **Hosp HMG32 + Hosp Doctor30 + Hosp TinBot27** | **89 / 1.5** | **FT3 Haris/Core** | All-Hospitaller autonomous ranged pressure/repair support, no button specialist |
+| **Hosp HMG32 + Hosp Doctor30 + Hosp TinBot27** | **89 / 1.5** | **FT3 Haris/Core** | All-Hospitaller autonomous ranged pressure/medical support, no button specialist |
 | **Hosp BSG26 + Hosp TinBot27 + De Fersen HD42** | **95 / 0.5** | **FT3 Haris/Core** | 0.5-SWC ranged hacking/close combat with Firewall |
 | **Hosp BSG26 + Hosp TinBot27 + Joan v2 LT45** | **98 / 1** | **FT3 Haris/Core** | Joan's Spitfire and aggression backed by E/M and Firewall; expensive but versatile |
 | **Hosp HMG32 + Hosp TinBot27 + De Fersen HD42** | **101 / 2** | **FT3 Haris/Core** | Strong premium long-range gun plus hacking; aligns with played #009 shape |
