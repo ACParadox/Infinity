@@ -30,25 +30,47 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 
 - **Richard Quinn:** 26 pts (both Forward Observer profiles).
 
-### Gunfighters
+### Long-Range Gunfighters
 
-- **Bulleteer:** Spitfire, Mimetism (-6).
-- **Redeye:** aerial Spitfire vehicle and strong flanking angles.
-- **Griffin:** HMG.
-- **Crux Father-Knight:** MULTI Marksman Rifle or Spitfire FTO; alternate hidden-deployment attack profiles.
-- **Hetkari:** MULTI Red Fury.
-- **Squalos Mk-II:** MULTI Marksman Rifle, HMG/GL or NCO MULTI HMG.
+Primary 16–32in or longer attack lanes, including situational active shots from heavier ARO guns.
+
+- **Griffin:** HMG 37/1.5 (LT 37/1); MSV1 and linked options. Feuerbach 38/1.5 is mainly ARO, with situational active anti-armour use.
+- **Squalos Mk-II:** HMG/GL 62/1.5 or NCO MULTI HMG 66/1.5.
 - **Tikbalang:** HMG, Mimetism (-3), Climbing Plus.
-- **Knauf:** MULTI Sniper Rifle, MSV1.
-- **Drummer:** Drumbot-1 MULTI HMG or Drumbot-2 HRMC.
-- **Black A.I.R.:** K1 Marksman Rifle FTO.
-- **Maximus TAG:** 82-point AP HMG (1.5 SWC) or 80-point AP Thunderbolt (+2B) (1 SWC); Tactical Awareness, high durability and strong CC. Distinct from Agent Maximus.
+- **Knauf:** MULTI Sniper Rifle 31/1.5, MSV1.
+- **Drummers:** Drumbot-1 MULTI HMG 40/1 or Drumbot-2 HRMC 42/1.5 packages; FO + Drumbot-1 + Drumbot-5 47/1 alternative.
+- **Maximus TAG:** AP HMG 82/1.5 (LT 82/0) or AP Thunderbolt (+2B) 80/1; Tactical Awareness, high durability and strong CC.
+- **Optimate Agent Maximus:** AP Thunderbolt (+2B), 45/1 FTO or 48/1 with Minimus; the latter cannot join a Fireteam. Choose Agent or TAG, not both.
+- **Blink Team:** Hidden Deployment MULTI Sniper Rifle 32/1.5 or HRL 28/1.5; primarily ambush/ARO, situational active shooting.
+- **Sierra TR HMG:** 23/1; secondary active long gun, primarily ARO.
+
+### Mid-Short-Range Gunfighters
+
+Primary 0–24in rifle, marksman rifle, Spitfire, Red Fury and close-assault attackers.
+
+- **Bulleteer:** Spitfire 22/1 or Heavy Shotgun (+1B) 19/0; Mimetism (-6).
+- **Redeye:** aerial Spitfire vehicle, strong flanking angles; Blitzen 37/1.5 or Continuous-Damage GL 38/1.5.
+- **Crux Father-Knight:** FTO MULTI Marksman Rifle 46/0 or Spitfire 49/1.5; alternate FD MMR and Hidden AP SMG attack profiles.
+- **Hetkari:** MULTI Red Fury 48/1.5; BS Attack (-3), Marksmanship.
+- **Squalos Mk-II:** MULTI Marksman Rifle 55/1; shorter-range alternative to its HMG profiles.
+- **Black A.I.R.:** K1 Marksman Rifle FTO FO 29/0.5; MSV2, Mimetism (-3).
+- **Griffin:** MULTI Rifle 31/0; MSV1, durable midrange secondary gun.
+- **Richard Quinn:** MULTI Marksman Rifle or MULTI Rifle FO 26/0; MSV1 and Warhorse.
+- **Sforza:** Viral Rifle/Adhesive Launcher Rifle; solo or eligible FTO profiles.
+- **Blink Team:** Shock Marksman Rifle 28/0; Hidden Deployment, Mimetism (-6).
+- **Drummers:** Drumbot-4 Mk12/HRL 42/1 package; forward mixed-range attacker.
+- **Banshee:** airborne shotgun/SMG and Pulzar assault options.
+- **Peacemaker:** forward shotgun REM, with optional Auxbot fork.
+- **Dart:** forward Camouflage AP SMG/Viral Tactical Bow; optional Sharvara package.
+- **Dr. Priya Harper:** Plasma Carbine 32/+1 SWC FTO or 35/+1 SWC FD; specialist and close-range utility.
 
 ### ARO
 
 - **Fennec Fusilier:** Thunderbolt (+1B), Shock Minelayer.
 - **Blink Team:** Heavy Rocket Launcher or MULTI Sniper Rifle.
-- **Sierra Dronbot:** Total Reaction HMG (23 pts/1 SWC) **or Thunderbolt (+1B) (18 pts/0 SWC)**; alternative ARO profiles.
+- **Sierra Dronbot TR Thunderbolt (+1B):** 18 pts/0 SWC; default economical B3 ARO, 360° Visor.
+- **Sierra Dronbot TR HMG:** 23 pts/1 SWC; B4 ARO at 16–32in, 360° Visor. AVA2 shared across both Sierra options.
+- **Mulebot TR Combi Rifle:** 17 pts/0 SWC; B3 ARO, native Repeater and Baggage. Niche short-lane defense; normally prefer the 18-point Sierra Thunderbolt, which has superior reach and a 360° Visor.
 - **Black A.I.R.:** FTO Neurocinetics MULTI Sniper, MSV2.
 - **Drummer:** Drumbot-3 Neurocinetics Feuerbach.
 - **Sforza:** BS Attack (+1SD), Viral Rifle, Adhesive Launcher Rifle, Nanopulser.
