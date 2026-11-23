@@ -324,7 +324,7 @@ A **whole-unit defer** applies to the *named unit across its usable current prof
 - **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
 - **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
 
-The source judgments below are anchored in the [PanO faction transcript audit above](#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+The source judgments below are anchored in the [PanO faction transcript audit above](#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../Varuna/varuna-overview.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
 
 ##### Vanilla PanOceania
 
