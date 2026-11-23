@@ -134,11 +134,13 @@ In the Order Sergeants Fireteam row, Curator counts as **Order Sergeant**. That 
 
 ### Tikbalang of Montesa
 
-**ID 33 · AVA 1 · TAG** — `MOV 15-10 | CC 17 | BS 15 | PH 15 | WIP 13 | ARM 6 | BTS 6 | W 3 | S 6`. ECM: Guided (-6), Remote Presence, Mimetism (-3), Climbing Plus, Tactical Awareness, NCO, BS Attack (SR-1), Courage, Terrain (Jungle), GizmoKit (PH=13).
+**ID 33 · AVA 1 · TAG** — `MOV 15-10 | CC 17 | BS 15 | PH 15 | WIP 13 | ARM 6 | BTS 6 | W 3 | S 6`. ECM: Guided (-6), Remote Presence, Mimetism (-3), Climbing Plus, Tactical Awareness, BS Attack (SR-1), CC Attack (-3), Courage, Dodge (PH=11), Terrain (Total), GizmoKit (PH=13).
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 3 | 68 | 1.5 | **TIKBALANG OF MONTESA**; HMG, Heavy Flamethrower, DA CCW; Crabbot | — |
+| 3 | 68 | 1.5 | **TIKBALANG OF MONTESA**; HMG, Heavy Flamethrower, DA CCW (PS=5); Crabbot | — |
+
+**Verified against an Infinity Army profile screenshot supplied 23 November 2026:** this MO Tikbalang has **Tactical Awareness, not NCO**; additionally CC Attack (-3), Dodge (PH=11), Terrain (Total), and DA CCW (PS=5). It has **no Shock Mines**, no Lieutenant option, and no Fireteam access. Do not import Kestrel Tikbalang loadouts or the Seraph's NCO.
 
 ### Infirmarers of Saint Lazarus
 
@@ -675,7 +677,7 @@ Derived analysis aids, not official characteristics.
 | Crux Knight | hidden deployment, midfield specialist, close assault, Wildcard |
 | Montesa | fast/midfield attack, specialist, Wildcard FTO option |
 | Motorized Montesa | fast attack, specialist, enemy-DZ attacker, Velox |
-| Tikbalang | TAG, long-range attack, NCO, mobile attack |
+| Tikbalang | TAG, long-range attack, Tactical Awareness (not NCO), mobile attack |
 | Seraph | TAG, long-range/mid-range attack, NCO, Super-Jump |
 | Bulleteer | REM attack, Mimetism (-6), mid-range attack, Velox |
 | Peacemaker | midfield defense, network projection, forward REM attack |
@@ -703,7 +705,7 @@ Military Orders does not have a single mandatory unit or mandatory Fireteam. A r
 - **Cheap Regular Orders and defence:** Fugazi, Raveneye, Crosiers, Mulebots, and similar support keep expensive pieces supplied with Orders and prevent the army from becoming all premium bodies.
 - **A second mission plan:** if the primary attacker dies, another specialist or attack package must still be able to score and finish the game.
 
-The Knight Commander Lieutenant (+1 Order) is particularly synergistic with NCO attack pieces such as the Holy Sepulchre AP HMG, Seraph, Tikbalang, or Teutonic Knight Spitfire, but it is an architecture choice rather than a compulsory inclusion.
+The Knight Commander Lieutenant (+1 Order) is particularly synergistic with NCO attack pieces such as the Holy Sepulchre AP HMG, Seraph, or Teutonic Knight Spitfire, but it is an architecture choice rather than a compulsory inclusion. **Tikbalang lacks NCO** and cannot use the Commander's Lieutenant Orders; its Tactical Awareness Order is separate.
 
 ### Seraph vs Holy Sepulchre
 
@@ -832,7 +834,7 @@ These are **construction motifs**, not guaranteed solved lists. See canonical FT
 
 ### Lieutenant, CoC and NCO decision tree
 
-- **Passive LT + NCO shell:** Knight Commander **LT (+1 Order), 24 points**, with a **separate** NCO such as Teutonic Spitfire, Sepulchre AP HMG, Tikbalang or Seraph. Current data: the commander also has a **20-point ordinary LT** and a **23-point CoC**, all materially different list-construction choices.
+- **Passive LT + NCO shell:** Knight Commander **LT (+1 Order), 24 points**, with a **separate** NCO such as Teutonic Spitfire, Sepulchre AP HMG or Seraph. **The MO Tikbalang is not NCO** and gains no LT-Order synergy from this package. Current data: the commander also has a **20-point ordinary LT** and a **23-point CoC**, all materially different list-construction choices.
 - **Fighting LT:** Santiago FTO Spitfire or KHD LT, a Joan LT, De Fersen LT, Hospitaller LT, Knight of Justice LT or Teutonic Panzerfaust LT when the points/plan justify it. Ask *which turn the LT must fight*, whether exposed attackers have a succession plan, and whether the LT order will be spent through NCO instead. Don't choose a combat LT simply because it is a knight.
 - **Joan as CoC instead of LT:** Joan v2 **45-point CoC** may serve as the independent attack/insurance piece behind a safer LT, while a premium Joan LT supplies command economy when her exposure is manageable. Use the **single-Joan constraint** and relevant Crusade/Velox rows.
 - **Knight Commander CoC:** inexpensive succession insurance **when located separately** from the LT risk. **Do not put the Lieutenant and their only CoC insurance in the same vulnerable Fireteam/cluster** if one template, attack angle or hacking chain could remove both. Holomask concealment can complicate the enemy's LT hunt but cannot replace a plan for LoL.
@@ -891,7 +893,7 @@ These are **construction motifs**, not guaranteed solved lists. See canonical FT
 
 | Option | Best reason to include | Why/when it disappoints |
 |---|---|---|
-| **Tikbalang of Montesa — 68 pts, 1.5 SWC** | **Default efficient long-range gun**: BS15 + Mimetism (-3), Climbing Plus, HMG, NCO + Tactical Awareness, smaller S6; can open fire lanes and reposition for fewer points than Seraph. | **No AP HMG and no MO Tik LT (+1)**; struggle against hard ARM unless another piece brings AP/E/M/hacking. **No Pathfinder Fireteam** in MO: unlike Kestrel, cannot copy Tik + TacAware Pathfinder Duo. |
+| **Tikbalang of Montesa — 68 pts, 1.5 SWC** | **Default efficient long-range gun**: BS15 + Mimetism (-3), Climbing Plus, HMG, Tactical Awareness (**no NCO**), smaller S6; can open fire lanes and reposition for fewer points than Seraph. | **No AP HMG and no MO Tik LT (+1)**; struggle against hard ARM unless another piece brings AP/E/M/hacking. **No Pathfinder Fireteam** in MO: unlike Kestrel, cannot copy Tik + TacAware Pathfinder Duo. |
 | **Seraph MULTI HMG — 74 pts, 1.5 SWC** | **Premium reach and relocation**: BS15, ARM7, 3 STR, Super-Jump, NCO + TacAware, MULTI HMG; can attack from surprising elevation at 24–32-inch ranges and return to safety. Robert and Sneaky **both favor this as the safer default** because the rangeband enables the jumping gun plan. | Large S7 target, a very expensive centerpiece and a thinner specialist/support shell. Avoid exposing it during reactive turn just because it is armored; plan Engineer/Palbot access and a backup scorer. |
 | **Seraph AP Spitfire + Auxbot — 72 pts, 1.5 SWC** | **Dense table/short-mid fork**: AP against armor and Auxbot template pressure complement the TAG's speed and CC deterrence. WIP12 hosts appreciate the dramatic Auxbot fork. | Sneaky found Spitfire rangebands made it harder to exploit Super-Jump; Robert prefers HMG reach. The Auxbot does not justify fighting long-range AROs with a Spitfire. |
 | **Holy Sepulchre NCO AP HMG — 53 pts, 1 SWC** | **Less-expensive pseudo-TAG**: AP HMG, Stealth, Holoprojector/Surprise Attack, BTS9/Warhorse, lower S5 footprint and NCO; frees ~15–21 points for midfield specialists, TinBots or another attack vector. | Robert warns it is still BS14 without persistent visual mods: use deliberate Surprise Attack peeks rather than asking it to win repeated open-ended gunfights. Ryan emphasizes its reduced hacking susceptibility versus TAGs. |
