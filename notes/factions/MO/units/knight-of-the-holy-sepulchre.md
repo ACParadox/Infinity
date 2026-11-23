@@ -102,11 +102,10 @@ Holoprojector is especially relevant **before the Sepulchre's first activation a
 
 **Opportunity cost of Knight Commander:** Its 24 points include its normal Regular Order, protected command role, Holomask and potential defensive Fireteam equivalence — it is not merely a 24-point tax for two shooting Orders. But compared with the 18-point Teutonic LT, the Commander costs **six more points**, for a safer command design and **one extra Special LT Order**. Those Orders can become stranded if the Sepulchre has no favorable fight.
 
-**Competing NCO recipients in MO:**
+**Competing NCO recipients in MO** (**Tikbalang is not eligible; its Tactical Awareness does not consume LT Orders**):
 
 | NCO recipient | Why it might use two LT Orders better |
 |---|---|
-| **Tikbalang HMG68/1.5** | BS15, permanent Mim−3, Climbing Plus, STR3, **Tactical Awareness**; can sustain more favorable shots/movement |
 | **Seraph MULTI HMG74/1.5 or AP Spitfire72/1.5** | BS15, Super-Jump, STR3, **Tactical Awareness**, high mobility and often a larger Order appetite |
 | **Teutonic NCO Spitfire29/1.5** | Very cheap NCO; when leader of a legal Fireteam its converted Tactical Order can move/activate the whole team, though solo shooting is relatively fragile |
 | **Holy Sepulchre AP HMG53/1** | Cheapest genuinely premium standalone long AP gun here; may not want multiple Orders after one good Surprise Attack |
@@ -123,12 +122,12 @@ Holoprojector is especially relevant **before the Sepulchre's first activation a
 | W / STR | 2 | 3 | 3 |
 | MOV cm | 15–5 | 15–10 | 15–10 |
 | S | 5 | 6 | 7 |
-| Native NCO | Yes | Yes | Yes |
+| Native NCO | Yes | **No** | Yes |
 | Tactical Awareness | No | **Yes** | **Yes** |
 | Special advantages | **AP HMG, Holoprojector, Warhorse, Prone** | **Mim−3, Climbing Plus, HFT** | **Super-Jump, MULTI HMG, Pulzar(+1B)** |
 | Attacker drawbacks | Conditional Surprise, 2W, no self-Order | Ordinary HMG lacks AP on its own; hackable | Large S7, expensive, no permanent Mim |
 
-**Sepulchre vs Tikbalang (15-point gap):** Sepulchre's **AP** is valuable into ARM, and Holoecho/Prone/Warhorse alter defensive play. Tikbalang has **more consistent FtF defense, extra STR, mobility and Tactical Awareness**. Choose Sepulchre when 15 points or 0.5 SWC buys actual independent scoring, hacking or order support and long AP is needed; choose Tik when repeated ranged engagements and mobility are the core plan.
+**Sepulchre vs Tikbalang (15-point gap):** Sepulchre's **AP and NCO** are valuable into armor and a Knight Commander LT (+1) order engine, while Holoecho/Prone/Warhorse alter defensive play. Tikbalang has **more consistent FtF defense, extra STR, mobility and Tactical Awareness**. Choose Sepulchre when 15 points or 0.5 SWC buys actual independent scoring, hacking or order support and long AP is needed; choose Tik when repeated ranged engagements and mobility are the core plan.
 
 **Sepulchre vs Seraph (21-point gap):** A Seraph MULTI HMG already has **B4 PS5 AP mode**, as well as Shock/anti-materiel modes. The Sepulchre has **no anti-armor weapon superiority** here. It wins on budget, smaller footprint, Holoecho protection and Warhorse, but not raw firepower, mobility or repeat-order durability. The Seraph AP Spitfire+Auxbot is a **different shorter-range role**, not a direct HMG equivalent.
 
