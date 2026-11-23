@@ -1,6 +1,6 @@
 # Vanilla PanOceania — Sources, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Vanilla PanOceania tactical analysis](../vanilla-pano.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/panoceania.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
+**Tactical companion:** [Vanilla PanOceania tactical analysis](../vPanO/vanilla-pano-listbuilding.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/panoceania.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
 
 ## Sources and material reviewed
 
@@ -22,7 +22,7 @@ The dated tactical evaluations below were moved from the [Vanilla PanOceania N5.
 
 ### Transcript-backed competitive tactics (research: 2026-10-19)
 
-The expanded [Vanilla PanO N5.3 tactical and list-building guide](../vanilla-pano.md) covers Joan / Magistrate command, TAG/Swiss/REM choices, specialists, alternative attack paths and competing opinions. **Critical legal distinction:** the pinned generic faction has **no standard Fireteam chart**; older Duo/Haris recommendations are treated as unlinked unit synergies.
+The expanded [Vanilla PanO N5.3 tactical and list-building guide](../vPanO/vanilla-pano-listbuilding.md) covers Joan / Magistrate command, TAG/Swiss/REM choices, specialists, alternative attack paths and competing opinions. **Critical legal distinction:** the pinned generic faction has **no standard Fireteam chart**; older Duo/Haris recommendations are treated as unlinked unit synergies.
 
 **Authority / important correction.** The roster and costs above are the **September 2026 N5.3 Army snapshot**, not the 2025 opinions below. This generic faction's pinned Army data has **no standard Fireteam chart**. Consequently the much-discussed **Joan + Blade Haris, Tikbalang + Karhu Duo, Bolt Haris, Patsy + Helot Haris, double Bulleteer Duo, and double Squalos Duo** in early N5 videos/podcasts are **historical suggestions, not validated current vanilla Fireteams**. Reuse the *roles and order-economy reasoning*, not those formations or their claimed special dice. Never infer links from FTO-labelled profiles.
 
@@ -290,7 +290,7 @@ Dated source-backed tactical preferences and miniature purchasing priorities; op
 - **Must? No single unit proven indispensable.** [WIP12 #177 KingButt](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl) favors active Joan/Cutter/Magistrate and Peacemaker/Pathfinder infrastructures, yet says Cutter is no longer his obligatory staple after leaving Varuna. [Dante + Tristan vanilla N5 reaction](https://www.youtube.com/watch?v=qp458fqYq_s) praise Fugazi and Peacemaker but do not establish one mandatory model.
 - **Go-to:** **Fugazi7** (cheap Regular+Repeater+Flash), **Joan v2** when paying for the LT economy, **Magistrate CoC** when protecting an aggressive LT, **Peacemaker with Auxbot** for a forward mine/template/repeater gate; **Swiss/Tik/Cutter** remain alternative expensive win-condition shooters. **Why:** complementary Orders, deployment and asymmetric attack vectors, not three premium shooters asking for the same pooled Orders. [WIP12 #177](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl) · [Dante/Tristan](https://www.youtube.com/watch?v=qp458fqYq_s).
 - **Avoid (explicit opinion):** **Clipper Guided** without reliable Targeted: Dante/Tristan say they would not normally use missile bots in Vanilla because it is not naturally a Guided faction. **Counter:** a custom repeater/Spotlight strategy is possible; this is not a claim that Guided is illegal. [Dante/Tristan](https://www.youtube.com/watch?v=qp458fqYq_s).
-- **Critical correction:** WIP12 #177 discusses **Joan Haris** based on an older Army version. **Vanilla has NO standard Fireteam chart in pinned N5.3**, so do not use old Haris claims as a present-day justification. [Current roster](../../../sectorials/panoceania/panoceania.md) · [vanilla tactical analysis](../vanilla-pano.md).
+- **Critical correction:** WIP12 #177 discusses **Joan Haris** based on an older Army version. **Vanilla has NO standard Fireteam chart in pinned N5.3**, so do not use old Haris claims as a present-day justification. [Current roster](../../../sectorials/panoceania/panoceania.md) · [vanilla tactical analysis](../vPanO/vanilla-pano-listbuilding.md).
 
 #### Practical verdict
 
@@ -324,7 +324,7 @@ A **whole-unit defer** applies to the *named unit across its usable current prof
 - **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
 - **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
 
-The source judgments below are anchored in the [PanO faction transcript audit above](#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../Varuna/varuna-overview.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+The source judgments below are anchored in the [PanO faction transcript audit above](#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel/kestrel-overview.md), [NCA](../NCA/nca-overview.md), [Varuna](../Varuna/varuna-overview.md), [SAA](../Acon/acontecimento-overview.md), [WinterFor](../WinterFor/svalarheima-overview.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
 
 ##### Vanilla PanOceania
 
@@ -336,4 +336,4 @@ The source judgments below are anchored in the [PanO faction transcript audit ab
 | **Expensive Drummer multi-body gun/controller package** | **Inference:** strong peak attack or reactive tech but a vulnerable W1 controller and significant points; Kestrel critics flag the same opportunity cost. **Not the same** as cheaper FO/Drumbot utility. | **Proxy test premium variant**; you already own **one Drummer**. Do not acquire several for Vanilla by default. |
 | **Premium duplicate TAG/solo gun** (e.g. buying *both* another Cutter and Squalos solely to do the same HMG job) | **Inference:** Swiss/Tik/Cutter/Squalos have different tools, but a second expensive centerpiece can leave too few Orders/specialists. This is **collection redundancy**, not a weak-unit verdict. | **Proxy-test alternative TAGs before buying**, checking its actual silhouette/base, rather than buying every premium sculpt for a single 300-point list. |
 
-**Source anchors:** [Dante/Tristan Vanilla PanO](https://www.youtube.com/watch?v=qp458fqYq_s); [WIP12 #177](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl); [Vanilla listbuilding notes](../vanilla-pano.md). **Not a proxy-first verdict on** Fugazi, Peacemaker, Swiss Guard, Karhu, Zulu-Cobra, Magistrate or Tikbalang: these have routine value in their relevant roles.
+**Source anchors:** [Dante/Tristan Vanilla PanO](https://www.youtube.com/watch?v=qp458fqYq_s); [WIP12 #177](https://open.spotify.com/episode/5YoQVh0YvxS2DCtIIGyskl); [Vanilla listbuilding notes](../vPanO/vanilla-pano-listbuilding.md). **Not a proxy-first verdict on** Fugazi, Peacemaker, Swiss Guard, Karhu, Zulu-Cobra, Magistrate or Tikbalang: these have routine value in their relevant roles.
