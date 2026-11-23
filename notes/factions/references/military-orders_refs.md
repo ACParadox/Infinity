@@ -1,6 +1,6 @@
 # Military Orders — Sources, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Military Orders tactical analysis](../military-orders.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/military-orders.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
+**Tactical companion:** [Military Orders tactical guides](../MO/README.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/military-orders.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
 
 ## N5.3 tactical cross-references, battle reports and purchasing audit
 
