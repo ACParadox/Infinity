@@ -2,7 +2,7 @@
 
 **As of 2026-10-30 · Infinity N5.3.** This is a **purchase plan**, not an inventory update; models in a suggested box are **not owned** until purchased.
 
-**Authority:** [current 38-entry SWF roster, profiles and canonical Fireteam chart](../../../sectorials/panoceania/svalarheima-s-winter-force.md), Army `7.26246.158` (source data 2026-09-03, verified 2026-10-15). Prioritize [WinterFor transcript-backed tactical guide](../svalarheima.md) and [PanO must-have/go-to/avoid and purchase-deferral audit](../../../sectorials/panoceania/svalarheima-s-winter-force.md) for role value; do not silently substitute old YouTube/retailer list-building rules for the pinned N5.3 roster.
+**Authority:** [current 38-entry SWF roster, profiles and canonical Fireteam chart](../../../sectorials/panoceania/svalarheima-s-winter-force.md), Army `7.26246.158` (source data 2026-09-03, verified 2026-10-15). Prioritize [WinterFor transcript-backed tactical guide](../WinterFor/svalarheima-overview.md) and [PanO must-have/go-to/avoid and purchase-deferral audit](../../../sectorials/panoceania/svalarheima-s-winter-force.md) for role value; do not silently substitute old YouTube/retailer list-building rules for the pinned N5.3 roster.
 
 **Existing physical inventory:** [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [miscellaneous PanO + OSS models](../../../inventory/other-units.md), and, where proxies are useful, [TAK](../../../inventory/tak.md)/[Caledonia](../../../inventory/caledonia.md). Also cross-check [vanilla PanO buy list](vanilla-pano-buy-list.md) and [NCA buy list](nca-buy-list.md): **their proposed purchases are not owned**, and a model bought once for one army can be used in every other legal sectorial without buying another copy.
 
@@ -196,7 +196,7 @@ Follow the [miniature proxy guidelines](../../miniature-proxy-guidelines.md): sa
 ## Low-priority buys / avoid the wrong purchases
 
 1. **Do not buy generic support/REMs again:** pooled four Dronbots, two Armbot chassis, two Mulebots and Palbots, Tech-Bee, Trauma-Doc, Machinist, Warcor are recorded. Only expand when intended *simultaneously* fielded bodies exceed actual models or peripherals.
-2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../svalarheima.md#svalarheimas-winter-force-winterfor--swf).
+2. **Bøyg whole miniature: defer** (not “unplayable”): Shepherd generally prefers cheaper Vargar Albedo/Disco utility; counterargument is W2/ARM5 and Beta heavy gun. Your own **proxy preference** is sensible. [Transcript audit](../WinterFor/svalarheima-references.md).
 3. **Fusilier HMG/ML/MSR premium-gun profiles: source-backed poor default**, not a reason to skip a **cheap Fusilier LT** or one proxy as team anchor. Shepherd explicitly criticizes the guns; Karhu/Nisse/Vargar/KoJ handle higher-value long-range work.
 4. **No need for more MO Hospitallers/KoJ/Infirmarers or another Locust** without a second-model test. **Kyle Hawkins remains missing**; prefer unused **Kestrel Hetkari/Griffin S2 HI** instead of a WinterFor-legal Hospitaller.
 5. **Do not buy Swiss Guard, Aquila, Tikbalang, Squalos, Maximus TAG, Redeye, Fennec Fusilier, Kamau or Akali to field as themselves in SWF**; none is a regular standard SWF troop. Owned sculpts are still acceptable declared proxies where correct silhouette.
