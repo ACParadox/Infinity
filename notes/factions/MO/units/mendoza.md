@@ -35,13 +35,15 @@ The complement is **BS Attack (Continuous Damage)**: successful attacks with his
 | **0–8"** | **+3**, B3, AP/Shock **PS7**, Continuous Damage | **+6**, B3, AP **PS6**, BS Attack (−3) | **−3**, B3, AP/Shock **PS7**, BS Attack (−3) |
 | **8–16"** | **+3**, B3 | **0**, B3 | **+3**, B3 |
 | **16–24"** | **−3**, B3 | **−3**, B3 | **+3**, B3 |
-| **24–32"** | **−6** (up to 24"; no fire beyond) | Out of range | **+3**, B3 |
+| **24–32"** | **−3**, B3 | Out of range | **−3**, B3 |
+| **32–40"** | **−6**, B3 | Out of range | **−3**, B3 |
+| **40–48"** | **−6**, B3 | Out of range | **−6**, B3 |
 
-**Range boundary correction:** MULTI Rifle's effective maximum is **24"**. Its −6 band is **16–24"**, not 24–32"; the table's final row means **Mendoza is out of range there**. Hawkins MMR remains usable out to its actual longer maximum. The table emphasizes where each is strong; check [Weapon Chart](https://infinitythewiki.com/Weapon_Chart) for exact range cutoffs.
+**Exact range boundary check:** MULTI Rifle reaches **48"** (+3 from 0–16", −3 from 16–32", −6 from 32–48"). Boarding Shotgun reaches **24"** (+6 at 0–8", 0 at 8–16", −3 at 16–24"). MULTI Marksman Rifle reaches **48"** (−3 at 0–8", +3 at 8–24", −3 at 24–40", −6 at 40–48"). Compare the [current Weapon Chart](https://infinitythewiki.com/Weapon_Chart) rather than confusing Army data's centimeter range cutoffs with inches.
 
 **0–8" comparison against a covered target, before other MODs:** Hawkins BSG BS14 +6 range −3 Cover = **17** on **B3**; Mendoza FTO BS14 +3 range −3 Cover = **14** on **B3**. Hawkins imposes **BS Attack (−3)** on an opposing Face to Face roll when shooting; Mendoza imposes **Mimetism (−6)** on enemy LoF-based shooting. Thus **Hawkins is more accurate at point blank and Mendoza is harder to hit**. Do not claim Mendoza universally wins this exchange without evaluating the opposing weapon/range/MSV/ARO.
 
-**8–16" favors Mendoza FTO over Hawkins BSG** in range, passive protection and Continuous Damage. **16–24" favors Hawkins MMR**: same active B3, but much better range modifiers; MMR also has BS Attack (−3), Specialist Operative and a Pulzar. **Mendoza is not a replacement for MO's needed 16–32" long-range opener.**
+**8–16" favors Mendoza FTO over Hawkins BSG** in range, passive protection and Continuous Damage. **16–24" favors Hawkins MMR**: same active B3, but much better range modifiers; MMR also has BS Attack (−3), Specialist Operative and a Pulzar. At **24–32"** their range MOD is equal (−3), but Hawkins retains his offensive BS Attack (−3); from **32–40"**, the MMR range MOD is three better. **Neither is a replacement for a proper high-Burst long-range HMG/TAG opener.**
 
 **Solo Heavy Shotgun differs sharply from FTO:** at **0–8"**, BS14 +6 range −3 enemy Cover = **17** on **B2**, AP **PS5** with Continuous Damage. It gives up B3 but buys a much stronger base Saving Roll challenge and starts 8" forward.
 
