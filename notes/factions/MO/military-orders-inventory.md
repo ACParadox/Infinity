@@ -34,14 +34,14 @@
 - **Knight of Justice ML(+1SD) 46/1.5:** elite two-Wound missile anchor.
 - **Order Sergeant FTO HRL 15/1.5; Black Friar HRL 22/1.5:** cheap linkable gun versus MSV2/Albedo option.
 - **Escort Sergeant Neuro HRL+Auxbot 22/1.5:** independent Peripheral defense, not FTO/linkable.
-- **Trinitarian camo MSR 25/1.5:** no Hidden Deployment printed in N5.3.
+- **Trinitarian camo/Hidden Deployment MSR 25/1.5:** optional genuinely Hidden sniper ambush; hiding withholds its Regular Order until reveal (Army screenshot checked 23 Nov 2026).
 - **Crosier E/M Minelayer MSR 19/1; Sierra TR Thunderbolt 18/0 or HMG 23/1:** defensive alternative lanes.
 
 ### Midfield Defense and Forward Scoring
-- **Trinitarian FO 22/0, KHD 24/0, FO/Deployable Repeater Minelayer 23/1:** separate camo/Infiltration tools; only the last preplaces a Repeater.
+- **Trinitarian FO 22/0, KHD 24/0, FO/Deployable Repeater Minelayer 23/1:** separate Camouflage + Hidden Deployment + Infiltration tools; only the last preplaces a Repeater. A hidden Minelayer can still lay its Repeater at deployment, subject to the usual restrictions.
 - **Peacemaker+Auxbot 23–27:** FD(+20) native Repeater and a close-template fork; distinguish no-Auxbot profile.
 - **Foot Montesa FD(+20) Paramedic 26/0:** independent S2 scorer, not the FTO.
-- **Dart, Mendoza, Konstantinos Hidden Deployment + Infiltration (26/0), Hidden Crux:** high-investment alternate pressure. Konstantinos's 23/0 FTO Disco profile is separate and has no Hidden Deployment.
+- **Dart, Mendoza, Konstantinos Hidden Deployment + Infiltration (26/0), Hidden Crux:** higher-cost alternate pressure than the **22–24pt Trinitarians, which also have Hidden Deployment and Infiltration**. Konstantinos's 23/0 FTO Disco profile is separate and has no Hidden Deployment.
 
 ### Deployment-Zone Defense
 - **Raveneye E/M Mine or Cybermine 12/0:** regular FO/Minelayer, Flash Pulse and E/Marat.
