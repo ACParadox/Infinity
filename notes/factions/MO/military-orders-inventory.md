@@ -8,12 +8,18 @@
 
 ### Lieutenant (LT)
 
+- **Knight Commander LT(+1 Order) 24/0:** preferred protected Holomask commander; two Lieutenant Orders for NCO attackers.
+- **Joan v2 AP Spitfire LT 45/1:** preferred fighting Lieutenant; Tactical Awareness, Inspiring Leadership, and 0.5 SWC saving over the CoC profile.
+- **Santiago FTO Spitfire LT 33/0:** fighting Lieutenant with E/M Grenades and Specialist Operative; saves 1.5 SWC over the non-LT profile.
+
+#### Niche
+
+- **Knight Commander LT 20/0:** cheaper Holomask commander without the extra Lieutenant Order.
+- **Joan v2 LT(+1 Command Token) 49/1 or Strategic Deployment LT 51/1:** situational upgrades over the preferred 45-point profile.
+- **Joan v1 MULTI Rifle LT 47/+1 SWC:** protected fighting commander; grants an extra SWC. Command Token and Strategic Deployment upgrades available. Only one Joan across versions.
 - **Teutonic LT 18/0:** cheap two-Wound commander; Limited Cover and Impetuous exposure are risks.
-- **Knight Commander LT 20/0 or LT(+1 Order) 24/0:** Holomask; +1 is worthwhile with a productive NCO.
-- **Joan v1 MULTI Rifle LT 47/+1 SWC:** protected fighting commander; grants an extra SWC. Command Token and Strategic Deployment upgrades available.
-- **Joan v2 AP Spitfire LT 45/1:** mobile fighting commander; Command Token and Strategic Deployment upgrades available. Only one Joan across versions.
 - **De Fersen LT 42/0.5 (MULTI Rifle) or 46/1.5 (Spitfire):** fighting hacker LT; protect succession.
-- **Santiago FTO LT 33/0 (Spitfire) or 31/0 (KHD MULTI Rifle):** zero-SWC fighting LT options; exposure risk.
+- **Santiago FTO KHD MULTI Rifle LT 31/0:** fighting cyber specialist; exposure risk.
 - **Hospitaller FTO LT 27/0 (TinBot MULTI Rifle) or 32/1 (HMG):** durable linked LT; HMG saves 0.5 SWC over non-LT.
 - **Knight of Justice LT 41/0 (FO MMR) or 42/1.5 (Spitfire):** expensive fighting LT, normally prefer safer command.
 
