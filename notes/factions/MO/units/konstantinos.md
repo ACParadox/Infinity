@@ -65,7 +65,7 @@ The 26pt option is a **different job**: pre-positioned secret threat rather than
 - **Hidden Deployment is optional:** deploying him visibly sacrifices secrecy but means a normal deployed Regular trooper can contribute to the Order pool from the beginning.
 - **Order cost:** while truly Hidden, his Order does **not** enter the initial Regular pool; it is reserved for him to reveal and act. A Hidden piece not used until Turn 2 or 3 has a real early-game opportunity cost.
 - **After reveal:** no Camouflage state is printed, so he cannot simply re-camouflage. He remains a one-Wound ARM2/BTS0 trooper. The strong ambush is not sustained battlefield concealment.
-- **Why not default:** compare a **22–23pt Trinitarian FO**: Infiltration, Camouflage, Mimetism(-6), Specialist Operative is replaced by FO-specific scoring, and mines/other tools provide recurring board pressure. The Trinitarian is typically the cheaper, less exposed general-purpose marker specialist; Konstantinos trades that marker resilience for **Hidden surprise, Sensor/MSV1 and AP SMG/Flammenspeer**.
+- **Why not default:** the **22–23pt Trinitarian FO** also has **Hidden Deployment**, Infiltration, Camouflage, Mimetism(-6), D-Charges and Shock Mine, with Forward Observer scoring. Konstantinos is not buying unique Hidden deployment; his differentiators are **Sensor/MSV1, AP SMG, Flammenspeer and the specific ambush geometry**, at a 3–4pt premium and without the Trinitarian's recurring Camouflage/FO toolkit.
 
 **Assessment:** **B**, mission/matchup dependent. Worth testing for a genuine planned hidden scoring or assassination fork. **Do not choose it merely because Hidden Deployment sounds powerful**, or confuse it with the FTO's Disco Baller role.
 
@@ -73,7 +73,7 @@ The 26pt option is a **different job**: pre-positioned secret threat rather than
 
 | Alternative | Prefer it when... |
 |---|---|
-| **Trinitarian FO22–23 / KHD24** | An **independent infiltrating marker specialist** is the core requirement; Camouflage/Mimetism(-6) and low cost matter more than linked Eclipse |
+| **Trinitarian FO22–23 / KHD24** | An **independent infiltrating Hidden Deployment/Camouflage specialist** is the core requirement; Mimetism(-6), FO/KHD choice and lower cost matter more than Konstantinos's Sensor/MSV1/Flammenspeer |
 | **Crusader Brethren Disco23** | You want Eclipse from an **independent airborne angle** rather than with the advancing Fireteam; it is not a linked replacement |
 | **Montesa FTO Paramedic20** | The team needs a **two-Wound linked button-pusher/Blitzen** more than a fragile Eclipse/Sensor toolbox |
 | **Infirmarer Doctor17–20** | A moving team expects to **recover wounded Knights** and needs a real Doctor |
@@ -85,7 +85,7 @@ The 26pt option is a **different job**: pre-positioned secret threat rather than
 - **A / A+ — FTO inside an advancing Core or Haris** that has a real gunfighter, intends to cross unsafe lanes, and can subsequently exploit Sensor and Specialist Operative. A+ is conditional on route geometry and mission demand.
 - **A- — offensive support Duo** when the same movement route also genuinely benefits a Hacker/Pitcher partner.
 - **C — FTO inside a stationary defensive Crosier/Commander or HRL shell**; legal FT arithmetic is not sufficient justification.
-- **B — 26pt Hidden Deployment infiltrator** for a deliberate surprise/scoring plan; usually behind Trinitarian FO in general midfield efficiency.
+- **B — 26pt Hidden Deployment infiltrator** for a deliberate Sensor/MSV1 + Flammenspeer surprise/scoring plan; usually behind a **cheaper Hidden Deployment Trinitarian FO** in general midfield efficiency.
 - **Not a must:** take **one FTO** when it unlocks a valuable advancing link; otherwise skip. AVA1 means the two different Konstantinos profiles compete for the same roster slot.
 
 **Bottom line:** Konstantinos FTO is a **movement and mission-support upgrade for an existing offensive Fireteam**. He makes the team better at reaching its fight, uncovering midfield markers and finishing an objective; he is not an invitation to convert a static Core into an expensive pseudo-assault group. The 26pt Hidden option is a viable but less generally useful independent surprise piece.
