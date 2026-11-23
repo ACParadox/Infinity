@@ -55,7 +55,7 @@ When she is a valid active Lieutenant, **Inspiring Leadership** can convert elig
 - **Fireteam coherency:** Inspiring Leadership extends the Team Leader's Zone of Control by **+2 inches for Coherency Checks** while Joan is in a Fireteam whose members all have **Regular Training printed**. That benefit does not require Joan to be the Lieutenant.
 - **Chain of Command Joan:** If a non-Lieutenant Joan becomes the Lieutenant through CoC, her Lieutenant-dependent Inspiring Leadership effects start then. But 47 points for that eventuality competes with **Knight Commander CoC at 23/0** and a better existing attacker.
 
-**Alternative command engine:** [Knight Commander LT (+1 Order) 24/0](knight-commander.md) plus a real **NCO Seraph/Tikbalang/Holy Sepulchre/Teutonic Spitfire** can convert two LT Orders into productive offensive activations while keeping the Lieutenant hidden in a defensive support team. This is often a more efficient use of MO points than buying v1 as a mostly passive commander.
+**Alternative command engine:** [Knight Commander LT (+1 Order) 24/0](knight-commander.md) plus a real **NCO Seraph/Holy Sepulchre/Teutonic Spitfire** (**not** Tikbalang, which has TacAware but no NCO) can convert two LT Orders into productive offensive activations while keeping the Lieutenant hidden in a defensive support team. This is often a more efficient use of MO points than buying v1 as a mostly passive commander.
 
 ## Solo or Crusade Fireteam?
 
