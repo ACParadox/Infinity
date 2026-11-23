@@ -20,7 +20,7 @@ The extra Lieutenant Order and Chain of Command **are never on the same profile*
 
 The point is **four additional points over the 20pt basic Lieutenant buys one additional Special Lieutenant Order**, giving the army **two LT Orders** each turn while the Commander remains a valid Lieutenant. These are **not ordinary transferable Regular Orders**. They become valuable when NCO converts them into Tactical Orders that an NCO gunfighter can spend.
 
-**Best recipients (the MO Tikbalang is **not** one of them; Infinity Army screenshot verified 23 November 2026):**
+**Best NCO recipients:** The MO Tikbalang is **not** one of them (Infinity Army screenshot verified 23 November 2026).
 
 | NCO attacker | Why Commander LT (+1) fits | Caveat |
 |---|---|---|
