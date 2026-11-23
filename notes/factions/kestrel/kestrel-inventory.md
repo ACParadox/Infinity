@@ -26,6 +26,26 @@ Quick role-based index for Kestrel list building. Entries identify **alternative
 - **Squalos Mk-II:** **66-point MULTI HMG profile only**; 55-point MMR and 62-point HMG/GL profiles do not have NCO.
 - **Sforza:** 26-point solo or Albedo FTO profiles; 23-point FTO also has NCO.
 
+### Tactical Awareness
+
+- **Pathfinder FO/Sensor 17/0:** extra activation for objective movement or an eligible Fireteam; 14-point basic profile lacks Tactical Awareness.
+- **Bipandra Doctor 25/0:** extra activation plus medical recovery in an eligible team; 23-point Doctor lacks Tactical Awareness.
+- **Dr. Priya Harper:** 32-point FTO or 35-point Forward Deployment (+20) Specialist Operative; both have Tactical Awareness and grant +1 SWC.
+- **Tikbalang:** HMG 69/1.5 or LT(+1 Order) 73/1.5; Tactical Awareness on both profiles, no NCO.
+- **Squalos Mk-II:** MMR 55/1, HMG/GL 62/1.5 or MULTI HMG 66/1.5; all have Tactical Awareness, only the last has NCO.
+- **Optimate Agent Maximus:** 45-point FTO or 48-point Minimus profile (including LT variants); Tactical Awareness on all profiles.
+- **Maximus TAG:** 80–82 pts; Tactical Awareness on all profiles. Choose Agent or TAG, not both.
+
+### Force Multipliers
+
+- **BCA Magistrate:** Strategos L1 LT 19/0 (Combi Rifle) or 23/0 (MMR); Counterintelligence and FT Master (Jackals) on all profiles. Eligible linked Jackals become Regular at Order Count while FT Master conditions hold.
+- **Tikbalang LT(+1 Order) 73/1.5:** two Lieutenant Orders for eligible NCO attackers.
+- **Tech-Bee TAGCom 9/0:** Specialist Operative; grants Dodge (PH+3) and GizmoKit (PH+1) to eligible TAGs in the same Combat Group, not to Redeye Vehicles or REMs. Also carries a Deployable Repeater.
+- **Dr. Priya Harper:** +1 SWC, Specialist Operative, Tactical Awareness; 32-point FTO Wildcard or 35-point Forward Deployment (+20) alternative, with Nanoscreen/NWI.
+- **Mulebot EVO 14/0.5:** EVO Hacking Device and Baggage; Supportware option for REM or airborne plans. Distinct from the 8-point Repeater/Baggage cheerleader.
+- **Crux FTO Strategic Deployment MMR 50/0:** optional forward deployment for eligible Fireteam.
+- **Optimate Agent Maximus LT:** 45-point FTO or 48-point Minimus variant; grants +1 SWC. Choose Agent or TAG, not both.
+
 ### Warhorse
 
 - **Richard Quinn:** 26 pts (both Forward Observer profiles).
@@ -197,12 +217,3 @@ Primary 0–24in rifle, marksman rifle, Spitfire, Red Fury and close-assault att
 - **Redeye:** **38 pts/1.5 SWC** Spitfire + Continuous-Damage Grenade Launcher; mobile indirect-fire angle, distinct from the 37-point Blitzen option.
 - **Squalos Mk-II:** **62 pts/1.5 SWC** HMG + Grenade Launcher; combines long-range direct shooting and speculative-fire access.
 - **Clipper Dronbot:** **16 pts/1.5 SWC Guided Missile Launcher**; requires a reliable Targeted setup for Guided attacks. Its **19-point FTO Missile Launcher (+1B)** is a different, **non-Guided** profile with **no Kestrel Fireteam chart access**.
-
-### Force Multipliers / Supportware
-
-- **BCA Magistrate:** **19-point Strategos L1 LT**, Counterintelligence and FT Master (Jackals); eligible linked Jackals become Regular at Order Count while FT Master conditions hold.
-- **Tech-Bee TAGCom:** **9-point Specialist Operative**; grants **Dodge (PH+3)** and **GizmoKit (PH+1)** to eligible TAGs in the **same Combat Group**, not to Redeye Vehicles or REMs. Also carries a Deployable Repeater.
-- **Dr. Priya Harper:** **+1 SWC**, Tactical Awareness and Specialist Operative; **32-point FTO Wildcard** or **35-point Forward Deployment (+20)** alternative, with Nanoscreen/NWI.
-- **Mulebot EVO:** **14 pts/0.5 SWC**, EVO Hacking Device and Baggage; Supportware option for plans built around REMs or airborne deployment. Distinct from the 8-point Repeater/Baggage cheerleader.
-- **Pathfinder:** **17-point Tactical Awareness** FO/Sensor/Repeater; extra activation for objective movement or an eligible Fireteam.
-- **Bipandra:** **25-point Tactical Awareness** Doctor; extra activation plus medical recovery in an eligible team.
