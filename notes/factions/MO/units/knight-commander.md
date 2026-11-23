@@ -20,12 +20,11 @@ The extra Lieutenant Order and Chain of Command **are never on the same profile*
 
 The point is **four additional points over the 20pt basic Lieutenant buys one additional Special Lieutenant Order**, giving the army **two LT Orders** each turn while the Commander remains a valid Lieutenant. These are **not ordinary transferable Regular Orders**. They become valuable when NCO converts them into Tactical Orders that an NCO gunfighter can spend.
 
-**Best recipients:**
+**Best recipients (the MO Tikbalang is **not** one of them; Infinity Army screenshot verified 23 November 2026):**
 
 | NCO attacker | Why Commander LT (+1) fits | Caveat |
 |---|---|---|
 | **Seraph MULTI HMG 74 / AP Spitfire + Auxbot 72** | NCO + Tactical Awareness can concentrate activations on a high-impact Super-Jump TAG | Expensive centerpiece; position, hacking defense and a backup scoring route still matter |
-| **Tikbalang of Montesa HMG 68** | Two LT Orders and its Tactical Awareness fund repeated Mimetism/Climbing Plus attacks | No AP HMG; vulnerable if cornered, hacked or forced into poor ranges |
 | **Knight of the Holy Sepulchre NCO AP HMG 53** | Strong mid-cost independent AP HMG gets two restricted attack Orders without occupying the Core/Haris | No Tactical Awareness on this AP HMG option; not equivalent to a Seraph in durability or reach |
 | **Teutonic Knight NCO Spitfire 29** | Particularly economical: when the NCO is the legal Fireteam Leader and spends its Tactical Order, **its whole attacking Fireteam activates** | Haris/Core must be chart-legal, and the NCO may be unable to use both Orders every turn |
 
@@ -82,7 +81,7 @@ This is the critical usage preference. **If taking a Knight Commander in a Firet
 
 These examples include **actual Crosiers** to satisfy the pinned Military Orders chart's required-choice condition; **Knight Commander counts as Crosier** for the FT level but should **not be assumed to waive native required-choice requirements**. The Commander can only join the **Military Orders** Fireteam family (Core/Haris/Duo where legal), **not Order Sergeants, Crusade or Velox by implication**. Do not count a Black Friar as an extra Crosier for FT levels; check each member's real unit/counts-as equivalence.
 
-**Useful architecture:** Commander LT (+1) in a defensive FT5 Crosier Core **plus** a Teutonic NCO Spitfire in a *separate advancing Military Orders Haris*. The Commander stays out of danger; the Teutonic converts both LT Orders and can activate its own Fireteam. Alternatively use a **solo Seraph/Tikbalang/Holy Sepulchre**, leaving the Haris slot open for other midfield demands.
+**Useful architecture:** Commander LT (+1) in a defensive FT5 Crosier Core **plus** a Teutonic NCO Spitfire in a *separate advancing Military Orders Haris*. The Commander stays out of danger; the Teutonic converts both LT Orders and can activate its own Fireteam. Alternatively use a **solo Seraph or Holy Sepulchre NCO**, leaving the Haris slot open for other midfield demands. A **solo Tikbalang is still a strong shooter, but it has no NCO and cannot use the Commander LT Orders**.
 
 **CoC architecture:** Joan LT in a legal advancing combat formation (or acting independently) while Commander CoC sits **in a separate protective Crosier Core**. The defensive team provides passive support and controlled AROs; Joan uses her combat tools more assertively.
 
@@ -103,7 +102,8 @@ As a backfield defense component, he complements—not replaces—**Raveneye E/M
 
 | List context | Best Commander choice | Rating |
 |---|---|---|
-| Seraph or Tikbalang TAG centerpiece with NCO | **24pt Lieutenant (+1 Order)**, ideally in a defensive/support Core | **A+** |
+| Seraph TAG centerpiece with NCO | **24pt Lieutenant (+1 Order)**, ideally in a defensive/support Core | **A+** |
+| Tikbalang centerpiece **without another NCO** | Prefer a **20pt basic Commander LT** or cheaper safe LT rather than paying for unused +1 LT Order | **Conditional; +1 not justified by Tik alone** |
 | Holy Sepulchre AP HMG NCO | **24pt Lieutenant (+1 Order)** | **A+** |
 | Teutonic NCO Spitfire advancing Fireteam | **24pt Lieutenant (+1 Order)** in a *separate* defensive Core | **A+** |
 | Aggressive Joan v2 Lieutenant | **23pt Chain of Command** protected in separate defensive Core | **A+ conditional** |
