@@ -1,6 +1,8 @@
-# Varuna Immediate Reaction Division — Sources, Cross-References, Battle Reports and Purchasing Audit
+# Varuna Immediate Reaction Division — References, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Varuna Immediate Reaction Division tactical analysis](../varuna.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/varuna-immediate-reaction-division.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
+**Varuna guides:** [Overview](varuna-overview.md) · [Sectorial Inventory](varuna-inventory.md) · [Listbuilding](varuna-listbuilding.md) · [Fireteams](varuna-fireteams.md) · [References](varuna-references.md) · [Unit analyses](units/).
+
+**Tactical companion:** [Varuna Immediate Reaction Division tactical analysis](varuna-overview.md). **Authoritative roster:** [N5.3 sectorial reference](../../../sectorials/panoceania/varuna-immediate-reaction-division.md). Roster, profiles, Fireteam legality and current rules take precedence over historical sources.
 
 ## Source notes
 
@@ -119,7 +121,7 @@ The dated tactical evaluations below were moved from the [Varuna Immediate React
 
 ### Community tactics from N5 video/podcast transcripts (reviewed 2026-10-19)
 
-For detailed profile-by-profile choices, Fireteam architectures, defensive shell versus active-turn tradeoffs and annotated source leads, see the [Varuna N5.3 tactical and list-building guide](../varuna.md). **Corrections:** current Varuna has no CoC profile; Quinn is not CoC. The roster and chart above are canonical.
+For detailed profile-by-profile choices, Fireteam architectures, defensive shell versus active-turn tradeoffs and annotated source leads, see the [Varuna N5.3 tactical and list-building guide](varuna-overview.md). **Corrections:** current Varuna has no CoC profile; Quinn is not CoC. The roster and chart above are canonical.
 
 **Evidence:** Opinions below come from N5-era creator transcripts (mostly October–December 2025), with cross-sectorial PanO REM material and one clearly marked historical podcast. **The current N5.3 profiles and Fireteams above take precedence over older speaker recollections.** This is tactical interpretation, not an alteration of roster rules.
 
@@ -392,7 +394,7 @@ A **whole-unit defer** applies to the *named unit across its usable current prof
 - **One is enough** = a duplicate miniature is lower priority than its AVA suggests.
 - **Specialist build** = deliberately purchase only for its unique tool or a list actually tested. **Strong / contested** identifies disagreement; never equate a rare pick with an unusable one.
 
-The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel.md), [NCA](../nca.md), [Varuna](../varuna.md), [SAA](../acontecimento.md), [WinterFor](../svalarheima.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
+The source judgments below are anchored in the [PanO faction transcript audit above](../vanilla-pano.md#1-vanilla-pano--no-verified-universal-locked-unit), [Kestrel](../kestrel/kestrel-overview.md), [NCA](../nca.md), [Varuna](varuna-overview.md), [SAA](../acontecimento.md), [WinterFor](../WinterFor/svalarheima-overview.md) and the [current MO roster research](../../../sectorials/panoceania/military-orders.md). Source labels are **Direct** (recorded reviewer criticism), **Contested** (other reviewers disagree) or **Inference** (purchase-priority conclusion from those reviews and N5.3 roster). The evaluation is for ordinary **300-point N5.3** lists, not narrow custom missions.
 
 ##### Varuna Immediate Reaction Division
 
@@ -404,4 +406,13 @@ The source judgments below are anchored in the [PanO faction transcript audit ab
 | **Sierra HMG, second expensive static ARO, or Cutter plus Squalos in the same small list** | **Inference:** Varuna already has Helot, Kamau, ORC and Zulu counters. Buying another static long gun or two centerpieces can starve actual specialists/scoring. | **Proxy/test the *additional* model**, not the whole unit. Cutter is still a powerful separate TAG, not a poor model. |
 | **Echo-Bravo special off-table attack** | **Inference:** AD is valuable only when its arrival angle, weapon and mission can do something that Zulu/Helot/Montesa cannot; some lists can operate without it. | **Proxy a spare suitable PanO infantry** before acquiring extra copies; do not call the trooper bad merely because it is list-dependent. |
 
-**Sources:** [Dante Varuna tournament list](https://www.youtube.com/watch?v=U8igbhbj2iw), [Tactical Awareness Varuna](https://www.youtube.com/watch?v=DLgSwYvTGS4), [Swiss Miss Varuna](https://www.youtube.com/watch?v=v3hhlSohHzg), [Varuna guide](../varuna.md).
+**Sources:** [Dante Varuna tournament list](https://www.youtube.com/watch?v=U8igbhbj2iw), [Tactical Awareness Varuna](https://www.youtube.com/watch?v=DLgSwYvTGS4), [Swiss Miss Varuna](https://www.youtube.com/watch?v=v3hhlSohHzg), [Varuna guide](varuna-overview.md).
+
+
+## Research provenance
+
+**Reference archive:** [Primary source recordings, N5.3 tactical cross-references, battle reports and purchasing audit](varuna-references.md).
+
+**Status / authority:** Tactics and opinions imported from the supplied research guide. [N5.3 Varuna roster, profiles and canonical Fireteam chart](../../../sectorials/panoceania/varuna-immediate-reaction-division.md) (pinned Army 7.26246.158, September 2026) are authoritative for exact availability/legality; [local N5.3 rules](../../../rules/README.md) govern mechanics. Source notes at the end are **research leads and judgments from the uploaded guide**, not newly verified transcripts in this merge.
+
+**Corrections to imported guidance:** Varuna's current 27-unit roster **does not include a Chain of Command profile**; in particular **Richard Quinn is FO/Disco Baller, not CoC**. Plan a protected Lieutenant rather than relying on a nonexistent Quinn succession model. Also, a Varuna Cutter **does not have Tactical Awareness**; Squalos Mk-II does.

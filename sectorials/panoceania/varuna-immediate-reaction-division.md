@@ -473,7 +473,7 @@ Wildcard status does not remove the native minimum/required-choice conditions of
 | **Best forward specialist Duo** | Foot Montesa FD Red Fury (opt 2: 32/1.5)<br>Foot Montesa FD Paramedic (opt 3: 26/0) | Forward Montesa Duo · 2 | **FT2** | **58/1.5** | The actual two **foot** Montesas share the same unit and provide FT2; neither is the motorized S4 variant. | Constructed current-chart recommendation. |
 | **Best 5-body elite anti-armor Core** | Kamau HRL/MSV1 (opt 5: 23/1.5)<br>Kamau MSV2 MULTI Sniper (opt 6: 29/1.5)<br>Kamau Tactical Awareness Paramedic (opt 4: 25/0)<br>ORC Feuerbach (opt 13: 36/1.5)<br>ORC Firewall TinBot BSG (opt 14: 28/0) | Undertow Core · 5 | **FT5** | **141/4.5** | Three Kamau with two ORC (all Undertow-equivalent) make FT5, but use substantial SWC and points. | Constructed current-chart apex skew; not the default efficient list. |
 
-**Evidence boundary:** Reports #019, #203 and #226 support the linked **unit architecture**; some examples were played in *different army lists*. Option numbers/prices here are modern reconstructions, not postdated claims about those historical games. The [Varuna guide](../../notes/factions/varuna.md) and [Brookhurst faction discussion](https://www.youtube.com/watch?v=WOvaahZlyQE) provide context, not confirmation of exact member options.
+**Evidence boundary:** Reports #019, #203 and #226 support the linked **unit architecture**; some examples were played in *different army lists*. Option numbers/prices here are modern reconstructions, not postdated claims about those historical games. The [Varuna guide](../../notes/factions/Varuna/varuna-overview.md) and [Brookhurst faction discussion](https://www.youtube.com/watch?v=WOvaahZlyQE) provide context, not confirmation of exact member options.
 
 ## Unit → Fireteam access index
 
@@ -558,4 +558,4 @@ These tags are analytical conveniences for modular list-building, not Army chara
 - Quinn's Fusilier/Kamau equivalence, Uma's Fusilier/Kamau equivalence, Patsy's Undertow/Helot equivalence, Bipandra's Fusilier equivalence, and Machinist Varuna's Kamau equivalence are preserved.
 - Main and Reinforcement charts are not merged.
 
-**Tactical and purchasing analysis:** [Varuna Immediate Reaction Division faction notes](../../notes/factions/varuna.md). The factual roster and Fireteam data above remain authoritative.
+**Tactical and purchasing analysis:** [Varuna Immediate Reaction Division faction notes](../../notes/factions/Varuna/varuna-overview.md). The factual roster and Fireteam data above remain authoritative.
