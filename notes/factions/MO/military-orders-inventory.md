@@ -18,7 +18,7 @@
 ### NCO and Force Multipliers
 - **Holy Sepulchre AP HMG 53/1:** independent NCO long-range attack.
 - **Seraph TAG 72–74/1.5:** NCO and Tactical Awareness; MULTI HMG or AP Spitfire+Auxbot are different packages.
-- **Tikbalang HMG 68/1.5:** NCO/Tactical Awareness, Mimetism(-3), Climbing Plus.
+- **Tikbalang HMG 68/1.5:** **Tactical Awareness only (no NCO)**, Mimetism(-3), Climbing Plus; cannot spend Knight Commander LT Orders.
 - **Teutonic NCO Spitfire 29/1.5:** premium over the low-price utility profiles.
 - **Tech-Bee TAGCom 9/0:** supports a same-Combat-Group TAG; not an Engineer or extra pooled Order.
 
