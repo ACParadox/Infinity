@@ -29,15 +29,25 @@
 - **Joan v1 CoC 47/0 or Strategic Deployment 53/0:** expensive, Non-Specialist; generally skip.
 - **Joan v2 CoC 45/1.5 or Strategic Deployment 51/1.5:** independent attack plus succession insurance; Non-Specialist.
 
-### NCO, Tactical Awareness and Force Multipliers
+### NCO
 
-- **Holy Sepulchre AP HMG 53/1:** independent NCO long-range attack.
-- **Seraph TAG 72–74/1.5:** NCO and Tactical Awareness on both alternative loadouts.
-- **Tikbalang HMG 68/1.5:** Tactical Awareness only (no NCO); Mimetism(-3), Climbing Plus; normally prefer Seraph.
+- **Holy Sepulchre AP HMG 53/1:** independent NCO long-range attack; MMR variant has no NCO.
+- **Seraph TAG 72–74/1.5:** NCO on both AP Spitfire and MULTI HMG profiles.
 - **Teutonic NCO Spitfire 29/1.5:** useful with Commander LT(+1).
-- **Joan v1:** Tactical Awareness, Number 2, Inspiring Leadership when eligible as LT; LT grants +1 SWC.
-- **Joan v2:** Tactical Awareness, Number 2, Inspiring Leadership when eligible as LT.
-- **Pathfinder FO/Sensor 17/0:** Tactical Awareness, independent extra activation.
+
+### Tactical Awareness
+
+- **Seraph TAG 72–74/1.5:** extra activation on both profiles, in addition to NCO.
+- **Tikbalang HMG 68/1.5:** Tactical Awareness only (no NCO); Mimetism(-3), Climbing Plus; normally prefer Seraph.
+- **Joan v1 47–53 pts:** Tactical Awareness on all profiles.
+- **Joan v2 45–51 pts:** Tactical Awareness on all profiles.
+- **Pathfinder FO/Sensor 17/0:** independent extra activation; 14-point basic profile lacks Tactical Awareness.
+
+### Force Multipliers
+
+- **Knight Commander LT(+1 Order) 24/0:** two Lieutenant Orders for eligible NCO attackers.
+- **Joan v1:** Number 2 and Inspiring Leadership when eligible as LT; LT grants +1 SWC. Command Token and Strategic Deployment variants available.
+- **Joan v2:** Number 2 and Inspiring Leadership when eligible as LT; Command Token and Strategic Deployment variants available.
 - **Tech-Bee TAGCom 9/0:** same-Combat-Group TAG Dodge (PH+3) and GizmoKit (PH+1); not an Engineer or extra pooled Order.
 - **Mulebot EVO 14/0.5:** Fairy Dust for HI-heavy lists; REM/airborne Supportware as appropriate. Not the native Repeater profile.
 - **Crux FTO Strategic Deployment MMR 50/0:** optional forward deployment for eligible Fireteam.
