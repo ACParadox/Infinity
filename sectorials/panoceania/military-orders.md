@@ -287,8 +287,8 @@ Army source note: **Options with Combat Jump cannot be part of a Fireteam.**
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 53 | 0 | MULTI Marksman Rifle (+1B), Heavy Pistol, Shock CCW; Deployable Repeater | — |
-| 4 | 53 | 1 | AP HMG, Heavy Pistol, Shock CCW; NCO | — |
+| 1 | 53 | 0 | MULTI Marksman Rifle (+1B), Heavy Pistol, Shock CCW (PS=6); Multispectral Visor L1 | — |
+| 4 | 53 | 1 | AP HMG, Heavy Pistol, Shock CCW (PS=6); NCO | — |
 
 ### Joan of Arc v2 (Mobility Armor)
 
