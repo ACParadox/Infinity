@@ -168,7 +168,9 @@ The FTO profiles count as **Crosier** when used in the Military Orders Fireteam 
 
 ### Trinitarian Tertiaries
 
-**ID 1527 · AVA 3 · SK** — `MOV 10-10 | CC 18 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 0 | W 1 | S 2`. Camouflage, Mimetism (-6), Infiltration, Surprise Attack (-3), Stealth, Religious Troop, Deactivator.
+**Verified against Army screenshot (23 November 2026).** Shared Hidden Deployment is available to **all six** options. It is optional: a trooper kept Hidden does not add its Regular Order to the pool until revealed; normal Camouflage deployment retains the order. A Minelayer profile may predeploy its Shock Mine or Deployable Repeater even while its Trinitarian starts Hidden (subject to the Minelayer/Infiltration restrictions). The screenshot lists **no Deactivator**. The FO Submachine Gun is **PS 6**, with **no printed (+1SD)**.
+
+**ID 1527 · AVA 3 · SK** — `MOV 10-10 | CC 18 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 0 | W 1 | S 2`. Camouflage, **Hidden Deployment**, Infiltration, Mimetism (-6), Religious Troop, Stealth, Surprise Attack (-3).
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
@@ -176,7 +178,7 @@ The FTO profiles count as **Crosier** when used in the Military Orders Fireteam 
 | 2 | 24 | 0 | Boarding Shotgun, D-Charges, Shock Mine, Pistol, CCW; Killer Hacking Device, Hacker | — |
 | 3 | 22 | 0 | Boarding Shotgun, D-Charges, Flash Pulse, Shock Mine, Pistol, CCW; Forward Observer | — |
 | 4 | 23 | 1 | As 3; Minelayer | — |
-| 5 | 23 | 0 | SMG (+1SD), Flash Pulse, D-Charges, Shock Mine, Pistol, CCW; Forward Observer | — |
+| 5 | 23 | 0 | Submachine Gun (PS 6), Flash Pulse, D-Charges, Shock Mine, Pistol, CCW; Forward Observer | — |
 | 6 | 23 | 1 | Boarding Shotgun, Flash Pulse, D-Charges, Pistol, CCW; Deployable Repeater; Minelayer, Forward Observer | — |
 
 ### Coadjutor Crosiers
