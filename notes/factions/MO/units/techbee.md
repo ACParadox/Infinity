@@ -55,16 +55,16 @@ A non-Null Tech-Bee on the table gives friendly **TAGs in her Combat Group**:
 - **Dodge (PH+3)**, a passive boost against attacks/templates where Dodge is preferable to shooting or accepting a hit.
 - **GizmoKit (PH+1)**, improving the recipient TAG's PH when resolving a GizmoKit repair, whether Tech-Bee or another GizmoKit carrier supplies it.
 
-| MO TAG | Base PH | With TAGCom Dodge | Normal-roll Dodge chance before other MODs |
+| MO TAG | Printed Dodge target | With TAGCom Dodge (+3) | Normal-roll Dodge chance before other MODs |
 |---|---:|---:|---|
-| **Tikbalang (68/1.5)** | 15 | **18** | **75% → 90%** |
-| **Seraph (72–74/1.5)** | 16 | **19** | **80% → 95%** |
+| **Tikbalang (68/1.5)** | 11 | **14** | **55% → 70%** |
+| **Seraph (72–74/1.5)** | 12 | **15** | **60% → 75%** |
 
-These are individual unopposed Dodge roll odds, **not** probabilities of winning a Face-to-Face roll. Against ordinary -3 mine/template Dodge modifiers, TAGCom can cancel that penalty. Other modifiers and enemy successes still apply. Tikbalang's printed GizmoKit PH=13 becomes 14; the Seraph's PH16 becomes 17.
+These are individual unopposed Dodge roll odds, **not** probabilities of winning a Face-to-Face roll. The TAGs have printed Dodge overrides (Tikbalang PH=11 and Seraph PH=12), so TAGCom's +3 applies to those targets, **not** to their base PH15/PH16. Against ordinary -3 mine/template Dodge modifiers, TAGCom can cancel that penalty. Other modifiers and enemy successes still apply. Both TAGs have printed GizmoKit (PH=13), improved to 14 by TAGCom. Sources: [pinned MO roster](../../../../sectorials/panoceania/military-orders.md), [Seraph N5 profile](https://human-sphere.com/Seraph).
 
-**Seraph:** PH19 Dodge is excellent for a big S7 model facing dense-board threats and templates. It helps both the MULTI HMG's repositioning and the AP Spitfire/Auxbot's closer-range play. TAGCom does not address the Seraph's vulnerability to a good hacking attack or improve offensive shooting.
+**Seraph:** PH15 Dodge with TAGCom is useful for a big S7 model facing dense-board threats and templates. It helps both the MULTI HMG's repositioning and the AP Spitfire/Auxbot's closer-range play. TAGCom does not address the Seraph's vulnerability to a good hacking attack or improve offensive shooting.
 
-**Tikbalang:** PH18 Dodge complements Mimetism (-3), Climbing Plus and an aggressive HMG. Because Tikbalang is only 68 points but still critical to the plan, a passive 9pt support model offers excellent insurance.
+**Tikbalang:** PH14 Dodge with TAGCom complements Mimetism (-3), Climbing Plus and an aggressive HMG. Because Tikbalang is only 68 points but still critical to the plan, a passive 9pt support model offers excellent insurance.
 
 **Double-Seraph experiment:** if both TAGs share Tech-Bee's Combat Group, one Tech-Bee buffs **both**. The underlying double-TAG list is still extremely expensive; this is not an argument that two Seraphs are automatically optimal.
 

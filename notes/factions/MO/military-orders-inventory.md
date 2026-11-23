@@ -15,10 +15,10 @@
 - **Knight Commander CoC 23/0:** protected successor for a fighting LT; not the same profile as Commander LT(+1).
 - **Joan CoC alternative:** expensive distinct choice; cannot simultaneously use the LT version's abilities.
 
-### NCO and Force Multipliers
+### NCO, Tactical Awareness and Force Multipliers
 - **Holy Sepulchre AP HMG 53/1:** independent NCO long-range attack.
 - **Seraph TAG 72–74/1.5:** NCO and Tactical Awareness; MULTI HMG or AP Spitfire+Auxbot are different packages.
-- **Tikbalang HMG 68/1.5:** **Tactical Awareness only (no NCO)**, Mimetism(-3), Climbing Plus; cannot spend Knight Commander LT Orders.
+- **Tikbalang HMG 68/1.5:** **Tactical Awareness only (no NCO)**, Mimetism(-3), Climbing Plus, CC Attack(-3), no Shock Mines; cannot spend Knight Commander LT Orders.
 - **Teutonic NCO Spitfire 29/1.5:** premium over the low-price utility profiles.
 - **Tech-Bee TAGCom 9/0:** supports a same-Combat-Group TAG; not an Engineer or extra pooled Order.
 

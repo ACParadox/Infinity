@@ -391,12 +391,14 @@ AUXBOT_3 carries Heavy Flamethrower, Shock Mine, PARA CCW (-3); AUXBOT_3B adds M
 
 ### Seraphs
 
-**ID 34 · AVA 2 · TAG** — `MOV 15-10 | CC 23 | BS 15 | PH 16 | WIP 13 | ARM 7 | BTS 6 | W 3 | S 7`. ECM: Guided (-6), Martial Arts L1, BS Attack (SR-1), Remote Presence, Tactical Awareness, NCO, Religious Troop, Super-Jump, Courage.
+**ID 34 · AVA 2 · TAG** — `MOV 15-10 | CC 23 | BS 15 | PH 16 | WIP 13 | ARM 7 | BTS 6 | W 3 | S 7`. ECM: Guided (-6), Martial Arts L1, BS Attack (SR-1), Remote Presence, Tactical Awareness, NCO, Religious Troop, Dodge (+2"), Dodge (PH=12), GizmoKit (PH=13), Super-Jump (Jet Propulsion), Super-Jump (+3").
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 72 | 1.5 | AP Spitfire, Pulzar, EXP CCW; AUXBOT_2; Crabbot | — |
-| 2 | 74 | 1.5 | MULTI HMG, Pulzar (+1B), EXP CCW; Crabbot | — |
+| 1 | 72 | 1.5 | AP Spitfire, Pulzar, EXP CCW (PS=4); AUXBOT_2; Crabbot | — |
+| 2 | 74 | 1.5 | MULTI HMG, Pulzar (+1B), EXP CCW (PS=4); Crabbot | — |
+
+**N5 Seraph profile cross-check:** Human Sphere's N5 listing specifies Dodge PH=12, Dodge (+2"), GizmoKit PH=13, Super-Jump (Jet Propulsion), Super-Jump (+3"), and EXP CCW PS=4. These printed overrides apply instead of default PH for those specific actions. Both Seraph options have NCO; MO Tikbalang does not. [Seraph N5 profile](https://human-sphere.com/Seraph).
 
 ### Indigo Brother Konstantinos
 
