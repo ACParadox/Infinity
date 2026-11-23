@@ -587,6 +587,8 @@ All rows below are in the chart's **Wildcards** row. Parenthetical values are Co
 
 Wildcard status does not remove a Fireteam's native minimum/required-choice conditions. The canonical Fireteam row and applicable Counts-as rules remain authoritative for composition.
 
+**Konstantinos / Crusade validation flag (2026-11-22):** A current Army user reports that **Konstantinos FTO cannot join Crusade Fireteams**. This conflicts with this pinned source's unrestricted Wildcard row and the general N5.3 rule that Wildcards can join any Fireteam. Pending a refreshed Army Fireteam-chart extraction or explicit exception, **do not recommend Konstantinos in a Crusade team**; retain the source row above as a faithful representation of the pinned data, rather than silently rewriting its provenance.
+
 ## Recommended Fireteam compositions — N5.3 audited
 
 **Non-canonical tactical overlay** (2026-11-19), checked against the canonical chart and pinned profiles above. Each row is an **alternative army-construction option**, not a single legal army containing all rows. Individual options and totals show **pts/SWC**. FT level counts same-Unit or chart *Counts-as* members, not only size ([N5.3 rule](https://infinitythewiki.com/Fireteam_Bonuses)): FT2 BS Attack (+1 SD), FT3 +3 Discover/+1 Dodge, FT4 +1 BS, FT5 Sixth Sense.
