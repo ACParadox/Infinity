@@ -66,7 +66,7 @@ Use the [role inventory](military-orders-inventory.md) for profile alternatives 
 | **Escort Sergeant Neuro HRL+Auxbot 22/1.5** | ARO template + synchronized close-range Fork watches a DZ breach | Not FTO, W1, requires Peripheral coherency; avoid counting Auxbot as another Order. |
 | **Order Sergeant FTO HRL15 / Black Friar HRL22** | Affordable linkable launcher; Friar adds MSV2/Albedo, FTO saves points | 1.5SWC and no automatic defensive win; exact team and terrain matter. |
 | **Sierra TR Thunderbolt18/0 or HMG23/1** | 360º Total Reaction / roof and AD gate; Machinist/Curator repair if needed | Exposed one-Wound REM can be removed by specialist long-range attackers; 18pt has less reach than HMG. |
-| **Trinitarian MSR25/1.5 Camo** | Hidden *identity/marker position* until revealed, independent asymmetric sniper lane; independent infiltrator presence | W1/BS12 and 1.5SWC; can be countered by Triangulated Fire, Sensors, mimetic TAGs or alternate routes; N5.3 roster **does not print Hidden Deployment**. |
+| **Trinitarian MSR25/1.5 Camo + Hidden Deployment** | Can begin genuinely Hidden for an unrevealed ARO/sniper lane or as a Camo marker for an ordinary pooled Order; independent infiltrator presence | W1/BS12 and 1.5SWC; Hidden trooper's Order is withheld until reveal. Can be countered after reveal by Triangulated Fire, Sensors, mimetic TAGs or alternate routes. Army screenshot verified 23 Nov 2026. |
 | **Crosier MSR+E/M Minelayer19/1** | DZ long-lane ARO + prepaid E/M mine; can join a relevant Military Orders Fireteam | W1/BTS0, expensive SWC when pairings require HMG/Spitfire. |
 | **Curator AP Mine17 / Armed Turret20** | Actual Engineer/Deactivator and independent placed threat; extends repair planning | A Curator in a mobile team cannot also solve every Servant/Fireteam activation issue. |
 | **Flash Pulse cheap cover** | **Fugazi7 Regular, Warcor3 Irregular** anchor secondary corners and AD paths | Flash is a tax, not hard long-range stopping power. |
@@ -77,7 +77,7 @@ Use the [role inventory](military-orders-inventory.md) for profile alternatives 
 
 | Piece | Preferred use | What it competes with |
 |---|---|---|
-| **Trinitarian FO22 / KHD24 / DR Minelayer23/1** | Camo forward scoring, cyber counterassassination or a prepaid node; hold one for a later objective | Do not spend all AVA and SWC on sniper defense; losing both forward FOs early can collapse late scoring. |
+| **Trinitarian FO22 / KHD24 / DR Minelayer23/1** | Infiltration + optional Hidden Deployment: preserve a secret late-game FO/KHD scoring threat or use Camo to contribute a Regular Order from turn one; Minelayer can preplace its Repeater while the Trinitarian itself stays Hidden | Do not overinvest AVA/SWC in snipers; every trooper kept Hidden withholds its Order until reveal. |
 | **Foot Montesa FTO Paramedic20** | Tough **linked** button-runner/Blitzen roadblock, 0SWC | Does **not** deploy forward. Shepherd treats it as near-auto-include; other missions prefer independent infiltration. |
 | **Foot Montesa FD+20 Paramedic26** | **S2 forward** specialist for midboard once, or dense/vertical terrain unfavorable to bikes | Six extra points over FTO and cannot link on this loadout. |
 | **Motorized Montesa Paramedic23** | **MOV20–15** scoring flank / emergency Turn-3 switch; Velox if planned | S4 path, Impetuous and partial exposure; not a small indoor objective-room model. |
