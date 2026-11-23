@@ -41,7 +41,7 @@
 - **Trinitarian FO 22/0, KHD 24/0, FO/Deployable Repeater Minelayer 23/1:** separate camo/Infiltration tools; only the last preplaces a Repeater.
 - **Peacemaker+Auxbot 23–27:** FD(+20) native Repeater and a close-template fork; distinguish no-Auxbot profile.
 - **Foot Montesa FD(+20) Paramedic 26/0:** independent S2 scorer, not the FTO.
-- **Dart, Mendoza, infiltrating Konstantinos, Hidden Crux:** high-investment alternate pressure.
+- **Dart, Mendoza, Konstantinos Hidden Deployment + Infiltration (26/0), Hidden Crux:** high-investment alternate pressure. Konstantinos's 23/0 FTO Disco profile is separate and has no Hidden Deployment.
 
 ### Deployment-Zone Defense
 - **Raveneye E/M Mine or Cybermine 12/0:** regular FO/Minelayer, Flash Pulse and E/Marat.
