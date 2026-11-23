@@ -400,8 +400,8 @@ AUXBOT_3 carries Heavy Flamethrower, Shock Mine, PARA CCW (-3); AUXBOT_3B adds M
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 23 | 0 | **BROTHER KONSTANTINOS FTO**; MULTI Rifle, D-Charges, Disco Baller, Boarding Pistol, CCW; Deactivator | Wildcard max 1; counts as Crosier and Order Sergeant |
-| 2 | 26 | 0 | AP SMG, Flammenspeer, D-Charges, Boarding Pistol, CCW; Surprise Attack (-3), Hidden Deployment, Infiltration | — |
+| 1 | 23 | 0 | **BROTHER KONSTANTINOS FTO**; MULTI Rifle, D-Charges, Disco Baller, Boarding Pistol, CCW (PS=6); Deactivator | Wildcard max 1; counts as Crosier and Order Sergeant |
+| 2 | 26 | 0 | AP SMG, Flammenspeer, D-Charges, Boarding Pistol, CCW (PS=6); Surprise Attack (-3), Hidden Deployment, Infiltration | — |
 
 ### Knight Hospitaller Kyle Hawkins
 
