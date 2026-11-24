@@ -40,6 +40,10 @@
 
 **S-tier dual-use active/reactive gunfighter.** B1+1SD reactive (roll two, retain one; the printed +1B is active-only for this non-Neurocinetics gun), active B3+1SD AP+DA or B2+1SD EXP. Against heavy armor select AP+DA; select EXP blast mode when appropriate, without inferring a template from a mode name alone. MSV1/Mim-3, mines, Climbing Plus and NCO make this a useful attacking model that can selectively cover a lane afterward, rather than a static turret. The Bolt MSR FT2 has better shot numbers into cover and longer positive range; Black A.I.R. has two retained ARO shots and MSV2. Karhu is preferable for general-purpose active work, anti-armor and mobility. Default 58/1.5 Paramedic Duo for wound recovery and mines, 59/1.5 Engineer for TAG/REM repair and scoring; 56/1.5 basic matching Duo if points tight. Keep the fragile W1 gun from unnecessary apex active engagements.
 
+### Engineer comparison — user-approved priorities (24 November 2026)
+
+**A+ — best conventional combat Engineer.** Engineer25/0 is worthwhile for MSV1, Mim-3, 6-2 MOV, Climbing Plus, MULTI Rifle, Blitzen, D-Charges and NCO even if no repair is needed. WIP12 = 60% contact repair or 84% with one eligible Remote Presence Command Token reroll. The **59/1.5 matching Feuerbach + Engineer FT2 Duo** shares climbing and movement, gains +1SD, and offers technical recovery and scoring. Engineer repairs STR and can clear eligible disabling states on the W1 Karhu, but cannot restore its ordinary VITA wounds; choose the 58/1.5 Paramedic Duo for that purpose and AP Mines. Engineer has no AP Mines. Independent Karhu + Palbot = 28/0; controlling a Palbot precludes Fireteam membership. NCO consumes available LT Orders rather than generating its own; Blade FTO23 is preferable for independent TA economy, Machinist15 for inexpensive pure repair.
+
 ## Original WinterFor analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
