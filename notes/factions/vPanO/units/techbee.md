@@ -1,12 +1,12 @@
 # Tech-Bees — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/techbee.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/techbee.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams and independent synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** this unit is not listed in either corrected vanilla Fireteam family and remains independent. Sectorial-only permissions do not transfer.
 
 ## Pinned vanilla profiles
 
@@ -19,6 +19,10 @@
 ## Vanilla selection and use
 
 9/0 Regular specialist with Deployable Repeater and TAGCom. Supports eligible same-group Tikbalang, Cutter, Squalos and Maximus TAG per printed TAGCom and rules; not Redeye VH or ordinary REM. Cheap independent scoring/network utility, not Engineer replacement.
+
+### TAG support / Engineer comparison — user-approved priorities (24 November 2026)
+
+**S-tier conditional on a same-group TAG; not an actual Engineer.** 9/0 Regular Specialist Operative with TAGCom [Dodge (PH+3), GizmoKit (PH+1)], GizmoKit, Deactivator, Adhesive Launcher Rifle, Flash Pulse and Deployable Repeater. TAGCom benefits eligible same-group TAGs while Tech-Bee is deployed and not Null; no benefit to REMs or Redeye VH. A TAG with printed GizmoKit PH13 rolls PH14 (70%) for contact GizmoKit under TAGCom; ranged application also needs a successful BS roll. GizmoKit failures inflict a wound, and Engineer-specific Command Token rerolls do not apply. Tech-Bee cannot control a Palbot or generally clear Isolated/Immobilized via Engineer; special Tech-Recovery interactions are target-specific. She complements a Machinist + Palbot (combined 27/0) rather than replacing the recovery network, especially with multiple TAGs. Keep her safe, in the TAG's group, and use cheap scoring/denial tools when needed. Independent only in the corrected vanilla chart.
 
 ## Original kestrel analysis — retained reference copy
 
