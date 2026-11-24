@@ -31,6 +31,10 @@
 
 Preferred Haris when MSV2 and Blade utility are wanted: HMG + BSG + Engineer. Three Regular Orders while operational, two Blade Tactical Orders, all Mim-3, close protection, AP SMG and D-Charges/Engineer utility. Each TA Order activates the Fireteam only with its own Blade as leader; it is not a free Nisse HMG attack. The Haris consumes the only Haris slot, has three W1 bodies and costs 15–26 more than preferred Bolt/Karhu Duos. Solo HMG remains strong when no Haris is justified. Use Disco Baller/Eclipse to cross lanes, not to shoot through Eclipse.
 
+### ARO Haris — A+ with purposeful partners
+
+MSR29/1.5 solo B1 or FT2 B1+1SD; MSV2/Mim-3 lets it fight ordinary Smoke and Mimetism. One Nisse max per Family II team, so any mixed Duo is FT1. In a Haris two matching other members grant +1SD to all three, including Nisse. Defensive packages: Nisse MSR + two Helot FTO LRL49/1.5, + LRL and Shock MMR50/1.5, + two MMR51/1.5 (Joan regularization elsewhere supports these); or Nisse MSR + Blade FTO BSG20 + Engineer23 =72/1.5, or + Bolt BSG19 + KHD22 =70/1.5. Helots are cheap high-Burst defenses; maintain legal training/coherency and do not automatically tether an attacking Nisse HMG to static Helots. Black A.I.R.33/1.5 remains preferable as a dedicated solo sniper with B2; use Nisse MSR Haris when its partners already justify the sole Haris slot and active B2+1SD matters.
+
 ## Original WinterFor analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
