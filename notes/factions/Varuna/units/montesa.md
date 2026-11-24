@@ -4,6 +4,8 @@
 
 **Sources:** [Pinned Varuna roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Fireteams](../varuna-fireteams.md) · [Listbuilding](../varuna-listbuilding.md) · [Source faction analysis](../../MO/units/knight-montesa-foot.md). Reviewed 24 November 2026; tactical judgments are provisional.
 
+**Current dedicated analysis:** [Foot Montesa](montesa-foot.md). This file retains the prior Varuna and MO reference material.
+
 ## Varuna differences
 
 AVA2 versus MO1, same four costs. Varuna prints BS Attack (+1SD) rather than MO SR-1. FTO option5 counts as Undertow max2; separate Forward Montesa Duo is exactly two foot Montesas, no FTO restriction.

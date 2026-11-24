@@ -4,7 +4,7 @@ Unit notes combine original Varuna tactical analysis with pinned N5.3 profile/Fi
 
 - [Zulu-Cobra](zulu-cobra.md)
 - [Kamau](kamau.md)
-- [Knights of Montesa (foot)](montesa.md)
+- [Knights of Montesa (foot)](montesa-foot.md) — [retained reference](montesa.md)
 - [Motorized Montesa](montesa-moto.md)
 - [Varuna ORCs](orc.md)
 - [Helots](helots.md)

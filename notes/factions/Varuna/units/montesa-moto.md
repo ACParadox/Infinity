@@ -23,7 +23,59 @@ AVA2, four options match MO/Acon. Cavalry Duo required-choice max2 instead of Ve
 
 - BSG Paramedic23/0 default: W2, MOV8–6in, MA2, Mimetism(-3); only +2pts above plain BSG21. Red Fury29/1 or MULTI26/0 dedicated gun choices.
 - Two Paramedic bikes46/0 FT2 share movement but sacrifice Impetuous activations while linked. Bike23 + Kamau FO23 = 46/0 FT1 (audited); bike23 + TA Pathfinder17 = 40/0 FT1; Pathfinder can lead using TA.
-- Foot FTO20 cheaper and matches Undertow; FD foot Paramedic26 starts upfield. Bike emphasizes rapid lateral reach. See [foot Montesa](montesa.md).
+- Foot FTO20 cheaper and matches Undertow; FD foot Paramedic26 starts upfield. Bike emphasizes rapid lateral reach. See [foot Montesa](montesa-foot.md).
+
+## Expanded Varuna tactical analysis
+
+**Rating: A+ for 23/0 Paramedic; A for 21/0 BSG; A− for 29/1 Red Fury; B for 26/0 MULTI Rifle.** One bike is high-priority collection coverage; a second is optional. The [dedicated foot analysis](montesa-foot.md) covers the separate S2 unit.
+
+### Independent role
+
+- 23/0 Paramedic buys MediKit and specialist eligibility for only two points over the otherwise identical basic BSG. Fast late scoring, flanking, CC23/MA2/DA and AP close shooting; not a Doctor.
+- 21/0 basic is useful if two points cannot be found or specialist capacity is genuinely redundant.
+- 29/1 Red Fury provides B4 and favorable 8–24in engagement range for sustained flanking. Varuna has many conventional gunfighters; take only for a distinct second attack vector.
+- 26/0 MULTI Rifle adds B3 and midrange ammo flexibility at zero SWC but costs more than the Paramedic, loses specialist status and overlaps BSG AP.
+- Optional independent Impetuous activation can cover 35 cm (14in) with legal unobstructed Move + Move. Normal Regular Order still goes into the pool. Activation is constrained by legal declarations and movement priorities; decline unsafe routes.
+- ARM4/BTS6/W2, Mim(−3), Dodge (+2.5 cm/1in) and Shock Immunity are excellent value. Limited Cover removes normal enemy Partial Cover BS penalty, not applicable saving bonuses. S4 geometry, Motorcycle movement constraints and Hackable HI are real drawbacks. No native foot +1SD or Blitzen on the bike.
+- Varuna lacks cheap smoke support; use a Kamau, ORC or Cutter to open a route rather than expose the bike to multiple AROs.
+
+### Mobility and alternatives
+
+Nominal maximum distance in cm beyond the deployment edge, assuming legal unobstructed Move + Move and maximal deployment, excluding Impetuous:
+
+| Variant | Start | 1 Order | 2 Orders |
+|---|---:|---:|---:|
+| Foot FTO | 0 | 20 | 40 |
+| Foot FD | 20 | 40 | 60 |
+| Moto | 0 | 35 | 70 |
+
+FD matters before Turn 1, especially going second; the bike overtakes on clear ground. Foot S2 has much better tight/vertical terrain access.
+
+| Unit | Pts / SWC | MOV cm | BS | ARM/BTS/W or STR | Utility |
+|---|---:|---|---:|---|---|
+| Moto BSG Paramedic | 23 / 0 | 20–15 | 13 | 4/6/2 | Mim(−3), CC, Impetuous, specialist |
+| Bulleteer HSG (+1B) | 19 / 0 | 15–10 | 12 | 1/3/1 | Mim(−6), Repeater, Remote Presence |
+| Pathfinder TA | 17 / 0 | 15–10 | 11 | 0/3/1 | FO, Sensor, Repeater, Tactical Awareness |
+
+Bulleteer is a better cheap conventional MOD-based gunfighter, Pathfinder is a better order/network utility piece, Montesa is more durable and faster for independent objectives and close combat.
+
+### Cavalry Duo — audited examples
+
+Motorized Montesa or Squalos Mk-II is a required-choice anchor (max 2 each); Kamau and Bulleteer max 1 each, plus eligible Wildcards. Mixed pairs normally have FT1, not FT2. No bike in Undertow or Forward Montesa.
+
+| Composition | Pts / SWC | FT level | Use |
+|---|---:|---:|---|
+| 2 Moto Paramedics | 46 / 0 | 2 | Shared movement, two scorers |
+| Moto Red Fury + Moto Paramedic | 52 / 1 | 2 | Best dedicated offensive Duo |
+| Moto Paramedic + Pathfinder TA | 40 / 0 | 1 | Sensor, two specialists, TA leader activation |
+| Moto Paramedic + Bulleteer HSG | 42 / 0 | 1 | Short-range pressure |
+| Moto Paramedic + Bulleteer Spitfire | 45 / 1 | 1 | Midrange gun plus close scorer |
+| Moto Paramedic + Kamau FO | 46 / 0 | 1 | Sensor and varied specialist roles |
+| Moto Paramedic + Squalos MULTI HMG NCO | 89 / 1.5 | 1 | TAG and fast scorer; TAG has TA |
+
+FT2 supplies +1SD, not extra Burst. Mixed teams share activation without SD; a slower partner and S2/S4 terrain mismatch constrain movement. A TA owner may lead and spend its Tactical Order on its team. Independent bikes preserve their separate optional Impetuous activations; a bike using one leaves its team, cancelling a two-member Duo. Generally deploy solo unless both models need the same attack route.
+
+**Final selection:** start with one 23/0 Paramedic, optionally a second for separate flanks or a deliberate FT2 pair. Prioritize the foot FTO for Undertow; do not buy the bike merely as a Fireteam body.
 
 ## Original MO analysis — retained reference copy
 
