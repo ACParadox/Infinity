@@ -1,12 +1,12 @@
 # Bulleteer Armbots — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/bulleteer.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/bulleteer.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in MO → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo or Family II Duo/Haris (max 2 Bulleteers per team); matching pair grants FT2. Bulleteer + Blade FTO Engineer is mixed FT1.
 
 ## Pinned vanilla profiles
 
@@ -19,7 +19,7 @@
 
 ## Vanilla selection and use
 
-AVA2, same two options; no Velox/Order Sergeants/Cavalry or other link. 19/0 HSG(+1B) or 22/1 Spitfire gives inexpensive Mimetism(-6) gun. Pilot-X fixed BS13/PH13/BTS6 makes a suitable attack REM; nearby Engineer repair, independent activations. Compare Peacemaker forward screen.
+**A-tier economical secondary attack.** Heavy Shotgun(+1B)19/0 or Spitfire22/1, Mim-6, Repeater and speed. Two matching Bulleteers (Spitfire + HSG = 41/1) form FT2 Duo; Spitfire + Blade FTO Engineer23/0 = 45/1 FT1 Duo for mobile repair/support. Pilot-X fixed BS13/PH13/BTS6 support where eligible. Fragile ARM1/1STR, hacking/large silhouette risks; use as expendable alternative rather than premium frontal attack. No sectorial Velox/Order Sergeant permissions.
 
 ## Original MO analysis — retained reference copy
 

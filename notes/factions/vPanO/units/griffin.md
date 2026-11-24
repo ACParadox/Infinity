@@ -1,12 +1,12 @@
 # Griffin Troops — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/griffin.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/griffin.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo, up to 2 Griffin; matching pair grants FT2 +1SD, mixed FT1.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,7 @@
 
 ## Vanilla selection and use
 
-HMG37/1.5 or Feuerbach38/1.5 are durable independent MSV1 guns, but lose linked Eclipse/support. HMG LT37/1 saves SWC at command risk. Compare Karhu Feuerbach34/1.5, Swiss56 and TAGs; AVA2.
+**A+ durable alternative.** HMG37/1.5 (or LT37/1), Feuerbach38/1.5, BS14/MSV1, two Wounds/ARM4/BTS6, Pulzar. Matching HMG + MULTI Rifle31/0 is 68/1.5 FT2 Duo; HMG B4+1SD. More resilient than Karhu/Nisse/Bolt but no Mim, Marksmanship, TA or NCO; second Griffin lacks specialist capability. Prefer Bolt/Karhu Duos for economical role compression unless two durable HI bodies specifically matter. ORC HMG generally displaced by Griffin.
 
 ## Original kestrel analysis — retained reference copy
 

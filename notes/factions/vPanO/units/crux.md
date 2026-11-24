@@ -1,12 +1,12 @@
 # Team Crux Father-Knights — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/crux.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/crux.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; FTO label alone is not permission. Retains native BS Attack (+1SD).
 
 ## Pinned vanilla profiles
 
@@ -25,7 +25,7 @@
 
 ## Vanilla selection and use
 
-47/0 Hidden Deployment specialist or 48/0.5 turret option for asymmetric pressure; 46/0 FTO MMR retains lower price but no link; 49/1.5 Spitfire and 50/0 Strategic Deployment need independent justification. No sharing orders or team deployment benefits.
+**A-tier gunfighter specialist / anti-MSV.** Native +1SD and Albedo(-6) on all profiles; 46/0 FTO MMR is an efficient zero-SWC midrange specialist despite no link. 49/1.5 Spitfire offers higher Burst; 54/0 FD MMR, 47/0 hidden AP SMG or 48/0.5 turret profile for forward/ambush plans. Swiss HMG is stronger generic long gun; Bolt/Karhu cheaper linked precision. No shared activation or imported Kestrel deployment bonuses.
 
 ## Original kestrel analysis — retained reference copy
 

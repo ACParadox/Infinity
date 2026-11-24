@@ -1,12 +1,12 @@
 # Black A.I.R. — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/black-air.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/black-air.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent despite FTO labels.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,7 @@
 
 ## Vanilla selection and use
 
-Neurocinetics MSV2 sniper33/1.5 is strong independent ARO; K1 FO29/0.5 for armored targets, HD26/0.5 and DZ parachutist KHD31/0 situational. No linked FTO benefits; AVA1. Compare Nisse MSV2 sniper29 and Helot budget ARO.
+**A-tier role-specific gunfighter/ARO.** K1 MMR FO29/0.5 gives MSV2, Mim-3, specialist and anti-armour; MSV2 Neurocinetics sniper33/1.5 is strong dedicated independent ARO, not sustained active gun. HD26/0.5 and DZ parachutist KHD31/0 situational. Bolt MSV1 MSR FT2 is often preferred dual-use long gun; Nisse HMG/MSR counters Mim-6 more directly. AVA1.
 
 ## Original kestrel analysis — retained reference copy
 

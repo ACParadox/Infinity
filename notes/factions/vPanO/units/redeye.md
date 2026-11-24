@@ -1,12 +1,12 @@
 # Redeye Close Air Support Squad — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/redeye.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/redeye.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -19,7 +19,7 @@
 
 ## Vanilla selection and use
 
-37/1.5 Blitzen or 38/1.5 GL gives independent Aerial movement and Mimetism(-6); AVA1. Vehicle, not TAG, so no TAGCom; plan Tech-Recovery/Engineer and separate Sensor utility. Compare Swiss and Tik as alternative asymmetric attackers.
+**A+ flank gun / strong secondary attacker.** 37/1.5 Blitzen default or 38/1.5 Continuous Damage GL; BS14/Mim-6, Aerial/Jet Propulsion, Sensor and 2STR. No Cover, large S7 and hacking exposure make it less reliable in frontal HMG duels. Use geometry against exposed support rather than as main long gun; no TAGCom (Vehicle, not TAG). Compare Swiss/Tik and cheaper linked gun packages; AVA1.
 
 ## Original kestrel analysis — retained reference copy
 

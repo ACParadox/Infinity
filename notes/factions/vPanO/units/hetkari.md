@@ -1,12 +1,12 @@
 # Hetkari Shooters — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/hetkari.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/hetkari.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,7 @@
 
 ## Vanilla selection and use
 
-47/1.5 ML or 48/1.5 MULTI Red Fury are powerful standalone Marksmanship/Combat Instinct HI, no linked bonuses. LT variants expose command; Swiss HMG56 and Cutter or Squalos compete as primary attack pieces. AVA1.
+**A+ situational midrange assault.** MULTI Red Fury48/1.5 is preferred pure active gun with Marksmanship, Combat Instinct, BS14 and 2W/ARM5; ML47/1.5 for selective explosive ARO. No visual modifier or linked bonus; strong suppression after attack. Joan v2 brings TA/AP/command, Crux native +1SD and specialist, while Bolt Spitfire/MSR Duos offer cheaper precision. LT variants expose command; AVA1.
 
 ## Original kestrel analysis — retained reference copy
 

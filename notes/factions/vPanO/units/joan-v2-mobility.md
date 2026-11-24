@@ -1,12 +1,12 @@
 # Joan of Arc v2 (Mobility Armor) — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/joan-v2-mobility.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/joan-v2-mobility.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in MO → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family II Duo/Haris (max 1 Joan v2), including Joan + 2 matching Helot FTOs FT2 Haris. No Core or sectorial-only links.
 
 ## Pinned vanilla profiles
 
@@ -26,7 +26,7 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ## Vanilla selection and use
 
-Same five options and AVA1. LT45/1 AP Spitfire with TA and Inspiring Leadership is core vanilla economy architecture; 49/1 +1 Command Token conditional. No Haris or linked Strategic Deployment payoff. Eligible non-Religious Irregulars benefit; protected CoC separate from attack footprint. Only one Joan; v1 offers +1 SWC LT and heavier armor.
+**A+ active midrange assault / command engine.** LT45/1 AP Spitfire with TA, BS15, X Visor, Inspiring Leadership and 2W+NWI; 49/1 +1 Command Token conditional. Joan + two Helot FTO LRL is 65/1 FT2 Haris; +1SD applies to Joan too, though Helots constrain mobile assault. Other matching chart-eligible partners may grant FT2. TA activates the team with Joan as leader. Eligible non-Religious Irregulars benefit from Inspiring Leadership; keep CoC separately protected. Only one Joan. No persistent Mimetism; Swiss/TAG better generic long-range shooters.
 
 ## Original MO analysis — retained reference copy
 
