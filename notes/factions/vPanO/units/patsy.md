@@ -8,7 +8,7 @@
 
 - **AVA:** 1 in Varuna → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo, Family II Duo/Haris, max one Patsy. Counts as Orc or Helot in Family II.
 
 ## Pinned vanilla profiles
 
@@ -21,6 +21,10 @@
 ## Vanilla selection and use
 
 Same34/0 FO NCO HI. Without Varuna's Helot/Undertow link and FT Master application she loses the distinctive team architecture. Joan's eligible Irregular conversion does not require Patsy. Independent NCO specialist is viable, but Karhu, Firefly, Teutonic and cheaper forward specialists compete; skip by default unless durable close-range FO/NCO toolkit is specifically needed.
+
+### Linked defensive ARO — conditional, not mandatory
+
+Family I Duo or Family II Duo/Haris; counts as Orc or Helot in Family II. Patsy34/0 + FTO LRL10/0 + FTO Shock MMR11/0 =55/0 FT3 Haris (54/0 with two LRL). Helots have B2+1SD LRL or B3+1SD MMR. FT Master makes linked members Regular at Order Count while she is part of the team; if she leaves a team containing Helots, it cancels. With Joan LT, a separate 21/0 Helot Duo is more economical and leaves Joan free to attack; no Patsy purchase needed merely to regularize Helots. Static turret defense also competes with Patsy's mobile NCO/FO role. Preserve Skip by default, conditional niche without Joan.
 
 ## Original Varuna analysis — retained reference copy
 
