@@ -25,6 +25,9 @@
 
 **A+ situational midrange assault.** MULTI Red Fury48/1.5 is preferred pure active gun with Marksmanship, Combat Instinct, BS14 and 2W/ARM5; ML47/1.5 for selective explosive ARO. No visual modifier or linked bonus; strong suppression after attack. Joan v2 brings TA/AP/command, Crux native +1SD and specialist, while Bolt Spitfire/MSR Duos offer cheaper precision. LT variants expose command; AVA1.
 
+### Revised ARO role
+ML47/1.5 is B-tier dedicated ARO: BS14, Marksmanship, Combat Instinct and two wounds are credible but B1, no Mim, MSV or +1SD, and no vanilla link. Bolt ML FT2 is substantially cheaper as a gun, Karhu FT2 adds stronger active role, and Swiss ML adds native +1SD and hidden pressure. Prefer MULTI Red Fury for active assault; do not buy ML for a routine static lane.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
