@@ -262,12 +262,16 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 **ID 1903 · AVA 1 Team**. A Pilot-X Team contains one Pilot-X and zero to two RacerBots Mk-III; RacerBots cannot be taken without Pilot-X, and all members must belong to the same Combat Group.
 
-**Pilot-X** — `MOV 10-10 | CC 17 | BS 12 | PH 10 | WIP 13 | ARM 1 | BTS 6 | W 1 | S 2`. Hacking Device (Upgrade: Zero Pain), RemDriver (+1 BS, +5 CC, BTS=6).
+**Pilot-X** — `MOV 10-10 | CC 17 | BS 12 | PH 10 | WIP 13 | ARM 1 | BTS 6 | W 1 | S 2`. Hacking Device (Upgrade: Zero Pain), Immunity (Shock), RemDriver (BS=13, PH=13, BTS=6).
+
+**RacerBot Mk-III** — `MOV 20-10 | CC 13 | BS 11 | PH 12 | WIP 11 | ARM 0 | BTS 3 | STR 1 | S 2 | AVA 2`. 360º Visor, Bangbomb (+4), ECM: Hacker (-3), Courage, Dodge (+5 cm / +2 inches), No Cover, Remote Presence.
+
+**Profile correction (2026-11-24):** user-provided Infinity Army screenshot of the PanO 21/1 profile supersedes the older pinned transcription for this unit; the RemDriver attributes are fixed values, not additive bonuses, and CC is unchanged. Other roster data retains its original source revision.
 
 | Element | Pts | SWC | Loadout / differences |
 |---|---:|---:|---|
 | Pilot-X | 21 | 1 | E/Mitter, Flash Pulse, MULTI Pistol, PARA CCW (-3); Hacker |
-| RacerBot Mk-III | 8 each | 0 | Deployable Repeater, Light Riotstopper, Mine Dispenser (PARA), Stun Pistol, PARA CCW (-6); 360º Visor, Bangbomb (+4), ECM: Hacker (-3), Remote Presence |
+| RacerBot Mk-III | 8 each | 0 | Deployable Repeater, Light Riotstopper, Mine Dispenser (PARA), Stun Pistol, PARA CCW (-6); 360º Visor, Bangbomb (+4), ECM: Hacker (-3), Courage, Dodge (+5 cm / +2 inches), No Cover, Remote Presence |
 
 ### Sierra Dronbot
 

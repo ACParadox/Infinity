@@ -6,7 +6,7 @@
 
 ## WinterFor differences
 
-Same AVA2, HMG 23/1, Thunderbolt (+1B) 18/0 and no Fireteam access as NCA. WinterFor has Agnes Ferreira or Pilot-X RemDriver (+1 BS) as optional support.
+Same AVA2, HMG 23/1, Thunderbolt (+1B) 18/0 and no Fireteam access as NCA. WinterFor has Agnes Ferreira RemDriver (+1 BS, +5 CC per its pinned profile) or Pilot-X RemDriver (fixed BS=13, PH=13, BTS=6; no CC modifier) as optional support.
 
 ## Pinned WinterFor profiles
 
@@ -21,7 +21,7 @@ Same AVA2, HMG 23/1, Thunderbolt (+1B) 18/0 and no Fireteam access as NCA. Winte
 
 - Thunderbolt 18/0: SWC-free Total Reaction 360º lane tax; two were fielded in report #182 with Vargar/Shona and Karhu.
 - HMG 23/1: longer-range B4 option when table and SWC justify it.
-- RemDriver +1 BS and Engineer/Palbot can enhance a Sierra, but do not buy Agnes/Pilot-X solely to buff one fragile bot without other utility. KoJ ML/Nisse cover harder lanes; Fugazi covers budget lanes.
+- RemDriver (Agnes: BS12; Pilot-X: BS13, PH13, BTS6) and Engineer/Palbot can enhance a Sierra, but do not buy Agnes/Pilot-X solely to buff one fragile bot without other utility. KoJ ML/Nisse cover harder lanes; Fugazi covers budget lanes.
 - 0–2 depending on defensive plan; do not expect it to survive dedicated ARO clearing.
 
 ## Original NCA analysis — retained reference copy
