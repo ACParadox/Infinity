@@ -1,6 +1,6 @@
 # Clipper Dronbot — Vanilla PanOceania (Infinity N5.3)
 
-**Verdict: Skip.**
+**Verdict: Niche — Guided missile support for a deliberate hacking/Targeted plan.**
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/clipper-missilebot.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
@@ -21,7 +21,9 @@
 
 ## Vanilla selection and use
 
-16/1.5 Guided requires a deliberate Spotlight network (Pilot-X, Fennec HD, Locust/Croc HD); 19/1.5 FTO is independent direct-fire gun with +1B active, no link. Usually skip absent a missile plan; Helots/Sierra offer cheaper defense.
+**16/1.5 Guided — niche pick.** Consider when the list already has a credible Spotlight network (Pilot-X, Fennec HD, Locust/Croc HD, Blocker Pitcher and other repeater support). Guided adds an alternative attack vector against protected or difficult-to-engage targets, rather than replacing PanO's conventional gunfighters. Group 2 can spend spare Orders on targets marked by Group 1. Tau24's [Atlantique Rim](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhDkF0bGFudGlxdWUgUmltgSwCAQEACQGG1gECAAKHCwEJAAMmAQEABIdSAQEABQEBAQAGAQEKAAeHFAEDAAgMAQEACYOnAQIAAgEABgESAQEAAoXNAQMAA4XNAQQABBMBAQAFEwEBAAaExgEIAA%3D%3D) IGL 2026 list is an example of combining a Cutter NCO, Karhu Duo and Blocker/Scarecrow hacking support with a Group 2 Guided Clipper; inclusion is not evidence of decisive missile kills. Do not force the package into lists without reliable target acquisition or available SWC.
+
+**19/1.5 non-Guided FTO — usually skip.** Independent direct-fire Missile Launcher (+1B), no legal Fireteam. Helots/Sierra generally provide cheaper defense.
 
 ## Original kestrel analysis — retained reference copy
 
