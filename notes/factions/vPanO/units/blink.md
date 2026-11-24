@@ -6,7 +6,7 @@
 
 - **AVA:** 2 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either vanilla family; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -21,6 +21,9 @@
 ## Vanilla selection and use
 
 Hidden Deployment/Camo Mimetism(-6) offers independent ambush; MMR28/0 or HRL28/1.5, sniper32/1.5 situational. AVA1 and no Fireteam. Compare Swiss for durable hidden gun, Croc/Scarecrow for forward mission work.
+
+### Revised ARO role
+HRL28/1.5 is A-tier situational independent ambush: Hidden Deployment, Mim-6, BS13, X Visor, continuous-damage impact template, WildParrot. MSR32/1.5 is a less distinctive B1 alternative. No +1SD; choose HRL for clustered targets and hidden angles, Croc MSR for Infiltration, Swiss ML for premium hidden resilience, or Black A.I.R./linked Bolt for visible defense.
 
 ## Original kestrel analysis — retained reference copy
 
