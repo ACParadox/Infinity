@@ -1,5 +1,7 @@
 # Clipper Dronbot — Vanilla PanOceania (Infinity N5.3)
 
+**Verdict: Skip.**
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/clipper-missilebot.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences

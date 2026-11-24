@@ -1,5 +1,7 @@
 # Joan of Arc — Vanilla PanOceania (Infinity N5.3)
 
+**Verdict: Skip.**
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/joan-v1.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
