@@ -36,6 +36,10 @@
 - **Easy Duo:** Family I, two matching Karhu for FT2 (+1SD). Engineer (59/1.5 total) is the default complementary specialist; Paramedic (58/1.5) adds medical recovery and AP Mines, or basic MULTI Rifle (56/1.5) saves points. A mixed Duo is normally FT1 and may constrain climbing routes. Reserve one of the two available Duo slots for this package when practical.
 - **Selection priority:** take the Feuerbach even if another apex gunfighter or TAG is present, unless points, SWC or the mission require a specific alternative. Its combined active/ARO, anti-armour, mobility and NCO value is the reason for the near-auto-include designation, not any single capability alone.
 
+### ARO role — FT2 Feuerbach
+
+**S-tier dual-use active/reactive gunfighter.** B1+1SD reactive (roll two, retain one; the printed +1B is active-only for this non-Neurocinetics gun), active B3+1SD AP+DA or B2+1SD EXP. Against heavy armor select AP+DA; select EXP blast mode when appropriate, without inferring a template from a mode name alone. MSV1/Mim-3, mines, Climbing Plus and NCO make this a useful attacking model that can selectively cover a lane afterward, rather than a static turret. The Bolt MSR FT2 has better shot numbers into cover and longer positive range; Black A.I.R. has two retained ARO shots and MSV2. Karhu is preferable for general-purpose active work, anti-armor and mobility. Default 58/1.5 Paramedic Duo for wound recovery and mines, 59/1.5 Engineer for TAG/REM repair and scoring; 56/1.5 basic matching Duo if points tight. Keep the fragile W1 gun from unnecessary apex active engagements.
+
 ## Original WinterFor analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
