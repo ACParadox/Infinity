@@ -1,6 +1,6 @@
 # Richard Quinn — Neoterran Capitaline Army (Infinity N5.3)
 
-**Verdict: Strong / situational. Disco Baller FO is the preferred general utility option; Chain of Command is an excellent specialist command-insurance option for aggressive LT lists, but not mandatory.** NCA has no cheap Fennec Disco Baller, making Quinn's Eclipse access relatively more valuable than in Kestrel. His zero-SWC MMR remains a conditional secondary gun.
+**Verdict: Very Good / Very High priority — Disco Baller FO is a soft auto-include (default 1, not mandatory).** NCA has no cheap Fennec Disco Baller: Quinn is the cheapest Eclipse source, a flexible composition-preserving Wildcard, a competent close-range attacker/defender and a WIP13 specialist for 26 points / 0 SWC. Eclipse is valuable insurance even in lists built around independent premium attackers. CoC is situational; MMR is generally skippable.
 
 **NCA authority:** [Pinned roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md#fusilier-indigo-richard-quinn) · [Canonical Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md#fireteams) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md). Copied from [Kestrel Quinn analysis](../../kestrel/units/quinn.md). Reviewed 23 November 2026.
 
@@ -12,7 +12,7 @@ AVA 1 unchanged; ID 1490, Regular LI, MOV 4-4", CC13, BS13, PH10, WIP13, ARM2, B
 |---:|---|---:|---|---|
 | 1 | MULTI Marksman Rifle, FO | 26/0 | Unchanged | Conditional secondary gun |
 | 2 | SMG, E/Mitter, Chain of Command | 24/0 | **Additional NCA profile** | Strong with aggressive LT |
-| 3 | MULTI Rifle, Disco Baller, FO | 26/0 | Unchanged | Preferred general utility |
+| 3 | MULTI Rifle, Disco Baller, FO | 26/0 | Unchanged | Very Good; default pick |
 
 All three are **Wildcard max 1; counts as Fusilier and Bolt**, replacing Kestrel's Fennec/Kestrel equivalence. Quinn can join any native NCA Fireteam family within chart limits, but cannot waive the mandatory native anchor. Only the two FO variants have Forward Observer; the CoC option is itself a specialist via Chain of Command.
 
@@ -20,7 +20,25 @@ All three are **Wildcard max 1; counts as Fusilier and Bolt**, replacing Kestrel
 
 The relative opportunity cost is much better than in Kestrel: no 13-point Fennec FO/Disco exists in NCA. Quinn combines mobile Eclipse projection, WIP13 FO, Flash Pulse, D-Charges, MSV1 and close-range Boarding Pistol protection. He provides the support without needing to make the expensive Aquila FTO the source of Eclipse. Aquila itself remains an alternative when the list also wants its premium MSV3 shooting.
 
-Choose this when Eclipse enables crossings, objective access or safe recovery, particularly in an advancing team. A purely static ARO team rarely needs him unless its position offers useful Eclipse coverage. Baggage can replenish eligible Disposable uses.
+#### Eclipse as insurance for premium attackers
+
+A TAG with excellent long-range firepower or a Camo/Mimetism (-6) Swiss Guard HMG can often solve engagements independently, so Quinn may use his Disco Baller less frequently than in a close/mid-range offensive Fireteam. Nevertheless, a list built around expensive attackers can encounter a counter, an unfavorable range band, a dominant ARO position or a lane that is simply too costly to contest. **Eclipse offers an alternative to winning another gunfight.** Use it to bypass the counter, reposition the attacker, reach an objective or withdraw a valuable piece. Quinn can supply this utility to an independent attacker without being in its Fireteam (the Swiss Guard cannot link), or accompany a TAG in an Ultima Ratio Duo. He is particularly useful for getting Shona, Hannibal, Blade-Ops or other close-range pieces into effective range.
+
+Eclipse blocks MSV as well as ordinary LoF; it is not a smoke-shooting combo with Quinn's own MSV1. The screen appears at the Conclusion step, so it cannot negate AROs already declared during that deployment Order. The Disco Baller has two uses; Baggage can replenish eligible Disposable uses, and a Deactivator can reactivate an existing allied Disco Ball under the normal rules.
+
+#### Not a 26-point Eclipse tax
+
+Even if the Disco Baller is never fired, Quinn still has multiple useful jobs:
+
+- **Composition:** unrestricted Wildcard counting as Fusilier and Bolt; contributes to matching FT levels (FT2 +1 SD on eligible BS Attacks, FT3 Discover/Dodge, FT4 BS and FT5 Sixth Sense). Native anchors still apply.
+- **Close/mid-range attack:** BS13, MSV1 and MULTI Rifle (optimal 0–16", AP/Shock/DA modes); MSV1 counters Mimetism (-3) and reduces Mimetism (-6) to (-3).
+- **Close defense:** Boarding Pistol (+1B) offers B3 hit mode or B2 direct-template mode in the Active Turn (not B2 templates in ARO), plus the MULTI Rifle and Flash Pulse.
+- **Reliability:** ARM2, BTS3, Immunity (ARM) against qualifying ARM-targeting ammunition, and Warhorse (including immunity to BS Attack negative MODs and Isolation). Still W1, no Mimetism or second Wound, and no additional personal Order.
+- **Mission utility:** WIP13 FO, D-Charges and a Regular Order at zero SWC.
+
+CSU and Blocker are cheaper utility bodies; Blade-Ops and Hannibal offer Tactical Awareness; Black Friar is a stronger dedicated anti-visual-tech gunfighter. None supplies Eclipse. Quinn is not necessarily the most efficient choice for any one of those other jobs in isolation, but the combined package makes paying 26 points reasonable.
+
+**List priority:** Very High in mobile Bolt/Fusilier teams, high even with independent TAG/Swiss Guard attackers as insurance, lower in a predominantly static list or where Aquila FTO already provides sufficient Eclipse. Skip only when the opportunity cost is material or there is no practical Eclipse delivery plan.
 
 ### Chain of Command — 24/0 (additional NCA option)
 
@@ -34,7 +52,7 @@ Deploy the CoC carrier separately from the aggressive LT and avoid the same blas
 
 ### MMR FO — 26/0
 
-Retains the original 8–24" MSV1 secondary gun/specialist role. Prefer when Eclipse is covered elsewhere, the team needs the range band and zero SWC matters. In NCA, Black Friar Thunderbolt 24/0 is a strong competing anti-visual-tech gun (MSV2, Albedo), but is not an FO and does not count as Fusilier/Bolt. Quinn is useful for composition and objectives rather than as the army's primary gunfighter.
+Retains the original 8–24" MSV1 secondary gun/specialist role. Generally skip in favor of Disco unless Eclipse is covered elsewhere, the team specifically needs the range band and zero SWC matters. In NCA, Black Friar Thunderbolt 24/0 is a strong competing anti-visual-tech gun (MSV2, Albedo), but is not an FO and does not count as Fusilier/Bolt. Quinn is useful for composition and objectives rather than as the army's primary gunfighter.
 
 ## NCA Fireteam examples
 
@@ -46,12 +64,16 @@ All examples are constructed, not tournament export claims. The named native anc
 | Fusilier Paramedic12 + Blocker Specialist15 + Quinn Disco26 | Fusiliers Core/Haris | 53/0 | 3 |
 | Bolt BSG19 + Quinn Disco26 | Neoterra Duo | 45/0 | 2 |
 | Bolt Spitfire25/1.5 + Quinn Disco26 | Neoterra Duo | 51/1.5 | 2 |
+| Bolt KHD22 + Quinn Disco26 | Neoterra Duo | 48/0 | 2 |
+| Bolt Spitfire25/1.5 + Quinn Disco26 + Blade-Ops FTO Engineer23 | Neoterra Haris | 74/1.5 | 3 |
+| Bolt Spitfire25/1.5 + Quinn Disco26 + Hannibal Strategic Deployment26 | Neoterra Haris | 77/1.5 | 3 |
+| Bolt CoC26 + Quinn Disco26 | Neoterra Duo | 52/0 | 2 |
 | Bolt MSV1 MSR26/1.5 + Quinn CoC24 + Machinist17 | Neoterra Haris | 67/1.5 | 3 |
 | Squalos NCO66/1.5 + Quinn Disco26 | Ultima Ratio Duo | 92/1.5 | 1 |
 
 The Bolt/Quinn Duo is the closest NCA analogue to Kestrel's Griffin/Quinn Duo: a compact scoring and Eclipse package without using Core or Haris. The Squalos Duo trades the extra personal order, mobility and Sensor of a 17-point TacAware Pathfinder for Eclipse and a smaller S2 FO; choose according to mission and terrain.
 
-**Recommended quantity: 0–1.** Choose Disco for actual movement utility, CoC for genuine aggressive command risk, and MMR for a specific 8–24" shooting/FO requirement. The AVA1 restriction forces a choice; do not count on Quinn to provide both CoC and Eclipse.
+**Recommended quantity: 1 by default (0–1 legal; soft auto-include).** Prefer Disco even when a premium attacker is expected to do most of the shooting; treat Eclipse as a contingency capability rather than something that must be used every game. For aggressive LT lists, Bolt CoC + Quinn Disco often preserves both roles and composition; choose Quinn CoC instead only when the trade-off makes sense. MMR is a niche alternative. AVA1 prevents taking both Quinn profiles.
 
 ## Original Kestrel analysis — retained reference copy
 
