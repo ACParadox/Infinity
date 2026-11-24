@@ -8,7 +8,7 @@
 
 - **AVA:** 5 in NCA → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo and Family II Duo/Haris; max 2 ORCs per team. Matching ORCs grant FT2; Patsy counts as Orc in Family II.
 
 ## Pinned vanilla profiles
 
@@ -28,7 +28,11 @@
 
 ## Vanilla selection and use
 
-AVA2 versus NCA5. Generic options only; not Varuna Stealth/Warhorse or WinterFor Climbing Plus versions. BSG Firewall27/0 loses shared Fireteam protection, so basic26/0 is more competitive when solo; HMG34/1.5 and Feuerbach35/1.5 lack asymmetric mods compared to Karhu/Nisse/Swiss. HMG LT34/1 saves SWC but exposes command.
+AVA2 versus NCA5. Generic options only; not Varuna Stealth/Warhorse or WinterFor Climbing Plus versions. BSG Firewall27/0 provides shared protection in an eligible link; basic26/0 is cheaper when solo; HMG34/1.5 and Feuerbach35/1.5 lack asymmetric mods compared to Karhu/Nisse/Swiss. HMG LT34/1 saves SWC but exposes command.
+
+### Feuerbach ARO — viable link, still Skip by default
+
+Feuerbach35/1.5 + BSG26/0 =61/1.5 FT2 Duo (Family I or II); BSG Firewall27/0 yields 62/1.5. B1+1SD ARO, B2+1SD active AP+DA, BS14/ARM4/W2. Patsy counts as Orc in Family II. Fireteam access improves the unit and makes the Firewall useful for linked protection, but the gun lacks MSV, Mim, Marksmanship, NCO and asymmetric advantages of Karhu/Bolt. Griffin has MSV1 and BTS6. Retain the established Skip recommendation; consider only for a deliberate durable HI package.
 
 ## Original NCA analysis — retained reference copy
 
