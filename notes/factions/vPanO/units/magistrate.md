@@ -6,7 +6,7 @@
 
 - **AVA:** 2 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams:** Magistrate is not listed in either corrected vanilla family; remains independent. Kestrel Jackal/FT Master synergy does not transfer.
 
 ## Pinned vanilla profiles
 
@@ -23,7 +23,7 @@
 
 ## Vanilla selection and use
 
-**Revised command priority:** S Strategos LT19/0, S standalone CoC21/0. Vanilla has no Jackals; the Kestrel linked Order engine does not transfer. With a strong dedicated NCO (especially Karhu Feuerbach/Engineer Duo), prefer Fusilier LT10 + identical decoy10: two pooled Regular Orders plus one LT Order for NCO vs Magistrate's one pooled + one LT Order. The Magistrate saves one trooper slot and one point, offers Counterintelligence, extra reserve flexibility and WIP13 Specialist Operative, and can convert the LT Order to a Regular Order when no NCO activation is wanted. Conversion and NCO use are mutually exclusive. AVA1 prevents using both Magistrate command profiles. CoC is the default independent insurance for exposed Joan/Tik/Maximus, but Bolt CoC26 is S in a defensive FT2 sniper Duo (52/1.5); five points over standalone sniper + Magistrate buys +1SD, close defense and Warhorse at the cost of Counterintelligence and specialist. MMR CoC25 is situational; keep passive CoC out of danger.
+**Revised command priority:** S Strategos LT19/0, S standalone CoC21/0. Vanilla has no Jackals; the Kestrel linked Order engine does not transfer. With a strong dedicated NCO (especially Karhu Feuerbach/Engineer Duo), prefer Fusilier LT10 + identical decoy10: two pooled Regular Orders plus one LT Order for NCO vs Magistrate's one pooled + one LT Order. The Magistrate saves one trooper slot and one point, offers Counterintelligence, extra reserve flexibility and WIP13 Specialist Operative, and can convert the LT Order to a Regular Order when no NCO activation is wanted. Conversion and NCO use are mutually exclusive. AVA1 prevents using both Magistrate command profiles. User preference: Combi CoC21 is the default independent insurance for exposed Joan/Tik/Maximus; Bolt CoC26 in a defensive FT2 sniper Duo (52/1.5) is the other preferred option; five points over standalone sniper + Magistrate buys +1SD, close defense and Warhorse at the cost of Counterintelligence and specialist. MMR CoC25 is situational; Firefly CoC is niche, not a default alternative. Keep passive CoC out of danger.
 
 19/0 Strategos LT or 21/0 CoC are key command options. AVA1 means cannot buy both Magistrate versions; no Jackals on vanilla roster, FT Master not a live engine. Strategos conversion and NCO spending same LT Order are alternatives. CoC for Joan/Tik LT, Strategos for independent Swiss/TAG.
 

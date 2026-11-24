@@ -6,7 +6,7 @@
 
 - **AVA:** 5 in kestrel → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** Fireflies are not listed in either corrected vanilla family; they remain independent. Kestrel linked-order recommendations do not transfer. Personal NCO Orders cannot activate other independent models.
 
 ## Pinned vanilla profiles
 
@@ -24,11 +24,11 @@
 
 ## Vanilla selection and use
 
-**CoC23/0: A standalone NCO alternative.** For two points over Magistrate CoC21, gain NCO, ARM2/BTS6, Panzerfaust, AP Mine and D-Charges but lose Counterintelligence and generic Specialist Operative. Prefer Magistrate for passive independent CoC or Bolt CoC in the defensive sniper Duo. Engineer23 and Minelayer24 are more compelling NCO utility if the army already has command protection. Strong Karhu or TAG NCO usually spends the LT Order first; do not count it twice. Firefly remains independent under the corrected vanilla chart.
+**CoC23/0: situational / not preferred (user-refined).** For two points over Magistrate CoC21, gain NCO, ARM2/BTS6, Panzerfaust, AP Mine and D-Charges but lose Counterintelligence and generic Specialist Operative. Prefer Magistrate21/0 for passive independent CoC or Bolt CoC in the defensive sniper Duo52/1.5. NCO activity can expose the very model intended to protect succession; only choose this CoC when the distinct Firefly loadout is specifically needed. Engineer23 and Minelayer24 are more compelling NCO utility if the army already has command protection. Strong Karhu or TAG NCO usually spends the LT Order first; do not count it twice. Firefly remains independent under the corrected vanilla chart.
 
 **HD 24/0.5 — C / usually skip in vanilla.** WIP13/BTS6, NCO, Albedo and Immunity (Shock) are useful, but Pilot-X offers stronger primary-Hacker role compression, Fennec is much cheaper for redundancy, and Locust provides forward HD/Pitcher access. NCO alone does not justify this premium, especially with competing NCO users and no Fireteam to move. This downgrade applies to the Hacker profile only; Engineer, Minelayer and CoC are assessed separately.
 
-Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 competes with Magistrate21/0 and Bolt26/0. Repeater19/0 loses its strong linked budget-glue role. AVA2; choose genuine tool rather than support that requires shared movement.
+Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 is niche behind Magistrate21/0 and the Bolt sniper/CoC Duo. Repeater19/0 loses its strong linked budget-glue role. AVA2; choose genuine tool rather than support that requires shared movement.
 
 ## Original kestrel analysis — retained reference copy
 

@@ -27,7 +27,7 @@
 
 ## Vanilla selection and use
 
-**CoC26/0 is S-tier in the defensive MSV1 MULTI Sniper Duo (52/1.5, FT2).** Keep the CoC in Total Cover and coherency, protecting the sniper's rear/flanks against AD and close attacks with Combi Rifle, Light Shotgun and Drop Bears (not Minelayer). Warhorse protects against Isolation; Immunity (Shock) and BTS6 also help. The sniper gains B1+1SD in ARO and B2+1SD active while both produce Regular Orders. Compared with solo sniper26 + Magistrate CoC21 (47/1.5), five extra points buy FT2 and close-range defensive utility, losing Counterintelligence and Specialist Operative. Prefer this package when protecting an aggressive Joan/Tik/Maximus LT; avoid putting the succession model in the same attack footprint as the LT. CoC is B standalone. LT21 is normally skip compared with double Fusilier20 or Magistrate19. KHD remains the preferred partner if command insurance is unnecessary.
+**User-preferred CoC: S-tier in the defensive MSV1 MULTI Sniper Duo (52/1.5, FT2); Magistrate is the preferred standalone alternative.** Keep the CoC in Total Cover and coherency, protecting the sniper's rear/flanks against AD and close attacks with Combi Rifle, Light Shotgun and Drop Bears (not Minelayer). Warhorse protects against Isolation; Immunity (Shock) and BTS6 also help. The sniper gains B1+1SD in ARO and B2+1SD active while both produce Regular Orders. Compared with solo sniper26 + Magistrate CoC21 (47/1.5), five extra points buy FT2 and close-range defensive utility, losing Counterintelligence and Specialist Operative. Prefer this package when protecting an aggressive Joan/Tik/Maximus LT; avoid putting the succession model in the same attack footprint as the LT. CoC is B standalone. LT21 is normally skip compared with double Fusilier20 or Magistrate19. KHD remains the preferred partner if command insurance is unnecessary.
 
 **Verdict: S+ listbuilding value / must-have.** MSV1 MULTI Sniper 26/1.5 is the default long-range precision gun and ARO, not merely a reactive piece. Spitfire25/1.5 is A+ for sustained midrange active fire. Marksmanship ignores Partial Cover's BS penalty (not its save bonus); Warhorse ignores enemy BS Attack (-X) and protects against Isolation; sniper MSV1 cancels Mim-3 and reduces Mim-6 to -3. FT2 adds one Special Die, not retained Burst: active B2+1SD or ARO B1+1SD for MSR, B4+1SD active Spitfire. At positive range into cover the sniper rolls on 16/16/13 vs no Mim/Mim-3/Mim-6 before other MODs. W1/ARM2/no defensive Mimetism limits attrition.
 
@@ -40,7 +40,7 @@
 | Spitfire + KHD | 47/1.5 | FT2 Duo | Mobile midrange B4 attack |
 | MSR + Spitfire + KHD | 73/3 | FT3 Haris | Two complementary guns and specialist; uses sole Haris |
 
-Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latter's partners are independently wanted. CoC competes with Magistrate and Firefly; do not buy filler just to obtain +1SD.
+Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latter's partners are independently wanted. Prefer the Bolt CoC in this defensive Duo or the standalone Magistrate; Firefly CoC is niche. Do not buy filler just to obtain +1SD.
 
 ## Original NCA analysis — retained reference copy
 

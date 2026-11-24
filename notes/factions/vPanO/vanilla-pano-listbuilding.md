@@ -976,12 +976,14 @@ Double Fusilier yields one more recurring usable Order with NCO than Magistrate 
 
 ### Chain of Command choices
 
+**User preference: take either the Bolt MSV1 sniper + CoC FT2 defensive Duo or the standalone Combi Magistrate.** Do not add Firefly CoC by default; choose it only for a specific independent NCO/loadout requirement. The two preferred packages are alternatives, not a requirement to field both.
+
 | CoC | Pts/SWC | Assessment |
 |---|---:|---|
-| Magistrate Combi | 21/0 | S standalone; Counterintelligence and specialist; AVA1 excludes Strategos LT |
-| Firefly | 23/0 | A; NCO, AP Mine/Panzerfaust, BTS6; no Counterintelligence |
+| Magistrate Combi | 21/0 | **S preferred standalone**; Counterintelligence and specialist; AVA1 excludes Strategos LT |
+| Firefly | 23/0 | Situational / not preferred; NCO, AP Mine/Panzerfaust, BTS6; no Counterintelligence or eligible link |
 | Magistrate MMR | 25/0 | B+ conditional; usually keep CoC hidden |
-| Bolt | 26/0 | S in defensive FT2 MSR Duo; B standalone |
+| Bolt | 26/0 | **S preferred in defensive FT2 MSR Duo**; B standalone |
 | Joan v2 | 45/1.5 | B− niche combat successor; leadership only when actual LT |
 | Joan v2 Strategic Deployment | 51/1.5 | Normally skip; expensive conditional forward team |
 | Joan v1 (ordinary / Strategic Deployment) | 47/0 or 53/0 | Skip |

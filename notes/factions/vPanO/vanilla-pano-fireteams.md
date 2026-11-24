@@ -15,12 +15,12 @@
 |---|---|---|---:|---|
 | Karhu Feuerbach + Karhu Engineer | I | FT2 Duo | 59/1.5 | Mobile NCO anti-armour gun, Engineer, shared climbing |
 | Karhu Feuerbach + Karhu Paramedic | I | FT2 Duo | 58/1.5 | Active/ARO gun, medical recovery and mines |
-| Bolt MSV1 MSR + Bolt CoC | I or II | FT2 Duo | 52/1.5 | Precision ARO, command insurance and close defence |
+| Bolt MSV1 MSR + Bolt CoC | I or II | FT2 Duo | 52/1.5 | **Preferred defensive CoC package**: precision ARO, command insurance and close defence |
 | Bolt MSV1 MSR + Bolt KHD | I or II | FT2 Duo | 48/1.5 | Precision ARO, close-range specialist |
 | Bolt MSV1 MSR + Bolt BSG + Bolt KHD | II | FT3 Haris | 67/1.5 | Long gun with close protection and specialist |
 | Joan v2 LT + two Helot FTO LRL | II | FT2 Haris | 65/1 | Two matching Neurocinetics Helots, Joan active attack and leadership |
 
-A Karhu Feuerbach retains B1 ARO, gains +1SD in FT2, and has active B3+1SD in AP+DA mode. A Bolt MSR similarly has B1+1SD in ARO but combines Marksmanship, Warhorse and MSV1. The Black A.I.R. Neurocinetics sniper remains independent based on the visible chart.
+A Karhu Feuerbach retains B1 ARO, gains +1SD in FT2, and has active B3+1SD in AP+DA mode. A Bolt MSR similarly has B1+1SD in ARO but combines Marksmanship, Warhorse and MSV1. The Black A.I.R. Neurocinetics sniper remains independent based on the visible chart. For succession insurance, prefer the Bolt sniper/CoC Duo when a defensive MSR is desired; keep the CoC in Total Cover within coherency, screen approaches with Drop Bears and keep the actual Lieutenant elsewhere. The 21/0 Magistrate is the preferred independent alternative; Firefly CoC is situational.
 
 A Bulleteer + Blade FTO Engineer is a legal mixed FT1 Duo for movement and repair support, but no +1SD unless a matching relationship is explicitly confirmed. Eligible TAGs can link under Family I; check profile AVA and character exclusivity. Patsy can count as Orc or Helot in Family II as shown.
 
