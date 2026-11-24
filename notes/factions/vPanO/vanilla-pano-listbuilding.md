@@ -344,7 +344,7 @@ The Zulu does not need to kill anything to be efficient. Making movement awkward
 
 ### KHD / Pitcher
 
-Take when the list has a real hacking plan.
+Take when the list has a real hacking plan. See [Pitchers — comparison and packages](#pitchers--comparison-and-packages) for profile-specific priorities; the Zulu KHD cannot itself use regular HD control programs.
 
 Good when:
 
@@ -728,6 +728,50 @@ Use when:
 - the opponent's repeater / Hackable structure can be attacked from an unexpected angle.
 
 Its higher cost means it should be selected for a deliberate mission / matchup role rather than as generic specialist filler.
+
+---
+
+## Pitchers — comparison and packages
+
+**Default: Blocker Specialist 15/0 + Fennec HD/FastPanda 16/0.5 = 31/0.5.** Vanilla has three Pitcher-bearing units and four distinct profiles (pinned roster, 24 November 2026). These are role-specific ratings, not overall unit grades.
+
+| Unit / profile | Pts / SWC | BS / B | Deployment and protection | Rating / preferred role |
+|---|---:|---|---|---|
+| [Blocker Specialist](units/blockers.md) | 15 / 0 | 12 / 2 | DZ, X-Visor; Sensor, Discover reroll, Biometric Visor | **S+ — best dedicated Pitcher; high priority** |
+| [Locust HD](units/locust.md) | 29 / 0.5 | 12 / 1 | FD(+20 cm), Hidden Deployment, Mim(-6), Firewall(-3) | **A+ — best self-contained offensive HD/Pitcher** |
+| [Zulu-Cobra KHD](units/zulu-cobra.md) | 26 / 0 | 13 / 1 | FD(+10 cm), renewable Camo, Mim(-3) | **A+ — best persistent midfield KHD/Pitcher** |
+| [Locust KHD](units/locust.md) | 27 / 0 | 12 / 1 | FD(+20 cm), Hidden Deployment, Mim(-6), Firewall(-3) | **A — protected forward KHD alternative** |
+
+All have WIP13, ARM1, BTS3 and W1. Blocker AVA1; Zulu and Locust AVA2. The 19/0.5 Blocker HD and 31/0.5 one-use-Camo Locust HD have **no Pitcher**. No standard Fireteams or linked Special Dice.
+
+### Direct Pitcher reliability
+
+Chance of at least one successful launch, unopposed, with no other MODs and sufficient ammunition; actual landing point and legal placement still matter.
+
+| Range | Blocker B2, X-Visor | Zulu B1 | Locust B1 |
+|---|---:|---:|---:|
+| 0–16″ | 84% | 65% | 60% |
+| >16–24″ | 84% | 50% | 45% |
+| >24–48″ | 69.75% | 35% | 30% |
+
+Pitcher is Disposable (2). Blocker B2 spends both charges in one declaration; B1 preserves the other. FD changes the distance/angle to the landing point, not the roll modifier directly. Mim and Camo help with delivery, not unopposed launch accuracy. Use separate gunfighters to clear dangerous lanes.
+
+### Recommended hacking packages
+
+| Package | Pts / SWC | Pitcher carriers | Devices / purpose |
+|---|---:|---:|---|
+| Blocker + Fusilier HD | 30 / 0.5 | 1 | Cheap HD network |
+| **Blocker + Fennec HD** | **31 / 0.5** | **1** | **Default: HD, FastPanda, two Regular Orders, two specialists** |
+| Locust HD | 29 / 0.5 | 1 | Slot-efficient independent forward HD |
+| Blocker + Locust HD | 44 / 0.5 | 2 | Two projection axes, one HD |
+| Blocker + Fennec HD + Zulu KHD | 57 / 0.5 | 2 | HD + KHD, FastPanda, renewable Camo |
+| Blocker + Fennec HD + Locust KHD | 58 / 0.5 | 2 | HD + KHD, FastPanda, personal Firewall |
+
+Pitcher carrier counts are not guaranteed deployed Repeaters. A hidden Locust does not contribute its Regular Order to the shared pool until revealed; deploy openly if the pooled Order matters more. Firewall protects its bearer, not the entire network. The KHD fights enemy hackers and scores, but cannot substitute for an HD's Spotlight/Carbonite/Oblivion against eligible targets.
+
+**Decision:** Start with Blocker + Fennec HD when a real network is wanted; choose Locust HD instead if one-body compression or concealed forward hacking is the priority. Add Zulu KHD for persistent marker-state scoring and cyber defense, or Locust KHD when the extra Firewall and forward positioning outweigh repeatable Camouflage. Don't automatically buy all of them: vPanO already has cheap native/mobile Repeaters, powerful guns, and strong alternative midfield specialists. Guided Clipper is optional; anti-heavy control, defending friendly TAGs and reactive hacking justify the network independently.
+
+Sources: [Pinned vanilla roster](../../../sectorials/panoceania/panoceania.md) · [Network projection rankings](../../list-building/network-projection-repeaters-pitchers-apex-value.md) · [Pitcher rules](https://infinitythewiki.com/Pitcher). The global ranking mentions enhanced climbing for Locust; the pinned vanilla roster does not print it, so it is excluded here.
 
 ---
 

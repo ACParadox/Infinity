@@ -21,6 +21,17 @@
 
 AVA1 vs NCA2. 15/0 Specialist/Pitcher, Biometric Visor, Sensor and adhesive threat remains very economical independently; 19/0.5 HD Firewall lacks Pitcher. No Fireteam or shared Firewall; compare Fennec13/0 FO/Sensor/Disco and Pilot-X hacker package.
 
+### Vanilla Pitcher assessment — S+ (15/0)
+
+**High priority: default dedicated Pitcher whenever a regular HD has meaningful work.** Native BS12, X-Visor and BS Attack (+1B) retain their value without a Fireteam. In direct fire, with no other modifiers and two charges remaining, B2 gives an 84% chance of at least one success through 24″, and 69.75% at >24–48″. B2 consumes both Disposable (2) uses; use B1 to reserve a second launch where appropriate. No linked Special Die or BS bonus in vanilla.
+
+Sensor, Biometric Visor, Discover (ReRoll), Adhesive Launcher Rifle, Pulzar, Flash Pulse and Specialist Operative give this 15-point Regular body meaningful jobs even after its Pitcher is spent. It is not a primary lethal gunfighter. Clear dangerous lanes first; lack of FD means it may need to advance for a better landing point.
+
+**Default package:** Blocker 15 + Fennec HD/FastPanda 16/0.5 = **31/0.5**, two Regular Orders and two specialists; a separate, protected HD exploits the network. Fusilier HD 15/0.5 is the cheaper alternative (30/0.5 total). Guided missiles are optional, not necessary to justify network control. AVA1 means the 19/0.5 Firewall HD (no Pitcher) excludes the preferred Specialist.
+
+See [vanilla Pitcher comparison](../vanilla-pano-listbuilding.md#pitchers--comparison-and-packages) for alternatives and reliability.
+
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

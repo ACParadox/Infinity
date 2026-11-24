@@ -25,6 +25,19 @@
 
 AVA2 instead of Varuna3. 26/0 KHD/Pitcher and 23/0 Sensor/Jammer are independently efficient; 23/0 Camo LT is safer than exposed active LT. Fennec FO/Sensor/Disco, Scarecrow and Croc offer additional options; 24/0 FO is useful but FWD+10cm is less than Infiltration.
 
+### Vanilla Pitcher assessment — A+ (KHD 26/0)
+
+**Strong independent midfield KHD and scoring piece, not the default dedicated Pitcher.** BS13, FD(+10 cm), repeatable Camouflage, Stealth and Mimetism (-3) give better access to safe firing positions than a DZ launcher. Breaker Combi and Assault Pistol retain value after expending its two Pitcher uses. B1, without X-Visor, gives 65% / 50% / 35% direct-fire success at 0–16″ / >16–24″ / >24–48″ before other modifiers. Its forward starting position can shorten the actual shot.
+
+The KHD can fight enemy Hackers via Trinity and score, but cannot Spotlight, Carbonite or Oblivion ordinary HI/TAG/REM. Pair with a regular HD for that role. Unlike the Jammer and FO profiles, this option has a Pitcher but no Sensor or Forward Observer.
+
+**Versus Locust KHD 27/0:** prefer Zulu for repeatable Camouflage, BS13 and persistent flexible mission play; prefer Locust for personal Firewall (-3), FD(+20 cm), Hidden Deployment and Mimetism (-6). Neither is a better raw launcher than the Blocker.
+
+Blocker + Fennec HD + Zulu KHD = **57/0.5**: two Pitcher carriers, FastPanda, one HD, one KHD, three Regular troopers. A second projection axis is optional, not mandatory. AVA2 means each KHD competes with the other Zulu profiles.
+
+See [vanilla Pitcher comparison](../vanilla-pano-listbuilding.md#pitchers--comparison-and-packages).
+
+
 ## Original Varuna analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
