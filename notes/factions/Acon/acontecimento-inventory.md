@@ -34,7 +34,7 @@ Role-based index of the standard 29-unit roster (not miniature ownership). Entri
 - **Guarda de Assalto:** 40/0 MULTI Rifle, 44/1.5 Spitfire or 40/1.5 HRL (+1B); BS15 plus synchronized Eclipse Auxbot.
 - **Foot Montesa:** 32/1.5 FD Red Fury or 35/1.5 FD Spitfire/Drop Bears; BS Attack (+1SD).
 - **Motorized Montesa:** 21/0 Boarding Shotgun, 26/0 MULTI Rifle or 29/1 Red Fury.
-- **Armand Le Muet:** 34/1.5 MSV1 MULTI Sniper or 33/1.5 Minelayer, Mimetism (-6) and +1SD.
+- **Armand Le Muet:** 34/1.5 MSV1 MULTI Sniper or 33/1.5 Minelayer, Mimetism (-6) and BS Attack (Shock), no +1SD.
 - **Dart:** 35–42 pts, AP SMG/Viral Tactical Bow (+1SD), independent forward hunter.
 
 ### ARO and deployment-zone defense
