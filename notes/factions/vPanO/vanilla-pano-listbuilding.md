@@ -2,7 +2,7 @@
 
 **Vanilla PanO guides:** [Overview](vanilla-pano-overview.md) · [Inventory](vanilla-pano-inventory.md) · [Listbuilding](vanilla-pano-listbuilding.md) · [Fireteams](vanilla-pano-fireteams.md) · [References](vanilla-pano-references.md) · [Units](units/).
 
-**Authority:** [Pinned N5.3 Vanilla PanO roster](../../../sectorials/panoceania/panoceania.md). No standard Fireteams; see [Fireteams and unlinked synergies](vanilla-pano-fireteams.md).
+**Fireteam correction (24 November 2026):** User-provided Infinity Army screenshots confirm a maximum of **2 Duos and 1 Haris**, with two vanilla Fireteam families. See the [pinned chart](../../../sectorials/panoceania/panoceania.md#fireteams) and [updated Fireteam guide](vanilla-pano-fireteams.md). Karhu Duo, Bolt Duo/Haris, Bulleteer + Blade FTO Duo and Joan + Helot FTO Haris are legal within their respective families. Any older statements below denying these permissions are superseded; sectorial-only bonuses and unlisted units remain excluded.
 
 ## Recurring listbuilding archetypes
 
@@ -82,22 +82,22 @@ This architecture can create multiple threats without concentrating too much val
 
 ---
 
-### Compact unlinked support packages (not Fireteams)
+### Compact support packages (linked where eligible)
 
-The **underlying tactical pairing** is useful even when the two models do not activate as a Fireteam. Select:
+The **underlying tactical pairing** is useful independently or in a legal Fireteam. Select:
 
 - one gunfighter;
 - one specialist / support model;
 - complementary movement and engagement bands.
 
-Examples of **independent, unlinked** synergies:
+Examples of **complementary** synergies:
 
 - Karhu Feuerbach covered by a Karhu Engineer;
 - Bulleteer with a Blade Engineer positioned for repair;
 - Bolt sniper plus a utility Bolt, each activating on their own;
 - Joan supported by relevant specialists and independent command assets.
 
-These pairs gain **no Duo/Haris bonuses and no shared team activation** in current vanilla. If you need linked movement, you must select a sectorial with the corresponding chart.
+Karhu + Karhu and Bolt + Bolt may form FT2 Duos; Bulleteer + Blade FTO may form a mixed FT1 Duo. Other pairings remain independent unless allowed by the chart.
 
 ---
 
@@ -171,7 +171,7 @@ The Magistrate CoC is one of the cleanest partners.
 
 The important principle is:
 
-> **Do not put Joan and the CoC model in the same obvious attack footprint.** There is no standard vanilla Fireteam to justify clustering them.
+> **Do not put Joan and the CoC model in the same obvious attack footprint.** Keep the CoC separate unless an eligible link has a compelling tactical purpose.
 
 Otherwise the same:
 
@@ -235,9 +235,9 @@ Their attraction is the package of:
 - strong mobility;
 - good weapon and specialist choices.
 
-### Feuerbach + Engineer support pairing (unlinked)
+### Feuerbach + Engineer — FT2 Duo
 
-This is a complementary pair of **separate** vanilla troopers, not a legal Duo. The Engineer can recover the Feuerbach trooper or other valuable nearby assets, but both spend activations independently.
+This is a legal Family I FT2 Duo (59/1.5). They share activation and gain +1SD; the Engineer repairs eligible STR assets, not the Karhu's wounds.
 
 The Feuerbach provides:
 
@@ -504,15 +504,15 @@ Use when:
 - Mimetism (-6) can create favourable FtF odds;
 - an Engineer can support it efficiently.
 
-#### Bulleteer + Blade Engineer support (unlinked)
+#### Bulleteer + Blade FTO Engineer support
 
-A useful low-cost pairing, **not a current vanilla Duo**:
+A useful low-cost legal mixed FT1 Duo when using Blade FTO:
 
 - mobile Mimetism (-6) attack pressure from the Bulleteer;
 - specialist support and repair from the Engineer;
-- compatible routes **without Fireteam movement compression**.
+- compatible routes with shared Fireteam movement.
 
-Each model uses its own activation; do not budget the Engineer's order as a free team move.
+When linked, one Order activates both; only the Team Leader performs active attack/Engineer rolls.
 
 ---
 
@@ -643,7 +643,7 @@ The Neurocinetics MULTI Sniper gives:
 - strong long-range ARO pressure;
 - no Fireteam slot requirement.
 
-This matters in Vanilla because it competes with other guns and support slots, **not** with a nonexistent Duo/Haris slot.
+This matters in Vanilla because it competes with other guns and support slots, **not** automatically with a Duo/Haris slot.
 
 Use Black A.I.R. when you want **one roster slot to provide dedicated lane control**.
 
@@ -803,7 +803,7 @@ Source: [Pinned vanilla roster](../../../sectorials/panoceania/panoceania.md). T
 | [Zulu-Cobra KHD](units/zulu-cobra.md) | 26 / 0 | 13 / 1 | FD(+10 cm), renewable Camo, Mim(-3) | **A+ — best persistent midfield KHD/Pitcher** |
 | [Locust KHD](units/locust.md) | 27 / 0 | 12 / 1 | FD(+20 cm), Hidden Deployment, Mim(-6), Firewall(-3) | **A — protected forward KHD alternative** |
 
-All have WIP13, ARM1, BTS3 and W1. Blocker AVA1; Zulu and Locust AVA2. The 19/0.5 Blocker HD and 31/0.5 one-use-Camo Locust HD have **no Pitcher**. No standard Fireteams or linked Special Dice.
+All have WIP13, ARM1, BTS3 and W1. Blocker AVA1; Zulu and Locust AVA2. The 19/0.5 Blocker HD and 31/0.5 one-use-Camo Locust HD have **no Pitcher**. These particular unlisted Hackers remain independent.
 
 ### Direct Pitcher reliability
 
@@ -1023,15 +1023,9 @@ Build a plan to:
 
 ---
 
-### Confusing historical Fireteams with current vanilla support synergies
+### Using the corrected vanilla Fireteam chart
 
-The current generic PanO N5.3 roster has **no standard Fireteams**. Older videos describe packages that can still offer complementary roles, but **not** shared movement or Fireteam bonuses:
-
-- **Karhu Duo**;
-- **Bulleteer + Blade Duo**;
-- **Joan Haris**.
-
-Budget **independent Orders** for those units. An actual Fireteam requires the corresponding sectorial chart.
+Karhu Duo, Bulleteer + Blade FTO Duo and Joan + Helot FTO Haris are legal. Apply the exact chart and composition bonuses; reserve independent Orders for unlisted support.
 
 ---
 
@@ -1046,7 +1040,7 @@ A useful generic build order is:
 5. add **cheap Regular infrastructure**;
 6. add the appropriate **Engineer / Doctor / Hacker** support;
 7. add one **reactive tax piece** if needed;
-8. position independent gunfighter / specialist / Engineer support packages so their separate activations are efficient (**no standard vanilla Fireteams**);
+8. position independent gunfighter / specialist / Engineer support packages so their separate activations are efficient (use legal links where efficient);
 9. spend remaining points on mission coverage rather than another redundant gun.
 
 A common shell can look like:
@@ -1129,7 +1123,7 @@ Tik supplies:
 - Tactical Awareness;
 - additional Lieutenant economy.
 
-NCO elsewhere prevents those LT Orders from becoming awkward when Tik should not expose itself. **No current vanilla Fireteam exists for Tik to remain in.**
+NCO elsewhere prevents those LT Orders from becoming awkward when Tik should not expose itself. **Tikbalang can join a Family I Duo.**
 
 ---
 
@@ -1155,16 +1149,16 @@ Use it when the army already has an expensive main attack piece and needs anothe
 
 ---
 
-## Battle-report-derived army skeletons — no vanilla Fireteams (2026-11-03)
+## Battle-report-derived army skeletons
 
-**Hard rule:** the [current vanilla PanO reference](../../../sectorials/panoceania/panoceania.md#fireteams) has **no standard Duo, Haris or Core**. Historical reports sometimes label pairs or Harises in vanilla: document their useful **unit choices**, but **do not put historical link bonuses or shared activation in a current N5.3 list**.
+**Legality update (24 November 2026):** The corrected chart permits two Duos and one Haris. Historical list examples still need profile and chart checks; do not assume every historical composition is legal.
 
-- **Independent Joan command and counterattack shell — [#169 Borderbash champion](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md):** the player used **Joan v2 Lieutenant**, **two Helot FTOs** (Red Fury and SMG/LRL), **Karhu Feuerbach**, **Karhu Paramedic**, **Swiss Guard HMG Hidden Deployment**, **Banshee KHD**, **Magistrate CoC**, **two Fugazi**, **Teutonic Specialist**, **Motorized Bounty Hunter** and inexpensive specialist/support pieces. The winner called **Joan + two Helots a Haris** and **two Karhu a Duo** *under the historical rules*. **Neither is a legal current vanilla link**. Translate the strategy into **Inspiring Leadership/CoC command**, **independent Helot AROs**, **Swiss solo first strike** and **Karhu scorer/long gun each paid its own Orders**.
+- **Independent Joan command and counterattack shell — [#169 Borderbash champion](../../battle-reports/161-170-n5-battle-report-tactical-analysis.md):** the player used **Joan v2 Lieutenant**, **two Helot FTOs** (Red Fury and SMG/LRL), **Karhu Feuerbach**, **Karhu Paramedic**, **Swiss Guard HMG Hidden Deployment**, **Banshee KHD**, **Magistrate CoC**, **two Fugazi**, **Teutonic Specialist**, **Motorized Bounty Hunter** and inexpensive specialist/support pieces. The winner called **Joan + two Helots a Haris** and **two Karhu a Duo** *under the historical rules*. **Both links are legal under the corrected chart** (Joan + two Helot FTOs, two Karhu). Keep the Swiss independent and apply current composition bonuses.
 - **Hidden Cutter with ordinary mission infantry — [#143 Corporate Appropriation](../../battle-reports/141-150-n5-battle-report-tactical-analysis.md):** the game fielded **Cutter Hidden Deployment**, **Croc Man**, **Fugazi/cheap REMs** and mission support; **no Fireteam was declared**. PanO won **5–4**, but the Cutter struggled against a difficult enemy gun. The practical list rule is **buy enough independent specialists/defenders to finish after the TAG encounters a bad matchup**.
 - **Three-TAG extreme skew — [#214 Firefight](../../battle-reports/211-220-n5-battle-report-tactical-analysis.md):** the spoken roster used **Cutter + Squalos Mk-II + Tikbalang Lieutenant** together, supported by **Pathfinder TacAware, Machinist, Flash REMs and Baggage**. These are **three separate TAGs, not a TAG Fireteam**. In a current list, audit the **Lt risk, hacking exposure and number of Regular scoring bodies** before imitating this intentionally unusual army. It is a useful **stress test**, not a reliable default.
 - **Jotum/forward-specialist example — [#192 The Dig](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md):** the roster used **Jotum**, **two Vargs**, **Shona**, **Liang Kai**, **Locust KHD**, **Pathfinder** and support. The video described the Vargs as linked; **that observation is not a current vanilla Fireteam permission**. Keep the lessons about independent midfield assault and late console switching, but spend separate Orders or choose **SWF** to field an actual Varg Fireteam.
 
-**Practical N5.3 list start:** select **one principal TAG or Swiss Guard**, **one independent midfield specialist/denial route**, **one protected LT/CoC and/or NCO economy**, **real Engineer/repair and cheap Regular Orders**. The #214 triple-TAG and #169 old-linked Joan variants are **different experiments**, not members of one combined “winning list.” No list in this section should be entered as a Core/Haris/Duo in a generic PanO roster.
+**Practical N5.3 list start:** select **one principal TAG or Swiss Guard**, **one independent midfield specialist/denial route**, **one protected LT/CoC and/or NCO economy**, **real Engineer/repair and cheap Regular Orders**. The #214 triple-TAG and #169 old-linked Joan variants are **different experiments**, not members of one combined “winning list.” Only chart-eligible compositions can be entered as Duos/Haris; no Core.
 
 ## Source-derived consensus and disagreements
 
@@ -1189,7 +1183,7 @@ There is less consensus on:
 - how heavily to invest in hacking;
 - whether Joan economy is better than Strategos / TAG-LT architectures;
 - how many cheap REMs to take before the 15-model cap makes another utility piece better;
-- whether formerly linked packages remain worth buying as **separate, non-Fireteam** pieces.
+- whether eligible links or separate models are better for the mission.
 
 This is important because Vanilla's strength is **choice breadth**, not one solved shell.
 
