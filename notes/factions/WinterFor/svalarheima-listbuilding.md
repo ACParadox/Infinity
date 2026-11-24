@@ -37,12 +37,25 @@
 
 **Lieutenant, command and Order options:**
 
-- **Fusilier LT (10):** inexpensive, hideable default command.
-- **Karhu NCO:** turns the Lieutenant Order into useful work while the LT remains protected.
-- **Hospitaller FTO TinBot LT (27):** legal in eligible Beta structures, but an exposed advancing LT risks Loss of Lieutenant.
-- **Jotum LT (82/2 SWC):** printed one LT Order plus Tactical Awareness, **not** `LT +1 Order`.
-- **Agnes CoC:** succession insurance for a Jotum-led risk-heavy plan.
-- **Hannibal:** supplies Counterintelligence, **not** Chain of Command.
+**Default command package: 2× Fusilier Combi (LT + identical non-LT decoy), 20 points / 0 SWC.** Every Karhu profile has NCO, not just the Feuerbach, so a cheap hidden-in-total-cover Lieutenant is no longer wasting the Lieutenant Order. Spend it through the best-positioned Karhu for attacks, specialist work, or legal Fireteam activations. Keep both Fusiliers protected and avoid exposing the actual LT unnecessarily; the second is a decoy by identical public profile, not the Decoy skill. The Fusiliers can also supply inexpensive link composition where appropriate, but command security comes first. Two bodies generate two Regular Orders plus one Lieutenant Order from the actual LT; additional NCO models provide flexibility, not additional LT Orders.
+
+All nine Lieutenant profiles, compared against their matching non-LT variants in the [pinned WinterFor roster](../../../sectorials/panoceania/svalarheima-s-winter-force.md):
+
+| Lieutenant | Pts/SWC | LT-specific change | Selection |
+|---|---:|---|---|
+| Fusilier Combi | 10/0 | None | **Default with second 10/0 Combi decoy** |
+| Uma Sørensen FTO Breaker Combi / X-Visor | 25/0 | None | Situational; exposed unique specialist |
+| Hospitaller FTO MULTI Rifle / TinBot | 27/0 | None | Situational Beta anchor |
+| Hospitaller FTO HMG | 32/1 | **Saves 0.5 SWC** vs 32/1.5 | Consider only if already taking this gunfighter and SWC is tight |
+| ORC MULTI Rifle / TinBot | 31/0 | None | Situational Alpha/Fusilier anchor |
+| ORC HMG | 36/1 | **Saves 0.5 SWC** vs 36/1.5 | Same conditional logic as Hospitaller HMG |
+| Knight of Justice MULTI Marksman Rifle FO | 41/0 | None | No incentive to risk a valuable specialist |
+| Knight of Justice Spitfire | 42/1.5 | None | No incentive to risk the assault piece |
+| Jotum | 82/2 | **Costs 0.5 SWC more** vs 82/1.5 | Normally take non-LT; Tactical Awareness already available |
+
+The only LT rebates are the Hospitaller and ORC HMG (each 0.5 SWC). There is no points discount, Lieutenant (+1 Order), or Lieutenant (+1 SWC) among the pinned options. Jotum LT gives one normal LT Order plus its existing Tactical Awareness, not an extra LT Order. A rebate on an HMG can matter if already buying that unit, but rarely justifies exposing the command model when Karhu can use the cheap Fusilier's Order. The Hospitaller/ORC HMG may also have an indistinguishable matching non-LT profile if a second is already planned, at much greater cost than a Fusilier decoy.
+
+**Agnes CoC (18/0)** is situational succession insurance for an exposed HI/Jotum LT, not an automatic tax on the protected double-Fusilier setup. Hannibal provides Counterintelligence, not Chain of Command. For a list deliberately using an aggressive Lieutenant, compare the entire command package and risk of Loss of Lieutenant, rather than just the HMG's 0.5 SWC saving.
 
 **Projected Eclipse and vision-control alternatives:**
 
