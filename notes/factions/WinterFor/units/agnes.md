@@ -1,6 +1,6 @@
 # Flight Officer Agnes Ferreira — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: A tier — excellent low-cost support. RemDriver is A+ with a meaningful REM attacker; Chain of Command is A+ with an aggressive Lieutenant. Basic Specialist is B. Normally 0–1 copies, depending on the list.**
+**Verdict: A tier — primarily a Chain of Command pick (A+ with an aggressive Lieutenant). Pilot-X is a near-mandatory listbuilding piece and already supplies a stronger RemDriver buff, so Agnes RemDriver is B/niche by default (B+ with a worthwhile second REM). Basic Specialist is B. Normally 0–1 copies, depending on the list.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md#flight-officer-agnes-ferreira) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [RemDriver](../../../../rules/5b_Special%20Skills/Remdriver.md) · [Chain of Command](../../../../rules/5b_Special%20Skills/Chain_of_Command.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md). Reviewed 24 November 2026. Ratings are tactical assessments.
 
@@ -11,12 +11,14 @@
 | Opt | Pts / SWC | Loadout / differences | Rating |
 |---:|---:|---|---|
 | 1 | 13 / 0 | SMG, Nanopulser, Pistol, CCW | B — budget specialist |
-| 2 | 16 / 0 | Same; RemDriver (+1 BS, +5 CC) | A+ with valuable REM |
+| 2 | 16 / 0 | Same; RemDriver (+1 BS, +5 CC) | B — niche; B+ with worthwhile second REM |
 | 3 | 18 / 0 | SMG, Nanopulser (+1B), Pistol, CCW; Chain of Command | A+ with exposed LT |
 
 All profiles are Wildcards (max 1), with no Counts-as label. All are WIP13 Specialists. BTS6 and innate Sixth Sense are unusually good on a cheap LI, but ARM1, W1, BS11 and ordinary movement make Agnes a support piece rather than a frontline gunfighter. Sixth Sense is conditional reactive protection, not a permanent 360° Visor.
 
 ## RemDriver — 16/0
+
+**Downgraded for WinterFor specifically:** Pilot-X is treated as a near-mandatory inclusion for its hacking and RacerBot network-projection package, with RemDriver already included. Its +1 BS, +5 CC, BTS=6 buff is stronger than Agnes's. The following REM pairings remain individually efficient, but their target ratings do not imply that a second RemDriver is generally worth buying. Agnes's AVA1 makes choosing this profile an opportunity cost: it excludes her excellent CoC option.
 
 For only **3 points above the basic Specialist**, Agnes grants one eligible REM +1 BS and +5 CC. Assign the token during deployment to an already deployed REM in the same army list. No Orders or range restriction are required for upkeep. The bonus applies to active and reactive rolls and is lost at the end of the Order in which Agnes enters a Null State. A REM cannot have multiple RemDriver tokens.
 
@@ -35,7 +37,7 @@ For only **3 points above the basic Specialist**, Agnes grants one eligible REM 
 - **Sierra HMG:** similar concept with better long-lane range, at five points and one SWC more.
 - **Peacemaker:** BS13 combines with forward deployment and Mimetism (-3); useful if the main plan relies on active shotgun attacks rather than just its Auxbot, mines or repeater.
 - **Pathfinder:** can benefit from BS when fighting but its primary value is Sensor, scoring and network projection, not shooting.
-- **Pilot-X:** alternative RemDriver at 21/1 with Hacker/Zero Pain and a BTS=6 benefit, plus access to RacerBot Mk-III. Prefer Agnes for economical pure BS support; choose Pilot-X when hacking/network projection is part of the plan. If both are taken, buff different REMs.
+- **Pilot-X:** alternative RemDriver at 21/1 with Hacker/Zero Pain and a BTS=6 benefit, plus access to RacerBot Mk-III. Prefer Pilot-X as the default because its hacking and RacerBot package already earns its place in the list. Agnes RemDriver is a secondary choice only if another REM is worth buffing (e.g. Bulleteer plus Sierra), CoC is unnecessary, or Pilot-X is omitted. If both are taken, buff different REMs; the bonuses cannot stack.
 
 **RemDriver cannot buff Jotum:** a TAG is not a REM. Keep Agnes protected; losing her also removes the buff. The +5 CC is secondary to the BS increase on most REMs.
 
@@ -67,7 +69,7 @@ Useful budget Wildcard when a team needs a cheap button-presser but the other pr
 | Agnes RemDriver | 16 / 0 | Passive REM enhancement |
 | Blade-Ops FTO Engineer | 23 / 0 | Engineer, Tactical Awareness, Mimetism (-3), Counts-as Fusilier |
 
-Normally pay the extra 3 points for RemDriver if there is a worthy REM, or 5 for CoC if the Lieutenant is exposed. The 13-point profile remains useful in expensive mixed Harises.
+Normally prioritize the extra 5 points for CoC if the Lieutenant is exposed. Pay the extra 3 for RemDriver only if there is a worthwhile unbuffed REM after assigning Pilot-X's token, or Pilot-X is omitted. The 13-point profile remains useful in expensive mixed Harises.
 
 ## Fireteam access and examples
 
@@ -94,4 +96,4 @@ Wildcard access is useful for cost reduction and moving a Specialist with an att
 | Direct combat | 4/10 |
 | Overall | A |
 
-**Situational must-have, not universal.** Agnes compresses a Regular Order, a WIP13 Specialist and powerful passive support into a cheap zero-SWC slot. RemDriver is the default if fielding an offensive Bulleteer or a meaningful Sierra defense; CoC is the priority with a risk-heavy Lieutenant plan. Only take the basic profile if its cheap Wildcard Specialist role is specifically needed. AVA1 forces a choice between RemDriver and CoC.
+**Situational must-have, not universal.** Agnes compresses a Regular Order, a WIP13 Specialist and powerful passive support into a cheap zero-SWC slot. CoC is the default reason to take Agnes and is excellent with a risk-heavy Lieutenant plan. Pilot-X normally covers RemDriver; Agnes RemDriver is niche unless there is a meaningful second REM target or Pilot-X is omitted. Only take the basic profile if its cheap Wildcard Specialist role is specifically needed. AVA1 forces a choice between RemDriver and CoC.
