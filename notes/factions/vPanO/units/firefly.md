@@ -30,6 +30,10 @@
 
 Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 is niche behind Magistrate21/0 and the Bolt sniper/CoC Duo. Repeater19/0 loses its strong linked budget-glue role. AVA2; choose genuine tool rather than support that requires shared movement.
 
+### Engineer comparison — user-approved priorities (24 November 2026)
+
+**A — best WIP and defensive utility among vanilla Engineers.** Engineer23/0 has WIP13 (65% contact repair; 87.75% with one eligible Remote Presence Command Token reroll), BTS6, Shock Immunity, Albedo, BS Attack (SR-1), NCO, SMG, Panzerfaust, AP Mines and D-Charges. Independent + Palbot = 26/0. Useful as a defensive specialist with spare LT activations, but the five-percentage-point WIP improvement alone is not worth eight points over Machinist15. Prefer Blade23 when competing NCOs make TA more useful, Karhu25 for conventional combat and mobility, Machinist18 including Palbot for pure repair. Firefly remains unlisted in the corrected chart; no vanilla Fireteam access. Engineer verdict is separate from the HD skip and conditional CoC assessments.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
