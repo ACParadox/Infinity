@@ -1,40 +1,106 @@
 # Helots — Varuna
 
-**Source:** Existing Varuna tactical analysis, reorganized without a new profile audit. [Pinned roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Listbuilding](../varuna-listbuilding.md) · [Fireteams](../varuna-fireteams.md) · [References](../varuna-references.md).
+**Assessment: S-tier defensive value; near-default inclusion of one, often two.**
 
-Helots remain classic Varuna defensive efficiency.
+**Sources:** [Pinned N5.3 roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) (Army revision 7.26246.158) · [Listbuilding](../varuna-listbuilding.md) · [Fireteams](../varuna-fireteams.md) · [References](../varuna-references.md) · [ARO value rankings](../../../list-building/aro-units-apex-and-value.md) · [Neurocinetics](../../../../rules/5b_Special%20Skills/Neurocinetics.md).
 
-Their job is often not to kill anything.
+## Base profile
 
-A Helot succeeds when it:
+**AVA 3 · LI · Irregular · S2 · MOV 10-10 cm (4-4") · CC12 · BS11 · PH10 · WIP12 · ARM0 · BTS0 · W1.**
 
-- forces Discover / attack sequencing;
-- constrains a lane;
+Shared skills: Neurocinetics, Immunity (Shock), Stealth, Terrain (Aquatic), No Cube.
+
+- **Independent profiles:** Camouflage (1 Use), Surprise Attack (-3). No Fireteam access.
+- **FTO profiles:** Sensor and native Varuna Fireteam access. No Camouflage.
+
+Neurocinetics allows the full printed weapon Burst against a single target in ARO, but reduces BS weapon Burst to 1 in the Active Turn. Ordinary Fireteam Special Dice are not extra Burst.
+
+## Profiles
+
+Ratings are tactical recommendations, not official classifications. Burst below is native reactive Burst before any Fireteam Special Die.
+
+| Option | Profile | Pts | SWC | ARO B | Rating |
+|---:|---|---:|---:|---|---|
+| 4 | FTO SMG + Light Rocket Launcher | 10 | 0 | SMG 3 / LRL 2 | S |
+| 1 | FTO Shock Marksman Rifle | 11 | 0 | 3 | A+ |
+| 8 | Camo SMG + Light Rocket Launcher | 12 | 0 | SMG 3 / LRL 2 | S+ |
+| 5 | Camo Shock Marksman Rifle | 13 | 0 | 3 | S |
+| 3 | FTO Red Fury | 13 | 1 | 4 | A |
+| 7 | Camo Red Fury | 15 | 1 | 4 | A |
+| 6 | Camo MULTI Sniper Rifle | 17 | 1.5 | 2 | B |
+
+### SMG + Light Rocket Launcher — preferred
+
+- **Camo 12/0:** the default independent Helot. One-use marker protection and uncertainty, B2 Continuous Damage LRL with circular Impact Template in Blast Mode, and B3 SMG at short range. Forces careful Fireteam movement and threatens multiple range bands without consuming SWC.
+- **FTO 10/0:** outstanding cheap linked defender, with Sensor rather than Camo. Especially valuable with Patsy.
+
+### Shock Marksman Rifle — preferred alternative
+
+- **Camo 13/0:** B3 Shock ARO in the 8–24" favorable band. Useful against individual infantry and complementary to the LRL.
+- **FTO 11/0:** zero-SWC linked B3 reactive gun and Sensor.
+
+### Red Fury — situational
+
+- **FTO 13/1 and Camo 15/1:** B4 Shock reactive firepower, with a useful 8–24" band and better close-range modifier than the Shock MMR. Strong but the SWC competes with premium Varuna guns. Prefer zero-SWC LRL/MMR when SWC is tight.
+
+### MULTI Sniper Rifle — niche
+
+- **Camo 17/1.5:** B2 AP, DA or Shock modes at long range. Can punish an opponent who neglects a long lane, but relatively expensive for BS11/ARM0/W1. Kamau is usually a better premium long-range defensive investment.
+
+## Defensive role and deployment
+
+Helots remain classic Varuna defensive efficiency. Their job is often not to kill anything. A Helot succeeds when it:
+
+- forces Discover / attack sequencing and marker uncertainty;
+- constrains a relevant lane or bypass route;
 - makes an opponent spend Orders clearing a cheap model;
 - protects the real army by creating uncertainty and pathing cost.
 
-### How many?
+The two-point Camo premium is normally worthwhile for independent deployment. Camouflage (1 Use) cannot be restored once cancelled; it is not Hidden Deployment. Delay revealing until the target or lane is worth defending. Do not leave every Helot exposed to the same long-range attacker, template or coordinated attack. Cover complementary approaches, particularly those that bypass Kamau or threaten a concealed Cutter.
 
-#### One Helot
+FTOs trade marker protection for Sensor and legal Fireteam bonuses. Sensor gives them a useful active-turn function despite Neurocinetics. Neither variant is a primary attacker: BS11, ARM0, W1 and Active Turn B1 are substantial limits. Smoke, unfavorable range, visual modifiers and direct templates can bypass or neutralize their reactive advantage.
 
-Very easy to justify.
+## Patsy Garnett + Helots
 
-Use it as a cheap defensive speed bump that creates disproportionate reactive friction.
+Patsy Garnett costs 34/0 and has FT Master (Helots), NCO, Warhorse, Forward Observer, BS14, ARM4, W2, AP SMG, E/Mitter, Grenades, D-Charges and Flash Pulse.
 
-#### Two Helots
+Only Helot FTO options 1, 3 and 4 are eligible native Varuna members; the chart allows up to two. Patsy counts as Helot for Fireteam composition. A qualifying three-member Varuna Core or Haris reaches FT3. FT2 supplies BS Attack (+1 SD) and FT3 adds +3 Discover and +1 Dodge; do not treat the Special Die as another successful hit.
 
-A meaningful layered shell.
+| Package | Pts | SWC | Role |
+|---|---:|---:|---|
+| Patsy + 2 FTO LRL | 54 | 0 | Cheapest dedicated defensive shell |
+| Patsy + FTO LRL + FTO Shock MMR | 55 | 0 | Preferred mixed-range zero-SWC alternative |
+| Patsy + FTO LRL + FTO Red Fury | 57 | 1 | Higher-Burst alternative |
+| Patsy + 2 FTO LRL + independent Camo MMR | 67 | 0 | Maximum Helot density; third Helot remains outside the link |
 
-Good when your premium pieces are deliberately hidden during the opponent's first turn.
+FT Master converts qualifying linked Helots' Irregular Orders at the next Order Count while the valid team exists. The three-member shell can therefore generate three Regular Orders; Patsy's NCO is separate and does not add another pooled Order. The third independent Helot does not become Regular. Do not assume an immediate retroactive Order conversion after reforming the team.
 
-#### Maximum Helots
+Patsy is a durable mobile specialist and close-range attacker, whereas the Helots are defensive turrets. If she leaves to attack or score, reassess the Fireteam and future Order conversion. This is a strong combined-arms package, not the cheapest possible pure Order farming. If using a separate Undertow Haris, allocate the three-member Helot group to the Core slot.
 
-This is where you should check whether the army is becoming too reactive.
+## Comparison with other Varuna AROs
 
-Three cheap ARO pieces can be excellent, but every roster slot and SWC point spent on models whose main value is the opponent's turn is one less active-turn solution.
+| Unit | Pts/SWC | Role and trade-off |
+|---|---|---|
+| Warcor | 3/0 | Cheapest Flash Pulse disruption, not a comparable lethal threat |
+| Helot Camo LRL | 12/0 | Disposable marker/template speed bump |
+| Helot Camo MMR | 13/0 | Disposable B3 medium-range marker threat |
+| Sierra TR HMG | 18/1 | B4 long-range ARO and full active-turn Burst, but larger REM footprint |
+| Kamau MSV1 HRL | 23/1.5 | Better BS, Mimetism, visor and Fireteam potential |
+| Kamau MSV2 MULTI Sniper | 29/1.5 | Premium anti-Mimetism long-range ARO; more expensive to lose |
 
-The principle is:
+Helots protect rather than replace premium active attackers and long-range guns. Their defining advantage is the very low cost of losing one after it consumes enemy Orders.
+
+## How many?
+
+- **One (12/0 Camo LRL):** very easy to justify, near automatic inclusion.
+- **Two (25/0 Camo LRL + Camo Shock MMR):** preferred independent defensive layer. Especially useful when premium pieces are hidden on the opponent's first turn.
+- **Three (37/0 two Camo LRL + Camo Shock MMR):** effective heavy defense, but check Irregular Order count and troop slots. Three Helots plus a Warcor means four naturally Irregular models.
+- **Patsy + two FTOs (54–57 points):** distinctive conditional Regular-Order architecture, particularly worth testing alongside a Cutter. Requires the team and Patsy investment.
 
 > **Buy enough Helots to make Turn 1 expensive, not enough Helots to make your own Turn 1 weak.**
 
----
+## Verdict
+
+**Must-have.** S reactive combat and board control, S+ points/SWC efficiency for the LRL and MMR, D active combat and durability. Independent Helots are cheap and excellent but consume Irregular slots; the Patsy package addresses the Order-pool limitation conditionally.
+
+Default to one Camo LRL and one Camo Shock Marksman Rifle (25/0). Use the FTO versions when deliberately building a linked Helot/Sensor package rather than paying for Camouflage.
