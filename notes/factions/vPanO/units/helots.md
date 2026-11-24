@@ -6,7 +6,7 @@
 
 - **AVA:** 3 in Varuna → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family II Duo/Haris, max 2 FTO Helots. Patsy counts as Helot (or Orc); no Camo profiles. Matching Helots grant FT2; Patsy + two Helots FT3.
 
 ## Pinned vanilla profiles
 
@@ -26,7 +26,11 @@
 
 **Joan economy:** Two FTO LRL10/0 Helots supply two of the four potential Inspiring Leadership conversions, with useful independent Neurocinetics AROs. Their low price and likely early attrition make this primarily early-game Order economy: do not expect them to survive all three turns. A Joan v2 + two matching FTO LRL Haris65/1 is legal FT2, but independent positions often cover more angles and avoid holding Joan back; no link is required for Inspiring Leadership. Camo LRL12/0 remains a separate defensive option.
 
-AVA2 versus Varuna3; same seven options, including FTO Sensor profiles. No Patsy/Helot Fireteam or FT Master conversion; Joan LT can regularize eligible non-Religious Helots via Inspiring Leadership. 12/0 one-use Camo LRL and 10/0 FTO LRL are strong independent ARO investments; Red Fury15/1 or sniper17/1.5 conditional. Camo(1 Use) is not reusable.
+AVA2 versus Varuna3; same seven options, including FTO Sensor profiles. Patsy/Helot Fireteam and conditional FT Master conversion are available; Joan LT can regularize eligible non-Religious Helots via Inspiring Leadership. 12/0 one-use Camo LRL and 10/0 FTO LRL are strong independent ARO investments; Red Fury15/1 or sniper17/1.5 conditional. Camo(1 Use) is not reusable.
+
+### Linked ARO — S-tier value
+
+Only FTO options 1/3/4 can join Family II Duo/Haris, max two Helots per team and AVA2 overall. Two matching FTOs grant +1SD to the entire team: LRL B2+1SD (10/0), Shock MMR B3+1SD (11/0), Red Fury B4+1SD (13/1). Native Neurocinetics means full reactive Burst against one target, active B1. LRL continuous-damage impact template or MMR individual infantry shots are preferred; Red Fury costs SWC. Preferred LRL+MMR Duo21/0; two LRL20/0; two MMR22/0. Nisse MSR + LRL + MMR50/1.5 FT2 Haris gives three complementary AROs; Joan v2 LT + same pair66/1 FT2 Haris is legal but may tether Joan to static defenders. Patsy + same pair55/0 FT3 Haris counts as Helot; FT Master converts linked Helots conditionally. **Joan can regularize both Helots without linking**; a separate Helot Duo preserves Joan's mobility. Without Joan or Patsy, Helots remain Irregular and Fireteam creation/maintenance must satisfy the current training rules; do not assume two Irregular Helots alone can form a legal operational Duo. One-use-Camo LRL12/0 remains excellent for marker protection and independent angles, no +1SD. Do not overvalue projected Order income because these fragile turrets often die early.
 
 ## Original Varuna analysis — retained reference copy
 
