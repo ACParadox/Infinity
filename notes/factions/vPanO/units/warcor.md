@@ -19,6 +19,8 @@
 
 ## Vanilla selection and use
 
+**Joan v2 economy:** At 3/0 the Warcor is a particularly cheap Regular Order under Inspiring Leadership while eligible, alongside two Helots and a Motorized Bounty Hunter. It can remain a passive Flash Pulse ARO. If Joan falls after the more active Irregulars have traded, a surviving Warcor's Irregular Order can be converted using a Command Token when useful. Do not assume all four conversions persist all game.
+
 3/0 360º Visor Flash Pulse is useful budget defense; Sixth Sense conditional. With Joan Lieutenant, eligible non-Religious Irregular troops can contribute Regular Orders through Inspiring Leadership. Otherwise Warcor remains Irregular; compare Fugazi7/0.
 
 ## Original kestrel analysis — retained reference copy

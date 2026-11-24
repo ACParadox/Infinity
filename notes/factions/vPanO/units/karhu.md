@@ -22,6 +22,8 @@
 
 ## Vanilla selection and use
 
+**Best NCO outlet for double Fusilier command.** All Karhu profiles have NCO, including Engineer25 and Paramedic24. A 20/0 Fusilier LT + identical decoy and Feuerbach34 + Engineer25 FT2 Duo cost 79/1.5; four pooled Regular Orders plus one NCO activation. The analogous Magistrate19 package is 78/1.5, three pooled + one NCO activation, saving a troop slot but losing one recurring Order. Both Karhu can lead and spend the same LT resource (only once); choose the Feuerbach for attacks, Engineer for movement/repair/scoring. Paramedic Duo58/1.5 and MULTI Rifle Duo56/1.5 also work. Prefer the double Fusilier command if committing to a Karhu Duo; Joan v2 can instead use her LT Order personally or share it with NCO when useful. Tik LT(+1) gives two LT Orders, not one per NCO.
+
 **Verdict: S+ value / must-have, alongside Bolts.** Feuerbach (+1B)34/1.5 combines MSV1, Mim-3, Climbing Plus, NCO and B3 active AP+DA (B3+1SD in FT2; B1+1SD reactive). Excellent long-lane anti-armour, defensive threat and vertical geometry; W1 and lower retained Burst than HMG remain limitations. Prefer Feuerbach + Engineer59/1.5 FT2 Duo or Feuerbach + Paramedic58/1.5 FT2 Duo. Both follow similar climbing routes; Engineer repairs eligible STR assets, Paramedic treats Wounds, both contribute NCO access. Engineer has Blitzen/D-Charges, not AP Mines. NCO models compete for actual available LT Orders; they do not each generate one. Cheap MULTI Rifle profiles remain useful if a long gun is already present. Prefer Karhu/Bolt compact matching Duos to the more expensive Nisse Haris by default; choose Nisse specifically for MSV2/HMG volume.
 
 ## Original WinterFor analysis — retained reference copy

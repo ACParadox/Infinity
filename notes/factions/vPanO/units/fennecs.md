@@ -29,6 +29,8 @@
 
 ## Vanilla selection and use
 
+**Command alternative:** Two identical Fennec Combi profiles (LT10 + basic10) have the same 20/0 economics as double Fusilier: two Regular Orders + one LT Order for an eligible NCO, with identity concealment rather than a printed Decoy Skill. This is S+ as a dedicated budget NCO package, not a recommendation to buy basic Fennecs for general utility. Prefer Fusiliers when preserving Fennec availability for FO/Disco, Hacker or Minelayer; use Fennecs if their chassis or existing collection fits. CoC is optional.
+
 **Verdict: A+ overall.** The utility profiles remain excellent independently of Fireteams. Start with one FO/Disco Baller, then add a Hacker and/or Minelayer if the list needs their specific functions. Typically **1–3 Fennecs**, occasionally four for distributed Eclipse and layered support. Unlike Kestrel, all movement and attacks require independent activations.
 
 | Opt | Profile | Pts / SWC | Rating | Normal quantity |
@@ -36,7 +38,7 @@
 | 9 | FO, Sensor, Disco Baller | 13 / 0 | **S** | 1–2 |
 | 7 | HD, FastPanda, E/Mitter | 16 / 0.5 | **A+** | 0–1 |
 | 5 | Thunderbolt (+1B), Minelayer, Triangulated Fire | 14 / 0 | **A** | 0–1 |
-| 11 | Lieutenant | 10 / 0 | B+ | 0–1 |
+| 11 | Lieutenant | 10 / 0 | S+ in paired NCO command | 0–1 |
 | 1 | Basic Combi | 10 / 0 | B− | 0–1 |
 | 10 | Paramedic | 12 / 0 | B− | 0–1 |
 | 4 | SMG, Light Rocket Launcher | 12 / 0 | C | 0 |

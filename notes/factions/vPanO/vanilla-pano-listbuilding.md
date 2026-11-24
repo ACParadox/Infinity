@@ -17,7 +17,7 @@ Core idea:
 
 Common supporting pieces:
 
-- Magistrate CoC;
+- Bolt MSV1 sniper + Bolt CoC defensive FT2 Duo, or Magistrate CoC standalone;
 - Helots;
 - Warcor;
 - Motorized Bounty Hunter;
@@ -167,7 +167,7 @@ Do not take cheap Irregular models simply because Joan can regularize them. Each
 
 ### Joan + Chain of Command
 
-The Magistrate CoC is one of the cleanest partners.
+The Bolt MSV1 MSR + CoC FT2 defensive Duo (52/1.5) is the preferred partner if already taking the sniper; the Magistrate CoC21/0 is the cleanest standalone alternative. See the revised Lieutenant architectures below.
 
 The important principle is:
 
@@ -218,7 +218,7 @@ Use when:
 - you want Counterintelligence built into the command model;
 - you want a relatively economical specialist LT.
 
-This is often a better default than automatically taking a Fusilier LT.
+With a strong Karhu/TAG NCO, double Fusilier20 is preferred for its additional recurring pooled Order and concealed identity. Magistrate19 is the flexible alternative when saving a trooper slot, Counterintelligence, specialist or reserve flexibility matters more.
 
 ---
 
@@ -936,90 +936,72 @@ Use Aquila when:
 
 ---
 
-## Lieutenant architectures
+## Lieutenant architectures — revised command priority (24 November 2026)
 
-Vanilla PanO has several genuinely different LT plans.
+**Two preferred starts:** Joan v2 + protected CoC (especially the Bolt sniper/CoC Duo) for early Irregular conversion and a second-wave attacker; or double Fusilier + Karhu NCO Duo for a cheap protected LT and recurring distributed Orders. Magistrate is the flexible third default, not an automatic upgrade over two Fusiliers.
 
-### Joan LT
+| Lieutenant | Pts/SWC | Rating / use |
+|---|---:|---|
+| Joan v2 AP Spitfire | 45/1 | S+ — early Irregular economy, TA, second-wave assault; budget CoC |
+| Fusilier LT + identical Combi | 20/0 | S+ — two pooled Orders + one LT Order for Karhu/TAG NCO; conceal identity |
+| Fennec LT + identical Combi | 20/0 | Equivalent budget alternative; reserve Fennec slots for utility when desired |
+| Magistrate Strategos L1 | 19/0 | S — flexible pooled conversion, Counterintelligence, extra reserve, specialist, one slot |
+| Tikbalang HMG LT(+1 Order) | 73/1.5 | S — two LT Orders + TA; aggressive Hackable LT, consider CoC |
+| Agent Maximus FTO / Minimus | 45/+1 or 48/+1 | A+ — TA, specialist, non-Hackable, two-SWC swing over non-LT |
+| Zulu-Cobra Sensor/Jammer | 23/0 | A — concealed defensive LT; avoid exposing command through active utility |
+| Maximus TAG AP HMG | 82/0 | A — TA and 1.5 SWC saved; expensive active LT |
+| Aquila MMR Strategos | 52/+1 | A− — MSV3, Disco, specialist, SWC rebate; expensive |
+| Griffin HMG | 37/1 | B+ — saves 0.5 SWC but exposes command |
+| Hetkari MULTI Red Fury | 48/1.5 | B — assault LT, no special economy |
+| Cutter | 95/2.5 | B− / usually avoid — prefer NCO97/2 and independent LT |
+| Bolt / Teutonic | 21/0 or 18/0 | C — usually skip LT profile |
+| Joan v1 / ORC / Hetkari ML LT | — | Skip / normally avoid |
 
-Use when:
+Joan +1 Command Token49 is situational (not an extra LT Order); Strategic Deployment51 only if legal team positioning actually matters. Magistrate MMR LT23 and Aquila non-Strategos49 are generally lower priority. Agent Maximus and Maximus TAG are mutually exclusive; only one Joan across variants. Cutter NCO97 + Magistrate Strategos19 = 116/2 vs Cutter LT95 + Magistrate CoC21 = 116/2.5; prefer separate command unless there is a specific reason.
 
-- Inspiring Leadership is part of the list economy;
-- Joan is intended to participate actively;
-- NCO / CoC infrastructure can exploit and protect the architecture.
+### Joan economy vs cheap NCO command
 
----
+| Command package | Pts/SWC | Troopers | Regular Orders | Additional |
+|---|---:|---:|---:|---|
+| Joan45 + two Helot FTO LRL10 + Moto Bounty BSG8 + Warcor3 | 76/1 | 5 | 5 | TA + LT |
+| Same + Magistrate CoC21 | 97/1 | 6 | 6 | TA + LT |
+| Same + Bolt MSV1 MSR26 + Bolt CoC26 FT2 Duo | 128/2.5 | 7 | 7 | TA + LT |
+| Double Fusilier20 + Karhu Feuerbach34 + Engineer25 FT2 Duo | 79/1.5 | 4 | 4 | LT via NCO |
+| Magistrate Strategos19 + same Karhu Duo | 78/1.5 | 3 | 3 | LT via NCO OR pooled conversion |
+| Double Fusilier20 + Karhu Duo59 + Bolt MSR26/KHD22 FT2 Duo | 127/3 | 6 | 6 | LT via NCO |
 
-### Magistrate Strategos LT
+Order counts assume all eligible, alive and generating Orders at Order Count; pooled Orders are per combat group, not a global pool. Joan can convert four Irregulars; the two Helots and bike are already valuable cheap defensive/trading models, Warcor is only three points. Expect attrition and possibly losses before Turn 1 if going second. Protect Joan early, use her as second-wave AP-Spitfire/CC attacker, and commit more freely as Irregulars disappear. CoC prevents Loss of Lieutenant if eligible but does not maintain Inspiring Leadership. A surviving Warcor's Irregular Order can be converted with a Command Token when needed. Never budget twelve guaranteed conversions. The Bolt CoC costs 26 but actively improves a valuable defensive sniper; do not expose it with Joan. Independent Helots are often preferable to forcing Joan into a defensive Haris, although the legal FT2 Joan + two Helot FTO LRL Haris65/1 exists.
 
-Use when:
+Double Fusilier yields one more recurring usable Order with NCO than Magistrate at only one extra point; conceal both identical profiles (not the Decoy Skill). Magistrate's one-slot saving, Counterintelligence and reserve deployment may outweigh this under the 15-trooper cap or without a strong NCO. Strategos converts the Special LT Order OR leaves it for NCO; never double count. CoC is optional on concealed cheap LT.
 
-- the list wants a relatively cheap command model;
-- you want Strategos and Counterintelligence;
-- the LT itself does not need to be a premium attacker.
+### Chain of Command choices
 
-This is one of the best generic default choices.
+| CoC | Pts/SWC | Assessment |
+|---|---:|---|
+| Magistrate Combi | 21/0 | S standalone; Counterintelligence and specialist; AVA1 excludes Strategos LT |
+| Firefly | 23/0 | A; NCO, AP Mine/Panzerfaust, BTS6; no Counterintelligence |
+| Magistrate MMR | 25/0 | B+ conditional; usually keep CoC hidden |
+| Bolt | 26/0 | S in defensive FT2 MSR Duo; B standalone |
+| Joan v2 | 45/1.5 | B− niche combat successor; leadership only when actual LT |
+| Joan v2 Strategic Deployment | 51/1.5 | Normally skip; expensive conditional forward team |
+| Joan v1 (ordinary / Strategic Deployment) | 47/0 or 53/0 | Skip |
 
----
+**Bolt MSV1 MSR + CoC = 52/1.5 FT2 Duo.** B1+1SD ARO (B2+1SD active); Marksmanship and MSV1. Keep CoC in Total Cover/coherency; Combi, Light Shotgun and Drop Bears protect close approaches (Drop Bears are not Minelayer). Warhorse protects against Isolation. Solo sniper + Magistrate CoC is 47/1.5: five points for +1SD and better close defense vs Counterintelligence and WIP13 specialist. Bolt CoC is preferred when already building that defensive Duo, with the actual LT elsewhere. MSR + CoC + KHD74/1.5 FT3 Haris is optional. Keep succession safe from the same attack that hits the LT.
 
-### Tikbalang LT(+1 Order)
+### NCO choices and priority
 
-Use when:
+| NCO | Pts/SWC | Role |
+|---|---:|---|
+| Karhu Feuerbach(+1B) | 34/1.5 | S+ — primary NCO attacker; FT2 with matching partner |
+| Karhu Engineer / Paramedic | 25/0 / 24/0 | S / A+ — shared climbing, technical/medical support, specialist |
+| Karhu MULTI Rifle | 22/0 | A — useful cheap secondary NCO |
+| Squalos MULTI HMG | 66/1.5 | A+ — TA + NCO, economical TAG |
+| Cutter MULTI HMG | 97/2 | A+ — apex NCO gun |
+| Firefly Engineer / Minelayer | 23/0 / 24/0 | A / B+ — independent utility; all Firefly profiles NCO |
+| Teutonic Spitfire | 29/1.5 | B — secondary solo gun; Limited Cover |
+| Patsy | 34/0 | Skip (existing decision) |
 
-- Tik is the primary active engine;
-- NCO elsewhere can convert the LT Orders;
-- CoC exists if needed;
-- the list is comfortable with an aggressive Hackable LT.
-
----
-
-### Zulu LT
-
-Use when:
-
-- Zulu utility is already wanted;
-- the LT can remain conservative until needed;
-- Camo / midfield positioning makes assassination awkward.
-
-Tradeoff:
-
-- using Jammer / Sensor aggressively exposes the command model.
-
----
-
-### Aquila Strategos LT
-
-Use when:
-
-- MSV3 is already valuable to the matchup;
-- you want the Lieutenant to fight;
-- the list can afford a premium command model.
-
----
-
-### Cutter LT
-
-Use only when the list deliberately accepts the concentration of:
-
-- command;
-- roughly one-third of the army;
-- primary attack capability
-
-in one model.
-
-The model is difficult to kill conventionally, but command failure becomes catastrophic if it is disabled or isolated.
-
----
-
-### Fusilier LT
-
-Still useful when:
-
-- every point matters;
-- the LT simply needs to remain hidden;
-- another piece can use the important special Orders.
-
-Do not default to it purely from old PanO habit. Magistrate, Joan, Zulu and Tik offer much more interesting architectures.
+Karhu Feuerbach + Engineer59/1.5, Paramedic58/1.5 or MULTI Rifle56/1.5 are legal FT2 Duos; either NCO can spend an available LT Order as leader to move the team, but the other cannot spend that same Order. TA and NCO are separate restricted resources. Tik LT(+1) produces two LT Orders that can be shared with eligible NCO. All six NCO unit families above match the pinned roster.
 
 ---
 
@@ -1145,19 +1127,15 @@ while preserving much of the same cheap command / REM / midfield structure.
 
 ## Go-to combinations
 
-### Joan + Magistrate CoC + Irregular utility
+### Joan + Bolt CoC defensive Duo + Irregular utility
 
-One of the most distinctively Vanilla PanO architectures.
-
-Joan regularizes useful Irregular models while Magistrate protects succession.
-
-Do not overbuy Irregular pieces just because Joan can convert their Orders.
+Joan45 + Bolt MSR26 + Bolt CoC26 + two Helot FTO LRL10 + Moto Bounty8 + Warcor3 = 128/2.5. Seven eligible Regular Orders + TA + LT; four conversions are primarily early-turn economy, not guaranteed throughout the game. The Bolt CoC protects the sniper and grants FT2 +1SD. Magistrate CoC21 remains the standalone alternative. Keep Joan safe early, commit as expendable Irregulars disappear.
 
 ---
 
 ### Karhu Feuerbach + Karhu Engineer
 
-A preferred **Family I FT2 Duo (59/1.5)** that provides:
+A preferred **Family I FT2 Duo (59/1.5)**, especially with double Fusilier LT/decoy20/0 (79/1.5 total, four pooled Orders + one NCO activation), that provides:
 
 - ranged anti-armour shooting;
 - NCO;

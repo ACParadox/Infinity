@@ -4,6 +4,10 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md#motorized-bounty-hunters) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Vanilla overview](../vanilla-pano-overview.md) · [Warband/trading rankings](../../../list-building/warbands-and-cheap-trading-units-apex-value.md) · [Inspiring Leadership](../../../../rules/5b_Special%20Skills/Inspiring_Leadership.md) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md). Analysis 24 November 2026; based on the pinned N5.3 reference, not a live Army refresh.
 
+## Vanilla command economy — 24 November 2026
+
+**Joan v2 economy:** The 8/0 Boarding Shotgun + Heavy Riotstopper profile is a useful cheap trading piece that also contributes a converted Regular Order under Inspiring Leadership while eligible. Together with two Helots and Warcor it forms the 31/0 four-Irregular package. Expect to spend or sacrifice the bike in active play, not preserve it solely to generate Orders. This is another reason Joan becomes easier to commit later in the game.
+
 ## Pinned vanilla profile
 
 **ID 1565 · AVA 1 · LI · Irregular · Impetuous** — MOV 20-15 cm (8-6"), CC17, BS12, PH10, WIP13, ARM1, BTS3, W1, S4.

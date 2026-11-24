@@ -26,6 +26,8 @@
 
 ## Vanilla selection and use
 
+**S+ budget LT architecture with NCO.** Combi LT10 + identical basic Combi10 = 20/0, two pooled Regular Orders and one Special LT Order; the latter can fund a Karhu-led Duo or another eligible NCO. The second model conceals identity (not the Decoy Skill); separate and protect both, and do not reveal the LT unnecessarily. CoC is optional, not automatic. With Karhu Feuerbach34 + Engineer25 the package is 79/1.5, four pooled Regular Orders + one NCO activation across four troopers, compared with Magistrate Strategos19 + same Duo = 78/1.5, three pooled + one NCO activation across three troopers. Favor double Fusilier for recurring Order and concealment; Magistrate saves a slot, offers Counterintelligence, reserve flexibility, specialist and optional pooled conversion. Fennec LT/basic10 is an equivalent budget alternative. Joan v2 + Bolt CoC is the other preferred command architecture.
+
 AVA Total instead of NCA5; basic/LT10/0 and 12/0 FO/Repeater or Paramedic are cheap independent utility. Fennec10/0 and Fennec FO/Disco13/0 offer different equipment; no native Core, so SWC guns lose linked efficiency. Decoy body means a second identical model, not printed Decoy.
 
 ## Original NCA analysis — retained reference copy

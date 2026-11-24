@@ -24,6 +24,8 @@
 
 ## Vanilla selection and use
 
+**Joan economy:** Two FTO LRL10/0 Helots supply two of the four potential Inspiring Leadership conversions, with useful independent Neurocinetics AROs. Their low price and likely early attrition make this primarily early-game Order economy: do not expect them to survive all three turns. A Joan v2 + two matching FTO LRL Haris65/1 is legal FT2, but independent positions often cover more angles and avoid holding Joan back; no link is required for Inspiring Leadership. Camo LRL12/0 remains a separate defensive option.
+
 AVA2 versus Varuna3; same seven options, including FTO Sensor profiles. No Patsy/Helot Fireteam or FT Master conversion; Joan LT can regularize eligible non-Religious Helots via Inspiring Leadership. 12/0 one-use Camo LRL and 10/0 FTO LRL are strong independent ARO investments; Red Fury15/1 or sniper17/1.5 conditional. Camo(1 Use) is not reusable.
 
 ## Original Varuna analysis — retained reference copy
