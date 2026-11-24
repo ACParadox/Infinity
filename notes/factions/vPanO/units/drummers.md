@@ -29,6 +29,10 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 21/0 FO plus Drumbot-5 is economical mission package; expensive heavy-weapon peripheral options conditional on geometry and order investment. Peripheral Synchronized is not a Fireteam and remains distinct from independent pairings. AVA2.
 
+### ARO after corrected Fireteam chart
+
+40/1 Feuerbach Drumbot-3 package (or 47/1 with FO/HFT Drumbot-5) retains independent synchronized geometry and B3 AP+DA/B2 EXP reactive, 360-degree visor, Mim-3 on the bot. This is a Peripheral package, not a Fireteam; no +1SD. A+ anti-heavy ARO profile, niche overall purchase: the 47/1 version is preferable if two FO and template coverage are needed, while Black A.I.R. is the more economical solo MSV2 sniper and linked Karhu is the better active/ARO hybrid. Keep the controller protected; one troop slot and one Regular Order, not one per bot.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
