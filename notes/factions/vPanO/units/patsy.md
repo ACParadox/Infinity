@@ -1,6 +1,6 @@
 # Patsy Garnett — Vanilla PanOceania (Infinity N5.3)
 
-**Verdict: Skip.**
+**Verdict: B− — situational pick, not a default inclusion.**
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/patsy.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
@@ -20,11 +20,15 @@
 
 ## Vanilla selection and use
 
-Same34/0 FO NCO HI. Without Varuna's Helot/Undertow link and FT Master application she loses the distinctive team architecture. Joan's eligible Irregular conversion does not require Patsy. Independent NCO specialist is viable, but Karhu, Firefly, Teutonic and cheaper forward specialists compete; skip by default unless durable close-range FO/NCO toolkit is specifically needed.
+Same 34/0 FO NCO HI. Vanilla retains her distinctive FT Master (Helots) package through Family II, although not Varuna's Undertow architecture. Patsy is a credible durable secondary attacker and mission specialist: 6–2 MOV, BS14, ARM4/W2, Warhorse, Stealth, AP SMG, E/Mitter, Grenades and D-Charges provide close-range pressure, anti-armor options and scoring/classified utility. NCO helps if a conventional Lieutenant Order would otherwise go unused, but competes with other NCOs. Karhu remains the stronger general-purpose gunfighter and the 19-point Teutonic Specialist the cheaper solo mission runner. Consider Patsy when her combined durability, NCO, specialist tools and Helot synergy solve multiple list needs.
 
 ### Linked defensive ARO — conditional, not mandatory
 
-Family I Duo or Family II Duo/Haris; counts as Orc or Helot in Family II. Patsy34/0 + FTO LRL10/0 + FTO Shock MMR11/0 =55/0 FT3 Haris (54/0 with two LRL). Helots have B2+1SD LRL or B3+1SD MMR. FT Master makes linked members Regular at Order Count while she is part of the team; if she leaves a team containing Helots, it cancels. With Joan LT, a separate 21/0 Helot Duo is more economical and leaves Joan free to attack; no Patsy purchase needed merely to regularize Helots. Static turret defense also competes with Patsy's mobile NCO/FO role. Preserve Skip by default, conditional niche without Joan.
+Family I Duo or Family II Duo/Haris; counts as Orc or Helot in Family II. Patsy34/0 + FTO LRL10/0 + FTO Shock MMR11/0 =55/0 FT3 Haris (54/0 with two LRL). Helots have B2+1SD LRL or B3+1SD MMR. FT Master makes linked members Regular at Order Count while she is part of the team; if she leaves a team containing Helots, it cancels. With Joan LT, a separate 21/0 Helot Duo is more economical and leaves Joan free to attack; no Patsy purchase needed merely to regularize Helots. Static turret defense also competes with Patsy's mobile NCO/FO role. The package is particularly attractive without Joan: three conditionally Regular troopers, FT3, two cheap defensive guns and a mobile W2 specialist for 54–55 points and no SWC. Patsy is not obliged to stay in the back all game: once the Helots have done their defensive job, she can leave and become an independent follow-up attacker, accepting team cancellation and loss of future FT Master conversion. Do not count on all three orders surviving early enemy attacks.
+
+### Competitive list example
+
+CrazyNomad's [Garten 2.0](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhCkdhcnRlbiAyLjCBLAIBAQAKAAwBAgAAhMYBBAAAhMYBBAAAhMkBAQAAEwEBAAATAQEAAIYdAQEAAIOnAQIAAIcPAQQAACYBAQACAQAGAA8BAQAAJQEBAAAeAQUAAAQBCgAABAEJAAAyAQEA) (Gösslingen Garden Party, August 2025) included Patsy with two FTO LRL Helots and a Cutter Lieutenant, plus a Bolt Sniper/Paramedic package. This is a practical alternative to Joan-based order generation: Patsy enables the Helot package and can use the Cutter's Lieutenant Order via NCO, subject to the normal restrictions. It is a historical submitted list, not proof of match results or current win rates. Reassess Patsy as a credible conditional choice in non-Joan builds rather than a blanket Skip.
 
 ## Original Varuna analysis — retained reference copy
 
