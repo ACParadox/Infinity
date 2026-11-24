@@ -1,6 +1,6 @@
 # ORC Troops WinterFor — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Useful durable Alpha anchor; default 28pt Firewall BSG; long guns conditional.**
+**Verdict: B overall; A− Firewall BSG 28/0. Optional durable Alpha anchor; default to Karhu/Nisse for long-range offense.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original NCA analysis](../../NCA/units/orc.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
@@ -29,6 +29,38 @@ AVA5 unchanged, but SWF has Climbing Plus and Terrain (Mountain) and distinct op
 - HMG 36/1.5 and Feuerbach 37/1.5: deliberate Alpha long-gun anchor, especially for vertical angles with Climbing Plus; compare Karhu Feuerbach (34/1.5, NCO, MSV1/Mim-3) before paying for W2.
 - Hawkins 26/0 is better close-range specialist, but not an Alpha native anchor. ORC + Hannibal 24/0 yields a 52/0 Alpha Duo with complementary firepower/TacAware and counts-as; ORC + Vargar is also possible in Alpha, subject to chart.
 - LT variants only with command plan; Fusilier LT and Karhu NCO often more efficient. Typically 0–2; don't make a costly HI team merely for durability.
+
+## Comparative assessment and profile priorities
+
+| Profile | Pts/SWC | Rating |
+|---|---:|---|
+| BSG (+1B) Firewall | 28/0 | A− |
+| MULTI Firewall | 31/0 | B+ |
+| HMG | 36/1.5 | B |
+| Feuerbach | 37/1.5 | C+ |
+| MULTI Rifle | 30/0 | C+ |
+| LT variants | 31/0 or 36/1 | B− |
+
+The ORC's distinctive SWF benefits are true W2, ARM4, 6–2 movement, Climbing Plus and Alpha equivalence; it has no specialist profile or shooting MOD. Hawkins BSG (26/0) has B3, BS Attack (-3), superior CC and specialist scoring; choose Hawkins for dedicated close attack, ORC for Firewall or Alpha composition. Hannibal (24/0) has an extra personal Tactical Order, Counterintelligence, Sensor, NWI and native +1SD; he is the preferred general support body, not a replacement for the Firewall.
+
+| Long gun | Pts/SWC | BS | Active B | ARM/W | Differentiator |
+|---|---:|---:|---:|---|---|
+| ORC HMG | 36/1.5 | 14 | 4 | 4/2 | Climbing Plus, Alpha |
+| Hospitaller HMG | 32/1.5 | 14 | 4 | 4/2 | Beta, MA2, Frenzy |
+| Nisse HMG | 31/1.5 | 13 | 4 | 3/1 | MSV2, Mimetism (-3) |
+| Karhu Feuerbach (+1B) | 34/1.5 | 13 | 3 (AP+DA) | 2/1 | MSV1, Mim(-3), NCO, Climbing Plus, mines, non-hackable |
+
+Prefer Karhu for general offense and Nisse when MSV2 is the matchup tool. ORC Feuerbach costs more than Karhu and has lower active Burst. HMG is a defensible secondary choice if the team needs a durable B4 gun and Alpha composition.
+
+| Alpha package | Pts/SWC | Level | Role |
+|---|---:|---|---|
+| ORC Firewall BSG + Hannibal Vulkan | 52/0 | FT2 Duo | Close support, extra activation |
+| ORC Firewall BSG + Hannibal Vulkan + Vargar FO Disco | 76/0 | FT3 Haris | Eclipse, Sensor, scoring, Firewall; close-range concentration |
+| ORC HMG + Hannibal Vulkan + Vargar FO Disco | 84/1.5 | FT3 Haris | Better range coverage; no Firewall |
+| ORC HMG + Infirmarer BSG Doctor | 53/1.5 | FT2 Duo | Inexpensive medical recovery |
+| Vargar FO Disco + Hannibal Vulkan + Infirmarer BSG | 65/0 | FT3 Haris | Cheaper non-hackable alternative if ORC durability/Firewall is unnecessary |
+
+Normally 0–1 ORC, more only with deliberate Alpha plan. See [Hawkins](kyle-hawkings.md), [Hannibal](hannibal.md), [Karhu](karhu.md), [Infirmarer](infirmarers.md) and [Hospitaller](hospitaller.md).
 
 ## Original NCA analysis — retained reference copy
 

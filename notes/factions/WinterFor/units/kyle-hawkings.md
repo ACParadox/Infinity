@@ -1,6 +1,6 @@
 # Knight Hospitaller Kyle Hawkins — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: A+ short-range fighting specialist; default 26pt BSG (+1B), MMR conditional.**
+**Verdict: A+ BSG 26/0, near-default for a dedicated close assault specialist; MMR 32/0 A−, conditional. Best-value offensive HI of the four compared.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original MO analysis](../../MO/units/kyle-hawkings.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
@@ -25,6 +25,32 @@ AVA1, both options and prices unchanged versus MO. In SWF Hawkins is not a gener
 - **Beta:** Karhu Feuerbach34 + Hawkins BSG26 + Hospitaller Firewall27 = 87/1.5, combining long gun, close-range specialist and durable Firewall support. A Karhu Engineer instead of the Hospitaller is another mission-oriented alternative. Beta needs an actual eligible anchor.
 - **Independent:** workable, but no forward deployment, so advancing alone takes Orders. Use protected angles; Frenzy can compromise cover.
 - Compared with Shona, Hawkins scores and shoots better; Shona is the dedicated elite CC finisher. Compared with ORC Firewall BSG28, Hawkins is a better attacker but lacks its Firewall and Alpha native access. Usually 0–1, near-default consideration for a close-assault Fusilier/Beta plan.
+
+## Comparative assessment and preferred WinterFor teams
+
+Hawkins BSG is a particularly efficient close-range fighting specialist: BS14, B3 AP shotgun in active turn, BS Attack (-3), W2, BTS6, CC23/MA3, DA CCW and Specialist Operative. In FT2+ roll four active shotgun dice and retain at most three; ARO B1+1SD, not B3. BS Attack (-3) affects qualifying opposing FtF rolls only, not all attacks against Hawkins. Frenzy grants Limited Cover after triggering (loss of enemy's cover BS penalty, not the qualifying saving MOD); an Impetuous Phase activation breaks FT membership.
+
+| Close assault profile | Pts/SWC | Active shotgun | Shooting modifier | Specialist / other value |
+|---|---:|---|---|---|
+| Hawkins | 26/0 | B3 AP | BS Attack (-3) | Specialist, MA3 |
+| Hannibal Vulkan | 24/0 | B2 AP/CD | +1SD | TacAware, Sensor, Counterintelligence, NWI |
+| ORC BSG Firewall | 28/0 | B3 AP | None | ARM4 W2, Firewall, Alpha |
+| Hospitaller BSG | 26/0 | B2 AP | None | ARM4 W2, E/Mitter, Beta anchor |
+
+Hannibal is better general order-efficient support; ORC/Hospitaller are for composition/Firewall rather than outshooting Hawkins. Shona is the dedicated CC finisher, whereas Hawkins is an excellent shooter and specialist. MMR 32/0 is A− if 8–24in coverage/Pulzar is needed, but prefer the 26pt BSG with a complementary long gun. The MMR lacks the shotgun's +1B. Hawkins has no FD, so approach infrastructure is essential.
+
+| Fireteam | Pts/SWC | Level | Role |
+|---|---:|---|---|
+| Hawkins BSG + Quinn Disco FO + native Fusilier FO/Repeater | 64/0 | FT3 Fusilier Haris | Eclipse, MSV1, three specialists, network projection |
+| Hawkins BSG + Fusilier FO + Blade FTO Engineer | 61/0 | FT3 Fusilier Haris | Extra activation and Engineer |
+| Hawkins BSG + Hospitaller Firewall | 53/0 | FT2 Beta Duo | Protected compact HI |
+| Hawkins BSG + Hospitaller Doctor | 56/0 | FT2 Beta Duo | Durable close/midrange, medical recovery |
+| Hawkins BSG + Karhu Feuerbach + Hospitaller Firewall | 87/1.5 | FT2 Beta Haris | NCO, anti-armour, close assault, Firewall |
+| Hawkins BSG + Karhu Feuerbach + Hospitaller Doctor | 90/1.5 | FT2 Beta Haris | Same matching bonus, medical recovery instead |
+| Hawkins BSG + Karhu Feuerbach + Infirmarer BSG | 77/1.5 | FT1 Beta Haris | Cheaper Doctor, loses +1SD |
+| Hawkins BSG + Karhu Feuerbach + Karhu Engineer | 85/1.5 | FT2 Beta Haris | Two Karhu match, mobile Engineer and two specialists |
+
+Hawkins is native-listed in Fusiliers and Beta, not a general Wildcard or native required-choice anchor. Quinn is particularly attractive if choosing the Fusilier assault route rather than static defense. In Beta, the Karhu pair or actual Hospitaller yields FT2; do not mistake three mixed bodies for FT3. See [Quinn](quinn.md), [Hospitaller](hospitaller.md), [Infirmarer](infirmarers.md), [ORC](orc.md) and [Justice](knight-of-justice.md).
 
 ## Original MO analysis — retained reference copy
 

@@ -1,6 +1,6 @@
 # Knight of Justice — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: High priority premium linked ML ARO or durable HD/Pitcher; not automatic.**
+**Verdict: A overall; A+ ML (+1SD) premium ARO, A− HD/Pitcher for a fighting hacker. Other profiles generally skippable.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original MO analysis](../../MO/units/knight-of-justice.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
@@ -25,10 +25,48 @@ AVA2 same; Wildcard max1 in SWF vs max2 in MO, no Hospitaller Counts-as in SWF. 
 ## WinterFor selection and use
 
 - ML (+1SD)46/1.5: premium defensive choice; high BS, ARM5/BTS9 and W2; Fusilier-anchored Core/Haris offers extra dice and cheap support. Swiss Miss/Shepherd favor it; do not expose without cover or pay for it if opponent can bypass the lane.
-- HD MMR/Pitcher45/0.5: durable WIP13 forward hacking, strong Bulleteer Duo (report #182). Locust HD29 is cheaper/hidden but W1; Fusilier HD15 cheaper still. Use Firewall escort when legal/relevant.
+- HD MMR/Pitcher45/0.5: optional durable WIP13 forward hacking, strong Bulleteer Duo (report #182). Locust HD29 is cheaper/hidden but W1; Fusilier HD15 cheaper still. Use Firewall escort when legal/relevant.
 - FO MMR41/0: very durable specialist, but Karhu or Hawkins often compress shooting/scoring for fewer points; no Hospitaller-equivalence benefit.
 - Spitfire42/1.5 or FD(+10)45/1.5: only for specific attack geometry; usually prefer Karhu or Jotum at range. LT options only with command plan (Agnes CoC available).
 - Usually 0–1; at most one per Fireteam under Wildcard max1.
+
+## Comparative assessment and profile priorities
+
+| Profile | Pts/SWC | Rating |
+|---|---:|---|
+| ML (+1SD) | 46/1.5 | A+ |
+| MMR HD/Pitcher | 45/0.5 | A− |
+| MMR FO | 41/0 | B |
+| Spitfire | 42/1.5 | C+ |
+| FD(+10 cm) Spitfire | 45/1.5 | B− |
+| LT variants | 41/0 or 42/1.5 | C+ |
+
+### Missile Launcher
+
+BS14, ARM5/BTS9, W2 and native +1SD are a distinctive combination. Solo ARO B1+1SD (roll two, keep one); FT2–3 B1+2SD (roll three, keep one); FT4–5 also adds +1 BS. EXP mode makes a lost Face-to-Face dangerous. Do not confuse Special Dice with additional retained hits. As a non-counting Wildcard, Justice needs four matching Fusilier-equivalent partners to reach FT4 in a five-member Core.
+
+| Fusilier package | Pts/SWC | Level |
+|---|---:|---|
+| Justice ML + Fusilier LT + basic Fusilier | 66/1.5 | FT2 Haris or Core |
+| Justice ML + Fusilier LT + two basic Fusiliers + Fusilier Paramedic | 88/1.5 | FT4 Core |
+
+The 88pt Core gives the ML BS15 and two Special Dice, not Sixth Sense. It is a premium defense, not a must-have: Pilot-X's upgraded BS13 Sierra and Karhu Feuerbach offer cheaper distributed reactive coverage. Avoid investing 46 points into a lane the enemy can bypass.
+
+### Hacker and specialist alternatives
+
+| Hacker | Pts/SWC | WIP | BTS | W | Main distinction |
+|---|---:|---:|---:|---:|---|
+| Justice HD | 45/0.5 | 13 | 9 | 2 | PS6 MMR, Pitcher, Number 2 |
+| Pilot-X | 21/1 | 13 | 6 | 1 | Zero Pain, RemDriver, optional RacerBots |
+| Locust HD/Pitcher | 29/0.5 | 13 | 3 | 1 | Hidden Deployment, Mim(-6) |
+
+With [Pilot-X](pilot-x.md) and RacerBots already supplying network projection and a defensive HD, Justice is not required simply for another hacker. Take it for the intersection of durable frontline HD, MMR shooter and mission specialist. Normal HD is not a KHD/Trinity substitute. A Hospitaller Firewall escort imposes -3 WIP on applicable hostile Comms Attacks and gives +3 to applicable saves (effective BTS12 when BTS applies). Firewalls do not stack.
+
+Beta Haris: Hospitaller Firewall 27 + Hawkins BSG 26 + Justice HD 45 = 98/0.5 FT2 (Hospitaller and Hawkins match; Justice does not). Bulleteer Spitfire + Justice HD = 67/1.5 FT1 Duo, a reported team shape (#182). Do not assume a KoJ counts as Hospitaller in SWF.
+
+Hawkins MMR 32/0 is nine points cheaper than Justice FO 41/0 and has BS Attack (-3), MA3 and specialist scoring. Justice FO retains real FO, higher ARM/BTS, no Frenzy and PS6 MMR. Spitfires lack the efficiency/visual tools of Karhu/Nisse; FD option is still 1.5 SWC in SWF. Usually zero or one Justice, primarily ML; second only with a purposeful complementary role.
+
+See [Hawkins](kyle-hawkings.md), [Hospitaller](hospitaller.md), [Karhu](karhu.md) and [Infirmarer](infirmarers.md).
 
 ## Original MO analysis — retained reference copy
 

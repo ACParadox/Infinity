@@ -1,6 +1,6 @@
 # Knights Hospitaller — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Strong Beta anchor/support, not compulsory; 26 BSG, 27 Firewall or 30 Doctor first.**
+**Verdict: B+ overall, optional Beta support. Firewall 27/0 is the most distinctive profile; Doctor 30/0 is situational beside Hawkins. Infirmarer is the default Doctor.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original MO analysis](../../MO/units/hospitaller.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
@@ -24,11 +24,56 @@ AVA3 vs MO5; same options/prices. FTO opts 2/3/4/7/8/10 join Beta Haris/Duo only
 
 ## WinterFor selection and use
 
-- BSG + E/Mitter 26/0: economical durable close support; Hawkins26 is better dedicated assault specialist but no E/Mitter.
-- MULTI Firewall27/0: protect hackable Beta team, particularly KoJ HD; Doctor30/0 is valuable when escorting W2 Knights or fragile Karhu/Nisse.
+- BSG + E/Mitter 26/0: situational durable close support; Hawkins26 is better dedicated assault specialist but no E/Mitter.
+- MULTI Firewall27/0: protect hackable Beta team, particularly KoJ HD; Doctor30/0 is situational in a matching Beta team; the 17pt Infirmarer is the default Doctor (including Nisse/Alpha recovery).
 - HMG32/1.5: useful long gun if team needs a resilient shooter; Karhu Feuerbach34/1.5 offers NCO, MSV1 and Mimetism instead.
 - LT Firewall27/0 or HMG32/1: niche with Agnes CoC; Fusilier LT often safer. FWD BSG32/0 is generally inferior to real forward specialists.
 - Usually 0–1, sometimes 2 for a defined Beta Haris. No obligation to bring a Hospitaller if Karhu/Bøyg anchors Beta.
+
+## Comparative assessment and profile priorities
+
+| Profile | Pts/SWC | Rating |
+|---|---:|---|
+| MULTI Rifle Firewall | 27/0 | A− |
+| Doctor MULTI Rifle | 30/0 | B+ (A− in matching Hawkins team) |
+| HMG | 32/1.5 | B |
+| BSG E/Mitter | 26/0 | B− |
+| FD(+20 cm) BSG | 32/0 | C |
+| LT Firewall/HMG | 27/0 or 32/1 | B− |
+
+Unlike MO, Beta does not require a Hospitaller if a native Karhu or Bøyg anchors it. Hawkins BSG is the better dedicated close-range attacker at identical 26/0: B3 instead of B2, BS Attack (-3), MA3, specialist. Ordinary BSG retains ARM4, E/Mitter and native Beta anchor. Karhu Feuerbach 34/1.5 is generally preferable to the 32/1.5 HMG: MSV1, Mim(-3), NCO, climbing, AP mines and non-hackable MI, at the cost of W2/ARM4 and HMG B4. The Firewall MULTI is the clearest remaining niche for protected HI/hacker teams.
+
+### Doctor versus Infirmarer
+
+| Attribute | Hospitaller Doctor | Infirmarer BSG Doctor |
+|---|---:|---:|
+| Pts/SWC | 30/0 | 17/0 |
+| WIP (Doctor) | 13 | 13 |
+| MOV | 4–4 | 6–2 |
+| BS / CC / PH | 14/22/14 | 13/21/11 |
+| ARM / BTS / W | 4/6/2 | 2/3/1 |
+| Martial Arts / CCW | L2 / DA | L1 / Shock |
+| Main gun | MULTI Rifle | Boarding Shotgun |
+| Hackable / Frenzy | Yes / Yes | No / No |
+| FT | Beta native | Wildcard, counts as Alpha/Nisse |
+
+Same WIP13 Doctor roll. The 13pt premium buys combat resilience and capability, not better healing; Infirmarer has faster first Move, wider FT access, no ordinary anti-HI hacking exposure and no Frenzy. Infirmarer Combi is 20/0 if range matters. Frenzy grants Limited Cover after its trigger: the enemy no longer suffers the cover BS MOD; qualifying cover saving MOD remains. Activating in Impetuous Phase breaks membership (or cancels the team if leader). Neither Doctor is a Firewall carrier.
+
+| Beta package | Pts/SWC | FT level |
+|---|---:|---|
+| Firewall + Hawkins BSG | 53/0 | FT2 Duo |
+| Doctor + Hawkins BSG | 56/0 | FT2 Duo |
+| Karhu Feuerbach + Firewall + Hawkins BSG | 87/1.5 | FT2 Haris |
+| Karhu Feuerbach + Doctor + Hawkins BSG | 90/1.5 | FT2 Haris |
+| Karhu Feuerbach + Infirmarer + Hawkins BSG | 77/1.5 | FT1 Haris |
+| Karhu Feuerbach + Karhu Engineer + Hawkins BSG | 85/1.5 | FT2 Haris |
+| Firewall + Hawkins BSG + Justice HD | 98/0.5 | FT2 Haris |
+| Karhu Feuerbach + Hospitaller Doctor | 64/1.5 | FT1 Duo |
+| Karhu Feuerbach + Infirmarer | 51/1.5 | FT1 Duo |
+
+The 90pt Doctor Haris has five total wounds and two specialists; the 77pt Infirmarer version has four wounds, two specialists and only one hackable HI. Paying 13 extra buys FT2 +1SD for the entire team (both Hawkins and Hospitaller count together), one extra wound and midrange shooting. This is the strongest Doctor argument. Without Hawkins or another native Hospitaller, default to Infirmarer and spend savings on another Regular body or mission tool. Karhu Paramedic is another recovery option where appropriate, distinct from Doctor.
+
+See [Infirmarer](infirmarers.md), [Hawkins](kyle-hawkings.md), [Justice](knight-of-justice.md), [Karhu](karhu.md) and [ORC](orc.md).
 
 ## Original MO analysis — retained reference copy
 

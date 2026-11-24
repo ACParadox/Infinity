@@ -1,6 +1,6 @@
 # Infirmarers of Saint Lazarus — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Excellent 17pt BSG linked Doctor; generally skip 20pt Combi.**
+**Verdict: A+ / default linked Doctor: BSG 17/0. Combi 20/0 niche. Prefer over Hospitaller Doctor except in purposeful Hawkins/Hospitaller Beta teams.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original MO analysis](../../MO/units/infirmarers.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
@@ -24,6 +24,35 @@ AVA2 vs MO3; same options/prices. SWF Wildcard max2 counts as Alpha and Nisse, n
 - Independent with Palbot20/0 if safe remote recovery is more useful than linking. Trauma-Doc + Palbot17/0 is cheaper, WIP12.
 - Compared with Hospitaller Doctor30, cheaper but W1; in Beta may join as Wildcard but not native Hospitaller-equivalent. Karhu/Fusilier Paramedic offers cheaper/faster MediKit work for their respective teams.
 - 0–1 usually; second only for a genuinely distinct recovery route.
+
+## Why Infirmarer is the default Doctor
+
+| Attribute | Infirmarer BSG | Hospitaller Doctor |
+|---|---:|---:|
+| Pts/SWC | 17/0 | 30/0 |
+| WIP Doctor | 13 | 13 |
+| MOV | 6–2 | 4–4 |
+| BS/CC/PH | 13/21/11 | 14/22/14 |
+| ARM/BTS/W | 2/3/1 | 4/6/2 |
+| MA / CCW | L1 / Shock | L2 / DA |
+| Main gun | Boarding Shotgun | MULTI Rifle |
+| Frenzy / hackable | No / No | Yes / Yes |
+| FT | Wildcard; Alpha/Nisse | Beta native |
+
+Both heal with WIP13. The Hospitaller premium of 13pts buys combat durability, weapon reach and composition, not more reliable Doctor rolls. Infirmarer has a faster first Move, Terrain (Total), broad link access and no ordinary anti-HI hacking vulnerability. The shotgun complements long guns well; the 20pt Combi is B-tier when midrange is genuinely needed. The 17pt BSG is A+; Hospitaller Doctor is B+ overall, rising in a matching Hawkins link.
+
+| Fireteam | Pts/SWC | FT level |
+|---|---:|---|
+| Nisse HMG + Infirmarer BSG | 48/1.5 | FT2 Duo |
+| ORC HMG + Infirmarer BSG | 53/1.5 | FT2 Alpha Duo |
+| Vargar FO Disco + Infirmarer BSG | 41/0 | FT2 Alpha Duo |
+| Vargar FO Disco + Hannibal Vulkan + Infirmarer BSG | 65/0 | FT3 Alpha Haris |
+| Karhu Feuerbach + Infirmarer BSG | 51/1.5 | FT1 Beta Duo |
+| Karhu Feuerbach + Hawkins BSG + Infirmarer BSG | 77/1.5 | FT1 Beta Haris |
+
+The 65pt Alpha Haris provides three Regular Orders and Hannibal's personal TacAware, two specialists, projected Eclipse, Sensor, Counterintelligence, close templates and recovery; all three count as Alpha and none are ordinarily Hackable by anti-HI/REM/TAG programs. It lacks a dedicated long gun; Karhu or Nisse can operate separately. The Infirmarer does not count as a Hospitaller in Beta. Replacing it with Hospitaller Doctor in the 77pt Beta Haris increases total to 90/1.5, adds one wound and FT2 +1SD through Hawkins/Hospitaller equivalence. This is the real reason to pay the premium, not healing alone.
+
+For most lists, use the savings for another Regular body (Fusilier, Fugazi) or specialist utility. Take a second Infirmarer only when recovery routes are genuinely separate. Compare [Hospitaller](hospitaller.md), [Hawkins](kyle-hawkings.md), [Hannibal](hannibal.md) and [ORC](orc.md).
 
 ## Original MO analysis — retained reference copy
 
