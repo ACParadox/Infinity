@@ -42,6 +42,10 @@
 
 Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latter's partners are independently wanted. Prefer the Bolt CoC in this defensive Duo or the standalone Magistrate; Firefly CoC is niche. Do not buy filler just to obtain +1SD.
 
+### ARO role — FT2 compared with Black A.I.R.
+
+**S-tier MSR; A+ ML when a matching partner is useful.** The MSR26/1.5 has B1+1SD reactive (two rolled, one retained), B2+1SD active, MSV1, Marksmanship and Warhorse. In +3 range against Partial Cover, target numbers are 16/16/13 vs no Mim/Mim-3/Mim-6, compared with Black A.I.R.13/13/13. Black A.I.R. B2 can retain two hits and imposes Mim-3 on non-MSV attackers; it also sees through ordinary Smoke without MSV1's -6. Bolt's accuracy and active utility often outweigh these advantages when KHD/CoC/Paramedic is already wanted. No defensive Mim, ARM2/W1 and no Sixth Sense in vanilla. Prefer MSR+CoC52/1.5 as a protected defensive team, or MSR+KHD48/1.5 for specialist/close control. BSG Duo45/1.5 is cheapest; ML+BSG43/1.5 or ML+CoC50/1.5 trades MSV for EXP/impact-template lethality. Do not expose CoC or buy an extra sniper merely for ARO.
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
