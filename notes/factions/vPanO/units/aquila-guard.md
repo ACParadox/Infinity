@@ -1,12 +1,12 @@
 # Aquila Guard — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/aquila-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/aquila-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in NCA → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo: Aquila FTO only (max 1); mixed FT1, no automatic +1SD. HMG is not FTO and remains independent.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,7 @@
 
 ## Vanilla selection and use
 
-AVA1 versus NCA3. HMG52/1.5 is an independent MSV3 attacker; FTO MMR/Disco49/0 loses linked benefits but retains specialist/vision utility. 52/+1 Strategos LT trades expensive exposed command for flexible order; Magistrate19/0 Strategos is much cheaper and can hide safely. No sharing movement.
+**A-tier HMG, situational anti-Camo.** BS15/MSV3 HMG52/1.5 counters marker-heavy/Mimetism-heavy armies, but Swiss56 is better generic asymmetric gun and Nisse31 supplies cheaper MSV2. FTO MMR/Disco49/0 specialist or Strategos LT52/+1 can form a mixed Family I FT1 Duo (e.g. Blade FTO BSG20/0, total 72/+1 for Strategos); not an NCA Haris and no +1SD. FTO MMR is a midrange mission/command enabler, not sustained HMG substitute. Magistrate19/0 is cheaper protected Strategos.
 
 ## Original NCA analysis — retained reference copy
 

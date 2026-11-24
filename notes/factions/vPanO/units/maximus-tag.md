@@ -1,12 +1,12 @@
 # Maximus, Optimate and HexaDome Legend — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/maximus-tag.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/maximus-tag.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo (max 1 Maximus Optimate); mixed FT1, no automatic +1SD. Agent and TAG are mutually exclusive.
 
 ## Pinned vanilla profiles
 
@@ -22,7 +22,7 @@ Only one Maximus may be selected across IDs 1720 and 1862.
 
 ## Vanilla selection and use
 
-82/1.5 AP HMG and 80/1 AP Thunderbolt(+2B) offer durable independent active pieces. 82/0 LT AP HMG saves SWC but risks command; CoC support. No sectorial Duo; only one Maximus across agent and TAG. Compare cheaper Squalos66/Tik69 and Cutter97; check Escape System and repair conditions rather than assuming ordinary TAG recovery.
+**A+ situational assault/zone-control anchor; prefer 82/0 AP HMG Lieutenant when command protection warrants it.** Standard AP HMG82/1.5 or AP Thunderbolt(+2B)80/1, four Wounds, Immunity (ARM), TA and exceptional CC. BS14/no Mimetism make cheaper Tik69 or Squalos66 better pure-gun investments by default. May form mixed FT1 Duo with eligible Family I support; no matching Maximus bonus. TA can activate the team with Maximus as leader. Only one Maximus across Agent and TAG; check Escape System and repair conditions.
 
 ## Original kestrel analysis — retained reference copy
 

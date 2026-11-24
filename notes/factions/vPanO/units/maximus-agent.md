@@ -1,12 +1,12 @@
 # Optimate Agent Maximus — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/maximus-agent.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/maximus-agent.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I lists Maximus Agent (max 1); mixed FT1, no automatic +1SD. Agent and TAG are mutually exclusive.
 
 ## Pinned vanilla profiles
 
@@ -23,7 +23,7 @@ Only one Maximus may be selected across IDs 1862 and 1720.
 
 ## Vanilla selection and use
 
-48/1 Minimus package versus45/1 FTO TinBot Repeater (no Minimus). Both independent; TinBot not a team bonus. LT variants +1 SWC; protected CoC if using aggressive LT. Only one Maximus across Agent and TAG. Do not import NCA-specific LT profile.
+**A-tier specialist gun / situational command engine.** AP Thunderbolt(+2B) B4 AP, Albedo(-6), TA, NWI, Immunity (ARM) and specialist role. 48/1 Minimus package vs 45/1 FTO TinBot Repeater; LT versions generate +1 SWC. Legal Family I mixed Duo where eligible, not sectorial Fennec link. TA activates team with Maximus as leader; no second matching Maximus. Protected CoC for aggressive LT. Bolt/Karhu generally cheaper precision packages; Maximus offers anti-MSV, AP and specialist compression.
 
 ## Original kestrel analysis — retained reference copy
 

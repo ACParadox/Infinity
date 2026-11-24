@@ -1,12 +1,12 @@
 # Cutters, Varuna Naval Chasseurs — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/cutter.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/cutter.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in Varuna → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -19,7 +19,7 @@
 
 ## Vanilla selection and use
 
-AVA1 versus Varuna2. 97/2 NCO MULTI HMG is premium hidden apex gun; 95/2.5 LT sacrifices NCO and risks exposing command. Vanilla has access to Magistrate/Firefly/Bolt CoC and Joan economy, unlike Varuna; NCO can use a generated LT order but cannot share activation. Compare cheaper Swiss HMG56 and Tik69/Squalos66; no Tactical Awareness printed in pinned Cutter profile, as noted by vanilla listbuilding.
+**S+ raw conventional apex / A+ overall listbuilding value.** 97/2 MULTI HMG NCO is preferred; 95/2.5 LT sacrifices NCO and exposes command. BS15, Mim-6, Camouflage, Hidden Deployment, ARM8 and three STR deliver the highest conventional gun ceiling; no printed TA. Swiss56, Tik69 and Squalos66 leave more room for scoring. Cutter +31 points over Squalos equals an entire Nisse HMG; Bolt MSR/KHD + Karhu Feuerbach/Engineer (two FT2 Duos) costs 107/3, only 10 more than Cutter, with four Regular bodies and two specialists but less concentrated resilience. Choose deliberately.
 
 ## Original Varuna analysis — retained reference copy
 

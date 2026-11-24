@@ -1,12 +1,12 @@
 # Squalos Mk-II — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/squalos.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/squalos.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in kestrel → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo, up to 2 Squalos; two matching Squalos grant FT2, mixed partners ordinarily FT1. No Pathfinder link; no sectorial-only native +1SD imported.
 
 ## Pinned vanilla profiles
 
@@ -20,7 +20,7 @@
 
 ## Vanilla selection and use
 
-66/1.5 MULTI HMG NCO is primary choice; 55/1 MMR conditional budget TAG, 62/1.5 HMG/GL niche. NCO and TA are individual activations; 66 + Pathfinder17 = 83/1.5 independent pair, not Duo. Compare Tik69 and Cutter97; protect with Engineer.
+**S-tier conventional TAG / NCO engine.** 66/1.5 MULTI HMG NCO primary choice; 55/1 MMR budget anchor; 62/1.5 HMG/GL niche. TA and NCO can activate legal teams when the relevant bearer leads and the actual Order is available. Squalos + Blade FTO Engineer 89/1.5 mixed FT1 is possible; two Squalos (e.g. 66+55=121/2.5) grant FT2 but concentrate cost/hacking risk. Pathfinder17 remains independent. Choose over Tik69 when AP and NCO economy matter, over Cutter97 when budget matters; pair with Bolt/Karhu or Nisse for visual matchup coverage.
 
 ## Original kestrel analysis — retained reference copy
 

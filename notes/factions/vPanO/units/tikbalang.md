@@ -1,12 +1,12 @@
 # Tikbalangs — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/Tikbalang.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/Tikbalang.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo (max 1 Tikbalang); mixed partner ordinarily FT1, no +1SD. Pathfinder, Tech-Bee and Machinist are not listed partners.
 
 ## Pinned vanilla profiles
 
@@ -19,7 +19,7 @@
 
 ## Vanilla selection and use
 
-69/1.5 default mobile TAG; 73/1.5 LT(+1 Order) especially coherent solo with protected Magistrate CoC or a separate NCO. No Pathfinder Duo. Ordinary HMG lacks sustained AP; Squalos66 provides AP/NCO, Cutter97 premium marker gun. Tech-Bee9 and Machinist15/Palbot3 are independent support.
+**S-tier default mobile TAG.** HMG69/1.5, BS15/Mim-3, Climbing Plus, TA and mine/template utility; 73/1.5 LT(+1 Order) especially coherent with protected CoC or separate NCO. May link with eligible Family I partners, e.g. Blade FTO Engineer (92/1.5 FT1 with standard Tik), but weigh incompatible climbing routes and exposure of support; no Pathfinder Duo. TA can activate the team with Tikbalang as leader. HMG lacks sustained AP, so supplement with Bolt/Karhu anti-armour or Nisse MSV2 if relevant. Independent Tech-Bee/Machinist/Palbot support remains legal.
 
 ## Original kestrel analysis — retained reference copy
 

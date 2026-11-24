@@ -1,12 +1,12 @@
 # Swiss Guard — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/swiss-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/swiss-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 2 in NCA → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -22,7 +22,7 @@
 
 ## Vanilla selection and use
 
-AVA1 versus NCA2; 56/1.5 HMG is a leading independent hidden hammer. Missile60/1.5 for ambush, FD KHD47/0 and BSG-equivalent short-range options only for planned midfield roles (option5 is AP SMG44/0). TAGs compete; support with independent Pathfinder/Peacemaker.
+**S-tier independent apex infantry HMG (56/1.5).** BS15, Mim-6, Hidden Deployment, Surprise and S2/2W/ARM5 make it a premier protected first-strike hammer. No TA, ordinary HMG lacks AP. ML60/1.5 is the hidden ARO/active hybrid with native +1SD; forward AP SMG44/0 or KHD47/0 for planned midfield roles. Linked Bolt MSR is more economical dual-use precision fire; Karhu Duo supplies AP and climbing; Swiss retains the higher conventional asymmetric attack ceiling. Pair with Bolt or Karhu for anti-armour/visual coverage or Nisse for MSV2; independent Pathfinder/Peacemaker support.
 
 ## Original NCA analysis — retained reference copy
 
