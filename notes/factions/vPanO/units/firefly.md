@@ -34,6 +34,9 @@ Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 is nic
 
 **A — best WIP and defensive utility among vanilla Engineers.** Engineer23/0 has WIP13 (65% contact repair; 87.75% with one eligible Remote Presence Command Token reroll), BTS6, Shock Immunity, Albedo, BS Attack (SR-1), NCO, SMG, Panzerfaust, AP Mines and D-Charges. Independent + Palbot = 26/0. Useful as a defensive specialist with spare LT activations, but the five-percentage-point WIP improvement alone is not worth eight points over Machinist15. Prefer Blade23 when competing NCOs make TA more useful, Karhu25 for conventional combat and mobility, Machinist18 including Palbot for pure repair. Firefly remains unlisted in the corrected chart; no vanilla Fireteam access. Engineer verdict is separate from the HD skip and conditional CoC assessments.
 
+### Revised ARO role
+HRL24/1.5 is B- dedicated ARO: B1, conditional Albedo, SR-1 and impact template, but no vanilla +1SD, MSV or general-purpose Mim. Prefer linked Bolt ML or inexpensive Helot LRL for conventional defensive investment. The 19/0 Repeater/Panzerfaust, Engineer and Minelayer profiles have better differentiated utility; use them for close defense and network/mission tasks rather than purchasing HRL merely as NCO.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
