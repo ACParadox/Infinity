@@ -44,7 +44,7 @@ Common TAG choices:
 
 Support commonly includes:
 
-- Machinist / Engineer;
+- Machinist + Palbot by default for dedicated recovery; Blade/Karhu Engineer for mobile utility; Tech-Bee for TAGCom;
 - Fugazi;
 - Pathfinder;
 - Fennec utility;
@@ -92,7 +92,7 @@ The **underlying tactical pairing** is useful independently or in a legal Firete
 
 Examples of **complementary** synergies:
 
-- Karhu Feuerbach covered by a Karhu Engineer;
+- Karhu Feuerbach with Karhu Engineer for shared movement, scoring and STR/state repair (not VITA healing);
 - Bulleteer with a Blade Engineer positioned for repair;
 - Bolt sniper plus a utility Bolt, preferably a matching FT2 Duo;
 - Joan supported by relevant specialists and independent command assets.
@@ -1133,6 +1133,45 @@ Build a plan to:
 ### Using the corrected vanilla Fireteam chart
 
 Karhu and Bolt FT2 Duos, Nisse + two Blade FTO FT2 Haris, Bulleteer + Blade FTO FT1 Duo and Joan + Helot FTO Haris are legal. Apply the exact chart and composition bonuses; reserve independent Orders for unlisted support.
+
+---
+
+## Engineers and TAG repair — user-approved priorities (24 November 2026)
+
+Four actual Engineers; Tech-Bee is auxiliary support. All cost 0 SWC. Ratings reflect tactical priorities, not measured win rates.
+
+| Priority / profile | Pts | WIP | Role |
+|---|---:|---:|---|
+| 1. Blade FTO Engineer | 23 | 12 | A+ — AP SMG, Mim-3, Shock Immunity, BS Attack (SR-1), TA; best independent order economy / REM escort |
+| 2. Karhu Engineer | 25 | 12 | A+ (S in preferred matching Duo) — MSV1/Mim-3, 6-2, Climbing Plus, MULTI Rifle, Blitzen, NCO; best conventional combat specialist |
+| 3. Machinist base | 15 | 12 | A+ — cheapest dedicated repair, preferably with Palbot |
+| 4. Firefly Engineer | 23 | 13 | A — SMG, Panzerfaust, mines, BTS6, Albedo, NCO; defensive utility and highest Engineer WIP |
+| 5. Machinist turret | 18 | 12 | A — optional Group 2 Order sink after repair reach |
+| 6. Machinist cover | 16 | 12 | B — situational |
+| 7–8. Blade FD / Parachutist Engineer | 30 each | 12 | C — usually skip; specific forward/edge access only, no Fireteam |
+| Auxiliary: Tech-Bee | 9 | 12 | S with same-group TAG; GizmoKit/TAGCom, not Engineer |
+
+**Recovery:** WIP12 = 60% contact repair, 84% with one eligible Remote Presence Command Token reroll; WIP13 = 65% / 87.75%. Failed wound repair inflicts a wound. Engineer clears applicable states (e.g. Isolated, Immobilized, Targeted) on eligible targets, not ordinary VITA wounds. GizmoKit uses target PH (plus printed modifiers); ranged use additionally requires a BS roll. Tech-Bee TAGCom gives eligible same-group TAGs Dodge PH+3 and GizmoKit PH+1 while deployed and non-Null; a TAG with printed GizmoKit PH13 then has 70% contact success. GizmoKit does not get the Engineer-specific reroll and does not generally clear Engineer-cancelable states (Tech-Recovery is a target-specific exception).
+
+| Independent package | Pts/SWC | Orders and role |
+|---|---|---|
+| Machinist + Palbot | 18/0 | Default single-TAG repair, Group 2 when practical |
+| Turret Machinist + Palbot | 21/0 | Recovery plus optional turret with spare Orders; not deployment-time protection |
+| Blade + Palbot | 26/0 | Regular + personal TA; excellent REM-heavy support |
+| Firefly + Palbot | 26/0 | Regular + access to shared LT Order via NCO; defensive utility |
+| Karhu + Palbot | 28/0 | Regular + NCO access; mobile combat specialist |
+| Machinist + Palbot + Tech-Bee | 27/0 | Multiple-TAG support; Tech-Bee in TAG group, Engineer can be in another |
+
+Palbots cost 3/0, AVA2 total; no independent Order. Servant uses controller WIP for Engineer; one active Servant per controller at a time. **A controller with a Palbot cannot join a Fireteam.** Select independent repair reach or linked movement, not both. TA creates a personal Order; NCO spends a shared available LT Order, not an extra Order per NCO.
+
+**Legal linked alternatives under corrected chart (2 Duos + 1 Haris):**
+- Karhu Feuerbach + Karhu Engineer **59/1.5 FT2 Duo**: shared climbing, +1SD and NCO flexibility. Engineer clears disabling states on the Feuerbach but cannot heal its VITA wounds. Paramedic Duo58/1.5 is the wound-recovery and mine alternative.
+- Bulleteer + Blade FTO Engineer **mixed FT1 Duo**: shared movement and practical REM repair; no +1SD. Eligible Family I TAG + Blade FTO Duos are another option. No Palbot when linked.
+- Nisse HMG + Blade FTO BSG + Blade FTO Engineer **74/1.5 FT2 Haris**: two TA Orders for movement or each Blade's own actions, not extra Nisse shooting. The Engineer must lead when performing Engineer actions. Firefly, Machinist and Tech-Bee remain independent.
+
+**Selection:** Machinist + Palbot for one expensive TAG; add Tech-Bee for multiple TAGs or useful cheap TAG support. Blade + Palbot for distributed REMs or when LT Orders are contested, or Blade in a legal escort link when shared movement matters more. Karhu for independent midfield fighting/scoring or the matching Duo; Firefly for defensive mines and WIP13 when NCO access is useful. Infantry-heavy builds may skip Engineer entirely if technical recovery is unlikely. Buy practical recovery reach before WIP premiums, and do not duplicate repair support without distinct coverage.
+
+Unit notes: [Machinist](units/machinist.md) · [Blade-Ops](units/blade-ops.md) · [Karhu](units/karhu.md) · [Firefly](units/firefly.md) · [Tech-Bee](units/techbee.md). Rules: [Engineer](../../../rules/5b_Special%20Skills/Engineer.md) · [Peripheral](../../../rules/5b_Special%20Skills/Peripheral.md) · [GizmoKit](../../../rules/5c_Equipment/GizmoKit.md) · [TAGCom](../../../rules/5b_Special%20Skills/TAGCom.md).
 
 ---
 
