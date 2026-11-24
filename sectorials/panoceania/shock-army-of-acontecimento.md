@@ -25,6 +25,7 @@ Sources used:
 - Army-derived SAA source revision `7.26246.158` from `massayoshi/infinity-army-backup` commit `6b79f39a3abbf5cd3d837fb9dc65e411fc35244b`.
 - InfinityDB Fireteam normalization/semantics at commit `4e2662be3f43387fbae42b3790a711b3e98570c4`.
 - Rules baseline: N5.3 + N5 FAQ v0.1.
+- Armand profile transcription corrected 2026-11-24 using the supplied Army profile screenshot and checked against pinned unit ID 680, profile IDs 1/2 and options 2338/2339. BS Attack (Shock), not +1SD; inactive Symbiont Armor is LI and lacks Mimetism and Forward Deployment.
 
 Coverage notes:
 
@@ -250,7 +251,7 @@ Optional-mode units:
 
 ### Armand `Le Muet`, Freelance Killer
 
-**ID 680 · AVA 1 · MI** — active profile `MOV 10-10 | CC 21 | BS 13 | PH 12 | WIP 13 | ARM 2 | BTS 3 | W 2 | S 2`; inactive Symbiont profile `ARM 0 | BTS 0`. BS Attack (+1SD), Forward Deployment (+10), Natural Born Warrior, Mimetism (-6), Stealth, Transmutation.
+**ID 680 · AVA 1 · MI** — active profile `MOV 10-10 | CC 21 | BS 13 | PH 12 | WIP 13 | ARM 2 | BTS 3 | W 2 | S 2`; inactive Symbiont profile (LI) `MOV 10-10 | CC 21 | BS 13 | PH 12 | WIP 13 | ARM 0 | BTS 0 | W 2 | S 2`. Active skills: BS Attack (Shock), Forward Deployment (+10), Mimetism (-6), Natural Born Warrior, Stealth, Transmutation (1). Inactive skills: BS Attack (Shock), Natural Born Warrior, Stealth. **Neither profile has BS Attack (+1SD).**
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
