@@ -293,11 +293,13 @@ Includes Crabbot ancillary remote.
 
 ### Liang Kai
 
-**ID 1500 · AVA 1 · WB** — `MOV 10-10 | CC 23 | BS 11 | PH 13 | WIP 14 | ARM 1 | BTS 0 | W 1 | S 2`. Regular + Impetuous, Martial Arts L4, Berserk, NWI, Super-Jump, Stealth, Mimetism (-3), Forward Deployment (+10), Religious Troop.
+**ID 1500 · AVA 1 · WB** — `MOV 10-10 | CC 23 | BS 11 | PH 13 | WIP 14 | ARM 1 | BTS 0 | W 1 | S 2`. Regular + Impetuous, Berserk, Dodge (+1 inch), Dodge (+3), Forward Deployment (+10 cm / +4 inches), FT Master (Shaolin), Limited Cover, Martial Arts L4, Mimetism (-3), No Wound Incapacitation (NWI), Religious Troop, Stealth, Super-Jump.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 21 | 0 | Chain Rifle, Light Shotgun, Flash Pulse, Pistol, EXP CCW | — |
+| 1 | 21 | 0 | Chain Rifle, Light Shotgun, Flash Pulse, Pistol, EXP CCW (PS=4) | — |
+
+Profile skill modifiers and weapon PS confirmed against the user-provided Infinity Army screenshot (24 November 2026) and the pinned Army profile-group/loadout data. FT Master (Shaolin) is a printed skill, not permission to form a Fireteam in WinterFor; Liang Kai has no row in the canonical SWF chart.
 
 ### Blade-Ops
 
