@@ -2,49 +2,30 @@
 
 **Vanilla PanO guides:** [Overview](vanilla-pano-overview.md) · [Inventory](vanilla-pano-inventory.md) · [Listbuilding](vanilla-pano-listbuilding.md) · [Fireteams](vanilla-pano-fireteams.md) · [References](vanilla-pano-references.md) · [Units](units/).
 
-**Authority:** [Pinned N5.3 Vanilla PanO roster](../../../sectorials/panoceania/panoceania.md). No standard Core, Haris or Duo chart. These packages are not Fireteams.
+**Authority:** [Pinned N5.3 Vanilla PanO Fireteam charts](../../../sectorials/panoceania/panoceania.md#fireteams), corrected 24 November 2026 from user-supplied Infinity Army screenshots. The earlier archived source omitted these charts; all earlier blanket "no vanilla Fireteams" statements are superseded.
 
-## Particularly strong or unusual Fireteams
+- Maximum **2 Duos and 1 Haris**, no Core shown.
+- **Family I (Duo):** Bolt, Karhu, Blade FTO, Tikbalang, Squalo Mk-II, Bulleteer, ORC, Griffin, Aquila FTO, Patsy Garnett, Maximus Optimate, Maximus Agent.
+- **Family II (Duo/Haris):** Bolt, Blade FTO, ORC, Helot Militiaman FTO, Bulleteer, Nisse, Patsy Garnett (Orc, Helot), Joan of Arc, Joan of Arc v2.
+- See pinned chart for maxima, exact FTO restrictions and counts-as relationships. Mixed links generally FT1; two matching members FT2 (+1SD); three matching FT3 (+3 Discover, +1 Dodge). No FT4 or FT5. Sectorial-only permissions do not transfer.
 
-**N5.3 audited profiles and FT levels (19 November 2026):** [Open the exact 2–5-member Fireteam selections, option IDs, individual/total pts/SWC, FT levels, restrictions, and evidence notes](../../../sectorials/panoceania/panoceania.md#fireteam-audit-and-best-unlinked-compositions--n53). This pinned-roster-based table is the detailed reference; the examples below remain qualitative tactical commentary.
+## Particularly strong Fireteams
 
-**Vanilla PanO has no standard Core/Haris/Duo chart and therefore no legal FT levels (N/A).** The audit instead prices independent packages, such as Tikbalang + Tech-Bee **78/1.5**, Swiss Guard HMG + Pathfinder TacAware + Peacemaker **96/1.5**, and Squalos NCO + Pathfinder TacAware + Tech-Bee **92/1.5**. These are **not Fireteams**, and do not share Orders or FT bonuses.
+| Package | Family | Level | Pts/SWC | Role |
+|---|---|---|---:|---|
+| Karhu Feuerbach + Karhu Engineer | I | FT2 Duo | 59/1.5 | Mobile NCO anti-armour gun, Engineer, shared climbing |
+| Karhu Feuerbach + Karhu Paramedic | I | FT2 Duo | 58/1.5 | Active/ARO gun, medical recovery and mines |
+| Bolt MSV1 MSR + Bolt CoC | I or II | FT2 Duo | 52/1.5 | Precision ARO, command insurance and close defence |
+| Bolt MSV1 MSR + Bolt KHD | I or II | FT2 Duo | 48/1.5 | Precision ARO, close-range specialist |
+| Bolt MSV1 MSR + Bolt BSG + Bolt KHD | II | FT3 Haris | 67/1.5 | Long gun with close protection and specialist |
+| Joan v2 LT + two Helot FTO LRL | II | FT2 Haris | 65/1 | Two matching Neurocinetics Helots, Joan active attack and leadership |
 
+A Karhu Feuerbach retains B1 ARO, gains +1SD in FT2, and has active B3+1SD in AP+DA mode. A Bolt MSR similarly has B1+1SD in ARO but combines Marksmanship, Warhorse and MSV1. The Black A.I.R. Neurocinetics sniper remains independent based on the visible chart.
 
-**None.** The [Vanilla PanO reference](../../../sectorials/panoceania/panoceania.md#fireteams) explicitly has **no standard Fireteam chart**; FTO labels do not unlock Duo/Haris/Core bonuses.
+A Bulleteer + Blade FTO Engineer is a legal mixed FT1 Duo for movement and repair support, but no +1SD unless a matching relationship is explicitly confirmed. Eligible TAGs can link under Family I; check profile AVA and character exclusivity. Patsy can count as Orc or Helot in Family II as shown.
 
-Its best **unlinked synergies** are:
+## Independent support
 
-- **Magistrate Strategos LT + independent gun:** flexible converted LT Order helps power a Swiss or TAG without claiming nonexistent Fireteam movements.
-- **Joan LT + eligible non-Religious Irregular troopers:** Inspiring Leadership converts Orders only when their actual rules and profiles permit it; Joan has no Vanilla Haris.
-- **Swiss Guard + Pathfinder/Peacemaker:** Hidden first-shot threat and independent Sensor/Repeater/forward denial cover different axes.
-- **Tikbalang or Squalos + Tech-Bee + Engineer:** a self-funding TAG backed by support; each separate model still costs its own activations.
+Swiss Guard, Pathfinder, Peacemaker, Tech-Bee and Magistrate remain independent under the visible charts. Preserve separate command protection, Sensor/Repeater pressure, and TAG support. Joan's Inspiring Leadership remains subject to its actual eligibility rules. Do not confuse independent support with team activation or infer permissions for unlisted units.
 
-## Unlinked support architectures — formerly called Fireteams in older sources
-
-**N5.3 legality:** no standard vanilla Fireteam chart. All of the following are **independent models**, not Duos/Haris. Their value is complementary tools, not shared Orders, Fireteam bonuses or a dedicated link slot.
-
-### Karhu Feuerbach supported by Karhu Engineer
-
-Take both when the long-range AP/DA threat, specialist recovery and two NCO options are worth the price. Their compatible movement routes help an Engineer stay in repair range, but **they activate separately**.
-
-### Bolt sniper supported by a utility Bolt
-
-A **Bolt sniper + utility Bolt** only makes sense if MSV pressure and the Hacker/CoC role are both needed. Do not buy a second model just to imitate an obsolete Bolt Duo; other ARO options include:
-
-- **Black A.I.R.**;
-- **Swiss Guard**;
-- **Karhu**;
-- **Helot**.
-
-### Bulleteer supported by Blade Engineer
-
-The fast Mimetism (-6) attacker benefits from a nearby Engineer to recover it after a failed run. **No shared movement Orders**: budget the attack and subsequent support separately.
-
-### Joan command ecosystem — not a Haris
-
-Joan can anchor a distributed package of cheap Regularized Irregular troops (subject to Inspiring Leadership's actual restrictions), a protected CoC alternative and a separate NCO Order outlet. Keep successors **away from the attack footprint**. A historical Joan Haris is not validated in the pinned current vanilla roster.
-
----
-
-See [Battle-report-derived army skeletons](vanilla-pano-listbuilding.md#battle-report-derived-army-skeletons--no-vanilla-fireteams-2026-11-03) for historical examples.
+Historical examples: [Battle-report-derived army skeletons](vanilla-pano-listbuilding.md#battle-report-derived-army-skeletons).
