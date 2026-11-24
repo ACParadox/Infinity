@@ -24,6 +24,8 @@
 
 ## Vanilla selection and use
 
+**HD 24/0.5 — C / usually skip in vanilla.** WIP13/BTS6, NCO, Albedo and Immunity (Shock) are useful, but Pilot-X offers stronger primary-Hacker role compression, Fennec is much cheaper for redundancy, and Locust provides forward HD/Pitcher access. NCO alone does not justify this premium, especially with competing NCO users and no Fireteam to move. This downgrade applies to the Hacker profile only; Engineer, Minelayer and CoC are assessed separately.
+
 Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 competes with Magistrate21/0 and Bolt26/0. Repeater19/0 loses its strong linked budget-glue role. AVA2; choose genuine tool rather than support that requires shared movement.
 
 ## Original kestrel analysis — retained reference copy

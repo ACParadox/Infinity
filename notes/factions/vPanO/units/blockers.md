@@ -19,6 +19,8 @@
 
 ## Vanilla selection and use
 
+**Hacking priority (24 November 2026): HD B− / usually pass; Pitcher Specialist S+.** AVA1 is shared: the 19/0.5 Firewall HD excludes the outstanding 15/0 B2 X-Visor Pitcher Specialist. Reserve the slot for the Pitcher in most hacking lists. Pilot-X is the preferred primary HD; Fennec is the cheap secondary/budget HD. Take Blocker HD only when the Pitcher is deliberately unnecessary and the personal Firewall/Sensor toolbox is specifically wanted.
+
 AVA1 vs NCA2. 15/0 Specialist/Pitcher, Biometric Visor, Sensor and adhesive threat remains very economical independently; 19/0.5 HD Firewall lacks Pitcher. No Fireteam or shared Firewall; compare Fennec13/0 FO/Sensor/Disco and Pilot-X hacker package.
 
 ### Vanilla Pitcher assessment — S+ (15/0)
@@ -27,7 +29,7 @@ AVA1 vs NCA2. 15/0 Specialist/Pitcher, Biometric Visor, Sensor and adhesive thre
 
 Sensor, Biometric Visor, Discover (ReRoll), Adhesive Launcher Rifle, Pulzar, Flash Pulse and Specialist Operative give this 15-point Regular body meaningful jobs even after its Pitcher is spent. It is not a primary lethal gunfighter. Clear dangerous lanes first; lack of FD means it may need to advance for a better landing point.
 
-**Default package:** Blocker 15 + Fennec HD/FastPanda 16/0.5 = **31/0.5**, two Regular Orders and two specialists; a separate, protected HD exploits the network. Fusilier HD 15/0.5 is the cheaper alternative (30/0.5 total). Guided missiles are optional, not necessary to justify network control. AVA1 means the 19/0.5 Firewall HD (no Pitcher) excludes the preferred Specialist.
+**Budget package (alternative to preferred Pilot-X):** Blocker 15 + Fennec HD/FastPanda 16/0.5 = **31/0.5**, two Regular Orders and two specialists; a separate, protected HD exploits the network. Fusilier HD 15/0.5 is the cheaper alternative (30/0.5 total). Guided missiles are optional, not necessary to justify network control. AVA1 means the 19/0.5 Firewall HD (no Pitcher) excludes the preferred Specialist.
 
 See [vanilla Pitcher comparison](../vanilla-pano-listbuilding.md#pitchers--comparison-and-packages) for alternatives and reliability.
 

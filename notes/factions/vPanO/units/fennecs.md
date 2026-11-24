@@ -29,6 +29,8 @@
 
 ## Vanilla selection and use
 
+**HD/FastPanda 16/0.5 — A, budget primary or cheap secondary Hacker.** Pilot-X is the preferred primary HD; add Fennec when redundant Spotlight/Carbonite/Oblivion coverage, another network axis or a low-cost backup is worth 16 points and 0.5 SWC. WIP12/BTS3, FastPanda and E/Mitter make it a better default budget HD than the 15/0.5 Fusilier, but not an automatic second Hacker. The 13/0 FO/Sensor/Disco remains the priority Fennec profile; the separate Hacker does not carry Disco. The retained Kestrel S rating for HD is sectorial-specific.
+
 13/0 FO/Sensor/Disco is efficient independent vision control; 14/0 Thunderbolt/Minelayer and 16/0.5 HD/FastPanda useful. LT10 or basic10 for cheap Orders/decoy body; no Core or link bonuses. Pinned LT has no printed Decoy skill.
 
 ## Vanilla Disco Baller priority — S tier

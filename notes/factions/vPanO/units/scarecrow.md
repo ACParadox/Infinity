@@ -22,6 +22,8 @@
 
 ## Vanilla selection and use
 
+**KHD A+ preferred over HD B+.** The 27/0 KHD is an independent infiltrating mission specialist and anti-hacker threat: Hidden Deployment, repeatable Camouflage, Mim(-6), BS13, D-Charges and Nanopulser. It saves 2 points and 0.5 SWC versus HD29/0.5. Pilot-X normally provides full HD coverage from safety; Scarecrow KHD adds a concealed forward vector without duplicating that role. The HD remains worthwhile only for a deliberate hidden anti-HI/TAG ambush or second full-device axis. Neither carries a Pitcher or Firewall; compare Zulu KHD for renewable marker/network utility and Locust KHD for Firewall/Pitcher. Hidden Deployment can withhold the pooled Order.
+
 25/0 FO, 27/0 KHD, 27/0.5 Minelayer and HD29/0.5 are independent midfield tools. AVA2 rather than Kestrel3; compete with Croc Men (X Visor/mines/repeaters), Zulu (Pitcher/KHD) and Locust. Hidden Deployment can withhold Order until revealed per rules.
 
 ## Original kestrel analysis — retained reference copy

@@ -25,7 +25,9 @@
 
 ## Vanilla selection and use
 
-Same one Pilot-X plus 0–2 RacerBots in same Combat Group; Pilot-X21/1 and bots8/0 each. Corrected fixed BS=13, PH=13, BTS=6 RemDriver, not additive and no CC change. Pilot-X + two RacerBots =37/1, three Regular bodies with network/area denial. No Fireteam or Peripheral relationship; each activates independently. Excellent option with Sierra/Bulleteer/Peacemaker; broader vanilla competition means WinterFor must-have rating is not automatically universal.
+**S+ — preferred primary Hacker and near-default list-building candidate.** At 21/1, WIP13/BTS6, Immunity (Shock), Zero Pain and the RemDriver upgrade already offer strong role compression; add one or preferably two 8/0 Mk-III bots when slots and points permit (29/1 or 37/1). Choose a useful eligible REM (e.g. Sierra or Bulleteer) to exploit the upgrade even in a list that was not otherwise REM-heavy. The two-bot package gives three Regular bodies, two deployable Repeaters and PARA/riotstopper denial. Zero Pain protects Pilot-X herself, not other models; it does not replace offensive HD programs. Keep her protected. Main trade-offs are 1 SWC, one Wound, trooper slots and Orders needed to place Repeaters. Choose one KHD to complement her; Fennec HD is optional redundancy.
+
+Same one Pilot-X plus 0–2 RacerBots in same Combat Group; Pilot-X21/1 and bots8/0 each. Corrected fixed BS=13, PH=13, BTS=6 RemDriver, not additive and no CC change. Pilot-X + two RacerBots =37/1, three Regular bodies with network/area denial. No Fireteam or Peripheral relationship; each activates independently. Excellent option with Sierra/Bulleteer/Peacemaker; now rated S+ in vanilla as well, with list-specific SWC/slot constraints.
 
 ## Original WinterFor analysis — retained reference copy
 

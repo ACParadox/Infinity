@@ -417,7 +417,7 @@ This is especially efficient in lists already taking Zulu or Pathfinder Sensor.
 
 ### Hacker / FastPanda
 
-Take only when the rest of the list gives the Hacker something worthwhile to do.
+**A — cheap secondary or budget primary HD.** Prefer Pilot-X as the main Hacker; take Fennec only when redundancy or a budget network is useful.
 
 Good with:
 
@@ -472,7 +472,7 @@ This makes it particularly valuable in elite lists where every pooled Regular Or
 
 **Pilot-X 21/1** is a **WIP13 Hacking Device (Zero Pain)** troop with RemDriver for one eligible **REM**, **not** for a TAG. A legal Pilot-X Team can add **one Mk-III for 29/1** or **two for 37/1**, each an 8-point Regular REM with **MOV20-10**, Deployable Repeater, PARA Mine Dispenser, Light Riotstopper and 360º Visor. The package supplies **two/three Regular Orders** if all are eligible/deployed, not one synchronized controller Order. Team members stay in the **same Combat Group**.
 
-**Best when:** Vanilla wants a REM enhancement (e.g. Sierra), a defensive Hacker, and one/two independently positionable ground network/denial routes. Repeaters are carried, **not predeployed**; reaching cover and placing them costs Orders. **Why not automatic:** 1 SWC competes with attack guns, the parent has only one Wound, and 8-point Mk-III bots can be removed by hacking or ordinary attacks. A Fugazi, Pathfinder or Peacemaker is often a cheaper single-purpose solution. [Whole-game #4 Best mobile Repeater](../../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater); [hybrid force-multiplier tradeoff](../../list-building/force-multipliers-special-abilities-apex-value.md).
+**S+ — preferred primary HD.** Vanilla wants a REM enhancement (e.g. Sierra), a defensive Hacker, and one/two independently positionable ground network/denial routes. Repeaters are carried, **not predeployed**; reaching cover and placing them costs Orders. **Trade-offs:** 1 SWC competes with attack guns, the parent has only one Wound, and 8-point Mk-III bots can be removed by hacking or ordinary attacks. A Fugazi, Pathfinder or Peacemaker is often a cheaper single-purpose solution. [Whole-game #4 Best mobile Repeater](../../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater); [hybrid force-multiplier tradeoff](../../list-building/force-multipliers-special-abilities-apex-value.md).
 
 **Profile distinction:** RacerBot **Mk-III** is Pilot-X-dependent; **standalone Mk-I and Mk-II** (confirmed in Vanilla PanO on 24 November 2026; shared AVA2, each 9/0) are distinct orders/support profiles and do **not** inherit the Mk-III toolkit or the Pilot-X dependency. The OSS/ALEPH Pilot-X version **23/.5** is not the PanO **21/1** loadout. Mk-I has Adhesive Launcher Rifle and PARA Mine; Mk-II has Heavy Riotstopper and PARA Mine Dispenser. Neither is a Repeater. Pilot-X plus two Mk-III and two standalone bots totals 55/1 for five Regular Orders; only the Pilot-X Team members must share a Combat Group.
 
@@ -689,7 +689,7 @@ This kind of cheap 2W utility repeatedly appears in successful lists because it 
 
 ## Blocker
 
-Current Blockers are much more than generic WIP13 Hackers.
+**Pitcher Specialist 15/0 S+; HD 19/0.5 B− / usually pass.** AVA1 is shared, so taking the HD sacrifices the best dedicated Pitcher. Use Pilot-X as primary HD and Fennec as cheap backup; reserve the Blocker for the Pitcher unless its personal Firewall HD serves a specific plan.
 
 Relevant utility includes:
 
@@ -711,7 +711,7 @@ They are especially useful when:
 
 ## Locust Hacker
 
-The current Locust gives Vanilla a very different hacking vector from a DZ Hacker.
+**Conditional choice:** HD/Pitcher 29/0.5 A− overall; KHD/Pitcher 27/0 A. A forward Hacker with its own Pitcher is appealing, but not a default over Pilot-X plus a separate KHD. With Pilot-X, lean KHD; compare Zulu-Cobra and Scarecrow.
 
 Its strengths include:
 
@@ -731,9 +731,70 @@ Its higher cost means it should be selected for a deliberate mission / matchup r
 
 ---
 
+## Hackers and Killer Hackers — vanilla selection (24 November 2026)
+
+User-refined profile priorities; these are tactical judgments, not changes to the pinned roster. No Fireteam bonuses are assumed. Prefer one primary HD, one purposeful KHD and a secondary HD only when justified.
+
+### Regular HD priority
+
+| Profile | Pts / SWC | Grade | Selection |
+|---|---:|---|---|
+| [Pilot-X](units/pilot-x.md) | 21/1 | **S+** | Preferred primary HD; Zero Pain, BTS6, RemDriver and Mk-III access |
+| [Fennec](units/fennecs.md) | 16/0.5 | A | Cheap secondary HD or budget primary; FastPanda and E/Mitter |
+| [Locust Pitcher](units/locust.md) | 29/0.5 | A− | Conditional self-contained offensive HD/Pitcher, Firewall, Hidden Deployment |
+| [Scarecrow](units/scarecrow.md) | 29/0.5 | B+ | Hidden infiltrating HD; usually prefer KHD |
+| Locust one-use Camo | 31/0.5 | B | No Pitcher; usually prefer other Locust profiles |
+| [Banshee](units/banshee.md) | 25/0.5 | B | Prefer airborne KHD |
+| [Bolt](units/bolts.md) | 24/0.5 | B− | BTS6, WIP12; situational |
+| [Blocker](units/blockers.md) | 19/0.5 | B− | AVA1 opportunity cost; choose 15/0 Pitcher Specialist instead |
+| [Firefly](units/firefly.md) | 24/0.5 | C | NCO/BTS6 insufficient to justify premium; usually pass on HD |
+| [Black A.I.R.](units/black-air.md) | 26/0.5 | C | Prefer other profiles |
+| [Croc Man](units/croc-men.md) | 33/0.5 | C | Prefer Scarecrow for this role |
+| [Swiss Guard](units/swiss-guard.md) | 56/0.5 | Skip | Reserve AVA for HMG or other primary role |
+| [Fusilier](units/fusilier.md) | 15/0.5 | Skip | Fennec only one point more |
+| [Nøkken](units/nokken.md) | 27/0.5 | Skip | Outclassed |
+| [Nisse](units/nisses.md) | 30/0.5 | Skip | Outclassed as HD |
+| [ORC](units/orc.md) | 33/0.5 | Skip | Outclassed |
+
+Mulebot EVO 14/0.5 is a separate REM/Combat Jump support role, not a substitute for standard HD control programs.
+
+### KHD priority
+
+| Profile | Pts / SWC | Grade | Selection |
+|---|---:|---|---|
+| [Zulu-Cobra](units/zulu-cobra.md) | 26/0 | S | Practical persistent Camo/Pitcher specialist; preferred network complement |
+| [Scarecrow](units/scarecrow.md) | 27/0 | A+ | Preferred Scarecrow cyber profile; infiltrating concealed scorer |
+| [Banshee](units/banshee.md) | 23/0 | A+ | Best budget airborne KHD |
+| [Locust](units/locust.md) | 27/0 | A | Conditional Firewall/Pitcher alternative; no repeatable Camo |
+| [Black A.I.R.](units/black-air.md) | 31/0 | A | Parachutist (DZ) assassination vector |
+| [Swiss Guard](units/swiss-guard.md) | 47/0 | A− | Resilient assault KHD, expensive and competes with HMG |
+| [Bolt](units/bolts.md) | 22/0 | B+ | Backline BTS6 alternative |
+| [Nøkken](units/nokken.md) | 25/0 | Skip | Outclassed |
+
+**Core comparison:** Zulu KHD is the flexible repeatable-Camo Pitcher carrier; Scarecrow KHD provides Infiltration, Hidden Deployment and Mim(-6) but no Pitcher; Locust KHD offers FD(+20 cm), Hidden Deployment, Mim(-6), Firewall and Pitcher but no reusable Camo. Locust HD remains appealing when one model needs to project and exploit a Repeater with standard HD programs; with Pilot-X already present, the KHD usually makes more sense. Locust is not yet a firm default. Firefly HD is not recommended merely for NCO. Blocker HD loses the sole Blocker Pitcher slot.
+
+### Preferred network packages
+
+| Package | Pts / SWC | Regular bodies | Purpose |
+|---|---:|---:|---|
+| Pilot-X + one Mk-III | 29/1 | 2 | Compact primary HD, RemDriver, mobile deployable Repeater |
+| **Pilot-X + two Mk-III** | **37/1** | **3** | Preferred primary hacking foundation, two deployable Repeaters and area denial |
+| Pilot-X + two Mk-III + Blocker Specialist | 52/1 | 4 | Adds best dedicated Pitcher and Sensor |
+| **Pilot-X + two Mk-III + Blocker Specialist + Zulu KHD** | **78/1** | **5** | Full preferred HD/KHD network; two Pitcher carriers |
+| Same with Locust KHD instead | 79/1 | 5 | Firewall and deeper forward deployment; hidden Order caveat |
+| Same with Scarecrow KHD instead | 79/1 | 5 | Concealed infiltrating scorer; only one Pitcher carrier |
+| Blocker Specialist + Fennec HD | 31/0.5 | 2 | Budget network when Pilot-X does not fit |
+| Fennec HD + Fugazi | 23/0.5 | 2 | Minimal cheap defensive network |
+
+Add Fennec HD 16/0.5 only if meaningful redundancy or additional control is needed; the full Zulu package then becomes 94/1.5. Do not crowd out apex guns, command, scoring or Eclipse. A useful REM is required to exploit RemDriver; it upgrades one eligible REM, not a TAG. Mk-III bots and Pilot-X share a Combat Group but activate separately. Deployable Repeaters require placement Orders; they are not native or predeployed Repeaters. Hidden Deployment may withhold pooled Orders; listed body counts are not guaranteed initial pooled Orders.
+
+Source: [Pinned vanilla roster](../../../sectorials/panoceania/panoceania.md). The grades reflect the user's refined priorities and comparative tactical assessment.
+
+---
+
 ## Pitchers — comparison and packages
 
-**Default: Blocker Specialist 15/0 + Fennec HD/FastPanda 16/0.5 = 31/0.5.** Vanilla has three Pitcher-bearing units and four distinct profiles (pinned roster, 24 November 2026). These are role-specific ratings, not overall unit grades.
+**Budget alternative: Blocker Specialist 15/0 + Fennec HD/FastPanda 16/0.5 = 31/0.5. Preferred primary HD: Pilot-X 21/1 (S+).** Vanilla has three Pitcher-bearing units and four distinct profiles (pinned roster, 24 November 2026). These are role-specific ratings, not overall unit grades.
 
 | Unit / profile | Pts / SWC | BS / B | Deployment and protection | Rating / preferred role |
 |---|---:|---|---|---|
@@ -761,7 +822,7 @@ Pitcher is Disposable (2). Blocker B2 spends both charges in one declaration; B1
 | Package | Pts / SWC | Pitcher carriers | Devices / purpose |
 |---|---:|---:|---|
 | Blocker + Fusilier HD | 30 / 0.5 | 1 | Cheap HD network |
-| **Blocker + Fennec HD** | **31 / 0.5** | **1** | **Default: HD, FastPanda, two Regular Orders, two specialists** |
+| **Blocker + Fennec HD** | **31 / 0.5** | **1** | **Budget: HD, FastPanda, two Regular Orders, two specialists** |
 | Locust HD | 29 / 0.5 | 1 | Slot-efficient independent forward HD |
 | Blocker + Locust HD | 44 / 0.5 | 2 | Two projection axes, one HD |
 | Blocker + Fennec HD + Zulu KHD | 57 / 0.5 | 2 | HD + KHD, FastPanda, renewable Camo |
@@ -769,7 +830,7 @@ Pitcher is Disposable (2). Blocker B2 spends both charges in one declaration; B1
 
 Pitcher carrier counts are not guaranteed deployed Repeaters. A hidden Locust does not contribute its Regular Order to the shared pool until revealed; deploy openly if the pooled Order matters more. Firewall protects its bearer, not the entire network. The KHD fights enemy hackers and scores, but cannot substitute for an HD's Spotlight/Carbonite/Oblivion against eligible targets.
 
-**Decision:** Start with Blocker + Fennec HD when a real network is wanted; choose Locust HD instead if one-body compression or concealed forward hacking is the priority. Add Zulu KHD for persistent marker-state scoring and cyber defense, or Locust KHD when the extra Firewall and forward positioning outweigh repeatable Camouflage. Don't automatically buy all of them: vPanO already has cheap native/mobile Repeaters, powerful guns, and strong alternative midfield specialists. Guided Clipper is optional; anti-heavy control, defending friendly TAGs and reactive hacking justify the network independently.
+**Decision:** Start with Pilot-X as primary HD and reserve AVA1 Blocker for the Pitcher. Blocker + Fennec HD is the budget alternative; choose Locust HD instead if one-body compression or concealed forward hacking is the priority. Add Zulu KHD for persistent marker-state scoring and cyber defense, or Locust KHD when the extra Firewall and forward positioning outweigh repeatable Camouflage. Don't automatically buy all of them: vPanO already has cheap native/mobile Repeaters, powerful guns, and strong alternative midfield specialists. Guided Clipper is optional; anti-heavy control, defending friendly TAGs and reactive hacking justify the network independently.
 
 Sources: [Pinned vanilla roster](../../../sectorials/panoceania/panoceania.md) · [Network projection rankings](../../list-building/network-projection-repeaters-pitchers-apex-value.md) · [Pitcher rules](https://infinitythewiki.com/Pitcher). The global ranking mentions enhanced climbing for Locust; the pinned vanilla roster does not print it, so it is excluded here.
 

@@ -23,6 +23,8 @@
 
 ## Vanilla selection and use
 
+**Hacking priority: HD/Pitcher A− overall (A+ in the specific self-contained Pitcher role); KHD/Pitcher A, conditional.** Still undecided as a routine selection. Having a full HD and Pitcher on one forward-deployed model is appealing, but Pilot-X usually covers the primary HD role and the Blocker is a cheaper dedicated launcher. With Pilot-X, the 27/0 KHD saves 2 points and 0.5 SWC over the 29/0.5 HD while retaining Firewall, Pitcher and forward deployment. Compare Zulu's renewable Camo/BS13 and Scarecrow's true Infiltration/Camo; the Locust's Hidden Deployment is not repeatable Camo. Choose HD for one-body compression or deliberate forward standard-program threat, KHD for protected cyber attack and projection; neither is mandatory. The 31/0.5 one-use-Camo HD without Pitcher is lower priority (B).
+
 AVA2 versus NCA3. 24/0 BSG specialist, 27/0 KHD Firewall/Pitcher and 29/0.5 HD Firewall/Pitcher are distinct tools; vanilla Croc/Scarecrow offer reusable Camo and true Infiltration, reducing the need for exposed FWD or one-use Camo Locust. Hidden Deployment is not reusable Camo.
 
 ### Vanilla Pitcher assessment — HD A+ / KHD A (role-specific)
@@ -33,7 +35,7 @@ AVA2 versus NCA3. 24/0 BSG specialist, 27/0 KHD Firewall/Pitcher and 29/0.5 HD F
 
 Both Pitcher profiles are BS12, B1, Disposable (2), with no X-Visor: unopposed direct-fire success is 60% / 45% / 30% at 0–16″ / >16–24″ / >24–48″ before other modifiers. FD can shorten the shot. Hidden Deployment is optional; while hidden its Regular Order is withheld from the shared pool. Reveal for a worthwhile opportunity; launching first normally forfeits the initial Surprise Attack for a subsequent attack. Hidden Deployment cannot be regained. Enhanced climbing is not printed on the pinned vanilla roster and is not assumed here.
 
-**Default instead:** Blocker + Fennec HD (31/0.5) for two independent Regular bodies, B2 X-Visor Pitcher, FastPanda and separate protected hacker. Locust HD saves two points and one slot but gives up the extra body and launch reliability. Blocker + Locust HD (44/0.5) is a useful two-axis alternative; Blocker + Fennec HD + Locust KHD (58/0.5) adds protected cybercombat.
+**Budget alternative (primary HD preference is Pilot-X):** Blocker + Fennec HD (31/0.5) for two independent Regular bodies, B2 X-Visor Pitcher, FastPanda and separate protected hacker. Locust HD saves two points and one slot but gives up the extra body and launch reliability. Blocker + Locust HD (44/0.5) is a useful two-axis alternative; Blocker + Fennec HD + Locust KHD (58/0.5) adds protected cybercombat.
 
 These ratings describe **vanilla Pitcher/hacking roles**, not an overall upgrade to every Locust profile or an automatic inclusion. Croc Man and Scarecrow remain strong competing midfield specialists. The retained NCA analysis has different preferences and does not override this vanilla assessment.
 
