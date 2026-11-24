@@ -24,6 +24,10 @@
 
 **S-tier independent apex infantry HMG (56/1.5).** BS15, Mim-6, Hidden Deployment, Surprise and S2/2W/ARM5 make it a premier protected first-strike hammer. No TA, ordinary HMG lacks AP. ML60/1.5 is the hidden ARO/active hybrid with native +1SD; forward AP SMG44/0 or KHD47/0 for planned midfield roles. Linked Bolt MSR is more economical dual-use precision fire; Karhu Duo supplies AP and climbing; Swiss retains the higher conventional asymmetric attack ceiling. Pair with Bolt or Karhu for anti-armour/visual coverage or Nisse for MSV2; independent Pathfinder/Peacemaker support.
 
+### Revised ARO selection
+
+60/1.5 ML remains S-tier premium hidden ARO (native B1+1SD, BS15, Mim-6, two Wounds) and selective active anti-heavy gun. No vanilla Fireteam access. Use Hidden Deployment to choose engagements; do not expose it against the first apex active gun. Corrected linked Karhu/Bolt are more affordable general-use alternatives, not replacements for its concealment. If the Swiss ML is already the primary hidden threat, usually omit a second premium dedicated ARO and layer cheaper Helots, Fugazi, Zulu or Peacemaker instead.
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
