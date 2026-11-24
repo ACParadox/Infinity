@@ -227,12 +227,14 @@ Includes Crabbot ancillary remote.
 
 ### Valkyrie
 
-**ID 1343 · AVA 1 · MI** — `MOV 10-10 | CC 22 | BS 12 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`. Martial Arts L3, Berserk, Natural Born Warrior, Frenzy, NWI, Immunity (Enhanced).
+**ID 1343 · AVA 1 · MI** — `MOV 10-10 | CC 22 | BS 12 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`. Berserk (+3), Courage, Dodge (+5 cm / +2 inches), Frenzy, Immunity (Enhanced), Martial Arts L3, Natural Born Warrior, No Wound Incapacitation (NWI).
+
+**Profile correction (2026-11-24):** user-provided Infinity Army screenshot confirms the full shared skills and EXP CCW (PS=5), also present in the pinned Army JSON (unit 1343, profile group 1, profile 1, options 1/2). Costs, statline, AVA and Fireteam access are unchanged.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 28 | 0 | Heavy Shotgun, Heavy Pistol, Grenades, EXP CCW | Wildcard max 1; counts as WinterFor Alpha |
-| 2 | 33 | 0 | MULTI Rifle, Heavy Pistol, Grenades, EXP CCW | same |
+| 1 | 28 | 0 | Heavy Shotgun, Heavy Pistol, Grenades, EXP CCW (PS=5) | Wildcard max 1; counts as WinterFor Alpha |
+| 2 | 33 | 0 | MULTI Rifle, Heavy Pistol, Grenades, EXP CCW (PS=5) | same |
 
 ### Kunai Solutions Ninjas
 
