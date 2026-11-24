@@ -126,7 +126,7 @@ These are the exact [toolbox Apex and Value](../../list-building/jack-of-all-tra
 
 | Whole-game rank (special force multipliers) | Legal local profile / package | Apex / Value | Why it qualifies; limitation |
 |---|---|---|---|
-| **Top 3 (#3) — Force multipliers** | **Pilot-X RemDriver21/1; +Mk-III RacerBot8/0 each** | — | WIP13 Zero Pain Hacker, +1 BS/+5 CC/BTS=6 on **one REM**, and 29/1 or 37/1 multi-role package with separately paid Regular Mk-III; no TAG (e.g. Jotum) receives the RemDriver token. |
+| **Top 3 (#3) — Force multipliers** | **Pilot-X RemDriver21/1; +Mk-III RacerBot8/0 each** | — | WIP13 Zero Pain Hacker, BS=13/PH=13/BTS=6 on **one REM**, and 29/1 or 37/1 multi-role package with separately paid Regular Mk-III; no TAG (e.g. Jotum) receives the RemDriver token. |
 
 
 **ARO Units — verified cross-faction Top 10 (5 November 2026)**
@@ -187,9 +187,11 @@ These are **individual standout units and profiles**, not Vanilla-exclusive unit
 | **Cutter + Redeye** | **Varuna + Kestrel / NCA** | Hidden heavy TAG plus fast off-axis aerial vehicle angles in the same list; vulnerable to concentrated anti-hacking and high model/Order costs. |
 | **Swiss Guard + Fennec + BCA Magistrate** | **NCA + Kestrel** | Hidden missile/HMG threat plus low-cost Sensor/Eclipse scoring and inexpensive command/CoC options. No Fennec Fireteam bonus in Vanilla. |
 
-#### Standard roster entry exclusive to Vanilla among PanO armies
+#### Standard roster entries exclusive to Vanilla among PanO armies
 
-**Motorized Bounty Hunter (AVA1)** is the **only standard unit in the 51-unit Vanilla PanO roster not listed in any of the six PanO sectorial roster indices**. Its **8-point Boarding Shotgun + Heavy Riotstopper**, **9-point SMG + Chain-colt (+1B)** and **16-point Red Fury** profiles provide fast motorcycle harassment with Mimetism(-3), Booty (ReRoll) and Irregular/Impetuous limitations. It is **not a whole-game-exclusive unit**; the distinction is access within the PanOceania army family. Pairing it with Joan may be useful if Inspiring Leadership legally regularizes its Order.
+**Motorized Bounty Hunter (AVA1)** is one of two standard entries in the corrected 52-unit Vanilla PanO roster not listed in the six pinned PanO sectorial roster indices. Its **8-point Boarding Shotgun + Heavy Riotstopper**, **9-point SMG + Chain-colt (+1B)** and **16-point Red Fury** profiles provide fast motorcycle harassment with Mimetism(-3), Booty (ReRoll) and Irregular/Impetuous limitations. It is **not a whole-game-exclusive unit**; the distinction is access within the PanOceania army family. Pairing it with Joan may be useful if Inspiring Leadership legally regularizes its Order.
+
+**Standalone RacerBots (AVA2)** are the other entry: Mk-I Adhesive Launcher Rifle/PARA Mine and Mk-II Heavy Riotstopper/PARA Mine Dispenser, both 9/0 Regular REMs. They have separate AVA from Pilot-X's 8/0 Mk-III bots and no Repeater. Confirmed against the user-provided vPanO Army screenshot, 24 November 2026.
 
 **Bottom line:** Vanilla PanO's true exclusivity is **cross-sectorial roster breadth** rather than new single-model abilities. The standout individual Swiss, Cutter, Aquila, Fennec, Blocker and Magistrate profiles are generally available in their home sectorials; the above combinations are not.
 

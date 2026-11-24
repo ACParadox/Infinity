@@ -474,7 +474,7 @@ This makes it particularly valuable in elite lists where every pooled Regular Or
 
 **Best when:** Vanilla wants a REM enhancement (e.g. Sierra), a defensive Hacker, and one/two independently positionable ground network/denial routes. Repeaters are carried, **not predeployed**; reaching cover and placing them costs Orders. **Why not automatic:** 1 SWC competes with attack guns, the parent has only one Wound, and 8-point Mk-III bots can be removed by hacking or ordinary attacks. A Fugazi, Pathfinder or Peacemaker is often a cheaper single-purpose solution. [Whole-game #4 Best mobile Repeater](../../list-building/network-projection-repeaters-pitchers-apex-value.md#3-best-mobile-repeater); [hybrid force-multiplier tradeoff](../../list-building/force-multipliers-special-abilities-apex-value.md).
 
-**Profile distinction:** RacerBot **Mk-III** is Pilot-X-dependent; **standalone Mk-I and Mk-II**, where legal, are distinct orders/support profiles and do **not** inherit the Mk-III toolkit or the Pilot-X dependency. The OSS/ALEPH Pilot-X version **23/.5** is not the PanO **21/1** loadout.
+**Profile distinction:** RacerBot **Mk-III** is Pilot-X-dependent; **standalone Mk-I and Mk-II** (confirmed in Vanilla PanO on 24 November 2026; shared AVA2, each 9/0) are distinct orders/support profiles and do **not** inherit the Mk-III toolkit or the Pilot-X dependency. The OSS/ALEPH Pilot-X version **23/.5** is not the PanO **21/1** loadout. Mk-I has Adhesive Launcher Rifle and PARA Mine; Mk-II has Heavy Riotstopper and PARA Mine Dispenser. Neither is a Repeater. Pilot-X plus two Mk-III and two standalone bots totals 55/1 for five Regular Orders; only the Pilot-X Team members must share a Combat Group.
 
 ---
 

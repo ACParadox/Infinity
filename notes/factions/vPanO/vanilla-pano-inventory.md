@@ -44,7 +44,8 @@ Role-indexed unit/profile alternatives drawn from the existing tactical guide, n
 - **Peacemaker:** forward Repeater and Auxbot template pressure.
 - **Blocker:** Sensor/Pitcher/Adhesive Specialist 15/0.
 - **Locust:** hacker and midfield utility.
-- **Pilot-X:** 21/1 with one or two dependent Mk-III RacerBots at 8/0 each; independent Regular Orders, not Fireteam activations.
+- **Pilot-X:** 21/1 with zero to two dependent Mk-III RacerBots at 8/0 each; independent Regular Orders, not Fireteam activations.
+- **Standalone RacerBots:** Mk-I/Mk-II 9/0 each, shared AVA2, separate from Pilot-X Team (up to two additional Mk-III). Roster availability confirmed; this does not establish model ownership.
 - **Pathfinder:** fast Sensor, FO and Repeater support.
 
 ### Reactive defense and mission support

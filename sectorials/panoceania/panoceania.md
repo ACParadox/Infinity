@@ -10,7 +10,7 @@ army_source_version: "7.26246.158"
 army_data_changed_on: 2026-09-03
 infinitydb_commit: "4e2662be3f43387fbae42b3790a711b3e98570c4"
 verified_on: 2026-10-15
-coverage: "Standard generic PanOceania roster and loadouts. Generic PanOceania has no standard Fireteam chart. Spec-Ops and Team-Ops are optional-mode hooks; RacerBots are components of Pilot-X Team rather than independent roster entries."
+coverage: "Standard generic PanOceania roster and loadouts. Generic PanOceania has no standard Fireteam chart. Spec-Ops and Team-Ops are optional-mode hooks; RacerBots Mk-I/Mk-II are a standalone roster entry; Mk-III is a dependent component of Pilot-X Team."
 ---
 
 # PanOceania
@@ -27,10 +27,11 @@ Sources used:
 
 Coverage notes:
 
-- Covers the **51-unit standard generic PanOceania roster** in the pinned Army source.
-- The Army document contains 54 non-empty-faction source entries: 51 standard logical units, `Indigo Spec-Ops`, `Indigo Team-Ops`, and the `RacerBots` component entry used by `Pilot-X Team`.
+- Covers the **52-unit standard generic PanOceania roster**, including the standalone RacerBots confirmed by the user-provided Infinity Army screenshot on 2026-11-24.
+- The Army document contains 54 non-empty-faction source entries: 51 standard logical units, `Indigo Spec-Ops`, `Indigo Team-Ops`, and the `RacerBots` component entry used by `Pilot-X Team`. The standalone RacerBots entry is a screenshot-verified correction to that historical source count, not a claim that the archived export has changed.
 - Soldier of Fortune entries with empty faction lists are excluded from the base roster.
 - `Indigo Spec-Ops` and `Indigo Team-Ops` are optional game-mode content and are listed separately.
+- `RacerBots Mk-I/Mk-II` are independently selectable, share AVA 2, and do not require Pilot-X.
 - `RacerBots Mk-III` cannot be selected independently; they are part of a `Pilot-X Team` package.
 - Generic PanOceania has **no standard Fireteam chart**. `FTO` in a loadout name remains part of the Army profile name but does not create Fireteam access in vanilla.
 - Vanilla AVA is taken from the canonical PanOceania profile group, not inherited from a sectorial. This matters for units such as Cutter, Swiss Guard, Tikbalang, Redeye, Hetkari, BCA Magistrate, Blink Team, Helot, Zulu-Cobra, Bolts, and others.
@@ -40,7 +41,8 @@ Coverage notes:
 
 - **Joan of Arc:** only one Joan may be selected across `Joan of Arc` (ID 20) and `Joan of Arc v2 / Mobility Armor` (ID 42).
 - **Maximus:** only one Maximus may be selected across `Optimate Agent Maximus` (ID 1862) and `Maximus, Optimate and HexaDome Legend` (ID 1720).
-- **Pilot-X Team:** one Pilot-X plus zero to two RacerBots Mk-III; RacerBots cannot be selected without Pilot-X, and all members of the Team must be in the same Combat Group.
+- **Standalone RacerBots:** AVA 2 shared between Mk-I and Mk-II; no Pilot-X requirement.
+- **Pilot-X Team:** one Pilot-X plus zero to two RacerBots Mk-III; Mk-III cannot be selected without Pilot-X, and all members of the Team must be in the same Combat Group. This is separate from the standalone RacerBots entry.
 
 ## Roster index
 
@@ -59,6 +61,7 @@ Coverage notes:
 | Banshees Airborne Assault Unit | 1807 | 2 | MI | Regular |
 | Motorized Bounty Hunters | 1565 | 1 | LI | Irregular |
 | Joan of Arc v2 (Mobility Armor) | 42 | 1 | HI | Regular |
+| RacerBots (Mk-I/Mk-II) | 1905 | 2 | REM | Regular |
 | Pilot-X Team | 1903 | 1 team | LI + REM | Regular |
 | Sierra Dronbot | 17 | 2 | REM | Regular |
 | Palbots | 37 | 2 | REM | Peripheral |
@@ -258,9 +261,20 @@ All profiles: AP Spitfire, Pulzar (+1B), Pistol, EXP CCW.
 
 Only one Joan of Arc may be selected across IDs 20 and 42.
 
+### RacerBots
+
+**ID 1905 · AVA 2 · REM · Regular** — `MOV 20-10 | CC 13 | BS 11 | PH 12 | WIP 11 | ARM 0 | BTS 3 | STR 1 | S 2`. Equipment: 360º Visor, Bangbomb (+4), ECM: Hacker (-3). Special Skills: Courage, Dodge (+5 cm / +2 inches), No Cover, Remote Presence. Bangbomb (+4) appears in both equipment and skills on the screenshot; it is listed once here, not stacked.
+
+| Profile | Pts | SWC | Loadout |
+|---|---:|---:|---|
+| RacerBot Mk-I | 9 | 0 | Adhesive Launcher Rifle, PARA Mine, PARA CCW (-6) |
+| RacerBot Mk-II | 9 | 0 | Heavy Riotstopper, Mine Dispenser (PARA), PARA CCW (-6) |
+
+**Profile correction (2026-11-24):** independent entry and both loadouts verified against the user-provided vPanO Infinity Army screenshot. ID 1905 matches the existing Nomads roster entry. Both share AVA 2; neither has a Repeater or Deployable Repeater. The separate Pilot-X Team permits up to two additional Mk-III bots, for up to four RacerBots in total.
+
 ### Pilot-X Team
 
-**ID 1903 · AVA 1 Team**. A Pilot-X Team contains one Pilot-X and zero to two RacerBots Mk-III; RacerBots cannot be taken without Pilot-X, and all members must belong to the same Combat Group.
+**ID 1903 · AVA 1 Team**. A Pilot-X Team contains one Pilot-X and zero to two RacerBots Mk-III; Mk-III RacerBots cannot be taken without Pilot-X, and all members must belong to the same Combat Group.
 
 **Pilot-X** — `MOV 10-10 | CC 17 | BS 12 | PH 10 | WIP 13 | ARM 1 | BTS 6 | W 1 | S 2`. Hacking Device (Upgrade: Zero Pain), Immunity (Shock), RemDriver (BS=13, PH=13, BTS=6).
 
