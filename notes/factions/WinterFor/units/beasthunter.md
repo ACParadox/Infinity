@@ -1,30 +1,102 @@
 # Beasthunters Free Guild — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Strong cheap Camo trade piece; 15pt Panzerfaust or 17pt double HFT.**
+**Verdict: A+ — near-auto-include. Default 1: 17/0 Camo Heavy Flamethrower (+1B) + Panzerfaust.** The 15/0 single-HFT Panzerfaust option is equally good in ordinary ARO and an excellent economical alternative. WinterFor has very few competing Irregular troops, so one Irregular Order is not a significant listbuilding drawback. Prioritize the Beasthunter over the Peacemaker in ordinary lists, especially with the Pilot-X package; both are complementary when more screening is needed. Not quite mandatory like Pilot-X or Karhu.
 
-**Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original kestrel analysis](../../kestrel/units/beasthunter.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
+**Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md#beasthunters-free-guild) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Peacemaker](peacemaker.md) · [Pilot-X](pilot-x.md) · [Original Kestrel analysis](../../kestrel/units/beasthunter.md). Reviewed 24 November 2026. Rankings reflect tactical judgment and the user's selection preferences, not measured win rates.
 
-## WinterFor differences
+## WinterFor differences and pinned profiles
 
-AVA1 and all four profiles/prices identical to Kestrel; Irregular. Kestrel COLCORP FTO max1 does not carry over. SWF has no chart row for the 9pt FTO option; use only independently. No Jackals/Sāchā/Magistrate comparison as SWF choices.
+AVA1, all four profiles and prices identical to Kestrel; Irregular. Kestrel COLCORP FTO access does not carry over. The 9-point FTO has no SWF Fireteam-chart row and must operate independently, like the other options.
 
-## Pinned WinterFor profiles
+**ID 1570 · AVA 1 · SK** — MOV 10–10 cm (4–4"), CC21, BS11, PH13, WIP12, ARM0, BTS0, W1, S2. All options have Mimetism (-3), Stealth, Super-Jump, Religious Troop, Terrain (Total), AP Mines, Pistol and DA CC Weapon. No Specialist or Minelayer.
 
-**ID 1570 · AVA 1 · SK** — `MOV 10-10 | CC 21 | BS 11 | PH 13 | WIP 12 | ARM 0 | BTS 0 | W 1 | S 2`. Mimetism (-3), Stealth, Super-Jump, Religious Troop, Terrain (Total).
+| Opt | Pts/SWC | Loadout / differences | Assessment |
+|---:|---:|---|---|
+| 1 | 9/0 | FTO: HFT, Panzerfaust; no Camo or FD | B−: niche independent DZ guard |
+| 2 | 15/0 | HFT, Tactical Bow; Camo, Surprise Attack (-3), FD (+8") | C: normally skip |
+| 3 | 15/0 | HFT, Panzerfaust; Camo, Surprise Attack (-3), FD (+8") | A: economical ambush/defense |
+| 4 | 17/0 | HFT (+1B), Panzerfaust; Camo, Surprise Attack (-3), FD (+8") | A+: preferred default |
 
-| Opt | Pts | SWC | Loadout / differences | FT |
-|---:|---:|---:|---|---|
-| 1 | 9 | 0 | **BEASTHUNTER FTO**; Heavy Flamethrower, Panzerfaust, AP Mine, Pistol, DA CCW | —; no SWF chart row |
-| 2 | 15 | 0 | Heavy Flamethrower, Tactical Bow, AP Mine; Camouflage, Surprise Attack (-3), Forward Deployment (+20) | — |
-| 3 | 15 | 0 | Heavy Flamethrower, Panzerfaust, AP Mine; Camouflage, Surprise Attack (-3), Forward Deployment (+20) | — |
-| 4 | 17 | 0 | Heavy Flamethrower (+1B), Panzerfaust, AP Mine; Camouflage, Surprise Attack (-3), Forward Deployment (+20) | — |
+## Why it is especially valuable in WinterFor
 
-## WinterFor selection and use
+- **Reusable Camouflage + FD (+8")**: rare cheap marker-state pressure in WinterFor. Unlike Nøkken or Peacemaker, it can approach or wait in marker state. S2, Stealth and Super-Jump improve access to awkward terrain and attack angles. FD is not Infiltration; on a 48" table with 12" deployment zones it starts up to 4" short of the centerline.
+- **HFT (+1B)**: two large direct templates in the Active Turn, each with Continuous Damage, punish elite shooters, clustered Fireteams and expensive multi-Wound targets. Trading a 17-point unit for a much more expensive attacker is favorable. A successful Dodge can avoid both templates; no Surprise Attack penalty to a normal Dodge against direct templates. Ordinary reactive Burst remains 1. Pay the extra 2 points if planning to attack; 15 points is sufficient for a defensive ambush.
+- **Panzerfaust**: B1 AP+EXP, Disposable (2), valuable long-range anti-armor ambush and ARO. Surprise Attack applies only to eligible active-turn attacks; BS11 limits sustained gunfighting. At equal cost prefer it over the Tactical Bow, which overlaps the HFT and CC role.
+- **CC21 + DA CC Weapon**: credible threat to ordinary infantry, REMs and TAGs without dedicated CC skills; Anti-materiel for applicable objectives. Not an elite martial artist.
+- **AP Mines**: carried rather than prepaid at deployment. Use an Order to place one, potentially creating another angle of midfield denial; placement reveals the marker. Re-camouflage only when legally permitted, with a separate activation.
+- **Unhackable and expendable**: unlike REMs or HI, it does not add a hacking liability. ARM0/BTS0/W1 remain real weaknesses; exploit concealment and trades rather than relying on saves.
 
-- 15/0 Camo HFT/Panzerfaust: default cheap ambush and anti-armor threat; FWD(+20), mines and Super-Jump.
-- 17/0 Camo HFT (+1B)/Panzerfaust: preferred aggressive trade if able to fund approach Orders; useful beside Vargar or Jotum screens.
-- 15/0 Bow: generally skip; Panzerfaust has broader utility. 9/0 FTO: niche independent DZ guard without forward marker package, not Fireteam glue.
-- Complement Peacemaker for template/mine screening and Locust for hidden disruption; not a scoring Specialist. Warcor also costs an Irregular slot; AVA3 Fugazi is better for pooled order needs. 0–1.
+### Double HFT for two extra points
+
+Conditional probability of at least one failed initial ARM save if the target is hit by all templates and has no special immunity/save modifiers. These are not kill probabilities and exclude subsequent Continuous Damage rolls.
+
+| Target ARM | 15pt B1 | 17pt B2 |
+|---:|---:|---:|
+| 0 | 70% | 91% |
+| 2 | 60% | 84% |
+| 4 | 50% | 75% |
+| 6 | 40% | 64% |
+| 8 | 30% | 51% |
+
+## Irregular Order: much less of a problem than in Kestrel
+
+WinterFor's ordinary roster has only two native Irregular units: Beasthunter and Warcor. There is no accumulation of infiltrating Jackals, Sāchā and similar competing Irregulars. With one Beasthunter, fourteen other troop slots can potentially generate Regular Orders in a full 15-trooper list (subject to deployment states and casualties).
+
+Pilot-X's 8-point Regular RacerBots, 7-point Fugazi, Tactical Awareness on selected Hannibal, Blade-Ops, Gunnar and Jotum profiles, and Karhu NCO all help fund the army's activations. Tactical Awareness and NCO are restricted additional activations, not unrestricted shared Orders for the Beasthunter.
+
+Use its own Irregular Order to reposition, place a mine, attack or return to Camouflage when legal. Group 2 is a good default for an opportunistic hunter, but give that group enough shared Orders if planning a multi-Order attack run. One Irregular is not a reason to skip it; consider slot pressure and actual group Order counts instead.
+
+## Beasthunter vs Peacemaker
+
+Compare the recommended aggressive Beasthunter with the Peacemaker's default defensive Minelayer package.
+
+| Attribute | Beasthunter | Peacemaker + Auxbot-3B |
+|---|---|---|
+| Cost | 17/0 | 24/0.5 |
+| Order | Irregular | Regular |
+| MOV / BS / PH / CC | 4–4 / 11 / 13 / 21 | 6–4 / 12 / 10 / 13 (controller) |
+| ARM / BTS / durability | 0 / 0 / W1 | 1 / 3 / STR1, Remote Presence (controller) |
+| Deployment | FD +8", reusable Camo, S2 | FD +8", exposed S4 controller + peripheral |
+| Common shooting modifier | Mim(-3) | Mim(-3) on controller |
+| HFT | B2 active, on hunter | B1 on synchronized Auxbot |
+| Other ranged threat | Panzerfaust | Heavy Shotgun, Pulzar |
+| Mines | Carried AP Mines | Auxbot Shock Mine + Minelayer |
+| Mobility | Super-Jump, Stealth, Surprise Attack | Faster ground movement; synchronization constraints |
+| Hacking | Unhackable | Hackable controller, native Repeater |
+| Melee | CC21, DA CCW | PARA CCW (-3) on controller |
+| Fireteam / Specialist | Neither | Neither |
+
+**Passive defense: Peacemaker wins.** The controller, HFT Auxbot and pre-deployed Shock Mine create three distinct threats without spending Orders; with a friendly Hacker, the Repeater adds a fourth layer. Deploy laterally to cover several approaches or overlap threats at a chokepoint, obeying synchronization, mine deployment and template restrictions. The Auxbot does not generate a separate Order. The Beasthunter must spend Orders to place its mine but can conceal its threat.
+
+**Active hunting and trading up: Beasthunter preferred.** Camouflage, S2, Super-Jump, Stealth, double HFT, Panzerfaust, and CC give it more ways to approach and threaten vulnerable targets at low cost. The 27/0 Boarding Shotgun (+1B) + Auxbot Peacemaker is better for conventional close-range shooting and synchronized two-body attack pressure, but costs 10 points more and is hackable. The 23/0 HSG + Auxbot is a good zero-SWC defensive alternative to the Minelayer.
+
+**Pilot-X synergy:** Peacemaker's native Repeater becomes immediately useful with Pilot-X's HD and can receive RemDriver (BS=13, PH=13, BTS=6) if selected instead of another REM. However, the two RacerBots already bring cheap Regular Orders, PARA Mines, Riotstoppers and carried Deployable Repeaters. Their repeaters need activation to deploy; the Peacemaker's is native and its Minelayer mine is prepaid. The Beasthunter adds a more distinct lethal, unhackable, marker-state threat; it can capitalize on immobilized targets using HFT or DA CCW.
+
+### Listbuilding packages
+
+| Package | Pts/SWC | Regular | Irregular |
+|---|---:|---:|---:|
+| Beasthunter (B2 HFT) | 17/0 | 0 | 1 |
+| Peacemaker Minelayer | 24/0.5 | 1 | 0 |
+| Beasthunter + Fugazi | 24/0 | 1 | 1 |
+| Beasthunter + Peacemaker Minelayer | 41/0.5 | 1 | 1 |
+| Beasthunter + 2 Peacemaker Minelayers | 65/1 | 2 | 1 |
+
+**Beasthunter + Fugazi is especially compelling at 24/0**: one Regular and one Irregular Order, Camouflage hunter, Flash Pulse ARO and mobile native Repeater; saves 0.5 SWC versus the Minelayer Peacemaker. Costs two trooper slots rather than one, loses the synchronized Auxbot and prepaid mine, and the Fugazi lacks FD. Choose Peacemaker if turn-zero defense or slot compression is more important. Both are good together in a Jotum list: Peacemaker screens, Beasthunter hunts independently.
+
+## Other competition and final selection
+
+| Alternative | Pts/SWC | Different role |
+|---|---:|---|
+| RacerBot Mk-III | 8/0 | Regular, fast nonlethal control and Repeater projection; requires Pilot-X |
+| Liang Kai | 21/0 | Dedicated independent CC assault and Impetuous activation |
+| Nøkken FO | 22/0 | Regular forward specialist, Mim(-6), B3 shotgun |
+| Locust Specialist | 24/0 | Hidden Deployment, Mim(-6), scoring |
+| Uma non-FTO | 27/0 | Reusable Camo, specialist, E/M Mine |
+
+Take the 17/0 profile by default; downgrade to 15/0 for a defensive-only role or tight points. Consider skipping only when the mission needs more specialists, all slots are committed, or the table and group Orders cannot support its intended role. Take Peacemaker 0–1 normally, preferably the 24/0.5 Minelayer when more passive screening is needed. No need to replace other specialist units merely to fit another attacker.
+
+**Overall: A+, default one Beasthunter.** Its low cost, zero SWC, aggressive template trade potential, and rare reusable Camouflage outweigh its minor Order-economy drawback in WinterFor.
 
 ## Original kestrel analysis — retained reference copy
 
