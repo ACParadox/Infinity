@@ -1,23 +1,83 @@
 # Squalos Mk-II — Neoterran Capitaline Army (Infinity N5.3)
 
-**Verdict: Preferred MULTI HMG NCO primary TAG; Ultima Ratio changes partner choices.**
+**Skip/niche pick: use Uhlan or Swiss Guard or Aquila Guard instead.**
 
-**NCA authority:** [Pinned roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md). Copied from [Kestrel unit note](../../kestrel/units/squalos.md). Reviewed 23 November 2026.
+**Revised NCA verdict (23 November 2026):** Skip the 66pt MULTI HMG NCO as the default TAG: the 70pt Feuerbach Uhlan is a much better independent attacker for only four additional points. The 55pt MULTI Marksman Rifle is a niche budget TAG, not a general-purpose recommendation. Skip the 62pt HMG/GL unless there is a deliberate speculative-fire plan. NCO and Ultima Ratio remain legitimate exceptions, not reasons to auto-include Squalos.
 
-## NCA differences and selection
+**NCA authority:** [Pinned roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md) · [Swiss Guard](swiss-guard.md) · [Aquila Guard](aquila-guard.md). Original [Kestrel unit note](../../kestrel/units/squalos.md) retained below for reference.
 
-AVA 2; same option costs and weapons: 1 MULTI Marksman Rifle 55/1; 2 HMG + Grenade Launcher 62/1.5; 3 MULTI HMG NCO 66/1.5. All have Tactical Awareness and BS Attack (SR-1), not native +1SD (shared base skill id 201, extra 305, in exact pinned NCA Army JSON). NCA roster abbreviated stat summary omits SR-1; not a profile loss. NCA lists Crabbot for all three; Kestrel Markdown explicitly lists it only for opt 1, so do not infer a sectorial difference from transcription alone.
+## Profiles and selection
 
-NCA replaces ARMORED with **Ultima Ratio Duo**: Squalos or Maximus TAG is required-choice anchor; ORC optional max 1; Wildcards can join. Two Squalos qualify for FT2; Squalos + different unit usually FT1.
+AVA2; Regular TAG; MOV 6-4, CC18, BS15, PH15, WIP13, ARM6/BTS6, 3W, S6. All profiles have Tactical Awareness, BS Attack (SR-1), Combat Instinct, Courage, Remote Presence, ECM: Guided (-6), Dodge (+1"), Dodge (PH=11), GizmoKit (PH=13), MULTI Pistol (+1B), CCW and Crabbot. SR-1 is confirmed in the pinned Army JSON (skill 201, extra 305), although omitted in the abbreviated roster Markdown. No native +1SD, Mimetism, Camouflage, MSV or direct template weapon.
 
-| Package | Pts/SWC | FT |
-|---|---:|---:|
-| Squalos NCO + TacAware Pathfinder | 83/1.5 | 1 |
-| Two NCO Squalos | 132/3 | 2 |
-| Squalos NCO + ORC Firewall BSG | 93/1.5 | 1 |
-| Squalos NCO + Maximus AP HMG | 148/3 | 1 |
+| Profile | Pts/SWC | NCA decision |
+|---|---:|---|
+| MULTI HMG NCO | 66/1.5 | **Skip by default:** Uhlan Feuerbach for +4pts; conditional NCO/Duo exception |
+| MULTI Marksman Rifle | 55/1 | **Niche only:** inexpensive durable TAG, zone control, TA and mobile Duo |
+| HMG + Grenade Launcher | 62/1.5 | **Skip:** only for a deliberate indirect-fire plan |
 
-Cheap Fusilier LT10/0 turns NCO into actual order economy; Agent Maximus LT is an alternative. Compare Uhlan and Swiss Guard for concealed threats rather than Kestrel-only Tikbalang/Crux/Hetkari. Uhlan is independent, not Ultima Ratio eligible. NCO Squalos is excellent sustained open-lane gunfighter alongside concealed threat. Support via independent Machinist + Palbot or Blade Engineer.
+## 66pt NCO versus 70pt Uhlan Feuerbach
+
+| Attribute | Squalos NCO | Uhlan Feuerbach |
+|---|---|---|
+| Pts/SWC | 66/1.5 | 70/1.5 |
+| BS, ARM/BTS, Wounds, MOV | 15, 6/6, 3, 6-4 | Same |
+| Main attack | MULTI HMG B4 AP or Shock; B1 EXP | Feuerbach B3 AP+DA; alternate EXP mode |
+| Damage modifier | SR-1 | Two AP+DA saves per normal hit |
+| Gunfighting defense | None | Mimetism (-3) |
+| Marker state | None | Camouflage, Surprise Attack (-3) |
+| Order economy | TA + NCO | TA |
+| Other skills | Combat Instinct | Warhorse |
+| Secondary weapons | MULTI Pistol (+1B) | Panzerfaust, Blitzen, MULTI Pistol |
+| Fireteam | Ultima Ratio Duo | Independent |
+
+**Prefer Uhlan for +4pts.** The Mimetism penalty applies repeatedly to enemy non-visor shooting; Surprise Attack adds a conditional opening advantage. AP+DA offers two saves per ordinary hit, making the Uhlan a serious anti-armour gun despite B3 instead of B4. The Feuerbach also has better long-range coverage beyond the HMG's preferred band. Re-enter Camouflage when legal at the end of an attack run rather than leaving a visible S6 model exposed. Warhorse protects against Isolation, but not Immobilized or Possessed states. The Uhlan still lacks a template weapon, cannot go Prone and remains vulnerable to hacking.
+
+Illustrative face-to-face against a BS13 enemy without MSV, both in cover and in +3 range: Squalos B4 on 15 versus B1 on 13; Uhlan B3 on 15 versus B1 on 10, or on 7 with eligible Surprise Attack. This is not a universal probability ranking: MSV, ranges, ammunition, cover and other MODs matter.
+
+Squalos retains a legitimate advantage when an otherwise unused LT Order is available to NCO, when B4 is preferable against ordinary targets or MSV negates Mimetism, or when an Ultima Ratio partner is essential. NCO does not generate an additional Order by itself. Agent Maximus's free Coordinated Order or Aquila Strategos conversion competes for the same Lieutenant Order; no double counting. These are exceptions, not the default recommendation.
+
+## 55pt MMR versus Swiss Guard and Aquila
+
+| Profile | Pts/SWC | Preferred role / advantage over Squalos |
+|---|---|---|
+| Squalos MMR | 55/1 | B3 AP/Shock, SR-1, TA, 3W ARM6, 6-4 movement, repairability |
+| Swiss HMG | 56/1.5 | BS15, B4, Mimetism (-6), Camo/Hidden/Surprise, stronger long-lane attacker |
+| Swiss ML (+1SD) | 60/1.5 | Apex hidden ARO and selective active anti-armour attacks |
+| Swiss KHD | 47/0 | Durable midfield specialist with Mimetism (-6), Camo, Stealth, Firewall (-3), FD (+10cm) and KHD |
+| Aquila FTO MMR | 49/0 | Same BS15 and MMR, MSV3, Disco Baller, specialist, ECM: Hacker (-3), flexible Fireteams |
+
+**Swiss comparison:** the extra Wound and ARM point do not automatically make the Squalos safer. Swiss is S2, can go Prone and use Cautious Movement when legal, can re-camouflage, and is not a Total Control target. Mimetism (-6) and Surprise Attack make the HMG exceptionally good at winning face-to-face rolls. The Swiss KHD is a cheaper close/midfield specialist and can fight enemy Hackers; its AP SMG is not a substitute for MMR range. Swiss lacks TA, repairability and Fireteam access, and Hidden Deployment initially withholds its shared Regular Order.
+
+**Aquila comparison:** 49/0 saves 6pts and 1 SWC, carries the same B3 MMR, has MSV3, Disco Baller, specialist eligibility and flexible Fireteam access. An appropriate team can give +1SD; a mixed Duo does not automatically do so. Aquila has ARM4/2W versus ARM6/3W, no TA and no SR-1. It remains a hackable HI, but is easier to hide and cannot be Possessed via Total Control. Prefer Aquila for a versatile midrange attack/mission piece and Swiss for asymmetric independent gunfighting.
+
+**MMR niche:** choose only when the mission/terrain specifically rewards an inexpensive three-Wound TAG, zone domination, a mobile TAG/specialist Duo, repairable durability or AP/SR-1 pressure within 8–24". It is not an HMG substitute. Crabbot provides conditional pilot/specialist utility, not another pooled Order.
+
+## 62pt HMG/GL
+
+Ordinary HMG lacks the MULTI HMG's sustained AP option. Normal Grenade Launcher permits indirect circular templates, not E/M effects. Speculative Attack is B1 and a Long Skill, normally BS9 at favorable range (45% unopposed before Dodge/saves). FT2 +1SD does not apply to Long Skills. NCA has alternative routes around defenders: concealed attacks, Disco, hacking/network projection and airborne pieces. Buy this only with a specific indirect-fire plan.
+
+## Ultima Ratio Duo — conditional packages
+
+NCA replaces Kestrel ARMORED with Ultima Ratio Duo: a native Squalos or Maximus TAG is a required-choice anchor, ORC optional max1, eligible Wildcards may join. Two matching Squalos reach FT2; different units generally FT1. Uhlan and Swiss Guard have no Fireteam access.
+
+| Package | Pts/SWC | FT | Assessment |
+|---|---:|---:|---|
+| MMR Squalos + Pathfinder TA | 72/1 | 1 | Best budget niche package: matched MOV, FO/Sensor/Repeater and two TA sources |
+| NCO Squalos + Pathfinder TA | 83/1.5 | 1 | Efficient conditional NCO assault/scoring package |
+| NCO Squalos + Blade Engineer FTO | 89/1.5 | 1 | Repair and TA, but slower partner; independent Machinist/Palbot may be safer |
+| NCO Squalos + ORC Firewall BSG | 93/1.5 | 1 | Hacking protection and close-range support |
+| NCO Squalos + MMR Squalos | 121/2.5 | 2 | Complementary double TAG skew, not routine |
+| Two NCO Squalos | 132/3 | 2 | Redundant, high exposure and opportunity cost |
+| NCO Squalos + Maximus AP HMG | 148/3 | 1 | Very expensive double TAG; generally skip |
+
+TA Orders activate a legal intact Duo with their respective bearer leading; the Pathfinder cannot donate its TA Order to a Squalos-led attack. NCO may lead the Duo using an available LT Order. FT2 adds one rolled die discarded afterward on eligible BS Attacks; it is not retained Burst and does not apply to Speculative Attack. Protect any TAG with screens, friendly hacking coverage and repair support; possession needs an applicable cancellation method, not ordinary Engineer repair.
+
+## Final decision and relationship to existing guides
+
+**Skip as a normal selection.** Uhlan Feuerbach is the preferred standalone TAG, Swiss Guard the preferred asymmetric shooter, and Aquila FTO the preferred versatile MMR attacker. MMR Squalos remains a niche budget TAG; NCO Squalos remains mechanically viable for a specifically designed order/Fireteam architecture.
+
+This revises the earlier local recommendation of Squalos NCO as the default primary TAG. The NCA listbuilding and Fireteam guides still describe Squalos NCO packages and documented skew builds; those are legal and retain historical evidence, but should not be mistaken for this updated selection preference. Global role-value rankings and Kestrel-specific conclusions are unchanged by this local decision.
 
 ## Original Kestrel analysis — retained reference copy
 
