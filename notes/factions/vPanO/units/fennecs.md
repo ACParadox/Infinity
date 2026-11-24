@@ -31,6 +31,40 @@
 
 13/0 FO/Sensor/Disco is efficient independent vision control; 14/0 Thunderbolt/Minelayer and 16/0.5 HD/FastPanda useful. LT10 or basic10 for cheap Orders/decoy body; no Core or link bonuses. Pinned LT has no printed Decoy skill.
 
+## Vanilla Disco Baller priority — S tier
+
+**Default: 2 × Fennec FO/Sensor/Disco Baller (26 pts / 0 SWC); normally take at least one.** These provide two Regular Orders, two FO specialists, two Sensors, two Flash Pulses and four initial Eclipse shots. Deploy on opposite flanks or split across Combat Groups where useful. Without Fireteams they support the army through independent activations rather than moving with an attack team.
+
+The pinned vanilla roster has only two Disco Baller unit choices: Fennecs (13/0) and Aquila FTO (49/0; LT 49/0 or Strategos LT 52/+1). Aquila brings BS15, MSV3, two Wounds, MMR, Specialist Operative and Deactivator, but costs 36 more points than a Fennec for the non-LT version. Its Disco Baller is a bonus when taking Aquila for other reasons, not a reason to buy Aquila by itself.
+
+| Direct-fire range | Fennec BS12 | Aquila BS15 |
+|---|---:|---:|
+| 0–8″ | 60% | 75% |
+| 8–16″ | 75% | 90% |
+| 16–24″ | 45% | 60% |
+| 24–32″ | 30% | 45% |
+
+Single B1 Normal Roll, no additional MODs. Both have Disposable (2), Double Shot and Speculative Attack. No Fireteam Special Die in vanilla.
+
+### Supporting packages
+
+| Package | Pts / SWC | Initial Eclipse ammunition |
+|---|---:|---|
+| Fennec | 13 / 0 | 2 |
+| Fennec + Baggage Mulebot | 21 / 0 | 2 + reload capability |
+| Two Fennecs | 26 / 0 | 4 |
+| Two Fennecs + Baggage Mulebot | 34 / 0 | 4 + reload capability |
+| Three Fennecs | 39 / 0 | 6 |
+| Aquila FTO | 49 / 0 | 2 |
+
+The 8/0 Baggage Mulebot is an A+ optional support piece (0–1): Regular Order, Repeater, ammunition replenishment when eligible and Deactivator for reactivating surviving allied Disco Balls. The 14/0 Pathfinder FO/Sensor/Repeater also has Deactivator. Reactivation requires the applicable LoF/ZoC and WIP+3 roll with Deactivator range MODs; it is not automatic and does not replenish ammunition. Eclipse expires at the start of the States Phase.
+
+Use Eclipse to approach with Teutonic Knights, Joan v2, Maximus or Crux; bypass unfavorable lanes with Cutter/Tikbalang; enable medical recovery and objective access. Fire from safety: Eclipse appears in the Conclusion step, does not cancel incoming AROs on the placement Order and does not block hacking. It blocks MSV, including friendly MSV3.
+
+**Priority:** Fennec FO/Disco S (1–2, prefer 2); Baggage Mulebot A+ optional (0–1); Aquila Strategos LT B+ situational; Aquila non-LT FTO B− situational; Aquila basic FTO LT usually skip. Ratings are vanilla tactical judgments, not changes to pinned profiles.
+
+Sources: [Disco Baller rules](../../../../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md), [Aquila Guard](aquila-guard.md), [pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md).
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
