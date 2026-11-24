@@ -2,6 +2,8 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [Source unit analysis](../../WinterFor/units/karhu.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+**Verdict: MUST-HAVE / S+ value.** Start listbuilding with the Feuerbach (+1B) 34/1.5 as the default all-round gunfighter: strong in both Active Turn and ARO, particularly good against high ARM, easy to field in a matching FT2 Duo, fast 6-2 movement with Climbing Plus, and NCO to exploit otherwise unused Lieutenant Orders. One of vanilla PanO's most complete units for the price.
+
 ## Vanilla differences
 
 - **AVA:** 5 in WinterFor → 2 in vanilla.
@@ -25,6 +27,14 @@
 **Best NCO outlet for double Fusilier command.** All Karhu profiles have NCO, including Engineer25 and Paramedic24. A 20/0 Fusilier LT + identical decoy and Feuerbach34 + Engineer25 FT2 Duo cost 79/1.5; four pooled Regular Orders plus one NCO activation. The analogous Magistrate19 package is 78/1.5, three pooled + one NCO activation, saving a troop slot but losing one recurring Order. Both Karhu can lead and spend the same LT resource (only once); choose the Feuerbach for attacks, Engineer for movement/repair/scoring. Paramedic Duo58/1.5 and MULTI Rifle Duo56/1.5 also work. Prefer the double Fusilier command if committing to a Karhu Duo; Joan v2 can instead use her LT Order personally or share it with NCO when useful. Tik LT(+1) gives two LT Orders, not one per NCO.
 
 **Verdict: S+ value / must-have, alongside Bolts.** Feuerbach (+1B)34/1.5 combines MSV1, Mim-3, Climbing Plus, NCO and B3 active AP+DA (B3+1SD in FT2; B1+1SD reactive). Excellent long-lane anti-armour, defensive threat and vertical geometry; W1 and lower retained Burst than HMG remain limitations. Prefer Feuerbach + Engineer59/1.5 FT2 Duo or Feuerbach + Paramedic58/1.5 FT2 Duo. Both follow similar climbing routes; Engineer repairs eligible STR assets, Paramedic treats Wounds, both contribute NCO access. Engineer has Blitzen/D-Charges, not AP Mines. NCO models compete for actual available LT Orders; they do not each generate one. Cheap MULTI Rifle profiles remain useful if a long gun is already present. Prefer Karhu/Bolt compact matching Duos to the more expensive Nisse Haris by default; choose Nisse specifically for MSV2/HMG volume.
+
+### Default Feuerbach package and battlefield role
+
+- **Active:** B3 AP+DA (roll four, retain three in FT2), MSV1 and Mimetism (-3) make the Feuerbach a strong general-purpose long gun, not just a specialist anti-TAG counter. Use AP+DA against high ARM and select EXP blast mode when appropriate.
+- **Reactive:** B1+1SD in a matching FT2 Duo (not B2); EXP or AP+DA makes it a credible long-range ARO after an active attack run. Preserve the W1 gun against dedicated ARO-clearing pieces when practical.
+- **Mobility and orders:** 6-2 MOV and Climbing Plus give access to unusual angles and efficient repositioning; NCO lets the team exploit spare Lieutenant Orders when an NCO is leader. Both Karhu share the movement tools and can alternate as leader. NCO does not generate extra orders per model.
+- **Easy Duo:** Family I, two matching Karhu for FT2 (+1SD). Engineer (59/1.5 total) is the default complementary specialist; Paramedic (58/1.5) adds medical recovery and AP Mines, or basic MULTI Rifle (56/1.5) saves points. A mixed Duo is normally FT1 and may constrain climbing routes. Reserve one of the two available Duo slots for this package when practical.
+- **Selection priority:** take the Feuerbach even if another apex gunfighter or TAG is present, unless points, SWC or the mission require a specific alternative. Its combined active/ARO, anti-armour, mobility and NCO value is the reason for the near-auto-include designation, not any single capability alone.
 
 ## Original WinterFor analysis — retained reference copy
 
