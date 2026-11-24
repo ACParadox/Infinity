@@ -29,43 +29,86 @@
 
 ## Vanilla selection and use
 
-**HD/FastPanda 16/0.5 — A, budget primary or cheap secondary Hacker.** Pilot-X is the preferred primary HD; add Fennec when redundant Spotlight/Carbonite/Oblivion coverage, another network axis or a low-cost backup is worth 16 points and 0.5 SWC. WIP12/BTS3, FastPanda and E/Mitter make it a better default budget HD than the 15/0.5 Fusilier, but not an automatic second Hacker. The 13/0 FO/Sensor/Disco remains the priority Fennec profile; the separate Hacker does not carry Disco. The retained Kestrel S rating for HD is sectorial-specific.
+**Verdict: A+ overall.** The utility profiles remain excellent independently of Fireteams. Start with one FO/Disco Baller, then add a Hacker and/or Minelayer if the list needs their specific functions. Typically **1–3 Fennecs**, occasionally four for distributed Eclipse and layered support. Unlike Kestrel, all movement and attacks require independent activations.
 
-13/0 FO/Sensor/Disco is efficient independent vision control; 14/0 Thunderbolt/Minelayer and 16/0.5 HD/FastPanda useful. LT10 or basic10 for cheap Orders/decoy body; no Core or link bonuses. Pinned LT has no printed Decoy skill.
+| Opt | Profile | Pts / SWC | Rating | Normal quantity |
+|---:|---|---:|---|---:|
+| 9 | FO, Sensor, Disco Baller | 13 / 0 | **S** | 1–2 |
+| 7 | HD, FastPanda, E/Mitter | 16 / 0.5 | **A+** | 0–1 |
+| 5 | Thunderbolt (+1B), Minelayer, Triangulated Fire | 14 / 0 | **A** | 0–1 |
+| 11 | Lieutenant | 10 / 0 | B+ | 0–1 |
+| 1 | Basic Combi | 10 / 0 | B− | 0–1 |
+| 10 | Paramedic | 12 / 0 | B− | 0–1 |
+| 4 | SMG, Light Rocket Launcher | 12 / 0 | C | 0 |
+| 6 | Commlink (+1), Specialist Operative | 12 / 0 | C | 0 |
+| 2 | HMG | 18 / 1 | Skip | 0 |
+| 3 | Missile Launcher | 15 / 1.5 | Skip | 0 |
 
-## Vanilla Disco Baller priority — S tier
+### FO / Sensor / Disco Baller — 13/0
 
-**Default: 2 × Fennec FO/Sensor/Disco Baller (26 pts / 0 SWC); normally take at least one.** These provide two Regular Orders, two FO specialists, two Sensors, two Flash Pulses and four initial Eclipse shots. Deploy on opposite flanks or split across Combat Groups where useful. Without Fireteams they support the army through independent activations rather than moving with an attack team.
+**Default purchase.** Three points above a basic line infantry model buys a Regular Order with mission specialization, Flash Pulse, Sensor and two initial disposable Eclipse uses. Eclipse bypasses ordinary LoF even against MSV, but does not stop hacking or retroactively cancel AROs during the placement Order. Place it from a safe position to cross lanes, isolate overlapping AROs or reach objectives. Baggage can replenish uses. Sensor can reveal eligible markers within ZoC on WIP18 (90% Normal Roll).
 
-The pinned vanilla roster has only two Disco Baller unit choices: Fennecs (13/0) and Aquila FTO (49/0; LT 49/0 or Strategos LT 52/+1). Aquila brings BS15, MSV3, two Wounds, MMR, Specialist Operative and Deactivator, but costs 36 more points than a Fennec for the non-LT version. Its Disco Baller is a bonus when taking Aquila for other reasons, not a reason to buy Aquila by itself.
-
-| Direct-fire range | Fennec BS12 | Aquila BS15 |
-|---|---:|---:|
-| 0–8″ | 60% | 75% |
-| 8–16″ | 75% | 90% |
-| 16–24″ | 45% | 60% |
-| 24–32″ | 30% | 45% |
-
-Single B1 Normal Roll, no additional MODs. Both have Disposable (2), Double Shot and Speculative Attack. No Fireteam Special Die in vanilla.
-
-### Supporting packages
-
-| Package | Pts / SWC | Initial Eclipse ammunition |
+| Alternative | Pts / SWC | Distinct value |
 |---|---:|---|
-| Fennec | 13 / 0 | 2 |
-| Fennec + Baggage Mulebot | 21 / 0 | 2 + reload capability |
-| Two Fennecs | 26 / 0 | 4 |
-| Two Fennecs + Baggage Mulebot | 34 / 0 | 4 + reload capability |
-| Three Fennecs | 39 / 0 | 6 |
-| Aquila FTO | 49 / 0 | 2 |
+| Fennec FO | 13 / 0 | Eclipse, Sensor |
+| Fusilier FO | 12 / 0 | Deployable Repeater |
+| Pathfinder FO | 14 / 0 | Mobile Sensor, Repeater, Deactivator |
+| Pathfinder FO TA | 17 / 0 | Extra personal activation |
+| Blocker SO | 15 / 0 | Pitcher, Sensor, adhesive and direct-template utility |
 
-The 8/0 Baggage Mulebot is an A+ optional support piece (0–1): Regular Order, Repeater, ammunition replenishment when eligible and Deactivator for reactivating surviving allied Disco Balls. The 14/0 Pathfinder FO/Sensor/Repeater also has Deactivator. Reactivation requires the applicable LoF/ZoC and WIP+3 roll with Deactivator range MODs; it is not automatic and does not replenish ammunition. Eclipse expires at the start of the States Phase.
+The Fennec offers unique Eclipse utility among these alternatives, not a replacement for every other network or Sensor piece. Unlike Kestrel, the shooter and the supported attacker must move separately. Solo B1 direct-fire placement at 8–16 inches is 75% (BS15 after range MOD), with no Fireteam Special Die. Double Shot can increase reliability at the cost of ammunition. Consider a second Fennec for opposite-flank coverage or four initial Eclipse uses; avoid automatically duplicating Sensor if coverage is already ample.
 
-Use Eclipse to approach with Teutonic Knights, Joan v2, Maximus or Crux; bypass unfavorable lanes with Cutter/Tikbalang; enable medical recovery and objective access. Fire from safety: Eclipse appears in the Conclusion step, does not cancel incoming AROs on the placement Order and does not block hacking. It blocks MSV, including friendly MSV3.
+### Standard Hacker / FastPanda — 16/0.5
 
-**Priority:** Fennec FO/Disco S (1–2, prefer 2); Baggage Mulebot A+ optional (0–1); Aquila Strategos LT B+ situational; Aquila non-LT FTO B− situational; Aquila basic FTO LT usually skip. Ratings are vanilla tactical judgments, not changes to pinned profiles.
+**Excellent economical network support.** Keep it in Total Cover, often Group 2, using allied Repeaters across combat groups. FastPanda can extend local coverage via a deployable Repeater placed within ZoC; it does not require a BS Roll. E/Mitter provides a separate LoF-based anti-tech threat (B2 active), not a hacking program.
 
-Sources: [Disco Baller rules](../../../../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md), [Aquila Guard](aquila-guard.md), [pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md).
+| Hacker | Pts / SWC | Distinct value |
+|---|---:|---|
+| Fusilier | 15 / 0.5 | Cheapest standard HD |
+| Fennec | 16 / 0.5 | BTS3, FastPanda, E/Mitter |
+| Blocker | 19 / 0.5 | WIP13, Firewall −3, Sensor |
+| Firefly | 24 / 0.5 | NCO, BTS6, tougher chassis |
+| Scarecrow | 29 / 0.5 | Hidden Deployment, Infiltration, midfield specialist |
+
+The Fennec generally supersedes the Fusilier Hacker for one extra point. The Blocker is the principal backfield alternative when hacking resilience matters more than FastPanda projection (the Blocker HD profile does not have the SO profile's Pitcher). Firefly and Scarecrow justify premiums through mobility, order economy or forward positioning. Take a Fennec HD only if the network and matchup justify it; a KHD alone does not provide standard HD control programs.
+
+### Thunderbolt (+1B) / Minelayer — 14/0
+
+**Defensive order generator.** A predeployed Shock Mine adds protection without spending Orders. The normal-ammunition PS6 Thunderbolt is B3 active, B1 reactive, with range MODs −3 at 0–8 inches, 0 at 8–16, +3 at 16–32 and 0 at 32–48. Triangulated Fire is a situational active-turn Long Skill against extreme shooting MODs, not a reason to expose a fragile BS12 ARM0 model as a primary gun. It does not negate Cover's saving-roll benefit.
+
+| Alternative | Pts / SWC | Defensive role |
+|---|---:|---|
+| Fugazi | 7 / 0 | Flash Pulse, Repeater |
+| RacerBot Mk-II | 9 / 0 | PARA Mine Dispenser, Heavy Riotstopper |
+| Helot Camo LRL | 12 / 0 | Concealed Neurocinetics ARO, Irregular unless converted |
+| Fennec Minelayer | 14 / 0 | Predeployed Shock Mine, secondary gun |
+
+Joan makes Helots particularly competitive by converting their Orders while Inspiring Leadership applies. Neither a Helot ARO nor a RacerBot's carried equipment directly replaces a deployment-time Shock Mine. Choose the Fennec when screening a Lieutenant, Hacker, or uncovered entry lane matters.
+
+### Lieutenant and basic Combi — 10/0 each
+
+A budget LT is more interesting in vanilla than Kestrel because independent NCO options (e.g. Karhu) can spend its Lieutenant Order. Two identical Combi Fennecs cost 20/0 and supply two Regular Orders plus the LT Order; this conceals identity but is **not the Decoy skill**. An identical Fusilier pair costs the same (ARM1/BTS0 vs ARM0/BTS3). Magistrate Strategos LT (19/0) offers Counterintelligence, specialist utility and conversion of the LT Order; adding a Fugazi costs 26/0 for two Regular troopers. A basic Fennec otherwise competes poorly with cheaper Fugazi, Mulebot and RacerBots or the upgraded Fennec profiles.
+
+### Lower-priority profiles
+
+- **HMG / Missile Launcher:** Skip; fragile BS12 shooting without Fireteam bonuses is inferior to dedicated independent attackers or ARO pieces.
+- **SMG/LRL:** usually skip; Helot offers Neurocinetics and optional Camouflage, with an Irregular-order tradeoff outside Joan lists.
+- **Commlink SO:** usually skip; one more point buys the FO/Sensor/Disco package unless Commlink is specifically required.
+- **Paramedic:** situational cheap mission specialist. Without shared movement, Trauma-Doc + Palbot or Bipandra is generally preferable for dedicated recovery; patient PH and accessibility still matter.
+- **Basic Combi:** budget filler or identical-LT concealment only.
+
+### Recommended unlinked packages
+
+| Package | Pts / SWC |
+|---|---:|
+| FO/Disco | 13 / 0 |
+| FO/Disco + Hacker | 29 / 0.5 |
+| FO/Disco + Minelayer | 27 / 0 |
+| FO/Disco + Hacker + Minelayer | 43 / 0.5 |
+| 2 FO/Disco + Hacker | 42 / 0.5 |
+| 2 FO/Disco + Hacker + Minelayer | 56 / 0.5 |
+
+**Bottom line:** One FO/Disco is close to a default; the Hacker and Minelayer are role-dependent. Prefer useful independent activations over replicating Kestrel's linked 3–5 Fennec architecture. Ratings are tactical judgments, not observed win rates.
 
 ## Original kestrel analysis — retained reference copy
 
