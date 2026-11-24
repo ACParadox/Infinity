@@ -1,28 +1,88 @@
 # Fusilier Indigo Richard Quinn — Varuna Immediate Reaction Division (Infinity N5.3)
 
-**Verdict: Strong situational Eclipse toolbox; Disco26 preferred when a crossing needs it.**
+**Verdict: Very Good (A−), particularly in mobile Fireteam lists.** Prefer the **26/0 MULTI Rifle + Disco Baller FO**. Quinn is Varuna's only pinned Disco Baller carrier, so he adds a capability rather than simply improving an existing one. Not mandatory: static defensive lists or Cutter lists with adequate independent scoring may find better uses for 26 points.
 
-**Sources:** [Pinned Varuna roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Fireteams](../varuna-fireteams.md) · [Listbuilding](../varuna-listbuilding.md) · [Source faction analysis](../../NCA/units/quinn.md). Reviewed 24 November 2026; tactical judgments are provisional.
+**Sources:** [Pinned Varuna roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Fireteams](../varuna-fireteams.md) · [Listbuilding](../varuna-listbuilding.md) · [Disco Baller rule](../../../../rules/4_Ammunition%20and%20Weaponry/Disco_Baller.md) · [Kestrel comparison](../../kestrel/units/quinn.md) · [NCA comparison](../../NCA/units/quinn.md). Reviewed 24 November 2026. Ratings and newly constructed teams are tactical assessments, not tournament export claims.
 
-## Varuna differences
+## Pinned profiles
 
-AVA1 and two FO26/0 profiles identical to Kestrel. Unlike NCA, NO CoC option. Wildcard max1 counts as Fusilier and Kamau rather than Fusilier/Bolt or Fennec/Kestrel. No cheap Fennec Disco Baller in Varuna.
+**ID 1490 · AVA1 · Regular LI** — MOV 10–10 cm (4–4"), CC13, BS13, PH10, WIP13, ARM2, BTS3, W1, S2. **MSV1, Warhorse, Immunity (ARM).** Both profiles are Forward Observers and carry Flash Pulse, D-Charges, Boarding Pistol (+1B), CC Weapon. Wildcard max1, counts as Fusilier and Kamau.
 
-## Pinned Varuna profiles
+| Opt | Profile | Pts/SWC | Priority |
+|---:|---|---:|---|
+| 1 | MULTI Marksman Rifle FO | 26/0 | Situational; generally skip |
+| 3 | MULTI Rifle + Disco Baller FO | 26/0 | **Preferred / Very Good** |
 
-**ID 1490 · AVA 1 · LI** — `MOV 10-10 | CC 13 | BS 13 | PH 10 | WIP 13 | ARM 2 | BTS 3 | W 1 | S 2`. MSV1, Warhorse, Immunity (ARM).
+No CoC, Repeater, Sensor, Mimetism, NWI, Tactical Awareness or additional wound. Unlike NCA, Quinn cannot insure an aggressive Lieutenant. Unlike Kestrel, no 13-point Fennec Disco alternative exists.
 
-| Opt | Pts | SWC | Loadout / differences | FT |
-|---:|---:|---:|---|---|
-| 1 | 26 | 0 | MULTI Marksman Rifle, Flash Pulse, D-Charges, Boarding Pistol (+1B), CC Weapon; Forward Observer | Wildcard; counts as Fusilier and Kamau |
-| 3 | 26 | 0 | MULTI Rifle, Flash Pulse, D-Charges, Disco Baller, Boarding Pistol (+1B), CC Weapon; Forward Observer | Wildcard; counts as Fusilier and Kamau |
+## Why Quinn is useful
 
-## Varuna selection and use
+- BS13/MSV1 ignores Mimetism(-3) and reduces Mimetism(-6) in applicable shooting. MULTI Rifle is optimal at 0–16", MMR at 8–24"; both have AP/Shock/DA modes.
+- ARM2 and Immunity (ARM) mitigate qualifying ARM-targeting special ammunition (including AP/DA/EXP); BTS attacks are not covered. Still only W1.
+- Warhorse protects against Isolation, enemy BS Attack negative MODs and Irregular conversion during Loss of Lieutenant/Retreat.
+- Boarding Pistol (+1B) supplies B3 hit mode or B2 small direct templates in the active turn, not B2 in ARO. FT2 +1SD does not enhance the direct template.
+- WIP13 FO, Flash Pulse and D-Charges provide scoring and utility even if Eclipse is unused.
+- Wildcard identities preserve matching Fireteam levels when the chart supports them. No extra personal Order and 4–4" movement are limitations.
 
-- MULTI Rifle/Disco26/0 adds visual control, FO, D-Charges, MSV1 and Boarding Pistol(+1B). No printed Repeater on Quinn. Use to cross difficult lanes; Eclipse blocks friendly visor LoF too. Baggage can support eligible reloads.
-- MMR26/0 credible secondary MSV1 gun when Eclipse not needed; overlaps Kamau.
-- Fusilier HD15 + Paramedic12 + two basic10 + Quinn26 = 73/0.5 FT5 audited. Kamau sniper29 + Quinn26 = 55/1.5 Undertow Duo with Kamau equivalence. Wildcard does not waive native anchor.
-- No CoC for aggressive ORC/Uma/Cutter LT; avoid counting nonexistent command insurance.
+## Disco Baller: why it matters more in Varuna
+
+Varuna has excellent tools to win gunfights but few ways to bypass them. Quinn projects Eclipse to cross hard ARO lanes (including MSV), reach objectives, move ORCs/Montesas into favorable ranges, reposition linked attackers or withdraw expensive pieces. It is insurance, not an obligation to use it every game.
+
+Disco Baller is Targetless, Disposable (2), Double Shot and BS-based. Direct range bands: 0 at 0–8", +3 at 8–16", −3 at 16–24", −6 at 24–32". BS13 means a standard direct deployment succeeds on 16 or less in the optimal band before other applicable modifiers.
+
+- Normal BS Roll, not a Face-to-Face roll against enemy shooting. Eclipse appears at Conclusion and does not cancel AROs declared during that Order.
+- Eclipse blocks friendly MSV too; use it to split lanes and reposition, not to shoot through it.
+- Eclipse clears at the start of States Phase; the physical ball can remain for Deactivator reactivation under the normal rules. Baggage can replenish eligible uses.
+- Speculative Attack is a Long Skill with −6; do not apply FT2 +1SD to it.
+
+The MMR alternative is a capable zero-SWC secondary gun, but overlaps Varuna's many dedicated gunfighters and sacrifices its unique vision-control option.
+
+## Fireteam packages
+
+Undertow needs a native Kamau or Varuna ORC; Varuna needs a native Fusilier or eligible Helot FTO; Cavalry needs a native Squalos or motorized Montesa. Quinn counts as Fusilier/Kamau, **not Undertow directly**. A native Kamau can match Quinn and the Varuna Machinist through Kamau identity; a Montesa or ORC does not acquire that identity. FT2 is +1SD on eligible attacks, not +1 Burst. One Core, one Haris, unlimited legal Duos; AVA1 prevents using Quinn in multiple formations.
+
+| Members | Family/type | Pts/SWC | FT | Evaluation |
+|---|---|---:|---:|---|
+| **Kamau HMG26 + Quinn Disco26** | Undertow Duo | **52/1** | **2** | Preferred mobile assault + FO/Eclipse |
+| Kamau HRL/MSV1 23 + Quinn26 | Undertow Duo | 49/1.5 | 2 | Anti-armor and visual control |
+| Kamau MSV2 MSR29 + Quinn26 | Undertow Duo | 55/1.5 | 2 | Defensive gun with later scoring utility |
+| ORC HMG35 + Quinn26 | Undertow Duo | 61/1.5 | 1 | Durable main gun; mixed composition |
+| **Kamau HMG26 + Quinn26 + Machinist17** | Undertow Haris | **69/1** | **3** | Assault, FO, Engineer/Deactivator |
+| Kamau HMG26 + Quinn26 + Montesa FTO20 | Undertow Haris | 72/1 | 2 | Assault plus durable Paramedic/Blitzen |
+| Squalos NCO MULTI HMG66 + Quinn26 | Cavalry Duo | 92/1.5 | 1 | TAG escort; expensive |
+| Fusilier Hacker15 + Paramedic12 + two basic10 + Quinn26 | Varuna Core | 73/0.5 | 5 | Budget TAG-support Core; previously audited |
+
+The **52-point Kamau HMG Duo** leaves both Core and Haris slots open. Kamau supplies BS13/Mimetism(-3) long-range fire, Quinn adds MSV1 close/midrange fire, templates, scoring and Eclipse. Neither has a second Wound; avoid exposing both. The 69-point Haris adds Mimetism-protected engineering and Deactivator access. For TAGs, Quinn can also project Eclipse independently; Cutter cannot link.
+
+## Opportunity cost
+
+| Capability | Quinn Disco | Kamau FO | Montesa FTO | Pathfinder TA |
+|---|---|---|---|---|
+| Pts/SWC | 26/0 | 23/0 | 20/0 | 17/0 |
+| Eclipse | Yes | No | No | No |
+| MSV1 | Yes | No | No | No |
+| Mimetism(-3) | No | Yes | Yes | No |
+| Sensor | No | Yes | No | Yes |
+| Specialist | FO | FO | Paramedic | FO |
+| Extra Order | No | No | No | TA |
+| Immunity (ARM) | Yes | No | No | No |
+| W | 1 | 1 | 2 | 1 |
+
+Kamau FO adds Sensor/Triangulated Fire; **MSV1 belongs to Kamau HRL, not FO**. Montesa is better raw durability and close-range specialist value, Pathfinder superior order economy, mobile Repeater and Sensor. Quinn wins on combined unique utility, not points efficiency in any single generic role.
+
+## Final assessment
+
+| Role | Rating |
+|---|---|
+| Primary gunfighter | B |
+| Secondary gunfighter | B+ |
+| Vision control | A |
+| Fireteam support | A |
+| Mission specialist | B+ |
+| Durability per point | B |
+| Overall Varuna value | **A−** |
+
+**Recommended quantity: 0–1; strongly consider Disco in mobile Kamau/ORC/Squalos lists.** Lower priority in predominantly static defenses, very tight TAG lists or when a cheaper specialist solves the actual mission. Cutter's Hidden/Camo/Mimetism(-6) can reduce the need for Eclipse, but Quinn remains useful insurance against bad lanes and for independent scoring. Generally skip MMR. No CoC in Varuna; prefer safe Lieutenant positioning (e.g. Fusilier LT/decoy or concealed Zulu-Cobra), or a protected LT with TAG NCO where appropriate.
 
 ## Original Varuna tactical note — retained
 
