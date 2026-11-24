@@ -1007,6 +1007,77 @@ Karhu Feuerbach + Engineer59/1.5, Paramedic58/1.5 or MULTI Rifle56/1.5 are legal
 
 ---
 
+## ARO units — revised Fireteam-aware ranking (24 November 2026)
+
+**Authority:** [corrected vPanO roster and Fireteam charts](../../../sectorials/panoceania/panoceania.md#fireteams), [Fireteam bonuses](https://infinitythewiki.com/Fireteam_Bonuses), [Fireteam integrity](https://infinitythewiki.com/Fireteam_Integrity), [FT Master](https://infinitythewiki.com/FT_Master). Two Duos and one Haris; no Core. FT2 gives +1SD to all team members (roll an extra die, discard one), not extra retained Burst. FT3 also grants Discover/Dodge bonuses. Rank is overall listbuilding value with viable support, not a measured face-to-face probability or a mandatory inclusion order.
+
+| Rank | ARO profile | Pts/SWC (gun only) | Reactive shooting with viable support | Tier |
+|---:|---|---|---|---|
+| 1 | Black A.I.R. MSR | 33/1.5 | B2, MSV2, Mim-3; independent | S (dedicated) |
+| 2 | Karhu Feuerbach | 34/1.5 | FT2 B1+1SD, MSV1, Mim-3, AP+DA/EXP | S (dual use) |
+| 3 | Swiss Guard ML | 60/1.5 | Native B1+1SD, Hidden, Mim-6 | S |
+| 4 | Bolt MSR | 26/1.5 | FT2 B1+1SD, MSV1, Marksmanship, Warhorse | S |
+| 5 | Helot FTO LRL | 10/0 | FT2 B2+1SD, impact template | S |
+| 6 | Helot FTO Shock MMR | 11/0 | FT2 B3+1SD | S |
+| 7 | Helot Camo LRL | 12/0 | B2, one-use Camo | S |
+| 8 | Helot FTO Red Fury | 13/1 | FT2 B4+1SD | A+ |
+| 9 | Nisse MSR | 29/1.5 | FT2 Haris B1+1SD, MSV2, Mim-3 | A+ |
+| 10 | Helot Camo MSR | 17/1.5 | B2, Camo | A+ |
+| 11 | Sierra HMG | 23/1 | B4, 360-degree visor | A+ |
+| 12 | Bolt ML | 24/1.5 | FT2 B1+1SD, Marksmanship | A+ |
+| 13 | Drummer Feuerbach | 40/1 | B3 AP+DA, Mim-3; synchronized peripheral | A+ ARO / niche package |
+| 14 | Griffin Feuerbach | 38/1.5 | FT2 B1+1SD, MSV1, 2W | A |
+| 15 | Sierra Thunderbolt | 18/0 | B3 | A |
+| 16 | Croc Man MSR | 29/1.5 | B1, Hidden, Mim-6, Infiltration | A |
+| 17 | Blink HRL | 28/1.5 | B1, Hidden, Mim-6 | A |
+| 18 | ORC Feuerbach | 35/1.5 | FT2 B1+1SD, BS14, 2W | B+ / usually Skip |
+| 19 | Hetkari ML | 47/1.5 | B1, Marksmanship, 2W | B |
+| 20 | Firefly HRL | 24/1.5 | B1, Albedo, SR-1 | B- |
+
+### Black A.I.R. versus Bolt FT2 versus Karhu FT2 versus Nisse FT2
+
+| Attribute | Black A.I.R. solo | Bolt MSR FT2 | Karhu Feuerbach FT2 | Nisse MSR FT2 |
+|---|---|---|---|---|
+| Gun cost | 33/1.5 | 26/1.5 | 34/1.5 | 29/1.5 |
+| ARO | B2 | B1+1SD | B1+1SD | B1+1SD |
+| Active | B1 | B2+1SD | B3+1SD AP+DA | B2+1SD |
+| Effective BS into cover at +3 range (no Mim / Mim-3 / Mim-6) | 13/13/13 | 16/16/13 | 13/13/10 | 13/13/13 |
+| Defensive Mim | -3 | None | -3 | -3 |
+| MSV | 2 | 1 | 1 | 2 |
+| Distinct advantage | Two retained DA hits, Combat Instinct | Marksmanship, Warhorse, BTS6 | NCO, Climbing Plus, AP+DA/EXP, mines | MSV2, active shooting |
+
+Bolt is generally preferred when a useful matching partner is already wanted: better accuracy into cover (particularly if the attacker negates Black A.I.R.'s Mim), stronger active utility and lower marginal gun price. Black A.I.R. is superior as an independent dedicated anti-vision sniper: no Fireteam slot, B2 retained hits, Mim-3, MSV2 through ordinary Smoke, and Combat Instinct against Surprise Attack. Marksmanship does not remove cover saves. The Bolt's two rolled dice retain only one; this is not identical to true B2 damage. Neither dominates every matchup. Karhu is the preferred general-purpose active/ARO gun and anti-armor choice; Nisse is useful if the Haris partners and MSV2 role justify their cost.
+
+### Viable defensive links and packages
+
+| Package | Pts/SWC | FT level | Role |
+|---|---|---|---|
+| Karhu Feuerbach + Paramedic | 58/1.5 | FT2 Duo | Default active/ARO, medical recovery, mines |
+| Karhu Feuerbach + Engineer | 59/1.5 | FT2 Duo | Active/ARO, TAG/REM repair, scoring |
+| Bolt MSR + CoC | 52/1.5 | FT2 Duo | Defensive sniper plus protected command successor |
+| Bolt MSR + KHD | 48/1.5 | FT2 Duo | Sniper plus specialist/close defense |
+| Bolt MSR + BSG | 45/1.5 | FT2 Duo | Cheapest matching sniper Duo |
+| Bolt ML + BSG | 43/1.5 | FT2 Duo | Missile template and close defense |
+| Helot FTO LRL + Shock MMR | 21/0 | FT2 Duo | Preferred cheap complementary AROs |
+| Two Helot FTO LRL | 20/0 | FT2 Duo | Cheap impact-template threats |
+| Nisse MSR + Helot FTO LRL + Shock MMR | 50/1.5 | FT2 Haris | Three complementary AROs; MSV2 |
+| Nisse MSR + two FTO LRL | 49/1.5 | FT2 Haris | Anti-vision and rocket lanes |
+| Nisse MSR + Bolt BSG + KHD | 70/1.5 | FT2 Haris | More expensive specialist support |
+| Joan v2 LT + Helot FTO LRL + Shock MMR | 66/1 | FT2 Haris | Regularized Helots and active LT; mobility tension |
+| Patsy + Helot FTO LRL + Shock MMR | 55/0 | FT3 Haris | FT Master and NCO; static-role tension |
+| Griffin Feuerbach + MULTI Rifle | 69/1.5 | FT2 Duo | Durable alternative; costly, no NCO/Mim |
+| ORC Feuerbach + BSG | 61/1.5 | FT2 Duo | Durable but weaker mod stacking; usually Skip |
+
+Only Helot FTO options can link, not Camo variants. Joan regularizes eligible Helots even if unlinked; without her or FT Master they remain Irregular, and using their own Irregular Order causes them to leave the team. Patsy regularizes linked troops at Order Count while eligible; if she leaves a team containing Helots, FT Master cancels that team. Keep CoC out of the LT's attack footprint. Nisse is max one per team; two matching partners grant the Nisse FT2, a mixed Duo does not. Cheap AROs often die early: do not budget all their Regular Orders for every turn. Protect useful attackers from unnecessary ARO-clearing engagements.
+
+**Default architectures (alternatives, not one combined list):**
+- Karhu Feuerbach + Paramedic Duo and Helot LRL + MMR Duo = **79/1.5**, leaves Haris free; preferred active/defensive split.
+- Nisse MSR + Helot LRL + MMR Haris and two independent Fugazi = **64/1.5**, leaves both Duos free; choose when dedicated MSV2 defense is wanted.
+- Bolt MSR + CoC Duo and Helot LRL + MMR Duo = **73/1.5**, leaves Haris free; useful with aggressive Joan/TAG command.
+- If taking Swiss ML as main hidden gun, normally omit another premium dedicated sniper. Add cheap Helots/Fugazi, Zulu Jammer, Peacemaker or RacerBots as needed. Pilot-X can enhance Sierra BS/PH/BTS without consuming a Fireteam; do not buy him solely for the turret unless the hacking and REM support also matter.
+
+**Priority:** Karhu Feuerbach Duo and linked Helots by default when useful; Bolt MSR+CoC or KHD if a strong active attacker already exists; Black A.I.R. if dedicated standalone MSV2 defense is needed. Griffin is situational, ORC remains Skip by default, and Patsy remains conditional rather than a mandatory purchase.
+
 ## Common listbuilding traps
 
 ### Too many premium guns
