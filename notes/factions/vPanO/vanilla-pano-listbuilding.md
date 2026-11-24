@@ -703,22 +703,7 @@ Use Black A.I.R. when you want **one roster slot to provide dedicated lane contr
 
 ## Bipandra
 
-Bipandra is much more interesting in current N5 than her older-edition reputation suggests.
-
-The important profiles combine:
-
-- improved Doctor reliability;
-- specialist value;
-- Tactical Awareness on the relevant profile.
-
-Use her when:
-
-- the list contains expensive infantry worth recovering;
-- Palbot projection gives the Doctor useful reach;
-- Tactical Awareness effectively funds movement / a recovery attempt;
-- a generic Trauma-Doc would save points but materially reduce reliability.
-
-She is particularly attractive in elite Joan / Swiss / HI-heavy lists.
+See [Doctors and Paramedics](#doctors-and-paramedics--recovery-priorities-24-november-2026) for the full comparison. Prefer TA25/0, or 28/0 with Palbot, when reliable reachable infantry recovery justifies premium support. Trauma-Doc + Palbot17/0 is the budget alternative.
 
 ---
 
@@ -1172,6 +1157,39 @@ Palbots cost 3/0, AVA2 total; no independent Order. Servant uses controller WIP 
 **Selection:** Machinist + Palbot for one expensive TAG; add Tech-Bee for multiple TAGs or useful cheap TAG support. Blade + Palbot for distributed REMs or when LT Orders are contested, or Blade in a legal escort link when shared movement matters more. Karhu for independent midfield fighting/scoring or the matching Duo; Firefly for defensive mines and WIP13 when NCO access is useful. Infantry-heavy builds may skip Engineer entirely if technical recovery is unlikely. Buy practical recovery reach before WIP premiums, and do not duplicate repair support without distinct coverage.
 
 Unit notes: [Machinist](units/machinist.md) · [Blade-Ops](units/blade-ops.md) · [Karhu](units/karhu.md) · [Firefly](units/firefly.md) · [Tech-Bee](units/techbee.md). Rules: [Engineer](../../../rules/5b_Special%20Skills/Engineer.md) · [Peripheral](../../../rules/5b_Special%20Skills/Peripheral.md) · [GizmoKit](../../../rules/5c_Equipment/GizmoKit.md) · [TAGCom](../../../rules/5b_Special%20Skills/TAGCom.md).
+
+---
+
+## Doctors and Paramedics — recovery priorities (24 November 2026)
+
+Two actual Doctors, both independent under the corrected chart. All listed medical profiles cost 0 SWC before adding a gunfighter. Ratings reflect tactical value, not measured win rates.
+
+| Priority / profile | Pts | Role |
+|---|---:|---|
+| 1. Bipandra TA + Palbot | 28 | A — preferred premium recovery; personal TA funds movement/medical actions |
+| 2. Trauma-Doc + Palbot | 17 | A — best budget remote Doctor, particularly static ARO coverage |
+| 3. Karhu Paramedic | 24 | A solo / A+ linked — best mobile combat medic, NCO and mines |
+| 4. Fusilier / Fennec Paramedic | 12 | B+ when cheap medical scoring is required; Fennec FO/Disco normally preferred |
+| Bolt Paramedic | 23 | A in matching defensive Duo, conditional solo |
+| Firefly Paramedic | 25 | B — niche NCO/demolition/defensive utility, independent |
+| Nisse Paramedic | 28 | B — situational MSV2 medic; one Nisse per Family II team |
+| Bipandra standard | 23 | Usually skip in favor of TA25 (unless two points are critical) |
+
+| Dedicated Doctor | Pts alone / with Palbot | WIP | Contact recovery | With one eligible Cube token reroll |
+|---|---|---:|---:|---:|
+| Trauma-Doc | 14 / 17 | 12 | 60% | 84% |
+| Bipandra | 23 / 26 | 13 | 82.5% | 93.875% |
+| Bipandra TA | 25 / 28 | 13 | 82.5% | 93.875% |
+
+Bipandra has Doctor (ReRoll -3): WIP13 first attempt, WIP10 built-in reroll on failure, then an eligible Cube Command Token reroll at base WIP13 if needed. Both Doctors normally recover one Wound from Unconscious, not heal standing wounded HI; failure after available rerolls kills the target. Dead casualties cannot be recovered. Both have MediKit (Bipandra +1B at range); MediKit uses patient PH, with a BS hit required at range. Contact MediKit remains one PH roll. No Doctor-specific Cube token reroll for MediKit. Bipandra also has Shock Immunity, ARM2/BTS3, Nanopulser and better self-defense; the pinned TA Nanopulser Burst shorthand remains ambiguous. TA is personal, not pooled.
+
+**Independent packages:** Both Doctors remain unlisted in the corrected Fireteam chart, so a Palbot sacrifices no legal link. AVA2 Palbots shared with Engineers; each 3/0 bot contributes no Order and uses controller WIP. One active Servant per controller at a time. Bipandra's personal TA can fund her and her assigned Servant's recovery/movement. Place bots on protected routes near likely casualties, not merely next to their controller.
+
+**Legal linked medical alternatives:** Karhu Feuerbach + Karhu Paramedic **58/1.5 FT2 Duo** (Family I): mobile NCO gun, shared climbing, +1SD, mines, medical scoring. Prefer over Engineer Duo59/1.5 when VITA recovery and mines matter more than technical repair. Bolt MSV1 MSR + Bolt Paramedic **49/1.5 FT2 Duo** (Family I or II): recovery/scoring and close-defense Drop Bears; prefer CoC52/1.5 if succession is needed or KHD48/1.5 for anti-hacking. Both medical partners are Paramedics, not Doctors; no Palbots. Nisse is limited to one per Family II team; no pure Nisse Duo. Firefly/Fusilier/Fennec remain independent.
+
+**Selection:** Bipandra TA + Palbot for infantry-heavy builds with several reachable valuable casualties; Trauma-Doc + Palbot for economical protection of Swiss/Aquila/Joan or backfield ARO pieces (Bolt, Black A.I.R., Griffin/Hetkari). A single eligible Cube reroll can make Trauma-Doc adequate when only one key recovery is expected. Karhu Paramedic for aggressive midfield combat and objectives; Bolt Paramedic when a matching defensive team genuinely benefits. Cheap line Paramedic for medical mission requirements, not dedicated recovery. Doctor is optional: skip in TAG/REM-heavy or one-way assault lists without plausible VITA recovery; prioritize Engineer and use saved points on orders/mission tools. No automatic recovery for Shock-killed or otherwise Dead troopers, and W1 Karhu is not Shock Immune.
+
+Unit notes: [Bipandra](units/bipandra.md) · [Trauma-Doc](units/trauma-doc.md) · [Palbot](units/palbot.md) · [Karhu](units/karhu.md) · [Bolts](units/bolts.md) · [Fusiliers](units/fusilier.md) · [Fennecs](units/fennecs.md) · [Nisses](units/nisses.md) · [Firefly](units/firefly.md). Rules: [Doctor](../../../rules/5b_Special%20Skills/Doctor.md) · [Peripheral](../../../rules/5b_Special%20Skills/Peripheral.md) · [MediKit](../../../rules/5c_Equipment/MediKit.md).
 
 ---
 

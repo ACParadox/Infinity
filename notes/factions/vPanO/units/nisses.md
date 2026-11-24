@@ -35,6 +35,10 @@ Preferred Haris when MSV2 and Blade utility are wanted: HMG + BSG + Engineer. Th
 
 MSR29/1.5 solo B1 or FT2 B1+1SD; MSV2/Mim-3 lets it fight ordinary Smoke and Mimetism. One Nisse max per Family II team, so any mixed Duo is FT1. In a Haris two matching other members grant +1SD to all three, including Nisse. Defensive packages: Nisse MSR + two Helot FTO LRL49/1.5, + LRL and Shock MMR50/1.5, + two MMR51/1.5 (Joan regularization elsewhere supports these); or Nisse MSR + Blade FTO BSG20 + Engineer23 =72/1.5, or + Bolt BSG19 + KHD22 =70/1.5. Helots are cheap high-Burst defenses; maintain legal training/coherency and do not automatically tether an attacking Nisse HMG to static Helots. Black A.I.R.33/1.5 remains preferable as a dedicated solo sniper with B2; use Nisse MSR Haris when its partners already justify the sole Haris slot and active B2+1SD matters.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**Opt6 28/0 — B / conditional.** MSV2, Mim-3, ARM3 and Combi/Light Shotgun make a capable independent medical combat specialist, but four points more than Karhu Paramedic24/0 without NCO or same-Nisse matching Duo access (Family II max one Nisse per team). A mixed Duo is FT1; matching other partners can grant FT2 in a Haris, but the only Haris is expensive to spend purely for recovery. Prefer Karhu/Bolt Paramedics for compact matching Duos; select Nisse when MSV2 is specifically needed. MediKit uses patient PH, not Doctor WIP; no Palbot.
+
 ## Original WinterFor analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

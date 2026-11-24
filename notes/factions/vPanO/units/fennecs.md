@@ -112,6 +112,10 @@ A budget LT is more interesting in vanilla than Kestrel because independent NCO 
 
 **Bottom line:** One FO/Disco is close to a default; the Hacker and Minelayer are role-dependent. Prefer useful independent activations over replicating Kestrel's linked 3–5 Fennec architecture. Ratings are tactical judgments, not observed win rates.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**Opt10 12/0 — B- general selection, B+ when cheap medical scoring is specifically required.** Independent Regular specialist with Combi and MediKit; no Doctor skill or Palbot access. MediKit uses the patient's PH (ranged use also requires a BS hit). The 13/0 FO/Sensor/Disco Baller usually offers more utility for one point; take the Paramedic for a medical classified or when inexpensive opportunistic recovery is valuable. Fusilier Paramedic12/0 is an equivalent budget alternative (ARM1 vs Fennec BTS3). For reliable recovery of expensive infantry prefer Trauma-Doc + Palbot17/0 or Bipandra TA + Palbot28/0.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

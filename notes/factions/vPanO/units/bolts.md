@@ -46,6 +46,10 @@ Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latt
 
 **S-tier MSR; A+ ML when a matching partner is useful.** The MSR26/1.5 has B1+1SD reactive (two rolled, one retained), B2+1SD active, MSV1, Marksmanship and Warhorse. In +3 range against Partial Cover, target numbers are 16/16/13 vs no Mim/Mim-3/Mim-6, compared with Black A.I.R.13/13/13. Black A.I.R. B2 can retain two hits and imposes Mim-3 on non-MSV attackers; it also sees through ordinary Smoke without MSV1's -6. Bolt's accuracy and active utility often outweigh these advantages when KHD/CoC/Paramedic is already wanted. No defensive Mim, ARM2/W1 and no Sixth Sense in vanilla. Prefer MSR+CoC52/1.5 as a protected defensive team, or MSR+KHD48/1.5 for specialist/close control. BSG Duo45/1.5 is cheapest; ML+BSG43/1.5 or ML+CoC50/1.5 trades MSV for EXP/impact-template lethality. Do not expose CoC or buy an extra sniper merely for ARO.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**A in a defensive matching Duo; conditional standalone.** Opt9 23/0, Combi/Light Shotgun/Drop Bears, Marksmanship, Warhorse and Shock Immunity. MSV1 MSR26 + Paramedic23 = **49/1.5 FT2 Duo** (Family I or II), with B1+1SD sniper ARO and a close-defense/scoring partner who can attempt MediKit recovery. Shock Immunity improves the chance that a fallen W1 Bolt remains legally recoverable. Use the Paramedic when wound recovery and objectives are priorities; preserve the preferred MSR + CoC52/1.5 if succession is needed, or MSR + KHD48/1.5 for anti-hacking. MediKit success depends on patient PH (and BS hit at range), not WIP; no Palbot or Cube Doctor reroll. For a dispersed backfield use a hidden Trauma-Doc + Palbot17/0 instead of buying a second Bolt solely for medical insurance.
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

@@ -6,7 +6,7 @@
 
 - **AVA:** 2 in kestrel → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** Peripheral (Servant) cannot join a Fireteam; a controller with a Servant cannot join either. The corrected vanilla chart does allow Fireteams for other eligible troops.
 
 ## Pinned vanilla profiles
 
@@ -19,6 +19,10 @@
 ## Vanilla selection and use
 
 3/0 independent Servant; Machinist15 + Palbot3 =18/0, Trauma-Doc14 + Palbot3 =17/0. Protect recovery route for TAG/REM, no additional pooled Order.
+
+### Doctor packages — corrected vanilla chart (24 November 2026)
+
+**A — first Servant when a real recovery route exists.** Trauma-Doc + Palbot **17/0** (WIP12, 60% Doctor success; 84% with an eligible Cube token reroll); Bipandra TA + Palbot **28/0** (82.5% token-free Doctor success; personal TA may fund controller/Servant movement or recovery). Both Doctors remain independent under the corrected Fireteam chart, so attaching a Servant costs them no link. A Palbot has no independent Order and uses its assigned controller's WIP for recovery; one Servant activates per controller at a time. AVA2 is shared across Doctors and Engineers. Allocate bots by likely casualty/repair routes, not automatically one per support piece. Controllers with Servants cannot join a Fireteam; Paramedics cannot take a Palbot merely for MediKit access. For a TAG-heavy army prioritize Engineer coverage; for static expensive infantry a hidden Doctor plus a nearby bot is efficient.
 
 ## Original kestrel analysis — retained reference copy
 

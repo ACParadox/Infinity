@@ -37,6 +37,10 @@ Engineer23/0 with NCO and Minelayer24/0 retain independent value; CoC23/0 is nic
 ### Revised ARO role
 HRL24/1.5 is B- dedicated ARO: B1, conditional Albedo, SR-1 and impact template, but no vanilla +1SD, MSV or general-purpose Mim. Prefer linked Bolt ML or inexpensive Helot LRL for conventional defensive investment. The 19/0 Repeater/Panzerfaust, Engineer and Minelayer profiles have better differentiated utility; use them for close defense and network/mission tasks rather than purchasing HRL merely as NCO.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**Opt6 25/0 — B / situational.** NCO, Albedo, SR-1, BTS6, Shock Immunity, Combi/Panzerfaust, AP Mine and D-Charges provide defensive mission utility. No corrected vanilla Fireteam access, no Palbot for MediKit, and NCO competes for the same LT Orders as stronger attackers. Usually prefer Karhu Paramedic24/0 for mobility/MSV1/Mim-3 and matching Duo, or Bolt Paramedic23/0 for compact defensive support. Pick Firefly when its distinctive demolition, Albedo, anti-armour and mines are all useful; medical ability alone does not justify it.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

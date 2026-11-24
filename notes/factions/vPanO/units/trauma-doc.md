@@ -6,7 +6,7 @@
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** this Doctor is unlisted in both corrected vanilla families and remains independent; sectorial link permissions do not transfer.
 
 ## Pinned vanilla profiles
 
@@ -19,6 +19,12 @@
 ## Vanilla selection and use
 
 14/0 WIP12 independent Doctor; add Palbot3 for remote recovery. Bipandra25/0 TA Doctor offers improved recovery but no linked benefit, Fusilier Paramedic12 cheaper specialist. Prioritize recoverable expensive infantry over TAG/REM-heavy lists.
+
+### Doctor comparison — budget priority (24 November 2026)
+
+**A — best budget Doctor.** Trauma-Doc14/0 + Palbot3 = **17/0**, with one pooled Regular Order and independent remote medical reach; AVA1 Doctor, shared Palbot AVA2. WIP12 gives **60%** contact Doctor recovery, or **84%** with one eligible Cube Command Token reroll. The Palbot uses the Doctor's WIP, not its own WIP13. Keep the Doctor in Total Cover and deploy the bot on a protected route to likely ARO casualties (Bolt MSR, Black A.I.R., Griffin/Hetkari) or a returning Swiss/Aquila/Joan. A casualty must be legally recoverable and Unconscious; Shock/Dead cannot be reversed. Doctor normally restores one Wound.
+
+Compared with Bipandra TA + Palbot28/0, save 11 points at the cost of weaker token-free recovery, no personal TA, weaker self-defense and ordinary MediKit. If one key recovery is likely and a Command Token is available, the budget package is compelling. Fusilier/Fennec Paramedic12/0 is cheaper scoring but not a Doctor; Karhu/Bolt Paramedic can instead support a legal matching Duo. Trauma-Doc itself remains independent in the corrected chart. Skip if recovery is unlikely or the list mainly needs STR repair.
 
 ## Original kestrel analysis — retained reference copy
 

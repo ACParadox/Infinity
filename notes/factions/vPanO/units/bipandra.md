@@ -6,7 +6,7 @@
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. This is a printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Any personal Tactical Awareness/NCO order remains restricted to its owner; independently activated partners receive no team bonus.
+- **Fireteams:** this Doctor is unlisted in both corrected vanilla families and remains independent; sectorial link permissions do not transfer.
 
 ## Pinned vanilla profiles
 
@@ -20,6 +20,14 @@
 ## Vanilla selection and use
 
 TA25/0 gives personal activation only, not a premium gunfighter's activation. Doctor(ReRoll -3) makes recovery strong if route available; Trauma-Doc14 + Palbot3 is cheaper remote recovery. Pinned vanilla option2 says 'Same; Tactical Awareness' while the source detailed analysis distinguishes ordinary Nanopulser on opt2 and +1B on opt1; flag shorthand ambiguity rather than treating it as a verified vanilla-specific change.
+
+### Doctor comparison — vanilla priority (24 November 2026)
+
+**A — preferred premium Doctor, not mandatory.** Prefer TA25/0 over standard23/0: two points buy a personal Tactical Order per eligible turn, not a pooled Order. **TA + Palbot = 28/0** is the premium remote recovery package; standard + Palbot = 26/0. Bipandra is not listed in either corrected vanilla Fireteam family, so attaching a Palbot sacrifices no legal vanilla link. Her own Tactical Order can activate her and her assigned Servant for movement or Doctor actions, subject to normal Peripheral rules.
+
+Doctor (ReRoll -3) gives 65% initial WIP13 success, followed on failure by 50% at WIP10: **82.5%** before Command Tokens; **93.875%** with one eligible Cube Command Token reroll at base WIP13. The latter is not another built-in two-roll sequence. Doctor normally restores one Wound from Unconscious, not a standing wounded HI's missing Wound; failed final recovery kills the casualty. B2 ranged MediKit instead requires BS hits followed by the patient's PH; contact MediKit remains one PH roll.
+
+Best in infantry-heavy lists with reachable Swiss, Joan, Aquila, Griffin, Hetkari or important ARO infantry. ARM2/BTS3, Shock Immunity and Nanopulser improve self-defense, but she is W1 support. Prefer Trauma-Doc + Palbot17/0 for budget/static ARO recovery, or a linked Karhu/Bolt Paramedic when movement and combat/scoring are primary. Skip dedicated Doctor in TAG/REM-heavy builds without worthwhile VITA casualties. TA profile Nanopulser Burst remains ambiguous in the pinned vanilla shorthand; retain the Kestrel distinction as provisional.
 
 ## Original kestrel analysis — retained reference copy
 

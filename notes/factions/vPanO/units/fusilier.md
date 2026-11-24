@@ -30,6 +30,10 @@
 
 AVA Total instead of NCA5; basic/LT10/0 and 12/0 FO/Repeater or Paramedic are cheap independent utility. Fennec10/0 and Fennec FO/Disco13/0 offer different equipment; no native Core, so SWC guns lose linked efficiency. Decoy body means a second identical model, not printed Decoy.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**Opt9 12/0 — B+ for cheap medical specialist/scoring.** Independent Regular Order, Combi, MediKit; two points above a basic Fusilier. MediKit uses the patient's PH (ranged also requires a BS hit); no actual Doctor skill, Cube Doctor reroll or Palbot access. Fennec Paramedic12/0 is comparable (ARM0/BTS3 vs Fusilier ARM1/BTS0). Choose FO/Repeater12/0 instead if network utility is more valuable. A Paramedic is not an identical Combi LT decoy; retain matching basic10/0 for concealment if using double-Fusilier command. For dedicated recovery, Trauma-Doc + Palbot17/0 is the cheap remote option.
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.

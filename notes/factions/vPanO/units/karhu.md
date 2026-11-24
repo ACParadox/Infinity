@@ -44,6 +44,12 @@
 
 **A+ — best conventional combat Engineer.** Engineer25/0 is worthwhile for MSV1, Mim-3, 6-2 MOV, Climbing Plus, MULTI Rifle, Blitzen, D-Charges and NCO even if no repair is needed. WIP12 = 60% contact repair or 84% with one eligible Remote Presence Command Token reroll. The **59/1.5 matching Feuerbach + Engineer FT2 Duo** shares climbing and movement, gains +1SD, and offers technical recovery and scoring. Engineer repairs STR and can clear eligible disabling states on the W1 Karhu, but cannot restore its ordinary VITA wounds; choose the 58/1.5 Paramedic Duo for that purpose and AP Mines. Engineer has no AP Mines. Independent Karhu + Palbot = 28/0; controlling a Palbot precludes Fireteam membership. NCO consumes available LT Orders rather than generating its own; Blade FTO23 is preferable for independent TA economy, Machinist15 for inexpensive pure repair.
 
+### Paramedic — medical comparison (24 November 2026)
+
+**A as independent combat medic; A+ in the matching Feuerbach Duo.** Opt5 24/0 is the best general-purpose mobile medical specialist: MSV1, Mim-3, 6-2, Climbing Plus, NCO, MULTI Rifle, Blitzen and AP Mines. Feuerbach34 + Paramedic24 = **58/1.5 FT2 Duo**, giving shared movement, +1SD and a legal NCO outlet with either member leading. No extra LT Order per NCO. Prefer this over the Engineer Duo59/1.5 when VITA recovery/mines matter more than technical repair, or when another Engineer already covers STR assets.
+
+MediKit uses the patient's PH (contact; ranged also requires a BS hit), not Doctor WIP; no Cube Doctor reroll or Palbot access. W1 Karhu lacks Shock Immunity, so do not assume every fallen Karhu will remain recoverable. The main reason to buy the Paramedic is combat, objectives and efficient Duo movement; medical recovery is a bonus. For dependable dedicated recovery elsewhere, Trauma-Doc + Palbot17/0 or Bipandra TA + Palbot28/0.
+
 ## Original WinterFor analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
