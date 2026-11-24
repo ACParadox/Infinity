@@ -10,7 +10,7 @@ army_source_version: "7.26246.158"
 army_data_changed_on: 2026-09-03
 infinitydb_commit: "4e2662be3f43387fbae42b3790a711b3e98570c4"
 verified_on: 2026-10-15
-coverage: "Standard generic PanOceania roster and loadouts. Generic PanOceania has no standard Fireteam chart. Spec-Ops and Team-Ops are optional-mode hooks; RacerBots Mk-I/Mk-II are a standalone roster entry; Mk-III is a dependent component of Pilot-X Team."
+coverage: "Standard generic PanOceania roster and loadouts. Fireteam charts I and II corrected from user-provided Infinity Army screenshots on 2026-11-24. Spec-Ops and Team-Ops are optional-mode hooks; RacerBots Mk-I/Mk-II are a standalone roster entry; Mk-III is a dependent component of Pilot-X Team."
 ---
 
 # PanOceania
@@ -33,7 +33,7 @@ Coverage notes:
 - `Indigo Spec-Ops` and `Indigo Team-Ops` are optional game-mode content and are listed separately.
 - `RacerBots Mk-I/Mk-II` are independently selectable, share AVA 2, and do not require Pilot-X.
 - `RacerBots Mk-III` cannot be selected independently; they are part of a `Pilot-X Team` package.
-- Generic PanOceania has **no standard Fireteam chart**. `FTO` in a loadout name remains part of the Army profile name but does not create Fireteam access in vanilla.
+- Generic PanOceania has **two Fireteam families**, maximum two Duos and one Haris, confirmed by user-provided Infinity Army screenshots on 2026-11-24; see the Fireteams section.
 - Vanilla AVA is taken from the canonical PanOceania profile group, not inherited from a sectorial. This matters for units such as Cutter, Swiss Guard, Tikbalang, Redeye, Hetkari, BCA Magistrate, Blink Team, Helot, Zulu-Cobra, Bolts, and others.
 - Linked Reinforcement section: **Code: Capital** (`army_id: 199`). Reinforcement content is not merged into this base-roster reference.
 
@@ -713,22 +713,50 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ## Fireteams
 
-Generic / vanilla PanOceania has **no standard Fireteam chart** in the pinned Army source. Any `FTO` text above is part of a profile/loadout name only and does not grant Fireteam access in generic PanOceania.
+**Screenshot-verified correction — 2026-11-24:** The current generic PanOceania Infinity Army Fireteams Chart supplied by the user supersedes the absent chart in archived revision `7.26246.158`. Maximum **2 Duos** and **1 Haris**; no Core shown. The following transcribes the visible rows; all minima are 0. FTO restrictions and parenthetical counts-as labels are preserved, not inferred for other profiles. The screenshots do not independently establish a new Army data revision.
 
-**Tactical and purchasing analysis:** [Vanilla PanOceania faction notes](../../notes/factions/vPanO/vanilla-pano-listbuilding.md). The factual roster and Fireteam data above remain authoritative.
+### PanOceania Fireteams I — Duo
 
-## Fireteam audit and best unlinked compositions — N5.3
+| Unit | Min | Max |
+|---|---:|---:|
+| BOLT | 0 | 2 |
+| KARHU | 0 | 2 |
+| BLADE FTO | 0 | 1 |
+| TIKBALANG | 0 | 1 |
+| SQUALO Mk-II | 0 | 2 |
+| BULLETEER | 0 | 2 |
+| ORC | 0 | 2 |
+| GRIFFIN | 0 | 2 |
+| AQUILA FTO | 0 | 1 |
+| PATSY GARNETT | 0 | 1 |
+| MAXIMUS OPTIMATE | 0 | 1 |
+| MAXIMUS AGENT | 0 | 1 |
 
-**No legal Fireteam compositions exist in pinned Vanilla PanOceania.** The main-roster source contains **no Core, Haris or Duo chart**, so there is no eligible 2–5 member Fireteam and **FT Level is N/A**, even when two models are of the same Unit. FTO labels, Tactical Awareness and close proximity do **not** create a Fireteam. Sectorial-only Wildcards and Counts-as relationships do not transfer into Vanilla. [N5.3 Fireteam chart rules](https://infinitythewiki.com/Fireteams_Chart) require the army's own chart.
+### PanOceania Fireteams II — Duo, Haris
 
-The following are **unlinked alternative tactical packages**, not candidates to score FT2/FT3 bonuses. They use exact option numbers and prices from the profiles above (reviewed 2026-11-19); totals are **pts/SWC** for listed independent models only. Peripherals (e.g., Peacemaker Auxbot) are not independent Fireteam members and are already covered by their controller's printed price.
+| Unit | Min | Max |
+|---|---:|---:|
+| BOLT | 0 | 3 |
+| BLADE FTO | 0 | 2 |
+| ORC | 0 | 2 |
+| HELOT MILITIAMAN FTO | 0 | 2 |
+| BULLETEER | 0 | 2 |
+| NISSE | 0 | 1 |
+| PATSY GARNETT (Orc, Helot) | 0 | 1 |
+| JOAN OF ARC | 0 | 1 |
+| JOAN OF ARC v2 | 0 | 1 |
 
-| Priority | Exact independent models (pinned option: pts/SWC) | Size | FT level | Total pts/SWC | Why useful / limitation | Evidence |
-|---|---|---|---|---:|---|---|
-| **Best affordable TAG maintenance** | Tikbalang HMG (opt 1: 69/1.5)<br>Tech-Bee TAGCom (opt 2: 9/0) | 2 independent models | **N/A — no FT** | **78/1.5** | Tikbalang assault with Tech-Bee TAGCom support. Separate Orders; no Fireteam leader, bonuses or shared activation. | [Vanilla PanO guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md); recommendation. |
-| **Best layered hidden gun / network** | Swiss Guard Hidden HMG (opt 2: 56/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0)<br>Peacemaker HSG + Auxbot (opt 1: 23/0) | 3 independent models | **N/A — no FT** | **96/1.5** | Swiss Hidden HMG + fast Pathfinder repeater/FO + Peacemaker forward template threat; Auxbot is peripheral, not fourth team member. | [Vanilla PanO guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md); independent threat architecture. |
-| **Best broad TAG support** | Squalos MULTI HMG NCO (opt 3: 66/1.5)<br>Pathfinder Tactical Awareness (opt 2: 17/0)<br>Tech-Bee TAGCom (opt 2: 9/0) | 3 independent models | **N/A — no FT** | **92/1.5** | Squalos NCO gun, Pathfinder scoring and Tech-Bee TAGCom are separate units, even if operating together. | [Vanilla PanO guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md); recommendation. |
-| **Best premium hidden TAG package** | Cutter NCO MULTI HMG (opt 1: 97/2)<br>Tech-Bee TAGCom (opt 2: 9/0) | 2 independent models | **N/A — no FT** | **106/2** | Cutter NCO + Tech-Bee offers independent concealed firepower and inexpensive TAGCom; not a Duo. | [Vanilla PanO guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md); recommendation. |
-| **Best anti-armor repair package** | Karhu Feuerbach(+1B) (opt 3: 34/1.5)<br>Karhu Engineer (opt 4: 25/0)<br>Pathfinder FO/Sensor (opt 1: 14/0) | 3 independent models | **N/A — no FT** | **73/1.5** | Karhu Feuerbach(+1B), Karhu Engineer and a Pathfinder sensor/repeater; no Fireteam despite two Karhu from same unit. | [Vanilla PanO guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md); recommendation. |
+Limits are army-wide; roster AVA, exclusive-character selection and actual Fireteam size still apply. Only the explicit counts-as relationships shown above are established. Same-unit matching grants FT2 (+1SD) or FT3 (+3 Discover, +1 Dodge); mixed teams without two matching members are FT1. No FT4/FT5 with these sizes. Do not infer sectorial-only permissions. Any rows outside the supplied screenshots remain unverified.
 
-**Evidence distinction:** An opponent moving nearby or a narrator calling something a “team” is **not** proof of linked orders. This file does not attribute any Vanilla PanO Fireteam to a battle report or podcast. More on legal Vanilla list architecture: [Vanilla PanO tactical guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md).
+## Fireteam audit and selected compositions — N5.3
+
+| Package | Chart | FT level | Pts/SWC |
+|---|---|---|---:|
+| Karhu Feuerbach (+1B) + Karhu Engineer | I | FT2 Duo | 59/1.5 |
+| Karhu Feuerbach (+1B) + Karhu Paramedic | I | FT2 Duo | 58/1.5 |
+| Bolt MSV1 MSR + Bolt CoC | I or II | FT2 Duo | 52/1.5 |
+| Bolt MSV1 MSR + Bolt KHD | I or II | FT2 Duo | 48/1.5 |
+| Bolt MSV1 MSR + Bolt BSG + Bolt KHD | II | FT3 Haris | 67/1.5 |
+| Joan v2 + two Helot FTO LRL | II | FT2 Haris | 65/1 (45/1 Joan v2 LT) |
+
+These are tactical examples, not observed battle reports. Joan and the Helots are different units; the two Helots match. +1SD is not extra retained Burst. Tech-Bee, Pathfinder, Peacemaker and Swiss Guard are not in the visible chart, so their support remains independent. Refer to [Vanilla PanO tactical guide](../../notes/factions/vPanO/vanilla-pano-listbuilding.md) and [Fireteam guide](../../notes/factions/vPanO/vanilla-pano-fireteams.md).
