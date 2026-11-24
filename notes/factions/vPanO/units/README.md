@@ -1,0 +1,61 @@
+# Vanilla PanOceania — Unit analyses
+
+50 of the 51 standard roster units have existing sectorial unit notes adapted here. Each note includes the pinned vanilla profile, source-sectorial AVA and option/price comparison, independent tactical use, and the retained original analysis. [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) governs selection; [listbuilding](../vanilla-pano-listbuilding.md) and [unlinked synergies](../vanilla-pano-fireteams.md) govern faction context. **Vanilla has no standard Fireteam chart**; neither FTO labels nor historical sectorial recommendations grant link access.
+
+## Unit notes
+
+- [Aquila Guard](aquila-guard.md)
+- [Banshee](banshee.md)
+- [Bipandra](bipandra.md)
+- [Black A.I.R.](black-air.md)
+- [Blade Ops](blade-ops.md)
+- [Blink](blink.md)
+- [Blockers](blockers.md)
+- [Bolts](bolts.md)
+- [Bulleteer](bulleteer.md)
+- [Clipper Missilebot](clipper-missilebot.md)
+- [Croc Men](croc-men.md)
+- [Team Crux Father-Knights](crux.md)
+- [Cutter](cutter.md)
+- [Drummers](drummers.md)
+- [Fennecs](fennecs.md)
+- [Firefly](firefly.md)
+- [Fugazi](fugazi-flashbot.md)
+- [Fusilier](fusilier.md)
+- [Griffin](griffin.md)
+- [Harper](harper.md)
+- [Helot Militia](helots.md)
+- [Hetkari](hetkari.md)
+- [Joan of Arc](joan-v1.md)
+- [Joan of Arc v2 (Mobility Armor)](joan-v2-mobility.md)
+- [Karhu](karhu.md)
+- [Locust](locust.md)
+- [Machinist](machinist.md)
+- [Magistrate](magistrate.md)
+- [Optimate Agent Maximus](maximus-agent.md)
+- [Maximus, Optimate and HexaDome Legend](maximus-tag.md)
+- [Mulebot](mulebot-baggagebot.md)
+- [Nisses](nisses.md)
+- [Nøkken](nokken.md)
+- [Orc](orc.md)
+- [Palbot](palbot.md)
+- [Pathfinder](pathfinder.md)
+- [Patsy](patsy.md)
+- [Peacemaker](peacemaker.md)
+- [Pilot X](pilot-x.md)
+- [Redeye](redeye.md)
+- [Scarecrow](scarecrow.md)
+- [Sierra Dronbot](sierra-trbot.md)
+- [Squalos Mk-II](squalos.md)
+- [Swiss Guard](swiss-guard.md)
+- [Techbee](techbee.md)
+- [Teutonic Knight](teutonic-knight.md)
+- [Tikbalang](tikbalang.md)
+- [Trauma-Doc](trauma-doc.md)
+- [Warcor](warcor.md)
+- [Zulu Cobra](zulu-cobra.md)
+
+## Not copied
+
+- Motorized Bounty Hunters (ID 1565): selectable in vanilla, but no dedicated source-sectorial unit analysis was found. See the pinned vanilla roster for profiles; no new full analysis was requested.
+- Sectorial-only units and optional-mode entries are excluded. RacerBots are documented as components of Pilot-X Team rather than as standalone selections. Joan and Maximus variants have separate notes but each character is mutually exclusive across its two variants.
