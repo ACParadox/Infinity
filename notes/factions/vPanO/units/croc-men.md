@@ -6,7 +6,7 @@
 
 - **AVA:** 4 in Varuna → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Not listed in either vanilla family; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -23,6 +23,9 @@
 ## Vanilla selection and use
 
 AVA2 versus Varuna4; 26/0.5 BSG Minelayer, 30/0 FO/Repeater and 33/0.5 HD offer true Infiltration/Camo/Hidden Deployment/Mimetism(-6). Scarecrow FO25/0 and KHD27/0 are cheaper complementary mission/hacking options; Croc brings X Visor and mines. Sniper29/1.5 conditional hidden ARO. No link.
+
+### Revised ARO role
+MSR29/1.5 is A-tier situational hidden ARO: B1, Mim-6, X Visor, Infiltration and Shock Mine allow unusual lateral lanes. It cannot link. Choose for hidden geometry rather than conventional ARO (Black A.I.R. or linked Bolt/Nisse); Swiss ML is the durable premium concealed gun. FO/Minelayer remain preferable for general mission use.
 
 ## Original Varuna analysis — retained reference copy
 
