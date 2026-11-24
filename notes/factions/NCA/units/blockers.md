@@ -1,6 +1,6 @@
 # Blockers — Neoterran Capitaline Army (N5.3)
 
-**Near auto-include: Pitcher Specialist 15/0. Hacker 19/0.5 is optional.** Prioritize at least one Pitcher in most NCA lists with useful hacking coverage. Do not automatically buy both profiles or build a five-member Core solely to give the Hacker Sixth Sense. Two models are useful for roster flexibility, not a mandatory pair.
+**Near auto-include: Pitcher Specialist 15/0. Strongly consider AVA 2 as two Pitchers when running Deva HD + KHD. Hacker 19/0.5 is situational.** Prioritize at least one Pitcher in most NCA lists with useful hacking coverage. With dedicated backline hackers, the second Pitcher is usually more valuable than the Blocker HD. Do not build a five-member Core solely to give the Hacker Sixth Sense.
 
 **Sources:** [Pinned NCA roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md#blockers), [NCA Fireteams](../nca-fireteams.md), [NCA listbuilding](../nca-listbuilding.md), [network projection rankings](../../../list-building/network-projection-repeaters-pitchers-apex-value.md). Ratings are tactical judgments.
 
@@ -11,8 +11,8 @@ AVA 2; LI; MOV 4-4, CC17, BS12, PH10, WIP13, ARM1, BTS3, W1, S2. Both have Biome
 | Opt | Profile | Pts / SWC | Rating | Preferred use |
 |---:|---|---:|---|---|
 | 1 | Specialist Operative, Pitcher | 15 / 0 | S | Default forward network projection, anti-marker support, scoring |
-| 2 | Hacker, HD (Firewall -3); no Pitcher | 19 / 0.5 | A− / B+ | Economical self-protected HD; particularly useful if exploiting its toolbox or composition |
-| 1 (second copy) | Specialist Operative, Pitcher | 15 / 0 | A | Redundant/second attack axis when HD and KHD are already covered |
+| 2 | Hacker, HD (Firewall -3); no Pitcher | 19 / 0.5 | B | Economical self-protected HD; particularly useful if exploiting its toolbox or composition |
+| 1 (second copy) | Specialist Operative, Pitcher | 15 / 0 | A+ | Strongly recommended second attack axis when HD and KHD are already covered |
 
 ## Pitcher — why it is exceptional
 
@@ -35,6 +35,23 @@ Native B2 in the Active Turn if both Disposable (2) uses remain. FT2 adds a Spec
 Weaknesses: one wound, ARM1, no conventional lethal medium-range rifle, only two Pitcher uses. Clear threatening AROs with a proper gunfighter; do not treat the Blocker as a primary attack piece. It can often shoot from the DZ, but forward movement opens safer angles, deeper coverage and mission opportunities.
 
 Rules: [Pitcher](https://infinitythewiki.com/Pitcher), [X-Visor](https://infinitythewiki.com/X-Visor), [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses).
+
+## Two Pitchers — preferred with dedicated Deva hackers
+
+The [Deva HD and KHD](deva.md) can both operate independently from total cover in the DZ through friendly Repeaters. They do not need to accompany the Blockers. A standard HD is the priority to exploit the network against HI/TAG/REM and Spotlight targets; the KHD adds Trinity against enemy Hackers.
+
+| Package | Pts / SWC | Role |
+|---|---:|---|
+| Deva HD 25 + Pitcher 15 | 40 / 0.5 | Minimum preferred hacking package |
+| Deva HD 25 + Deva KHD 20 + Pitcher 15 | 60 / 0.5 | Dedicated cyber package |
+| Deva HD 25 + Bolt KHD 22 + Pitcher 15 | 62 / 0.5 | Alternative with a linked combat specialist |
+| **Deva HD 25 + Deva KHD 20 + two Pitchers 15 each** | **75 / 0.5** | **Preferred strong network package** |
+
+The last package costs 25% of a 300-point army, supplies four Regular Orders, four specialists, two Sensors and four total Pitcher ammunition uses. The second Blocker allows opposite-flank coverage, replacement of destroyed Repeaters, redundancy if one Blocker dies, and independent attack axes. Both retain Adhesive Launcher, Pulzar, Sensor and scoring utility after expending ammunition. Four uses are not four guaranteed deployed Repeaters.
+
+With both Devas, prefer two Pitcher profiles over one Pitcher plus one Blocker HD unless a specific Firewall or Fireteam requirement justifies the latter. Existing mobile/deployable Repeaters and mission requirements can still make one Pitcher sufficient.
+
+**Preferred deployment:** split the Pitchers between a CSU Specialist Duo (26/0, FT2) and the main offensive Core/Haris, or field two separate CSU Specialist + Blocker Pitcher Duos (52/0 total, each FT2). This preserves Core/Haris slots in the latter case, gives each Pitcher +1 SD, and permits separate attack axes. A solo Blocker is also viable. Do not cluster both unnecessarily.
 
 ## Hacker — useful, not mandatory
 
@@ -95,5 +112,5 @@ Rules: [Sixth Sense](https://infinitythewiki.com/Sixth_Sense), [Fireteam Bonuses
 1. Start with one Pitcher if a standard HD or KHD network is relevant.
 2. Prefer a compact Neoterra team with Bolt + Blade FTO/Engineer + Pitcher, or a cheap CSU Duo; solo is fine.
 3. Select the Hacker independently based on WIP, personal protection, cost and Fireteam role. Take the Blocker HD when its Firewall or multifunctional support is worth the premium, not merely because it pairs with the Pitcher.
-4. Consider a second Pitcher instead of the HD when other Hackers already cover the network. Native mobile Repeaters (Pathfinder, Bulleteer, Peacemaker, Fugazi) can reduce the need for redundancy.
+4. Strongly consider a second Pitcher instead of the HD when Deva HD + KHD or equivalent dedicated hackers cover the network. Split their attack axes where useful. Native mobile Repeaters (Pathfinder, Bulleteer, Peacemaker, Fugazi) can reduce the need for redundancy.
 5. Keep FT5 Sixth Sense as an optional bonus if the rest of the team is already worth fielding. Do not force five bodies.
