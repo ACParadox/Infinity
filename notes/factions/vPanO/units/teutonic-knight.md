@@ -27,6 +27,8 @@
 
 AVA2 vs MO3, same six options. 19/0 SMG Specialist/Panzerfaust is a strong cheap standalone two-Wound close specialist, 18/0 LSG/Panzerfaust budget attack, 29/1.5 NCO Spitfire conditional. TinBot19 protects itself rather than a link; Impetuous is useful solo; Religious status matters for Inspiring Leadership.
 
+**Preferred vanilla profile — Option 5, Specialist Operative (19 pts / 0 SWC):** Cheap solo secondary attack piece and specialist. Use optional Impetuous movement to advance when safe, the SMG and DA CCW for close-range pressure, and the Panzerfaust for opportunistic anti-armor shots or AROs. Two Wounds and enhanced Dodge make it a useful independent mission runner and follow-up attacker after the primary gunfighter opens a route. No Fireteam or Lieutenant-order investment required. This profile appeared in the [Borderbash 2025 winning list](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhEVNhaW50IG9mIE1pbWl0aXNtgSwCAQEACQAqAQQAAITGAQMAAITGAQQAAAkBAgAAEwEBAAATAQEAAB4BBQAAhw8BBAAAhwwBAwACAQAGAIXNAQUAAIXNAQMAADIBAQAAhh0BAgAAhwsBBwAAhwsBCQA%3D), alongside Joan v2, Swiss Guard HMG and a Karhu Duo. Historical list example, not a current win-rate estimate. Prioritize this profile over the basic shotgun when a generic specialist is useful.
+
 ## Original MO analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
