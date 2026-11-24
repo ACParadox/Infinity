@@ -23,6 +23,10 @@
 
 AVA2. **A+ team utility; S in a purposeful Nisse Haris.** BSG20/0 and Engineer23/0 FTO form the matching pair with Nisse HMG31/1.5 for 74/1.5 FT2 Haris (or two BSG for 71/1.5). All have Mim-3; two Blades provide close-range coverage, AP SMG/Engineer/D-Charges and two Tactical Orders. Each TA Order activates the link with its own Blade as leader, not the Nisse HMG as shooter. Also useful as mixed FT1 Duo with Bulleteer or an eligible Family I TAG; lone Blade does not confer +1SD. Machinist15 + Palbot3 is cheaper for independent repair. 30/0 forward or parachuting Engineer with Decoy(2) remains specialized and cannot link.
 
+### Engineer comparison — user-approved priorities (24 November 2026)
+
+**A+ — best independent Engineer order economy.** FTO AP SMG Engineer23/0 combines WIP12 (60% contact repair; 84% with one eligible Remote Presence reroll), Mim-3, Shock Immunity, BS Attack (SR-1), D-Charges and a personal Tactical Awareness Order. TA generates its own restricted activation rather than competing for the LT Order. **Independent Blade + Palbot = 26/0**; use TA for movement/Servant repair when legal, preserving pooled Orders. Excellent for REM-heavy builds. Alternatively, a Bulleteer + Blade FTO Engineer mixed FT1 Duo provides shared movement and repairs; eligible TAG Duos and the Nisse + two Blade FTO FT2 Haris are also valid. **Choose either Fireteam membership or Palbot control, never both.** In a team the Blade must lead when spending its TA Order and when performing Engineer actions; it cannot use TA to let another member shoot as leader. The 30/0 FD and Parachutist Engineer profiles remain C / usually skip unless deployment solves a specific mission/recovery problem; neither can link. Machinist18 including Palbot is the budget choice; Karhu25 is the stronger general combat specialist.
+
 ## Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
