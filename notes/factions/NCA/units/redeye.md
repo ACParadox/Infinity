@@ -1,12 +1,47 @@
 # Redeye Close Air Support Squad — Neoterran Capitaline Army (Infinity N5.3)
 
-**Verdict: Strong independent asymmetric secondary attacker.**
+**Verdict: A — strong independent asymmetric secondary attacker; preferred over Garuda Spitfire for sustained fighting. Not a list must-have. Blitzen is the default.**
 
 **NCA authority:** [Pinned roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md). Copied from [Kestrel unit note](../../kestrel/units/redeye.md). Reviewed 23 November 2026.
 
 ## NCA differences and selection
 
 AVA 2, opt 1 Spitfire/Chain Rifle/Blitzen37/1.5, opt 2 Spitfire/Chain Rifle/Continuous Damage GL38/1.5. Unchanged Aerial, Mimetism (-6), No Cover, Super-Jump (Jet Propulsion), Sensor, Tech-Recovery, Remote Presence. No FT access. Blitzen default anti-tech; GL offensive alternative. NCA has hidden Uhlan and Swiss for alternative asymmetric attacks; Redeye supplies vertical angles and rapid flank access. VH does not receive TAGCom merely for being a vehicle. Competes for SWC with Squalos/Bolt ranged pieces; 1 strong, 2 deliberate skew.
+
+## NCA profile selection and Garuda comparison
+
+| Profile | Pts / SWC | Recommendation |
+|---|---|---|
+| Redeye Spitfire, Chain Rifle, Blitzen | 37/1.5 | **A — default**; sustained mobile combat and E/M threat |
+| Redeye Spitfire, Chain Rifle, Continuous Damage GL | 38/1.5 | **A−**; specialized clustered-target/backline disruption |
+| Garuda Spitfire | 25/1.5 | **B+**; cheaper alternative when airborne flanking or budget matters |
+| Garuda Boarding Shotgun, Chain-colt | 18/0 | **A**; cheap airborne assassination and disruption |
+| Garuda FO | 20/0 | Airborne mission specialist; competes for the same Garuda AVA 1 |
+
+| Attribute | Redeye | Garuda (all profiles) |
+|---|---|---|
+| MOV / Super-Jump | 8–2, Jet Propulsion | 8–2, Jet Propulsion |
+| BS | 14 | 12 |
+| ARM / BTS / STR | 6/6/2 | 0/3/1 |
+| Mimetism | -6 | -3 |
+| Silhouette | 7 | 2 |
+| Partial Cover | No Cover | Eligible |
+| Airborne deployment | No | Combat Jump, Parachutist |
+| Sensor / Tech-Recovery | Yes | No |
+| AVA | 2 | 1 |
+
+**Redeye is worth the 12-point premium over Garuda Spitfire.** For identical SWC, +2 BS, +6 ARM, +3 BTS and a second STR make a substantially better sustained fighter; the Chain Rifle and Blitzen add useful engagement options. Both have the same movement and Jet Propulsion, including pop-up Jump + Shoot when legal. Garuda can match Redeye's basic -6 defensive shooting MOD when in Partial Cover, but is much less resilient if hit (effective ARM3 in cover versus Redeye's ARM6). Redeye's large silhouette and No Cover are real disadvantages, and its Aerial skill prevents contact-based objective interaction while active.
+
+**Garuda is principally an airborne flanker or a cheaper Redeye alternative, provided AVA is not already used by the FO.** Spitfire is appropriate if airborne entry saves significant movement Orders or the list cannot afford Redeye; otherwise prefer Redeye for repeated engagements. Boarding Shotgun (B2 AP, +6 at 0–8in) plus Chain-colt (direct template) is a distinct 18-point, zero-SWC backline assassin, not a cheaper sustained gunfighter. Use it against vulnerable support pieces, or to threaten armor at close range. Garuda FO is a strong alternative when the mission calls for airborne scoring; AVA 1 prevents taking it alongside a second Garuda.
+
+## NCA list integration
+
+- Prefer one Redeye as an exploitation piece after Swiss Guard HMG, Uhlan Feuerbach or Squalos opens the board. The premium guns and Redeye attack along different vectors; Redeye is not the default long-range ARO breaker.
+- **Redeye + Garuda BSG (55/1.5)** is complementary: persistent mobile fighter plus cheap airborne threat, if Garuda AVA is free.
+- **Garuda BSG + Bulleteer Spitfire (40/1)** is a worthwhile alternative when the priority is inexpensive separate attack vectors and saving SWC. Bulleteer alone (22/1) is an efficient linked/ground-level Mimetism (-6) alternative, but lacks Redeye's resilience and flight geometry.
+- **Uhlan Feuerbach + Redeye (107/3)** or **Swiss HMG + Redeye (93/3)** are strong distinct attack pairs. All three cost 163/4.5; build around them rather than assuming every list needs them.
+- No Tactical Awareness, NCO or Fireteam access on Redeye. Budget regular Orders for the attack and retreat. NCA's Repeater network and KHDs can help clear hostile hackers; Blade-Ops Engineer or Machinist provides repair support (ranged GizmoKit while Aerial is active).
+- Zero Redeyes is legitimate when points/SWC or terrain favor other tools; one is preferred for mobile combined arms; two (74/3 with Blitzen) is deliberate skew. Sensor is useful but less unique in NCA given Blockers, Pathfinders and other Sensor access.
 
 ## Original Kestrel analysis — retained reference copy
 
