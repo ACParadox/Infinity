@@ -1,23 +1,96 @@
 # Black Friar — Neoterran Capitaline Army (Infinity N5.3)
 
-**Verdict: Strong anti-visual-tech Wildcard; reduced AVA, broader FT access.**
+**Verdict: A overall; Thunderbolt (+1B) 24/0 is the clear default (A+ as an active anti-tech counter). Usually skip the HRL and MULTI Rifle.** The Friar's defining advantages are matchup-dependent, so use it to actively select favorable engagements rather than relying on the opponent to expose a vulnerable gunfighter to its ARO. Excellent secondary gun for a TAG- or Swiss Guard-centric list; not mandatory.
 
-**NCA authority:** [Pinned roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md). Copied from [Military Orders unit note](../../MO/units/black-friar.md). Reviewed 23 November 2026.
+**NCA authority:** [Pinned roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md) · [Military Orders unit note](../../MO/units/black-friar.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Albedo](https://infinitythewiki.com/Albedo) · [MSV](https://infinitythewiki.com/Multispectral_Visor). Reviewed 23 November 2026. Ratings are tactical judgments, not tournament win rates.
 
-## NCA differences and selection
+## Exact profiles and NCA differences
 
-AVA **1 vs MO 2**. Identical BS13/WIP13, MSV2, Albedo (-6), Combat Instinct, Religious Troop; opt 2 Thunderbolt (+1B)24/0, opt 3 MULTI Rifle + Drop Bears + Biometric Visor + Discover (+3)27/0, opt 4 HRL22/1.5. MULTI Rifle is not a mission specialist just because of equipment.
+**ID 771 · AVA 1 (MO 2) · Regular MI · MOV 10–10 cm · CC19 · BS13 · PH11 · WIP13 · ARM2 · BTS3 · W1 · S2 · MSV2 · Albedo (-6) · Combat Instinct · Religious Troop.**
 
-NCA **Wildcard max 1**, no Counts-as; MO Military Orders max 2 and Order Sergeants max 1 replaced with access to all NCA families subject to native anchors. Friar does not count as Bolt/Fusilier/ORC.
+| Option | Profile | Pts/SWC | Rating | Recommendation |
+|---:|---|---:|---|---|
+| 2 | Thunderbolt (+1B), Nanopulser | 24/0 | A+ | Default active counter-gun |
+| 4 | Heavy Rocket Launcher, Nanopulser, MULTI Pistol (+1B) | 22/1.5 | B | Usually skip; niche anti-tech ARO |
+| 3 | MULTI Rifle, Nanopulser, Drop Bears; Biometric Visor, Discover (+3) | 27/0 | C+ | Usually skip; Blockers cover anti-IMP utility more efficiently |
 
-| Example | Pts/SWC | FT |
-|---|---:|---:|
-| Bolt MSV1 MSR26 + Friar HRL22 | 48/3 | 1 |
-| Bolt MSV1 MSR26 + Friar HRL22 + Machinist17 | 65/3 | 2 |
-| Fusilier FO12 + Blocker Specialist15 + Friar Thunderbolt24 | 51/0 | 2 |
-| Bolt BSG19 + Machinist17 + Friar Thunderbolt24 | 60/0 | 2 |
+All are non-specialists. Identical profiles to MO, but AVA 1 and unrestricted NCA Wildcard (max 1), with access to all four Fireteam families subject to required native anchors. No Counts-as: the Friar does not count as a Fusilier, Bolt, ORC or CSU.
 
-Thunderbolt first for zero-SWC anti-Mimetism gun; HRL for distinct reactive coverage alongside Bolt sniper, SWC permitting; MULTI Rifle anti-IMP/close defense. NCA Aquila MSV3, Deva MSV2 Spitfire, Bolt MSV1 sniper, Blocker Biometric/Sensor compete for roles. Use Friar for specific Albedo/range/ammo benefits rather than automatically. No Crosier or Order Sergeant in NCA. 0–1.
+## Why active turn is the better use
+
+- **MSV2** cancels Mimetism, including -6, and permits shooting through ordinary Smoke under the visor rules (not Eclipse).
+- **Albedo (-6)** penalizes enemy MSV or Marksmanship users when they declare LoF-requiring BS Attack or Discover against the Friar. It is not general Mimetism and does not penalize ordinary shooters.
+- **Combat Instinct** ignores Surprise Attack MODs and prevents Stealth from denying otherwise eligible AROs. It does not grant extra LoF or the full benefits of Sixth Sense.
+
+**Active turn: you choose the engagement.** Seek mimetic defenders, visor-equipped shooters and Marksmanship gunfighters (including Assisted Fire REMs). Against a mimetic MSV shooter, the Friar strips its Mimetism while imposing Albedo on its return fire. Move into the favorable range and firing angle, clear the specific obstacle and then return the main gunfighter to work.
+
+**Reactive turn: the opponent chooses the engagement.** A capable opponent can avoid exposing vulnerable MSV/Mimetism troops, choose a normal heavy gun, attack from a different angle or bypass the lane. The Friar then becomes a BS13, ARM2, one-Wound model without a general defensive shooting MOD. Albedo/MSV2 still have deterrence value, but an ARO role leaves much of their potential dependent on the opponent's decisions.
+
+This is the central reason to prefer Thunderbolt over HRL, even before the SWC saving. Use the Friar as a mobile, matchup-specific tool rather than a generic static ARO.
+
+## Thunderbolt (+1B) — 24/0: first choice
+
+Normal (not AP) Thunderbolt: B3 active, B1 reactive, PS6, +3 at 16–32 inches and flat at 32–48 inches. FT2 +1 Success Die improves the shooting roll without increasing actual Burst. Nanopulser covers close-range template engagements.
+
+- No SWC expenditure: preserves SWC for TAGs, Swiss Guard and conventional defensive weapons.
+- Affordable alternative to Aquila when a list already has a premium main attacker.
+- Strong second-stage attacker, particularly against enemy Mimetism (-6), MSV and Marksmanship.
+- Not a dedicated anti-armor gun; do not force repeated fights with conventional elite B4–5 shooters.
+
+| Competing profile | Pts/SWC | Why prefer Friar or alternative |
+|---|---:|---|
+| Deva MSV2 Spitfire | 29/1 | Friar is cheaper, saves SWC, has BS13 instead of 12, Albedo and broader FT access; Deva offers B4 and NWI |
+| Bolt MSV1 MULTI Sniper | 26/1.5 | Bolt offers Marksmanship, longer sniper range, Shock Immunity and Bolt composition; Friar offers MSV2, Albedo and mobile zero-SWC counterfire |
+| Aquila FTO MULTI Marksman | 49/0 | Friar provides economical anti-Mimetism coverage; Aquila offers BS15, MSV3, W2 and Specialist Operative, making it a stronger primary attacker |
+
+## Heavy Rocket Launcher — 22/1.5: usually skip
+
+MSV2 + Albedo with a Continuous Damage impact template can deter specific enemy shooters, but the role is reactive and consumes 1.5 SWC. The Friar only saves two points compared with its Thunderbolt profile and loses active Burst and control over its ideal matchups.
+
+NCA already has strong general-purpose defensive options:
+
+| Alternative | Pts/SWC | Main advantage |
+|---|---:|---|
+| Bolt Missile Launcher | 24/1.5 | Marksmanship, AP+EXP hit mode, Bolt composition |
+| Bolt MULTI Sniper | 26/1.5 | Marksmanship, MSV1, sniper range, Bolt composition |
+| Sierra HMG | 23/1 | B4 Total Reaction, 360° Visor, repairable REM |
+| Sierra Thunderbolt (+1B) | 18/0 | B3 Total Reaction, 360° Visor, zero SWC |
+| Fusilier Missile Launcher | 15/1.5 | Cheap linked missile |
+
+Take the HRL only when the board, expected matchup or a specific defensive link justifies a specialized anti-visual ARO and SWC is available. Its impact template and Albedo deterrence are real, but do not make it the default Friar.
+
+## MULTI Rifle + Biometric Visor — 27/0: usually skip
+
+Biometric Visor and Discover (+3) are useful against IMP-1; Drop Bears and Nanopulser add local defense. Unlike MO, however, NCA has a 15/0 Blocker Pitcher Specialist with Biometric Visor, Sensor and Discover (ReRoll), plus hacking-network projection and scoring. The Friar's stronger direct combat and Drop Bears are distinct, but rarely justify buying a 27pt non-specialist for this role. Auxilia, Peacemakers and Bolts also cover local route defense. Default to the Blocker for anti-IMP utility and the Friar Thunderbolt for active anti-tech shooting.
+
+## Recommended Fireteams
+
+The Friar is a Wildcard without Counts-as. It benefits from composition bonuses earned by other members but prevents a five-body team from reaching FT5. A two-model Friar Duo with a native anchor is FT1, not FT2.
+
+| Members | Family | Pts/SWC | FT level | Purpose |
+|---|---|---:|---|---|
+| Fusilier basic10 + Blocker Pitcher15 + Friar TB24 | Fusiliers Haris | 49/0 | FT2 | Cheap active anti-tech gun plus Pitcher and specialist; both shooting and Pitcher benefit from +1SD |
+| Fusilier FO12 + Blocker Pitcher15 + Friar TB24 | Fusiliers Haris | 51/0 | FT2 | Adds Deployable Repeater and FO |
+| Fusilier basic10 + Blade Engineer23 + Friar TB24 | Fusiliers Haris | 57/0 | FT2 | Engineer and Tactical Awareness support mobile shooting |
+| Fusilier basic10 + Blocker Pitcher15 + Blade Engineer23 + Friar TB24 | Fusiliers Core | 72/0 | FT3 | +1SD, Discover/Dodge bonus, network and repair support |
+| Bolt BSG19 + Machinist17 + Friar TB24 | Neoterra Haris | 60/0 | FT2 | Cheap Bolt-based gun and Engineer |
+| Bolt KHD22 + Blade Engineer23 + Friar TB24 | Neoterra Haris | 69/0 | FT2 | KHD, Engineer, Tactical Awareness |
+| Bolt BSG19 + Hannibal Strategic Deployment26 + Friar TB24 | Neoterra Haris | 69/0 | FT2 | Forward deployment and Tactical Awareness |
+| CSU Specialist11 + Friar TB24 | CSU Duo | 35/0 | FT1 | Compact mobile gun and scoring specialist without using Core/Haris |
+| Squalos MULTI HMG NCO66 + Friar TB24 | Ultima Ratio Duo | 90/1.5 | FT1 | Complementary gun types, but no composition bonus |
+| Bolt MSR26 + Machinist17 + Friar HRL22 | Neoterra Haris | 65/3 | FT2 | Niche dual defensive guns; high SWC and competes for Haris |
+
+The 49/0 Fusilier + Blocker + Friar Haris is a good starting point if the Haris slot is available. A Fusilier/Blade/Blocker Core can add the Friar as its mobile ranged gun while leveraging TacAware. Do not automatically break a planned FT5 Bolt Core merely to fit the Friar: it can operate solo, in a separate Haris or in a legal Duo.
+
+## Listbuilding conclusion
+
+- **Primary attack:** TAG, Swiss Guard, Aquila or another heavy gunfighter.
+- **Secondary attack / visual-tech counter:** Thunderbolt Black Friar; engage when it has the right matchup, not simply because it is available.
+- **Generic ARO:** Bolt Missile Launcher, Bolt MSV1 Sniper or Sierra.
+- **Anti-Impersonation / network support:** Blocker.
+- **Quantity:** 0–1. Default to Thunderbolt when taking a Friar; skip the other profiles in most lists.
+
+The Friar is a 24-point, zero-SWC insurance policy against difficult visual-tech targets. Its value is maximized by actively finding favorable engagements, not hoping an opponent moves the right unit into its ARO.
 
 ## Original Military Orders analysis — retained reference copy
 
