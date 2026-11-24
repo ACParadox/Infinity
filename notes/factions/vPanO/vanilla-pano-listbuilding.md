@@ -1331,6 +1331,38 @@ Use it when the army already has an expensive main attack piece and needs anothe
 
 These are historical list examples; recheck current prices, profile IDs and team eligibility before copying them.
 
+## What to retain for vPanO listbuilding — published-list takeaways
+
+These are practical lessons from the reviewed tournament submissions and battle reports, particularly the Borderbash 2025 champion (#169), rather than a replacement for the current N5.3 profile rankings. The sample is small, includes unused alternative lists and near-duplicate rosters, and does not establish faction-wide usage or individual unit win rates.
+
+| Unit / profile | Takeaway |
+|---|---|
+| [Karhu Feuerbach (+1B)](units/karhu.md), 34/1.5 | Staple offensive piece; NCO, anti-armour, MSV1, Mim-3, Climbing Plus and matching FT2 Duo for active/ARO flexibility. |
+| Karhu Paramedic, 24/0 | Excellent default Duo partner; 58/1.5 package with medical scoring and mines. |
+| Karhu Engineer, 25/0 | Particularly attractive with a TAG or REMs; 59/1.5 mobile technical-support Duo. |
+| [Helots](units/helots.md) | Extremely valuable cheap defensive troops; FTO LRL/MMR for linked ARO, Camo for independent deployment. Joan or Patsy enables appropriate Regular-order economy. |
+| [Joan v2](units/joan-v2-mobility.md), LT 45/1 | Proven competitive Lieutenant architecture; Inspiring Leadership improves useful cheap Irregulars, TA and AP Spitfire add active pressure. |
+| [Magistrate CoC](units/magistrate.md), 21/0 | Preferred standalone succession in the tournament-winning Joan list; Bolt CoC remains preferred when already buying a Bolt MSR defensive Duo. |
+| [Cutter](units/cutter.md) | Primary TAG candidate for hidden apex shooting; NCO97/2 with protected conventional LT, or LT95/2 with a deliberate succession/order plan. |
+| [Swiss Guard HMG](units/swiss-guard.md), 56/1.5 | Proven independent apex gunfighter; Hidden Deployment, Mim-6 and 2W without Fireteam overhead. |
+| [Teutonic Knight Specialist](units/teutonic-knight.md), 19/0 | Standout cheap solo secondary attacker and specialist; 2W, optional Impetuous movement, SMG, Panzerfaust, DA CCW. No special-order or link dependency. |
+| [Banshee KHD](units/banshee.md), 23/0 | Strong competitive utility as a budget airborne KHD; alternate attack angle, enemy hacker pressure and specialist access. |
+| [Fennec Hacker](units/fennecs.md), 16/0.5 | Cheap defensive HD and FastPanda support; valuable secondary/budget hacker. Pilot-X remains the current preferred primary HD. |
+| Fennec FO/Sensor/Disco Baller, 13/0 | Cheap specialist, Sensor and visual-control utility; useful independently of a hacking or TAG plan. |
+| [Bolt MSV1 MULTI Sniper](units/bolts.md), 26/1.5 | Recurring defensive piece that also attacks well; matching FT2 Duo with CoC, KHD or Paramedic according to need. |
+| [Motorized Bounty Hunter](units/moto-bountyhunter.md) | Excellent cheap mobile utility; 8/0 BSG or 9/0 SMG in historical examples, especially with Joan converting its Irregular Order. |
+| [Fugazi](units/fugazi-flashbot.md), 7/0 | Fundamental inexpensive Regular-order generation, Flash Pulse and Repeater infrastructure; consider two where slots permit. |
+
+**Additional conditional choices from the same review:** [Patsy](units/patsy.md) B−, especially with two FTO Helots in non-Joan lists; [Guided Clipper](units/clipper-missilebot.md) Niche when an existing HD/Repeater plan can supply Targeted enemies. Neither is a default staple.
+
+### Three archetypes to test
+
+1. **Joan infantry — competitive baseline:** Joan v2 LT + Helots, Swiss HMG, Karhu Feuerbach/Paramedic Duo, Magistrate CoC. Fill with Fugazi, Fennec HD/FO, Banshee KHD, Teutonic Specialist, Motorized Bounty Hunter and Warcor as appropriate. The Borderbash champion's historical [Saint of Mimitism](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhEVNhaW50IG9mIE1pbWl0aXNtgSwCAQEACQAqAQQAAITGAQMAAITGAQQAAAkBAgAAEwEBAAATAQEAAB4BBQAAhw8BBAAAhwwBAwACAQAGAIXNAQUAAIXNAQMAADIBAQAAhh0BAgAAhwsBBwAAhwsBCQA%3D) is the strongest demonstrated tournament result among the reviewed examples.
+2. **Joan Fireteams — compact infantry:** Joan + two Blade FTOs (Family II FT2 Haris), Bolt MSR + Bolt CoC (FT2 Duo), Karhu Feuerbach + Paramedic (FT2 Duo). This uses all three permitted Fireteams; retain independent cheap defense/scoring and ensure a credible hacking plan. Inspired by Gravity Pool's historical [Juana to the Moon](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhEUp1YW5hIHRvIHRoZSBNb29ugSwCAQEACgAEAQoAAAQBBgAAKgEEAACG1wECAACG1wEBAACHCwEFAACHCwEFAACExgEFAAATAQEAABMBAQACAQAFAIXNAQMAAIXNAQUAAIcNAQMAAIYdAQMAADIBAQA%3D) alternative list, not a confirmed played result.
+3. **Cutter — conventional command:** two Fusiliers (LT and decoy), Cutter NCO, Karhu Feuerbach/Engineer Duo, cheap REMs and hacking support. Add independent objectives/repair as required, and Guided Clipper only when the network justifies it. Tau24's Atlantique Rim above illustrates the optional guided variant.
+
+Treat these as separate architectures, not mandatory combined purchases. Keep enough specialist coverage and independent Orders for the mission. Historical import codes may not match the current Army database; use the pinned N5.3 profiles and corrected chart when rebuilding.
+
 ## Source-derived consensus and disagreements
 
 ### Strong consensus
