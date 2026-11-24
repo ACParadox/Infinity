@@ -1,33 +1,87 @@
 # Locust, Clandestine Action Team — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Higher priority than NCA; hidden midfield specialists and independent Pitchers fill real gaps.**
+**Verdict: B+ tier — optional but valuable forward specialist. Prefer Uma Sørensen's 27/0 Camouflage profile for general midfield scoring; take Locust KHD/Pitcher (27/0) for complementary counter-hacking, network projection or a second concealed forward specialist. The 24/0 BSG Specialist is a good hidden reserve scorer. Not a must-have.**
 
-**Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original NCA analysis](../../NCA/units/locust.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
+**Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md#locust) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Uma](uma-sorensen.md) · [Nøkken](nokken.md) · [Pilot-X](pilot-x.md) · [Original NCA analysis](../../NCA/units/locust.md). Reviewed 24 November 2026. Ratings are tactical judgments, not measured win rates.
 
 ## WinterFor differences
 
-AVA2 vs NCA3. Same six options and costs; independent in both. No NCA Deva + Blocker 35pt alternative in SWF, so the original skip recommendation does not transfer. Hidden Deployment + FD(+20), not ordinary reusable Camouflage on most options. Skill summary differences are not evidence of skill removal.
+AVA2 vs NCA3. Same six options and costs; independent in both. WinterFor lacks NCA's Deva + Blocker 35/0 alternative, so NCA's general skip recommendation does not transfer. WinterFor has relatively few independent forward specialists, and the Locust is its only Hidden Deployment specialist. However, the preferred general-purpose forward scorer is Uma because of repeatable Camouflage. Pilot-X and RacerBots, treated as default inclusions, reduce the need to buy a Locust purely for its Pitcher.
 
 ## Pinned WinterFor profiles
 
-**ID 769 · AVA 2 · SK** — `MOV 10-10 | CC 16 | BS 12 | PH 12 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Hidden Deployment, Mimetism (-6), Forward Deployment (+20), Stealth, Surprise Attack (-3), Bangbomb (+4), Terrain (Total).
+**ID 769 · AVA 2 · SK · Regular** — MOV 10-10 (4-4"), CC16, BS12, PH12, WIP13, ARM1, BTS3, W1, S2. Hidden Deployment, Mimetism (-6), Forward Deployment (+20 cm / 8"), Stealth, Surprise Attack (-3), Bangbomb (+4), Terrain (Total). No Fireteam access on any option.
 
-| Opt | Pts | SWC | Loadout / differences | FT |
-|---:|---:|---:|---|---|
-| 3 | 24 | 0 | Boarding Shotgun, Grenades, Drop Bears, Boarding Pistol, CCW; Specialist Operative | — |
-| 4 | 27 | 0 | MULTI Marksman Rifle, Boarding Pistol, CCW | — |
-| 5 | 21 | 0 | SMG, D-Charges, WildParrot, Boarding Pistol, CCW | — |
-| 6 | 29 | 0.5 | Breaker Combi Rifle, Pitcher, D-Charges; Hacking Device with Firewall (-3) | — |
-| 7 | 27 | 0 | Breaker Combi Rifle, Pitcher, D-Charges; Killer Hacking Device with Firewall (-3) | — |
-| 8 | 31 | 0.5 | Breaker Combi Rifle, Flash Pulse, D-Charges; Hacking Device with Firewall (-3), Camouflage (1 Use) | — |
+| Opt | Pts/SWC | Loadout / additional skills | Priority |
+|---:|---:|---|---|
+| 7 | 27/0 | Breaker Combi Rifle, Pitcher, D-Charges; KHD with Firewall (-3) | B+; preferred Locust |
+| 3 | 24/0 | Boarding Shotgun, Grenades, Drop Bears, Boarding Pistol, CCW; Specialist Operative | B; hidden reserve scorer |
+| 6 | 29/0.5 | Breaker Combi Rifle, Pitcher, D-Charges; HD with Firewall (-3) | B; conditional second HD |
+| 5 | 21/0 | SMG, D-Charges, WildParrot, Boarding Pistol, CCW | B−; niche disruption |
+| 8 | 31/0.5 | Breaker Combi Rifle, Flash Pulse, D-Charges; HD with Firewall (-3), Camouflage (1 Use) | C+; niche, loses Pitcher |
+| 4 | 27/0 | MULTI Marksman Rifle, Boarding Pistol, CCW | C; generally skip |
 
-## WinterFor selection and use
+## Why forward specialists matter
 
-- 24/0 BSG Specialist Operative: strong hidden mission runner with Drop Bears and Grenades; often preferable to exposed Nøkken if order/point budget permits.
-- KHD/Pitcher27/0: affordable forward anti-hacker and network projection; cannot Spotlight. HD/Pitcher29/0.5 is the more useful general hacking/Targeted option when the list lacks an HD; both Firewall (-3).
-- SMG/WildParrot21/0: cheap disruption/trading, not a rules Specialist. MMR27/0: surprise angle but weak sustained gunfight versus Karhu.
-- HD one-use Camo31/0.5: niche protected approach, loses Pitcher. Uma27 offers reusable Camo and specialist but different weapons; Nøkken FO22 cheaper but visible.
-- Hidden Deployment forfeits pooled order contribution while hidden; deploy/reveal with an actual mission plan. 0–2, typically 1 when forward objectives matter.
+WinterFor has excellent linked specialists but relatively few units that start near objectives independently. The Locust fills a genuine roster gap, not just a generic shooting role. FWD8 is not Infiltration: on a standard 48" table with 12" deployment zones it starts up to 4" short of the centerline.
+
+Hidden Deployment is optional. While hidden, its Regular Order is withheld from the shared pool; it can spend its own Order to reveal in the active turn. It cannot regain Hidden Deployment. Most options lack native Camouflage; the 31-point HD has only Camouflage (1 Use). A KHD can use Cybermask subject to its rules, but that requires an Order and a successful roll and is not native Camouflage. Surprise Attack applies to eligible active-turn attacks, not hacking AROs. Revealing to place a Pitcher generally forfeits the initial Surprise Attack for a subsequent hack unless a qualifying marker state is regained.
+
+## Preferred Locust: KHD + Pitcher (27/0)
+
+A forward scoring specialist, counter-hacker, Pitcher and D-Charges in one slot. Firewall (-3) protects against eligible enemy Comms Attacks and improves applicable Saving Rolls. Mimetism (-6) protects against ordinary shooting but not hacking or direct templates.
+
+- Complement Pilot-X's standard HD (Spotlight, Oblivion, Carbonite, Zero Pain) with Trinity. Pilot-X already provides standard hacking; the Locust KHD adds a lethal anti-hacker option rather than duplicating an HD.
+- Exploit the RacerBots' Repeaters or other friendly Repeaters from a concealed position. Reveal directly into an eligible active-turn Trinity attack for Surprise Attack (-3) when the opportunity exists. The Locust does not need to advance after revealing if the network reaches its target.
+- Pitcher offers an alternative network axis, especially when a bot cannot safely reach the desired location. BS12/B1, no Fireteam bonus, so not an exceptionally reliable Pitcher platform.
+- Pilot-X + two RacerBots + Locust KHD = 64/1, four Regular troopers (Locust Order withheld if hidden), two actual mission specialists. Adding the default Sierra Thunderbolt makes it 82/1. These are optional list modules, not a mandate to take the Locust.
+- KHD cannot Spotlight or Immobilize ordinary hackable targets via standard HD programs. Take the 29/0.5 HD when a second standard hacker or forward HD specifically matters.
+
+## Uma vs Locust vs Nøkken
+
+| Attribute | Uma Camo | Locust KHD | Locust BSG SO | Nøkken FO |
+|---|---|---|---|---|
+| Points/SWC | 27/0 | 27/0 | 24/0 | 22/0 |
+| BS / ARM | 13 / 3 | 12 / 1 | 12 / 1 | 12 / 2 |
+| PH / WIP | 11 / 13 | 12 / 13 | 12 / 13 | 10 / 13 |
+| Mimetism | -3 | -6 | -6 | -6 |
+| Forward Deployment | +8" | +8" | +8" | +8" |
+| Hidden Deployment | No | Yes | Yes | No |
+| Reusable Camouflage | Yes | No | No | No |
+| Pooled Order while concealed | Yes | No while hidden | No while hidden | Yes (open deployment) |
+| Main weapon | SMG (+1B) | Breaker Combi | Boarding Shotgun | Boarding Shotgun (+1B) |
+| Additional tools | E/M Mine, Climbing Plus | Pitcher, Firewall, D-Charges | Drop Bears, Grenades | Panzerfaust, Flash Pulse |
+| Specialist | SO | KHD | SO | FO |
+
+**Prefer Uma for sustained midfield scoring.** Repeatable Camouflage enables marker movement, recamouflaging after scoring or deploying mines when permitted, repeated Surprise Attack opportunities, and Discover taxes. She also has ARM3, BS13, Climbing Plus, E/M Mines, an immediately available Regular Order when deployed as a marker, and is not inherently Hackable. The Locust's initial concealment is stronger but usually expended on its first activation. Uma is AVA1: Locust is an attractive second independent forward specialist, particularly if counter-hacking is useful.
+
+The BSG Locust is best as a hidden late-game scoring reserve. Drop Bears can help protect objectives once revealed; it is not a Minelayer. The Nøkken FO is cheaper and supplies a pooled Order immediately, B3 shotgun and Panzerfaust, but lacks native marker protection. Both Locusts and Nøkkens remain one-wound pieces vulnerable to templates, MSV and close combat; Bangbomb improves eligible Dodge rolls but does not apply against template attacks.
+
+## Other forward scoring options
+
+| Profile | Pts/SWC | Role |
+|---|---|---|
+| Uma Camo | 27/0 | A−; first choice for repeatable marker scoring |
+| Locust KHD | 27/0 | B+; counter-hacking, network, second scorer |
+| Locust BSG Specialist | 24/0 | B; hidden reserve |
+| Gunnar BSG, Decoy (2) | 29/0 | B; TacAware, close combat, specialist |
+| Blade-Ops forward Engineer, Decoy (2) | 30/0 | B−; Engineer/D-Charges/TacAware for specific missions |
+| Nøkken FO | 22/0 | B− in this comparison; budget immediate attacker/scorer |
+
+An illustrative independent midfield package: Uma Camo 27 + Locust KHD 27 + Beasthunter Camo/Panzerfaust 15 = 69/0. Two actual specialists and one non-specialist area-denial piece. Do not force this package into every list; Pilot-X and other support compete for points and Orders.
+
+## Other Locust profiles
+
+- **SMG/WildParrot 21/0:** niche E/M disruption, not a specialist. WildParrot is Disposable (1), placed within ZoC under the relevant deployable requirements; can threaten HI, TAGs and REMs around corners where legal. WinterFor already has several hacking, PARA and E/M alternatives; buy for a deliberate plan.
+- **HD/Pitcher 29/0.5:** useful for independent forward standard hacking if Pilot-X alone is insufficient; compare with cheaper backline Fusilier HD or durable KoJ HD when their roles fit.
+- **HD/Camo (1 Use) 31/0.5:** one-time marker movement is interesting, but loses Pitcher and costs more; not a replacement for repeatable Uma Camo.
+- **MMR 27/0:** good ambush angle, poor sustained attacker at BS12/W1 without Fireteam. Prefer Karhu Feuerbach, Nisse HMG or Bulleteer Spitfire for their dedicated shooting roles.
+
+## Final selection
+
+**0–1 by default; medium collection priority.** Consider two only for a mission requiring distinct concealed specialists or a deliberate hacking plan. Prioritize Uma for general midfield scoring; choose Locust KHD for the unique combination of Hidden Deployment, Firewall, Pitcher and counter-hacking. BSG Specialist is the alternative for late scoring. Do not pay for Hidden Deployment simply to use the Locust as a conventional gunfighter.
+
+**Consistency note:** this refines the existing WinterFor note's higher priority relative to NCA; it does not change the broader faction rankings or the original NCA recommendation. Pilot-X and RacerBots remain default inclusions. The Nøkken FO's B− above is a relative comparison for forward scoring, not a revision of its standalone B-tier note.
 
 ## Original NCA analysis — retained reference copy
 
