@@ -1,12 +1,12 @@
 # Machinists — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/machinist.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/machinist.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams and independent synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** this unit is not listed in either corrected vanilla Fireteam family and remains independent. Sectorial-only permissions do not transfer.
 
 ## Pinned vanilla profiles
 
@@ -21,6 +21,10 @@
 ## Vanilla selection and use
 
 15/0 generic Engineer is cheaper than the special NCA, Acon, Varuna and WinterFor variants. Cover16/0 and Combi turret18/0 optional. 15 + Palbot3 =18/0 independent repair; compare Firefly Engineer23 or Blade Engineer23 for additional offensive/Order roles.
+
+### Engineer comparison — user-approved priorities (24 November 2026)
+
+**A+ — default dedicated TAG/REM repair.** Base 15/0 + Palbot 3/0 = **18/0**, preferably Group 2 with a safe recovery route. WIP12 gives 60% contact repair, 84% with one eligible Remote Presence Command Token reroll. Turret18 + Palbot = 21/0 (A); buy the turret only after repair reach is covered and if spare Orders and a worthwhile lane exist. Cover16 (B) is situational. Machinist is not listed in the corrected vanilla Fireteam chart. Choose Blade FTO Engineer23 for TA/REM escort, Karhu25 for combat/scoring or Firefly23 for defensive utility and WIP13. For TAG lists, Tech-Bee9 complements rather than replaces a real Engineer.
 
 ## Original kestrel analysis — retained reference copy
 
