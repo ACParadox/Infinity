@@ -19,6 +19,8 @@
 
 ## Vanilla selection and use
 
+**A+ NCO97/2; B− LT95/2.5, usually avoid.** NCO Cutter97 + Magistrate Strategos LT19 = 116/2, vs Cutter LT95 + Magistrate CoC21 = 116/2.5: equal points, half SWC saved, flexible Strategos and separate command. Alternatively double Fusilier20 + Cutter97 = 117/2, two backfield Regular Orders and one LT Order for the Cutter; with a dedicated NCO this is preferred when troop slots permit. Cutter lacks TA; do not count an LT Order twice or assume Cutter generates a pooled Order while in Hidden Deployment.
+
 **S+ raw conventional apex / A+ overall listbuilding value.** 97/2 MULTI HMG NCO is preferred; 95/2.5 LT sacrifices NCO and exposes command. BS15, Mim-6, Camouflage, Hidden Deployment, ARM8 and three STR deliver the highest conventional gun ceiling; no printed TA. Swiss56, Tik69 and Squalos66 leave more room for scoring. Cutter +31 points over Squalos equals an entire Nisse HMG; Bolt MSR/KHD + Karhu Feuerbach/Engineer (two FT2 Duos) costs 107/3, only 10 more than Cutter, with four Regular bodies and two specialists but less concentrated resilience. Choose deliberately.
 
 ## Original Varuna analysis — retained reference copy

@@ -19,6 +19,8 @@
 
 ## Vanilla selection and use
 
+**S Lieutenant alternative:** LT73/1.5 generates two Special LT Orders plus its own Tactical Awareness; each LT Order can be spent by Tik personally or an eligible NCO (Karhu Duo/Squalos/other), never both. CoC21 Magistrate or preferably Bolt MSR+CoC defensive FT2 Duo52/1.5 is valuable for a fighting Hackable LT. Tik can form an eligible Family I Duo, but a personal LT Order does not activate the team; use ordinary or legal TA/NCO team activations. Compare the preferred Joan v2 and double Fusilier + Karhu architectures.
+
 **S-tier default mobile TAG.** HMG69/1.5, BS15/Mim-3, Climbing Plus, TA and mine/template utility; 73/1.5 LT(+1 Order) especially coherent with protected CoC or separate NCO. May link with eligible Family I partners, e.g. Blade FTO Engineer (92/1.5 FT1 with standard Tik), but weigh incompatible climbing routes and exposure of support; no Pathfinder Duo. TA can activate the team with Tikbalang as leader. HMG lacks sustained AP, so supplement with Bolt/Karhu anti-armour or Nisse MSV2 if relevant. Independent Tech-Bee/Machinist/Palbot support remains legal.
 
 ## Original kestrel analysis — retained reference copy

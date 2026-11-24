@@ -21,6 +21,8 @@
 
 ## Vanilla selection and use
 
+**A− Strategos LT52/+1:** MSV3, Disco Baller, MMR, specialist and SWC rebate compress roles, but high cost and exposed command make it a conditional choice. Eligible Family I Duo is possible for FTO; do not assume a matching +1SD. Prefer Joan v2 or double Fusilier + Karhu as generic starts, or Magistrate19 if only Strategos is wanted. Non-Strategos LT49/0 generally skip in favor of the three-point upgrade.
+
 **A-tier HMG, situational anti-Camo.** BS15/MSV3 HMG52/1.5 counters marker-heavy/Mimetism-heavy armies, but Swiss56 is better generic asymmetric gun and Nisse31 supplies cheaper MSV2. FTO MMR/Disco49/0 specialist or Strategos LT52/+1 can form a mixed Family I FT1 Duo (e.g. Blade FTO BSG20/0, total 72/+1 for Strategos); not an NCA Haris and no +1SD. FTO MMR is a midrange mission/command enabler, not sustained HMG substitute. Magistrate19/0 is cheaper protected Strategos.
 
 ## Original NCA analysis — retained reference copy

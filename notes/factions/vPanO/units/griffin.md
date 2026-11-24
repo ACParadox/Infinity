@@ -21,6 +21,8 @@
 
 ## Vanilla selection and use
 
+**B+ HMG LT37/1:** saves 0.5 SWC over HMG37/1.5, but generates only one ordinary LT Order and exposes a Hackable primary gun. Prefer non-LT Griffin with cheap command unless the saving is important and succession is protected. Karhu NCO can instead spend the LT Order. Eligible Family I Duo per corrected chart; personal LT Order does not activate an intact team.
+
 **A+ durable alternative.** HMG37/1.5 (or LT37/1), Feuerbach38/1.5, BS14/MSV1, two Wounds/ARM4/BTS6, Pulzar. Matching HMG + MULTI Rifle31/0 is 68/1.5 FT2 Duo; HMG B4+1SD. More resilient than Karhu/Nisse/Bolt but no Mim, Marksmanship, TA or NCO; second Griffin lacks specialist capability. Prefer Bolt/Karhu Duos for economical role compression unless two durable HI bodies specifically matter. ORC HMG generally displaced by Griffin.
 
 ## Original kestrel analysis — retained reference copy

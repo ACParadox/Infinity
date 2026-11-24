@@ -23,6 +23,8 @@ Only one Maximus may be selected across IDs 1862 and 1720.
 
 ## Vanilla selection and use
 
+**A+ SWC-positive aggressive LT:** FTO45/+1 or Minimus48/+1, compared with the same non-LT at 1 SWC. TA + LT, Specialist Operative, non-Hackable MI, Immunity (ARM), E/M and AP Thunderbolt give strong role compression; FTO can join Family I Duo if desired, while Minimus is an independent Peripheral package. Prefer separately protected CoC21 Magistrate or Bolt MSR/CoC FT2 Duo52/1.5. Compare Joan's early Irregular economy and double Fusilier + Karhu NCO for command alternatives. Only one Maximus across Agent/TAG.
+
 **A-tier specialist gun / situational command engine.** AP Thunderbolt(+2B) B4 AP, Albedo(-6), TA, NWI, Immunity (ARM) and specialist role. 48/1 Minimus package vs 45/1 FTO TinBot Repeater; LT versions generate +1 SWC. Legal Family I mixed Duo where eligible, not sectorial Fennec link. TA activates team with Maximus as leader; no second matching Maximus. Protected CoC for aggressive LT. Bolt/Karhu generally cheaper precision packages; Maximus offers anti-MSV, AP and specialist compression.
 
 ## Original kestrel analysis — retained reference copy

@@ -23,6 +23,8 @@
 
 ## Vanilla selection and use
 
+**A defensive LT23/0.** Camouflage and Jammer/Sensor make a useful concealed command model when those tools are wanted. Keep it conservative; active Sensor/Jammer tasks can expose command. Double Fusilier20 gives two pooled Orders and identity concealment plus an LT Order for Karhu/TAG NCO; Magistrate19 gives flexible Strategos, Counterintelligence and one slot. Zulu is the specialist defensive alternative, not the default Order engine.
+
 **KHD/Pitcher 26/0 — S overall KHD/network choice (A+ as a Pitcher).** Preferred practical complement to Pilot-X when the list needs a KHD with persistent Camouflage, BS13, a Pitcher and independent mission play. Compare Locust KHD27/0 for Firewall/Hidden Deployment and Scarecrow KHD27/0 for Infiltration/Mim(-6). AVA2 means it competes with other Zulu profiles; no automatic second KHD. The Blocker remains the preferred dedicated Pitcher.
 
 AVA2 instead of Varuna3. 26/0 KHD/Pitcher and 23/0 Sensor/Jammer are independently efficient; 23/0 Camo LT is safer than exposed active LT. Fennec FO/Sensor/Disco, Scarecrow and Croc offer additional options; 24/0 FO is useful but FWD+10cm is less than Infiltration.

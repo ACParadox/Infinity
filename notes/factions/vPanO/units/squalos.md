@@ -20,6 +20,8 @@
 
 ## Vanilla selection and use
 
+**A+ NCO TAG.** MULTI HMG66/1.5 has TA and NCO, making it a good outlet for the 20/0 double Fusilier LT/decoy shell or Tik LT(+1). With two Fusiliers, 86/1.5 buys three troopers, three pooled Orders plus TA and one NCO activation if eligible. Karhu or Firefly NCO competes for that same LT Order. Magistrate Strategos19 is the one-slot-saving alternative; if converted to pooled Regular, that LT Order is no longer available for NCO. Choose Squalos specifically when its attack and TA justify its premium.
+
 **S-tier conventional TAG / NCO engine.** 66/1.5 MULTI HMG NCO primary choice; 55/1 MMR budget anchor; 62/1.5 HMG/GL niche. TA and NCO can activate legal teams when the relevant bearer leads and the actual Order is available. Squalos + Blade FTO Engineer 89/1.5 mixed FT1 is possible; two Squalos (e.g. 66+55=121/2.5) grant FT2 but concentrate cost/hacking risk. Pathfinder17 remains independent. Choose over Tik69 when AP and NCO economy matter, over Cutter97 when budget matters; pair with Bolt/Karhu or Nisse for visual matchup coverage.
 
 ## Original kestrel analysis — retained reference copy

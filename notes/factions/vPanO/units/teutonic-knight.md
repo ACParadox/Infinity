@@ -23,6 +23,8 @@
 
 ## Vanilla selection and use
 
+**Vanilla NCO Spitfire29/1.5: B-tier secondary attacker**, especially if using cheap double Fusilier or Tik LT(+1). Karhu Feuerbach or Squalos/Cutter NCO are generally stronger default outlets; Limited Cover and no Mimetism/MSV constrain solo gunfights. LT18/0 is C-tier versus double Fusilier20 or Magistrate19: visible forward command and no extra LT Orders. Do not import the MO Knight Commander or sectorial links.
+
 AVA2 vs MO3, same six options. 19/0 SMG Specialist/Panzerfaust is a strong cheap standalone two-Wound close specialist, 18/0 LSG/Panzerfaust budget attack, 29/1.5 NCO Spitfire conditional. TinBot19 protects itself rather than a link; Impetuous is useful solo; Religious status matters for Inspiring Leadership.
 
 ## Original MO analysis — retained reference copy

@@ -22,6 +22,8 @@ Only one Maximus may be selected across IDs 1720 and 1862.
 
 ## Vanilla selection and use
 
+**A situational aggressive LT82/0:** same points as standard AP HMG82/1.5, saves 1.5 SWC, one LT Order + TA. Protect with independent Magistrate CoC21 (103/0 total), or Bolt MSR+CoC FT2 Duo52/1.5 if the sniper is wanted. Agent Maximus is an alternative mutually exclusive SWC-positive LT; cheaper Tik LT73 offers two LT Orders. Avoid overconcentrating command and attack in the TAG unless the SWC benefit and durability matter.
+
 **A+ situational assault/zone-control anchor; prefer 82/0 AP HMG Lieutenant when command protection warrants it.** Standard AP HMG82/1.5 or AP Thunderbolt(+2B)80/1, four Wounds, Immunity (ARM), TA and exceptional CC. BS14/no Mimetism make cheaper Tik69 or Squalos66 better pure-gun investments by default. May form mixed FT1 Duo with eligible Family I support; no matching Maximus bonus. TA can activate the team with Maximus as leader. Only one Maximus across Agent and TAG; check Escape System and repair conditions.
 
 ## Original kestrel analysis — retained reference copy

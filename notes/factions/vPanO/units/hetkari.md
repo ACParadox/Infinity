@@ -21,6 +21,8 @@
 
 ## Vanilla selection and use
 
+**MULTI Red Fury LT48/1.5: B-tier command choice**, effective solo but no SWC discount, TA or extra LT Orders. Prefer non-LT with Joan or cheap protected command; take LT only if direct personal Order is useful and risk is covered. ML LT47/1.5 normally skip because exposing command in ARO is poor economy. CoC Magistrate21 or Bolt MSR+CoC defensive Duo52/1.5 are alternatives.
+
 **A+ situational midrange assault.** MULTI Red Fury48/1.5 is preferred pure active gun with Marksmanship, Combat Instinct, BS14 and 2W/ARM5; ML47/1.5 for selective explosive ARO. No visual modifier or linked bonus; strong suppression after attack. Joan v2 brings TA/AP/command, Crux native +1SD and specialist, while Bolt Spitfire/MSR Duos offer cheaper precision. LT variants expose command; AVA1.
 
 ## Original kestrel analysis — retained reference copy
