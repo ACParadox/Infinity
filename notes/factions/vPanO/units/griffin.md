@@ -25,6 +25,10 @@
 
 **A+ durable alternative.** HMG37/1.5 (or LT37/1), Feuerbach38/1.5, BS14/MSV1, two Wounds/ARM4/BTS6, Pulzar. Matching HMG + MULTI Rifle31/0 is 68/1.5 FT2 Duo; HMG B4+1SD. More resilient than Karhu/Nisse/Bolt but no Mim, Marksmanship, TA or NCO; second Griffin lacks specialist capability. Prefer Bolt/Karhu Duos for economical role compression unless two durable HI bodies specifically matter. ORC HMG generally displaced by Griffin.
 
+### Feuerbach ARO — durable alternative (A)
+
+Feuerbach38/1.5 with MULTI Rifle Griffin31/0 forms a Family I FT2 Duo69/1.5. BS14, MSV1, ARM4/BTS6, W2, Pulzar; B1+1SD in ARO and B2+1SD active AP+DA. More durable than Karhu but no Mim, NCO, +1B or specialist partner, so normally prefer Karhu58–59/1.5 for mobile dual-use and Bolt48–52/1.5 for sniper/utility. Pick Griffin if two durable HI bodies genuinely serve the mission.
+
 ## Original kestrel analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
