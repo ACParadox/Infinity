@@ -1,12 +1,12 @@
 # Hannibal — Svalarheima's Winter Force (Infinity N5.3)
 
-**Verdict: Strong conditional Alpha force multiplier; basic Vulkan 24 is best value.**
+**Verdict: S-tier Vulkan 24/0 — near-must-have in an offensive WinterFor Alpha Fireteam, even if another close-range attacker is already present.** Order-efficient force multiplier first, secondary close-range attacker second.
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original NCA analysis](../../NCA/units/hannibal.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
 ## WinterFor differences
 
-SWF Hannibal ID1345 vs NCA ID1875, both AVA1. Four SWF opts 5–8 at 24/30/27/33 points (all 0 SWC), each +1pt versus corresponding NCA profile. Strategic Deployment MMR has no printed +1 SWC in SWF, so NCA's extra allowance trick does not apply. SWF has Counterintelligence, Sensor, NWI, TacAware and BS Attack (+1SD) in the pinned reference. Wildcard max1 counts as Alpha, not ORC/Bolt.
+SWF Hannibal ID1345 vs NCA ID1875, both AVA1. Four SWF opts 5–8 at 24/30/27/33 points (all 0 SWC), each +1pt versus corresponding NCA profile. Strategic Deployment MMR has no printed +1 SWC in SWF, so NCA's extra allowance trick does not apply. SWF has Counterintelligence, Sensor, NWI, TacAware and BS Attack (+1SD) in the pinned reference. Wildcard max1 counts as Alpha, not ORC/Bolt. The pinned SWF profile does not list Immunity (Shock); do not import NCA's Shock Immunity or other unprinted skills. NWI is not equivalent to true W2 against Shock.
 
 ## Pinned WinterFor profiles
 
@@ -19,12 +19,76 @@ SWF Hannibal ID1345 vs NCA ID1875, both AVA1. Four SWF opts 5–8 at 24/30/27/33
 | 7 | 27 | 0 | Vulkan Shotgun profile; Strategic Deployment | same |
 | 8 | 33 | 0 | MULTI Marksman Rifle profile; Strategic Deployment | same |
 
-## WinterFor selection and use
+## WinterFor profile priorities
 
-- Vulkan 24/0: best general short-range non-specialist support with Nanopulser (+1B), Sensor, WIP14 and additional personal activation.
-- MMR 30/0: more reach if Alpha needs a secondary gun and Special Die pressure; compare Karhu/Vargar before buying redundant shooting.
-- SD Vulkan27 or MMR33: +3pts for actual deployment geometry, not automatic. No NCA +SWC motivation.
-- ORC Firewall BSG28 + Vulkan24 = 52/0 Alpha Duo; Vargar anchor + Hannibal also makes sense for a mobile team, though MOV10-10 may slow Vargar. Counterintelligence is useful even when not linked; not CoC or a default scoring specialist. 0–1.
+| Option | Profile | Pts / SWC | Rating | Use |
+|---:|---|---|---|---|
+| 5 | Vulkan Shotgun | 24 / 0 | **S** | Default Alpha support, secondary close-range attacker |
+| 7 | Vulkan Shotgun + Strategic Deployment | 27 / 0 | A | Only when safe forward staging actually saves movement |
+| 6 | MULTI Marksman Rifle | 30 / 0 | B+ | Secondary midrange gun and DA ARO if specifically needed |
+| 8 | MULTI Marksman Rifle + Strategic Deployment | 33 / 0 | B | Niche; no NCA +1 SWC benefit |
+
+## Why Vulkan is worth taking even with another close-range attacker
+
+- **Two Orders for 24 points:** one Regular Order and one personal Tactical Awareness Order per turn while operational. The latter can activate the entire Fireteam with Hannibal as leader; it is not a freely transferable Regular Order. Use it for movement, Sensor or his own attacks. Nominally 12 points per generated Order.
+- **Counterintelligence:** can preserve one additional first-turn Regular Order when the opponent uses the relevant strategic Command Token option. Army-wide utility, not a third recurring Order; works even outside a Fireteam.
+- **Sensor / WIP14:** embedded anti-marker capability without having to move a separate Sensor unit with the team. Pathfinder still has independent scoring and repeater utility.
+- **NWI:** additional resilience and a better chance of maintaining Fireteam composition; ARM2 and absence of printed Shock Immunity are caveats.
+- **Nanopulser (+1B):** two direct templates in active turn, one in ARO. Excellent against high Mimetism, nearby enemies or low BTS; Special Dice do not add direct templates.
+- **Vulkan Shotgun:** B2, AP and Continuous Damage, +6 inside 8 inches; excellent secondary close-range gun capable of threatening durable targets.
+- **BS Attack (+1SD):** one intrinsic Special Die plus one from FT2 or higher. Benefits active attacks and AROs, including Flash Pulse. Special Dice improve reliability but are discarded rather than producing additional hits.
+- **Flash Pulse:** uses WIP14 (not BS14), with favorable range at 8–24 inches; good non-lethal defensive coverage outside shotgun range. Breaker Pistol adds an alternative attack against low BTS.
+- **Non-Hackable MI:** useful alongside hackable ORCs; not a specialist or CoC.
+
+Even if another member already handles close-range attacks, the combination of extra activation, Counterintelligence, Sensor, NWI, templates and defensive shooting justifies the slot. Prefer Hannibal when planning an offensive Alpha rather than treating him as a redundant shotgun.
+
+### Shooting dice
+
+| Weapon | Active solo | Active FT2+ | ARO FT2+ |
+|---|---|---|---|
+| Vulkan Shotgun | 2B + 1SD | 2B + 2SD | 1B + 2SD |
+| Flash Pulse | 1B + 1SD | 1B + 2SD | 1B + 2SD |
+| MMR AP/Shock | 3B + 1SD | 3B + 2SD | 1B + 2SD |
+| MMR DA | 1B + 1SD | 1B + 2SD | 1B + 2SD |
+| Breaker Pistol | 2B + 1SD | 2B + 2SD | 1B + 2SD |
+| Nanopulser (+1B) | 2 templates | 2 templates | 1 template |
+
+At FT2+, Vulkan can roll four active dice (up to two retained hits) or three reactive dice (one retained hit). Flash Pulse can roll three reactive dice using WIP14 before range and other modifiers. Cover complementary approaches rather than exposing him as a dedicated long-range ARO piece. See [Weapon Chart](https://infinitythewiki.com/Weapon_Chart) and [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses).
+
+## Comparison with Blade-Ops
+
+| Feature | Blade-Ops FTO BSG 20/0 | Hannibal Vulkan 24/0 |
+|---|---|---|
+| Order economy | Regular + TacAware | Regular + TacAware; Counterintelligence |
+| BS / WIP | 13 / 12 | 13 / 14 |
+| Defense | Mimetism (-3), Stealth, Terrain (Total), W1 | NWI, no Mimetism |
+| Weapons | Boarding Shotgun, D-Charges | Vulkan Shotgun, BS Attack (+1SD), Nanopulser (+1B), Flash Pulse, Breaker Pistol |
+| Utility | Terrain and D-Charges | Sensor, Counterintelligence |
+| Composition | Fusilier | WinterFor Alpha |
+
+**Prefer Hannibal to ordinary Blade-Ops BSG for general offensive support where the Fireteam choice permits.** Four points buy much more utility, ARO reliability and resilience. Blade retains Mimetism, Stealth, Terrain and Fusilier composition; Hannibal cannot replace those composition benefits. The Blade-Ops Engineer (23/0) remains a distinct, strong alternative for mission scoring, repairs and linked TacAware in Fusiliers, not an inferior non-specialist.
+
+Hawkins BSG (26/0) offers true W2, BS14, Specialist Operative and strong CC; ORC BSG Firewall (28/0) offers ARM4, W2 and Firewall; Valkyrie (28/0) supplies dedicated melee. These are complementary roles rather than reasons to exclude Hannibal.
+
+## Preferred Alpha Fireteams
+
+Hannibal is a Wildcard max 1, counts as WinterFor Alpha; a native ORC WinterFor or Vargar is still required for an Alpha team. WinterFor permits one Core, two Harises and unlimited Duos.
+
+| Composition | Pts / SWC | FT level | Purpose |
+|---|---|---:|---|
+| Hannibal Vulkan 24 + Vargar FO Disco 24 | 48 / 0 | 2 | Preferred utility Duo: Eclipse, specialist, Sensor and close-range attack |
+| Hannibal Vulkan 24 + Vargar FO HRL 22 | 46 / 1.5 | 2 | Long/short coverage and scoring |
+| Hannibal Vulkan 24 + ORC BSG Firewall 28 | 52 / 0 | 2 | Durable close-range Duo, Firewall and order economy |
+| Hannibal Vulkan 24 + ORC HMG 36 | 60 / 1.5 | 2 | Complementary ranges and resilience |
+| Hannibal Vulkan 24 + Vargar FO Disco 24 + Vargar FO HRL 22 | 70 / 1.5 | 3 | Assault Haris with two specialists |
+| Hannibal Vulkan 24 + Vargar FO Disco 24 + Infirmarer Doctor 17 | 65 / 0 | 3 | Utility, healing, scoring and zero SWC |
+| Hannibal Vulkan 24 + Vargar FO Disco 24 + Valkyrie 28 | 76 / 0 | 3 | Eclipse-assisted close assault, CC and specialist |
+
+Constructed options from the pinned chart, not reported tournament lists. The Vargar Duo is particularly attractive: projected Eclipse gets Hannibal into Vulkan range, while he provides Sensor and an extra activation. However, he cannot match Vargar Super-Jump or ORC Climbing Plus, so terrain and coherency may constrain movement.
+
+## Final selection
+
+**S-tier Vulkan 24/0; near-mandatory in offensive Alpha, not mandatory across the entire sectorial.** In Jotum, Karhu Beta, Fusilier or Pilot-X/REM-centric lists without a meaningful Alpha package, his utility remains strong but the opportunity cost rises. Counterintelligence works solo, but his TacAware gains particular value when moving a team. Strategic Deployment is optional for 3 points where terrain permits safe forward staging; MMR is secondary because WinterFor has other excellent ranged weapons and no extra SWC on Hannibal's upgraded profile.
 
 ## Original NCA analysis — retained reference copy
 
