@@ -1,12 +1,12 @@
 # Karhu Special Group — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [Source unit analysis](../../WinterFor/units/karhu.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [Source unit analysis](../../WinterFor/units/karhu.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 5 in WinterFor → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo, up to 2 Karhu. Matching Karhu Duo is FT2 (+1SD); mixed Duo normally FT1. AVA2 prevents a third Karhu.
 
 ## Pinned vanilla profiles
 
@@ -22,7 +22,7 @@
 
 ## Vanilla selection and use
 
-AVA2 versus WinterFor5. Feuerbach(+1B)34/1.5 is excellent independent MSV1/Mimetism(-3) NCO gun with Climbing Plus; Engineer25/0 adds mobile recovery and NCO, Paramedic24/0 useful. No shared activation or linked bonus; NCO pieces compete for the same LT Order. Compare Nisse MSV2 for visual counter and Swiss for apex hidden attack.
+**Verdict: S+ value / must-have, alongside Bolts.** Feuerbach (+1B)34/1.5 combines MSV1, Mim-3, Climbing Plus, NCO and B3 active AP+DA (B3+1SD in FT2; B1+1SD reactive). Excellent long-lane anti-armour, defensive threat and vertical geometry; W1 and lower retained Burst than HMG remain limitations. Prefer Feuerbach + Engineer59/1.5 FT2 Duo or Feuerbach + Paramedic58/1.5 FT2 Duo. Both follow similar climbing routes; Engineer repairs eligible STR assets, Paramedic treats Wounds, both contribute NCO access. Engineer has Blitzen/D-Charges, not AP Mines. NCO models compete for actual available LT Orders; they do not each generate one. Cheap MULTI Rifle profiles remain useful if a long gun is already present. Prefer Karhu/Bolt compact matching Duos to the more expensive Nisse Haris by default; choose Nisse specifically for MSV2/HMG volume.
 
 ## Original WinterFor analysis — retained reference copy
 

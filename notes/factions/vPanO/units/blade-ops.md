@@ -1,12 +1,12 @@
 # Blade-Ops — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/blade-ops.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/blade-ops.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in NCA → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** FTO options 1–2 only: Family I Duo (max 1 Blade FTO), Family II Duo/Haris (max 2). Two matching Blade FTOs in Family II grant FT2; non-FTO forward/airborne profiles are not chart-eligible.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,7 @@
 
 ## Vanilla selection and use
 
-AVA2 instead of NCA3. FTO BSG20 and Engineer23 are independent TA bodies, not order-efficient team glue. Engineer23 useful for mobile REM support, while Machinist15 + Palbot3 is cheaper. 30/0 forward or parachuting engineer with Decoy(2) is specialized.
+AVA2. **A+ team utility; S in a purposeful Nisse Haris.** BSG20/0 and Engineer23/0 FTO form the matching pair with Nisse HMG31/1.5 for 74/1.5 FT2 Haris (or two BSG for 71/1.5). All have Mim-3; two Blades provide close-range coverage, AP SMG/Engineer/D-Charges and two Tactical Orders. Each TA Order activates the link with its own Blade as leader, not the Nisse HMG as shooter. Also useful as mixed FT1 Duo with Bulleteer or an eligible Family I TAG; lone Blade does not confer +1SD. Machinist15 + Palbot3 is cheaper for independent repair. 30/0 forward or parachuting Engineer with Decoy(2) remains specialized and cannot link.
 
 ## Original NCA analysis — retained reference copy
 

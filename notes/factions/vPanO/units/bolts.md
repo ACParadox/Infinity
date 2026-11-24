@@ -1,12 +1,12 @@
 # Neoterra Bolts — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/bolts.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/bolts.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** T in NCA → 3 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family I Duo (max 2 Bolts) or Family II Duo/Haris (max 3). Two matching Bolts grant FT2 +1SD; three grant FT3 (also +3 Discover and +1 Dodge). No Core.
 
 ## Pinned vanilla profiles
 
@@ -27,7 +27,18 @@
 
 ## Vanilla selection and use
 
-AVA3 instead of Total. Marksmanship remains valuable without link bonuses; 22/0 KHD, 26/0 CoC, 26/1.5 MSV1 sniper and 25/1.5 Spitfire are distinct standalone roles. CoC competes with Magistrate21 and Firefly23. Do not buy a second Bolt for a nonexistent Duo.
+**Verdict: S+ listbuilding value / must-have.** MSV1 MULTI Sniper 26/1.5 is the default long-range precision gun and ARO, not merely a reactive piece. Spitfire25/1.5 is A+ for sustained midrange active fire. Marksmanship ignores Partial Cover's BS penalty (not its save bonus); Warhorse ignores enemy BS Attack (-X) and protects against Isolation; sniper MSV1 cancels Mim-3 and reduces Mim-6 to -3. FT2 adds one Special Die, not retained Burst: active B2+1SD or ARO B1+1SD for MSR, B4+1SD active Spitfire. At positive range into cover the sniper rolls on 16/16/13 vs no Mim/Mim-3/Mim-6 before other MODs. W1/ARM2/no defensive Mimetism limits attrition.
+
+| Preferred package | Pts/SWC | Level | Use |
+|---|---:|---|---|
+| MSR + KHD | 48/1.5 | FT2 Duo | Default general-purpose gun + BSG/E/M Mine specialist |
+| MSR + CoC | 52/1.5 | FT2 Duo | Defensive precision gun and command insurance |
+| MSR + Paramedic | 49/1.5 | FT2 Duo | Recovery/scoring |
+| MSR + BSG | 45/1.5 | FT2 Duo | Cheapest matching partner; mines/close defense |
+| Spitfire + KHD | 47/1.5 | FT2 Duo | Mobile midrange B4 attack |
+| MSR + Spitfire + KHD | 73/3 | FT3 Haris | Two complementary guns and specialist; uses sole Haris |
+
+Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latter's partners are independently wanted. CoC competes with Magistrate and Firefly; do not buy filler just to obtain +1SD.
 
 ## Original NCA analysis — retained reference copy
 

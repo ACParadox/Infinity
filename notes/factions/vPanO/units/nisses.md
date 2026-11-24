@@ -1,12 +1,12 @@
 # Nisses — Vanilla PanOceania (Infinity N5.3)
 
-**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [Source unit analysis](../../WinterFor/units/nisses.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
+**Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [Source unit analysis](../../WinterFor/units/nisses.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 5 in WinterFor → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (24 November 2026 corrected chart):** Family II Duo/Haris, maximum 1 Nisse per team despite AVA2. Mixed Duo is FT1; two matching eligible partners in a Haris grant FT2 (+1SD) to Nisse.
 
 ## Pinned vanilla profiles
 
@@ -21,7 +21,15 @@
 
 ## Vanilla selection and use
 
-AVA2 versus WinterFor5; MSV2 Mimetism(-3) HMG31/1.5 and sniper29/1.5 remain useful independent visual-counter guns without link bonus. Hacker30/0.5 and Paramedic28/0 are expensive compared with cheap independent specialists. Compare Karhu Feuerbach and Black A.I.R. Neurocinetics sniper; use Fennec Disco to cross difficult lanes, not shoot through Eclipse.
+**Verdict: A+ overall; excellent MSV2 gun, but Bolt and Karhu Duos are the first-choice efficient links.** HMG31/1.5 is preferred active anti-Mimetism/Smoke gun (B4); MSR29/1.5 is an alternate long-range ARO. Mim-3, MSV2 and HMG volume are distinctive, but W1/BTS0 and no NCO limit sustained exposure. Nisse can receive +1SD from a Haris of two matching partners, not a same-Nisse Duo.
+
+| Package | Pts/SWC | Level |
+|---|---:|---|
+| Nisse HMG + 2 Blade FTO BSG | 71/1.5 | FT2 Haris |
+| Nisse HMG + Blade FTO BSG + Blade FTO Engineer | 74/1.5 | FT2 Haris |
+| Nisse HMG + 2 Bolt KHD | 75/1.5 | FT2 Haris |
+
+Preferred Haris when MSV2 and Blade utility are wanted: HMG + BSG + Engineer. Three Regular Orders while operational, two Blade Tactical Orders, all Mim-3, close protection, AP SMG and D-Charges/Engineer utility. Each TA Order activates the Fireteam only with its own Blade as leader; it is not a free Nisse HMG attack. The Haris consumes the only Haris slot, has three W1 bodies and costs 15–26 more than preferred Bolt/Karhu Duos. Solo HMG remains strong when no Haris is justified. Use Disco Baller/Eclipse to cross lanes, not to shoot through Eclipse.
 
 ## Original WinterFor analysis — retained reference copy
 

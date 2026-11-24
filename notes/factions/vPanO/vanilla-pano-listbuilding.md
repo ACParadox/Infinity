@@ -94,10 +94,10 @@ Examples of **complementary** synergies:
 
 - Karhu Feuerbach covered by a Karhu Engineer;
 - Bulleteer with a Blade Engineer positioned for repair;
-- Bolt sniper plus a utility Bolt, each activating on their own;
+- Bolt sniper plus a utility Bolt, preferably a matching FT2 Duo;
 - Joan supported by relevant specialists and independent command assets.
 
-Karhu + Karhu and Bolt + Bolt may form FT2 Duos; Bulleteer + Blade FTO may form a mixed FT1 Duo. Other pairings remain independent unless allowed by the chart.
+Karhu + Karhu and Bolt + Bolt may form FT2 Duos; Nisse + two Blade FTOs forms an FT2 Haris; Bulleteer + Blade FTO may form a mixed FT1 Duo. Other pairings remain independent unless allowed by the chart.
 
 ---
 
@@ -224,7 +224,7 @@ This is often a better default than automatically taking a Fusilier LT.
 
 ## Karhu
 
-Karhu are among Vanilla PanO's most generally useful independent NCO and gunfighter/support pieces.
+Karhu are among Vanilla PanO's most generally useful NCO and gunfighter/support pieces, especially in matching FT2 Duos.
 
 Their attraction is the package of:
 
@@ -249,11 +249,11 @@ The Feuerbach provides:
 The Engineer provides:
 
 - specialist capability;
-- mines / utility;
-- recovery for TAGs / REMs / HI where relevant;
+- Blitzen / D-Charges utility;
+- recovery for eligible STR assets;
 - another useful NCO body.
 
-The two models naturally want to operate in similar parts of the board.
+The two models naturally want to operate in similar parts of the board. The Paramedic alternative is 58/1.5 and supports Wound recovery.
 
 ---
 
@@ -271,6 +271,58 @@ Use them when:
 - AP Mine / E/Marat utility helps the midfield plan.
 
 This is often a better use of points than adding a second or third expensive ranged attacker.
+
+---
+
+## Apex gunfighters — corrected Fireteam comparison (24 November 2026)
+
+**Default priority (user-refined): Bolt and Karhu first; Nisse is an excellent but less easily linked alternative.** Distinguish raw active-turn ceiling from overall listbuilding value. Cutter remains the conventional apex, Swiss the independent infantry apex. Two Duos and one Haris are permitted. Two matching members grant FT2 (+1SD); three grant FT3 (also +3 Discover and +1 Dodge). A Special Die is an extra roll followed by discarding a die, not extra retained Burst.
+
+| Gun | Pts/SWC | Value | Role |
+|---|---:|---|---|
+| [Bolt MSV1 MULTI Sniper](units/bolts.md) | 26/1.5 | S+ FT2 | Marksmanship, Warhorse, MSV1; active B2+1SD, ARO B1+1SD |
+| [Karhu Feuerbach (+1B)](units/karhu.md) | 34/1.5 | S+ FT2 | NCO, MSV1, Mim-3, Climbing Plus; B3+1SD AP+DA |
+| [Tikbalang HMG](units/tikbalang.md) | 69/1.5 | S | Mobile TAG; Mim-3, TA, climbing, normal HMG |
+| [Swiss HMG](units/swiss-guard.md) | 56/1.5 | S | Hidden Mim-6 independent infantry apex; 2W, no TA/AP HMG |
+| [Squalos MULTI HMG NCO](units/squalos.md) | 66/1.5 | S | TA/NCO, AP, BS15; no Mim |
+| [Nisse HMG](units/nisses.md) | 31/1.5 | A+ overall / S anti-Mim | MSV2, Mim-3, B4; FT2 needs two matching Haris partners |
+| Bolt Spitfire | 25/1.5 | A+ FT2 | B4+1SD active, no MSV/AP |
+| [Cutter MULTI HMG NCO](units/cutter.md) | 97/2 | S+ ceiling / A+ value | Hidden Mim-6 ARM8; no TA, high concentration |
+| [Griffin HMG](units/griffin.md) | 37/1.5 | A+ | Durable MSV1; matching Duo possible |
+| [Redeye Spitfire](units/redeye.md) | 37/1.5 | A+ | Aerial geometry, Mim-6, No Cover |
+| [Maximus TAG AP HMG](units/maximus-tag.md) | 82/1.5 (LT 82/0) | A+ situational | Immunity (ARM), four Wounds, TA, zone anchor |
+| [Aquila HMG](units/aquila-guard.md) | 52/1.5 | A situational | MSV3 anti-marker, independent HMG |
+| [Joan v2 LT AP Spitfire](units/joan-v2-mobility.md) | 45/1 | A+ | Midrange AP/TA/command |
+| [Hetkari MULTI Red Fury](units/hetkari.md) | 48/1.5 | A+ | Durable independent Marksmanship midrange |
+| [Maximus Agent AP Thunderbolt](units/maximus-agent.md) | 45–48/1 | A | B4 AP, anti-MSV, TA, specialist |
+| [Bulleteer Spitfire](units/bulleteer.md) | 22/1 | A | Cheap Mim-6 attack |
+| [Crux FTO MULTI MMR](units/crux.md) | 46/0 | A | Native +1SD, Albedo, specialist; no link |
+| [Black A.I.R. K1 MMR FO](units/black-air.md) | 29/0.5 | A | MSV2, Mim-3, anti-armour specialist |
+| ORC HMG | 34/1.5 | Skip by default | Griffin offers MSV1 for 3 more points |
+
+### Bolt vs Karhu vs Nisse: actual team cost
+
+| Package | Pts/SWC | FT | Preference |
+|---|---:|---|---|
+| Bolt MSR + KHD | 48/1.5 | FT2 Duo | Default general-purpose |
+| Bolt MSR + CoC | 52/1.5 | FT2 Duo | Default defensive/command |
+| Bolt MSR + Paramedic | 49/1.5 | FT2 Duo | Recovery/scoring |
+| Bolt Spitfire + KHD | 47/1.5 | FT2 Duo | Sustained midrange active |
+| Karhu Feuerbach + Engineer | 59/1.5 | FT2 Duo | Anti-armour, NCO, climbing, repair |
+| Karhu Feuerbach + Paramedic | 58/1.5 | FT2 Duo | Anti-armour, NCO, Wound recovery |
+| Nisse HMG + two Blade FTO BSG | 71/1.5 | FT2 Haris | MSV2/TA/close range |
+| Nisse HMG + Blade FTO BSG + Blade FTO Engineer | 74/1.5 | FT2 Haris | Preferred Nisse package if partners wanted |
+| Nisse HMG + two Bolt KHD | 75/1.5 | FT2 Haris | Alternative, duplicated KHD opportunity cost |
+
+Bolt MSR ignores Partial Cover's attack MOD (not its save bonus), cancels Mim-3, reduces Mim-6 and ignores enemy BS Attack (-X) via Warhorse. In positive range vs covered targets nominal target numbers are 16/16/13 for no Mim/Mim-3/Mim-6. Spitfire rolls 16/13/10 before other MODs; B4+1SD is valuable, but MSR offers better range, ammunition and ARO at +1 point. Karhu has stronger mobility, NCO, anti-armour and defensive Mimetism. Nisse offers MSV2 and B4 HMG; one Nisse per team means a matching two-partner Haris is required for +1SD. Two Blade FTOs supply two Tactical Orders (each activates the team only with its own Blade leading, not with the Nisse firing), close-range fire and specialist/recovery utility. The Nisse/Blade Engineer Haris costs 15–26 more than preferred Duos and occupies the sole Haris slot; all three have one Wound. Prefer Bolt/Karhu unless the MSV2/Blade package is desirable.
+
+### Complementary attackers
+
+- Tikbalang for repeated mobile angles; Squalos for AP/NCO; Swiss for compact S2 Hidden asymmetric fights; Cutter for maximum conventional ceiling; Maximus LT for attrition/zone control and SWC relief.
+- Bolt MSR + KHD and Karhu Feuerbach + Engineer form two FT2 Duos, **107/3** total, four Regular bodies, two specialists, mines, hacking, NCO and repair. Only 10 points more than Cutter, but not equivalent concentrated durability.
+- Swiss + Karhu (90/3 before partners) adds AP/NCO/climbing. Tikbalang + Nisse (100/3 before links) adds MSV2; provide separate AP/E/M. Squalos NCO + Nisse (97/3 before links) combines AP with anti-Mimetism.
+- Do not assume TAGs gain +1SD merely by linking: Tikbalang, Squalos and Maximus Optimate are Family I eligible; mixed Duo FT1; two matching Squalos may reach FT2 at high cost. Aquila HMG, Swiss, Cutter, Redeye, Hetkari, Crux and Black A.I.R. are not eligible in the visible chart.
+- Ratings are qualitative and price-aware, not simulated face-to-face probabilities. W1 linked guns do not replace a premium TAG or Swiss in every matchup.
 
 ---
 
@@ -866,7 +918,7 @@ Aquila is a strong meta call rather than a generic staple.
 
 MSV3 fundamentally changes how it interacts with markers and visual modifiers.
 
-The FTO-labelled / specialist / Disco Baller profiles can give an **independently activated** model more than pure shooting; FTO alone grants no vanilla Fireteam permission.
+The FTO specialist/Disco Baller profiles are expressly allowed in Family I mixed Duos (FT1); HMG remains independent. No NCA Haris or automatic +1SD.
 
 The Strategos LT profile is particularly interesting because it combines:
 
@@ -1025,7 +1077,7 @@ Build a plan to:
 
 ### Using the corrected vanilla Fireteam chart
 
-Karhu Duo, Bulleteer + Blade FTO Duo and Joan + Helot FTO Haris are legal. Apply the exact chart and composition bonuses; reserve independent Orders for unlisted support.
+Karhu and Bolt FT2 Duos, Nisse + two Blade FTO FT2 Haris, Bulleteer + Blade FTO FT1 Duo and Joan + Helot FTO Haris are legal. Apply the exact chart and composition bonuses; reserve independent Orders for unlisted support.
 
 ---
 
@@ -1034,13 +1086,13 @@ Karhu Duo, Bulleteer + Blade FTO Duo and Joan + Helot FTO Haris are legal. Apply
 A useful generic build order is:
 
 1. choose the **Lieutenant / NCO / CoC architecture**;
-2. choose one **primary attack engine**;
+2. choose one **primary attack engine** (consider Bolt/Karhu FT2 Duos first; Swiss/TAG for independent apex pressure; Nisse Haris when MSV2 and partners justify it);
 3. add one **qualitatively different secondary threat**;
 4. add **midfield control**;
 5. add **cheap Regular infrastructure**;
 6. add the appropriate **Engineer / Doctor / Hacker** support;
 7. add one **reactive tax piece** if needed;
-8. position independent gunfighter / specialist / Engineer support packages so their separate activations are efficient (use legal links where efficient);
+8. use eligible matching Duos/Haris to share activations and gain composition bonuses; budget separate Orders for unlisted support;
 9. spend remaining points on mission coverage rather than another redundant gun.
 
 A common shell can look like:
@@ -1063,7 +1115,9 @@ Not all of these belong in every list, but these are the strongest recurring con
 - **Cutter** — apex assassin architecture;
 - **Squalos Mk-II** — strong conventional TAG / NCO engine;
 - **Zulu-Cobra** — midfield control / Sensor / Jammer / Camo attack;
-- **Karhu** — NCO / MSV / Engineer / Feuerbach utility;
+- **Bolts** — first-choice FT2 precision MSR + KHD/CoC packages; Marksmanship / Warhorse;
+- **Karhu** — first-choice FT2 NCO / MSV / Engineer / Feuerbach utility;
+- **Nisse** — MSV2 HMG solo or FT2 Haris with two matching partners, notably Blade FTOs;
 - **Fennec utility profiles** — Sensor / Disco / Minelayer / hacking;
 - **Peacemaker** — midfield repeater / template pressure;
 - **Bulleteer** — cheap asymmetric attacker;
@@ -1103,7 +1157,7 @@ Do not overbuy Irregular pieces just because Joan can convert their Orders.
 
 ### Karhu Feuerbach + Karhu Engineer
 
-A useful **unlinked** combination that provides:
+A preferred **Family I FT2 Duo (59/1.5)** that provides:
 
 - ranged anti-armour shooting;
 - NCO;
@@ -1158,7 +1212,7 @@ Use it when the army already has an expensive main attack piece and needs anothe
 - **Three-TAG extreme skew — [#214 Firefight](../../battle-reports/211-220-n5-battle-report-tactical-analysis.md):** the spoken roster used **Cutter + Squalos Mk-II + Tikbalang Lieutenant** together, supported by **Pathfinder TacAware, Machinist, Flash REMs and Baggage**. These are **three separate TAGs, not a TAG Fireteam**. In a current list, audit the **Lt risk, hacking exposure and number of Regular scoring bodies** before imitating this intentionally unusual army. It is a useful **stress test**, not a reliable default.
 - **Jotum/forward-specialist example — [#192 The Dig](../../battle-reports/191-200-n5-battle-report-tactical-analysis.md):** the roster used **Jotum**, **two Vargs**, **Shona**, **Liang Kai**, **Locust KHD**, **Pathfinder** and support. The video described the Vargs as linked; **that observation is not a current vanilla Fireteam permission**. Keep the lessons about independent midfield assault and late console switching, but spend separate Orders or choose **SWF** to field an actual Varg Fireteam.
 
-**Practical N5.3 list start:** select **one principal TAG or Swiss Guard**, **one independent midfield specialist/denial route**, **one protected LT/CoC and/or NCO economy**, **real Engineer/repair and cheap Regular Orders**. The #214 triple-TAG and #169 old-linked Joan variants are **different experiments**, not members of one combined “winning list.” Only chart-eligible compositions can be entered as Duos/Haris; no Core.
+**Practical N5.3 list start:** select **one principal TAG, Swiss Guard or economical Bolt/Karhu attack package**, **one independent midfield specialist/denial route**, **one protected LT/CoC and/or NCO economy**, **real Engineer/repair and cheap Regular Orders**. The #214 triple-TAG and #169 old-linked Joan variants are **different experiments**, not members of one combined “winning list.” Only chart-eligible compositions can be entered as Duos/Haris; no Core.
 
 ## Source-derived consensus and disagreements
 
