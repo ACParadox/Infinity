@@ -1,10 +1,11 @@
 # Varuna — Unit analyses
 
-Extracted from the original Varuna guide; further profile-by-profile analyses can be added here. See the [inventory](../varuna-inventory.md) for the complete roster role index and the [pinned roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) for exact data.
+Unit notes combine original Varuna tactical analysis with pinned N5.3 profile/Fireteam comparisons and retained cross-faction source material. See the [inventory](../varuna-inventory.md) for the complete roster role index and the [pinned roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) for exact data.
 
 - [Zulu-Cobra](zulu-cobra.md)
 - [Kamau](kamau.md)
-- [Knights of Montesa](montesa.md)
+- [Knights of Montesa (foot)](montesa.md)
+- [Motorized Montesa](montesa-moto.md)
 - [Varuna ORCs](orc.md)
 - [Helots](helots.md)
 - [Clipper FTO](clipper.md)
@@ -18,3 +19,10 @@ Extracted from the original Varuna guide; further profile-by-profile analyses ca
 - [Sierra](sierra.md)
 - [Bulleteer](bulleteer.md)
 - [Machinist](machinist.md)
+- [Mulebots](mulebot-baggagebot.md)
+- [Palbots](palbot.md)
+- [Peacemaker Armbots](peacemaker.md)
+- [Trauma-Docs](trauma-doc.md)
+- [Tech-Bees](techbee.md)
+- [Fusilier Indigo Bipandra](bipandra.md)
+- [Captain Uma Sørensen](uma-sorensen.md)
