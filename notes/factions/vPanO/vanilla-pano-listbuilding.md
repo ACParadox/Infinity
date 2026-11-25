@@ -94,7 +94,7 @@ Examples of **complementary** synergies:
 
 - Karhu Feuerbach with Karhu Engineer for shared movement, scoring and STR/state repair (not VITA healing);
 - Bulleteer with a Blade Engineer positioned for repair;
-- Bolt sniper plus a utility Bolt, preferably a matching FT2 Duo;
+- Bolt sniper plus an independently useful utility Bolt (FT2 Duo); otherwise prefer standalone Black A.I.R.;
 - Joan supported by relevant specialists and independent command assets.
 
 Karhu + Karhu and Bolt + Bolt may form FT2 Duos; Nisse + two Blade FTOs forms an FT2 Haris; Bulleteer + Blade FTO may form a mixed FT1 Duo. Other pairings remain independent unless allowed by the chart.
@@ -304,8 +304,8 @@ This is often a better use of points than adding a second or third expensive ran
 
 | Package | Pts/SWC | FT | Preference |
 |---|---:|---|---|
-| Bolt MSR + KHD | 48/1.5 | FT2 Duo | Default general-purpose |
-| Bolt MSR + CoC | 52/1.5 | FT2 Duo | Default defensive/command |
+| Bolt MSR + KHD | 48/1.5 | FT2 Duo | Conditional: only if KHD is genuinely needed |
+| Bolt MSR + CoC | 52/1.5 | FT2 Duo | Preferred defensive/command when CoC is needed |
 | Bolt MSR + Paramedic | 49/1.5 | FT2 Duo | Recovery/scoring |
 | Bolt Spitfire + KHD | 47/1.5 | FT2 Duo | Sustained midrange active |
 | Karhu Feuerbach + Engineer | 59/1.5 | FT2 Duo | Anti-armour, NCO, climbing, repair |
@@ -697,7 +697,7 @@ The Neurocinetics MULTI Sniper gives:
 
 This matters in Vanilla because it competes with other guns and support slots, **not** automatically with a Duo/Haris slot.
 
-Use Black A.I.R. when you want **one roster slot to provide dedicated lane control**.
+Use Black A.I.R. as the **default premium standalone ARO** when no second Bolt is independently desirable. Do not pay for a matching partner solely for +1SD.
 
 ---
 
@@ -1035,6 +1035,8 @@ Karhu Feuerbach + Engineer59/1.5, Paramedic58/1.5 or MULTI Rifle56/1.5 are legal
 
 Bolt is generally preferred when a useful matching partner is already wanted: better accuracy into cover (particularly if the attacker negates Black A.I.R.'s Mim), stronger active utility and lower marginal gun price. Black A.I.R. is superior as an independent dedicated anti-vision sniper: no Fireteam slot, B2 retained hits, Mim-3, MSV2 through ordinary Smoke, and Combat Instinct against Surprise Attack. Marksmanship does not remove cover saves. The Bolt's two rolled dice retain only one; this is not identical to true B2 damage. Neither dominates every matchup. Karhu is the preferred general-purpose active/ARO gun and anti-armor choice; Nisse is useful if the Haris partners and MSV2 role justify their cost.
 
+**Selection rule (25 November 2026):** Black A.I.R. Neurocinetics MSR (33/1.5) is the default premium standalone ARO. A matching Bolt MSR FT2 Duo has broadly comparable reactive performance (matchup-dependent), but its B2+1SD active shooting is substantially more useful than the B1 Black A.I.R. Choose the Bolt Duo only when the second Bolt earns its place independently, especially CoC; KHD or Paramedic are conditional if those roles are genuinely needed. A 19-point BSG/Drop Bears partner is not worth buying solely to gain +1SD: the 45/1.5 Duo costs 12 points more than Black A.I.R. and occupies a Duo slot. Both sniper choices are S-tier in their intended architectures; Bolt FT2 is S+ package value when its partner is already wanted, not a mandatory purchase. Solo Bolt is not the default dedicated ARO.
+
 ### Viable defensive links and packages
 
 | Package | Pts/SWC | FT level | Role |
@@ -1043,7 +1045,7 @@ Bolt is generally preferred when a useful matching partner is already wanted: be
 | Karhu Feuerbach + Engineer | 59/1.5 | FT2 Duo | Active/ARO, TAG/REM repair, scoring |
 | Bolt MSR + CoC | 52/1.5 | FT2 Duo | Defensive sniper plus protected command successor |
 | Bolt MSR + KHD | 48/1.5 | FT2 Duo | Sniper plus specialist/close defense |
-| Bolt MSR + BSG | 45/1.5 | FT2 Duo | Cheapest matching sniper Duo |
+| Bolt MSR + BSG | 45/1.5 | FT2 Duo | Conditional close defense; skip if only buying +1SD |
 | Bolt ML + BSG | 43/1.5 | FT2 Duo | Missile template and close defense |
 | Helot FTO LRL + Shock MMR | 21/0 | FT2 Duo | Preferred cheap complementary AROs |
 | Two Helot FTO LRL | 20/0 | FT2 Duo | Cheap impact-template threats |
@@ -1063,7 +1065,7 @@ Only Helot FTO options can link, not Camo variants. Joan regularizes eligible He
 - Bolt MSR + CoC Duo and Helot LRL + MMR Duo = **73/1.5**, leaves Haris free; useful with aggressive Joan/TAG command.
 - If taking Swiss ML as main hidden gun, normally omit another premium dedicated sniper. Add cheap Helots/Fugazi, Zulu Jammer, Peacemaker or RacerBots as needed. Pilot-X can enhance Sierra BS/PH/BTS without consuming a Fireteam; do not buy him solely for the turret unless the hacking and REM support also matter.
 
-**Priority:** Karhu Feuerbach Duo and linked Helots by default when useful; Bolt MSR+CoC or KHD if a strong active attacker already exists; Black A.I.R. if dedicated standalone MSV2 defense is needed. Griffin is situational, ORC remains Skip by default, and Patsy is B− rather than Skip: a credible non-Joan Helot engine with three conditional Regular Orders for 54–55/0. She can transition to solo close-range attack and scoring after her Helots have served their purpose, accepting team cancellation and loss of future FT Master conversion. NCO can use a conventional LT Order if not claimed by another NCO.
+**Priority:** Karhu Feuerbach Duo and linked Helots by default when useful; Black A.I.R. for a standalone premium ARO; Bolt MSR+CoC (or KHD if genuinely needed) when a useful partner justifies the Duo and secondary active shooting. Griffin is situational, ORC remains Skip by default, and Patsy is B− rather than Skip: a credible non-Joan Helot engine with three conditional Regular Orders for 54–55/0. She can transition to solo close-range attack and scoring after her Helots have served their purpose, accepting team cancellation and loss of future FT Master conversion. NCO can use a conventional LT Order if not claimed by another NCO.
 
 ## Common listbuilding traps
 
@@ -1229,13 +1231,13 @@ Not all of these belong in every list, but these are the strongest recurring con
 - **Cutter** — apex assassin architecture;
 - **Squalos Mk-II** — strong conventional TAG / NCO engine;
 - **Zulu-Cobra** — midfield control / Sensor / Jammer / Camo attack;
-- **Bolts** — first-choice FT2 precision MSR + KHD/CoC packages; Marksmanship / Warhorse;
+- **Bolts** — conditional first-choice FT2 precision MSR with independently useful CoC/KHD; otherwise Black A.I.R.; Marksmanship / Warhorse;
 - **Karhu** — first-choice FT2 NCO / MSV / Engineer / Feuerbach utility;
 - **Nisse** — MSV2 HMG solo or FT2 Haris with two matching partners, notably Blade FTOs;
 - **Fennec utility profiles** — Sensor / Disco / Minelayer / hacking;
 - **Peacemaker** — midfield repeater / template pressure;
 - **Bulleteer** — cheap asymmetric attacker;
-- **Black A.I.R.** — self-contained ARO;
+- **Black A.I.R.** — default standalone premium ARO;
 - **Teutonic Specialist (19/0)** — cheap solo secondary attacker, 2W mission / breach piece, optional Impetuous advance;
 - **Bipandra** — improved Doctor / TA support;
 - **Blocker** — Sensor / hacking / info-war utility;
@@ -1349,7 +1351,7 @@ These are practical lessons from the reviewed tournament submissions and battle 
 | [Banshee KHD](units/banshee.md), 23/0 | Strong competitive utility as a budget airborne KHD; alternate attack angle, enemy hacker pressure and specialist access. |
 | [Fennec Hacker](units/fennecs.md), 16/0.5 | Cheap defensive HD and FastPanda support; valuable secondary/budget hacker. Pilot-X remains the current preferred primary HD. |
 | Fennec FO/Sensor/Disco Baller, 13/0 | Cheap specialist, Sensor and visual-control utility; useful independently of a hacking or TAG plan. |
-| [Bolt MSV1 MULTI Sniper](units/bolts.md), 26/1.5 | Recurring defensive piece that also attacks well; matching FT2 Duo with CoC, KHD or Paramedic according to need. |
+| [Bolt MSV1 MULTI Sniper](units/bolts.md), 26/1.5 | Dual-use precision gun in a matching FT2 Duo with independently useful CoC, KHD or Paramedic; otherwise prefer Black A.I.R. for dedicated ARO. |
 | [Motorized Bounty Hunter](units/moto-bountyhunter.md) | Excellent cheap mobile utility; 8/0 BSG or 9/0 SMG in historical examples, especially with Joan converting its Irregular Order. |
 | [Fugazi](units/fugazi-flashbot.md), 7/0 | Fundamental inexpensive Regular-order generation, Flash Pulse and Repeater infrastructure; consider two where slots permit. |
 
