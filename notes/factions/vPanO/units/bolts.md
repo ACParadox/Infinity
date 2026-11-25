@@ -29,14 +29,14 @@
 
 **User-preferred CoC: S-tier in the defensive MSV1 MULTI Sniper Duo (52/1.5, FT2); Magistrate is the preferred standalone alternative.** Keep the CoC in Total Cover and coherency, protecting the sniper's rear/flanks against AD and close attacks with Combi Rifle, Light Shotgun and Drop Bears (not Minelayer). Warhorse protects against Isolation; Immunity (Shock) and BTS6 also help. The sniper gains B1+1SD in ARO and B2+1SD active while both produce Regular Orders. Compared with solo sniper26 + Magistrate CoC21 (47/1.5), five extra points buy FT2 and close-range defensive utility, losing Counterintelligence and Specialist Operative. Prefer this package when protecting an aggressive Joan/Tik/Maximus LT; avoid putting the succession model in the same attack footprint as the LT. CoC is B standalone. LT21 is normally skip compared with double Fusilier20 or Magistrate19. KHD remains the preferred partner if command insurance is unnecessary.
 
-**Verdict: S+ listbuilding value / must-have.** MSV1 MULTI Sniper 26/1.5 is the default long-range precision gun and ARO, not merely a reactive piece. Spitfire25/1.5 is A+ for sustained midrange active fire. Marksmanship ignores Partial Cover's BS penalty (not its save bonus); Warhorse ignores enemy BS Attack (-X) and protects against Isolation; sniper MSV1 cancels Mim-3 and reduces Mim-6 to -3. FT2 adds one Special Die, not retained Burst: active B2+1SD or ARO B1+1SD for MSR, B4+1SD active Spitfire. At positive range into cover the sniper rolls on 16/16/13 vs no Mim/Mim-3/Mim-6 before other MODs. W1/ARM2/no defensive Mimetism limits attrition.
+**Verdict: S+ conditional FT2 package value; S-tier linked sniper, not a must-field unit.** MSV1 MULTI Sniper 26/1.5 is a dual-purpose long-range precision gun and ARO when a matching partner is independently useful. Black A.I.R. is the default standalone premium ARO. Spitfire25/1.5 is A+ for sustained midrange active fire. Marksmanship ignores Partial Cover's BS penalty (not its save bonus); Warhorse ignores enemy BS Attack (-X) and protects against Isolation; sniper MSV1 cancels Mim-3 and reduces Mim-6 to -3. FT2 adds one Special Die, not retained Burst: active B2+1SD or ARO B1+1SD for MSR, B4+1SD active Spitfire. At positive range into cover the sniper rolls on 16/16/13 vs no Mim/Mim-3/Mim-6 before other MODs. W1/ARM2/no defensive Mimetism limits attrition.
 
 | Preferred package | Pts/SWC | Level | Use |
 |---|---:|---|---|
-| MSR + KHD | 48/1.5 | FT2 Duo | Default general-purpose gun + BSG/E/M Mine specialist |
+| MSR + KHD | 48/1.5 | FT2 Duo | Conditional gun + BSG/E/M Mine specialist when KHD is needed |
 | MSR + CoC | 52/1.5 | FT2 Duo | Defensive precision gun and command insurance |
 | MSR + Paramedic | 49/1.5 | FT2 Duo | Recovery/scoring |
-| MSR + BSG | 45/1.5 | FT2 Duo | Cheapest matching partner; mines/close defense |
+| MSR + BSG | 45/1.5 | FT2 Duo | Only when close defense is independently wanted; not +1SD filler |
 | Spitfire + KHD | 47/1.5 | FT2 Duo | Mobile midrange B4 attack |
 | MSR + Spitfire + KHD | 73/3 | FT3 Haris | Two complementary guns and specialist; uses sole Haris |
 
@@ -45,6 +45,8 @@ Prefer a Bolt or Karhu Duo before building a Nisse Haris unless MSV2 or the latt
 ### ARO role — FT2 compared with Black A.I.R.
 
 **S-tier MSR; A+ ML when a matching partner is useful.** The MSR26/1.5 has B1+1SD reactive (two rolled, one retained), B2+1SD active, MSV1, Marksmanship and Warhorse. In +3 range against Partial Cover, target numbers are 16/16/13 vs no Mim/Mim-3/Mim-6, compared with Black A.I.R.13/13/13. Black A.I.R. B2 can retain two hits and imposes Mim-3 on non-MSV attackers; it also sees through ordinary Smoke without MSV1's -6. Bolt's accuracy and active utility often outweigh these advantages when KHD/CoC/Paramedic is already wanted. No defensive Mim, ARM2/W1 and no Sixth Sense in vanilla. Prefer MSR+CoC52/1.5 as a protected defensive team, or MSR+KHD48/1.5 for specialist/close control. BSG Duo45/1.5 is cheapest; ML+BSG43/1.5 or ML+CoC50/1.5 trades MSV for EXP/impact-template lethality. Do not expose CoC or buy an extra sniper merely for ARO.
+
+**Selection rule (25 November 2026):** Black A.I.R. Neurocinetics MSR (33/1.5) is the default premium standalone ARO. A matching Bolt MSR FT2 Duo has broadly comparable reactive performance (matchup-dependent), but its B2+1SD active shooting is substantially more useful than the B1 Black A.I.R. Choose the Bolt Duo only when the second Bolt earns its place independently, especially CoC; KHD or Paramedic are conditional if those roles are genuinely needed. A 19-point BSG/Drop Bears partner is not worth buying solely to gain +1SD: the 45/1.5 Duo costs 12 points more than Black A.I.R. and occupies a Duo slot. Both sniper choices are S-tier in their intended architectures; Bolt FT2 is S+ package value when its partner is already wanted, not a mandatory purchase. Solo Bolt is not the default dedicated ARO.
 
 ### Paramedic — medical comparison (24 November 2026)
 
