@@ -26,10 +26,44 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 
 ## Vanilla selection and use
 
-**S+ Lieutenant architecture.** The 45/1 LT is the default. Two Helot FTO LRL (10 each), Motorized Bounty Hunter BSG (8) and Warcor (3) cost 31/0 and can contribute four converted pooled Regular Orders when eligible and alive at Order Count. Three are useful cheap ARO/trading pieces in their own right; Warcor is exceptionally cheap. With Joan this is 76/1, five Regular Orders plus TA and one LT Order. Add Magistrate CoC21 for 97/1, or preferably a separate Bolt MSV1 MSR26 + Bolt CoC26 FT2 defensive Duo for a complete 128/2.5 seven-trooper shell (seven Regular Orders + TA + LT if all eligible).
-Treat Inspiring Leadership primarily as early-turn economy, not an assumed twelve extra Orders per game: Helots are expendable AROs, Moto Bounty has active trading work, and losses before the first Order Count (going second) can reduce conversion. Keep Joan protected early, then commit her as a second-wave attacker as the Irregulars disappear. CoC prevents Loss of Lieutenant when eligible, but cannot preserve Inspiring Leadership after Joan falls; later the surviving Warcor's Irregular Order can be converted with a Command Token if needed. CoC is a real cost (21–26 points), but a Bolt CoC also provides +1SD to its sniper and close defense. An eligible Joan/Helot Haris is optional, not required for leadership; stationary Helots can constrain Joan's assault, so keep them independent when appropriate. Joan CoC45/1.5 is situational B−, since Inspiring Leadership is dormant until she becomes LT; v1 remains Skip.
+**Verdict: A+ overall; S+ Lieutenant/order-economy architecture.** Default to the 45/1 Lieutenant. She is a second-wave assault piece, not an obligatory apex gunfighter. Preserve Joan v1 as Skip.
 
-**A+ active midrange assault / command engine.** LT45/1 AP Spitfire with TA, BS15, X Visor, Inspiring Leadership and 2W+NWI; 49/1 +1 Command Token conditional. Joan + two Helot FTO LRL is 65/1 FT2 Haris; +1SD applies to Joan too, though Helots constrain mobile assault. Other matching chart-eligible partners may grant FT2. TA activates the team with Joan as leader. Eligible non-Religious Irregulars benefit from Inspiring Leadership; keep CoC separately protected. Only one Joan. No persistent Mimetism; Swiss/TAG better generic long-range shooters.
+| Option | Pts/SWC | Vanilla priority |
+|---|---:|---|
+| 4 — Lieutenant | 45/1 | A+; default |
+| 5 — Lieutenant (+1 Command Token) | 49/1 | A−; pay four points only for a concrete token plan |
+| 6 — Lieutenant, Strategic Deployment | 51/1 | Normally skip; only consider a legal Family II forward-deployment team with a specific positional payoff |
+| 2 — Chain of Command, Non-Specialist | 45/1.5 | Skip by default; B− niche combat successor, leadership dormant until she becomes LT |
+| 3 — CoC, Strategic Deployment | 51/1.5 | Skip |
+
+### Inspiring Leadership and early-turn order economy
+
+Two Helot FTO LRL (10 each), Motorized Bounty Hunter BSG (8) and Warcor (3) cost **31/0** and can supply four converted Regular Orders. Two independent Camo LRL Helots (12 each) raise this to **35/0**. The Helots are cheap defensive AROs, the bike is a fast expendable trader/control piece with its own optional Impetuous activation, and Warcor supplies a Flash Pulse ARO. All are useful beyond their Orders.
+
+| Package | Pts/SWC | Troopers | Pooled Regular Orders | Additional Orders |
+|---|---:|---:|---:|---|
+| Joan + four Irregulars (FTO Helots) | 76/1 | 5 | 5 | TA + LT + bike Impetuous |
+| Same, Camo Helots instead | 80/1 | 5 | 5 | TA + LT + bike Impetuous |
+| FTO package + Magistrate CoC | 97/1 | 6 | 6 | TA + LT + bike Impetuous |
+| FTO package + Bolt MSR/CoC FT2 Duo | 128/2.5 | 7 | 7 | TA + LT + bike Impetuous |
+| FTO package + Magistrate CoC + Karhu Feuerbach NCO | 131/2.5 | 7 | 7 | TA + LT + bike Impetuous |
+| FTO package + Magistrate CoC + Cutter NCO | 194/3 | 7 | 7 | TA + LT + bike Impetuous |
+
+Camo alternatives add four points to the last four packages. Counts assume eligible troopers survive and generate Orders at Order Count; pooled Orders belong to their combat groups, not a single army-wide pool. Inspiring Leadership also grants eligible non-Religious troopers Courage, prevents Retreat while active, and permits a Coordinated Order including Joan using her LT Order alone (subject to normal Coordinated Order restrictions). No Fireteam is required for conversion.
+
+Treat the conversions primarily as early-turn economy, not twelve guaranteed extra Orders per game. Helots often die early, the bike has active trading work, and going second can reduce the first pool. Protect Joan early, then commit her more freely as the Irregulars disappear. If Joan falls, eligible CoC prevents Loss of Lieutenant but does not preserve Inspiring Leadership; convert a surviving Warcor's Irregular Order with a Command Token if useful.
+
+### Attack role, Fireteams and NCO
+
+BS15 AP Spitfire, X-Visor, 6–2 MOV, 2W+NWI, BTS6, Pulzar (+1B), MA3/EXP CCW and Tactical Awareness make Joan a strong mobile 8–24-inch assault piece and dangerous close-range finisher. ARM3, lack of Mimetism/MSV, hacking vulnerability and Frenzy after qualifying damage limit sustained exposed gunfighting. She is not a mission Specialist. Prefer Swiss HMG, Tikbalang, Cutter or Karhu Feuerbach to open difficult long-range lanes, then use Joan to exploit the gap.
+
+The corrected vanilla chart permits Family II Duo/Haris. Joan + two matching Helot FTO LRL is a legal **65/1 FT2 Haris**, including +1SD for Joan; her TA can activate the team with Joan leading. Static Helots can constrain her movement: keep them independent if their defensive arcs or her mobility matter more. Camo Helots cannot link. Other eligible matching partners (e.g. two Blade FTOs) can supply FT2 when a mobile Haris is genuinely useful. Strategic Deployment is therefore conditional, not universally useless.
+
+Joan has one ordinary LT Order and separate TA. Karhu Feuerbach34/1.5 (prefer FT2 Duo with useful Engineer/Paramedic when affordable), Karhu rifle22/0, Karhu Engineer25/0, Teutonic Spitfire29/1.5, Firefly Engineer23/0 and Cutter97/2 are possible NCO outlets. Spend the same LT Order on Joan, an eligible NCO, or her restricted Coordinated Order; never count it twice. TA remains hers (or her legal team when leading). This lets Joan stay protected without wasting her LT Order.
+
+### Succession
+
+Preferred standalone CoC: **Magistrate21/0** (Counterintelligence, Specialist). If already buying a Bolt sniper, prefer **Bolt MSV1 MSR26 + Bolt CoC26 = 52/1.5 FT2 defensive Duo**; CoC brings Drop Bears, close defense and +1SD to the sniper. Firefly CoC23/0 is situational, not a default. Keep the actual Lieutenant outside the successor's attack footprint. CoC is a real 21–26 point investment; it is justified by the aggressive command architecture, not by a guarantee of retaining regularized Orders.
 
 ## Original MO analysis — retained reference copy
 
