@@ -2,6 +2,8 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/aquila-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+**Selection: Situational / low purchasing priority — proxy first. HMG anti-Camo or Strategos FTO only for a deliberate plan.**
+
 ## Vanilla differences
 
 - **AVA:** 3 in NCA → 1 in vanilla.
@@ -19,11 +21,52 @@
 | 7 | 49 | 0 | **AQUILA FTO Lieutenant**; same as 5 |
 | 8 | 52 | +1 | **AQUILA FTO Lieutenant**; same as 5; Strategos L1 |
 
-## Vanilla selection and use
+## Vanilla selection and use — 25 November 2026
 
-**A− Strategos LT52/+1:** MSV3, Disco Baller, MMR, specialist and SWC rebate compress roles, but high cost and exposed command make it a conditional choice. Eligible Family I Duo is possible for FTO; do not assume a matching +1SD. Prefer Joan v2 or double Fusilier + Karhu as generic starts, or Magistrate19 if only Strategos is wanted. Non-Strategos LT49/0 generally skip in favor of the three-point upgrade.
+**Verdict: Situational / low purchasing priority (C+ overall); not a blanket Skip.** Normally field zero; proxy first. MSV3 is a real niche, but the roster has cheaper independent MSV2, Sensor and Eclipse tools, and stronger general-purpose apex guns.
 
-**A-tier HMG, situational anti-Camo.** BS15/MSV3 HMG52/1.5 counters marker-heavy/Mimetism-heavy armies, but Swiss56 is better generic asymmetric gun and Nisse31 supplies cheaper MSV2. FTO MMR/Disco49/0 specialist or Strategos LT52/+1 can form a mixed Family I FT1 Duo (e.g. Blade FTO BSG20/0, total 72/+1 for Strategos); not an NCA Haris and no +1SD. FTO MMR is a midrange mission/command enabler, not sustained HMG substitute. Magistrate19/0 is cheaper protected Strategos.
+| Opt | Profile | Pts / SWC | Selection |
+|---:|---|---:|---|
+| 3 | HMG | 52 / 1.5 | A — situational anti-marker attacker |
+| 5 | FTO MULTI MMR / Disco Baller Specialist | 49 / 0 | C — likely skip |
+| 7 | FTO MULTI MMR / Disco Baller LT | 49 / 0 | D — skip; Strategos upgrade is only 3 pts |
+| 8 | FTO MULTI MMR / Disco Baller Strategos LT | 52 / +1 | A− — conditional build-around; proxy first |
+
+### HMG: real niche, not the default gun
+
+MSV3 adds automatic Discover against CAMO, direct active-turn attacks against CAMO markers (apply the marker's Mimetism MOD), and Surprise Attack protection under the applicable LoF/CC conditions. MSV2 already removes the Mimetism of revealed targets and ordinary visibility modifiers. Choose Aquila specifically when marker clearance, BS15 and two Wounds justify the price, particularly against marker-heavy armies such as TAK.
+
+| Competing gun | Pts / SWC | Why choose it instead |
+|---|---:|---|
+| Nisse HMG | 31 / 1.5 | MSV2, Mim(-3), unhackable MI; saves 21 pts |
+| Griffin HMG | 37 / 1.5 | BS14, MSV1, 2W; cheaper durable long gun |
+| Karhu Feuerbach (+1B) | 34 / 1.5 | MSV1, Mim(-3), Climbing Plus, NCO, B3 AP+DA; saves 18 pts |
+| Swiss Guard HMG | 56 / 1.5 | BS15, Hidden Deployment, Camo, Mim(-6), ARM5/2W; better generic apex for 4 pts more |
+
+Aquila lacks Mimetism, AP on its HMG, NCO and Tactical Awareness; remains hackable HI. White Noise, Albedo and Eclipse limit its visor. Sensor from Fennec/Pathfinder offers a cheaper complementary marker-clearance route. Do not use the HMG as a routine ARO investment.
+
+### FTO MMR / Disco / command
+
+The FTO can form a legal mixed Family I FT1 Duo, e.g. Blade FTO BSG20/0 (69/0 with ordinary specialist or 72/+1 with Strategos). Shared movement and Eclipse help mission access, but no automatic +1SD; do not import NCA's Haris/FT2 bonuses. The HMG is not eligible. Eclipse blocks friendly MSV3 too.
+
+Black A.I.R. K1 MMR FO29/0.5 + Fennec FO/Sensor/Disco13/0 = 42/0.5: two Regular Orders, two specialists, MSV2/Mim(-3), Sensor and distributed vision control. Both are unhackable as ordinary targets of anti-HI/REM/TAG programs. Aquila retains higher BS, MSV3, personal durability and zero SWC on opt 5, but the distributed package is generally better value.
+
+Strategos LT52/+1 compresses active command, specialist scoring, Eclipse, MSV3 and a real SWC rebate; choose only when those roles will actually be used. Magistrate Strategos LT19/0 gives cheap protected command and Counterintelligence. Prefer Joan v2 or double Fusilier + Karhu as generic starts. Strategos converts the LT Order to Regular rather than creating an additional Order; NCO cannot use that converted Order as a separate LT Order. Consider protected CoC if the Aquila LT is intended to fight. Do not buy succession insurance merely to justify an already expensive LT.
+
+### Observed battle-report and tournament evidence
+
+Search of the 241 indexed N5 tactical reports by Aquila name identified the following three explicit appearances; Mainfinity is separately recorded in NCA listbuilding. This is a transcript/index search, not a complete tournament census or proof of actual pick rates; names may be missed in transcription.
+
+| Report | Faction / result | Observed use and limitation |
+|---|---|---|
+| [#038 — Hoplite Havoc 4](../../../battle-reports/031-040-n5-battle-report-tactical-analysis.md), [video](https://www.youtube.com/watch?v=DnKKQA5mY7w) | PanO 4–3 Nomads, Supremacy; April 2025-era N5 | Aquila MSV gun + Tikbalang/Crabbot gave complementary gun/quadrant pressure; TAG disabled by hacking but PanO won on scoring. Exact Aquila loadout unverified; early rules not current chart. |
+| [#227 — Evacuation](../../../battle-reports/221-230-n5-battle-report-tactical-analysis.md), [video](https://www.youtube.com/watch?v=NVN3qXXhsN4) | NCA 7–1 Ramah | Aquila FTO + Bolt MSV1 sniper + Shona Haris alongside Uhlan; gun network protected civilian routes while specialists scored. NCA Haris does not transfer to vanilla. |
+| [#102 — Hardlock](../../../battle-reports/101-110-n5-battle-report-tactical-analysis.md), [video](https://www.youtube.com/watch?v=DJmXoX260Vw) | NCA 1–7 Starmada | Independent Aquila alongside four-body Bolt team; exact profile and individual contribution unverified. |
+| [Mainfinity 2026](../../NCA/nca-listbuilding.md#aquila--more-than-bs15-msv3-shooter) | NCA tournament example | Aquila LT used Disco Baller late to reach remaining antenna: concrete mission utility, not proof of gun superiority. |
+
+Competitive opinion is mixed: [Swiss Miss Gaming](https://www.youtube.com/watch?v=sEGUAe3ddrQ) rates Aquila A in NCA; [Robert Shepherd](https://www.youtube.com/watch?v=axa19k7qE1E) questions the price of the Disco LT; [WIP12 E201](https://open.spotify.com/episode/3FT1No7zFHzpj7WC63hcCb) is more favorable to the Strategos option. These are NCA assessments, not verified vanilla pick rates.
+
+**Practical takeaway:** TAG + Aquila is a plausible complementary architecture (observed in #038 and #227), particularly when the TAG handles conventional heavy shooting while Aquila provides anti-marker or mission tools. Do not infer that the combination caused either win. HMG remains a niche counter; Strategos FTO merits testing if its rebate and mission roles matter. Low buying priority.
 
 ## Original NCA analysis — retained reference copy
 
