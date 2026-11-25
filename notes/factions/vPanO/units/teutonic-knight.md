@@ -2,11 +2,13 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/teutonic-knight.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+**Assessment: A− — 19/0 Specialist Operative is the preferred solo profile; cheap durable secondary attacker and scorer.**
+
 ## Vanilla differences
 
 - **AVA:** 3 in MO → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams:** no Teutonic access in the corrected vanilla chart (two Duos, one Haris army-wide). FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
 
 ## Pinned vanilla profiles
 
@@ -21,13 +23,61 @@
 | 6 | 29 | 1.5 | Spitfire, Pistol, DA CCW; X Visor, NCO |
 | 7 | 18 | 0 | Lieutenant; Light Shotgun, Panzerfaust, Pistol, DA CCW |
 
-## Vanilla selection and use
+## Vanilla selection and use — approved 25 November 2026
 
-**Vanilla NCO Spitfire29/1.5: B-tier secondary attacker**, especially if using cheap double Fusilier or Tik LT(+1). Karhu Feuerbach or Squalos/Cutter NCO are generally stronger default outlets; Limited Cover and no Mimetism/MSV constrain solo gunfights. LT18/0 is C-tier versus double Fusilier20 or Magistrate19: visible forward command and no extra LT Orders. Do not import the MO Knight Commander or sectorial links.
+**Verdict: A− for the 19/0 Specialist Operative; B for the shotgun variants; B− / usually skip the NCO Spitfire.** Keep the Teutonic as a cheap solo secondary attacker and mission piece. It fills the role of a durable HI warband rather than an apex gunfighter. One is worth considering in general-purpose lists; two are rarely necessary.
 
-AVA2 vs MO3, same six options. 19/0 SMG Specialist/Panzerfaust is a strong cheap standalone two-Wound close specialist, 18/0 LSG/Panzerfaust budget attack, 29/1.5 NCO Spitfire conditional. TinBot19 protects itself rather than a link; Impetuous is useful solo; Religious status matters for Inspiring Leadership.
+| Opt | Pts/SWC | Rating | Role |
+|---:|---:|---|---|
+| 5 | 19/0 | A− | Default: SMG/Panzerfaust, Specialist Operative |
+| 2 | 19/0 | B | Light Shotgun/Panzerfaust, personal Firewall (−3) |
+| 1 | 18/0 | B | Budget Light Shotgun/Panzerfaust assault or trade |
+| 6 | 29/1.5 | B− | Conditional NCO Spitfire/X-Visor secondary gun |
+| 3 | 28/1.5 | C | Usually skip the Missile Launcher/Zapper ARO |
+| 7 | 18/0 | Skip | Exposed Lieutenant; use a better command architecture |
 
-**Preferred vanilla profile — Option 5, Specialist Operative (19 pts / 0 SWC):** Cheap solo secondary attack piece and specialist. Use optional Impetuous movement to advance when safe, the SMG and DA CCW for close-range pressure, and the Panzerfaust for opportunistic anti-armor shots or AROs. Two Wounds and enhanced Dodge make it a useful independent mission runner and follow-up attacker after the primary gunfighter opens a route. No Fireteam or Lieutenant-order investment required. This profile appeared in the [Borderbash 2025 winning list](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhEVNhaW50IG9mIE1pbWl0aXNtgSwCAQEACQAqAQQAAITGAQMAAITGAQQAAAkBAgAAEwEBAAATAQEAAB4BBQAAhw8BBAAAhwwBAwACAQAGAIXNAQUAAIXNAQMAADIBAQAAhh0BAgAAhwsBBwAAhwsBCQA%3D), alongside Joan v2, Swiss Guard HMG and a Karhu Duo. Historical list example, not a current win-rate estimate. Prioritize this profile over the basic shotgun when a generic specialist is useful.
+### Why the Specialist Operative is the default
+
+- Regular Order plus an optional personal Impetuous activation; no Lieutenant-order or Fireteam dependency.
+- Two Wounds, ARM3, PH14, Dodge (+3) and Dodge (+1"): normally Dodge on 17 and move 3" on a successful Dodge, before applicable MODs. Limited Cover retains applicable saving-roll protection (ARM6 against ordinary ARM-based gunfire in Partial Cover), but does not impose the normal −3 BS MOD on the attacker.
+- MOV 6–2, CC22, Martial Arts L2 and DA CCW: useful for breaching, trading and close combat against vulnerable midfield pieces.
+- WIP13 generic Specialist Operative can operate objectives with a normal eligible Order; Impetuous is not a flexible extra Regular Order and cannot be used for console interaction.
+- SMG for short-range pressure or eligible Suppressive Fire; disposable Panzerfaust for opportunistic anti-armor shots or reactive threats. Preserve the Panzerfaust for meaningful targets.
+
+The [Borderbash 2025 winning list](https://infinitytheuniverse.com/army/list/ZQpwYW5vY2VhbmlhEVNhaW50IG9mIE1pbWl0aXNtgSwCAQEACQAqAQQAAITGAQMAAITGAQQAAAkBAgAAEwEBAAATAQEAAB4BBQAAhw8BBAAAhwwBAwACAQAGAIXNAQUAAIXNAQMAADIBAQAAhh0BAgAAhwsBBwAAhwsBCQA%3D) included this profile alongside Joan v2, Swiss Guard HMG and a Karhu Duo. Historical played-list evidence, not a current win-rate estimate.
+
+### Other profiles and opportunity cost
+
+- **TinBot 19/0:** one point above the basic shotgun buys personal hacking protection, not a Firewall for independent allies. Choose when the goal is close assault rather than mission interaction.
+- **Basic 18/0:** reasonable if exactly one point matters or a generic specialist is unnecessary. Otherwise buy the Specialist or TinBot.
+- **NCO Spitfire 29/1.5:** playable with spare LT Orders (especially Tikbalang LT(+1) or conventional Fusilier LT), but competing NCO pieces generally offer better returns. It contributes a Regular Order, may use available LT Orders via NCO, and has a restricted Impetuous activation; its Regular Order is not personal or guaranteed to remain available.
+- **Missile Launcher 28/1.5:** poor default ARO investment given Limited Cover and the absence of a linked bonus. Retain the existing pinned-profile discrepancy over possible BS Attack (−3); verify before relying on it.
+- **Lieutenant 18/0:** normally skip. A 20/0 Fusilier LT/decoy pair or 19/0 Magistrate Strategos LT offers better command architecture.
+
+| NCO comparison | Teutonic Spitfire | Karhu Feuerbach (+1B) |
+|---|---:|---:|
+| Pts/SWC | 29/1.5 | 34/1.5 |
+| BS / MOV | 13 / 6–2 | 13 / 6–2 |
+| W / ARM | 2 / 3 | 1 / 2 |
+| Key advantages | Impetuous, X-Visor, close combat | MSV1, Mimetism (−3), Climbing Plus, AP-capable gun, AP Mine |
+| Hackable | Yes | No |
+
+For five more points, [Karhu](karhu.md) is the usual NCO gunfighter priority, including independent use; a legal matching Duo is an additional option. The Teutonic Spitfire is a niche if its cheaper price, second Wound, Impetuous tempo or close combat materially matters.
+
+### Independent alternatives
+
+| Unit/profile | Pts/SWC | Extra activation | Specialist | Distinct role |
+|---|---:|---|---|---|
+| Teutonic SO | 19/0 | Impetuous | Yes | Durable CC/breach and mission runner |
+| [Pathfinder TA](pathfinder.md) | 17/0 | TA | FO | Sensor, Repeater, efficient mobile technical scoring |
+| [Blade-Ops BSG](blade-ops.md) | 20/0 | TA | No | Unhackable Mimetism (−3) assault, D-Charges |
+| [Moto Bounty Hunter](moto-bountyhunter.md) | 8–9/0 | Impetuous | No | Fast expendable template/control trader; Regular with eligible Joan LT |
+
+### Deployment and use
+
+Deploy behind total LoF-blocking terrain with a safe flank route. Take the optional Impetuous advance only when movement priorities and ARO exposure permit. Use a primary gunfighter to open lanes, then let the Teutonic handle dangerous objective interactions, close combat, opportunistic Panzerfaust shots or late-game movement. Avoid dedicated long-range ARO duels and enemy repeater coverage. Use its two Wounds to absorb calculated trades rather than sacrificing it indiscriminately. Limited access to Smoke makes delivery harder; Eclipse/Disco support can help if already part of the list, but do not spend several Orders merely to deliver a 19-point piece.
+
+**Listbuilding priority:** strong conditional inclusion, not mandatory. Excellent points efficiency and durability; adequate mission scoring; weak sustained conventional gunfighting. Prefer one Specialist Operative over a second redundant premium gun or fragile generic scorer when close combat and durability are the actual gaps. Already Regular; does not need Joan to generate its pooled Order.
 
 ## Original MO analysis — retained reference copy
 
