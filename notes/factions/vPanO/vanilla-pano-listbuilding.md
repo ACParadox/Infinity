@@ -967,6 +967,24 @@ Karhu Feuerbach + Engineer59/1.5, Paramedic58/1.5 or MULTI Rifle56/1.5 are legal
 
 ---
 
+## Helots — default cheap lethal defense
+
+**[Helot Militia](units/helots.md): S-tier / must-have defensive value.** AVA2. One-use Camo and Neurocinetics make independent versions excellent without a Fireteam; the corrected Family II chart also gives FTOs a strong linked alternative.
+
+| Selection | Pts/SWC | Use |
+|---|---:|---|
+| Camo SMG + LRL | 12/0 | S+ default solo defender; B2 Continuous Damage impact template / B3 SMG |
+| Camo Shock MMR | 13/0 | S complementary solo defender; B3 Shock, favorable 8–24-inch band |
+| Camo LRL + Camo MMR | 25/0 | Preferred independent pair with Joan; separate marker positions |
+| FTO LRL + FTO MMR | 21/0 | S FT2 Duo: B2+1SD / B3+1SD, Sensor; cheaper but no Camo |
+| Two FTO LRL | 20/0 | Alternative FT2 Duo, two template threats |
+
+**With Joan v2 LT:** normally take both Helots. Inspiring Leadership can convert two eligible Irregular Orders independently of Fireteam membership. A Camo pair + Warcor is 28/0 for three eligible Regular Orders; FTO pair saves four points and may gain +1SD if linked. Prefer independent Camo when covering different approaches or preserving Fireteam slots, FTO Duo when defending a coherent area with linked AROs. Do not tether Joan to static defenders merely for conversion.
+
+**Without Joan:** one Camo LRL is the default; add a second only if the Order pool supports it, or consider Patsy's conditional linked FT Master package. CoC does not inherit Inspiring Leadership. Expect early attrition; do not budget every Helot Order throughout the game.
+
+**Deployment:** cover secondary approaches, support models and favorable ranges instead of presenting BS11/ARM0/W1 turrets to an apex long-range gun. Their job is to consume enemy Orders, threaten clustered Fireteams and protect concealed Swiss/Cutter or the main army. Fugazi/Warcor offer disruption, RacerBot Mk-II close denial, Peacemaker/Zulu midfield control, and Sierra long-range coverage; Helots complement them. Red Fury and MSR are conditional SWC expenditures, not general-purpose defaults. FTO Sensor profiles remain useful even independently if cheaper Orders or Sensor are specifically needed. See the Fireteam-aware ARO ranking below for dedicated linked and long-range comparisons.
+
 ## ARO units — revised Fireteam-aware ranking (24 November 2026)
 
 **Authority:** [corrected vPanO roster and Fireteam charts](../../../sectorials/panoceania/panoceania.md#fireteams), [Fireteam bonuses](https://infinitythewiki.com/Fireteam_Bonuses), [Fireteam integrity](https://infinitythewiki.com/Fireteam_Integrity), [FT Master](https://infinitythewiki.com/FT_Master). Two Duos and one Haris; no Core. FT2 gives +1SD to all team members (roll an extra die, discard one), not extra retained Burst. FT3 also grants Discover/Dodge bonuses. Rank is overall listbuilding value with viable support, not a measured face-to-face probability or a mandatory inclusion order.
@@ -1038,7 +1056,7 @@ Only Helot FTO options can link, not Camo variants. Joan regularizes eligible He
 - Bolt MSR + CoC Duo and Helot LRL + MMR Duo = **73/1.5**, leaves Haris free; useful with aggressive Joan/TAG command.
 - If taking Swiss ML as main hidden gun, normally omit another premium dedicated sniper. Add cheap Helots/Fugazi, Zulu Jammer, Peacemaker or RacerBots as needed. Pilot-X can enhance Sierra BS/PH/BTS without consuming a Fireteam; do not buy him solely for the turret unless the hacking and REM support also matter.
 
-**Priority:** Karhu Feuerbach Duo and linked Helots by default when useful; Black A.I.R. for a standalone premium ARO; Bolt MSR+CoC (or KHD if genuinely needed) when a useful partner justifies the Duo and secondary active shooting. Griffin is situational, ORC remains Skip by default, and Patsy is B− rather than Skip: a credible non-Joan Helot engine with three conditional Regular Orders for 54–55/0. She can transition to solo close-range attack and scoring after her Helots have served their purpose, accepting team cancellation and loss of future FT Master conversion. NCO can use a conventional LT Order if not claimed by another NCO.
+**Priority:** Karhu Feuerbach Duo and Helots by default when useful (independent Camo for dispersed marker defense, linked FTOs for coherent +1SD defense); Black A.I.R. for a standalone premium ARO; Bolt MSR+CoC (or KHD if genuinely needed) when a useful partner justifies the Duo and secondary active shooting. Griffin is situational, ORC remains Skip by default, and Patsy is B− rather than Skip: a credible non-Joan Helot engine with three conditional Regular Orders for 54–55/0. She can transition to solo close-range attack and scoring after her Helots have served their purpose, accepting team cancellation and loss of future FT Master conversion. NCO can use a conventional LT Order if not claimed by another NCO.
 
 ## Common listbuilding traps
 
