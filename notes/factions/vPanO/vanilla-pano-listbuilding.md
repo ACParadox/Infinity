@@ -709,18 +709,26 @@ See [Doctors and Paramedics](#doctors-and-paramedics--recovery-priorities-24-nov
 
 ## Teutonic Specialist
 
-**[Specialist Operative, 19/0](units/teutonic-knight.md) — preferred cheap solo secondary attacker and specialist.** Two Wounds, 6–2 MOV, enhanced Dodge, optional Impetuous activation, SMG, Panzerfaust and DA CCW make it an economical follow-up attacker and objective runner without consuming a Fireteam slot or Lieutenant Order. Prefer this over the basic shotgun if generic scoring is useful. The Borderbash 2025 champion included this profile alongside Swiss HMG and Karhu Duo.
+**[Specialist Operative, 19/0](units/teutonic-knight.md) — A−, preferred cheap solo secondary attacker and specialist.** A durable HI warband: 2W, ARM3, MOV 6–2, PH14 with Dodge (+3/+1"), optional Impetuous activation, WIP13, SMG, Panzerfaust and MA2/DA CCW. Limited Cover retains applicable saving-roll protection but loses the enemy's −3 BS MOD. No Teutonic Fireteam access, no LT-order dependency; already Regular.
 
-Use it for jobs that your 40–100 point centerpiece should not waste Orders doing:
+Use it to handle jobs that your principal attacker should not spend Orders doing:
 
-- objective interaction;
-- clearing mines / deployables;
-- Panzerfaust pressure;
-- close combat against vulnerable targets;
-- absorbing one or two enemy Orders;
-- late-game movement toward scoring areas.
+- dangerous objective interactions (requires an eligible ordinary activation, not Impetuous);
+- opportunistic Panzerfaust shots, close combat and calculated trades;
+- secondary flank pressure after the main gun opens a route;
+- late-game movement, scoring and local Suppressive Fire where appropriate.
 
-This kind of cheap 2W utility repeatedly appears in successful lists because it fills the gap between passive cheap Orders and premium attack pieces.
+Deploy on a protected flank, skip unsafe Impetuous activations, and avoid dedicated ARO duels and hostile repeater coverage. Limited access to Smoke makes delivery a constraint; do not spend excessive Orders escorting a 19-point model.
+
+**Profile priority:** Specialist 19/0 A−; TinBot shotgun 19/0 B (personal Firewall only); basic shotgun 18/0 B; NCO Spitfire 29/1.5 B− / usually skip; ML 28/1.5 C; LT 18/0 skip. Prefer Karhu Feuerbach34/1.5 for sustained NCO shooting unless the Teutonic's cheaper cost, 2W and Impetuous mobility specifically matter.
+
+**Alternative cheap pieces:**
+
+- Pathfinder TA17/0: better for Sensor, Repeater projection and technical scoring.
+- Blade-Ops BSG20/0: better for unhackable conventional assault, Mimetism and a flexible personal TA Order.
+- Motorized Bounty Hunter8–9/0: better for expendable trading and fast template/control pressure, particularly with Joan LT.
+
+One Teutonic Specialist is worth considering in all-comers lists when durability and close combat are missing; two are rarely necessary. The Borderbash 2025 champion included it alongside Swiss HMG and a Karhu Duo, establishing a played example rather than a universal requirement.
 
 ---
 
@@ -987,7 +995,7 @@ Double Fusilier yields one more recurring usable Order with NCO than Magistrate 
 | Squalos MULTI HMG | 66/1.5 | A+ — TA + NCO, economical TAG |
 | Cutter MULTI HMG | 97/2 | A+ — apex NCO gun |
 | Firefly Engineer / Minelayer | 23/0 / 24/0 | A / B+ — independent utility; all Firefly profiles NCO |
-| Teutonic Spitfire | 29/1.5 | B — secondary solo gun; Limited Cover |
+| Teutonic Spitfire | 29/1.5 | B− / usually skip — conditional secondary solo gun; Limited Cover; prefer Karhu |
 | [Patsy](units/patsy.md) | 34/0 | B− — situational durable FO/NCO secondary attacker; particularly with Helots and no Joan |
 
 Karhu Feuerbach + Engineer59/1.5, Paramedic58/1.5 or MULTI Rifle56/1.5 are legal FT2 Duos; either NCO can spend an available LT Order as leader to move the team, but the other cannot spend that same Order. TA and NCO are separate restricted resources. Tik LT(+1) produces two LT Orders that can be shared with eligible NCO. All six NCO unit families above match the pinned roster.
@@ -1238,7 +1246,7 @@ Not all of these belong in every list, but these are the strongest recurring con
 - **Peacemaker** — midfield repeater / template pressure;
 - **Bulleteer** — cheap asymmetric attacker;
 - **Black A.I.R.** — default standalone premium ARO;
-- **Teutonic Specialist (19/0)** — cheap solo secondary attacker, 2W mission / breach piece, optional Impetuous advance;
+- **Teutonic Specialist (19/0)** — A−, cheap solo secondary attacker, 2W mission / breach piece, optional Impetuous advance; one usually sufficient;
 - **Bipandra** — improved Doctor / TA support;
 - **Blocker** — Sensor / hacking / info-war utility;
 - **Redeye** — mobility / geometry / Sensor tech;
@@ -1347,7 +1355,7 @@ These are practical lessons from the reviewed tournament submissions and battle 
 | [Magistrate CoC](units/magistrate.md), 21/0 | Preferred standalone succession in the tournament-winning Joan list; Bolt CoC remains preferred when already buying a Bolt MSR defensive Duo. |
 | [Cutter](units/cutter.md) | Primary TAG candidate for hidden apex shooting; NCO97/2 with protected conventional LT, or LT95/2 with a deliberate succession/order plan. |
 | [Swiss Guard HMG](units/swiss-guard.md), 56/1.5 | Proven independent apex gunfighter; Hidden Deployment, Mim-6 and 2W without Fireteam overhead. |
-| [Teutonic Knight Specialist](units/teutonic-knight.md), 19/0 | Standout cheap solo secondary attacker and specialist; 2W, optional Impetuous movement, SMG, Panzerfaust, DA CCW. No special-order or link dependency. |
+| [Teutonic Knight Specialist](units/teutonic-knight.md), 19/0 | A−; standout cheap solo secondary attacker and specialist; 2W, optional Impetuous movement, SMG, Panzerfaust, DA CCW. No LT-order or link dependency; one usually sufficient. |
 | [Banshee KHD](units/banshee.md), 23/0 | Strong competitive utility as a budget airborne KHD; alternate attack angle, enemy hacker pressure and specialist access. |
 | [Fennec Hacker](units/fennecs.md), 16/0.5 | Cheap defensive HD and FastPanda support; valuable secondary/budget hacker. Pilot-X remains the current preferred primary HD. |
 | Fennec FO/Sensor/Disco Baller, 13/0 | Cheap specialist, Sensor and visual-control utility; useful independently of a hacking or TAG plan. |
