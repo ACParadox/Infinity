@@ -21,11 +21,13 @@
 
 ## Vanilla selection and use
 
-**A-tier role-specific gunfighter/ARO.** K1 MMR FO29/0.5 gives MSV2, Mim-3, specialist and anti-armour; MSV2 Neurocinetics sniper33/1.5 is strong dedicated independent ARO, not sustained active gun. HD26/0.5 and DZ parachutist KHD31/0 situational. Bolt MSV1 MSR FT2 is often preferred dual-use long gun; Nisse HMG/MSR counters Mim-6 more directly. AVA1.
+**A-tier role-specific gunfighter/ARO.** K1 MMR FO29/0.5 gives MSV2, Mim-3, specialist and anti-armour; MSV2 Neurocinetics sniper33/1.5 is strong dedicated independent ARO, not sustained active gun. HD26/0.5 and DZ parachutist KHD31/0 situational. Bolt MSV1 MSR FT2 is preferred as a dual-use long gun only when its matching partner earns its place independently; Black A.I.R. is the default standalone premium ARO; Nisse HMG/MSR counters Mim-6 more directly. AVA1.
 
 ### ARO comparison after the corrected chart
 
 **S-tier dedicated independent visible ARO; A-tier overall role-specific choice.** Against an enemy in cover at +3 range, Black A.I.R. rolls B2 on BS13 against no Mimetism, Mim-3 or Mim-6; the FT2 Bolt MSR rolls B1+1SD on 16/16/13 respectively. Black A.I.R. imposes Mim-3 on opponents without MSV, retains both winning dice (up to two DA hits), sees through ordinary Smoke without the MSV1 penalty, and ignores Surprise Attack through Combat Instinct. The Bolt has superior accuracy when the enemy has cover and its own MSV, Warhorse against BS Attack (-X), Shock Immunity and BTS6, and B2+1SD active. With a suitable partner already wanted, the Bolt is generally the better dual-purpose purchase; Black A.I.R. remains the better dedicated standalone sniper and costs no link slot. Do not call it strictly better against all attackers. Bolt BSG Duo45/1.5, KHD Duo48/1.5, CoC Duo52/1.5 versus Black A.I.R.33/1.5; compare marginal gun cost and entire package separately. Nisse + two Helot FTOs is another MSV2 defensive option. No Fireteam bonus for Black A.I.R. in the visible chart.
+
+**Selection rule (25 November 2026):** Black A.I.R. Neurocinetics MSR (33/1.5) is the default premium standalone ARO. A matching Bolt MSR FT2 Duo has broadly comparable reactive performance (matchup-dependent), but its B2+1SD active shooting is substantially more useful than the B1 Black A.I.R. Choose the Bolt Duo only when the second Bolt earns its place independently, especially CoC; KHD or Paramedic are conditional if those roles are genuinely needed. A 19-point BSG/Drop Bears partner is not worth buying solely to gain +1SD: the 45/1.5 Duo costs 12 points more than Black A.I.R. and occupies a Duo slot. Both sniper choices are S-tier in their intended architectures; Bolt FT2 is S+ package value when its partner is already wanted, not a mandatory purchase. Solo Bolt is not the default dedicated ARO.
 
 ## Original kestrel analysis — retained reference copy
 
