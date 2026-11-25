@@ -132,59 +132,35 @@ Choose support purchases after defining the independently activating attack plan
 
 ## Joan v2
 
-Joan is one of the defining Vanilla PanO architecture pieces.
-
-Her value is not only combat power. She changes the economics of the entire list.
-
-She contributes:
-
-- real active-turn shooting;
-- Tactical Awareness;
-- Inspiring Leadership;
-- strong mobility;
-- very high-quality close combat;
-- several useful LT configurations;
-- command economy that makes Irregular troops materially better.
+**A+ overall / S+ command architecture:** the [45/1 Lieutenant](units/joan-v2-mobility.md) is a defining vanilla option. She combines Inspiring Leadership, TA and an independent BS15 AP Spitfire with 6–2 MOV, 2W+NWI, X-Visor and excellent close combat. The 49/1 extra Command Token is conditional (not an extra LT Order); CoC profiles are normally Skip because leadership is dormant until succession. Strategic Deployment is normally Skip unless a legal Family II team has a concrete forward positioning plan.
 
 ### Joan economy
 
-Joan increases the value of units such as:
+The full four-Irregular package is two FTO LRL Helots10 each, Motorized Bounty Hunter BSG8 and Warcor3 (**31/0**). The independent Camo LRL Helots12 each raise it to **35/0**. Each has real defensive or trading utility. Joan converts up to four eligible Irregular Orders to pooled Regular Orders, also grants eligible troops Courage, prevents Retreat while active and allows a Coordinated Order including Joan for only her LT Order.
 
-- Warcor;
-- Helots;
-- Motorized Bounty Hunter;
-- other inexpensive Irregular utility pieces.
+| Foundation | Pts/SWC | Troopers | Remaining points/SWC at 300/6 |
+|---|---:|---:|---:|
+| Joan + four Irregulars (FTO Helots) | 76/1 | 5 | 224/5 |
+| Same + Magistrate CoC | 97/1 | 6 | 203/5 |
+| Same 76/1 base + Bolt MSR/CoC defensive FT2 Duo | 128/2.5 | 7 | 172/3.5 |
+| Same 76/1 base + Magistrate CoC + Karhu Feuerbach NCO | 131/2.5 | 7 | 169/3.5 |
+| Same 76/1 base + Magistrate CoC + Cutter NCO | 194/3 | 7 | 106/3 |
 
-This means cheap models that would normally produce self-contained or awkward Orders become part of a usable army-wide economy.
+Camo Helots add four points to each foundation (e.g. Karhu 135/2.5 and Cutter 198/3). Each trooper can provide one Regular Order while eligible and alive, plus Joan's TA and one LT Order, and the bike's optional Impetuous activation. Pool by combat group. These are partial roster foundations, not complete lists; reserve sufficient budget for scoring, hacking, repair, and other mission tools.
 
-A strong architecture is:
+Treat this as early-turn economy: Helots are expendable AROs and the bike is meant to trade, not hide forever. Going second can reduce the initial conversion. Keep Joan safe early and commit as a second-wave attacker after the long-range gun opens lanes and as the Irregulars disappear. No Fireteam is necessary for Inspiring Leadership.
 
-> **Joan LT + cheap Irregular utility + protected CoC + NCO outlet where useful**
+### Joan attack and NCO plan
 
-Do not take cheap Irregular models simply because Joan can regularize them. Each one should still contribute a useful table role.
+Joan is a strong midrange/close-range attacker, not the best general-purpose opening gun: no MSV/Mimetism, ARM3, hacking exposure and Frenzy limit repeated fights. Swiss HMG, Tikbalang, Cutter or Karhu Feuerbach can clear difficult long-range AROs. Joan has one LT Order and a separate TA Order; route the LT Order to Joan, an eligible NCO (especially Karhu Feuerbach, Karhu Engineer/Paramedic, Cutter or a cheap Teutonic Spitfire), or the restricted Coordinated Order. Do not count the LT Order twice. A matching Karhu Duo adds +1SD and useful support when its second member is justified.
 
----
+Joan + two matching FTO LRL Helots is a legal **65/1 Family II FT2 Haris** with +1SD for Joan and TA team activation when she leads. The Helots are normally static AROs, so linking is optional and can constrain Joan's mobility. Independent Helots or two Blade FTOs in a mobile Haris can be preferable; use exact chart permissions. Camo Helots cannot link.
 
 ### Joan + Chain of Command
 
-The Bolt MSV1 MSR + CoC FT2 defensive Duo (52/1.5) is the preferred partner if already taking the sniper; the Magistrate CoC21/0 is the cleanest standalone alternative. See the revised Lieutenant architectures below.
+The Bolt MSV1 MSR + Bolt CoC FT2 defensive Duo (52/1.5) is preferred **when already taking the sniper**. The Magistrate CoC21/0 is the cleanest standalone alternative (Counterintelligence and Specialist). Firefly CoC23/0 is situational. Do not buy a Bolt sniper merely to justify a CoC partner.
 
-The important principle is:
-
-> **Do not put Joan and the CoC model in the same obvious attack footprint.** Keep the CoC separate unless an eligible link has a compelling tactical purpose.
-
-Otherwise the same:
-
-- template;
-- mine;
-- hacking area;
-- Guided attack;
-- DZ strike;
-- concentrated attack run
-
-can kill or disable both command models.
-
-Chain of Command is most useful when succession survives whatever killed the Lieutenant.
+CoC prevents Loss of Lieutenant when eligible but cannot retain Inspiring Leadership once Joan falls. Surviving eligible Irregulars revert; a Warcor Order can be converted with a Command Token if useful. Avoid exposing Joan and the successor to the same template, mine, repeater, Guided or DZ strike footprint.
 
 ---
 
@@ -961,6 +937,8 @@ Joan +1 Command Token49 is situational (not an extra LT Order); Strategic Deploy
 | Joan45 + two Helot FTO LRL10 + Moto Bounty BSG8 + Warcor3 | 76/1 | 5 | 5 | TA + LT |
 | Same + Magistrate CoC21 | 97/1 | 6 | 6 | TA + LT |
 | Same + Bolt MSV1 MSR26 + Bolt CoC26 FT2 Duo | 128/2.5 | 7 | 7 | TA + LT |
+| Joan FTO package + Magistrate CoC21 + Karhu Feuerbach34 | 131/2.5 | 7 | 7 | TA + LT (NCO optional) |
+| Joan FTO package + Magistrate CoC21 + Cutter NCO97 | 194/3 | 7 | 7 | TA + LT (NCO optional) |
 | Double Fusilier20 + Karhu Feuerbach34 + Engineer25 FT2 Duo | 79/1.5 | 4 | 4 | LT via NCO |
 | Magistrate Strategos19 + same Karhu Duo | 78/1.5 | 3 | 3 | LT via NCO OR pooled conversion |
 | Double Fusilier20 + Karhu Duo59 + Bolt MSR26/KHD22 FT2 Duo | 127/3 | 6 | 6 | LT via NCO |
