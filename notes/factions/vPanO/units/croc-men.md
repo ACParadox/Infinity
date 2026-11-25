@@ -1,5 +1,7 @@
 # Croc Men — Vanilla PanOceania (Infinity N5.3)
 
+**B+ — likely skip in vanilla.** Scarecrow normally replaces the specialist/ambush role; retain FO/Repeater and hidden MSR as conditional choices. Collection: 0–1.
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/croc-men.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
@@ -20,12 +22,22 @@
 | 5 | 26 | 0.5 | Boarding Shotgun, D-Charges, Shock Mine, Silenced Pistol, CCW; Minelayer |
 | 6 | 30 | 0 | Combi Rifle, Flash Pulse, D-Charges, Shock Mine, Silenced Pistol, CCW; Deployable Repeater, Forward Observer |
 
-## Vanilla selection and use
+## Vanilla selection and use — 25 November 2026
 
-AVA2 versus Varuna4; 26/0.5 BSG Minelayer, 30/0 FO/Repeater and 33/0.5 HD offer true Infiltration/Camo/Hidden Deployment/Mimetism(-6). Scarecrow FO25/0 and KHD27/0 are cheaper complementary mission/hacking options; Croc brings X Visor and mines. Sniper29/1.5 conditional hidden ARO. No link.
+| Opt | Pts/SWC | Grade | Selection |
+|---:|---|---|---|
+| 6 | 30/0 | A− | FO/Repeater: niche equipment-rich hidden scorer |
+| 3 | 29/1.5 | B+ overall; A situational ARO | Hidden sniper with unusual lateral lanes |
+| 5 | 26/0.5 | B | Infiltrating Shock Mine Minelayer |
+| 4 | 33/0.5 | B− / usually skip | HD: prefer Scarecrow HD29/0.5 |
+| 2 | 25/0 | Skip | Basic shotgun ambush |
 
-### Revised ARO role
-MSR29/1.5 is A-tier situational hidden ARO: B1, Mim-6, X Visor, Infiltration and Shock Mine allow unusual lateral lanes. It cannot link. Choose for hidden geometry rather than conventional ARO (Black A.I.R. or linked Bolt/Nisse); Swiss ML is the durable premium concealed gun. FO/Minelayer remain preferable for general mission use.
+- **FO/Repeater:** unique combination of Combi Rifle, X Visor, Shock Mine, deployable Repeater, D-Charges, Infiltration and Hidden Deployment. Worth considering if the full toolkit matters. Scarecrow FO25/0 or KHD27/0 are more economical scoring/assassination options, with BS13, BTS3 and a Nanopulser instead of BS12/BTS0. Repeater placement requires an Order.
+- **HD:** costs four points more than Scarecrow HD and is less resilient in hacking duels. Its Combi/X Visor and mine do not usually justify the premium.
+- **Minelayer:** competes with Scarecrow AP Minelayer27/0.5 (better BS, BTS and template; different ammo) and Zulu MMR/E/M Minelayer26/0.5 (better all-round medium-range attacker and E/M denial). Croc retains deeper placement and X Visor.
+- **MSR:** A-tier for the specific concealed ARO role, B+ as an overall listbuilding purchase. B1, Mim(-6), X Visor, Infiltration and Shock Mine enable unusual lateral lanes. It cannot link. Choose for hidden geometry rather than conventional ARO; Black A.I.R. or linked Bolt/Nisse are stronger conventional choices, Swiss ML is the durable premium concealed gun.
+
+Unlike Varuna, vanilla can field Scarecrows; the Croc's core scoring/hacking roles are no longer default purchases. Zulu Jammer/Sensor and MMR Minelayer are complementary utility choices, not direct Croc equivalents. Hidden Deployment can withhold the pooled Regular Order. See [midfield comparison](../vanilla-pano-listbuilding.md#midfield-skirmishers--scarecrow-zulu-cobra-and-croc-men).
 
 ## Original Varuna analysis — retained reference copy
 
