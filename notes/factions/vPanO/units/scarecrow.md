@@ -1,12 +1,14 @@
 # Scarecrows Active Recon Group — Vanilla PanOceania (Infinity N5.3)
 
+**S — strongly recommended.** Default KHD27/0; HD29/0.5 is a strong conditional forward hacking alternative. Aim for two models, usually field one.
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/scarecrow.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (corrected vanilla chart):** this unit is not listed in either family; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -20,11 +22,25 @@
 | 4 | 27 | 0.5 | Boarding Shotgun, Nanopulser, D-Charges, AP Mine, Silenced Pistol, CCW; Minelayer |
 | 5 | 25 | 0 | SMG, Nanopulser, D-Charges, Flash Pulse, Silenced Pistol, CCW; Forward Observer |
 
-## Vanilla selection and use
+## Vanilla selection and use — 25 November 2026
 
-**KHD A+ preferred over HD B+.** The 27/0 KHD is an independent infiltrating mission specialist and anti-hacker threat: Hidden Deployment, repeatable Camouflage, Mim(-6), BS13, D-Charges and Nanopulser. It saves 2 points and 0.5 SWC versus HD29/0.5. Pilot-X normally provides full HD coverage from safety; Scarecrow KHD adds a concealed forward vector without duplicating that role. The HD remains worthwhile only for a deliberate hidden anti-HI/TAG ambush or second full-device axis. Neither carries a Pitcher or Firewall; compare Zulu KHD for renewable marker/network utility and Locust KHD for Firewall/Pitcher. Hidden Deployment can withhold the pooled Order.
+| Opt | Pts/SWC | Grade | Selection |
+|---:|---|---|---|
+| 3 | 27/0 | **S** | KHD: default independent assassin, counter-hacker and objective specialist |
+| 2 | 29/0.5 | A+ conditional | HD: hidden forward anti-HI/TAG and Spotlight axis |
+| 5 | 25/0 | B+ | FO: mission requirement, avoiding Hacker vulnerability or tight points |
+| 4 | 27/0.5 | B | Minelayer: deliberate hidden close-range ambush |
+| 1 | 26/0 | Skip | Non-specialist Repeater carrier; prefer other network pieces |
 
-25/0 FO, 27/0 KHD, 27/0.5 Minelayer and HD29/0.5 are independent midfield tools. AVA2 rather than Kestrel3; compete with Croc Men (X Visor/mines/repeaters), Zulu (Pitcher/KHD) and Locust. Hidden Deployment can withhold Order until revealed per rules.
+- **KHD:** BS13, BTS3, Infiltration, Hidden Deployment, repeatable Camo, Mim(-6), SMG, Nanopulser and D-Charges make the 27/0 profile the best independent short-range skirmishing specialist of the three. Trinity and Cybermask justify the 2-point premium over FO in most missions.
+- **HD:** beats Croc HD33/0.5 on cost, BS and BTS, and adds a template. A+ for the specific hidden forward HD role, not a replacement for Pilot-X as the default primary network HD. Usually prefer KHD if Pilot-X already covers standard programs.
+- **Zulu KHD26/0:** better persistent Pitcher carrier and medium-range rifle; Scarecrow is the better infiltrating assassin/scorer. Neither is a universal replacement for the other.
+- **Croc FO30/0:** has longer rifle reach, X Visor, mines and a deployable Repeater, but the Scarecrow FO/KHD are normally better value. Croc HD is usually outclassed.
+- **Minelayer:** Zulu MMR/E/M Minelayer26/0.5 is normally the better all-purpose gun/denial piece. Scarecrow's hidden infiltration and AP Mine are useful for a deliberate close-range trap.
+
+**Default package:** Scarecrow KHD + Zulu Jammer/Sensor = 50/0; add Zulu MMR Minelayer for 76/0.5. A second Scarecrow KHD is viable for objective-heavy missions. HD + Zulu KHD/Pitcher + Zulu Jammer = 78/0.5 when a dedicated forward hacking plan is desired.
+
+Hidden Deployment withholds the pooled Regular Order until revealed; start as an ordinary Camo marker when order economy matters. Neither Scarecrow hacker has a Pitcher or Firewall. All profiles remain independent under the corrected vanilla chart. See [midfield comparison](../vanilla-pano-listbuilding.md#midfield-skirmishers--scarecrow-zulu-cobra-and-croc-men).
 
 ## Original kestrel analysis — retained reference copy
 
