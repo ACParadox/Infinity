@@ -351,64 +351,51 @@ Use when:
 
 ---
 
-## Zulu-Cobra
+## Midfield skirmishers — Scarecrow, Zulu-Cobra and Croc Men
 
-Zulu-Cobra is one of the cleanest Vanilla midfield/control pieces.
+**User-approved selection, 25 November 2026.** [Scarecrow](units/scarecrow.md) S, [Zulu-Cobra](units/zulu-cobra.md) S, [Croc Men](units/croc-men.md) B+ / likely skip. All three have AVA2 and remain independent under the corrected vanilla Fireteam chart.
 
-### Sensor / Jammer
+| Unit | BS/BTS | Deployment | Mimetism | Core value |
+|---|---|---|---|---|
+| Scarecrow | 13/3 | Infiltration, Hidden, Camo | -6 | Independent assassin and mission specialist |
+| Zulu-Cobra | 13/3 | FD(+10 cm), Camo | -3 | Jammer/Sensor, MMR/E/M Minelayer, KHD/Pitcher |
+| Croc Man | 12/0 | Infiltration, Hidden, Camo | -6 | X Visor, Shock Mines, hidden MSR, FO/Repeater |
 
-This is the default utility choice.
+### Zulu-Cobra
 
-Use it to:
+- **Jammer/Sensor23/0 — S:** default. Sensor and Triangulated Fire handle marker threats; Jammer adds Isolation threat and approach denial. Does not need kills to justify its cost.
+- **MULTI MMR/X Visor/E/M Minelayer26/0.5 — A+:** preferred combat Zulu and best general-purpose Minelayer of the three. AP access, BS13 and E/M denial are valuable even after deployment. Prefer to Spitfire27/1 (B) unless sustained B4 is specifically required.
+- **KHD/Pitcher26/0 — A+ overall, S as network KHD:** persistent Camo/Pitcher carrier with a useful Breaker Combi. Preferred network complement to Pilot-X; compare [Pitchers](#pitchers--comparison-and-packages). Scarecrow is better for independent short-range assassination/scoring.
+- **Jammer LT23/0 — A− overall, A defensive LT:** useful concealed command alternative; do not expose command merely for utility.
+- **FO24/0 — likely skip:** Scarecrow FO25/0 adds deeper deployment, Hidden, Mim(-6), template and D-Charges for one point.
 
-- pressure Camo / markers;
-- control approach routes;
-- punish enemies trying to bypass your long-range guns through the midfield;
-- protect the gap between your deployment zone and the main firefight.
+### Scarecrow
 
-The Zulu does not need to kill anything to be efficient. Making movement awkward is already valuable.
+- **KHD27/0 — S:** default independent close-range assassin, counter-hacker and infiltrating specialist. BS13, BTS3, Mim(-6), hidden/repeatable Camo, SMG, Nanopulser and D-Charges; two points over FO buys Trinity and Cybermask.
+- **HD29/0.5 — A+ conditional:** strong hidden forward HD, superior to Croc HD33/0.5; Pilot-X remains preferred primary HD. Buy Scarecrow HD when a concealed anti-HI/TAG or Spotlight axis is worth the extra investment; otherwise KHD.
+- **FO25/0 — B+:** best-value infiltrating FO of the three; prefer KHD unless FO-specific mission, Hacker avoidance or points dictate.
+- **Minelayer27/0.5 — B:** hidden close-range AP Mine ambush, generally prefer Zulu MMR for broader combat utility.
+- **Repeater26/0 — skip:** non-specialist requiring placement; prefer a more purposeful network piece.
 
----
+### Croc Men — likely skip
 
-### KHD / Pitcher
+- **FO/Repeater30/0 — A−:** niche hidden scorer with Combi, X Visor, Shock Mine, D-Charges and deployable Repeater; pay premium only when the combined toolkit matters.
+- **MULTI Sniper29/1.5 — B+ overall, A situational ARO:** unusual concealed lateral lane rather than conventional sniper. Swiss ML is the premium concealed alternative; Black A.I.R. or supported Bolt/Nisse cover conventional ARO.
+- **Minelayer26/0.5 — B:** deeper Shock Mine placement and hidden ambush, but Zulu MMR has broader utility and Scarecrow AP Minelayer adds a template and better BS/BTS.
+- **HD33/0.5 — B− / usually skip:** Scarecrow HD saves four points, improves BS/BTS and adds Nanopulser; Croc's Combi/X Visor and mine rarely justify the premium.
+- **Basic BSG25/0 — skip:** non-specialist with no initial mine placement.
 
-Take when the list has a real hacking plan. See [Pitchers — comparison and packages](#pitchers--comparison-and-packages) for profile-specific priorities; the Zulu KHD cannot itself use regular HD control programs.
+### Recommended midfield packages
 
-Good when:
+| Package | Pts/SWC | Purpose |
+|---|---:|---|
+| **Scarecrow KHD + Zulu Jammer/Sensor** | **50/0** | Default balanced independent midfield |
+| Above + Zulu MMR Minelayer | 76/0.5 | Medium-range AP attack and E/M denial |
+| Above (50/0 base) + Zulu KHD/Pitcher | 76/0 | Network projection plus two KHD specialists; add HD elsewhere as needed |
+| Scarecrow HD + Zulu KHD/Pitcher + Zulu Jammer | 78/0.5 | Deliberate concealed forward HD and network plan |
+| Two Scarecrow KHDs | 54/0 | Two independent scoring/assassination vectors |
 
-- projected repeater coverage matters;
-- Hackable targets are likely;
-- Spotlight / control states are valuable;
-- another repeater angle materially changes enemy movement.
-
-Do not take it merely to satisfy a vague idea that every list needs a Hacker.
-
----
-
-### Spitfire / combat Zulu
-
-Useful as an independent Camo attack piece.
-
-Take it when:
-
-- the list already covers Sensor / Jammer;
-- another medium-range attack vector is more useful than utility;
-- you want a self-contained flanker that does not consume a Fireteam.
-
----
-
-### X-Visor MMR / Minelayer
-
-A lesser-used but strong flexible choice.
-
-It combines:
-
-- midfield gunfighting;
-- range-band flexibility;
-- Minelayer / area denial;
-- marker-state deployment pressure.
-
-This is particularly useful if the list already has a Sensor piece and wants another autonomous threat.
+Two Zulus maximum: choose between Jammer, MMR and KHD. Start with one Scarecrow KHD and one Zulu Jammer if the mission permits; neither is mandatory. Hidden Deployment can withhold pooled Orders, so deploy as ordinary Camo when order economy matters. KHD cannot provide standard HD control programs. Collection priority: two Scarecrows, two Zulus, zero or one Croc.
 
 ---
 
@@ -752,7 +739,7 @@ Its higher cost means it should be selected for a deliberate mission / matchup r
 
 ---
 
-## Hackers and Killer Hackers — vanilla selection (24 November 2026)
+## Hackers and Killer Hackers — vanilla selection (updated 25 November 2026)
 
 User-refined profile priorities; these are tactical judgments, not changes to the pinned roster. No Fireteam bonuses are assumed. Prefer one primary HD, one purposeful KHD and a secondary HD only when justified.
 
@@ -763,14 +750,14 @@ User-refined profile priorities; these are tactical judgments, not changes to th
 | [Pilot-X](units/pilot-x.md) | 21/1 | **S+** | Preferred primary HD; Zero Pain, BTS6, RemDriver and Mk-III access |
 | [Fennec](units/fennecs.md) | 16/0.5 | A | Cheap secondary HD or budget primary; FastPanda and E/Mitter |
 | [Locust Pitcher](units/locust.md) | 29/0.5 | A− | Conditional self-contained offensive HD/Pitcher, Firewall, Hidden Deployment |
-| [Scarecrow](units/scarecrow.md) | 29/0.5 | B+ | Hidden infiltrating HD; usually prefer KHD |
+| [Scarecrow](units/scarecrow.md) | 29/0.5 | A+ conditional | Best hidden infiltrating HD of the three skirmishers; usually prefer KHD with Pilot-X |
 | Locust one-use Camo | 31/0.5 | B | No Pitcher; usually prefer other Locust profiles |
 | [Banshee](units/banshee.md) | 25/0.5 | B | Prefer airborne KHD |
 | [Bolt](units/bolts.md) | 24/0.5 | B− | BTS6, WIP12; situational |
 | [Blocker](units/blockers.md) | 19/0.5 | B− | AVA1 opportunity cost; choose 15/0 Pitcher Specialist instead |
 | [Firefly](units/firefly.md) | 24/0.5 | C | NCO/BTS6 insufficient to justify premium; usually pass on HD |
 | [Black A.I.R.](units/black-air.md) | 26/0.5 | C | Prefer other profiles |
-| [Croc Man](units/croc-men.md) | 33/0.5 | C | Prefer Scarecrow for this role |
+| [Croc Man](units/croc-men.md) | 33/0.5 | B− / usually skip | Prefer Scarecrow for this role |
 | [Swiss Guard](units/swiss-guard.md) | 56/0.5 | Skip | Reserve AVA for HMG or other primary role |
 | [Fusilier](units/fusilier.md) | 15/0.5 | Skip | Fennec only one point more |
 | [Nøkken](units/nokken.md) | 27/0.5 | Skip | Outclassed |
@@ -784,7 +771,7 @@ Mulebot EVO 14/0.5 is a separate REM/Combat Jump support role, not a substitute 
 | Profile | Pts / SWC | Grade | Selection |
 |---|---:|---|---|
 | [Zulu-Cobra](units/zulu-cobra.md) | 26/0 | S | Practical persistent Camo/Pitcher specialist; preferred network complement |
-| [Scarecrow](units/scarecrow.md) | 27/0 | A+ | Preferred Scarecrow cyber profile; infiltrating concealed scorer |
+| [Scarecrow](units/scarecrow.md) | 27/0 | S | Preferred independent infiltrating assassin and concealed scorer |
 | [Banshee](units/banshee.md) | 23/0 | A+ | Best budget airborne KHD |
 | [Locust](units/locust.md) | 27/0 | A | Conditional Firewall/Pitcher alternative; no repeatable Camo |
 | [Black A.I.R.](units/black-air.md) | 31/0 | A | Parachutist (DZ) assassination vector |
@@ -1190,7 +1177,7 @@ A useful generic build order is:
 1. choose the **Lieutenant / NCO / CoC architecture**;
 2. choose one **primary attack engine** (consider Bolt/Karhu FT2 Duos first; Swiss/TAG for independent apex pressure; Nisse Haris when MSV2 and partners justify it);
 3. add one **qualitatively different secondary threat**;
-4. add **midfield control**;
+4. add **midfield control** (consider Scarecrow KHD + Zulu Jammer/Sensor 50/0 as a balanced pair);
 5. add **cheap Regular infrastructure**;
 6. add the appropriate **Engineer / Doctor / Hacker** support;
 7. add one **reactive tax piece** if needed;
@@ -1216,7 +1203,9 @@ Not all of these belong in every list, but these are the strongest recurring con
 - **Tikbalang** — efficient mobile TAG;
 - **Cutter** — apex assassin architecture;
 - **Squalos Mk-II** — strong conventional TAG / NCO engine;
-- **Zulu-Cobra** — midfield control / Sensor / Jammer / Camo attack;
+- **Zulu-Cobra** — S: Jammer/Sensor, MMR/E/M Minelayer or KHD/Pitcher;
+- **Scarecrow** — S: default KHD27/0, independent infiltrating assassin and scorer; conditional HD29/0.5;
+- **Croc Men** — B+ / likely skip; conditional FO/Repeater or concealed MSR;
 - **Bolts** — conditional first-choice FT2 precision MSR with independently useful CoC/KHD; otherwise Black A.I.R.; Marksmanship / Warhorse;
 - **Karhu** — first-choice FT2 NCO / MSV / Engineer / Feuerbach utility;
 - **Nisse** — MSV2 HMG solo or FT2 Haris with two matching partners, notably Blade FTOs;
