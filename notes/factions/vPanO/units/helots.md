@@ -2,6 +2,8 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/helots.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+**Verdict: Must-have / S-tier defensive value.** One Camo LRL is the default independent defender; two Helots are near-default with Joan v2 LT. FTO LRL/MMR are equally important when deliberately allocating a legal FT2 Duo/Haris to defensive fire. Preserve the corrected vanilla Fireteam chart.
+
 ## Vanilla differences
 
 - **AVA:** 3 in Varuna → 2 in vanilla.
@@ -27,6 +29,43 @@
 **Joan economy:** Two FTO LRL10/0 Helots supply two of the four potential Inspiring Leadership conversions, with useful independent Neurocinetics AROs. Their low price and likely early attrition make this primarily early-game Order economy: do not expect them to survive all three turns. A Joan v2 + two matching FTO LRL Haris65/1 is legal FT2, but independent positions often cover more angles and avoid holding Joan back; no link is required for Inspiring Leadership. Camo LRL12/0 remains a separate defensive option.
 
 AVA2 versus Varuna3; same seven options, including FTO Sensor profiles. Patsy/Helot Fireteam and conditional FT Master conversion are available; Joan LT can regularize eligible non-Religious Helots via Inspiring Leadership. 12/0 one-use Camo LRL and 10/0 FTO LRL are strong independent ARO investments; Red Fury15/1 or sniper17/1.5 conditional. Camo(1 Use) is not reusable.
+
+### Independent profile priorities
+
+| Profile | Pts/SWC | Native ARO Burst | Independent rating |
+|---|---:|---|---|
+| Camo SMG + LRL | 12/0 | SMG 3 / LRL 2 | S+ — default |
+| Camo Shock MMR | 13/0 | 3 | S — complementary |
+| FTO SMG + LRL, Sensor | 10/0 | SMG 3 / LRL 2 | A+ (S linked) |
+| FTO Shock MMR, Sensor | 11/0 | 3 | A (S linked) |
+| Camo Red Fury | 15/1 | 4 | A — conditional |
+| FTO Red Fury, Sensor | 13/1 | 4 | B+ (A+ linked) |
+| Camo MULTI Sniper | 17/1.5 | 2 | B — niche overall; strong dedicated long-range ARO |
+
+- Camo LRL: zero SWC, B2 Continuous Damage impact template in Blast Mode, B3 SMG at close range, one-use marker protection. Threatens clustered Fireteams and secondary approaches. Do not reveal unnecessarily.
+- Camo Shock MMR: B3 Shock, especially useful at 8–24 inches against individual infantry; complements LRL.
+- For independent deployment, the two-point Camo premium is normally worthwhile. Choose FTO for cheaper order generation, Sensor, or legal Fireteam bonuses. Red Fury/MSR consume scarce SWC and are not defaults.
+- Neurocinetics limits active shooting to B1; BS11/ARM0/W1 make these disposable defenders, not active attackers. Smoke, long range, high negative MODs and direct templates can defeat them.
+
+### Selection with and without Joan
+
+| Package | Pts/SWC | Eligible pooled Orders with Inspiring Leadership |
+|---|---:|---:|
+| One Camo LRL | 12/0 | 1 |
+| Two Camo LRL | 24/0 | 2 |
+| Camo LRL + Camo MMR | 25/0 | 2 |
+| Camo LRL + Camo MMR + Warcor | 28/0 | 3 |
+| FTO LRL + MMR Duo | 21/0 | 2 |
+
+With Joan, normally take two: Camo LRL + MMR for separate concealed angles, or FTO LRL + MMR / two LRL when a linked defensive position is more valuable. Without Joan, default to one Camo LRL, adding a second only if the Regular Order pool and troop slots permit (or a deliberate Patsy FT Master package). Inspiring Leadership does not require a Fireteam; CoC prevents Loss of Lieutenant but does not preserve Joan's conversion. Expect early attrition rather than guaranteed income across three turns.
+
+### Defensive deployment and alternatives
+
+Cover secondary approaches and favorable range bands, not the main long-range lane against apex shooters. Protect LT, hackers and support, punish follow-up movement and cover approaches while Swiss Guard or Cutter remains concealed. Separate independent markers to prevent a single attack clearing both; for FTO links respect Coherency and avoid clustering. Success is measured in enemy Orders spent or routes denied, not just kills.
+
+Helots offer cheap, non-Hackable lethal reactive pressure without active-turn investment. Fugazi/Warcor provide inexpensive Flash Pulse disruption and Fugazi adds Regular Order/Repeater utility; RacerBot Mk-II offers PARA mine/Riotstopper denial; Peacemaker and Zulu-Cobra cover midfield approaches; Sierra covers longer lanes with B4 HMG. These are complementary rather than direct substitutes.
+
+**Ratings:** reactive combat S; active combat D; durability D; deployment protection A+ (Camo); points/SWC efficiency S+ (zero-SWC profiles); pooled Order economy C without conversion, S+ with Joan while eligible; independent operation S+.
 
 ### Linked ARO — S-tier value
 
