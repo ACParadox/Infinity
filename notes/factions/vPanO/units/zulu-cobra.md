@@ -1,12 +1,14 @@
 # Zulu-Cobra — Vanilla PanOceania (Infinity N5.3)
 
+**S — strongly recommended.** Jammer/Sensor23/0 is the default, MMR Minelayer26/0.5 is the preferred combat option, KHD/Pitcher26/0 is a strong network complement. Collection: two models.
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/zulu-cobra.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
 
 - **AVA:** 3 in Varuna → 2 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
-- **Fireteams:** none. FTO, Counts-as, Wildcard and linked-order recommendations do not transfer. Personal TA/NCO Orders cannot activate other independent models.
+- **Fireteams (corrected vanilla chart):** this unit is not listed in either family; remains independent.
 
 ## Pinned vanilla profiles
 
@@ -27,7 +29,23 @@
 
 **KHD/Pitcher 26/0 — S overall KHD/network choice (A+ as a Pitcher).** Preferred practical complement to Pilot-X when the list needs a KHD with persistent Camouflage, BS13, a Pitcher and independent mission play. Compare Locust KHD27/0 for Firewall/Hidden Deployment and Scarecrow KHD27/0 for Infiltration/Mim(-6). AVA2 means it competes with other Zulu profiles; no automatic second KHD. The Blocker remains the preferred dedicated Pitcher.
 
-AVA2 instead of Varuna3. 26/0 KHD/Pitcher and 23/0 Sensor/Jammer are independently efficient; 23/0 Camo LT is safer than exposed active LT. Fennec FO/Sensor/Disco, Scarecrow and Croc offer additional options; 24/0 FO is useful but FWD+10cm is less than Infiltration.
+### Midfield profile priorities — 25 November 2026
+
+| Opt | Pts/SWC | Grade | Selection |
+|---:|---|---|---|
+| 2 | 23/0 | **S** | Jammer/Sensor: default unique midfield control |
+| 6 | 26/0.5 | **A+** | MULTI MMR/X Visor/E/M Minelayer: preferred combat Zulu |
+| 3 | 26/0 | **A+ overall; S network KHD** | Pitcher/KHD: complement to Pilot-X or another HD |
+| 5 | 23/0 | A− overall; A defensive LT | Concealed command when specifically needed |
+| 1 | 27/1 | B | Spitfire: only when B4 attack is needed |
+| 4 | 24/0 | Likely skip | FO: Scarecrow FO25/0 or KHD27/0 normally preferred |
+
+- **Jammer/Sensor:** unique among these three units. BS13, repeatable Camo, Sensor, Triangulated Fire and Isolation threat provide defensive and information-control value without requiring kills. Default first Zulu.
+- **MMR Minelayer:** best general-purpose minelayer of the three; AP-capable medium-range rifle, X Visor, E/M Mine and BS13. Scarecrow and Croc can deploy deeper and hide, but the Zulu offers better all-round offensive/defensive compression. Prefer over Spitfire unless B4 is specifically required.
+- **KHD/Pitcher:** preferred for persistent network projection; Scarecrow KHD is better for independent short-range assassination and hidden objective access. Complementary, not redundant.
+- **FO:** only one point less than Scarecrow FO, which brings Infiltration, Hidden Deployment, Mim(-6), template and D-Charges. Prefer a Scarecrow unless FO-specific requirements, range or deployment geometry favor Zulu.
+
+AVA2 limits selection: choose two among Jammer, MMR and KHD rather than buying all three. Scarecrow KHD + Zulu Jammer = 50/0; adding MMR gives 76/0.5, adding KHD instead gives 76/0. See [midfield comparison](../vanilla-pano-listbuilding.md#midfield-skirmishers--scarecrow-zulu-cobra-and-croc-men).
 
 ### Vanilla Pitcher assessment — A+ (KHD 26/0)
 
