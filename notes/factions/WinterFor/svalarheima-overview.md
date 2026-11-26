@@ -8,7 +8,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -38,7 +38,7 @@ _The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current lis
 | [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 25 | S | Nøkken FO 22 or KHD 25 — PanO/WinterFor | Roster named in source |
 | [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 140 | A+ | Knight of Justice — HD 45/0.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 139 | A+ | Knight of Justice — HD 45/0.5 | Existing local profile match; verify exact variant |
 | [Pitchers — Unified ranking](../../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 17 | A+ | Locust KHD/Pitcher 27/0 or HD/Pitcher 29/.5 — eligible PanO lists | Existing local profile match; verify exact variant |
 | [Pitchers — Unified ranking](../../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 30 | A | Knight of Justice HD/Pitcher 45/.5 — Military Orders / eligible WinterFor | Roster named in source |
 | [2. Best Turn-0 network](../../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
