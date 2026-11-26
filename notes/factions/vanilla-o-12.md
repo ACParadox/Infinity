@@ -17,7 +17,7 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -70,7 +70,6 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 26 | A+ | Razor HD + Trinity 34/0.5 (O-12) | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 40 | A | Nightshade KHD 34/0 — O-12 | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 52 | A | Lynx KHD 29/0 — O-12 | Roster named in source |
-| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 65 | A | Banshee KHD 23/0 (O-12) | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 69 | B | Gangbuster KHD + MadTraps Minelayer 22/0 — O-12 | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 79 | B | Delta KHD 24/0 — O-12 | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 88 | B | Raptor KHD + Devabot 41/0 — O-12/Starmada | Roster named in source |
@@ -82,9 +81,9 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 74 | A+ | Crusher FO25/0 FD+20 or FO27/0 Combat Jump — O-12/Starmada; Crusher FO25/0 FD+20 or 27/0 Combat Jump — O-12/Starmada | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 82 | A+ | Lynx SO 27 or KHD 29 — O-12 | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 95 | A+ | Parvati Doctor + Engineer 36 — ALEPH/O-12 where legal | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 121 | A+ | Kyra Sharma Paramedic45/0 FTO or airborne52/0 — O-12 | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 163 | A | Kappa HD13 — O-12 | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 174 | A | Sirius FO + Repeater SiriusBot 21 — O-12 | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 120 | A+ | Kyra Sharma Paramedic45/0 FTO or airborne52/0 — O-12 | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 162 | A | Kappa HD13 — O-12 | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 173 | A | Sirius FO + Repeater SiriusBot 21 — O-12 | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 26 | A+ | Cyberghost HD+/Pitcher 21/.5 — O-12 / Starmada | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 11 | A+ | Team Sirius FO21/0 + Repeater SiriusBot — Vanilla O-12 | Roster named in source |
 | [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 8 | S | Oko FO/Sensor/native Repeater + Tactical Awareness 18/0 — O-12 / Torchlight as legal | Roster named in source |
