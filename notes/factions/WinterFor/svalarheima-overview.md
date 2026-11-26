@@ -6,7 +6,51 @@
 
 **What WinterFor does exceptionally well:** combine **oppressive conventional long-range AROs** with fast scoring and close-combat counterattack. A linked **Knight of Justice ML**, efficient Karhu NCO gun, or ultra-armored Jotum guards the first lane while Vargar Disco/Albedo, Hidden Locust and agile melee Wildcards solve the next. Particularly unusual is the allowance of **two Haris Fireteams**: WinterFor can split its attack into multiple credible modules.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 13 | S | Knight of Justice 46/1.5, ML(+1SD) — WinterFor | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 21 | A+ | Nisse 29/1.5 MSV2 MULTI Sniper — WinterFor | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 35 | A | Oktavia Grímsdóttir 23/1.5 Heavy Rocket Launcher — WinterFor/White Banner/Shasvastii | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 44 | A | Karhu 34/1.5 Feuerbach(+1B) — WinterFor | Roster named in source |
+| [Unified Chain of Command ranking](../../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 13 | A+ | Flight Officer Agnes Ferreira — 18/0; roster examples: Acontecimento; Svalarheima Winter Force | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 15 | — | Tech-Bee 9/0 — eligible PanO | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 13 | S | Liang Kai 21/0 — many eligible rosters | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 15 | S | Shona Carano 22/0 — eligible rosters | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 49 | A | Valkyrie HSG 28/0 — White Company/eligible | Existing local profile match; verify exact variant |
+| [Unified force multiplier ranking](../../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 2 | S | ALEPH / OSS Pilot-X RemDriver23/.5, optionally RacerBot Mk-III8/0 ×1–2 | Existing local profile match; verify exact variant |
+| [Unified force multiplier ranking](../../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 4 | S | Agnes Ferreira RemDriver16/0 — WinterFor / Acontecimento | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 15 | A+ | Nisse MSV2 HMG31/1.5 — PanO/WinterFor | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 23 | A+ | Karhu Feuerbach(+1B)34/1.5 — PanO/White Company | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 14 | A+ | Hannibal MULTI MMR29–30/0 — NCA/WinterFor | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 18 | A+ | Bulleteer Spitfire 22/1 — Varuna | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 35 | A+ | Richard Quinn MULTI MMR Forward Observer26/0 — NCA/Varuna/Kestrel/WinterFor | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 68 | A | Nøkken Spitfire 26/1.5 — WinterFor | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 18 | A+ | Jotum MULTI HMG82/1.5 — WinterFor | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 41 | A | Locust HD + Pitcher/Firewall(-3) 29/0.5 — NCA/SWF/PanO | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 44 | A | Knight of Justice HD with Pitcher 45/0.5 (MO/SWF) | Roster named in source |
+| [Unified Killer Hacker ranking](../../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 37 | A+ | Locust KHD + Pitcher/Firewall(-3) 27/0 — NCA/PanO | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 62 | A | Nøkken KHD 25/0 — Winter Force | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 7 | S | Peacemaker Heavy Shotgun/Pulzar + Auxbot-3 23/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 25 | S | Nøkken FO 22 or KHD 25 — PanO/WinterFor | Roster named in source |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 140 | A+ | Knight of Justice — HD 45/0.5 | Existing local profile match; verify exact variant |
+| [Pitchers — Unified ranking](../../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 17 | A+ | Locust KHD/Pitcher 27/0 or HD/Pitcher 29/.5 — eligible PanO lists | Existing local profile match; verify exact variant |
+| [Pitchers — Unified ranking](../../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 30 | A | Knight of Justice HD/Pitcher 45/.5 — Military Orders / eligible WinterFor | Roster named in source |
+| [2. Best Turn-0 network](../../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Roster named in source |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 11 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 20 | S | Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0 (WinterFor/Vanilla PanO) | Roster named in source |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 34 | S | Locust KHD+Pitcher/Firewall(-3) 27/0 or HD+Pitcher 29/.5 (PanO/WinterFor) | Roster named in source |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 81 | A+ | Richard Quinn FO+Disco or FO+MMR 26/0 (Varuna/WinterFor/NCA/Kestrel as legal) | Roster named in source |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 85 | A | Knight of Justice HD+Pitcher MMR 45/.5 or FO MMR 41/0 (Military Orders) | Existing local profile match; verify exact variant |
+| [Unified ranking — vision control units](../../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 25 | — | Vargar FO Disco 24/0 — WinterFor | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: C — #40 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Jotum, long-range AROs and two-Haris options make tough lanes, but expensive, relatively direct plans can struggle with flexible scoring.
 
