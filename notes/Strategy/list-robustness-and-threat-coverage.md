@@ -422,7 +422,7 @@ Common examples include:
 
 ## Role compression
 
-**Cross-faction unit selections:** [Jack-of-all-trades / Toolbox Units — N5.3 apex and points-value rankings](../list-building/jack-of-all-trades-toolbox-units-apex-value.md) compares actual multi-role solo pieces and legal small-team packages, including when paying for unused capabilities reduces reliability.
+**Cross-faction unit selections:** [Jack-of-all-trades / Toolbox Units — N5.3 apex and points-value rankings](../list-building/toolbox-units-rankings.md) compares actual multi-role solo pieces and legal small-team packages, including when paying for unused capabilities reduces reliability.
 
 
 
