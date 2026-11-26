@@ -25,6 +25,15 @@
 
 **Sectorial trade-off versus Vanilla ALEPH:** Steel Phalanx gains **linked Greek heroes, unique Greek command/vision combinations, Agamemnon and Scylla, stronger Myrmidon/Thorakitai/Ekdromoi availability and small specialist Fireteams**. It loses **Marut, Maximus, Asura, Posthumans, Danavas/Pilot-X and much of Vanilla's REM/hacking/independent-specialist breadth**. Steel Phalanx has **one normal-roster TAG (Agamemnon) and no normal-roster Vehicle (VH)**. Neither **Atalanta, Ajax, Scylla nor basic Myrmidon Smoke** should be described as an all-new game mechanic merely because the resulting profiles are exceptional.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **K2 Auxiliar** | E/Marat FTO11/0; airborne SO18/0 separate | [Warbands S #13](../list-building/warbands-ranking.md) · [Toolbox A+ #48 (SO)](../list-building/toolbox-units-rankings.md) · [Mission S+ #19 (SO)](../list-building/mission-specialists-ranking.md) · [Zone A #32 (FTO)](../list-building/objective-holding-ranking.md) · [Cheerleaders #2 (FTO)](../list-building/cheerleaders-ranking.md) · [DZ defense S+ #4 (FTO)](../list-building/dz-defenders-ranking.md) | Excellent cheap order/trader and distinct airborne scorer, not a conventional HI gun. The 12pt Mine Dispenser profiles are alternatives. Only use the legal local fireteam chart. |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: A — #16 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Mimetism-heavy Greek elites, Smoke/Eclipse, hard melee and compact Fireteams have explosive ceiling; limited cheap bodies make mistakes expensive.
