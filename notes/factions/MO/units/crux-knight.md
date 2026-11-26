@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned MO roster and Crux profiles](../../../../sectorials/panoceania/military-orders.md#team-crux-father-knights) · [MO Fireteam chart](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams analysis](../military-orders-fireteams.md) · [MO Listbuilding](../military-orders-listbuilding.md) · [Kestrel Crux analysis](../../kestrel/units/crux.md) · [Knight of Justice](knight-of-justice.md) · [Teutonic Knight](teutonic-knight.md) · [Hospitaller](hospitaller.md) · [Human Sphere](https://www.human-sphere.com/Team_Crux_Father-Knight). Reviewed 23 November 2026. Rankings are tactical judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden FD (+20) SO 47/0 (MO-specific entry) | **#58 · S** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden SO 47/0 (shared PanO/Kestrel/MO entry) | **#106 · A+** |
+
+The mission-specialist source currently lists the same 47/0 hidden specialist twice, once specifically for MO and once in a shared entry. Both ranks are reported rather than silently resolving the duplicate. The local preferred 46/0 MMR is a different profile.
+
 ## Profiles — exact MO roster and ranking
 
 **ID 1815 · AVA 1 · Regular HI · MOV 15–5 cm (~6–2in) · CC22 · BS14 · PH14 · WIP13 · ARM5 · BTS6 · W2 · S2.** All profiles have **Albedo (-6), BS Attack (+1SD), MA2, Natural Born Warrior, Berserk, Specialist Operative, Stealth and Religious Troop**. All carry **D-Charges and DA CCW (PS5)**. Crux's MULTI Marksman Rifle is **PS5**, not the generic MMR power; the separate MULTI Pistol is on the MMR/Spitfire options.

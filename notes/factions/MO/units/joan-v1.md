@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned Military Orders N5.3 roster — Joan v1](../../../../sectorials/panoceania/military-orders.md#joan-of-arc) · [Joan v2](../../../../sectorials/panoceania/military-orders.md#joan-of-arc-v2-mobility-armor) · [Crusade Fireteam chart](../../../../sectorials/panoceania/military-orders.md#ft-mo-03--crusade-fireteams) · [MO listbuilding](../military-orders-listbuilding.md) · [MO Fireteams](../military-orders-fireteams.md) · [Knight Commander](knight-commander.md) · [Inspiring Leadership](../../../../rules/5b_Special%20Skills/Inspiring_Leadership.md) · [Frenzy](../../../../rules/5b_Special%20Skills/Frenzy.md) · [Strategic Deployment](../../../../rules/5b_Special%20Skills/Strategic_Deployment.md). Reviewed 22 November 2026. Ratings and list examples are editorial tactical assessments, not tournament win-rate claims.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Fighting lieutenant](../../../list-building/LT-ranking.md) | v1 LT 47/+1 SWC (joint entry with v2) | **#2 · S** |
+| [Command lieutenant](../../../list-building/LT-ranking.md) | v1 LT 47/+1 SWC (joint entry with v2) | **#11 · A+** |
+
+The global joint entry favors v2 as the active AP-Spitfire fighter; v1's distinct advantage is the +1 SWC economy and protected command/secondary fighting. Do not apply the joint S rating to every v1 build.
+
 ## Exact N5.3 roster and profile priorities
 
 **ID 20 · AVA 1 · Regular HI · MOV 10–10 cm (4–4 in) · CC23 · BS15 · PH15 · WIP15 · ARM5 · BTS6 · W2 · S2.** All profiles have **Martial Arts L3, Inspiring Leadership, Frenzy, Stealth, NWI, Religious Troop, Tactical Awareness, Number 2, BS Attack (SR−1), X-Visor**. Weapons on **every** profile: **MULTI Rifle, Pulzar (+1B), Pistol, EXP CCW**. V1 is eligible for **Crusade Core/Haris/Duo only** and counts as a **Knight Hospitaller** there. Only one Joan may be selected across v1 and v2.

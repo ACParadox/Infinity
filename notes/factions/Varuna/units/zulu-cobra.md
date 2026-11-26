@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned N5.3 roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md#zulu-cobra) · [Listbuilding](../varuna-listbuilding.md) · [Fireteams](../varuna-fireteams.md) · [References](../varuna-references.md). Profile data audited against the pinned roster; ratings are tactical judgments (2026-11-24).
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 26/0 | **#48 · A** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | FO 24/0 or KHD 26/0 | **#87 · A+** |
+
+The KHD was promoted in the dedicated KHD guide; it remains a strong zero-SWC Pitcher/Trinity complement rather than a substitute for a full HD.
+
 ## Base profile
 
 **ID 1216 · LI · AVA 3 · Regular · no Fireteam access.**

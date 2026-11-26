@@ -2,6 +2,19 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/banshee.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 23/0 (source roster label requires correction) | **#65 · A** |
+| [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | LSG + Pulzar 19/0 or KHD 23/0 | **#12 · S** |
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | KHD 23/0 or HD 25/0.5 (Kestrel entry) | **#60 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | KHD 23/0 | **#177 · A** |
+
+The KHD guide's promoted row is labeled O-12, inconsistent with the pinned PanO profile. The rank is a same-loadout comparator pending roster-label correction; Kestrel-specific entries do not confer Fireteam benefits in vanilla.
+
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 2 in vanilla.

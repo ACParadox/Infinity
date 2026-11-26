@@ -2,6 +2,16 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/crux.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden SO 47/0 (shared PanO/Kestrel/MO entry) | **#106 · A+** |
+
+The hidden 47/0 profile is promoted in the mission guide. The separate #58 S entry is explicitly MO-specific and duplicates the shared row; do not transfer that rank to vanilla. Local preference remains the 46/0 MMR.
+
 ## Vanilla differences
 
 - **AVA:** 1 in kestrel → 1 in vanilla.

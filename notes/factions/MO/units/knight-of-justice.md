@@ -4,6 +4,18 @@
 
 **Sources:** [Pinned Military Orders N5.3 roster — exact KoJ profiles](../../../../sectorials/panoceania/military-orders.md#knight-of-justice) · [Pinned De Fersen](../../../../sectorials/panoceania/military-orders.md#father-officer-gabriele-de-fersen) · [Pinned Crux](../../../../sectorials/panoceania/military-orders.md#team-crux-father-knights) · [MO Fireteams](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Hospitallers](hospitaller.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [2026 report #160](../../../battle-reports/151-160-n5-battle-report-tactical-analysis.md) · [2026 report #221](../../../battle-reports/221-230-n5-battle-report-tactical-analysis.md) · [MO tactical and media review](../../../../sectorials/panoceania/military-orders.md#primary-transcript-audit--2026-10-19-mo--shared-pano-tagrem-tools) · [Human Sphere KoJ current profile](https://human-sphere.com/Knight_of_Justice) · [Human Sphere Crux profile](https://www.human-sphere.com/Team_Crux_Father-Knight). Reviewed 23 November 2026. Ratings are tactical judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 42/1.5 (MO entry) | **#45 · A** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 | **#140 · A+** |
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD/Pitcher 45/0.5 or FO 41/0 (MO entry) | **#85 · A** |
+
+The basic Spitfire is a strong global medium gun but remains a secondary choice in MO; the HD/Pitcher and FO variants compete on different roles. Do not import the WinterFor-specific ARO ranking into the MO rating.
+
 ## Exact pinned profiles and qualitative ranking
 
 **ID 1489 · AVA 2 · Regular HI · MOV 15–5 cm · CC23 · BS14 · PH14 · WIP13 · ARM5 · BTS9 · W2 · S2.** All profiles have **Martial Arts L2, Stealth, Religious Troop, Terrain (Mountain), Number 2**, Heavy Pistol and **DA CCW (PS5)**. **No Frenzy or Impetuous**: unlike a Hospitaller or Teutonic, a Justice can keep using normal cover without its attacking changing its state.

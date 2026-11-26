@@ -4,6 +4,16 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md#shadowcrow-operator--id-1942) · [November 25 SITREP](https://www.infinitytheclassifieds.com/sitrep) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) · [Combat Jump](../../../../rules/5b_Special%20Skills/Combat_Jump.md) · [Parachutist](../../../../rules/5b_Special%20Skills/Parachutist.md). Reviewed 26 November 2026. Ratings are provisional tactical judgments, not tournament results.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SO 24–31/0 (grouped entry; PanO 31/0) | **#24 · S** |
+
+The new global entry recognizes airborne Specialist Operative delivery. The Nomads 24/0 E/Marat and O-12/Next Wave/Yu Jing FTO gunfighter entries use different profiles, so their ranks and loadouts are not imported into the PanO rating.
+
 ## Pinned vanilla profile
 
 **ID 1942 · AVA 1 · Regular HI · Cube · Hackable · S2.**

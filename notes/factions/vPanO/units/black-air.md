@@ -2,6 +2,19 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/black-air.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | DZ Parachutist KHD 31/0 | **#24 · A+** |
+| [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | DZ Parachutist KHD 31/0 | **#31 · A+** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | K1 MMR FO 29/0.5 (Kestrel entry) | **#4 · S** |
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | Neurocinetics MULTI Sniper 33/1.5 (Kestrel Fennecs entry) | **#2 · S+** |
+
+The KHD deliberately retains A+ globally for its unique enemy-DZ entry. Kestrel-specific Fennec ARO/team and K1 FO comparisons are benchmarks, not vanilla Fireteam bonuses or independent vanilla ranks.
+
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 1 in vanilla.

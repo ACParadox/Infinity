@@ -4,6 +4,19 @@
 
 **Sources:** [Pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#black-air) (Army revision 7.26246.158) · [Fireteam chart](../../../../sectorials/panoceania/kestrel-colonial-force.md#fireteams) · [Kestrel Fireteam guide](../kestrel-fireteams.md) · [Listbuilding guide](../kestrel-listbuilding.md) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) · [Combat Instinct](../../../../rules/5b_Special%20Skills/Combat_Instinct.md) · [Parachutist](../../../../rules/5b_Special%20Skills/Parachutist.md) · [Fireteam bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md). Reviewed 21 November 2026. Ratings are tactical judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | DZ Parachutist KHD 31/0 | **#24 · A+** |
+| [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | DZ Parachutist KHD 31/0 | **#31 · A+** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | K1 MMR FO 29/0.5 (Kestrel entry) | **#4 · S** |
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | Neurocinetics MULTI Sniper 33/1.5 (Kestrel Fennecs entry) | **#2 · S+** |
+
+The KHD deliberately retains A+ globally because PanO's enemy-DZ Parachutist specialist threat is unique. No demotion is imported from the podcast; the local verdict and distinct profiles remain unchanged.
+
 ## Profiles and shared characteristics
 
 **AVA 3 · Regular MI · Elite · MOV 10-10, CC17, BS13, PH11, WIP13, ARM2, BTS3, VITA1, S2.** Shared **MSV2, Mimetism (-3), Combat Instinct, Number 2, Terrain (Total)**. The first three options can join FENNECS Core/Haris (maximum two Black A.I.R. per team); the DZ KHD cannot link. FTO profiles can also operate independently.

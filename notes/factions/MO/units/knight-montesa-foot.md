@@ -4,6 +4,16 @@
 
 **Sources (N5.3):** [Pinned Military Orders profiles](../../../../sectorials/panoceania/military-orders.md#knights-of-montesa) · [Canonical MO Fireteam chart](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Impetuous](https://infinitythewiki.com/Impetuous) · [Fireteam Integrity](https://infinitythewiki.com/Fireteam_Integrity) · [Fireteams: Basic Rules / rejoining](https://infinitythewiki.com/Fireteams:_Basic_Rules) · [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses) · [Forward Deployment](https://infinitythewiki.com/Forward_Deployment). Reviewed **22 November 2026**. Tactical ratings and example compositions are judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Objective holding](../../../list-building/objective-holding-ranking.md) | Foot FD (+20) BSG Paramedic 26/0 | **#23 · A+** |
+
+New objective-holding entry specifically rewards forward deployment and durable scoring. The 20/0 FTO Paramedic is a different option and remains the default where early midfield presence is not required.
+
 ## Verified profiles and role ranking
 
 **Unit ID 28 · AVA 1 · Regular HI · MOV 10–10 cm (4–4 in) · CC23 · BS13 · PH13 · WIP13 · ARM4 · BTS6 · W2 · S2.** All four profiles have **Martial Arts L2, Mimetism (−3), Impetuous, Limited Cover, Religious Troop, Terrain (Aquatic/Jungle), BS Attack (SR−1)** and a **DA CCW**. Do not merge weapons or equipment between loadouts. **Forward Deployment (+20 cm) is +8 inches**, not +20 inches.

@@ -4,6 +4,18 @@
 
 **Sources:** [Pinned Military Orders N5.3 roster — Joan v2](../../../../sectorials/panoceania/military-orders.md#joan-of-arc-v2-mobility-armor) · [Joan v1](joan-v1.md) · [Crusade / Velox Fireteam charts](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Knight Commander](knight-commander.md) · [N5.3 Inspiring Leadership](../../../../rules/5b_Special%20Skills/Inspiring_Leadership.md) · [N5.3 Chain of Command](../../../../rules/5b_Special%20Skills/Chain_of_Command.md) · [N5.3 NCO](../../../../rules/5b_Special%20Skills/NCO.md) · [N5.3 Strategic Deployment](../../../../rules/5b_Special%20Skills/Strategic_Deployment.md). Reviewed 22 November 2026. Ratings and examples are tactical judgments, not established tournament win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Fighting lieutenant](../../../list-building/LT-ranking.md) | v2 LT 45/1 (joint entry with v1) | **#2 · S** |
+| [Command lieutenant](../../../list-building/LT-ranking.md) | v2 LT 45/1 (joint entry with v1) | **#11 · A+** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | v2 LT AP Spitfire 45/1 | **#9 · A+** |
+
+V2 is the preferred active fighter; v1 offers the SWC-economy alternative. The global S fighting-LT placement is conditional on protecting command and making use of Inspiring Leadership/Tactical Awareness; it does not elevate every CoC or Strategic Deployment option.
+
 ## Exact pinned profiles and rankings
 
 **ID 42 · AVA 1 · Regular HI · MOV 15–5 cm (6–2 in) · CC23 · BS15 · PH14 · WIP15 · ARM3 · BTS6 · W2 · S2.** Every profile has **Martial Arts L3, Inspiring Leadership, Frenzy, No Wound Incapacitation, Stealth, Religious Troop, Tactical Awareness, Number 2, Terrain (Total), X-Visor**; weapons: **AP Spitfire, Pulzar (+1B), Pistol, EXP CCW**. None is automatically a mission Specialist. Only **one Joan** may be selected across IDs 20 (v1) and 42 (v2).

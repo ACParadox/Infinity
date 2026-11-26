@@ -4,6 +4,16 @@
 
 **Sources:** [Corrected pinned roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#team-crux-father-knights), [Kestrel Fireteams](../kestrel-fireteams.md), [Agent Maximus](maximus-agent.md), [Hetkari](hetkari.md), [Griffin](griffin.md), [current N5 profile](https://human-sphere.com/Father_Knight). Reviewed 21 November 2026. Ratings are tactical judgments, not win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden SO 47/0 (shared PanO/Kestrel/MO entry) | **#106 · A+** |
+
+The hidden 47/0 profile is promoted in the mission guide. The separate #58 S entry is explicitly MO-specific and duplicates the shared row; do not transfer that rank to Kestrel. Local default remains the 46/0 MMR.
+
 ## Profile rankings
 
 **AVA 1 · Regular HI · MOV 15-5 (approximately 6–2in), CC22, BS14, PH14, WIP13, ARM5, BTS6, W2, S2.** Shared Albedo (-6), BS Attack (+1SD), Martial Arts L2, Natural Born Warrior, Berserk, Specialist Operative, Stealth, Religious Troop, D-Charges and DA CCW (PS5).

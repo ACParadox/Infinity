@@ -2,6 +2,16 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/griffin.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Long-range gunfighter](../../../list-building/gunfighters-ranking.md) | HMG 37/1.5 (Kestrel entry) | **#39 · A** |
+
+The HMG was demoted to A in the global gunfighter comparison; the listed rank is the Kestrel profile, not an independently ranked vanilla variant. Vanilla has the same printed 37/1.5 HMG but cannot claim Kestrel Fireteam bonuses.
+
 ## Vanilla differences
 
 - **AVA:** 3 in kestrel → 2 in vanilla.

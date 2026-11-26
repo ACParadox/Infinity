@@ -4,6 +4,18 @@
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original MO analysis](../../MO/units/knight-of-justice.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1SD) 46/1.5 (WinterFor entry) | **#13 · S** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 42/1.5 (MO comparator) | **#45 · A** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 (MO comparator) | **#140 · A+** |
+
+The WinterFor ML remains a strong premium reactive choice. The MO medium-range and mission-specialist rows are same-loadout benchmarks, not independent WinterFor ranks or proof of identical Fireteam support.
+
 ## WinterFor differences
 
 AVA2 same; Wildcard max1 in SWF vs max2 in MO, no Hospitaller Counts-as in SWF. Same seven options and costs; SWF explicitly prints ML (+1SD) on opt1, absent from abbreviated MO reference, not necessarily a true sectorial skill difference. No MO Crusade, De Fersen or Crux comparisons as SWF choices.

@@ -2,6 +2,16 @@
 
 **Verdict: FTOs remain the priority; non-FTO Engineers improve to B−, still situational.** Retain S-tier FTO value in mobile NCA teams.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | NCA Engineer FD (+20) or Parachutist, 30/0 | **#80 · A+** |
+
+The forward and airborne Engineers are promoted for mission access; this is a specific 30-point non-FTO comparison, not a ranking of the 23-point FTO Engineer. The local team-first preference remains.
+
 ## Current profiles — 26 November 2026
 
 **ID 1751 · AVA 3 · LI · Regular** — MOV 10-10, CC16, BS13, PH10, WIP12, ARM2, BTS3, W1, S2. BS Attack (SR-1), Immunity (Shock), Mimetism (-3), Stealth, Terrain (Total), Tactical Awareness.

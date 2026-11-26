@@ -6,6 +6,16 @@
 
 **Current dedicated analysis:** [Foot Montesa](montesa-foot.md). This file retains the prior Varuna and MO reference material.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Objective holding](../../../list-building/objective-holding-ranking.md) | Foot FD (+20) BSG Paramedic 26/0 | **#23 · A+** |
+
+New objective-holding entry specifically concerns the foot FD Paramedic, not the motorized or FTO options. See also the [dedicated foot analysis](montesa-foot.md).
+
 ## Varuna differences
 
 AVA2 versus MO1, same four costs. Varuna prints BS Attack (+1SD) rather than MO SR-1. FTO option5 counts as Undertow max2; separate Forward Montesa Duo is exactly two foot Montesas, no FTO restriction.

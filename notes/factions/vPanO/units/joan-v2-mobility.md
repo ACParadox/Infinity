@@ -2,6 +2,18 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/joan-v2-mobility.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Fighting lieutenant](../../../list-building/LT-ranking.md) | v2 LT 45/1 (joint entry with v1) | **#2 · S** |
+| [Command lieutenant](../../../list-building/LT-ranking.md) | v2 LT 45/1 (joint entry with v1) | **#11 · A+** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | v2 LT AP Spitfire 45/1 | **#9 · A+** |
+
+V2 is the active fighting alternative; v1 instead offers SWC economy. The joint entry does not transfer MO Fireteam access to vanilla or imply the CoC profiles generate LT Orders.
+
 ## Vanilla differences
 
 - **AVA:** 1 in MO → 1 in vanilla.

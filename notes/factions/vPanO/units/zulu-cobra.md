@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md) · [Source unit analysis](../../Varuna/units/zulu-cobra.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 26/0 | **#48 · A** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | FO 24/0 or KHD 26/0 | **#87 · A+** |
+
+The KHD was promoted in the dedicated KHD guide; it remains a strong zero-SWC Pitcher/Trinity complement rather than a substitute for a full HD.
+
 ## Vanilla differences
 
 - **AVA:** 3 in Varuna → 2 in vanilla.

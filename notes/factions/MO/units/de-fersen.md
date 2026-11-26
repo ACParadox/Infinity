@@ -4,6 +4,19 @@
 
 **Sources:** [Pinned N5.3 MO roster / De Fersen](../../../../sectorials/panoceania/military-orders.md#father-officer-gabriele-de-fersen) · [Canonical MO Fireteam chart](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteam constructions](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Hospitaller/TinBot analysis](hospitaller.md) · [Order Sergeant/Pitcher analysis](order-sergeants.md) · [Hybrid Hackers comparative ranking](../../../list-building/hybrid-hackers-apex-and-value.md) · [Robert Shepherd MO review (July 2026)](https://www.youtube.com/watch?v=JrMTA91V7wc) · [Tactical Awareness, *Military Orders REDUX!* (Nov 2025)](https://open.spotify.com/episode/6xyHjc3R0N37bDHl0HiROO) · [New Year Knockout MO list/battle reports](https://www.youtube.com/watch?v=aGZ--rtGqXA) · [Ryan's MO guide](https://www.youtube.com/watch?v=xjs6rsspz8I) · [Played battle-report notes #009](../../../battle-reports/001-010-n5-battle-report-tactical-analysis.md) and [#160](../../../battle-reports/151-160-n5-battle-report-tactical-analysis.md). **Reviewed 23 November 2026.** Profile/stat/legality information is from the pinned roster; ratings, list preferences and example teams are tactical analysis rather than statistical win-rate claims.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD + Trinity MULTI 42/0.5 or Spitfire 46/1.5 | **#18 · S** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD + Trinity (+1SD) 42/0.5 | **#117 · A+** |
+| [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 46/1.5 | **#44 · A** |
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | HD + Trinity (+1SD) 42/0.5 | **#21 · A+** |
+
+Promoted for actual combat-plus-hacking role compression and specialist durability. The 42-point HD is the main mission/cyber profile; the Spitfire trades efficiency for shooting reach. Preserve the local network-dependent verdict.
+
 ## Exact pinned profiles
 
 **ID 40 · AVA 1 · Regular HI · MOV 15–5 cm · CC22 · BS14 · PH14 · WIP14 · ARM4 · BTS6 · W2 · S2.** All four options: **Martial Arts L3, Dodge (+2.5 cm), Stealth, Religious Troop**, **full Hacking Device with Trinity (+1SD)**, Flash Pulse, Pistol and AP+Shock CCW. **He is an HD Hacker with upgraded Trinity, not a Killer Hacking Device (KHD).**

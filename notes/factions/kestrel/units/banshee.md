@@ -2,6 +2,19 @@
 
 **Verdict: Strong / Recommended, not mandatory.** The **23/0 Killer Hacker (KHD)** is the default: a flexible airborne anti-Hacker specialist, close-range attacker and late-game scorer that can also deploy normally for immediate Order generation and network defence. The **19/0 Light Shotgun** is excellent cheap airborne attack value. The **25/0.5 HD** is mission- and matchup-dependent, and the **22/0 WildParrot** is a niche E/M disruption tool. The Banshee complements a primary gunfighter rather than replacing one.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 23/0 (source roster label requires correction) | **#65 · A** |
+| [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | LSG + Pulzar 19/0 or KHD 23/0 | **#12 · S** |
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | KHD 23/0 or HD 25/0.5 (Kestrel entry) | **#60 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | KHD 23/0 | **#177 · A** |
+
+The KHD is promoted in the global KHD guide, but its row incorrectly labels it O-12; the pinned Kestrel roster confirms the 23/0 KHD. Treat the rank as a same-loadout comparison pending source-label correction, not evidence of O-12 access.
+
 ## Pinned profiles
 
 Source: [Kestrel N5.3 roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#banshees-airborne-assault-unit), Army revision `7.26246.158`; [Human Sphere profile](https://human-sphere.com/Banshee) also confirms Spec. Trained Troops classification.

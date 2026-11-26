@@ -2,6 +2,21 @@
 
 **Verdict: S overall; must-own, not must-field.** HMG remains S; ML (+1SD) S− (still the premium hidden ARO); new ML (+1B) A+ as dedicated active anti-heavy gun. KHD A (elite midfield specialist); HD B, conditional.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Long-range gunfighter](../../../list-building/gunfighters-ranking.md) | HMG 56/1.5 | **#1 · S** |
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1SD) 60/2 | **#9 · S** |
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1B) 61/1.5 | **#39 · A** |
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD MULTI Rifle 56/0.5 | **#37 · S** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 56/0.5 | **#141 · A+** |
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 47/0 | **#41 · A** |
+
+The +1SD ARO moved from #8 to #9 after the SWC increase; +1B is a distinct active-turn option and ranks lower as an ARO. The HD's global toolbox promotion does not make it the default Swiss in vanilla.
+
 ## Current profiles — 26 November 2026
 
 **ID 9 · AVA 1 · Regular HI · S2** — MOV 10-10, CC15, BS15, PH14, WIP13, ARM5, BTS6, W2. Camouflage, Hidden Deployment, Mimetism (-6), Surprise Attack (-3), Stealth. All options carry Pulzar, Heavy Pistol and AP CCW. Independent; no Fireteam access established.

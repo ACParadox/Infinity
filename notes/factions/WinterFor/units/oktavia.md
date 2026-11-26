@@ -2,6 +2,16 @@
 
 **Verdict: A− HRL / B+ ML — worth reconsidering one as an economical reactive piece.** No longer a default Skip; not a mandatory defensive purchase.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [ARO](../../../list-building/aro-units-apex-and-value.md) | HRL 23/1.5 | **#35 · A** |
+
+New global ARO entry reflects the November 23-point HRL and selection-die benefits where applicable. The higher-cost ML remains separate and the local verdict is not changed.
+
 ## Current profiles — 26 November 2026
 
 **ID 1501 · AVA1 · Regular LI · S2** — MOV 10-10, CC17, BS12, PH10, WIP13, ARM2, BTS0, W1. Albedo (-3), BS Attack (+1SD), Courage, Combat Instinct, Dogged.

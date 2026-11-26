@@ -6,6 +6,16 @@
 
 **References:** [Pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#kazurabā-ruby-monday) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) · [Booty](../../../../rules/5b_Special%20Skills/Booty.md) · [Technorganic](../../../../rules/5b_Special%20Skills/Technorganic.md) · [Immunity](../../../../rules/5b_Special%20Skills/Immunity.md) · [Sāchā](sacha.md) · [Jackals](jackals.md) · [Sforza](sforza.md). Reviewed 21 November 2026; tactical grades and Booty valuations are subjective.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SO 19/0 | **#168 · A** |
+
+New global specialist entry recognizes mobile zero-SWC scoring. The local C+ / Skip verdict still reflects her Irregular Order and competition with Regular Kestrel specialists; the global tier does not mean must-field.
+
 ## Profile
 
 **ID 1890 · AVA 1 · HI · Irregular · 19pt / 0 SWC · no Fireteam access.**

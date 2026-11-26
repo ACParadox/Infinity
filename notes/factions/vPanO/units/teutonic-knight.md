@@ -4,6 +4,17 @@
 
 **Assessment: A− — 19/0 Specialist Operative is the preferred solo profile; cheap durable secondary attacker and scorer.**
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SMG Specialist Operative 19/0 (MO entry) | **#44 · S** |
+| [Objective holding](../../../list-building/objective-holding-ranking.md) | LSG 18/0 or SMG SO 19/0 (MO entry) | **#26 · A** |
+
+These are MO-specific comparisons of the same printed profiles, not separate vanilla rankings. The SO's cheap durable scoring transfers; Fireteam-dependent benefits do not.
+
 ## Vanilla differences
 
 - **AVA:** 3 in MO → 2 in vanilla.

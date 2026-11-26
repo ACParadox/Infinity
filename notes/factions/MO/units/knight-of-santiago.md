@@ -4,6 +4,16 @@
 
 **Sources:** [Pinned N5.3 roster and exact profiles](../../../../sectorials/panoceania/military-orders.md#knights-of-santiago) · [Fireteam chart](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams](../military-orders-fireteams.md) · [Crusader Brethren](crusader-brethren.md) · [De Fersen](de-fersen.md) · [Hospitaller](hospitaller.md) · [Robert Shepherd MO review](https://www.youtube.com/watch?v=JrMTA91V7wc) · [Tactical Awareness MO REDUX](https://www.youtube.com/watch?v=RP6Uyyc447k) ([Spotify](https://open.spotify.com/episode/6xyHjc3R0N37bDHl0HiROO)) · [Ryan's MO guide](https://www.youtube.com/watch?v=xjs6rsspz8I) · [New Year Knockout 2026 battle reports](https://www.youtube.com/watch?v=aGZ--rtGqXA). Reviewed 23 November 2026. Ratings are qualitative judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | FTO KHD 31/0 or airborne SO 36/0 / SO+KHD 38/0 | **#83 · A+** |
+
+Promoted for durable specialist delivery and the legal Firewall or airborne alternatives. This does not make an unselected KHD or Firewall available to a different profile.
+
 ## Exact pinned profiles
 
 **ID 27 · AVA 3 · Regular HI · MOV 15–5 cm (6–2 in) · CC23 · BS14 · PH13 · WIP13 · ARM4 · BTS3 · W2 · S2.** All options have **Martial Arts L1, Frenzy, Dodge (+2.5 cm), Specialist Operative, Stealth, Religious Troop, Terrain (Zero-G), 360° Visor**, D-Charges, Boarding Pistol and DA CCW.

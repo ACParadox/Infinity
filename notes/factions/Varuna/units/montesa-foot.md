@@ -4,6 +4,16 @@
 
 **Sources:** [Pinned Varuna profiles and canonical chart](../../../../sectorials/panoceania/varuna-immediate-reaction-division.md#knights-of-montesa) · [Fireteams](../varuna-fireteams.md) · [Listbuilding](../varuna-listbuilding.md) · [Fireteam bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Retained prior analysis](montesa.md). Reviewed 24 November 2026. Ratings are tactical judgments.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Objective holding](../../../list-building/objective-holding-ranking.md) | Foot FD (+20) BSG Paramedic 26/0 | **#23 · A+** |
+
+New objective-holding entry rewards the forward-deployed 26/0 Paramedic, not the distinct 20/0 FTO option. Preserve the local Undertow escort preference.
+
 ## Pinned profiles
 
 **ID 28 · AVA 2 · Regular HI, Impetuous · S2** — MOV 10–10 cm (4–4 in), CC23, BS13, PH13, WIP13, ARM4, BTS6, W2. Martial Arts L2, Limited Cover, Terrain (Aquatic/Jungle), BS Attack (+1SD), Mimetism (−3), Religious Troop, Impetuous.

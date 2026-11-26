@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/military-orders.md) · [Source unit analysis](../../MO/units/joan-v1.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Unlinked synergies](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Fighting lieutenant](../../../list-building/LT-ranking.md) | v1 LT 47/+1 SWC (joint entry with v2) | **#2 · S** |
+| [Command lieutenant](../../../list-building/LT-ranking.md) | v1 LT 47/+1 SWC (joint entry with v2) | **#11 · A+** |
+
+The global joint entry does not overturn the local Skip verdict: v1 is primarily the SWC-economy alternative, while v2 is the active fighting option. No Fireteam bonus in vanilla.
+
 ## Vanilla differences
 
 - **AVA:** 1 in MO → 1 in vanilla.

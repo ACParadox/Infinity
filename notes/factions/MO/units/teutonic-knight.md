@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned MO N5.3 roster / Teutonic profiles](../../../../sectorials/panoceania/military-orders.md#teutonic-knights) · [Pinned Hospitaller profiles](../../../../sectorials/panoceania/military-orders.md#knights-hospitaller) · [Canonical MO Fireteams / Wildcards](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Hospitaller analysis](hospitaller.md) · [Knight Commander](knight-commander.md) · [Infirmarer](infirmarers.md) · [Curator](curator.md) · [Impetuous](../../../../rules/5b_Special%20Skills/Impetuous.md) · [Fireteam Integrity](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Integrity.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Frenzy](../../../../rules/5b_Special%20Skills/Frenzy.md). Reviewed **23 November 2026**. Ratings and constructed lists are tactical assessments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SMG Specialist Operative 19/0 (MO entry) | **#44 · S** |
+| [Objective holding](../../../list-building/objective-holding-ranking.md) | LSG 18/0 or SMG SO 19/0 (MO entry) | **#26 · A** |
+
+The 19/0 SO is promoted for cheap durable scoring; objective-holding also recognizes the basic 18/0 close-defense profile. These rankings do not erase the TinBot and NCO's different local jobs.
+
 ## Pinned profiles and priority
 
 **ID 30 · AVA 3 · Regular HI · MOV 15–5 cm (6–2 in) · CC22 · BS13 · PH14 · WIP13 · ARM3 · BTS3 · W2 · S2.** All have **Martial Arts L2, Impetuous, Limited Cover, Religious Troop, Terrain (Jungle)** and enhanced Dodge (**+3 on the roll and +1 in movement**). All carry a Pistol and DA CCW. **Military Orders Fireteam** required-choice option, up to three Teutonics. They are **not Hospitallers**, cannot join *Crusade* as Teutonics, and have no Teutonic Counts-as Wildcards.

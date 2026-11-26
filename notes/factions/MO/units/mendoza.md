@@ -4,6 +4,17 @@
 
 **Sources:** [Pinned Military Orders N5.3 profiles](../../../../sectorials/panoceania/military-orders.md#padre-inquisidor-mendoza) · [Canonical Fireteams and Wildcards](../../../../sectorials/panoceania/military-orders.md#fireteams) · [MO Fireteams](../military-orders-fireteams.md) · [MO listbuilding](../military-orders-listbuilding.md) · [Kyle Hawkins analysis](kyle-hawkings.md) · [Hospitallers](hospitaller.md) · [De Fersen](de-fersen.md) · [Official N5.3 Weapon Chart](https://infinitythewiki.com/Weapon_Chart) · [Continuous Damage trait](https://infinitythewiki.com/Traits) · [Speculative Attack](../../../../rules/3_Combat/Speculative_Attack.md) · [Mimetism](../../../../rules/5b_Special%20Skills/Mimetism.md) · [Berserk](../../../../rules/5b_Special%20Skills/Berserk.md) · [Frenzy](../../../../rules/5b_Special%20Skills/Frenzy.md) · [Martial Arts](../../../../rules/5b_Special%20Skills/Martial_Arts.md) · [Number 2](../../../../rules/5b_Special%20Skills/Number_2.md) · [2026 Robert Shepherd MO review](https://www.youtube.com/watch?v=JrMTA91V7wc) · [2026 Ryan MO review](https://www.youtube.com/watch?v=xjs6rsspz8I) · [2026 Sneaky Snake MO review](https://www.youtube.com/watch?v=kRaambqovmw). **Reviewed 23 November 2026.** Ratings, targets and constructed Fireteams are qualitative judgments, not measured win rates.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for the faction-local inclusion verdict above. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Close combat](../../../list-building/close-combat-ranking.md) | HSG 40/0 | **#33 · A+** |
+| [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | HSG 40/0 (forward-deployed option) | **#41 · A+** |
+
+New role-specific entries recognize lethal close assault and forward access. The 40/0 FTO and FD HSG variants are distinct; the DZ placement concerns the FD option. Neither gains generic Specialist status; Hawkins remains the lower-cost local alternative.
+
 ## Exact pinned profiles and priority
 
 **ID 1562 · AVA 1 · Regular HI · MOV 15–5 cm (6–2 in) · CC22 · BS14 · PH13 · WIP13 · ARM4 · BTS6 · W2 · S2.** All three options have **Martial Arts L2, Berserk (+3), Dodge (+3), Dodge (+2"), Frenzy, Mimetism (−6), Religious Troop, BS Attack (Continuous Damage), and CC Attack (Continuous Damage)**. Common weapons: **Grenades, Boarding Pistol, DA CC Weapon**. Neither the solo nor FTO profiles are Specialists, have Stealth/Combat Instinct, or have NCO/Tactical Awareness.

@@ -2,6 +2,16 @@
 
 **Verdict: A+ overall; HMG S, Feuerbach A+, HMG Lieutenant A, MULTI Rifle B.** The Griffin HMG is the baseline against which Kestrel's other primary gunfighters should be judged. BS14/MSV1, two real Wounds, a Pulzar, and exceptionally economical Fireteam access make it a strong general-purpose attacker without consuming the points required by more specialized heavy troops. No particular Griffin or Black A.I.R. pairing is mandatory.
 
+## Cross-faction role rankings — 26 November 2026
+
+Current committed list-building comparisons; these are global, role-specific ratings, not replacements for faction-local inclusion judgments. Rank positions are a dated snapshot.
+
+| Ranking | Selected profile | Current rank / tier |
+|---|---|---|
+| [Long-range gunfighter](../../../list-building/gunfighters-ranking.md) | HMG 37/1.5 (Kestrel entry) | **#39 · A** |
+
+The HMG was demoted to A in the global gunfighter comparison. Its local S inclusion rating is retained because the economical Kestrel Fireteam and durable BS14 chassis still make it a default faction attacker.
+
 ## Profiles
 
 [Canonical Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#griffin-troops), pinned Army revision 7.26246.158, unit 1810, profile group 1 (base profile and all four options checked against the pinned Army JSON).
