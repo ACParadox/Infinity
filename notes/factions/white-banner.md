@@ -23,6 +23,16 @@
 
 **Comparison:** **Invincible Army** has stronger HI order-engine alternatives (Dāoyīng, Yān Huǒ, Zúyǒng, Liú Xīng and linkable Rui Shi) but not this White Banner mixed Albedo/Disco/Guided Core. **Imperial Service** has different police/security Fireteams and Sù-Jiàn, not the White Banner combined-arms shell. **Vanilla Yu Jing** has broader independent elites and narrow Duo/Haris options, but no ordinary Core. White Banner's reason to choose the sectorial is primarily **which roles can coexist inside its Core/Haris**, reinforced by higher AVA in Camo/forward defence.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Dàofěi** | HD52/.5 or AP Spitfire SO52/1.5 | [Zone S #10 (HD)](../list-building/objective-holding-ranking.md) · [DZ attack A+ #52 (SO)](../list-building/dz-attackers-ranking.md) · [Toolbox A+ #51 (HD)](../list-building/toolbox-units-rankings.md) · [Mission S #53](../list-building/mission-specialists-ranking.md) | Infiltrating Camo HI compresses offense and scoring, but its cost and BTS3 are real constraints. SO and hacker are distinct. |
+| **Adil Mehmut (Crane Rank)** | AP Spitfire49/1.5 | [Gunfighters A+ #19 (medium)](../list-building/gunfighters-ranking.md) · [CC A+ #24](../list-building/close-combat-ranking.md) | Same printed weapons, SO and Monofilament; ISS rank is a reference, not proof of identical skills in White Banner. Check local roster; Continuous Damage is not assumed. |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: B — #30 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap forward E/M/Camo screens, Smoke/Eclipse, Albedo and flexible mixed HI/MI teams remain versatile; aerial-vehicle nerfs do not warrant a demotion.
