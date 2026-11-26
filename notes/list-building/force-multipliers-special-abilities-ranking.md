@@ -1,6 +1,6 @@
 # Force Multipliers — RemDriver, Exceptional EVO and Counterintelligence (N5.3 Unified Ranking)
 
-_Updated 2026-11-26 · Editorial, profile-specific **list-building judgments**, not measured win rates. Use the latest committed [sectorial rosters](../../sectorials), [N5.3 rules](../../rules/README.md), and actual profile/Combat Group rather than assuming skills transfer between profiles or factions. Related guides: [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md), [REMs](rems.md), [hackers](hackers-ranking.md), [killer hackers](killer-hackers-ranking.md), [network](network-projection-repeaters-pitchers-ranking.md), [TAGs](tags-ranking.md), [command units](LT-ranking.md), [Order generators](cheerleaders-ranking.md)._
+_Updated 2026-11-26 · Editorial, profile-specific **list-building judgments**, not measured win rates. Use the latest committed [sectorial rosters](../../sectorials), [N5.3 rules](../../rules/README.md), and actual profile/Combat Group rather than assuming skills transfer between profiles or factions. Related guides: [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md), [REMs](rems.md), [hackers](hackers-ranking.md), [killer hackers](killer-hackers-ranking.md), [network](network-projection-ranking.md), [TAGs](tags-ranking.md), [command units](LT-ranking.md), [Order generators](cheerleaders-ranking.md)._
 
 ## Scope — what belongs here
 
@@ -8,7 +8,7 @@ Rank **unusual support packages that improve a chosen allied unit or provide val
 
 - **In scope:** RemDriver; EVO on a **nonstandard carrier with additional impactful abilities**; inexpensive, protected or multifunctional Counterintelligence. One unified ranking balances **support ceiling**, **incremental value** and independent utility.
 - **Out of scope:** all **Inspiring Leadership** and **FT Master** units (ranked in the [Order economy guide](cheerleaders-ranking.md) and command/Fireteam studies); **ordinary 8pt Baggage bots, 14/.5 EVO Baggage bots, conventional reload carriers** (see [REMs](rems.md) and [Order economy](cheerleaders-ranking.md)). Do not fill a specialty ranking with the same generic bot under six faction names.
-- **Also not re-ranked here:** ordinary TAGCom pilots, routine TinBot Firewall carriers (see [hackers](hackers-ranking.md) and [killer hackers](killer-hackers-ranking.md) and [network](network-projection-repeaters-pitchers-ranking.md)), Decoy alone, and Cyberplug/other unusual peripherals (see [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md) and [multi-body tactics](peripheral-synchronized-multibody-apex-value.md)). Their tactical value is real but belongs to another comparison.
+- **Also not re-ranked here:** ordinary TAGCom pilots, routine TinBot Firewall carriers (see [hackers](hackers-ranking.md) and [killer hackers](killer-hackers-ranking.md) and [network](network-projection-ranking.md)), Decoy alone, and Cyberplug/other unusual peripherals (see [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md) and [multi-body tactics](peripheral-synchronized-multibody-apex-value.md)). Their tactical value is real but belongs to another comparison.
 - **Strategic Deployment:** only a cheap, conditional option remains at the **bottom** of the ranking; it has no separate section.
 
 ## Quick selection
