@@ -53,7 +53,37 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 | **Sogarat** | AP HMG52/1.5; NCO54/1.5 separate | [Zone S #12](../list-building/objective-holding-ranking.md) · [Gunfighters A+ #34 (long)](../list-building/gunfighters-ranking.md) · [LT A+ #12 (LT variants)](../list-building/LT-ranking.md) | Resilient expensive zone anchor, not an efficient cheap doorway guard. |
 | **Kaitok** | Chain Rifle / Flammenspeer19/0 | [Warbands S #21](../list-building/warbands-ranking.md) · [Zone A+ #22](../list-building/objective-holding-ranking.md) | Cheap ARM5/W2 trading and denial, but large silhouette and hackability. |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 12 | A+ | Sogarat LT 56/0.5–1 — Morat Aggression Forces | Roster named in source |
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 13 | A+ | Kornak LT(+1) 42/0 — Morat Aggression Forces | Roster named in source |
+| [Command Lieutenants — unified ranking](../list-building/LT-ranking.md#command-lieutenants--unified-ranking) | 5 | S | Kornak LT(+1) 42/0 — Morat Aggression Forces | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 41 | B | Raktorak, Morat Sergeant Major — 25/0; roster examples: Morat Aggression Forces | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 7 | — | Morat Hungries Core — Oznat FTO15 + 4 Gakis4 = 31/0 | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 5 | S+ | Dāturazi Chain(+1B) 14/0 — Morat/CA | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 2 | S+ | Rasyat Spitfire34/1.5 / BSG25/0 — MAF/Combined; Rasyat BSG25/0 (MAF/Combined) | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 34 | A+ | Sogarat AP HMG52/1.5 or NCO54/1.5 — Morat Aggression Forces | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 62 | A | Morat Vanguard HMG 23/1 — Combined Army | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 7 | S | Rodok HD + Trinity 24/0 (Onyx/Vanilla Combined/Morat) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 37 | A+ | Dartok FTO HD + Pitcher/E/M Grenades 18/0.5, ordinary 23/0.5 — Morat | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 13 | S | Rodok HD + Trinity 24/0 (Onyx/Vanilla Combined/Morat) | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 19 | A+ | Dartok FTO HD/Pitcher 18/.5 — Morat | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 12 | S | Sogarat AP HMG52/1.5 — Morat Aggression Forces | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 22 | A+ | Kaitok Chain Rifle / Flammenspeer 19/0 — Morat Aggression Forces | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 19 | B | Raicho — Morat / Combined | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 34 | A | Rasyat BSG+Eclipse25/0 — Combined/Morat | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 6 | — | Dāturazi Smoke 14/0 — CA/MAF (optional Yaogat/Vector/Charontid MSV partner) | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 38 | — | Rasyat Eclipse attacker — Combined/MAF | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 3 | S+ | Dāturazi Chain(+1B)+Smoke 14/0 — MAF/Vanilla CA | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 15 | S | Gaki4/0 — Morat/Combined | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 16 | S | Preta Chain7/0 — Morat/Combined | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 21 | S | Kaitok Chain Rifle / Flammenspeer19/0 — Morat Aggression Forces | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Order: Top 3, then Top 5, then Top 10; stronger qualifying placements first.** Qualitative cross-faction judgments, not official win rates. The broad-role ranks below were checked against the current linked lists on **19 November 2026**. **Apex** measures matchup ceiling; **Value** includes points, SWC and real Order costs. A legal *package* does not confer every member's ability on a standalone profile. For rules and loadout legality use the [pinned Morat N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
 
