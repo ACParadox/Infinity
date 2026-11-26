@@ -4,7 +4,85 @@
 
 **What Bakunin does exceptionally well:** it creates several different problems at once—very cheap Smoke/Eclipse assault, concealed midfield trading, protected hacking and linked REM firepower. Its premium attackers are alternatives, not a requirement to build around a single TAG or five-model Core.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 22 | A | Cassandra Kusanagi LT MULTI Rifle(+1B) 34/+1 SWC — Bakunin | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 5 | S+ | Sin-Eater 28/1 Marksmanship MULTI Sniper — Bakunin; Sin-Eater 26/1.5 MULTI Sniper — Bakunin; Sin-Eater 28/1.5 Neuro HMG — Bakunin; Sin-Eater Neuro Mk12 25/0 — Bakunin | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 20 | A+ | Riot Grrl 30/1.5 ML — Bakunin | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 9 | — | Denma Connolly 12/0 — CHA / Kosmoflot / Bakunin / Tunguska / Druze | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 25 | — | Bakunin Taskmaster HRL34/1.5 + 2 Morlocks6 = 46/1.5 (15.33 pts/Order) | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 32 | — | Moderator 9/0 Boarding Shotgun + E/M Carbine — Bakunin | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 2 | S+ | Chimera + 3 Pupniks 19/0 — Bakunin | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 38 | A+ | Reverend Cenobite LSG 20/0 — Bakunin | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 7 | A+ | Avicenna28/0 WIP15 Doctor(+3), NWI — Bakunin/Hassassin Bahram/StarCo — roster references: Hassassin, Bakunin, StarCo | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 15 | A | Mother Agatha31/0 WIP14 Doctor(2W), Mimetism(-6) — Bakunin | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 3 | S | Clockmaker18/0 WIP15 — Vanilla Nomads/Bakunin/Tunguska/StarCo — roster references: Vanilla Nomads, Bakunin, Tunguska, StarCo | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 7 | A+ | Orphan Engineer17/0 or 21/0 (+Repeater/E/M mine) — Bakunin — roster references: Bakunin | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 25 | A | Fiddler FTO Engineer29/0 or separate 36/43 JackBot profiles — Bakunin/eligible | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 68 | A | Initiated Observant BSG19/0 / KHD22/0 — Bakunin | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 78 | B | Go-Pod MULTI Rifle33/0 | Existing local profile match; verify exact variant |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 27 | A+ | Morlock Chain Rifle/Smoke/E/M CCW 6/0 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 54 | A | Reverend Moira HMG33/1.5 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 20 | A+ | Vostok Mk12 FTO 35/0 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 21 | A+ | Kusanagi AP Spitfire 35/1.5 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 25 | A+ | Penitent Observant AP Spitfire37/1.5 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 29 | A+ | Casino Rounder Red Fury26/1 — Bakunin/Tunguska | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 41 | A+ | Orphan MSV2 MULTI Marksman 25/0 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 50 | A | Casino Rounder MULTI Marksman 24/.5 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 64 | A | Riot Grrl Spitfire31/1.5 — Bakunin | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 67 | A | Go-Pod MULTI Rifle33/0 + Go-Bot — Nomads/Bakunin/Tunguska | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 13 | A+ | Lizard MULTI HMG + HFT64/1.5 — Bakunin | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 14 | A+ | Lizard MULTI HMG + GL/E/M GL65/1.5 — Bakunin | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 32 | A | Lizard AP Spitfire + GL/E/M GL60/1.5 — Bakunin | Roster named in source |
+| [Whole-game standouts — unified ranking (11 November baseline)](../list-building/gunfighters-ranking.md#whole-game-standouts--unified-ranking-11-november-baseline) | 7 | B | Go-Pod — Nomads / Bakunin / Tunguska; 33 / 0 MULTI Rifle + E/Mitter + Go-Bot; 32 / 1.5 HRL + AP SMG + Go-Bot | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 9 | S | Rounder HD + Trinity 21/0.5 (Bakunin/Tunguska/Nomads) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 10 | S | Uhahu HDplus + Total Control(SR-2) 19/0.5 — Bakunin | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 42 | A | Stigmata HD + Carbonite(SR-2) TAG 56/1.5 — Bakunin | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 53 | A | Reverend Custodier HDplus 28/0.5 Pitcher or 24/0.5 BSG — Bakunin | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 90 | B | Zoe & Π-Well HD + Zero Pain 42–45/0.5 — Bakunin | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 14 | S | Rounder HD + Trinity 21/0.5 (Bakunin/Tunguska/Nomads) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 47 | A | Reverend Custodier KHD + Pitcher 24/0 — Bakunin | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 56 | A | Zero 22/0 KHD | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 64 | A | Initiated Observant KHD 22/0 — Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 5 | S+ | Zero FO 20 or KHD 22 — Nomads/Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 42 | S | Prowler KHD30/0 — Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 69 | S | Stempler Zond FO/Sensor/Repeater 15/0, TA18/0 — Corregidor/Nomads where eligible | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 120 | A+ | Orphan Engineer 17 or Repeater/E/M Engineer 21 — Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 122 | A+ | Clockmaker Engineer18/0 — Nomads/Bakunin/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 125 | A+ | Fiddler Engineer 29 FTO or 36 with JackBot — Bakunin/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 165 | A | Initiated Observant KHD22/0 Parachutist — Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 183 | A | Stigmata HD+Carbonite(SR-2) TAG56/1.5 — Bakunin | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 196 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 9 | S | Tsyklon FTO 26–29/1 — eligible Tunguska / Bakunin / StarCo teams | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 13 | S | Moderator Combi/Pitcher 10/0 — Bakunin | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 15 | A+ | Reverend Custodier KHD/Pitcher 24/0, HD 26/.5 or HD+ 28/.5 — Bakunin | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 23 | A+ | Uhahu HD+/Pitcher 19/.5 — Bakunin / StarCo | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 31 | A | Zoe & Π-Well FTO combination 42–45/.5 — Bakunin | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 2 | S+ | Initiated Observant DR + Minelayer 18/0 — Bakunin | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 9 | A+ | Robin Hook 20/0 — Bakunin | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 4 | S+ | Stempler Zond native Repeater + Tactical Awareness 18/0, or Thunderbolt TA 22/0 — eligible Nomads | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 9 | S | Meteor Zond native Repeater 19/0 — Nomads | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 15 | A+ | Zero carried DR20/0 — Bakunin / eligible Nomads | Roster named in source |
+| [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 3 | S | Bakunin: Initiated Observant18/0 preplaced network + Uhahu HD+/Pitcher19/.5, optional Moderator Pitcher10/0 in a lawful team | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 29 | A | Fiddler Engineer + 2 JackBots 43/0 — Bakunin / Tunguska | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 38 | B+ | Fiddler Engineer + 1 JackBot 36/0 — Bakunin/Tunguska | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 7 | A | Lizard — Bakunin (standard force; Vanilla Nomads has Reinforcement only) | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 15 | A | Stigmata — Nomads / Bakunin | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 50 | A+ | Fiddler Engineer + JackBot 36/0 (Bakunin/Tunguska) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 78 | A+ | Rounder HD with Trinity 21/.5 (Tunguska) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 86 | A | Stigmata HD with Carbonite(SR-2) TAG 56/1.5 (Bakunin) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 19 | A+ | Chimera + 3 Pupniks19/0 | Existing local profile match; verify exact variant |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 21 | A+ | Fiddler + 2 JackBots 43/0 — Bakunin/Tunguska | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 5 | — | Chimera + 3 Pupniks 19/0, Eclipse — Bakunin | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 12 | — | Uhahu HD+ 19/.5 — Bakunin | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 4 | S+ | Morlock Chain+Smoke+E/M CCW6/0 — Bakunin/Vanilla Nomads | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 27 | A+ | Denma Connolly Chain(+1B)+Smoke+AP+DA12/0 — Kosmo/Bakunin/Tunguska as printed | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: A− — #17 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap Morlock Smoke and Chimera Eclipse assault, early Repeater/mine control, protected Uhahu and Stigmata hacking, and flexible Riot/Observance/REM Fireteams give diverse answers and scoring routes; weaker premium shooting and package competition keep it outside the top A tier.
 
