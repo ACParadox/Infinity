@@ -34,7 +34,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -70,9 +70,9 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 39 | S | Liú Xīng SO30/0 or HD30/.5 — Invincible Army | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 91 | A+ | Hac Tao HD+Trinity 58/.5 (IA), 58/1 (White Banner) | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 100 | A+ | Hǎidào Engineer25/0 or FTO KHD22/0 — Invincible Army | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 126 | A+ | Krit Kokram Engineer35–40 — Invincible Army | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 156 | A | Bìxié FO41/0 — Invincible Army/White Banner | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 157 | A | Tai Sheng FO+NCO 33–37 or CoC+FO 36–40 — Invincible Army | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 125 | A+ | Krit Kokram Engineer35–40 — Invincible Army | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 155 | A | Bìxié FO41/0 — Invincible Army/White Banner | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 156 | A | Tai Sheng FO+NCO 33–37 or CoC+FO 36–40 — Invincible Army | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 8 | S | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company as rostered | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 12 | A+ | Krit Kokram FTO-2 DR + Minelayer 37/0 — Invincible Army / Vanilla Yu Jing | Roster named in source |
 | [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 6 | S | Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0 — Yu Jing / White Banner where legal | Existing local profile match; verify exact variant |
