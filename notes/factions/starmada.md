@@ -23,6 +23,15 @@
 
 **Not exclusive to Starmada:** Zeta HRMC/Climbing Plus, Epsilon MSV2, Regular Varangian Smoke, Firebat aerial mobility, and the **RoadBot + Oko Duo** concept all have Vanilla O-12 counterparts. These may be outstanding *whole-game picks* without justifying Starmada specifically. Starmada also gives up Vanilla-only **Gamma, Omega, Wrecker, Moonraker, Team Sirius, Razor and Lynx** (among others). Conversely, the sectorial supplies a **Core**, a **Haris** and effectively unlimited **Duos**, whereas the current Vanilla O-12 chart has **no Core, one Haris and two Duos**.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Betatrooper** | Doctor27/0; KHD25/0 and SO32/0 separate | [Doctor A #17](../list-building/doctors-engineers-ranking.md) · [Mission S #57](../list-building/mission-specialists-ranking.md) · [Zone A #30 (KHD)](../list-building/objective-holding-ranking.md) | Mobile two-STR combat Doctor; ordinary WIP13 and cost limit backline recovery value. |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: B — #28 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Nonlethal denial and mission-oriented teams remain sound; Casanova and Nightshade improvements are promising, but expensive configurations still erode spare Orders.
