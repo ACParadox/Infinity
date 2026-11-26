@@ -49,7 +49,59 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 | **Achilles** | Plasma Rifle63/0; AP Spitfire62/1.5 separate | [Zone S #4 (plasma)](../list-building/objective-holding-ranking.md) · [Gunfighters S #1 (medium, Spitfire)](../list-building/gunfighters-ranking.md) · [CC S #14](../list-building/close-combat-ranking.md) · [Unique S #8](../list-building/unique-units-ranking.md) | A top concentrated-VP anchor and premium mobile attacker; expensive, hackable, Frenzy/No Cover. Check exact local SWC. |
 | **Shadowcrow Operator** | E/Mitter airborne31/0; AP Thunderbolt FTO31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) · [Gunfighters A+ #25 (long, FTO)](../list-building/gunfighters-ranking.md) | Local SO shares mission rank; separate FTO profile ranks for ranged fighting. Nomads E/Marat24/0 is not available here. |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 10 | A+ | Achilles LT AP Spitfire 62/1 or Plasma Rifle 63/+1 SWC — Next Wave | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 1 | S+ | Teucer 37/1.5 Neuro Plasma Sniper — Next Wave | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 51 | A | Wraith-1 28/1.5 Hidden MULTI Sniper — Next Wave | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 15 | A+ | Pandora, Team Achilles' Field Researcher — 29/0.5; roster examples: Next Wave | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 38 | B | Patroclus FTO — 36/1 HRL; 40/0 MULTI Marksman; roster examples: Next Wave | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 31 | — | Next Wave Pandora24/.5 + 2 Steeljaws18 = 60/.5 (20 pts/Order); alternative 2 Stingers25 = 74/.5 (24.67 pts/Order) | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 14 | S | Achilles 62/1.5 or 63/0 — Next Wave | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 56 | B | Raindancer SMG+Chain 18/0 — Next Wave | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 4 | S | Med-Tech Obsidon21/0 WIP14 Doctor + Engineer, MOV15-10 — eligible Combined sectorials — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 2 | S | Med-Tech Obsidon21/0 WIP14 Engineer + Doctor — Combined — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 44 | A+ | Cliff-Jumper LSG/HFT21/0, FO BSG22/0, KHD23/0 — Next Wave | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 45 | A+ | Ko Dali airborne MULTI Rifle37/0 — Combined/Onyx/Next Wave as legal | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 25 | A+ | Shadowcrow Operator AP Thunderbolt FTO 29–31/0 — O-12/Next Wave/Yu Jing | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 35 | A+ | Stinger HMG30/1 — Next Wave | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 56 | A | Ironsides AP HMG 44/1.5 — Next Wave | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 57 | A | Skyhound AP/Plasma Thunderbolt33/0 — Next Wave only | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 1 | S | Achilles AP Spitfire62/1.5 — Next Wave | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 6 | S | Wraith-1 Hidden MULTI MMR27/0.5 — Next Wave | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 15 | A+ | Stinger MSV2 MULTI Marksman Rifle29/0.5 — Next Wave | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 43 | A+ | Nexus Nanoscreen Spitfire 29/1 — Next Wave | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 55 | A | Wraith-1 FTO MULTI Marksman 25/.5 — Next Wave | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 24 | A+ | Juggernaut MULTI HMG81/1.5 — Next Wave | Roster named in source |
+| [Whole-game standouts — unified ranking (11 November baseline)](../list-building/gunfighters-ranking.md#whole-game-standouts--unified-ranking-11-november-baseline) | 1 | S | Skyhound — Next Wave; 33 / 0 plasma carbine + AP Thunderbolt + Mine Dispenser; 31 / 0 MULTI Rifle | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 20 | A+ | Gearhead FTO HD + Firewall(-6)/Pitcher 19/0.5 — Next Wave | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 50 | A | Harbinger HD + E/M Mine Minelayer 18/0.5 — Next Wave | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 54 | A | Nexus Operative HD + Oblivion(+1B) 24/0.5 — Onyx/Next Wave | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 82 | B | Contrabandolero HD 29/0.5 — Next Wave | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 34 | A+ | Harbinger KHD + Deployable Repeater 17/0 — Next Wave | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 71 | B | Ironsides KHD 34/0 — Next Wave | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 72 | B | Contrabandolero KHD 27/0 — Next Wave | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 80 | B | Cliff-Jumper KHD 23/0 — Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 24 | S | Shadowcrow Operator SO24–31/0 — eight vanilla armies and Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 37 | S | Contrabandolero FO 26 / KHD 27 / HD 29 — Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 66 | S | Cliff-Jumper FO22/0 or KHD23/0 — Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 154 | A+ | Gearhead Engineer17/0, FTO Engineer18/0 or FTO Hacker Firewall(-6)/Pitcher19/.5 — Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 168 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 20 | A+ | Gearhead FTO Hacker/Pitcher 19/.5 — Next Wave | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 28 | A | Bit & KISS! 24–25/.5 selected loadout — Combined / Onyx / Next Wave as legal | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 29 | A | Pandora SMG/Pitcher 26/.5 — Next Wave | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 7 | S | M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0 — Combined / Next Wave as legal | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 4 | S | Achilles Plasma Rifle63/0 — Next Wave | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 28 | C | Juggernaut — Next Wave | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 5 | S+ | Ko Dali FD+20 34/0 or Combat Jump 37/0 (Combined/Onyx/Next Wave where legal) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 11 | S | Ko Dali Combat Jump37/0 or Forward Deployment(+20)34/0 — Onyx/Combined/Next Wave | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 15 | A+ | Next Wave Gearhead Cyberplug13/0, plus eligible Autonomous/Connected Cyberplug units | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sorted by strongest role-specific placement first:** #1 positions, then Top 3, Top 5 and Top 10. Apex and Value are distinct rankings; listed ranks are not overall unit strength or win rates.
 
