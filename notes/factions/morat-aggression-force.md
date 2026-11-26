@@ -43,6 +43,16 @@ Morat Aggression Force's strongest distinction is **army-wide reliability rather
 
 **Vanilla CA still wins on concealed attack and elite hacking ceilings:** Speculo, Noctifer, Malignos/Sphinx and powerful Aspect/Umbra/Bit options are not replicated by MAF's more visible army. Do not conflate a broadly shared individual standout (Rasyat, Dāturazi, Yaogat, Med-Tech or shared REM) with a Morat-only capability.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Sogarat** | AP HMG52/1.5; NCO54/1.5 separate | [Zone S #12](../list-building/objective-holding-ranking.md) · [Gunfighters A+ #34 (long)](../list-building/gunfighters-ranking.md) · [LT A+ #12 (LT variants)](../list-building/LT-ranking.md) | Resilient expensive zone anchor, not an efficient cheap doorway guard. |
+| **Kaitok** | Chain Rifle / Flammenspeer19/0 | [Warbands S #21](../list-building/warbands-ranking.md) · [Zone A+ #22](../list-building/objective-holding-ranking.md) | Cheap ARM5/W2 trading and denial, but large silhouette and hackability. |
+
 ### Whole-game standouts — apex versus value
 
 **Order: Top 3, then Top 5, then Top 10; stronger qualifying placements first.** Qualitative cross-faction judgments, not official win rates. The broad-role ranks below were checked against the current linked lists on **19 November 2026**. **Apex** measures matchup ceiling; **Value** includes points, SWC and real Order costs. A legal *package* does not confer every member's ability on a standalone profile. For rules and loadout legality use the [pinned Morat N5.3 roster](../../sectorials/combined-army/morat-aggression-forces.md).
