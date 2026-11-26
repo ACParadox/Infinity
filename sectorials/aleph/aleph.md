@@ -495,12 +495,13 @@ Army retains the superficially duplicate rows because option-level differences a
 
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
-| 2 | 28 | 0 | Boarding Shotgun, Pulzar, D-Charges, Silenced Pistol, CCW |
+| 2 | 29 | 0 | Boarding Shotgun, Pulzar, D-Charges, Flash Pulse, Silenced Pistol, CCW; Specialist Operative |
 | 3 | 34 | 1.5 | MULTI Sniper Rifle, Pulzar, Silenced Pistol, CCW |
 | 4 | 31 | 0 | AP SMG, Pulzar, D-Charges, Silenced Pistol, CCW; **KHD** |
-| 5 | 33 | 0.5 | AP SMG, Pulzar, D-Charges, Silenced Pistol, CCW; **Hacking Device** |
 | 6 | 29 | 0 | AP SMG, Pulzar, D-Charges, Flash Pulse, Silenced Pistol, CCW; **FO + Deployable Repeater** |
-| 8 | 30 | 0.5 | AP SMG, Pulzar, Viral Mine, D-Charges, Silenced Pistol, CCW; **Minelayer** |
+| 8 | 31 | 1 | AP SMG, Pulzar, Viral Mine, D-Charges, Silenced Pistol, CCW; **Minelayer (2)** |
+| 9 | 30 | 0.5 | AP SMG, Pulzar, Viral Mine, D-Charges, Silenced Pistol, CCW; **Minelayer** |
+
 
 ### Parvati
 
@@ -710,15 +711,15 @@ Army's raw Opt 7 payload contains two weapon-id `0` placeholder rows; they are n
 
 **November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5). MULTI Red Fury 45 pts; MULTI Marksman Rifle/AP SMG 42; MULTI Marksman Rifle 38. Chain-colt replaces Chain Rifle on applicable options. Operator MOV 10-10, BS 12, PH 9, Mimetism (-3); Forward Observer and Flash Pulse lose +1SD.
 
-**ID 1904 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 13 | ARM 4 | BTS 6 | STR 3 | S 7`. Remote Presence, Aerial, MSV1, Mimetism (-6), No Cover, Super-Jump, Tech-Recovery, Terrain (Total), Transmutation/Escape operator.
+**ID 1904 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 13 | ARM 4 | BTS 6 | STR 3 | S 7`. Remote Presence, Aerial, MSV1, Mimetism (-6), No Cover, Super-Jump (Jet Propulsion), Tech-Recovery, Terrain (Total), Transmutation/Escape operator.
 
 | Opt | Pts | SWC | Loadout |
 |---:|---:|---:|---|
-| 1 | 41 | 1.5 | MULTI Red Fury, Chain Rifle; bundled Tarkshya Operator |
-| 2 | 38 | 0 | MULTI Marksman Rifle, AP SMG; bundled Operator |
-| 3 | 34 | 0 | MULTI Marksman Rifle, Chain Rifle; bundled Operator |
+| 1 | 45 | 1.5 | MULTI Red Fury, Chain-colt; bundled Tarkshya Operator |
+| 2 | 42 | 0 | MULTI Marksman Rifle, AP SMG; bundled Operator |
+| 3 | 38 | 0 | MULTI Marksman Rifle, Chain-colt; bundled Operator |
 
-**Tarkshya Operator alternate state (not the Vehicle):** the pinned Army source gives the Operator **Forward Observer (+1SD)** as a base-profile skill, along with Flash Pulse (+1SD) on its internal loadout. Do **not** attribute the Operator's FO skill to the primary Tarkshya Vehicle. Army's option label spells the unit `TARKSIA`; this reference uses the canonical `Tarkshya` name.
+**Tarkshya Operator alternate state (not the Vehicle):** the November Army source gives the Operator MOV 10-10, BS 12, PH 9, Mimetism (-3), **Forward Observer** as a base-profile skill and Flash Pulse (neither has +1SD). Do **not** attribute the Operator's FO skill to the primary Tarkshya Vehicle. Army's option label spells the unit `TARKSIA`; this reference uses the canonical `Tarkshya` name.
 
 ### Pilot-X Team
 

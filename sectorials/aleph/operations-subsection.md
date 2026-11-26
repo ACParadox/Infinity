@@ -252,12 +252,13 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 
 - **Stats:** `15-5 16 13 12 14 1 3 1 2`; AVA 3, SK.
 - **Rules:** BS Attack (+1SD), Surprise Attack (-3), Courage, Camouflage, Hidden Deployment, Mimetism (-6), Infiltration (ReRoll), Immunity (Shock), Stealth, Total Terrain.
-- **Option 2:** **28 / 0** — Boarding Shotgun, Pulzar, D-Charges, Silenced Pistol (PS=7), CC Weapon.
+- **Option 2:** **29 / 0** — Boarding Shotgun, Pulzar, D-Charges, Flash Pulse, Silenced Pistol (PS=7), CC Weapon; Specialist Operative.
 - **Option 3:** **34 / 1.5** — MULTI Sniper Rifle, Pulzar, Silenced Pistol (PS=7), CC Weapon.
 - **Option 4 KHD:** **31 / 0** — AP Submachine Gun, Pulzar, D-Charges, Silenced Pistol (PS=7), CC Weapon; Killer Hacking Device.
-- **Option 5 Hacker:** **33 / 0.5** — option 4 weapons; Hacking Device.
 - **Option 6 FO:** **29 / 0** — AP Submachine Gun, Pulzar, D-Charges, Flash Pulse, Silenced Pistol (PS=7), CC Weapon; Deployable Repeater, Forward Observer.
-- **Option 8:** **30 / 0.5** — AP Submachine Gun, Pulzar, Viral Mine, D-Charges, Silenced Pistol (PS=7), CC Weapon; Minelayer (2).
+- **Option 8:** **31 / 1** — AP Submachine Gun, Pulzar, Viral Mine, D-Charges, Silenced Pistol (PS=7), CC Weapon; Minelayer (2).
+- **Option 9:** **30 / 0.5** — AP Submachine Gun, Pulzar, Viral Mine, D-Charges, Silenced Pistol (PS=7), CC Weapon; Minelayer.
+
 
 ### Arjuna Unit — `arjuna-unit`
 
@@ -508,16 +509,16 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 #### Interception Wing
 
 - **Stats:** `20-5 — 13 12 13 4 6 3 7`; AVA 1, VH/STR.
-- **Rules/equipment:** Remote Presence, Aerial, BS Attack (SR-1), Courage, Dodge (-3 source modifier), Mimetism (-6), No Cover, Super-Jump (+7.5; Jet Propulsion), Tech-Recovery, Total Terrain, Transmutation (Escape System -2), GizmoKit (PH=13); ECM Hacker (-3), MSV1.
-- **Option 1:** **41 / 1.5** — MULTI Red Fury, Chain Rifle.
-- **Option 2:** **38 / 0** — MULTI Marksman Rifle, AP Submachine Gun.
-- **Option 3:** **34 / 0** — MULTI Marksman Rifle, Chain Rifle (+1B).
+- **Rules/equipment:** Remote Presence, Aerial, BS Attack (SR-1), Courage, Dodge (-3 source modifier), Mimetism (-6), No Cover, Super-Jump (Jet Propulsion), Tech-Recovery, Total Terrain, Transmutation (Escape System -2), GizmoKit (PH=13); ECM Hacker (-3), MSV1.
+- **Option 1:** **45 / 1.5** — MULTI Red Fury, Chain-colt.
+- **Option 2:** **42 / 0** — MULTI Marksman Rifle, AP Submachine Gun.
+- **Option 3:** **38 / 0** — MULTI Marksman Rifle, Chain-colt.
 
 #### Tarkshya Operator alternate state
 
-- **Stats:** `15-5 13 13 10 13 3 3 3 2`; HI/STR.
-- **Rules/equipment:** Remote Presence, Courage, Mimetism (-6), Forward Observer (+1SD), Super-Jump (Jet Propulsion); ECM Hacker (-3), MSV1.
-- Disabled/internal operator loadouts correspond to the selected primary option and add Flash Pulse (+1SD), MULTI Pistol, and CC Weapon to the carried gun package.
+- **Stats:** `10-10 13 12 9 13 3 3 3 2`; HI/STR.
+- **Rules/equipment:** Remote Presence, Courage, Mimetism (-3), Forward Observer, Super-Jump (Jet Propulsion); ECM Hacker (-3), MSV1.
+- Disabled/internal operator loadouts correspond to the selected primary option and add Flash Pulse, MULTI Pistol, and CC Weapon to the carried gun package.
 
 ### Pilot-X Team — `pilot-x-team`
 

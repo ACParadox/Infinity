@@ -129,7 +129,7 @@ Coverage notes:
 | Djanbazan Tactical Group | 306 | 3 | MI | Regular | Fireteams I, max 2 |
 | Murabids Tuareg | 311 | 2 | SK | Regular | — |
 | Korsan, Corsairs of the Gate | 1758 | 2 | LI | Regular | Fireteams II, **FTO profiles only**, max 2 |
-| Daylami Infantry | 323 | 3 | LI | Irregular | — |
+| Daylami Infantry | 323 | 2 | LI | Regular | — |
 | Triphammer, Repurposed Industrial TAG | 1569 | 1 | TAG | Regular + Tactical Awareness | — |
 | Haytham Aero-unit | 1851 | 1 | VH | Regular | — |
 | Azra'il | 330 | 1 | HI | Regular | Fireteams I, max 1 |
@@ -564,16 +564,15 @@ Coverage notes:
 
 **November 2026 correction (overrides archived fields):** Regular only; remove six old irregular options. November 26 hotfix changes AVA to 2 (later than SITREP). Regular options: Rifle/GL 11/0.5; Marksman Rifle 12/0; Camouflage (1 Use)/Infiltration Rifle/Light Shotgun 13/0 or Light Shotgun/Panzerfaust 11/0.
 
-**ID 323 · AVA 3 · LI** — Irregular light infantry with disposable-weapon and Camouflage variants.
+**ID 323 · AVA 2 · LI · Regular** — November 26 hotfix `7.26330.236`.
 
-| Pts | SWC | Loadout / differences | FT |
-|---:|---:|---|---|
-| 5 | 0 | Light Shotgun | — |
-| 10 | 0.5 | Rifle, Grenade Launcher | — |
-| 6 | 0 | Light Shotgun, Panzerfaust | — |
-| 10 | 0 | Marksman Rifle profile | — |
-| 9 | 0 | Camouflage; Rifle, Light Shotgun | — |
-| 8 | 0 | Camouflage; Light Shotgun, Panzerfaust | — |
+| Opt | Pts | SWC | Loadout / differences | FT |
+|---:|---:|---:|---|---|
+| 7 | 11 | 0.5 | Rifle, Grenade Launcher | — |
+| 8 | 12 | 0 | Marksman Rifle | — |
+| 9 | 13 | 0 | Rifle, Light Shotgun; Camouflage (1 Use), Infiltration | — |
+| 10 | 11 | 0 | Light Shotgun, Panzerfaust; Camouflage (1 Use), Infiltration | — |
+
 
 ### Triphammer, Repurposed Industrial TAG
 

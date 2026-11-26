@@ -444,12 +444,12 @@ Transmutation; Tactical Awareness; each current profile includes a **TurtleMek A
 **November 25 profile correction (overrides archived fields):** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
 
 **Unit ID:** 1160 · **Slug:** `aida-swanson` · **AVA:** 1 · **LI / Character / Regular**  
-`MOV 10-10 | CC 19 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Forward Deployment (+10), Mimetism (-3), Stealth.
+`MOV 10-10 | CC 21 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Forward Deployment (+10), Mimetism (-3), Stealth.
 
 | Profile ID | Pts | SWC | Loadout / flags |
 |---:|---:|---:|---|
-| 1 | 24 | 0.5 | SMG (+1B), Viral Mine, Viral Pistol, Shock CCW; **Minelayer**, Decoy; non-FTO |
-| 2 | 21 | 0 | **FTO**; SMG, Viral Mine, Viral Pistol, Shock CCW; **Minelayer** |
+| 1 | 25 | 0.5 | SMG (+1B), Viral Mine, Viral Pistol, Viral CC Weapon (PS=6); **Minelayer (2)**, Camouflage (1 Use), Surprise Attack (-3); non-FTO |
+| 2 | 21 | 0 | **FTO**; SMG, Viral Mine, Viral Pistol, Viral CC Weapon (PS=6); **Minelayer (2)** |
 
 ### S.T.R.S. Tanuki Team
 
@@ -541,13 +541,13 @@ Transmutation; Tactical Awareness; each current profile includes a **TurtleMek A
 | State | MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Dogface | 15-10 | 22 | 11 | 14 | 13 | 2 | 3 | 3 | 2 |
-| Dog-Warrior | 15-10 | 23 | 11 | 16 | 13 | 4 | 6 | 3 | 6 |
+| Dog-Warrior | 15-10 | 23 | 11 | 16 | 13 | 4 | 3 | 3 | 6 |
 
 Martial Arts L3, Berserk, Super-Jump and transformation-related rules as encoded by source.
 
 | Profile ID | Pts | SWC | Loadout |
 |---:|---:|---:|---|
-| 2 | 30 | 0 | Chain Rifle (+1B), Viral Tactical Bow (+1SD), Grenades, AP Heavy Pistol (+1B), AP+T2 CCW |
+| 2 | 33 | 0 | Chain Rifle (PS=6), Viral Tactical Bow (+1SD), Grenades, AP Heavy Pistol (+1B), AP+T2 CCW |
 
 ### Kazurabā Ruby Monday
 

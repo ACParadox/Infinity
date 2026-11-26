@@ -340,12 +340,12 @@ Optional-mode units:
 
 ### Aïda Swanson
 
-**ID 1160 · AVA 1 · LI** — `MOV 10-10 | CC 19 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Courage, Booty, Mimetism (-3), Stealth, Shasvastii.
+**ID 1160 · AVA 1 · LI** — `MOV 10-10 | CC 21 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Courage, Booty, Mimetism (-3), Stealth, Shasvastii.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 24 | 0.5 | SMG (+1B), Viral Mine, Viral Pistol, Shock CCW; Forward Deployment (+10), Minelayer, Decoy (2) | — |
-| 2 | 21 | 0 | **AÏDA SWANSON FTO**; SMG, Viral Mine, Viral Pistol, Shock CCW; Minelayer | —; no NCA chart row |
+| 1 | 25 | 0.5 | SMG (+1B), Viral Mine, Viral Pistol, Viral CC Weapon (PS=6); Forward Deployment (+10), Minelayer (2), Camouflage (1 Use), Surprise Attack (-3) | — |
+| 2 | 21 | 0 | **AÏDA SWANSON FTO**; SMG, Viral Mine, Viral Pistol, Viral CC Weapon (PS=6); Minelayer (2) | —; no NCA chart row |
 
 ### Warcors
 

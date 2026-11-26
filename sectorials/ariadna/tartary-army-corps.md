@@ -272,9 +272,9 @@ All Dynamo profiles are Regular + Impetuous.
 | 1 | 10 | 0 | **BARSUK FTO**; Heavy Flamethrower, Light Shotgun, Pistol, CCW | Wildcard; counts as Line Kazaks / Gunnery |
 | 2 | 19 | 0 | **BARSUK FTO**; AP Marksman Rifle, Pistol, CCW; BS Attack (Shock) | same |
 | 3 | 12 | 0 | Heavy Flamethrower, Light Shotgun, Pistol, CCW; Forward Deployment (+20) | — |
-| 4 | 11 | 0 | Heavy Flamethrower, Light Shotgun, Pistol, CCW; Camouflage (1 Use), Decoy | — |
-| 5 | 19 | 0 | AP Marksman Rifle, Pistol, CCW; Camouflage (1 Use), Decoy | — |
-| 6 | 12 | 0 | Thunderbolt, Pistol, CCW; Camouflage (1 Use), Decoy | — |
+| 4 | 11 | 0 | Heavy Flamethrower, Light Shotgun, Pistol, CCW; Camouflage (1 Use), Decoy, Surprise Attack (-3) | — |
+| 5 | 19 | 0 | AP Marksman Rifle, Pistol, CCW; Camouflage (1 Use), Decoy, Surprise Attack (-3) | — |
+| 6 | 12 | 0 | Thunderbolt, Pistol, CCW; Camouflage (1 Use), Decoy, Surprise Attack (-3) | — |
 
 ### Streloks, Kazak Reconnaissance Unit
 
@@ -426,11 +426,11 @@ Counts as Veteran in the Veterans chart.
 
 **November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); Character classification; Smoke Grenades profile remains 32 pts.
 
-**ID 1940 · AVA 1 · WB** — Dogface: `MOV 15-10 | CC 22 | BS 11 | PH 14 | WIP 13 | ARM 2 | BTS 3 | W 3 | S 2`; Dog-Warrior form: `MOV 15-10 | CC 23 | BS 11 | PH 16 | WIP 13 | ARM 4 | BTS 6 | W 3 | S 6`. Martial Arts L3, BS Attack (-3), Berserk, Dodge (+5), Immunity (ARM), No Cover, Super-Jump, Transmutation (1), Religious Troop, Impetuous.
+**ID 1940 · AVA 1 · WB** — Dogface: `MOV 15-10 | CC 22 | BS 11 | PH 14 | WIP 13 | ARM 2 | BTS 3 | W 3 | S 2`; Dog-Warrior form: `MOV 15-10 | CC 23 | BS 11 | PH 16 | WIP 13 | ARM 4 | BTS 3 | W 3 | S 6`. Martial Arts L3, BS Attack (-3), Berserk, Dodge (+5), Immunity (ARM), No Cover, Super-Jump, Transmutation (1), Religious Troop, Impetuous.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 32 | 0 | Chain Rifle, Viral Tactical Bow, Smoke Grenades, AP Heavy Pistol, AP+T2 CCW; Irregular | Mobility max 1 |
+| 1 | 32 | 0 | Chain Rifle (PS=6), Viral Tactical Bow, Smoke Grenades, AP Heavy Pistol, AP+T2 CCW; Irregular | Mobility max 1 |
 
 ## Canonical Fireteam chart
 
