@@ -10,6 +10,15 @@
 
 **What Vanilla Nomads does exceptionally well:** it can combine elite hackers, immediate midfield control, extremely cheap Smoke/Eclipse and trading packages, dangerous independent shooting, and a wide choice of specialists in the *same* roster. The payoff is breadth and redundancy, **not** the full linked-gun bonuses or AVA of every Nomad sectorial.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Shadowcrow Operator** | E/Marat airborne24/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) · [DZ attack S #17](../list-building/dz-attackers-ranking.md) · [Toolbox S #24](../list-building/toolbox-units-rankings.md) · [Zone A #31](../list-building/objective-holding-ranking.md) | Exact ranked Nomads variant: inexpensive off-angle anti-tech disruption, SO and deployable denial. |
+
 ### Whole-game standouts — apex versus value
 
 **Ranking rule:** These are cross-faction, role-specific Apex (maximum impact) and Value (points efficiency) rankings, not overall troop rankings. A row is sorted by its strongest verified Top 3, Top 5, or Top 10 placement in either column. For a combined ranking, the same placement can appear in both columns. Profile limitations and exact local roster legality still apply; do not transfer Fireteam privileges or mutually exclusive loadouts.
