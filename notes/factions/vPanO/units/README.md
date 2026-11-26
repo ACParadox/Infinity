@@ -1,6 +1,6 @@
 # Vanilla PanOceania — Unit analyses
 
-50 of the 51 standard roster units have existing sectorial unit notes adapted here. Each note includes the pinned vanilla profile, source-sectorial AVA and option/price comparison, independent tactical use, and the retained original analysis. [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) governs selection; [listbuilding](../vanilla-pano-listbuilding.md) and [unlinked synergies](../vanilla-pano-fireteams.md) govern faction context. **Vanilla has no standard Fireteam chart**; neither FTO labels nor historical sectorial recommendations grant link access.
+This directory contains adapted sectorial unit analyses and vanilla-specific entries such as Shadowcrow. The [pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) governs profiles and selection; [listbuilding](../vanilla-pano-listbuilding.md) and [Fireteams](../vanilla-pano-fireteams.md) govern faction context. Vanilla has two Fireteam families from the November 24 corrected chart; FTO labels alone do not grant eligibility. The November 25 profile deltas are documented in the affected notes; full roster and Fireteam reconciliation is pending.
 
 ## Unit notes
 
@@ -45,6 +45,7 @@
 - [Pilot X](pilot-x.md)
 - [Redeye](redeye.md)
 - [Scarecrow](scarecrow.md)
+- [Shadowcrow Operator](shadowcrow.md)
 - [Sierra Dronbot](sierra-trbot.md)
 - [Squalos Mk-II](squalos.md)
 - [Swiss Guard](swiss-guard.md)
@@ -58,4 +59,4 @@
 ## Not copied
 
 - Motorized Bounty Hunters (ID 1565): selectable in vanilla, but no dedicated source-sectorial unit analysis was found. See the pinned vanilla roster for profiles; no new full analysis was requested.
-- Sectorial-only units and optional-mode entries are excluded. RacerBots are documented as components of Pilot-X Team rather than as standalone selections. Joan and Maximus variants have separate notes but each character is mutually exclusive across its two variants.
+- Sectorial-only units and optional-mode entries are excluded. Standalone RacerBots Mk-I/Mk-II are distinct from the dependent Pilot-X Mk-III; consult the pinned roster. Joan and Maximus variants have separate notes but each character is mutually exclusive across its two variants.

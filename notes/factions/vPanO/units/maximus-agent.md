@@ -1,5 +1,7 @@
 # Optimate Agent Maximus — Vanilla PanOceania (Infinity N5.3)
 
+**November 2026 Army update:** Minimus MateBot's disabled/dependent profile has no independent Order in the Army data. This agrees with the existing synchronized-Peripheral analysis; Maximus's Regular Order, Tactical Awareness and Lieutenant options are unchanged. Retain current ratings. Source: [November SITREP](https://www.infinitytheclassifieds.com/sitrep); Army backup 7.26329.478.
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/kestrel-colonial-force.md) · [Source unit analysis](../../kestrel/units/maximus-agent.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
 ## Vanilla differences
