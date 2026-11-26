@@ -23,6 +23,15 @@
 
 **Bottom line:** Vanilla's most defensible **exact-profile uniqueness** is the **+1B TankHunter Portable Autocannon** and **Voronin's Strategos Lieutenant**. Its more important *army-level* distinction is the **cross-regiment camouflage/Decoy/anti-heavy shell** backed by **both Mirage-5 and Van Zant**, while retaining enough independent Smoke, specialists and defensive tools to build without a Core.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Shadowcrow Operator** | T2 Rifle airborne28/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) | Parachutist only on this local variant; no Combat Jump or E/Marat. Useful scoring and side-entry pressure. |
+
 ### Whole-game standouts — apex versus value
 
 **Ranking convention:** Cross-faction, role- and **selected-loadout-specific**, not overall unit or army ranks. **Apex** measures peak effectiveness in the stated role; **Value** measures effectiveness for the points. **Ordered strongest ranking first** (**#1 before #2, #3 … #10**), with **Apex before Value** when exact ranks tie; bounded *Top 3/5/10* placements follow exact placements in the same band, and unranked standouts come last. Only exact **#1–5** positions are bold. Multiple role placements for one legal profile are combined into a row instead of repeated across sections. Sources are the repository's linked cross-faction guides, checked against the [pinned Vanilla Ariadna roster](../../sectorials/ariadna/vanilla-ariadna.md); **other sectorials' Fireteam/AVA and absent loadouts never transfer**.
