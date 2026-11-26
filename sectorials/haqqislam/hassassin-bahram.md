@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 402
 sectorial_slug: hassassin-bahram
 sectorial_name: Hassassin Bahram
@@ -15,6 +15,18 @@ coverage: "33-unit standard Hassassin Bahram roster, all standard loadouts, comp
 ---
 
 # Hassassin Bahram
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections override conflicting archived values. The prior source pin remains the basis of unchanged fields; roster indexes and Fireteam charts are not yet fully reconciled. Status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release; later hotfixes may exist).
+
+- **Sunduqbut:** PH 12; all options gain Surprise Attack (-3). AP Spitfire 46 pts; Viral Rifle (+1B) Minelayer 40; Feuerbach 43; Neurocinetics Viral Rifle (+1B) 38; Neurocinetics AP Spitfire 46.
+- **Shakush:** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+- **Yara Haddad:** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts. Strategic Deployment non-LT 29 pts; LT remains 27.
+- **Daylami:** AVA 2; keep six irregular profiles, add four Regular ones. Regular options: Rifle/GL 11/0.5; Marksman Rifle 12/0; Camouflage (1 Use)/Infiltration Rifle/Light Shotgun 13/0 or Light Shotgun/Panzerfaust 11/0.
+
 
 ## Overview and provenance
 
@@ -114,6 +126,8 @@ Optional-mode units:
 ## Unit details
 
 ### Yara Haddad
+
+**November 2026 correction (overrides archived fields):** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts. Strategic Deployment non-LT 29 pts; LT remains 27.
 
 **ID 1548 · AVA 1 · MI · Character** — `MOV 10-10 | CC 16 | BS 13 | PH 11 | WIP 14 | ARM 2 | BTS 3 | W 1 | S 2`. Multispectral Visor L2, Immunity (ARM), Religious Troop.
 
@@ -245,6 +259,8 @@ Optional-mode units:
 | 1 | 23 | 0 | Chain Rifle (+1B), Grenades (PS 6), Smoke Grenades, AP + DA CCW (PS 3) | — |
 
 ### Sunduqbut, Covert Heavy-Support Unit
+
+**November 2026 correction (overrides archived fields):** PH 12; all options gain Surprise Attack (-3). AP Spitfire 46 pts; Viral Rifle (+1B) Minelayer 40; Feuerbach 43; Neurocinetics Viral Rifle (+1B) 38; Neurocinetics AP Spitfire 46.
 
 **ID 1590 · AVA 2 · HI · Spec. Trained Troops** — `MOV 10-10 | CC 13 | BS 13 | PH 14 | WIP 12 | ARM 4 | BTS 3 | W 2 | S 2`. Structure; Remote Presence, BS Attack (SR-1), Camouflage (1 Use), Courage, Forward Deployment (+20), Decoy (1).
 
@@ -414,6 +430,8 @@ Optional-mode units:
 
 ### Daylami Infantry
 
+**November 2026 correction (overrides archived fields):** AVA 2; keep six irregular profiles, add four Regular ones. Regular options: Rifle/GL 11/0.5; Marksman Rifle 12/0; Camouflage (1 Use)/Infiltration Rifle/Light Shotgun 13/0 or Light Shotgun/Panzerfaust 11/0.
+
 **ID 323 · AVA 5 · LI · Garrison Troops** — `MOV 10-10 | CC 15 | BS 11 | PH 10 | WIP 13 | ARM 1 | BTS 0 | W 1 | S 2`. Irregular; Terrain (Desert).
 
 | Opt | Pts | SWC | Loadout / differences | FT |
@@ -434,6 +452,8 @@ Optional-mode units:
 | 1 | 9 | 0 | **SHAKUSH PILOT**; Submachine Gun, D-Charges, Pistol, CCW; GizmoKit | Ghulam max 1; Shakush max 1 |
 
 ### Shakush Light Armored Unit
+
+**November 2026 correction (overrides archived fields):** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
 
 **ID 1546 · AVA 2 · TAG · Mechanized Troops** — `MOV 15-5 | CC 17 | BS 14 | PH 14 | WIP 14 | ARM 6 | BTS 6 | W 3 | S 6`. Structure; BS Attack (SR-1), Courage, Dodge (PH=11), Tactical Awareness, Gizmokit (PH=11). Includes one Jandab Ancillary Remote.
 

@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 403
 sectorial_slug: qapu-khalqi
 sectorial_name: Qapu Khalqi
@@ -15,6 +15,18 @@ coverage: "Standard Qapu Khalqi roster, standard loadouts, canonical Fireteam ch
 ---
 
 # Qapu Khalqi
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections override conflicting archived values. The prior source pin remains the basis of unchanged fields; roster indexes and Fireteam charts are not yet fully reconciled. Status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release; later hotfixes may exist).
+
+- **Zeybek:** Remove Super-Jump (7.5); old AP Spitfire/Smoke GL replaced by Spitfire 34/1.5 or Spitfire/Smoke GL 35/2; operator Albedo (-3).
+- **Shakush:** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+- **Korsan:** Shock CC Weapon (PS=6); remove Chain Rifle (+2B) FTO 14 pts; remaining Chain Rifle/Drop Bears FTO gains +1B, 14 pts.
+- **Burkut:** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
+
 
 ## Overview and provenance
 
@@ -390,6 +402,8 @@ Counts as labels from the chart: **Ghulam, Qapu Khalqi, Odalisque, Sekban, Janis
 
 ### Burkut
 
+**November 2026 correction (overrides archived fields):** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
+
 **ID 1759 · AVA 3 · HI** — `MOV 10-10 | CC 16 | BS 12 | PH 12 | WIP 14 | ARM 3 | BTS 6 | W 1 | S 2`. Engineer, GizmoKit, Deactivator, No Wound Incapacitation.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
@@ -408,6 +422,8 @@ Counts as labels from the chart: **Ghulam, Qapu Khalqi, Odalisque, Sekban, Janis
 | 1 | 26 | 0 | Plasma Rifle, D-Charges, Pistol, CC Weapon | — |
 
 ### Zeybek Aero-unit
+
+**November 2026 correction (overrides archived fields):** Remove Super-Jump (7.5); old AP Spitfire/Smoke GL replaced by Spitfire 34/1.5 or Spitfire/Smoke GL 35/2; operator Albedo (-3).
 
 **ID 1852 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 14 | ARM 5 | BTS 6 | W 3 | S 7`. Aerial vehicle profile.
 
@@ -455,6 +471,8 @@ Cordelia is an Engineer with GizmoKit, Deactivator, D-Charges and her listed sid
 
 ### Korsan, Corsairs of the Gate
 
+**November 2026 correction (overrides archived fields):** Shock CC Weapon (PS=6); remove Chain Rifle (+2B) FTO 14 pts; remaining Chain Rifle/Drop Bears FTO gains +1B, 14 pts.
+
 **ID 1758 · AVA 3 · LI** — `MOV 15-5 | CC 21 | BS 11 | PH 13 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Climbing Plus, Natural Born Warrior.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
@@ -487,6 +505,8 @@ Cordelia is an Engineer with GizmoKit, Deactivator, D-Charges and her listed sid
 | 4 | 11 | 0 | Rifle, Smoke Grenades, Pistol, AP CC Weapon | — |
 
 ### Shakush Light Armored Unit
+
+**November 2026 correction (overrides archived fields):** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
 
 **ID 1546 · AVA 2 · TAG** — `MOV 15-5 | CC 17 | BS 14 | PH 14 | WIP 14 | ARM 6 | BTS 6 | W 3 | S 6`. Tactical Awareness.
 

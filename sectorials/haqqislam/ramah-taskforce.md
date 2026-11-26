@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 404
 sectorial_slug: ramah-taskforce
 sectorial_name: Ramah Taskforce
@@ -15,6 +15,20 @@ coverage: "37-unit standard Ramah Taskforce roster with standard profiles/loadou
 ---
 
 # Ramah Taskforce
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections override conflicting archived values. The prior source pin remains the basis of unchanged fields; roster indexes and Fireteam charts are not yet fully reconciled. Status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release; later hotfixes may exist).
+
+- **Haytham:** Remove Super-Jump (7.5); Heavy Shotgun (+1B)/Chain Rifle/Panzerfaust 33 pts. Red Fury 37 pts, retains Panzerfaust.
+- **Nahab:** MOV 15-5; all options gain Surprise Attack (-3).
+- **Shakush:** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+- **Yara Haddad:** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts.
+- **Burkut:** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
+- **Valerya Gromoz:** New Boarding Shotgun hacker 16/0.5; Combi Rifle remains 19 pts.
+
 
 ## Overview and provenance
 
@@ -236,6 +250,8 @@ Coverage notes:
 
 ### Shakush Light Armored Unit
 
+**November 2026 correction (overrides archived fields):** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+
 **ID 1546 · AVA 2 · TAG** — `MOV 15-5 | CC 17 | BS 14 | PH 14 | WIP 14 | ARM 6 | BTS 6 | STR 3 | S 6`  
 **Common:** BS Attack (SR-1), Courage, Dodge (PH=11), Tactical Awareness, GizmoKit (PH=11). Includes one Jandab Ancillary Remote.
 
@@ -245,6 +261,8 @@ Coverage notes:
 | 2 | 56 | 1.5 | AP Spitfire, Heavy Flamethrower, AP CCW (PS=6) | Armored Assault |
 
 ### Valerya Gromoz
+
+**November 2026 correction (overrides archived fields):** New Boarding Shotgun hacker 16/0.5; Combi Rifle remains 19 pts.
 
 **ID 464 · AVA 1 · LI** — `MOV 10-10 | CC 15 | BS 11 | PH 10 | WIP 14 | ARM 1 | BTS 3 | W 1 | S 2`.
 
@@ -350,6 +368,8 @@ Coverage notes:
 
 ### Haytham Aero-unit
 
+**November 2026 correction (overrides archived fields):** Remove Super-Jump (7.5); Heavy Shotgun (+1B)/Chain Rifle/Panzerfaust 33 pts. Red Fury 37 pts, retains Panzerfaust.
+
 **ID 1851 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 13 | WIP 14 | ARM 3 | BTS 6 | STR 2 | S 7`  
 **Common:** MSV1, Aerial, Courage, Dodge (-3), Mimetism (-6), No Cover, Super-Jump (Jet Propulsion; 7.5), Terrain (Total), BS Attack (Continuous Damage), Tech-Recovery.
 
@@ -388,6 +408,8 @@ Coverage notes:
 
 ### Yara Haddad
 
+**November 2026 correction (overrides archived fields):** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts.
+
 **ID 1548 · AVA 1 · MI** — `MOV 10-10 | CC 16 | BS 13 | PH 11 | WIP 14 | ARM 2 | BTS 3 | W 1 | S 2`; MSV2, Immunity (ARM), Religious Troop.
 
 | Opt | Pts | SWC | Loadout / differences | FT |
@@ -407,6 +429,8 @@ Coverage notes:
 | 4 | 15 | 0 | Boarding Shotgun, D-Charges, Boarding Pistol, CCW; Forward Observer |
 
 ### Nahab Aeromobile Team
+
+**November 2026 correction (overrides archived fields):** MOV 15-5; all options gain Surprise Attack (-3).
 
 **ID 1314 · AVA 3 · LI** — `MOV 10-10 | CC 23 | BS 12 | PH 13 | WIP 14 | ARM 1 | BTS 3 | W 1 | S 2`  
 **Common:** Martial Arts L3, Berserk, Courage, Dodge (+5), Immunity (ARM/Critical), Decoy (2), Stealth, No Wound Incapacitation, Terrain (Total), BS Attack (-3), Frenzy, Jump (7.5), Bangbomb (+4).
@@ -457,6 +481,8 @@ Coverage notes:
 | 1 | 7 | 0 | Flash Pulse, PARA CCW (-3) |
 
 ### Burkut, Aerospace Engineering Regiment
+
+**November 2026 correction (overrides archived fields):** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
 
 **ID 1759 · AVA 2 · HI** — `MOV 10-10 | CC 16 | BS 12 | PH 12 | WIP 14 | ARM 3 | BTS 6 | W 1 | S 2`  
 **Common:** Engineer, Immunity (Shock, Continuous Damage), Mimetism (-3), No Wound Incapacitation, Terrain (Zero-G), Religious Troop, Deactivator, GizmoKit.

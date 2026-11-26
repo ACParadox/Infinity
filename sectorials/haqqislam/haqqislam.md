@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 401
 sectorial_slug: haqqislam
 sectorial_name: Vanilla Haqqislam
@@ -15,6 +15,37 @@ coverage: "Vanilla Haqqislam standard roster, AVA, standard loadouts and points/
 ---
 
 # Vanilla Haqqislam
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections override conflicting archived values. The prior source pin remains the basis of unchanged fields; roster indexes and Fireteam charts are not yet fully reconciled. Status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release; later hotfixes may exist).
+
+- **Haytham:** Remove Super-Jump (7.5); Heavy Shotgun (+1B)/Chain Rifle/Panzerfaust 33 pts. Red Fury 36 pts, loses Panzerfaust.
+- **Zeybek:** Remove Super-Jump (7.5); old AP Spitfire/Smoke GL replaced by Spitfire 34/1.5 or Spitfire/Smoke GL 35/2; operator Albedo (-3).
+- **Sunduqbut:** PH 12; all options gain Surprise Attack (-3). AP Spitfire 46 pts; Viral Rifle (+1B) Minelayer 40; Feuerbach 43; Neurocinetics Viral Rifle (+1B) 38; Neurocinetics AP Spitfire 46.
+- **Hunzakuts:** AVA 1.
+- **Bashi Bazouks:** AVA 1.
+- **Ghazi Muttawi'ah:** AVA 3.
+- **Zamira Nazarova:** Berserk (+3), Smoke Grenades (+1SD), Boarding Pistol replaces AP Heavy Pistol (+1B).
+- **Shakush:** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+- **Yara Haddad:** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts.
+- **Korsan:** Shock CC Weapon (PS=6); remove Chain Rifle (+2B) FTO 14 pts; remaining Chain Rifle/Drop Bears FTO gains +1B, 14 pts.
+- **Burkut:** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
+- **Daylami:** Regular only; remove six old irregular options. November 26 hotfix changes AVA to 2 (later than SITREP). Regular options: Rifle/GL 11/0.5; Marksman Rifle 12/0; Camouflage (1 Use)/Infiltration Rifle/Light Shotgun 13/0 or Light Shotgun/Panzerfaust 11/0.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---:|---|
+| 1 | 30 | 0 | FTO; Thunderbolt, Drop Bears, D-Charges, Breaker Pistol (PS=6), CC Weapon; BS Attack (Continuous Damage) |
+| 5 | 27 | 0 | Contender, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+
+FTO legality requires the new chart.
+
 
 ## Overview and provenance
 
@@ -141,6 +172,8 @@ Coverage notes:
 
 ### Burkut
 
+**November 2026 correction (overrides archived fields):** LRL (PS=6) 0 SWC; E/Marat (+1B) gains Flash Pulse; Heavy Flamethrower (+1B) replaces AP Mine with Flammenspeer.
+
 **ID 1759 · AVA 2 · HI** — `MOV 10-10 | CC 16 | BS 12 | PH 12 | WIP 14 | ARM 3 | BTS 6 | W 1 | S 2`. Engineer, Mimetism (-3), NWI, Religious Troop; GizmoKit and Deactivator.
 
 | Pts | SWC | Loadout / differences | FT |
@@ -193,6 +226,8 @@ Coverage notes:
 
 ### Sunduqbut
 
+**November 2026 correction (overrides archived fields):** PH 12; all options gain Surprise Attack (-3). AP Spitfire 46 pts; Viral Rifle (+1B) Minelayer 40; Feuerbach 43; Neurocinetics Viral Rifle (+1B) 38; Neurocinetics AP Spitfire 46.
+
 **ID 1590 · AVA 1 · HI** — `MOV 10-10 | CC 13 | BS 13 | PH 14 | WIP 12 | ARM 4 | BTS 3 | W 2 | S 2`. Camouflage / Neurocinetics profile family.
 
 | Pts | SWC | Loadout / differences | FT |
@@ -205,6 +240,8 @@ Coverage notes:
 
 ### Yara Haddad
 
+**November 2026 correction (overrides archived fields):** BS Attack (Continuous Damage), Counterintelligence, Nanopulser on all loadouts. Standard and LT 26 pts.
+
 **ID 1548 · AVA 1 · MI** — `MOV 10-10 | CC 16 | BS 13 | PH 11 | WIP 14 | ARM 2 | BTS 3 | W 1 | S 2`. MSV2.
 
 | Pts | SWC | Loadout / differences | FT |
@@ -213,6 +250,8 @@ Coverage notes:
 | 24 | 0 | Same weapons; Lieutenant | same |
 
 ### Hunzakuts
+
+**November 2026 correction (overrides archived fields):** AVA 1.
 
 **ID 310 · AVA 2 · SK** — Irregular Camouflage / infiltration utility specialists.
 
@@ -224,6 +263,8 @@ Coverage notes:
 | 15 | 0 | Boarding Shotgun, D-Charges; Forward Observer | — |
 
 ### Zamira Nazarova
+
+**November 2026 correction (overrides archived fields):** Berserk (+3), Smoke Grenades (+1SD), Boarding Pistol replaces AP Heavy Pistol (+1B).
 
 **ID 321 · AVA 1 · WB** — `MOV 20-15 | CC 22 | BS 12 | PH 13 | WIP 13 | ARM 1 | BTS 0 | W 1 | S 4`. Irregular, Impetuous, Motorcycle.
 
@@ -246,6 +287,8 @@ Coverage notes:
 | 19 | 0 | Rifle, Light Shotgun; Lieutenant (+1 Order) | same |
 
 ### Zeybek Aero-unit
+
+**November 2026 correction (overrides archived fields):** Remove Super-Jump (7.5); old AP Spitfire/Smoke GL replaced by Spitfire 34/1.5 or Spitfire/Smoke GL 35/2; operator Albedo (-3).
 
 **ID 1852 · AVA 1 · VH** — `MOV 20-5 | BS 13 | PH 12 | WIP 14 | ARM 5 | BTS 6 | W 3 | S 7`. Aerial vehicle profile with included operator.
 
@@ -503,6 +546,8 @@ Coverage notes:
 
 ### Korsan, Corsairs of the Gate
 
+**November 2026 correction (overrides archived fields):** Shock CC Weapon (PS=6); remove Chain Rifle (+2B) FTO 14 pts; remaining Chain Rifle/Drop Bears FTO gains +1B, 14 pts.
+
 **ID 1758 · AVA 2 · LI** — `MOV 15-5 | CC 21 | BS 11 | PH 13 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Natural Born Warrior, Climbing Plus.
 
 | Pts | SWC | Loadout / differences | FT |
@@ -516,6 +561,8 @@ Coverage notes:
 | 21 | 0 | Boarding Shotgun Parachutist profile | **No FT** |
 
 ### Daylami Infantry
+
+**November 2026 correction (overrides archived fields):** Regular only; remove six old irregular options. November 26 hotfix changes AVA to 2 (later than SITREP). Regular options: Rifle/GL 11/0.5; Marksman Rifle 12/0; Camouflage (1 Use)/Infiltration Rifle/Light Shotgun 13/0 or Light Shotgun/Panzerfaust 11/0.
 
 **ID 323 · AVA 3 · LI** — Irregular light infantry with disposable-weapon and Camouflage variants.
 
@@ -540,6 +587,8 @@ Coverage notes:
 | 48 | 0 | Heavy Shotgun, Heavy Rocket Launcher, Panzerfaust (+1B), AP CC Weapon | — |
 
 ### Haytham Aero-unit
+
+**November 2026 correction (overrides archived fields):** Remove Super-Jump (7.5); Heavy Shotgun (+1B)/Chain Rifle/Panzerfaust 33 pts. Red Fury 36 pts, loses Panzerfaust.
 
 **ID 1851 · AVA 1 · VH** — `MOV 20-5 | BS 13 | PH 13 | WIP 14 | ARM 3 | BTS 6 | W 2 | S 7`. Aerial attack vehicle.
 
@@ -649,6 +698,8 @@ Coverage notes:
 
 ### Shakush Light Armored Unit
 
+**November 2026 correction (overrides archived fields):** BS Attack (-3), Warhorse; PH 13; HMG (Continuous Damage) 60 pts, AP Spitfire 58 pts.
+
 **ID 1546 · AVA 2 · TAG** — Tactical Awareness light TAG; Jandab operator support.
 
 | Pts | SWC | Loadout / differences | FT |
@@ -705,6 +756,8 @@ Coverage notes:
 | 22 | 0 | Viral Rifle, Light Shotgun, Flash Pulse; Forward Observer | — |
 
 ### Bashi Bazouks
+
+**November 2026 correction (overrides archived fields):** AVA 1.
 
 **ID 325 · AVA 2 · LI** — Irregular Holoprojector / Parachutist assault infantry.
 
