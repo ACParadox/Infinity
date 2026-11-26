@@ -26,6 +26,8 @@ _Rankings reassessed 2026-11-03 (pinned September 2026 N5.3 profiles remain the 
 
 **Dedicated melee follow-through:** [N5.3 CC assassination/fighter tiers](dedicated-close-combat-assassins-apex-value.md) ranks **Melee contact and CC conversion** separately from airborne or enemy-DZ arrival. A Rasyat/Van Zant excellent at arriving behind the enemy is **not automatically the top duelist**.
 
+**Objective-scoring distinction:** For Combat Jump/Parachutist profiles whose primary job is to score, filter the `Airborne` tag in the [unified Mission Specialists ranking](mission-specialists-and-button-pushers-apex-value.md). This guide ranks attack and disruption, not a second objective-specialist leaderboard.
+
 ## 30-second verdict
 
 - **Best reliable direct enemy-DZ insertion:** **Rasyat 25/0 boarding shotgun or 34/1.5 Spitfire** (Morat/eligible Combined). **Parachutist (Deployment Zone)** guarantees a **legal enemy-DZ table-edge entry without a PH roll**, while **Eclipse, CC, Warhorse and Combat Jump** provide answers to both sight lines and backline counterattack. **25pt is points-value king**, 34pt best for multiple sequential soft targets at range.
