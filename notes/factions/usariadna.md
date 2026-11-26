@@ -6,7 +6,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
