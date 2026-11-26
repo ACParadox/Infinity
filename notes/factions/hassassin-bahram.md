@@ -44,6 +44,16 @@
 
 **Bottom line:** **Vanilla is the broader all-purpose army** in the repository's editorial rankings; **Bahram earns its slot when the list actively exploits Shujae/Áyyār hidden threats, repeated Impersonation or genuinely useful Core/Haris combinations**. A single Fiday, Barid KHD, Daylami Panzerfaust, Asawira or Shakush is **not** by itself a reason to take Bahram: Vanilla can field those too.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Bokhtar** | Parachutist BSG Paramedic49/0 | [Mission A+ #92](../list-building/mission-specialists-ranking.md) · [Toolbox A+ #57](../list-building/toolbox-units-rankings.md) · [DZ attack A #63](../list-building/dz-attackers-ranking.md) | High-cost mobile scoring and assault option; separate Red Fury52/1.5 is not a Paramedic. |
+| **Áyyār** | FD(+10) Breaker Rifle + Drop Bears38/0 | [Toolbox A+ #64](../list-building/toolbox-units-rankings.md) · [Zone A+ #21](../list-building/objective-holding-ranking.md) | SO, Holoprojector, Hidden Deployment, Surprise Attack(-6), Triangulated Fire and selected deployables. Do not combine the separate Disco Baller profile with Drop Bears. |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: B+ — #22 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Impersonators, Hidden Deployment, mines, Jammers and Pitchers remain strong; reduced Daylami AVA is partly offset by Shakush, Yara and Sunduqbut improvements.
