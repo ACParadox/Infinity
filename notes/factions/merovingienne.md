@@ -6,7 +6,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -24,8 +24,8 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 36 | A+ | Loup-Garou Viral MMR Marksmanship24/0.5 — Merovingienne | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 8 | S+ | Chasseur FO20/0 — FRRM/eligible Ariadna | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 50 | S | Para-Commando FO21/0 or Paramedic19/0 — FRRM/Kosmoflot | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 161 | A | Métro SO 10 or Paramedic 10 — FRRM | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 190 | A | Brigadier Bruant SO33/1 Infiltration or FTO28/1 — FRRM | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 160 | A | Métro SO 10 or Paramedic 10 — FRRM | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 189 | A | Brigadier Bruant SO33/1 Infiltration or FTO28/1 — FRRM | Roster named in source |
 | [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 12 | S | Kuryer Katyusha 15/1 — TAK/FRRM | Roster named in source |
 | [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 22 | S | Carmen Johns + Bâtard17/0 — TAK/FRRM/eligible | Roster named in source |
 
