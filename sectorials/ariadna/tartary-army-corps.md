@@ -114,10 +114,12 @@ Optional-mode units:
 
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
-| 1 | 18 | 0 | Light Shotgun, Flash Pulse, Pistol, AP CCW | Wildcard; counts as Line Kazak |
-| 2 | 22 | 0 | As Opt 1; Lieutenant (+1 Command Token) | same |
-| 3 | 18 | 0 | T2 Boarding Shotgun, Pistol, AP CCW | same |
-| 4 | 22 | 0 | As Opt 3; Lieutenant (+1 Command Token) | same |
+| 1 | 18 | 0 | Light Shotgun (+1B), Flash Pulse, Pistol, AP CCW (PS=5) | Wildcard; counts as Line Kazak |
+| 2 | 22 | 0 | As Opt 1; Lieutenant (+1 Command Token), Strategos L1 | same |
+| 3 | 18 | 0 | T2 Boarding Shotgun, Pistol, AP CCW (PS=5) | same |
+| 4 | 22 | 0 | As Opt 3; Lieutenant (+1 Command Token), Strategos L1 | same |
+
+**Verified 26 November 2026:** Both the September pin and November 25 snapshot include Strategos L1 (skill ID 69) on options 2/4 only; weapon extras confirm Light Shotgun (+1B) and AP CCW (PS=5). Earlier omission was a transcription error, not a balance change.
 
 ### Dog-Warriors
 
