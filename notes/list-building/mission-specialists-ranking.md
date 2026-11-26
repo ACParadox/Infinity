@@ -252,7 +252,7 @@ The initial unified order uses the previous four ranked lists as editorial evide
 - [Mission scoring and specialists](../Strategy/mission-scoring-and-specialist-strategy.md); [order efficiency](../Strategy/order-efficiency.md); [Fireteams and profile legality](../Strategy/fireteams-and-profile-evaluation.md).
 - [Objective holding, domination and carriers](objective-holding-zone-domination-and-carriers-ranking.md) for scenarios where surviving **after** the console or pickup matters most.
 - [Hackers](hackers-ranking.md) and [Killer Hackers](killer-hackers-ranking.md) for **competitive hacking capability, including hybrid profiles**; those are separate from scoring rankings.
-- [Doctors and Engineers — recovery reliability](doctors-engineers-and-recovery-ranking.md); [toolbox specialists](jack-of-all-trades-toolbox-units-apex-value.md); [LT/CoC command value](LT-ranking.md).
+- [Doctors and Engineers — recovery reliability](doctors-engineers-ranking.md); [toolbox specialists](jack-of-all-trades-toolbox-units-apex-value.md); [LT/CoC command value](LT-ranking.md).
 - [Robert Shepherd — O-12 faction focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=2640s) (reviewed in project notes), and [Hassassin Bahram episode](https://www.youtube.com/watch?v=Yqy3FwN7hjQ) for the historical Farzan FO-vs-CoC tradeoff. **Correction to older commentary:** Farzan CoC is not a generic Specialist in the pinned roster.
 
 _Reviewed November 11, 2026. Tactical comparative judgments, not measured win rates. Source of truth: pinned N5.3 profiles in the [sectorial roster files](../../sectorials/)._
