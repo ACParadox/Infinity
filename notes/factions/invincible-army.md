@@ -32,7 +32,59 @@
 | **Mówáng/Gūijiă Shock Duo availability** | IA has **Mówáng AVA3** and **Gūijiă AVA2** in its Shock Duo family. | Vanilla already has Duo access to Mówáng/Gūijiă in FT-01; IA's higher Mówáng AVA and its precise Shock-chart restrictions, not mere Duo access, differentiate it. Required-choice/minimum fields remain ambiguous; verify proposed pairs. |
 | **What IA gives up** | Concentrates premium armoured bodies and Fireteam support. | Vanilla gains **Shaolin Smoke**, Dàofěi, Guìláng, Sù-Jiàn, additional TAG/VH/warband options and broader independent mission coverage. |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Command Lieutenants — unified ranking](../list-building/LT-ranking.md#command-lieutenants--unified-ranking) | 2 | S | Dāoyīng LT(+1) 23/0 — Vanilla Yu Jing / Invincible Army | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 8 | S | Yān Huǒ 42/1.5, Neurocinetics(+1B) ML — Invincible Army | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 32 | A+ | Hǎidào 29/1.5 MSV2 MULTI Sniper — Invincible Army | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 5 | S | Tai Sheng — 36/0; 40/0; roster examples: Invincible Army | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 26 | A | Hǎidào Special Support Group — 24/0; roster examples: Invincible Army; White Company | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 39 | B | Léi Gōng FTO — 34/0; roster examples: Invincible Army; White Banner | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 27 | — | Gūdǎn 12/0 Camo (1 Use) + Forward Deployment, SMG/Zapper/Shock Mine — White Banner / eligible Yu Jing | Existing local profile match; verify exact variant |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 22 | A | Zhanshi Yīshēng14/0 — Yu Jing/IA | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 13 | A+ | Mech-Engineer14/0 WIP13 — Yu Jing/IA/White Banner | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 15 | A | Johnny Kao36/0 WIP14 Engineer(ReRoll WIP=X), GizmoKit(+1B) — eligible ALEPH/Yu Jing — roster references: ALEPH, OSS, Vanilla Yu Jing, Invincible Army, White Banner | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 19 | A | Chung-Hee Jeong31/0 WIP14 Engineer(ReRoll) — IA/White Banner — roster references: Invincible Army, White Banner | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 20 | A | Krit Kokram37/0 WIP14, 2W Engineer/NCO — IA/Yu Jing eligible — roster references: Vanilla Yu Jing, Invincible Army | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 23 | A | Hǎidào Engineer25/0 — IA/Yu Jing eligible | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 4 | S | Liú Xīng BSG24/0 — IA/eligible Yu Jing | Roster named in source |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 7 | S+ | Gūdǎn FTO — preferred LSG/HFT; alternative SMG/Zapper 11/0 either | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 2 | S | Hac Tao HMG NCO 59/1.5 — Vanilla Yu Jing (MSV1) | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 12 | A+ | Hac Tao HMG NCO 59/1.5 — Invincible Army | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 18 | A+ | Yān Huǒ HRMC47/1.5 — Yu Jing/IA | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 28 | A | Guǐjiǎ MULTI HMG77/1.5 — Invincible Army | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 30 | A+ | Hac Tao HD + Trinity 58/0.5 (Invincible Army; 58/1 White Banner) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 34 | A+ | Zhēnchá HD + Trinity 34/0.5 (Invincible Army/Dahshat) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 78 | B | Dāoyīng HD 24/0.5 — Invincible Army | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 89 | B | Liú Xīng HD + Firewall(-6) 30/0.5 — Invincible Army | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 28 | A+ | Hǎidào KHD + Pitcher 22/0 (Invincible / current Yu Jing where listed) | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 31 | A+ | Zhēnchá HD + Trinity 34/0.5 (Invincible Army/Dahshat) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 36 | A+ | Hac Tao HD + Trinity 58/0.5 (Invincible Army; 58/1 White Banner) | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 9 | S | Gūdǎn SMG/Zapper/Shock Mine, Camo (1 Use) 12/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 11 | S | Libertos LSG/Shock Mine Minelayer 8/1 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 28 | S | Zhēnchá FO 30–31/0 / HD+Trinity 34/.5 — Invincible Army/eligible Yu Jing; Zhēnchá HD+Trinity34/.5 — Invincible Army/eligible Yu Jing | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 39 | S | Liú Xīng SO30/0 or HD30/.5 — Invincible Army | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 91 | A+ | Hac Tao HD+Trinity 58/.5 (IA), 58/1 (White Banner) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 100 | A+ | Hǎidào Engineer25/0 or FTO KHD22/0 — Invincible Army | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 126 | A+ | Krit Kokram Engineer35–40 — Invincible Army | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 156 | A | Bìxié FO41/0 — Invincible Army/White Banner | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 157 | A | Tai Sheng FO+NCO 33–37 or CoC+FO 36–40 — Invincible Army | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 8 | S | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company as rostered | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 12 | A+ | Krit Kokram FTO-2 DR + Minelayer 37/0 — Invincible Army / Vanilla Yu Jing | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 6 | S | Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0 — Yu Jing / White Banner where legal | Existing local profile match; verify exact variant |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 27 | A | Shang Ji FO 36/0 — Invincible Army / White Banner | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 29 | S | Krit Kokram Engineer FTO-2 FD+20 37/0 (Invincible Army) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 32 | S | Hǎidào KHD/Pitcher BSG(+1B) 22/0 (Invincible Army) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 49 | A+ | Hac Tao Hidden HD with Trinity MULTI Rifle 58/.5 (Invincible Army) or 58/1 (White Banner) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 58 | A+ | Zhēnchá FO+Deployable Repeater 31/0 or HD with Trinity 34/.5 (Invincible Army) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 61 | A+ | Liú Xīng SO30/0 or HD30/.5 (Invincible Army) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 84 | A | Bìxié FO MULTI Rifle 41/0 (Invincible Army/White Banner) | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: A− — #18 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Dāoyīng LT(+1) with Tai Sheng NCO and Tactical Awareness sustains linked HI firepower, while Hǎidào, Yān Huǒ, Gūdǎn and Zhēnchá improve defense and scoring; cost and Hackability still constrain redundancy.
 
