@@ -20,7 +20,7 @@ One global ordinal ranking combines reliable succession, survivability/concealme
 - `Airborne`: actual CoC profile with Combat Jump/Parachutist; being off-table undermines early succession.
 - `Fireteam`: documented useful legal linked CoC option; verify roster and FTO restrictions.
 - `Budget`: at least one CoC option at 20 points or less, including low-SWC options.
-- `Anti-Tech`: meaningful direct answer to enemy Mimetism, markers or visor-based defense; includes Eclipse/Mirrorball/Disco route control and MSV/Albedo where applicable. MSV1 is partial; mere Mimetism and ordinary anti-armor ammunition do not qualify. See [Anti-Tech](anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
+- `Anti-Tech`: meaningful direct answer to enemy Mimetism, markers or visor-based defense; includes Eclipse/Mirrorball/Disco route control and MSV/Albedo where applicable. MSV1 is partial; mere Mimetism and ordinary anti-armor ammunition do not qualify. See [Anti-Tech](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md).
 - `Mod-Stacking`: meaningful BS asymmetry from exceptional Mimetism, marker openings, combined offensive/defensive effects or conditional counter-MOD tools. See [BS MOD mechanics](bs-mod-stacking-units-apex-and-value.md); effects do not necessarily stack on the same roll.
 
 `Unique` and `Toolbox` incorporate applicable exact-profile findings from [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md) and [Toolbox Units](jack-of-all-trades-toolbox-units-apex-value.md). Do not transfer alternate profile capabilities. Tag review 26 November 2026; rankings and inherited costs/eligibility unchanged.

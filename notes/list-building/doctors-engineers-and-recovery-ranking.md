@@ -33,7 +33,7 @@
 - `Airborne`: actual recovery profile with Parachutist/Combat Jump, not merely an airborne patient.
 - `Fireteam`: useful legal linked recovery profile; verify exact roster and restrictions.
 - `Budget`: at least one listed recovery option at 20 points or less; mandatory package costs and Irregular Orders still count. A Posthuman Mk.1 is not standalone budget support.
-- `Anti-Tech`: exact recovery profile has a meaningful counter to MSV/Marksmanship, Mimetism, Smoke, Camouflage or Impersonation under the [Anti-Tech guide](anti-tech-msv-mimetism-camo-impersonation-apex-value.md). Ordinary repair, E/M, TinBot or Deactivator alone does not qualify for this specific tag.
+- `Anti-Tech`: exact recovery profile has a meaningful counter to MSV/Marksmanship, Mimetism, Smoke, Camouflage or Impersonation under the [Anti-Tech guide](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md). Ordinary repair, E/M, TinBot or Deactivator alone does not qualify for this specific tag.
 - `Rare Capability`: exact profile/package is identified in [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md); distinct from the broader `Unique` tag.
 - `Mod-Stacking`: notable actual BS asymmetry (exceptional Mimetism, Surprise Attack, combined range/defensive MODs or conditional anti-visor MODs), following the [BS MOD reference](bs-mod-stacking-units-apex-and-value.md) and [Gunfighters](active-turn-gunfighters-ranking.md). Does not imply an apex active-turn shooter. Ordinary Mimetism(-3) alone, Cover alone and saving-roll modifiers alone do not qualify.
 

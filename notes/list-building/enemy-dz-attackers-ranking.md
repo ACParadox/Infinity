@@ -111,7 +111,7 @@ The initial consolidation uses the former tiers as editorial evidence (S+ 1.00, 
 - `Fireteam`: relevant legal linked attacker on the identified profile; no tag is assigned merely because a separate FTO exists. No linked profile has been independently validated for this consolidation.
 - `Budget`: relevant option at approximately 20 points or less.
 
-- `Anti-Tech`: practical counter to MSV, Mimetism, Camouflage or related vision technology from [Anti-Tech](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) or the same profile's recorded MSV, Sensor, Albedo or Eclipse. Not a generic anti-HI/TAG tag.
+- `Anti-Tech`: practical counter to MSV, Mimetism, Camouflage or related vision technology from [Anti-Tech](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md) or the same profile's recorded MSV, Sensor, Albedo or Eclipse. Not a generic anti-HI/TAG tag.
 - `Mod-Stacking`: useful modifier advantage or delivery protection from [BS Mod-Stacking](bs-mod-stacking-units-apex-and-value.md) and [Gunfighters](active-turn-gunfighters-ranking.md); respect Cover, range and exact-profile restrictions.
 
 **Companion-role integration (2026-11-26):** [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md) reinforces `Unique` (Rasyat, Yojimbo, Kinnara, Ko Dali, Sheskiin, Caliban); [Toolbox Units](jack-of-all-trades-toolbox-units-apex-value.md) reinforces `Toolbox` for matching attack options. Do not transfer separate FTO, scoring or Infiltration skills (Black A.I.R., Ko Dali, Crux, Santiago, Dasyu, Nahab and Greif). Rank order and tiers unchanged; no new profile audit.

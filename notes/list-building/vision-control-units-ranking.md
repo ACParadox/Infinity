@@ -16,7 +16,7 @@
 
 **Ordinary Smoke remains vulnerable to visors**, while Disco/White Noise have different counter interactions. Specific unit combinations require the current Vanilla Fireteam chart.
 
-**Dedicated counter-role guide:** [Anti-Tech — MSV, Mimetism, Camouflage, Hidden and Impersonation: N5.3 apex/value](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) ranks the *opposing counters and carrier points costs*. This page remains authoritative for *creating* Smoke/Eclipse/White Noise lanes, rather than defeating enemy tech generally.
+**Dedicated counter-role guide:** [Anti-Tech — MSV, Mimetism, Camouflage, Hidden and Impersonation: N5.3 apex/value](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md) ranks the *opposing counters and carrier points costs*. This page remains authoritative for *creating* Smoke/Eclipse/White Noise lanes, rather than defeating enemy tech generally.
 
 **Very rare dual-vision profiles:** [Rare Abilities & Unusual Combinations — cross-game apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares:
 
@@ -94,7 +94,7 @@ Rule links: [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.m
 - `Fireteam` — relevant legal linked profile or package, subject to roster-specific permissions.
 - `Budget` — especially economical for its effect: normal Smoke at roughly 16pts or less, Disco/Eclipse at roughly 20pts or less, or low-cost Mirrorball/White Noise. Mixed-price rows qualify only on their cheaper eligible profiles.
 
-- `Anti-Tech` — matching exact or demonstrably shared-profile counters from [Anti-Tech](anti-tech-msv-mimetism-camo-impersonation-apex-value.md): Sensor, visor/Albedo or ranked anti-visor screens/networks. Vargar FO Disco retains Albedo, not the separate Sensor/Triangulated Fire loadout; the combined ISS row's tag applies to Bayara. Aquila/Quinn refers to visor-equipped Disco profiles only. Optional MSV partners do not confer tags on Smoke sources.
+- `Anti-Tech` — matching exact or demonstrably shared-profile counters from [Anti-Tech](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md): Sensor, visor/Albedo or ranked anti-visor screens/networks. Vargar FO Disco retains Albedo, not the separate Sensor/Triangulated Fire loadout; the combined ISS row's tag applies to Bayara. Aquila/Quinn refers to visor-equipped Disco profiles only. Optional MSV partners do not confer tags on Smoke sources.
 - `Mod-Stacking` — meaningful BS asymmetry or exceptional Mimetism per [BS MOD mechanics](bs-mod-stacking-units-apex-and-value.md): Myrmidon Officer/Myrmidon and Shikami (Mim6), Vargar (conditional Albedo), Konstantinos (MSV1 + Mim3). Eclipse itself is not a BS MOD.
 - `Unique` and `Toolbox` incorporate applicable [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md) and [Toolbox Units](jack-of-all-trades-toolbox-units-apex-value.md) selections; these are existing tags, not additional overlapping categories. Kinnara adds Sensor, Specialist Operative, airborne delivery and monofilament/Eclipse role compression.
 
@@ -198,3 +198,8 @@ _All four podcasts above and the selected videos were queried through the corres
 **Role rule:** Score the **Orders and objectives made accessible**, not how many enemies the smoke trooper shot. **MSV versus Smoke, Eclipse, White Noise and Disco Baller have distinct rule interactions**; verify current N5.3 documents, no universal “smoke counters all ARO” claim.
 
 [Full cross-report analysis and source limitations](../battle-reports/cross-report-unit-effectiveness-and-combinations.md).
+
+
+### Anti-Tech tag interpretation
+
+The former standalone Anti-Tech ranking is retired. `Anti-Tech` indicates a real counter on the selected profile: MSV (MSV1 is partial against Mimetism −6), Sensor for Camouflage/Hidden Deployment, Triangulated Fire, Albedo against enemy MSV/Marksmanship, or a viable White Noise/Eclipse/Disco/Mirrorball screen. Close immobilization and mine/template screening qualify when specifically useful against impersonators. Ordinary Smoke without a suitable visor partner, Mimetism alone, and Biometric/Discover bonuses alone do not qualify. Count access, setup Orders, ammunition and legal target conditions. See the [archived source ranking](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md) for the complete original tiers and evidence.
