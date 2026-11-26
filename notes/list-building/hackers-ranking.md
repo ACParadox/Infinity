@@ -2,7 +2,7 @@
 
 Rank actual Hacker profiles for control of hackable enemies, Spotlight, vision control and practical whole-list performance, including dual devices and KHDs with printed anti-heavy or utility programs. A plain KHD does not qualify. Limited-program entries are explicitly distinguished from full HDs.
 
-Related: [Killer Hackers](killer-hackers-ranking.md) · [Network Projection](network-projection-repeaters-pitchers-apex-value.md).
+Related: [Killer Hackers](killer-hackers-ranking.md) · [Network Projection](network-projection-repeaters-pitchers-ranking.md).
 
 **One unified competitive ranking** for a typical 300-point game. Guiding weights: primary role 30%, points/SWC 25%, versatility and role compression 20%, delivery/order efficiency 10%, survivability/reliability 10%, unique capabilities 5%. These are editorial priorities, not computed scores. S+ = exceptional/faction-defining, S = outstanding, A+ = excellent, A = strong, B = situational, C = generally outclassed, D = skip. Rank descending within tiers. Full anti-heavy + Trinity access receives a substantial Toolbox bonus in both rankings; limited Spotlight/White Noise upgrades receive a smaller bonus and cannot substitute for Carbonite/Oblivion. Count only programs and equipment on the selected legal profile; alternatives never pool their abilities.
 
