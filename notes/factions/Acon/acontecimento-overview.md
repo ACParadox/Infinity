@@ -6,6 +6,15 @@
 
 **What Acontecimento does exceptionally well:** combine **premium PanO shooting** with **very cheap home-zone mines/Sensor, independent infiltrating specialists, and genuine flexible Fireteams**. Its unusual **Guarda de Assalto + synchronized Auxbot** brings **the only Eclipse Grenade Launcher in the game (N5.3)**: the *Auxbot* carries the launcher, projecting MSV-proof cover at range, while a mobile Tikbalang or Dragão can advance with support rather than consuming the entire list's plan.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Knight of Montesa (foot)** | FD(+20) BSG Paramedic26/0 | [Zone A+ #23](../../list-building/objective-holding-ranking.md) | ARM4/BTS6/2W and Mimetism make a practical forward zone anchor; distinguish FTO20/0 and motorcycle21/0 (DZ attacker S #23). |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: A− — #19 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Affordable Regulars/mines, Naga/Dart midfield, Scylla, flexible teams and Tikbalang/Dragão shooting make versatile mission lists; cheap visibility control remains scarce.
