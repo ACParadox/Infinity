@@ -1,4 +1,44 @@
 # Ōban — List-Building and Tactical Note
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 12 | A+ | Kempeitai — 17/0 BSG; 20/0 Combi; roster examples: JSA; Ōban | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 33 | — | Keisotsu AP Rifle 9/0 — JSA / Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 1 | S+ | Oniwaban SMG 29/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 3 | S+ | Shinobu Kitsune 44/0.5 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 7 | S | Shikami 42/0 or 47/0 D-Charges — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 11 | S | Miyamoto Mushashi 21/0 or Regular FTO 25/0.5 — JSA | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 12 | S | Saito Tōgan 33/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 19 | A+ | Domaru E/M CCW 20/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 22 | A+ | Ninja Tactical Bow 24/0 — JSA/Yu Jing | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 32 | A+ | Motorized Yojimbo 20/0 — Shindenbutai/JSA/Ōban as rostered | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 39 | A | Foot Yojimbo 19/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 40 | A | Takeshi 'Neko' Oyama 28/0 — JSA/Ōban | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 24 | A+ | Yojimbo bike20/0 (Ōban/Shinden) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 27 | A+ | Saito Tōgan T2 BSG+EXP CCW33/0 — JSA; Saito Tōgan33/0 — JSA/eligible | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 42 | A+ | Shinobu Kitsune44/.5 — JSA | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 43 | A+ | Oniwaban SMG29/0 — JSA | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 73 | A | Freelance Samsa Plasma Rifle26/0 — Tohaa/Ōban eligible | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 83 | B | Aragoto HD 21/0.5 — JSA/Oban | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 24 | A+ | Ryūken-9 SMG/Shock Mine Minelayer 22/.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 55 | S | Karakuri FO 31 — JSA/Ōban | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 62 | S | Shikami Specialist Operative 42 or 47/0 — JSA | Existing local profile match; verify exact variant |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 1 | S | Karakuri FO HSG or E/Mitter 31/0 — JSA / Ōban / Ikari | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 37 | B+ | Ryūken-9 SMG/Shock Mine Minelayer 22/0.5 — JSA / Ōban / Shindenbutai | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 31 | S | Shikami 42/0 or 47/0 (Ōban/JSA) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 63 | A+ | Ōban Tankō Disco+Blitzen+Deactivator 19/0 | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 71 | A+ | Karakuri (Ōban, profile 31–38) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 75 | A+ | Ninja KHD+Tactical Bow 26/0 or FO BSG 30/.5 (JSA) | Existing local profile match; verify exact variant |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 3 | S | Shikami42/0 /47/0 — JSA/Ōban | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 33 | A | Yojimbo motorized20/0 / foot19/0 — Shindenbutai/Ōban | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 4 | — | Tankō 19/0 Disco + Deactivator — Ōban | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 16 | — | Yojimbo motorized 20/0 / foot 19/0 — Shindenbutai/Ōban (optional Rui Shi MSV2 partner) | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 22 | — | Shikami 42/0 Eclipse specialist — JSA/Ōban | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 20 | S | Motorized Yojimbo20/0 (Shindenbutai/Ōban); foot19/0 alternate | Roster named in source |
+
 
 ### Overview
 
