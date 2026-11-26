@@ -35,7 +35,7 @@ The companion guide includes verified profiles and competing podcast/video views
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands/Cheap Trader apex/value tiers](../list-building/warbands-and-cheap-trading-units-ranking.md) covers:
+[N5.3 Warbands/Cheap Trader apex/value tiers](../list-building/warbands-ranking.md) covers:
 
 - **Ghazi / Daylami**
 - **Galwegian**
