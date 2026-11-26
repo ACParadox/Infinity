@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 1102
 sectorial_slug: shindenbutai
 sectorial_name: Shindenbutai
@@ -16,6 +16,17 @@ coverage: "Complete current Shindenbutai main roster, exact standard loadouts an
 ---
 
 # Shindenbutai — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Aïda Swanson:** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
+- **Ruby Monday:** Classification Character rather than Mercenary; cost and profiles unchanged.
+
 
 ## Overview and provenance
 
@@ -430,6 +441,8 @@ Transmutation; Tactical Awareness; each current profile includes a **TurtleMek A
 
 ### Aïda Swanson
 
+**November 25 profile correction (overrides archived fields):** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
+
 **Unit ID:** 1160 · **Slug:** `aida-swanson` · **AVA:** 1 · **LI / Character / Regular**  
 `MOV 10-10 | CC 19 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Forward Deployment (+10), Mimetism (-3), Stealth.
 
@@ -521,6 +534,8 @@ Transmutation; Tactical Awareness; each current profile includes a **TurtleMek A
 
 ### Ioann Bann, Varangian Dog-Warrior
 
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
+
 **Unit ID:** 1940 · **Slug:** `ioann-bann-varangian-dog-warrior` · **AVA:** 1 · **WB / Character / Irregular**
 
 | State | MOV | CC | BS | PH | WIP | ARM | BTS | W | S |
@@ -535,6 +550,8 @@ Martial Arts L3, Berserk, Super-Jump and transformation-related rules as encoded
 | 2 | 30 | 0 | Chain Rifle (+1B), Viral Tactical Bow (+1SD), Grenades, AP Heavy Pistol (+1B), AP+T2 CCW |
 
 ### Kazurabā Ruby Monday
+
+**November 25 profile correction (overrides archived fields):** Classification Character rather than Mercenary; cost and profiles unchanged.
 
 **Unit ID:** 1890 · **Slug:** `kazuraba-ruby-monday` · **AVA:** 1 · **HI / Character / Irregular**  
 `MOV 15-5 | CC 18 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 6 | STR 2 | S 2`. Hackable; Technorganic, Specialist Operative, Climbing Plus, Terrain, Immunity (IMM-B).

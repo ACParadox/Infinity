@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: faction
-status: current
+status: partial
 sectorial_id: 1101
 sectorial_slug: jsa
 sectorial_name: Vanilla JSA
@@ -16,6 +16,28 @@ coverage: "43 standard Army-1101 logical units; complete standard profiles/loado
 ---
 
 # Vanilla JSA — N5.3 faction reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Ryūken:** Surprise Attack (-3) is common to all options, including both SMG options.
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---|
+| 1 | 30 | 0 | FTO; Thunderbolt, Drop Bears, D-Charges, Breaker Pistol (PS=6), CC Weapon; BS Attack (Continuous Damage) |
+| 2 | 31 | 0 | E/Mitter, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+| 9 | 31 | 0 | FTO; AP Thunderbolt, CrazyKoala, D-Charges, Breaker Pistol (PS=6), CC Weapon |
+
+FTO access requires the new chart.
+
 
 ## Overview and provenance
 
@@ -138,6 +160,8 @@ Coverage policy:
 Notation: stats are `MOV CC BS PH WIP ARM BTS W/STR S`. Source option IDs are retained because profile legality and otherwise-similar loadouts can depend on them.
 
 ### Ryūken Unit-9 — `ryuken-unit-9`
+
+**November 25 profile correction (overrides archived fields):** Surprise Attack (-3) is common to all options, including both SMG options.
 
 **Unit ID:** 996 — **AVA:** 2 — MI, Spec. Trained Troops, Regular.  
 **Stats:** `10-10 17 12 11 14 2 3 1 2`.  
@@ -309,6 +333,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS W/STR S`. Source option IDs are re
 - **Option 2 Lieutenant:** **44 / 0.5** — same loadout; Lieutenant.
 
 ### Ioann Bann, Varangian Dog-Warrior — `ioann-bann-varangian-dog-warrior`
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
 
 **Unit ID:** 1940 — **AVA:** 1 — WB, Character, Irregular.
 

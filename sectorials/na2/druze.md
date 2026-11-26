@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 902
 sectorial_slug: druze
 sectorial_name: Druze Bayram Security
@@ -15,6 +15,16 @@ coverage: "Complete standard Druze Bayram Security roster, standard loadouts/pro
 ---
 
 # Druze Bayram Security — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Aïda Swanson:** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
+- **Valerya Gromoz:** New Boarding Shotgun hacker 16/0.5; Combi Rifle option remains 19 pts.
+
 
 ## Overview and provenance
 
@@ -192,6 +202,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 2:** **35 / 0** — Specialist Operative; Combi Rifle, D-Charges, Smoke Grenades, Pistol, EXP CC Weapon (PS=4).
 
 ### Valerya Gromoz — `valerya-gromoz-mercenary-hacker`
+
+**November 25 profile correction (overrides archived fields):** New Boarding Shotgun hacker 16/0.5; Combi Rifle option remains 19 pts.
 
 **Unit ID:** 464 — AVA 1 — LI, Character.
 
@@ -425,6 +437,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 4:** **14 / 0** — Hacker with Zero Pain upgrade, Commlink; Boarding Shotgun, Flash Pulse, Cybermine, Pistol, CC Weapon.
 
 ### Aïda Swanson — `aida-swanson`
+
+**November 25 profile correction (overrides archived fields):** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
 
 **Unit ID:** 1160 — AVA 1 — LI, Character.
 

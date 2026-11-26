@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 502
 sectorial_slug: corregidor
 sectorial_name: Corregidor
@@ -15,6 +15,16 @@ coverage: "Standard Corregidor roster, standard loadouts, canonical Surface/Deep
 ---
 
 # Corregidor
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Valerya Gromoz:** New Boarding Shotgun hacker 16/0.5; Combi Rifle option remains 19 pts.
+- **Ruby Monday:** Classification Character rather than Mercenary; cost and profiles unchanged.
+
 
 ## Overview and provenance
 
@@ -113,6 +123,8 @@ Optional-mode units:
 ## Unit details
 
 ### Valerya Gromoz, Mercenary Hacker
+
+**November 25 profile correction (overrides archived fields):** New Boarding Shotgun hacker 16/0.5; Combi Rifle option remains 19 pts.
 
 **ID 464 · AVA 1 · LI** — `MOV 10-10 | CC 15 | BS 11 | PH 10 | WIP 14 | ARM 1 | BTS 3 | W 1 | S 2`. Hacking Device with Total Control (+1B) upgrade; Hacker.
 
@@ -286,6 +298,8 @@ Optional-mode units:
 | 5 | 27 | 0 | AP SMG, Boarding Pistol (+1B), CCW; MediKit, Deployable Repeater, Paramedic | — |
 
 ### Kazurabā Ruby Monday
+
+**November 25 profile correction (overrides archived fields):** Classification Character rather than Mercenary; cost and profiles unchanged.
 
 **ID 1890 · AVA 1 · HI** — `MOV 15-5 | CC 18 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 2 | S 2`. Technorganic, Climbing Plus, Specialist Operative, Terrain (Total); Irregular.
 

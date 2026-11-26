@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 1103
 sectorial_slug: oban
 sectorial_name: Ōban
@@ -15,6 +15,15 @@ coverage: "Complete standard Ōban roster, standard loadouts/profile states and 
 ---
 
 # Ōban — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Ryūken:** Surprise Attack (-3) is common to all options, including both SMG options.
+
 
 ## Overview and provenance
 
@@ -353,6 +362,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 1:** **16 / 1.5** — Missile Launcher, PARA CC Weapon (-3).
 
 ### Ryūken Unit-9 — `ryuken-unit-9`
+
+**November 25 profile correction (overrides archived fields):** Surprise Attack (-3) is common to all options, including both SMG options.
 
 **Unit ID:** 996 — AVA 3 — MI, Spec. Trained Troops.
 

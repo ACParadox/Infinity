@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: faction
-status: current
+status: partial
 faction_id: 801
 faction_slug: tohaa
 faction_name: Tohaa
@@ -14,6 +14,15 @@ coverage: "Standard Vanilla Tohaa roster, profile/loadout costs and AVA, Symbion
 ---
 
 # Tohaa — N5.3 faction reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts. Replaces the 32-point Smoke Grenades option.
+
 
 ## Overview and provenance
 
@@ -465,6 +474,8 @@ Fireteams: general Triad max 1; Reex Escorts max 1 and counts as the chart's `(R
 Fireteam: general Triad family, max 3.
 
 ### Ioann Bann, Varangian Dog-Warrior
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts. Replaces the 32-point Smoke Grenades option.
 
 **ID 1940 · AVA 1 · WB · Irregular** — Dogface `MOV 15-10 | CC 22 | BS 11 | PH 14 | WIP 13 | ARM 2 | BTS 3 | W 3`; Dog-Warrior `MOV 15-10 | CC 23 | PH 16 | ARM 4 | BTS 6 | W 3`. Transforms under the source Dog-Warrior package.
 
