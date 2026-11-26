@@ -84,7 +84,6 @@ These are **individual die target numbers, not a full Face-to-Face win percentag
 
 **Profile boundary:** The reactive Atalanta 41pt Total Reaction and 38pt Hidden active options are distinct; Nøkken shotgun variants remain separate from the Spitfire; modifiers do not transfer to peripherals or between roster variants.
 
-| 20 | A / A (specialist) | **Greif Combi + Viral Mine 23/0** — [Onyx](../../sectorials/combined-army/onyx.md) | MSV1 + Mim6 at 23pts with FD20 and mine; different from 25pt Marksman | BS11/W1; short Combi band |
 
 **Other Mim6 profiles to remember without overrating them as long-range gunfighters:**
 
