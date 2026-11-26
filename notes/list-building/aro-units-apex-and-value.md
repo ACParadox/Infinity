@@ -9,7 +9,7 @@
 
 The presenter calls O-12's *lethal* ARO suite limited; don't treat every active Omega/Gamma as a permanent exposed sentry or copy Starmada/Torchlight links.
 
-**Separate objective-holder/zone defense tiers:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-apex-value.md) evaluates whether an ARO guard **actually protects an enemy's pickup or contact square**, preserves a non-Null Specialist through the opponent's turn, or adds enough VP to flip a quadrant. Best sniper is not automatically best zone guard.
+**Separate objective-holder/zone defense tiers:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-ranking.md) evaluates whether an ARO guard **actually protects an enemy's pickup or contact square**, preserves a non-Null Specialist through the opponent's turn, or adds enough VP to flip a quadrant. Best sniper is not automatically best zone guard.
 
 **Separate close-DZ defense guide (N5.3):** [DZ Defenders — anti-alpha-strike / Impersonation apex and value](dz-defenders-alpha-strike-and-impersonation-apex-value.md). The ARO gun tier here is broader and retains a separate TAG category; the new guide emphasizes cheap 360º guards, Biometric, Minelayer, Boost/marker restrictions, nonlethal close defense, and dual-purpose order/specialist pieces.
 
