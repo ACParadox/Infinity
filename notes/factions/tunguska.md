@@ -27,7 +27,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -71,11 +71,11 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 69 | S | Stempler Zond FO/Sensor/Repeater 15/0, TA18/0 — Corregidor/Nomads where eligible | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 90 | A+ | Spektr KHD30/0 — Tunguska/Nomads | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 104 | A+ | Kulak — FO 19/0 | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 110 | A+ | Puppet Master11/0 + FO PuppetBot9/0 = 20/0; optional AP-MMR bot14/0 = 34/0 — Tunguska | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 122 | A+ | Clockmaker Engineer18/0 — Nomads/Bakunin/Tunguska | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 125 | A+ | Fiddler Engineer 29 FTO or 36 with JackBot — Bakunin/Tunguska | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 149 | A+ | Interventor HD+ 18–23/.5 — Tunguska | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 188 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 109 | A+ | Puppet Master11/0 + FO PuppetBot9/0 = 20/0; optional AP-MMR bot14/0 = 34/0 — Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 121 | A+ | Clockmaker Engineer18/0 — Nomads/Bakunin/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 124 | A+ | Fiddler Engineer 29 FTO or 36 with JackBot — Bakunin/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 148 | A+ | Interventor HD+ 18–23/.5 — Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 187 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 9 | S | Tsyklon FTO 26–29/1 — eligible Tunguska / Bakunin / StarCo teams | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 10 | S | Hollow Man MULTI Rifle/Pitcher 26/0 — Tunguska | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 18 | A+ | Mary Problems Pitcher 27/.5 — Tunguska / Vanilla Nomads | Roster named in source |
