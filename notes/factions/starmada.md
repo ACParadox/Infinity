@@ -34,7 +34,7 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -87,8 +87,8 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 57 | S | Betatrooper KHD25/0 / Doctor27/0 / SO32/0 — Starmada | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 74 | A+ | Crusher FO25/0 FD+20 or FO27/0 Combat Jump — O-12/Starmada; Crusher FO25/0 FD+20 or 27/0 Combat Jump — O-12/Starmada | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 83 | A+ | Knight of Santiago FTO KHD+Firewall(-3)31/0 or airborne SO36/0 / SO+KHD38/0 — Military Orders | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 176 | A | Raptor FO MULTI Rifle+E/M Carbine + Devabot39/0 or KHD41/0 — Starmada | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 209 | B+ | Nyoka FO22/0 FTO or FO27/0 Parachutist — Starmada | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 175 | A | Raptor FO MULTI Rifle+E/M Carbine + Devabot39/0 or KHD41/0 — Starmada | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 208 | B+ | Nyoka FO22/0 FTO or FO27/0 Parachutist — Starmada | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 26 | A+ | Cyberghost HD+/Pitcher 21/.5 — O-12 / Starmada | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 13 | A+ | Starmada Saladin CoC33/0 or LT34/0 + DR/Minelayer (2) | Roster named in source |
 | [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 9 | A+ | Starmada: Saladin CoC33/0 or LT34/0 DR+Minelayer(2) + legal Cyberghost/other Hacker | Roster named in source |
