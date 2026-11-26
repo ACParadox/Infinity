@@ -36,7 +36,7 @@ _The following are current global profile-specific ranks, not local faction tier
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -75,10 +75,10 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 70 | S | Daleth FO/Sensor 15/0 (TacAware 18/0) — ALEPH | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 99 | A+ | Scylla HD+Trinity(SR-2)25/.5 FTO or 32/.5 with Charybdis — Steel Phalanx | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 103 | A+ | Machaon Doctor37/.5 — Steel Phalanx | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 113 | A+ | Chandra Thrasymedes FO28/0 Infiltration/Decoy — Steel Phalanx | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 123 | A+ | Ekdromoi HD 23/.5 or KHD 25 — Steel Phalanx | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 155 | A+ | Nesaie Alkê SO MULTI Rifle+Disco+NCO27/0 — Steel Phalanx | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 159 | A | Makhai FO29/0 Tactical Awareness — Steel Phalanx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 112 | A+ | Chandra Thrasymedes FO28/0 Infiltration/Decoy — Steel Phalanx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 122 | A+ | Ekdromoi HD 23/.5 or KHD 25 — Steel Phalanx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 154 | A+ | Nesaie Alkê SO MULTI Rifle+Disco+NCO27/0 — Steel Phalanx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 158 | A | Makhai FO29/0 Tactical Awareness — Steel Phalanx | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 27 | A+ | Thamyris HD/Pitcher 21/.5 Cybermine Minelayer — Steel Phalanx | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 10 | A+ | Arjuna FD(+20) + KiranBot-2 (native Repeater) 32/0, or AP-SMG 33/0 — ALEPH/OSS/Steel Phalanx as legal | Roster named in source |
 | [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 12 | A+ | Steel Phalanx / eligible SAA: Scylla32/.5 with Charybdis Repeater plus legal supporting combat piece | Roster named in source |
