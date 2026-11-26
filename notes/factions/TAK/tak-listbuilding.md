@@ -104,7 +104,7 @@ The **Parachutist shotgun/AP SMG profiles (27)** provide a different axis: they 
 
 A safe strategic command package.
 
-Voronin currently brings **WIP14, Lieutenant (+1 Command Token), Counterintelligence, Sensor, Sixth Sense and Wildcard/counts-as Line Kazak**. Current N5.3 data does **not** list Strategos on Voronin; older advice describing him as a Strategos LT should not be carried forward.
+Voronin currently brings **WIP14, Lieutenant (+1 Command Token), Strategos L1, Counterintelligence, Sensor, Sixth Sense and Wildcard/counts-as Line Kazak**. The September and November 25 Army JSON both confirm Strategos L1 on LT options 2 and 4; the earlier TAK reference omitted it. Strategos converts his LT Order into a Regular Order in his own group and allows a second reserve deployment. See [Voronin analysis](units/voronin.md).
 
 The TankHunter CoC Minelayer adds succession while still contributing Camo, an AP mine and a Panzerfaust threat.
 
