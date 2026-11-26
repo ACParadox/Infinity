@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 1002
 sectorial_slug: starmada
 sectorial_name: Starmada
@@ -15,6 +15,19 @@ coverage: "Complete standard Starmada roster, standard loadouts/profile states a
 ---
 
 # Starmada — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Firebat:** Remove Super-Jump (7.5). AP SMG/LRL (PS=6) 38 pts, Akrylat-Kanone replaces Thunderbolt; MULTI Rifle (PS=6)/Heavy Riotstopper/E/Mitter 42 pts (no Akrylat-Kanone or Blitzen); new AP SMG/AP Thunderbolt (Continuous Damage) 42 pts.
+- **Nightshades:** CC 24. All options: Silenced Pistol (PS=6) replaces Pistol, DA CC Weapon (PS=6) replaces E/M CC Weapon; Vulkan Shotgun replaces Boarding Shotgun; AP SMG replaces SMG; points unchanged.
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character.
+- **Saladin, Naval:** Both options gain Surprise Attack (-3); plain CC Weapon replaces Shock CC Weapon; non-LT 32 pts, LT 33.
+- **Casanova:** CC 23, Decoy (2), Surprise Attack (-3), D-Charges, Silenced Pistol (PS=5) on all; FD +20 options 30 pts; Infiltration (PH=16) option remains 32.
+
 
 ## Overview and provenance
 
@@ -187,6 +200,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 7 Lieutenant:** **16 / 0** — option-1 weapons; Lieutenant.
 
 ### Firebat Attack Wing — `firebat-attack-wing`
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5). AP SMG/LRL (PS=6) 38 pts, Akrylat-Kanone replaces Thunderbolt; MULTI Rifle (PS=6)/Heavy Riotstopper/E/Mitter 42 pts (no Akrylat-Kanone or Blitzen); new AP SMG/AP Thunderbolt (Continuous Damage) 42 pts.
 
 **Unit ID:** 1857 — AVA 1 — VH, Elite Troops.
 
@@ -361,6 +376,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Saladin, Naval Liaison Officer — `saladin-naval-liaison-officer`
 
+**November 25 profile correction (overrides archived fields):** Both options gain Surprise Attack (-3); plain CC Weapon replaces Shock CC Weapon; non-LT 32 pts, LT 33.
+
 **Unit ID:** 1535 — AVA 1 — MI, Character.
 
 - **Stats:** `10-10 17 13 12 16 3 3 1 2`.
@@ -491,6 +508,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Casanova, NOC Operative — `casanova-noc-operative`
 
+**November 25 profile correction (overrides archived fields):** CC 23, Decoy (2), Surprise Attack (-3), D-Charges, Silenced Pistol (PS=5) on all; FD +20 options 30 pts; Infiltration (PH=16) option remains 32.
+
 **Unit ID:** 1483 — AVA 1 — LI, Character.
 
 - **Stats:** `10-10 22 13 11 13 1 6 1 2`.
@@ -545,6 +564,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Nightshades — `nightshades`
 
+**November 25 profile correction (overrides archived fields):** CC 24. All options: Silenced Pistol (PS=6) replaces Pistol, DA CC Weapon (PS=6) replaces E/M CC Weapon; Vulkan Shotgun replaces Boarding Shotgun; AP SMG replaces SMG; points unchanged.
+
 **Unit ID:** 1774 — AVA 1 — SK, Elite Troops.
 
 - **Stats:** `10-10 22 12 12 13 2 0 1 2`.
@@ -579,6 +600,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 1:** **41 / 0** — MULTI Rifle, Zapper, Flash Pulse, Pistol, E/M CC Weapon.
 
 ### Ioann Bann, Varangian Dog-Warrior — `ioann-bann-varangian-dog-warrior`
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character.
 
 **Unit ID:** 1940 — AVA 1 — WB, Character; Irregular, Impetuous.
 

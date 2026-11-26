@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 1003
 sectorial_slug: torchlight-brigade
 sectorial_name: Torchlight Brigade
@@ -15,6 +15,18 @@ coverage: "Complete standard Torchlight Brigade roster, standard loadouts/profil
 ---
 
 # Torchlight Brigade — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Firebat:** Remove Super-Jump (7.5). AP SMG/LRL (PS=6) 38 pts, Akrylat-Kanone replaces Thunderbolt; MULTI Rifle (PS=6)/Heavy Riotstopper/E/Mitter 42 pts (no Akrylat-Kanone or Blitzen); new AP SMG/AP Thunderbolt (Continuous Damage) 42 pts.
+- **Nightshades:** CC 24. All options: Silenced Pistol (PS=6) replaces Pistol, DA CC Weapon (PS=6) replaces E/M CC Weapon; Vulkan Shotgun replaces Boarding Shotgun; AP SMG replaces SMG; points unchanged.
+- **Sonya Lacroix:** CC 23, PH 11; Kobra Pistol (+1B) replaces MULTI Pistol; plain CC Weapon replaces Shock CC Weapon. E/Marat option Tactical Awareness replaces NCO.
+- **Jamie Arantes:** Handler and Rover: CC 24, PH 13, Warhorse; NCO replaced by Tactical Awareness. Handler all loadouts gain Surprise Attack (-3); LT +1 Order 53, new plain LT 49. Rover Parachutist 52, Surprise Attack (-3), plain Decoy; FTO loses X Visor, non-LT 46, LT +1 Order 50, new plain FTO LT 46.
+
 
 ## Overview and provenance
 
@@ -145,6 +157,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Nightshades — `nightshades`
 
+**November 25 profile correction (overrides archived fields):** CC 24. All options: Silenced Pistol (PS=6) replaces Pistol, DA CC Weapon (PS=6) replaces E/M CC Weapon; Vulkan Shotgun replaces Boarding Shotgun; AP SMG replaces SMG; points unchanged.
+
 **Unit ID:** 1774 — AVA 1 — SK, Elite Troops.
 
 - **Stats:** `10-10 22 12 12 13 2 0 1 2`.
@@ -244,6 +258,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Jamie Arantes, Netroid Handler — `jamie-arantes-netroid-handler`
 
+**November 25 profile correction (overrides archived fields):** Handler and Rover: CC 24, PH 13, Warhorse; NCO replaced by Tactical Awareness. Handler all loadouts gain Surprise Attack (-3); LT +1 Order 53, new plain LT 49. Rover Parachutist 52, Surprise Attack (-3), plain Decoy; FTO loses X Visor, non-LT 46, LT +1 Order 50, new plain FTO LT 46.
+
 **Unit ID:** 1786 — AVA 1 — HI, Character.
 
 - **Stats:** `15-5 22 13 14 14 4 9 2 4`.
@@ -340,6 +356,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 
 ### Firebat Attack Wing — `firebat-attack-wing`
 
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5). AP SMG/LRL (PS=6) 38 pts, Akrylat-Kanone replaces Thunderbolt; MULTI Rifle (PS=6)/Heavy Riotstopper/E/Mitter 42 pts (no Akrylat-Kanone or Blitzen); new AP SMG/AP Thunderbolt (Continuous Damage) 42 pts.
+
 **Unit ID:** 1857 — AVA 1 — VH, Elite Troops.
 
 - **Stats:** `20-5 — 13 12 13 4 6 STR2 7`.
@@ -411,6 +429,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA/STR S`. Source option IDs are
 - **Option 4 — MENT FTO Hacker:** **20 / 0.5** — Light Shotgun, Pistol, PARA CC Weapon (-3); Hacking Device, Hacker. **Wildcard legal.**
 
 ### Sonya Lacroix, Glo-Pol Marshall — `sonya-lacroix-glo-pol-marshall`
+
+**November 25 profile correction (overrides archived fields):** CC 23, PH 11; Kobra Pistol (+1B) replaces MULTI Pistol; plain CC Weapon replaces Shock CC Weapon. E/Marat option Tactical Awareness replaces NCO.
 
 **Unit ID:** 1787 — AVA 1 — MI, Character.
 

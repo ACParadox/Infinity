@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 504
 sectorial_slug: tunguska
 sectorial_name: Tunguska
@@ -15,6 +15,15 @@ coverage: "Standard Tunguska roster, standard loadouts, canonical Fireteam chart
 ---
 
 # Tunguska
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Go-Pod:** Go-Pod and Go-Bot lose Super-Jump (7.5), retain Jet Propulsion. MULTI Rifle/E/Mitter 37 pts; HRL/AP SMG 34 pts, loses BS Attack (SR-1).
+
 
 ## Overview and provenance
 
@@ -394,6 +403,8 @@ Optional-mode units:
 | 3 | 16 | 0.5 | Red Fury, Breaker Pistol, PARA CCW (-6) | same |
 
 ### Go-Pod
+
+**November 25 profile correction (overrides archived fields):** Go-Pod and Go-Bot lose Super-Jump (7.5), retain Jet Propulsion. MULTI Rifle/E/Mitter 37 pts; HRL/AP SMG 34 pts, loses BS Attack (SR-1).
 
 **ID 1854 · AVA 1 · VH** — `MOV 20-5 | CC - | BS 13 | PH 13 | WIP 13 | ARM 2 | BTS 6 | W 2 | S 7`. BS Attack (-3), BS Attack (+1B), Aerial, Courage, Dodge (-3), Mimetism (-3), No Cover, Super-Jump (Jet Propulsion), Terrain (Total), Super-Jump (7.5), Tech-recovery; includes a Go-Bot.
 

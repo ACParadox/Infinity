@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 501
 sectorial_slug: nomads
 sectorial_name: Vanilla Nomads
@@ -15,6 +15,25 @@ coverage: "Vanilla Nomads standard roster, AVA, standard loadouts and points/SWC
 ---
 
 # Vanilla Nomads
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Go-Pod:** Go-Pod and Go-Bot lose Super-Jump (7.5), retain Jet Propulsion. MULTI Rifle/E/Mitter 37 pts; HRL/AP SMG 34 pts, loses BS Attack (SR-1).
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---:|---|
+| 6 | 24 | 0 | E/Marat, Flash Pulse, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+
+FTO access (where applicable) requires the new chart.
+
 
 ## Overview and provenance
 
@@ -631,6 +650,8 @@ PuppetBots:
 | 19 | 0 | Heavy Flamethrower (+1B), Flash Pulse; MediKit / Paramedic | same |
 
 ### Go-Pod
+
+**November 25 profile correction (overrides archived fields):** Go-Pod and Go-Bot lose Super-Jump (7.5), retain Jet Propulsion. MULTI Rifle/E/Mitter 37 pts; HRL/AP SMG 34 pts, loses BS Attack (SR-1).
 
 **ID 1854 · AVA 1 · VH** — `MOV 20-5 | BS 13 | PH 13 | WIP 13 | ARM 2 | BTS 6 | W 2 | S 7`; Aerial platform with Go-Bot peripheral.
 
