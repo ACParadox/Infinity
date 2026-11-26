@@ -33,7 +33,37 @@
 
 **Identity test:** Play Druze for a **linked disruption-and-specialist core backed by independent forward Repeaters, fast Mimetism(-6) REM attacks, and disposable mercenary pressure**. Do **not** credit it with exclusive Druze Pitchers, E/M launchers, Bulleteers, Denma, Scarface, Guided missiles, or an unlisted FTO team. Its strength is the precise *combination*, not superior standalone guns.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 66 | B+ | Armand Le Muet 34/1.5 MSV1 MULTI Sniper — eligible NA2 | Existing local profile match; verify exact variant |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 19 | A+ | Táowù — 21/0 Druze/Ikari; 21/0.5 ISS/WhiteCo; roster examples: Imperial Service; Druze; Ikari; White Company | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 9 | — | Denma Connolly 12/0 — CHA / Kosmoflot / Bakunin / Tunguska / Druze | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 12 | S | Saito Tōgan 33/0 — JSA/Ōban | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 27 | A+ | Saito Tōgan T2 BSG+EXP CCW33/0 — JSA; Saito Tōgan33/0 — JSA/eligible | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 59 | A | Yuan Yuan Chain+Smoke6/0, DA7/0 — Druze/other legal rosters | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 18 | A+ | Bulleteer Spitfire 22/1 — Varuna | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 57 | A | Druze HD + Pitcher 25/0.5 (Qapu/Ikari/Druze where listed) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 82 | B | Druze KHD + Pitcher 23/0 (Qapu/Ikari/Druze where listed) | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 7 | S | Peacemaker Heavy Shotgun/Pulzar + Auxbot-3 23/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 11 | S | Libertos LSG/Shock Mine Minelayer 8/1 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 148 | A+ | Druze Shock Team — HD 25/0.5 | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 2 | S+ | Druze Shock Team KHD/Pitcher 23/0 or HD/Pitcher 25/.5 — Druze / Qapu / Ikari as legal | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 11 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 14 | S | Hunzakut DR18/.5; FO+DR19/0 where rostered — Ramah/Druze/Dahshat and eligible Haqq | Roster named in source |
+| [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 17 | A+ | Druze Bayram: legal Druze KHD/Pitcher23/0 or HD/Pitcher25/.5 + Valerya HD19/.5 and appropriate native coverage | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 10 | S | Yuan Yuan Chain Rifle+Smoke6/0 (Druze, eligible rosters only) | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 17 | S | Libertos FD+20 Camo(1 use), Dogged, SMG+Chain-colt8/0 — Druze and eligible roster | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 26 | A+ | Motorized Bounty Hunter BSG+Riotstopper8/0 or SMG+Chain-colt(+1B)9/0 — PanO/Tunguska/Druze where legal | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 27 | A+ | Denma Connolly Chain(+1B)+Smoke+AP+DA12/0 — Kosmo/Bakunin/Tunguska as printed | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: D — #44 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Good E/M, Repeater projection and compact mercenary teams reward technical play; comparatively ordinary baseline shooting limits direct solutions.
 
