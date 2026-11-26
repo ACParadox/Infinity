@@ -1,6 +1,6 @@
 # List-Building Strategy — REMs
 
-**Special-ability cross-faction selection (updated 5 Nov 2026):** [Force Multipliers — RemDriver, exceptional EVO, Counterintelligence and TAGCom: apex/value tiers](force-multipliers-special-abilities-apex-value.md) focuses on distinctive support packages rather than ordinary Baggage/EVO bots, Inspiring Leadership, FT Master, TinBots, Decoy or Cyberplug. For ordinary REM support see this guide; for multi-body mechanics see [rare capabilities](rare-capabilities-and-unique-combinations-apex-value.md), and for Order conversions see [Order economy](../list-building/cheerleaders-and-order-generators-ranking.md).
+**Special-ability cross-faction selection (updated 5 Nov 2026):** [Force Multipliers — RemDriver, exceptional EVO, Counterintelligence and TAGCom: apex/value tiers](force-multipliers-special-abilities-apex-value.md) focuses on distinctive support packages rather than ordinary Baggage/EVO bots, Inspiring Leadership, FT Master, TinBots, Decoy or Cyberplug. For ordinary REM support see this guide; for multi-body mechanics see [rare capabilities](rare-capabilities-and-unique-combinations-apex-value.md), and for Order conversions see [Order economy](../list-building/cheerleaders-ranking.md).
 
 **Cross-faction unit decisions (23 Oct 2026):** [Speculative Fire and Spotlight → Guided — N5.3 Apex and Points-Value Tier Guide](indirect-fire-speculative-guided-apex-value.md) compares the following profiles:
 
@@ -295,7 +295,7 @@ The overall pattern is:
 
 ## Cross-game cheerleader and Order-generator rankings (N5.3)
 
-See [Cheerleaders and Order Generators](../list-building/cheerleaders-and-order-generators-ranking.md) for a unified comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.
+See [Cheerleaders and Order Generators](../list-building/cheerleaders-ranking.md) for a unified comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.
 
 
 ## Cross-game N5.3 ARO tier and deployment study
