@@ -1,6 +1,6 @@
 # Unified role-ranking crosswalk — 26 November 2026
 
-This is a read-only editorial snapshot of the numbered global role tables at [source commit c040bf75](https://github.com/ACParadox/Infinity/commit/c040bf7582d3d288162d9a40e4a5572f20dcc21f). The original [list-building guides](../list-building/) remain authoritative. Rank numbers are local to each named table, not an overall unit or faction tier. A dash in Tier denotes a rank-only category. Profile labels and roster examples are copied from the ranking sources, not independent guarantees of Army legality; compare the selected faction's pinned roster. Separate profiles and packages must not be merged. Unnumbered tactical recommendations, battle-report frequencies and historical split ranks are outside this crosswalk.
+This is a read-only editorial snapshot of the numbered global role tables at [source commit 0ebabd0c](https://github.com/ACParadox/Infinity/commit/0ebabd0cf354c4b13721695fbf8a1dedb808160d). The original [list-building guides](../list-building/) remain authoritative. Rank numbers are local to each named table, not an overall unit or faction tier. A dash in Tier denotes a rank-only category. Profile labels and roster examples are copied from the ranking sources, not independent guarantees of Army legality; compare the selected faction's pinned roster. Separate profiles and packages must not be merged. Unnumbered tactical recommendations, battle-report frequencies and historical split ranks are outside this crosswalk.
 
 | Role / canonical ranking | Rank | Tier | Exact source profile or package | Extra roster examples |
 |---|---:|:---:|---|---|
@@ -791,7 +791,7 @@ This is a read-only editorial snapshot of the numbered global role tables at [so
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 62 | A | Nøkken KHD 25/0 — Winter Force | — |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 63 | A | Naga KHD 27/0 (ALEPH/OSS/Acontecimento) | — |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 64 | A | Initiated Observant KHD 22/0 — Bakunin | — |
-| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 65 | A | Banshee KHD 23/0 (O-12) | — |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 65 | A | Banshee KHD 23/0 (PanO: Kestrel/Vanilla PanO) | — |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 66 | A | Nokizaru KHD 27/0 — Shindenbutai/JSA | — |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 67 | A | Yě Māo KHD 25/0 — White Banner | — |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 68 | B | Thyreos KHD 25/0 — ALEPH/Steel | — |
@@ -897,7 +897,7 @@ This is a read-only editorial snapshot of the numbered global role tables at [so
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 55 | S | Karakuri FO 31 — JSA/Ōban | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 56 | S | Gŭiláng FO27/0 — White Banner/eligible Yu Jing | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 57 | S | Betatrooper KHD25/0 / Doctor27/0 / SO32/0 — Starmada | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 58 | S | Crux Knight Hidden FD(+20) SO47/0 — Military Orders | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 58 | S | Crux Knight Hidden FD(+20) SO47/0 — Vanilla PanO/Kestrel/Military Orders | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 59 | S | Clipsos FO 26/0 — Tohaa | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 60 | S | Arjuna SO + Tactical Awareness — ALEPH; Arjuna SO 25/0 FD+20 + Tactical Awareness (or SO 21/0 FTO) — ALEPH | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 61 | S | Mary Problems dual HD/KHD27/.5 — Nomads/Tunguska | — |
@@ -945,112 +945,111 @@ This is a read-only editorial snapshot of the numbered global role tables at [so
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 103 | A+ | Machaon Doctor37/.5 — Steel Phalanx | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 104 | A+ | Kulak — FO 19/0 | — |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 105 | A+ | Hatamoto SO 34 or LT+SO 36–39 — JSA | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 106 | A+ | Crux Father-Knight Hidden SO 47/0 — PanO/Kestrel/MO where legal | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 107 | A+ | Asawira Doctor(+3)35–37/0 — Hassassin | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 108 | A+ | Asura HD+ 63/0.5 — ALEPH/OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 109 | A+ | Waverider HD + Oblivion(+1B) 22/.5 — Torchlight | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 110 | A+ | Puppet Master11/0 + FO PuppetBot9/0 = 20/0; optional AP-MMR bot14/0 = 34/0 — Tunguska | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 111 | A+ | Burkut Engineer26–30/0 — Haqq/Qapu/Ramah | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 112 | A+ | Med-Tech Obsidon Doctor + Engineer 21 — Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 113 | A+ | Chandra Thrasymedes FO28/0 Infiltration/Decoy — Steel Phalanx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 114 | A+ | Casino Rounders — HD 21/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 115 | A+ | Johnny Kao Engineer(ReRoll)36/0 — OSS/eligible Yu Jing | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 116 | A+ | Intruder KHD33/0 — Corregidor | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 117 | A+ | De Fersen HD + Trinity(+1SD) 42/.5 — Military Orders | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 118 | A+ | Kumotail Doctor+Engineer21/0 — Tohaa | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 119 | A+ | Gao-Tarsos Paramedic24/0 — Tohaa | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 120 | A+ | Orphan Engineer 17 or Repeater/E/M Engineer 21 — Bakunin | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 121 | A+ | Kyra Sharma Paramedic45/0 FTO or airborne52/0 — O-12 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 122 | A+ | Clockmaker Engineer18/0 — Nomads/Bakunin/Tunguska | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 123 | A+ | Ekdromoi HD 23/.5 or KHD 25 — Steel Phalanx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 124 | A+ | Koga Ninja KHD+Carbonite30/0 — Imperial Service | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 125 | A+ | Fiddler Engineer 29 FTO or 36 with JackBot — Bakunin/Tunguska | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 126 | A+ | Krit Kokram Engineer35–40 — Invincible Army | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 127 | A+ | Ghulam FO 12 / HD 16 / Doctor 15 — Haqq (separate profiles) | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 128 | A+ | Artalis Engineer23–27/0 or Doctor23/0 — OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 129 | A+ | Sophotect Doctor + Engineer 25 — ALEPH/OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 130 | A+ | Vassily LT+FO35/0–1 (Vanilla Ariadna) | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 131 | A+ | Drummer FO + Drumbot-5 FO 21 — Kestrel/PanO | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 132 | A+ | Aquila Guard FTO SO MULTI Marksman Rifle+Disco Baller49/0 — NCA | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 133 | A+ | BCA Magistrate SO; CoC+SO 21 or Strategos LT+SO 19 — PanO/Kestrel | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 134 | A+ | Kosuil Engineer20/0 BSG/Panzerfaust or 25/0 K1 — Tohaa | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 135 | A+ | Strider SO 27/0 / FO29/0 — Torchlight | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 136 | A+ | Dr. Priya Harper FD+20 SO35/+1 SWC or FTO SO32/+1 — Kestrel/eligible PanO | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 137 | A+ | Nourkias HD48/1 — Combined Army | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 138 | A+ | Zondnautica-C — HD + ZondMate 23/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 139 | A+ | Anathematics HD with Trinity(+1B) 72/.5 — Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 140 | A+ | Knight of Justice — HD 45/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 141 | A+ | Swiss Guard HD 56/.5 — PanO/NCA | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 142 | A+ | Blocker Specialist Operative15/0 — NCA | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 143 | A+ | Shakti KHD35/0 — OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 144 | A+ | Bit & KISS! HD+Trinity25/.5 or KHD+Oblivion24/.5 — Onyx/eligible Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 145 | A+ | Fennec FO + Sensor + Disco Baller 13/0 — Kestrel | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 146 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 147 | A+ | Barid FO 12 / KHD 14 or LT+FO 12 — Haqq | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 148 | A+ | Druze Shock Team — HD 25/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 149 | A+ | Interventor HD+ 18–23/.5 — Tunguska | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 150 | A+ | Richard Quinn FO MULTI Rifle+Disco Baller26/0 or FO MULTI Marksman Rifle26/0 — NCA/eligible PanO | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 151 | A+ | Danavas HD+ 22/0.5 — ALEPH/OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 152 | A+ | Apsaras KHD + Firewall(-3)/Deployable Repeater17/0 — OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 153 | A+ | Riksha FO 20/0 — ALEPH/OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 154 | A+ | Gearhead Engineer17/0, FTO Engineer18/0 or FTO Hacker Firewall(-6)/Pitcher19/.5 — Next Wave | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 155 | A+ | Nesaie Alkê SO MULTI Rifle+Disco+NCO27/0 — Steel Phalanx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 156 | A | Bìxié FO41/0 — Invincible Army/White Banner | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 157 | A | Tai Sheng FO+NCO 33–37 or CoC+FO 36–40 — Invincible Army | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 158 | A | Fusilier HD15 — PanO | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 159 | A | Makhai FO29/0 Tactical Awareness — Steel Phalanx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 160 | A | Konduktor FTO Paramedic10/0 — TAK | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 161 | A | Métro SO 10 or Paramedic 10 — FRRM | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 162 | A | Caledonian Volunteer Paramedic10/0 — Caledonia | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 163 | A | Kappa HD13 — O-12 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 164 | A | Djanbazan — HD 27/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 165 | A | Initiated Observant KHD22/0 Parachutist — Bakunin | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 166 | A | Fraacta HD25/.5 — Onyx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 167 | A | Mukhtar FO 25/0 — Ramah | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 168 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 169 | A | Nisse — HD 30/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 170 | A | Bipandra Doctor23/0 / TA25/0 — PanO/Kestrel | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 171 | A | Rokot FO 10 / Paramedic 11 / SO 11 — Kosmoflot | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 172 | A | Yaogat — HD 29/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 173 | A | Jīnyào Paramedic19/0 — Imperial Service | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 174 | A | Sirius FO + Repeater SiriusBot 21 — O-12 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 175 | A | Nexus SO 22 / Engineer 23 / HD 24–27 — Onyx/Combined (separate profiles) | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 176 | A | Raptor FO MULTI Rifle+E/M Carbine + Devabot39/0 or KHD41/0 — Starmada | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 177 | A | Banshee KHD23/0 — Kestrel/eligible PanO | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 178 | A | Mobile Brigada — HD 36/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 179 | A | Ment Agent FTO — CoC + HD 20/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 180 | A | Umbra Samaritan HD+KHD Plasma Rifle43/.5 — Onyx/eligible Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 181 | A | Umbra Legate FTO — HDplus + D-Charges 38/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 182 | A | Charontid HDplus+Sepsitor Plus Plasma69/.5 — Vanilla Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 183 | A | Stigmata HD+Carbonite(SR-2) TAG56/1.5 — Bakunin | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 184 | A | Neoterra Bolt — HD 24/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 185 | A | Zoe FTO-2 + Π-Well FTO 42/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 186 | A | Kludger — Engineer 23/0 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 187 | A | 5th Minutemen — FO + NCO 25/0 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 188 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 189 | A | Evader Engineer24–29/0 / Specialist Operative23–31 — Corregidor | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 190 | A | Brigadier Bruant SO33/1 Infiltration or FTO28/1 — FRRM | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 191 | A | Indigo Brother Konstantinos SO26/0 Infiltration — Military Orders | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 192 | A | Ariadna Scout FO28/0 — TAK/Ariadna | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 193 | A | Genbutai — Engineer 23/0 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 194 | A | Hakim Parachutist Doctor(+3)24–25/0 — Ramah | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 195 | A | Yadu — HD 27/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 196 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 197 | A | Carlota Engineer28/0 — Corregidor | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 198 | A | Victor Messer HDplus31/.5 — Shasvastii/Combined | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 199 | A | Rahman Rouhani Doctor(+3)21/0 — Ramah | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 200 | A | Pheasant Agent — CoC + HD 28/0.5 | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 201 | B+ | Kirpal Singh SO28/0 — Acontecimento | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 202 | B+ | Hassassin Yasbir SO29/0 Parachutist/Smoke — Hassassin | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 203 | B+ | Monstrucker Irregular Engineer 12 — eligible rosters | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 204 | B+ | Irmandinho Irregular Engineer 8 — Ariadna | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 205 | B+ | Bashi Bazouk Irregular SO 16 — Vanilla Haqq | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 206 | B+ | Jazz FTO HD+ 22/.5 or Jazz+Billie 25/.5 — Corregidor | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 207 | B+ | Tiger Soldier Paramedic26/0 — White Banner | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 208 | B+ | Kerr-Nau KHD30/0 — Onyx | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 209 | B+ | Nyoka FO22/0 FTO or FO27/0 Parachutist — Starmada | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 210 | B+ | Crusader Brethren FO23/0 — Military Orders | — |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 211 | B+ | Echo-Bravo Paramedic27/0 — Varuna | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 106 | A+ | Asawira Doctor(+3)35–37/0 — Hassassin | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 107 | A+ | Asura HD+ 63/0.5 — ALEPH/OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 108 | A+ | Waverider HD + Oblivion(+1B) 22/.5 — Torchlight | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 109 | A+ | Puppet Master11/0 + FO PuppetBot9/0 = 20/0; optional AP-MMR bot14/0 = 34/0 — Tunguska | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 110 | A+ | Burkut Engineer26–30/0 — Haqq/Qapu/Ramah | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 111 | A+ | Med-Tech Obsidon Doctor + Engineer 21 — Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 112 | A+ | Chandra Thrasymedes FO28/0 Infiltration/Decoy — Steel Phalanx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 113 | A+ | Casino Rounders — HD 21/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 114 | A+ | Johnny Kao Engineer(ReRoll)36/0 — OSS/eligible Yu Jing | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 115 | A+ | Intruder KHD33/0 — Corregidor | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 116 | A+ | De Fersen HD + Trinity(+1SD) 42/.5 — Military Orders | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 117 | A+ | Kumotail Doctor+Engineer21/0 — Tohaa | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 118 | A+ | Gao-Tarsos Paramedic24/0 — Tohaa | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 119 | A+ | Orphan Engineer 17 or Repeater/E/M Engineer 21 — Bakunin | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 120 | A+ | Kyra Sharma Paramedic45/0 FTO or airborne52/0 — O-12 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 121 | A+ | Clockmaker Engineer18/0 — Nomads/Bakunin/Tunguska | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 122 | A+ | Ekdromoi HD 23/.5 or KHD 25 — Steel Phalanx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 123 | A+ | Koga Ninja KHD+Carbonite30/0 — Imperial Service | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 124 | A+ | Fiddler Engineer 29 FTO or 36 with JackBot — Bakunin/Tunguska | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 125 | A+ | Krit Kokram Engineer35–40 — Invincible Army | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 126 | A+ | Ghulam FO 12 / HD 16 / Doctor 15 — Haqq (separate profiles) | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 127 | A+ | Artalis Engineer23–27/0 or Doctor23/0 — OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 128 | A+ | Sophotect Doctor + Engineer 25 — ALEPH/OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 129 | A+ | Vassily LT+FO35/0–1 (Vanilla Ariadna) | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 130 | A+ | Drummer FO + Drumbot-5 FO 21 — Kestrel/PanO | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 131 | A+ | Aquila Guard FTO SO MULTI Marksman Rifle+Disco Baller49/0 — NCA | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 132 | A+ | BCA Magistrate SO; CoC+SO 21 or Strategos LT+SO 19 — PanO/Kestrel | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 133 | A+ | Kosuil Engineer20/0 BSG/Panzerfaust or 25/0 K1 — Tohaa | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 134 | A+ | Strider SO 27/0 / FO29/0 — Torchlight | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 135 | A+ | Dr. Priya Harper FD+20 SO35/+1 SWC or FTO SO32/+1 — Kestrel/eligible PanO | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 136 | A+ | Nourkias HD48/1 — Combined Army | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 137 | A+ | Zondnautica-C — HD + ZondMate 23/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 138 | A+ | Anathematics HD with Trinity(+1B) 72/.5 — Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 139 | A+ | Knight of Justice — HD 45/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 140 | A+ | Swiss Guard HD 56/.5 — PanO/NCA | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 141 | A+ | Blocker Specialist Operative15/0 — NCA | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 142 | A+ | Shakti KHD35/0 — OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 143 | A+ | Bit & KISS! HD+Trinity25/.5 or KHD+Oblivion24/.5 — Onyx/eligible Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 144 | A+ | Fennec FO + Sensor + Disco Baller 13/0 — Kestrel | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 145 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 146 | A+ | Barid FO 12 / KHD 14 or LT+FO 12 — Haqq | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 147 | A+ | Druze Shock Team — HD 25/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 148 | A+ | Interventor HD+ 18–23/.5 — Tunguska | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 149 | A+ | Richard Quinn FO MULTI Rifle+Disco Baller26/0 or FO MULTI Marksman Rifle26/0 — NCA/eligible PanO | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 150 | A+ | Danavas HD+ 22/0.5 — ALEPH/OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 151 | A+ | Apsaras KHD + Firewall(-3)/Deployable Repeater17/0 — OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 152 | A+ | Riksha FO 20/0 — ALEPH/OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 153 | A+ | Gearhead Engineer17/0, FTO Engineer18/0 or FTO Hacker Firewall(-6)/Pitcher19/.5 — Next Wave | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 154 | A+ | Nesaie Alkê SO MULTI Rifle+Disco+NCO27/0 — Steel Phalanx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 155 | A | Bìxié FO41/0 — Invincible Army/White Banner | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 156 | A | Tai Sheng FO+NCO 33–37 or CoC+FO 36–40 — Invincible Army | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 157 | A | Fusilier HD15 — PanO | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 158 | A | Makhai FO29/0 Tactical Awareness — Steel Phalanx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 159 | A | Konduktor FTO Paramedic10/0 — TAK | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 160 | A | Métro SO 10 or Paramedic 10 — FRRM | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 161 | A | Caledonian Volunteer Paramedic10/0 — Caledonia | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 162 | A | Kappa HD13 — O-12 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 163 | A | Djanbazan — HD 27/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 164 | A | Initiated Observant KHD22/0 Parachutist — Bakunin | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 165 | A | Fraacta HD25/.5 — Onyx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 166 | A | Mukhtar FO 25/0 — Ramah | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 167 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 168 | A | Nisse — HD 30/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 169 | A | Bipandra Doctor23/0 / TA25/0 — PanO/Kestrel | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 170 | A | Rokot FO 10 / Paramedic 11 / SO 11 — Kosmoflot | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 171 | A | Yaogat — HD 29/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 172 | A | Jīnyào Paramedic19/0 — Imperial Service | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 173 | A | Sirius FO + Repeater SiriusBot 21 — O-12 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 174 | A | Nexus SO 22 / Engineer 23 / HD 24–27 — Onyx/Combined (separate profiles) | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 175 | A | Raptor FO MULTI Rifle+E/M Carbine + Devabot39/0 or KHD41/0 — Starmada | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 176 | A | Banshee KHD23/0 — Kestrel/Vanilla PanO | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 177 | A | Mobile Brigada — HD 36/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 178 | A | Ment Agent FTO — CoC + HD 20/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 179 | A | Umbra Samaritan HD+KHD Plasma Rifle43/.5 — Onyx/eligible Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 180 | A | Umbra Legate FTO — HDplus + D-Charges 38/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 181 | A | Charontid HDplus+Sepsitor Plus Plasma69/.5 — Vanilla Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 182 | A | Stigmata HD+Carbonite(SR-2) TAG56/1.5 — Bakunin | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 183 | A | Neoterra Bolt — HD 24/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 184 | A | Zoe FTO-2 + Π-Well FTO 42/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 185 | A | Kludger — Engineer 23/0 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 186 | A | 5th Minutemen — FO + NCO 25/0 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 187 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 188 | A | Evader Engineer24–29/0 / Specialist Operative23–31 — Corregidor | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 189 | A | Brigadier Bruant SO33/1 Infiltration or FTO28/1 — FRRM | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 190 | A | Indigo Brother Konstantinos SO26/0 Infiltration — Military Orders | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 191 | A | Ariadna Scout FO28/0 — TAK/Ariadna | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 192 | A | Genbutai — Engineer 23/0 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 193 | A | Hakim Parachutist Doctor(+3)24–25/0 — Ramah | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 194 | A | Yadu — HD 27/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 195 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 196 | A | Carlota Engineer28/0 — Corregidor | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 197 | A | Victor Messer HDplus31/.5 — Shasvastii/Combined | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 198 | A | Rahman Rouhani Doctor(+3)21/0 — Ramah | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 199 | A | Pheasant Agent — CoC + HD 28/0.5 | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 200 | B+ | Kirpal Singh SO28/0 — Acontecimento | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 201 | B+ | Hassassin Yasbir SO29/0 Parachutist/Smoke — Hassassin | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 202 | B+ | Monstrucker Irregular Engineer 12 — eligible rosters | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 203 | B+ | Irmandinho Irregular Engineer 8 — Ariadna | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 204 | B+ | Bashi Bazouk Irregular SO 16 — Vanilla Haqq | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 205 | B+ | Jazz FTO HD+ 22/.5 or Jazz+Billie 25/.5 — Corregidor | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 206 | B+ | Tiger Soldier Paramedic26/0 — White Banner | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 207 | B+ | Kerr-Nau KHD30/0 — Onyx | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 208 | B+ | Nyoka FO22/0 FTO or FO27/0 Parachutist — Starmada | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 209 | B+ | Crusader Brethren FO23/0 — Military Orders | — |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 210 | B+ | Echo-Bravo Paramedic27/0 — Varuna | — |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 1 | S+ | Blocker Specialist Operative 15/0 — NCA / eligible White Company / PanO | — |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 2 | S+ | Druze Shock Team KHD/Pitcher 23/0 or HD/Pitcher 25/.5 — Druze / Qapu / Ikari as legal | — |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 3 | S+ | Fēiquán 28/0 — Imperial Service / White Banner / Vanilla Yu Jing | — |
@@ -1272,7 +1271,7 @@ This is a read-only editorial snapshot of the numbered global role tables at [so
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 57 | A+ | Hassassin Bokhtar Parachutist BSG Paramedic49/0 — Hassassin | — |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 58 | A+ | Zhēnchá FO+Deployable Repeater 31/0 or HD with Trinity 34/.5 (Invincible Army) | — |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 59 | A+ | Aragoto Motorcycle KHD 19/0 or HD 21/.5 (JSA) | — |
-| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 60 | A+ | Banshee KHD/SMG 23/0 or HD/SMG 25/.5 (Kestrel) | — |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 60 | A+ | Banshee KHD/SMG 23/0 or HD/SMG 25/.5 (Kestrel/Vanilla PanO) | — |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 61 | A+ | Liú Xīng SO30/0 or HD30/.5 (Invincible Army) | — |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 62 | A+ | Andromeda SMG+Zapper Specialist 30/0 (ALEPH/OSS) | — |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 63 | A+ | Ōban Tankō Disco+Blitzen+Deactivator 19/0 | — |
