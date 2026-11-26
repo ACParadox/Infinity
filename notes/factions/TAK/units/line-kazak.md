@@ -1,6 +1,6 @@
 # Line Kazaks — Tartary Army Corps (Infinity N5.3)
 
-**Verdict: B overall — situational, but A-tier as a cheap native Fireteam anchor or Lieutenant shell.** Take **0–3** in ordinary TAK lists. The **10pt Forward Observer** is the default active-team anchor, the **9pt Lieutenant + 9pt Rifle** is a cheap command shell, and the **9pt Rifle** is useful if points or same-family composition matter. Do not buy ordinary Line Kazaks ahead of more useful cheap defensive troops merely to generate Orders. A full five-equivalence Core is a deliberate architecture, not a requirement of TAK.
+**Verdict: B overall — situational. Two primary uses only: the 9pt Lieutenant + 9pt Rifle lookalike (18/0), or the 10pt Forward Observer as native Fireteam glue for a Line Kazak Haris/Core.** Take 0–3 in ordinary lists; do not take extra basic Rifle bodies as generic cheerleaders. Prefer a Kazak Doktor for medical support and dedicated gunfighters for heavy weapons. Other profiles are niche or normally skipped. User-confirmed priority, 26 November 2026.
 
 **Sources:** [TAK roster](../../../../sectorials/ariadna/tartary-army-corps.md#line-kazaks) · [Canonical Fireteam chart](../../../../sectorials/ariadna/tartary-army-corps.md#canonical-fireteam-chart) · [TAK Fireteams](../tak-fireteams.md) · [TAK listbuilding](../tak-listbuilding.md) · [Fireteam bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [MediKit](../../../../rules/5c_Equipment/MediKit.md). Reviewed 26 November 2026. Unit ID 227, group 1, and all seven options were checked against both the [September pin](https://github.com/massayoshi/infinity-army-backup/blob/d4329bb596ffea5d568eb2435f74366c305a7630/n5/tartary/7.26246.158.json) and [25 November Army snapshot](https://github.com/massayoshi/infinity-army-backup/blob/e2a8532270a039796db45bd07b1d111dc7bc8311/n5/tartary/7.26329.479.json). The unit's base profile, options and standard Fireteam chart agree across these snapshots. The broader TAK reference remains partial; this is not a certification of all other unit data. Ratings are local tactical judgments, not new cross-game ranks.
 
@@ -12,8 +12,8 @@
 |---:|---|---:|---|---|
 | 6 | Rifle, Flash Pulse, Forward Observer | 10 / 0 | **A** | Best general-purpose native anchor, near-side button, Flash Pulse |
 | 8 | Rifle, Lieutenant | 9 / 0 | **A−** | Cheapest command option; preserve the LT rather than spending heavily on protection |
-| 1 | Rifle | 9 / 0 | **B** | LT lookalike, cheap native anchor, maintain composition level |
-| 7 | Rifle, Paramedic, MediKit | 11 / 0 | **B** | Ranged recovery if a linked Kazak Doktor cannot safely reach the casualty |
+| 1 | Rifle | 9 / 0 | **B (LT decoy)** | Primarily matching LT lookalike; otherwise prefer FO or useful counts-as troops |
+| 7 | Rifle, Paramedic, MediKit | 11 / 0 | **B** | Usually skip; Kazak Doktor also has MediKit and costs only one point more |
 | 5 | Missile Launcher | 17 / 1.5 | **C+** | Expendable linked long-range ARO; competing options generally better |
 | 2 | HMG | 20 / 1 | **C** | Budget secondary gun when a larger pure Core already exists |
 | 10 | Rifle, Specialist Operative, Commlink (+2) | 11 / 0 | **C− / niche** | Reinforcement-specific utility; ordinary scoring usually favors the cheaper FO |
@@ -119,4 +119,4 @@ The [#087 report](../../../battle-reports/081-090-n5-battle-report-tactical-anal
 
 The [owned TAK inventory](../../../../inventory/tak.md) records **three Line Kazaks**. This is sufficient for the recommended architectures; the [TAK buy list](../../_buy-lists/tak-buy-list.md) already advises against duplicate Line Kazak boxes. Prefer rifle figures for the LT/lookalike and FO. No compulsory purchase; heavy-weapon sculpts are low priority unless a specific list repeatedly uses them.
 
-**Bottom line:** a 10pt FO anchor or 9pt LT is worthwhile; the 9pt Rifle is a structural tool rather than a premium cheerleader. Build around the dangerous Frontovik/Veteran or artillery package, not the Line Kazak itself.
+**Bottom line (user-confirmed):** select the **18/0 LT + Rifle lookalike** for cheap command or the **10/0 FO** to satisfy the native requirement of a Haris/Core. If neither role is needed, skip Line Kazaks. Other profiles and extra bodies are exceptional list-specific choices.

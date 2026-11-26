@@ -76,7 +76,7 @@ The current consolidated rankings on main place the 7pt FTO **#1 in [DZ defender
 ## Sources
 
 - [Canonical TAK roster and Fireteams](../../../../sectorials/ariadna/tartary-army-corps.md#konduktors-transtartaric-railway-troops)
-- [TAK listbuilding](../tak-listbuilding.md), [TAK Fireteams](../tak-fireteams.md), [Line Kazak analysis](line-kazaks.md)
+- [TAK listbuilding](../tak-listbuilding.md), [TAK Fireteams](../tak-fireteams.md), [Line Kazak analysis](line-kazak.md)
 - [September snapshot](https://raw.githubusercontent.com/massayoshi/infinity-army-backup/d4329bb596ffea5d568eb2435f74366c305a7630/n5/tartary/7.26246.158.json), [November 25 snapshot](https://raw.githubusercontent.com/massayoshi/infinity-army-backup/e2a8532270a039796db45bd07b1d111dc7bc8311/n5/tartary/7.26329.479.json)
 - [Official Weapon Chart](https://infinitythewiki.com/Weapons_Chart), [Camouflaged State](https://infinitythewiki.com/Camouflaged), [Infiltration](https://infinitythewiki.com/Infiltration), [Fireteam Bonuses](https://infinitythewiki.com/Fireteam_Bonuses)
 
