@@ -28,7 +28,7 @@ All seven use the same BS11 chassis and have the listed Pistol/CCW. A basic Rifl
 |---|---:|---|
 | Line Kazak LT alone | 9 / 0 | Minimal points, but identification risk if there is no matching Rifle profile |
 | LT + Rifle lookalike | 18 / 0 | Cheap command concealment, two Regular Orders |
-| Voronin LT | 22 / 0 | Counterintelligence, +1 Command Token, Sensor, WIP14 and counts-as Line Kazak; TAK does not inherit Vanilla Strategos |
+| Voronin LT | 22 / 0 | Strategos L1, Counterintelligence, +1 Command Token, Sensor, WIP14 and counts-as Line Kazak; flexible LT Order and extra reserve |
 | TankHunter LT Minelayer | 25 / 0 | Camo, mine package and useful independent weapons |
 | Veteran Kazak LT FO | 36 / 0 | Durable WIP14 specialist and active combat piece |
 | Veteran Kazak LT AP HMG | 45 / 1 | Main attacker and SWC saving over the non-LT AP HMG; exposure risk |
