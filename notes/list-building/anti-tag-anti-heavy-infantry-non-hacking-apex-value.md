@@ -7,7 +7,7 @@
 
 **Scope:** Non-hacking answers to armored TAG/HI/REM/VH: **E/M** (including E/M Carbine, E/Mitter, E/Marat, Blitzen, Zapper, WildParrot, grenades, E/M CCW and mines), **Cybermine, PARA/adhesive/Akrylat/Riotstopper/MadTrap, K1, Monofilament, AP, DA, EXP, AP+DA, AP+EXP, T2, AP+T2, Continuous Damage, Breaker/BTS shots and melee**. **K2 is the name of an Auxiliar unit; N5 has K1 ammunition, not a K2 ammunition type.** Flash Pulse/Stun and Sepsitor count only as conditional control. **Exclude Hacker/KHD hacking programs, Pitcher-to-hacking strategies, and Guided fire *requiring hacking Spotlight* as an independent self-contained kill plan.** Pure Forward Observer/Targeted setup and scenario targeting can be useful **only if all supporting resources/Orders are counted**. This guide scores **neutralizing the target, not necessarily killing it**; an IMM-B TAG for the rest of the last turn is often as useful as a dead one.
 
-Related project work (retained): [gunfighter apex/value](active-turn-gunfighters-apex-and-value.md), [ARO apex/value](aro-units-apex-and-value.md), [TAGs](tags.md), [cheap warband trades](warbands-and-cheap-trading-units-apex-value.md), [CC/Monofilament assassins](dedicated-close-combat-assassins-apex-value.md), [ammunition/range doctrine](../Strategy/weapons-ammunition-and-engagement-selection.md), [nonlethal state strategy](../Strategy/state-warfare-and-non-lethal-control.md), [trading/attrition](../Strategy/trading-and-attrition.md), [recovery support](doctors-engineers-and-recovery-apex-value.md).
+Related project work (retained): [gunfighter apex/value](active-turn-gunfighters-apex-and-value.md), [ARO apex/value](aro-units-apex-and-value.md), [TAGs](tags-ranking.md), [cheap warband trades](warbands-and-cheap-trading-units-apex-value.md), [CC/Monofilament assassins](dedicated-close-combat-assassins-apex-value.md), [ammunition/range doctrine](../Strategy/weapons-ammunition-and-engagement-selection.md), [nonlethal state strategy](../Strategy/state-warfare-and-non-lethal-control.md), [trading/attrition](../Strategy/trading-and-attrition.md), [recovery support](doctors-engineers-and-recovery-apex-value.md).
 
 ## Thirty-second results
 
@@ -121,7 +121,7 @@ Against ARM8 in Partial Cover, AP reduces **ARM8→4**, **then** adds +3 cover (
 - **Bultrak:** Portable Autocannon(+1B).
 - **Gorgos:** AP HMG.
 
-Purchasing **another TAG** for anti-TAG duty is a **separate, 60–110pt list-construction decision**, not a value comparison with a 5pt E/Marat or 33pt TankHunter. [Full TAG guide](tags.md) retains its own apex/value ranking.
+Purchasing **another TAG** for anti-TAG duty is a **separate, 60–110pt list-construction decision**, not a value comparison with a 5pt E/Marat or 33pt TankHunter. [Full TAG guide](tags-ranking.md) retains its own apex/value ranking.
 
 ## 3. Points-value tiers — affordable answers that actually exist
 
