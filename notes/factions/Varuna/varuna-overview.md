@@ -26,6 +26,15 @@
 
 **Boundaries:** Varuna has **no Chain of Command** in its pinned 27-unit roster; **Quinn FO/Disco is not CoC**. It also lacks Vanilla's **Swiss Guard, Tikbalang and Redeye**. Do not portray it as best-in-game hacking merely because Zulu-Cobra carries a Pitcher, or transfer FTO membership, Camo and Sensor between alternate Helot profiles.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Knight of Montesa (foot)** | FD(+20) BSG Paramedic26/0 | [Zone A+ #23](../../list-building/objective-holding-ranking.md) | ARM4/BTS6/2W and Mimetism make a practical forward zone anchor; distinguish FTO20/0 and motorcycle21/0 (DZ attacker S #23). |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: A — #13 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Helots and Kamau force costly ARO interactions while Zulu-Cobras and Montesas score; excellent defensive efficiency, but somewhat reactive-plan dependent.
