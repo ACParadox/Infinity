@@ -8,12 +8,12 @@ Current committed list-building comparisons; these are global, role-specific rat
 
 | Ranking | Selected profile | Current rank / tier |
 |---|---|---|
-| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 23/0 (source roster label requires correction) | **#65 · A** |
+| [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 23/0 (Kestrel/Vanilla PanO) | **#65 · A** |
 | [Enemy-DZ attacker](../../../list-building/dz-attackers-ranking.md) | LSG + Pulzar 19/0 or KHD 23/0 | **#12 · S** |
-| [Toolbox](../../../list-building/toolbox-units-rankings.md) | KHD 23/0 or HD 25/0.5 (Kestrel entry) | **#60 · A+** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | KHD 23/0 | **#177 · A** |
+| [Toolbox](../../../list-building/toolbox-units-rankings.md) | KHD 23/0 or HD 25/0.5 (Kestrel/Vanilla PanO) | **#60 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | KHD 23/0 | **#176 · A** |
 
-The KHD guide's promoted row is labeled O-12, inconsistent with the pinned PanO profile. The rank is a same-loadout comparator pending roster-label correction; Kestrel-specific entries do not confer Fireteam benefits in vanilla.
+The global KHD rank applies to the PanO Banshee (Kestrel and Vanilla PanO). The 23/0 KHD is distinct from the 25/0.5 HD; vanilla does not gain sectorial Fireteam benefits.
 
 ## Vanilla differences
 

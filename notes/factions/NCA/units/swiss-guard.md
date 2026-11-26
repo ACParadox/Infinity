@@ -12,7 +12,7 @@ Current committed list-building comparisons; these are global, role-specific rat
 | [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1SD) 60/2 | **#9 · S** |
 | [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1B) 61/1.5 | **#39 · A** |
 | [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD MULTI Rifle 56/0.5 | **#37 · S** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 56/0.5 | **#141 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 56/0.5 | **#140 · A+** |
 | [Killer hacker](../../../list-building/killer-hackers-ranking.md) | KHD 47/0 | **#41 · A** |
 
 The +1SD ARO moved from #8 to #9 after the SWC increase; +1B is a distinct active-turn option and ranks lower as an ARO. The HD's global toolbox promotion does not make it the default Swiss in NCA.

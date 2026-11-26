@@ -12,7 +12,7 @@ Current committed list-building comparisons; these are global, role-specific rat
 
 | Ranking | Selected profile | Current rank / tier |
 |---|---|---|
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SO 19/0 | **#168 · A** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | SO 19/0 | **#167 · A** |
 
 New global specialist entry recognizes mobile zero-SWC scoring. The local C+ / Skip verdict still reflects her Irregular Order and competition with Regular Kestrel specialists; the global tier does not mean must-field.
 

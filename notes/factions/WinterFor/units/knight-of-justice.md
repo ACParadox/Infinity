@@ -12,7 +12,7 @@ Current committed list-building comparisons; these are global, role-specific rat
 |---|---|---|
 | [ARO](../../../list-building/aro-units-apex-and-value.md) | ML (+1SD) 46/1.5 (WinterFor entry) | **#13 · S** |
 | [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 42/1.5 (MO comparator) | **#45 · A** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 (MO comparator) | **#140 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 (MO comparator) | **#139 · A+** |
 
 The WinterFor ML remains a strong premium reactive choice. The MO medium-range and mission-specialist rows are same-loadout benchmarks, not independent WinterFor ranks or proof of identical Fireteam support.
 

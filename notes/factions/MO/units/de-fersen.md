@@ -11,7 +11,7 @@ Current committed list-building comparisons; these are global, role-specific rat
 | Ranking | Selected profile | Current rank / tier |
 |---|---|---|
 | [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD + Trinity MULTI 42/0.5 or Spitfire 46/1.5 | **#18 · S** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD + Trinity (+1SD) 42/0.5 | **#117 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD + Trinity (+1SD) 42/0.5 | **#116 · A+** |
 | [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 46/1.5 | **#44 · A** |
 | [Killer hacker](../../../list-building/killer-hackers-ranking.md) | HD + Trinity (+1SD) 42/0.5 | **#21 · A+** |
 

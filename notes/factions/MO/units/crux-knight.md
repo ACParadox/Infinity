@@ -10,10 +10,9 @@ Current committed list-building comparisons; these are global, role-specific rat
 
 | Ranking | Selected profile | Current rank / tier |
 |---|---|---|
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden FD (+20) SO 47/0 (MO-specific entry) | **#58 · S** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden SO 47/0 (shared PanO/Kestrel/MO entry) | **#106 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | Hidden FD (+20) SO 47/0 | **#58 · S** |
 
-The mission-specialist source currently lists the same 47/0 hidden specialist twice, once specifically for MO and once in a shared entry. Both ranks are reported rather than silently resolving the duplicate. The local preferred 46/0 MMR is a different profile.
+The unified mission-specialist ranking now places the hidden 47/0 SO at #58 S across Military Orders, Kestrel and Vanilla PanO. The distinct 46/0 MMR remains the local preferred profile.
 
 ## Profiles — exact MO roster and ranking
 

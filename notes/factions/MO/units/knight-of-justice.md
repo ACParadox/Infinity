@@ -11,7 +11,7 @@ Current committed list-building comparisons; these are global, role-specific rat
 | Ranking | Selected profile | Current rank / tier |
 |---|---|---|
 | [Medium-range gunfighter](../../../list-building/gunfighters-ranking.md) | Spitfire 42/1.5 (MO entry) | **#45 · A** |
-| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 | **#140 · A+** |
+| [Mission specialist](../../../list-building/mission-specialists-ranking.md) | HD 45/0.5 | **#139 · A+** |
 | [Toolbox](../../../list-building/toolbox-units-rankings.md) | HD/Pitcher 45/0.5 or FO 41/0 (MO entry) | **#85 · A** |
 
 The basic Spitfire is a strong global medium gun but remains a secondary choice in MO; the HD/Pitcher and FO variants compete on different roles. Do not import the WinterFor-specific ARO ranking into the MO rating.
