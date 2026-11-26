@@ -30,7 +30,7 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -64,7 +64,7 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 12 | S+ | Malignos FO 30 / KHD 32 / HD 34 — Shas/Combined | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 71 | S | M-Drone FO/Sensor 15/0 (TacAware 18/0) — Combined | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 88 | A+ | Caliban FO 26 / SO 26 / Engineer 28 — Shasvastii | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 198 | A | Victor Messer HDplus31/.5 — Shasvastii/Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 197 | A | Victor Messer HDplus31/.5 — Shasvastii/Combined | Roster named in source |
 | [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 7 | S | M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0 — Combined / Next Wave as legal | Existing local profile match; verify exact variant |
 | [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 33 | C | Sphinx — Combined / Shasvastii | Roster named in source |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 6 | S+ | Caliban 26/0 FO or 28/0 Engineer or 29/0 CoC (Shas) | Roster named in source |
