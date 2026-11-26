@@ -4,7 +4,39 @@
 
 **What Caledonia does exceptionally well:** it offers some of the game's **cheapest useful Regular Orders and Smoke/CC trades**, then amplifies genuinely Irregular attackers with **Wallace's Inspiring Leadership**. The resulting warband saturation can protect a Camo specialist advance while a Mormaer or Wulver opens the necessary lane.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 15 | A+ | Mormaer LT(+1) T2 Rifle 41/0 or HMG 49/1 — Caledonia | Roster named in source |
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 29 | B+ | Wallace LT 38/0 — Caledonia / Kosmoflot | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 24 | A+ | Cateran 21/1 T2 Sniper — Caledonia; Cateran 21/0.5 AP Sniper — Caledonia | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 40 | B | Volunteer Intel Isobel McGregor † — 25/0 (provisional); roster examples: Caledonian Highlander Army | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 43 | B | William Wallace — 38/0; roster examples: Kosmoflot; eligible Ariadna | Existing local profile match; verify exact variant |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 3 | — | Caledonian Volunteer 6/0 Chain Rifle + Light Shotgun — CHA | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 9 | — | Denma Connolly 12/0 — CHA / Kosmoflot / Bakunin / Tunguska / Druze | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 16 | — | Traktor Mul Baggage 5/0 — eligible Ariadna / Dahshat | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 45 | A | Cameronian 18/0 — Caledonia | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 50 | A | 9th Wulver T2 Rifle 29/0 — Caledonia | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 57 | B | Galwegian Chain+Smoke 5/0 — Caledonia | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 10 | A+ | 112 Emergency Service11/0 or motorized19/0 WIP13 — eligible Ariadna — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 14 | A+ | Dozer13/0 WIP13; 2pt Remontnik extra — Ariadna/TAK/Kosmoflot — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 22 | S | McMurrough23/0 | Existing local profile match; verify exact variant |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 3 | S+ | Caledonian Volunteer Chain Rifle/LSG 6/0 | Roster named in source |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 17 | S | Galwegian Chain Rifle/Smoke/AP CCW 5/0 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 6 | S | Caledonian Mormaer HMG Tactical Awareness49/1.5 — CHA | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 66 | B+ | Cateran T2 Sniper21/1 — CHA/Kosmoflot | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 4 | S+ | 1st Highlanders SAS FO 21 or SO 25 — Caledonia/Ariadna/Kosmoflot | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 162 | A | Caledonian Volunteer Paramedic10/0 — Caledonia | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 5 | S+ | Galwegian Chain+Smoke5/0 (Caledonia) | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 23 | S | McMurrough23/0 — Corregidor/Caledonia/other eligible | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 27 | A+ | Denma Connolly Chain(+1B)+Smoke+AP+DA12/0 — Kosmo/Bakunin/Tunguska as printed | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 29 | A+ | Cameronian18/0 — Caledonia | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: B — #29 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Wallace turns cheap Smoke/CC warbands into an Order-efficient attack engine with nasty close trades, but its short-range pressure is relatively predictable and layered defense against prepared opponents remains thin.
 
