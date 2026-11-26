@@ -28,7 +28,7 @@ Decoy adds a second apparent Camo marker at deployment, not another gun or Order
 | Spetsnaz HMG | 36/1.5 | Best selective cover-removal opener; Decoy and Shock |
 | TankHunter AP HMG | 33/1.5 | BS13, ARM3, AP, carried AP Mine/D-Charges; better heavy-armor conversion and cheaper |
 | Veteran Kazak AP HMG | 45/1.5 | BS13, AP, NWI, Warhorse, Mimetism; repeatable pressure and possible Fireteam |
-| Ratnik AP Spitfire | 41/1.5 (check exact selected profile in Army) | Higher-volume midrange pressure, Tactical Awareness and Mobility links; expensive S5 and hackable |
+| Ratnik AP Spitfire | 46/1.5 | Higher-volume midrange pressure, Tactical Awareness and Mobility links; expensive S5 and hackable |
 
 TankHunter is the more universal budget main gun against TAG/HI; Spetsnaz is preferable when covered light/medium ARO removal is the key problem. Veteran is a better sustained attacker, despite ranking #17 A+ in the merged list. Spetsnaz is conventional non-Hackable-by-type MI (not immune to Spotlight or other applicable effects), but one failed engagement can remove a 36-point investment. Against very high ARM, AP is materially better than normal HMG with Shock.
 
