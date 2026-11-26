@@ -4,7 +4,32 @@
 
 **What FRRM does exceptionally well:** it combines **infiltrating one-use-Camo Métro roadblocks, non-Hackable Tactical Awareness Moblots, mixed-range MSV/Viral support and surprising off-axis attack**. The most successful architecture buys positioning, repeatable specialist work and multiple arrival angles rather than relying on superior baseline BS.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 3 | S+ | Vystrel 26/0.5 Neuro AP Sniper — TAK/Merovingian; Vystrel 32/1.5 Neuro Portable Autocannon — TAK/Merovingian where listed | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 69 | B+ | Knauf MULTI Sniper 31/1.5 — Kestrel | Existing local profile match; verify exact variant |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 16 | — | Traktor Mul Baggage 5/0 — eligible Ariadna / Dahshat | Existing local profile match; verify exact variant |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 29 | — | Métro 8/0 Rifle + Chain-colt — FRRM | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 10 | A+ | 112 Emergency Service11/0 or motorized19/0 WIP13 — eligible Ariadna — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 14 | A+ | Dozer13/0 WIP13; 2pt Remontnik extra — Ariadna/TAK/Kosmoflot — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 25 | A+ | Carmen Johns+Bâtard17/0 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 40 | A+ | Mirage-5 Margot+Duroc 60/2 — Kosmoflot/Vanilla Ariadna | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 41 | A | Moblots HMG32/1.5 — Merovingienne/Ariadna | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 51 | A | Knauf MULTI Sniper31/1.5 — multiple rosters | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 34 | A+ | Briscard AP MMR Forward Observer22/0 — Merovingienne | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 36 | A+ | Loup-Garou Viral MMR Marksmanship24/0.5 — Merovingienne | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 8 | S+ | Chasseur FO20/0 — FRRM/eligible Ariadna | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 50 | S | Para-Commando FO21/0 or Paramedic19/0 — FRRM/Kosmoflot | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 161 | A | Métro SO 10 or Paramedic 10 — FRRM | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 190 | A | Brigadier Bruant SO33/1 Infiltration or FTO28/1 — FRRM | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 12 | S | Kuryer Katyusha 15/1 — TAK/FRRM | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 22 | S | Carmen Johns + Bâtard17/0 — TAK/FRRM/eligible | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: C — #39 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Chasseurs, infiltrating Métros, Moblots and off-axis attacks offer useful pressure, but the roster has fewer exceptional all-round pieces.
 
