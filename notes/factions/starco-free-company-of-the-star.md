@@ -6,7 +6,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -26,8 +26,8 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 31 | S | Corregidor Bandit FO24/0 or KHD26/0 — Corregidor/StarCo; Corregidor Bandit FO24/0 — Corregidor/StarCo | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 69 | S | Stempler Zond FO/Sensor/Repeater 15/0, TA18/0 — Corregidor/Nomads where eligible | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 72 | A+ | Hellcat HD22/.5 — Corregidor | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 188 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 196 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 187 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 195 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 9 | S | Tsyklon FTO 26–29/1 — eligible Tunguska / Bakunin / StarCo teams | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 23 | A+ | Uhahu HD+/Pitcher 19/.5 — Bakunin / StarCo | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 5 | S | Corregidor Bandit DR + Minelayer 25/.5 — Corregidor / StarCo | Roster named in source |
