@@ -22,7 +22,7 @@ _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit wi
 
 **Existing strategy, preserved:** [Cheap midfield speed bumps](cheap-midfield-defenders-and-speed-bumps.md), [cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md), [Impetuous + Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md), [Trading and attrition](../Strategy/trading-and-attrition.md), [CC and short assault](../Strategy/close-combat-and-short-range-assault.md), [Enemy-DZ attack profiles](airborne-and-enemy-dz-attackers-apex-value.md), [Anti-warband DZ architecture](../Strategy/dz-strikes-and-dz-defense.md).
 
-**Dedicated assassination is a distinct role:** [N5.3 melee assassin/fighter apex & value](dedicated-close-combat-assassins-apex-value.md) compares **actual reach, Hidden/Impersonation, MA4/5, Guard, target saves and counter-CC** rather than judging cheap smoke/chain-rifle trading as universal melee superiority.
+**Dedicated assassination is a distinct role:** [N5.3 melee assassin/fighter apex & value](dedicated-close-combat-assassins-ranking.md) compares **actual reach, Hidden/Impersonation, MA4/5, Guard, target saves and counter-CC** rather than judging cheap smoke/chain-rifle trading as universal melee superiority.
 
 ## Fast verdict — the role determines the winner
 
