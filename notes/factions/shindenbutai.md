@@ -42,7 +42,50 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 |---|---|---|---|
 | **Hatamoto** | Plasma Carbine SO34/0; Red Fury40/1 separate | [Zone S #7](../list-building/objective-holding-ranking.md) · [CC S+ #4](../list-building/close-combat-ranking.md) · [Gunfighters A+ #8 (medium)](../list-building/gunfighters-ranking.md) · [Toolbox S- #42](../list-building/toolbox-units-rankings.md) · [Mission A+ #105](../list-building/mission-specialists-ranking.md) · [LT S #1 (LT variants)](../list-building/LT-ranking.md) | Efficient zone anchor with Nanoscreen, Mimetism and strong melee; preserve distinct LT and gun profiles. |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 1 | S | Hatamoto LT(+1) 36/+1 Plasma Carbine, 38/+1 Red Fury, or 39/+1 Spitfire — JSA / Shindenbutai | Roster named in source |
+| [Command Lieutenants — unified ranking](../list-building/LT-ranking.md#command-lieutenants--unified-ranking) | 8 | A+ | Metsuke Strategos L1 LT 22/0 — Shindenbutai | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 47 | A | Raiden 33/2 Hidden Missile Launcher — Shindenbutai | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 48 | A | Raiden 25/1.5 Heavy Rocket Launcher — Shindenbutai | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 11 | A+ | S.T.R.S. Tanuki Team — 18/0; roster examples: Shindenbutai | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 4 | S+ | Hatamoto Plasma Carbine 34/0 — Shindenbutai/Vanilla JSA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 12 | S | Saito Tōgan 33/0 — JSA/Ōban | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 22 | A+ | Ninja Tactical Bow 24/0 — JSA/Yu Jing | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 30 | A+ | Yamabushi Camo(1 Use) 16/0 — Shindenbutai/Kestrel | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 32 | A+ | Motorized Yojimbo 20/0 — Shindenbutai/JSA/Ōban as rostered | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 24 | A+ | Yojimbo bike20/0 (Ōban/Shinden) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 27 | A+ | Saito Tōgan T2 BSG+EXP CCW33/0 — JSA; Saito Tōgan33/0 — JSA/eligible | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 67 | A | Kurayami Ninja SMG+Viral Mine22/0 — JSA/Shinden | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 28 | A+ | Tanuki MSV2 HMG29/1.5 — Shindenbutai | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 8 | A+ | Hatamoto Red Fury NCO40/1 — JSA/Shindenbutai | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 52 | A | Nokizaru MULTI Marksman 30/0 — Shindenbutai | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 19 | A+ | Tanuki Team HD + BS13 Pitcher/Disco Baller 20/0.5 — Shindenbutai | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 68 | B | Kurayami Ninja HD 26/0.5 — Shindenbutai | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 58 | A | Teishin 21/0 KHD | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 66 | A | Nokizaru KHD 27/0 — Shindenbutai/JSA | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 20 | A+ | Kyojin Killer HFT/Flammenspeer 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 7 | S+ | Teishin FO19/0, KHD21/0 or HD23/.5 — JSA/Shindenbutai | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 78 | A+ | S.T.R.S. Tanuki — HD 20/0.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 98 | A+ | Kurayami Ninja HD26/.5 — JSA/Shindenbutai | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 168 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 5 | S | Tanuki HD/Pitcher/Disco 20/.5 — Shindenbutai | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 7 | S | Hatamoto Plasma Carbine SO34/0 — Shindenbutai | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 37 | B+ | Ryūken-9 SMG/Shock Mine Minelayer 22/0.5 — JSA / Ōban / Shindenbutai | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 25 | B | Mechazoid — JSA / Shindenbutai | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 33 | S | Tanuki HD+Pitcher+Disco 20/.5 (Shindenbutai) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 42 | S- | Hatamoto NCO Plasma Carbine Specialist 34/0 (JSA) | Existing local profile match; verify exact variant |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 33 | A | Yojimbo motorized20/0 / foot19/0 — Shindenbutai/Ōban | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 16 | — | Yojimbo motorized 20/0 / foot 19/0 — Shindenbutai/Ōban (optional Rui Shi MSV2 partner) | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 20 | — | Tanuki HD + Disco 20/.5 — Shindenbutai | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 20 | S | Motorized Yojimbo20/0 (Shindenbutai/Ōban); foot19/0 alternate | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 35 | A | Ioann Bann30/0 — Shindenbutai (vs 32/0 Tohaa/Kosmoflot/Starmada variants) | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: B+ — #24 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Tanuki HD/Pitcher/Disco with MSV-capable Sayō support, Hatamoto fighting/LT value, flexible small Fireteams and concealed trades give several independent scoring routes; premium long-range and anti-tech answers are less comprehensive.
 
