@@ -1,14 +1,37 @@
 # Blade-Ops — Svalarheima's Winter Force (Infinity N5.3)
 
+**Verdict: high priority 23/0 FTO Engineer; 20/0 BSG conditional.** Both 30-point independent Engineer options improve to B−, but remain mission-specific rather than default purchases.
+
+## Current profiles — 26 November 2026
+
+**ID 1751 · AVA2 · Regular LI · S2** — MOV 10-10, CC16, BS13, PH10, WIP12, ARM2, BTS3, W1. Shared BS Attack (SR-1), Immunity (Shock), Tactical Awareness, Mimetism (-3), Stealth, Terrain (Total).
+
+| Opt | Pts/SWC | Loadout / differences | Fireteam / rating |
+|---:|---|---|---|
+| 1 | 20/0 | BSG, D-Charges, Silenced Pistol, CCW; FTO | Fusiliers max 1, counts as Fusilier; conditional |
+| 2 | 23/0 | AP SMG, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit, FTO | Same; preferred |
+| 3 | 30/0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit, FD (+20), Decoy (2), Surprise Attack (-3) | Independent; B− |
+| 4 | 30/0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit, Parachutist, Decoy (2), Surprise Attack (-3) | Independent; B− |
+
+Source: [pinned WinterFor roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md), [November SITREP](https://www.infinitytheclassifieds.com/sitrep), Army 7.26329.478. Existing Fireteam eligibility is carried forward, pending full chart reconciliation.
+
+## Updated selection
+
+Surprise Attack applies only to the independent Decoy Engineers and improves their initial attack when the skill's requirements are met. FTOs unchanged. WinterFor has no Shadowcrow, so isolated/airborne Engineer access is a meaningful niche. Nevertheless, 30 points is expensive when an ordinary Machinist or mobile FTO Engineer can reach the target. Locust and Uma are cheaper forward specialist alternatives when repair is irrelevant. Prefer the 23-point FTO in a mobile Fusilier team; compare Karhu Engineer for combat mobility. Keep linked Engineer and Palbot-controller configurations mutually exclusive. Collection priority remains one FTO Engineer and optional BSG representation; independent third representation is low priority.
+
+## Pre-update analysis — retained historical reference
+
+The following analysis is retained for reasoning and source links. Superseded profile values, costs and ratings are historical only; the current sections above take precedence.
+
 **Verdict: High priority 23pt FTO Engineer in mobile Fusiliers; 20pt BSG conditional.**
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Original NCA analysis](../../NCA/units/blade-ops.md). Reviewed 24 November 2026. Tactical judgments are not measured win rates.
 
-## WinterFor differences
+### WinterFor differences
 
 AVA2 vs NCA3. Same four options and prices. Native Fusiliers max 1, options 1/2 only, counts as Fusilier; no NCA-wide Wildcard/Bolt access. Common skill abbreviations differ between roster summaries; no claim of skill removal.
 
-## Pinned WinterFor profiles
+### Pinned WinterFor profiles
 
 **ID 1751 · AVA 2 · LI** — `MOV 10-10 | CC 16 | BS 13 | PH 10 | WIP 12 | ARM 2 | BTS 3 | W 1 | S 2`. Tactical Awareness, Mimetism (-3), Stealth, Terrain (Total).
 
@@ -19,24 +42,24 @@ AVA2 vs NCA3. Same four options and prices. Native Fusiliers max 1, options 1/2 
 | 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Forward Deployment (+20), Decoy (2) | —; non-FTO |
 | 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Parachutist, Decoy (2) | —; non-FTO |
 
-## WinterFor selection and use
+### WinterFor selection and use
 
 - 23/0 AP SMG Engineer: default mobile Fusilier utility, TacAware and D-Charges; competes with Karhu Engineer for repair/scoring.
 - 20/0 BSG: useful close attacker/extra activation, but Hawkins 26 is a stronger fighting specialist and basic Fusilier is cheaper glue.
 - 30/0 FD or Parachutist Decoy Engineer: generally skip unless deployment geometry or isolated Engineer is essential; Locust and Uma are cheaper forward specialists.
 - A linked Engineer must not have a Palbot controller attachment. Usually 0–1 FTO in list; two models useful to represent both loadouts, not two in same Fusilier team.
 
-## Original NCA analysis — retained reference copy
+### Original NCA analysis — retained reference copy
 
 Historical cross-sectorial reference only. NCA/Kestrel/MO-specific recommendations, links, profiles, FT access and comparisons below are not WinterFor legality or recommendations; the sections above supersede them for SWF.
 
-### Blade-Ops — Neoterran Capitaline Army (N5.3)
+#### Blade-Ops — Neoterran Capitaline Army (N5.3)
 
 **High priority: both FTO profiles (20/0 and 23/0). Usually skip both 30-point non-FTO profiles.** A default inclusion in mobile Fusilier or Bolt Fireteams, especially the Engineer; not mandatory in static defensive teams. Collection priority: two FTO representations (BSG and AP SMG Engineer). A third model is low priority.
 
 **Sources:** [Pinned NCA roster and Fireteam chart](../../NCA/units/../../../../sectorials/panoceania/neoterran-capitaline-army.md#blade-ops), [NCA Fireteams](../../NCA/units/../nca-fireteams.md), [NCA listbuilding](../../NCA/units/../nca-listbuilding.md), [Tactical Awareness](https://infinitythewiki.com/Tactical_Awareness), [Fireteam active turn](https://infinitythewiki.com/Fireteams_in_the_Active_Turn), [Fireteam bonuses](https://infinitythewiki.com/Fireteam_Bonuses), [Parachutist](https://infinitythewiki.com/Parachutist), [Decoy](https://infinitythewiki.com/Decoy). Ratings are tactical judgments.
 
-#### Profiles and priorities
+##### Profiles and priorities
 
 AVA 3; LI; MOV 10-10 cm (4-4 inches), CC16, BS13, PH10, WIP12, ARM2, BTS3, W1, S2. BS Attack (SR-1), Immunity (Shock), Mimetism (-3), Stealth, Terrain (Total), Tactical Awareness.
 
@@ -49,7 +72,7 @@ AVA 3; LI; MOV 10-10 cm (4-4 inches), CC16, BS13, PH10, WIP12, ARM2, BTS3, W1, S
 
 Only options 1 and 2 are legal Wildcards (max 2 per team); both count as Fusilier and Bolt. Native Fireteam requirements still apply: actual Fusilier in Fusiliers Core/Haris; actual Bolt or ORC for Neoterra Core/Haris/Duo. The other profiles are independent.
 
-#### Why FTO is exceptional
+##### Why FTO is exceptional
 
 Tactical Awareness generates a personal Tactical Order in addition to the Regular Order. When using it in a Fireteam, the Blade becomes the leader and can activate the whole team. It cannot spend that Order to let another member fire as leader.
 
@@ -62,7 +85,7 @@ Two Blades potentially provide two additional Fireteam activations each turn (si
 
 BS13 and Mimetism (-3) give credible short-range combat; BS Attack (SR-1) penalizes the target's Saving Rolls by one. Shock Immunity helps preserve recovery opportunities but does not make a one-Wound trooper durable.
 
-#### FTO Boarding Shotgun — 20/0
+##### FTO Boarding Shotgun — 20/0
 
 Compare the Bolt BSG (+1B) with Drop Bears (19/0).
 
@@ -83,7 +106,7 @@ Compare the Bolt BSG (+1B) with Drop Bears (19/0).
 
 The Bolt is a better dedicated defensive shotgun/mine piece; the Blade is a better mobile team force multiplier for only one more point. Prefer the Blade as offensive non-specialist filler if its Tactical Order will be used. Prefer the Bolt if additional reactive Burst, mine deployment, Marksmanship or BTS6 matter more.
 
-#### FTO Engineer — 23/0
+##### FTO Engineer — 23/0
 
 Best general-purpose Blade: the three-point premium over the BSG buys Engineer/GizmoKit and changes the main gun to AP SMG. It has short engagement ranges, but can score and fight without being deadweight.
 
@@ -104,17 +127,17 @@ The six-point upgrade is often worthwhile for a moving team. Especially attracti
 
 Machinist remains preferable for a cheap independent repair network, a static defensive team, the 18-point Deployable Cover or 20-point Armed Turret option, or when the six points are required elsewhere. Neither Engineer has superior WIP.
 
-#### Non-FTO profiles — usually skip
+##### Non-FTO profiles — usually skip
 
 Both 30-point options cost seven more than the FTO Engineer (+30% approximately). They add E/Mitter, Decoy (2) and a deployment advantage, but lose Wildcard access and the ability to turn their Tactical Order into Fireteam-wide movement.
 
 The resulting 30-point package is still BS13, WIP12, one Wound, Mimetism (-3), with short-range AP SMG and limited E/Mitter ammunition. No Camouflage, Hidden Deployment or NWI. Decoy is deployment deception, not sustained protection. This is too much investment for a general-purpose independent specialist.
 
-##### Forward Deployment (+20 cm)
+###### Forward Deployment (+20 cm)
 
 Starts about eight inches ahead of the DZ, with both its Regular and Tactical Orders available from turn one if deployed normally. The best niche is a mission demanding forward Engineer/D-Charge access or a dedicated independent repair piece for a forward TAG, with E/Mitter as incidental anti-heavy pressure. Usually not worth 30 points merely to score or shoot.
 
-##### Parachutist
+###### Parachutist
 
 Alternative edge entry can enable mission-specific flanking or emergency engineering. The profile is ordinary Parachutist, not Parachutist (Deployment Zone); it cannot enter within the enemy DZ. While off-table it does not contribute its Regular Order to the pool; it can enter with its own withheld Order and receives its Tactical Order once placed during the Orders Phase. This enables a subsequent personal action without using a pooled Regular Order, assuming it survives entry. It is exposed to AROs and lacks Partial Cover during the entry Order.
 
@@ -132,7 +155,7 @@ The arrival/Engineer/E-M combination is distinct but too expensive for ordinary 
 
 These are role alternatives, not exact replacements for the unique forward/airborne Engineer package.
 
-#### Suggested legal Fireteams
+##### Suggested legal Fireteams
 
 Constructed examples from the pinned chart; alternative teams, not simultaneous Core/Haris selections. FT level reflects matching unit/Counts-as composition, not raw member count. Regular Orders assume all members are operational. Tactical Orders are personal.
 
@@ -149,7 +172,7 @@ Constructed examples from the pinned chart; alternative teams, not simultaneous 
 
 In the 114-point Bolt Core, replacing the sniper with the Bolt Spitfire makes a dedicated assault version (113/1.5). Replacing Hannibal with Bolt CoC improves command insurance but loses one Tactical Order and Sensor. Hannibal is another excellent Tactical Awareness option in Bolt teams (counts as Bolt/ORC), but not a Fusilier equivalent.
 
-#### Are they must-add?
+##### Are they must-add?
 
 | Army architecture | Recommended FTO Blades |
 |---|---|
@@ -164,6 +187,6 @@ In the 114-point Bolt Core, replacing the sniper with the Bolt Spitfire makes a 
 
 For Fusiliers, a native FO or Paramedic anchor, Blocker and Blade Engineer form a useful starting package; fill remaining slots only if their benefits justify the points. For Bolts, avoid sacrificing essential KHD, CoC, MSV1 sniper or mine coverage simply to maximize TacAware. Full five-member composition is optional, not a requirement.
 
-#### Final verdict
+##### Final verdict
 
 Take the 23-point Engineer by default in an active Fireteam, and the 20-point BSG as a second force multiplier when its close-range role and extra Order justify the slot. Both preserve Fusilier/Bolt composition and have zero SWC cost. Usually take **zero non-FTO Blades**: their expensive deployment/Engineer package requires a specific mission or repair plan to justify it. Two FTO models are sufficient for most collection needs.

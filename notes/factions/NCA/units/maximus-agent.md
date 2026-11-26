@@ -1,5 +1,7 @@
 # Optimate Agent Maximus — Neoterran Capitaline Army (Infinity N5.3)
 
+**November 2026 Army update: Minimus MateBot's disabled/dependent profile has no independent Order in the Army data. This agrees with the existing synchronized-Peripheral analysis; it is not a nerf to Maximus's Regular or Tactical Awareness Order, and no rating change is warranted.** Source: [November SITREP](https://www.infinitytheclassifieds.com/sitrep); Army backup 7.26329.478.
+
 **Verdict: A-tier Lieutenant / all-rounder, B-tier conventional gunfighter. Not mandatory, but almost always choose the 47-point Inspiring Leadership Lieutenant if taking him.** His only native ranged face-to-face modifier is situational **Albedo (-3)** against MSV **or Marksmanship** opponents. He lacks Mimetism, Marksmanship, MSV and native BS Attack (+1SD). That keeps him below the Swiss Guard as an apex gunfighter. Almost everything else in his package is excellent: long-range AP shooting, immunity, non-Hackable S2 chassis, close combat, specialist, Tactical Awareness, wildcard flexibility and command economy.
 
 **NCA authority:** [Pinned NCA roster and Fireteam chart](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [NCA Fireteams](../nca-fireteams.md) · [NCA listbuilding](../nca-listbuilding.md). Original [Kestrel unit note](../../kestrel/units/maximus-agent.md) retained below for reference. Reviewed 23 November 2026.

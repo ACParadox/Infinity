@@ -1,5 +1,7 @@
 # Optimate Agent Maximus — Kestrel Colonial Force (Infinity N5.3)
 
+**November 2026 Army update: Minimus MateBot's disabled/dependent profile has no independent Order in the Army data. This agrees with the existing synchronized-Peripheral analysis; it is not a nerf to Maximus's Regular or Tactical Awareness Order, and no rating change is warranted.** Source: [November SITREP](https://www.infinitytheclassifieds.com/sitrep); Army backup 7.26329.478.
+
 **Verdict: A-tier premium gunfighter/specialist, especially as Lieutenant when the list can exploit the SWC swing and has an NCO.** The **45-point FTO Lieutenant** is genuinely compelling in a Fennec Fireteam: Maximus can spend **Tactical Awareness** to activate the whole team, while an **NCO elsewhere (Firefly or NCO Squalos) or inside the team (Sforza FTO)** can spend his Lieutenant Special Order **without Maximus leaving the Fireteam**. The **48-point Lieutenant + Minimus** is the preferred solo command option. Non-LT Maximus remains good, but loses the largest part of his exceptional list-building economy.
 
 **Core role:** An **S2, non-Hackable, mobile 16–32\" AP gunfighter**, with useful fire to 48\", WIP13 Specialist Operative, E/M Carbine, potent close-combat deterrence, a self-funded Tactical Awareness activation, and protection against MSV via Albedo. He is not an infiltrator, a TAG, a dedicated reactive turret, or an expendable secondary gun.

@@ -1,5 +1,7 @@
 # Kazurabā Ruby Monday — Kestrel Colonial Force (Infinity N5.3)
 
+**November 2026 Army update: Ruby Monday is classified as Character rather than Mercenary. Points, loadout, Irregular Order and tactical capabilities are unchanged. Existing C+ / Skip verdict remains unchanged.** Source: [November SITREP](https://www.infinitytheclassifieds.com/sitrep); Army backup 7.26329.478.
+
 **SKIP — C+ overall.** Niche experimental pick, not a standard inclusion. Ruby is a durable autonomous Specialist Operative and non-lethal anti-heavy disruption piece, but 19 points and an Irregular Order are a significant opportunity cost in Kestrel. Her baseline kit has no lethal ranged weapon; Booty can transform her, but list construction must work without a favorable roll.
 
 **References:** [Pinned Kestrel roster](../../../../sectorials/panoceania/kestrel-colonial-force.md#kazurabā-ruby-monday) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) · [Booty](../../../../rules/5b_Special%20Skills/Booty.md) · [Technorganic](../../../../rules/5b_Special%20Skills/Technorganic.md) · [Immunity](../../../../rules/5b_Special%20Skills/Immunity.md) · [Sāchā](sacha.md) · [Jackals](jackals.md) · [Sforza](sforza.md). Reviewed 21 November 2026; tactical grades and Booty valuations are subjective.

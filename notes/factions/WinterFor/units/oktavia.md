@@ -1,10 +1,43 @@
 # Oktavia Grímsdóttir — Svalarheima's Winter Force (Infinity N5.3)
 
+**Verdict: A− HRL / B+ ML — worth reconsidering one as an economical reactive piece.** No longer a default Skip; not a mandatory defensive purchase.
+
+## Current profiles — 26 November 2026
+
+**ID 1501 · AVA1 · Regular LI · S2** — MOV 10-10, CC17, BS12, PH10, WIP13, ARM2, BTS0, W1. Albedo (-3), BS Attack (+1SD), Courage, Combat Instinct, Dogged.
+
+| Opt | Pts/SWC | Loadout / differences | Rating |
+|---:|---|---|---|
+| 1 | 30/1.5 | Missile Launcher, Contender, Heavy Pistol, CCW | B+ |
+| 2 | 23/1.5 | Heavy Rocket Launcher, Contender, Heavy Pistol, CCW; Sixth Sense | A− |
+
+Neither is a Specialist. Existing chart: Fusilier Core/Haris max 1, no Counts-as Fusilier. Source: [pinned WinterFor roster](../../../../sectorials/panoceania/svalarheima-s-winter-force.md), [November SITREP](https://www.infinitytheclassifieds.com/sitrep), Army 7.26329.478. Fireteam reconciliation pending.
+
+## Updated weapon and defensive assessment
+
+| Weapon | Active rolled / retained maximum | Reactive rolled / retained maximum |
+|---|---|---|
+| ML | 2/1 | 2/1 |
+| HRL | 3/2 | 2/1 |
+| Contender | 3/2 | 2/1 |
+| Heavy Pistol | 3/2 | 2/1 |
+
+Native BS Attack (+1SD) replaces +1B. Active rolled dice are preserved, but retained hits decrease by one. In ordinary eligible AROs the native selection die improves the contest without adding a retained hit. Any Fireteam bonus requires the applicable chart and composition; do not treat +1SD as +1B or assume a second +1SD stacks without checking the rules.
+
+- HRL now costs three points less, has Sixth Sense, circular template pressure and an improved reactive roll. Albedo (-3) is matchup-specific, Combat Instinct counters Surprise Attack, and Dogged can force another Order if not bypassed. BS12/BTS0 remain weaknesses.
+- ML retains AP+EXP anti-heavy potential but costs seven points more than HRL and lacks the HRL's Sixth Sense. Take it when anti-armour or range matters more than price.
+- Compare Nisse, Karhu, Vargar and Knight of Justice for premium/general-purpose shooting. Oktavia is a lower-cost dedicated ARO alternative, especially if a compatible Fusilier defensive team is already wanted. Prefer HRL by default; do not make the ML an automatic purchase.
+- Collection: optional one, not an automatic Skip after the update.
+
+## Pre-update analysis — retained historical reference
+
+The following analysis is retained for reasoning and source links. Superseded profile values, costs and ratings are historical only; the current sections above take precedence.
+
 **Verdict: C tier overall — skip Missile Launcher by default; Heavy Rocket Launcher is a niche pick for a defensive Fusilier Core.** Normally 0 copies. Vargar, Nisse, Karhu and Knight of Justice offer stronger alternatives for most lists.
 
 **Sources:** [Pinned WinterFor roster and Fireteam chart](../../../../sectorials/panoceania/svalarheima-s-winter-force.md#oktavia-grímsdóttir) · [WinterFor Fireteams](../svalarheima-fireteams.md) · [WinterFor listbuilding](../svalarheima-listbuilding.md) · [Weapon Chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md) · [Fireteam Bonuses](../../../../rules/6_Command%20and%20Fireteams/Fireteam_Bonuses.md) · [Official N5.3 Burst modifiers](https://infinitythewiki.com/Skills_and_Equipment_Module). Reviewed 24 November 2026. Ratings are tactical judgments, not measured win rates.
 
-## Exact pinned profiles
+### Exact pinned profiles
 
 **ID 1501 · AVA 1 · Regular LI · MOV 10–10 cm (4–4") · CC17 · BS12 · PH10 · WIP13 · ARM2 · BTS0 · W1 · S2.** Albedo (-3), BS Attack (+1B), Courage, Combat Instinct, Dogged.
 
@@ -15,7 +48,7 @@
 
 Neither profile is a specialist. Both can join Fusilier Core/Haris (max 1), without Counts-as Fusilier; no Duo or other native Fireteam access.
 
-## Weapons and skills
+### Weapons and skills
 
 **Important N5.3 distinction:** BS Attack (+1B) increases real Burst only in the Active Turn, not ARO. An eligible FT2+ adds +1SD in either turn, which is an extra selection die, not an extra hit.
 
@@ -34,7 +67,7 @@ Neither profile is a specialist. Both can join Fusilier Core/Haris (max 1), with
 - Dogged can force an additional enemy Order after a single nonlethal wound, but Oktavia dies at the end of that Player Turn once activated; Shock or sufficient damage can bypass it. She cannot be healed once Dogged is activated. Not equivalent to W2/NWI.
 - Courage keeps her on a desired lane after surviving attacks. No Mimetism, low PH/ARM and BTS0 remain weaknesses. Neither profile supplies mission scoring or additional Orders.
 
-## Fireteam examples
+### Fireteam examples
 
 | Composition | Cost / SWC | Level | Oktavia attack dice |
 |---|---:|---|---|
@@ -45,7 +78,7 @@ Neither profile is a specialist. Both can join Fusilier Core/Haris (max 1), with
 
 A native Fusilier is mandatory. Counts-as Fusilier members can substitute where legal, changing costs. Oktavia prevents a five-member Fusilier Core from reaching FT5; HRL's innate Sixth Sense compensates for that loss only on Oktavia herself. In FT4, her effective BS is 13 (16 in the optimal range before opposing MODs). A small Haris preserves the Core slot but commits one of the two Haris allowances.
 
-## Competition in WinterFor
+### Competition in WinterFor
 
 | Alternative | Pts / SWC | Why prefer it |
 |---|---:|---|
@@ -64,7 +97,7 @@ A native Fusilier is mandatory. Counts-as Fusilier members can substitute where 
 
 **Knight of Justice ML** is the premium defensive upgrade: sixteen points more than Oktavia ML, BS14 and true two-Wound durability. In FT2+, KoJ rolls B1+2SD in ARO versus Oktavia's B1+1SD; both remain one actual Burst.
 
-## Final assessment
+### Final assessment
 
 | Role | Rating |
 |---|---|
