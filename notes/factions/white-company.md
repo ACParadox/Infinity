@@ -34,7 +34,54 @@
 
 **Identity test:** Take White Company for **K2 gun/support compression, several independent visibility routes, and the PanO + Yu Jing midfield/REM/Fireteam mix**. Do **not** credit it with exclusive Bulleteers, Guìláng, Hǎidào, Nisses, Smoke, Eclipse or White Noise; each is shared somewhere else.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 19 | A+ | Táowù — 21/0 Druze/Ikari; 21/0.5 ISS/WhiteCo; roster examples: Imperial Service; Druze; Ikari; White Company | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 26 | A | Hǎidào Special Support Group — 24/0; roster examples: Invincible Army; White Company | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 32 | A | Emily Handelman — 28/0; roster examples: White Company | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 45 | B | John Hawkwood, Mercenary Officer — 40/0; roster examples: White Company; ALEPH/OSS | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 22 | — | CSU 10/0 Breaker Rifle + Nanopulser (+1B) — ISS / White Company | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 13 | S | Liang Kai 21/0 — many eligible rosters | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 15 | S | Shona Carano 22/0 — eligible rosters | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 41 | A | Señor Massacre BSG 25/0 — Corregidor/eligible | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 49 | A | Valkyrie HSG 28/0 — White Company/eligible | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 58 | B | Varangian SMG+Chain+Smoke 12/0 — O-12 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 25 | A+ | Carmen Johns+Bâtard17/0 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 53 | A+ | Cube Jäger BSG15/0 or SMG/E/Mitter18/0 — White Company | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 69 | A | Blade-Ops Engineer Parachutist30/0 + TA — NCA/WhiteCo as legal | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 23 | A+ | Karhu Feuerbach(+1B)34/1.5 — PanO/White Company | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 63 | B+ | Hǎidào MSV2 MULTI Sniper29/1.5 — Invincible/White Company | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 18 | A+ | Bulleteer Spitfire 22/1 — Varuna | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 3 | S+ | Danavas HDplus Oblivion(+1B), 22/0.5 (ALEPH/OSS/WhiteCo) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 28 | A+ | Hǎidào KHD + Pitcher 22/0 (Invincible / current Yu Jing where listed) | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 62 | A | Nøkken KHD 25/0 — Winter Force | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 7 | S | Peacemaker Heavy Shotgun/Pulzar + Auxbot-3 23/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 15 | S+ | Cube Jäger Paramedic15/0 — White Company/eligible mercenary | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 142 | A+ | Blocker Specialist Operative15/0 — NCA | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 151 | A+ | Danavas HD+ 22/0.5 — ALEPH/OSS | Existing local profile match; verify exact variant |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 1 | S+ | Blocker Specialist Operative 15/0 — NCA / eligible White Company / PanO | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 8 | S | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company as rostered | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 21 | A+ | Laxmee HD+/Pitcher 24/.5 — Qapu / White Company | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 25 | A+ | Danavas HD+/Pitcher 22/.5 — OSS / ALEPH / White Company | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 3 | S | Guìláng DR + Minelayer 25/.5 — White Banner / eligible Yu Jing | Existing local profile match; verify exact variant |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 11 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 16 | A+ | White Company: Blocker Pitcher15/0 with legal team and Laxmee HD+24/.5 or Hǎidào KHD22/0, plus existing native nodes | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 2 | S+ | NCA Blocker Specialist/Pitcher 15/0 | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 20 | S | Nøkken FO BSG(+1B)/Panzerfaust 22/0 or KHD 25/0 (WinterFor/Vanilla PanO) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 32 | S | Hǎidào KHD/Pitcher BSG(+1B) 22/0 (Invincible Army) | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 11 | S | Varangian10/0 — Kosmoflot; 12/0 — O-12 (eligible variants) | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 22 | S | Carmen Johns + Bâtard17/0 — TAK/FRRM/eligible | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 31 | A+ | Varangian SMG+Chain Rifle+Smoke12/0 — White Company (Irregular + Impetuous) | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: B+ — #21 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Exceptional NA2 mixed PanO/Yu Jing/mercenary toolbox brings Guìláng, Karhu/Kaplan and visibility choices; strong packages compete for points and may strain the Order economy.
 
