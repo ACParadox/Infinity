@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 107
 sectorial_slug: kestrel-colonial-force
 sectorial_name: Kestrel Colonial Force
@@ -15,6 +15,17 @@ coverage: "Standard Kestrel roster, standard loadouts, canonical Fireteam chart,
 ---
 
 # Kestrel Colonial Force
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections supersede conflicting archived profile rows. The original source pin is retained for unchanged fields; Fireteam charts and roster indexes have not been fully reconciled, so this reference is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25, 2026; Army backup `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- Redeye: loses Super-Jump (7.5); Spitfire/GL 42 pts without Chain Rifle; Blitzen option 41 pts with Chain-colt.
+
+- Ruby Monday: classification Character, not Mercenary; profile and cost unchanged.
+
 
 ## Overview and provenance
 
@@ -192,8 +203,8 @@ In the KESTREL row Fireflies carry the equivalence label **Counts as: Kestrel**.
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 1 | 37 | 1.5 | Spitfire, Chain Rifle, Blitzen | — |
-| 2 | 38 | 1.5 | Spitfire, Chain Rifle, Grenade Launcher (Continuous Damage) | — |
+| 1 | 41 | 1.5 | Spitfire, Chain-colt, Blitzen | — |
+| 2 | 42 | 1.5 | Spitfire, Grenade Launcher (Continuous Damage) | — |
 
 ### Pathfinder Dronbot
 
@@ -362,6 +373,8 @@ In the COLCORP row Magistrates carry **Counts as: ColCorp**.
 **Fireteam source note:** the FENNECS chart member is named `MAXIMUS AGENT` with no `FTO` marker/comment. InfinityDB therefore does not project a chart-level loadout restriction for this row; preserve the *raw source* distinction. **Separate N5.3 rule-level exclusion:** the 48-point (and 48-point LT) Agent profiles include **Minimus, a Peripheral (Synchronized)** ([profile](https://human-sphere.com/Maximus)). [Fireteam Basic Rules](https://infinitythewiki.com/Fireteams:_Basic_Rules) and [Peripheral restrictions](https://infinitythewiki.com/Peripheral) prohibit Peripherals **and their Controllers** from joining Fireteams. Therefore the **45-point Agent FTO without Minimus** (or its FTO Lieutenant variant) is the operationally eligible FENNECS link option, irrespective of the permissive-looking chart row. This does **not** alter the underlying chart data.
 
 **Selection constraint:** the Army source states: `There can only be one Maximus in each Army List.`
+
+**November 2026 correction:** Minimus MateBot generates no independent order.
 
 ### Bulleteer Armbots
 

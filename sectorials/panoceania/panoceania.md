@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: faction
-status: current
+status: partial
 faction_id: 101
 faction_slug: panoceania
 faction_name: PanOceania
@@ -14,6 +14,24 @@ coverage: "Standard generic PanOceania roster and loadouts. Fireteam charts I an
 ---
 
 # PanOceania
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections supersede conflicting archived profile rows. The original source pin is retained for unchanged fields; Fireteam charts and roster indexes have not been fully reconciled, so this reference is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25, 2026; Army backup `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- Redeye: loses Super-Jump (7.5); Spitfire/GL 42 pts without Chain Rifle; Blitzen option removed, new Spitfire/Chain-colt 40/1.5 (option 3).
+- Swiss Guard: option 5 removed; option 6 KHD remains 47/0. ML (+1SD) 60/2; new option 7 ML (+1B) 61/1.5.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout / differences |
+|---:|---:|---:|---|
+| 2 | 31 | 0 | E/Mitter, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+
 
 ## Overview and provenance
 
@@ -67,6 +85,7 @@ Coverage notes:
 | Palbots | 37 | 2 | REM | Peripheral |
 | Karhu Special Group | 1485 | 2 | MI | Regular |
 | Nisses | 3 | 2 | MI | Regular |
+| Shadowcrow Operator | 1942 | 1 | HI | Regular |
 | Swiss Guard | 9 | 1 | HI | Regular |
 | Tikbalangs | 33 | 1 | TAG | Regular |
 | Team Crux Father-Knights | 1815 | 1 | HI | Regular |
@@ -334,10 +353,10 @@ Only one Joan of Arc may be selected across IDs 20 and 42.
 | Opt | Pts | SWC | Loadout / differences |
 |---:|---:|---:|---|
 | 2 | 56 | 1.5 | HMG, Pulzar, Heavy Pistol, AP CCW |
-| 3 | 60 | 1.5 | Missile Launcher (+1SD), Light Shotgun, Pulzar, Heavy Pistol, AP CCW |
+| 3 | 60 | 2 | Missile Launcher (+1SD), Light Shotgun, Pulzar, Heavy Pistol, AP CCW |
 | 4 | 56 | 0.5 | MULTI Rifle, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; Hacking Device, X Visor |
-| 5 | 44 | 0 | AP SMG, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; TinBot: Firewall (-3), Martial Arts L1, CC=21, Forward Deployment (+10) |
-| 6 | 47 | 0 | As 5 + Killer Hacking Device |
+| 6 | 47 | 0 | AP SMG, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; TinBot: Firewall (-3), Martial Arts L1, CC=21, Forward Deployment (+10), Killer Hacking Device |
+| 7 | 61 | 1.5 | Missile Launcher (+1B), Light Shotgun, Pulzar, Heavy Pistol, AP CCW |
 
 ### Tikbalangs
 
@@ -477,8 +496,10 @@ Only one Maximus may be selected across IDs 1720 and 1862.
 |---:|---:|---:|---|
 | 1 | 20 | 0 | **BLADE FTO**; Boarding Shotgun, D-Charges, Silenced Pistol, CCW |
 | 2 | 23 | 0 | **BLADE FTO**; AP SMG, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit |
-| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Forward Deployment (+20), Decoy (2) |
-| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Parachutist, Decoy (2) |
+| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Forward Deployment (+20), Decoy (2), Surprise Attack (-3) |
+| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Parachutist, Decoy (2), Surprise Attack (-3) |
+
+**November 2026 correction:** Only the FD (+20) Engineer and Parachutist Engineer gain Surprise Attack (-3); FTO profiles unchanged.
 
 ### Aquila Guard
 
@@ -530,8 +551,8 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 
 | Opt | Pts | SWC | Loadout |
 |---:|---:|---|
-| 1 | 37 | 1.5 | Spitfire, Chain Rifle, Blitzen |
-| 2 | 38 | 1.5 | Spitfire, Chain Rifle, Grenade Launcher (Continuous Damage) |
+| 3 | 40 | 1.5 | Spitfire, Chain-colt |
+| 2 | 42 | 1.5 | Spitfire, Grenade Launcher (Continuous Damage) |
 
 ### Hetkari Shooters
 
@@ -572,6 +593,8 @@ Drumbots are REM Peripherals with 360º Visor, Mimetism (-3), Courage and Periph
 | 4 | 45 | +1 | **MAXIMUS AGENT FTO**; option 2 + Lieutenant; no Minimus |
 
 Only one Maximus may be selected across IDs 1862 and 1720.
+
+**November 2026 correction:** Minimus MateBot generates no independent order.
 
 ### Clipper Dronbot
 

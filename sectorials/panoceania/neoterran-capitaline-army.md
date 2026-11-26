@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 104
 sectorial_slug: neoterran-capitaline-army
 sectorial_name: Neoterran Capitaline Army
@@ -15,6 +15,18 @@ coverage: "Standard Neoterran Capitaline Army roster, standard loadouts, canonic
 ---
 
 # Neoterran Capitaline Army
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections supersede conflicting archived profile rows. The original source pin is retained for unchanged fields; Fireteam charts and roster indexes have not been fully reconciled, so this reference is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25, 2026; Army backup `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- Redeye: loses Super-Jump (7.5); Spitfire/GL 42 pts without Chain Rifle; Blitzen option removed, new Spitfire/Chain-colt 40/1.5 (option 3).
+- Swiss Guard: option 5 removed; option 6 KHD remains 47/0. ML (+1SD) 60/2; new option 7 ML (+1B) 61/1.5.
+
+- Aïda Swanson: CC 21, Minelayer (2), Viral CC Weapon (PS=6) on both options; SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
+
 
 ## Overview and provenance
 
@@ -201,8 +213,10 @@ Optional-mode units:
 |---:|---:|---:|---|---|
 | 1 | 20 | 0 | **BLADE FTO**; Boarding Shotgun, D-Charges, Silenced Pistol, CCW | Wildcard max 2; counts as Fusilier and Bolt |
 | 2 | 23 | 0 | **BLADE FTO**; AP SMG, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit | same |
-| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Forward Deployment (+20), Decoy (2) | — |
-| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Parachutist, Decoy (2) | — |
+| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Forward Deployment (+20), Decoy (2), Surprise Attack (-3) | — |
+| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges, Silenced Pistol, CCW; Engineer, Parachutist, Decoy (2), Surprise Attack (-3) | — |
+
+**November 2026 correction:** Only the FD (+20) Engineer and Parachutist Engineer gain Surprise Attack (-3); FTO profiles unchanged.
 
 ### Bulleteer Armbots
 
@@ -250,8 +264,8 @@ Optional-mode units:
 
 | Opt | Pts | SWC | Loadout | FT |
 |---:|---:|---:|---|---|
-| 1 | 37 | 1.5 | Spitfire, Chain Rifle, Blitzen | — |
-| 2 | 38 | 1.5 | Spitfire, Chain Rifle, Grenade Launcher (Continuous Damage) | — |
+| 3 | 40 | 1.5 | Spitfire, Chain-colt | — |
+| 2 | 42 | 1.5 | Spitfire, Grenade Launcher (Continuous Damage) | — |
 
 ### Machinist NCA
 
@@ -354,6 +368,8 @@ Optional-mode units:
 
 Only one Maximus may be selected between this unit and Maximus TAG (ID 1720).
 
+**November 2026 correction:** Minimus MateBot generates no independent order.
+
 ### Garuda Tacbots
 
 **ID 110 · AVA 1 · REM** — `MOV 20-5 | CC 13 | BS 12 | PH 11 | WIP 13 | ARM 0 | BTS 3 | W 1 | S 2`. Remote Presence, Courage, Mimetism (-3), Parachutist, Combat Jump, Super-Jump (Jet Propulsion).
@@ -390,10 +406,10 @@ Only one Maximus may be selected between this unit and Maximus TAG (ID 1720).
 | Opt | Pts | SWC | Loadout / differences | FT |
 |---:|---:|---:|---|---|
 | 2 | 56 | 1.5 | HMG, Pulzar, Heavy Pistol, AP CCW | — |
-| 3 | 60 | 1.5 | Missile Launcher (+1SD), Light Shotgun, Pulzar, Heavy Pistol, AP CCW | — |
+| 3 | 60 | 2 | Missile Launcher (+1SD), Light Shotgun, Pulzar, Heavy Pistol, AP CCW | — |
 | 4 | 56 | 0.5 | MULTI Rifle, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; Hacking Device, Hacker, X Visor | — |
-| 5 | 44 | 0 | AP SMG, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; TinBot: Firewall (-3), Martial Arts L1, CC=21, Forward Deployment (+10) | — |
-| 6 | 47 | 0 | As 5 + Killer Hacking Device, Hacker | — |
+| 6 | 47 | 0 | AP SMG, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; TinBot: Firewall (-3), Martial Arts L1, CC=21, Forward Deployment (+10), Killer Hacking Device, Hacker | — |
+| 7 | 61 | 1.5 | Missile Launcher (+1B), Light Shotgun, Pulzar, Heavy Pistol, AP CCW | — |
 
 ### Hexas
 

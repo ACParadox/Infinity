@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 106
 sectorial_slug: svalarheima-s-winter-force
 sectorial_name: Svalarheima's Winter Force
@@ -15,6 +15,15 @@ coverage: "Standard Svalarheima's Winter Force roster, standard loadouts, canoni
 ---
 
 # Svalarheima's Winter Force
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections supersede conflicting archived profile rows. The original source pin is retained for unchanged fields; Fireteam charts and roster indexes have not been fully reconciled, so this reference is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25, 2026; Army backup `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- Gunnar and Oktavia changed; see individual sections.
+
 
 ## Overview and provenance
 
@@ -180,6 +189,8 @@ Includes Crabbot ancillary remote.
 | 1 | 30 | 1.5 | Missile Launcher, Contender, Heavy Pistol, CCW | Fusiliers max 1 |
 | 2 | 26 | 1.5 | Heavy Rocket Launcher, Contender, Heavy Pistol, CCW; Sixth Sense | Fusiliers max 1 |
 
+**November 2026 correction:** BS Attack (+1SD) replaces +1B; HRL option 23 pts.
+
 ### Bøyg Soldiers
 
 **ID 1507 · AVA 2 · HI** — `MOV 10-10 | CC 16 | BS 14 | PH 13 | WIP 12 | ARM 5 | BTS 6 | W 2 | S 5`. Albedo (-6), ECM: Hacker (-3), X-Visor, BS Attack (+1B), Terrain (Total).
@@ -309,8 +320,10 @@ Profile skill modifiers and weapon PS confirmed against the user-provided Infini
 |---:|---:|---:|---|---|
 | 1 | 20 | 0 | **BLADE FTO**; Boarding Shotgun, D-Charges, Silenced Pistol, CCW | Fusiliers max 1; counts as Fusilier |
 | 2 | 23 | 0 | **BLADE FTO**; AP SMG, D-Charges, Silenced Pistol, CCW; Engineer, GizmoKit | same |
-| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Forward Deployment (+20), Decoy (2) | —; non-FTO |
-| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Parachutist, Decoy (2) | —; non-FTO |
+| 3 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Forward Deployment (+20), Decoy (2), Surprise Attack (-3) | —; non-FTO |
+| 4 | 30 | 0 | AP SMG, E/Mitter, D-Charges; Engineer, Parachutist, Decoy (2), Surprise Attack (-3) | —; non-FTO |
+
+**November 2026 correction:** Only the FD (+20) Engineer and Parachutist Engineer gain Surprise Attack (-3); FTO profiles unchanged.
 
 ### Shona Carano
 
@@ -455,6 +468,8 @@ Profile skill modifiers and weapon PS confirmed against the user-provided Infini
 |---:|---:|---:|---|---|
 | 1 | 30 | 0 | **GUNNAR FTO**; MULTI Rifle, Chain-colt, Pistol, Trench-Hammer, AP CCW | Wildcard max 1; counts as Fusilier and Karhu |
 | 2 | 29 | 0 | Boarding Shotgun (+1B), Chain-colt, Pistol, Trench-Hammer, AP CCW; Forward Deployment (+20), Decoy (2) | —; non-FTO |
+
+**November 2026 correction:** Non-FTO FD (+20)/Decoy (2) option gains Surprise Attack (-3), Boarding Shotgun (+1SD) replaces +1B, 28 pts. Both options have Trench-Hammer (PS=5) and AP CC Weapon (PS=5).
 
 ### Fusiliers
 

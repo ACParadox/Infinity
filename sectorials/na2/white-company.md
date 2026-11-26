@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 909
 sectorial_slug: white-company
 sectorial_name: White Company
@@ -15,6 +15,15 @@ coverage: "Complete current White Company main roster, standard profile/loadout 
 ---
 
 # White Company — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections supersede conflicting archived profile rows. The original source pin is retained for unchanged fields; Fireteam charts and roster indexes have not been fully reconciled, so this reference is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25, 2026; Army backup `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480`.
+
+
+
 
 ## Overview and provenance
 
@@ -185,6 +194,8 @@ All profiles have Tactical Awareness, Mimetism (-3), Stealth and BS Attack (SR-1
 - `3` — **30 / 0**: `BLADE`; AP SMG, E/Mitter, D-Charges; Engineer, FD +20, Decoy.
 - `4` — **30 / 0**: `BLADE`; AP SMG, E/Mitter, D-Charges; Engineer, Parachutist, Decoy.
 Only profiles **1–2** match the White Company Fireteam row.
+
+**November 2026 correction:** Only the FD (+20) Engineer and Parachutist Engineer gain Surprise Attack (-3); FTO profiles unchanged.
 
 ### Fusiliers — ID 1, AVA Total
 - `1` — **10 / 0**: Combi Rifle.
