@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 601
 sectorial_slug: combined-army
 sectorial_name: Vanilla Combined Army
@@ -15,6 +15,15 @@ coverage: "Complete standard Vanilla Combined Army roster, standard loadouts/pro
 ---
 
 # Vanilla Combined Army
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Aïda Swanson:** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
+
 
 ## Overview and provenance
 
@@ -623,6 +632,8 @@ Seed-Embryo carries the source Shasvastii/Camouflage/Forward Deployment/Mimetism
 | 4 | 18 | 0 | Combi Rifle, Panzerfaust, Chest Mine, Pistol, PARA CCW; MediKit, Paramedic |
 
 ### Aïda Swanson, Submondo Smuggler
+
+**November 25 profile correction (overrides archived fields):** CC 21; Minelayer (2), Viral CC Weapon (PS=6) on both options. SMG (+1B) 25 pts, Camouflage (1 Use)/Surprise Attack (-3) replaces Decoy (2).
 
 **ID 1160 · AVA 1 · LI** — `MOV 10-10 | CC 19 | BS 12 | PH 11 | WIP 13 | ARM 1 | BTS 3 | W 1 | S 2`. Martial Arts L2, Courage, Booty, Forward Deployment (+10), Mimetism (-3), Shasvastii, Stealth.
 

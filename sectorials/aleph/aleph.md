@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: faction
-status: current
+status: partial
 faction_id: 701
 faction_slug: aleph
 faction_name: ALEPH
@@ -14,6 +14,27 @@ coverage: "Standard Vanilla ALEPH roster, profile/loadout costs and AVA, periphe
 ---
 
 # ALEPH (Vanilla) — N5.3 faction reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Tarkshya:** Remove Super-Jump (7.5). MULTI Red Fury 45 pts; MULTI Marksman Rifle/AP SMG 42; MULTI Marksman Rifle 38. Chain-colt replaces Chain Rifle on applicable options. Operator MOV 10-10, BS 12, PH 9, Mimetism (-3); Forward Observer and Flash Pulse lose +1SD.
+- **Dasyus:** Remove Hacking Device option (33 pts), retain KHD. Boarding Shotgun 29 pts, gains Specialist Operative and Flash Pulse. Minelayer (2) 31/1; new Minelayer (1) AP SMG/Pulzar/Viral Mine 30/0.5.
+- **Optimate Agent Maximus:** Minimus MateBot has no independent order; other profiles and points unchanged.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---:|---|
+| 2 | 31 | 0 | E/Mitter, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+
+FTO access (where applicable) requires the new chart.
+
 
 ## Overview and provenance
 
@@ -197,6 +218,8 @@ Karkata is the bundled ancillary remote profile.
 | 9 | 28 | 0 | MULTI Rifle/Drop Bears package; **Lieutenant** |
 
 ### Optimate Agent Maximus
+
+**November 25 profile correction (overrides archived fields):** Minimus MateBot has no independent order; other profiles and points unchanged.
 
 **ID 1862 · AVA 1 · MI** — `MOV 15-5 | CC 22 | BS 13 | PH 13 | WIP 13 | ARM 3 | BTS 3 | W 1 | S 2`. Tactical Awareness, NWI, Specialist Operative, Number 2, Natural Born Warrior, Albedo, strong Dodge/CC modifiers.
 
@@ -466,6 +489,8 @@ Army retains the superficially duplicate rows because option-level differences a
 
 ### Dasyus
 
+**November 25 profile correction (overrides archived fields):** Remove Hacking Device option (33 pts), retain KHD. Boarding Shotgun 29 pts, gains Specialist Operative and Flash Pulse. Minelayer (2) 31/1; new Minelayer (1) AP SMG/Pulzar/Viral Mine 30/0.5.
+
 **ID 587 · AVA 2 · SK** — `MOV 15-5 | CC 16 | BS 13 | PH 12 | WIP 14 | ARM 1 | BTS 3 | W 1 | S 2`. Camouflage, Hidden Deployment, Infiltration, Mimetism (-6), Surprise Attack (-3), Immunity (Shock), Stealth, Terrain (Total).
 
 | Opt | Pts | SWC | Loadout / differences |
@@ -682,6 +707,8 @@ Army's raw Opt 7 payload contains two weapon-id `0` placeholder rows; they are n
 | 4 | 31 | 1 | Red Fury, Light Flamethrower, D-Charges, PARA CCW; **Specialist Operative** |
 
 ### Tarkshya Interception Wing
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5). MULTI Red Fury 45 pts; MULTI Marksman Rifle/AP SMG 42; MULTI Marksman Rifle 38. Chain-colt replaces Chain Rifle on applicable options. Operator MOV 10-10, BS 12, PH 9, Mimetism (-3); Forward Observer and Flash Pulse lose +1SD.
 
 **ID 1904 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 13 | ARM 4 | BTS 6 | STR 3 | S 7`. Remote Presence, Aerial, MSV1, Mimetism (-6), No Cover, Super-Jump, Tech-Recovery, Terrain (Total), Transmutation/Escape operator.
 

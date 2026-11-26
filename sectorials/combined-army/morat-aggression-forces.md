@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 602
 sectorial_slug: morat
 sectorial_name: Morat Aggression Forces
@@ -15,6 +15,15 @@ coverage: "Morat Aggression Forces standard roster, AVA, profile stats and point
 ---
 
 # Morat Aggression Forces
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Tyrok:** All options gain Surprise Attack (-3).
+
 
 ## Overview and provenance
 
@@ -256,6 +265,8 @@ The lines below preserve the pinned Morat profile stats and all standard option 
 | 14 | 0 | Bultrak Pilot | Morat max1 |
 
 ### Tyrok Hunters
+
+**November 25 profile correction (overrides archived fields):** All options gain Surprise Attack (-3).
 
 **ID 1571 · AVA 2 · SK** — `MOV 10-10 | CC 23 | BS 11 | PH 14 | WIP 13 | ARM 1 | BTS 0 | W 1 | S 2`. Midfield hunter; optional Skurgot peripheral.
 

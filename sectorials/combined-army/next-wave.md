@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 605
 sectorial_slug: next-wave
 sectorial_name: Next Wave
@@ -15,6 +15,29 @@ coverage: "Next Wave standard roster, AVA, profile stats and points/SWC, canonic
 ---
 
 # Next Wave
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479` (initial release).
+
+- **Skyhounds:** Remove Super-Jump (7.5); Plasma Carbine option 36 pts; general BS Attack (+1B) removed, +1B only on AP Thunderbolt. MULTI Rifle (+1B)/Flammenspeer 35 pts.
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
+- **Ruby Monday:** Classification Character rather than Mercenary; cost and profiles unchanged.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---:|---|
+| 1 | 30 | 0 | FTO; Thunderbolt, Drop Bears, D-Charges, Breaker Pistol (PS=6), CC Weapon; BS Attack (Continuous Damage) |
+| 2 | 31 | 0 | E/Mitter, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+| 7 | 31 | 0 | FTO; AP Thunderbolt, E/M Grenades, D-Charges, Breaker Pistol (PS=6), PARA CC Weapon (-6) |
+
+FTO access (where applicable) requires the new chart.
+
 
 ## Overview and provenance
 
@@ -145,6 +168,8 @@ No standard Fireteam access.
 **Option:** `3/0`. No standard Fireteam access.
 
 ### Skyhounds, Combat and Recon Air Squadron
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5); Plasma Carbine option 36 pts; general BS Attack (+1B) removed, +1B only on AP Thunderbolt. MULTI Rifle (+1B)/Flammenspeer 35 pts.
 
 **ID 1889 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 14 | PH 13 | WIP 13 | ARM 4 | BTS 6 | W 2 | S 7`. Aerial, Remote Presence, Tech-Recovery, Mimetism (-6), No Cover, enhanced Super-Jump/jet mobility.
 
@@ -353,6 +378,8 @@ The canonical chart distinguishes `FTO` from `FTO-2`; do not merge the two permi
 
 ### Kazurabā Ruby Monday
 
+**November 25 profile correction (overrides archived fields):** Classification Character rather than Mercenary; cost and profiles unchanged.
+
 **ID 1890 · AVA 1 · HI** — `MOV 15-5 | CC 18 | BS 12 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 2 | S 2`. Irregular; Technorganic, Climbing Plus, Specialist Operative.
 
 **Option:** `19/0`, Adhesive Launcher Rifle, Flash Pulse, E/M Grenades, Stun Pistol. No standard Fireteam access.
@@ -419,6 +446,8 @@ The canonical chart distinguishes `FTO` from `FTO-2`; do not merge the two permi
 **Option:** `7/0`. No standard Fireteam access.
 
 ### Ioann Bann, Varangian Dog-Warrior
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); classification Character; Grenades option 33 pts.
 
 **ID 1940 · AVA 1 · WB** — Dogface: `MOV 15-10 | CC 22 | BS 11 | PH 14 | WIP 13 | ARM 2 | BTS 3 | W 3 | S 2`; Dog-Warrior form: `CC 23 | PH 16 | ARM 4 | BTS 6 | W 3 | S 6`. Irregular + Impetuous; Berserk, Martial Arts L3, Super-Jump, Transmutation.
 

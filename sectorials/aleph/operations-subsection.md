@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 703
 sectorial_slug: operations-subsection
 sectorial_name: Operations Subsection
@@ -15,6 +15,18 @@ coverage: "Standard Operations Subsection roster, profiles/loadouts and composit
 ---
 
 # Operations Subsection (OSS) — N5.3 sectorial reference
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. Roster indexes and Fireteam charts are not fully reconciled; status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.480` (initial release).
+
+- **Tarkshya:** Remove Super-Jump (7.5). MULTI Red Fury 45 pts; MULTI Marksman Rifle/AP SMG 42; MULTI Marksman Rifle 38. Chain-colt replaces Chain Rifle on applicable options. Operator MOV 10-10, BS 12, PH 9, Mimetism (-3); Forward Observer and Flash Pulse lose +1SD.
+- **Dasyus:** Remove Hacking Device option (33 pts), retain KHD. Boarding Shotgun 29 pts, gains Specialist Operative and Flash Pulse. Minelayer (2) 31/1; new Minelayer (1) AP SMG/Pulzar/Viral Mine 30/0.5.
+- **Optimate Agent Maximus:** Minimus MateBot has no independent order; other profiles and points unchanged.
+- **Ruby Monday:** Classification Character rather than Mercenary; cost and profiles unchanged.
+
 
 ## Overview and provenance
 
@@ -236,6 +248,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 
 ### Dasyus — `dasyus`
 
+**November 25 profile correction (overrides archived fields):** Remove Hacking Device option (33 pts), retain KHD. Boarding Shotgun 29 pts, gains Specialist Operative and Flash Pulse. Minelayer (2) 31/1; new Minelayer (1) AP SMG/Pulzar/Viral Mine 30/0.5.
+
 - **Stats:** `15-5 16 13 12 14 1 3 1 2`; AVA 3, SK.
 - **Rules:** BS Attack (+1SD), Surprise Attack (-3), Courage, Camouflage, Hidden Deployment, Mimetism (-6), Infiltration (ReRoll), Immunity (Shock), Stealth, Total Terrain.
 - **Option 2:** **28 / 0** — Boarding Shotgun, Pulzar, D-Charges, Silenced Pistol (PS=7), CC Weapon.
@@ -264,6 +278,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 - **KiranBots:** `15-5 13 11 11 11 1 3 1 2`, REM/Peripheral; ECM Hacker (-3), Peripheral (Synchronized), Courage, Forward Deployment (+20), Dodge (+2.5), Mimetism (-6). KiranBot 1 carries Deployable Repeater, E/Marat (+1B), AP Heavy Pistol, PARA CC Weapon. KiranBot 2 carries Pulzar (+1B), Repeater, AP Heavy Pistol, PARA CC Weapon. Each is an internal 7-point included profile.
 
 ### Kazurabā Ruby Monday — `kazuraba-ruby-monday`
+
+**November 25 profile correction (overrides archived fields):** Classification Character rather than Mercenary; cost and profiles unchanged.
 
 - **Stats:** `15-5 18 12 12 13 3 6 2 2`; AVA 1, HI/STR; Irregular.
 - **Rules:** BS Attack (+1B), Booty, Dodge (+3), Immunity (IMM-B), Technorganic, Total Terrain, Climbing Plus, Specialist Operative.
@@ -466,6 +482,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 
 ### Optimate Agent Maximus — `optimate-agent-maximus`
 
+**November 25 profile correction (overrides archived fields):** Minimus MateBot has no independent order; other profiles and points unchanged.
+
 - **Stats:** `15-5 22 13 13 13 3 3 1 2`; AVA 1, MI.
 - **Rules/equipment:** CC Attack (-6), Courage, Dodge (+2.5), Natural Born Warrior, Immunity (ARM), Number 2, Specialist Operative, Tactical Awareness, NWI; Albedo (-3).
 - **Option 1:** **48 / 1** — AP Thunderbolt (+2B), E/M Carbine, Heavy Pistol, AP+DA CC Weapon (PS=6); includes Minimus. Not FTO.
@@ -484,6 +502,8 @@ Notation: stats are `MOV CC BS PH WIP ARM BTS VITA S`. `STR` is called out where
 - **Option 5 FO:** **20 / 0** — Combi Rifle, Flash Pulse, PARA CC Weapon (-3); Forward Observer.
 
 ### Tarkshya Interception Wing — `tarkshya-interception-wing`
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5). MULTI Red Fury 45 pts; MULTI Marksman Rifle/AP SMG 42; MULTI Marksman Rifle 38. Chain-colt replaces Chain Rifle on applicable options. Operator MOV 10-10, BS 12, PH 9, Mimetism (-3); Forward Observer and Flash Pulse lose +1SD.
 
 #### Interception Wing
 
