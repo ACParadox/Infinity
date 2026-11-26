@@ -34,7 +34,7 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -84,9 +84,9 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 6 | S+ | Foxtrot FO18/0 — USAriadna/eligible Ariadna | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 8 | S+ | Chasseur FO20/0 — FRRM/eligible Ariadna | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 9 | S+ | Strelok FO 17/0 — Vanilla Ariadna | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 130 | A+ | Vassily LT+FO35/0–1 (Vanilla Ariadna) | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 192 | A | Ariadna Scout FO28/0 — TAK/Ariadna | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 204 | B+ | Irmandinho Irregular Engineer 8 — Ariadna | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 129 | A+ | Vassily LT+FO35/0–1 (Vanilla Ariadna) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 191 | A | Ariadna Scout FO28/0 — TAK/Ariadna | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 203 | B+ | Irmandinho Irregular Engineer 8 — Ariadna | Roster named in source |
 | [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 30 | C | Chernobog — Ariadna / Kosmoflot | Roster named in source |
 | [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 13 | A+ | Antipode Assault Pack 26/0 — Ariadna/TAK, Handler + 3 Control Antipodes | Roster named in source |
 | [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 5 | S+ | Galwegian Chain+Smoke5/0 (Caledonia) | Existing local profile match; verify exact variant |
