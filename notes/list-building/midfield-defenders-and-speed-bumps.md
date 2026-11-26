@@ -57,7 +57,7 @@
 - **Repeaters:** A Moran native Repeater projects from setup; its actual payoff depends on live friendly Hackers and enemy targets. An undeployed Deployable Repeater, Mine Dispenser or Pitcher shot is **not** free Turn-0 area control. See [Network Projection](network-projection-repeaters-pitchers-apex-value.md).
 - **Placement:** Defend a square an attacker must *finish on* or pass to score, not merely the prettiest rooftop. Place separate marker/mine, template and anti-heavy threats along **independent angles** so one attack cannot remove all layers. Pay attention to Infiltration failure, AVA, SWC, and whether clearing the device can be done by Sensor/Deactivator or expendable troops.
 
-**Related roles:** [Cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md) · [ARO Apex/Value](aro-units-apex-and-value.md) · [Warband trading](warbands-and-cheap-trading-units-apex-value.md). DZ-only profiles are not included in the midfield rankings above.
+**Related roles:** [Cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md) · [ARO Apex/Value](aro-units-apex-and-value.md) · [Warband trading](warbands-and-cheap-trading-units-ranking.md). DZ-only profiles are not included in the midfield rankings above.
 
 ## Additional forward-denial profiles and tradeoffs
 
