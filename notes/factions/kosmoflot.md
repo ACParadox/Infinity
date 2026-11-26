@@ -6,7 +6,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -36,7 +36,7 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 27 | A+ | Frontovik AP Spitfire30/1 — TAK/Kosmoflot | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 4 | S+ | 1st Highlanders SAS FO 21 or SO 25 — Caledonia/Ariadna/Kosmoflot | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 50 | S | Para-Commando FO21/0 or Paramedic19/0 — FRRM/Kosmoflot | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 171 | A | Rokot FO 10 / Paramedic 11 / SO 11 — Kosmoflot | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 170 | A | Rokot FO 10 / Paramedic 11 / SO 11 — Kosmoflot | Roster named in source |
 | [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 30 | C | Chernobog — Ariadna / Kosmoflot | Roster named in source |
 | [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 7 | S+ | Irmandinho Engineer+Chain+Smoke8/0 (TAK/Kosmoflot/Ariadna) | Roster named in source |
 | [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 11 | S | Varangian10/0 — Kosmoflot; 12/0 — O-12 (eligible variants) | Roster named in source |
