@@ -274,7 +274,7 @@ TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usu
 
 ### Related research
 
-[Defensive architecture](../Strategy/defensive-architecture-and-reactive-turn.md) · [Marker state/deception](../Strategy/marker-state-and-deception-strategy.md) · [Face-to-face probabilities](../Strategy/probability-and-face-to-face-decision-framework.md) · [REMs](rems.md) · [Deployables](../Strategy/deployables-area-control.md) · [DZ defence](../Strategy/dz-strikes-and-dz-defense.md) · [Cheerleaders](cheerleaders-and-order-generators-ranking.md) · [Hackers/KHD](hackers-and-killer-hackers.md).
+[Defensive architecture](../Strategy/defensive-architecture-and-reactive-turn.md) · [Marker state/deception](../Strategy/marker-state-and-deception-strategy.md) · [Face-to-face probabilities](../Strategy/probability-and-face-to-face-decision-framework.md) · [REMs](rems.md) · [Deployables](../Strategy/deployables-area-control.md) · [DZ defence](../Strategy/dz-strikes-and-dz-defense.md) · [Cheerleaders](cheerleaders-ranking.md) · [Hackers/KHD](hackers-and-killer-hackers.md).
 
 ## Battle-report checks — observed unit effectiveness and combinations (2026-11-01)
 
