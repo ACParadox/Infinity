@@ -23,7 +23,7 @@
 
   The example is *one philosophy*, not a mandatory template.
 
-**Defensive budget rankings (updated 5 Nov 2026):** [Cheap Midfield Defenders & Speed Bumps](cheap-midfield-defenders-and-speed-bumps.md) and [Cheap DZ Defenders & Trade Pieces](cheap-dz-defenders-and-trade-pieces-ranking.md) rank exact forward-deployed and deployment-zone protection/trade profiles. This Cheerleaders page remains the reference for pooled-Order economics, FT Master packages and pure passive fillers.
+**Defensive budget rankings (updated 5 Nov 2026):** [Cheap Midfield Defenders & Speed Bumps](midfield-defenders-and-speed-bumps-ranking.md) and [Cheap DZ Defenders & Trade Pieces](cheap-dz-defenders-and-trade-pieces-ranking.md) rank exact forward-deployed and deployment-zone protection/trade profiles. This Cheerleaders page remains the reference for pooled-Order economics, FT Master packages and pure passive fillers.
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-ranking.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
@@ -256,7 +256,7 @@ All examples use **one copy of each named candidate**, except where a multiplier
 
 ### Related repository studies
 
-- [Order efficiency](../Strategy/order-efficiency.md) · [Impetuous/Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md) · [Cheap midfield speed bumps](cheap-midfield-defenders-and-speed-bumps.md) · [Cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md) · [REMs](rems.md)
+- [Order efficiency](../Strategy/order-efficiency.md) · [Impetuous/Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md) · [Cheap midfield speed bumps](midfield-defenders-and-speed-bumps-ranking.md) · [Cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md) · [REMs](rems.md)
 - [Lieutenant and command structure](../Strategy/lieutenant-and-command-structure.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Command Tokens](../Strategy/command-tokens.md)
 - [Peripherals and multi-body troops](../Strategy/peripherals-synchronized-and-multi-body-troops.md) · [Mission specialists](../Strategy/mission-scoring-and-specialist-strategy.md)
-- [Hacker/KHD comparison](hackers-and-killer-hackers.md) · [TAG comparison](tags-ranking.md) · [VH comparison](vehicles-vh.md)
+- [Hacker/KHD comparison ](hackers-ranking.md) · [Killer hackers](killer-hackers-ranking.md) · [TAG comparison](tags-ranking.md) · [VH comparison](vehicles-vh-ranking.md)
