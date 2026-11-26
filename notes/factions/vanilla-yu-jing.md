@@ -25,6 +25,17 @@
 
 **Bottom line:** Vanilla's **exclusive advantage within Yu Jing is cross-sectorial roster intersection**, especially the **three TAG families + Fēiquán**, **Hac Tao + Sù-Jiàn**, **Dàofěi + Zhēnchá + Guìláng**, and **Sun Tze versus Dāoyīng command choice**. The best whole-game *individual* distinctions are the Hac Tao NCO gunfighter, Yān Huǒ reactive missile and Fēiquán Pitcher, but their abilities or units are shared to varying degrees. Preserve the local loadout caveats when making exclusivity or ranking claims.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Sù-Jiàn** | HSG46/0 | [DZ attack A+ #34](../list-building/dz-attackers-ranking.md) · [Zone A+ #19](../list-building/objective-holding-ranking.md) | Mobile transmuting HI gives durable ground assault and close denial, not an airborne or specialist profile. |
+| **Dàofěi** | HD52/.5 or AP Spitfire SO52/1.5 | [Zone S #10 (HD)](../list-building/objective-holding-ranking.md) · [DZ attack A+ #52 (SO)](../list-building/dz-attackers-ranking.md) · [Toolbox A+ #51 (HD)](../list-building/toolbox-units-rankings.md) · [Mission S #53](../list-building/mission-specialists-ranking.md) | Infiltrating Camo HI compresses offense and scoring, but its cost and BTS3 are real constraints. SO and hacker are distinct. |
+| **Shadowcrow Operator** | E/Mitter airborne31/0; AP Thunderbolt FTO31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) · [Gunfighters A+ #25 (long, FTO)](../list-building/gunfighters-ranking.md) | Use the airborne version for mission scoring; FTO AP Thunderbolt/MadTraps is a separate option. |
+
 ### Whole-game standouts — apex versus value
 
 **Faction tier / overall rank: A — #8 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Elite HI, Camouflage, cheap screening, LT/NCO efficiencies and diverse attackers remain strong despite aerial-vehicle changes; rises primarily through Haqqislam's demotion.
