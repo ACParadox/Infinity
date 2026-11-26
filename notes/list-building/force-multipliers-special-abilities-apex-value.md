@@ -1,6 +1,6 @@
 # Force Multipliers — RemDriver, Exceptional EVO and Counterintelligence (N5.3 Unified Ranking)
 
-_Updated 2026-11-26 · Editorial, profile-specific **list-building judgments**, not measured win rates. Use the latest committed [sectorial rosters](../../sectorials), [N5.3 rules](../../rules/README.md), and actual profile/Combat Group rather than assuming skills transfer between profiles or factions. Related guides: [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md), [REMs](rems.md), [hackers](hackers-ranking.md), [killer hackers](killer-hackers-ranking.md), [network](network-projection-repeaters-pitchers-apex-value.md), [TAGs](tags.md), [command units](command-units-apex-and-value.md), [Order generators](cheerleaders-and-order-generators.md)._
+_Updated 2026-11-26 · Editorial, profile-specific **list-building judgments**, not measured win rates. Use the latest committed [sectorial rosters](../../sectorials), [N5.3 rules](../../rules/README.md), and actual profile/Combat Group rather than assuming skills transfer between profiles or factions. Related guides: [rare abilities](rare-capabilities-and-unique-combinations-apex-value.md), [REMs](rems.md), [hackers](hackers-ranking.md), [killer hackers](killer-hackers-ranking.md), [network](network-projection-repeaters-pitchers-apex-value.md), [TAGs](tags.md), [command units](LT-ranking.md), [Order generators](cheerleaders-and-order-generators.md)._
 
 ## Scope — what belongs here
 
