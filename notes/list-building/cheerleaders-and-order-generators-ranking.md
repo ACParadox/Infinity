@@ -75,7 +75,7 @@ Several bodies do not imply extra pooled Regular Orders.
 - `Budget` — a 0-SWC option at 9pts or less per native Regular Order, or an especially cheap multi-Order engine (roughly 10pts/Order or less; the Monitor package costs 0.5 SWC). Mixed-price rows qualify only on relevant profiles.
 
 - `Anti-Tech` — direct answer to Mimetism, Camouflage/Hidden or visor-dependent defenses, as defined in the [Anti-Tech guide](https://github.com/ACParadox/Infinity/blob/bfd46de8b157a80a70cbfb6db1620143cfb32401/notes/list-building/anti-tech-msv-mimetism-camo-impersonation-apex-value.md). Ordinary E/M, AP, Smoke or hacking alone do not qualify.
-- `Mod-Stacking` — significant ranged MOD asymmetry or counter-MOD combinations, as defined in [BS MOD mechanics](bs-mod-stacking-units-apex-and-value.md). Ordinary Cover or Mimetism(-3) alone is insufficient; Surprise is temporary and does not affect direct-template attacks.
+- `Mod-Stacking` — significant ranged MOD asymmetry or counter-MOD combinations, as defined in [BS MOD mechanics](active-turn-gunfighters-ranking.md#bs-mod-mechanics-and-counterplay). Ordinary Cover or Mimetism(-3) alone is insufficient; Surprise is temporary and does not affect direct-template attacks.
 
 **Cross-guide tagging:** [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md) and [Toolbox Units](jack-of-all-trades-toolbox-units-apex-value.md) inform the existing `Unique` and `Toolbox` tags, not duplicate categories. The Puppet Master alone has no purchased PuppetBots; independent RacerBots do not inherit Pilot-X's RemDriver. Only the named loadout or complete paid package qualifies.
 
