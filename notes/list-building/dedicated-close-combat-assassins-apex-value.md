@@ -1,4 +1,4 @@
-# Dedicated Close-Combat Assassins and Fighters — N5.3 Apex / Points Value
+# Dedicated Close-Combat Assassins and Fighters — N5.3 Global Ranking
 
 **Vanilla O-12 premium melee/assault review — [Robert Shepherd (38–42m, 60–65m)](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=2280s), transcript reviewed 26 Oct 2026:**
 
@@ -24,16 +24,15 @@ Never label him universally unusable merely because he lacks buttons/long-range 
 
 **Role boundary:** This list ranks **getting a particular target into legal CC, winning the exchange, doing useful damage or disabling it, and retaining a useful attacker afterward**. It does **not** automatically award high rank to a troop with an excellent CC score that must cross half the table unprotected. For full techniques see [CC/short-assault doctrine](../Strategy/close-combat-and-short-range-assault.md), [Warband trades](warbands-and-cheap-trading-units-apex-value.md), [Airborne/DZ assailants](airborne-and-enemy-dz-attackers-apex-value.md), [Marker deception](../Strategy/marker-state-and-deception-strategy.md), [movement/vision](../Strategy/movement-positioning-and-vision-control.md) and [Orders](../Strategy/order-efficiency.md).
 
-## 30-second recommendation — revised MA3–MA5 audit
+## 30-second recommendation — unified ranking
 
-- **Single-target assassin apex:** **Shinobu #1**, **Oniwaban #2**, **Hussein #3**, **Speculo #4**, **Fiday #5**, **Saito #6**; **Cuervo**, **Kinnara**, **Nightshades**, **Ninjas** and **Nahab** are now assessed directly rather than omitted.
-- **Repeated frontline CC apex:** **Achilles #1**, **Ajax #2**, **Hector #3**, **Shikami #4**, **Sheskiin #5**, **Hatamoto #6**, **Ioann Bann #7**. **Hippolyta #10** remains an excellent mobile attacker, but no longer ranks above Hector or Hatamoto for complete frontline capability.
-- **Absolute budget CC value (≤22pt):** **Chimera + 3 Pupniks #1**, **Dāturazi #2**, **Mushashi #3**, **Liang Kai #4**, **Shona #5**, followed by **Domaru, Shaolin, Makaul, Yamabushi, Hwarang and Cenobites**. A 29pt Oniwaban or 34pt Hatamoto cannot qualify for this category despite good *relative* value.
-- **Guard/defensive denial:** **Andromeda** and **Alpha** rank only for Guard; **Hatamoto, Ajax, Mushashi, Señor Massacre, Valkyrie and Wulvers** rank for contact counter-CC.
-- **Role discipline:** **Pavel** is a Camo/Ohotnik marksman with a dangerous AP+T2 melee option—not a dedicated CC assassin. **Ko Dali, de Fersen, Kunai, Machaon and other hybrids** may be excellent outside this specific CC shortlist.
-- **Current source of truth:** [Pinned N5.3 sectorial profiles](../../sectorials), [Martial Arts](../../rules/5b_Special%20Skills/Martial_Arts.md), [CC Attack](../../rules/3_Combat/CC_Attacks.md). These are **qualitative judgments**, not simulated win rates.
+- **Best overall CC investments:** Oniwaban, Chimera + 3 Pupniks, Shinobu, Hatamoto and Dāturazi. The first and third excel at concealed assassination; Chimera and Dāturazi deliver inexpensive pressure; Hatamoto combines elite contact and useful secondary roles.
+- **Premium sustained frontline choices:** Shikami, Ajax, Achilles, Ioann Bann and Sheskiin; choose for the actual mission and route, not raw CC alone.
+- **Budget (≤22pt):** filter the unified ranking by `Budget`; a 29pt Oniwaban can still be `Value` without being `Budget`.
+- **Guard / defensive denial:** Andromeda and Alpha for Guard; Hatamoto, Ajax, Mushashi, Señor Massacre, Valkyrie and Wulvers for contact counter-CC.
+- **Role discipline:** Pavel is a Camo/Ohotnik marksman with dangerous AP+T2 melee, not a dedicated CC assassin. Ko Dali, de Fersen, Kunai and Machaon can excel elsewhere.
 
-**Categories must not be merged:** a 6pt Shaolin can be exceptional *budget* CC without approaching the apex of a 62pt Achilles; a 24pt Ninja is dangerous because it **reaches CC**, not merely because it has MA3. Print only the profile's actual listed MA level: standard **Umbra Legate MA3**, optional **Reinforcement Legate MA4** are distinct. Berserk, NWI, Guard, Impersonation, Camo and Immunity are scored as *different* capabilities; none substitutes automatically for another.
+**One global ranking, different jobs:** a 6pt Shaolin can have exceptional efficiency without matching Achilles' repeated-combat ceiling. Guard is distinct from actual contact. Print only the actual listed MA level and never transfer capabilities between alternate profiles. Standard Umbra Legate MA3 and Reinforcement Legate MA4 are distinct.
 
 ## 1) Actual lethality: what the melee roll does—and does not say
 
@@ -115,122 +114,105 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 
 **Practical approach success** depends on deployment and enemy AROs. No honest unconditional "Shinobu has an 83% chance of assassinating target" follows from dice math; that 83% is *unopposed critical opportunity* conditional on CC having been reached.
 
-## 3) Dedicated CC assassins — target-specific elimination or disabling
+## 3) Unified close-combat ranking
 
-**Scope:** The profile must threaten an enemy through concealed/deep deployment, Impersonation, airborne arrival, or a comparably credible approach. Killing or disabling in **actual CC** must be an important part of the plan. Rank assumes a valuable target worth attacking. This is *not* a ranking of ranged gunfighters who merely carry a CCW.
+_Consolidated 26 November 2026 from the five existing ranked tables (assassination, frontline, budget, Guard and contact counter-assault). Editorial reranking, not a new Army audit or measured win rates._
 
-| # | Tier | Profile (pts/SWC) | CC package and delivery | Ranking basis / limits |
-|---:|---|---|---|---|
-| 1 | **S** | **Shinobu Kitsune 44/0.5 — JSA/Ōban** | CC25/MA5, Monofilament, Hidden + Infiltration(PH19), Smoke, Climbing Plus | Highest single-target CC ceiling with excellent concealed delivery; 44pt/1W and screens restrict trades. |
-| 2 | **S** | **Oniwaban SMG 29/0 — JSA/Ōban** | CC24/MA4, Monofilament or E/M, Hidden + Infiltration(PH18), Mimetism(-6) | Outstanding precision anti-HI/TAG target removal at a lower price than Shinobu; 1W. |
-| 3 | **S/A** | **Hussein Al-Djabel 33/0 — Hassassin Bahram** | CC23/MA4, Impersonation, Viral(PS5), Smoke, Climbing Plus | Immediate deployment pressure and high WIP15; Viral matchup and one Wound limit returns. |
-| 4 | **S/A** | **Speculo Killer BSG 26/1 — Shasvastii/CA** | CC22/MA3, Impersonation, Monofilament, Smoke | Exceptional deployment proximity and anti-premium damage; 1 SWC and screening are major costs. |
-| 5 | **A+** | **Hassassin Fiday BSG 23/0 — Haqq/Bahram** | CC23/MA3, Impersonation, DA(PS6), Smoke | More affordable Impersonation CC assault than Hussein; strong versus exposed support, not instant TAG removal. |
-| 6 | **A+** | **Saito Tōgan 33/0 — JSA/Ōban** | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun | Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. |
-| 7 | **A+** | **Cuervo Goldstein 33/0 — O-12** | CC23/MA4, Combat Jump/Parachutist, Monofilament/DA, NWI | Airborne delivery creates unexpected mono contact; cannot assume safe enemy-DZ edge or Specialist scoring. |
-| 8 | **A+** | **Kinnara Scoutbot Parachutist 24/0 — ALEPH/OSS** | CC23/MA2, Parachutist, Eclipse, Monofilament, Climbing Plus, Specialist | High-impact mobile Monofilament tool with smoke and secondary objectives; MA2/1STR makes contested CC dangerous. |
-| 9 | **A+** | **Nightshades SMG 31/0 — O-12** | CC22/MA3, Hidden, FD(+20), Mimetism(-6), E/M(PS6) and PARA(-6) | Excellent concealed disabling ambush against hackable heavies; E/M/PARA is not automatic lethality. |
-| 10 | **A+** | **Ninja Tactical Bow 24/0 — JSA/Yu Jing** | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6) | Strong low-price concealed CC delivery; no Monofilament and only one Wound. |
-| 11 | **A** | **Nahab BSG Specialist 32/0 — Ramah** | CC23/MA3, Infiltration, Viral(PS6), NWI, Decoy, D-Charges | Useful assassin with lethal melee and button access; high price and conditional enemy VITA matchup. |
-| 12 | **A** | **Caliban BSG 24/0 — Shasvastii/CA** | CC23/MA3, Camo, FD(+20), Protheion, D-Charges | Marker ambusher that can grow on VITA victims; starting 1W and ordinary CCW weaken elite melee. |
-| 13 | **A** | **Igao Vulkan Shotgun 23/0 — Tohaa** | CC23/MA3, Camo + Infiltration, DA, close-range template | Strong midfield victim selection; 1W/ARM0 and no Monofilament. |
-| 14 | **A** | **Sulsa Warrior BSG 28/0 — White Banner** | CC23/MA3, Infiltration, one-use Camo, Mimetism(-6), Berserk, DA | Real midfield lethal threat; one-use Camo and higher price than Ninja limit relative ranking. |
-| 15 | **A/B** | **Penthesilea 28/0 — eligible ALEPH/Steel** | Fast bike, Smoke GL, CC Attack(-6), Monofilament, Specialist | Can threaten premium targets from an unexpected flank; S4 and no marker defense make contact hazardous. |
+**Scope:** credible CC delivery and useful target removal/disabling, repeated contact pressure or meaningful defensive CC. This is not a ranking of gunfighters merely carrying CCWs. Compare actual target relevance, approach Orders, contest and weapon effect, durability, total points/SWC and useful secondary roles. Suggested editorial priorities: CC performance and target relevance 30%, delivery/order efficiency 25%, points/SWC 25%, durability 10%, role compression 10%. These are priorities, not calculated scores. S+ = exceptional overall investment; S = outstanding; A+ = excellent; A = strong; B = situational. Rank descending within tiers; role-specific matchups can reverse the order.
 
-**Near the cutoff, not ranked:** Raoul Spector 33/0 (airborne NBW/E/M counter-assault, often shoots first), Van Zant 33/0 (AP+T2 melee but stronger as rear-entry gunfighter), Koga Ninjas 25–30 (E/M Camo pressure, often shoot first), Rasyat BSG 25/0 (Eclipse/AD shotgun attacker, MA2), and Penthesilea alternatives. **Not CC assassins for this list:** Andromeda (Guard/control), Pavel (Ohotnik marksman), Kunai Sniper and Ko Dali (CC19, gun/Protheion hybrid).
+**Tags (non-exclusive; profile-specific):**
 
-## 4) Frontline CC combatants — repeated fight ceiling
+- `Apex`: retained from former assassin/frontline ceiling rankings or standout defensive CC options; not a separate tier.
+- `Value`: former budget-ranked profiles or particularly efficient relative-cost choices.
+- `Unique`: unusually differentiated delivery, multi-body, weapon or control combination.
+- `Toolbox`: useful role compression beyond CC, e.g. actual scoring, command, vision control, gunfighting or area defense.
+- `Classified Runner`: meaningful evidenced Classified execution on the named option; see [Mission Specialists](mission-specialists-and-button-pushers-apex-value.md).
+- `Airborne`: actual Combat Jump or Parachutist on the named loadout.
+- `Fireteam`: significant linked role or explicitly supported FTO/triad/Wildcard option; check actual roster.
+- `Budget`: relevant option costs ≤22 points, including the printed multi-body package; does not apply to a more expensive alternate.
 
-**Scope:** Sustained contact threat, elite contest-winning dice, weapon effect and durability; a gun, Order skill or specialist role matters only when it lets the model *reach, win and continue* fighting. **Apex is not a points-value table.** Positions are qualitative and matchup dependent.
+Tags are supported by existing entries and the [Rare Capabilities](rare-capabilities-and-unique-combinations-apex-value.md), [Toolbox Units](jack-of-all-trades-toolbox-units-apex-value.md) and Mission Specialists guides. Untagged capabilities are not proof of absence. The Roles column replaces separate leaderboards; tags and roles may apply to only one explicitly identified alternate. Do not stack alternate loadouts. Guard and contact counter-CC remain different functions, not interchangeable scores.
 
-| # | Tier | Profile (pts/SWC) | CC/combat package | Why / failure mode |
-|---:|---|---|---|---|
-| 1 | **S** | **Achilles 62/1.5 or 63/0 — Next Wave** | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons | Highest sustained direct-combat ceiling; huge Hackable investment and vulnerable to control networks. |
-| 2 | **S** | **Ajax 39/0 FTO or 45/0 FD(+20) — Steel** | CC24/MA3, NBW, EXP, Berserk, ARM5, 2W+NWI | Among the best survivable high-pressure melee combatants; FTO and FD options are distinct. |
-| 3 | **S** | **Hector Plasma 61/0 or LT 65/0 — Steel** | CC24/MA4, EXP, ARM5, 2W+NWI, Plasma, Strategos as LT | Elite repeated fighting plus command and shooting; not efficient if activated for one victim. |
-| 4 | **S** | **Shikami 42/0 — JSA/Ōban** | CC23/MA3, AP+DA, 2W, Eclipse, Mimetism(-6), climbing/jump | Best melee-plus-objectives mobility; high price and lower raw duel power than MA4 elites. |
-| 5 | **S/A** | **Sheskiin MULTI Rifle 48/0 — Shasvastii/CA** | CC24/MA4, DA, BS15, 2W, Protheion | Strong gun clears contact route; melee snowballs only against VITA victims. |
-| 6 | **A+** | **Hatamoto Plasma Carbine 34/0 — Shindenbutai/Vanilla JSA** | CC23/MA4, NBW, Monofilament/E/M, NCO, Specialist, Nanoscreen, 2W | Excellent duel/counter-CC and multi-role efficiency; no Infiltration or protected approach. |
-| 7 | **A+** | **Ioann Bann 32/0 — eligible roster** | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options | Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
-| 8 | **A+** | **Nourkias 48/1 — Onyx/CA** | CC25/MA4, Vorpal/E/M, Protheion, Super-Jump, NWI, NCO, Hacker | Very high sustained CC/toolbox ceiling; expensive, short range and vulnerable to cyber counterplay. |
-| 9 | **A+** | **Eudoros Mk12 36/0 — Steel** | CC23/MA4, DA, Mimetism(-6), NCO, Specialist, Mk12 | Strong melee plus scoring and active shooting; needs a safe approach. |
-| 10 | **A** | **Hippolyta 37/0 — Steel/O-12** | CC24/MA3, EXP, Berserk, Mimetism(-6), Smoke, Super-Jump, 2W, Limited Cover | Exceptional independently mobile assault, but less resilient/useful after contact than several higher-ranked hybrids. |
-| 11 | **A** | **Umbra Samaritan Plasma 37/0 — Onyx** | CC24/MA4, Vorpal/DA, Protheion, Super-Jump, NWI, NCO | Real CC snowball potential; delivery and VITA target access restrict dependable value. |
-| 12 | **A** | **Miyamoto Mushashi 21/0 or Regular FTO 25/0.5 — JSA** | CC25/MA5, EXP(PS4), NWI, Immunity(ARM) | Exceptional actual contact duel; has no native Smoke, Infiltration or ranged combat reach. |
-| 13 | **A** | **Joan of Arc MULTI Rifle 47/0 — Military Orders** | CC23/MA3, EXP, ARM5, 2W+NWI, Tactical Awareness, Inspiring Leadership | Strong durable frontline fighter and commander; expensive and LT exposure matters. |
-| 14 | **A** | **Takeshi 'Neko' Oyama 28/0 — JSA/Ōban** | CC24/MA3, DA/E-M(PS4), Berserk, 2W, Tactical Awareness | Excellent resilient contact fighter for 28pts; reach depends on terrain and legal team. |
-| 15 | **A** | **Asawira BSG(+1B) 32/0 — Hassassin Bahram** | CC23/MA2, DA(PS5), ARM4, 2W, Regeneration, Berserk(+3) | Strong repeat fighter with ranged clearing, but MA2 trails elite contact dice. |
-| 16 | **A/B** | **Valkyrie HSG 28/0 — White Company/eligible** | CC22/MA3, NBW, EXP(PS5), Berserk(+3), NWI, Immunity(Enhanced) | Dangerous anti-elite short-range brawler; 1W+NWI and 10-10 movement limit independent delivery. |
-| 17 | **A/B** | **9th Wulver T2 Rifle 29/0 — Caledonia** | CC23/MA3, NBW, AP+Shock(PS5), Berserk(+3), 2W, ARM3, Climbing Plus | Solid resilient duelist, particularly versus enemy MA; less single-hit damage than EXP/Monofilament. |
-| 18 | **A/B** | **Joan of Arc v2 Mobility 45/1 — Military Orders** | CC23/MA3, EXP, 2W+NWI, MOV15-5, AP Spitfire, Tactical Awareness | Faster shooting-led attack than standard Joan; ARM3 and SWC cost reduce CC efficiency. |
-| 19 | **A/B** | **Crux Father-Knight Hidden 47/0 — Kestrel/Vanilla PanO** | CC22/MA2, NBW, DA(PS5), Hidden, FD(+20), ARM5/2W, Specialist | Strong concealed approach and anti-CC defense; costly and weaker raw CC dice. |
-| 20 | **A/B** | **Yojimbo motorized 20/0 — Shindenbutai/Ōban** | CC24/MA4, DA, Smoke, CrazyKoala Minelayer, NWI, bike mobility | Strong independent threat for price; Irregular/Impetuous, large silhouette and 1W+NWI. |
+**Profile-data caveat:** this is a structural consolidation, not a fresh verification of pinned profiles. Existing prices are carried forward; the Rare Capabilities guide gives different Achilles SWC/roster details (62/2 or 63/1), so verify the current pinned profile before list submission.
+
+| # | Tier | Profile (pts/SWC) | Roles | Tags | CC package / delivery | Ranking basis / limits |
+|---:|---|---|---|---|---|---|
+| 1 | **S+** | **Oniwaban SMG 29/0 — JSA/Ōban** | Assassin | `Apex`, `Value`, `Unique` | CC24/MA4, Monofilament or E/M, Hidden + Infiltration(PH18), Mimetism(-6) | Outstanding precision anti-HI/TAG target removal at a lower price than Shinobu; 1W. |
+| 2 | **S+** | **Chimera + 3 Pupniks 19/0 — Bakunin** | Budget CC | `Value`, `Unique`, `Toolbox`, `Budget` | CC24, NBW, Viral(PS6), Eclipse, three DA(PS7) Pupniks | Strong synchronized close-combat package and delivery; Impetuous/Irregular, templates and positioning matter. |
+| 3 | **S+** | **Shinobu Kitsune 44/0.5 — JSA/Ōban** | Assassin | `Apex`, `Unique` | CC25/MA5, Monofilament, Hidden + Infiltration(PH19), Smoke, Climbing Plus | Highest single-target CC ceiling with excellent concealed delivery; 44pt/1W and screens restrict trades. |
+| 4 | **S+** | **Hatamoto Plasma Carbine 34/0 — Shindenbutai/Vanilla JSA** | Frontline, Counter-CC | `Apex`, `Value`, `Unique`, `Toolbox` | CC23/MA4, NBW, Monofilament/E/M, NCO, Specialist, Nanoscreen, 2W | Excellent duel/counter-CC and multi-role efficiency; no Infiltration or protected approach. Counter-CC: Cancels attacker-imposed negative CC MODs while retaining strong offensive dice; best general anti-premium contact package. |
+| 5 | **S+** | **Dāturazi Chain(+1B) 14/0 — Morat/CA** | Budget CC | `Value`, `Toolbox`, `Budget` | CC23/MA4, DA, Regular+Impetuous, Smoke, Warhorse | Two actual attack dice plus smoke/Regular support make exceptional whole-game CC value. |
+| 6 | **S** | **Speculo Killer BSG 26/1 — Shasvastii/CA** | Assassin | `Apex`, `Value`, `Unique` | CC22/MA3, Impersonation, Monofilament, Smoke | Exceptional deployment proximity and anti-premium damage; 1 SWC and screening are major costs. |
+| 7 | **S** | **Shikami 42/0 or 47/0 D-Charges — JSA/Ōban** | Frontline | `Apex`, `Unique`, `Toolbox`, `Classified Runner` | CC23/MA3, AP+DA, 2W, Eclipse, Mimetism(-6), climbing/jump; Specialist; 47pt alternate adds D-Charges (Classified Runner tag applies to that option: 9/20 audited in Mission Specialists). | Best melee-plus-objectives mobility; high price and lower raw duel power than MA4 elites. |
+| 8 | **S** | **Hussein Al-Djabel 33/0 — Hassassin Bahram** | Assassin | `Apex`, `Unique` | CC23/MA4, Impersonation, Viral(PS5), Smoke, Climbing Plus | Immediate deployment pressure and high WIP15; Viral matchup and one Wound limit returns. |
+| 9 | **S** | **Hassassin Fiday BSG 23/0 — Haqq/Bahram** | Assassin | `Apex`, `Value`, `Unique` | CC23/MA3, Impersonation, DA(PS6), Smoke | More affordable Impersonation CC assault than Hussein; strong versus exposed support, not instant TAG removal. |
+| 10 | **S** | **Ajax 39/0 FTO or 45/0 FD(+20) — Steel** | Frontline, Counter-CC | `Apex`, `Toolbox`, `Fireteam` | CC24/MA3, NBW, EXP, Berserk, ARM5, 2W+NWI | Among the best survivable high-pressure melee combatants; FTO and FD options are distinct. Counter-CC: Great hard-stop to melee aggression; expensive to expose and route dependent. |
+| 11 | **S** | **Miyamoto Mushashi 21/0 or Regular FTO 25/0.5 — JSA** | Budget CC, Frontline, Counter-CC | `Apex`, `Value`, `Fireteam`, `Budget` | CC25/MA5, EXP(PS4), NWI, Immunity(ARM) | Best pure contact CC dice near the price band; no native delivery, Irregular. Regular FTO 25/0.5 is a separate option (not Budget). Exceptional actual contact duel; has no native Smoke, Infiltration or ranged combat reach. Counter-CC: Very strong face-to-face retaliation; no NBW or Guard and can be bypassed. |
+| 12 | **S** | **Saito Tōgan 33/0 — JSA/Ōban** | Assassin | `Apex`, `Toolbox` | MA4, Hidden + Infiltration, EXP, Smoke, T2 Boarding Shotgun | Strong assassin with ranged follow-up; 1W and must defeat marker countermeasures. |
+| 13 | **S** | **Liang Kai 21/0 — many eligible rosters** | Budget CC | `Value`, `Budget` | CC23/MA4, EXP, Berserk, FD(+10), Super-Jump, NWI | Strong penetrating melee with modest forward start; one Wound plus NWI. |
+| 14 | **S** | **Achilles 62/1.5 or 63/0 — Next Wave** | Frontline | `Apex`, `Unique` | CC24/MA4, EXP, 3W, MOV15-10 and strong ranged weapons | Highest sustained direct-combat ceiling; huge Hackable investment and vulnerable to control networks. |
+| 15 | **S** | **Shona Carano 22/0 — eligible rosters** | Budget CC, Counter-CC | `Value`, `Fireteam`, `Budget` | CC23/MA4, AP+EXP, Super-Jump, NWI, Wildcard where legal | Efficient high-damage elite melee; deployment and link legality vary by army. Counter-CC: Very threatening contact counterattack; lacks NBW and may need Smoke escort. |
+| 16 | **S** | **Kinnara Scoutbot Parachutist 24/0 — ALEPH/OSS** | Assassin | `Apex`, `Value`, `Unique`, `Toolbox`, `Airborne` | CC23/MA2, Parachutist, Eclipse, Monofilament, Climbing Plus, Specialist | High-impact mobile Monofilament tool with smoke and secondary objectives; MA2/1STR makes contested CC dangerous. |
+| 17 | **S** | **Ioann Bann 32/0 — eligible roster** | Frontline | `Apex`, `Unique`, `Toolbox` | Dog-Warrior 3W, CC23/MA3, Berserk, AP+T2, Super-Jump, Smoke on 32pt options | Multi-fight pressure with gun/CC fork; Shindenbutai 30pt profile has **no Smoke**. |
+| 18 | **S** | **Sheskiin MULTI Rifle 48/0 — Shasvastii/CA** | Frontline | `Apex`, `Unique`, `Toolbox` | CC24/MA4, DA, BS15, 2W, Protheion | Strong gun clears contact route; melee snowballs only against VITA victims. |
+| 19 | **A+** | **Domaru E/M CCW 20/0 — JSA/Ōban** | Budget CC, Counter-CC | `Value`, `Budget` | CC24/MA3, Berserk, E/M(PS4), 2W, ARM3 | Affordable heavy anti-tech melee; allied smoke/link planning required. Excellent inexpensive deterrent in a protected team; exposed approach costs Orders. |
+| 20 | **A+** | **Cuervo Goldstein 33/0 — O-12** | Assassin | `Apex`, `Airborne` | CC23/MA4, Combat Jump/Parachutist, Monofilament/DA, NWI | Airborne delivery creates unexpected mono contact; cannot assume safe enemy-DZ edge or Specialist scoring. |
+| 21 | **A+** | **Makaul HFT/Eclipse/Viral 14/0 — Tohaa** | Budget CC | `Value`, `Unique`, `Toolbox`, `Fireteam`, `Budget` | CC23/MA2, Viral/DA, Eclipse, HFT, Triad | Approach plus melee support for a team; weaker contested CC dice than MA3/MA4. |
+| 22 | **A+** | **Ninja Tactical Bow 24/0 — JSA/Yu Jing** | Assassin | `Apex`, `Value` | CC23/MA3, Hidden + Infiltration, Mimetism(-6), DA(PS6) | Strong low-price concealed CC delivery; no Monofilament and only one Wound. |
+| 23 | **A+** | **Caliban BSG 24/0 — Shasvastii/CA** | Assassin | `Apex`, `Value`, `Unique` | CC23/MA3, Camo, FD(+20), Protheion, D-Charges | Marker ambusher that can grow on VITA victims; starting 1W and ordinary CCW weaken elite melee. |
+| 24 | **A+** | **Nightshades SMG 31/0 — O-12** | Assassin | `Apex`, `Unique` | CC22/MA3, Hidden, FD(+20), Mimetism(-6), E/M(PS6) and PARA(-6) | Excellent concealed disabling ambush against hackable heavies; E/M/PARA is not automatic lethality. |
+| 25 | **A+** | **Shaolin Monk DA CCW 6/0 — White Banner/Yu Jing** | Budget CC | `Value`, `Budget` | CC23/MA3, DA(PS5), Smoke | Outstanding literal cheap close combat; W1, Irregular+Impetuous and No Cover. |
+| 26 | **A+** | **Hector Plasma 61/0 or LT 65/0 — Steel** | Frontline | `Apex`, `Toolbox` | CC24/MA4, EXP, ARM5, 2W+NWI, Plasma, Strategos as LT | Elite repeated fighting plus command and shooting; not efficient if activated for one victim. |
+| 27 | **A+** | **Nourkias 48/1 — Onyx/CA** | Frontline | `Apex`, `Unique`, `Toolbox` | CC25/MA4, Vorpal/E/M, Protheion, Super-Jump, NWI, NCO, Hacker | Very high sustained CC/toolbox ceiling; expensive, short range and vulnerable to cyber counterplay. |
+| 28 | **A+** | **Eudoros Mk12 36/0 — Steel** | Frontline | `Apex`, `Toolbox` | CC23/MA4, DA, Mimetism(-6), NCO, Specialist, Mk12 | Strong melee plus scoring and active shooting; needs a safe approach. |
+| 29 | **A+** | **Yamabushi Camo(1 Use) 16/0 — Shindenbutai/Kestrel** | Budget CC | `Value`, `Budget` | CC23/MA3, DA, FD(+10), Dogged, Mimetism(-3) | Efficient forward-close assault; Camo is one use, limited durability. |
+| 30 | **A+** | **Hwarang LSG+Panzerfaust 19/0 — White Banner** | Budget CC | `Value`, `Budget` | CC22/MA3, EXP, 2W, ARM3, Albedo(-3) | Unusually durable and lethal for 19pt; less independent vision delivery than Smoke warbands. |
+| 31 | **A+** | **Motorized Yojimbo 20/0 — Shindenbutai/JSA/Ōban as rostered** | Budget CC, Frontline | `Apex`, `Value`, `Unique`, `Toolbox`, `Budget` | CC24/MA4, DA, NWI, Smoke, CrazyKoala, bike movement | Mobile budget assassin/defender; larger bike silhouette and Irregular activation. Strong independent threat for price; Irregular/Impetuous, large silhouette and 1W+NWI. |
+| 32 | **A+** | **Andromeda SMG 30/0** | Guard | `Apex`, `Value`, `Unique`, `Toolbox` | Guard, MA3, NWI, Infiltration, Mimetism(-3), D-Charges and Specialist give forward control | LoF **and** ZoC required; does not force Engaged or automatically kill |
+| 33 | **A+** | **Nahab BSG Specialist 32/0 — Ramah** | Assassin | `Apex`, `Toolbox` | CC23/MA3, Infiltration, Viral(PS6), NWI, Decoy, D-Charges | Useful assassin with lethal melee and button access; high price and conditional enemy VITA matchup. |
+| 34 | **A+** | **Hippolyta 37/0 — Steel/O-12** | Frontline | `Apex`, `Toolbox` | CC24/MA3, EXP, Berserk, Mimetism(-6), Smoke, Super-Jump, 2W, Limited Cover | Exceptional independently mobile assault, but less resilient/useful after contact than several higher-ranked hybrids. |
+| 35 | **A+** | **Igao Vulkan Shotgun 23/0 — Tohaa** | Assassin | `Apex`, `Value` | CC23/MA3, Camo + Infiltration, DA, close-range template | Strong midfield victim selection; 1W/ARM0 and no Monofilament. |
+| 36 | **A+** | **Reverend Cenobite LSG 20/0 — Bakunin** | Budget CC | `Value`, `Budget` | CC22/MA3, DA(PS6), Mimetism(-6), 2W, ARM3 | Strong compact brawler; Mimetism helps ranged approach, not CC dice. |
+| 37 | **A** | **Foot Yojimbo 19/0 — JSA/Ōban** | Budget CC | `Value`, `Unique`, `Toolbox`, `Budget` | CC24/MA4, DA, NWI, Smoke, CrazyKoala, S2 | Better tight geometry than bike; slower than motorized option, cannot field both identities. |
+| 38 | **A** | **Takeshi 'Neko' Oyama 28/0 — JSA/Ōban** | Frontline, Counter-CC | `Apex`, `Value` | CC24/MA3, DA/E-M(PS4), Berserk, 2W, Tactical Awareness | Excellent resilient contact fighter for 28pts; reach depends on terrain and legal team. Counter-CC: Durable close protection and heavy-state control; vulnerable to premium MA4/5 counters. |
+| 39 | **A** | **Señor Massacre BSG 25/0 — Corregidor/eligible** | Counter-CC | `Apex`, `Value`, `Toolbox` | MA3 + NBW, CC24, E/M, Eclipse | Strong specialist into hackable melee threats and protected contact; one Wound. Counter-CC: Strong specialist into hackable melee threats and protected contact; one Wound. |
+| 40 | **A** | **Diablo Trench-Hammer 8/0 — Corregidor** | Budget CC | `Value`, `Budget` | CC23, Berserk, NBW, 2W+Transmutation, Trench-Hammer | High impact per point if delivered; Irregular+Impetuous, no native Smoke. |
+| 41 | **A** | **Asawira BSG(+1B) 32/0 — Hassassin Bahram** | Frontline | `Apex` | CC23/MA2, DA(PS5), ARM4, 2W, Regeneration, Berserk(+3) | Strong repeat fighter with ranged clearing, but MA2 trails elite contact dice. |
+| 42 | **A** | **Sulsa Warrior BSG 28/0 — White Banner** | Assassin | `Apex` | CC23/MA3, Infiltration, one-use Camo, Mimetism(-6), Berserk, DA | Real midfield lethal threat; one-use Camo and higher price than Ninja limit relative ranking. |
+| 43 | **A** | **Cameronian 18/0 — Caledonia** | Budget CC | `Value`, `Budget` | CC23, T2, 2W, MOV15-10, Smoke, large S6 | Excellent pressure/trades; Irregular/Impetuous, large silhouette, no elite MA level. |
+| 44 | **A** | **Myrmidon Chain Rifle 16/0 — Steel/ALEPH** | Budget CC | `Value`, `Toolbox`, `Fireteam`, `Budget` | CC21/MA3, DA, Mimetism(-6), Smoke, Regular | Good melee escort and vision enabler; one W and lower CC. |
+| 45 | **A** | **Umbra Samaritan Plasma 37/0 — Onyx** | Frontline | `Apex`, `Unique` | CC24/MA4, Vorpal/DA, Protheion, Super-Jump, NWI, NCO | Real CC snowball potential; delivery and VITA target access restrict dependable value. |
+| 46 | **A** | **Raoul Spector Combat Jump 33/0 — StarCo/eligible** | Counter-CC | `Apex`, `Airborne` | MA3 + NBW, CC22, E/M(PS6), 2W, Mimetism(-6) | Excellent melee deterrent after landing/positioning; premium cost and Irregular AD option. Counter-CC: Excellent melee deterrent after landing/positioning; premium cost and Irregular AD option. |
+| 47 | **A** | **Valkyrie HSG 28/0 — White Company/eligible** | Frontline, Counter-CC | `Apex` | CC22/MA3, NBW, EXP(PS5), Berserk(+3), NWI, Immunity(Enhanced) | Dangerous anti-elite short-range brawler; 1W+NWI and 10-10 movement limit independent delivery. Counter-CC: Excellent anti-MA close defender; ranged/templates and one-Wound shell are real counters. |
+| 48 | **A** | **9th Wulver T2 Rifle 29/0 — Caledonia** | Frontline, Counter-CC | `Apex` | CC23/MA3, NBW, AP+Shock(PS5), Berserk(+3), 2W, ARM3, Climbing Plus | Solid resilient duelist, particularly versus enemy MA; less single-hit damage than EXP/Monofilament. Counter-CC: Strong defensive duel and climb/countercharge; not automatically a top assassin. |
+| 49 | **A** | **Jayth Cutthroat Chain(+1B) 21/0 — Shasvastii** | Budget CC | `Value`, `Budget` | CC23/MA3, DA(PS5), Berserk, Mimetism(-6), E/M grenades | Good melee at team-friendly price; limited independent route and W1. |
+| 50 | **A** | **Penthesilea 28/0 — eligible ALEPH/Steel** | Assassin | `Apex`, `Toolbox` | Fast bike, Smoke GL, CC Attack(-6), Monofilament, Specialist | Can threaten premium targets from an unexpected flank; S4 and no marker defense make contact hazardous. |
+| 51 | **A** | **Ekdromoi Chain Rifle 18/0 — Steel Phalanx** | Budget CC | `Value`, `Airborne`, `Budget` | CC22/MA3, DA, Combat Jump/Parachutist, Super-Jump | Airborne approach without paying for a heavy gun; 1W/ARM2 fragile. |
+| 52 | **A** | **Crux Father-Knight Hidden 47/0 — Kestrel/Vanilla PanO** | Frontline | `Apex`, `Toolbox` | CC22/MA2, NBW, DA(PS5), Hidden, FD(+20), ARM5/2W, Specialist | Strong concealed approach and anti-CC defense; costly and weaker raw CC dice. |
+| 53 | **B** | **Teutonic Knight LSG 18/0 — Military Orders** | Budget CC | `Value`, `Toolbox`, `Budget` | CC22/MA2, DA, 2W, ARM3, Panzerfaust | Low-cost armored fighter; Impetuous/Limited Cover and MA2 limit true duel ceiling. |
+| 54 | **B** | **Raindancer SMG+Chain 18/0 — Next Wave** | Budget CC | `Value`, `Fireteam`, `Budget` | CC23/MA3, Mimetism(-6), DA, Irregular, FTO | Strong affordable linked attacker when legal; otherwise activation economy hinders repeated CC. |
+| 55 | **B** | **Galwegian Chain+Smoke 5/0 — Caledonia** | Budget CC | `Value`, `Budget` | CC22, AP, Smoke, Irregular+Impetuous | Exceptional cheap screen/trade; materially weaker elite contested CC. |
+| 56 | **B** | **Varangian SMG+Chain+Smoke 12/0 — O-12** | Budget CC | `Value`, `Toolbox`, `Budget` | CC23, Berserk(+3), Dogged, Smoke, Regular | Cheap defender and assault screen; weaker advanced melee than actual MA3/4 troops. |
+| 57 | **B** | **Alpha CoC/LT 24/0 — O-12** | Guard | `Unique`, `Toolbox` | Guard, MA2/CC21, DA CCW and Biometric Visor for defensive objective/DZ protection | Less offensive reach, 1W and positioning-dependent |
+| 58 | **B** | **Joan of Arc MULTI Rifle 47/0 — Military Orders** | Frontline | `Apex`, `Toolbox` | CC23/MA3, EXP, ARM5, 2W+NWI, Tactical Awareness, Inspiring Leadership | Strong durable frontline fighter and commander; expensive and LT exposure matters. |
+| 59 | **B** | **Joan of Arc v2 Mobility 45/1 — Military Orders** | Frontline | `Apex`, `Toolbox` | CC23/MA3, EXP, 2W+NWI, MOV15-5, AP Spitfire, Tactical Awareness | Faster shooting-led attack than standard Joan; ARM3 and SWC cost reduce CC efficiency. |
+| 60 | **B** | **Jaguar Chain+Smoke 10/0 — Corregidor** | Budget CC | `Value`, `Budget` | CC22/MA1, DA, Dogged, Regular | Solid melee screen and vision/order enabler, but not an elite CC duelist. |
+
+**Near the cutoff, not ranked:** Van Zant 33/0 (AP+T2 melee but stronger as rear-entry gunfighter), Koga Ninjas 25–30 (E/M Camo pressure, often shoot first), Rasyat BSG 25/0 (Eclipse/AD shotgun attacker, MA2), and Penthesilea alternatives. **Not CC assassins for this list:** Andromeda (Guard/control), Pavel (Ohotnik marksman), Kunai Sniper and Ko Dali (CC19, gun/Protheion hybrid).
 
 **Outside the ranked frontline cutoff:** Shurayuki 30/0 (MA4/Viral and NWI, but no safe advanced entry); Mendoza HSG 40/0 (MA2, better gun attack); Perseus 33–34 (MA3/Smoke/NWI, good team utility); Jing Qo 32 (MA3/AP+DA/NWI, but mostly a mixed skirmisher); Wolfgang Wolff 33 (MA3/NBW? inspect roster-specific rules; better brawler than assassin); Shizoku HRL 33/1.5 (ranged-first); Bìxié 41 (mission/gun first); standard Umbra Legate 33–42 (MA3, ranged/hacker first). **Standard Joan and Mobility Joan are separate roster identities.**
 
-## 5) Budget CC value — maximum 22 points
+**Not Budget (solely by cost):** Fiday 23, Oniwaban 29, Igao 23, Caliban 24, McMurrough 23, Hatamoto 34, Pavel 33, Rasyat 25 and Raoul Spector 33. Their better role may be assassin, frontline, or general trading—not literal budget CC. Ranked options remain in the unified table; previously unranked options remain outside it. **Below this CC shortlist** despite reasonable Martial Arts: Sōhei Tsugekitai 16/0 (MA3/AP+Shock) and Jizamurai 21/0 (MA3/DA or E/M), where stronger delivery/weapon combinations occupy the limited ranked slots.
 
-**Hard cap: a selected profile costs ≤22 points, excluding supporting units that are explicitly included in its printed entry (e.g., Chimera+3 Pupniks).** This table measures actual ability to **threaten and deliver CC for the points**, not just raw d20 statistics, Smoke generation or generic warband trading. A single unit's mutually exclusive profiles are shown separately where their mobility materially differs. Roster availability and Regular/Irregular status still matter.
-
-| # | Value | Profile (pts/SWC) | Relevant melee/approach | Why it ranks here / weakness |
-|---:|---|---|---|---|
-| 1 | **S** | **Chimera + 3 Pupniks 19/0 — Bakunin** | CC24, NBW, Viral(PS6), Eclipse, three DA(PS7) Pupniks | Strong synchronized close-combat package and delivery; Impetuous/Irregular, templates and positioning matter. |
-| 2 | **S** | **Dāturazi Chain(+1B) 14/0 — Morat/CA** | CC23/MA4, DA, Regular+Impetuous, Smoke, Warhorse | Two actual attack dice plus smoke/Regular support make exceptional whole-game CC value. |
-| 3 | **S** | **Miyamoto Mushashi Irregular 21/0 — JSA** | CC25/MA5, EXP(PS4), NWI | Best pure contact CC dice near the price band; no native delivery, Irregular. |
-| 4 | **S** | **Liang Kai 21/0 — many eligible rosters** | CC23/MA4, EXP, Berserk, FD(+10), Super-Jump, NWI | Strong penetrating melee with modest forward start; one Wound plus NWI. |
-| 5 | **S** | **Shona Carano 22/0 — eligible rosters** | CC23/MA4, AP+EXP, Super-Jump, NWI, Wildcard where legal | Efficient high-damage elite melee; deployment and link legality vary by army. |
-| 6 | **S** | **Domaru E/M CCW 20/0 — JSA/Ōban** | CC24/MA3, Berserk, E/M(PS4), 2W, ARM3 | Affordable heavy anti-tech melee; allied smoke/link planning required. |
-| 7 | **S** | **Shaolin Monk DA CCW 6/0 — White Banner/Yu Jing** | CC23/MA3, DA(PS5), Smoke | Outstanding literal cheap close combat; W1, Irregular+Impetuous and No Cover. |
-| 8 | **S/A** | **Makaul HFT/Eclipse/Viral 14/0 — Tohaa** | CC23/MA2, Viral/DA, Eclipse, HFT, Triad | Approach plus melee support for a team; weaker contested CC dice than MA3/MA4. |
-| 9 | **S/A** | **Yamabushi Camo(1 Use) 16/0 — Shindenbutai/Kestrel** | CC23/MA3, DA, FD(+10), Dogged, Mimetism(-3) | Efficient forward-close assault; Camo is one use, limited durability. |
-| 10 | **A+** | **Hwarang LSG+Panzerfaust 19/0 — White Banner** | CC22/MA3, EXP, 2W, ARM3, Albedo(-3) | Unusually durable and lethal for 19pt; less independent vision delivery than Smoke warbands. |
-| 11 | **A+** | **Reverend Cenobite LSG 20/0 — Bakunin** | CC22/MA3, DA(PS6), Mimetism(-6), 2W, ARM3 | Strong compact brawler; Mimetism helps ranged approach, not CC dice. |
-| 12 | **A+** | **Cameronian 18/0 — Caledonia** | CC23, T2, 2W, MOV15-10, Smoke, large S6 | Excellent pressure/trades; Irregular/Impetuous, large silhouette, no elite MA level. |
-| 13 | **A+** | **Myrmidon Chain Rifle 16/0 — Steel/ALEPH** | CC21/MA3, DA, Mimetism(-6), Smoke, Regular | Good melee escort and vision enabler; one W and lower CC. |
-| 14 | **A+** | **Motorized Yojimbo 20/0 — JSA/Ōban** | CC24/MA4, DA, NWI, Smoke, CrazyKoala, bike movement | Mobile budget assassin/defender; larger bike silhouette and Irregular activation. |
-| 15 | **A+** | **Foot Yojimbo 19/0 — JSA/Ōban** | CC24/MA4, DA, NWI, Smoke, CrazyKoala, S2 | Better tight geometry than bike; slower than motorized option, cannot field both identities. |
-| 16 | **A+** | **Diablo Trench-Hammer 8/0 — Corregidor** | CC23, Berserk, NBW, 2W+Transmutation, Trench-Hammer | High impact per point if delivered; Irregular+Impetuous, no native Smoke. |
-| 17 | **A** | **Jayth Cutthroat Chain(+1B) 21/0 — Shasvastii** | CC23/MA3, DA(PS5), Berserk, Mimetism(-6), E/M grenades | Good melee at team-friendly price; limited independent route and W1. |
-| 18 | **A** | **Galwegian Chain+Smoke 5/0 — Caledonia** | CC22, AP, Smoke, Irregular+Impetuous | Exceptional cheap screen/trade; materially weaker elite contested CC. |
-| 19 | **A** | **Teutonic Knight LSG 18/0 — Military Orders** | CC22/MA2, DA, 2W, ARM3, Panzerfaust | Low-cost armored fighter; Impetuous/Limited Cover and MA2 limit true duel ceiling. |
-| 20 | **A** | **Ekdromoi Chain Rifle 18/0 — Steel Phalanx** | CC22/MA3, DA, Combat Jump/Parachutist, Super-Jump | Airborne approach without paying for a heavy gun; 1W/ARM2 fragile. |
-| 21 | **A** | **Raindancer SMG+Chain 18/0 — Next Wave** | CC23/MA3, Mimetism(-6), DA, Irregular, FTO | Strong affordable linked attacker when legal; otherwise activation economy hinders repeated CC. |
-| 22 | **A** | **Varangian SMG+Chain+Smoke 12/0 — O-12** | CC23, Berserk(+3), Dogged, Smoke, Regular | Cheap defender and assault screen; weaker advanced melee than actual MA3/4 troops. |
-| 23 | **A/B** | **Jaguar Chain+Smoke 10/0 — Corregidor** | CC22/MA1, DA, Dogged, Regular | Solid melee screen and vision/order enabler, but not an elite CC duelist. |
-
-**Excluded solely by cost:** Fiday 23, Oniwaban 29, Igao 23, Caliban 24, McMurrough 23, Hatamoto 34, Pavel 33, Rasyat 25 and Raoul Spector 33. Their better role may be assassin, frontline, or general trading—not literal budget CC. **Below this CC shortlist** despite reasonable Martial Arts: Sōhei Tsugekitai 16/0 (MA3/AP+Shock) and Jizamurai 21/0 (MA3/DA or E/M), where stronger delivery/weapon combinations occupy the limited ranked slots.
-
-## 6) Guard and counter-CC — distinct defensive mechanisms
+## 4) Guard and counter-CC — defensive mechanisms
 
 **Guard is not the same as winning a base-contact duel.** It permits CC against a target within actual **LoF and ZoC**, without requiring base contact, and can be a reactive control bubble. A Guard model is not automatically the best **counter-assassin** in base contact. **Natural Born Warrior (NBW)** matters when the defender is targeted by a CC Attack and itself declares CC Attack: it ignores negative MODs imposed by that attacker; it does **not** cancel the attacker's positive MA bonuses.
-
-### 6A. Guard control bubbles
-
-| # | Tier | Unit | Defensive function | Limitation |
-|---:|---|---|---|---|
-| 1 | **S** | **Andromeda SMG 30/0** | Guard, MA3, NWI, Infiltration, Mimetism(-3), D-Charges and Specialist give forward control | LoF **and** ZoC required; does not force Engaged or automatically kill |
-| 2 | **A** | **Alpha CoC/LT 24/0 — O-12** | Guard, MA2/CC21, DA CCW and Biometric Visor for defensive objective/DZ protection | Less offensive reach, 1W and positioning-dependent |
-
-### 6B. Contact counter-assault / anti-elite CC
-
-| # | Tier | Defender (pts/SWC) | Counter-CC tools | When useful / failure mode |
-|---:|---|---|---|---|
-| 1 | **S** | **Hatamoto Plasma 34/0** | MA4 + NBW, CC23, Monofilament/E/M, 2W, Nanoscreen | Cancels attacker-imposed negative CC MODs while retaining strong offensive dice; best general anti-premium contact package. |
-| 2 | **S/A** | **Ajax 39/0 or FD 45/0** | MA3 + NBW, CC24, EXP, Berserk, ARM5, 2W+NWI | Great hard-stop to melee aggression; expensive to expose and route dependent. |
-| 3 | **A+** | **Miyamoto Mushashi 21/0** | MA5 CC25, EXP(PS4), NWI | Very strong face-to-face retaliation; no NBW or Guard and can be bypassed. |
-| 4 | **A+** | **Señor Massacre BSG 25/0 — Corregidor/eligible** | MA3 + NBW, CC24, E/M, Eclipse | Strong specialist into hackable melee threats and protected contact; one Wound. |
-| 5 | **A+** | **Valkyrie HSG 28/0 — eligible** | MA3 + NBW, EXP(PS5), Berserk(+3), NWI | Excellent anti-MA close defender; ranged/templates and one-Wound shell are real counters. |
-| 6 | **A+** | **9th Wulver T2 Rifle 29/0 — Caledonia** | MA3 + NBW, CC23, AP+Shock(PS5), 2W, ARM3 | Strong defensive duel and climb/countercharge; not automatically a top assassin. |
-| 7 | **A** | **Raoul Spector Combat Jump 33/0 — StarCo/eligible** | MA3 + NBW, CC22, E/M(PS6), 2W, Mimetism(-6) | Excellent melee deterrent after landing/positioning; premium cost and Irregular AD option. |
-| 8 | **A** | **Shona Carano 22/0 — eligible** | MA4 CC23, AP+EXP, NWI | Very threatening contact counterattack; lacks NBW and may need Smoke escort. |
-| 9 | **A** | **Takeshi 'Neko' Oyama 28/0 — JSA** | MA3 CC24, DA/E/M, 2W, Tactical Awareness | Durable close protection and heavy-state control; vulnerable to premium MA4/5 counters. |
-| 10 | **A** | **Domaru E/M 20/0 — JSA** | MA3 CC24, E/M, Berserk, 2W | Excellent inexpensive deterrent in a protected team; exposed approach costs Orders. |
 
 **Screening remains relevant:** Dāturazi, Makaul, Yojimbo and inexpensive sacrificial bodies can prevent a premium CC attacker reaching the protected asset without themselves winning a duel. Only include other models in a CC at the actual N5.3 participation threshold; Fireteam/Peripheral/Coordinated actions do **not** automatically confer unrestricted +B.
 
 **Counterplay:** Shoot dangerous assassins from outside contact/Guard range; layer mines, template coverage and Discover/Sensor around valuable targets. Against Guard, stay outside **LoF+ZoC**. Against NBW, do not rely on Surprise, MA negative MODs or PARA penalties to win the CC Face-to-Face; compare the defender's armor and the attacker's weapon.
 
-## 7) TAGs that have strong CC — **separate category**
+## 5) TAGs that have strong CC — **separate category**
 
 | TAG | CC value only as a secondary reason to buy it | Why its list-building cost is different |
 |---|---|---|
@@ -238,7 +220,7 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | **Sphinx93pt**, Shasvastii | **DA CCW + Hidden/Climbing/Mimetism−6** can finish what its gun/ambush starts | 93pt hidden TAG is an **attack/fire lane package**. Do not grade it better than Shinobu just because 3STR; its CC20 is lower and expensive to pin. |
 | **Other TAGs with competent high-CC/anti-armor sidearms** | Defend from a cheap enemy locking them in Engaged; clean up Immobilized/Unconscious models when safe | Big bases often cannot enter objective-room geometry; hackers/E/M and multiple cheap defenders make forced melee a bad value. [Full TAG tiers](tags.md). |
 
-## 8) Transcript-backed sources and **opposing opinions**
+## 6) Transcript-backed sources and **opposing opinions**
 
 *These conclusions use **full transcripts retrieved with the YouTube or podcast MCP**, not just titles. Older recordings are commentary and never override the pinned 2026 profile (e.g., N5 MA uses +SD/+B, not older damage bonuses).*
 
@@ -256,13 +238,13 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 **Community counterpoint (older, predates N5.3):** [Tips for JSA n00b (Reddit, January 2024)](https://www.reddit.com/r/InfinityTheGame/comments/1911hij) argues that JSA's melee plan often becomes **Order-inefficient when long-range AROs require detours or gun-based clearance**. [First game against JSA — counterplay (Reddit, March 2022)](https://www.reddit.com/r/InfinityTheGame/comments/th3ir2) recommends **range, Mimetism, hacking and templates** against sword-heavy JSA. These are historical strategic opinions, *not* N5.3 profile/rules evidence or measured win rates.
 
 ### Where existing repository notes needed updating, not duplicating
-- [CC doctrine](../Strategy/close-combat-and-short-range-assault.md) establishes route geometry, engagement and ganging-up. **This guide adds current precise units/costs, separate apex/value tiers and matchups.**
+- [CC doctrine](../Strategy/close-combat-and-short-range-assault.md) establishes route geometry, engagement and ganging-up. **This guide adds current precise units/costs, a unified ranking, profile tags and matchups.**
 - [Warband tier](warbands-and-cheap-trading-units-apex-value.md) prioritizes cheap **smoke/trade** (5pt Galwegian, 8pt Diablo, 14pt Makaul/Dāturazi). They stay excellent *value* but do **not** outrank actual Hidden Monofilament assassins on target-removal ceiling.
 - [Airborne enemy-DZ tier](airborne-and-enemy-dz-attackers-apex-value.md) prioritizes **Rasyat/Van Zant/Fiday/Speculo** for reaching the enemy rear; it is not a claim Rasyat is a better **CC duelist** than Shinobu/MA5 Mushashi.
 - Some older [Berserk](../../rules/5b_Special%20Skills/Berserk.md) unofficial commentary describes the Long Skill and FTF correctly but other older discussions imply "automatic Normal-roll trade"; **not N5.3**.
 - **Guard** and **Natural Born Warrior** require their own rule conditions; when facing both a monster assassin and cheap screen, it is often optimal to **shoot the screen, CC the undefended shooter, then leave** rather than duel a second monster at all.
 
-## 9) Pick by situation
+## 7) Pick by situation
 
 | Opponent/table/mission | Start with | When to reject |
 |---|---|---|
@@ -274,4 +256,4 @@ For one target count: **(1) Orders to reach contact / legal Guard position + (2)
 | Need smoke and a cheap door-opening attack | **Makaul14 Eclipse**, **Dāturazi14 Regular Smoke/MA4**, **Myrmidon16**, **Galwegian5**, **Jaguar10** | Enemy MSV into ordinary Smoke, route lacks actual safety |
 | First-turn distant CC charge | **Usually don't**. Clear ARO with your gun, attack from new angle, or use a real marker/Impersonation delivery. | Count success only because "CC25" looks impressive. |
 
-**Bottom line:** rank an assassin by **target relevance × achievable contact × winning contest × useful result**, divided by **list points, Orders, resources and survival risk**. **Check printed weapon PS overrides and actual kill/Wound threshold before giving Monofilament automatic preference** over low-PS DA/AP+T2 alternatives. In ordinary game plans, a hidden **29pt Oniwaban**, a **21pt Mushashi kept as counter-charge** and a **42pt Shikami mission runner** may all be **S-tier**—but for three completely different reasons.
+**Bottom line:** rank an assassin by **target relevance × achievable contact × winning contest × useful result**, divided by **list points, Orders, resources and survival risk**. **Check printed weapon PS overrides and actual kill/Wound threshold before giving Monofilament automatic preference** over low-PS DA/AP+T2 alternatives. In ordinary game plans, a hidden **29pt Oniwaban**, a **21pt Mushashi kept as counter-charge** and a **42pt Shikami mission runner** can all be excellent investments—but for three completely different reasons.
