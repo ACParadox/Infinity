@@ -46,7 +46,74 @@ _Last researched: 2026-10-22. Evidence: YouTube MCP transcripts of Tactical Awar
 
 **Trade-off versus Vanilla:** Onyx gives up Avatar, Anathematic, Charontid, Sheskiin, Speculo Killer, Dāturazi Smoke and the broader Vanilla mix of Impersonation, Smoke/Eclipse and elite hacking. Its advantage is **Fireteam support, TAG AVA, recoverable robotic bodies and linked specialists**, not universal tool access.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 20 | A+ | Nexus Operative — 23/0; roster examples: Onyx; Vanilla Combined | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 34 | A | EXO, Exrah Executive Officer — 19/0.5; 22/0.5; roster examples: Onyx | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 37 | B | Umbra Legate FTO — 38/0; roster examples: Onyx; Vanilla Combined | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 17 | — | Netrod 6/0 (ALEPH / OSS / Steel Phalanx) or Ímetron 6/0 (Vanilla CA / Onyx) (one functional family) | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 28 | A+ | Nourkias 48/1 — Onyx/CA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 47 | A | Umbra Samaritan Plasma 37/0 — Onyx | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 4 | S | Med-Tech Obsidon21/0 WIP14 Doctor + Engineer, MOV15-10 — eligible Combined sectorials — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 2 | S | Med-Tech Obsidon21/0 WIP14 Engineer + Doctor — Combined — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 16 | S | Fraacta BSG+Adhesive Launcher Rifle19/0 — Onyx | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 45 | A+ | Ko Dali airborne MULTI Rifle37/0 — Combined/Onyx/Next Wave as legal | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 64 | A | Sphinx93/2 — Shas/Combined | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 75 | A | Greif Operator IMP-2 Breaker Combi21/.5 — Onyx/Combined/Tohaa | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 80 | C | Caskuda Combat Jump TAG64/1 — Onyx/Vanilla Combined | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 31 | A+ | Maakrep HMG29/1.5 — Onyx | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 31 | A+ | WCD Vector MULTI MMR24/0.5 — Combined/Onyx | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 53 | A | Greif Shock Marksman 25/0 — Onyx | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 1 | S | Overdron AP HRMC62/1.5 — Combined/Onyx | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 39 | B+ | Sphinx Spitfire93/2 — Shas | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 6 | S | Bit & KISS! HD + Trinity 25/0.5 (Combined/Onyx) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 7 | S | Rodok HD + Trinity 24/0 (Onyx/Vanilla Combined/Morat) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 16 | S | Bit & KISS! KHD + Oblivion 22–24/0.5 (Combined/Onyx) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 24 | A+ | Kerr-Nau KHD + White Noise 30/0, optional 35/0 (Onyx) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 28 | A+ | Nourkias HD + Total Control/Trinity 48/1 or LT 46/1 — Combined/Onyx | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 31 | A+ | Umbra Samaritan dual HD + KHD 43/0.5 (Onyx) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 54 | A | Nexus Operative HD + Oblivion(+1B) 24/0.5 — Onyx/Next Wave | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 63 | A | WCD Base Operator HD 18/0.5 — Onyx/Combined | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 87 | B | Fraacta HD 25/0.5 — Onyx/Combined | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 8 | S | Bit & KISS! HD + Trinity 25/0.5 (Combined/Onyx) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 9 | S | Bit & KISS! KHD + Oblivion 22–24/0.5 (Combined/Onyx) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 13 | S | Rodok HD + Trinity 24/0 (Onyx/Vanilla Combined/Morat) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 23 | A+ | Kerr-Nau KHD + White Noise 30/0, optional 35/0 (Onyx) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 29 | A+ | Nourkias HD + Total Control/Trinity 48/1 or LT 46/1 — Combined/Onyx | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 39 | A | Umbra Samaritan dual HD + KHD 43/0.5 (Onyx) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 74 | B | Malignos 32/0 | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 85 | B | WCD Void Operator KHD + Cybermine 20/0 — Onyx/Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 40 | S | Ko Dali Specialist Operative 34/0 FD+20/Mimetism(-3) or 37/0 Combat Jump — Combined/Onyx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 71 | S | M-Drone FO/Sensor 15/0 (TacAware 18/0) — Combined | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 144 | A+ | Bit & KISS! HD+Trinity25/.5 or KHD+Oblivion24/.5 — Onyx/eligible Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 166 | A | Fraacta HD25/.5 — Onyx | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 175 | A | Nexus SO 22 / Engineer 23 / HD 24–27 — Onyx/Combined (separate profiles) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 180 | A | Umbra Samaritan HD+KHD Plasma Rifle43/.5 — Onyx/eligible Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 181 | A | Umbra Legate FTO — HDplus + D-Charges 38/0.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 208 | B+ | Kerr-Nau KHD30/0 — Onyx | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 14 | A+ | Kerr-Nau KHD/White Noise/Pitcher 30/0 — Onyx | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 28 | A | Bit & KISS! 24–25/.5 selected loadout — Combined / Onyx / Next Wave as legal | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 7 | S | M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0 — Combined / Next Wave as legal | Existing local profile match; verify exact variant |
+| [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 11 | A+ | Combined/Onyx: Bit & KISS!25/.5 specific Repeater-KISS package + suitable support; alternatively legal Umbra Legate FTO HD+/Pitcher38/.5 | Existing local profile match; verify exact variant |
+| [4. Best package](../list-building/network-projection-ranking.md#4-best-package) | 15 | A+ | Onyx: Kerr-Nau KHD/Pitcher30/0 in the Unidron-context Wildcard + legal supporting Hacker/native nodes | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 12 | A | Overdron — Combined / Onyx | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 27 | B | Xeodron — Combined / Onyx | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 5 | S+ | Ko Dali FD+20 34/0 or Combat Jump 37/0 (Combined/Onyx/Next Wave where legal) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 8 | S+ | Malignos FO 30/0, KHD+Dazer 32/0 or HD 34/.5 (Shas/Combined/Onyx) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 22 | S | Nourkias 48/1 (Vanilla CA) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 26 | S | Nexus Engineer+E/Mitter 23/0 or HD+Oblivion(+1B) 24/.5 or HD+Carbonite(+1B) 27/.5 (Onyx/CA) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 27 | S | Combined Bit & KISS! HD+Trinity 25/.5 (exact eligible roster) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 53 | A+ | Umbra Samaritan dual HD+KHD Plasma 43/.5 (Combined/Onyx as rostered) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 55 | A+ | Kerr-Nau KHD+White Noise/Pitcher 30/0 (Onyx) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 11 | S | Ko Dali Combat Jump37/0 or Forward Deployment(+20)34/0 — Onyx/Combined/Next Wave | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 27 | A+ | Nourkias Hacker48/1 or Lieutenant Hacker46/1 — Onyx/Combined | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 29 | A+ | Umbra Samaritan Plasma Rifle37/0, Hacker43/.5 or Lieutenant35/0 — Onyx | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Ranking rule:** Consolidated by unit/package, sorted by the **strongest numeric role-specific placement (#1 first, then #2, #3, etc.)**. Ties favor Apex, then Value. Multiple rankings for the same unit share a row; **different loadouts remain different profiles**. Exact #1–5 positions are **bold**; #6–10 are not. Separate Protheion, gunfighter, specialist, network and other rank scales must **not** be mistaken for one overall tier or tournament win-rate ranking. These are the repository's cross-faction editorial placements from November 2026, checked against [Onyx N5.3 profiles](../../sectorials/combined-army/onyx.md).
 
