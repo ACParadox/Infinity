@@ -1,6 +1,6 @@
 # List-Building Strategy — List Robustness and Threat Coverage
 
-**Mission resilience check:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) compares cheap durable objective carriers, backup retrieval specialist, mission-specific Baggage, Shasvastii Embryo and TAG VP-swing roles. Rate **scoring after primary gun dies**, not only list firepower.
+**Mission resilience check:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](../list-building/objective-holding-zone-domination-and-carriers-ranking.md) compares cheap durable objective carriers, backup retrieval specialist, mission-specific Baggage, Shasvastii Embryo and TAG VP-swing roles. Rate **scoring after primary gun dies**, not only list firepower.
 
 A strong Infinity list should not merely contain powerful pieces. It should have **credible answers to the main problems an opponent or mission can present**, and it should continue functioning after losing one important piece.
 
