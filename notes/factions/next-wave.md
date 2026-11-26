@@ -39,6 +39,16 @@ See [Vehicles](../list-building/vehicles-vh.md) and [TAGs](../list-building/tags
 
 **What is not Next Wave-exclusive:** Cyberplug technology itself, Ko Dali's stand-alone attack/specialist roles, Achilles as a solo gunfighter, and shared Combined remotes (Q-/M-/E-/R-/T-Drones, Ikadrons). Next Wave's distinctive value is their *specific Fireteam access, controller economics, AVA and supporting roster*. Compared with Vanilla, it sacrifices the Avatar/Sphinx/Overdron/Caskuda and premier Impersonation/hacking breadth for hero-led Core teams, converted durable Irregulars and vertical Vehicle pressure.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Achilles** | Plasma Rifle63/0; AP Spitfire62/1.5 separate | [Zone S #4 (plasma)](../list-building/objective-holding-ranking.md) · [Gunfighters S #1 (medium, Spitfire)](../list-building/gunfighters-ranking.md) · [CC S #14](../list-building/close-combat-ranking.md) · [Unique S #8](../list-building/unique-units-ranking.md) | A top concentrated-VP anchor and premium mobile attacker; expensive, hackable, Frenzy/No Cover. Check exact local SWC. |
+| **Shadowcrow Operator** | E/Mitter airborne31/0; AP Thunderbolt FTO31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) · [Gunfighters A+ #25 (long, FTO)](../list-building/gunfighters-ranking.md) | Local SO shares mission rank; separate FTO profile ranks for ranged fighting. Nomads E/Marat24/0 is not available here. |
+
 ### Whole-game standouts — apex versus value
 
 **Sorted by strongest role-specific placement first:** #1 positions, then Top 3, Top 5 and Top 10. Apex and Value are distinct rankings; listed ranks are not overall unit strength or win rates.
