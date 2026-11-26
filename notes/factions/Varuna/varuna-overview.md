@@ -35,7 +35,45 @@ _The following are current global profile-specific ranks, not local faction tier
 |---|---|---|---|
 | **Knight of Montesa (foot)** | FD(+20) BSG Paramedic26/0 | [Zone A+ #23](../../list-building/objective-holding-ranking.md) | ARM4/BTS6/2W and Mimetism make a practical forward zone anchor; distinguish FTO20/0 and motorcycle21/0 (DZ attacker S #23). |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 9 | A+ | Cutter LT MULTI HMG 95/2.5 — Vanilla PanO / Varuna | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 11 | S | Varuna Helot Neurocinetics — six 10–15pt LRL / Shock MMR / Red Fury profiles | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 15 | A+ | Kamau 29/1.5 MSV2 MULTI Sniper — Varuna | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 56 | A | 23pt Kamau MSV1 Heavy Rocket Launcher — Varuna | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 15 | — | Tech-Bee 9/0 — eligible PanO | Existing local profile match; verify exact variant |
+| [Unified ranking — cheerleaders and order generators](../../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 30 | — | Varuna Patsy Garnett34 + 2 Helot FTO10 = 54/0 (18 pts/Order) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 23 | S | Motorized Knight of Montesa BSG21/0 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 72 | A | Echo-Bravo BSG(+1B)+LRL26/0, Paramedic27/0 — Varuna | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 26 | A+ | Kamau HMG26/1 — Varuna | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 18 | A+ | Bulleteer Spitfire 22/1 — Varuna | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 35 | A+ | Richard Quinn MULTI MMR Forward Observer26/0 — NCA/Varuna/Kestrel/WinterFor | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 7 | S | Squalos Mk-II MULTI HMG NCO66/1.5 — PanO | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 10 | A+ | Cutter MULTI HMG97/2 — PanO | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 17 | A+ | Squalos Mk-II MULTI MMR55/1 — PanO | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 60 | A | Kamau HD + FastPanda 22/0.5 — Varuna | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 71 | B | Croc Man HD 33/0.5 — Varuna/PanO | Roster named in source |
+| [Unified Killer Hacker ranking](../../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 48 | A | Zulu-Cobra 26/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 7 | S | Peacemaker Heavy Shotgun/Pulzar + Auxbot-3 23/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 81 | A+ | Croc Man FO 30 or HD 33/.5 — Varuna/PanO | Roster named in source |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 87 | A+ | Zulu-Cobra FO24/0 or KHD26/0 — Vanilla PanO/Varuna; Zulu-Cobra FO24/0 — Varuna/PanO | Roster named in source |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 211 | B+ | Echo-Bravo Paramedic27/0 — Varuna | Roster named in source |
+| [Pitchers — Unified ranking](../../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 12 | S | Zulu-Cobra KHD/Pitcher 26/0 — Varuna / Vanilla PanO | Roster named in source |
+| [2. Best Turn-0 network](../../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 11 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 20 | A+ | Kamau HD/FastPanda22/.5 — Varuna | Roster named in source |
+| [Best — cross-faction TAG ranking](../../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 4 | S | Cutter — Vanilla PanO / Varuna | Roster named in source |
+| [Best — cross-faction TAG ranking](../../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 6 | A | Squalos Mk-II — Vanilla PanO / Kestrel / Neoterra / Varuna | Roster named in source |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 81 | A+ | Richard Quinn FO+Disco or FO+MMR 26/0 (Varuna/WinterFor/NCA/Kestrel as legal) | Roster named in source |
+| [Unified ranking — vision control units](../../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 26 | — | Richard Quinn FO Disco 26/0 — Varuna | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: A — #13 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Helots and Kamau force costly ARO interactions while Zulu-Cobras and Montesas score; excellent defensive efficiency, but somewhat reactive-plan dependent.
 
