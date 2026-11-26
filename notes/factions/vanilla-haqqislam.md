@@ -4,6 +4,16 @@
 
 **What Vanilla Haqqislam does exceptionally well:** combine an unusually efficient command engine with cheap disruption, Impersonation, camouflage, hacking and several independent attack routes. **Saladin + eligible Irregular troops** converts inexpensive roadblocks into a usable Regular Order pool; **Hafza LT(+1 Order) + Sekban NCO** is a leaner alternative.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Bokhtar** | 49/0 airborne option | [Mission A+ #92 (Bahram reference)](../list-building/mission-specialists-ranking.md) · [Toolbox A+ #57 (Bahram reference)](../list-building/toolbox-units-rankings.md) · [DZ attack A #63 (Bahram reference)](../list-building/dz-attackers-ranking.md) | Check the local profile: the pinned Vanilla roster does not explicitly list Paramedic on its 49pt option. Do not import the Bahram specialist or FTO permissions. |
+| **Shadowcrow Operator** | Contender airborne27/0; Thunderbolt FTO30/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) | Local profile-specific scoring; Nomads E/Marat24/0 is a different version. |
+
 ### Whole-game standouts — apex versus value
 
 **Faction tier / overall rank: A — #11 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Saladin's proven cheap-Irregular economy is less efficient after Daylami become Regular and Ghazi/Hunzakut/Bashi AVA falls; both Haytham and Zeybek are weaker. Shakush and Yara improvements and the remaining specialist/Impersonation toolbox keep it in A.
