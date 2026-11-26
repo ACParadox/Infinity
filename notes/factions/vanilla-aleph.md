@@ -26,6 +26,16 @@
 
 **Versus its own sectorials:** OSS gives up Vanilla's Myrmidon/Penthesilea/Hippolyta normal-Smoke axis in exchange for Fireteams, different AVAs and some improved loadouts. Steel Phalanx gets Greek linked teams and heroes but not Vanilla's Posthuman/Marut/Asura/Pilot-X high-tech core. **Vanilla has no normal Core, Haris or Duo Fireteam chart** despite FTO-labelled profiles. The full toolkit cannot realistically fit together in a single 300-point list.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **K2 Auxiliar** | E/Marat FTO11/0; airborne SO18/0 separate | [Warbands S #13](../list-building/warbands-ranking.md) · [Toolbox A+ #48 (SO)](../list-building/toolbox-units-rankings.md) · [Mission S+ #19 (SO)](../list-building/mission-specialists-ranking.md) · [Zone A #32 (FTO)](../list-building/objective-holding-ranking.md) · [Cheerleaders #2 (FTO)](../list-building/cheerleaders-ranking.md) · [DZ defense S+ #4 (FTO)](../list-building/dz-defenders-ranking.md) | Excellent cheap order/trader and distinct airborne scorer, not a conventional HI gun. The 12pt Mine Dispenser profiles are alternatives. Only use the legal local fireteam chart. |
+| **Shadowcrow Operator** | E/Mitter airborne31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) | Mission rank applies to the local SO; Nomads E/Marat24/0 is the reference for DZ S #17/toolbox S #24, not an ALEPH profile. |
+
 ### Whole-game standouts — apex versus points value
 
 **Ranking order:** Strongest verified **role-specific numeric rank first** (**#1, then #2 through #10**); equal ranks place Apex before Value, then group by tactical significance. Higher *placement* means a **smaller** ordinal number. **Apex** denotes maximum impact; **Value** denotes efficiency for the full legal package. **Top-five** positions and their matching exact profiles are bold; #6–10 are regular. A combined ranking is explicitly marked rather than inventing separate Apex/Value ranks. These are editorial comparisons, **not tournament win rates or overall unit rankings**. Consult the [pinned Vanilla N5.3 roster](../../sectorials/aleph/aleph.md) for correct loadouts and AVA.
