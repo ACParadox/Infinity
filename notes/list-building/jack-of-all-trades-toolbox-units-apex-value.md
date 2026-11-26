@@ -224,7 +224,7 @@ _YouTube transcript request for [Tactical Awareness Tohaa](https://www.youtube.c
 
 ## Existing companion guides
 
-- [Mission specialists and button pushers](mission-specialists-and-button-pushers-ranking.md)
+- [Mission specialists and button pushers](mission-specialists-ranking.md)
 - [Hacker and killer-hacker hybrids](hackers-and-killer-hackers.md)
 - [Active gunfighters](active-turn-gunfighters-ranking.md)
 - [Command units](command-units-apex-and-value.md)

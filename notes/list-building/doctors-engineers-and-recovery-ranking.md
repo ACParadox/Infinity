@@ -29,7 +29,7 @@
 - `Value`: former S/A+ points-value ratings or former value top-ten entries, including conditional value where stated.
 - `Unique`: materially differentiated recovery, delivery or role-compression package.
 - `Toolbox`: substantial second job beyond ordinary recovery and basic specialist status.
-- `Classified Runner`: documented meaningful Classified delivery or broad audited package coverage (see [mission specialists](mission-specialists-and-button-pushers-ranking.md)); ordinary Doctor/Engineer eligibility alone is insufficient.
+- `Classified Runner`: documented meaningful Classified delivery or broad audited package coverage (see [mission specialists](mission-specialists-ranking.md)); ordinary Doctor/Engineer eligibility alone is insufficient.
 - `Airborne`: actual recovery profile with Parachutist/Combat Jump, not merely an airborne patient.
 - `Fireteam`: useful legal linked recovery profile; verify exact roster and restrictions.
 - `Budget`: at least one listed recovery option at 20 points or less; mandatory package costs and Irregular Orders still count. A Posthuman Mk.1 is not standalone budget support.
