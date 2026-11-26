@@ -307,7 +307,7 @@
 
 - [Mission scoring and specialists](../Strategy/mission-scoring-and-specialist-strategy.md); [order efficiency](../Strategy/order-efficiency.md); [Fireteams and profile legality](../Strategy/fireteams-and-profile-evaluation.md).
 - [Objective holding, domination and carriers](objective-holding-zone-domination-and-carriers-apex-value.md) for scenarios where surviving **after** the console or pickup matters most.
-- [Hackers](hackers-apex-and-value.md), [Killer Hackers](killer-hackers-apex-and-value.md), and [Hybrid Hackers](hybrid-hackers-apex-and-value.md) for **raw hacking power**; those are separate from scoring rankings.
+- [Hackers](hackers-apex-and-value.md) and [Killer Hackers](killer-hackers-apex-and-value.md) for **competitive hacking capability, including hybrid profiles**; those are separate from scoring rankings.
 - [Doctors and Engineers — recovery reliability](doctors-engineers-and-recovery-apex-value.md); [toolbox specialists](jack-of-all-trades-toolbox-units-apex-value.md); [LT/CoC command value](command-units-apex-and-value.md).
 - [Robert Shepherd — O-12 faction focus](https://www.youtube.com/watch?v=9Nl8BMJ8E5U&t=2640s) (reviewed in project notes), and [Hassassin Bahram episode](https://www.youtube.com/watch?v=Yqy3FwN7hjQ) for the historical Farzan FO-vs-CoC tradeoff. **Correction to older commentary:** Farzan CoC is not a generic Specialist in the pinned roster.
 
