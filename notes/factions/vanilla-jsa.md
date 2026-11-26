@@ -34,6 +34,16 @@ The usual payoff is **concealment and route creation → one precise assault or 
 
 **Not Vanilla-exclusive as individual capabilities:** Shinobu/Oniwaban Hidden Monofilament assassination, Shikami's Eclipse/vertical scoring, Karakuri STR3 specialist holding, Tankō Disco projected Eclipse, Kempeitai CoC, Mushashi MA5/EXP and Rui Shi MSV2 are all available in Ōban; several also appear in Shinden. **Ōban often links or fields more copies of these pieces**. Shinden's exclusive Tanuki hacker/Disco, Metsuke Strategos, Yamabushi and Sayō teams do not transfer to Vanilla. **Vanilla also lacks standard-roster Yojimbo and Kuroshi Rider**, and it has **0 Core / 1 Haris / 2 Duos** rather than the sectorials' broader Fireteam economy.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Hatamoto** | Plasma Carbine SO34/0; Red Fury40/1 separate | [Zone S #7](../list-building/objective-holding-ranking.md) · [CC S+ #4](../list-building/close-combat-ranking.md) · [Gunfighters A+ #8 (medium)](../list-building/gunfighters-ranking.md) · [Toolbox S- #42](../list-building/toolbox-units-rankings.md) · [Mission A+ #105](../list-building/mission-specialists-ranking.md) · [LT S #1 (LT variants)](../list-building/LT-ranking.md) | Efficient zone anchor with Nanoscreen, Mimetism and strong melee; preserve distinct LT and gun profiles. |
+| **Shadowcrow Operator** | E/Mitter airborne31/0; Thunderbolt/AP Thunderbolt FTO30–31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) | The SO mission ranking applies; Nomads E/Marat24/0 is a distinct loadout. |
+
 ### Whole-game standouts — apex versus value
 
 **Faction tier / overall rank: B− — #32 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Concealed assassins, CC specialists and small teams remain strong; Ryūken and Shadowcrow options improve flexibility but consistent ranged support and breadth still lag stronger Vanilla armies.
