@@ -2,7 +2,7 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-- [N5.3 Warbands/Cheap Traders apex/value](../list-building/warbands-and-cheap-trading-units-ranking.md) compares:
+- [N5.3 Warbands/Cheap Traders apex/value](../list-building/warbands-ranking.md) compares:
   - **Diablo8 Berserk+Trench-Hammer**
   - **Morlock6 E/M CC** (requires base contact)
   - **Makaul14 Viral/DA+Eclipse** (MSV-blocking route).
