@@ -4,7 +4,30 @@
 
 **What Qapu Khalqi does exceptionally well:** use inexpensive **Hafza command deception + Sekban NCO**, flexible small Fireteams, Odalisque role compression, Laxmee hacking/White Noise, and smoke-supported MSV shooting to create **several independent routes**. QK also has an unusual selection of mercenaries, TAGs and one aerial Vehicle.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Command Lieutenants — unified ranking](../list-building/LT-ranking.md#command-lieutenants--unified-ranking) | 10 | A+ | Hafza LT(+1) 19/0 — Vanilla Haqq / Qapu Khalqi | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 22 | A+ | Hafza Unit — 20/0; roster examples: Vanilla Haqq; Qapu Khalqi | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 1 | S | Rahman Rouhani21/0 WIP15, Doctor(+3), NWI — Ramah — roster references: Ramah, Vanilla Haqq, Qapu Khalqi | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 2 | S | Ghulam Doctor(+3)15/0 WIP14 — Ramah/Hassassin/Dahshat (+3); Vanilla Haqq/Qapu (+1) — roster references: Ramah, Hassassin, Dahshat, Vanilla Haqq, Qapu Khalqi | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 9 | A+ | Najjarun Engineer15/0 WIP14 — Haqq/Ramah/eligible — roster references: Vanilla Haqq, Ramah, Hassassin, Qapu Khalqi | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 77 | B | Zeybek AP Spitfire33/1.5 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 33 | A+ | Azra'il AP HMG37/1.5 — Haqq/Qapu | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 11 | A+ | Zeybek AP Spitfire33/1.5 — Vanilla Haqq/Qapu | Existing local profile match; verify exact variant |
+| [Whole-game standouts — unified ranking (11 November baseline)](../list-building/gunfighters-ranking.md#whole-game-standouts--unified-ranking-11-november-baseline) | 3 | S | Zeybek — Vanilla Haqqislam / Qapu Khalqi; 33 / 1.5 AP Spitfire + Smoke Grenade Launcher + Operator | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 15 | S | Leila Sharif KHD + Carbonite + Firewall(-3) 22/0 (Haqq/QK/Ramah/Hassassin) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 57 | A | Druze HD + Pitcher 25/0.5 (Qapu/Ikari/Druze where listed) | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 5 | S | Leila Sharif KHD + Carbonite + Firewall(-3) 22/0 (Haqq/QK/Ramah/Hassassin) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 55 | A | Al Hawwa' 22/0 KHD | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 82 | B | Druze KHD + Pitcher 23/0 (Qapu/Ikari/Druze where listed) | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 146 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 89 | A | Zeybek AP Spitfire/Smoke GL + Operator 33/1.5 (Vanilla Haqq) | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: B+ — #25 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Hafza/Sekban economy, Laxmee/White Noise and varied Fireteams remain intact. The improved Shakush (including BS Attack (-3), Warhorse and Continuous Damage HMG) offsets weaker situational Zeybek and Korsan options.
 
