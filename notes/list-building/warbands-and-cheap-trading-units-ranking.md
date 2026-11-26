@@ -9,7 +9,7 @@
 - Older Hippolyta-first alternatives remain possible; speaker regards Ioann as frequently worth buying, but No Cover still exposes him.
 - This is *O-12 Vanilla*, not the **Shindenbutai 30pt no-Smoke** variant or a license to transfer Irregular training.
 
-**Cheap defensive cross-role rankings (5 Nov 2026):** [Cheap Midfield Defenders & Speed Bumps](cheap-midfield-defenders-and-speed-bumps.md) and [Cheap DZ Defenders & Trade Pieces](cheap-dz-defenders-and-trade-pieces-ranking.md) distinguish advanced-deployed obstacles from home-zone screens. Warbands below are ranked for active trading and assault rather than those passive defensive jobs.
+**Cheap defensive cross-role rankings (5 Nov 2026):** [Cheap Midfield Defenders & Speed Bumps](cheap-midfield-defenders-and-speed-bumps-ranking.md) and [Cheap DZ Defenders & Trade Pieces](cheap-dz-defenders-and-trade-pieces-ranking.md) distinguish advanced-deployed obstacles from home-zone screens. Warbands below are ranked for active trading and assault rather than those passive defensive jobs.
 
 **Multiple cheap CC bodies are not three independent attackers:** [N5.3 Peripheral and Multi-Body Apex/Value](peripheral-synchronized-multibody-apex-value.md) compares these **Control** packages:
 
@@ -20,7 +20,7 @@ Unlike independently ordered Irregular warbands, these packages **do not attack 
 
 _Research date: 2026-10-23. **Qualitative tactical tiers—not simulated unit win rates.** Profile prices/skills are from this repo's pinned N5.3 (September 2026) [sectorial roster files](../../sectorials/combined-army/morat-aggression-forces.md); faction/sectorial permissions are NOT portable. [Impetuous](../../rules/5b_Special%20Skills/Impetuous.md), [Smoke](../../rules/4_Ammunition%20and%20Weaponry/Smoke_Ammunition.md), [Eclipse](../../rules/4_Ammunition%20and%20Weaponry/Eclipse_Ammunition.md), [Berserk](../../rules/5b_Special%20Skills/Berserk.md) and [Warhorse](../../rules/5b_Special%20Skills/Warhorse.md) govern rules, not dated podcast descriptions._
 
-**Existing strategy, preserved:** [Cheap midfield speed bumps](cheap-midfield-defenders-and-speed-bumps.md), [cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md), [Impetuous + Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md), [Trading and attrition](../Strategy/trading-and-attrition.md), [CC and short assault](../Strategy/close-combat-and-short-range-assault.md), [Enemy-DZ attack profiles](airborne-and-enemy-dz-attackers-apex-value.md), [Anti-warband DZ architecture](../Strategy/dz-strikes-and-dz-defense.md).
+**Existing strategy, preserved:** [Cheap midfield speed bumps](cheap-midfield-defenders-and-speed-bumps-ranking.md), [cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md), [Impetuous + Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md), [Trading and attrition](../Strategy/trading-and-attrition.md), [CC and short assault](../Strategy/close-combat-and-short-range-assault.md), [Enemy-DZ attack profiles](airborne-and-enemy-dz-attackers-apex-value.md), [Anti-warband DZ architecture](../Strategy/dz-strikes-and-dz-defense.md).
 
 **Dedicated assassination is a distinct role:** [N5.3 melee assassin/fighter apex & value](dedicated-close-combat-assassins-apex-value.md) compares **actual reach, Hidden/Impersonation, MA4/5, Guard, target saves and counter-CC** rather than judging cheap smoke/chain-rifle trading as universal melee superiority.
 
