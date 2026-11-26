@@ -2,7 +2,7 @@
 
 _Consolidated 26 November 2026 from the committed active-turn gunfighter and BS mod-stacking guides. Qualitative editorial ranking, not measured win rates. Profile details are carried forward from those guides; this is not a fresh Army or balance-update audit._
 
-**Scope:** **active-turn medium- and long-range shooting** (especially 16–32in, with meaningful 24–32in capability), **not all-purpose assault**. Close-range 0–16in sweeps, boarding shotguns, rifles, template attacks, melee, Protheion, assassination runs and mobility without a useful ranged engagement belong in [close-combat and short-range assault](../Strategy/close-combat-and-short-range-assault.md). This guide excludes defensive AROs, command structure or deployment tricks in isolation. **TAGs have their own unified category below** and are **not mixed into infantry/REM/VH rankings**. Other relevant guides: [TAGs](tags.md) · [VH vehicles](vehicles-vh-ranking.md) · [ARO](aro-units-apex-and-value.md) · [weapons/ammunition](../Strategy/weapons-ammunition-and-engagement-selection.md) · [face-to-face odds](../Strategy/probability-and-face-to-face-decision-framework.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Order efficiency](../Strategy/order-efficiency.md) · [target sequencing](../Strategy/target-priority-and-attack-sequencing.md).
+**Scope:** **active-turn medium- and long-range shooting** (especially 16–32in, with meaningful 24–32in capability), **not all-purpose assault**. Close-range 0–16in sweeps, boarding shotguns, rifles, template attacks, melee, Protheion, assassination runs and mobility without a useful ranged engagement belong in [close-combat and short-range assault](../Strategy/close-combat-and-short-range-assault.md). This guide excludes defensive AROs, command structure or deployment tricks in isolation. **TAGs have their own unified category below** and are **not mixed into infantry/REM/VH rankings**. Other relevant guides: [TAGs](tags-ranking.md) · [VH vehicles](vehicles-vh-ranking.md) · [ARO](aro-units-apex-and-value.md) · [weapons/ammunition](../Strategy/weapons-ammunition-and-engagement-selection.md) · [face-to-face odds](../Strategy/probability-and-face-to-face-decision-framework.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Order efficiency](../Strategy/order-efficiency.md) · [target sequencing](../Strategy/target-priority-and-attack-sequencing.md).
 
 **Hard-armor matchup supplement:** [N5.3 non-hacking anti-TAG/anti-HI apex/value](anti-tag-anti-heavy-infantry-non-hacking-apex-value.md) separately ranks **cheap E/M/PARA lockdown, K1, Monofilament, Panzerfaust and repeatable AP/Autocannon** against actual armor and delivery, not general gunfight utility.
 
@@ -212,7 +212,7 @@ One unified competitive rank per engagement category: long-range non-TAG, medium
 
 ## 3. TAG gunfighters — unified ranged ranking
 
-Each listed variant is its own printed loadout. Do not combine mutually exclusive weapons and equipment. Roster investment, available second attack plan and recovery are part of the unified ranking. See [TAG field guide](tags.md).
+Each listed variant is its own printed loadout. Do not combine mutually exclusive weapons and equipment. Roster investment, available second attack plan and recovery are part of the unified ranking. See [TAG field guide](tags-ranking.md).
 
 | # | Tier | Profile / roster | Tags | Why it ranks here | Constraints |
 |---:|---|---|---|---|---|
