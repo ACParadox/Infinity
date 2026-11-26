@@ -26,7 +26,51 @@ The table separates **ISS-specific access within Yu Jing** from combinations tha
 
 **Versus Vanilla Yu Jing:** ISS gains the Monitor Core, Bào, Deva/Dikpala, Jìnwèi and the other specialized ISS troops above, plus broader linked configurations. It gives up several Vanilla-only independent attack and midfield options (including Hac Tao, Dàofěi, Zhēnchá and Mówáng) and access to TAG families such as Gūijiă and Blue Wolf. **Sun Tze, Fēiquán, Hsien, Lóngwáng and Sù-Jiàn are not ISS-exclusive units.**
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 20 | A | Crane Agent LT AP Spitfire 47/0, AP HMG 49/1 or MULTI Rifle 41/+1.5 SWC — Imperial Service | Roster named in source |
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 23 | A | Hsien HMG LT 49/1 or MULTI Marksman LT(+1) 51/+1 SWC — Imperial Service | Roster named in source |
+| [Command Lieutenants — unified ranking](../list-building/LT-ranking.md#command-lieutenants--unified-ranking) | 6 | A+ | Sun Tze LT 53/0 — Vanilla Yu Jing / Imperial Service | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 42 | A | Major Lunah 29/1.5 Viral Sniper(+1SD) — Imperial Service | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 10 | S | Imperial Agent, Pheasant Rank — 23/0 Minelayer; 26/0 KHD; 27/0 Doctor; 28/0.5 HD; 28/1 Red Fury; roster examples: Imperial Service | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 19 | A+ | Táowù — 21/0 Druze/Ikari; 21/0.5 ISS/WhiteCo; roster examples: Imperial Service; Druze; Ikari; White Company | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 8 | — | Imperial Service Monitor13/.5 + 4 Kuang Shi6 = 37/.5 | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 22 | — | CSU 10/0 Breaker Rifle + Nanopulser (+1B) — ISS / White Company | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 22 | A+ | Ninja Tactical Bow 24/0 — JSA/Yu Jing | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 24 | A+ | Adil Mehmut Crane Rank49/1.5 — Imperial Service | Roster named in source |
+| [Unified force multiplier ranking](../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 7 | A+ | ISS Táowù16/0 — Counterintelligence | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 21 | A+ | Bào Thunderbolt(+1B)23/0 — Imperial Service | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 64 | B+ | Major Lunah Viral Sniper(+1SD)29/1.5 — eligible rosters | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 19 | A+ | Adil Mehmut Crane Rank AP Spitfire49/1.5 — Imperial Service | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 69 | A | Miranda MULTI Rifle 27/0 — OSS | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 12 | A+ | Lóngwáng AP HMG70/1.5 — Imperial Service | Roster named in source |
+| [Whole-game standouts — unified ranking (11 November baseline)](../list-building/gunfighters-ranking.md#whole-game-standouts--unified-ranking-11-november-baseline) | 8 | B | Fēiquán — Yu Jing / White Banner / Imperial Service; 28 / 0 E/M Carbine (+1B), Akrylat, Flash Pulse, Pitcher (+1SD); 27 / 0 MULTI Rifle (+1B) + X-Visor | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 33 | A+ | Koga Ninja KHD + Carbonite 30/0 (Imperial Service) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 43 | A | Deva HD 25/0.5 (ALEPH/OSS/NCA/ISS) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 6 | S | Deva KHD 20/0 (ALEPH/OSS/NCA/ISS) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 33 | A+ | Koga Ninja KHD + Carbonite 30/0 (Imperial Service) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 76 | B | Kǎnrèn KHD 27/0 — Imperial Service | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 81 | B | Imperial Vanguard Qiánfēng KHD + Firewall(-3) 24/0 — ISS | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 84 | B | Pheasant Imperial Agent KHD 26/0 — Imperial Service | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 13 | S+ | Imperial Vanguard Qiánfēng FO26 Hidden+Infiltration or KHD24 Parachutist — ISS; Imperial Vanguard Qiánfēng KHD24/0 or HD26/0 Parachutist — ISS | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 124 | A+ | Koga Ninja KHD+Carbonite30/0 — Imperial Service | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 173 | A | Jīnyào Paramedic19/0 — Imperial Service | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 3 | S+ | Fēiquán 28/0 — Imperial Service / White Banner / Vanilla Yu Jing | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 16 | A+ | Zhànyīng HD/Zero Pain/Pitcher 24/.5 — Imperial Service | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 3 | S+ | Dikpala Tacbot Repeater + SMG/Akrylat-Kanone 13/0 — ALEPH/OSS | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 6 | S | Wèibīng FO/Sensor/native Repeater + Tactical Awareness 17/0 — Yu Jing / White Banner where legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 10 | S | Jīnyào Deployable Repeater 18/0 — Imperial Service | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 31 | C | Lóngwáng — Yu Jing / Imperial Service | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 87 | A | Fēiquán E/M Carbine(+1B)+Pitcher 28/0 (White Banner/ISS/Vanilla Yu Jing where legal) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 30 | A+ | Bào MSV2 + Albedo(-3) + Biometric + Discover(+3)16/0 — Imperial Service | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 29 | — | ISS Bayara Disco 18/0, Xi Zhuang Disco 21/0 | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 18 | S | Kuang Shi Chain Rifle6/0 (Imperial Service) | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: B+ — #23 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap Kuang Shi/Monitor Regular Orders, Smoke/MSV shooting, concealed Qianfeng and strong command/disabling tools give efficient combined-arms answers; premium attack-piece breadth remains below Vanilla Yu Jing.
 
