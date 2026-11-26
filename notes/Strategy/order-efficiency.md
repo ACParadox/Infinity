@@ -529,4 +529,4 @@ The best Order-efficient units often score in several categories at once. A chea
 
 ## Cross-game cheerleader and Order-generator rankings (N5.3)
 
-See [Cheerleaders and Order Generators](../list-building/cheerleaders-and-order-generators.md) for an apex/value comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.
+See [Cheerleaders and Order Generators](../list-building/cheerleaders-and-order-generators-ranking.md) for a unified comparison of cheap Regular bodies, Baggage/Flash REMs, Fireteam-Master and Inspiring Leadership packages, plus why special or Irregular activations do not equal a transferable Regular Order. Current roster and rules take priority over recordings.
