@@ -18,7 +18,7 @@
 
 It also evaluates **when Speculative beats Guided on Orders** and MCP-reviewed opposing opinions. Keep **Spotlight's AP/PS5 Saving Roll, weapon Range MODs, Reset/Dodge and FTO-vs-Guided profile distinctions** when applying older examples.
 
-**Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](../list-building/network-projection-repeaters-pitchers-apex-value.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
+**Current N5.3 unit rankings:** [Network Projection — Pitchers, Repeaters, FastPandas, TinBot and disposable delivery](../list-building/network-projection-repeaters-pitchers-ranking.md). Separates **Turn-0** network, BS/Fireteam/+SD/X-Visor Pitcher reliability, 7pt native-Repeater kamikaze nodes, airborne Meteor/Jīnyào, Pilot-X dependent RacerBots and TinBot (Repeater) Fireteam benefits. Reconciles current roster profiles with YouTube/podcast disagreements.
 
 ## Live Combined Army example — Puzzler is delivery, not an automatic network (Swiss Miss ~09–21m)
 
