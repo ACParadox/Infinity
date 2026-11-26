@@ -1341,3 +1341,86 @@ This is a read-only editorial snapshot of the numbered global role tables at [so
 | [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 35 | A | Coyote FO + BambaBot27/0 | — |
 | [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 36 | A+ | O-12 Team Sirius FO21/0 + SiriusBot | — |
 | [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 37 | A | Yín-Shé Albedo(-6) Combi/E/M22/0 or K1 MMR26/0 — White Banner | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 1 | — | Kriigel 21/.5 Mirrorball — Tohaa | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 2 | — | Makaul 14/0 Eclipse + HFT — Tohaa | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 3 | — | Fennec FO/Sensor/Disco 13/0 — Kestrel | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 4 | — | Tankō 19/0 Disco + Deactivator — Ōban | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 5 | — | Chimera + 3 Pupniks 19/0, Eclipse — Bakunin | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 6 | — | Dāturazi Smoke 14/0 — CA/MAF (optional Yaogat/Vector/Charontid MSV partner) | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 7 | — | Jaguar Smoke/Chain 10/0 (optional Intruder MSV2 partner) | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 8 | — | Varangian Smoke 10–12/0 — eligible Regular rosters, including O-12/Starmada | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 9 | — | Myrmidon Officer Eclipse / CoC 30–31/.5 — Steel Phalanx | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 10 | — | Jazz HD+ 22–25/.5 with live Repeater network — Corregidor/Nomads | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 11 | — | Interventor HD+ 18–23/.5 with live Repeater network — Nomads/Tunguska | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 12 | — | Uhahu HD+ 19/.5 — Bakunin | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 13 | — | Kaauri Mirrorball 14/.5 — Tohaa | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 14 | — | Morlock Smoke 6/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 15 | — | Ghazi/Galwegian/Shaolin 5–6/0 where legal | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 16 | — | Yojimbo motorized 20/0 / foot 19/0 — Shindenbutai/Ōban (optional Rui Shi MSV2 partner) | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 17 | — | Taqeul Mirrorball 35–36/0 — Tohaa | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 18 | — | Shifta CoC/Disco 21/0 — Corregidor | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 19 | — | Lobo Disco 20–24/0 — Corregidor | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 20 | — | Tanuki HD + Disco 20/.5 — Shindenbutai | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 21 | — | Kulak KHD+Disco 20/0 — Tunguska | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 22 | — | Shikami 42/0 Eclipse specialist — JSA/Ōban | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 23 | — | Nesaie Alkê 27/0 MULTI Rifle + Disco Baller + NCO — Steel Phalanx | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 24 | — | Igao Mirrorball 26/.5 — Tohaa | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 25 | — | Vargar FO Disco 24/0 — WinterFor | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 26 | — | Richard Quinn FO Disco 26/0 — Varuna | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 27 | — | Konstantinos FTO Disco + Deactivator 23/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 28 | — | White Banner Hwarang Disco + Deactivator 20/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 29 | — | ISS Bayara Disco 18/0, Xi Zhuang Disco 21/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 30 | — | Bluecoat Disco 16/0 — O-12/Starmada | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 31 | — | Cyberghost HD+ White Noise 21/.5 — O-12/Starmada | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 32 | — | Myrmidon Smoke 16/0 — Vanilla ALEPH (optional Marut MSV2 partner) | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 33 | — | Garon Smoke GL 16/0 — JSA | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 34 | — | Torchlight Kludger Engineer Disco + Deactivator 23/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 35 | — | Crusader Disco 23/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 36 | — | Acontecimento Guarda de Assalto + synchronized Eclipse Auxbot 40–44 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 37 | — | Kinnara Parachutist Eclipse 24/0 — OSS | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 38 | — | Rasyat Eclipse attacker — Combined/MAF | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 39 | — | Qapu Laxmee HD+ White Noise | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 40 | — | Qapu Yuan Yuan Smoke | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 41 | — | Qapu Odalisque Disco loadout | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 42 | — | Hortlak Disco+Deactivator 28/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 43 | — | Ramah Khawarij CoC Disco 33/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 44 | — | Claire Doctor(2W) Disco 33/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 45 | — | Hippolyta Smoke 37/0 | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 46 | — | NCA Aquila FTO Disco or Quinn Disco | — |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 47 | — | Asura HD+ 63/.5 | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 1 | S+ | Ghazi E/Marat5/0 or Jammer6/0, alternative Smoke+Chain5/0 — Haqq/Bahram | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 2 | S+ | Makaul HFT, Eclipse, Viral/DA CC 14/0 — Tohaa | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 3 | S+ | Dāturazi Chain(+1B)+Smoke 14/0 — MAF/Vanilla CA | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 4 | S+ | Morlock Chain+Smoke+E/M CCW6/0 — Bakunin/Vanilla Nomads | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 5 | S+ | Galwegian Chain+Smoke5/0 (Caledonia) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 6 | S+ | Shaolin Chain+Smoke5/0, DA CC6/0 (White Banner) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 7 | S+ | Irmandinho Engineer+Chain+Smoke8/0 (TAK/Kosmoflot/Ariadna) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 8 | S+ | Desperado Chain+Smoke GL7/0 (USARF/Ariadna) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 9 | S+ | Kum Motorized Chain Rifle+Smoke6/0 — Vanilla Haqq | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 10 | S | Yuan Yuan Chain Rifle+Smoke6/0 (Druze, eligible rosters only) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 11 | S | Varangian10/0 — Kosmoflot; 12/0 — O-12 (eligible variants) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 12 | S | Diablos8–9/0 — Corregidor Correctional | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 13 | S | K2 Auxiliar FTO E/Marat11/0 — Steel Phalanx | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 14 | S | Daylami LSG+Panzerfaust6/0 / Camo(1 use)+Panzerfaust8/0 (Haqq/Bahram) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 15 | S | Gaki4/0 — Morat/Combined | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 16 | S | Preta Chain7/0 — Morat/Combined | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 17 | S | Libertos FD+20 Camo(1 use), Dogged, SMG+Chain-colt8/0 — Druze and eligible roster | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 18 | S | Kuang Shi Chain Rifle6/0 (Imperial Service) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 19 | S | Jaguar Chain+Smoke10/0, Adhesive+Panzerfaust11/0 — Corregidor | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 20 | S | Motorized Yojimbo20/0 (Shindenbutai/Ōban); foot19/0 alternate | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 21 | S | Kaitok Chain Rifle / Flammenspeer19/0 — Morat Aggression Forces | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 22 | S | Carmen Johns + Bâtard17/0 — TAK/FRRM/eligible | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 23 | S | McMurrough23/0 — Corregidor/Caledonia/other eligible | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 24 | S | Minescorp Jackal FTO Panzerfaust+SMG6/0 or Light Rocket Launcher6/0 — Kestrel | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 25 | A+ | Zamira Nazarova Smoke GL+E/M CC11/0, Zuleyka Nazarova LFT(+1B)+EXP CC12/0 — Vanilla Haqq | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 26 | A+ | Motorized Bounty Hunter BSG+Riotstopper8/0 or SMG+Chain-colt(+1B)9/0 — PanO/Tunguska/Druze where legal | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 27 | A+ | Denma Connolly Chain(+1B)+Smoke+AP+DA12/0 — Kosmo/Bakunin/Tunguska as printed | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 28 | A+ | Dog-Warrior21/0 — Ariadna | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 29 | A+ | Cameronian18/0 — Caledonia | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 30 | A+ | Myrmidon Chain Rifle16/0 — Steel Phalanx | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 31 | A+ | Varangian SMG+Chain Rifle+Smoke12/0 — White Company (Irregular + Impetuous) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 32 | A+ | Aragoto BSG13/0 — JSA | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 33 | A+ | Myrmidon Officer CoC30/.5 — Steel Phalanx | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 34 | A+ | Ioann Bann32/0 — eligible roster | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 35 | A | Ioann Bann30/0 — Shindenbutai (vs 32/0 Tohaa/Kosmoflot/Starmada variants) | — |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 36 | A | Miyamoto Musashi Irregular Chain+EXP CC21/0 — JSA | — |
