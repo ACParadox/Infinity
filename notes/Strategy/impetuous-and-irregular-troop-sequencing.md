@@ -4,7 +4,7 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands and Cheap Trading Units](../list-building/warbands-and-cheap-trading-units-ranking.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
+[N5.3 Warbands and Cheap Trading Units](../list-building/warbands-ranking.md) ranks 5–23pt smoke/template/CC/E/M models by target, delivery and Orders. **Impetuous activations are optional but constrained; Irregular personal Orders cannot power another gunfighter.** Religious Troops are excluded from Inspiring Leadership regularization; the current sectorial Fireteam chart governs any FT Master conversion.
 
 ## Core principle
 
