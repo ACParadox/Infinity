@@ -223,7 +223,7 @@ Tags are supported by existing entries and the [Rare Capabilities](rare-capabili
 |---|---|---|
 | **O-Yoroi 78pt**, Ōban/JSA where rostered | **MA2/CC23 and CCW** defend from light infantry and exploit contact in a cleared corridor | 78pt / 1.5SWC purchase fundamentally pays for **HMG, ARM7, 3STR**, not an assassin; **Oniwaban29** is the far cheaper specialist target killer. |
 | **Sphinx93pt**, Shasvastii | **DA CCW + Hidden/Climbing/Mimetism−6** can finish what its gun/ambush starts | 93pt hidden TAG is an **attack/fire lane package**. Do not grade it better than Shinobu just because 3STR; its CC20 is lower and expensive to pin. |
-| **Other TAGs with competent high-CC/anti-armor sidearms** | Defend from a cheap enemy locking them in Engaged; clean up Immobilized/Unconscious models when safe | Big bases often cannot enter objective-room geometry; hackers/E/M and multiple cheap defenders make forced melee a bad value. [Full TAG tiers](tags.md). |
+| **Other TAGs with competent high-CC/anti-armor sidearms** | Defend from a cheap enemy locking them in Engaged; clean up Immobilized/Unconscious models when safe | Big bases often cannot enter objective-room geometry; hackers/E/M and multiple cheap defenders make forced melee a bad value. [Full TAG tiers](tags-ranking.md). |
 
 ## 6) Transcript-backed sources and **opposing opinions**
 
