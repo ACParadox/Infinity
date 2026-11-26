@@ -15,7 +15,47 @@ _The following are current global profile-specific ranks, not local faction tier
 |---|---|---|---|
 | **Knight of Montesa (foot)** | FD(+20) BSG Paramedic26/0 | [Zone A+ #23](../../list-building/objective-holding-ranking.md) | ARM4/BTS6/2W and Mimetism make a practical forward zone anchor; distinguish FTO20/0 and motorcycle21/0 (DZ attacker S #23). |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](../_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 5 | S | Tikbalang LT(+1) 73/1.5 — Vanilla PanO / Kestrel / Acontecimento | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 66 | B+ | Armand Le Muet 34/1.5 MSV1 MULTI Sniper — eligible NA2 | Existing local profile match; verify exact variant |
+| [Unified Chain of Command ranking](../../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 13 | A+ | Flight Officer Agnes Ferreira — 18/0; roster examples: Acontecimento; Svalarheima Winter Force | Roster named in source |
+| [Unified Chain of Command ranking](../../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 48 | C | Kirpal Singh, Akalis Sergeant — 26/0; roster examples: Acontecimento | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 15 | — | Tech-Bee 9/0 — eligible PanO | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 8 | S | Akalis BSG(+1B)+Deployable Repeater21/0 — Acontecimento; Akalis BSG(+1B) Specialist21/0 — Acontecimento | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 23 | S | Motorized Knight of Montesa BSG21/0 | Existing local profile match; verify exact variant |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 18 | S | Acontecimento Regular Shock Mine Minelayer/Sensor 13/0 | Roster named in source |
+| [Unified force multiplier ranking](../../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 1 | S | Scylla EVO32/.5 + Charybdis — Steel Phalanx / Acontecimento | Roster named in source |
+| [Unified force multiplier ranking](../../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 4 | S | Agnes Ferreira RemDriver16/0 — WinterFor / Acontecimento | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 43 | A | Bagh-Mari HMG30/1.5 — Acontecimento | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 18 | A+ | Bulleteer Spitfire 22/1 — Varuna | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 4 | S | Tikbalang HMG69/1.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 8 | S | Scylla HD + Trinity(SR-2), 25/0.5 FTO or 32/0.5 with Charybdis (Steel Phalanx/Acontecimento where legal) | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 38 | A+ | Acontecimento Regular HD + FastPanda/Cybermine 17/0.5 — Acontecimento | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 58 | A | Naga HD + Deployable Repeater 29/0.5 (ALEPH/OSS/Acontecimento) | Roster named in source |
+| [Unified Hacker ranking](../../list-building/hackers-ranking.md#unified-hacker-ranking) | 88 | B | Akali HD 25/0.5 — Acontecimento | Roster named in source |
+| [Unified Killer Hacker ranking](../../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 15 | S | Scylla HD + Trinity(SR-2), 25/0.5 FTO or 32/0.5 with Charybdis (Steel Phalanx/Acontecimento where legal) | Roster named in source |
+| [Unified Killer Hacker ranking](../../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 63 | A | Naga KHD 27/0 (ALEPH/OSS/Acontecimento) | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 7 | S | Peacemaker Heavy Shotgun/Pulzar + Auxbot-3 23/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 64 | S | Akalis SO21/0 BSG(+1B)/Deployable Repeater or HD25/.5 — Acontecimento | Roster named in source |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 99 | A+ | Scylla HD+Trinity(SR-2)25/.5 FTO or 32/.5 with Charybdis — Steel Phalanx | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 201 | B+ | Kirpal Singh SO28/0 — Acontecimento | Roster named in source |
+| [2. Best Turn-0 network](../../list-building/network-projection-ranking.md#2-best-turn-0-network) | 7 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 11 | S | Peacemaker native Repeater 23–27/0–.5 — eligible PanO | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 18 | A+ | SAA Regular HD/FastPanda17/.5 — Acontecimento | Roster named in source |
+| [Best — cross-faction TAG ranking](../../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 5 | A | Tikbalang — Vanilla PanO / Kestrel / Acontecimento / Military Orders (Montesa no NCO) | Roster named in source |
+| [Best — cross-faction TAG ranking](../../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 26 | B | Dragões — Shock Army of Acontecimento | Roster named in source |
+| [Global toolbox ranking](../../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 11 | S | Scylla HD with Trinity(SR-2) + Charybdis 32/.5 (Steel Phalanx); Additional Value option: Scylla FTO HD with Trinity(SR-2) 25/.5 or HD+Charybdis 32/.5 (Steel Phalanx) | Existing local profile match; verify exact variant |
+| [Unified ranking — vision control units](../../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 36 | — | Acontecimento Guarda de Assalto + synchronized Eclipse Auxbot 40–44 | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: A− — #19 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Affordable Regulars/mines, Naga/Dart midfield, Scylla, flexible teams and Tikbalang/Dragão shooting make versatile mission lists; cheap visibility control remains scarce.
 
