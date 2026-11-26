@@ -27,7 +27,7 @@ For an Impetuous + Irregular troop, a strong turn often looks like:
 
 ---
 
-Related strategy references: [Order efficiency](order-efficiency.md), [Turn planning and Order budgeting](turn-planning-and-order-budgeting.md), [Command Tokens](command-tokens.md), [Cheerleaders and Order generators](../list-building/cheerleaders-and-order-generators-ranking.md), and [Close combat / short-range assault](close-combat-and-short-range-assault.md).
+Related strategy references: [Order efficiency](order-efficiency.md), [Turn planning and Order budgeting](turn-planning-and-order-budgeting.md), [Command Tokens](command-tokens.md), [Cheerleaders and Order generators](../list-building/cheerleaders-ranking.md), and [Close combat / short-range assault](close-combat-and-short-range-assault.md).
 
 ## N5.3 rules baseline
 
