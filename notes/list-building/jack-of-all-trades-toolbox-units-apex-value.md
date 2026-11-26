@@ -229,7 +229,7 @@ _YouTube transcript request for [Tactical Awareness Tohaa](https://www.youtube.c
 - [Active gunfighters](active-turn-gunfighters-ranking.md)
 - [Command units](command-units-apex-and-value.md)
 - [Vision control](vision-control-units-apex-and-value.md)
-- [Doctor/Engineer and recovery](doctors-engineers-and-recovery-apex-value.md)
+- [Doctor/Engineer and recovery](doctors-engineers-and-recovery-ranking.md)
 - [Peripherals and G:Jumper](../Strategy/peripherals-synchronized-and-multi-body-troops.md)
 - [TAGs and multi-role combat](tags.md)
 - [List robustness and role compression](../Strategy/list-robustness-and-threat-coverage.md)
