@@ -123,7 +123,7 @@ These are **individual die target numbers, not a full Face-to-Face win percentag
 - **#197:** the expensive Achilles attack plan was punished by cyber-denial when overextended; **Nanoscreen+Mimetism is not hacker immunity**. [Cross-report review](../battle-reports/cross-report-unit-effectiveness-and-combinations.md)
 - **#005 vs #158:** Redeye results varied drastically with angle/mission/support; its Mim6 is valuable, but S7 No Cover and 1.5 SWC remain real costs. [Gunfighter synthesis](active-turn-gunfighters-ranking.md)
 - **#036:** Skyhound aerial freedom was insufficient against E/M/control; never price Mim6 alone as protection from non-BS states. [Gunfighter synthesis](active-turn-gunfighters-ranking.md)
-- **Expert disagreement:** [N5 TAG tier guide](tags.md) documents very different opinions of Cutter/Sphinx return on investment, and [Anti-Tech guide](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) contrasts enthusiastic Albedo saturation with players favoring cheap adaptation. Both views survive here as a matchup-dependent tradeoff.
+- **Expert disagreement:** [N5 TAG tier guide](tags-ranking.md) documents very different opinions of Cutter/Sphinx return on investment, and [Anti-Tech guide](anti-tech-msv-mimetism-camo-impersonation-apex-value.md) contrasts enthusiastic Albedo saturation with players favoring cheap adaptation. Both views survive here as a matchup-dependent tradeoff.
 
 **Profile disagreements requiring maintenance (selected legacy checks):**
 
