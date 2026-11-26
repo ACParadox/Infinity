@@ -160,7 +160,7 @@ The unified ranking weighs maximum reactive threat and whole-list efficiency tog
 
 ## TAG AROs — separate category
 
-TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usually to win the active turn. A TAG holding a reactive lane must be judged against the chance of losing a costly primary attacker and its future Orders. See the separate [TAG tier guide](tags.md) for full cross-faction apex/value rankings.
+TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usually to win the active turn. A TAG holding a reactive lane must be judged against the chance of losing a costly primary attacker and its future Orders. See the separate [TAG tier guide](tags-ranking.md) for full cross-faction apex/value rankings.
 
 | TAG / ARO use | Reactive strength | When it makes sense | Why not simply leave it standing? |
 |---|---|---|---|
@@ -169,7 +169,7 @@ TAGs are **not ranked alongside non-TAG ARO specialists**: their main job is usu
 | **Firebat VH — O-12/Torchlight native BS Attack(+1SD), Mim(-6)** | Strong mobile vehicle-style ARO with Thunderbolt/LRL or nonlethal weapon choices | Alternate lane/anti-approach guard when already fielded for NCO or mission mobility | **No Cover** and profile weapon bands still matter; excellent defense in one corridor needn't be worth losing a mobile active piece |
 | **Other 70–100pt TAGs as static “towers”** | Heavy weapons, multiple wounds/STR and armor can impose a serious FtF or deterrence | A truly essential lane, limited enemy anti-TAG counters, recovery support and a planned counterpunch | **Low points-value for pure ARO**: risking the main active-turn attacker to win a single reactive exchange is generally an unfavorable trade |
 
-**Default:** protect TAGs behind cheaper ARO layers; expose one reactively only when its lane meaningfully safeguards scoring or the survival of the army. This is a **role-specific ARO judgment**, not a downgrade to the TAG's overall apex/value tier in the [TAG guide](tags.md).
+**Default:** protect TAGs behind cheaper ARO layers; expose one reactively only when its lane meaningfully safeguards scoring or the survival of the army. This is a **role-specific ARO judgment**, not a downgrade to the TAG's overall apex/value tier in the [TAG guide](tags-ranking.md).
 
 ## Pick an ARO by the problem it solves
 
