@@ -4,7 +4,29 @@
 
 **What USAriadna does especially well:** cheap **motorcycle Smoke, regular midfield mines, non-Hackable mission fighters and several small legal Fireteams** force an opponent to solve many modest threats instead of one premium gun. The October 2025 Minuteman/Blackjack improvements matter; early-2025 tier opinions should not be treated as current profile verdicts.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 36 | A | Grunt Intel Rosalind 'Rosie' Munroe — 26/0; roster examples: USAriadna | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 12 | — | USAriadna Grunt 10/0 Heavy Flamethrower + Light Shotgun | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 16 | — | Traktor Mul Baggage 5/0 — eligible Ariadna / Dahshat | Existing local profile match; verify exact variant |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 10 | A+ | 112 Emergency Service11/0 or motorized19/0 WIP13 — eligible Ariadna — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 14 | A+ | Dozer13/0 WIP13; 2pt Remontnik extra — Ariadna/TAK/Kosmoflot — roster references: Vanilla Ariadna, TAK, Kosmoflot, Caledonia, USAriadna, FRRM | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 6 | S | Van Zant33/0 AP Rifle /35/0 T2 BSG — USARF/Vanilla Ariadna; Van Zant AP Rifle33/0 (USARF/Vanilla Ariadna) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 54 | A+ | 6th Airborne Ranger SMG19/0, BSG20/0, FO20/0 — USARF | Roster named in source |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 6 | S+ | USARF Grunt HFT/LSG 10/0 | Roster named in source |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 37 | A | Desperado Chain Rifle/Smoke Grenade Launcher 7/0 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 45 | A | 5th Minutemen AP HMG NCO34/1.5 — USARF | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 18 | A+ | Foxtrot BSG/Shock Mine Minelayer 18/.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 6 | S+ | Foxtrot FO18/0 — USAriadna/eligible Ariadna | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 65 | S | 6th Airborne Ranger FO20/0 — USAriadna | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 8 | S+ | Desperado Chain+Smoke GL7/0 (USARF/Ariadna) | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: C — #38 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Foxtrots, cheap bikes, forward mines and non-Hackable troops trade efficiently, with several individually excellent units. Its low ranking reflects a lack of answers to certain opponents: no hacking, no premium TAG/VH, limited marker diversity, fragile elite infantry, limited premium vision control and a narrow roster.
 
