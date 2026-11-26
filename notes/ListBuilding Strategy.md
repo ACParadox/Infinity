@@ -28,7 +28,7 @@ The list-building strategy notes are split by related subject so individual topi
   - Premium hidden missile, visible durable, Neurocinetics/TR, cheap Panzerfaust/Flash, close template/mine/hacking denial
   - Table/mission context, order-denial efficiency, preserved opposing podcast opinions, reviewed video transcripts and sectorial notes
 
-- [Cheerleaders and Order Generators — unified N5.3 ranking and contextual list-building guide](list-building/cheerleaders-and-order-generators-ranking.md)
+- [Cheerleaders and Order Generators — unified N5.3 ranking and contextual list-building guide](list-building/cheerleaders-ranking.md)
   - Pure Order-density vs utility vs mission-value rankings; Irregular/Tactical/LT/peripheral distinctions, Fireteam/command engines, and costed examples
   - Direct YouTube/Podcast MCP transcript disagreements, 2026 sectorial cross-references and practical 30-second Order audit
 
