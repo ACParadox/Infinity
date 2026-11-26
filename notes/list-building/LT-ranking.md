@@ -23,7 +23,7 @@
 
 **Warband-specific LT/CoC packages:**
 
-- [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-apex-value.md) ranks:
+- [N5.3 Warbands and Cheap Traders tiers](warbands-and-cheap-trading-units-ranking.md) ranks:
   - **Saladin LT39 with eligible Ghazi/Daylami regularization**
   - **Wallace LT38 versus CoC38**
   - **Myrmidon Officer LT25–26 versus CoC30–31**
