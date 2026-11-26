@@ -44,7 +44,72 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 | **Hatamoto** | Plasma Carbine SO34/0; Red Fury40/1 separate | [Zone S #7](../list-building/objective-holding-ranking.md) · [CC S+ #4](../list-building/close-combat-ranking.md) · [Gunfighters A+ #8 (medium)](../list-building/gunfighters-ranking.md) · [Toolbox S- #42](../list-building/toolbox-units-rankings.md) · [Mission A+ #105](../list-building/mission-specialists-ranking.md) · [LT S #1 (LT variants)](../list-building/LT-ranking.md) | Efficient zone anchor with Nanoscreen, Mimetism and strong melee; preserve distinct LT and gun profiles. |
 | **Shadowcrow Operator** | E/Mitter airborne31/0; Thunderbolt/AP Thunderbolt FTO30–31/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) | The SO mission ranking applies; Nomads E/Marat24/0 is a distinct loadout. |
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 1 | S | Hatamoto LT(+1) 36/+1 Plasma Carbine, 38/+1 Red Fury, or 39/+1 Spitfire — JSA / Shindenbutai | Roster named in source |
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 28 | B+ | Domaru LT(+1) Chain Rifle/E/M 23/0 or Spitfire 35/1.5 — JSA | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 40 | A | Garon TR — 16pt Thunderbolt+Smoke GL / 21pt Mk12 (both 0SWC) — JSA | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 12 | A+ | Kempeitai — 17/0 BSG; 20/0 Combi; roster examples: JSA; Ōban | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 33 | — | Keisotsu AP Rifle 9/0 — JSA / Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 1 | S+ | Oniwaban SMG 29/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 3 | S+ | Shinobu Kitsune 44/0.5 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 4 | S+ | Hatamoto Plasma Carbine 34/0 — Shindenbutai/Vanilla JSA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 7 | S | Shikami 42/0 or 47/0 D-Charges — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 11 | S | Miyamoto Mushashi 21/0 or Regular FTO 25/0.5 — JSA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 12 | S | Saito Tōgan 33/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 19 | A+ | Domaru E/M CCW 20/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 22 | A+ | Ninja Tactical Bow 24/0 — JSA/Yu Jing | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 32 | A+ | Motorized Yojimbo 20/0 — Shindenbutai/JSA/Ōban as rostered | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 39 | A | Foot Yojimbo 19/0 — JSA/Ōban | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 40 | A | Takeshi 'Neko' Oyama 28/0 — JSA/Ōban | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 23 | B | Tokusetsu Doctor14/0 — JSA | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 24 | A | Tokusetsu Engineer14/0 — JSA | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 27 | B | Genbutai Engineer23/0 — JSA | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 28 | B | Yuriko Oda Engineer25/0 (verify FTO) — JSA | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 14 | S | Teishin BSG19/0, FO19/0, KHD21/0 — Vanilla JSA/eligible sectorials | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 27 | A+ | Saito Tōgan T2 BSG+EXP CCW33/0 — JSA; Saito Tōgan33/0 — JSA/eligible | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 42 | A+ | Shinobu Kitsune44/.5 — JSA | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 43 | A+ | Oniwaban SMG29/0 — JSA | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 67 | A | Kurayami Ninja SMG+Viral Mine22/0 — JSA/Shinden | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 8 | A+ | Hatamoto Red Fury NCO40/1 — JSA/Shindenbutai | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 30 | A | O-Yoroi MULTI HMG78/1.5 — JSA | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 51 | A | Keisotsu HD + ECM:Hacker(-6)/CrazyKoala 16/0.5 — JSA/Ikari | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 83 | B | Aragoto HD 21/0.5 — JSA/Oban | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 58 | A | Teishin 21/0 KHD | Existing local profile match; verify exact variant |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 61 | A | Aragoto Motorcycle KHD 19/0 — JSA | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 66 | A | Nokizaru KHD 27/0 — Shindenbutai/JSA | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 20 | A+ | Kyojin Killer HFT/Flammenspeer 15/0 | Existing local profile match; verify exact variant |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 24 | A+ | Ryūken-9 SMG/Shock Mine Minelayer 22/.5 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 7 | S+ | Teishin FO19/0, KHD21/0 or HD23/.5 — JSA/Shindenbutai | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 21 | S+ | Aragoto KHD19/0 or HD21/.5 — JSA | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 27 | S | Ninja KHD 26 / FO 30 / HD 33 — JSA (separate profiles) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 55 | S | Karakuri FO 31 — JSA/Ōban | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 62 | S | Shikami Specialist Operative 42 or 47/0 — JSA | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 98 | A+ | Kurayami Ninja HD26/.5 — JSA/Shindenbutai | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 105 | A+ | Hatamoto SO 34 or LT+SO 36–39 — JSA | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 1 | S | Karakuri FO HSG or E/Mitter 31/0 — JSA / Ōban / Ikari | Roster named in source |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 7 | S | Hatamoto Plasma Carbine SO34/0 — Shindenbutai | Existing local profile match; verify exact variant |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 37 | B+ | Ryūken-9 SMG/Shock Mine Minelayer 22/0.5 — JSA / Ōban / Shindenbutai | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 14 | A | O-Yoroi — JSA | Roster named in source |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 25 | B | Mechazoid — JSA / Shindenbutai | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 31 | S | Shikami 42/0 or 47/0 (Ōban/JSA) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 42 | S- | Hatamoto NCO Plasma Carbine Specialist 34/0 (JSA) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 59 | A+ | Aragoto Motorcycle KHD 19/0 or HD 21/.5 (JSA) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 63 | A+ | Ōban Tankō Disco+Blitzen+Deactivator 19/0 | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 75 | A+ | Ninja KHD+Tactical Bow 26/0 or FO BSG 30/.5 (JSA) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 3 | S | Shikami42/0 /47/0 — JSA/Ōban | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 4 | — | Tankō 19/0 Disco + Deactivator — Ōban | Existing local profile match; verify exact variant |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 22 | — | Shikami 42/0 Eclipse specialist — JSA/Ōban | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 33 | — | Garon Smoke GL 16/0 — JSA | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 32 | A+ | Aragoto BSG13/0 — JSA | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 35 | A | Ioann Bann30/0 — Shindenbutai (vs 32/0 Tohaa/Kosmoflot/Starmada variants) | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 36 | A | Miyamoto Musashi Irregular Chain+EXP CC21/0 — JSA | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Faction tier / overall rank: B− — #32 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Concealed assassins, CC specialists and small teams remain strong; Ryūken and Shadowcrow options improve flexibility but consistent ranged support and breadth still lag stronger Vanilla armies.
 
