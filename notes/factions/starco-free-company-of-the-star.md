@@ -4,7 +4,36 @@
 
 **Identity:** StarCo combines **elite individual support characters** with **small, purpose-built Fireteam families**. Its signature solutions are **Uhahu/Knauf Outrage**, **Avicenna-backed Riot Grrls**, and inexpensive PMC specialists, with mobile Bandit/Hellcat network delivery.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 24 | A+ | Cateran 21/1 T2 Sniper — Caledonia; Cateran 21/0.5 AP Sniper — Caledonia | Existing local profile match; verify exact variant |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 69 | B+ | Knauf MULTI Sniper 31/1.5 — Kestrel | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 41 | A | Señor Massacre BSG 25/0 — Corregidor/eligible | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 48 | A | Raoul Spector Combat Jump 33/0 — StarCo/eligible | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 7 | A+ | Avicenna28/0 WIP15 Doctor(+3), NWI — Bakunin/Hassassin Bahram/StarCo — roster references: Hassassin, Bakunin, StarCo | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 3 | S | Clockmaker18/0 WIP15 — Vanilla Nomads/Bakunin/Tunguska/StarCo — roster references: Vanilla Nomads, Bakunin, Tunguska, StarCo | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 11 | S | Hellcat BSG+Adhesive19/0, HD22/.5, Paramedic23/0 — Nomads/Corregidor Deepspace | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 74 | A | Raoul Spector33/0 — eligible mercenary armies | Existing local profile match; verify exact variant |
+| [Global ranking — cheap deployment-zone defenders and trade pieces](../list-building/dz-defenders-ranking.md#global-ranking--cheap-deployment-zone-defenders-and-trade-pieces) | 26 | A+ | Irmandinho Chain Rifle/Smoke/D-Charges 8/0 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 51 | A | Knauf MULTI Sniper31/1.5 — multiple rosters | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 66 | B+ | Cateran T2 Sniper21/1 — CHA/Kosmoflot | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 86 | B | Hellcat HD 22/0.5 — Corregidor/StarCo | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 55 | A | Al Hawwa' 22/0 KHD | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 31 | S | Corregidor Bandit FO24/0 or KHD26/0 — Corregidor/StarCo; Corregidor Bandit FO24/0 — Corregidor/StarCo | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 69 | S | Stempler Zond FO/Sensor/Repeater 15/0, TA18/0 — Corregidor/Nomads where eligible | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 72 | A+ | Hellcat HD22/.5 — Corregidor | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 188 | A | Raoul Spector SO33/0 AD (Irregular) or 34/0 Regular FTO — StarCo/Tunguska | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 196 | A | Avicenna Doctor(+3)28/0 — Bakunin/Hassassin/StarCo | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 9 | S | Tsyklon FTO 26–29/1 — eligible Tunguska / Bakunin / StarCo teams | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 23 | A+ | Uhahu HD+/Pitcher 19/.5 — Bakunin / StarCo | Roster named in source |
+| [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 5 | S | Corregidor Bandit DR + Minelayer 25/.5 — Corregidor / StarCo | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 4 | S+ | Stempler Zond native Repeater + Tactical Awareness 18/0, or Thunderbolt TA 22/0 — eligible Nomads | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: D — #43 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Knauf/Uhahu, Avicenna/Riot Grrls and mobile mercenary specialists offer spikes of excellence, but the overall package is uneven.
 
