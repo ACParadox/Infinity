@@ -6,7 +6,7 @@
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -24,7 +24,7 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 5 | S | Leila Sharif KHD + Carbonite + Firewall(-3) 22/0 (Haqq/QK/Ramah/Hassassin) | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 55 | A | Al Hawwa' 22/0 KHD | Existing local profile match; verify exact variant |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 82 | B | Druze KHD + Pitcher 23/0 (Qapu/Ikari/Druze where listed) | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 146 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 145 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | Existing local profile match; verify exact variant |
 | [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 89 | A | Zeybek AP Spitfire/Smoke GL + Operator 33/1.5 (Vanilla Haqq) | Existing local profile match; verify exact variant |
 
 ### Historical whole-game standouts — split Apex/Value (superseded)
