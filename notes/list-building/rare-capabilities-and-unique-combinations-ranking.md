@@ -13,7 +13,7 @@
 
 It counts purchase dependencies and preserves differing transcript opinions.
 
-**Special-ability cross-faction selection (updated 5 Nov 2026):** [Force Multipliers — RemDriver, exceptional EVO, Counterintelligence and TAGCom: apex/value tiers](force-multipliers-special-abilities-ranking.md) focuses on distinctive support packages rather than ordinary Baggage/EVO bots, Inspiring Leadership, FT Master, TinBots, Decoy or Cyberplug. For ordinary REM support see this guide; for multi-body mechanics see [peripheral and multi-body strategy](../Strategy/peripherals-synchronized-and-multi-body-troops.md), and for Order conversions see [Order economy](cheerleaders-and-order-generators-ranking.md).
+**Special-ability cross-faction selection (updated 5 Nov 2026):** [Force Multipliers — RemDriver, exceptional EVO, Counterintelligence and TAGCom: apex/value tiers](force-multipliers-special-abilities-ranking.md) focuses on distinctive support packages rather than ordinary Baggage/EVO bots, Inspiring Leadership, FT Master, TinBots, Decoy or Cyberplug. For ordinary REM support see this guide; for multi-body mechanics see [peripheral and multi-body strategy](../Strategy/peripherals-synchronized-and-multi-body-troops.md), and for Order conversions see [Order economy](cheerleaders-ranking.md).
 
 **Rare mechanics in scoring missions:** [N5.3 Objective Holding / Zone Domination / Carried Objectives](objective-holding-zone-domination-and-carriers-ranking.md) applies G:Jumper, Synchronized FO/Peripherals, Camo and Shasvastii Embryo, Eclipse, Transmutation, and enhanced Immunity to **surviving an opponent turn and controlling a final Supply Box**, rather than only extraordinary gun/CC ceilings.
 
