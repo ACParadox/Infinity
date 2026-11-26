@@ -50,7 +50,7 @@ E/Marat, normal Chain and E/M CC have different reach. **Warhorse cannot become 
 
 ## Current N5.3 airborne / Enemy-DZ attacker profile tiers (2026-10-23)
 
-The new [N5.3 cross-game airborne and Enemy-DZ **apex/value tier guide**](../list-building/airborne-and-enemy-dz-attackers-apex-value.md) compares:
+The new [N5.3 cross-game airborne and Enemy-DZ **unified ranking**](../list-building/airborne-and-enemy-dz-attackers-ranking.md) compares:
 
 - **Rasyat**
 - **Fiday / Speculo**
