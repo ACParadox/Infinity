@@ -1,6 +1,6 @@
 # Tartary Army Corps (TAK) — Sources, Cross-References, Battle Reports and Purchasing Audit
 
-**Tactical companion:** [Tartary Army Corps (TAK) list-building guide](../tak.md). **Authoritative roster and Fireteams:** [N5.3 sectorial reference](../../../sectorials/ariadna/tartary-army-corps.md).
+**Tactical companion:** [Tartary Army Corps (TAK) list-building guide](../TAK/tak-listbuilding.md). **Authoritative roster and Fireteams:** [N5.3 sectorial reference](../../../sectorials/ariadna/tartary-army-corps.md).
 
 **Source handling:** Dated community opinions and media are evidence for tactical decisions, not replacements for the current roster, profile costs, or Fireteam legality.
 
