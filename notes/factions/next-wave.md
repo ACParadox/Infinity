@@ -51,7 +51,7 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -89,8 +89,8 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 24 | S | Shadowcrow Operator SO24–31/0 — eight vanilla armies and Next Wave | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 37 | S | Contrabandolero FO 26 / KHD 27 / HD 29 — Next Wave | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 66 | S | Cliff-Jumper FO22/0 or KHD23/0 — Next Wave | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 154 | A+ | Gearhead Engineer17/0, FTO Engineer18/0 or FTO Hacker Firewall(-6)/Pitcher19/.5 — Next Wave | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 168 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 153 | A+ | Gearhead Engineer17/0, FTO Engineer18/0 or FTO Hacker Firewall(-6)/Pitcher19/.5 — Next Wave | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 167 | A | Kazurabā Ruby Monday SO19/0 — Kestrel/Shindenbutai/Corregidor/Next Wave/OSS | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 20 | A+ | Gearhead FTO Hacker/Pitcher 19/.5 — Next Wave | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 28 | A | Bit & KISS! 24–25/.5 selected loadout — Combined / Onyx / Next Wave as legal | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 29 | A | Pandora SMG/Pitcher 26/.5 — Next Wave | Roster named in source |
