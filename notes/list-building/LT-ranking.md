@@ -17,7 +17,7 @@
 
 **Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-apex-value.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
-**Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-ranking.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide covers Lieutenant roles and command economy; [Chain of Command tiers](chain-of-command-apex-and-value.md) separately rank succession units.
+**Combat-versus-command role split:** [Active-turn gunfighter apex and value](active-turn-gunfighters-ranking.md) now ranks **ranged combat performance only**, separately for TAG and non-TAG units. This command guide covers Lieutenant roles and command economy; [Chain of Command tiers](chain-of-command-ranking.md) separately rank succession units.
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
@@ -57,7 +57,7 @@
 
 _Research/verification: 2026-10-23. Current roster costs, abilities, AVA and Fireteam legality use the pinned September 2026 Army 7.26246.158/159 files under [sectorials](../../sectorials/combined-army/vanilla-combined-army.md); [local N5.3 rules](../../rules/README.md) and FAQ v0.1 override historical media. The rankings are tactical **judgments, not tournament win rates**. Each named unit is available only in the faction/sectorial where its profile exists._
 
-**Related:** [Chain of Command rankings](chain-of-command-apex-and-value.md), [Existing Lieutenant/command strategy](../Strategy/lieutenant-and-command-structure.md), [Order efficiency](../Strategy/order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](../Strategy/fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game rankings and researched profile-specific circumstances instead of replacing the existing command primer.**
+**Related:** [Chain of Command rankings](chain-of-command-ranking.md), [Existing Lieutenant/command strategy](../Strategy/lieutenant-and-command-structure.md), [Order efficiency](../Strategy/order-efficiency.md), [Order generators apex/value](cheerleaders-and-order-generators.md), [Fireteams](../Strategy/fireteams-and-profile-evaluation.md), [TAGs](tags.md), [Hacking](hackers-and-killer-hackers.md). **This guide adds comparative cross-game rankings and researched profile-specific circumstances instead of replacing the existing command primer.**
 
 ## The fast verdict
 
@@ -204,7 +204,7 @@ Prioritize genuinely usable orders, deployment and command utility, safety and c
 
 **Risk test:** estimate (A) probability the opponent removes/Isolates the LT, × (B) *number of useful pooled activations and scenario pushes you would lose* on the following turn, × (C) how safely a live CoC/Mnemonica host changes that outcome. This is a **decision aid, not a calibrated probability model**. When premium attacking LT cannot profitably use its extra Order or still needs a costly backup, a cheaper protected LT may outperform it.
 
-**Chain of Command rankings:** [CoC apex, points-value and roster-specific successor tiers](chain-of-command-apex-and-value.md). The detailed successor table and additional options are maintained in that separate guide.
+**Chain of Command rankings:** [CoC unified ranking and roster-specific successors](chain-of-command-ranking.md). The detailed successor table and additional options are maintained in that separate guide.
 
 ## Rules and command-package interactions
 
