@@ -259,4 +259,4 @@ All examples use **one copy of each named candidate**, except where a multiplier
 - [Order efficiency](../Strategy/order-efficiency.md) · [Impetuous/Irregular sequencing](../Strategy/impetuous-and-irregular-troop-sequencing.md) · [Cheap midfield speed bumps](cheap-midfield-defenders-and-speed-bumps.md) · [Cheap DZ defenders](cheap-dz-defenders-and-trade-pieces-ranking.md) · [REMs](rems.md)
 - [Lieutenant and command structure](../Strategy/lieutenant-and-command-structure.md) · [Fireteams](../Strategy/fireteams-and-profile-evaluation.md) · [Command Tokens](../Strategy/command-tokens.md)
 - [Peripherals and multi-body troops](../Strategy/peripherals-synchronized-and-multi-body-troops.md) · [Mission specialists](../Strategy/mission-scoring-and-specialist-strategy.md)
-- [Hacker/KHD comparison](hackers-and-killer-hackers.md) · [TAG comparison](tags.md) · [VH comparison](vehicles-vh.md)
+- [Hacker/KHD comparison](hackers-and-killer-hackers.md) · [TAG comparison](tags-ranking.md) · [VH comparison](vehicles-vh.md)
