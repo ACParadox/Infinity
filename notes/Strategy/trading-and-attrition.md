@@ -2,7 +2,7 @@
 
 ## N5.3 Warbands / cheap trade cross-reference (2026-10-23)
 
-[N5.3 Warbands/Cheap Traders: Apex and value](../list-building/warbands-and-cheap-trading-units-ranking.md) compares these profile-specific trades:
+[N5.3 Warbands/Cheap Traders: Apex and value](../list-building/warbands-ranking.md) compares these profile-specific trades:
 
 - **Ghazi E/Marat — 5pt**
 - **Morlock E/M CC — 6pt**
