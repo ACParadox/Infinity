@@ -33,6 +33,15 @@ The standout independent modules are:
 
 **Not Shinden-exclusive:** Yojimbo's Smoke/CrazyKoala/MA4 trading (also Ōban); Saito Tōgan's Hidden Deployment/Smoke assassination (all three JSA rosters); Rui Shi MSV2 as a standalone REM; Raiden's Hidden Deployment/Minelayer profiles (also Vanilla); and the general ability to field unlimited Duos (also Ōban). **Shinden's opportunity cost** is missing Ōban/Vanilla tools such as Shinobu Kitsune, Oniwaban, Shikami and Karakuri; do not imply the sectorial has their elite infiltration or STR3 objective-holding roles.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Hatamoto** | Plasma Carbine SO34/0; Red Fury40/1 separate | [Zone S #7](../list-building/objective-holding-ranking.md) · [CC S+ #4](../list-building/close-combat-ranking.md) · [Gunfighters A+ #8 (medium)](../list-building/gunfighters-ranking.md) · [Toolbox S- #42](../list-building/toolbox-units-rankings.md) · [Mission A+ #105](../list-building/mission-specialists-ranking.md) · [LT S #1 (LT variants)](../list-building/LT-ranking.md) | Efficient zone anchor with Nanoscreen, Mimetism and strong melee; preserve distinct LT and gun profiles. |
+
 ### Whole-game standouts — apex versus value
 
 **Sectorial tier / overall rank: B+ — #24 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Tanuki HD/Pitcher/Disco with MSV-capable Sayō support, Hatamoto fighting/LT value, flexible small Fireteams and concealed trades give several independent scoring routes; premium long-range and anti-tech answers are less comprehensive.
