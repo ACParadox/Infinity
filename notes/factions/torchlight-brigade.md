@@ -35,7 +35,7 @@ _These are current global profile-specific ranks, not faction tiers. For these p
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -69,9 +69,9 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 18 | S+ | Nightshade KHD 34/0 — O-12/Starmada/Torchlight | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 26 | S | Raveneye FO 12 or CoC+FO 18 — Torchlight | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 109 | A+ | Waverider HD + Oblivion(+1B) 22/.5 — Torchlight | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 135 | A+ | Strider SO 27/0 / FO29/0 — Torchlight | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 186 | A | Kludger — Engineer 23/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 108 | A+ | Waverider HD + Oblivion(+1B) 22/.5 — Torchlight | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 134 | A+ | Strider SO 27/0 / FO29/0 — Torchlight | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 185 | A | Kludger — Engineer 23/0 | Existing local profile match; verify exact variant |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 6 | S | Waverider KHD/Pitcher 20/0 or HD/Pitcher 22/.5 — Torchlight | Roster named in source |
 | [2. Best Turn-0 network](../list-building/network-projection-ranking.md#2-best-turn-0-network) | 8 | A+ | Torchlight Strider DR + Minelayer 28/.5 | Roster named in source |
 | [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 8 | S | Oko FO/Sensor/native Repeater + Tactical Awareness 18/0 — O-12 / Torchlight as legal | Roster named in source |
