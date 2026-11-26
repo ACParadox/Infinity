@@ -28,7 +28,7 @@ The table separates **ISS-specific access within Yu Jing** from combinations tha
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -57,8 +57,8 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 81 | B | Imperial Vanguard Qiánfēng KHD + Firewall(-3) 24/0 — ISS | Roster named in source |
 | [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 84 | B | Pheasant Imperial Agent KHD 26/0 — Imperial Service | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 13 | S+ | Imperial Vanguard Qiánfēng FO26 Hidden+Infiltration or KHD24 Parachutist — ISS; Imperial Vanguard Qiánfēng KHD24/0 or HD26/0 Parachutist — ISS | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 124 | A+ | Koga Ninja KHD+Carbonite30/0 — Imperial Service | Roster named in source |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 173 | A | Jīnyào Paramedic19/0 — Imperial Service | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 123 | A+ | Koga Ninja KHD+Carbonite30/0 — Imperial Service | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 172 | A | Jīnyào Paramedic19/0 — Imperial Service | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 3 | S+ | Fēiquán 28/0 — Imperial Service / White Banner / Vanilla Yu Jing | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 16 | A+ | Zhànyīng HD/Zero Pain/Pitcher 24/.5 — Imperial Service | Roster named in source |
 | [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 3 | S+ | Dikpala Tacbot Repeater + SMG/Akrylat-Kanone 13/0 — ALEPH/OSS | Existing local profile match; verify exact variant |
