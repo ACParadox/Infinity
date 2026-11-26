@@ -25,7 +25,7 @@
 
 **Defensive budget rankings (updated 5 Nov 2026):** [Cheap Midfield Defenders & Speed Bumps](midfield-defenders-and-speed-bumps-ranking.md) and [Cheap DZ Defenders & Trade Pieces](dz-defenders-ranking.md) rank exact forward-deployed and deployment-zone protection/trade profiles. This Cheerleaders page remains the reference for pooled-Order economics, FT Master packages and pure passive fillers.
 
-**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-special-abilities-ranking.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
+**Special-ability cross-faction selection (23 Oct 2026):** [Force Multipliers — TinBot, Counterintelligence, EVO, FT Master, Strategic Deployment, TAGCom, Cyberplug, Decoy and Baggage: apex/value tiers](force-multipliers-ranking.md) gives profile-accurate best choices and matchups, opposing MCP transcripts and the constraints on **whole-team versus same-group effects**, **EVO one-Program support**, **Cyberplug additional model cost**, and **Decoy false Orders**. The individual strategy below remains relevant.
 
 **Body/Order accounting for rare mechanics:** [Rare Abilities & Unusual Combinations — apex/value](rare-capabilities-and-unique-combinations-apex-value.md) compares:
 
