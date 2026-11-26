@@ -25,7 +25,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B — #29 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**).
+**Sectorial tier / overall rank: B — #28 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Nonlethal denial and mission-oriented teams remain sound; Casanova and Nightshade improvements are promising, but expensive configurations still erode spare Orders.
 
 **Ranking rule:** These are **cross-faction role-specific** rankings, not an overall unit tier list or measured win rates. Apex rewards peak role impact; Value rewards effectiveness per point, SWC and Order. Where the source ranks a combined role, that placement is labeled **role-specific** rather than represented as a separate Apex/Value result. **Top 1–5 rankings and their corresponding profiles are bolded; ranks #6–10 are regular text.** **Table order:** strongest numeric role-specific placement first (#1, then #2, etc.) across Apex and Value; for ties, Apex takes precedence over Value, then a secondary Value placement; exact ranks precede bounded placements such as ≤#3. This is not an overall unit tier list. Exact profile, Fireteam and Peripheral constraints follow the [pinned Starmada N5.3 roster](../../sectorials/o-12/starmada.md).
 

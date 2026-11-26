@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C — #37 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
+**Sectorial tier / overall rank: C — #38 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Foxtrots, cheap bikes, forward mines and non-Hackable troops trade efficiently, with several individually excellent units. Its low ranking reflects a lack of answers to certain opponents: no hacking, no premium TAG/VH, limited marker diversity, fragile elite infantry, limited premium vision control and a narrow roster.
 
 **Ranking rule:** Cross-faction placements are **role- and profile-specific**, not overall unit rankings. Rows put the **strongest exact numeric ranking first (#1, then #3, #6, #7)** across Apex and Value; Apex takes precedence on exact ties. **Bounded placements** such as ≤#3 or ≤#5 follow exact-ranked rows in strongest-bound order, then unranked local observations; a bound is never assigned an invented exact position. Apex = peak impact; Value = cost effectiveness. Only Top #1–5 ranks and their profiles are bold; #6–10 and unranked observations remain regular. Verify loadouts and team rights against the [pinned USARF roster](../../sectorials/ariadna/usariadna.md).
 

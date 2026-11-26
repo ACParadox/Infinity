@@ -35,7 +35,7 @@ The standout independent modules are:
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B — #27 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Tanuki Pitcher/Disco/MSV combinations, Hatamoto Order tricks and flexible Duos provide clever midfield pressure, but limited brute-force reach.
+**Sectorial tier / overall rank: B+ — #24 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Tanuki HD/Pitcher/Disco with MSV-capable Sayō support, Hatamoto fighting/LT value, flexible small Fireteams and concealed trades give several independent scoring routes; premium long-range and anti-tech answers are less comprehensive.
 
 **Distinct Top X Shindenbutai units (19 November 2026; counted once per named unit):** **2/36 Top 3 (5.6%)** — Hatamoto and Tanuki; **2/36 Top 5 (5.6%)** — the same two; **10/36 Top 10 (27.8%)** — Hatamoto, Tanuki, Saito Tōgan, Yojimbo (bike/foot alternative counted once), Metsuke, Kyojin, Teishin, Yamabushi, Lù Duān and Ninjas. A separate [Teishin #4 airborne-scoring Value](../list-building/airborne-objective-specialists-value.md#airborne-specialist--value-top-5) is **narrow-role only** and does not enter these broad-role percentage counts. Rankings are editorial and profile-specific, not measured win rates. The 30pt Shinden Ioann Bann **does not inherit** the #7 frontline rank attached to a Smoke-equipped 32pt other-roster profile.
 

@@ -27,7 +27,7 @@ Corregidor's defining combinations are **two Moran midfield Repeaters**, **Lobo-
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A — #15 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Morans, Koalas and Jazz build the early Repeater game; Fireteams and airborne options vary between Surface and Deepspace.
+**Sectorial tier / overall rank: A — #15 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Morans/Koalas establish a strong early Repeater network for hackers, backed by Fireteams and airborne threats; list construction must manage roster splits.
 
 **Ranking rule:** Entries are ordered by their strongest listed numeric placement across **Apex or Value** (**#1 first, then #2, #3, and so on**; ties retain their previous order; unspecific ≤#10 placements follow known exact ranks). Rankings are tied to distinct cross-faction roles and selected legal profiles; **Apex** measures peak impact and **Value** performance per point. Only Top 1–5 placements and their exact eligible profiles are bold; Top 6–10 and unranked entries are unbolded. Entries explicitly marked *role-specific* or *combined* are not independent Apex or Value placements: the column merely organizes those comparisons. Broad Top 3/5/10 labels are preserved without inventing an exact rank. Costs, divisional availability, and Fireteam permissions follow the [pinned Corregidor N5.3 roster](../../sectorials/nomads/corregidor.md); multiple loadouts of the same unit cannot be combined.
 

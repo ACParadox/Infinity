@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #24 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Hafza deception, Sekban NCO, Laxmee/White Noise and varied mercenary Fireteams create several viable routes, but less raw pressure than higher tiers.
+**Sectorial tier / overall rank: B+ — #25 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Hafza/Sekban economy, Laxmee/White Noise and varied Fireteams remain intact. The improved Shakush (including BS Attack (-3), Warhorse and Continuous Damage HMG) offsets weaker situational Zeybek and Korsan options.
 
 **Ranking rule:** Rows are ordered by their **strongest evidenced placement**, with **#1 first**, then #2, #3 and so on; ties favor Apex over Value, and an exact rank precedes a bounded `≤#X` placement at the same number. Entries without numbered ranks follow. Placements are editorial rankings within each linked **cross-faction role**, not universal unit rankings or measured win rates. **Apex** measures peak impact; **Value** weighs points, SWC and Orders. Top 1–5 placements and their matching profiles are bold; #6–10 entries are regular text. A combined or role-specific placement is explicitly identified and does not imply a separate Apex/Value rank. Exact N5.3 unit profiles, skills, costs and Fireteam permissions follow the [pinned qapu khalqi roster](../../sectorials/haqqislam/qapu-khalqi.md).
 
@@ -1037,7 +1037,7 @@ Do not import Vanilla-only Vehicles/Maghariba, foreign Fireteams or non-QK REM A
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/qapu-khalqi_refs.md).
 
-**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-13.
+**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-26.
 
 **Factual authority:** [Qapu Khalqi N5.3 reference](../../sectorials/haqqislam/qapu-khalqi.md). Pinned N5.3 profiles and Fireteam charts take precedence over tactical opinions or older videos and podcasts.
 

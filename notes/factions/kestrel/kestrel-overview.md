@@ -10,7 +10,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: S — #5 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: S — #5 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Elite PanO shooting, efficient Orders, linked visors, cheap projected Eclipse, E/M disruption and independent scoring retain their strength despite the Redeye nerf.
 
 **Ranking rule:** The #1–#10 placements below are **cross-faction role-specific** rankings, not an overall unit power list. Apex measures maximum role impact; Value measures efficiency per point. Combined or unclassified role positions are labeled rather than treated as separate Apex or Value results. **Only Top 1–5 placements and their corresponding unit profiles are bolded**; #6–10 remain regular text. Each row refers only to the legal selected N5.3 profile and valid Fireteam or Peripheral package; the [pinned Kestrel roster](../../../sectorials/panoceania/kestrel-colonial-force.md) controls legality and costs.
 

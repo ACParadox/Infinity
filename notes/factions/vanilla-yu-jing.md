@@ -27,7 +27,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Faction tier / overall rank: A — #9 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Elite HI, Camouflage, cheap screening, LT/NCO efficiencies and a broad TAG/VH menu yield strong independent threats on several fronts.
+**Faction tier / overall rank: A — #8 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Elite HI, Camouflage, cheap screening, LT/NCO efficiencies and diverse attackers remain strong despite aerial-vehicle changes; rises primarily through Haqqislam's demotion.
 
 **Display order:** Rows are sorted by the **best numbered Apex or Value placement** (**#1 first**, then #2, #3, etc.; unranked last). A conditional placement remains conditional even when sorted among numbered ranks.
 

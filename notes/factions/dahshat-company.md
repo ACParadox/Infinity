@@ -36,7 +36,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: D — #45 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed **13 November 2026**). Cheap forward trades, Smoke and TAG support create multiple plans, though synergy and breadth fall behind stronger armies.
+**Sectorial tier / overall rank: D — #45 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Useful Smoke, disposable midfield trades and TAG support remain, yet the combined toolkit struggles to match stronger factions' synergy and flexibility.
 
 **Ranking rule:** Rankings are cross-faction **role-specific** comparisons, not universal unit power scores. Apex measures peak impact; Value measures cost efficiency. **Only Top 1–5 ranks and their exact legal profiles are bolded**; #6–10 and unranked entries stay plain. Role-specific and combined standings do not become separately ranked Apex or Value lists simply by appearing in the column. A Top 3/5/10 band without an exact position is retained as a band, not assigned an invented number. Check the [pinned N5.3 NA2 roster](../../sectorials/na2/dahshat-company.md) for exact points, loadouts, Fireteam eligibility and selected-profile restrictions.
 

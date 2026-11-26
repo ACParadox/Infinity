@@ -40,7 +40,7 @@ These are **NA2-only access distinctions**, **not game-wide unique models or rul
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C− — #42 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed **13 November 2026**). Cheap Smoke and close combat, durable objective troops and mixed mercenary teams can force trades, but the overall defense and role coverage are uneven.
+**Sectorial tier / overall rank: D — #42 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap Smoke/CC pressure and mixed mercenary links can steal games, but fragile defenses and patchy role coverage hurt consistency.
 
 **Table order:** Highest verified placement first (**#1 before #2 before #3**, etc.); ties use Apex before Value. Exact placements precede bounded `≤#X` bands at the same number, and unranked tiers follow. These are *role-specific* placements, not overall unit-power scores.
 

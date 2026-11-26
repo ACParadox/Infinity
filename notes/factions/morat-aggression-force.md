@@ -1,5 +1,7 @@
 # Morat Aggression Force — N5 listbuilding and profile selection
 
+**Sectorial tier / overall rank: A — #12 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Reliable Regular Orders, Warhorse, Smoke and robust compact teams make direct pressure dependable; fewer concealment and misdirection options. Recounted broad-role standouts now include Kaitok's #8 zone-denial Value placement.
+
 **Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../../sectorials/combined-army/morat-aggression-forces.md).
 
 _Last reviewed: 2026-10-22. Sources: Robert Shepherd's N5 Morat faction focus (transcript reviewed), Tactical Awareness S3E13 (full podcast transcript reviewed), WIP12 E65 (older N4 transcript consulted), Sneaky Snake's MO-versus-Morat matchup (transcript accessible), and official N5.3 update. Tactical views are not rules: confirm exact profiles, cost, AVA, Fireteams and equipment in current Infinity Army before building._

@@ -27,7 +27,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #25 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Interventors, Pitchers, Puppetbots and affordable Hollow Men support strong hacking control; passive defense remains a larger challenge.
+**Sectorial tier / overall rank: B+ — #26 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Interventors, Pitchers, Puppetbots and affordable Hollow Men sustain strong hacking; Go-Pod nerfs do not undermine the core architecture, and robust passive defense remains harder to assemble.
 
 **Ranking rule:** Rows are ordered by their **strongest numeric cross-faction placement** across Apex and Value (**#1 first**, then #2, #3, etc.); ties prioritize an Apex placement over Value, then secondary Value rank, with exact ranks before bounded placements such as ≤#5. **Apex** measures peak impact and **Value** performance per point. Only Top 1–5 placements and their exact eligible profiles are bold; Top 6–10 and unranked entries are unbolded. Entries explicitly marked *role-specific* or *combined* are not independent Apex or Value placements: the column merely organizes those comparisons. Broad Top 3/5/10 labels are preserved without inventing an exact rank. Costs, divisional availability, and Fireteam permissions follow the [pinned Tunguska N5.3 roster](../../sectorials/nomads/tunguska.md); multiple loadouts of the same unit cannot be combined.
 

@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: S — #3 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: S — #3 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Posthuman efficiency, WIP15 hacking, REM specialists and supported Fireteams remain exceptional despite weaker Tarkshya and Dasyu options.
 
 **Ranking rule:** Rows are ordered by their strongest stated Top-X placement, with **#1 first**, followed by #2, #3, and so on; ties favor Apex and then Value. Ranks expressed as `≤#X` use X as the conservative sort position.  Each placement is a **role-specific** editorial shortlist, not an overall unit rank or a measured win rate. Apex reflects peak capability; Value reflects points/SWC and Order efficiency. Combined or unclassified positions are labeled rather than assigned a fabricated Apex/Value ranking. **Top 1–5** placements (and their corresponding profiles) are **bold**; ranks #6–10 are not. Profile, Peripheral, G:Jumper and Fireteam restrictions are governed by the [pinned Operations Subsection (OSS) N5.3 roster](../../sectorials/aleph/operations-subsection.md).
 

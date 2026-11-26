@@ -1,5 +1,7 @@
 # Vanilla PanO — Overview (Infinity N5.3)
 
+**Faction tier / overall rank: S — #1 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). The broad independent PanO gun/TAG/Hidden Deployment toolbox, command and Repeater support absorb the Redeye nerf; Shadowcrow adds a promising independent option.
+
 **Vanilla PanO guides:** [Overview](vanilla-pano-overview.md) · [Inventory](vanilla-pano-inventory.md) · [Listbuilding](vanilla-pano-listbuilding.md) · [Fireteams](vanilla-pano-fireteams.md) · [References](vanilla-pano-references.md) · [Units](units/).
 
 **Reference archive:** [Primary source recordings, N5.3 tactical cross-references, battle reports and purchasing audit](vanilla-pano-references.md).

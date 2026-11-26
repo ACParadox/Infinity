@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #23 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 19 November 2026).
+**Sectorial tier / overall rank: B — #29 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Wallace turns cheap Smoke/CC warbands into an Order-efficient attack engine with nasty close trades, but its short-range pressure is relatively predictable and layered defense against prepared opponents remains thin.
 
 **Ranking rule:** These are distinct cross-faction *role* placements, not a universal unit power ranking. Apex rewards peak contribution; Value rewards effectiveness per point. Only ranks #1–5 (and their exact profiles) are bold; #6–10 and unranked observations are not. A role-specific or approximate placement is not relabelled as a separate Apex/Value ranking. Always use the [pinned Caledonia roster](../../sectorials/ariadna/caledonian-highlander-army.md) for legal profiles and Fireteams. **Ordering:** strongest evidenced placement first (#1 before #3, #5, and #10); exact ranks precede bounded/approximate ranks at the same threshold, with Apex ahead of Value on exact ties; unranked notes are last.
 

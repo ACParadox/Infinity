@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B — #31 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 19 November 2026).
+**Sectorial tier / overall rank: B — #31 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Fast shooting, very cheap Smoke and Mirage-5 threaten front, midfield and enemy DZ simultaneously; staying power and scenario breadth are less secure.
 
 **Ranking rule:** Entries are cross-faction role standings, not overall unit ranks. Apex values peak impact; Value weighs points efficiency. Bold denotes only top #1–5 positions and their exact profiles; #6–10 and unranked observations stay plain. Role-specific rankings are not independently sourced Apex/Value rankings. The [pinned Kosmoflot roster](../../sectorials/ariadna/kosmoflot.md) controls availability, points and Fireteam legality. **Ordering:** strongest evidenced placement first (#1 before #3, #5 and #10); exact placements precede bounded/approximate placements at the same number, Apex before Value on exact ties; unranked notes follow.
 

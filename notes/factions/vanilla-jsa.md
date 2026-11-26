@@ -36,7 +36,7 @@ The usual payoff is **concealment and route creation → one precise assault or 
 
 ### Whole-game standouts — apex versus value
 
-**Faction tier / overall rank: B− — #32 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Concealed assassins, CC specialists and selective small teams offer strong ambush play; consistent ranged support and breadth lag stronger Vanilla armies.
+**Faction tier / overall rank: B− — #32 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Concealed assassins, CC specialists and small teams remain strong; Ryūken and Shadowcrow options improve flexibility but consistent ranged support and breadth still lag stronger Vanilla armies.
 
 **Ranking rule:** These are **role-specific cross-faction rankings**, not universal troop-strength lists or measured tournament win rates. Apex rewards peak impact; Value considers points, SWC and Orders. Only Top 1–5 placements and associated profiles are bolded; #6–10 entries are regular text. Combined and role-specific placements do not imply independently established Apex or Value ranks. Exact N5.3 costs, loadouts and Fireteam legality follow the [pinned Vanilla JSA roster](../../sectorials/jsa/jsa.md).
 

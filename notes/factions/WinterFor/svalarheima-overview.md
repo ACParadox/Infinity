@@ -8,7 +8,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C — #40 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: C — #40 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Jotum, long-range AROs and two-Haris options make tough lanes, but expensive, relatively direct plans can struggle with flexible scoring.
 
 **Ranking rule:** The #1–#10 placements below are **cross-faction role-specific** rankings, not an overall unit power list. Apex measures maximum role impact; Value measures efficiency per point. Combined or unclassified role positions are labeled rather than treated as separate Apex or Value results. **Display order:** strongest whole-game placing first (#1, then #2, and so on), using Apex ahead of Value for equal ranks.**Only Top 1–5 placements and their corresponding unit profiles are bolded**; #6–10 remain regular text. Each row refers only to the legal selected N5.3 profile and valid Fireteam or Peripheral package; the [pinned WinterFor roster](../../../sectorials/panoceania/svalarheima-s-winter-force.md) controls legality and costs.
 

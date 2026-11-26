@@ -25,7 +25,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B — #30 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Cheap forward E/M/Camo screens, Smoke/Eclipse, Albedo and flexible mixed HI/MI teams make it versatile, though the strongest pieces compete for points.
+**Sectorial tier / overall rank: B — #30 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap forward E/M/Camo screens, Smoke/Eclipse, Albedo and flexible mixed HI/MI teams remain versatile; aerial-vehicle nerfs do not warrant a demotion.
 
 **Table order:** best reported rank first (**#1** through **#10**), taking the best placement across Apex/Value and then favoring Apex within ties. A rank based on a profile discrepancy is retained as source-reported but flagged for audit.
 

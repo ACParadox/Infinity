@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Faction tier / overall rank: C — #38 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed **13 November 2026**). Symbiont troops, SymbioMates, Mirrorball/Eclipse and Triads create distinct attritional and positional advantages, while long-range coverage remains matchup-sensitive. Tohaa is a vanilla faction with its own Triad Fireteam system, not a conventional sectorial.
+**Faction tier / overall rank: C+ — #34 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Symbionts, Triads, SymbioMates and Mirrorball/Eclipse retain their distinctive attritional and positional advantages; Ioann Bann is not a demonstrated competitive cornerstone. Long-range coverage remains limiting. Tohaa is a vanilla faction with its own Triad Fireteam system, not a conventional sectorial.
 
 **Ranking rule:** Rankings are cross-faction **role-specific** comparisons, not universal unit power scores. Apex measures peak impact; Value measures cost efficiency. **Only Top 1–5 ranks and their exact legal profiles are bolded**; #6–10 and unranked entries stay plain. Role-specific and combined standings do not become separately ranked Apex or Value lists simply by appearing in the column. A Top 3/5/10 band without an exact position is retained as a band, not assigned an invented number. Check the [pinned N5.3 Tohaa roster](../../sectorials/tohaa/tohaa.md) for exact points, loadouts, Fireteam eligibility and selected-profile restrictions.
 

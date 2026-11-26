@@ -1,5 +1,7 @@
 # Vanilla ALEPH — N5.3 tactical and list-building research
 
+**Faction tier / overall rank: S — #2 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Posthumans, elite hacking, Smoke/Eclipse and concealed specialists provide enough redundancy to absorb the Tarkshya nerf.
+
 **Reference archive:** [Vanilla ALEPH source recordings, cross-references, battle reports and purchasing audit](references/vanilla-aleph_refs.md). **Authoritative N5.3 roster:** [Vanilla ALEPH reference](../../sectorials/aleph/aleph.md).
 
 ## Overview

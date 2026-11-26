@@ -8,7 +8,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A− — #19 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). SAA combines flexible PanO Fireteams, efficient mines/infiltrators, Tikbalang support and a unique Eclipse-launcher Auxbot; it has strong individual tools without an S-tier all-comers ceiling. **Comparative note:** The earlier four-army provisional order remains a close qualitative call; the separate Bakunin benchmark now places Bakunin ahead of this cluster.
+**Sectorial tier / overall rank: A− — #19 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Affordable Regulars/mines, Naga/Dart midfield, Scylla, flexible teams and Tikbalang/Dragão shooting make versatile mission lists; cheap visibility control remains scarce.
 
 **Ranking rule:** Rankings below refer to distinct **cross-faction roles**, not a universal unit power list. Top 3 = #1–3, Top 5 = #1–5 and Top 10 = #1–10 **within the linked role and criterion**. Apex rewards peak impact; Value rewards performance per point. A “role-specific” or “combined” placement is not falsely relabelled as a separate Apex/Value rank. Only Top 1–5 placements (and their corresponding profiles) are bolded; #6–10 placements remain regular text. Different profiles of the same unit are not interchangeable. Exact N5.3 points, SWC and selection constraints follow the [pinned SAA roster](../../../sectorials/panoceania/shock-army-of-acontecimento.md).
 

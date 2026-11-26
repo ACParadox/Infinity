@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Faction tier / overall rank: S — #4 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Efficient Saladin/Hafza command engines fund Impersonation, mines, irregular trades and high-quality infiltrating specialists; exceptional scenario adaptability.
+**Faction tier / overall rank: A — #11 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Saladin's proven cheap-Irregular economy is less efficient after Daylami become Regular and Ghazi/Hunzakut/Bashi AVA falls; both Haytham and Zeybek are weaker. Shakush and Yara improvements and the remaining specialist/Impersonation toolbox keep it in A.
 
 **Ranking rule:** Rows are ordered by their **best (lowest-numbered) published placement**, with **#1 first**; exact ranks precede bounded `≤#X` placements at the same number, and Apex breaks remaining ties before Value. Unranked entries follow. Placements are editorial rankings within each linked **cross-faction role**, not universal unit rankings or measured win rates. **Apex** measures peak impact; **Value** weighs points, SWC and Orders. Top 1–5 placements and their matching profiles are bold; #6–10 entries are regular text. A combined or role-specific placement is explicitly identified and does not imply a separate Apex/Value rank. Exact N5.3 unit profiles, skills, costs and Fireteam permissions follow the [pinned vanilla haqqislam roster](../../sectorials/haqqislam/haqqislam.md).
 
@@ -472,7 +472,7 @@ Do not import Fireteam sizes, high REM AVA, Iguana, Tarik or other sectorial-onl
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/vanilla-haqqislam_refs.md).
 
-**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-13.
+**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-26.
 
 **Factual authority:** [Vanilla Haqqislam N5.3 reference](../../sectorials/haqqislam/haqqislam.md). Pinned N5.3 profiles and Fireteam charts take precedence over tactical opinions or older videos and podcasts.
 

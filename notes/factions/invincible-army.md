@@ -34,7 +34,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A− — #18 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). Tactical Awareness and NCO sustain excellent linked heavy-infantry gunfights; expensive Hackable bodies can leave thin independent scoring and screens. **Comparative note:** The earlier four-army provisional order remains a close qualitative call; the separate Bakunin benchmark now places Bakunin ahead of this cluster.
+**Sectorial tier / overall rank: A− — #18 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Dāoyīng LT(+1) with Tai Sheng NCO and Tactical Awareness sustains linked HI firepower, while Hǎidào, Yān Huǒ, Gūdǎn and Zhēnchá improve defense and scoring; cost and Hackability still constrain redundancy.
 
 **Ranking rule:** These are independent **cross-faction role rankings**, not a universal unit power list. Apex rewards peak impact; Value rewards performance per point. A Top 3/Top 5/Top 10 label refers to the named source ranking only. Only **Top 1–5** placements and corresponding legal profiles are bolded; #6–10 and unverified or different-loadout comparisons are not. Combined and role-specific placements are distinguished from separate Apex/Value standings. The [pinned Invincible Army roster](../../sectorials/yu-jing/invincible-army.md) controls exact costs, loadouts and team permissions.
 

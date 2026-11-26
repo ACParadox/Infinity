@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C− — #43 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed **13 November 2026**). Knauf and Uhahu, Avicenna-backed Riot Grrls, and mobile mercenary specialists give strong tactical peaks without uniformly elite shooting.
+**Sectorial tier / overall rank: D — #43 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Knauf/Uhahu, Avicenna/Riot Grrls and mobile mercenary specialists offer spikes of excellence, but the overall package is uneven.
 
 **Ranking rule:** Rankings are cross-faction **role-specific** comparisons, not universal unit power scores. Apex measures peak impact; Value measures cost efficiency. **Only Top 1–5 ranks and their exact legal profiles are bolded**; #6–10 and unranked entries stay plain. Role-specific and combined standings do not become separately ranked Apex or Value lists simply by appearing in the column. A Top 3/5/10 band without an exact position is retained as a band, not assigned an invented number. Check the [pinned N5.3 NA2 roster](../../sectorials/na2/starco-free-company-of-the-star.md) for exact points, loadouts, Fireteam eligibility and selected-profile restrictions.
 

@@ -1,5 +1,7 @@
 # Vanilla Nomads — N5.3 Tactical and List-Building Guide
 
+**Faction tier / overall rank: A — #10 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Broad hacking, cheap Smoke/Eclipse, midfield pieces and specialists remain intact; the promising Shadowcrow adds flexibility while the Go-Pod nerf is not central to its list architecture.
+
 **Reference archive:** [Vanilla Nomads scope, primary recordings, tactical cross-references, battle reports and purchasing audit](references/vanilla-nomads_refs.md).
 
 **Direct video/podcast-supported unit priorities:** [Nomads four-roster must-have / go-to / avoid audit](references/vanilla-nomads_refs.md#must-have--go-to--avoid--source-backed-recommendations-2026). “Never take” opinions are profile- and role-scoped; current N5.3 Army data supersedes older clips.

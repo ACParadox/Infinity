@@ -27,7 +27,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A — #16 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: A — #16 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Mimetism-heavy Greek elites, Smoke/Eclipse, hard melee and compact Fireteams have explosive ceiling; limited cheap bodies make mistakes expensive.
 
 **Ranking rule:** Rows are sorted by their strongest stated whole-game placement (**#1 first**, then #2, #3, and so on); ties prioritize Apex before Value, then list-building significance. Each placement is a **role-specific** editorial shortlist, not an overall unit rank or a measured win rate. Apex reflects peak capability; Value reflects points/SWC and Order efficiency. Combined or unclassified positions are labeled rather than assigned a fabricated Apex/Value ranking. **Top 1–5** placements (and their corresponding profiles) are **bold**; ranks #6–10 are not. Profile, Peripheral, G:Jumper and Fireteam restrictions are governed by the [pinned Steel Phalanx N5.3 roster](../../sectorials/aleph/steel-phalanx.md).
 

@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A — #14 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
+**Sectorial tier / overall rank: A — #14 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Spetsnaz/Veteran Kazak counterattacks and dense Camo/Decoy/mine screens combine with an unusually credible artillery ecosystem; less flexible than Vanilla.
 
 **Ranking rule:** Rankings are cross-faction, role- and loadout-specific, not universal unit ranks. Apex is ceiling; Value is effectiveness per point. Only Top #1–5 ranks and their profiles are bold; #6–10 and unranked notes remain regular. Role-specific standings are not independent Apex/Value rankings. [Pinned TAK roster and Fireteam chart](../../sectorials/ariadna/tartary-army-corps.md) govern legality and profile details. **Ordering:** strongest evidenced placement first (#1 before #2, #3 and #10); exact placements precede bounded placements at the same rank, Apex before Value on exact ties, and unranked entries last.
 

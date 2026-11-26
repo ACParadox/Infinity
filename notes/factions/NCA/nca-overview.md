@@ -8,7 +8,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: A+ — #8 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: A+ — #7 of 45**, from the [N5.3 faction and sectorial rankings](../../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Swiss Guard HMG/Uhlan ambushes, layered ARO shooting, Bolts and Auxilia remain a powerful shell despite Redeye changes; rises primarily through Haqqislam's demotion.
 
 **Ranking rule:** Rows are ordered by their **best (lowest-numbered) Top # position**, with #1 first, regardless of whether that placement is Apex or Value. The #1–#10 placements below are **cross-faction role-specific** rankings, not an overall unit power list. Apex measures maximum role impact; Value measures efficiency per point. Combined or unclassified role positions are labeled rather than treated as separate Apex or Value results. **Only Top 1–5 placements and their corresponding unit profiles are bolded**; #6–10 remain regular text. Each row refers only to the legal selected N5.3 profile and valid Fireteam or Peripheral package; the [pinned Neoterra roster](../../../sectorials/panoceania/neoterran-capitaline-army.md) controls legality and costs.
 

@@ -6,7 +6,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C — #39 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (reviewed 13 November 2026).
+**Sectorial tier / overall rank: C — #39 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Chasseurs, infiltrating Métros, Moblots and off-axis attacks offer useful pressure, but the roster has fewer exceptional all-round pieces.
 
 **Ranking rule:** Cross-faction rankings apply to a named role and exact profile, not to a whole army or every loadout. Apex reflects peak contribution; Value reflects performance per point. Only Top #1–5 ranks and matching profiles are bold; #6–10 and unranked options remain plain. Broad Top 3/5/10 labels are preserved without guessing an exact position. **Table order:** best cited rank first (#1, #2, #3, ... #10) across Apex and Value; unranked observations last. The [pinned FRRM roster](../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md) is authoritative for legal availability and Fireteams.
 

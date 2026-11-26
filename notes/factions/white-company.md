@@ -36,7 +36,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: B+ — #21 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **19 November 2026**). PanO shooting, Guiláng midfield networking and versatile mixed-team packages offer broad answers, although few individual efficiencies reach the highest tier. **Comparative note:** The earlier four-army provisional order remains a close qualitative call; the separate Bakunin benchmark now places Bakunin ahead of this cluster.
+**Sectorial tier / overall rank: B+ — #21 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Exceptional NA2 mixed PanO/Yu Jing/mercenary toolbox brings Guìláng, Karhu/Kaplan and visibility choices; strong packages compete for points and may strain the Order economy.
 
 **Ranking rule:** Rankings are cross-faction **role-specific** comparisons, not universal unit power scores. Apex measures peak impact; Value measures cost efficiency. **Only Top 1–5 ranks and their exact legal profiles are bolded**; #6–10 and unranked entries stay plain. Role-specific and combined standings do not become separately ranked Apex or Value lists simply by appearing in the column. A Top 3/5/10 band without an exact position is retained as a band, not assigned an invented number. Check the [pinned N5.3 NA2 roster](../../sectorials/na2/white-company.md) for exact points, loadouts, Fireteam eligibility and selected-profile restrictions.
 

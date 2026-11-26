@@ -25,7 +25,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C+ — #36 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**).
+**Sectorial tier / overall rank: C+ — #36 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Jamie Arantes and Nightshade improvements help independent Order use and scoring, but costly teams still constrain Orders, cheap screens and backup scorers.
 
 **Ranking rule:** These are **cross-faction role-specific** rankings, not an overall unit tier list or measured win rates. Apex rewards peak role impact; Value rewards effectiveness per point, SWC and Order. Where the source ranks a combined role, that placement is labeled **role-specific** rather than represented as a separate Apex/Value result. **Top 1–5 rankings and their corresponding profiles are bolded; ranks #6–10 are regular text.** **Table order:** strongest explicitly listed numeric role placement first (**#1, then #2**, etc.) across Apex and Value; on ties, Apex precedes Value-only and a secondary exact placement breaks further ties. Unspecified **≤#5/≤#10** placements are kept after exact-ranked rows rather than assigned invented ranks. Exact profile, Fireteam and Peripheral constraints follow the [pinned Torchlight Brigade N5.3 roster](../../sectorials/o-12/torchlight-brigade.md).
 

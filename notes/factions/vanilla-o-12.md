@@ -1,5 +1,7 @@
 # Vanilla O-12 — N5.3 tactical analysis and collection decisions
 
+**Faction tier / overall rank: C+ — #33 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Excellent premium guns, hidden specialists, hacking, Smoke/MSV tools and unusual Vanilla Duo/Haris access provide broad answers, but poor points/Order compression weakens complete lists. Gamma/Omega/Zeta investments crowd out inexpensive screens, backup scorers and redundancy; few ultra-cheap Regular Orders, no Core and limited Fireteam economy compound the pressure. Layered defense is costly, Cyberghost's BS11 Pitcher makes forward hacking less reliable than rival networks, and nonlethal control is sometimes less decisive than removing threats. Extensive Top 10 unit depth therefore translates unevenly into efficient 300-point mission coverage.
+
 ## Overview
 
 **What Vanilla O-12 does especially well:** unusually broad access to high-quality long-range guns, MSV, hacking, hidden midfield specialists, and multiple fast objective routes. More unusually, **this Vanilla army can field one Haris and two Duos**. It opens a lane with a premium attacker or visibility control, then scores with an independent specialist rather than committing everything to one expensive model. The drawback is a high points floor: too many 30–70pt tools can starve Orders, screens and late-game scoring.

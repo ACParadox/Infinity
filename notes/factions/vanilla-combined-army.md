@@ -1,5 +1,7 @@
 # Vanilla Combined Army — N5.3 listbuilding and profile guide
 
+**Faction tier / overall rank: S — #4 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Deep Impersonation, Hidden Deployment, hacking, Eclipse and TAG choices remain exceptionally strong; its premium attack architecture avoids the direct aerial-vehicle nerfs affecting competing top armies.
+
 **Combined Army unit-selection audit (N5.3):** [Transcript-backed must-have, go-to and avoid picks across all five armies](../../sectorials/combined-army/vanilla-combined-army.md).
 
 _Researched 2026-10-22. Current standard army roster: [official Combined Army / Vanilla](https://infinityuniverse.com/en/factions/combined-army/vanilla). Current rules: [N5.3 / ITS18 (2026-09-01)](https://infinityuniverse.com/en/news/infinity-rules-update-5-3). Direct source: full **YouTube MCP** transcripts of Robert Shepherd (Apr 12, 2026), Tactical Awareness S3E15 (Mar 2025), Infinity the Dante's opposing-player guide (May 2025); full **Podcast MCP** transcripts of WIP12 E176 (Jan 2025), WIP12 E171 (Oct 2024), Loss of Lieutenant E142 N5 TAG tier list (Apr 2025) and Irregular Order #56 Onyx comparison (Oct 2026). Earlier advice is **dated**; legality, AVA, prices, Fireteams and exact skills require current Infinity Army._

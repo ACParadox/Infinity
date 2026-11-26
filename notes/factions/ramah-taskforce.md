@@ -49,7 +49,7 @@
 
 ### Whole-game standouts — apex versus value
 
-**Sectorial tier / overall rank: C+ — #33 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **13 November 2026**). Tarik/Khawarij mobility, Mukhtars and Namurr specialists can win missions aggressively; high model costs leave screens and defense stretched.
+**Sectorial tier / overall rank: C — #37 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Tarik/Khawarij, Mukhtars and Namurr retain aggressive scoring options. Improved Shakush and other profiles offset the Haytham nerf, but expensive pieces still compete for Orders and redundancy.
 
 **Ranking rule:** Rows are ordered by their **strongest evidenced placement**, with **#1 first**, then #2, #3 and so on; at equal rank, exact placements precede bounded ≤#X placements, then Apex precedes Value. Unranked rows follow. Placements are editorial rankings within each linked **cross-faction role**, not universal unit rankings or measured win rates. **Apex** measures peak impact; **Value** weighs points, SWC and Orders. Top 1–5 placements and their matching profiles are bold; #6–10 entries are regular text. A combined or role-specific placement is explicitly identified and does not imply a separate Apex/Value rank. Exact N5.3 unit profiles, skills, costs and Fireteam permissions follow the [pinned ramah taskforce roster](../../sectorials/haqqislam/ramah-taskforce.md).
 
@@ -218,7 +218,7 @@ Auto-captions and historic roster claims are not N5.3 authority.
 
 **Reference archive:** [Scope, primary recordings, N5.3 cross-references, battle reports and purchasing audit](references/ramah-taskforce_refs.md).
 
-**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-13.
+**Research date:** The tactical reviews include 2026-10-22 research and dated reports. Role-specific rankings use the dates in their linked sources (November 2026); overall faction rankings were last reviewed 2026-11-26.
 
 **Factual authority:** [Ramah Taskforce N5.3 reference](../../sectorials/haqqislam/ramah-taskforce.md). Pinned N5.3 profiles and Fireteam charts take precedence over tactical opinions or older videos and podcasts.
 
