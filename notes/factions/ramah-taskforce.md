@@ -47,7 +47,60 @@
 
 **Bottom line:** Ramah earns its slot over Vanilla when the list **actively uses Tarik/Khawarij, Namurr/Nahab or Janissary/Hortlak Fireteam advantages**. A lone Mukhtar, Tuareg KHD, Haytham, Shakush, Maghariba, Leila or basic Ghulam specialist is not a uniquely Ramah reason to leave Vanilla, because Vanilla can field those profiles too.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 17 | A+ | Tarik Mansuri LT(+1) AP Rifle 47/+1 SWC or AP Spitfire 53/1.5 — Ramah | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 41 | A | Al Fasid 44/1.5 HRL + native BS Attack(+1SD) — Ramah/Dahshat/Ikari | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 16 | A+ | Hortlak Janissary — 29/0; roster examples: Ramah | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 42 | B | Khawarij — 33/0; roster examples: Ramah | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 35 | A+ | Nahab BSG Specialist 32/0 — Ramah | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 1 | S | Rahman Rouhani21/0 WIP15, Doctor(+3), NWI — Ramah — roster references: Ramah, Vanilla Haqq, Qapu Khalqi | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 2 | S | Ghulam Doctor(+3)15/0 WIP14 — Ramah/Hassassin/Dahshat (+3); Vanilla Haqq/Qapu (+1) — roster references: Ramah, Hassassin, Dahshat, Vanilla Haqq, Qapu Khalqi | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 5 | S | Hakim24–25/0 Doctor(+3), WIP15; Nasmat A2 option — Ramah — roster references: Ramah | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 13 | A | Tuareg Doctor WIP15, Hidden Deployment — Ramah/eligible Haqq | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 16 | A | Khawarij Doctor(+3)30/0 — Ramah | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 9 | A+ | Najjarun Engineer15/0 WIP14 — Haqq/Ramah/eligible — roster references: Vanilla Haqq, Ramah, Hassassin, Qapu Khalqi | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 25 | A+ | Carmen Johns+Bâtard17/0 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 70 | A | Ramah Nahab SO Parachutist31/0, KHD35/0, Red Fury38/1 — Ramah | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 76 | B | Haytham Heavy Shotgun29/0 | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 30 | A+ | Zhayedan HMG31/1.5 — Ramah | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 47 | A | Janissary HMG38/1.5 — Haqq | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 22 | A+ | Haytham Red Fury33/1.5 — Vanilla Haqq | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 24 | A+ | Mukhtar MSV2 Red Fury34/1 — Ramah | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 32 | A+ | Hortlak Janissary K1 MMR31/0.5 — Ramah | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 56 | A | Tarik AP Spitfire 49/1.5 — Ramah | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 62 | A | Khawarij MSV2 Mk12 38/0 — Ramah | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 16 | A+ | Shakush HMG (Continuous Damage)58/1.5 — Haqq | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 21 | A+ | Maghariba MULTI HMG + HRL/GL71/1.5 — Ramah | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 22 | A+ | Maghariba MULTI HMG + HFT/Mine71/1.5 — Ramah | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 23 | A+ | Maghariba MULTI HMG + E/M Carbine72/1.5 — Ramah | Roster named in source |
+| [Whole-game standouts — unified ranking (11 November baseline)](../list-building/gunfighters-ranking.md#whole-game-standouts--unified-ranking-11-november-baseline) | 5 | A | Haytham — Vanilla Haqqislam / Ramah Taskforce; 29 / 0 Heavy Shotgun (+1B) + Chain Rifle + Panzerfaust; 33 / 1.5 Red Fury + Panzerfaust | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 15 | S | Leila Sharif KHD + Carbonite + Firewall(-3) 22/0 (Haqq/QK/Ramah/Hassassin) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 65 | B | Mukhtar HD 29/0.5 — Ramah | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 84 | B | Tuareg HD 33/0.5 (Ramah/Vanilla Haqq) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 5 | S | Leila Sharif KHD + Carbonite + Firewall(-3) 22/0 (Haqq/QK/Ramah/Hassassin) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 20 | A+ | Tuareg KHD + Firewall(-3) 28/0 (Ramah/Vanilla Haqq) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 35 | A+ | Nahab KHD 36/0 infiltrating or 35/0 parachutist — Ramah | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 13 | S | Beasthunter HFT/Panzerfaust/AP Mine, Camo 15/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 47 | S | Nahab SO 31–32 or KHD 35–36 — Ramah (different deployment options) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 79 | A+ | Namurr Specialist Operative Tactical Awareness 41/0 — Ramah | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 111 | A+ | Burkut Engineer26–30/0 — Haqq/Qapu/Ramah | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 146 | A+ | Leila Sharif KHD+Carbonite/Firewall(-3)22/0 — Haqq/eligible sectorials | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 167 | A | Mukhtar FO 25/0 — Ramah | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 194 | A | Hakim Parachutist Doctor(+3)24–25/0 — Ramah | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 199 | A | Rahman Rouhani Doctor(+3)21/0 — Ramah | Roster named in source |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 24 | A+ | Valerya Gromoz HD/Pitcher 19/.5 — Corregidor / Qapu / NA2 as legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 14 | S | Hunzakut DR18/.5; FO+DR19/0 where rostered — Ramah/Druze/Dahshat and eligible Haqq | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 74 | A+ | Tuareg KHD 28/0 or HD 33/.5 (Haqq) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 76 | A+ | Mukhtar FO 25/0, Doctor(+3) 26/0 or HD 29/.5 (Ramah) | Roster named in source |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 43 | — | Ramah Khawarij CoC Disco 33/0 | Roster named in source |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 22 | S | Carmen Johns + Bâtard17/0 — TAK/FRRM/eligible | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: C — #37 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Tarik/Khawarij, Mukhtars and Namurr retain aggressive scoring options. Improved Shakush and other profiles offset the Haytham nerf, but expensive pieces still compete for Orders and redundancy.
 
