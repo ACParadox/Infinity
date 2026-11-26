@@ -38,7 +38,31 @@ These are **NA2-only access distinctions**, **not game-wide unique models or rul
 
 **Identity test:** Choose Ikari for **multiple cheap, different attack vectors backed by a Wú Míng or Japanese Fireteam and a resilient Karakuri objective holder**, not because it uniquely owns Smoke, Impersonation, Monofilament, E/M or TAGs. The opportunity cost is irregular-order pressure, limited midfield Camo, fragile standalone specialist routes and uneven premium shooting.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 41 | A | Al Fasid 44/1.5 HRL + native BS Attack(+1SD) — Ramah/Dahshat/Ikari | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 66 | B+ | Armand Le Muet 34/1.5 MSV1 MULTI Sniper — eligible NA2 | Existing local profile match; verify exact variant |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 19 | A+ | Táowù — 21/0 Druze/Ikari; 21/0.5 ISS/WhiteCo; roster examples: Imperial Service; Druze; Ikari; White Company | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 22 | A+ | Ninja Tactical Bow 24/0 — JSA/Yu Jing | Existing local profile match; verify exact variant |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 32 | A+ | Motorized Yojimbo 20/0 — Shindenbutai/JSA/Ōban as rostered | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 59 | A | Yuan Yuan Chain+Smoke6/0, DA7/0 — Druze/other legal rosters | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 51 | A | Keisotsu HD + ECM:Hacker(-6)/CrazyKoala 16/0.5 — JSA/Ikari | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 57 | A | Druze HD + Pitcher 25/0.5 (Qapu/Ikari/Druze where listed) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 82 | B | Druze KHD + Pitcher 23/0 (Qapu/Ikari/Druze where listed) | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 68 | S | Pathfinder 14/0 or TA17/0 — PanO | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 148 | A+ | Druze Shock Team — HD 25/0.5 | Existing local profile match; verify exact variant |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 2 | S+ | Druze Shock Team KHD/Pitcher 23/0 or HD/Pitcher 25/.5 — Druze / Qapu / Ikari as legal | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 5 | S | Pathfinder FO/Sensor/native Repeater + Tactical Awareness 17/0 — PanO / WinterFor where legal | Existing local profile match; verify exact variant |
+| [Unified ranking — Zone Domination & Protected Area Denial](../list-building/objective-holding-ranking.md#unified-ranking--zone-domination--protected-area-denial) | 1 | S | Karakuri FO HSG or E/Mitter 31/0 — JSA / Ōban / Ikari | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 63 | A+ | Ōban Tankō Disco+Blitzen+Deactivator 19/0 | Existing local profile match; verify exact variant |
+| [Unified ranking — vision control units](../list-building/vision-control-ranking.md#unified-ranking--vision-control-units) | 4 | — | Tankō 19/0 Disco + Deactivator — Ōban | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 20 | S | Motorized Yojimbo20/0 (Shindenbutai/Ōban); foot19/0 alternate | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: D — #42 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Cheap Smoke/CC pressure and mixed mercenary links can steal games, but fragile defenses and patchy role coverage hurt consistency.
 
