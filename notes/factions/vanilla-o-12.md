@@ -6,6 +6,15 @@
 
 **What Vanilla O-12 does especially well:** unusually broad access to high-quality long-range guns, MSV, hacking, hidden midfield specialists, and multiple fast objective routes. More unusually, **this Vanilla army can field one Haris and two Duos**. It opens a lane with a premium attacker or visibility control, then scores with an independent specialist rather than committing everything to one expensive model. The drawback is a high points floor: too many 30–70pt tools can starve Orders, screens and late-game scoring.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Shadowcrow Operator** | E/Mitter airborne31/0; AP Thunderbolt FTO29/0 | [Mission S #24](../list-building/mission-specialists-ranking.md) · [Gunfighters A+ #25 (long, FTO)](../list-building/gunfighters-ranking.md) · [Zone A #28 (FTO)](../list-building/objective-holding-ranking.md) | The airborne and FTO profiles have distinct roles. Check the current chart for actual FTO permission. |
+
 ### Whole-game standouts — apex versus value
 
 **Zone Domination & Protected Area Denial — verified whole-game Top 10 (11 November 2026).** Exact [combined Apex and Value rankings](../list-building/objective-holding-zone-domination-and-carriers-apex-value.md) for **locally legal, non-TAG** profiles only. These are role-specific placements, not overall army ratings; separate loadouts and Fireteam rights do not combine.
