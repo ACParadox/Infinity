@@ -14,6 +14,16 @@
 
 **What Vanilla PanO does exceptionally well:** combine **the best independent PanO shooting, command, marker, TAG and mission tools without a sectorial roster's narrower choices**. Swiss Guard Hidden guns, Cutter/Tikbalang/Squalos TAGs, cheap synchronized specialists and Camo/airborne alternatives give enormous choice. The fundamental limitation is a smaller Fireteam allowance: two Duos and one Haris, no Core, limited to the pinned chart.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_The following are current global profile-specific ranks, not local faction tiers. For the listed profiles these supersede older split Apex/Value numbers elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Crux Knight** | Hidden FD(+20) SO47/0; FTO MMR46/0 separate | [Mission S #58](../../list-building/mission-specialists-ranking.md) · [Toolbox A+ #52](../../list-building/toolbox-units-rankings.md) · [DZ attack A #65](../../list-building/dz-attackers-ranking.md) | The Hidden AP SMG/CrazyKoala is the ranked scorer and DZ attacker; the FTO alternative is a distinct toolbox choice. High cost means not an automatic purchase. |
+| **Shadowcrow Operator** | E/Mitter airborne31/0 | [Mission S #24](../../list-building/mission-specialists-ranking.md) | Local SO shares the global mission ranking; Nomads E/Marat24/0 is S #17 DZ and S #24 toolbox but is not this profile. |
+
 ### Whole-game standouts — apex versus value
 
 **Ranking order:** Strongest role-specific numeric placement first (**#1**, then **#2** through **#10**). Equal placements retain their established relative order. A higher *placement* has a smaller ordinal number; these are **Apex / Value role rankings**, not overall unit or army rankings. Selected legal profiles and their own costs/permissions govern every entry.
