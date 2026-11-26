@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 205
 sectorial_slug: white-banner
 sectorial_name: White Banner
@@ -15,6 +15,16 @@ coverage: "Standard White Banner roster, standard loadouts, canonical Fireteam c
 ---
 
 # White Banner
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. This targeted update does not certify the new roster index or Fireteam chart, so status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- **Fēiquán:** Remove Super-Jump (7.5); retain Jet Propulsion. BTS 6; E/M Carbine (+1B)/Akrylat-Kanone/Pitcher 34 pts; MULTI Rifle (+1B)/Blitzen 33 pts, loses X Visor, Akrylat-Kanone (+1SD); new Spitfire/Akrylat-Kanone (+1SD) 34/1.5.
+- **Oktavia:** BS Attack (+1SD) replaces +1B; HRL 23 pts.
+
 
 ## Overview and provenance
 
@@ -230,6 +240,8 @@ Optional-mode units:
 | 1 | 70 | 1.5 | AP Spitfire, Heavy Flamethrower, Panzerfaust, DA CCW; Regular + Tactical Awareness; includes Shàngdiào ancillary remote | Blue Wolf Duo, 1–2 |
 
 ### Fēiquán Imperial Tactical Wing
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5); retain Jet Propulsion. BTS 6; E/M Carbine (+1B)/Akrylat-Kanone/Pitcher 34 pts; MULTI Rifle (+1B)/Blitzen 33 pts, loses X Visor, Akrylat-Kanone (+1SD); new Spitfire/Akrylat-Kanone (+1SD) 34/1.5.
 
 **ID 1842 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 3 | W 2 | S 7`. Aerial, Courage, Sensor, Super-Jump, No Cover, Tech-Recovery.
 
@@ -557,6 +569,8 @@ Optional-mode units:
 | 2 | 21 | 0.5 | Red Fury, Mine Dispenser, PARA CCW (-3); MSV1 | — |
 
 ### Oktavia Grímsdóttir
+
+**November 25 profile correction (overrides archived fields):** BS Attack (+1SD) replaces +1B; HRL 23 pts.
 
 **ID 1501 · AVA 1 · LI** — `MOV 10-10 | CC 17 | BS 12 | PH 10 | WIP 13 | ARM 2 | BTS 0 | W 1 | S 2`. Albedo (-3), BS Attack (+1B), Courage, Combat Instinct, Dogged.
 

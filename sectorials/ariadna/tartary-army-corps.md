@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 305
 sectorial_slug: tartary
 sectorial_name: Tartary Army Corps
@@ -15,6 +15,16 @@ coverage: "Standard Tartary Army Corps (TAK) roster, standard loadouts, canonica
 ---
 
 # Tartary Army Corps
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. This targeted update does not certify the new roster index or Fireteam chart, so status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479`.
+
+- **Barsuk:** Surprise Attack (-3) on the three Camouflage (1 Use) loadouts only: Heavy Flamethrower, AP Marksman Rifle (PS=6), Thunderbolt.
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); Character classification; Smoke Grenades profile remains 32 pts.
+
 
 ## Overview and provenance
 
@@ -253,6 +263,8 @@ All Dynamo profiles are Regular + Impetuous.
 
 ### Barsuk, Territorial Defense Regiment
 
+**November 25 profile correction (overrides archived fields):** Surprise Attack (-3) on the three Camouflage (1 Use) loadouts only: Heavy Flamethrower, AP Marksman Rifle (PS=6), Thunderbolt.
+
 **ID 1845 · AVA 3 · MI** — `MOV 10-5 | CC 15 | BS 11 | PH 11 | WIP 12 | ARM 3 | BTS 0 | W 1 | S 2`. Immunity (Shock).
 
 | Opt | Pts | SWC | Loadout / differences | FT |
@@ -411,6 +423,8 @@ Counts as Veteran in the Veterans chart.
 | 1 | 2 | 0 | PARA CCW; no Order; attached support Peripheral | — |
 
 ### Ioann Bann, Varangian Dog-Warrior
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); Character classification; Smoke Grenades profile remains 32 pts.
 
 **ID 1940 · AVA 1 · WB** — Dogface: `MOV 15-10 | CC 22 | BS 11 | PH 14 | WIP 13 | ARM 2 | BTS 3 | W 3 | S 2`; Dog-Warrior form: `MOV 15-10 | CC 23 | BS 11 | PH 16 | WIP 13 | ARM 4 | BTS 6 | W 3 | S 6`. Martial Arts L3, BS Attack (-3), Berserk, Dodge (+5), Immunity (ARM), No Cover, Super-Jump, Transmutation (1), Religious Troop, Impetuous.
 

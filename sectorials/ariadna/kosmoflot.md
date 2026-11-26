@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 306
 sectorial_slug: kosmoflot
 sectorial_name: Kosmoflot
@@ -15,6 +15,15 @@ coverage: "36 standard logical units; optional Intel Spec-Ops and Ariadna Team-O
 ---
 
 # Kosmoflot
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. This targeted update does not certify the new roster index or Fireteam chart, so status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.479`.
+
+- **Ioann Bann:** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); Character classification; Smoke Grenades profile remains 32 pts.
+
 
 This file is the repository-native factual reference for **Kosmoflot (Army ID 306)** under the N5.3 baseline. It records the standard roster, profiles/loadouts, AVA, points/SWC, Fireteam legality, optional game-mode hooks, and the linked **L'Équipe Argent (Army ID 399)** Reinforcement Fireteam chart.
 
@@ -483,6 +492,8 @@ A Kibervolk Patrol is composed of **1 Kibervolk and 1 Dozer KVP**. Both must bel
 | 1 | 0 | 33 | MULTI Rifle (+1SD), Chain-colt, E/M Grenades (+1SD), Heavy Pistol, PARA CCW (-6), DA CCW |
 
 ### Ioann Bann, Varangian Dog-Warrior
+
+**November 25 profile correction (overrides archived fields):** Dog-Warrior BTS 3; Chain Rifle (PS=6) replaces (+1B); Character classification; Smoke Grenades profile remains 32 pts.
 
 **Unit ID:** 1940  
 **Slug:** `ioann-bann-varangian-dog-warrior`  

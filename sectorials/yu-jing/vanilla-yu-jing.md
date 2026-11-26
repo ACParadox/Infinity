@@ -16,6 +16,28 @@ coverage: "Complete standard vanilla Yu Jing roster membership/AVA, canonical va
 
 # Vanilla Yu Jing
 
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. This targeted update does not certify the new roster index or Fireteam chart, so status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- **Fēiquán:** Remove Super-Jump (7.5); retain Jet Propulsion. BTS 6; E/M Carbine (+1B)/Akrylat-Kanone/Pitcher 34 pts; MULTI Rifle (+1B)/Blitzen 33 pts, loses X Visor, Akrylat-Kanone (+1SD); new Spitfire/Akrylat-Kanone (+1SD) 34/1.5.
+- **Sun Tze:** Surprise Attack (-3) on all options.
+
+### Shadowcrow Operator — ID 1942
+
+**AVA 1 · HI · Regular · Cube · Hackable** — `MOV 15-5 | CC 17 | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 6 | W 1 | S 2`. BS Attack (+1SD), Mimetism (-3), Stealth, Specialist Operative, Immunity (Shock), No Wound Incapacitation, Super-Jump (Jet Propulsion).
+
+| Opt | Pts | SWC | Loadout |
+|---:|---:|---:|---|
+| 1 | 30 | 0 | FTO; Thunderbolt, Drop Bears, D-Charges, Breaker Pistol (PS=6), CC Weapon; BS Attack (Continuous Damage) |
+| 2 | 31 | 0 | E/Mitter, Drop Bears, D-Charges, Assault Pistol (PS=6), CC Weapon; Parachutist, Combat Jump (PH=13) |
+| 3 | 31 | 0 | FTO; AP Thunderbolt, MadTraps, D-Charges, Breaker Pistol (PS=6), PARA CC Weapon (-6) |
+
+FTO access (where applicable) requires the new chart.
+
+
 ## Overview and provenance
 
 Repository-native reference for **vanilla Yu Jing** (`army_id: 201`). This file uses the repository sectorial-reference schema even though Yu Jing is the parent vanilla faction rather than a sectorial.

@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 reference_type: sectorial
-status: current
+status: partial
 sectorial_id: 202
 sectorial_slug: imperial-service
 sectorial_name: Imperial Service
@@ -15,6 +15,16 @@ coverage: "Standard Imperial Service roster, standard loadouts, canonical main F
 ---
 
 # Imperial Service
+
+## November 2026 Army profile update
+
+**Precedence:** These corrections replace conflicting archived profile values; unchanged fields retain the original pin. This targeted update does not certify the new roster index or Fireteam chart, so status is partial.
+
+Source: [SITREP 5.7.4](https://www.infinitytheclassifieds.com/sitrep), November 25; Army backup commit `e2a8532270a039796db45bd07b1d111dc7bc8311`, revision `7.26329.478`.
+
+- **Fēiquán:** Remove Super-Jump (7.5); retain Jet Propulsion. BTS 6; E/M Carbine (+1B)/Akrylat-Kanone/Pitcher 34 pts; MULTI Rifle (+1B)/Blitzen 33 pts, loses X Visor, Akrylat-Kanone (+1SD); new Spitfire/Akrylat-Kanone (+1SD) 34/1.5.
+- **Sun Tze:** Surprise Attack (-3) on all options.
+
 
 ## Overview and provenance
 
@@ -117,6 +127,8 @@ Optional-mode units:
 ## Unit details
 
 ### Sun Tze
+
+**November 25 profile correction (overrides archived fields):** Surprise Attack (-3) on all options.
 
 **ID 143 · AVA 1 · HI** — `MOV 15-5 | CC 16 | BS 12 | PH 12 | WIP 17 | ARM 4 | BTS 6 | W 2 | S 2`. ECM: Hacker (-3), BS Attack (+1B), Counterintelligence, Immunity (Enhanced), Mimetism (-3), Decoy (2), NWI, Strategos L2.
 
@@ -339,6 +351,8 @@ A Kuang Shi Unit is one Monitor plus up to four Kuang Shi in the same Combat Gro
 | 2674 | 46 | 0 | Heavy Shotgun (+1B), Light Flamethrower (+1B), Thunderbolt, Heavy Pistol, CCW | Fast Attack required-choice max 2 |
 
 ### Fēiquán
+
+**November 25 profile correction (overrides archived fields):** Remove Super-Jump (7.5); retain Jet Propulsion. BTS 6; E/M Carbine (+1B)/Akrylat-Kanone/Pitcher 34 pts; MULTI Rifle (+1B)/Blitzen 33 pts, loses X Visor, Akrylat-Kanone (+1SD); new Spitfire/Akrylat-Kanone (+1SD) 34/1.5.
 
 **ID 1842 · AVA 1 · VH** — `MOV 20-5 | CC — | BS 13 | PH 12 | WIP 13 | ARM 3 | BTS 3 | W 2 | S 7`. Aerial, Courage, Mimetism (-6), No Cover, Sensor, Super-Jump (Jet Propulsion), Terrain (Total), Tech-recovery, GizmoKit interaction from source.
 
