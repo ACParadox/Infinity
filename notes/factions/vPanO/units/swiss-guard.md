@@ -1,14 +1,46 @@
 # Swiss Guard — Vanilla PanOceania (Infinity N5.3)
 
+**Verdict: S overall; must-own, not must-field.** HMG remains S; ML (+1SD) S− (still the premium hidden ARO); new ML (+1B) A+ as dedicated active anti-heavy gun. KHD A (elite midfield specialist); HD B, conditional.
+
+## Current profiles — 26 November 2026
+
+**ID 9 · AVA 1 · Regular HI · S2** — MOV 10-10, CC15, BS15, PH14, WIP13, ARM5, BTS6, W2. Camouflage, Hidden Deployment, Mimetism (-6), Surprise Attack (-3), Stealth. All options carry Pulzar, Heavy Pistol and AP CCW. Independent; no Fireteam access established.
+
+| Opt | Pts/SWC | Loadout / differences | Rating |
+|---:|---|---|---|
+| 2 | 56/1.5 | HMG | S |
+| 3 | 60/2 | Missile Launcher (+1SD), Light Shotgun | S− |
+| 7 | 61/1.5 | Missile Launcher (+1B), Light Shotgun | A+ |
+| 4 | 56/0.5 | MULTI Rifle, Flammenspeer; Hacking Device, X Visor | B |
+| 6 | 47/0 | AP SMG, Flammenspeer; Firewall (-3), MA1, CC21, FD (+10), KHD | A |
+
+Option 5 (44/0 non-Hacker AP SMG) is removed. Option 6 retains its forward group stats/skills. Source: [pinned roster](../../../../sectorials/panoceania/panoceania.md#swiss-guard), [SITREP](https://www.infinitytheclassifieds.com/sitrep), Army 7.26329.478.
+
+## Updated role comparison
+
+| Profile | Active dice / retained maximum | ARO dice / retained maximum | Purpose |
+|---|---|---|---|
+| HMG | 4/4 | 1/1 | Repeatable frontal/asymmetric shooting |
+| ML (+1SD) | 2/1 | 2/1 | Concealed ARO, selective high-impact attacks |
+| ML (+1B) | 2/2 | 1/1 | Active anti-heavy attack, cheaper SWC |
+
++1SD is a selection die, not an additional retained hit. +1B applies in the Active Turn only. Select the proper ML ammunition mode (AP+EXP hit mode or impact template); Surprise Attack applies in the Active Turn. The new option can retain two hits but is less reliable reactively than the original. The original's 0.5 SWC increase matters in tight lists, but it is still an excellent hidden ARO. HMG remains the default sustained active attacker; the KHD's elite chassis and specialist role justify its 47-point price in a purposeful midfield build. No need to buy the former non-Hacker proxy separately.
+
+Vanilla AVA1 makes the role decision especially important. Choose HMG for sustained active turns, ML (+1SD) for hidden ARO, ML (+1B) for planned anti-heavy assault. The cheaper linked Karhu/Bolt alternatives remain relevant.
+
+## Pre-update analysis — retained historical reference
+
+The following November 21–24 analysis is preserved for reasoning and source links. Its superseded prices, weapons, ratings, legality assumptions and recommendations are historical only; the current sections above take precedence.
+
 **Sources:** [Pinned vanilla roster](../../../../sectorials/panoceania/panoceania.md) · [Source sectorial roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md) · [Source unit analysis](../../NCA/units/swiss-guard.md) · [Vanilla listbuilding](../vanilla-pano-listbuilding.md) · [Fireteams](../vanilla-pano-fireteams.md). Adapted 24 November 2026.
 
-## Vanilla differences
+### Vanilla differences
 
 - **AVA:** 2 in NCA → 1 in vanilla.
 - **Option IDs and prices (pts/SWC):** same listed numeric option IDs and prices as source roster. Printed-roster comparison, not a new raw Army skill audit.
 - **Fireteams (24 November 2026 corrected chart):** Not listed in either corrected vanilla chart; remains independent.
 
-## Pinned vanilla profiles
+### Pinned vanilla profiles
 
 **ID 9 · AVA 1 · HI** — `MOV 10-10 | CC 15 | BS 15 | PH 14 | WIP 13 | ARM 5 | BTS 6 | W 2 | S 2`. Camouflage, Hidden Deployment, Mimetism (-6), Surprise Attack (-3), Stealth.
 
@@ -20,25 +52,25 @@
 | 5 | 44 | 0 | AP SMG, Pulzar, Flammenspeer, Heavy Pistol, AP CCW; TinBot: Firewall (-3), Martial Arts L1, CC=21, Forward Deployment (+10) |
 | 6 | 47 | 0 | As 5 + Killer Hacking Device |
 
-## Vanilla selection and use
+### Vanilla selection and use
 
 **S-tier independent apex infantry HMG (56/1.5).** BS15, Mim-6, Hidden Deployment, Surprise and S2/2W/ARM5 make it a premier protected first-strike hammer. No TA, ordinary HMG lacks AP. ML60/1.5 is the hidden ARO/active hybrid with native +1SD; forward AP SMG44/0 or KHD47/0 for planned midfield roles. Linked Bolt MSR is more economical dual-use precision fire; Karhu Duo supplies AP and climbing; Swiss retains the higher conventional asymmetric attack ceiling. Pair with Bolt or Karhu for anti-armour/visual coverage or Nisse for MSV2; independent Pathfinder/Peacemaker support.
 
-### Revised ARO selection
+#### Revised ARO selection
 
 60/1.5 ML remains S-tier premium hidden ARO (native B1+1SD, BS15, Mim-6, two Wounds) and selective active anti-heavy gun. No vanilla Fireteam access. Use Hidden Deployment to choose engagements; do not expose it against the first apex active gun. Corrected linked Karhu/Bolt are more affordable general-use alternatives, not replacements for its concealment. If the Swiss ML is already the primary hidden threat, usually omit a second premium dedicated ARO and layer cheaper Helots, Fugazi, Zulu or Peacemaker instead.
 
-## Original NCA analysis — retained reference copy
+### Original NCA analysis — retained reference copy
 
 The original is retained for transferable mechanics and reasoning. Sectorial ratings, profiles, AVA and linked packages are historical source-context only. The vanilla profile and notes above take precedence. Links retain original destinations.
 
-### Swiss Guard — Neoterran Capitaline Army (N5.3)
+#### Swiss Guard — Neoterran Capitaline Army (N5.3)
 
 **S-tier, faction-defining; must-own, not must-field. Prioritize the Missile Launcher (+1SD) over the HMG after reviewing the community evidence. The HMG is an outstanding dedicated active gunfighter; the KHD is an elite, resilient midfield mission specialist rather than a cost-efficient dedicated hacker.** Normally take zero or one Swiss; two are a deliberate premium-threat architecture.
 
 **Sources:** [Pinned NCA roster](../../../../sectorials/panoceania/neoterran-capitaline-army.md#swiss-guard), [NCA listbuilding](../../NCA/nca-listbuilding.md), [NCA references and transcript research](../../NCA/nca-references.md), [Hidden Deployment](https://infinitythewiki.com/Hidden_Deployment), [Camouflaged State](https://infinitythewiki.com/Camouflaged_State), [Surprise Attack](https://infinitythewiki.com/Surprise_Attack), [Firewall](https://infinitythewiki.com/Firewall), [Cybermask](https://infinitythewiki.com/Cybermask). Ratings are local tactical judgments; community opinions and observed play are distinguished below.
 
-#### Profiles and priorities
+##### Profiles and priorities
 
 AVA 2; HI; MOV 10-10 cm (4-4 inches), CC15, BS15, PH14, WIP13, ARM5, BTS6, W2, S2. Regular. Camouflage, Hidden Deployment, Mimetism (-6), Surprise Attack (-3), Stealth. No Fireteam access, Tactical Awareness or NCO. All profiles carry Pulzar, Heavy Pistol and AP CCW.
 
@@ -50,7 +82,7 @@ AVA 2; HI; MOV 10-10 cm (4-4 inches), CC15, BS15, PH14, WIP13, ARM5, BTS6, W2, S
 | 5 | AP SMG, Flammenspeer, Firewall (-3), MA1, CC21, FD (+10 cm) | 44 / 0 | B | Budget version of the KHD; normally pay the extra 3 points |
 | 4 | MULTI Rifle, Flammenspeer, HD, X Visor | 56 / 0.5 | B− | Expensive durable control hacker; generally skip |
 
-#### HMG versus Missile Launcher
+##### HMG versus Missile Launcher
 
 | Capability | HMG 56/1.5 | ML 60/1.5 |
 |---|---|---|
@@ -67,7 +99,7 @@ The ML's +1SD adds a die to the roll, then one die is discarded; it is not an ex
 
 The HMG is more reliable at clearing multiple enemy pieces through repeated engagements. The ML compensates for its lower active Burst with devastating consequences when a hit lands, particularly against expensive armoured units. Four extra points and identical SWC buy a major improvement in reactive utility without making the Swiss useless actively.
 
-##### HMG — attack, retreat, re-camouflage
+###### HMG — attack, retreat, re-camouflage
 
 - If going first, consider deploying as a Camouflage marker rather than Hidden Deployment. The marker already protects the unit and contributes its Regular Order to the shared pool.
 - Choose favourable HMG-range engagements and exploit Surprise Attack on the first reveal; BS15 and Mimetism (-6) remain powerful thereafter.
@@ -77,7 +109,7 @@ The HMG is more reliable at clearing multiple enemy pieces through repeated enga
 
 The HMG is a sound choice when the army genuinely needs sustained independent long-range firepower. Its main disadvantages are normal ammunition, slow movement, hacking exposure and no extra Orders.
 
-##### ML — hidden ARO and active counterattack
+###### ML — hidden ARO and active counterattack
 
 - Going second, Hidden Deployment creates uncertainty about the defended lanes. Reveal only when the opponent has committed to a favourable engagement, vulnerable target or clustered formation; a legal ARO is required.
 - Do not automatically reveal against the first premium HMG. The value of an ambush is the ability to choose the engagement rather than simply being a visible gun.
@@ -88,7 +120,7 @@ The HMG is a sound choice when the army genuinely needs sustained independent lo
 
 A Swiss ML is still a 60-point investment that can be bypassed by vision control, hacking or alternative routes. Hidden Deployment withholds its Order from the shared pool while it remains hidden at Order count; its own Order can be used to reveal in the active turn. Do not let the Swiss consume points without a meaningful active or reactive job.
 
-#### Community evidence: ML over HMG
+##### Community evidence: ML over HMG
 
 | Source | Assessment |
 |---|---|
@@ -102,7 +134,7 @@ Four video reviews and one podcast discussion all emphasize the ML over the HMG 
 
 **Revised priority:** the HMG is an apex active gun but the ML is the more unusual and broadly threatening purchase. Do not interpret this as requiring a Swiss in every list.
 
-#### KHD — 47/0: durable midfield assault specialist
+##### KHD — 47/0: durable midfield assault specialist
 
 **The KHD primarily helps the Swiss protect himself from enemy hackers while advancing and holding objectives. Buy the protected specialist body, not a 47-point backline Trinity platform.**
 
@@ -121,7 +153,7 @@ For three points over the 44-point AP SMG profile, the KHD adds specialist eligi
 
 The Firewall imposes the applicable negative MOD on enemy Comms Attacks and adds +3 to the Swiss's relevant Saving Rolls (effectively BTS9 before other effects). Do not assume this stacks with every other Firewall. Mimetism does not modify hacking rolls. WIP13 is ordinary for an elite hacker: durability is excellent, offensive hacking efficiency is not.
 
-##### Practical use
+###### Practical use
 
 1. Have a long-range attacker (Swiss ML, Uhlan, Squalos, etc.) clear the approach.
 2. Advance the KHD from its slightly forward deployment, using Camouflage, Stealth or Cybermask as appropriate.
@@ -133,7 +165,7 @@ Especially interesting for Supplies-style missions, zone control, and scenarios 
 
 Cybermask provides an alternative marker state, not simultaneous Camouflage and Impersonation benefits. The Swiss cannot use normal HD control programs such as Spotlight, Carbonite or Oblivion with its KHD alone.
 
-##### Weaknesses and counters
+###### Weaknesses and counters
 
 - **Dedicated CC specialists** are the principal close-range counter: CC21/MA1 is credible against ordinary opponents but not equivalent to Shona, an Oniwaban or other apex melee troops. Screen approaches with Auxbots, mines and other inexpensive threats.
 - E/M attacks, Oblivion and Carbonite can disable or isolate the Swiss without removing both wounds. Firewall and BTS do not make him immune.
@@ -141,7 +173,7 @@ Cybermask provides an alternative marker state, not simultaneous Camouflage and 
 - The AP SMG lacks sustained long-range reach; the Flammenspeer has limited ammunition.
 - No Tactical Awareness or Fireteam access and only 4-4 MOV. Avoid using 47 points as a passive objective guard if cheaper troops can do the same work.
 
-##### Comparison with cheaper KHDs
+###### Comparison with cheaper KHDs
 
 | Unit | Pts / SWC | Prefer when |
 |---|---:|---|
@@ -153,7 +185,7 @@ Cybermask provides an alternative marker state, not simultaneous Camouflage and 
 
 The Swiss does not buy better offensive WIP than the Locust. The additional 20–27 points buy substantial physical resilience, BS15, reusable Camouflage, and close-assault capabilities. If the only job is defending the network or removing enemy Hackers, choose a cheaper KHD.
 
-##### Community assessment of KHD
+###### Community assessment of KHD
 
 - WIP12 E201 (approximately 18–26 minutes): Trent likes the flexible weaponry, Firewall, marker states, defensive options and survivability. In a StarCo game he absorbed repeated hacking attacks from Uhahu but needed roughly six Orders to inflict one wound; an example of resilience without necessarily efficient hacking. He has paired ML + KHD.
 - Swiss Miss is strongly positive about the KHD; Gravitypool appreciates its toolkit but prefers the ML. Shepherd calls it interesting while emphasizing ML.
@@ -161,12 +193,12 @@ The Swiss does not buy better offensive WIP than the Locust. The additional 20�
 
 The disagreement is resolved by role: **the Swiss KHD is not a must-have or the default KHD, but is a meaningful premium pick when a resilient forward specialist is worth the price.**
 
-#### Other profiles
+##### Other profiles
 
 - **44-point AP SMG:** all the durable assault qualities but no KHD. Normally spend the extra three points on the KHD for specialist and counter-hacking capability; take the non-hacker only when points are genuinely tight and the job is pure assault.
 - **56-point MULTI Rifle HD:** actual HD control programs, reusable Camouflage, X Visor and durability are real advantages, but expensive versus the Blocker HD (19/0.5), Bolt HD (24/0.5), Deva HD (25/0.5) and Locust HD (29/0.5). Generally skip unless a mission specifically rewards the complete protected control-hacker package.
 
-#### Alternatives and complementary pieces
+##### Alternatives and complementary pieces
 
 | Alternative | Pts / SWC | Reason to choose |
 |---|---:|---|
