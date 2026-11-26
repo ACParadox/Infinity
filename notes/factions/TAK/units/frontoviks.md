@@ -1,6 +1,6 @@
 # Frontoviks, Separate Assault Battalion — TAK (Infinity N5.3)
 
-**Verdict: A — excellent linked role compression; not a compulsory fixed quota.** The **28/0.5 MSV1 AP Sniper** is the preferred defensive Line Kazak insert, and the **26/0 Engineer** is the strongest mobile specialist. The **30/1 AP Spitfire** is a good affordable linked attacker. The **19/1.5 HRL** is a budget-points but SWC-intensive alternative. Start with one or two Frontoviks when the list uses these roles rather than buying an entire five-model Veterans Core by default.
+**Verdict: A — excellent compact-Fireteam role compression.** User preference: do not build around five-member Cores. Prioritize Duos/Haris and preserve points for independent TAK marker pieces. The **26/0 Engineer** is the default Frontovik, followed by the **28/0.5 MSV1 AP Sniper** for a compact defensive link and the **30/1 AP Spitfire** for an economical active gun. The **19/1.5 HRL** is a points-cheap but SWC-intensive niche alternative. One Frontovik is usually sufficient; additional models are optional.
 
 **Sources:** [TAK roster and canonical Fireteam chart](../../../../sectorials/ariadna/tartary-army-corps.md) · [TAK Fireteam guide](../tak-fireteams.md) · [TAK listbuilding](../tak-listbuilding.md) · [Warhorse](../../../../rules/5b_Special%20Skills/Warhorse.md) · [Weapon chart](../../../../rules/4_Ammunition%20and%20Weaponry/Weapon_Chart.md). All seven options, base stats/skills and relevant chart rows checked against the [November 25 Army snapshot, revision 7.26329.479](https://github.com/massayoshi/infinity-army-backup/blob/e2a8532270a039796db45bd07b1d111dc7bc8311/n5/tartary/7.26329.479.json), including shared profile skills and option-specific additions. No Frontovik changes found relative to the local pin. The overall TAK roster remains marked partial; this is a targeted verification, not a full roster audit. Tactical ratings below are independent judgments.
 
@@ -10,13 +10,13 @@ ID 1136; AVA **5**, Regular LI, MOV 10–10 cm (4–4"), CC17, **BS12**, PH11, W
 
 | Opt | Points / SWC | Weapons / additions | Assessment |
 |---:|---:|---|---|
-| 8 | **28/0.5** | AP Sniper Rifle; MSV1 | **A+** — best defensive insert |
-| 6 | **26/0** | T2 Rifle, Panzerfaust, D-Charges; Engineer, Deactivator | **A+** — specialist toolbox |
+| 6 | **26/0** | T2 Rifle, Panzerfaust, D-Charges; Engineer, Deactivator | **A+** — default specialist toolbox |
+| 8 | **28/0.5** | AP Sniper Rifle; MSV1 | **A** — best defensive insert |
 | 2 | **30/1** | AP Spitfire | **A** — linked active gun |
-| 3 | **19/1.5** | Heavy Rocket Launcher | **A−** — cheap points, costly SWC |
-| 7 | **23/0** | T2 Rifle; Paramedic, MediKit | **B+** — medical/scoring alternative |
-| 1 | **21/0** | T2 Rifle | **B** — Veteran-equivalence filler |
-| 9 | **21/0** | T2 Rifle; Lieutenant | **C+** — situational command choice |
+| 3 | **19/1.5** | Heavy Rocket Launcher | **B+** — cheap points, costly SWC |
+| 7 | **23/0** | T2 Rifle; Paramedic, MediKit | **B** — medical/scoring alternative |
+| 1 | **21/0** | T2 Rifle | **C+** — Veteran-equivalence filler |
+| 9 | **21/0** | T2 Rifle; Lieutenant | **C** — situational command choice |
 
 ## Why the chassis works
 
@@ -29,9 +29,9 @@ ID 1136; AVA **5**, Regular LI, MOV 10–10 cm (4–4"), CC17, **BS12**, PH11, W
 
 ## Profile analysis
 
-### MSV1 AP Sniper — 28/0.5 (A+)
+### MSV1 AP Sniper — 28/0.5 (A)
 
-The preferred Frontovik for a defensive Line Kazak Core. AP Sniper gives long positive range (16–48"), AP against armour and B2 active; the low SWC leaves room for TAK's independent attack pieces. MSV1 removes ordinary Mimetism (-3), reduces Mimetism (-6) to -3, and permits shooting through Smoke with the applicable -6 penalty; it does not see through Eclipse or replicate MSV2. Standard marker/targeting requirements still apply.
+The preferred defensive Frontovik for a compact Veterans Duo/Haris or Line Kazak Haris; do not build a five-member Core just for this gun. AP Sniper gives long positive range (16–48"), AP against armour and B2 active; the low SWC leaves room for TAK's independent attack pieces. MSV1 removes ordinary Mimetism (-3), reduces Mimetism (-6) to -3, and permits shooting through Smoke with the applicable -6 penalty; it does not see through Eclipse or replicate MSV2. Standard marker/targeting requirements still apply.
 
 Mimetism, Warhorse and Fireteam modifiers make the sniper harder to remove than a naked line infantry ARO. The sniper is also a viable active-turn secondary gun against an exposed long-range target; avoid sacrificing it to an enemy's ideal HMG lane. Keep an option to go prone/hide or decline unfavorable exposure. MSV1 belongs to this option only.
 
@@ -39,7 +39,7 @@ Mimetism, Warhorse and Fireteam modifiers make the sniper harder to remove than 
 - **TankHunter PAC (36/1.5):** hidden hard-target threat rather than an exposed persistent linked gun; costs more and competes for premium SWC.
 - **Frontovik HRL (19/1.5):** saves 9 points but costs 1 additional SWC, lacks MSV1 and uses shorter effective range.
 
-**Default:** choose the sniper when using a defensive Line Kazak Core and not already overinvested in long AROs. With an extensive Vystrel/Gunnery shell, an Engineer may provide more incremental value.
+**Default:** choose the sniper only when the list needs a distinct MSV1 long-range ARO or secondary gun. With smaller links and an existing Vystrel/Gunnery shell, the Engineer is the better default.
 
 ### Engineer — 26/0 (A+)
 
@@ -64,19 +64,19 @@ B4 AP and +3 from 8–24" on a BS12/Mimetism platform. Particularly strong in an
 
 Choose the Frontovik when the list already wants a moving Fireteam and an economical AP attacker. Do not build a large Core solely to make it into a top-end gunfighter; one Wound remains one Wound.
 
-### Heavy Rocket Launcher — 19/1.5 (A−)
+### Heavy Rocket Launcher — 19/1.5 (B+)
 
 Cheapest Frontovik, saves nine points against the sniper but consumes three times its SWC. B2 active, +3 at 16–32", Continuous Damage and optional circular impact-template blast provide an anti-cluster threat. The impact template is not an automatic direct template. Useful as a cheap linked long-lane guard, secondary attack piece or Veterans equivalence body. No MSV1; less suitable against Mimetism or smoke. Use when points are tighter than SWC or the template is important, rather than as an automatic alternative to the sniper.
 
-### Paramedic — 23/0 (B+)
+### Paramedic — 23/0 (B)
 
 Only two points over the T2 Rifle for general Specialist access and MediKit utility. Useful if a team needs a button-pusher with credible firepower. Not a Doctor; MediKit relies on the relevant recovery roll and can kill the target. A **112 FTO Doctor (11/0)** is far cheaper in Veterans and is often the better recovery purchase, but does not count as Veteran and lacks the Frontovik's gun/Warhorse/Mimetism. A **Kazak Doktor (12/0)** counts as Line Kazak in that family; a **Konduktor FTO Paramedic (10/0)** is another Line Kazak team option.
 
-### T2 Rifle — 21/0 (B)
+### T2 Rifle — 21/0 (C+)
 
 Useful as a 0-SWC Veteran-counting body in a Veterans team or Ratnik-counting member in Mobility. It is expensive for a mere order generator, especially in Line Kazaks. The 2-point Paramedic or 5-point Engineer upgrades normally give more worthwhile jobs; the cheaper HRL is not a free substitution because of its 1.5 SWC.
 
-### Lieutenant — 21/0 (C+)
+### Lieutenant — 21/0 (C)
 
 Same weapons as the base option, one Lieutenant Order. Warhorse preserves its own Regular status but does not provide extra Lieutenant Orders, succession, or special protection from dying. A possible decoy among identical T2 Rifle models in a Veterans shell; avoid exposing the command model simply to use its gun.
 
@@ -99,12 +99,15 @@ TAK allows one Core, one Haris and unlimited Duos. A Frontovik cannot anchor Lin
 
 | Package | Points / SWC | Intended use |
 |---|---:|---|
-| Frontovik MSV1 sniper + 4 Line Kazak Rifles (one may be LT) | **64/0.5**, L5 | Very cheap five-equivalent defensive Core. Historical four-Line-plus-sniper architecture observed in report #087; exact rifle choices here are illustrative. |
+| Frontovik Engineer + Veteran Kazak FO | **62/0**, L2 | Two complementary specialists in a Veteran-equivalent Duo. Hypothetical. |
+| Frontovik AP Spitfire + Frontovik Engineer | **56/1**, L2 | Economical AP attack and technical support Duo. Hypothetical. |
+| Frontovik MSV1 sniper + 112 FTO Doctor | **39/0.5**, L1 | Compact defensive/recovery Duo; Doctor does not count as Veteran. Hypothetical. |
+| Frontovik MSV1 sniper + 2 Line Kazak Rifles | **46/0.5**, L3 | Compact defensive Line Kazak Haris; saves 18 points versus a five-body rifle Core. Hypothetical. |
 | Frontovik AP Spitfire + Frontovik Engineer + Frontovik Paramedic | **79/1**, L3 | Fully equivalent Veterans Haris; AP gun, two specialists, emergency recovery. Hypothetical. |
 | Veteran Kazak AP HMG + Frontovik Engineer + 112 FTO Doctor | **82/1.5**, L2 | Mobile gun/recovery team with biological and STR recovery options, but Doctor does not count as Veteran. Hypothetical. |
 | Ratnik AP Spitfire + Frontovik Engineer | **72/1.5**, L2 | Ratnik-equivalent Mobility Duo with technical specialist and Panzerfaust. Hypothetical; Engineer supports states, not Wound healing. |
 
-The existing [TAK Fireteam guide](../tak-fireteams.md) documents the observed **Veteran HMG + Veteran FO + Frontovik Engineer** Haris (#087; modern reconstruction **107/1.5**, L3) and **Veteran FO + sniper + two Frontovik Engineers + HRL** Core (#058; **135/2**, L5). These support complementary roles, not a universal prescription to spend 135 points on a link.
+The existing [TAK Fireteam guide](../tak-fireteams.md) documents the observed **Veteran HMG + Veteran FO + Frontovik Engineer** Haris (#087; modern reconstruction **107/1.5**, L3) and **Veteran FO + sniper + two Frontovik Engineers + HRL** Core (#058; **135/2**, L5). The historical five-body Cores are retained as evidence only, not recommended for the user's preferred list architecture. The Haris remains a viable premium alternative to cheaper Duos.
 
 ## Cross-faction rankings and purchase priority
 
@@ -112,6 +115,6 @@ The existing [TAK Fireteam guide](../tak-fireteams.md) documents the observed **
 - [Gunfighter ranking](../../../list-building/gunfighters-ranking.md): existing **#27, A+** for AP Spitfire.
 - [Mission specialist ranking](../../../list-building/mission-specialists-ranking.md): Engineer's Classified coverage **10/20** in the existing detailed coverage table (not an overall ordinal rank).
 - [TAK overview](../tak-overview.md): historical reactive MOD stacking #8 for MSV1 sniper; preserve as historical, not a current consolidated ranking.
-- **Owned:** [TAK miniature inventory](../../../../inventory/tak.md) records **1/5**. Second model recommended if planning to field both sniper and Engineer or a Veterans Haris. Third is optional for a deliberate Veterans architecture. AVA5 is not a buying target.
+- **Owned:** [TAK miniature inventory](../../../../inventory/tak.md) records **1/5**. One is sufficient by default. Second model optional if planning to field both sniper and Engineer or an all-Frontovik Duo. Third is low priority; fourth/fifth skip. AVA5 is not a buying target.
 
-**Bottom line:** sniper first for a defensive Core; Engineer first for a moving Veterans/Ratnik team or an existing artillery-heavy list. A second Frontovik is a useful collection expansion, not an automatic requirement. The AP Spitfire is the best aggressive alternative. Do not alter global rankings or inventory based on these faction-specific tactical ratings alone.
+**Bottom line:** Engineer first, MSV1 sniper if a distinct defensive gun is needed, AP Spitfire for an economical attacking Duo. Prefer compact links and independent Camo attackers over five-model Cores. A second Frontovik is optional. Do not alter global rankings or inventory based on these faction-specific tactical ratings alone.
