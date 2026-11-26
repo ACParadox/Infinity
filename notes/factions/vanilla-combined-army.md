@@ -55,6 +55,16 @@ _Researched 2026-10-22. Current standard army roster: [official Combined Army / 
 
 **Decision versus sectorials:** Choose **Vanilla** for **EI Aspects plus the largest combined repertoire** of assassination, hidden attack, hacking, vision control and TAG styles. Choose **Shasvastii** for marker concentration/AVA and specialist links, **Morat** for Warhorse and Fireteam-driven Orders, **Onyx** for robotic Core/TAG teams, or **Next Wave** for hero-led links and cheaper Cyberplug controllers. Vanilla **does not** inherit absent sectorial units (Raicho, Bultrak, Xeodron, Juggernaut, Skyhound), nor their Core Fireteams.
 
+
+### Current unified role-ranking updates — 26 November 2026
+
+_These are current global profile-specific ranks, not faction tiers. For these profiles they supersede older split Apex/Value ranks elsewhere in this document; historical discussion and existing collection decisions remain unchanged. A rank on another army's version is a comparison, not transferable legality or equipment._
+
+| Unit | Local profile / cost | Current global ranking | List-building implication |
+|---|---|---|---|
+| **Achilles** | Plasma Rifle63/0; AP Spitfire62/1.5 separate | [Zone S #4 (plasma)](../list-building/objective-holding-ranking.md) · [Gunfighters S #1 (medium, Spitfire)](../list-building/gunfighters-ranking.md) · [CC S #14](../list-building/close-combat-ranking.md) · [Unique S #8](../list-building/unique-units-ranking.md) | A top concentrated-VP anchor and premium mobile attacker; expensive, hackable, Frenzy/No Cover. Check exact local SWC. |
+| **Anathematics** | HD+Trinity(+1B) Plasma72/.5 | [Zone A+ #16](../list-building/objective-holding-ranking.md) · [Toolbox S #17](../list-building/toolbox-units-rankings.md) · [Mission A+ #139](../list-building/mission-specialists-ranking.md) | Camo, plasma and hacking combine high surviving VP with area control; expensive. |
+
 ### Whole-game standouts — apex versus value
 
 **Ranking order:** strongest **exact numerical placement first** (**#1 → #10**), using the best rank across Apex/Value; ties favor Apex, then source order. All positions are **role-specific editorial cross-faction rankings**, not an overall unit ranking, measured win rate or automatically transferable profile. Apex is peak capability; Value is performance for points/SWC. The separate Protheion Apex ranks are labeled as such; a combined/package ranking is not silently converted into a fabricated Apex or Value placement.
