@@ -28,7 +28,52 @@ _Last researched: 2026-10-22. Tactical sources: full MCP transcripts of Tactical
 
 **What Shasvastii does exceptionally well:** turn **Impersonation, Camouflage, Hidden Deployment, Minelayers and surviving forward specialists** into enemy Order expenditure. Its strongest lists combine **uncertain threat positions with late-game mission scoring**; a good Shasvastii game often avoids a fair frontal firefight entirely.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Fighting Lieutenants — unified ranking](../list-building/LT-ranking.md#fighting-lieutenants--unified-ranking) | 27 | A | Sheskiin LT MULTI Rifle 48/0 or Red Fury 50/0.5 — Shasvastii | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 7 | S | Noctifer 30/1.5, Hidden ML — Shasvastii/eligible CA | Roster named in source |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 35 | A | Oktavia Grímsdóttir 23/1.5 Heavy Rocket Launcher — WinterFor/White Banner/Shasvastii | Roster named in source |
+| [Unified Chain of Command ranking](../list-building/chain-of-command-ranking.md#unified-chain-of-command-ranking) | 17 | A+ | Caliban — 29/0; roster examples: Shasvastii | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 6 | S | Speculo Killer BSG 26/1 — Shasvastii/CA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 18 | S | Sheskiin MULTI Rifle 48/0 — Shasvastii/CA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 23 | A+ | Caliban BSG 24/0 — Shasvastii/CA | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 51 | A | Jayth Cutthroat Chain(+1B) 21/0 — Shasvastii | Roster named in source |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 4 | S | Med-Tech Obsidon21/0 WIP14 Doctor + Engineer, MOV15-10 — eligible Combined sectorials — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [3) Engineers — unified ranking](../list-building/doctors-engineers-ranking.md#3-engineers--unified-ranking) | 2 | S | Med-Tech Obsidon21/0 WIP14 Engineer + Doctor — Combined — roster references: Vanilla Combined, Shasvastii, Onyx, Morats, Next Wave | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 3 | S+ | Speculo Killer BSG26/1 or Combi29/1 — Shas/Vanilla Combined; Speculo BSG26/1 (Shas) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 29 | A+ | Agent Dukash40/0 — Shasvastii | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 47 | A+ | Sheskiin48/0 or 50/1; LT48/0 or 50/.5 — Shas/Combined | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 50 | A+ | Caliban BSG24/0 — Shas/Combined | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 64 | A | Sphinx93/2 — Shas/Combined | Roster named in source |
+| [Unified force multiplier ranking](../list-building/force-multipliers-ranking.md#unified-force-multiplier-ranking) | 6 | A+ | Shasvastii Mentor20/0 — Counterintelligence | Roster named in source |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 46 | A | Gwailo MSV2 HRL 39/1.5 — Shasvastii | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 10 | A+ | Sheskiin Red Fury50/1 — Combined/Shas | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 39 | A+ | Corax Hasht AP Spitfire33/1 — Shasvastii | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 47 | A | Caliban MSV1 Spitfire 36/1.5 — Shasvastii | Roster named in source |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 66 | A | Jayth Red Fury34/1 FTO — Shasvastii | Roster named in source |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 39 | B+ | Sphinx Spitfire93/2 — Shas | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 5 | S | Victor Messer HDplus + Trinity(PS5)/Zero Pain 31/0.5 (Shasvastii) | Roster named in source |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 66 | B | Shasvastii Mentor HD 25/0.5 — Shasvastii | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 7 | S | Victor Messer HDplus + Trinity(PS5)/Zero Pain 31/0.5 (Shasvastii) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 74 | B | Malignos 32/0 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 10 | S+ | Shrouded FO 24/0 — Shas/Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 12 | S+ | Malignos FO 30 / KHD 32 / HD 34 — Shas/Combined | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 71 | S | M-Drone FO/Sensor 15/0 (TacAware 18/0) — Combined | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 88 | A+ | Caliban FO 26 / SO 26 / Engineer 28 — Shasvastii | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 198 | A | Victor Messer HDplus31/.5 — Shasvastii/Combined | Roster named in source |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 7 | S | M-Drone FO/Sensor/native Repeater + Tactical Awareness 18/0 — Combined / Next Wave as legal | Existing local profile match; verify exact variant |
+| [Best — cross-faction TAG ranking](../list-building/tags-ranking.md#best--cross-faction-tag-ranking) | 33 | C | Sphinx — Combined / Shasvastii | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 6 | S+ | Caliban 26/0 FO or 28/0 Engineer or 29/0 CoC (Shas) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 8 | S+ | Malignos FO 30/0, KHD+Dazer 32/0 or HD 34/.5 (Shas/Combined/Onyx) | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 9 | S+ | Victor Messer HDplus 31/.5 MULTI Rifle or 30/.5 Vulkan/Minelayer (Shas/Combined) | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 10 | S | Sheskiin MULTI Rifle48/0 or Red Fury50/1 — Shasvastii/Combined `Mod-Stacking` | Roster named in source |
+| [2. Unified rare capabilities and unique combinations ranking](../list-building/unique-units-ranking.md#2-unified-rare-capabilities-and-unique-combinations-ranking) | 28 | A+ | Caliban BSG24/0 / FO26/0 / Engineer28/0 / CoC29/0 — Shasvastii | Roster named in source |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: C+ — #35 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Impersonation, Camo, Hidden Deployment and late scoring remain intact; Aïda and Oktavia improvements offer modest upside but do not resolve fair-gunfight limitations. The same guide ranks Shasvastii **#3 for Camo/shell games** and highlights its unusually complete Impersonation + Hidden Deployment + Camo + Decoy mix; those are *different* rankings, not a contradiction.
 
