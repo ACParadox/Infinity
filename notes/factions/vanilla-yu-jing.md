@@ -38,7 +38,7 @@ _The following are current global profile-specific ranks, not local faction tier
 
 ### Current global role rankings — full cross-reference (26 November 2026)
 
-_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `0ebabd0c`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
 
 | Current source role | Rank | Tier | Ranked source profile / package | Evidence |
 |---|---:|:---:|---|---|
@@ -84,7 +84,7 @@ _The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-b
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 53 | S | Dàofěi HD52/.5 / AP Spitfire SO52/1.5 — White Banner | Existing local profile match; verify exact variant |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 56 | S | Gŭiláng FO27/0 — White Banner/eligible Yu Jing | Roster named in source |
 | [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 91 | A+ | Hac Tao HD+Trinity 58/.5 (IA), 58/1 (White Banner) | Existing local profile match; verify exact variant |
-| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 115 | A+ | Johnny Kao Engineer(ReRoll)36/0 — OSS/eligible Yu Jing | Roster named in source |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 114 | A+ | Johnny Kao Engineer(ReRoll)36/0 — OSS/eligible Yu Jing | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 3 | S+ | Fēiquán 28/0 — Imperial Service / White Banner / Vanilla Yu Jing | Roster named in source |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 8 | S | Hǎidào KHD/Pitcher 22/0 — Invincible Army / White Company as rostered | Existing local profile match; verify exact variant |
 | [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 11 | S | Dokkaebi KHD/Spotlight/Pitcher 22/0 — White Banner | Existing local profile match; verify exact variant |
