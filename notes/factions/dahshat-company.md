@@ -34,7 +34,36 @@
 
 **Identity test:** Choose Dahshat for the **Maghariba + linked Zúyŏng/Rui Shi + McMurrough + Traktor** ecosystem and its inexpensive forward trades. **Do not claim exclusive Smoke, MSV2, TAGs, Zhēnchá, Traktor Muls, or globally unique unit profiles**; the identity is the combination. A flagship-heavy plan must still leave enough pooled Orders and mission specialists.
 
-### Whole-game standouts — apex versus value
+### Current global role rankings — full cross-reference (26 November 2026)
+
+_The [global crosswalk](_role-ranking-crosswalk.md) covers all 21 current list-building guides at source commit `c040bf75`. Below are entries that explicitly name this roster or match a named and priced profile in the existing faction standouts. Source-profile labels are preserved verbatim; comparison rows are not a claim of identical local equipment or Fireteam eligibility. Multiple entries in one role remain profile-specific. Unlisted or ambiguous matches are not assigned a rank. Older split Apex/Value rankings below are historical and superseded by the current guides._
+
+| Current source role | Rank | Tier | Ranked source profile / package | Evidence |
+|---|---:|:---:|---|---|
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 24 | A+ | Cateran 21/1 T2 Sniper — Caledonia; Cateran 21/0.5 AP Sniper — Caledonia | Existing local profile match; verify exact variant |
+| [Unified ARO ranking — medium/long-range (non-TAG)](../list-building/aro-units-apex-and-value.md#unified-aro-ranking--mediumlong-range-non-tag) | 41 | A | Al Fasid 44/1.5 HRL + native BS Attack(+1SD) — Ramah/Dahshat/Ikari | Roster named in source |
+| [Unified ranking — cheerleaders and order generators](../list-building/cheerleaders-ranking.md#unified-ranking--cheerleaders-and-order-generators) | 16 | — | Traktor Mul Baggage 5/0 — eligible Ariadna / Dahshat | Roster named in source |
+| [3) Unified close-combat ranking](../list-building/close-combat-ranking.md#3-unified-close-combat-ranking) | 12 | S | Saito Tōgan 33/0 — JSA/Ōban | Existing local profile match; verify exact variant |
+| [2) Doctors — unified ranking](../list-building/doctors-engineers-ranking.md#2-doctors--unified-ranking) | 2 | S | Ghulam Doctor(+3)15/0 WIP14 — Ramah/Hassassin/Dahshat (+3); Vanilla Haqq/Qapu (+1) — roster references: Ramah, Hassassin, Dahshat, Vanilla Haqq, Qapu Khalqi | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 18 | S | Bashi Bazouk SMG12/0 or T2 BSG14/0 (Qapu/Dahshat and eligible) | Roster named in source |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 22 | S | McMurrough23/0 | Existing local profile match; verify exact variant |
+| [2. Unified airborne, infiltrating and enemy-DZ attacker ranking](../list-building/dz-attackers-ranking.md#2-unified-airborne-infiltrating-and-enemy-dz-attacker-ranking) | 27 | A+ | Saito Tōgan T2 BSG+EXP CCW33/0 — JSA; Saito Tōgan33/0 — JSA/eligible | Existing local profile match; verify exact variant |
+| [1. Long-range non-TAG gunfighters — 24–32in and beyond](../list-building/gunfighters-ranking.md#1-long-range-non-tag-gunfighters--2432in-and-beyond) | 66 | B+ | Cateran T2 Sniper21/1 — CHA/Kosmoflot | Existing local profile match; verify exact variant |
+| [2. Medium-range non-TAG gunfighters — 8–24in](../list-building/gunfighters-ranking.md#2-medium-range-non-tag-gunfighters--824in) | 69 | A | Miranda MULTI Rifle 27/0 — OSS | Existing local profile match; verify exact variant |
+| [3. TAG gunfighters — unified ranged ranking](../list-building/gunfighters-ranking.md#3-tag-gunfighters--unified-ranged-ranking) | 23 | A+ | Maghariba MULTI HMG + E/M Carbine72/1.5 — Ramah | Existing local profile match; verify exact variant |
+| [Unified Hacker ranking](../list-building/hackers-ranking.md#unified-hacker-ranking) | 34 | A+ | Zhēnchá HD + Trinity 34/0.5 (Invincible Army/Dahshat) | Roster named in source |
+| [Unified Killer Hacker ranking](../list-building/killer-hackers-ranking.md#unified-killer-hacker-ranking) | 31 | A+ | Zhēnchá HD + Trinity 34/0.5 (Invincible Army/Dahshat) | Roster named in source |
+| [Global ranking — midfield defenders and speed bumps](../list-building/midfield-defenders-ranking.md#global-ranking--midfield-defenders-and-speed-bumps) | 11 | S | Libertos LSG/Shock Mine Minelayer 8/1 | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 16 | S+ | Hunzakut FO15/0 or 19/0 — Vanilla Haqq | Existing local profile match; verify exact variant |
+| [Best — unified Mission Specialists ranking](../list-building/mission-specialists-ranking.md#best--unified-mission-specialists-ranking) | 28 | S | Zhēnchá FO 30–31/0 / HD+Trinity 34/.5 — Invincible Army/eligible Yu Jing; Zhēnchá HD+Trinity34/.5 — Invincible Army/eligible Yu Jing | Existing local profile match; verify exact variant |
+| [Pitchers — Unified ranking](../list-building/network-projection-ranking.md#pitchers--unified-ranking) | 24 | A+ | Valerya Gromoz HD/Pitcher 19/.5 — Corregidor / Qapu / NA2 as legal | Existing local profile match; verify exact variant |
+| [3. Best mobile Repeater](../list-building/network-projection-ranking.md#3-best-mobile-repeater) | 14 | S | Hunzakut DR18/.5; FO+DR19/0 where rostered — Ramah/Druze/Dahshat and eligible Haqq | Roster named in source |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 58 | A+ | Zhēnchá FO+Deployable Repeater 31/0 or HD with Trinity 34/.5 (Invincible Army) | Existing local profile match; verify exact variant |
+| [Global toolbox ranking](../list-building/toolbox-units-rankings.md#global-toolbox-ranking) | 70 | A+ | Vanilla Haqq Hunzakut FO15/0 / FO+Deployable Repeater19/0 | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 17 | S | Libertos FD+20 Camo(1 use), Dogged, SMG+Chain-colt8/0 — Druze and eligible roster | Existing local profile match; verify exact variant |
+| [1. Global ranking — warbands and cheap trading units](../list-building/warbands-ranking.md#1-global-ranking--warbands-and-cheap-trading-units) | 23 | S | McMurrough23/0 — Corregidor/Caledonia/other eligible | Existing local profile match; verify exact variant |
+
+### Historical whole-game standouts — split Apex/Value (superseded)
 
 **Sectorial tier / overall rank: D — #45 of 45**, from the [N5.3 faction and sectorial rankings](../sectorial-rankings-n5-3.md#overall-rankings) (last reviewed **26 November 2026**). Useful Smoke, disposable midfield trades and TAG support remain, yet the combined toolkit struggles to match stronger factions' synergy and flexibility.
 
