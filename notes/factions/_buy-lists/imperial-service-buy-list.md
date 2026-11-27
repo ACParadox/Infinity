@@ -1,10 +1,10 @@
 # Imperial Service (ISS) — miniature buy list (Infinity N5.3, inventory-aware)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Checked 2026-10-30.** This is a **buying plan, not a new owned-inventory record**. Authority for every roster entry, AVA, profile and Fireteam: [pinned Imperial Service N5.3 Army reference](../../../sectorials/yu-jing/imperial-service.md), Army `7.26246.158` from September 2026, repository verified 2026-10-15. Ranking and whole-unit skips come from [Yu Jing transcript-backed must-have / go-to / avoid guide](../../../sectorials/yu-jing/imperial-service.md) (Robert Shepherd, Tactical Awareness and Irregular Order) and the current Imperial Service reference. Use the repository's [proxy guidelines](../../miniature-proxy-guidelines.md). Cross-sectorial suggestions in the [Vanilla Yu Jing buy list](vanilla-yu-jing-buy-list.md) are NOT additional owned minis; purchases should be counted once across armies. **Scope:** 43 standard ISS roster entries, excludes optional Spec-Ops/Team-Ops.
 
 ## Collection completion — concrete core and optional cost (CAD)
-
-**Objective:** Own the key Imperial Service police/fireteam bodies and distinctive assault/utility units. The **43-row roster audit below** remains the detailed decision for every other unit, including proxy-first characters and omitted niche vehicles. Current indexed 401 prices are **CAD99.95 for the Action Pack** and **CAD49.95 for Expansion Alpha**, not the conflicting older directly observed CAD79.95/CAD39.95 values; verify checkout. Counts and box contents matter.
 
 | Buy once (core) | CAD | Exact coverage and source |
 |---|---:|---|
@@ -13,28 +13,16 @@
 | **Expansion Delta** | **$36.36** | **U:** [MM](../yu-jing-miniatures-market-prices-usd.md) USD26.00; **2 Bào + 1 Kǎnrèn** (three troopers), do not substitute 2025 Beta/Gamma packaging |
 | **Kuang Shi four-soldier pack** | **$26.29** | **U:** MM USD18.80; **four actual Kuang Shi** for cheap order/control/smoke use, only when including the necessary Celestial control plan; ISS AVA8 is not an eight-model buy mandate |
 | **Hsien HMG single** | **$11.05** | **U:** MM USD7.90; smoke + MSV2-attack architecture; 1 needed, not Hsien to AVA2 |
-| **Sù-Jiàn two-form box** | **$27.69** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-su-jian-immediate-action-unit-boxed/) USD19.80; **S3 + S5 miniatures for one unit**, not two separate orders; verify old version vs resculpt |
-| **CORE — Imperial Service** | **$251.29** | Six lines; exact shared Yáoxiè, Warcor and generic robots not rebought |
 
 | Optional | Add CAD | Buy only when... |
 |---|---:|---|
 | Lóngwáng S6 TAG | +$31.47 | **U:** MM USD22.50; your ISS list needs a TAG centerpiece and suitable **S1 Shàngdiào** ancillary; do not substitute an S7 Gūijiă |
 | Expansion Beta: Shénjī + Yáozăo + 2 turrets | +$32.17 | **U:** MM USD23.00; one specialty trooper plus three small pieces, **not four regular orders** |
 | Sun Tze **older** BSG single | +$10.07 | **U:** MM USD7.20; one legacy sculpt (current Vulkan/Thunderbolt alternate arms are a different listing) if planning Strategos command |
-| Táowù Pulzar | +$9.23 | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-yu-jing-taowu-mastermind-and-schemer-pulzar/) USD6.60; Holomask/CoC niche, proxy in most games |
-| **All four extras added** | **+$82.94** | **Core with options = $334.23 CAD** |
-
-**Proxy/skip:** Use 4 PanO Dronbots for Yáokòng S3, 2 PanO Mulebots for S4 Pangguling, existing S1 Yudbot/Palbot servants for Yáozăo and the **2 already owned exact Rui Shi/Lù Duān chassis**; Warcor owned. Low-frequency/collector figures like Dragon Lords (LE), Kunai (LE/OOP), Táowù, Sun Tze, Major Lunah, Sforza and other specialized heroes are proxy-first. **Expansion Gamma's 2 Jìnwèi + Qiánfēng** is valuable only to a dedicated ISS specialist plan: the [401 listing](https://store.401games.ca/products/infinity-yu-jing-imperial-service-expansion-pack-gamma) is **CAD54.95 but sold out**, so **proxy all three S2 bodies**, not count an unavailable box as a core buy. **Bayara is S4 LI** and needs a true S4 stand-in if its Action Pack figure is missing; a plain S2 guardsman is invalid. Fēiquán is an S7 flying **Vehicle** and cannot be replaced by normal S7 TAG without an appropriate model. For Lóngwáng, Shénjī turrets and similar unique mechanisms, budget the correct physical form if using them regularly.
-
-**Box/price contradiction:** 401's ISS Action Pack product page says **10 miniatures**, while the public named contents add to **9** (3 Celestial + Crane + Pheasant + Bayara + Koga + Wu Ming + Jinyao); this is not an asserted missing item or free unidentified extra. Confirm product photo/SKU/box before buying. Earlier 401 direct notes quoted Action $79.95 / Alpha $39.95, while currently indexed 401 listings show **$99.95 / $49.95**; these are **same SKU** price discrepancies, not two distinct products. At old lower quotes the $251.29 core would be **$221.29**, but do not bank on that.
-
-**Pricing and scope:** USD 1 = CAD 1.3985 (2026-10-29 reference), with each converted package rounded to cents. **U** = saved Miniatures Market / Ultimate Toy Zone USD snapshot, **not confirmed live stock, currency at checkout or shipment origin**. **V** = Canadian retailer catalogue/web listing, not a guaranteed cart price. Estimates exclude GST/QST, shipping, card FX fees, duties and brokerage. Use [MM Yu Jing prices](../yu-jing-miniatures-market-prices-usd.md), [UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) and the [combined Yu Jing cart](yu-jing-consolidated-buy-carts.md); more detailed source/proxy references remain below. No suggested purchase has been added to owned inventory.
 
 ## Retained main-branch decision plus exact USD retailer-snapshot alternatives (Oct 30, 2026)
 
 The repo's previous directly opened **401 Games Imperial Service Action Pack was CAD $79.95** in Toronto/Vaughan (10+ online). **Indexed 401 web pages also display CAD $99.95** for SKU `281348-1140` (also 10+ online), so **do not silently treat either price as today's checkout quote**; validate cart. Tistaminis Hamilton displayed CAD **$150**. 401's **Alpha** was separately recorded **CAD $39.95** on the repository's direct check, while indexed listings also show **$49.95**: another checkout discrepancy. These observations are **not** evidence of two different SKUs or a discount that will necessarily persist.
-
-Primary original-price sources are the [Yu Jing Miniatures Market USD catalogue](../yu-jing-miniatures-market-prices-usd.md) and the [Ultimate Toy Zone USD catalogue](../ultimate-toy-zone-infinity-prices-usd.md), converted at **1 USD = CAD 1.3985**. USD offers are **U: user-captured snapshots, not live orderability**. Miniatures Market's warehouse is unspecified/international (non-EU possible); Ultimate Toy Zone is online, dispatch country/address unverified. Prices below are for the named **entire item**, not a per-miniature allocation.
 
 | Product / missing coverage | Captured source USD → CAD | Store and dispatch/location provenance | Exact contents, generation and purchase decision |
 |---|---:|---|---|
@@ -56,9 +44,6 @@ Primary original-price sources are the [Yu Jing Miniatures Market USD catalogue]
 | **Dragon Lady event-exclusive HVT** | USD **$12.90** → CAD **$18.04** | [Miniatures Market Yu Jing saved catalogue](../yu-jing-miniatures-market-prices-usd.md) · unspecified overseas/non-EU warehouse | **HVT/collector, not regular ISS army trooper**; never buy for Dragon Lord or any combat character |
 | **Dragon Lady regular HVT** | USD **$6.80** → CAD **$9.51** | [Miniatures Market Yu Jing saved catalogue](../yu-jing-miniatures-market-prices-usd.md) · unspecified overseas/non-EU warehouse | Cheaper normal civilian alternative; still does not supply Dragon Lord |
 | **Yáoxiè plastic pair** | USD **$21.10** → CAD **$29.51** | [Miniatures Market Yu Jing saved catalogue](../yu-jing-miniatures-market-prices-usd.md) · unspecified overseas/non-EU warehouse | **Already own two** physical Rui Shi/Lù Duān chassis from Shindenbutai |
-| **Táowù Pulzar single (UTZ)** | USD **$6.60** → CAD **$9.23** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-yu-jing-taowu-mastermind-and-schemer-pulzar/) · online, dispatch location unverified | ISS-legal niche Holomask/CoC, cheaper stored quote than MM $8.80; proxy first |
-| **Sù-Jiàn two-form box (UTZ)** | USD **$19.80** → CAD **$27.69** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-yu-jing-su-jian-immediate-action-unit-boxed/) · online, dispatch location unverified | S3 mobility + S5 combat forms of **one** ISS legal trooper; verify version versus newer resculpt |
-| **Yáoxiè two-pack (UTZ)** | USD **$17.70** → CAD **$24.75** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-yu-jing-yaoxie-remotes-lu-duan-rui-shi/) · online, dispatch location unverified | **No default purchase**: two exact chassis already owned; another pair only if fielding more than two simultaneously |
 
 **Current 2025 ISS boxed products:** [Human Sphere Yu Jing Starters](https://human-sphere.com/Yu_Jing_Starters) confirms **Action Pack** 3 Celestial Guard, Crane HMG, Pheasant Red Fury, Wu Ming SMG, Bayara, Koga, Jīnyào. This enumerates **9 named troopers**, despite the seller describing **10 miniatures** (likely creature/accessory component—verify photo; do not invent a tenth order). **Expansion Alpha** = 2 Wu Ming (AP HMG, BSG) + Zhànyīng Hacker + TinBot; **Beta** = Shénjī + Yáozăo + 2 turrets; **Gamma** = Qiánfēng + 2 Jìnwèi; **Delta** = 2 Bào + Kǎnrèn. Starter and expansions are separate products; an old ISS Starter `280384-0583` had 3 Celestial, Zhànyīng ML, Crane Spitfire, Pheasant BSG. **2025 is a different composition, not proof all individual sculpts are fresh remakes**.
 
@@ -77,10 +62,7 @@ Primary original-price sources are the [Yu Jing Miniatures Market USD catalogue]
 
 ## Price policy, retailer country and verification
 
-- **Currency assumption:** **USD 1.00 = CAD 1.3985** (Bank of Canada **2026-10-29 daily rate**, latest published on October 30, [official FX lookup](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/)). User's overseas price leads have **no explicitly supplied currency nor SKU or shop location**; for comparisons with previous buy lists, they are **conditionally interpreted as USD**, not claimed as verified USD bills. No shipping, Québec GST/QST, international duties/brokerage or card FX spread included; buyer must recheck all totals.
-- **U = user-supplied and NOT price/stock/currency verified.** These could be either [miniatures.market Infinity category](https://miniatures.market/product-category/infinity/) (the category gave **404** on prior verification, and no item-level current Imperial Service price could be confirmed) or [Ultimate Toy Zone](https://www.ultimatetoyzone.com) (site **robots-blocked** this session). **Exact overseas retailer physical location/shipping country and each quote's currency could not be confirmed**. Do not assign an unspecified quote to a specific store or invent a location.
 - **V = actual Canadian retailer product/catalogue listing inspected**; stock flags are snapshot, **not a promise until checkout**. [401 Games](https://store.401games.ca/) is in **Toronto and Vaughan, Ontario**; [Tistaminis](https://tistaminis.com/) in **Hamilton, Ontario**; [Meeplemart](https://www.meeplemart.com/) in **Toronto, Ontario**. The shops' storefront city is supplied for location; their fulfillment warehouse location may vary. **miniatures.market** is NOT **miniaturemarket.com** (US site of a different name).
-- **Price reproducibility:** The primary V listings were directly opened on Oct 30. **401's Action Pack $79.95, Alpha $39.95 and Gamma $49.95 differ from older search-result amounts $99.95, $49.95 and $54.95 respectively**. Do not restore cached prices in this buy list without checkout verification. Manufacturer SKU and pictured minis are more important than the generic label.
 
 ## All user-supplied unit/model price leads (conditional USD → CAD)
 
@@ -91,23 +73,6 @@ Primary original-price sources are the [Yu Jing Miniatures Market USD catalogue]
 | **Imperial Service Action Pack (10)** | **CAD $150.00** V at Tistaminis / user lead | **CAD $150.00** | **Use CAD $79.95 opened 401 page instead**. Three Celestial Guard + seven named troops as detailed below. |
 | **Expansion Delta (3)** | **CAD $60.00** V at Tistaminis | **CAD $60.00** | Two Bào (MSR, SMG/Heavy Riotstopper) + Kǎnrèn Hacker. |
 | **Expansion Gamma (3)** | **CAD $60.00** V at Tistaminis | **CAD $60.00** | One Qiánfēng Hacker AD + two Jìnwèi. 401 cheaper $49.95 **but sold out**. |
-| Zhànyīng agent single | USD $6.90 **U** | **CAD $9.65** | U, proposed single, also in new Alpha (hacker); S2 LI; separate old starter ML |
-| Wú Míng single | USD $7.90 **U** | **CAD $11.05** | U, S2 HI; action box contains ONE Wu Ming, not four |
-| Wú Míng four-model lead | USD $23.10 **U** | **CAD $32.31** | U, four figures claimed, seller/SKU and 4 troop body count NOT verified; new Alpha has 2 Wu Ming + Zhanying + TinBot |
-| Hsien single | USD $9.10 **U** | **CAD $12.73** | U, S2 HI, potential MSV2 + Smoke shooter |
-| Sun Tze single | USD $7.20 **U** | **CAD $10.07** | U, old vs current Vulkan Shotgun SKU 281363-1230 must check |
-| Celestial Guard four-model lead | USD $18.80 **U** | **CAD $26.29** | U, four bodies claimed; **new action pack has only THREE** Celestial Guards |
-| Kuang Shi pack of four | USD $19.00 **U** | **CAD $26.57** | U, verify actual four and accessories/Monitor separate |
-| Pheasant agent single | USD $6.80 **U** | **CAD $9.51** | U, S2 MI; also 1 in Action Pack |
-| Crane agent OLD | USD $7.90 **U** | **CAD $11.05** | U, historical Spitfire or other sculpt vs 2025 new AP HMG |
-| Crane agent action-pack cost lead | USD $14.20 **U** | **CAD $19.86** | U, suggested split/valuation; no verified independent sale at that price |
-| Sù-Jiàn box, 2 physical forms | USD $26.40 **U** | **CAD $36.92** | U, S3 mobility + S5 combat = ONE roster trooper; identify older vs resculpt |
-| Kǎnrèn single | USD $6.90 **U** | **CAD $9.65** | U, S2 SK; also Delta pack one hacker |
-| Xi Zhuang (Gui Feng) single | USD $7.20 **U** | **CAD $10.07** | U, S2 LI, named agent, Wildcard |
-| Major Lunah single | USD $6.90 **U** | **CAD $9.65** | U, S2 LI specialized sniper |
-| Táowù single | USD $8.80 **U** | **CAD $12.31** | U, S2 LI Holomask/Chain of Command variant |
-| Adil Mehmut single | USD $7.90 **U** | **CAD $11.05** | U, S2 HI Wildcard, usually better general-purpose alternative to generic Crane |
-| Lóngwáng TAG single | USD $22.50 **U** | **CAD $31.47** | U, S6 TAG + separate S1 Shàngdiào ancillary **not assumed included** |
 | **Deva — “OSS”** | — | **0 owned, price unverified** | **Legal in ISS**, but user-owned OSS partial figures do **not** list a Deva. Need actual Deva plus optional Devabot to field relevant profile; cannot treat OSS label as an owned miniature. |
 | **Dakini — “OSS”** | — | — | **Dakini Tacbots are NOT on pinned ISS roster**; **Dikpala Tacbots** are, and are **distinct** despite being ALEPH-style S2 REMs. No Dakini or Dikpala owned. A Dakini might be a future proxy if bought/owned, not legal as Dakini in ISS. |
 | **Ninja — “Shinden”** | — | **CAD $0 proxy** | [Shindenbutai](../../../inventory/shindenbutai.md): dedicated generic Ninjas **0**; **one Kurayami Ninja (S2 SK)** owned, suitable as ISS standard Ninja/Kunai *one at a time*. |
@@ -124,8 +89,6 @@ Primary original-price sources are the [Yu Jing Miniatures Market USD catalogue]
 | **Dragon Lord** | — | **No normal live purchase confirmed** | **Dragon Lord preorder promo LE**, currently OOP, source [Human Sphere limited editions](https://human-sphere.com/Limited_Edition). **Not included as standard 11th model** in Action Pack, which lists TEN. Use an S2 LI proxy. |
 | **Shénjī Yíng Engineer** | — | See Beta | New **2025 N5 S2 MI** ISS Engineer, available in **Expansion Beta** with separate Yáozăo and 2 distinct armed turret models. |
 | **Fēiquán** | — | **CAD $80 V at Tistaminis / CAD $69.95 V at 401 sold out** | **S7 Aerial Vehicle (VH)**, distinctly not a TAG; proxy only with a physically matching vehicle silhouette. |
-
-**Price leads are per the user's research, not live item-level offers:** e.g. the quoted **Wú Míng four for USD $23.10 → CAD $32.31** cannot be established as an in-stock four-body box. Likewise **Celestial Guard “four for USD $18.80” → CAD $26.29** is **not the new Action Pack**, which contains **three Celestial Guards**. Do not double count boxed sculpts as independent singles until confirmed separate.
 
 ## Confirmed Canadian retailer fallbacks (V, CAD) — price vs online availability
 
@@ -153,18 +116,13 @@ Use [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes) → [Yu
 
 | Set / REF and release context | Exactly included | ISS purchasing consequence |
 |---|---|---|
-| **2025 Imperial Service Action Pack** `281348-1140` | **Advertised TEN miniatures but only NINE distinct trooper entries** (the Bayara handler and large creature are photographed as a combined model; inspect sealed kit to explain the tenth count): **3 Celestial Guard Combi**, **1 Crane HMG**, **1 Pheasant Red Fury**, **1 Wú Míng SMG**, **1 Bayara Light Shotgun**, **1 Koga Ninja Tactical Bow**, **1 Jīnyào Boarding Shotgun**. | **All nine listed trooper entries are legal ISS units**, no exact owned duplicates. The vendor's 10-miniature count **must not be interpreted as ten Regular Orders/troopers**. **CAD $79.95 at 401** is the exceptional verified value. **The OOP Dragon Lord LE preorder bonus is NOT one of the standard ten**. No evidence that these ten are limited editions. |
 | **2025 Imperial Service Expansion Alpha** `281352-1155` | **2 Wú Míng** (AP HMG, BSG) + **1 Zhànyīng Hacker** + **1 separate TinBot** = **4 physical objects, 3 troop bodies**. | Strong complement to Action Pack's **one SMG Wú Míng**: together **3 Wú Míng + 1 Zhànyīng** and three Celestial Guard. **Do not count the TinBot as a fourth trooper/order.** [401 exact content](https://store.401games.ca/products/infinity-yu-jing-imperial-service-expansion-pack-alpha). |
 | **2025 Imperial Service Expansion Beta** `281354-1164` | **1 Shénjī Yíng MI Engineer**, **1 Yáozăo S1 servant**, **1 E/Mitter Armed Turret**, **1 Adhesive Launcher Rifle Armed Turret** = four physical figures/objects. | Valuable as specialist/engineering plus independently modeled turrets; **NOT four soldiers**. If using turret profile, place correct turret; model may not come in basic action pack. [Human Sphere](https://human-sphere.com/Yu_Jing_Starters). |
 | **2025 Imperial Service Expansion Gamma** `281358-1178` | **1 Qiánfēng Hacker Parachutist** (SMG) + **2 Jìnwèi** (Adhesive Launcher Rifle and Triangulated Fire/E-Mitter). | Three actual soldiers, all ISS legal. **S2 MI** Qiánfēng vs **S2 HI** Jìnwèi, cannot treat all three as interchangeable same-class donors. |
 | **2025 Imperial Service Expansion Delta** `281362-1206` | **2 Bào LI** (MULTI Sniper, SMG + Heavy Riotstopper) + **1 Kǎnrèn S2 SK Hacker** (SMG + D-Charges). | Three ISS legal and helpful for Hsien/Bào counter-camouflage Zhian or midfield counter-intelligence. |
 | **2010-ish N2 ISS Starter** `280347-0273` — OOP | **2 Celestial Guard Combi, 1 Celestial Guard BSG, 1 Hsien MULTI Rifle, 1 Wú Míng BSG** = **five confirmed models listed in Human Sphere**, not necessarily six; obtain actual photo to verify extra historical model if seller claims one. | Older less complete starter, sculpts and rules outdated. New 2025 Action Pack is different composition. OOP ≠ LE. |
 | **N3 ISS Starter** `280384-0583` — OOP | **3 Celestial Guard Combi + 1 Zhànyīng ML + 1 Crane Spitfire + 1 Pheasant BSG** = **six**. | Six ISS-legal models, **older sculpts**; new 2025 Action replaces this lineup. Buying alongside 2025 pack duplicates all unit identities with different weapons; buy only for desired old look or separate lists. |
-| **Operation Red Veil**, OOP | Yu Jing side **3 Zhanshi, 1 Zúyŏng, 1 Tiger Hacker, 1 Hsien HMG, 1 Ninja Tactical Bow**; plus Haqqislam side. **Preorder LE Yuan Yuan** outside standard contents. | For ISS only **Hsien and Ninja are legal** (not Zhanshi, Zúyŏng, Tiger); user `Hsien $9.10` might be a loose Red Veil sculpt. Discounted box is useful elsewhere, not the modern ISS starter. |
 | **Beyond Red Veil**, OOP | Yu Jing **Dàofěi HMG, Zhànyīng Breaker Combi, Gŭiláng MSR**, plus Haqqislam; **preorder LE CSU Breaker Rifle** separate promo. | Only **Zhànyīng** legal in ISS; **CSU promo** legal in ISS as a unit type if obtained separately. Buy one loose instead of full old expansion merely for ISS. |
-| **Old / newer Sun Tze** | **Current 2026 Vulkan Shotgun `281363-1230`**, **older Boarding Shotgun `280316-0076`**; older **Sun Tze v2 Marksman/Sniper** historically existed but its separate N4/N3 profile is **NOT** in pinned ISS N5.3. | User `USD $7.20` could be old sculpt; **do not field old marksman as an obsolete second Sun Tze choice**. It can depict present Sun Tze if S2, model/weapon declarations and event proxy rule allow. [Human Sphere Sun Tze](https://human-sphere.com/Sun_Tze). |
-| **Crane Rank old/current** | New **HMG / AP HMG from 2025 Action Pack `281348-1140`**; old **Spitfire from N3 ISS Starter `280384-0583`** plus other older singles. | Your `USD $7.90 old` vs `USD $14.20 allocated new` are **not verified independent retail quotes**. Distinguish photographed sculpts; **not LE**, older/out of production is not a true LE. |
-| **Wú Míng old/new** | Historical **Wú Míng Assault Corps `280385-0594`** out of print; contemporary Action Pack **SMG `281348-1140`**; contemporary Alpha **HMG/BSG `281352-1155`**. | `USD $23.10 four` needs own evidence and SKU: current Alpha is **two** Wú Míng + Zhànyīng + TinBot. [Human Sphere](https://human-sphere.com/W%C3%BA_M%C3%ADng). |
 | **Sù-Jiàn two forms** | Older **2 figures**, and modern **two-form resculpt** listed by Tistaminis. One S3 mobility form plus one S5 combat form of the **same model**. | Your `USD $26.40 → CAD $36.93 conditional`; compare a `CAD $55` newer kit. No ordinary PanO infantry or dog model is a convincing stand-in for the robotic transformation. |
 | **Dragon Lord preorder LE** | Special **limited-edition Dragon Lord from 2025 ISS Action Pack preorder campaign**, **NOT included** in standard retail action pack. | **Actual limited model**, unlike common OOP Crane/Guard. Its roster job is **5pt irregular S2 LI specialist**, not routinely landing CC18 Monofilament. **Proxy** with a non-ISS S2 LI, don't pay LE premium just for a cheap order/tool. [Human Sphere LE archive](https://human-sphere.com/Limited_Edition). |
 | **Lóngwáng preorder-exclusive edition** | **S6 TAG**; Tistaminis sells specifically an **exclusive-preorder-parts version CAD $53**. | **Confirmed seller-described exclusive edition**; do not claim user `USD $22.50` is the same edition or includes the separate **S1 Shàngdiào ancillary**. Check actual photo / pack contents and see [product](https://tistaminis.com/collections/new-releases/products/infinity-yu-jing-longwang-imperial-tag-police-preorder-exclusive-edition). |
@@ -235,7 +193,6 @@ The [model proxy policy](../../miniature-proxy-guidelines.md): **exact S value a
 | Kuang Shi | 8 / LI | P1 — order plan | Consider 2–4 only if Monitor + smoke/order economy is central; not auto-buy AVA8 |
 | Deva Functionaries | 3 / MI | P3 — package | No exact owned Deva despite OSS label; ALEPH Support needs separate Dikpala, not generic Dakini by default |
 | Ninjas | 1 / SK | P2 — proxy | OWNED Kurayami Ninja S2 SK from Shindenbutai is matching stealth proxy; no actual standard Ninja |
-| Major Lunah | 1 / LI | P3 — proxy | Sniper niche; user quote USD6.90; no dedicated owned |
 | Lóngwáng | 1 / TAG | P3 — centerpiece | S6 TAG 68–72pt and **S1 Shàngdiào** ancillary required, pre-order-exclusive edition exists; Squalos S6 only provisional visual proxy |
 | Bào Troops | 5 / LI | P2 — Delta | Two Delta figures; MSV/anti-camo tools in Hsien/Bào Zhian, don't buy up to AVA5 |
 | Kǎnrèn | 3 / SK | P2 — Delta | Delta hacker one, SK utility/camouflage; can proxy with owned Scarecrow S2 SK if free |
@@ -250,7 +207,6 @@ The [model proxy policy](../../miniature-proxy-guidelines.md): **exact S value a
 | Fēiquán | 1 / VH | P3 — VH | S7 Aerial Vehicle, not a TAG; 401 $69.95 sold out / Tistaminis $80; no good owned vehicle proxy |
 | Hsien | 2 / HI | P1/P2 — quote | S2 HI MSV2 HMG; strong smoke/MSV Zhian architecture, cheap quote conditional |
 | Adil Mehmut, Crane Rank Armor | 1 / HI | P1/P2 — quote | S2 HI Wildcard, recommended ahead of second generic Crane |
-| Xi Zhuang | 1 / LI | P2 — quote | S2 LI sensor/FO/Disco/MadTraps, source-supported link flexibility; quote USD7.20 |
 | CSU | 2 / LI | P3 — team | S2 LI Zhian required-choice, not owned; Icestorm/Kaldstrom promotional LE CSU alternatives |
 | Wèibīng | 2 / REM | P2 — proxy | S3 Yaokong, own PanO Dronbot S3 pool potential proxy; no actual Yu Jing model |
 | Son-Bae | 1 / REM | P3 — list-plan | S3 Yaokong missile; FTO Wildcard only, avoid buying without exact guided/network plan |
@@ -269,16 +225,13 @@ The [model proxy policy](../../miniature-proxy-guidelines.md): **exact S value a
 | Celestial Guard | 255 / LI | P1 — Action Pack | 3 combi soldiers in AP; prefer hacker, Smoke GL and Monitor loadout; plain rifle filler is weak default |
 | Jīnyào Drop Unit | 3 / REM | P2 — Action Pack | One in AP, S2 REM with Combat Jump/Parachutist; owned Garuda S2 REM better donor than human Banshee |
 | Warcors | 1 / LI | OWNED (1) | One shared exact Warcor from Kestrel/Shindenbutai already |
-| Zhànyīng | 4 / LI | P1/P2 — Alpha | Alpha hacker S2 LI, Pitcher/Zero Pain; user's individual quote USD6.90 |
 | Father Lucien Sforza | 1 / MI | P3 — proxy | S2 MI FTO for Zhian ONLY, no exact owned (Kestrel lists 0); use Black A.I.R. MI donor if visual match |
 
 ## Rare / weak / low-value purchases (whole units vs profiles)
 
-1. **Extra generic Crane Rank**, especially just for CC/specialist combat: source-backed value criticism compared with **Adil**. **Action Pack includes one Crane already**; buy a separate old USD $7.90 one only for specific AP Spitfire/Hacker/LT or second Crane team role. **This is not “Crane is bad.”**
 2. **Plain Celestial Guard Combi** as expensive pure filler: source-backed; preferentially use **WIP14 Hacker/Smoke GL/Monitor** options. Buying the new AP yields **three bodies** to represent useful variants even if standard sculpt has Combi.
 3. **Second Bayara**: disputed/situational specialist-defense unit and S4 unusual creature; **one in AP** already, try that before dedicated second.
 4. **Dragon Lord as dedicated Monofilament assassin**: poor use of 5pt irregular unit; actual strength is cheap mission/Flash Pulse/Nanopulser. **Preorder-only LE does not justify collector pricing to field one**. S2 LI proxy recommended and legal table usage depends on event.
-5. **Four or eight Kuang Shi on autopilot**: not a universal minimum. Older Monitor+Smoke+cheap orders builds justify some; troop slots/your actual list decide quantity. **ISS AVA8 is maximum, not shopping target**. User price USD $19 for 4 conditional.
 6. **Generic second/third Bào or Wu Míng gun** before a real combined list: action pack + Delta/Alpha already create a strong core; don't blindly fill AVA5 of either. Same with Hsien extra gun.
 7. **Deva + Dikpala ALEPH Support**: useful if building a dedicated WIP15 MSV/hacking/Dikpala link, but **neither exact troop type owned**; substantial package purchase. No fictitious free Dakini from OSS.
 8. **Optional high-cost architectures**: **Sun Tze Strategos, Sù-Jiàn, Lóngwáng S6 TAG, Fēiquán S7 VH** compete for budget and game points. Buy one center by role, not all. Fēiquán **is VH**, no heavy-infantry or S6 TAG stand-in.
@@ -292,11 +245,5 @@ The [model proxy policy](../../miniature-proxy-guidelines.md): **exact S value a
 | Budget / path | Before taxes/shipping | Actual physical contribution and exclusions |
 |---|---:|---|
 | **0. Inventory/proxy trial** | **CAD $0** | Two real Rui Shi/Lù Duān pool, real Warcor, Fennec→Celestial, Griffin→Crane/Wú Míng, Kurayami/Naga→Ninja/Kǎnrèn, Garuda→Jīnyào, Dronbots/Palbots etc. **Bayara S4, Sù-Jiàn forms, S7 Fēiquán and Lóngwáng ancillary not properly covered** by known figures. |
-| **1. One modern ISS Action Pack** | **CAD $79.95 V at 401** | **Nine listed ISS-legal trooper entries** (vendor advertises ten miniatures; Bayara is pictured with a second creature), including Bayara S4 and Jīnyào S2 REM; massive value compared with user $150 baseline. |
-| **2. Modern ISS Action Pack + Alpha** | **CAD $119.90 V at 401** | 9 AP troopers + **2 Wú Míng** + **1 Zhànyīng** = **12 troop bodies** plus **1 TinBot** ancillary; combine with exact two Yáoxiè and Warcor for broader list-building. |
-| **3. Action Pack + Delta** | **CAD $139.95 V (401 AP $79.95 + Tist Delta $60)** | 9 base troopers + **2 Bào + 1 Kǎnrèn** = 12 troopers; better for anti-camo/MSV/Zhian and midfield. |
-| **4. Action Pack + Gamma** | **CAD $139.95 theoretical V (401 AP $79.95 + Tist Gamma $60)** | 9 base troopers + **Qiánfēng + 2 Jìnwèi** = 12 troops; confirm Gamma low stock before purchase. **401 Gamma $49.95 is sold out**, not assumed available. |
-| **5. Modular single-lead starter** | **U CAD $9.65 Zhànyīng + $11.05 Wú Míng + $12.73 Hsien + $11.05 Adil ≈ CAD $44.48 conditional** | Four different real-role leads, all *unverified currency/stock*. Excludes basic Celestial Guards, Koga, Jīnyào and Bayara; far less complete than discounted 401 AP. |
-| **6. Bigger legal 2025 box collection** | **CAD $79.95 AP + $39.95 Alpha + $60 Delta + $60 Gamma = CAD $239.90 V/theoretical** | **18 troop bodies:** base AP9 + Alpha3 + Delta3 + Gamma3 = **18**, plus **1 TinBot**; many list options, still not an obligation to buy all, and Gamma stock must be checked. **Buyer should not count ancillary as order-producing units.** |
 
 **Recommendation:** **Buy the Action Pack from 401 Games at the current lower listed price** if you want a genuinely dedicated ISS collection. Then choose **Alpha** for Wú Míng+Zhànyīng or **Delta** for Bào+Kǎnrèn, and selectively proxy extras. **Do not buy Dragon Lord LE, a second Bayara or several heavy centerpieces** until your lists use them. Verify every overseas USD assumption and real shipping origin before comparing with a Canadian CAD listing.

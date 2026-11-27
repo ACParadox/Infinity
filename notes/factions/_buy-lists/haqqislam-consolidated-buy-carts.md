@@ -1,20 +1,15 @@
 # Haqqislam — consolidated collection-completion buy carts (N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared 2026-10-30.** All four ordinary Haqqislam armies in the current repository: [Vanilla Haqqislam](vanilla-haqqislam-buy-list.md), [Hassassin Bahram](hassassin-bahram-buy-list.md), [Ramah Taskforce](ramah-taskforce-buy-list.md), [Qapu Khalqi](qapu-khalqi-buy-list.md). Current roster/Fireteam authority: [Vanilla](../../../sectorials/haqqislam/haqqislam.md) **56** standard units, [Hassassin](../../../sectorials/haqqislam/hassassin-bahram.md) **33**, [Ramah](../../../sectorials/haqqislam/ramah-taskforce.md) **37**, [Qapu](../../../sectorials/haqqislam/qapu-khalqi.md) **38**; N5.3 Army `7.26246.158` verified 2026-10-15. The per-army files preserve the existing **full roster-by-roster** unit audits; this file is a purchasing synthesis, **not** an addition to existing ownership.
 
 **Buying principle:** At least one useful real sculpt per troop type when reasonably priced, with justified extras for regular list constructions (**3 Ghulam, 3 Daylami, 2–3 Muyib, 2 Govad, 2 Barid, 2 Sekban, 2 Odalisque**), not the unit's full AVA or one of every weapon. Rare heroes / premium or OOP sculpts / unusual motorized or large models are proxy-first or deferred. Everyday four S3 robot roles, baggage S4 and S1 servants may use existing ordinary **non-Combined-looking** PanO/ALEPH robots matching the *target* silhouette and base, not four of every chassis type.
-
-**Prices:** Historical, user-captured [Miniatures Market Haqqislam USD](../market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) are **U — unverified live stock, checkout prices and ship-from countries**. USD→CAD at **1.3985** (2026-10-29); round individual product amounts to cents. Canadian **V** price records come from 401 Games (Toronto/Vaughan ON), Tistaminis (Hamilton ON) or current indexed Canadian product comparisons, **not checkout commitments**. The quoted CAD total is **before GST/QST, shipping, credit-card FX spreads, customs/duties and brokerage**; it is not one confirmed orderable cart.
 
 ## Individual army budget — from actual current ownership
 
 | Army | Core buys CAD | Additional priced options CAD | Core + listed optional CAD | File |
 |---|---:|---:|---:|---|
-| **Vanilla Haqqislam** | **$168.41** | +$103.29 | $271.70 | [Vanilla](vanilla-haqqislam-buy-list.md) |
-| **Hassassin Bahram** | **$206.88** | +$70.24 | $277.12 | [Hassassin](hassassin-bahram-buy-list.md) |
-| **Ramah Taskforce** | **$175.44** | +$155.09 | $330.53 | [Ramah](ramah-taskforce-buy-list.md) |
-| **Qapu Khalqi** | **$148.26** | +$53.70 | $201.96 | [Qapu](qapu-khalqi-buy-list.md) |
-| **Sum of four separately ordered cores** | **$698.99** | — | — | **Double counts Hassassin Action, old Ghulam starter/Red Veil, Mukhtar, Beyond Red Veil and other overlap** |
 
 **Actual ownership is scarce:** shared **Warcor**, **Knauf** (Vanilla-legal) and **McMurrough** (Hassassin-legal) exist among owned Kestrel/Caledonia collections; no named Ghulam, Mukhtar, Fiday, Barid, Sekban, Odalisque etc. were recorded owned. Most substitute figures are **PanO, TAK, ALEPH and JSA non-Haqq silhouette donors**, not actual Haqq troop models.
 
@@ -29,11 +24,8 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 | **Modern Hassassin Bahram Action Pack (10)** | **$83.95** | **V, verified from 401 Games product page on October 30, 2026 (supersedes earlier $99.95 quote):** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack). **3 Daylami, Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut, Shujae, Muyib**: **10 Hassassin / 9 Vanilla legal**, Shujae not Vanilla |
 | **Operation Red Veil — Haqq-only half (7)** | **$38.18** | **U:** Miniatures Market **USD27.30**, **3 Ghulam, Zhayedan, Tuareg, Khawarij, Al Fasid**: **7 Ramah, 6 Vanilla, 3 Qapu** legal; **not the full two-faction operation** |
 | **Beyond Red Veil — Haqq-only trio (3)** | **$18.74** | **U:** Miniatures Market **USD13.40**; **Tarik** for Ramah and **Fiday + Ragik** for Hassassin/Vanilla. Other bodies are NOT automatically Ramah-legal |
-| **Mukhtar Red Fury** | **$10.06** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**, shared Vanilla/Ramah |
 | **Saladin, O-12 Liaison (1)** | **$12.17** | **U:** Miniatures Market **USD8.70**, Vanilla command/list archetype; not automatically an O-12 model |
 | **Ghazi Muttawi'ah listing — quantity must be verified** | **$31.75** | **U:** Miniatures Market **USD22.70**; **Hassassin-only**, archived listing **does not establish physical miniatures per box**. Core priced **conditionally**: if unavailable or wrong contents, use S2 appropriate proxies instead |
-| **Hassassin Expansion Beta (3)** | **$26.85** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hassassin-bahram-expansion-pack-beta/) USD19.20; **Ragik, Ayyar and Asawira**. Ragik is an alternative pose alongside Beyond's one, not a new unit type |
-| **Hassassin Fireteam Alpha (4)** | **$26.85** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/) USD19.20; **2 Muyib + 2 Govad**. With starter, **3 Muyib/2 Govad**. Tistaminis **CAD50 V** alternative |
 | **Barid Hacker second single (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**; with Action Pack first Barid, **2 distinct Barid figures** for planned hacker-heavy teams |
 | **Ramah Expansion Alpha (3)** | **$48.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha) indexed **CAD48.95**, **Hunzakut, Hortlak, Al Fasid HRL**; Hunzakut fulfills Vanilla core single, no second separate purchase |
 | **Haqq Reinforcements Beta (3)** | **$50.00** | **V:** [Tistaminis Haqq catalogue](https://tistaminis.com/collections/haqqislam) CAD50; **Hakim, Leila Sharif, Rouhani** (all Ramah, only Leila/Rouhani Vanilla/Qapu). Check stock |
@@ -42,10 +34,6 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 | **Odalisque Spitfire ×2** | **$20.42** | **U:** Miniatures Market **2 × USD7.30**, two simultaneous Qapu-legal bodies, poses share weapon; declare correct selected profiles |
 | **Djanbazan Sniper (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**, a Qapu MSV gunfighter; no unverified 3/4-body Djanbazan kit included |
 | **Azra'il Feuerbach (1)** | **$14.40** | **U:** Miniatures Market **USD10.30** older listing. One Qapu-specific armoured gun, **not** same unit/model as additional AP HMG and AP Spitfire version purchases |
-| **TOTAL — one shared core for Vanilla, Hassassin, Ramah, Qapu** | **$480.80 CAD** | **Saves $218.19** compared to independent core totals **$698.99**. All amounts are before tax/shipping/FX charges |
-| **Same shared cart if Ghazi is proxied** | **$449.05 CAD** | Minus unconfirmed Ghazi archive listing $31.75, no claimed dedicated Ghazi count |
-
-**Availability and pack substitutions:** For a **Hassassin Beta** from 401 Games, the recent **CAD48.95** listing adds **$22.10** over UTZ's unverified $26.85. For **Hassassin Fireteam Alpha**, Tistaminis' CAD50 adds **$23.15** over UTZ's historical $26.85. For **Ramah Alpha**, Tistaminis CAD56 alternative adds **$7.05** over indexed 401 CAD48.95. If all three substitutions are required, shared core becomes **CAD $533.10** with Ghazi, assuming the other offers exist. This is **not a fully Canadian/current-stock cart**: many cheap USD source listings are old and shipping from those sellers is unconfirmed.
 
 ## Optional extras / not in the core
 
@@ -60,7 +48,6 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 | Ramah | Haytham S7 airborne **Vehicle** | +**$41.96 U** | MM USD30.00; cannot proxy with ordinary TAG S6/7 without silhouette/visual class match |
 | Ramah | Hakims two-medics + two Nasmat pack | +**$46.00 V** | Tistaminis; Reinforcements Beta already has one Hakim. Ancillaries are not extra trooper orders |
 | Qapu | Kaplan Spitfire | +**$9.51 U** | MM USD6.80, old sculpt; buy one if building Kaplan link; 4-Kaplan MM USD22.70 pack only for repeated use |
-| Qapu | Yuan Yuan DA CCW | +**$8.39 U** | [UTZ](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) USD6.00; cheap AD warband, proxy when rarely fielded |
 | Qapu | Second Hafza | +**$9.51 U** | MM USD6.80; one Hafza already in Reinforcements Alpha, two only for chosen list |
 | Qapu | Iguana TAG or Zeybek aircraft / Wild Bill / Laxmee / Fiddler | **$0 core** | Proxy/borrow/defer unless the specific model and matching peripherals are needed frequently. An aircraft Vehicle is not an ordinary TAG |
 | All | Ghazi, Fiday, rare LI/MI/SK heroes and alternative weapons | **Proxy where possible** | Meet target silhouette/size, weapons, troop class and clear per-figure identity; buy only after real list use |
@@ -78,7 +65,6 @@ These **16 distinct priced lines** cover all four standalone core *roles* withou
 
 ## Sources and ordering checks
 
-- [Full Haqq Miniatures Market price archive (USD)](../market-prices/haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone (USD)](../market-prices/ultimate-toy-zone-infinity-prices-usd.md)
 - [Human Sphere — Haqqislam starter and boxed-set contents](https://human-sphere.com/Haqqislam_Starters)
 - Canadian retail: [401 Games Hassassin Action](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), [401 Beta](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-expansion-pack-beta), [401 Ramah Alpha](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha), [Tistaminis Haqq category](https://tistaminis.com/collections/haqqislam)
 - [Owner inventory and proxy references](../../../inventory) and [miniature proxy rules](../../miniature-proxy-guidelines.md), including exact physical sizes and no same-roster donor when ambiguous

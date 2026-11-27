@@ -1,5 +1,7 @@
 # Shock Army of Acontecimento (SAA) — miniature buy list (N5.3, inventory-aware)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Checked 2026-10-30.** This is a **buying plan, not an ownership update**. The authoritative 29-entry [SAA Army roster / profiles / canonical Fireteams](../../../sectorials/panoceania/shock-army-of-acontecimento.md) is N5.3, Army `7.26246.158` (source updated 2026-09-03, verified 2026-10-15). Tactical judgments are based on [Acontecimento research](../Acon/acontecimento-overview.md), [PanO transcript-backed picks / avoid audit](../../../sectorials/panoceania/shock-army-of-acontecimento.md), and [whole-unit purchase avoid audit](model-purchase-avoid-summary-2026.md). All proxies must meet the [repo-wide proxy policy](../../miniature-proxy-guidelines.md). Cross-check [vanilla PanO](vanilla-pano-buy-list.md), [NCA](nca-buy-list.md) and [WinterFor](svalarheima-winter-force-buy-list.md) **buy lists for shared future purchases**; an item appearing in another list is NOT owned until purchased.
 
 **SHOPPING STATUS — 2026-10-31: ACONTECIMENTO PROXY ONLY.** The user intends **CAD $0 in SAA-specific new purchases**. Use owned Tikbalang, Scylla/Charybdis, Naga, Montesa, REMs and separately assigned correct-silhouette human proxies for Regulars, Bagh-Mari, Akali, Rao and Guarda with an Auxbot as needed. The $48.95 standalone core below is a **saved hypothetical**, not an active order; older language about acquiring a real Akali/Guarda/Rao is superseded by this decision. No SAA inventory was added.
@@ -12,11 +14,8 @@
 |---|---:|---|
 | **Core:** Akali Spitfire, 1, USD9.20 U | **$12.87** | Miniatures Market; dedicated airborne sculpt, or use owned Banshee S2 MI if not buying |
 | **Core:** Guarda de Assalto, 1 (+ correct S1 Auxbot), USD12.90 U | **$18.04** | Miniatures Market old kit; **verify Auxbot included**. One generic Auxbot already owned, not simultaneously reusable |
-| **Core:** Lt. Stephen Rao, 1, older USD12.90 lead U | **$18.04** | Unassigned older seller quote; NCO/specialist Bagh-Mari commander |
 | Optional Dragão S7 metal reissue | +$49.95 | **401 Games, Toronto/Vaughan ON**, V retailer price; Meeplemart $35.95 catalogue stock unconfirmed |
 | Optional Kirpal Singh, USD9.20 U | +$12.87 | Miniatures Market; specific CoC airborne plan, otherwise proxy Banshee |
-
-**Core total: CAD $48.95. All priced options: +$62.82; CAD $111.77 combined.** These are not automatic full-AVA purchases. Buying both SAA reissues is not efficient: **Alpha** includes already-owned Scylla/Charybdis and **Beta** buys five Bagh-Mari the user wants to proxy; the earlier models were reissued, not necessarily resculpted.
 
 **Proxy/quantity:** 4–5 Regulars = owned Kestrel Fennecs S2 LI (not SAA-legal as Fennecs); 2–3 Bagh-Mari = owned Kestrel Black A.I.R./Fireflies S2 MI (not selectable in SAA), one suitably armed figure reserved for Rao if needed. ORC = distinct S2 HI Griffin/Hetkari not legal in SAA; Dart = appropriate external S2 SK (owned Naga is SAA-legal and therefore ambiguous as a donor). Kirpal = spare Kestrel Banshee only when not also used for Akali. Skip dedicated Agnes Ferreira, additional ordinary REMs/baggage models, and second TAGs. Existing **Tikbalang, Scylla with Charybdis, foot and bike Montesa, Naga, Armand, Beasthunter, support, bots** are already covered.
 
@@ -29,9 +28,7 @@
 
 ## Currency, price provenance and retailer location
 
-- **Exchange basis:** **USD 1 = CAD 1.3985** (Bank of Canada daily indicative rate **2026-10-29**, latest published at the Oct 30 check): [Bank of Canada lookup](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/?dF=2026-09-30&dT=2026-10-30&lP=lookup_daily_exchange_rates_2017.php&rangeType=dates&rangeValue=&sR=2009-03-06&se=FXUSDCAD). Multiply USD by 1.3985; rounded to cents. **Excludes Canadian sales tax, cross-border duties/brokerage, shipping, credit-card FX spread and customs**.
 - **U = user-provided lead, unverified seller/currency/inventory.** Numbers supplied for individual models are provisionally interpreted as **USD**, since the requested principal stores typically concern overseas pricing, but the buyer did **not** attach a currency, exact product URL or retailer to each price. Thus CAD amounts are **conditional conversions**, not verified store quotations.
-- **V = visible merchant product/catalogue listing**; published price does *not* guarantee checkout stock. **Miniatures Market** [requested Infinity category](https://miniatures.market/product-category/infinity/) currently returns **404**. Its [FAQ](https://miniatures.market/faq/) confirms **USD**, says fulfillment centres are **outside the EU** but does **not identify a specific physical store/country**; stock is confirmed *after placing an order*. No identifiable live miniatures.market SAA price could be confirmed. **Ultimate Toy Zone** [website](https://www.ultimatetoyzone.com) is robots-blocked for live verification, but its saved [user-supplied snapshot](../ultimate-toy-zone-infinity-prices-usd.md) explicitly labels the recorded catalogue prices **USD**. Dispatch location, stock and live checkout remain unverified; only attribute a specific quote where that seller snapshot actually includes it. **Do not fabricate a US address or identify user leads as quotes from either vendor.**
 - **Verified Canadian fallback retailer locations:** [401 Games](https://store.401games.ca/) — **Toronto/Vaughan, Ontario**; [Tistaminis](https://tistaminis.com/) — **Hamilton, Ontario**; [Meeplemart](https://www.meeplemart.com/) — **Toronto, Ontario**. Their visible site prices below are **CAD**. Shipping origin might differ from a storefront's physical location.
 
 ## What you already own that SAA can field — no duplicate purchase
@@ -60,11 +57,7 @@ Source of truth is the **physical inventories**, NOT the previous buy lists:
 |---|---|---|---|
 | **P1, proxy** | **Acontecimento Regulars, 3–5** | 10pt cheap LT/orders, **13pt Sensor+Minelayer**, **20pt Sapper MULTI Sniper** are the SAA foundation. You own **six Fennec Fusiliers** (S2 LI) which are **not SAA-legal as Fennecs**, so they are good visually recognizable line-infantry proxies. You do **not** need to buy all Regulars. | **Buy none initially**; use Fennecs. Optional Alpha gives 4 actual Regulars, but duplicates owned Scylla/Charybdis. |
 | **P1, proxy per request** | **Bagh-Mari, 2–3 test bodies** | MSV1 + Mimetism + NCO + Number 2; useful MSV gunfighter and/or FO/paramedic. MetaChemistry anticipates 3+ in many lists, **not a universal rule**. | Owned **Black A.I.R. (S2 MI)** for MSV rifle/sniper; add **1–2 Fireflies (S2 MI)** for other roles. Both donors are **not SAA-legal**. **Don't automatically buy 5-Bagh Beta** against your explicit proxy preference. |
-| **P1/P2** | **Akali, 1, ideally BSG Specialist** | **21pt BSG +1B/Deployable Repeater specialist** brings real Combat Jump reach; 26pt Spitfire is weapon-specific. | Your **Kestrel Banshee S2 MI Combat Jump** is the strongest owned **proxy** (right visual/class/jetpack), but only one model: buy one Akali if routinely fielded alongside Kirpal. Your **$9.20 U** lead is appealing if the seller/edition is real. |
-| **P2, test before buying** | **Guarda de Assalto, 1 + S1 Auxbot** | Unique PanO **Eclipse** through synchronized Auxbot; expensive and polarizing; one is enough to test. | **$12.90 U** may be a good loose HI sculpt; use owned **Griffin/Hetkari S2 HI** if not using actual Guarda, **plus** your 1 generic S1 Auxbot correctly labelled as Eclipse model. Do **not** count that Auxbot simultaneously as Peacemaker/Seraph support. An Alpha box includes both actual figures. |
-| **P2 for a specific list** | **Stephen Rao, 1** | 25pt NCO specialist/27pt LT **+1 Order or +1 Command Token**, can stand in for Bagh-Mari in team rules. Supports NCO assault and commander plans. | **$12.90 U** individual lead. Proxy with an owned **Kestrel Black A.I.R./Firefly S2 MI** if not needed as Bagh-Mari. Rao is in **Beta** but Beta is not worth buying *only* for Rao. |
 | **P2 optional centrepiece** | **Dragão, 1** | **S7** HRMC/ARM8/76pt. A genuinely different high-AP firepower niche from owned S6 Tikbalang. **No good known owned S7 humanoid PanO TAG proxy**: S6 Tik/Squalos wrong silhouette, S7 alien Caskuda wrong archetype. | Compare user **$26.40 U** (~CAD $36.92 if USD), **Meeplemart CAD $35.95 catalogue** (stock needs check), **401 Games CAD $49.95 listed available**, **Tistaminis CAD $55.00**. |
-| **P3 / proxy first** | **Kirpal Singh, 1** | CoC/Specialist Combat Jump, but **off-table CoC isn't an on-table lieutenant safety net until he arrives**. Use only for planned AD/command/mission setups. | **$9.20 U**. Use **owned Banshee S2 MI** when not concurrently proxying an Akali; Alpha also includes Kirpal. |
 | **P3 / proxy first** | **Dart, 1** | Strong S2 SK 35–42pt niche hunter/specialist, never mandatory. **SAA-legal Naga is a poor identity proxy choice under policy**. | For Dart use owned **Shindenbutai Kurayami Ninja (S2 SK)** if visually appropriate and not needed for JSA; **not SAA-legal**. Beta includes Dart. **42pt HoundBot loadout requires an additional S3 canine-like HoundBot figure**, and no such correct S3 body is confirmed owned. |
 | **P3 / skip dedicated** | **Agnes Ferreira, 0** | User explicitly says **no**. CoC and 16pt RemDriver can be valuable situationally, but not a default purchase. RemDriver targets **REMs, not the TAG**. | Proxy **owned Trisha N33 (S2 LI engineer)** or MO **Crosier (S2 LI)**, neither is legal as its own named unit in SAA. |
 | **P3 / proxy first** | **ORC, 0–1 generic** | Foot Montesa 20pt and proxy Bagh-Mari cover many roles; an ORC's W2/TinBot/HMG can still be worthwhile for a specific mixed Fireteam. | **Kestrel Griffin or Hetkari (S2 HI)** is a close armoured donor, neither legal in SAA. Don't use the **Guarda** as an ORC proxy if also representing the Guarda. |
@@ -74,22 +67,8 @@ Source of truth is the **physical inventories**, NOT the previous buy lists:
 
 ## Price leads you supplied — conditional CAD conversion
 
-**All entries here are U / price leads, NOT verified live quotations.** Assumes USD solely for comparison; retailer origin and stock are unknown. *Do not* infer that Ultimate Toy Zone or Miniatures Market currently lists these items at the stated amount.
-
 | Model / price lead | Assumed USD | **CAD equivalent if USD** | Correct army / caution |
 |---|---:|---:|---|
-| Akali (single) | $9.20 | **$12.87** | SAA; if buying Alpha/Beta, avoid duplicate Akali |
-| Guarda de Assalto (single) | $12.90 | **$18.04** | SAA; needs separate S1 Eclipse Auxbot |
-| Dragão TAG (older loose) | $26.40 | **$36.92** | SAA; S7; compare currently listed metal reissue CAD prices |
-| Kirpal Singh | $9.20 | **$12.87** | SAA; included in Alpha |
-| Stephen Rao | $12.90 | **$18.04** | SAA; included in Beta |
-| Liang Kai (A) | $8.50 | **$11.89** | NOT SAA; SWF/other-eligible roster only |
-| Liang Kai (B) | $11.50 | **$16.08** | NOT SAA; alternative to A, not two purchases |
-| Valkyrie | $11.50 | **$16.08** | NOT SAA |
-| Shona Carano | $12.90 | **$18.04** | NOT SAA |
-| Hannibal | $9.10 | **$12.73** | NOT SAA |
-| Captain Uma Sørensen | $6.40 | **$8.95** | NOT SAA |
-| Gunnar Lundmark | $7.90 | **$11.05** | NOT SAA |
 | **Bagh-Mari** | — | — | **Proxy** as explicitly requested. |
 | **Blade-Ops** | — | — | **No buy** (and **not SAA-legal**). |
 | **Agnes Ferreira** | — | — | SAA-legal but **no buy** by preference. |
@@ -170,15 +149,12 @@ See the [SAA roster](../../../sectorials/panoceania/shock-army-of-acontecimento.
 
 ## Primary archived USD price snapshots and cross-PanO buying audit (Oct 30, 2026)
 
-The prior **loose-model leads** remain valid as user leads, but the saved **[PanO Miniatures Market USD catalogue](../panoceania-miniatures-market-prices-usd.md)** and **[Ultimate Toy Zone USD catalogue](../ultimate-toy-zone-infinity-prices-usd.md)** give explicit sources for some items. **1 USD = CAD 1.3985** before tax/shipping/FX costs. **U = historical user-captured seller price**, not independently confirmed in-stock/checkout; MM's warehouse is not identified (international/non-EU possible) and UTZ dispatch location is not identified. Use listed Canadian fallback in **Toronto/Vaughan (401), Hamilton (Tistaminis), Toronto (Meeplemart)**.
-
 | SAA unit / product | Source USD → CAD | Seller / product generation | Collection-specific buy decision |
 |---|---:|---|---|
 | **Akali Spitfire** | **USD $9.20 → CAD $12.87 U** | Miniatures Market PanO snapshot; historical standalone, unspecified overseas origin | **0 dedicated**; buy one only if using SAA AD repeatedly, or proxy suitably via owned OSS **Garuda REM**? **No—Garuda is a robot and not S2 LI**. Prefer a human S2 infantry airborne-looking donor outside SAA. |
 | **Kirpal Singh** | **USD $9.20 → CAD $12.87 U** | MM PanO snapshot; old listed *Kirpal Sighn* spelling | **0 dedicated**; optional character / shared Akali-like physical option, different named unit. |
 | **Guarda de Assalto** | **USD $12.90 → CAD $18.04 U** | MM PanO snapshot; older Spitfire/MULTI/auxiliary kit with exact parts unverified | High-impact SAA signature HI, but **must provide separate correct S1 Eclipse Auxbot** for the chosen profile. Existing one generic MO Auxbot potentially shared, cannot represent two at once. |
 | **ORC Troops — 4 advertised** | **USD $19.80 → CAD $27.69 U** | MM PanO snapshot; four sculpt box, unspecified overseas origin | **0 dedicated generic ORCs**; might also serve NCA/Varuna/WinterFor, but **1–2 S2 HI Kestrel Griffin/Hetkari proxies** first. |
-| **ORC Troops UTZ box (count unspecified)** | **USD $14.39 → CAD $20.12 U** | [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-panoceania-orc-troops/) · origin unknown | Not assumed same size/contents as MM four-figure box; inspect SKU before paying. |
 | **Montesa Exclusive Pack** | **USD $24.10 → CAD $33.70 U** | MM PanO snapshot; **exclusive** edition, exact figures unspecified | Already **one foot Montesa and one bike Montesa**. Collector choice only; do not mistake foot for S4 bike. |
 | **Stingray Uhlan + Tikbalang old dual-TAG** | **USD $33.40 → CAD $46.71 U** | MM PanO snapshot; legacy/OOP 2-TAG model generations | **Tikbalang S6 already owned**. Uhlan belongs to **NCA** and is not standard SAA; do not buy SAA expecting two legal TAGs. |
 | **Scylla/Charybdis plus Regulars + others in Repack Alpha** | **CAD $109.95 (401) / $115 (Tistaminis) V** | [401 Games Toronto/Vaughan](https://store.401games.ca/products/infinity-panoceania-acontecimento-combat-force-repack-alpha) / [Tistaminis Hamilton](https://tistaminis.com/products/infinity-acontecimento-combar-force-repack-alpha) | Modern **reissues of previously OOP sculpts**, not proven resculpts; **Scylla and Charybdis owned already**, cheap Fennecs can proxy Regulars. |
@@ -186,14 +162,11 @@ The prior **loose-model leads** remain valid as user leads, but the saved **[Pan
 
 **Box contents:** [Human Sphere Starter Boxes](https://human-sphere.com/Starter_Boxes) / [PanO Starters](https://human-sphere.com/PanOceania_Starters), plus existing [Acontecimento Alpha/Beta analysis](#older-starter-boxes--repacks--editions--human-sphere-cross-check). **2010 and 2016 SAA starters are OOP older sculpts**; **2026 Repack Alpha/Beta** are reissues, *not confirmed wholly new sculpt designs*. Limited editions (such as exclusive Montesa, Icestorm ORC or promotional figures) need not be purchased to access their normal current roster profiles. No “same-base-only” proxy: **Guarda HI S2 + separate Auxbot S1**, **Dragão TAG S7** versus owned S6 Tikbalang, and **Bagh-Mari MI S2** (owned Kestrel Black A.I.R./Firefly MI) are different physical requirements. Support **MO Curator/Hawkins** acquisitions are mainly for [MO](military-orders-buy-list.md), not automatically SAA. Reuse [Kestrel](kestrel-buy-list.md), [vanilla](vanilla-pano-buy-list.md), [NCA](nca-buy-list.md), [WinterFor](svalarheima-winter-force-buy-list.md) and [Varuna](varuna-buy-list.md) purchases only once across the collection.
 
-
-
 ## Minimal shopping scenarios (choose, don't add all together)
 
 | Basket | New purchases / illustrative **CAD** | What it covers / trade-off |
 |---|---:|---|
 | **A — minimum spending (recommended first)** | **$0** | Fennecs as Regulars, Black A.I.R./Fireflies as Bagh-Mari, Banshee as Akali/Kirpal, Griffin+generic Auxbot as Guarda, owned Scylla/Charybdis, Tik, Montesa, Naga, Armand and bots. Missing only exact sculpt identity and **a proper S7 Dragão** if you want to test it. |
-| **B — smallest targeted distinct purchases** | **User leads**: Akali $12.87 + Guarda $18.04 + Rao $18.04 = **$48.95 conditional CAD**, **only if user leads really USD / purchasable** | More exact human silhouettes while keeping Bagh-Mari proxies. Reuses the existing single generic Auxbot for Guarda if correct S1. Don't falsely compare to Canadian stocked products. |
 | **C — add optional Dragão** | **Meeplemart CAD $35.95 catalogue** (verify stock) or **401 CAD $49.95 listed** | S7 HRMC model cannot be well proxied by the known collection; no need to acquire if happy using owned Tikbalang. |
 | **D — collect original SAA sculpts** | **Tistaminis Beta $85.00** and/or **401 Alpha $109.95**; combined separate-store baseline **$194.95** + shipping | Beta buys 5 unwanted-under-preference Bagh-Mari sculpts; Alpha duplicates Scylla+Charybdis, but gives distinctive Guarda+Auxbot and 4 Regulars. Only opt in if collecting/painting value or regular use justifies expense. |
 

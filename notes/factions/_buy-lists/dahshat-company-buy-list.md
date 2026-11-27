@@ -1,5 +1,7 @@
 # Dahshat Company — miniatures buy list (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Created 2026-10-30 against latest `main`; does not modify inventory.** Current [N5.3 canonical roster/AVA/Fireteams](../../../sectorials/na2/dahshat-company.md); purchase ratings from [Mercenary must-have/go-to/avoid source audit](../../../sectorials/na2/dahshat-company.md), with [strict proxy guidelines](../../miniature-proxy-guidelines.md). N5.3 Army reference `7.26246.159` (September 2026). Actual ownership: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Shindenbutai](../../../inventory/shindenbutai.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Other](../../../inventory/other-units.md). **A recommended buy in another buy list is not proof of ownership.**
 
 ## What is owned and what to buy first
@@ -12,9 +14,7 @@
 
 **Skip** McMurrough, Cateran, 112 motorized, Dozer, Traktor Mul, Warcor and Yáoxiè rebuys. Al Fasid HMG / Ghulam HMG as the only gun is a profile-level deferral, not total unit veto.
 
-## Saved Miniatures Market and Ultimate Toy Zone USD → CAD
-
-Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniatures-market-prices-usd.md), [Tohaa Miniatures Market USD](../tohaa-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD](../ultimate-toy-zone-infinity-prices-usd.md). **Historical user-supplied snapshots, NOT confirmed live offers/stock.** Convert using **USD 1 = CAD 1.3985** (2026-10-29 project comparison benchmark), each listed product rounded to two decimals, **before shipping, taxes, customs, brokerage, card fees**. Miniatures Market (`miniatures.market`, *not* `miniaturemarket.com`) original merchant dispatch country/city **not verified**. Ultimate Toy Zone online merchant dispatch country/city likewise **not verified**. Individual merchant URLs only when supplied; don't invent. Seller category doesn't confer N5.3 legality. A multi-piece box price is **per box, not per independent Regular-order trooper**.
+## Saved Miniatures Market USD → CAD
 
 | Historical product/edition | Original USD | Converted approx. CAD | Seller and location | Model-count/edition/availability caution |
 |---|---:|---:|---|---|
@@ -33,11 +33,6 @@ Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniature
 | Druze Shock Teams | USD $18.80 | **CAD $26.29** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | 2024 5-figure Druze+Arslan/Jethro differs old four-Druze box; verify which SKU. |
 | Authorized Bounty Hunter Bike | USD $12.90 | **CAD $18.04** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 | Aida Swanson, Submondo Smuggler (Submachine gun) | USD $9.60 | **CAD $13.43** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Libertos Freedom Fighters (Light shotgun) (Blister) | USD $6.00 | **CAD $8.39** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – McMurrough, Mercenary Dog-Warrior | USD $14.10 | **CAD $19.72** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-mcmurrough-mercenary-dog-warrior/) · online/dispatch location unknown | **Check owned exact named figure first** before buying duplicates. |
-| Infinity – NA2 – Miranda Ashcroft, Authorized Bounty Hunter (Combi Rifle) (Blister) | USD $5.40 | **CAD $7.55** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-miranda-ashcroft-authorized-bounty-hunter-combi-rifle-blister/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Diggers Armed Prospectors (Chain Rifle) | USD $9.29 | **CAD $12.99** | [Saved UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Fiddler Aristeias Ex-Toymaker | USD $8.69 | **CAD $12.15** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-fiddler-aristeias-ex-toymaker/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 
 ## Canadian retailer fallbacks (displayed CAD)
 

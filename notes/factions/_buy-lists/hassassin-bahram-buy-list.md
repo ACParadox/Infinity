@@ -1,5 +1,7 @@
 # Hassassin Bahram — N5.3 miniature buy list
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · `main` · purchase plan, not inventory update.** Current N5.3 roster/Fireteam source: [Hassassin Bahram](../../../sectorials/haqqislam/hassassin-bahram.md), Army `7.26246.158` verified 2026-10-15. Tactical evidence: [Haqqislam must-have/go-to/avoid source audit](../../../sectorials/haqqislam/hassassin-bahram.md). Ownership references: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Shindenbutai](../../../inventory/shindenbutai.md), [other minis](../../../inventory/other-units.md). **No dedicated Haqq army owned**; recommended purchases aren't owned.
 
 ## Collection completion — concrete purchases, proxies, optional costs (CAD)
@@ -9,22 +11,16 @@
 | Core buy once | CAD | Coverage, origin |
 |---|---:|---|
 | **2025 Hassassin Bahram Action Pack (10 soldiers)** | **$83.95** | **V (direct 401 Games product price checked 2026-10-30; earlier repo quote was $99.95):** [401 Games Toronto/Vaughan](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack); **3 Daylami + Barid + Lasiq + Nadhir + Bokhtar + Sunduqbut + Shujae + Muyib**. All 10 Hassassin legal; likely Blackwind/Beyond repack rather than all new sculpts |
-| **Hassassin Expansion Beta (3)** | **$26.85** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hassassin-bahram-expansion-pack-beta/) **USD19.20**; **Ragik Spitfire + Ayyar AP/Marksman + Asawira AP Spitfire**. [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-expansion-pack-beta) CAD48.95 and indexed online at recent check |
-| **Hassassin Fireteam Alpha (4)** | **$26.85** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/) **USD19.20**; **2 Muyib (HRL, Doctor) + 2 Govad (HMG, Hacker)**. With Action Pack Muyib this yields **3 physical Muyibs** and **2 Govads**, not four distinct unit types. [Tistaminis](https://tistaminis.com/products/infinity-haqqislam-hassassin-fireteam-pack-alpha) CAD50 fallback |
 | **Hassassin Expansion Gamma (3)** | **$27.97** | **U:** Miniatures Market **USD20.00**; **ONE Fiday BSG, ONE Ayyar viral pistols and Hussein al-Djabel**. The archived MM prose mistakenly reports four including 2 Fiday; [Human Sphere](https://human-sphere.com/Haqqislam_Starters) / [401](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-expansion-pack-gamma-281433-1223) confirm **3**. Beta + Gamma give two Ayyar sculpts but no automatic second Fiday |
 | **Second Barid Hacker blister (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**. Two different Barids permit separate HD/KHD/hacking plans (one already in Action Pack); check visible loadout/sculpt and tell opponent. Only buy the second if using two |
 | **Ghazi Muttawi'ah archive product (quantity unconfirmed)** | **$31.75** | **U:** MM **USD22.70**; **Ghazi ARE current Hassassin-legal (AVA4)**. Buy only when seller confirms number of figures (prefer 1–2 initially), otherwise represent with appropriate correctly sized distinct models; **no four-figure assumption** |
-| **CORE — Hassassin Bahram** | **$206.88** | Six products, including a conditionally available Ghazi product; if unavailable proxy Ghazi and budget **$175.13** |
 
 | Optional model or group | Additional CAD | Decision |
 |---|---:|---|
 | **Hassassin Expansion Alpha (Fiday + Farzan + Lasiq)** | +**$43.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-expansion-pack-alpha), Toronto/Vaughan; **sold out at observed check**. Adds worthwhile **Farzan** but *duplicates Fiday and Lasiq unit identities*; proxy Farzan until actually obtainable cheaply |
 | **4-Muyib boxed special-weapons set** | +**$26.29** | **U:** MM **USD18.80** (Spitfire, HRL, Minelayer, Doctor). **Duplicates** core Muyib names/possibly weapons; for Muyib-dense Core and alternate sculpts only |
-| **Both remaining options, arithmetic** | **+$70.24** | **Core + options $277.12** (or $245.37 with Ghazi proxied). Alpha stock is not confirmed |
 
 **Proxy/skip:** Existing S2 camouflage class (Naga/TAK Scout) can cover *rare* Farzan, second Fiday or niche Yasbir, but a recognizable Fiday body is preferable for routine Impersonation. S2 line soldiers from PanO Fennecs/Crosiers can fill occasional Ghulam without rebuilding a whole line infantry pool. S1 Nasmat servants via owned Yudbots/Palbots; normal Haqq S3 remotes via **four PanO Dronbots total**, and S4 baggage via **two Mulebots total**, matching physical S/base and weapons. **Low-priority character sculpts** (Yasbir, Hussein second pose, other unique named extras) and unsupported HVT sets are skipped; expensive/limited/retired appearances not required. The Fireteam Alpha 4-model troop count and Gamma 3-model troop count are intentionally explicit; old seller descriptions are not authoritative rules/box contents.
-
-**Method and price provenance:** The dated [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) are **U / historical user-captured snapshots**, **not live verified inventory or orderable checkout offers**. Convert USD to CAD at **1 USD = CAD 1.3985 (2026-10-29)**, rounding each product to cents. **V / Canadian seller catalogue** prices are in CAD (401 Games Toronto/Vaughan; Tistaminis Hamilton), and can change or be sold out. Tax, shipping, card conversion spread, customs/duties and brokerage **excluded**. The [one-cart Haqq consolidation](haqqislam-consolidated-buy-carts.md) avoids cross-army duplicated boxes. None of these are updates to your owned inventories.
 
 ## Army-specific buying verdict
 
@@ -43,14 +39,11 @@ The **N5 Hassassin Action Pack** is the cleanest army foundation: ten roster-leg
 | **P2 / skip** | Second Ayyar/Sunduqbut, unlinked Yasbir | 0 | One normally enough, second useful only in planned marker saturation; correct FTO profiles. |
 | **P3** | Shakush TAG | 0 | Only if committed to TAG-centric Bahram; lacks a faithful owned TAG donor. |
 
-## Primary Miniatures Market and Ultimate Toy Zone prices, USD converted to CAD
-
-**FX: USD 1 = CAD 1.3985** on 2026-10-29, rounded to 2 decimals. **U = saved seller price snapshot, NOT confirmed current offer/stock**. [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) contain 67 listings; [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) contain the smaller Haqq selection. For relevant NA2 models also consult [Miniatures Market Mercenaries USD](../mercenary-miniatures-market-prices-usd.md). **Miniatures Market** `miniatures.market` (not US `miniaturemarket.com`) has an **unspecified warehouse/country**; **Ultimate Toy Zone** has unverified dispatch geography. Store-linked source is preserved where supplied and otherwise the saved Markdown file, never a made-up product link. Quotes are **per named entire box/single**, with no hidden assumed figure count. CAD excludes shipping, GST/QST, import fees, FX spread and duties. Seller faction tags are not N5.3 legality.
+## Primary Miniatures Market prices, USD converted to CAD
 
 | Quoted product | USD source → estimated CAD | Source and geographic provenance | Contents, old/LE status, buy/skip |
 |---|---:|---|---|
 | Hassassin Expansion Pack Gamma | USD $20.00 → **CAD $27.97** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | MM seller says 4 incl 2 Fiday; **actual Gamma = 3 (Fiday/Ayyar/Hussein)** according to current Human Sphere/401 |
-| [Infinity – Haqqislam – Hassassin Bahram Expansion Pack Beta](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hassassin-bahram-expansion-pack-beta/) | USD $19.20 → **CAD $26.85** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hassassin-bahram-expansion-pack-beta/); dispatch origin unverified | Ragik Spitfire, Ayyar MMR, Asawira AP Spitfire, 3 models |
 | Hassassin Muyibs | USD $18.80 → **CAD $26.29** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Muyibs 4 unique soldiers: Spitfire, HRL, Minelayer, Doctor |
 | Hassassin Barid (Hacker) | USD $6.80 → **CAD $9.51** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Barid hacker single |
 | Hassassins Govads (HMG) | USD $8.40 → **CAD $11.75** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Govad HMG also Fireteam Alpha |
@@ -61,8 +54,6 @@ The **N5 Hassassin Action Pack** is the cleanest army foundation: ten roster-leg
 | Yara Haddad (AP Marksman Rifle) | USD $7.50 → **CAD $10.49** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Yara Haddad optional Wildcard |
 | Ghazi Muttawi'ah | USD $22.70 → **CAD $31.75** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Ghazi box, exact count unspecified |
 | Shakush Light Armored Unit | USD $16.80 → **CAD $23.49** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Shakush TAG |
-| [Infinity – Haqqislam – Hussein Al-Djabel](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hussein-al-djabel/) | USD $9.60 → **CAD $13.43** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-hussein-al-djabel/); dispatch origin unverified | One standalone Hussein, compare Gamma value |
-| [Infinity – Reinforcements – Haqqislam – Hassassin Fireteam Pack Alpha](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/) | USD $19.20 → **CAD $26.85** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-reinforcements-haqqislam-hassassin-fireteam-pack-alpha/); dispatch origin unverified | UTZ saved title says Reinforcements; verify SKU against normal Fireteam Alpha, don't assume contents |
 
 ## Canadian seller alternatives (original CAD)
 

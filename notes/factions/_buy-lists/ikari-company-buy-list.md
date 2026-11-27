@@ -1,5 +1,7 @@
 # Ikari Company — miniatures buy list (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Created 2026-10-30 against latest `main`; does not modify inventory.** Current [N5.3 canonical roster/AVA/Fireteams](../../../sectorials/na2/ikari-company.md); purchase ratings from [Mercenary must-have/go-to/avoid source audit](../../../sectorials/na2/ikari-company.md), with [strict proxy guidelines](../../miniature-proxy-guidelines.md). N5.3 Army reference `7.26246.159` (September 2026). Actual ownership: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Shindenbutai](../../../inventory/shindenbutai.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Other](../../../inventory/other-units.md). **A recommended buy in another buy list is not proof of ownership.**
 
 ## What is owned and what to buy first
@@ -12,9 +14,7 @@
 
 **Skip** both new Yojimbo variants, Armand, Warcor and additional Dronbot packs. Arslan is a low-value default buy but its MSV/Disco command niche remains; do not buy Al Fasid S5 as S2 Wú Míng proxy.
 
-## Saved Miniatures Market and Ultimate Toy Zone USD → CAD
-
-Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniatures-market-prices-usd.md), [Tohaa Miniatures Market USD](../tohaa-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD](../ultimate-toy-zone-infinity-prices-usd.md). **Historical user-supplied snapshots, NOT confirmed live offers/stock.** Convert using **USD 1 = CAD 1.3985** (2026-10-29 project comparison benchmark), each listed product rounded to two decimals, **before shipping, taxes, customs, brokerage, card fees**. Miniatures Market (`miniatures.market`, *not* `miniaturemarket.com`) original merchant dispatch country/city **not verified**. Ultimate Toy Zone online merchant dispatch country/city likewise **not verified**. Individual merchant URLs only when supplied; don't invent. Seller category doesn't confer N5.3 legality. A multi-piece box price is **per box, not per independent Regular-order trooper**.
+## Saved Miniatures Market USD → CAD
 
 | Historical product/edition | Original USD | Converted approx. CAD | Seller and location | Model-count/edition/availability caution |
 |---|---:|---:|---|---|
@@ -34,10 +34,6 @@ Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniature
 | Father Lucien Sforza (Viral Rifle ADHL) | USD $6.80 | **CAD $9.51** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 | Father Lucien Sforza, Authorized Bounty Hunter | USD $8.60 | **CAD $12.03** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 | Authorized Bounty Hunter Bike | USD $12.90 | **CAD $18.04** | [Saved MM Mercenary prices](../mercenary-miniatures-market-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Yuan Yuan (DA CCW) | USD $6.00 | **CAD $8.39** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Diggers Armed Prospectors (Chain Rifle) | USD $9.29 | **CAD $12.99** | [Saved UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Wardrivers (Hacker) | USD $6.00 | **CAD $8.39** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-wardrivers-hacker/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Anaconda Tag Squadron (Boxed) | USD $22.80 | **CAD $31.89** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-anaconda-tag-squadron-boxed/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 
 ## Canadian retailer fallbacks (displayed CAD)
 
