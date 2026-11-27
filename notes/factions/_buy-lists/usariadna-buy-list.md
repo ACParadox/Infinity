@@ -1,5 +1,7 @@
 # USAriadna Ranger Force (USARF) — N5.3 miniature buy list, inventory-aware
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · main branch · purchase plan, not owned inventory.** [Pinned N5.3 USAriadna Ranger Force (USARF) current standard roster and Fireteams](../../../sectorials/ariadna/usariadna.md), Army `7.26246.158` (verified 2026-10-15), controls AVA and legality. Tactical purchase evidence: [Ariadna must-have/go-to/avoid audit](../../../sectorials/ariadna/usariadna.md). Ownership: [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Kestrel](../../../inventory/kestrel.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [other figures](../../../inventory/other-units.md). Proposed buys in other lists **are not owned**.
 
 ## Executive purchasing decision
@@ -16,12 +18,9 @@ No dedicated USARF core is recorded; TAK inventory mentions **one Marauder 5307 
 | **P1/P2** | Marauder + Minuteman | 0 dedicated | MI/HI human bodies; use suitably armoured, non-USARF owned models; one extra Marauder 5307 proxy not automatically official. |
 | **P2 / unique team** | Devil Dog S6 + K-9 S5 | 0 correct S6 | Your two 'Devil Dogs' were **rebased S5**; they're S5 dog donors, not suitable for S6 dog-warrior unless physically corrected. |
 | **P2** | Van Zant, Maverick | 0 dedicated | One S2 airborne LI and one S4 motorcycle; biker can use TAK Dynamo if free. |
-| **P3** | Unknown Ranger, Blackjack | 0 | Ordinary Ranger USD $7.90, GenCon exclusive $14.20. Blackjack bulkier HI, avoid visually light S2 proxy. |
 | **Skip** | Wild Bill, redundant Grunts, max AVA bikes | No need | Wild Bill is niche team filler and Grunt sniper alone isn't complete ARO package; try list before bulk. |
 
-## Miniatures Market and Ultimate Toy Zone source-snapshot prices
-
-**USD 1 = CAD 1.3985**, 2026-10-29 reference; prices converted and rounded per product, **before** Québec taxes, shipping, import brokerage/duties and FX spread. The [Miniatures Market Ariadna Markdown catalogue](../ariadna-miniatures-market-prices-usd.md) is a **USD user-provided historical snapshot (U)**; warehouse/dispatch country is unspecified (possible non-EU warehouse), not a verified store location. [Ultimate Toy Zone Markdown USD catalogue](../ultimate-toy-zone-infinity-prices-usd.md) is another **U snapshot**, with unverified online dispatch city/country. Neither confirms today's checkout price or in-stock status. `miniatures.market` is **not** the unrelated `miniaturemarket.com`. Every price is for the **named item/box**; never divide or multiply it based on an assumed number of soldiers. Exact seller URLs are linked only when in the original source.
+## Miniatures Market source-snapshot prices
 
 | Specific priced product | Saved USD U | Approx. CAD | Source / geographic location | What actually arrives, edition, army relevance |
 |---|---:|---:|---|---|
@@ -39,7 +38,6 @@ No dedicated USARF core is recorded; TAK inventory mentions **one Marauder 5307 
 | Blackjacks, 10th Heavy Ranger Bat. (AP HMG) | USD $28.40 | CAD **$39.72** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Blackjack AP HMG older model |
 | Devil Dogs Teams | USD $25.70 | CAD **$35.94** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Devil Dog *team*; separate S6 Devil Dog + S5 K-9 |
 | K-9 Antipode | USD $13.80 | CAD **$19.30** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | K-9 Antipode individual S5 |
-| [Infinity – Ariadna – Blackjacks, 10th Heavy Ranger Bat. (T2 Sniper Rifle) (Boxed)](https:// | USD $15.00 | CAD **$20.98** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-ariadna-blackjacks-10th-heavy-ranger-bat-t2-sniper-rifle-boxed/), online origin unknown | Blackjack T2 Sniper alternative to AP HMG |
 | Marauder 5307th Ranger Unit | USD $7.90 | CAD **$11.05** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Marauder 5307 named sculpt; not proof owned proxy is that official miniature |
 
 ## Canadian alternatives (original CAD, store location)
@@ -61,7 +59,6 @@ Box contents checked with [Human Sphere Starter Boxes](https://human-sphere.com/
 | USAriadna Army Box / Action Pack 281129-0988 | 3 Grunts, Foxtrot, Marauder, Minuteman, Devil Dog team (2), Maverick = 9 bodies | Army Box rebranded Action Pack; special dismounted Maverick was **preorder-only LE bonus**, not ordinary ninth/tenth figure. |
 | USARF six-model starter | 3 Grunts, Foxtrot, Marauder, Minuteman | Included already in nine-body pack; do not double-buy. |
 | Devil Dog team | S6 Devil Dog and S5 K-9 Antipode | Different silhouette and base; the existing S5 dog models are not the S6 fighter. |
-| Unknown Ranger regular / GenCon | Ordinary $7.90 versus GenCon limited $14.20 | Same profile/character, collector edition only. |
 | Blackjack AP HMG/T2 sniper | Older alternate weapon sculpts | Different weapon models, not two required unit identities. |
 
 ## Proxy selection under collection-wide guidelines

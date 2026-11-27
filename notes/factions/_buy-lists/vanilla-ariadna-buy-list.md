@@ -1,7 +1,6 @@
 # Vanilla Ariadna — N5.3 miniature buy list, inventory-aware
 
-**Latest user shopping selection (2026-10-31):** [Active plan](pano-ariadna-active-purchase-plan.md) selects **Mirage-5, Van Zant, Chernobog, Beyond Crimson Stone Ariadna trio (Wallace, Scots Guard, Kosmosoldat), and Chasseur**. **Current planned Ariadna budget CAD $99.42**, before tax/shipping at historical prices. **Unknown Ranger is explicitly excluded** (older optional product below remains a reference quote only). The regular Crimson Stone seven-model half does not contain Wallace; it is an **additional possible Kosmoflot purchase after** this plan. No user-selected purchases are yet marked physically owned.
-
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
 
 **Prepared October 30, 2026 · main branch · purchase plan, not owned inventory.** [Pinned N5.3 Vanilla Ariadna current standard roster and Fireteams](../../../sectorials/ariadna/vanilla-ariadna.md), Army `7.26246.158` (verified 2026-10-15), controls AVA and legality. Tactical purchase evidence: [Ariadna must-have/go-to/avoid audit](../../../sectorials/ariadna/vanilla-ariadna.md). Ownership: [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Kestrel](../../../inventory/kestrel.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [other figures](../../../inventory/other-units.md). Proposed buys in other lists **are not owned**.
 
@@ -11,20 +10,15 @@
 
 | Core to buy once | CAD | Source, unit count and reason |
 |---|---:|---|
-| **Équipe Mirage-5** (Margot + Duroc) | **$23.90** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/) USD17.09; two distinct physical bodies, **including correct large dog-warrior**, one legal combined unit. Also reusable in Kosmoflot; no need to rebuy if collecting both |
 | **Chasseur Rifle/LFT** (1) | **$9.65** | **U:** [Miniatures Market Ariadna](../ariadna-miniatures-market-prices-usd.md) USD6.90; useful cheap S2 SK camouflage/specialist. A spare external Naga S2 SK already provides a proxy if the old listing cannot be bought |
-| **CORE — Vanilla Ariadna** | **$33.55** | Only 2 products; extensive existing Ariadna inventory supplies main troop pool |
 
 | Optional, priced extras (not core) | Add CAD | Decision |
 |---|---:|---|
 | **The Unknown Ranger** ordinary single | +**$11.05** | **U:** Miniatures Market USD7.90, **not** GenCon limited edition USD14.20. Some Vanilla plans benefit from his specialist/Molotok package; proxy rarely played S2 MI with appropriate non-roster donor |
 | **Chernobog TAG** | +**$30.77** | **U:** Miniatures Market USD22.00; real distinctive large walker if routinely playing Chernobog, not an ordinary human/robot proxy |
-| **Both optional models** | **+$41.82** | **Core + both options $75.37 CAD** |
 | **Canadian alternative, not additive: CodeOne Ariadna Booster Beta** (Unknown Ranger + Chasseur + Strelok) | **$33.95 V** | [TabletopGamerStore Canadian catalogue](https://www.tabletopgamerstore.com/infinity-miniatures/ariadna/); three sculpts, but one Strelok already owned and **duplicates** the core Chasseur/optional Ranger. Buy *instead of* their individual blisters if USD offers fail; [401 Games](https://store.401games.ca/products/infinity-codeone-ariadna-booster-pack-beta) lists **$29.95 sold out**, not a usable lower-price alternative |
 
 **Covered without purchases:** Available **Traktor Mul/Kuryer are 2 physical chassis TOTAL**, not two of each; an extra typical baggage/robot unit may use matching non-Combined Army existing REMs at correct silhouette. Shared S5 dog models are **4 physical proxies** across Bâtard/K-9/Antipodes, while two TAK Dog-Warriors and McMurrough are separate **S6** models. Do not proxy S6 with S5 dogs. The N5.3 Vanilla reference has **no Core Fireteams**, so no automatic five-model Fireteam purchase. **Defer/proxy** Polaris team, other animal handler teams, extra named characters and limited releases, unavailable/pricey TAG variants, and FRRM-related Reinforcements six-pack until a recurring Vanilla list needs the actual bodies. Existing non-Vanilla S2 proxies may cover these only where matching class/silhouette and not simultaneously occupied.
-
-**Basis and caveat:** Source prices are dated October 30, 2026. **U** = seller prices in the [Ariadna Miniatures Market USD archive](../ariadna-miniatures-market-prices-usd.md) or [Ultimate Toy Zone USD archive](../ultimate-toy-zone-infinity-prices-usd.md), *unverified for live stock, checkout/dispatch or actual landed price*. CAD conversions use **USD 1 = CAD 1.3985** (2026-10-29), with each product rounded independently. **V** = Canadian quoted/catalogue price (not guaranteed available at checkout). Totals exclude taxes, shipping, customs/duties, brokerage and payment-card FX spread. Any models listed as purchases are **not** owned until actually purchased. [Ariadna deduplicated cart](ariadna-consolidated-buy-carts.md) combines these with no duplicate boxes.
 
 ## Executive purchasing decision
 
@@ -42,9 +36,7 @@ The TAK + Caledonia inventories already cover most ordinary Ariadna gunfighters,
 | **P2 / cross-FRRM** | Ariadna Reinforcements Alpha 6-pack | 0 named contents | 2 Loup-Garou, Apache, 2 Briscards, Moblot: six *regular vanilla roster-legal* named models, also six FRRM legal. |
 | **Skip** | Kosmoflot 10-pack as vanilla starter; more REMs/dogs | Many already owned | Only six of 10 Kosmoflot Action Pack bodies concurrently vanilla legal, due Rokot AVA2 and non-vanilla units. Buy by missing role. |
 
-## Miniatures Market and Ultimate Toy Zone source-snapshot prices
-
-**USD 1 = CAD 1.3985**, 2026-10-29 reference; prices converted and rounded per product, **before** Québec taxes, shipping, import brokerage/duties and FX spread. The [Miniatures Market Ariadna Markdown catalogue](../ariadna-miniatures-market-prices-usd.md) is a **USD user-provided historical snapshot (U)**; warehouse/dispatch country is unspecified (possible non-EU warehouse), not a verified store location. [Ultimate Toy Zone Markdown USD catalogue](../ultimate-toy-zone-infinity-prices-usd.md) is another **U snapshot**, with unverified online dispatch city/country. Neither confirms today's checkout price or in-stock status. `miniatures.market` is **not** the unrelated `miniaturemarket.com`. Every price is for the **named item/box**; never divide or multiply it based on an assumed number of soldiers. Exact seller URLs are linked only when in the original source.
+## Miniatures Market source-snapshot prices
 
 | Specific priced product | Saved USD U | Approx. CAD | Source / geographic location | What actually arrives, edition, army relevance |
 |---|---:|---:|---|---|
@@ -52,7 +44,6 @@ The TAK + Caledonia inventories already cover most ordinary Ariadna gunfighters,
 | The Unknown Ranger GenCon limited edition | USD $14.20 | CAD **$19.86** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | GenCon limited Unknown Ranger, collector only |
 | Chasseurs (Rifle, Light Flamethrower) | USD $6.90 | CAD **$9.65** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Chasseur LFT single |
 | Equipe Mirage-5 | USD $24.30 | CAD **$33.98** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Mirage-5 two-body team |
-| [Infinity – Ariadna – Equipe Mirage-5](https://www.ultimatetoyzone.com/product/infinity-aria | USD $17.09 | CAD **$23.90** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/), online origin unknown | Cheaper saved UTZ Mirage-5 |
 | Chernobog Armored Detachment | USD $22.00 | CAD **$30.77** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Chernobog TAG |
 | Ariadna Starter Pack Operation Crimson Stone | USD $31.80 | CAD **$44.47** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Operation Crimson Stone Ariadna 7: max 5 vanilla legal (Rokot AVA 2) |
 | Beyond Operation Crimson Stone (Ariadna pack) | USD $18.30 | CAD **$25.59** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Beyond Crimson Stone three: only Wallace vanilla legal |

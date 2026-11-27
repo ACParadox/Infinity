@@ -1,5 +1,7 @@
 # Vanilla Haqqislam — N5.3 miniature buy list
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · `main` · purchase plan, not inventory update.** Current N5.3 roster/Fireteam source: [Vanilla Haqqislam](../../../sectorials/haqqislam/haqqislam.md), Army `7.26246.158` verified 2026-10-15. Tactical evidence: [Haqqislam must-have/go-to/avoid source audit](../../../sectorials/haqqislam/haqqislam.md). Ownership references: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Shindenbutai](../../../inventory/shindenbutai.md), [other minis](../../../inventory/other-units.md). **No dedicated Haqq army owned**; recommended purchases aren't owned.
 
 ## Collection completion — concrete purchases, proxies, optional costs (CAD)
@@ -10,24 +12,19 @@
 |---|---:|---|
 | **2025 Hassassin Bahram Action Pack** | **$83.95** | **V (direct 401 Games product price checked 2026-10-30; earlier archive $99.95):** [401 Games](https://store.401games.ca/products/infinity-haqqislam-hassassin-bahram-action-pack), Toronto/Vaughan ON. **9 of its 10 models are current Vanilla-legal**, including **three Daylami**, one Barid, Lasiq, Nadhir, Bokhtar, Sunduqbut and Muyib; **Shujae is not Vanilla-standard**. Three Daylami are useful physical low-cost screen bodies |
 | **Older Haqqislam Starter Pack (six)** | **$33.98** | **U:** [Miniatures Market Haqq USD capture](../haqqislam-miniatures-market-prices-usd.md), **USD24.30**, old sculpt/generation: **3 Ghulam + Zhayedan + Khawarij + Tuareg**. All **six Vanilla legal**; not the 10-figure generic Action Pack |
-| **Mukhtar Red Fury (one)** | **$10.06** | **U:** [Ultimate Toy Zone](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**; mobile MSV2 attacker, don't buy older BSG sculpt as extra unit |
 | **Saladin (one)** | **$12.17** | **U:** Miniatures Market **USD8.70**, Strategos/command alternative; proxy if that particular order plan is rarely used |
 | **Hunzakut rifle/LGL (one)** | **$9.51** | **U:** Miniatures Market **USD6.80**; cheap S2 SK camo/specialist; second may be an owned correctly sized non-vanilla SK proxy |
 | **Beyond Red Veil — Haqq-only three-model trio** | **$18.74** | **U:** Miniatures Market **USD13.40**. **Fiday + Ragik** are Vanilla legal and fill distinct valuable slots; **Tarik Mansuri is NOT** a standard Vanilla selection. Do not mistake this for entire two-faction Beyond |
-| **CORE — Vanilla Haqqislam** | **$168.41** | Six unique purchases; starts from existing owned models and permits proxies for uncommon named types |
 
 | Optional (not in core) | Additional CAD | Decision |
 |---|---:|---|
 | **Shakush TAG** | +**$23.49** | **U:** Miniatures Market **USD16.80**, single distinctive TAG; buy if regularly using armor, not a normal human/REM proxy. Avoid a second expensive TAG initially |
 | **Haqq Reinforcements Alpha (6)** | +**$69.95** | **V:** 401 Games Canadian **CAD69.95 catalogue result**, confirm price/stock directly. **2 Sekban + Hafza + Burkut + Korsan + Al Hawwa**, all six in standard Vanilla roster. High value if also pursuing Qapu, but many are optional in Vanilla-only |
 | **Rahman Rouhani (single doctor character)** | +**$9.85** | **U:** Miniatures Market **USD7.04**, one named doctor if used often. **Alternative, not additive:** Haqq four-piece MM Support Pack **USD18.80 / CAD26.29**, containing Ghulam Doctor + Najjarun + 2 Nasmat servants; existing S1 bot proxies already cover basic support |
-| **Total of the three priced options above** | **+$103.29** | **Core + those options = $271.70**. Support-pack CAD26.29 substitute would change this amount |
 
 **Proxy/skip:** Standard **Fanous / Rafiq / Shihab / Shaytaniyah** normal-looking remotes use up to **four physically distinct non-Combined S3 Dronbots** of the required base/height, and S4 Kameel baggage robots use existing Mulebots only if the precise target silhouette matches. Nasmat S1 servants can be owned Palbots/Yudbots; no native Haqq REM shopping budget. S2 LI from Fennecs/Crosiers for generic Ghulam support, SK from external TAK Scouts / OSS Naga for Fiday/Farzan/Hunzakut, and correctly sized HI for special bodies where no meaningful same-roster collision. Do not proxy an S5 armoured suit with S2 knight or a **S7 airborne Vehicle** with a conventional TAG. Rare characters such as Yasbir, Hussein al-Djabel, extra Fiday, additional premium hacker/MI, luxury Shakush/Maghariba alternative, and Haytham/Zeybek aircraft remain proxy/borrow/skip until a real list requires them. **Actual Vanilla has Core Fireteams=0**, so acquiring full five-figure line teams is not compulsory.
 
 **Old/modern box warning:** The older 10-model Haqq Action Pack includes Tarik and Al Fasid, which are **not** currently Vanilla named units, whereas the modern 10-model Hassassin Action Pack supplies nine useful Vanilla sculpts. Qapu, Ramah and Bahram do **not** inherit each other's roster merely by sharing parent faction. Confirm individual item photos, expected weapon/body count, any retired/reissued versus actual resculpt, and stock before purchasing.
-
-**Method and price provenance:** The dated [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) are **U / historical user-captured snapshots**, **not live verified inventory or orderable checkout offers**. Convert USD to CAD at **1 USD = CAD 1.3985 (2026-10-29)**, rounding each product to cents. **V / Canadian seller catalogue** prices are in CAD (401 Games Toronto/Vaughan; Tistaminis Hamilton), and can change or be sold out. Tax, shipping, card conversion spread, customs/duties and brokerage **excluded**. The [one-cart Haqq consolidation](haqqislam-consolidated-buy-carts.md) avoids cross-army duplicated boxes. None of these are updates to your owned inventories.
 
 ## Army-specific buying verdict
 
@@ -39,16 +36,13 @@ The existing collection has **Knauf (1) and Warcor (1)** as exact vanilla Haqq e
 |---|---|---|---|
 | **P1** | Saladin (1) | 0 | Powerful Irregular-order command strategy; MM $8.70 archived. Proxy first if playing primarily Regular troops. |
 | **P1** | Daylami 1–2, Hunzakut 1–2 | 0 | Inexpensive defense and camouflage specialists; avoid an unplanned overload of Irregular Orders. **Ghazi do not appear in the pinned Vanilla roster.** |
-| **P1** | Mukhtar Red Fury (1) | 0 | Mobile MSV2 attack, [UTZ] USD $7.19 versus different older BSG sculpt MM $6.80; same unit not two purchases. |
 | **P1/P2** | Fiday (1), plus specialist/doctor | 0 | Impersonation play; Hassassin Alpha has Fiday+Farzan+Lasiq, **all vanilla legal** as named; check Fiday count. |
 | **P2** | 10-figure classic Haqq Action Pack | 0 | Eight legal vanilla bodies, but 2 Ramah-only (Tarik, Al Fasid); not a vanilla Core starter. |
 | **P2** | Shakush or Maghariba (one centerpiece) | 0 | TAG archetype, exact model silhouette required. Old Maghariba metal versus re-sculpted modern release. |
 | **P2 / proxy** | Support pack (2 humans + 2 Nasmats), Haqq REMs | 0 exact | Prefer owned ALEPH Yudbots/Palbots and Dronbots where exact S and visual identity fit. |
 | **P3 / skip** | Second competing TAG, Zeybek/Haytham aircraft, excess premium guns | 0 | Rare/specialized builds: proxy/borrow first, distinguish VH aircraft from normal TAGs. |
 
-## Primary Miniatures Market and Ultimate Toy Zone prices, USD converted to CAD
-
-**FX: USD 1 = CAD 1.3985** on 2026-10-29, rounded to 2 decimals. **U = saved seller price snapshot, NOT confirmed current offer/stock**. [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) contain 67 listings; [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) contain the smaller Haqq selection. For relevant NA2 models also consult [Miniatures Market Mercenaries USD](../mercenary-miniatures-market-prices-usd.md). **Miniatures Market** `miniatures.market` (not US `miniaturemarket.com`) has an **unspecified warehouse/country**; **Ultimate Toy Zone** has unverified dispatch geography. Store-linked source is preserved where supplied and otherwise the saved Markdown file, never a made-up product link. Quotes are **per named entire box/single**, with no hidden assumed figure count. CAD excludes shipping, GST/QST, import fees, FX spread and duties. Seller faction tags are not N5.3 legality.
+## Primary Miniatures Market prices, USD converted to CAD
 
 | Quoted product | USD source → estimated CAD | Source and geographic provenance | Contents, old/LE status, buy/skip |
 |---|---:|---|---|
@@ -56,7 +50,6 @@ The existing collection has **Knauf (1) and Warcor (1)** as exact vanilla Haqq e
 | Ghazi Muttawi'ah — **not Vanilla legal** | USD $22.70 → **CAD $31.75** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | **Do not buy for Vanilla.** Current N5.3 Ghazi are Hassassin Bahram roster entries; seller box quantity also unproven |
 | Hunzakuts (Rifle Light Grenade Launcher) | USD $6.80 → **CAD $9.51** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Hunzakut LGL, camo utility |
 | Mukhtar, Active Response Unit (Boarding Shotgun) | USD $6.80 → **CAD $9.51** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Mukhtar Boarding Shotgun alternate |
-| [Infinity – Haqqislam – Mukhtar (Red Fury)](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) | USD $7.19 → **CAD $10.06** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/); dispatch origin unverified | Mukhtar Red Fury, mobile gun sculpt |
 | Haqqislam Starter Pack | USD $24.30 → **CAD $33.98** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Old starter (6): 3 Ghulam, Zhayedan, Khawarij, Tuareg = 6/6 vanilla |
 | Haqqislam Operation: Red Veil | USD $27.30 → **CAD $38.18** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Red Veil Haqq seven: Al Fasid not vanilla; 6/7 |
 | Beyond Red Veil Haqqislam | USD $13.40 → **CAD $18.74** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Beyond Red Veil Haqq 3: Fiday/Ragik legal, Tarik not |
@@ -66,7 +59,6 @@ The existing collection has **Knauf (1) and Warcor (1)** as exact vanilla Haqq e
 | Haqqislam Support Pack new | USD $18.80 → **CAD $26.29** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Engineer+Doctor+2 Nasmat S1, 2 soldiers not 4 |
 | Kameel Remote | USD $20.60 → **CAD $28.81** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Kameel REM, box quantity unclear |
 | Mukthar, Active Response Unit | USD $8.70 → **CAD $12.17** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Mukhtar generic alternate price, check model and role |
-| [Infinity – Haqqislam – Zhayedan Intervention Troops](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/) | USD $16.50 → **CAD $23.08** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/); dispatch origin unverified | Current vanilla Zhayedan MI, exact pack count unverified |
 | Fiddler Set | USD $16.90 → **CAD $23.63** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Exclusive Fiddler + 2 Jackbots: Fiddler is vanilla legal but premium special sculpt optional |
 
 ## Canadian seller alternatives (original CAD)
