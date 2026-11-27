@@ -1,10 +1,10 @@
 # Black Friday — Ultimate Toy Zone
 
-**Snapshot:** 2026-11-27. **Source:** user-provided catalogue paste from [Ultimate Toy Zone](https://www.ultimatetoyzone.com). Prices are in dollars as displayed (presumed CAD; currency not explicitly identified in the paste), before tax and shipping. Advertised free shipping on orders over $60; destination eligibility not verified. This is a historical snapshot, not a live availability or seller verification.
+**Snapshot:** 2026-11-27. **Source:** user-provided catalogue paste from [Ultimate Toy Zone](https://www.ultimatetoyzone.com). Prices are in USD, as confirmed by the user, before tax and shipping. Advertised free shipping on orders over $60 USD; destination eligibility not verified. This is a historical snapshot, not a live availability or seller verification.
 
 **Scope:** 127 retained listings from catalogue results 1–156 of 185 (pages 1–13 of 16 supplied). Results 157–185 were not supplied. Excludes non-Corvus Belli Infinity products, books (including book-and-miniature bundles), scenery bases, terrain and ITS scenery/objectives. Includes miniature-containing paint sets, mixed starter packs, CodeOne, Essentials, limited editions and the Infinity faction decals (not excluded by the requested scope). Product names are lightly normalized; listing order and distinct variants are preserved. Sale prices are transcribed exactly, including one-cent differences from mathematical discount calculations. Discounts are the advertised percentages.
 
-| # | Product | Original ($) | Sale ($) | Advertised discount |
+| # | Product | Original (USD) | Sale (USD) | Advertised discount |
 |---:|---|---:|---:|---:|
 | 1 | PanOceania – Redeye (Spitfire, Chain Rifle, Blitzen) | $70.00 | $21.00 | 70% |
 | 2 | Ariadna – TAK Expansion Pack Alpha | $62.00 | $18.59 | 70% |
