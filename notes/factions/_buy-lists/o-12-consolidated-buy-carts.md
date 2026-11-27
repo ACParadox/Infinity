@@ -1,5 +1,7 @@
 # O-12 — consolidated Vanilla, Starmada and Torchlight Brigade buy carts (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared 2026-10-30 from authoritative `main`.** All **three** current O-12 armies: [Vanilla O-12](vanilla-o-12-buy-list.md) (**49 current standard unit entries**), [Starmada](starmada-buy-list.md) (**44**), [Torchlight Brigade](torchlight-brigade-buy-list.md) (**38**). Rules legality follows pinned [Vanilla](../../../sectorials/o-12/o-12.md), [Starmada](../../../sectorials/o-12/starmada.md) and [Torchlight](../../../sectorials/o-12/torchlight-brigade.md) N5.3 reference (Infinity Army `7.26246.159`, verified 2026-10-15); the existing *full unit-by-unit buy/proxy/skip audits* in the three individual files remain intact. This document is a **proposed shopping plan, not an owned-inventory update**.
 
 **Actual ownership already applied:** **Warcor x1** and **two S1 Yudbots** are shared. **Starmada:** **Hector 1, Andromeda 1**, **Knights of Santiago 2** owned (but **Starmada AVA1** for Santiago, do not field two simultaneously). **Torchlight:** **Beasthunter 1** is owned. No full dedicated O-12 force, Moonrakers, Ment Agents, Betatroopers, Silverstar Rovers or Lambda infantry reported. The owned **Caledonia McMurrough S6** can test **Ioann Bann** when free and visually/size matched, not an exact owned O-12 character. Other people in other factions aren't automatically legal O-12 even if their model silhouette is useful for a proxy.
@@ -8,20 +10,13 @@
 
 | Army | Core CAD | Optional additional CAD | Core + all listed options CAD | Full unit-by-unit plan |
 |---|---:|---:|---:|---|
-| **Vanilla O-12** | **$320.89** | +$124.75 | **$445.64** | [Vanilla shopping list](vanilla-o-12-buy-list.md) |
-| **Starmada** | **$301.44** | +$185.00 | **$486.44** | [Starmada shopping list](starmada-buy-list.md) |
-| **Torchlight Brigade** | **$259.63** | +$70.87 | **$330.50** | [Torchlight shopping list](torchlight-brigade-buy-list.md) |
-| **Independent core sum** | **$881.96** | — | — | **Double-counts Reinforcements Alpha, Varangian, Cyberghost, Raveneye, Tinker and Torchlight Beta**, *and* some figures inside different boxes |
 
 **What “core” means:** enough **useful/recurring model identities and meaningful multiple bodies**, not buying every 49/44/38 standard troop entry or all AVA. Reuse named already-owned characters, avoid limited-edition alternate sculpts and weak rarely played characters, proxy human-style generic remotes and baggage. At least **3 Kappas, 2 Moonrakers, 3 Silverstar Rovers, 2 Hellblazers, 2 Kludgers, 2 Vidocq and several distinct heavy attackers** are in the planned physical pool when all three are considered; extra over-AVA sculpts are proxy donors or different-force poses, not independent troops in one list.
-
-**Pricing standard:** **U = historical user-supplied Miniatures Market** [O-12 USD file](../market-prices/o-12-miniatures-market-prices-usd.md) **or Ultimate Toy Zone** [USD file](../market-prices/ultimate-toy-zone-infinity-prices-usd.md) (captured 2026-10-30), **not verified current stock or checkout pricing**. USD converted at **1 USD = CAD 1.3985 on 2026-10-29**, rounded **per product**. **V = Canadian storefront retail reference** from **401 Games (Toronto/Vaughan ON)** or **Tistaminis (Hamilton ON)**, direct product pages stronger than category snippets, stock changes over time. Prices exclude GST/QST, shipping, foreign exchange spread, duties and customs/brokerage. Archive source `miniatures.market` is **NOT** the different vendor `miniaturemarket.com`; do not assume source dispatch location. **The historic 26-model Collection Pack quote is particularly uncertain.** Seller SKU/content must be verified before purchase.
 
 ## One combined cart: 11 distinct products, without cross-army duplicates
 
 | Physical purchase once | CAD | Exact models, provenance and overlap |
 |---|---:|---|
-| **CodeOne O-12 Collection Pack — 26 physical miniatures** | **$111.60** | **U:** [Ultimate Toy Zone historical USD79.80](../market-prices/ultimate-toy-zone-infinity-prices-usd.md), [26-model pack content inventory and SKU](https://www.miniaturemarket.com/cvb282020.html). **Three Kappas; Epsilon, Omega, Gamma, Gangbuster, Cuervo, Delta Hacker, Lynx, Razor, PSI-Cop, Crusher, Hippolyta, Ensign Katherine Cho, 2 Lambdas, Zeta TAG; Betatrooper (Starmada legal), Shona and Casanova (Starmada legal), 2 Yudbot servants, 2 conventional Copperbots, and a Prospector**. **Not all 26 are legal O-12 Vanilla**, and some normal remotes/servants are redundant with your existing proxies. Historical seller **may not actually have live stock**. The same pack replaces a separate Starmada Booster Beta, Lambda Support Pack and Betatrooper box; **do not rebuy these** |
 | **O-12 Reinforcements Alpha — 6 soldiers** | **$85.00** | **V:** [Tistaminis Hamilton O-12 page 2](https://tistaminis.com/collections/o12?page=2), low stock indexed. **3 Jackboots (Spitfire/Engineer/FO) + 2 Vidocq (Doctor/MMR) + Ment Agent**. All three army rosters contain these **unit families**, but limits differ: Vanilla/Starmada Jackboots AVA2, Torchlight Jackboot AVA1, Torchlight Vidocq1; **a third Jackboot is not a third simultaneous legal model** for any of these 3 armies. One pack purchased once gives Ment CoC + a wide specialist pool. Reinforcement-specific FT privileges are not generic standard-list permissions |
 | **Torchlight Brigade Expansion Beta — 3 specialist REMs** | **$54.95** | **V:** [401 Games CAD54.95, 2 online](https://store.401games.ca/products/infinity-o-12-torchlight-brig-expansion-pack-beta); exact [REF282032-1113, 1 StormBot HRL + 2 Moonrakers HSG](https://warsen.al/collections/all-o-12/products/torchlight-brig-expansion-pack-beta), **3 actual models**. Both **Torchlight and Vanilla legal**; Moonraker AVA2. Distinct from ordinary Copperbot robots; don't get cheaper Fuzzbot/normal REMs instead and claim same appearance |
 | **Varangian Guard SMG (1)** | **$12.17** | **U:** [MM saved O-12 price file](../market-prices/o-12-miniatures-market-prices-usd.md), USD8.70. One smoke/CC Regular warband for **Vanilla and Starmada**. More only for recurring two-Varangian archetypes. Not a Torchlight standard unit |
@@ -29,20 +24,8 @@
 | **Raveneye Officer (1)** | **$25.00** | **V:** [Tistaminis Hamilton CAD25](https://tistaminis.com/collections/o12), low stock; relevant **all 3 O-12 armies**. Take first FO/Minelayer, do not automatically buy CoC variant when Ment CoC is available |
 | **Tinker + Zetbot (two physically distinct pieces)** | **$20.98** | **U:** MM USD15.00; **1 Tinker support trooper + 1 Zetbot companion**, not 2 Regular Orders. [401 Games CAD32.95](https://store.401games.ca/collections/corvus-belli-infinity-o-12) indexed in stock. All 3 armies |
 | **Starmada Action Pack (9)** | **$72.72** | **U:** MM USD52.00; **3 Kappa + Lawkeeper bike + Bluecoat + 2 Crushers + Bronze + Saladin**. 9/9 Starmada legal. The **three Kappas overlap the Collection Pack's three Kappas**; 6 extra Kappa figures would exceed Starmada AVA5, so treat excess as alternate loadouts and distinct proxy bodies, **not a need for six Kappa in one Starmada list**. [Tistaminis CAD110 in stock](https://tistaminis.com/products/corvus-belli-infinity-o-12-starmada-action-pack-new), 401 CAD98.95 sold out |
-| **Starmada Expansion Alpha — 2 troop figures + Wildparrot** | **$18.46** | **U:** [UTZ historical USD13.20](https://www.ultimatetoyzone.com/product/infinity-o-12-starmada-expansion-pack-alpha/). **Ŝarko + Sekudroid + Wildparrot ancillary**, *2 troopers*, both Starmada-only among 3 armies. [Tistaminis CAD45 in stock](https://tistaminis.com/collections/o12?page=2); 401 CAD30.95 sold out |
-| **Torchlight Action Pack (9)** | **$48.95** | **U:** UTZ historical USD35.00; **1 Strider, 1 Nimrod, 1 Yellowjacket, 3 Silverstar Rovers, 2 Hellblazers, 1 Silverstar Prime**; all Torchlight legal, only a subset Vanilla. **Silverstar Prime has no Torchlight Fireteam chart entry.** [401 CAD79.95 with 2 available online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-action-pack) available Canadian fallback |
-| **Torchlight Expansion Alpha (3 distinct support troops)** | **$24.75** | **U:** UTZ historical USD17.70; **Kludger Engineer, Kludger Doctor, Waverider Hacker**. [401 CAD39.95, 10+ available online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-expansion-pack-alpha) fallback |
-| **DEDUPLICATED CORE, ALL THREE ARMIES** | **$485.77 CAD** | **11 unique retail products**, versus **$881.96** separate cores: **$396.19 saved** through pack reuse and the *replacement* of three separately budgeted Starmada products |
-| **One of the higher priced specialists proxied** | **$400.77 CAD** | Minus **$85 Reinforcements Alpha**: accurately sized separate proxies for Ment, Vidocq, Jackboots. **Not equivalent to owning the original sculpts** |
 
 ### Why the combined savings are greater than just counting repeated boxes
-
-The ordinary union of the three standalone core baskets contains **14 different retail lines at $541.69 CAD**, compared with the independently bought **$881.96**, because the Reinforcements Alpha, Torchlight Beta, Raveneye, Tinker, Cyberghost and Varangian can be shared. But the **CodeOne 26-model Collection Pack already contains** the separately budgeted Starmada:
-- O-12 Booster Beta **$12.99** (Katherine Cho / Hippolyta / Crusher);
-- Lambda Support Pack **$25.31** (2 Lambda / 2 already-owned ancillary Yudbots);
-- Betatrooper box **$17.62**, now confirmed as 3 soldiers plus TinBot (SKU282017-0916).
-
-**Remove all three duplicate retail boxes** from the union: **$541.69 – $55.92 = $485.77 CAD**. There is **no need to buy an extra Hippolyta or separate Zeta** for Starmada/Vanilla once the 26-model pack is obtained. **This deduction is conditional on actually obtaining that Collection Pack** at the archived price; otherwise recalculate the cart based on genuinely available items.
 
 ### Canadian fallback costs (don't silently treat old USD prices as available)
 
@@ -56,21 +39,14 @@ The ordinary union of the three standalone core baskets contains **14 different 
 | Cyberghost | $11.19 | [Tistaminis $22, low stock](https://tistaminis.com/collections/o12) | **+$10.81** |
 | **All six substitutions** | — | — | **+$132.80**: combined **$618.57** *if the other historic products can be obtained* |
 
-**This is NOT a live all-Canadian checkout quote:** the very inexpensive 26-model Collection Pack **$111.60 historic** was not independently confirmed for sale at the captured seller; it may be out of production/unavailable and has no directly equivalent 2026 CAD fallback. That item substantially determines the estimate. [Archived O-12 10-model Action Pack UTZ USD52.75 ≈ CAD73.76](https://www.ultimatetoyzone.com/product/infinity-code-one-o-12-action-pack/), or [Tistaminis $100 CAD sold out](https://tistaminis.com/collections/o12), is a **partial substitute**, not 26 equivalent models; additional Booster Alpha, Lambda, Zeta, and speciality figures would need separate budget. **Do not advertise $485.77 as guaranteed purchasable today.**
-
 ## Optional purchases, only after repeated 300-point lists justify them
 
 | Army | Optional | Increment CAD | Decision |
 |---|---|---:|---|
 | Vanilla | **Team Sirius controller + SiriusBot** | **+$45.00 V** | [Tistaminis CAD45 low-stock](https://tistaminis.com/collections/o12), two real physical forms; not normal Copperbot |
 | Vanilla or Starmada | **RoadBots Highway Patrol** | **+$55.00 V** | [Tistaminis CAD55 low stock](https://tistaminis.com/collections/o12); one high-mobility transforming REM unit, not a cheap generic Copperbot; different forms and SideBot require correct physical pieces |
-| Vanilla or Torchlight | **Wrecker TAG + Zetbot support** | **+$24.75 U** | [UTZ historic USD17.70](../market-prices/ultimate-toy-zone-infinity-prices-usd.md). One TAG + separate companion, **not** a reason to purchase the now redundant Zeta if bought Collection |
 | Starmada | **Nyoka Assault Troops** | **+$60.00 V** | [Tistaminis CAD60 low stock](https://tistaminis.com/collections/o12), box count unknown; only for actively played Nyoka Fireteam |
-| Torchlight | **Jamie Arantes Netdroid Rover** | **+$12.15 U** | [UTZ USD8.69](https://www.ultimatetoyzone.com/product/infinity-o-12-jamie-arantes-netdroid-rover/), two *alternate* Jamie profile identities are mutually exclusive, one character |
 | Torchlight | **Sāchā** | **+$20.98 U** | [Miniatures Market cross-faction JSA USD15](../market-prices/jsa-miniatures-market-prices-usd.md), occasional irregular mission specialist; proxy first |
-| **All 6 globally unique optional items, once each** | — | **+$217.88** | **Combined core + all six optional $703.65 CAD**, no duplicate RoadBots/Wrecker |
-
-**Do not double-buy other optional lines from standalone budgets:** Starmada optional **Zeta CAD70** is already inside the Vanilla CodeOne 26-model Collection Pack; Torchlight optional **Booster Beta CAD12.99** duplicates its Hippolyta/Cho/Crusher, and Starmada's separate Lambda/Betatrooper boxes have already been removed.
 
 ## How the stated no-buy/proxy constraints are applied
 
@@ -83,6 +59,5 @@ The ordinary union of the three standalone core baskets contains **14 different 
 
 ## Original project evidence and product links
 
-- [O-12 Miniatures Market saved USD](../market-prices/o-12-miniatures-market-prices-usd.md), [Ultimate Toy Zone all Infinity saved USD](../market-prices/ultimate-toy-zone-infinity-prices-usd.md)
 - [Human Sphere O-12 starter and box contents](https://www.human-sphere.com/O12_Starters), [O-12 26-figure Collection contents](https://www.miniaturemarket.com/cvb282020.html), [Torchlight Beta actual models](https://warsen.al/collections/all-o-12/products/torchlight-brig-expansion-pack-beta)
 - [401 Games O-12 collection](https://store.401games.ca/collections/corvus-belli-infinity-o-12), [Tistaminis O-12 collection](https://tistaminis.com/collections/o12), [inventory references](../../../inventory/steel-phalanx.md), [proxy quality guide](../../miniature-proxy-guidelines.md)

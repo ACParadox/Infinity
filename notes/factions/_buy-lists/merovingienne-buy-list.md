@@ -1,5 +1,7 @@
 # Force de Réponse Rapide Merovingienne (FRRM) — N5.3 miniature buy list, inventory-aware
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · main branch · purchase plan, not owned inventory.** [Pinned N5.3 Force de Réponse Rapide Merovingienne (FRRM) current standard roster and Fireteams](../../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md), Army `7.26246.158` (verified 2026-10-15), controls AVA and legality. Tactical purchase evidence: [Ariadna must-have/go-to/avoid audit](../../../sectorials/ariadna/force-de-reponse-rapide-merovingienne.md). Ownership: [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Kestrel](../../../inventory/kestrel.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [other figures](../../../inventory/other-units.md). Proposed buys in other lists **are not owned**.
 
 ## Executive purchasing decision
@@ -20,9 +22,7 @@ No dedicated Métros, Chasseurs, Briscards, Loup-Garous, Moblots, Zouaves or Par
 | **P3 / distinct** | Anaconda TAG / Carmen & Bâtard | 0 | Correct mecha silhouette or two-body motorcycle + S5 canine; Penthesilea and dog pool can test Carmen if unallocated. |
 | **Skip** | Additional Vystrel/Traktor, NCO gimmicks | already owned | The expensive Bruant + Zouave NCO construction is contested; no need to fill all gunfighter AVA. |
 
-## Miniatures Market and Ultimate Toy Zone source-snapshot prices
-
-**USD 1 = CAD 1.3985**, 2026-10-29 reference; prices converted and rounded per product, **before** Québec taxes, shipping, import brokerage/duties and FX spread. The [Miniatures Market Ariadna Markdown catalogue](../ariadna-miniatures-market-prices-usd.md) is a **USD user-provided historical snapshot (U)**; warehouse/dispatch country is unspecified (possible non-EU warehouse), not a verified store location. [Ultimate Toy Zone Markdown USD catalogue](../ultimate-toy-zone-infinity-prices-usd.md) is another **U snapshot**, with unverified online dispatch city/country. Neither confirms today's checkout price or in-stock status. `miniatures.market` is **not** the unrelated `miniaturemarket.com`. Every price is for the **named item/box**; never divide or multiply it based on an assumed number of soldiers. Exact seller URLs are linked only when in the original source.
+## Miniatures Market source-snapshot prices
 
 | Specific priced product | Saved USD U | Approx. CAD | Source / geographic location | What actually arrives, edition, army relevance |
 |---|---:|---:|---|---|
@@ -36,9 +36,7 @@ No dedicated Métros, Chasseurs, Briscards, Loup-Garous, Moblots, Zouaves or Par
 | Moblot (Rifle, Light Shotgun) | USD $6.80 | CAD **$9.51** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Moblot rifle + LSG |
 | Moblots (Rifle, Panzerfaust) | USD $6.80 | CAD **$9.51** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Moblot rifle + Panzerfaust |
 | Reinforcements Brigadier Jacques Bruant | USD $9.80 | CAD **$13.71** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Brigadier Bruant AP Spitfire |
-| Infinity – Ariadna – Reinforcements Brigadier Jacques Bruant (AP Spitfire) | USD $8.10 | CAD **$11.33** | [Ultimate Toy Zone source](../ultimate-toy-zone-infinity-prices-usd.md), online origin unknown | Bruant lower archival UTZ price; confirm model edition |
 | Equipe Mirage-5 | USD $24.30 | CAD **$33.98** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Mirage-5 team |
-| [Infinity – Ariadna – Equipe Mirage-5](https://www.ultimatetoyzone.com/product/infinity-aria | USD $17.09 | CAD **$23.90** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-ariadna-equipe-mirage-5/), online origin unknown | Mirage-5 discounted UTZ source |
 | Vystrel Mobile Artillery Regiment | USD $20.00 | CAD **$27.97** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Vystrel pair already 2 owned |
 | Traktor Muls. Regiment of Artillery and Support | USD $35.10 | CAD **$49.09** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Traktor pair only two chassis already owned |
 | Ariadna Support Pack | USD $28.00 | CAD **$39.16** | [Miniatures Market source](../ariadna-miniatures-market-prices-usd.md), unknown international dispatch location | Support duplicates Dozer, foot 112 only absent |
