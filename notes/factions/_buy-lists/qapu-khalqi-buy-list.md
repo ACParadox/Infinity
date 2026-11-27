@@ -1,5 +1,7 @@
 # Qapu Khalqi — N5.3 miniature buy list
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · `main` · purchase plan, not inventory update.** Current N5.3 roster/Fireteam source: [Qapu Khalqi](../../../sectorials/haqqislam/qapu-khalqi.md), Army `7.26246.158` verified 2026-10-15. Tactical evidence: [Haqqislam must-have/go-to/avoid source audit](../../../sectorials/haqqislam/qapu-khalqi.md). Ownership references: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Shindenbutai](../../../inventory/shindenbutai.md), [other minis](../../../inventory/other-units.md). **No dedicated Haqq army owned**; recommended purchases aren't owned.
 
 ## Collection completion — concrete purchases, proxies, optional costs (CAD)
@@ -12,22 +14,16 @@
 | **Older Haqqislam Starter (six)** | **$33.98** | **U:** Miniatures Market **USD24.30**. **3 Ghulam Qapu legal**; the other **Zhayedan/Khawarij/Tuareg are NOT** current Qapu roster entries (but useful Vanilla/Ramah). More cost-effective cross-faction than buying an unobtainable vintage Qapu six-model box; optional fallback is to **proxy 3 Ghulam** with owned distinct S2 Fennecs and cut **$33.98** |
 | **Odalisque Spitfire single ×2** | **$20.42** | **U:** MM **USD7.30 each = CAD10.21 each**. Two Odalisques may be useful in naval Fireteams; **two copies of same weapon sculpt**, so declare alternate loadouts clearly. Not two distinct unit identities |
 | **Djanbazan Sniper single** | **$9.51** | **U:** MM **USD6.80**, one MSV2 ARO/hunter. Avoid speculative Djanbazan group USD23.10 until real model count/contents confirmed |
-| **Azra'il Feuerbach single (older listing)** | **$14.40** | **U:** MM **USD10.30**, one specific HI gun; alternative MM USD12.70 Feuerbach / USD13.30 AP HMG or UTZ USD11.70 Spitfire AP edition. **Not all at once** |
-| **CORE — Qapu Khalqi** | **$148.26** | Five purchase lines, six Qapu Reinforcement bodies plus 3 Ghulam, 2 Odalisques and two solo pieces; old stock is not guaranteed |
 
 | Optional Qapu additions | Add CAD | Why |
 |---|---:|---|
 | **Kaplan Spitfire (1)** | +**$9.51** | **U:** MM USD6.80, one MI gun/specialist for Kaplan Fireteam lists. Four-Kaplan old box MM USD22.70 = CAD31.75, only if regularly using multiple |
-| **Yuan Yuan DA CCW (1)** | +**$8.39** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) USD6.00, cheap airborne disruptor; can proxy a non-Qapu S2 WB when rarely played |
 | **Second Hafza Spitfire (1)** | +**$9.51** | **U:** MM USD6.80. Reinforcements Alpha includes first Hafza; extra only for simultaneous LT/Counts-as role, not to fill AVA4 |
 | **Haqq Support Pack (2 humans + 2 Nasmat)** | +**$26.29** | **U:** MM **USD18.80**: Ghulam Doctor + Najjarun + 2 S1 servants. Both Ghulam and **Najjarun are confirmed Qapu-standard roster legal** in the pinned reference, so two usable human roles plus two S1 peripherals. Existing LI & S1 robots can proxy |
-| **All four options added** | **+$53.70** | **Core + all options $201.96** |
 
 **Qapu unit decisions:** The six Reinforcements Alpha models cover your **2 Sekban** with proper naval MI, **Hafza, Al Hawwa, Burkut and Korsan**. Existing Fennec S2 LI can proxy more Ghulam/Hafza; TAK Scout / OSS Naga S2 SK are visually compatible declared Al Hawwa or rare other infil troops, and existing S2 armoured PanO bodies cover additional HI only if matching exact S. **Generic 4 ordinary Haqq remotes (Rafiq/Shihab/Fanous/Shaytaniyah) get no dedicated purchase**—assign physically distinct correct S3 PanO Dronbots for a list, S4 Mulebots for baggage and S1 Yudbots/Palbots for servants. **Skip** OOP classic Qapu starter at collector price, extra Azra'il variants, expensive Janissary/Kaplan/Djanbazan teams unless an actual Fireteam uses them, costly Rouhani-only Dire Foes package (user already owns Trisha but not Rouhani), Wild Bill/Laxmee niche characters, second TAG/Iguana/Shakush and Zeybek S7 Vehicle until specific lists justify models. *Don't proxy S7 aircraft with a regular TAG or another wrong silhouette.*
 
 **Full collection caveat:** Buying the Haqq Starter is mainly for **Ghulam x3** in Qapu (the other three belong to other sectorials); your [deduplicated four-army cart](haqqislam-consolidated-buy-carts.md) instead buys **Red Veil seven** for Ramah, reusing its three Ghulams in Qapu and avoiding the older starter entirely. If archival USD singles or old starter are missing, use existing valid proxies and record the cost as a scenario—not an invented ready-to-checkout basket.
-
-**Method and price provenance:** The dated [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) are **U / historical user-captured snapshots**, **not live verified inventory or orderable checkout offers**. Convert USD to CAD at **1 USD = CAD 1.3985 (2026-10-29)**, rounding each product to cents. **V / Canadian seller catalogue** prices are in CAD (401 Games Toronto/Vaughan; Tistaminis Hamilton), and can change or be sold out. Tax, shipping, card conversion spread, customs/duties and brokerage **excluded**. The [one-cart Haqq consolidation](haqqislam-consolidated-buy-carts.md) avoids cross-army duplicated boxes. None of these are updates to your owned inventories.
 
 ## Army-specific buying verdict
 
@@ -46,9 +42,7 @@ Qapu is flagged **discontinued in Army metadata** but has a **current, complete 
 | **P2** | Iguana or Shakush TAG | 0 | One planned armored team with matching base/shape; Scarface & Cordelia need two separate figures. |
 | **Skip / proxy** | Rouhani backfield doctor, Wild Bill, extra TAG, aircraft Zeybek | 0 | Low-priority until chosen team. Rouhani has valuable Wildcard/upgrade but routine Ghulam Doctor cheaper. |
 
-## Primary Miniatures Market and Ultimate Toy Zone prices, USD converted to CAD
-
-**FX: USD 1 = CAD 1.3985** on 2026-10-29, rounded to 2 decimals. **U = saved seller price snapshot, NOT confirmed current offer/stock**. [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) contain 67 listings; [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) contain the smaller Haqq selection. For relevant NA2 models also consult [Miniatures Market Mercenaries USD](../mercenary-miniatures-market-prices-usd.md). **Miniatures Market** `miniatures.market` (not US `miniaturemarket.com`) has an **unspecified warehouse/country**; **Ultimate Toy Zone** has unverified dispatch geography. Store-linked source is preserved where supplied and otherwise the saved Markdown file, never a made-up product link. Quotes are **per named entire box/single**, with no hidden assumed figure count. CAD excludes shipping, GST/QST, import fees, FX spread and duties. Seller faction tags are not N5.3 legality.
+## Primary Miniatures Market prices, USD converted to CAD
 
 | Quoted product | USD source → estimated CAD | Source and geographic provenance | Contents, old/LE status, buy/skip |
 |---|---:|---|---|
@@ -67,9 +61,6 @@ Qapu is flagged **discontinued in Army metadata** but has a **current, complete 
 | Scarface & Cordelia. Mercenary Armored Team | USD $34.00 → **CAD $47.55** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Scarface+Cordelia team, two physical figures |
 | ROUHANI, Mission Pack Delta: Obsidian Head | USD $7.04 → **CAD $9.85** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Rouhani single, compare Ghulam Doctor |
 | Dire Foes Mission Pack Delta: Obsidian Head | USD $19.80 → **CAD $27.69** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Dire Foes Delta: Rouhani+Trisha+Fixer; only Rouhani Qapu legal, user **already owns Trisha** |
-| [Infinity – NA2 – Yuan Yuan (DA CCW)](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/) | USD $6.00 → **CAD $8.39** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-na2-yuan-yuan-da-ccw/); dispatch origin unverified | Yuan Yuan cheap Qapu option, no owned figure |
-| Infinity – NA2 – Druze Shock Teams | USD $15.89 → **CAD $22.22** | [Ultimate Toy Zone saved prices](../ultimate-toy-zone-infinity-prices-usd.md); dispatch origin unverified | Druze whole box figure count unconfirmed by UTZ snapshot |
-| [Infinity – Reinf. Special Deterrance Group Azra’il (Spitfire Ap) – Haqqislam](https://www.ultimatetoyzone.com/product/infinity-reinf-special-deterrance-group-azra-il-spitfire-ap-haqqislam/) | USD $11.70 → **CAD $16.36** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-reinf-special-deterrance-group-azra-il-spitfire-ap-haqqislam/); dispatch origin unverified | Reinforcement model, validate standard current loadout before treating WYSIWYG |
 
 ## Canadian seller alternatives (original CAD)
 

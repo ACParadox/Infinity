@@ -1,5 +1,7 @@
 # Torchlight Brigade — miniature buy list (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Created 2026-10-30 from latest committed main.** Buy plan **does not change inventory**. Authority: [Torchlight Brigade pinned N5.3 roster and Fireteams](../../../sectorials/o-12/torchlight-brigade.md), Army 7.26246.159 verified 2026-10-15; [O-12 source-backed must/go-to/avoid audit](../torchlight-brigade.md#must-have--go-to--avoid--source-backed-recommendations-2026); [proxy standards](../../miniature-proxy-guidelines.md); [Steel Phalanx](../../../inventory/steel-phalanx.md), [Kestrel](../../../inventory/kestrel.md), [TAK](../../../inventory/tak.md), [Military Orders](../../../inventory/military-orders.md), [Caledonia](../../../inventory/caledonia.md), [Shindenbutai](../../../inventory/shindenbutai.md) and [other inventory](../../../inventory/other-units.md).
 
 ## Collection completion — concrete purchases and CAD totals
@@ -8,25 +10,16 @@
 
 | Core purchase | CAD | Exact quantity, contents and seller |
 |---|---:|---|
-| **Torchlight Brigade Action Pack (9)** | **$48.95** | **U:** [Ultimate Toy Zone USD price archive](../ultimate-toy-zone-infinity-prices-usd.md), USD35. **1 Strider, 1 Nimrod, 1 Yellowjacket, 3 Silverstar Rovers (different weapons), 2 Hellblazers, 1 Silverstar Prime**. All nine Torchlight legal; **Prime is solo and has no Torchlight Fireteam access**. [401 Games CAD79.95, 2 online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-action-pack) is current Canadian fallback |
-| **Torchlight Expansion Alpha (3)** | **$24.75** | **U:** UTZ archive USD17.70; **Kludger Engineer, Kludger Doctor, Waverider Hacker**, all separate troops. [401 Games CAD39.95, 10+ online](https://store.401games.ca/products/infinity-o-12-torchlight-brigade-expansion-pack-alpha) fallback |
 | **Torchlight Expansion Beta (3)** | **$54.95** | **V:** [401 Games CAD54.95, 2 online](https://store.401games.ca/products/infinity-o-12-torchlight-brig-expansion-pack-beta). **1 StormBot Heavy Rocket Launcher + 2 Moonrakers Heavy Shotgun**; [actual SKU contents independently confirmed](https://warsen.al/collections/all-o-12/products/torchlight-brig-expansion-pack-beta). Three distinct specialist REM soldiers, not generic Copperbots. Moonraker AVA2 Torchlight; all 3 Vanilla legal |
 | **O-12 Reinforcements Alpha (6)** | **$85.00** | **V:** [Tistaminis Hamilton CAD85, low stock](https://tistaminis.com/collections/o12?page=2). **3 Jackboots, 2 Vidocq, 1 Ment**. Torchlight **AVA1 for each of Jackboot, Vidocq and Ment**; only 3 of these 6 as named troops can coexist in a Torchlight list. The other physical bodies can be spare poses/declared compliant proxies, not three extra troop identities. Important Ment CoC |
 | **Raveneye Officer (1)** | **$25.00** | **V:** [Tistaminis Hamilton CAD25, low stock](https://tistaminis.com/collections/o12). FO/Minelayer role, also useful across Vanilla and Starmada |
 | **Tinker + Zetbot** | **$20.98** | **U:** [Miniatures Market saved O-12 USD](../o-12-miniatures-market-prices-usd.md), USD15. One Tinker support trooper plus a separate Zetbot peripheral, not two Regular Orders. [401 CAD32.95 in stock](https://store.401games.ca/collections/corvus-belli-infinity-o-12) fallback |
-| **TORCHLIGHT CORE TOTAL** | **$259.63 CAD** | Six purchases; **$174.63 proxy-first** if Ment/Jackboot/Vidocq are represented by correct-size distinct donors rather than buying Reinforcements Alpha. Canadian 401 Action+Expansion Alpha rather than archival quotes adds **$46.20** |
 
 | Optional | Add CAD | Why |
 |---|---:|---|
-| **Wrecker TAG** | **+$24.75** | UTZ archived USD17.70. A distinct large TAG with Zetbot ancillary, not a generic Copperbot or free borrowed Wrecker |
-| **Jamie Arantes Rover** | **+$12.15** | [UTZ](https://www.ultimatetoyzone.com/product/infinity-o-12-jamie-arantes-netdroid-rover/) USD8.69; one named character with alternative mutually exclusive Handler/Rover profiles |
-| **O-12 Booster Beta** | **+$12.99** | [UTZ](https://www.ultimatetoyzone.com/product/infinity-code-one-0-12-booster-pack-beta/) USD9.29; Hippolyta, Katherine Cho, Crusher. **Only Hippolyta is Torchlight legal**; no need to buy this booster if the shared 26-model O-12 Collection Pack already supplies Hippolyta |
 | **Sāchā single** | **+$20.98** | [JSA Miniatures Market USD price archive](../jsa-miniatures-market-prices-usd.md) USD15; mission-specific Irregular specialist, proxy/skip first |
-| **ALL OPTIONAL LINES** | **+$70.87** | **Core + all = $330.50 CAD** |
 
 **Proxy/skip:** Four ordinary **Oko/Peeler/Kyttä/Millicent** Copperbots can be represented by pooled **PanO Dronbots** of matching base/silhouette; Fuzzbot baggage by **Mulebot**, Yudbot S1 servants already owned. Moonrakers, StormBot, Wrecker and Firebat have distinct physical forms and cannot automatically use an ordinary Copperbot donor. Three Rovers and two Hellblazers already in the core avoid any immediate full-AVA body purchases. Beasthunter, Warcor and Yudbots need no duplicate buy. Optional Hippolyta, Jamie, Sāchā, Sonya, second Wrecker/Prime, Firebat S7 VH, rare one-off characters and alternate weapons are proxy-first. Different Jamie profiles cannot be fielded as two Jamie models.
-
-**Budget provenance:** Saved Miniatures Market/Ultimate Toy Zone USD prices marked U are archived user quotations, not proven live inventory. **USD1=CAD1.3985 (October 29, 2026)**, round per line. V means observed 401 Games (Toronto/Vaughan) or Tistaminis (Hamilton) CAD, not a stock guarantee. Exclude Québec taxes, freight, customs/brokerage, FX spreads. Shopping plans do not modify owned inventory. [All O-12 armies, shared one-purchase cart](o-12-consolidated-buy-carts.md).
 
 ## Own versus buy: priorities
 
@@ -34,9 +27,7 @@
 
 | Priority | Actual pack or unit | Confirmed physical owned | Decision |
 |---|---|---|---|
-| **P1** | Torchlight Brigade Action Pack, 9 | 0 pack bodies | **Strider, Nimrod, Yellowjacket, 3 Rovers, 2 Hellblazers, Prime**. MM USD58.10 vs UTZ USD35; **401 Games CAD79.95 with 2 online**; Tistaminis CAD125. Prime is not Fireteam member. |
 | **P1** | Moonraker Minelayer 1–2 and Ment CoC | 0 named | Two near-default support/board-control choices, not included Action Pack. Use correct special REM silhouettes. |
-| **P1** | Torchlight Expansion Alpha, 3 | 0 | Kludger Engineer and Doctor plus Waverider Hacker, **three actual troops**. UTZ USD17.70 vs 401 CAD39.95, 10+ online. |
 | **P1/P2** | Raveneye and PSI-Cop / one Kappa hacker | 0 | Affordable objective/utility, avoid Raveneye CoC18 as *default* when Ment CoC14 covers same succession task. |
 | **P2** | Wrecker TAG + Zetbot | 0, ancillary body unreported | Unique HRL TAG and Tactical Awareness, but Prime already covers main gun in starter; borrow/test matching TAG first. |
 | **P2** | Strider FO specialist + appropriate Copperbots | 0 exact; 4 Dronbots+2 Rebots pooled | FO often better ordinary scoring value than Red Fury profile. Same-size robot chassis only, one physical body each. |
@@ -44,9 +35,7 @@
 | **Proxy/defer** | Jamie Arantes (Handler or Rover), Sonya, Firebat VH | 0 | Jamie's variants mutually exclusive; Handler not linkable, Rover FTO only under current profile chart. Firebat S7 No Cover VH has niche aerial angles. |
 | **Skip** | Second Beasthunter, Warcor, Yudbots; full extra Rover collection | **Beasthunter1, Warcor1, Yudbots2 exact** | These AVAs are already covered. Three Rover models already included in Action Pack, so don't buy three more just for AVA. |
 
-## Archived Miniatures Market + Ultimate Toy Zone USD -> CAD
-
-[Saved MM O-12 USD prices](../o-12-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD price file](../ultimate-toy-zone-infinity-prices-usd.md) are **historical user-provided listings**, not verified current stock. FX **1 USD = CAD1.3985** project benchmark on 2026-10-29, rounded per box, **excluding GST/QST, shipping, brokerage, duties, card FX**. MM means miniatures.market, *not* miniaturemarket.com. **MM warehouse/country unverified, UTZ dispatch city/country unverified**. MM individual product URLs were not supplied and are not invented. A sale price/“Add to cart” pasted screenshot is not live availability. Verify product edition, content and current N5.3 eligibility; one physical deployable or ancillary does not create a second Regular Order.
+## Archived Miniatures Market USD -> CAD
 
 | Product | USD historical | Approx. CAD | Merchant/location | Edition/legality/contents |
 |---|---:|---:|---|---|
@@ -60,12 +49,6 @@
 | Polaris Team Beast Pack — seller-title conflict | USD $16.80 | **CAD $23.49** | [Miniatures Market O-12 source](../o-12-miniatures-market-prices-usd.md), dispatch city/country unknown | **Seller description conflicts with Polaris title** (mentions Saladin); no reliable contents, don't buy without photos. |
 | Varangian Guard (SMG) | USD $8.70 | **CAD $12.17** | [Miniatures Market O-12 source](../o-12-miniatures-market-prices-usd.md), dispatch city/country unknown | Varangian Guard **not Torchlight-standard legal** despite O-12 label. |
 | Exclusive Parvati Circle League Star | USD $12.90 | **CAD $18.04** | [Miniatures Market O-12 source](../o-12-miniatures-market-prices-usd.md), dispatch city/country unknown | Exclusive Parvati character, **not Torchlight-standard legal**. |
-| Infinity – O-12 – Torchlight Brigade Action Pack | USD $35.00 | **CAD $48.95** | [Saved Ultimate Toy Zone catalogue](../ultimate-toy-zone-infinity-prices-usd.md); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
-| Infinity – O-12 – Torchlight Brig. Expansion Pack Alpha | USD $17.70 | **CAD $24.75** | [Saved Ultimate Toy Zone catalogue](../ultimate-toy-zone-infinity-prices-usd.md); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
-| Infinity – O-12 – Wreckers, Fire Recon Armored Squad (TAG Pack) | USD $17.70 | **CAD $24.75** | [Saved Ultimate Toy Zone catalogue](../ultimate-toy-zone-infinity-prices-usd.md); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
-| Infinity – O-12 – Jamie Arantes, Netdroid Rover | USD $8.69 | **CAD $12.15** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-o-12-jamie-arantes-netdroid-rover/); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
-| Infinity Code One – Copperbot Remotes Pack (O-12) | USD $10.80 | **CAD $15.10** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-code-one-copperbot-remotes-pack-o-12/); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
-| Infinity – NA2 – Diggers Armed Prospectors (Chain Rifle) | USD $9.29 | **CAD $12.99** | [Saved Ultimate Toy Zone catalogue](../ultimate-toy-zone-infinity-prices-usd.md); dispatch country/city unknown | User-captured sale snapshot, not confirmed checkout; match N5.3 troop and box contents before purchase. |
 
 ## Canadian fallback (original CAD, not currency converted)
 
@@ -93,8 +76,6 @@
 | **Starmada Action Pack, 9** (REF 282007-0836) | 3 Kappa HMG/MSR/Hacker, Lawkeeper bike, Bluecoat SMG, Crusher BSG+Crusher MULTI, Bronze MULTI, Saladin | 9/9 Starmada, 7/9 Vanilla (not Bronze/Saladin), one Kappa Torchlight. Human Sphere **includes Saladin** even though an abbreviated Tistaminis description failed to list him. |
 | **Starmada Expansion Alpha** (REF 282024-1008) | Šarko SMG, Sekudroid Adhesive Launcher, Wildparrot | **Two soldiers plus one Wildparrot**. 2/2 named Starmada troopers; neither trooper Vanilla/Torchlight legal. Not three Regular Orders. |
 | **Torchlight Action Pack, 9** (REF 282027-1071) | Strider SMG, Nimrod AP MMR, Yellowjacket SMG, 3 Silverstar Rovers (Paramedic/MULTI/HMG), 2 Hellblazers (SMG/LSG), Silverstar Prime HMG | 9/9 Torchlight. Six figures of Vanilla-named types (Nimrod+three Silverstars+two Hellblazers), but **only five simultaneously Vanilla-legal** due Silverstar AVA2. 0/9 Starmada. Prime injected thermoplastic; **Prime has no Torchlight Fireteam access**. |
-| **Torchlight Expansion Alpha** (REF 282030-1102) | Kludger Engineer BSG, Kludger Doctor SMG, Waverider Hacker SMG | 3/3 Torchlight, 0/3 Vanilla/Starmada. 401 CAD39.95, 10+ online on checked page. |
-| **Torchlight Expansion Beta** (REF 282032-1113) | 3 miniatures according to 401; **now verified separately: 1 StormBot with Heavy Rocket Launcher and 2 Moonrakers with Heavy Shotguns** | Do not invent contents or count as three wanted units. CAD54.95 401, verify models/legality before checkout. |
 | **O-12 Booster Alpha** (REF 282009-0854) | Lynx MULTI Sniper, Razor BSG, PSI-Cop Hacker | Vanilla 3/3; Starmada 1/3, Torchlight 1/3 (PSI-Cop). Old CodeOne labelling need not imply newer resculpt. |
 | **O-12 Booster Beta** (REF 282010-0863) | Katherine Cho, Hippolyta Breaker Combi, Crusher SMG | Vanilla 3/3; Starmada 2/3 (Cho, Crusher); Torchlight 1/3 (Hippolyta). **Hippolyta not owned** in Steel Phalanx. |
 | **O-12 Reinforcements Alpha** (REF 282025-1052) | 3 Jackboots (Spitfire/Engineer/FO), 2 Vidocq (Doctor/MMR), Ment | All 6 named regular troop types exist Vanilla/Starmada; Torchlight only Jackboot AVA1, Vidocq AVA1 and Ment AVA1 can coexist (**3 of 6 at once**). Reinforcement chart not automatic regular Fireteam eligibility. |
@@ -103,7 +84,6 @@
 | **Tinker & Zetbot** (REF 282034-1133) | Tinker and separate Zetbot, two physical figures | Tinker legal across three. Zetbot companion/gear is **not second Regular Order**. MM USD15; 401 CAD32.95. |
 | **Copperbot and Fuzzbot REM packs** | Copperbot weapon/support drones; Fuzzbot set contains two injected thermoplastic drones | Repacked plastics versus old metal may be newer *material*, not automatically redesigned troop rules. Determine exact chassis and equipment before assigning Oko/Peeler/Kyttä/Millicent/Fuzzbot profiles. |
 | **Limited/event editions** | Zeta tournament-exclusive resin; exclusive Parvati Circle League; Kappa Missile Launcher only in official paint set | Collector alternatives, not new troop identities. Exclusive Parvati normal Vanilla/Starmada legal but **not Torchlight**; Zeta normal Vanilla/Starmada legal but **not Torchlight**. Do not buy paint set only to fill Kappa AVA. |
-
 
 ## Proxy options from figures already owned
 
@@ -119,7 +99,6 @@ Policy: **match exact target S including base and height**, similar LI/MI/HI/SK/
 | Copperbots/Fuzzbots/Oko/Kyttä/Peeler/Millicent and S1 servants | **4 PanO Dronbots +2 ALEPH Rebots**, **2 PanO Mulebots**, **2 exact ALEPH Yudbots**, **2 Palbots** | Check **each target robot's S/base and shape**. Dronbot/Rebot pools are not multiplied for every O-12 REM name. Exact Yudbots 2 already and in every O-12 roster. |
 | S4 bike Lawkeeper, RoadBot S3/S5, SideBot/Devabot/SiriusBot/Zetbot | **TAK Dynamos x2** S4 bike donors or **Shinden mounted Yojimbo x1** if size matching; separate robot chassis only when correct S/shape | **No automatic correct two-form RoadBot or SideBot** reported. Lawkeeper rider/bot separate, RoadBot needs readable transmuted S3/S5; foot Yojimbo cannot stand in for motorbike. |
 | **S7 TAG Wrecker/Zeta versus S7 VH Firebat** | No known exact faithful human O-12 TAG/aerial craft; owned Caskuda is alien TAG and PanO TAGs have varying silhouette | D/avoid unless same S *and matching mech/VH appearance*; ideally borrow dedicated size and shape before major purchase. |
-
 
 ## Complete N5.3 roster: actual owned models and missing purchases (38 units)
 

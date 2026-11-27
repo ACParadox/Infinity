@@ -1,5 +1,7 @@
 # Vanilla Tohaa — miniatures buy list (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Created 2026-10-30 against latest `main`; does not modify inventory.** Current [N5.3 canonical roster/AVA/Fireteams](../../../sectorials/tohaa/tohaa.md); purchase ratings from [Tohaa must-have/go-to/avoid source audit](../tohaa.md#must-have--go-to--avoid--source-backed-recommendations-2026), with [strict proxy guidelines](../../miniature-proxy-guidelines.md). N5.3 Army reference `7.26246.159` (September 2026). Actual ownership: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Shindenbutai](../../../inventory/shindenbutai.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Other](../../../inventory/other-units.md). **A recommended buy in another buy list is not proof of ownership.**
 
 ## What is owned and what to buy first
@@ -14,9 +16,7 @@
 
 **Skip/proxy** a second Armand, Kiel-Saan as default first HI, Aelis if no KHD plan, Kumotail if no recovery goals. Jaan and Kiiutan **share AVA1**, cannot field together. Gorgos/Rasail/Kerail require separately modeled animal/Chaksa companions when chosen.
 
-## Saved Miniatures Market and Ultimate Toy Zone USD → CAD
-
-Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniatures-market-prices-usd.md), [Tohaa Miniatures Market USD](../tohaa-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD](../ultimate-toy-zone-infinity-prices-usd.md). **Historical user-supplied snapshots, NOT confirmed live offers/stock.** Convert using **USD 1 = CAD 1.3985** (2026-10-29 project comparison benchmark), each listed product rounded to two decimals, **before shipping, taxes, customs, brokerage, card fees**. Miniatures Market (`miniatures.market`, *not* `miniaturemarket.com`) original merchant dispatch country/city **not verified**. Ultimate Toy Zone online merchant dispatch country/city likewise **not verified**. Individual merchant URLs only when supplied; don't invent. Seller category doesn't confer N5.3 legality. A multi-piece box price is **per box, not per independent Regular-order trooper**.
+## Saved Miniatures Market USD → CAD
 
 | Historical product/edition | Original USD | Converted approx. CAD | Seller and location | Model-count/edition/availability caution |
 |---|---:|---:|---|---|
@@ -54,9 +54,6 @@ Source of saved prices: [Mercenary Miniatures Market USD](../mercenary-miniature
 | Tohaa Diplomatic Delegates | USD $6.80 | **CAD $9.51** | [Original MM product](https://miniatures.market/product/tohaa-diplomatic-delegates/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 | Makaul Troops | USD $21.20 | **CAD $29.65** | [Original MM product](https://miniatures.market/product/makaul-troops/) · online/dispatch location unknown | **Collector, limited or Spec-Ops edition**: alternate sculpt, not a different legal unit. |
 | Hatail Spec-Ops | USD $6.40 | **CAD $8.95** | [Original MM product](https://miniatures.market/product/hatail-spec-ops/) · online/dispatch location unknown | **Collector, limited or Spec-Ops edition**: alternate sculpt, not a different legal unit. |
-| Infinity – NA2 – Libertos Freedom Fighters (Light shotgun) (Blister) | USD $6.00 | **CAD $8.39** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-libertos-freedom-fighters-light-shotgun-blister/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – NA2 – Wardrivers (Hacker) | USD $6.00 | **CAD $8.39** | [Ultimate Toy Zone listing](https://www.ultimatetoyzone.com/product/infinity-na2-wardrivers-hacker/) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
-| Infinity – Freelance Operator Samsa (Plasma Rifle) | USD $7.50 | **CAD $10.49** | [Saved UTZ prices](../ultimate-toy-zone-infinity-prices-usd.md) · online/dispatch location unknown | Seller availability/contents and current roster legality require separate confirmation. |
 
 ## Canadian retailer fallbacks (displayed CAD)
 

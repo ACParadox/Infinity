@@ -1,5 +1,7 @@
 # Shasvastii Expeditionary Force — inventory-aware miniature buy list (Infinity N5.3)
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared 2026-10-30 · committed on `main`.** Purchase recommendations **do not update owned inventory**. Army legality, troop categories, availability and Fireteams: [canonical Shasvastii Expeditionary Force N5.3 roster](../../../sectorials/combined-army/shasvastii.md), Army revision `7.26246.158`, 2026-09-03 roster, verified 2026-10-15. Tactical best/skip ratings from [source-audited Combined Army model choices](../../../sectorials/combined-army/shasvastii.md); profile criticism is **not** an entire unit ban. Read [repository silhouette/appearance/identity proxy policy](../../miniature-proxy-guidelines.md). All owned models were checked in [other units](../../../inventory/other-units.md), [Caledonia](../../../inventory/caledonia.md), [Kestrel](../../../inventory/kestrel.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [Military Orders](../../../inventory/military-orders.md), [TAK](../../../inventory/tak.md), and [Shindenbutai](../../../inventory/shindenbutai.md). **Only ONE Caskuda and ONE Armand exist**; no full CA army has been reported.
 
 ## Collection verdict and most useful buys in order
@@ -9,7 +11,6 @@
 | Priority | Product or unit / quantity | Present physical ownership | Why buy, skip or try a proxy |
 |---|---|---|---|
 | **P1** | Shasvastii Action Pack 10 | 0 | 10/10 Shasvastii; combines Wildfire seven and Beyond Wildfire three, not ten newly sculpted models. Tistaminis CAD $100 sold out. |
-| **P1** | Noctifer Missile Launcher one | 0 | Strong Hidden Deployment/ARO and choice of reveal timing; UTZ USD $5.40 / MM USD $7.90, 401 CAD $21.95 sold out, Tistaminis CAD $22 low stock/sold-out label inconsistent. |
 | **P1** | Speculo Killer one | 0 | Impersonation pressure, BSG or monofilament older sculpt, exact SK S2 figure. One enough until double Speculo list. |
 | **P1** | Shrouded + Caliban specialists | 0 | Midfield missions/camo plus separate specialist attacker. Both in Action Pack; additional Zero? no, not legal, use OSS Naga proxy if visually plausible. |
 | **P2** | Shasvastii Expansion Beta (3) | 0 | Malignos Hacker + Shrouded BSG + Seed-Soldier combi; **3/3 legal**, mal/shrouded duplicate unit types from starter but alternate loadout. |
@@ -19,9 +20,7 @@
 | **P3** | Sphinx TAG or Gwailo alternative | 0 | Sphinx Hidden/Climbing flanker vs Gwailo face-up link. **Gwailo HMG lacks MSV2; HRL has MSV2**, don't invent ability. |
 | **Proxy/skip** | Extra Jayth or Cadmus KHD solely as an AD killer | 0 | 2026 winner evidence used Jayth, so no full unit veto. Cadmus BSG cheaper for pure backline kill, KHD does distinct hacking work. |
 
-## Primary saved Miniatures Market and Ultimate Toy Zone prices (USD -> CAD)
-
-Saved source files: [Miniatures Market Combined Army USD Markdown](../combined-army-miniatures-market-prices-usd.md), [Ultimate Toy Zone Infinity USD Markdown](../ultimate-toy-zone-infinity-prices-usd.md), and for eligible mercenaries [Miniatures Market Mercenary USD](../mercenary-miniatures-market-prices-usd.md). The first has **104 recorded prices**, including limited editions, accessories and **scenic bases without models**. **Every original USD price below is U = user-supplied October 30, 2026 retailer catalogue snapshot**, not verified live orderability or today's checkout. Conversion uses **1 USD = 1.3985 CAD** (2026-10-29 benchmark), rounded to two decimals, before **shipping, GST/QST, import brokerage, duties and credit-card FX spread**. The location of MM's **warehouse/dispatch country is unknown**; UTZ is an online seller with **unverified dispatch country/city**. Don't confuse `miniatures.market` with `miniaturemarket.com`. Product-specific seller URLs are given *only when supplied*, and saved source Markdown preserves missing-item provenance. Prices always refer to **one listed complete box/product**, not price per physical miniature. Merchandise names do not determine N5 legality.
+## Primary saved Miniatures Market prices (USD -> CAD)
 
 | Saved product and edition | Original USD | Approximate CAD | Seller/location and listing | Quantity, sculpt generation, legality, overlapping inventory |
 |---|---:|---:|---|---|
@@ -29,7 +28,6 @@ Saved source files: [Miniatures Market Combined Army USD Markdown](../combined-a
 | **Shasvastii - Beyond Wildfire** | USD $15.80 | **CAD $22.10** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Beyond Wildfire Shas 3: Sheskiin + Caliban Spitfire + Malignos BSG, 3/3 SEF. |
 | **Shasvastii Expansion Pack Delta** | USD $23.25 | **CAD $32.52** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Shas Expansion Delta **3** (Dukash+Speculo+Noctifer), all SEF legal. |
 | **Shasvastii Noctifers (Missile Launcher)** | USD $7.90 | **CAD $11.05** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Noctifer Missile Launcher single; duplicate if buying Delta. |
-| **[Infinity – Combined Army – Shasvastii Noctifers (Missile Launcher) (Blister)](https://www.ultimatetoyzone.c** | USD $5.40 | **CAD $7.55** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-shasvastii-noctifers-missile-launcher-blister/) · Ultimate Toy Zone online; dispatch location unverified | UTZ cheap Noctifer ML USD $5.40; historical stock unverified. |
 | **Speculo Killer (Boarding Shotgun)** | USD $6.80 | **CAD $9.51** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Speculo Killer BSG, duplicate if Delta acquired. |
 | **The Shrouded (Boarding Shotgun)** | USD $8.00 | **CAD $11.19** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Shrouded BSG single, compared with Action Pack standard Shrouded. |
 | **Malignos (Hacker)** | USD $6.40 | **CAD $8.95** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Malignos Hacker, also Expansion Beta; one of two seller price variants. |
@@ -41,7 +39,6 @@ Saved source files: [Miniatures Market Combined Army USD Markdown](../combined-a
 | **Shasvastii Special Armored Corp Sphinx (TAG)** | USD $21.60 | **CAD $30.21** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Sphinx TAG, 1 if play stealth TAG; not Caskuda proxy. |
 | **Shasvastii Haiduks (Multi Sniper)** | USD $10.00 | **CAD $13.99** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Haiduk MSR single; expansion Alpha has Haiduk. |
 | **Shasvastii Mentors (Shock Marksman Rifle)** | USD $6.80 | **CAD $9.51** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Mentor MMR single, alternate from starter Mentor BSG. |
-| **[Infinity – Combined Army – Shasvastii Mentors (Shock Marksman Rifle) (Blister)](https://www.ultimatetoyzone** | USD $4.20 | **CAD $5.87** | [Product listing](https://www.ultimatetoyzone.com/product/infinity-combined-army-shasvastii-mentors-shock-marksman-rifle-blister/) · Ultimate Toy Zone online; dispatch location unverified | UTZ low price USD $4.20, still 1 troop not a new named identity. |
 | **Gwailos (Heavy Rocket Launcher)** | USD $6.80 | **CAD $9.51** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Gwailo HRL: this gun has MSV2, contrary to HMG version. |
 | **Shasvastii Gwailos (Boarding Shotgun)** | USD $8.40 | **CAD $11.75** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Gwailo BSG; alternate sculpt, only 1 Gwailo AVA SEF. |
 | **Gwailos (Spitfire)** | USD $6.80 | **CAD $9.51** | [Saved MM Combined Army catalogue](../combined-army-miniatures-market-prices-usd.md) · Miniatures Market; warehouse/country unverified | Gwailo Spitfire vintage; don't buy all weapons when AVA1. |
@@ -59,7 +56,6 @@ Canadian storefront location **does not imply physical warehouse location**. Pri
 | Shas Expansion Alpha three | **CAD $44.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock at indexed check; Mentor/Haiduk/Cadmus. |
 | Shas Expansion Beta three | **CAD $39.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock at indexed check; first Seed and two alternate skirmisher sculpts. |
 | Shas Expansion Delta three | **CAD $60.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | In stock at indexed check; Speculo+Noctifer+Dukash all legal. |
-| Noctifer ML single | **CAD $21.95** | [401 Games category](https://store.401games.ca/collections/corvus-belli-infinity-combined-army) — Toronto/Vaughan | Out of stock; UTZ USD $5.40 historic. |
 | Sphinx TAG | **CAD $55** | [Tistaminis](https://tistaminis.com/collections/combined-army) — Hamilton | More on way, not currently verified orderable. |
 
 ## Human Sphere box-content, old-versus-new and limited-edition audit

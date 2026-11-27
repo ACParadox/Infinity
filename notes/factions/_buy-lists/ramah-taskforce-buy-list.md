@@ -1,5 +1,7 @@
 # Ramah Taskforce — N5.3 miniature buy list
 
+**Pricing update:** Mixed-source purchase estimates have been withdrawn. Remaining explicitly sourced quotations are historical; reprice before ordering. Inventory, proxy and tactical recommendations remain separate from purchase commitments.
+
 **Prepared October 30, 2026 · `main` · purchase plan, not inventory update.** Current N5.3 roster/Fireteam source: [Ramah Taskforce](../../../sectorials/haqqislam/ramah-taskforce.md), Army `7.26246.158` verified 2026-10-15. Tactical evidence: [Haqqislam must-have/go-to/avoid source audit](../../../sectorials/haqqislam/ramah-taskforce.md). Ownership references: [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [Shindenbutai](../../../inventory/shindenbutai.md), [other minis](../../../inventory/other-units.md). **No dedicated Haqq army owned**; recommended purchases aren't owned.
 
 ## Collection completion — concrete purchases, proxies, optional costs (CAD)
@@ -10,23 +12,17 @@
 |---|---:|---|
 | **Operation Red Veil — Haqq-only 7** | **$38.18** | **U:** Miniatures Market **USD27.30**, **3 Ghulam + Zhayedan + Tuareg + Khawarij + Al Fasid** (all **7 Ramah legal**). This is a *Haqq half*, not the full Yu Jing/Haqq two-player box. You own none of the seven |
 | **Beyond Red Veil — Haqq-only 3** | **$18.74** | **U:** Miniatures Market **USD13.40**, **Tarik Mansuri + Fiday + Ragik**. **ONLY Tarik is Ramah legal**; other two are useful shared figures for Vanilla/Hassassin, not Ramah soldiers |
-| **Mukhtar Red Fury (1)** | **$10.06** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) **USD7.19**, one mobile gun |
 | **Ramah Expansion Alpha (3)** | **$48.95** | **V:** [401 Games](https://store.401games.ca/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha), Toronto/Vaughan CAD48.95 catalogue. **Hunzakut + Hortlak + Al Fasid HRL**. A second **Al Fasid body** duplicates the old Red Veil unit identity; may offer another profile |
 | **Haqq Reinforcements Beta (3)** | **$50.00** | **V:** [Tistaminis Haqq catalogue](https://tistaminis.com/collections/haqqislam), Hamilton ON. **Hakim + Leila Sharif + Rouhani**, all **three regular Ramah roster legal**. Prefer a confirmed cheaper 401 offer if correct SKU/stock; no assumed additional peripheral servants |
 | **Namurr Active Response Unit single (1)** | **$9.51** | **U:** Miniatures Market **USD6.80**; mobile specialist profile, alternate named character/weapon sculpts not automatic |
-| **CORE — Ramah Taskforce** | **$175.44** | Six products. 3 Ghulam real bodies, 1 Khawarij, 1 Tarik, 1 Mukhtar; no ordinary remotes required |
 
 | Optional | Add CAD | Why defer |
 |---|---:|---|
 | **Older Maghariba Guard metal TAG** | +**$44.05** | **U:** MM **USD31.50**; compare **newer resculpt** Canadian listing approx **CAD95** at Tistaminis, "more on the way" at previous check. A large size-specific TAG is not ordinary S2 proxy |
 | **Haytham S7 Aero-unit** | +**$41.96** | **U:** MM **USD30.00**; S7 **Vehicle**, not a TAG, wrong donor if regular PanO S6 mecha; only buy for vehicle-specific lists |
 | **Hakims (2 bodies + 2 Nasmats)** | +**$46.00** | **V:** [Tistaminis](https://tistaminis.com/collections/haqqislam), Hamilton ON. **One Hakim already included in Reinforcements Beta**; this is for double-Hakim or correct special peripheral poses, not two extra order-generating servants |
-| **Zhayedan older group** | +**$23.08** | **U:** [UTZ](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/) **USD16.50**; **one Zhayedan already in Red Veil**. Weapon/number of additional soldiers in quoted group *unverified*, not an automatic must-have |
-| **All four options** | **+$155.09** | **Core + options $330.53** |
 
 **Proxy/skip:** Use Fennecs/Crosiers for extra S2 Ghulams, correct S2 MI/HI donors for extra Khawarij/Janissaries/Namurr *only if the specific physical silhouette matches*. 4 existing Dronbots can represent the normal **Fanous/Rafiq/Shihab/Shaytaniyah** REM types when their S/height and gun roles are clear; use Mulebots for suitable baggage and Yudbots/Palbots for S1 Nasmats. **Do not buy multiple standard bots just because unit names differ.** S5/special TAGs, distinct S7 aircraft and Hakim peripherals require proper models if used regularly; do not imply PanO and Haqq exotic vehicles are interchangeable. **Skip/borrow** Al Fasid additional variants, unrelated Fiday/Ragik for Ramah, second costly TAG, obscure named extras and special miniature variants without recurring lists. Ramah smoke/NCO **Ghulam core** and Mukhtar are more fundamental than an aircraft purchase.
-
-**Method and price provenance:** The dated [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) and [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) are **U / historical user-captured snapshots**, **not live verified inventory or orderable checkout offers**. Convert USD to CAD at **1 USD = CAD 1.3985 (2026-10-29)**, rounding each product to cents. **V / Canadian seller catalogue** prices are in CAD (401 Games Toronto/Vaughan; Tistaminis Hamilton), and can change or be sold out. Tax, shipping, card conversion spread, customs/duties and brokerage **excluded**. The [one-cart Haqq consolidation](haqqislam-consolidated-buy-carts.md) avoids cross-army duplicated boxes. None of these are updates to your owned inventories.
 
 ## Army-specific buying verdict
 
@@ -41,13 +37,10 @@ Ramah can reuse exactly **one Warcor and one Beasthunter**, but no official Ghul
 | **P1** | Mukhtar Red Fury 1, Khawarij or Tarik 1 | 0 | Mobile attack and special tricks, avoid buying alternate weapon figures before list selection. |
 | **P1** | Fanous 1–3 / Shihab + Monstrucker | 0 official, shared REM donors | Cheap repeater/orders and ARO repair combination; exact REM geometry/S and S1 servant allocation required. |
 | **P2** | Ramah Expansion Alpha 3 | 0 | Hunzakut, Hortlak, Al Fasid HRL, all legal; Al Fasid generic-gun role is contested and sometimes premium. |
-| **P2** | Zhayedan and/or Namurr | 0 | Choose attack/support link architecture; UTZ Zhayedan group vs MM Namurr single. |
 | **P2** | Haytham S7 aircraft or Maghariba TAG | 0 | Distinct expensive centerpiece with no faithful owned vehicle donor; newer Maghariba resculpt. |
 | **P3 / proxy** | Second TAG, Al Fasid duplicate, Fiddler with Jackbots | 0 | Match actual profile and peripherals. Fiddler FTO only relevant if Ramah chart permits. |
 
-## Primary Miniatures Market and Ultimate Toy Zone prices, USD converted to CAD
-
-**FX: USD 1 = CAD 1.3985** on 2026-10-29, rounded to 2 decimals. **U = saved seller price snapshot, NOT confirmed current offer/stock**. [Miniatures Market Haqqislam USD prices](../haqqislam-miniatures-market-prices-usd.md) contain 67 listings; [Ultimate Toy Zone USD prices](../ultimate-toy-zone-infinity-prices-usd.md) contain the smaller Haqq selection. For relevant NA2 models also consult [Miniatures Market Mercenaries USD](../mercenary-miniatures-market-prices-usd.md). **Miniatures Market** `miniatures.market` (not US `miniaturemarket.com`) has an **unspecified warehouse/country**; **Ultimate Toy Zone** has unverified dispatch geography. Store-linked source is preserved where supplied and otherwise the saved Markdown file, never a made-up product link. Quotes are **per named entire box/single**, with no hidden assumed figure count. CAD excludes shipping, GST/QST, import fees, FX spread and duties. Seller faction tags are not N5.3 legality.
+## Primary Miniatures Market prices, USD converted to CAD
 
 | Quoted product | USD source → estimated CAD | Source and geographic provenance | Contents, old/LE status, buy/skip |
 |---|---:|---|---|
@@ -57,7 +50,6 @@ Ramah can reuse exactly **one Warcor and one Beasthunter**, but no official Ghul
 | Haytham Aero-unit | USD $30.00 → **CAD $41.96** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Haytham airborne S7 VH resin, no visually apt donor |
 | Maghariba Guard | USD $31.50 → **CAD $44.05** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Old metal Maghariba, newer resculpt elsewhere |
 | Mukhtar, Active Response Unit (Boarding Shotgun) | USD $6.80 → **CAD $9.51** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Mukhtar BSG older variant |
-| [Infinity – Haqqislam – Mukhtar (Red Fury)](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/) | USD $7.19 → **CAD $10.06** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-mukhtar-red-fury/); dispatch origin unverified | Mukhtar Red Fury, active attacker, archival deal |
 | Mukthar, Active Response Unit | USD $8.70 → **CAD $12.17** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Mukhtar other MM price variant, unknown sculpt |
 | Namurr Active Response Unit | USD $6.80 → **CAD $9.51** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Namurr single |
 | Naffatun | USD $26.80 → **CAD $37.48** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Naffatun set, figure count not specified |
@@ -69,7 +61,6 @@ Ramah can reuse exactly **one Warcor and one Beasthunter**, but no official Ghul
 | Yara Haddad (AP Marksman Rifle) | USD $7.50 → **CAD $10.49** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Yara Haddad Wildcard |
 | Monstruckers (Boarding Shotgun) | USD $8.70 → **CAD $12.17** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Monstrucker BSG, source's unit count unverified |
 | Shakush Light Armored Unit | USD $16.80 → **CAD $23.49** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Shakush TAG |
-| [Infinity – Haqqislam – Zhayedan Intervention Troops](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/) | USD $16.50 → **CAD $23.08** | [Ultimate Toy Zone product](https://www.ultimatetoyzone.com/product/infinity-haqqislam-zhayedan-intervention-troops/); dispatch origin unverified | Zhayedan box, count from seller title unconfirmed |
 | Fiddler Set | USD $16.90 → **CAD $23.63** | [Miniatures Market Haqqislam saved prices](../haqqislam-miniatures-market-prices-usd.md); dispatch origin unverified | Fiddler exclusive + 2 Jackbots, one character + 2 robots |
 
 ## Canadian seller alternatives (original CAD)
@@ -81,7 +72,6 @@ The location given is the **shop city**, not a verified warehouse. Pricing/stock
 | Ramah Expansion Alpha 3 | CAD $56 | [Tistaminis, Hamilton ON](https://tistaminis.com/collections/haqqislam/products/infinity-haqqislam-ramah-taskforce-expansion-pack-alpha) | Low stock in indexed catalogue; detailed three-unit confirmation |
 | Ramah Expansion Alpha 3 | $49 displayed; currency/location requires confirmation | [Chapmen Games](https://chapmengames.com/products/ramah-taskforce-expansion-pack-alpha) | Backorder, not orderable immediately; no verified currency declaration |
 | Hakims (2 + 2 Nasmats) | CAD $46 | [Tistaminis, Hamilton ON](https://tistaminis.com/collections/haqqislam) | Catalogue in stock, distinct bodies |
-| Zhayedan unit | CAD $50 | [Tistaminis, Hamilton ON](https://tistaminis.com/collections/haqqislam) | Sold out in catalogue; saved UTZ price historical |
 | Maghariba resculpt | CAD $95 | [Tistaminis, Hamilton ON](https://tistaminis.com/collections/haqqislam) | More on way |
 | Haqq Reinforcements Beta | CAD $50 | [Tistaminis, Hamilton ON](https://tistaminis.com/collections/haqqislam) | Low stock at check; 3/3 Ramah legal |
 
