@@ -11,10 +11,9 @@
 | Product once | Reference CAD |
 |---|---:|
 | Essentials PanO Booster Alpha (Swiss Guard HMG, Aquila HMG, Nisse MSR) | $43.00 |
-| Cutter S7 TAG | $47.95 |
-
-| Helot Militia four-model pack (Vanilla AVA2) | $27.69 |
-| Karhu Special Team three-model pack (Vanilla AVA2) | $24.33 |
+| Cutter S7 TAG (401 Games) | $47.95 |
+| Helot Militia four-model pack (Vanilla AVA2; Miniatures Market) | $27.69 |
+| Karhu Special Team three-model pack (Vanilla AVA2; Miniatures Market) | $24.33 |
 
 - The Swiss Guard is budgeted via **Essentials PanO Booster Alpha** from Tistaminis CAD43, which also contains an Aquila and Nisse. **This is an assumed acquisition route for the requested Swiss Guard**, not a user commitment to all three sculpts if a better priced Swiss-only option arises. Older Beyond Icestorm split PanO three (Swiss, Bolt, Kamau) was quoted at CAD22.10 but its store link returned 404; do not claim available.
 - The user previously identified Bolts, Blade-Ops and Blocker as useful collection targets; no specific box purchase is currently priced.
@@ -25,11 +24,10 @@
 
 | Product once | Reference CAD |
 |---|---:|
-
 | Van Zant single, historical MM USD6.80 | $9.51 |
-| Chernobog TAG (requires suitable Samodelkin ancillary representation) | $30.77 |
-| Beyond Operation Crimson Stone, Ariadna-only three (William Wallace, Scots Guard, Kosmosoldat) | $25.59 |
-| Chasseur Rifle/Light Flamethrower | $9.65 |
+| Chernobog TAG (Miniatures Market; requires suitable Samodelkin ancillary representation) | $30.77 |
+| Beyond Operation Crimson Stone, Ariadna-only three (William Wallace, Scots Guard, Kosmosoldat; Miniatures Market) | $25.59 |
+| Chasseur Rifle/Light Flamethrower (Miniatures Market) | $9.65 |
 
 - The requested Wallace + Scots Guard purchase must be **Beyond Operation Crimson Stone Ariadna-only trio**, containing **one Kosmosoldat too**. **If Kosmoflot stays deferred, Wallace is the only one of these three current standard Vanilla Ariadna choices; Scots Guard is useful for Caledonia and Kosmosoldat for future Kosmoflot.** Its inclusion is still a stated Caledonia-related preference rather than a Kosmoflot buying commitment. **Operation Crimson Stone Ariadna-only 7** instead has 3 Rokots, Para-Commando, SAS, Volkolak, Zenit-7 and does **not** contain Wallace/Scots. The complete 10-model Ariadna Action Pack merges both. Confirm exact seller split-versus-full-box before purchase.
 - **Chasseur is now deliberately planned**, not proxy-only. **Unknown Ranger is explicitly excluded** from this shopping cart. Do not substitute the Booster Beta (Unknown Ranger+Chasseur+Strelok) unless the user's choice changes.
@@ -38,16 +36,14 @@
 
 ## Combined committed-planning budget
 
-**No combined total is currently valid.** No models are marked owned unless purchased and confirmed.
+**Remaining historical subtotal: CAD $218.49** (PanO $142.97 + Ariadna $75.52), before shipping and taxes. No full collection-completion estimate is implied. No models are marked owned unless purchased and confirmed.
 
 ## What to consider buying AFTER this plan — incremental costs only
 
 | Sequence | Sectorial / role | Next separate purchase(s) | Incremental reference CAD | Why / deferrals |
 |---|---|---|---:|---|
-
-| 2 | **Varuna — PROXY ONLY** | Reuse planned Helots/Cutter and owned Squalos/Montesa/Bipandra/REMs; proxy Kamau, Croc, Patsy and Zulu-Cobra | **$0** | User opted not to buy Varuna-specific figures. Earlier $37.20 cart remains historical research only. |
-
-| 4 | **Acontecimento — PROXY ONLY** | Reuse owned Tikbalang, Scylla/Charybdis, Montesa, Naga and remotes; proxy Akali, Guarda/Auxbot, Rao, Regulars, Bagh-Mari with correct silhouettes | **$0** | User opted not to purchase the historical $48.95 SAA core; retain research, no new SAA-specific figures planned. |
+| 1 | **Varuna — PROXY ONLY** | Reuse planned Helots/Cutter and owned Squalos/Montesa/Bipandra/REMs; proxy Kamau, Croc, Patsy and Zulu-Cobra | **$0** | User opted not to buy Varuna-specific figures. |
+| 2 | **Acontecimento — PROXY ONLY** | Reuse owned Tikbalang, Scylla/Charybdis, Montesa, Naga and remotes; proxy Akali, Guarda/Auxbot, Rao, Regulars, Bagh-Mari with correct silhouettes | **$0** | No new SAA-specific figures planned. |
 
 **Priority:** Build and test **Vanilla PanO** (Cutter or Swiss alternative attack engine, Helot defence, Karhu support, cheap REMs/specialists) and **TAK-forward Vanilla Ariadna** (Dynamo Duo, TankHunter/Decoy markers, Vystrel AVA1, Voronin, Van Zant as alternative rear threats). **Varuna/SAA are $0 proxy builds; Kosmoflot is proxy-test/on hold, not a P1 purchase.** Avoid another initial army purchase until those are tested. For vanilla PanO, FTO labels **do not create Fireteams** in the current pinned N5.3 roster. For vanilla Ariadna, Wallace is **Chain of Command, not Lieutenant**, with Voronin LT available.
 
