@@ -12,7 +12,7 @@ Recorded November 27, 2026.
 
 | # | Product | Faction | Retail (CAD) | Sale (CAD) | Total discount |
 |---:|---|---|---:|---:|---:|
-| 1 | Tarkshyas Interception Wing | Combined Army | $109.00 | $77.00 | 29.4% |
+| 1 | Tarkshyas Interception Wing | ALEPH | $109.00 | $77.00 | 29.4% |
 | 2 | Gecko Squadron | Nomads | $83.00 | $58.00 | 30.1% |
 | 3 | Essentials: ALEPH Support Pack | ALEPH | $53.00 | $37.00 | 30.2% |
 | 4 | Shindenbutai Expansion Pack Delta | JSA | $75.00 | $53.00 | 29.3% |
@@ -31,7 +31,7 @@ Recorded November 27, 2026.
 | 17 | Nomads Jurisdictional Command of Tunguska Action Pack | Nomads | $157.00 | $110.00 | 29.9% |
 | 18 | Kestrel Expansion Pack Beta | PanOceania | $75.00 | $53.00 | 29.3% |
 | 19 | Essentials: Combined Army Drone Remotes Pack | Combined Army | $58.00 | $41.00 | 29.3% |
-| 20 | Go-Pods | Combined Army | $99.00 | $69.00 | 30.3% |
+| 20 | Go-Pods | Nomads | $99.00 | $69.00 | 30.3% |
 | 21 | Essentials: JSA Booster Pack Alpha | JSA | $53.00 | $37.00 | 30.2% |
 | 22 | Essentials: JSA Support Pack | JSA | $53.00 | $37.00 | 30.2% |
 | 23 | Essentials: Yu Jing Yaokong Remotes Pack | Yu Jing | $58.00 | $41.00 | 29.3% |
@@ -47,7 +47,7 @@ Recorded November 27, 2026.
 | 33 | Essentials: Combined Army Hero, The Charontids (Plasma Rifle) | Combined Army | $40.00 | $28.00 | 30.0% |
 | 34 | Haqqislam Remotes Pack | Haqqislam | $71.00 | $50.00 | 29.6% |
 | 35 | Equipe Mirage-5 | Ariadna | $84.00 | $59.00 | 29.8% |
-| 36 | Switchers Gruppa | Combined Army | $71.00 | $50.00 | 29.6% |
+| 36 | Switchers Gruppa | Nomads | $71.00 | $50.00 | 29.6% |
 | 37 | Kestrel Expansion Pack Alpha | PanOceania | $75.00 | $53.00 | 29.3% |
 | 38 | Reinforcements: Combined Army Pack Alpha | Combined Army | $151.00 | $106.00 | 29.8% |
 | 39 | Shakush Light Armored Unit | Haqqislam | $71.00 | $50.00 | 29.6% |
@@ -68,7 +68,7 @@ Recorded November 27, 2026.
 | 54 | Fiddler, Aristeia!'s Ex-Toymaker | NA2 / Mercenary | $36.00 | $25.00 | 30.6% |
 | 55 | Meteor Zond (Boarding Shotgun) | Nomads | $36.00 | $25.00 | 30.6% |
 | 56 | Yaopu Pangguling | Yu Jing | $75.00 | $53.00 | 29.3% |
-| 57 | Haytham Aero-unit | Combined Army | $92.00 | $65.00 | 29.3% |
+| 57 | Haytham Aero-unit | Haqqislam | $92.00 | $65.00 | 29.3% |
 | 58 | Imperial Service Expansion Pack Beta | Yu Jing | $71.00 | $50.00 | 29.6% |
 | 59 | Redeye (Spitfire, Chain Rifle, Blitzen) | PanOceania | $92.00 | $65.00 | 29.3% |
 | 60 | Dr. Priya Harper, Archeo-raider (Plasma Carbine) | PanOceania | $29.00 | $21.00 | 27.6% |
@@ -104,10 +104,10 @@ Recorded November 27, 2026.
 | 90 | Essentials: Yu Jing Hero, Léi Gōng, Invincibles Lord of Thunder | Yu Jing | $35.00 | $25.00 | 28.6% |
 | 91 | Drummers, Mobile Support Section | PanOceania | $71.00 | $50.00 | 29.6% |
 | 92 | Essentials: PanOceania Cutters TAG | PanOceania | $82.00 | $57.00 | 30.5% |
-| 93 | Firebat Attack Wing | Combined Army | $92.00 | $65.00 | 29.3% |
+| 93 | Firebat Attack Wing | O-12 | $92.00 | $65.00 | 29.3% |
 | 94 | Hassassin Bahram Action Pack | Haqqislam | $166.00 | $116.00 | 30.1% |
 | 95 | Shasvastii Expansion Pack Beta | Combined Army | $71.00 | $50.00 | 29.6% |
-| 96 | Reinf. Nightshades, Clandestine Action Unit | Combined Army | $36.00 | $25.00 | 30.6% |
+| 96 | Reinf. Nightshades, Clandestine Action Unit | O-12 | $36.00 | $25.00 | 30.6% |
 | 97 | The Anathematics (Hacker) | Combined Army | $63.00 | $44.00 | 30.2% |
 | 98 | Reinforcements: Yu Jing Pack Alpha | Yu Jing | $132.00 | $93.00 | 29.5% |
 | 99 | Shaolin Warrior Monks | Yu Jing | $75.00 | $53.00 | 29.3% |
@@ -161,7 +161,7 @@ Recorded November 27, 2026.
 | 147 | O-12 Expansion Pack Alpha | O-12 | $71.00 | $50.00 | 29.6% |
 | 148 | Thamyris the Aoidos | ALEPH | $44.00 | $27.00 | 38.6% |
 | 149 | Yara Haddad (AP Marksman Rifle) | Haqqislam | $26.00 | $18.00 | 30.8% |
-| 150 | Jamie Arantes, Netroid Rover | Combined Army | $32.00 | $23.00 | 28.1% |
+| 150 | Jamie Arantes, Netroid Rover | O-12 | $32.00 | $23.00 | 28.1% |
 | 151 | Reinforcements: O-12 Pack Alpha | O-12 | $126.00 | $88.00 | 30.2% |
 | 152 | Reinf. Special Deterrance Group Azra'il (Spitfire AP) | Haqqislam | $45.00 | $31.00 | 31.1% |
 | 153 | Highlander Cateran (T2 Sniper Rifle) | Ariadna | $32.00 | $23.00 | 28.1% |
