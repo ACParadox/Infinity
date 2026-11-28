@@ -93,14 +93,13 @@ References: [vPanO roster](../../../sectorials/panoceania/panoceania.md), [vPanO
 | Varangian Guard (Boarding Shotgun) | 1 | Miniatures Market | $7.40 | $10.36 |
 | Polaris Team Beast Pack | 1 set / Masha + Bearpode | Miniatures Market | $14.28 | $19.99 |
 | Reinforcements: Brigadier Jacques Bruant | 1 | Miniatures Market | $8.33 | $11.66 |
-| Équipe Mirage-5 | 1 set / Margot + Duroc | Miniatures Market | $20.66 | $28.92 |
-| **Total** | **8 listings** | | **$85.62** | **$119.87** |
+| **Total** | **7 listings** | | **$64.96** | **$90.94** |
 
-Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listings #311, #505, #667, #198, #312, #196, #59 and #364. CAD estimate at 1.40 CAD/USD, excluding shipping and taxes. Catalogue prices are not verified checkout offers.
+Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listings #311, #505, #667, #198, #312, #196 and #59. CAD estimate at 1.40 CAD/USD, excluding shipping and taxes. Catalogue prices are not verified checkout offers.
 
 - Beyond Crimson Stone **Ariadna-only trio** (Wallace, Scots Guard, Kosmosoldat) replaces the standalone Wallace purchase. Wallace is Chain of Command in vAriadna and can serve as Lieutenant in Caledonia. Scots Guard and Kosmosoldat are not standard vAriadna entries.
 - The two Varangians also support a potential White Company collection.
-- Polaris pack remains selected and contains Masha and one Bearpode. Chernobog and Samodelkin are not selected for purchase. Bruant and Équipe Mirage-5 are selected for purchase following the 2026-11-28 user decision.
+- Polaris pack remains selected and contains Masha and one Bearpode. Chernobog and Samodelkin are not selected for purchase. Bruant remains selected. Équipe Mirage-5 is covered by existing proxies rather than a purchase.
 - No separate TAK purchases or additional Caledonia-specific purchases beyond the shared Beyond Crimson Stone selection; use cross-sectorial proxies. Other proposed units, including Unknown Ranger, Patchers, and extra Scots Guard boxes, are not selected for purchase.
 
 ### Proxy decisions
@@ -108,7 +107,8 @@ Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-
 | Target | Donor | Status | Modification / notes |
 |---|---|---|---|
 | Second Scots Guard | Kosmosoldat from Beyond Crimson Stone | Pending | Possible conversion; heavier armour than Scots Guard, visually distinguish intended identity. |
-| Margot (Mirage-5) | Isobel McGregor | Optional | Superseded as the primary plan by the selected Équipe Mirage-5 purchase, which includes Margot and Duroc. Isobel remains an optional proxy. |
+| Margot (Mirage-5) | Isobel McGregor | Selected | Existing S2 miniature. |
+| Duroc (Mirage-5) | Cameronian | Selected | Existing S6 miniature; no rebasing of S5 dog pool required. |
 | Masha (Polaris Team) | Female HVT | Optional | The selected Polaris pack already includes a dedicated Masha; female HVT remains an optional S2 alternative. HVT not separately counted in inventory. |
 
 Use existing TAK and Caledonia figures interchangeably for remaining sectorial gaps, subject to roster eligibility, silhouette and distinctness. No other proposed proxy assignments are committed here. Planned purchases and conversions are not yet owned or completed. Apply the [proxy guidelines](../../miniature-proxy-guidelines.md).
@@ -148,6 +148,6 @@ References: [White Company tactical guide](../white-company.md), [White Company 
 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
-| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia + White Company) | $253.28 | $354.59 |
+| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia + White Company) | $232.62 | $325.67 |
 
 Excludes shipping and taxes.
