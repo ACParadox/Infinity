@@ -100,15 +100,15 @@ References: [vPanO roster](../../../sectorials/panoceania/panoceania.md), [vPanO
 | Van Zant (AP Rifle) | 1 | Miniatures Market | $6.12 | $8.57 |
 | Varangian Guard (SMG) | 1 | Miniatures Market | $7.40 | $10.36 |
 | Varangian Guard (Boarding Shotgun) | 1 | Miniatures Market | $7.40 | $10.36 |
-| Polaris Team Beast Pack | 1 set | Miniatures Market | $14.28 | $19.99 |
-| Chernobog Armored Detachment | 1 set | Miniatures Market | $18.70 | $26.18 |
+| Polaris Team Beast Pack | 1 set / Masha + Bearpode | Miniatures Market | $14.28 | $19.99 |
+| Chernobog Armored Detachment | 1 TAG / no Samodelkin | Miniatures Market | $18.70 | $26.18 |
 | **Total** | **7 listings** | | **$75.33** | **$105.46** |
 
 Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listings #311, #505, #667, #198, #312, #196 and #158. CAD estimate at 1.40 CAD/USD, excluding shipping and taxes. Catalogue prices are not verified checkout offers.
 
 - Beyond Crimson Stone **Ariadna-only trio** (Wallace, Scots Guard, Kosmosoldat) replaces the standalone Wallace purchase. Wallace is Chain of Command in vAriadna and can serve as Lieutenant in Caledonia. Scots Guard and Kosmosoldat are not standard vAriadna entries.
 - The two Varangians also support a potential White Company collection.
-- Confirm exact Polaris pack contents and Chernobog ancillary inclusion before ordering. Chernobog requires the appropriate S1 Samodelkin representation; no additional ancillary purchase is selected.
+- User confirms Polaris pack contains Masha and one Bearpode; Chernobog listing does not include Samodelkin. No separate Samodelkin purchase is planned. The pinned vAriadna profile lists an S1 Samodelkin ancillary; if needed for play, use an appropriate existing proxy rather than buying another model.
 - No separate TAK purchases or additional Caledonia-specific purchases beyond the shared Beyond Crimson Stone selection; use cross-sectorial proxies. Other proposed units, including Unknown Ranger, Mirage-5, Patchers, and extra Scots Guard boxes, are not selected for purchase.
 
 ### Proxy decisions
@@ -117,7 +117,7 @@ Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-
 |---|---|---|---|
 | Second Scots Guard | Kosmosoldat from Beyond Crimson Stone | Pending | Possible conversion; heavier armour than Scots Guard, visually distinguish intended identity. |
 | Margot (Mirage-5) | Isobel McGregor | Selected | Existing Caledonia sculpt; no dedicated Margot purchase. Duroc requires a separate S6 body; donor not yet confirmed. |
-| Masha (Polaris Team) | Female HVT | Selected | S2 handler representation; HVT not separately counted in inventory. |
+| Masha (Polaris Team) | Female HVT | Optional | The selected Polaris pack already includes a dedicated Masha; female HVT remains an optional S2 alternative. HVT not separately counted in inventory. |
 
 Use existing TAK and Caledonia figures interchangeably for remaining sectorial gaps, subject to roster eligibility, silhouette and distinctness. No other proposed proxy assignments are committed here. Planned purchases and conversions are not yet owned or completed. Apply the [proxy guidelines](../../miniature-proxy-guidelines.md).
 
