@@ -99,7 +99,7 @@ Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-
 - Beyond Crimson Stone **Ariadna-only trio** (Wallace, Scots Guard, Kosmosoldat) replaces the standalone Wallace purchase. Wallace is Chain of Command in vAriadna and can serve as Lieutenant in Caledonia. Scots Guard and Kosmosoldat are not standard vAriadna entries.
 - Buy one SMG Varangian; use the owned Wulver as the second Varangian proxy, including in White Company if needed.
 - Polaris pack remains selected and contains Masha and one Bearpode. Chernobog and Samodelkin are not selected for purchase. Bruant remains selected. Équipe Mirage-5 is covered by existing proxies rather than a purchase.
-- No separate TAK purchases or additional Caledonia-specific purchases beyond the shared Beyond Crimson Stone selection; use cross-sectorial proxies. Other proposed units, including Unknown Ranger, Patchers, and extra Scots Guard boxes, are not selected for purchase.
+- No separate TAK purchases or additional Caledonia-specific purchases beyond the shared Beyond Crimson Stone selection; use cross-sectorial proxies. Unknown Ranger is now a potential purchase in the Kosmoflot section below, not an active selection. Patchers and extra Scots Guard boxes remain unselected.
 
 ### Proxy decisions
 
@@ -114,6 +114,23 @@ Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-
 Use existing TAK and Caledonia figures interchangeably for remaining sectorial gaps, subject to roster eligibility, silhouette and distinctness. No other proposed proxy assignments are committed here. Planned purchases and conversions are not yet owned or completed. Apply the [proxy guidelines](../../miniature-proxy-guidelines.md).
 
 References: [vAriadna roster](../../../sectorials/ariadna/vanilla-ariadna.md), [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Caledonia roster](../../../sectorials/ariadna/caledonian-highlander-army.md).
+
+## Kosmoflot — potential purchases
+
+**Status: Potential.** These are optional additions to the current Ariadna plan, not selected purchases and not included in the active subtotal.
+
+| Product | Quantity | Retailer | Black Friday USD | Approx. CAD |
+|---|---:|---|---:|---:|
+| Operation Crimson Stone — Ariadna Starter Pack | 1 set / 7 models | Miniatures Market | $27.03 | $37.84 |
+| The Unknown Ranger | 1 | Miniatures Market | $6.72 | $9.41 |
+| Denma Connolly | 1 | Miniatures Market | $5.27 | $7.38 |
+| **Potential total** | **9 models** | | **$39.02** | **$54.63** |
+
+Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listings #333, #567 and #82. CAD estimate at 1.40 CAD/USD, excluding shipping and taxes; prices are not verified checkout offers.
+
+The Crimson Stone starter contains three Rokots, one Para-Commando, one SAS, one Volkolak and one Zenit-7. It complements the already selected Beyond Crimson Stone Ariadna trio. Unknown Ranger also supports vanilla Ariadna; Denma supports Caledonia.
+
+Chernobog, Patchers, Wolfgang Amadeus Wolff and extra Varangian/Wulver purchases are not selected or included in this potential subtotal.
 
 ## White Company — removed for later
 
@@ -151,5 +168,7 @@ References: [White Company tactical guide](../white-company.md), [White Company 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
 | Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia) | $148.26 | $207.56 |
+
+Potential Kosmoflot additions: $39.02 USD / $54.63 CAD. If all three are selected, the combined subtotal would be $187.28 USD / $262.19 CAD. White Company remains deferred.
 
 Excludes shipping and taxes.
