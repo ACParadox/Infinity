@@ -124,10 +124,39 @@ Use existing TAK and Caledonia figures interchangeably for remaining sectorial g
 
 References: [vAriadna roster](../../../sectorials/ariadna/vanilla-ariadna.md), [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Caledonia roster](../../../sectorials/ariadna/caledonian-highlander-army.md).
 
+## White Company
+
+### To buy
+
+| Product | Quantity | Retailer | Black Friday USD (total) | Approx. CAD |
+|---|---:|---|---:|---:|
+| Hǎidào Special Support Group (Hacker) | 1 | Miniatures Market | $6.72 | $9.41 |
+| Hǎidào Special Support Group (MULTI Sniper Rifle) | 1 | Miniatures Market | $7.74 | $10.84 |
+| John Hawkwood, Merc Officer (K1 Marksman Rifle sculpt) | 1 | Miniatures Market | $7.14 | $10.00 |
+| Laxmee (Submachine Gun and Pitcher) | 1 | Miniatures Market | $7.74 | $10.84 |
+| KTS, Kaplan Tactical Services (Spitfire) | 2 | Miniatures Market | $11.56 | $16.18 |
+| Señor Massacre (Boarding Shotgun) | 1 | Miniatures Market | $7.74 | $10.84 |
+| Guiláng (Hacker) | 1 | Miniatures Market | $8.33 | $11.66 |
+| Emily Handelman (Outrage) | 1 | Miniatures Market | $5.87 | $8.22 |
+| Liang Kai | 1 | Miniatures Market | $7.40 | $10.36 |
+| Tiger Soldier (Spitfire) | 1 | Miniatures Market | $6.72 | $9.41 |
+| **Total** | **11 models** | | **$76.96** | **$107.74** |
+
+Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md). CAD total converted from aggregate USD at 1.40 CAD/USD; rounded line prices can differ by cents. Prices are snapshot quotes, before shipping and taxes, not verified checkout stock.
+
+- Buy two identical Kaplan Spitfire miniatures at USD $5.78 each and change the pose of one; use distinct figures for Doctor/Engineer or other selected profiles. Do not also buy the Kaplan box.
+- Guiláng is sourced from MM (USD $8.33) rather than 401 Games. Selected Tiger Soldier is the lower-priced Spitfire sculpt; use it to represent the intended legal profile, e.g. Hacker, clearly.
+- Hannibal (MULTI Marksman Rifle), USD $7.74 / approximately CAD $10.84, **optional / decision pending**, not included in selected subtotal. Useful in NCA and White Company, but absent from the six reconstructed White Company lists.
+- Reuse PanO, ALEPH and the two Varangians from the Ariadna purchase plan. Kunai Ninja assumed covered by the user's scenario, but no separate purchase is added here. Nisse HMG uses planned Kamau HMG as already specified; Shona uses a suitable proxy unless separately acquired.
+- Third Hǎidào, Táowù, Wild Bill, Scarface & Cordelia and dedicated Gūijiă are not selected. Valkyrie can use Hippolyta or similar ALEPH donor (Hippolyta herself is currently a proposed Trisha conversion); Cube Jäger uses Wardriver, and the Yu Jing support models and Carmen/Bâtard use agreed existing proxies. Avoid allocating the same physical model to two concurrent units.
+- A dedicated Señor Massacre purchase supersedes the earlier optional spare Jizamurai conversion as the primary acquisition route for White Company; the spare Jizamurai remains available for other uses.
+
+References: [White Company tactical guide](../white-company.md), [White Company roster](../../../sectorials/na2/white-company.md), [White Company historical buy list](white-company-buy-list.md).
+
 ## Current selected purchase subtotal
 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
-| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia) | $201.28 | $281.79 |
+| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia + White Company) | $278.24 | $389.54 |
 
 Excludes shipping and taxes.
