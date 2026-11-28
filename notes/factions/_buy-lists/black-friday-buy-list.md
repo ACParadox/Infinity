@@ -26,36 +26,6 @@ No Arjuna box, ALEPH Army Pack or other ALEPH expansion is selected for this Bla
 
 Reference: [Steel Phalanx inventory](../../../inventory/steel-phalanx.md), [other owned units](../../../inventory/other-units.md), [Steel Phalanx roster](../../../sectorials/aleph/steel-phalanx.md).
 
-## Shindenbutai
-
-### To buy
-
-| Product | Quantity | Retailer | Black Friday USD | Approx. CAD |
-|---|---:|---|---:|---:|
-| [The Shindenbutai set of “Operation: Sandtrap”](https://miniatures.market/product/the-shindenbutai-set-of-operation-sandtrap/) | 1 set / 7 models | Miniatures Market | $30.40 | $42.56 |
-| **Total** | | | **$30.40** | **$42.56** |
-
-Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listing #55 (original USD $32.00; sale USD $30.40). CAD estimate at 1.40 CAD/USD, excluding shipping and taxes. Stock and checkout price are not independently verified.
-
-### Shinden conversion plan
-
-| Target | Donor | Modification | Assessment |
-|---|---|---|---|
-| Monstrucker (pending) | Owned Jackal or Tech-Bee | None or tools | Prefer Jackal |
-| Tokusetsu Doctor | Senku #1 | Medkit, medical markings | Excellent |
-| Tokusetsu Engineer | Senku #2 | Toolbox, equipment | Excellent |
-| Second Kurayami | Nokizaru | Head, weapon or pose | Recommended over second Nokizaru |
-| Metsuke | Raiden | Remove ML, new head, weapon, half-cloak | Excellent concept, most work |
-| Second Hatamoto | Hatamoto | Change weapon or arm position | Excellent |
-| Third Tanuki | Senku #3 | Helmet, backpack, shoulder armour | Good |
-| Spare Jizamurai | Jizamurai | Potential Señor Massacre (change head) | Excellent flexibility |
-
-The seven numbered/assigned Sandtrap donors are from the planned additional set, not from the original owned set. The Monstrucker uses an existing donor and requires no additional purchase. The spare Jizamurai can remain a second Jizamurai until needed as a White Company Señor Massacre proxy.
-
-This explicit 2026-11-27 Black Friday selection supersedes the earlier no-rebuy-Sandtrap decision in the [Shindenbutai buy list](shindenbutai-buy-list.md) for this one set. Same-sectorial conversions must be clearly recognizable as their intended target under the [proxy guidelines](../../miniature-proxy-guidelines.md). Ownership and completed conversions remain unchanged until confirmed.
-
-Reference: [Shindenbutai inventory](../../../inventory/shindenbutai.md), [Shindenbutai roster](../../../sectorials/jsa/shindenbutai.md), [White Company roster](../../../sectorials/na2/white-company.md).
-
 ## Vanilla PanOceania (vPanO)
 
 ### To buy
@@ -149,7 +119,7 @@ Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-
 - Hannibal (MULTI Marksman Rifle), USD $7.74 / approximately CAD $10.84, **optional / decision pending**, not included in selected subtotal. Useful in NCA and White Company, but absent from the six reconstructed White Company lists.
 - Reuse PanO, ALEPH and the two Varangians from the Ariadna purchase plan. Kunai Ninja assumed covered by the user's scenario, but no separate purchase is added here. Nisse HMG uses planned Kamau HMG as already specified; Shona uses a suitable proxy unless separately acquired.
 - Third Hǎidào, Táowù, Wild Bill, Scarface & Cordelia and dedicated Gūijiă are not selected. Valkyrie can use Hippolyta or similar ALEPH donor (Hippolyta herself is currently a proposed Trisha conversion); Cube Jäger uses Wardriver, and the Yu Jing support models and Carmen/Bâtard use agreed existing proxies. Avoid allocating the same physical model to two concurrent units.
-- A dedicated Señor Massacre purchase supersedes the earlier optional spare Jizamurai conversion as the primary acquisition route for White Company; the spare Jizamurai remains available for other uses.
+- Señor Massacre is selected as a dedicated purchase for White Company.
 
 References: [White Company tactical guide](../white-company.md), [White Company roster](../../../sectorials/na2/white-company.md), [White Company historical buy list](white-company-buy-list.md).
 
@@ -157,6 +127,6 @@ References: [White Company tactical guide](../white-company.md), [White Company 
 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
-| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia + White Company) | $278.24 | $389.54 |
+| Miniatures Market (Steel Phalanx + vPanO + vAriadna/Caledonia + White Company) | $247.84 | $346.98 |
 
 Excludes shipping and taxes.
