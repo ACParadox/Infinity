@@ -1,13 +1,13 @@
 # Kestrel Colonial Force — Miniature Inventory
 
-**Inventory as of:** 2026-10-30 (user-reported)  
+**Inventory as of:** 2026-10-30 (user-reported; Fennec/Fusilier sculpt correction 2026-11-27)  
 **Rules reference:** N5.3, [Kestrel Colonial Force roster](../sectorials/panoceania/kestrel-colonial-force.md) (Army revision `7.26246.158`, verified 2026-10-15).  
 **Scope:** physical models and suggested proxies, not current list legality or a shopping mandate.
 
 ## Summary
 
 - **40/40 standard Kestrel unit types are included** in this inventory. None is missing from the user's unit-name list.
-- **48 physical miniatures reported** across dedicated entries, one Crabbot peripheral, and two shared REM pools (includes 6 Fennecs, of which at most 5 may be fielded as Fennecs in one list). Physical count assumes each shared pool is distinct and counts the duplicate Tech-Bee only once.
+- **48 physical miniatures reported** across dedicated entries, one Crabbot peripheral, and two shared REM pools (includes a shared six-body infantry pool of 3 dedicated Fennecs and 3 regular Fusiliers; at most 5 may be fielded as Fennecs in one Kestrel list). Physical count assumes each shared pool is distinct and counts the duplicate Tech-Bee only once.
 - **8 unit types have 0 dedicated miniatures:** Father Lucien Sforza; Richard Quinn; Emily Handelman; Optimate Agent Maximus; Dr. Priya Harper; Dart, Optimate Huntress; Sāchā Xenotech Hunters; Kazurabā Ruby Monday.
 - **4 of these 8 have user-suggested proxies** (Emily, Richard Quinn, Optimate Agent Maximus, Dart); **4 have no designated proxies** (Father Lucien Sforza, Dr. Priya Harper, Sāchā, Kazurabā Ruby Monday).
 - AVA is **maximum fielding allowance, not a recommended ownership target**. 'Gap to AVA' reports mathematical room only, not a purchase recommendation.
@@ -20,7 +20,7 @@
 | Clipper Dronbot | Shared 4 | 1 | — | Shared pool | Dronbot shared pool (4 total chassis) |
 | Fugazi Dronbot | Shared 4 | 1 | — | Shared pool | Dronbot shared pool (4 total chassis) |
 | Scarecrows Active Recon Group | 2 | 3 | 1 | Owned | — |
-| Fennec Fusiliers | 6 | 5 | 0 | Over AVA | 1 over AVA; surplus Fennecs are not preferred as Kestrel character proxies because Fennecs remain a legal Kestrel unit |
+| Fennec Fusiliers | 3 dedicated + 3 Fusilier proxies | 5 | 0 with proxies | Shared infantry pool | Six physical bodies total; up to five may represent Fennecs, leaving at least one available for another proxy role in Kestrel |
 | Fireflies Clandestine Demo Squad | 3 | 5 | 2 | Owned | — |
 | Peacemaker Armbots | Shared 2 | 2 | — | Shared pool | Armbot shared pool (2 total for Bulleteer/Peacemaker) |
 | Tech-Bees | 1 | 1 | 0 | Owned | Listed twice by user; counted only once |
@@ -39,7 +39,7 @@
 | Richard Quinn | 0 | 1 | 1 | Proxy only | Old Fusilier proxy superseded: prefer owned **Trisha N33 (S2 LI)** or MO **Crosier (S2 LI)**, not Kestrel-legal Fennec |
 | Tikbalangs | 1 | 2 | 1 | Owned | — |
 | Machinists | 1 | 1 | 0 | Owned | — |
-| Emily Handelman | 0 | 1 | 1 | Proxy only | Preferred: owned **Trisha N33 (S2 LI)** or MO **Crosier (S2 LI)**, not Kestrel-legal Fennec/Fusilier |
+| Emily Handelman | 0 | 1 | 1 | Proxy only | Preferred: owned **Trisha N33 (S2 LI)** or MO **Crosier (S2 LI)**, not a dedicated Kestrel-legal Fennec sculpt |
 | Optimate Agent Maximus | 0 | 1 | 1 | Proxy only | Preferred: MO **Infirmarer (S2 MI)**; old Hoplite is HI versus Agent Maximus MI; distinct from the Maximus TAG |
 | Bulleteer Armbots | Shared 2 | 2 | — | Shared pool | Armbot shared pool (2 total for Bulleteer/Peacemaker) |
 | Drummers Mobile Support Section | 1 | 4 | 3 | Owned | — |
@@ -56,6 +56,18 @@
 | Dart, Optimate Huntress | 0 | 1 | 1 | Proxy only | Preferred: owned **Naga (S2 SK)**, not armoured Asura HI; Sharvara K9 peripheral owned 0 |
 | Sāchā Xenotech Hunters | 0 | 1 | 1 | No dedicated model | User correction: owned 0; no proxy specified |
 | Kazurabā Ruby Monday | 0 | 1 | 1 | No dedicated model | No proxy specified |
+
+## Shared Fennec / Fusilier infantry pool
+
+| Physical sculpt | Owned | Description |
+|---|---:|---|
+| Fennec Fusiliers | 3 | Dedicated Fennec sculpts; individual poses not specified |
+| Fusilier | 1 | Female sniper |
+| Fusilier | 1 | Male with visor, pointing |
+| Fusilier | 1 | Male with combi rifle |
+| **Total** | **6** | Already included in the 48-model inventory; not six dedicated Fennecs plus three Fusiliers |
+
+The user explicitly permits regular Fusiliers as Fennec proxies. Kestrel Fennec AVA is 5; the user does not plan to field more than five combined Fennec/Fusilier infantry bodies in any army, so at least one is available for another proxy (e.g., a potential Blocker in vPanO). No specific sculpt has yet been permanently assigned or converted. In vanilla PanO, Fennec and Fusilier are both legal selections (AVA 5 and Total respectively in the pinned roster), so the five-body limit is a collection-planning preference, not a shared rules cap. Keep representations distinguishable and never count the same physical body twice in a list.
 
 ## Peripheral miniatures (not independent roster units)
 
@@ -90,7 +102,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 | Sāchā Xenotech Hunters | None recorded | Needed to field without choosing a new proxy |
 | Kazurabā Ruby Monday | None recorded | Needed to field without choosing a new proxy |
 
-**Proxy clarity / collision:** previous Fennec/Fusilier-for-Emily-or-Quinn suggestions are superseded, since Fennec is itself legal in Kestrel. Prefer non-Kestrel **S2 LI Trisha N33 or MO Crosier**, and allocate a distinct physical figure to each role. Likewise, a shared alternative proxy miniature used for one character cannot represent another model simultaneously. The user explicitly allows some extra Fennecs as character proxies; Bipandra now has her own dedicated model.
+**Proxy clarity / collision:** prefer non-Kestrel **S2 LI Trisha N33 or MO Crosier** for Emily or Quinn as before; a dedicated Fennec sculpt is less distinct because Fennecs are Kestrel-legal. The corrected pool also includes three regular Fusiliers, which are not native Kestrel units and may represent Fennecs or other clearly declared proxies under the user's explicit surplus-body preference. Allocate a distinct physical figure to each role; avoid ambiguity when regular Fusiliers and Fennecs coexist in vanilla PanO. Bipandra has her own dedicated model.
 
 ## Quantity questions / potential additional purchases
 
@@ -99,7 +111,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - **Redeye — 1/2:** The second is for a **double-Redeye** strategy, supported as a niche option in the Kestrel guide; not required for ordinary lists.
 - **BCA Magistrate — 1/2:** A second can support a separate Strategos Lieutenant and Chain of Command setup with Jackals, if desired.
 - **Firefly 3/5, Scarecrow 2/3, Griffin 2/3, Hetkari 1/2, Tikbalang 1/2, Squalos 1/2:** below AVA but not automatically missing. Ownership is sufficient for many lists; buy only to cover an actual simultaneous-profile need.
-- **Fennec — 6/5:** no additional Fennec needed for Kestrel AVA. The spare body is **not a preferred stand-in for another Kestrel unit**; avoid same-sectorial donor models.
+- **Fennec — 3 dedicated + 3 regular Fusiliers / AVA 5:** no additional Fennec purchase needed with accepted proxies. At least one of the six shared infantry bodies is available for another proxy under the user's five-body planning limit. A regular Fusilier is preferable to sacrificing a dedicated Fennec for a permanent conversion; no donor is committed yet.
 - **Mulebots, Palbots, Jackals, Yamabushi, Tech-Bee and several single-AVA models:** already meet stated AVA.
 
 ## Roster/name clarifications
@@ -110,7 +122,7 @@ The combined Dronbot AVAs permit **6** across all four types, but there are **4 
 - **Tech-Bees** was repeated in the supplied list; ownership is **one**, not two.
 - **Sāchā** is **0**, overriding the earlier quantity 1.
 - **Peripheral correction:** one Crabbot is owned, but Sharvara K9 ownership is **0**. This supersedes the earlier Sharvara count of 1.
-- **Bipandra** is **1** and **Dr. Priya Harper** is **0** according to the latest ownership correction. The overall physical total remains **47**.
+- **Bipandra** is **1** and **Dr. Priya Harper** is **0** according to the latest ownership correction. The overall physical total remains **48**, as recorded in the summary.
 - Follow [miniature proxy guidelines](../notes/miniature-proxy-guidelines.md). This list does not assert all shared REM weapon builds are physically interchangeable or all tournament organizers accept the suggested proxies.
 
 ## Related research
