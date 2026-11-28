@@ -4,7 +4,19 @@
 
 **Prepared 2026-10-30 · committed on `main` · not an inventory change.** Authority: [current Shindenbutai N5.3 roster](../../../sectorials/jsa/shindenbutai.md), Army `7.26246.159` verified 2026-10-16; [source-backed JSA purchase/avoid evidence](../../../sectorials/jsa/shindenbutai.md); [JSA proxy rules](../../miniature-proxy-guidelines.md). Owned figures: [Shindenbutai](../../../inventory/shindenbutai.md), [Kestrel](../../../inventory/kestrel.md), [Military Orders](../../../inventory/military-orders.md), [Steel Phalanx](../../../inventory/steel-phalanx.md), [TAK](../../../inventory/tak.md), [Caledonia](../../../inventory/caledonia.md), [misc](../../../inventory/other-units.md).
 
-## Proxy-only completion — historical purchase prices (CAD)
+## Current completion decisions — 2026-11-28
+
+Supersedes the older blanket no-purchase rule and generic donor suggestions below. The only selected purchase is **Hatail Spec-Ops**, Miniatures Market Black Friday USD $5.44 (approximately CAD $7.62 at 1.40 CAD/USD, excluding shipping/taxes; catalogue listing #794).
+
+| Target | Donor | Current decision |
+|---|---|---|
+| Second Hatamoto (female) | Owned Shurayuki | Replace head and add shoulder armour. Explicit same-sectorial conversion exception; cannot also field this body as Shurayuki. |
+| Third Tanuki | Hatail Spec-Ops | Buy one and use as a distinct Tanuki proxy. |
+| Monstrucker | Owned Ariadna female miniature or Jackal | Proxy; donor choice pending. |
+
+No additional Sandtrap, Delta or Gamma box is selected. Inventory and completed conversions remain unchanged. See [Black Friday buy list](black-friday-buy-list.md).
+
+## Historical proxy-only completion — purchase prices (CAD)
 
 **Owned and reused:** Senku ×3; Nokizaru, Shurayuki, Kurayami, Mechazoid, Hatamoto, Raiden, Jizamurai, Teishin, Shizoku, Yuriko ×1 each; Tanuki ×2, Kyojin ×2, Yamabushi ×2; both Yojimbo foot/bike variants; Warcor; **two Yáoxiè chassis shared Rui Shi/Lù Duān**. These are detailed in [inventory](../../../inventory/shindenbutai.md). **Do not rebuy Sandtrap, Beyond Sandtrap, or Shinden Expansion Beta**. The earlier idea of buying a third Tanuki and second Hatamoto has been superseded by the 2026-10-30 decision to **proxy every missing unit and extra body, with no planned purchases**. All prices below are retained for reference only.
 
@@ -18,19 +30,19 @@
 | Monstrucker BSG | **+$12.17** | **Miniatures Market archive USD8.70**, 1 engineer, can proxy with existing **PanO Tech-Bee S2 LI**; verify merchant's actual contents |
 | Sāchā Xenotech Hunter | **+$20.98** | **Miniatures Market archive USD15.00**, rare Irregular specialist; proxy/skip even if repeatedly used under the no-purchase decision |
 
-**Current budget: required core CAD $0.00, planned optional purchases CAD $0.00, combined planned spending CAD $0.00.** The old $44.04 reduced core, $153.04 full core and $186.19 with extras are **historical purchase scenarios only**, not the current completion plan. Use owned same-silhouette non-roster donors for missing Metsuke, Tokusetsu, Jizamurai and any extra Tanuki/Hatamoto where physically suitable; when a credible distinct model or required ancillary is unavailable, do not field that specific profile until a suitable proxy is identified.
+**Historical 2026-10-30 budget: CAD $0.00; superseded by the current CAD $7.62 Hatail plan above.** The old $44.04 reduced core, $153.04 full core and $186.19 with extras are **historical purchase scenarios only**, not the current completion plan. Use owned same-silhouette non-roster donors for missing Metsuke, Tokusetsu, Jizamurai and any extra Tanuki/Hatamoto where physically suitable; when a credible distinct model or required ancillary is unavailable, do not field that specific profile until a suitable proxy is identified.
 
 **Proxy and no-buy:** Four generic Robio/Atom/Garon/Uran Aibōt REM roles from four pooled **PanO Dronbots**, Pangguling baggage from **Mulebot**, S1 Yáozăo from **Palbots/Yudbots**, all correct silhouette and distinct. Your 2 actual Yáoxiè are a **single shared pool**, not 2 of each. Rare Ninja/Saito may use **OSS Naga S2 SK** rather than same-roster Nokizaru/Kurayami. Ioann Bann S6 may use a free appropriately shaped **Caledonian Cameronian/McMurrough S6**. **Skip** duplicate Yojimbo/Kyojin/Yamabushi, extra Sandtrap and Shinden Beta, unused Aïda/Ruby Monday, second expensive Mechazoid, differently sized Triphammer/TurtleMek and rare limited-event sculpts.
 
 ## Existing collection and buying strategy
 
-**This is the user's existing JSA army, not an unowned army.** [Confirmed inventory](../../../inventory/shindenbutai.md): Senku3, Nokizaru1, Shurayuki1, Kurayami1, Mechazoid1, Hatamoto1, Warcor1, **2 Yáoxiè chassis pooled between Rui Shi and Lù Duān**, Yamabushi2 (shared), Shizoku1, Yuriko1, **Yojimbo on bike1 and on foot1 (mutually exclusive in army list)**, Teishin1, Jizamurai1, Tanuki2, Kyojin2, Raiden1. **Tokusetsu0, Metsuke0, Aïda0, Saito0, Ninja0, Ruby0, Sāchā0, Ioann0, four Aibōt types0, Monstrucker0.** Models in **Sandtrap seven**, **Beyond Sandtrap three**, and **Shinden Expansion Beta three** are already represented by owned unit families. Missing support and extra Tanuki/Hatamoto can be **proxied when simultaneous lists call for them**. The earlier request for dedicated extra sculpts does not override the later no-purchase decision. Earlier suggestions that Shurayuki→Metsuke and Nokizaru/Kurayami→other Ninja are **superseded** by [proxy policy](../../miniature-proxy-guidelines.md): those donors are themselves legal Shinden troops.
+**This is the user's existing JSA army, not an unowned army.** [Confirmed inventory](../../../inventory/shindenbutai.md): Senku3, Nokizaru1, Shurayuki1, Kurayami1, Mechazoid1, Hatamoto1, Warcor1, **2 Yáoxiè chassis pooled between Rui Shi and Lù Duān**, Yamabushi2 (shared), Shizoku1, Yuriko1, **Yojimbo on bike1 and on foot1 (mutually exclusive in army list)**, Teishin1, Jizamurai1, Tanuki2, Kyojin2, Raiden1. **Tokusetsu0, Metsuke0, Aïda0, Saito0, Ninja0, Ruby0, Sāchā0, Ioann0, four Aibōt types0, Monstrucker0.** Models in **Sandtrap seven**, **Beyond Sandtrap three**, and **Shinden Expansion Beta three** are already represented by owned unit families. Missing support and extra Tanuki/Hatamoto can be **proxied when simultaneous lists call for them**. The current completion decisions above supersede the earlier blanket no-purchase decision. Earlier suggestions that Shurayuki→Metsuke and Nokizaru/Kurayami→other Ninja are **superseded** by [proxy policy](../../miniature-proxy-guidelines.md): those donors are themselves legal Shinden troops.
 
 | Priority | Unit or complete box | Confirmed bodies | Reason, overlap, proxy recommendation |
 |---|---|---|---|
 | **Proxy first** | Metsuke x1 (formerly via Expansion Alpha) | 0 | High-value Strategos/Counterintelligence LT. Find a distinct S2 LI non-Shinden donor from existing inventory or leave this profile out; **do not buy Alpha**. Existing Jizamurai x1 can remain in use. |
-| **Proxy first** | Third Tanuki (formerly Delta) | 2/AVA5 owned | Use a separate suitable existing model only if a list simultaneously needs three; **do not buy Delta** (also duplicates Shurayuki). |
-| **Proxy first** | Second Hatamoto (formerly Gamma) | 1/AVA2 owned | Use a distinct correctly sized/armoured owned donor if two are fielded; **do not buy Gamma**, which repeats Kurayami and Nokizaru. |
+| **Buy proxy** | Third Tanuki (formerly Delta) | 2/AVA5 owned | Hatail Spec-Ops at USD $5.44; **do not buy Delta**. |
+| **Convert** | Second Hatamoto (formerly Gamma) | 1/AVA2 owned | Convert owned Shurayuki with head replacement and added shoulder armour; **do not buy Gamma**. |
 | **Proxy first** | Tokusetsu x1–2 plus correct Yáozăo servants | 0 dedicated; 2 Yudbots +2 Palbots physically pooled | Use distinct S2 LI PanO/OSS support donors; existing servants already cover correct-size peripherals. **Do not buy Support Pack**. |
 | **Proxy only** | Aibōt remotes Robio/Atom/Garon/Uran | 0 exact; 4 pooled PanO Dronbots | Use four existing size-matched PanO Dronbots, one body per active role; no dedicated REM purchases. |
 | **Proxy first** | Extra Jizamurai for Bushi-tai | 1/AVA5 owned | Use a different owned S2 MI-style donor only for an actual simultaneous Fireteam; do not buy Alpha to fill AVA. |
@@ -117,7 +129,7 @@ Matches [the current pinned Shindenbutai roster](../../../sectorials/jsa/shinden
 | Warcors | 1 | LI | **1 owned** (same Kestrel Warcor) | Already own exact Warcor, no further purchase. |
 | Metsuke Officers | 1 | LI | 0 named owned | P1 missing Metsuke LT. Shinden Expansion Alpha offers one plus two Jizamurai. |
 | Yáoxiè Rui Shi | 2 | REM | **2 pooled physical Yáoxiè chassis TOTAL** (shared Rui Shi / Lù Duān) | Already have two chassis shared between these two troop types; allocate each only once per list. |
-| Monstruckers | 1 | LI | 0 named owned | 0 dedicated; owned PanO Tech-Bee S2 LI can proxy if distinguishable; first Engineer only if repairs needed. |
+| Monstruckers | 1 | LI | 0 named owned | Proxy an owned Ariadna female miniature or Jackal; donor choice pending. |
 | Uran Aibōt | 1 | REM | 0 named owned | Check correct robot S/base; 4 PanO Dronbots/2 Mulebots are *pooled*, conditional proxies. Don't buy AVA by default. |
 | Yamabushi | 2 | WB | **2 owned** | Already owned physical named model; use before buying an alternate sculpt. AVA alone does not imply shortage. |
 | Shizoku Kōgeki-tai | 2 | HI | **1 owned** | Already owned physical named model; use before buying an alternate sculpt. AVA alone does not imply shortage. |
