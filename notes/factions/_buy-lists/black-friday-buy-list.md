@@ -89,10 +89,44 @@ These are user-selected proxy assignments, not completed conversions or new owne
 
 References: [vPanO roster](../../../sectorials/panoceania/panoceania.md), [vPanO tactical notes](../vPanO/README.md), [NCA roster](../../../sectorials/panoceania/neoterran-capitaline-army.md), [Kestrel inventory](../../../inventory/kestrel.md), [Military Orders inventory](../../../inventory/military-orders.md), [Steel Phalanx inventory](../../../inventory/steel-phalanx.md), [other owned units](../../../inventory/other-units.md).
 
+## Vanilla Ariadna (vAriadna) + Caledonia
+
+### To buy
+
+| Product | Quantity | Retailer | Black Friday USD | Approx. CAD |
+|---|---:|---|---:|---:|
+| Beyond Operation Crimson Stone — Ariadna pack | 1 set / 3 models | Miniatures Market | $15.56 | $21.78 |
+| Chasseur (Rifle, Light Flamethrower) | 1 | Miniatures Market | $5.87 | $8.22 |
+| Van Zant (AP Rifle) | 1 | Miniatures Market | $6.12 | $8.57 |
+| Varangian Guard (SMG) | 1 | Miniatures Market | $7.40 | $10.36 |
+| Varangian Guard (Boarding Shotgun) | 1 | Miniatures Market | $7.40 | $10.36 |
+| Polaris Team Beast Pack | 1 set | Miniatures Market | $14.28 | $19.99 |
+| Chernobog Armored Detachment | 1 set | Miniatures Market | $18.70 | $26.18 |
+| **Total** | **7 listings** | | **$75.33** | **$105.46** |
+
+Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listings #311, #505, #667, #198, #312, #196 and #158. CAD estimate at 1.40 CAD/USD, excluding shipping and taxes. Catalogue prices are not verified checkout offers.
+
+- Beyond Crimson Stone **Ariadna-only trio** (Wallace, Scots Guard, Kosmosoldat) replaces the standalone Wallace purchase. Wallace is Chain of Command in vAriadna and can serve as Lieutenant in Caledonia. Scots Guard and Kosmosoldat are not standard vAriadna entries.
+- The two Varangians also support a potential White Company collection.
+- Confirm exact Polaris pack contents and Chernobog ancillary inclusion before ordering. Chernobog requires the appropriate S1 Samodelkin representation; no additional ancillary purchase is selected.
+- No separate TAK purchases or additional Caledonia-specific purchases beyond the shared Beyond Crimson Stone selection; use cross-sectorial proxies. Other proposed units, including Unknown Ranger, Mirage-5, Patchers, and extra Scots Guard boxes, are not selected for purchase.
+
+### Proxy decisions
+
+| Target | Donor | Status | Modification / notes |
+|---|---|---|---|
+| Second Scots Guard | Kosmosoldat from Beyond Crimson Stone | Pending | Possible conversion; heavier armour than Scots Guard, visually distinguish intended identity. |
+| Margot (Mirage-5) | Isobel McGregor | Selected | Existing Caledonia sculpt; no dedicated Margot purchase. Duroc requires a separate S6 body; donor not yet confirmed. |
+| Masha (Polaris Team) | Female HVT | Selected | S2 handler representation; HVT not separately counted in inventory. |
+
+Use existing TAK and Caledonia figures interchangeably for remaining sectorial gaps, subject to roster eligibility, silhouette and distinctness. No other proposed proxy assignments are committed here. Planned purchases and conversions are not yet owned or completed. Apply the [proxy guidelines](../../miniature-proxy-guidelines.md).
+
+References: [vAriadna roster](../../../sectorials/ariadna/vanilla-ariadna.md), [TAK inventory](../../../inventory/tak.md), [Caledonia inventory](../../../inventory/caledonia.md), [Caledonia roster](../../../sectorials/ariadna/caledonian-highlander-army.md).
+
 ## Current selected purchase subtotal
 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
-| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO) | $115.66 | $161.92 |
+| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia) | $190.99 | $267.39 |
 
 Excludes shipping and taxes.
