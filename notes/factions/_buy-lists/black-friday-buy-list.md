@@ -26,6 +26,27 @@ No Arjuna box, ALEPH Army Pack or other ALEPH expansion is selected for this Bla
 
 Reference: [Steel Phalanx inventory](../../../inventory/steel-phalanx.md), [other owned units](../../../inventory/other-units.md), [Steel Phalanx roster](../../../sectorials/aleph/steel-phalanx.md).
 
+## Shindenbutai — revised minimal plan
+
+### To buy
+
+| Product | Quantity | Retailer | Black Friday USD | Approx. CAD |
+|---|---:|---|---:|---:|
+| Hatail Spec-Ops (third Tanuki proxy) | 1 | Miniatures Market | $5.44 | $7.62 |
+| **Total** | | | **$5.44** | **$7.62** |
+
+Source: [Miniatures Market Black Friday catalogue](../../black-friday-miniature-market.md), listing #794. No additional Sandtrap, Delta or Gamma set is selected.
+
+### Proxy decisions
+
+| Target | Donor | Modification / notes |
+|---|---|---|
+| Second Hatamoto (female) | Owned Shurayuki | Replace head and add shoulder armour; distinguish clearly as Hatamoto. |
+| Third Tanuki | Hatail Spec-Ops | Planned purchase; convert/paint to match Tanuki. |
+| Monstrucker | Owned Ariadna female miniature or Jackal | Choose donor later; no purchase. |
+
+Conversions remain planned, not completed; do not field Shurayuki and her converted Hatamoto as separate models. See [Shindenbutai buy list](shindenbutai-buy-list.md).
+
 ## Vanilla PanOceania (vPanO)
 
 ### To buy
@@ -127,6 +148,6 @@ References: [White Company tactical guide](../white-company.md), [White Company 
 
 | Retailer | USD | Approx. CAD |
 |---|---:|---:|
-| Miniatures Market (Steel Phalanx + vPanO + vAriadna/Caledonia + White Company) | $247.84 | $346.98 |
+| Miniatures Market (Steel Phalanx + Shindenbutai + vPanO + vAriadna/Caledonia + White Company) | $253.28 | $354.59 |
 
 Excludes shipping and taxes.
